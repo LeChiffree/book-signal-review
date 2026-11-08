@@ -1,0 +1,793 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 18\Baskı 18\Günlük Trading Stratejisi - Türkçe ve İngilizce - Index Trader (41 sayfa) - @eseckal.pdf
+PAGES: 41
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İÇİNDEKİLER
+Başlık Sayfası
+Telif hakkı
+GİRİİŞ
+GÜNLÜK TİCARET
+VWAP
+GÖRELİ GÜÇ ENDEKSİ
+YÖN HAREKETİ ENDEKSİ VE ORTALAMA YÖN ENDEKSİ
+ORTALAMA GERÇEK ARALIK
+STRATEJİ
+DURDURMA ZARARINIZI NASIL GİRECEKSİNİZ VE ORTALAMA 
+GERÇEK ARALIK (ATR) İLE BİR KAR HEDEFİNİ NASIL 
+KORUYACAKSINIZ
+TİCARET STRATEJİSİ İLE GRAFİKLERİN VAKA 
+ÇALIŞMALARI
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+GİRİİŞ
+Bu kitapta, size günlük işlem stratejisinin nasıl çalıştığını göstereceğim. 
+Uzun ve kısa sinyalleri nasıl belirleyeceğinizi ve sizin için nasıl işe 
+yarayacağını göstereceğim. Bu kitabın amacı, işlem kararınızın tam 
+kontrolünü ele geçirmenizi sağlamak ve kendinize güvenen ve bağımsız 
+bir tüccar olmanıza yardımcı olmaktır. Bu kitap, stratejiyi işlem yapmak 
+için adım adım bir yaklaşımın nasıl izleneceğini gösteriyor ve ayrıca bu 
+stratejiyi düzgün bir şekilde nasıl uygulayacağınıza dair kesin kuralları da 
+verdim. Bu stratejiyi uygulamak için her adım düzgün bir şekilde 
+açıklanmıştır, böylece yeni başlayanlar veya profesyoneller bu stratejiyi 
+düzgün bir şekilde anlayabilir. Umarım okuyacaklarınız bilgi edinmenize 
+yardımcı olur ve daha iyi bir tüccar olmak için bir adım öne geçebilirsiniz. 
+Keyifli okumalar!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+GÜNLÜK TİCARET
+Günlük işlem genellikle tek bir işlem günü içinde bir menkul kıymeti satın 
+alma ve satma uygulamasına atıfta bulunur. Herhangi bir pazarda 
+gerçekleşebilse de, en yaygın olarak döviz (forex) ve hisse senedi 
+piyasalarında görülür. Çok likit hisse senetlerinde veya dövizlerde 
+meydana gelen küçük fiyat hareketlerinden yararlanmak için yüksek 
+miktarda kaldıraç ve kısa vadeli işlem stratejileri kullanırlar.
+Günlük yatırımcılar, kısa vadeli piyasa hareketlerine neden olan 
+olaylara uyum sağlar. Haberlere dayalı işlem yapmak popüler bir 
+tekniktir. Ekonomik istatistikler, şirket kazançları veya faiz oranları 
+gibi planlanmış duyurular piyasa beklentilerine ve piyasa 
+psikolojisine tabidir ve bu nedenle 2 şey olabilir hisse senedi fiyatı 
+önemli ölçüde yukarı veya aşağı hareket edecektir ve burada işlem 
+yapmak hareketten yararlanmanın en iyi yoludur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+VWAP
+Hacim ağırlıklı ortalama fiyat (VWAP), yatırımcılar tarafından 
+kullanılan ve hem hacme hem de fiyata dayalı olarak bir menkul 
+kıymetin gün boyunca işlem gördüğü ortalama fiyatı veren bir 
+işlem ölçütüdür. Yatırımcılara hem trend hem de bir menkul 
+kıymetin değeri hakkında fikir verdiği için önemlidir.
+HESAPLAMA
+VWAP= ∑Fiyat * Hacim/∑Hacim
+VWAP hesaplamasında beş adım bulunmaktadır.
+İlk olarak, günlük dönem için tipik fiyatı hesaplayın. Bu, 
+yüksek, düşük ve kapanışın ortalamasıdır: {(H+L+C)/3)}.
+İkinci olarak, tipik fiyatı dönemin hacmiyle çarpın.
+Üçüncüsü, bu değerlerin toplamını oluşturun. Bu, 
+kümülatif toplam olarak da bilinir.
+Dördüncüsü, toplam hacmi (kümülatif hacim) yaratın.
+Beşincisi, fiyat-hacim toplamını hacim toplamına bölün.
+VWAP TEMEL SİNYALLERİ
+Basit yükseliş ve düşüş geçişi 
+Basit boğa geçişinin grafiği
+Zaman dilimi - 5 dakika
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Yukarıdaki grafikte fiyatların VWAP'ın üzerinde nasıl 
+kapandığını görebilirsiniz. Ve sonra fiyatlar yükseldi.
+Bunlara basit boğa VWAP geçişleri denir.
+Basit düşüş geçişinin grafiği
+Zaman dilimi - 5 dakika
+Yukarıdaki grafikte fiyatların VWAP'ın altına nasıl kapandığını 
+görebilirsiniz. Ve sonra fiyatlar bunun altına düştü, bunlara 
+basit ayı VWAP geçişleri denir.
+Şimdi, bu tip geçişlerdeki (ister boğa ister ayı olsun) en büyük 
+sorun, bunların yalnızca piyasada bir momentum olduğunda veya 
+fiyat aşağı veya yukarı yönlü bir eğilim gösterdiğinde işe 
+yaramasıdır.
+Trend olmayan piyasanın grafiği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Zaman dilimi - 5 dakika
+Yani, yukarıdaki grafikte fiyatta ve VWAP'ta çok fazla kırbaçlama 
+görebiliyoruz. Nifty yatay bölgede olduğundan, yani piyasanın net 
+bir momentumu olmadığından, sonuçta birçok kayba yol açıyor.
+BUNU ÖNLEMEK İÇİN BİR MOMENTUM GÖSTERGESİ 
+EKLEYECEĞİM, BÖYLECE BU TÜR KIRPINTILARI 
+ÖNLEYEBİLİR VE GERÇEKTEN TREND OLAN VE İYİ BİR 
+MOMENTUMA SAHİP OLAN ŞEYLERLE TİCARET 
+YAPABİLİRİZ. SONRAKİ BÖLÜMDE BİR MOMENTUM 
+GÖSTERGESİ EKLEYEREK VWAP'IN NASIL YAPILACAĞINI 
+GÖSTERECEĞİM.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+GÖRELİ GÜÇ ENDEKSİ
+Haziran 1978'de Welles Wilder, Commodities Magazine için 
+yazdığı bir makalede Göreceli Güç Endeksini ticaret 
+topluluğuna tanıttı. Klasik kitabı New Concepts in Technical 
+Trading Systems'da; Bay Wilder, Göreceli Güç Endeksini 
+hesaplama ve yorumlama konusunda adım adım talimatlar 
+verdi.
+Göreceli Güç Endeksi'nin yatırımcılar arasında hızla 
+popüler olmasının birçok nedeni vardır. Günlük bir çubuk 
+grafikle birlikte elle çizildiğinde, piyasa zirveleri ve dip 
+noktaları, grafik oluşumları, piyasa geri dönüşleri, 
+destek/direnç alanları ve
+fiyat/gösterge sapması Göreceli Güç Endeksi, fiyatların trend olup 
+olmadığını, bir piyasanın aşırı alım veya aşırı satım durumunda olup 
+olmadığını ve bir işleme girmek veya çıkmak için en iyi fiyatı 
+gösterme yeteneğine sahiptir. Ayrıca hangi işlem zaman diliminin en 
+aktif olduğunu gösterebilir ve destek ve direncin temel fiyat 
+seviyelerini belirlemede bilgi sağlar. Ancak, Göreceli Güç Endeksini 
+tam olarak anlamak için, önce fiyat davranışının onu nasıl etkilediğini 
+anlamamız gerekir. RSI, 0 ile 100 arasında dalgalanır. Bu değer, bir 
+dizi zaman dilimi boyunca hesaplanan ortalama yakın zaman dilimi 
+fiyat kazançlarının ortalama yakın zaman dilimi fiyat kayıplarına 
+oranını temsil eder. Başka bir deyişle, bir menkul kıymetin veya 
+piyasanın iç gücünü karşılaştırır.
+RSI'da bazı temel noktalar
+• Son kazançların büyüklüğünü son kayıplarla 
+karşılaştırır
+Bir varlığın AŞIRI ALIM ve AŞIRI SATIM durumunu 
+belirlemek.
+• RSI = 100 – 100/(1+RS)
+• RS = Göreceli Güç, yani yükseliş günlerinin ortalaması / düşüş günlerinin 
+ortalaması.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+• RSI, trend yükselirken fiyatların daha yüksek, düşerken ise 
+daha düşük seviyelerde kapanma eğiliminde olduğu gözlemine 
+dayanmaktadır.
+• RSI sadece kapanış fiyatını kullanır, günlük aralığı değil.
+• Standart uygulama 14 günlük bir zaman diliminin kullanılmasıdır.
+• Güçlü trend gösteren piyasalarda Aşırı Alım ve Aşırı Satış seviyelerinin 
+kendiliğinden yer değiştirdiği görülmektedir.
+• Güçlü Boğa Piyasaları RSI 80 – 40 seviyeleri arasında 
+dalgalanıyor.
+• Güçlü Ayı Piyasaları RSI 60 – 20 seviyeleri arasında 
+dalgalanıyor.
+GRAFİK NASIL ÇİZİLİR
+1. GÖRELİ GÜÇ ENDEKSİ RSI'sini (14) çizin.
+2. ORTALAMA YÖN ENDEKSİ (ADX) ÇİZİN.
+3. HACİM AĞIRLIKLI ORTALAMA FİYATI (VWAP) 
+ÇİZİN.
+4. ORTALAMA GERÇEK ARALIĞI (ATR) ÇİZİN.
+(NOT:TÜM BU TEKNİK GÖSTERGELERİ HERHANGİ BİR BROKER 
+YAZILIMINDA VEYA HERHANGİ BİR TİCARET WEB SİTESİNDE 
+BULABİLİRSİNİZ)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+YÖNLENDİRME HAREKETİ
+ENDEKS VE ORTALAMA
+YÖNLENDİRME ENDEKSİ
+Yön Hareketi Endeksi (DMI), bir menkul kıymetin trend olup 
+olmadığını belirlemeye yardımcı olur ve trendin gücünü ölçmeye 
+çalışır. DMI, menkul kıymetin yönünü göz ardı eder. Sadece bir 
+trend olup olmadığını ve trendin gücünü belirlemeye çalışır.
+Gösterge üç gösterge çizgisinden oluşur:
+Pozitif Yön Göstergesi (+DMI) bugünün yüksek fiyatı ile 
+dünün yüksek fiyatı arasındaki farkı gösterir. Bu 
+değerler daha sonra geçmiş 14 periyottan toplanır ve 
+çizilir.
+Negatif Yön Göstergesi (–DMI), bugünün düşük fiyatı ile 
+dünün düşük fiyatı arasındaki farkı gösterir. Bu değerler 
+daha sonra geçmiş 14 dönemden toplanır ve çizilir.
+Ortalama Yön Hareketi Endeksi (ADX). ADX, DX'in bir 
+yumuşatmasıdır. Basit bir hareketli ortalama ile 
+yumuşatılır.
+Bu gösterge nasıl sinyal üretir?
++DI, –DI'yi aşağıdan kestiğinde alım sinyali oluşur.
+-DI'nin +DI'yi yukarıdan kesmesi satış sinyali oluşturur.
+Burada ADX'in yalnızca varlığın trend gücünü tespit etmek için kullanıldığını 
+unutmayın. Peki trend olan ve trend olmayan hareketi nasıl veriyor?
+ADX yükseldiğinde – Varlıkta güçlü bir yukarı veya 
+aşağı hareket görülür.
+Ve ADX düştüğünde - Fiyattaki konsolidasyon veya 
+trenddeki momentum yavaşlar. Bunlar birkaç temel
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+ADX'in nasıl çalıştığına dair kural.
+Ancak bu stratejide ADX'i yalnızca trend yönü için kullanacağız. 
+ADX'in diğer göstergelerle nasıl kullanılacağı bu kitapta daha 
+sonra ele alınacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+ORTALAMA GERÇEK ARALIK
+Ortalama gerçek aralık (ATR), bir varlığın belirli bir zaman dilimi içerisinde 
+ortalama olarak ne kadar hareket ettiğini gösteren bir oynaklık göstergesidir.
+ATR'yi hesaplamak için öncelikle aşağıdaki formül kullanılarak gerçek 
+aralık hesaplanır:
+T = Y – L
+Ç = H –
+P
+Ç = P – L
+T =Gerçek Aralık.
+H = cari dönemdeki en yüksek fiyat. L = 
+cari dönemdeki en düşük fiyat. P = 
+önceki dönemin kapanış fiyatı.
+Hesaplamada en yüksek mutlak değer kullanılır.
+Her periyot için değerler kaydedilir ve ardından bir ortalama 
+alınır. Genellikle hesaplamada kullanılan periyot sayısı 
+14'tür.
+NASIL KULLANILIR VE YORUMLANIR
+ORTALAMA GERÇEK ARALIK
+Stop loss ve hedef için bir araç olarak kullanılır. Stop büyüklüğü 
+ve tahmini hedef, ATR'nin katlarında kullanılabilir. (Size 
+öğreteceğim
+ATR'nin özellikleri şunlardır:
+1. Fiyat oynaklığındaki artış ATR değerini artırır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+2. ATR'nin yüksek veya aşırı değerleri genellikle piyasadaki fiyat 
+zirvelerine ve diplerine eşlik eder.
+3. ATR, zarar durdurma, hedef ve ayrıca takip eden zarar durdurma emirlerini belirlemek 
+için kullanılabilir.
+4. Hedef ve zarar durdurma seviyelerini belirlemek için ATR katları kullanılır.
+5. Ortalama Gerçek Aralık, piyasadaki oynaklığın genel korku/
+açgözlülük veya rehavet seviyesi açısından iyi bir göstergesidir; 
+çünkü yüksek okumalar potansiyel trend sonlandırma noktalarını, 
+düşük okumalar ise potansiyel trend başlangıç   noktalarını gösterir.
+BU KİTAPTA, STOP LOSS VE HEDEF AYARLAMAK İÇİN 
+ATR DEĞERİNİN NASIL KULLANILACAĞINI 
+TARTIŞACAĞIZ.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+STRATEJİ
+Nifty future long'un grafiği
+Zaman dilimi – 15 dk 
+Stratejinin kuralları
+1. Fiyatlar VWAP'ın üzerinde olmalı veya VWAP'ın üzerinde kapanmalıdır.
+2. RSI'ın aşağıdan 60'ın üzerine çıkması gerekiyor.
+3. ADX yükselmelidir.
+4. Mumun en yüksek seviyesinde (yukarıdaki tüm koşullar 
+sağlandığında) giriş yapın.
+Kısa vadeli Nifty Future grafiği
+Zaman dilimi – 15 dk 
+Stratejinin kuralları
+1. Fiyatlar VWAP'ın altında olmalı veya VWAP'ın altında kapanmalıdır.
+2. RSI'ın yukarıdan 40'ın altına inmesi gerekiyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+3. ADX yükselmelidir.
+4. Mumun en düşük seviyesinden (yukarıdaki tüm koşullar 
+sağlandığında) giriş yapın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+DURDURMA LOSSUNUZA NASIL 
+GİRİLİR VE NASIL TUTULUR
+KÂR HEDEFİ İLE
+ORTALAMA GERÇEK ARALIK (ATR)
+SATIN ALMA GİRİŞİ İÇİN
+Mumun en yüksek noktasına bir satın alma girişi 
+koyduğumuz için. O mumun ATR değerini alın.
+O halde ATR değerinin 23 olduğunu varsayalım.
+Peki ATR ile hedef ve stop loss nasıl hesaplanır?
+Öncelikle pozisyonunuzu girdiğiniz ATR değerini alın.
+Diyelim ki ATR değeri 23 olsun, 23'ü alıp mumun en 
+yüksek noktasından (giriş noktanız) stop loss olarak 
+koyarsınız.
+Bir sonraki adım bir hedef koymak olacak. Yani, ATR değeri 23'ü 
+alın ve 2 ile çarpın, bu 46 olacak ve bunu giriş noktasından (yani 
+mumun en yükseği) hedef olarak tutun.
+Zarar durdurma ve hedefin nasıl tutulacağına dair net bir yol elde etmek için bu 
+örneğe bakın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Giriş noktanızın (mum tepesi) olduğunu varsayalım
+10500.
+Zarar Durdurma - 10500 – 23 (ATR DEĞERİ) =10477bu sizin stop 
+loss'unuz olacak.
+Hedef - 10500 + 46 (2x ATR DEĞERİ) =10546hedefiniz 
+bu olacak.
+Yani yukarıdaki grafikte hedeflenen değerin ATR değerinin 2 
+katına çıkması ve kar alınması durumunda gerçekleştiğini 
+görebilirsiniz.
+Mükemmel 1:2 risk-ödül oranıyla.
+SATILIK GİRİŞ
+Bu mumun ATR değerini alın. O zaman, ATR 
+değerinin 23 olduğunu varsayalım.
+Peki ATR ile hedef ve stop loss nasıl hesaplanır?
+Öncelikle pozisyonunuzu girdiğiniz ATR değerini alın.
+Diyelim ki ATR değeri 23 olsun, 23'ü alıp mumun en düşük 
+seviyesinden (giriş noktanız) stop loss olarak koyuyorsunuz.
+Bir sonraki adım bir hedef koymak olacak. Yani, ATR değeri 23'ü alın 
+ve 2 ile çarpın, bu 46 olacak ve bunu giriş noktasından (yani 
+mumun en düşük seviyesi) hedef olarak tutun.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Zarar durdurma ve hedefin nasıl tutulacağına dair net bir yol elde etmek için bu 
+örneğe bakın.
+Giriş noktanızın (mumdaki en düşük nokta) şu olduğunu 
+varsayalım:10300.
+Zarar Durdurma - 10300 + 23 (ATR DEĞERİ) =10277bu sizin stop 
+loss'unuz olacak.
+Hedef - 10300 - 46 (2x ATR DEĞERİ) =10254hedefiniz bu 
+olacak.
+Yani, yukarıdaki grafikte görebilirsinizhedef başarıldıATR değerinin 2 
+katına ulaşma hedefimize ulaştığımız ve kar elde ettiğimiz zamandır.
+Mükemmel 1:2 risk-ödül oranıyla.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+GRAFİKLERİN VAKA ÇALIŞMALARI
+TİCARET İLE
+STRATEJİ
+KISACA KONTAYNER CORP ŞEMASI
+Yukarıdaki grafikte görebileceğiniz gibi, 
+1. RSI yukarıdan 40'ın altına indi.
+2. ADX eş zamanlı olarak yükseliyor.
+3. Fiyatlar VWAP seviyesinin altında kapanıyor.
+4. Bu nedenle, mumun en düşük seviyesinden girin ve önceki 
+bölümde tartışıldığı gibi stop loss ve hedefinizi koruyun.
+TITAN'IN UZUN VADELİ GRAFİĞİ
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Yukarıdaki grafikte görebileceğiniz gibi, 1. 
+RSI aşağıdan 60'ın üzerine çıktı.
+2. ADX eş zamanlı olarak yükseliyor.
+3. Fiyatlar VWAP seviyesinin üzerinde kapanıyor.
+4. Bu nedenle, mumun en yüksek seviyesinden girin ve önceki 
+bölümde tartışıldığı gibi stop loss ve hedefinizi koruyun.
+RELIANCE TABLOSU KISA SÜREDE
+Yukarıdaki grafikte görebileceğiniz gibi, 
+1. RSI yukarıdan 40'ın altına indi.
+2. ADX eş zamanlı olarak yükseliyor.
+3. Fiyatlar VWAP seviyesinin altında kapanıyor.
+4. Bu nedenle, mumun en düşük seviyesinden girin ve önceki 
+bölümde tartışıldığı gibi stop loss ve hedefinizi koruyun.
+NIFTY'NİN UZUN VADELİ GRAFİĞİ
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Yukarıdaki grafikte görebileceğiniz gibi, 1. 
+RSI aşağıdan 60'ın üzerine çıktı.
+2. ADX eş zamanlı olarak yükseliyor.
+3. Fiyatlar VWAP seviyesinin üzerinde kapanıyor.
+4. Bu nedenle, mumun en yüksek seviyesinden girin ve önceki 
+bölümde tartışıldığı gibi stop loss ve hedefinizi koruyun.
+BU KİTABI OKUDUĞUNUZ İÇİN TEŞEKKÜRLER. HERHANGİ BİR SORUNUZ 
+OLURSA LÜTFEN BANA E-POSTA GÖNDERMEKTEN ÇEKİNMEYİN - 
+indextradingstrategies@gmail.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+CONTENTS
+Title Page
+Copyright
+INTRODUCTION
+DAY TRADING
+VWAP
+RELATIVE STRENGTH INDEX
+DIRECTIONAL MOVEMENT INDEX AND AVERAGE
+DIRECTIONAL INDEX
+AVERAGE TRUE RANGE
+THE STRATEGY
+HOW TO ENTER YOUR STOP LOSS AND HOW TO KEEP
+A PROFIT TARGET WITH AVERAGE TRUE RANGE
+(ATR)
+CASE STUDIES OF CHARTS WITH THE TRADING
+STRATEGY
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+INTRODUCTION
+In this book, I am going to show you how day trading strategy
+works. How to identify a long and short signal and how to
+make it work for you. The purpose of this book is to empower
+you to take full control of your trading decision and help you
+in becoming confident and independent trader. This book
+shows you how to take a step by step approach to trade the
+strategy and I have also given the exact rules on how to
+implement this strategy properly. Each and every step to
+implement this strategy is properly explained so a beginner or
+professional will understand this strategy properly. I hope what
+are you about to read will help you gain knowledge and you
+can be a step forward to become a better trader. Enjoy reading!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+DAY TRADING
+Day trading usually refers to the practice of purchasing and
+selling a security within a single trading day. While it can
+occur in any marketplace, it is most common in the foreign
+exchange (forex) and stock markets. They use high amounts of
+leverage and short-term trading strategies to capitalize on
+small price movements that occur in highly liquid stocks or
+currencies.
+Day traders are attuned to events that cause short-term market
+moves. Trading based on the news is a popular technique.
+Scheduled announcements such as economic statistics,
+corporate earnings, or interest rates are subject to market
+expectations and market psychology and because of that 2
+things can happen stock price will move up or down in a
+significant way and to take trade here is the best way to take
+advantage of the move.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+VWAP
+The volume weighted average price (VWAP) is a trading
+benchmark used by traders that gives the average price a
+security has traded at throughout the day, based on both
+volume and price. It is important because it provides traders
+with insight into both the trend and value of a security.
+CALCULATION
+VWAP=  ∑Price * Volume/∑Volume
+There are five steps involved in the VWAP calculation.
+First, compute the typical price for the intraday period. This is
+the average of the high, low, and close: {(H+L+C)/3)}.
+Second, multiply the typical price by the period’s volume.
+Third, create a running total of these values. This is also
+known as a cumulative total.
+Fourth, create a running total of volume (cumulative volume).
+Fifth, divide the running total of price-volume by the running
+total of volume.
+VWAP BASIC SIGNALS
+Simple bullish and bearish crossover
+Chart of simple bullish crossover
+Time frame - 5 minute
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+In the above chart, you can see how prices closed above
+VWAP. And then the prices has went up.
+ This are called as simple bullish VWAP crossovers.
+Chart of simple bearish crossover
+Time frame - 5 minute
+In the above chart, you can see how prices has closed below
+VWAP. And then the prices has went below this are called as
+simple bearish VWAP crossovers.
+Now, the biggest problem in this type of crossovers (whether
+bullish or bearish) they only work when there is momentum or
+in the market or the price is trending on the down side or the
+upside.
+Chart of non- trending market
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Time frame - 5 minute
+So, in the above chart we can see a lot whipsaw in the price
+and VWAP. As the nifty is in the sideways zone that is the
+market does not have a clear momentum so ultimately leading
+to many losses.
+TO AVIOD THIS I WILL BE ADDING A MOMENTUM
+INDICATOR SO WE CAN AVIOD THESE KIND OF
+WHIPSAWS AND ACTUALLLY TRADE WHAT IS
+TRENDING AND WHICH IS HAVING A GOOD
+MOMENTUM. IN THE NEXT CHAPTER I WILL SHOW
+HOW TO VWAP WITH ADDING A MOMENTUM
+INDICATOR.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+RELATIVE STRENGTH INDEX
+In June 1978, Welles Wilder introduced the Relative Strength
+Index to the trading community in an article for Commodities
+Magazine. In his classic book, New Concepts in Technical
+Trading Systems.; Mr. Wilder provided step-by-step
+instructions on calculating and interpreting the Relative
+Strength Index.
+There are many reasons that the Relative Strength Index
+quickly became so popular with traders. When hand plotted in
+conjunction with a daily bar chart, it provided interpretative
+information on market tops and bottoms, chart formations,
+market reversals, areas of support/resistance, and
+price/indicator divergence the Relative Strength Index has the
+ability to indicate whether prices are trending, when a market
+is overbought or oversold, and the best price to enter or exit a
+trade. It can also indicate what trading timeframe is most
+active and provides information in determining key price
+levels of support and resistance. However, in order to fully
+understand the Relative Strength Index, we must first
+understand how price behavior affects it. RSI oscillates
+between 0 and 1 00. This value represents a ratio of the
+average recent time period price gains; to the average recent
+time period price losses calculated over a number of time
+periods. In other words, it compares the internal strength of a
+security or market.
+Some basic points on RSI
+• Compares the magnitude of recent gains to recent loss in
+order to
+determine OVERBOUGHT & OVERSOLD condition of an
+asset.
+• RSI = 100 – 100/(1+RS)
+• RS = Relative Strength i.e., average of up days /average of
+down days.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+• RSI is based upon the observation that prices tend to close
+higher when the trend is rising and tend to close lower when
+the trend is falling.
+• RSI utilizes only closing price, not the daily range.
+• Standard practice is to use a time period of 14 days.
+• It is noticed that in strongly trended markets the Overbought
+& Oversold levels shifts themselves.
+• Strong Bullish Markets RSI oscillates between 80 – 40
+levels.
+• Strong Bearish Markets RSI oscillates between 60 – 20
+levels.
+HOW TO PLOT THE CHART
+1. PLOT A RELATIVE STRENGTH INDEX RSI (14).
+2. PLOT A AVERAGE DIRECTIONAL INDEX (ADX).
+3. PLOT A VOLUME WEIGHTED AVERAGE PRICE
+(VWAP).
+4. PLOT A AVERAGE TRUE RANGE (ATR).
+(NOTE: YOU CAN GET ALL OF THIS TECHNICAL
+INDICATORS IN ANY BROKER SOFTWARE OR ANY
+TRADING WEBSITE)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+DIRECTIONAL MOVEMENT
+INDEX AND AVERAGE
+DIRECTIONAL INDEX
+The Directional Movement Index (DMI) assists in determining
+if a security is trending and attempts to measure the strength of
+the trend. The DMI disregards the direction of the security. It
+only attempts to determine if there is a trend and that trends
+strength.
+The indicator is made up of three indicator lines:
+Positive Directional Indicator (+DMI) shows the difference
+between today’s high price and yesterday’s high price. These
+values are then added up from the past 14 periods and then
+plotted.
+Negative Directional Indicator (–DMI) shows the difference
+between today’s low price and yesterday’s low price. These
+values are then summed up from the past 14 periods and
+plotted.
+Average Directional Movement Index (ADX). ADX is a
+smoothing of the DX. Which is smoothed by a simple moving
+average.
+How this indicator generates signal
+Whenever the +DI crosses the –DI from below it generates a
+buy signal.
+Whenever the -DI crosses +DI from above it generates a sell
+signal.
+Just note here ADX is used only to detect the trend strength of
+the asset. So how does it gives trending and non-trending
+move.
+Whenever the ADX rises – A strong upward or downward
+movement in the asset is seen.
+And when the ADX falls - The consolidation in the price or
+the momentum in the trend slows down. This are the few basic
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+rule of how ADX works.
+But, in this strategy we are only going to use ADX for
+trend direction. How to use ADX with other indicators will
+be covered later in this book.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+AVERAGE TRUE RANGE
+Average true range (ATR) is a volatility indicator that shows
+how much an asset moves, on average, during a given time
+frame.
+To calculate ATR, first the true range is calculated by using the
+following formula:
+T = H – L        
+T= H –
+P                                                                                                  
+                                                  
+T = P – L
+T =True Range.
+H = the highest price of the current period.
+L = the lowest price of the current period.
+P = the closing price of the previous period.
+The highest absolute value is used in the calculation.
+The values are recorded for each period, and then an average
+is taken. Typically, the number of periods used in the
+calculation is 14.
+HOW TO USE AND INTERPRET
+AVERAGE TRUE RANGE
+It is used as a means for stop loss and target. Stop size and
+estimated target can be use in multiple of ATR. (I will teach
+you in the
+The ATR has the following characteristics:
+1. An increase in price volatility increases the value of the
+ATR
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+2. High or extreme values of ATR usually accompany price
+peaks and troughs in the market.
+3. ATR can be used to set stop loss, targets and can also for
+trailing stops.
+4. Multiples of ATR are used to set target and stop losses.
+5. The Average True Range is a good indicator of volatility in
+the market in terms of the general level of fear/greed or
+complacency in that high readings indicate potential trend-
+ending points and low readings indicate potential trend-
+starting points.
+IN THIS BOOK, WE ARE GOING TO DISCUSS HOW
+TO USE ATR VALUE FOR SETTING STOP LOSS AND
+TARGET.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+THE STRATEGY
+Chart of nifty future long
+Time frame – 15 min
+Rules of the strategy
+1. Prices should be above or closing above VWAP.
+2. RSI should go above 60 from below.
+3. ADX should be rising.
+4. Take an entry at the high of the candle (when all of the
+above conditions are fulfilled).
+Chart of nifty future for short
+Time frame – 15 min
+Rules of the strategy
+1. Prices should be below or closing below VWAP.
+2. RSI should go below 40 from above.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+3. ADX should be rising.
+4. Take an entry at the low of the candle (when all of the above
+conditions are fulfilled).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+HOW TO ENTER YOUR STOP
+LOSS AND HOW TO KEEP A
+PROFIT TARGET WITH
+AVERAGE TRUE RANGE (ATR)
+FOR BUY ENTRY
+As we have put a buy entry at the high of the candle.
+Get the ATR value of that candle.
+So, let’s suppose the ATR value is 23.
+So how to calculate target and stop loss with ATR
+First take the ATR value where you have enter your position.
+Let’s suppose the ATR value is 23, you take the 23 and put it
+as stop loss from the high of the candle (that is your entry
+point).
+The next step will be to put a target. So, take the ATR value 23
+and multiply it by 2 that will be 46 and keep this as target from
+the entry point (that is the high of the candle).
+Look at this example to get a clear way how to keep a stop
+loss and target.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Let’s suppose your entry point (which is at the high of the
+candle) is 10500.
+Stop loss - 10500 – 23 (ATR VALUE) = 10477 this will be
+your stop loss.
+Target -      10500 + 46 (2times ATR VALUE) = 10546 this
+will be you target.
+So, in the above chart you can see the target achieved is when
+our target of 2 times the ATR value is reached and we took a
+profit.
+With perfect 1:2 risk to reward ratio.
+FOR SELL ENTRY
+Get the ATR value of that candle.
+So, let’s suppose the ATR value is 23.
+So how to calculate target and stop loss with ATR
+First take the ATR value where you have enter your position.
+Let’s suppose the ATR value is 23, you take the 23 and put it
+as stop loss from the low of the candle (that is your entry
+point).
+The next step will be to put a target. So, take the ATR value 23
+and multiply it by 2 that will be 46 and keep this as target from
+the entry point (that is the low of the candle).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Look at this example to get a clear way how to keep a stop
+loss and target.
+Let’s suppose your entry point (which is at the low of the
+candle) is 10300.
+Stop loss - 10300 + 23 (ATR VALUE) = 10277 this will be
+your stop loss.
+Target -     10300 - 46 (2times ATR VALUE) = 10254 this will
+be you target.
+So, in the above chart you can see the target achieved is when
+our target of 2 times the ATR value is reached and we took a
+profit.
+With perfect 1:2 risk to reward ratio.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+CASE STUDIES OF CHARTS
+WITH THE TRADING
+STRATEGY
+CHART OF CONTAINER CORP FOR SHORT
+In the above chart you can see,
+1. RSI went below 40 from above.
+2. ADX is rising simultaneously.
+3. Prices are closing below VWAP.
+4. So, enter at the low of the candle and keep your stop loss
+and target as discussed in the previous chapter.
+CHART OF TITAN FOR LONG
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+In the above chart you can see,
+1. RSI went above 60 from below.
+2. ADX is rising simultaneously.
+3. Prices are closing above VWAP.
+4. So, enter at the high of the candle and keep your stop loss
+and target as discussed in the previous chapter.
+CHART OF RELIANCE FOR SHORT
+In the above chart you can see,
+1. RSI went below 40 from above.
+2. ADX is rising simultaneously.
+3. Prices are closing below VWAP.
+4. So, enter at the low of the candle and keep your stop loss
+and target as discussed in the previous chapter.
+CHART OF NIFTY FOR LONG
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+In the above chart you can see,
+1. RSI went above 60 from below.
+2. ADX is rising simultaneously.
+3. Prices are closing above VWAP.
+4. So, enter at the high of the candle and keep your stop loss
+and target as discussed in the previous chapter.
+THANK YOU FOR READING THIS BOOK IF YOU HAVE
+ANY QUERIES PLEASE FEEL FREE TO EMAIL ME ON -
+indextradingstrategies@gmail.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]

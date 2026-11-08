@@ -1,0 +1,92 @@
+{
+ "filters": [
+  {
+   "bit": 0,
+   "id": "btc_trend",
+   "label": "BTC > 200d SMA",
+   "label_tr": "BTC 200g SMA üzerinde"
+  },
+  {
+   "bit": 1,
+   "id": "btc_mom",
+   "label": "BTC 30d return > 0",
+   "label_tr": "BTC 30g getirisi pozitif"
+  },
+  {
+   "bit": 2,
+   "id": "btc_calm",
+   "label": "BTC vol <= 1y median",
+   "label_tr": "BTC oynaklığı 1y medyanın altında"
+  },
+  {
+   "bit": 3,
+   "id": "fng_greed",
+   "label": "Fear & Greed >= 50",
+   "label_tr": "Korku/Açgözlülük >= 50"
+  },
+  {
+   "bit": 4,
+   "id": "fng_fear",
+   "label": "Fear & Greed <= 25",
+   "label_tr": "Korku/Açgözlülük <= 25"
+  },
+  {
+   "bit": 5,
+   "id": "liquidity",
+   "label": "Liquidity >= cross-sectional median",
+   "label_tr": "Likidite medyanın üzerinde"
+  },
+  {
+   "bit": 6,
+   "id": "breadth",
+   "label": "Breadth >= 50%",
+   "label_tr": "Piyasa genişliği >= %50"
+  },
+  {
+   "bit": 7,
+   "id": "rel_strength",
+   "label": "Symbol 30d > BTC 30d",
+   "label_tr": "Sembol 30g getirisi BTC’den güçlü"
+  },
+  {
+   "bit": 8,
+   "id": "symbol_trend",
+   "label": "Symbol > 200d SMA",
+   "label_tr": "Sembol 200g SMA üzerinde"
+  },
+  {
+   "bit": 9,
+   "id": "near_high",
+   "label": "Symbol >= 80% of 90d high",
+   "label_tr": "Sembol 90g zirvesinin %80’inde"
+  },
+  {
+   "bit": 10,
+   "id": "low_vol",
+   "label": "Symbol vol <= cross-sectional median",
+   "label_tr": "Sembol oynaklığı medyanın altında"
+  },
+  {
+   "bit": 11,
+   "id": "volume_surge",
+   "label": "Volume > 1.5x 20-bar median",
+   "label_tr": "Hacim 20 barlık medyanın 1.5 katı"
+  },
+  {
+   "bit": 12,
+   "id": "funding_pos",
+   "label": "Last funding > 0",
+   "label_tr": "Son funding pozitif"
+  },
+  {
+   "bit": 13,
+   "id": "funding_neg",
+   "label": "Last funding < 0",
+   "label_tr": "Son funding negatif"
+  }
+ ],
+ "generated_at": "2026-10-31T21:17:47.876469+00:00",
+ "n_symbols": 525,
+ "start": "2022-08-01 00:00:00+00:00",
+ "end": "2026-08-31 00:00:00+00:00"
+}

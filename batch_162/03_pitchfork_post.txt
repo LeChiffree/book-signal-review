@@ -1,0 +1,1132 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 19\Baskı 19\Andrews Pitchfork Kullanarak Bereketli Trading Kazançları Elde Edin - Bryan V Post (53 sayfa) - @eseckal.pdf
+PAGES: 53
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+YAZAR HAKKINDA
+Bryan, otomatik yatırım yazılımları hakkında 
+düzenlenen bir Getrich-Quick seminerine 
+katıldıktan sonra finans piyasalarında yatırım 
+yapmaya ilgi duymaya başladı.
+O zamanlar ticaret hakkında neredeyse hiçbir şey 
+bilmemesine rağmen, nasıl ticaret yapılacağını biliyordu.
+Yılan yağı satan insanları tanıyın ve onlardan uzak durun.
+Ancak seminer Bryan'ın ilgisini çekti ve sonraki birkaç yıl boyunca şunları yaptı:
+Ticaretin nasıl yapılacağı hakkında sayısız kitap okudum, 
+ticaretle ilgili çok sayıda çevrimiçi ve canlı kursa katıldım, 
+karlı bir şekilde swing ticareti ve günlük ticaret yapmaya 
+çalıştım, otomatik ticaret stratejileri geliştirdim ve test ettim, 
+piyasalara defalarca para bağışladım
+Timothy Morge'dan Andrews Pitchfork'u nasıl kullanacağını öğrenmesi, Bryan'ın bir yatırımcı olarak 
+istikrarlı karlılığa giden yolunda dönüm noktası oldu.
+Sonraki yıllarda Bryan, Andrews Pitchfork stratejisinin zarif sadeliğine Fibonacci 
+araçlarını ve Elliott Wave prensibinin unsurlarını ekleyerek ticaret başarısını artırdı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+GİRİİŞ
+İşlem stratejimiz veya işlem yapmayı seçtiğimiz zaman dilimi ne olursa olsun, fiyat grafiklerine bakmak 
+için oturduğumuzda hepimiz aynı soruyu cevaplamak zorundayız:
+"Bu piyasada neler oluyor ve bu piyasada nasıl karlı bir şekilde işlem yapabilirim?"
+Günlük alım satım, Swing alım satımı, Pozisyon alım satımı, Trend takibi— finans piyasalarıyla etkileşim 
+kurma stratejimizin bir önemi yok.
+Piyasalarda ne yapmaya çalışırsak çalışalım, öncelikle fiyatın ne yaptığını anlamamız 
+gerekiyor.
+Teknik göstergeler bu görevde yardımcı olabilir, ancak her zaman fiyat hareketinden geride kalırlar, 
+çelişkili işlem sinyalleri verirler ve hızla korkunç analiz felcine yol açabilirler.
+İhtiyacımız olan şey, fiyatın nereye gideceğini doğru bir şekilde tahmin etmek için güvenilir bir yöntemdirgelecekte .
+Sadece iki tane öngörücü teknik analiz metodolojisi vardır: Andrews Pitchfork stratejisi ve 
+Fibonacci teknikleri.
+Bazı piyasa teknisyenleri Elliott dalga prensibinin doğası gereği öngörücü olduğunu savunacaktır. Ben ise Elliott 
+dalga teorisinin bir bilimden çok bir sanat biçimi olduğunu savunurum.
+Bu kitabın birinci bölümü özel olarak Andrews Pitchfork'a odaklanıyor.
+Eğer deneyimli bir Forker iseniz, kitabın bu bölümü temel prensiplerin ve beş Andrews Pitchfork kuralının 
+hızlı bir incelemesi olarak hizmet edecektir.
+Andrews Pitchfork'a yeniyseniz, hoş geldiniz! Çatallar, ticaret araç setinize koyabileceğiniz en güçlü araçtır, 
+tartışmasız. Bölüm I, sizin için bir başlangıç   noktası görevi görecek.
+Kitabın ikinci yarısı fiyat davranışını anlamakla ilgilidir: Fiyatın şu anda ne yaptığı ve gelecekte 
+ne yapması muhtemel olduğu.
+Fiyat hareketlerinin yorumlanması bağlamında iki öngörücü Fibonacci tekniği 
+sunulmaktadır.
+Bölüm I ve Bölüm II'deki teknikleri entegre ederek, bir yatırımcı giriş/çıkış stratejilerini ve 
+para/risk yönetimi tekniklerini uygulayabileceği bir çerçeve oluşturabilir.
+Hem eski profesyoneller hem de yeni başlayanlar bu kitapta değerli bilgiler bulacak.
+Çatallanmaya devam edin!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+İÇİNDEKİLER
+Bölüm I— Andrews Pitchfork
+Newton / Babson / Andrews / 
+Morge Andrews Çatalı Nasıl Çizilir? 
+Nasıl Kullanılır?
+Andrews Pitchfork'u Kullanmak İçin 5 Kural 
+Standard-Schiff Pitchfork
+Değiştirilmiş-Schiff Pitchfork 
+Paralel Çizgiler
+Sıklık
+Enerji
+Andrews'dan Değiştirilmiş Schiff Geçiş 
+Terminolojisi
+Bölüm II— Teknik Analiz
+Destek ve Direnç
+Enerji
+Fibonacci Geri Çekilmesi
+Fibonacci Uzantısı
+Hacim
+Göstergeler
+MACD
+Yavaş Stokastikler
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+NEWTON / BABSON / ANDREWS / MORGE
+Isaac Newton
+Isaac Newton (1642-1727), hareket ve yerçekimi yasalarını formüle eden bir İngiliz fizikçi ve 
+matematikçiydi. Üçüncü hareket yasası, "Her eylem için eşit ve zıt bir tepki vardır", yasayı 
+derinlemesine inceleyen ve bunu finansal piyasalardaki fiyat davranışına uygulayan Roger 
+Babson'ı meraklandırdı.
+Roger Babson
+Roger Babson (1875-1967) 20. yüzyılın ilk yarısında başarılı bir girişimci ve iş adamıydı.
+1904'te hisse senetlerini, tahvilleri ve iş raporlarını analiz etmek için Babson's Statistical 
+Organization'ı kurarak finansal hizmetler sektörüne öncülük etti. Bu analiz, Wall Street yatırım 
+şirketleri ve bireyler için haber bülteni biçiminde yayınlandı.
+1919'da Massachusetts'te Babson College'ı kurdu. Okul, akademik eğitimle uygulamalı iş 
+eğitimini birleştiren benzersiz bir müfredat sunuyordu. Okulun öğretim kadrosunun çoğunluğu 
+akademisyenler yerine iş adamlarıydı. Bugün Kolej, hem lisansüstü hem de lisans düzeyinde 
+girişimcilik öğretmek için dünya çapında yüksek sıralarda yer almaktadır.
+Babson, 1929 krizini doğru bir şekilde öngördüğü için kamuoyunda takdir görmüştür.
+Ekonomik ve sosyal konularda 40'tan fazla kitabın yanı sıra dergi makaleleri ve gazete köşe 
+yazıları yazan üretken bir yazardı. Ayrıca iş ve finansal eğilimler hakkında dersler verdi.
+Babson, Newton'un üçüncü yasasını fiyat davranışına uygulayarak 50 milyon dolarlık bir servet elde 
+etti. Bu "Eylem - Tepki" tekniklerini Alan Andrews'a öğretti.
+Alan Hall Andrews
+Dr. Alan H. Andrews (??–1985) MIT'de termodinamik profesörüydü.
+Emekli olduktan sonra 'Andrews Action Reaction' seminerini verdi ve haftalık bir haber 
+bülteni yayınladı. Kursundaki materyaller 1960'lar ve 1970'lere aittir. Öğrettiği 
+tekniklerden biri Pitchfork'tu.
+Andrews, çalışmalarının Roger Babson'ın 1930'lardaki "Action - Reaction" çalışmasına dayandığını 
+açıkça belirtti. İki adam bir ticaret seminerinde tanışmış ve arkadaş olmuşlardı. Andrews, Babson'ın 
+öğretilerini takdir ederek seminerine Action Reaction Course adını verdi.
+Timothy Morge
+Dr. Andrews kendi evinde birkaç öğrenciye ders verdi ve genç bir adamken Timothy Morge (1958-
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+2020) bu insanlardan biri olma şansına sahipti. Ticaret ve piyasa bilgisindeki bu erken temelle 
+Timothy, profesyonel bir tüccar olarak oldukça başarılı bir kariyer inşa etti ve nihayetinde diğer 
+tüccarlara ticaret ve mentorluk yaparak yaklaşık 40 yıllık deneyim biriktirdi.
+Timothy tam bir eğitimciydi. MIT, Stanford ve Chicago Üniversitesi'nde (Matematik, Fizik ve Ekonomi 
+alanında üç doktora derecesi aldığı) düzenli bir öğretim görevlisiydi. Ayrıca, web siteleri, makaleleri 
+ve grup mentorluk seansları aracılığıyla daha geniş bir ticaret topluluğunu eğitirken, yüzlerce 
+profesyonel yatırımcıya ve hedge fon yöneticisine özel olarak mentorluk yaptı.
+Timothy, Andrews Pitchfork'u "ticaret araç setimdeki en güçlü araç" olarak tanımladı ve Andrews'un 
+öğretilerini başkalarına aktarmak için çabaladı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+ANDREWS ÇATALINI ÇİZMEK
+Andrews Pitchfork'u tanımlamanın en iyi yolu nedir? Bir tane çizelim ve ilerledikçe 
+tanımımızı geliştirebiliriz.
+Grafik 1. Analiz etmek istediğimiz boş bir grafik
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Bu özel grafikte, bir düşüş trendine baktığımız açıktır. Fiyat düşerken bir Andrews Pitchfork uygulamak 
+için, yüksek-düşük-yüksek fiyat pivotlarından oluşan bir diziye ihtiyacımız vardır, bu yüzden Grafik 2'de 
+etiketlenen üç noktayı seçeceğiz. Bir yükseliş trendinde, önemli bir düşük-yüksek-düşük dizisi arardık.
+Grafik 2. Yüksek-Düşük-Yüksek fiyat dizisi
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Grafik 3'te Yüksek-Düşük-Yüksek dizisinin Düşük ve Yüksek noktaları arasına bir çizgi çiziyoruz ve o çizginin orta 
+noktasını veya medyanını buluyoruz.
+Grafik 3. Çizginin Orta Noktası (veya Medyan)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Üç pivot dizisinin ilk Yüksek noktasını başlangıç   noktamız olarak kullanarak, Grafik 3'te belirlenen 
+orta noktadan geçen bir çizgi çiziyoruz. Sonuç, Grafik 4'te gösterilen mavi medyan çizgisidir.
+Grafik 4. Ortanca Çizgi (ML)
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Grafik 5'te medyan çizgisine paralel iki çizgi çiziyoruz ve başlangıçlarını Düşük ve Yüksek pivot 
+noktalarına yerleştiriyoruz. Bu paralel çizgiler Andrews Pitchfork'un üst ve alt medyan çizgileri 
+haline geliyor.
+Grafik 5. Medyan Çizgisi paralellikleri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Çoğu grafik paketi Andrews Pitchfork aracını içerir, böylece medyan çizgisini ve paralellerini çizme 
+gibi çok adımlı bir süreci takip etmek zorunda kalmayız. Grafik paketimizi kullanarak Grafik 6'da 
+gösterildiği gibi bir Andrews Pitchfork çizeriz.
+Grafik 6. Andrews Pitchfork
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Tüm çatallar eşit yaratılmamıştır.
+Bir çatala dayalı herhangi bir fiyat projeksiyonu yapmadan önce, onun kalitesini veya geçerliliğini 
+değerlendirmemiz gerekir. Bunu yapmak için fiyat ve çatal çizgileri arasındaki etkileşimleri ararız. Grafik 
+7'de bu etkileşimleri vurguladık.
+Grafik 7. Çatal kalitesinin değerlendirilmesi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Grafik 7'deki Çatal, fiyat hareketini oldukça iyi bir şekilde açıklıyor, dolayısıyla 'kanıtlanmış' veya 'geçerli' olduğunu 
+söyleyebiliriz.
+Kanıtlanmış bir çatallanma olduğunda, fiyat hareketi aksini kanıtlayana kadar fiyatın o çatallanmanın medyan 
+çizgilerinde tepki vermeye devam etmesini beklemek makuldür.
+Genel olarak, bir çatalın medyan çizgileri destek/direnç açısından ne kadar çok test edilirse, çatalın fiyat 
+davranışını etkilemeye devam edeceğine dair güvenimiz o kadar artar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+NASIL KULLANIYORUZ?
+Andrews'a göre fiyat, %80 oranında bir çatalın orta çizgisine ulaşacaktır. Bu bilgiyle, bir swing düşük 
+seviyesine yakın uzun pozisyon veya bir swing yüksek seviyesine yakın kısa pozisyon alma fırsatlarını 
+arayabilir ve kar hedefimiz olarak çatalın orta çizgisini kullanabiliriz.
+Kısa pozisyon alma niyetiyle bir piyasayı izlediğimizi varsayalım. Yüksek-düşük-yüksek fiyat pivotları 
+serisi oluştuğunda, Grafik 1'de gösterildiği gibi geçici bir Andrews Pitchfork çizeriz ve fiyat hareketini 
+izlemeye devam ederiz.
+Grafik 1. Geçici Andrews Pitchfork
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Grafik 2'de fiyat, üst medyan çizgisini üç ayrı kez test ederek geçerli bir çatalla çalıştığımıza 
+dair ek bir onay veriyor. İşlem stratejimize bağlı olarak bu üç testten herhangi birinde kısa 
+pozisyon alabiliriz. Muhafazakar davranarak ilk testi çatalın onayı olarak kullanabilir ve yine 
+de kısa pozisyon almak için iki fırsatımız olabilir.
+Piyasaya bir salınım noktasına yakın girme stratejisi, sıkı stoplar kullanmamızı ve risk-ödül oranımızı tahmin 
+etmemizi sağlar. Grafik 2'de işlem yapıyor olsaydık, 58,00$'daki zirvenin üzerinde bir stop-loss emriyle 
+55,00$'dan kısa satış emri girebilirdik. İşlemdeki potansiyel kazancımızı tahmin etmek için çatalın medyan 
+çizgisini kar hedefimiz olarak kullanırdık. Bu durumda medyan çizgisi yaklaşık 45,00$'dır, bu nedenle 3,00$'lık 
+potansiyel bir kayba karşı 10,00$'lık potansiyel bir kazancımız olur ve bu da bize 3:1'den daha iyi bir oran verir.
+Stop-loss'un boyutu ve risk-ödül oranı işlem planımıza uyuyorsa tetiği çekip işlemi 
+gerçekleştirebiliriz. İşlem parametreleri işlem planımıza uymuyorsa daha iyi işlemler ararken 
+sermayemizi güvende tutabiliriz. Her iki alternatif de Andrews Pitchforks kullanılarak mümkün 
+hale getirilir.
+Grafik 2. Olası kısa giriş noktaları
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Grafik 3'te fiyatın, Andrews'un %80 oranında olacağını söylediği gibi, çatalın orta çizgisine ulaştığını 
+görüyoruz. Varsayımsal ticaretimizde, orta çizginin hemen üzerine yerleştirilmiş bir çıkış emrimiz 
+olurdu ve zaman ilerledikçe bu emri daha aşağıya doğru hareket ettirirdik.
+Grafik 3. Fiyat %80 oranında medyan çizgisine ulaşacaktır
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Andrews Pitchfork için ek işlem stratejileri mevcuttur ve bunları diğer örneklerde 
+inceleyeceğiz.
+Andrews Pitchforks aracı, uygulanacak belirli işlem stratejileri sağlamanın yanı sıra, trend 
+yönünü kesin olarak belirlememizi sağlar.
+Grafik 4'e bakın ve fiyatın yükseliş trendinde olduğunu varsaymaya çalışın. Çatal, fiyatın aşağı doğru trendde 
+olduğunu açıkça gösteriyor, zaten öyle değilse.
+Trend olan bir piyasada geçerli bir çatal çizdiğimizde, bu çatal ya yukarı eğimli ya da aşağı eğimli olacaktır, 
+böylece trend hakkında hiçbir belirsizlik olmayacaktır. İster trendle işlem yapıyor olalım ister trendin tersi 
+yönünde işlem yapmaya çalışalım, işlem yapılan zaman diliminde trendi doğru bir şekilde değerlendirmek kritik 
+öneme sahiptir. Andrews Pitchfork tam da bunu yapmamıza izin verdi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Grafik 4. Andrews Pitchfork, fiyatlardaki düşüş eğilimini açıklıyor
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+ANDREWS PITCHFORK KULLANIMI İÇİN 5 KURAL
+Andrews Pitchfork'u kullanmak için beş temel kural vardır:
+1. Fiyatın son medyan çizgisine (ML) ulaşma olasılığı yüksektir.
+2. Fiyat, ML'de geri dönecek, içinden geçecek (yakınlaşacak) veya üstünde/altında 
+konsolide olacak
+3. Fiyat ML'den geçtiğinde geri çekilecek ve devam etmeden önce ML'yi yeniden test 
+edecektir.
+4. Fiyat herhangi bir ML veya ML paralelinde tersine döner
+5. Fiyat ML'ye ulaşmadan önce tersine döndüğünde, ML'ye doğru yükseldiği zamana 
+göre daha fazla ters yönde hareket edecektir (Hagopian Kuralı)
+Kural 1Fiyatın son medyan çizgisine (ML) ulaşma olasılığı yüksektir
+Kural 1, Grafik 1'de gösterilmiştir.
+Grafik 1. Fiyat orta çizgiye düşüyor
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Kural 2.Fiyat, ML'de tersine dönecek, içinden geçecek (yakınlaşacak) veya üstünde/altında konsolide olacak
+Kural 2'nin, fiyatın medyan çizgisine ulaştığı ve daha sonra bu çizginin üzerinden hızla geçtiği Grafik 2'de 
+gösterildiğini görüyoruz.
+Kural 3.Fiyat ML'den geçtiğinde geri çekilecek ve devam etmeden önce ML'yi yeniden test edecektir.
+Kural 3, Grafik 2'de de fiyatın geri çekilmesi ve medyan çizgisini hızla geçtikten sonra tekrar test etmesiyle 
+gösterilmektedir.
+Grafik 2. Fiyat medyan çizgisini yakınlaştırıyor ve yeniden test ediyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Grafik 3'te yakınlaştırma ve yeniden teste yakından bakıyoruz. Yakınlaştırmadan sonra çevik bir 
+tüccarın hızlı işlemler için kısa pozisyon alabileceği iki yeniden testimiz var. Fiyat medyan çizgisinin 
+üzerine geri çıktığında, hala açıksa bu işlemler durdurulur.
+Fiyat ML'nin altına geri düştükten sonra çatalın medyan çizgisinin yeniden test edilmesi için başka 
+bir fırsat elde ederiz. Fiyat medyan çizgisini aşağıdan test ettiğinde ve reddedildiğinde, çatalın hala 
+fiyat hareketini etkilediğine dair bir onayımız olur, bu yüzden giriş emrimizi medyan çizgisinin 
+hemen altına yerleştiririz ve bekleriz.
+Fiyat medyan çizgisini tekrar test ettiğinde emrimiz yürütülür ve bu piyasada ML'nin tekrar test edilmesinin hemen 
+üzerine sıkı bir stop koyarak açığa satış yaparız. Fiyat düştükçe stop emrimizi aşağıya doğru çalıştırırız ve alt medyan 
+çizgisinin hemen üzerinde işlemden çıkarız.
+Grafik 3. Yakınlaştırma medyan çizgisi ve yeniden test— yakın çekim
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Grafik 4'te fiyat medyan çizgisine ulaşır ve daha sonra ML'yi aşağıdan tekrar test etmeden önce boşluk 
+bırakır. Bu özel çatalda fiyat hareketi çatalın medyan çizgisinden hafifçe ofsetlenir ve fiyat zoom'dan 
+sonra hem medyan çizgisini hem de ofset çizgisini tekrar test eder. Grafik 3'te gördüğümüz gibi medyan 
+çizgisinin tekrar test edilmesi bize short alma fırsatı verir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Grafik 4. Ortanca çizgiden geçen boşluk ve yeniden test
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Kural 4.Fiyat herhangi bir ML veya ML paralelinde tersine döner
+Fiyat, Grafik 5'te gördüğümüz gibi medyan çizgisinde tersine dönebilir. Tersine dönüş ayrıca çatalın üst veya alt medyan çizgisinde 
+veya medyan çizgisi paralellerinden herhangi birinde de meydana gelebilir.
+Grafik 5. Fiyat orta çizgide tersine dönüyor
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Kural 5.Fiyat ML'ye ulaşmadan önce tersine döndüğünde, ML'ye doğru yükseldiği zamana göre 
+daha fazla ters yönde hareket edecektir (Hagopian Kuralı)
+Fiyat mevcut çatalın orta çizgisine ulaşamadığında, Hagopian Kuralı fiyatın tersine döneceğini ve 
+muhtemelen zorla tersine döneceğini söyler. Grafik 6'da iyi kalitede görünen geçici bir Andrews Pitchfork 
+görüyoruz. Fiyatın bu çatalın orta çizgisine ulaşmasını makul bir şekilde bekleyebilirdik ancak ulaşmıyor. 
+Fiyat tersine döndüğünde bunu zorla yapar ve hızla aşağı doğru hareket eder.
+Grafik 6. Hagopian Kuralı
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+STANDART-SCHIFF ÇATAL
+Jeremy Schiff, Andrews'un bir öğrencisiydi ve kendi gözlemlerine dayanarak Schiff Pitchfork'u 
+geliştirdi.
+Standart Schiff Çatalı, Andrews Çatalının orijinini, Grafik 1'de gösterildiği gibi yüksek ve alçak 
+noktalar arasındaki dikey mesafenin yarısı (1/2) kadar hareket ettirerek elde edilir.
+Grafik 1. Standart-Schiff çatalı
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Bu standart Schiff çatalı fiyat hareketini oldukça güzel bir şekilde tanımlıyor. Grafik 2'de fiyat ve pitchfork 
+çizgileri arasındaki etkileşimleri vurguluyoruz. Pitchfork'un potansiyel olarak karlı birkaç işlem 
+belirlediğine dikkat edin.
+Grafik 2. Fiyat standart Schiff çatalıyla etkileşime giriyor
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+DEĞİŞTİRİLMİŞ-SCHIFF ÇATAL
+Schiff, dirgenini Andrews'a uzattı ve Andrews bir değişiklik önerdi.
+Değiştirilmiş bir Schiff Çatalı, çatalın kökeninin, Grafik 1'de gösterildiği gibi, dikey mesafenin yarısı 
+(1/2) ve yüksek ile düşük arasındaki yatay mesafenin yarısı (1/2) kadar hareket ettirilmesiyle elde 
+edilir. Çatalın kökeni artık yüksek ve düşük noktalar arasında çizilen mavi trend çizgisinin orta 
+noktasındadır.
+Grafik 1. Değiştirilmiş-Schiff Çatalı
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+PARALEL ÇİZGİLER
+Bir dirgen çizdiğimizde, dirgenin medyan çizgisine paralel çizgiler çizebiliriz. Timothy 
+Morge bunlara 'kayan paralellikler' der çünkü bunları bir grafikte kaydırabiliriz. Bu 
+paralellikler, destek/direnç alanlarını tahmin etmemize yardımcı olur ve fiyat bunlarla 
+etkileşime girdiğinde dirgenin geçerliliğini daha da doğrular.
+Grafik 1'de bir fiyat yükseliş trendini tanımlayan modifiye edilmiş bir Schiff Çatalı var. Fiyat çatal 
+içinde daha yüksek çalışır ve daha sonra bir tükenme hareketinde çatalın üst medyan çizgisini 
+devirir. Bu fiyat artışı sona erdiğinde grafiğimizde fiyat zirvesi seviyesinde kayan bir paralel çizeriz. 
+Kayan paralel, fiyatın gelecekte enerjisinin tükenebileceği bir destek/direnç seviyesini işaretler.
+Grafik 1'de görebileceğimiz gibi, birkaç işlem seansı içinde fiyat bir başka dürtüsel yukarı hareket yapar 
+ancak kayan paralelde enerjisi tükenir. Bu yükseliş sırasında uzun pozisyonda kalırsak kayan paralel bize 
+çıkış yapabileceğimiz veya kısmi karlar alabileceğimiz bir fiyat hedefi verir. Kısa pozisyon almak için 
+fırsatlar arıyorsak fiyatın kayan paralelde başarısız olmasını bekleyebilir ve gerçekleşirse yeniden teste 
+girebiliriz.
+Fiyatın kayan paralelle ikinci kez etkileşime girmesi, geçerli bir çatal belirlediğimizi ve 
+daha da önemlisi, fiyatın hala çataldan etkilendiğini doğrular. Bu bilgiyle, çatalın 
+sağladığı çerçeve içinde işlem planımızı yürütmeye devam edebiliriz.
+Grafik 1. Kayan paralellikler
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Andrews Pitchfork ile birlikte kullanıldığında faydalı olmasının yanı sıra, paralel çizgiler işlem aralıklarını ve fiyat 
+kanallarını (eğik işlem aralıkları) belirlememize de olanak tanır.
+Bir işlem aralığının veya fiyat kanalının ilk tarafı genellikle yatay bir destek/direnç çizgisi veya 
+eğimli bir trend çizgisi olarak çizilir. Aralığın diğer tarafını, ilk çizgiyi kopyalayarak ve klonu 
+mevcut fiyat hareketini kapsayacak şekilde hareket ettirerek buluruz.
+Bir grafikteki fiyat hareketini doğru bir şekilde tanımlayan bir çatal çizmek her zaman mümkün 
+olmayabilir. Bazen paralel çizgiler kavramını uygulamak bir pazara girme ve çıkma fırsatlarını 
+belirleyecektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Grafik 2. İşlem aralıkları ve fiyat kanalları
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+SIKLIK
+Tanımı gereği bir osiloskop "sürekli değişen sinyal voltajlarının gözlemlenmesine 
+olanak tanır". Bir osiloskopla yapabileceğimiz ölçümlerden biri de izlenen sinyalin 
+frekansıdır.
+Şimdi bir fiyat grafiği düşünün ve bunun bir osiloskop ekranı olduğunu hayal edin. Test 
+cihazımızdan geçen fiyat sinyalinin frekansını ölçemez miyiz? Elbette ölçebiliriz.
+Timothy Morge, “Orta Çizgilerle İşlem Yapmak, Piyasaları Haritalamak” adlı kitabında bunu şu şekilde ifade 
+ediyor: “Basitleştirmek adına, Orta Çizginin üç pivot noktası arasındaki ilişki tarafından aktarılan belirli bir 
+frekans taşıdığını söylüyorum.”
+Geçerli bir Andrews Pitchfork belirlediğimizde fiyatın dalgalandığı frekanslardan birini 
+bulmuş oluruz. Herhangi bir grafikte birden fazla frekans olabilir ve belirli frekansların 
+zaman dilimleri ve işlem araçları arasında değişmesi muhtemeldir.
+Fiyat grafiklerindeki bu frekans kavramı, Andrews Pitchfork kullanırken paralel çizgilerin neden yararlı 
+olduğunu açıklamaya yardımcı olur. Geçerli bir pitchfork, belirli bir grafikteki fiyat hareketinin sıklığını belirler 
+ve bu çatala paralel tüm çizgiler aynı frekansa sahiptir ve bu nedenle de geçerlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+ENERJİ
+Andrews Pitchfork'un bizim için trendi tanımladığını gördük. Trend olan bir piyasada geçerli bir pitchfork ya 
+yukarı eğimli ya da aşağı eğimli olacaktır. Bir çatal ayrıca bir piyasa trendinin tersine dönmeden önce 
+enerjisinin ne zaman tükendiğini belirlememize yardımcı olabilir.
+Grafik 1'de uzun vadeli bir yükseliş trendinin fiyat hareketini tanımlayan bir Andrews Pitchfork 
+görüyoruz. Grafikteki son üç fiyat zirvesine bakın ve bu zirvelerden ilkinin üst medyan 
+çizgisinde, sonraki iki zirvenin ise bu çizgiden daha uzakta gerçekleştiğini fark edin.
+Fiyatın üst medyan çizgisine ulaşamaması, trendin enerjisinin tükenmekte olduğunun bir işaretidir 
+ve grafikte fiyatın daha sonra çatalın medyan çizgisine kadar gerilediğini ve düştüğünü görebiliriz.
+Grafik 1. Fiyatın enerji kaybetmesi
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+ANDREWS'DAN DEĞİŞTİRİLMİŞ SCHIFF GEÇİŞİ
+Finans piyasalarına uygulayabileceğimiz az sayıdaki gerçeklerden biri, trendlerin değiştiğidir.
+Güçlü bir trend sonunda enerjisini kaybeder ve yumuşak bir trende dönüşür. Yumuşak trend enerjisini kaybeder ve 
+fiyat yönünü tersine çevirir veya yanlara doğru savrulur.
+Andrews Pitchfork ve çatal varyasyonlarını kullanarak bu değişen eğilimleri oluştukları anda takip 
+edebiliriz.
+Grafik 1'de fiyatın yukarı doğru eğilim gösterdiğini ve Andrews Pitchfork'un eylemi tanımladığını görüyoruz. 
+Fiyat, Andrews'un tahmin ettiği gibi çatalın medyan çizgisine ulaşır ve ardından medyan çizgisi boyunca daha 
+yükseğe doğru ilerler. Bu fiyat hareketi sonunda enerjisini tüketir ve destek arayışında alt medyan çizgisine geri 
+döner.
+Çatalın alt medyan çizgisi boyunca destek bulduktan sonra, fiyat tekrar yükselir ancak çatalın 
+medyan çizgisine ulaşmadan önce enerjisi tükenir. Çatalın medyan çizgisine ulaşamama, fiyat 
+davranışının değişebileceğine dair bir sinyal görevi görür.
+Grafik 1. Andrews Pitchfork'ta enerji kaybeden fiyat
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Fiyat bir Andrews Pitchfork'tan çıktığında, aynı dirgenin modifiye edilmiş Schiff versiyonu çoğu 
+zaman sonraki fiyat hareketini tanımlayacaktır. Grafik 2'de orijinal Andrews Pitchfork noktalı 
+çizgilerle ve modifiye edilmiş Schiff versiyonu ise düz çizgilerle çizilmiştir.
+Fiyatın, modifiye edilmiş Schiff çatalının medyan çizgisi ve alt medyan çizgisiyle nasıl etkileşime girdiğine 
+dikkat edin. Bu çatalın alt kanalında hafifçe yukarı doğru eğilim gösterirken, fiyat medyan çizgisine doğru 
+yükselir ve ikinci denemede ona ulaşır.
+Bu zirveden sonra, fiyat yuvarlanır ve çatalın alt medyan çizgisine (ML) hızla düşer. Alt ML anlık 
+olarak destek sağlar, ancak enerji azalmaya devam eder ve fiyat aşağıya doğru kararlı bir 
+hareket yapar.
+Grafik 2. Fiyat, modifiye edilmiş Schiff Pitchfork'a geçiyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Fiyatın modifiye edilmiş Schiff çatalında enerjisi tükendikten sonra aşağı eğimli çatallara bakmaya 
+başlayabiliriz. Grafik 3'te yeni bir düşüş trendini tanımlayan bir Andrews Çatalı görüyoruz.
+Grafik 3. Fiyat düşüş trendine başlıyor
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+TERMİNOLOJİ
+Grafik 1'de referans için ortak bir terminoloji sağlamak amacıyla çizgileri Andrews Pitchfork'ta 
+etiketledik.
+Orta çizgi paralelliklerine orta çizgi uzantıları da denir.
+Tablo 1. Parçaların adlandırılması
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+BÖLÜM II
+TEKNİK ANALİZ
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+DESTEK VE DİRENÇ
+Grafik 1'de fiyatın bir kanalın tabanında destek, tepesinde ise direnç bulduğunu görüyoruz 
+(1).
+Fiyat yatay bir direnç seviyesine (2) çarpıyor ve ardından yatay hareket ederek son kazanımları 
+sağlamlaştırıyor.
+Kanalın diğer tarafına ulaştıktan ve destek (3) bulduktan sonra, fiyat yatay direnç seviyesini 
+aşmak ve kanalın tepesine kadar ilerlemek için yeterli enerjiyi depolamış olur (4) ve 
+ardından dinlenir.
+Fiyat, bu ani yükselişin ardından konsolide oluyor ve direnç görevi gören yatay seviye, 
+birkaç kez destek sağlıyor (5).
+Yükseliş trendinde direnç destek olur ve tam olarak burada yatay çizgi boyunca gördüğümüz şey 
+budur. Fiyat, daha yükseğe yönelmeden ve kanaldan çıkmadan önce bu yatay seviye boyunca 
+desteği birkaç kez daha test eder (6).
+Zirveye ulaştıktan sonra, fiyat aşağı doğru yönelir ve orijinal kanala geri düşer (7). Üst kanal çizgisi 
+düşüşte destek görevi görür ve ardından fiyat seviyeyi aşağıdan test ettiğinde direnç görevi görür. 
+Destek, düşüş trendinde direnç haline gelmiştir (7).
+Fiyat aşağı doğru hareket eder ve desteğin anlık olarak bulunduğu kanal tabanını test eder (8). Destek 
+başarısız olduğunda, fiyat kanaldan düşer ve daha sonra alt kanal çizgisini aşağıdan test eder (9).
+Fiyat, dar bir kanal içinde aşağı yönlü trendi sürdürüyor. Bu yeni kanalın tepesi, bir aşağı yönlü 
+trendde desteğin nasıl direnç haline geldiğine dair başka bir örnek sunuyor (10).
+Grafik 1. Destek ve direnç
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Grafik 1'de oyunda bazı temel kavramları görüyoruz:
+Direnç, yükseliş trendinde desteğe dönüşür
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+destek, düşüş trendinde direnç haline gelir
+destek ve direnç yatay veya eğik çizgiler boyunca oluşabilir
+Fiyatın önemli destek ve direnç seviyelerini birkaç kez test etmesi muhtemeldir
+Yukarıdaki son madde, destek ve direnç (S/R) seviyelerine dikkat etmemizin temel 
+nedenidir. Bir S/R seviyesi belirlendikten sonra, bu seviyenin sonraki testleri bize piyasaya 
+girip çıkma fırsatları verebilir.
+Kanıtlanmış bir destek veya direnç testi başarısız olduğunda, fiyat davranışının değiştiğini fark 
+ederek değerli bilgiler elde ederiz. Daha sonra ticaret stratejimizi yeni piyasa davranışına göre 
+ayarlayabiliriz.
+S/R seviyelerini bir grafikte ince çizgiler olarak çizmenin biraz yanıltıcı olduğunu unutmayın. S/R seviyelerinin 
+fiyat davranışının muhtemelen etkileneceği bölgeler olduğu fikrini yansıtmak için kalın çizgiler kullanmak daha 
+doğru olacaktır. Grafikler hızla karmaşıklaşabilir, bu yüzden ince çizgiler kullanırız ve çizginin bir bölgeyi temsil 
+ettiğini hatırlarız.
+Yatay Destek ve Direnç
+Grafik 2'de önceki yüksek noktaların tepe noktaları boyunca ve önceki düşük noktaların dip noktalarının altına yatay 
+çizgiler çizilmiştir.
+Bu çizgilerin nerede çizileceği konusunda çok fazla öznellik var. Yükseliş trendinde direncin desteğe 
+dönüştüğü veya düşüş trendinde desteğin dirence dönüştüğü alanları arayın.
+Eğer yatay bir çizgi her iki taraftan da test edilmişse, seviyenin ileride hem destek hem de 
+direnç oluşturması daha olasıdır.
+Yükseliş trendi sırasında fiyatı etkileyen S/R seviyelerinin düşüş trendi sırasında da fiyatı nasıl etkilediğine 
+dikkat edin.
+Grafik 2. Yatay destek ve direnç
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Yuvarlak Sayı Destek ve Direnç
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Yuvarlak sayılar yatay S/R seviyeleri yaratma eğiliminde olan bir diğer faktördür. Bu olgu insan 
+psikolojisinden kaynaklanır.
+Grafik 3'te fiyatın daha yükseğe çıkmadan önce 1000$ seviyesinde karşılaştığı direnci fark edin. 1400$ 
+seviyesi, yuvarlak bir sayının fiyatı etkilemesinin bir başka mükemmel örneğidir.
+Grafik 3. Yuvarlak sayı desteği ve direnci
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Pitchfork Destek ve Direnç
+Grafik 4'te bir fiyat yükseliş trendini tanımlayan mavi bir Andrews Pitchfork'u görüyoruz. Kırmızı Schiff Pitchfork'u bir fiyat 
+düzeltmesini veya düşüş trendini tanımlıyor.
+Fiyat bir çatalın ana kanallarından çıktıkça, burada gördüğümüz gibi çatallara ortanca çizgi 
+paralellikleri ekleyebiliriz. Paralelliklerin, fiyat farklı bir frekansta salınmaya başlayana kadar 
+davranışı etkilemesi muhtemeldir.
+Timothy Morge, iki çatal çizgisinin birleşmesini 'enerji noktaları' veya 'fiyat mıknatısları' olarak tanımlıyor 
+ve fiyatın bu alanlara patlayıcı bir şekilde girip çıkabileceğini belirtiyor. Grafik 4'teki enerji noktaları 
+vurgulanmıştır.
+Grafik 4. Andrews Pitchfork desteği ve direnci
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Fibonacci Geri Çekilme Desteği ve Direnci
+Önemli bir fiyat hareketine baktığımızda, Grafik 5'te gördüğümüz gibi bir Fibonacci düzeltme 
+çalışması uygulamak uygundur. Bu yaygın grafik aracı, bir fiyat hareketinin başlangıcından (A) 
+hareketin sonuna (B) kadar çizilir.
+Fiyatın B noktasında zirveye ulaşıp daha sonra aşağıya düştüğünü fark edin, %23,6 geri çekilme seviyesi 
+bir rahatlama rallisi için destek sağladı. Fiyat, %38,2 geri çekilmeye doğru kararlı bir şekilde aşağı 
+yönelmeden önce bu S/R seviyesiyle birkaç kez etkileşime girdi.
+Fibonacci geri çekilme çalışması, dürtüsel fiyat hareketlerine uygulandığında en doğrudur. 
+Grafik 5'te dürtüsel olmayan çok yıllık bir fiyat hareketini analiz ediyoruz ancak Fibonacci aracı 
+hala önemli S/R bölgelerini tanımlıyor.
+50%'nin çoğu Fibonacci çizim aracında yer almasına rağmen bir Fibonacci seviyesi olmadığını unutmayın. 
+50% değeri, bir fiyat geri çekilmesinden sonra birincil trendin devam edip etmeyeceğini belirlemek için 
+kritik seviye olarak kabul edilen Dow Teorisinden gelir.
+Grafik 5. Fibonacci geri çekilme desteği ve direnci
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Destek ve Direncin Birleşmesi
+Aynı S/R bölgesi birden fazla teknikle belirlendiğinde, bölgenin fiyat hareketini etkilemesini 
+beklemek mantıklıdır. Tüm S/R çalışmalarını tek bir grafikte birleştirebilir ve destek ve 
+direncin bu yakınsamalarını arayabiliriz.
+Genel olarak, grafiklerimizin Grafik 6'daki gibi karmaşık bir karmaşaya benzemesini istemeyiz. Piyasalarda etkili bir şekilde işlem 
+yapmamıza yardımcı olmak yerine, bunun gibi kaotik bir grafik kafa karışıklığına ve kararsızlığa neden olma olasılığı daha yüksektir.
+Bu durumda, farklı destek ve direnç tiplerinin nerede birleştiğini belirlemek için kasıtlı olarak 
+karmaşık bir grafik oluşturuyoruz.
+Sarı vurgular, fiyatın düşüş trendi sırasında S/R seviyelerinin birleşmesiyle etkileşime girdiği 
+örnekleri göstermektedir.
+Bu grafikteki son enerji noktasının Fibonacci 61.8% ile çakıştığını görebiliriz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+geri çekilme seviyesi. Fiyatın enerji noktasına çekilmesi muhtemeldir ve Fibonacci geri 
+çekilme seviyesinden bir miktar destek beklemek de makuldür.
+Bu bilgilere dayanarak, fiyat enerji noktasına doğru hareket ettiğinde kısa pozisyon almak ve ardından fiyat Fibonacci 
+seviyesinden sıçradığında pozisyonumuzu tersine çevirmek için bir işlem stratejisi planlayabiliriz.
+Grafik 6. Destek ve direncin birleşmesi
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+ENERJİ
+Fiyat Eğilimi Enerji Kaybediyor
+Grafik 1'de Andrews Pitchfork uzun vadeli bir yükseliş trendindeki fiyat hareketini tanımlıyor. Trend 
+olgunlaştıkça fiyat üçlü tepe oluşturuyor.
+Üçlü tepe, trendin sonlanmak üzere olduğuna dair bir uyarı işareti olsa da, fiyatın bundan sonra ne 
+yapabileceğine dair ek bir ipucu daha var.
+Grafik 1'deki kırmızı elipsler, üçlü tepedeki her fiyat zirvesinin, çatalın üst medyan çizgisine göre daha 
+düşük bir seviyede gerçekleştiğini vurgulamaktadır.
+Fiyatın üst medyan çizgisine ulaşamaması, yükseliş trendinin enerjisinin tükendiğinin bir işaretidir. 
+Fiyat çatalın medyan çizgisinin altına düştüğünde, uzun vadeli trendin yukarıdan aşağıya doğru 
+değiştiğine dair başka bir gösterge elde ederiz.
+Grafik 1. Fiyat eğilimi enerji kaybediyor
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Pokey Barlar
+'Pokey' çubukları, fiyat hareketinin büyük kısmından dışarı doğru çıkıntı yapan fiyat çubuklarıdır. Bu belirgin 
+çubuklar, fiyat enerjisindeki uç noktaları gösterir ve sıklıkla Andrews Pitchfork ve Fibonacci çalışmalarını çizmek 
+için kullanılan pivot noktalarını sağlarlar.
+Grafik 2'nin sol tarafında fiyat hareketi oynaktır ve çok sayıda pokey bar görüyoruz. Bu yüksek 
+enerjili fiyat barları piyasadaki oynaklığın yüksek olduğunu ve buna göre işlem yapmamız 
+gerektiğini gösteriyor.
+İkinci çatalda fiyat davranışının nasıl değiştiğine dikkat edin. Fiyat, sivri zirveler ve dipler (zıplayan 
+çubuklar) oluşturmak yerine daha yuvarlak tepeler ve dipler oluşturuyor. Bu, oynaklığın veya fiyat 
+enerjisinin azaldığını ve buna göre işlem stratejimizi ayarlayabileceğimizi gösteriyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Grafik 2. Pokey barlar
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Güçlü Barlar / Zayıf Barlar
+Basitleştirmek için güçlü bir fiyat çubuğunu, aralığının üst üçte birinde kapanan bir çubuk olarak 
+tanımlayabiliriz. Tersine, zayıf bir fiyat çubuğu, aralığının alt üçte birinde kapanır.
+Bir fiyat çubuğunun en yüksek ve en düşük noktası arasında büyük bir mesafe kat edildiğinde bunu geniş aralıklı olarak 
+tanımlayabiliriz. Geniş aralıklı çubuklar, fiyat enerjisinin yükseldiğinin bir işaretidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Bireysel bir fiyat çubuğunu alıcılar ve satıcılar arasındaki bir savaş olarak düşünürsek, geniş bir fiyat çubuğu bize 
+büyük bir savaşın gerçekleştiğini ve büyük miktarda enerjinin serbest bırakıldığını söyler. Bu yüksek enerjili çubuklar 
+genellikle fiyat davranışında bir değişikliği işaret eder.
+Geniş aralıklı fiyat çubukları bir fiyat hareketinin başlangıcında veya sonunda ortaya çıktığında, önceki bölümde 
+bahsedilen pokey çubukları elde etme eğilimindeyiz. Japon Mumları bu geniş aralıklı çubuklara Dragonfly Doji 
+ve Gravestone Doji gibi renkli isimlerle atıfta bulunur.
+Dürtüsel Fiyat Hareketi
+Grafik 3'te fiyatın ani bir yükselişle yükseldiği ve önceki iki zirveyi aştığı görülüyor.
+Fizik (veya enerji) dünyasında, 'dürtüsel' genellikle kısa bir süre için uygulanan önemli bir 
+kuvveti ifade eder. Söz konusu kuvvet, şu yeteneğe sahip olması nedeniyle 'önemlidir':
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+değişime neden olur ve zaman periyodu incelenen tüm periyoda kıyasla 'kısa'dır.
+Bu kavramları fiyat grafikleri dünyasına uyarlarsak, 'dürtüsel' terimini kısa bir zaman diliminde meydana 
+gelen önemli bir fiyat değişikliği olarak tanımlayabiliriz.
+Rick Ackerman, herhangi bir hareketin ne kadar dürtüsel olduğunu ölçmek için, hareket sırasında daha önce aşılmış 
+zirvelerin sayısına dayanan bir yöntem öğretiyor.
+Grafik 3'te fiyat, 'önceki zirve #1'e doğru yükselmeden önce çoğunlukla yatay seyrediyor. Sığ bir 
+düzeltmeden sonra fiyat daha da yükseliyor ve yükseliş yolunda önceki iki zirveyi aşıyor, bu da bu 
+hareketi dürtüsel olarak nitelendiriyor.
+Önceki zirveleri aşmanın yanı sıra bu harekette çok sayıda yüksek enerjili fiyat çubuğu da 
+oluşuyor. Dürtüsel hareket iki geniş aralıklı fiyat çubuğuyla başladı ve birden fazla güçlü 
+çubukla devam etti.
+Grafik 3. Dürtüsel fiyat hareketi
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Aşırı Hacim
+Aşırı hacim, yüksek enerjinin bir başka işaretidir. Alıcılar fiyatı zirveye çıkardığında veya satıcılar satış dalgasına 
+teslim olduğunda genellikle yüksek hacim görürüz.
+Grafik 5'te hacim arttıkça fiyatın düştüğünü görüyoruz. Birkaç yüksek hacim patlaması var ve hacim 
+artışlarına karşılık gelen iki tane şişkin fiyat çubuğu elde ediyoruz.
+Yüksek hacimli satış ataklarının her biri teslim satışları olarak görülebilir ancak bu örnekte 
+amansız fiyat düşüşü sona ermemiştir.
+Fiyat yatay seyrettikçe hacim neredeyse yok denecek kadar azalır ve ardından hacim son fiyat dip noktasına 
+doğru önemli ölçüde arttığında başka bir satış dalgası başlar.
+Grafik 5. Aşırı hacim
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Boşluklar
+Belirli bir fiyat aralığında işlem gerçekleşmediğinde finansal grafikte bir boşluk oluşur. Bu boşluklar, depolanan fiyat 
+enerjisinin serbest bırakılmasının görünür göstergeleridir.
+Dört tür fiyat farkı vardır ve bunlar Grafik 6 ve Grafik 7'de gösterilmektedir.
+Bir tükenme boşluğu, bir fiyat hareketinin sonunda oluşur ve fiyat genellikle boşluk oluştuktan sonra davranışını 
+değiştirir. Bir fiyat tersine dönmesi mümkündür ancak fiyat enerjisi düşük olduğundan bir konsolidasyon daha 
+olasıdır. Grafik 6, bir tükenme boşluğundan sonra fiyatın yanlara doğru konsolide olmasına dair bir örnek sunar.
+Boşluklar bazen bir grafik örüntüsü içinde oluşur ve bunlara ortak boşluklar denir. Grafik 6'da bu 
+ortak boşlukların tükenme ve kopuş boşluklarından daha az önemli olduğunu görebiliriz.
+Kopuş boşluğu, fiyat bir tıkanıklık örüntüsünden çıktığında oluşur. Grafik 6'da fiyat, işlem aralığı içinde 
+yanlara doğru hareket ederken enerjisini geri kazanır. Daha sonra depolanan enerji, kopuş boşluğunda 
+aşağı doğru serbest bırakılır ve fiyat düşüş trendine devam eder.
+Grafik 6. Boşluklar
+tam boyutlu grafik şu adreste mevcuttur:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+https://satoritraders.com/andrews-pitchfork/charts
+Grafik 7, kontrolden çıkan boşluklara bir örnek sunmaktadır.
+Fiyat, Grafik 7'deki Andrews Pitchfork'un medyan çizgisi boyunca destek bulduktan sonra, neredeyse en 
+yüksek noktasında kapanan geniş aralıklı bir fiyat çubuğu elde ederiz. Fiyat daha sonra, neredeyse en 
+yüksek noktasında kapanan başka bir geniş aralıklı çubuğa doğru açılır. Fiyat bir kez daha yukarı açılır ve 
+çatalın üst medyan çizgisini iterken son derece geniş aralıklı bir çubuk oluşturur.
+Kaçak boşluklar fiyat enerjisinin aşırı yükseldiğini gösterir. Bu örnekte hem kaçak boşluklar 
+hem de geniş aralıklı fiyat çubukları fiyatın yükseldiğini ve tam olarak da bunun 
+gerçekleştiğini söylüyor.
+Grafik 7. Kaçak boşluklar
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+FİBONACCİ GERİ ÇEKİLME
+Fibonacci düzeltmesi, piyasaların fiyat hareketini kısmen düzelteceğini ve ardından orijinal yönde hareket 
+etmeye devam edeceğini varsayar.
+Yükseliş Trendinde Fiyat Geri Çekilmesi
+Fibonacci düzeltme aracını kullanmanın yollarından biri, devam eden bir yükseliş trendinde giriş noktasını seçmemize 
+yardımcı olmasıdır.
+Grafik 1, Altın vadeli işlemlerinin fiyatının 1750$ seviyesinin üzerine çıktığı bir örneği 
+göstermektedir. Piyasada uzun pozisyon almak istediğimizi ve işlem stratejimizi planladığımızı 
+varsayalım.
+Finansal piyasaların nefes alıp verdiğini bilerek, fiyatın geri çekilmesine izin vermek ve bize daha ucuz bir giriş noktası 
+sağlamak istiyoruz. Fibonacci geri çekilme aracı, bir fiyat geri çekilmesinin yukarı doğru tersine dönmeden önce 
+nerede destek bulabileceğini tahmin etmemize olanak tanır.
+Grafikte Fibonacci düzeltme aracını A noktasından B noktasına olan fiyat hareketine uyguluyoruz ve 
+%23,6, %38,2 ve %50 düzeltme seviyelerine (vurgulanmıştır) odaklanıyoruz.
+38.2% ve 50% seviyelerinde destek yakınsamalarına sahip olduğumuzu fark edin. 38.2%'de mavi Andrews 
+Pitchfork'un alt medyan çizgisine sahibiz ve 50% yatay bir S/R bölgesinin hemen altında.
+Grafik 1. Yükseliş trendindeki Fibonacci geri çekilmesi
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Fiyat halihazırda %23,6'lık bir geri çekilmeyi tamamladı ve yukarı döndü, dolayısıyla geri çekilme sona ermiş 
+olabilir.
+Bir kopuş yatırımcısı, bu sığ geri çekilmeyi, kopuş seviyesinin başarılı bir şekilde yeniden test edilmesi olarak değerlendirebilir 
+ve %23,6 seviyesinin altında bir stop emriyle piyasada uzun pozisyon alabilir.
+Daha muhafazakar yatırımcılar, fiyatın destek noktalarının test edilebileceği %38,2 veya %50 
+seviyelerine geri çekilmesini bekleyecekler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+İyi tanımlanmış ve yazılı işlem kurallarına sahip olmak, böyle bir durumda karar alma sürecimizi 
+basitleştirir. İşlem planımız kopuş stratejileri içeriyorsa, ilgili kurallarımızı takip edebiliriz. İşlem 
+planımız minimum %38,2 geri çekilme gerektiriyorsa, bu gerçekleşene kadar ellerimizi bağlı 
+tutarız.
+Ortak Fibonacci Seviyeleri
+Gerçek hayattaki fiyat davranışlarında sıklıkla görülen geri çekilme seviyeleri sırasıyla %23,6, %38,2, %50 ve %61,8'dir.
+%23,6'lık bir geri çekilme çok sığdır ve hakim trendde devam eden gücü gösterir. Genellikle 
+fiyatın %38,2 ila %61,8 bölgesinde tersine dönmesini bekliyoruz.
+Çoğu Fibonacci geri çekilme aracı, %50'nin bir Fibonacci sayısına dayanmamasına rağmen %50 
+seviyesini içerir. %50 seviyesi, bir fiyat geri çekilmesinden sonra birincil trendin devam edip 
+etmeyeceğini belirlemek için kritik seviye olarak kabul edilen Dow Teorisinden gelir.
+Düşüş Trendinde Rahatlama Rallisi
+Aynı Fibonacci kavramları, aşağı yönlü trend gösteren bir piyasada kısa pozisyon almak istediğimizde de 
+geçerlidir. Bu durumda Fibonacci geri çekilme aracını önemli bir aşağı yönlü fiyat hareketine uygularız ve 
+geri çekilme seviyeleri bize bir ayı piyasası rallisinin enerjisinin tükenip aşağı yönlü fiyat trendine geri 
+dönme olasılığının olduğu yeri gösterir.
+Grafik 2, Brent Petrol'ün yuvarlanmadan ve aşağı yönlü trendine devam etmeden önce %61,8'lik bir fiyat 
+geri çekilmesini tamamladığını gösteriyor. %61,8 Fibonacci seviyesi, modifiye edilmiş Schiff çatalının 
+medyan çizgisi ve yatay S/R seviyesi tarafından sağlanan bir direnç yakınsaması ile çakışıyordu.
+Dirençlerin birleşmesi, rahatlama rallisinin enerjisinin tükenebileceği bir fiyat seviyesini 
+belirledi ve öyle de oldu.
+Grafik 2. Düşüş trendinde Fibonacci geri çekilmesi
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+FİBONACCİ UZANTISI
+Fibonacci uzantı aracı, bir fiyat hareketinin ne zaman sona ereceğini tahmin etmemizi sağlar.
+Bu bilgileri kullanarak potansiyel bir işlem için fiyat hedeflerini belirleyebilir veya bir fiyat hareketinin tamamlanıp 
+tamamlanmadığını değerlendirebiliriz.
+Fiyat Hedeflerinin Tahmini
+Bu örnekte, Grafik 1'deki hisse senedinde aralık ticareti yapıyoruz ve son uzun girişimize yön vermek 
+istiyoruz. Kanalın dibinde pozisyonumuza girdikten sonra, fiyat dürtüsel bir hareketle daha da 
+yükseldi.
+Grafik 1. Aralık ticareti örneği
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Fibonacci uzatma aracını dürtüsel harekete uygulayabilir ve fiyat ilerlemesinin enerjisinin 
+nerede tükenme olasılığının olduğunu belirleyebiliriz. Bu bilgiye dayanarak, ulaşılması yüksek 
+olasılıklı bir kar hedefi belirleyebiliriz.
+Grafik 2'de A'dan B'ye hareketin dört fiyat çubuğundan oluştuğunu görebiliriz. A'daki ilk çubuk uzun bir yükseliş kuyruğuna 
+sahiptir ve en yüksek noktasında kapanır. Ardından en yüksek noktalarında kapanan iki geniş aralıklı fiyat çubuğu gelir. Bu üç 
+çubuk fiyat enerjisinin yüksek olduğunu göstermektedir. Fiyat daha sonra aşağıya doğru geri çekilmeden önce B noktasına 
+kadar boşluk bırakır.
+Fibonacci aracını ABC fiyat pivotlarına uygulayarak D noktasındaki hedefi elde ederiz, bu da 
+%100 uzatma seviyesidir. Bu, mevcut fiyat hareketinin enerjisinin tükenmesi muhtemel bir 
+seviyedir.
+Bu işlem örneği için, öngörülen fiyat hedefinin işlem yaptığımız kanalın tepesinin altında 
+gerçekleştiğini fark ediyoruz. O noktada kar almak veya karı korumak için işlemimizdeki stop'u 
+sıkılaştırmak isteyebiliriz.
+Grafik 2. ABC hareketinin Fibonacci uzantısı
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Fibonacci uzatma aracı, dürtüsel fiyat hareketlerine uygulandığında en doğrudur. Grafik 2'de A'dan 
+B'ye hareket, yüksek enerjili fiyat çubukları ve tükenme fiyat boşluğuna dayanarak dürtüsel olarak 
+nitelendirilir.
+Rick Ackerman, Fibonacci uzatma aracını kullanmak için belirli teknikler öğretiyor. Yöntemleri oldukça 
+doğru ve Fibonacci uzatmasının sonuçlarına ne zaman güvenilebileceğini ve ne zaman 
+güvenilemeyeceğini belirlemek için iyi tanımlanmış kurallar içeriyor.
+Fiyat Hareketlerinin Değerlendirilmesi
+Fibonacci uzantı aracı, fiyat davranışını değerlendirmenin ve finansal bir tahmin hazırlamanın bir 
+parçası olarak dürtüsel bir fiyat hareketine uygulanabilir. Gelecekte bir fiyat hedefi bulmak yerine, 
+bir fiyat hedefine daha önce ulaşılıp ulaşılmadığını belirlemek istiyoruz.
+Fibonacci uzatma aracının kullanım prensiplerine dayanarak, fiyatın D hedefine (yüzde 100 uzatma) ulaştığında 
+enerjisinin tükenmesini ve tersine dönmesini veya konsolide olmasını bekleyebiliriz.
+Bu örnekte, Grafik 3'teki hisse senedinin fiyatının yükselmeye devam etme olasılığını tahmin etmek için 
+bu ilkeleri uygulayacağız.
+Grafik 3. Fiyat davranışının tahmini
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Grafik 4'te A'dan B'ye hareketteki bireysel fiyat çubuklarının özellikle yüksek enerjili olmadığını 
+görüyoruz. Ancak genel hareket, kısa bir zaman diliminde büyük bir mesafe kat ettiği için dürtüsel 
+olarak nitelendirilir. Bu fiyat hareketine Fibonacci uzatma aracını uygulamanın uygun olduğunu 
+varsayacağız.
+Fibonacci çalışmasını grafiğimize uyguladığımızda D hedefimizin mevcut fiyat seviyesinin oldukça üzerinde 
+olduğunu görüyoruz. Aşılması gereken bir direnç birleşimi olmasına rağmen, fiyatın daha da yükselmesi ve 
+nihayetinde D'ye ulaşması muhtemeldir.
+Fibonacci aracından edindiğimiz bilgilerle artık D seviyesinde fiyat hedefiyle bir çıkış 
+ticareti planlayabiliriz.
+Grafik 4. ABC hareketinin Fibonacci uzantısı
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+HACİM
+Belirli bir fiyat çubuğunda yalnızca beş adet temel veri bulunur: açılış, en yüksek, en düşük, kapanış 
+(OHLC) ve hacim.
+OHLC bilgilerini doğrulamak ve fiyat hareketi işlemlerimizin doğruluğunu artırmak için hacmi 
+kullanabiliriz.
+Genel olarak, grafik desenleri yüksek hacimde meydana geldiğinde daha güvenilirdir. Örneğin, bir işlem 
+aralığından kopuş, yüksek hacimde meydana gelirse daha fazla öneme sahiptir.
+Bir hacim artışı genellikle bazı yatırımcıların teslim olması ve diğerlerinin yeni bir yükseliş trendi için yeniden pozisyon 
+almasıyla bir düşüş trendinin sonunu işaret eder. Yüksek hacimli satış, piyasa duyarlılığının düşüş eğiliminden yükseliş 
+eğilimine geçişini işaret eder.
+Hacim davranışının dikkate alınması gereken temel yönleri şunlardır:
+Yüksek hacim fiyat hareketini doğruluyor
+Hacim, fiyat birincil trend yönünde hareket ettikçe artar. 
+Hacim, fiyat arttıkça birincil trend yukarıdır.
+Hacim artarken fiyat düştüğünde birincil eğilim aşağı yönlüdür Hacimdeki 
+artışlar genellikle aşağı yönlü eğilimlerin sonunu işaret eder
+Hacim Fiyat Hareketini Doğruluyor
+Grafik 1'de fiyatın açıkça yükseliş trendinde olduğu ve bir kırılmanın meydana geldiği görülüyor.
+Bu hisse senedinde uzun pozisyon almadan önce hacim davranışının yükseliş trendiyle tutarlı olduğundan emin 
+olmak istiyoruz.
+Yatay S/R seviyesini ve flama desenini tanımlayarak başlıyoruz. Bu, fiyat hareketini netleştirir ve 
+hacim davranışına odaklanmamızı sağlar.
+Fiyat S/R seviyesine doğru yükseldikçe hacim artıyor. Bu, bir yükseliş trendinde görmeyi beklediğimiz 
+davranıştır.
+Fiyat S/R seviyesinde ani bir şekilde yükseldikçe hacim de yükselir, ardından zirveye ulaşır ve 
+flamanın oluşumunu sağlayan yatay konsolidasyon sırasında düşer.
+En son eylemde hacim, fiyat flamanın tepesinden kırıldığında tekrar yükseliyor. Fiyat ve hacmin 
+birlikte yükselmesi bize trendin yukarı doğru olduğunu söylüyor.
+Bu kopuş meşru görünüyor ve bu hissenin yüksek enerjiye dair birden fazla işaret gösterdiğini 
+görebiliyoruz. Artık bir kopuş ticaretine girmek için ticaret kurallarımızı uygulayabiliriz.
+Grafik 1. Hacim fiyat hareketini doğruluyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Hacim Artışları ve Teslimiyet Satışları
+Grafik 2'de fiyat bir işlem aralığında yanlara doğru sallanıyor. Uzun vadeli yatırımcılar bu tür fiyat 
+hareketlerinden rahatsız olabilir ancak çevik yatırımcılar bunun gibi 6$'lık bir fiyat aralığında sağlıklı bir geçim 
+sağlayabilir.
+Tüccarlar olarak bu örnekteki hacim davranışı, mevcut fiyat seviyelerinde bir sonraki uzun pozisyonumuzu alma 
+konusunda güvenimizi artırıyor. Düşüş trendlerinin genellikle teslimiyet satışıyla sona erdiğini biliyoruz ve şu anda da 
+bu gerçekleşiyor gibi görünüyor.
+Hacimdeki artışa ek olarak, fiyatın bir destek birleşimini test ettiğini görüyoruz.
+Fiyat her ne kadar istediği her şeyi yapabilse de, bu hisse senedinde fiyat tersine dönmesinin gerçekleşme olasılığı 
+oldukça yüksek.
+Tüccarlar olarak artık bir işlem aralığı içerisinde fiyat dönüşüne girmek için işlem kurallarımızı 
+uygulayabiliriz.
+Grafik 2. Hacim artışları ve teslim satışları
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+GÖSTERGELER
+Bir grafiğe baktığımızda yalnızca iki tür temel veri vardır: fiyat (OHLC) ve hacim. Fiyatı 
+bileşenlerine ayırırsak (açılış, yüksek, düşük, kapanış), hacmi dahil ettiğimizde beş adet 
+temel veri parçası vardır.
+Sadece beş temel verimiz varken, grafiklerimize uygulayabileceğimiz yüzlerce farklı 
+göstergeyi nasıl açıklayabiliriz?
+Özetle, bu göstergelertüretmekBeş temel veriyi kullanarak fiyat davranışları hakkında 
+ek bilgi elde etmek.
+Bu kötü bir hedef değil ancak temel verilerin her türetilmesi bizi gerçek fiyat hareketinden 
+uzaklaştırıyor ve fiyat hareketi ile indikatör arasında bir zaman gecikmesi yaratıyor.
+MACD – Türetilmiş Verilerin 4 Seviyesi
+Örnek olarak, fiyatın bir yavaş ve bir hızlı hareket eden ortalamasına dayanan MACD 
+göstergesini ele alalım. Fiyat temel verimiz olduğundan, hareketli ortalamalar temel 
+verinin birinci türevi haline gelir.
+MACD çizgisi iki hareketli ortalama arasındaki farktır, bu yüzden fiyat verilerinin ikinci 
+türevini temsil eder. MACD sinyal çizgisi MACD çizgisinin hareketli ortalamasıdır, bu yüzden 
+bize üçüncü bir türev verir.
+MACD ve MACD sinyal çizgileri arasındaki farkı aldığımızda temel verilerin dördüncü 
+türevi olan MACD Histogramı elde edilir.
+Göstergeler Faydalı mıdır?
+Temel verilerin dördüncü türevinin sağladığı herhangi bir bilginin değerini, özellikle 
+türetilen bilginin temel verilerin zamansal olarak gerisinde kaldığı durumlarda 
+sorgulayabiliriz.
+Genel olarak, işlem kararlarımızı temel verilere, yani fiyat hareketinin kendisine ve 
+ilgilenilen dönemde oluşan hacme dayandırmak isteriz.
+Ancak göstergeler faydalı olabilir. Sınırlamalarına rağmen, fiyat hareketini doğrulamamıza ve bize alım/satım 
+sinyalleri sağlamamıza yardımcı olabilirler.
+Göstergeler ayrıca yüksek olasılıklı işlem fırsatları aradığımızda fiyat grafiklerini 
+taramamıza olanak tanır. Çoğu işlem ve grafik platformu, MACD ve Stokastik'e dayalı 
+filtreler içeren tarayıcılar sağlar.
+Örneğin, uzun vadeli işlemler arıyorsak, Yavaş Stokastiklerin yükseldiği (yüksek fiyat enerjisi) ve her iki 
+MACD çizgisinin sıfırdan büyük olduğu (birincil fiyat eğilimi yukarı yönlü) hisse senetlerini tarayabiliriz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Göstergeleri kullanmayı seçtiğimizde iki şeyi aklımızda tutmamız önemlidir:
+Göstergeler bize türetilmiş verileri gösterir, temel verileri değil 
+Göstergeler fiyat hareketinden sonra gelir
+Nihai Gösterge
+Göstergelerin uçsuz bucaksız dünyasında düşebileceğimiz birçok tuzak var.
+İlk tuzak, 'nihai' gösterge için yanıltıcı aramadır. Seçilebilecek çok sayıda göstergeyle bu 
+arama kolayca bir ömür sürebilir. Yaygın olarak bulunan göstergelerin yanı sıra, 
+Tradestation gibi gelişmiş ticaret/grafik platformları kullanılarak sonsuz sayıda özel 
+gösterge oluşturulabilir.
+Başka bir tuzak da daha fazlasının daha iyi olduğunu düşünmektir - yani, bir gösterge iyiyse 
+kesinlikle ikisi daha iyidir. Sorun şu ki iki gösterge nadiren aynı sinyali verir, bu yüzden birden fazla 
+göstergeden gelen çelişkili mesajları yorumlamaya çalışırız.
+İdeal olarak, işlem planımız işlem için kullanacağımız belirli giriş ve çıkış kriterlerini tanımlayacaktır. 
+Çoğu tüccar için tutarlı, uzun vadeli karlılık, iyi tanımlanmış bir işlem kuralları setini takip etmeyi 
+içerir. Başarılı takdir yetkisine sahip (yerinde) tüccarlar nadirdir.
+Mükemmel göstergeyi bulma veya birden fazla göstergeden gelen sinyalleri birleştirme çabasında olan hevesli bir 
+yatırımcı, hiçbir zaman bir işlem planı oluşturma ve piyasalarda gerçekten harekete geçme noktasına ulaşamayabilir.
+Bu tuzaklardan kaçınmak için öncelikle temel verilere (fiyat ve hacim) güvenmeyi seçebilir, ancak bu 
+verileri zaman zaman yalnızca bir veya iki göstergeyle destekleyebiliriz.
+Fiyat hareketi ticareti için en kullanışlı ortak göstergeler, Grafik 1'de gösterildiği gibi MACD ve 
+Yavaş Stokastiklerdir. Hacim temel veridir, ancak diğer göstergeler gibi genellikle grafiğin en 
+altında gösterilir.
+Grafik 1. MACD, Yavaş Stokastikler ve Hacim
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Geride Kalanlar ve Önde Gelenler
+Tüm göstergeler geride kalmaktadır çünkü geçmişte meydana gelen bir olaya dayanarak türetilmiş bilgi 
+sunarlar: önceki fiyat çubuklarında meydana gelen açılış, en yüksek, en düşük, kapanış (OHLC) ve hacim.
+Bir göstergenin sağladığı herhangi bir sinyal, tarihsel verilere olan bu temel bağımlılık nedeniyle mevcut fiyat 
+hareketinin gerisinde kalmak zorundadır.
+Gösterge Olarak Hacim
+Hacim bazen öncü bir gösterge olarak anılır çünkü trend dönüşlerini tahmin edebilir. 
+Ancak bu fikir iki nedenden dolayı hatalıdır:
+1. Hacim temel bir veri olduğundan, kullandığımız anlamda bir 'gösterge' olamaz.
+2. Bazı trendler hacim artışıyla son bulurken, bazı trendler hacimde kademeli düşüşle son 
+bulur.
+Bir trendin sonunda hacim davranışı tutarlı olmadığından, hacmi bir gösterge olarak kullanmaya 
+çalışmak, işlem kararlarımızı kolaylaştırmak yerine zorlaştırır.
+Göstergelerin Kullanımına İlişkin Kurallar Tutarlı Olmalıdır
+Bir göstergenin ne olduğunu veya ne olmadığını tanımlayacak olsaydık, ilkelerimizden biri göstergenin kullanımına 
+ilişkin kuralların tutarlı olması gerektiği olurdu.
+Örneğin, MACD çizgisinin MACD sinyal çizgisinin altına hareket etmesi her zaman bir satış sinyali olarak 
+kabul edilir. Bu kesişmeyi bir satın alma sinyali olarak yorumlamamız gereken hiçbir piyasa koşulu yoktur.
+Hacim, bu tanıma göre bir gösterge olarak kabul edilemez çünkü hacmi yorumlamak için 
+tutarlı kurallar yoktur.
+Tahmini Araçlar
+Fiyat hareketini doğrulamamıza ve alım/satım sinyalleri vermemize yardımcı olan göstergelerin aksine, fiyatın 
+muhtemelen nereye gittiğini önceden belirlemek için kullanabileceğimiz birkaç öngörü aracımız var.
+Bu araçlar, destek ve direnç seviyelerinin nerede oluşabileceğini önceden belirlememizi sağlar. Daha 
+sonra, işlem planımızı bu fiyat tahmini etrafında oluşturabiliriz.
+Tahmin araçları, bu materyalin diğer bölümlerinde ele alınan Andrews Pitchfork ve Fibonacci 
+Geri Çekilme/Uzatma çalışmalarıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+MACD
+Gerald Appel, 1970'lerin sonlarında Hareketli Ortalama Yakınsama-Uzaklaşma (MACD) momentum 
+osilatörünü geliştirdi. Adından da anlaşılacağı gibi, gösterge iki hareketli ortalamaya ve bu hareketli 
+ortalamaların yakınsamasına ve ıraksamasına dayanmaktadır.
+MACD göstergesi hem momentum hem de trend hakkında bilgi sağlar. Yükselen bir MACD 
+çizgisi, fiyat momentumunun yukarı doğru arttığını gösterir. MACD çizgisi düştüğünde fiyat 
+momentumu aşağı doğru artar.
+Trend, MACD çizgisi ve göstergenin merkez çizgisine göre konumu tarafından belirlenir. MACD çizgisi 
+merkez çizgisinin üzerinde olduğunda fiyat muhtemelen yukarı doğru eğilim gösterir ve MACD çizgisi 
+merkez çizgisinin altına düşerse ters davranış olasıdır.
+MACD-Histogram, MACD'deki sinyalleri önceden tahmin etmek amacıyla 1980'lerin ortasında Thomas Aspray tarafından 
+geliştirilmiştir.
+Grafik 1. MACD terminolojisi
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+MACD Ticaret Sinyalleri
+MACD göstergesi birkaç sinyal sağlar:
+MACD çizgisi MACD sinyal çizgisini geçtiğinde alım/satım yapın
+Fiyat ve MACD eğilimlerinin birbirinden ayrıldığı durumlarda uyarı sinyali (MACD düşerken fiyatın 
+artması veya tam tersi)
+MACD Geçiş Alım/Satım Sinyalleri
+Sinyal çizgisi kesişimleri en yaygın MACD sinyalleridir.
+Bir satın alma sinyali, MACD çizgisi sinyal çizgisini yukarı doğru geçtiğinde oluşur. Bir satış sinyali, 
+MACD çizgisi sinyal çizgisinin altına geri geçtiğinde verilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Bu sinyaller, MACD seviyeleri aşırı alım veya aşırı satım olduğunda en etkilidir. MACD sınırsız bir 
+gösterge olduğundan, aşırı alım ve aşırı satım yalnızca göstergedeki önceki yüksek ve düşük 
+seviyelere göre anlamlıdır.
+MACD, önceki MACD yüksekliğinin seviyesine ulaştığında ve/veya onu aştığında aşırı alım durumuna geçer. 
+Tersine, MACD, önceki MACD düşük seviyesinin seviyesine ulaştığında ve/veya onu aştığında aşırı satım 
+durumuna geçer.
+MACD geçiş sinyalleri, işlem için giriş/çıkış tetikleyicileri veya trend yönündeki şüpheli bir değişikliğin 
+onayı olarak kullanılabilir. Tüm göstergeler gibi, MACD de fiyat hareketinden geride kalır, bu nedenle 
+geçiş sinyali oluşmadan önce zaten bir işlemde olabiliriz.
+Grafik 2. MACD işlem sinyalleri
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+MACD sapması
+MACD ile fiyat arasındaki sapmalar, fiyat davranışının değişmek üzere olduğuna dair bir uyarı görevi 
+görebilir. Bu sinyal, bir ticaret kuralının parçası olarak kullanılacak kadar güvenilir değildir ancak dikkat 
+edersek bir grafikten çıkarabileceğimiz başka bir bilgi parçasıdır.
+Grafik 3'te MACD bir satış sinyali verdikten sonra fiyat iki yeni tüm zamanların en yüksek seviyesine (vurgulanmıştır) 
+yükseliyor. Bazı yatırımcılar MACD satış sinyalinde çıkış yapacak, diğerleri ise modifiye edilmiş Schiff çatalının üst 
+medyan çizgisi (UML) uzantısında fiyat hedefleriyle pozisyonlarını tutacak.
+Bu ralli ilerledikçe, fiyat UML uzantısına iki kez ulaşırken MACD istikrarlı bir şekilde aşağı doğru yönelir. 
+Pitchfork yatırımcılarının tam veya kısmi kar elde etmek için iki fırsatı vardır.
+Bir yatırımcının bunun farkında olduğunu varsayarsak, fiyat ile MACD arasındaki ayrışma kısmi çıkış 
+veya tam çıkış arasında karar verirken etkili bir faktör olabilir.
+Grafik 3. MACD ayrışması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Trend Göstergesi Olarak MACD
+Grafik 4, MACD göstergesinin trendi değerlendirmemize nasıl yardımcı olduğunu göstermektedir.
+MACD çizgisi yukarı doğru giderken merkez çizgisini geçtiğinde fiyat, birincil trendin yukarı yönlü olma olasılığının 
+yüksek olduğu bir yükseliş fazına giriyor demektir. Çoğu yatırımcı uzun pozisyon almak için fırsatlar arayacaktır.
+MACD çizgisinin göstergenin merkez çizgisinin altından geçmesi fiyatı düşüş fazına sokar. Fiyat düşüş 
+fazında olduğunda birincil trendin aşağı yönlü olması muhtemeldir ve genellikle kısa vadeli işlemler 
+hedeftir.
+Bir piyasanın yanlara doğru sallandığı veya ileri geri savrulduğu zamanlar vardır. Tüccarlar olarak, yaygın 
+koşullara uyum sağlayabilir veya işlem stratejimize daha uygun piyasalar arayabiliriz.
+Grafik 4. MACD trend göstergesi olarak
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+YAVAŞ STOKASTİK
+Yavaş Stokastik göstergesi, George C. Lane tarafından 1950'lerin sonlarında fiyatın 
+momentumunu ölçmek amacıyla geliştirilmiştir.
+Bay Lane göstergesini şu şekilde tanımladı: "Stokastik, fiyatın momentumunu ölçer. Havada 
+yükselen bir roketi canlandırırsanız, aşağı inmeden önce yavaşlaması gerekir. Momentum her 
+zaman fiyattan önce yön değiştirir."
+Grafik 1 bu roket konseptini göstermektedir. Stokastik göstergesi devrilip aşağı doğru yöneldikten 
+sonra, fiyat (roket) enerjisi tükenir ve sonunda aşağı doğru döner.
+Grafik 1. Yavaş Stokastikler ve fiyat enerjisi
+tam boyutlu grafik şu adreste mevcuttur:
+https://satoritraders.com/andrews-pitchfork/charts
+Fiyat enerjisinin bir göstergesi olarak tek bir fiyat çubuğundan (örneğin, pokey, geniş aralıklı, güçlü, 
+zayıf) bahsettiğimizde, bahsettiğimiz zaman dilimi açıkça tek bir çubuktur. Slow Stochastics 
+göstergesinden bahsettiğimizde, bir dizi çubuk üzerindeki fiyat enerjisinden bahsediyoruz. Her iki 
+durumda da fiyat enerjisinin farklı zaman dilimlerine uygulanması aynı kavramdır.
+Bireysel bir çubuktaki fiyat enerjisi, çubuk üst üçte birinde kapandığında güçlü kabul edilir. 
+Zayıf bir fiyat çubuğu alt üçte birinde kapanır.
+Stokastik indikatöründe fiyat enerjisi 80 seviyesinin üzerinde güçlü (yüksek), 20 seviyesinin altında ise zayıf 
+(düşük) seviyededir.
+Fiyat Enerjisinin Bir Ölçüsü Olarak Yavaş Stokastikler
+Tüccarlar olarak yönlü fiyat hareketlerini arıyoruz. Yukarı veya aşağı, hareket olduğu 
+sürece özellikle önemli değil.
+Yukarı yönlü fiyat hareketi enerji gerektirir. Enerji olmadığında fiyat düşer. Finansal piyasalarda 
+işlem yaparak para kazanmak istiyorsak, fiyat enerjisini ölçebilmek önemli bir beceridir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Fiyat enerjisi araştırmamızda Andrews Pitchfork'a, güçlü ve zayıf fiyat çubuklarına, 'pokey çubuklarına', 
+geniş aralıklı çubuklara, dürtüsel fiyat hareketlerine, fiyat boşluklarına ve hacim artışlarına baktık. Bu 
+enerji ipuçlarına kolayca ulaşılabilir ancak bir grafikte piyasa yapısını çizmek ve bireysel fiyat çubuklarını 
+yorumlamak zaman alır.
+Yavaş Stokastik göstergesi, bireysel fiyat çubuklarına ve grafik desenlerine odaklanmak için gereken 
+zamanı harcamadan önce, potansiyel bir işlem aracının fiyat enerjisini ölçmenin hızlı bir yolunu 
+sunar.
+Kısa vadeli işlemler arıyorsak fiyat enerjisinin yükseldiği ancak azaldığı grafiklere 
+odaklanabiliriz.
+Ticaret stratejimiz uzun vadeli işlemlere odaklandığında, fiyat enerjisinin yükseldiği veya halihazırda yükselmiş 
+olduğu araçları taramak için Yavaş Stokastik göstergesini kullanabiliriz.
+Bağlı Gösterge
+Bağlı bir gösterge olarak Stokastik her zaman 0 ile 100 aralığında kalır, bu da yüksek enerjili (aşırı alım) ve 
+düşük enerjili (aşırı satım) koşullarının kolayca belirlenmesini sağlar.
+Trend piyasalarında aralıklı göstergelerin uzun süreler boyunca aşırı alım ve aşırı satım durumunda 
+kalabileceğini unutmamak önemlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

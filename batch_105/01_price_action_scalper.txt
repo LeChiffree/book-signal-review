@@ -1,0 +1,135 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 7\Baskı 7\Price Action Scalper (10 sayfa) - @eseckal.pdf
+PAGES: 10
+
+
+=== PDF PAGE 1 ===
+İpucu: Bu stratejiyi gerçek ticaret parasıyla risksiz denemek için 30$'ınızı (veya 
+eşdeğerini) almayı unutmayın. 30$'ınızı almak için aşağıdaki resme tıklamanız yeterli!
+Fiyat Eylem Stratejisi Açıklaması
+"Fiyat Eylemi Scalper" 4 ekran kullanan bir ticaret stratejisidir - gösterge içermeyen 
+bir Forex stratejisidir.
+Uygun risk yönetimi ve istikrarlı bir gelir olasılığı ile iyi bir kâr şansı verir.
+Bu evrensel sistem, çok kısa bir scalping ticaret seansının yanı sıra, normal bir gün boyunca 
+daha uzun işlemler için de kullanılabilir.
+Hem scalping hem de normal günlük ticaret için her iki yöntemi de (ne zaman emir vermeli, kar alma, 
+zararı durdurma belirleme) tartışacağız.
+"Fiyat Eylemi Scalper" 4 ekranlı bir sistemi temel alır ve H1, M5, M15 ve M30 zaman 
+çerçevelerini kullanır; takip eden durdurma, zarar durdurma ve kar alma seviyelerini 
+içeren koruyucu durdurma emirleri.
+Sistemi uygulamak için tek yapmanız gereken (ticaret terminalinizde) H1, M5, 
+M15, M30 döviz çifti (örneğin EUR/USD) zaman dilimlerine sahip dört pencere 
+açmaktır.
+Metatrader 4'ün "Pencere" menüsünden "Dikey" seçeneğini seçerseniz terminaldeki 
+dört ekran bitişik pencerelere sırayla yerleştirilecektir.
+ÖRNEK:
+2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+Nasıl çalışır:
+"Fiyat Eylem Scalper" sistemi, ticaret terminalinizde görülmesi çok kolay olan güçlü bir 
+güncel trend onay giriş sinyaline dayanmaktadır - 4 pencere (grafik). Saatte bir kez 
+(hemen hemen her saatte) bir sinyal alacaksınız.
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Bu sistemi kullanmak için her zaman oturup piyasayı izlemenize gerek yok - sadece 
+mevcut saatin son dakikasında hazırlanın - eğer bir sinyal varsa - yoksa bir işlem yapın
+– bir sonraki işlem fırsatına kadar önümüzdeki 59 dakika boyunca tekrar özgürsünüz.
+(daha fazla sinyal istiyorsanız - aynı anda 5-6 çift açabilirsiniz - her biri için 4 zaman 
+dilimi) Basit ve kullanışlı!
+SATIN AL girişi:
+- Geçerli saat mumunun kapanmasını bekleyin
+- Son mumların 4'ü de (M5, M15, M30 ve 1H) "yeşil" renkte kapandıysa, fiyatın kapanışın 3 
+pip daha üzerine çıkmasını bekleyin ve anında bir SATIN AL emri verin.
+4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Yukarıdaki ekran görüntüsünden:
+1.1 saatlik grafikte - 9:00 mumu saat 10:00'da yeşil renkte kapandı.
+2.M30 grafiğinde - 9:30 mumu saat 10:00'da yeşil renkte kapandı
+3.M15 grafiğinde - 9:45 mumu saat 10:00'da yeşil renkte kapandı
+4.M5 grafiğinde - 9:55 mumu saat 10:00'da yeşil renkte kapandı
+5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+5.Fiyat kapanışın 3 pip daha üstüne çıkıyor.
+Yukarıdaki koşulların tümü karşılanıyorsa mevcut fiyattan bir SATIN AL emri verin:
+Fiyat kapanışın 3 pip üzerinde daha hareket edene kadar beklemek çok önemli
+– bu sizin çift onaylı giriş sinyalinizdir.
+10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+DİKKAT: Fiyat, saatin ilk 5 dakikasında giriş seviyenizin 3 pipini geçmezse – 
+İşlem yapmayın! Bir sonraki saatin başında başka bir ticaret fırsatını bekleyin.
+Sistemi bir kazıyıcı olarak kullanmayı tercih ediyorsanız, kar alma ve zararı durdurma emirlerinizi 
+çok sıkı tuttuğunuzdan emin olun. Aşağıda tüm scalping ve/veya daha uzun günlük ticaret 
+girişlerini tartışacağız.
+Büyük ve hızlı kârın tadını çıkarın, aşağıdaki örneğe bakın (bu işlem için kâr alma ve zararı 
+durdurma aşağıda açıklanacaktır)
+11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+SAT girişi için tam tersi bir kural.
+SAT girişi:
+- Geçerli saat mumunun kapanmasını bekleyin
+12
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+- Eğer son 4 mumun tamamı (M5, M15, M30 ve 1H) “kırmızı” renkte kapanmışsa, fiyatın 
+kapanışın 3 pip daha altına düşmesini bekleyin ve anında SAT emri verin.
+Örneğin:
+1.1 saatlik grafikte - 11:00 mumu 12:00'de kırmızı renkte kapandı.
+2.M30 grafiğinde - 11:30 mumu 12:00'de kırmızı renkte kapandı
+3.M15 grafiğinde - 11:45 mumu 12:00'de kırmızı renkte kapandı
+4.M5 grafiğinde - 11:55 mumu 12:00'de kırmızı renkte kapandı
+5.Fiyat kapanışın 3 pip daha altına iniyor.
+Yukarıdaki koşulların tümü yerine getirildiyse – mevcut fiyattan SATIŞ emri verin!
+Bu örnek elbette mükemmel. Gerçekte, örneğin M15 mumu yeşil renkte kapalı olabilir.
+Bu durumda diğer mumlar kırmızı olduğundan bir sonraki mumu beklemek zorunda kalacağız.
+ZARAR DURDURUN ve KÂR ALIN
+3 seçenek
+1.Bir alım işlemi için önceki 1 saatlik mumun en düşük seviyesinin 2 pip altına veya satış işlemi için 
+önceki 1 saatlik mumun en yüksek seviyesinin 2 pip üstüne sabit bir zarar durdurma yerleştirin. Bu, 
+kısa vadeli scalping ticareti için en iyi seçenektir.
+13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+2.Giriş noktanızdan 20 pip uzağa sabit bir zarar durdurma yerleştirin:
+Fiyat 15 pips'e ulaştığında, zararı durdurma başabaş noktasına aktarılır. 
+Ticaret tercihlerinize bağlı olarak takip eden stop'a başvurabilirsiniz.
+3.Zararı durdur emrinizi ana yüksek/düşük seviyelerin (büyük destek ve direnç 
+seviyelerinin) yakınına yerleştirin. “Fiyat Eylem Scalper” sistemi ancak kurallara sıkı sıkıya 
+uyulması durumunda başarılı olabilir. Kar alma her zaman zararı durdurmanın 2-3 katı 
+olmalıdır.
+14
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Sabit yerleştirinkar almakgiriş noktanızdan 30-40 pip uzakta:
+Genellikle şunları bekleyebilirsiniz: İşlemlerinizin %75-80+'inin kârlı olmasını.
+Bu sistem için not: Önemli haberlerin hemen öncesinde, sırasında veya sonrasında işlem 
+yapmayın.
+"Fiyat Eylemi Scalper Stratejisi" için önerilen 
+kurulum
+Stratejiyi aynı anda birkaç çift üzerinde kullanmanızı öneririm.
+Bunu yapmak için - aynı anda 2-4 ana çiftle işlem yapın - bu durumda her çift 
+için 4 grafik açmanız gerekecektir: M5, M15, M30 ve 1H.
+15
+www.forexgercekleri.xyz - [Twitter: @eseckal]

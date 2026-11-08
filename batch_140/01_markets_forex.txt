@@ -1,0 +1,1421 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 9\Baskı 9\Yeni Başlayanlar İçin Forex - Markets.com (37 sayfa) - @eseckal.pdf
+PAGES: 37
+
+
+=== PDF PAGE 1 ===
+1
+
+
+
+=== PDF PAGE 2 ===
+2
+İçindekiler
+Yasal Uyarı
+Önsöz
+1. Forex’in Tarihçesi
+a. Forex Üzerindeki Ekonomik Etkiler
+b. Günümüzde Forex Piyasası
+2. Forex Ticareti
+a. Döviz Çiftleri
+b. Majörler
+c. Çaprazlar
+d. Ticaret Bölgeleri ve İşlem Saatleri
+3. Neden Forex Ticareti?
+a. Erişilebilirlik ve Esneklik
+b. Yüksek Likiditeli Piyasalar
+c. Kaldıraç (Kredili Menkul Kıymet İşlemleri)
+d. Kısa Ticaret – Düşen Fiyatlardan Kâr
+e. Gün İçi Volatilite
+f. Düşük Spreadler (Makas)
+g. Teminat Politikası ve Teminat Çağrıları
+h. Alış – Satış Spreadi (Makas)
+i. Lot Miktarları
+4. PİP’ler
+a. Pip Hesaplama
+5. Emir Türleri
+a. Zarar Durdur Emri
+b. Limit Emri
+c. Limit Giriş Emri
+d. Stop Giriş Emri
+e. OCO Emri (Biri Diğerini İptal Eder)
+f. İzsüren Durdur Emri
+6. Çıkış Kuralları
+7. Psikoloji Kuralları
+8. Sözlük – Forex Ticaret Terimleri ve Anlamları 
+03
+05
+08
+12
+17
+19
+25
+26
+27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+3
+Y asal Uyarı
+Forex ticareti hem kâr fırsatı hem de zarar riski içerir. Sonuçta bu riskli bir iştir ve sadece kaybetmeyi 
+kolayca göze alabileceğiniz kadarını yatırmalısınız. Peki ne kadar kaybetmeyi göze alabileceğinizi nasıl 
+bileceksiniz? Bu size kalmış, ama eğer çok endişeleniyorsanız ve açık bir alım – satım işlemi yüzünden 
+uykularınız kaçıyorsa muhtemelen çok fazla para riske ediyorsunuzdur. Öyle olsa da, umarız bu kitaptaki 
+bilgiler sizi daha iyi bir yatırımcı olmanızı sağlar. 
+Avukatlarımız tarafından, “tazminat” ve “koruma” terimlerini mutlaka kullanmamız talep edilmiştir, bu 
+nedenle işte buyrun. Özetle, Forex’te finansal güvenliğinizi riske atmayın.  
+Önsöz
+Finans dünyasındaki en güçlü canavar açık ara farkla Döviz Ticareti piyasasıdır. Her gün $3 trilyon dolardan 
+fazlasının işlem görmesi onu, boğaların ve ayıların savaşması için mükemmel bir oyun bahçesi yapar.
+Bu kitap, piyasa tutkunu olan ve bilgilerini diğer piyasa katılımcıları ile paylaşma isteği duyan tacirler 
+tarafından yaratıldı. Yeni Başlayanlar için Forex sizin eksiksiz, adım adım açıklamalı rehberiniz; size 
+mümkün olduğunca jargon kullanmadan, anlamanızı hızlandırarak, kendinizden emin bir konumda, 
+güvenli ve başarılı bir şekilde Döviz Ticareti Piyasasın’nda kazanç sağlamanıza yardımcı olacak araç ve 
+teknikleri sunuyoruz. 
+Bütün uzun vadeli katılımcıların bir şekilde öğrendiği gibi, Forex ticareti oldukça kişisel bir iştir. 
+Muhtemelen, sıkıntılı bir içgözlem ve kişisel dönüşüm yolculuğunun yanı sıra, hayatınızda yaşayacağınız 
+en tatmin edici kişisel gelişim deneyimi olacaktır. Ancak, finans piyasalarının size acımaya veya karar 
+vermenizi beklemeye zamanı yoktur. 
+Gelişmiş yatırımcılar, durum tespitlerini yaptılar ve kaliteli materyali derinlemesine çalıştılar, tıpkı sizin 
+de şimdi yaptığınız gibi. Onların, piyasa hareketleri, piyasa psikolojisi, kendi psikolojileri ve ticaret 
+araçlarına dair bilgileri eşsizdir, ve amaçları da herşeyi mümkün olduğunca basit tutmaktır. Tıpkı bir yemek 
+tarifinde olduğu gibi, basitlik başarılı bir ticaretin anahtarıdır. Yeni yatırımcılar, karşılarına çıkan bilginin 
+çokluğundan, finansal jargondan, araçlardan, enstrümanlardan, stratejilerden, ticaret planlarından ve de 
+o ya da bu yeni ürünün piyasanın sırlarını açığa çıkaracağı ve milyonlar kazandıracağı iddialarıyla acemi 
+yatırımcıları cezbetmeye çalışan yeni ve faydasız göstergelerden bunalabilirler. Bu yatırımcıların akılları 
+karışır ve basitliğin başarının anahtarı olduğunu fark etmezler; her finans piyasasını, aracı veya göstergeyi 
+bilmek zorunda değiller, ki bu zaten imkansız olurdu.  
+Böylece pek çok yatırımcı, ticaretin ve hemen zengin olmanın altın stratejisini bulma umudu ile bir ticaret 
+planından bir diğerine atlarlar. Parmaklarının ucundaki bilgiler ile başarıyı yakalayamamış olmalarının 
+nedeni, bu bilgiyi anlamak ve derinlemesine öğrenmek için gerekli zamanı ayırmamış olmalarındandır. 
+Her yeni stateji takımının temelini öğrenmeye harcadıkları zamanda, bir strateji takımının tamamını, en 
+ince ayrıntısına kadar öğrenebileceklerinin farkına varmazlar. Bu geniş kapsamlı aşinalık, yatırımcılarda 
+tepkilerin otomatik olduğu ve bir sonraki adımda yapılacakları düşünmeye zamanın harcanmadığı, 
+bilinçsiz bir yetkinlik düzeyine yol açar. Bu yatırımcılar, sadece temel şeyleri çok iyi bilirler!
+Daha az başarılı yatırımcılar, milyonlar kazanmaya çalışırken yanlış “sinyallerden” çok büyük paralar 
+kaybederler. Çabalarınızı aptallıkla israf etmemeyi unutmayın. Ticaret, mekanik olarak ve duygusuzca 
+yapılmalıdır; bunu başarabilmek için ticaret planınızın tüm fonksiyonlarını en ince ayrıntısına kadar 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+4
+öğrenmeli ve anlamalısınız. Bunu yaparsanız, bir sonraki kararınızı asla sorgulamazsınız. Siz de, yukarıda 
+bahsettiğimiz yatırımcılar gibi daima bir sonraki adımınızın ne olacağını bilirsiniz. 
+Asıl hedef insanlara, gelişmiş yatırımcılardaki bilinçsiz yetkinlik düzeyine nasıl ulaşacaklarını öğretirken, 
+aynı zamanda bu başarılı yatırımcılar tarafından kullanılan ortak stratejileri ve araçların bir çoğunu 
+tanımlamaktır. Kurslar, seminerler ve kitaplara binlerce dolar harcamak zorunda kalmayacaksınız. Bunun 
+yerine paradan tasarruf edip, bu kitabı birkaç kez okuyabilirsiniz. Bu kitapta o kadar çok bilgi var ki, 
+hepsini kavrayabilmek için birkaç kez okumanız gerekecek. Bu kitapta yer alan bilgileri iyice anladıktan 
+sonra www.finexo.com sitesinde verilen, daha ileri düzeydeki bilgilere geçebilirsiniz. 
+İşlem planınızı nasıl basit ve zahmetsiz tutacağınızı, ve planınızın en önemli bileşenleri içerdiğinden nasıl 
+emin olacağınızı öğreneceksiniz. Zihin karışıklığını ortadan kaldırarak sadece düzen ve disiplininizi değil, 
+aynı zamanda kendinize güveniniz ve inancınızı da geliştirerek, siz de Forex ticaretini basit gösteren 
+gelişmiş yatırımcılardan olabilirsiniz. 
+Bir yatırımcı olarak bilmeniz gereken şu ki, birçok bileşen başarıya ulaştırırken, en önemli olanları birkaç 
+kritik ama basit stratejinin birleşimidir. Bir arada, istikrarlı bir başarı reçetesinin temelini oluştururlar. %90 
+başarı oranlı harika bir giriş stratejisi, gelecekte başarılı olacağınızı garanti etmez; bu, eksiksiz bir planın 
+her bileşeninin dikkatli planlama ve uygulamasıyla elde edilir. 
+Herşeyden önemlisi, bu kitap anlaşılır bir şekilde yazılmıştır ve sizi sonuca süratle ulaştırır. Önünüzdeki yol 
+zorlu ve tatmin edici olacak. Hazır mısınız?
+Önsöz - Özet
+•  İşlem yapmayı öğrenirken anahtar, basitliktir.
+• Dünyanın neresinde yaşıyor olursanız olun, kendi işlem saatlerinize uyacak bir piyasa
+        bulabilirsiniz. 
+• Bir işlem planı ve iki enstrüman kullanın, örneğin 1 Döviz Çifti ve 1 CFD; ve bunları derin-
+lemesine öğrenmek için zaman ayırın. Bu, birkaç ayınızı alabilir.
+• Yeni araçlar veya finansal jargon ile kendinizi bunaltmayın; başarılı ticaret yapabilmek için 
+bunları bilmek zorunda değilsiniz. 
+• Bir ticaret sisteminin çok sayıda bileşeni başarıyı oluştururken, birkaç kritik ama basit 
+parçanın doğru kullanımı ve kombinasyonu en iyi stratejidir. 
+• Başarı, ticaret planınızın tüm bileşenlerinin dikkatli bir şekilde planlanması ve 
+gerçekleştirilmesine bağlıdır. Performansınızı anlayabilmek için her ticaretin incelenmesi 
+gereklidir.  
+Web sitemiz www.finexo.com ‘u ziyaret edin ve Finexo ekibinin bir üyesi işlem 
+stratejinizi belirlemenize yardımcı olsun. 
+1. Forex’in Tarihçesi
+Para icat edilmeden önce, bir takas sistemi kullanılıyordu. Bu yaygın alışveriş sisteminde insanlar, mal ve 
+hizmetlerini, benzer veya aynı değerde malzemeler karşılığında takas ediyorlardı – bu malzemelere örnek 
+olarak şeker, un, giysi, işgücü, aletler, diş, deri, taş, deniz kabukları ve değerli metalleri verebiliriz. Fakat 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+5
+takas sisteminin kusursuz olmayışı ve kısıtlamalara neden olması sorun yaratıyordu; mesela, her iki taraf 
+için de eşit ve adil bir alışveriş yapılması çok zordu. İki ülke birbiri ile takas yaptığında, alışverişin çabuk ve 
+hemen yapılmasını tercih ediyorlardı, bu da takasın bir tarafının geciktirilemeyeceği anlamına geliyordu. 
+Sonra para kullanılmaya başlandı ve ortak bir norm haline geldi, ki bu da ticaret ve üretimi teşvik ederek 
+endüstrinin gelişmesine neden oldu. Orta Çağ’da kağıt para, iri ve ağır olan madeni paraya tercih 
+ediliyordu ve özellikle de uluslararası seyyahlar için çok daha pratikti. Bugün bildiğimiz haliyle döviz 
+ticareti, finans piyasalarına en son katılan öge olup, dünyanın son 100 yılda yeni teknolojiler ve daha hızlı 
+ulaşım yöntemleri ile gittikçe küçülmesi sonucu etkileyici bir değişim geçirmiştir. 
+Döviz ticareti özünde, aynı anda, bir ülkenin para birimini bir diğeri ile takas etmektir. Orta Çağ ile İkinci 
+Dünya Savaşı’nın başlaması arasındaki yüzyıllarda spekülatörler (döviz kurunun hareketlerinden kâr eder 
+tacirler) oldukça azken, savaş sonrasında Döviz Ticaret piyasasında spekülatör faaliyetleri önemli oranda 
+artmıştır. 
+Dönüşüm, İkinci Dünya Savaşı sonunda (Temmuz 1944’te), Amerika Birleşik Devletleri, Fransa ve Büyük 
+Britanya’nın, New Hampshire’da, Bretton Woods’da gerçekleşen Birleşmiş Milletler Para ve Maliye 
+Konferansı’nda toplanması ile gerçekleşti. Yine de, 1973 ve 1998 yılları arasında Döviz Ticareti piyasası 
+“kapalı” bir piyasa olarak görülüyor, ve büyük bankalar, finansal kurumar, çok milletli organizasyonlar ve 
+çok uluslu risklerini garanti altına almak için muazzam hacimlerde işlemler yapan diğer büyük kurumlar 
+ile sınırlı tutuluyordu. Mütevazı bir bireyin bu ortamda rekabet edebilmesi neredeyse imkansızdı. 1998’de, 
+Döviz Ticareti piyasası küçük yatırımcılara da açıldı ve bu durum, piyasanın günlük hacmini 100 katından 
+fazla yükseltti. 1977’de döviz ticaretinin toplam değeri $5 milyar Dolarken bugün, günde $3.2 trilyon 
+Dolardır. 
+1a. Forex Üzerindeki Ekonomik Etkiler
+Forex piyasası, ekonomik ve politik faktörler ile dünyada gelişen olaylardan ağır şekilde etkilenir. Forex 
+piyasası neredeyse her zaman açık olduğu için, yatırımcılar, haberler gündeme yansıdığı anda ticaret 
+yapabilirler. Pozisyonlar çevirimiçi olarak istenilen zamanda istenilen yerden izlenebilir, bu da yatırımcılara 
+giriş ve çıkış pozisyonlarını kontrol edebilme, strateji değiştirme ve para çekme olanağı verir. Forex 
+ekonomik durumlara, özellikle de Gayri Safi Yurtiçi Hasıla, Gayri Safi Milli Hasıla, Enflasyon, Faiz Oranları ve 
+İşsizlik Verileri gibi etkenlere karşı çok hassastır. Ayrıca politik istikrar ve kriz faktörleri de Forex’i etkileyen 
+diğer unsurlardır. 
+Üç ayda bir yayınlanan İstihdam Maliyet Endeksi ve Gayri Safi Yurtiçi Hasıla’nın dışındaki ekonomik veriler 
+genellikle aylık olarak yayınlanır. Ayrıca haftalık olarak yayınlanan ve Forex hareketleri üzerinde ikinci 
+derecede etkisi olan veriler de bulunmaktadır.  
+Bir Forex taciri olarak ekonomik takvimi iyi bilmeniz, ve alım-satımını yaptığınız döviz çiftlerini 
+etkileyebilecek yerel bildirim zamanlarından ve şartlarda meydana gelebilecek değişikliklerden haberdar 
+olmanız gerekir. Bu ekonomik haber bültenleri, size piyasanın yükselip düşeceğini haber verebilir (kısa 
+vadede), ve uzun vadede piyasanın yönünü değiştirmekte etkili olabilir. Ekonomik Göstergeler ve 
+Takvimler Finexo Ekonomik Takvimi’nde bulunabilir.
+Zaman zaman devletler, kendi para birimlerinin değerini etkilemek için piyasada alım – satım yapabilirler: 
+buna, Merkez Bankası müdahalesi denir. Bu durumda ya kendi para birimlerinin fiyatını düşürmek için 
+piyasaya yüksek miktarda para sürerler, ya da para birimlerinin fiyatını yükseltmek için toplu alım yaparlar. 
+Her iki uygulama da büyük fiyat hareketlerine yol açabilir. 
+Ekonomik haber kaynaklarınızı seçerken, sadece alım – satımını yapmakta olduğunuz dövizleri direk 
+olarak etkileyecek yayınlarla ilgilenmelisiniz, alakasız haberleri incelemenin hiçbir faydası olmayacaktır. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+6
+İki döviz türünü biribiri ile takas ederken, döviz çiftinin bir tarafı için iyi olan bir haberin diğer tarafı için 
+büyük ihtimalle kötü haber olacağının bilincinde olun – bu, döviz çiftinin hangi tarafında “alış” , hangi 
+tarafında “satış” yapacağınıza karar vermenize yardımcı olur. Bu terimlerin anlamlarını kitabın arkasında 
+yer alan Sözlük kısmında bulabilirsiniz.
+1b. Günümüzde Forex Piyasası
+Bugün Döviz Ticareti için kullanılan pek çok isim var: Forex, Döviz, 4X ve FX. Her gün gerçekleşen $3 
+trilyon Doların üzerinde işlem hacmi ile mevcut piyasalar arasında en likit ve etkili olanıdır. Ayrıca bu 
+durum, şirketlerin veya bireylerin, daha yaygın olarak ticareti yapılan dövizlerde büyük alım – satımlar 
+yaparak, piyasa hareketlerini etkileme, sürdürme veya manipüle etmesine de engel olur. Bu anlamda 
+Forex, etkilenmeye daha açık olan hisse senedi piyasasına göre daha istikrarlıdır. Bir diğer ismi ise “spot 
+ticaret” veya spot döviz ticaretidir, ki bunun nedeni alım – satımların neredeyse anında (en fazla 2 gün 
+içinde olmak kaydıyla) kararlaştırılmasıdır. 
+Bu kârlı ticaret meydanının bir diğer cazibesi de “tüm gün açık” olmasıdır; yatırımcılar, Londra, New York, 
+Tokyo, Zürih, Frankfurt, Hong Kong, Paris ve Sidney gibi lokasyonlar aracılığıyla 24 saat işlem yapabilirler. 
+Ticaret haftası Sidney’de başlar ve Cuma günü işlem kapanışında New York’ta son bulur. Bu sistemin, hisse 
+senedi piyasasına karşı büyük bir avantajı da mesai saatleri dışında, ofisinizden çıktıktan sonra ticaret 
+yapmanıza izin vermesidir. 
+Forex ticaret platformunun hisse senedi piyasasına oranla bir diğer farkı da fiziki bir “merkezi borsa” 
+kullanmadan, merkezi olmayan bir “bankalararası” bilgisayar ağı üzerinden işlem yapıyor olmasıdır. Bu 
+ağ 1971 civarında, dünyanın en büyük dövizlerinin kurlarının dalgalandığı, ve ticaretin ağırlıklı olarak 
+bankalar arasında ve tezgah üstünden yapıldığı zamanlarda başlamıştır.  Günümüzde, bilgisayarların ve 
+teknolojinin gelişmesi ile Forex ticareti dünyanın her yerindeki ortalama yatırımcılar için de erişilebilir 
+olmuş, piyasanın %95’i spekülasyon ve hedging üzerine kurulu bir hale gelmiştir. Bir diğer ilgi çekici nokta 
+ise döviz ticareti işlemlerinin %80’inin yedi günden az, %40’ının ise sadece iki gün elde tutulduğudur!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+7
+Forex’in Tarihçesi - Özet
+Forex’i etkileyen en büyük Ekonomik etkenler:
+• Gayri Safi Yurtiçi HasılaEnflasyon
+• Faiz Oranları
+• Tüketim Endeksi
+PÜF NOKTASI: Sadece alım – satımını yapmakta olduğunuz enstrümanları direk olarak  
+etkileyecek ekonomik haberlere konsantre olun, ilgisiz haberleri incelemenin hiçbir faydası 
+olmayacaktır! 
+UNUTMAYIN: Piyasayı hareketlendiren haberin kendisi değildir; piyasa fiyatlarını en çok 
+harekete geçiren şey yatırımcıların rakamlardaki bir sürpriz karşısında gösterdikleri tepkidir. 
+• Forex endüstrisinin kökleri, Amerika Birleşik Devletleri, Fransa ve Büyük Britanya’nın 
+Birleşmiş Milletler Para ve Maliye Konferansı’nı  bir araya getirdiği Bretton Woods 
+Konferansı’na (Temmuz 1944) kadar gitmektedir. 
+• Bretton Woods Konferansı, 20. Yüzyıl ortalarında dünyadaki başlıca endüstriyel  
+devletler arasındaki ticari ve finansal ilişkilerin kurallarını belirlemiştir. 
+• 1971’de Bretton Woods Anlaşması’nın terkedilmesi, bugün bildiğimiz sektörün  
+yaratılmasını sağladı.
+• 1973’te piyasa kısıtlamalarının kalkması ile endüstri iyice açıldı. 
+• 1977’de Döviz Ticareti 5 Milyar Dolar’lık bir sektördü. 
+• 1988’de Forex daha küçük yatırımcılara açıldı – bu, piyasanın günlük hacmini 100 katın  
+üzerinde artırdı. 
+• Bugün Forex, günde 3.2 Trilyon Dolar’lık muazzam bir endüstri!
+www.markets.com kapsamlı bir Eğitim ve Haberler bölümüne sahip.  
+Eksiksiz bir ticaret altyapısı kurmak için bu bölümleri inceleyin. 
+2. Forex Ticareti
+Forex ticareti, bir para biriminin bir diğerine karşılık alınıp satıldığı basit bir işlemdir. Nasıl yani? Bu, başta 
+biraz karmaşık gelebilir çünkü borsadan farklıdır (borsada, yükseleceği veya düşeceği inancıyla hisse 
+alırsınız). Döviz piyasasında bir döviz, bir başka döviz cinsine oranla yükselebilir veya düşebilir. Mesela, 
+Dolar, Avro karşısında güçlenebilir ama aynı zamanda İngiliz Sterlini karşısında değer kaybedebilir. 
+Yukarıda bahsetmiş olduğumuz gibi, bir ülkeden gelen ekonomik haberler o ülkenin para birimini 
+etkileyebilir. Yani asla “Dolar güçlendi” dememeli, “Dolar, Avro karşısında güçlendi” demeliyiz. Unutmayın 
+ki bir döviz sadece yükselip düşmez, bunu bir başka döviz cinsine ilişkin olarak yapar. Yani bir dövizi alıp 
+satmaya karar verdiğinizde, bir çifti alıp satarsınız. Bu iki döviz, “döviz çifti” olarak bilinir. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+8
+2a. Döviz Çiftleri
+Y ukarıda bahsedildiği gibi, döviz alım satım işlemleri çiftler halinde yapılır ve kotasyonlar da EUR/USD gibi 
+kısaltmalar halinde verilir. İlk olarak verilen dövize “baz” döviz (bu örnekte Avro), ikinci olarak kote edilen 
+dövize ise “karşıt” döviz denir (bu örnekte Amerikan Doları). 
+Yeni başlayan bir yatırımcı olarak “baz” ve “karşıt” dövizleri anlamaya çalışmanıza gerek yok. Döviz çiftlerini 
+izlemenin çok daha kolay bir yolu var: yükseleceğini veya düşeceğini tahmin ettiğiniz dövizi belirleyin (bu 
+döviz cinsi “/” işaretinin önünde belirtilir) ve hangi döviz cinsine karşı hareket edeceğine karar verin (bu 
+döviz cinsi de “/” işaretinden sonra gelir). Daha once söylediklerimizi tekrar hatırlayalım: bir döviz cinsi her 
+zaman bir başka döviz cinsine oranla yükselir veya düşer. Eğer Avro’nun Dolar karşısında yükseleceğini 
+tahmin ediyorsanız EUR/USD alırsınız; diğer yandan eğer Avro’nun Dolar karşısında değer kaybedeceğini 
+tahmin ediyorsanız EUR/USD satarsınız. 
+Forex ticaretinde alım yapmaya “alış” (uzun pozisyon) denir. Bir yatırımcı EUR/USD çiftinde alış yapıyor ise 
+Avro (yani baz döviz) alıp, Amerikan Doları (yani karşıt döviz) satıyor demektir. Fiyat hareketi ve kârınız ile 
+zararınız, karşıt döviz cinsinden belirtilir. Mesela EUR/USD aldıysanız, kârınız ve zararınız Amerikan Doları 
+cinsinden belirtilecektir (Avro değil). 
+Öyleyse siz hangi döviz çiftlerinde işlem yapabilirsiniz?
+2b. Majörler
+En popüler çiftlere – en yüksek işlem hacmine (%85) sahip olan çiftler – yaygın olarak “majörler” denir. 
+Stratejiniz farklı bir gereklilik göstermedikçe bu döviz çiftlerinde kalmanız tavsiye edilir. “Majör” çiftlerin 
+alım satımı daha ucuz olup genellikle volatiliteleri daha düşüktür. Her Forex brokeri şu “majör” çiftlerini 
+sunmalıdır:
+«доллар укрепился по отношению к евро». Помните, что валюта не просто идет вверх или вниз, но 
+меняется по отношению к другой валюте. Итак, выбирая торговлю валютой, вы будете торговать 
+парой. То есть, эти две валюты называются «валютной парой».
+2a. Валютные пары
+Как упоминалось выше, валюты торгуются парами и котируются в сокращенной форме,  например 
+EUR/USD (евро/ доллар США). Первая из котируемых валют называется «базовой» валютой (в данном 
+примере это Евро), в то время как вторая котируемая валюта - «котировочной» (в данном примере 
+это доллар США). Вам, как начинающему трейдеру, не стоит беспокоиться по поводу значений слов 
+«базовая» и «котировочная». Есть гораздо более простой способ, как рассматривать валютную пару: 
+Вы просто определяете, какая валюта, на ваш взгляд, будет расти или падать (та валюта, которая идет 
+перед «/»), и по отношению к какой валюте, по вашему мнению, она будет изменяться (та валюта, 
+которая идет после «/»). Запомните еще раз вышесказанное – валюта всегда растет или падает по 
+отношению к другой валюте. Если вы прогнозируете, что евро будет расти по отношению к доллару, 
+то вы, вероятнее всего, будете покупать пару EUR/USD; если же, вы предполагаете, что евро будет 
+снижаться по отношению к доллару, то вы, пожалуй, будете продавать пару EUR/USD.
+В трейдинговой терминологии при покупке чего-либо говорят - открытие «длинной позиции». Если 
+трейдер торгует по длинной позиции в паре EUR/USD, это означает, что он покупает евро (базовая 
+валюта) и продает доллар США (встречная валюта). Встречная валюта показывает величину колебания 
+курса и является той валютой, в которой будет котироваться ваши прибыль или убыток. Например, 
+если вы приобрели пару EUR/USD, - ваши прибыли или убытки будут отображаться в долларах США 
+(а не в евро). Итак, какими валютными парами вы можете торговать?
+2б. Основные валюты
+Наиболее популярные пары, те, что отвечают за самый высокий объем торговых операций на бирже 
+(85%), принято называть «основными».  Рекомендуется оставаться в рамках этих пар, если Ваша 
+конкретная стратегия не требует иного. Торговать «основными» парами дешевле, и, как правило, они 
+менее волатильны. Все брокеры на Форекс обычно предлагают следующие наборы «основных» пар:
+Çift Kodu Adı Ülkeler Takma Adı
+EUR/USD Avro-Dolar Avrupa Bölgesi/ABD —
+GBP/USD Sterlin-Dolar Büyük Britanya/ABD Kablo veya  Sterlin
+AUD/USD Avustralya Doları-
+Dolar Avustralya/ABD Oz veya Aussie
+NZD/USD Yeni Zelanda Doları-
+Dolar Yeni Zelanda/ABD Kivi
+USD/JPY Dolar-Yen ABD/Japonya —
+USD/CHF Dolar-İsviçre Frankı ABD/İsviçre Swissy
+USD/CAD Dolar-Kanada Doları ABD/Kanada Loonie
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+9
+Yukarıda verilen döviz çiftlerini çalıştıktan sonra, Amerika Birleşik Devletleri’ndeki ekonomik durum 
+nedeniyle Dolar’ın değer kazanacağını düşünebilirsiniz. Asıl soru şu: Dolar’ın hangi döviz cinsine 
+oranla değer kazanacağını düşünüyorsunuz? Eğer Dolar’ın Japon Yen’ine karşı değer kazanacağını 
+düşünüyorsanız, o zaman USD/JPY döviz çiftini seçersiniz. 
+Bazı majör çiftleri çoğu zaman aynı yönde hareket ederler: bunlar EUR/USD ile GBP/USD ve NZD/USD ile  
+AUD/USD’dir ve EUR/USD ile EUR/JPY’dir. 
+Diğer çiftler çoğu zaman tam karşı yöne giderler: bunlar, EUR/USD ile USD/CHF ve USD/CHF ve GBP/USD 
+’dir. Yatırımcılar, ya aynı yönde ya da aksi yönlerde hareket etme ihtimallerinin yüksek olduğunu bilerek bu 
+çiftlerin birden fazlasını alıp satabilirler. 
+2c. Çaprazlar ve Egzotikler 
+Bazı yatırımcılar Amerikan Doları dışındaki dövizlerin ticaretini yapmak isterler ve bunun için de “çapraz 
+kurlar veya çaprazlar” kullanılır. Fakat, “çapraz” piyasa genellikle “majör” piyasasından daha az likittir. En 
+aktif Dolar dışı kurlar EUR, JPY ve GBP’dir.
+Seçebileceğiniz diğer döviz çiftleri de vardır, bunlara bazen “egzotik” dövizler de denir. Eğer Güney Afrika 
+Randı’nın Dolar karşısında değer kazanacağını düşünüyorsanız, ZAR/USD alabilirsiniz. Fakat, bu “egzotik” 
+dövizlerin volatilitesinin yüksek olmasının yani sıra alım satımları da daha masraflıdır. 
+US DOLLAR (USD )
+EURO (EUR)
+JAP ANESE  Y EN (J PY )
+GRE AT  BRI TA IN POUND ( GBP)  
+SWISS FRANC ( CHF)  
+A USTRALIAN DOLLAR (A UD) 
+C ANADIAN DOLLAR (C AD) 
+PERCEN TA G ES OF  T R ADE FOR  T HE M AJ OR CURRENCIES
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+10
+ 
+2d. Ticaret Bölgeleri ve İşlem Saatleri
+Başlıca ticaret bölgeleri Londra, New York ve Tokyo’da bulunur ve piyasa faaliyetlerinin çoğu bu şehirlerde, 
+mesai saatleri içerisinde gerçekleşir. 24 saat açık olan Forex piyasası gün ışığını dünya üzerinde takip 
+eder – her ülkenin ticaret merkezi 08:00 – 16:00 (yerel saatler) arası açıktır. Örneğin, Amerika Birleşik 
+Devletleri’nde piyasa kapandığında, başka bir yerde açılır. Bu sizin için büyük bir avantajdır çünkü ticarete 
+devam edebileceğiniz anlamına gelir. 
+Eğer Tokyo’da yaşıyorsanız sizin için geçerli olacak zamanlamalar şu şekildedir: Avrupa 15:00’da, Londra 
+16:00’da, New York ise 21:00’da açılacaktır. 
+Bulunduğunuz yere en uygun zaman dilimini belirlerken, yüksek hacimli bir seans seçmeye özen gösterin. 
+Bu seanslar, çok sayıda ülkenin piyasasının aynı zamanda işlem yapması ile meydana gelir, ki bu da, en 
+büyük fiyat dalgalanmalarına yol açarak yatırımınıza en iyi geri dönüşü alabilmeniz için size fırsat sunar. 
+        En iyi çoklu işlem seansları aşağıda belirtilmiştir:
+• EUR/USD, USD/CHF veya GBP/USD işlemlerini 15:00 – 19:00 (Türkiye Saati ile) arasında 
+yapın. Bu, Amerika Birleşik Devletleri piyasasının açılış (15:00), Avrupa piyasasının kapanış 
+saatleridir.
+т в чем: по отношению к какой валюте, по вашему мнению, он будет расти? Если вы думаете, что 
+доллар будет расти по отношению к японской иене, вы выберете валютную пару “USD/JPY” . 
+Некоторые из основных пар фактически склонны двигаться в одном и том же направлении большую 
+часть времени: это такие пары, как EUR/USD с GBP/USD, USD/JPY с USD/CHF , и, наконец, NZD/USD и 
+AUD/USD.  Другие пары проводят большую часть своего времени, торгуясь в прямо противоположных 
+направлениях: к ним относятся EUR/USD и USD/CHF , GBP/USD и USD/JPY , и, наконец, AUD/USD и USD/
+CAD. Трейдеры могут торговать более чем одной из этих пар, в понимании того, что они, скорее всего, 
+будут двигаться либо в одном и том же, либо в противоположных направлениях
+2в. Crosses and Exotics 
+Некоторые трейдеры предпочитают торговать валюты, отличные от доллара США, и встречные 
+валюты «кроссы» позволяют им это делать. Тем не менее, рынки «кроссов», в целом, менее ликвидны, 
+чем «основные». Три наиболее активные неамериканские валюты – это EUR, JPY и GBP .
+Существуют другие валютные пары, которые вы можете выбрать для торговли, - иногда их называют 
+«экзотическими» валютами. Если вы чувствуете, что южно-африканский ранд собирается вырасти по 
+отношению к доллару, то вы можете купить ZAR/USD. Однако, эти «экзотические» валюты не только 
+весьма волатильны, но также склонны обходиться дороже в плане стоимости самих торгов. 
+ 
+Çift Kodu Adı Ülkeler
+NZD/JPY Kivi-Yen Yeni Zelanda/Japonya
+AUD/JPY Aussie-Yen Avustralya/Japonya
+GBP/JPY Sterlin-Yen Büyük Britanya/Japony a
+EUR/JPY Avro-Yen Avrupa Bölgesi/Japonya
+EUR/GBP Avro-Sterlin Avrupa Bölgesi/Büyük Britanya
+EUR/CHF Avro-İsviçre Frankı Avrupa Bölgesi/İsviçre
+2г. Зоны трейдинга и расписание торговых сессий
+Ведущие трейдинговые центры расположены в Лондоне, Нью-Йорке и Токио, и именно в этих городах 
+в рабочие часы происходит большая часть рыночной активности. 24-часовой рынок Форекс следует 
+за солнцем вокруг земного шара – трейдинговый центр каждой страны открыт с 8.00 до 16.00 (по 
+местному времени).  Например, когда рынок закрывается в США, он открывается где-нибудь в другом 
+месте. Это удобно для вас, поскольку означает, что вы можете продолжать торговать.
+Если случилось так, что вы живете в Токио, то к вам применимы следующие временные рамки: Европа 
+открывается, когда у вас 15.00; Лондон - когда у вас 16.00; а Нью-Йорк - когда у вас 21.00.
+Merkez Saat Kuşağı Açılış
+Asya/Tokyo
+Kapanış
+Asya/Tokyo
+Frankfurt
+AB Avrupa/Berlin 15:00 
+11 Haziran 2008
+23:00
+11 Haziran 2008
+London
+Great Britanya Avrupa/Londra 16:00
+11 Haziran 2008
+12:00 
+12 Haziran2008
+New Y ork
+United Amerika ABD/New York 21:00
+11 Haziran 2008
+05:00
+12 Haziran 2008
+Работая вне временных рамок, которые наилучшим образом соответствуют вашему местоположению, 
+убедитесь в том, что это сессия с большим объемом. Такие сессии обычно возникают, когда рынки 
+многих стран торгуют в одно и то же время, поскольку это допускает наиболее значительные 
+отклонения, которые при этом предоставляют лучшую возможность для вас получить хороший 
+возврат на свою инвестицию.
+Лучшие сложные торговые сессии отмечены ниже: 
+• Торгуйте EUR/USD, USD/CHF , или GBP/USD между 8.00 и 12.00 по восточному поясному 
+времени (ВПВ). Это время, когда рынок США только что открылся (в 8.00 ВПВ), а 
+европейский рынок закрывается на этот день. 
+• С 01.00 ВПВ до 03.00 ВПВ - время, когда азиатские рынки закрываются, а европейские 
+рынки открываются. Австралийские и азиатские рынки пересекаются между 19.00 и 
+22.00 ВПВ, что также предоставляет хорошие трейдинговые возможности.  
+• В промежутке около 16.00 и 18.00 ВПВ закрываются рынки США. В это время нет 
+перекрывающихся рынков. В этот период объем значительно ниже и возможность 
+существенных колебаний возникает гораздо реже.  Лучше всего стараться избегать 
+этого временного промежутка.
+Часовые пояса по ВПВ (восточному поясному времени)
+• С 7.30 до 17.00 – Нью-Йорк 
+• С 15.00 до 23.00 – Окленд, Сидней и Веллингтон 
+• С 18.00 до 23.00 - Токио 
+• С 19.00 до 03.00 – Гонконг и Сингапур 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+11
+• 08:00 – 10:00 Asya piyasasının kapanıp, Avrupa piyasasının açıldığı saatlerdir. Avustralya ve 
+Asya piyasaları 02:00 – 05:00 arası çakışırlar ki bu da ticaret için iyi fırsatlar sunar.
+• 23:00 – 01:00 civarında ABD piyasaları kapanır. Bu saatlerle çakışan başka piyasa yoktur. Bu 
+süre zarfında hacim çok daha düşük olur ve büyük hareketlerin oluşması daha enderdir. Bu 
+saatlerde işlem yapmaktan kaçınmak daha iyi olur. 
+Zaman Dilimleri GMT +2 (Türkiye Yerel Saati)
+• 14:30’dan 24:00’a – New York 
+• 22:00’dan 06:00’a – Auckland, Sidney ve Wellington 
+• 01:00’dan 06:00’a – Tokyo 
+• 02:00’dan 10:00’a – Hong Kong ve Singapur 
+En İyi Ticaret Saatleri (Türkiye Yerel Saati)
+• En yavaş saatler 20:30 – 23:00 arasıdır.
+• Sistem, 23:30 – 00:30 arası kapalıdır.
+• 00:30 – 02:30 arası alım satım yapmayın.
+• 02:30’da alım satım yapmaya başlayabilirsiniz.
+• En iyi saatler 03:00 ile 16:00 arasıdır.
+ 
+Forex Ticareti – Özet 
+• Dövizler sadece yükselip düşmezler, bunu bir başka döviz cinsine oranla yaparlar. 
+• Bu nedenle, ticaretini yaptığınız enstrümanlar, “döviz çiftleri” olarak bilinir.
+• Döviz Çiftleri şu şekilde belirtilir: BAZ / KARŞIT
+PÜF NOKTASI: Döviz çiftlerinde karar vermenin kolay bir yolu hangi dövizin yükseleceği veya 
+düşeceğini belirlemektir – Eğer Avro’nun Dolar karşısında değer kazanacağını (çizelgedeki 
+fiyatların yükselmesi) düşünüyorsanız, EUR/USD alırsınız. Ticaret terminolojisinde alım 
+işlemine “alış” (uzun pozisyon) denir. Diğer yandan, eğer Avro’nun Dolar karşısında değer 
+kaybedeceğini tahmin ediyorsanız (çizelgedeki fiyatların düşmesi) o zaman EUR/USD 
+satarsınız. Satma işlemine “satış” (kısa pozisyon) denir. 
+PÜF NOKTASI: Alım satımını yapacağınız döviz çiftini seçerken, toplam ticaret hacminin 85% 
+’ini kapsayan “Majörler” arasından seçim yapmanız tavsiye edilir. 
+“Majör” döviz çiftleri şunlardır:
+EUR/USD GBP/USD AUD/USD NZD/USD USD/JPY USD/CHF USD/CAD
+  
+ Markets.com ile ticaret yapın ve majör döviz çiftlerine ulaşın!
+Hemen www.markets.com ‘u ziyaret edin!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+12
+3. Neden Forex Ticareti?
+Forex ticareti, global dövizlerin sunduğu tüm fırsatlardan yararlanmanızı sağlar; bir Dolar sadece bir Dolar 
+değildir, pek çok farklı açısı olan çok boyutlu bir metadır – Forex ticareti yaparak bu farklı açıları kullanıp, 
+neredeyse günün veya gecenin her saatinde kazanç sağlayabilirsiniz. 
+Peki neden Forex piyasası? Forex piyasası, hisse senedi borsası gibi alışık olduğunuz geleneksel piyasalara 
+oranla bazı önemli avantajlar sunar. Bu bölümde Forex piyasasının eşsiz avantajlarının bir kısmını 
+inceleyeceğiz:
+3a. Erişilebilirlik ve Esneklik
+Ülkenin belli işlem saatleri ile sınırlanan finans piyasalarının aksine, Forex günde 24 saat, haftada 5 gün 
+açıktır. Bu yatırımcılara, günlük hayatlarına uyacak şekilde işlem saatlerini seçme özgürlüğü verir. Tam 
+zamanlı çalışanlarımız için “güniçi oynama” gerçekçi değildir.
+3b. Yüksek Likiditeli Piyasalar
+Başarının anahtarı herhangi bir türden yüksek likiditeli piyasada işlem yapmaktır. Yüksek likiditeye sahip 
+piyasalar, kişiye alım satım yaparken daha fazla kontrol ve güvenilirlik sunarlar. Piyasanın yüksek likiditeye 
+sahip olması, genellikle istediğiniz fiyattan anında giriş ve çıkış yapabileceğiniz anlamına gelir. Likiditesi 
+daha düşük piyasalar oldukça değişken ve tahmin edilmesi zor olduklarından, giriş, çıkış, istenilen fiyat 
+gibi konularda yatırımcılar için daha kısıtlayıcı olabilirler (bu durum, borsada büyük hacimli varlıklarını 
+paraya çevirmesi gereken hissedarların yaşadıkları zorluğa benzerdir).
+Forex mevcut olan en likit piyasadır ve özellikle de herhangi bir şahsın veya şirketin herhangi bir süre için 
+piyasayı manipüle etmesinin imkansız olmasından dolayı, fiyatlarında büyük bir dürüstlük hakimdir.
+3c. Kaldıraç (Kredili Menkul Kıymet İşlemleri)
+İnsanların çoğu, kendisine ait bir emlak sahibi olabilmek için ev kredisi almak üzere, yerel bir bankere %5 
+ila %20 arası bir depozito ile gitmeye ve bunun yarattığı heyecan ve bekleyişe aşinadır. Mali bilgilerinizi 
+en ince ayrıntısına kadar inceledikten sonra bankerler sizi değerlendirip, hayatınızın büyük bir kısmına 
+yayılacak olan geri ödeme yükümlülüğünü karşılayıp karşılayamayacağınızı tartarlar. (Tabii ki 2008’de 
+kredi piyasasının batmasının kanıtladığı gibi, geri ödeyebilirlik araştırması ve ön ödeme talepleri oldukça 
+yetersizdir!)
+Eğer bir mülk için güvenlik depozitosu olacak kullanabileceğiniz $50,000 Dolar’ınız varsa, ve banka bu 
+mülk için %10 ön ödeme talep ediyorsa, o zaman alacağınız mülkün değeri $500,000 Dolar’a kadar 
+olabilir. (Siz $50,000 ödeyip kalan $450,000’i borç alırsınız.)
+Buna KALDIRAÇ denir, ve yatırımcıların daha az bir sermaye ile daha büyük değerdeki mal varlığı veya 
+parayı kontrol edebilmesine olanak sağlayan güçlü bir stratejidir. Tüm ödeneği sağlamadan, daha 
+büyük mal varlıkları satın alabilirsiniz; sadece paranın büyük bölümünü borç alıp, bu borç üzerinden 
+faiz ödemeniz yeterli. Kaldıraç, mali piyasaların içinde ve dışında pek çok zengin kişiler tarafından 
+kullanılmaktadır. Mal varlığınızın yaradılışını hızlandırmanın çok iyi bir yoludur, fakat dikkatle kullanılması 
+gerekir çünkü riski yönetememek veya en aza indirgeyememek büyük bir zarara neden olabilir. Forex 
+işlemlerinde kaldıraç kullanmanın en önemli faydalarından biri, riskin limitli olmasıdır, ve bu da ticaret 
+hesabınızda bulunandan daha fazlasını kaybedemeyeceğiniz anlamına gelir. (Bu kayıp diğer bazı 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+13
+ticaret enstrümanlarında meydana gelebilir; diğer enstrümanları kullanan bazı yatırımcılar bir sabah 
+uyandıklarında ticaret hesaplarında bulunandan fazlasını borçlanmış olduklarını görebilirler – ki bu yıkıcı 
+bir keşiftir.)
+Forex piyasasında kaldıraç, 50:1’den düşük veya 100:1, hatta 400:1 kadar yüksek olabilir. Bu da demek 
+oluyor ki, eğer 100:1’de alım – satım işlemi yapıyorsanız ve yatırım sermayenizden bu ticaret işlemi 
+için $10,000 Dolar kullanırsanız, ortaya $1 Milyon Dolar gibi büyük bir rakam çıkar ki bunu alım – 
+satımlarınızda dilediğiniz gibi kullanabilirsiniz. $10,000 Dolar’dan yüzde bir kazanmak çok fazla değil ama 
+kaldıraç kullanarak, $10,000 Dolar’lık net bir yatırım ile $1 Milyon Dolar’ın %1’ini kazanabilirsiniz. Forex 
+piyasası, borsa veya uzun vadeli işlemlere oranla çok daha yüksek kaldıraç sunar. Bu da yatırımcılara büyük 
+bir sorumluluk yüklenmesi anlamına gelir: ne yaptıklarını, ve güvenli risk ve para yönetimi stratejilerini 
+nasıl kullanacaklarını iyi bilmeleri gerekir. 
+Forex’e ayrıca “Kredili Menkul Kıymet İşlemi” de denir çünkü işlemler ancak bir teminat ile yapılabilir. 
+Teminat, normal şartlar altında toplam kaldıraçlı risk açığınızın çok ufak bir miktarına denk gelecek bir 
+oranda, kaldıraçlı pozisyonunuz için ödenen bir sermaye veya güvenlik depozitosudur. Ancak, işlem 
+hesabınızdaki toplam bakiye veya teminat tutarınız, alabileceğiniz pozisyonların boyutlarını belirler. 200:1 
+oranındaki bir kaldıraç, %0.5 kaldıraç ile ticaret yaptığınız ve ticaret hesabınızda pozisyon toplamının 
+%0.5’inin teminat olarak bulunması gerektiği anlamına gelir (200 bölü bir eşittir 0.005, veya %0.5).
+Nasıl yani? Bu, başta biraz karmaşık gelebilir, ama Forex ticareti hakkında daha çok bilgi edindikçe size çok 
+doğal gelmeye başlayacaktır. Öğrenmeniz gereken anahtar nokta şu: Forex piyasasında, sermayenizden 
+çok daha fazla miktarda parayı kontrol edebilirsiniz (ev alırken olduğu şekilde). Kontrol edebileceğiniz 
+tutar, brokeriniz tarafından size verilen kaldıraça bağlıdır. Eğer size 100:1 kaldıraç verildiyse bu, işlem 
+yaptığınız her Dolar için piyasada $100 Dolar kontrol ettiğiniz anlamına gelir. Diğer yandan, kaldıracın 
+size karşı işleyebileceğini de bilmelisiniz: fiyatlar sizin aleyhinize hareket ettiği zaman, hesabınızda yeterli 
+sermaye bulundurarak kaldıraç oranını devam ettirmelisiniz. Şimdi birlikte bir örnek inceleyelim; her ne 
+kadar henüz Forex ticareti ile karşı karşıya gelmiş olmasanız da, teori, pratiğe geçtiğinizde size yardımcı 
+olacaktır. 
+Mesela, $1,000 Dolar ile ve 100:1 kaldıraçla bir Forex hesabı açtığınızı varsayalım. $500 Dolar’lık farazi bir 
+maliyetle (ileride işlemlerin gerçek maliyetlerini de işleyeceğiz) EUR/USD almak için işlem yapıyorsunuz. 
+Şimdi piyasaya $500 Dolar yatırdınız, ve böylece hesabınızda $500 Dolar teminat kaldı. 100:1 kaldıraç 
+oranınız sayesinde piyasada artık $50,000 Dolar’lık dövizi “kontrol” ediyorsunuz... sadece $500 Dolar ile! 
+Eğer fiyat sizin lehinize %10 hareket ederse, pozisyonunuz $55,000 Doar değerine çıkar. Satış yapabilir, 
+“borç aldığınız” $50,000 Dolar’ı geri ödeyebilir, ve $5,000 Dolar kâr edebilirsiniz.  
+Peki, dezavantajı nedir? Varsayalım ki fiyat, %10 yükselmek yerine %1.5 veya $750 Dolar düşüyor. Bu, 
+100:1’lik kaldıraç oranınız nedeniyle pozisyonun değerinin artık $49,250 Dolar olduğu anlamına gelir; bu 
+oranı daima korumalısınız. Diğer bir deyişle, hesabınızda kalan $500 Dolar’dan $250 Dolar daha ödeme 
+yapmalısınız, ki bu da hesabınızda $250 Dolar kalması anlamına gelir. Yani, fiyatlar sizin aleyhinize hareket 
+ettiği sürece, bu oranı devam ettirebilmek için ticaret hesabınızdan para alınmaya devam edilecektir. 
+Peki, fiyatlar sizin aleyhinize hareket etmeye devam edip, ticaret hesabınızda $0 kaldığında ne olur? 
+Broker, otomatik olarak o pozisyonu kapatacaktır. Bu da şu anlama gelir ki, hesaptaki tüm paranızı 
+kaybetmişsinizdir ama hesabınızda bulunandan daha fazlasını kaybetmeniz mümkün değildir. İleride, bu 
+tür kayıpları önleyebilmeniz için farklı teknikleri inceleyeceğiz, fakat şimdilik, ticaret sırasında böyle bir 
+riskin olduğunu anlamanız önemlidir. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+14
+3d. Kısa Ticaret – Düşen Fiyatlardan Kâr 
+Forex, Hisse Senedi, Uzun Vadeli İşlem veya Türev Ürünler’den hangisinde yatırım yaparsanız yapın, 
+bu, sunulan en büyük avantajlardan biridir, çünkü kısa pozisyon, yatırımcıların düşen fiyatlardan 
+avantaj sağlamasına izin verir. “Kısa” pozisyon almak, “uzun” pozisyon almak kadar kolaydır (fakat hisse 
+senedi piyasasında bu, diğer bahsedilen enstrümanlara kıyasla daha zordur). Kâr, sadece fiyattaki 
+dalgalanmalardan – açılış ve kapanış arasındaki farktan – kazanılır. Böylece yatırımcı, yükselen fiyatlar 
+kadar düşen fiyatlardan da kazanç elde edebilir. 
+• Uzun Pozisyon = Yükselen fiyatlardan kâr
+• Kısa Pozisyon = Düşen fiyatlardan kâr
+Örneğin, eğer bir FX yatırımcısı Avro’nun Amerikan Doları karşısında değer kazanacağına inanıyorsa, Avro’da 
+uzun pozisyon alıp, piyasadan satın alır. Pozisyonunun kârlı olabilmesi için Avro’nun yükselmesi gerekir. 
+Pozisyonu kapatmak için, eşit bir pozisyonu satması gerekir ve böylece işlem öncesindeki durumuna geri 
+döner – ki bu da piyasada nötr konumdur. 
+Öte yandan, eğer yatırımcı, Avro’nun Amerikan Doları karşısında değer kaybedeceğini düşünüyorsa, kısa 
+pozisyon alıp, piyasaya satış yapması gerekir. Pozisyonunun kârlı olabilmesi için Avro’nun düşmesi gerekir 
+(pozisyonu kapatmak için eşit bir pozisyonu yeniden alması gerekir ve böylece piyasada yeniden nötr bir 
+konuma erişir). 
+Kısa satış, daha önce bu terimi hiç duymamış kişilerin “çıldırmasına” neden olabilir, zira bu süreç pek de 
+“mantıksal” sıralamaya uymaz. Sonuçta nasıl olur da, fiyatlar düşerken siz kâra geçebilirsiniz? Kısa satış yeni 
+bir şey değildir. Hatta, tüccarlar yüzlerce yıldır bu sistemi kullanmaktadırlar. Kısa satış, Jesse Livermore’a 
+milyonlarını kazandıran tekniktir; 1929’da Amerikan piyasasında, yaşanan en kötü borsa çöküşlerinden biri 
+sırasında, kısa pozisyon almış ve en büyük “Ayı Tacir” ünvanını almıştır. Ne yazıkki, çocukluğumuzdan bu 
+yana bize hep paranın fiyatlar yükseldiğinde kazanılabileceği öğretilmiştir, ve bu tarz bir düşünce şekli 
+büyük ihtimalle güçlü fırsatları kaçırmanıza neden olacaktır. 
+Önemli olan piyasanın doğru tarafında olmanız ve pozisyonunuzu doğru piyasa hareketinden kazanç 
+sağlayacak şekilde açmanızdır. “Uzun” pozisyon alıyorsanız fiyatlar düşerse kâra geçmezsiniz, aynı şekilde 
+“kısa” pozisyondayken de yükselen fiyatlardan kâr elde edemezsiniz 
+“Kısa” ticaret yapmak için (ki düşen fiyatlardan kâr elde edebilin), tek yapmanız gereken AL butonu yerine, 
+SAT butonuna basmaktır. Bu biraz zıt bir durum olabilir, çünkü elinizde olmayan birşeyi nasıl “satabilirsiniz” 
+ki? Şimdilik, bu konsept kafanızda iyice yer edene kadar, butonları şu şekilde düşünün:
+“Al” , “Fiyatların yükseleceğini düşünüyorum ve bundan kazanç sağlamak istiyorum” olsun
+“Sat” , “Fiyatların düşeceğini düşünüyorum ve bundan kazanç sağlamak istiyorum” olsun
+3e. Gün İçi Volatilite
+Birçok Forex yatırımcısı, majör dövizlerde günlük alım – satım yapmayı sever, zira bu grubun düzenli 
+olarak, tacirlerin istisnai derecede hızlı kâra dönüştürebileceği, büyük ve değişken gün içi  hareketleri olur. 
+Daha sonra, Günlük Ticaret, Gün İçi Ticaret ve Daha Uzun Vadeli Momentum Ticaret arasındaki farkı detaylı 
+bir şekilde anlatacağım. Bireysel yatırım tarzınızı belirlemeniz çok büyük önem taşır – bu, ciddiye almanız 
+gereken ve sırf heyecan olsun diye yapılmayacak birşeydir. 
+3f. Düşük Spreadler
+Forex, hisse senedi piyasasına bile oranla son derece düşük spreadler sunar. Spread, Alış ve Satış fiyatları 
+arasındaki farktır. Bu iki fiyat Forex Aracıları tarafından kote edilir ve paralarını bu şekilde kazanırlar, zira 
+aracılar komisyon veya brokerlik ücreti almazlar. Bu, ileriki sayfalarda daha detaylı bir şekilde işlenecektir. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+15
+3g. Teminat Politikası ve Teminat Çağrıları
+Forex piyasasının en güzel yanı riskin limitli olması ve ticaret hesabınızda bulunandan fazla parayı asla 
+kaybedemeyecek olmanızdır; diğer bir deyişle kendinizi hiçbir zaman Forex kaybınızı telafi etmek için 
+büyük bir mal varlığı satmak zorunda bulmayacaksınız. Birçok brokerin bir çeşit kayıp limiti vardır, mesela 
+ticaret hesabınızın %60’ı gibi, ve bu limite geldiğinizde sizinle temas kuramamışlarsa, tüm pozisyonlarınızı 
+likide ederler. Hesabınızı açtığınız sırada en iyi tekliflere erişebilmeniz önemlidir. 
+Markets.com Teminat Çağrısı Politikası hakkında bilgiyi buradan alabilirsiniz! 
+Ticaret platformuna, ticaret hesabına ve hatta döviz çiftine göre değişen bir çok teminat oranı vardır. Bu 
+oranlar, 200:1 (yani işlem için %0.5 teminat gerektiği anlamına gelir), 100:1 (yüzde bir), 50:1 (yüzden iki)  
+ve benzeri şekilde kote edilir. 
+Şimdi birlikte birkaç teminat hesaplamasına bakalım:
+Birçok FX brokeri %1 teminat politikası uygular. Bu, yatırımcıların, hesaplarının açık kalabilmesi için daima 
+100:1 oranını devam ettirmeleri gerektiği anlamına gelir. Aksi halde brokerin, kâr getirmeyen tüm işlemleri 
+otomatik olarak kapatma hakkı vardır. Hatta bazı brokerler, kârda veya zararda olduğuna bakmadan, 
+hesaba dahil olan tüm pozisyonları bile kapatabilirler. Bu nedenle, brokerin Teminat Politikası’nı iyice 
+anladığınızdan emin olun.
+Ticaret hesabınızı hiçbir zaman tamamen boşaltmayacağınızı garanti edecek iyi bir risk yönetim aracı, 
+hiçbir pozisyonda çok yüksek oranda kaldıraç kullanmamaktır. Mesela, ticaret hesabınızda $10,000 Dolar 
+varsa, 100:1 kaldıracınızın (toplamda $1 Milyon Dolar ediyor) tümünü pozisyonlarda kullanmamalısınız 
+çünkü, eğer ki büyük bir pozisyon hızlı bir şekilde sizin aleyhinize hareket ederse, brokerler sıkı teminat 
+limit politikaları nedeniyle hesabınızı kapatacaktır. 
+Yani, ortalama piyasa hareketlerini belirlemeli ve para yönetim stratejinizde hesaba katmalısınız ki 
+pozisyonunuz gereksiz yere kapatılmasın. Yukarıda belirtildiği gibi, bazı piyasa yapıcılar pozisyonlarınızın 
+tümünü, kâr veya zarar durumuna bakmadan kapatabilirler.
+Ticaret platformunuzda hesabınız, pozisyonlarınızın kapatılacağı teminat çağrısına yaklaştığına sizi 
+uyaracak bir uyarı sistemi olmalıdır. Fakat hızlı hareket eden bir piyasada, size teminat çağrısı ile ilgili 
+uyarıda bulunmak için çok az veya hiç vakit olmayabilir. Hesabınızı izlemek ve brokerin teminat politikasını 
+devam ettirmek sizin sorumluluğunuzdur. 
+Brokerin pozisyonlarınızı kapatması gibi bir durumdan kaçınmak için, aşağidaki noktaları unutmamalısınız:
+• Devamlı olarak hesabınızı izlemelisiniz. Bu, yatırımcıların piyasada açık bir işlemleri varken 
+bilgisayarlarının başında olmalarını gerektiren nedenlerden sadece bir tanesidir. 
+• Pozisyonunuzun riskini kısıtlamak için her zaman bir “zarar durdur” emri  kullanmalısınız  
+(aşağıya bakınız).
+• Eğer teminat çağrısına yakınsanız, kullanılan teminat miktarını azaltmak için tek pozisyonlarınızı, veya 
+eğer platformunuz izin veriyorsa, pozisyonlarınızın bir kısmını kapatabilirsiniz
+• Hesabınıza para ekleyebilirsiniz, ama unutmayın ki piyasa aleyhinize çok hızlı bir şekilde ilerlerse, para 
+hesabınıza zamanında girmeyebilir. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+16
+3h. Alış – Satış Spreadi (Makas)
+Spread, “Alış” ve “Satış” arasındaki farktır ve – tahmin edeceğiniz gibi – pip’ler ile ifade edilir. Normal 
+olarak, ticaret platformları komisyon veya aracılık ücreti almazlar, çünkü hizmetlerinin karşılığını spread 
+üzerinden alırlar (bundan farklı olarak hisse senedi piyasalarında spreade ek olarak bir de aracılık 
+komisyonu alınır). Diğer bir deyişle, “Bid” veya “satış” fiyatı 108.01 iken “Ask” veya “alış” fiyatı 107.98 olabilir. 
+Ticaret platformunuzda döviz çifti, “satış” fiyatı, “alış” fiyatı ve bu dövizi almak ve satmak için butonlar 
+şeklinde gösterilecektir: 
+Bundan dolayı, diyelim ki 108.01’den döviz aldınız ve anında, piyasa daha hareket etmeden sattınız: 
+satış fiyatınız 107.98 olur. Broker, alış ve satış arasındaki farktan dolayı bu işlemden para kazanır. Normal 
+makaslar her an değişebilir olduklarından, birçok ticaret platformu, pozisyonlarının kesin tutarını her 
+zaman bilebilmek isteyen yatırımcılara sabit spread opsiyonu sunmaktadır. İşlemlerinizde kâr ve zararı 
+hesaplarken bu masrafı da göz önünde bulundurmayı unutmayın. Bazı platformlar spreadi aradan çıkartıp 
+sabit bir komisyon oranı talep eder (mesela, işlem gören her $1,000 için $0.60 gibi), ki bu da sadece 
+kazanan alım – satım işlemlerinde ödenir. 
+3i. Lot Miktarları
+Forex işlemleri “lot” biriminde yapılır. Bundan farklı olarak hisse senedi işlemlerinde örneğin, 100 hisse 
+alırsınız. Forex’te ise belirli bir sayıda “lot” alırsınız. Peki, bir lotun büyüklüğü nedir? Bu, brokerinize 
+bağlıdır. Markets.com’te standart lot 5,000 ünitedir. Bu demektir ki, 20 lot alırsanız, 100,000 döviz ünitesi 
+kontrol ediyor olursunuz. Yukarıda incelediğimiz kaldıraç bölümünden hatırlayacağınız gibi, bunun için 
+hesabınızda gerçekten $100,000 olmasına gerek yoktur. 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+17
+ Neden Forex Ticareti – Özet
+• Forex, günde 24 saat, haftada 5 gün açıktır. Esnek oluşu, Forex’in farklı yaşam tarzları 
+ve mesleklere uygun olmasını sağlar. 
+• Forex mevcut olan en likit piyasadır – genellikle, piyasaya istediğiniz fiyattan giriş ve 
+çıkış yapabilirsiniz. 
+• Forex ticaretleri “lot” birimlerinde yapılır. Lotun boyutu broker tarafından belirlenir 
+ve döviz birimi olarak verilir. 
+• Forex piyasasında fiyat dürüstlüğü hakimdir ve neredeyse hiçbir şekilde bireysel 
+veya şirket manipülasyonu içermez. 
+• Kaldıraç (Kredili Menkul Kıymet İşlemleri), Forex piyasasında kullanılan güçlü bir 
+stratejidir. Bu, yatırımcıların az miktarda bir sermaye ile daha yüksek miktarda 
+kıymeti kontrol edebilmesini sağlar. 
+• Hem yükselen fiyatlardan (uzun pozisyon), hem düşen fiyatlardan (kısa pozisyon) 
+hem de fiyat değişikliklerinden kâr elde edebilirsiniz.  
+• UNUTMAYIN: Kâr elde edebilmek için piyasanın “doğru” tarafında olmalısınız. Eğer 
+uzun pozisyonda ticaret yapıyorsanız fiyatlar düştüğü takdirde kâra geçemezsiniz, 
+tıpkı kısa pozisyonda ticaret yaparken yükselen fiyatlardan kâr edemeyeceğiniz gibi. 
+• Ticaret riskinizi kısıtlandırmak için her zaman “Zarar Durdur” Emri kullanmalısınız. 
+Bu eKitabı okumayı (ve tekrar okumayı!) bitirdiğinizde,  
+www.markets.com ‘u ziyaret edin ve geniş kapsamlı Forex ve  
+CFD Kaynak Merkezi’mizi keşfedin!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+18
+4. PİP’ler
+1 Pip, Forex ticaretinde kullanılan dövizin en küçük birimidir ve fiyat hareketlerini ifade etmek için 
+kullanılır. Mesela 10 sent yükselen veya düşen hisselerin aksine, bir Forex döviz çiftinin hareketleri pip’lerle 
+ölçülür. Bir Forex yatırımcısı olarak hedefiniz, mümkün olduğunca çok pip yapmaktır. Kazanılar pip’ler = 
+kâr; kaybedilen pip’ler = zarar.
+ Dövizin fiyat hareketleri PİP (puan olarak fiyat) olarak ölçülür, ve bazen “puan” olarak da adlandırılır. Pip, 
+1.2345’in en sağındaki basamaktır, yani eğer döviz 150 Pip hareket ederse yeni fiyat 1.2495 olur. 
+Yukarıdaki EUR/USD kotasyonunda, kote edilen fiyat 1.5672 (bir Avro almak $1.5672’ye mal olacak). Döviz 
+çifti 12 pip artarsa yeni fiyat ne olur?
+Doğru: 1.5684. Gördüğünüz gibi, X sent arttı demiyoruz, onun yerine X pip arttı diyoruz, ki bu da sentin 
+küsuratı olarak çevrilir.
+Önemli bir nokta da şudur ki, Japonya’nın para birimi YEN’in ondalık noktasının sağında 4 yerine sadece 2 
+hane bulunur, örneğin 108.01 gibi. Yani, eğer Avro/Yen çifti 12 pip yükselirse, EUR/USD’ye kıyasla ortaya 
+farklı bir değer çıkar – bu da demektir ki pip değeri, döviz çiftine bağlı olarak farklılık gösterebilir. Bir pip’in 
+değeri, karşıt dövize bağlıdır (kotasyonun sağındaki döviz. Aşağıda verilen örnekte bu, JPY’dir).
+Bu noktada, EUR/USD döviz çiftinde 50 pip kazanmanın fazla önemli olmadığını düşünebilirsiniz, ne 
+de olsa bu bir sent değerinde bile değil! Fakat, döviz hareketlerindeki bu en ufak artışın bile ne kadar 
+büyük kaldıraç avantajları ile değerleneceğini öğrendiğinizde çok şaşıracaksınız. Günlük hayatta ilk iki 
+basamaktan sonrasına bakılmazken, Forex ticaretinde yaptığımız tamamen budur. Yukarıdaki örnekte 
+fiyat sadece $1.23 değil, $1.2345 olarak verilmiştir. Herhalde insanın 90 pip’lik bir hareketten (bir sentin 
+altında bir rakam) nasıl para kazanabileceğini merak ediyosunuzdur. Kaldıraç tartışmamızı hatırlayın. 
+$1,000 Dolar ile, $100,000 Dolar kontrol edebilir, ve bu para üzerinden kazanç sağlayabilirsiniz! Yani, 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+19
+diyelim ki 50 pip, %1 fiyat artışını simgeliyor: bu $1,000 Dolar’lık bir kâr demektir ($100,000 Dolar’ın %1’i)!
+Forex piyasasında deneyim kazandıkça pip’ler size çok doğal gelmeye başlayacaktır. Bir pip, herhangi bir 
+döviz çiftinin hareketini gösteren en küçük ölçü birimidir. Bazı döviz çiftlerinın ondalık noktasının sağında 
+dört basamağı varken, bazılarında sadece iki basamak olabilir. Ne olursa olsun, yine de hareketleri pip 
+ile gösterilir. “4 basamaklı” bir döviz çiftinin 1 pip yükselmesi durumunda en sağdaki basamak artacaktır 
+(örnek: 1.2345’den 1.2346’ya). “2 basamaklı” dövizlerde de yine en sağdaki basamak değişir: 108.01’den 
+108.02’ye. Diğer bir deyişle, her ikisi de birer PİP artmıştır. 
+4a. Pip Hesaplama
+Dört Ondalık Haneli Dövizler:  Eğer 100,000 döviz birimi alıp satıyorsanız, her pip’in değerini belirlemek 
+için sadece dört sıfır atmanız yeterli olur. Yani, eğer 100,000’lik  20 standart lot alıp satıyorsanız, her pip’in 
+değeri 10 olacaktır. Eğer kote edilen döviz USD ise, bir pip’in değeri $10’a eşit olacaktır. 
+İki Ondalık Haneli Dövizler: Eğer 100,000 döviz birimi alıp satıyorsanız, her pip’in değerini belirlemek için 
+sadece iki sıfır atmanız yeterli olur. Yani, eğer 100,000’erlik  20 standart lot alıp satıyorsanız, her pip’in 
+değeri 1,000 olacaktır. Bu durumda, kote edilen döviz YEN, ve her pip’in değeri de ¥1,000 olur. Pip değerini 
+hesaplamak için sadece ¥1,000’i geçerli Yen kuruna bölmeniz yeterli (örneğin, ¥1,000 bölü 108.50 = pip 
+başına 9.21 USD).
+ 
+Pip’ler – Özet 
+• PİP’ler Forex’te fiyat hareketlerini belirtmek için kullanılan ölçü birimleridir. 
+• Forex’te, fiyat hareketleri X sent olarak değil, X pip olarak belirtilir.
+• Kazanılan pip’ler = kâr
+• Kaybedilen pip’ler = zarar
+• Unutmayın ki pip’lerde meydana gelecek küçük bir artış, hesap bakiyesi oranında büyük bir 
+artışa neden olabilir! Bu, gerçekte kontrol edilen döviz  miktarına bağlıdır. 
+• Bazı dövizlerin iki ondalık hanesi (Yen), bazılarının da dört ondalık hanesi vardır (Dolar).
+• Dört ondalık haneli dövizler: 100,000 döviz biriminde alım – satım yaparken,  
+pip değerini hesaplamak için dört sıfır atın. 
+• İki ondalık haneli dövizler: 100,000 döviz biriminde alım – satım yaparken,  
+pip değerini hesaplamak için iki sıfır atın.
+Sorunuz mu var? Markets.com, piyasayı anlamanıza yardımcı  
+olacak Ticaret Uzmanı’na sınırsız erişim sunar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+20
+5. Emir Türleri
+Yatırımcıların, kendi ticaret araçları ve stratejileri – özellikle de “risk yönetimi” stratejileri - ile birlikte 
+kullanabilecekleri birçok farklı emir türü bulunmaktadır. Risk yönetimine destek olacak en popüler 
+iki emir “Zarar Durdur/Limit” emirleri ile “Limit Giriş/Stop” emirleridir. “Zarar Durdur” emri, açık olan 
+pozisyonunuzu, önceden belirlemiş olduğunuz seviyede kapatarak kaybınızın olduğundan daha da kötü 
+bir hale gelmesini engeller. “Giriş” emri, sizi istediğiniz fiyattan piyasaya sokar. Şimdi lütfen benimle birlikte 
+tekrar edin: 
+HER İŞLEME, ÖNCEDEN TANIMLANMIŞ BİR “ZARAR DURDUR” EMRİ İLE BAŞLA YACAĞIM. 
+Eğer hatırlamanızı ve kullanmanızı umduğumuz tek bir şey varsa o da bu mesajdır. Yeni başlayan bir 
+Forex yatırımcısı olarak asıl hedefiniz büyük miktarlarda para kaybetmekten kaçınmaktır. Deneyimli bir 
+yatırımcının ara sıra küçük kayıplar vermesi çok normaldir...bu doğru olarak işleyen iyi bir sistemdir. Büyük 
+kayıplar vermekten kaçınmak için, lütfen tüm işlemlerinizi, doğru bir şekilde ayarlanmış “zarar durdur” 
+emri ile koruyun. 
+5a. Zarar Durdur Emri
+Tacirler alım satım işlemlerinde daima “zarar durdur” emri kullanmalıdır. Bu, piyasa aleyhinizde ilerlediği 
+takdirde pozisyonunuzun otomatik olarak kapatılacağı fiyattır. “Zarar durdur” emriniz, “en kötü” ihtimale 
+karşı korumanızdır. Diğer bir deyişle, çok büyük bir kayıba karşı riskinizi en aza indirgemenize yardımcı 
+olur. Eğer bu sizin “en kötü” ihtimaliniz ise, neden her zaman “zarar durdur” emri kullanmanız gerektiğini 
+anlayacaksınız. Diyelim ki, size $1,000 Dolar’a mal olan bir alım satım işlemi yapıyorsunuz. Gerçek şu 
+ki bazı işlemlerden para kaybedeceksiniz, zira her işlem kazançlı olamaz. Öyleyse, bu $1,000 Dolar’lık 
+ticaret işlemine girerken, işlemin sizin istediğiniz yönde gitmediğine karar verip, çıkış yapmadan önce 
+kaybetmeye hazırlıklı olduğunuz azami tutara karar vermelisiniz. Varsayalımki, $200 Dolar kaybettiniz ve 
+piyasa sizin aleyhinizde hareket ederse çıkış yapmaya karar verdiniz (yani, pozisyonunuzun değeri $800 
+Dolar iken). Bu durum, “zarar durdur” emrinin – veya daha yerinde bir deyişle “bu işlemden defol git” 
+emrinin - faydasını örnekle açıklayacaktır. (Çeşitli risk stratejileri hesabınızın büyüklüğüne göre ne kadar 
+riske etmeniz gerektiği konusunda size rehberlik yapar, biz de bu konuyu daha sonra inceleyeceğiz). 
+Şimdi, piyasanın aleyhinizde hareket etmesi durumunda, manüel olarak işlemden çıkmak yerine neden 
+“zarar durdur” emri kullanmanız gerektiğini merak ediyor olabilirsiniz. Ne yazıkki pek çok yatırımcı, bu 
+strateji yüzünden ticaret hesaplarını heba ettiklerinin farkına varmıştır. Birincisi, değişken piyasa hızla 
+hareketlenip ticaret hesabınızın %50’sini sildiğinde siz, bilgisayarınızın başına bağlanmış olmayabilirisiniz 
+(öğlen yemeğine gitmiş olabilirsiniz). Bana güvenin – bu olur. “Zarar durdur” kullanmanız için bir başka 
+başlıca neden ise canlı işleme geçtiğinizde hesaba katılan duygularla alakalıdır. 
+Bana inanın ki kaybetmekte olan bir pozisyonu kapatmak inanılmaz bir disiplin gerektirir, çünkü sürekli 
+olarak, ya piyasa tersine dönerse diye bir dakika daha beklemek istersiniz. Yavaş yavaş hesabınız yok 
+olur. Baştan belirlenmiş bir “zarar durdur” emri ile işleme girerek, riskinizi kısıtlamış ve duygusallığı 
+ortadan kaldırmış olursunuz. Bir “zarar durdur” emri tetiklendiğinde, belki biraz kaybetmiş olursunuz 
+ama hesabınızda hala para kalmıştır ve savaşa devam edebilirsiniz. Bir ticareti, hesabınızın son kuruşuna 
+kadar devam ettirmeyin. Para yönetimi hakkında ileride daha kapsamlı olarak konuşacağız, ama şimdilik 
+şunu unutmayın: bir ticarete başlarken daima sezgisel olarak iyi bir noktada “zarar durdur” emri verin. Ve 
+sıradan küçük kayıplarınızı sevmeyi öğrenin, çünkü onlar, ticaret sisteminizin düzgün olarak çalıştığının 
+göstergesidir. Herhangi bir büyük kayıp ya psikolojinizin, ya da ticaret sisteminizin doğru şekilde 
+işlemediğinin göstergesidir. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+21
+“Zarar durdur” emrinin iki türü “satış durdur” ve “alış durdur” emirleridir. “Satış durdur” emirleri bir uzun 
+pozisyondan çıkmak için, “alış durdur” emirleri ise bir kısa pozisyondan çıkmak için kullanılır. Genellikle, 
+“zarar durdur” emirleri, emir fiyatında tetiklenir; bununla birlikte eğer ki piyasa durdurma noktasını atlarsa, 
+pozisyon bir sonraki mümkün olan en iyi fiyatta kapatılır.
+5b. Limit Emri
+Kar alım emri yatırımcının, fiyat belirli bir seviyeye geldiğinde pozisyondan çıkış yapmak için kullanacağı 
+emirdir. Mesela, GBP/USD’de (1.7750’den) uzun pozisyonda ise, pozisyonu 1.7800’de otomatik olarak 
+kapatmak için limit emri vererek 50 pip kâr elde edebilir. Bu harika araç, oturmak, seyretmek ve beklemek 
+gibi can sıkıcı işlerden kaçınarak belki de kâr hedefinize ulaşmanızı sağlar. Yukarıda bahsettiğimiz, “zarar 
+durdur” emirlerine ilişkin duygulara benzer olarak, kâr hususunda da duygusal davranmamanız gerekir. 
+Pek çok yatırımcı, kârlı pozisyonların bir anda tersine dönerek net zarara yol açtığına tanık olmuştur. Aç 
+gözlülük pek çoğumuzu alt eder, aynen keder gibi: bazen, kârınızı alır ve fiyatların yükselmeye devam 
+ettiğini görürsünüz, bu da kazancınızdan keder duymanıza yol açar. Bu zihinsel bariyeri aşmanız gerekir. 
+Evet, belki daha fazla kazanabilirdiniz, ama dedikleri gibi, kâr ederek asla kimse kaybetmez. 
+Aşağıda verilen örnekte işlem, piyasa fiyatı olan 1.2402’den açılmıştır (alış emri). Zarar durdur emrine göre 
+pozisyon, fiyat 1.2391’e düşmesi durumunda kapatılacaktır. Limit emrine göre ise pozisyon, fiyat 1.2407’ye 
+geldiği takdirde kapatılacaktır. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+22
+5c. Limit Giriş Emri
+Limit giriş emirleri yatırımcıların, döviz kurunun, emrin verildiği seviyeye geriledikten sonra tekrar 
+yükseleceğine inandıklarında verdikleri bir emir türüdür. 
+Örneğin:
+USD/CAD kuru 1.2399/1.2402’dir. Burada, çiftin yukarı doğru seyretmesini bekliyorsunuz ama daha iyi bir 
+fiyattan uzun pozisyon almayı tercih ediyorsunuz – fiyatların daha fazla yükselmeden önce 1.2394’e kadar 
+gerileyeceğini tahmin ediyorsunuz. Böylece, 1.2394’ten 20 lot (100,000) USD/CAD için limit giriş alış emri 
+veriyorsunuz. Satış fiyatı 1.2394’e ulaştığında, limit emri işleme koyulacak ve 20 lot USD/CAD, 1.2394’ten 
+alınacaktır.
+5d. Stop Giriş Emri
+Stop giriş emirleri yatırımcıların, döviz kurunun, emrin verildiği seviyeye ulaştıktan sonra daha da 
+yükseleceğine inandıklarında verdikleri bir emir türüdür
+Örneğin: 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+23
+USD/CAD kuru 1.2396/1.2399’dur. Şu anda 1.2396/1.2399’dan işlem gören USD/CAD çiftinin yükseliş 
+trendinin devam edeceğini tahmin ediyorsunuz. Ayrıca, çiftin 1.2407 noktasını kırması halinde, en az 50 
+pip daha yükseleceğine inanıyorsunuz.
+Böylece, stop giriş emrinizi 1.2407’ye veriyorsunuz. 
+Aşağıdaki şema farklı emir türlerini nasıl kullanacağınızı anlamanıza yardımcı olacaktır: 5e. OCO Emri (Biri Diğerini İptal Eder)
+İzsüren Durdur Emri, piyasa trendlerinde kayda değer bir düzelme veya değişiklik olması durumunda 
+kazanç sağlamanın müthiş bir yoludur. Zarar durdur ile ilgili zaten konuşmuştuk -  işleminizin otomatik 
+olarak kapandığı nokta. “İzsüren durdur” emrinin güzelliği şudur ki fiyatlar açık olan pozisyonunuz 
+yönünde ilerlemeye devam ettiği sürece, “izsüren durdur” emri fiyatları takip edecektir (sizin belirlediğiniz 
+miktarda “iz sürer”). Bu da daha fazla kazanç sağlamanıza olanak tanır. Fiyatlar sonunda tersine 
+döndüğünde “izsüren durdur” emri tersine dönmeyecektir, ve fiyatlar “izsüren durdur” emri noktasına 
+geldiğinde pozisyonununuz kapanacaktır. “İzsüren durdur” emri piyasa fiyatlarını sizin önceden 
+belirlediğiniz bir pip mesafesinden takip eder. Bu mesafeyi çok yakın olarak belirlememeye dikkat edin, 
+zira bu, piyasanın doğal dalgalanmalarının da pozisyonunuzu durdurmasına sebep olabilir. 
+Örnek olarak, kararlarınızın çoğunun haftalık bilgilere dayandığı haftalık bir çizelgeye göre işlem yapıyor 
+olabilirsiniz; “izsüren durdur” emriniz, aşağıdaki resimde gösterildiği şekilde, piyasayı Haftalık Swing Low 
+değerinin hemen altından takip eder:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+24
+       
+ 
+Emir Türleri – Özet 
+• Risk yönetimine destek olacak en popüler iki emir “Zarar Durdur/Limit” emirleri ile “Limit 
+Giriş/Stop” emirleridir.
+• Bir “giriş” emri sizi pozisyona sokarken, “zarar durdur” emri pozisyondan çıkartır. 
+PÜF NOKTASI: Forex’e yeni başlayan yatırımcılar bir işleme başlarken DAİMA “zarar durdur” 
+emri vermeliler. Bu, piyasanın açık işleminizin aleyhinde hareket etmesi durumunda, pozisyo -
+nunuzun otomatik olarak kapatılacağı fiyattır. 
+• Limit emirleri, fiyatlar belli bir seviyeye ulaştığında pozisyona girmek veya çıkmak için 
+kullanılan emirlerdir. 
+• OCO (Biri Diğerini İptal Eder) emirleri hem stop hem de limit fiyatına sahip birleşik 
+emirlerdir. Bu emir türü, yatırımcının işlemi kaçırmamasını sağlarken, aynı zamanda da 
+yatırımcının daha iyi bir fiyattan alım satım yapmasına olanak verir.  
+• İzsüren durdur emri, sizin belirleyeceğiniz bir pip mesafesinden piyasa fiyatlarını takip eder. 
+İzsüren durdur emri, piyasa fiyatları açık pozisyonunuzun aleyhinde hareket ettiği takdirde 
+tersine dönmeyecektir. Bu tür emirler yatırımcının kaybını kısıtlarken, daha yüksek mik -
+tarda kazanç elde edebilmesini sağlar. 
+Sorunuz mu var? Markets.com, piyasayı anlamanıza yardımcı  
+olacak Ticaret Uzmanı’na sınırsız erişim sunar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+25
+6. Çıkış Kuralları
+Piyasaya girmeden önce, tam olarak ne zaman  çıkacağınızı bilmeniz çok önemlidir, ve bu, her ticaret 
+planının kritik bir bileşenidir; bunun için bir strateji belirlemeyi isteyip istememek gibi bir seçeneğiniz 
+yoktur. Nitekim bu, çıkış yapacağınız kesin fiyatı veya işlemden elde edeceğiniz kârı bilmeniz gerektiği 
+anlamına gelmez, daha çok çıkış için belirlediğiniz bir “kural” olduğunu gösterir. İlk çıkış kuralınız, yani 
+“Zarar Durdur Emriniz” Risk Yönetimi kurallarınız arasında yer almalıdır. 
+İkinci olarak, size kazançlı bir pozisyondan ne zaman ve nasıl çıkacağınızı söyleyecek çıkış kriterlerinin tam 
+olarak neler olduğunu bilmelisiniz. Bu nihai çıkış, bir “izsüren durdur emri” ile pozisyonunuzun tamamının 
+otomatik olarak kapanması ile, veya ortaya çıktığında pozisyonunuzu kendinizin kapatmasına izin verecek 
+manüel bir işaret ile de gerçekleşebilir.  
+Kriterleriniz aşağıdaki örneklerde verienlere benzer olabilir. Bu örnekler, detaylı çıkış kuralları değil, basit 
+kavramlardır, fakat yine de size kural hazırlamak ile ilgili genel bir fikir vereceklerdir:
+• Piyasa bir önceki haftanın swing low değerinin altına inerse pozisyondan tamamen çık
+• Piyasa iki kere uzun vadeli hareketli ortalamanın altında kapanış yaparsa pozisyondan tamamen çık
+Çıkış Kuralları – Özet 
+• Her zaman çıkış kurallarınızı belirleyin. 
+• İşleme başlamadan önce piyasadan ne zaman çıkacağınıza karar vermiş olmalısınız.
+• Kazançlı bir pozisyondan ne zaman ve nasıl çıkacağınızı belirleyecek kriterleri tanımlayın. 
+• Çıkış kurallarına bazı örnekler:
+• Piyasa bir önceki haftanın swing low değerinin altına inerse pozisyondan tamamen çık
+• Piyasa iki kere uzun vadeli hareketli ortalamanın altında kapanış yaparsa pozisyondan 
+tamamen çık
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+26
+7. Psikoloji Kuralları
+Psikoloji kuralları da aynı derecede önemlidir, fakat yatırımcıların büyük kısmı, bu kuralların ticari başarıları 
+üzerinde ne kadar büyük bir etkisi olduğunu fark etmedikleri için, bu konuda herhangi birşeyi Ticaret 
+Plan’larına eklemezler. 
+Bunlar, aşağıda verilen kurallara dayalı olabilir, fakat bunlarla sınırlı değillerdir:
+• Duygusal açıdan stres altındayken alım – satım yapmayın. Tüm işlemleri kapatın, 
+veya “zarar durdur” emirlerini genel piyasa hareketine mümkün olduğunca 
+yaklaştırıp sermayenizin mümkün olduğu kadarını korumaya çalışın.
+ 
+• Aşırı duygulardan kaçınmayı öğrenin: kazançlarınıza çok fazla sevinmeyin veya 
+kayıplarınızdan dolayı depresyona girmeyin. Yoksa, mantık yerine duygularınıza 
+tepki verir hale gelirsiniz. 
+• Yeterliliğinizi ve sisteminiz ile ticaret plan tekniklerinize olan güveninizi 
+geliştirmek için Back-Test (geçmişteki tahminlerin doğruluk derecesini test etme) 
+ve Forward-Test (ileriye yönelik test etme) işlemlerini uygulayınız. 
+• Eğer herhangi bir şekilde avantaja çeviremediğiniz bir zayıf noktanız varsa, bu 
+alanda yetenekli bağımsız bir kişiden yardım alın.
+• Diğer yatırımcıların fikir ve stratejilerinin, ticaret planınıza yardımcı olacak 
+kısımlarını seçmeden veya sizin planınızı geliştireceğini back-test yöntemi ile 
+kanıtlamadan onlardan fikir veya strateji almayın. Unutmayın ki belli bir zaman 
+diliminde veya enstrümanda işe yarayan teknik veya stratejiler, farklı zaman dil-
+imlerinde veya enstrümanlarda işe yaramayabilir. Back-test yapılması şarttır.  
+Psikoloji Kuralları – Özet 
+• Birçok yatırımcı psikolojik alışkanlıklarının ticaretlerini nasıl etkilediğine dikkat etme -
+zler, bu nedenle bu kuralları genel ticaret planınıza dahil etmeyi unutmayın:
+• Duygusal açıdan stres altındayken alım satım yapmayın.
+• Ticaret işlemleriniz ile ilgili aşırı duygulardan kaçınmayı öğrenin. Alım satım 
+yaparken mantık, daima duygulardan önce gelmelidir. 
+• Kendi ticaret stratejinizde bir zayıf nokta bulduğunuzda, deneyimli ve profe -
+syönel bir yatırımcıya başvurmaktan çekinmeyin. 
+• Test edip, kendi ticaret planınızda işe yaradığını kanıtlamadan, diğer 
+yatırımcıların fikir veya stratejilerini kabul etmeyin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+27
+Forex Ticareti Terimleri ve Anlamları
+А
+1944 Yılı Bretton Woods Anlaşması -  Başlıca döviz türleri için sabit kurların belirlenmesini 
+kabul eden, merkez bankasının döviz piyasasına müdahalesini öngören ve altın 
+fiyatını bir onsu $35 Amerikan Doları olarak belirleyen bir anlaşma. Bu anlaşma 1971’e 
+kadar yürürlükte kalmıştır. Bakınız Bretton Woods Hakkında Daha Fazla Bilgi.
+ABD Ana Faiz Oranı (Prime Rate) - Amerika Birleşik Devletleri’nde bankaların başlıca 
+kurumsal müşterilerine kredi verirken uyguladıkları faiz oranı. 
+Açık Emir – Piyasa belirlenen fiyata ulaştığında alım veya satım için verilen emir. 
+Açık Pozisyon –  Yatırımcının döviz kuru hareketlerine maruz olduğu, henüz karşıt bir 
+pozisyona çevrilmemiş veya sonuçlandırılmamış ticari işlem. 
+Aksi Pozisyon -  Açık pozisyonlarda piyasa riskini kısmen veya tamamen kaldırmak için 
+uygulanan ticari işlemdir. 
+Alış (Uzun Pozisyon)  - Bir enstrümandan satışta olandan daha fazla miktarda satın alma 
+pozisyonu; böylece piyasa fiyatlarının yükselmesi durumunda değer artışı meydana 
+gelir. 
+Alış Fiyatı (Ask) - Satışa sunulan bir birim için talep edilen en düşük fiyat (satış / alış 
+spreadinde olduğu gibi). 
+Alış Hacmi  - Alış fiyatından satışa sunulan hisselerin miktarıdır.
+Aracı -  Bir işlemde birincil veya karşı taraf olarak yer alan, ya da alım veya satım emrini 
+veren kişi. 
+Arbitraj - Farklı piyasalardaki karşıt fiyatlardan istifade ederek, küçük fiyat farklarından 
+kâr çıkarmak amacıyla yapılan alım veya satım işlemine eş zamanlı olarak ilişik bir 
+piyasadan eş değer veya karşıt pozisyon alınması durumu.
+Arka Ofis - Finansal işlemlerin tahakkukundan sorumlu birim ve süreçler (örnek: yazılı 
+teyitler, ticaret anlaşmaları ve kayıt tutuma).
+Avro (Euro) - Avrupa Para Birliği’nin, Avrupa Para Birimi (ECU) yerine geçen para birimi.
+Avrupa Para Birliği (EMU) -  EMU’nun başlıca amacı, 2002 yılında, AB üyesi ülkelerin ulusal 
+para birimlerinin yerine geçecek olan, Avro (Euro) adı verilen, tek bir Avrupa para 
+birimini yerleştirmektir. Şu anda, Avro sadece bankacılık para birimi, kağıt üzerinde 
+yapılan finansal işlemler ve döviz olarak mevcuttur. EMU’nun mevcut üyeleri şunlardır: 
+Almanya, Fransa, Belçika, Lüksemburg, Avusturya, Finlandiya, İrlanda, Hollanda, İtalya, 
+İspanya ve Portekiz. 
+Ayı - Fiyatların ve piyasanın düşeceğine inanan yatırımcı. 
+Ayı Piyasası - Fiyatlarda uzun süreli düşüş ve genel karamsarlığın hakim olduğu piyasa. 
+B
+Bakiye – Bir hesaptaki para tutarı.
+Bankalararası Kurlar - Büyük uluslararası bankaların, diğer büyük uluslararası bankalara 
+kote ettiği döviz ticareti kurları. 
+Başlangıç Teminatı - Gelecekteki performansın garantisi olarak, pozisyona girmeden 
+önce yatırılması gereken ilk teminat. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+28
+Baz - Nakit fiyat ile vadeli fiyat arasındaki fark.  
+Baz Para Birimi -  Bir yatırımcı veya ihraççının cari hesap defterini tuttuğu para birimidir; 
+diğer döviz cinsleri baz para birimine karşı fiyatlandırılır. Forex piyasasında, genellikle 
+Amerikan Doları baz para birimi olarak kullanılır, yani kotasyonlardaki döviz çiftinde 
+Amerikan Doları karşısındaki döviz cinsi, $1 Amerikan Doları karşılığı birimler halinde 
+sunulur. 
+Baz Puan - Yüzdenin yüzde biri.
+Benim ve Senin (Mine – Yours) - Bir yatırımcı, alım yapmak istediğini “Benim” (Mine) 
+diyerek veya yazarak belirtir. Bu, ayrıca teklifi kabul etmek olarak da bilinir. Satmak için 
+“Senin” (Yours) demesi veya yazması gerekir. Bu da “teklifi tutturmak” olarak bilinir. 
+Bilanço Dışı - Faiz Oranı Takasları veya Vadeli Kur Anlaşmaları, bilanço dışı ürünlere 
+örnektir. Ayrıca, özkaynaklar veya borç dışı yollardan kazanılan finansman da bu 
+listeye dahildir. 
+Biri Diğerini İptal Eden Emirler (O.C.O.) -  Emrin bir bölümünün gerçekleşmesinin otomatik 
+olarak diğer bölümü iptal ettiği şarta bağlı emir. 
+Boğa - Fiyatların ve piyasanın yükseleceğine inanan yatırımcı. 
+Boğa Piyasası - Fiyatlarda uzun süreli yükselişin izlendiği piyasa (Ayı piyasasının tam 
+tersi).
+Borç Senetleri - Borç senetleri, sermaye toplama amacı ile borç alan kişi tarafından 
+verilen satılabilir araçlardır (borç teminatları). İbraz edildiğinde, kupon adı verilen, 
+sabit veya değişken bir faiz ödenir. Faiz oranları düştükçe, borç senet fiyatları artar, 
+yükseldikçe düşer. 
+Broker - Genellikle bir sabit ücret veya komisyon karşılığında, alıcı ve satıcılar arasında 
+aracılık görevi yapan kişi veya kurumdur. Öte yandan, bir “aracı” (dealer), sermaye 
+atayarak bir pozisyonu, başka bir kişiyle tamamlamak suretiyle spread (kâr) elde 
+etmeyi hedefleyen kişidir. 
+Bundesbank – Almanya Merkez Bankası.
+Büyük Rakam - Paritenin ilk birkaç basamağına tekabül eden bir satıcı deyimi. Normal 
+piyasa değişimlerinde bu basamaklar çok nadir olarak değişir ve bu nedenle, özellikle 
+de piyasaların hareketli olduğu dönemlerde, satıcıların tekliflerinden hariç bırakılırlar. 
+Mesela, USD/Yen kuru 107.30/107.35 olabilir, ama sözlü olarak ilk üç basamak 
+atlanarak, “30/35” olarak söylenir.
+Ç 
+Çapraz Kurlar - İki para cinsi arasındaki döviz kuru. Çapraz kurlar, kurun verildiği ülkede 
+standart olarak kullanılmayan döviz cinslerinden oluşur. Mesela, Amerika’da GBP/CHF 
+kuru çarpaz kur olarak sayılırken, İngiltere veya İsviçre’de aynı kur birincil döviz çiftleri 
+arasında yer alır.  
+D
+Dalgalanan Faiz Oranı - Sabit oranın aksine, bu tür bir anlaşmadaki faiz oranı piyasa 
+ve diğer ölçütlere göre değişiklik gösterebilir. Dalgalanan faiz oranına örnek olarak 
+standart mortgage gösterilebilir. 
+Değer Artışı -  Piyasadaki talebe cevaben dövizin fiyatının yükselmesi durumu; bir 
+varlığın değerindeki artış.
+Değer Kaybı - Piyasa güçlerinin etkisi altında dövizde oluşan değer kaybı. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+29
+Değişim Teminatı - Bir brokerin bir müşteriden, piyasa dalgalanmasına bağlı olarak talep 
+edeceği ek teminat. 
+Destek Seviyeleri - Teknik analizlerde kullanılan bu terim, bir para biriminin altına 
+inemeyeceği belirli bir fiyat düzeyini belirtir. Para biriminin bu düzeyin tekrar tekrar 
+altına inememesi, genellikle düz bir çizgi ile gösterilen bir model oluşturur.
+Devalüasyon -  Genellikle resmi duyuru yolu ile, döviz değerinin başka bir dövize oranla 
+kasıtlı olarak düşürülmesidir. 
+Direnç - Teknik analizlerde kullanılan bu terim, bir para biriminin üzerine çıkamayacağı 
+belirli bir fiyat düzeyini belirtir. Para biriminin bu düzeyi tekrar tekrar aşamaması, 
+genellikle düz bir çizgi ile gösterilen bir model oluşturur. 
+Doğrulama -  Bir işlemin tarafları arasında değiş tokuş edilen, bahsi geçen işlemin 
+şartlarını teyit eden evrak. 
+Döviz - Bir ülkenin devleti veya merkez bankası tarafından piyasaya sürülen para birimi. 
+Bu birim, ticarette temel olarak kullanılır. 
+Döviz Kuru Riski –  Bakınız Kur Riski. 
+Döviz Ticareti (Forex veya FX) - Tezgah üstü piyasalarda, aynı anda bir para birimini satıp 
+başka bir para biriminden satın alma işlemi. Döviz ticaretinde kotasyon, genellikle 
+Amerikan Doları üzerinden yapılır. 
+Döviz Ticareti Riski – Bakınız Kur Riski.
+Durdurma Emri - Mutabık kalınan fiyattan alım / satım emri. Ayrıca, belirlenen bir fiyata 
+erişildiğinde veya geçildiğinde açık pozisyonun otomatik olarak likidite edileceği, 
+önceden ayarlanmış bir Zarar Durdur Emri de verilebilir. 
+Düz (veya Kare) - Ne uzun ne de kısa pozisyonda olmamak, düz veya kare olmakla 
+aynıdır. Kişinin herhangi bir pozisyonu yoksa veya pozisyonları birbirlerini iptal 
+ediyorsa hesabına düz hesap denir.
+E  
+Ekonomik Gösterge - Devlet veya bir sivil toplum örgütü tarafından yayınlanan, güncel 
+ekonomik büyüme ve istikrarı gösteren istatistik (örnek: Gayri Safi Milli Hasıla, 
+İstihdam Oranları, Ticaret Açıkları, Endüstriyel Üretim ve Ticaret Stokları).  
+Ekonomik Risk - Bir şirketin nakit akışı üzerinde, döviz kurlarındaki dalgalanmadan 
+kaynaklanan riskler. 
+Emir - Emir, bir müşterinin brokere alım-satım yapması için verdiği talimattır. Emirler, 
+belirli bir fiyattan, veya piyasa fiyatından verilebilirler. Ayrıca, gerçekleşene kadar ya 
+da mesai bitimine kadar geçerli olacak şekilde verilebilirler. 
+Emtia Senetleri -  Emtia senetleri bir tür ticari opsiyondur. Bir şirketin hisse veya borç 
+senetlerini, belirli bir fiyattan ve belirli bir süre içerisinde alma hakkı verirler. 
+Enflasyon -  Tüketim mallarında yaşanan fiyat artışı nedeniyle alım gücünde düşüşe yol 
+açan ekonomik durum. 
+Etkileyici Reaksiyon - Ekonomik krizin bir piyasadan bir diğerine yayılma eğilimidir. 
+1997’de, Tayland’daki finansal dengesizlik, yerel para birimi olan Baht’ın yüksek 
+volatilitesine neden olmuş, bu da gelişmekte olan diğer Doğu Asya  para birimlerine, 
+ve oradan da Latin Amerika’ya sıçramıştır. Günümüzde bu olay Asya Krizi olarak bilinir.
+Etkin Piyasa - Güncel fiyatın, geçmiş fiyat ve işlem hacimlerine dair mevcut tüm bilgileri 
+yansıttığı piyasa. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+30
+European Central Bank (Avrupa Merkez Bankası) –  Avrupa Para Birliği’nin merkez bankası.
+F
+Faiz Oranı Takas Puanları - Faiz oranları, döviz ticareti kurunda, satış ve teklif spreadi 
+kullanan basit bir kural ile belirlenirler. Eğer kote edilmiş fiyat yabancı bir para 
+cinsinde ise (Amerikan Doları dışında) ve teklif edilen fiyat da satış fiyatının üzerinde 
+ise, bu demektir ki söz konusu zamanda o ülkenin faiz oranı, baz ülkenin faiz 
+oranından daha yüksektir. Eğer fiyat Amerikan Doları olarak kote edilmiş ise, bunun 
+tam tersi geçerlidir. Örnek: USD/JPY kotesi 105.75’e 105.65’tir. Teklif edilen fiyat, satış 
+fiyatından düşük olduğu için anlıyoruz ki Japonya’daki faiz oranı ABD’dekinden daha 
+düşüktür. 
+Faiz Oranı Takasları (IRS) - Farklı ödeme akışları olan iki borç taahhütünün takası. Bu işlem 
+genellikle iki paralel borcu takas eder: biri sabit, diğeri değişkendir. 
+Federal Mevduat Sigorta Kurumu (FDIC) -  Amerika Birleşik Devletleri’nde banka mevduat 
+sigrotasını idareden sorumlu düzenleyici kurum. 
+Federal Reserve (Fed) –  Amerika Birleşik Devletleri’nin merkez bankası.
+Fiyat Şeffaflığı -  Piyasanın tüm katılımcıları kotasyon açıklamalarına eşit şekilde 
+erişebilirler. 
+G
+Gecelik – Bir sonraki iş gününe kadar açık kalan işlem türü.
+Gerçekleşmezse İptal Et (All or None) - Brokere, verilen fiyattan emrin tamamının 
+gerçekleşmesi veya hiç işlem yapılmamasını talimat veren fiyat limitli emir türü. 
+Gerçekleşmiş ve Gerçekleşmemiş Kâr ve Zarar – Tahakkuk sistemine dayalı muhasebe hesabı 
+tutan kişilerde hisseler satılana kadar kâr, “gerçekleşmemiş kâr” olarak kalır. Kişinin 
+hisselerinin satışı ile kâr, “gerçekleşmiş” olur. 
+Grafik Yorumcusu -  Tablo, grafik ve eskiye yönelik bilgileri inceleyerek trendler bulan, 
+ileriye dönük hareketleri tahmin eden ve teknik analizler sağlayan kişi.  
+Gün Sonu (veya Piyasaya Göre Ayarlama) -  Tüccarların pozisyon hesapları iki şekilde 
+yapılır: tahakkuka göre veya piyasaya göre. Tahakkuka dayalı sistemde, yanlız nakit 
+akışları, gerçekleştiği zaman hesaplanırlar, yani bu sistem sadece gerçekleşen kâr 
+veya zararları gösterir. Piyasaya gore ayarlama metodunda ise tüccarın hesabı her 
+gün sonunda piyasanın kapanış veya revalüasyon kurları kullanılarak değerlendirilir. 
+Gerçekleşen kâr veya zararlar hesaplanır, ve tüccar ertesi güne net pozisyonda başlar. 
+Güniçi İşlem - Aynı pozisyonu veya pozisyonları aynı alım – satım oturumunda açıp 
+kapatmak.  
+H
+Hacim -  Belirli bir süre içerisinde alım – satımı yapılan menkul kıymetlerin toplam sayısı 
+veya değeri. 
+Hedge - Portföy değerinizin riskini azaltan yatırım pozisyonu veya pozisyonlar bütünü. 
+Benzer bir menkul değerde, dengeleyici bir pozisyon alınması mümkündür. Kullanılan 
+araçlar çeşitlilik göstermekte olup, vadeli veya uzun vadeli işlemler, opsiyonlar veya 
+bunların birleşimi olabilir. 
+Hesap –  Tüm işlemlerin kaydı.
+Hesap Açığı -  Eksi ticaret (veya ödeme) bakiyesi; harcamalar, kazanç / hasılattan daha 
+fazladır. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+31
+Hesap Bakiyesi – Bakiye ile aynı.
+I
+ISDA (Uluslararası Swap ve Türevler Birliği) -  Türev ürünlerin ticaretine ilişkin kural ve 
+koşulları belirleyen kurum. 
+İki Yönlü Fiyat – Döviz ticaret işlemi için hem satış hem de alış fiyatı kote edilir.
+İptal Edilene Kadar Geçerli Emir (GTC) -  Alıcıya verilen, sabit bir fiyattan alım veya satım 
+emri. Bu emir gerçekleşene, veya iptal edilene kadar geçerli kalır. 
+İşlem Hacmi - Genellikle günlük veya yıllık olmak üzere, belirli bir zaman diliminde 
+yapılan ticaretin toplam hacmi veya düzeyi.  
+İşlem Tarihi - Alım –  satımın gerçekleştiği tarih.
+İşlem Ücreti - Bir finansal enstrümanın alış ve satışına ilişkin ücret. 
+K
+Kablo –  Yatırımcılar arasında İngiliz Sterlini/Amerikan Doları döviz kuru için kullanılan 
+bir jargondur. Bu terim, bu kura ait ilk verilerin ondokuzuncu yüzyıl ortalarında, 
+transatlantik kablo ile iletilmesinden çıkmıştır.  
+Karşı Taraf -  Finansal işlemin yapıldığı banka veya müşteri.
+Kısa Pozisyon - Kısa satış sonucu ortaya çıkan bir yatırım pozisyonu. Pozisyon henüz 
+kapatılmamış olduğundan, piyasa fiyatındaki düşüşten faydalanır. 
+Komisyon - Broker tarafından talep edilen işlem ücreti.
+Kontrat (Birim veya Lot) -  Belirli alışverişlerde kullanılan standart işlem birimidir. 
+Kotasyon - Herhangi bir zamanda bir menkul değer için uygulanan en yüksek satış ve / 
+veya en düşük alış fiyatını gösteren belirleyici bir piyasa fiyatı.
+Kredi Kontrolü -  Yapılan finansal işlemlerin hacminden dolayı, ticaret yapmayı 
+planladığınız kimselerin bu alışveriş için yeterli kaynaklarının olup olmadığını kontrol 
+etmeniz önemlidir. Bir fiyatta mutabık kalındığında, kredi kontrolü yapılır. Eğer kredi 
+uygun değil ise, alışveriş gerçekleşmez. Kredi durumu, gerek bankalar arası gerekse 
+bankalar ve müşterileri arasında yapılan ticarette büyük önem taşır.
+Kredi Mahsuplaşma –  Ücretsiz kredi kullanımını azami seviyeye ulaştırmak ve işlemleri 
+hızlandırmak amacıyla, devamlı olarak kredi kontrolü yapılması ihtiyacını azaltmaya 
+yönelik düzenlemelerdir. Büyük bankalar ve ticaret kurumlarının ödenmemiş işlemler 
+için mahsuplaşma anlaşmaları olabilir. 
+Kur - Bir para biriminin, bir diğer para birimindenki fiyatı. 
+Kur Riski - Döviz kurlarında meydana gelebilecek olumsuz değişiklik riski.
+Kur Sabitleme - Bir ülkenin para biriminin, bir başka ülkenin döviz kuruna sabitlenmesi 
+yolu ile dengelemesini amaçlayan bir fiyat stabilizasyon yöntemi. 
+L
+LIBOR (Londra Bankalararası Faiz Oranı) -  En büyük uluslararası bankaların birbirlerine 
+borç verirken kullandıkları faiz oranı. 
+LIFFE (Londra Uluslararası Vadeli İşlemler Borsası) -  Birleşik Krallık’taki en büyük üç vadeli 
+işlem piyasasından oluşur. 
+Likiditasyon - Açık bir posizyonu dengeleyici işlemlerle kapatma. 
+Likit Varlıklar - Kolaylıkla nakde çevrilebilen varlıklar (Örnek: para piyasası fon hisseleri, 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+32
+ABD Hazine Bonoları, banka mevduatları vb.)
+Likit veya Likit Olmayan Piyasalar - Bir piyasanın, fiyat dengesine herhangi bir etkide 
+bulunmadan kolaylıkla alım satın yapabilmesi durumu. Alış ve satış fiyatları arasındaki 
+spreadin (makasın) düşük olduğu piyasalar likit olarak adlandırılır. Likiditenin bir 
+başka ölçütü ise çoğunluğun daha düşük spread ile işlem yaptığı alıcı ve satıcıların 
+olmasıdır. Likit olmayan piyasalarda daha az oyuncu olur ve bu da daha geniş 
+spreadlere neden olur. 
+Limit Emri - Belirli bir fiyattan veya bu fiyatın altında alış ile yine belirli bir fiyattan veya 
+bu fiyatın üstünde satış yapılması için verilen emir. 
+M
+Merkez Bankası - Bir ülkenin para politikasını yöneten ve parasını basan bir devlet veya 
+yarı devlet kuruluşu. Mesela, Amerika Birleşik Devletleri’nin merkez bankası Federal 
+Reserve’dir. Diğer merkez bankaları arasında ECB, BOE ve BOJ bulunmaktadır.
+Mevduat - Nakit paranın borç alınıp verilmesi. Paranın borç alınıp verildiği kur, mevduat 
+oranı olarak bilinir. Mevduat Sertifikaları ayrıca alınıp satılabilirler. 
+Muhasebe Defteri - Profesyonel ticaret ortamında muhasebe defteri, bir tüccarın veya 
+dairenin pozisyonlarının özetidir.
+Mum Grafiği - Günün fiyat aralığı ile açılış ve kapanış fiyatlarını gösteren bir tablodur. 
+Eğer kapanış fiyatı açılış fiyatından düşükse, dikdörtgen gölgeli veya doldurulmuş 
+olarak gösterilir. Eğer açılış fiyatı kapanış fiyatından yüksekse, dikdörtgen 
+doldurulmaz. 
+Ö
+Opsiyonlar - Belirli bir teminatı, belirli bir zamanda, belirli bir fiyattan alma / satma 
+opsiyonu sunan anlaşma. İki tür opsiyon vardır: al ve sat. Al, alma hakkı iken sat ise 
+satma hakkıdır. Bu opsiyonlar alınıp satılabilir. 
+Ödemeler Dengesi - Bir ülkenin, belli bir zaman diliminde, dünyanın geri kalanı ile 
+yapmış olduğu işlem taleplerinin kaydı. Bunlar, ticari eşya, hizmet ve sermaye akışını 
+içerir.
+Ön Ofis - Ön ofis genellikle işlem salonu ile diğer başlıca ticari faatliyetlerden oluşur. 
+Öteleme (Rollover) - Bir işlemin gerçekleşmesinin başka bir valör tarihine, iki para 
+biriminin faiz oranları arasındaki fark üzerinden bir işlem bedeli karşılığında 
+ertelenmesi.  
+Özsermaye -  Varlıkların toplamının yükümlülükleri aşan kısmı; ayrıca özkaynak veya 
+özvarlık olarak da bilinir. Bireyler için bakıldığında, emlak, hisse senedi, bono veya 
+diğer kıymetlerin toplamından mortgage, kredi ve benzeri borçlar çıktıktan sonra 
+geriye kalan toplam değerdir. 
+P
+Para Piyasaları - Kısa vadeli (mesela bir seneden daha kısa) ve katılımcılarını banka veya 
+diğer finansal kurumların oluşturduğu yatırımlara denir. Örnek olarak Mevduatlar, 
+Mevduat Sertifikaları, Repo, Gecelik Endeks Takasları ve Ticari Senetler verilebilir. Kısa 
+vadeli yatırımlar güvenli ve oldukça likittir.
+PİP (veya Puan) -  Bir döviz piyasasında, bir döviz kurunun yapabileceği en küçük artış 
+hareketini temsilen kullanılan terim. Duruma bağlı olarak, bu genellikle EUR/USD, 
+GBP/USD, USD/CHF döviz çiftlerinde bir baz puan (0.0001), USD/JPY döviz çiftinde ise 
+.01’dir. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+33
+Piyasa Emri - Emir piyasaya ulaştığında mevcut olan en iyi fiyattan alım / satım emri. 
+Piyasa Riski - Piyasanın genel olarak maruz kaldığı, hedging veya farklı menkul 
+kıymetler gibi çeşitli alanlara yönelme ile önlenemeyecek risk. 
+Piyasa Yapıcı - Fiyatları sağlayan ve verdiği satış ve alış fiyatlarından alıp satmaya 
+hazırlıklı aracı. Piyasa yapıcılar alım – satım hesabı işletirler. 
+Piyasaya Göre Ayarlama (veya Gün Sonu) -  Tüccarların pozisyon hesapları iki şekilde 
+yapılır: tahakkuka gore veya piyasaya gore. Tahakkuka dayalı sistemde, yanlız nakit 
+akışları, gerçekleştiği zaman hesaplanırlar, yani bu sistem sadece gerçekleşen kâr 
+veya zararları gösterir. Piyasaya gore ayarlama metodunda ise tüccarın hesabı her 
+gün sonunda piyasanın kapanış veya revalüasyon kurları kullanılarak değerlendirilir. 
+Gerçekleşen kâr veya zararlar hesaplanır, ve tüccar ertesi güne net pozisyonda başlar.
+Politik Risk - Bir ülkenin hükümet politikasında meydana gelebilecek, ve yatırımcının 
+pozisyonuna negatif etkisi olabilecek değişiklikler. 
+Pozisyon - Pozisyon, alım veya satım ile ifade edilen bir ticari görünümdür. Bir 
+yatırımcının sahip olduğu veya borçlandığı toplam döviz miktarını da belirtebilir. 
+Pozisyon Kapatma - Kişinin portföyünden bir yatırımın, bir kısa pozisyonun alınması, 
+veya bir uzun pozisyonun satılması ile çıkartılmasıdır.
+Prim - Döviz piyasalarında, vadeli veya uzun vadeli fiyatı belirlemek için spot fiyata 
+eklenen puanlar toplamıdır. 
+R
+Repo - Bu tür işlemler bir enstrümanın satışını ve sonra, belirli bir tarih ve zamanda 
+tekrar geri alışını içerir. Repo işlemleri genellikle kısa vadeli para piyasalarında 
+gerçekleşir. 
+Risk -  Belirsiz veya olumsuz değişikliğe açık olmak.
+Risk Sermayesi - Kişinin yatırım yapabileceği, kaybedilmesi durumunda yaşam tarzını 
+etkilemeyecek para miktarı. 
+Risk Yönetimi – Riske karşı önlem almak için risk yöneticileri finansal analiz ve ticaret 
+teknikleri kullanırlar. 
+S
+Sabit Döviz Kuru -  Para otoriteleri tarafından, bir veya birkaç para birimi için belirlenmiş 
+resmi döviz kuru. Uygulamada, sabit döviz kurları bile alt ve üst bantlar arasında 
+dalgalanarak müdahaleye neden olabilirler. 
+Sabit Vade - Bu tür işlemlerde, kabul edilmiş olan vade oranı anlaşma süresince sabit 
+kalır. Sabit vade genellikle bono ve sabit kurlu mortgage gibi işlemlerde kullanılır. 
+Satış (Kısa) - “Satış” yapmak, gerçekte sahip olmaksızın bir enstrümanı satmış olmak ve 
+fiyatın düşeceği ve gelecekte kârlı bir şekilde geri alımı yapılacağı beklentisi ile kısa 
+pozisyonda kalmaktır. 
+Satış / Alış Makası – Bakınız spread.
+Satış Fiyatı - Bir alıcının alım yapmaya hazırlıklı olduğu fiyat; bir döviz cinsi için teklif 
+edilen fiyattır. 
+Serbest Döviz -  Serbest bir şekilde piyasadaki geçerli kurlardan diğer döviz cinsleri veya 
+altınla takas edilebilen para birimi.
+Sermaye Piyasaları - Orta ile uzun dönem yatırım için kullanılan piyasalar (genellikle bir 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+34
+yılın üzerindeki süreler için). Alınıp satılabilen bu kaynaklar, “para piyasasına” oranla 
+daha uluslararası konumdadırlar (mesela devlet bonoları ve Eurotahviller).  
+Spot - Hemen gerçekleşen bir işlem türüdür, fakat ödemesi genellikle anlaşma 
+sağlanmasından sonra iki gün içerisinde el değiştirir.  
+Spot Fiyatı - Geçerli piyasa fiyatı. Spot işlemlerde uzlaşma genellikle iki iş günü 
+içerisinde gerçekleşir. 
+Spread (Makas) - Satış (bid) ve alış (ask) fiyatı arasındaki farktır. Spreadler piyasa 
+likiditesini ölçmek için kullanılır. Dar spreadler genellikle yüksek likiditeyi gösterir.
+Sterlin –  Büyük Britanya Pound’u için kullanılan bir başka terim. 
+T
+Tahmini Yıllık Gelir –  Yıl için öngörülen toplam gelir.
+Takas - Bir alım satım işleminin tamamlanması süreci.
+Takaslar - Takas, bir dövizin geçici olarak bir başka dövize çevrilmesi ve bir süre elde 
+tutulduktan sonra (belirli bir tarihte) yeniden çevrilmesidir. Takası hesaplamak için, söz 
+konusu iki döviz arasındaki faiz oranı farkı kullanılır. Bundan dolayı, faiz oranlarında 
+beklenen hareketlerden çıkar sağlamak üzere spekülatif amaçlı olarak da kullanılabilir. 
+Taşıma Maliyeti -  Bir pozisyonu sürdürebilmek için alınan borca ilişkin masraftır. Faiz 
+paritesine bağlıdır, ki bu da vadeli fiyatı belirler. 
+Teklif –  İstekli bir satıcının kabul etmeye hazır olduğu fiyat veya oran. 
+Teknik Analiz - Grafikler, fiyat trendleri ve hacim gibi piyasa verilerini analiz ederek 
+gelecekteki piyasa hareketlerini tahmin etme çabası. 
+Temel Analiz –  Bir finans piyasasının ileriye dönük hareketlerini tahmin etmek amacıyla 
+ekonomik ve politik verilerin detaylı analizi.  
+Temel Göstergeler - Gelecekteki ekonomik faaliyetlere yönelik tahminler sağlayan 
+ekonomik değişkenler (Örneğin, İşsizlik, Tüketici Fiyat Endeksi, Üretici Fiyat Endeksi, 
+Perakende Satışlar, Kişisel Gelir, Tercihli Müşterilere Uygulanan Kredi Faizi, İskonto 
+Oranı ve Federal Fon Kuru). 
+Teminat -  Fiyatlardaki ters bir hareketten kaynaklanabilecek potansiyel kayıplara karşı 
+müşterilerin yatırması gereken sermaye. 
+Teminat Çağrısı -  Yatırımcının teminatını gerekli seviyeye yükseltmesi için broker 
+veya aracı tarafından yapılan talep – böylece, yatırımcının aleyhine yükselmiş bir 
+pozisyonda harekete devam edebilmesi sağlanır. 
+Temsilci -  Esas kişiyi temsilen hareket etme yetkisine sahip kişi.
+Teslimat - Her iki tarafın da, ticareti yapılan dövizlerin mülkiyetini aktardığı fiili teslimat. 
+Tezgah Üstü (OTC) - Borsa dışında yapılan işlemleri ifade eder. 
+Ticker – Bir dövizin güncel ve/veya yakın geçmişini gösteren bir grafik veya tablo. 
+Tik – Asgari fiyat hareketi. 
+Toplam Talep – Devlet harcamaları, kişisel tüketim masrafları ve ticari harcamaların 
+toplamı.
+Türev Ürünler - Başka bir kıymetten düzenlenmiş veya türetilmiş alım satımlar (hisse 
+senedi, bono, döviz veya meta). Türev ürünler gerek borsa içi gerekse borsa dışı olarak 
+alınıp satılabilirler (aynı zamanda Tezgah Üstü Piyasa olarak da bilinir). Türev ürünlere 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+35
+verilebilecek örnekler arasında vadeli işlemler, vadeli faiz oranı değişimleri, vadeli 
+kur anlaşmaları, tavan faiz oranları, taban faiz oranları, vadeli döviz değişimleri gibi 
+ürünleri sayabiliriz. 
+U
+Uzlaşma -  Bir işlemin tamamlanması. Uzlaşma sonunda hem işlem, hem de tarafları 
+hesaba işlenir. 
+Uzun Vadeli İşlemler (Futures) - Finansal araçların, dövizin veya metanın, gelecekte belirli 
+bir tarihte belirli bir fiyattan satılması yoludur. Opsiyonların aksine, alım veya satım 
+işleminin ileriki bir tarihte yapılmasını zorunlu kılar (opsiyon sunmaz). Esas ürünün 
+gerek değerinin korunması, gerekse gelecekteki değerine dair spekülasyon yapılması 
+için kullanılabilir. 
+Ülke Riski - Devlet müdahalesine bağlı risk (merkez bankası müdahalesini kapsamaz). 
+Mesela, savaş veya sivil karışıklıklar gibi yasal veya politik olaylar.
+V
+Vade – Bir borcun ödenmesi gereken tarih.
+Vadeli İşlem Puanları -  Vadeli fiyatı belirlemek için cari döviz kuruna eklenen veya 
+çıkartılan pip’lerdir. 
+Vadeli İşlemler (Forward) -  İleriki bir tarihte gerçekleşmesi için mutabık kalınan işlem 
+türü. Döviz ticaretinde vadeli işlemler genellikle cari kurdan yüksek (prim) veya 
+düşük (indirim) bir marjda belirtilirler. Asıl vadeli döviz ticareti kurunu elde etmek 
+için marj, cari kura eklenir. Bu oran vade tarihinde olması gereken döviz kurunu 
+belirler ki bu kur, kaynakların tekrar, aynı kurdan değiştirilmesi sonrasında herhangi 
+bir kâr veya zarara yol açmayacak şekilde olmalıdır (örnek: tarafsız ticaret). Kur, iki 
+temel para birimindeki ilişik mevduat oranı ve cari döviz kurundan hesaplanır. Vadeli 
+işlemler piyasasının aksine, vadeli döviz ticaretinde şartlar iki tarafın ihtiyaçlarına göre 
+belirlenebilir ve daha esnektir. Ayrıca, merkezi borsa bulunmaz.
+Vadeli Kur Anlaşmaları (FRA) -  Vadeli kur anlaşmaları, gelecekteki belirli bir zaman dilimi 
+boyunca, sabit bir faiz oranı üzerinden borç alma / verme imkanı sağlayan işlemlerdir. 
+Valör Tarihi -  Bir işlemin her iki tarafının karşılıklı olarak ödeme yapmaya anlaştığı tarih.
+Varlık Tahsisi - Risk yönetimi nedeniyle veya yatırımcı veya yatırım yöneticisinin 
+beklentileri doğrultusunda bir geri dönüş sağlayabilmek adına portföyün 
+çeşitlendirilebilmesi için kaynakların farklı pazarlara (Forex, hisse senedi, bono, meta, 
+gayrımenkul) dağıtıldığı yatırım uygulaması.
+Vekil  - Aldığı vekaletname ile, başka bir kişi adına ticari işlem gerçekleştirme ve evrak 
+düzenleme yetkisine sahip kişi.
+Volatilite -  Bir piyasa veya menkul değerin zaman içindeki fiyat hareketlerinin istatistiki 
+ölçümü; standart sapma kullanılarak hesaplanır. Yüksel volatilite yüksek riske işaret 
+eder. 
+Y
+Yard – Milyar anlamında kullanılan bir terim. 
+Yarından Sonraya (Tom/Next) - Bir dövizin ertesi gün teslim edilmek üzere eş zamanlı 
+olarak alınıp satılması. 
+Yeniden Değerlendirme Oranları - Yeniden değerlendirme oranları, bir yatırımcının o 
+günün kâr ve zararını belirlemek için gün sonu işlemi yaptığında kullanılan piyasa 
+oranlarıdır. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+36
+Yukarı Tik -  Aynı döviz için verilen, bir öncekinden yüksek olan yeni fiyat kotasyonu. 
+Yukarı Tik Kuralı - Bu, Amerika Birleşik Devletleri’nde, bir menkul kıymetin kısa satışına, 
+ancak bir önceki alım-satımdaki satış fiyatının, kısa satış fiyatından daha düşük bir 
+fiyattan yapılmış olması durumunda izin veren bir yönetmeliktir.
+Yüksek / Düşük - Genellikle, cari işlem gününde söz konusu araç için kullanılan en 
+yüksek ve en düşük işlem fiyatları. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+37
+www.forexgercekleri.xyz - [Twitter: @eseckal]

@@ -1,0 +1,155 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 1\Baskı 1\5 Dakikalık Scalp Stratejisi (8 sayfa) - @eseckal.pdf
+PAGES: 8
+
+
+=== PDF PAGE 1 ===
+Gelişmiş Ticaret Sistemleri Koleksiyonu
+Bu, kısa vadeli işlemlerle piyasadan para çıkarmak için oldukça basit bir yöntemdir. Bununla 
+beş dakikalık grafiklerde işlem yapıyoruz ve nadiren 20 dakikadan uzun süre işlem yapıyoruz. 
+Bu sistem, aşırı ticaret yapmamak için biraz disiplin gerektirir, ancak bunu iyi öğrenirseniz, size 
+sürekli olarak kar kazandıracaktır.
+Bunu şahsen günlük olarak kullanıyorum ve onunla sürekli olarak piyasadan 30 - 50 
+pip çıkarıyorum.
+Bu özel ticaret sisteminin güzelliği, o kadar basit ve o kadar karlı olmasıdır ki, Forex 
+kariyerinizin başlangıcından bu yana neden onu kullanmadığınızı merak edeceksiniz. Bununla 
+birlikte, hemen içeri dalalım.
+Sisteme Genel Bakış ve Grafik Kurulumu
+Başlamak için 5 dakikalık bir EUR/USD grafiği açın ve bazı göstergeler ekleyin:
+Bu sistem için kullanmak istediğiniz göstergeler şunları içerir:
+• Üstel Hareketli Ortalama – 10 Dönem
+• Üstel Hareketli Ortalama – 21 Dönem
+• Üstel Hareketli Ortalama – 50 Dönem
+2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+Gelişmiş Ticaret Sistemleri Koleksiyonu
+50 EMA, kısa vadeli trendi belirlemek için göstergemizdir ve 10 ve 21. dönem EMA'ları 
+bize giriş sinyalleri için kullanacağımız güçlü destek ve direnç seviyelerini sağlar.
+Bu sistemde zamanlama da her şeydir. Bu sistemle işlem yapmak için en iyi zamanlar Londra 
+piyasası açıldıktan sonra veya New York piyasası açıldıktan sonradır. Asya pazarı açıkken bu 
+sistemle işlem yapmamalısınız çünkü bu sistemle çok fazla başarı elde edemezsiniz.
+Buradaki asıl amacımız, trend daha yüksek zirveler (ve daha düşük dipler) yaparken 
+kısa vadeli trendleri atlatmak ve sadece beş riske atarak sürekli olarak bir işlemden 
+10-15 pip sıkıştırmaktır. Giriş kurallarımıza uyarsanız bu sistem iyi çalışır. Bir grafikte 
+gösterilen temel fikir:
+5 Dakikalık Sistem İçin İşlem Kuralları
+Bu sistemin kuralları oldukça basittir. Bunları sizin için düzenlemek için:
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Gelişmiş Ticaret Sistemleri Koleksiyonu
+1. Beş dakikalık grafikte bir trend arayın. Bu, para biriminin daha yüksek zirveler 
+(yukarı trendde) veya daha düşük dipler (düşüş trendinde) yapacağı anlamına 
+gelir.
+2. Trend yönünü ve gücünü belirlemek için EMA 50'ye bakın. Ne kadar yukarı veya 
+aşağı eğimli olursa trend o kadar güçlü olur.
+3. Para biriminin EMA 21 ile EMA 10 arasındaki orta noktaya girmesini bekleyin. 
+Yükseliş trendindeyseniz bu sizin satın alma sinyalinizdir. Düşüş trendinde bu 
+sizin satış sinyalinizdir.
+4. Durdurmak için 5 pip (artı spread) kullanın.
+5. Kârı 10 pip (artı spread) olarak belirleyin.
+6. Trend durana kadar ölçeklendirmeye devam edin (50 EMA Yana Dönüyor)
+Biraz daha netlik sağlamak için buna bir grafik üzerinde bakalım:
+Yukarıdaki tabloya bakarak sadece adımları izleyelim. 7 giriş noktası listeledim. Bu yedi 
+kişiden yalnızca 4'ü geçerli, ancak buna da değineceğiz. Kısa vadeli trendden yararlanmak 
+için attığımız adımları gözden geçirelim:
+4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Gelişmiş Ticaret Sistemleri Koleksiyonu
+- Trend Belirleme: Daha yüksek zirveler yaptığımızı belirledik ve EMA 50 yukarıyı 
+gösteriyor. Bu bize yükseliş trendinde olduğumuzu gösteriyor.
+- #1 Sinyal–Fiyat, EMA 10 ile EMA 21 arasındaki orta noktaya geri dönüyor. Beş piplik bir 
+stop belirledik ve satın aldık.
+- #2 Sinyal-Fiyat, EMA 10 ile EMA 21 arasındaki orta noktaya geri dönüyor. Beş piplik bir 
+stop belirledik ve satın aldık.
+- #3 Sinyal-Fiyat, EMA 10 ile EMA 21 arasındaki orta noktaya geri dönüyor. Beş piplik bir 
+stop belirledik ve satın aldık.
+- #4 Sinyal-Fiyat, EMA 10 ile EMA 21 arasındaki orta noktaya geri dönüyor. Beş piplik bir 
+stop belirledik ve satın aldık.
+- #5 Sinyal–Fiyat daha yüksek bir zirveye ulaşmadı; bu, trendin değiştiğini gösteriyor 
+olabilir. Biz bu ticareti kabul etmiyoruz.
+- #6 Sinyal–Fiyat daha yüksek bir zirveye ulaşmadı; yine bu ticareti kabul etmiyoruz.
+- #7 Sinyal–Fiyat daha yüksek bir zirve yaptı ancak EMA 50 yana döndü, bu 
+takası kabul etmiyoruz.
+5 dakikalık sistemle kısa vadeli işlemlere örnek vermek için bu sistemin tamamına tersten 
+bakalım. Aşağıdaki grafiğe baktığımızda öncelikle düşüş trendinde olduğumuzu tespit ediyoruz 
+ve ardından bu grafikte 5 adet giriş sinyalimiz var.
+5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Gelişmiş Ticaret Sistemleri Koleksiyonu
+Bu durumda tüm giriş sinyalleri geçerlidir. 3 numaralı işlem dururdu, ancak bu 
+trendden bir seferde 10 piplik bir ölçek çıkararak dört karlı işlem yapmış olurduk.
+Bu sistem basittir ve bizim planladığımız şekilde kullanılırsa son derece karlı olabilir. 
+Henüz işimizi bitirmedik, bu sistemin karlılığını artırmanın bir yolu var.
+5 Dakikalık Sistemle Daha İleriye Gidiyoruz
+Karlılığını artırmak için bu sistemle yapabileceğiniz birkaç şey daha var.
+İlk olarak, birden fazla işlem yapmak ve aynı anda on pip almak yerine karımızın akmasına izin 
+verebiliriz. Bu sistemi diğer para birimleriyle de kullanabiliyoruz. Her iki durum hakkında konuşmak 
+için biraz zaman ayıralım.
+6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Gelişmiş Ticaret Sistemleri Koleksiyonu
+Kârların Çalıştırılmasına İzin Vermek
+Alışana kadar önceki bölümde anlattığım sistemi değiştirmenizi öneririm. Ancak bir seçenek 
+olarak, biraz deneyim kazandıktan sonra kârınızın piyasadan daha fazla kazanç elde etmek için 
+akmasına izin verebilirsiniz.
+Bu yöntemi kullanarak birden fazla işlem yapmayacağız, bunun yerine sadece ilk sinyali alıyoruz, 10 pip 
+önde olduğumuzda stopumuzu başabaş noktasına ayarlıyoruz ve ardından devam etmesine izin veriyoruz. 
+Önceki bölümdeki aynı örneği kullanarak:
+Bu yöntemle yükseliş/düşüş trendinde olduğumuzu belirledikten sonra ilk giriş sinyalini 
+alırız. Çubuğun üzerindeki grafiğe baktığımızda EMA 10 ile EMA 21 arasındaki orta 
+noktaya rastlıyoruz. Ticarete giriyoruz.
+7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Gelişmiş Ticaret Sistemleri Koleksiyonu
+Hala 5pip + spread stop'umuzu kullanıyoruz, ancak bu sefer kar alma kararı vermiyoruz. Bunun yerine işlem 
+lehimize 10 pip hareket edene kadar bekleriz ve ardından durağımızı başabaş noktasına koyarız. Oradan 
+ticaretin ilerlemesine izin verin.
+Ticaretten çıkmak için kullanabileceğiniz iki strateji vardır.
+1. EMA 50 önceki sayfadaki ekran görüntüsünde gösterildiği gibi düzleşmeye 
+başlayana kadar bekleyin. Bu yöntemle önceki örneğimizde kazandığımız 35 
+pip'e kıyasla 50 pip kazanmış olacaktık.
+2. EMA 50 gerçekten ortaya çıkana kadar bekleyin; bu özel işlemle günün büyük bir bölümünde 
+bu işlemi gerçekleştirebilir ve 100 pip kazanabilirdik.
+Muhafazakar tüccarlar, daha tutarlı karlar sağlayacağı için ilk çıkış stratejisini kullanmalıdır. 
+Risk alanlar ikinci yöntemi deneyebilir çünkü bu bazen 5 dakikalık grafiklerde büyük bir takas 
+yapmanın kolay bir yoludur.
+TicaretDiğer Para Birimleri
+Her ne kadar bu yöntemi çoğunlukla EUR/USD çiftinde kullansam da, bu birden fazla para biriminde scalping 
+yapamayacağınız anlamına gelmiyor. Aşağıdaki USD/CHF karakterine bakıldığında sistemin hemen hemen her 
+para birimiyle iyi çalıştığı görülür.
+8
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Gelişmiş Ticaret Sistemleri Koleksiyonu
+Sistemi EUR/USD dışında bir para birimiyle kullanmayı planlıyorsanız, manuel olarak tekrar test 
+etmek için zaman ayırmanızı öneririm. Bunu yapmak, döviz çiftiyle çalıştığını kendi zihninizde 
+doğrulamanıza yardımcı olacaktır. Daha da önemlisi, bu yöntemi söz konusu döviz çiftinde 
+kullanmak için en iyi zamanları belirlemenize yardımcı olacaktır.
+Bu sistemle spreadleri geniş olan çiftlerin kullanımı pek kolay olmayacaktır.
+Son Not
+Devam etmeden önce son bir not: Bu sistemi günlük olarak kullanmama rağmen, bu 
+benim ana ticaret sistemim değil ve sizin de olmamalı.
+Beş dakikalık grafikleri ölçeklendirmenin amacı, koşullar izin verdiğinde piyasadan 
+fazladan pip çıkarmak için bir yöntem olmak ve size öğrettiğim diğer sistemlerin bazıları 
+gibi büyük bir gelir elde etmek değil.
+9
+www.forexgercekleri.xyz - [Twitter: @eseckal]

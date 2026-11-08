@@ -1,0 +1,914 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 20\Baskı 20\İşleme Giriş Noktasının Belirlenmesi - Momoh SO (47 sayfa) - @eseckal.pdf
+PAGES: 47
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İÇİNDEKİLER
+Başlık Sayfası
+Telif hakkı
+Önsöz
+YAZAR HAKKINDA
+ÖZET
+GİRİİŞ
+AYI AŞAĞI TRENDİ
+TERS DÖNÜŞ MODELLERİ
+DAHA FAZLA ÖRNEK
+Not: Dikkat
+BOĞA GİRİŞ KRİTERLERİ
+AYI GİRİŞ KRİTERLERİ
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+ÖNSÖZ
+EN ÖNEMLİ FAKTÖR
+TUTARLI BİR ŞEKİLDE KÂRLI AYIRT EDER
+KAYBEDEN SÜRÜDEN TÜCCARLAR(%95)
+TÜCCARLAR, NEREYE VE NASIL GİRECEKLERİ VEYA
+İŞLEMLERİNİ YÜRÜTÜRLER. BİR TİCARETÇİNİN GİRDİĞİ YER
+TİCARETİ, BÜYÜK ÖLÇÜDE NE OLDUĞUNU BELİRLİYOR
+TİCARETİN SONUCU ŞU OLACAKTIR.
+Bir işlemin giriş noktası, bir yatırımcının ALIM veya SATIM kararı verdiği noktayı ifade eder. 
+İşlemlere nereden girileceği konusunda iyi bir anlayış ve ustalık, bir yatırımcının yalnızca 
+karlı işlemler yapmasına veya yapmasına, fiyatın tam olarak nereye hareket edeceğini 
+bilmesine, gelecekteki fiyat hareketleri ve yönleriyle ilgili kararlar almasına, bir işlemin, 
+trendin veya fiyat hareketinin olası ömrünü, uzunluğunu veya kapsamını tahmin etmesine ve 
+her şeyden önce, fiyat grafiğindeki fiyattaki gürültüyü filtreleyerek fiyat tuzakları ile gerçek 
+giriş sinyalleri arasında ayrım yapabilmesine yardımcı olabilecek bir sanattır.
+İŞLEM GİRİŞ NOKTASI BELİRLEME adlı bu kitap, piyasada işlem yapmadan 
+veya emir vermeden önce fiyatın onaylaması gereken kriterleri ve kontrol 
+listesini vurgulamaktadır.
+Başarılı ve karlı işlem yürütmenin temel taşı iyi bir giriş 
+noktasıdır!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+YAZAR HAKKINDA
+Yazar Momoh SO, yılların ticaret, eğitim ve hevesli tüccarlara 
+koçluk yapma deneyimine sahip, bilgili ve deneyimli bir piyasa 
+analisti, bir tüccar, bir grafik analisti, bir teknik ve temel analist, 
+bir borsa simsarı, mali danışman, bir finansal özgürlük koçu ve 
+bir piyasa gurusudur. Yüzlerce tüccara Forex, hisse senedi, hisse 
+senetleri, opsiyonlar vb. konularda eğitim vermiştir. Bunun için 
+kar ve sonuçlar göstermiştir.
+Aranacak temel alanları öğretme, belirsizliği işlem karışımından 
+ayırma ve acemi, orta ve ortalama düzeydeki yatırımcıların, işlem 
+sürecini bulandıran zorluklar olmadan işlemi anlamalarına yardımcı 
+olma konusunda uzmanlaşmıştır. Yöntemleri, piyasa hakkında sıfır 
+ön bilgiye sahip deneyimli yatırımcılardan, sürekli olarak karlı 
+yatırımcılara, sıfırdan kahramana kadar her şeyi üretmiştir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+ÖZET
+Bir işlemin giriş noktası, bir tüccarın SATIN AL veya SAT kararı verdiği noktayı ifade 
+eder. İşlemlere nereden girileceği konusunda büyük bir anlayış ve ustalık, bir tüccarın 
+yalnızca karlı işlemler yapmasına veya yapmasına, fiyatın tam olarak nereye hareket 
+edeceğini bilmesine, gelecekteki fiyat hareketleri ve yönleriyle ilgili kararlar almasına, 
+bir işlemin, trendin veya fiyat hareketinin olası ömrünü, uzunluğunu veya kapsamını 
+tahmin etmesine ve her şeyden önce,TFiyat grafiğindeki fiyat gürültüsünü filtreleyerek 
+fiyat tuzakları ile gerçek giriş sinyalleri arasında ayrım yapmak.
+İŞLEM GİRİŞ NOKTASI BELİRLEME adlı bu kitap, piyasada işlem yapmadan 
+veya emir vermeden önce fiyatın onaylaması gereken kriterleri ve kontrol 
+listesini vurgulamaktadır.
+Başarılı ve karlı işlem yürütmenin temel taşı iyi bir giriş 
+noktasıdır!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+GİRİİŞ
+Piyasalarda herhangi bir işlemden elde edilen kârın büyüklüğü, fiyatın spekülasyon 
+yapılan yönde ne kadar hareket ettiğinin bir fonksiyonudur. Spekülasyon yapılan 
+yöndeki fiyat hareketinin derecesi, böyle bir işlem veya spekülasyonun giriş noktası 
+tarafından belirlenir. Aynı koşullar altında belirli bir menkul kıymet için farklı 
+zamanlarda gerçekleştirilen iki işlem aynı sonuçları veremez. İşlemlerin gerçekleştirilme 
+zamanlamasındaki fark, bu tür işlemler için fiyat hareketinin tick değerinde farklılığa 
+neden olabilir.
+Örneğin, bir spekülatör veya yatırımcı, hisse başına 120 dolar fiyatlandırıldığında 
+1000 birim Tesla hissesi satın almış ve elinde tutmuşsa, fiyat 600 dolar olduğunda 
+aynı miktarda Tesla hissesi satın alan biriyle karşılaştırılamaz. Ayrıca, fiyat 400 
+dolara sabitlendiğinde bir birim bitcoin (BTC) satın alan bir kripto spekülatörü, fiyat 
+40.000 dolarken aynı birimi satın alan biriyle karşılaştırılamaz. Bu, başlangıç   için 
+%10.000'lik büyük bir farkı temsil eder. Dolayısıyla, yukarıdaki her durumda, temel 
+menkul kıymetin aynı miktarı veya birimi satın alınmış olmasına rağmen, işlemlere 
+giriş noktalarındaki fark nedeniyle kârda büyük bir fark vardı.
+Piyasanın en dip veya en üst noktasında alım veya satım yapan bir tüccar, fiyat 
+hareketinin ortasında benzer miktarda veya birim işlem gören menkul kıymet alım 
+veya satımı yapan bir tüccardan çok daha erken piyasaya girmiş olması nedeniyle 
+farklı bir kar veya zarar seviyesindedir. Bu nedenle, giriş noktası veya bir işlemin 
+gerçekleştirildiği yer, böyle bir işlemin karşılık gelen sonucuna eşdeğerdir. Piyasa 
+ne kadar kaotik, sürekli değişen ve dinamik görünse de, gürültü ve kaotik fiyat 
+hareketleri arasında bundan kar elde etmenin garantili yolu, işlemlere iyi bir giriş 
+noktası seçme sanatında ustalaşmaktır.
+Bu kitap, yatırımcı, spekülatör ve yatırımcının, fiyat grafiğini karıştıran piyasa kaosu, 
+gürültüsü, tuzakları ve tuzakları filtrelemesine ve bir işlemin, bu tür gerçekleştirilen işlem 
+yönlerinde kısa ömürlü veya kısa fiyat hareketleri olsa bile, işlemlere mümkün olan en iyi ve 
+karlı giriş noktalarını elde etmesine yardımcı olur.
+Peki, fiyat nereye gidiyor, bunu nasıl tahmin edebiliriz?
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+ORTAK FİYAT
+FORMASYONLAR,
+KURULUM & TREND
+Canlı veya gerçek hesapta işlem yapmadan önce bunu 
+yapmanız şart!
+Tıpkı yabancı bir dilde okuyup yazamayacağınız gibi, o 
+dildeki kelime oluşum harflerini bilmiyorsanız veya bir 
+programlama dilinde kod yazamıyorsanız, o programlama 
+dilinin temel kodlarını veya sözdizimini öğrenmiyorsanız, 
+karlı bir işlem yürütmek için fiyat oluşumu ve kalıplarının 
+bilgisi de önemlidir.
+Bir tüccarın fiyat grafiğini okuma ve yorumlama yeteneği, 
+piyasalardaki fiyat hareketi ve davranışının öğrenme eğrisinin 
+merkezinde yer alır. Bir tüccarın veya piyasa spekülatörünün 
+fiyat oluşumunu, modelini, trendlerini, fiyat/işlem kurulumunu 
+deşifre etme veya yorumlama konusundaki eksikliği veya 
+yetersizliği, tüccarı yalnızca şansa ve rastgele fiyat 
+hareketlerine bağlı olarak işlem yapan veya spekülasyon yapan 
+piyasa cahilleri ligine sokar. Bu piyasa katılımcıları kategorisi 
+paralarını kumar oynayarak kaybeder, ardından ağlayıp sızlanır. 
+Piyasalarda, bu grup piyasaya kumar veya kumarhane 
+yaklaşımıyla yaklaşan ve sadece şanslı olmak ve gün sonunda 
+büyük bir miktarla ayrılmak için zar atmayı hedefleyen kişileri 
+temsil eder.
+Aman Tanrım Cırcır Böcekleri!
+Ta ki bunun boş bir uğraş olduğunu ve piyasada izlenecek en 
+kötü yol olduğunu ve tabii ki bunun zor kazanılmış paralarını 
+çarçur ettikten ve tekrar tekrar yandıktan sonra olduğunu 
+anlayana kadar. Bu piyasa katılımcıları grubu, ne okuma ne 
+de yazma bilen cahiller gibidir.
+Potansiyel bir tüccar veya piyasa katılımcısı olarak, 
+fiyat oluşumu, fiyat kalıpları ve fiyat bilgisi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Zor kazandığınız paranızı kullanarak herhangi bir bahis yapma riskine girmeden 
+veya işlem yapmaya başlamadan önce mutlaka hareket etmeniz gerekir.
+Fiyat oluşumu, işlem kurulumu ve fiyat kalıpları bilgisi, 
+piyasalardaki önemli karar alma süreçlerini yönlendiren 
+şeydir. Bunlar, piyasa duygusunu ve piyasalardaki fiyat 
+hareketine göre diğer piyasa katılımcılarının 
+pozisyonlarının işaretçilerini temsil eder. Bunlar, fiyatın 
+nereye gittiğine veya hareket ettiğine dair işaretçilerdir, bir 
+tüccarın veya spekülatörün piyasadaki fiyatın yönüne bahis 
+koymadan önce baktığı ilk şeydir. Bunlar olmadan, bir 
+tüccar piyasalarda kör uçuş yapacak ve bu da bir işlem 
+hesabına zarar verecektir.
+Peki bu fiyat oluşumları, kurulumları ve desenleri nelerdir?
+Yatırımcının karlı işlemler yapma kararını bilgilendirmeye ve 
+işlem sürecinden kumar yaklaşımını kaldırmaya yardımcı 
+olurlar.
+FİYAT EĞİLİMLERİ VE KURULUM 
+Trendler fiyat davranışını temsil eder
+Piyasalarda, piyasanın yükseliş, düşüş veya nötr (kararsız) 
+durumda olup olmadığını işaret eden sinyaller. Piyasadaki her 
+trendin, onu diğer trendlerden ayıran kendine özgü özellikleri 
+vardır. Trendler ve fiyat oluşumları, yatırımcılar ve piyasa 
+spekülatörleri tarafından işlemlere giriş sinyalleri olarak alınan 
+kurulumlara dönüşür.
+Boğa (yükseliş trendi) trendi
+Bu fiyat oluşumu, fiyatın yukarı yönde kademeli olarak hareket 
+etmesiyle görülür. Bir dizi daha yüksek yüksek, daha yüksek 
+düşük veya her ikisinin oluşumu ile karakterize edilir.
+Yükseliş eğiliminde, fiyat piyasalarda uzun bir süre hareket etmeye 
+devam ederken, bir dizi yükseliş hareketi gerçekleştirir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+daha yüksek zirveler ve dipler.
+Yükseliş trendindeki fiyat, direnç seviyeleri olarak 
+bilinen bir dizi önceki fiyat seviyesini kırar ve üstüne 
+çıkar.
+AŞAĞIDAKİ RESMİ GÖRÜN
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+AYI AŞAĞI TRENDİ
+Ayı (düşüş) trendi
+Bu fiyat oluşumu, fiyatın aşağı yönde kademeli olarak hareket 
+etmesiyle görülür. Bir dizi daha düşük dip, daha düşük tepe 
+veya her ikisinin oluşumu ile karakterize edilir.
+Ayı trendinde, fiyatlar piyasalarda uzun bir süre hareket 
+etmeye devam eder ve bir dizi düşük dip ve yüksek seviyeler 
+oluşturur.
+Düşüş trendindeki fiyat, destek seviyeleri olarak 
+bilinen bir dizi önceki fiyat seviyesini kırar ve altına 
+iner.
+AŞAĞIDAKİ RESMİ GÖRÜN
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Dolayısıyla yükseliş trendi ile düşüş trendi arasındaki ayrımı 
+bilmek önemlidir. Diğer yandan piyasadaki fiyat hareketinin 
+yönü hakkında bilinçli bir spekülasyon yapabilmek de 
+önemlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+FİYAT OLUŞUMLARI VE DESENLERİ
+Fiyat oluşumları ve kalıpları, hakim veya baskın piyasa 
+gücünü, baskıyı veya duyguyu fiyat grafiklerinde 
+görülebilen fiyat oluşumlarına veya grafik kalıplarına 
+özetler. Fiyat oluşumu ve kalıpları hakkında bilgi ve 
+anlayış, bir piyasa spekülatörünün düzensiz fiyat 
+hareketlerinin hantal yığını ve dağından filtrelemesine 
+yardımcı olur ve gizemini çözer.
+Sadece en iyi ve en karlı işlemleri yapabilmek için işlemleri mümkün 
+olan en iyi noktalarda ve zamanlarda kurun ve gerçekleştirin.
+Fiyat kalıpları, piyasada yatırımcıya inanılmaz bir avantaj 
+ve esneklik sunar.
+Piyasalarda çeşitli fiyat veya grafik desenleri vardır. Bir grafik deseni 
+yükseliş veya düşüş eğilimli olabilir. Yani yatırımcılara yükseliş veya 
+düşüş eğilimi gösteren bir ticarete girmeleri için bir alım veya satım 
+sinyali verir.
+Bilinen tüm fiyat kalıpları iki ana kategoriye 
+ayrılabilir. Bunlar; devam ve geri dönüş 
+kalıplarıdır.
+Devam kalıpları: Genellikle geri çekilme veya düzeltme 
+şeklinde, birincil trend yönündeki fiyatın kısa bir 
+duraksamasının ardından, bir trendin orijinal yönünde 
+devamlılığını sağlayan fiyat kalıplarıdır. Bu kategori 
+altındaki fiyat veya grafik kalıplarına örnek olarak; bayrak 
+ve flama kalıpları, dikdörtgen kalıpları vb. verilebilir.
+Bir yatırımcı giriş noktasını belirlemek için devam fiyat 
+modellerini nasıl kullanır?
+Devam fiyat formasyonunun işlem giriş noktası, genellikle fiyatın 
+duraksaması veya duraksaması ile birlikte gelir veya hemen ardından 
+gelir. Fiyat geri döndüğünde ve duraklama veya duraklamadan önce 
+orijinal yönünde hareket etmeye hazırlandığında işlem açılır veya 
+gerçekleştirilir.
+Yani bir yatırımcı olarak, fiyat duraklama veya duraklama seviyesinin üstüne 
+veya altına düştüğü anda uygun şekilde yükseliş veya düşüş yönlü bir işleme 
+girin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+DEVAM EDİYOR ÖRNEĞİNİN TİPİK BİR ÖRNEĞİ 
+AŞAĞIDA GÖSTERİLMİŞTİR
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+TERS DÖNÜŞ MODELLERİ
+Geri dönüş desenleri:
+Bu fiyat oluşumları veya kalıpları, birincil trendden 
+dönüş sinyali veya göstergesidir.
+Tersine dönüş fiyat kalıpları, bir fiyat için doğrulayıcı sinyallerdir.
+Fiyatın orijinal yönünden veya yolundan sapması veya 
+dönmesi.
+Fiyat dönüş kalıpları, fiyat yönlerinde bir 
+değişiklikten sonra bilinçli bir giriş noktası kararı 
+vermek için çok önemlidir. Bu fiyat oluşumları bir fiyat 
+grafiğinde göründüğünde, piyasa duyarlılığı aniden 
+önerilen yönde akar. Fiyat yönünde bir dönüş veya 
+dönüm noktasını işaret eden fiyat veya grafik 
+kalıplarına örnekler şunlardır; Çift tepe kalıpları, çift 
+dip kalıpları, baş ve omuz kalıpları, ters Baş ve omuz 
+kalıbı, üçgen kalıpları, vb.
+Bir yatırımcı giriş noktasını belirlemek için tersine dönüş fiyat 
+modellerini nasıl kullanır?
+Genellikle, bir fiyat dönüş modelinin tamamlanması üzerine, fiyat tersine 
+döner veya daha öncekinden farklı bir yöne doğru hareket eder ve piyasa 
+duyarlılığı tekrar değişene kadar o yönde hareket etmeye devam eder.
+Fiyat dönüşü her iki yönde de gerçekleşebilir (hem yükseliş 
+hem düşüş)
+Yani bir tüccar olarak, mükemmel veya en iyi
+Bir tersine dönüş fiyat modelinin tamamlanması veya oluşması 
+sonrasında giriş noktası, genellikle fiyatın kırıldığı boyun 
+çizgisinin (bir destek veya direnç) hemen üstünde veya altındadır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+yukarı veya aşağı hareket yönünü daha öncekinin 
+tersi yönde değiştirdiği için.
+AŞAĞIDAKİ ÖRNEKLERİ GÖRÜN
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+DAHA FAZLA ÖRNEK
+Yukarıdaki görüntü, fiyatı gönderen çift dip fiyat 
+modelini göstermektedir.
+Boyun çizgisinin üzerinde bir kırılmanın oluşmasının ardından 
+yukarı yönde hareket gerçekleşecektir.
+Ayrıca,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Not: Dikkat
+Yukarıdaki görsel, boyun çizgisinin altında bir 
+kırılmanın oluşmasının ardından fiyatın aşağı yönlü 
+hareket etmesini sağlayan çift tepe fiyat dönüş 
+modelini göstermektedir.
+Not: Dikkat
+Bir tüccar olarak, çeşitli grafik ve fiyat modellerini bilmek 
+ve bunları hafızaya almak son derece önemlidir.
+Başla. Tıpkı bir çocuğun alfabeyi ve rakamları 
+ezberlemesi gibi.
+Fiyat kalıpları, fiyat hareketindeki gürültüyü filtrelemek ve fiyatın 
+hangi yöne doğru hareket ettiğini tam olarak anlamak için 
+inanılmaz bir avantaj sağlar.
+Farklı grafik oluşumları ve desenleri hakkında 
+daha fazla ayrıntı için lütfen bu serideki 
+CHART MASTERY kitabına başvurun.
+Bir tüccarın ustalaşması ve anlaması gereken bir diğer 
+önemli fiyat oluşumu ve kurulumu, piyasa döngüsü ve 
+fiyat gelişiminin aşamalarıdır. Piyasa döngüsünde fiyat 
+hareketinin dört aşaması vardır ve bunlar şunları içerir; 
+Birikim aşaması, artış aşaması, dağıtım aşaması ve düşüş 
+aşaması. Piyasa döngüsünün birikim ve dağıtım 
+aşamaları, belirli bir zaman dilimi boyunca daha geniş bir 
+fiyat davranışı (boğa ve ayı) gösteren ve piyasadaki fiyat 
+oluşumundan gelen gürültüyü filtreleyen önemli fiyat 
+oluşumlarıdır. MARKET CYCLE & STRUCTURE kitabını 
+okuyun
+Daha fazlası için bu seriyi takip edin!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+BOĞA GİRİŞ KRİTERLERİ
+Piyasalarda, fiyat yükseliş (yukarı) veya düşüş (aşağı) trendinde 
+hareket edebilir. Ancak, bir yatırımcının trendin başlangıcını veya 
+gelişimini takiben emrini veya işlemini nerede girdiği veya 
+gerçekleştirdiği, büyük ölçüde işlemin gerçekleştirildiği anda ne 
+kadar kâr veya zararda olacağını belirleyecektir.
+Boğa piyasası işlemi yürütmek için, her boğa piyasasından en 
+iyi ve en karlı sonucu veya sonucu elde etmek için, giriş noktasının 
+aşağıdaki kriterleri ve kontrol listesini karşılaması gerekir.
+Boğa giriş noktası kriterleri
+FİYAT OLUŞUMU
+& KURMAK
+Fiyat oluşumu, yükseliş eğiliminin başlangıcını veya 
+gelişimini bildiren veya işaret eden şeydir.
+Boğa fiyat formasyonu, devam eden veya tersine dönen 
+fiyat/grafik modellerinden herhangi biri olabilir ve aynı zamanda 
+boğa hissiyatını veya artan baskıyı gösteren bir kurulum veya 
+fiyat formasyonu da olabilir.
+Bazı yükseliş fiyat kalıpları şunlardır; yükseliş bayrağı, 
+çift dip fiyat kalıbı, ters baş ve omuz kalıbı, yuvarlanan dip 
+kalıbı, fincan ve kulp kalıbı, piyasa dipleri ve talep bölgeleri 
+etrafında oluşan fiyat formasyonu, birikim fiyat kurulumu, 
+vb. Bir tüccar veya spekülatör, yaklaşan bir yükseliş 
+trendinin sinyali olarak yukarıdaki fiyat kalıplarından veya 
+oluşumlarından herhangi birine dikkat etmelidir.
+En iyi GİRİŞ noktası genellikle desen oluşumu tamamlandıktan 
+ve fiyat bir destekten geri döndükten sonra gerçekleşir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+seviye veya sonrasında
+en yakın direncin üzerine çıkar
+veya yükseliş yönünde direnç seviyesi.
+TALEP BÖLGESİ
+Bir tüccar veya spekülatör olarak, fiyat grafiğindeki 
+talep bölgelerine dikkat etmelisiniz.
+Talep bölgesi nedir?
+Piyasadaki talep bölgesi veya talep bölgesi, yüksek yükseliş 
+baskısının olduğu ve fiyatın yükselme eğiliminde olduğu bir 
+bölgedir. Talep bölgesinin etrafında, yükseliş duygusu nispeten 
+yüksektir, çünkü
+Piyasa katılımcılarının büyük 
+çoğunluğu net uzun pozisyonda.
+Bu bölge etrafında gerçekleştirilecek birçok emir önceden ayarlanmıştır.
+Talep bölgesi genellikle piyasa dipleri, fiyat 
+grafiğindeki destek bölgeleri civarında bulunur.
+Uzun süreli bir düşüş eğilimi veya fiyat düşüşünden sonra, değişen 
+piyasalar veya boğa hissiyatıyla fiyat duraklaması etrafında
+ve ipuçları.
+DESTEK VEYA
+DESTEK SEVİYESİ
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Fiyat, düşüş eğiliminden veya fiyat hareketinden bir 
+desteğe veya destek seviyesine yaklaştığında, duygu genellikle 
+düşüş eğiliminden yükseliş eğilimine döner.
+Ancak devam eden düşüş trendinin baskısına 
+bağlı olarak fiyat aşağı yönlü hareketini 
+sürdürebilir.
+Bu nedenle, bir yatırımcı olarak destek ve destek seviyesine hakim 
+olmak, fiyat davranışını bir destek seviyesine yaklaşırken 
+gözlemleyebilmek ve izleyebilmek, böylece yükseliş ticaretine olası bir 
+giriş noktası belirlemek veya fiyatın düşüşünü sürdürmesine izin 
+vermek önemlidir.
+Fiyat yukarıdan bir destek seviyesine yaklaştığında 
+yatırımcı ne yapmalıdır?
+Daha önce de belirtildiği gibi, fiyat bir desteğe veya destek 
+seviyesine yaklaştıkça, duygu genellikle düşüş eğiliminden yükseliş 
+eğilimine geçer. Bir destek seviyesinin, fiyatın yükseliş eğilimine 
+geçmesi veya fiyat düşüşünün sonunu işaret etmesi için bir destek 
+sunması beklenir.
+Ancak fiyat güçlü bir düşüş trendinde veya ayı trendinde 
+olduğunda, yoluna çıkan her şeyi alt edebilir veya yok 
+edebilir.
+Dolayısıyla, finans piyasalarında bilgili ve deneyimli bir 
+yatırımcı olarak, fiyat bir destek seviyesine yaklaştığında, bu 
+koşullardan herhangi birine bağlı olan olası giriş noktasını 
+gözlemlemelisiniz;
+Fiyat bu destek seviyesinden geri döner, duraklar ve destek seviyesinden 
+itibaren yükseliş yönlü bir fiyat oluşumu veya deseni geliştirmeye başlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Fiyat destek seviyesini kırar ve bu seviyeyi aşarak 
+düşüşünü sürdürür.
+Eğer ilk senaryo gerçekleşirse, fiyatın yükseliş formasyon 
+oluşumunu veya kurulumunu tamamlamasını bekleyin, ardından 
+yükseliş açın.
+fiyat tersine dönmeye veya hareket etmeye başladığında 
+işlem yapın
+yukarı yönlü.Veya boğa emri ayarlayın veya başlatın.
+Ancak, ikinci senaryo için, destek seviyesi fiyatı geri tutmayı 
+başaramazsa, bu düşüş baskısının nispeten daha yüksek olduğu 
+anlamına gelir. Bu nedenle, tutunur, kısıtlar ve fiyatın yukarı 
+yönde hareket etmek için kırılan destek seviyesinin üzerine geri 
+dönmesini beklersiniz.
+Bunların yokluğunda, yükseliş yönlü bir işlem veya emir gerçekleştirmekten 
+kaçının. Çünkü fiyat henüz tersine dönme zamanı gelmemiştir.
+AŞAĞIDAKİ ÖRNEKLERİ GÖRÜN
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Yukarıdaki grafik, fiyatın bir destek seviyesinden sıçramasının ardından 
+yükseliş yönünde gerçekleştirilen bir EUR/USD ticaretini göstermektedir.
+Grafikte görüldüğü gibi, fiyat başlangıçta düşüş eğilimindeydi ve 
+bir destek seviyesine (aşağıdaki beyaz çizgi) ulaşana kadar 
+düşmeye devam etti, ardından bu seviyeden geri sekti, tekrar 
+tekrar bu seviyeye yaklaşmaya çalışsa da başarılı olamadı ve bir 
+süre durakladı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Daha sonra, boğa fiyat oluşumu gelişmeye başlar ve 
+tamamlandıktan sonra, fiyat boğa rallisini başlatmak için 
+yukarı yönde başlatılır. Ardından boğa ticareti 
+gerçekleştirilir.
+Not: Dikkat
+Fiyatın destek seviyesinden geri dönmesi ve yükseliş fiyat 
+modelinin oluşmasını takip eden bölgeler giriş bölgesini 
+oluşturur ve bu bölgelerin çevresinde yükseliş ticareti veya 
+emri başlatmak güvenlidir.
+Ayrıca,
+Örnek 2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Bu sayfadaki grafik, fiyatın bir destekten sıçrayarak yükseliş yönlü bir 
+işlem başlattığını gösteren başka bir EUR/USD işlemini göstermektedir.
+Örnek 3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Üçüncü örnek, düşüş eğiliminin bir destek seviyesine ulaştığı, durakladığı 
+ve ardından buradan geri sıçradığı bir USD/JPY döviz ticaretini 
+göstermektedir. Daha sonra, ters yönde tersine dönen yükseliş yönlü bir 
+fiyat oluşumuna doğru ilerlemektedir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Örnek 4
+Destek başarısız
+Yukarıdaki EUR/USD paritesinde, destek seviyesinde bir fiyat 
+başarısızlığı görülüyor. Destek, düşen fiyatı destek seviyesinden 
+uzaklaştıramadığı için yükseliş trendi başlayamadı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Dolayısıyla fiyat grafiğinde düşüş eğilimi devam etti.
+Tüccar, fiyatın destek etrafında durmasının ardından 
+olası bir geri dönüşü öngördü. Ancak, destek ihlal 
+edildiğinde, desteğin düşen fiyatı durdurmada başarısız 
+olması nedeniyle tüccar düşüş ticaretine girdi.
+MÜKEMMELLİĞİN ÖNEMLİ NOKTALARI
+BOĞA GİRİŞİ
+NOKTA KONTROL LİSTESİ
+Kar potansiyelini artırabilecek ve böyle bir işlemin 
+başarı şansını en üst düzeye çıkarabilecek en iyi 
+noktada boğa işlemine girdiğinizden emin olmak için, 
+bir tüccar aşağıdakilerden emin olmalıdır;
+Fiyatın mükemmel bir yükseliş kurulumu, formasyonu veya 
+deseni oluşturması ve tamamlaması yükseliş sinyali olarak kabul 
+edilir.
+Yüksek talep veya yüksek yükseliş hissiyatının olduğu 
+bölgelerde işlem yapılır.
+Destek veya destek seviyesinin altına düşmeyen 
+(kırılamayan) işlemler yapmak.
+Direnç veya direnç seviyesinin üzerine çıkan 
+işlemlerle yukarı yönlü işlem yapın.
+SATIN AL butonuna basmadan önce, bir kırılmanın ardından sırasıyla 
+bir direncin ve desteğin üstünde veya altında olası bir geri çekilme veya 
+düzeltme olup olmadığını gözlemleyin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+AYI GİRİŞ KRİTERLERİ
+Her fiyat düşüşü ayı ticareti veya aşağı yönlü trend 
+gereksinimini karşılamaz. Bazı fiyat düşüşleri ayı trendinin 
+sonu ve ardından boğa trendinin başlangıcı anlamına gelebilir. 
+Bu nedenle, fiyat tuzaklarından kaçınırken sadece yeterli karı 
+sağlamak için aşağı yönde hareket etmeye devam edecek 
+mükemmel bir ayı ticareti yapmak için, ticaret giriş noktasının 
+aşağıdaki kutuları işaretlemesi gerekir.
+Ayı giriş noktası kriterleri
+FİYAT OLUŞUMU VE KURULUM
+Fiyat oluşumu, bir olayın başlangıcını veya gelişimini bildiren veya 
+işaret eden şeydir.
+düşüş eğilimi.Bu nedenle ilk dikkate alınması gereken kriter 
+olmalıdır.
+Ayı fiyat oluşumu, bir devam veya geri dönüş fiyat/grafik 
+formasyonlarından herhangi biri olabilir ve aynı zamanda 
+ayı eğilimini veya artan baskıyı gösteren bir kurulum veya 
+fiyat oluşumu da olabilir.
+Bazı düşüş eğilimli fiyat formasyonları şunlardır; düşüş bayrağı, çift 
+tepe fiyat formasyonları, baş ve omuz formasyonları, yuvarlanan tepe 
+formasyonları, ters fincan ve kulp formasyonları, piyasa tepeleri ve 
+arz bölgeleri etrafında oluşan fiyat oluşumları, dağıtım fiyat 
+kurulumları vb.
+Bir tüccar veya spekülatör, yaklaşan bir düşüş eğiliminin sinyali 
+olarak yukarıdaki fiyat kalıplarından veya oluşumlarından herhangi 
+birine dikkat etmelidir.
+En iyi GİRİŞ noktası, genellikle desen oluşumu tamamlandıktan ve 
+fiyat en yakın destek seviyesinin altına kırıldıktan veya ondan önceki 
+bir direnç seviyesinden sıçradıktan veya tersine döndükten sonra 
+gerçekleşir.
+TEDARİK BÖLGESİ
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Bir tüccar veya spekülatör olarak, fiyat grafiğindeki arz 
+bölgelerine dikkat etmelisiniz.
+Tedarik bölgesi veya tedarik bölgesi nedir?
+Piyasadaki arz bölgesi veya tedarik bölgesi, yüksek düşüş baskısının 
+olduğu ve fiyatın düşme eğiliminde olduğu bölgedir. Arz bölgesi 
+civarında, piyasa katılımcılarının çoğunluğu net kısa pozisyonda 
+olduğundan, düşüş eğilimi nispeten yüksektir. Birçok satış emri bu 
+bölge civarında yürütülecek şekilde önceden ayarlanmıştır.
+Arz bölgesi genellikle piyasa zirveleri çevresinde, fiyat grafiğinde direnç 
+seviyesinin altında kalan bölgelerde, uzun süreli bir yükseliş trendi veya 
+fiyat yükselişinden sonra, düşüş eğilimi ve ipuçlarının olduğu aralıklı 
+piyasalar veya fiyat duraklamaları çevresinde bulunur.
+DİRENÇ VEYA DİRENÇ SEVİYESİ
+Fiyat, yükseliş trendinden veya fiyat hareketinden bir 
+direnç veya direnç seviyesine yaklaştığında, duygu 
+genellikle yükselişten düşüşe döner.
+Beklenildiği üzere, nispeten aşırı alım bölgesine girdiğinden yükseliş 
+baskısının azalması bekleniyor.
+Ancak devam eden yükseliş trendinin baskısına bağlı 
+olarak fiyat yukarı yönlü hareketini sürdürebilir.
+Bu nedenle, bir yatırımcı olarak direnç ve destek seviyelerine hakim 
+olmak, fiyat davranışını bir direnç seviyesine yaklaşırken 
+gözlemleyebilmek ve izleyebilmek, böylece düşüş eğiliminde bir 
+ticarete olası bir giriş noktası belirlemek veya fiyatın yükselişine 
+devam etmesine izin vermek önemlidir.
+Fiyat yukarıdan bir destek seviyesine yaklaştığında yatırımcı 
+ne yapmalıdır?
+Daha önce belirtildiği gibi, fiyat bir direnç veya direnç 
+seviyesine yaklaştığında,
+duygu genellikle yükselişten düşüşe geçer. Bir direnç 
+seviyesinin, fiyatın yukarı yönde daha fazla yükselmesi veya 
+artması için bir çatı veya muhalefet sunması beklenir. Ancak, 
+fiyat güçlü bir yükseliş trendinde olduğunda veya
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Yükseliş trendi, yukarı doğru yükselirken yoluna çıkan her şeyi alt 
+edebilir.
+Dolayısıyla, finans piyasalarında bilgili ve deneyimli bir 
+yatırımcı olarak, fiyat bir direnç seviyesine yaklaştığında, bu 
+koşullardan herhangi birine bağlı olan olası giriş noktasını 
+gözlemlemelisiniz;
+Fiyat bu direnç seviyesinden geri döner, duraksar ve direnç seviyesinin 
+altında veya bu seviyeden düşüş yönlü bir fiyat oluşumu veya paterni 
+geliştirmeye başlar.
+Fiyat direnç seviyesini kırar ve yükselişine devam 
+etmek için bilinen adıyla 'kırılma' ile bu seviyeyi aşar.
+Eğer ilk senaryo gerçekleşirse, fiyatın düşüş eğilimi 
+oluşumunu tamamlamasını veya kurulumunu bekleyin, 
+ardından fiyat ivme kazanmaya başladığında veya aşağı 
+yönlü hareket ettiğinde düşüş işlemi açın veya düşüş emri 
+başlatın.
+Ancak, ikinci senaryo için, direnç seviyesi fiyatı geri tutmayı 
+başaramadığında, bu yükseliş baskısının nispeten daha 
+yüksek olduğu anlamına gelir. Bu nedenle, tutunur, kısıtlar 
+ve fiyatın aşağı yönde hareket etmek için kırılan direnç 
+seviyesinin altına geri dönmesini beklersiniz.
+Bunların yokluğunda, düşüş yönlü bir işlem veya emir gerçekleştirmekten 
+kaçının. Çünkü fiyat henüz tersine dönmeye hazır değil.
+AŞAĞIDAKİ ÖRNEKLERİ GÖRÜN
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Yukarıdaki grafik, EUR/USD'nin direnç seviyesinden fiyatın 
+tersine dönmesinin ardından bir ticarete düşüş eğilimi gösteren giriş 
+noktasını göstermektedir. Fiyatlar, yükseliş yönünde yükselişini 
+sürdürmek için direnç seviyesini aşmak üzere yükseldiğinde, direnç 
+seviyesi etrafında güçlü bir düşüş eğilimi ve baskı ile karşılaşmış ve 
+bu da onu aşağı doğru zorlamış ve sonraki girişimlerde tekrar tekrar 
+başarısız olmuştur. Daha sonra,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+düşüş yönlü bir fiyat oluşumuna ulaşıldı ve oluşumun tamamlanmasının 
+ardından aşağı yönlü bir düşüş ticareti gerçekleştirildi.
+Örnek 2
+Yukarıdaki grafik, fiyatın direnç seviyesinden sıçramasının 
+ardından düşüş yönlü bir GİRİŞ noktasından düşüş yönünde bir 
+USD/JPY işlem yürütülmesini göstermektedir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Örnek3
+Bir direnç seviyesinden fiyat dönüşü sonrasında 
+düşüşe geçen bir USD/JPY işlemi.
+Örnek 4
+Direnç seviyesinin kırılması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Yukarıdaki grafikte yer alan USD/JPY paritesinde, direnç 
+seviyesini test edip başarılı olamayan fiyat, kısa bir süre 
+aşağı yönlü hareket ediyor ve daha sonra direnç seviyesini 
+aşarak yukarı yönlü fiyat hareketine devam ediyor.
+Ancak tüccar, işlem yürütmeden önce, fiyatın direnç 
+seviyesinden sıçramasının ardından gelişen düşüş eğiliminin 
+gerçek bir sinyal olup olmadığını doğrulamak için bekledi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Uzun süreli bir düşüş trendi veya sadece fiyatlarda bir geri çekilme için. 
+Ancak, aşağı yönde kısa bir fiyat hareketinden sonra, direnç seviyesinin 
+üzerine çıkmak ve daha yükseğe çıkmak için geri döner. Böylece, 
+fiyatlarda bir geri çekilmeden kaynaklanan yükseliş trendi doğrulanmış 
+olur.
+Bir yatırımcı olarak, fiyatın direnç veya destek 
+seviyesiyle etkileşiminden sonra bir işleme en iyi 
+giriş noktasını bulma veya oluşturma konusunda çok 
+fazla sabırlı olmak son derece önemlidir.
+MÜKEMMEL AYI GİRİŞ NOKTASI KONTROL LİSTESİNİN 
+ÖNEMLİ NOKTALARI
+Kar potansiyelini artırabilecek ve böyle bir işlemin 
+başarı şansını en üst düzeye çıkarabilecek en iyi noktada 
+düşüş yönlü bir işleme girdiğinizden emin olmak için, bir 
+tüccar aşağıdakilerden emin olmalıdır;
+Fiyatın oluşması ve tam bir düşüş eğilimi kurulumu, formasyonu veya 
+deseni oluşturması, düşüş sinyali olarak değerlendirilmesi anlamına gelir.
+İşlemler arzın olduğu veya düşüş eğiliminin yüksek olduğu 
+bölgelerde yapılır.
+Direnç veya direnç seviyesinin üzerine çıkan 
+(kırılamayan) işlemler yapmak.
+Destek veya destek seviyesinin altına doğru kırılan 
+işlemleri aşağı yönlü yapın.
+SATIŞ butonuna basmadan önce, bir direncin veya 
+desteğin kırılmasının ardından olası bir geri çekilme veya 
+düzeltme olup olmadığını gözlemleyin.
+SINIR DURDURMA/SİPARİŞLER
+Limit stop/emir nedir?
+Limit durdurma veya emir, fiyat belirli bir fiyat seviyesine ulaştığında veya onu 
+geçtiğinde otomatik olarak yürütülecek şekilde ayarlanmış programlanmış bir emri ifade 
+eder. Belirli bir fiyat seviyesinde verilen önceden ayarlanmış bir emirdir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Bir işlemin otomatik olarak gerçekleştirilmesi veya açılması veya açık bir işlemin otomatik 
+olarak kapatılması için belirlenen fiyat.
+Limit stop/emir ile bir tüccar ekran süresini azaltabilir veya 
+ekrana yapışık kalıp işlemlere başlamadan önce fiyat 
+oluşumunun tamamlanmasını bekleyebilir. Bu, fiyat 
+hareketinin düz olduğu veya düşük oynaklığın olduğu 
+seanslarda dezavantaj olabilir. Bu, tüccarların işlemleri 
+zorlaması veya riskli bahisler almasıyla sonuçlanabilir ve
+spekülasyonlar. Ancak, bir limit emri/durdurma ile, bir tüccar bunu basitçe 
+ayarlayabilir ve unutabilir. Bu, fiyat projeksiyonları ve analizine dayalı 
+olarak bir işlemin yürütülmesi için gelecekteki bir fiyatı basitçe 
+ayarlayarak, tahmin ederek veya yansıtarak yapılır.
+Bir yatırımcı fiyatın hangi yönde hareket edeceğini nasıl tahmin edebilir veya 
+öngörebilir?
+Piyasanın fiyat hareketini ve davranışını etkileyen çok 
+sayıda değişkenden kaynaklanan dinamik yapısı, fiyat 
+hareketinin tahminini biraz belirsiz hale getirir. 
+Piyasadaki fiyat hareketinden nihai olarak sorumlu olan 
+tek bir faktör yoktur. Etkileyen faktörler çeşitli temel 
+faktörlerden oluşabilir.
+ekonomik, jeopolitik faktörler vb.
+Ancak fiyatın hareket yönü, bir dereceye kadar, fiyat 
+grafiğinden çıkarılabilir veya tahmin edilebilir. Gerekli 
+olan tek şey, fiyat oluşumu, fiyat kalıpları, mum kalıpları 
+ve fiyat destek ve direnç seviyelerinin bilgisi hakkında 
+derinlemesine bir anlayıştır. Çünkü bunlar başarılı 
+ticaretin taşlarıdır.
+Dolayısıyla, finans piyasalarından kar elde etmek isteyen 
+bir yatırımcı olarak, yukarıda listelenen konu alanlarının 
+bilgisi ve anlayışına sahip olmanız şarttır. (Daha fazla bilgi 
+için bu kitap serisindeki bilgi bolluğunu keşfedin!)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Peki bir yatırımcı gelecekteki fiyat hareketinin yönünü nasıl 
+tahmin edebilir?
+Bazıları bunu bir medyumun bile yapamayacağını merak 
+edebilir ve hatta buna itiraz edebilir, ancak bu tamamen 
+mümkündür. Bunun gerçekleşmesi için gereken tek şey, 
+gelişen bir fiyat oluşumu veya modelinin olası yönünü basitçe 
+çıkarsamak veya yansıtmaktır. Gelişirken ve şekillenirken olası 
+modeli anlamaya çalışmak veya zihinsel bir resim 
+oluşturmakla olur.
+Yıllarca piyasada bulunmuş deneyimli yatırımcılar 
+olarak olasılıklar üzerinden düşünmeyi öğrendik.
+Dolayısıyla gelişen bir fiyat modelini takip ederek, sonraki 
+mumların pozisyonunu ve gelişen modelin tamamlanmasıyla ortaya 
+çıkacak muhtemel sonucu doldurmaya çalışın.
+Gelişen bir fiyat veya grafik deseni, fiyat grafikte sürekli hareket ettikçe 
+yükseliş veya düşüş eğilimi gösteren bir genel bakışa veya taslağa sahip olabilir. 
+Bu nedenle düşüş eğiliminde görünen gelişen bir desen, aşağıdakilere bağlı 
+olarak yükseliş eğilimine dönüşebilir:
+mum dizilimi ve hizalanması.
+O yüzden dikkatli ilerleyin!
+Bir desenin oluşma olasılığını nasıl doğrularız ve bu 
+bilgiyi limit stop/emir belirlemek için nasıl kullanırız?
+Desen çerçevesinin ortaya çıkması üzerine, 
+varsayılan desenin onaylandığı anlamına gelen son 
+baskın mumun oluşumunu bekleyin ve gözlemleyin.
+AŞAĞIDAKİ RESMİ GÖRÜN
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Yukarıdaki 1. görselde, fiyat hala gelişiminin erken 
+aşamasında. Yine de, muhtemel bir çift tepe formasyonunun 
+oluşması veya gelişmesi gibi görünüyor. Merakımızı doğrulamak 
+için, deneyimli yatırımcılar olarak, daha net ve daha bilgili bir 
+sonuca varabilmek için daha fazla mum çubuğunun oluşmasını 
+bekliyoruz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Yukarıdaki 2. resimde, gelişmekte olan desene iki ek ayı 
+mumu eklenerek, bunun daha çok bir çift tepe deseninin 
+oluşumuna benzemesi sağlanmıştır. Ancak, bu yine de yeterli 
+değildir, çünkü fiyat hala dönebilir veya yönünü değiştirebilir. 
+Bunun bir çift tepe deseni olduğunu doğrulamak için, bunu 
+doğrulamak için çift tepe deseninin genel hayali 'boyun çizgisinin' 
+altından ve üzerinden geçmesi gerekir. Bu yüzden aşağı yönde 
+daha fazla mum çubuğu bekliyoruz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Yukarıdaki Resim3, spekülasyon yapılan fiyat modelini 
+doğruluyor. Bu, bir dizi düşüş yönlü mum çubuğunun oluşmasıyla 
+mümkün hale geldi. Bu mum çubukları olmadan, üçüncü adım 
+kolayca başka bir rota izleyebilir veya yukarıdakinden sapabilirdi.
+Aşağıdaki fiyat oluşumu gibi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Yukarıdaki fiyat oluşumu veya deseni, yukarıda teyit edilen 
+çift tepe deseninden bir sapmadır. Bu, özünde, bir tuzağa 
+düşmemek için yürütmeden önce mum çubuklarından gelen 
+bir teyit sinyalinin önemini gösterir.
+LIMIT STOP/EMİR BELİRLEMEK İÇİN BİR TÜCCAR 
+AŞAĞIDAKİLERDEN EMİN OLMALIDIR:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Gelişmekte olan olası fiyat modelinin doğru bir projeksiyonunu 
+yapın (yani yükseliş veya düşüş eğilimini kontrol edin).
+Muhtemel bir geri dönüş veya sapma olup olmadığını gözlemleyin.
+Yükseliş ve düşüş emirleri için sırasıyla bir direnç seviyesinin 
+üstüne veya en yakın ve en mantıklı destek seviyesinin altına giriş 
+noktası belirleyin veya yerleştirin.
+Giriş noktasından itibaren ne çok sıkı ne de çok gevşek bir stop 
+loss belirleyin.
+Aşağıya bakın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Yukarıdaki grafik, limit emri/stop kullanılarak gerçekleştirilen 
+bir USD/JPY işlemini göstermektedir.
+Fiyat davranışı analiz edildikten sonra (grafikte sol 
+tarafta) 151.6460 fiyat seviyesini temsil eden mum çubuğuna 
+(mor ok) bir limit stop emri verildi ve %60 kar hedefi 
+belirlendi. Böylece fiyat yatırılan miktarın %60'ına kadar 
+yükseldiğinde işlem kapanır ve kar otomatik olarak 
+yatırımcının bakiyesine yatırılır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Yukarıdaki grafikten, fiyat fiyat seviyesine ulaştığında
+151.6460 seviyesinde 10$'lık bir yatırımla düşüş yönlü işlem açıldı.
+Fiyat, 151.4580 fiyatıyla temsil edilen %60'lık stop emri 
+(kâr hedefi) fiyat seviyesine ulaşana kadar düşmeye 
+devam etti, ardından pozisyon yaklaşık 6$ kârla kapandı. 
+Limit emri/stop, ekran süresini veya ekrana yapışık 
+kalmayı azalttığı için emirleri yürütmenin çok güçlü ve 
+karlı bir yoludur. Ancak, kaybı/kayıpları azaltmak veya 
+azaltmak için uygun risk yönetimi önlemleri alınmalıdır.
+GİRİŞ NOKTASI TUZAKLARI
+Bunlar piyasada kaçınılmazdır, çünkü finansal 
+piyasalarda fiyat davranışı dinamiktir. Sürekli olarak karlı 
+ticaretin kuralları taştan yapılmamıştır. Bu nedenle, sürekli 
+olarak karlı tüccarlar, tuzaklar dağında ve kaos dolu 
+piyasada yol alabilmek için yalnızca metodik ve taktiksel 
+yaklaşımla birlikte dayanıklılık ve sağlıklı bir zihinsel 
+dayanıklılık dozuyla hareket edebilirler. Sürekli olarak karlı 
+ticaret arayan bir tüccar olarak, ticaret girişleriyle ilişkili 
+bazı yaygın tuzakların farkında olmak önemlidir. Bu giriş 
+tuzaklarından bazıları, tüccarlara tatsız sürprizler bırakarak 
+sinsice yaklaşır.
+Ticaret giriş noktasıyla ilişkili en yaygın tuzaklardan 
+bazıları şunlardır;
+Boğa/ayı tuzağı: Bu durum genellikle hem boğa hem de ayı 
+trendlerinde meydana gelir. Yanlış bir fiyat hareketi, şüphesiz 
+yatırımcıları yanlış pozisyon almaya veya karar vermeye 
+yönlendirir.
+Düzeltmek:
+Giriş sinyalinin ardından önemli bir fiyat seviyesinin üstünde veya 
+altında bir fiyat geri çekilmesi veya düzeltmesi olup olmadığını izleyin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+bir ticaretin yürütülmesi.
+Zarar Durdurma Avı: Bu, bir işlem girişi veya yürütülmesinden sonra 
+zarar durdurma emrinin alınması veya vurulması ile ilişkilidir.
+Düzeltmek:
+Zarar durdurma seviyenizi ne çok dar ne de çok geniş ayarlamayın.
+Ayrıca, bir işlem yapmadan önce giriş sinyalinin ardından önemli bir fiyat 
+seviyesinin üstünde veya altında bir fiyat geri çekilmesi veya düzeltmesi olup 
+olmadığını izleyin.
+Sahte çıkışlar veya yalancı çıkışlar:
+Bu durum genellikle boğa ve ayı piyasasında işlem yürütme 
+sırasında bir direnç seviyesinin üstünde veya bir destek seviyesinin 
+altında fiyat kırılmalarında görülür. Bu kırılmaların ardından fiyat 
+genellikle tersine döner ve kırılmanın ters yönünde hareket eder. 
+Sonuç olarak, stop seviyelerine ulaşılır ve pozisyonlar erken 
+kapatılır.
+Piyasalardaki fiyat tuzakları hakkında daha fazla bilgi edinmek için bu 
+serideki AVLANMAYI DURDURUN & PAZAR TUZAKLARI kitabını okuyun!
+ÇÖZÜM
+Giriş noktası ve bir tüccarın bir işleme nerede ve nasıl 
+girdiği, büyük ölçüde böyle bir yürütmenin sonucunu belirler. 
+Kötü yürütülen bir işlem kayıpla sonuçlanır. Bu nedenle bir 
+tüccar olarak SATIN AL veya SAT düğmesine basmadan önce bir 
+işlemi düzgün bir şekilde planlamak önemlidir. Bu kitap, 
+başarılı ve karlı bir işlem için gereken her şeyi sağlamıştır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Her seviyedeki deneyime sahip yatırımcı için uygulama. Tek 
+yapmanız gereken bu kitapta özetlenen taktikleri uygulamak ve 
+ikinci doğanız haline gelene kadar pratik yapmaktır.
+'Pratik mükemmelleştirir' ve bir beceride ustalaşmak yaklaşık 
+10.000 saat sürer. Ancak, kitabın içeriği piyasadaki fiyat 
+gürültüsünü damıtıp filtreleyerek daha hızlı karlı ticaret 
+yapmanızı sağlar!
+Bu kitabı yararlı bulursanız lütfen bir inceleme ve puan bırakın
+Amazon mağazasında!
+www.forexgercekleri.xyz - [Twitter: @eseckal]

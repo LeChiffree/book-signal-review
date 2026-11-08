@@ -1,0 +1,2207 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 6\Baskı 6\Trading Stratejileri - Simon Sikorski (148 sayfa) - @eseckal.pdf
+PAGES: 148
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İçerik
+Giriiş................................................. .................................................. ...................................................3
+1. Doğru yöne gitmek.................................................. .................................................. ..................5
+2. Pivot Noktaları.................................................. .................................................. ...................................................10
+3. Camarilla pivot noktaları.................................................. .................................................. .....................27
+4. Fibonacci ticareti.................................................. .................................................. ..................................34
+Daha yüksek zaman aralıklarında Fibonacci ticareti.................................................. ....................................................51
+5. Pivotlar ve Fibonacci................................................. .................................................. ................................65
+6. DEMA ve Fibonacci.................................................. .................................................. ......................79
+Dema göstergesini kullanma.................................................... .................................................. ...................88
+7. Ichimoku Kinko Hyo.................................................. .................................................. ......................91
+8. Ichimoku ve Fibonacci.................................................. .................................................. ................101
+Ichimoku Kinko Hyo Monitörünü Kullanma.................................................. ....................................................107
+9. GDO................................................................ .................................................. ...................................................112
+10.Renk................................................................ .................................................. ...................................................116
+11. ATR İzleyen Zarar Durdurma.................................................. .................................................. ................137
+Sırada ne var?.............................................. .................................................. ...................................................148
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+giriiş
+Bir şeyi açıklığa kavuşturalım. Körü körüne takip edip para kazanabileceğiniz eksiksiz bir sistemi 
+burada bulamazsınız. Kutsal kâseyi sakladığım için değil. Her ticaret sisteminin çok önemli bir 
+parçası para ve pozisyon yönetimidir. Bu olmadan kaybolursunuz. Bana göre grafikte aşağıdaki gibi 
+görünüyor:
+Otomatik ticaret konusunda deneyimim var. Yüzlerce, binlerce dolara satın alabileceğiniz veya 
+kendi başınıza kurabileceğiniz karlı sistemler var. Evet, bazıları şu anda karlı ama piyasalar 
+değişiyor. Bu sistemler mevcut pazarla senkronizedir. Daha sonra senkronizasyonu bozulan 
+(piyasalar değiştiği için) bir sistemle karşı karşıya kalırsınız ve sadece para kaybedersiniz.
+Bu yol değil. Doğru yol, araçları seçmek ve onlara hakim olmaktır. O halde ticaret araçlarınızı kullanabilmeniz için 
+sağlam bir sermayeye sahip olmanız gerekir. Son olarak, bir ticaret sırasında ve sonrasında paranızı nasıl 
+yöneteceğinize dair kurallar koymanız gerekir; oyunda kalmak ve birkaç hafta içinde her şeyi kaybetmemek 
+istersiniz.
+Yazar hakkında
+Benim adım Simon. Doğu Avrupa'da yaşıyorum. Programcı olarak çalıştım. 10 ticaretiyle ilgilenmeye başladım
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Yıllar önce. Hisse senedi ticareti yapmaya başladım ve bağımlısı oldum. 2008 yılı civarında Forex hakkında bir şeyler 
+okudum. Küçük bir ticaret hesabı açtım. Forex ticareti yapmak hisse senetlerine göre çok daha zordu. Ve bu küçük 
+hesabı çok büyük bir kaldıraç kullandığım için batırdım. Hisse senetlerine geri döndüm ama kriz başladı ve hisse 
+satmak zorlaştı. Uzun lafın kısası, Forex'i bir kez daha denedim. Bu sefer daha dikkatliydim. Forex hakkında 
+okuyordum, yatırımcılardan tavsiye istiyordum. İlk yıllar zordu. Bazen kâr ediyordum ama sonra tekrar para 
+kaybediyordum. Fibonacci'yi, takip eden durdurmayı ve diğer teknikleri öğrendiğimde bu durum değişti.
+Forex sayesinde para kazanmaya başladım. Milyonlarca değil çünkü burada hızlı kazanmak zor. Yine de 
+oldukça iyi para kazanmayı başardım. Babam çok hastalandığında ve tedavisi çok pahalı olduğunda ona 
+maddi olarak yardım edebildim. Güzel bir histi. Forex'ten elde ettiğim kazanç olmasaydı ona yardım 
+edemezdim.
+Forex ticareti yapmayı öğrenmek benim için uzun bir yoldu. Sanırım artık size neyin işe yaradığını, neyin 
+abartıldığını anlatabilirim. Bu rehberi bu yüzden yazdım.
+Bu yayının amacı
+Bu yayının amacı size çeşitli ticaret araçlarını ve stratejilerini göstermektir, böylece sizin için en iyi araçları seçip 
+kendi ticaret stratejinizi oluşturabilirsiniz. Pek çok insanın hareketli ortalamalara ve osilatörlere dayalı bir strateji 
+oluşturmaya çalıştığına inanıyorum. Başarısız olmanın kolay bir yoludur. Beni yanlış anlamayın, ben de 
+kullanıyorum ama profesyoneller Fibonacci ve Pivot'ları da kullanıyor ve diğerlerinin önündeler.
+Size bu araçları nasıl kullandığımı gösteriyorum ve size bazı örnek işlemler veriyorum (bazıları gerçek, bazıları 
+uydurma çünkü farklı örnekler göstermeye çalıştım). Sonunda en çok sevdiğiniz şeyi alıp test etmeli ve kendi 
+ticaret sisteminizi kurmalısınız.
+Bu kitabı nasıl okuyabilirim?
+Stratejiyle ilgili her bölümde mevcut strateji/araç hakkında daha kısa veya daha uzun bir giriş bulunmaktadır. Daha sonra 
+size bu stratejiyi pratikte nasıl kullanabileceğinizi göstereceğim. Kitabı kaydırmayın. Örnekleri okuyun, grafikleri inceleyin. 
+Ortaya çıktıklarında nasıl tepki vereceğinizi göstermek için farklı durumları seçmeye çalıştım.
+4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+1. Doğru yöne gitmek
+Fibonacci ticaret sisteminin (ve diğer sistemlerin) en büyük sorunu, bazen doğru yönü seçmenin zor 
+olmasıdır. ABC Fibo modelinin her iki yöne de uyduğu bir durumda olacaksınız. Peki uzun mu yoksa 
+kısa mı gitmelisin?
+Elbette hiçbir zaman %100 haklı olmayacağız ama asıl amaç yüzde 60-70 veya daha fazla haklı olmaktır.
+Yine de tahmine (hatta şanslı da olsa) göre değil, sisteme göre karar verilmesi gerekiyor.
+Şansınızı artırmanın birkaç yolu vardır. Bu bölümde neyin işe yaradığını öğreneceksiniz. Aşağıdaki gibi konuları ele 
+alıyorum:
+• birkaç zaman diliminde nasıl çalışılır
+• Hangi en önemli ortalamaları izlemelisiniz?
+• DEMA nasıl kullanılır?
+• özel DEMA göstergemi yardım olarak nasıl kullanabilirim
+• Ichimoku nasıl kullanılır
+• Ichimoku göstergesini yardım olarak nasıl kullanabilirim?
+Az sayıda zaman dilimiyle nasıl çalışılır
+Ticaretin yönüne karar vermek için yapabileceğiniz ilk şey, durumu daha yüksek zaman dilimlerinde kontrol 
+etmektir. Bu yeni bir konsept değil. Alexander Elder, 90'lı yıllarda yaşayan bir form için Ticaret adlı kitabında 
+üç pencere zaman dilimi hakkında yazdı. Yani günlük grafikte işlem yapmak için haftalık ve aylık duruma da 
+baktınız. Elbette Forex veya e-mini ticareti yaptığınızda daha fazla zaman dilimi vardır, ancak bu yaklaşımı 
+değiştirebilirsiniz.
+Birkaç zaman dilimine dayalı ticaretin, ticaretteki başarınızın temeli olduğuna inanıyorum.
+İlk adım: Hangi zaman diliminde işlem yapacağınıza karar vermeli ve kararlar vermelisiniz.
+Kulağa çok açık geliyor ama 5 metrede işlem yaptığımı pek çok kez hatırlıyorum ama 15 metreyi kontrol ettim ve 
+bazı sinyaller gördüm ve o zaman dilimine göre sipariş verdim.
+Eğer 5m'de işlem yapıyorsanız çoğunlukla 15m, 30m, 1h ve en sonunda 4h'yi önemsersiniz. Günlük, haftalık veya aylık 
+ölçümler yalnızca bazı uzun vadeli destek/direnç seviyelerini kontrol etmek içindir.
+Eğer 1 saatlik bir işlem yapıyorsanız, o zaman çoğunlukla 4 saatlik, günlük ve en sonunda haftalık olarak ilgilenirsiniz.
+5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+İkinci adım: daha yüksek zaman aralıklarını kontrol edin
+Daha yüksek zaman dilimleri için kontrol listesi aşağıdaki gibidir:
+• Daha yüksek zaman dilimlerinde fiyatın 100 ve 200 SMA'larla ilişkisi nedir?
+• Destek/direnç hatları nerede?
+• Bakmam gereken önemli pivot noktaları var mı?
+Öncelikle neden 100 ve 200 SMA?
+Çoğu durumda en çok 100 SMA'ya dikkat edeceğim . Bunun nedeni basit. 100 SMA fiyata daha yakındır ve 
+fiyat 100 SMA ile 200 SMA'ya göre daha sık tepki verir. Tepki derken ortalamanın destek/direnç olarak 
+çalışacağını kastediyorum. Güçlü bir düşüş trendinde, aşağıdaki örnekteki çizgi 100 SMA'ya daha yakındır:
+Resim 1.1. 100 SMA ile 200 SMA arasındaki fiyat ve mesafe
+Yukarıdaki örnekte 200 SMA'nın çok daha yüksek olduğunu görebilirsiniz.
+6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Bakılacak şey?
+Tamam, bir işlem açmadan önce yakınlarda bir SMA olup olmadığını görmek için daha yüksek zaman aralıklarını kontrol etmelisiniz.
+Ana sebep:
+Daha yüksek zaman dilimlerindeki trendin, işlem açmayı planladığınız yönde olduğundan emin olmak 
+istiyorsunuz.
+Bu 15 metrelik grafikte bir ABC formasyonunu görebilirsiniz:
+Resim 1.2. Grafikte karışık durum, net bir trend yok
+Pirce 100 ila 200 SMA arasında sıkışıp kaldı. Açığa çıkacak bir aday gibi görünüyor, ancak bu zaman dilimine dayanarak ana 
+trendin yukarı mı yoksa aşağı mı olduğunu veya yakınlarda önemli bir destek/direnç olup olmadığını söyleyemem.
+Bu nedenle daha yüksek zaman dilimlerini kontrol edersiniz.
+Daha yüksek zaman dilimlerinde bir fiyat 100 ve 200 SMA'nın üzerindeyse (aşağıdaki gibi) geçiyorum. 1 saatlik zaman dilimi:
+7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Resim 1.3. Daha yüksek zaman dilimi ve yükseliş eğiliminin göstergesi
+Eğer fiyat 100 ve 200 ortalamalarının altındaysa bu, ayıların kontrolünde olduğu ve benim risk alma olasılığımın daha yüksek olduğu 
+anlamına gelir. 1 saatlik zaman dilimi:
+Resim 1.4. daha yüksek zaman dilimi ve düşüş trendinin teyidi
+100 ve 200'ün çarpımı veya başka ortalamalar olup olmadığını kontrol etmiyorum. Ortalamalara göre fiyatın nerede olduğunu ve 
+100'ün 200'ün üzerinde veya altında olup olmadığını kontrol ediyorum.
+Destek/direnç hatları nerede?
+Daha yüksek zaman dilimleri, önemli iniş ve çıkışların nerede olduğunu daha kolay görmenizi sağlar. Ayrıca üçgenleri de ararsınız,
+8
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+grafikteki bayraklar, kanallar ve diğer simetriler.
+Daha düşük bir zaman dilimine dayalı olarak GBPUSD'de uzun pozisyona sahipseniz, haftalık grafiğe göre 1,45-1,46 aralığının kar 
+alma alanı olduğunu bilirsiniz:
+Resim 1.5. Çıkış noktalarını seçmek için önemli seviyeler kontrol ediliyor
+Sadece en önemli çizgileri çiziyorum ve ardından bir alım satım kararı vermek için daha düşük zaman dilimlerine 
+geçiyorum.
+Bakmam gereken önemli pivot noktaları var mı?
+Günlük, haftalık ve aylık pivot noktalarının nerede olduğunu bilmelisiniz. Düşük zaman dilimlerinde (1 dakika, 5 dakika, 15 
+dakika) günlük ticaret yaptığınızda (işlemi kapatmayı planladığınızda), çoğunlukla günlük pivot hatlarını kontrol edersiniz. 
+15m veya daha yüksek bir seviyede işlem yapıyorsanız ve ticareti değiştirmeyi planlıyorsanız, durumu haftalık ve aylık olarak 
+kontrol etmelisiniz.
+Fiyat pivotun üzerindeyse trendin yukarı yönlü olması mümkündür. Aşağıda ise durum düşüş yönündedir. Ayrıca pivot 
+çizgilerinin Fibonacci çizgileriyle korele olup olmadığını da kontrol etmelisiniz. Ticaret örneği bölümünde bundan daha 
+fazlasını göreceksiniz.
+DEMA ve Ichimoku göstergelerini yardım olarak kullanma
+Sonraki bölümlerde Fibonacci'yi diğer araçlarla nasıl birleştireceğinizi göreceksiniz. Ayrıca Fibonacci + DEMA ve Fibonacci + 
+Ichimoku ile ilgili bir bölüm de bulunmaktadır. Size tüm zaman dilimlerinde durumu gösterecek DEMA göstergesini 
+oluşturdum. Ayrıca size benzer bilgileri gösterecek Ichimoku göstergesini de kullanıyorum. Sonraki bölümlerde bu 
+göstergeler hakkında daha fazla bilgi edinebilirsiniz.
+9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+2. Pivot Noktaları
+Pivot noktaları etrafında çok iyi bir strateji oluşturabilirsiniz. Onlar sayesinde ticaret katlarında kullanılan 
+araçlarla ticaret yapıyorsunuz. Birkaç çeşit pivot noktamız var:
+• günlük
+• haftalık
+• aylık
+• ve diğerleri, zaman dilimine göre
+Çizgiler önceki döneme ait verilere dayanan matematik formülünden gelir. Yani günlük pivot noktaları 
+önceki güne, haftalık ise önceki haftaya vb. dayalıdır. Matematik formülüyle ilgileniyorsanız, çevrimiçi 
+olarak kolayca arama yapabilirsiniz. Burada fazla ayrıntıya girmek istemiyorum. Sonuç olarak birkaç 
+satırımız var:
+• pivot çizgisi – bu ortadaki bir çizgidir
+• pivotun altında S1, S2, S3... destek hatlarımız var
+• Pivotun üzerinde R1, R2, R3... direnç çizgilerimiz var
+Fiyat düşerken S hatlarından birinde destek bulması mümkün. Çoğu durumda S1 veya S2 
+olacaktır. Fiyat yükseldiğinde, R hatlarından birinde (çoğunlukla R1 veya R2) durması 
+mümkündür.
+Bu sayede olası destek ve direnç çizgileri hakkında bilgi sahibi oluyoruz. Bir işlem günü başladığında fiyatın 
+konumunu kontrol ederim: pivot çizgisinin üstünde mi yoksa altında mı?
+Bir fiyat pivot çizgisinin üzerinde olduğunda pivot çizgisi destek görevi görmelidir ve fiyatın artması 
+mümkündür.
+Pivot merkezi bir çizgi olduğundan fiyat sıklıkla pivot noktasına geri döner. Bunu yaptığında pivota nasıl tepki verdiğini 
+kontrol edersiniz. Diyelim ki fiyat güne pivot çizgisinin 14 pip üzerinde başlıyor. Bir menzil hareketindedir, ancak sonunda 
+pivot çizgisine doğru aşağı doğru hareket etmiştir. Fiyatın burada bir miktar destek bulmasını bekliyoruz. Pivot devam 
+ediyor ve yukarı doğru bir hareket gördük. Osilatörden alım sinyali aldık ve pozisyon açtık. R1 ve R2 hedeflerimizdir.
+Eğer pivot destek olarak başarısız olursa S1 veya S2 çizgisine doğru bir aşağı hareket bekleyebiliriz.
+Bunu bir sinyalle birleştirmek iyidir. Bu, iki ortalamanın kesişmesi, osilatörden gelen bir sinyal, fiyat hareketinden gelen bir 
+sinyal veya başka bir şey olabilir.
+Örneklere geçelim ve pratikte nasıl çalıştığını kontrol edelim.
+10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+EURUSD, 5 milyon grafik
+Resim 2.1. Trend çizgisinin üzerindeki kırılmadan sonra uzun süre oynama
+Sabah saatlerinde fiyat pivot çizgisinin (siyah çizgi) üzerinde seyrediyordu. Destek görevi gördü (yeşil 
+dikdörtgen) ve daha sonra trend çizgisinin üzerinde bir kırılma yaşadık. Ayrıca 100 seviyesinin üzerine 
+çıktığında CCI 33'ten de bir sinyal aldık (CCI'da mavi dikdörtgen). Yukarıda iki direnç alanımız var: R1 ve R2. Bir 
+an için fiyat R1'de durdu, ancak daha sonra R2'ye yükseldi. İlk defa birkaç pip farkla ona dokunmayı kaçırdı 
+ama daha sonra başardı. R1 ve R2 bizim çıkış noktalarımızdı. Bu hareketin güçlü olduğunu (uzun mumlarla) 
+gördüğümde R2'yi bekleyeceğim. Çoğu durumda aşağıdakileri yaparım:
+• R1'deki pozisyonumun bir kısmını kapat ve kârı al
+• zararı durdurmayı artırın ve kar alma hedefini R2 olarak belirleyin
+• Fiyatın dönmesi durumunda sondaki zarar durdurmayı kullanın
+Çoğu zaman trend çizgisi çizmenin doğru yönde pozisyon açmanın iyi bir yolu olduğunu 
+unutmayın.
+11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+EURUSD, 5 milyon grafik
+Resim 2.2. Destek olarak pivot başarısız oldu
+EURUSD güne 33 hareketli ortalamanın altında ve pivot çizgisinin üzerinde başladı. Ayrıca pivot çizgisinin üzerinde tutunmayı da 
+başaramadı. Daha sonra hareketli ortalamanın direnç (kırmızı dikdörtgen) gibi davrandığını gördük, bu da düşüş trendinin daha 
+güçlü olabileceğine dair bir sinyaldi. İyi giriş noktası bundan hemen sonra, fiyatın ortalamadan sıçradığı ve son zamanlardaki en 
+düşük seviyenin altına düştüğü zamandı.
+Daha sonra S1'de sadece bir anlığına durdu, sonra bir miktar aşağı ve yukarı hareket gördük ama trend 
+düşüşe devam etti. Bu, fiyatın her zaman tam olarak S1, S2 veya R1, R2 çizgilerinde durmayacağının güzel bir 
+örneğidir. Ama bu bizim için gerçekten önemli mi? Ticaret planımızı uyguladık - pivot fiyatı tutamadığında 
+girdik, S1'de kapattık ve bir pozisyonu açık bıraktık. Ne zirveye ne de dibe ulaşamadık ama yine de kârla 
+bitirdik.
+12
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+EURUSD, 5 milyon grafik
+Resim 2.3. Beartrap ve stron yukarı doğru hareket ediyor
+Bu daha karmaşık bir örnek. Fiyat pivot çizgisinin üzerinde tutuyordu ancak R1 çizgisine atak yapmadı. 
+Daha sonra ayılar için bir tuzak gördük. Fiyat tersine döndü ve hızla R1 çizgisine ve ardından daha da 
+yükseğe çıktı. Zor bir gündü, muhtemelen durdurulursunuz veya çok geç girersiniz. Sadece size bazen 
+önemli seviyelerde tuzaklar bekleyebileceğinizi göstermek istedim. Bu nedenle kayıpları durdurmayı ve 
+doğru para yönetimini hatırlamak çok önemlidir.
+13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+EURUSD, 5 milyon grafik
+Bazı günler hoş ve basittir. Fiyat günün yarısında pivot çizgisinin altında kaldı ve daha yükseğe çıkamadı. 
+CCI'dan bir sinyal aldık (-100'ün altında fren) ve trend çizgisinin altında fren yaptık. Trend çizgisinden 
+toparlandı ve S1'de kısa bir duraklama ve S2'de hareketin sonunda bir satış dalgası gördük. Bunun gibi 
+mumları S2'de görmeniz oldukça yaygındır.
+Resim 2.4. Pivottan S2'ye kadar ticaret yapın
+14
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+R2'den S2'ye geçiş
+Teori, fiyatın S2 çizgisine ulaştıktan sonra yukarıdaki örnekte olduğu gibi R2 çizgisine kadar yükselebileceğini söylüyor. Ancak 
+her zaman bu kadar basit değildir…
+Resim 2.5. S2'den R2'ye geçiş
+15
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+EURUSD, 5 milyon grafik
+Resim 2.6. Güçlü trend ve S3'e geçiş
+Sabah saatlerinde fiyat pivot çizgisinin (siyah çizgi) üzerinde tutundu ve pivot destek görevi gördü. R1 çok yakındı 
+(pivot hattından 13 pip uzakta). Oradan ne kadar büyük satışların başladığını görebilirsiniz. CCI'dan gelen 
+sinyallerden sonra (mavi dikdörtgen) veya kısa bir aradan sonra (pivot destek olarak başarısız olduğunda) 
+girebilirsiniz. Bu örnek ilginç çünkü EURUSD S3 hattına ulaşmayı başardı (ki bu çok nadir oluyor). Ticaret planına 
+göre pozisyonun yarısını S1'de kapatıp geri kalanını S2'de kapatacağız. Bazen bir tarafın baskın olduğunu 
+gördüğünüzde (bu durumda ayılar gibi), beklemek ve sonra ne olacağını görmek iyi olur. Sadece takip eden zarar 
+durdurma işleminizi hareket ettirin ve bekleyin veya daha düşük bir zaman dilimine geçin ve oradan kapatın.
+Not: Bazen planımı bu örnekteki gibi değiştirip S2'de kapatmıyorum ve S3'ü bekliyorum ama her zaman S3'te 
+(veya R3'te) kapatıyorum. Yani fiyatın S3 çizgisinin altına kırılması çok nadirdir, burada bazı sahte kırılmalar ve 
+tuzaklar görebilirsiniz. Pozisyonu kapatıp bir gün sonraya bırakmak daha iyidir.
+16
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+EURUSD, 5 milyon grafik
+Resim 2.7. Güzel bir trend mevcut ancak fiyat R2 çizgisine çıkamadı
+Bu basit bir ticaret. Trend çizgilerinden yükseliş trendinin mevcut olduğunu görebiliriz. EURUSD'nin güne pivot 
+noktasının altında başladığına dikkat edin. Direnç olarak hareket edip etmeyeceğini bekleyip kontrol etmek iyi bir 
+fikirdi. Öyle olmadı ve EURUSD yükselmeye devam etti. Bu bizim giriş noktamızdı (mavi dikdörtgen), zararı 
+durdurma son düşük seviyenin altına (veya 55 ortalamanın altına - size kalmış) yerleştirilecektir. Hedef R1 ve R2'dir. 
+Gördüğünüz gibi ilk iki seferde fiyat birkaç pip için R1'i kaçırdı ancak sonunda ilk hedefe ulaşıldı.
+Daha sonra R2 hattına doğru hareketin devam ettiğini gördük. Bak ne oldu. Fiyat ortada durdu (muhtemelen 
+Fibo uzantısında) ve tersine döndü. R2 hedefine ilerlemek başarısız oldu. Bazen kontrol boğaların elindeymiş 
+gibi görünür ama ayılar bir anda ortaya çıkabilir. Her neyse, işlem gününün sonunda bu işlemi kapatmanız 
+veya son zarar durdurma durumunda durdurulmanız gerekir.
+17
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+EURUSD, 5 milyon grafik
+Resim 2.8. Pivotun üzerinde kırılma başarısız oldu ve trend çizgisinin altındaki kırılmadan sonra aşağıya doğru hareket etti
+Gün, pivot noktasına yapılan bir saldırı ve sonunda başarısız olan bir kaçışla başladı (pivot noktasındaki 
+mavi dikdörtgen). Fiyat hala trend çizgisinin üzerindeydi, bu yüzden ne olacağını beklemek zorunda 
+kaldık. Ayılar daha güçlüydü ve trend çizgisi başarısız oldu. MACD ve Williams %R'den kısa bir çıkış ve 
+satış sinyalleri aldık. İlk hedef S1 vuruldu, daha sonra aşağı hareketin devam ettiğini gördük ama 
+boğalar oyuna geri döndü. EURUSD, önceki örnekte olduğu gibi ikinci hedefe (S2) ilerleyemedi. Bu 
+nedenle yarı pozisyonu S1 seviyesinde kapatıp kâr elde etmek iyi bir fikirdir. İkinci yarıda durduruluruz 
+ama günü kârla bitiririz ve önemli olan da budur.
+Ah, bak daha sonra ne kadar gürültülü oldu. Ticaret planı, net hedefler ve giriş kuralları ile bunun dışında 
+kalacağız.
+18
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+SPX, 5m tablosu
+Resim 2.9. Güçlü ticarette bir ticarete yeniden giriş örneği
+Bazen bir fiyatın S3 destek hattına ulaşabileceğine dair başka bir örnek. Bu örneği analiz edelim.
+Gün, pivot çizgisinin altında ve trend çizgisinin üzerinde dar bir hareketle başladı (trend çizgisi çizmek için 
+kullanılan soldan alçaklar grafikte görünmüyor). Daha sonra MACD'den bir sinyal aldık (0 çizgisinin altında 
+çapraz, MACD'de mavi dikdörtgen) ve ardından trend çizgisinin altında kısa bir kırılma (mavi dikdörtgen). Bu 
+bizim kısa giriş noktamızdı. Zararı durdurmak için en iyi yer pivot çizgisinin üstüydü. Hedefler S1 ve S2 idi. S1 
+hattı vuruldu, buradaki pozisyonumuzun yarısını kapattık. S1'de destek yoktu ve sp500 S2 çizgisine doğru 
+ilerledi; bu bizim ikinci hedefimizdi ve ikinci yarıyı burada kapattık.
+55 EMA'da (mor) bir miktar düzeltme gördük, ancak bu bir direnç gibi davrandı ve ayılar geri geldi. 
+Ortalamanın direnç (veya destek) olarak hareket etmesi hoşuma gidiyor çünkü bu ortalamanın diğer 
+tarafında zararı durdurabileceğimi biliyorum. Tamam ama ayılara dönelim. Geri geldiler ama zaten bir trend 
+çizgimiz vardı. SP500 bu trend çizgisinin ve S2 çizgisinin altına düştü. Burası, 55 hareketli ortalamanın 
+üzerinde stoploss ile tekrar pozisyon açmak için iyi bir yerdi. Hedef, bir süre sonra vurulan S3 hattıydı.
+S3 hattında kısa bir kesinti olduğunu görebilirsiniz ancak başarısız oldu. Asla S3 hattında kısa (ya da R3 
+hattında uzun) gitmem çünkü bunun bir tuzak olması mümkün.
+19
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+SPX, 5m tablosu
+Resim 2.10. SPX'te işlem yapın. S1'de ilk TP hedefi vuruldu
+Bir güne ne zaman başladık? Fiyat pivot çizgisinin (siyah çizgi) üstünde ve altındaydı. Mevcut durumdan emin 
+değil misiniz? MACD çizgileri 0 çizgisinin altında, negatif ortalamalarımız da oldu (21 33'ün altında, 33 55'in 
+altında). Fiyat pivotun üzerindeyken bile durumun net olmadığını biliyorduk. Macenta trend çizgisi sol 
+taraftaki düşük seviyelere dayanıyordu (bunları grafikte göremezsiniz). Sabah 9 civarında bir şeyler olduğunu 
+gördük. SPX bu trend çizgisinin altına düştü. Negatif ortalamalar ve 0 çizgisinin altındaki MACD ile bu, iyi bir 
+kısa giriş noktasıydı. Zararı durdurmak için en iyi yer, her zamanki gibi S1 ve S2 hedefleri olan son düşük 
+yüksek seviyenin (1972 puan) üstüydü. SPX S1 çizgisine çarptı (burada yarım konum kapalı) ve hareket devam 
+etti. Daha önce de gördüğünüz gibi S2 hattına ulaşamadı. Yine de S1 hattından kâr elde ettik ve ikinci yarıda 
+durdurulduk (yine kârla).
+20
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+SPX, 5m tablosu
+Resim 2.11. Pivot destek olarak başarısız oldu ve S2'ye indi
+S&P500 1990 puanının üzerinde bir aralıkta hareket ediyordu ancak daha sonra fiyat düştü. MACD'den (0 çizgisinin 
+altında bir hareket) ve ortalamalardan (negatif) sinyal aldık, ancak SP500 hala pivot çizgisinin üzerindeydi. Bu yine 
+de çok riskliydi. Bir süre sonra pivot çizgisinin altında bir kırılma gördük ve güçlü bir aşağı yönlü hareket başladı. İlk 
+hedef S1 vuruldu, buradaki destek çok zayıftı. Pozisyonun ikinci yarısını kapattığımızda aşağı hareket S2'ye doğru 
+devam etti. İşlem gününün güzel sonu.
+Tekrar ediyorum, daha sonra bazı değişken hareketler görebilirsiniz, ancak net hedeflerle, piyasa dalgalı olduğunda para 
+kaybetmeyiz.
+21
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+SPX, 5m tablosu
+Resim 2.12. Verilerin yayınlanmasının ardından hızlı hareketler
+Burada ticaret yok, sadece piyasaların bazen değişken olduğunu ve başarısız olacağınızı gösteren bir ders. Bu, güçlü bir 
+düşüş hareketinin başlangıcı gibi görünüyordu, ancak pivot hattında boğalar geri geldi ve fiyat tersine döndü ve hızla R1 
+çizgisine ulaştı (haberler nedeniyle). Bu tür hareketleri yakalamanın bir yolu yok ama bundan kaçınmayı deneyebilirsiniz. 
+Önemli bir verinin yayınlanıp yayınlanmadığını kontrol etmeniz yeterlidir. Bunu gibi sitelerden kontrol edebilirsiniz. http://
+forexfactory.com.
+22
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+SPX, 5m tablosu
+Resim 2.13. Stron R3 seviyesine yükseldi
+Günün ilk yarısında SP500 pivot çizgisi (aşağıda) ile S1 çizgisi arasında dar aralıktaydı. Daha sonra boğalar pivot 
+hattına saldırmaya karar verdi ve kaçmayı başardı. Bu, son düşük seviyenin altında (yani S1 çizgisinin altında bir 
+yerde) zararı durdurma ile iyi bir uzun giriş noktasıydı. R1 hattı vuruldu ve daha sonra ikinci hedefimizin vurulduğu 
+S2'ye doğru ilerlemenin devam ettiğini gördük. Boğalar daha fazlasını istedi ve yükseliş devam etti; bunu sıkı bir 
+stop-loss ile yakalamayı ve R3 hattında kapatmayı deneyebilirsiniz. Bu boğalar için harika bir gündü, SP500'de 20 
+puanın üzerinde artış gördük ve pivot hatları hala harika çalıştı.
+23
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+SPX, 5m tablosu
+Resim 2.14. S1'e geçtikten sonra örneği girin
+Gün menzil hareketi ile başladı. Bir an için boğalar kazanıyormuş gibi göründü, eğer uzun süre devam 
+ederseniz durdurulmanız gerekirdi. Bu normaldir; bazen yanlış yönde işlem açarsınız, ancak durum 
+değiştiğinde geçiş yapabilmelisiniz. Bu durumda SPX pivot çizgisinin ve trend çizgisinin altında kapandı; 
+bu, açığa satış sinyaliydi. Hedefler her zamanki gibi - S1 ve S2. Kısa bir süre sonra S1 vuruldu (burada 
+pozisyonun yarısını kapattık), ardından bazı hatalı çıkışlar gördük. İkinci yarı hala açıktı ve geri kalanını 
+kapattığımız S2'ye doğru hareket devam etti.
+S1'de yanlış kısa devreden sonraki anı kontrol edin. Fiyat 33 ortalamasına geri döndü. Hatırlayın, 
+pozisyonun ikinci yarısını açmıştık. Benim için zararı durdurma her zaman 55 ortalamanın 
+üzerindedir, çünkü trend güçlü olduğunda bu ortalamanın üzerine çıkmamalıdır.
+24
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+USDJPY, 5 milyon grafik
+Resim 2.15. Güçlü trenddeki işlemler
+Düşüş trendi, pivot çizgisi başarısız oldu ve USDJPY S1 ve S2 çizgilerine indi. Sadece size, trend güçlü olduğunda 
+(ortalamalar geniş aralıklı olduğunda) zararı durdurmayı ortalamaların diğer tarafına (kırmızı dikdörtgen) 
+yerleştirdiğinizi ve bunu ortalama ile birlikte hareket ettirdiğinizi göstermek istedim. Yani S1 çizgisi civarında ikinci 
+yarı pozisyonunuz olduğunda, zararı durdur 109,35 civarına hareket ederseniz, kar alma hedefiniz S2 çizgisi olur. Bu 
+her zaman yukarıdaki grafikteki kadar kolay değildir, ancak piyasalar trend halindeyken basit planı takip edin ve 
+para kazanın.
+25
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+USDJPY, 5 milyon grafik
+Resim 2.16. R1 direnç olarak görülüyor ve desteğin altında kırılıyor
+Önceki örneklerde fiyatın pivot çizgisinin sağ tarafında olmasını bekledik (yani fiyat pivotun altındayken kısa, 
+pivotun üstündeyken uzun). Yukarıdaki grafikte olduğu gibi farklı bir şeyler deneyebileceğiniz günler vardır. 
+R1 hattının güçlü bir direnç olduğu açıktı. 12 saat boyunca USDJPY bunu zorlamada başarısız oldu. O zamana 
+kadar sonunda başarısız olan bir trend çizgisi çizebildik ve kısa bir kırılma gördük. Hareket doğrudan S1 
+çizgisine kadar devam etti. Bu durumda kaybı durdurma alanı açıktı - R1 çizgisinin üzerinde, dolayısıyla iyi bir 
+risk/ödül durumuydu.
+26
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+3. Camarilla pivot noktaları
+Normal pivot noktalarına benzer ancak daha hazır bir ticaret sistemidir. Tüccar Nick Stott tarafından 80'lerin sonunda 
+yaratılmış olup halen birçok tüccar tarafından kullanılmaktadır.
+Hatlarımız var:
+• H5 - uzun kırılma hedefi H4 - uzun kırılma hedefi
+• H3 - Kısa Pivot
+• L3 - Uzun
+• L4 - kısa mola
+• L5 - kısa kırılma hedefi
+Pivot noktalarında olduğu gibi, bir orta çizgi vardır; pivot.
+Resim 3.1. Camarilla hatları
+27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Bir fiyatın işlem gününün başında (Londra seansı) olduğu zamana dayanan birkaç strateji 
+vardır. Örnek ticaret kurallarına hızlıca bir göz atalım:
+Senaryo 1 - H3 ve L3 hatları arasında açık fiyat
+Ne zaman uzun süre gitmeli
+Fiyatın L3 çizgisinin altına hareket etmesini bekleyin ve tekrar üstüne çıkın; artık alım zamanı. Bazen fiyatlar 
+seviyeden sıçrar, sonra girmek için başka bir sinyale ihtiyaç duyarız (fiyat hareketinden, hareketli ortalamadan veya 
+osilatörden).
+H3 çizgisinde yakın pozisyon (veya trend güçlüyse ve iyi bir takip sisteminiz varsa H4/H5). L4 çizgisinin altında 
+kaybı durdurun.
+Kısa devre ne zaman yapılmalı
+Fiyatın L3 çizgisinin üzerine çıkmasını bekleyin ve tekrar altına inin; kısa pozisyon alma zamanı geldi. Bazen fiyatlar 
+seviyeden sıçrar, sonra girmek için başka bir sinyale ihtiyaç duyarız (fiyat hareketinden, hareketli ortalamadan veya 
+osilatörden).
+L3 hattında yakın pozisyon (veya trend güçlüyse ve iyi bir takip sisteminiz varsa L4/L5). H4 çizgisinin altında 
+zararı durdurun.
+Resim 3.2. H3 ile L3 arasındaki fiyat
+28
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Senaryo 2 - H3 ile H4 arasında açık fiyat
+Resim 3.3. Fiyat H3 ile H4 arasında açık. H4'ün üzerinde kapanışta uzun bir sinyalin olduğu örnek
+(H5'ten çıkış)
+Ne zaman uzun süre gitmeli:
+Fiyat H4 çizgisinin üzerine çıktığında uzun pozisyon alırız. 
+Hedef H5 hattı.
+H3'ün altında zararı durdurun.
+Ne zaman kısaltılmalı:
+Fiyat H3 çizgisinin altına düştüğünde kısa pozisyon açın. 
+Hedef L3'tür.
+H4'ün üzerinde durun.
+Senaryo 3 - L3 ile L4 arasında açık fiyat
+Ne zaman uzun süre gitmeli:
+Fiyat L3 çizgisinin üzerine çıktığında uzun pozisyon alırız. 
+Hedef H3 çizgisi.
+L4'ün altında kaybı durdurun.
+29
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Kısa devre ne zaman yapılmalı
+Fiyat L4 çizgisinin altına düştüğünde kısa pozisyon 
+açın. Hedef L5.
+L3'ün üzerinde durun.
+Senaryo 4 - Fiyat L4 çizgisinin altında veya H4 çizgisinin üzerinde açılıyor.
+Geri dönene kadar bekleyin ve senaryo 1, 2 veya 3'e göre oynayın.
+Peki… nasıl kullanılır?
+Bu harika bir araç ama Camarilla ile işlem yapma konusunda ayrı bir kılavuz yazabilirim. Yukarıda anlattığım 
+kurallara uymak zorunda değilsiniz. Aşağıdaki örnekleri kontrol edin ve nasıl çalıştığını görün.
+SPX, 5m tablosu
+Resim 3.4. Fiyat H3 ile H4 arasında açık. H4'ün üzerinde kapanışta uzun bir sinyalin olduğu örnek
+(H5'ten çıkış)
+30
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+SPX pivot çizgisinin altındadır (sarı). Menzil hareketinden sonra ayıların bir şeylerin peşinde olduğunu 
+görebiliriz. MACD ve CCI'dan satış sinyalleri aldık, hareketli ortalamalar da negatifti (yani 21 33'ün altında ve 
+33 55'in altında). L3 uzun süre dayanamadı ve SPX aşağı doğru hareket etmeye başladı. Görünüşe göre L4 
+hedef değil ve aşağı yönlü hareketimiz devam edecek. Ama hayır, işler farklı gelişti. Bu sahte bir çıkıştı ve 
+boğalar geri geldi. 1945 puanına kadar çıkmayı başardıklarını görüyorsunuz. Bu örneği bir nedenden dolayı 
+göstermek istedim - %100 kesin sinyaller yoktur - bazen her şey yolunda gidiyormuş gibi görünür ve sinyaliniz 
+var ama fiyat terstir. Bu yüzden sondaki stoploss yöntemini kullanıyorum. Bu örnekte, kısa pozisyon aldıktan 
+sonra, diyelim ki 1933 puan, her bir sonraki düşük zirveden sonra stop noktanızı düşürürsünüz. Bu tür 
+tuzaklar oluyor.
+Petrol, 15m tablosu
+Resim 3.5. L3'ten L5'e kısa ticaret
+Burada her şey harika çalıştı. Aslında bu işlemi 5 dakikalık grafikte açtım ancak 15 dakikalık grafikte bu daha net 
+görülüyor. Pivot çizgisinin (sarı) altındayız, ortalamalar negatif. MACD ve CCI'dan (L3 hattının yakınında) kısa devre 
+yapacak sinyaller var. L3'te kısa devre yaptım, L4'te kapattım ve L4 başarısız olunca ve L4'ün altında bir kırılma 
+olduğunda tekrar kısa devre yaptım. Ticaretinizi nasıl yöneteceğiniz size kalmış. Sadece size bazen L4 hattında çok 
+kısa bir duraklama olmaksızın veya çok kısa bir duraklama ile L3'ten L5'e güçlü bir geçiş yaptığımızı göstermek 
+istedim. Trend güçlüyse L5 bir hedeftir.
+31
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+EURUSD, 5 milyon grafik, bölüm 1
+5 milyon EURUSD'de L3'ten L4'e doğru bir yükseliş yaşayabiliriz gibi görünüyordu. Hatta MACD'den de sinyal 
+gelmişti ama gördüğünüz gibi bu yanlış bir sinyaldi (o dönemde ortalamalar da negatifti). Uzun pozisyona geçmek 
+için yapılan başarısız hamlenin ardından fiyat tersine döndü ve L4'e geriledi:
+Resim 3.6. Yukarı taşıma başarısız oldu, ancak...
+EURUSD, 15 milyon grafik, ticaretin 2. kısmı
+Daha yüksek zaman dilimini kontrol ettiğinizde düşüş eğiliminin hala devam ettiği ve uzun pozisyon almanın 
+bir anlamı olmadığı açıktı:
+Resim 3.7. ... daha yüksek zaman diliminde hala bir düşüş trendi vardı
+32
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+EURUSD, 5 milyon grafik
+Resim 3.8. Pivot çizgisinin altındaki kırılmanın ardından kısa ticaret
+H3'ün hemen altında pivot çizgisi olan noktalı sarı bir çizgimiz var. MACD ve CCI'dan açığa satış sinyali 
+aldık ancak pivot çizgisinin altına kırılmayı beklemek güzeldi. Bazı durumlarda destek görevi görebilir ve 
+buradan bir sıçrama göreceksiniz. Bu durumda pivot çizgisinin bir destek olmadığını gördük ve kısa bir 
+kırılma yaşadık; burası bizim giriş noktamızdı. Kâr alma hedefi L3 hattıydı ve bu da iyi çalıştı.
+33
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+4. Fibonacci ticareti
+Hatırlamak -Burada MetaTrader'ınızda Fibonacci'yi nasıl kuracağınıza dair bir kılavuz bulabilirsiniz.
+Fibonacci ticareti hakkında kısa bilgi ve doğrudan örneklere geçiyoruz. Yeni başlayanlar için birkaç rehber yazdığım 
+sitemde Fibonacci hakkında daha fazla bilgi edinebilirsiniz. Bu bölümdeki örneklerin iyi tanımlandığını ve Fibonacci 
+ticaretinin gerçekte neyle ilgili olduğunu hızlı bir şekilde anlamanız gerektiğini düşünüyorum.
+Daha yüksek veya daha düşük seviyenin ne olduğunu bilmiyorsanız, o bilgiyi de burada bulacaksınız.
+Doğrudan ticarete geçelim. Fibonacci seviyeleriyle işlem yaparken şunları yapmanız gerekir:
+• trendin yönünü bul
+• bekleyin ve Fibonacci geri çekilmeleriyle ABC hareketini bulun
+• Düzeltmede açık ticaret ve Fibonacci uzatma çizgisinde (D noktası) kapanış
+• bu yüzden buna ABCD model ticareti deniyor
+Birincisi açık; daha iyi şansa sahip olmak istiyoruz, bu nedenle zaman çerçevemizdeki trende göre ticaret yapıyoruz. 
+Bunu karmaşıklaştırmamaya çalışıyorum. Ben sadece fiyat hareketlerine ve iniş ve çıkışların sırasına bakıyorum. 
+Ayrıca hareketli ortalama kullanıyorum - çoğu durumda bu 33 ve 55 üstel/doğrusal ağırlıklı hareketli ortalama 
+olacaktır. Fiyat yukarıdaysa trend yukarı, altındaysa trend aşağı demektir. Trendin yönü konusunda her zaman 
+doğru olamayacağınızı unutmayın, ancak işlemlere odaklanabilmeniz için basit bir sisteme ihtiyacınız var.
+Tamam, trend yönünü tanımladık. Şimdi ABC hamlesini arıyoruz. Yürütebileceğiniz iki senaryo 
+var.
+Senaryo 1 - daha güvenli
+Bu senaryoda ABC hamlesinin bitmesini 
+bekliyoruz ancak bir ticarete girmiyoruz. 
+C’den D’ye geçiş başladığında hala 
+bekliyoruz. Giriş noktamız AB 
+salınımından yükseklerin üzerinde 
+kırılma olacak. Bu yöntemin dezavantajı, 
+çoğu zaman fiyatın bu seviyeden hızlı bir 
+şekilde hareket etmesi ve pozisyon 
+açmanın zor olmasıdır. Ayrıca burada 
+sahte kırılmalar gibi birçok tuzak var.
+Resim 4.1 Fibonacci ticareti – daha güvenli senaryo
+34
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Senaryo 2 – hareketin daha büyük kısmını yakalamaya 
+çalışmak
+Buradaki giriş, düzeltme bittikten 
+SONRA B ile C arasında bir yerdedir. 
+Yine de bir çeşit doğrulama sinyali 
+kullanmanız gerekiyor.
+Resim 4.2 Fibonacci ticareti – B ve C arasındaki giriş
+Bazı tüccarlar, C ve B arasındaki bir ticaret olan üçüncü bir senaryoyu oynarlar. Dolayısıyla, fibonacci geri çekilme düzeltmesinden 
+sonra bir ticaret açarsınız ve fiyat son yüksek seviyeye (B) yaklaştığında onu kapatırsınız.
+Çoğu zaman senaryo 2'yi kullanırım. Senaryo 1'in uygulanmasıyla birçok kez ticarette çok geç kaldım. Hareketin daha fazla kısmını 
+almak için biraz daha fazla risk almaya hazırım.
+Bu bilgiyle bazı ticaret örneklerini kontrol edelim.
+35
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+EURUSD, 30 milyon grafik
+Fiyat 33 ortalamanın üzerinde duruyor, bu yüzden uzun fırsatlar arıyordum. Sığ düzeltmenin 
+ardından fiyat yükseldi. CCI 33'ten de 100 seviyesinin üzerine çıkan bir sinyal aldık. Girmek için iyi 
+bir yerdi. Hareket güçlüydü ve çıkış hedefim %161,8 uzatma hattıydı.
+Resim 4.3. CCI'ya dayalı giriş örneği
+36
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+USDJPY, 5 milyon grafik
+Resim 4.4. ABC hamlesi, B noktasının üstüne çıkamadı
+Bu ticaret stoploss ile sona erdi. Her zaman hızlı olmuyor - AB, C'ye düzeltme, D'ye geçme. Bazen düzeltme biraz 
+zaman alır. Daha sonra trend çizgileri çizebiliriz. Düzeltmenin %61,8 geri çekilme çizgisinde sona erdiği görüldü. 
+Daha sonra ilk trend çizgisinin üzerinde bir kırılma yaşadık. Ayrıca 33 CCI'den (100 seviyesinin üzerine yakın) bir 
+sinyal aldık. İlk başta güzel görünüyordu ama sonra fiyat tersine döndü ve düştü. Zararı durdurmayı %61,8 geri 
+çekilme çizgisinin altına koydum. Ben durduruldum ama kayıp o kadar da büyük değildi. Bu nedenle para 
+yönetimi çok önemlidir.
+37
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+USDJPY, 15 milyon grafik
+Resim 4.5. Çoklu ortalamalarla Fibonacci ticareti
+Bazen direnç ve destek alanlarını belirlemek için birden fazla ortalama kullanabilirsiniz. Bu durumda MMA (çoklu 
+hareketli ortalamalar) sayesinde trendin aşağı yönlü olduğu açıktı. 61.8 ve 78 geri çekilme çizgilerinden de teyit 
+aldık. Bu durumda, yeşil ortalamanın altındaki bir kırılmanın ardından kısa pozisyona geçersiniz; daha sonra destek 
+olarak hareket etmeden önce daha sonra geçiş yapar ve direnç olarak hareket edersiniz.
+38
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+USDJPY, 15 milyon grafik
+Resim 4.6. Geri çekilme hattındaki ve hareketli ortalamadaki direnç örneği
+Benzer örnek. MMA'lar sayesinde mevcut trendin net bir resmine sahibiz. Fiyat %50'ye ve yeşil 
+ortalamaya geriledi, ardından düşüş devam etti. Gördüğünüz gibi, burada son düşük seviyenin altındaki 
+kırılmada bir işlem açabilirsiniz ve bu harika işe yaradı.
+39
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+EURUSD, 1 milyon grafik
+Sabah harika bir kurulum vardı; yukarı hareket, %61,8 geri çekilme ve 55 basit hareketli ortalamaya 
+kadar düzeltme ve ardından uzatma çizgisine doğru hareket. MACD'den sinyal aldık. Bunun gibi 
+durumları seviyorum çünkü fiyat iki farklı kaynaktan destek bulabilir: Fibonacci geri çekilmesi ve 
+hareketli ortalama.
+Resim 4.7. Düzeltmenin sonu %61,8 ve 55 SMA
+40
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+EURUSD, 1 milyon grafik
+Bu ticaret fırsatı bir miktar yatay hareketin ardından geldi. Giriş noktası %0 çizgisinin (B noktası) 
+üzerindeki kapanıştı. Gördüğünüz gibi bu %261,8 uzatma çizgisine kadar oldukça güçlü (biraz dalgalı) bir 
+hareketti:
+Resim 4.7. Dalgalı bir piyasada ABCD hamlesi
+ABC'nin hamlesini burada tespit etmek zordu, ancak harika çalıştığını ve hamlenin %261,8 uzamayla sonuçlandığını 
+görebilirsiniz.
+41
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+USDJPY, 5 milyon grafik
+Resim 4.8. %161,8 genişlemeyle sonuçlanan kısa ticaret
+Fiyat 200 hareketli ortalamanın altındaydı. ABC'nin hareketini kolaylıkla tespit edebiliriz. Bundan sonra yavaş yavaş 
+aşağı yönlü hareket gelişti ve CCI ve MACD'den sinyaller aldık. Zararı durdurmak için en iyi yer 200 ortalamanın üstü 
+ve %78 geri çekilmenin üzerindeydi. Aşağı yönlü hareket güçlüydü; %138,2 uzatmada kısa bir duraklama ve %161,8 
+uzatmada son durak. Her zaman olduğu gibi pozisyonun yarısı %138,2'den, geri kalanı ise %161,8'den kapandı.
+42
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+USDJPY, 5 milyon grafik
+Resim 4.9. %161,8 genişlemeyle sonuçlanan kısa ticaret
+USDJPY 200 hareketli ortalamanın üzerinde ve yükseliş trendimiz var (21, 33 ve 55 ortalamalarına 
+baktığımızda). %38,2'lik geri çekilme hattında küçük bir düzeltmenin ardından yukarı yönlü hareket 
+devam etti ve MACD ve CCI'dan sinyaller aldık. Pozisyonun yarısı %138,2 uzamada kapandı ve diğer 
+yarıda zararı durdur hareketine geçiyoruz. Nerede? Giriş seviyesine kadar, eğer durdurulursak, sadece o 
+pozisyonu çizeriz. Daha sonra pozisyonun ikinci yarısında kayıpsız durdurulduk.
+43
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+USDJPY, 5 milyon grafik
+Resim 4.10. %161,8 genişlemeyle sonuçlanan kısa ticaret
+Burada 5 dakikalık USDJPY'de bir düşüş trendi ve %61,8'lik geri çekilme çizgisine doğru bir düzeltme var. Bundan sonra 
+aşağı doğru bir hareketimiz var ve MACD ve CCI'dan sinyaller alıyoruz. Zararı durdurmak için en iyi yer %78 geri çekilme 
+çizgisinin üstüdür. Fiyat %138,2 uzatma çizgisi olan D noktasına doğru hareket ediyor. Burada çift dip var ve aşağı doğru 
+hareket ediyoruz.
+44
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+EURJPY, 1 saatlik grafik
+Resim 4.11. %161,8 genişlemeyle sonuçlanan kısa ticaret
+Bu tekniği diğer zaman dilimlerinde de kullanabilirsiniz. Bu örnekte 1 saatlik EURJPY grafiğimiz var. Fiyat 
+200 hareketli ortalamanın altında ve düşüş trendimiz var. Hepsi size tanıdık gelmeli. Aşağı yönlü 
+hareketin ardından CCI ve MACD'den sinyaller aldık. %161,8 uzatma çizgisinde bir duraklama oldu, 
+ancak sonunda fiyat %200 uzatma çizgisine geriledi. Zaman çerçevesi farklıdır, ancak tüm kurallar 
+aynıdır.
+45
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Petrol, 15m tablosu
+Resim 4.12. Düz piyasa örneği – burada Fibonacci ticareti yok
+Bazen hiçbir ticaret ya da kurulum olmaz. Bu durumda petrol dar bir aralıkta hareket ediyordu. ABC hareketlerini bulmaya 
+çalışabilirsiniz ama hangi yönde? Böyle bir durum gördüğümde (grafik üzerinde) destek ve direnç çizgileri çizerim ve yukarı 
+veya aşağı yönlü bir kırılmayı beklerim. Bunun gibi piyasalarda çok şey kaybedebilirsiniz, bu yüzden beklemenin akıllıca 
+olduğunu öğrenmek harikadır.
+46
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Petrol, 15m tablosu
+Resim 4.14. B ve C arasında kısa devre açıldı
+Petrolde kısa ticaretin başka bir örneği (15 dakikalık grafik). Açık bir düşüş eğilimimiz var ve 200 ortalamanın 
+altındayız. CCI'dan bir sinyal aldık ve yetersiz kaldık. Hareket %138,2 uzamayla sona erdi. Fiyatın %0 çizgisinin altına 
+kırılmasının ardından ne kadar hızlı düştüğüne bakın. Bu yüzden %0 ile %61,8 arasında pozisyon açmaya 
+çalışıyorum. Bu şekilde, şu ana kadar zararı durdurmayı ayarlayabilirim ve güçlü hamle gerçekleştiğinde oyunda 
+olabilirim.
+47
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+EURUSD, 1 saatlik grafik
+Resim 4.15. B ve C arasında kısa devre açıldı
+Fibonacci ile ticaret yapmak her zaman diliminde harika sonuç verir. Daha az işlem yapmak ve daha büyük hamleleri yakalamak 
+için daha yüksek zaman dilimlerinde kullanabilirsiniz. EURUSD'de güçlü bir düşüş eğilimi yaşadık. Bazı işlem günlerinde, 
+beklemeniz ve planı uygulamanız gerekir. Tıpkı yukarıdaki 1 saatlik grafikte olduğu gibi.
+Fiyat desteğin altına düştüğünde kolay kurulumun yeterli olduğunu size göstermek istedim. Bir şey ilginç. Aşağı 
+yönlü hareket güçlüydü ancak %200 uzatma çizgisinde durduruldu (%161,8'in destek olarak başarısız olması çok 
+yaygın olan bir durum).
+48
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+SPX, 5m tablosu
+Resim 4.16. Basit sondaki durdurma seviyesi olarak 5 EMA (kırmızı)
+Bazen kapatılacak en iyi yerin %127 mi yoksa %138,2 uzatma mı olduğunu bilemeyebilirsiniz. Ya da belki %161,8'e 
+kadar bekleyebiliriz? 5 adet üstel/doğrusal hareketli ortalama (grafikte kırmızı) ekleyip bu ortalamanın üzerinde bir 
+fiyat kapanışı olduğunda ilk yarıyı kapatmayı deneyebilirsiniz. %161,8'lik, hatta %200'lük genişlemeye doğru güçlü 
+bir hamle olduğunda, bu hamlenin çoğunu yakalama şansınız yüksektir. Bu tekniği kullanmak biraz pratik 
+gerektirir. Hedef olarak sadece %138,2 ve %161,8 uzantılarına bağlı kalıyorum, ancak hareket hızlı olduğunda 5 
+MA'ya gidiyorum.
+49
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+USDJPY, 1 saatlik grafik
+Resim 4.17. %200 uzatmaya doğru güçlü bir hamle
+Bazen bunu beklemediğinizde bu örnekte olduğu gibi %200 hedef olarak çalışır. %138,2'lik artışta bir duraklama 
+oldu, ancak bundan sonra fiyat %200'lük artışa geriledi. Bu tür hareketleri yakalamak için farklı teknikleri denemek 
+iyi bir fikirdir. Örneğin daha önce yazdığım gibi 5 hareketli ortalama eklemeyi deneyebilirsiniz. Ayrıca, mümkün 
+olduğu kadar uzun süre ticarette kalabilmeniz için sondaki zararı durdurmayı kullanmayı deneyebilirsiniz. Daha 
+sonra zararı durdurma hakkında bilgi edinebilirsiniz.
+50
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Daha yüksek zaman dilimlerinde Fibonacci ticareti
+Fibonacci, 1 dakikalık veya 5 dakikalık grafiklerde çok doğru sonuçlar verebilir, ancak daha uzun zaman dilimlerinde de harika 
+çalışır. Temel olarak, bunu daha düşük zaman dilimlerinde olduğu gibi hemen hemen aynı şekilde kullanabilirsiniz. Plan basit, 
+bunu zaten biliyor olabilirsiniz:
+• ABC hareketini tespit et
+• Geri çekilme hattında düzeltmeyi bekleyin
+• Düzeltme bittiğinde uzun pozisyon alın (sinyal olduğunda)
+• uzatma hattında yakın konum
+Artıları ve eksileri şunlardır:
+• satıştan önce pozisyonu kapatabilir ve masadan güzel kar elde edebilirsiniz
+• bazen trend düşündüğünüzden daha güçlüdür, uzatma çizgisinde pozisyonunuzu kapatırsınız ancak başka bir 
+güçlü hareket (dalga) vardır
+Hangi sistemi aradığınıza ve bu konuda ne kadar iyi ustalaşacağınıza bağlıdır. Bu stratejiyi her 
+zaman kullanıyorum (özel değil, diğer stratejilerle karıştırıyorum - tabloya bağlı olarak).
+Şöyle görünüyor: Her hafta iyi işlemler bulmak için grafikleri tarıyorum. Düzeltme olduğunda Fibonacci 
+düzeltmesini çizip grafikte bırakıyorum. Gelecek hafta sinyal olup olmadığını kontrol edeceğim. Bu kadar. Bir 
+sinyal geldiğinde, bir pozisyon açıp kar alma hedefini (genellikle %138,2 veya %161,8) ve zararı durdurmayı 
+(%78 geri çekilme çizgisinin altında) belirliyorum. Bu işlemi bırakıp sadece her hafta kontrol yapıyorum.
+Çoğu durumda fiyat %138,2 veya %161,8 uzatma hattında duracaktır. Durun, bu daha ileri gitmeyeceği 
+anlamına gelmez. Ancak bu sistem için sorun yok; çıkış noktalarını açıkça belirleyebilirsiniz. Sorun girişte. İyi 
+bir giriş sistemine sahip olmanız gerekir. En iyi sonuçları Fibo geri çekilme çizgileri ve direnç/destek 
+çizgilerinin kombinasyonuyla elde ediyorum.
+51
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+UTX hisse senetleri, aylık grafik
+Bu örnek artık sizin için açık olmalıdır. A - B'yi hareket ettirin, C'ye doğru düzeltme (%78 geri çekilme 
+çizgisi). Boğalar bir ralli başlatmak için yeterince güçlü olmadığından üçgen oluşuyor. Sonunda boğalar 
+üçgenden çıkmayı başardı ve ralli başladı. Uzatma hattı fiyatı %161,8'de durdu ve küçük bir düzeltme 
+yaşandı. Çok geçmeden boğalar geri geldi ve 120$'dan %200 uzatma hattına saldırdı - bu bizim D 
+noktamız. Bir kez daha, %161,8 fiyatı durdurmadığında, %200 genişlemede durması mümkün (eğer 
+değilse bir sonraki %238,2).
+Direnç ve destek hatlarının çizilmesinin iyi bir giriş noktası olduğunu açıkça görebilirsiniz. Zararı durdur 
+destek çizgisinin altına yerleştirilecektir.
+Resim 4.18. Üçgenden kırılmanın ardından güçlü hamle
+52
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Microsoft hisse senetleri, haftalık grafik
+Bu güzel bir kurulum. Yeşil çizgi bir trend çizgisidir. AB hamlesinden geri çekilme ve uzatma çizgileri çiziyoruz. 
+Fiyat %50'ye geri dönüyor, başarısız bir kırılmadan sonra direnç çizgisi çizebiliriz. Sonunda fiyat iki kırmızı 
+çizginin üzerine çıkmayı başardı ve yükseliş devam ediyor. Fiyat %161,8 artışta durdu ve bir miktar satış 
+yaşandı ancak boğalar geri döndü. Bu kurulumla ilgili en sevdiğim şey, güçlü bir trende (yeşil çizgi) sahip 
+olduğumuzda, sonraki dalgaları yakalama şansımızın yüksek olmasıdır.
+Resim 4.19. Trend çizgisinde sona eren düzeltme örneği
+53
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Adobe hisse senetleri, haftalık grafik
+Resim 4.20. Fibonacci ve MACD ile haftalık grafikte Adobe ticareti
+Giriş sinyalleri her zaman doğru olmayacaktır. Bu durumda MACD'den gelen ilk alım sinyali yanlıştı. Bir kaçış 
+girişimi oldu ama başarısız oldu. Daha sonra başka bir sinyal geldi ve bu %138,2 uzatma hattına doğru bir 
+hareketti. Gerçekte, ilk sinyalden sonra uzun pozisyon alır ve zararı durdurmayı %61,8'lik geri çekilme 
+çizgisinin altına koyardık. %100 doğru sinyal yoktur ve bazı işlemler yanlış olacaktır. Ancak bazen aşırıya 
+kaçmamak ve bir planı takip etmek iyidir.
+54
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+LVS hisseleri, aylık grafik
+Resim 4.21. ABC hamlesini fark etmek her zaman kolay değildir
+Aylık grafiklerde Fibo işlemlerini arayabileceğiniz güzel bir örnek. Grafiğe ilk baktığınızda AB hareketini fark 
+etmek zordur çünkü trend aşağı yönlüdür. Daha sonra ortalamalar kesişti ve pozitif bir sıralama gördük (21, 
+33'ün üzerinde, 33, 55'in üzerinde). MACD'den de sinyal aldık. Şu anda ABC mantıklıydı ve uzun süre devam 
+etmeyi deneyebilirdik. Bu, %161,8 uzatma çizgisine kadar güzel bir hamleydi.
+55
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Microsoft hisse senetleri, aylık grafik
+Resim 4.22. Küçük AB bacağından güçlü hareket
+Bazen küçük dalgalardan güçlü hamleler alıyoruz. Bu aylık Microsoft grafiğinde durumun 
+netleşmesini bekledik. Sonunda ortalamalar geçti ve pozitif çıktı, MACD'den de sinyal aldık. 
+Fiyatın %161,8 artışta kısa bir süreliğine durduğunu ve daha sonra yükselmeye devam ettiğini 
+görebilirsiniz.
+56
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Pepsi hisseleri, aylık grafik
+Resim 4.23. Küçük AB bacağından güçlü hareket
+Çok uzun vadede yatırım yapmak mümkündür. Bu Pepsi grafiğinde AB hareketi 2003'te başladı ve 2008'de sona 
+erdi. Daha sonra 50$'ın altındaki %78'lik geri çekilme çizgisine doğru bir düzeltme hareketi gördük (grafikteki geri 
+çekilme ters çevrildi). Boğalar buraya geri döndü ve MACD'den 65$ civarında bir sinyal gördük. Pepsi halen %138,2 
+ve %161,8 gibi uzatmalarda olası çıkış noktalarıyla yükselişe geçiyor.
+Bunun gibi şeyleri tespit etmek için gözünüzü eğitmek önemlidir.
+57
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+LLTC hisseleri haftalık grafik
+Resim 4.24. %200 uzatmaya kadar git
+Pozitif ortalamalarla eğilimin yukarı olduğu açıktır. Bazı ABC hareketlerini kolaylıkla tespit edebiliriz. 
+MACD'den gelen uzun hareket sinyalinin ardından LLTC %161,8'e yükseldi. Bu bir son değildi ve yüzde 200 
+uzatma hattına doğru bir hareket daha yaşandı.
+Hareketin nerede biteceğini asla önceden bilemezsiniz. Yapabilirsiniz:
+• çıkmayı denemek için daha düşük bir zaman dilimi kullanın
+• sondaki durdurma kaybını kullan
+• başka bir çıkış sinyali tanımlayın (sonraki örneklerde olduğu gibi)
+58
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+MDT hisseleri, haftalık grafik
+Resim 4.25. Güçlü bir hamle sırasında ortalama asstop seviyesi
+Bu kadar güçlü bir yükseliş beklemiyordu. %61,8'lik geri çekilmeye doğru düzeltmeyle bir ABC hareketi 
+gördük. Daha sonra MACD'den bir sinyal geldi. Tamam, önceki senaryolarda %161,8 uzatmada veya en 
+sonunda bir sonraki uzatmada kapatmak istiyoruz. Ancak bu hamle o kadar güçlü ki, bu durumda masada çok 
+fazla para bırakmış oluyoruz. Aşağıdaki gibi ticaret planınızı oluşturabilirsiniz:
+• giriş noktası - ABC hareketi tamamlandıktan sonra, MACD'den gelen sinyalden sonra
+• önceki düşük seviyenin altında zararı durdur
+• fiyat 33 üstel hareketli ortalamanın altına kapandığında çıkış
+Bazen harika çalışacak, bazen de çalışmayacak. Bunu pratikte test etmek size kalmıştır ve büyük ölçüde 
+fiyat davranışına bağlıdır.
+59
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+PCLN hisseleri, haftalık grafik
+Resim 4.26. Ortalama fiyattan uzaktır. Bu durumda dahili numaradan çıkmak daha iyidir
+Hareketli ortalamanın fiyattan uzak olduğunu gördüğünüzde uzatma çizgisinden çıkmak daha iyi olabilir. Bu 
+durumda 21 ortalama neredeyse 100$ uzaktaydı. Uzatmada çıkmak veya daha kısa ortalama eklemek daha 
+iyiydi.
+60
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+YUM hisseleri, haftalık grafik
+Resim 4.27. Çıkış noktası olarak ATR'nin son durdurma kaybı
+Volatilite durdurma kaybını da kullanabilirsiniz (bazen ATR takip eden durdurma kaybı olarak da adlandırılır). Yani ticaret planınız şöyle 
+olacaktır:
+• giriş noktası - ABC hareketi tamamlandıktan sonra, MACD'den gelen sinyalden sonra
+• önceki düşük seviyenin altında zararı durdur
+• Fiyat volatilite zararı durdurma çizgisinin altında kapandığında çıkış yapın
+Bazı yatırımcılar iyi sonuçlar veren volatilite durdurma yöntemini kullanıyor. Bunu grafikle kalibre etmek önemlidir. Oldukça 
+hareketli ortalamalar ve trend çizgileri kullanıyorum, ancak volatiliteyi durdurmayı deneyebilirsiniz.
+61
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Apple hisse senetleri, haftalık grafik
+Resim 4.27. ATR'nin güçlü bir hamle sırasında çıkış seviyesini kontrol etmemize nasıl izin verdiğini örnek
+Bu Apple grafiğinde MACD'den gelen satın alma sinyalinin ardından yükseliş güçlü. Volatilitenin durmasıyla hala ticarette olurduk. 
+Taşınmanın nerede biteceğini asla bilemeyiz, bu nedenle mümkün olduğu kadar uzun süre kalmaya çalışmak için bu iyi bir 
+alternatiftir.
+62
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+Coca-Cola hisseleri, haftalık grafik, bölüm 1
+Resim 4.28. Haftalık zaman diliminde aralık hareketi
+Uzun vadeli yatırımla ilgili bir şey daha. Daha uzun zaman dilimlerinde bile ABC hareketlerini bulmak ve mevcut 
+durumu anlamak zor olabilir. Bu haftalık Coca-Cola tablosu gibi. Yükseliş trendi gibi görünüyor, ancak daha sonra 
+menzile giriyor. Uzun süre gitmek iyi bir fikir mi? Emin değilseniz diğer zaman dilimlerini kontrol edin.
+Bir sonraki tabloyu kontrol edin:
+63
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Coca-Cola hisseleri, aylık grafik, bölüm 2
+Resim 4.29. Aylık grafikte aynı hisse senedini 4,28'den kontrol ettiğimizde ABC'nin hareket ettiğini görüyoruz.
+Aynı hisse senedini kontrol ettiğimizde, ancak aylık grafikte daha iyi bir tabloya sahibiz. Bu, MACD'den uzun 
+hareket sinyali ve güzel uzun bir kırılma ile birlikte uzun bir ABC formasyonudur.
+Diyelim ki haftalık grafiklerde işlem yapmaya karar verdiğinizde bile diğer zaman dilimlerini kontrol edin.
+64
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+5. Pivotlar ve Fibonacci
+Çoğu zaman (aslında çoğu zaman) Fibonacci'yi pivot noktalarıyla birlikte kullanırım. Bu bana %161,8'e geçme 
+potansiyeli olup olmadığına karar vermemde yardımcı oluyor. Bazı örneklere bakalım ve sizin için daha açık 
+olacaktır.
+EURUSD, 5 milyon grafik
+Resim 5.1. Fibonacci uzantısının pivot çizgisiyle aynı seviyede olduğu duruma örnek
+AB hamlesinin ardından %78'lik geri çekilme çizgisinde bir düzeltme yaşandı. Fiyat buradan itibaren yükseldi ve 
+CCI'dan giriş sinyali aldık. Tamam, uzun süre kaldık, zararı durdurmayı %78'lik geri çekilmenin altına belirledik, peki 
+ya kar alma hedefimiz? Görünüşe göre %127 uzatma çizgisi neredeyse tam olarak pivot çizgisinin olduğu yerde. 
+Fiyat Pivot çizgisinin altında olduğundan direnç görevi görebilir. Eur/usd'nin %168,2'ye kadar yükselme ihtimalinin 
+düşük olduğuna karar verdim. Mavi dikdörtgeni görebileceğiniz gibi fiyat pivotta ve %127'de durdu ancak sonunda 
+%138,2 uzatma çizgisine geçti. Bu hamle pivot çizgisinin üzerine çıkamayacak kadar zayıftı.
+65
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+EURUSD, 5 milyon grafik
+Resim 5.2. R1 çizgisinin hemen üzerinde %127 uzama.
+Başka bir eur/usd 5 dakikalık örnek. Siyah çizgi pivot, kırmızı çizgi ise R1 direncidir. Güzel bir AB hareketi ve 
+pivot düzeltmesi ve %61,8 geri çekilme çizgisi yaşadık. Daha sonra CCI'dan sinyal aldık ve uzun yola çıktık. 
+Peki ya hedefimiz? %127 uzatma çizgisi R1 direncinin hemen arkasındadır. Güçlü bir direnç alanı olabilir, 
+dolayısıyla böyle bir yerde ticareti kapatmak iyi bir fikirdir.
+66
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+EURUSD, 5 milyon grafik
+Resim 5.3. R2 ile aynı seviyede %127 uzama
+Bu grafikte AB hareketi R1 çizgisi civarında sona erdi ve fiyat yana doğru hareket etti. Sonunda boğalar dirence 
+saldırdı ve fiyat son zamanların en yüksek seviyesinin üzerine çıktı. %161,8 uzatma hattına ulaşma şansımız var mı? 
+Yol üzerinde R2 hattı ile hemen hemen aynı yerde %127 uzatma hattımız bulunmaktadır. Bu da bu bölgeyi güçlü bir 
+direnç haline getiriyor. Fiyat %138,2'lik artışa ulaşmayı başardı ancak daha yükseğe çıkamadı.
+67
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+EURUSD, 5 milyon grafik
+Resim 5.4. R1 yakınında %161,8 uzatma – kapanış için iyi bir yer
+15 dakikalık grafikten yükseliş trendinin devam ettiğini biliyorduk. %78 geri çekilme çizgisine doğru derin bir 
+düzeltme ile bir ABC hareketi gördük. Bundan sonra bir aralık hamlesi yaptık ve euro/usd pivot çizgisinin 
+(siyah çizgi) üzerinde kalmayı başardı. Sonunda MACD ve CCI'dan sinyaller aldık. Pozisyon için en iyi hedef 
+neydi? Zaten pivot çizgisinin üzerindeydik ve %161,8 uzatma R1 çizgisine çok yakındı. Bu, en iyi kar alma 
+hedefiydi ve gördüğünüz gibi harika çalıştı. Zararı durdur C'nin altına yerleştirilecektir.
+68
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+EURUSD, 5 milyon grafik
+Resim 5.5. 138.2 ve S1 seviyelerinin ne kadar yakın olduğuna bir bakın
+Düşüş trendini doğruladık. Bu ABC hamlesini 15 dakikada fark etmek daha kolaydı. grafik (bazen en iyi AB 
+noktalarının nerede olduğundan emin olmadığımda, daha yüksek zaman çerçevesine giderim - daha az gürültü ve 
+mevcut durumun daha iyi resmi). Düzeltme, pivot çizgisi etrafında %50 geri çekilmeyle sona erdi. Bazı trend 
+çizgilerini kullanabilirdik ancak sinyal daha sonra oluştu. Zararı durdur 200 ortalamanın üzerine çıkacak. Kâr alma 
+hedefi nerede belirlenmeli? %138,2'lik genişlemenin S1 çizgisine çok yakın olduğunu görebiliyoruz, yani bu en iyi TP 
+hedefiydi. %127'lik genişlemeden bir miktar duraklama ve sıçrama yaşandı ancak sonunda EURUSD %138,2 ve S1 
+çizgisine geriledi.
+69
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+EURUSD, 5 milyon grafik
+Resim 5.6. Hedef yer olarak 127 ve R2
+Bu önemli bir örnek çünkü A noktası R1 çizgisinin altında, B noktası da bu doğrunun üstünde. Şimdiki 
+duruma bakalım. Eur/usd pivot çizgisinin (siyah) ve 200 hareketli ortalamanın üzerinde. Uzun süre 
+gitmek için fırsat arıyoruz. %61,8 geri çekilme çizgisine doğru düzeltmeyle birlikte bir ABC hareketi 
+yaşandı. Sonrasında MACD ve CCI’dan sinyaller aldık ama burası çok fazla gidilecek yer değildi. Pirce 
+hala R1 çizgisinin altındaydı ve bu bir direnç olabilir. Burada en iyi seçenek kapanışı R1 çizgisinin 
+üzerinde beklemekti. Bu olduğunda (mavi dikdörtgen) uzun gittik. %127 uzatma R2 hattına çok yakın 
+olduğundan bizim için en güvenli çıkış noktası burasıydı. %138,2'lik genişleme, bildiğiniz gibi güçlü 
+direnç olan R2'den çok uzaktı.
+70
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+EURUSD, 5 milyon grafik
+Resim 5.7. R1 ve 161.8 aynı yerde – güçlü direnç ve iyi çıkış noktası
+CCI ve MACD'den gelen sinyallerin ardından uzun süre gittiğimizde yükseliş trendi devam ediyor. EURUSD pivotun 
+üzerindeydi. %161,8 R1 çizgisindeydi, dolayısıyla bu harika bir kar alma hedefiydi. Bir pozisyonu %138,2 uzatmada 
+kapatmayı deneyebilirsiniz, ancak bu kadar güzel göründüğünde biraz risk alıp %161,8 hedefine gitmek iyi olur.
+71
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+EURUSD, 5 milyon grafik
+Resim 5.8. B noktası R1 ile aynı seviyede – girmek için R1’in üzerindeki kapanışı beklemek iyidir
+Bu da önemli. Burada bir ABC hareketi gördüğümüz yükseliş trendi reklamı var. Harika ama %0 çizgisi (B noktası) 
+tam R1 çizgisinin üzerinde. MACD ve CCI'dan alım yönünde sinyaller aldık ancak bu R1 çizgisinin altındaydı ve bu bir 
+direnç olabilir. Bu gibi durumlarda en iyi seçenek R1 çizgisinin üzerine kadar beklemek ve oraya girmek olacaktır. 
+Geç girişten dolayı bir miktar kârımızı kestik ama bizim için daha güvenliydi. Hareket %161,8 uzamayla sona erdi.
+72
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+EURUSD, 5 milyon grafik
+Resim 5.9. %161,8'in R1 çizgisine yakın olduğu başka bir durum
+Buradaki eğilim o kadar net değil ancak daha yüksek zaman dilimlerinden bunun oldukça yükseliş olduğunu biliyorduk. 
+ABC hamlesinden sonra uzun ve sıkıcı bir menzil hamlesi yaşandı. Uzun pozisyon alma sinyali aldık ve bir süre sonra fiyat 
+daha da yükseldi. %161,8 uzatma R1 çizgisinin hemen üzerindeydi, dolayısıyla bu alan kar almak ve pozisyonu kapatmak 
+için iyi bir yerdi.
+73
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+Petrol, 15m tablosu
+Resim 5.10. Bu tür davranışları sadece Forex'te değil diğer enstrümanlarda da görebiliyoruz.
+Petrol pivot çizgisinin üzerinde. Aynı zamanda 200 üstel hareketli ortalamanın (daha sonra C noktasında 
+destek görevi görecek) üzerindedir. Pozitif ortalamalarımız var (33'ün üzerinde 21, 55'in üzerinde 33) yani 
+bunların hepsi boğalar için iyi. Uzun hareket sinyalinin ardından R2 çizgisi yakınında %161,8 uzamada sona 
+erdi. Bu durumda ilginç olan AB hareketidir. İlk önce %38,2'lik geri çekilmede düzeltme yaptığımızı ve daha 
+sonra %127'lik uzatmaya doğru bir hareket olduğunu görebilirsiniz (eğer burada uzun süre kalırsanız, 
+muhtemelen son düşük seviye olan 103,90 civarında durdurulursunuz). Daha sonra fiyat %78'lik geri 
+çekilmeye ve 200 ortalamasına düştü. Dikkat ederseniz AB noktalarını değiştirmedik. Çünkü bu hamle henüz 
+bitmedi. Daha sonra %161,8'e kadar bir artış gördük.
+74
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+Petrol, 15m tablosu
+Resim 5.11. 138.2 ve 161.8 aboneleri arasındaki S1 hattı
+Bu ABCD hareketinden önce bir miktar yukarı hareket yaşadık. Daha sonra pivot hattı destek olarak başarısız 
+oldu. Sonraki - %61,8 geri çekilmeye düzeltme ve CCI ve MACD'den gelen sinyallerle aşağı doğru hareket. 
+Durdurma kaybı %78'lik geri çekilmenin üzerine yerleştirilecektir. Uzatma hatlarına bakın. %127 uzatma işe 
+yaradı ama geçiciydi ve %138,2 ile %161,8'in S1 çizgisine yakın olduğunu gördük. Peki hangisi en iyisiydi? 
+Söylemesi zor. Ben %138,2 ile gittim ama fiyatın %161,8'e düştüğünü görebilirsiniz. Yine de %127 uzamayla 
+kapanmaması iyi bir çağrıydı. Bazen durum gördüğünüz kadar net olmayabilir ve seçim yapmak zorunda 
+kalabilirsiniz.
+75
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 76 ===
+EURJPY, 5 milyon grafik
+Resim 5.12. 78 geri çekilmesinin nasıl direnç görevi gördüğüne bir göz atın
+EURJPY 200 hareketli ortalamanın altında ve pivot çizgisinin altındaydı. S1'e geçme potansiyeli var gibi görünüyordu. Bir 
+ABC hareketi gördük ve MACD ve CCI'dan gelen sinyallerin ardından girdik. Ancak S1'in nerede olduğunu kontrol edin. 
+%238,2'lik bir genişlemeye yakın… biraz uzak. Denemeye değerdi ama güvenliğin kar elde etmesi için pozisyonun yarısını 
+%161,8 uzatmada kapattım. Elbette geri kalanında zarar durdurma daha düşük bir seviyeye kaydırıldı ve kar alma oranı 
+%238,2 uzatmaya ayarlandı. Bu oldukça nadir görülen bir durumdur, ancak gördüğünüz gibi bu koşullarda bile Fibo'yu 
+yerinde tuttuğunuzda her şey harika çalışıyor.
+%78 geri çekilmedeki mavi dikdörtgeni kontrol edin. Fibo çizgilerini grafikte tuttuk ve direnç görevi gördüler. 
+Ne kadar serin? Bu hamlenin hemen ardından kırmızıyla işaretlenmiş bir fırsat daha yakaladık:
+76
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 77 ===
+Resim 5.13. 5.12'den itibaren hareketin devamı.
+Başka bir ABC hamlesini görmemiz gerekiyordu. A noktasının eski tepede (%78 geri çekilme) değil, biraz daha 
+aşağıda olduğuna dikkat edin. Çünkü burası aşağı yönlü hareketin başladığı yer. geri kalanı tanıdık gelmeli. 
+%38,2'ye (C) geri çekilme ve CCI'dan sinyal ve 0 çizgisinin altına kırılma. Bu ticarette %138,2'lik bir uzatma ile 
+çıkışa giderdim ancak bunun %161,8'lik bir uzatma ile bittiğini görebilirsiniz.
+77
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 78 ===
+GBPUSD, 5 milyon grafik
+Resim 5.14. GBPUSD örneği
+Bu, yakalanması zor hareket etmenin zor bir örneğidir. R1'e güçlü bir hamle yaptık ve ardından fiyat tersine döndü. 
+Bir miktar düzeltme hamlesi yaptık ancak geri çekilme çizgisine dokunmadı. Bazen olur. Daha sonra %138,2'lik 
+uzatmanın gayet iyi çalıştığını gördük. Bu durumda, kısa pozisyon sinyali alındıktan sonra stop stop pivot çizgisinin 
+ve %38,2 geri çekilme çizgisinin üzerine yerleştirilecektir.
+78
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 79 ===
+6. DEMA ve Fibonacci
+Her yatırımcı aşağıdaki gibi temel hareketli ortalamalara aşinadır:
+• Basit Hareketli Ortalama (SMA)
+• Üstel Hareketli Ortalama (EMA)
+• Doğrusal Ağırlıklı Hareketli Ortalama (LWMA)
+• Düzleştirilmiş Hareketli Ortalama (SMMA)
+SMA ve EMA en popüler olanlardır. Borsada iyi çalışırlar, ancak daha hızlı piyasalarda (veya daha kısa zaman 
+dilimlerinde) gecikme eğilimi gösterirler. Yatırımcıların ortalamaları iyileştirmeye devam etmesinin nedeni budur ve 
+bu nedenle diğer ortalama türlerini kullanabiliriz. DEMA'da bunlardan biri.
+Çift üstel hareketli ortalama (DEMA), gecikme süresini azaltmak için Patrick Mulloy tarafından geliştirildi. İlk kez 
+1994 yılında, Stocks & Emtia Teknik Analizi dergisinde Mulloy'un "Verilerin Daha Hızlı Hareket Eden 
+Ortalamalarla Düzleştirilmesi" başlıklı makalesinde tanımlandı.
+DEMA ayrıca hareketli ortalamalara (MACD, Bollinger Bantları, diğerleri) dayalı göstergelerde de 
+kullanılabilir.
+DEMA ve diğer ortalamalar arasındaki farklar
+Popüler 21 ve 55 üstel ortalama çiftini alalım:
+Resim 6.1. 21 ve 55 EMA
+79
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 80 ===
+Ve 21 ve 55'lik çift üstel hareketli ortalamalar:
+Resim 6.2. 21 ve 55 DEMA
+DEMA ortalamalarının fiyatı daha yakından takip ettiğini görebilirsiniz.
+DEMA'nın harika yanı daha iyi sinyaller vermesidir. Çoğunlukla 13 ve 55 DEMA ortalamaları ve 100 SMA kullanıyorum. 
+13 ve 55'in kesişmesi bir işleme girme sinyalidir. Bana göre bu kombinasyon en iyi 30 dakika ve 1 saatlik zaman 
+dilimlerinde işe yarar.
+80
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 81 ===
+GBPJPY, 1 saatlik grafik
+Resim 6.3. DEMA'lar kesiştikten sonra kısa pozisyon açıldı
+Daha yüksek zaman dilimlerinde trendin düştüğüne dair bir teyit vardı. Bir ABC deseni tespit ettik. 
+100 SMA'nın direnç olarak nasıl çalıştığına bir bakın. Aşağı yönlü hareket devam ederse, 100 SMA 
+civarında bir geri çekilme düzeltmesi görebileceğimizi beklemek kolaydı.
+Daha sonra 33 DEMA ve 55 DEMA'nın kesişmesi oluştu; bu da açığa çıkma sinyaliydi. Aşağı hareket 200 uzatma 
+çizgisine kadar sürdü.
+81
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 82 ===
+GBPJPY, 1 saatlik grafik
+Elbette her zaman bu kadar net ve kolay olmuyor. Sinyale göre pozisyon açacağınız durumlar olacak ancak aşağı 
+doğru hareket olmayacak, sadece yanlara doğru hareket olacak. Aşağıdaki örnekte olduğu gibi:
+Resim 6.4. Yanlış kesintilere örnek
+Tüm eylemin 100 SMA'nın altında gerçekleştiğini görebilirsiniz. Tamam, trend düşüşteydi ancak 13 ve 55 DEMA'dan gelen 
+sinyallerin açığa çıkmasından sonra birçok yanlış kırılma gördük. Bunları tahmin edemezsiniz. En önemli şey bir planınızın olması 
+ve aşırı ticaret yapmamanızdır. Burada yapabileceğiniz en kötü şey, kısa süreliğine açmak, kapatmak, başka bir sinyalle açmak, 
+kayıpla kapatmak, tekrar açmak... Bir pozisyonu bir kez açarsınız, zararı durdurmayı ayarlarsınız ve bunun nasıl sonuçlanacağını 
+beklersiniz. Bu durumda zararı durdurmam C noktasının üzerinde olacaktır. Daha sonra, eğer bir fiyat 100 SMA'nın üzerinde daha 
+uzun süre kapanırsa muhtemelen oradaki ticareti kapatırdım.
+Yani özetlemek gerekirse. Bazen yana doğru hareket nedeniyle yanlış sinyaller alırsınız.
+Aşırı ticaret yapmamak önemlidir. Ticaret yapın, zararı durdurmayı ayarlayın, bekleyin ve gözlemleyin. Aşırı tepki verme.
+82
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 83 ===
+EURUSD, 1 saatlik grafik
+Resim 6.5. Ticaret sisteminin bir parçası olarak 100 SMA
+Bu örnekte düzeltme sırasında pirinç 100 SMA'nın üzerine çıktı. 13 ve 55 DEMAa'dan açığa doğru bir sinyal 
+vardı, ancak 100 SMA'nın altına geri dönene kadar beklemeniz gerekiyor.
+Ayrıca, bu durumda, daha yüksek zaman dilimlerinden trendin düştüğüne dair bir onay aldığımızı da unutmayın.
+83
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 84 ===
+EURUSD, 1 saatlik grafik
+Resim 6.6. Geç sinyal örneği
+Bazen (ancak nadiren) sinyalin geciktiğini görebilirsiniz. Yukarıdaki örnekte olduğu gibi. ABC 
+formasyonunuzdan eminseniz, 0 çizgisinin üstünde/altında kırılmaya dayalı bir pozisyon açabilirsiniz (yani 
+ABC'den çıkış yapabilirsiniz).
+Sinyalin çok geç olduğunu düşünüyorsanız DEMA'ların daha kısa sürelerini kullanabilirsiniz. Örneğin 10 ve 21'e 
+geçebilirsiniz.
+84
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 85 ===
+EURUSD, 1 saatlik grafik
+Burada AB hamlesinin ardından C'ye doğru bir düzeltme gördük. 100 SMA'nın üzerinde sona erdi ve %38,2'lik geri 
+çekilme destek olarak çalıştı. Daha sonra 13 ve 55 DEMA'nın kesişimini gördük; bu, uzun pozisyon alma sinyalidir. İlk 
+sinyal yanlıştı ancak stopun %50'nin altında olduğu bir pozisyonda kaldık.
+Birkaç saat sonra başka bir sinyal daha geldi ve ardından fiyat yükseldi.
+Daha önce de bahsetmiştim; aşırı ticaret yapmamak önemlidir. Konumu açarsınız, durdurmayı ayarlarsınız ve gözlemlersiniz.
+Resim 6.7. EURUSD ticaret örneği
+85
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 86 ===
+EURUSD, 1 saatlik grafik
+Sinyalleri körü körüne takip edemezsiniz. Bu durumda 100 SMA'nın altında 13 ve 55 DEMA'nın kesişimini gördük. Bu, 
+uzun süre devam edeceğine dair bir sinyaldi (13 ve 55'ten) ancak MACD o dönemde hâlâ negatifti ve fiyat 100 
+SMA'nın altındaydı. Sinyalden emin değilseniz bekleyip başka bir onay aramanızda sorun yoktur. Bu durumda MACD 
+pozitife döndü ve fiyat 100 SMA'nın üzerine çıktı.
+Resim 6.8. 100 SMA'dan onay beklemenin en iyisi olduğu başka bir örnek
+86
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 87 ===
+SPX, 15m tablosu
+Sinyal onayı aramanın en iyisi olduğu bir örnek daha. DEMA hatlarından gelen ilk satış 
+sinyali yanlıştı; MACD'den herhangi bir onay gelmedi.
+Birkaç saat sonra DEMA çaprazından bir sinyal daha geldi ve MACD'den bir onay 
+geldi. İyi bir giriş noktasıydı.
+Resim 6.9. MACD'den onay
+87
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 88 ===
+Dema göstergesini kullanma
+Doğru yöne gitmek bölümünden, neler olup bittiğini net bir şekilde anlamak için her zaman diğer zaman 
+dilimlerini kontrol etmeniz gerektiğini hatırlıyorsunuz. Sadece bazen birkaç forex çiftinden fazlasını veya diğer 
+enstrümanları taradığınızda zaman dilimleri arasında geçiş yapmak zor olabilir. Bu yüzden basit bir DEMA 
+göstergesi yazdım. Diğer zaman dilimlerindeki durumu gösterir. İki sütun görebilirsiniz: DEMA ve Trend:
+Resim 6.10. DEMA göstergesi
+DEMA sütunu13'ün 55'ten yüksek olup olmadığını gösterir. Daha yüksekse Yukarı işaretini görebilirsiniz. Eğer 13 55 
+DEMA'nın altındaysa işaret aşağı diyor.
+Trend sütunu13 DEMA ve 100 SMA için sonuçları gösterir. 13 DEMA 100 SMA'nın üzerindeyse trend yukarı 
+yönlüdür. Aşağıda ise trend aşağı yönlüdür. Neden 13 DEMA ve 100 SMA? Daha önce de yazdığım gibi destek/
+direnç ve trend göstergesi olarak 100 SMA'ya yüksek ağırlık veriyorum. 13 DEMA fiyata yakın duruyor, yani 13 
+DEMA 100 SMA'nın üzerindeyse bu bir yükseliş trendidir. Tabii ki, kendi yükseliş trendi tanımınız olabilir. 
+Uygulaması basit bir şey arıyordum ve bu seçimden memnunum.
+Artık trendin yukarı mı yoksa aşağı mı olduğunu görmek için göstergeye hızlıca bakmanın yeterli olduğunu görebilirsiniz. 
+Tarama konusunda çok faydalıdır. Bunun diğer zaman dilimlerini kontrol etmenize gerek olmadığı anlamına gelmediğini 
+unutmayın. Bu göstergenin amacı en iyi adayları seçmenize yardımcı olmaktır. Listenizi daralttığınızda diğer zaman 
+dilimlerini manuel olarak kontrol etmeniz gerekir.
+Bazı örneklere bakalım.
+88
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 89 ===
+GBPJPY, 30 milyon
+Resim 6.11. DEMA göstergesi pratikte
+%38,2'lik bir düzeltmenin ardından fiyat yükseldi ve 13 DEMA, 55 DEMA'yı geçti. 30 metrelik grafikteyiz, buradaki 
+durum yükselişe benziyor. Peki ya diğer zaman dilimleri? Göstergede 5m'den 4h'ye kadar bir yükseliş trendi 
+olduğunu görebilirsiniz. Bu yüzden uzun süre gitmekte sorun yok.
+EURUSD, 15 milyon:
+Bu örnekte günlük ve haftalık trendin yükselişte olduğunu görüyoruz ancak 15m grafikte bir işlem arıyoruz. Diğer zaman 
+dilimlerini kontrol ettiğimizde mevcut trendin aşağı yönlü olduğu açıkça görülüyor.
+Bu bilgiyle kısa bir fırsat arayabiliriz. Ve işte burada. ABC hamlesinin ardından EUR/USD 100 SMA'nın altında 
+kalıyor. İlk satış sinyali yanlıştı ancak ikincisi daha büyük bir satış dalgasına neden oldu.
+Grafikte işaretlendiği gibi, zararı durdurmak için en iyi yer kırmızı direnç çizgisinin üzerinde veya en sonunda %78,6'lık geri çekilmenin 
+üzerinde olabilir.
+Her zaman mükemmel ticaret durumunu bulmak mümkün değildir (dolayısıyla tüm panonun tek renkte olması). Yine de, 
+eğer en yakın zaman dilimlerinde aynı eğilimi görebilirsek, o zaman harekete geçebiliriz.
+89
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 90 ===
+Resim 6.12. DEMA göstergesi bize diğer zaman dilimlerindeki durumu gösteriyor
+90
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 91 ===
+7. Ichimoku Kinko Hyo
+Ichimoku Kinko Hyo bir Japon yatırım tekniğidir. Tüm ticaret sinyallerini, direnç ve destek 
+seviyelerini sağlar. Hareketli ortalamalarla işlem yapmak gibi normal batı tekniklerinden çok 
+farklıdır ancak bir süre sonra bunu kolayca anlamalısınız. Yaklaşık 50 yıl önce Japon gazeteci 
+Goichi Hosoda tarafından yaratıldı. İkinci Dünya Savaşı'ndan önce Ichimoku üzerinde 
+çalışmaya başladı. Batı'da bu teknik 90'lı yıllardan beri biliniyor, tıpkı mumların onlarca yıldır 
+bilinmemesi gibi.
+Öncelikle Ichimoku'nun nasıl oluşturulduğunu görelim. Daha sonra hisse senedi ve Forex ticaretinde nasıl kullanılabileceğini 
+kontrol edeceğiz.
+Ichimoku bileşenleri
+Ichimoku Kinko Hyo 5 ortalamadan oluşturulmuştur (dikkat edin – bunlar bildiğiniz standart hareketli 
+ortalamalardan farklı ortalamalardır):
+• Senkou Span A ve Senkou Span B – aralarındaki alana Kumo denir veya sadece
+• Ichimoku bulutu. Burası bir direnç ve destek alanıdır.
+• Kijun-Sen – daha uzun sinyal ortalaması
+• Tenkan-Sen – daha kısa sinyal ortalaması
+• Chikou Span – bu ortalama 26 dönem geriye kaydırıldı
+Yani bunları bir araya getirdiğimizde hazır bir yatırım sistemimiz var:
+91
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 92 ===
+Her bileşen hakkında daha fazla bilgi edinmenin zamanı geldi.
+Kumo (Ichimoku bulutu)
+Genellikle doğrudan hareketli ortalamada 
+veya destek çizgisinde destek veya direnç 
+ararız. Ichimoku bulutu farklıdır; olası 
+direnç veya destek alanıdır. Bulut ne 
+kadar kalınsa, bu yerde o kadar güçlü 
+direnç veya destek olmalıdır. Bulut ince 
+ise olası destek/direnç zayıf olmalıdır.
+Fiyat buluttan çıkmayı veya kırılmayı 
+başardığında, bu durum pozisyon almak 
+için güçlü bir sinyaldir çünkü bu nadiren 
+olur.
+Kijun-Sen
+26 döneme dayanan daha uzun bir ortalamadır. 
+Kijun Sen ile 26 hareketli ortalamayı 
+karşılaştıralım. Gördüğünüz gibi farklı 
+davranıyor. Tecrübelerime dayanarak Kijun 
+Sen'in iyi bir direnç/destek seviyesi olduğunu 
+söyleyebilirim. Solda Kijun-Sen'i normal 
+hareketli ortalamayla karşılaştırabilirsiniz.
+92
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 93 ===
+Tenkan-Sen
+Daha kısa ortalamadır. Kijun Sen'e dayalı olarak 
+alım ve satım sinyalleri verir (bu konuya daha sonra 
+değineceğiz). Trend güçlü olduğunda destek/direnç 
+görevi de görebilir.
+Chikou-Span
+Chikou Span'ın arkasındaki ana fikir, mevcut 
+fiyatı 26 dönem önceki fiyatla karşılaştırmaya 
+yardımcı olmasıdır. Chikou Span'ın sonu 
+mevcut fiyat kapanışıdır. Buna dayanarak 
+mevcut hissiyatın yükseliş (Chikou Span 
+fiyatın üzerinde) veya düşüş (Chikou Span 
+fiyatın altında) olup olmadığını biliyoruz.
+Ichimoku ticaret sinyalleri
+Ichimoku'dan Tenkan-Sen ve Kijun-Sen çaprazına dayanan birkaç tür ticaret sinyalimiz var. Fiyat 
+buluttan koptuğunda işlem açılmasına yönelik sinyaller de vardır. Tüm bunları örneklerde 
+göreceksiniz ve açık olmalıdır.
+93
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 94 ===
+Ichimoku ticaret örnekleri
+İlk olarak, Ichimoku'da daha rahat olabilmek için okunması ve ticareti daha kolay olan daha yüksek zaman dilimlerinden 
+başlayalım.
+Ichimoku'ya daha uzun zaman dilimlerinde yatırım yapmayı seviyorum. Giriş noktasını aradığınızda harika, çıkış 
+noktasında o kadar da iyi değil ama bununla da ilgileneceğiz.
+Grafiğe baktığım şey çoğunlukla buluttan kopuş. Bana göre bu, Ichimoku'dan alacağınız en iyi sinyal. Fiyatın 
+bulut etrafında nasıl tepki verdiğini görmek için birkaç yıl önceki geçmişi kontrol ediyorum. Bulut 
+patlamasından sonra pek çok iyi sinyal var mıydı? Bazen mevcut hisse senedi için fiyat hareketi o kadar 
+spesifiktir ki bu pek işe yaramaz. Daha sonra başka bir hisseye geçiyorum. Tarih, fiyatın bulutta iyi çalıştığını 
+doğruladığında karar veririm. Durağı genellikle bulutun altına yerleştiriyorum.
+Bazen fiyat zaten bulutun üzerindedir ve trend güçlenmektedir. Sonra Kijun Sen ve Tenkan Sen'e 
+bakıyorum. Tenkan Sen, Kijun Sen'in üzerindeyse yükseliş trendinin teyidi var. Daha sonra 
+dirençten çıkış aramayı seviyorum. Burada direnç ve destek çizgilerinin çizilmesi çok önemlidir. 
+Unutmayın - bu haftalık bir grafiktir, yani altı ay öncesinden itibaren bir direnç çizgisi varsa, fiyatın 
+bu dirence saygı duyması büyük bir şanstır. Eğer kırılmayı başarırsa, bu, uzun pozisyon almak için 
+iyi bir sinyaldir. Yani bu durumda Ichimoku bir arka plan gibi ama önemli bir şey.
+94
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 95 ===
+Adobe hisse senetleri, aylık grafik
+Sinyalleri körü körüne takip etmiyorum. Bu yüzden buluttan bir kaçış olduğunda başka şeyleri kontrol 
+ediyorum. Benim için en önemlisi trend çizgileridir. Adobe'nin aylık grafiği buna iyi bir örnektir. Direnç çizgileri 
+nedeniyle başarısız olan buluttan iki çıkış yaşadık. Sonunda fiyat bulutlardan ve direnç çizgilerinden 
+kurtulmayı başardı; bu, alım yapmak için mükemmel bir andı.
+Resim 7.1. Bulut ve direnç çizgilerinin üzerinde kırılmada uzun ticaret
+Eğilim güçlüyse fiyat Kijun Sen'in üzerindedir. Bu benim zarar durdurmamdır. Tenkan Sen ve Kijun Sen'in 
+pozisyonlarını kapatmasını beklemiyorum çünkü bu sinyal çoğu durumda çok geç geliyor. Kullanabileceğiniz diğer 
+teknik, zararı durdurmayı son düşük seviyenin altına ayarlamaktır. Burası çıkış noktanız olacak.
+95
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 96 ===
+Şehir hisse senetleri, haftalık grafik
+Resim 7.2. Buluttan kop
+Bu ticaretin biraz mükemmel bir örneğidir. Giriş sinyali olarak sıklıkla buluttan kaçışı kullanırım. Bu örnekte 
+uzun bir kırılma gördük ve fiyat 50$'ın üzerine çıktı. Çıkış yeri, fiyatın Kijun Sen'in altında kapandığı zamandı. 
+Bu her zaman o kadar kolay değildir ancak bu sinyalin sahip olduğu potansiyele iyi bir örnektir.
+96
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 97 ===
+Electronic Arts hisse senetleri, aylık grafik
+Resim 7.3. Koparmanın geçerli olup olmadığına karar vermeye yardımcı olmak için osilatörler ekleme
+Buluttan kaynaklanan kesintilerle ilgili sorun, bazı sahte kesintiler görebilmenizdir. Yukarıdaki grafikte 
+ilk uzun kırılma yanlıştı, ikincisi doğruydu ve ticaretin Kijun Sen üzerinde kapatılması gerekiyordu.
+Buluttan gelen aralara başka bir koşul eklemeyi deneyebilirsiniz. Bu örnekte, araları filtrelemek için Williams 
+%R'yi kullandık. Koşul basittir - %R'nin ticarete girebilmesi için aşırı satış veya aşırı alım bölgesinde olması 
+gerekir.
+Sağ tarafta, buluttan çıkış ve aşırı satış bölgesinde %R ile başka bir ticaret fırsatı gibi 
+göründüğünü görebiliyoruz.
+97
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 98 ===
+EMR hisse senetleri, aylık grafik
+Resim 7.4. Farklı aralara örnek
+Bu ticaret harika çalıştı - bulutların kırılması sırasında uzun süre ve Kijun Sen'in altına yakın bir şekilde, ancak… Sol 
+ve sağ tarafta bazı kırılmaların olduğunu ve bunların güçlü bir eğilim getirmediğini görebilirsiniz. Bunların hepsine 
+sahte diyemem. Bazıları işe yaradı, ancak daha küçük hareket aralıklarıyla. Bu nedenle zarar durdurma stratejinizi 
+akıllıca yönetmek çok önemlidir.
+98
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 99 ===
+ROST hisseleri, aylık grafik
+Resim 7.5. Uzun süre devam etme sinyali (buluttan kopma), zararı durdurma bulutun altında olacaktır
+Bulut ince olduğunda zararı durdurmayı bulutun altına yerleştiririm. Bu durumda ilk uzun çıkışı yaptık ve zararı durdurmayı 
+bulutun altına koyduk. Yukarı hareket hemen başlamadı ancak ROST bulutun üzerinde tutundu ve güçlü bir şekilde yükseliyor.
+99
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 100 ===
+COP hisseleri, haftalık grafik
+Resim 7.6. Tenkan ve Kijun hatlarına göre açık ve kapalı pozisyon
+Bazen trend güçlü olabilir ve fiyat buluttan uzak olabilir, bu nedenle bulut çıkışından sinyal alınamaz. 
+Böyle bir durum gördüğünüzde Kijun Sen'in altında veya üstünde bir kırılmayı sinyal olarak 
+kullanabilirsiniz.
+İlk işlem - düzeltme fiyatının Kijun Sen'in (siyah) üzerine dönmesinden sonra. Uzun yola devam etmek için sinyal aldık. 
+Burada Tenkan Sen'in altında bir çıkış vardı çünkü fiyatın çoğu zaman Tenkan'ın üzerinde olduğunu ve Kijun'un çok uzakta 
+olduğunu fark ettik.
+İkinci ticaret – aynı senaryo. Kijun Sen'in üzerinde uzun bir kırılma ve Tenkan Sen'in altına yakın bir kırılma 
+(çünkü Kijun Sen çok uzaktaydı).
+100
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 101 ===
+8. Ichimoku ve Fibonacci
+Umarım 7. bölümden sonra Ichimoku'yu oldukça iyi anlarsınız. Ichimoku'ya Fibonacci çizgileriyle katılmayı seviyorum. 
+Neden? Ichimoku bana mevcut duruma bir bakış sunuyor. Aynı zamanda bize pozisyon almamız için bir sinyal de verebilir. 
+Yani kısaca:
+– Ichimoku ve Fibonacci geri çekilme çizgilerine göre pozisyon açıyorum
+– Fibonacci uzatma çizgilerine göre pozisyondan çıkıyorum
+Bazı örnekler hazırladım ve bu araçlara nasıl katılacağımız net olmalı.
+USDJPY, 1 saat. Bulutta düzeltme ve buluttan kopma
+Bu defalarca göreceğiniz bir örnek. A'dan B'ye gidin, ardından bir bulutun içine giren düzeltmeyi yapın.
+Buluttan kopmak iyi bir Ichimoku sinyalidir. Fiyat bulutun üzerine çıkarsa bu bir satın alma 
+sinyalidir. Bulutun altına kırılırsa satış sinyalidir.
+Bu durumda, C – %61,8'e (bulut içi) düzeltme sonrasında bulutta bir kırılma gördük – satış sinyali. Ayrıca Kijun 
+çizgisinin altında bir kırılma yaşandı; bu da başka bir düşüş sinyali.
+Bu daha güçlü bir aşağı yönlü hareketin başlangıcıydı.
+Resim 8.1. Ticaret sinyali olarak buluttan kopun
+101
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 102 ===
+USDJPY, 1 saat
+Başka bir örnek, bulutta bir düzeltme olması ve ardından buluttan bir kopuş ve satış sinyali 
+verilmesidir.
+Eğer bu bir menzil hareketi değilse o zaman bu sinyal oldukça iyi çalışır.
+Resim 8.2. Ichimoku ve Fibonacci - örnek
+102
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 103 ===
+GBPJPY, 4 saat
+Bazen bulut fiyattan çok uzaktadır. Aşağıdaki örnekte C'nin (%61,8) buluttan uzakta 
+olduğunu görüyoruz.
+Bulutlanmanın ardından olası bir sonraki hamleye dair bir sonraki göstergemiz Kijun hattının (yeşil) kırılmasıdır.
+Tamam, bulutta bir kopuş yaşamadık ama Kijun-Sen'in altında bir kopuş vardı.
+Tekrar. Bir piyasa belirli bir aralıkta olmadığında, bu olası fiyat hareketinin iyi bir göstergesidir. Aslında bu durumda öyleydi. 
+Kijun'un altında bir kırılmanın ardından güçlü bir aşağı yönlü hareket gördük.
+Resim 8.3. Kijun-Sen'in giriş sinyali olarak kullanılması
+103
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 104 ===
+GBPJPY, 1 saat, bölüm-1. Son durak olarak Kijun-Sen
+Kijun-Sen tek başına bırakılsa bile harika bir gösterge. Bunu bu 2 bölümlü örnekte göreceğiz.
+Girişten başlayalım.
+ABC'nin hareketi. C %50 düzelme seviyesindeydi. %50'nin altında bazı aralık hareketleri gördük. Fiyat bir buluta girdi ve 
+daha sonra bir buluttan kopuş gerçekleşti; bu, açık pozisyona gitme sinyaliydi.
+Elbette bu durumda yeşil trend çizgisinin altında bir kırılmayı bekleyebiliriz.
+Bu, daha önce anlattığım buluttan kopmanın da yardımıyla iyi bir girişti.
+Resim 8.4. Bölüm 1 – Buluttan koptuktan sonra kısa pozisyon
+104
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 105 ===
+GBPJPY, 1 saat, bölüm-2. Son durak olarak Kijun-Sen
+Artık kârlı olan açık bir ticaretimiz var ve bir soru var. Nereden çıkılmalı?
+Daha sonra işlemlerimi parçalar halinde kapatmayı sevdiğimi yazdım. Bazen o kadar güçlü bir trend görüyorsunuz ki merak etmeye 
+başlıyorsunuz: uzatmada mı yoksa beklemede mi?
+Resim 8.5. Bölüm 2 – Son durak olarak Kijun-Sen
+İşlemimin bir kısmını her zaman %161,8 ile kapatıyorum. Bu, birçok tüccarın aynı şeyi yaptığı çok popüler bir seviyedir. 
+Yine de bir trend güçlüyse Kijun-Sen'i yardım olarak kullanabilirsiniz. Kijun sıklıkla bir direniş olarak çalışır. Bu örnekte 
+Kijun'un düzeltme sırasında direnç görevi gördüğünü gördük. Sondaki zararı durdurmanın Kijun'un üzerine 
+yerleştirileceğine dair net bir sinyal. Bu tek Ichimoku çizgisi sayesinde bir hamlenin büyük bir kısmını yakalayabildik.
+105
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 106 ===
+TD hisse senetleri, haftalık grafik
+Haftalık grafikte ABC'nin hareketini rahatlıkla görebiliyoruz. Düzeltme %50 geri çekilmede durdu ve boğalardan bir 
+miktar aktivite gördük. Ne zaman girilmeli? Ichimoku'yu grafikte bıraktım. Daha yüksek zaman dilimlerinde fiyat 
+nadiren Kijun-sen ile kesişir. Kijun-sen'in üzerinde kapanmayı başardığında bu iyi bir giriş noktasıydı. Daha sonra 
+%161,8 uzatma çizgisine kadar güzel ve güçlü bir hareket yaşandı. Bu hareketin burada biteceği anlamına mı 
+geliyor? Bunu bilmiyoruz. Sadece bunun pozisyonu kapatmak için iyi bir yer olduğunu biliyoruz.
+Resim 8.6. %200 uzatmaya doğru güçlü bir hamle
+Unutmayın, bu haftalık bir grafiktir ve yine de çıkış noktasını iyi bir hassasiyetle belirleyebiliriz.
+106
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 107 ===
+Ichimoku Kinko Hyo Monitor'u Kullanma
+Ichimoku uzun vadeli ticarette harikadır ancak kısa vadeli ticarette de kullanabilirsiniz. Sorun Ichimoku'nun oldukça 
+karmaşık olmasıdır (Kijun'dan, buluttan vb. sinyaller alıyoruz). Bu gerçeği, diğer zaman dilimlerinde de durumu 
+kontrol etmemiz gerektiği gerçeğini ekleyin. Ichimoku'ya yeni başlayan biri için zor olabilir. Çok sayıda çift 
+taradığımda bu benim için bile kolay değil.
+Ichimoku ile yaptığım işlemlere ichi360 Monitor adlı bir göstergeyi ekledim. Benim tarafımdan yazılmamıştır. 
+Birkaç yıl önce Ichimoku ile ticaret yapma konusunda çok güzel bir ichi360.com blogu vardı. Blog artık 
+ortalıkta yok ama yazar (aynı zamanda programcıydı) sitesinde bazı göstergeler paylaştı. Bugüne kadar 
+bunları çeşitli FX forumlarında bulabilirsiniz.
+Ichi360 Monitor çok havalı küçük bir indi. Öyle görünüyor:
+Resim 8.7. ichi360 Monitör grafikte
+107
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 108 ===
+Alt kısımla ilgileniyoruz:
+Resim 8.8. Tüm zaman dilimlerindeki durum
+Durumu 1 dakikadan haftaya kadar tüm zaman dilimlerinde görebiliriz. Kısayollar şunlardır:
+• PA – fiyat hareketi, fiyat artıyor mu düşüyor mu
+• P/K – Kijun-Sen’e fiyat
+• T/K – Tenkan-Sen'den Kijun-Sen'e
+• CS – Chikou-Span
+• C/K – Bulut, Kijun-Sen'e Karşı
+• C/C – Bulut ve Chikou-Span
+Bund, 4 saat
+Bu 4 saatlik Bund grafiğine bir göz atın. ichi360 sayesinde tüm zaman dilimlerinde durumun yükselişte olduğunu biliyoruz. 
+Ayrıca Ichimoku'dan bir satın alma sinyali aldık ve tabii ki hoş görünümlü bir ABC Fibonacci formasyonu da aldık. İyi 
+görünüyor ve uzun vadeli iyi bir ticaret olmalı.
+Resim 8.9. ichi360 Monitor'ün yardımıyla uzun vadeli ticaret
+108
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 109 ===
+NZDJPY, 4 saat
+Daha karmaşık bir örneğe bakalım. 4 saatlik grafikte NZDJPY bir aralık hareketi içerisindeydi ancak ABC 
+formasyonunun yerinde olduğu açıktı. Ayrıca buluttan ve direnç hattından da direnç oluştu. ichi360'tan 
+durumun düşüş eğiliminde olduğunu biliyorduk. Eğer o ana girersek grafikte işaretlenen geçici destek 
+çizgisinin altında bir kırılmayı beklemeliyiz.
+Zararı durdurma bulutun üzerine çıkacaktı.
+Resim 8.10. Kısa ticaret. Ichi360 Monitor diğer zaman dilimlerinde düşüş eğilimi gösteriyor
+109
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 110 ===
+AUDUSD, 15 milyon
+Durum tüm zaman dilimlerinde net değil ama 15m'deyiz ve bu bir düşüş trendi. Ayrıca 30 dakika ve 1 saat 
+geride kaldı. %78,6'ya yapılan düzeltmenin ardından fiyat düşmeye başladı. ichi 360'tan bir satış sinyali geldi 
+ve hemen ardından MACD'den bir onay geldi. İyi bir giriş noktası.
+Resim 8.11. Karışık bir durum, ancak düşüş trendi de daha yüksek bir zaman diliminde
+110
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 111 ===
+USDJPY, 30 milyon
+İchi360'tan bir sinyal aldık ancak fiyat yakın zamandaki en düşük seviyenin üzerindeydi. Bu seviyenin (yeşil destek çizgisi) altında 
+kapanışı bekleyip, ardından kısa pozisyona girmeliyiz.
+Sağ üst köşede tüm zaman dilimlerinde durumun düşüş eğiliminde olduğunu görebilirsiniz. Kısaca iyi 
+ticaret koşulları.
+Resim 8.12. Ichimoku'dan sinyal sat
+111
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 112 ===
+9. GMA
+Basitliği ve sunduğu olanaklar nedeniyle GMMA'yı seviyorum. Avustralyalı bir tüccar tarafından yaratıldı. Adı Guppy 
+Çoklu Hareketli Ortalamalar anlamına gelir. Temel olarak iki grup hareketli ortalamadan oluşur:
+• 5, 8, 10, 12, 15
+• 30, 35, 40, 45, 50, 60
+Üstel ortalamalar kullanıyorum, bu sete 100 ve 200'lük ortalamaları da ekliyorum. Diğer göstergelerle 
+birleştirebilirsiniz. Trend çizgileriyle ve sürpriz olarak Fibonacci'yle kullanmayı seviyorum.
+Örneklere geçelim ve bunu uzun vadeli ticarette nasıl kullanabileceğimizi kontrol edelim.
+Trend çizgileri çizmek her zaman iyidir. Bu, aşağıdaki haftalık grafikte olduğu gibi alım satımların açılmasında çok yararlı olabilir:
+Resim 9.1. Uygulamada GDO
+MACD'de bir sinyal gördük ancak fiyat direnç çizgisinin altındaydı. Direncin üzerine çıktıktan sonra destek 
+olarak çalışmaya başladığını ve alıcıların geldiğini gördük. Uzun süre girmek için en iyi yer burasıydı.
+112
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 113 ===
+Aşağıdaki haftalık grafikte, fiyatın bir yılı aşkın süredir direnç çizgisinin altında ve 100 ve 200 ortalamalarının üzerinde 
+sıkışıp kaldığını açıkça görebiliyoruz. Sonunda boğalar direnç çizgisinin üzerine çıkmayı başardı ve güzel bir yükseliş trendi 
+başladı. Ayrıca mavi ve kırmızı ortalamaların nasıl tepki verdiğini de kontrol edin. Genişlemeye başladılar ve bir trend 
+halinde mavi ve kırmızı ortalamalar arasında daha büyük bir mesafe oluştu.
+Resim 9.2. Trend çizgisinin üzerindeki kırılmanın ardından güçlü yükseliş
+Çoğu zaman bir düzeltme sırasında daha uzun ortalamalar (yani kırmızı olanlar) destek görevi görecektir. Bu örnekte 
+kırmızı ortalamalardan bir desteğimiz ve trend çizgisinden bir direncimiz var.
+113
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 114 ===
+Resim 9.3. Fiyat desteği olarak GMMA
+GMMA, Fibonacci ile birlikte harika çalışıyor. Trendin ve mevcut durumun iyi bir resmine sahibiz.
+ABC hareketlerini tespit etmek daha kolaydır. Bir şey var; bazen AB ilk hamlede o kadar da harika, hatta doğru görünmeyebilir. 
+Unutmayın, her zaman bekleyebilirsiniz. Aşağıdaki örnekte daha sonra mavi ortalamaların kırmızı ortalamaların üzerine çıktığını 
+ve düzeltmeler sırasında kırmızı ortalamaların destek görevi gördüğünü gördük. B çizgisinin üzerindeki kırılmada veya MACD'den 
+gelen sinyalden sonra girebilirsiniz. Hareket %138,2 uzatma çizgisinin biraz üzerinde sona erdi.
+Resim 9.4. GMA ve Fibonacci
+Menzil piyasalarında ticaret yapmak her zaman olduğu gibi zordur. Mavi ve kırmızı ortalamalara bakın. Çok inceler. Menzil 
+piyasası gördüğünüzde veya şüphelendiğiniz zaman bir destek ve direnç çizgisi çizin ve bekleyin. Aşağıdaki örnekte aralık 
+hareketi birkaç yıl sürdü, ancak sonunda fiyat direncin üzerine çıktı ve bu daha büyük bir hareketin başlangıcıydı.
+114
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 115 ===
+Resim 9.5. Aralık pazarı ve zayıf ortalamalar
+Aşağıdaki aylık grafikte fiyatın direnç çizgisinin altında ve kırmızı ortalamaların (destek olan) üzerinde 
+sıkışıp kaldığını görebilirsiniz. Daha sonra 2012'de uzun bir çıkış yaşandı ve fiyat 600$'a kadar 
+yükselmeye başladı.
+Resim 9.6. Destek olarak uzun vadeli grup
+Fiyatın ortalamalara nasıl tepki verdiğini gözlemlemek güzel. Aşağıdaki grafiğin sol tarafından başlayalım. Menzil 
+hareketinden sonra çok güçlü bir yükseliş trendinin başlangıcı olan uzun bir kırılma yaşandı. Yukarı doğru hareket 
+sırasında mavi 30 ortalamanın her zaman destek olarak çalıştığına dikkat edin. 158$ civarında bunu başaramayınca 
+bu, çıkış sinyaliydi. Fiyat direnci 168$'a zorladığında uzun ticarete yeniden girebiliriz. Ticaretin her zaman karmaşık 
+olması gerekmez; bazen sadece fiyatın ne yaptığını gözlemlemeniz gerekir.
+115
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 116 ===
+Resim 9.7. Yukarı hareket sırasında sondaki durak olarak mavi grup
+10.Renk
+Renko başka bir mum türüdür. En popülerleri mum grafikleridir, ancak Japonya'da oluşturulmuş başka 
+birçok grafik türü de vardır. Örneğin Kagi, Üç Satır Arası veya Renko şeması var. Renko'ya odaklanalım.
+Renko grafiği nasıl oluşturulur?
+Grafik, fiyat bir önceki tuğlanın üstünü veya altını önceden tanımlanmış bir miktarda aştığında bir tuğla 
+yerleştirilerek oluşturulur. Renko grafiği zamandan ve hacimden bağımsızdır; başka bir tuğla çizme koşulu yoksa 
+grafik günlerce aynı kalabilir (başka bir tuğla çizme koşulu oluşturulana kadar). Beyaz tuğla hareketin yukarı, siyah 
+ise hareketin aşağı olduğu anlamına gelir. Renko ile trendleri tespit etmek ve piyasa düz olduğunda ticaretten 
+kaçınmak daha kolaydır.
+Resim 10.1. Renko tuğlaları
+Renko yazılımı
+Sorun, her ticaret yazılımının yerleşik olmamasıdır. Eğer Metastock kullanıyorsanız, yerleşik olarak bulunur. 
+Forex ticareti yapıyorsanız ve MetaTrader4 kullanıyorsanız, bu başka bir hikaye. MT4 için bazı Renko 
+eklentilerini denedim ve iyi bir eklenti bulamadım.
+Neyse ki Forex yatırımcıları için bir çözüm var. Çevrimiçi grafik yazılımı http://www.tradingview.com . 
+Ücretsiz değil. Gün içi Renko'yu kullanmak istiyorsanız aylık 15$ abonelik bulunmaktadır. Bunun iyi bir 
+fiyat olduğunu düşünüyorum çünkü Renko'nun dahil olduğu eksiksiz bir grafik yazılımına sahip 
+oluyorsunuz.
+116
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 117 ===
+Kutu boyutuyla ilgili sorun
+Renko'nun asıl sorunu kutu boyutunu ayarlamanız gerektiğidir. Bunu ATR ile yapabilir veya kutu boyutunu manuel olarak 
+ayarlayabilirsiniz.
+ATR borsada sorun yok ama Forex çiftlerinde kutu boyutunu manuel olarak ayarlamayı tercih ediyorum. Sorun şu ki, doğru kutu boyutunu 
+ayarlamak için altın bir kural yoktur.
+Çok küçük kutu boyutuyla aynı anda birden fazla kutunun göründüğünü göreceksiniz. Bu, ticareti çok zorlaştırır ve 
+kolayca kafanız karışabilir. Örneğin kutu boyutunu 3 pip olarak ayarladınız. Trend düştü, kırmızı kutuların ayağını 
+görüyorsunuz. Aniden fiyat tersine döner ve 30 pip yukarı çıkar ve aynı anda 10 yeşil kutu alırsınız. Çoğu yatırımcı için 
+bu ayarlar çok hassastır.
+Daha büyük kutu boyutuyla, örneğin 15 pip ile, yalnızca iki kutu göreceksiniz ve daha iyi bir piyasa resmi 
+görebilirsiniz. Ekranlarda size göstermek zor ama canlı grafikte gördüğünüzde bunu anlayacaksınız.
+Yeni yatırımcılar için daha güvenli yol, daha büyük kutu boyutunu veya ATR'ye dayalı kutu boyutunu kullanmaktır. Bu sayede aşırı 
+ticaret yapmayacaksınız ve daha büyük trendleri yakalayacaksınız.
+Peki uygun kutu boyutu nasıl ayarlanır?
+Kısa vadeli mi yoksa uzun vadeli mi (1 gün veya daha uzun) işlem yapacağınıza karar verin. Sana bağlı. Daha büyük kutu boyutlarını 
+tercih ediyorum çünkü onlarla daha büyük hamleler yakalayabiliyorum. Renko'yu scalping için bile kullanan bir grup tüccarın 
+olduğunu biliyordum. Sizin için en iyisinin ne olduğuna karar vermelisiniz.
+Size TradingView'de kullandığım bazı örnek boyutları göstereceğim. Unutmayın, tek bir doğru kutu 
+boyutu yoktur. Farklı boyut kullanabilirsiniz.
+İlk olarak, kutu boyutunun nerede değiştirileceği. Biçim simgesini tıklatırsınız:
+117
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 118 ===
+Ayrıca kutu boyutunu ATR'ye veya geleneksel (manuel) yönteme göre ayarlayabilirsiniz:
+ATR genellikle çok büyük kutu boyutuna sahiptir. Bunu yazdığımda ATR 14'e göre aşağıdaki gibi kutu boyutlarım var:
+GBPJPY 33 pip
+EURJPY 24 pip
+EURUSD 18 pip
+Daha önce de yazdığım gibi en sevdiğim yöntem geleneksel tarzdır. Bu yöntemi seçtiğinizde kutu boyutunu 
+ayarlayabilirsiniz:
+Aşağıda popüler FX çiftlerinde kullandığım kutu boyutları verilmiştir. Bazen değiştiriyorum, taşta yazmıyor. Piyasanın 
+normalden daha yavaş hareket ettiğini görürsem kutu boyutunu küçülteceğim. Pratikle birlikte gelir.
+Manuel kutu boyutu - yen çifti
+Öncelikle normal mum grafiğini açıyorum ve geçmişteki fiyat hareketlerini gözlemliyorum. GBPJPY'nin güçlü bir trend olduğunu 
+kolayca görebilirsiniz. Bu paritenin birkaç gün içinde 500 pipten fazla hareket etmesi alışılmadık bir durum değil.
+Bu yüzden GBPJPY için kutu boyutunu tradingview formatında 20 pip civarına ayarladım: 0,2:
+118
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 119 ===
+EURJPY için kutu boyutu : 15 pip (0,15) 
+EURUSD için kutu boyutu : 10 pip (0,001) 
+GBPUSD için kutu boyutu : 25 pip (0,0025)
+Hangi kutu boyutunun uygun olacağından emin değilseniz ATR'ye dayalı boyutla başlayın. Bir köşede 
+ATR'ye göre mevcut kutu boyutunu göreceksiniz. Bu örnekte 29 piptir:
+Daha sonra daha büyük veya daha küçük kutu istediğinize karar verirseniz manuele geçebilirsiniz.
+Gürültü filtresi olarak Renko
+Renko'yu seviyorum çünkü fiyattaki gürültüyü filtreliyor. Gerçek şu ki, her yıl giderek daha fazla robot ticaret 
+piyasası görüyoruz. Forex onlar için harika çünkü 24 saat iyi likiditeye sahip bir piyasa. Bizim için kötü çünkü 
+çok fazla karmaşa yaratıyor. 1 milyon veya 5 milyonluk işlem yapmamamın ve daha yüksek zaman dilimlerine 
+geçmemin ana nedeni budur.
+Renko ile nasıl ticaret yapılır?
+Bunu ticaret sisteminizde kullanmanın birçok yolu vardır. Normal şamdanları kullanıp üzerine gösterge 
+koyduğunuz gibi Renko ile de aynı şekilde işlem yapabilirsiniz.
+Genel olarak stratejinizi şu yöntemlerden biri etrafında oluşturabilirsiniz:
+– Renko ile ticarette aralar
+119
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 120 ===
+– ticaret kalıpları
+– diğer göstergelerle işlem yapmak
+– diğer
+Renko ticareti – aralar
+Adından da anlaşılacağı gibi, kırılmaları ararsınız. Tıpkı bar veya şamdanlarla yapılan normal ticarette olduğu gibi. Aradaki 
+fark, Renko ile kırılmaları tespit etmenin daha kolay olmasıdır.
+Resim 10.2. Renko ve aralar
+Elbette sahte kesintiler görebilirsiniz. Ana trendle aynı yönde işlem yaptığınızdan emin olmak için bu 
+yaklaşımı diğer araçlarla birlikte kullanmak iyidir.
+Bunun daha fazlasını pratikte örneklerde göreceksiniz.
+Renko ticareti – desenler
+Yine, şamdan veya çubuk grafikte yaptığınız gibi normal desen arama. Yani çift tepe, çift 
+dip, baş ve omuzlar vb. ararsınız.
+120
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 121 ===
+Renko ticareti – göstergeler
+Renko ile ticaret yapmanın en sevdiğim yolu onu göstergelerle birleştirmektir. Zaten çalışan bir sisteminiz 
+veya iyi göstergeleriniz varsa bunları Renko ile test edin. Gürültü azaltma sayesinde daha iyi sinyaller 
+almalısınız.
+Tehlikeli aralıklar
+En iyi kutu boyutunda bile pazarın yana doğru hareket edeceğini görebilirsiniz. Düz piyasalarda işlem yapmak zordur 
+çünkü net bir trend yoktur ve kolayca fazla işlem yapıp birçok zarara uğrayabilirsiniz.
+Neyse ki Renko ile üst ve alt kısımları kolayca işaretleyebilirsiniz. Bir düzeltme görürseniz üst ve alt kısımları destek ve 
+direnç çizgisiyle işaretlemek iyi bir uygulamadır. Böylece fiyatlar kırılmadığı veya altına düşmediği sürece aralık 
+hareketi riskinin bulunduğunu hatırlayacaksınız. Örneklerde bundan daha fazlası var.
+Renko için ticaret stratejim
+Stratejimi DEMA ortalamalarına göre belirledim. Başka tür ortalamalarla deneyler yapabilirsiniz ama ben en çok Dema'yı 
+seviyorum. Yani burada süslü bir şey yok. İki grubumuz var.
+Uzun vadeli grup (trend): 
+21 DEMA
+33 DEMA
+Kısa vadeli grup (sinyal): 5 
+DEMA
+10 DEMA
+Grafikte şöyle görünüyor:
+121
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 122 ===
+Resim 10.3. Renko ve hareketli ortalamalar
+Ortalamaları nasıl kullanırım?
+İlk önce 21'in 33'ün üzerinde olup olmadığını kontrol ediyorum; o zaman bu bir yükseliş trendi. Aksi halde trend düşüşte.
+Bana mevcut hareketin nereye gittiğine dair bir fikir vermek için grafikte sinyal çizgileri var. Bazen 
+kızıyorum ama her zaman değil. Çoğu zaman pozisyonu RSI'ya göre kapatıyorum ve kırılmaya göre 
+açıyorum. Çünkü ortalamalar geride kalıyor. Yani yeni kutu kapanınca güncelleniyorlar. Yine de olup 
+bitenin iyi bir göstergesi ve örnekleri gördüğünüzde daha iyi anlayacağınızı umuyorum.
+Hepsi bu değil. Göstergeleri de kullanıyorum. Çoğunlukla şu ayarlara sahip bir çift MACD ve CCI veya MACD ve 
+RSI: MACD – standart ayarlar 12, 26, 9
+RSI – 14
+CCI – 21 veya 33
+122
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 123 ===
+Resim 10.4. Renko, ortalamalar ve göstergeler (RSI, MACD)
+Ticaret örnekleri
+GBPJPY, kutu boyutu 0,2
+Kolay bir taneyle başlayalım. Burada net bir düşüş trendinde bir düzeltme var ve kısa pozisyona 
+girmeyi düşünüyoruz. Uzun pozisyon aramıyoruz çünkü 21 DEMA (turuncu) 33 DEMA'nın (beyaz) 
+altında. Ayrıca MACD 0 çizgisinin altında.
+Kısa pozisyona girmek için alabileceğimiz birkaç sinyal var. İlk önce 5 ile 10 DEMA'nın kesişimini gördük. Kısa 
+süreliğine iyi bir yer.
+Daha iyi bir sinyal istiyorsak, son düşük seviyenin (yeşil destek çizgisi) altına inmek için beklemek 
+zorundayız. Aynı zamanda RSI'dan bir sinyal geldi.
+123
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 124 ===
+Resim 10.5. Göstergelerin kırılmasına ve onayına dayalı kısa pozisyon
+Aynı ticaret, trend güçlü. Sonunda yeşil bir kutu vardır ve bu durumda en iyi çıkış konumu ilk kutunun 
+sonrasıdır. Bunu yapmak için iki sinyalimiz var.
+1) 5 ve 10 DEMA'nın çaprazı
+2) yeşil kutu 21 (turuncu) trend çizgisinin üzerinde (daha önce bu trend çizgisinin altındaydı)
+Biz de bekleyebilirdik, ancak daha sonra yeşil kutu 33 DEMA'nın üzerinde kapandığında kapanmak için başka bir sinyal daha 
+geldi.
+124
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 125 ===
+Resim 10.6. Bir işlemi kapatma sinyalleri
+Bir trend çizgisine göre kapat
+Çoğu zaman 5 ve 10'un kesişmesini beklemiyorum ancak kutunun trend çizgilerine karşı konumunu izliyorum. 
+Hangisinin daha önemli olacağına karar vermek için durumu gözlemlemelisiniz.
+Yukarıdaki örnekte kutuların her zaman 21 DEMA'nın altında olduğunu gördük, dolayısıyla bu çizginin üzerinde yeşil 
+kutu olduğunda kapatmak mantıklıydı:
+125
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 126 ===
+Resim 10.7. Trend çizgisine göre pozisyon kapatıldı
+Diğer durumlarda 31 DEMA'nın daha önemli olacağı bir durumla karşılaşabilirsiniz. Aşağıdaki bir örneği 
+düşünün:
+Resim 10.8. 33 DEMA'nın üzerindeki yeşil boc'tan sonra yakın konum
+Açıkça 33 DEMA burada bir direnç, 21'e saygı duyulmuyor. Bu nedenle 33 DEMA'nın üzerinde yeşil kutu görüyoruz, kısa 
+sürede kapanma zamanı geldi.
+126
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 127 ===
+Düzeltmeler ve kutu sayısı
+Renko ile yeterince uzun süre işlem yaparsanız, güçlü trendlerde 1, 2 veya 3 kutuluk (veya kutu boyutuna bağlı olarak başka 
+sayılar) düzeltmeye sahip olacağınızı fark edeceksiniz. Eğilimin güçlü olduğunu düşünüyorsanız (bazı haberler veya önemli 
+seviyenin altında veya üstünde kırılmalar nedeniyle), düzeltmeler sırasında pozisyonu açık tutmanızı ticaret planınıza 
+eklemenizde bir sakınca yoktur. GBP/JPY'de olduğu gibi birçok 1,2,3 kutu düzeltmesi göreceksiniz:
+Resim 10.9. Düzeltme örneği
+veya
+Resim 10.10. Düzeltme örneği
+Ticaretteki oyunum mümkün olduğu kadar uzun süre devam edecekse, ticareti açık tutacağım.
+Benim durumumda bunu yalnızca küçük düzeltmeler için yapıyorum. Daha güçlü düzeltme gibi kapanacak daha fazla sinyal 
+gördüğümde (3'ten fazla kutuyla) çıkıyorum:
+127
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 128 ===
+Resim 10.11. Daha güçlü düzeltme, 33 DEMA'nın altındaki kutu – çıkış zamanı
+Sana bağlı. Güvenli oynamak istiyorsanız, her zaman çapraz/diğer sinyalden çıkıp ticarete yeniden girebilirsiniz.
+RSI'dan sapma
+Farklılık – fiyat yeni bir yüksek seviyeye ulaştığında ancak gösterge bunu doğrulamadığında, Renko ile oldukça iyi çalışın. 
+Filtrelenmiş fiyat hareketi sayesinde farklılığın nerede gerçekleştiğini net bir şekilde görebilirsiniz.
+MACD'de bu çok net değil ama RSI'yi kontrol ettiğinizde hemen görüyorsunuz:
+Resim 10.12. RSI'da ayrışma
+128
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 129 ===
+Başka bir örnek:
+Resim 10.13. RSI'da ayrışma
+Ve EURUSD'den örnek:
+Resim 10.14. RSI ve MACD'de ayrışma
+Bu çok güçlü bir sinyaldir ve tespit edilmesi normal mum grafiğine göre çok daha kolaydır.
+129
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 130 ===
+EURJPY, kutu boyutu 20
+Bazen güçlü bir hareketin ardından daha uzun düzeltmeler görürsünüz ve bu da size birçok karışık sinyal verebilir. 
+Aşağıdaki grafikteki gibi. Bir an için 21'in 33 DEMA'nın üzerinde olduğunu görebiliyorsunuz, loga ve short'a giden sinyalleri 
+gördük:
+Resim 10.15. Karışık sinyaller, bölüm 1
+Bu nedenle düzeltme sırasında benim yeşil yatay çizgilerle yaptığım gibi düşük ve yüksek değerleri işaretlemek akıllıca olacaktır:
+Resim 10.16. Karışık sinyaller, bölüm 2. Yatay çizgiler ekledik
+130
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 131 ===
+Yukarı çıkmanın iyi bir seçim olmadığına dair birkaç işaretimizin olduğuna dikkat edin:
+- bu bir menzil hareketiydi
+- MACD her zaman 0 çizgisinin altındaydı
+- RSI 50 çizgisinin altındaydı
+Sonunda alt desteğin altında bir kırılma yaşandı ve kısa pozisyon için iyi bir giriş noktası oluştu.
+AUDNZD, kutu boyutu 16
+Sadece Renko için değil, genel olarak para ve pozisyon yönetimi konusunda disiplinli olmak 
+önemlidir. Her sinyalde 200 piplik güçlü bir hareket yakalayamazsınız. Ticarette bazen sinyalin yanlış 
+olması ve piyasanın aleyhinize hareket etmesi normaldir.
+Piyasa aleyhinize hareket ederken pozisyonu kapatmak önemlidir.
+Bu AUDNZD grafiği iyi bir örnektir. Trend düştü. 1 numaralı ticaret güzel ve kolaydı. İlk önce 5 ile 10'un kesişimini 
+gördük ve bu, açığa çıkmak için iyi bir yerdi. Daha sonra 10'un üzerinde 5 ile başka bir kesişme daha oldu. Kapatma 
+ve kar alma zamanı.
+Ticaret #2 ilk başta iyi görünüyordu. 5 ve 10'un kesişiminde veya son düşük seviyenin altına kırılma durumunda kısa 
+pozisyona yeniden girebiliriz. Gördüğünüz gibi bu sahte bir kırılmaydı ve fiyat yükselmeye başladı. İlk önce trend çizgilerinin 
+üzerinde 5 ve 10'un kesişimini ve yeşil kutuyu gördük. Burası pozisyonu kapatabileceğimiz ilk yerdi. İkincisi daha sonra, 
+fiyatın kırmızı çizgiyle işaretlenmiş direncin üzerine çıkmasıydı (son zamanların en düşük seviyesine göre)
+131
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 132 ===
+Resim 10.17. AUDNZD iki işlem
+Daha sonra güçlü bir yukarı hareket olduğunu görebilirsiniz. Bu pozisyonu küçük bir kayıpla hızlı bir şekilde kapatmak iyi bir 
+fikirdi.
+Burada pozisyonu kırmızı çizginin üzerinde kapattım. Sadece bir anlığına geri dönüş olacağını ve düşüşe devam 
+edeceğini düşündüm. Bir şeyler ters gittiğinde işlemin ne zaman kapatılacağına karar vermek zor bir kısımdır.
+Her şeyin yolunda gittiği ve fiyatların aniden tersine döndüğü buna benzer birçok durumu görebilirsiniz 
+ve göreceksiniz. %100 emin bir ticaret sistemi yoktur. Para yönetimi başarının %50'sinden fazlasıdır.
+AUD/NZD, kutu boyutu 16
+Yükseliş trendinde aynı parite ve düzeltmeye devam edelim. Bir düzeltme fark ettiğinizde fiyat destek buldu ve 
+tekrar yükselmeye başladı. Kırmızının üzerindeki kırılmadan hemen sonra uzun süre girebilirsiniz
+132
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 133 ===
+Direnç çizgisi veya 5 ile 10'un kesişimi. Ama bitmedi...
+Resim 10.18. AUDNZD ticaret üssü çapraz, bölüm 1
+Fiyat son zamanların en yüksek seviyesinin üzerine çıkmayı başaramadı ve 5, 10'un altında kapandı. Durum pek iyi görünmüyor. Soru şu; 
+uzun pozisyonu kapatmalı mısınız yoksa beklemeli misiniz?
+133
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 134 ===
+Resim 10.18. AUDNZD, bölüm 2
+Tekrar bir göz atın. İlk tablodaki aralığı (kırmızı çizgiler) hatırlıyor musunuz? Fiyat burada destek bulursa zararı 
+durdurmayı bu aralığın altına koymak en iyisidir. Bu durumda, zararı durdurma seçeneğinin mevcut olduğunu 
+bilerek beklemelisiniz.
+Ayrıca MACD ve RSI hala pozitif.
+134
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 135 ===
+Resim 10.18. AUDNZD, bölüm 3
+Bu durumda düzeltme burada sona erdi ve fiyat yükseldi:
+Resim 10.18. AUDNZD, bölüm 4
+Şunu da eklemeliyim ki, bu aralık olmasa ilk etapta, 5 ve 10'un kesişmesinden sonra bu aralığı kapatacağım.
+Bu çok iyi bir örnek çünkü size düşük seviyeler, aralıklar veya diğer önemli destek/direnç alanları görürseniz 
+bunu kullanmanız gerektiğini gösteriyor.
+135
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 136 ===
+Paket, 18 puntoluk kutu boyutunda
+Haçlarla ilgili bir şey. Daha önce de yazdığım gibi, bunları her zaman bir ticarete girmek için ana sinyal olarak 
+kullanmıyorum. Trendin çok güçlü olacağı ve düzeltmenin çok sığ olacağı ve 5 ile 10'un kesişiminin gecikeceği 
+durumlar vardır. Bu örnekte olduğu gibi. Bununla ne yapmalı? Farklı ortalamalar kullanın veya yalnızca kırılmalara 
+dayalı olarak işlem yapın.
+Resim 10.19. Güçlü bir trend ve zararı durdurma seviyeleri sırasında uzun fırsatlar
+Olası 1 numaralı giriş nereden geldi? Daha yakından bak. Bu ikinci bir yeşil kutudur. Olası 
+giriş #2, giriş sinyalinin daha kesin olduğuydu.
+Peki ne zaman çıkmalı? RSI'a bir göz atın. Yukarı doğru hareket ettiği süre boyunca mavi destek çizgisinin 
+üzerinde duruyordu. Altını kırdığında trendin artık o kadar da güçlü olmadığı açıktı.
+136
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 137 ===
+11. ATR İzleyen Zarar Durdurma
+Sondaki Zarar Durdurma
+MT4 için sondaki durma çizgisini çizen birkaç gösterge vardır. Avize Duraklarını kullanmayı tercih ediyorum.
+İyi para yönetimi ile bunun bir trendi takip etmek için en iyi araçlardan biri olduğuna inanıyorum.
+ATR takip eden zararı durdurmayı kullanmak neden iyidir?
+Öncelikle trendi yakaladığınızda hareketin çoğundan kazanç elde edebilirsiniz.
+ATR'nin iyi yanı, zararı durdurma seviyesinin mevcut olmasıdır. ATR'nin diğer tarafında kapanış 
+olması kapanma sinyalidir. İkinci bir tahmin yok.
+En iyi zaman dilimi
+30 m veya daha büyük zaman dilimlerini şiddetle tavsiye ederim. 5m gibi daha düşük zaman dilimlerinde çok fazla algo ticareti 
+oluyor. ATR ile 1 saatlik veya 4 saatlik grafiklerde işlem yapıyorum.
+Parametreler
+Çifte veya enstrümana bağlıdır. Çoğu durumda standart parametreler iyi olacaktır. Herhangi bir şeyi değiştirirsem bu 
+genellikle bir Kv parametresidir. Standart 3,5 ve ben bunu 3,7 veya 4,0 gibi büyütme eğilimindeyim. Çoğu durumda 
+3,7 civarındadır:
+Resim 11.1. MT4'teki İzleyen durdurma parametreleri örneği
+Unutmayın, bu çifte ve piyasadaki mevcut duruma bağlıdır. Birkaç ayarı denemeli ve geçmiş fiyat 
+hareketlerinde sorun olup olmadığını kontrol etmelisiniz.
+137
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 138 ===
+Sondaki zararı durdurma ve diğer göstergeler
+Bazı yatırımcılar yalnızca takip eden zarar durdurma çizgisini kullanır, diğerleri ise bir veya iki göstergeye ekleme yapar. 
+Ticaretimde favori göstergelerim ile ATR'ye katılıyorum:
+• GMA
+• 100, 200 SMA
+• RSI14
+• MACD21, 33, 12
+Trendle ticaret yaparsanız, ATR'nin takip eden stoploss'u ile başarılı olursunuz. Bu nedenle bunu yardımcı 
+olabilecek diğer göstergelerle birleştirmek iyidir.
+ATR'nin son zararı durdurma ile işlem yapmak için en iyi çiftler
+Sondaki zararı durdurma, trend olan piyasalarda en iyi sonucu verir. Bu nedenle çiftin güçlü hareket etme eğiliminde olup olmadığını veya 
+menzil içinde hareket etme eğiliminde olup olmadığını kontrol etmelisiniz. Yen çiftinin güçlü bir şekilde hareket edeceği bir sır değil. Sağlam 
+trendler arıyorsanız GBPJPY veya EURJPY ile yanlış yapmış olmazsınız.
+138
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 139 ===
+Ticaret örnekleri
+EURJPY, 1 saat
+Basit bir örnekle başlayalım. 1 saatlik grafikte, daha yüksek zaman dilimlerinden trendin yükselişe 
+geçtiğine dair bir onay var. ATR kırmızıdan yeşile döndüğünde long girersiniz ve negatife döndüğünde 
+çıkarsınız. Bu süre zarfında MACD ve RSI pozitifti.
+Resim 11.2. ATR stop sayesinde 300 pip'in üzerinde kar
+139
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 140 ===
+GBPJPY, 1 saat
+Bu oldukça sık göreceğiniz bir durumdur. Güçlü hareketin ardından trend yönünde bir değişiklik olması muhtemel. 
+ATR'den kısa pozisyona geçilmesi yönünde bir sinyal gördük, ancak henüz çok erkendi. Fiyat hala 100 SMA ve 200 
+SMA’nın üzerindeydi. Böyle durumlarda 100 SMA'nın (mavi) altına kırılmayı bekliyorum. İlk başta destek görevi 
+gördüğünü görebilirsiniz ve son düşük seviyelere göre bir destek çizgisi çizebiliriz. Fiyat bu seviyenin altına 
+düştüğünde 100 SMA'nın dayanamadığı açıktı. Kısa gitmek için iyi bir yerdi.
+Ayrıca MACD'nin negatife (0'ın altına) dönmesini beklemek de sorun değildi.
+Resim 11.3. Bazen onay için beklemek iyidir
+140
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 141 ===
+GBPJPY, 1 saat
+ATR ile ilgili temel sorun, fiyatın belirli bir aralıkta hareket etmesidir. Bu, herhangi bir ticaret sistemi veya yöntemiyle ilgili bir 
+sorundur. Menzil hareketleri sırasında aşırı ticaret yapmamak çok önemlidir. Şüpheniz varsa, durumu daha yüksek zaman 
+dilimlerinde kontrol edin.
+Resim 11.4. Menzil hareketinde karışık sinyal
+Bu durumda zamanla hareketin aralık dahilinde olduğu açıktır:
+Resim 11.5. Yatay çizgilerle işaretlenmiş menzil hareketi
+GMMA'yı kullanmak zorunda değilsiniz. Bazı yatırımcılar net bir tabloya sahip olmayı tercih ediyor. Bu iyi. İyi 
+arkadaşım ATR'yi iyi sonuçlarla kullanıyor. Grafikte 100 SMA, Bollinger Bantları, 21 DEMA ve 55 DEMA var. Bu 
+kurulumu temel alan bazı örnekleri görelim.
+SPX, 1 saat
+Bu, ATR'yi diğer sinyallerle birleştirmenin çok güzel bir örneğidir. Trendin aşağı yönlü olduğundan eminiz (daha 
+yüksek zaman dilimlerinde kontrol edildi, ayrıca fiyat 100 SMA'nın altında, MACD ve RSI negatif). ATR'den açık 
+pozisyona geçme sinyali geldi ve biz de bunu aldık.
+141
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 142 ===
+Aşağı doğru oldukça güçlü bir hareketti. Kapatmanın iki olası yolu vardı. İlki ATR'deydi. ATR kırmızıdan 
+yeşile döndüğünde kapanma zamanı gelmişti (grafikteki 2 numaralı kapanış). Biraz geç olduğunu 
+görebilirsiniz.
+Zaten kârlı bir pozisyonunuz varsa ve kârınızı korumak istiyorsanız daha erken çıkabilirsiniz. Bu durumda DEMA 
+ortalamalarının çaprazlanması söz konusuydu. RSI 50 çizgisinin üzerinde kapandı. Gördüğünüz gibi birkaç iyi pip 
+biriktirdik.
+Bu örneğin amacı pozisyonlara girmek ve çıkmak için sinyalleri karıştırabileceğinizi göstermektir.
+Uzun pozisyon açmadığımıza dikkat edin. ATR'den sinyal vardı ama 100 SMA'nın altındaydı.
+Resim 11.6. Sadece ATR'den gelen sinyallere göre değil, pozisyona girip çıkabiliyoruz.
+142
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 143 ===
+GBPJPY, 1 saat
+Çoğu zaman, daha büyük bir trend hareketi ararken ATR durağına bağlı kalmakta sorun yoktur. Aşağıdaki 
+grafikte neredeyse 1400 piplik hareketin tamamını yakalayabildiğinizi görebilirsiniz. DEMA, RSI veya 
+MACD'yi kontrol ettiğinizde sönecek sinyalleri görebilirsiniz. Bu senin kararın:
+– MACD/RSI/diğerinden sinyal aldığınızda güvenli oynayın ve kapatın. Daha sonra trende yeniden girin
+– uzun bir hamle için oynayın – mümkün olduğu kadar büyük hamleyi yakalamak istiyorsunuz
+Resim 11.7. ATR ile çok güçlü hamleler yakalayabilirsiniz
+143
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 144 ===
+Daha büyük trendleri yakalamak için ayarlar
+Son senaryo bir çatışmayı gösteriyor. Şu ana kadar ATR ve DEMA ortalamalarının örneklerine 
+bakıyorduk. Bir trend arıyorduk ama bir şeyler ters gittiğinde pozisyonu kapatıyorduk.
+Daha büyük trendleri yakalamak istiyorsanız tavsiyem işleri basit tutmanızdır. DEMA'yı SMA'ya değiştirin. 
+Neden? DEMA çok duyarlıdır ve olası bir trend değişikliğine hızlı tepki vermek istediğinizde harika çalışır. SMA 
+daha yavaştır ancak destek ve direncin iyi bir göstergesidir ve güçlü hareketler sırasında bu seviyeleri izlemek 
+istersiniz. O halde benim önerim şu:
+• 55 SMA
+• 100 SMA
+• 200 SMA
+Resim 11.8. Destek/direnç olarak ATR ve SMA ortalamaları
+144
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 145 ===
+GBPAUD, 1 saat, 100 ve 200 SMA birbirine yakın olduğunda
+Aşağıdaki grafikte bazen başka bir onay beklemenin sorun olmadığını görebilirsiniz. ATR'den açığa çıkma sinyali aldık 
+ancak fiyat hâlâ ortalamaların üzerindeydi. Burada 200 SMA'nın bir destek olduğunu görebilirsiniz. Bu durumda en iyi 
+seçenek kapanışın 200 SMA'nın altında olmasını beklemekti. Böyle bir yakınlığın olduğunu ve kısa devre yapmak için 
+en iyi yerin burası olduğunu görebilirsiniz.
+Resim 11.9. ATR ve ortalamalarla kısa vadeli ticaret
+145
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 146 ===
+WTI OIL, 1 saat, 100 ile 200 SMA arasında mesafe olduğunda
+Ortalamaları izlemenin iyi olduğuna bir başka örnek. ATR'den açığa satış sinyali vardı ancak hala 100 SMA 
+ve 200 SMA'nın üzerindeydi. Soru şu; yukarıdaki örnekte olduğu gibi 100 SMA'nın mı yoksa 200 SMA'nın 
+mı altında açık pozisyon açacaksınız? 100 ila 200 SMA arasındaki mesafeye bağlıdır. Son örnekte 100 ile 
+200'ün birbirine çok yakın olduğu bir durum gördük. 200 seviyesinin altına kadar beklemek en iyisiydi.
+Burada 100 ile 200 arasında oldukça büyük bir mesafe olduğunu görüyorsunuz. Ayrıca 100 SMA'nın altında frenleme 
+sonrasında MACD'nin negatife döndüğünü de görebiliyoruz. Daha sıkı bir duruşla kapanıştan sonra 100 SMA'nın altına kısa 
+pozisyon almak en iyi fikirdi. 200 SMA'nın üzerinde açığa çıkmak o kadar da iyi bir fikir değil, ancak bazı durumlarda, daha 
+yüksek zaman dilimlerinde trendin düşüşte olduğunu bildiğimizde, biraz risk almakta sorun yok.
+Resim 11.10. 100 ile 200 SMA arasında boşluk olduğunda yapılan ticaret örneği
+146
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 147 ===
+GBPJPY, ATR fiyattan uzak olduğunda
+Her zaman her şey bir plana göre gitmez. Bu örneğe bir göz atın. Açığa çıkma sinyali aldık ve 
+onu aldık. Bir süre sonra geri çekilme yaşandı.
+ATR durağının nerede olduğuna bir bakın.
+Oldukça uzakta. Çoğu durumda kayıpla çıkmak için bu çizginin üzerinde bir kapanışı beklerdik. Bu durumda 100 ve 
+200 ortalamalarından daha fazla bilgiye sahip oluyoruz. Açığa çıktıktan sonra fiyat 100 ve 200'ün üzerine çıktı. Ayrıca 
+MACD pozitife döndü. ATR çizgisinin üzerinde bir kapanışı beklemek yerine burada daha küçük bir kayıp almak daha 
+iyiydi.
+Size her olası senaryoyu göstermek imkansızdır. Demek istediğim şu ki, işlemde kalma/işlemi kapatma 
+konusunda karar vermek için ATR dışındaki sinyalleri de alabilirsiniz.
+Resim 11.11. ATR'nin giriş noktasından uzakta olduğu örnek. Diğer sinyale göre çıkabiliriz
+147
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 148 ===
+Sırada ne var?
+Ticaret kolay değil. Pratik yapmalısınız, pratik yapmalısınız, pratik yapmalısınız. Bu e-kitapta açıklanan yöntem ve 
+örneklerin size farklı araçlarla nasıl yatırım yapabileceğinizi gösterdiğini umuyorum.
+Ticareti seviyorum çünkü her gün öğrenmeniz gerekiyor. Yıllarca tek bir yönteme bağlı kalmak mümkün değil. Örneğin 
+Fibonacci. Bu teknik hakkında çok şey yazdım. ABCD formasyonlarını kullanmada ustalaştığınızda, Gartley Formasyonları 
+hakkında daha fazla bilgi edinebilirsiniz; bu, ticaret yapmanın harika bir yoludur (ancak Fibo'da ustalaşmanız gerekir). 
+Başka bir şey de fiyat hareketidir - aynı zamanda ticaret yapmanın çok güçlü bir yoludur. Oluşumlar - onları unutmayalım.
+Peki ya para yönetimi?
+Gördüğünüz gibi hala öğrenecek çok şey var. Ticaret kolay değildir ancak ticaret hesabınızda sonuçları 
+görmeye başladığınızda eğlenceli olabilir. Ticaretinizde iyi şanslar, umarım nasıl karlı ticaret yapabileceğinizi 
+daha iyi anlamanıza yardımcı oldum.
+148
+www.forexgercekleri.xyz - [Twitter: @eseckal]

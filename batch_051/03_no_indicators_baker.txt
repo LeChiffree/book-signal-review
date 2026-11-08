@@ -1,0 +1,1149 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 1\Baskı 1\Kokuşmuş İndikatörlere İhtiyacımız Yok - Kevin Baker (39 sayfa) - @eseckal.pdf
+PAGES: 39
+
+
+=== PDF PAGE 1 ===
+Sayfa | 1
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+Bölüm 1 - Teknik Göstergeler ................................................... ......... 3
+Bölüm 2 - Şamdan Desenleri.................................................. ......... 5
+Bölüm 3 – Arz ve Talebe Giriş.................................. 9
+Arz ve Talep Temelleri.................................................. ................................. 10
+Arz ve Talep Bölgelerinin Çizilmesi ................................................... ................ 11
+Bölgelerin Mukavemetinin Belirlenmesi ................................................... .................. 14
+Bölüm 4 – Arz ve Talebi Kullanarak Ticaret................................. 17
+Uzun Vadeli Stratejiler.................................................. ................................................... 17
+Swing Ticaret Stratejileri.................................................. .................................. 18
+Gün Ticaret Stratejileri ..................................................... .................................. 21
+Bölüm 5 – Risk Yönetimi ................................................... ...........25
+Bölüm 6 – Risk Yönetimine Bölgelerin Uygulanması …… ................29
+Bölüm 7 – Bir Ticaret Planı Geliştirme..................................................33
+Bölüm 8 – Temel Seçenekler.................................................. ..................35
+Bölüm 9 – Buradan Nereye Gidiyoruz?................................................................39
+Sayfa | 2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Bölüm 1
+Teknik Göstergeler
+Teknik göstergeler, yatırımcıların bir işleme ne zaman girip çıkacakları konusunda karar vermelerine yardımcı 
+olmak için kullandıkları araçlardır. Osilatörler, hareketli ortalamalar ve trend çizgilerinden karmaşık 
+matematiksel formüllere kadar çeşitlilik gösterirler. Göstergeler iki kategoriye ayrılır: öncü ve gecikmeli. Genel 
+olarak konuşursak, RSI ve Stokastik gibi osilatörler öncü göstergeler olarak kabul edilirken, MACD gibi hareketli 
+ortalamalardan türetilen göstergeler gecikmeli göstergeler olarak kabul edilir. Gecikmeli göstergeler sizi 
+ticarete geç sokar ve öncü göstergeler yanlış sinyallere eğilimlidir. Yatırımcıların kullanabileceği 100'den fazla 
+farklı teknik gösterge vardır, ancak dünyadaki tüm zamanı ve parayı bunları öğrenmek için harcayabilirseniz, 
+başladığınız andan çok daha iyi durumda olmazsınız. Jim Kramer'in konuklarının, RSI'nin aşırı satış gösterdiğini 
+ve MACD'nin yükseliş eğilimi gösterdiğini söylediklerinde ne dediklerini anlayabilirsiniz ve harika görünen bir 
+ekranınız olabilir, ancak bu sizi daha iyi bir yatırımcı yapmayacaktır.
+Buna bir benzetme, hava durumunu tahmin etmeye çalışmak olabilir. Aşağıdakiler doğrudan Wikipedia'dan 
+geliyor.
+Hava tahmini, belirli bir yer için atmosferin durumunu tahmin etmek amacıyla bilim ve 
+teknolojinin uygulanmasıdır. İnsanlar binlerce yıldır gayri resmi olarak ve on dokuzuncu 
+yüzyıldan beri resmi olarak hava durumunu tahmin etmeye çalışmaktadır. Hava tahminleri, 
+belirli bir yerdeki atmosferin mevcut durumu hakkında niceliksel veriler toplanarak ve o yerdeki 
+atmosferin nasıl gelişeceğini tahmin etmek için atmosferik süreçlere ilişkin bilimsel anlayış 
+kullanılarak yapılır.
+Bir zamanlar barometrik basınç, mevcut hava koşulları ve gökyüzü koşullarındaki değişikliklere 
+dayalı olarak tüm insanların katıldığı bir çaba olan hava tahmini, artık birçok atmosferik faktörü 
+hesaba katan bilgisayar tabanlı modellere dayanmaktadır. Tahminin dayandırılacağı mümkün 
+olan en iyi tahmin modelini seçmek için hala insan girdisine ihtiyaç vardır; bu, model tanıma 
+becerilerini, tele bağlantıları, model performansı bilgisini ve model önyargılarına ilişkin bilgiyi 
+içerir. Atmosferin kaotik doğası, atmosferi tanımlayan denklemleri çözmek için gereken devasa 
+hesaplama gücü, başlangıç   koşullarının ölçülmesindeki hatalar ve atmosferik süreçlerin eksik 
+anlaşılması, mevcut zaman ve atmosfer arasındaki fark arttıkça tahminlerin doğruluğunun 
+azalması anlamına gelir. Tahminin yapıldığı süre (tahmin aralığı) artar. Toplulukların ve model 
+fikir birliğinin kullanılması, hatanın daraltılmasına ve en olası sonucun seçilmesine yardımcı olur.
+Tanıdık geliyor mu? Ülkemin bulunduğu bölgede hava durumu tahminleri genellikle %50 civarında doğrudur.
+Teknik göstergelerin dezavantajları hakkında yazarak çok zamanınızı boşa harcayabilirim, ancak bu 
+kitabın konusu bu değil. Ticarette yeniyseniz daha iyi bir yol var. Tecrübeli bir yatırımcıysanız ve benimle 
+aynı fikirde değilseniz, favori göstergelerinizi kullanmaya devam ederken başarılı işlem yüzdenizi artırmak 
+için bu kitapta öğrendiğiniz kavramları yine de uygulayabilirsiniz.
+Sayfa | 3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Eminim sürekli para kazanan bazı teknik yatırımcılar vardır, ancak bunlar kural değil istisnadır. Bu 
+yatırımcıların başarılı olmasının nedeninin teknik göstergelerle hiçbir ilgisi yoktur, tamamen risk 
+yönetimiyle ilgilidir. En iyi profesyonel yatırımcılar ticaret planlarına sadık kalırlar ve asla bu plandan 
+sapmazlar.
+Aynı katı risk yönetimi kurallarını kullandıysanız ve ticaret planınız "Yalnızca bir geri çekilmeden sonra bir yükseliş trendinde alım yapıyorum ve 
+bir geri çekilmeden sonra bir düşüş trendinde kısa pozisyon alıyorum" şeklinde belirtmiş olsaydınız, yine de aynı sonuçları elde edebileceğinizi 
+iddia ederdim.
+Çoğu durumda, amatör tüccarlar teknik göstergeleri, batıl inançlı kumarbazların saçma ritüellere 
+giriştiği şekilde kullanırlar. Hiç kumarhanede barbut oyunu oynadınız mı? Zaman zaman bayiler ara 
+verecek ve yerlerine yeni bayiler gelecektir. Batıl inançlı kumarbazlara göre bu açıkça “kötü şanstır”. 
+Bu ne zaman olursa olsun, en tuhaf olaylardan birine tanık olacaksınız; bu oyuncular aniden tüm 
+bahislerini geri alacak ve oyundan çıkacaklar. Zar atıcının bir sonraki atışının yedi olması ve herkesin 
+kaybetmesine neden olması durumunda, ki bu altı atışta bir gerçekleşecektir, bu oyuncular bunu 
+hemen gelen yeni dağıtıcılara bağlarlar. Eğer zar atıcının bir sonraki atışı yedi değilse, geri 
+atlayacaklardır. çünkü fırtınayı atlattılar. Açıkçası hiçbir şey değişmedi - ne olursa olsun atış %16,7 
+oranında yedi olacak - ancak her şey üzerinde bir tür kontrole sahip olduklarından eminler.
+Bunun için pek çok psikolojik terim var - doğrulama yanlılığı, kumarbazın yanılgısı - ama asıl mesele şu ki 
+insanlar mantıksız davranıyorlar.
+Bu size saçma gelebilir ama ticarette de oluyor. Bir tüccar, bir satın alma işlemi yapmadan önce 
+bir MACD geçişi arayabilir ve daha sonra bu ticaret karlı çıkarsa, tüccar MACD geçişini 
+kredilendirecektir. Ticaretin kârlı olmadığı ortaya çıkarsa, bunun suçunu başka bir dışsallığa 
+atacaklar.
+Teknik göstergeleri kullanmanın bir diğer olumsuz yanı da profesyonel yatırımcıların teknik göstergelerin insanlara ne 
+söylediğini bilmesidir. Bu sizi profesyonel stoper avcılarının hedefi haline getirir. Fiyat dönüp orijinal ticaretinizin 
+yönüne gitmeden hemen önce durdurulmak üzere kurulmuş mükemmel bir ticarete kaç kez girdiniz? Profesyonel 
+yatırımcılar hangi stratejilerin popüler olduğunu biliyor ve bundan nasıl yararlanacaklarını biliyorlar. Ayrıca en yakın 
+arz veya talep bölgesinin nerede olduğunu da biliyorlar ve eğer mevcut fiyattan yeterince uzaktaysa, piyasayı sizin 
+aleyhinize hareket ettirmek ve tüm durakları ortadan kaldırarak daha iyi bir fiyatla girmelerine olanak sağlamak için 
+fazlasıyla yeterli sermayeye sahipler. fiyat. Durağınızı her zaman bir talep bölgesinin altına veya bir tedarik bölgesinin 
+üstüne yerleştirerek, avcıları durdurmaya karşı daha dayanıklı olursunuz.
+Ama kendimin önüne geçiyorum. Bölüm 3'te arz ve talep bölgeleri hakkında daha fazla konuşacağız.
+Arz ve talebe geçmeden önce mum çubuğu formasyonlarının temellerini gözden geçirelim.
+Sayfa | 4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Bölüm 2
+Şamdan Desenleri
+Şamdanlar nedir?
+Şamdan grafikleri, geleneksel çubuk grafikle aynı bilgileri (açılış, en yüksek, en düşük ve kapanış fiyatları) sağlar 
+ancak bunu, tek bir zaman dilimi veya zaman dilimleri serisi sırasındaki fiyat hareketinin daha görsel bir tasviri 
+olacak şekilde yapar.
+Bir mum çubuğu, belirli bir zaman aralığında piyasanın gücü veya zayıflığı hakkında önemli bilgiler sağlayabilir 
+ve kapanışın açılışa göre nerede olduğunu görsel olarak gösterebilir. Bir mum çubuğu bir ayı, haftayı, günü 
+veya gün içi zaman aralığını temsil edebilir. Yeşil gövde, fiyatların dönem içinde açılıştan kapanışa kadar 
+yükseldiğini gösterir ve yükseliş işaretidir. Kırmızı gövde, fiyatların dönem boyunca açılıştan kapanışa kadar 
+daha düşük hareket ettiğini gösterir ve bir düşüş işaretidir.
+Her ne kadar gövdenin rengi genellikle bir ticaret seansının yükseliş veya düşüş tonunu belirlese de, 
+fitiller de önemlidir; bu da yatırımcıların gövdede kapanmadan önceki dönemde fiyatları ne kadar 
+zorlamaya istekli olduklarını gösterir.
+Mum grafiği üzerinde çalışırsanız, grafikçilerin kullandığı birkaç mum çubuğu modeli olduğunu 
+göreceksiniz. Bunların çoğu kararsızlık kalıpları veya tersine dönme kalıpları olarak sınıflandırılabilir. Çoğu 
+desen birden fazla mumdan oluşur, ancak biz yalnızca üç desenle ilgileniyoruz. Bu desenlerin üçü de tek 
+mumdan oluşuyor ve mumun rengi bizim için önemli değil.
+Sayfa | 5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Doji Mumları
+Doji mumlarının çeşitli türleri için çeşitli isimler 
+vardır, ancak bizim ilgilendiğimiz sadece solda 
+gösterilen üç tanesidir. Gövde fitillere göre 
+küçük olduğu ve gövde temelde ortalandığı 
+sürece bu mumu kullanırız. bir kararsızlık 
+mumu olarak temsil eder. Bu mumların 
+üçünde de piyasanın açıldığını, fiyatın açılış 
+seviyesinin üstüne ve altına indiğini ve 
+ardından açılışa oldukça yakın bir yerde 
+kapandığını görebilirsiniz. Bu bize şu an için 
+arz ve talebin dengede olduğunu söylüyor.
+Kayan yıldız
+Kayan yıldız, düşüş yönlü bir tersine dönüş 
+formasyonudur. Üstteki uzun fitil, fitilin üst 
+kısmında belirtilen fiyata ulaşıncaya kadar 
+alıcıların kontrolü elinde tuttuğunu gösteriyor. 
+Bu noktada satıcılar kontrolü elinde tuttu ve 
+fiyatı açık seviyenin yakınına veya altına çekti. Bu 
+mumun alt kısmında küçük bir fitil olabilir.
+Çekiç
+Üçüncü model çekiçtir. Bu bir yükseliş 
+dönüş formasyonudur. Açılışta fiyat fitilin 
+dibinin gösterdiği noktaya ulaşana kadar 
+satıcılar kontroldeydi. Bu noktada, alıcılar 
+kontrolü ele aldı ve fiyatı tekrar açık 
+seviyeye veya daha yükseğe itti.
+Sayfa | 6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Başka birkaç mum çubuğu modeli daha vardır ancak bunları öğrenmeye gerek yoktur. Tüm mum çubuğu 
+dönüş formasyonlarını analiz ederseniz, mumları bir araya getirirseniz, bunların yükseliş dönüş formasyonları 
+için bir çekiç ve düşüş dönüş formasyonları için kayan bir yıldız oluşturacağını göreceksiniz, ancak bunların 
+daha uzun bir süre içinde oluşması dışında zamanın
+Daha sonraki bölümlerde arz ve talep ticaretinden bahsederken, fiyatın bir pivot noktasına ne kadar hızlı 
+girip çıkarsa, arz ve talep dengesizliğinin de o kadar güçlü olacağını öğreneceksiniz. Bu nedenle ticaret 
+kurulumlarımızda sadece çekiçleri ve kayan yıldızları kullanmak istiyoruz. Aşağıda bu tersine dönme 
+modellerinden birkaçı gösterilmektedir. Mumları bir araya getirmek için, ilk mumun açılışını, son mumun 
+kapanışını ve fitilleri çizmek için desendeki en yüksek ve en düşük dip noktalarını alırsınız. Eğer kapanış 
+açılıştan daha düşükse, kırmızı bir mumunuz var, aksi takdirde yeşil bir mumunuz var.
+Sayfa | 7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Bölüm 3
+Arz ve Talebe Giriş
+Bu kitaptaki en önemli bölümdür. Bu yüzden bunu birkaç kez okumayı unutmayın. Gözden 
+geçirmeyin! Tamamen anladığınızdan emin olun. Piyasaların sırrını öğrenmek üzeresiniz.
+Piyasalar söz konusu olduğunda genellikle iki düşünce okulu vardır. Bunlardan ilki, bazen Etkin Piyasa Hipotezi 
+olarak da adlandırılan ve menkul kıymetlerdeki fiyat hareketlerinin öngörülemez olduğunu belirten Rastgele 
+Yürüyüş Teorisidir. Bu rastgele yürüyüş nedeniyle yatırımcılar bir bütün olarak piyasadan daha iyi performans 
+göstermeyi bekleyemezler.
+Rastgele Yürüyüş Teorisinin savunucuları, piyasanın zamanını belirlemeye çalışmak için temel veya teknik 
+analizin uygulanmasının, düşük performansa yol açacak bir zaman kaybı olduğunu savunacaklardır. Bu teoriye 
+göre yatırımcıların bir endeks fonu satın alması ve elinde tutması daha iyi olacaktır.
+Bu teori, hisse senedi fiyatlarının, bilinen tüm bilgileri (kazançlar, beklentiler ve temettüler) yansıttığı 
+için etkili olduğunu savunur. Fiyatlar yeni bilgilere hızla uyum sağlar ve bu bilgilere göre hareket 
+etmek neredeyse imkansızdır. Dahası, fiyat yalnızca yeni bilgilerin ortaya çıkmasıyla hareket eder ve 
+bu bilgiler rastgele ve öngörülemezdir.
+Rastgele Yürüyüş Teorisinin karşıtları, gelecekteki fiyat hareketinin önceki fiyat hareketi ile tahmin edilebileceğine 
+inanmaktadır. Teknik analize inanma eğilimindedirler ve teknik göstergelerin, grafik modellerinin ve trend çizgilerinin 
+gelecekteki fiyat hareketlerini tahmin etmeye yardımcı olabileceğine inanırlar.
+Rastgele Yürüyüş Teorisinin muhalifleri kısmen haklıdır; gelecekteki fiyat hareketlerini önceki fiyat geçmişine 
+dayanarak tahmin edebilirsiniz ancak teknik göstergeleri kullanamazsınız. Arz veya talebin fazla olduğu alanların 
+nerede olduğunu bize göstermek için önceki fiyat hareketlerini kullanırız.
+Bir piyasada fiyat hareketini yönlendiren güçler arz ve taleptir.
+Bu kitapta arz fazlası ve talep fazlası olan bu alanların nasıl planlanacağını öğreneceksiniz. Arz fazlası 
+veya talep fazlası olasılığının yüksek olduğunu bildiğinizde, herhangi bir piyasada işlem yaparken 
+daha iyi kararlar vermek için bu bilgiyi kullanabilirsiniz.
+İyi haber şu ki, yatırım inancınız ne olursa olsun bu kitabı faydalı bulacaksınız. İster Rastgele Yürüyüş 
+Teorisini benimseyin, ister teknik analize inanın, bu kitapta öğrenecekleriniz sizi daha iyi bir tüccar 
+veya yatırımcı yapacaktır.
+Sayfa | 8
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Şimdi bu kitabın konusunun özüne inelim: arz ve talep. Arz ve talep, herhangi bir 
+pazarda fiyatı yönlendiren güçlerdir.
+Eğer bir mikroekonomi dersi aldıysanız, arz ve talebin piyasada fiyat belirlemenin ekonomik bir 
+modeli olduğunu biliyorsunuzdur. Rekabetçi bir piyasada, belirli bir malın birim fiyatı, tüketiciler 
+tarafından talep edilen miktarın (cari fiyatta) üreticiler tarafından arz edilen miktara (cari fiyatta) 
+eşit olacağı bir noktaya sabitlenene kadar değişeceği ve sonuçta Fiyat ve miktar açısından 
+ekonomik denge.
+Arz ve talebin dört temel kanunu şunlardır:
+1. Eğer talep artar ve arz değişmeden kalırsa, bir kıtlık meydana gelir ve bu da daha yüksek bir denge 
+fiyatına yol açar.
+2. Eğer talep azalırsa ve arz değişmeden kalırsa, fazlalık oluşur ve bu da denge fiyatının 
+düşmesine neden olur.
+3. Talep değişmeden kalırsa ve arz artarsa, fazlalık oluşur ve bu da denge fiyatının düşmesine 
+neden olur.
+4. Eğer talep değişmezse ve arz azalırsa, bir kıtlık meydana gelir ve bu da daha yüksek bir denge 
+fiyatına yol açar.
+Sayfa | 9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Bunu ticarete uygularsak, arz istekli satıcıları, talep ise istekli alıcıları temsil eder. Aşağıdaki tabloya 
+bakın. Fiyatın yönü her değiştiğinde arz ve talep arasındaki ilişki de değişti. Kırmızı noktayla 
+işaretlenen alanlar, arzın talepten daha fazla olduğu noktalardır ve mavi noktalarla işaretlenen 
+alanlar, talebin arzdan daha güçlü hale gelerek trendin tersine dönmesine neden olduğu alanlardır. 
+Piyasalar yükseliş eğilimi gösterdiğinde talep arzdan daha fazladır ve düşüş eğilimi gösteren 
+piyasalar için bunun tersi geçerlidir.
+Hisse senedinin dar bir aralıkta yatay işlem gördüğü alanlar, arz ve talebin dengede olduğu 
+alanlardır.
+Bu arz ve talep alanlarının nerede olduğunu 
+bilirsek tüccarlar olarak rekabet avantajı 
+kazanabiliriz. Bunları grafiklerimize arz bölgeleri 
+ve talep bölgeleri olarak yerleştiriyoruz.
+Önceki fiyat hareketlerine bakarak bu arz ve 
+talep alanlarının nerede olduğunu 
+belirleyebiliriz. Öncelikle bu bölgeleri nasıl 
+çizeceğimizi öğrenmemiz gerekiyor, ardından 
+bize karlı bir ticaret düzeni sağlama olasılığı en 
+yüksek olan bölgeleri nasıl belirleyeceğimizi 
+öğrenmemiz gerekiyor.
+Bölgeleri çizme
+Arz ve talep alanlarını tanımlamanın ve çizmenin farklı yöntemleriyle başlayalım.
+Tespit edilmesi en kolay bölge, trendin 
+yönünde bariz bir değişikliğin olduğu 
+zamandır. Pivotu oluşturan mum, bölgeyi 
+çizmek için kullanılan mumdur. Aşağıdaki 
+grafikte bu yöntemin kullanıldığı bir arz ve 
+talep bölgesi örneği gösterilmektedir. 
+Pivotu oluşturan mumun üstüne ve altına 
+yatay bir çizgi yerleştirin ve ticaret 
+platformunuzda varsa dikdörtgen aracıyla 
+bölgeyi doldurun.
+Sayfa | 10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Çoğu zaman günlük bir mum çok büyük bir 
+bölge oluşturacaktır. Bu gerçekleştiğinde, 
+bölgenin oluştuğu güne ait saatlik 
+grafiğinizi açın, bölgenizi saatlik mumun 
+etrafına yerleştirin ve bu bilgiyi günlük 
+grafiğinize aktarın. Arz bölgesinin tepesi ve 
+talep bölgesinin tabanı her zaman en uç 
+fiyat noktasında çizilecektir, ancak saatlik 
+grafiği kullanarak daha dar bir bölge 
+çizebiliriz. Arz ve talep bölgelerini kullanarak 
+nasıl ticaret yapacağımızı tartıştığımızda 
+bunun önemini göreceksiniz.
+Bölgeleri belirlemenin bir sonraki yöntemi, fiyatın 
+yanlara doğru ve birkaç çubuk boyunca dar bir 
+aralıkta işlem gördüğü ve ardından bu aralıktan 
+dramatik bir şekilde uzaklaştığı bir alanı aramaktır. 
+Grafiğin sol tarafında, fiyatların 6 barlık dar bir 
+aralıkta işlem gördüğünü ve ardından dramatik bir 
+şekilde düştüğünü görüyoruz. Bir dahaki sefere fiyat 
+bölgeye girdiğinde trend tersine döndü ve bize kısa 
+bir fırsat verdi.
+Sayfa | 11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Grafiğin sol tarafında, fiyatların birkaç çubuk için dar 
+bir aralıkta işlem gördüğünü ve ardından dramatik bir 
+şekilde yükseldiğini görüyoruz. Bir dahaki sefere fiyat 
+bölgeye girdiğinde trend tersine döndü ve bize harika 
+bir satın alma fırsatı verdi.
+Bir bölgeyi tanımlamanın üçüncü yöntemi, bir 
+arz bölgesi için güçlü bir düşüş eğiliminin 
+yaklaşık yarısında kararsızlık alanları aramaktır 
+veya bir talep bölgesi için tam tersidir. 
+Kararsızlık alanlarını tespit etmenin en kolay 
+yolu doji mumudur. XOM açıldıktan sonra fiyat 
+bir yönde yükseldi, tersine döndü ve diğer 
+yönde açıktan geçti ve ardından açıldığı yere 
+yakın bir yerde tekrar tersine döndü.
+Sayfa | 12
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Bölgeleri tanımlamanın son yöntemi 
+boşlukları aramaktır. Bir hisse senedinde 
+yukarı veya aşağı boşluk oluştuğunda arz ve 
+talep dengesinde ani bir değişiklik meydana 
+gelir. Fark ettiği fiyatın güçlü bir destek veya 
+direnç çizgisi olması çok muhtemel. 
+İşlemlerinizi yönetirken bunu aklınızda 
+tutmanız gerekir, ancak gerçek bölgeyi çizmek 
+yukarıdaki tekniklerle aynıdır. Grafiğe aradaki 
+boşluk büyük bir mummuş gibi bakmanız 
+gerekir. Aşağıdaki grafik bunu 
+göstermektedir. Aslında iki boşluk var. 
+Anlaşılır olması açısından mumları kırmızı 
+yerine mavi çizdim, böylece mumu çizmeden 
+önce grafikte boşluğun nerede olduğunu 
+görebilirsiniz. Fiyatların düştüğü iki alan 
+muhtemelen yükseliş yolunda direnç 
+oluşturacaktır, ancak yine de mumlar 
+gösterildiği gibi arz bölgemizi çiziyoruz.
+Bölgelerin gücünün belirlenmesi
+Trendin yön değiştirdiği her sefer, bunun nedeni arz ve talep dengesindeki bir değişikliktir, 
+ancak bunu kendi avantajımıza kullanmak için, fiyatın o bölgeye bir sonraki dönüşünde bu 
+dengesizliğin orada olma olasılığını bilmemiz gerekir. Arz ve talep bölgeleri, destek ve 
+direnç hatlarına benzer; arz bölgeleri direnç sağlar ve talep bölgeleri destek sağlar. Fiyat 
+bir arz bölgesini kırdığında bir talep bölgesi haline gelir ve fiyat bir talep bölgesini 
+kırdığında bir arz bölgesi haline gelir; tıpkı bir direnç hattının kırıldığında desteğe ve bir 
+destek hattının dirence dönüşmesi gibi.
+Ancak benzerlikler burada bitiyor. Bir destek veya direnç çizgisinin çizilmesi için zamana göre ayrılmış en 
+az iki nokta gerekir; burada bir arz veya talep bölgesi bir mumdan çizilebilir. Çoğu yatırımcı size bir destek 
+veya direnç çizgisinin çizilmesi için üç puana sahip olmanız gerektiğini söyleyecektir. Yatırımcılara ayrıca 
+fiyatın bir destek veya direnç çizgisinden ne kadar çok sıçrarsa o çizginin o kadar güçlü olacağı öğretiliyor. 
+Aslında tam tersi doğrudur.
+Sayfa | 13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Arz veya talep alanına neyin sebep olduğunu düşünün. Bu fiyat noktasında satıcı veya 
+alıcının fazlalığıdır. Fiyatın bu alana her girişinde, satıcı veya alıcıların fazlası, sonunda onlar 
+yok olana ve fiyat kırılıncaya kadar kullanılır.
+Bölge belirlemek için alanlar ararken, fiyatın hızlı bir şekilde hareket ettiği alanları ararız. Fiyat bölgeye 
+hızlı bir şekilde hareket ederse bu daha da iyi olur.
+Fiyatın bu bölgeye nasıl hızlı bir şekilde girip 
+çıktığına dikkat edin; bu, söz konusu fiyat 
+noktasında güçlü bir arz fazlası olduğunu gösterir. 
+Fiyatlar bölgeye geri döndüğünde satıcıların hâlâ 
+orada olma ihtimali son derece yüksek.
+Daha sonra fiyatın o bölgeyi kaç kez test ettiğine bakmak istiyoruz. En yüksek yüzdeli ticaretiniz, daha önce hiç 
+test edilmemiş yeni bir bölgedir. Bir arz veya talep bölgesi çizdiğinizde, bölgeyi oluşturan mumun aslında 
+önceki bölgenin yeniden testi olup olmadığını görmek için grafiğinizde sola gidin. Eğer öyleyse, o zaman burası 
+yeni bir bölge değil. Bunu yaptığımda listelerimde en az beş yıl geriye gitmeyi seviyorum.
+Fiyatların hızlı bir şekilde hareket ettiği bir 
+tedarik bölgemiz var, ancak fiyat geri 
+döndüğünde aslında bu bölgeyi aştı. Bölgeyi 
+tanımlamak için kullandığımız çubuğun soluna 
+baktığımızda bu çubuğun aslında bölgeye 
+ikinci kez dönen fiyat olduğunu görüyoruz. 
+Burası ilk bakışta güçlü bir tedarik bölgesi gibi 
+görünse de biraz daha bakınca bunun yeni bir 
+bölge olmadığını görüyoruz. Yüksek olasılıklı 
+işlemlerimiz bölgeye ilk kez fiyat dönüşleridir. 
+Aşağıdaki grafik bize aynı bölgeyi daha fazla 
+bilgiyle göstermektedir. Orijinal tedarik 
+bölgesi netlik sağlamak için mavi renkteydi.
+Sayfa | 14
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Bu örnek açıktır, ancak çoğu zaman bunun bir 
+önceki bölgenin yeniden testi olmadığından emin 
+olmak için biraz daha dikkatli bakmamız gerekir. Bu 
+son derece önemlidir çünkü yeni bir bölge her 
+zaman en güçlü bölgedir.
+Özetleyelim. Güçlü bir bölge ararken, fiyatın hızla bölgeye girip hızla çıktığını görmek istiyoruz 
+ve bölgenin yeni bir bölge, yani daha önce test edilmemiş bir bölge olduğundan emin olmak 
+istiyoruz.
+Bölge, fiyat eğiliminin tersine çevrilmesiyle oluşturulduysa, o zaman fiyatın kısa bir süre 
+bölgede kalmasını da isteriz; ne kadar kısa olursa o kadar iyidir. Bölge, dar bir aralıkta yanlara 
+doğru fiyat ticareti ve ardından bir kırılma ile oluşturulduysa, bölgede üç ila altı mum kabul 
+edilebilir.
+Bu kitabı okuduktan sonra mevcut stratejinize devam etmeye karar verirseniz, en azından 
+bu üç kavramı anlayın. Bu kurallara uyarsanız, bu kitabın bedelini kat kat ödeyeceksiniz.
+-
+-
+Tedarik satın almayın. Başka bir deyişle, giriş fiyatınızın hemen üzerinde bir arz bölgesi 
+varsa, ya fiyat bu bölgeyi kırana kadar beklemeli ya da işlem yapmamalısınız.
+Talep üzerine satış yapmayın. Bir hisse senedinde açığa satış yapıyorsanız ve giriş fiyatınızın 
+hemen altında bir talep bölgesi varsa, ya fiyat talep bölgesini geçene kadar bekleyin ya da 
+işlemi yapmayın.
+- Kısa veya uzun pozisyona gitmenize bağlı olarak en yakın arz veya talep bölgesini arayın ve 
+durağınızı arz bölgesinin birkaç kuruş yukarısına veya talep bölgesinin birkaç kuruş altına 
+ayarlayın. Bunu yapmak çok fazla risk yaratıyorsa, o zaman ticareti yapmayın.
+Sayfa | 15
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Şimdi bu kitabı okumaya ara verip birkaç arz ve talep bölgesini çizmeyi denemek için iyi bir zaman. 
+Güçlü bölgeleri arayın ve ardından fiyatın bu bölgeye ilk kez nereden geldiğine bakın. Bunu birkaç 
+farklı hisse senedinde ve birkaç farklı zaman diliminde yapın. Ticaret bölgelerinin gücünü görmeye 
+başlayacaksınız. Kaybettiğiniz son beş işlemde bölgelerinizi çizmeyi deneyin ve yukarıdaki 
+kavramları uygulamanın sizi işlemin dışında tutup tutmayacağını görün. Bu kitaba dönmeden önce 
+en az bir saatinizi bununla geçirin.
+Devam et. Geri döndüğünde burada olacağım.
+Sayfa | 16
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+4. Bölüm
+Arz ve Talep Bölgelerini Kullanarak Ticaret Yapmak
+Artık arz ve talep bölgelerinin ne olduğunu ve bunların nasıl planlanacağını anladığınıza göre, bunları ticaretimizde 
+nasıl kullandığımıza bakmanın zamanı geldi.
+Bu kitabın başlığından da anlaşılacağı gibi, arz ve talep bölgelerini kullandığınızda herhangi bir teknik gösterge 
+kullanmanıza gerek kalmaz. İster uzun vadeli bir yatırımcı, ister swing trader, ister günlük trader olun, arz ve talep 
+stratejilerini uygulamak sizi daha iyi bir trader yapacaktır.
+Uzun vadeli yatırım
+Uzun vadeli bir yatırımcıysanız haftalık grafik 
+kullanacaksınız. Uzun vadeli yatırımcılar genellikle 
+teknik verilerden ziyade temel bilgilere dayalı 
+olarak işlem yapar, ancak uzun vadeli arz ve talep 
+seviyelerinin nerede olduğuna bakarak daha iyi 
+giriş fiyatları bulabilir ve ayrıca kârınızı korumak için 
+pozisyonunuzu koruma altına almanın ne zaman 
+uygun olduğunu bilebilirsiniz. Bu Exxon Mobile'ın 
+haftalık grafiğidir. 2010'un ortasında XOM, 56,00 ile 
+59,00 dolar arasında güçlü bir talep bölgesi 
+geliştirdi. Diyelim ki XOM'un uzun vadede iyi bir 
+alım olduğunu düşündünüz ve "A" noktası civarında 
+bir yerden alım yaptınız. Arz ve talep kavramlarını 
+anladığınız için, XOM'un 56,00 doların altına 
+düşmesi durumunda pozisyonunuzdan çıkmak 
+istediğinizi biliyorsunuz çünkü şansınız son derece 
+yüksek, düşmeye devam edecek. Ayrıca XOM için 
+ana tedarik bölgesinin 92,00 ila 95,00 dolar 
+civarında olduğunu ve büyüme için oldukça fazla 
+alan bıraktığını da biliyorsunuz. “B” noktasının 
+etrafındaki alan taze talep bölgesini, “C” noktasının 
+etrafındaki alan ise taze arz bölgesini oluşturdu.
+Fiyat “D” noktasındaki tedarik bölgesine döndüğünde artık bir karar vermeniz gerekiyor. Burası güçlü bir tedarik 
+bölgesi, dolayısıyla fiyatın buradan düşme ihtimali yüksek. Hisse senetlerinizi satabilir ve kazancınızı güvence altına 
+alabilirsiniz, ancak sermaye kazancı vergisi ödemeye tabiyseniz, kazançların uzun vadeli sermaye kazancı olmasına 
+yetecek kadar uzun süre hisse senedine sahip olmadığınız için satmak istemeyebilirsiniz.
+Sayfa | 17
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Kazançlarınızı koruyacak bir satım sözleşmesi de satın alabilirsiniz. En iyi seçenek 12 OCAK 95,00'lik bir 
+satış satın almak olacaktır. Bu sizi Ocak 2012'nin üçüncü Cuma gününe kadar koruyacaktır. Fiyat arz 
+bölgesinin tepesini aşarsa, küçük bir zararla satışınızı yaparsınız. 95,00 $'lık kullanım fiyatını satın 
+almanızın nedeni, zaman priminin maliyetini düşük tutmaktır. Hisse senedi “B” noktasının oluşturduğu 
+talep bölgesine ulaştığında, satım opsiyonunuzu uygulayacak ve hissenizi 95,00 dolardan satacaksınız. Bu 
+artık uzun vadeli sermaye kazancı olarak nitelendirilebilir. Artık hisse senedini 70,00 $'ın altında, 64,50 $ 
+civarındaki talep bölgesinin altında bir stopla geri satın alabilirsiniz.
+Hisselerinizi "D" noktasında satmak istememenizin tek nedeni sermaye kazancı vergileriyse, o zaman OCAK 2012 
+90,00'lik bir alım satımı satabilir ve bundan elde ettiğiniz gelirleri OCAK 2012 90,00'lik bir satım satın almak için 
+kullanabilirsiniz. Fiyatlar hemen hemen aynı olacaktır, yani temelde ücretsiz veya çok düşük bir maliyetle yerinizi 
+alıyorsunuz. Fiyat bölgeyi aşar ve bunun üzerinde kalırsa, sonunda hisse senedinizi 90,00 $'da kaybedersiniz, ancak o 
+zamana kadar kısa vadeli yerine uzun vadeli sermaye kazancı olarak nitelendirilir. Opsiyonlar herhangi bir zamanda 
+gerçekleştirilebilir, ancak fiyat önemli ölçüde artmadığı sürece vade tarihinden önce gerçekleştirilmeleri pek mümkün 
+değildir.
+Eğer “E” noktası civarında geri alım yaptıysanız, “D” noktasında yaptığınız stratejinin aynısını “F” 
+noktasında da tekrarlarsınız. "G" noktasında, birkaç hafta önce oluşan güçlü talep bölgesi nedeniyle 
+hedge pozisyonunuzu kapatacaksınız.
+“H” noktası büyük bir tedarik bölgesi ve ben tüm pozisyonları kapatırdım. Daha sonra, XOM'un hala iyi bir satın alma 
+olduğunu düşündüğümü varsayarak, ticarete yeniden girmek için fiyatın talep bölgesinin tepesini kırmasını 
+beklerdim.
+Salıncak ticareti
+Swing yatırımcıları ticari kurulumları aramak için günlük bir grafik kullanırlar. Arz ve talep ilkelerini uygulayarak 
+kullanabileceğimiz iki temel swing ticaret stratejisi vardır.
+“Trend senin dostundur” sözünü eminim duymuşsunuzdur. Trendle işlem yaptığınızda, mevcut 
+trendin geri dönüşüyle   işleminize girersiniz. Birçok yatırımcı giriş noktalarını bulmak için hareketli 
+ortalamaları veya Bollinger bantlarını kullanmayı sever. Arz ve talep hakkında şu anda bildiklerimizi 
+uygulayarak, bu bilgiyi ticaret yapılarımızı bulmak için kullanabiliriz. Kısa bir ticaret için, üst fitilin arz 
+bölgesinde olduğu bir düşüş mumu aramak istiyoruz. Uzun bir ticaret için, alt fitilin talep bölgesinde 
+olduğu bir yükseliş mumu arıyoruz.
+Bu yöntemle ticaret yaparken bölgenin ne kadar güçlü olduğu umurumuzda değil, sadece bir bölgenin orada 
+olduğundan emin olmak istiyoruz. Kısa bir ticaret için durağınız arz bölgesinin tepesinin birkaç kuruş üzerinde, uzun 
+bir ticaret için ise talep bölgesinin birkaç kuruş altında olmalıdır.
+Sayfa | 18
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Bu grafik Microsoft'un (MSFT) güçlü bir düşüş 
+trendinde olduğunu gösteriyor. Fiyat daha sonra 
+hızla arz bölgesine doğru yükselerek bize düşüş 
+mumu veriyor. Bu mumun oluşmasından sonra 
+stopumuzu arz bölgesinin birkaç kuruş 
+yukarısına yerleştirerek ticarete girerdik.
+İşte aynı talep bölgesinden iki uzun fırsat. 
+Talebin bir arz bölgesi olduğunu ve fiyat 
+bu bölgeyi aştığında talep bölgesine 
+dönüştüğünü unutmayın. Bu ticaret 
+kurulumları iki yeşil okla gösterilmiştir.
+Tüm geri çekilmelerin mevcut bir arz veya talep bölgesine olmayacağını, ancak bir bölgeye geri 
+çekilenlerin daha yüksek olasılıklı bir ticaret olduğunu ve stop fiyatımızı tanımlamamıza izin verdiklerini 
+unutmamak önemlidir.
+Sayfa | 19
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Trendin tersine de işlem yapabiliriz. Hakim eğilime karşı işlem yaparken yalnızca güçlü arz ve talep 
+bölgeleri arıyoruz. Ticarete talep bölgesinin tabanına mümkün olduğu kadar yakın, arz bölgesinin 
+tepesine ise mümkün olduğu kadar yakın giriyoruz. Bu bize daha yüksek bir risk-ödül oranı sağlıyor 
+çünkü işleme stop fiyatımıza daha yakın giriyoruz. Aşağıdaki grafikler bu stratejiyi kullanan uzun ve 
+kısa ticaret örneklerini göstermektedir.
+Kırmızı ve yeşil oklar, fiyatın arz ve talep bölgelerimize nereye taşındığını gösteriyor. Onay mumunu 
+beklemiyoruz; bunun yerine sadece ticareti alıyoruz ve durağımızı arz bölgesinin birkaç kuruş 
+yukarısına ve talep bölgesinin birkaç kuruş altına koyuyoruz. Riskimiz, giriş fiyatımız ile stopumuz 
+arasındaki farka göre belirlendiğinden, bu stratejinin oldukça yüksek bir ödül/risk oranına sahip 
+olduğunu görebilirsiniz.
+Bu grafik başka bir kısa kurulumu 
+gösteriyor ve aynı zamanda arz bölgesinden 
+geçen fiyatı da gösteriyor. Arz bölgesi artık 
+bir talep bölgesidir ve ertesi gün, yeşil okla 
+gösterilen, yeni talep bölgesinin alt 
+kısmında son derece düşük riskli, yüksek 
+ödüllü bir ticaret yaşadık.
+Sayfa | 20
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Günlük ticaret
+Arz ve talep bölgeleriyle ticaretin gerçekten heyecan verici hale geldiği yer burasıdır. Şu anda hisse senedi veya 
+opsiyon ticareti yapıyorsanız, bunu okuduktan sonra göstergelerinizi bir kenara atacaksınız. Aynı prensipler Forex ve 
+vadeli işlemler için de geçerlidir, ancak çoğu insanın iyi bir ticaret kurulumu bekleyecek sabrı yoktur. Şu anda forex 
+veya vadeli işlemlerde günlük işlem yapıyorsanız, yine de arz ve talep bölgeleriyle işlem yapmanızı tavsiye ederim. 
+Göstergeleri kullanarak alabileceğiniz kadar çok sayıda ticaret kurulumu elde edemeyeceğinizi unutmayın. Ticaret 
+kurulumlarınız daha kaliteli kurulumlar olacak ve sabrınız varsa daha fazla para kazanacaksınız.
+Öncelikle, çoğu günlük ticaret kursunda öğretilenlerle karşılaştırıldığında günlük ticaret konusunda sahip olduğum 
+farklılıklardan bahsetmek istiyorum.
+Çeşitlendirme.Çoğu günlük tüccar, riskinizi çeşitli pozisyonlara dağıtmanızı söyleyecektir. Buna 
+katılmıyorum. Günlük ticaret ortamında birden fazla pozisyonu yönetmek daha zordur. Birkaç 
+pozisyonda olmanın ama aynı anda iki veya üçten fazla olmamasının yanlış bir tarafı yok.
+Yalnızca yüksek ortalama günlük hacime sahip hisse senetleriyle işlem yapın.Bu mantıklı görünüyor, ancak normalde düşük 
+hacimde işlem gören bir hisse senedi, haberlerle birlikte günde birkaç milyon hissenin ticaretini çok kolay bir şekilde yapabilir. 
+Yalnızca yüksek hacimli stokları izleyerek birçok kaliteli işlemi kaçıracaksınız.
+Yalnızca fiyatı yirmi dolar ile yüz dolar arasında olan hisse senetleriyle işlem yapın.Bunu her duyduğumda 
+ürküyorum. 50,00$'lık bir hisse senedinin 1000 hissesinin alım satımı ile 500,00$'lık bir hissenin 100 hissesinin alım 
+satımı arasında kesinlikle hiçbir fark yoktur. 20,00$'ın altındaki hisse senetlerini ortadan kaldırırsanız birçok harika 
+işlemi kaçıracaksınız.
+Yalnızca yüksek ATR'ye sahip hisse senetleriyle işlem yapın.ATR veya ortalama gerçek aralık, bir hisse senedinin bir günde 
+hareket ettiği ortalama miktardır. Yatırımcıların sıklıkla şunu söylediğini duyuyorum: "100,00 $'lık hisse senetleriyle işlem yapmayı 
+seviyorum çünkü ATR'leri daha yüksek." Bir dakikalığına düşün bunu. Gerçekten aramak istediğiniz şey, hisse senedi fiyatının yüzdesi 
+olarak ortalama gerçek aralıktır. Yirmi sent ATR'ye sahip 10,00 $'lık bir hisse senedi, bir dolarlık ATR'ye sahip 100,00 $'lık bir hisse 
+senedinden daha iyi bir günlük alım satım hisse senedi olacaktır. Yüzde olarak ATR, 10,00 $'lık hisse senedinde yüzde iki ve 100,00 
+$'lık hisse senedinde yalnızca yüzde birdir.
+Tamam, artık bunu kafamdan çıkardığıma göre arz ve talep bilgimizi günlük ticarete nasıl 
+uygulayabileceğimize bakalım.
+Günlük ticaret yapabilmek için hesabınızda minimum 25.000,00 $ özsermaye bulunması gerekir. Gerçekten bundan 
+daha fazlasıyla başlamalısınız çünkü ilk işleminizde para kaybederseniz hesap bakiyeniz gerekli minimum seviyenin 
+altına düşecektir.
+Vadesinin dolmasına üç günden az bir süre kalan likit opsiyonlar haricinde, günlük alım satım 
+sırasında opsiyonlar yerine hisse senedi alım satımını şiddetle tavsiye ederim. Aracı kurumunuz size 
+ticaret için mevcut nakdin dört katını verecektir. Bu, her işlem gününün başlangıcında hesabınızdaki 
+nakit bakiyesine bağlıdır. Günün başında hesabınızda 30.000,00$ nakit varsa, 120.000,00$ satın 
+alma gücünüz olacaktır. Gün içinde istediğiniz kadar işlem yapabilirsiniz, ancak
+Sayfa | 21
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+hiçbir zaman stokta 120.000,00$'dan fazlasını tutamazsınız. Bir işlemden 10.000,00 $ kar elde 
+ederseniz, o gün için satın alma gücünüz yine de yalnızca 120.000,00 $ olacaktır. Günün kârı ertesi 
+güne kadar satın alma gücünüze dahil edilmez.
+Günlük ticaret yaparken, girişlerimiz için günlük grafikleri, çıkışlarımız için ise saatlik, hatta 5 dakikalık 
+grafiklere kadar kullanmak istiyoruz. Girişlerimizde günlük grafikleri kullanmamızın nedeni bölgelerin çok 
+daha güçlü olacağıdır. Bu şekilde işlem yaparken, bunların güçlü bölgeler ve yeni bölgeler olduğundan emin 
+olmak istiyoruz; bu, fiyatların hızla girip çıktığı ve başka bir bölgenin parçası olmadıkları anlamına gelir. Bu 
+bölgeler hiç test edilmedi. Aşağıdaki örneğe bakın.
+Günlük grafikte sarı dikdörtgenin sol tarafında yeni bir bölgenin oluştuğunu görüyorsunuz. Altı 
+gün sonra fiyat tekrar bölgeye doğru hareket ediyor. Beş dakikalık grafikte bölgenin tepesine 
+çok yakın bir yükseliş mumu görüyoruz. Eğer o mumun kapanmasından sonra işleme 
+girseydiniz, 67,90$'lık bir işlem almış olurdunuz. Durağınız 68,03$'a yerleştirilecektir. Fiyat 
+düşmeye başladıkça her geri dönüşte stopunuzu ayarlarsınız. Yatay kırmızı çizgiler, fiyat 
+düştükçe durakların nereye taşınacağını gösterir. Sonunda 66,11 $'da durdurulursunuz ve 
+komisyonlardan sonra hisse başına 1,77 $ kâr bırakırsınız, komisyon için bir kuruş gelir ve bir 
+peni çıkar varsayılırsınız. Hesabınızda 30.000,00 ABD Doları bakiyeniz olsaydı, 1750 hisseyi açığa 
+satabilir ve size 3.097,50 ABD Doları kâr bırakabilirdiniz. Başlangıçta işlem dışı bırakılsaydınız 
+262,50 $ kaybederdiniz. Bu ticaret neredeyse 12:1'lik bir ödül/risk oranıyla sonuçlandı.
+Çoğu zaman fiyat bir bölgeye doğru hızla hareket eder ve ticarete girmek biraz korkutucu olabilir. Muhtemelen 
+“Düşen bıçağı yakalamaya çalışmayın” sözünü duymuşsunuzdur. Bölgeleri planlamaya alışmaya başladığınızda, 
+bunların aslında yapılabilecek en iyi işlemler olduğunu ve çoğu zaman en iyi ödül-risk oranlarına sahip işlemler 
+olduğunu fark edeceksiniz. Aşağıdaki örneğe bakın.
+Sayfa | 22
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Günlük grafikte arz bölgesi olarak başlayan bir talep bölgesini görebilirsiniz. Talep bölgesi olarak buraya 
+hiçbir zaman dokunulmadı. 5 dakikalık grafikte fiyatın hızla bölgeye düştüğünü görebilirsiniz. Fiyat 13,91 
+dolara ulaştı ve tekrar tersine döndü. İşlemi yeniden başlar başlamaz kabul edebilir veya fiyat tekrar 
+düşene kadar bekleyebilirsiniz. Geri dönüş size orada bir miktar talep olduğunu ve ticareti almaya değer 
+olduğunu gösteriyor.
+Çoğu zaman burada yaptığımız gibi ticarete girmek için ikinci bir şansa sahip olacaksınız. İkinci 
+yükselişte hisse senedini 13,91 dolardan veya daha iyi bir fiyattan satın alırdınız ve durağınızı talep 
+bölgesinin alt kısmının üç sent altına, 13,62'ye yerleştirirdiniz. Çıkışımızı 5 dakikalık grafiğe göre 
+tedarik bölgesinin alt kısmına yerleştiriyoruz ve son işlemde yaptığımız gibi duraklarımızı hareket 
+ettiriyoruz. Yine kırmızı yatay çizgi durağımızı nereye hareket ettirdiğimizi gösteriyor. Komisyondan 
+sonra 60 dakika sonra 2,02$ kârla işlemden çıkarsınız. Riskiniz 30 sent olurdu. Yine, 30.000,00$'lık bir 
+hesapla, bir saatte 17.170,00$ kârla 8.500 hisse alıp satabilirdiniz. Riskiniz 2.550,00 $ olacaktı ve bu 
+da size neredeyse 7:1'lik bir ödül/risk oranı bırakacaktı. Bir sonraki bölümde göreceğiniz gibi risk 
+yönetimi kurallarımıza uysaydık bu kadar çok hisse senedi ticareti yapmazdık. Eğer alım satım 
+planımız her alım satımda hesabımızın yalnızca %1'ini riske atacağımızı söylüyorsa, yalnızca 1000 
+hisse satın alırdık ve karımız 300,00 $ riske atarak 2002,00 $ olurdu. İşleme bölgenin dibine ne kadar 
+yakın girerseniz riskiniz o kadar düşük olur ve satın alabileceğiniz hisse sayısı da o kadar yüksek 
+olur.
+Arz ve talep bölgelerini kullanan bir günlük ticaret stratejisine daha bakalım. Bu, bir arz bölgesi 
+delindiğinde talep bölgesine, bir talep bölgesi delindiğinde ise arz bölgesine dönüştüğü gerçeğine 
+dayanmaktadır. Bu stratejinin ticaret kurulumları pazar öncesi bulunur. Piyasa öncesi bir bölgeyi 
+delmiş olan hisse senetlerini ararız; bu, hisse senedinin bir arz bölgesinden yukarıya doğru veya bir 
+talep bölgesinden aşağı doğru bir boşluk bırakacağını gösterir. Piyasa açıldığında küçük bir geri 
+çekilme bekliyoruz ve ardından fiyat dönüp boşluk yönünde devam ettiğinde işleme giriyoruz.
+Sayfa | 23
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+stopumuz, uzun pozisyonda günün en düşük seviyesinin birkaç kuruş altında, kısa pozisyonda ise günün en 
+yüksek seviyesinin üzerinde duruyor. Bu, duraklarımızı arz ve talep bölgelerine göre belirlemediğimiz tek 
+zamandır. Geri çekilme bize mevcut arz veya talebin nerede olduğunu ve bu seviyelerin kırılması durumunda 
+işlemden çıkmak istediğimizi gösterir. İşte bu tür ticaretin bir örneği.
+Fiyatın arz bölgesinin üzerinde nasıl 
+açıldığına ve yükselişe devam etmeden 
+önce nasıl geri çekildiğine dikkat edin. 
+Bu, fiyatların arz bölgesinde boşluk 
+bıraktığı tipik bir mumdur. Bunun 
+nedeni, açılışta çok sayıda limit emrinin 
+tetiklenmesi ve fiyatın geçici olarak geri 
+çekilmesine neden olmasıdır.
+Çoğu zaman fiyat günlük grafikte bir bölgeyi aşacaktır, ancak hala günlük alım satım 
+fırsatı mevcuttu.
+Fiyat tedarik bölgesinde açıldı. 
+Kısa bir ticareti hızlı bir ticaret 
+olarak yaparsanız ve durağınızı 
+tedarik bölgesinin üzerinde 
+belirlerseniz öğleden sonra 
+durdurulursunuz, ancak günlük 
+bir ticaret olarak ticarette 1,00 
+doların üzerinde kazanç elde 
+edebilirdiniz. Bu, 26,00$'lık bir 
+hisse senedinden kötü bir gün 
+ticaret karı değil.
+Peki ya hisse senedi fiyatı tüm zamanların en yüksek seviyesinde ya da tüm zamanların en düşük seviyesindeyse?
+Fiyat tüm zamanların en yüksek veya en düşük seviyesinde olduğunda arz veya talep bölgesinin nerede 
+olduğunu bilmiyoruz. Bu durumlarda güçlü bir bölge oluşana kadar bekleriz ve ardından ticareti başlatırız.
+Sayfa | 24
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+ilk kez fiyat bölgeye geri döner. Yeni bir bölge her zaman yeni bir bölge olacaktır çünkü fiyat daha önce orada 
+olmamıştı.
+Fiyatın hızla bölgeye girip çıktığı güçlü bir bölge olduğundan emin olmak önemlidir. Güçlü bir bölgemiz 
+olmadığı sürece trend olan bir hisse senedine karşı işlem yapmak istemiyoruz. Aşağıdaki grafikler bunu 
+göstermektedir.
+Amazon'un (AMZN) bu günlük grafiğinde, 
+sarı gölgeli alanla gösterilen güçlü bir 
+tedarik bölgesi oluşturuldu. Kırmızı ok, 
+fiyatın iki gün sonra bölgeye döndüğü yeri 
+gösteriyor ve bize büyük bir kısa ticaret 
+fırsatı sunuyor.
+Buffalo Wild Wings'in (BWLD) bu günlük 
+grafiğinde fiyat, AMZN'nin yukarıdaki 
+grafikte yaptığından daha yavaş bir şekilde 
+bölgeye yükseldi. Fiyat hızla gerilese de o 
+kadar güçlü bir bölge değildi. Gördüğünüz 
+gibi fiyat arz bölgesine döndüğünde bölge 
+boyunca devam etti.
+Bir sonraki bölümde risk yönetimi ve arz ve talep bölgelerini kullanmanın riskimizi nasıl en aza indirip ödülümüzü 
+en üst düzeye çıkarabileceği hakkında daha fazla konuşacağız.
+Sayfa | 25
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Bölüm 5
+Risk yönetimi
+Bu kitapta risk yönetimi hakkında çok konuştuk ve bunun nedeni bunun inanılmaz derecede önemli 
+olmasıdır. En iyi ticaret stratejisine sahip en iyi tüccar bile, eğer zayıf risk yönetimi kullanırsa, 
+hesabını mahvetmeye mahkumdur.
+Bir arkadaşım geçimini sağlamak için poker oynuyor ve birkaç ay önce risk yönetimi konusunda uzun bir 
+tartışma yaşadık. Bu hikayeyi ona anlatacağım:
+“Özellikle gençliğimde, para yönetiminde başarısız olduğum için kaç kez paramı boşa çıkardığımı 
+anlatamam. İyi ya da kötü, herkes dalgalanmalara karşı hassastır ve eğer düşüşlere hazırlıklı 
+olmazsanız, sonunda her şeyi kaybedersiniz. Bunu öğrenmem uzun zaman aldı. Rakiplerimi her 
+zaman yenebileceğimi varsayarak sadece becerilerime güvenebileceğimi düşünürdüm, ancak poker 
+gibi beceriye dayalı oyunlar bile inanılmaz farklılıklar içerir. Ben eskiden sahip olduğu her şeyi 
+masaya koyan tipte bir adamdım. Artık hiçbir zaman paramın %1'inden fazlasını bir oturuşta riske 
+atmayacağım."
+Aynı kavram ticaret için de geçerlidir. Ticaretteki amacımız her zaman en yüksek olasılıklı işlemleri 
+yapmaktır, tıpkı pokerdeki amacın en yüksek olasılıklı kumarları oynamak olduğu gibi. Ama hâlâ 
+olasılıktan bahsediyoruz ve bu da bazen, en iyi gibi görünen durumlarda bile kaybedeceğimiz anlamına 
+geliyor. Bu kaçınılmazdır.
+Kaybetmeyi hazmedebilmemizin tek yolu buna hazırlanmaktır. Bunu yapmak için takip ettiğim kurallar 
+şunlardır:
+Sermayenizi koruyun ve paranızı yönetin.
+Bu, hisse senedi ticaretinin temel taşıdır; her zaman en kötü senaryoya göre plan yapmalısınız. “Ne 
+kadar kazanabilirim?” diye sormadan önce. “Ne kadar kaybedebilirim?” diye sormalısınız. Bu, akıllı 
+hisse senedi alım satım risk yönetimidir. Akıllı bir işadamı, art arda birkaç hata yapsa bile yalnızca 
+kendisini iflas ettirmeyecek riskleri alır.
+Riskinizi tanımlayın.
+Bir hisse senedi tüccarı olarak ticaret işindesiniz. Riskinizi, yani tek bir işlemde riske atacağınız veya kaybedeceğiniz 
+maksimum para miktarını tanımlamanız gerekir. Bu, portföyünüzün yüzdesi olarak tanımlanır. Çoğu yatırımcı tek bir 
+işlemde %0,5 ile %2 arasında risk alacaktır. Ben kişisel olarak portföyümün %1'inden fazlasını herhangi bir ticarette 
+riske atmayı sevmiyorum ama bu %1'in sihirli sayı olduğu anlamına gelmez. Risk ve pozisyon büyüklüğünün iki farklı 
+konu olduğunu unutmamak önemlidir. 30.000,00$ tutarında bir hesabınız varsa ve işlem başına %1 veya 300,00$ riske 
+girmeye hazırsanız, bu yalnızca 300,00$ değerinde hisse satın alacağınız anlamına gelmez. 10.000,00 $'lık işlem 
+yapabilir ve 300,00 $'lık riske girebilirsiniz veya 30.000,00 $'lık işlem yapabilirsiniz ve yine de yalnızca 300,00 $'lık riske 
+girebilirsiniz. Riskiniz, işlemin aleyhinize sonuçlanması durumunda kaybedeceğiniz miktardır.
+Sayfa | 26
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Duygusal ticaretin farkında olun.
+Ticaret o kadar heyecan vericidir ki, çoğu zaman hisse senedi yatırımcılarının kendilerini iyi hissetmelerine ve sonra 
+birdenbire çok kötü hissetmelerine neden olur. Hiç kimse aynı anda hem kafayı yiyip hem de para kazanamaz. Duygusal 
+ticaret başarının düşmanıdır. Korku ve açgözlülük bir borsacıyı yok etmeye mahkumdur. Gerçek bir profesyonel hisse senedi 
+tüccarı, kazançlar veya kayıplar karşısında çok fazla heyecanlanmaz veya üzülmez. Bu, hem hisse senedi alım satımı hem de 
+sağlıklı, keyifli bir hayat sürdürmek için uygun bir psikolojidir; umarım hisse senedi ticaretinden biraz kar elde edersiniz, 
+ancak kayıplar yaşansa bile yeterince değerlidir.
+Kaybeden değil, kazanan olmaya odaklanın.
+Her alanda başarılı bir profesyonelin hedefi kişisel olarak en iyi seviyeye ulaşmaktır. Kazanmak için doğru şekilde 
+ticaret yapmaya konsantre olmanız gerekir. Her ticaretin bir cerrahi prosedür gibi ele alınması gerekiyor; ciddiyetle, 
+ölçülü bir şekilde, özensizliğe veya kısa yollara başvurmadan. Bu bir hisse senedi alım satım risk yönetimi planıdır, 
+kumarhaneye bir gezi değil.
+Kaybeden, kayıplarını hızla azaltmak için çabalar. Bir ticaret kötüye gitmeye başladığında umut eder ve 
+sabreder ve kayıpları birikmeye başlar. Ve ticaretten çıkar çıkmaz piyasa yeniden canlanıyor.
+Kaybedenlerin çoğu birbirine benzediği için trendler tersine dönüyor. Kafalarını kullanmak yerine 
+içgüdülerine göre hareket ederler. Kültürel kökenleri ve eğitim düzeyleri ne olursa olsun insanların 
+duyguları benzerdir.
+Duygusal tüccarlar belirli kayıplardan kaçınmak için riskli kumarlara girerler. Hızlı bir şekilde kar elde etmek ve 
+zarar almayı ertelemek insan doğasında vardır. Duygusal ticaret, kaybedenleri yok eder. İyi para yönetimi ve 
+zamanlama teknikleri sizi deliğin dışında tutacak. Kaybeden tüccarlar "kesin bir şey" ararlar, umuda tutunurlar 
+ve mantıksız bir şekilde küçük kayıpları kabul etmekten kaçınırlar.
+Ödül-risk oranını düşünün.
+Risk ticaretin ayrılmaz bir parçasıdır. Risk-ödül oranı, bir ticaret sisteminin tutarlı bir şekilde karlı olup 
+olmayacağını belirlemek için kullanılan önemli bir risk yönetimi ve ticaret aracıdır. Bu, bir işlemin toplam 
+potansiyel kârının, işlemin aleyhinize sonuçlanması durumunda maruz kalacağınız zarara bölünmesiyle 
+hesaplanan bir risk-ödül ölçüsüdür. Riske karşı ödülünüz ilk çıkış fiyatınız kullanılarak hesaplanır.
+Yaptığınız her işlemde risk düzeyinizi anlamak önemlidir. Buradaki zorluk, işlemlerinizden 
+maksimum faydayı elde etmek için portföyünüzdeki riski yönetmektir. Deneyimli yatırımcılar, konu 
+ticaret olduğunda risk-ödül oranının kritik olduğunu biliyor. Ancak bu genellikle yeni ve deneyimsiz 
+yatırımcılar tarafından gözden kaçırılır.
+Sizin için kabul edilebilir risk-ödül oranının belirlenmesinde dikkate alınması gereken bir diğer önemli 
+husus, ticaret sisteminizdeki kazanan işlemlerin yüzdesidir. Bu yüzde ne kadar yüksek olursa, ödül/risk 
+oranının da o kadar düşük olması gerekir. Örneğin, işlemlerinizin %50'si kazandıran işlemlerse, 1:1'in 
+üzerindeki herhangi bir ödül/risk oranı sizi kârlı hale getirecektir. Kazanma oranı %50'nin üzerinde olan 
+herhangi bir ticaret stratejisi, 1:1 veya daha iyi bir ödül/risk oranıyla karlı olacaktır. Başarılı olma 
+ihtimalinin en az %75 olduğu, en az 3:1'lik bir ödül/risk oranı görmeyi seviyorum.
+Sayfa | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Arz ve talep bölgelerini kullanarak işlem yapmak, 10:1'den, hatta 20:1'den yüksek, başarı olasılığı çok 
+yüksek olan risk-ödül oranı işlemlerini bulmanızı sağlayacaktır.
+Bir işleme girdiğimizde, genellikle işlemden çıkmak için üç fiyat hedefimiz olur. İlk hedef 
+fiyat, ödülü hesaplamak için kullanılan fiyattır. İlk hedef fiyatta işlemi kapattıktan sonra 
+elde edilen kar, tanımladığımız ödül/risk oranına uymuyorsa, işlemi kabul etmiyoruz.
+Zararı durdur emirlerini kullanma
+Bir işleme girdiğinizde, işlemin aleyhinize dönmesi halinde çıkışınızın nerede olacağını bilmeniz 
+gerekir. Bu riskinizi tanımlar. Çoğu işlem platformu, emrinizi ve durdurma emrinizi aynı anda 
+vermenize olanak tanır. Bu, swing trader'ları için günlük trader'lar kadar önemli değil ama yine de iyi 
+bir fikir. Günlük işlem yapan biri olarak, emrinizi girdikten hemen sonra internetiniz kesilebilir. Aynı 
+anda girilmiş bir durdurma emriniz yoksa ve işlem aleyhinize dönerse, internetinizi geri aldığınızda 
+veya işlem masasını aradığınızda kayıplarınız kolaylıkla tanımlanan riski aşabilir. Bu, özellikle E-Mini 
+endeks vadeli işlemleri veya Forex gibi herhangi bir kaldıraçlı piyasada işlem yapıyorsanız geçerlidir.
+Bunu yeterince vurgulayamam: risk yönetimi başarılı bir yatırımcı olmak için kritik öneme sahiptir. Bir para yönetimi 
+sistemine bağlı kalmaya istekli değilseniz, muhtemelen başarısız olursunuz. Akıllı olun, kararlı olun ve profesyonel 
+olun, o zaman başarılı olursunuz.
+Sayfa | 28
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Bölüm 6
+Arz ve Talep Bölgelerinin Risk Yönetimine Uygulanması
+Bu bölümü yazmaya başladığımda, yalnızca teknik analiz kullanarak işlem yapan yatırımcıların stoplarını nereye 
+koyacaklarını nasıl belirlediklerini merak ettim, bu yüzden Google'da "Stopumu nereye koyabilirim?" diye araştırdım 
+ve bazı ilginç forumlar buldum. İşte bulduğum birkaç örnek.
+Michael,
+Bu, ticaret odasında ele almak isteyebileceğiniz ciddi bir sorudur veya bu konuda bir makale 
+yazabilirsiniz. Forex öğretmenlerinin çoğu, stopları ayarlamanın önemli olduğunu kafama kazıdılar 
+ve stopların pozisyonunun kritik olduğunu, zira stopların yatırımcı için risk miktarını sınırladığını 
+öne sürdüler. Bununla birlikte, deneyimlerime göre bu uygulama yalnızca komisyoncuyu 
+zenginleştiriyor, çünkü çoğu zaman durduruldum ve fiyatın tersine döndüğünü gördüm ve 
+durdurulmasaydım iyi bir kâr elde edebileceğim noktaya ilerledim. dışarı. Ticaret odasında benzer 
+deneyimler yaşadığınızı belirttiniz. Birkaç akşam önce Tim'in nispeten küçük bir kâr hedefi için 
+geniş bir hedef belirlediğini fark ettim ve ona bunu sordum. Durak ve hedef arasındaki orana 
+bakılmaksızın, yalnızca grafiklerde anlamlı olan yerlerde duraklar belirlemeye çalıştığını belirtti. 
+Hiçbirimizin feci kayıplara maruz kalmak istemediğimizi biliyorum, ancak sürekli küçük kayıplar 
+aynı etkiyi yaratıyor. Dolayısıyla benim ve birçok yatırımcının sorunu, gereksiz kayıpları önlemek 
+için, sadece pipleri komisyoncuya teslim etmediğimiz bir noktada, durdurmayı nerede 
+belirleyeceğimizdir. Her e-postayı yanıtlayamayacak kadar meşgul olduğunuzu biliyorum, ancak 
+bunu bir makalede, özel bir eğitim videosunda veya ticaret odasında ele alırsanız, sonuçlarımızı 
+iyileştirmeye çabalayan bizler için çok değerli olacaktır. Hem ticari beceriniz, hem her birimize 
+gösterdiğiniz ilgi, hem de kişisel yaşamınızda ortaya koyduğunuz örnek nedeniyle sizi çok takdir 
+ediyorum.
+Teşekkürler, yatırımcı arkadaşım (isim istek üzerine gizli tutulmuştur).
+Michael sorusunu çok uzun bir yanıtla yanıtladı; bu, aslında sorusuna yanıt vermeyen bir yanıttı 
+ancak aşağıdaki yanıtın bir kısmı.
+Yalnız değilsiniz! Bu, her yatırımcının başına bela olan sorundur; durduğun zamanlar 
+haklıydın, durmadığın zamanlar ise hatalıydın. Daha da kötüsü, cesaretiniz tamamen 
+kırılıncaya kadar durmadan durmaya devam edersiniz ve yüzlerce, binlerce küçük 
+duraklamayla ölüme katlanırsınız. Ne zaman durup ne zaman durmamanız gerektiğini nasıl 
+bilebilirsiniz, işte asıl soru bu. Bu zor bir karar ve keşke kolay bir cevabım olsaydı. Size 
+verebileceğim en iyi cevabı vereceğim, ancak bu kolay DEĞİLDİR. Ticaret kolay olsaydı 
+hepimiz milyoner olurduk. Bu zor bir iş.
+Sayfa | 29
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+İşte bulduğum bir tane daha.
+BİR İŞLEMDEN NE ZAMAN ÇIKARSINIZ?--Bana sorulan en büyük soru, kazanan bir işlemden ne zaman çıkacağım ve 
+kaybeden bir işlemden ne zaman çıkacağım? Kuralıbaş parmakbenim kullandığım, eğer kısaysam on günün en 
+yüksek seviyesine veya uzunsam 10 günün en düşük seviyesine zarar durdurma emrini koymak. Diğer temel kural, 
+herhangi bir işlem için hesabınızda izin verilen maksimum kaybın %2'sine zarar durdurma kararı vermektir. Herhangi 
+bir sorunuz varsa veya bir vadeli işlem komisyoncusu arıyorsanız lütfen beni 800-615-7649 numaralı telefondan 
+arayın; sizinle birlikte birçok temel ticaret kuralını gözden geçireceğim.
+İşte profesyonel bir tüccardan başka bir yanıt daha.
+Durakların yerleştirilmesine gelince, benim kişisel görüşüm, eğer ulaşılırsa piyasanın size olmasını 
+beklediğiniz hareketin en azından beklediğiniz şekilde muhtemelen gerçekleşmeyeceğini söylediği 
+noktaya bir durdurma konulması gerektiğidir. . Rasgele sabit duraklar kullanmıyorum. "Zararı 
+durdur" emirlerini de kullanmıyorum. Stop çıkışım genel stratejime göre belirlenir.
+Tamam, bu kadar çılgınlık yeter. İnternet yukarıda sıraladığım örneklerle dolu. Arz ve talep bölgeleriyle 
+ticaret yapmanın en büyük faydalarından biri, durağınızı nereye koyacağınızı her zaman bilmenizdir. 
+Talep bölgesinde durağınız her zaman bölgenin tabanının birkaç peni altında olacaktır, arz bölgelerinde 
+ise her zaman bölgenin tepesinin birkaç peni üzerinde olacaktır. Bu, işleme girmeden önce riskinizi 
+tanımlamanıza olanak tanır ve aynı zamanda pozisyonunuzun boyutunu belirlemenin bir yolunu da 
+sunar. Kârımızı nereye götüreceğimizi belirlemek için de arz ve talep bölgelerini kullanırız.
+Örnek bir ticaret kurulumuna bakalım.
+Gayrimenkul Gelirleri (O) son iki haftadır 
+güçlü bir düşüş trendi içerisinde. Fiyat talep 
+bölgesine yeni girdi, bu nedenle uzun 
+pozisyon almak istiyoruz. İlk yapacağımız şey 
+durağımızı nereye koyacağımızı belirlemek 
+olacak. Talep bölgesinin alt kısmı 43,15, yani 
+durağımız 43,12 dolar olacak. Daha sonra üç 
+çıkışımız için fiyat hedeflerini belirlememiz 
+gerekiyor. Beş gün önce, fitilin dibinde geçici 
+talep olduğunu gösteren uzun bir fitili olan 
+yükseliş mumu vardı. Bu talep artık 
+potansiyel arzdır, dolayısıyla ilk çıkış fiyatımızı 
+belirlemek için burası iyi bir yer olacaktır.
+Fitilin alt kısmı 45,84 dolar, dolayısıyla ilk çıkışımızı 45,83 dolar olarak belirleyeceğiz. 49,39 ila 50,54 dolar 
+arasında bir tedarik bölgemiz var, bu nedenle ikinci çıkış fiyatımızı 49,38 olarak belirleyeceğiz.
+Sayfa | 30
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+bölgenin alt kısmı. Üçüncü hedef fiyatımız ise en yüksek arz bölgesinin bir kuruş altında olan 54,85   dolar olacak.
+Pozisyon büyüklüğümüz ve risk/ödül oranımız artık giriş fiyatımıza dayalıdır. Bir talep bölgesinde ticaret 
+yapmanın iki yolu olduğunu unutmayın. Ya fiyat bölgedeyken satın alabiliriz ya da biraz daha ihtiyatlı 
+davranıp fiyat bölgenin tepesine çıkana kadar bekleyebilir, bu da bize talep bölgesinin devam ettiğine 
+dair daha fazla işaret verebilir. İlk seçeneği seçip açıktan satın alırsak giriş fiyatımız 43,25 dolar civarında 
+olacaktır. Stopumuz 43,12$ olarak belirlendi, dolayısıyla riskimiz şu şekilde belirlenecek.
+● Durdurmamız 43,12 Dolar olarak belirlenirse, muhtemel icramız 43,11 Dolar olacaktır, dolayısıyla 43,25 Dolar eksi 
+43,11 Dolar, yani 14 sentlik bir kaybımız olur.
+● Komisyon maliyetimiz bir kuruş giriş, bir kuruş çıkış olmak üzere en fazla iki kuruş olacak.
+● Hisse başına toplam risk 16 sent olacaktır.
+Eğer her işlemde hesabımızın %1'ini riske atmaya istekliysek, o zaman toplam riskimiz 300,00$ olacaktır. 
+Pozisyon büyüklüğümüzü belirlemek için toplam riski alıp hisse başına riskimize bölüyoruz. Bu örnekte 
+pozisyon büyüklüğümüz 1.875 hisse olacaktır. (300,00 $ bölü 16 sent.)
+Daha sonra ilk çıkış fiyatımıza göre kâr potansiyelimize bakmak istiyoruz. Bu örnekte bu 45,83 dolar olacaktır, 
+yani 45,83 dolar eksi 43,25 dolarlık girdimiz hisse başına 2,58 dolar olur. Eğer bunu 16 sentlik riskimize 
+bölersek, 16:1'lik bir ödül/risk oranı elde ederiz. İlk çıkışımıza dayalı bir ödül-risk oranının en az 3:1 olmasını 
+istiyoruz, dolayısıyla bu kesinlikle kabul edilebilir bir ödül-risk oranıdır.
+Durağınızı nereye ayarlamanız gerektiğini açıklayan makaleler ararken en yaygın yöntem Ortalama Gerçek 
+Aralık veya ATR'yi kullanmaktı. Bu ortalamadır, genellikle son 14 günün ortalamasıdır, fiyat bir günde hareket 
+eder. Bu tekniği kullanarak stopumuz 43,25 $ eksi 1,59 $ ATR yani 41,66 $ olarak belirlenmiş olacaktı. Komisyon 
+ve kaymalarımızı da eklediğimizde hisse başına riskimiz 1,62 dolar olacaktır. Toplam 300,00 $ riskle, artık 1.875 
+hisse (300,00 $ / 1,62 $) yerine yalnızca 185 hisse satın alabiliyoruz ve ilk çıkışımıza dayalı risk-ödül oranımız 
+artık 2:1'in altında, bu da bizim belirlediğimiz değerden daha düşük. Minimum 3:1. Fiyatın bölgenin dibini 
+kırması halinde oradan çıkmamız, öylece oturup daha fazla para kaybetmememiz gerektiğini biliyoruz.
+Aynı rakamları ikinci senaryoda da kullanalım, fiyat bölgenin tepesini kırdıktan sonra işleme girelim. 
+Şimdiki girişimiz yaklaşık 43,63$ olacaktır. Durağımız aynı yerde, dolayısıyla riskimiz 43,63 dolar eksi 
+43,12 dolar, yani 51 sent olacaktır. Komisyon ve kaymayı da eklersek, hisse başına 54 sentlik toplam risk 
+altında olacağız. Şu anda ödül-risk oranımız neredeyse 5:1, bu hala kabul edilebilir bir seviye ve pozisyon 
+büyüklüğümüz 300,00 $ / 0,54 olacak, bu da 555 hisseye eşit. Gördüğünüz gibi giriş fiyatınız talep 
+bölgesinin alt kısmına ne kadar yakınsa, risk-ödül oranınız o kadar yüksek olur ve işlem yapabileceğiniz 
+hisse sayısı da o kadar yüksek olur.
+Aynı ticareti “parayla” seçeneklerini kullanarak da yapabiliriz. Seçeneklere aşina değilseniz, bu kavramı 
+tam olarak anlamak için 8. bölüme göz atmayı unutmayın. Duruşumuz opsiyona değil hisse senedinin 
+fiyatına göre olacaktır. Hisse senedi fiyatı 43,12 dolara düşerek talep bölgemizi kırarsa,
+Sayfa | 31
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+sadece opsiyon sözleşmesini satar ve zararımızı alırdık. Çoğu ticaret platformu size bunu otomatik olarak yapmanız 
+için bir yol sunar, ancak seçeneklerinizi satarken kötü bir sonuç almamak için dikkatli olmanız gerekir. Stop 
+tetiklendiğinde emrinizin piyasa fiyatından satış emrine dönüştüğünü unutmayın. Opsiyonlar geniş bir aralıkta işlem 
+görürse muhtemelen kötü bir uygulama elde edersiniz.
+Ayrıca "parasız" aramaları da satın alabilirsiniz. "Parasız" aramalar satın aldığımda, aramalar için ödediğim primin 
+tamamını risk olarak kabul ediyorum, dolayısıyla 300,00 $ değerinde arama satın almış olacağız. Bu genellikle 
+yalnızca hisse senedinde hızlı bir hareket bekliyorsanız ve hisse senedinde haftalık opsiyonlar mevcutsa veya 
+çağrının sona ermesine yalnızca bir hafta kaldıysa pratiktir.
+Opsiyon satın alırken göz önünde bulundurulması gereken bir diğer önemli husus, alış ve satış 
+fiyatı arasındaki farktır. İnfazların istediğiniz yerde olmasını sağlamak için bunu izlemeniz 
+önemlidir. Alış ve satış fiyatı arasındaki fark, opsiyon ticareti yaparken neredeyse her zaman daha 
+yüksektir. Bu spread, riskinizi hesaplarken önemlidir. Örneğin, bir opsiyonun teklifi 0,45 ve satış 
+fiyatı 0,50 ise, hisse başına riskinize bu 5 senti eklemelisiniz. Bunun nedeni opsiyonu satış 
+fiyatından alıp alış fiyatından satmanızdır.
+Bu bölümde çok fazla materyal vardı, dolayısıyla her şeyi anlamadıysanız, tekrar 
+okuyup tam olarak anladığınızdan emin olun.
+Sayfa | 32
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Bölüm 7
+Ticaret Planı Geliştirme
+Bir ticaret planı oluşturmak, başarılı bir piyasa tüccarı olmanın ayrılmaz bir parçasıdır. Hisse senetleri, para 
+birimleri veya emtia ticareti olsun, ayrıntılı bir ticaret planı, bir ticaret stratejisinin sağlamlaştırılmasına yardımcı 
+olur ve iyi gelişmiş bir ticaret sistemine bağlılığı teşvik eder. Etkili bir ticaret planı, bir yatırımcının işlemlere 
+girerken ve çıkarken izlemesi gereken adımları ayrıntılarıyla anlatır. Bir ticaret planı olmadan yatırımcılar, 
+özellikle çevrimiçi ticaret yaparken, ticaret hatalarına, aşırı ticarete ve değişken piyasalarda dürtüsel kararlar 
+almaya daha yatkındır. İşte bir ticaret planı yazmanın adımları.
+Hangi finansal araçlarla işlem yapacağınıza karar verin.
+Kesinlikle bir hisse senedi veya döviz tüccarı olabilirsiniz veya birden fazla piyasada işlem yapıyor olabilirsiniz. 
+Her finansal araç için ticaret planınızda ayrı bir kategori oluşturun.
+Hangi hisse senetlerinin, para birimlerinin veya diğer finansal araçların ticaretini yapacağınızı belirleyin.
+Örneğin, günlük bir tüccar iseniz, ortalama gerçek aralık yüzdesi %3'ün üzerinde olan ve günde en az 10 milyon hisse 
+ticareti yapan hisse senetlerinin bir listesini derleyebilirsiniz veya bir swing tüccarıysanız, bir liste derlemek 
+isteyebilirsiniz. Opsiyonları bulunan ve 10.000'den fazla sözleşmeden oluşan açık pozisyona sahip hisse senetlerinin 
+listesi, bir miktar likiditeye sahip olduklarını gösteriyor. Belki döviz ticareti yapıyorsunuz, yalnızca bir döviz çifti veya 
+Büyük Britanya Poundu (GBP) ile ilgili tüm çiftlerin ticaretini yapıyorsunuz. Ticaretini yapmayı planladığınız belirli 
+şirketlerin, para birimlerinin veya emtiaların adlarını listeleyin.
+Hangi zaman dilimini kullanacağınızı belirleyin.
+Örneğin, uzun vadeli bir yatırımcıysanız büyük olasılıkla haftalık grafikleri kullanırsınız. Bir swing tüccarı günlük 
+grafikleri ve muhtemelen saatlik grafikleri kullanır ve bir günlük tüccar günlük ve gün içi grafiklerin bir 
+kombinasyonunu kullanabilir. Birden fazla yapacaksanız her zaman dilimi için ayrı bir kategori oluşturun.
+Ticaret kurulumlarınızı tanımlayın.
+Örneğin, günlük işlem yapıyorsanız, günlük grafiğe dayalı olarak yalnızca güçlü arz veya talep bölgesine giren 
+alım satımları almaya karar verebilirsiniz veya saatlik grafikten işlem yapmaya karar verebilirsiniz. Eğer swing 
+yatırımcısıysanız, yalnızca hakim trendle işlem yapmak istediğinize karar verebilirsiniz, böylece arz veya talep 
+bölgesindeki geri çekilmelerde tersine dönüş modelleri arayabilirsiniz. Belirli bir işleme girebilmeniz için 
+karşılanması gereken koşulları tam olarak yazın.
+Her işlemde ne kadar risk alacağınıza önceden karar verin.
+Her bir işlemde ne kadar risk almak istediğinizi bilerek, işleme girdiğinizde pozisyon büyüklüğünüzü 
+belirleyebilirsiniz. Girişiniz talep bölgesinin alt kısmına veya arz bölgesinin tepesine ne kadar yakınsa, 
+pozisyon boyutunuz da o kadar büyük olabilir.
+Sayfa | 33
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Minimum ödül/risk oranınıza karar verin.
+Ödül/risk oranınız, ilk çıkış fiyatınızdaki kârın riskinize bölünmesiyle hesaplanır. Günlük ticaret için 
+bunu minimum 3:1 ve swing ticaret için belki 5:1 olarak ayarlayabilirsiniz. Kazanan işlem yüzdeniz 
+ne kadar yüksek olursa, ödül-risk oranınız o kadar düşük olabilir ve hala karlı kalabilir.
+Her bir işlemi nasıl izleyeceğiniz sürecini yazın.
+Örneğin günlük ticaret yaparken, her yeni pivot oluştuğunda stopunuzu taşıyabilirsiniz. Belirli bir yüzdelik 
+hareketten sonra stopunuzu küçük bir kâra da taşıyabilirsiniz.
+Ticaret çıkışlarına ilişkin parametrelere karar verin.
+İşlem çıkışlarına yönelik tam stratejinizi belgelemek, bir işlemden çok erken çıkmak veya işlemi çok uzun süre 
+tutmak gibi son dakika veya ani işlem kararlarını önler. Sıkı bir para yönetimi planına sahip, iyi test edilmiş ve 
+kârlı bir ticaret sisteminiz varsa, belirlenen parametrelere göre ticaretinizden çıkmak en iyi sonuçları 
+verecektir.
+İşleminizden çıkmadan önce yerine getirilmesi gereken koşulları tam olarak yazın. Bu kesin bir fiyat noktası, takip 
+eden bir durak veya günün belirli bir saati olabilir.
+İşlem süreleri için bir bölüm ekleyin.
+24 saatlik döviz piyasasında işlem yapılıyorsa, işlem kesintisiz bir olay olabilir. Bir ticaret programına karar verin ve 
+bunu ticaret planınıza yazın. Günlük alım satım hisse senetlerinde, günlük açılıştan başlayarak her gün 4 saat 
+çalışabilirsiniz. Daha uzun zaman dilimlerinde işlem yapıyorsanız, işlem programınız fiyatları kontrol etmek ve ilgili 
+piyasa haberlerini okumak için yalnızca 15 dakikalık günlük bir taahhüt içerebilir.
+Ticaret planınızı değerlendirin.
+İşlemlerinizi değerlendirmek için işlem planınıza bir bölüm ekleyin. Bu, ticaret planınıza uyup 
+uymadığınızı yazdığınız bir yorum kutusu olabilir. Alternatif olarak, işlem yaparken işaretlemeniz 
+gereken adımların bir listesi olabilir.
+Sayfa | 34
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Bölüm 8
+Seçeneklerin Temelleri
+Seçenekler riski yönetmek için değerli bir araç olabilir. Eğer bir gecede bir pozisyonda kalacaksanız, kısa pozisyon 
+açmak veya hisse senedi satın almak yerine opsiyonu kullanmak her zaman daha az risktir. Şu anda opsiyonları olan 
+2000'den fazla hisse senedi bulunmaktadır ve çoğu ETF'nin opsiyonları mevcuttur. Seçeneklerin riskli olduğu ifadesine 
+aldanmayın. Doğru kullanıldığında, hisse senediyle aynı pozisyonda kalmaktan her zaman daha az risklidirler.
+Bir seçenek nedir?
+Opsiyon, alıcıya belirli bir tarihte veya öncesinde belirli bir fiyattan dayanak varlığı (hisse senedi veya endeks) satın 
+alma veya satma hakkını veren ancak yükümlülüğü olmayan bir sözleşmedir. Listelenen opsiyonların tümü, belirli bir 
+dayanak varlığın 100 hissesi içindir.
+Opsiyon, tıpkı hisse senedi veya tahvil gibi bir menkul kıymettir ve kesin olarak tanımlanmış şartları ve özellikleri olan 
+bağlayıcı bir sözleşme oluşturur.
+Bir opsiyonun hisse senedinden farkı nedir?
+Opsiyon alım satımının faydalarını daha iyi anlayabilmek için öncelikle opsiyonlar ve hisse 
+senetleri arasındaki bazı benzerlikleri ve farklılıkları anlamalısınız.
+Listelenen Opsiyonlar tıpkı hisse senetleri gibi menkul kıymetlerdir. Opsiyonlar, alıcıların teklif vermesi ve satıcıların 
+teklif vermesiyle hisse senedi gibi işlem görür. Opsiyonlar tıpkı hisse senetleri gibi borsada işlem gören bir piyasada 
+aktif olarak işlem görmektedir. Diğer menkul kıymetler gibi alınıp satılabilirler. Opsiyonlar hisse senetlerinin aksine 
+türevlerdir; yani opsiyonlar değerlerini başka bir şeyden, temeldeki güvenlikten alırlar. Opsiyonların son kullanma 
+tarihleri   vardır, ancak hisse senetlerinin yoktur. Mevcut hisse senetlerinde olduğu gibi sabit sayıda seçenek yoktur. 
+Hissedarlar, oy ve temettü haklarıyla birlikte şirkette paya sahiptir. Opsiyon sahiplerinin böyle bir hakkı yoktur.
+Ne tür seçenekler var?
+Yalnızca iki tür seçenek vardır: Alım Seçenekleri ve Satım Seçenekleri.
+Alım Opsiyonu, bir hisse senedini belirli bir tarihte veya öncesinde belirli bir fiyattan satın alma 
+seçeneğidir. Bu şekilde Arama Seçenekleri depozito gibidir. Örneğin, belirli bir mülkü kiralamak 
+istiyorsanız ve bunun için bir depozito bıraktıysanız, bu para, o mülkü geri döndüğünüzde kararlaştırılan 
+fiyattan kiralayabilmenizi sağlamak için kullanılacaktır. Eğer hiç dönmeseydin, vazgeçerdin
+Sayfa | 35
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+güvenlik depozitosu, ancak başka hiçbir sorumluluğunuz olmaz. Alım opsiyonlarının değeri 
+genellikle dayanak varlığın değeri arttıkça artar.
+Bir Alım Opsiyonu satın aldığınızda, bunun için ödediğiniz fiyat, yani opsiyon primi, söz konusu hisse senedini, kullanım fiyatı 
+adı verilen belirli bir fiyattan satın alma hakkınızı güvence altına alır.
+Hisse senedi satın alma opsiyonunu kullanmamaya karar verirseniz ve buna mecbur değilseniz, tek maliyetiniz 
+opsiyon primidir.
+Satım Opsiyonları, bir hisse senedini belirli bir tarihte veya öncesinde belirli bir fiyattan satma seçenekleridir. 
+Bu yönüyle Put opsiyonları sigorta poliçeleri gibidir. Yeni bir araba satın alırsanız ve ardından arabaya kasko 
+sigortası yaptırırsanız, bir prim ödersiniz ve dolayısıyla, bir kazada varlığınızın hasar görmesi durumunda 
+korunursunuz. Böyle bir durumda poliçenizi kullanarak aracın sigortalı değerini geri kazanabilirsiniz. Bu 
+şekilde, dayanak varlığın değeri düştükçe satım opsiyonu değer kazanır. Her şey yolunda giderse ve sigortaya 
+gerek kalmazsa, sigorta şirketi riski üstlenmeniz karşılığında priminizi tutar.
+Satım Opsiyonu ile bir hisse senedini satış fiyatını sabitleyerek "güvence altına alabilirsiniz". Hisse senedi 
+fiyatının düşmesine neden olan ve dolayısıyla varlığınıza "zarar veren" bir durum meydana gelirse, 
+opsiyonunuzu kullanabilir ve onu "sigortalı" fiyat seviyesinden satabilirsiniz. Hisse senedinizin fiyatı yükselirse 
+ve herhangi bir “hasar” yoksa sigortayı kullanmanıza gerek kalmaz ve yine tek maliyetiniz prim olur. Bu, 
+listelenen seçeneklerin temel işlevidir; yatırımcılara riski yönetme yolları sağlamak.
+Opsiyon sembolleri komisyoncudan komisyoncuya değişir, ancak semboller, dayanak hisse senedi adı verilen hisse 
+senedi sembolünden, kullanım fiyatından ve son kullanma tarihinden ve bunun bir satım mı yoksa alım mı olduğunu 
+gösteren bir tanımdan türetilir. Örneğin, Mayıs ayının üçüncü Cuma gününe kadar yüz Alcoa hissesini 8 dolardan 
+satın alma hakkını satın almak istiyorsak TradeStation'daki sembol AA 130518C8 olacaktır. AA, Alcoa'nın hisse senedi 
+sembolüdür. 130518 son kullanma tarihidir, 18 Mayıs,2013. C bunun bir alım olduğunu, 8 ise 8 dolarlık bir kullanım 
+fiyatı olduğunu gösterir.
+Seçenekler nasıl değerlenir?
+Diyelim ki bu opsiyonun fiyatı 34 sent, Alcoa 8,27 dolardan işlem görüyor ve opsiyonun vadesinin dolmasına üç hafta 
+kaldı. 1 arama sözleşmesi satın alırsak toplam maliyet 34,00 $ artı komisyon olacaktır. Maliyetin 34,00 dolar olmasının 
+nedeni, opsiyon fiyatlarının hisse başına maliyet olarak listelenmesi ve sözleşme başına 100 hisse bulunması, 
+dolayısıyla 100 x 34 sentin 34,00 dolara eşit olmasıdır.
+Opsiyon fiyatının dağılımına bir göz atalım. Bir opsiyon fiyatı iki değerin toplamından oluşur; 
+içsel değer ve dışsal değer. Bir alımdaki gerçek değer, hisse senedinin mevcut fiyatından 
+kullanım fiyatının çıkarılmasıyla hesaplanır. Satım işleminin gerçek değeri, mevcut hisse senedi 
+fiyatının opsiyon kullanım fiyatından çıkarılmasıyla hesaplanır. Alcoa örneğimizde, çağrının asıl 
+değeri, 8,27 dolarlık mevcut fiyattan 8 dolarlık kullanım fiyatının çıkarılmasıyla elde edilir, bu da 
+bize 27 sent verir. Geriye kalan 7 sent ise opsiyonun dışsal değeri veya zaman değeridir.
+Sayfa | 36
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Opsiyonun dışsal değeri çeşitli faktörler tarafından belirlenir, ancak asıl faktörler 
+volatilite ve sözleşmede kalan süredir. Dayanak hisse senedi ne kadar değişken olursa, 
+dışsal değer de o kadar yüksek olacaktır. Sözleşmede kalan süre de dışsal değeri 
+etkiler. Zaman azaldıkça zamanın etkilediği dışsal değer de azalacaktır. Hayat sigortası 
+poliçesi gibidir. 1 yıl poliçe isteseydiniz, 5 yıl poliçe isteseydiniz kadar prim ödemenize 
+gerek kalmazdı.
+Seçenekler her zaman üç durumdan birindedir. Bu eyaletler “paranın içinde”, “paranın içinde” ve “paranın 
+dışında”.
+Bir "parada" çağrısı, kullanım fiyatının hisse senedinin mevcut değerinden düşük olduğu anlamına gelir ve "parada" 
+bir satış, kullanım fiyatının hisse senedinin mevcut fiyatından daha yüksek olduğu anlamına gelir. "Parayla" 
+opsiyonlar, gerçek değere sahip olan tek opsiyonlardır.
+"Parada" seçenekleri, kullanım fiyatının hisse senedinin mevcut fiyatıyla aynı olduğu seçeneklerdir. 
+"Paranın dışında" alımların kullanım fiyatı mevcut hisse senedi fiyatından daha yüksektir ve "paranın 
+dışında" alımların kullanım fiyatı mevcut hisse senedi fiyatından daha düşüktür. "Karda" ve "parasız" 
+opsiyonların gerçek bir değeri olmadığından, vade sonunda değersizdirler.
+Alcoa alım örneğimizde opsiyon paradadır çünkü kullanım fiyatı 8,00$ ve Alcoa hisselerinin mevcut değeri 
+8,27$'dır. Alcoa, opsiyonların süresi dolduğunda 8,27 dolardan işlem görüyorsa, bunların değeri 27 sent olacak. 
+Opsiyonların süresi dolduğunda Alcoa 7,98 dolardan işlem görüyorsa, alım sözleşmeleri değersiz olacaktır.
+Aynı kullanım fiyatı ve aynı tarih için Alcoa'nın satım opsiyonuna bakalım. TradeStation sembolü AA 
+130518P8 olacaktır; bu, çağrı için C yerine P konulması dışında çağrıyla aynıdır. Bu satım 
+sözleşmesinin şu anki fiyatı 7 senttir. Kullanım fiyatı mevcut hisse senedi fiyatından düşük 
+olduğundan, satım opsiyonu paranın dışındadır ve 7 sentin tamamı dışsal değerdir, bazen zaman 
+değeri olarak da adlandırılır. Hem satım hem de alım opsiyonunun dışsal değerinin aynı olduğuna 
+dikkat edin; yedi sent.
+Seçenekleri nasıl kullanırız?
+Şimdi seçenekleri nasıl kullanabileceğimize bir göz atalım. Seçeneklerin son derece riskli olduğunu 
+duymuşsunuzdur eminim. Belki size onlardan uzak durmanız bile söylenmiştir. Ancak bunu yeterince 
+vurgulayamam; tam tersi doğrudur. Doğru kullanıldığında opsiyonların riski, dayanak hisse senedinin 
+satın alınmasından daha azdır.
+Diyelim ki Alcoa'nın Mayıs ayının üçüncü Cuma gününe kadar 9,00$'a çıkacağını düşündük. 824,00 $ 
+karşılığında 100 Alcoa hissesi satın alabilirdik ve 9,00 $ hedefimize ulaşırsa 73,00 $ kar elde 
+edebilirdik. Alcoa 7,50 dolara düşerse 50,00 dolar kaybederiz.
+Sayfa | 37
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Şimdi, bunun yerine kullanım fiyatı 8,00 dolar ve opsiyon fiyatı 34 sent olan bir Alcoa alım opsiyonu satın 
+alsaydık, nakit harcamamız 34,00 dolar olurdu. Alcoa, Mayıs ayının üçüncü Cuma gününe kadar 9,00 $'a 
+çıkarsa, seçeneğimiz 1,00 $ x 100 hisse değerinde olacaktır, bu da 100,00 $'a eşittir, bu da bize 66,00 $ kar 
+bırakır. Bu, hisse senedi satın alırken kazanacağımız 73,00 $'dan 7,00 $ daha az, ancak işlem aleyhimize 
+giderse ne olur?
+Alcoa 7,50 $'a düşerse, hisse senedi alım satımımızda 50,00 $ kaybederdik, ancak alım sözleşmesi için yalnızca 
+34,00 $ ödediğimiz için kaybedebileceğimiz en fazla 34,00 $ olur. Alcoa bir şekilde 5,00 $'a düşerse, hisse senedi 
+ticaretinde 300,00 $ kaybederiz, ancak opsiyon ticaretinde hala sadece 34,00 $ kaybederiz. Uygun risk yönetimi 
+stratejileriniz varsa, işlemin aleyhinize sonuçlanması durumunda zararı durdurma seçeneğiniz olacaktır, ancak 
+ya Alcoa bir gecede 5,00 $'a düşerse ve 7,50 $'dan zararı durdurma emriniz varsa ne olur? 7,50 $'lık icrayı 
+alamazsınız; hisselerinizi 5,00 $'dan kaybedersiniz ve bu da size istenmeyen 300,00 $'lık bir zarara yol açar. Bu 
+seçeneği kullanarak, işlemde kendinize maksimum 34,00$'lık zararı garanti ettiniz.
+Ayrıca hisse senedini satın alıp ardından aynı 8,00 $'lık kullanım fiyatından bir satım sözleşmesi satın alarak 
+maksimum 34,00 $'lık zararı garanti edebilirdik. Bu seçeneğin maliyeti 7,00 ABD Doları veya 100 x 7 sent 
+olacaktır. Alcoa 9,00 $'a çıkarsa hisse senedinden 73,00 $ kâr elde edersiniz, ancak satım opsiyonunun 7,00 $ 
+maliyetini çıkarmanız gerekir, bu da hisse senedini alım opsiyonuyla değiştirerek elde ettiğiniz 66,00 $ kârın 
+aynısını netleştirir . Alcoa 8,00 $'ın altına düşerse, satım opsiyonunuzu kullanır ve Alcoa'yı 8,00 $'dan satarsınız; 
+bu size 34,00 $ zarar, hisse senedinde 27,00 $ zarar ve satımda 7,00 $ zarar verir. Alcoa'nın ne kadar düştüğü 
+önemli değil; onu 8,00 dolara satma hakkına sahipsiniz. İster hisse senedini ve sigorta için bir satım opsiyonu 
+satın alın, ister hisse senedini bir alım opsiyonu ile değiştirin, opsiyonları kullanarak, işleminizde kendinize 
+maksimum 34,00 $'lık zarar garanti etmiş olursunuz.
+Risk yönetimi söz konusu olduğunda, sermayenizi güvence altına almanın ve kendinize önemli bir kar potansiyeli sağlamanın 
+opsiyon ticareti yapmaktan daha iyi bir yolu yoktur.
+Şimdiye kadar, satım ve alım opsiyonlarının temellerini ve bunları ticaretinizde nasıl kullanacağınızı anlamalısınız. 
+Spread kullanımı da dahil olmak üzere ele almadığımız pek çok şey vardı. Şahsen spreadleri çok sık kullanmıyorum, 
+ancak birçok profesyonel yatırımcının bunları oldukça karlı bir şekilde kullanabildiğini biliyorum. Seçenekler hakkında 
+daha fazla bilgi edinmek istiyorsanız Lawrence G. McMillan'ın "Stratejik Yatırım Olarak Seçenekler" kitabını öneririm. 
+McMillan'ın kitabı, opsiyon değerlemesinin ileri seviye hesaplamalarından bazılarını tartışarak büyük ayrıntılara giriyor 
+ve aynı zamanda hayal edebileceğiniz her türlü spreadi de kapsıyor.
+Sayfa | 38
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Bölüm 9
+Buradan nereye gidiyoruz?
+Böylece arz ve talep hakkındaki kitabımız sona eriyor. Umarım keyif almışsınızdır ve ders almışsınızdır. Arz ve talep 
+bölgelerini kullanarak ticaret yapmak çok kazançlı olabilir, ancak bu konuda uzmanlaşmak zaman alır.
+Arz ve talebe dayalı ticaret hakkında daha fazla bilgi edinmek istiyorsanız www.zone-trades.com adresine gidin ve kaydolun. 
+Web sitesi ücretsizdir ve daha iyi bir yatırımcı olmanıza yardımcı olacak makalelerle doludur.
+Sizi sitemizde görmeyi sabırsızlıkla bekliyorum.
+Sayfa | 39
+www.forexgercekleri.xyz - [Twitter: @eseckal]

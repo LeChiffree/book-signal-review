@@ -1,0 +1,327 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 6\Baskı 6\Kolaylaştırılmış Daily Bias Tespiti (TR-ENG) (13 sayfa) - @eseckal.pdf
+PAGES: 13
+
+
+=== PDF PAGE 1 ===
+Sayfa 1/6
+Hepinizin bildiği gibi piyasa yalnızca bir Likidite Hedefinden diğerine hareket eder. Bu hedefler Eski 
+Aralık Yüksekler/Düşükler, Dahili Yüksekler/Düşükler, Gerçeğe Uygun Değer Boşlukları olarak 
+adlandırılabilir ve diğer tüm PD Dizileri fiyat için mıknatıs görevi görür. Bu kavramı akılda tutarak, 
+Günlük Önyargıyı tahmin etmek de dahil olmak üzere piyasaların sonraki hareketlerini tahmin etmeye 
+çalışıyoruz.
+Günlük Önyargı nedir?
+Günlük önyargı tahmini, günlük mum çubuğu modeline (OLHC veya OHLC) dayanarak piyasanın 
+muhtemelen hangi yöne gideceğini belirler.
+OLHC OHLC
+Boğa Senaryosu Ayı Senaryosu
+Ön yargı bulma sürecine yönelik basit ve adım adım yaklaşımımı anlatacağım.
+Günlük Emir Akışı ve HTF DOL Bir 
+önceki günün kapanış fiyatı Kısa 
+vadeli likidite Hedefleri
+Şimdi Kurumsal Sipariş Akışından başlayarak her adımda neye dikkat edilmesi gerektiğini ve 
+nedenini açıklayayım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+Sayfa 2/6
+Sipariş Akışı iki türe ayrılabilir:
+Boğa Sipariş Akışı Ayı Sipariş Akışı
+Bir piyasa Boğa PD dizilerine saygı 
+duyduğunda ve daha yüksek yüksekler ve 
+daha yüksek düşükler yaptığında, bu bir 
+Boğa Sipariş Akışı.
+Bir piyasa düşüş yönlü PD dizilerine 
+saygı gösteriyorsa ve daha düşük en 
+düşük ve daha düşük en yüksek 
+seviyeleri yapıyorsa, piyasanın bir 
+durumda olduğunu söyleyebiliriz.Ayı 
+Sipariş Akışı
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Sayfa 3/6
+Aynı kavramları günlük grafikte uygulamak bize günlük Emir akışı hakkında bilgi verir.
+Ancak yükseliş emri akışında her bir mum yükseliş eğilimi 
+göstermeyeceğinden, önyargımız her gün yükseliş eğilimi 
+göstermeyecektir. Bazı düşüş veya düşüş mumları da olacak ve bu tür 
+günlerde işlem yaparken riskimizi düşük tutmalıyız çünkü HTF anahtar 
+seviyesinde işlem yapmadığımız sürece piyasa günlük sipariş akışına karşı 
+işlem yaptığından düşük olasılıklı kurulumlar sağlarlar ve aynı düşüş yönlü 
+Sipariş Akışındaki Boğa mumları için de geçerlidir.
+Bu grafik örneğinde, piyasa yapısı 
+HTF anahtar seviyesinde Boğa 
+yönlü bir değişime uğradıktan 
+sonra fiyatın Boğa PD dizilerine 
+nasıl saygı duymaya başladığını 
+görebiliriz.
+FVG[D]
+Piyasanın şu anda Yükseliş 
+Sipariş Akışında olduğunu 
+tahmin edebiliriz ve 
+kullanarak satın alma 
+fırsatlarını aramalıyız.
+POI'ler olarak yeni PD dizileri 
+oluşturun.
+Hacim Dengesizliği
+Önceki günün kapanış fiyatı:
+Önceki günlük kapanış, bir sonraki gün için beklenen fiyat hareketi hakkında değerli 
+bilgiler sağlar.
+Kısa vadeli likidite Hedefleri:
+Kısa vadeli likidite Hedefleri, günlük kapanışa bağlı olarak fiyat için mıknatıs görevi görür. Bu 
+hedefler, Önceki günün en yüksek ve en düşük değerleri, günlük Gerçeğe Uygun Değer Açığı ve 
+günlük yüksek/düşük dalgalanmalar vb. olabilir ve sonraki gün(ler) için kısa vadeli DOL işlevi 
+görebilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Sayfa 4/6
+Günlük kapanış PDH üzerinde
+Günlük mum önceki günün en yüksek seviyesinin üzerinde kapanırsa, bir sonraki günlük mumun yükseliş (OLHC) 
+olacağını öngörebiliriz. Bu nedenle eğilimimiz yükseliş yönünde olmaya devam ediyor.
+Gördüğümüz gibi bu Günlük 
+Mum PDH'nin üzerinde kapandı. 
+Artık bir sonraki günlük mumun 
+yükselişe geçeceğini tahmin 
+edebiliriz. Dolayısıyla, kısa vadeli 
+likidite hedefine veya kısa vadeli 
+DOL'ye ulaşılana kadar ertesi 
+gün için eğilimimiz yükseliş 
+yönünde olmalıdır; bu durumda 
+bu, Önceki Günün En Yüksek 
+Seviyesi (PDH) olacaktır.
+Günlük kapanış PDL'nin altında
+Günlük mum bir önceki günün en düşük seviyesinin altında kapanırsa, ertesi günün düşüş eğiliminde olması 
+(OHLC) olasılığı yüksektir. Bu nedenle önyargımız aşağı yönlü olmaya devam ediyor.
+Bu örnekte, Kırmızı çizgiler Önceki 
+Günün en düşük seviyesini ve 
+kapanıştan sonra önceki günün 
+altında olduğunu gösteriyor
+Günlük düşük seviyeler aşağıdaki 
+mumlar da düşüş eğilimi 
+gösteriyor. Yani o günler için 
+önyargımız bu olmalı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Sayfa 5/6
+Günlük yakın tarama PDH
+Günlük mum PDH'yi süpürdükten sonra PDH'nin altında kapanırsa, bu bir tersine dönüş 
+işaretidir ve ertesi günün düşüş eğilimi göstermesi ihtimali yüksektir (OHLC). Bu nedenle 
+önyargımız düşüş yönünde olmalı.
+Bu örnekte, günlük mum önceki 
+günlük mumun en yüksek 
+seviyesini geçti. Dolayısıyla, aynı 
+günün en düşük seviyesi kısa 
+vadeli likidite hedefimiz (DOL) 
+haline geldi ve DOL karşılanana 
+kadar önümüzdeki günlerde 
+LTF'nin düşüş eğilimine yönelik 
+kurulumlarını aramalıyız.
+Günlük yakın süpürme PDL
+Günlük mum, PDL'yi süpürdükten sonra PDL'nin üzerinde kapanırsa, bu bir tersine dönüş 
+işaretidir ve ertesi günün yükseliş (OLHC) olma ihtimali yüksektir. Bu nedenle önyargımız Boğa 
+yönünde olmalıdır.
+Bu örnekte, günlük bir mumun 
+süpürme sonrasında yükseliş 
+eğiliminde kapandığını görebiliriz.
+PDL, yani aynı günlük mumun 
+en yüksek seviyesi bir sonraki 
+DOL'umuz olmalı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Sayfa 6/6
+Önceki günün aralığında günlük kapanış
+Günlük mum bir önceki günün aralığı içinde kapanırsa, önyargımızı destekleyecek net bir Sipariş Akışı elde 
+edene kadar veya günlük mumun yukarıda/aşağıda kapanmasını veya günlük mumun yukarısında/
+aşağısında kapanmasını bekleyene kadar sonraki gün(ler)de işlem yapmaktan kaçınma eğilimindeyiz. Bize 
+pazarın doğru yönünü verecek aralık.
+Bar Mumu İçinde:
+İç çubuk mumu, 
+önceki mum aralığının 
+dışında işlem yapamayan 
+bir mumdur. Bu yüzden 
+piyasanın niyetini 
+göstermesini bekliyoruz ve 
+ardından günlük bir eğilim 
+oluşturmaya çalışıyoruz.
+Günlük önyargıyı çerçevelemenin birden fazla yolu vardır ve bunların hepsine ihtiyacınız yoktur; yalnızca sizin 
+için en iyi olanı seçmeniz gerekir. Bu kılavuzda yalnızca işime yarayan kavramları açıkladım ve yalnızca bu araç 
+setini kullanarak herhangi bir varlığın günlük eğilimini çerçevelemede başarılı oldum. Ancak eminim ki bu 
+kavramlar cephaneliğinize güzel bir katkı olacaktır.
+Okuduğunuz için teşekkürler
+Lütfen takdir için Beğenin, Paylaşın ve Takip Edin
+@Plexus_pa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Bookmark for Future Reference
+DAILY BIAS MADE EASY
+IN THIS GUIDE, I’LL EXPLAIN MY STEP-BY-STEP APPROACH
+TO FRAME A DAILY BIAS OF AN ASSET
+@Plexus_pa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Page 1/6
+As you all know the market only moves from one Liquidity Objective to the other. Those
+objectives can be termed Old Range Highs / Lows, Internal Highs / Lows, Fair Value
+Gaps, and all other PD Arrays act as magnets for price. By keeping this concept in mind
+we try to predict the next movements of the markets, which includes predicting the
+Daily Bias.
+What is the daily Bias?
+Daily bias prediction determines which way the market will likely go based on the daily
+candlestick pattern — OLHC or OHLC.
+OLHC OHLC
+Bullish Scenario Bearish Scenario
+I’ll explain my simple and step-by-step approach to the process of finding a bias.
+Daily Order Flow & HTF DOL
+The previous day's closing price
+Short-term liquidity Objectives
+Now let me explain what to look for during each step and why, starting with the
+Institutional Order Flow
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Page 2/6
+When a market is respecting
+bearish PD arrays and is
+making lower lows and lower
+highs, we can say that the
+market is in a Bearish Order
+Flow
+When a market respects Bullish PD
+arrays and makes higher highs and
+higher lows, that is considered a
+Bullish Order Flow.
+Order Flow can be categorized into two types: 
+Bullish Order Flow Bearish Order Flow 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Page 3/6
+Applying the same concepts on a daily chart tells us about daily Order flow.
+However, in a bullish order flow not every single candle will be bullish
+so our bias will not be bullish every single day. There will be some
+bearish or down close candles too and we should keep our risk low
+while trading on such days because they provide low probability
+setups as the market is trading against daily order flow, unless we
+are trading at an HTF key level, and  same goes for Bullish candles in
+a bearish Order Flow.
+FVG[D]
+Volume Imbalance
+In this chart example we
+can see how price starts to
+respect Bullish PD arrays
+after the market structure
+shifts Bullish at an HTF key
+level.
+we can anticipate that
+market is in Bullish Order
+Flow now and should look
+for buying opportunities
+using
+newly create PD arrays as
+POIs.
+Previous day's closing price:
+The previous daily close provides valuable insights into the expected price action for
+the following day.
+Short-term liquidity Objectives:
+Short-term liquidity Objectives act as the magnets for the price, depending upon the
+daily close. Those objectives can be the Previous day's high and low, daily Fair Value
+Gap, and daily swing high/low, etc, and can act as short-term DOL for the following
+day(s).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Page 4/6
+Daily close above PDH
+Daily close below PDL
+If the daily candle closes above the previous day’s high, we can anticipate that the
+next daily candle will be bullish (OLHC). Therefore, our bias remains bullish.
+If the daily candle closes below the previous day’s low, there is a high probability that
+the next day will be bearish (OHLC). Hence, our bias remains bearish.
+As we can see this Daily
+Candle closed above PDH.
+Now we can anticipate the
+Next daily candle will be
+bullish. So our bias should
+be bullish for the following
+day until the short term
+liquidity objective or short
+term DOL is met, which in
+this case will be Previous
+Day’s High (PDH).                    
+In this example, the Red
+lines indicate Previous
+Day’s low and after
+closing below previous
+daily low the following
+candles are also bearish
+So, should be our bias for
+those days.                           
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Page 5/6
+Daily close sweeping PDH
+Daily close sweeping PDL
+If the daily candle closes below PDH after sweeping PDH, then this is a sign of
+reversal and a high probability that the next day will be bearish (OHLC). Therefore
+our bias should be bearish. 
+If the daily candle closes above PDL after sweeping PDL, then this is a sign of
+reversal and a high probability that the next day will be bullish (OLHC). Therefore our
+bias should be Bullish.
+In this example, the daily
+candle swept previous daily
+candle’s high. So, the same
+day’s low become our short
+term liquidity objective
+(DOL) and we should be
+looking for LTF bearish
+setups for the following
+days until the DOL is met.    
+In this example, we can
+see a daily candle closed
+bullish after sweeping
+PDL, so the same daily
+candle’s high should be
+our next DOL.                         
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Page 6/6
+Daily close inside previous day’s range
+If the daily candle closes inside the previous day’s range then we tend to avoid
+trading the next day(s) until we have a clear Order Flow to support our bias or we wait
+for a daily candle to close above/below or sweep the daily candle’s range to give us a
+proper direction of the market.
+There are multiple ways to frame a daily bias and you do not need all of them, you just need to pick
+up what works for you the best. In this guide, I have explained only those concepts that work for
+me and I have been successful in framing the daily bias of any asset just by using this toolkit.  But I
+am sure these concepts will be a nice addition to your arsenal.
+Inside Bar Candle:                
+          An inside bar candle is
+just a candle which fails to
+trade outside of the
+previous candle’s range. So
+we simply wait for the
+market to show its intention
+and then look to form a
+daily bias.                                   
+Thank you for Reading 
+Please Like, Share, and Follow for appreciation 
+@Plexus_pa
+www.forexgercekleri.xyz - [Twitter: @eseckal]

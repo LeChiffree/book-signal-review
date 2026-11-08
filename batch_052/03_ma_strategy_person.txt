@@ -1,0 +1,368 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 1\Baskı 1\Hareketli Ortalamalarla Strateji Rehberi - John Person (16 sayfa) - @eseckal.pdf
+PAGES: 16
+
+
+=== PDF PAGE 1 ===
+Profesyonel Tüccar Serisi:
+Hareketli Ortalama Formülü
+& Strateji rehberi
+John Person tarafından
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+HAREKETLİ ORTALAMA FORMÜLLER VE STRATEJİ KILAVUZU
+Chicago Ticaret Kurulu için gerçekleştirilen çevrimiçi bir seminerde, yatırımcıların alım satım kararlarını belirlemelerine 
+yardımcı olmak için Hareketli Ortalamaların nasıl uygulanacağını ve sistematik bir ticaret yöntemi oluşturmak için bunların 
+nasıl uygulanacağını paylaştım. Ayrıca Stokastik ve MACD gibi popüler göstergeleri kullanarak alım satım sinyallerine yönelik 
+filtrelerin nasıl etkili bir şekilde uygulanabileceğine dair bilgiler verdim. Tek bir ticaret göstergesi veya stili için kutsal kâse 
+olmadığı atasözü böyle devam ediyor. Yatırımcıların çeşitli piyasa koşulları için alım satım sinyallerini deşifre etmeye yardımcı 
+olmak için birden fazla gösterge kullanması gerektiğine inanıyorum. Başarılı bir yatırımcının, piyasadaki dalgalanmaların yanı 
+sıra piyasa koşullarının da değiştiğinin farkında olması gerektiğine inanıyorum. Çoğunlukla bu, insanların herhangi bir 
+zamanda bir ürünün verilen değeri veya beklenen değeri hakkındaki algısından kaynaklanır. Belirli piyasa koşullarında 
+Hareketli Ortalamaları Stokastik ve MACD gibi göstergelerle birleştirmenin, trend ve konsolidasyon aşamalarını keşfetme ve 
+ıraksama veya yakınsama gibi çeşitli sinyalleri belirlemedeki başarınız için hayati önem taşıyabileceğine inanıyorum. Her ikisi 
+de geri dönüşleri belirlemek için kullanılabilir. Gerçek şu ki, trend piyasalarında MACD, bu göstergenin hareketli ortalama 
+değerler üzerine kurulu olduğu gerçeğine dayanarak, bir ticarette daha uzun süre kalmanıza yardımcı olma konusunda 
+arkadaşınız olabilir.
+Bu kitapçıkta şunları incelemek ve ele almak istiyorum:
+• Hareketli Ortalama Nedir?
+• Kullanılacak kaç tür hareketli ortalama vardır.
+• Hareketli ortalama nasıl hesaplanır.
+• Hangi girdilerin ortalaması alınacak?
+• Hareketli ortalamalar için zaman boyutları.
+• Sinyalleri çaprazlayın.
+• Hareketli ortalama kanallar.
+• Stokastik, MACD ve diğer göstergeleri kullanarak hareketli ortalama sinyallere filtre uygular.
+• Hareketli ortalama ayarları olarak Fibonacci'nin kullanılması.
+• Pivot Noktalarının hareketli ortalama sistemi olarak kullanılması.
+Basitçe söylemek gerekirse Hareketli Ortalamalar, bir dizi sayısal değerin ortalamasını alan bir matematik 
+hesaplamasıdır. Hareketli ortalama serisi herhangi bir zaman serisi için hesaplanabilir. Finans alanında 
+çoğunlukla hisse senedi ve türev fiyatlarına, getiri yüzdelerine, getirilere ve işlem hacimlerine uygulanır. 
+Hesaplanacak üç evrensel hareketli ortalama türü vardır. Basit hareketli ortalama, kullanılan en popüler 
+göstergelerden biridir ve hesaplanması kolaydır. Ayrıca fiyat dalgalanmalarına karşı daha duyarlı ancak formüle 
+edilmesi daha karmaşık olan ağırlıklı ve üstel hareketli ortalama da vardır.
+Telif hakkı @ 1999-2007, John L Person III, Palm Beach, FL 33480. Sunulan görüşler yalnızca bilgilendirme amaçlıdır. Bu raporda ifade 
+edilen görüşler sonucunda alınacak herhangi bir satın alma veya satış kararının sorumluluğu tamamen Şirket'e ait olacaktır.
+Böyle bir işleme izin veren kişi.
+Bu materyalin görevlendirilen kişi dışında herhangi birine çoğaltılması, dağıtılması veya sergilenmesi yasa dışıdır. Çoğaltamazsınız
+bu materyal, yazar John L. Person'ın açık yazılı izni olmadan.
+2www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Basit Hareketli Ortalamanın (SMA) nasıl hesaplanacağı aşağıda açıklanmıştır. Son on periyodun kapanışını alıp 
+toplayıp ona bölersek son on periyodun ortalamasını veya ortalamasını elde ederiz. Yeni bir dönem eklendikçe 
+en eski zaman dilimini çıkarıyoruz.
+Periyotlar: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 =
+13600, 13620, 13615, 13580, 13565, 13600, 13610, 13650, 13660, 13650,
+Toplam = 136150 ÷   10 = 13610
+Ağırlıklı ortalama, farklı veri noktalarına farklı ağırlıklar vermek için çarpım faktörlerine sahip herhangi bir 
+ortalamadır. Ancak teknik analizde ağırlıklı hareketli ortalama (WMA), aritmetik olarak azalan ağırlıkların özel 
+anlamını taşır. Ağırlıklı M/A'lar daha güncel fiyat verilerine daha fazla ağırlık verir. Bunlar karmaşıktır ve bir 
+bilgisayarın yardımına ihtiyaç duyarlar.
+WMA = en son günün ağırlığı n'dir, ikinci en geç n-1, vb., sıfıra kadar.T T
+Üstel hareketli ortalamalar (aynı zamanda ex onsential ağırlıklı hareketli ortalamalar olarak da adlandırılır). 
+EMA katlanarak azalan ağırlıklandırma faktörlerini uygular. EMA, eski fiyatlara göre güncel fiyatlara daha fazla 
+ağırlık uygulayarak gecikmeyi azaltıyor. EMA'nın süresi ne kadar kısa olursa, en güncel fiyata o kadar fazla 
+ağırlık uygulanacaktır.
+P ben
+EMA = (Fiyat (güncel) – EMA (önceki) (x Çarpan) + EMA (önceki)
+Pgül
+Zaman içindeki ortalama fiyat değişikliklerini tanımlar ve ticaret gürültüsünü yumuşatır. 
+Mükemmel trend ticaret aracı.
+Tanımlamak, tetiklemek, girişleri, destek ve direnç seviyelerini belirlemek için kullanılır.
+Ticaret sistemlerinde kullanılabilir ve geriye dönük test edilmiş performans sonuçları incelenebilir.
+Cons
+M/A'nın piyasadaki fiyat değişimlerinin gerisinde 
+kalması. Dalgalı pazarlarda etkili değildir.
+Fiyat uzantılarını keşfetmede etkili değildir.
+Fibonacci veya Pivot analizi gibi dönüm noktalarını tahmin edemezsiniz, yalnızca trendlerdeki değişiklikler olur
+3www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+VORTALAMA SEÇİMLERİ OLARAK KULLANILACAK DEĞİŞİKLER.
+Yüksekler
+Düşükler
+Kapalı
+Açılır
+Aralık ortalaması (Yüksek-Düşük) 
+Tipik fiyat ortalaması (HLC/3) 
+Hacim
+Volatilite ölçümleri (VXN, VIX VXO)
+Trendin yönünü hareketli ortalamalarla belirlemenin birkaç yolu vardır. Fiyatlar ile hareketli 
+ortalama arasındaki ilişkiye bakarsak, yalnızca hareketli ortalamanın yönünü değil aynı zamanda 
+fiyatın hareketli ortalama değerlerine ve ilgi çekici geçiş noktalarına göre konumunu da 
+inceleyebiliriz.
+Ben
+Spratik temel kural:
+• Hareketli ortalama yükseliyorsa ve fiyatlar M/A'nın üzerindeyse trendin yukarı olduğu kabul edilir.
+• Hareketli ortalama düşüyorsa ve fiyatlar M/A'nın altındaysa trendin aşağı olduğu kabul edilir.
+Fiyat değişikliğine ilişkin sinyali tetikleyecek ek bir filtre, kapanışın hareketli ortalamanın üstünde veya altında olması 
+olabilir. Diğer bir yöntem ise fiyat bileşenlerinin (O, H, L, C) tüm aralığının hareketli ortalamanın üstünde veya altında 
+işlem görmesidir. Başka bir filtre, bu faktörlerin birden fazla oturuma yönelik olup olmadığıdır.
+Aşağıdaki Şekil 1'de soya fasulyesine ilişkin gösterge üçgenleri içeren günlük bir grafik bulunmaktadır. Yeşil işaretler alım 
+sinyalleri ve turuncu vurgular satış sinyalleridir. Sadece kapanışın değil, tüm aralığın (O, H, L, C) nerede kesiştiğini ve hareketli 
+ortalama çizgisinin üstünde veya altında kaldığını görebiliriz, bu da bir trend değişikliğinin meydana geldiği gerçeğini 
+güçlendirir.
+Bu yöntem, yönlü bir fiyat değişiminin belirlenmesinde ve onaylanmasında oldukça etkilidir. Bu her 
+zaman işe yaramayabilir ve bazı durumlarda sinyal büyük bir hareket gerçekleştikten sonra üretilir, ancak 
+bu kavram bir ticaret sistemi için yapı taşı olarak kullanılabilir. Özellikle trend takipçileri için, fiyatlar 
+hareketli ortalamanın altında kapandığında ve tüm aralık birden fazla zaman diliminde kapandığında çıkış 
+stratejisi onaylanacaktır.
+4www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Şekil 1
+Şekil 2'de, bu konseptin çeşitli pazarlarda ve farklı zaman dilimlerinde işe yaradığını gösteren 
+haftalık mısır grafiğimiz var. Bu yöntem sizi trendin çoğunluğunda tutacaktır.
+5www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+şekil 2
+Şekil 2'de, iki veya daha fazla aralığın hareketli ortalama çizgisinin üzerinde olması nedeniyle bir satın alma sinyalini gösteren 
+yeşil üçgene dikkat edin. Daha sonra, iki veya daha fazla zaman periyodunun tüm aralıkları hareketli ortalama değerin altında 
+olduğunda bir satış sinyali üretilir. Bu, bir trendin ne zaman tersine döneceğini veya değişmeden kalacağını doğrulayan bir 
+gösterge olarak kullanılacak eklenen filtre yöntemidir.
+Ticaret yönetimi teknikleriyle her türlü sistemi geliştirebiliriz. Çoğu tüccar, fiyat ilişkisini ve hareketli 
+ortalamaları incelerken baskı altında hızlı kararlar vermekte zorlanır. Sinyallere filtre eklemenin yardımı, 
+özellikle giriş, risk, pozisyon eklemeleri, ölçeklendirmeler veya sabit çıkış seviyelerini belirlemek için 
+ticaret yönetimi tekniklerini dahil ettiğimizde, bir yatırımcının performansını artırabilir.
+6www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Wşapka zamanı Dönemler gerekirBenkullanmak?
+Bazı yatırımcıların aklındaki soru, hareketli ortalamayı hangi zaman aralıklarında programlamaları gerektiğidir. 
+Çeşitli zaman değerlendirmeleri arasında, hareketli ortalamanın, tam bir işlem haftasına eşit olan 5 sayısı gibi belirli 
+bir zaman çerçevesiyle sıralanması yer alır. 20 günlük ve 40 günlük bir M/A, bir ve iki aylık hareketli ortalamaya 
+ulaşır.
+Günlük tüccarlar, 15 dakikalık bir süre ve 5 dakikalık bir süre (3'e bölünebilen) gibi çoklu zaman dilimi analizinin kullanımını 
+parçalara ayırabilir. Yatırımcılar Fibonacci sayı serileri ile zaman dilimlerini bağlayabilir ve çoğu zaman da bağlayabilirler. 
+Bunlar 1,1,2,3,5,8,13,21, 34, 55, 89, 144, 23, vb.'dir. Kullanılan en popüler sayılar 3,5, 8 13 ve 21'dir. Vadeli işlem yatırımcıları 
+daha kısa vadeli işlemler kullanır Hisse senedi yatırımcıları genellikle daha uzun vadeli dönemleri kullanır. Sadece, kullanılan 
+süreler ne kadar kısa olursa, fiyat değişikliklerine karşı daha duyarlı olduklarını unutmayın.
+MnihaiMoVingAOrtalamalar
+Birden fazla zaman dilimine sahip birden fazla hareketli ortalamayı tanıttığımızda, bu zaman dilimleri içindeki kısa 
+vadeli ve uzun vadeli eğilimleri ve değişiklikleri belirlemeye yardımcı olur. Bu kavram, karınızı artırmanıza ve riskleri 
+azaltmanıza yardımcı olacak destek ve direnç seviyelerini belirlemek için kullanılabilir. Kapanış fiyatının bir geçişe 
+neden olduğunu her zaman unutmayın: bu, bir sinyalin üretildiği zamandır.
+Teknisyenlerin trend değişikliklerini tanımlamak için kullandığı iki terim vardır:
+◊
+◊
+Ölü Çapraz - kısa vadeli bir M/A'nın uzun vadeli bir M/A'ya göre düşüş eğilimi veya negatif geçişi. Golden 
+Cross- Uzun vadeli bir M/A'dan daha kısa vadeli bir M/A'nın yükseliş veya pozitif geçişi.
+Aşağıdaki Şekil 3'te, bana fiyat değişikliklerinin göstergelerini veren özel algoritmalarla birleştirilmiş özel 
+hareketli ortalama ayarlarına dayanarak tasarladığım bir ticaret sistemi ile 15 dakikalık bir grafiğimiz var. Ayrıca 
+piyasaları neyin hareket ettirdiğini belirlememe yardımcı olması için Pivot Noktası destek ve direnç seviyelerinin 
+kullanımını birleştirdim; bu iki husus zaman ve fiyattır. Gördüğünüz gibi, basitçe söylemek gerekirse, mavi çizgi 
+sarı çizginin altından geçtiğinde çift üçgen oluşur ve bu bana ölü bir kesişimin veya satış sinyalinin 
+göstergesidir. Karşıtlık oluştuğunda altın haç konseptimiz olur. Yatay hareket periyotları sırasında hareketli 
+ortalama sistemleri, yanlış alım ve satım sinyalleri üretmeleri nedeniyle zayıf bir bağlantıya sahiptir. Bu nedenle 
+hangi sinyallerin alınacağını veya söneceğini belirlememize yardımcı olacak bazı filtreler eklememiz gerekiyor.
+7www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Figür 3
+Ffiltreleme araçları
+Stokastik aralık tabanlı bir osilatördür, aynı zamanda momentum osilatörü olarak da kabul edilir. George C. Lane, formülü 
+oluşturma konusunda itibar sahibidir. 1980'den 1982'ye kadar George için çalışma ayrıcalığına sahip oldum.
+Göstergesi, bir piyasanın aşırı alımda olup olmadığını, yani fiyatların çok erken yükselip aşağı yönlü bir düzeltmeden 
+kaynaklanıp kaynaklanmadığını veya aşırı satış olup olmadığını, yani fiyatların çok erken düşüp yukarı yönlü bir düzeltmeden 
+kaynaklanıp kaynaklanmadığını belirlemeye yardımcı olmak için kullanılan popüler bir teknik araçtır. Belirli bir zaman 
+dilimindeki uzlaşma fiyatını belirli sayıda geçmiş dönem fiyat aralığıyla karşılaştırmak için hesaplanan matematiksel bir 
+formüle dayanmaktadır.
+8www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Teori, boğa veya yükseliş trendindeki piyasalarda fiyatların daha yüksek zirvelere çıkma eğiliminde olduğu ve uzlaşma 
+fiyatının genellikle o zaman periyodundaki işlem aralığının üst ucunda olma eğiliminde olduğu varsayımıyla çalışır.
+Momentum yavaşlamaya başladığında uzlaşma fiyatları aralığın üst sınırlarından itibaren 
+zayıflamaya başlayacak ve Stokastik Göstergesi yükseliş momentumunun değişmeye 
+başladığını gösterecek. Ayı veya düşüş trendindeki piyasalar için tam tersi geçerlidir. %K ve %D 
+olarak adlandırılan iki satır vardır. Bunlar belirli bir süre için yatay eksende, dikey eksen ise %0 
+ile %100 arasında bir ölçekte çizilir.
+İlk bileşeni hesaplamak için formül, %K: (14 dönem) %K 
+değeri =c-Ln/Hn-Ln*100
+c=cari dönemin kapanış fiyatı, Ln= n dönemindeki en düşük düşük, Hn=n dönemindeki en 
+yüksek en yüksek ve n=dönem sayısı.
+İkinci hesaplama %D'dir (3 dönem) 
+%K'nın hareketli ortalamasıdır.
+Şu şekilde hesaplanır: %D=100(Hn/Ln) 
+HN= (c-Ln)'nin n periyot toplamı.
+Önemli olan alım veya satım sinyallerinin nasıl yorumlanacağına ilişkin kuralları anlamaktır. Okumalar %70'in 
+üzerinde olduğunda ve %k, %D çizgisini geçtiğinde ve her iki çizgi de aşağıyı gösterdiğinde, bir "kanca" satış sinyali 
+oluşturulur. Okuma %30'un altında olduğunda ve her iki çizgi de yukarıyı gösterdiğinde, %K %D'nin üzerine çıktığında 
+bir satın alma sinyali oluşturmak için bunun tam tersi doğrudur.
+Stokastik kullanılırken ilişkili başka teknikler de vardır. Hızlı Stokastik ve Yavaş Stokastik var. 
+Aradaki fark, fiyattaki değişimi ölçmek için parametrelerin nasıl ayarlandığıdır. Buna hassasiyet 
+göstergesi denir. Daha yüksek bir hassasiyet oranı, hesaplamadaki dönem sayısının 
+azaltılmasını gerektirecektir. "Hızlı" Stokastik'in yaptığı da budur. Kısa sürede daha hızlı ve daha 
+yüksek frekansta işlem sinyalleri üretilmesini sağlar.
+Stokastik göstergeyi kullanmanın diğer bir yöntemi de yükseliş yakınsaması adı verilen formasyonun ticaretidir. Piyasa 
+diplerinin belirlenmesinde kullanılır. Bu, piyasa fiyatının kendisinin bir önceki düşük seviyeden daha düşük bir düşüş yaptığı, 
+ancak altta yatan stokastik modelin daha yüksek bir düşük seviye oluşturduğu yerdir. Bu, düşük seviyenin “yanlış dip” 
+olduğunu ve fiyatın tersine çevrilmesi için dönüşe başvurabileceğini gösterir. Hareketli ortalama değerleri, pivot noktası 
+destek ve direnç seviyelerini, mum grafiklerini ve göstergeleri birleştirdiğimizde, ticaret sinyallerini nasıl 
+tanımlayabileceğimize ve bazı basit kurallarla yanlış satış sinyallerini nasıl filtreleyebileceğimize dair harika bir örnek 
+görüyoruz. Yatırımcılara destekte alım sinyalleri ve dirençte satış sinyalleri aramalarını öğrettiğim iki temel kural var. Figür
+9www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Şekil 4, fiyatların daha düşük bir dip yapması, ancak göstergenin buna karşılık gelen daha yüksek bir dip yapması 
+nedeniyle Stokastik'te yükseliş eğilimini gösteriyor. Yatay yeşil çizgi önceden belirlenmiş pivot noktası desteğiydi ve 
+yeşil üçgenlerin alım sinyali vermesini sağladık.
+Şekil 4
+Diğer bir sinyal ise düşüş eğilimi adı verilen bir ticaret modelidir. Pazar zirvelerinin belirlenmesinde kullanılır. Bu, piyasa 
+fiyatının kendisinin bir önceki yüksek seviyeden daha yüksek bir zirve yaptığı, ancak altta yatan stokastik modelin daha düşük 
+bir yüksek seviye oluşturduğu yerdir. Bu, ikinci en yüksek seviyenin "zayıf" bir yüksek seviye olduğunu ve daha düşük bir fiyat 
+dönüşü için dönüşe başvurabileceğini gösteriyor. Şekil 5'te görebileceğiniz gibi, hareketli ortalama çapraz geçişler tarafından 
+oluşturulan ticaret sinyallerini filtrelemeye yardımcı olmak için bir kez daha birden fazla gösterge kullanıyor; bu ölü çapraz 
+sinyalde olduğu gibi, turuncu bir üçgen, karşılık gelen düşüş eğilimi stokastik modeliyle bir satış sinyali üretti.
+10www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Şekil 5
+Hareketli Ortalama Yakınsama/Uzaklaşmaaksi takdirde olarak bilinirMACDEn basit ifadeyle kısa vadeli 
+hareketli ortalamanın uzun vadeli hareketli ortalamayı ne zaman geçtiğini gösteren bir göstergedir. 
+Gerald Appel bu göstergeyi bugün bildiğimiz şekliyle geliştirdi ve benim anladığım kadarıyla hisse senedi 
+alım satımı amacıyla geliştirdi. Üç üstel hareketli ortalamanın kullanılmasından oluşur.
+Hesaplamalar için ilk girdiler 9 dönem, 12 dönem ve 26 dönemdi. Yatırımcıların artık bilgisayar konusunda her zamankinden daha 
+bilgili olması nedeniyle, orijinal hesaplamalarındaki değişkenleri değiştirmenin veya "ince ayarlamalar" yapmanın daha kolay 
+olduğunu eklemeliyim.
+Yatırımcılar, daha az ticaret sinyali üretmek için hareketli ortalama hesaplamalarındaki zaman dilimlerini artırabilir ve daha 
+fazla ticaret sinyali üretmek için zaman dilimlerini kısaltabilirler.
+11www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Bu teknik ve konsept, daha önce anlatıldığı gibi hareketli ortalamaların kullanımına uygulanır. 
+Konsept şudur, iki çizgi vardır, biri 9 dönemlik üstel ortalamalar (yavaş çizgi), diğeri ise 12 ve 26 
+dönemlik üstel hareketli ortalama arasındaki farktır (hızlı çizgi). Bu önemli bir bilgidir çünkü 
+grafiklerinize yerleştirilmiş benzer zaman ayarlarının taşınmasını kullanmak istemezsiniz çünkü bu 
+bir onaylama aracı değil, yinelenen bir sinyal üreten bileşen olacaktır.
+MACD sinyalleri piyasadaki değişikliklere hızla tepki veriyor, bu yüzden ben de dahil olmak üzere birçok 
+analist bunu kullanıyor. Hareketli ortalama geçişler meydana geldiğinde resmin netleşmesine yardımcı 
+olur. Kısa vadeli perspektiften uzun vadeli perspektife doğru geçmiş zaman dilimleriyle karşılaştırıldığında 
+mevcut fiyatların göreceli gücünü ölçer. MACD sinyalleri, piyasa orijinal trendin ters yönünde hareket 
+ettikten sonra üretilir ve bu nedenle gecikmeli bir gösterge olarak kabul edilir.
+Öncelikle bu göstergenin nasıl kullanılacağını anlamanıza yardımcı olacak bazı genel noktalar şunlardır; Hızlı çizgi 
+yavaş çizgiyi geçtiğinde bir satın alma sinyali verilir. Satış sinyalleri için ise tam tersi geçerlidir. MACD'nin ayrıca sıfır 
+taban çizgisi vardır. MACD çizgisi sıfır çizgisinin üzerindeyse fiyatlar genellikle daha yüksek bir trend gösterir. MACD 
+sıfır çizgisinin altına düşüyorsa bunun tersi doğrudur.
+e
+Daha güvenilir ancak sıklıkla oluşmayan başka bir yöntem ise yükseliş yakınsaması adı verilen bir kalıptır. Bu, piyasa fiyatının 
+önceki düşük seviyeden daha düşük bir düşüş yaptığı, ancak altta yatan MACD modelinin daha yüksek bir düşük seviye 
+oluşturduğu yerdir. Bu, düşük seviyenin zayıf veya "yanlış" bir taban olduğunu ve fiyatın tersine çevrilmesi için dönüşe 
+başvurabileceğini gösterir. MACD, Ayı Uyumsuzluğu olarak bilinen satış sinyaliyle aynı prensiplere sahiptir. Bu, piyasa 
+fiyatının kendisinin bir önceki yüksek seviyeden daha yüksek bir zirve yaptığı, ancak temeldeki MACD geçiş çizgilerinin daha 
+düşük bir yüksek seviye oluşturduğu yerdir. Bu, ikinci en yüksek seviyenin "zayıf" bir yüksek seviye olduğunu ve daha düşük 
+bir fiyat dönüşü için dönüşe başvurabileceğini gösteriyor. Histogram bileşeninde, gerçek hareketli ortalama MACD 
+çizgilerinde gördüğümüzden daha fazla sapma modeli görüyoruz.
+Şekil 6'daki grafik, fiyat çubuklarının altındaki alt bölmede MACD göstergesinin yer aldığı 30 Yıllık Hazine 
+Tahvili'nin günlük grafiğidir. MACD çizgilerinin gösterge üçgenlerine ve hareketli ortalama geçişlere ne 
+zaman karşılık geldiğini göstermek için mavi dikey çizgi kullandım. Gördüğünüz gibi histogram 
+bileşeninin MACD hareketli ortalama çizgilerinde görünmediğinde yükseliş ve düşüş eğilimi oluşturduğu 
+durumlarla karşılaşıyoruz.
+12www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Şekil 6
+Şekil 7'deki bir sonraki grafiğin orta bölmesinde MACD ve alt kısmında CCI göstergesi bulunmaktadır. Karşılık 
+gelen hareketli ortalama geçişlerine baktığımızda, diğer iki göstergenin piyasa dönüşünü onaylayan nerede 
+sıralandığını görebiliriz. Bu, daha temiz bir sinyal üretilebildiğinden iki göstergeyi kullanmanın faydalarını 
+gösterir ve bu durumda MACD'nin hareketli ortalama geçiş özelliği satış sinyalini doğrular.
+13www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Şekil 7
+Göstergelerin yanı sıra ticarette daha fazlası var!
+Filtrelerin (doğrulayıcı göstergeler) yardımıyla Hareketli Ortalamaları kullanarak tartıştığımız gibi teknik çalışmalar, 
+alım satım kararı vermeye yardımcı olmanın sadece bir parçasıdır. Ticaret, risk yönetimini, sabrı veya benim 
+deyimimle "bekleme oyununu" kullanmayı gerektirir. Ticaret aynı zamanda pozisyonlardan ne zaman çıkılacağını veya 
+pozisyonlara ekleme yapılacağını bilmek için gereken becerilere ilişkin ek eğitimi de içerir. Teknik analizin nasıl 
+kullanılacağının yanı sıra ticaret becerileri konusunda da eğitiminizi ilerletmenizi tavsiye ederim. Bu çalışma kılavuzu, 
+yatırımcıların hareketli ortalama oluşturmak için pivot noktası, yüksek, düşük ve geleneksel kapanış değeri gibi çeşitli 
+koşulları nasıl kullanabileceğini göstermek için tasarlanmıştır. Bu kılavuz aynı zamanda bir ticaret sinyalini 
+doğrulamak için korelasyonsuz doğrulama araçlarının kullanılması gerektiği kavramını da size sunmaktadır. 
+Başkalarının sorduğu yanıtların yanı sıra ortak soruların da yer aldığı bir bölüm ekledim; belki bu size de yardımcı 
+olabilir. Kısa kural girişleri parametre ayarları hakkında özel bilgi arıyorsanız şu adresi ziyaret etmenizi önerebilirim: 
+www.nationalfutures.comDaha yararlı eğitim materyalleri için.
+14www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Csık sorulan sorular:
+S: Yükselen ve düşen trendler için MACD'yi ADX ile, yatay trendler için ise RSI ve ADX ile birlikte kullanmanın akıllıca 
+olduğunu düşünüyor musunuz? Peki normalde bunlar için hangi zaman dilimlerini kullanıyorsunuz? Standart değerler 
+mi değil mi?
+C: Daha hızlı veya daha yavaş bir sinyalin hassasiyetini hesaba katmak için tüm sinyallerde ince ayar yapılabilir veya 
+ayarlanabilir. %D ve %K'nın çaprazlama özelliğinden dolayı Stokastik'i RSI'dan daha güvenilir buluyorum, ayrıca yakınsama ve 
+ıraksama modelleri bana daha geçerli bir sinyal sunuyor.
+S: Aynı gösterge size iki farklı zaman diliminde iki farklı okuma verdiğinde nasıl 
+davranırsınız?
+C: Bu zaman dilimlerine bağlıdır, eğer 60 dakika ve beş dakikadan bahsediyorsanız o zaman cevap basit, ben 
+uzun vadeye daha fazla ağırlık veriyorum çünkü kısa vadeli zaman dilimi bir kuruşta değişebiliyor.
+R
+S: Aynı anda kaç göstergenin kullanılmasını önerirsiniz? Çok fazla kullanmaktan analiz felci 
+mi yaşıyorsunuz?
+C: Harika Soru, cevabı şu: Bu iki göstergeyi, bir trendin veya büyük bir geri dönüşün güçlü veya zayıf yönüne uyum sağlamak 
+için Vadeli İşlemlere ilişkin Hacim çalışmalarına ek olarak kullanıyorum. Kısa vadeli günlük ticarete gelince, ticaret sinyalleri 
+için göstergelerden ziyade belirli kalıpları ve koşullar dizisini arıyorum. Ters hedef seviyelerini belirlememe yardımcı olmak 
+için çeşitli zaman dilimlerindeki Pivot Noktalarını dahil ediyorum. Daha sonra momentumun değişeceğine dair bir sinyal 
+bekliyorum.
+S: Bir kırılma veya kırılmanın belirlenmesinde fiyat dışında VOL, MACD ve RSI gibi gösterge 
+sinyallerini sıralayabilir misiniz?
+C: Kırılım veya kırılmalara ilişkin belirli grafik modellerini tanımlayabiliyorum. Önceden belirlenmiş Destek ve 
+Direnç seviyelerinde daha yüksek kapanış zirveleri gibi bir dizi olay arıyorum.
+S: Piyasanın sarsılacağını görmek için hangi göstergeyi kullanabiliriz?
+C: Sol kulağınız ile sağ kulağınız arasında yüksek gücünüzün size verdiği gösterge. Buna beyniniz denir. Yatırımcıların 
+piyasadaki fiyat hareketlerini önceden tahmin etmesi gerekiyor. Trend koşulları zamanın yalnızca %30-40'ında mevcut 
+olduğundan, güzel bir trend yönü hareketinden sonra pazarın bir konsolidasyon aşamasına veya sizin deyiminizle "kamçı" 
+aşamasına geçeceği tahmin edilebilir. Dalgalı koşullarda Stokastik arkadaşınızdır, trendli piyasa koşullarında MACD size daha 
+doğru sinyaller verecektir. İşlem aralıklarındaki kırılmaları veya kırılmaları izlemek size piyasanın trend halinde bir harekete 
+dönüşeceğine dair bir ipucu verecektir.
+15www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+S: Farklılıkları gidermek için bu göstergeleri kullanıyor musunuz?
+C: Kesinlikle, artı her ikisini de izliyorum çünkü biri Uzaklaşma veya Yakınsama sinyali verirken diğeri vermiyor.
+S: MACD'yi oldukça sık kullanıyorum ve güçlü trendlerde MACD'nin daha az güvenilir olduğunu düşünüyorum, bu doğru mu?
+C: Varsayılan ayarlarınızı değiştirdiğinizden veya değiştirdiğinizden ve hareketli ortalama geçiş özelliğini nasıl kullanacağınızı 
+bildiğinizden veya yalnızca histogram özelliğini kullanıp kullanmadığınızdan emin değilim. Gösterge ve ticaret yazılımınızın 
+onu hesaplama şekli hakkında her şeyi öğrenmelisiniz. Özellikle bir trend ticaret aracı olarak tasarlanmıştır.
+S: Her ikisi için de hangi değerleri kullanıyorsunuz?
+C: Varsayılan ayarlar, ancak hızlı stokastik kullanıyorum ve MACD'yi hangi pazarda işlem yaptığıma bağlı olarak 
+ayarlayacağım, daha küçük aralıkta daha az trendli pazarlar için yüksek bir r ayarı garanti edilir, bu nedenle gösterge çok 
+hassas değil bu yüzden bana çok fazla değer vermiyor fa se veya eas sinyalleri.
+,
+ben
+e
+R
+S: "Çiftler halinde çalışmak" gibi bir ticarete girmeden önce ikisini de karşılaştırıyor musunuz?
+C: Hayır, bunları esas olarak araçları onaylamak için kullanıyorum. Dönüş sinyali için haritalarda özel bir kurulum arıyorum. 
+Sonuçta göstergeler gecikmeli göstergelerdir. Fibonacci ve Pivot Noktaları öncü veya tahmin araçlarıdır.
+John Person, vadeli işlem ve opsiyon piyasalarında 26 yıllık deneyimli bir yatırımcıdır ve kayıtlı bir Emtia 
+Yatırımcı Danışmanıdır (CTA). Vadeli İşlem Piyasaları İçin Teknik Analizin Tam Kılavuzu adlı kitabı, 
+şamdanların pivot noktası analiziyle birlikte nasıl kullanılacağını gösteren ilk kitaptı. 2006 yılının Kasım 
+ayında yayınlanan ikinci kitabı Şamdan ve Pivot Noktası Ticaret Tetikleyicileri, Hisse Senedi ve vadeli işlem 
+tüccarlarına değerli bilgiler verdi. Üçüncü kitabı Forex Conquered, Tradestation ve Genesis kullanıcıları 
+için basamak sistemlerine yönelik özel formüller veriyordu. Haftalık Bottom Line bülteninin editörüdür ve 
+ülkenin en saygın iş dünyası gazetecileri piyasa görüşleri için ona başvurur. CBS Market Watch, Reuters, 
+Dow Jones ve Bloomberg'de geniş çapta alıntılar yapılıyor ve ayrıca düzenli olarak CNBC'de yer alıyor.
+GEÇMİŞ PERFORMANS GELECEKTEKİ PERFORMANSIN GÖSTERGESİ DEĞİLDİR. VADELİ İŞLEM SÖZLEŞMELERİ VEYA 
+EMTİA OPSİYONLARININ TİCARİ KAYIP RİSKLERİ ÖNEMLİ OLABİLİR VE BU NEDENLE YATIRIMCILAR KALDIRAÇLI 
+POZİSYONLARIN ALIMINA İLİŞKİN RİSKLERİ ANLAMALI VE BU YATIRIMLARLA İLİŞKİLİ RİSKLER VE BUNLARIN 
+SONUÇLARININ SORUMLULUĞUNU ÜSTLENMELİDİR.
+16www.forexgercekleri.xyz - [Twitter: @eseckal]

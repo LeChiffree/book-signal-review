@@ -1,0 +1,38 @@
+# Kitap okuma 191 — Londra yüksek test kırılımı ve EMA50 zaman dilimi uyumsuzluğu
+
+Üç **farklı, önceki kayıtlarda bulunmayan** PDF'nin **621 sayfası** sayfa bazında metne çıkarılıp baştan sona tarandı; kural sayfaları ayrıca ayrıntılı okundu. **2 yeni doğrulanmamış işlem stratejisi adayı** kaydedildi. Backtest, paper test ve emir yapılmadı. Sayfalar PDF sayfasıdır. İlk seçilen 134 sayfalık *Forex - Vahram Sayadov* PDF'sinin 180. partide okunmuş 139 sayfalık kitabın farklı baskısı olduğu anlaşıldı; bu partiye dahil edilmedi ve yerine Secker–Weaver kitabı okundu.
+
+## 1. Bob Volman — Price Action Sistemini Anlamak (410 sayfa)
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 1/Baskı 1/Price Action Sistemini Anlamak - Bob Volman (410 sayfa) - @eseckal.pdf>) · [tam metin](01_price_action_volman.txt)
+
+**Tam okuma:** S. 1–30 fiyat hareketi ilkeleri; 31–68 EURUSD M5 uygulaması, seviye ve EMA25; 69–92 aralık kırılımı; 93–103 kırılım geri çekilmesi; 104–120 kırılım birleşimi; 121–137 geri çekilme dönüşü; 138–170 manuel çıkış; 171–214 başarısız işlem koşulları; 215–372 ardışık gün içi grafikler; 373–380 pozisyon büyüklüğü; 381–410 düşük volatiliteye uyarlama. Metin seçilmiş M5 grafiklerini, çekişme bağlamını, sahte kırılımı, desen çizgisini ve EMA25 uzaklığını ayrıntılı yorumluyor. Bu ailelerin mekanik çekirdeği önceki kırılım, retest, tuzak ve EMA geri çekilmesi adaylarıyla örtüşüyor. S. 69–137'de “mıknatıs”, “baskı” ve geçerli desen çizgisi seçimleri grafik bağlamına bağlı; özgün bir yeni kuralı kitabın kodlanmış sistemiymiş gibi uydurmadık. S. 64–68 emir/maliyet ve s. 138–170 erken çıkış tartışmaları ilerideki test tasarımına yardımcıdır. **Yeni bağımsız aday: 0.**
+
+## 2. Steve Burns ve Holly Burns — Trade İşlemlerinde Risk Yönetimi Kılavuzu (78 sayfa)
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 1/Baskı 1/Trade İşlemlerinde Risk Yönetimi Kılavuzu - Steve Burns ve Holly Burns (78 sayfa) - @eseckal.pdf>) · [tam metin](02_risk_management_guide.txt)
+
+**Tam okuma:** S. 1–14 risk/ödül ve finansal dayanıklılık; 15–31 stop, trailing ve portföy payı; 32–39 işlem başına risk ve yıkılma olasılığı; 40–49 korelasyon/çeşitlendirme; 50–59 ortalama ve VIX; 60–78 sistem riski, kaldıraç ve örnek vakalar. S. 32–39'daki `%1` üst sınırı ve s. 40–49'daki eş hareketli pozisyonlara ortak limit, giriş sinyali değil risk kontrolüdür. S. 45'teki 52 hafta kırılımı ve s. 50–55'teki MA takip örnekleri önceki aileleri yineler. Risk oranı/stop seçimi tek başına fiyat yönü tahmini sayılmaz. **Yeni aday: 0.**
+
+## 3. Greg Secker ve Chris Weaver — Forex ile Finansal Özgürlük (133 sayfa)
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 10/Baskı 10/Forex ile Finansal Özgürlük - Greg Secker ve Chris Weave (133 sayfa) - @eseckal.pdf>) · [tam metin](03_financial_freedom_secker.txt)
+
+**Tam okuma:** S. 1–26 önsöz/işlem ortamı; 27–56 FX, grafik ve fiyat döngüsü; 57–77 büyüklük/risk; 78–86 süreç; 87–101 Angry Bear kuralı; 102–115 Forex Eclipse kuralı; 116–133 psikoloji/bileşik getiri. S. 101 ve 115'te iki yöntemin kaynak özetleri bulunur. Kitaptaki tutarlı kâr ve hızlı sonuç iddiaları bağımsız dış örneklem performansı değildir.
+
+### GS191A — GMT 06:00–10:00 H1 yüksek test mumunun dip kırılımı
+
+- **Kaynak (s. 89–101):** Yalnız EURUSD/GBPUSD, GMT 06:00–10:00 arası başlayan H1 mum; önceki mumlara göre büyük aralık, açılış ve kapanış mum aralığının alt yarısında; renk önemli değil. Yalnız short, test mumunun dibinden `1 pip` aşağı stop giriş, stop tepesinden `5 pip` yukarı. Giriş mumundan itibaren dördüncü H1 kapanışı sonrası stopu her tamamlanan H1 high+5 pip'e indirerek izle; sabit kâr hedefi yok. Kaynak kırılımda intrabar giriş tarif eder; aşağıdaki kapalı H1 teyidi farklı test varyantıdır.
+- **Veri/ön kayıt:** Gerçek EURUSD/GBPUSD H1 bid/ask, GMT/UTC takvimi ve tarihsel spread. Yalnız 06:00, 07:00, 08:00, 09:00 UTC **başlangıçlı** tam kapanmış H1'ler. `R=H−L>0`; test mumunda `O≤L+0.5R`, `C≤L+0.5R`, `R≥1.5×median(önceki 20 tam H1 aralığı)` ve `H>max(aynı UTC günün 00:00'dan test mumundan önceki tamamlanmış H1 high)` olsun. `1.5` ve gece seansı yeni yüksek tanımı **bizim mekanikleştirmemizdir**; kaynak yalnız “öncekilere göre büyük/yeni seans zirvesi” der. Her gün ve paritede ilk nitelikli test mumunu sabitle.
+- **Sinyal/icra:** Test mumundan sonra en çok iki tam H1 içinde ilk `close<testLow−1 pip` short sinyali; sonraki ilk uygulanabilir bid'den gir. Kaynak stop giriş varyantını, test kapanışından itibaren gerçek bid/ask tikinde `testLow−1pip` tetiklenmesi olarak ayrı araştır; kapanış varyantı kaynakla özdeş sayılmaz. Stop her iki kolda `testHigh+5 pip`; pozitif stop mesafesi ve uygulanabilir spread şart. Gün başına parite başına tek işlem.
+- **Çıkış/risk:** Giriş sonrasındaki ilk tam H1'e `bar1` de; `bar4` kapandıktan sonra stopu `min(mevcutStop, bar4High+5 pip)` yap, sonra her tamamlanmış H1'de aynı şekilde asla gevşetmeden indir. Kaynak `bar1`i tetikleyen H1 sayar; kapanış uyarlamamızda bunu giriş sonrası ilk tam bar olarak seçtik. Aynı H1 içindeki high/stop sırası tick olmadan garantilenmez. UTC 22:00 öncesi veya Cuma piyasa kapanışından önce açık pozisyonu kapat; zaman çıkışı bizim test sınırımızdır. İşlem başı stop riski en çok özsermayenin `%0,25`i; spread, komisyon, kayma ve broker kotasyon farkı dahil.
+- **Ayırıcı sınama:** Aynı saat ve paritede genel uzun üst fitilli mum kırılımı, büyük bar filtresiz test mumu, gün saati filtresiz test mumu ve kaynak intrabar stop girişine karşılık kapalı H1 varyantı. Yaz/kış saatini sabit GMT olarak uygula; işlem sıklığı, net R, iki parite eş zamanlı riski ve yıllara göre dönem dışı performans raporlanmalı.
+
+### GS191B — D1/H4/H1 EMA50 aynı yönde, M5 EMA50 karşı tarafı ziyaret edip geri dönüyor
+
+- **Kaynak (s. 103–115):** EURUSD, GBPUSD, USDCHF, USDJPY. D1/H4/H1 fiyatı kendi EMA50'sinin aynı tarafında olmalı. M5 önce bunun karşı tarafında kapanarak geçici uyumsuzluk kurar; ardından EMA50'yi tekrar büyük zaman dilimi yönünde kesince giriş. Kaynak kesişimde **intrabar** giriş, `20 pip` stop ve `30 pip` hedef verir. Aşağıdaki tamamlanmış M5 kapanış kuralı aynı fikir için daha geç, gözlenebilir varyanttır.
+- **Veri/kurulum:** Gerçek spot FX bid/ask M5, H1, H4, D1 OHLC; bar sınırları UTC'de önceden sabit, her sinyal anında **son tamamlanmış** D1/H4/H1 ve EMA50 kullanılır. Short için üç HTF kapanışı kendi EMA50 altında, long için üçü üstünde. Shortta en az bir tam M5 `close>EMA50_M5`, longda `close<EMA50_M5` geçici uyumsuzluk; bu durumdan sonra en çok 12 tam M5 içinde ilk short `close<EMA50_M5` / long `close>EMA50_M5` sinyal. Üst zaman dilimi koşulları sinyal anında hâlâ geçerli olmalı. Eşitlik sinyal değil; aynı uyumsuzluktan tek işlem.
+- **İcra/çıkış:** Kapanış sinyalinden sonraki ilk uygulanabilir short bid/long ask; `20 pip` stop, `30 pip` hedef, 12 M5 sonra zaman çıkışı. `12 M5` zaman sınırı ve gün başına en çok 2 işlem bizim ön kayıt seçimimizdir; kaynak 10–30 dakika örnek hızını söyler ama kesin zaman stopu vermez. USDJPY için pip `0.01`, diğerleri `0.0001`; broker kesirli pip kotasyonu buna göre çevrilir. İşlem başı stop riski en çok özsermayenin `%0,25`i; haber/gap, komisyon, spread, slippage ve 5m içi hedef-stop sırası için gerçek tick veya aleyhte sıra. HTF EMA'yı henüz kapanmamış D1/H4/H1 ile güncelleme.
+- **Ayırıcı sınama:** Yalnız H1 EMA50 eğimi, D1/H4/H1 hizalı ama M5 uyumsuzluk beklemeyen giriş, yalnız M5 EMA50 geri kesişimi ve kaynak intrabar kesişim varyantı. Gecikme nedeniyle kaçan hareket, net R, işlem sayısı, spread hassasiyeti ve parite bazında dönem dışı sonuçlar ayrı raporlanmalı.
+
+**Parti sonucu:** 3 PDF, **621 sayfa**, **2 yeni doğrulanmamış aday**. Kümülatif **573 PDF, 32.271 sayfa, 433 aday**.

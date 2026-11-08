@@ -1,0 +1,1166 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 1\Baskı 1\Swing Trading - Piyasa Dalgalarında Sörf Yapmak - Jan Arps (37 sayfa) - @eseckal.pdf
+PAGES: 37
+
+
+=== PDF PAGE 1 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Piyasa Dalgalarında Sörf Yapmak
+İle
+Jan Arps'ın
+Swing Trader'ın Araç Seti
+Süper Grafikler için®ve TradeStation®
+Jan Arps'ın
+Yatırımcının Araç Kutusu
+Sertifikalı Omega Çözüm Sağlayıcısı
+534 Lindley yolu
+Greensboro, NC 27410
+Telefon: 336-292-1641 Faks: 336-292-5784
+E-posta:janarps@aol.com 
+İnternet sitesi:www.janarps.com
+Telif Hakkı © 1998, Jan L. Arps
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+İçindekiler
+PİYASADAKİ DÖNÜŞ ŞEKİLLERİNİ HANGİ KUVVETLER ETKİLİYOR? .................................... 2
+PİYASA DEĞİŞİMLERİNİN GEOMETRİSİ ................................................... ................................. 4
+SWING TRADER İÇİN GÖRSEL BİR ÇERÇEVE OLUŞTURMA ................................... 6
+TT ÜÇ DALGA SALINCAK DESENİ ................................................... ................................................... 8
+TT ARPS “FOX” DALGA DESENİ ..................................................... .................................................... 9
+AŞAĞI DALGA İÇİN.................................................. .................................................. ................ 10
+KANAL TANIMLAMA ARAÇLARI.................................................. ................................................... 11
+TT FIB KANALLARI “A” VE “B”.................................................. .................................................. 11
+TT ANDREWS'İN DİRGEN GÖSTERGESİ.................................................. ................................. 12
+TT DOĞRUSAL REGRESYON KANALI ................................................... .................................... 13
+TT AUTO YÜKSELİŞ TREND / TT OTOMATİK AŞAĞI TREND HATLARI, TREND ÇİZGİSİ KIRILMA 
+DEDEKTÖRLÜ.................................................. .................................................. .................. 15
+POTANSİYEL DESTEK/DİRENÇ SEVİYELERİNİ TANIMLAMAK İÇİN ARAÇLAR ................................... 18
+TT GÜN İÇİ H, L, ORTA HATLAR ................................................... .................................................... 19
+TT HAFTALIK Y, L, ORTA HATLAR................................................. .................................................. .. 19
+TT AYLIK H, L, ORTA HATLAR................................................. .................................................. 20
+TT ZEMİN PİVOTLARI DESTEK/DİRENÇ HATLARI ................................................... ................ 20
+TT GÜNLÜK ARALIK PROJEKSİYONU 1 VE 2.................................................. .................................. 22
+YÜZDE GERİ ÇEKİLMELER VE UZATMALAR .................................................... ...... 23
+TT AUTOFIB UZATMA GÖSTERGESİ................................................. ................................. 24
+TT FİYAT MIKNATISLARI.................................................. .................................................. .................25
+TT RADAR 1 DUYARLILIK GÖSTERGESİ ................................................... .................................. 27
+TT RADAR 2 HIZLANMA OSİLATÖRÜ ................................................... ..................... 29
+TT RADAR 3 AŞIRI ALINMIŞ/AŞIRI SATILMA ENDEKSİ.................................................. .................. 31
+TT AYIRMA NORMAL VE TT AYIRMA TİP 2.................................................. 32
+TT PRO MOM BARLAR YUKARI/AŞAĞI BOYA ÇUBUKLARI.................................................. .................................. 34
+TT PRO DURDURMA.................................................. .................................................. ................................. 34
+TT PRO DURDURMA VE TERS ADAPTIF TAKİPLİ DURDURMA SİSTEMİ................................... 35
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa1
+Piyasa Dalgalarında Sörf Yapmak
+Jan Arps'ınSwing Trader'ın Araç Kiti
+Bu kursun amacı size kapsamlı bir anlayış kazandırmaktır.Tüccarların Araç Kutusu
+Swing Trader'ın araçları, size piyasadaki dalgalanmaların ritmini nasıl "hissetmeyi" 
+ve salıncakları bir profesyonel gibi takas etmeyi, yani dipleri alıp üstleri satmayı 
+öğretir. Sonuçta trendin yön değiştirdiği noktalar, en düşük kayıp riski ve en yüksek 
+kar potansiyeline sahip fırsatları temsil ediyor.
+Yükseliş ve düşüşlerin sonlanma noktaları, bu kursta birbirinin yerine "Pivot" noktaları, 
+"Salınım" noktaları veya "Dönüş" noktaları olarak anılacaktır. Hepsi aynı şeyi ifade eder; yani, 
+fiyat hareketinin yönünün yukarıdan aşağıya veya aşağıdan yukarıya doğru değiştiği, 
+fiyatların ilerlemesinde önemli noktaları temsil ederler. Düşük Pivot ile bir sonraki yüksek 
+Pivot arasındaki veya yüksek Pivot'tan sonraki düşük Pivot arasındaki fiyat aralığı, bu kursta 
+birbirinin yerine "Dalga" veya "Salınım" olarak anılacaktır.
+Bir Swing yatırımcısı mümkün olduğunca az riske maruz kalarak piyasadaki dalgalanmalardan 
+yararlanmaya çalışır.Salınım ticareti, yeni bir salınımın başlangıcında atlamak için en uygun zamanları 
+aramayı ve o salınımın sonunda veya sonuna yakın bir zamanda çıkıp yeni bir salınım ticareti fırsatının 
+gelişmesini beklemekten oluşur.
+Başarılı bir swing tüccarı, açık denizde sörf tahtası üzerinde sahile doğru doğru dalgayı 
+bekleyen bir sörfçü gibidir. Pek çok dalganın geçip gitmesine izin verebilir, çünkü bunlar 
+pek doğru "hissetmemektedir" ya da belki dikkat etmemişti ve çok geç olana kadar dalgayı 
+yakalamayı kaçırmıştır, ama umrunda değildir, çünkü her zaman olacaktır. bir dalga daha, 
+bu arada da sabırla bekliyor. Başarılı bir Wave Trader'ın en önemli özelliklerinden biri 
+sabırdır.Maruziyet Risktir ve başarılı bir Swing Trader'ın önemli bir özelliği, her zaman 
+Risk ve Ödül arasındaki dengenin farkında olması ve Riske Karşı Ödül oranını 
+mümkün olduğu kadar yüksek tutmaya çalışmasıdır..
+Hiçbir piyasa düz bir çizgide yukarı veya aşağı gitmez. Fiyatlar doğrudan aya doğru gitmiyor, 
+yukarı doğru pürüzlü bir yol izliyor ve kısa süre sonra tekrar aşağıya iniyor. Piyasalar birçok 
+farklı bireysel alıcı ve satıcıdan oluşur; her biri piyasanın nereye gittiğine dair kendi fikrine 
+sahiptir ve her biri değişen derecelerde temel insani duygularla motive olur.korkuVe açgözlülük.
+Hepsi kendi çıkarları doğrultusunda hareket eden bu bireyler arasındaki karşılıklı ilişkiler, 
+"Salıncaklar" dediğimiz piyasa modellerini yaratır.
+Yükseliş ve düşüşlerin sırası, Piyasanın "A" noktasından "B" noktasına doğru kıvrımlı bir 
+şekilde hareket ederken "nefes alıp vermesinin" bir tezahürüdür. Her ne kadar bu 
+dolambaçlı gidiş gelişler rastgele görünse de, aslında onların hareketlerinin altında 
+yatan, fizik yasalarına, geometriye ve kalabalık davranışının dinamiklerine dayanan bir 
+model ve mantık vardır. Bu kalıpları ve bunların nedenlerini anlamak, bir yatırımcı 
+olarak başarı şansınızı büyük ölçüde artırabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa2
+Piyasanın salınım düzenlerini hangi güçler etkiler?
+İkisi de varpsikolojikVegeometrikpiyasaların salınım modellerini kontrol eden 
+nedenler. Önce psikolojik yönlerini ele alalım.
+Piyasalar ticareti kolaylaştırmak için vardır.Ticareti kolaylaştırmak için piyasaların hem alıcıları hem de 
+satıcıları ikna etmesi gerekir. Alıcıları ve satıcıları cezbetmek için fiyat belirsizliğinin yanı sıra fiyat 
+hareketinin de olması gerekir.
+Yukarı yönlü bir fiyat hareketi beklentisiyle alıcılar, daha sonra daha yüksek bir fiyattan satabilme 
+beklentisiyle belirli bir fiyattan satın alacaklardır. Satıcılar, fiyatların gelecekte şimdi olduğundan 
+daha düşük olma ihtimalini öngörerek belirli bir fiyattan satış yapacaklardır. Herhangi bir 
+zamanda talebin (alıcılar) arzı (satıcıları) aşması durumunda fiyatlar artma eğilimi gösterecek ve 
+böylece daha fazla satıcı çekilecektir. Arz talebi yakaladığında ve alımlar azalmaya başladığında, 
+satıcılar daha fazla alım çekmek için fiyatları düşürür.
+Alıcılar ve satıcılar arasındaki bu sürekli, kendi kendini ayarlayan süreç, piyasaların A 
+noktasından B noktasına düz bir çizgide değil, aşağı yukarı düzensiz, zig-zag bir modelde 
+hareket etmesine neden olan şeydir.itişlerTemel trend doğrultusunda, ardından 
+reaksiyonlartemel eğilime karşı.
+Nötrden yükseliş trendine, tepeden dönüşe ve düşüş trendine kadar tüm piyasa 
+döngüsünün salınım modellerini kalabalık psikolojisi açısından inceleyelim.
+Yeni bir piyasa döngüsünün başlangıcından önce piyasanın tarafsız bölgede olduğunu 
+varsayalım. Güçlü bir düşüş veya yükseliş eğilimi yok ve piyasa temelde oldukça dar bir 
+kanalda yukarı ve aşağı yönlü işlem görüyor. Bu noktada piyasanın davranışı, bir 
+köpeğin blokta gezdirilmesine benziyor. Köpek ve sahibi kaldırımda durarak bir sokak 
+köşesinden diğerine ilerliyorlar. Ancak meraklı bir doğaya sahip olan köpek, kaldırımın 
+bir tarafından diğer tarafına dolanacak, bir çalıyı koklayacak, bir sincabı araştıracak, 
+koşacak ve sonra tekrar yürüyecektir. Sonuç olarak, köpeğin yolu sürekli ileriye doğru 
+ilerlerken, ilerlemesini sağlamak için sahibine göre çok daha fazla mesafe kat eder.
+Nispeten yatay bir piyasada, fiyatların gelecekteki eğilimi konusunda alıcılar ve satıcılar 
+arasında eşit derecede belirsizlik vardır. Sonuç olarak, fiyatlar iyi tanımlanmış nispeten dar 
+bir yatay kanal içerisinde ileri geri hareket etmektedir. Yukarı salınımlar genellikle aşağı 
+salınımlarla aynı uzunluktadır ve açılar kabaca eşdeğer ayna açılarıdır.
+Sonunda alıcı sayısının satıcılara göre artması yukarı yönlü bir eğilim yaratmaya başlar 
+ve fiyatlar kademeli bir yükselişe başlar. Yükseliş eğiliminin farkındalığı arttıkça, giderek 
+daha fazla seçici alıcı yükseliş eğilimine katılıyor. Artan fiyatlar daha fazla alıcı çekiyor ve 
+önemli biryükselişmeydana gelmek.
+Yükselişin bir noktasında, başlangıçtaki satın alma telaşı yavaşlıyor. Kısa vadeli alıcılar karlarını güvence 
+altına almak için satış yapmaya başlıyor ve uzun vadeli ciddi alıcılar, fiyatların çok fazla hızlı yükselmesini 
+önlemek için fiyatların biraz sakinleşmesine izin vermek için geri adım atıyor. Ayrıca, gerçekleşen tüm 
+alımlarda satış yapmak zorunda kalan kat komisyoncularının, bu alımları zorlama teşviki var.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa3
+fiyatlar, kısa pozisyonlarını kârla nakde çevirmek ve stoklarını artırmak için bir miktar geriledi. 
+Buna bir denirgeri çekmek,veyareaksiyon,veya birkarşı eğilim hareketi.
+Geri çekilmeler genellikle itme hareketlerinden daha dik ve daha kısa sürer. Güçlü trendlerdeki geri 
+çekilmeler yükseliş salınımının %35-40'ını geri çekebilir. Daha zayıf trendlerdeki geri çekilmeler yükseliş 
+salınımının %50-60'ını geri çekebilir. Geri çekilme yükselişin %65'ini aşarsa, bu genel bir zayıflığın 
+işaretidir ve büyük yükselişin sona ermiş olması muhtemeldir.
+Piyasanın nefes alması ve enerjisini yeniden kazanması için ilk geri çekilmenin ardından, 
+genellikle ilk hamleden daha güçlü ve daha uzun süreli yeni bir yükseliş başlar. Bu noktada 
+yükseliş trendi iyi bir şekilde duyurulmaya başlandı ve alıcılar bu hızlanan trene binmeye 
+hevesli. Buana itişyükselişin ve genellikle en güçlü bacağın adıdır.
+Ana itici güç, başlangıçtaki yükselişin %100 ila %200'üne eşit bir mesafe hareket ettikten sonra, 
+trendin başlangıcına yakın alım yapan alıcılar karlarını almaya başlarken, açığa satış yapanlar 
+kârlarını almaya başladıkça satış baskısında belirgin bir artış meydana gelmeye başlar. Piyasanın 
+artık "aşırı alım" olduğuna inanan , yükseliş trendine doğru satış yapmaya başlayın. Bu genellikle 
+keskin bir satışla sonuçlanır. Yükseliş trendi çubuklarının en düşük seviyelerinin altındaki koruyucu 
+zararı durdur emirlerinin tetiklenmesi ve alıcıların büyük bir satış beklentisiyle pozisyonlarından 
+çıkmaları satışları daha da artırıyor.
+Bu satış, hızla değer kazanan bir piyasada son zamanların en yüksek seviyelerinden daha düşük 
+fiyatlarla satın alma fırsatını hisseden "pazarlık avcılarının" alımlarıyla bir miktar dengeleniyor. 
+Alımlar, yükselen piyasaya açık pozisyonlarını kapatmak ve stoklarını yeniden oluşturmak 
+zorunda kalan brokerlardan da geliyor.
+Bu finale götürür veyapatlamayükselişin aşaması. Fiyatlar bir kez daha yükselmeye başlarken, 
+geç alıcılar, bir kez daha geride bırakılacaklarından korkarak yeniden gemiye binmek için 
+yaygara koparmaya başlıyorlar. Zemin tüccarları, stoklarını giderek daha yüksek fiyatlarla 
+satarak onları karşılıyor. Bu arada, önceden "aşırı alım" yükseliş dalgasına satış yapan açığa 
+satış yapanlar, fiyatların önceki yükseliş dalgasının en yüksek seviyesini aşması durumunda kısa 
+pozisyonlarını kapatmak için koruyucu zararı durdur alım emirleri vermeye başlıyor.
+Pek çok akıllı tüccar, bir önceki yüksek seviyenin üzerinde bu kısa vadeli duraklamaların 
+muhtemel varlığının farkında olduğundan, boğaların fiyatları, istekli alıcıların beklediğini 
+bildikleri bir önceki yüksek seviyenin üzerindeki bölgeye yükseltmeye zorlaması için güçlü bir 
+teşvik var. stokları ellerinden alın. Burası akıllı yatırımcıların ve saha yatırımcılarının uzun 
+envanterlerini tasfiye edip kısa pozisyonlar açmaya başladıkları yerdir ve bir klasik görüyoruz. çift   
+üstikinci tepenin tipik olarak birinci tepeyi aştığı desen.
+Genellikle satın alma baskısının tükenmesi çok uzun sürmez ve daha istekli 
+alıcıların yokluğunda piyasa kendi ağırlığıyla çökmeye başlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa4
+Aşağıdakilerden oluşan karakteristik 5 salınımlı korku-açgözlülük modeliBaşlangıç   
+yükselişi, başlangıç   tepkisi, ana yükseliş, ikincil tepki ve son olarak patlama yükselişiRN 
+Elliott tarafından popüler hale getirilen klasik kalıptır.Elliot Dalgasımodel.
+Piyasa Salınımlarının Geometrisi
+Şu ana kadar salınım modellerine psikolojik bakış açısıyla, motivasyon açısından 
+baktık.KorkuVeAçgözlülük.Şimdi bakış açımızı değiştirelim ve aynı sürece bir açıdan 
+bakalım.fiziksel, veyageometrikbakış açısı.
+Sağdaki örnek yatay bir kanalda meydana gelen 
+salınımları göstermektedir. Bacakların ve açıların 
+şu şekilde olduğunu unutmayın:
+yaklaşık olarak eşit uzunluktadır ve aşağı 
+salınımların uzunlukları veya açıları ile yukarı 
+salınımlar arasında gözle görülür farklar yaratan 
+güçlü bir önyargı yoktur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa5
+Aşağıdaki örnek, büyük bir yükseliş trendi kanalında ve büyük bir düşüş trendi kanalında 
+meydana gelen ara salınımları göstermektedir. İtki salınımlarını reaksiyon salınımlarından daha 
+uzun ve dik yapan şeyin kanalın geometrisi olduğunu ve karakteristik testere dişi etkisine yol 
+açtığını unutmayın.
+Şimdi aşağıda gösterilen örnekte yükseliş trendi ile düşüş trendi arasındaki geçişte ne olduğuna 
+bakın. Ara salınımlar yükseliş trendinin parçası olmaktan düşüş trendinin parçası olmaya değiştikçe, 
+yükseliş salınımının uzunluk ve açısının reaksiyon salınımının uzunluğuna ve açısına yaklaştığını ve 
+trend tersine döndükçe eskiden reaksiyon salınımı olan şeyin ortaya çıktığını dikkatlice unutmayın. 
+şimdi bir oluyoraşağıya doğru itmesalıncak ve eski yükselişler şimdi reaksiyondüşüş trendinde 
+hareket ediyor.
+Geçişin kendisine odaklandığımızda, 
+ana salınımda yukarıdan aşağıya 
+doğru yön değiştirme sürecinin, ara 
+salınımlarda karakteristik desenlere 
+yol açtığını fark ediyoruz. çift   üstveya 
+birbaş ve omuzlar model. Gördüğünüz 
+gibi tersinme sürecinin geometrisi bu 
+kalıpları doğal olarak yaratıyor; bu 
+yüzden oluyorlar! Aynı süreç piyasa 
+diplerinde de gerçekleşir ancak tam 
+tersidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa6
+Swing Trader için Görsel Çerçeve Oluşturma
+Piyasa dalgalanmaları Mikro'dan Makro'ya kadar her boyutta olabilir. Fiyat 
+grafiklerine bakarken ilgilendiğimiz salınımın boyutunu tanımlayacak bir yola 
+ihtiyacımız var. Grafiğimizdeki fiyat salınımlarının parametrelerini tutarlı bir şekilde 
+nasıl tanımlayabiliriz? Bir salınımın önem derecesini genellikle belirlediğimiz iki 
+temel yöntem vardır: (1)salıncak çubuğu gücü, ve 2)fiyat iptali miktarı.
+Salıncak Çubuğu Gücü
+Swing Bar Strength yöntemi, Pivot yüksekliğini, her iki tarafındaki "STRENGTH" çubuklarından daha yüksek 
+olan bir yüksek olarak tanımlar. Örneğin gücü 3 olan bir yüksek salınım, yüksekliği kendisinden önceki üç 
+çubuğun yükseklerinden ve kendisinden sonraki üç çubuğun yükseklerinden daha yüksek olan bir çubuk 
+olarak tanımlanır.
+The TT Swing Yüksek/Düşük Puan Göstergesi Salınım Çubuğu Mukavemeti yöntemiyle Pivot 
+Noktalarını belirlemek için kullandığımız araçtır. Bu çalışma, yüksek salınımların üzerinde kırmızı 
+noktalar ve alçak salınımların altında yeşil noktalar çiziyor. Bu araç tarafından tanımlanan Pivot 
+noktalarının gücü, "GÜÇ" giriş değeri tarafından kontrol edilir.
+TT Swing Yüksek/Düşük Puan Göstergesi, TT Otomatik Sapma aracı, TT Otomatik Trend 
+Çizgisi aracı ve TT Fiyatı gibi "GÜÇLÜ" bir giriş değeri kullanan diğer Swing Trader Araç Seti 
+çalışmalarından herhangi biriyle birlikte kullanmak son derece faydalıdır. Mıknatıs aracı.
+Fiyat İptal Tutarı
+Pivot noktalarının Salınım Çubuğu Mukavemeti yöntemiyle belirlenmesinin bir dezavantajı 
+vardır. Bir Pivot'un garantisi yokturyüksekBelirli bir STRENGTH değerinin ardından mutlaka 
+bir Pivot gelecektirDüşükaynı GÜÇ değerine sahiptir. Düşük bir salınımla karşılaşmadan önce 
+birkaç Pivot yükselişiyle karşılaşılabilir
+Piyasadaki dalgaları ve kalıpları tanımlamanın daha etkili bir yolu, nispeten basit bir cihaz 
+kullanmaktır: Yeni bir salınım için mevcut salınımın tersi yönde gereken minimum tıklama sayısı 
+değişimi veya fiyat yüzdesi değişimi cinsinden pivot yüksek ve alçak seviyelerini tanımlayın. 
+tanınacak şekilde sallanan bacağınızı hareket ettirin, ardından alternatif Pivot iniş ve çıkışlarını 
+düz çizgilerle birleştirin. Bu teknik, belirtilen minimum fiyat geri alma tutarından daha küçük olan 
+tüm hareketleri filtreler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa7
+TT Zig-Zag göstergesi önceden tanımlanmış bir fiyat yüzdesini veya önceden tanımlanmış bir 
+tıklama sayısını aşan bir fiyat değişikliği ile alternatif salınım yükseklerini ve düşük salınımlarını 
+birbirine bağlayan bir araçtır. İki değişken girişi olan "PCTCHG" ve "TICKCHG", kullanıcının yeni bir 
+Zig-Zag salınımının geliştirilmesine başlamak için gereken yüzde puanları veya fiyat adımları 
+cinsinden hassasiyeti değiştirmesine olanak tanır. Bu yöntem, yüksek salınımın her zaman yüksek 
+olacağını garanti eder. Bunu bir düşük salınım takip eder ve çoğu dinamik salınım analizi 
+çalışmasında çok etkilidir. Swing Trader's Tool Kit'teki “PCTCHG” ve “TICKCHG” giriş 
+parametrelerine sahip programlar, salınımın yüksek ve alçak seviyelerini belirlemek için bu 
+yöntemi kullanır.Bunlar arasında diğerlerinin yanı sıra , TT AutoFib çalışmaları, TT Doğrusal 
+Regresyon Kanalları, TT Andrews Pitchfork ve TT "Fox" Dalgaları.
+Yukarıda açıklanan çalışmalardan herhangi birinin TICKCHG Girdisi 20'ye ayarlanmışsa, örneğin, 
+yeni bir yüksek veya düşük salınım tanımlamak için potansiyel bir yüksek veya düşük pivottan en 
+az 20 tıklamalık fiyatta bir tersine dönüş gerekir. Tik, belirli bir enstrüman için minimum hareket 
+olarak tanımlanır. Örneğin çoğu hisse senedinde bir onay işareti 1/8'dir. Hazine Bonosu'nda bir 
+tik 1/32'dir. S&P'de bir onay işareti 0,10 puandır.
+Öte yandan, TICKCHG 0'a ve PCTCHG 2'ye ayarlanmışsa, bunu yeni bir yüksek veya düşük salınım 
+olarak tanımlamak için fiyatın potansiyel yüksek veya düşük seviyeden en az yüzde 2 oranında tersine 
+dönmesi gerekir. Kesirli yüzdeler kabul edilebilir.
+Örneğin, S&P'de 1 dakikalık grafikte tipik bir PCTCHG %0,1 ila %0,5 olabilirken 
+günlük grafikte %1 ila %10 aralığında olabilir.
+ÖNEMLİ NOT: Çalışmanın doğru çalışması için giriş değişkenlerinden biri veya diğeri 
+(PCTCHG veya TICKCHG) sıfıra ayarlanmalıdır.
+Zig Zag grafiğindeki en son salınım ayağı sarı renkle işaretlenmiştir. En son yüksek/düşük değerleri en 
+son onaylanmış dönüm noktasına bağlar. Bu çizgiyi gerçek zamanlı olarak takip ettiğinizde
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa8
+gerekli geri dönüş miktarını gerçekleştirerek nihayet bir dönüm noktası olarak onaylanana kadar, yeni 
+yüksek/düşük seviyelere ulaşıldıkça değiştiğini göreceksiniz.
+Zig zag aracı, swing yatırımcınızın alet çantasındaki en önemli araçlardan biridir. Etkili bir şekilde 
+kullanmayı öğrenmek, diğer birçok konuda ustalaşmanızı sağlayacaktır.Tüccarların Araç Kutusu
+“PCTCHG” ve “TICKCHG” giriş değerini kullanan göstergeler çok daha kolay.
+Karmaşık Dalga Yapıları için Desen Tanıma Araçları
+Artık Zig Zag aracının inceliklerini araştırdığımıza göre, Zig Zag'ın açıklamaya 
+yardımcı olduğu bir çift kalıba bakalım: Doğru "PCTCHG" veya "TICKCHG" değerini 
+belirlemek için önce Zig Zag aracıyla deneme yapmanızı öneririz. belirli bir grafik ve 
+zaman sıkıştırması.
+TT Üç Dalgalı Salınım Deseni
+Üç Dalgalı Salınım Deseninin trend yönündeki potansiyel değişikliklerle yüksek korelasyona 
+sahip olduğu bulunmuştur. Ardışık beş yukarı/aşağı Pivottan oluşan bir salınım modeli 
+düşünün, P[1]……P[5]. Yükseliş eğilimi değişim paterni için aşağıdaki Swing Pivot ilişkisinin 
+mevcut olması gerekir:
+P[5] > P[3]
+ve P[3] > P[1]
+ve P[4] > P[2];
+Düşüş eğilimi değişim paterni için aşağıdaki swing Pivot ilişkisinin mevcut olması gerekir:
+P[5] < P[3]
+ve P[3] < P[5]
+ve P[4] < P[2];
+The TT Üç Dalgalı Salınım Deseni GöstergesiÜç dalgalı bir salınım modelinin 
+oluşumunu tanımlamak için fiyat tablosunda renkli bir nokta oluşturur. Yeşil nokta 
+önerilen satış noktasını, kırmızı nokta ise önerilen satın alma noktasını gösterir.
+Bu aracın hassasiyeti, daha önce açıklandığı gibi TICKCHG ve PCTCHG giriş değişkenleri 
+tarafından kontrol edilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa9
+TT Arps “Tilki” Dalga Deseni
+Arps “Fox” Dalga modeli 6 Pivotlu bir modeldir. 1, 2, 3 ve 4. noktalar doğru hizada 
+olduklarında "Tilki" Dalga modelini oluşturun.TT Arps “Tilki” Dalgalarıgöstergesi 
+otomatik olarak Arps "Fox" Dalga modellerinin oluşumunu arar ve doğru model 
+oluştuğunda çalışma 1. ve 3. noktalardan bir "giriş" çizgisi ve 1. ve 4. noktalardan bir 
+"hedef" çizgisi çizer. 2 ve 4 noktalarından geçerek "hedef zaman" çizgisi de çizilebilir. 4. 
+nokta belirlendikten sonra, fiyat "giriş" çizgisine doğru hareket ederse veya bu çizgiyi 
+geçerek 5. noktayı oluşturursa, oldukça öngörücü bir "Tilki" dalga modeli oluşmuş olur. 
+oluşturulur ve bir giriş sinyali üretilir.
+Bir giriş sinyali oluşturulduktan sonra, fiyatın kabaca 2-4 "hedefe varış zamanı" 
+çizgisinin kesişme zamanına karşılık gelen bir zamanda 1-4 "hedef" çizgisine 
+dönme olasılığı yüksektir. 1-3 “giriş” satırı. Fiyat 1-4 “hedef” çizgisine ulaştığında 
+pozisyondan çıkılır.
+Bir P1-P2-P3-P4 salınımının Arps "Fox" Dalgası kriterlerini karşılaması için aşağıdaki kuralların karşılanması 
+gerekir:
+Yukarı dalga için:
+P2 > P1;
+P4 > P3;
+P4 < P2;
+P3 < P1;
+P4 > P1;
+P1'den P2'ye olan yatay mesafe, P3'ten P4'e olan yatay mesafeden büyük 
+olmalıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa10
+Aşağı dalga için
+P2 < P1;
+P4 < P3;
+P4 > P2;
+P3 > P1;
+P4 < P1.
+P1'den P2'ye olan yatay mesafe, P3'ten P4'e olan yatay mesafeden büyük 
+olmalıdır.
+Her iki koşul da karşılanırsa, çalışma P1 ve P3 noktalarından geçen macenta bir giriş 
+çizgisi ve P1 ve P4 noktalarından geçen gri bir hedef çizgisi çizer. Fiyat, P1-P3 giriş 
+çizgisinin uzatılması yoluyla P4'ten geri çekilirse, P1-P4 hedef çizgisinin uzantısında bir 
+hedef ile bir P5 giriş noktası oluşturulur. Yeşil P2-P4 hedef zamanlama çizgisinin 
+macenta P1-P3 giriş çizgisiyle kesişme noktası, fiyatın P1-P4 hedef çizgisine ulaşmasının 
+beklendiği yaklaşık zaman noktasını belirtir.
+Bir salınımın tersine dönmesini tanımlamak için gereken fiyat tersine dönme miktarı ve 
+dolayısıyla sistemin hassasiyeti, daha önce açıklandığı gibi TICKCHG ve PCTCHG girdi değişkenleri 
+tarafından kontrol edilir.
+OCCUR girişi, kullanıcının en sonuncusu dışında bireysel bir Arps “Fox” Dalga modeli 
+seçmesine olanak tanır. En son dalga için varsayılan desen ayarı 1'dir. Örneğin 
+OCCUR girişi 2'ye ayarlanırsa çalışma en son dalgadan önceki Arps "Fox" Dalgasını 
+görüntüleyecektir.
+PLOTBARS girişi, göstergenin Arps "Fox" Dalga girişini ve hedef hatlarını uzatacağı #4 
+noktasının ötesindeki çubuk sayısını ayarlar. Başka bir deyişle, grafik için bir bitiş noktası 
+belirler, böylece dik trendli çizgiler, fiyat çubuklarının kötü şekilde kesilmesine neden 
+olmaz. Arps “Fox” Dalga çizgileri Trend Çizgisi Çizim Nesneleri olarak çizildiğinden, 
+özelliklerini değiştirmek için Arps “Fox” Dalga çizgisine çift tıklayabilirsiniz. Öncelikle size, 
+üzerinde yer aldığı çalışmayı değiştirmek isteyip istemediğiniz sorulacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa11
+temelli. Cevap hayır. Daha sonra Özellikler'e tıklayıp Sağa Genişlet'i seçebilirsiniz. Ayrıca 
+trend çizgisine tıklayabilir, "tutamaç"ı tutabilir ve trend çizgisini sağa doğru 
+sürükleyebilirsiniz.
+ZAMAN ÇİZELGİSİ girişi, DOĞRU olarak ayarlandığında, ince yeşil 2-4 hedef zamanlama çizgisini 
+görüntüleyecektir. YANLIŞ olarak ayarlandığında, Arps “Fox” Dalgasının yalnızca iki destek/direnç 
+çizgisini gösterecektir. Hedef zamanlama çizgisi, Arps “Fox” Wave kurulumunun potansiyel 
+geçerliliğinin değerlendirilmesinde özellikle faydalıdır ve bu nedenle çoğu uygulamada açılması 
+önerilir.
+ZIGZAG girişi, TRUE olarak ayarlandığında, girilen PCTCHG veya TICKCHG değeri için alternatif Pivot yüksek 
+ve alçaklarını birbirine bağlayan zig-zag çizgilerini görüntüleyecektir. Bu, kullanıcının analiz edilen 
+dalgalanmaları daha net bir şekilde görselleştirmesine olanak tanır.
+SHOWALL girişi, TRUE olarak ayarlandığında, çalışma tarafından tespit edilen Arps "Fox" Wave 
+kurulumlarının tamamını fiyat grafiğinin tamamında görüntüler. YANLIŞ olarak ayarlandığında, Arps 
+“Fox” Dalgasının yalnızca tek bir oluşumu görüntülenir.
+SHOWALL, FALSE olarak ayarlanmışsa ve OCCUR, 1 olarak ayarlanmışsa, en güncel Arps 
+“Fox” Wave kurulumu görüntülenecektir. OCCUR 1'den büyük bir sayıya ayarlanırsa, OCCUR 
+olaylarından önceki Arps “Fox” Dalgası görüntülenecektir. Örneğin, 3'lük bir OCCUR girişi 
+için, en son üçüncü Arps "Fox" Wave görüntülenecektir.
+P4ALERT girişi, TRUE olarak ayarlandığında, yeni bir Arps “Fox” Dalga Kurulumu ilk 
+algılandığında bir uyarının tetiklenmesine neden olacaktır. P5ALERT girişi, TRUE olarak 
+ayarlandığında, P5 swing fiyatı macenta P1-P3 giriş çizgisinin INCR noktalarına girdiğinde ek 
+bir uyarının tetiklenmesine neden olur.
+Kanal Tanımlama Araçları
+Kanal tanımlama araçları, fiyatların takip edileceği bir “otoyol” tanımlamaya yarar. Kanalın 
+yönü genel eğilimi gösterir ve fiyatlar kanalın sınırları dahilinde dolaşma eğilimindedir. Bu 
+bölümde açıklanan çalışmaların, Swing Trader'a, daha büyük ölçekli trend kanalı 
+perspektifinde swing Pivot'larının nerede meydana geldiğini görselleştirmesinde yardımcı 
+olduğu kanıtlanmıştır.
+TT Fib Kanalları “A” ve “B”
+Bu gösterge çifti, destek ve direnç kanal çizgilerini 89 barlık hareketli ortalama etrafında çiziyor. 
+Çizgiler %8, %13, %21, %39 ve %55 oranlarına göre merkez ortalama çizgisinin üstünde ve 
+altında aralıklıdır. Tam kapsama sağlamak için her iki göstergenin birlikte bir grafik üzerinde 
+çalıştırılması gerekir.
+Fiyatların Fib kanallarının dış sınırlarının dışına çıktığında neredeyse her zaman 
+karşı taraftaki dış kanal sınırına kadar geri döndüğü gözlemlenmiştir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa12
+Bu göstergenin, farklı grafik ölçeklerine ve çubuk sıkıştırmalarına uyum sağlamak için 
+kanalların genişliğini ayarlayan bir Girişi vardır: SCALING. Genel olarak, 1 ile 3 arasındaki 
+bir SCALING değeri iyi çalışır; 1 değeri en geniş kanalı, 3 değeri ise daha dar kanalı verir. 
+Gösterge 89 çubuğa baktığından, bu gösterge çiftinin etkili ve kullanışlı olması için 
+grafiğinizde en az 200 çubuğun olması gerekir.
+TT Andrews'un Pitchfork Göstergesi
+Otuzlu yılların sonlarında Dr. Alan Andrews, "medyan çizgi" teorisi adını verdiği şeye 
+dayanan bir fiyat kanalı tekniği geliştirdi. Bu teknik daha sonra Andrews Dirgen olarak 
+bilinen bir fiyat modeline dönüştü çünkü dirgen şeklini andırıyor.
+Medyan Çizgi şu şekilde çizilir: Bir yukarı-aşağı salınım kombinasyonunu düşünün. 
+Yükselişin başlangıç   noktası P1, yükselişin zirvesi P2 ve sonraki düşüşün bitiş 
+noktası P3'tür. Böyle bir salınım durumunda, dirgen "tutamağı" olarak da bilinen 
+Andrews Medyan Çizgisi, P1 noktasından P2-P3 salınımının orta noktasına kadar 
+oluşturulur ve grafiğin sonuna kadar uzatılır. Daha sonra iki "dirgen dişi" çizgisi 
+"tutamak" çizgisine paralel olarak çizilir. Bir diş P2 noktasında başlar, bir diş P3 
+noktasında başlar ve her ikisi de grafiğin sonuna kadar uzanır.
+Fiyatlar Medyan Çizgiye yaklaştıkça piyasa genellikle Medyan Çizgisinde tersine dönecektir. 
+Fiyatlar Medyan Çizgisinde tersine dönmez ancak ticarete devam ederse, genellikle karşı kanal 
+sınırına kadar ilerleyecek ve sonra tersine dönecektir.
+Elliott Dalga analizini gerçekleştirirken, Andrews Pitchfork'un 1-2 çizgisi Elliott # 1 bindirme 
+çizgisini temsil ediyorsa ve 2-3 çizgisi Elliott #2 geri çekilme çizgisini temsil ediyorsa, Elliott 
+Wave 3 genellikle orta hattan herhangi birinde sona erecektir. veya Andrews Pitchfork'un 
+üst/alt dış çizgilerinden birinin 1-2-3 noktalarından geçmesi. Andrews Pitchfork kanalının 
+kırılması yeni bir salınım yönünün başlangıcına işaret ediyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa13
+The TT Andrews'un DirgeniÇalışma, bir fiyat grafiğindeki en son üç salınım Pivotunu tespit ediyor ve 
+bu noktalar üzerinden otomatik olarak bir dizi Andrews Pitchfork çizgisi çiziyor. Yeni bir salınım tersine 
+dönüşü meydana geldiğinde, çalışma yeni bir P1-P2-P3 noktaları kümesi hesaplar ve yeni bir Andrews 
+Pitchfork çizgileri kümesi oluşturur.
+Andrews Pitchfork salınımının tersine çevrilmesini tanımlamak için gereken fiyat tersine 
+çevrilme miktarı ve dolayısıyla sistemin hassasiyeti, daha önce açıklandığı gibi TICKCHG ve 
+PCTCHG girdi değişkenleri tarafından kontrol edilir. Belirli bir grafik ve zaman sıkıştırması 
+için doğru "PCTCHG" veya "TICKCHG" ayarını belirlemek için öncelikle Zig Zag aracıyla 
+denemeler yapmanızı öneririz.
+OCCUR girişi, kullanıcının dirgeni zamanda geriye taşımasına olanak tanır. OCCUR için 
+varsayılan değer, en son 1-2-3 nokta kümesini gösteren 1'dir. Örneğin OCCUR 2'ye 
+ayarlanırsa dirgen zamanda yarım salınım döngüsü kadar geriye gider. OCCUR'un her artışı, 
+dirgeni başka bir yarım döngü kadar geriye hareket ettirir.
+Bir salınımın çok dik bir hızla geri çekildiği zamanlar vardır. Dik pazarlarda tutamacın ucunun 
+konumunun değiştirilmesine izin vermek için normalde FALSE olarak ayarlanan ADJUST girişi 
+sağlanır. ADJUST TRUE olarak ayarlandığında, tutamacın ucu P1 noktasından P1 noktası ile 
+P2 noktası arasındaki orta noktaya hareket ettirilir ve dişlerin ve orta çizginin açıları buna 
+göre ayarlanır.
+Ayrı bir program olan Andrews Extensions, orta hatta paralel olan üst ve alt uzatılmış 
+çizgileri, ana paralel çizgilerin orta hattan iki katı uzaklıkta olacak şekilde çizer. Bunlar 
+güçlü bir Elliott Wave #3'ün tepesini veya altını yakalamak için kullanışlıdır.
+TT Doğrusal Regresyon Kanalı
+Kanal orta hattını çizmenin başka bir yolu da, belirli bir salınımı kapsayan aralık boyunca bir 
+"doğrusal regresyon çizgisi" çizmektir. Doğrusal Regresyon analizi, bazen "en küçük kareler 
+yöntemi" veya "en iyi uyum" çizgisi olarak da adlandırılan istatistiksel bir kavramdır. Doğrusal 
+Regresyon analizi, her veri noktası ile çizgi arasındaki mesafelerin karelerinin toplamı en aza 
+indirilecek şekilde bir dizi veri noktası boyunca düz bir çizgi hesaplar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa14
+Trend kanalı sınırları daha sonra medyan çizgisine paralel olarak çizilir ve çeşitli olası 
+matematiksel tekniklerden biri tarafından kontrol edilen bir mesafede aralıklı olarak yerleştirilir; 
+bunlardan en yaygın olanı, kanal sınırlarını merkezin her iki tarafında belirli sayıda standart 
+sapma aralıklarla yerleştirmektir. astar.
+Doğrusal Regresyon Kanalları, aynı anda birçok önemli bilgiyi sağladıkları için 
+swing yatırımcısı için çok faydalı araçlar olabilir:
+1. Anlık trendin yönünü gösterirler.
+2. Kanalın genişliği, anlık trend içindeki fiyat oynaklığının seviyesinin bir 
+göstergesidir.
+3. Kanalın uzunluğu trendin kalıcılığının bir göstergesidir.
+4. Kanal sınırları ve merkez çizgisi mükemmel trend destek/direnç çizgileridir.
+5. Kanal sınırlarının sağlam bir şekilde kırılması, trend yönünde olası bir değişikliğin sinyalini verir.
+The TT Doğrusal Regresyon Kanalıçalışma, daha önce açıklandığı gibi PCTCHG veya 
+TICKCHG girişi kullanılarak Zig Zag algoritması tarafından hesaplandığı üzere, bir trend 
+salınımının başlangıcından sonuna kadar kapsanan aralık üzerinde otomatik olarak doğrusal 
+bir regresyon merkez çizgisi çizer. Belirli bir grafik ve zaman sıkıştırması için bu çalışma için 
+doğru ayarları belirlemek üzere öncelikle Zig Zag aracıyla denemeler yapmanızı öneririz.
+Merkez hattının her iki tarafındaki kanal sınır çizgilerinin aralığı, kullanıcı tarafından seçilen birkaç 
+olası matematiksel teknikten biri tarafından kontrol edilir. Kanal genişliği hesaplamalarının seçimi 
+aşağıdaki gibidir:
+STD_ERR(DOĞRU/YANLIŞ), {Kanal genişliğini hesaplamak için Standart Hata Fonksiyonunu kullanır} 
+STD_DEV(DOĞRU/YANLIŞ), {Kanal genişliğini hesaplamak için Standart Sapma Fonksiyonunu kullanır}
+PCT_CHAN(DOĞRU/YANLIŞ), {Kanal genişliğini hesaplamak için fiyatın sabit bir yüzdesini kullanır}
+HILOBARS(DOĞRU/YANLIŞ), {Mevcut trendin uzunluğu boyunca en yüksek ve en düşük 
+düşük kanal çizgilerini çizer }
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa15
+RAFFCHAN(DOĞRU/YANLIŞ) {Raff Kanalı – Medyan çizgisinin başlangıç   noktasından sonra 
+meydana gelen ilk küçük Pivot yüksek ve ilk küçük Pivot düşük boyunca kanal çizgilerini 
+çizer.
+Not: Yukarıdaki girişlerden yalnızca biri “DOĞRU” olarak ayarlanmalıdır. Diğerlerinin tümü “YANLIŞ” olarak 
+ayarlanmalıdır! Şüpheye düştüğünüzde, STD_DEV'i DOĞRU'ya ve geri kalanını YANLIŞ'a ayarlayın.
+Diğer girdiler aşağıdakileri içerir:
+FİYAT{Doğrusal Regresyon Merkez Çizgisini hesaplamak için kullanılan fiyat değeri; örneğin, Kapanış 
+veya (H+L)/2). Bu girişle, çalışmayı bir Kullanıcı Fonksiyonunun adını girerek bir gösterge üzerinde veya 
+Veri 2'yi belirterek ikinci bir veri akışı üzerinde çalışacak şekilde de ayarlayabilirsiniz.} PCTCHG{Yeni bir 
+yüksek/düşük salınım oluşturmak için fiyatta gereken yüzde değişim. } TICKCHG: {Yeni bir yüksek/
+düşük salınım ayarlamak için değişiklik (tik işareti sayısı) gerekir. } HEPSİNİ GÖSTER ↓(DOĞRU YANLIŞ){
+TRUE olarak ayarlandığında, grafikteki tüm kanalları ilk çubuktan sonuncuya kadar çizer. FALSE olarak 
+ayarlandığında yalnızca geçerli kanalı çizer.}
+STDEVAMT(2) {STD_DEV = TRUE veya STD_ERR = TRUE için, Standart Sapma cinsinden 
+kanalın genişliğini tanımlar. }
+CHAN_PCT(0,3) {PCT_CHANN = TRUE için, son çubuğun kapanış fiyatının yüzdesi olarak 
+kanalın genişliğini tanımlar. }
+PCZONE(10) {Uyarı işlevi için sınırları ayarlar. Uyarı işlevi açıksa, fiyat Merkez 
+Çizgisi artı ½ kanal aralığının yüzde PCTZONE'unu veya Üst Kanal Çizgisi eksi ½ 
+kanal aralığının yüzde PCTZONE'unu aştığında veya bunun tersi olduğunda bir 
+uyarı tetiklenecektir. }
+MANUEL(DOĞRU/YANLIŞ) {DOĞRU olarak ayarlandığında, otomatik salınım işlevi devre dışı 
+bırakılır ve gösterge, kanalın başlangıç   ve bitiş noktalarını tanımlamak için STRTDATE, 
+STRTTIME, ENDDATE, ENDTIME manuel girişlerine bakar }
+BAŞLANGIÇTARİHİVeSTRTTIME{Manuel giriş kanalının ilk çubuğu için tarih ve saati 
+tanımlayın. Günlük veya daha büyük grafiklerde STRTTIME ve ENDTIME girişleri dikkate 
+alınmaz. }
+BİTİŞ TARİHİVeBİTİŞ ZAMANI{Manuel giriş kanalındaki son çubuğun tarih ve saatini 
+tanımlayın. ENDDATE, LastCalcDate olarak ayarlanırsa ve ENDTIME, LastCalcTime olarak 
+ayarlanırsa kanal, STARTDATE/STARTTIME çubuğundan grafikteki en sağdaki çubuğa kadar 
+uzanır ve her yeni çubuğun sonunda otomatik olarak güncellenir.} UZATMA(DOĞRU/YANLIŞ) 
+{ DOĞRU olarak ayarlandığında ve MANUAL, DOĞRU olarak ayarlandığında, kanal satırları 
+ENDDATE ve ENDTIME'ın ötesinde sağa doğru uzatılır.
+TT Otomatik Yükseliş Eğilim / TT Otomatik Düşüş Eğilim Çizgileri, Trend Çizgisi Koparma 
+Dedektörlü
+Bir düzine yatırımcıdan bir grafik üzerinde bir dizi trend çizgisi çizmesini isteyin; bir düzine farklı trend 
+çizgisi yorumu alacaksınız. 1994 yılında Tom DeMark popüler kitabında,Yeni Teknik Analiz Bilimi, Bir 
+trend çizgisi çizmenin tek bir "doğru" yolu olduğu hipotezini ortaya koydu ve bu da sağdan sola doğru, 
+aşağı yönlü trend çizgileri ("tedarik hatları" olarak da anılır) ile art arda düşük yüksek Pivotları ve 
+yükseliş trendi çizgilerini (aynı zamanda "tedarik hatları" olarak da bilinir) birbirine bağlar. Art arda 
+daha yüksek düşük Pivotları birbirine bağlayan "talep hatları" olarak anılır. Böylesine net ve kesin bir 
+tanımla, trend çizgileri çizme tekniği artık basit bir teknik olmaktan çıktı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa16
+gizemli sanatın bilgisayar diline kolayca çevrilebilecek bir bilim haline gelmesi. 
+DeMark ayrıca, tüccarın trend çizgisi boyunca "gerçek" fiyat kırılmaları ile 
+başarısız olma olasılığı yüksek "yanlış" fiyat kırılmaları arasında ayrım 
+yapabileceği bir dizi kural öne sürdü.
+Yukarıda açıklanan DeMark kavramlarına dayanarak, “TT OTO YÜKSELİŞ TRENDİ" Ve "TT OTOMATİK 
+DÜŞÜŞ TRENDİOtomatik trend çizgisi göstergeleri, günlük veya gün içi herhangi bir grafikle 
+kullanılabilecek son derece güçlü araçlardır. Bu araçlar, seçilen bir STRENGTH girişinin son salınım 
+yüksek veya salınım düşük noktalarına kadar sağdan sola otomatik olarak bir trend çizgisi çizer. 
+Yükseliş trendi çizgileri salınımın düşük seviyeleri boyunca, düşüş trendi çizgileri ise salınımın yüksek 
+seviyeleri boyunca çizilir. Trend çizgisi üzerindeki bir çift küçük çarpı, trend çizgisinin çizildiği fiyat 
+dalgalanmalarının en düşük veya en yüksek seviyelerini belirtir.
+Trend çizgisi, yeni bir yüksek/düşük salınım farklı bir trend çizgisi gerektirinceye kadar 
+otomatik olarak sağa doğru uzatılır. Otomatik Trend Çizgisi araçları, trend çizgilerini çizmenin 
+yanı sıra aynı zamanda birKoparma Dedektörübu, trend çizgisini aşan ilk çubuğu vurguluyor. 
+Uyarı seçeneği ayarlanırsa program aynı zamanda bir trend çizgisi kırılması durumunda bir 
+Uyarı sinyali üretecektir.
+Fiyat trend çizgisini aştığında, DeMark'ın kitabında anlattığı niteleyicilere göre 
+kırılmanın geçerli olup olmadığına dair otomatik bir tespit yapılıyor.
+Trend çizgileriyle ilgili bölümünde DeMark, yükseliş trendi çizgisinin kırılmasını aşağı yönde 
+geçerli bir kırılma olarak nitelendirecek üç olası koşulu açıklıyor. Düşüş trendi çizgisinin 
+yukarı yönlü kırılmaları da benzer şekilde çalışır:
+1. Çubuğun koparma çubuğundan önceki kapanışı, koparma çubuğundan önceki ikinci çubuğun 
+kapanışından daha büyük olmalıdır.
+2. Koparma çubuğu yükseliş trendi çizgisinin altında açılmalı ve kırılma çubuğundan önceki çubuğun alt 
+seviyesi yükseliş trendi çizgisinin üzerinde olmalıdır.
+3. Çubuğun kırılma çubuğundan önceki kapanışının toplamı eksi (a) çubuğun 
+kopma çubuğundan önceki gerçek yüksekliği veya (b) ikinci çubuğun kırılmadan 
+önceki kapanışı arasındaki fark çubuğun kırılmadan önceki kapanışı, kırılma 
+fiyatından yüksek olmalıdır.
+Bu üç koşuldan herhangi biri karşılanırsa kırılmanın geçerli olduğu kabul edilir ve kırılma 
+çubuğunun altına yeşil bir çarpı işareti çizilir. Yükseliş trendi çizgisinin kırılması geçerli olarak 
+onaylanırsa kırılma çubuğunun üzerinde yeşil bir çarpı işareti çizilir.
+Trend çizgisi kırılmasının DeMark niteleyicilerine göre geçerli olduğu düşünülmüyorsa, düşüş trendi 
+çizgisi kırılma çubuğunun altına veya yükseliş trendi çizgisi kırılma çubuğunun üstüne kırmızı bir çarpı 
+işareti çizilir. Bu, kırılmanın geçerli bir kırılma olarak kabul edilmediği ve takip edilmemesi gerektiği 
+anlamına gelir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa17
+STRENGTH Girişi, AutoTrendline araçlarında trend çizgilerinin çizileceği pivotların 
+gücünü kontrol etmek için kullanılan Fiyat Çubuğu Gücü Pivot algoritmasını kontrol 
+eder.
+OCCUR girişi, kullanıcının trend çizgisini zamanda geriye taşımasına olanak tanır. OCCUR için 
+varsayılan değer 1'dir ve bu, en son güç Pivotu "STRENGTH" ve bir sonraki en güncel daha yüksek 
+(eğer düşüş trendiyse) veya daha düşük (eğer yükseliş trendiyse) güç Pivotu "STRENGTH"'den bir 
+trend çizgisinin çizilmesine neden olur. Örneğin OCCUR 2'ye ayarlanırsa trend çizgisi zamanda bir 
+Pivot noktası kadar geriye gider. OCCUR'un her artışı trend çizgisini başka bir Pivot noktası kadar 
+geriye taşır.
+Giriş değeri LENGTH, göstergenin trend çizgisini tanımlayacak olan düşük salınım 
+çiftini arayacağı aralığı (çubuk sayısı cinsinden) tanımlar. LENGTH, trend çizgisini 
+tanımlayan iki salınım düşük seviyesi arasında beklenen maksimum çubuk 
+sayısından daha büyük bir sayıya ayarlanmalıdır.
+Bir düşüş trendi çizgisi çizmeye çalışırsanız ve en son pivot "UZUNLUK" aralığı üzerindeki en 
+yüksek pivotsa, çalışma sola doğru daha yüksek bir Pivot bulamayacak ve herhangi bir trend 
+çizgisi çizilmeyecektir. Bu, OCCUR girişinin geçerli bir trend çizgisinin çizilebileceği bir pivot 
+seçiminde yardımcı olabileceği yerdir. BizBelirli bir grafikte hangi STRENGTH ve OCCUR 
+değerlerini kullanmanız gerektiğini belirlemenize yardımcı olacak Fiyat Swing H/L 
+Puan Göstergesi.
+Zaman ilerledikçe ve grafikte yeni çubuklar çizildikçe, yeni bir düşük güç salınımı 
+"STRENGTH" oluşturulursa trend çizgisi yeniden çizilecektir. Yeni trend çizgisi yerine 
+önceki trend çizgisini göstermeye devam etmek istiyorsanız OCCUR değerini 1 
+artırmanız gerekecek. Alternatif olarak gösterge “FREEZE” adı verilen bir girdi içerir. 
+DONDURMA için varsayılan değer YANLIŞ'tır. FREEZE TRUE olarak ayarlanırsa, grafik ilk 
+açıldığında tanımlanan trend çizgisi ne olursa olsun, grafikte olduğu gibi kalacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa18
+yeni yükseliş ve düşüşlerin ortaya çıkması. Yükseliş trendi çizgisini yeni salınım düşük noktalarına göre 
+yeniden çizmek istiyorsanız, DONDUR'u tekrar YANLIŞ'a ayarlayın.
+Kullanıcıya ara sinyallerini kapatma seçeneği sunmak için "SHOBKOUT" giriş değeri 
+eklenmiştir. SHOBKOUT'un varsayılan değeri “TRUE”dur. Koparma sinyallerini ve hedef 
+hatlarını kapatmak için SHOBKOUT'u “FALSE” olarak ayarlayın.
+TT Otomatik Düşüş Eğilim Çizgisi aracı, TT Otomatik Yükseliş Eğilim Çizgisi aracına benzer ancak bunun tersi 
+şekilde çalışır.
+Potansiyel Destek/Direnç Seviyelerini Tanımlamaya Yönelik Araçlar
+Herhangi bir işlem döneminde piyasada "destek" veya "direnç" alanlarını temsil eden belirli fiyat 
+seviyeleri bulunur.Destek seviyeleritüccarların piyasanın aşırı satıldığına inandıkları ve satın 
+alma coşkusunun muhtemelen satış baskısını aşarak piyasanın yükselmesine neden olacağına 
+inandıkları fiyat noktalarıdır. Tam tersine,Direnç seviyeleritüccarların piyasanın aşırı alımda 
+olduğuna inandıkları ve satış baskısının satın alma heyecanını aşarak piyasanın düşmesine 
+neden olabileceği fiyat noktalarıdır. Çoğu destek ve direnç seviyesi subjektiftir ve kalabalık 
+psikolojisine dayanır. Destek ve direnç seviyelerini belirlemeye yönelik birçok yöntem 
+piyasalarda kabul gören bir folklor haline geldi ve dolayısıyla aslında kendi kendini 
+gerçekleştiren kehanetler haline geldi.
+Ancak destek ve direnç oldukça sık ortaya çıkıyor. Bu noktaların nerede 
+oluşabileceğine dair bilgi ve anlayışa sahip olmak, yatırımcıya piyasaya giriş ve çıkış 
+için olası alanları sağlayan bir referans çerçevesi sağlayacak önemli bir ek araç 
+sağlar.
+Destek noktası kırıldığında seviye direnç noktasına dönüşür. Kırılan bir direnç noktasının destek 
+noktası haline gelmesi durumunda bunun tersi doğrudur. Bu neden oluyor? Destek ve direnç 
+noktaları önemli alım ve satımların gerçekleştiği seviyeleri gösterir. Bir destek noktasının kırılması 
+durumunda, uzun pozisyondaki yatırımcılar artık işlemde başa baş olabilmek için aynı yerde satıcı 
+olma eğiliminde olacaklardır. Bir tüccar para kaybetmeye başladığında, ilk dürtülerden biri 
+başabaş noktası olmak için orijinal giriş noktasından çıkmaktır, böylece daha önce kırılmış bir 
+destek noktası artık bir direnç seviyesi haline gelir ve daha önce kırılmış bir direnç seviyesi artık 
+bir destek haline gelir. nokta.
+Önceki günlük, haftalık ve aylık en yüksek ve en düşük seviyeler önemli destek/direnç 
+noktalarını temsil ediyor. Yatırımcılar, planladıkları ticaretin potansiyel getirilerini ve 
+risklerini değerlendirebilmek için giriş ve çıkışlarını planlarken bu noktalara göre mevcut 
+fiyatların seviyesinden haberdar olmalıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa19
+TT Gün İçi H, L, Orta Hatlar
+Bu gösterge, gün içi grafikte çizildiğinde, fiyat tablosunda geçerli günün en yüksek, en düşük ve 
+ortalama fiyatını temsil eden çizgiler çizer. Bu çizgiler birçok yatırımcı için temel destek/direnç 
+çizgileri olarak hizmet vermektedir.
+TT Haftalık H, L, Orta Hatlar
+Bu gösterge, gün içi veya günlük grafikte çizildiğinde, fiyat tablosunda haftanın en yüksek, 
+en düşük ve ortalama fiyatını temsil eden çizgiler çizer. Bu çizgiler birçok yatırımcı için temel 
+destek/direnç çizgileri olarak hizmet vermektedir. Göstergenin bir girişi vardır: TAKVİM. 
+TRUE olarak ayarlandığında gösterge Pazartesi'den başlayarak hafta için H, L ve Mid'i çizer. 
+Günlük grafikte YANLIŞ olarak ayarlandığında gösterge son beş işlem günü için H, L ve 
+Ortayı çizer. TAKVİM, YANLIŞ olarak ayarlandığında, Haftalık gösterge gün içi grafikte çizim 
+yapmaz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa20
+TT Aylık H, L, Orta Hatlar
+Bu gösterge, gün içi, günlük veya haftalık bir grafik üzerinde çizildiğinde, fiyat 
+tablosunda ayın en yüksek, en düşük ve ortalama fiyatını temsil eden çizgiler çizer. Bu 
+çizgiler birçok yatırımcı için temel destek/direnç çizgileri olarak hizmet vermektedir. 
+Göstergenin bir girişi vardır: TAKVİM. DOĞRU olarak ayarlandığında gösterge takvim ayı 
+için H, L ve Mid'i çizer. Günlük veya haftalık grafikte YANLIŞ olarak ayarlandığında 
+gösterge, gerçek ayın uzunluğuna bakılmaksızın son 23 işlem günü için H, L ve Mid'i 
+çizer. TAKVİM YANLIŞ olarak ayarlandığında, Aylık gösterge gün içi grafikte çizilmez.
+Yukarıdaki destek/direnç araçları, tüccara gerçek tarihsel fiyat seviyelerine dayalı 
+"sağlam" bilgiler sağlar. Aşağıdaki destek/direnç araçları, yaygın olarak bilinen ve 
+kullanılan ve dolayısıyla kendini gerçekleştiren kehanetler kategorisine giren formüllere 
+dayalı teorik veya hesaplanmış seviyelere dayanmaktadır. Yatırımcının bu seviyelerin 
+farkında olması önemlidir, çünkü diğerleri bu seviyeleri kendi alım/satım stratejilerini 
+belirlemek için kullanırlar.
+TT Kat Pivotları Destek/Direnç Hatları
+Çoğu işlem günü boyunca karmaşık hesaplamalar yapamayacak kadar meşgul olan 
+borsadaki birçok tüccar, sabahları tahmin edilen destek/direnç seviyelerini temsil eden 
+küçük bir kart üzerine yazılmış bir dizi fiyat seviyesiyle çukurlara gelir. gün için. Bu fiyat 
+seviyelerine göreKat Yatırımcılarının Pivot Formülleri,önceki günün açılış, en yüksek, 
+en düşük ve kapanış değerleri baz alınarak aşağıdaki şekilde hesaplanmıştır:
+Ort. Fiyat = (H+L+C)/3 Direnç 2 
+= Ort. Fiyat + H - L;
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa21
+Direnç 1 = 2*Ort. Fiyat - L; 
+Destek 1 = 2* Ort. Fiyat - H; 
+Destek 2 = Ort. Fiyat + L - H;
+The TT Kat Pivotları “A” ve “B”göstergeler, gün içi grafikte yukarıdaki formüllere 
+dayanarak Zemin Yatırımcılarının Pivot destek/direnç bölgesi sınırlarını çizer. Gösterge 
+iki bölümden oluşur: TT Taban Pivotları "A", Destek1, Destek2 ve Ortalama Fiyat çizgisini 
+gösterirken, TT Taban Pivotları "B", Direnç1 ve Direnç2'yi gösterir. Göstergeyi doğru bir 
+şekilde çizmek için en az 4 günlük veriye ihtiyacınız vardır. Kat Pivotları "A" üzerindeki ek 
+bir giriş olan PRINTLOG, 'TRUE' olarak ayarlandığında PrintLog'da Pivot, destek, direnç 
+ve orta hat değerlerini yazdıracaktır.
+"Gizli" Kat Pivot formülleri kamuoyunun ortak bilgisi haline geldiğinden beri, hızla kendi 
+kendini gerçekleştiren kehanetler haline geliyorlar ve zemin tüccarları onlar için "silah" 
+vermeye başlıyorlar. Artık klasik destek/direnç çizgileri arasındaki orta noktalar yeni “Pivot 
+çizgileri” haline geldi.TT Kat Pivotları Ortagöstergesi bu orta noktaları hesaplar ve bunları 
+beyaz çizgiler halinde çizer. Bunları deneyin ve bu hatlarda çok fazla destek ve direnç bulup 
+bulamayacağınıza bakın.
+The TT Saatlik Pivot HatlarıRay Wertheim tarafından geliştirilen bir konsepte dayanan gösterge, 
+önceki saatin hareketine göre saatlik olarak güncellenen bir dizi destek/direnç çizgisini içeren 5 
+dakikalık bir grafik çiziyor. Bu gösterge, yukarıdaki TT Floor Pivot günlük destek/direnç çizgilerinde 
+açıklanan klasik "gizli" Pivot formüllerinin aynısını kullanır; ancak hesaplamalar önceki saatin en 
+yüksek, en düşük ve kapanış değerlerine göre gerçekleştirilmektedir. Bu araç tarafından oluşturulan 
+Pivot çizgilerinin mükemmel kısa vadeli destek/direnç çizgileri olduğunu göreceksiniz.
+Saatlik Pivot Hatları göstergesini kullanmak için, Veri1 olarak 5 dakikalık, Veri2 olarak 60 
+dakikalık grafik içeren çoklu veri grafiği oluşturmalısınız. ( Çoklu veri grafiği oluşturmak için
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa22
+öncelikle 5 dakikalık bir grafik içeren yeni bir grafik penceresi oluşturmalısınız. Daha sonra, o 
+grafik penceresinden ayrılmadan, “Fiyat Verilerini Ekle”ye tıklayın ve aynı fiyat verilerinin 60 
+dakikalık grafiğini seçin. Fiyat Verilerini Ekle penceresinin altındaki "Grafik Seçenekleri" bölümünü 
+işaretleyin ve "Seçili Fiyat Verilerini Değiştir" işaretli kutunun işaretini kaldırın. Daha sonra “Plot”a 
+tıklayın. “Fiyat Verilerini Formatla” penceresinde “Özellikler” sekmesine tıklayın ve Data2 için “Alt 
+Grafik” kutusunu “Gizli” olarak ayarlayın. )
+TT Günlük Aralık Tahmini 1 ve 2
+The TT Günlük Aralık Tahmini 1gösterge, Larry Williams'ın "Vadeli İşlem Ticaretinin Kesin 
+Kılavuzu" adlı kitabında açıklanan bir yönteme dayanarak gün için öngörülen en yüksek ve en 
+düşük değerleri gösteren gün içi grafik üzerinde gri çizgiler çizer.
+Williams'ın formülleri aşağıdaki gibidir:
+Williams'ın Öngörülen Yüksekliği = (H+L+C) * 2/3 – H; Williams'ın 
+Tahmini Düşük = (H+L+C) * 2/3 – L; H,L ve C'nin dünün en yüksek, 
+en düşük ve en yakın değerleri olduğu yer.
+The TT Günlük Menzil Tahmini 2Gösterge, Thomas R. DeMark'ın "Yeni Teknik Analiz Bilimi" 
+adlı kitabında açıklanan yönteme dayanmaktadır ve gün için öngörülen yüksek ve düşük 
+değerleri gösteren gün içi grafik üzerinde kırmızı ve yeşil çizgiler çizmektedir.
+DeMark'ın formülleri aşağıdaki gibidir:
+Pivot = dünün H+L+C'si;
+Eğer bugünün Açılışı < dünün Kapanışı ise, o zaman X = (Pivot + H)/2;
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa23
+Bugünün Açık > dünün Kapanışı ise X = (Pivot + L)2; 
+Bugünün Açılışı = dünün Kapanışı ise X = (Pivot + C)/2;
+DeMark'ın Öngörülen Yüksek Değeri = X – L; 
+DeMark'ın Öngörülen Düşük Değeri = X – H;
+Yüzde Geri Çekilmeleri ve Uzatmalar
+Yüzdegeri çekilmeanaliz, bir itme salınımının tamamlanmasının ardından olası geri çekilme 
+salınım desteği/direnç seviyelerinin tahmin edilmesi sürecini ifade eder. En popüler geri 
+çekilme seviyeleri, itme salınımının uzunluğunun %38, %50 ve %62'sini içerir.
+YüzdeUzantılarakımın uzunluğunu tahmin etmenin bir yoluduritme salınımı
+önceki itme salınımının uzunluğunun yüzdesi olarak. En popüler uzantı 
+seviyeleri %138, %162, %262'dir.
+%38 ve %62, Fibonacci oranları olarak adlandırılan 0,382 ve 0,618 oranlarının yaklaşık 
+değerleridir. 0,618 oranına deniraltın anlam, veyailahi orantı,Antik Yunan ve Mısır 
+kültürlerinden bu yana özel bir matematiksel ve estetik öneme sahip olmuştur. Piramit 
+dahil pek çok bina bu oran dikkate alınarak inşa edildi. Doğadaki birçok olay altın 
+ortalama oranı sergiliyor gibi görünüyor. Örneğin papatya, ayçiçeği ve ananas 
+desenleriyle örneklenen birçok bitki, Fibonacci dizilimi doğrultusunda yaprak sayısını 
+artırır. Galaksilerdeki birçok hayvan şekli ve hatta boyutları altın ortalama ilişkiler 
+sergiler.
+Fibonacci oranları Fibonacci sayı serisinden türetilmiştir. Fibonacci serisi 0 ve 1 
+sayılarıyla başlar ve serideki sonraki sayılar önceki iki sayının toplamıdır. 
+Serideki ilk 10 sayı 0,1,1,2,3,5,8,13,21,34…….
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa24
+Seri devam ettikçe komşu iki sayıdan büyüğünün küçüğüne oranı 1,618'e 
+yaklaşırken, komşu iki sayıdan büyüğünün küçüğüne oranı 0,618'e 
+yaklaşıyor. 0,382, serideki her ikinci sayı çiftinin sınırlayıcı oranıdır (örneğin, 
+13/34) ve 0,382 de 1/2,618'dir.
+Geri çekilme/uzama analizinde kullanılan önemli Fibonacci oranları şunları içerir: 0,236, 
+0,382, 0,500, 0,618, 0,786 (0,618'in karekökü), 1,00, 1,272 (1,618'in karekökü), 1,618, 2,000, 
+2,618 ve 4,236.
+Altın anlamın veya Fibonacci oranlarının ticaret seviyeleriyle ne ilgisi var? Başka bir şey değilse, bu 
+yine kendini gerçekleştiren kehanettir. Tarihsel kanıtlar, salınım geri çekilmelerinin ve 
+genişlemelerinin defalarca Fibonacci seviyelerinde sona erdiğini göstermiştir, dolayısıyla bu, 
+tanınması ve incelenmesi gereken önemli bir olgudur.
+The TT AutoFib Geri çekilme Göstergesibir fiyat grafiğinin en son yüksek ve düşük 
+salınımlarını otomatik olarak algılar ve ardından mevcut salınımın uzunluğunun yüzdeleri 
+olarak seçilen geri çekilme seviyelerini temsil eden grafik üzerinde devam eden bir dizi 
+noktalı çizgi çizer. Geri çekilme oranları, RETRACE1'den RETRACE4'e kadar ayarlanabilir 
+Girişler tarafından tanımlanır. AutoFib geri çekilme seviyeleri, mevcut salınım ayağında yeni 
+yüksek/düşük seviyelere ulaşıldığında seviyeleri değişecek olan yatay renkli noktalı çizgiler 
+olarak çizilir.
+Bir salınımın tersine dönmesini tanımlamak için gereken fiyat tersine dönme miktarı ve 
+dolayısıyla sistemin hassasiyeti, daha önce açıklandığı gibi TICKCHG ve PCTCHG girdi 
+değişkenleri tarafından kontrol edilir. AutoFib'deki PCTCHG veya TICKCHG girişleri için 
+kullanılacak en iyi ayarları belirlemek amacıyla Zig Zag göstergesini kullanmanızı öneririz. 
+Kabul edilebilir bir Zig Zag salınım boyutu için optimum PCTCHG veya TICKCHG ayarlarını 
+belirledikten sonra, AutoFib aracı için bu değerin iki katını kullanmanızı öneririz. Bu şekilde 
+AutoFib aracı, grafiğinizdeki Zig Zag salınımlarını uzun vadeli salınım geri çekilme 
+seviyeleriyle daha iyi ilişkilendirir.
+TT AutoFib Uzatma Göstergesi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa25
+The Otomatik Fib Uzantısıgöstergesi, bir fiyat tablosunun en son yüksek veya düşük 
+salınımı için Fibonacci uzantı seviyelerini, yukarıda açıklanan AutoFib Retracement 
+Göstergesiyle aynı şekilde otomatik olarak çizer.
+Fibonacci uzatma seviyeleri şu şekilde hesaplanır: Fiyatlar şu anda Yükselişteyse, 
+AutoFib Uzatma Aracı önceki Yükselişin uzunluğunu hesaplar, bu uzunluğu 
+Girilen Fibonacci oranlarıyla çarpar ve bu Fibonacci uzatma uzunluklarını mevcut 
+yükselişin başlangıcına ekler. . Fibonacci genişleme oranları EXTEND1'den 
+EXTEND4'e kadar ayarlanabilir Girişler tarafından tanımlanır.
+TT Fiyat Magnetleri
+Destek/direnç seviyelerini oluşturmanın en etkili araçlarından biriTT Fiyat Mıknatısları Yukarı/
+Aşağıgöstergeler kümesi. Bu göstergeler, fiyat dalgalanma analizine dayalı olarak fiyat 
+projeksiyon bölgelerini tanımlamak için geliştirilen devrim niteliğinde yeni bir konsepte 
+dayanmaktadır. Gösterge tamamen otomatiktir ve fiyat tablosu üzerinde bir fiyatın üst ve alt 
+sınırlarını tanımlayan renkli çarpı işaretleri şeklinde bir çift yatay çizgi çizer.Fiyat Mıknatısları
+destek/direnç bölgesi. Bölgenin genişliği önceki dalgalanmaların oluşturduğu fiyat kalıplarına 
+göre belirlenir.
+The TT Fiyat Mıknatısları Arttıgösterge piyasanın üzerindeki direnç bölgelerini öngörüyor veTT 
+Fiyat Mıknatısları Düştüprojeler piyasanın altındaki bölgeleri destekler Zamanın %75'inden 
+fazlasında, bu Fiyat Mıknatısları fiyatları kendilerine çekecek ve fiyatlar bu seviyelere ulaştığında 
+direnç/destek sağlayacaktır. Fiyatların Fiyat Mıknatıslarında durup tersine dönmediği, ancak 
+bunlar aracılığıyla ticarete devam ettiği durumlarda, fiyat hareketi genellikle artan güçle devam 
+ederken, Fiyat Mıknatısı direnç seviyeleri destek seviyelerine ve destek seviyeleri direnç 
+seviyelerine dönüşür.
+Fiyat Mıknatısı salınımı olarak nitelendirilen yeni bir salınım modeli tespit edilirse, 
+revize edilmiş bir Fiyat Mıknatısı hedef bölgesi hesaplanır ve fiyat grafiğine çizilir. 
+Belirli bir Fiyat Mıknatısı çizgisi, (1) fiyat Fiyat Mıknatısı hedefine ulaşana veya (2) yeni 
+bir Fiyat Mıknatısı salınım modeli tespit edilene kadar grafikte çizilmeye devam eder.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa26
+yeni bir Fiyat Mıknatısı hedef bölgesi oluşturur. YENİ BİR FİYAT MIKNATISI HEDEF 
+BÖLGESİNİN OLUŞTURULMASI, ÖNCEKİ BÖLGEYİ GEREKLİ OLARAK DİSKALİFİYE ETMEZ. 
+TradeStation/SuperCharts'taki bir sınırlama nedeniyle, herhangi bir zamanda yalnızca 
+bir set Fiyat Mıknatısı Yukarı ve bir set Fiyat Mıknatısı Aşağı çizgisi çizilebilir.
+Fiyat Mıknatısı göstergesinin iki kontrol edilebilir girişi vardır: STRENGTH ve LOOKBACK. 
+GÜÇ, Fiyat Mıknatısı hedeflerinin belirlenmesinde kullanılacak dalgalanmaların 
+büyüklüğünü ve dolayısıyla Fiyat Mıknatısları göstergesinin hassasiyetini tanımlar. Diğer 
+STRENGTH ayarlarıyla tutarlı olarak ayarlanmalıdır. (bkz. bölüm, ““Salıncak” nedir?
+STRENGTH ayarının daha ayrıntılı bir açıklaması için.)
+LOOKBACK, göstergenin hedef bölgeyi tanımlayacak fiyat salınım modelini arayacağı 
+aralığı (çubuk sayısı cinsinden) tanımlar. Grafiğe yüklenen çubukların toplam sayısı 
+LOOKBACK değerinin iki katından fazla olmalıdır. Normalde her grafik penceresi için 
+GÜÇ ve BAKIŞ için optimum değerleri belirlemek amacıyla küçük bir deneme yapılması 
+gerekecektir. Varsayılan LOOKBACK değeri 70 çubuk olarak ayarlanmıştır, ancak 140 
+çubuktan daha az günlük veya haftalık bir grafiğiniz varsa LOOKBACK boyutunu 
+azaltmanız gerekecektir.
+GÜÇ için tipik değerler 1 ile 5 arasında değişir; daha yüksek sayılar Fiyat Mıknatıslarının daha 
+önemli fiyat hedeflerini belirlemesine neden olur. Bazı kullanıcılar, hem majör hem de minör fiyat 
+hedeflerini görmek için, hedef çizgiler için farklı STRENGTH değerleri ve farklı renkler kullanarak 
+Fiyat Mıknatısları göstergesini aynı grafik üzerinde birden fazla kez çalıştırmayı tercih eder.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa27
+Grafiklerinizde Fiyat Mıknatıs bölgelerinin gerçek zamanlı olarak gelişmesini izledikçe, fiyatları 
+kendilerine ne kadar esrarengiz bir şekilde çektiklerine şaşıracaksınız. Düşen piyasalarda, Fiyat 
+Mıknatısı Yukarı hedef çizgileri aşağı yönlü trendi takip ettiğinden genellikle bir merdiven 
+basamağı etkisi göreceksiniz. Bu durumda, bir Fiyat Mıknatısı hedef bölgesinin merdivenden 
+aşağıya doğru bir önceki fiyat seviyesinden daha yüksek bir fiyat seviyesinde çizildiğini ilk kez 
+gördüğünüzde, fiyatlar genellikle dönmeye hazırdır ve bu yeni Fiyat Mıknatısı bölgesine sıklıkla 
+artan bir şekilde girilir. itme. Benzer şekilde, yükselen piyasalarda, öncekinden daha düşük olan 
+ilk Fiyat Mıknatısı hedef bölgesi genellikle trendin tersine döndüğüne işaret eder ve yeni Fiyat 
+Mıknatısı bölgesine genellikle artan bir ivmeyle girilir.
+Yatırımcıların Araç Kutusu Osilatörleri
+Yıllar boyunca yüzlerce osilatörü yarattık ve test ettik; bunların çoğu kendi araştırmalarımıza, 
+birçoğu da başkaları tarafından yayınlanan konseptlere dayanıyor. Bu kapsamlı araştırmaya 
+dayanarak, Swing Trader'a piyasanın salınım modelindeki dönüm noktalarını belirlemede en iyi 
+şekilde hizmet edebileceğine inandığımız üç tanesini seçtik. Bu osilatörler "ileriye baktıkları" ve 
+"karışıklığın arkasını görebildikleri" için onlara Radar 1 Sentiment, Radar 2 Hızlandırma ve Radar 3 
+OB/OS adını verdik.
+TT Radar 1 Duyarlılık Göstergesi
+RADAR 1, alım gücünün satış gücüne oranını ölçmek için fiyat değişiklikleri ile hacim 
+değişiklikleri arasındaki ilişkiye dayalı bir histogram oluşturan bir osilatördür. Bu bize 
+herhangi bir zamanda kontrolün Boğalar'da mı yoksa Ayılar'da mı olduğunu gösterir. 
+Iraksama analizi ve trend kalıcılığını belirlemek için mükemmel bir osilatördür ve çubuk içi 
+veya çubuğun sonu olmak üzere herhangi bir zaman diliminde grafiklerde gerçek zamanlı 
+olarak çalışır.
+RADAR 1 yeşil bölgedeyken alım baskısı satış baskısını aşar ve kontrol Bulls'ta 
+olur. Yukarıyı gösteren yeşilin yüksekliği
+Bulls'un satın alma baskısının gücünün bir göstergesi.
+osilatör çizgisi kırmızı bölgede, satış baskısı alım baskısını aşıyor ve Ayılar kontrol 
+altında. Aşağıyı gösteren kırmızı RADAR 1 histogram çubuklarının derinliği, Ayıların 
+satış baskısının gücünün bir göstergesidir.
+RADAR 1 histogram çubukları ise 
+bunun tersidir, eğer RADAR 1
+RADAR 1, genellikle fiyat değişmeden önce dönmeye başladığından, her türlü piyasada mükemmel bir 
+dönüm noktası göstergesi olarak hizmet eder. Bu genellikle fiyat hala kendi momentumunda yukarı/
+aşağı hareket ederken Boğaların/Ayıların tükendiğini gösterir. Fiyattaki ani bir hareket RADAR 1'deki 
+benzer bir hareketle onaylanmazsa veya beklenmezse, bu genellikle sahte bir salınım anlamına gelir ve 
+göz ardı edilecek veya gölgede bırakılacak bir hareketi temsil eder.
+RADAR1 genellikle büyük bir fiyat değişiminden önce karakteristik bir "çift tepe" veya "çift 
+vadi" modeli oluşturur. Öte yandan, eğer formasyon küçük bir düşüşle kesintiye uğramayan 
+düzgün bir yukarı-aşağı eğri ise, mevcut trendin daha da devam etme ihtimali vardır.
+Bir RADAR 1 vadisinin selefinden daha sığ olması ve en güncel RADAR 1 vadisine 
+karşılık gelen fiyatın bir öncekine karşılık gelen fiyattan düşük olması durumunda
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa28
+RADAR 1 vadisinde, genel olarak fiyatın yukarıya doğru döneceğine işaret eden 
+farklı bir durum oluştu. Tersine, bir RADAR 1 zirvesi öncekinden daha düşükken, en 
+son RADAR 1 zirvesine karşılık gelen fiyat önceki RADAR 1 zirvesine karşılık gelen 
+fiyattan daha yüksek olduğunda, genel olarak yakın bir fiyat tersine dönüşüne işaret 
+eden bir farklılaşma durumu ortaya çıkmıştır. dezavantaj.
+RADAR 1, gün içi verilerde olduğu gibi gün sonu verilerde de eşit derecede iyi çalışan son 
+derece sağlam bir göstergedir. Bir uyarının tetiklendiği kesme değerini tanımlayan, yalnızca 
+kullanıcı tarafından kontrol edilen ALRTLEVL girişi vardır. Örneğin ALRTLEVL 1'e ayarlanırsa, 
+RADAR 1 1'in üstüne çıktığında veya –1'in altına geçtiğinde bir uyarı tetiklenir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa29
+TT Radar 2 Hızlanma Osilatörü
+TT Radarı 2mükemmel bir hızlanmaya dayalı erken uyarı göstergesidir. Bu gösterge, tüm 
+pazarlarda ve zaman dilimlerinde, yöndeki yaklaşan değişiklikleri belirlemek için çok faydalıdır. 
+Kırmızı Hızlı Radar 2 çizgisinin yeşil Yavaş Radar 2 çizgisinin üzerinden geçmesi, pazarın yönünde 
+yaklaşmakta olan bir değişikliğin sinyalini verir. Fiyat yönü değişiklikleri Yavaş Radar 2 çizgisinin 
+50 merkez çizgisi üzerinden geçmesiyle doğrulanır.
+Osilatör 50 merkez çizgisinin üzerinde olduğunda bu, fiyatın hâlâ yukarı doğru ivme 
+kazandığı anlamına gelir. Osilatör 50 merkez çizgisinin altına geçtiğinde bu, fiyat 
+ivmesinin tersine döndüğü ve momentumun artık yavaşladığı anlamına gelir. Merkez 
+çizgisinden önceki sapma ne kadar büyükse, TT Radar 2 merkez çizgisine geri "sapan" 
+attığında fiyat hareketi ters yönde o kadar güçlü olacaktır.
+Radar 2'nin performansını MACD, Stochastics veya RSI gibi diğer osilatörlerle 
+karşılaştırırsanız, Radar 2'nin dönüşleri gerçekleşmeden ÖNCE çağırdığını ve hareket ivme 
+kazanmadan önce emirlerinizi girmeniz için size zaman verdiğini göreceksiniz.
+Osilatörün yönü yalnızca büyük zirve ve diplerden hemen önce değişmekle kalmıyor, 
+daha da önemlisi, çoğu zaman TT Radar 2 ile fiyat arasında piyasa yönündeki beklenen 
+değişikliği teyit eden farklılıklar ortaya çıkıyor. Bu, osilatördeki ilk tersine çevrilmeyi göz 
+ardı edip ikinciyi beklemeniz durumunda genellikle en iyi şekilde çalışacağı anlamına 
+gelir. Osilatördeki iki tepe veya vadi, fiyatların tepe ve dip noktalarından farklılık 
+gösteriyorsa, büyük bir dönüm noktasının yaklaştığı ihtimali büyük ölçüde artar. TT 
+Radar 2, tutarlı ve ticaret disiplini ile kullanıldığında tutarlı karlara yol açabilecek güçlü 
+bir ticaret aracıdır.
+TT Radar 2 osilatörünün tek başına kullanıldığında temel dezavantajı, kârlı bir şekilde işlem 
+yapmak için çok küçük fiyat dalgalanmalarında bile sinyal üretecek kadar hassas olmasıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa30
+Bu nedenle öncelikle ıraksaklıklar üzerinden işlem yapılması veya sinyallerin diğer 
+osilatörlerle filtrelenmesi tavsiye edilir. En iyi onaylayıcı filtrelerden biri, alıcıların mı yoksa 
+satıcıların mı sorumlu olduğunu belirlemek için hacim ve fiyat arasındaki ilişkiye bakan ve TT 
+Radar 2 sinyallerini yalnızca TT Radar 1'in belirlediği sinyallerle tutarlı olduğunda alan TT 
+Radar 1 osilatörüdür. bize anlatıyor.
+TT Radarı 2aşağıdaki gibi üç Girişi vardır:
+FASTLEN, hızlı Radar 2 hattının hassasiyetini kontrol eder. daha yumuşaktır 
+ancak geçiş sinyallerinin daha geç oluşmasına neden olur.
+SLOWLEN, yavaş Radar 2 hattının hassasiyetini kontrol eder. Daha yüksek sayılar çizgiyi 
+düzleştirir ve hızlı ve yavaş çizgiler arasındaki yayılmayı artırır.
+Daha yüksek sayılar bunu sağlar
+Bu göstergenin varsayılan ayarları hızlı yanıt için optimize edilmiştir. Bununla birlikte, 
+parametreleri daha düzgün bir görünüm sunan ve yavaş çizgiyi sağa doğru bir çubuk 
+kaydıran özelleştirilmiş bir kombinasyona otomatik olarak ayarlayan, SMOOTH adı verilen bir 
+Doğru/Yanlış Girişi dahil edilmiştir. "Doğru" olarak ayarlandığında, DÜZLEŞTİR ayarı 
+HIZLANDIR ve YAVAŞLAT ayarlarını geçersiz kılar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa31
+TT Radar 3 Aşırı Alım/Aşırı Satış Endeksi
+Traders Toolbox'ın bu heyecan verici yeni osilatörü, kullanıcıya piyasaların iç işleyişine dair 
+mümkün olan en net bilgiyi vermek için tasarlandı. Grafik, tescilli üçlü düzleştirilmiş aşırı 
+alım-aşırı satım osilatörün macenta/mavi histogramıdır. Barlar ne zamanmavi ve merkez 
+çizgisinin üstünde, trend yukarı.Merkez çizgisinin üzerindeki kırmızı çubuklar yükseliş 
+trendinde geri çekilmeyi işaret ediyor. Barlar ne zamanmacenta ve merkez çizgisinin altında , 
+trend düşüşte. Merkez çizgisinin altındaki mavi çubuklar düşüş trendinde geri çekilmeyi 
+işaret ediyor.
+TT Radarı 3tüm zaman dilimlerinde çalışan çok sağlam bir göstergedir. Kullanıcı tarafından kontrol 
+edilen tek bir Giriş vardır: SENSITIV. SENSITIV değeri ne kadar yüksek olursa göstergenin zaman ufku 
+da o kadar uzun olur.
+SENSITIV 1 ila 20 aralığındaki değerler normal bir hassasiyet aralığını temsil eder. 1 daha 
+duyarlı, 20 daha az duyarlıdır. 5, 3 dakikadan haftalıka kadar olan grafikler için tipik bir 
+değerdir. 2 ila 4 aralığındaki 3 dakikanın altındaki değerler iyi sonuç verir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa32
+TT Sapma Normal ve TT Sapma Tip 2
+Bir osilatör vadisi öncekinden daha sığ olduğunda ve en son osilatör vadisine 
+karşılık gelen fiyat önceki osilatör vadisine karşılık gelen fiyattan düşük olduğunda, 
+genellikle fiyatın yakın zamanda yukarıya doğru döneceğine işaret eden "normal" 
+bir sapma durumu meydana gelir. Tersine, bir osilatörün zirvesi öncekinden daha 
+düşükken, en son osilatörün zirvesine karşılık gelen fiyat önceki osilatörün zirvesine 
+karşılık gelen fiyattan daha yüksek olduğunda, genel olarak yakın bir fiyat 
+değişimine işaret eden bir "normal" yakınsama durumu meydana gelir. dezavantaj.
+Bir osilatör vadisinin öncekinden daha derin olması ve en son osilatör vadisine karşılık 
+gelen fiyatın bir önceki osilatör vadisine karşılık gelen fiyattan daha yüksek olması veya 
+bir osilatörün tepe noktasının öncekinden daha yüksek olması durumunda "Tip 2" 
+sapma meydana gelir. En son osilatörün zirvesine karşılık gelen fiyat, önceki osilatörün 
+zirvesine karşılık gelen fiyattan daha düşüktür.
+Omega'nın “hazır” ıraksama çalışmasından oldukça üstün olan TT Iraksama Dedektörü, 
+fiyat ile Kullanıcı Fonksiyonunun mevcut olduğu herhangi bir osilatör arasında bir 
+sapma olduğunda fiyatın üstünde veya altında renkli nokta şeklinde bir sinyal üretir. İki 
+osilatörün salınım yüksek/düşük seviyelerinden ilkinin, OBZONE ve OSZONE girişleri 
+tarafından tanımlandığı gibi aşırı alım/aşırı satım bölgelerinde olmasını gerektiren bir 
+filtre açılabilir.
+TT Iraksama Normal göstergesi, belirli bir STRENGTH'in ardışık osilatör düşükleri ile 
+karşılık gelen fiyat düşükleri arasında bir yakınsama meydana geldiğinde, düşük bir 
+fiyatın altında yeşil bir nokta çizer. Tersine, belirli bir GÜÇ'ün ardışık osilatör yüksekleri 
+ile karşılık gelen fiyat yüksekleri arasında bir farklılık meydana geldiğinde, yüksek bir 
+fiyatın üzerinde kırmızı bir nokta çizer. Ek olarak gösterge, kullanıcıya farklılığın tespit 
+edildiği iki noktayı göstermek amacıyla, fiyat tablosunda, sapma modelinin sol tarafına 
+karşılık gelen zamanda renkli noktanın soluna küçük bir çarpı işareti çizer.
+TT Diverjans Türü 2 göstergesi, osilatörün en düşük seviyeleri ile en düşük fiyatları arasında bir sapma 
+meydana geldiğinde en düşük fiyatın altında mavi bir nokta çizer ve osilatörün en yüksek seviyeleri ile 
+en yüksek fiyatları arasında bir yakınsama meydana geldiğinde bir en yüksek fiyatın üzerinde macenta 
+bir nokta çizer. Tip 2 sapmalar, Normal sapmalara göre daha nadir olmakla birlikte, çok güçlü fiyat 
+dönüş sinyalleridir ve bu sinyaller üzerinden yapılan işlemlerin başarı olasılığı yüksektir.
+TT Sapma Normal ve TT Sapma Tip 2 göstergeleri birlikte çalıştırıldığında, en önemli 
+fiyat trendi dönüşlerini açıkça belirleyecektir.
+Bölümde açıklandığı gibi,“Salıncak” nedir?STRENGTH girişi 1 olan bir düşük 
+osilatörün solunda en az bir bitişik yüksek çubuğa ve sağında da bir bitişik yüksek 
+çubuğa sahip olacaktır. STRENGTH girişi 3'e ayarlanırsa osilatörün düşük seviyesi 
+önceki üç çubuktan ve sonraki 3 çubuktan daha düşük olmalıdır. Ayrışma noktası
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa33
+Farklılığın doğrulandığı çubuk üzerine çizilir (yani, STRENGTH 2 için yüksek/düşük 
+salınımdan 2 çubuk sonra).
+Bu göstergenin çok sayıda girişi olmasına rağmen, yeni bir kullanıcının farklılık kriterlerini 
+tanımlamak için yalnızca OSC, STRENGTH ve MINBARS girişlerine odaklanması gerekir. Diğer, 
+daha gelişmiş girişleri başlangıçta varsayılan ayarlarında tutun.
+Girişler aşağıdakileri içerir: 
+OSC(YavaşD(14))
+KUVVET(3),
+{Osilatör kullanıcı işlevi ve kullanıcı işlevi parametreleri} {Bir sapma/
+yakınsama hesaplamasına hak kazanmak için osilatörün yüksek/
+düşük salınımı için gereken güç.}
+{ Farklılığın oluşması gereken minimum çubuk sayısı.}
+OS_OBFLT(FALSE) {Aşırı alım/aşırı satım filtresi geçişi. YANLIŞ olarak ayarlandığında bu
+filtre devre dışı.}
+{Aşırı Satış bölgesinin sınırı.} { Aşırı 
+Alım bölgesinin sınırı.}
+{ Farklılık noktalarını çizmek için fiyatın yüksek/düşük değerinin ötesindeki fiyat 
+adımlarının sayısı. Uzaklaşma noktalarınız çubuğun yüksek/düşük kısmını 
+engelliyorsa PLOTINCR'nin boyutunu artırın.}
+MİNBİRLER(4),
+OSZON(20)
+OBZON(80)
+PLOTINCR(3)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa34
+TT Pro Mom Barlar Yukarı/Aşağı Boya Çubukları
+Bu geliştirilmiş trend PaintBar Çalışmaları çifti, genel trend yönünü ortaya çıkarmada son derece 
+doğrudur. Çubuklar maviye boyandığında yükseliş trendi sürüyor. Çubuklar kırmızıya boyandığında 
+düşüş trendi yaşanıyor demektir. Ardışık olarak boyanan çubukların sayısı ne kadar fazla olursa, 
+herhangi bir zaman diliminde trend tespiti o kadar güvenilir olur. Alternatif kırmızı ve mavi çubuk 
+kümeleri göründüğünde, bu, gerçek bir eğilimin olmadığı yatay bir pazara işaret eder.
+Boya çubuklarının bir giriş değeri vardır,UZUNLUK . Bu girdinin optimum değeri piyasadan 
+pazara ve zaman diliminden zaman dilimine değişecektir. S&P ve T-Bond'un 5-tik ve 1 
+dakikalık grafiklerinde iyi sonuç verecek 5 değerini bulduk. 6 değeri, 3 ila 30 dakika arasında 
+değişen zaman ölçeklerine sahip S&P ve T-Bond grafiklerinde iyi sonuç verir.
+Bu değerleri denemekten korkmayın; Bu göstergeyi seçtiğiniz her grafikte mümkün 
+olan en iyi doğrulukla çok etkili bir şekilde kullanabilmelisiniz. Her gün ortaya 
+çıktıkça size piyasanın daha iyi bir resmini vermek için tasarlandı.
+TT Pro Durağı
+Bu gösterge, kamçı testerelerini en aza indirirken pozisyon kârının çoğunu yakalayan, son 
+derece etkili, volatiliteye dayalı uyarlanabilir bir takip durdurmadır. Giriş değeri "STOPSENS", 
+yarının beklenen aralığının, durdurma algoritması tarafından öngörülen sınırlar dahilinde 
+kalma olasılığını ayarlar. Bu duyarlılık değerini ampirik olarak belirlemek, durma noktasını 
+trend içindeki fiyattaki tipik geri çekilme aralığının hemen dışında tutan en iyi değeri bulmayı 
+deneyerek belirlemek genellikle en iyisidir. Tipik olarak, 1,5 ila 5 arasındaki bir giriş değeri 
+aralığının iyi çalıştığını, daha küçük değerin daha yakın bir duruş sağladığını görüyoruz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Daha fazla ticari kitap şu adreste: https://t.me/tradingpdfgratis2
+Sayfa35
+Bu durdurma algoritması hem GÖSTERGE hem de SİSTEM olarak gelir ve her ikisi de TT PRO 
+STOP olarak adlandırılır.gösterge fiyat tablosu üzerinde devam eden durma seviyesini gösteren 
+sürekli noktalı bir çizgi çizecektir. Hassasiyet girişi STOPSENS'e ek olarak Göstergenin ayrıca 
+PLOTBOTH girişi de vardır. TRUE olarak ayarlandığında gösterge hem alış stop hem de satış stop 
+seviyelerini sürekli olarak çizecektir. FALSE olarak ayarlandığında gösterge, uzun veya kısa 
+olmasına bağlı olarak yalnızca bir durağı veya diğerini çizer. (Bu, çalıştırdığınız sistemin uzun veya 
+kısa olup olmadığını değil, JLAG duraklarına çarpıp pozisyonunuzu tersine çevirip çevirmediğini 
+yansıtır.)
+TT PRO DURAĞIsistem bağlayabileceğiniz diğer sisteme çıkış komutları verecektir. 
+TT PRO STOP SYSTEM'i başka bir sisteme takip eden durak olarak dahil etmek için 
+Power Editor'da sisteminizin koduna aşağıdaki satırı ekleyin:
+GİRİŞ:
+STOPON(TRUE), {Bu, seçiminize göre durağı “açık” veya “kapalı” olarak seçmenizi 
+sağlar. } DURDUR(3.0); {Durmanın hassasiyeti }
+DAHİL SİSTEM: "TT PRO STOP", STOPON, STOPSENS, ŞİFRE;
+TT Pro Durdurma ve Ters Adaptif Takip Eden Durdurma Sistemi
+Bu her zaman devrede olan Durdurma ve Geri Alma sistemi, durdurma tetiklendiğinde konumunuzu tersine 
+çevirmek için durdurmayı bir tetikleme noktası olarak kullanır. Tek giriş STOPSENS, yukarıda açıklandığı gibi 
+çalışır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

@@ -1,0 +1,48 @@
+# Kitap okuma 054 — Destek tepkisi, günlük SNR ve seans süpürmesi
+
+**Kapsam:** 29 + 31 + 43 = **103 PDF sayfası**. Üç kitabın bütün PDF sayfaları sıralı metne çıkarıldı; atıflar PDF sayfasına göredir. Grafik ağırlıklı Quiroz s. 23–24 ve 36 ayrıca görsel incelendi. Aşağıdaki kodlanabilir eşikler, kaynakta açıkça verilmeyen yerde **bizim test tanımımızdır**. Henüz backtest, paper test veya emir yapılmadı.
+
+## 1. Haji Warithu — Günde 10 Pips Stratejisi
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 1/Baskı 1/Günde 10 Pips Stratejisi - Haji Warithu (29 sayfa) - @eseckal.pdf>) · [Tam metin](01_ten_pips_warithu.txt)
+
+**Kaynak:** M5 grafik, destekten alım/dirençten satım, işlem başına 10 pip ilk hedef, 20 pip stop ve günde bir, en çok iki işlem (s. 3, 5–6). Boğa yutan mum giriş örneği s. 9'da, çekiç örneği s. 20'de. Trend çizgisi, Fibonacci ve hareketli ortalama gibi alternatif girişler s. 7'de yalnızca sayılır; bunlar aynı stratejinin doğrulanmış bileşenleri değildir. Bu sabit stop/hedef **brüt 0,5R** verir; masraflar başa baş isabet oranını %66,7'nin üzerine taşır. Kitabın 85–95% isabet ve olağanüstü sermaye büyümesi iddiaları (s. 21–26) denetlenebilir örneklem sunmaz; performans kanıtı alınmaz.
+
+### TW54 — Önceden bilinen destek/dirençte M5 yutan mum; 0,5R çıkış testi
+
+- **Seviye:** UTC günlük OHLCV'de önceki **tamamlanmış** günün high/low'unu yeni gün başlamadan dondur. M5 gerçek mumlar; ATR14_M5 yalnız önceki kapanmış mumlara kadar. Long için önceki gün low'una ilk temas, short için önceki gün high'ına ilk temas. Temas toleransı `0,1×ATR14_M5`; bir gün/seviye için sadece ilk sinyal. Bu D1 seviye ve ATR tanımı kaynakta yok, kodlanabilir destek/direnç vekilidir.
+- **Teyit:** Temas eden veya sonraki en çok 3 tamamlanmış M5 mumdan ilki long için boğa yutan: önceki mumun gövdesi kırmızı, sinyalin gövdesi yeşil ve sinyal gövdesi önceki gövdeyi tamamen kapsar. Short simetri. Sinyal mumu kapanmadan işlem yok. Sinyal kapanışı ilgili seviyenin doğru tarafında olmalı (long üstünde, short altında). Giriş sinyal kapanışından sonraki ilk uygulanabilir 1m fiyat.
+- **Risk/çıkış:** Long stop `min(önceki gün low, temas ile sinyal arası gerçekleşmiş low)−0,1×ATR14_M5`; short simetri. Pozitif risk `R=|giriş−stop|`; stop yanlış tarafta veya maliyetin iki katından dar ise atla. Ana kol hedef 0,5R, ayrı kollar 1R ve 2R; 24 M5 bar sonra süre çıkışı. Gün başına azami bir işlem, aynı 1m barda stop/hedef görülürse stop önce. Kaynağın Forex **pip** rakamlarını BTC/ETH fiyat birimi yapma; 0,5R kolu kaynak risk/ödül oranının aktarımıdır.
+- **Test sorusu:** Önceden bilinen seviye + yutan mum girişinin maliyet sonrası beklenen değeri var mı; aynı girişte 0,5R çıkış 1R/2R'den iyi mi? Önceki destek/direnç ve engulfing adaylarıyla olay örtüşmesini ölç; günlük 10 pip vaadini sonuç sayma.
+
+## 2. Miracle Metot Trading Stratejisi
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 1/Baskı 1/Miracle Metot Trading Stratejisi (31 sayfa) - @eseckal.pdf>) · [Tam metin](02_miracle_method.txt)
+
+**Kaynak:** D1'de en yakın destek/direnç, D1/H4'te ikinci uyum (dinamik SNR, stokastik sapma veya büyük yuvarlak sayı), H4 mum teyidi ve risk planı dört aşamalı sıralanır (s. 2–3, 11, 17–18). Dönüş ve devam sapması açıklanır (s. 12–15); stokastik 8/3/3, doğrusal ağırlıklı ortalama ayarı s. 30'dadır. Forex için 60 pip stop ve 120 pip hedef, işlem başına en çok %3 risk kaynak önerisidir (s. 18); bu pip/risk oranları kripto için otomatik uygun değildir.
+
+### MM54 — Teyitli D1 SNR temasında H4 dönüş mumu ve stokastik sapma filtresi
+
+- **D1 alanı:** Günlük swing low/high ancak 2 sol ve 2 sağ D1 mum kapandıktan sonra teyit edilir. En yeni teyitli pivot, teyit zamanından sonraki günler için ±`0,25×ATR14_D1` bölgesini oluşturur; bölge ve ATR pivot teyidinde dondurulur. Long destek, short direnç; son 60 D1 içinde teyit edilmiş bölgenin ilk temasını kullan. SNR'nin bu nesnel tanımı ve genişliği bizim vekilimizdir. Henüz teyit edilmemiş pivotu geçmişe yazma.
+- **Mum sinyali:** H4 mum bölgeye değmiş ve long için kapanışı bölge orta çizgisinin üstünde, short için altında olmalı. Aynı kapanmış H4 mumunda long iğnesi `alt fitil ≥ 2×gövde` ve `alt fitil ≥ 0,4×mum aralığı`, kapanış aralığın üst %35'inde; short simetri. Sıfır aralıklı mum atlanır. Bu eşikler kitaptaki nitel dönüş mumu örneklerinin bizim ölçülebilir hali.
+- **İkinci uyum, ayrı kol:** Önce temel D1 SNR + H4 mumu test et. Stokastik filtresi için H4 8/3/3 LWMA'nın kapanmış `%K` değeri kullanılır. Longda iki teyitli H4 swing low (2 sol/2 sağ; 4–40 H4 aralık) arasında fiyat ikinci düşükte daha düşük low yaparken `%K` ikinci pivotta daha yüksek low yapmalı; shortta iki swing high için ters yön. İkinci pivotun iki sağ barı sinyal H4 kapanışından **önce** bitmiş olmalı. Sapma yoksa filtreli kolda işlem yok. BRN için kriptoya keyfi ondalık eşik taşınmaz; ayrı veri tanımı gerektirir.
+- **İcra:** H4 sinyali kapandıktan sonraki ilk uygulanabilir 1m giriş. Long stop `min(bölge altı, sinyal H4 low)−0,1×ATR14_H4`; short simetri. 2R hedef veya 12 H4 bar süre; aynı 1m stop/hedefte stop önce. Maliyet eşiği altında kalan ya da stopu yanlış tarafta olan sinyali atla. Pozisyon riski sonuç değerlendirmesinde %0,5 gibi sabit bir üst sınırla ayrıca raporlanabilir; kitaptaki %3 üst sınırı zorunlu risk kullanımı değildir.
+- **Karşılaştırma:** Önceki D1 pivot/H4 dönüş adaylarıyla aynı işlem anlarını eşleştir. Özellikle stokastik sapmanın temel kurala işlem sayısı ve net sonuç açısından **ek katkısını** ölç; uyumların çokluğu tek başına üstünlük kanıtı değildir.
+
+## 3. Chame Quiroz — Ticaret Sırları / PO3 Hassas Stratejisi
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 1/Baskı 1/Ticaret Sırları - Chame Quiroz (43 sayfa) - @eseckal.pdf>) · [Tam metin](03_trading_secrets_quiroz.txt)
+
+**Kaynak:** PO3, birikim → manipülasyon → dağılım/genişleme yapısıdır (s. 4, 21). BOS için fitilin ötesinde **mum gövdesi kapanışı** istenir (s. 9, 37); bearish OB yükseliş dürtüsünden önceki son yükseliş mumu, bullish OB tersi (s. 11). Asya aralığının Londra'da üstten süpürülmesini New York'ta aşağı genişleme; alttan süpürülmesini yukarı genişleme izleyebilir (s. 22–24, 35). Londra 03:00–07:00 New York yerel saatine göre verilir (s. 27); önceki tamamlanmış günlük high/low ayrıca izlenir (s. 28, 32–33). NY'de M5 BOS + OB geri dönüşü örneklenir (s. 34–37); OB açılış veya %50 alanı uygulama varyantıdır (s. 37). Minimum 2R, işlem başına %0,5–1, seans −2R/hafta −5R üst sınırları kaynak planıdır (s. 30). Seçilmiş grafikler performans örneklemi değildir.
+
+### PQ54 — Londra Asya aralığı süpürmesi sonrası NY M5 BOS ve ilk OB retesti
+
+- **Saat ve aralık:** Her işlem gününü `America/New_York` zaman diliminde, DST uygulanarak tanımla. Asya aralığı için **bizim** dondurulmuş vekilimiz önceki yerel gün 20:00–bugün 03:00 arasında tamamlanmış 5m mumların high/low'u; 03:00'te sabitle. Londra penceresi kaynakla uyumlu 03:00–07:00. NY aday giriş penceresi **bizim** 07:00–11:00. Yerel saatten UTC'ye tarih bazlı dönüştür; kitaptaki sabit `UTC−4` ifadesini kış aylarına körlemesine uygulama.
+- **Yön:** Short için Londra'da ilk tamamlanmış M5 mum `high>AsyaHigh+0,1×ATR14_M5` ve `close<AsyaHigh`; long için `low<AsyaLow−0,1×ATR` ve `close>AsyaLow`. Her iki taraf aynı Londra penceresinde süpürülürse günü atla. Bu aynı mumda geri kapanma şartı kaynak örneklerinin **bizim daha sıkı** tanımıdır; Londra kapanışı 07:00'de bilinir.
+- **BOS ve blok:** 07:00 sonrası short için son **önceden teyitli** 2-sol/2-sağ M5 swing low altında M5 `close`, long için swing high üstünde M5 `close`; fitil tek başına yetmez. Karşılaştırılan swing BOS mumundan önce teyit edilmiş olmalı. BOS kapanınca short için BOS'tan önceki son 5 M5 mum içindeki en son bullish mumu, long için en son bearish mumu OB olarak dondur; yoksa atla. OB aralığı o mumun high/low'udur. Önceki mumun OB seçimi, beş bar penceresi ve ATR tamponu bizim tekrarlanabilir tanımımızdır; yüksek zaman dilimi OB uyumu ayrı filtre olarak incelenebilir.
+- **Giriş/risk:** BOS sonrası en çok 12 M5 mum içinde OB aralığına **ilk** değen kapanmış M5 mumun yönlü reddini bekle: short `close<OB.open`, long `close>OB.open`. Aynı BOS mumundan giriş yok. Retest kapanışı sonrası ilk uygulanabilir 1m giriş; short stop `max(Londra süpürme high, OB high)+0,1×ATR14_M5`, long simetri. 2R hedef veya 48 M5 bar süre; aynı 1m bar stop/hedefte stop önce. 11:00 sonrası yeni emir yok, açık pozisyon süre/stop/hedef kuralına göre çözülür. Stop yanlış tarafta ya da maliyetin iki katından dar ise atla. Kitaptaki önceki gün low/high hedefi ancak **önceden kapanmış** gün seviyesi ve en az 2R uzaklık varsa ayrı kol olabilir.
+- **Karşılaştırma:** Eski seans süpürmesi, BOS ve OB adaylarıyla sinyal örtüşmesini kontrol et. Londra süpürmesi ve OB retestinin basit Asya aralığı tersine dönüşüne kıyasla net katkısını ölç. Kaynağın EURUSD ve Forex seans davranışı (s. 30) 7/24 kriptoya taşınabilirlik varsayımıdır; özellikle DST ve hafta sonu alt gruplarını ayrı raporla.
+
+## Ortak test sözleşmesi
+
+Önce veri aralığı, sembol evreni ve parametreleri kilitle; sonra zaman sıralı eğitim/doğrulama/ayrılmış son dönem uygula. Tüm D1/H4/M5 seviyeler yalnız o anda kapanmış mumlardan üretilecek; sinyalden sonraki ilk uygulanabilir 1m dolum, ücret, spread, kayma ve perpetual ise funding hesaba katılacak. Eksik mum/gap günleri ile çakışan pozisyonlar için tek ve önceden sabit politika kullan; aynı anda bir sembolde tek pozisyon. İşlem sayısı, net R, maksimum düşüş, seans ve rejim dağılımı, parametre hassasiyeti ve basit taban çizgisiyle karşılaştırma raporlanmadan kârlılık iddiası yoktur. **Bu parti araştırma adaylarıdır; yatırım tavsiyesi veya doğrulanmış getiri değildir.**

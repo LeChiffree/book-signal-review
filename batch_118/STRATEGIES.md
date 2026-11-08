@@ -1,0 +1,38 @@
+# Kitap okuma 118 — kapanışta reddedilme ve sektör eşliğinde kırılım
+
+**Kapsam:** Üç ayrı PDF'nin **64 + 33 + 52 = 149 sayfası** baştan sona okundu. Atıflar PDF sayfasıdır. Backtest, paper test veya emir yapılmadı.
+
+## 1. Altın Teknik — Hexa Borsa
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 1/Baskı 1/Altın Teknik (64 sayfa) - @eseckal.pdf>) · [Metin katmanı](01_gold_technical.txt) · [Görsel sayfalar](gold_contact_01.jpg)
+
+**Tam görsel okuma:** PDF'nin 64 sayfasının metin katmanı yalnız filigran içerdiği için tüm sayfalar görüntü olarak incelendi. S. 1–10 mum bileşenleri ve tek mum tipleri; s. 11–19 boğa/ayı çoklu mum kalıpları; s. 20–24 grafik formasyonu ve destek/direnç; s. 25–51 üçgen, ikili/üçlü tepe-dip, baş-omuz, takoz, çanak, bayrak, dikdörtgen, elmas ve genişleyen formasyonların çizimleri; s. 52–55 harmonik desen şemaları; s. 56–62 MACD, RSI, Bollinger, SMA ve Ichimoku kısa tanımları; s. 63–64 kapanış. Grafiklerin çoğu tepe/pivotun nasıl ve ne zaman teyit edileceğini, sayısal toleransı, emir ömrünü ve çıkışı vermez. Mum, formasyon ve indikatör aileleri önceki kayıtlarda vardır. S. 24'te “destekten al/dirençten sat” ve “kırılımda al/sat” aynı şekilden ayrı yorumlar; birlikte mekanik bir sinyal değildir. **Yeni bağımsız aday yok.**
+
+## 2. Sizi Zengin Edebilecek 7 Trading Modeli — Charles A. Floyd
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 2/Baskı 2/Sizi Zengin Edebilecek 7 Trading Modeli - Charles A. Floyd (33 sayfa) - @eseckal.pdf>) · [Tam metin](02_seven_patterns_floyd.txt)
+
+**Tam okuma:** S. 1–4 içerik ve tanıtım; s. 5–8 üç mumlu pin bar ve kırılım/1 pip stop; s. 9–10 inside bar; s. 11–13 iki barlık devamdan sonra üçüncü barın karşı kırılımı; s. 14–17 başarısız salınım ve pivot; s. 18–20 trend çizgisi kırılımı ardından eski ekstremum geçişi; s. 21–23 önceki mum kapanışının ters tarafında biten yeni tepe/dip reddi; s. 24–30 seçilmiş EURUSD H1 haftalık örnekler; s. 31–33 tanıtım/referanslar. Pin/inside bar, pivot ve trend çizgisi aileleri arşivle örtüşür. S. 17'deki 15 örneğin 12'sinin kazanması ve s. 22'deki 9 örneğin 7'sinin 1R'ye ulaşması seçilmiş grafik anlatısıdır, test edilmiş beklenti değildir. Özellikle **CPR** burada kapanış fiyatı reddidir; merkez pivot aralığı anlamındaki başka kitapların CPR kısaltmasıyla karıştırılmamalı.
+
+### CF118A — Yeni günlük tepe/dip sonrası önceki kapanışın ters tarafına dönüş
+
+- **Kaynak (s. 21–23):** Fiyat önceki mumun tepe/dibinin ötesine gider, fakat karşı yöne itilerek önceki mumun **kapanışının** ötesinde kapanır. Kaynak EURUSD H4 ve M5 görsellerini verir; tam stop/hedef planı bu bölümde yoktur.
+- **Kapalı mum deney sözleşmesi:** Ön kayıtlı ana evren EURUSD H4, ayrı M5 duyarlılık kolu. Boğa olayı `low[t]<low[t-1] ∧ close[t]>close[t-1]`; ayı olayı `high[t]>high[t-1] ∧ close[t]<close[t-1]`. Sıfır aralıklı ve her iki yön koşulunu birden sağlayan barlar atlanır. Sinyal yalnız `t` mumu kapandıktan sonra bilinir; `t+1` ilk uygulanabilir bid/ask fiyatında long/short giriş. Stop boğada `low[t]−1 pip`, ayıda `high[t]+1 pip`; bu tampon ve stop seçimi **bizim** risk tanımımızdır. İlk 1R'de çıkış; sinyalden sonraki üçüncü H4/M5 barının kapanışında hâlâ açıksa süre çıkışı (**bizim**). Aynı bar hedef/stop sırası tick veriyle çözülür, çözülmezse stop önce varsayılır. Tek açık pozisyon, en çok %0,5 özsermaye riski; spread, komisyon ve kayma dahil. Giriş fiyatı stopun yanlış tarafında veya net 1R hedefi spreadi karşılamıyorsa işlem atlanır.
+- **Ayrışma/test:** Önceki high/low süpürmesi ve aralık içine kapanış (SFP), yutan mum ve sıradan önceki mum kapanışı geçişiyle aynı bar evreninde kıyasla. Bu adayın ayırıcı bilgisi **hem yeni ekstremum hem önceki kapanışın karşı tarafında bitiş** koşuludur. İşlem sayısı, dolum, net R, maliyet hassasiyeti ve H4/M5 sonuçları ayrı raporlanır. Kaynak örneklerinden eşik veya başarı oranı tahmin edilmez.
+
+## 3. Yüksek Kazançlı Swing Ticaretinin 5 Sırrı — Ivayla Ivanov
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 2/Baskı 2/Yüksek Kazançlı Swing Ticaretinin 5 Sırrı - Ivayla Ivanov (52 sayfa) - @eseckal.pdf>) · [Tam metin](03_five_swing_secrets_ivanov.txt) · [Örnek grafikler](ivanov_contact_01.jpg)
+
+**Tam okuma:** S. 1–3 swing işlem çerçevesi; s. 4–12 trend içi düşük hacimli 2–20 günlük daralma ve geçmiş performans taraması; s. 13–16 yeni 10 günlük yüksekliğe %2'den fazla gün içi ilerlemeyle kırılım; s. 17–21 kırılma öncesi alım, stop ve risk; s. 22–23 short ekranı ve görsel örnek; s. 24–30 çıkış, önceki gün dibi altında kapanış, 5/10 günlük ortalama, 5 günde %5 yapmayan pozisyonu kapatma ve kısmi kâr; s. 31–40 sektör ivmesi ve yeni halka arzlar; s. 41–45 pozisyon boyutu ve beklenti; s. 46–52 piyasa rejimi, IWM/Nasdaq MA5/MA20, dağıtım günü. Metin katmanı boş olan s. 5–9, 14–15, 20, 23 ve 35–38'deki örnek grafikler ayrıca incelendi. Uzun kırılım çekirdeği ve kısa 5/20 MA filtresi mevcut aday aileleriyle örtüşür; aşağıdaki deney yalnız sektör eşliği bilgisinin ek değerini araştırır. S. 2/31/34'teki getiri oranları ve seçilmiş hisse grafikleri beklenen performans kanıtı değildir.
+
+### II118A — Aynı sektörde eşzamanlı lider kırılımı ile hisse kırılımı
+
+- **Kaynak (s. 4, 13–16, 31–33):** Önceki yükselişten sonra düşük hacimli daralma; yeni 10 gün yüksekliği, açılıştan ve önceki güne göre >%2 artış, MA5>MA20, fiyat>MA5, göreli hacim>1. Sektör ivmesi için aynı endüstri grubunda aynı gün >%4 artıp 20 gün yüksekliğini aşan **birkaç** hisse aranır. Kaynak “birkaç” sayısını ve daralma ölçüsünü netleştirmez.
+- **Kapalı mum deney sözleşmesi:** Nokta zamanlı NYSE/Nasdaq hisse evreni, o tarihte geçerli endüstri sınıfı, split/delist/temettü geçmişi ve o gün bilinen işlem yapılabilir hacim/fiyat. Aday hisse için `t-5..t-1` beş gününde `max(high)-min(low) <= 1.5×ATR14[t-1]` ve bu beş günün ortalama hacmi önceki 20 tamamlanmış gün ortalamasının altında (**bizim** daralma somutlaştırmamız). `t-1` kapanışında `SMA5>SMA20`, `close>SMA5`, son 10 gün yükseğine ≤%3 mesafe. `t` kapanışında `close[t]>max(high[t-10:t-1])`, `close[t]/open[t]−1>0.02`, `close[t]/close[t-1]−1>0.02`, `volume[t]/mean(volume[t-20:t-1])>1`; `t-1` itibarıyla 20 günlük ortalama hacim >50.000 ve fiyat >2 USD. Aynı `t` kapanışında **aday hariç en az iki** aynı endüstri hissesi `close[t]/close[t-1]−1>0.04` ve `close[t]>max(high[t-20:t-1])` sağlıyorsa sektör filtresi açık; iki eşiği **bizim** “birkaç” yorumumuzdur. Aynı günün tam seans verisi ancak kapanıştan sonra kullanılır; giriş en erken `t+1` açılışı.
+- **Risk/çıkış:** İlk stop `low[t]` altında 1 tick; girişte gap stopu aşmışsa veya hisse başına risk sıfır/negatifse atla. İşlem başına en çok %0,5 özsermaye riski, likidite ve portföy toplam açık risk sınırı %3 (**bizim**). Pozisyondayken günlük `close[u]<low[u-1]` veya `close[u]<SMA5[u]` ilk oluştuğunda sonraki açılışta çık. İlk beş tam işlem gününde girişten itibaren en yüksek kapanış getirisi <%5 ise beşinci gün sinyalinde süre çıkışı; her hâlde onuncu gün kapanışı sonrası çıkış (**bizim**). Stop/gap gerçekleşen fiyattan, komisyon/kayma dahil. Kısmi 1R satış s. 28'de seçenek olarak anlatılır; ana deneyde yok, ayrı ablation.
+- **Ayrışma/test:** Aynı taranabilir hisse ve tarih evreninde **sektör filtresiz aynı kırılım** baz çizgisine karşı, sektör eşliği olan/olmayan olayların net R, 5/10 günlük takip, dolum ve fırsat sayısı kıyaslanır. Nokta zamanlı sektör üyeliği, delist edilmiş hisseler, tarihsel açılış kotasyonları veya sektör gün sonu verisi yoksa sonuç güvenilir sayılamaz. Sektör eşiği ve daralma parametresi dış örneklemde optimize edilmez.
+
+## Sonuç
+
+**2 yeni araştırma adayı:** CF118A ve II118A. Toplam kayıt bu partiyle **353** olur. İkisi de test edilmemiş hipotezdir.

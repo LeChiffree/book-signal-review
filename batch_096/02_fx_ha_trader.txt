@@ -1,0 +1,565 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 17\Baskı 17\Döviz İşlemleri 2 - Heikin Ashi Trader (27 sayfa) - @eseckal.pdf
+PAGES: 27
+
+
+=== PDF PAGE 1 ===
+Translated from Spanish to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+Başlık
+Yayın evi
+Haftalık Pivotlarda Nasıl İşlem Yapılır 
+Strateji 1: Pivot'ta İşlem Yapmak
+Strateji 2: “Son 20 Pip” Stratejisi İşlem iyi gitmiyorsa 
+parametreler değiştirilmeli mi? Heikin Ashi Trader 
+tarafından daha fazla gönderi
+Yazar Hakkında
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Haftalık Pivotlarda Nasıl İşlem Yapılır
+Yuvarlatılmış sayılarla ilgili iki stratejide olduğu gibi (bu serinin 1. 
+Bölümü), "haftalık pivotlar" ile ilgili iki stratejiyi de sunmak istiyorum. 
+Pivot kavramına aşina değilseniz, kısaca ne anlama geldiğini 
+açıklayayım.
+Pivot noktaları veya kısaca "pivotlar", başlangıçta emtia 
+piyasalarındaki kat tüccarları tarafından potansiyel dönüm noktalarını 
+belirlemek amacıyla geliştirilmiştir. Pivotun kendisi ile direnç ve 
+desteğin üç seviyesi arasında bir ayrım vardır. Pivot, bir önceki işlem 
+günündeki en yüksek, en düşük ve kapanış fiyatlarının ortalaması 
+olan, işlem gününün en önemli noktasıdır. Eğer döviz çifti pivot 
+noktasının üzerinde işlem görüyorsa bu genellikle yükseliş trendine 
+işaret eder. Tam tersine, eğer bu seviyenin altında işlem görüyorsa, 
+pivot yatırımcıları düşüş eğiliminde olacak ve kısa pozisyon alma 
+olasılıkları daha yüksek olacaktır.
+Önceki işlem günü baz alınarak hesaplanan üç destek ve direnç 
+seviyesi de eşit derecede önemlidir ve pivot yatırımcısına işlemler için 
+olası giriş seviyeleri veya potansiyel fiyat hedefleri olarak hizmet eder.
+Pivot noktaları günlük olarak hesaplanabileceği gibi haftalık hatta 
+aylık olarak da hesaplanabilir. Çoğu platformticaretZaten bunu 
+otomatik olarak uyguluyorlar, bir grafiğe kurmak için sadece birkaç 
+tıklama yeterli oluyor.
+Resim 1: USDJPY, haftalık pivot grafiği, 4 saat, 9/30
+4/10/2019
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Şekil 1, USDJPY paritesinde 30 Eylül - 4 Ekim 2019 tarihleri   arasındaki 
+haftalık pivotları göstermektedir. Yedi yatay çizgi, bir önceki haftanın 
+kapanış verilerine dayanarak brokerımın platformu tarafından 
+otomatik olarak hesaplandı. Ortadaki çizgi pivotun kendisidir. Üstünde 
+R1, R2 ve R3 olmak üzere üç direnç seviyesini, altında ise S1, S2 ve S3 
+olmak üzere üç destek seviyesini görebilirsiniz.
+Görüldüğü üzere USDJPY paritesi ilk olarak R1 seviyesi yönünde işlem görmüş, 1 
+Ekim öğle saatlerinde oldukça isabetli bir şekilde bu seviyeye ulaşmış, ardından 
+öğleden sonra haftalık pivot seviyesine geri dönmüştür. Ertesi gün pivot 
+seviyesinin altında işlem gördü, öğleden sonra S1 seviyesine ulaştı, ardından 
+düşüşe geçti ve 3 Ekim akşamı S2 seviyesine ulaştı.
+2 Ekim'de S1'e dokunması dışında, piyasa her pivot seviyesinde neredeyse 
+sağa döndü. Bazen bu durum tam olarak bir pipte gerçekleşir. Söylemeye 
+gerek yok, bir tüccar olarak bundan faydalanabilirsiniz.
+Burada sunduğum iki pivot stratejisinin fikri, yuvarlama sayı 
+stratejilerine benzer. Ben bunları sadece pivot kavramına uyarladım. 
+Günlük değil, haftalık pivotlar!
+Stratejileri daha yakından incelemeden önce, öncelikle şunlara değinmeliyiz:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Pivot hesaplamasının önemli bir yönü.
+Resim 2: USDCAD, 30/9'dan itibaren haftalık pivotlar
+18.10.2019
+Şekil 2'ye daha yakından bakalım. USDCAD döviz çifti için 30 Eylül'den 
+18 Ekim'e kadar olan üç haftalık pivot çizgilerini göstermektedir. 30 
+Eylül - 4 Ekim haftasında (grafikte solda) birbirlerine çok yakın 
+oldukları kolayca görülebilir. O hafta içerisinde, bireysel çizgiler 
+arasındaki mesafe sadece 30 pip idi. Scalping stratejilerinin (kafa 
+derisi soyma) 15 hatta 20 pip'lik hedefleri hedeflemek burada 
+uygulanması zor bir iştir. Bunun neden böyle olduğunu, iki stratejiye 
+daha yakından baktığımızda göreceğiz.
+6-11 Ekim haftasında seviyeler çok daha genişti. Bunun nedeni, bir 
+önceki haftada volatilitenin aniden artması ve yeni pivot çizgilerinin 
+bir önceki haftanın kapanış verileri baz alınarak hesaplanması 
+nedeniyle çok daha geniş olmasıdır. Burada pivot ile R1 arasındaki 
+mesafe 87 piptir. Bu elbette ticaret için çok daha iyidir. Sonraki hafta, 
+13-18 Ekim arasında ise 100 pip’in üzerine çıkıldı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Dolayısıyla, eğer yatırımcı işlem stratejileriyle başarılı olmak istiyorsa,
+kafa derisi soyma, fiyat hedeflerinizi bu koşullara göre ayarlamanız 
+gerekecektir. Örneğin pivot ile R1 arasındaki mesafe sadece 40 pip ise 20 
+piplik fiyat hedefleriyle çalışmanın bir anlamı yoktur. İki strateji bunun 
+nedenini açıklığa kavuşturacaktır. Eğer mesafe Şekil 2'nin ikinci 
+haftasında olduğu gibi 87 pip ise 20 piplik fiyat hedefleri benim için 
+geçerli görünüyor.
+Bir yatırımcının pivot çizgilerinin çok yakın olduğu haftalardan kaçınması 
+gereken bir diğer neden ise, bu tür haftalarda bu pivot çizgilerinin piyasa 
+katılımcıları tarafından neredeyse hiç fark edilmemesidir. Şekil 2'deki ilk 
+haftaya tekrar baktığımızda, 2 Ekim'de USDCAD paritesinin S1 
+seviyesinin hemen üzerinde bir yükselişe geçtiği ve birkaç saat içinde 
+neredeyse R3 seviyesine ulaştığı görülebilir. Yol boyunca ikili pivot 
+noktası olan R1 ve R2'yi sıyırıp geçti ve ardından neredeyse R3'e ulaştı. 
+Bu, yatırımcının pivot çizgilerine hızla ulaşmaya dayalı stratejilerle 
+çalıştığı durumlarda iyidir. Tabii ki amacınız tam tersiyse pek de iyi değil.
+İlk durumda ilk etapta olumlu gözükebilir, çünkü piyasa hedef fiyata 
+hızlı ulaşır. Ancak, yalnızca 30 piplik bir aralığınız varsa, sorun makul 
+bir giriş noktası bulmak olacaktır. Özellikle 15 hatta 20 piplik fiyatlarla 
+çalışırken, pivot ile R1 arasındaki mesafenin sadece 35 pip olması 
+durumunda nereye girmek istenebilir?
+Genel bir kural olarak 60 pip'ten küçük aralıklardan kaçınırdım. 60 pip ile 
+en azından 15 piplik fiyat hedefleri ile işlem yapabilirsiniz, çünkü bunlar 
+aralığın ¼'üne denk gelir. Benim için anlamı bu. Bundan aşağısına 
+dokunmam.
+İçindedöviz, çoğu pivot yatırımcısı pivotlarla çalışır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Günlükler. Yani, pivot seviyeleri günlük olarak "önceki gün" fiyat verilerine 
+göre hesaplansa da, kesin olarak konuşmak gerekirse, dövizöyle bir şey yok. 
+Bunu yapmamak için yeterli bir sebep. Ben haftalık pivotlarla işlem yapmayı 
+tercih ediyorum çünkü bunların günlük pivotlara göre daha güvenilir 
+olduğunu düşünüyorum. Bununla şunu kastediyorum: Önceki haftanın verileri 
+baz alınarak oluşturulan seviyelerin, önceki günün seviyelerine göre büyük 
+oyuncular tarafından dikkate alınma olasılığı daha yüksektir.
+Bu nedenle, her iki strateji de şunu dener:orta vadeli verilere dayalı 
+kısa vadeli işlemler yapın . Bu bazı yatırımcılara alışılmadık gelebilir, 
+ancak örneklerden göreceğimiz gibi böyle bir yaklaşım oldukça karlı 
+olabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Strateji 1: Pivotu Çalıştırma
+Bu strateji, ilk stratejinin bir çeşidi olup, yuvarlak sayıya atıfta bulunur, 
+ancak burada bunu haftalık pivotlara uygulayacağız. Şekil 1'deki 
+örnekte açıkça görüldüğü üzere, piyasa katılımcıları haftalık pivot 
+seviyelerine uyma eğilimindedir.ilk görüşte. Ve “ilk temasta” ifadesi bu 
+nedenle anlamlıdır. Tüccar sadece ilk dokunuşta işlem yapmalıdır. 
+Aynı pivot çizgisiyle daha fazla temasa tehlikesizce dayanabiliyor.
+Şekil 1'deki dört vakadan üçünde piyasa pivot seviyesine neredeyse 
+tam olarak ulaşmış, ardından ters yönde dönmüştür. Bu stratejide, 
+pivot seviyelerinde limit emirleri yerleştirerek ve 15 piplik bir sayaç 
+hareketi üzerinde spekülasyon yaparak bu durumdan faydalanmak 
+istiyoruz. Bir kez daha emirleri kullanıyoruzparantezİşlem 
+yürütüldüğünde, piyasada otomatik olarak bir emir etkinleştirilir
+durmakve kar elde edenlerden biri (koruma emri almak). Böylece 
+hiçbir şey şansa bırakılmıyor. Yine parametreler açık ve anlaşılır. Biz de 
+15 pip riskle 15 pip hedef fiyat belirledik. Bu, 1:1 risk-ödül oranıyla 
+çalıştığımız anlamına geliyor. Bununla birlikte, stratejinin karlı 
+olabilmesi için %50'nin üzerinde bir başarı oranına ulaşması gerekiyor. 
+Öncelikle stratejinin bir örneğine bakalım.
+Şekil 3: USDCAD, 15 dakikalık grafik, 7 Ekim 2019
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Bu örnekte, yatırımcı USDCAD paritesinin pivot noktasında dönüp en 
+az 15 piplik bir karşı hareket yapmasını bekliyordu. Görseldeki orta 
+çizgi o haftanın pivot noktası olan 1.3290'ı temsil ediyor. Alım limiti 
+orada bekliyordu. Üst çizgi 15 pip yukarıda, 1.3305 seviyesinde 
+bulunan hedef fiyatı temsil ediyor. Alt yatay çizgi, seviyeydidurmak, 
+1.3275'te. Örnekte görüldüğü gibi USDCAD paritesi saat 14:30'da 
+(Avrupa saati) pivot noktasına ulaştı ve neredeyse tam olarak döndü 
+(sol alt ok). Çift, saat 16:45'te hedef fiyata ulaştı (sağ üst ok). 
+Operasyon hiçbir zaman tehlikeye girmedi.
+Şimdi USDJPY döviz çiftinde iki haftalık “pivot ticaretine” bakacağız.
+Şekil 4: USDJPY, saatlik grafik, 22 Eylül - 4 Ekim
+2019'un
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Yatırımcı USDJPY paritesinde mükemmel iki hafta geçirdi. Toplamda 
+sekiz ameliyat gerçekleştirdi; her birinde dörder ameliyat. Grafikte 
+karlı işlemleri W (kâr) harfiyle, zararlı işlemleri ise L (zarar) harfiyle 
+işaretledim. Sadece 2 Ekim'de bir kayıp yaşandı. Burada pazar şu 
+noktaya ulaştı:durmak. İlk haftanın son operasyonunu B ( olarak 
+işaretledimbaşa baş), veya eşik noktası. Bu operasyon neredeyse hiç 
+hareket etmedi ve bu nedenle bir operasyon olarak sınıflandırılabilir
+başa baş, operatör aynı giriş fiyatından kapattığından. USDJPY 
+paritesinde iki haftalık işlem sonucunun görünümü şöyle:
+Karlı işlemler: 6 x 15 pip = 90 pip
+Kaybeden işlemler: 1 x 15 pip = -15 pip
+Dengeli işlemler: 1 x 0 pip = 0 pip
+75 pipToplam:
+Elbette bu sonuçlar mükemmel, ancak Şekil 5'teki örnekte görüldüğü 
+gibi, her zaman bu kadar iyi çalışmıyor.
+Şekil 5: USDJPY, saatlik grafik, 15 Temmuz - 26 Temmuz 2019
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Bu iki haftada piyasa pivot veya direnç/destek çizgilerine sadece dört 
+kez dokundu ve bu dokunmalardan sadece biri başarıya yol açtı. Diğer 
+üçü ise kayıplarla sonuçlandı. Açıkçası, piyasa katılımcıları bu 
+dönemde haftalık pivotlara, hatta ilk temas anında bile saygı 
+göstermeye daha az meyilli oldular; bu da sıklıkla ters yönde bir 
+sıçramaya yol açar ki bu da bu stratejinin temel varsayımıdır.
+Eğer işlem ilk denemede durdurulmuşsa ve piyasa hedef pivot 
+çizgisinde yeni bir başlangıç   yapmışsa, tekrar işlem yapılıp 
+yapılmaması gerektiği sorusu ortaya çıkabilir. Ben bu konuda dikkatli 
+olurdum. Piyasanın ilk denemede durması genellikle "piyasanın" 
+haftalık pivotlarla pek ilgilenmediğinin bir işaretidir. Deneyimime 
+göre, yukarı veya aşağı yönlü bir pivot çizgisinde yeni bir fırsatın 
+ortaya çıkmasını beklemek daha iyidir.
+Bu tür stratejilerle, şunun anlaşılması gerekir:Sabrın karşılığı alınır . 
+Bazen bir döviz çifti, Şekil 5'te görülebileceği gibi iki haftalık bir süre 
+boyunca çok iyi performans göstermeyebilir, ancak bu, stratejinin uzun 
+vadede işe yaramayacağı anlamına gelmez. Şekil 4, bazen oldukça iyi 
+sonuçların elde edilebileceğini göstermektedir. Eğer alırsan
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Resim 4 ve resim 5’teki sonuçlar birlikte stratejinin objektif bir 
+değerlendirmesini sunmaktadır.
+Karlı işlemler: 7 x 15 pip = 90 pip
+Kaybeden işlemler: 4 x 15 pip = -60 pip
+Dengeli işlemler: 1 x 0 pip = 0 pip
+30 pipToplam:
+Böylece, USDJPY paritesinde dört haftalık işlemin toplam sonucu 30 pip 
+oldu ve bu da stratejiye %58,33'lük bir genel başarı oranı ve yatırımcının 
+işlem başına ortalama 2,5 piplik bir sonuç elde etmesini sağladı. Bu çok 
+muhteşem olmayabilir, ancak benim görüşüme göre gerçekçi.
+Bu koşullar altında, bir yatırımcının aylık toplam 100 pip hedefine 
+ulaşmak istemesi durumunda, en az 40 işlem (2,5 x 40 = 100 pip) 
+yapması gerekecektir. Ortalama olarak USDJPY paritesinde 12 işlem 
+sayısını ele alırsak, istenilen sonucu elde etmek için stratejiyi en az 
+yedi diğer döviz çiftinde uygulamanız gerekecektir.
+Ancak burada dikkatli davranmak gerekir. Operatörlerdöviz Deneyimli 
+yatırımcılar, bir döviz çiftinin performansı iyi değilse, genellikle diğer 
+döviz çiftlerinin de iyi performans göstermediğini bilirler. İşte bu 
+yüzden bu kadar çok sayıda "farklı" döviz çiftinde aynı stratejinin 
+kullanılmasını önermem. Tüm döviz çiftleri birbirleriyle güçlü bir 
+korelasyona sahiptir, yani sıklıkla benzer sonuçlar gösterirler. Şunu da 
+unutmamak gerekir ki, doların her zaman doğrudan veya dolaylı 
+olarak işin içinde olduğunu unutmamak gerekir. Döviz çiftinin adında 
+“dolar” terimi geçmese bile (örneğin GBPJPY veya EURCHF), doların 
+gücü veya zayıflığı her zaman bir etkiye sahip olacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Başka bir deyişle, benzer bir stratejiyle daha fazla döviz çifti işlem 
+görürse, sözdeküme riski. Bu risk, bir kişinin aynı türdeki varlıklara ait 
+çok sayıda enstrümana tek taraflı olarak yatırım yapması durumunda 
+ortaya çıkar.
+Ben stratejiye döviz çiftleri eklemeyerek riski dağıtmayı, bunun yerine 
+farklı fiyat hedefleriyle farklı stratejilerle işlem yapmayı öneririm. Bu 
+konuyu kitap serisinin dördüncü bölümünde daha detaylı ele 
+alacağım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Strateji 2: “Son 20 pip” stratejisi
+Stratejiyi beğendimavlanmayı bırakYuvarlatılmış sayı ile son 20 pip, 
+piyasanın haftalık pivot noktalarından birine yaklaştığında genellikle 
+ona ulaşacağı varsayımına dayanmaktadır. Bu, itme yatırımcılarının 
+pariteyi haftalık pivot noktasına sadece birkaç pip uzaklıkta olduğunda 
+bu noktaya doğru itecekleri anlamına gelir. Bu anlamda son 20 pip 
+stratejisi, fiyatın pivot seviyesine yakın göründüğü anda oluşan son 
+dürtüye dayandığı için bir itme stratejisidir.
+Bunun gerçekleşme sebebi temelde yuvarlama stratejisindeki ile 
+aynıdır. Pivot çizgileri ve özellikle haftalık pivot çizgileri, fiyatlara 
+yaklaştıkça üzerlerinde "manyetik kuvvet" uygularlar. Ayrıca piyasa 
+katılımcıları, o seviyeye ulaşıldığında piyasanın değişeceğini 
+varsayarlar.
+Bu durum, piyasa yatay bir fazda olduğunda daha da fazla gerçekleşir. 
+Birçok yatırımcı pivot seviyelerini mevcut işlemler için fiyat hedefleri 
+olarak değerlendirir. Elbette bunları giriş seviyesi olarak da 
+kullanabilirsiniz. Bu durumda, birinci bölümde ele aldığım "pivot 
+üzerinde işlem yapma" stratejisi gibi, trend karşıtı işlemler 
+gerçekleştirirlerdi.
+Bir yatırımcı “son 20 pip” stratejisini kullanmaya karar verdiğinde, piyasa 
+pivot seviyesine ulaşmadan önce bunlardan kar elde etmeye çalışır. Burada 
+hedef fiyatımız bir emir olarak bekliyorkoruma altına alın. Ben genelde 20 
+pip kar alma hedefi kullanıyorum. Elbette, döviz çiftinin gerektirdiği 
+durumlarda (örneğin, daha az oynak zamanlarda veya paritenin kendisi çok 
+fazla dalgalanmadığında) bunu değiştirebilirim. O konuda
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Bu durumda 15 piplik bir hedef fiyatla çalışmayı tercih ederim.
+Ancak Eylül 2019'da AUDUSD veya NZDUSD gibi günlük dalgalanması 
+düşük döviz çiftlerinden uzak duruyorum. Burada hedef fiyatın, 
+stratejinin karlı kalamayacağı kadar düşürülmesi gerekir. Mükemmel 
+broker koşulları varsa bu çiftlerde işlem yapmak imkansız değildir, 
+ancak işlem yapılabilecek yeterli sayıda farklı döviz çifti varken neden 
+zorlaştırasınız ki?
+Bu stratejide yine 1:1 risk-ödül oranı (RRR) ile çalışıyorum ve hareket 
+basit. Piyasanın pivot seviyesine 20 pip yaklaşması durumunda, ters 
+yönde bir sapma yapmaktansa bu pivot seviyesine çekilme ihtimalinin 
+daha yüksek olduğunu varsayıyorum.
+Dolayısıyla karlı bir şekilde faaliyet gösterebilmek için %50'nin üzerinde bir başarı 
+oranına ihtiyacımız olduğunu biliyoruz. Bu hedefe ulaşmanın her zaman kolay 
+olmadığının farkındayım, ancak deneyimime göre, yatırımcı stratejiyi disiplinli bir 
+şekilde uygularsa bu hedefe ulaşılabilir. Başarılı olmak için bir stratejinin mantıklı 
+ve mümkün olduğunca basit olması gerekir.
+Şekil 6: USDJPY, 15 dakikalık grafik, 12 Eylül 2019
+USDJPY paritesinin 15 dakikalık grafiğindeki örnek (g. 6) şunu göstermektedir:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+strateji. Üstteki yatay çizgi R2 seviyesini (Direnç 2) temsil eder. Söz 
+konusu hafta içerisinde 108.09 seviyesinde işlem hedef fiyatı 
+oluşmuştu. Orta çizgi R2'nin 20 pip altındaydı ve 107.89'daki giriş 
+seviyesini temsil ediyordu. Bu giriş, USDJPY paritesi bu seviyeye 
+ulaştığında tetiklendi (ok, sol alt). Son olarak, seviyezararı durdur20 
+pip aşağıda, 107.69'da (yatay çizgi, aşağı) bekliyordu. Grafikte 
+görüldüğü gibi piyasa hedef fiyata oldukça hızlı bir şekilde ulaşmış 
+(sağ üst ok), ancak 1000 TL seviyesine dokunmamıştır.durmak.
+Aşağıdaki USDCAD saatlik grafik örneğinde görüldüğü gibi, durum her 
+zaman böyle değildir.
+Şekil 7: USDCAD, saatlik grafik, 15-22 Eylül 2018
+2019
+USDCAD paritesi 15-22 Eylül 2019 haftasında pivot seviyesi (yatay 
+çizgi, aşağıda) ile R1 (yatay çizgi, yukarıda) arasında dalgalandı. Bu 
+durum sıklıkla yaşanır. Forex piyasaları, genellikle paritenin 
+çoğunlukla trend davranışı gösterdiği zamanlarda gerçekleşen R3 
+veya S3 haftalık pivot noktasına nadiren ulaşır. Döviz piyasalarının 
+çoğunlukla yatay hareket ettiğini bildiğimizden, işlemler çoğunlukla 
+yatay hareketlerde gerçekleşecektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+haftalık pivota geri dönelim. Fiyat hedefleri genellikle Şekil 7'de 
+gösterildiği gibi R1 veya S1 veya pivotun kendisidir.
+Sonuç olarak yatırımcı o hafta içerisinde 6 işlem yapabildi ancak 
+bunlardan sadece 1 tanesi karlı çıktı, diğer 5 tanesi ise zararla 
+sonuçlandı. Sonuçlar şöyle:
+Karlı işlemler: 1 x 20 pip = 20 pip
+Kaybeden işlemler: 5 x 20 pip = -100 pip
+Toplam: - 80 pip
+Yatırımcı bu döviz çiftinde -80 piplik bir kayıp yaşadı. Bu elbette tatmin 
+edici bir sonuç değil ama gayet normal bir sonuç. Her yatırımcının bu 
+tür haftaları vardır ve aynı zamanda, kolayca para kazanabileceğini 
+düşünen yatırımcılar için bir uyarı olmalıdır.döviz. Gerçekten bu kadar 
+uzak bir durum olamaz. Döviz ticareti, diğer tüm ticaret biçimleri 
+gibidirticaret: zor bir iş. Sadece stratejisini disiplinli bir şekilde 
+uygulayanlar başarıya ulaşma şansına sahiptir. Eğer siz de böyle 
+“şanssız haftalarla” karşı karşıyaysanız, Şekil 8’deki örnekte görüldüğü 
+gibi, her şeyin tıkırında gittiği haftalar da yaşayabilirsiniz.
+Şekil 8: USDCAD, saatlik grafik, 18 Ağustos - 1 Eylül
+2019'un
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+18 Ağustos - 1 Eylül 2019 tarihleri   arasındaki iki haftada yatırımcı, 
+tamamı karlı olan altı işlem gerçekleştirebildi (grafikte gösterilmiştir). 
+Elbette keşke hep böyle olsaydı.
+20 pip kar hedefi konusunda yatırımcının esnek kalması gerekiyor. 
+Pivot ile R1 arasındaki mesafe 60 pip veya daha az ise 20 piplik hedef 
+fiyatla çalışmanın bir anlamı yoktur. Bu durumda 15 pip işe yaramalı. 
+İki seviye arasındaki mesafe daha da daralırsa stratejiye son 
+verilmelidir.
+Resim 7 ve resim 8'deki sonuçları topladığımızda döviz ticaretinin 
+gerçekte ne olduğu konusunda gerçekçi bir fikre sahip olacağız.
+Karlı işlemler: 7 x 20 pip = 140 pip
+Kaybeden işlemler: 5 x 20 pip = -100 pip
+Toplam: 40 pip
+Üç haftalık bir işlem için %40 kar iyi bir sonuç mu? Cevap: Evet 
+efendim. Güzel.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+İşlem sırasında parametreler değiştirilmeli mi?
+iyi gitmiyor mu?
+Son olarak, daha iyi bir sonuç elde etmek için iki stratejinin 
+parametrelerini değiştirmenin gerekli olup olmadığı sorusuna kısaca 
+cevap vermek istiyorum. Örneğin, tüccar 20 piplik bir hedef fiyatla 
+çalışma fikrine sahip olabilir vezararı durdursadece 15. Bu şekilde, 
+kazanan işlemlerinizin genel sonuçlarını artıracaksınız. Elbette 
+doğrudur. Ancak bunu yaparak muhtemelen aynı zamanda başarı 
+oranınızı da düşürmüş olursunuz. %58'lik bir başarı oranı yerine, 
+aniden %54'e veya daha da altına ulaşabilirsiniz. Dolayısıyla nihai 
+sonuç çok fazla değişmeyecektir.
+Bir sistemin parametrelerini değiştirmenin düşünülebileceği açıktır ve 
+dürüst olalım, işler belli bir süre yolunda gitmezse her yatırımcı tam 
+olarak bunu yapar. O zaman soru şu olacaktır: Böyle bir durumda 
+parametre vidasını çevirmek en iyi çözüm müdür? Maalesef bu ölçüt, 
+başarılı bir iş kurmada sürekli analizinin çok önemli olduğu 
+istatistiklerinizi çarpıtıyor. ticaretkarlı (ve aynı zamanda potansiyel 
+yatırımcıları ikna etmek için).
+Bana göre, birkaç hafta süren düşüşleri görmezden gelip, sistemi 
+"stoacı" bir şekilde işletmeye devam etmek daha iyidir. Uzun bir süre 
+sonra karlılığın geri gelmediği ortaya çıkarsa stratejinin piyasadan 
+kaldırılması ciddi olarak düşünülmelidir.
+Geçici kayıplar durumunda parametrelerin erken değiştirilmesi 
+genellikle deneyimli bir yatırımcıyı tanımlar. Çoğu zaman, kim yapar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Bu, tek bir stratejiyle işlem yapan yatırımcıdır. Sadece bir tane aktif stratejiye 
+sahip olmak, sizi o stratejinin sonuçlarına çok daha bağımlı hale getirecektir.
+Profesyoneller (hedge fonları veyahedge fonları, ve diğer kurumsal 
+yatırımcılar) genellikle tercih ederlerçeşitli stratejiler ve bunları 
+birbirleriyle karşılaştırın. Bunlardan herhangi birinin performansı 
+biraz daha az etkiliyse (ve her zaman çok iyi çalışmayan bir veya daha 
+fazla olabilir), o zaman sonuçları geçmiş verilerle veya iyi performans 
+gösteren stratejilerin sonuçlarıyla karşılaştırırlar. Profesyoneller, belirli 
+bir döviz çiftinde iki veya üç hafta boyunca birkaç kayıp yaşadılarsa 
+endişelenmezler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Heikin Ashi Trader tarafından daha fazla gönderi
+Trende karşı bahis oynayın!
+Aracı kurum sektörü genellikle başlangıç   seviyesindeki yatırımcılara 
+trend doğrultusunda işlem yapmalarını önerir. Peki bunu yapmak 
+karlı mı? Trendi takip ederseniz kazanma olasılığınızın daha yüksek 
+olduğu söylenir. Ne yazık ki deneyimler, çoğu yatırımcının bu şekilde 
+karlı bir iş kuramayacağını gösteriyor.
+Yaşlı ve deneyimli pazar tilkileri şöyle derdi: "Sokakta kan varken 
+alışveriş yapmalısın." Bu, trendin tersine hareket etmeniz gerektiği 
+anlamına gelir. Aslında bu söz tam da sağduyunun ifadesidir. Soru şu: 
+Yatırımcılar bu yatırım bilgeliğinin pratiğe geçirilmesini neden bu 
+kadar zor buluyor?
+Heikin Ashi'nin yeni kitabı Trader, borsa piyasasında iyi karşıt trend 
+sinyallerini anlamanıza yardımcı olacak içgörüler ve ipuçları sunuyor; 
+çünkü bunlar genellikle en karlı işlem fırsatlarıdır.
+içindekiler
+Bölüm 1: Snapback stratejisi
+Bölüm 1: Başkaları korktuğunda harekete geçin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Bölüm 2: Neden Trendi Takip 
+Etmiyorum Bölüm 3: Ortalamaya Geri 
+Dönüş Bölüm 4: Risk Yönetimi
+Bölüm 5: Aşırı hareketleri nasıl tanırım? Bölüm 6: 
+Girişte sabır
+Bölüm 7: Büyük kayıplarda stop emri beni gerçekten korur mu? 
+Bölüm 8: Pozisyonları yönetmek
+Bölüm 9: Çıkış
+Bölüm 10: En iyi yatırım fırsatları ne zaman ortaya çıkar? Bölüm 11: 
+Ekonomik takvimi neden incelemelisiniz?
+Bölüm 12: Snapback stratejisi için hangi pazarlar en uygundur?
+Bölüm 2: Ticaret Örnekleri
+Bölüm 1: Hisse senedi endekslerindeki örnekler 
+Bölüm 2. Döviz piyasasındaki (Forex) örnekler 
+Bölüm 3: Hisse senedi piyasasındaki örnekler 
+Bölüm 4. Emtia piyasasındaki örnekler Sözlük
+Heikin Ashi Trader'ın diğer kitapları
+Yayınevi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Aralıklarda Nasıl İşlem Yapılır
+Dünyanın En İlginç Piyasasında İşlem Yapın
+Finans piyasaları çoğunlukla trendsiz bölgelerde, yani işlem aralıkları 
+veya yatay piyasalar olarak adlandırılan bölgelerde gelişir. Maalesef iş 
+dünyasında yaygın bir inanış var: Yatırımcılar yalnızca piyasa trend 
+halindeyken para kazanırlar ve bu tür yatay hareketlerden her ne 
+pahasına olursa olsun kaçınmalıdırlar, çünkü bunda pek fazla kazanç 
+yoktur.
+İşte bu yüzden, uygulanması zor da olsa, kısa vadeli işlem 
+stratejilerinin çoğu trend takip modeline dayanmaktadır. Bu nedenle, 
+çoğu yatırımcı her zaman hesap bakiyelerini önemli ölçüde 
+artırmalarına olanak sağlayacak bir sonraki büyük hareketi arar. 
+Ancak deneyimler, bu büyük "hareketlerin" veya "trendlerin" her 
+zaman işlem görmesinin kolay olmadığını gösteriyor. Ya yatırımcı 
+trendi çok geç fark ediyor ya da hareket piyasaya girmek için pek 
+fırsat sunmuyor.
+Ancak, bir sonraki büyük hareketi beklemeyen, bunun yerine piyasalarda aralıklı 
+işlem yapan ve mükemmel sonuçlar elde eden uzmanlaşmış bir yatırımcı grubu da 
+var. Bu kitapta bu tüccarların yöntem ve taktikleri anlatılıyor. Ancak mevcut işlem 
+literatürünün çoğundan farklı olarak, size bir aralığı nasıl belirleyeceğinizi ve 
+ardından kırılma noktasında nasıl işlem yapacağınızı öğretmeyi değil, aralığın 
+kendisini nasıl işlem yapacağınızı öğretmeyi amaçlamaktadır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+içindekiler
+1. Aralık Ticaretine Giriş
+2. Menzil Pazarı Nedir?
+3. Sola Bakın!
+4. Destek ve Direnç Çizgileri Doğru Şekilde Nasıl Çizilir?
+5. Hangi Piyasalarda Aralıklı İşlem Yapabilirsiniz?
+6. Pratikte Aralıkta Nasıl İşlem Yapılır?
+7. Stop Noktasını Nereye Yerleştirmeliyim?
+8. Ticaret Yönetimi ile ilgili sorular
+A. Hafta Sonundan Önce Pozisyonunuzu Kapatmalı Mısınız?
+B. Aralık İşlemlerinde Trailing Stop Kullanmalı Mısınız?
+C. Operasyon “Hiçbir Yere” Gitmiyorsa Ne Yapmalısınız?
+D. Stop Emrini Piyasaya Daha Yakın Bir Noktaya Taşımalı Mıyım?
+9. Menzil Pazarlarına Örnekler
+A. Forex Piyasasında Aralıklarda İşlem Yapmak
+B. E-Mini'de Yanal Bir Dönemin Daha Derin Analizi
+C. FDAX'ta Yatay Bir Dönemin Daha Derin Analizi
+10. Gelişmiş Stratejiler
+A. Fırsatçı Sınırlar
+B. Sahtekarlıklar
+11. Trend Kanalları (Kanal Ticareti)
+12. Gerçekten Önemli Olan Nedir?
+13. Günlük Yatırımcılar ve Scalperlar için Aralık Ticareti
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Sözlük
+500 Dolar ile Bir Ticaret İşletmesi Nasıl Başlatılır
+Finans sektörüne yeni adım atan birçok yatırımcının, yatırım yapmak için 
+kullanabileceği çok az sermayesi bulunmaktadır. Ancak bu, ticarette başarılı bir 
+kariyere başlamanın önünde bir engel değil.
+Ancak bu kitap, 500 dolarlık bir hesabın 500.000 dolarlık bir hesaba nasıl 
+dönüştürüleceğiyle ilgili değil. İşte bu abartılı getiri beklentileri birçok 
+yeni yatırımcının başarısızlığa uğramasına yol açıyor.
+Aksine yazar, sınırlı sermayeye sahip olmanıza rağmen tam zamanlı 
+bir yatırımcı olmanın nasıl mümkün olduğunu oldukça gerçekçi bir 
+şekilde anlatıyor. Bu, hem işlerini özel olarak yürütmek isteyen 
+tüccarlar hem de müşterileri adına finansal varlıklar üzerinde pazarlık 
+yapmak isteyenler için geçerlidir.
+Bu kitap size bunu adım adım nasıl yapacağınızı gösteriyor. Ayrıca her 
+adım için somut bir eylem planı da yer alıyor. Prensip olarak, işin nasıl 
+yürüdüğünü öğrenmeye istekli olan herkes yatırımcı olabilir.
+İçindekiler
+1. Hesapta Sadece 500 Dolar Varken Nasıl Yatırımcı Olunur?
+2. İyi Ticaret Alışkanlıkları Nasıl Edinilir?
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+3. Disiplinli Bir Tüccar Olun
+4. Bileşik Faiz Masalı
+5. 500$'lık Hesapla Nasıl İşlem Yapılır?
+6. Sosyal Ticaret
+7. Acentenizle görüşün
+8. Profesyonel Yatırımcı Nasıl Olunur?
+9. Bir Hedge Fonu İçin Ticaret
+10. Ağ Oluşturmayı Öğrenin
+11. 7 Adımda Profesyonel Bir Yatırımcı Olun
+12. 500 Dolar Çok Paradır 
+Sözlük
+Tüccar Heikin Ashi'nin Diğer Kitapları 
+Yazar Hakkında
+Yayınevi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Yazar Hakkında
+Heikin Ashi Tüccarıvadeli işlemler ve dövizlerde günlük ticarette 19 yılı 
+aşkın deneyime sahip bir yatırımcının takma adıdır. Scalping ve ultra hızlı 
+günlük trading konusunda uzmanlaşmıştır. Ticaret faaliyetlerinin yanı 
+sıra, müzakere yöntemlerini öğrettiği çok sayıda kitap da yayınlamıştır. 
+Konu başlıkları şunlardır: Scalping, swing trading ve para ve risk 
+yönetimi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

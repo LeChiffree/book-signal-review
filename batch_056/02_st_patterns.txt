@@ -1,0 +1,928 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 1\Baskı 1\Forex Stratejisi - ST Kalıpları Trade Klavuzu - Vladimir Poltoratskiy (52 sayfa) - @eseckal.pdf
+PAGES: 52
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 2 ===
+Ticaret Sisteminin Temelleri
+Bu stratejinin teorik mantığı ilk kitapta yeterince ayrıntılı bir şekilde anlatılmıştır, 
+ancak bu kılavuzda kısaca tekrarlanacaktır: likit değişim enstrümanlarının tüm 
+grafikleri temel olarak Yapısal Hedef Formasyonlarından veya ST 
+Formasyonlarından oluşur. Birbiri ardına açılan açılan modeller bir pazar resmi 
+oluşturuyor. Formasyonları tanıma ve ortaya çıktıklarında doğru şekilde hareket 
+etme yeteneği, yatırımcıya teknik analiz için etkili bir araç sağlar.
+Fiyat zirveleri ve durgunluk seviyeleri
+Eğer zirve ve düşüş fiyatları x pip'e eşit yeterli miktarda kırılırsa, 
+tüccarlar Şekil 1'de gösterildiği gibi fiyatı atılım yönünde iterler.
+Şekil 1: Fraktal seviyenin x miktarına göre atılımı
+Yerel fiyat minimum ve maksimumunu belirlemek için yerel 
+ekstremleri oklarla gösteren fraktal bir gösterge kullanılır. X'in atılım 
+değeri değişken bir değerdir ve volatilite gibi teknik özelliklerine bağlı 
+olarak her ticaret aracı için farklı olabilir. Ayrıca bu değer zaman içinde 
+tek bir takıma göre değişiklik gösterebilir.
+Fraktal Koridor
+Birbirine zıt yönlerdeki son iki fraktalın kırılma anında Şekil 1 ve 2'de 
+gösterildiği gibi bir Fraktal Koridoru oluşur. Başlangıç   Çizgisinin 
+seviyesi, kırılan fraktalın fiyatı ile çakışır. Durdurma Çizgisi, zıt yöndeki 
+son fraktalın seviyesine karşılık gelir.
+Üç mum fraktalı
+Bu durum kısa vadeli işlemler için önemlidir. Seviyeler, iç taraftaki mumları da 
+içeren üç mum çubuğu fraktalının zirve fiyatlarına ve düşüşlerine yakın yerlerde 
+meydana gelir. Benzer bir durum Şekil 2'de gösterilmektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 3 ===
+Şekil 2: İç mumlu üç mum fraktalının atılımı
+Grafikte üç mumdan oluşan gruptaki merkez mumların üst ve alt 
+seviyelerini gösteren fraktal gösterge bulunmaktadır. ST Desen 
+fraktalının ortaya çıkmasının koşulu, merkezi mumun solunda bir 
+mum ve sağında bir mumun bulunmasıdır. Üst fraktal için yüksek 
+taraftaki mumun fiyatı, merkezdeki mumun yüksek seviyesini 
+geçmemelidir. Alt fraktal için yan mumların düşük seviyesi, merkezi 
+mumun düşük seviyesinden daha düşük olmamalıdır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 4 ===
+Grafik Araçları
+Grafikleri analiz etmek için üç araca ihtiyacınız olacak: seviye göstergesi, fraktal 
+gösterge ve ADR göstergesi (Ortalama Günlük Aralık).
+MT4 işlem terminalindeki üst panelde, aşağıdaki Şekil 3'te gösterildiği gibi 
+yapılandırılabilen Fibonacci seviyelerinin bir göstergesi vardır.
+Şekil 3: Ticaret seviyesi değerleri
+Bu şekilde ayarlandığında, Kar Al Fraktal Koridor yüksekliğinin %400'ü 
+olacaktır. Fraktal Koridorun yüksekliği %100 olacaktır. %210 seviyesi 
+önemli çünkü bu alanda ters yönde önemli fiyat dönüşleri yaşanabilir.
+Fraktal gösterge ve ADR göstergesi (Ortalama Günlük Aralık) bağımsız 
+olarak bulunabilir ve MT4 veya MT5 işlem terminallerine kurulabilir veya şu 
+adresten indirilebilir:http://stpatterns.com/indicators-parameters/ .
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 5 ===
+Ticaret Sistemi Parametreleri
+Fraktalı belirtilen değere kadar kırdıktan sonra, kırılma yönünde 
+pozisyon açmanız ve aynı anda Zararı Durdur emrini ve Kâr Al Emri'ni 
+ayarlamanız gerekir. Bu kılavuzda verilen örneklerde, EUR/USD çifti 
+için fraktal seviyenin kırılımını sabitlemek için yeterli değer 7 pipse eşit 
+olacaktır.
+Limitli Al ve Limitli Satış Emirleri
+İçindeTicaret Kodu Açıkkitapta, işlemin açılışı hemen penetrasyon 
+seviyesinde veya Başlangıç   Çizgisi artı 7 pip seviyesinde gerçekleşti. 
+Ancak böyle bir seçenek, belirtildiği gibi, atılım anında fiyatta 
+istenmeyen bir düşüşe yol açabilir.
+Gereksiz kayıpları önlemek adına piyasaya giriş için fiyat değerinde küçük bir 
+değişiklik yapalım. Koparmayı düzelttikten sonra küçük bir geri alma kullanmak ve 
+bekleyen emirleri vermek için emirler oluşturmak daha iyidir. Satın alma emri (Satın 
+Alma Limit Emri) Başlangıç   Çizgisi seviyesinde artı 7 pip olarak verilecek ve Satış 
+Limit Emri Başlangıç   Çizgisi seviyesinde eksi 6 pip olarak ayarlanacaktır. Spread'in 
+değeri 1 pip'e eşit olacaktır.
+Kar Emri Al
+Hedef veya Kar Al Emri, kırık fraktal seviyesinden veya Başlangıç   
+Çizgisinden, kırık Fraktal Koridorun yüksekliğinden yaklaşık dört kat 
+daha büyük bir mesafede olmalıdır. Başka bir deyişle, Hedefe ulaşılması 
+durumunda planlanan ortalama kâr, Şekil 4'te gösterildiği gibi olası 
+kaybın yaklaşık üç katı olmalıdır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 6 ===
+Şekil 4: Kâr-Zarar oranı
+Bu durum, işlemin açılış seviyesi ile Zararı Durdur Emri arasındaki 
+mesafenin Fraktal Koridor değerinden büyük olmasından 
+kaynaklanmaktadır. Fiyat Hedef veya Kâr Al seviyesine ulaştığında, Alış Emri 
+için işlem tam olarak %400, Satış Emri için ise %400 artı 1 pip ile 
+kapatılacaktır. Satın alırken, Zarar Durdurma Emri tam olarak Durdurma 
+Çizgisi seviyesinde yer alacak ve satış yaparken Durdurma Çizgisi 
+seviyesinin 1 pip yukarısında yer alacaktır.
+Bu tür değişken değerler ve yaklaşık 26 piplik Fraktal Koridor yüksekliği ile 
+kâr, Fraktal Koridor yüksekliğinin %400'ü Hedef düzeyinde olacaktır; bu, 
+kaybın üç katıdır. Yüksekliği 26 pipten az olan bir Fraktal Koridor daha 
+küçük bir sonuç üretecektir ve 26 pipten daha yüksek bir yükseklik daha 
+yüksek bir sonuç üretecektir.
+Başlangıç   Çizgisi ve Duruş Çizgisi
+Başlangıç   Çizgisi her zaman yeterli miktarda kırılmış, tam olarak 
+oluşturulmuş üç mum çubuğu grafiğinin seviyesiyle çakışır. Durma 
+Çizgisinin konumu önceki hareketin yönüne, yani önceki ST 
+Formasyonunun hareketinin yönüne bağlıdır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 7 ===
+Doğru Durdurma Hattı pozisyonunu hesaplamanın önemi, Zarar Durdurma 
+Emrinin kendi seviyesine yakın yerleştirilmesiyle ilgilidir. Durdurma Hattını 
+kurma kurallarının mantıksal açıklaması, açıklamalarından çok daha basittir. 
+Fiyat tersine döndüğünde önceki hareketin atalet kuvveti etki eder ve Stop 
+Line'ın yerleştirilmesi için daha güvenilir bir seviyeye ihtiyaç duyulur. Fiyat 
+hareketi tek yönde devam ederken Stop Line'ın kurulumuna ilişkin 
+gereksinimler daha az katıdır.
+Trend lehinde ve trende karşı oyundaki farkı bilen yatırımcılar, trendin 
+yönüne bağlı olarak Zararı Durdur Emrinin kurulumunda farklı 
+yaklaşımlara olan ihtiyacı anlamalıdır.
+Durdurma Çizgisini kurma kurallarını daha iyi anlamak için "tamamen 
+oluşmuş fraktal" ve "tam olarak oluşmamış fraktal" tanımlarını girmeniz 
+gerekir. Bunlar arasındaki fark Şekil 5'te gösterilmektedir.
+Şekil 5: Tamamen oluşmuş fraktal ve tam olarak oluşmamış fraktal
+Şekil 5a'daki tüm fraktallar, sonuncusu hariç, tamamen oluşmuş fraktallardır. Son 
+fraktalın yalnızca iki tamamlanmış mumu var ve üçüncü mum henüz tamamen 
+kapanmadı. İki kapalı ve bir tamamlanmamış mumdan oluşan böyle bir fraktal, 
+"tam olarak oluşmamış fraktal" olarak adlandırılabilir. Şekil 5b, fraktal 
+seviyesindeki fiyat kırılımından sonra tam olarak oluşmamış son fraktalın iptal 
+edildiğini göstermektedir. Tamamen oluşmuş bir fraktal iptal edilemez.
+Aşağıda gösterilen tüm grafik kombinasyonları, yatay eksenlerinden 180 
+derece uzakta olan benzer modeller için aynı Durdurma Hattı kurulum 
+kurallarına sahiptir.
+Şekil 6, önceki ST Deseni doğrultusunda yeni bir Fraktal Koridorun 
+oluşturulduğu durumu göstermektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 8 ===
+Şekil 6: Trafik devam ederken Durma Hattının Yerleştirilmesi
+Fiyat fraktal seviyeyi geçtiğinde yeni bir Fraktal Koridoru oluşur. a) 
+Durma Çizgisi, karşı fraktal seviyesinde, o gün veya bir önceki gün 
+tamamen oluşmuş olan Başlangıç   Çizgisinin kesişme noktasına en 
+yakın yerde bulunur.
+b) Fiyat fraktal seviyesini geçtiği anda kesişme noktasının karşısındaki son 
+fraktalın henüz kapanmamış üçüncü bir mumu varsa, Stop Çizgisi bu 
+fraktalın merkez mumunun tepe seviyesine yerleştirilir. tam olarak 
+oluşmamış fraktal.
+Önceki ST Formasyonunun yönünü tersine çevirirken Durdurma Çizgisini 
+yerleştirme kuralları Şekil 7'de gösterilmektedir.
+Şekil 7: Dönüşte tamamen oluşmuş bir fraktal seviyesindeki Durma Çizgisi
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 9 ===
+a) Durma Çizgisi yalnızca tamamen oluşturulmuş seviyede, Başlangıç   
+Çizgisinin kesişimine en yakın, dönüş alanında bulunan fraktalın 
+karşısında yerleştirilir. Kesişme noktasına en yakın, tam oluşmuş 
+fraktalın tersi yoksa son iki günün geçmişinde aranmalıdır.
+Fraktal seviyeyi aşağıya doğru geçtikten sonra, bu tam oluşmuş fraktalın 
+yüksek noktası, kesişen fraktal ile Başlangıç   Çizgisinin kesişme noktası 
+arasındaki en yüksek noktadan daha yüksek olmalıdır. Tersine çevrilme 
+alanı, bu günde ve bir önceki günde ortaya çıkan fraktalları içerir. Bu 
+tanım, 25 Nisan'da tabanında Koridor 3 ile ortaya çıkan ST Kompleksi 
+Ters Hareket Modeli örneğinde tekrar ele alınacaktır (Şekil 20).
+b) Kesişen fraktal ile Başlangıç   Çizgisinin kesişimi arasında karşıt tam 
+oluşmuş bir fraktal yoksa son iki günün geçmişinde aranmalıdır. 
+Üstteki kesişimde, bu fraktalın alçak noktası, kesişen fraktal ile kesişim 
+noktası arasındaki en alçak noktadan daha aşağıda bulunmalıdır.
+Ters alanda oluşmuş fraktalların olmadığı durumlar Şekil 8'de 
+gösterilmektedir.
+Şekil 8: Ters bölgede fraktalın olmaması
+a) Alt noktası, kesişen fraktal ile Başlangıç   Çizgisinin kesişme noktası 
+arasındaki en alt noktadan daha düşük olan ters bölgede tam 
+oluşmuş bir fraktal yoksa Durma Çizgisi,
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 10 ===
+Kesişen fraktal ile kesişimin yeri arasındaki en düşük nokta seviyesi.
+b) Kesişen fraktal ile kesişme yeri arasındaki en alçak nokta, kesişme 
+anında tam olarak oluşmayan alt fraktalın seviyesine denk gelir.
+Büyük ve Küçük Koridorlar
+Daha etkili bir çalışma için ticarette çok Büyük veya çok Küçük Koridorlar 
+kullanmayın. Fraktal Koridor yüksekliğinin izin verilen üst değeri, ADR (5) 
+göstergesinin değerinin yarısı ile sınırlıdır (önceki tamamlanan beş gün için 
+ortalama günlük oynaklık).
+12 pip'in altındaki Fraktal Koridorların da geçmesi daha iyidir çünkü 
+Küçük Koridorlar üzerinde çalışılırken kâr azalır ve kârın zarara oranı riski 
+çok yüksek hale getirir.
+Tahmini zarar depozito bedelinin %10'u kadar olacaktır. Bu yüksek bir kayıp yüzdesidir ve bu 
+değeri yalnızca daha düşük kayıp oranları kullanarak olumlu ticaret sonuçlarından sonra 
+kullanabilirsiniz!
+The Ticaret Kodu Açıkkitap yaklaşık yirmi ST Desenini anlattı. 21 Nisan'dan 31 Mayıs'a 
+kadar olan EUR/USD grafiğini analiz etmek için bunların yalnızca yarısına ihtiyacımız 
+var. Yeni ST Yanlış Merdiven Deseni de gösterilecek.
+Aşağıda analiz için kullanılacak on ST Formasyonunun diyagramları ve 
+açıklamaları bulunmaktadır. Gösterilen tüm desenlerin yatay eksenden 180 
+derece simetrik "ikizleri" vardır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 11 ===
+ST Desen Şemaları
+ST Kalıplarını Başlatma
+Başlangıç   ST Formasyonları, fiyat Başlangıç   Çizgisi sınırını aştığında ortaya 
+çıkar ve fraktal seviyenin dökümü, kırılma değerini sabitlemek için yeterli 
+olduğunda ortaya çıkar.
+ST Yanlış Hareket Modeli oluşumunun iki olası çeşidi Şekil 9'da 
+gösterilmektedir.
+Şekil 9: ST Yanlış Hareket Modeli
+Bu formasyon oluştuğunda fiyat fraktal seviyenin altına düşer ancak kırılımı 
+düzeltmeye yetecek miktarda x pip ile bunun üstesinden gelemez. Daha 
+sonra yeni, daha düşük bir fraktal oluşur ve onun seviyesinde yeni bir 
+Duruş Çizgisi veya Başlangıç   Çizgisi geçilir. Böylece fraktalı x pip kadar 
+kıramayan ilk hareketin yanlış olduğu ortaya çıktı.
+Yukarıya doğru bakıldığında fiyat, Şekil 5a'da gösterildiği gibi karşıt üst 
+fraktalı kırabilir veya Şekil 5b'de gösterildiği gibi yeni Koridorun içinde 
+kalabilir. ST Yanlış Hareket Modeli tamamen yeni, tamamen oluşmuş bir 
+alt fraktalın oluşumu sırasında oluşur.
+Bu stratejide EUR/USD çifti için x değişkeni yukarıda yazıldığı gibi 
+kabul edilir: 7 pip; daha sonra desen şemaları bu değeri gösterecektir.
+Teknik analiz için ihtiyaç duyulan bir sonraki model olan ST Merdiven Deseni 
+Şekil 10'da gösterilmektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 12 ===
+Şekil 10: ST Merdiven Deseni
+Bu model ST Yanlış Hareket Modeli'nin ortaya çıkmasıyla başlar. 
+Oluşum sürecinde, bu model birkaç yeni Fraktal Koridor oluşturabilir 
+ve fiyat, son tam olarak oluşturulmuş üç mum çubuğu fraktalının 
+seviyesini 7 pip aştığında sona erer. Bu durumda pozisyon aşağıya 
+doğru açılır ve Stop Emri, son karşıt fraktalın seviyesine denk gelen 
+Stop Çizgisi yakınında ayarlanır.
+Bazen fiyatın alt fraktalı kıramadığı ve ardından karşı üst fraktalın 
+kırıldığı bir durum vardır. Bu koşullar altında, Şekil 11'de gösterilen ST 
+Yanlış Merdiven Deseni olan yeni bir model ortaya çıkar.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 13 ===
+Şekil 11: ST Yanlış Merdiven Deseni
+Tüm ST Formasyonları saatlik grafiklerde oluşturulur ve yatırımcının genellikle 
+ters kombinasyonları tanımak ve pozisyonu istenen yönde açmak için yeterli 
+zamanı vardır.
+İlk ST Modelleri
+İlk ST Formasyonları, fiyatın kırılma gerçeğini düzeltmek için yeterli 
+miktarda fraktal seviyeyi aştığı bir zamanda ortaya çıkar ve fiyat 
+Fraktal Koridor yüksekliğinin %210'una ulaşana kadar varlığını 
+sürdürür. Piyasada periyodik olarak, fiyatın fraktal seviyeyi aşabileceği 
+ve daha sonra gelişerek karşıt kırık fraktalın fraktal seviyesini 
+aşabileceği durumlar vardır. Bu durumda Şekil 12'de gösterilen ST 
+Ters Hareket Deseni oluşur.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 14 ===
+Şekil 12: ST Ters Hareket Modeli
+ST Yanlış Hareket Modeli'nin aksine, bu durumda yatırımcı yatırdığı 
+paranın önceden belirlenmiş bir yüzdesine eşit bir zarar alır. Fiyat, ilk 
+Zarar Durdurma Emri seviyesine ulaştığında model tamamlanır. Şekil 
+13'te gösterilen bir sonraki ST Çift Ters Hareket Modeli, art arda iki kez 
+kayba neden olabilir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 15 ===
+Şekil 13: ST Çift Ters Hareket Modeli
+Bu model önceki modeli art arda iki kez tekrarlar ve ikinci Zararı 
+Durdur Emri tetiklendiğinde sona erer.
+ST Kompleksinin Ters Hareket Modeli Şekil 14'te gösterilmektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 16 ===
+Şekil 14: ST Kompleksi Ters Hareket Modeli
+a) Yukarıya doğru hareket ederken fiyat, ilk Koridordaki Durma Çizgisini 
+aşmadan önce bir veya daha fazla Fraktal Koridor oluşturabilir. Bu 
+durumda pozisyon açmak için Zararı Durdur Emri'nde başlangıç   
+pozisyonu kapanmadan önce ortaya çıkan son Koridoru kullanmalısınız.
+b) Bu seçenek, Koridor № 2, Koridor 1'in dışında oluştuğunda 
+gösterilir. Şekil 15'te gösterilen ST Çift Karmaşık Ters Hareket Modeli 
+daha karmaşıktır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 17 ===
+Şekil 15: ST Çift Kompleksli Ters Hareket Modeli
+a) Fiyat iki kez yönünü değiştirerek ek Fraktal Koridorlar oluşturur. 
+Fiyat orijinal yönüne gitmeden önce model çifte kayıp getirebilir.
+b) Koridor № 3 oyun dışında bırakıldı çünkü konumu açmak için Koridor 
+№ 2'deki Durma Çizgisi kırılmadan önceki son Koridor № 4'ü kullanmanız 
+gerekir. Bu durumda, 2. Koridordan %210 ve %400 seviyeleri Koridor 
+3'ün yüksekliği dikkate alınmalıdır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 18 ===
+Tamamlama ST Modelleri
+Tamamlama ST Formasyonları, fiyat Fraktal Koridor yüksekliğinin %210'u 
+seviyesine ulaştığında ortaya çıkar ve Hedef fiyat %400'e ulaştığında sona erer.
+ST Doğrudan Hareket Modelini Tamamlamak için en yaygın model Şekil 16'da 
+gösterilmektedir.
+Şekil 16: ST Doğrudan Hareket Modeli
+Bu basit, karlı model hem kendi kendine yeten hem de diğer daha karmaşık 
+Tamamlama modellerinin bir parçasıdır. Çoğu zaman bu model diğer modellerin 
+eylemini tamamlar. ST Doğrudan Hareket Formasyonu oluştururken fiyat fraktal 
+seviyesini 7 pip kırar ve ardından %400 Hedef seviyesine ulaşır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 19 ===
+Fraktal Koridor yüksekliğinin %210'una yakın bir seviyede, orijinal yönün 
+tersine piyasanın tersine dönmesi mümkündür. Koridorun yüksekliğinden 
+bu mesafede bazı tüccarlar pozisyonlarını kapatmaya başlayarak karlarını 
+sabitliyorlar. Hedefin Fraktal Koridorun yüksekliğine 2:1 oranı, onların 
+oyunda kalmalarına olanak tanır, böylece bu oyuncu grubu fiyatları kendi 
+yönlerine çevirmeyi başarır.
+Kotalar Fraktal Koridor yüksekliğinin %210'u seviyesine ulaştığında, 
+Zararı Durdur Emri'ni açılış pozisyonu seviyesine veya başabaş 
+noktasına kadar yeniden düzenlemeli, fraktal ters yönde kırılırsa 
+başlangıç   pozisyonunu kapatmalısınız. ve kopuş yönünde yeni bir 
+tane açın.
+Bu taktik bir bütün olarak etkilidir. Ancak periyodik olarak başlangıçtaki 
+hareketin tersi yönde bir kırılma devam etmiyor. Benzer bir durum Şekil 
+17'de gösterilen ST Kesintili Doğrudan Hareket Deseninde de ortaya 
+çıkmaktadır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 20 ===
+Şekil 17: ST Kesintili Doğrudan Hareket Modeli
+Bu grafik kombinasyonunun oluşmasından sonra fiyat %400 hedefine 
+ulaştığında piyasanın dışında beklemeli veya başka bir düşüş 
+girişiminde bulunmalısınız. Bu modelle çalışırken başka taktikler de 
+mümkündür. Örneğin, orijinal pozisyonu kapatmadan karşı pozisyonu 
+açabilirsiniz. Sözde "Kilit" tekniği etkili olabilir, ancak bu örnekler 
+gösterilmeyecektir. Gelecekte herkes bu model için en uygun 
+seçeneği seçebilecek.
+Doğrudan Hareket Modeli ile daha karmaşık ve karlı bir ST Ters 
+Hareketi Şekil 18'de gösterilmektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 21 ===
+Şekil 18: Doğrudan Hareket Desenli ST Karşı Hareketi
+Bu modelin oluşumunda fiyat %210 seviyesini aşarak yönünü tersine 
+çeviriyor. Aşağıya doğru hareket aynı zamanda Fraktal Koridor № 2'nin 
+yüksekliğinin %210'u seviyesini de aşar. Daha sonra orijinal yönde yeni 
+bir tersine dönüş gerçekleşir ve ST Doğrudan Hareket Modeli, %400 
+hedefine ulaşan bu karmaşık modeli tamamlar. Koridor № 3'ün 
+yüksekliği. Bu modelle çalışmak için, her seferinde önceki anlaşmadan 
+elde edilen karı sabitleyerek üç kez pozisyon açmanız gerekir. Kalan ST 
+Formasyonları EUR/USD grafiklerini hesaplamak için kullanılmayacaktır. 
+Açıklamaları ve onlarla çalışma kuralları şurada bulunabilir:Ticaret Kodu 
+Açıkkitap.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 22 ===
+EUR/USD Döviz Çiftinin Analizi
+Artık EUR/USD paritesinin analizi için gerekli olacak tüm formasyonlar 
+açıklandığına göre, bu paritenin 21 Nisan - 31 Mayıs 2017 arasındaki 
+zaman çizelgesinin adım adım analizini yapacağız.
+Burada gösterilen tüm resimler, geçmiş çizelgelerde veya 
+GoogleDrive'da daha yakından görüntülenebilir: https://
+drive.google.com/drive/folders/0B3brjTjlH1PIVjF1cHQtbkRodFU ST 
+Formasyonlarının başlangıç   noktasını bulma yöntemi Şekil 19'da 
+gösterilmektedir.
+Şekil 19: 21-25 Nisan 2017 arası EUR/USD
+Mayıs ayı için EUR/USD paritesini test etmek için grafik geçmişinde 
+önceki ST Formasyonunun açıkça tamamlandığı bir yer bulmanız 
+gerekiyor. Bu, karmaşık bir modelin iç yapısının bağımsız bir modelle 
+karıştırılmaması için yapılmalıdır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 23 ===
+23 Nisan'da Fransa'da Cumhurbaşkanlığı seçimlerinin ardından piyasanın 
+açılışında fiyat farkı yaşandı. Bu noktada tabanında Koridor 1 olan, kendi 
+kendine tamamlanan bir ST Direkt Hareket Modeli oluşturuldu. Buradan 
+itibaren mayıs ayı başına kadar aşağıdaki kombinasyonları kısaca analiz 
+ederek ilerleyeceğiz.
+24 Nisan'da fiyatlar yatay durumdaydı ve alt fraktalı yalnızca 5,9 pip 
+aşarak, altta 2 numaralı Koridor ile ST Yanlış Hareket Modeli 
+oluşturdu. Fraktalın bir dökümü gerçekleşmedi.
+Gelecekte, grafiğin vizyonunu karmaşıklaştırmamak için başarısız olan tüm 
+arızaları grafiklerde göstermeyeceğim. Bunun yerine, yalnızca fiyatın 
+neredeyse atılım seviyesine ulaştığı durumları not edeceğim.
+Günün sonunda 9,7 pip yüksekliğinde Küçük Koridor №3 oluştu. Ticaret 
+sisteminin şartlarına göre bu tür Küçük Koridorların atlanması gerekir. Bir 
+istisna olarak, bu ST Kompleksi Ters Formasyonunun nasıl oluşturulduğu 
+örneğine bakalım, çünkü gelecekte bu model artık grafiklerde görünmeyecek. 
+Ayrıca bu örnekte Durdurma Çizgisinin nasıl doğru şekilde yerleştirileceğini 
+görebilirsiniz.
+ST Kompleksinin Ters Hareket Modeli Şekil 20'de gösterilmektedir.
+Şekil 20: ST Kompleksinin Ters Hareket Modeli
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 24 ===
+25 Nisan'daki işlem gününün başlangıcında Koridor 3 bozuldu. Önceki 
+ST Yanlış Hareket Modeli'nin yönü aşağıydı. Sistemin kurallarına göre 
+Koridor 3'teki Durma Çizgisi, Başlangıç   Çizgisinin kesişme noktasının 
+karşısındaki en yakın fraktal seviyesinde bulunmalıdır.
+Delikli fraktal ile Başlangıç   Çizgisi fiyatının kesiştiği nokta arasında, 
+kesişme anında biçimlenmemiş fraktal bulunur. Bu nedenle onu son iki 
+günün geçmişinde veya geri dönüş bölgesinde aramanız gerekir. 
+Kırılımdan önce oluşan son fraktalın zirvesinin fiyatı 1,08691 oldu. Bu 
+değer, kesişen fraktal ile Başlangıç   Çizgisinin kesişimi arasındaki en 
+yüksek tepenin değerinden küçüktür. Bu, bu fraktalın Koridor 3 için 
+Durdurma Hattı kurmak için uygun olmadığı anlamına gelir.
+Soldaki bir sonraki fraktalın yüksek noktası, kesişen fraktal ile fiyatın 3 
+numaralı Koridorda Başlangıç   Çizgisini geçtiği yer arasındaki en yüksek 
+noktadan daha yüksektir. Bu fraktal, onu Durdurma Çizgisi seviyesine 
+yerleştirme koşullarına karşılık gelir. Bu durumda, Koridor № 3'ün Durma 
+Hattı seviyesi, Koridor № 2'nin Durma Hattı ile çakışmaktadır.
+Ayrıca, fiyat yukarı doğru dönerek Koridor 3'teki Durdurma Çizgisini aşar ve 
+bundan önce Koridor 3'te delinmiş bir fraktal oluşturur. Durdurma Çizgisi 
+kırılmasından önceki bu son fraktalın seviyesi, pozisyonu açmak için 
+kullanılmalıdır. üstte. 4 numaralı Koridordaki Durma Çizgisi, önceki hareket 
+aşağıya doğru yönlendirildiğinden, tamamen oluşturulmuş son fraktal 
+seviyesinde bulunur.
+Aynı gün ST Direkt Hareket Modeli %400 Hedefine ulaştı. Açıkçası bu 
+model aynı zamanda bağımsız ve eksiksiz bir modeldir. Şekil 21, 26 
+Nisan'dan 4 Mayıs'a kadar Doğrudan Hareket Desenli uzun bir ST Ters 
+Hareketinin oluştuğu grafiği göstermektedir. Desen birkaç dahili 
+modelden oluşur ve dahili ST Doğrudan Hareket Modeli %400 
+Hedefine ulaştığında tamamlanır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 25 ===
+Şekil 21: 26 Nisan - 4 Mayıs 2017 arasındaki dönem için EUR/USD
+Desenin tamamını göstermek için görüntünün küçültülmesi gerekiyordu. Aşağıdaki Şekil 
+22'de 26-28 Nisan arasındaki dönem daha ayrıntılı olarak gösterilmektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 26 ===
+Şekil 22: 26-28 Nisan
+26 Nisan işlem günü yanlış bir yükseliş hareketi ile başladı. Ancak 
+fraktal seviyenin aşılması yalnızca 5,8 pip oldu. Böylece ST Yanlış 
+Hareket Modeli oluştu ve Koridor № 5'in oluşmasıyla fiyatlar karşıt 
+fraktal seviyeye doğru hızla düştü.
+Bir önceki hareket 25 Nisan'da yukarı yönlüydü ve bu nedenle bir geri 
+dönüş yaşandı. Ancak ters bölgede tam olarak oluşmuş bir fraktal 
+yoktur. Ayrıca ters bölgede, kırılan fraktal ile kırılmanın gerçekleştiği yer 
+arasındaki zirveye eşit veya bundan daha yüksek bir fraktal yoktur. Bu 
+durumda Durma Çizgisi, kırık fraktal ile Başlangıç   Çizgisinin kesişme 
+noktası arasındaki yüksek tepe ile çakışmalıdır.
+Fraktalın kırılmasıyla fiyat %210 seviyesini geçer ve ardından yukarıya 
+dönerek 6 numaralı Koridor'u oluşturur. Bir önceki hareketin katılımı 
+sırasında 6 numaralı Koridor Durma Hattı tam oluşmuş fraktalın seviyesine 
+yerleştirilir. . Bu Koridorun yüksekliği 39 piptir. 26 Nisan için ADR 
+göstergesinin (5) değerinin yarısı 33,6 piptir (23 Nisan Pazar gününün kısa 
+günü dikkate alındığında). Böylece Koridor № 6'nın Büyük olduğu ortaya 
+çıktı ve oyuna katılmıyor.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 27 ===
+27 Nisan'da fiyat ST Yanlış Merdiven Formasyonunu tamamlıyor ve 
+ardından tekrar fraktal seviyeyi yukarı doğru kırıyor. 7 numaralı koridor 
+oluşturuluyor. Stop Line'ın seviyesi 26 Nisan'da oluşan fraktal 
+seviyesindedir. 7 No'lu Koridor'un yüksekliği 58 piptir. ADR'nin (5) yarısı 
+36 piptir; yani bu Koridor çok büyüktür ve dikkate alınmamalıdır.
+Destek alınmazsa ertesi gün fiyatlar düşerek üst hareket için işleyen 
+bir Koridor oluşturulur.
+28 Nisan: Yukarı yönlü bir atılımın ardından fiyat geri döndüğünde, 
+gecikmeli Satın Alma Limiti Emri (1,08781) tetiklendi. 8 numaralı Koridorun 
+Durma Çizgisi, 27 Nisan'da ortaya çıkan tam oluşmuş fraktal seviyesinde 
+yer almaktadır ve seviyesi, kırık fraktal ile kesişme noktası arasındaki alçak 
+noktadan daha düşüktür. Zarar Durdurma Emri, Durdurma Hattı 
+seviyesinde (1.08508) verilir. Tabanda Koridor № 8'in yer aldığı karşı 
+hareket, yüksekliğinin %210'u seviyesini hızla aşar.
+Açık işlemin sonucu 2 Mayıs'ta belirlenecek ve Mayıs ayı toplam karına 
+kaydedilecek. 5 No'lu Koridor Durma Hattına ve 8 No'lu Koridor 
+yüksekliğinden %400 Hedefine ulaşmadan biraz önce fiyat düşmeye 
+başlar.
+Grafiğin bir sonraki bölümü Şekil 23'te ayrıntılı olarak gösterilmektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 28 ===
+Şekil 23: 28 Nisan - 3 Mayıs 2017 arasındaki dönem için EUR/USD
+1 Mayıs birçok ülkede tatildir. Bu nedenle piyasada likidite düşüktür. 28 
+Nisan'da açık bir pozisyonumuz var ve %210'luk fiyata ulaştığı anda 
+başabaş seviyesine ayarlanmış bir Zararı Durdur Emri var. Piyasada 
+likiditenin düşük olduğu ST Yanlış Merdiven Modeli oluşuyor.
+2 Mayıs: Koridor № 11'de bir ilerleme var. 28 Nisan'da açılan pozisyon, 
+işlem hesabı tutarının +%7'si sonucu 1,08972 seviyesinde kapanıyor. 
+Aynı fiyatta ST Ters Hareket Formasyonunun ortaya çıkmasından 
+sonra Satış Limiti açılır ve bu da kayıp getirir.
+-%10.
+3 Mayıs: Şekil 24'te gösterilen ST Doğrudan Hareket Modeli, Şekil 
+21'de gösterilen Doğrudan Hareket Modeli ile ST Karşı Hareketinin 
+oluşumunu tamamlıyor.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 29 ===
+Şekil 24: 3-4 Mayıs
+3 Mayıs: Koridor № 12'nin Başlangıç   Çizgisi eksi 6 pip fiyat seviyesinde, 
+Satış Limit Emri (1,09183) tetiklendi. Pozisyonun açılmasıyla eş zamanlı 
+olarak Zarar Durdurma Emri, Koridor № 12'nin Durdurma Hattı 
+seviyesinin bir pip üstüne (1.09370) belirlendi. Kar Al Emri = 1.08786. 
+GMT 18:00'de Fed'in faiz oranı kararı açıklandı. Daha önce bu verilerin 
+açıklanmasında herhangi bir sürpriz beklenmiyordu. Yayınlandıktan 
+hemen sonra fiyat 1,09021 seviyesine düştü ve ardından Koridor № 
+12'deki Stop Line seviyesine ulaştı. %210 seviyesi 1,08997 seviyesindeydi. 
+Buna göre dönüş seviyesine ulaşılamadı ve Zararı Durdur Emri kayıpsıza 
+geçmedi. Aksi takdirde pozisyon erken kapatılabilir. Şekil 25'te gösterilen 
+dakika grafiğinde bu durum açıkça görülmektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 30 ===
+Şekil 25: Fed'in faiz kararı sonrası fiyatlardaki sıçrama 4 Mayıs: Yeni bir 
+işlem gününün başlamasının ardından fiyat ters yöne dönmeye çalıştı ve 
+ST Yanlış Merdiven Formasyonunu oluşturdu. Daha sonra %400 artı 1 
+pip seviyesinde, oyun miktarının +%21'ini getiren Kâr Al Emri tetiklendi.
+Aşağıdaki 4 Mayıs - 11 Mayıs 2017 dönemine ait EUR/USD grafiği Şekil 26'da 
+gösterilmektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 31 ===
+Şekil 26: 4 Mayıs ile 11 Mayıs 2017 arasındaki dönem için EUR/USD
+4 Mayıs: Koridor № 13'teki Başlangıç   Çizgisinin (1.08960) 7 pip kırılmasının 
+ardından Alış Limit Emri (1.09030) tetiklendi. Önceki ST Direkt Deseni 
+aşağıyı gösteriyordu ve ters bölgede, kırık fraktal ile Başlangıç   Çizgisinin 
+kesişme noktası arasındaki en alt noktaya eşit veya bundan daha düşük, 
+tam olarak oluşturulmuş bir düşük nokta fraktalı yoktu.
+Bu durumda kurallara göre Durdurma Çizgisi, kırık fraktal ile kesişme 
+noktası arasındaki alt nokta seviyesine ayarlanmalıdır. Bu durumda 
+Durdurma Çizgisi, arızadan önce ortaya çıkan, tam olarak oluşmamış 
+fraktal seviyesinde bulunur. Zararı Durdur Emri Stop Line seviyesine 
+(1.08739), Kar Al Emri ise %400 (1.09840) seviyesine ayarlandı. Gün 
+içerisinde ST Direkt Hareket Paterni +%28 sonuçla Hedefe ulaşıyor. Bu 
+kadar hızlı modeller ortaya çıktığında, arıza sonrası fiyat geri dönüşleri 
+genellikle minimum düzeyde oluyor. Şekil 27'de gösterilen EUR/USD 
+dakika grafiğinde kırılım alanı görülmektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 32 ===
+Şekil 27: 4 Mayıs, EUR/USD, M1
+Bu durumda kırılma sonrasında hafif bir fiyat geri dönüşü, Alış Limit Emrinin 
+1,09030 seviyesinden açılmasını sağladı. Sol üst köşedeki 10 saniyelik grafik, 
+fraktal seviyenin kırılmasının ardından fiyatın 1,09008'e geri döndüğünü 
+gösteriyor. Siteyi ziyaret ederek saniyelerin geçmişini inceleyebilir ve alıntıları 
+kendiniz işaretleyebilirsiniz:https://tickstory.com .
+ABD işgücü piyasası anketinin açıklanmasıyla bağlantılı olarak 5-8 Mayıs tarihleri   arasında 
+ortaya çıkan belirsizlik dönemi Şekil 28'de detaylı olarak gösterilmektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 33 ===
+Şekil 28: 5 Mayıs – 8 Mayıs 2017 arası EUR/USD
+5 Mayıs: İstihdam Durumu Özeti'nin saat 12.00'de yayınlanması bekleniyordu. 
+Uzun yıllar boyunca bu göstergelerin Amerika Birleşik Devletleri'ndeki faiz 
+oranlarının değiştirilmesine ilişkin karar vermede önemli olduğu düşünülmüştür. 
+İçindeTicaret Kodu AçıkKitabımda büyük oyuncuların bu önemli verinin 
+açıklanmasının arifesinde piyasadan ayrıldığını anlatmıştım.
+Tahminlerden farklı değerlerin yayınlanması fiyatları herhangi bir yöne itebilir ve 
+hatta boşluklar yaratabilir. Çoğu zaman, bu verilerin açıklanmasından önce ve 
+sonra, düşük likit bir piyasa, sakinleşene kadar aşağı yukarı hareket eder. Böyle 
+dönemlerde anlaşma açma riskine girmenin bir anlamı yok. Volatilitenin normal 
+hale gelmesini ve hareket yönünü seçen piyasanın alışılagelmiş ST 
+Formasyonlarını çizmeye başlamasını beklemek gerekir.
+Yukarıdakiler göz önüne alındığında, bu belirsizlik döneminin getirebileceği 
+olası kayıplar, genel sonuç hesaplanırken dikkate alınmayacaktır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 34 ===
+ay. İşlem gününün sonunda Koridorlar № 14, № 15 ve № 16 
+tarafından oluşturulan ST Yanlış, Kompleks Ters, Ters Hareket Modeli, 
+grafikte bir belirsizlik dönemini açıkça göstermektedir.
+8 Mayıs: Bir sonraki işlem haftası Büyük Koridor № 17'deki düşüşle 
+başladı. Fraktal yüksekliği 37,4 pip ve ADR (5) değerinin yarısı 32,9 pip 
+oldu. Büyük oyuncular tarafından bir süreliğine terk edilen piyasa, 
+belirsizlik ve yüksek volatilite içinde olmaya devam etti. İstihdam 
+Durumu Özeti'nin ardından traderlar, FOMC üyelerinin iskonto oranının 
+yükseltilmesine yönelik planlı yorumlarını bekliyordu. Ayrıca 7 Mayıs 
+Pazar günü yapılan Cumhurbaşkanlığı seçimi sonuçları da görüşüldü.
+Bu durumda, bir sonraki Koridor № 18'in ortaya çıkmasından hemen sonra 
+oyuna girmek için acele etmemelisiniz. Bu durumda karlı bir anlaşmayı 
+kaçırmama arzusu, kayba yol açacaktır. Oluşturulan ST Ters Hareket 
+Modeli, mevduatın %10'luk olası kaybıyla bunu doğruladı. Aşağıya doğru 
+Koridor № 19 yine oyuna girilemeyecek kadar büyüktü. Piyasanın konsolide 
+olmasını ve ST Formasyonlarını olağan ritimde uygulamaya hazır hale 
+gelmesini beklemek gerekiyor.
+Belirli bir belirsizlik döneminden sonra ticarete başlamanın minimum 
+teknik koşulu, izin verilen bir fraktal yüksekliğe sahip iki ardışık Koridorun 
+ortaya çıkması veya Şekil 29'da gösterilen fiyatların görünür bir 
+konsolidasyonu olabilir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 35 ===
+Şekil 29: Fiyatların Konsolidasyonu
+8 Mayıs çalışma gününün sonunda beklenen tüm yorumlar açıklandı 
+ve Başlangıç   ST Merdiven Desenini oluşturan piyasa, aşağı yönde 
+hareket etti. Satış Limit Emri = 1,09242, Zararı Durdur Emri = 1,09530 
+ve Hedef = 1,08438. Satış, Koridor № 20'nin atılımından hemen sonra 
+veya fiyatların konsolidasyon döneminden sonraki ertesi gün 
+yapılabilir.
+9 Mayıs: Fiyat %210 seviyesini aştı ve Stop Emri başabaş seviyesine 
+taşındı.
+10 Mayıs: Günün sonunda hedefe ulaşmadan biraz önce fiyatlar Koridor 
+№ 21'i oluşturdu.
+11 Mayıs: 21 numaralı Koridor'un kırılmasıyla pozisyon +%17 sonuçla 
+1,08748 seviyesinde kapandı. Eş zamanlı olarak bu seviyede açılan 
+Alım Limit Emri ise -%10 kayıp getirdi. Gün ortasında ST Kesintili 
+Doğrudan Hareket Paterni tamamlanarak 20 Nolu Koridor 
+yüksekliğinin %400’üne ulaştı.
+11-16 Mayıs arasındaki bir sonraki dönem Şekil 30'da gösterilmektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 36 ===
+Şekil 30: 11-16 Mayıs 2017 dönemi için EUR/USD
+11 Mayıs: İşlem gününün sonuna doğru, kaçırılması gereken 11 pip 
+yüksekliğinde 22 numaralı Küçük Koridor beliriyor.
+12 Mayıs: 7 pip yüksekliğinde başka bir Küçük Koridor, № 23 ortaya çıktı. Daha 
+sonra fiyat, ST Doğrudan Hareket Modeli için Başlangıç   Çizgisi haline gelen ST 
+Merdiven Desenini yarattı. Fiyatın kırılımından sonra Başlangıç   Çizgisi 
+seviyesine döndüğü an Şekil 31'de gösterilen 5 dakikalık grafikte 
+gösterilmektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 37 ===
+Şekil 31: 12 Mayıs kırılım sonrası fiyat dönüşü
+Fraktal seviyenin aşılmasının ardından fiyatın geri alınması, Alış Limit 
+Emri'ni 1,08840 seviyesinde açmanıza olanak tanır. Zararı Durdur Emri 
+= 1,08547 ve Kar Al Emri = 1,09661.
+15 Mayıs: Tabanda 24 No'lu Koridor ile ST Doğrudan Hareket Modeli, 
+ters hareketler olmadan %400 Hedef seviyesine ulaştı ve +%28 getirdi. 
+Günün sonunda 25 numaralı Koridor oluşturuldu. Başlangıç   Çizgisi 
+seviyesi yalnızca 6,9 pip aşıldı.
+16 Mayıs: Koridor № 26 ile bir başka hızlı ST Doğrudan Hareket Modeli 
+Hedefe ulaştı. Alım Limiti Emri 1,09959'da açıldı ve birkaç saatliğine +
+%25 getirdi. Zararı Durdur Emri 1,09755, Kâr Al Emri ise 1,10587 
+olarak belirlendi.
+16-19 Mayıs tarihleri   arasında oluşan bir sonraki Doğrudan Hareket Desenli ST 
+Karşı Hareketi Şekil 32'de gösterilmektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 38 ===
+Şekil 32: 16-19 Mayıs 2017 dönemi için EUR/USD
+16 Mayıs: Hareket yukarıya doğru devam etti. Koridor № 27'nin 
+kırılmasının ardından 1.10922 olarak belirlenen Alım Limiti Emri 
+tetiklendi. Zararı Durdur Emri = 1,10630 ve Kar Al Emri = 1,11740.
+17 Mayıs: %210 (1,11318) seviyesinin altında fiyat fraktalı kırıyor. 
+Strateji gereği bu hareketi atladık. Daha sonra hareket yükseldi ve 
+günün sonunda piyasa 5 piplik Hedef seviyesine yaklaşıyordu.
+18 Mayıs: Hedef 3 pip'e ulaşamayan fiyat fraktalın kırılmasına neden oldu. 
+Başlangıç   pozisyonu +%17 sonuçla 1,11438 seviyesinde kapanır ve Koridor 
+Başlangıç   Çizgisi № 28 eksi 6 pip ile aynı seviyede Satış Limit Emri 
+tetiklenir. Zararı Durdur = 1,11718, Kar Al = 1,10668.
+19 Mayıs: Koridor № 28'in yüksekliğinin %210'unun altında fraktalda 
+bir ilerleme gerçekleşti. Düşen pozisyon 1,11198'den kapandı ve +
+%8'e getirildi. Alış Limit Emri 1,11198'de açıldı (Zararı Durdur = 
+1,10985, Kar Al = 1,11699) ve birkaç saat sonra +%23 sonuçla Hedefe 
+ulaştı. İşlem gününün sonuna doğru 11,8 pip yüksekliğinde Küçük 
+Koridor № 30 oluştu.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 39 ===
+Fraktal Koridor № 29'un kırılmasının ardından fiyatın geri dönüş anı Şekil 
+33'teki 5 dakikalık grafikte gösterilmektedir.
+Şekil 33: Koridor № 29'un Atılımı
+Grafikte görebileceğiniz gibi Start Line'ın kırılmasının ardından fiyat 
+1,11179 seviyesine geriledi. Bu seviye Alış Limit Emrinin 1,9 pip 
+altındadır.
+22-30 Mayıs arasındaki dönemde ST Çift Kompleks Ters Hareket 
+Deseninin oluşumu Şekil 34'te gösterilmektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 40 ===
+Şekil 34: 22 Mayıs – 30 Mayıs 2017 arası EUR/USD
+22 Mayıs: Yeni işlem haftası, 31 No'lu Koridor Başlangıç   Çizgisinde bir atılımla 
+başladı. Almanya Başbakanı Merkel'in euronun euronun %210'una ulaştığını 
+söylediği gibi, aşağı yönlü pozisyon henüz 31 No'lu Koridor yüksekliğinin 
+%210'u seviyesine ulaşmamıştı. "çok zayıf". Piyasanın tepkisi anında geldi ve 
+euro hızla yeni seviyelere yükseldi. Durdurma Emri pozisyonu -%10'luk bir 
+sonuçla kapattı.
+23 Mayıs: Delinmiş Koridor № 32, Koridor № 31 ile birlikte ST Kompleksi 
+Ters Hareket Modelini oluşturdu. Satın Alma Limiti Emri, Koridor № 
+32'nin Başlangıç   Çizgisi artı 7 pip seviyesinde açıldı.
+24, 25 ve 26 Mayıs: Sözlü müdahalenin ardından piyasa, tüm işlem 
+haftası boyunca başarısız bir şekilde büyümeye çalıştı ancak 32 
+numaralı Koridor yüksekliğinin %210'una bile ulaşamadı. ABD ve 
+İngiltere'de uzun bir hafta sonu nedeniyle oyuncular pozisyonlarını 
+kapatmaya başladı. 26 Mayıs'ta Zararı Durdur Emri %10 kayıpla 
+tetiklendi. O anda ST Çift Kompleks Ters Hareket Modeli oluştu.
+29 Mayıs: Fiyat, Koridor № 34'ün Başlangıç   Çizgisi seviyesine dönemedi. 
+Fraktalı yukarı doğru kırma girişiminde bulunduktan sonra ST,
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 41 ===
+34 No'lu Koridor ile Doğrudan Hareket Modeli bağımsız olarak %400 
+Hedefine ulaştı.
+Mayıs ayının son iki gününde oluşan ST Direkt Hareket Deseni Şekil 35'te 
+gösterilmektedir.
+Şekil 35: 30-31 Mayıs 2017 dönemi için EUR/USD
+30-31 Mayıs: Fiyat Koridor № 35'i aştı. 1.1138 seviyesinde Alış Limit Emri 
+tetiklendi. Stop Line, Zararı Durdur Emri ile çakıştı ve 1.11087 seviyesini 
+geçti. Ters bölgede tam olarak oluşmuş bir fraktal yoktu; bu nedenle 
+Durdurma Çizgisinin, kırık fraktal ile Başlangıç   Çizgisinin kesişme 
+noktası arasındaki alt nokta seviyesinde ayarlanmasına karar verildi.
+Fiyat %210 seviyesini geçtikten sonra fraktalın yalnızca 4,8 pip 
+gerilemesini aştı ve bu da bir atılım için yeterli değildi. Model, klasik ST 
+Direkt Hareket Formasyonunun +%28 sonuçla 1.12202 hedefine 
+ulaşmasıyla tamamlandı.
+Ayın toplam sonucunu hesaplayalım. Öncelikle ilk hesap miktarının 1000 
+konvansiyonel birim olduğunu varsayalım. Bu 1000'e, elde edilen tüm 
+sonuçları tutarlı bir şekilde yüzde olarak eklemeli veya çıkarmalıyız. 1000 +
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 42 ===
+%7 -%10 + %21 + %28 + %17 -%10 + %28 + %25 + %17 + %8 + %23
+- %10 -%10 + %28 = 4049. Böylece ST Model Stratejisi ay için başlangıç   
+tutarının yaklaşık %300'üne eşit bir sonuç gösterdi. Şaşırtıcı bir şekilde 
+bu sonuç, ST Kalıpları Stratejisinin Hedef kârına eşittir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 43 ===
+GBP/USD Döviz Çiftinin Analizi
+Ancak borsada reel göstergelerin elde edilmesi başka faktörlere de 
+bağlıdır. Birçoğu ilk kitabımda anlatılıyor. Ticaret Kodu Açık. Bu 
+kılavuzda, piyasadaki belirsizlik dönemlerinin alım satım sonuçları 
+üzerindeki etkisini genişletmek istiyorum. Mayıs ayında GBP/USD 
+paritesi bir belirsizlik döneminin açık bir örneğini sergiledi.
+Bir atılımdan sonra kotasyon hareketinin gücü, ticaret aracının 
+likiditesine ve büyük spekülatif sermayenin varlığına göre belirlenir. 
+Siyasi veya ekonomik belirsizlik zamanlarında, itici güç zayıflar ve 
+Hedef veya Kâr Al Emrine ulaşmak için yetersiz hale gelir. Böyle 
+dönemlerde durum netleşene kadar bu alım satım aracını 
+bırakmalısınız.
+GBP/USD döviz çiftinin kendine has bir davranış karakteri vardır. Grafik daha 
+değişkendir ve geniş çapraz hareketler yaratır. Çoğunlukla ST İki Karşı Hareket 
+veya ST Üç Karşı Hareket Modelleri vardır. Bu çift aynı zamanda yatırımcıların 
+Zararı Durdur Emirlerini aramayı da seviyor ve ilk hamleye devam etmeden önce 
+Durdurma Çizgisini 1-2 pip geçiyor. Çıkışın ardından fiyat genellikle ticaret 
+koridoruna geri döner.
+Bu davranışsal özellikler, ticaret stratejisinde kullanılacak başka bir değişken 
+değerler kümesini gerektirir. Bu nedenle x değişkenini 13 pip'e eşit alıyoruz. 
+Satın Alma Limit Emri, Başlangıç   Çizgisi artı 4 pip seviyesinde, Zarar 
+Durdurma Emri ise Durdurma Çizgisi eksi 2 pip seviyesinde ayarlanır. Satış 
+Limit Emri, Başlangıç   Çizgisi seviyesinde eksi 3 pip, Zarar Durdurma Emri ise 
+Durdurma Çizgisi seviyesinde artı 3 pip olarak ayarlanır. Stratejinin diğer 
+parametreleri EUR/USD çifti için kullanılanlarla aynı kalıyor.
+GBP/USD paritesinin analizinin temel amacı piyasadaki olumsuz dönemleri 
+göstermektir. Bu nedenle, bu ticaret aracından ayrılmanın gerekli olduğu 
+ana kadar grafiğin günlük detaylı analizine derinlemesine girmeyeceğiz. 
+İstenirse aşağıda gösterilen sonuçları ve ST Modellerini bağımsız olarak 
+kontrol edebilirsiniz. Şekil 36 ve 37, 28 Nisan ile 17 Mayıs 2017 arasındaki 
+GBP/USD döviz çiftinin grafiğini göstermektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 44 ===
+Şekil 36: 28 Nisan - 4 Mayıs 2017 dönemine ait GBP/USD grafiği ST Sıfır 
+Formasyonunu test etme kuralları ilk kitapta gösterildi. Bu durumda, üç 
+gün içinde oluşan ardışık iki özdeş model işe yaramadı. Zararı Durdur 
+Emri'nin %210 fiyat seviyesine ulaştıktan sonra başabaş seviyesine 
+çevrilmesi +%28'lik bir getiri sağlamadı. Genel olarak bu yöntem uzun bir 
+süre boyunca küçük olumlu sonuçlar verdi. Yatırımcı, Zararı Durdur 
+Emri'nin kayıpsız seviyeye transferini stratejisinden çıkarmaya karar 
+verirse, işlem sonuçları önemli ölçüde değişmeyecektir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 45 ===
+Şekil 37: 4-17 Mayıs 2017 dönemine ait GBP/USD grafiği
+Sonraki neredeyse on bir gün boyunca, uzun bir ST İki Ters Hareket 
+Modeli oluşturuldu. Yapısı itibariyle ilk kitapta gösterilen ST Üç Ters 
+Hareket Kalıbına benzemektedir. Bu modeller arasındaki fark yalnızca 
+önceki Koridorun Durma Çizgisini aşan karşıt hareketlerin 
+sayısındadır.
+GBP/USD paritesi için olumsuz dönemin başlangıcı Şekil 38'deki 
+grafikte başlıyor.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 46 ===
+Şekil 38: 18 Mayıs'tan 23 Mayıs'a kadar GBP/USD çifti
+18-19 Mayıs: Hafta, kârlı bir ST Karşı Doğrudan Hareket Modeli ile sona 
+erdi.
+22 Mayıs: ST Merdiven Formasyonunun başlangıcının ortaya çıkmasının ardından 
+1.30292'den Alım Limiti Emri açma fırsatı doğdu. Bu zamana kadar üç haftalık 
+sonuç +%79'du. Aynı günün akşamı Britanya'da bir terör eyleminin 
+gerçekleştiğine dair haberler gelmeye başladı. Terör tehdidinin en üst seviyesi
+- "Kritik" - ilan edildi.
+23 Mayıs: Zirvedeki açık pozisyon, Zararı Durdur Emri'nin 1,29852'de 
+tetiklenmesinin ardından kapatıldı. Bundan sonra kalan %61 kârla daha 
+fazla ticareti bitirmek gerekiyordu. Piyasadaki olumsuz dönem Şekil 39 
+ve 40'ta gösterilmektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 47 ===
+Şekil 39: 23 Mayıs'tan 26 Mayıs'a kadar GBP/USD çifti
+Sonraki dönemde GBP/USD döviz çifti odağını kaybediyordu ve beş kez 
+%10'luk bir kayba neden olabilecek birkaç ST Kompleksi Ters Formasyonu 
+yarattı. Haftanın sonunda ST Doğrudan Hareket Modelini oluşturan 
+Pound'da büyük satışlar yaşandı. Olumsuz durum, Birleşik Krallık'ta 8 
+Haziran 2017'de yapılması planlanan parlamento seçimleri nedeniyle daha 
+da karmaşık hale geldi.
+Volatilitenin yüksek olduğu dönem Şekil 40'ta gösterilmektedir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 48 ===
+Şekil 40: 29 Mayıs'tan 31 Mayıs'a kadar GBP/USD çifti
+Büyük oyuncular tarafından terk edilen GBP/USD çifti, kural olarak olumsuz 
+dönemleri doğrulayan yüksek volatilite sergiledi. Bu kadar düşük likit bir piyasada 
+işlem yapmaya devam ederseniz mevduatınızın önemli bir kısmını 
+kaybedebilirsiniz. Bu durumda, elverişsiz bir dönemde ticarete devam etmek, 
+tüccarın kârının yalnızca %11'ini bırakacaktı. Ancak 8 Haziran'a kadar ticarete 
+devam edilmesi sonucu daha da kötü hale getirebilirdi.
+Kitapta yayınlanan ST Kalıp Stratejisi sonuçlarıTicaret Kodu Açık
+piyasadaki pek çok olumsuz dönem dikkate alınmadan, tarihsel 
+verilere dayanılarak elde edilmiştir. Bu nedenle bazen hesaplamalarda 
+getirisinin minimum olduğu, hatta eksi olduğu aylar olabiliyor. 
+Örneğin piyasadaki olumsuz dönem Brexit ve ABD'deki başkanlık 
+seçimleri sonrasıydı.
+Merkez bankalarının faiz oranı değişikliklerine ilişkin kararları piyasanın 
+davranışını güçlü bir şekilde etkilemektedir. Aynı zamanda ABD Fed, örneğin 
+Avrupa Birliği'nin para otoritelerine göre daha öngörülebilir bir mali politika 
+izlemeye çalışıyor. Askeri çatışmalar ve bunların alevlenmesi de piyasa 
+aktivitesinde önemli bir rol oynamaktadır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 49 ===
+Piyasada olumsuz dönemlerde ticareti durdurmanın öneminin anlaşılması, 
+ticaretin sonuçları açısından büyük önem taşımaktadır. Yatırımcı ekonomik 
+ve politik olayları yakından takip etmelidir. Günlük ticarete ilişkin teknik ve 
+temel analistler arasındaki anlaşmazlık, ilkinin lehine karara bağlandı. 
+Önemli bir temel olay olduğunda piyasanın dışında beklemek daha iyidir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 50 ===
+EUR/USD, M5
+Stratejinin çalışmasına ilişkin tüm örnekler, optimal bir değişken olarak saatlik 
+grafiklerde gösterildi. Daha küçük zaman dilimleri kullanarak mükemmel 
+sonuçlar elde etmek de mümkündür. Ancak farklı brokerlerin bazen farklı 
+teklifleri olabilir. Küçük zaman dilimlerinde bu farklılıklar daha sık ortaya 
+çıkabilir ve fraktal düzeyler örneklerde gösterilen değerlerle örtüşmeyebilir. 
+Strateji ayarlarının esnekliğini ve kısa vadeli belirsizlik dönemlerinin 
+oluşumunu göstermek için, EUR/USD paritesi 31 Mayıs'ta bir iş gününde beş 
+dakikalık grafiklerde aşağıda gösterilmektedir.
+Şekil 41: EUR/USD çifti, M5, 31 Mayıs 2017
+Bu grafiği analiz etmek için aşağıdaki strateji parametreleri uygulandı: Atılım = 2,2 
+pip, Spread = 0,7 pip, Alış Limit Emri = Başlangıç   Çizgisi + 2,2 pip, Satış Limit Emri 
+= Başlangıç   Çizgisi - 1,5 pip, Zarar Durdurma Emri = Durdurma Çizgisi, Hedef = 
+%230, Geri Dönerse Kapat = %210, olası kayıp = - depozitonun %10'u. Yüksekliği 
+2,0 pip ila 13,0 pip olan tüm Fraktal Koridorları kullanıyoruz. Bu grafiği analiz 
+etmek için Uzun pozisyona aşağıdaki kurallar uygulandı:
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 51 ===
+1. Geçmişte tamamlanmış en yakın ST Modelini bulun (ST Doğrudan Hareket 
+Modeli olması daha iyidir).
+2. Karşıt fraktalların (tepe ve vadi) oluşturduğu, 2 pip'ten küçük ve 12 
+pip'ten büyük olmayan bir sonraki Fraktal Koridor'u bulun.
+3. № 2 karşılanırsa: Üst Fraktal Koridor seviyesinin (Başlangıç   Çizgisi) üzerindeki 
+X pip bozulma seviyesini (BDL) bulun. M5 için EUR/USD, X = 2,2 pip.
+4. Fiyat BDL'ye ulaşırsa: Satın Alma Siparişi Seviyesi, Başlangıç   Çizgisinin Y pip 
+üzerindedir. Y=X=2,2 değeri (veya taktiklere ve yayılıma bağlı olarak başka bir 
+değer). Tetiği çekmek için fiyatın geri dönmesini bekleyin.
+5. Artık pozisyon açık. İki şey gelişebilir: a) Fiyat tersine döner ve Durdurma 
+Emri Seviyesine ulaşır veya b) Fiyat %210 seviyesine (Dönüş Seviyesi) 
+ulaşabilir.
+6. Fiyat %210 seviyesine ulaşır: a) Fiyat %230 (veya %400) Hedef 
+Seviyesine kadar devam eder veya b) Fiyat, işlemimizin tersi yönde 
+düşebilir.
+7. %210 ile %230 (veya %400) seviyeleri arasındayken: Herhangi bir 
+Fraktal Koridor = X değeri kadar delinirse aşağı doğru yeni bir pozisyon 
+açılır. Aynı zamanda başlangıç   pozisyonu da kapatılır.
+Fiyat, ilk Fraktal Koridor yüksekliğinin %230'u (veya %400'ü) Hedef 
+Seviyesine ulaştığında anlaşma sona erer.
+8. Kısa pozisyon için de aynı kurallar geçerlidir.
+Grafik, GMT 6:00'dan itibaren Koridor № 1, 2, 3, 4'ün tutarlı bir şekilde dört 
+ST Doğrudan Hareket Modelini nasıl oluşturduğunu göstermektedir. Dokuz 
+saatlik çalışma için sonuç, başlangıçtaki depozitonun yaklaşık +% 82'siydi. 
+GMT 14:00'te Bekleyen Ev Satışlarının (Aylık) (Nisan) ekonomik çıktısı 
+planlandı. Bu olay önemlidir ve bu verilerin yayınlandığı tarihte piyasada 
+yüksek volatilite olasılığı bulunmaktadır.
+Verilerin önem derecesi, www.investing.com/ekonomik-calendar/ gibi 
+birçok finans sitesi tarafından yayınlanan ekonomik takvimlerde 
+yansıtılmaktadır. Önemli olayların olduğu zamanlarda piyasadan uzak 
+durmak daha iyidir.
+Bekleyen Ev Satışlarının önceki değeri = - %0,9, tahmin = + %0,5 ve 
+değer = - %1,3. Veriler tahminlerden önemli ölçüde farklı ve piyasa bir 
+ST Ters Formasyonu ve iki Büyük Fraktal Koridor oluşturuyor. Kısa 
+süreli bir belirsizlik oluşuyor. Bu durumda piyasa sakinleşene, 
+volatilite normale dönene ve
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 52 ===
+yeni ST Deseni oluşturulur. Bundan sonra haberleri dikkatli takip ederseniz 
+çalışmalara devam edilebilir.
+Kısa vadeli ticaret için saatlik grafikler üzerinde çalışmanın aksine, daha yüksek 
+reaksiyon hızı ve maksimum dikkat konsantrasyonunun gerekli olduğu 
+unutulmamalıdır. Böyle bir durumda olası kâr potansiyeli de artar.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.

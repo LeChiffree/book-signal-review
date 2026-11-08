@@ -1,0 +1,180 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 11\Baskı 11\Chaikin Para Akışı Göstergesi (10 sayfa) - @eseckal.pdf
+PAGES: 10
+
+
+=== PDF PAGE 1 ===
+Chaikin Para Akışı
+hisse senedi grafikleri.com/okul/doku.php
+giriiş
+Marc Chaikin tarafından geliştirilen Chaikin Money Flow, belirli bir dönemdeki Para Akışı 
+Hacmi miktarını ölçer. Para Akışı Hacmi, Birikim Dağıtım Hattının temelini oluşturur. Chaikin 
+Money Flow, Para Akışı Hacminin kümülatif toplamı yerine, genellikle 20 veya 21 günlük belirli 
+bir geriye dönük dönem için Para Akışı Hacmini toplar. Ortaya çıkan gösterge, bir osilatör gibi 
+sıfır çizgisinin üstünde/altında dalgalanır. Chartistler, alım veya satım baskısının dengesini 
+Chaikin Money Flow'un mutlak seviyesiyle tartar. Chartistler ayrıca, para akışındaki 
+değişiklikleri belirlemek için sıfır çizgisinin üstünde veya altında çaprazlar arayabilir.
+Hesaplama
+Chaikin Para Akışı'nı (CMF) hesaplamak için dört adım vardır. Aşağıdaki örnek 20 döneme 
+dayanmaktadır. İlk olarak, her dönem için Para Akışı Çarpanını hesaplayın. İkinci olarak, bu 
+değeri dönemin hacmiyle çarparak Para Akışı Hacmini bulun. Üçüncü olarak, 20 dönemin Para 
+Akışı Hacmini toplayın ve 20 dönemlik hacim toplamına bölün.
+1. Para Akışı Çarpanı = [(Kapanış - Düşük) - (Yüksek - Kapanış)] /(Yüksek - Düşük)
+2. Para Akışı Hacmi = Para Akışı Çarpanı x Dönem Hacmi
+3. 20 dönemlik CMF = 20 dönemlik Para Akışı Hacmi Toplamı / 20 dönemlik Hacim Toplamı
+Her dönemin Para Akışı Hacmi Para Akışı Çarpanına bağlıdır. Bu çarpan, kapanış dönemin 
+yüksek-düşük aralığının üst yarısında olduğunda pozitif, kapanış alt yarısında olduğunda 
+negatiftir. Kapanış yüksek seviyeye eşit olduğunda çarpan 1'e, kapanış düşük seviyeye eşit 
+olduğunda ise -1'e eşittir. Bu şekilde çarpan, Para Akışı Hacminde sonuçlanan hacim 
+miktarını ayarlar. Para Akışı Çarpanı uçlarında olmadığı sürece (+1 veya -1) hacim etkili bir 
+şekilde azaltılır.
+1/11
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+Yukarıdaki tablo Research in Motion (RIMM) için günlük verileri kullanan bazı örnekleri göstermektedir. Çarpanın 5 
+Ocak'ta hisse senedinin en yüksek seviyesine yakın bir yerde kapandığında +1'e yakın olduğunu fark edin. Çarpan, 
+hisse senedinin en düşük seviyesine yakın bir yerde kapandığı 18 Ocak'ta -.97'ye düştü. Çarpan, hisse senedinin en 
+yüksek-en düşük aralığının orta noktasına yakın bir yerde kapandığı 29 Aralık'ta sıfıra yakın bir seviyede (-.07) 
+kapandı.buraya tıklayın Chaikin Para Akışının Excel E-Tablosunda hesaplanmasına dair bir örnek.
+Tercüme
+Chaikin Money Flow (CMF), -1 ile +1 arasında dalgalanan bir osilatördür. Gösterge nadiren, hatta hiç 
+bu uç noktalara ulaşmayacaktır. 20 günlük Chaikin Money Flow'un +1'e (-1) ulaşması için yüksekte 
+(düşükte) 20 ardışık kapanış gerekecektir. Tipik olarak, bu osilatör merkez çizgisi sıfır olarak -0,50 ile 
++0,50 arasında dalgalanır.
+2/11www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Chaikin Money Flow, belirli bir zaman dilimi için alım ve satım baskısını ölçer. Pozitif 
+bölgeye geçiş alım baskısını gösterirken, negatif bölgeye geçiş satış baskısını gösterir. 
+Grafikçiler, Chaikin Money Flow'un mutlak değerini, altta yatanın fiyat hareketini 
+doğrulamak veya sorgulamak için kullanabilirler. Pozitif CMF bir yükseliş trendini 
+doğrular, ancak negatif CMF bir yükseliş trendinin arkasındaki gücü sorgular. Düşüş 
+trendleri için tersi geçerlidir.
+Alım/Satım Baskısı
+Chaikin Money Flow, genel bir alım veya satım eğilimini basitçe pozitif veya negatif değerlerle 
+tanımlamak için kullanılabilir. Gösterge sıfır çizgisinin üstünde/altında salınır. Genellikle, 
+gösterge pozitif olduğunda alım baskısı daha güçlüdür ve gösterge negatif olduğunda satış 
+baskısı daha güçlüdür.
+Bu sıfır çizgisi geçişi yeterince basit görünse de, gerçeklik çok daha kesik kesiktir. Chaikin 
+Money Flow bazen göstergeyi zar zor pozitif veya negatif hale getiren bir hareketle sıfır 
+çizgisini yalnızca kısa bir süre geçer. Hiçbir takip yoktur ve bu sıfır çizgisi geçişi bir kırbaç (kötü 
+sinyal) haline gelir. Grafikçiler bu sinyalleri tamponlarla filtreleyebilirler
+3/11www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+boğa eşiğini sıfırın biraz üstüne (+0,05) ve ayı eşiğini sıfırın biraz altına (-0,05) ayarlamak. Bu eşikler 
+kötü sinyalleri tamamen ortadan kaldırmayacak, ancak kırbaç darbelerini azaltmaya ve daha zayıf 
+sinyalleri filtrelemeye yardımcı olabilir.
+Yukarıdaki grafik, gösterge penceresinde 20 günlük Chaikin Money Flow ile Freeport McMoran'ı (FCX) 
+göstermektedir. Şubat ve Aralık 2010 arasında sıfır çizgisinin en az 10 kez kesiştiği görülmüştür. 
+Küçük bir tampon eklemek, yükseliş ve düşüş sinyallerinin sayısını büyük ölçüde azaltmıştır. +0,05'in 
+üzerindeki bir hareket yükseliş olarak kabul edilirken, -0,05'in altındaki bir hareket düşüş olarak kabul 
+edilmiştir. Sadece üç sinyal vardı. Bu sinyaller biraz daha sonra gelecek olsa da, whipsaw'ı azaltmaya 
+değer olabilir.
+4/11www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Harley Davidson (HOG) grafiği birkaç iyi sinyal ve Mayıs sıçramasıyla bir kırbaç hareketi gösteriyor. CMF 
+birkaç gün boyunca +0,05'in üzerine çıktı, ancak bu hareket tutunamadı ve gösterge Haziran başında 
+-0,05'in altına geri döndü. Kırbaç hareketleri, özellikle oynak dönemlerde veya trend düzleştiğinde 
+gerçekleşecektir. CMF Temmuz ayında yükselişe geçti ve yılın geri kalanında yükselişini sürdürdü. 
+HOG'un Ağustos ayında CMF hala yükseliş modundayken %62'nin biraz üzerinde geri çekilen bir düşen 
+kama oluşturduğuna dikkat edin. Bu geri çekilme, CMF sinyaline katılmak için ikinci bir şans sundu.
+5/11www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Chaikin Money Flow tüm menkul kıymetler için uygun değildir. Yukarıdaki grafik, PF Chang'i (PFCB) 
++0,05'in üzerinde veya -0,05'in altında 18 çaprazla göstermektedir. CMF sinyallerini bu çaprazlara 
+dayandırmak, birbiri ardına gelen kırbaç darbeleriyle sonuçlanmıştır. Temel fiyat eğilimini ve belirli bir 
+menkul kıymetle bir göstergenin özelliklerini analiz etmek önemlidir. PFCB bir miktar eğilim sergiler, 
+ancak bu eğilim içindeki fiyat hareketi dalgalıdır ve para akışı pozitif veya negatif bir eğilimi 
+sürdüremez. Bu hisse senetleri için farklı bir gösterge bulmak daha iyi olacaktır.
+Hesaplama Tuhaflığı
+Chaikin Money Flow'daki Para Akışı Çarpanı, belirli bir süre (gün, hafta, ay) için yüksek-düşük aralığına 
+göre kapanış seviyesine odaklanır. Bu formülle, bir menkul kıymet aşağı doğru boşluk bırakabilir ve 
+önemli ölçüde daha düşük bir şekilde kapanabilir, ancak kapanış yüksek-düşük aralığının orta 
+noktasının üzerindeyse Para Akışı Çarpanı yükselir. Aşağıdaki grafik, Clorox'u (CLX) büyük bir aşağı 
+boşluk ve günün yüksek-düşük aralığının tepesine yakın bir kapanışla göstermektedir. Hisse senedi 
+yüksek hacimde keskin bir şekilde düşük kapansa da, Chaikin Money Flow, Para Akışı Çarpanı pozitif ve 
+hacim ortalamanın oldukça üzerinde olduğu için yükseldi. Kapanıştan kapanışa değişimi göz ardı 
+etmek, Chaikin Money Flow'un bazen fiyatla bağlantısını kesebileceği anlamına gelir.
+6/11www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Bunun tersi, bir güvenlik yukarı açılıp günün en düşük seviyesine yakın bir yerde kapandığında da 
+olabilir. Aşağıdaki grafik, Travellers'ın (TRV) yukarı açılıp gün içinde %1'den fazla yükseldiğini gösteriyor. 
+Bu sıçramaya rağmen, kapanış günün en düşük seviyesine yakındı ve bu da -1'e yakın bir Para Akışı 
+Çarpanı sağladı. Sonuç olarak, günün hacminin neredeyse tamamı negatif para akışı olarak sayıldı ve 
+Chaikin Para Akışı düştü.
+7/11www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Sonuçlar
+Chaikin Money Flow, belirli bir zaman dilimi boyunca alım ve satım baskısını ölçen bir 
+osilatördür. En temel haliyle, para akışı CMF pozitif olduğunda boğaları, negatif 
+olduğunda ise ayıları destekler. Daha hızlı para akışı değişimleri arayan grafikçiler boğa ve 
+ayı sapmalarına bakabilirler. Ancak dikkatli olun. Boğa sapması olduğunda bile satış 
+baskısı negatif bölgede hala üstünlüğe sahiptir. Bu boğa sapması basitçe daha az satış 
+baskısı gösterir. Gerçek alım baskısını göstermek için pozitif bölgeye doğru bir hareket 
+gerekir. Bir para akışı osilatörü olarak CMF, MACD veyaRSI . Tüm göstergelerde olduğu 
+gibi, Chaikin Money Flow da tek başına bir gösterge olarak kullanılmamalıdır. Marc 
+Chaikin ayrıca şunları da geliştirdi:Birikim Dağıtım Hattı veChaikin Osilatörü .
+SharpCharts ile kullanma
+Chaikin Money Flow, ana pencerenin üstünde veya altında bir gösterge olarak ayarlanabilir. Alan 
+biçiminde gösterildiği için, menkul kıymetin fiyat grafiğinin arkasına yerleştirilmeye pek uygun değildir.
+8/11www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Gösterge açılır listeden seçildiğinde, varsayılan parametre görünür (20). Bu parametreler duyarlılığı 
+artırmak veya azaltmak için ayarlanabilir. Kullanıcılar yatay çizgiler, hareketli ortalamalar veya diğer 
+katmanlar eklemek için "gelişmiş seçenekler"e tıklayabilir. Grafikçiler, diğerinin üstüne ikinci ve 
+daha uzun bir Chaikin Money Flow göstergesi bile çizebilir. Çakışma dönemleri, para akışının iki 
+farklı dönem için güçlü olduğu zamanları gösterir.Canlı bir örnek için buraya tıklayın .
+Önerilen Taramalar
+Chaikin Para Akışı Pozitife Döndü ve RSI 50'nin Üzerine Çıktı
+Bu tarama, son 60 günde ortalama en az 10$ fiyat ve 100.000 günlük hacim elde eden 
+hisse senetlerinin bir tabanıyla başlar. Chaikin Money Flow pozitif bölgeye geçtiğinde 
+birikim ve satın alma baskısı belirlenir. Fiyat momentumu RSI'nin
+11 Eylülwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+50'nin üzerine çıkar, merkez çizgisi. Bu tarama, daha fazla analiz ve gerekli özen için bir başlangıç   noktası olarak 
+düşünülmüştür.
+[tür = stok] VE [ülke = ABD]
+VE [Günlük SMA(60,Günlük Hacim) > 100000] VE [Günlük 
+SMA(60,Günlük Kapanış) > 10]
+VE [Günlük CMF(20) 0'ı geçer]
+VE [Günlük RSI(14,Günlük Kapanış) 50'yi geçiyor]
+Chaikin Para Akışı Negatife Döndü ve RSI 45'in Altına Düştü
+Bu tarama, son 60 günde ortalama en az 10$ fiyat ve 100.000 günlük hacim elde eden hisse 
+senetlerinin bir tabanıyla başlar. Chaikin Money Flow negatif bölgeye geçtiğinde dağıtım ve satış 
+baskısı belirlenir. RSI merkez çizgisi olan 50'nin altına düştüğünde fiyat momentumu doğrulanır. 
+Bu tarama, daha fazla analiz ve gerekli özen için bir başlangıç   noktası olarak düşünülmüştür.
+[tür = stok] VE [ülke = ABD]
+VE [Günlük SMA(60,Günlük Hacim) > 100000] VE [Günlük 
+SMA(60,Günlük Kapanış) > 10]
+VE [0 Günlük CMF'yi (20) geçer]
+VE [50 Günlük RSI(14,Günlük Kapanış)'ı keser]
+Chaikin Money Flow taramaları için kullanılacak sözdizimi hakkında daha fazla ayrıntı için lütfen şuraya 
+bakın: Tarama Göstergesi Referansı Destek Merkezi'nde.
+Not: Tarama amaçları için, günlük hacim verileri işlem günü boyunca eksiktir. CMF gibi 
+hacim tabanlı göstergelerle taramalar çalıştırırken, taramayı "Son Piyasa Kapanışı"na 
+dayandırdığınızdan emin olun. Diğer hacim tabanlı göstergelere örnek olarak Birikim/
+Dağıtım, Denge Hacmi ve PVO verilebilir.
+Daha İleri Çalışma
+Bu kitap her şeyi basit ve açık açıklamalarla ele alıyor. Murphy, çoğu önemli grafik 
+desenini ve göstergesini ele alıyor. Hacim ve açık faizi anlamaya ayrılmış tam bir bölüm 
+var.
+Finansal Piyasaların Teknik Analizi John 
+J. Murphy
+10/11www.forexgercekleri.xyz - [Twitter: @eseckal]

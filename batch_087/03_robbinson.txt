@@ -1,0 +1,1034 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 4\Baskı 4\Yüksek Kazanç Oranlı Günlük Trading Kurulumları - Marcel Robbinson (70 sayfa) - @eseckal.pdf
+PAGES: 70
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+Yüksek Kazanma Oranı
+Günlük Ticaret Kurulumları
+2023'te Kripto ve Forex Ticareti İçin Yüksek Kazanma Oranlı Günlük Ticaret Stratejileri
+Başlarken
+1. Kârlı Bir Ticaret Stratejisi Geliştirmek
+2. Avantaj Bulmak İçin Göstergeleri Kullanmak
+Ortalama Geri Dönüş Göstergeleri 
+Trend Takip Göstergeleri
+Trendli/Yan Piyasaları Belirlemek İçin Filtreleri Kullanma 
+Koparma/Konsolidasyon Filtresi (TradingView göstergesi)
+3. Göstergeleri Kullanarak Yüksek Kazanma Oranı Giriş/Çıkış Sinyalleri
+Gösterge Giriş/Çıkış #1:Bjorgum MTF MA
+Gösterge Giriş/Çıkış #2: Balina Pompa Dedektörlü L2 KDJ Gösterge 
+Giriş/Çıkış #3: STD Filtreli, N Kutuplu Gauss Filtresi [Loxx] Gösterge 
+Giriş/Çıkış #4: Trend Tetikleme Faktörü
+Gösterge Girişi/Çıkışı #5: Kaufman Hareketli Ortalama Uyarlanabilir (KAMA) 
+Gösterge Girişi/Çıkışı #6: AlphaTrend
+Gösterge Giriş/Çıkış #7: Açılı Saldırı Takip Hattı Gösterge 
+Göstergesi Giriş/Çıkış #8: Ters Bulucu
+Gösterge Girişi/Çıkışı #9: Sıfır Gecikme MACD Geliştirilmiş - Sürüm 1.2
+4. Yüksek Kazanma Oranlı Gün Ticaret Stratejileri
+Yüksek olasılıklı bir kurulumda aranacak beş şey 
+Strateji #1: Bollinger bantları + UT Bot
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Strateji #2: HalfTrend Çıkış Stratejisi Strateji 
+#3: MFI + HMA Ayırma Stratejisi Strateji #4: 
+BB Ters Çevirme Ölçeklendirme Stratejisi 
+Strateji #5: Pivot Bantlar Ölçeklendirme 
+Stratejisi Strateji #6: RSI ve BB Scalping 
+Stratejisi Strateji #7: UT Bot + KDJ
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Başlarken
+%70'in üzerinde kazanç oranına sahip bir günlük ticaret stratejisi oluşturmak imkansız 
+görünebilir, ancak aslında düşündüğünüzden çok daha kolaydır.
+Tutarlı bir şekilde yüksek kazanma oranı sağlayan bir strateji oluşturmak için hangi göstergelerin 
+kullanılabileceğinin ayrıntılarına gireceğiz ve en iyi sonucu veren belirli ayarları ortaya çıkaracağız.
+Piyasanın zirvelerini/diplerini tespit etme ve potansiyel yükselişleri gerçekleşmeden 
+önce belirleme teknikleri de dahil olmak üzere, deneyimli bir tüccar gibi piyasaları 
+nasıl analiz edeceğinizi öğreneceksiniz.
+Bu kitaptaki ticaret stratejileri, yüksek olasılıklı ticaret kurulumlarını bulmak için 
+doğru gösterge kombinasyonunu kullanan mekanik kurallara dayalı stratejilerdir.
+Başlayalım!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+1. Kârlı Bir Ticaret Stratejisi Geliştirmek
+Başarılı olmak için yatırımcıların sağlam strateji ve risk yönetimi ilkeleri kullanması 
+gerekir. Burada herhangi bir kârlı ticaret sisteminin temel unsurlarını özetliyoruz:
+Girdileri
+Girişler başarılı bir ticaret sisteminin anahtarıdır ve piyasada bir 
+pozisyona girmenin en avantajlı olduğu zamanı belirlemeyi içerir.
+Yatırımcılar, ne zaman ticarete başlayacaklarını belirlemeye yardımcı olmak için 
+hareketli ortalamalar, destek/direnç seviyeleri veya momentum osilatörleri gibi 
+teknik göstergeleri kullanabilirler. Girişleri belirlerken yatırımcıların kendi risk 
+toleranslarının yanı sıra genel piyasa ortamını da dikkate almaları gerekir.
+Çıkışlar
+Çıkışlar da girişler kadar önemlidir ve bir pozisyona girmeden önce 
+planlanmalıdır.
+Yatırımcılar potansiyel çıkış noktalarını belirlemek için trend çizgileri veya fiyat hedefleri gibi teknik 
+göstergeleri kullanabilirler. İyi bir çıkış sinyali, yatırımcının fiyat tersine dönmeden önce bir 
+pozisyondan çıkmasına ve aynı zamanda karını maksimuma çıkarmasına olanak tanır.
+Yatırımcılar, çıkışlara yardımcı olmak için belirlenen kar hedeflerini kullanabilir veya takip eden bir stop 
+belirleyebilir. Takip eden stoplar özellikle faydalıdır çünkü fiyatların kendi lehlerine hareket etmeye 
+devam etmesi durumunda yatırımcının işlemde kalmasına izin verirken karı da kilitleyebilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Pozisyon Boyutlandırma
+Pozisyon büyüklüğü, herhangi bir ticaret sisteminin önemli bir unsurudur ve her bir 
+pozisyona ne kadar sermaye tahsis edilmesi gerektiğini ifade eder. Yatırımcılar, her bir 
+pozisyona ne kadar tahsis edeceklerine karar verirken genel piyasa ortamının yanı sıra 
+risk toleranslarını da göz önünde bulundurmalıdır.
+Pozisyon boyutlandırma aynı zamanda yatırımcıların risklerini kontrol etmelerine ve potansiyel kayıpları 
+sınırlamalarına olanak tanır.
+Risk yönetimi
+Başarılı ticaret için risk yönetimi kritik öneme sahiptir. Buna gerçekçi kar hedefleri belirlemek 
+ve piyasanın pozisyonun tersine hareket etmesi durumunda kayıpları sınırlayacak koruyucu 
+stopların kullanılması da dahildir.
+Ek olarak, tüccarlar, farklılıklar, aşırı aşırı alım veya aşırı satış koşulları gibi piyasa 
+yorgunluğu belirtilerine ve yaklaşmakta olan bir trendin tersine döndüğünü işaret 
+edebilecek diğer fiyat hareketi ipuçlarına dikkat etmelidir.
+Yatırımcılar, bir ticaret sistemi oluştururken bu temel unsurları anlayıp 
+kullanarak piyasalardaki başarı şanslarını artırabilirler.
+Dikkatli çalışma ve pratikle, bireysel amaç ve hedeflere uygun, karlı bir 
+ticaret stratejisi geliştirmek mümkündür.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+2. Avantaj Bulmak İçin Göstergeleri Kullanmak
+Göstergeler tüm deneyim seviyelerindeki yatırımcılar için değerli bir varlık olabilir. 
+Göstergeler, bir menkul kıymetin fiyatına ve/veya hacmine dayalı matematiksel 
+hesaplamalardır.
+Yatırımcılar tarafından potansiyel ticaret fırsatlarını belirlemelerine ve işlemlere ne 
+zaman girip çıkacakları konusunda karar vermelerine yardımcı olmak için kullanılırlar. 
+Düzinelerce farklı gösterge türü vardır ve her birinin kendine özgü güçlü ve zayıf yönleri 
+vardır. Deneyimli yatırımcılar, piyasanın davranışına ilişkin daha iyi bir genel bakış elde 
+etmek için sıklıkla birden fazla göstergeyi bir arada kullanırlar.
+Ancak yeni başlayanlar, daha karmaşık stratejiler denemeden önce 
+nasıl çalıştığını anlamak için her seferinde bir göstergeyle 
+başlamalıdır.
+Göstergeleri kullanırken yatırımcıların göstergenin nasıl hesaplandığını, 
+amacını ve sağladığı sinyalin ne anlama geldiğini anlaması önemlidir.
+Örneğin, potansiyel trend dönüşlerini veya destek ve direnç seviyelerini 
+belirlemek için hareketli ortalama kullanılabilir. Öte yandan, piyasadaki aşırı 
+alım/aşırı satım koşullarını belirlemek için göreceli güç endeksi (RSI) 
+kullanılabilir. Farklı göstergeler, farklı ticaret tarzlarına ve hedeflerine 
+uygundur.
+Göstergeler genel olarak ortalamaya dönüş ve trend takibi olmak üzere iki ana 
+türe ayrılabilir.
+Ortalama Geriye Dönme Göstergeleri
+Ortalamaya dönme göstergeleri, bir varlığın tarihsel ortalama fiyatının (ortalama) 
+üstünde veya altında işlem yaptığını ölçmek için kullanılır.
+Fiyat ortalamadan çok uzaklaştığında tersine dönme veya ortalamaya 
+geri çekilme olasılığı yüksektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Bu stratejiler, fiyatların belirli bir aralıkta hareket ettiği piyasalarda en iyi sonucu 
+verir ve ölçeklendirme ve günlük ticaret stratejileri için fırsatlar sunar.
+Yatırımcılar Bollinger Bantları, Stokastik ve Göreceli Güç Endeksi gibi 
+göstergeleri kullanarak fiyatın ortalamanın çok üzerinde olduğunu 
+gösteren sinyalleri ararlar.
+Aşırı Alım/Aşırı Satış Sinyalleri
+Ortalamaya dönüş göstergeleri, fiyatın nerede tersine dönebileceğini belirlemek için 
+genellikle aşırı alım/aşırı satış sinyallerini kullanır. Bir göstergenin aşırı alımda olması, 
+fiyatın çok hızlı yükseldiğini ve muhtemelen geri çekileceğini gösterir.
+Tersine, bir göstergenin aşırı satılması, fiyatın çok hızlı düştüğünü ve 
+yakında trendin tersine dönebileceğini gösterir.
+Aşırı alım/aşırı satış koşullarının ardındaki fikir, eğer fiyat bir yönde çok hızlı 
+hareket ederse, bu hareketi destekleyecek yeterli alıcı veya satıcının olmayacağı 
+ve bunun tersine dönüşe yol açacağıdır.
+Trend Takip Göstergeleri
+Trend takipçileri, düzeltmeler veya geri dönüşler aramak yerine piyasa 
+trendlerinden yararlanmayı amaçladıkları için ortalama geri dönüş tüccarlarından 
+farklıdır.
+Bu göstergeler trendlerin yönünü belirlemek için kullanılırken, bir trend tersine 
+döndüğünde veya yeni bir trend başladığında giriş ve çıkış sinyalleri sağlar.
+En iyi trend takip göstergeleri, yeni bir trende mümkün olduğunca erken girmenizi sağlayacak ve 
+trend tersine dönmeden önce trendin mümkün olduğu kadar uzun süre içinde kalmanızı 
+sağlayacaktır.
+Trendli/Yan Piyasaları Belirlemek İçin Filtreleri Kullanmak
+Yatırımcıların farklı piyasa koşullarının farklı türde göstergeler ve stratejiler 
+gerektirdiğini anlaması önemlidir. Piyasalar trend halinde veya yatay hareket 
+ediyor olabilir ve her piyasa türünde hangi gösterge sinyallerinin en iyi şekilde 
+çalıştığını bilmek önemlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Yatırımcılar, bir pazarın trendde mi yoksa aralıkta mı olduğunu belirlemek için Ortalama 
+Yön Endeksi (ADX) gibi filtreler kullanır. ADX, bir trendin gücünü ölçer ve bir trendin ne 
+zaman tersine dönmeye veya yana doğru hareket etmeye başladığına dair bir gösterge 
+sağlar.
+Bir tüccar hangi tür piyasada bulunduğunu belirledikten sonra, o tür 
+ortam için özel olarak tasarlanmış göstergeleri kullanarak giriş/çıkış 
+sinyallerini buna göre ayarlayabilir.
+ADX
+Ortalama Yönlü Hareket Endeksi (ADX), trendin gücünü ve oynaklığı 
+ölçen teknik bir göstergedir. Değişen ve trend olan pazarları belirlemek 
+ve ortalamaya dönüş ölçeklendirme stratejileri için uygun olmayan daha 
+güçlü trendleri filtrelemek için kullanılabilir.
+ADX değeri 30'un altındaysa bu, zayıf bir trendi veya bir aralıkta yana doğru hareket 
+eden bir piyasayı gösterir.
+ADX'in 30'un altında olması, piyasanın güçlü bir trend değil, bir aralıkta olması muhtemel 
+olduğundan, bu, scalper'lar için ideal koşulların göstergesi olabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Değişen bir piyasayı gösteren 30'un altındaki ADX örneği
+Sonuç olarak, scalping belirli piyasa koşullarında karlı bir ticaret şekli 
+olabilir.
+Ölçeklendirmenin sizin için uygun olup olmadığına karar verirken genel eğilime ve piyasa 
+aktivitesine dikkat ettiğinizden emin olun. Ayrıca, herhangi bir işleme girmeden önce 
+piyasanın likiditesini de göz önünde bulundurmalısınız çünkü bu, kârınızı ve zararınızı 
+etkileyebilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Koparma/Konsolidasyon Filtresi (TradingView göstergesi)
+Koparma/Konsolidasyon Filtresi, değişen/trend piyasalarını belirlemek için 
+kolaylıkla en iyi göstergelerden biridir.
+Bu, TradingView topluluğu tarafından oluşturulan, TradingView'de bulunan 
+ücretsiz bir göstergedir.
+Bu Göstergeyi Bulmak İçin:
+TradingView'de gösterge arama kutusunu açın
+TipKoparma/Konsolidasyon Filtresi [jwammo12]gösterge arama 
+kutusunda
+Bu göstergenin yazarı yukarıdaki ekran görüntüsünde görüldüğü gibi jwammo12'dir.
+Nasıl çalışır
+Bu gösterge, mevcut eğilimin ne kadar güçlü olduğuna bağlı olarak yukarı veya aşağı 
+hareket eden tek bir çizgi kullanan ADX'e benzer.
+Bu gösterge 50'nin altındaysa fiyat konsolidasyon dönemindedir Bu gösterge 
+50'nin üzerindeyse fiyat trenddedir ve konsolidasyon içinde değildir
+Bu gösterge, bu sinyallerin görülmesini kolaylaştırmak için 50 seviyesinde sarı bir 
+çizgi içerir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Fiyatın değiştiğini gösteren 50'nin altındaki Koparma/Konsolidasyon Filtresi 
+örneği
+Gördüğünüz gibi bu gösterge aralıkları, konsolidasyon kırılmalarını ve 
+trendleri belirlemek için çok iyi çalışıyor.
+Bu Göstergeyi Ölçeklendirme için Kullanırken:
+Yalnızca Koparma/Konsolidasyon Filtresi açıksa işlemlere girin50'nin altında.
+Bu kitabın ilerleyen kısımlarında bu göstergeyi kullanan bazı karlı ölçeklendirme stratejilerine 
+bakacağız, bu benim en sevdiğim göstergelerden biri ve bunu birçok stratejimde 
+kullanıyorum.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+3. Göstergeleri Kullanarak Yüksek Kazanma Oranı Giriş/Çıkış Sinyalleri
+Bu bölüm TradingView grafik platformunda bulunan göstergelerden son 
+derece doğru giriş/çıkış sinyallerini içerir.
+Bunlar, diğer yatırımcıların TradingView'de oluşturup kodladığı ücretsiz 
+göstergelerdir. TradingView'de diğer üyelerin oluşturduğu binlerce 
+gösterge var, ancak bunlar benim bulduğum ve ölçeklendirme 
+stratejilerimde kullandığım en iyi göstergeler.
+Önemli -Bu göstergeler tek başına değil, tam bir ölçeklendirme stratejisinde 
+kullanılmalıdır. Ayrıca bu sinyalleri gerçek parayla kullanmadan önce geriye 
+dönük test etmeli ve kağıt ticareti yapmalısınız!
+TradingView'de bu göstergelere erişmek için:
+1. Bir TradingView hesabı (TradingView.com) oluşturun, ödeme yapmak istemiyorsanız 
+ücretsiz bir hesaba kaydolabilirsiniz.
+2. TradingView'de bir grafik açın ve üst araç çubuğunda bulunan "göstergeler" 
+simgesine tıklayın.
+3. Daha sonra aradığınız göstergeyi arama kutusuna yazmanız yeterlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+TradingView göstergesi arama kutusu
+Artık bu göstergeleri nasıl bulacağınızı bildiğinize göre başlayalım!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Gösterge Giriş/Çıkış #1:Bjorgum MTF MA
+Yazan: Bjorgum
+Bu göstergeyi bulmak için şunu yazın:Bjorgum MTF MA”TradingView'deki gösterge 
+arama kutusunda (tarafındanBjorgum)
+Genel bakış:
+Bu gösterge, trendleri ve trend geri dönüşlerini erken tespit etmede son 
+derece doğru olan hareketli bir ortalamadır.
+Fiyat, hareketli ortalamanın üstünde veya altında kapanıp kapandığında 
+sinyaller oluşur; bir sinyal oluştuğunda mumların rengi de değişir. Bu 
+gösterge, birkaç yanlış sinyalle sizi mümkün olduğu kadar uzun süre 
+trendlerde tutacaktır.
+Bu göstergeyi kullanırken mumların rengi trende bağlı olarak değişecektir; 
+mavi yükseliş trendini, kırmızı ise düşüş trendini gösterir.
+Ticaret tarzınıza daha iyi uyacak şekilde gösterge ayarlarında MA türünü 
+değiştirebilirsiniz. Bu göstergeyi düşük volatiliteye sahip yan piyasalarda 
+kullanmaktan kaçının çünkü bu koşullarda daha fazla yanlış sinyal oluşacaktır.
+Gösterge İpucu:
+DEMA ve HMA ölçeklendirme için daha iyiyken, EMA ve SMA 
+ticaret trendleri için daha iyidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Uzun Giriş:
+Bir mum MA'nın üzerinden geçer ve kapanır MA 
+çizgisinin rengi kırmızıdan maviye değişir 
+Mumun rengi kırmızıdan maviye değişir
+Uzun Çıkış:
+MA rengi maviden kırmızıya döner 
+MA'nın altında bir mum kapanır
+Mum rengi maviden kırmızıya değişir (daha az güvenilir)
+Bjorgum MTF MA'yı kullanan giriş ve çıkış sinyalleri örneği
+Kısa Giriş:
+Bir mum MA'nın altından geçip kapanıyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+MA çizgisi maviden kırmızıya değişiyor 
+Mum rengi maviden kırmızıya değişiyor
+Kısa Çıkış:
+MA rengi kırmızıdan maviye değişir
+Mum rengi kırmızıdan maviye değişir (daha az güvenilir)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Gösterge Girişi/Çıkışı #2: Balina Pompa Dedektörlü L2 KDJ
+Yazan: blackcat1402
+Bu göstergeyi bulmak için TradingView'deki gösterge arama kutusuna “Balina 
+Pompa Dedektörlü L2 KDJ” yazın (blackcat1402 tarafından)
+Genel bakış:
+Bu gösterge, stokastik osilatöre benzer bir momentum osilatörü olan KDJ 
+göstergelerinin bir varyasyonudur. Stokastikteki K ve D çizgilerini kullanır, ancak aynı 
+zamanda J çizgisi adı verilen başka bir çizgiyi de kullanır; dolayısıyla KDJ adı da 
+buradan gelir.
+Üç çizginin tümü belirli bir yönde kesiştiğinde sinyaller üretilir. KDJ ayrıca 
+giriş/çıkış sinyalleri için kullanılabilecek aşırı alım (100'ün üstü) ve aşırı 
+satım (0'ın altı) bölgelerini de içerir.
+KDJ'den gelen sinyaller en güvenilir olanı yatay piyasa koşulları 
+olacaktır.
+Gösterge İpucu:
+Ayarlarda KDJ'deki arka plan renklerini kaldırın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Uzun Giriş:
+Aşağıdakilerden biri kullanılabilir:
+KDJ'de yeşil bir "B" etiketi görünür 
+KDJ'nin üç çizgisi çaprazdır
+Uzun Çıkış:
+Aşağıdakilerden biri kullanılabilir:
+KDJ'de kırmızı bir "S" etiketi görünür Üç satırın 
+tümü aşağıya doğru çaprazlanır
+KDJ 100'ün üzerine çıktı (aşırı alım)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+L2 KDJ göstergesini kullanan giriş ve çıkış sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Kısa Giriş:
+Aşağıdakilerden biri kullanılabilir:
+KDJ'de kırmızı bir "S" etiketi görünür 
+KDJ'nin üç çizgisi aşağıya doğru çaprazlanır
+Kısa Çıkış:
+Aşağıdakilerden biri kullanılabilir:
+KDJ'de yeşil bir "B" etiketi görünür Üç satırın 
+tümü aşağıya doğru çaprazlanır
+KDJ 20 seviyesinin altını geçti (aşırı satış)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Gösterge Girişi/Çıkışı #3: STD Filtreli, N Kutuplu Gauss Filtresi 
+[Loxx]
+Loxx tarafından
+Bu göstergeyi bulmak için TradingView'deki gösterge arama kutusuna "STD Filtreli, 
+N-Kutuplu Gauss Filtresi" yazın (Loxx tarafından)
+Genel bakış:
+Bu gösterge, gürültüyü filtreleyen çok düzgün bir hareketli ortalamaya benzeyen 
+Gauss filtresine dayanmaktadır. Bu gösterge aynı zamanda yanlış sinyalleri önlemek 
+için eklenebilecek filtreleri de kullanır.
+Bu göstergeden gelen sinyallerin tanımlanması kolaydır ve trend yönüne bağlı 
+olarak yeşil ile kırmızı arasında değişecektir.
+Alış ve satış okları da çubukların üstünde/altında görünecektir.
+Gösterge İpucu:Ayarlarda değiştirinFiltre seçenekleri“Fiyat”a gidin ve
+Filtre Sapmaları2'ye.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Uzun Giriş:
+Mum rengi yeşile döner
+Bir mumun altında sarı bir ok görünüyor
+Uzun Çıkış:
+Mum rengi kırmızıya döner
+MA çizgisinin altında bir mum kapanır Bir 
+mumun üzerinde mor bir ok belirir
+Bu göstergeyi kullanan giriş ve çıkış sinyali örneği
+Kısa Giriş:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Mum rengi kırmızıya döner
+Bir mumun üzerinde mor bir ok beliriyor
+Kısa Çıkış:
+Mum rengi yeşile döner MA çizgisinin 
+üzerinde bir mum kapanır Bir mumun 
+üzerinde sarı bir ok belirir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Gösterge Girişi/Çıkışı #4: Trend Tetikleyici Faktör
+Gönderen: everget
+Göstergeyi bulmak için TradingView'deki gösterge arama kutusuna "Trend Tetikleyici 
+Faktörü" yazın (everget'e göre)
+Genel bakış:
+Trend Tetikleme Faktörü (TTF) göstergesi RSI'ya benzer bir 
+osilatördür. TTF'nin RSI'dan farkı, aşırı alım/aşırı satım sinyallerinin 
+daha güvenilir olması ve RSI'ya göre daha az yanlış sinyal üretmesidir.
+Bu nasıl kullanılır:
+Aşırı alım/aşırı satım gösterge sinyallerinin çoğunda olduğu gibi, TTF de yatay 
+piyasalarda en doğru sinyalleri sağlayacaktır.
+OB/OS sinyali oluştuğunda, bunu geçerli bir sinyal olarak kullanmadan önce 
+TTF'nin aşırı alım/aşırı satımdan çıkmasını beklemek önemlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Uzun Giriş/Kısa Çıkış:
+TTF aşırı satış bölgesinden çıkıyor
+Kısa Giriş/Uzun Çıkış:
+TTF aşırı alım bölgesinden çıkıyor
+TTF göstergesini kullanan Giriş/Çıkış sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Gösterge Girişi/Çıkışı #5: Kaufman Hareketli Ortalama Uyarlanabilir 
+(KAMA)
+Tarafından
+Bu göstergeyi bulmak için şunu yazın:Kaufman Hareketli Ortalama Uyarlanabilir”
+TradingView'deki gösterge arama kutusunda (tarafındanHPotter)
+Genel bakış:
+KAMA, trend olmayan fiyat hareketlerini filtrelemek ve yalnızca trend 
+oluştuğunda fiyatı takip etmek için tasarlanmış hareketli bir ortalamadır.
+Yatay bir piyasada bu hareketli ortalama akış halinde görünecek ve yalnızca fiyat 
+trend halindeyse eğime sahip olacaktır. Bu, trend olmayan piyasalarda diğer 
+hareketli ortalamalarla ortaya çıkan keskin sinyalleri azaltır.
+Uzun Giriş:
+Bir mum KAMA'nın üzerinden geçip kapanıyor 
+KAMA'nın yukarı doğru bir eğimi var
+Uzun Çıkış:
+KAMA'nın altında bir mum kapanıyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+KAMA kullanarak uzun giriş ve çıkış sinyalleri
+Kısa Giriş:
+Bir mum KAMA'nın altından geçip kapanıyor 
+KAMA'nın aşağı doğru bir eğimi var
+Kısa Çıkış:
+KAMA'nın üzerinde bir mum kapanıyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Gösterge Girişi/Çıkışı #6: HalfTrend Göstergesi
+Gönderen: everget
+Göstergeyi bulmak için TradingView'deki gösterge arama kutusuna "halftend" 
+yazın (everget'e göre)
+Genel bakış:
+Yarı trend göstergesi, piyasadaki kısa vadeli zirveleri ve dipleri doğru bir şekilde tahmin 
+etmek için mükemmeldir.
+Bir alım veya satım sinyali oluştuğunda, fiyatın altında veya üstünde bir ok belirecektir, bu da 
+bunun kullanımını ve anlaşılmasını çok kolaylaştırır.
+Bu gösterge, volatilitenin yüksek olduğu ve fiyat dalgalanmalarının daha yüksek olduğu piyasalarda en 
+iyi şekilde çalışacaktır.
+Volatilite çok düşük olduğunda bu gösterge daha az güvenilir olacak ve daha fazla yanlış 
+sinyal üretecektir.
+Not -Düşük volatiliteli piyasa koşullarında aşağıdaki ayarlarla daha iyi 
+sinyaller alabilirsiniz:
+Genlik 1
+Kanal Sapması 1
+Gösterge ipucu –Bu göstergenin daha kolay görülebilmesi için ayarlarda ATR 
+yüksek/düşük kutularını kapatın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Uzun Giriş:
+Bir mumun altında mavi ok beliriyor 
+Çizgi mavi renge dönüşüyor
+Uzun Çıkış:
+Aşağıdakilerden birini seçin:
+bir mumun üzerinde kırmızı ok 
+beliriyor Çizgi kırmızı renge dönüşüyor
+Ayarı trend göstergesini kullanan giriş/çıkış sinyallerinin ekran görüntüsü
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Kısa Giriş:
+Bir mumun üzerinde kırmızı ok beliriyor 
+Çizgi kırmızıya dönüşüyor
+Kısa Çıkış:
+Aşağıdakilerden birini seçin:
+bir mumun altında mavi ok belirir 
+Çizgi mavi renge dönüşür
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Gösterge Girişi/Çıkışı #6: AlphaTrend
+Yazan: KıvançÖzbilgic
+Göstergeyi bulmak için “ yazınAlfaTrend”TradingView'deki gösterge arama 
+kutusunda (tarafındanKıvançÖzbilgic)
+Genel bakış:
+Bu gösterge, hareketli ortalamalara benzer şekilde fiyatı takip edecek olan ATR'yi 
+(ortalama gerçek aralık) temel alan iki çizgi içerir. Bu çizgiler kesiştiğinde alım/satım 
+sinyalleri oluşacaktır.
+Bu gösterge, çok fazla yanlış sinyal olmadan piyasadaki büyük fiyat dalgalanmalarını 
+doğru bir şekilde tahmin edebilir.
+Bu göstergenin kullanımı oldukça kolaydır, ATR çizgileri kesiştiğinde ve bir sinyal 
+oluştuğunda “al” veya “sat” etiketi görünecektir.
+Bu gösterge, büyük fiyat dalgalanmalarının meydana geldiği yüksek volatilitede en iyi şekilde 
+çalışacaktır.
+Volatilite çok düşükse bu göstergeyi kullanmaktan kaçının çünkü bu 
+koşullarda yanlış sinyaller üretecektir.
+Gösterge İpucu:Daha kolay görülebilmesi için bu göstergenin renklerini ayarlardan 
+değiştirebilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Uzun Giriş:
+Fiyat AlphaTrend'in üzerinde ve bir satın alma etiketi görünüyor
+Uzun Çıkış:
+Fiyat AlphaTrend'in altında kapanıyor Bir 
+satış etiketi görünüyor
+AphaTrend göstergesini kullanan Giriş/Çıkış sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Kısa Giriş:
+Fiyat AlphaTrend'in altında ve bir satış etiketi görünüyor
+Kısa Çıkış:
+Fiyat AlphaTrend'in üzerinde kapanıyor Bir 
+satın alma etiketi görünüyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Gösterge Giriş/Çıkış #7: Açı Saldırısı Takip Hattı Göstergesi
+By Dreadblitz
+Göstergeyi bulmak için “ yazınAçılı Saldırı Takip Hattı”TradingView'deki gösterge arama 
+kutusunda (tarafındanDehşet yıldırımı)
+Genel bakış:
+AAFLI, alım ve satım sinyalleri oluşturmak için Bollinger bantlarından hesaplamayı 
+da kullanan ATR tabanlı bir göstergedir. Bu benim en sevdiğim trend takip 
+göstergelerinden biridir ve piyasadaki trend değişikliklerini tespit etmede son 
+derece doğrudur.
+AAFLI, grafiğin alt kısmında histogram olarak görüntülenir. Bir sinyal 
+oluştuğunda mumlar trende bağlı olarak kırmızı ve mavi renkler arasında 
+değişecektir.
+Histogram üzerinde bir alım/satım etiketi de görünecek ve bu göstergedeki sinyalleri 
+tanımlamayı çok kolaylaştıracaktır.
+Gösterge İpucu:
+Ayarlarda –
+Histogramdaki arka plan renklerini kapatın "Al" ve 
+"satış" sinyalleri dışındaki tüm sinyalleri kapatın
+Uzun Giriş:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Mum rengi maviye döner
+Histogramda bir "satın al" etiketi görünür
+Uzun Çıkış:
+Mum rengi kırmızıya döner ve histogramda "sat" etiketi görünür
+AAFLI göstergesini kullanan giriş/çıkış sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Kısa Giriş:
+Mum rengi kırmızıya döner
+Histogramda bir "satın al" etiketi görünür
+Kısa Çıkış:
+Mum rengi maviye döner ve histogramda "satın al" etiketi görünür
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Gösterge Girişi/Çıkışı #8: Ters Bulucu
+Gönderen: NS91
+Bu göstergeyi bulmak için TradingView'deki gösterge arama kutusuna "geri dönüş 
+bulucu" yazın (NS91 ile)
+Genel bakış:
+Geri dönüş bulucu göstergesi, ters sinyaller oluşturmak için destek/direnç 
+seviyelerindeki yanlış kırılmaları tanımlar. Bu gösterge, bir sinyal oluştuğunda 
+mumun üstünde veya altında görünen tek noktalarla çok basittir. Bu gösterge, 
+doğru piyasa koşullarında kullanıldığında son derece doğru giriş/çıkış sinyalleri 
+üretir.
+Not–Yeşil ve kırmızı noktalar, sarı noktalardan çok daha güçlü ters 
+sinyallerdir.
+Ters bulucu göstergesi değişen/yan pazarlarda en iyi şekilde çalışacaktır. 
+Bu göstergeden gelen sinyaller güçlü trendli piyasalarda daha az güvenilir 
+olacaktır.
+En iyi sonuçları elde etmek için, bu göstergeyi trend olan pazarlarda kullanmaktan kaçınmak için bu 
+göstergeyi bir filtreyle kullanmayı deneyin.
+Gösterge İpucu:Gösterge ayarlarında daha az yanlış sinyal için aralığı çoklu olarak 2 
+olarak değiştirin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Uzun Giriş/Kısa Çıkış:
+Bir mumun altında yeşil veya nokta görünüyor
+Kısa Giriş/Uzun Çıkış:
+Bir mumun üzerinde kırmızı nokta görünüyor
+Geri dönüş bulucu göstergesini kullanan giriş/çıkış sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Gösterge Girişi/Çıkışı #9: Sıfır Gecikme MACD Geliştirilmiş - Sürüm 1.2
+Yazan: albert.callisto
+Göstergeyi bulmak için “ yazınSıfır Gecikme MACD Geliştirilmiş - Sürüm 1.2”
+TradingView'deki gösterge arama kutusunda (tarafındanalbert.callisto)
+Genel bakış:
+Bu, yaygın olarak kullanılan MACD (hareketli ortalama yakınsama ıraksama) 
+göstergesinin geliştirilmiş ve değiştirilmiş bir versiyonudur.
+Normal MACD gibi bu sürüm de alım/satım sinyali oluşturmak için MACD 
+(hızlı) hattını ve sinyal (yavaş) hattını kullanır. MACD'nin bu versiyonundan 
+üretilen sinyaller normal versiyona göre daha doğrudur ve daha az yanlış 
+sinyal içerir.
+Bu sürüm ayrıca başka bir EMA içerir ancak buna gerek yoktur ve bunu 
+ayarlardan kapatabilirsiniz.
+Bu göstergeyi kullanırken, daha yüksek oynaklıktaki fiyat hareketlerinde en iyi sonucu verir ve 
+kısa vadeli piyasa zirvelerini ve diplerini güvenilir bir şekilde tahmin edebilir. Bir geçiş sinyali 
+oluştuğunda gösterge üzerinde sinyallerin tanımlanmasını kolaylaştıran bir nokta 
+görünecektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Gösterge İpucu:
+Sinyal doğruluğunu artırmak için aşağıdaki gösterge ayarını değiştirin -
+Hızlı MM dönemi = 12 "EMA Kullan" 
+seçeneğinin işaretini kaldırın
+“Glaz algo kullan” seçeneğinin işaretini kaldırın
+Uzun Gir/Kısa Çıkış:
+MACD çizgisi sinyal çizgisinin üzerinden geçer (yeşil nokta görünür)
+Kısa Gir/Uzun Çıkış:
+MACD çizgisi sinyal çizgisinin altından geçiyor (kırmızı nokta görünüyor)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Sıfır gecikmeli MACD gelişmiş göstergesini kullanan Giriş/Çıkış sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+4. Yüksek Kazanma Oranlı Gün Ticaret Stratejileri
+Günlük ticaret borsada para kazanmanın heyecan verici bir yoludur. 
+Ancak büyük bir gelir kaynağı olsa da riskleri de var. Bu nedenle günlük 
+ticaret için kâr sağlama olasılığı daha yüksek olan iyi kurulumlar bulmak 
+önemlidir.
+Yüksek olasılıklı bir kurulumda aranacak beş şey
+1. Volatilite
+Volatilite, bir varlığın fiyatının belirli bir süre boyunca ne kadar hareket ettiğini 
+ifade eder; bir varlık ne kadar aktif ve değişken olursa, içinde ticaret fırsatları 
+bulma olasılığınız da o kadar artar. Günlük ticaret kurulumlarını ararken daha 
+yüksek düzeyde volatiliteye sahip varlıkları arayın.
+2. Sinyallerin Birleşmesi
+Sinyallerin birleşimi, iki veya daha fazla teknik göstergenin aynı anda bir 
+ticaret sinyali üretmesini ifade eder. Birden fazla gösterge aynı yöne işaret 
+ediyorsa, bu güçlü bir momentumun ve potansiyel olarak kârlı bir 
+kurulumun göstergesidir.
+3. İvme
+Momentum, bir varlığın fiyatının zaman içindeki değişim oranıdır. İyi gün 
+ticaret kurulumlarını ararken pozitif momentum gösteren varlıkları arayın 
+çünkü bunlar, negatif momentum gösterenlerden daha karlı olma 
+eğilimindedir.
+4. Trend Yönünde Giriş Sinyalleri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Kazanma oranı yüksek kurulumlar ararken her zaman trend yönünde 
+işlemlere girmelisiniz. Bu, eğer fiyat yükseliş eğilimindeyse giriş sinyalinizin 
+satın alma yönünde olması gerektiği anlamına gelir. Tersine, eğer fiyat 
+düşüş eğilimindeyse sinyaliniz satış yönünde olmalıdır.
+5. Risk/Ödül Oranı
+Risk/ödül oranı, potansiyel olarak kaybedebileceğiniz miktarla karşılaştırıldığında 
+elde edebileceğiniz potansiyel kâr miktarını ifade eder. Mümkün olduğunda, uygun 
+risk/ödül oranına sahip kurulumları arayın ve işlem yaparken her zaman zarar 
+durdurma stratejinizi dikkate alın.
+Bu yönergeleri takip ederek, kâr sağlama olasılığı daha yüksek olan günlük 
+ticaret kurulumlarını bulabilirsiniz.
+Şimdi bazı yüksek kazanma oranlı ticaret stratejilerine bir göz atalım!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Strateji #1: Bollinger bantları + UT Bot
+Strateji Türü:
+Trend takibi veya ölçeklendirme için kullanılabilir
+Stratejiye Genel Bakış:
+Bu, UT Bot göstergesinden gelen giriş sinyallerini kullanan bir ortalama geri döndürme 
+stratejisidir ve UT Bot'tan gelen yanlış sinyalleri filtrelemek için Bollinger bantlarını 
+kullanır.
+UT botu, çok doğru sinyaller üretebilen, ancak aynı zamanda piyasa gürültüsünden 
+yanlış sinyaller de üretebilen ATR tabanlı bir göstergedir. Bu strateji aynı zamanda 
+genel trend yönünde işlem yapmak için 200 SMA'yı da kullanır.
+Bu iki göstergenin birleşimi, az sayıda yanlış sinyalle yüksek kârlı 
+işlemler sağlayacaktır.
+Strateji Göstergeleri:
+Bollinger bandı(Varsayılan ayarları) 200 
+SMA(basit hareketli ortalama) UT Bot 
+Uyarısı(QuantNomad tarafından)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Uzun Giriş Koşulları:
+Fiyat 200 SMA'nın üzerinde
+Bir mum alt Bollinger bandına dokunuyor veya altında
+Mumun rengi yeşile döndüğünde ve mumun altında "satın al" sinyali 
+göründüğünde girin
+Uzun Çıkış Koşulları:
+Aşağıdakilerden birini kullanın:
+Bir mum üst Bollinger bandına dokunuyor (kafa derisi için daha iyi)
+Mum rengi kırmızıya döner ve mumun üstünde bir "satış" sinyali belirir 
+(trend ticareti için daha iyidir)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Bu stratejiyi kullanarak ölçeklendirme için uzun giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Bu stratejiyi kullanarak trend ticareti için uzun giriş ve çıkış
+Kısa Giriş Koşulları:
+Fiyat 200 SMA'nın altında
+Bir mum üst Bollinger bandına dokunuyor veya üstünde
+Bir mumun rengi kırmızıya döndüğünde ve mumun üzerinde bir "satış" sinyali 
+göründüğünde girin
+Kısa Çıkış Koşulları:
+Aşağıdakilerden birini kullanın:
+Bir mum alt Bollinger bandına dokunuyor (kafa derisi için daha iyi)
+Mum rengi yeşile döner ve mumun üzerinde bir "satın al" sinyali görünür 
+(trend ticareti için daha iyidir)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Strateji #2: HalfTrend Çıkış Stratejisi
+Strateji Türü:
+Trend takip stratejisi
+Stratejiye Genel Bakış:
+Bu, giriş ve çıkışlar için HalfTrend göstergesini kullanan bir trend takip 
+stratejisidir.
+Koparma/Konsolidasyon Filtresi göstergesi, bu koşullarda çok sayıda hızlı 
+(yanlış) sinyal oluştuğundan, yatay piyasa koşullarında işlemlere girmekten 
+kaçınmak için kullanılır.
+200 SMA aynı zamanda trend yönünde işlem yapmak için de kullanılır.
+Strateji Göstergeleri:
+Yarı Trend(everget tarafından) Koparma/Konsolidasyon 
+Filtresi(jwammo12 tarafından) 200 SMA
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Uzun Giriş Koşulları:
+Fiyat 200 SMA'nın üzerinde
+Koparma/Konsolidasyon Filtresi 50'nin üzerinde
+HalfTrend maviye döndüğünde ve mavi bir ok göründüğünde girin
+Uzun Çıkış Koşulları:
+HalfTrend Çizgisi kırmızıya dönüyor Bir 
+mumun üzerinde kırmızı bir ok beliriyor
+Bu stratejiyi kullanan uzun bir giriş ve çıkış örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Kısa Giriş Koşulları:
+Fiyat 200 SMA'nın altında
+Koparma/Konsolidasyon Filtresi 50'nin üzerinde
+HalfTrend kırmızıya döndüğünde ve kırmızı bir ok göründüğünde girin
+Kısa Çıkış Koşulları:
+HalfTrend Çizgisi maviye dönüyor Bir 
+mumun altında mavi bir ok beliriyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Strateji #3: MFI + HMA Ölçeklendirme Stratejisi
+Strateji Türü:
+Ölçekleme
+Stratejiye Genel Bakış:
+Bu strateji, MFI (para akışı endeksi) ve HMA (Gövde hareketli ortalama) 
+ayarıyla Bjorgum MTF MA üzerinde hareketli ortalama geçişini kullanır.
+Giriş sinyalleri, MFI hareketli ortalamayı geçtiğinde ve fiyat hareketli ortalamanın 
+üstünde/altında kapandığında ortaya çıkar. Bu stratejiyi kullanan işlemler genellikle 
+hızlı kafa derisi işlemleridir.
+Bu strateji aynı zamanda genel eğilim yönünde ticaret yapmak için 200 MA'yı da 
+kullanır.
+Strateji Göstergeleri:
+Bjorgum MTF MA(Bjorgum tarafından)
+* MA tipi #1'i şu şekilde değiştirin:HMAve MA #1'in uzunluğu65 
+MFIBirlikte18 SMAüzerine eklendi
+* MFI uzunluğunu 21 olarak 
+değiştirin 200 SMA
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Uzun Giriş Koşulları:
+Fiyat 200 SMA'nın üzerinde
+MFI SMA'nın üstünden geçerken 50 Mumun 
+altında HMA Mumunun rengi maviye döner ve 
+üzerinde kapanır
+Uzun Çıkış Koşulları:
+Aşağıdakilerden birini seçin:
+MFI, SMA Mumunun altından 
+geçerse rengi kırmızıya döner
+HMA'nın altında bir mum kapanıyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Bu stratejiyi kullanan uzun bir giriş ve çıkış örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+Kısa Giriş Koşulları:
+Fiyat 200 SMA'nın altında
+MFI SMA'nın altından geçerken 50'nin üzerinde 
+Mum HMA Mumunun altında kapanır ve rengi 
+kırmızıya döner
+Kısa Çıkış Koşulları:
+Aşağıdakilerden birini seçin:
+MFI, SMA Mumunun üzerinden 
+geçerse rengi maviye döner
+HMA'nın üzerinde bir mum kapanıyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Strateji #4: BB Tersine Çevirme Ayırma Stratejisi
+Strateji Türü:
+Ölçeklendirme/ortalama geri dönüş
+Stratejiye Genel Bakış:
+Bu, aralıklı/yan piyasa koşullarında ölçeklendirme için tasarlanmış ortalama bir 
+geri dönüş ticaret stratejisidir. Koparma/konsolidasyon filtresi, bu koşullardaki 
+işlemleri tanımlamak ve almak için kullanılır.
+Bollinger bantları ve ters bulucu giriş ve çıkışlar için kullanılır.
+Strateji Göstergeleri:
+Bollinger bandı (varsayılan ayarlar) Ters bulucu 
+göstergesi (NS91 ile) Koparma/Konsolidasyon 
+Filtresi (jwammo12 ile)
+Uzun Giriş Koşulları:
+Koparma/konsolidasyon filtresi 50'nin altında Fiyat 
+Bollinger bandının dışında veya alta dokunuyor Mumun 
+altında yeşil bir nokta görünüyor
+Uzun Çıkış Koşulları:
+Fiyat üst Bollinger bandına dokunuyor veya dışında Bir 
+mumun üzerinde kırmızı veya sarı bir nokta görünüyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Bu ölçeklendirme stratejisini kullanarak uzun bir giriş ve çıkış
+Kısa Giriş Koşulları:
+Koparma/konsolidasyon filtresi 50'nin altında Fiyat 
+Bollinger bandının dışında veya üst bandına dokunuyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+Mumun üzerinde kırmızı nokta görünüyor
+Kısa Çıkış Koşulları:
+Fiyat alt Bollinger bandına dokunuyor veya dışında Bir 
+mumun altında yeşil veya sarı bir nokta görünüyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Strateji #5: Pivot Bantları Ölçeklendirme Stratejisi
+Strateji Türü:
+Ölçeklendirme/ortalama geri dönüş
+Stratejiye Genel Bakış:
+Bu, piyasadaki kısa vadeli fiyat dalgalanmalarını ölçeklendirmek için CM pivot bantları 
+göstergesini ve Williams %R (willy) göstergelerini kullanan bir ölçeklendirme 
+stratejisidir.
+Fiyat, CM pivot bantlarının tepesine veya altına dokunduğunda muhtemelen fiyatın tersine 
+döneceği destek/direnç seviyeleri olarak hareket edecektir.
+Bu stratejide kullanılan Williams %R göstergesi RSI'ya benzer. Williams %R 
+göstergesinin bu versiyonu, sinyalleri tanımlamak için hareketli bir ortalama 
+kullanır.
+Bu strateji, yatay/aralıklı pazarlarda en iyi şekilde çalışacaktır; ADX, trenddeki 
+piyasa koşullarını filtrelemek için kullanılır.
+Strateji Göstergeleri:
+CM Pivot Bantları V1(ChrisMoody tarafından)
+* Uzunluğu şu şekilde değiştirin:20 
+Williams %R(Stuehmer tarafından) ADX
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+Uzun Giriş Koşulları:
+ADX 25'in altında
+Mumlar alttaki yeşil bantta kapanıyor
+Williams%R MA'nın üzerine geçtiğinde uzun girin
+Uzun Çıkış Koşulları:
+Aşağıdakilerden birini seçin:
+Fiyat üstteki kırmızı banda dokunuyor
+Williams%R MA'nın altından geçiyor
+Williams %R aşırı alım bölgesine (-80) geçti
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+Bu stratejiyi kullanan uzun bir giriş ve çıkış örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Kısa Giriş Koşulları:
+ADX 25'in altında
+Mumlar üstteki kırmızı bantta kapanıyor
+Williams%R MA'nın altına geçtiğinde kısa girin
+Kısa Çıkış Koşulları:
+Aşağıdakilerden birini seçin:
+Fiyat alt yeşil banda dokunuyor 
+Williams%R MA'nın üzerine geçiyor
+Williams %R aşırı satış bölgesine (-80) geçti
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+Strateji #6: RSI ve BB Ayırma Stratejisi
+Strateji Türü:
+Ortalama geri dönüş/ölçme
+Stratejiye Genel Bakış:
+Bu, yüksek olasılıklı girişleri/çıkışları belirlemek için RSI ve Bollinger bantlarını 
+kullanan bir ortalamaya dönüş ölçeklendirme stratejisidir. Bu iki gösterge, 
+menzile bağlı pazarlarda çok doğru OB/OS sinyalleri üretir.
+ADX, bu stratejide bir pazarın ne zaman konsolidasyon ve yatay hareket döneminde 
+olduğunu belirlemek için bir filtre olarak kullanılır.
+Strateji Göstergeleri:
+ADX
+RSI
+* RSI uzunluğunu 5 olarak değiştirin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Uzun Giriş Koşulları:
+ADX 25'in altında
+Fiyat aşağıda veya dibe dokunuyor BB
+RSI 30'un (aşırı satış) altında olduğunda ve aşırı satış bölgesinin dışına 
+çıktığında girin.
+Uzun Çıkış Koşulları:
+Aşağıdakilerden birini seçin -
+Fiyat tepe BB'nin üzerine dokunuyor veya 
+geçiyor RSI 70'in üzerine çıkıyor (aşırı alım)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+Bu stratejiyi kullanarak uzun bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+Kısa Giriş Koşulları;
+ADX 25'in altında
+Fiyat BB'nin üstünde veya en üst seviyeye dokunuyor
+RSI 70'in (aşırı alım) üzerinde olduğunda ve aşırı alım bölgesinin 
+dışına çıktığında girin.
+Kısa Çıkış Koşulları:
+Aşağıdakilerden birini seçin -
+Fiyat dip seviyenin altına dokunuyor veya geçiyor 
+BB RSI 30'un altını geçiyor (aşırı satış)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+Strateji #7: UT Bot + KDJ
+Strateji Türü:
+Ölçeklendirme veya trend takibi için kullanılabilir
+Stratejiye Genel Bakış:
+Bu strateji, trendleri doğru bir şekilde belirlemek için UT Bot Uyarısı göstergesini 
+ve trende mükemmel girişler için KDJ göstergesini kullanır.
+Trend'e girdikten sonra, ticaret tarzınıza ve tercihinize bağlı olarak, daha hızlı bir ticaret için onu terk etmeye 
+veya daha hızlı bir ticaret için kafa derisine çevirmeye karar verebilirsiniz.
+Bu strateji aynı zamanda genel eğilim yönünde işlem yapmak için 200 SMA'yı kullanır.
+Strateji Göstergeleri:
+UT Bot Uyarıları(QuantNomad tarafından)
+* Ayarları değiştir - Anahtar Değer = 3, ATR süresi = 30 Balina 
+Pompası Dedektörlü L2 KDJ(kara kedi 1402 tarafından)
+* KDJ'deki arka plan renklerini ayarlardan kapatabilirsiniz. 
+200 SMA
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+Uzun Giriş Koşulları:
+Fiyat 200 SMA'nın üzerinde
+Mum rengi yeşildir ve mumun altında bir satın alma etiketi görünür
+KDJ'de yeşil bir "B" harfi göründüğünde veya üç KDJ çizgisinin tümü 
+kesiştiğinde girin.
+Uzun Çıkış Koşulları:
+Aşağıdakilerden birini seçin:
+KDJ'de kırmızı bir "S" harfi görünür Üç 
+KDJ çizgisi aşağıya doğru kesişir
+Mum rengi kırmızıya döner ve mumun üzerinde bir satış etiketi görünür
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+Bu stratejiyi kullanan uzun giriş ve çıkış sinyali örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+Kısa Giriş Koşulları:
+Fiyat 200 SMA'nın altında
+Mum rengi kırmızıdır ve mumun üzerinde bir satış etiketi görünür
+KDJ'de kırmızı bir "S" harfi göründüğünde veya üç KDJ çizgisinin tümü aşağıya doğru 
+geçtiğinde girin.
+Kısa Çıkış Koşulları:
+Aşağıdakilerden birini seçin:
+KDJ'de yeşil bir "B" harfi görünür Üç KDJ 
+çizgisi aşağıya doğru kesişir
+Mum rengi kırmızıya döner ve mumun üzerinde bir satış etiketi görünür
+www.forexgercekleri.xyz - [Twitter: @eseckal]

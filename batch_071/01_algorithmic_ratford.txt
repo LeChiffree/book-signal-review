@@ -1,0 +1,1103 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 22\Baskı 22\Algoritmik Trading Stratejileri - Scotty Ratford (83 sayfa) - @eseckal.pdf
+PAGES: 83
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+giriiş
+Bölüm 1: Algoritmik Ticarete Giriş
+Algoritmik Ticaret Stratejilerinin Türleri 
+Algoritmik Ticaret Stratejisi Oluşturma
+Bölüm 2: Göstergeleri Kullanarak Karlı Giriş ve Çıkış Sinyalleri
+Gösterge Sinyali #1
+Gösterge Sinyali #2
+Gösterge Sinyali #3
+Gösterge Sinyali #4
+Gösterge Sinyali #6
+Gösterge Sinyali #7
+Gösterge Sinyali #8
+Gösterge Sinyali #9
+Gösterge Sinyali #10
+Gösterge Sinyali #11
+Gösterge Sinyali #12
+Gösterge Sinyali #13
+Gösterge Sinyali #14
+Bölüm 3: Algoritmik Scalping Stratejileri
+Dalgalı ve Durgun Piyasalar Risk-
+Ödül Oranlarını Kullanarak 
+Scalping Stratejisi #1
+Scalping Stratejisi #2
+Scalping Stratejisi #3
+Scalping Stratejisi #4
+Scalping Stratejisi #5
+Scalping Stratejisi #6
+Scalping Stratejisi #7
+Scalping Stratejisi #8
+Scalping Stratejisi #9
+Scalping Stratejisi #10
+Scalping Stratejisi #11
+Scalping Stratejisi #12
+Bölüm 4: Algoritmik Trend Ticareti Stratejileri
+Trend Stratejisi #1: VWMA Crossover Stratejisi Trend 
+Stratejisi #2: Pmax + NSM Gösterge Stratejisi Trend 
+Stratejisi #3: Aroon Trend Ticaret Stratejisi
+Trend Stratejisi #4: Nicel Nitel Tahmin Gösterge Stratejisi Trend 
+Stratejisi #5: SMMA Geçiş Stratejisi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Trend Stratejisi #6: RSI + PMax gösterge Stratejisi
+Bölüm 5: TradingView'da Kendi İşlem Botunuzu Nasıl Yaparsınız (Kodlama yok)
+Adım 1
+Adım 2
+Adım 3
+Adım 4
+Adım 5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+giriiş
+Kripto para piyasası yüksek oynaklığa sahip oldukça dinamiktir. Bu nedenle algoritmik ticaret, yatırımcıların 
+risklerini ve kaynaklarını verimli bir şekilde kontrol ederken algoritmalar kullanılarak yararlanılabilecek fırsatlardan 
+faydalanmaları için önemli bir araç haline gelmiştir. Algoritmik ticaret stratejileri için en yaygın hedef, etkili ve 
+sağlam bir ticaret algoritması uygulayarak kar elde etmektir.
+"Algoritmik ticaret" terimi, insan müdahalesi ve kontrolüne gerek kalmadan otomatik olarak gerçekleştirilen 
+işlemler için bir dizi kural veya talimata dayanan algoritmik ticaret yazılımını tanımlamak için de kullanılır. 
+Kullanımı kolay ticaret botu programlarının geliştirilmesiyle, algoritmik ticaret piyasalarda işlem yapmanın en 
+karlı yolu haline gelmiştir.
+Bunun başlıca nedeni, algoritmik ticaret sistemlerinin parametrelerle tasarlanmış olması ve bu sayede karı maksimize etmek ve insan 
+hatasını en aza indirmek için önceden programlanmış kuralları takip etmeleridir. Bu algoritmalar, piyasa koşullarıyla ilgili farklı 
+değişkenleri kullanabilir ve insan duygularının müdahalesi olmadan anında bunlara göre hareket edebilir.
+Bu kitapta, kripto para ticareti yapmak için kullanılan en başarılı algoritmik ticaret sistemlerinden bazılarını 
+inceleyeceğiz.
+Bu kitapta şunları ele alacağız:
+Kodlama veya para harcamadan kendi otomatik ticaret stratejinizi nasıl oluşturup çalıştırabilirsiniz? 
+Bitcoin ve diğer kripto paralar için son derece karlı scalping ve günlük ticaret stratejileri Kimsenin 
+bilmediği, karınızı büyük ölçüde artırabilecek TradingView'daki gizli göstergeler Profesyonellerin her 
+zaman karlı kalmak için kullandıkları risk yönetimi stratejileri
+Bu otomatik işlem stratejilerini kullanarak, içgüdü veya duygular yerine piyasa koşullarına dayalı işlemler yapabilirsiniz. 
+Ayrıca, bu sistemler 7/24 çalıştığı için, tüm gün bir ekrana yapışık kalma konusunda endişelenmenize gerek kalmaz.
+Sadece işlemlerinizi kurun ve uyurken para kazanmanıza izin verin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Bölüm 1: Algoritmik Ticarete Giriş
+Finans dünyasında algoritmik ticaret, önceden belirlenmiş parametrelere dayalı bir ticaret stratejisi kullanma 
+sürecidir.
+Algoritmik ticaret, "otomatik ticaret" veya kısaca "algoritmik ticaret" olarak da bilinir, belirli fiyat ve zamanlarda alım veya satım yapmak 
+üzere önceden belirlenmiş bir dizi talimatı (veya algoritmayı) izleyen otomatik bilgisayar programları kullanılarak menkul kıymetlerin 
+alınıp satıldığı bir süreçtir.
+Algoritmik ticaretin tek bir tanımı olmasa da, genellikle insan yargısı yerine önceden belirlenmiş kriterlere göre sipariş 
+vermek için bilgisayarların kullanılması anlamına gelir. Herhangi bir ticaret stratejisinin amacı, kar elde etmek için kötü 
+sinyalleri iyi sinyallerden ayırmaktır. Sınırlı kaynaklara ve zamana sahip bir insanın, tüm piyasa fırsatlarını 
+değerlendirmesi ve gelecekteki fiyat hareketlerini doğru bir şekilde tahmin etmesi, aynı zamanda işlemlerden duygusal 
+karar almayı ortadan kaldırması çok zordur. Algoritmik ticaret, ticaret sürecini otomatikleştirerek ve denklemden 
+duyguları kaldırarak bu boşluğu doldurur.
+Her ticaret stratejisinin, işlemleri başlatmak veya sonlandırmak için kullanılan kendi kuralları vardır ve bu işlemleri fiyat 
+hareketine, teknik göstergelere, zamana ve diğer önceden belirlenmiş koşullara göre yönetmek, bir ticaret algoritmasının işidir. 
+Algoritmik ticaret, eğilimleri yakalamak ve yeni karlı fırsatlar keşfetmek için büyük miktarda veriyi analiz etmek için modeller 
+kullanır. Bu süreç, veri kümeleri arasındaki herhangi bir deseni veya ilişkiyi tespit etmek için kullanılabilecek algoritmalar 
+oluşturmakla başlar, buna bir örnek, bir RSI göstergesindeki aşırı satılmış okumaya bakmak ve bir piyasa dibi bulmak için bunu bir 
+trend tersine çevirme sinyaliyle birleştirmek olabilir.
+Zamanla, bu desen tanıma ve tahmin süreci, işlem algoritmalarının geliştirilmesinde temel olarak kullanılan veri 
+kümesine geriye dönük testler veya makine öğrenimi teknikleri uygulanarak ince ayarlanabilir.
+Algoritmik Ticaretin Avantajları
+Algoritmik ticaret stratejilerinin hemen hemen hepsinin paylaştığı ortak avantajlardan bazıları şunlardır:
+Duygu yok - stres yok - bunun doğru karar olup olmadığı konusunda ikinci bir tahmin yok (kendini suçlayamazsın)
+- Stratejiler geçmiş verilerle geriye dönük olarak test edilebilir ve paranızı riske atmadan bir deneme hesabında 
+test edilebilir.
+Bu stratejiler kolayca otomatikleştirilebilir ve sizin için 7/24 işlem yapacak bir ticaret botuna programlanabilir
+Kurallarınız etrafındaki çeşitli parametreleri ayarlayarak stratejinizi kolayca optimize edebilir ve karınızı 
+maksimize edebilirsiniz.
+Algoritmik Ticaret Stratejilerinin Türleri
+Algoritmik ticaret stratejileri iki ana gruba ayrılabilir:
+Ortalamaya Geri Dönüş Stratejileri 
+Trend Ticareti Stratejileri
+Ortalamaya Dönüş -Ortalamaya dönüş ticareti, varlık fiyatlarının zaman içinde ortalama değerlerine döneceği ve 
+fiyatlardaki geçici sapmalardan kar elde edileceği varsayımına dayanır.
+Ortalamaya dönüş ticaretinin yaygın bir biçimi, RSI gibi bir gösterge aşırı satıldığında satın almak ve aşırı 
+satın alındığında satmaktır.
+Ortalamaya dönüş işlem stratejileri, piyasa bir işlem aralığında yatay hareket ettiğinde en iyi şekilde çalışır ve ortalamaya dönüş stratejisi, o aralığın 
+en düşük seviyesine yakın bir yerden satın almak ve en yüksek seviyesine yakın bir yerden satmaktır.
+Trend Ticareti -Trend ticareti, piyasada oluşan trend dalgalarını belirleme ve bunlara binme sürecidir. Trend ticaretinin 
+amacı, ortaya çıkan bir trende mümkün olduğunca erken girmek ve tersine dönene kadar içinde kalmaktır.
+Bu, çeşitli farklı teknik göstergeler aracılığıyla yapılabilir. Trendlerde işlem yapmak için en yaygın kullanılan araçlar 
+hareketli ortalamalar ve RSI gibi momentum göstergeleridir.
+Trend ticareti stratejileri genellikle RSI, MACD veya stokastik gibi momentum göstergelerini kullanır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Bir trendin gücünü belirlemek ve trendi doğrulamak için hareketli ortalamalar gibi göstergeleri takip etmek.
+Algoritmik Bir Ticaret Stratejisi Oluşturma
+Karlı bir algoritmik işlem stratejisi üç ana bileşeni içermelidir: giriş kuralları, çıkış kuralları ve zararı durdur/
+risk yönetimi.
+Giriş kuralları-Bu, bir pozisyonun ne zaman açılması gerektiğini belirleyen bir stratejinin parçasıdır. Algoritmanız bir varlığın 
+tüm giriş kriterlerini karşıladığını tespit ettiğinde, bir işlem açılacaktır.
+İyi bir algoritmik işlem stratejisi, farklı göstergelerden gelen birden fazla giriş sinyalini kullanır; en az bir 
+gösterge trend yönünü doğrularken, diğeri doğru bir giriş sinyali sağlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+İyi bir algoritmik ticaret stratejisi giriş kurallarının nasıl görüneceğine dair bir örnek şöyledir: 
+Not:Bu strateji 5 dakikalık zaman dilimini kullanacak
+"5 dönemlik RSI 30'un altındaysa, fiyat 200 EMA'nın üzerindeyse ve 1 dakikalık MACD yukarı doğru kesişiyorsa uzun pozisyona girin"
+Bu stratejiyi kullanarak giriş kurallarına (yeşil daireler) ve girişe (yeşil ok) örnek Bu algoritmik 
+işlem stratejisinde, yalnızca üç koşulun da sağlanması durumunda işlem yapılır.
+Çıkış kuralları -Çıkış stratejileri, bir işlem açıldıktan sonra ne yapılacağını belirler. Çıkış stratejiniz, fiyat bir kar hedefine veya 
+zarar durdurma limitine ulaştığında bir pozisyonu kapatmak üzere programlanmalıdır. Çıkış kuralları, kar elde etmek ve 
+zararları en aza indirmek için olmazsa olmazdır, bu nedenle işlem başlamadan önce bunları uygulamanız önemlidir!
+İyi bir çıkış stratejisinin nasıl olması gerektiğine dair bir örnek şöyledir:
+"5 dönemlik RSI aşırı alımdan sonra 70'in altına düşerse veya fiyat %1'den fazla düşerse tüm açık pozisyonları kapatın"
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Bu stratejiyi kullanarak zararı durdurma (sarı çizgi), çıkış kuralları (kırmızı daire) ve çıkış (kırmızı ok) örneği
+Bu algoritmik işlem stratejisinde, açılmış olan herhangi bir pozisyon, RSI 70'in altına düştüğünde veya fiyat ilk işleminize karşı %1 
+oranında hareket ettiğinde otomatik olarak kapatılır; bu, daha fazla kaybın önlenmesine yardımcı olur.
+Stratejilerinizi her zaman önce Backtest/Papertrade edin
+Geriye dönük test, bir stratejiyi geçmişte kullanmış olsaydınız ne kadar iyi performans göstereceğini görmek için onu tarihsel 
+veriler üzerinde test etme sürecidir. Karlı yatırımcılar her zaman algoritmik ticaret stratejilerini tarihsel fiyat hareketlerine göre 
+test ederler. Stratejinizi test etmenin bir diğer yolu da kağıt ticaretidir. Burada stratejinizi gerçek para kullanmadan gerçek 
+zamanlı olarak test edersiniz.
+Gerçek parayla herhangi bir işlem stratejisi kullanmadan önce, karlı olduklarından emin olmak için stratejilerinizi her zaman geriye dönük test etmeli 
+ve kağıt ticareti yapmalısınız. Bu ayrıca, karınızı maksimize etmek için stratejilerinizi ayarlamanıza ve optimize etmenize olanak tanır.
+Önemli Noktalar:
+Algoritmik işlem stratejileri, tüm mevcut verileri nesnel bir şekilde ele alarak daha iyi işlem kararları almanıza yardımcı 
+olacaktır. Bu algoritmaları kendiniz için tasarlarken, giriş sinyalleri, çıkış stratejileri ve risk yönetimi parametreleri gibi 
+ortak unsurların yanı sıra her strateji türü için belirli kurallara (ortalama geri dönüş, trend takibi vb.) dayalı işlemleri 
+otomatikleştirmek için kullanılabilen göstergeleri içermeleri gerektiğini unutmayın.
+Unutmayın, kripto para ticareti söz konusu olduğunda "ayarla ve unut stratejisi" diye bir şey yoktur. Bunların 
+sürekli olarak izlenmesi ve piyasa koşullarına göre ayarlanması gerekir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Bölüm 2: Göstergeleri Kullanarak Karlı Giriş ve Çıkış Sinyalleri
+Herhangi bir işlem stratejisinin en önemli yönlerinden biri, piyasaya ne zaman girip çıkacağınızı belirlemektir. 
+Algoritmik işlem, ne zaman alım veya satım yapacağınızı belirlemek için belirli sinyaller kullanır. Bir algoritma 
+oluştururken, başarılı bir işlem olasılığını en üst düzeye çıkarırken riski en aza indirmek için alım ve satım sinyallerini 
+diğer göstergelerle birlikte kullanmak önemlidir.
+Bir göstergeden alım veya satım sinyali seçerken, bu sinyaller için hangi piyasa koşullarının en iyi şekilde çalışacağını 
+bilmelisiniz. Örneğin, RSI'daki aşırı alım okumaları, yatay hareket eden piyasalarda güvenilir satış sinyalleri olacaktır, ancak 
+güçlü trend piyasalarında çok daha az güvenilir olacaktır. Bu nedenle algoritmanızda en az bir trend doğrulama göstergesi 
+kullanmanızı öneririm. Trend doğrulama göstergesi, piyasanın trend olup olmadığını ve trendin hangi yönde olduğunu 
+gösterecektir. Bu, trend olmayan veya aralıklı koşullarda yanlış sinyallerden kaçınmanıza yardımcı olacaktır.
+Kullandığınız alım ve satım sinyallerinin beklenen fiyat hareketi gerçekleşmeden önce sinyal üretmesi önemlidir. 
+Bu, en düşük fiyattan girip en büyük karla çıkma şansınızı en üst düzeye çıkaracaktır. Piyasa zaten yukarı hareket 
+ettikten sonra alım yaparsanız, karla satabileceğinizin veya hatta zarar etmeyeceğinizin garantisi yoktur.
+Stratejiniz için bir alım/satım sinyali seçerken dikkate alınması gereken bir diğer önemli şey, çok fazla yanlış sinyal 
+vermemesidir, bu algoritmanızın kârsız olmasına neden olabilir. Bunu çözmenin bir yolu, sinyalleri güçlendirmeye ve 
+güvenilirliklerini artırmaya yardımcı olabilecek birden fazla göstergeyi birlikte kullanmaktır.
+Örneğin, RSI'da stokastik bir çaprazlama ve aşırı satım/aşırı alım okuması kullanabilirsiniz. Çaprazlama Stokastik'te 
+20'nin altında gerçekleşirse ve RSI aşırı satım koşulları gösteriyorsa, yakında gerçekleşecek güçlü bir yukarı 
+hareketin iyi bir şansı olduğundan emin olabilirsiniz. Bu iki sinyali stratejiniz için bir alım koşulu olarak birlikte 
+kullanabilirsiniz.
+Alım/satım sinyallerinizi seçerken dikkate almanız gereken son şey, bunların hızlı bir scalping/kısa vadeli işlem için uygun olup 
+olmadığı veya daha uzun vadeli trend işlemleri için daha iyi olup olmadığıdır. Örneğin, RSI'daki aşırı aşırı satım/aşırı alım 
+okumaları kısa vadeli satış sinyalleri olarak kullanılabilirken, MACD'deki bir geçiş veya hareketli ortalama geçişleri trend işlemleri 
+için güvenilir sinyallerdir.
+Bu bölümde, doğru alım ve satım sinyalleri için kullanabileceğiniz TradingView'deki favori göstergelerimin bir listesini 
+ekledim.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Gösterge Sinyali #1: MACD'de Bollinger Bantları
+Nasıl bulunur:
+Bu, TradingView'de topluluk tarafından yapılmış bir göstergedir, bulmak için TradingView'deki gösterge arama kutusuna 
+"Bollinger Bands on Macd" yazın. Bu betiğin yazarı Dreadblitz'dir
+Nasıl çalışır:
+Bu gösterge MACD'yi Bollinger bantlarıyla birleştirir ve kullanımı çok basittir. MACD, bir yükseliş trendi 
+oluştuğunda Bollinger bantlarının üstüne, bir düşüş trendi devam ederken ise Bollinger bantlarının altına hareket 
+eder. Bunu bir trend doğrulama göstergesi olarak ve giriş/çıkış sinyalleri için kullanabilirsiniz.
+Gösterge Alım Sinyali:
+MACD çizgisi Bollinger üst bandının üzerinden geçer ve MACD çizgisi yeşil renge döner.
+Gösterge Satış Sinyali:
+MACD çizgisi Bollinger alt bandının altına iner ve MACD çizgisi kırmızıya döner.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Bu göstergeyi kullanarak satın alma (yeşil ok) ve satış (kırmızı ok) sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Gösterge Sinyali #2: PMax
+Nasıl bulunur:
+Bu, TradingView'de topluluk tarafından yapılmış bir göstergedir, bulmak için TradingView'deki gösterge arama 
+kutusuna "PMax Explorer STRATEGY & SCREENER" yazın. Bu betiğin yazarı KivancOzbilgic'tir.
+Nasıl Çalışır:
+Bu gösterge, ATR ve hareketli ortalamaların bir kombinasyonunu kullanan değiştirilmiş bir süpertrend göstergesidir. Bu gösterge, 
+trend dönüşlerini göstermek için tasarlanmıştır ve çok iyi bir trend doğrulama göstergesidir.
+Pmax indikatörü kullanımı kolaydır ve alım veya satım sinyali oluştuğunda size bilgi verir.
+Gösterge Alım Sinyali:
+PMax yeşil renge döner ve bir satın alma sinyali gösterir
+Gösterge Satış Sinyali:
+Pmax kırmızıya döner ve satış sinyali gösterir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Bu göstergeyi kullanarak satın alma (yeşil ok) ve satış (kırmızı ok) sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Gösterge Sinyali #3: Nicel Nitel Tahmin QQE
+Nasıl bulunur:
+Bu, TradingView'de topluluk tarafından yapılmış bir göstergedir, bulmak için TradingView'deki gösterge arama 
+kutusuna "Quantitative Qualitative Estimation QQE" yazın. Bu betiğin yazarı KivancOzbilgic'tir.
+Nasıl Çalışır:
+Bu gösterge, RSI'yi iki ATR çizgisiyle birleştirir, ATR çizgileri kesiştiğinde bu, alım ve satım sinyalleri sağlar. Bu gösterge, 
+üzerinde alım ve satım sinyalleri görüntüleyerek kullanımı kolaylaştırır.
+Bu göstergede aşırı alım ve aşırı satım seviyelerini, 30'un altında aşırı satım ve 70'in üstünde aşırı alım anlamına gelen sinyaller 
+için de kullanabilirsiniz
+Gösterge Alım Sinyali:
+Hızlı çizgi yavaş çizginin üzerinden geçtiğinde
+Gösterge Satış Sinyali
+Hızlı çizgi yavaş çizginin altından geçtiğinde
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Bu göstergeyi kullanarak satın alma (yeşil ok) ve satış (kırmızı ok) sinyallerine bir örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Gösterge Sinyali #4: Cobra'dan RMI
+Nasıl bulunur:
+Bu, TradingView'de topluluk tarafından yapılmış bir göstergedir, bulmak için TradingView'deki gösterge arama 
+kutusuna "Cobra'ya Göre Nicel RMI" yazın. Bu betiğin yazarı binary_trader66'dır.
+Nasıl Çalışır:
+RMI (göreceli momentum endeksi), RSI'ye benzer ve bir trendin momentumunu ölçer. Bu göstergenin 2 çizgisi vardır, RMI 
+çizgisi ve daha yavaş hareket eden bir ortalama.
+Gösterge Al/Uzun Giriş Sinyali:
+Hızlı çizgi (RMI) daha yavaş hareket eden ortalamanın üzerine çıktığında
+Veya
+RMI mavi renge dönüşür
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Çıkış Uzun Sinyali
+Hızlı çizgi (RMI) hareketli ortalamanın altına geçtiğinde
+Veya
+RMI kırmızıya döner
+Gösterge Kısa Sinyali:
+Hızlı çizgi (RMI) daha yavaş hareket eden ortalamanın altına geçtiğinde
+Veya
+RMI kırmızı renge dönüşür
+Çıkış Kısa Sinyali
+Hızlı çizgi (RMI) hareketli ortalamanın üzerine çıktığında
+Veya
+RMI maviye döner
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Bu göstergeyi kullanarak satın alma (yeşil ok) ve satış (kırmızı ok) sinyallerine bir örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Gösterge Sinyali #5: Normalleştirilmiş Yumuşatılmış MACD
+Nasıl bulunur:
+Bu, TradingView'de topluluk tarafından yapılmış bir göstergedir, bulmak için TradingView'deki gösterge arama 
+kutusuna "Normalized Smoothed MACD" yazın. Bu betiğin yazarı Dreadblitz'dir.
+Nasıl çalışır?
+Bu gösterge, MACD göstergesinin geliştirilmiş bir versiyonudur ve normal bir MACD'den daha güvenilir giriş ve çıkış 
+sinyalleri sağlar. Bu göstergede iki çizgi görüntülenir, sinyal çizgisi ve MACD çizgisi
+Gösterge Alım Sinyali:
+MACD çizgisi sıfır çizgisinin altında
+MACD sinyal çizgisinin üzerine çıkar ve MACD çizgisi yeşil renge döner
+Gösterge Satış Sinyali:
+MACD çizgisi sıfır çizgisinin üzerindedir ve kırmızıya döner
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Bu göstergeyi kullanarak satın alma (yeşil ok) ve satış (kırmızı ok) sinyallerine bir örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Gösterge Sinyali #6: Didi Endeksi
+Nasıl bulunur:
+Bu, TradingView'de topluluk tarafından yapılmış bir göstergedir, bulmak için TradingView'deki gösterge arama kutusuna 
+"Didi endeksi" yazın. Bu betiğin yazarı Sirdiamond21'dir.
+Nasıl Çalışır:
+Bu göstergenin iki çizgisi vardır, biri yeşil diğeri kırmızı çizgi. Piyasa yukarı doğru eğilim gösterdiğinde yeşil çizgi yukarı doğru 
+hareket eder ve aynı şekilde piyasa aşağı doğru eğilim gösterdiğinde kırmızı çizgi yukarı doğru hareket eder. Bu gösterge bir 
+trend doğrulama göstergesi olarak kullanılabilir veya ondan giriş ve çıkış sinyalleri de kullanabilirsiniz. Bu göstergedeki sinyaller, 
+iki çizgi kesiştiğinde veya bir çizgi sıfır çizgisinin üstünden geçtiğinde ortaya çıkabilir.
+Satın Alma Sinyalleri:
+Yeşil çizgi sıfır çizgisinin üstünden geçiyor 
+Yeşil çizgi kırmızı çizginin üstünden geçiyor
+Satış Sinyalleri:
+Kırmızı çizgi sıfır çizgisinin üstünden geçiyor 
+Kırmızı çizgi yeşil çizginin üstünden geçiyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Bu göstergenin cr0ssover stratejisini kullanarak satın alma (yeşil daire) ve satış (kırmızı daire) sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Gösterge Sinyali #7: +TRSI
+Nasıl bulunur:
+Bu, TradingView'de topluluk tarafından yapılmış bir göstergedir, bulmak için TradingView'deki gösterge arama 
+kutusuna “+TRSI” yazın. Bu betiğin yazarı ClassicScott'tur.
+Nasıl çalışır?
+Bu, çeşitli hareketli ortalamalarla birleştirebileceğiniz ve RSI'ın son derece özelleştirilmiş bir versiyonunu oluşturabileceğiniz 
+bir RSI'dır.
+Bu göstergenin en iyi yanı, RSI'da alım ve satım sinyalleri göstermesidir. Alım sinyalleri için yeşil bir daire ve satış 
+sinyalleri için kırmızı bir daire görünecektir.
+Bu göstergeyle oynayabilir ve en iyi sonuçları elde etmek için onu optimize edebilirsiniz.
+Gösterge Satın Alma Sinyali
+RSI, MA'nın üstünden geçer (yeşil bir nokta görünür)
+Gösterge Satış Sinyali
+RSI, MA'nın altına geçer (kırmızı bir nokta belirir)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Bu göstergeyi kullanarak satın alma (yeşil ok) ve satış (kırmızı ok) sinyallerine bir örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Gösterge Sinyali #8: Aroon
+Nasıl bulunur:
+Bu, TradingView'da yerleşik bir göstergedir; gösterge arama kutusuna "aroon" yazın.
+Nasıl çalışır?
+Aroon göstergesi, yatırımcıların potansiyel piyasa geri dönüşlerini tespit etmelerine ve tahmin etmelerine yardımcı olmak için kullanılan bir 
+teknik analiz aracıdır. Aroon göstergesi, yeni bir yüksek veya düşük seviyeye ulaşıldıktan sonraki dönem sayısını ölçen aroon up (AU) ve aroon 
+down (AD) olmak üzere iki çizgiden oluşur.
+AU ve AD değerleri ne kadar yüksekse, tersine dönme olasılığı o kadar yüksektir. İki çizgi 0-100 arasında 
+salınacaktır.
+Alım Sinyali:
+Aroon yukarı, aroon aşağının üstünden geçer
+Satış Sinyali:
+Aşağıdaki aroon yukarıdaki aroonun üstünden geçer
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Bu göstergeyi kullanarak satın alma (yeşil ok) ve satış (kırmızı ok) sinyallerine bir örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Gösterge Sinyali #9: Stokastik OTT
+Nasıl bulunur:
+Bu, TradingView'de topluluk tarafından yapılmış bir göstergedir, bulmak için TradingView'deki gösterge arama 
+kutusuna "Stochastic OTT" yazın. Bu betiğin yazarı KivancOzbilgic'tir.
+Nasıl çalışır?
+Bu gösterge stokastik osilatöre benzer, ancak stokastik osilatörü optimize edilmiş trend izleyici göstergesiyle 
+birleştirir. Bu, oynak hareketlerden kaynaklanabilen stokastik osilatör tarafından verilen yanlış sinyalleri azaltır.
+Not:
+Varsayılan ayarları değiştirmenizi öneririm, bu gösterge için şu ayarları kullanmayı deneyebilirsiniz: %K 
+Uzunluk = 100
+%K Düzeltme = 10 
+OTT periyodu = 2
+OTT yüzdesi = 0,5
+Gösterge Alım Sinyali:
+Hızlı çizgi yavaş çizginin üzerinden geçtiğinde
+Gösterge Satış Sinyali
+Hızlı çizgi yavaş çizginin altından geçtiğinde
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Bu göstergeyi kullanarak satın alma (yeşil ok) ve satış (kırmızı ok) sinyallerine bir örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Gösterge Sinyali #10: Stokastik Momentum Endeksi (SMI)
+Nasıl bulunur:
+Bu, TradingView'de topluluk tarafından yapılmış bir göstergedir, bulmak için TradingView'deki gösterge arama kutusuna 
+"Stochastic Momentum Index (SMI)" yazın. Bu betiğin yazarı surjithctly'dir.
+Nasıl çalışır?
+Bu gösterge normal bir stokastik ile benzerdir ve alım ve satım sinyalleri üretmek için kesişen iki çizgiden 
+oluşur. SMI daha düzgündür ve normal bir stokastiğe göre daha doğru giriş ve çıkış sinyalleri sağlar.
+Gösterge Alım Sinyali:
+SMI aşırı satılmış ve yeşil renge dönmüştür SMI 
+yukarı doğru çaprazlanmıştır
+Gösterge Satış Sinyali:
+SMI aşırı alımda ve kırmızıya dönüyor 
+SMI aşağı doğru geçiyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Bu göstergeyi kullanarak satın alma (yeşil ok) ve satış (kırmızı ok) sinyallerine bir örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Gösterge Sinyali #11: + REX Osilatörü
+Nasıl bulunur:
+Bu, TradingView'de topluluk tarafından yapılmış bir göstergedir, bulmak için TradingView'deki gösterge arama 
+kutusuna “+REX Osilatörü” yazın. Bu betiğin yazarı ClassicScott'tur.
+Nasıl çalışır?
+"Gerçek çubuk değerini" (TBV) ölçen ve bir sinyal çizgisi ve histogram (REX) olarak görüntülenen bu gösterge. Bu 
+gösterge sapmaları gösterebilir ve ayrıca aşırı alım/aşırı satım sinyallerini bulmak için kullanılabilir.
+Gösterge Alım Sinyali:
+Sinyal çizgisi sıfır çizgisinin üstünden geçiyor
+Veya
+Sinyal çizgisi aşırı satım durumunda REX'e doğru yukarı doğru geçiyor
+Gösterge Satış Sinyali
+Sinyal çizgisi sıfır çizgisinin altından geçiyor
+Veya
+Sinyal çizgisi aşırı alım durumunda REX'e doğru aşağı doğru geçiyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Bu göstergeyi kullanarak satın alma (yeşil ok) ve satış (kırmızı ok) sinyallerine bir örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Gösterge Sinyali #12: QQE Mod
+Nasıl bulunur:
+Bu, TradingView'de topluluk tarafından yapılmış bir göstergedir, bulmak için TradingView'deki gösterge arama kutusuna 
+"QQE Mod" yazın. Bu betiğin yazarı Mihkel00'dır.
+Nasıl çalışır?
+Bu gösterge QQE göstergesine benzer ve RSI'yi ATR göstergesiyle birleştirmeye dayanır. Bu gösterge bir 
+histogram olarak görüntülenecek ve QQE mod satırı
+Gösterge Satın Al/Uzun Sinyali
+Histogram çubuğu maviye döner
+Veya
+Histogram çubuğu kırmızı olduktan sonra griye dönüyor (daha riskli)
+Çıkış Uzun Sinyali
+Histogram çubuğu QQE mod çizgisinden daha düşük olduğunda uzun çıkış yapın
+Veya
+Bir histogram çubuğu mavi olduktan sonra griye döner
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Gösterge Satış/Kısa Sinyali
+Histogram çubuğu kırmızıya döner
+Veya
+Histogram çubuğu mavi olduktan sonra griye dönüyor (daha riskli)
+Çıkış Kısa Sinyali
+Kırmızı histogram çubuğu QQE mod çizgisinin üzerinde olduğunda kısa konumdan çıkın
+Veya
+Bir histogram çubuğu kırmızı olduktan sonra griye döner
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Bu göstergeyi kullanarak satın alma (yeşil ok) ve satış (kırmızı ok) sinyallerine bir örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Gösterge Sinyali #13: Bollinger Bantları
+Nedir/Nasıl bulunur?
+Bollinger bantları TradingView'de yerleşik bir göstergedir. Bunu bulmak için TradingView'deki gösterge arama kutusuna 
+"Bollinger bantları" yazmanız yeterlidir.
+Nasıl çalışır:
+Bollinger bantları, üst bant, baz çizgisi (orta çizgi) ve alt bant olmak üzere üç çizgiden oluşan bir göstergedir. 
+Baz çizgisi yalnızca basit bir hareketli ortalamadır ve iki bant, hareketli ortalamadan standart sapmaları temsil 
+eder.
+Bollinger bantları için varsayılan ayarlar baz için 20 uzunluk ve bantlar için 2 standart sapmadır, bu stratejide 
+Bollinger bantları için farklı ayarlar kullanacağım.
+Önemli:Değiştiruzunluk 40'a kadarveStandart sapma 0,8'eBu strateji için.
+Alım Sinyali:
+Bir mum Bollinger bandının üstünde kapanıyor
+Satış Sinyali:
+Bir mum, alt Bollinger bandının altında kapanır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Bu göstergeyi kullanarak satın alma (yeşil ok) ve satış (kırmızı ok) sinyallerine bir örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Gösterge Sinyali #14: Stokastik Ağırlıklar - Temel
+Nasıl bulunur:
+Bu, TradingView'de topluluk tarafından yapılmış bir göstergedir, bulmak için TradingView'deki gösterge arama 
+kutusuna "Stochastic Weights - Basic" yazın. Bu betiğin yazarı BigBitsIO'dur.
+Nasıl çalışır:
+Bu gösterge, %K ve %D çizgisine sahip normal bir stokastik ile benzerdir. Stokastik 80'in üzerine çıktığında aşırı alım, 20'nin 
+altına düştüğünde ise aşırı satım olarak kabul edilir. Bu gösterge, hesaplamalarında diğer değerleri de içerdiğinden normal 
+bir stokastikten daha doğru sinyaller verebilir.
+Not: Ayarlarda tüm stokastikleri etkinleştirmenizi öneririm
+Alım Sinyali:
+%K çizgisi %D çizgisinin üstünden 50'nin altındayken geçiyor
+Veya
+Stokastik aşırı satıldıktan sonra 20'nin üzerine çıktı
+Satış Sinyali:
+%K çizgisi 50'nin üzerindeyken %D çizgisinin altından geçiyor
+Veya
+Stokastik aşırı satıldıktan sonra 80'in altına geçti
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Bu göstergeyi kullanarak satın alma (yeşil ok) ve satış (kırmızı ok) sinyallerine bir örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Bölüm 3: Algoritmik Scalping Stratejileri
+Bu bölümdeki stratejiler günlük alım satım ve scalping için tasarlanmıştır. İkisi arasındaki fark, günlük alım satımda bir 
+yatırımcının genellikle bir menkul kıymeti scalping'e göre daha uzun süre, belki birkaç saat, tutması ve belki de günde 
+sadece 2-3 alım satım yapmasıdır. Scalping için tutma süresi genellikle dakikalarla ifade edilir.
+Bu stratejiler çoğunlukla momentum temellidir, yani momentum osilatörleri (RSI, MACD, stokastikler vb.) öncelikle giriş ve 
+çıkış sinyalleri için kullanılır. Momentum, ticarette çok faydalıdır, piyasadaki trend dönüşlerini ve yüksek volatiliteli fiyat 
+dalgalanmalarını tahmin etmek için harikadır. Scalping ve günlük ticaret stratejileri uygularken, sağlam bir risk yönetim 
+stratejisine sahip olmak önemlidir, bu her ticarette riskinizi sınırlamak için her zaman bir stop loss kullanmak anlamına gelir.
+Kârlı algoritmik scalping stratejileri genellikle dakikalar içinde pozisyonları açıp kapatarak bir yatırımcı için küçük 
+ama tutarlı kazançlar arayacaktır. Kısa vadeli fiyat değişiklikleri için birçok fırsat olabilir ve iyi bir algoritmik scalping 
+stratejisi bunlardan yararlanmayı amaçlayacaktır.
+Kısa vadeli fiyat hareketleri için her zaman fırsatlar vardır ve iyi bir algoritmik ticaret stratejisi bu fiyat 
+değişikliklerinden yararlanmayı amaçlar.
+Kârlı Algoritmik Scalping ve Günlük Alım Satım Stratejileri Şunları İçermelidir:
+- İyi giriş ve çıkış fiyatları bulma yeteneği
+- Her işlemde küçük ama istikrarlı kazançlar
+- Önemli bir düşüş yok
+- Çeşitli değişken piyasalarda çalışabilme
+Bir yatırımcının işlem stratejilerini seçme kararını etkileyebilecek faktörlerden bazıları şunlardır:
+- Her gün işlem yapmak için sahip oldukları zaman miktarı
+- Piyasa koşulları, piyasa işlem aralığında mı yoksa güçlü bir trendde mi?
+- Stratejinin kullanımı ne kadar kolay? Göstergelerin nasıl çalıştığını anlıyor musunuz? - Tarihsel getiriler/geri 
+çekilmeler nelerdir?
+Dalgalı ve Durgun Piyasalar
+Algoritmik ticaret stratejileri hem oynak hem de durgun piyasalarda kullanılabilir. Kripto paralar için daha durgun dönemler 
+genellikle daha az piyasa aktivitesinin olduğu hafta sonları veya oynaklığın az olduğu düz trendlerde gerçekleşir.
+Farklı algoritmik işlem stratejilerini incelerken, her stratejinin belirli koşullarda daha iyi çalıştığını 
+hatırlamanız önemlidir; bu nedenle, şu anda işlem yaptığınız piyasa türüyle iyi çalışacak bir strateji 
+seçmeniz önemlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Risk-Ödül Oranlarını Kullanma
+İşlemde risk-ödül oranı, basitçe, işlem aleyhinize giderse ne kadar kaybedeceğinize kıyasla ne kadar kazanacağınızdır. Risk 
+genellikle belirli bir yüzdede bir zarar durdurma kullanılarak belirlenir ve ödül belirli bir kar alma yüzdesidir. Bunun nasıl 
+çalıştığına dair bir örnek, birinin 2:1'lik bir risk-ödül oranı kullanması durumunda, bunun maksimum kaybın %1 (zarar 
+durdurma kullanılarak) ve maksimum karın %2 (kar alma limit emri kullanılarak) olduğu anlamına gelmesidir.
+Bu, scalping'de kullanmak için iyi bir stratejidir çünkü kazançlarınız her zaman kayıplarınızdan yüksek olacaktır ve bir stratejinin 
+kazanma oranı %50'den az olsa bile para kazanacaksınız. Bir risk-ödül oranı kullanırken belirli bir göstergeden gelen çıkış sinyallerine 
+güvenmeyeceksiniz, bunun yerine her zaman belirli bir yüzdede çıkmak için bir limit emri kullanacaksınız.
+Bu, bu bölümdeki stratejilere uygulayabileceğiniz bir kavramdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Scalping Stratejisi #1: RSI + VWMA
+Gerekli Göstergeler:
+200 dönem SMA
+9 dönem RSI
+RSI 12 SMA'ya 20 dönem VWMA (hacim ağırlıklı hareketli ortalama) 
+ekleyin
+Satın Alma Koşulları:
+Mumlar 200 SMA'nın üzerinde kapanıyor 
+RSI VWMA'nın üzerinde geçiyor
+Bir mum 12 SMA'nın üzerinde kapandığında satın alın
+Satış Koşulları:
+Bir mum 12 SMA'nın altında kapanıyor
+VEYA
+RSI 20 VWMA'nın altına düştü
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Bu stratejiyi kullanarak bir satın alma (yeşil ok) ve bir satış (kırmızı ok) örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Scalping Stratejisi #2: DMI Stoch + MACD Stratejisi
+Gerekli Göstergeler
+DMI Stokastik (Parçalara Göre Gösterge)
+Normalleştirilmiş Düzgünleştirilmiş MACD (Dreadblitz göstergesi)
+Not: Bu stratejiyi kısa pozisyon açmak için kullanmak üzere bu kuralları tersine çevirin
+Satın Alma Koşulları:
+MACD çizgisi yeşile dönüyor
+Mumun altında yeşil bir ok göründüğünde girin. Giriş mumunun 
+en düşük seviyesinin altına zararı durdur emrini yerleştirin.
+Satış Koşulları:
+MACD çizgisi kırmızıya dönüyor
+Not: Bu stratejiyi kısa pozisyon açmak için kullanmak üzere bu kuralları tersine çevirebilirsiniz
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Bu stratejiyi kullanarak bir satın alma (yeşil ok) ve bir satış (kırmızı ok) örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Scalping Stratejisi #3: Bollinger Bandı MACD + TM
+Gerekli Göstergeler:
+MACD'de Bollinger Bantları(Dreadblitz'in göstergesi) 
+Trend Magic (KivancOzbilgic'in göstergesi)
+Not: Bu stratejiyi kısa pozisyon açmak için kullanmak üzere bu kuralları tersine çevirin
+Satın Alma Koşulları:
+BB+MACD göstergesi yeşil
+TM göstergesi mavi olduğunda ve bir mum bunun üzerinde kapandığında satın alın. Giriş 
+mumunun düşük seviyesinin altına zararı durdur emrini yerleştirin
+Satış Koşulları:
+BB+MACD göstergesi maviye döner
+Veya
+Bir mum TM göstergesinin altında kapanır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Bu stratejiyi kullanarak giriş (yeşil ok) ve çıkış (kırmızı ok) örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Scalping Stratejisi #4: DiDi Göstergesi + QQE
+Gerekli Göstergeler:
+12 SMA
+Nicel Nitel Tahmin QQE 
+(KivancOzbilgic tarafından gösterge)
+Didi Endeksi QQE ile İyileşti | jh (jiehonglim 
+tarafından gösterilen gösterge)
+Satın Alma Koşulları:
+Mumlar 12 SMA'nın üzerinde kapanıyor. 
+DiDi histogramı (noktalar) yeşil
+QQE yukarı doğru geçtiğinde ve bir satın alma sinyali gösterdiğinde satın alın
+Satış Koşulları:
+Bir mum 12 SMA'nın altında kapanıyor
+VEYA
+QQE aşağı doğru geçiyor ve satış sinyali gösteriyor
+Bu stratejiyi kullanarak bir satın alma (yeşil ok) ve bir satış (kırmızı ok) örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Scalping Stratejisi #5: Hull Hareketli Ortalama Scalping Stratejisi
+Gerekli Göstergeler:
+30 dönemli Hull hareketli ortalaması 
+(HMA) Stokastik ayarları:
+%K Uzunluk = 14, %K Düzeltme = 6, %D Düzeltme = 3
+Satın Alma Koşulları:
+Stokastikler yukarı doğru ve 50'nin altında kesişiyor. 
+Bir mum HMA'nın üzerinde kapandığında girin
+Satış Koşulları:
+Bir mum HMA'nın altında kapanıyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Bu stratejiyi kullanarak bir satın alma (yeşil ok) ve bir satış (kırmızı ok) örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Scalping Stratejisi #6: RSI + BB Stratejisi (sürüm 1)
+Gerekli Göstergeler:
+4 Dönem RSI
+Bollinger Bantları ayarları: 
+Uzunluk = 40, stdev = 2
+Satın Alma Koşulları:
+Bir mum Bollinger bandının altında veya ona dokunuyor RSI aşırı 
+satılmış durumda (30'un altında)
+RSI 30'un üzerine çıktığında işleme girin. Giriş 
+mumunun altına zararı durdur emri koyun.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Bu stratejiyi kullanarak bir satın alma (yeşil ok) ve bir satış (kırmızı ok) örneği
+Satış Koşulları:
+Bir mum Bollinger bandının tepesine dokunuyor
+VEYA
+RSI 80'in üzerine çıktı
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Scalping Stratejisi #7: RSI + BB Stratejisi (sürüm 2)
+Gerekli Göstergeler:
+7 dönem RSI
+200 periyotlu SMA (basit hareketli ortalama) 
+Bollinger Bantları ayarları:
+Uzunluk = 20, stsapma = 2
+Satın Alma Koşulları:
+Mumlar 200 SMA'nın üzerinde kapanıyor
+Bir mum Bollinger bandının altında veya altına dokunuyorsa, 
+RSI aşırı satıldıktan sonra 30'un üzerine çıktığında satın alın
+Satış Koşulları:
+Bir mum Bollinger bandının üstünde veya ona dokunuyor
+VEYA
+RSI 70'in üzerine çıktı (aşırı satım)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Scalping Stratejisi #8: Bollinger Bantları + CCI Stratejisi
+Gerekli Göstergeler:
+20 dönemlik CCI (emtia kanal endeksi) 
+Bollinger bantları ayarları:
+Uzunluk = 50, Stsapma = 2
+Satın Alma Koşulları:
+Bollinger bantları düz ve herhangi bir yöne işaret etmiyor Fiyat, alt 
+banda dokunuyor veya alt bandın altında kapanıyor
+CCI -200'ün altına düştü
+CCI -200'ün üzerine çıktığında satın alın. Giriş 
+mumunun altına zararı durdur emri koyun
+Bu stratejiyi kullanarak satın alma (yeşil ok) ve satış (kırmızı ok) örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+Çıkış Koşulları:
+Fiyat üst banda dokunuyor veya üst bandın üstünde kapanıyor
+VEYA
+CCI aşırı satıldıktan sonra 100'ün altına düştü
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Scalping Stratejisi #9: VWAP Bantları + Stokastik RSI
+Gerekli Göstergeler:
+Bant çarpanı 1,5 500 SMA olarak 
+ayarlanan VWAP
+Stokastik RSI
+Katılım Koşulları:
+Fiyat 500 sma'nın üzerinde
+Mumlar alt VWAP bandına dokunuyor veya altında
+Stokastik RSI aşırı satıldıktan sonra 30'un üzerine çıkmaya başladığında satın alın Giriş mumunun en 
+düşük seviyesinin altına bir zararı durdur emri yerleştirin
+Bu stratejiyi kullanarak bir satın alma (yeşil ok) ve satış (kırmızı ok) örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Çıkış Koşulları:
+Stokastik RSI aşırı alımdan dolayı 70'in altına düştü
+Veya
+Fiyat en üst VWAP bandına dokunuyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+Scalping Stratejisi #10: MA Crossover + RSI
+Gerekli Göstergeler:
+15 SMA
+45 SMA
+5 dönem RSI
+Satın Alma Koşulları:
+15 SMA, 45 SMA'nın üzerine çıktı
+RSI'nin aşırı satılmasını (30'un altına) bekleyin, RSI 30'un üzerine geri döndüğünde giriş yapın. Son salınım 
+düşük seviyesinin altına zararı durdur emri koyun.
+Bu stratejiyi kullanan bir satın alma sinyalinin örneği 
+Satış Koşulları:
+RSI aşırı alımdan sonra 70'in altına düştü (scalping için önerilir)
+VEYA
+15 SMA, 45 SMA'nın altına düşer (swing trading için önerilir)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Bu stratejiyi kullanan bir çıkış sinyalinin (kırmızı ok) örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+Scalping Stratejisi #11: HMA + RSI Bollinger Bantları
+Gerekli Göstergeler
+25 HMA (Gövde hareketli ortalaması) 
+RSI, Uzunluk = 14
+RSI Bollinger bantları ayarlarına eklenen 
+Bollinger bantları: Uzunluk = 40, StDev = 1
+RSI aşağıdaki örnekteki gibi görünmelidir
+Satın Alma Koşulları
+RSI, alt Bollinger bandının üzerine çıkıyor 
+Mumlar 25 HMA'nın üzerine kapanıyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+Bu stratejiyi kullanarak bir satın alma sinyali (yeşil daire) ve bir satış sinyali (kırmızı daire) örneği
+Çıkış Koşulları:
+Bir mum 25 HMA'nın altında kapanıyor
+Veya
+RSI yukarıdan üst bandın altına geçiyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Scalping Stratejisi #12: Kolay SMA Scalping Stratejisi
+Gerekli Göstergeler:
+9 SMA (basit hareketli ortalama) 
+18 SMA
+Satın Alma Koşulları:
+9 SMA, 18 SMA'nın üzerinde
+Bir mum 18 SMA'nın üzerine çıktığında ve üstünde kapandığında girin. Giriş 
+mumunun düşük seviyesinin altına zararı durdur emri koyun.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+Bu stratejiyi kullanarak bir satın alma girişi (yeşil ok) ve çıkış (kırmızı ok) örneği
+Satış Koşulları:
+Bir mum 9 SMA'nın altında kapanıyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Bölüm 4: Algoritmik Trend Ticareti Stratejileri
+Bu tür stratejiler, çeşitli teknik göstergeler kullanarak piyasa trendlerini belirlemeye ve bunlardan yararlanmaya çalışır. Bu 
+bölümde en iyi algoritmik trend alım satım stratejilerinden bazılarını ve bunların nasıl çalıştığını inceleyeceğiz. İyi bir 
+algoritmik trend alım satım stratejisi sizi bir trende erken sokar ve ardından karı maksimize etmek için trendi mümkün 
+olduğunca uzun süre idare eder. Bunu başarmak için, yüksek doğrulukta giriş ve çıkış sinyalleriyle birlikte doğru trend 
+doğrulama göstergeleri (hareketli ortalamalar gibi) kullanmanız gerekir.
+Trend doğrulama göstergeniz, piyasanın yükseliş trendinde, düşüş trendinde veya yatay aralıkta olup olmadığını size 
+söylemelidir. Piyasa yatay aralıktaysa, işlem yapmaktan kaçınmalısınız. Bir sonraki adım, piyasanın nereye gidebileceğini 
+belirlemek için trend yön göstergelerini kullanmaktır. Piyasa yükseliş trendindeyse, uzun pozisyon alın. Düşüş trendindeyse, 
+kısa pozisyon alın.
+İyi bir algoritmik trend ticareti stratejisi momentum göstergelerini kullanacaktır. Momentum göstergeleri trend ticareti için 
+önemlidir çünkü momentumu kullanarak bir trendin gücünü ölçerler. Bir trend momentum kazandığında, bu trendin devam 
+etme olasılığının yüksek olduğunu gösterir ve momentum kaybı meydana gelirse trend zayıflar, bu da trendin tersine 
+dönmesinin yakın olduğu anlamına gelebilir. Trend ticareti için kullanılabilen birçok farklı momentum göstergesi türü vardır. 
+Bazı örnekler arasında MACD, RSI, stokastikler ve Yön Hareketi Endeksi bulunur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+Trend Stratejisi #1: VWMA Geçiş Stratejisi
+Gerekli Göstergeler
+8 dönem VWMA (hacim ağırlıklı hareketli ortalama) 30 
+dönem VWMA
+SOTT (KivancOzbilgic'in göstergesi)
+Ayarlarla: %K Uzunluk = 100, %K Düzgünleştirme = 10, OTT Süresi = 2, OTT Yüzdesi = 0,5
+Satın Alma Koşulları:
+SOTT 50'nin altına iniyor ve bir satın alma sinyali üretiyor 
+Mumlar 30 VWMA'nın üzerinde kapanıyor
+8 VWMA, 30 VWMA'nın üzerine çıkıyor Son salınım 
+düşük seviyesinin altına stop loss koyun
+Çıkış/Satış Koşulları:
+Bir mum 30 VWMA'nın altında kapanıyor
+Veya
+SOTT aşağı doğru geçer ve satış sinyali üretir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+Bu stratejiyi kullanan bir giriş (yeşil ok) ve çıkış (kırmızı ok) örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+Trend Stratejisi #2: Pmax + NSM Gösterge Stratejisi
+Gerekli Göstergeler
+Normalleştirilmiş Düzgünleştirilmiş MACD (Dreadblitz göstergesi)
+PMax Explorer STRATEJİ & EKRAN (KivancOzbilgic tarafından gösterge) 5 
+dakikalık ve daha uzun zaman dilimleri için PMax ayarları:ATR uzunluğu = 8 ATR 
+çarpanı = 3.6
+MA türü = VAR
+MA uzunluğu = 10
+Satın Alma Koşulları:
+Pmax göstergesi yeşil renktedir ve bir satın alma sinyali 
+gösterir Mumlar alt Pmax çizgisinin üzerinde kapanıyor
+NSM -0,70'in altında ve MACD çizgisi sinyal çizgisinin üstünden geçiyor
+Satış Koşulları:
+Pmax göstergesi satış sinyali gösteriyor
+VEYA
+Bir mum, alt Pmax çizgisinin altında kapanır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+Bu stratejiyi kullanarak bir satın alma (yeşil ok) ve bir satış (kırmızı ok) örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+Trend Stratejisi #3: Aroon Trend Ticaret Stratejisi
+Gerekli Göstergeler:
+Aroon göstergesi
+14 dönem RSI
+10 SMA (basit hareketli ortalama)
+Satın Alma Koşulları:
+RSI 50'nin üzerine çıktı 
+Fiyat 10 SMA'nın üzerinde
+Aroon yukarı çizgisi aroon aşağı çizgisinin üzerine çıktığında satın alın
+Satış Koşulları:
+Fiyat 10 SMA'nın altında kapanıyor
+Veya
+Aroon yukarı doğru 80'in altına geçiyor
+Bu stratejiyi kullanarak giriş (yeşil ok) ve çıkış (kırmızı ok) örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+Trend Stratejisi #4: Nicel Nitel Tahmin Gösterge Stratejisi
+Gerekli Göstergeler:
+Nicel Nitel Tahmin QQE (KivancÖzbilgic'in göstergesi) Ayarlarla 
+Bollinger Bantları:
+StdDev = 1, Uzunluk = 40
+Not: Bu stratejiyi kısa pozisyon açmak için kullanmak üzere bu kuralları tersine çevirin
+Satın Alma Koşulları:
+Bir mum üst Bollinger bandının üzerinde kapandığında, hızlı çizgi yavaş Satın Al'ın 
+üzerinden geçtiğinde QQE'de bir satın alma sinyali belirir
+Satış Koşulları:
+Bir mum üst Bollinger bandının altında kapanıyor
+Veya
+QQE'de bir satış sinyali beliriyor (scalping için daha iyi ancak daha fazla yanlış sinyal)121
+Bu stratejiyi kullanan bir giriş (yeşil ok) ve çıkış (kırmızı ok) örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+Trend Stratejisi #5: SMMA Geçiş Stratejisi
+Gerekli Göstergeler:
+9 SMMA (düzgünleştirilmiş hareketli ortalama) 
+4 SMMA
+15 SMA
+Satın Alma Koşulları
+4 SMMA, 9 SMMA'nın üstünden geçiyor
+Bir mum 4 SMMA'ya dokunduğunda ve bunun üstünde kapandığında girin. Giriş 
+mumunun en düşük seviyesinin altına zararı durdur emrini yerleştirin.
+Bu stratejiyi kullanan bir satın alma sinyalinin örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+Satış Koşulları:
+4 SMMA, 9 SMMA'nın altından geçiyor
+VEYA
+Bir mum 15 SMA'nın altında kapanıyor
+Bu stratejiyi kullanan bir satış sinyalinin örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+Trend Stratejisi #6: RSI + PMax gösterge Stratejisi
+Gerekli Göstergeler:
+5 dönem RSI
+PMax Explorer STRATEJİ & EKRAN (KivancOzbilgic tarafından gösterge) 5 
+dakikalık ve daha uzun zaman dilimleri için PMax ayarları:ATR uzunluğu = 8 ATR 
+çarpanı = 3.6
+MA türü = VAR
+MA uzunluğu = 10
+Satın Alma Koşulları
+RSI 30'un altında (aşırı satım)
+Pmax göstergesi yeşil renktedir ve bir satın alma sinyali 
+göstermektedir Mumlar alt Pmax çizgisinin üzerinde kapanmaktadır
+RSI 30'un üzerine çıktığında satın alın
+Satış Koşulları
+PMAX bir satış sinyali gösteriyor
+VEYA
+Bir mum, alt Pmax çizgisinin altında kapanır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+Bu stratejiyi kullanarak satın alma (yeşil ok) ve satış (kırmızı ok) girişlerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+Bölüm 5: TradingView'da Kendi İşlem Botunuzu Nasıl Yaparsınız (Kodlama yok)
+Çoğu trading botu kodlama kullanılarak oluşturulur, ancak kodlama yapmadan TradingView'den gelen sinyalleri kullanarak kendi 
+botunuzu yapmanın bir yolu var.
+Bu yöntemi kullanmak için şunlara ihtiyacınız olacak:
+TradingView hesabı
+Binance veya FTX borsasında işlem hesabı https://
+capitalise.ai/ adresinde bir hesap oluşturun
+Capitalise.ai nasıl kullanılır
+Capitalise.ai, kripto para alım satım botu yapmak için kullanabileceğiniz ücretsiz bir platformdur. İşlemlerinizi yürütür ve ayrıca 
+stratejinizi simüle etmenize ve geriye dönük test etmenize olanak tanır (şu anda yalnızca FTX sürümünde).
+Capitalize.ai'yi kullanmak çok basittir; strateji kutusuna sadece işlem stratejinizi yazın. Önce satın alma koşullarınızı, 
+sonra çıkış koşullarınızı yazın.
+Bir strateji oluşturmak için capitalise.ai'deki yerleşik göstergeleri kullanabilir veya TradingView'den göstergeler veya stratejiler 
+kullanabilirsiniz. Bunu yapmak için kopyalayınweb kancalarıTradingView'da capitalize.ai'ye girerek alım ve satım sinyalleri üretin.
+TradingView webhook'ları, giriş ve çıkış sinyalleri için capitalise.ai'ye gönderilen TradingView uyarılarıdır.
+Capitalise.ai'da TradingView Webhooks nasıl kullanılır? 
+Adım 1: Giriş ve Çıkış Sinyallerinizi Seçin
+Öncelikle TradingView'da alım ve satım sinyalleri için kullanmak istediğiniz bir strateji veya gösterge seçin. Bu, hareketli ortalama 
+geçişleri veya RSI sinyalleri gibi herhangi bir gösterge olabilir.
+Göstergeyi/stratejiyi TradingView grafiğinize ekleyin. Örnek olarak TradingView'de bir MACD kullanacağım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 76 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 77 ===
+Adım 2: Capitalise.ai'da bir webhook bağlantısı oluşturun
+Bir gösterge veya strateji seçtikten sonra capitalise.ai üzerinde yeni bir strateji oluşturun, strateji kutusuna “eğer webhook 
+tetiklenirse” yazın.
+Tam komutu yazdıktan sonra “webhook” kelimesine tıklayın, iki satırdan oluşan küçük bir kutunun açıldığını görmelisiniz.
+İlk satır “URL” ve ikinci satır “MSG”.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 78 ===
+Adım 3: TradingView'da bir Uyarı Oluşturun
+Şimdi TradingView grafiğinize geri dönün ve kullanmak istediğiniz gösterge için bir uyarı ekleyin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 79 ===
+Uyarı kutusu açılacak, uyarıda uyarı ayarlarınızı ayarlayabilirsiniz. Uyarımı MACD çizgisi sinyal çizgisinin üzerine çıktığında tetiklenecek şekilde 
+değiştirdim, bu benim satın alma sinyalim olacak. Ayrıca tetiklenecek şekilde de değiştirdimbar başına bir kez kapanışAyrıca uyarımı "MACD - 
+Satın Al" olarak adlandırdım, böylece uyarının ne için olduğunu daha sonra bilirim.
+Webhook URL kutusunun işaretli olduğundan emin olun.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 80 ===
+Adım 4: Webhook Bağlantılarını Uyarınıza Kopyalayın
+Capitalise.ai'den URL bağlantısını kopyalayın ve TradingView uyarısındaki Webhook URL kutusuna yapıştırın. Ayrıca 
+capitalise.ai'den MSG'yi kopyalayın ve TradingView'deki uyarı mesaj kutusuna yapıştırın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 81 ===
+Adım 5: Capitalise.ai'daki Giriş/Çıkış Koşullarını Tamamlayın
+Daha sonra oluştur'a tıklayın. Uyarı aktif olduğunda capitalise.ai'ye geri dönebilir ve satın alma koşullarımızı yazmayı bitirebiliriz.
+Satın alma koşullarım için "Webhook tetiklerse 400 USDT BTC satın al" yazdım.
+Bu, MACD yukarı doğru çıkarsa ticaret botumun 400$ değerinde bitcoin satın alacağı anlamına gelir. İsterseniz webhook'unuzun üstüne 
+daha fazla koşul ekleyebilirsiniz, ancak bu örnek için basit tutacağım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 82 ===
+Çıkış Koşulları
+Aynı işlemi çıkış koşullarınız için de kullanabilirsiniz.
+TradingView'da çıkış uyarınızı oluşturun
+Capitalise.ai çıkış koşulları kutusuna “Webhook tetiklenirse” yazın.
+Yeni MSG bağlantısını ve URL'yi TradingView uyarı kutunuza kopyaladığınızdan emin olun
+Önemli -Çıkış koşullarınız için MSG bağlantısı, satın alma koşulları için kullandığınız bağlantıdan farklı 
+olacaktır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 83 ===
+Örneğimde "Webhook pozisyonu kapatırsa" var. Bu, işleminizden çıkmak için TradingView'dan çıkış uyarınızı 
+kullanacaktır. Ayrıca stop loss gibi başka koşullar da ekleyebilirsiniz.
+Çıkış koşullarınıza bir zarar durdurma emri eklemek için "eğer kaybederse”emretmek.
+Bu örnekte, "Webhook tetiklenirse veya %1 kayıpta pozisyonu kapat" komutum var. Bu komutu stoploss'um olarak 
+kullanabilirim ve %1 kayıpta işlemim kapatılır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

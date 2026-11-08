@@ -1,0 +1,939 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 3\Baskı 3\Al ve Sat Günlük Trading Sinyalleri - 2022 Baskısı (61 sayfa) - @eseckal.pdf
+PAGES: 61
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 2 ===
+Başlarken
+Ticaret karlı bir çaba olabilir, ancak yalnızca ne zaman alıp satacağınızı biliyorsanız.
+Bu kılavuzda, bana önemli kazançlar sağlayan gizli alım satım sinyallerimi sizinle 
+paylaşacağım. Bu sinyallerin zaman içinde oldukça kârlı olduğu kanıtlanmıştır ve piyasa 
+hangi yönde hareket ederse etsin para kazanabileceksiniz.
+Ne zaman alıp satacağınızı öğrendikten sonra para kazanmak için piyasa hareketlerinden yararlanabilirsiniz. 
+Günlük ticaretin amacı budur; kısa vadeli piyasa hareketlerinden para kazanmak. Öncelikle bir ticaret 
+stratejisinde alım ve satım sinyallerinin nasıl kullanılacağına ilişkin temel bilgileri ele almamız gerekiyor, daha 
+sonra gerçek sinyallere geçeceğiz.
+Ticarette Alım Satım Sinyalleri Nasıl Kullanılır?
+Bir tüccar olarak, bir alım veya satım sinyalinin nelerden oluştuğunu net bir şekilde anlamak önemlidir. 
+Alış ve satış sinyalleri oluşturmak için kullanılabilecek çeşitli teknik göstergeler vardır. Bazı yaygın 
+örnekler arasında hareketli ortalamalar, Bollinger Bantları ve RSI (göreceli güç endeksi) yer alır.
+Sinyal üretmek için göstergeler kullanıldığında, birbirini doğrulamak için birden fazla göstergenin kullanılması 
+önemlidir. Örneğin, hareketli ortalama geçişi bir satın alma sinyalini gösteriyorsa, işlem yapmadan önce RSI'nın 
+da aşırı satış koşullarını göstermesini bekleyin. Bu, sinyalin daha güvenilir olmasını sağlamaya yardımcı 
+olacaktır.
+Günlük ticaret yaparken net bir stratejiye sahip olmak önemlidir. Bu, işlem yapmak için hangi sinyalleri arayacağınızı 
+bilmek anlamına gelir. Ayrıca sıkı risk yönetimi kurallarının yürürlükte olması da önemlidir. Bu, kayıpları en aza 
+indirmenize ve karı en üst düzeye çıkarmanıza yardımcı olacaktır.
+Günlük ticaret stratejinizde alım ve satım sinyallerini nasıl kullanabileceğinize dair bazı örnekler:
+- Hareketli ortalama geçişi bir alım sinyali gösteriyorsa, işlem yapmadan önce RSI'nin aşırı satış 
+koşullarını onaylamasını bekleyin.
+- MACD histogramı bir alım sinyali gösteriyorsa, işlem yapmadan önce fiyatın direnç seviyesinin üzerine 
+çıkmasını bekleyin.
+- Stokastik osilatör bir satış sinyali veriyorsa, işlem yapmadan önce fiyatın destek seviyesinin altına 
+düşmesini bekleyin.
+Bu basit adımları izleyerek, alım satım sinyallerini kullanarak karlı bir günlük ticaret stratejisi 
+geliştirebilirsiniz.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 3 ===
+Bölüm 1: RSI Alış ve Satış Sinyalleri
+RSI Nedir?
+Göreceli Güç Endeksi (RSI), fiyat hareketlerinin hızını ve değişimini ölçen bir momentum 
+osilatörüdür. RSI, genel eğilimleri belirlemek ve potansiyel eğilim dönüşlerini tahmin etmek için 
+kullanılabilir. Gösterge, bir menkul kıymetin belirli bir süre içindeki kazanç ve kayıplarının 
+ortalama fiyatları kullanılarak hesaplanır ve 0-100 arasında değişir.
+Alış ve satış sinyalleri oluşturmak için RSI'nın kullanılabileceği bir dizi farklı yol vardır; bu 
+bölümde RSI kullanarak alım/satım sinyallerini bulmak için en doğru yöntemlerden bazılarına 
+bakacağız.
+Hangi yöntemi kullanacağınız büyük ölçüde kişisel ticaret tarzınıza bağlı olacaktır. Sizin ve ticaret 
+stratejiniz için en uygun olanı (veya daha fazlasını) bulana kadar farklı tekniklerle denemeler yapın ve 
+geriye dönük test yapın.
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 4 ===
+RSI Alış/Satış Sinyali #1: RSI + Hareketli Ortalama Çaprazı
+Nasıl çalışır:
+RSI göstergesi, bir ticaret sinyali oluşturmak için hareketli bir ortalamayla birleştirilir. RSI 
+hareketli ortalamanın üzerine çıktığında bir satın alma sinyali üretir. RSI hareketli ortalamanın 
+altına düştüğünde bir satış sinyali üretir.
+Hareketli ortalama, gürültünün filtrelenmesine yardımcı olur ve fiyat hareketinin daha düzgün bir 
+temsilini sağlar. RSI momentumu tanımlamak için kullanılır. İki gösterge birleştirildiğinde her türlü piyasa 
+koşulunda doğru alım ve satım sinyalleri sağlayabilirler.
+Önerilen ayarlar:
+14 dönemlik RSI
+21 EMA (üstel hareketli ortalama) veya 20 VWMA (hacim ağırlıklı hareketli 
+ortalama)
+Satın Alma Sinyali:
+RSI hareketli ortalamanın üzerine çıktığında satın alma sinyali üretilir. Bu, ivmenin 
+yukarıya doğru kaydığını ve fiyatların muhtemelen yükselmeye devam edeceğini 
+gösteriyor.
+Satış Sinyali:
+Satış sinyali, RSI hareketli ortalamanın altına düştüğünde üretilir. Bu, 
+ivmenin aşağı doğru kaydığını ve fiyatların düşmeye devam edeceğini 
+gösteriyor.
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 5 ===
+Bu stratejiyi kullanan alım (yeşil daire) ve satış (kırmızı daire) sinyallerine örnek
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 6 ===
+RSI Alış/Satış Sinyali #2: RSI Trend Çizgisi Çapraz
+Nasıl çalışır:
+Potansiyel alım ve satım sinyallerini belirlemek için RSI göstergesi üzerine trend çizgileri çizilebilir. 
+RSI trend çizgisinin üzerine çıktığında bir satın alma sinyali üretir. RSI trend çizgisinin altına 
+geçtiğinde satış sinyali üretir.
+Genellikle piyasada bir trend tersine dönmeden önce RSI'da bir trend çizgisi kırılır, bu da onu iyi 
+bir öncü gösterge sinyali yapar.
+Önerilen ayarlar:
+21 dönem RSI
+Satın Alma Sinyali:
+Satın alma sinyali, RSI düşüş trendi çizgisinin üzerine çıktığında üretilir. Bu, 
+momentumun yukarıya doğru kaydığını ve fiyatların daha da yükselebileceğini 
+gösteriyor.
+Satış Sinyali:
+RSI yükseliş trendi çizgisinin altına geçtiğinde satış sinyali üretilir. Bu, ivmenin aşağı 
+doğru kaydığını ve fiyatların muhtemelen daha düşük seviyelere dönebileceğini 
+gösteriyor.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 7 ===
+Bu yöntemi kullanan satın alma sinyali (yeşil daire) örneği
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 8 ===
+RSI Alış/Satış Sinyali #3: RSI Aşırı Satış/Aşırı Alım Sinyalleri
+Nasıl çalışır:
+Bu sinyal, piyasa aşırı genişlediğinde ve muhtemelen geri çekilme ihtimali olduğunda ortaya çıkar. Eğer RSI aşırı satılmışsa, 
+bu durum piyasanın aşağı yönde aşırı genişlediğine ve muhtemelen toparlanma ihtimaline sahip olduğuna işaret eder. 
+Tersine, eğer RSI aşırı alımdaysa bu, piyasanın çok hızlı yükseldiğine ve geri çekilme ihtimalinin yüksek olduğuna işaret eder.
+Aşırı alım/aşırı satım sinyalleri, aralıklı, yatay hareket eden piyasalarda en iyi sonucu verir. Piyasa güçlü bir 
+trend içindeyken aşırı alım/aşırı satım sinyalleri daha az güvenilir olacaktır.
+Önerilen ayarlar:
+Günlük ticaret ve ölçeklendirme için uzunluğu 5 veya 7 olarak değiştirin
+14 uzunluğu, uzun vadeli swing ticaret stratejileri için iyidir
+Satın Alma Sinyali:
+RSI 30'un altına düşüyor
+Girişler için kullanmadan önce RSI'nin aşırı satış bölgesinin üzerine geçmesini bekleyin.
+Satış Sinyali:
+RSI 70'in üzerine çıktı
+RSI'yi çıkış sinyali olarak kullanmadan önce aşırı alım bölgesinin altına geçmesini bekleyin.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 9 ===
+5 dönemlik RSI kullanan aşırı alım/aşırı satış sinyallerine bir örnek
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 10 ===
+RSI Alış/Satış Sinyali #4: RSI Merkez Hattı Çapraz
+Nasıl çalışır:
+Bu sinyal, RSI 50 seviyesinin üstüne veya altına geçtiğinde oluşur; buna bazen "merkez çizgiyi 
+geçme" sinyali denir. RSI 50'yi geçtiğinde bu bir trend değişikliğinin meydana geldiğini gösterir.
+RSI 50'nin üzerine çıkarsa bu yükseliş sinyalidir ve fiyatların muhtemelen yükselmeye devam edeceğini 
+gösterir.
+Tersine, RSI 50'nin altına düşerse bu düşüş sinyalidir ve fiyatların muhtemelen daha düşük hareket edeceğini 
+gösterir.
+50 seviyeli çapraz sinyaller trendli pazarlarda en iyi sonucu verir ancak aynı zamanda aralıklı veya yatay hareket eden 
+pazarlarda da kullanılabilir.
+Önerilen ayarlar:
+30 dönemlik RSI
+Satın Alma Sinyali:
+RSI 50'nin üzerine çıktığında
+Satış Sinyali:
+RSI 50'nin altına geçtiğinde
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 11 ===
+Alış ve satış sinyaline bir örnek
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 12 ===
+RSI Alış/Satış Sinyali #5: 2 Dönem RSI
+Nasıl çalışır:
+Bu yöntem, alım/satım sinyalleri oluşturmak için 2 dönemlik RSI kullanır. Günlük tüccarlar arasında çok popüler bir 
+yöntemdir. Bu strateji, piyasadaki kısa vadeli momentum değişimlerini doğru bir şekilde belirlemek için kullanılabilir. 
+RSI 70'in üzerine veya 30'un altına düştüğünde alım ve satım sinyalleri oluşacaktır.
+Bu yöntem, sık sinyaller nedeniyle ölçeklendirme için iyidir.
+Önerilen ayar:
+2 dönem RSI
+Satın Alma Sinyali:
+Satın alma sinyali, 2 dönemlik RSI 70'in üzerine çıktığında üretilir
+Satış Sinyali:
+Satış sinyali, 2 dönemlik RSI 30'un altına geçtiğinde üretilir
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 13 ===
+Bu yöntemi kullanan bir alım (yeşil daire) ve satış (kırmızı daire) sinyali örneği
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 14 ===
+Bölüm 2: Bollinger Bantları Alış/Satış Sinyalleri
+Bollinger Bantları Nedir ve Nasıl Çalışır?
+Bollinger Bantlarının amacı yatırımcıların bir menkul kıymetin değerinin ne zaman aşırı veya düşük olduğunu tespit 
+etmelerine yardımcı olmaktır. Başka bir deyişle, yatırımcılara piyasada neyin pahalı veya ucuz kabul edildiğine dair bir 
+fikir verir.
+Bollinger Bantları aynı zamanda bir volatilite göstergesi olarak da kullanılabilir ve piyasanın ne zaman dar bir aralıkta işlem 
+yaptığını veya ne zaman trende başladığını belirlemenize olanak tanır.
+Bollinger Bandının Bileşenleri
+Bollinger Bantları, basit hareketli ortalamadan (temel çizgi olarak bilinir) iki standart sapma 
+uzağa yerleştirilen üst ve alt bantlardan oluşur.
+Fiyatlar üst Bollinger Bandına göre nispeten yüksek olduğunda aşırı alım olarak kabul edilir. Bu, 
+fiyatların bir düzeltme veya geri çekilmeye bağlı olabileceği anlamına gelir. Öte yandan, alt Bollinger 
+Bandına göre fiyatlar nispeten düşük olduğunda aşırı satış olarak kabul edilir. Bu, fiyatların bir 
+yükselişe bağlı olabileceği anlamına geliyor.
+Bollinger bandı çaprazlarıyla işlem yapmak için en iyi zaman, piyasanın nispeten istikrarlı olduğu ve net bir eğilimin olmadığı 
+zamandır. Bu genellikle bir konsolidasyon veya aralığa bağlı ticaret döneminden sonra gerçekleşir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 15 ===
+Bollinger Bantları diğer sinyalleri doğrulamak için de kullanılabilir. Örneğin, fiyatların alt Bollinger 
+Bandının altına doğru hareket ettiği sırada yükseliş mum çubuğu formasyonunun oluştuğunu görürseniz, 
+bu, fiyatların yükselmeye başlamak üzere olduğunun bir göstergesi olabilir.
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 16 ===
+Bollinger Bandı Sıkışıyor
+İki çizgi arasındaki boşluğa ticaret aralığı denir. Ticaret aralığının genişliği fiyatların ne kadar değişken 
+olduğunu göstermek için kullanılabilir. Volatilite yüksek olduğunda Bollinger Bantları birbirinden uzak 
+olacak, volatilite düşük olduğunda Bollinger Bantları birbirine yakın olacaktır.
+Bollinger Bantları birbirine yakın olduğunda buna sıkışma denir. Bollinger Bandı sıkışması, 
+fiyatlar sıkışmadan çıkıp trend olmaya başlayacağından ticaret fırsatlarını bulmanın iyi bir 
+yoludur. Bu olduğunda, genellikle en iyisi, işlem yapmadan önce fiyatın yukarı veya aşağı 
+çıkmasını beklemektir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 17 ===
+Bollinger Bantları Alış/Satış Sinyali #1: Fiyat Üst/Alt Bantları Aşıyor
+Nasıl çalışır:
+Fiyat üst veya alt Bollinger Bantlarının üstüne veya altına geçtiğinde alım/satım sinyali oluşur. 
+Fiyatın üst veya alt bandın üzerine çıkması, fiyatın belirli bir yönde aşırı genişlediğini ve 
+muhtemelen ortalamaya (orta çizgi) geri dönebileceğini gösterir.
+Önerilen ayarlar:
+Uzunluk = 20, Std sapma = 2,2 
+Uzunluk 25, Std sapma = 2
+Varsayılan ayarlar (Uzunluk = 20, Std dev = 2) da doğru sinyaller üretir
+Satın Alma Sinyali:
+Fiyat alt Bollinger Bandının altından geçiyor. Bu, fiyatın aşağı yönde aşırı genişlediğini 
+ve bir sıçramanın muhtemel olduğunu gösteriyor.
+Satış Sinyali:
+Fiyat üst Bollinger Bandının üzerine çıkıyor. Bu, fiyatın yukarıya doğru aşırı genişlediğini ve bir 
+geri çekilmenin muhtemel olduğunu gösteriyor.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 18 ===
+Bu yöntemi kullanarak alım (yeşil daire) ve satış (kırmızı daire) örneği
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 19 ===
+Bollinger Bantları Alış/Satış Sinyali #2: Bollinger Bandı Sıkıştırılıyor
+Nasıl çalışır:
+Bollinger Bantları Sıkışma, Bollinger Bantları (üst ve alt bantlar) daraldığında veya birlikte 
+"sıkıldığında" meydana gelir.
+Bu, piyasadaki oynaklığın düşük olduğunu ve potansiyel bir kırılmanın gerçekleşmek üzere olduğunu gösteriyor. 
+Sıkışma meydana geldiğinde, piyasa bir hamle için "sarılıyor".
+Önerilen ayarlar:
+Uzunluk = 20, Std sapma = 2,5
+Satın Alma Sinyali:
+Bir mum sıkılırken üst Bollinger Bandının üzerinde kapanır. Bu, düşük 
+volatilite döneminin sona erdiğini ve fiyatın yükselmeye hazır olduğunu 
+gösteriyor.
+Satış Sinyali:
+Bir mum, sıkıştırıldığı alt Bollinger Bandı bütününün altında kapanır. Bu, düşük 
+volatilite döneminin sona erdiğini ve fiyatın düşmeye başlamaya hazır olduğunu 
+gösteriyor.
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 20 ===
+Bu yöntemi kullanan bir satın alma sinyali örneği
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 21 ===
+Bollinger Bantları Alış/Satış Sinyali #3: Bollinger Bandı Trend Takip Sistemi
+Nasıl çalışır:
+Bu yöntem Bollinger bantlarının standart sapmasını 1'e değiştirir ve trend hareketlerini yakalamak için 
+bantların üstünde veya altında fiyat geçişlerini kullanır. Güçlü bir trend hareketi meydana gelirken fiyat 
+bantların üstünde/altında kalacak.
+Önerilen ayarlar:
+Uzunluk = 50, Std sapma = 1
+Satın Alma Sinyali:
+Fiyat üst Bollinger Bandının üzerine çıkıyor. Bu, güçlü bir yükseliş trendinin mevcut olduğunu ve 
+fiyatın muhtemelen yükselmeye devam edeceğini gösteriyor.
+Satış Sinyali:
+Fiyat alt Bollinger Bandının altından geçiyor. Bu, güçlü bir düşüş eğiliminin mevcut 
+olduğunu ve fiyatın muhtemelen düşmeye devam edeceğini gösteriyor.
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 22 ===
+Bu yöntemi kullanan satın alma sinyali (yeşil daire) örneği
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 23 ===
+Bollinger Bantları Alış/Satış Sinyali #4: Bollinger Bantları + RSI
+Nasıl çalışır:
+Bu sinyali kullanmak için RSI'ya Bollinger bantlarını eklemeniz gerekecektir. RSI Bollinger bandının üstüne veya 
+altına hareket ettiğinde sinyaller oluşacaktır. Bu yöntem ölçeklendirme, günlük ticaret ve swing ticareti için iyi 
+çalışır.
+Önerilen ayarlar:
+1 standart sapma ile 20 dönemlik Bollinger bantları 14 
+dönemlik RSI
+Satın Alma Sinyali:
+RSI üst Bollinger bandının üzerine geçtiğinde bir satın alma sinyali üretilir. Üst 
+Bollinger bandının altına geçtiğinde uzun ticaretten çıkın
+Satış Sinyali:
+RSI alt Bollinger bandının altına geçtiğinde bir satış sinyali üretilir. Kısa 
+ticareti, tekrar üstüne geçtiğinde kapatın.
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 24 ===
+Bu yöntemi kullanan satın alma sinyali (yeşil daire) örneği
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 25 ===
+Bollinger Bantları Alış/Satış Sinyali #5: Bollinger Bantlarının Eğimi + Orta Bant
+Nasıl çalışır:
+Bu yöntem için Bollinger bantlarının yukarı veya aşağı tek yönde eğimli olması gerekir. 
+Fiyat orta banda dokunduğunda bir sinyal oluşur. Alış/satış sinyali bantların eğimine bağlı 
+olacaktır.
+Önerilen ayarlar:
+Uzunluk = 20, Stdev = 2
+Satın Alma Sinyali:
+Bollinger bantları yukarı doğru eğildi, fiyat orta banda dokunduğunda satın alın
+Satış Sinyali:
+Bollinger bantları aşağı doğru eğiliyor, fiyat orta banda dokunduğunda satış yapılıyor
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 26 ===
+Bu yöntemi kullanan satış sinyali örneği
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 27 ===
+Bölüm 3: Gösterge Geçişi Alış/Satış Sinyalleri
+Bu bölümde, en kârlı teknik göstergelerden bazılarına göz atacağız ve bunları alım satım sinyalleri 
+oluşturmak için nasıl kullanabileceğinizi keşfedeceğiz.
+Bu göstergeleri TradingView'de bulmak için:
+“Topluluk Komut Dosyaları” sekmesine tıklayarak 
+“Göstergeler ve Stratejiler” penceresine gidin.
+Arama kutusuna göstergenin adını yazın
+“
+Bu göstergeler çok doğru alım ve satım sinyalleri sağlar ve bir ticaret stratejisiyle birleştirilmeleri için 
+mükemmeldir.
+Bu sinyallerin çoğu TradingView topluluğunun oluşturduğu göstergelerden gelmektedir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 28 ===
+Alış/Satış Sinyali #1: Scalp Pro
+Yazar:Ovelix
+Bu göstergeyi bulmak için TradingView'deki gösterge arama kutusunda “Scalp Pro”yu arayın (yazar – 
+ovelix)
+Nasıl çalışır:
+Bu gösterge, değiştirilmiş MACD hesaplamalarına dayanmaktadır ve biri hızlı, diğeri yavaş (stokastike 
+benzer) iki çizgiden oluşan bir çapraz osilatör olarak görüntülenir. Hızlı hat yavaş hattın üstünden veya 
+altından geçtiğinde sinyaller üretilir.
+Bu gösterge ölçeklendirme için mükemmeldir; çoğu doğru olan sık sinyaller üretir. Alış ve satış 
+sinyalleri, bu göstergenin üzerinde kullanımı kolaylaştıran etiketler olarak görünecektir. Bu gösterge 
+değişken piyasa koşullarında iyi çalışır.
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 29 ===
+Önerilen ayarlar:
+Yanlış sinyal miktarını azaltmak için yumuşak uzunluğu 10 olarak değiştirin
+Satın Alma Sinyali:
+Hızlı çizgi yavaş çizginin üzerinden geçer ve yeşil bir satın alma etiketi görünür
+Satış Sinyali:
+Hızlı çizgi yavaş çizginin altından geçer ve kırmızı bir satış etiketi görünür
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 30 ===
+Bu göstergeyi kullanan alım (yeşil ok) ve satış (kırmızı ok) sinyallerine örnek
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 31 ===
+Alış/Satış Sinyali #2: MACD (geliştirilmiş ayarlar)
+Nedir?
+Bu yöntem, alım/satım sinyalleri olarak MACD gösterge geçişlerini kullanır. MACD, iki üstel 
+hareketli ortalamaya dayanan bir momentum göstergesidir.
+Bu strateji, daha doğru alım/satım sinyalleri üretmek ve varsayılan MACD ayarlarında sıklıkla 
+ortaya çıkan kötü sinyalleri filtrelemek için MACD'nin varsayılan ayarlarını değiştirir.
+Önerilen ayarlar:
+Hızlı Uzunluk = 20, Yavaş Uzunluk = 50, Sinyal Düzeltme = 21
+Satın Alma Sinyali:
+Hızlı MACD çizgisi yavaş çizginin üzerinden geçiyor
+Satış Sinyali:
+Hızlı MACD çizgisi yavaş çizginin altından geçiyor
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 32 ===
+Bu yöntemi kullanan alım (yeşil daire) ve satış (kırmızı daire) sinyallerine örnek
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 33 ===
+Alış/Satış Sinyali #3: Stokastik OTT
+Bu göstergeyi bulmak için TradingView'deki gösterge arama kutusunda "Stochastic OTT" ifadesini arayın 
+(yazar – KivancOzbilgic)
+Nedir?
+Bu gösterge stokastik osilatöre benzer, ancak stokastik osilatörü optimize edilmiş trend 
+izleyici göstergesiyle birleştirir. Bu, değişken hareketlerin neden olabileceği stokastik 
+osilatörün verdiği yanlış sinyalleri azaltır.
+Önerilen ayarlar
+%K Uzunluk = 100, %K Yumuşatma = 10, OTT periyodu = 2, OTT yüzdesi = 0,5
+Satın Alma Sinyali:
+Hızlı çizgi yavaş çizgiyi geçtiğinde
+Satış Sinyali
+Hızlı çizgi yavaş çizginin altından geçtiğinde
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 34 ===
+Alış/Satış Sinyali #4: Normalleştirilmiş Düzleştirilmiş MACD
+Bu göstergeyi bulmak için TradingView'deki gösterge arama kutusunda "Normalleştirilmiş Düzleştirilmiş MACD" 
+ifadesini arayın (yazar – Dreadblitz)
+Nedir?
+Bu gösterge, MACD göstergesinin geliştirilmiş bir versiyonudur ve normal bir MACD'den daha 
+güvenilir giriş ve çıkış sinyalleri sağlar. Bu göstergede iki çizgi görüntülenir; sinyal çizgisi ve 
+MACD çizgisi
+Alış/Uzun Sinyal:
+MACD çizgisi sıfır çizgisinin altında
+MACD sinyal çizgisinin üzerinden geçer ve MACD çizgisi yeşile döner
+Satış/Kısa Sinyal:
+MACD çizgisi sıfır çizgisinin üzerindedir ve kırmızıya döner
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 35 ===
+Bu göstergeyi kullanan giriş ve çıkış sinyallerine örnek
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 36 ===
+Alış/Satış Sinyali #5: Stokastik Ağırlıklar - Temel
+Bu gösterge türünü "Stokastik Ağırlıklar - Temel" bölümünde bulmak için TradingView'deki gösterge 
+arama kutusunda (yazar - BigBitsIO)
+Nasıl çalışır:
+Bu gösterge, %K ve %D çizgisine sahip normal stokastiklere benzer. Stokastik 80'in üzerine 
+çıktığında aşırı alım, 20'nin altında ise aşırı satış olarak kabul edilir. Bu gösterge, hesaplamalarına 
+başka değerleri de dahil ettiği için normal bir stokastikten daha doğru sinyaller verebilir.
+Uç:Gösterge ayarlarında tüm stokastikleri etkinleştirmenizi öneririm
+Satın Alma Sinyali:
+%K çizgisi %D çizgisinin üstünden 50'nin altında geçiyor
+Veya
+Aşırı satış sonrası stokastik 20'nin üzerinde
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 37 ===
+Satış Sinyali:
+%K çizgisi 50'nin üzerindeyken %D çizgisinin altından geçiyor
+Veya
+Stokastik aşırı satış sonrasında 80'in altını geçiyor
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 38 ===
+Bu göstergeyi kullanan alım (yeşil ok) ve satış (kırmızı ok) sinyallerine bir örnek
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 39 ===
+Alış/Satış Sinyali #6: Cobra'dan RMI
+Bu göstergeyi bulmak için TradingView'deki gösterge arama kutusunda "RMI by Cobra" ifadesini arayın (yazar
+– ikili_trader66)
+Nedir?
+RMI (göreceli momentum endeksi) RSI'ya benzer ve bir trendin momentumunu ölçer. Bu göstergenin 2 
+çizgisi vardır, RMI çizgisi ve daha yavaş hareket eden bir ortalama.
+Alış/Uzun Giriş Sinyali:
+Hızlı çizgi (RMI) daha yavaş hareket eden ortalamanın üzerine geçtiğinde
+Veya
+RMI mavi renge dönüşür
+Uzun Sinyalden Çık
+Hızlı çizgi (RMI) hareketli ortalamanın altına geçtiğinde
+Veya
+RMI kırmızıya döner
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 40 ===
+Bu göstergeyi kullanan uzun vadeli bir ticaret örneği
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 41 ===
+Kısa Giriş Sinyali:
+Hızlı çizgi (RMI) yavaş hareketli ortalamanın altına geçtiğinde
+Veya
+RMI kırmızı renge dönüşür
+Kısa Sinyalden Çık
+Hızlı çizgi (RMI) hareketli ortalamanın üzerine geçtiğinde
+Veya
+RMI maviye döner
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 42 ===
+Alış/Satış Sinyali #6: Niceliksel Niteliksel Tahmin QQE
+Bu göstergeyi bulmak için TradingView'deki gösterge arama kutusunda “Nicel Kalitatif Tahmin” 
+ifadesini arayın (yazar – KivancOzbilgic)
+Nedir?
+Bu gösterge, RSI'yi iki ATR çizgisiyle birleştirir; ATR çizgileri kesiştiğinde bu, alım ve satım sinyalleri sağlar. 
+Bu gösterge, kullanımı kolaylaştırmak için üzerinde alım ve satım sinyallerini görüntüleyecektir.
+Bu göstergedeki aşırı alım ve aşırı satış seviyelerini, 30'un altında aşırı satış ve 70'in üzerinde aşırı 
+alım olan sinyaller için de kullanabilirsiniz.
+Satın Alma Sinyali:
+Hızlı çizgi yavaş çizgiyi geçtiğinde
+Satış Sinyali
+Hızlı çizgi yavaş çizginin altından geçtiğinde
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 43 ===
+Bu göstergeyi kullanan alım ve satım sinyallerine örnek
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 44 ===
+Alış/Satış Sinyali #7: Boom Hunter Pro
+Bu göstergeyi bulmak için TradingView'deki gösterge arama kutusunda "Boom Hunter Pro" ifadesini arayın 
+(Yazar – çokfid)
+Nasıl çalışır:
+Bu bir osilatör, stokastik bir göstergeye benzer şekilde kesişen iki çizgiyi görüntüler ancak aşırı alım ve 
+aşırı satım sinyalleri üretmek için bir dizi farklı hesaplama kullanır. Bu, alış ve satış sinyallerini yeşil ve 
+kırmızı noktalar olarak gösterecektir.
+Satın Alma Sinyali:
+Osilatörde yeşil noktalar görünüyor
+Satış Sinyali:
+Osilatörde kırmızı noktalar görünüyor
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 45 ===
+Boom Hunter Pro göstergesini kullanarak satın alma sinyalleri (yeşil daire) ve satış sinyalleri (kırmızı daire) 
+örneği
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 46 ===
+Alış/Satış Sinyali #8: [SK] Özel Klinger Osilatörü
+Bu göstergeyi bulmak için TradingView'deki gösterge arama kutusunda “[SK] Özel Klinger Osilatörü” ifadesini 
+arayın (Yazar: sirkriz)
+Nasıl çalışır:
+Bu, Klinger osilatörünün değiştirilmiş bir versiyonudur. Klinger osilatörü hacim bazlı bir göstergedir ve 
+biri hızlı MA (hareketli ortalama) ve diğeri yavaş olmak üzere iki çizgiden oluşur.
+İki hat kesiştiğinde sinyaller üretilecektir. Bu göstergedeki sıfır çizgisi aynı zamanda düşüş trendlerini ve 
+yükseliş trendlerini onaylamak için de kullanılabilir.
+Önerilen ayarlar:
+Yanlış sinyalleri azaltmak için sinyal uzunluğunu 12 olarak değiştirin (önce "varsayılan değerleri kullan" kutusunun 
+işaretini kaldırın).
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 47 ===
+Satın Alma Sinyali:
+Hızlı MA yavaş olanın üzerinden geçer 
+Hızlı MA yeşile döner
+Satış Sinyali:
+Hızlı MA daha yavaş olanın altına geçer 
+Hızlı MA kırmızıya döner
+[SK] Özel Klinger Osilatörünü kullanarak alım sinyalleri (yeşil daireler) ve satış sinyalleri (kırmızı 
+daireler) örneği
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 48 ===
+Bölüm 4: Trend Göstergesi ve Hareketli Ortalama Alış/Satış Sinyalleri
+Bu bölümde farklı trend göstergeleri ve hareketli ortalamalar kullanarak alım satım sinyallerinin nasıl oluşturulacağını 
+inceleyeceğiz. Bu göstergeler, bir menkul kıymetin ne zaman yükseliş veya düşüş eğiliminde olduğunu belirlemek ve 
+aynı zamanda doğru alım ve satım sinyalleri sağlamak için kullanılabilir.
+En yaygın trend göstergeleri hareketli ortalamalardır. Hareketli ortalamalar geçmiş fiyatlara 
+dayandığı için piyasanın gerisinde kalıyor. Ancak yine de pazarın yönünü belirlemenin en iyi 
+yollarından biridir.
+En yaygın hareketli ortalama alım/satım sinyalleri çapraz geçişlerdir. Kısa vadeli hareketli ortalama, uzun vadeli 
+hareketli ortalamanın üzerine geçtiğinde çapraz geçiş meydana gelir. Bu yükseliş sinyali olarak kabul edilir ve 
+piyasanın yükseliş eğiliminde olduğunu gösterir.
+Tersine, kısa vadeli hareketli ortalamanın uzun vadeli hareketli ortalamanın altına geçmesi, düşüş sinyali 
+olarak kabul edilir ve piyasanın düşüş eğiliminde olduğunu gösterir. Fiyatın hareketli bir ortalamayı 
+geçmesi ve mumun üstünde veya altında kapanması durumunda başka bir geçiş türü meydana gelir. 
+Buna fiyat geçişi denir ve alış ve satış sinyalleri oluşturmak için kullanılabilir.
+Alış ve satış sinyalleri oluşturmak için trend göstergelerini ve hareketli ortalamaları kullanırken, bunları trend 
+olan piyasalarda kullanmak önemlidir. Çok fazla yanlış sinyal üreteceklerinden, değişken veya sınırlı pazarlarda 
+bunları kullanmaktan kaçınmak istersiniz.
+Alış ve satış sinyalleri oluşturmak için kullanılabilecek birçok farklı türde trend 
+göstergesi ve hareketli ortalama vardır. En önemli şey sizin için iyi çalışan ve rahatça 
+kullandığınız bir gösterge bulmaktır.
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 49 ===
+Trend Göstergesi Alış/Satış Sinyali #1: Gövde Hareketli Ortalaması
+Nedir?
+Bu strateji, alım/satım sinyalleri oluşturmak için Hull hareketli ortalamasını kullanır. Fiyat, Hull hareketli 
+ortalamasının üstüne veya altına geçtiğinde bir sinyal oluşacaktır.
+Hull hareketli ortalaması geleneksel hareketli ortalamadan farklıdır çünkü son fiyat hareketlerine daha 
+duyarlıdır. Bu, onu günlük ticaret için mükemmel bir seçim haline getirir.
+En iyi ayarlar nelerdir?
+HMA uzunluğu: 60 dönem
+Satın Alma Sinyali:
+Fiyat, Hull hareketli ortalamasının üzerine çıktığında bir satın alma sinyali oluşur
+Satış Sinyali:
+Fiyat Hull hareketli ortalamasının altına düştüğünde satış sinyali oluşur
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 50 ===
+Trend Göstergesi Alış/Satış Sinyali #2: SSL Hibrit
+Bu göstergeyi bulmak için TradingView'deki gösterge arama kutusunda "SSL Hibrit" ifadesini arayın (yazar – 
+Mihkel00)
+Nasıl çalışır:
+Bu gösterge hareketli ortalamaya benzer ancak doğruluğunu artırmak için hareketli ortalamalar ve 
+ATR değerlerinin bir kombinasyonunu kullanır. Diğer trend onay göstergeleri gibi renk değiştirecek, 
+yükseliş trendlerini belirtirken SSL maviye, düşüş trendleri ise kırmızıya dönecek.
+SSL göstergesi, giriş ve çıkışların yanı sıra iyi bir trend onay göstergesidir. Bu gösterge, size 
+doğru giriş ve çıkışlar sağlayabilecek alım ve satım sinyallerini oklar halinde görüntüler.
+Önerilen ayarlar:
+Bu göstergenin grafiğinizde daha net görünmesini sağlamak için stil ayarlarında yalnızca SSL hareketli 
+ortalamasını görüntüleyecek şekilde ayarlayın.
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 51 ===
+Satın Alma Sinyali:
+SSL hattı mavi Fiyat SSL 
+hattının üstünde
+Satış Sinyali:
+SLL çizgisi kırmızı Fiyat SSL 
+çizgisinin altında
+Bu göstergeyi kullanan yükseliş trendi sinyali (yeşil ok) ve düşüş trendi sinyali (kırmızı ok) örneği.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 52 ===
+Trend Göstergesi Alış/Satış Sinyali #3: VWMA Geçişi
+Nedir?
+Bu yöntem, alım/satım sinyalleri oluşturmak için iki VWMA'nın (hacim ağırlıklı hareketli ortalamalar) 
+çapraz geçişini kullanır. VWMA, son hacimlere daha fazla ağırlık veren, gecikmeyi azaltan ve geçişler için 
+daha doğru sonuçlar veren hareketli bir ortalamadır.
+En iyi ayarlar nelerdir?
+VWMA Çapraz Geçiş yöntemi için en iyi ayarlar şunlardır:
+Hızlı VWMA: 10 dönem 
+Yavaş VWMA: 21 dönem
+Satın Alma Sinyali:
+Hızlı VWMA, yavaş VWMA'nın üzerine geçtiğinde bir satın alma sinyali oluşur.
+Satış Sinyali:
+Hızlı VWMA, yavaş VWMA'nın altına geçtiğinde bir satış sinyali oluşur
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 53 ===
+Bu stratejiyi kullanan alım ve satım sinyallerine örnek
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 54 ===
+Trend Göstergesi Alış/Satış Sinyali #3: Trend Magic
+Bu göstergeyi bulmak için TradingView'deki gösterge arama kutusuna “Trend Magic” yazın (yazar: 
+KivancOzbilgic).
+Nasıl çalışır:
+Bu, hesaplamalarında CCI'yı da kullanan ATR tabanlı bir göstergedir. Bu gösterge grafiğinizde tek bir çizgi olarak 
+görünür ve CCI okumalarına göre renk değiştirir. Fiyat, trend sihirli göstergesinin üzerinde olduğunda ve mavi 
+olduğunda, muhtemelen bir yükseliş trendi yaşanıyor demektir. Benzer şekilde, fiyat TM'nin altındaysa ve kırmızıysa, 
+büyük olasılıkla bir düşüş trendi yaşanıyor demektir.
+Bu, momentum göstergelerinden gelen giriş ve çıkış sinyalleriyle birleştirildiğinde iyi çalışan iyi 
+bir trend teyit göstergesidir.
+Önerilen ayarlar
+CCI'yı 50 olarak değiştirin
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 55 ===
+Satın Alma Sinyali:
+TM mavidir
+Fiyat TM çizgisinin üzerinde
+Satış Sinyali:
+TM kırmızı
+Fiyat TM çizgisinin altında
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 56 ===
+Trend Göstergesi Alış/Satış Sinyali #4: Pmax
+Bu göstergeyi bulmak için TradingView'deki gösterge arama kutusuna “PMax Explorer” yazın (yazar: 
+KivancOzbilgic).
+Nasıl çalışır:
+Bu gösterge, ATR ve hareketli ortalamaların bir kombinasyonunu kullanan değiştirilmiş bir süper trend 
+göstergesidir. Bu gösterge trendin tersine döndüğünü göstermek için tasarlanmıştır ve çok iyi bir trend 
+teyit göstergesidir.
+Pmax göstergesinin kullanımı basittir ve bir alım satım sinyali oluştuğunda size haber verir.
+Gösterge Satın Alma Sinyali:
+PMax yeşile döner ve bir satın alma sinyali gösterir
+Gösterge Satış Sinyali:
+Pmax kırmızıya döner ve bir satış sinyali gösterir
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 57 ===
+Bu göstergeyi kullanan alım (yeşil ok) ve satış (kırmızı ok) sinyallerine örnek
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 58 ===
+Trend Göstergesi Alış/Satış Sinyali #5: 500 EMA Çapraz
+Nasıl çalışır:
+Bu yöntem, alış ve satış sinyalleri oluşturmak için 500 EMA'nın üstünde veya altında fiyat kapanışını 
+kullanır. Fiyat 500 EMA'yı geçtiğinde, piyasada bir trend değişikliğinin sinyalini doğru bir şekilde verir. Bu 
+çok nadir fakat doğru olduğundan swing ticareti için iyi bir sinyaldir.
+Önerilen ayarlar:
+EMA uzunluğu: 500
+Satın Alma Sinyali:
+Fiyat 500 EMA'nın üzerinde kapanıyor
+Satış Sinyali:
+Fiyat 500 EMA'nın altında kapanıyor
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 59 ===
+Bu yöntemi kullanan alım (yeşil daire) ve satış (kırmızı daire) sinyallerine örnek
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 60 ===
+Trend Göstergesi Alış/Satış Sinyali #6: Gauss Kanalı
+Bu göstergeyi bulmak için TradingView'deki gösterge arama kutusuna “Gauss Kanalı” yazın 
+(yazar: DonovanWall).
+Nedir?
+Bu gösterge, bir kanal oluşturmak için birden fazla EMA'nın kullanılmasına dayanmaktadır. Fiyat kanalın üzerinde 
+olduğunda, piyasa muhtemelen yükseliş eğiliminde ve düşüş eğiliminin altında olacaktır. Fiyat kanalın orta çizgisine 
+dokunduğunda alım ve satım sinyalleri oluşur.
+Satın Alma Sinyali:
+GC yeşil ve fiyat orta çizgiye dokunuyor
+Satış Sinyali:
+GC kırmızıdır ve orta çizgiye dokunmaktadır
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQx
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 61 ===
+Bu göstergeyi kullanan alım (yeşil ok) ve satış (kırmızı ok) sinyallerine örnek
+Ticaret Kitapları
+https://t.me/librosselectosdetrading
+Ticaret Kursları
+https://t.me/+UHSh21UfmQsxMzEx
+Ticaret Algoritmik Kursları https://t.me/
+algorithmic_trading_algoritmico
+Ticaret İspanyolca Kursları https://
+t.me/+mGkKCoxk6xliOTQxwww.forexgercekleri.xyz

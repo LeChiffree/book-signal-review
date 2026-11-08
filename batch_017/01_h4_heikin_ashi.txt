@@ -1,0 +1,2769 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 14\Baskı 14\4 Saatlik Grafik Kullanarak Swing Trading - Heikin Ashi Trader (108 sayfa) - @eseckal.pdf
+PAGES: 108
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+Kitap 1: Swing Trading'e Giriş
+1. Neden Swing Trading?
+2. Neden 4 Saatlik Grafik Kullanarak İşlem Yapmalısınız?
+3. Swing Trading İçin Hangi Piyasalar Uygundur?
+4. Hangi Enstrümanlarla Swing İşlemi Yapabilirsiniz?
+5. Swing Ticaret Kurulumları
+A. Destek ve Direnç
+B. Çift Üst ve Çift Alt
+C. Kopuşlar
+D. Bayraklar ve Flamalar
+6. Para Yönetimi
+7. Neden Bir Ticaret Günlüğüne İhtiyacınız Var?
+8. Tüm Bunlar Ne 
+Hakkında? Sözlük
+2. Kitap: Sahteyi Ticarete At!
+1. En iyisinden bir aldatmaca!
+2. Sahte ürünler nasıl anlaşılır?
+3. Sahteleri nasıl takas edebilirim?
+4. Teknik grafik desenlerindeki sahteler
+A. bayraklar
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 3 ===
+B. üçgenler
+C. Trend Kanalları
+5. Çapraz kur ticareti
+6. Daha karmaşık 
+desenler Sözlük
+Kitap 3: Durağımı Nereye Koymalıyım?
+1. Durdurmalar Gerekli mi?
+2. Stop Loss Emri Nedir?
+3. Yönetimi Durdurun
+4. Kendi Oyununuzu Oynayın
+5. Kayıplarınızı Kesin
+6. Ve Karlarınızın Artmasına İzin Verin
+7. Trend Piyasalarda Durdurma Yönetimi
+8. Fiyat Hedefleriyle Yönetimi Durdurun
+9. İsviçre Frangı Tsunamisi, Tüccar Topluluğunun İyileştirici Bir Anı
+10. Aynı Anda Kaç Pozisyonu Tutabilirim? Sözlük
+Heikin Ashi Trader'ın diğer kitapları 
+Yazar Hakkında
+Baskı
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 4 ===
+Bölüm 1: Swing Trading'e Giriş
+1. Neden Swing Trading?
+Borsaya yeni girenlerin çoğu şansını günlük işlemle dener. Bununla yanlış 
+bir şey söylemiyorum. Eğer iyiyseniz günlük işlemle gerçekten çok para 
+kazanabilirsiniz. EĞER! Sorun şu ki, birçok hevesli yatırımcı günlük işlemdeki 
+zorlukları önemli ölçüde hafife alıyor. Sadece birkaçını sıralıyorum:
+Bu kısa zaman diliminde, çok iyi eğitimli ve mümkün olan en ileri 
+teknolojiyle donatılmış yüz binlerce (çoğunluğu genç) yatırımcıyla 
+rekabet ediyorsunuz.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 5 ===
+Sözde algoritmalardan oldukça önemli bir rekabet bekleyebilirsiniz. Başka bir 
+deyişle, en iyi beyinler tarafından geliştirilen pahalı bilgisayar programlarıyla 
+savaşırsınız.
+Son yıllardaki oynaklık eksikliğinden dolayı daha fazla rekabet bekleyebilirsiniz. E-
+mini, mini Dow vadeli işlemleri, EUR/USD ve ham petrol gibi tipik ticaret 
+piyasalarının tüm gün yanlamasına hareket edip aniden uyarı vermeden büyük 
+bir sıçrama yapması daha sık gerçekleşir. Tam şu anda doğru pozisyonda mısınız?
+En büyük rakibiniz en azından kendiniz değilsiniz. Günlük işlem yaparken 
+psikolojik baskıyı hafife almayın. Birçok yatırımcı bu yöntemi kullanarak karaya 
+oturdu. Bir anlık başarınız olsa bile, bunun her zaman böyle olması gerektiği 
+anlamına gelmez.
+Eğer bu olumsuzluklara rağmen hala günlük işlem yapmak istiyorsanız; o zaman yapın!
+Günlük ticaretin aksine, günlük grafiklerle veya hatta haftalık grafiklerle pozisyon 
+ticareti yapmak borsada para kazanmanın çok daha rahat bir yoludur. Ve açıkçası, 
+çoğu insana bu yöntemi kullanmasını tavsiye ederim.
+Ama dikkat edin! Yine, burada da çok fazla rekabet var! Burada büyük 
+operatörlerle rekabet etmeniz gerekiyor: yatırım fonları, sigorta şirketleri ve 
+hisse senetleri, endeksler, emtialar ve dövizlerle orta vadeli zaman diliminde 
+spekülasyon yapan hedge fonları.
+Bu yüksek sermayeli havuzlar, örneğin, yeni satın aldığınız hisseyi büyük 
+miktarlarda satma fikrine sahip olabilir. Hisse senedi aniden kötüleştiği için 
+değil. Örneğin, başka bir yatırım için paraya ihtiyaçları olabilir. Ya da, 
+hoşnutsuz müşterilerine ödeme yapmak için buna ihtiyaçları olabilir. 
+Görüyorsunuz ya, "yatırım yapmak" bile o kadar basit değil. Borsaya yılan 
+çukuru da diyebilirsiniz ve en ufak bir abartı bile yapmış olmazsınız. Başka 
+alternatif yok mu?
+Bence var. Ben buna alternatif diyorumsalınım ticareti. Günlük yatırımcılar için 
+çok yavaş ve yatırımcılar için çok hızlı olan bir zaman diliminde gerçekleşen bir 
+ticaret tarzıdır. Başka bir deyişle, bu zaman diliminde ticaret yapan çok az 
+profesyonel vardır. Ayrıca basında bununla ilgili hiçbir şey duymayacaksınız. 
+Gazetede swing ticareti hakkında en son ne zaman ilginç bir makale okudunuz? 
+Muhtemelen hiç...
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 6 ===
+Hangi zaman dilimini kastediyorum? Swing yatırımcılarının genellikle kullandığı grafikler 
+saatlik grafiklerdir veya daha iyisi 4 saatlik grafiklerdir. Bazı durumlarda swing yatırımcıları 
+günlük grafiklerle de çalışır. Bu, yatırımcı ile günlük yatırımcı arasında kalan bir dönemdir. 
+Sanki sandalyelerin arasında oturuyormuşsunuz gibi ve bu iyi, çünkü burada neredeyse 
+yalnızsınız.
+2. Neden 4 saatlik grafiği kullanarak işlem yapmalısınız?
+4 saatlik grafikle çalışmak için iyi nedenler vardır. 5 dakikalık grafik veya 15 
+dakikalık grafik (günlük yatırımcıların tipik özelliği) gibi daha küçük zaman 
+dilimleri Para Akışını temsil etmez. Büyük paranın yaptığı şey,
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 7 ===
+burada görmüyorsunuz. Ancak, 4 saatlik grafikte bunu açıkça görebilirsiniz. Teknik 
+bir desenin burada çok daha yüksek bir bilgi değeri vardır. Bu daha ziyade, piyasayı 
+şu anda kimin kontrol ettiğini gösterir: boğalar mı yoksa ayılar mı. Bunu bir tüccar 
+olarak bilmek istiyorsunuz, değil mi?
+Mum grafikleriyle çalışmayı seven diğer çoğu yatırımcının aksine, ben 
+heikin-ashi tablosu. Bu grafik türünün birkaç avantajı vardır: Trend, 
+mumların görsel olarak yumuşatılması sayesinde daha belirgindir (Mum 
+Çubuklarının aksine). Trendin gücü, mumun boyutu ve pimlerin (mum 
+gövdesinin üstünde veya altında uzun gölgeler) oluşumuyla belirgindir.
+Başka bir deyişle, heikin-ashi grafikleri arz ve talep arasındaki dengesizliği çok iyi bir 
+şekilde gösterir ve hatta dönüm noktalarını açıkça gösterir. Bu nedenle, piyasalardaki 
+sermaye akışlarını belirlemek için mükemmel bir araçtırlar. Aşağıdaki Dow Jones 
+endeksinden alınan örnek bunu göstermektedir.
+Şekil 1: Dow Jones, 4 saatlik grafik, HeikinAshi
+4 saatlik grafik "salınımları" çok açık bir şekilde gösterir. Bu hareketler 
+genellikle birkaç gün sürer. Yükselişler (beyaz, yükselen mumlar) ve düşüşler 
+(siyah, düşen mumlar) bu HeikinAshi grafiği örneğinde açıkça görülür. Bunu 
+göstermek için, şimdi size Dow Jones endeksinin aynı bölümünü mum çubuğu 
+gösteriminde göstereceğim:
+Şekil 2: Dow Jones Endeksi, 4 saatlik grafik, mum çubuğu
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 8 ===
+Umarım farkı görebiliyorsunuzdur. Elbette mum grafikleriyle iyi çalışabilirsiniz. 
+Ancak, mum grafiklerine kıyasla HeikinAshi grafiğinin görsel sunumunu tercih 
+ediyorum. Bir piyasanın yükseliş trendinde mi yoksa düşüş trendinde mi olduğunu ilk 
+bakışta tespit edebildiğimde hoşuma gidiyor.
+Mum grafiklerinde sıklıkla çelişkili sinyaller alırsınız. Bir yükseliş trendinde, 
+aniden siyah mumlar ortaya çıkabilir ve bu da yatırımcıya trendin bittiği 
+izlenimini verebilir. Bu tür yanlış sinyaller çoğunlukla HeikinAshi grafiğinde 
+filtrelenir. Bu hafife alınmaması gereken bir avantajdır.
+Bu örnek, deneyimli yatırımcıların uzun zamandır bildiği şeyi çok açık bir şekilde 
+gösteriyor: piyasa hareketleri genellikle 3 ila 5 gün sürer. Piyasa 5 gün boyunca 
+yükseliş yaşadıktan sonra çoğunlukla tekrar sakinleşir. Daha sonra bir 
+konsolidasyon veya yatay hareket oluşturur.
+Yukarıdaki örnekte, yukarı doğru hareket, HeikinAshi grafiğindeki beyaz 
+mumlar sayesinde çok iyi tanımlayabileceğiniz üç dalgada gerçekleşti. Bu 
+dalgalar yaklaşık 24 saat sürdü (veya sekiz adet 4 saatlik mum). Ara 
+düzeltme aşaması (genellikle siyah mumlar) da yaklaşık sekiz mum sürdü. 
+Genel olarak, bu hareket Dow Jones'a beş gün sürdü. Üç gün boyunca Dow 
+yukarı doğru hareket etti ve iki gün boyunca da düzeltme hareketi yaptı. Bu 
+deseni tekrar tekrar göreceksiniz.
+Bir swing yatırımcısı olarak elbette bu swinglerden faydalanmak istersiniz. 4 
+saatlik grafik, bu hareketleri mevcut piyasa durumu bağlamında çok iyi bir 
+şekilde görselleştirir. Bu arada, swing ticareti piyasa bir trendde olmasa bile, 
+oynak bir yan harekette olsa bile işe yarar. Aşağıdaki örnek böyle bir fazı 
+göstermektedir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 9 ===
+Şekil 3: S&P500, 4 saatlik grafik, HeikinAshi
+Şekil 3, yatay bir eğilimi göstermektedirS&P500 endeksi. Üst ve alt limitleri 
+yatay bir çizgi kullanarak gösterdim, çünkü bu örnekte önemliydiler. Destek 
+olarak da adlandırılan alt çizgi, tam olarak 2000 yuvarlak sayısıyla aynı 
+değere düşer. Finansal piyasalardaki bu tür fiyat seviyelerinin önemli bir 
+psikolojik anlamı vardır ve birçok yatırımcı ve kurumsal piyasa katılımcısı 
+tarafından saygı duyulur.
+Bu nedenle piyasanın bu seviyede destek görmesi tesadüf değildir. Yani, 
+piyasa bu fiyat seviyesine ulaştığı anda onu yakalamak için bekleyen 
+birçok istekli alıcı vardır. Bir swing tüccarı olarak bu tür "psikolojik 
+işaretlere" daha fazla önem vermelisiniz. Genellikle, piyasanın ilk veya 
+ikinci temasta bu seviyelerde "döndüğünü" göreceksiniz.
+Zamanlama
+4 saatlik grafikle çalışmanın bir diğer önemli nedeni zamanlamadır. Günlük 
+yatırımcılar için zamanlama her şeydir. Salınım yatırımcıları için geçerlidir: 
+Yön doğru olmalıdır. Piyasaya gelişmesi için birkaç saat veya gün 
+vermelisiniz. Yani, Dow'u 16.500'den veya 16.550'den satın almış olmanızın 
+çok güçlü bir rolü yoktur. Önemli olan doğru yöndür.
+Bir swing yatırımcısı olarak periyodik karşı hareketlerle de başa çıkmanız gerekir. 
+Piyasanın geçici olarak pozisyonunuza karşı 30-50 puanlık bir hareket yapması da 
+mümkün olabilir. Bu sizi pozisyonunuzdan çıkarmamalıdır. Bir günlük yatırımcı olarak 
+bunu göze alamazsınız.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 10 ===
+Salınım ticareti yaparsanız kazançlarınız da daha büyük olur. Çoğunlukla bu 
+yöntemi kullanarak daha önce bahsettiğim beklenmeyen hareketlerden kar elde 
+edersiniz. Ne zaman ortaya çıkacaklarını önceden bilemezsiniz. Ancak bu o kadar 
+da kötü değil. Bir salınım tüccarı olarak, piyasa kararını verene kadar 
+bekleyebilirsiniz.
+Genellikle bir giriş hakkında düşünmek için birkaç saat yeterli zamanınız olur. Hemen 
+ve hemen satın almak zorunda değilsiniz. Ayrıca çalışırken limit emirleri kullanmanızı 
+öneririm. Bunu yaparak, analizinizi yaptıktan sonra pozisyonunuzu sakin bir şekilde 
+oluşturabilirsiniz.
+Piyasa emriyle satın alırsanız (veya kısa pozisyon açtığınızda piyasayı satarsanız) mevcut 
+piyasa fiyatını kabul etmiş olursunuz. Bu genellikle bir pozisyona girmek için en iyi fiyat 
+değildir. Genellikle, satın almak istiyorsanız limit emrinizi 50 puan daha aşağıya 
+yerleştirmeye değer. Piyasanın istenen yöne gitmeden önce tekrar bu seviyeyi araması 
+da olasıdır.
+En son ama en kötü değil:Ekranın önünde bütün gün oturmak zorunda değilsiniz. 
+Borsaya yeni giren birçok kişi, fiyatların yükselişini ve düşüşünü izlemeyi elbette çok 
+heyecan verici buluyor. Ancak, bunun para kazanmakla hiçbir ilgisi yok.
+Bir swing trader olarak, günde bir kez işlem yaptığınız piyasaların analizini 
+yaparsınız. Emirlerinizi girersiniz ve güne hazır olursunuz. Pozisyonlarınızı 
+sürekli kontrol etmediğinizde sonuçların daha iyi olduğu benim benzersiz 
+deneyimimdir. Tablet ve akıllı telefon çağında bunun zor olabileceğini 
+biliyorum. Ancak, bir süredir işlem yapıyorsanız, bu deneyimi 
+doğrulayabilirsiniz.
+Uzun pozisyonunuza (veya kısa pozisyona geçtiğinizde kısa pozisyonunuza) bir 
+OCO emri eşlik etmesi en iyisidir. Pozisyonunuz böylece otomatik olarak bir 
+stop loss emriyle korunur ve hedef ulaşıldığında otomatik bir take profit 
+emriyle kayıpları sınırlandırır ve karları gerçekleştirir.
+Ya bir emir tetiklenir. İlgili bekleyen emirler sistem tarafından otomatik olarak 
+kapatılır. Bu belirli ticaretin kazanan mı yoksa kaybeden mi olacağı konusunda 
+geri kalanını piyasaya bırakmanız daha iyi olur. Bilgisayarınızı veya dizüstü 
+bilgisayarınızı kapatıp başka bir şey yapabilirsiniz.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 11 ===
+Bu prosedüre "Ayarla ve Unut" denir. Tüccar, otomatik olarak önceden 
+belirlenmiş bir zarar durdurma emri ve bir kar alma emriyle birlikte gelen 
+satın alma limitini koyar. Böylece maksimum riskini belirler ve aynı 
+zamanda karı gerçekleştirmek istediği bir fiyat seviyesi belirler.
+Şekil 4: Ham petrol vadeli işlemlerinde bekleyen kısa pozisyon
+Bu noktayı açıklamak için, ham petrol vadeli işlemlerinde kısa pozisyon örneğini 
+göstermek istiyorum. Yatay çizgi, satmak istediğim (yani kısa pozisyon açmak istediğim) 
+50,20 ABD doları seviyesindeki bir direnç seviyesidir. Gördüğünüz gibi, grafiğin ekran 
+görüntüsünü aldığımda piyasa henüz bu seviyeye ulaşmamıştı. Bu nedenle, satış limitim 
+bu olay gerçekleşene kadar bekledi.
+Aynı zamanda 50,60$'da (yukarıdaki siyah çizgi) bir stop emriyle 
+birlikte bu satış emri ve 48,80$'da (aşağıdaki siyah çizgi) bir kar alma 
+emri vermiştim. 50,20$'daki satış limitim tetiklendiği anda, diğer iki 
+emir otomatik olarak etkinleştirilecekti. Bu yüzden bu işlemde 0,40$ 
+risk aldığımı ve 1,40$ kazanabileceğimi biliyordum. Bu, yaklaşık 1:3'lük 
+bir risk-ödül oranına (RRR) karşılık geliyor ki bu harika.
+Satış emrime eşlik eden iki emirden biri yürütülürse, diğer emir 
+otomatik olarak iptal edilir. Bir tüccar olarak yapmam gereken tek şey
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 12 ===
+Bekleyin ve piyasanın nasıl karar vereceğini görün. Bir swing yatırımcısı olarak 
+piyasanın bu tür bir dinginliğini geliştirmeniz gerekir, çünkü analizinizle yalnızca 
+elinizden gelenin en iyisini yapabilirsiniz. Sonuç olarak, bir sonraki işleminizle kar mı 
+yoksa zarar mı edeceğinize piyasa karar verir.
+Her zaman iyi bir RRR ile işlemlere girerseniz, bu iyi alışkanlık er ya da 
+geç olumlu bir işlem sonucuna yansıyacaktır. Niteliksel olarak iyi bir 
+işlem seçimiyle (bu serinin ikinci kitabının konusu olan), bu sonucu 
+daha da iyileştirebilirsiniz.
+3. Swing trading için hangi piyasalar uygundur?
+Prensip olarak, her piyasada swing ticareti yaparsınız. Hisseler iyi 
+araçlardır, çünkü çok güçlü dalgalanmaları vardır. Ancak, herkes 
+hisselerle iyi değildir. Örneğin, ben hisselerle iyi değilim. Bunun 
+kesinlikle borsanın akşam kapanıp ertesi sabah tekrar açılmasıyla ilgisi 
+var.
+Bu her zaman sizin lehinize olmayabilir, çünkü bir günün kapanış fiyatı, bir 
+sonraki günün açılış fiyatıyla per se aynı değildir. Çok sık olarak gecelik boşluklar 
+veya fiyat boşlukları adı verilen farklar oluşur. Bu doğal olarak sizin lehinize 
+olabilir, ancak aynı zamanda sizin aleyhinize de olabilir. Ertesi sabah kalktığınızda 
+ve dün satın aldığınız hisse senedinin %5 daha düşük olması gerçekten hiç 
+sevindirici değildir.
+Hisse senetlerinde büyük fiyat farklarından kaçınmak isteyen bir tüccar için alternatif: 
+sadece piyasalarda işlem yapmaktır. Bununla ne demek istiyorum? Hisse senetleri 
+yerine genel piyasalarda işlem yapmalısınız. Bu, hisse senedi endeksleri (Dow Jones, 
+DAX, NASDAQ ve S&P500), emtialar (altın, gümüş, petrol) ve dövizler (euro, dolar, 
+pound, yen ...) olabilir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 13 ===
+Hisse senetleri yerine "piyasalar" ile işlem yaparsanız, ara sıra fiyat boşlukları da 
+yaşayabilirsiniz, ancak bunlar çoğunlukla hisse senetlerinde oluşan boşluklardan çok 
+daha küçüktür. Bunun nedeni basittir. Örneğin Dow Jones ile işlem yaparsanız, bir 
+şirkete değil, 30 şirkete yatırım yapmış olursunuz. Dow Jones, 30 büyük Amerikan 
+şirketinden oluşan bir sepetten başka bir şey değildir.
+Bu 30 hissenin farklı fiyat boşlukları çoğuna eşittir, bu nedenle Dow Jones endeksindeki 
+gecelik boşluklar çoğunlukla orta düzeydedir. Bir yatırımcı olarak hisse senedi endeksi 
+fiyatlarında %5 veya daha fazla boşluk gördüğünüz bir dönem yaşarsanız, o zaman bir 
+işlem molasını ciddi olarak düşünmelisiniz.
+Bu tür aşırı boşluklar çoğunlukla artan oynaklık dönemlerinde ortaya 
+çıkar, örneğin 2008'de mali kriz sırasında durum böyleydi. Neyse ki, bu 
+dönemler genellikle kısadır ve çok sık gerçekleşmez. Ancak bunları göz 
+ardı edemezsiniz, bu yüzden her zaman gözünüzü açık tutmalısınızVIX.
+VIX, CBOE Volatility Index'in kısaltmasıdır. Bu endeks, ABD borsa endeksi 
+S&P 500'ün dalgalanmasını ifade eder.
+Şekil 5: VIX, 2006-2016
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 14 ===
+Şekil 5, 2006'dan 2016'ya kadar VIX grafiğini göstermektedir. Grafikteki iki 
+yatay çizgi oynaklığın göstergesidir. 20'nin altındaki değerler "düşük oynaklık" 
+olarak kabul edilirken, 30'un üzerindeki değerler "yüksek oynaklık" olarak 
+sınıflandırılır. Ekran görüntüsü alındığında oynaklık 13.19'du ve bu neredeyse 
+tarihsel olarak düşük olarak kabul ediliyordu. Oynaklığın 30 işaretinin çok 
+üzerine çıktığı yıllar açıkça görülebilir. Bunlar, bu durumda 2008 ve 2011'di.
+Tesadüf değil, bu aşamalar 2008 mali krizi ve 2011 avro kriziyle 
+tutarlıdır. Kasım-Aralık 2008'de VIX 60 puanın üzerindeki aşırı 
+değerlere ulaştı. Bunlar Lehman Brothers'ın iflasının haftalarıydı. 
+Dünya ekonomisi bir felaketin eşiğindeydi ve finans piyasalarında 
+böyle bir aşama tekrar ortaya çıkarsa, ticareti geçici olarak 
+durdurmanızı öneririm.
+Ben de swing trading'imi bir endeks, emtia ve döviz sepetiyle 
+yürütüyorum. İşte liste:
+Endeksler:DAX, Dow Jones, SP500, Nasdaq100 Tahviller:Bund vadeli 
+işlemleri (Almanya'nın 10 yıllık tahvillerine ilişkin vadeli işlemler). 
+Emtialar:WTI Ham Petrol, Altın ve Gümüş
+Para Birimleri:EUR / USD, EUR / JPY, GBP / USD, USD / JPY, USD / CHF, 
+AUD / USD, NZD / USD, USD / CAD
+Toplamda 16 piyasa var. İnanın bana: Bu piyasaları her gün gözlemlerseniz, 
+şu anda finans piyasalarında neler olup bittiğine dair oldukça doğru bir 
+fikriniz olur. Daha deneyimli yatırımcılar elbette tüm bu piyasaların 
+birbiriyle ilişkili olduğunu bilir. Bu, az çok birbirleriyle ilişkili oldukları 
+anlamına gelir.
+Korelasyonlar zamanla değişebilse de genel olarak geçerli bazı 
+kurallar belirleyebilirsiniz:
+1. Hisse senedi endeksleri genellikle yüksek oranda ilişkilidir. Amerikan piyasaları 
+yükseldiğinde, çoğunlukla Asya veya Avrupa endekslerinin de bunu yaptığını 
+göreceksiniz. Üç büyük ABD hisse senedi endeksi olan Dow Jones Industrials, S&P500 ve 
+Nasdaq100 hala dünya hisse senedi piyasalarının itici güçleri olarak adlandırılabilir. Bu
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 15 ===
+üçü düşüş eğilimindeyken, diğer endekslerin bunu karşılaması genelde 
+zor oluyor.
+2. ABD doları hala dünyanın en önemli para birimidir. ABD doları 
+yükselirse, genellikle Euro, Avustralya Doları, İngiliz Sterlini, Yeni Zelanda 
+Doları, Kanada Doları veya İsviçre Frangı gibi diğer önemli para birimleri 
+düşmektedir.
+3. Güçlü bir dolar genellikle altın, gümüş veya petrol gibi emtialar için 
+elverişsizdir ve bunun tersi de geçerlidir. Bu korelasyon elbette geçici 
+olarak değişebilir. Ancak, korelasyonun er ya da geç tekrar başladığını 
+göreceksiniz.
+Korelasyonlar konusu hakkında koca bir kitap yazılabilir. Bahsedilen üç 
+kuralı biliyorsanız, bu konuda hiçbir şey bilmeyen piyasa katılımcılarının 
+çoğunluğundan öndesiniz demektir. Örneğin, para birimleri arasındaki 
+korelasyonlarla uğraşmak istiyorsanız, şunu öneririmalan Ana döviz 
+çiftlerindeki korelasyon değişimine ilişkin bilgileri saatlik, 4 saatlik ve 
+günlük bazda bulabilirsiniz.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 16 ===
+4. Swing Trading İçin Hangi Enstrümanlar 
+Uygundur?
+Listemdeki çoğu pazar için birETF. ETF, borsada işlem gören fon anlamına 
+gelir. Bu, bir borsada işlem gören bir yatırım fonudur. ETF'ler hakkında 
+hiçbir şey bilmiyorsanız, basit bir Google araması yaparak kesinlikle yeterli 
+bilgi bulabilirsiniz. Ayrıca bu konu hakkında mükemmel e-kitaplar da 
+bulunmaktadır.
+Büyük finansal piyasaları yansıtan çoğu ETF'nin iyi bir likiditesi vardır. Dar 
+spread'ler (alım ve satım oranları) elde edersiniz ve pozisyonunuzu yeniden 
+satmak istediğinizde genellikle sorun yaşamazsınız. İşte en popüler ETF'lerin 
+küçük bir listesi. Altta yatan piyasaları yanına yazdım.
+- CASUS: S&P500
+- QQQ: NASDAQ
+- GLD: Altın
+Eğer swing trading'inizi şu şekilde yapmayı planlıyorsanız:vadeli işlemler, o zaman fiyat 
+boşluklarıyla uğraşmak zorunda kalacaksınız çünkü vadeli işlem piyasalarının açılış saatleri vardır. 
+Genellikle piyasalardaki fiyat boşlukları hisse senetlerindekinden daha küçüktür. Büyük piyasalar 
+genellikle ertesi gün büyük boşluklarla açılmazlar.
+Birçok swing yatırımcısı, swing yatırımı işleri için CFD'leri kullanır. CFD, Contracts for 
+Difference (Fark Sözleşmeleri) anlamına gelir, yani bir piyasanın fiyat hareketini 1'e 1 
+izleyen araçlardır. CFD'ler, vadeli işlemlere benzer şekilde çok yüksek bir kaldıraca 
+sahiptir. Bunu açıklamak için size DAX'tan bir örnek vereceğim.
+CFD'lerin ABD'de izin verilmediğini unutmayın.
+Diyelim ki DAX'ta 10.000 (DAX Stand 10.000) fiyatından 1 CFD sözleşmesi satın 
+almak istiyorsunuz. Aracı kuruma bağlı olarak bu sözleşme için %1 marj ödemeniz 
+gerekir. Bu, hesabınızda 100 Euro (veya İngiliz Sterlini) olması durumunda 1 
+sözleşme satın alabilmeniz için yeterli olduğu anlamına gelir. Bu durumda, sadece 
+100 Euro (Pound) bahsiniz ile 10.000 Euro hareket ettirirsiniz!
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 17 ===
+DAX şimdi 10.500 puana çıkarsa ve siz satarsanız, 500 puan veya 500 Euro 
+(İngiliz Sterlini) kazanç elde edersiniz. Tanıdığım çoğu CFD yatırımcısının 
+hesabında genellikle 1000 Euro'dan fazla para olmaz. Bu işlemde 500 puan 
+kazanç elde ederseniz, sermayenizi %50 ile çarparsınız. Ve bunu yalnızca bir 
+işlemle yaparsınız!
+Kazandığınız sürece bu harika tabii ki. Ancak, bu kaldıracın kaybettiğinizde de 
+geçerli olduğunu her zaman aklınızda bulundurmalısınız. Bu durumda 500 
+puanlık bir kaybı kabul ederseniz, sermayenizin %50'sini kuma gömmüş 
+olursunuz! Kesinlikle harika bir his değil...
+Bu yüzden kaldıraçlı enstrümanlarla swing trading işinize başlamak isteyip 
+istemediğinizi dikkatlice düşünmelisiniz. Genellikle, konuyu daha muhafazakar 
+bir şekilde ele almak ve genellikle çok az veya hiç kaldıraç olmayan ETF'lerle 
+işlem yapmak daha iyidir. Kazancınız burada daha az olabilir, elbette daha az, 
+ancak kayıplarınız da sınırlı olacaktır.
+Fiyat farkı riskini tamamen ortadan kaldırmak istiyorsanız, yalnızca döviz 
+ticareti yapmalısınız. Dövizler hafta boyunca, 24 saat boyunca işlem 
+görecektir. Piyasa Pazar akşamı açılır ve gelecek Cuma akşamı kapanır. Bu 
+nedenle sürpriz yoktur.
+Daha sonra Cuma gecesinden önce tüm açık pozisyonları kapatmalısınız. Genellikle, hafta 
+sonundan sonra pozisyonunuzun tutulmaya devam etmesi gerektiğine ikna olduysanız, Pazar 
+akşamı veya Pazartesi sabahı onları yeniden açabilirsiniz.
+Döviz ticareti yaparken, riskinizi de en iyi şekilde hesaplayabilirsiniz. Sadece giriş 
+fiyatı ile stop-loss emriniz arasındaki mesafeyi riske atarsınız.
+Bu önemli bir avantajdır. Çoğu broker ile pozisyon boyutlarını da önemli ölçüde 
+kontrol edebilirsiniz. Sözde mikro lotlarla başlamanızı öneririm. Bunlar 1000 ABD $ 
+-Lot'tur. Bir Pip'teki her ufak değişiklik size yalnızca burada 0,1 ABD $ kazandırır veya 
+kaybettirir. 50 pip kaybederseniz, yalnızca 5 ABD $ kaybetmiş olursunuz. Bunu idare 
+etmek güvenlidir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 18 ===
+5. Swing Ticaret Kurulumları
+Şimdi yöntemimin en önemli kısmına geliyoruz: işlem yaptığım kurulumlar. Tekrar 
+ediyorum, bunu olabildiğince basit tutmaya çalışıyorum. Sık sık işlem yaptığım 
+kurulumların bazı örneklerini göstereceğim. Bir kurulum temelde bir borsa 
+grafiğindeki belirli bir desenden ibarettir. Belirli desenler tekrar tekrar ortaya 
+çıktığından, yatırımcılar yıllar içinde belirli terimler üzerinde anlaşmışlardır. Bunların 
+çoğu o kadar basittir ki her amatör yatırımcı bunları hemen anlayabilir.
+Bu arada, burada yalnızca giriş fırsatlarından bahsediyorum. Stop'un nereye 
+yerleştirilmesi gerektiği ve belirli bir piyasa durumunda bir hedef gördüğüm yer, bu 
+swing trading hakkındaki bu serinin üçüncü kitabının konusu olacak. Bu nedenle 
+üçüncü kitabın başlığı: "Stop'umu nereye koymalıyım?" Bu yüzden önce kolay kısımla 
+başlayacağım: nereden girerim?
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 19 ===
+A. Destek ve Direnç
+Bazı yatırımcılar için bu yaklaşım çok basit olabilir. Gerçek şu ki, ne 
+yaptığınızı bildiğiniz sürece, destek ve direnç seviyeleri hala piyasanın 
+sunabileceği en güçlü kurulumlar arasındadır.
+Destek ve direnç terimleri teknik analizden türetilmiştir. Analistler, 
+grafikte piyasanın tekrar tekrar yukarı doğru döndüğü bir fiyat seviyesi 
+keşfettiklerinde destekten bahsederler. Bu, destekte alım baskısının 
+açıkça artarak fiyatları tekrar yukarı doğru ittiği anlamına gelir. Direnç 
+oluştuğunda, tam tersi olur. Burada, fiyatları aşağı iten giderek daha 
+fazla satıcı ortaya çıkar.
+Böyle bir fiyat seviyesinin var olmasının nedeni farklı olabilir. Hisse senedi piyasalarında, 
+genellikle daha büyük bir yatırımcının ancak belirli bir fiyat seviyesine ulaşıldığında satın 
+almaya başlaması olur. İyi bir yatırımcı, büyük köpekbalıklarıyla birlikte yüzerek bu fiyat 
+seviyesinden satın alarak bu durumdan faydalanabilir, yeter ki fiyatları yukarı doğru 
+yönlendirsinler.
+Hisse senedi endekslerinde veya döviz piyasalarında da durum elbette böyledir. 
+Ancak burada, genellikle tamamen teknik grafik değerlendirmeleri rol oynar. 
+Genel piyasalar daha teknik odaklı piyasalardır. Dünya çapında çoğunlukla on 
+binlerce yatırımcı yer alır. Hepsi grafiklerinde aynı fiyat etiketlerini izler. Fiyatların 
+sanki bir mucize eseri belirli seviyelerde dönmesine şaşmamak gerekir ve bu 
+genellikle art arda birkaç kez gerçekleşir.
+Bu pivot noktalarını tanıyabilen bir swing tüccarı karlı bir strateji 
+geliştirebilir. Destekten satın alır ve dirençten satar
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 20 ===
+(veya kısa keser). Kavramı bazı örneklerle açıklamak istiyorum.
+Şekil 7: Ham Petrol, 4 saatlik grafik, HeikinAshi
+Bu örnek şu şekildedir:Mini Ham Petrol Vadeli İşlemlerikavramı oldukça iyi bir 
+şekilde açıklıyor. Petrol fiyatı iki alan arasında dalgalanıyor gibi görünüyor ve 
+tanınabilir bir yan hareketle işlem görüyor. Buna bir"menzil".Açıkça görülebilen, 
+ham petrolün tekrar tekrar aşağı döndüğü (üst yatay çizgi) 61,74 ABD dolarındaki 
+üst fiyat seviyesidir. Analistlerin direnç dediği şey bu fiyat seviyesidir.
+Aşağıda 58,28 ABD dolarına ulaşıldı, fiyat tekrar yukarı doğru döndü (alt yatay 
+çizgi), bu yüzden teknik analistler bundan destek olarak bahsediyor. Fiyat 
+hareketlerinin bir miktar "abartılı" olması petrol piyasası için tipiktir. Bunu bu 
+örnekte, özellikle de destekte görüyoruz. Hemen iki kez aşağı doğru kırıldı. 
+Birkaç saat sonra ham petrol aralığa geri döndü. Bu tür abartılar veya 
+"sahteler" ile nasıl işlem yapılacağını, salınım ticareti üzerine bu serinin ikinci 
+bölümünde açıklayacağım.
+Bu tür aralıklar tüm piyasalarda meydana gelebilir. Fiyat, daha büyük 
+oyuncularının ya satın aldığı (destek) ya da sattığı (direnç) iki seviye arasında eşit 
+olarak sıkışmıştır. İyi bir swing tüccarı, hedef fiyat direnciyle destek satın alarak ve 
+fiyat hedef desteğiyle direnci satarak bu gerçeği kullanabilir. Tüccarın kısa 
+pozisyonlar için bir önceki mumun düşük seviyesinin hemen altına veya bir önceki 
+mumun yüksek seviyesinin üzerine yerleştirdiği koruyucu durdurmalar.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 21 ===
+B. Çift üst ve çift alt
+İlginç bir giriş noktası, sözde çift tepe ve çift diptir. Çift tepe, fiyat ilk 
+konsolidasyondan sonra tekrar önceki yükselişin zirvesine ulaştığında 
+ancak kırılamadığında oluşur. Fiyatlar geri düşer, çünkü tüm piyasa 
+katılımcıları artık satın alma baskısının azaldığını bilir.
+Şekil 8: EUR/USD, Günlük Grafik, HeikinAshi
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 22 ===
+EUR/USD'deki bu çift tepe örneği Mart ve Mayıs 2014 arasında 
+gerçekleşti. Euro, sözde "Euro krizi"nden sonraki aylarda 
+toparlanmıştı ve ABD dolarına karşı 1,40 işaretine doğru ilerliyordu. 
+Burada euro, Şekil 8'deki (her iki ok) çift tepeyi oluşturdu.
+Çift tepe noktasının ikinci noktasında (sağda) ilginç olanı görmekti
+ok), 13 Mart'taki ilk zirve 8 Mayıs 2014'te kısa sürede aşıldı ancak 
+günlük mum ilk zirvenin altında kapandı. EUR/USD işlem günü 
+boyunca 1,3992 seviyesine yaklaştı ancak 1,40'lık yuvarlak işarete 
+ulaşamadı.
+Bu tür detaylar swing yatırımcılarının dikkat etmesi gerekenlerdir. Bu bilgi 
+yatırımcıya 1,40'lık yuvarlak işarette büyük satış emirlerinin beklemesi 
+gerektiğini söyler, bu da euronun bu seviyeyi aşmasını önlemelidir. Sonuç, 
+sonraki günlerde ve haftalarda döviz çiftinin net bir şekilde satılmasıydı. 
+500 pip daha düşüktü.
+Ancak, hepsi bu kadar değildi. Bu ilk aşağı yönlü hareket, EUR/USD'de 
+daha büyük bir düşüş trendinin başlangıcıydı ve sonunda çifti 1,05'in 
+altına düşürdü. Başka bir deyişle: Çift tepe toplamda 3500 pip için 
+iyiydi! Burada kısa pozisyon açıp 1,40'ın üzerinde bir koruyucu stop 
+koyan kişi harika bir getiri elde etmiş olurdu.
+Bu fırsatlar nadir olsa da, varlar ve her swing yatırımcısının bu hareketlerden 
+en azından bazılarını almaya çalışması gerektiğine inanıyorum. Bu 
+kategorideki tek bir işlem, işlem yılınızı yapabilir.
+Tersi durum çift dip ile gerçekleşir. Aşağıdaki örnekte, Şubat 2016'dan 
+itibaren E-mini vadeli işlemleri (Şekil 9) fiyatları ilk dibe ulaşmış, ardından 
+geçici olarak toparlanmıştır. Yenilenen bir gerilemede ikinci kez ilk dibe 
+ulaşmışlardır, ancak burada satıcılar artık piyasayı aşağı itememiştir. Sonuç: 
+Fiyatlar tekrar yükselmeye başlamıştır ve çift dip mükemmel olmuştur.
+Şekil 9: E-mini, günlük grafik, HeikinAshi
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 23 ===
+Bu örnek Amerikan borsa endeksinin geleceğindenS&P500örnek bir 
+standarttır. 20 Ocak 2016'da fiyat 1804'te ilk düşük seviyeye ulaştı. Sonraki 
+işlem günlerinde biraz toparlandılar ancak ikinci kez geri döndüler ve 11 Şubat 
+2016'da 1802.50'de ikinci bir düşük seviye oluşturdular. Şimdi, bu ikinci düşük 
+seviye gerçekten de birinciden daha derin bir "şeydi". Gün boyunca E-mini 
+toparlandı ve sözde bir ters dönüş mumu oluşturdu. Bu, yeni bir düşük 
+seviyeyi işaretleyen ancak işlem seansı sırasında günün yüksek seviyelerine 
+yakın kapanan bir mumdur. Bu nedenle satıcılar fiyatları düşük tutmayı 
+başaramadılar.
+Ertesi gün, E-mini dönen bir tepe oluşturdu. Bu, küçük bir gövdeye sahip 
+ancak gövdenin üstünde ve altında uzun gölgeleri olan bir oluşumdur. 
+Bu tür mumlar, alıcılar ve satıcılar arasında bir denge durumunu 
+gösterir. En azından satış baskısı gitmişti ve artık bir çift diple 
+uğraştığımız ihtimali kesinleşmişti.
+Şekil 10: FDAX, 4 saatlik grafik, HeikinAshi
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 24 ===
+Şekil 10'da gösterildiği gibi, mükemmel işlem fırsatları da üçlü diptir.
+FDAX. Bu dip oluşumu oldukça ilginçti, çünkü ikinci dip (orta ok) 
+birinci ve üçüncüden biraz daha aşağıdaydı. Bu, bir yandan tüccara 
+diplerin burada gerçekten keşfedildiğini ve diğer yandan alıcıların 
+piyasayı yakalamak için her zaman bu seviyede hazır beklediğini işaret 
+ediyor.
+Bu gerçeği mumlar arasındaki uzun gölgelerde (üç ok) fark edebilirsiniz. Bu, 
+bu mumları yukarıda belirtilen tersine dönüş mumlarına dönüştürür, bu da 
+aslında üçüncü düşükten sonra gerçekleşen diğer yönde %180'lik bir dönüş 
+olduğunu gösterir. Satın alma sinyali, son tersine dönüş mumundan sonraki 
+ilk beyaz mumdan sonra geldi (sağdaki üçüncü ok).
+Şekil 11: SMI Vadeli İşlemleri, günlük grafik, HeikinAshi
+Sıra dışı olaylar bazen sıra dışı fırsatlar bile getirir. Bazı tüccarlar 15 
+Ocak'taki sözde "İsviçre Frangı Tsunamisi"ni hatırlayacaktır.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 25 ===
+2015. İsviçre Merkez Bankası'nın frangı avroya bağlama kararını bir 
+anda kaldırdığı tarihti. Frangın fiyatı yarım saat içinde %20 arttı, bu da 
+Forex piyasasında büyük bir hareket anlamına geliyor.
+Bunun elbette İsviçre borsası üzerinde sonuçları oldu. Şekil 11, SMI-
+Future'ı, yani bu günlerde İsviçre hisse senedi endeksinin geleceğini 
+gösteriyor. Endeks çöküşten sonraki günlerde sakinleştikten sonra, 
+HeikinAshi grafiğinde çift dip (oklar) oluştu ve bu da olağanüstü bir fırsat 
+sağladı. Sonraki haftalarda endeks bu olaydan tamamen kurtuldu. 
+Kayıplar her gün telafi edildi ve HeikinAshi mumları bunu etkileyici bir 
+şekilde kanıtlıyor.
+Bir swing yatırımcısı için, örneğin, makul bir çöküş yaşamış piyasaları 
+gözlemlemek oldukça değerlidir. Bu SMI örneğinde olduğu gibi, bir 
+geri dönüşü ima eden bir oluşum bulmanız çok önemlidir. Sonunda, 
+piyasalar aldıkları en derin darbelerden bile kurtulurlar.
+Hisse senetleri için durum her zaman böyle değildir, çünkü hisse senetlerinin tamamını 
+temsil eden endekslerin aksine, şirket hisseleri, ekonomik tarihin bazı muhteşem 
+iflaslarının etkileyici bir şekilde kanıtladığı gibi, sıfıra düşebilir. Bu aynı zamanda bir swing 
+tüccarı olarak genel piyasalarda işlem yapmamın da bir nedenidir. Piyasalar iflas etmez. 
+Şirketler iflas eder.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 26 ===
+C. Kopuşlar
+Kabul ediyorum, kopuşlar son yıllarda eleştiri konusu oldu ve haklı olarak da 
+öyle. Argüman şu: Bu kalıbı kârlı bir şekilde işlem yapmak için çok fazla yanlış 
+kopuş var. Bu argümanı anlıyorum, ancak tüm kopuş durumlarının 
+eşitlenemeyeceğini de açıkça belirtmek isterim.
+Swing trading üzerine olan bu serinin ikinci kitabında, sözde sahte kopuşlar veya 
+"sahteler" olgusunu ayrıntılı olarak ele alacağım ve günümüz piyasalarının gerçek 
+gereksinimlerini karşılayan çok karlı bir ticaret stratejisinin nasıl 
+geliştirilebileceğini göstereceğim.
+Sola doğru yatmanız gereken belirli kopuşlar vardır. Kurallarımdan biri şudur: 
+Yukarıda belirtilen konsolidasyon ne kadar uzun sürerse (piyasanın bir desteği 
+veya direnci kırmak için aldığı test sayısı ne kadar fazlaysa) olası bir kopuş o kadar 
+önemli hale gelir. Başka bir deyişle: Beş deneme üçten çok daha önemlidir. Böyle 
+bir şey gördüğümde, o zaman ilgimi çeker.
+Şekil 12: EUR/JPY 4 saatlik grafik, HeikinAshi
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 27 ===
+EUR/JPY (Euro - Japon Yeni) döviz çiftinin bu örneği umarım 
+söylediklerimi açıklar. Çiftin düz bir direnç çizgisini aşmak için birkaç 
+kez denediğini görebiliriz. Çift başarılı olana kadar toplam 8 deneme 
+oldu (yukarıdan oklar). Kırılma, bu gibi durumlarda sıklıkla olduğu gibi 
+muhteşem değildi. Aksine, çift çizginin üzerinde saatlerce gezindi ve 
+tekrar tekrar altına kısa yolculuklar yaptı (aşağıdan yukarıya 4 ok).
+Bu nedenle swing trader'ın iyi bir giriş düşünmek için tüm zamanı vardı 
+ve bu da bir noktada ödeme yaptı. Zirvede, alınacak 400 pip vardı!
+D. bayraklar
+Güçlü trend hareketlerinden sonra, geçici konsolidasyonlar nadir değildir. 
+Piyasa kısa bir süre dinlenir ve ardından trend hareketine devam eder. Bu 
+nedenle bu durumda trend devamı kalıplarından bahsediyoruz. Bu 
+oluşumlar farklı biçimler alabilir, ancak en iyi bilinenleri muhtemelen sözde
+bayraklar.
+Bu nedenle, "bayrak" imgesi tüccarlar tarafından kullanılır, çünkü oluşum aslında 
+bir tür bayrağa benzer. Önceki yükseliş trendi bayrak direği olarak kabul edilirken, 
+kısa karşıt konsolidasyon bir bayrak olarak görülebilir. Buna göre, sadece 
+bayraklar değil, aynı zamanda flamalar da vardır. Bir flamanın konsolidasyonu, 
+bayrak gibi paralel bir trend kanalında ilerlemez, ancak bir uçta ilerler.
+Trendin devamı üzerine spekülasyon yaparsanız, bu trendin hala güçlü olduğunu ve 
+bitmediğini beklersiniz. En azından bir bayrak bunu gösterir. Aralık ticaretinin aksine, 
+buradaki tüccar gerçekten büyük trendler üzerine spekülasyon yapar, ki bunlar elbette 
+zaman zaman borsada meydana gelir.
+Bayraklar, bunları bir grafikte tanımlayabilen bir tüccar için mükemmel fırsatlardır. 
+Sadece bu desenle ilgilenen ve sadece bayrak ticareti yapan tüccarlar vardır. Yükseliş 
+trendindeki bayraklara basitçe boğa bayrakları denir. Düşüş trendinde
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 28 ===
+eğilimde bunlara ayı bayrakları denir. Çoğunlukla aşağıdaki şekil 13'teki gibi ana eğilime ters 
+yönde hareket ederler.
+Şekil 13: FDAX, 4 saatlik grafik, HeikinAshi
+FDAX'teki bu örnek, boğa bayrağı kavramını çok iyi bir şekilde göstermektedir. 
+Grafiğin sol tarafında belirgin bir yukarı yönlü trend görüyoruz. Çoğu HeikinAshi 
+mumu beyazdır. Birkaç saat süren belirgin zıt hareket meydana gelir. Burada 
+mumlar siyahtır, çünkü piyasa geçici olarak geri düşüyor gibi görünmektedir. Bu 
+konsolidasyon aşaması yalnızca kısa bir süre sürer. Bir süre sonra FDAX tekrar 
+yükselmeye başlar.
+Genellikle, bayraklar küçük bir trend kanalında uzanır. Bu kanalın üst çizgisinin 
+kırılması satın alma sinyali sağlar. Bu nedenle boğa bayrakları da ilginçtir çünkü 
+genellikle bu örnekte olduğu gibi güçlü trend evrelerinde ortaya çıkarlar. Piyasa, 
+bayrağın bitiminden kısa bir süre sonra trendine devam etmelidir. Tüccar, 
+bayrağın trend kanalının biraz altında bir stop ile pozisyonunu güvence altına 
+alabilir.
+Bayraklarla, tüccarlar genellikle iyi bir risk-ödül oranı elde ederler. 10.900 
+puandan satın alınan bir pozisyon 100 puanlık bir stop ile korunabilirdi. 
+Ancak, bu swing ticareti 1500 puan getirdi! Başka bir deyişle, ticaret 1:15'lik 
+olağanüstü bir risk-ödül oranı (RRR) üretti!
+DAX gibi bir endekste bu, hiçbir zaman tehdit altına girmeyen büyük bir 
+kârdır. Bayraktan sonraki bu alım dalgası sırasında, HeikinAshi Mumları
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 29 ===
+kalıcı olarak beyaz kaldı. Çıkış ilk siyah mumdan sonra 1500 puan daha 
+yukarıda gerçekleşti.
+Bu tür fırsatlar 4 saatlik bir grafikte tekrar tekrar gerçekleşir. Bu nedenle, 
+yatırımcının bu tür durumları bekleyecek sabrı varsa, bu zaman diliminin çok 
+karlı olabileceğine inanıyorum.
+6. Para Yönetimi
+Para yönetimi, bir yatırımcı için kesinlikle en önemli araçlardan biridir. Risk açısından, 
+elbette, bunun her yatırımcı tarafından farklı şekilde ele alındığı unutulmamalıdır. 
+Genel bir kural olarak, işlem başına sermayenizin %1'inden fazlasını asla riske 
+atmamalısınız.
+Bunun iyi bir nedeni var. Diyelim ki üst üste 10 kez yanlışsınız (ki bu nadir 
+görülen bir durum değil, çünkü nadiren olur). %1 riskle sermayenizin %10'unu 
+kaybedersiniz. Şimdi tekrar denge noktasına (0'a) dönmek için %11 kar elde 
+etmelisiniz. Bu yapılabilir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 30 ===
+Ancak, işlem başına %5 risk alırsanız (ki birçok yeni başlayan bunu yapmayı sever) ve üst 
+üste 10 kez kaybederseniz, sermayenizin yarısı çoktan gitmiş olur. Bunun ruh haliniz için 
+son derece zararlı olduğunu söylemeye gerek yok. Ayrıca, artık hissenizi geri almak için 
+%100 kar elde etmeniz gerektiği gerçeği.
+Tavsiye edeceğim bir diğer yaklaşım, işlem başına maksimum risk olarak 
+sabit bir miktar belirlemektir. Örneğin, işlem başına 100$'dan fazla risk 
+almayacağınız konusunda kendinizle anlaşabilirsiniz. Bu, şu anki konfor 
+alanınız olacaktır. Daha sonra, bilgi ve güven seviyeniz arttığında, bu 
+tutarı yine de artırabilirsiniz.
+7. Ticaret Günlüğü
+Herhangi bir yatırımcıya (sadece yeni başlayanlara değil) bir işlem günlüğü öneririm. 
+Yıllar boyunca işlemlerimin böyle bir günlüğünü tuttum. Neden mi? Bir süre sonra kendi 
+işlem davranışınızla ilgili çok ilginç istatistikler elde ediyorsunuz.
+Bir günlük, örneğin bir dizi işlemden sonra hangi piyasalarda işlem yaptığınızı söyler.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 31 ===
+iyi ve sizin olduğunuz yer daha az iyi. Bu ilginç bir bilgi değil mi? Ve bunun 
+yerine güçlü yönlerinize odaklanmak mantıklı değil mi?
+İsviçre frangı ve Kanada dolarında iyiyim. Ancak İngiliz Sterlini'ne 
+dokunmuyorum. Buradaki istatistiklerim hiç iyi değil. FDAX ve Euro ile işlem 
+yaparken nispeten iyiyim, ancak Dow Jones'ta zirvedeyim. Eğer böyle 
+verileriniz varsa, umarım hangi piyasalarda işlem yapmanız gerektiği açıktır.
+Psikolojik bir kazanç da var. Bir günlük size güvenlik sağlar. 
+İşlemlerinizin günlük ve haftalık takibi ve incelemesi size istikrar ve 
+süreklilik sağlar. Bu, özellikle işler yolunda gitmediğinde önemlidir. 
+Daha sonra günlüğünüze bakabilir ve daha önce böyle dönemler 
+olduğunu görebilirsiniz. Ve tekrar olacak... Bu, basitçe ticaret işine 
+aittir.
+İşte kendi ticaret günlüğümden bir örnek:
+Şekil 14: Ticaret Günlüğü
+O hafta 13 işlem yaptım. Bunlardan en az 9'u kayıpla sonuçlandı! Ancak, bu 
+tamamen normal bir hafta. Görüyorsunuz, pek iyi görünmüyordu
+Perşembe gününe kadar, 11 Nisan'a kadar. Ama sonra, Cuma günü iki tane çok karlı
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 32 ===
+gümüş piyasasındaki kazançlar. Bu 2 kazanan tüm hafta boyunca fark 
+yarattı. Ancak yaşadığım kayıpların sayısını sınırlamasaydım, hiçbir kar elde 
+edemezdim. Şimdi Bakiye + 1.002 €, işlemlerin %60'ından fazlasının 
+kaybedilmesi gerçeğine rağmen fena değil.
+8. Peki bu ne anlama geliyor?
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 33 ===
+Bu örneği bilerek ticaret günlüğümden seçtim çünkü ticaret sanatını 
+oldukça iyi bir şekilde gösteriyor. Bu haftaki 13 işlemin çoğu az kar 
+getirdi veya hatta zararla sonuçlandı. Bu tamamen normal ve günlük 
+bir olay. Ancak, bazen Cuma günü bu iki gümüş işlemi gibi gerçekten 
+iyi bir şans yakalarsınız. Farkı yaratan bu iki işlemdir.
+Daha önceki günlerde disiplinli bir yaklaşım sergilemediyseniz, bu işlemleri 
+genellikle elde edemezsiniz. Bir yatırımcı olarak sahip olduğunuz en önemli 
+psikolojik sorun, bu kazananların ne zaman ortaya çıkacağını asla bilememenizdir. 
+Ancak bir şey kesindir: Bu fırsatlardan herhangi birine iyi hazırlanmış olanlarımız 
+bu fırsatları değerlendirecektir!
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 34 ===
+Sözlük
+Bağlamak:Faiz getiren menkul kıymetler, ayrıca yıllık gelir veya borçlanma 
+senetleri Başa baş:Toplam maliyet ve toplam gelirin eşit olduğu nokta
+Şamdanlar:Japon analiz teknolojisine dayalı fiyat değişimlerinin 
+kodlanması
+CFD'ler:Fark Sözleşmeleri
+Devam deseni: Ana trendin kırılması ve sonrasında önceki yönün 
+devam etmesi.
+Korelasyon:Korelasyon, iki menkul kıymetin birbirine göre nasıl hareket ettiğinin 
+istatistiksel bir ölçüsüdür.
+DAX'ta:Alman borsa endeksi.
+Doji:Açılış ve kapanış fiyatlarının aynı seviyede olduğu mum 
+formasyonu.
+Günlük alım satım:Günlük ticaret, menkul kıymetlerde spekülatif kısa vadeli 
+ticareti tanımlar. Bir tüccar bir pozisyon açar ve aynı işlem günü içinde tekrar 
+kapatır.
+E-Mini Vadeli İşlemleri:Amerikan SP500 endeksi vadeli işlem 
+sözleşmesi. Döviz:Forex Döviz Piyasası, uluslararası döviz piyasası.
+Vadeli İşlemler:Vadeli işlem sözleşmesi. Belirli bir tarihte, belirli bir fiyattan belirli bir 
+miktarda emtiayı satın almak veya satmak için standartlaştırılmış sözleşme.
+Açıklık:İki işlem günü arasındaki fiyat farkı.
+HeikinAshi:""Tek ayak üzerinde dengede durma" fiyat değişimlerinin Japonca gösterim 
+biçimi.
+Gösterge:Menkul kıymetlerin fiyat hareketlerini belirlemeye yönelik 
+teknik analizin tanımı.
+Limit Emri:Sabit fiyat ve/veya sabit gerçekleşme zamanı ile emir verin.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 35 ===
+Likidite:Bir menkul kıymetin herhangi bir zamanda ne ölçüde alınıp 
+satılabileceğini açıklar.
+Piyasa Emri:Piyasa emri, emir verildiği anda borsada mümkün olan 
+en iyi fiyattan gerçekleştirilir.
+Momentum:Momentum, yatırımcıya fiyat hareketinin hızı ve gücü 
+hakkında bilgi verir.
+Mikrolot:Bir mikrolot, bir döviz çiftinde 1.000 dolarlık bir sözleşmeye karşılık geliyor.
+Para Yönetimi:Para Yönetimi, bireysel işlem pozisyonlarının büyüklüğünü 
+belirleyerek menkul kıymet portföyünün riskini kontrol etmeyi amaçlayan 
+bir stratejiyi ifade eder.
+OCO (Biri diğerini iptal eder):Stop-loss ve limit satışının birleşimidir; 
+limit veya stop fiyatına ulaşıldığında emir gerçekleştirilir ve her emir 
+diğer emri temizler.
+Pip:Nokta olarak yüzde, döviz ticaretinde fiyattaki en küçük değişim.
+Pozisyon Ticareti:Bir yatırımcının uzun vadede (aylarca, yıllarca) elinde tuttuğu 
+pozisyon.
+Menzil:Belirli bir zaman diliminde net olarak tanımlanmış işlem aralığı.
+Risk-ödül oranı (RRR):RRR, bir sistemin yararlılığının bir 
+göstergesidir. Maksimum kaybın beklenen karlılığına bölünerek 
+hesaplanır.
+Kısa pozisyon:Bir yatırımcının elinde olmayan bir pozisyonu satması (kısa satış) 
+anlamına gelir.
+S&P 500 (Standard & Poor's 500):ABD'deki en büyük 500 halka açık şirketin 
+hisselerinden oluşan borsa endeksi.
+Topaç:Küçük gövdeli ve uzun gölgeli grafik deseni 
+Yaymak:Alış ve fiyat teklifi arasındaki fark.
+Borsa endeksi:Genel hisse senedi piyasasının veya bireysel hisse senedi gruplarının 
+(örneğin DAX veya NASDAQ) performansının ölçüsü.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 36 ===
+Zarar Durdurma Emri:Belirli bir fiyata ulaşıldığında gerçekleştirilen satış 
+emri.
+Kar Al Emri:Kar Al emri, piyasa istenilen kar oranına ulaştığında 
+kullanılır.
+Tersine dönüş mumu:Bir ters mum (aynı zamanda Pin Bar) bir önceki 
+fiyat hareketini bir yönde sonlandırır ve ters yönde yeni bir fiyat hareketi 
+başlatır. Mumun kapanışı çoğunlukla tepededir.
+VIX'ler:VIX, ABD borsa endeksi S&P 500'ün beklenen oynaklığını ifade 
+eder.
+Volatilite:Standart sapma. Bir piyasanın fiyatının nasıl değiştiğini belirtir
+Bölüm 2: Sahteyi Ticarete Atın!
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 37 ===
+1.Tam bir aldatmaca!
+Finansal piyasalar bilgisayar çağında daha verimli hale geldi. O kadar 
+verimliler ki, özel yatırımcıları kalıcı olarak teste tabi tutan her türlü göz 
+kamaştırıcı aldatmacayı (aldatmacayı) göze alabilirler. Bazıları teknik 
+analizin artık işe yaramadığını iddia ediyor. Algoritmalar ve kara kutular 
+oyunu o kadar sarstı ki artık makul kurulumlar bulunamıyor, bırakın bunları 
+alıp satmayı.
+Bu şikayetler yeni değil ve bilgisayar çağından önce piyasalarda işlem 
+yapmanın daha kolay olup olmadığı sorusuna yalnızca o zamanlar orada olan 
+ve bugün hala işlem yapanlar cevap verebilir. Bunlar çok fazla değil. Bu 
+nedenle soru şu olmalı: Büyük Paranın aldatmacalarını, Stop Fishing'i, 
+oyunlarını ve algoritmalarını kendi avantajıma kullanabilmek için piyasalara 
+bakabilir miyim?
+Cevap gür bir evet! Pratik yaparak, bu püf noktalarını bir grafikte 
+bulabilir ve altta yatan niyetleri belirleyebilirsiniz. Hatta yalnızca sözde 
+"sahtekarlıkların" tespitine dayanan son derece karlı bir ticaret stratejisi bile 
+geliştirebilirsiniz. Böyle bir strateji, güncel olmayan yöntemlerle "piyasayı 
+yenmeye" çalışmak yerine, günümüz piyasalarının gerçeklerine karşılık 
+gelir.
+Benzer şekilde, sürü zekasına göre, finansal piyasalardaki tüm 
+oyuncular yeni dersler öğrendi. Ancak, karmaşıklık tartışmasız bir 
+şekilde artmış olsa da, aynı kalıplar tekrar tekrar gözlemlenebilir. 
+Bunlar teknik analizin olağan kurallarına dayansa da, onları kısmen 
+saçmalığa götürür, yani onunla ve beklentileriyle küçük bir oyun 
+oynarlar.
+Aldatmaca, teknik analizi hevesle benimsemiş birçok yatırımcının 
+saptırdığı kural haline geldi. Biraz abartarak, bugünün piyasaları için 
+şunu söyleyebiliriz: Önce aldatmaca gelir ve sonra gerçek hareket. Bunu 
+küçük bir balık olarak görenler köpekbalıklarıyla birlikte yüzebilir. Sonra, 
+ticaret yine gerçek bir zevke dönüşür, olması gerektiği gibi
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 38 ===
+Benim fikrim, bazıları iyi bir ticaretin gerekli can sıkıntısı olduğu konusunda ne 
+derse desin.
+Aldatmacanın veya sahtekarlığın gözlemini ticaret felsefesinin ilk 
+ilkesi yapan kişi, aynı zamanda büyük oyuncuların niyetlerini de gözlemler. 
+Bunlar nihayetinde orkestranın batonunu yönetir. Onları takip etmek hiçbir 
+zaman yanlış olmamıştır.
+"Sahtekarlıklarında onları tanıyacaksınız!" denebilir. Birkaç gün 
+boyunca oluşturulmuş destekleri veya dirençleri kırabilen ve orada 
+bekleyen tüm stop emirlerini avlayarak piyasayı neşeyle geri 
+itebilenler büyük oyunculardır. Daha az sermayeli kişiler bunu 
+yapamaz. Bir resim bin kelimeye bedeldir:
+Şekil 1: Ham Petrol Vadeli İşlemleri, 4 saatlik grafik
+Ham petrol vadeli işlemlerindeki bu örnek yukarıdaki ifadeyi oldukça iyi bir şekilde 
+göstermektedir. Ham Petrol vadeli işlemlerinin 44,20 ABD dolarında bir destek bulduğunu görüyoruz.
+13 Ocak 2015 (grafikteki yatay çizgi). Bu destek yaklaşık 2 hafta sürdü 
+ve birkaç kez test edildi (8 kez).
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 39 ===
+29 Ocak'ta piyasa bu desteği (ok) kırdı ve petrol vadeli işlemleri 
+geçici olarak 43,57 ABD dolarına düştü. Bu aşağı yönlü kırılma klasik 
+teknik analize kısa bir sinyal tetiklemiş olurdu ve birçok yatırımcının bu 
+sinyali gerçekten kullandığına ikna oldum.
+Belki de platformlarından "piyasanın" 44,20 ABD dolarının altına 
+düştüğüne dair bir bip sesi almışlardır. Öte yandan, 44,20 ABD dolarının altına 
+bir satış-dur emri vermişlerdi. Klasik doktrine göre böyle bir karar mantıksız 
+değildir. Sonuçta, vadeli işlemler bu önemli desteği önceki haftalarda toplam 
+sekiz kez test etmişti.
+Başka bir deyişle, tüm piyasa oyuncuları bu destek seviyesini gözlemledi ve 
+muhtemelen -benim yaptığım gibi- grafiklerinde yatay bir çizgiyle işaretlediler. Bu 
+nedenle klasik soru şuydu: destek dayanacak mı yoksa petrol fiyatı düşmeye devam 
+edecek mi?
+Ancak, eğitimsiz teknik analistleri yanlış yola sürükleyen tam da 
+bu klasik sorudur. Akıllı para, açıkça, bunun farkındadır.
+küçük oyuncular kendilerine bu soruyu soruyorlar. 29 Ocak'taki patlama 
+gerçekleştiğinde, karar Short! gibi görünüyordu. Şimdi, grafikte bu kararın yanlış 
+olduğunu görüyoruz. Future, 44,20 ABD doları seviyesinin altında birkaç saat kaldı 
+ve kısa sürede geri döndü. Breakout mumunun kapanış fiyatı 44,20 ABD doları 
+seviyesinin üzerindeydi. İddia edilen short sinyali bu nedenle bir aldatmacaydı 
+çünkü 4 saatlik bazda kapanış fiyatı en azından desteğin altında olmalıydı.
+"Ayılar" (satıcılar veya kısa vadeli satıcılar) geçici olarak fiyatı destek 
+seviyesinin altına sıkıştırmayı başardılar, ancak "boğalar" (alıcılar) hemen 
+sert bir çıkış yapmış ve düşük fiyatlardan piyasaya yeniden girme fırsatını 
+yakalamışlardı.
+Açıkça satıcılardan daha fazla alıcı vardı, fiyat tekrar yukarı 
+fırladı. Bu, Heikin Ashi grafiğindeki mumların uzun gölgesiyle 
+görselleştirilir. Mum çubuğu temsilinin ustaları bu deseni genellikle 
+boğa deseni olarak yorumlanan bir "çekiç" olarak tanımlayacaktır.
+Ancak çoğunlukla "Pin Bar" terimini bulmanız daha olasıdır. Bu, 
+"Pinocchio's Bar"ın kısaltmasıdır. Başka bir deyişle, uzun dar
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 40 ===
+Mumun gölgesi Pinokyo'nun burnunu sembolize ediyor, yani burada yalan 
+söyleniyor.
+Aşağı yönlü kırılma bu nedenle bir başarısızlık olayı veya aldatmaca olarak 
+duruyordu. Bu kitap boyunca, birçok yatırımcının bu olgu için kullandığı terim olan 
+"sahte çıkış"tan basitlik adına bahsetmeye devam edeceğim.
+Genellikle yalnızca büyük, yoğun sermayeli yatırımcılar bu kadar 
+güçlü bir desteği aşabilir. Bir şey açıktır: tüm piyasa oyuncuları destek 
+seviyesini haftalarca gözlemlediğinden, birçok fırsat avcısı fiyat destek 
+seviyesine yaklaşır yaklaşmaz piyasadan satın almaya isteklidir.
+Üstelik, günümüzde büyük oyuncuların çocuklarla küçük bir oyun oynamayı 
+sevmesi neredeyse bir kural haline geldi; herkes şu andan itibaren (aşağıya doğru 
+kırılmadan sonra) yeni bir fazın gerçekleştiğini, yani piyasanın düşmeye devam 
+edeceğini iddia ediyor. Uzun pozisyonlarını doğal olarak desteğin hemen altında 
+bir stop-loss emriyle koruyan fırsat avcıları, fiyatın ani düşüşüyle   durdurulacak.
+Ayrıca, açığa satış yapanların stop-sell emirleri (bunlar fiyatların 
+düşmesine bahse girenlerin emirleridir) gerçekleşir ve piyasayı daha da 
+aşağı çeker.
+İşte büyük oyuncuların beklediği an! Çünkü hikayenin özeti, 
+birçok durumda sözde "satıcılar" ve sözde "alıcılar"ın genellikle aynı 
+aktörler olmasıdır. Piyasayı aşağı itmeden önce, uzun zaman önce 
+aynı stop-loss seviyelerinin altına büyük alım emirleri vermişlerdir. Bu 
+alım emirleri piyasayı durdurur ve piyasa tekrar yükselmeye başlar.
+Kısa vadeli satıcılar aniden yanlış ata yatırım yaptıklarını fark ederler ve 
+sözleşmelerini geri satın alarak kısa pozisyonlarını kapatmaya zorlanırlar. Bu, 
+piyasayı daha da yukarı iter ve kısa süre sonra piyasa haftalardır olduğu yere, 
+yani 44,20 ABD dolarının üzerine geri döner.
+Bu şoktan sonra, elbette, kimse tekrar short pozisyon açmak istemez. 
+Sonuç, grafiğin sağ tarafında açıkça görülebilir. Başarısız kırılmadan birkaç 
+saat sonra, piyasa sanki yarın yokmuş gibi yükselmeye başlar.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 41 ===
+Petrol fiyatı birkaç gün içinde 10 dolar yükseldi. Heikin Ashi mumlarının güzelliği, 
+tüccarın bu eğilimi doğru bir şekilde belirleyebilmesidir.
+Büyük oyuncular eğlendiler ve destek seviyesinin neredeyse 0 risk 
+altında piyasaya girdikten sonra büyük karlar elde edebildiler. Aldatmaca 
+mükemmeldi. Küçük yatırımcılar (fırsat avcıları ve kısa yatırımcılar) 
+fakeout ile piyasadan kayıpla fırladılar ve artık bir pozisyon almaya 
+cesaret edemiyorlar. Akıllı para bir kez daha herkesin burnunu 
+yuvarlamayı başardı.
+Bu fenomenle, günümüz piyasalarında tekrar tekrar karşılaşacaksınız. 
+Temel bir desenden bahsedilebilir ve bunu anlayanlar, yalnızca bu tür 
+aldatmacaları veya sahtekarlıkları gözlemleyerek çok karlı bir strateji 
+geliştirebilirler. Ayrıca, bu desenin scalping faaliyetim günlük ekmeğim 
+haline geldi.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 42 ===
+2. Sahte Hesaplar Nasıl Tespit Edilir?
+Sahtekarlıklar veya aldatmacalar piyasadaki her yerde ve mümkün olan her yerde 
+meydana gelebilir ve her zaman kolayca fark edilmezler. Sahtekarlıkları en iyi nerede tanıyıp 
+bulacağınıza dair bazı tavsiyeler listelemek istiyorum. Bunun genellikle trend olan piyasalarda, 
+özellikle de yüksek hacimde meydana geldiklerinde daha az olduğunu göreceksiniz.
+Bu tür piyasaların manipüle edilmesi çok zordur çünkü piyasa 
+katılımcıları piyasayı hangi yönde satın almak veya satmak istedikleri 
+konusunda hemfikirdir. Ayrıca, Trend piyasaları elbette güçlü trendden 
+faydalanmak isteyen on binlerce yatırımcının dikkatini çeker.
+Açık bir trendde olan piyasaların grafiklerini incelerseniz, 
+çoğunlukla düzenli fiyat gelişimi görürsünüz. Bu, mum çubuğu 
+gösteriminde ve hatta Heikin Ashi grafik formunda açıkça yansıtılır.
+Bir piyasa keskin bir şekilde yükselirse, Heikin Ashi grafiğinde genellikle yalnızca 
+beyaz mumlar görürsünüz. Heikin Ashi grafiğine göre, piyasa belirgin bir düşüş 
+eğiliminde olduğunda yalnızca siyah mumlar kaydeder. Bu tür piyasaların sadık bir 
+takipçisi vardır, kural olarak, ticareti daha kolaydır ve manipüle edilmesi zordur.
+Trend sona erdiğinde veya hedefine ulaştığında, piyasa genellikle daha 
+sakin sulara girer ve oynaklık azalır. Genellikle o zaman geçer, yanlara doğru 
+hareket eder veya"menzil"Tüccarların dediği gibi.
+Bir aralık, piyasanın belirli bir hedef olmaksızın bir süre hareket 
+ettiği bir bölgeden başka bir şey değildir. Bir aralığın ortaya çıkma 
+nedeni çeşitli olabilir. Güçlü bir trendden sonra, piyasanın biraz 
+"dinlenmesi" doğaldır. Haberler ve yeni temeller artık kurslara 
+fiyatlandırılmıştır ve piyasa katılımcıları mevcut fiyat seviyesindeki fiyat 
+konusunda az çok hemfikir görünmektedir.
+Başka bir neden de basitçe ilgili haberlerin olmaması olabilir. Özellikle, 
+gerçekten de haberlere dayalı piyasalar olan döviz piyasalarında, işgücü 
+piyasası raporları veya faiz oranı kararları gibi önemli ekonomik verilerin 
+olmaması, döviz çiftinin büyük dalgalanmalar olmadan yanlamasına hareket 
+etmesi anlamına gelir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 43 ===
+Elbette, bu durum piyasa oyuncularının önemli verilerin yayınlanmasını 
+beklediği zamanlarda da gerçekleşir. Birçok yatırımcının yayınlanmadan önce 
+pozisyonu olmayabilir. O zaman piyasanın net bir yönü olmadan dalgalandığı 
+görülür. Bu daha çok günlük yatırımcılar ve scalper'lar için bir piyasadır.
+Fiyat ara sıra Ping-Pong topları gibi zıplıyor ancak aralığı önemli 
+ölçüde terk etmiyor. Trendlere güvenen birçok yatırımcı bu aralıklara 
+ilgi duymuyor ve daha iyi şansların olabileceği diğer piyasalarda daha 
+iyi fırsatlar arıyor.
+Bu nedenle bir tüccarın şu anda bu veya şu piyasada neyin tehlikede 
+olduğu konusunda net olup olmadığı önemlidir. Piyasa güçlü bir trendin ardından 
+yavaşlıyor mu ve şimdi daha fazla hareket için güç mü topluyor? Katılımcılar 
+piyasanın gelecekteki yönü hakkında kendilerine fikir verecek önemli haberler 
+bekliyor mu? Alternatif olarak, bu piyasada hiçbir şey olmuyor mu?
+Az sayıda yatırımcı trendsiz bir piyasayla ilgilendiğinden, hacim doğal 
+olarak daha düşüktür. Ancak, bu tam olarak fakeout'ların tercihen 
+gerçekleştiği piyasa türüdür. Sadece birkaç oyuncu dahilse, orta ölçekli bir 
+oyuncunun fiyatı kısa bir süreliğine bir veya diğer yönde hareket ettirmesi 
+doğal olarak daha kolaydır.
+Özellikle fiyat aralığın en altında (destek) veya en üstte (direnç) 
+olduğunda, iyi sermayelendirilmiş bir tüccar için sahte bir kopuş 
+aldatmacası yapmak cazip gelir. Manevraya yanıt vermeye hazır çok 
+sayıda tüccar olduğunu bilir. Bu nedenle, örneğin sahte kopuşu işlem 
+yaparak veya kopuşun sahte olduğu ortaya çıkar çıkmaz tekrar satarak, 
+her şeye gücü yeten poker oyuncusunu bilinçli veya bilinçsiz olarak 
+desteklerler.
+Bu durumda zavallı yaşlı adamlar, kopuşu kendisi işlem yapan 
+tüccarlardır. Piyasaya girer girmez, her şeyi bilen tüccarımız pozisyonunu 
+döndürür ve pozisyonları zarardadır. Sonunda yanlış ata bahis oynadıklarını 
+fark ederler ve işlemlerini zararla kapatmak zorunda kalırlar, bu da doğal 
+olarak piyasaya ek baskı uygular. Bu yüzden bazen grafiklerde yanlış 
+kopuştan sonra oldukça muhteşem satışlar görürsünüz.
+Bu nedenle, kopuşu beklemek ve bunun sahte bir kopuş olduğu 
+ortaya çıkarsa ters yönde hareket etmek daha tercih edilir. Hafif bir şekilde
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 44 ===
+abartı, şöyle denebilir: Amatörler kopuşu, profesyoneller sahteyi takas 
+eder. Ancak, elbette her zaman dikkatli olmak gerekir. Her kopuş sahte 
+değildir ve bazıları aslında yeni bir trend hareketinin sadece başlangıcıdır. 
+Bu durumda, tüccar pozisyonunu hızla kapatmalıdır.
+Sahteler tercihen teknik analizde destek ve direnç dediğimiz fiyat 
+seviyelerinde ortaya çıktığından, düzenli olarak tahmin edilebilir fiyat 
+hareketleri bekliyoruz. Bir destek, belirli bir fiyat seviyesindeki alım 
+baskısının satış baskısından biraz daha yüksek olmasından başka bir şey 
+ifade etmez. Bu nedenle, orada hiç satıcı olmadığı anlamına gelmez. Bunu 
+unutmamak gerekir, grafik "piyasanın" burada döndüğünü gösterse bile, 
+tüm satıcıların aniden ortadan kaybolduğu anlamına gelmez.
+Yine de, destek ve direnç kavramının yalnızca risk-ödül oranı 
+nedeniyle mükemmel işlem fırsatları sunmaya devam ettiğini 
+düşünüyorum. Birçok başarılı yatırımcı tam da bunu yapıyor: destek satın 
+alıyor ve direnç satıyor.
+Bu durum çok kolay görünen veya günümüz piyasalarında çok 
+fazla sahte olduğunu düşünen kişiler sahte ticaret fikriyle başa 
+çıkmalıdır. Sahte bir tüccardan, destek ve dirençteki olayları tam olarak 
+izleyen bir tüccar olarak bahsedebilirsiniz. Sahte bir kopuş tespit ederse, 
+hedef fiyat nihayetinde ne kadar uzakta veya yakın olursa olsun, hemen 
+bir ticaret fırsatı yakalar.
+Birçok scalper'ın bu durumdan faydalandığı ve yetenekli sahte 
+trader'lar olduğu kendi kendine konuşur. Yine de, fiyat hedefleri doğal 
+olarak swing trader'ınkinden daha kısaysa, aynı niyete sahiptirler ve 
+piyasayı ana trende doğru geri hareket ettirmeye yardımcı olurlar.
+Sahte tüccara, normal bir kopuş tüccarının tam tersini yapan 
+kurnaz tüccar demeyi severim. Bu tüccar, kopuşun başarılı olabileceği 
+umuduyla basitçe direncin üzerine bir stop-buy ve desteğin altına bir 
+stop-sell koyar. Bu yaklaşım bazen işe yarayabilir. Ancak, bu tür 
+tüccarların bir fakeout'un kurbanı olması daha olasıdır.
+Sahte bir tüccar bekler ve direnç ve destekteki olayların tam olarak nasıl 
+geliştiğini izler. Bir patlama olursa, önce bunu gözlemler. Patlama gerçekse, o 
+zaman devam etmesine izin verir. Hiçbir pozisyon almaz ve kesinlikle
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 45 ===
+trenin üstüne atlamaz. Bu yaklaşımı, bunun büyük olasılıkla başarısızlığa mahkum 
+olduğu bilgisiyle yeni başlayanlara bırakır.
+Eğer kopuş sahte bir çıkış olarak tanımlanırsa, ancak o zaman bu tip tüccar için 
+gerçek bir fırsat doğar. Bu nedenle sahte bir tüccarı, başarılı bir vuruş yapmak için 
+bazen saatlerce bekleyebilen bir keskin nişancıya benzetebilirsiniz. Sahte bir tüccar 
+bu nedenle doğal olarak sabırlı bir tüccardır.
+Bu, breakout ticaretinin artık işe yaramadığı anlamına gelmez. Breakout 
+ticareti çok iyi çalışır ve meşru bir ticaret stratejisidir. Ancak breakout tüccarı, 
+sahte breakout'ları tanıma ve bunlarla ticaret yapmaktan kaçınma konusunda 
+usta olmalıdır.
+Özellikle beklenen haber yayınlanırsa, aralıktan çıkış sıklıkla başarılı 
+olur ve piyasayı günlerce neredeyse hiç bitmeyen bir trende 
+dönüştürebilir. Sahte çıkışlara güvenen yatırımcı bunu da bilmelidir. Her 
+iki durumda da yatırımcı kesinlikle büyük kayıplara karşı işlem 
+sermayesini koruyan koruyucu bir durdurma emriyle çalışmalıdır.
+Sorun tam olarak şu ki, sahte çıkışlar artık kural ve gerçek çıkışlar 
+genellikle istisna. Başarılı çıkış, bu nedenle sahte çıkışların beraberinde 
+getirdiği birçok küçük kaybı telafi etmek için çok yüksek bir kazanç 
+sağlamalıdır. Bu nedenle, yüksek bir isabet oranı beklediğinizde çıkış 
+ticareti çok sinir bozucu olabilir.
+Ayrıca, her fakeout eşit olarak değerlendirilmemelidir. Ana 
+trende aykırı bir fakeout, trend yönünde bir fakeout'tan çok daha 
+ilginç bir fırsattır. Bunun nedeni basittir. Ana trend yukarı yönlüyse, 
+aralıktan aşağıya doğru sahte bir kopuş uzun pozisyon için 
+mükemmel bir fırsat olabilir. Ham Petrol'deki örnek (Şekil 1) bu 
+gerçeği çok iyi göstermektedir.
+Bazı yatırımcılar (ve ben de bu görüşü paylaşıyorum!) ana trende karşı yapılan 
+sahte çıkışların günümüz piyasalarında bulabileceğiniz en iyi işlem fırsatları olarak 
+kabul edilebileceğini düşünüyor. Sadece risk-ödül oranı nedeniyle bile olsa. Bir swing 
+yatırımcısı olarak bu kurulumla ilgilenmek kesinlikle değerlidir. Bu konuda bu kitapta 
+birkaç örnek göstereceğim.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 46 ===
+Ana trendler yönündeki sahte kopuşlar genellikle kısa vadeli 
+işlemlerdir. Bir tüccarın bu durumda bekleyebileceği en iyi hedef fiyat, 
+aralığın diğer ucudur. Bu nedenle, direnç kısa vadede aşılmışsa ve 
+tüccar bu hareketi bir sahte çıkış olarak tanımlayıp bu nedenle kısa 
+pozisyona girerse, hedefi aralığın desteğidir.
+Ancak bu durumda, yatırımcı her zaman bu sahte kopuşun yalnızca ilk girişim 
+olabileceğinin ve her an trend yönünde bir kopuşun çok iyi bir şekilde başarılı 
+olabileceğinin farkında olmalıdır. Hedef fiyata (aralığın diğer ucuna) ulaşmak hiçbir 
+şekilde garantili değildir. Bu nedenle, sahte kopuşlarla işlem yaparken her zaman 
+büyük resmi aklınızda bulundurun.
+Resim 2: FDAX, 4 saatlik grafik, Heikin Ashi
+Bu örnekte,FDAXİlk önce trende karşı yanlış bir kopuş görüyoruz 
+(aşağı ok). İşlemin amacı, aslında elde edilen (ulaşılan?) aralığın üst 
+ucuydu. İkinci yanlış kopuş, ana trend yönünde gerçekleşti (üstteki 
+ok). İşlemin hedefi, alttaki destek çizgisiydi. Bu hedefe ulaşılamadı ve 
+gerçek yukarı yönlü iki girişimden sonra kopuşun sonunda başarılı 
+olduğunu görüyoruz (ana trend yönünde).
+Bu nedenle yatırımcı, ana trende karşı işlem yapabileceğini sürekli 
+olarak hatırlamalıdır; ancak daha iyi şanslar genellikle trendde bulunur.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 47 ===
+2. Fakeouts'u nasıl alıp satabilirim?
+Herhangi bir işlem stratejisinin açık kuralları olmalıdır ve "Sahte İşlem 
+Stratejisi" de bir istisna değildir. Sahte işlemleri tespit etmek gelişmiş 
+stratejilere aittir; tüccar her yerde olduğu gibi kaybedilen işlemlerle uğraşmak 
+zorunda kalacaktır. Bu nedenle burada da risk ve para yönetimi kurallarını 
+uygulamanız zorunludur.
+Her şeyden önce, iyi risk-ödül oranlarına sahip işlemleri takip 
+etmelisiniz. Muhtemelen 1: 2'lik bir RRR elde etmeniz gereken minimum 
+değerdir, daha iyisi elbette 1: 3 veya daha yüksek olacaktır. Trade the Fake 
+stratejisini kullanırken dikkate aldığım bazı önemli noktaları aşağıda 
+özetledim. Bunlar kesin değildir ve kesinlikle bahsetmediğim varyasyonlar 
+vardır. Yine de, bu stratejiye başlamanız için yeterli olacaktır. Deneyimle, 
+grafiklerdeki sahte çıkışları kendiniz fark edebilecek ve kendi kurulumlarınızı 
+geliştirebileceksiniz.
+1. Grafikte konsolidasyon bölgelerini arayın. Bunları aşağıdaki durumlarda tanıyabilirsiniz:
+Fiyat dar bir aralıkta hareket eder ve bu nedenle çok az oynaklık gösterir.
+2. Mümkünse, trend çizgileri çizerek aralığı görünür kılmaya çalışın.
+en azından hatla iki temas olmalı ki meşrulaştırılsın. Ne kadar çok temas 
+olursa o kadar iyi.
+3. Bu aralıktan kopuşla işlem yapmaya çalışmayın, ancak bekleyin.
+kopuşun başarılı olup olmadığı ya da sahte olup olmadığı.
+4. Sahte bir çıkış tespit ettikten sonra; çıkış mumundan sonra bir
+Kırılmanın ters yönünde pozisyon. Mumun kapanış fiyatı hala aralığın 
+dışındaysa, bir sonraki mumu (mumları) bekleyin, çünkü bu durumda 
+başarılı bir kırılma olabilir.
+5. İkinci durumda, piyasa nispeten hızlı bir şekilde toparlanmalıdır.
+aralık. 4 saatlik grafikte, bu en geç 3-5 mumdan sonra yapılmalıdır. Aksi takdirde, 
+işlem yapmaktan vazgeçmeyi tercih ederim.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 48 ===
+6. Kısa vadeli işlemler için fiyat hedefi, aralık desteğidir (alt çizgi)
+Uzun vadeli işlemlerde fiyat hedefi aralık direncidir (üst çizgi).
+7. Durdurma noktasını her zaman en yüksek seviyenin biraz üzerine koymalısınız.
+Sahte mum (yukarı yönlü kırılmalarla) ve sahte mumun biraz altında 
+(aşağı yönlü kırılmalarla).
+8. En azından 1:2 risk-ödül oranına ulaşmalısınız. 2 Mesafe
+Örneğin durdurmaya 50 pip varsa, fiyat hedefiniz en az 100 pip uzakta 
+olmalıdır. Aksi takdirde, ticareti bırakırdım.
+Patlayıcı bir patlama görmemeniz önemlidir; direnç dikey olarak yukarı 
+doğru (veya bir destekte aşağı doğru) kırılır. Çünkü o zaman piyasa hissiyatı 
+gerçekten değişmiş olabilir ve kırılma başarılı olabilir veya hatta güçlü bir trendin 
+başlangıcını deneyimleyebilirsiniz.
+Bunun yerine, tercihen mumun altında veya üstünde bir gölge ile daha 
+küçük bir hareket gözlemlemelisiniz. İyi bir işaret, kopuş mumundan hemen 
+sonra doji veya dönen tepelerdir. Bunlar kopuştan sonra tereddütlü bir davranışa 
+işaret eder. Başka bir deyişle, gerçek bir momentum olmazsa, bu bir sahte çıkışla 
+uğraştığınızın bir göstergesi olabilir.
+Resim 3: doji ve topaçlar
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 49 ===
+Özellikle haberler zayıf olduğunda, kopuşlara karşı şüpheci 
+olmalısınız. Katalizör ne olabilir, tam olarak önemli haber değişiklikleri 
+olmasa bile, piyasa katılımcılarının bir piyasayı algılaması yeni bir trendi 
+mümkün kılar. Böyle bir katalizörün yokluğunda, sahte kopuşlar 
+beklemelisiniz.
+Özetle,aşağıdaki kriterlere göreşöyle tanımlanabilir:
+- Anlamlı ve doğrulanabilir bir destek veya direnç olmalıdır
+belirlenmiş (en az iki dokunuş)
+- Sahte bir çıkış veya sahte çıkış birçok piyasayı yanlış ayağa düşürdü
+oyuncular.
+- Destek (veya direnç) en kısa sürede yeniden yakalanmalı
+mümkün zaman. Ne kadar kısa olursa o kadar iyi.
+Bu kriterler basit ve açıktır. Yine de, bu olguyu bu kitapta birkaç 
+örnek kullanarak açıklayacağım, böylece grafikleri kendiniz incelerken 
+bunu tespit edebileceksiniz.
+Ancak 1. resimde görebileceğimiz önemli bir kural şudur: fakeout ne 
+kadar hızlı gerçekleşirse (burada 4 saatlik bir mum içinde), diğer yöndeki 
+sonraki hareket o kadar önemli olabilir.
+Resim 1'deki örnek bunu etkileyici bir şekilde gösteriyor. Ocak ayının en düşük seviyesi
+29. ABD 43.57 dolardı. Destekteki fakeout'tan sonra 44.20 dolara kadar uzun 
+pozisyon açtıysanız ve 43.50 dolara bir stop loss emri koyduysanız, 0.70 dolar risk 
+almış olursunuz. Zirvede 10 dolara kadar potansiyel kazanç elde etmiş olabilirsiniz.
+Başka bir deyişle, 10$'lık potansiyel bir kâr için 70 sent riske 
+atıyorsunuz. Bu nedenle 1:14'lük bir risk-ödül oranına sahip bir işleme 
+girmiş olursunuz. Bunlar olağanüstü fırsatlardır ve bence swing trading 
+yaparken tam olarak bu tür olağanüstü fırsatları belirlemeye çalışmalısınız. 
+Çünkü trading'den bahsettiğimizde bahsettiğimiz şey budur.
+Şekil 4: EUR/JPY 4 saatlik grafik
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 50 ===
+Benzer bir dava 6 Mayıs 2016'da açılmıştıAvro/Japon YeniBurada, 
+"piyasa" 121.70'teki desteği kısa bir süreliğine kırdı ve kısa süreliğine 121.47'ye 
+yükseldi. Bunların sadece 23 pip olduğu kabul ediliyor, ancak yine de ters 
+yönde 200 pip'in üzerinde önemli bir yükseliş görüyoruz.
+Bu durumda, yaklaşık 122'deki kırılma mumundan sonra satın almış olurdum ve 
+121.40'ta, yani fakeout'un düşük seviyesinin biraz altında bir stop koymuş olurdum. Bu 
+nedenle, 60 pip riske etmiş olurdum. Gördüğünüz gibi, USD/JPY 124'ün üzerine çıktı. Bu 
+nedenle, 200 kazanmak ve böylece yaklaşık 1: 3'lük bir risk ödül oranı elde etmek için 60 
+pip riske ediyorsunuz.
+Klasik doktrine göre desteği ikinci dokunuşla (grafik ortası) satın 
+almış olsaydınız, kârınız çok daha mütevazı olurdu. Gerçekten iyi bir şans 
+elde etmek için sahte çıkışlara karşı dikkatli olmak çoğunlukla işe yarar.
+Şekil 5: E-mini, 4 saatlik grafik Heikin Ashi
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 51 ===
+Uzun pozisyonlar için geçerli olan şey, elbette kısa pozisyonlar için de 
+geçerlidir, çünkü bu örnekteE-mini SP vadeli işlemleriaçıkça gösteriyor. Bu 
+durumda piyasanın 1992.75'te (yukarıdaki yatay çizgi) psikolojik olarak önemli 
+olan 2000 puanlık seviyeyle net bir direnç olarak karşılaştığını görüyoruz. Bu 
+seviye, 17 Eylül 2015'te "boğalar" 2000 Seviyesine (ok) saldırmaya başlayana 
+kadar üç kez test edildi. Bu fiyat seviyesinin aslında kısa bir süre için nasıl elde 
+edildiğini ve hatta aşıldığını açıkça görebilirsiniz. Ancak fiyatlar birkaç saat 
+içinde direncin altına geri düştü.
+Bu hareket bize "boğaların" açık bir başarısızlığını gösteriyor. Artık bunun 
+muhtemelen daha önce 2000 seviyesinde büyük satış emirleri vermiş olan tüccarlara bir 
+aldatmaca olduğunu biliyoruz. Satış emirlerinin yürütülebilmesi için "piyasanın" bu 
+seviyeyi kısa bir süreliğine ziyaret etmesini beklemeleri gerekiyordu.
+E-Mini'deki bu sahte çıkış, en azından 50 puana iyi gelen 
+mükemmel bir kısa fırsat olarak ortaya çıktı. Pozisyonu 2001 puanda 
+bir stop ile güvence altına alırdım, çünkü piyasa bu seviyeye ikinci kez 
+ulaşsaydı, kopuş başarılı olabilirdi.
+50 kazanmak için 10 puan riske etmek, swing yatırımcılarının iyi ticaret 
+alışkanlıklarından biridir. Bu, 1: 5'lik bir risk ödül oranına karşılık gelir. Bir swing 
+yatırımcısı olarak bu tür RRR'leri elde etmeye çalışmalısınız. Karlılığınızı artıracaksınız
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 52 ===
+ve çok karlı bir ticaret işi kurmak için sadece %50'lik bir isabet oranına ihtiyaç 
+vardır.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 53 ===
+4. Teknik grafik desenlerine sahip sahteler
+Sahtelerin temel örüntüsünü öğrendiğimize göre, bunları farklı piyasa 
+durumlarında takip edebiliriz. Bunlar genellikle belirgin teknik grafik 
+noktalarında gerçekleşir, çünkü akıllı para birçok perakende yatırımcının giriş 
+fırsatları için buraya baktığını bilir. Ayrıca, elbette, bu seviyelerin yakınında 
+birçok zarar durdurma emri vardır ve daha önce gördüğümüz gibi, akıllı para 
+için bu durdurmaları kaldırmak kolaydır.
+Yakalanmanıza izin vermeyin ve Akıllı Para oyununun içinden görmeyi 
+öğrenin. Arada sırada kartlarına bakabilir ve sonra fırsatı 
+değerlendirebilirsiniz. Küçük bir balık olarak, o köpekbalıklarıyla yüzmeye 
+gidebilirsiniz ve size temin ederim ki, ganimet buna değecektir!
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 54 ===
+A. bayraklar
+Şekil 5: USD/JPY, 4 saatlik grafik
+Bu örnekte, USD/JPY (ABD Doları - Japon Yeni) bazı piyasa 
+katılımcıları klasik teknik analizin beklentileriyle oyunlarını oynuyorlar. 
+USD/JPY belirgin bir yükseliş trendindeydi (grafikte solda beyaz 
+mumlar) ve her zamanki gibi kısa, açıkça tanımlanabilir bir 
+konsolidasyonla ayrılmıştı (grafik ortasında siyah mumlar).
+Bu konsolidasyon aşamaları genellikle ana trend yönünde 
+çözülen trende karşıt hareketlerdir. Bu durumda teknik analiz bir"
+boğa bayrağı"çünkü önceki yükseliş trendi bir bayrak direğine 
+benziyor ve karşıt konsolidasyon da bayrak gibi. Elbette, ayı bayrakları 
+da var.
+Teknik analistler, bu kısa konsolidasyon sıklıkla dar bir trend 
+kanalında ve burada USD/JPY'de olduğu gibi ilerlediği için deseni iki 
+trend çizgisiyle çizmeyi severler. Klasik beklenti artık bu trend kanalının 
+yukarı doğru çözülmesidir. Bu, üst kanal çizgisinin kırılmasıyla 
+gerçekleşir. Bu, yukarı doğru hareketin başka bir dalgası için satın alma 
+sinyali olur.
+Ancak, gördüğümüz gibi, önce tam tersi oldu. Alt kanal çizgisi 
+kırıldı ve bir satış sinyali tetiklendi. Sonuçta, bu "kırılma"
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 55 ===
+yaklaşık 100 pip için iyiydi. Bu kayma bu nedenle stop'larını piyasaya çok yakın 
+ayarlamış olan birçok trend takipçisini yakalamış olmalı.
+Ek olarak, bu örnekte, "satıcının" kısa süre sonra yeni "alıcılar" için 
+alanı terk ettiğini, bu alıcıların da kaymayı tamponlayıp piyasayı küçük 
+trend kanalı içinde geri satın aldığını görüyoruz. Kanal içinde daha fazla 
+konsolidasyon mumundan sonra bir doji belirdi ve bir sonraki mum, 
+klasik doktrine göre satın alma sinyalini tetikleyen beklenen kopuş 
+mumuydu.
+Sahte çıkışı ve dolayısıyla onu sahneleyen aktörlerin niyetini 
+gözlemleyen kişi, kurslar tekrar kanala girdiğinde çoktan satın almış 
+olurdu. Sahte tüccar, artık çok güçlü ellerin (Akıllı Para) kanalın dibine 
+ulaştığı anda USD/JPY'yi her an yakalayacağını bilir. Koruyucu stop, 
+sahte çıkışın alt gölgesinin hemen altına yerleştirilebilirdi.
+Bu şekilde, akıllı swing yatırımcısı, çıkış için beklemiş olsaydı 
+olacağından çok daha ucuz bir fiyata piyasaya girebilirdi. Stop'unu 
+kanalın altına yerleştirmek zorunda kalacak olan çıkış yatırımcısından 
+çok daha iyi bir risk-ödül oranı hesaplamıştı. Dolayısıyla burada da, 
+aksiyonun yakından izlenmesi daha akıllı bir işlem kararına yol 
+açacaktı.
+Çıkışlara gelince, Heikin Ashi grafiklerinin rengine göre böyle bir 
+trendde kendimi açıkça tutardım. Bu durumda, 1000 pipten fazlası bu 
+paritede canavarca bir kar olurdu.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 56 ===
+B. Üçgenler
+Üçgenler de teknik analistlerin klasik enstrümanları arasındadır. 
+Genellikle devam örüntüleri olarak adlandırılan örüntülere aittirler. 
+Bu, analistlerin beklentisinin bu geometrik örüntünün büyük trend 
+yönünde kırılması olduğu anlamına gelir.
+Şekil 6: DAX, 4 saatlik grafik, Mum çubuğu
+DAX'ın 4 saatlik grafiğinin bu görüntüsü bunu göstermektedir. Endeksin 
+düşen bir trendden sonra nasıl simetrik bir üçgene girdiğini görüyoruz. Bu, 
+volatilitedeki azalma ile karakterize edilir. Başlangıçta, volatilite hala büyüktür, 
+ancak kademeli olarak azalır. Yüksekler daha düşük ve düşükler daha 
+yüksektir, bu sayede desen mümkün olmuştur. Deseni tanıyan teknik analist, 
+bunu grafikte çoğunlukla iki birleşen çizgi ile ayırt eder.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 57 ===
+Bu örnekte, başlangıçta daha da fazla sahte çıkış vardı. İki kez, 
+direnç çizgisini yukarı doğru kırma girişiminde bulunuldu (yukarıdaki 
+oklar). Bu iki kez başarısız oldu. Bir swing tüccarı burada iki kez short 
+yapabilirdi. Hedef fiyat her seferinde, simetrik üçgenin destek çizgisiydi.
+Şimdi, simetrik üçgenin özel özelliği, işlem aralığının, var olduğu 
+sürece, her zaman daha da yakınlaşmasıdır. Bu şekilde kendini bir yöne 
+veya diğer yöne zorlayan bir karar.
+Üçüncü kırılma girişimi çok iyi bir şekilde başarılı oldu ve gerçekten 
+ikna ediciydi. Boğa mumlarının direnç çizgisini nasıl karşı konulmadan 
+geçtiğini açıkça görüyoruz. Dolayısıyla tüccar boğaların gücünün böyle 
+bir gösterisine karşı çıkmamalıdır. Sadece kırılma mumu tüm aralığı 
+kapsıyordu. Patlamadan önceki piyasanın isteksizliğine bakarsanız, 
+burada önemli bir şeyin değiştiğini anlayacaksınız. Mumlar hemen 
+belirgin bir şekilde önemli gölgelerden yoksun. Ayrıca, yukarıdakilerin 
+çoğundan daha büyükler.
+Piyasa katılımcılarının beklentisi, simetrik üçgenin bir devam 
+modeli olarak aşağı doğru çözülmesiydi. Bu, dördüncü temasta da 
+gerçekleşti, ancak "piyasa" çizginin altına yalnızca kısa bir süre düştü. 
+Bundan kısa bir süre sonra, gerçek kırılmayı tetikleyen büyük bir yukarı 
+hareket başladı.
+Aşağı doğru sahte çıkış, yukarı doğru kırılmanın başlangıcı anlamına geliyordu. 
+Bu, günümüz piyasalarında tekrar tekrar göreceğiniz klasik bir bayılmadır. Fiyatın ilk 
+kez yanlış yöne gidiyor gibi görünmesi ve gerçek niyetin daha sonra belirginleşmesi 
+neredeyse normaldir. Bu nedenle, sahte ticaret benim gözümde çok heyecan verici 
+ve ödüllendirici bir iştir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 58 ===
+C. Trend Kanalları
+Şekil 7: NZD/USD, 4 saatlik grafik, Heikin Ashi
+Trend kanalları aynı zamanda teknik analistlerin favori araçlarıdır. Bunlar 
+mantıklı ve pratik araçlardır ve artık neredeyse tüm iyi platformlara entegre 
+edilmiştir. Prensip basittir. Analist, Şekil 6'daki gibi daha yüksek dipler gibi bir 
+trendi belirlediğinde, paralel bir trend çizgisinin trendin zirvelerini birbirine 
+bağlayıp bağlayamayacağını inceleyebilir.
+Bu durumda, döviz çiftindeYeni Zelanda doları/ABD doları(Yeni Zelanda Doları - ABD 
+doları) durum gerçekten de böyleydi. Para birimleri tesadüfen bu şekilde hareket etmeyi sever
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 59 ===
+bir trend kanalı. Alt çizgi veya destek çizgisiyle veya üst çizgi veya 
+direnç çizgisiyle her temas, yatırımcıya karlı bir işlem yapma fırsatı 
+sağlar. Hedef fiyat genellikle, karşı çizgiyle bir sonraki temastır.
+Trend kanallarında işlem yapmayı seven yatırımcıların stop'ları çoğunlukla üst 
+çizginin üstünde (kısa pozisyonlar için) veya destek çizgisinin altında (uzun 
+pozisyonlar için) olur. Büyük oyuncular bunu bildikleri için, bu şekilde kaç tane stop 
+emri alabileceklerini görmek için iki çizgiden birinin üstünde veya altında kısa bir 
+"gezinti" yapmayı severler.
+Bunu yapmadan önce, tam tersi niyete sahip daha büyük emirler 
+çoktan vermişlerdir. Bu örnekte olduğu gibi, tepeden fırlarlarsa, kısa 
+emirleri direnç çizgisini geçene kadar fiyatları çok yukarı çekerler. 
+Satış emirlerinin baskısı altında, fiyat geri gelir ve sonunda tekrar 
+kanalın içine girer. Akıllı bir scalper bir fare koklayabilir ve düşen trene 
+atlayabilir, bu da eğilimi daha da hızlandırır.
+Trend kanallarında işlem yapmanın gelişmiş yolu klasik anlamda bir sonraki 
+dokunuşta işlem yapmak değil, klasik dokunuş olabileceği gibi diğer yönde çok 
+daha güçlü bir elastik yay temsil eden bir sahte çıkışın ortaya çıkıp çıkmayacağını 
+beklemek ve görmektir. Eğer kopuş tüccarları sahte çıkışa kanarlarsa akıllı para 
+onları piyasadan çıkardıktan sonra tekrar uzun pozisyona girip girmemeyi iki kere 
+düşüneceklerdir.
+Bu nedenle, stop'lar tutulana ve breakout tüccarları yanlış ayakla 
+yakalanana kadar beklemek ve trend kanalı içinde bir pozisyona 
+girmek akıllıca olabilir. Tüccar böylece reddin çok daha güçlü bir 
+teyidine sahip olur. Ayrıca, piyasayı tekrar diğer kanal çizgisine doğru 
+yönlendirecek olan Akıllı Para ile aynı yönde işlem yapıyor.
+Şekil 7'deki yukarıdaki örnekte ilginç olan şey, kopuş "başarısız" olduktan 
+sonra heikin ashi grafiğinin bir doji çizmesi (yukarıdaki ok), bunun kapanış fiyatı 
+tam olarak destek çizgisinin altındaydı. Bu nedenle, "alıcılar" piyasayı kanalın 
+dışında tutmayı başaramadı. Bu durumda, doji-4 saatlik mumun 
+tamamlanmasından sonra kısa pozisyon mantıklı bir sonuç olurdu.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 60 ===
+Bu nedenle, tüccar bir sonraki mumun açılış fiyatında (0,6733'te) kısa 
+pozisyon açarsa, fakeout'un en yüksek olduğu bir yere (0,6790'da) bir stop-
+loss emri koyabilir. Bu nedenle 57 piplik bir riski olurdu. Hedef fiyat o 
+zaman kanalın alt kenarıydı, o zamanlar yaklaşık olarak 0,6600'lük yuvarlak 
+sayı civarında bir seviyeydi. Tüccar 133'ü kazanmak için 57 pip riske etti. Bu, 
+1: 2,33'lük bir risk-ödül oranına karşılık gelir. Bu RRR gerçekten de önceki 
+örneklerden önemli ölçüde daha düşüktür, trend kanallarındaki fakeout'lar 
+yüksek derecede kazanma olasılığına sahip mükemmel ticaret fırsatlarıdır.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 61 ===
+Çapraz kur ticareti
+Şekil 8: Günlük CAD/JPY grafiği, Heikin Ashi
+Zaman zaman kendi burnunuzun ötesini görüp uluslararası tüccar 
+topluluğunun odak noktasında olmayan piyasalarda işlem yapmak mantıklı 
+olabilir. Genellikle basında ve internette yeterince ilgi çekici piyasalar hakkında 
+hiçbir şey veya neredeyse hiçbir şey duymazsınız. Daha az gözlem buldukça, 
+tüccar genellikle daha az "rekabet" deneyimleyecektir.
+Çoğu zaman bu, trendlerin daha iyi olduğu ve teknik analiz kurallarının 
+daha iyi işlediği anlamına gelir. Ancak, kendinizi kandırmayın: burada da, ya da 
+belki de burada, büyük oyuncular yolda, yukarıdaki CAD/JPY (Kanada Doları - 
+Japon Yeni) örneğinin açıkça gösterdiği gibi.
+Sözde çapraz kurlarla (ABD dolarının para birimlerinden biri olmadığı döviz çiftleri) 
+işlem yaparsam, günlük grafikte bir swing tüccarı olarak izlemeyi severim. Bu bana 
+genellikle birkaç yıl boyunca uzun vadeli bir bakış açısı sağlar. Büyük oyuncuların bu para 
+birimleriyle nasıl işlem yaptığını görebiliyorum. Burada genellikle yıllarca sürebilen göz 
+korkutucu trendler bulacaksınız.
+Bu yüzden bu piyasalarla uğraşmak iyi para kazandırıyor. Ben bu grafikleri 
+hafta sonları, genellikle Pazar günleri izlemeyi tercih ediyorum. O zaman günlük 
+operasyonlarla ilgilenmiyorum ve borsadan iki gün uzak kalmak bana hafta boyunca 
+gözden kaçırdığım şeyleri görmem için gereken mesafeyi sağlıyor.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 62 ===
+Bu örneği CAD/JPY'de daha detaylı ele alırsak, burada çiftin 71'de 
+(alt yatay çizgi) bir destek bulmasının ardından klasik bir yanlış aşağı 
+yönlü kırılma görüyoruz. Bu desteğin kırılması sadece iki gün sürdü.
+İki siyah Heikin Ashi mumunun altındaki uzun gölgeler, alıcıların bu 
+piyasayı tekrar yakaladığını gösteriyor (bu alıcıları artık tanıyoruz). Grafiğin 
+daha da geliştirilmesi, bu sahte çıkışın tam olarak takip eden yükseliş 
+trendinin başlangıcı olduğunu açıkça gösteriyor. Gördüğünüz şey (aşağı 
+yönlü kırılma, ok), aslında amaçlanan şeyin tam tersidir.
+Akıllı para, düşük seviyede CAD/JPY lotlarını kapattıktan sonra, bu 
+pariteyi her gün yukarı doğru işlem yapmaya başladılar. Sonra, sahte 
+yatırımcıların iyi bir fiyattan piyasaya girmeleri için iki iyi fırsat daha vardı 
+(sağdaki iki ok). Yine, büyük oyuncular fiyatı trend kanalının içinde tutmak 
+için gayretle yardımcı oldular.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 63 ===
+6. Daha karmaşık desenler
+Şekil 9: EUR/JPY günlük grafiği
+Şekil 9, EUR/JPY'nin günlük grafiğinin Heikin Ashi görünümünü 
+göstermektedir. Bu bölüm Aralık 2013 ile Ağustos 2015 arasındaki dönemi 
+kapsamaktadır. Deneyimli teknik analistler bunu bir grafikte nispeten 
+çabuk fark ederler: bu, destek ve direnç arasındaki rollerin tersine 
+döndüğünü sıklıkla gösteren iç veya dahili trend çizgisidir. Aralık 2013 ile 
+Kasım 2014 arasında, çizgi açıkça bir direnç görevi görmüştür. Boğalar bu 
+çizgiyi aşmayı asla başaramadılar. 19/09/2014'te bir kez başardılar. Yine de, 
+bu kopuşun sahte olduğu kanıtlandı (ilk sol ok).
+Kasım 2014 ile Ocak 2015 arasında, çift direnç çizgisinin üzerinde 
+önemli bir kopuş gerçekleştirdi. Yine de çizgiye geri döndü ve altına 
+düştü. Şaşırtıcı bir şekilde, bu geziden sonraki çizgi hala geçerliydi ve 
+birkaç kez daha fazla direnç olarak hareket etti. İki sahte çıkıştan sonra
+(oklar 2 ve 3) parite 3 Mayıs 2015'te tekrar direnç çizgisini aşana kadar 
+geriledi, bu sefer başarılı oldu.
+Bu tarihten sonra çizginin işlevi tersine döndü. Bundan sonra bir 
+destek işlevi gördü. Ayrıca burada çok iyi işlem görebilecek iki sahte 
+görüyoruz.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 64 ===
+Şekil 10: EUR/JPY günlük grafiği heikin ashi, Nisan 2015 - Haziran 2016
+Şekil 10 bu grafiğin ikinci bölümünü gösteriyor. İnanılmaz olan şey, 
+Aralık 2013'ten bu yana iç trend çizgisinin hala geçerli olması. EUR/JPY hala 
+bunun etrafında dalgalanıyor. Bazen destek, bazen direnç görevi görüyor. Bu 
+ekran görüntüsünün tarihine kadar (2 Haziran 2016), çizgi hala geçerliliğini 
+koruyordu. Bu nedenle, temaslarına ve sahtekarlıklarına devam etmesi 
+bekleniyor.
+Elbette, iki yıldan uzun süreli trend çizgileri veya iç trend çizgileri nadirdir, 
+ancak bunlar mevcuttur. Buradaki bu iç trend çizgisi, EUR/JPY'de iki buçuk yıldan 
+beri görülen sığ düşüş trendini göstermektedir.
+Alıştırma yaparak, yatırımcı diğer grafiklerdeki benzer iç trend çizgilerini 
+tanıyabilecektir. Bunlar çok ilginçtir, çünkü piyasa oyuncuları uzun süreler boyunca 
+bunlara saygı gösteriyor gibi görünür. Bazen, dokunuşlar kesindir, ancak genellikle 
+Akıllı Para bir sahtekarlık sahnelemeyi sever. Bunlar daha sonra genellikle mükemmel 
+ticaret fırsatlarıdır.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 65 ===
+Sözlük
+Boğa Bayrağı:Kısa vadede ana trendin tersine doğru hareket.
+Şamdanlar:Japon analiz teknolojisine dayalı fiyat değişimlerinin 
+kodlanması.
+Devam deseni:Ana trendin kırılması ve sonrasında önceki yönün 
+devam etmesi.
+Çapraz kurlar:ABD dolarının iki para biriminden biri olmadığı döviz 
+çiftleri.
+Doji:Açılış ve kapanış fiyatlarının aynı seviyede olduğu mum 
+formasyonu.
+E-Mini Vadeli İşlemleri:Amerikan SP500 endeksi vadeli işlem 
+sözleşmesi. Döviz:Forex Döviz Piyasası, uluslararası döviz piyasası.
+Çekiç:Mum çubuğu gösteriminde ters mum. Mumun uzun bir 
+gölgesi olan küçük bir gövdesi vardır.
+Heikin Ashi grafiği:""Tek ayak üzerinde dengede durma" fiyat değişimlerinin 
+Japonca gösterim biçimi.
+İç trend çizgisi:Dirençten desteğe doğru fonksiyon değiştiren 
+trend çizgisi.
+Faiz oranı kararı:Merkez Bankası'nın faiz oranlarının gelecekteki 
+seyrine ilişkin kararlarının açıklanması.
+Uzun Pozisyon:Long olmak, menkul kıymetler satın almış olmak ve dolayısıyla bunlara sahip olmak 
+anlamına gelir.
+Momentum:Momentum, yatırımcıya fiyat hareketinin hızı ve 
+gücü hakkında bilgi verir.
+Para Yönetimi:Para Yönetimi, menkul kıymet portföyünün riskini, portföy 
+büyüklüğünün belirlenmesi yoluyla kontrol etmeyi amaçlayan bir stratejiyi ifade eder.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 66 ===
+bireysel işlem pozisyonları.
+Pip:Nokta olarak yüzde, döviz ticaretinde fiyattaki en küçük 
+değişim.
+Menzil:Belirli bir zaman diliminde net olarak tanımlanmış işlem aralığı.
+Risk Yönetimi:Risklerin sistematik olarak belirlenmesi, analizi, 
+değerlendirilmesi, izlenmesi ve kontrol altına alınmasına yönelik tüm tedbirleri içerir.
+Risk-ödül oranı (RRR):RRR, bir sistemin yararlılığının bir 
+göstergesidir. Maksimum kaybın beklenen karlılığına bölünerek 
+hesaplanır.
+Kafa derisi soyma:Yatırımcının piyasadaki minimum hareketlenmelerle işlem 
+yaptığı işlem tekniği.
+Kısa pozisyon:Bir yatırımcı, bir pozisyonu sahibi olmadan sattığında (kısa satış) 
+kısa pozisyon almış olur.
+Satış-Dur emri:Piyasa o fiyat seviyesine ulaştığında tetiklenen 
+otomatik satış emri.
+Topaç:Küçük gövdeli ve uzun gölgeli grafik deseni.
+Balıkçılığı Bırakın:Büyük piyasa oyuncularının geç de olsa belirgin bir şekilde hareket ederek 
+küçük yatırımcıların stop emrini tetiklemesi.
+Zarar Durdurma Emri:Belirli bir fiyata ulaşıldığında gerçekleştirilen 
+satış emri.
+Trend Takip:Bir kere belirlenen trendin takip edilmesine 
+odaklanan işlem stratejisi.
+Destek:Alıcıların giderek daha fazla ortaya çıktığı fiyat seviyesi.
+Volatilite:Standart sapma. Bir piyasanın fiyatının nasıl değiştiğini 
+belirtir.
+Rezistans:Artan satıcıların ortaya çıktığı fiyat seviyesi.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 67 ===
+Bölüm 3: Stopumu Nereye Koymalıyım?
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 68 ===
+DURDURMALAR GEREKLİ Mİ?
+Stop emrimi nereye koymalıyım? Birçok yatırımcı bana bu soruyu tekrar 
+tekrar soruyor. Bu, yatırımcının piyasa analizi gibi önemli bir işi yaptıktan ve 
+pozisyonu satın aldıktan sonra bile hala endişelenmesi gereken sinir bozucu 
+bir aksesuar gibi geliyor. Soru, bir yatırımcının kendisine sorabileceği ve 
+sorması gereken en önemli konuya değiniyor: Bana bir sonraki şansı satın 
+almak için ne kadar risk almaya razıyım?
+Ne yazık ki, bu sorunun ardında çoğunlukla, yeni başlayan yatırımcıya, 
+"Stop" adı verilen bu sinir bozucu şeyi koyabileceği bir tür saklanma yeri gösterip 
+göstermeyeceğim konusunda çocukça bir istek gizlidir, böylece Bay Piyasa onu 
+asla bulamaz. İlginçtir ki, Bay Piyasa bu tür saklanma yerlerini iyi bilir, özellikle de 
+stop destek ve direnç gibi çarpıcı işaretlerin hemen altında veya üstünde yer 
+alıyorsa. Bunun nasıl gerçekleştiği, swing ticareti üzerine olan bu serinin ikinci 
+kitabının konusuydu.
+Durdurmalar, işlem çevrelerinde tartışmalı bir konudur. Hiç şaşırtıcı değil, 
+çünkü durdurmalar bir işlem sisteminin çıkış stratejisine aittir. Başka bir deyişle, 
+bir durdurma, merkezi risk yönetim aracıdır ve bu nedenle doğrudan borsada 
+para kazanmakla ilgilidir. Bu nedenle, durdurmanın işlem sisteminizde veya 
+stratejinizde hangi işlevi gördüğünü anlamanız zorunludur.
+Başlangıçtan itibaren stop kullanımının her zaman daha düşük bir isabet oranıyla 
+sonuçlandığının sizin için açık olması gerekir. Stoplar olmadan işlem yaparsanız, muhtemelen 
+çok yüksek bir isabet oranına ulaşırsınız. Ancak, bazı pozisyonlar kâra geçmeden önce bazen 
+çok uzun süre bekleyebilirsiniz. Ayrıca, bazı pozisyonlar asla kâra geçmeyecek ve bu işlemleri 
+çok yüksek kayıplarla kapatmak zorunda kalacaksınız.
+Tüccar stop kullanırsa, böyle bir senaryodan kaçınabilir. Karşılığında, daha sık 
+olarak zarar eden işlemleri kabul etmek zorunda kalır. Bu zarar eden işlemler, riski 
+kontrol etmek için ödemeye razı olduğunuz bedeldir. Stoplar olmadan işlem 
+yaptığınızda bunu yapamazsınız. Bu durumda, riskiniz sınırsızdır.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 69 ===
+Stoplarla işlem yapmayı seçerseniz - ve bunu yapmanızı tavsiye ederim - sisteminizin 
+isabet oranı otomatik olarak kötüleşecektir. Vakaların %100'ünde kazanmayacaksınız, ancak 
+yalnızca %70 veya %60'ında veya daha düşüklerinde kazanacaksınız. Çok düşük isabet 
+oranlarıyla bile çok iyi çalışan çok başarılı stratejiler bile var.
+Bu, örneğin; genellikle trend takipçileri için geçerlidir. Burada, tüccar bir 
+trendde pozisyon oluşturmak için sıklıkla birden fazla girişimde bulunmalıdır. Bu, 
+doğal olarak birçok küçük kayba ve birkaç büyük kazananla sonuçlanır. Sonuç 
+olumlu olabilir, ancak tüccar bazen %30'un altındaki bir isabet oranını kabul 
+etmelidir.
+Elbette, yüksek bir isabet oranı egoyu okşar, ki birçok yeni başlayan bunu 
+hevesle ister. Bu hedefe ulaşmak için, birçoğu daha sonra stop kullanmadan işlem 
+yapma riskini alır. İlk gerçekten büyük kayıplar gerçekleştiğinde, stop kullanma 
+içgörüsü gelişebilir.
+Bu, bu tüccarın stopları gerçekten kabul ettiği anlamına gelmez. 
+Bunları belli bir kötü ruh haliyle kabul eder. Bunu çoğunlukla, stopa 
+ulaşılmaması için her şeyi yaptığı için fark edeceksiniz. Çoğu zaman, aynı 
+tüccarlar gördükleri anda küçük bir kar elde ederler. Cebinizde küçük bir 
+kar, hiç olmamasından iyidir derler.
+Tüm bu kötü alışkanlıklar, stopların kabul edilmemesinin bir sonucudur. Ancak 
+tüccar bunları kullanır, çoğunlukla buna zorlandığı için, ancak zihninde, stoplardan nefret 
+eder çünkü bunlar kaçınılmaz olarak tekrar tekrar kaybedilen işlemlere yol açar.
+Ancak yavaş yavaş, ticaretin "her zaman piyasada doğru olmak 
+istemekle" çok az ilgisi olduğu anlayışı olgunlaşır. Ticaret, diğerleri gibi bir 
+iştir. Yani, kazançlar ve giderler vardır ve umarım kazançlar mali yıl 
+sonunda giderlerden daha yüksektir. Yani, bir işletmeyi yönetme sanatı, 
+maliyetleri mümkün olduğunca düşük tutmak ve kazançları optimize etmek 
+veya işletme genişlemesi yoluyla artırmaktır.
+Ticaret yaparken de durum farklı değildir. Ticaret bir iş olduğundan, kazançlar 
+(kazanan ticaretler) ve maliyetler (zararlı ticaretler, komisyonlar, donanım, alan kirası 
+ve tüccarın saatlik ücreti) vardır. Kaybeden ticaretler maliyetlerin çoğunu temsil 
+ettiğinden, "iş yapmanın maliyetlerinden" de haklı olarak bahsediyoruz. Başka bir 
+deyişle, kaybeden ticaretler ana maliyetlerimizin bir parçasıdır. Piyasa içi aktiviteye 
+katılabilmemiz için gereklidirler.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 70 ===
+Kaybedilen işlemleri, ekonomik oyuna veya borsa oyununa katılmak 
+için basit bir "maliyet" olarak anlayan kişi, belki de kaybedilen işlemlerin 
+aslında ticaret hayatınızdan çıkarmak isteyeceğiniz kadar kötü şeyler 
+olmadığını fark etmeye başlar.
+Tam tersine: onlar katılabilmenin koşuludur ve bu nedenle ticaret 
+sistemimizin ayrılmaz bir parçasıdır. Bu nedenle ticaret sistemimiz, 
+kaybedilen işlemler olmadan gülünç olurdu. Bu nedenle, onları sistemden 
+kovmak istemek tamamen saçma bir önlem olurdu.
+Tüccar bu fikri içselleştirdikten sonra, bir sonraki adım, ticareti bir tür 
+olasılık oyunu olarak anlamaktır, ki öyledir. Perakende sektöründeki girişimciye 
+benzer, elbette kalite konusunda endişelidir, ancak maliyetlerini mümkün 
+olduğunca düşük tutmaya çalışan belirli bir fiyatlandırma politikası izler.
+Benzer şekilde, yatırımcı kayıplarını mümkün olduğunca küçük tutmak için elinden 
+gelen her şeyi yapmalıdır. Ayrıca, bu konuya kitabın ilk bölümünde değineceğim. Ayrıca, 
+elbette, ikinci bölüm stopların karlarımızı maksimize etmemize nasıl yardımcı 
+olabileceğiyle ilgili olacak, çünkü gerçekten yardımcı olabilirler.
+Bu nedenle, gerçek bir tüccar stop emrine kaçınılmaz olarak değil, 
+pozisyonlarının yönetiminde yanında duran bir arkadaş olarak bakar. Bunun aynı 
+zamanda profesyonel veya kurumsal bir tüccarın tutumu olması, umarım, başka bir 
+açıklamaya ihtiyaç duymaz.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 71 ===
+DURDURMA ZARARI EMRİ NEDİR?
+Bir zarar durdurma emri (ayrıca; zararları sınırlama emri), belirli bir fiyata 
+ulaşıldığında pozisyonu otomatik olarak kapatan bir emirdir. Bir tüccar satın alınan 
+bir pozisyonu (veya kısa pozisyonlar için bir satış pozisyonunu) bir zarar durdurma 
+emriyle birlikte verirse, bu durumda pozisyonla ilişkilendirilebilecek sınırsız bir zararı 
+kabul etmeyeceğini yansıtır.
+Bu ölçü iyi işlem alışkanlıklarına aittir ve her yatırımcının bu işi uzun vadede 
+yürütebilmesi için bu alışkanlığı geliştirmesini tavsiye ediyorum. Durdurma, 
+yatırımcının doğal bir içgüdüsü olarak düşünülebilir. Sonuç olarak, hayatta kalma 
+içgüdüsü neredeyse her bireyde mevcuttur. Bu, her şeyden önce, işlem 
+sermayesini korumayı ve elde etmeyi birincil görevleri olarak görmeleri gereken 
+sorumlu yatırımcılar için geçerlidir.
+Thezarar durdurma emripiyasa önceden belirlenmiş bir fiyat seviyesine 
+ulaştığında bir sözleşmenin, hisse senedinin veya döviz çiftinin bir sonraki işlem 
+yapılabilir fiyattan satılmasından başka bir şey ifade etmez. Basit stop Loss ile sınırsız bir 
+piyasa satış emri oluşturulur (uzun pozisyon durumunda).
+Bazı brokerlar ayrıca şunları da sunar:zararı durdurma limit emirleri. 
+Bu durumda, pozisyon yalnızca belirtilen limit fiyatından satılacaktır. Bu bazı 
+durumlarda bir avantaj olabilir, çünkü basit stop loss ile pozisyon genellikle 
+stop loss emrinin gösterdiği fiyattan daha kötü bir fiyattan satılır.
+Ancak, bu stop-loss limit emrinin dezavantajı, avantajından çok daha ağır 
+basar. En kötü durumda, piyasa tek bir hızlı hareketle sabit limiti aşar ve hiçbir 
+uygulama olmaz. Bu durumda, pozisyon sınırsız riske maruz kalır, her yatırımcının 
+her ne pahasına olursa olsun kaçınması gereken bir durumdur.
+Bazı brokerlar ayrıca şunları da sunar:garantili zarar durdurma emirleri. 
+Broker pozisyonu tam olarak istenen fiyata kapatmayı garanti eder. Bu nedenle, 
+dengeleyici riski yansıtır ve yürütmenin hedeflenen durdurma fiyatının çok altında 
+veya üstünde olması durumunda maliyetleri üstlenir. Bu, nadir durumlarda
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 72 ===
+Özellikle piyasadaki aşırı hareketler söz konusu olduğunda, bu durum yatırımcı 
+için avantaj sağlayabilir.
+Bu "hizmet" elbette ücretsiz değildir. Müşteri genellikle bu hizmet için 
+küçük bir ücret öder veya broker daha geniş bir spread (satın alma ve satış 
+fiyatı arasındaki daha büyük mesafe) talep eder. Ayrıca, yatırımcı garantili bir 
+stop loss emri almak için giriş fiyatı ile stop arasında daha büyük bir mesafeyi 
+kabul etmek zorunda kalacaktır.
+Bu ek güvenlik genellikle günlük yatırımcılar ve scalper'lar için bir 
+seçenek olmasa da, genellikle işlemlerini günlerce ve haftalarca tutan 
+swing yatırımcıları için düşünmeye değer mantıklı bir alternatif olabilir.
+Bir swing yatırımcısı olarak, genellikle EUR/USD'yi 1.1210'dan mı yoksa 
+1.1212'den mi satın aldığınız sorusu sorulmaz. Elbette, satın almak istiyorsanız 1.1210 
+daha iyi bir fiyattır. Ancak, aracı kurumum farkı ödediği için iki kulağıma da 
+yatabiliyorsam, EUR/USD'de gece boyunca veya hafta sonunda aşırı bir hareket 
+olması durumunda, daha kötü bir fiyat ödemeye razıyım.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 73 ===
+YÖNETİMİ DURDUR
+"4 Saatlik Grafikle Swing Ticareti" serisinin bu üçüncü 
+bölümünde, stop yönetiminin ana temasını ele almak istiyorum çünkü 
+bu, bir ticaret işinin başarılı olup olmadığına nihai olarak karar veren 
+şeydir. Özel yatırımcıların %90'ının piyasa analiziyle uğraştığı ve 
+%10'unun bile bir ticaretin potansiyel riski sorusuyla uğraşmadığı iyi 
+bilinmektedir.
+Kurumsal yatırımcılar için bu oran tersinedir. Profesyoneller, doğası 
+gereği öncelikli olarak risk yöneticileridir. Öyle olmak zorundadırlar çünkü 
+müşterileri ve finansörleri, yatırım yaptıkları fonun sermayesini korumaktan, 
+hatta büyümekten bile aciz olduğunu hissettiklerinde hemen yanlarında 
+olurlar.
+Şimdi, özel bir yatırımcının işlem sermayesi genellikle müşterinin 
+parasını yönetmek için karmaşık risk modelleri kullanan kurumsal bir 
+yatırımcının sermayesinden daha yönetilebilirdir. Bu nedenle, basit %1 
+kuralına sahip özel bir yatırımcının risk yönetimini yeterince yaptığı 
+sonucuna varmak bana biraz fazla kısa düşünmek gibi geliyor.
+%1 kuralı, bir yatırımcının işlem başına sermayesinin %1'inden fazlasını asla riske 
+atmaması gerektiğini belirtir. Örneğin, bir yatırımcının işlem yapmak için 10.000$ 
+kullanılabilir sermayesi varsa, işlem başına risk asla 100$'dan fazla olmamalıdır. Bu bariz 
+gibi görünse de, yine de asıl konudan uzaklaşır.
+Satın alma fiyatı ile stop arasındaki mesafeyi doğru bir şekilde 
+hesaplama yeteneği önemlidir; bu, stop yönetimi adını verdiğim 
+sürecin yalnızca başlangıcıdır. Bu da çıkış stratejisinin önemli bir 
+parçasıdır, borsadaki başarının veya başarısızlığın nihai hakemidir. 
+Dahası, burada ne yazık ki, özel yatırımcı çoğunlukla deneyimli 
+profesyonele tabidir.
+Profesyoneller genellikle karmaşık ve doğru tanımlanmış çıkış stratejilerine 
+sahiptir. Özel yatırımcılar çoğunlukla bu konuda oldukça duygusal davranırlar. Eğer
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 74 ===
+pozisyon kazanmakta, bu kazanımı almak istiyorlar, her ne kadar bunu yapmaları için çoğu 
+zaman nesnel bir sebep olmasa da.
+Pozisyon kayıpta kalırsa ve hatta stoploss emrine yaklaşırsa, 
+amatörler genellikle pasif kalır ve iyi bilinen "umut" moduna düşer: 
+"piyasa" tekrar dönebilir. Böylece, "piyasa" dedikleri canavara, sanki 
+koşulsuz olarak maruz kalmışlar gibi, kendileri üzerinde sonsuz bir 
+güç verirler.
+Bu davranışa daha yakından bakan herkes (ben de yıllarca bu gruba 
+dahil oldum), çoğu özel yatırımcının sözde "piyasaya" (ve onun analizine) 
+gereğinden fazla önem verdiğini fark eder. Onlar için "piyasa" adı verilen bu 
+anlaşılması zor olgu, tamamen teslim oldukları, boyun eğmez bir canavar 
+gibi görünür. Böyle bir tutumdan çok çabuk ortaya çıkabilen duygular 
+arasında suçlamalar ve hatta öfke vardır. Çaylak sezonuma geri dönüp 
+baktığımda bunu çok iyi biliyorum.
+Sefil muamele, söylemeye bile gerek yokbir çıkış stratejisinin 
+olmamasıçoğu yatırımcının borsaya katledilme niyetiyle girdiğinin 
+kanıtıdır. Kulağa dramatik geliyor, ancak bu birçok insanın içsel tutumuna 
+karşılık geliyor ve ne yazık ki başarı istatistikleri tarafından doğrulanıyor. 
+Rakamları kimse tam olarak bilmiyor, ancak yatırımcıların %90'ının 
+kaybettiğine inanan kişi en ıslah olmaz iyimserlerden biridir.
+Brokerlar bu rakamları ortaya çıkarmaktan hoşlanmazlar. Biraz 
+baskıyla sorgulandığınızda genellikle belirsiz cevaplar alırsınız. "Bu 
+konuda istatistiklerimiz yok" hala bahanelerinin daha zararsız 
+versiyonlarından biridir. Çok isteksiz olmaları anlaşılabilir. Bu konuda 
+herhangi bir şeffaflık biçimi işlerine zarar verir.
+Gerçek kaybedenlerin sayısı muhtemelen %100 seviyesine yaklaşabilir, 
+özellikle de forex brokerları ile. Uzun vadede, muhtemelen binde birlik aralıklarda 
+bulunacak olan tüccarların yalnızca bir yüzdesi hayatta kalabiliyor gibi görünüyor. 
+Bu neden böyle? Ticaret işi neden bu kadar zor ve yalnızca küçük bir grup insan 
+kalıcı başarıya ulaşmış gibi görünüyor?
+Çoğu yatırımcı kendi kendine başarısız olur. Analizler de sıklıkla böyledir. Çoğu 
+insan psikolojik olarak bu zorlukla başa çıkmak için yeterince hazırlıklı veya eğitimli 
+değildir. Tekrar tekrar gelen birçok kayıp ve geri çekilme aşamaları (zarar satırları)
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 75 ===
+Sonunda Tüccarların psikolojisini yıpratırlar. Hatalar yapmaya başlar; 
+kayıpları telafi etmek için çok fazla risk alır ve bu şekilde her şeyi daha 
+da kötüleştirir. Bir gün para basitçe biter.
+Kesinlikle psikolojik argümanı memnuniyetle karşılayanlardanım. Çoğu 
+yatırımcının kendini başarısızlığa uğrattığı doğrudur. Disiplin, tutarlılık ve azim 
+eksikliği vardır. Aslında neredeyse her şeyin eksikliği vardır. Ancak her şeyden 
+önce, yatırımın gerçekte ne olduğu konusunda ciddi bir içgörü eksikliği vardır: bir 
+olasılık oyunu.
+Bana göre, bu husus ilgili literatürde bir nebze yeterince ele 
+alınmamıştır. Son yıllarda, psikoloji konusunda derinlemesine bilgi sahibi olan 
+birçok trading koçu ortaya çıkmıştır. Ayrıca, bir trader olarak burada 
+eksiklikleriniz olabileceği hissine kapılıyorsanız, size sadece bir trading koçu 
+tarafından eğitilmenizi önerebilirim.
+Bu konuya bu kitapta girmeyeceğim. Tüccarın stop yönetimini verimli bir şekilde 
+yürütmesine olanak tanıyan daha fazla bir risk modeli tanıtmak istiyorum. Bu model 
+ayrıca ticaretin gerçekten bir olasılık oyunu olduğu fikrine de uygundur.
+KENDİ OYUNUNU OYNAYIN
+Her bir işlem stratejisi, finansal piyasaların nasıl çalıştığı ve bir yatırımcı olarak 
+bu piyasalarda nasıl işlem yapılacağına dair belirli varsayımlara dayanır. Bu 
+varsayımlar açıkça formüle edilebilir veya stratejinin temelini oluşturan dolaylı olarak 
+desteklenebilir. Temel stratejisi olarak trend takibini seçen bir yatırımcı, çalışmalarını 
+çoğu piyasanın uzun süreli trendler halinde hareket ettiği açık varsayımına 
+dayandırır. Eğer siz de böyle düşünüyorsanız, o zaman mümkün olduğunca bu 
+trendleri takip etmeye çalışmanız mantıklıdır.
+Bu belirli pazarın ardında, kabullenme hala (çoğunlukla bilinçsiz) 
+bir katmandır ve ben buna daha detaylı bakmanın değerli olduğunu 
+düşünüyorum. Bu katman, "başarı" temasına merkezi olarak değinir ve 
+başarı literatürüyle yalnızca yaklaşık olarak ilgilenen herkes bu konuyu 
+ele alacaktır.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 76 ===
+Tüm başarı koçları, başarılı olmak için sahip olmanız gereken doğru 
+zihniyetin önemini vurgular. Her şey dünya hakkında düşünme şeklimizle 
+ve dolayısıyla dünyayı nasıl gördüğümüzle ilgilidir. Ticaret terimleriyle, çoğu 
+yatırımcının dünya görüşü şu şekildedir: dışarıda, hepsi benim rakibim olan 
+ve akıllarında tek bir şey olan on binlerce yatırımcı var: paramı almak.
+Bu model banal görünüyor, ancak tanıdığım çoğu yatırımcının temel varsayımı 
+bu. Onlar için dünya (kendilerinin dışındaki dünya) sadece akıllı taktiklerle 
+fethedebileceğiniz, pastadan bir parça koparabileceğiniz düşmanca bir yer.
+Bu modelde, akıllı ve becerikli bir davranışla nakit akışının bir 
+kısmını kendi hesabına yönlendirebileceği umuduyla dünyaya (borsada 
+işlem yapan) giren bir "ben" (tüccar) vardır. Sonuç olarak, böyle düşünen 
+tüccar her zaman bir tür savunma modundadır. Eylemleri her zaman 
+tepkiseldir. Piyasa (dış dünya) bunu yaparsa, o da öyle tepki verir. Piyasa 
+bunu yaparsa, o da böyle tepki verir.
+Sanki hayali bir rakiple sürekli bir mücadele içindeymiş gibi, bunu kendisi bile 
+bilmiyor. Sadece izlerini çizgiler veya mumlar olarak görüyor, monitörde gözlerinin 
+önünde çizilen çizelgeyi.
+Bu model, dünyayı bir özne-nesne gerçekliğine dönüştüren bir 
+düşünceye karşılık gelir. Bir yandan, eve şişman bir ganimet ile 
+dönme umuduyla fetihler yapmak için "dünyaya" giden bir tüccarı 
+tanımlayan "ben" vardır.
+Bu model, nihayetinde modern toplumlarımızın inşa edildiği 
+klasik bilimlerin varsayımlarına karşılık gelir. Okulda yetiştirilme 
+biçimimizdir ve bu nedenle "dünyaya" bakış şeklimizi büyük ölçüde 
+belirler.
+Şimdi, bu modelin yanlış olduğunu iddia edecek son kişi benim. 
+Aksine, çok gerçektir ve hayatımızı hemen hemen her alanda belirler. 
+Tek sorun, borsada işlem yapıyorsak bu düşünce biçiminin pek de işe 
+yaramamasıdır. Çünkü, borsada bu mantıkla hareket ederseniz, işler 
+umduğunuz kadar iyi gitmediğinde, kendinizi hızla (genellikle bilinçsizce) 
+daha yüksek güçlerin kurbanı olarak görürsünüz.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 77 ===
+Bir tüccar olarak asla bir "kurban" pozisyonu almamanız zorunludur. 
+Aksine, bir tüccar olarak, eylemleriniz üzerinde her zaman tam kontrole 
+sahip olmalısınız. En başından itibaren "Oyunun Efendisi" olmalı ve orada 
+kalmalısınız.
+Bu kaliteye ulaşmak için farklı bir felsefeye, olasılık oyununun 
+koşullarına karşılık gelen farklı bir düşünme biçimine ihtiyacınız olacak. 
+Çünkü ticaretin -çok açık bir şekilde söylemeliyim ki- döviz kurları, 
+merkez bankaları, hedge fonları, algoritmalar ve beyninizin "dışarıdaki" 
+her şey hakkında icat etmeyi sevdiği diğer şeylerle hiçbir ilgisi yoktur.
+Ticaret sadece kendinizle oynadığınız bir oyundur. Bu cümleyi 
+tekrarlıyorum:Ticaret, kendinizle oynadığınız bir oyundur. Ticaret, piyasada 
+kendi kendinize koyduğunuz kurallara göre gerçekleştirdiğiniz bir dizi 
+işlemden başka bir şey değildir.
+Başka bir deyişle: Eğer ticareti böyle görürseniz, oyun başlamadan 
+önce bile kuralları koyan kişi olmanız gibi daha iyi bir avantajınız olur. 
+Oyunun hangi araçlarla oynanacağını seçebilirsiniz. Ayrıca, -son olarak ama 
+önemli olarak- oyunun ne zaman başlayıp ne zaman biteceğini 
+belirleyebilirsiniz!
+Arkadaşlarınızla oynadığınız bir masa oyununda böyle avantajlar gördünüz mü 
+veya deneyimlediniz mi? Muhtemelen hayır. Çünkü arkadaşlar arasında oyunun 
+başlarında hepsi aynı fırsatlara sahiptir. Rekabet etmeniz gerekiyorsa bunu sosyal bir 
+ortamda arkadaşlarınızla yapın, borsada rakibiniz yoktur. Nasıl veya ne oynamak 
+istediğinize, ne sıklıkta ve oyunun ne zaman biteceğine siz karar verebilirsiniz. Hiç 
+böyle avantajlar deneyimlediniz mi?
+Ama borsaya girenlerin çoğu bu büyük avantaja rağmen 
+kaybediyor. İnanılmaz değil mi?
+Bu oyunu ancak kendinizle ve kendi kurallarınızla oynadığınıza 
+inanırsanız kazanabilirsiniz. Ancak o zaman, tamamen yalnız olduğunuza 
+ve başarınızı engelleyen kimsenin olmadığına ikna olursanız başarıyı 
+deneyimleyeceksiniz. Bu inanca sahip misiniz?
+Çocukluğumda bu kanaate sahiptim. Evimizin bodrumunda bir 
+masa futbolu oyunu oynardık. Ne zaman canım sıkılsa bodruma iner ve
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 78 ===
+Kendimle oynadım. Karşısında oynamak istediğim hayali bir düşman seçtim. Hayali 
+bir düşmana ihtiyacım vardı; aksi takdirde oyun sıkıcı olurdu. Sonra oynamaya 
+başladım. Ara sıra rakiplerimin gol atmasına izin verdim, böylece oyunum heyecanlı 
+kaldı, ancak sonunda oyunu her zaman ben kazandım. Her zaman ben kazandım, 
+çünkü kuralları ben ve yalnızca ben koydum. Anlıyor musun?
+Borsaya gittiğinizde de aynı şey geçerlidir. Bir zamanlar çocuk olduğum gibi 
+yapmaya çalışın. Kendinize şunu söyleyin: Şimdi oynamaya başlıyorum ama önce 
+kuralları ben koyarım. Sonuçta, siz "Oyunun Efendisi"siniz.
+Elbette, aklınıza gelen kurallar oyun başlamadan önce yaptığınız belirli 
+varsayımlara dayanmaktadır. Çünkü oyunu uzun vadede kazanabilmek için 
+sadece küçük, "istatistiksel" bir avantaja ihtiyacınız vardır. Eğer bu küçük 
+istatistiksel avantajı daha önce kurallarınıza yerleştirmediyseniz, kendi 
+oyununuzu kazanamazsınız. O zaman tabiri caizse kendinizi yenmiş olursunuz.
+Casino işletmecileri de bunu bilir. Bir casinonun istatistiksel avantajı %1'dir. Bu 
+küçük görünebilir, ancak casinonun her yıl milyonlarca kar elde etmesi için yeterlidir. 
+Yıldan yıla. Casino işletmecileri, müşterilerine karşı açılan davaların %49'unu 
+kaybettiklerini bilirler. Onları, yüzlerinde kocaman bir gülümseme ve kocaman bir 
+puroyla casinodan ayrılırken görebilirsiniz.
+Ancak müşterilerinin telaşını kameralardan izleyen ve jackpot 
+kazananın purosunu alıp binadan ayrıldığını gören kumarhane 
+işletmecisi de gülümsüyor. Çünkü her jackpot kazananına karşılık, her 
+gün hazinesine para akıtan binlerce kaybeden olduğunu biliyor. 
+Küçük istatistiksel avantaj sayesinde, "Oyunun Efendisi" olmaya 
+devam ediyor. Sonuçta, mali yılın sonunda çok zengin bir ganimet 
+kazanan kişi puro içen değil, kendisi.
+Bir tüccar olarak, bir kumarhane operatörünün zihniyeti ve 
+düşüncesiyle kendinizi tanıştırmalısınız. Şunu söylemelisiniz: Zaman zaman 
+birisi evden şişman bir puroyla çıkıyor olsa bile, günün sonunda ben 
+kazanacağım, çünkü ben;
+A. Oyunu kendim tasarladığım için anlayabiliyorum.
+B. Kurallarda küçük bir istatistiksel avantaj sağladığım için oyunu her 
+zaman kazanırım.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 79 ===
+Böyle bir düşünce ve zihniyetle borsaya kim gider? Bu adamı (bu 
+kadını) kim yenebilir? Hiç kimse! Çünkü bu kişinin kendisinden başka 
+rakibi yoktur. Ama bu kişi rakibini (yani kendisini) çok iyi tanıdığı ve bu 
+nedenle oynadığı ve kendisini alt edebileceği çok net kurallar formüle 
+ettiği için bu kişi defalarca kazanır. Zayıf günleri olabilir ama sonunda 
+kendi tasarladığı oyunu ustalıkla oynamış ve kazanmıştır.
+Şimdi, başlamadan önce net giriş ve çıkış kuralları formüle etmenin neden bu 
+kadar önemli olduğunu anlıyor musunuz? Bunlar daha sonra oyun sırasında disiplinli 
+bir şekilde gerçekleştirilmelidir. Bu kurallar olmadan asla başarılı olamazsınız çünkü o 
+zaman "başkalarının" SİZİN oyununuza girmesine izin vermiş olursunuz ve bu da sizin 
+başarısız olmanıza neden olur. Bu nedenle, kendinizi, kendi ticaret felsefenizi, oyunun 
+tek sahibi, tek oyuncusu ve sonunda galip gelenin yalnızca siz olduğunuz şekilde 
+oluşturmanız zorunludur.
+Bu nedenle, grafiklerinizde ne olursa olsun, hiç kimse karışmamalıdır. 
+Bunların hepsi düşündüğünüzden çok daha az önemlidir. Sonuç olarak, her 
+zaman oyununuzu oynayın ve bundan asla uzaklaşmayın.
+Yine de, KENDİ oyununuzu oynayabilmeniz için, ilk etapta oyun gibi 
+görünen bir oyun geliştirmiş olmanız gerekir. Ayrıca, tüccarların %90'ından biraz 
+fazlasının kendi oyunlarına sahip olmadığını iddia ediyorum.
+Şunu söylemek için: Bu veya şu kurulumu takas ediyorum, stopumu sadece %1 kaybedeceğim 
+şekilde ayarlıyorum ve yeterli olduğunu hissettiğim anda kar alıyorum. Yani umarım tek bir oyun bile 
+gerçekleştiremezsiniz.
+Kendiniz için geliştireceğiniz gerçek bir trading oyununun, bir gün 
+arkadaşlarınıza gösterebileceğiniz şekilde anlatılması ve formüle edilmesi 
+gerekir.
+Arkadaşlarınız ancak kurallar açıkça formüle edildiğinde, tercihen bir kağıt 
+parçasına açıkça yazıldığında, böylece her katılımcı okuyup anlayabileceği şekilde 
+sizinle oynayabilir. Sadece bir belirsizlik veya yorumlanabilir bir kural varsa, 
+arkadaşlarınız sizinle oyunu oynamayı reddedebilir. Size şunu söyleyeceklerdir: 
+Hadi geçen haftaki oyuna geri dönelim ve onu oynayalım. Burada kurallar açıktır 
+ve herkes onları bilir. Bu nedenle, çekişme olmaz.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 80 ===
+Görebiliyor musunuz? Bu nedenle öyle olmalı. Kendiniz için açıkça 
+tanımlanmış ve formüle edilmiş böyle bir oyuna sahip olmadığınız sürece ne 
+yaptığınızı bilmiyorsunuz. O zaman sadece borsada işlem yapıyorsunuz 
+demektir.
+Bu, özellikle daha önce hiç yapmamışlarsa ve kendi paranız söz 
+konusu olduğunda bazı yeni başlayanlar için belirli bir çekiciliğe sahip 
+olabilir. Ancak, sonunda yalnızca "borsada işlem yapmanın" mutlaka 
+para kazanmanız sonucunu doğurmadığını fark edeceksiniz.
+Para kazanmanın herhangi bir biçimi HER ZAMAN bir tür istatistiksel 
+avantajla ilgilidir, hangi oyunu hayal ederseniz edin. Ayrıca, en önemlisi, açıkça 
+önceden tanımlanmış kurallarla ilgilidir. Ne demek istediğimi doğru bir şekilde 
+anlamanız için bunu bilinen bir örnek üzerinden açıklamak istiyorum.
+Kahve zincirini herkes bilirStarbucks. Şaşmamak gerek, çünkü 
+Starbucks neredeyse tüm dünyada temsil ediliyor ve zincirin genellikle büyük 
+şehirlerde birkaç şubesi bulunuyor. Şimdi, Starbucks kesinlikle kahve evinin 
+mucidi değil. Starbucks dünyaya gelmeden çok önce, dünyanın her yerinde 
+oldukça güzel ve orijinal kahve evleri vardı. Tek yapmanız gereken 
+Avusturya'nın Viyana şehrine gitmek, o zaman ne demek istediğimi 
+anlayacaksınız.
+Şimdi Starbucks dünyayı fethetmek için devraldığında, yapımcılar 
+evet demediler, Viyana'ya gidersek, yerel şubemizi Viyana tarzında 
+açmalıyız, aksi takdirde Viyana halkı kahvemizi içmeyecek. Ayrıca, Paris'e 
+gidersek, Paris tarzında bir kafe açmak zorunda kalacağız. Aynısı New 
+York, Seattle veya Canberra için de geçerli.
+Ancak, Starbucks'ı biliyorsanız, bu zincirin yapımcılarının buna 
+benzer bir şey yapmadığını da biliyorsunuzdur. Viyana, Paris veya 
+New York'taki bir Starbucks, Brüksel, Frankfurt veya Londra'dakiyle 
+aynı görünür. Aynı çeşitler servis edilir, servis elemanları sizi aynı 
+şekilde karşılar ve tüm kafe 23.768 şubede (2016 itibariyle) aynı 
+şekilde çalışır.
+Bir kahve gurmesi olarak bunu eleştirebilir, Viyana'daki Café Landtmann veya Café 
+Sperl'in benim için çok daha değerli olduğunu söyleyebilirsiniz (ben de!). Yine de,
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 81 ===
+Starbucks'ın stratejisiyle başarılı olmadığını söyleyemeyiz. Starbucks o 
+kadar başarılı ki sonunda 84 milyar ABD doları piyasa değerine sahip halka 
+açık bir şirket haline geldi.
+Viyana'daki Café Landtmann ve Café Sperl için durum böyle değil. Bu 
+geleneksel kafeler kendi yollarıyla başarılılar. Landtmann sadece Landtmann 
+oyununu oynarken Starbucks Starbucks oyununu oynuyor.
+Ayrıca, Starbucks bu oyunu ne olursa olsun, Moğolistan'da bile aynı 
+şekilde oynuyor. Halk hikayelerinin veya yerel koşulların ne olduğu veya 
+hangi "pazar koşullarıyla" karşılaştıkları önemli değil. Starbucks oyunu her 
+zaman bir "Starbuck tarzında" oynuyor. Yerel rekabet bazen çok büyük olsa 
+da, örneğin kahve dükkanları açısından gerçekten eşsiz olan Viyana'da. 
+Starbucks umursamıyor. Starbucks henüz Starbucks'ın Viyana versiyonunu 
+kurmadı, orada bile (baktım) Seattle Starbucks'ıyla aynı şekle sahip.
+Başka bir deyişle, Starbucks koşullar ne olursa olsun kendi oyununu 
+oynamaya devam ediyor. Bir tüccar olarak siz de aynısını yapmalısınız. 
+Tanıdığım her başarılı tüccar bu ilkeye göre hareket ediyor. Bireysel 
+tüccarların "yöntemleri" ne kadar farklı olursa olsun, kendi oyunlarını 
+oynuyorlar çünkü deneyimlerinden bunda başarılı olduklarını biliyorlar.
+Şimdi, bu kadar çok farklı yatırımcı bu kadar çok farklı yöntemle başarılı 
+olduğunda, umarım sonunda piyasa başarısının belirli bir yöntem veya 
+stratejiyle kesinlikle hiçbir ilgisi olmadığını fark edersiniz; birçok yeni 
+başlayanın inandığı şey budur.
+Deneme yanılma sürecinden sonra her başarılı yatırımcının 
+kişiliğine uygun kendi yöntemini geliştirdiği doğrudur. Ancak, bu 
+yöntem yüzünden başarılı değildir. Başarılıdır çünkü yöntemini bir 
+"Starbucks" disiplini ve azmi ile yürütür. Dahası, bunu her gün, her yıl 
+yapar.
+Çünkü oyununa sadık kalır ve asla ondan sapmaz, belli bir 
+zaman sonra aslında "Oyunun Efendisi" olur. Borsada kimsenin itiraz 
+etmeyeceği bir yeri vardır, çünkü tahtta sadece o oturur, başka kimse 
+oturmaz.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 82 ===
+Bu nedenle, başarının size de uyum sağlayacağı umuduyla bir ustanın 
+yöntemini kopyalamak benim görüşüme göre gereksizdir. Genellikle bu 
+gerçekleşmeyecektir. Sadece Starbucks başarılı olduğu için Starbucks'ı (bazı şirketler 
+denedi) kopyalamaya çalışırsanız, başarısız olursunuz.
+Eğer Starbucks prensibini anlıyorsanız, ama kendinize uygun kuralları da 
+kendiniz tasarlıyorsanız, o zaman pazarda gerçekten bir şansınız var demektir, 
+bunu diğer kahve zincirleri de başarıyla göstermiştir.
+Bu nedenle, ticaret de işe yarar. Elbette, başarılı bir tüccardan 
+öğrenebilirsiniz. Ancak, sadece onun yöntemini kopyalayıp kendiniz için 
+uygularsanız hiçbir şey öğrenemezsiniz. Merkez bankaları ne yaparsa yapsın veya 
+petrol piyasasında veya hisse senedi piyasalarında hangi felaketler yaşanırsa 
+yaşansın, her gün onun oyununu nasıl oynadığını izlerseniz ondan 
+öğreneceksiniz. Bu olaylar sadece sizi kendi oyununuzdan uzaklaştırmak ve 
+dikkatinizi dağıtmak için oradadır.
+Dikkatiniz dağıldığı sürece, hala özne-nesne dünyasında 
+yaşıyorsunuz, bu yüzden bize okullarda ve üniversitelerde öğretilen 
+modelde, yani dünyaya çıktığımızda, pastadan bir parça alabilmek için 
+savaşmamız gereken sayısız rakip bulacağımız modelde. Size tüm 
+netliğimle söyleyeceğim: Bu düşünce tamamen saçmalıktır.
+Dışarıda hiçbir şey yok. Hiçbir şey. Sadece siz ve SİZİN oyununuz var. 
+İnanmıyorsanız, bu eski tarzla devam etmeyi deneyin, size dünyadaki tüm şansları 
+diliyorum. Sadece şunu söylemek istiyorum: Deneyimime göre, bu gezegendeki tüm 
+başarılı insanlar kendi oyunlarını oynuyorlar. Yaşadıkları, oynadıkları ve başkalarının 
+ne düşündüğü veya söylediği ya da piyasanın onlara ne dikte ettiği umurlarında bile 
+olmayan kendi kuralları var.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 83 ===
+KAYIPLARINIZI AZALTIN
+Ticaret literatüründe "serbest ticaret" terimiyle tekrar tekrar 
+karşılaşacaksınız. Bununla ne demek istiyorum? Açtığınız ve riskten uzak bir 
+pozisyondur. Yani, bu ticaretle artık daha fazla zarar edemezsiniz, sadece kar 
+edersiniz. Bu durum, koruyucu stopunuzu maliyete, yani satın aldığınız (veya 
+kısa pozisyondaysanız sattığınız) fiyat seviyesine koyduğunuzda meydana 
+gelir.
+O andan itibaren, işlemin zarara girmesine izin vermezsiniz. Şu anda 
+olabilecek en kötü şey, piyasanın geri gelmesi ve sizin durdurulmanızdır. 
+Ancak, durdurmanız maliyette olduğundan, bu durumda ne kazanırsınız ne de 
+kaybedersiniz. Sonuç sıfırdır.
+Artık her hevesli yatırımcı altın ticaret kuralını biliyor:Zararınızı kesin, 
+kârınızın artmasını sağlayın.Her ticaret kitabında vardır ve herkes bu cümleyi 
+verili olarak kabul eder. Bunu biliyorsunuz ve bu kadardı.
+Bu cümleye daha yakından bakan neredeyse hiç kimse yok, bırakın 
+uygulamaya koyma çabasını. Birçok yatırımcının portföyünde, pozisyonlar 
+bazen aylarca hatta daha uzun süre risk altında. Hiç kazançları yok veya zar 
+zor. Çünkü bu asgari kâr veya asgari zarardan her zaman büyük bir kayıp 
+oluşabilir.
+Bu yöntemin savunucularının argümanı şudur: Piyasaya nefes alacak 
+alan vermelisiniz. (Teknik olarak, piyasanın doğal oynaklığını hesaba 
+katmalı ve ona göre stop loss seviyenizi ayarlamalısınız).
+Bu kayıt için yukarıda belirtilen kurban zihniyeti tekrar duyuluyor. Burada 
+biri sadece kendi oyununu oynamıyor, ne kadar kaybedeceğini ve kaybedeceğini 
+"doğal dalgalanma veya oynaklığa" bırakıyor. Bu zihniyet benim yaklaşımımın 
+favorisi değil, bir tüccar olarak oyunun kurallarını ben belirliyorum ve sadece 
+kendi kurallarıma göre oynuyorum.
+Herhangi bir deneyimli yatırımcı, işlemin zararda ne kadar uzun sürerse, kendisine kar 
+getirme olasılığının o kadar düşük olduğunu bilir. Eğer durum buysa, bunu yaptım
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 84 ===
+kurulum bilgisidurdurma yönetimimde bir zaman bileşeni. Belirli 
+bir süreden sonra pozisyon kârlı hale gelmiyorsa ya risk azaltılmalı ya 
+da pozisyon kapatılmalıdır.
+Bu çok katı geliyor, ancak bu ölçüt ticaretin altın kuralının ilk kısmıyla tutarlıdır. 
+Bu, kayıpları sınırlamak için mümkün olan her şeyi yapmam gerektiğini söylüyor. 
+Belirli bir süre sonra denge noktasını aşmamış pozisyonların gelecekte bunu yapma 
+olasılığının düşük olduğunu biliyorsam, neden bu pozisyonu sürdürmek isteyeyim ki. 
+Bu bana sadece sinirlere mal olur.
+Zarar pozisyonlarını önemli ölçüde azaltmak veya belirli bir süre sonra para 
+kaybedeceğinizi hissettiğinizde aynı pozisyonu kapatmak iyi işlem alışkanlıkları 
+arasındadır.
+Burada hangi zaman kuralı geçerlidir?
+Bu, işlem yaptığınız zaman birimine bağlıdır. 4 saatlik bir grafikle 
+çalışan bir swing yatırımcısı olarak, pozisyonunuz hala breakeven 
+seviyesini aşmadığında 5 dakika sonra huzursuz olmamalısınız. 24 saat 
+sonra (grafikteki altı mumdan sonra) pozisyon hala kayıpsa ve hiçbir yere 
+varamıyorsa, riski nasıl azaltacağınızı ciddi olarak düşünmelisiniz.
+Günlük yatırımcı mısınız ve 5 dakikalık bir grafikle mi çalışıyorsunuz ve 
+pozisyonunuz 30 dakika (6 Mum) sonra hala kayıptaysa, riski en aza indirmek için 
+buradaki son durumu düşünmelisiniz.
+İyi bir ölçü şudur:ilk durağı mevcut piyasaya daha yakın bir yere 
+ayarlamak. Bunu yaparak, elbette piyasanın stop'a ulaşma riskini alırsınız, ancak 
+kayıp daha küçük olur. Piyasa daha sonra istenen yönde hareket ederse, o zaman 
+yine de doğru şeyi yapmış olursunuz. Piyasa bunu yapmazsa ve stop'unuzu alırsa, 
+o zaman burada da doğru şeyi yapmış olursunuz. Bir kaybınız olur, ancak en 
+azından bu kaybı en aza indirmek için mümkün olan her şeyi yapmış olursunuz. 
+Buna aktif stop yönetimi diyorum.
+Kendi oyununu oynayan bir tüccar, aktif stop yönetimi uygular. 
+Piyasanın oynak bir karşı hareketinin kurbanı olana kadar beklemez. 
+Şöyle der: buraya kadar ve daha fazlası değil.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 85 ===
+Riski en aza indirmenin ikinci yolupozisyonun kendisini azaltmak. Bu çoğu 
+durumda mümkündür. Hisse senedi ticareti yapıyorsanız, hisselerinizin yarısını veya üçte 
+birini satarsınız. Forex ticareti yapıyorsanız, pozisyonun yarısını kapatabilirsiniz. Vadeli 
+işlem ticareti yapıyorsanız ve pozisyonunuz yalnızca bir lot (1 sözleşme) ise, bu önlem işe 
+yaramaz. Bir sözleşmeyi bölemezsiniz.
+Bu, bazı yatırımcıların (ve ben de bu görüşü paylaşıyorum) sadece tek bir sözleşmeyle 
+işlem yapan yatırımcıların optimum olmayan bir şekilde işlem yaptığı görüşüne sahip 
+olmasının nedenidir. Eylemlerinde kendilerini kısıtlarlar.
+Eğer 4 saatlik grafik üzerinden swing trading yapıyorsanız ve örneğin iki 
+tane mini DAX vadeli işlemi satın aldıysanız, pozisyonunuz 24 saat sonra kârda 
+değilse bunlardan birini satabilirsiniz.
+Belirli bir süreden sonra bir pozisyon breakeven noktasını geçmiyorsa, 
+bu sadece gelecekteki piyasa gelişimine ilişkin varsayımınızın yanlış olduğu 
+anlamına gelir. Ne daha fazla, ne daha az. Piyasanın kapsamlı bir analizini 
+yapsanız bile, girişinizin her zaman rastgele değişikliklere tabi olduğunu 
+bilmelisiniz. Buna göre, stop'unuz da rastgele değişikliklere tabidir.
+"Piyasa" tam da satın aldığınız anda neden yükselmeye başlasın ki? Bu 
+kibirli, hatta megaloman bir görüş, değil mi? Sanki tüm dünya sonunda satın 
+almanızı bekliyormuş gibi, böylece hareket başlayabilir.
+Gerçek şu ki borsada rastgele bir yürüyüşle işlem yaparsınız. Herhangi bir 
+anda her şey olabilir (ve tam tersi). Bunu netleştirin ve sonunda bunun sadece 
+analizinizin doğru olması ve piyasanın buna uyması gerektiği yönündeki çocukça 
+bir istek olduğunu anlayacaksınız.
+Ayrıca, bir tüccar olarak riski nasıl yöneteceğinize dair net kurallar 
+geliştirmeniz gerekir. Ne zaman alıp satacağınıza siz karar verirsiniz. Bunu 
+yapmazsanız, piyasa faaliyeti sizi yanlış yola sürükler ve sonunda dünyayı artık 
+anlayamaz hale gelirsiniz. İnanın bana; gerçekten kendi deneyimimden 
+bahsediyorum.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 86 ===
+VE KÂRLARINIZIN DEVAM ETMESİNE İZİN VERİN
+Şimdiye kadar, altın ticaret kuralının ilk bölümünü ele aldık: kayıplarınızı kesin. Şimdi, 
+ikinci bir bölüm daha var: ve karlarınızın akmasına izin verin. Burada, birçok yatırımcının 
+gerçekten dinlemediğini düşünüyorum. Kuralı tekrar ediyorum: karlarınızın akmasına izin 
+verin!
+Başka bir deyişle, kuralın ilk kısmıyla ilgili olarak kayıplarımızı en aza indirmek için her 
+türlü çabayı göstermemiz gerekiyorsa, ikinci kısımla ilgili olarak da karlarımızın devam 
+etmesini sağlamak için her türlü çabayı göstermeliyiz.
+Kayıplar konusunda aşırı titizsem ve bugün kaybettiğim bir pozisyonu 
+yarından daha iyi kapatırsam, kazanan pozisyonlarım konusunda son derece 
+sabırlı ve cömertim. Doğru okudunuz: cömert ve sabırlı.
+Neden?
+Breakeven noktası benim için bir tür sihirli sınır gibidir. Dahası, eminim her 
+yatırımcı bu sınırı bilir. Bir pozisyon su altında olduğu sürece rahatsız hissederim. 
+Hoşuma gitmez çünkü para kaybettiğimi ve ne kadar uzun beklersem o kadar çok 
+kaybettiğimi bilirim. Bu nedenle, zarar pozisyonlarım konusunda katıyım.
+Ancak, pozisyon breakeven noktasını geçtiği anda rahatlamaya 
+başlıyorum. Biliyorum: Bu yatırım karşılığını vermeye başlıyor. Ancak, 
+pozisyon hala riskte olduğu için hala sakin değilim. İşlemin yönü doğru gibi 
+görünse de, piyasanın her an dönebileceğini ve pozisyonumun tekrar 
+zarara dönebileceğini biliyorum.
+Bununla birlikte, bir pozisyon karlı hale geldiğinde riski azaltmaya 
+başlamam da iyi işlem alışkanlıklarındandır. Stop-loss emrini breakeven 
+noktasına doğru itmeye başlarım. Başka bir deyişle, kümülatif kazançlar 
+riski en aza indirmeyi mümkün kılar.
+Örnek olarak, Dow Jones'ta uzun pozisyon alabiliriz. Bir swing yatırımcısı 
+olduğunuzu ve Dow Jones'u 17.000 puandan satın aldığınızı varsayalım.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 87 ===
+ilk stop 16.800'de 200 puan aşağıda. Şimdi Dow'un 17.100 yükseldiğini 
+varsayalım, stopu 16.800'de bırakmak benim için mantıklı değil. Bu 
+durumda, stopu 16.900'e ayarlayacağım (grafikteki teknik 
+değerlendirmelere bakılmaksızın). Stopumu oraya koydum çünkü bu benim 
+kuralım. Anlıyor musunuz?
+Dow şimdi 17.200'e kadar yükselmeye devam ederse, stop emrimi 
+breakeven'a koymak için rahat bir konumdayım, yani 17.000'de. Bu, tüm 
+dünyaların en iyisi. Şimdilik, tekrar zarara giremeyecek karlı bir pozisyonum 
+var. Böylece, arkama yaslanıp işlemin daha da gelişmesini izleyebilirim. 
+Alternatif olarak, altın ticaret kuralının dilinde: karlarımın akmasına izin 
+vermek.
+Bu aynı zamanda bazılarının "serbest ticaret" dediği şeydir. Bu, yalnızca 
+kazanabileceğiniz anlamına gelir. Başınıza gelebilecek en kötü şey, piyasanın geri gelip stop 
+emrini tetiklemesidir. Bu durumda, hiçbir şey kazanmamış olursunuz ama hiçbir şey de 
+kaybetmemiş olursunuz.
+Şimdi, daha önce de söylediğim gibi, kazanan pozisyonlar konusunda 
+cömertim. Piyasada sabırla kalıyorum ve gelişmesi için ona alan tanıyorum. Bu, 
+kazanan işlemlerde kurallarım olmadığı anlamına gelmiyor; sadece kaybeden 
+işlemlerde olduğu kadar titiz değilim. Ne yazık ki birçok yatırımcı tam tersini 
+yapıyor: Kazanan işlemlerde (karlar ortaya çıktığında onları al) titizler ve kaybeden 
+pozisyonlara karşı sonsuz sabırlılar.
+Dolayısıyla ben tam tersini yapmaya çalışıyorum, bu da altın kuralın 
+anlamı içindedir ve benim cüzdanımın anlamı içindedir.
+Kârlı işlemlerin yönetimiyle ilgili olarak, açıkça tanımlanmış fiyat 
+hedefleri olan işlemler ile daha büyük hareketlere dayanan işlemler (trend 
+işlemleri) arasında ayrım yapıyorum. Bu ayrım önemlidir, çünkü farklı bir 
+durdurma yönetimi varsayar.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 88 ===
+TREND PİYASALARDA DURDURMA 
+YÖNETİMİ
+Daha büyük bir hareket veya daha büyük bir trendin devam etmesini 
+bekliyorsanız, o zaman açıkça işlemden en iyi şekilde yararlanmak istersiniz. Trend 
+piyasasında klasik stop azaltma türü, her durumda stop'u son salınım düşüklüğünün 
+altına yerleştirmektir. Bu ölçüm,Dow TeorisiBir trendin daha yüksek zirveler ve daha 
+yüksek diplerle karakterize edildiğini belirten.
+Bu yaklaşım ilk başta mantıklı görünüyor. Tüccar, bir tür manuel takip 
+eden durdurma ile tahakkuk eden kârları güvence altına alıyor. Ne yazık ki, bu 
+yöntem de aşağıdaki E-Mini (S&P500 vadeli) örneğinde gösterildiği gibi 
+hatalardan arınmış değil.
+E-Mini, 4 saatlik grafik, Heikin Ashi
+Diyelim ki S&P500'de 2016'nın başındaki çift dipten sonra, 
+yatırımcı uzun bir giriş yapmış olurdu (ok). İlk durağı bu nedenle çift 
+dipten biraz daha düşük pozisyon açılışında yer alırdı. Piyasa 
+gerçekten yükselmeye başlar ve 13 beyaz mumdan sonra sadece kısa 
+süren ilk konsolidasyon olur. Piyasa birkaç saat sonra yükselmeye 
+devam eder.
+Tüccar bu konsolidasyonun düşük seviyesini karını güvence altına almak için 
+kullanır ve şimdi stop'unu bu salınım düşük seviyesinin altına (aşağıdaki ilk yatay çizgi) 
+iter. Piyasa 9 mum daha yükselir ve bir sonraki konsolidasyon aşaması gerçekleşir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 89 ===
+Yatırımcı bunu bekler ve piyasa tekrar yükseldikten sonra, bu konsolidasyonun 
+son düşük seviyesinde (ikinci yatay çizgi) stop emrini tekrar iter.
+Piyasa tekrar yükselir, ancak yedi beyaz mumdan sonra, bu sefer daha 
+uzun süren ve bir öncekinden bile daha düşük olan bir konsolidasyona girer. 
+Sonuç olarak, tüccarın durdurması tetiklenir ve böylece pozisyon piyasadan 
+çıkar (yatay ok). Bu olduktan kısa bir süre sonra, piyasa tekrar yükselir ve on 
+bir beyaz mumdan sonra yeni bir zirveye ulaşır.
+Son olarak, sonraki günlerde ve haftalarda piyasa yükselmeye devam 
+eder ve tüccarın yaptığı tek şey, piyasa yönüne ilişkin yargısı doğru 
+olmasına ve hareketin başından itibaren bir pozisyona sahip olmasına 
+rağmen, büyük karları nasıl kaçırdığına dair deneyimdir. Piyasadan yalnızca 
+kısa, geçici bir düzeltme ile atıldı, bu bir geri çekilme bile değildi.
+Birçok yatırımcı bu deneyime sahiptir. Analizleri doğrudur, bir pozisyon 
+oluşturarak doğru şeyi yaparlar, ancak risk yönetiminde başarısız olurlar. Size 
+klasik "durdurmayı son ilgili salınım düşüklüğüne taşıyın" tavsiyesiyle, günümüz 
+piyasalarında çok ileri gidemezsiniz. Çok fazla sahtekar her zaman durdurmaları 
+piyasadan çıkarır. Akıllı para, elbette, trend takipçilerinin durdurmalarını salınım 
+düşüklüklerine yerleştirmeyi kullandıklarını çok iyi bilir. Ayrıca, bunları hemen 
+elde etmek çok caziptir.
+Deneyimime göre, trend piyasalarındaki stop reduction'ın tüm probleminin 
+sebebi, bu piyasalarda nasıl işlem yapılacağına dair yanlış bir düşünce tarzında 
+yatmaktadır. Güçlü trendlerin zaman zaman keskin düzeltmelerle kesintiye uğradığı 
+bilinmektedir.
+Bu eski stop-reduction yöntemini kullanırsanız, piyasanın stop 
+out'unuzu aldığını tekrar tekrar göreceksiniz. Bu nedenle, trend henüz 
+bitmemiş olsa da, trendin en kötü noktasında stop out'unuz olacak.
+Daha büyük bir hareket bekliyorsanız ve doğru bir şekilde konumlanmışsanız, 
+bunun yerine piyasaya gerçekten gelişmesi için alan vermelisiniz. Pozisyonum 
+zararda kaldığı sürece titiz olduğum gibi (para kaybediyorum!), pozisyon kârda 
+olduğunda da cömertim (para kazanıyorum!).
+Tanrı aşkına, neden iyi trendlerdeki kazanan pozisyonlarınızın tam 
+gelişimini sıkı stoplarla kesiyorsunuz? Birisi bana açıklayabilir mi?
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 90 ===
+Bu önlemin amacı nedir? Altın ticaret kuralının ikinci kısmı "kârlarınızın 
+akmasına izin verin" ise, bunu yapmalısınız. Bir swing tüccarı olarak, çok 
+yönetilebilir bir riskle muhteşem kârlar elde edebilirsiniz. Bu, tam olarak bu 
+ticaret tarzının avantajıdır.
+Bu felsefenin muhaliflerinin argümanını çok iyi biliyorum. Şöyle 
+diyeceklerdir: Eğer tüccar stop'u yukarı hareketin son swing low'unun 
+hemen altına koymasaydı, yukarı hareketin piyasa tarafından geçersiz 
+kılınması riskini göze alabilirdi. Bu nedenle, birikmiş karları tekrar yayar ve 
+böylece bir kayıp riski bile göze almış olurdu.
+Bu argüman kolayca reddedilemez. Bu senaryo gerçekleşebilir ve ara 
+sıra gerçekleşecektir. Ancak, çoğu yatırımcının bir pozisyonla gerçek kayıpları 
+gerçekleştirmektense, birikmiş kazançları piyasaya geri vermekten daha çok 
+korktuğu bilinmektedir.
+Ayrıca, onları ya az bir miktar kar elde ettiklerinde hemen kar almaya ya da 
+stop'un mevcut fiyatı yakından takip etmesine izin vermeye teşvik eden şey tam 
+da bu korkudur. Sanki kazanan pozisyonlarının gelişmeye devam edebileceğinden 
+emin değillermiş gibi. Bu rasyonel bir davranış değildir.
+Benim argümanım şu: ara sıra piyasa geri gelir ve yatırımcılar 
+kazanılan kazançların piyasaya geri verildiğini deneyimler. Bu, kendinizle 
+oynadığınız oyunun bir parçasıdır. Yine de, E-mini örneğinde olduğu gibi, 
+çok erken durmanıza izin vererek oldukça sık olarak çok yüksek karlar 
+elde edersiniz.
+Başka bir deyişle: Kaybedilen karlar genellikle piyasanın tekrar düşmesi 
+durumunda geri verilen ara sıra karlardan çok daha yüksektir. Eğer tüccar trendlere 
+yöneliyorsa, bunu doğru yapmalıdır. Unutulmaz Macar yatırımcı André Kostolany'nin 
+bir bon mot'uyla söylemek gerekirse: "Eğer domuz etiyse, o zaman damlamalıdır - ve 
+eğer borsaysa, o zaman buna değer olmalı."
+Tekrar ediyorum. Zararlar söz konusu olduğunda titiz ve titizim, ama 
+kârlar söz konusu olduğunda torunlarına karşı bir büyükanne gibi 
+cömertim.
+Bu nedenle, denge noktası, ya rahatladığım (kazanç durumunda) 
+ya da gerginleştiğim (kayıp durumunda) sihirli sınırdır.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 91 ===
+tekrar kar, sabrım neredeyse sonsuz (neredeyse!). Ancak, zararda 
+olduğum sürece, dünyanın en sabırsız insanıyım. Çoğu yatırımcı - 
+üzgünüm - tam tersi şekilde davranır.
+Ancak, denge noktasından sonra daha da önemli olan ikinci bir 
+sınır daha var:eşik değeri. Stop'u breakeven'a ayarlayabildiğim anda, 
+tamamen rahatlarım çünkü artık kaybedemem. Bu eşik, bir swing 
+trader olarak birincil hedefiniz olmalıdır. Sonra, eğlence başlayabilir.
+Denge eşiğinden önceki her şey iş ve sıkı risk yönetimi gibi 
+geliyor ve gerçekten de öyle. Sırada devlet var, bu yüzden borsayı 
+seviyoruz. Doğru zamanda doğru piyasada bir pozisyonumuz var ve 
+bu pozisyonun artan zamanla nasıl para kazandığını şimdi izleyebiliriz. 
+Bu harika değil mi?
+Trend piyasalarda bu tür kazançlı pozisyonlar durumunda tüccar 
+herhangi bir kazanç koruması yapmamalı mı? Elbette, bir kazanç koruması 
+biçimi işletmeli ve sonunda karlarını gerçekleştirmelidir. Hatta sonunda 
+"teşekkür ederim" demeyi öğrenmesi ve sonra tozdan kurtulması bile çok 
+önemlidir.
+Ancak, ilk olarak, başlangıçta yatırımcıya birikmiş kazancı geri vermenin 
+mantıksız korkusunu anlatmak istedim. Bu bazen olur ve bundan 
+kaçınamazsınız. Bana göre, 2. resimdeki gibi erken durdurulursanız ve sonra 
+diğerlerinin partide olup siz olmadığınızı izlemek zorunda kalırsanız çok daha 
+kötüdür.
+Bunu nazik bir büyükanne-torun havasında söylemenizi ve kendi cömertliğinize 
+başvurmanızı istiyorum. Herhangi bir kazanan pozisyona nefes alması için gereken 
+havayı verin. Mümkün olduğunca çabuk dengeyi sağlamak için durdurmayı 
+yapabildiğinizden emin olun, o zaman size artık hiçbir şey olmaz ve daha fazla gözlem 
+moduna geçebilirsiniz.
+Bununla ne demek istiyorum? Her trendin kendine özgü dinamikleri ve iç 
+mantığı vardır. Pozisyonunuz güzel bir kazanç elde ederse stop'u biraz daha yükseğe 
+ayarlayabilirsiniz. Yanlış bir şey yok, ancak stop'u son swing düşük seviyesine 
+ayarlamayın. Sondan bir önceki swing düşük seviyesini seçebilirsiniz. Bu piyasadan 
+çıkarılırsa, bu trendde yanlış bir şey var demektir. O zaman dikkatli olmalısınız veya
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 92 ===
+belki pozisyonu kapatın. Eğer trendin bitmediğine ikna olduysanız, istediğiniz 
+zaman geri satın alabilirsiniz. Ayrıca, burada hiçbir şey yasak değildir.
+Alternatif olarak bir tür takip eden stop kullanmak olabilir. Bu, Dow 
+Jones örneğindeki gibi sıradan bir takip eden stop olabilir. O durumda, fiyatı 
+200 puanlık bir mesafeden takip eden bir takip eden stop kullanmıştım. Yine 
+de bu takip eden stopu cömertçe seçmenizi öneririm.
+Şekil 3: E-mini, 4 saatlik grafik, Heikin Ashi
+Şekil 3, yine S&P500'den alınmış olup 2014'ten bir örnektir. Çok güçlü bir 
+yükseliş trendi görüyoruz. Heikin Ashi mumları her yükseliş hareketinde değişmez 
+bir şekilde beyazdır ve konsolidasyon dönemleri (genellikle piyasa kapanışından 
+sonra) kısa ve neredeyse önemsizdir. İlk dört alım dalgası kesinlikle ikna edicidir. 
+Böyle bir durumda, arkanıza yaslanıp yolculuğun tadını çıkarabilirsiniz.
+Ancak beşinci satın alma dalgası (ok) artık o kadar ikna edici değil. 
+Dört beyaz mumdan sonra, birkaç siyah mum yükseliyor ve dalgada bu 
+tekrar oluyor. Trend açıkça nefessiz. Bu, bir takip eden durdurma 
+önereceğim aşamadır. Trendin son aşamasıdır ve bir tüccar olarak sizin 
+için, her an uygun bir düzeltmenin gerçekleşebileceği açık olmalıdır.
+Bu örnekte, uzun pozisyona sahip olan tüccarlar şanslıydı çünkü piyasa 
+zirveye ulaştıktan sonra, çok yüksek bir seviyede yanlara doğru gitmeye 
+devam etti. Süreyi artırarak, takip eden durdurmayı her zaman ayarlardım
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 93 ===
+daha yakın. Başlangıçta hala 30 puan, ama sonra yakında 20'ye ve hatta 10'a 
+çıkardım. Sonunda emriniz yürütülecek ve piyasadan çıkacaksınız.
+Umarım amacı anlamışsınızdır. Bir trendin son aşamasında her zaman mesele, 
+hasadı ahırda güvenli bir şekilde nasıl süreceğinizdir. Bunu hak ediyorsunuz. Sabrınız 
+için ödüllendirileceksiniz.
+Elbette bu hasadı yalnızca birikim aşamasında (trend başlangıcı) ve 
+momentum aşamasında (burada trend en güçlü, mumlar en büyük) 
+stop'unuzu mevcut piyasadan cömert bir mesafede ayarladığınızda elde 
+edersiniz. Güçlü bir trendi stop ile yakından takip etmeye çalışmanın bir 
+anlamı yoktur. Bırakın çalışsın!
+Ayrıca, trendin en yüksek noktasını tahmin etmeye çalışmayın; kural olarak başarılı 
+olamazsınız. Her işlemden en iyi şekilde yararlanmak için net stop-kurallarına sahip 
+olmak daha iyidir. Bu kesinlikle her zaman başarılı olmayacaktır, ancak ara sıra bir home 
+run yaşayabilirsiniz. Dahası, bu hesabınıza gayet iyi gelir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 94 ===
+DURDURMA YÖNETİMİ
+HEDEFLER
+İLE FİYAT
+Örneğin, net bir fiyat hedefiyle çalıştığımda, bir aralık piyasasında işlem yaparsam, 
+o zaman benim gözümde bir takip eden stop ile çalışmak pek mantıklı değil. Sadece 
+aşağıdaki EUR/USD örneğine bakın.
+Şekil 4: EUR/USD, 1 saatlik grafik
+Daha sonra, iki sınırlayıcı çizgi en az iki önemli dokunuşa sahip olduğunda bir 
+aralık görünür hale gelir. Ancak o zaman, tüccar aralığı belirleyebilir ve bu şekilde 
+işlem yapabilir. Bu durumda, beş işlem mümkündü. Üç kısa işlem (yukarıdaki oklar) 
+ve iki uzun işlem (aşağıdaki oklar).
+Yanal piyasanın doğası gereği piyasa oyuncuları az çok mevcut fiyat 
+üzerinde anlaşırlar. Elbette, hala becerikli aralık tüccarları tarafından 
+istismar edilebilecek dalgalanmalar vardır. Bu durumda, EUR/USD'de 
+yaklaşık 180 piplik bir aralık görebiliyordum. Gördüğünüz gibi, birkaç sahte 
+ve hatta düpedüz yanlış bir aşağı yönlü kırılma da vardı. Yine de, piyasa 
+aralığa geri döndü.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 95 ===
+Trend piyasaların aksine, aralık piyasaları belirsiz piyasalardır. Bunu grafiğe basit 
+bir bakışla görebilirsiniz. Fiyat, Ping-Pong topları gibi ileri geri hareket eden, net bir yön 
+olmadan fırlıyor gibi görünüyor. Burada, bir takip eden-Durdur ile çalışmak benim 
+gözümde mantıklı değil.
+Aralık ticaretinde fiyat hedefi, ilgili zıt aralık sınırıdır. Desteği (alt 
+çizgiyi) satın alırsanız, hedefiniz otomatik olarak üst sınırdır, yani 
+dirençtir (üst yatay çizgi). Bu örnekte maksimum 180 puan kazanç elde 
+edebilirsiniz.
+Bir aralık tüccarı olarak, uzun giderseniz desteğin tutacağını 
+varsayarsınız. Bu nedenle, stop çok cömert ayarlanmamalıdır. Burada 
+aralığın yarısını, yani 90 pip'i öneriyorum. Gördüğünüz gibi, bu ölçüm ilk 
+iki kısa işlemde işe yarardı. İlk uzun işlemde işe yaramazdı. Burada stop 
+piyasa oynaklığının kurbanı olurdu.
+İkinci uzun işlem (sağ alt ok) hedef fiyata çok iyi ulaştı. Ancak, EUR/
+USD'yi hedefe ulaşana kadar götüren rota şakalarına bakın. Bu, bir aralık 
+piyasası için oldukça tipiktir. Bu nedenle burada bir takip eden stop 
+kullanmamalısınız.
+Önce, euro aralığın yarısına kadar fırladı (yani, uzun pozisyon zaten 
+90 pip kârdaydı) ve sonra giriş noktasına geri dönerek eşit seviyenin 
+altına düştü. Bu özellikle can sıkıcıdır, ancak olur. Stop'unuzu buraya 
+erken koymuş olsaydınız, geride kalırdınız.
+Zaten 90 pip kar elde ettiyseniz, ilk stop'u 45 pip'te biraz kısaltmanızı 
+öneririm. Trend piyasaları için doğru olan önlemler, aralık piyasaları için 
+geçerli değildir. Aralık piyasalarında işlem yapmak her şeyden önce bir 
+olasılık oyunudur. Bazı işlemler hedefe ulaşır, diğerleri durdurulur.
+Bu örnekte, aşağıdaki sonucu elde ediyoruz: 
+Üç kazanan işlem: 3 x 180 = 540 pip İki 
+kaybeden işlem:
+Toplam
+2 x 90 = 180 pip
+360 pip
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 96 ===
+FRANC TSUNAMİSİ, TÜCCAR 
+TOPLULUĞUNUN İYİLEŞTİRİCİ BİR ANI
+Cumartesi öğleden sonra ve akşam saatlerinde Güney Almanya'nın 
+Konstanz kasabasından sınırı geçerek İsviçre'ye girmek isteyen herkes 
+genellikle büyük bir sürprizle karşılaşır. İsviçre sınırının önünde 
+kilometrelerce uzunluğunda bir kuyruk oluşur. Plakalara bakan kişi, 
+İsviçre'ye girmek isteyenin Almanlar değil, İsviçreliler olduğunu fark eder! 
+Burada bir işgal mi oldu?
+Cuma öğleden sonraları ve cumartesileri, sanki gerçekten de böyle bir şey olmuş 
+gibi görünüyor, ancak İsviçreli işgalciler Alman perakendecilere ikinci bir Noel İşi 
+getiriyorlar, çünkü İsviçre frangının 1990'daki muhteşem yükselişinden bu yana
+15 Ocak 2015'ten bu yana alışveriş turizmi büyük oranda arttı.
+İsviçrelilerin güçlü franklarıyla Alman sınır kasabalarının 
+süpermarket raflarını boşaltmaları yetmiyormuş gibi. Ayrıca KDV iadesi 
+formlarının basılmasını da bekliyorlar. Gümrükte KDV'yi bile geri 
+alıyorlar. Bu yüzden iki kere kazanıyorlar.
+Borsa tarihinde Frank olarak bilinen olay
+Tsunami, 15 Ocak 2015'te gerçekleşti. 15 Ocak'a birkaç gün kala 
+İsviçre Merkez Bankası, EUR/CHF döviz çifti için kendilerinin koyduğu 
+1,20 sabit fiyatını korumak için elinden geleni yapacağını duyurmuştu.
+Birkaç gün sonra hiç kimsenin beklemediği bir şey yaptılar. Sabit kurdan 
+vazgeçtiler. Euro yarım saat içinde yaklaşık %15'e düştü. Bir darbeyle tüm İsviçreliler 
+%15 daha fazla satın alma gücüne sahip oldu.
+İsviçreli alışveriş turistleri ve Güney Alman perakendecileri için iyi 
+olan şey, benim gözümde tüccar topluluğu için de iyidir. Frank şoku 
+aslında tüccarların başına gelebilecek en iyi şeydi. Her ne kadar birçok
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 97 ===
+oldukça kötü, bazı durumlarda yasal sonuçları da var. Ayrıca, bazı brokerlar olaydan sağ 
+çıkamamış olsa da, yine de bunun gerçekleşmesinden memnunum.
+Frank şokunu "para savaşları"nın bir bölümü olarak değerlendirmek mümkün
+ve kesinlikle öyle. En azından 15 Ocak'tan beri biliyoruz ki, finans 
+piyasalarındaki hiçbir büyük oyuncuya ve kesinlikle merkez bankacılarına 
+inanmayabiliriz.
+Ocak 2015'te birçok yatırımcı EUR/CHF'de uzun pozisyon tuttu
+çünkü 15 Ocak'tan önceki günlerde fiyat 1.20'nin hemen üzerindeydi. 
+İsviçre Merkez Bankası, alt sınırı "garantilediği" için uzun pozisyon mantıklı 
+görünüyordu ve serbest ticaret olarak görülüyordu.
+O zamanlar düşünülemez olan gerçekleşti, bazıları belki de 1,19 veya 1,18'de 
+bir zarar durdurma emri koymuştu. Her ihtimale karşı. Bu onlara hiçbir şekilde 
+yardımcı olmadı, çünkü kayma (daha kötü yürütme oranları) o kadar büyüktü ki EUR/
+CHF en kısa sürede 1,20'den 0,85'e düştü. Durdurmaların gerçek yürütme fiyatı o 
+zamanlar bazı durumlarda 0,85'ti ve bu da büyük kayıplara yol açtı. SNB'ye (İsviçre 
+Ulusal Bankası) güvenen yatırımcılar kısmen altı haneli meblağlar kaybettiler.
+Başka bir deyişle: Bu aşırı durumda, buna bir de denir""Siyah Kuğu", 
+stop-loss emri işe yaramaz. Her ne kadar Black Swan'lar çok nadir olsa da. 
+Her trader'ın trading kariyeri boyunca en azından bir kez böyle bir olayın 
+kurbanı olması mümkündür.
+Benzer bir olay, daha az dramatik olsa da, 11 Eylül 2001'de yaşandı. 
+Dünya Ticaret Merkezi'ne yapılan saldırılardan sonra, ABD'deki borsalar 
+günlerce kapalı kaldı. Hiçbir tüccar pozisyonlarını likide edemedi. Elbette, 
+piyasalar yeniden açıldığında fiyatlar önemli ölçüde düşüktü.
+Frank Tsunamisini İyileştirmek, pozisyon büyüklüğü meselesini ciddi bir 
+şekilde düşünmek bile benim gözümde öyleydi. Özel yatırımcılar profesyonel bir 
+varlık yönetiminin nasıl çalıştığını görme fırsatı yakalarsa, genellikle tutulan veya 
+işlem gören pozisyonların "ne kadar küçük" olduğunu merak ederler. Elbette mevcut 
+sermayeye kıyasla küçük.
+Bazı hedge fonları (George Soros gibi) hariç, kurumsal 
+yatırımcılar için hiçbir tek pozisyonun fonu koyamayacağı bir kuraldır.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 98 ===
+sorun. Diyelim ki bir fonun XYZ hissesinde bir pozisyonu var ve bu şirket 
+bir gecede iflas ediyor. Hisse sıfıra düşüyor, bu da toplam bir kayıp. 
+Genellikle bu kaybın fonun toplam bakiyesinde %1 veya %2'lik bir kaybı 
+temsil ettiğini göreceksiniz. Bunun üzücü bir bireysel durum olduğunu 
+söyleyebilirim, ancak fonu iflasa sürüklemez.
+Öte yandan özel yatırımcılar genellikle işlem sermayelerinin değerini çok 
+aşan pozisyonlar tutarlar. İşlem yapmak için 10.000 ABD doları olan ve EUR/
+USD'de bir mini lot satın alan (değeri 10.000 ABD doları) kişi tüm sermayesini 
+yatırmış olur. Elbette, yatırımcı forex piyasalarındaki yüksek avantaj nedeniyle 
+çok daha büyük pozisyonlar satın alabilir. Ancak soru, bunu yapıp yapmaması 
+gerektiğidir.
+Frank Tsunamisi bize, hisse senedinin katını temsil eden pozisyonları 
+tutmanın ne kadar tehlikeli olabileceğini henüz göstermedi. Eğer işler ters 
+giderse, İsviçre frangı şokunda olduğu gibi, mikrofona gelip döviz 
+yatırımcılarına vergi mükellefinin tam desteğini sağlayacak federal 
+hükümet temsilcisi yok, üzgünüm.
+Bu nedenle, özel bir yatırımcı olarak, bazı brokerlar size 1:100 (bazı 
+brokerlar 1:400!) kaldıraç sunsa da, kendinize hiç kaldıraçla işlem yapıp 
+yapmamanız gerektiği sorusunu ciddi bir şekilde sormalısınız. Birkaç bin 
+ABD doları tutarındaki küçük bir sermayeyi en kısa sürede birkaç milyona 
+çıkarmak cazip görünüyor. Kaldıraç kullanıyorsanız, bu küçük sermayeyi 
+birkaç ay içinde yok etme olasılığınız çok daha yüksektir.
+Küçük pozisyon boyutlarıyla işlem yapma önerim, çoğu yatırımcının kısa 
+bir zaman diliminde (bir hafta veya bir ay) neler başarabileceğini abarttığı 
+gözlemine dayanmaktadır. Ancak, stratejinizi 5 ila 10 yıllık bir süre boyunca 
+disiplinli bir şekilde işlem yaparsanız, daha uzun bir süre içinde neler 
+başarabileceklerini küçümserler.
+İşlem gününüzü bitirdiğinizde ve elinizde ABD doları olduğunda eğlenceli görünüyor
+Hesabınızda 1.000 daha var (sadece ABD$ tutarında bir işlem sermayeniz varsa)
+(Örneğin 10.000). Yine de bunu her gün yapabilir misiniz?
+Bana göre, ticaret işinizi gerçek bir iş gibi ele almak çok daha 
+mantıklı. Küçük başlamak ve sadece ticaret yapmak anlamına geliyor
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 99 ===
+Mevcut sermayenizi katlayabilecek durumdaysanız, kademeli olarak daha 
+büyük pozisyonlarla.
+Bu nedenle geçiminizi ticaret yaparak sağlamaya çalışmayın. Bu hedef sizi 
+çok fazla baskı altına sokar. O zaman tehlike, aşırı kaldıraçlı ticaret yapmanız ve 
+orantısız bir şekilde yüksek riskler almanızdır. Kural olarak, bu çoğu yeni başlayan 
+tüccar için iyi değildir.
+Çok küçük başlamak (örneğin, Forex'te Minilotlarla değil, Mikrolotlarla 
+işlem yapmak!) ve hiç kaldıraç kullanmamak, ancak pozisyonları kademeli olarak 
+artırmak için deneyim kazanmak çok daha akıllıcadır. Bu sizi başlangıçta daha az 
+baskı altına sokacak ve ticaret işine sakin bir şekilde geçiş yapabileceksiniz.
+Gerçek kaldıraç o zaman zamandadır. Çoğu yatırımcı 5 veya 10 yıllık 
+bir sürede neler başarabileceğini küçümser. 5 yıl içinde, bugün henüz 
+yapamadığınız şeyleri başarabilirsiniz. Kendinize bunun için büyümek için 
+zaman tanıyın.
+En küçük pozisyonlarla rahat ticaret yapmanın bir başka olumlu etkisi 
+daha vardır. Daha cömert stop emirleriyle çalışmayı göze alabilirsiniz. Bir 
+swing tüccarı olarak, stoplarınızı çok sıkı koymamalısınız. Piyasanın gelişmesi 
+için biraz zaman tanıyın. Eğer bunu belirli bir süre sonra yapmazsa, daha önce 
+tartışıldığı gibi riski en aza indirmeyi ciddi olarak düşünmelisiniz.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 100 ===
+AYNI ANDA KAÇ POZİSYONDA 
+ÇALIŞABİLİRİM?
+Elbette, bir swing tüccarı olarak, örneğin günlük tüccarların veya 
+scalper'ların yapması gereken gibi, işlemlerinizi sürekli olarak izlemek zorunda 
+olmamanız gibi bir lüksünüz var. Piyasada emirlerinizi verdiğiniz ve sonra 
+çıkabileceğiniz kadar rahat bir konumdasınız. Pozisyonunuz hem stop-loss 
+hem de kar alma emri ile sağlandığından, nihayetinde piyasa, iki emirden 
+hangisinin önce yürütüleceğine karar verir.
+Bu sizi aynı anda birden fazla pozisyonu tutabilecek bir kursa 
+sokar. Yine de bunu yapma konusunda uyarmak isterim. Ben kendim 
+genellikle aynı anda ikiden fazla pozisyonu tutmam.
+Neden?
+Günümüz piyasaları oldukça ilişkilidir. Dolarda bir şey olursa 
+bunun hisse senedi piyasası ve emtialar üzerinde kesinlikle bir etkisi 
+olabilir. Petrol piyasasında güçlü bir hareket varsa, bunun hisse 
+senedi piyasası ve dolar dahil olmak üzere bir dizi emtia para birimi 
+üzerinde sonuçları olmadan olmaz.
+Başka bir deyişle, örneğin EUR/USD'de, ham petrolde ve Dow Jones'ta 
+bir pozisyon tutuyorsanız, bu piyasalardan birinde meydana gelen bir 
+olayla diğerlerinin de etkilenmesi mümkün olabilir. Yanlış tarafta 
+durursanız, üç pozisyonda da kayıp yaşamanız mümkün olabilir.
+Daha da önemlisi, daha psikolojik bir bileşen de var. Yatırımcılar aynı 
+anda çok fazla pozisyon tuttuklarında, belirli pozisyonlara karşı belli bir 
+ilgisizlik geliştirirler. Tüm bu pozisyonları, aksi takdirde tek bir pozisyonu 
+yöneteceğiniz kadar dikkatli yönetemeyebilirsiniz. Bu nedenle oldukça basit 
+tutun ve gerçek bir şans tanıdığınız piyasalarda işlem yapmaya çalışın. 
+Daha azı genellikle daha fazladır.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 101 ===
+SÖZLÜK
+Kara Kuğu:Çok nadir görülen ve büyük etki bırakan bir olay. Başa baş:
+Toplam maliyetin ve toplam gelirin eşit olduğu nokta.
+Korelasyon:Korelasyon, iki menkul kıymetin birbirine göre nasıl hareket ettiğinin 
+istatistiksel bir ölçüsüdür.
+Günlük alım satım:Günlük işlem, menkul kıymetlerde spekülatif kısa vadeli 
+ticareti tanımlar. Bir tüccar bir pozisyon açar ve aynı işlem günü içinde tekrar 
+kapatır.
+Geri çekilme:Geri çekilme, ilgili dönemdeki maksimum kümülatif 
+kayıptır ve genellikle yüzde olarak gösterilir.
+Dow Teorisi:Dow Teorisi, finansal piyasaların tüm teknik analizlerinin 
+temelini oluşturur.
+E-Mini Vadeli İşlemleri:Amerikan SP500 endeksi vadeli işlem 
+sözleşmesi. Çıkış Stratejisi:Bir piyasadan çıkışı belirleyen strateji. 
+Döviz:Forex Döviz Piyasası, uluslararası döviz piyasası.
+Garantili zarar durdurma emri:Bu emirle aracı kurum, pozisyonun tam olarak istenilen 
+fiyattan kapatılmasını garanti altına alır.
+Heikin Ashi grafiği:""Tek ayak üzerinde dengede durma" fiyat değişimlerinin Japonca 
+gösterim biçimi.
+İsabet oranı:İsabet oranı, kazanılan işlemlerin kaybedilen işlemlere oranıdır.
+İlk Durak:Başlangıçtaki stop-loss, bir pozisyonun uygulama anındaki riskini 
+sınırlar.
+Uzun Pozisyon:Uzun olmak, menkul kıymet satın almış olmak ve dolayısıyla bunlara sahip olmak anlamına 
+gelir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 102 ===
+Pay:Döviz (Forex) ve vadeli işlem piyasalarında işlem birimi lot'tur.
+Mikrolot:Bir mikrolot, bir döviz çiftinde 1.000 dolarlık bir sözleşmeye karşılık geliyor.
+Mini lot:Mini lot, bir döviz çiftinde 10.000 doların üzerindeki bir sözleşmeye karşılık gelir.
+Momentum:Momentum, yatırımcıya fiyat hareketinin hızı ve gücü 
+hakkında bilgi verir.
+Pip:Nokta olarak yüzde, döviz ticaretinde fiyattaki en küçük değişim. Menzil:
+Belirli bir zaman diliminde net olarak tanımlanmış işlem aralığı. Rezistans:Artan 
+satıcıların ortaya çıktığı fiyat seviyesi. Geri çekilme:Mevcut eğilime ters yönde 
+gerçekleşen geçici bir geri dönüş.
+Kafa derisi soyma:Yatırımcının piyasadaki minimum hareketlenmelerle işlem yaptığı 
+işlem tekniği.
+Kısa pozisyon:Bir yatırımcı, bir pozisyonu sahibi olmadan sattığında (kısa satış) kısa 
+pozisyon almış olur.
+Kayma:Bir varlığın vade sonunda tahmini fiyatı ile gerçek fiyatı 
+arasındaki fark.
+Zarar durdurma emri:Belirli bir fiyata ulaşıldığında gerçekleştirilen satış 
+emri.
+Takip eden durdurma:Fiyatı belirli bir mesafeden takip eden otomatik stop loss 
+emri.
+Destek:Alıcıların giderek daha fazla ortaya çıktığı fiyat seviyesi.
+Trendleri takip etmek:Bir kere belirlenen trendin takip edilmesine odaklanan 
+işlem stratejisi.
+Volatilite:Standart sapma. Bir piyasanın fiyatının nasıl değiştiğini belirtir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 103 ===
+HEIKIN ASHI TRADER'IN DİĞER 
+KİTAPLARI
+500$ ile Ticaret İşletmesi Nasıl Başlatılır
+Birçok yeni yatırımcının başlangıçta çok az sermayesi olur, ancak bu yine de bir yatırım 
+kariyerine başlamanın önünde bir engel değildir.
+Ancak bu kitap, 500$'lık bir hesabın 500.000$'lık bir hesaba nasıl dönüştürüleceğiyle 
+ilgili değildir. Çoğu yeni başlayanı başarısızlığa sürükleyen şey tam da bu abartılı 
+getiri beklentileridir.
+Bunun yerine yazar, sınırlı başlangıç   sermayesine rağmen tam zamanlı bir yatırımcı 
+olmanın nasıl mümkün olduğunu gerçekçi bir şekilde gösteriyor. Bu, hem özel kalmak 
+isteyen yatırımcılar hem de sonunda müşteri fonlarıyla işlem yapmak isteyenler için 
+geçerlidir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 104 ===
+Bu kitap bunu nasıl yapacağınızı adım adım gösteriyor. Ayrıca, her adım için 
+somut bir eylem planı var. Bu işin nasıl çalıştığını öğrenmeye istekliyse, 
+herkes prensipte bir tüccar olabilir.
+İçindekiler
+1. Sadece 500$ Yatırımla Nasıl Yatırımcı Olunur?
+2. İyi Ticaret Alışkanlıkları Nasıl Edinilir?
+3. Disiplinli Bir Tüccar Nasıl Olunur
+4. Bileşik Faiz Masalı
+5. 500$'lık Hesapla Nasıl İşlem Yapılır?
+6. Sosyal Ticaret
+7. Brokerınızla Konuşun
+8. Profesyonel Yatırımcı Nasıl Olunur?
+9. Bir Hedge Fonu İçin Ticaret
+10. Ağ Kurmayı Öğrenin
+11. Yedi Adımda Profesyonel Yatırımcı Olun.
+12. 500 Dolar Çok Paradır.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 105 ===
+Mini DAX-Future Nasıl Scalp Edilir
+Mini-DAX vadeli işlemlerinin (FDXM) tanıtılması sayesinde, daha küçük 
+hesaplara sahip özel yatırımcılara Alman DAX Endeksini profesyonel 
+terimlerle satma fırsatı sunuluyor. Diğer birçok işlem aracının aksine, Vadeli 
+İşlemler finansal piyasalarda para kazanmanın en şeffaf ve etkili yoludur.
+Scalper'lar pozisyon tüccarlarından veya günlük tüccarlardan sonsuz derecede daha fazla 
+işlem fırsatına sahiptir ve bu da bu işlem stilinin gerçek gücünü oluşturur. Bu nedenle bir 
+scalper sermayesini diğer tüm piyasa katılımcılarından çok daha etkili bir şekilde 
+yönetebilir ve böylece aksi takdirde olacağından çok daha büyük getiriler elde edebilir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 106 ===
+Heikin Ashi Trader bu kitapta DAX'ta bu yeni geleceğin nasıl başarılı bir şekilde 
+scalping yapılacağını gösteriyor. Piyasaya nasıl gireceğinizi, pozisyonunuzu nasıl 
+yöneteceğinizi ve hangi noktada geri çekilmeniz gerektiğini öğreneceksiniz. 
+Ayrıca kitap, ticaretinizi daha da etkili ve kesin hale getirmek için bir sürü ipucu ve 
+araç içeriyor.
+İçindekiler
+1. EUREX, Mini DAX Geleceğini Tanıtıyor
+2. Uluslararası Yatırımcılar İçin Popüler Bir Piyasa Olan Alman DAX
+3. Vadeli İşlemlerin Avantajları
+4. Heikin-Ashi Tablosu
+5. Scalping Nedir?
+6. Scalper Olmanın Avantajı Nedir?
+7. Heikin Ashi Scalping'in Temel Kurulumu
+8. Giriş Stratejileri
+9. Tekrar Girişler Mantıklı mı?
+10. Çıkış Stratejileri
+11. Birden Fazla Hedef Mantıklı Mıdır?
+12. Mini-DAX-Future'ı Ne Zaman Scalping Etmelisiniz (ve Ne Zaman Etmemelisiniz)
+13. Scalperlar için Faydalı Araçlar
+A. Sipariş Verme
+B. Emirleri Açma ve Kapatma
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 107 ===
+C. Açık Siparişleri Yönetme
+D. Kar Maksimizasyon Aracı Olarak Trailing Stop
+14. Çeşitli Durdurma Emirleri
+A. Düzeltme Durağı
+B. Takip Eden Durdurma
+C. Doğrusal Durma
+D. Zaman Durdurma
+E. Parabolik Durak
+F. Bağlantı Durdurma Emirleri
+G. Çoklu Duraklar ve Çoklu Hedefler
+15. Borsa'da Çıkış Stratejileriyle Para Kazanılır!
+16. Pazar Analizinin Daha da Geliştirilmesi
+A. Temel Fiyat Seviyeleri
+B. Canlı İstatistikler
+Sonsöz
+Sözlük
+Heikin Ashi Trader'ın Diğer Kitapları 
+Yazar Hakkında
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 108 ===
+YAZAR HAKKINDA
+Heikin Ashi Trader, vadeli işlemler ve döviz işlemlerinde 15 yılı aşkın günlük 
+işlem deneyimine sahip bir yatırımcının takma adıdır. Scalping ve hızlı günlük 
+işlem konusunda uzmanlaşmıştır. Buna ek olarak, işlem faaliyetleri hakkında 
+birden fazla açıklayıcı kitap yayınlamıştır. Popüler konular şunlardır: scalping, 
+swing trading, para ve risk yönetimi.
+www.forexgercekleri.xyz

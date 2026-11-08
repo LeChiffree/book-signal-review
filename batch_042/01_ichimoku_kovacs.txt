@@ -1,0 +1,991 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 1\Baskı 1\Yeni Başlayanlar İçin Ichimoku - Gabor Kovacs (55 sayfa) - @eseckal.pdf
+PAGES: 55
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+Ichimoku nedir?
+Kinko Hyo mu?
+Ichimoku Kinko Hyo, grafik sistemini takip eden çok işlevli 
+bir görsel trenddir. Göstergelerin kralı olduğundan söz edilir 
+ve onunla ticaret veya analiz yapmak bir tür üst düzey 
+sanattır.
+Adı ne anlama geliyor?
+Ichimoku: bir bakış, Kinko: denge (veya denge) ve Hyo: 
+harita anlamına gelir. Ichimoku Kinko Hyo terimi şu şekilde 
+tercüme edilebilir: 'Tek bakışta denge tablosu' veya 'Bir 
+bakışta grafik dengesi'.
+http://www.ichimokuworld.com 8
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Kim yarattı
+Ichimoku Kinko Hyo
+sistem?
+Grafikleri daha derinlemesine ama daha kısa sürede analiz 
+etmek için bir tür "hepsi bir arada" gösterge oluşturmayı 
+amaçlayan Japon ekonomi gazetecisi Goichi Hosoda 
+tarafından geliştirildi. O zamanlar otomatik geriye dönük 
+testler yapma imkanı olmadığından sistemin geliştirilmesi 
+çok büyük ve karmaşık bir çalışmaydı. Goichi Hosoda, süreci 
+İkinci Dünya Savaşı'ndan önce, hesaplanan farklı formülleri 
+manuel olarak test etmek zorunda kalan büyük bir grup 
+öğrenciyle başlattı. Nihayet, yirmi yıldan fazla süren test ve 
+incelemelerden sonra Hosoda, 1969 yılında kitabında 
+Ichimoku Kinko Hyo grafik sistemini sundu ve bu sistem 
+hızla Japon ticaret odalarında en sık kullanılan gösterge 
+haline geldi.
+Sistem neden bu kadar 
+özel?
+Ichimoku ile trend yönü, ana destek/direnç seviyeleri ve kesin 
+giriş ve çıkış noktaları da dahil olmak üzere piyasanın tüm 
+resmini elde etmek mümkündür. Ayrıca sinyalin gücünün 
+tanımlanmasına da yardımcı olur. Ichimoku'nun tüm 
+pazarlarda ve tüm zaman dilimlerinde başarılı bir şekilde 
+kullanılabilmesi de önemlidir, ancak çoğu gösterge gibi yüksek 
+göstergelerde biraz daha iyi performans gösterir.
+http://www.ichimokuworld.com 9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Goichi Hosoda'nın 
+orijinal kitabını okumak 
+mümkün mü?
+İngilizce?
+Maalesef hayır, çünkü orijinal Ichimoku kitapları ve 
+materyalleri hiçbir zaman İngilizceye çevrilmemiştir. Pek çok 
+kişi bu materyallerin şu anda Japonya Merkez Bankası'nın gizli 
+bir kasasında saklandığına inanıyor. Ayrıca Hosoda'nın 
+kitabında anlatılan yöntemin hiçbir zaman tam olarak 
+kamuoyuyla paylaşılmadığı ve sistemin gizli bir bonus bileşeni 
+olabileceği dedikodusu var. Ancak bu dedikodular hiçbir zaman 
+resmi olarak doğrulanmadı.
+http://www.ichimokuworld.com 10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Tek başına bir sistem 
+mi?
+Ichimoku Kinko Hyo birçok şekilde kullanılabilir. Tek başına bir sistem 
+olarak kullanılabileceği gibi trend ve fiyat davranışı analizörü olarak 
+da kullanılabilir ve herhangi bir ticaret sistemi veya stratejisiyle 
+birleştirilebilir. Aynı zamanda bir giriş sinyali oluşturucu olarak da 
+kullanılabilir veya başka bir ticaret sisteminin sinyallerini filtrelemek 
+için de kullanılabilir. Dahası, Ichimoku ticareti bir tür üst düzey sanat 
+olduğundan ve sanat oldukça öznel bir şey olduğundan, her 
+Ichimoku tüccarı Ichimoku'da biraz farklı ticaret yapar.
+Ticari bir ticaret sistemine sahip Ichimoku.
+Ichimoku başka bir Japon sistemi olan Renko ile.
+http://www.ichimokuworld.com 11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Hangi resmi kaynaklar
+Ichimoku'yu düzenli olarak kullanın
+grafik analizi için?
+Büyük haber kaynaklarından birkaçından bahsetmek gerekirse:
+http://www.ichimokuworld.com 12
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Ichimoku göstergesini 
+nasıl ekleyebilirim?
+MT4 çizelgelerim?
+1. Ücretsiz Metatrader4 (MT4) platformunu indirip yükleyin. 
+Alpari, InterbankFX, FXDD, FXPro vb. gibi Metatrader4'ü 
+destekleyen herhangi bir komisyoncuyu seçebilirsiniz. Mevcut 
+aracılık hesabınızı kullanmaktan çekinmeyin veya kendiniz bir 
+tane seçin.
+2. Metatrader4'ünüzü açın.
+3. Metatrader'ınızın Navigator panelinde Göstergeler> 
+Ichimoku'yu seçin ve bunu grafiklerinize ekleyin.
+Ichimoku'nun standart 
+ayarları nelerdir?
+ve neden?
+Standart ayarlar şunlardır: 9-26-52. Formülün temel 
+numarası 26'dır. Yaygın görüş, 26 sayısının standart bir 
+Japon iş ayını (ki bu ay) temsil ettiği yönündedir.
+http://www.ichimokuworld.com 13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Cumartesi günleri dahil), 9 rakamı bir buçuk haftayı, 52 rakamı ise iki 
+ayı temsil ediyor. Bazıları farklı görüşlere sahip ve Goichi Hosoda'nın 
+hesaplanmasının - diğerlerinin yanı sıra - Ay döngülerine dayandığını, 
+26 sayısının bir dolunay döngüsünü ifade etmek için en iyi yaklaşık 
+sayı olduğunu, 9 sayısının bir buçuk çeyrek Ay döngüsünü temsil 
+ettiğini ve 9 sayısının bir buçuk çeyrek Ay döngüsünü temsil ettiğini 
+söylüyor. 52 sayısı çifte Ay döngüsünü temsil eder.
+Alternatif kullanmak 
+mümkün mü ayar
+değerler?
+Evet mümkün. Bazı yatırımcılar 2-22-44 değerlerini kullanır 
+ancak önerilen ayarlar hala orijinal değerlerdir.
+Ne
+bileşenler
+Ichimoku Kinko
+sistem?
+öyle the
+the
+Hyo
+ile ilgili
+Ichimoku Kinko Hyo beş satırdan oluşur:
+-Tenkan-Sen(Dönüşüm çizgisi) son 9 dönem için (En Yüksek En 
+Yüksek + En Düşük En Düşük)/2 olarak hesaplanır.
+-Kijun-Sen(Standart çizgi) son 26 dönem için (En Yüksek En 
+Yüksek + En Düşük En Düşük)/2 olarak hesaplanır.
+-Chikou Açıklığı(Gecikme Açıklığı), mevcut fiyatın 26 dönem 
+geriye kaydırılmasıyla hesaplanır.
+-Senkou Açıklık A(Daha Hızlı Span A), (Tenkan-Sen + Kijun-
+Sen)/2 olarak hesaplanır.
+-Senkou Açıklık B(Daha Hızlı Aralık B), (En Yüksek Yüksek + En 
+Düşük Düşük)/2 olarak hesaplanır.
+http://www.ichimokuworld.com 14
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Elementlerin Japonca 
+adlarını öğrenmek 
+gerekli mi?
+Ichimoku çizgilerinin Japonca adını tam olarak öğrenmek 
+çok önemlidir, ayrıca çizgileri harita üzerindeyken tek 
+bakışta tanıyabilmek de şarttır.
+Lütfen aşağıdaki bölümleri yalnızca bu bölümdeki bilgileri tam 
+olarak anlayıp bunlara hakimseniz okuyun. Hangi satırın 
+hangisi olduğunu düşünmeniz gerekiyorsa, lütfen sonraki 
+bölümlere geçmeden önce terminoloji ve satırların 
+tanımlanması üzerinde çalışmaya devam edin.
+http://www.ichimokuworld.com 15
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Ichimoku'yu grafik sistemi 
+olarak kullanma
+Ichimoku Kinko Hyo sistemini grafik sistemi olarak 
+kullandığımızda giriş veya çıkış sinyalleri almak istemiyoruz 
+ancak piyasa hakkında trend yönü, gelecek olasılıkları ve 
+ana destek gibi önemli bilgiler almak istiyoruz. Direnç 
+seviyeleri.
+Trendin belirlenmesi
+"Trend senin arkadaşındır" - bu, teknik analizin temel ve yaygın 
+olarak bilinen kavramlarından biridir. Ancak ne yazık ki bu o 
+kadar da kolay değil. Trendler, tarihsel grafiklerde dikkat çekici 
+bir şekilde öne çıkıyor, ancak bir trendi daha başlangıcında 
+belirlemek, grafik analizindeki en zor görevlerden biridir. 
+Aşağıdaki birkaç paragraf, Ichimoku Kinko Hyo ile trendlerin 
+nasıl tespit edilebileceğini gösterecek.
+Kumo'yu analiz etmek
+Son iki hat - Senkou Span A ve Senkou Span B - sistemin 
+benzersiz Kumo özelliğini oluşturur. Eğilimi belirlemek için 
+ilk şey bu bileşeni kendi başına ve diğer bileşenlerle ve 
+fiyatla karşılaştırarak gözlemlemektir.
+a) Kumo'nun rengi
+Senkou Span A, Senkou Span B'nin üzerindeyse Kumo'nun 
+rengi açıktır ve bu olası bir yükseliş eğilimine işaret eder. 
+Senkou Span A, Senkou Span B'nin altındaysa Kumo rengi 
+koyu olur ve trend düşüş eğilimi gösterir. Senkou Span A, 
+Senkou Span B'yi geçtiğinde Kumo'nun rengi değişir ve bu, 
+olası bir trend değişikliğinin olasılığını artırır.
+http://www.ichimokuworld.com 17
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+b) Kumo'nun kalınlığı
+Kumo ne kadar kalınsa trend de o kadar güçlü olur. Önemli bir 
+Kumo, güçlü bir trend anlamına gelir ve küçük bir Kumo, zayıf 
+bir trendi gösterir; çünkü fiyatın ince bir Bulutta hareket 
+etmesi kalın bir Buluttan daha kolaydır. Bununla birlikte, 
+Kumo'nun tepesi ve altının destek ve direnç çizgileri anlamına 
+geldiğini akılda tutmak önemlidir, dolayısıyla ince bir Kumo 
+bile fiyatı önceki yönüne döndürebilir, ancak şans daha 
+düşüktür.
+http://www.ichimokuworld.com 18
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+c) Kumo ve fiyat
+Ichimoku'nun en temel temellerinden biri şudur: Eğer fiyat 
+Kumo'nun üzerindeyse trend yükseliş eğilimi gösterir; fiyat 
+Kumo'nun altındaysa trend düşüş eğilimi gösterir. Bu 
+yöntemle genel eğilimin yükseliş mi yoksa düşüş eğilimi mi 
+olduğunu belirlemek çok görünür ve kolaydır. Bu, her 
+trendin Kumo bulutundan yukarı veya aşağı yönlü bir çıkış 
+yaptığında bir Kumo kırılmasıyla başlar, ancak mükemmel 
+bir Kumo kırılması için Chikou Span'ın da yönü teyit etmek 
+için Kumo'dan çıkması gerekir. Fiyat Bulutun gövdesinde 
+hareket ettiğinde trenddeki belirsizlik gösterilir.
+d) Kumo ve Chikou Span
+Chikou Span, Kumo'nun üzerinde (yükseliş eğilimi), 
+Kumo'nun altında (düşüş eğilimi) veya Kumo'da (nötr, 
+kararsız eğilim) olabilir. Chikou Span çok önemli bir trend
+http://www.ichimokuworld.com 19
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+onaylama aracı olduğundan her zaman grafik analizini hesaba 
+katmak gerekir.
+e) Kumo, Kijun-Sen ve Tenkan-Sen'e karşı Kijun-Sen ve 
+Tenkan-Sen'in konumu genellikle fiyatla karşılaştırılsa da, 
+Kumo'ya karşı konumu da trendin gücünün göstergesi 
+olabilir. Bu çizgiler Kumo'nun yukarı yönlü hareketini 
+sürdürüyorsa, bu daha fazla yükseliş eğilimini destekliyor 
+demektir. Bunun tersi ise düşüş eğiliminin devamını 
+destekliyor.
+http://www.ichimokuworld.com 20
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Diğerini karşılaştırmak
+bileşenler e karşı
+fiyat
+Kumo'yu fiyatla karşılaştırdık. Şimdi aynısını Ichimoku'nun 
+diğer bileşenleri için de yapalım.
+a) Chikou Span ve fiyat karşılaştırması
+Chikou Span fiyatın üzerine çıkarsa yükseliş işareti olarak 
+kabul edilebilir ve bunun tersi de geçerlidir. Fiyat Kumo'nun 
+yükseliş yönündeyse ve Chikou Span bunu yukarı doğru 
+keserse, bu uzun vadeli bir yükseliş eğilimi olasılığının çok 
+güçlü bir işaretidir, bunun tersi ise güçlü bir düşüş eğilimini 
+gösterir. Chikou Span Kumo'daysa trend kararsızdır çünkü 
+Senkou Span A ve Senkou Span B destek ve direnç çizgileri 
+onu güçlü bir şekilde etkileyebilir ve Chikou Span, 
+halihazırda gövdeden kopmuş olsa bile fiyatı geri çekebilir. 
+Bulut.
+http://www.ichimokuworld.com 21
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+b) Kijun-Sen ve fiyat karşılaştırması
+Kijun-Sen çok güçlü bir destek veya direnç seviyesi gibi 
+davrandığından trend değişikliklerini belirlemede çok önemli bir 
+araçtır. Eğer fiyat bunu yukarı doğru keserse bu yükseliş 
+işaretidir, eğer fiyat bunu aşağı doğru keserse bu bir düşüş 
+işaretidir. Yükseliş eğilimi Kumo'nun üzerinde (güçlü işaret), 
+Kumo'da (nötr işaret) veya Kumo'nun altında (zayıf işaret) 
+meydana gelebilir ve bunun tersi de geçerlidir. Price ile Kijun-Sen 
+arasındaki mesafe de çok anlamlı olabilir, sanki fiyat Kijun-Sen'i 
+çok geride bırakıyormuş gibi, genellikle yatay bir hal alır ve 
+dengeyi oluşturmak için fiyatı geri çeker. Lütfen bunun trend 
+değişikliğinin bir işareti olmadığını, sadece bir sıçrama olduğunu 
+ve Kijun-Sen ile fiyat arasındaki uyum sağlandıktan sonra 
+genellikle tekrar trend yönünde hareket ettiklerini unutmayın.
+http://www.ichimokuworld.com 22
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+c) Tenkan-Sen ve fiyat karşılaştırması
+Tenkan-Sen, momentumu temsil ettiği için küçük fiyat 
+hareketlerine karşı daha duyarlıdır ancak trend doğrulama 
+aracı olarak da kullanılabilir. Örneğin, eğer fiyat bir trend 
+içindeyse, genellikle dalgalar yaratır ve Tenkan-Sen 
+üzerinden Kijun-Sen'e geri döner, sonra tekrar trend 
+yönüne sıçrar. Fiyatın bir sıçrama sırasında Tenkan-Sen 
+üzerinden trend yönünde hareket etmesi trendin devam 
+ettiğini teyit ediyor.
+d) Chikou Span, Kijun-Sen'e karşı
+Chikou Span Kijun-Sen'in üstünde (yükseliş işareti) veya altında 
+(düşüş işareti) olabilir. Kijun-Sen çok güçlü bir destek/direnç 
+seviyesi olduğundan, Chikou Span bunun üzerinde olduğu 
+sürece yükseliş hareketleri iyi bir şekilde desteklenir ve Chikou 
+Span Kijun-Sen'in altında kalırsa aşağı yönlü hareketler 
+desteklenir. Chikou Span'ın büyük bir hamle gerçekleşmeden 
+önce Kijun-Sen'e saldırması çok yaygındır.
+http://www.ichimokuworld.com 23
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+e) Tenkan-Sen, Kijun-Sen'e karşı
+Tenkan-Sen/Kijun-Sen kesişmesi aynı zamanda trendin değiştiğini veya 
+devam ettiğini de gösterebilir. Yukarıya doğru bir çaprazlama Kumo'nun 
+üzerinde (güçlü sinyal), Kumo'nun gövdesinde (nötr sinyal) veya 
+Kumo'nun altında (zayıf sinyal) meydana gelebilir ve bunun tersi de 
+geçerlidir.
+http://www.ichimokuworld.com 24
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+İdeal trendin resmi
+Her ne kadar Ichimoku Kinko Hyo sisteminin bileşenleri ayrı 
+ayrı tanımlanmış olsa da, genel eğilimi ve resmin tamamını bir 
+bakışta görebilmek için her iki bileşenin birlikte kullanılması 
+zorunludur.
+İdeal bir yükseliş eğilimi işaretinin veya onayının tanımı şu 
+şekilde olacaktır:
+1. fiyat Kumo, Tenkan-Sen ve Kijun-Sen'in üzerindedir
+2. Kumo kalın ve yükseliş eğilimi gösteriyor
+3. Tenkan-Sen Kijun-Sen'i Kumo'nun üzerinden geçti
+4. Chikou Span hem Kumo, Tenkan-Sen, Kijun-Sen'in hem de 
+fiyatın üzerindedir
+İdeal bir düşüş eğiliminin resmi şöyle olacaktır:
+1. fiyat Kumo, Tenkan-Sen ve Kijun-Sen'in altındadır
+2. Kumo kalın ve düşüş eğiliminde
+3. Tenkan-Sen, Kijun-Sen'i Kumo'nun altına doğru geçti
+4. Chikou Span hem Kumo, Tenkan-Sen, Kijun-Sen'in hem de 
+fiyatın altında
+http://www.ichimokuworld.com 25
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+İdeal düşüş eğilimi.
+Trend zayıflamasının 
+işaretleri
+Daha önce açıklanan ideal yükseliş eğilimine ilişkin olarak, eğilimin 
+zayıflamasının işaretleri şöyle olacaktır:
+1. Chikou Span Kijun-Sen'in altına doğru ilerliyor
+2. Fiyat Tenkan-Sen'in, ardından Kijun-Sen'in altına iniyor
+3. Tenkan-Sen, Kijun-Sen'i çaprazlıyor
+4. Hem Chikou Span, Tenkan-Sen, Kijun-Sen hem de fiyat 
+Kumo bünyesine giriyor
+5. Kumo düşüş eğilimine giriyor (karanlık)
+Son olarak, eğer fiyat en azından Chikou Span'ın 
+onaylanmasıyla birlikte Bulut'tan aşağı yönde bir çıkış 
+yaparsa, trendin tamamen değiştiği (yükselişten düşüşe) 
+teşhis edilebilir.
+http://www.ichimokuworld.com 26
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Daha önce açıklanan ideal düşüş eğilimine ilişkin olarak, eğilimin 
+zayıflamasının işaretleri şöyle olacaktır:
+1. Chikou Span Kijun-Sen'in üstüne çıkıyor
+2. Fiyat önce Tenkan-Sen'in, ardından Kijun-Sen'in üzerine çıkıyor
+3. Tenkan-Sen, Kijun-Sen'i çaprazlıyor
+4. Hem Chikou Span, Tenkan-Sen, Kijun-Sen hem de fiyat 
+Kumo bünyesine giriyor
+5. Kumo yükselişe geçiyor (hafif)
+Son olarak, eğer fiyat en azından Chikou Span'ın 
+onaylanmasıyla birlikte Bulut'tan yukarı yönlü bir çıkış yaparsa, 
+trendin tamamen değiştiği (düşüş eğiliminden yükselişe 
+doğru) teşhis edilebilir.
+Tanımlama
+ve direnç seviyeleri
+Destek
+Tüm Ichimoku çizgileri destek ve direnç çizgileridir ancak 
+aynı güce sahip değildirler.
+Daha önce açıklanan ideal yükseliş eğilimine ilişkin olarak, 
+destek seviyelerinin güç sırası (azalan sırada) şöyle olacaktır:
+1. Kumo'nun alt kısmı
+2. Kumo'nun tepesi
+3. Kijun-Sen
+4. Tenkan-Sen
+http://www.ichimokuworld.com 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Daha önce açıklanan ideal düşüş eğilimine ilişkin olarak, 
+destek seviyelerinin güç sırası (azalan sırada) şöyle olacaktır:
+1. Kumo'nun tepesi
+2. Kumo'nun dibi
+3. Kijun-Sen
+4. Tenkan-Sen
+Ichimoku'yu ticaret sistemi 
+olarak kullanma
+Ichimoku Kinko Hyo sistemini bir ticaret sistemi olarak 
+kullandığımızda, sadece piyasa hakkında önemli bilgiler almak 
+istemiyoruz, aynı zamanda piyasanın kesin giriş ve çıkış 
+sinyallerini de almak istiyoruz.
+Bu kitapta sadece yeni başlayanlar için önerilen en sık 
+kullanılan iki giriş tekniğini açıklayacağım.
+http://www.ichimokuworld.com 28
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Tenkan-Sen/Kijun-Sen
+geçmek
+Güçlü alış sinyali: çapraz Kumo'nun üzerinde gerçekleşir 
+Güçlü satış sinyali: çapraz Kumo'nun altında gerçekleşir
+Tarafsız alım/satım sinyali: Kumo'nun gövdesinde çaprazlaşma meydana 
+gelir
+Zayıf alış sinyali: çapraz Kumo'nun altında gerçekleşir 
+Zayıf satış sinyali: çapraz Kumo'nun üzerinde gerçekleşir
+Giriş:
+- çaprazlama olur (güçlü çaprazlamaları tercih edin)
+- diğer Ichimoku bileşenleri yönü destekliyor (Trend ticareti 
+bölümünde açıklandığı gibi).
+http://www.ichimokuworld.com 29
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Kumo'dan kaçış
+Fiyatın Kumo gövdesinden çıkması (dışarıda kapanması) VE 
+Chikou Span'ın hareketi onaylaması durumunda geçerli bir Kumo 
+çıkışından bahsediyoruz. Fiyatın Kumo'dan çıkış yapması ancak 
+Chikou Span'ın bunu başaramaması durumunda buna sahte çıkış 
+veya sahte çıkış diyoruz. Eğer diğer bileşenler de hareketi 
+destekliyorsa, bu sinyalin daha güçlü olmasını sağlar.
+Filtreleme aralığı
+dönemler
+Dalgalı piyasalar çoğu yatırımcının en kötü kabusudur. 
+Ichimoku sisteminin benzersiz Kumo özelliği sayesinde 
+piyasanın değişken dönemleri daha başarılı bir şekilde 
+filtrelenebilir. Fiyatın Kumo gövdesine doğru ilerlemesi, 
+trendin kararsız olduğu ve aralığın muhtemel olduğu 
+anlamına gelir. Kumo'da fiyat hareket halindeyken herhangi 
+bir pozisyona girilmesi önerilmez. Aynı şey Chikou Span için 
+de geçerli. Fiyatın zaten kırılmış olması önemli değil
+http://www.ichimokuworld.com 30
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Kumo, eğer Chikou Span hâlâ oradaysa. Chikou Span'ın 
+Kumo sınırından geri sıçraması ve fiyatı önceki yönüne 
+çekmesi çok olağan bir durum.
+The
+soru
+zaman aralığı
+Doğal olarak, daha yüksek zaman dilimlerinde tanımlanmış bir 
+trend, daha kısa zaman dilimlerine göre daha fazla etki ve güce 
+sahip olabilir. Buradan Kumo kırılmasının veya Tenkan-Sen/Kijun-
+Sen kesişmesinin daha kısa zaman dilimlerine göre daha yüksek 
+zaman dilimlerinde daha anlamlı olduğu sonucu çıkıyor. Ayrıca, 
+daha yüksek zaman çerçevesinin Ichimoku bileşenleri genellikle 
+daha düşük zaman dilimlerindeki Ichimoku çizgilerini etkiler. 
+Örneğin, Günlük grafiğin Kijun-Sen değerinin H4 grafiğinin Kumo 
+zirvesinin tam değeri olması tipik bir durumdur. Bu durumda fiyat 
+Günlük Kijun-Sen'in altında kapanırsa bu aynı zamanda H4 
+grafiğinde Kumo'ya girdiği anlamına gelir.
+http://www.ichimokuworld.com 31
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Zararı Durdur'u nereye 
+koymalı?
+Ne olursa olsun her zaman zararı durdurma seçeneğini kullanmalısınız. 
+Ichimoku'da bile. Destek/direnç çizgileri bölümünde en güçlü destek/
+direnç çizgisinin Kumo'nun diğer tarafı olduğunu anlatmıştım. Bundan, 
+güvenlik durağını bu seviyeye + birkaç pip tampona koymanın iyi bir fikir 
+olduğu sonucu çıkıyor. Aynı zamanda zararı durdurmayı son yüksek/
+düşük + ara belleğe veya son tur sayı seviyesi + ara belleğe koymak da 
+yaygın olarak kullanılan bir tekniktir.
+Ne zaman
+konum?
+ile kapalı A
+Bir pozisyon zararı durdurmayla kapatılır veya manuel 
+olarak kapatılabilir (genellikle kâr amacıyla). Kâr almayı 
+hedeflemeyle ilgili pek çok iyi teknik var, bu kitapta sadece 
+yeni başlayanlar için önerilen temel birkaç teknikten 
+bahsedeceğim ve kitap serisinin bir sonraki cildinde bu 
+konuyu daha da derinleştireceğim.
+Pozisyonu kapatmanın üç ana temel yöntemi şunlardır:
+− fiyat Kijun-Sen'i geçerse kapat
+− yuvarlak sayı seviyesine ulaşırsa kapat
+− x kadar pip kar elde ettikten sonra kapatın.
+http://www.ichimokuworld.com 32
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Oluşturma
+temel
+analiz
+senin
+Ichimoku
+Birinci
+Ichimoku'ya yeni başlayanlar için en zor şey geçerli temel 
+analizler oluşturmaktır. Bunun nedeni, tablonun ve eğilimin 
+genellikle önceki bölümlerde öğrendiğimiz kadar idealist 
+olmamasıdır. Örneğin fiyat Kumo'nun altındaysa, Chikou Span 
+da Kumo'nun altındaysa, fiyatın üstündeyse, Tenkan-Sen Kijun-
+Sen'in altındaysa ve Kumo geleceği yükseliş gösteriyorsa ne 
+olur? Hangi sinyaller daha alakalı? Ayrıca, H4 grafikleri 
+tamamen düşüş eğilimindeyken 5M grafikleri açıkça yükseliş 
+gösteriyorsa ne olur?
+The
+Gereksinimler
+minimum
+Ichimoku ile alım satım kararı verebilmek için her zaman 
+kontrol etmeniz gereken minimum gereksinimler şunlardır:
+− Fiyat vs Kumo
+− Tenkan-Sen vs Kijun-Sen
+− Chikou Span vs Kumo, Price ve Kijun-Sen
+− Kumo'nun geleceği
+Bunlar minimum gereksinimlerdir. Bunları daima bu sırayla 
+kontrol edin. Eğer bu parametreler aynı gösteriyorsa 
+Tenkan-Sen/Kijun-Sen çaprazı veya Kumo çıkışı ile 
+girebilirsiniz. Örneğin Tenkan-Sen ve Kijun-Sen'in de 
+Kumo'dan ayrıldığını fark ederseniz, bu mümkün olabilir.
+http://www.ichimokuworld.com 33
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+trendin bonus teyidi olarak sayılır. Ancak minimum 
+gereksinimler yalnızca daha önce bahsedilen dört tanesidir. 
+Üçünün de aynı şeyi gösterdiğini fark ederseniz, ancak 
+örneğin Tenkan-Sen Kijun-Sen'i ters yönde geçtiyse, diğer 
+üç bileşenin yönünü de desteklemeye başlayana kadar 
+girmeyin.
+Daha yüksek zaman aralıkları
+Her zaman yalnızca daha yüksek zaman dilimleri yönünde işlem 
+yapılması tavsiye edilir. En az iki yüksek zaman dilimini kontrol 
+etmenizi tavsiye ederim, dolayısıyla örneğin 15M zaman dilimine 
+girmek istiyorsanız önce H1 ve H4 grafiklerini kontrol edin. H1 
+grafiğine girerseniz, önce H4 ve Günlük grafikleri vb. kontrol edin. 
+Daha yüksek zaman dilimlerini kontrol ederken lütfen en azından 
+önceki dört minimum gereksinimi kontrol edin. Her zaman daha 
+yüksek zaman dilimlerinden başlayın ve daha sonra daha düşük 
+zaman dilimlerine ilerleyin ve asla daha yüksek zaman dilimlerine 
+karşı girmeyin. (Bazı özel Ichimoku teknikleriyle onlara karşı giriş 
+yapmak mümkündür ancak bu başlangıç   aşamasında en iyi şey 
+her zaman daha yüksek trend yönünde işlem yapmaktır.)
+Lütfen aşağıdaki kısa notları günlük işlem rutininizde 
+kullanmaktan çekinmeyin. En baştan başlayın ve o zaman 
+diliminin Ichimoku'suna göre her satırın yanına küçük bir 
+yukarı veya aşağı ok koyun. Aynı yönü gösteren 4 küçük 
+okunuz varsa bir sonraki (alt) zaman dilimine geçebilirsiniz. 
+Eğer orada yine aynı yönü gösteren 4 küçük ok varsa, giriş 
+zaman diliminize gidebilirsiniz. Hile sayfanızla grafikleri 
+analiz edin ve orada Tenkan-Sen/Kijun-Sen kesişimlerini 
+veya Kumo kırılmalarını aramaya başlayın.
+http://www.ichimokuworld.com 34
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+KOPYA KAĞIDI
+Daha yüksek zaman aralığı 1
+(örneğin H4)
+− Fiyat ve Kumo
+− Tenkan-Sen vs Kijun-Sen
+− Chikou Span vs Kumo, Price ve Kijun-Sen
+− Kumo'nun geleceği
+Daha yüksek zaman dilimi 2
+(örneğin H1)
+− Fiyat ve Kumo
+− Tenkan-Sen vs Kijun-Sen
+− Chikou Span vs Kumo, Price ve Kijun-Sen
+− Kumo'nun geleceği
+Giriş Zaman Aralığı
+(örneğin M15)
+− Fiyat ve Kumo
+− Tenkan-Sen vs Kijun-Sen
+− Chikou Span vs Kumo, Price ve Kijun-Sen
+− Kumo'nun geleceği
+http://www.ichimokuworld.com 35
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Örnek analiz 1.
+Daha yüksek zaman dilimi 1. (H4)
+− Fiyat ve KumoYUKARI
+− Tenkan-Sen vs Kijun-SenYUKARI
+− Chikou Span vs Kumo, Price ve Kijun-SenYUKARI
+− Kumo'nun geleceğiYUKARI
+Daha yüksek zaman aralığı 2.
+(H1)
+http://www.ichimokuworld.com 36
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+− Fiyat ve KumoYUKARI
+− Tenkan-Sen vs Kijun-SenYUKARI
+− Chikou Span vs Kumo, Price ve Kijun-SenYUKARI
+− Kumo'nun geleceğiYUKARI
+Giriş zaman aralığı (M15)
+− Fiyat ve KumoYUKARI
+− Tenkan-Sen vs Kijun-SenYUKARI
+− Chikou Span vs Kumo, Price ve Kijun-SenYUKARI
+− Kumo'nun geleceğiYUKARI
+Giriş stratejisi:Kumo kaçışı ve/veya Tenkan-Sen/Kijun-Sen 
+çaprazlaması
+Kaybı durdurmak:Kumo + tamponunun alt kısmında
+Çıkış stratejisi:yuvarlak sayı düzeyi veya fiyat/Kijun-Sen 
+çaprazı
+http://www.ichimokuworld.com 37
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Örnek analiz 2.
+Daha yüksek zaman aralığı 1.
+(H4)
+− Fiyat ve KumoAŞAĞI
+− Tenkan-Sen vs Kijun-SenAŞAĞI
+− Chikou Span vs Kumo, Price ve Kijun-SenAŞAĞI
+− Kumo'nun geleceğiAŞAĞI
+Daha yüksek zaman aralığı 2.
+(H1)
+http://www.ichimokuworld.com 38
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+− Fiyat ve KumoAŞAĞI
+− Tenkan-Sen vs Kijun-SenAŞAĞI
+− Chikou Span vs Kumo, Price ve Kijun-SenAŞAĞI
+− Kumo'nun geleceğiAŞAĞI
+Giriş zaman aralığı (M15)
+− Fiyat ve KumoAŞAĞI
+− Tenkan-Sen vs Kijun-SenAŞAĞI
+− Chikou Span vs Kumo, Price ve Kijun-SenAŞAĞI
+− Kumo'nun geleceğiAŞAĞI
+Giriş stratejisi:Kumo kaçışı ve/veya Tenkan-Sen/Kijun-Sen 
+çaprazlaması
+Kaybı durdurmak:Kumo + arabelleğinin üst 
+kısmında Çıkış stratejisi:yuvarlak sayı seviyesi
+http://www.ichimokuworld.com 39
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Örnek analiz 3.
+Daha yüksek zaman aralığı 1.
+(H4)
+− Fiyat ve KumoYUKARI
+− Tenkan-Sen vs Kijun-SenYUKARI
+− Chikou Span vs Kumo, Price ve Kijun-SenYUKARI
+− Kumo'nun geleceğiYUKARI
+Daha yüksek zaman aralığı 2.
+(H1)
+http://www.ichimokuworld.com 40
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+− Fiyat ve KumoYUKARI
+− Tenkan-Sen vs Kijun-SenYUKARI
+− Chikou Span vs Kumo, Price ve Kijun-SenYUKARI
+− Kumo'nun geleceğiYUKARI
+Giriş zaman aralığı (M15)
+− Fiyat ve KumoYUKARI
+− Tenkan-Sen vs Kijun-SenYUKARI
+− Chikou Span vs Kumo, Price ve Kijun-SenYUKARI
+− Kumo'nun geleceğiYUKARI
+Giriş stratejisi:Kumo'dan kaçış
+Kaybı durdurmak:Kumo + tamponunun alt kısmında 
+Çıkış stratejisi:fiyat/Kijun-Sen çaprazı
+http://www.ichimokuworld.com 41
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Örnek analiz 4.
+Daha yüksek zaman aralığı 1.
+(H4)
+− Fiyat ve KumoYUKARI
+− Tenkan-Sen vs Kijun-SenYUKARI
+− Chikou Span vs Kumo, Price ve Kijun-SenYUKARI
+− Kumo'nun geleceğiYUKARI
+Daha yüksek zaman aralığı 2.
+(H1)
+http://www.ichimokuworld.com 42
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+− Fiyat ve KumoYUKARI
+− Tenkan-Sen vs Kijun-SenYUKARI
+− Chikou Span vs Kumo, Price ve Kijun-SenYUKARI
+− Kumo'nun geleceğiYUKARI
+Giriş zaman aralığı (M15)
+− Fiyat ve KumoYUKARI
+− Tenkan-Sen vs Kijun-SenYUKARI
+− Chikou Span vs Kumo, Price ve Kijun-SenYUKARI
+− Kumo'nun geleceğiYUKARI
+Giriş stratejisi:Kumo'dan kaçış
+Kaybı durdurmak:Kumo + tamponunun alt kısmında
+Çıkış stratejisi:yuvarlak sayı düzeyi veya fiyat/Kijun-Sen 
+çaprazı
+http://www.ichimokuworld.com 43
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Örnek analiz 5.
+Daha yüksek zaman aralığı 1.
+(H4)
+− Fiyat ve KumoAŞAĞI
+− Tenkan-Sen vs Kijun-SenAŞAĞI
+− Chikou Span vs Kumo, Price ve Kijun-SenAŞAĞI
+− Kumo'nun geleceğiAŞAĞI
+Daha yüksek zaman aralığı 2.
+(H1)
+http://www.ichimokuworld.com 44
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+− Fiyat ve KumoAŞAĞI
+− Tenkan-Sen vs Kijun-SenAŞAĞI
+− Chikou Span vs Kumo, Price ve Kijun-SenAŞAĞI
+− Kumo'nun geleceğiAŞAĞI
+Giriş zaman aralığı (M15)
+− Fiyat ve KumoAŞAĞI
+− Tenkan-Sen vs Kijun-SenAŞAĞI
+− Chikou Span vs Kumo, Price ve Kijun-SenAŞAĞI
+− Kumo'nun geleceğiAŞAĞI
+Giriş stratejisi:Kumo kaçışı ve/veya Tenkan-Sen/Kijun-Sen 
+çaprazlaması
+Kaybı durdurmak:Kumo + tamponunun alt kısmında 
+Çıkış stratejisi:fiyat/Kijun-Sen çaprazı
+http://www.ichimokuworld.com 45
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Egzersiz 1.
+Ichimoku bileşenlerinin adı nedir? Lütfen isimleri doğru 
+sayıların yanına yazınız.
+1.:
+2.:
+3.:
+4.:
+5.:
+6.:
+http://www.ichimokuworld.com 47
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Egzersiz 2.
+Şu anda trend yükseliş mi yoksa düşüş yönlü 
+mü? Neden? Lütfen en az 4 açıklama yapınız.
+Trend ……………………………………………………………………… çünkü: 1.:
+2.:
+3.:
+4.:
+http://www.ichimokuworld.com 48
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Egzersiz 3.
+Bu resimdeki en önemli direnç seviyeleri nelerdir?
+En önemli 3 tanesini azalan sırayla belirtin.
+1.:
+2.:
+3.:
+http://www.ichimokuworld.com 49
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Egzersiz 4.
+A.) Okla işaretlenmiş muma girdiğimizde hangi stratejiyi 
+kullandık?
+Cevap:
+................................................................... ...................................
+http://www.ichimokuworld.com 50
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+B.) Kırmızı daire içinde Tenkan-Sen/Kijun-Sen haçını 
+görebilirsiniz. Ama oraya girmedik. Neden? Lütfen EN 
+önemli nedenden bahsedin.
+Cevap:
+................................................................... ...................................
+http://www.ichimokuworld.com 51
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Egzersiz 5.
+Okla işaretlenmiş muma girdiğimizde hangi stratejiyi 
+kullandık? Doğru bir giriş miydi? Neden?
+Stratejinin adı:
+................................................................... ...................................
+Doğru varlık ya da değil:
+................................................................... ...................................
+Neden?
+................................................................... ...................................
+http://www.ichimokuworld.com 52
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Egzersiz 6.
+Fiyat muhteşem bir yükseliş mumuyla Kumo'dan çıkış 
+yaptı. Şimdi girmek iyi bir fikir mi? Neden?
+Cevap:
+................................................................... .................................
+Neden?
+................................................................... .................................
+http://www.ichimokuworld.com 53
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Egzersiz 7.
+Tek iyi giriş hangisi? Neden?
+Cevap:
+................................................................... ...................................
+Neden:
+................................................................... ...................................
+http://www.ichimokuworld.com 54
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Egzersiz 8.
+İşaretli mumun kapanışından çok sonra girdik. Zararı 
+Durdur emniyetini nereye koymalıyız?
+Cevap:
+................................................................... ...................................
+http://www.ichimokuworld.com 55
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Alıştırma 9.
+Önceki grafiğe göre işaretli mumla giriş yaptık ve şu 
+anda kardayız. Yalnızca Ichimoku kullanırsak (yuvarlak 
+sayı seviyeleri vb. olmadan) pozisyonu ne zaman 
+kapatmalıyız?
+Cevap:
+................................................................... ...................................
+http://www.ichimokuworld.com 56
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Egzersiz 10.
+Şimdi aşağıdaki iki tabloya bakın. İlk kendi analizlerinizi 
+yaratmanın zamanı geldi. İlk grafik, EURUSD Günlük zaman 
+diliminde (neredeyse) 2010 yılının tamamını göstermektedir. İkinci 
+grafik, USDJPY Haftalık zaman diliminde (neredeyse) 2010 yılının 
+tamamını gösteriyor.
+Lütfen 2010 yılının tam detaylı analizini bu grafiklere göre 
+yapın. Soldaki siyah çizgiden başlayın (01.01.2010) ve 
+grafiğin sonuna kadar her hareketi Ichimoku ile analiz edin. 
+Lütfen ne olduğunu ve neden olduğunu açıklayın. 
+Profesyonel ol. İlk iki kaliteli analizinizi yaptıktan sonra 
+burada öğrendiklerinizi demo hesapta uygulamaya 
+başlayabilirsiniz.
+Analizleriniz hazır olduğunda, bunları FX Trader Dergisi'nin 
+2011 Ocak sayısında bulabileceğiniz geçmişe dönük analizim 
+ile karşılaştırabilir veya alternatif olarak bana geri 
+gönderebilirsiniz ( gabor.kovacs@ichimokuworld.com ) ve 
+inceleme isteyin.
+http://www.ichimokuworld.com 57
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+EURUSD Günlük grafiğinin analizi
+................................................................... .................................................. .................................................... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................................... .................................................. .................................................... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................................... .................................................. .................................................... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................................... .................................................. .................................................... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................................... .................................................. .................................................... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................................... .................................................. .................................................... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+http://www.ichimokuworld.com 58
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+USDJPY Haftalık grafiğinin analizi
+................................................................... .................................................. .................................................... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................................... .................................................. .................................................... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................................... .................................................. .................................................... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................................... .................................................. .................................................... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................................... .................................................. .................................................... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................................... .................................................. .................................................... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................................... .................................................. ...................................................
+http://www.ichimokuworld.com 59
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Egzersiz 1.
+1.: Tenkan-Sen
+2.: Kijun-Sen
+3.: Chikou Açıklığı
+4.: Senkou Açıklığı A
+5.: Senkou Açıklığı B
+6.: Kumo
+Egzersiz 2.
+Trend AYI yönünde çünkü: 1. 
+Fiyat Kumo'nun altında.
+2. Tenkan-Sen, Kijun-Sen'in altındadır
+3. Chikou Span Kumo'nun, fiyatın ve Kijun-Sen'in altında
+4. Kumo'nun geleceği aşağı yönlü (karanlık).
+Egzersiz 3.
+1. Kumo'nun tepesi
+2. Kumo'nun dibi
+3. Kijun-Sen
+Egzersiz 4.
+C.) Tenkan-Sen/Kijun-Sen çapraz stratejisini kullandık.
+B.) Fiyatın Kumo gövdesine doğru ilerlemesi trendin kararsız 
+olduğu ve aralığın muhtemel olduğu anlamına gelir. Kumo'da 
+fiyat hareket halindeyken herhangi bir pozisyona girilmesi 
+tavsiye edilmez.
+Egzersiz 5.
+Kumo Breakout stratejisini kullandık. Chikou Span bu hareketi 
+doğruladığı ve diğer tüm Ichimoku bileşenleri de bu hareketi 
+desteklediği için bu doğru bir girişti.
+http://www.ichimokuworld.com 61
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Egzersiz 6.
+Hayır, şimdi girmek iyi bir fikir değil çünkü Kumo'dan çıkış ancak en 
+azından Chikou Span'ın hareketi onaylaması durumunda geçerli olur. 
+Burada Chikou Span hâlâ Kumo'nun içinde/altındaydı ve bakın daha 
+sonra ne oldu:
+Chikou Span, Kumo'nun (daha önce öğrendiğiniz gibi güçlü 
+bir direnç çizgisi) dibinden geri sıçradı. Yani bu hareket 
+sadece bir sahtekarlıktı. Bu nedenle Kumo çıkışını her zaman 
+(en azından) Chikou Span ile onaylamanız gerekir.
+Egzersiz 7.
+Chikou Span mumun kapanmasından sonra hareketi 
+doğruladığı için 4 numara tek iyi giriş.
+http://www.ichimokuworld.com 62
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Egzersiz 8.
+Kumo + tamponunun altına. Bu durumda son düşük seviye yakın 
+olduğundan, bunu son düşük + tamponunun altına koymak da iyi bir 
+fikirdir.
+Alıştırma 9.
+Fiyat Kijun-Sen'i geçtiğinde pozisyonu kapatmalıyız.
+http://www.ichimokuworld.com 63
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+Son sözler
+Derginin ilk cildini okuduğunuz için teşekkür ederiz.
+Ichimoku Dünya Kitap Serisi. Umarım faydalı 
+bulmuşsunuzdur ve çok şey öğrenmişsinizdir. Bu kitabı 
+okuduysanız artık Ichimoku'ya yeni başlayan biri değilsiniz. 
+Ancak her şeyi doğru anladığınızdan emin olmak için en az 
+bir kez daha okumanızı tavsiye ederim. Artık bir demo 
+hesabında edindiğiniz bilgileri uygulamaya başlayabilirsiniz.
+Lütfen Ichimoku sisteminin tamamının bu kitapta tam olarak 
+ele alınmadığını unutmayın. Bu, bir sonraki seviyeye adım 
+atabilmek için öncelikle uzmanlaşmanız gereken temel 
+bilgidir. Ancak bu bilgiyle zaten temel bir Ichimoku haritası 
+analizi oluşturabilirsiniz ve artık birkaç güvenli giriş fırsatını 
+tanımlayabilirsiniz.
+Bir sonraki aşama I'in ikinci cildi olacak.chimoku Dünya Kitap 
+Serisi,Ichimoku Uzmanı.Bu kitap çıkana kadar lütfen web 
+sitemde veya yayınladığım diğer kaynaklarda düzenli olarak 
+yaptığım Ichimoku analizlerimi okumaktan veya oluşturduğum 
+eğitici videoları izlemekten çekinmeyin.
+Bu harika sistemle atacağınız ilk adımlarda başarılar 
+diliyorum!
+Gabor Kovacs
+http://www.ichimokuworld.com 64
+www.forexgercekleri.xyz - [Twitter: @eseckal]

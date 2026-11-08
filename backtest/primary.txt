@@ -1,0 +1,182 @@
+batch_001|TEST|6|E1|E1 — EMA20 destekli pivot kırılımı
+batch_002|TEST|14|P1|P1 — Günlük dar aralık kırılımı + 4h yapı uyumu
+batch_003|TEST|24|G1|G1 — Çift dip / çift tepe boyun çizgisi kırılımı
+batch_004|TEST|27|I1|I1 — Günlük bulut kırılımı
+batch_005|TEST|34|S2|S2 — Yapı kırılımı sonrası teyitli pivot bölgesinin yeniden testi
+batch_006|TEST|39|N1|N1 — NR4/NR7 dar günlük mumun kırılımı
+batch_007|TEST|43|SR1|SR1 — SMA5 geçişi ve RSI5 yön teyidi
+batch_008|TEST|48|RP1|RP1 — M5 RSI vadisi/tepesi ve fiyatla aynı yönlü dönüş
+batch_009|TEST|53|H9|H9 — SMMA55 kanal kırılımı + %R55 + Stoch(5,5,5)
+batch_010|TEST|56|L10a|L10a — En az 10 bar sıkışma sonrası güçlü ve hacimli kapanış kırılımı
+batch_011|TEST|62|DP11a|DP11a — Önceki gün yüksek/düşük karar noktasında başarısız kırılım
+batch_012|TEST|67|P12a|P12a — UTC gününün ilk M5 mumunda CPR'yi baştan sona geçme
+batch_013|TEST|72|L13b|L13b — Yükselen EMA'ya geri çekilmeden toparlanma
+batch_014|TEST|78|M14|M14 — ADX düşükken BB/RSI(5) ortalamaya dönüş
+batch_015|TEST|80|A15|A15 — Üç teyitli swing sonrası ilk seviye reddi
+batch_016|TEST|83|I16a|I16a — H4 Tenkan/Kijun kesişimi
+batch_017|TEST|88|H17|H17 — Önceden belirli H4 aralığında başarısız sınır kırılımı
+batch_018|TEST|93|K18b|K18b — Dar dikdörtgenin yönlü kırılımı
+batch_019|TEST|98|RT19a|RT19a — EMA10 trendinde iç bar ve ana mum kırılımı
+batch_020|TEST|101|KL20a|KL20a — MACD teyitli düşen trend çizgisi kırılımı
+batch_021|TEST|106|C21b|C21b — SMA5 altındaki yüksek hacimli satıcı tuzağı (ayrı mikro yapı hipotezi)
+batch_022|TEST|111|W22|W22 — M15 EMA14/50 kesişimi, sıkışma filtresi
+batch_023|TEST|113|BV23|BV23 — Kırılım öncesi mini aralık/sıkışma filtresi
+batch_024|TEST|115|F24|F24 — ETH öncülüğünde BTC kırılımı, OBV teyidi
+batch_025|TEST|120|W25a|W25a — 10/21 EMA geri çekilme bölgesi
+batch_026|TEST|124|P26a|P26a — Çekiç/kayan yıldız ve izleyen kapanış teyidi
+batch_027|TEST|133|I27|I27 — Önceki seans yüksek/düşük süpürmesi + kapanışlı yapısal dönüş (keşif)
+batch_028|TEST|138|R28|R28 — RSI50 rejim filtresi; mevcut sinyal ailelerinde ablation
+batch_029|TEST|139|B29a|B29a — İki tam barla SMA(high,10) dışına taşma
+batch_030|TEST|145|S30b|S30b — İlk sinyalde runner çıkışı
+batch_031|TEST|146|D31a|D31a — Mükemmelleşmiş TD 9 kurulumunun TDST yakınında dönüşü
+batch_032|TEST|155|E32|E32 — D1 RSI14 ayrışma yönü + H4 yapı kırılması
+batch_033|TEST|157|M33|M33 — W1 yön dönüşü ardından H4 HA/Stoch geri çekilme
+batch_034|TEST|162|V34|V34 — Cari UTC gün VWAP'ının başarısız üst/alt kırılımı
+batch_035|TEST|164|R35|R35 — Teyitli çift tepe/dip + boyun kırılımı
+batch_036|TEST|168|I36|I36 — Önceki trend yönünde bant kenarı, 2R filtresi
+batch_037|TEST|169|W37|W37 — Kırılımda hemen giriş ile retest girişinin aynı olayda karşılaştırılması
+batch_038|TEST|173|D38|D38 — İki zaman dilimi EMA200 + güçlü gövde + retest devam emri
+batch_039|TEST|175|C39|C39 — CMF tamponunu mevcut D1 kırılıma ekleme
+batch_040|TEST|178|K40|K40 — Önceden belirli HTF bölgesinde kapalı mum CHOCH filtresi
+batch_041|TEST|181|ST41|ST41 — D1 trend onayıyla H4 Supertrend dönüşü
+batch_042|TEST|184|I42|I42 — H4/H1 onaylı M15 bulut çıkışı
+batch_043|TEST|188|A43|A43 — Donchian kırılımına ADX güç filtresi
+batch_044|TEST|192|RS44|RS44 — RSI 1–2–3 başarısızlık salınımı + fiyat dip kırılımı
+batch_045|TEST|193|VG45|VG45 — VWAP'tan uzaklaşmış fiyatın teyitli dengeye dönüşü
+batch_046|TEST|198|RS46b|RS46b — RSI 60/40 momentumla trend takibi
+batch_047|TEST|203|FT47|FT47 — İki teyitli temasla trend çizgisi + Fib bölgesinde retest
+batch_048|TEST|204|RD48|RD48 — Cardwell pozitif/negatif dönüş + RSI aralık filtresi
+batch_049|TEST|208|SC49|SC49 — Onaylı yapı kırılımı ardından ilk talep/arz bölgesi retesti
+batch_050|TEST|210|IB50|IB50 — Trend içi ana mum aralığının kapanışla kırılması
+batch_051|TEST|214|HP51|HP51 — AB=CD oran yakınsaması ve D sonrası dönüş teyidi
+batch_052|TEST|217|ML52|ML52 — Marubozu sonrası aynı renk teyit mumu
+batch_053|MAYBE|220|FD53|FD53 — EMA200 yönünde karşı eğimli çizgi kırılımı ve ilk retest
+batch_054|TEST|223|MM54|MM54 — Teyitli D1 SNR temasında H4 dönüş mumu ve stokastik sapma filtresi
+batch_055|TEST|225|TP55|TP55 — Önceki üç gün ekstrem süpürmesi sonrası H1 yapı değişimi ve uzantı hedefi
+batch_056|TEST|228|RR56|RR56 — RSI(14) boğa destek bölgesini koruyan H1 higher-low devamı
+batch_057|TEST|231|RT57|RT57 — D1 RSI 60/40 kırılımı ve önceki 10 gün trailing stop
+batch_058|TEST|236|MA58|MA58 — EMA yönünde beş mumlu üç yöntem devamı
+batch_059|TEST|237|FX59|FX59 — M15 kama kırılımının önceki gün ekstremi süpürmesi ve ters kapanışı
+batch_060|TEST|241|AK60|AK60 — Teyitli yatay sınır/yükselen dip üçgeninde hacim daralması ve kırılımı
+batch_061|TEST|244|CL61|CL61 — Çapa mum açılışının kapanışla ihlali
+batch_062|TEST|246|PM62|PM62 — Medyan çizgi temasında stokastik aşırılık ve kapanış dönüşü
+batch_063|TEST|249|SR63|SR63 — Güçlü çıkışla oluşan taze talep/arz bölgesinin ilk yeniden testi
+batch_064|NO|253|JD64|JD64 — Yatay rejimde MACD histogram ve RSI50 eşzamanlı geçişi
+batch_065|TEST|255|MB65|MB65 — Dondurulmuş S/R seviyesinde uzun kuyruk ve üçte bir geri çekilme
+batch_066|NO|258|FG66|FG66 — Trend içi dikdörtgen kırılımında dondurulmuş yükseklik hedefi
+batch_067|TEST|261|FP67|FP67 — Teyitli dirençte küçük boğa mumunu izleyen büyük ayı mum
+batch_068|NO|264|TNT68|TNT68 — MACD yeni trendi, EMA6/23 teyidi ve ilk stokastik geri çekilme
+batch_069|TEST|269|PS69A|PS69A — Önceki kutu dışına iğne ve kutu içine geri kapanış
+batch_070|TEST|272|LK70A|LK70A — SMA200 yönünde BB10 ve RSI5 aşırı uçtan geri dönüş
+batch_071|TEST|278|SR71B|SR71B — Yatay BB50 uç teması sonrası CCI20'nin −200 üstüne dönüşü
+batch_072|TEST|283|FE72|FE72 — Kısa bazdan güçlü ayrılma sonrası ilk bölge dönüşü ve kapalı mum teyidi
+batch_073|TEST|289|AB73|AB73 — Trend içindeki ikinci geri çekilme denemesinden devam
+batch_074|TEST|292|RF74|RF74 — Dondurulmuş iki pivot çizgisinin dışında iki günlük kapanış
+batch_075|TEST|293|AE75|AE75 — Histogramın sıfırı geçtiği ayrık iki dip/tepe sapması
+batch_076|TEST|297|EB76|EB76 — Yapı kırılımının kısa sürede teyit edilmemesiyle başarısız kurulum filtresi
+batch_077|TEST|299|NM77|NM77 — Onaylı 1-2-3 dönüşü + EMA12/36 ve EMA200 bağlamı
+batch_078|TEST|301|SS78|SS78 — Önceki gün Camarilla L3/H3 seviyesini süpürüp geri kapanma
+batch_079|TEST|303|MS79|MS79 — Sekiz günlük itki ardından beş günlük kararsızlık kutusu kırılımı
+batch_080|NO|305|SD80|SD80 — Onaylı FTR tabanına ilk retestte yönlü kapanış
+batch_081|MAYBE|306|RP81|RP81 — Pazartesi aralığının hafta içi ilk süpürülüp içine kapanması
+batch_082|NO|307|JS82A|JS82A — Üç günlük kapanış–uç ofsetiyle düşüş sonrası yukarı kırılım
+batch_083|TEST|310|BW83A|BW83A — D1 SMA20 yönünde H1 Bollinger 2σ/3σ aşırılığından dönüş
+batch_084|TEST|312|HF84A|HF84A — XABCD harmonik D dönüşünde oran ve stop/TP aileleri
+batch_085|TEST|314|LK85A|LK85A — Stokastik(22,5,9) ön koşulu ve EMA5/11 çaprazı
+batch_086|TEST|316|DH86|DH86 — RSI14 üzerinde Bollinger zarfından yeniden içeri giriş
+batch_087|TEST|319|VW87|VW87 — VWMA10/21 kapanış kesişimi
+batch_088|NO|320|RF88|RF88 — EMA20/SMA20 dizilişi ve RSI14 orta çizgi teyidi
+batch_090|TEST|322|DC90A|DC90A — BB19 içinde RSI14 aşırılıktan dönüş
+batch_091|TEST|327|FM91A|FM91A — D1 yavaş stokastik trendinde hızlı stokastik aşırılık ve BB dış bant dönüşü
+batch_094|TEST|329|FP94|FP94 — H4 itki yönünde M30 kutu kırılımı, retest veya ikinci kapanış
+batch_096|NO|330|WP96A|WP96A — Haftalık pivota ilk temasın ters yönü
+batch_097|NO|332|IV97|IV97 — Seans VWAP yönünde RSI60/40 geçişi ve yükselen ADX
+batch_098|NO|333|RG98|RG98 — Gerçek seans boşluğunda önceki gün mumu ile kırılım/geri test ayrımı
+batch_099|NO|334|BC99|BC99 — Dış Bollinger temasından bant içine dönüş, genişliğe bağlı mikro hedef
+batch_100|MAYBE|335|ME100|ME100 — MACD histogramı pozitif dipten dönüş ve stokastik teyit
+batch_101|NO|337|AB101|AB101 — EMA34 yüksek/düşük dalgasına geri çekilme ve yönüne dönüş
+batch_102|TEST|339|LK102|LK102 — düşük hacimli dar bar ardından teyitli arz yok/talep yok
+batch_103|NO|341|DG103B|DG103B — EMA34/SMA34 geçişi ve ATR4 hareket kapısı
+batch_104|NO|342|ML104A|ML104A — EMA10 çoğunluk oyu ve üç çiftli sepet
+batch_105|NO|343|PAS105A|PAS105A — H1/M30/M15/M5 renk uyumu sonrası beş dakikalık 3 pip kırılımı
+batch_106|NO|344|LS106A|LS106A — Önceden yayınlanmış BFix düzeyiyle M15 EMA9/RSI14 kırılımı
+batch_109|NO|345|ST109A|ST109A — M15 VWAP–RSI55/35 kesişimi, ADX<30
+batch_110|NO|346|JC110A|JC110A — %50/%61,8 yarım pozisyon girişleri ve %78,6 ortak stop
+batch_111|NO|347|MS111A|MS111A — Üçgen kırılımı sonrası 1-2-3 geri çekilmesi ve 100 düzeyi yeniden kırılımı
+batch_112|NO|348|VR112A|VR112A — Art arda iki doji için OCO kırılımı
+batch_113|NO|350|AM113A|AM113A — Hacim/fitil mumu → inside bar → yön teyidi
+batch_114|NO|351|UWS114A|UWS114A — NFP duyurusundan önce dondurulmuş M15 aralığının OCO kırılımı
+batch_116|NO|352|LHS116A|LHS116A — Bir mum yalnız bir önceki sınırı aşınca karşı sınırdan dönüş
+batch_117|NO|353|TA117A|TA117A — SPY RSI(2)<15 sonrası önceki gün yüksekliği üzerinde kapanış
+batch_118|NO|354|CF118A|CF118A — Yeni günlük tepe/dip sonrası önceki kapanışın ters tarafına dönüş
+batch_119|NO|356|HR119A|HR119A — Yuvarlak 100 pip fiyat düzeyinde 30 piplik ters tepki
+batch_120|MAYBE|358|RB120A|RB120A — Üç önceki gövdeyi yutan mumun devamı
+batch_121|NO|360|BG121A|BG121A — Boğa dönüş sinyalinden sonra düşük açılışın kapanışı geri alması
+batch_123|NO|361|TC123A|TC123A — Düşük ADX ortamında önceki günün bir ucunu aşıp karşı ucu kırmak
+batch_124|NO|362|LD124A|LD124A — İki kat dürtüyle teyitli salınım sonrası H1 trend dönüşü
+batch_125|NO|363|JK125A|JK125A — H4 talep/arz temasında M15 likidite süpürmesi ve yapı dönüşü
+batch_126|NO|365|MM126B|MM126B — Haftanın ilk 8 H1 aralığı ve Asya süpürmesi sonrası EMA dönüşü
+batch_127|NO|366|MS127A|MS127A — MACD sıfır yönünde stokastik 20/80 geri geçişi
+batch_128|NO|369|JI128A|JI128A — Önceki yüksek/düşüğü aşan tek H1 mumun %50 fitil reddi
+batch_129|NO|370|LU129A|LU129A — İlk order block temasından doğan propulsion mumunun %50 yeniden testi
+batch_130|NO|371|PK130A|PK130A — Önceki gün yüksek/düşük kırılımında yön değiştirme
+batch_131|NO|372|TM131A|TM131A — 10Y–2Y inversiyonu sonrası SPY ölüm kesişimiyle risk rejimi
+batch_132|NO|373|TM132A|TM132A — 60/35/2,5/2,5 çeyreklik sabit ağırlık portföyü
+batch_136|TEST|374|H136A|H136A — EMA50/200 rejiminde kırılan ekstremumun ikinci dönüşü
+batch_137|NO|376|GM137A|GM137A — Günlük pivot bölgesinde BB ve stokastik ayrışmalı dönüş mumu
+batch_138|TEST|377|LK138A|LK138A — CCI ±200 taşması sonrası ±100 geri geçişi
+batch_139|NO|378|EC139A|EC139A — Aylık Coppock dip dönüşü ve çift tepe çıkışı
+batch_141|MAYBE|380|GF141A|GF141A — BB50 2,5σ taşması ve merkeze dönüş
+batch_142|MAYBE|382|KH142A|KH142A — M5 stochastic(7) ile kendi MA10 kesişimi (ANTI)
+batch_143|NO|383|OK143A|OK143A — QQQ yeni düşüğünde yüksek dip yapan hisse ve EMA geri alımı
+batch_145|NO|384|LP145A|LP145A — SMA100 ve eski swing kırıldıktan sonra SMA50/100 kesişimi ile SMA50 ilk retesti
+batch_146|NO|385|MJ146A|MJ146A — Trend pozisyonu için art arda iki zayıf orta nokta kapanışı
+batch_150|NO|386|AC150|AC150 — EMA200 yönünde gövde–fitil bölgesi teyitli çift dip/tepe
+batch_152|TEST|387|RT152A|RT152A — EMA12/35 çaprazı, CMF sıfır teyidi ve ilk EMA12 retesti
+batch_154|NO|390|AR154A|AR154A — Yükselen kanal alt kenarında kısa sıkışma ve üst kırılım
+batch_155|NO|391|MK155A|MK155A — Haber sonrası 20 günlük aralık dışına gerçek açılış boşluğu, ilk M15 kapanışında limit
+batch_158|NO|392|HR158A|HR158A — Günlük VWAP yönünde BB(20,1,5) taşması ve Stoch(7,4,3) dönüşü
+batch_159|TEST|393|EL159A|EL159A — Dip fiyatın EMA8'i altında üç bar, üstünde kapanış
+batch_161|TEST|394|RH161A|RH161A — Üç aynı yönlü mum ardından karşı yöne önceki uç kırılımı
+batch_162|TEST|395|JK162A|JK162A — Tam mumla trend çizgisi kırılımı, geri test ve kırılım tepesinin aşılması
+batch_163|NO|396|MK163A|MK163A — Gelir büyümesi seçimiyle SMA50/200 momentum takibi
+batch_164|NO|397|DS164A|DS164A — 28 FX çiftinden güçlü/zayıf para birimi sıralaması
+batch_165|NO|398|DS165A|DS165A — Hançer: üst dilim 50/61,8 tutulması ve alt dilim geri tepme kırılımı
+batch_166|NO|399|FKS166A|FKS166A — AO ve AC çift renk uyumu sonrası fiyat kırılımı
+batch_167|NO|400|HAT167A|HAT167A — Dondurulmuş yatay aralık dışına yarım genişlikte fırsatçı limit
+batch_169|NO|401|DV169A|DV169A — Dondurulmuş zaman yoğunluklu değer alanına geri kabul ve karşı sınır hedefi
+batch_171|NO|402|TL171A|TL171A — Önceki seans pivotunda limit dönüşü, stopta bir kez koşullu yön değiştirme
+batch_172|NO|403|ICWR172A|ICWR172A — Teyitli M5 dalgada düzeltme kanalı, tam mum onayı ve önceki günlük RSI
+batch_173|NO|404|ER173A|ER173A — Tek sınırı teyitli, öteki sınırı önceden çizilmiş erken aralık dönüşü
+batch_174|NO|407|MD174B|MD174B — Önceki gün başlayan AVWAP korunurken yeni gün VWAP'ının geri alınması
+batch_175|NO|408|ML175A|ML175A — Büyük trend mumunun gövde ortasında ilk geri çekilme ve geri kapanış
+batch_176|NO|411|RB176A|RB176A — 5/13/62 EMA ayrışması ve ilk EMA62 dokunuşu
+batch_177|NO|413|KL177B|KL177B — ADX düşükken önceki günün bir ucunu süpürüp karşı ucunu kırma
+batch_178|NO|415|MK178A|MK178A — İlk bölge temasındaki yutan mumun yarattığı ikinci retest
+batch_179|NO|416|AH179A|AH179A — Seçilmiş hissede piyasa öncesi yüksek/düşük seviyesinin ana seansta kırılması
+batch_180|NO|418|CH180A|CH180A — EMA50/100, OBV ve 52 hafta yüksekliği sonrası Keltner geri çekilmesi
+batch_181|NO|419|KD181A|KD181A — çift ufuk momentum + düşük TR/yüksek hacim altında devam
+batch_182|NO|422|BM182A|BM182A — yükseliş trendinde üç çizgili vuruş geri çekilmesi
+batch_183|NO|423|JF183A|JF183A — korelasyonlu iki FX çiftinde teyitli dip/tepe ayrışması
+batch_184|TEST|425|JE184A|JE184A — bant geçiren çevrimin öncü kosinüs dönüşü
+batch_185|NO|427|PK185A|PK185A — makro veri açıklaması sonrası ilk M1 mumunun yönlü kırılımı
+batch_186|NO|428|RB186A|RB186A — H1 SMA50 ± ATR3 kapanışla yönlü durum makinesi
+batch_187|NO|429|MJ187A|MJ187A — bakir seans POC'sinin ilk yeniden temasında dönüş
+batch_188|NO|431|AFX188A|AFX188A — başarısız kırılım, uzaklaşma ve eski kırılım düzeyine ikinci retest
+batch_189|NO|433|DF189A|DF189A — tepki veren kontrol arzının başarısızlığı ve flip bölgesi retesti
+batch_190|NO|434|DB190A|DB190A — açılış yönünde ilk seans uç kırılımı, iki bar geri çekilme filtresi
+batch_191|NO|435|GS191A|GS191A — GMT 06:00–10:00 H1 yüksek test mumunun dip kırılımı
+batch_194|NO|437|QM-FIP-01|QM-FIP-01 — 12-2 göreli momentum içinde sürekli fiyat yolu
+batch_196|MAYBE|438|RC196A|RC196A — kapanışların yuvarlanan aralık orta noktası yön değişimi
+batch_197|MAYBE|439|MG197A|MG197A — TRI ile haftalık rejim kapılı günlük Donchian kırılımı
+batch_198|MAYBE|440|TS198A|TS198A — standart sapma tamponlu Donchian kırılımı
+batch_199|NO|442|MU199A|MU199A — haftalık büyük kutu içindeki düşük hacimli günlük küçük kutu kırılımı
+batch_201|NO|443|SR201A|SR201A — RDS yön kapısı ve iki kademe geri çekilme dönüşü
+batch_204|NO|444|MIN204A|MIN204A — Teyitli ardışık daralma ve hacim kuruması sonrası pivot kırılımı
+batch_207|NO|445|EV207A|EV207A — Dar günlük aralıkta üç gün pozitif büyük dakika hacmi
+batch_208|NO|446|FB208A|FB208A — Önceki güçlü yükseliş sonrası düz tabanın hacimli kırılımı
+batch_209|NO|447|PCH209A|PCH209A — Yükselen 20 ortalama ile 200 ortalama tavanı arasında Pinch kırılımı
+batch_212|NO|448|PR212A|PR212A — BTC/ETH log oranında çok ufuklu aşırı sapmanın yakınsaması
+batch_213|NO|449|SI213A|SI213A — Düşük gölge endeksiyle hızlanma sonrası ters kapanış
+batch_214|NO|450|EM214A|EM214A — Dört günlük EMV sıfır geçişi
+batch_215|TEST|453|DM215B|DM215B — Çift yumuşatılmış 10 günlük momentum dönüşü

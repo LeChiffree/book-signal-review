@@ -1,0 +1,1183 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 17\Baskı 17\Akıl Almaz Kazançlı Mekanik Günlük Trading Stratejileri - James Muranno (75 sayfa) - @eseckal.pdf
+PAGES: 75
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+giriiş
+Bölüm 1: Stratejinizi Oluşturma Bölüm 2: 
+Yanlış Sinyalleri Ortadan Kaldırma
+Bölüm 3: Mekanik Ticaret İçin Giriş ve Çıkış Sinyalleri Bölüm 
+4: Yüksek Kazanma Oranlı Mekanik Ticaret Stratejileri
+Mekanik Ticaret Stratejisi #1 
+Mekanik Ticaret Stratejisi #2 
+Mekanik Ticaret Stratejisi #3 
+Mekanik Ticaret Stratejisi #4 
+Mekanik Ticaret Stratejisi #5 
+Mekanik Ticaret Stratejisi #6 
+Mekanik Ticaret Stratejisi #7
+Bölüm 5: Karları Maksimize Etmek İçin Ticaret Stratejinizi Nasıl Optimize 
+Edersiniz?
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+giriiş
+Bu kitapta, sıfırdan mekanik bir işlem stratejisi oluşturmak için adım adım 
+talimatlar sunacağız ve kullanılacak en iyi göstergeleri, bunların optimum 
+ayarlarını ve mükemmel giriş ve çıkışlar için gösterge sinyallerinin nasıl 
+birleştirileceğini ele alacağız.
+Ayrıca, işlem stratejinizin uzun vadede karlı olmasını sağlamak için risk 
+yönetimi tekniklerini de ele alıyoruz. Bu kitapla, yatırımcılar minimum çabayla 
+tutarlı karlar sağlayan mekanik bir işlem sistemi oluşturabilirler.
+Mekanik Ticaret Nedir?
+Mekanik ticaret, finansal piyasalarda önceden tanımlanmış kurallara dayalı 
+işlemleri yürütme yöntemidir. Bu tür ticaret, algoritmik ticaretin yükselişiyle 
+giderek daha popüler hale geldi, çünkü yatırımcıların duygu ve sezgiye 
+güvenmeden karar almalarına olanak sağlıyor.
+Mekanik ticaretin ardındaki temel kavram, belirli kurallara uyarak, 
+yatırımcıların piyasalarda karar alırken yargılarını bulandırabilecek 
+bazı psikolojik önyargıları ve duyguları ortadan kaldırabilmeleridir. Bu 
+unsurları karar alma sürecinden kaldırarak, mekanik ticaret sistemleri 
+piyasadaki fırsatlardan nesnel ve doğru bir şekilde yararlanabilir.
+Mekanik ticaret sistemleri teknik göstergelere, fiyat hareketlerine veya her ikisinin 
+bir kombinasyonuna dayanabilir. Bu kitapta, karlı mekanik ticaret stratejileri 
+oluşturmak için teknik göstergeleri kullanmaya odaklanacağız.
+Mekanik ticaretle ilgilenen yatırımcılar için, bir sistem oluşturmaya başlamadan 
+önce sistemin nasıl çalıştığına dair temelleri anlamak önemlidir.
+Bu, gösterge türlerini ve bunların nasıl kullanıldığını bilmenin yanı sıra 
+risk yönetimi için para yönetimi tekniklerini öğrenmeyi de içerir.
+Aşağıdaki bölümlerde mekanik ticaret sistemleri, bunları oluşturmak için kullanılabilecek 
+gösterge türleri ve uzun vadeli karlılığı garantilemek için para yönetimi tekniklerinin nasıl 
+kullanılacağı hakkında derinlemesine bir bakış sunulacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Ayrıca mekanik bir ticaret sisteminin oluşturulması ve test edilmesine yönelik adım adım 
+talimatlar da sunacağız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Bölüm 1: Stratejinizi Oluşturma
+Adım 1: Strateji Türünü Seçme
+Mekanik bir işlem stratejisi oluştururken atacağınız ilk adım, 
+tercihlerinize, risk toleransınıza ve piyasa koşullarına uygun strateji 
+türünü seçmektir.
+Trend Takip Stratejileri
+Trend takip stratejileri, bir trendin yönünde işlemlere girerek bir piyasanın 
+momentumundan kar elde etmeyi hedefler. Bu stratejiler, trend 
+piyasalarında karlı olabilir, ancak aralıklı veya dalgalı koşullarda zorlanabilir.
+Trend izleme stratejilerinin bazı özellikleri şunlardır:
+Hareketli ortalamaları veya diğer trend takip göstergelerini 
+(süpertrend veya ichimoku bulutu gibi) kullanarak trendleri belirleme
+Bir trendin zayıfladığını ve tersine dönme olasılığının yüksek olduğunu belirlemek için 
+momentum göstergelerini kullanma
+Kazançlarınızı korurken trendde kalmak için takip eden zarar durdurma emirlerini 
+kullanın
+Ortalamaya Geri Dönüş Stratejileri
+Ortalamaya dönüş stratejileri, piyasaların aşırı genişleme dönemlerinden 
+sonra tarihsel ortalamalarına dönme eğiliminden yararlanır. Bu stratejiler, 
+aralıklı veya yatay piyasalarda iyi çalışır, ancak güçlü trend gösteren 
+piyasalarda riskli olabilir.
+Ortalamaya dönüş stratejilerinin temel özellikleri şunlardır:
+Göreceli Güç Endeksi (RSI) veya Stokastik Osilatör gibi 
+osilatörleri kullanarak aşırı alım veya aşırı satım koşullarını 
+belirleme
+Daha sık işlem fırsatları için daha kısa zaman dilimlerinin 
+kullanılması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Olası kayıplara karşı koruma sağlamak için sıkı zarar durdurma ve 
+sıkı risk yönetimi kullanımı
+Momentum Tabanlı Stratejiler
+Momentum tabanlı stratejiler, güçlü bir fiyat hareketi tespit edildiğinde 
+işlemlere girerek kısa vadeli fiyat momentumundan yararlanmaya odaklanır. 
+Bu stratejiler, hızlı fiyat değişikliklerinden yararlandıkları için oynak 
+piyasalarda iyi çalışır.
+Momentum tabanlı stratejilerin temel özellikleri şunlardır:
+Momentumdaki değişimleri belirlemek için stokastik osilatör ve RSI gibi 
+momentum göstergelerinin kullanılması
+Momentum değişimlerine dayalı olarak piyasa zirvelerini/diplerini tahmin etme ve 
+bunlarla işlem yapma
+Uzun vadeli trend doğrultusunda işlem yapmak
+Adım 2: Bir Rejim Filtresi Ekleyin
+Rejim filtresi, yalnızca işlem stratejinizin türüne uygun piyasa koşullarında 
+işlemlere girmenizi sağlar; bu da yanlış sinyallerden kaçınmak ve kazanma 
+oranınızı artırmak için önemlidir.
+Eğer trend ticaret stratejisi kullanıyorsanız, sadece trend piyasa 
+koşullarına girmek isteyeceksiniz, tersine, ortalamaya dönüş stratejisi 
+kullanıyorsanız, yatay piyasa koşulları stratejiniz için daha ideal olacaktır.
+Örneğin:
+ADX göstergesi, piyasanın trend halinde mi yoksa aralıklı (yanal) mı olduğunu 
+belirlemek için kullanılabilir, bu şu şekilde görünür:
+ADX okumasının 25'in üzerinde olması güçlü bir trende işaret 
+ediyor olabilir ve işlemler yalnızca trend yönünde yapılmalıdır.
+ADX okuması 25'in altındaysa bu aralıklı bir piyasayı işaret ediyor 
+olabilir ve işlemler yalnızca aralık içerisinde veya ortalamaya dönüş 
+stratejisi kullanılarak yapılmalıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+ADX yalnızca trend gücünü gösterir ve trend yönünü göstermez. 
+Yukarıdaki örnekte bu stratejiyi daha da geliştirmek için, yatırımcılar 
+ADX'i Hareketli Ortalama Yakınsama Ayrışması (MACD) veya Göreceli Güç 
+Endeksi (RSI) gibi diğer teknik göstergelerle birleştirerek trend yönünü 
+doğrulayabilir ve yanlış sinyallerden kaçınabilir.
+Adım 3: Giriş Kurallarını Belirleyin
+Giriş kuralları, bir işlemin ne zaman başlatılması gerektiğini belirledikleri için 
+herhangi bir mekanik işlem stratejisi için hayati öneme sahiptir. Sağlam teknik 
+analize dayalı ve belirli bir piyasa veya varlık için kapsamlı bir şekilde test edilmiş ve 
+optimize edilmiş giriş kurallarını kullanmak esastır.
+Giriş kuralları oluştururken genellikle iki farklı göstergeden gelen 
+sinyalleri kullanmak en iyisidir; biri birincil gösterge, diğeri ise onay 
+göstergesi olacaktır.
+Onay göstergesi, birincil gösterge sinyalinin geçerliliğini doğrulamaya 
+yardımcı olan ek bir göstergedir.
+Bu nasıl çalışır:
+Birincil göstergenizden bir sinyal üretildiğinde, giriş 
+göstergenizle uyumlu sinyaller üretip üretmediğini görmek 
+için onay göstergesini kontrol edeceksiniz.
+Örnek:
+Uzun vadeli bir işlem için birincil giriş sinyali olarak RSI'dan gelen aşırı satım 
+sinyallerini kullanırken fiyatın 50 periyotluk hareketli ortalamanın üzerinde 
+olmasını talep edebilirsiniz.
+Giriş sinyaliyle yüksek oranda ilişkili olmayan onay göstergeleri seçmek 
+önemlidir, çünkü bu yanlış pozitiflere ve zayıf performansa yol açabilir. 
+Ek olarak, uzman yatırımcılar birden fazla onay göstergesinin 
+kullanılmasını önermektedir, çünkü bu işlem stratejisinin genel 
+doğruluğunu artırabilir.
+Giriş kurallarınız aşırı karmaşık veya aşırı optimize edilmiş olmamalıdır, aksi takdirde canlı 
+işlemlerde eğri uyumu bozulabilir ve performans düşüklüğü yaşanabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Adım 4: Çıkış Kuralları Ekleyin
+Bunlar, bir yatırımcının kar elde etmek veya zararı azaltmak için mevcut 
+pozisyonunu kapatacağı koşulları tanımlar.
+Mekanik ticarette, çıkışlar için belirli bir göstergeden gösterge çıkış sinyallerini 
+kullanabilirsiniz. Bu sinyaller, fiyat tersine dönmeden önce iyi karlar elde 
+etmenizi sağlamalı, sizi ticaretten çok erken çıkaracak birkaç yanlış sinyale 
+sahip olmalıdır.
+Örnek:
+Mekanik bir işlem stratejisinde çıkışlar için RSI kullanımına dair basit bir örnek 
+şöyledir:
+RSI'nin 70'in üzerine (uzun pozisyonlar için) veya 30'un altına (kısa 
+pozisyonlar için) geçmesi aşırı alım veya aşırı satım koşullarını 
+gösterdiğinde çıkış pozisyonu.
+İşlemlerden çıkmak için bir diğer yöntem de TP (kar al) ve SL (zarar durdur) 
+kullanmaktır. Bu, belirli bir kar hedefine ulaştığında işlemden çıkacağınız veya 
+aleyhinize giderse belirli bir yüzdede veya seviyede işlemden çıkacağınız anlamına 
+gelir.
+Örnek:
+TP'yi %10 olarak ayarlayın (işlem %10 karla gerçekleşirse işlemden çıkılacaktır) SL'yi 
+%2 olarak ayarlayın (işlem %2 zararla gerçekleşirse işlemden çıkılacaktır)
+Adım 5: Geriye Dönük Test Yapın ve Stratejiyi Optimize Edin
+Tam bir strateji oluşturduğunuzda, onu geçmiş verileri kullanarak geriye dönük test 
+etmek esastır. Geriye dönük test, stratejinin karlılığını belirlemenize ve çeşitli piyasa 
+koşullarındaki performansını değerlendirmenize yardımcı olacaktır.
+Geriye dönük test için bazı önemli adımlar şunlardır:
+1. İşlem yapmak istediğiniz varlıklar için yeterli fiyat verisine sahip 
+uygun bir tarihsel veri seti seçin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+2. Stratejinin kurallarını bir geriye dönük test platformu veya programlama dili 
+kullanarak uygulayın.
+3. Geriye dönük testi çalıştırın ve sonuçları analiz edin. Net kar, 
+kazanma oranı ve düşüş gibi performans ölçütlerine dikkat 
+edin.
+4. Stratejinin performansını optimize etmek için parametrelerini ayarlayın 
+ve iyileştirin.
+Stratejiyi Optimize Etmek
+Geriye dönük testlerden sonra stratejinin performansını iyileştirmek için optimize edilmesi büyük 
+önem taşır.
+İşte optimizasyon için bazı ipuçları:
+En uygun kombinasyonu bulmak için gösterge ayarları, zarar 
+durdurma seviyeleri ve kar hedefleri gibi stratejinin 
+parametrelerini ayarlayın.
+Parametrelerdeki değişikliklerin stratejinin performansını nasıl etkilediğini 
+anlamak için bir duyarlılık analizi gerçekleştirin.
+Aşırı optimizasyona karşı dikkatli olun, bu durum canlı işlemlerde eğrinin 
+doğru çizilmesine ve düşük performansa yol açabilir.
+Unutmayın, mekanik işlem stratejileri bir yatırımcının cephaneliğindeki güçlü bir araç olabilir, 
+ancak sürekli değişen piyasa koşullarında iyi performans gösterdiklerinden emin olmak için 
+bunları geriye dönük olarak test etmek ve optimize etmek çok önemlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Bölüm 2: Yanlış Sinyalleri Ortadan Kaldırma
+Mekanik ticarette, yanlış sinyalleri ortadan kaldırmak, genel kazanma 
+oranınızı ve ticaret stratejinizin karlılığını artırmak için önemlidir. Yanlış 
+sinyaller, ticaret performansında önemli bir düşüşe yol açabilir ve bunları 
+belirlemek ve azaltmak, piyasada uzun vadeli başarı elde etmek isteyen her 
+tüccar için önemlidir.
+Yanlış Sinyalleri Ortadan Kaldırmanın Önemi
+Kazanma oranının artması:Yanlış sinyalleri azaltarak, yatırımcılar 
+stratejilerinin genel kazanma oranını artırabilir ve bu da daha yüksek 
+karlılığa yol açabilir.
+Azaltılmış düşüşler:Yanlış sinyalleri en aza indirmek, gereksiz kayıpların 
+önlenmesine yardımcı olur, bu da düşüşleri azaltabilir ve işlem 
+sermayenizi koruyabilir.
+Gelişmiş risk yönetimi:Daha az yanlış sinyal sayesinde yatırımcılar, 
+yüksek kaliteli işlem fırsatlarına odaklanarak risklerini daha iyi 
+yönetebilirler.
+Bu bölümde, mekanik işlem stratejinizdeki yanlış sinyalleri ortadan kaldırmak için en 
+iyi yöntemlerden bazılarını inceleyeceğiz.
+Bu bölümde şunları ele alacağız: 
+Sahte Patlamaları Belirleme
+Yaygın yanlış kopuş modellerini tanımayı öğrenin Yanlış 
+kopuşlara katkıda bulunan faktörleri anlayın
+Filtreleme Teknikleri
+Yanlış sinyalleri azaltmak için çeşitli filtreleme yöntemlerini keşfedin
+Doğruluğu artırmak için bu teknikleri stratejinize uygulayın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Gelişmiş Filtre Göstergeleri
+Burada TradingView'da bulabileceğiniz bazı oldukça etkili 
+gösterge filtrelerine bakacağız
+Bu göstergeler mekanik işlem stratejinizi geliştirmek ve yanlış 
+sinyallerden kaçınmak için kullanılabilir.
+Bu bölümün sonunda stratejinizin kazanma oranını ve karlılığını önemli ölçüde 
+artırmak için gereken bilgi ve araçlara sahip olacaksınız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Sahte Patlamaları Belirleme
+Sahte kopuşlarpiyasada yaygın bir olaydır ve bunları fark edemeyen yatırımcılar 
+için sıklıkla kayıplara yol açar. Bu bölümde, yanlış kopuşların neden meydana 
+geldiğini, nasıl ortaya çıktıklarını, dikkat edilmesi gereken uyarı işaretlerini ve 
+bunları belirlemede hacmin rolünü ele alacağız. Ayrıca, yanlış kopuşları tespit 
+etmek için kullanılabilecek belirli göstergeleri inceleyeceğiz.
+Sahte Patlamalar Neden Oluşur?
+Sahte kopuşlar genellikle iki ana nedenden dolayı meydana gelir:
+1.Avları durdurun:Bazı piyasa katılımcıları, özellikle büyük kurumsal 
+yatırımcılar ve piyasa yapıcılar, perakende yatırımcılar tarafından verilen 
+stop-loss emirlerini tetiklemek için fiyatı kasıtlı olarak zorlar. Stop 
+hunting olarak bilinen bu aktivite, yanlış kopuşlar yaratabilir.
+2.Takip eksikliği: Bazen, bir kopuş ilk başta gerçek gibi 
+görünebilir, ancak hareketi sürdürmek için yeterli alım veya 
+satım ilgisi çekmede başarısız olabilir. Bu takip eksikliği, 
+sahte bir kopuşa neden olabilir.
+Sahte Kopuşların Özellikleri
+Sahte kopuşlar genellikle şu özellikleri gösterir:
+Fiyat hızla tersine döner:Önemli bir destek veya direnç 
+seviyesini aştıktan sonra, fiyat hızla tersine döner ve önceki 
+işlem aralığına geri döner.
+Momentum eksikliği: Kırılım, kırılma yönünde güçlü bir fiyat 
+hareketinin sürdürülmesi için gereken momentumdan 
+yoksundur.
+Düşük hacim:Kırılma sırasında işlem hacmi genellikle düşüktür ve bu da 
+hareketin doğruluğuna dair bir inancın olmadığını gösterir.
+Sahte Patlamaların Uyarı İşaretleri
+Sahte patlamaları tespit etmek için aşağıdaki uyarı işaretlerine bakın:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Düşük hacim: Daha önce de belirtildiği gibi, bir kopuş sırasında 
+düşük işlem hacmi, sahte bir kopuşun temel uyarı işaretidir. Gerçek 
+kopuşlar genellikle yüksek hacme sahiptir ve güçlü piyasa katılımını 
+işaret eder.
+Uzun fitiller veya gölgeler:Özellikle destek veya direnç seviyelerine 
+yakın, uzun fitilli veya gölgeli mum grafikleri, başarısız bir kırılma 
+girişiminin göstergesi olabilir.
+Tekrar test başarısız oldu:Fiyatın yeniden test sırasında kırılma seviyesinin 
+üstünde (yukarı yönlü bir kırılma için) veya altında (aşağı yönlü bir kırılma için) 
+tutunamaması, sahte bir kırılma sinyali olabilir.
+Çöküşlerde Hacmin Rolü
+Gerçek bir kopuş sırasında, genellikle yüksek işlem hacmi görmeyi bekleriz. 
+Yüksek hacim, güçlü alım veya satım ilgisine işaret eder ve piyasa 
+katılımcılarının kopuşun geçerli olduğuna inandığını ve kopuş yönünde işlem 
+yapmaya istekli olduğunu gösterir. Bu inanç, sürdürülebilir bir fiyat hareketine 
+yol açabilir ve kopuşun başarılı olma olasılığını artırır.
+Buna karşılık, bir kopuş sırasında düşük işlem hacmi, yanlış bir kopuşun uyarı 
+işareti olabilir. Düşük hacim, piyasa katılımcıları arasında inanç eksikliği olduğunu 
+gösterir ve bu da fiyatın hızla tersine dönmesine ve önceki işlem aralığına geri 
+dönmesine neden olabilir. Bir kopuş sırasında hacmi yakından izleyerek, tüccarlar 
+kopuşun gerçek veya yanlış olma olasılığı hakkında değerli içgörüler elde 
+edebilirler.
+Kopuşlarda Hacmi Analiz Etme Teknikleri
+Yatırımcıların, kırılmalar sırasında hacmi analiz etmek için kullanabilecekleri birkaç teknik 
+vardır:
+1.Mevcut hacmi ortalama hacimle karşılaştırın:Bir kopuş sırasındaki 
+hacmi belirli bir dönemdeki (örneğin, 20, 50 veya 100 dönem) 
+ortalama hacimle karşılaştırmak, yatırımcıların kopuşun göreceli 
+gücünü ölçmelerine yardımcı olabilir. Ortalamaya kıyasla hacimde 
+önemli bir artış, gerçek bir kopuş olasılığının daha yüksek 
+olduğunu gösterir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+2.Hacim çubukları:Bir grafikteki hacim çubuklarını incelemek, bir 
+kopuş sırasında işlem hacminin görsel onayını sağlayabilir. 
+Yatırımcılar, fiyat önemli bir destek veya direnç seviyesinin ötesine 
+geçtiğinde hacimde gözle görülür bir artış aramalıdır.
+3.Hacim artışı:İşlem hacminde ani ve önemli bir artış geçerli 
+bir kopuşun göstergesi olabilir. Bu hacim artışı artan 
+piyasa ilgisini ve inancını yansıtır ve sürdürülebilir bir fiyat 
+hareketinin şansını artırır.
+Yanlış Kopuşları Belirlemek İçin Göstergelerin Kullanılması
+Göstergeler, yanlış kırılmaları tespit etmek için harika araçlar olabilir. Burada, 
+göstergeleri kullanarak yanlış kırılmaları tespit etmek için kullanabileceğiniz bazı çok 
+etkili yöntemlere göz atacağız.
+Gösterge #1: Göreceli Güç Endeksi (RSI)
+RSI, fiyat hareketlerinin hızını ve değişimini ölçen bir momentum 
+osilatörüdür. 0 ile 100 arasında değişir ve genellikle aşırı alım ve aşırı 
+satım koşullarını belirlemek için kullanılır. RSI kullanarak yanlış 
+kırılmaları belirlemenin bir yöntemi, RSI'nin kendisinde destek ve direnç 
+seviyeleri aramayı içerir.
+Destek ve direnç seviyeleri, tıpkı fiyat grafiklerinde olduğu gibi RSI'da 
+da görünebilir. Bazı durumlarda, RSI bu seviyeleri fiyattan önce kırar. 
+RSI bir destek veya direnç seviyesini kırarsa ancak fiyat bunu takip 
+etmezse, bu olası bir yanlış kırılmayı gösterebilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Sahte kırılmaları tespit etmek için RSI kullanımı:
+Grafiğinizde ve RSI göstergesinde temel destek ve direnç 
+seviyelerini belirleyin. RSI'da bu seviyelerdeki kırılmaları 
+izleyin.
+Eğer fiyat önemli bir seviyeyi aşarsa ancak RSI bu seviyeyi aşamazsa, bu 
+muhtemelen yanlış bir kırılmaya işaret eder.
+Gösterge #2: Ortalama Yön Endeksi (ADX)
+ADX, bir trendin gücünü ölçmek için kullanılan bir göstergedir. Trendin yönü 
+hakkında bilgi sağlamaz ancak yatırımcıların bir kopuşun gerçek mi yoksa 
+yanlış mı olma olasılığını belirlemesine yardımcı olabilir.
+Yükselen bir ADX, mevcut trendin güç kazandığını gösterirken, düşen bir ADX, 
+trendin zayıfladığını gösterir. ADX düşük olduğunda (genellikle 20'nin altında), 
+piyasanın bir konsolidasyon aşamasında olduğu anlamına gelir ve kopuşların 
+yanlış olma olasılığı daha yüksektir. Tersine, yüksek bir ADX değeri (20'nin 
+üzerinde) güçlü bir trendi gösterir ve gerçek kopuşları daha olası hale getirir.
+Sahte kırılmaları tespit etmek için ADX kullanımı:
+İşlem gören varlığın ADX değerini izleyin.
+ADX düşükken kopuşları arayın. Bu kopuşların yanlış olma 
+olasılığı daha yüksektir.
+Kırılımı doğrulamak için hacim veya diğer teknik göstergeler gibi 
+ek doğrulama araçlarını kullanmayı düşünün.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Gösterge #3: Ortalama Gerçek Aralık (ATR)
+ATR, belirli bir süre boyunca fiyat hareketinin ortalama aralığını ölçen bir 
+oynaklık göstergesidir. Tüccarların, varlığın tipik fiyat dalgalanmaları 
+hakkında bilgi sağlayarak yanlış kırılmaları tespit etmelerine yardımcı 
+olabilir.
+Sahte kopuşları tespit etmek için ATR kullanıldığında, yatırımcılar kopuş 
+hareketinin boyutunu mevcut ATR değeriyle karşılaştırabilirler. Kopuş hareketi 
+ATR'den önemli ölçüde küçükse, bu hareketin arkasında inanç eksikliği 
+olduğunu gösterebilir ve sahte kopuş olasılığını artırabilir.
+Sahte kopuşları tespit etmek için ATR'yi kullanmak:
+İstenilen zaman dilimi için ATR değerini hesaplayın. Fiyat 
+hareketlerini çıkış hareketleri için izleyin.
+Kopuş hareketinin boyutunu ATR değeriyle karşılaştırın. 
+Hareket ATR'den önemli ölçüde küçükse, potansiyel bir yanlış 
+kopuş sinyali verebilir.
+Gösterge #4: Denge Hacmi (OBV):
+OBV göstergesi, yükselen günlerde hacim ekler ve düşen günlerde hacim 
+çıkarır ve genel hacim akışını yansıtan kümülatif bir toplam oluşturur. 
+Gerçek bir kopuş sırasında, OBV kopuş yönünde yükselmeli (yukarı yönlü 
+bir kopuş için) veya düşmeli (aşağı yönlü bir kopuş için) ve hareketi teyit 
+etmelidir.
+OBV'nin fiyatı takip edememesi, sahte bir kırılmanın işareti olabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Fasle kopmalarını tespit etmek için OBV kullanımı:
+Eğer fiyat bir direnç seviyesinin üzerine çıkarsa ve OBV düşüyorsa bu yukarı 
+yönlü yanlış bir kırılmanın muhtemel olduğunu gösterir.
+Fiyatın destek seviyesinin altına düşmesi ve OBV'nin yükselmesi, aşağı 
+yönlü yanlış bir kırılmanın muhtemel olduğunu gösterir.
+Filtreleme Teknikleri
+Rejim Filtreleri
+Rejim filtreleri mevcut piyasa ortamını belirlemeye ve buna göre işlem 
+stratejisini ayarlamaya yardımcı olur. Özellikle belirli piyasa koşullarında iyi 
+performans gösteren stratejiler için faydalıdırlar.
+Rejim filtreleri, ortalamaya dönen ve trend olan piyasalar arasında ayrım yapmaya 
+yardımcı olabilir ve tüccarların verilen ortam için en uygun stratejiyi uygulamasına olanak 
+tanır. Ortalamaya dönen bir piyasada, fiyatlar merkezi bir değer etrafında dalgalanma 
+eğilimindedir ve bu da onu aralıklı ticaret stratejileri için daha uygun hale getirir.
+Trend gösteren bir piyasada fiyatlar belirli bir yönde hareket eder ve bu durum trend 
+takip stratejileri için daha uygundur.
+ADX:ADX, yatay veya trend halindeki piyasa koşullarını 
+belirlemek için en etkili rejim düzenleyicilerinden biridir
+ADX 25'in üzerindeyse piyasa büyük ihtimalle 
+trenddedir
+ADX 25'in altındaysa piyasa trendde değildir ve yatay 
+hareket etmektedir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Trend Filtreleri
+Trend filtreleri, altta yatan piyasa trendini belirlemek ve bu trendin yönünde 
+sinyaller sağlamak için kullanılır. Yatırımcıların yanlış sinyalleri azaltmalarına ve 
+trend takip stratejilerinin etkinliğini artırmalarına yardımcı olabilirler.
+Hareketli Ortalamalar:Hareketli ortalamalar (MA'lar), fiyat verilerini 
+yumuşatan ve belirli bir dönemdeki ortalama kapanış fiyatına göre 
+eğilimleri belirleyen popüler bir trend filtresidir.
+Basit Hareketli Ortalama (SMA): Belirli bir zaman 
+dilimindeki kapanış fiyatlarının ortalamasını hesaplar.
+Üstel Hareketli Ortalama (EMA): Son fiyat 
+verilerine daha fazla ağırlık vererek fiyat 
+değişikliklerine daha iyi yanıt verir.
+SüperTrend:Supertrend, trend yönünü belirlemek için tasarlanmış 
+ATR tabanlı bir göstergedir. Supertrend göstergesi, yan piyasa 
+koşullarında yanlış sinyaller üretme olasılığı daha düşük olduğundan 
+harika bir trend filtresi oluşturur.
+Volatilite Filtreleri
+Volatilite filtreleri, yatırımcıların piyasadaki fiyat dalgalanmalarının seviyesini 
+ölçmelerine ve mevcut volatilite koşullarına göre işlem stratejilerini ayarlamalarına 
+yardımcı olur.
+1.Ortalama Gerçek Aralık (ATR): ATR, belirli bir süre boyunca ortalama 
+fiyat aralığını hesaplayarak piyasa oynaklığını ölçen teknik bir 
+göstergedir. Yüksek ATR değerleri daha yüksek oynaklığı 
+gösterirken, düşük değerler daha istikrarlı bir piyasayı gösterir.
+2.Bollinger Bantları: Bollinger Bantları, merkez çizgisi olarak hareketli 
+bir ortalama (genellikle 20 günlük SMA) kullanan ve merkez çizgisinin 
+üstünde ve altında belirli bir standart sapmaya yerleştirilmiş iki dış 
+bant bulunan bir oynaklık göstergesidir. Bantlar, yüksek oynaklık 
+dönemlerinde genişler ve düşük oynaklık dönemlerinde daralır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Gelişmiş Filtre Göstergeleri (TradingView'da)
+Filtre Göstergesi #1: Trend Gücü Yön Göstergesi 
+(TradingView Göstergesi)
+Bu Göstergeyi Bulmak İçin:
+TradingView'da gösterge arama kutusunu açın
+Tip "Trend Gücü Yön Göstergesi"Gösterge arama 
+kutusunda (yazarı Bunghole'dur).
+Nasıl Çalışır:
+Bu gösterge, piyasa eğilimlerini ve eğilim gücünü tespit etmek için MFI'yi 
+kullanır
+Gösterge rengi yeşil ve yükseliyorsa, güçlü bir yükseliş trendi meydana geliyor 
+demektir
+Eğer gösterge kırmızıysa ve düşüyorsa güçlü bir düşüş trendi yaşanıyor demektir.
+Bu gösterge ayrıca giriş ve çıkış sinyalleri için kullanılabilen daha hızlı 
+bir "dalga" osilatörü de içerir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Bu gösterge, yükseliş ve düşüş trendlerini belirler
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Filtre Göstergesi #2: Kopuş/Konsolidasyon Filtresi
+Breakout/Consolidation Filter, aralıklı/eğilimli piyasaları tanımlamak için en 
+sevdiğim göstergelerden biridir. Bu, TradingView topluluğu tarafından 
+oluşturulan TradingView'da bulunan ücretsiz bir göstergedir.
+Bu Göstergeyi Bulmak İçin:
+TradingView'da gösterge arama kutusunu açın
+TipBreakout/Consolidation Filtresi [jwammo12]gösterge 
+arama kutusunda
+Bu göstergenin yazarı yukarıdaki ekran görüntüsünde görüldüğü gibi jwammo12'dir. 
+Nasıl Çalışır
+Bu gösterge, mevcut trendin ne kadar güçlü olduğuna bağlı olarak yukarı veya aşağı 
+hareket eden tek bir çizgi kullanan ADX'e benzer.
+Bu gösterge 50'nin altındaysa, fiyat konsolidasyon dönemindedir
+Bu gösterge 50'nin üzerindeyse, fiyat trenddedir ve konsolide 
+olmamaktadır
+Bu indikatör, bu sinyallerin daha kolay görülebilmesi için 50 seviyesinde sarı bir 
+çizgi içerir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+50'nin altındaki Breakout/Consolidation Filtresi örneği, fiyatın aralıkta olduğunu 
+gösterir
+Yukarıdaki ekran görüntüsünde görebileceğiniz gibi, bu indikatör aralıkları, 
+konsolidasyon ve trendlerin kırılmalarını belirlemek için oldukça iyi çalışıyor.
+Ortalamaya dönüş ticareti için:
+Yalnızca Breakout/Consolidation Filtresi etkinse işlemlere girin50 yaş altı.
+Trend ticareti için:
+Yalnızca Breakout/Consolidation Filtresi etkinse işlemlere girin50'nin üstünde.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Bölüm 3: Mekanik Ticaret İçin Giriş ve Çıkış 
+Sinyalleri
+Bu bölüm, grafik platformu TradingView'da bulunan göstergelerden gelen son 
+derece doğru alım/satım sinyallerini içerir.
+Bunlar diğer yatırımcıların oluşturup TradingView'da yayınladığı ücretsiz 
+göstergelerdir.
+Bir TradingView hesabı oluşturun (TradingView.com), eğer ödeme yapmak 
+istemiyorsanız ücretsiz bir hesap için kaydolabilirsiniz.
+TradingView'da bir grafik açın ve üst araç çubuğunda bulunan 
+"göstergeler" simgesine tıklayın, ardından aradığınız göstergeyi 
+arayın.
+TradingView göstergesi arama kutusu
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Gösterge Giriş/Çıkış #1: [N]RSIOMA
+Yazan: neutrid
+Göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna “[N]RSIOMA” 
+yazın (neutrid tarafından)
+Genel Bakış:
+Bu, RSI'ın daha yumuşak bir versiyonudur ve ayrıca RSI MA'nın üstüne veya altına 
+geçtiğinde sinyal üretmek için bir hareketli ortalama da içerir.
+RSI rengi trend yönüne bağlı olarak yeşil ve kırmızı renkler arasında 
+değişecektir. Bu gösterge aşırı alım/aşırı satım sinyallerini belirlemek 
+için de kullanılabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Uzun/Alım Sinyali:
+Aşağıdakilerden birini kullanın:
+RSI hareketli ortalamanın üzerine çıktı 
+RSI 20'nin altında (aşırı satılmış)
+RSI rengi yeşile döner
+Kısa/Satış Sinyali:
+Aşağıdakilerden birini kullanın:
+RSI hareketli ortalamanın altına düştü 
+RSI 80'in üzerinde (aşırı alım)
+RSI rengi kırmızıya dönüyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+[N]RSIOMA göstergesini kullanan uzun ve kısa bir giriş
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Gösterge Giriş/Çıkış #2: Williams %R – Düzeltilmiş
+Yazan: PtGambler
+Göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna "Williams %R - 
+Smoothed" yazın (PtGambler tarafından)
+Genel Bakış:
+Bu, orijinal göstergeden daha az yanlış sinyal içeren Williams %R göstergesinin 
+daha yumuşak bir versiyonudur.
+Bu gösterge, Williams %R'nin MA'nın üstünde veya altında geçtiğinde 
+giriş/çıkış sinyalleri üretmek için kullanılan hareketli bir ortalama içerir. 
+Williams %R, RSI göstergesine benzerdir, ancak farklı hesaplamalar 
+kullanır.
+Uzun/Alım Sinyali:
+Williams %R hareketli ortalamanın üzerine çıktı 
+Williams %R -80'in altında (aşırı satılmış)
+Kısa/Satış Sinyali:
+Williams %R hareketli ortalamanın altına düştü 
+Williams %R 80'in üzerinde (aşırı alım)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Williams %R – Smoothed göstergesini kullanarak uzun giriş ve çıkış sinyalleri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Gösterge Giriş/Çıkış #3: Blackcat Özelleştirilmiş CCI 
+Göstergesi
+Yazar: blackcat1402
+Bu göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna “[blackcat] L1 
+Blackcat Özelleştirilmiş CCI Göstergesi” yazın (blackcat1402 tarafından)
+Genel Bakış:
+Bu, CCI (emtia kanalı endeksi) göstergesinin bir çeşididir. CCI'ın bu versiyonu, 
+göstergede alım/satım sinyalleri içerir ve bu da sinyallerin normal bir CCI'dan 
+daha kolay tanımlanmasını sağlar.
+Giriş/çıkış sinyalleri, CCI'ın aşırı satım veya aşırı alım bölgesine girmesiyle 
+oluşur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Uzun Giriş/Kısa Çıkış:
+CCI -200'ün altına düştü
+CCI'da "Satın Al" görünür (scalping için daha iyi)
+CCI histogram rengi sarıya dönüşüyor (trend ticareti için 
+daha iyi)
+Uzun Giriş/Kısa Çıkış:
+CCI 200'ün üzerine çıktı
+CCI'da bir "Satış" görünür (scalping için daha iyi)
+CCI histogram rengi mor renge dönüşür (trend ticareti için 
+daha iyi)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Blackcat Özelleştirilmiş CCI Göstergesi kullanılarak giriş ve çıkış sinyallerine 
+örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Gösterge Giriş/Çıkış #4: Filtrelenmiş RSI Ayrışma 
+Bulucu
+Yazar: eşarp
+Göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna "Filtered RSI 
+Divergence Finder" yazın (Scarle tarafından)
+Genel Bakış:
+Bu gösterge, zirveleri ve dipleri tahmin etmek için RSI ayrışmasını kullanmaya 
+dayanır. RSI ayrışması belirlendiğinde grafikte bir sinyal belirecektir.
+Bu indikatör ayrışma tespit ettiğinde, yükseliş ayrışması için mumun 
+altında yeşil bir alım sinyali, düşüş ayrışması için mumun üstünde kırmızı 
+bir satış sinyali belirecektir.
+Uzun/Alım Sinyali:
+Yeşil "R" etiketi bir mumun altında görünür
+Kısa/Satış Sinyali:
+Kırmızı "R" etiketi bir mumun üstünde görünür
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Filtrelenmiş RSI Ayrışma Bulucu göstergesini kullanarak uzun ve kısa girişler
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Gösterge Giriş/Çıkış #5: HalfTrend Göstergesi
+Yazan: everget
+Göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna "HalfTrend" 
+yazın (everget tarafından)
+Genel Bakış:
+Yarı trend göstergesi, piyasadaki kısa vadeli zirveleri ve dipleri doğru bir şekilde tahmin 
+etmek için harika bir araçtır.
+Alım veya satım sinyali oluştuğunda fiyatın altında veya üstünde bir ok belirir, bu da 
+kullanımı ve anlaşılmasını oldukça kolaylaştırır.
+Bu gösterge, yüksek oynaklığın ve büyük fiyat dalgalanmalarının olduğu piyasalarda en iyi 
+şekilde çalışacaktır.
+Volatilite çok düşük olduğunda bu gösterge daha az güvenilir olacak ve daha fazla yanlış 
+sinyal üretecektir.
+Gösterge ipucu:
+Düşük oynaklıklı piyasa koşullarında aşağıdaki ayarları deneyin:
+Genlik 1
+Kanal Sapması 1
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Uzun Giriş:
+Mumun altında mavi ok belirir 
+Çizgi rengi değişir
+Uzun Çıkış:
+Aşağıdakilerden birini seçin:
+Mumun üstünde kırmızı ok belirir 
+Çizginin rengi kırmızıya döner
+Kısa Giriş:
+Mumun üstünde kırmızı ok belirir. 
+Çizgi kırmızıya döner.
+Kısa Çıkış:
+Aşağıdakilerden birini seçin:
+Mavi ok mumun altında görünür 
+Çizgi rengi maviye döner
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+HalfTrend göstergesini kullanarak giriş/çıkış sinyallerinin ekran görüntüsü
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Gösterge Giriş/Çıkış #6: Sapma Göstergesi ile 
+Döngüsel Yumuşatılmış RSI
+Yazan: Dr_Roboto
+Bu göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna "Divergence 
+Indicator ile Döngüsel Düzleştirilmiş RSI" yazın (Dr_Roboto tarafından)
+Genel Bakış:
+Bu, giriş/çıkış sinyalleri üretmek için büyük ölçüde değiştirilmiş bir RSI 
+kullanan RSI (göreceli güç endeksi) göstergesinin bir çeşididir. Bu gösterge, 
+RSI'da bantlar ve bir WMA (ağırlıklı hareketli ortalama) içerir.
+Bu gösterge çeşitli şekillerde sinyal üretebilir, bunlar arasında şunlar 
+yer alır:
+RSI'da yeşil veya kırmızı bir nokta belirir. RSI 
+bantların üstünden veya altından geçer. RSI 
+WMA'yı geçer.
+RSI aşırı alım/aşırı satım bölgelerine girer 
+Bantlar yeşil veya kırmızı renk değiştirir
+Bu sinyallerden bazıları trend ticareti için daha uygunken diğerleri scalping için 
+daha uygun olacaktır. Bantlar kırmızı veya yeşil renkler arasında değiştiğinde 
+trend filtresi olarak kullanılabilir.
+Gösterge İpucu:Sinyal tanımlamayı kolaylaştırmak için bu göstergenin renklerini 
+değiştirebilirsiniz
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Uzun Giriş:
+RSI'da yeşil bir nokta belirir (scalping için daha 
+iyidir) RSI alt bandın üstünden geçer
+RSI, WMA'nın üzerine çıktı
+RSI aşırı satım bölgesinden yukarı doğru çıkıyor
+Uzun Çıkış:
+RSI'da kırmızı bir nokta beliriyor
+RSI, üst bant üzerinde olduktan sonra alt bandı geçiyor 
+RSI, WMA'nın altında geçiyor
+RSI aşırı alım bölgesine (70'in üzerine) giriyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Diverjans Göstergeli Döngüsel Yumuşatılmış RSI kullanılarak uzun giriş ve çıkış 
+sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Kısa Giriş:
+RSI'da yeşil bir nokta belirir (scalping için daha 
+iyidir) RSI alt bandın üstünden geçer
+RSI, WMA'nın üzerine çıktı
+RSI aşırı satım bölgesinden yukarı doğru çıkıyor
+Kısa Çıkış:
+RSI'da kırmızı bir nokta beliriyor
+RSI, üst bant üzerinde olduktan sonra alt bandı geçiyor 
+RSI, WMA'nın altında geçiyor
+RSI aşırı alım bölgesine (70'in üzerine) giriyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Diverjans Göstergeli Döngüsel Yumuşatılmış RSI kullanılarak kısa giriş ve çıkış 
+sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Gösterge Giriş/Çıkış #7: MFI + Hareketli Ortalama 
+Çaprazı
+Tabloya Ekle:
+MFI (Para Akış Endeksi), MFI'yi değiştiruzunluk 21'e 
+kadar MFI'ye 18 SMA (basit hareketli ortalama) ekleyin
+Genel Bakış:
+Bu giriş/çıkış sinyali, zirveleri ve dipleri belirlemek için MFI'yi (para akış endeksi) ve 
+hareketli ortalama kesişimini kullanır.
+MFI, RSI'a benzeyen bir osilatördür; ancak en önemli farkı, MFI'ın 
+hesaplamalarında hacim kullanmasıdır.
+Uzun Giriş/Kısa Çıkış:
+MFI, 50'nin altındayken SMA'nın üzerine çıkıyor
+Kısa Giriş/Uzun Çıkış:
+MFI, 50'nin üzerindeyken SMA'nın altına geçiyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+MFI + 18 SMA çaprazını kullanarak giriş ve çıkış sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Bölüm 4: Yüksek Kazanma Oranlı Mekanik Ticaret 
+Stratejileri
+Bu bölümde, en karlı mekanik ticaret stratejilerinden bazılarını ve bu 
+stratejileri uygulamak için izlenmesi kolay adımları ekledik.
+Önemli:Bu stratejileri kullanmadan önce, gerçek paranızı riske atmadan, 
+bunları bir papertrading (uygulama) hesabında test etmeniz şiddetle tavsiye 
+edilir.
+Bunu yapmanız için birkaç iyi neden var:
+Bu, stratejinin karlı olduğunu doğrulamanıza olanak tanır
+Stratejinin nasıl kullanılacağını ve stratejinin hangi piyasa koşullarında 
+kullanılacağını öğreneceksiniz
+Gerektiğinde karlılığı artırmak için stratejiyi optimize edebilir ve 
+değiştirebilirsiniz
+Şimdi stratejilere bir göz atalım!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Mekanik Ticaret Stratejisi #1: HalfTrend + 
+Williams %R
+Strateji Türü:
+Trend takibi ve scalping için kullanılabilir
+Strateji Göstergeleri:
+500 EMA
+HalfTrend (everget tarafından)
+Williams %R – Düzeltildi (Yazar: PtGambler)
+Uzun Giriş Koşulları:
+Fiyat 500 EMA'nın üzerinde
+Williams %R hareketli ortalamanın üzerine çıktı
+HalfTrend göstergesinde bir satın alma sinyali (mavi ok) göründüğünde 
+uzun pozisyona girin
+Uzun Çıkış:
+Aşağıdakilerden biri gerçekleşir:
+Williams %R hareketli ortalamanın altına geçiyor
+HalfTrend göstergesinde bir satış sinyali (kırmızı ok) görünüyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Bu stratejiyi kullanarak uzun bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Kısa Giriş Koşulları:
+Fiyat 500 EMA'nın altında
+Williams %R hareketli ortalamanın altına geçiyor
+HalfTrend göstergesinde bir satış sinyali (kırmızı ok) göründüğünde kısa 
+pozisyona girin
+Kısa Çıkış:
+Aşağıdakilerden biri gerçekleşir:
+Williams %R hareketli ortalamanın üzerine çıktı
+HalfTrend göstergesinde bir satın alma sinyali (mavi ok) görünüyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Bu stratejiyi kullanarak kısa bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Mekanik Ticaret Stratejisi #2: UT Bot + KDJ
+Strateji Türü:
+Scalping veya trend takibi için kullanılabilir
+Strateji Göstergeleri:
+UT Bot Uyarıları (QuantNomad tarafından)
+Ayarları değiştir - Anahtar Değeri = 3, ATR süresi = 30
+Balina Pompası Dedektörü ile L2 KDJ
+Not – Ayarlarda KDJ'deki arka plan renklerini kapatmanız 
+önerilir
+200 SMA
+Uzun Giriş Koşulları:
+Fiyat 200 SMA'nın üzerinde
+Mum rengi yeşildir ve mumun altında bir satın alma etiketi görünür
+KDJ'de yeşil "B" harfi göründüğünde veya üç KDJ çizgisinin hepsi 
+kesiştiğinde girin.
+Uzun Çıkış Koşulları:
+Aşağıdakilerden birini seçin:
+KDJ'de kırmızı bir "S" harfi görünür. Üç 
+KDJ çizgisi aşağı doğru kesişir.
+Mum rengi kırmızıya döner ve mumun üstünde bir satış etiketi 
+belirir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Bu stratejiyi kullanarak uzun giriş ve çıkış sinyali örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Kısa Giriş Koşulları:
+Fiyat 200 SMA'nın altında
+Mum rengi kırmızıdır ve mumun üstünde bir satış etiketi görünür
+KDJ üzerinde kırmızı “S” harfi göründüğünde veya üç KDJ çizgisinin hepsi aşağı 
+doğru kesiştiğinde girin.
+Kısa Çıkış Koşulları:
+Aşağıdakilerden birini seçin:
+KDJ'de yeşil bir "B" harfi görünür Üç 
+KDJ çizgisi aşağı doğru kesişir
+Mum rengi kırmızıya döner ve mumun üstünde bir satış etiketi 
+belirir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Mekanik Ticaret Stratejisi #3: BB + RSI Ayrışma 
+Bulucu
+Strateji Türü:
+Saç derisi soyma
+Strateji Göstergeleri:
+Bollinger Bantları
+500 EMA
+Filtrelenmiş RSI Ayrışma Bulucu (Eşarp ile)
+Uzun Giriş Koşulları:
+Fiyat 500 EMA'nın üzerinde
+Fiyat Bollinger bandının altına dokunuyor veya altında
+RSI Divergence Finder'dan (yeşil "R" etiketi) bir satın alma sinyali 
+göründüğünde uzun pozisyona girin
+Uzun Çıkış Koşulları:
+Fiyat Bollinger bandının tepesine dokunuyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Bu stratejiyi kullanarak uzun bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+Kısa Giriş Koşulları:
+Fiyat 500 EMA'nın altında
+Fiyat Bollinger bandının en üst noktasına dokunuyor veya üstünde
+RSI Divergence Finder'dan (kırmızı "R" etiketi) bir satış sinyali 
+göründüğünde uzun pozisyona girin
+Kısa Çıkış Koşulları:
+Fiyat Bollinger bandının dibine dokunuyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Bu stratejiyi kullanarak kısa bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Mekanik Ticaret Stratejisi #4: BB + ADX Scalping 
+Stratejisi
+Strateji Türü:
+ortalamaya dönüş
+Bu Stratejide Kullanılan Göstergeler:
+Bollinger Bantları
+ADX
+RSI
+* RSI uzunluğunu 5'e değiştirin
+Uzun Giriş Koşulları:
+ADX 25'in altında
+Fiyat BB'nin altında veya dibine dokunuyor
+RSI 30'un (aşırı satım) altına düştüğünde ve aşırı satım bölgesini 
+aştığında giriş yapın.
+Uzun Çıkış Koşulları:
+Aşağıdakilerden birini seçin -
+Fiyat, BB tepesine dokunur veya onu aşar 
+RSI, 70'in üzerine çıkar (aşırı alım)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+Bu stratejiyi kullanarak uzun bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Kısa Giriş Koşulları;
+ADX 25'in altında
+Fiyat BB'nin üstünde veya ona dokunuyor
+RSI 70'in (aşırı alım) üzerinde olduğunda ve aşırı alım bölgesinden aşağı 
+doğru geçtiğinde giriş yapın.
+Kısa Çıkış Koşulları:
+Aşağıdakilerden birini seçin -
+Fiyat BB'nin altına dokunur veya onu geçer 
+RSI 30'un altına geçer (aşırı satım)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+Bu stratejiyi kullanarak kısa bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+Mekanik Ticaret Stratejisi #5: MFI + HMA Scalping 
+Stratejisi
+Strateji Türü:
+Saç derisi soyma
+Strateji Göstergeleri:
+Bjorgum MTF MA (Bjorgum tarafından) 
+Ayarlar:
+MA tipi #1 ila HMA ve MA #1 uzunluğu 65
+MFI (Para Akış Endeksi) 
+Ayarlar:
+MFI'ye 18 SMA ekleyin MFI 
+uzunluğunu 21'e değiştirin
+200 MA
+Uzun Giriş Koşulları:
+Fiyat 200 SMA'nın üzerinde
+MFI, SMA'nın üstünden geçerken 50'nin altında 
+Mum, HMA'nın üstünden geçer ve kapanır Mum 
+rengi maviye döner
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Uzun Çıkış Koşulları:
+Aşağıdakilerden birini seçin:
+MFI, SMA Mumunun altından 
+geçtiğinde renk kırmızıya döner
+Bir mum HMA'nın altında kapanıyor
+Bu stratejiyi kullanarak uzun bir giriş ve çıkış örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+Kısa Giriş Koşulları:
+Fiyat 200 SMA'nın altında
+MFI, SMA'nın altına düşerken 50'nin üstündeki 
+mum, HMA'nın altına düşer ve kapanır Mum rengi 
+kırmızıya döner
+Kısa Çıkış Koşulları:
+Aşağıdakilerden birini seçin:
+MFI, SMA Mumunun üstünden 
+geçtiğinde renk maviye döner
+Bir mum HMA'nın üzerinde kapanıyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Mekanik Ticaret Stratejisi #6: WTMO + KAMA 
+Stratejisi
+Strateji Türü:
+Trend ticareti
+Strateji Göstergeleri:
+Dalga Trendi Momentum Osilatörü (veryfid tarafından) 
+Ayarlar:
+Uzunluğu 14'e değiştirin
+HalfTrend (Everget tarafından)
+Stratejiye Genel Bakış:
+Bu strateji, piyasadaki büyük fiyat dalgalanmalarını değerlendirmek için HalfTrend 
+göstergesini ve WTMO'yu (dalga trendi momentum osilatörü) kullanır.
+WTMO son derece doğru aşırı alım/aşırı satım sinyalleri sağlar ve HalfTrend 
+indikatörü yeni bir trendin ne zaman başladığını tespit etmede oldukça 
+iyidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+Uzun Giriş Koşulları:
+WTMO yeşil seviyenin altında (aşırı satılmış) ve yukarı doğru hareket ediyor
+HalfTrend göstergesinden bir mumun altında bir satın alma oku göründüğünde 
+uzun vadeli ticarete girin
+Uzun Çıkış Koşulları:
+Aşağıdakilerden birini kullanın:
+WTMO aşırı alım bölgesinde ve aşırı alım bölgesinden aşağı 
+doğru geçiyor
+HalfTrend göstergesinden bir mumun üstünde kırmızı bir satış oku 
+belirir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+Bu stratejiyi kullanarak uzun giriş ve çıkış sinyalleri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+Kısa Giriş Koşulları:
+WTMO kırmızı çizginin üzerinde (aşırı alım) ve aşağı doğru 
+geçiyor
+HalfTrend göstergesinden bir mumun üstünde satış oku 
+göründüğünde kısa pozisyona girin
+Kısa Çıkış Koşulları:
+WTMO aşırı satılmış durumda ve aşırı satılmış bölgenin dışına çıkıyor
+HalfTrend göstergesinden bir mumun altında mavi bir satın alma oku 
+belirir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+Bu stratejiyi kullanarak kısa giriş ve çıkış sinyalleri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+Mekanik Ticaret Stratejisi #7: Bollinger Band + Ters 
+Dönüş Bulucu Stratejisi
+Strateji Türü:
+Ortalamaya dönüş
+Strateji Göstergeleri:
+Bollinger bandı
+Tersine dönüş bulucu göstergesi (NS91 tarafından) Kopuş/
+Konsolidasyon Filtresi (jwammo12 tarafından)
+Stratejiye Genel Bakış:
+Bu, aralıklı/yanal piyasa koşullarında scalping için tasarlanmış bir ortalama 
+geri dönüş ticaret stratejisidir. Breakout/konsolidasyon filtresi, bu 
+koşullarda işlemleri belirlemek ve almak için kullanılır.
+Giriş ve çıkışlar için Bollinger bantları ve geri dönüş bulucu kullanılır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+Uzun Giriş Koşulları:
+Kopuş/konsolidasyon filtresi 50'nin altında Fiyat Bollinger 
+bandının dışında veya altına dokunuyor Mumun altında 
+yeşil bir nokta görünüyor
+Uzun Çıkış Koşulları:
+Fiyat Bollinger bandının üstüne dokunuyor veya onun dışında kalıyor 
+Bir mumun üstünde kırmızı veya sarı bir nokta beliriyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+Bu scalping stratejisini kullanarak uzun bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+Kısa Giriş Koşulları:
+Kopuş/konsolidasyon filtresi 50'nin altında Fiyat, Bollinger 
+bandının dışında veya ona dokunuyor Mumun üzerinde 
+kırmızı bir nokta görünüyor
+Kısa Çıkış Koşulları:
+Fiyat Bollinger bandının altına dokunuyor veya dışında kalıyor Bir 
+mumun altında yeşil veya sarı bir nokta beliriyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+Bu stratejiyi kullanarak kısa bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+Bölüm 5: Karları Maksimize Etmek İçin Ticaret Stratejinizi Nasıl 
+Optimize Edersiniz?
+Stratejinizi Geriye Dönük Test Etme ve İleriye Dönük Test Etme
+Geriye dönük test, stratejinizin etkinliğini test etmek için geçmiş verileri kullanmayı 
+içerir. Potansiyel zayıflıkları belirlemenize yardımcı olur ve stratejinizi buna göre 
+iyileştirmenizi sağlar. Geriye dönük test sırasında uygun risk yönetimi ve pozisyon 
+boyutlandırmasını sağlayın.
+İleri test, stratejinizi simüle edilmiş bir işlem ortamında gerçek zamanlı 
+verilerle test etmeyi içerir. Potansiyel sorunları belirlemek ve gerekli 
+ayarlamaları yapmak için performansı izleyin. Stratejinizin etkinliğini canlı 
+bir işlem ortamında kullanmadan önce doğrulayın.
+Stratejinizi simüle edilmiş bir ortamda geçmiş verileri ve gerçek zamanlı 
+verileri kullanarak test edin
+Zayıflıkları belirleyin ve stratejinizi iyileştirmek için ayarlamalar 
+yapın
+Canlı işlem yapmadan önce stratejinizin etkinliğini doğrulayın
+Değişen Piyasa Koşullarına ve Rejim Değişikliklerine 
+Uyum Sağlama
+Değişen piyasa koşullarına ve rejim değişikliklerine etkili bir şekilde uyum 
+sağlamak için piyasa ortamını derinlemesine anlamak ve gerektiğinde 
+stratejinizde ayarlamalar yapmaya hazır olmak çok önemlidir. Odaklanmanız 
+gereken bazı temel alanlar şunlardır:
+Piyasa Koşullarının İzlenmesi
+Rejim Değişikliklerini Tanımak
+Trend ve değişken piyasaları belirleyin: Piyasanın güçlü bir trendde 
+veya konsolidasyon aşamasında olduğunu anlayın; çünkü farklı piyasa 
+rejimlerinde farklı stratejiler daha etkili olabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+Piyasa döngülerini anlayın: Piyasa koşullarındaki olası 
+değişimleri öngörebilmek için genişleme, zirve, daralma ve 
+dip gibi piyasa döngülerinin çeşitli aşamalarını öğrenin.
+Dalgalanmayı izleyin: Piyasa dalgalanmalarını takip edin; bu, 
+potansiyel rejim değişikliklerini veya stratejinizde ayarlamalar 
+gerektirebilecek belirsizlik dönemlerini gösterebilir.
+Stratejinizi Ayarlama
+Gösterge ayarlarını değiştirin: Teknik göstergelerinizin ayarlarını, trend 
+gösteren bir piyasada hareketli ortalamaların geriye dönük periyodunu 
+artırmak gibi piyasa eğilimlerini ve koşullarını daha iyi yakalayacak şekilde 
+düzenleyin.
+Giriş ve çıkış kurallarını uyarlayın: Giriş ve çıkış kurallarınızı, güçlü 
+trendler sırasında takip eden zararı durdurma emri kullanmak veya 
+konsolidasyon dönemlerinde giriş sinyallerinde daha seçici olmak gibi 
+mevcut piyasa koşullarına uyacak şekilde ayarlayın.
+Risk yönetimini ayarlayın: Risk yönetimi stratejinizi değişen piyasa 
+koşullarına uyum sağlayacak şekilde uyarlayın. Örneğin, artan piyasa 
+oynaklığı dönemlerinde pozisyon boyutlarını azaltın veya güçlü trendler 
+sırasında zarar durdurma emirlerini sıkılaştırın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

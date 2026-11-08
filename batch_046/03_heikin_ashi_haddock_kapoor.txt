@@ -1,0 +1,931 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 8\Baskı 8\Heikin Ashi Grafikleriyle Günlük Trade - Tim Haddock ve Ravi Kapoor (50 sayfa) - @eseckal.pdf
+PAGES: 50
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+Bu kitabı neden yazdık?
+Ticaret ve yatırım
+Trend takibi ve aykırı yaklaşım
+Günlük ticaret
+İzleme listesi oluşturma
+Heikin Ashi Trend Ticaret Stratejisinin Unsurları
+Bollinger Bantları
+Keltner Kanalları
+Sıkmak
+Hareketli ortalamalar
+Mum Sck Grafikleri
+Heikin Ashi
+Genel Piyasa Göstergeleri
+Zaman aralığı
+Heikin Ashi Trend ticaret stratejisi
+Grafikleri Seng
+Uzun giriş kuralları
+Kısa giriş kuralları
+Durur ve çıkar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Not
+Gerçek hayattan örnekler
+9 Ağustos 2013 Cuma
+12 Ağustos 2013 Pazartesi
+13 Ağustos 2013 Salı
+14 Ağustos 2013 Çarşamba
+15 Ağustos 2013 Perşembe
+16 Ağustos 2013 Cuma
+Son Açıklamalar
+Bu kitabı neden yazdık?
+Bir yandan biraz para kazanmanın bir yolu olarak ya da finansal bağımsızlık 
+hedefine ulaşmak için ticarete başlayan birçoğunuz gibi biz de ticaretle ilgili 
+tonlarca kitap topluyoruz ve okuyoruz. Edwin Lefevre gibi klasiklerden,Bir 
+borsa operatörünün anılarıveya Charles MacKay, Olağanüstü Halk Yanılgıları 
+ve Kalabalıkların Çılgınlığımatematik ağırlıklı modern kitaplara. Ticaret 
+stratejileri konusunda mükemmel bir rehber olduğunu düşündüğümüz en 
+yeni kitaplardan biri John F. Carter'dır. Ticarette Ustalaşmak.
+Evet, ticaretin kutsal kasesini bulamasak da bu kitaplardan çok şey 
+öğrendik. Tüm bu araçları her yatırımcının erişebilmesini sağlayan 
+bilgisayarın gelişiyle kolaylaştırılan farklı grafik türlerinin gelişimini ve 
+sayısız teknik göstergenin oluşturulduğunu gördük.
+Bazı teknik göstergeler en azından bir süreliğine gerçekten işe yaradı. Daha sonra bir süreliğine işe 
+yaramaz hale geldikten sonra tekrar çalıştılar; bir süreliğine. Geriye dönük testler, doğal olarak gelecek 
+için herhangi bir garanti olmaksızın, geçmişte neyin işe yaradığını bulmaya yardımcı oldu
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+sonuçlar. Geriye dönüp bakma periyoduna bağlı olarak tamamen farklı sonuçlar elde 
+ettiniz. Geriye bakma periyodunun ustaca seçilmesiyle, herhangi bir göstergeyi veya 
+sistemi nihai sistem olarak tanıtabilir ve onu satarak tonlarca para kazanabilirsiniz. 
+Bazı sistemler binlerce dolara satılıyordu ve yaratıcıları tek bir ticaret yapmaya gerek 
+kalmadan zengin oluyordu. Bu, elbette, bu sistemleri satın alan ve bunları 
+kullanırken sermayelerinin eridiğini gören umutlu ruhlar için sürekli bir hayal kırıklığı 
+kaynağıydı.
+Yıllar geçse de bir şey aynı kaldı, ne kadar önemsiz olsa da. Hisse senetleri veya diğer 
+herhangi bir finansal ticaret aracı yukarı, aşağı veya yanlara doğru hareket etti. Ve 
+hareket ettiklerinde, trendler halinde hareket ettiler; bazıları daha düzenli bir şekilde, 
+diğerleri ise acemi bir tüccarın gün ışığını korkutacak kadar vahşi dalgalanmalarla. 
+Hiçbir şey doğrudan yukarı veya aşağı hareket etmediğinden geri çekilmeler oyunun bir 
+parçasıdır. Her zaman asıl soru şuydu: Bu sadece size düşüşleri satın alma fırsatı veren 
+bir geri çekilme mi, yoksa bir geri dönüşün başlangıcı mı? Doğru cevaba sahipseniz 
+zenginliğe giden yoldasınız.
+Bir hareketi bir trend olarak mı yoksa sadece bir geri çekilme olarak mı 
+değerlendireceğiniz, izlediğiniz çerçeveye bağlıdır. Günlük grafikte güzel bir ticaret 
+trendi gibi görünen şey, haftalık grafikte sadece bir geri çekilme olabilir. Bu kitapla 
+takip ettiğimiz arayış, yeni ortaya çıkan bir eğilimi başlangıç   aşamasında 
+tanımlamanıza ve onu seçtiğiniz çerçeve içinde gidebildiğiniz kadar ileri götürmenize 
+yardımcı olmaktır. Size, charng paketinizde veya ticaret platformunuzdaki hazır 
+araçlarla izleyebileceğiniz sağlam bir strateji göstereceğiz. Bütün bunlar, günlük 
+ticaret ortamında pratik olmayan elektronik tabloların manipülasyonuna gerek 
+kalmadan. Bu strateji, riski sınırlandırırken trendi mümkün olduğu kadar uzun süre 
+sürdürmeye odaklanır.
+Stratejimizi, çevrimiçi brokerler TD Ameritrade ve thinkorswim.com 
+tarafından desteklenen çok ayrıntılı ve çok yönlü Think or Swim 
+platformunda (ToS) göstereceğiz. Bunun nedeni, aşina olduğumuz bir 
+platform olması ve bu sınırlı alanda diğer platformları ele alamamamızdır. 
+Ancak kesinlikle istediğiniz başka bir komisyoncuyu veya platformu 
+kullanabilirsiniz. Heikin Ashi Trend Ticaret Stratejisi için kullandığımız hemen 
+hemen tüm mesajları kopyalayabilmelisiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Cihazınızda sağlanan grafikleri düzgün göremiyorsanız, bize e-posta 
+göndermekten çekinmeyin (traderhaddock@gmail.com ) ve bunlara 
+erişebilmenizi sağlayacağız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Ticaret ve yatırım
+Bir yatırımcı genellikle yatırımlarını uzun süre, bazen yıllarca, hatta on yıllar boyunca 
+elinde tutmaya devam eder. Yatırım yaptığı şirketin temel sağlamlığı ve geleceğe 
+yönelik beklentileri konusunda ikna olduğu sürece, hisse senedi fiyatlarının düştüğü 
+dönemlerde hisselerini elinde tutacaktır. Hatta düşüşlerde daha fazla hisse bile satın 
+alabilir. Ve bu arada temettü ödemelerini nakde çevirecek ve hisse bölünmelerinden 
+faydalanacak. Uzun vadede S&P 500'ün getirileri kadar veya biraz üzerinde ortalama 
+getiri elde edecek, diyelim ki yıllık ortalama %10 ila %20 arasında bir getiri elde 
+edecek. Her zaman bir hisse senedine aşık olması ve onu sırf dünyevi para 
+nedenleriyle satmayı asla düşünmemesi tehlikesi vardır.
+Diğer taraftaki tüccar ise piyasadaki iniş ve çıkışlardan yararlanmayı 
+amaçlamaktadır. Bu, piyasaların düzenli olarak izlenmesini ve tüccarın ne zaman 
+satın alınacağını veya satılacağını fiilen belirleme becerisini gerektirir. Bu 
+kararlara varmak ve uzun vadede başarılı olmak için bazı gerekçelere veya ne 
+zaman girip çıkacağına ilişkin kuralları içeren bir ticaret planına sahip olması 
+gerekir. İçten gelen ticaret kararları bazen işe yarayabilir ancak güvenilir 
+olmaktan uzaktır ve bu nedenle önerilmez. Korku ve açgözlülük duygularını 
+kontrol altında tutmak çok önemlidir. Kâr mevcutken alamamak sermayeniz için 
+en büyük tehlikedir.
+Swing yatırımcıları birkaç günden birkaç aya kadar elde tutma sürelerini 
+ararlar. Sağlam bir sisteme sahip iyi bir swing yatırımcısı, yatırımcının elde 
+ettiği getirileri önemli ölçüde aşabilir.
+Kısa uçta, gün içi hareketlerden yararlanmak isteyen ve işlem günü 
+kapanmadan önce tüm pozisyonlarından çıkan günlük tüccar var. 
+Aynı gün içinde alım satım veya açığa satış ve kapatma günlük nakit 
+akışı yaratacaktır. İşlem gününün sonunda yatırımcı sonucunu Dolar 
+miktarı olarak bilecektir. Dolar miktarı tek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Başarınızı ölçmek için makul ölçüler. Yüzde rakamları bu bağlamda 
+pek bir anlam ifade etmiyor.
+Piyasayı sürekli takip etmesi, esasen gününü ekran karşısında 
+geçirmesi gerekiyor. Bu bir iş veya iş gibidir ve günlük tüccarın 
+ticaretini buna göre yapması tavsiye edilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Trend takibi ve aykırı yaklaşım
+Aykırı olmak, kalabalığı takip etmemek demektir. Kalabalıkların ve sürülerin 
+entelektüel cephede berbat bir imajı var. Aklımıza hemen koyunların aptalca 
+davranışları ya da Pamplona'nın frangı boğa koşusu geliyor. Aykırı olmanın 
+yatırımda kesinlikle yararları vardır. Beğenilmeyen hisse senetlerini ucuzken 
+keşfedip aylarca, hatta yıllarca artırmak gibi.
+Kısa vadeli ticarette kontracı, patlamaları ve yükselişleri herkesten önce fark 
+edebilen kişi olacaktır. Bunu tutarlı bir şekilde başarabilirseniz, bir 
+kahramansınız. Aynı zamanda entelektüel açıdan da ödüllendirici ama 
+gerçekçi mi?
+Biz öyle düşünmüyoruz. Amacımız sürekli para kazanmak, kahraman olmak 
+hedeflerimiz arasında değil. Ve entelektüel sasfacon mutlaka ceplerimizi 
+doldurmaz. Bu yüzden trendi takip eden yaklaşımı benimsiyoruz. Her şeyden 
+önce, Pamplona'yı ve boğa koşusunun ham enerjisini düşünün. Bir trende 
+mümkün olduğu kadar erken girmeye ve onu mümkün olduğu kadar uzun süre 
+sürdürmeye çalışıyoruz. Saldırgan boğaların önünde durmamak finansal 
+sağlığımızın reçetesidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Günlük ticaret
+Eğer günlük bir işiniz olacaksa, günlük ticareti unutun, ikisini birleştirmenin hiçbir 
+yolu yoktur. İki faaliyetten en az biri, her ikisi de olmasa bile, düşük performanstan 
+zarar görecektir.
+Günlük tüccarlar arasına katılıp katılamayacağınız her şeyden önce hesabınızın 
+büyüklüğüne bağlıdır. FINRA (NASD) düzenlemelerine göre hesabınızda 
+minimum 25.000 $ özsermaye bulundurmanız gerekir.
+İlk gün işleminizi yaptığınızda, komisyoncunuzdan bunun sonuçlarını açıklayan 
+bir uyarı mesajı alacaksınız ve dördüncü gün işleminizi birbirini takip eden 
+herhangi bir 5 iş günü içinde gerçekleştirdiğinizde, bir günlük işlem tüccarı olarak 
+etiketleneceksiniz. Bu, bundan sonra minimum 25.000 $ bakiyenizi korumanız 
+gerektiği anlamına geliyor.
+Bir günlük tüccar olarak, bu faaliyetin daha birkaç yıl öncesine kadar Goldman Sachs, 
+Morgan Stanley, Knight Capital ve daha pek çok finans kuruluşunun özel bir alanı 
+olduğunun farkında olmalısınız. İnternetin dramatik gelişimi ve sürekli gelişen ticaret 
+platformlarıyla birlikte çevrimiçi indirim komisyoncularının ortaya çıkışı, sahneyi 
+demokratikleştirdi ve uluslararasılaştırdı. Günlük tüccarlar dünya çapında öğrenciler, 
+ev hanımları ve emekliler arasında bulunabilir. Hindistan ve Çin'de ABD borsalarında 
+işlem yapan akıllı bireylerden oluşan çok aktif günlük ticaret grupları var gibi 
+görünüyor. Oyuna katılmak için ihtiyacınız olan tek şey, para yatırılmış bir hesap, bir 
+dizüstü bilgisayar ve bir internet bağlantısıdır. Tabii ki sağlam bir strateji.
+Yeni ya da eski rakibi küçümsemeyin. Paranın satın alabileceği en akıllı 
+tüccarları çalıştıran, yüksek maaşlı analist sürüleri tarafından desteklenen ve 
+en iyi donanım ve gelişmiş yazılımlarla donatılmış eski rakip, büyük firmalar 
+hala iyi ve canlı. Ve unutmamak gerekir ki, sadece hayal edebileceğiniz bir 
+sermaye desteğine sahipler. Onları alt etmeye çalışmayı aklından bile 
+geçirme. Bu kaybedilecek bir teklif.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Şimdi, dışarıda bu müthiş rakip varken, bu mücadeleye girişmek ve 
+piyasalardan geçimini sağlamaya çalışmak deli olduğunuz anlamına mı 
+geliyor? Hiç de bile. Korkmana gerek yok. Tüm bu zorlu piyasa katılımcıları 
+kendileri için ticaret yapıyor ve hiçbiri geleceği herkes gibi tahmin 
+edemiyor. Aynı sistemlerle çalışmıyorlar veya hisse senedi fiyatlarının çok 
+yüksek ya da çok düşük olup olmadığı konusunda aynı sonuca varmıyorlar. 
+Bu yüzden sürekli işlemlerin gerçekleştiğini görüyoruz. Ve sadece siz değil, 
+büyükler de arada bir zarara uğrar, bu işin bir parçası.
+Duraklarınızdan birinin vurulduğunu ve fiyatın hemen toparlandığını deneyimlemiş 
+olabilirsiniz. Hiç kimse, duraklarınızı işleterek paranızı almanız için sizi özellikle 
+seçmedi. Duraklarınız muhtemelen pek çok yatırımcı tarafından kullanılan bariz bir 
+noktadaydı. Büyük adamların kötü niyetli bir komplosu yok. Kayıplarınız genellikle 
+sizin eserinizdir, kendinize karşı dürüst olun ve hatalarınızı açıklamaya çalışmayın.
+Bu ortamda hayatta kalmak için gerçekten gerçekçi bir şansınız var mı? 
+Kesinlikle. Ancak para yönetimi, disiplin ve uygun bir zihniyet içeren 
+sağlam bir stratejiyle kendinizi silahlandırmalısınız.
+Ve en önemlisi:
+Piyasaya saygılı davranın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+İzleme listesi oluşturma
+Binlerce işlem gören hisse senedi ile piyasanın tamamını takip edemezsiniz. O evreni 
+daha yönetilebilir bir boyuta indirgemeniz gerekiyor. Düzenli olarak izlemeyi 
+planladığınız hisse senetlerinin bir listesini yapın. Başa çıkabileceğiniz kadar kısa veya 
+uzun olmalıdır. Bizim için bu alım satım adayları listesi 50 ila 100 arasında isim 
+içermektedir ve bu listeyi düzenli olarak güncelleyeceğiz. Bu listeyi beğendiğiniz hisse 
+senetleri ile manuel olarak oluşturabileceğiniz gibi, kriterlerinize göre tüm piyasayı 
+tarayarak sistematik olarak da yapabilirsiniz. Çoğu ticaret platformu bunu çok acısız bir 
+şekilde yapmanıza izin verir.
+Önceden ayarlanmış bir taramayı kullanabilir veya kendinizinkini yapabilirsiniz. Kriterlerimiz işlem 
+hacmi, oynaklık, minimum hisse senedi fiyatı ve haftalık opsiyonların mevcut olup olmadığıdır.
+Çok düşük işlem hacmine sahip hisse senetleri, geniş alış/teklif farklarına sahip 
+olma eğilimindedir ve bu da onların kârlı bir şekilde işlem görmesini zorlaştırır. 
+Yanlış hareket riski de artar. Beni veya sermayenizi bunlara harcamayın. 
+Minimum işlem hacmi olarak 1 milyon hisseyi seçtik.
+Minimum oynaklığı %25 olarak belirledik. Bir hisse senedi bütün gün aynı seviyede 
+duruyorsa, ticari sermayemizi buna harcamak istemeyiz.
+Hisse senedi fiyatı için minimum 30$ belirledik. Bu sadece keyfi bir sayıdır, ancak 
+genellikle düşük fiyatlı hisse senetlerine göre bu fiyat seviyesinden daha yüksek bir 
+bira hareketi elde ettiğinizi düşünüyoruz. Hangisi size rahat geliyorsa onu 
+kullanabilirsiniz.
+Şekil 1: Bir tarama gönderin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Hizmet Şartları'nda Tara sekmesini seçersiniz ve ardından açılır menüde tarama 
+sorgusunu yükleyin altında Yeni tarama oluştur'u seçin. Bu kutunun sağ alt 
+köşesindeki küçük üçgene tıkladığınızda açılır seçenekler belirir (1). Bu sayfanın sağ 
+üst kısmında programa nerede tarama yapacağını ve sonucun hangi listeyle 
+kesişeceğini anlatabilirsiniz.
+Haftalık Opons ile kesişecek Tüm Hisse Senetlerini seçtik. Bunu bulmak 
+biraz zor. Kesişen kutuda Genel ve Haftalık seçeneklere gidin, açılır 
+listenin en tepesinde yer alacaktır.
+Neden haftalık teklifleri kriter olarak seçiyoruz? Şu anda onlarla 
+işlem yapmayı düşünmüyorsanız bile, varlıkları hisse senedinde 
+sürekli olarak iyi bir takip olduğunun göstergesidir.
+Sembol başlığına tıklayarak sonuç listesini alfabetik olarak sıralayın ve bu listeyi manuel 
+olarak inceleyin. Hangi sebeple olursa olsun beğendiğiniz hisse senetlerini ekleyebilirsiniz. En 
+sevdiğiniz ETF'leri, endeks ürünlerini, para birimlerini veya altın, tahvil, ham veya doğal gaz 
+gibi bazı vadeli işlemleri ekleyebilirsiniz. Ticaret yaptığınız veya izlemeye değer olduğunu 
+düşündüğünüz her şey, size genel piyasa hissi ve yönü hakkında fikir vermek için. 
+Beğenmediğiniz hisse senetlerinin sembollerini de silebilirsiniz. Bu aşamada ve yalnızca 
+burada kendinize birkaç duyguya izin verebilirsiniz.
+Son olarak tarama sonucunu bir izleme listesi olarak kaydedin ve ona anlamlı bir ad verin.
+Şekil 2: Bir izleme listesi gönderin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+TOS'taki izleme listesi çok faydalıdır. Herhangi bir cker sembolüne sağ tıklamak size 
+Hızlı grafiğe erişimden not almaya ve hatta sipariş girişine kadar birçok seçenek 
+sunar. Bu seçenekler listesine göz atın ve bunları kendi başınıza keşfedin. Ayrıca 
+izleme listesini birçok şekilde özelleştirebilirsiniz. Bunu doğru yapmak için
+Sembol başlığının sadece küçük noktasına tıklayın (1) ve Özelleştir'i seçin. 
+Dosyada tüm teknik göstergeleri içeren mevcut öğelerin bir listesi görünür. 
+Seçiminizi görüntülenecek mevcut sete ekleyebilirsiniz. Ayrıca 
+görüntülenmesi gerekmeyen öğeleri kaldırabilir ve sütunların sırasını 
+değiştirebilirsiniz. Daha sonraki bir bölümde özelleştirilmiş bir tarama 
+göndererek bu konuya geri döneceğiz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Heikin Ashi Trend Ticaret Stratejisinin 
+Unsurları
+Eski günlerde, yani PC'nin ortaya çıkmasından önce, yatırımcılar grafiklerini elle 
+çiziyorlardı ve hareketli ortalamalar gibi en basit teknik analiz araçlarının bile 
+hesaplanması zordu. PC tüm bunları değiştirdi ve piyasa analizini 
+demokratikleştirdi. Bir fare tıklamasıyla grafiklerinizi çizgi grafikler, çubuk 
+grafikler, mum grafikleri ve Heikin Ashi olarak görüntüleyebilirsiniz. Yeni 
+eklemeler arasında maymun çubukları da var. Matematiksel açıdan zorlu 
+göstergeler bile neredeyse anında güncelleniyor ve gerçek şarjım artık bir lüks 
+değil. Tabletinizde veya akıllı telefonunuzda bile olabilir.
+TOS platformunda seçebileceğiniz 200'den fazla gösterge bulunmaktadır ve daha 
+fazla gösterge düzenli olarak geliştirilmektedir. Hepsine ihtiyacınız var mı? 
+Kesinlikle hayır. Göstergelerle ilgili sorun şu ki bende çok iyi çalışıyorlar ve sonra 
+bir süre hiç çalışmıyorlar. Bu nedenle pek çok yatırımcı, birbirlerini teyit etmeleri 
+umuduyla giderek daha fazla gösterge ekliyor ve aksi takdirde kendisi bir sinyal 
+olarak yorumlanan farklılıktan bahsediyor. Nesnenin özneye dönüştüğü yer 
+burasıdır. Yoksa göstergelerin çoğunluğunun bize söylediklerine dayanarak 
+demokratik olarak mı karar vereceğiz?
+Çelişkili sinyaller aldığınızda analiz yaparak felç sorunuyla 
+karşılaşmak istemediğiniz için kullandığınız göstergeleri çok dikkatli 
+ve idareli seçin.
+Göstergeler geleceği tahmin etmek amacıyla geçmiş verilerle hesaplanır. Bu 
+çok doğru bir hedef. Yine de bazı göstergelerin değeri var çünkü bize 
+piyasanın mevcut durumu ve sağlığı hakkında bir süre daha devam etmesi 
+beklenebilecek bir şeyler anlatabilirler.
+Heikin Ashi Trend Ticaret Stratejimiz için, ticaret kurulumlarını, oynaklığı ve 
+momentumu belirlemek için esas olarak iki hususa odaklanacağız. Momentum için 
+Bollinger Bantları ve Keltner Kanallarının bir kombinasyonunu kullanacağız
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+MACD veya TTM_Squeeze göstergesi. Bollinger Bantları, Keltner Kanalları ve 
+MACD, çevrimiçi brokerların sunduğu hemen hemen her platformda yerleşik 
+olarak bulunur. TTM_Squeeze göstergesi, ToS platformunun ücretsiz bir 
+parçasıdır, diğer platformlar için satın alınabilir. Size o kadar da rahat olmayan 
+ama en azından ücretsiz olan bir geçici çözüm göstereceğiz.
+Bollinger Bantları
+Bollinger Bantları 1980'lerde John Bollinger tarafından geliştirildi ve yaygın 
+olarak kullanılıyor ve iyi belgelendi. Zaten bildiğiniz, teknik analizle ilgili 
+birçok kitapta ya da internette kolaylıkla bulabileceğiniz ayrıntılara girmeye 
+gerek olmadığını düşünüyoruz.
+Bollinger Bantlarının, varsayılan uzunluğu 20 periyot olan basit bir hareketli 
+ortalamadan ve sırasıyla 2 standart sapma üzerinde olan bir üst bant ve bir 
+alt banttan oluştuğunu özetleyelim. bu hareketli ortalamanın altında. Volite 
+azaldığında bantlar hareketli ortalamaya doğru daralacaktır.
+Bollinger Bantları hemen hemen tüm charng paketleri ve ticaret platformları 
+tarafından desteklenir. Varsayılan gönderimlerle sck yapabilirsiniz.
+Keltner Kanalları
+Keltner Kanalları Bollinger Bantlarına oldukça benzer, ancak standart sapma 
+yerine Ortalama Gerçek Aralık = ATR'yi kullanın; bu, standart sapma kadar 
+çılgınca dalgalanmayan, çok daha düzgün bir görünüm ve daha sabit genişlik 
+sağlayan bir sonuçtur.
+Keltner Kanalları oldukça standarttır ve bunları çoğu şarj paketinde ve 
+ticaret platformunda bulmalısınız. ATR için 20 periyotluk bir uzunluk ve 
+1,5 faktör kullanan varsayılan gönderimlere sahip Sck.
+Sıkmak
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Bollinger Bantları Keltner Kanalına doğru daraldığında volitede ciddi bir 
+düşüş gözlemliyoruz. John F. Carter şiddetle tavsiye edilen kitabı “Mastering 
+the Trade”de bunu bir sıkıntı olarak nitelendiriyor. Kısa süreli olabilir ama bir 
+süre daha devam edebilir. Ancak eninde sonunda Bollinger Bantlarının 
+Keltner Kanalı'ndan çıkışını ve beraberinde önemli bir yukarı veya aşağı yönlü 
+fiyat hareketi göreceğiz.
+Aşağıdaki grafikte Bollinger Bandının (kırmızı çizgiler) ve mavi çizgilerle 
+tanımlanan Keltner Kanalının gerçek hareketini izleyerek sıkışmayı 
+görebilirsiniz. Alt grafikte yatay çizgi üzerinde John Carter'ın TTM_Squeeze 
+göstergesini, sıkma girildiğinde noktaların maviden kırmızıya dönüştüğünü 
+görebilirsiniz. Histogram bir momentum göstergesidir. Gördüğünüz gibi her 
+iki gösterge de aynı sonuçları veriyor ve ikisinden birini kullanabilirsiniz. 
+TTM_Squeeze'e erişiminiz yoksa MACD gibi bir momentum histogramı 
+eklemek isteyebilirsiniz. Açıklığı ve basitliği nedeniyle kişisel olarak 
+TTM_Squeeze göstergesini tercih ediyorum. Hareketli ortalamalardan destek 
+ve direnç çizgilerine kadar istediğiniz her şeyi göndermek için yer bırakarak 
+ana grafiği ipucu vermez. Bahsettiğimiz gibi, bu gösterge şu anda yalnızca 
+Think or Swim (ToS) platformunda ücretsiz olarak mevcuttur. Bu platform, 
+çevrimiçi brokerler Thinkorswim.com ve TDAmeritrade.com tarafından 
+desteklenmektedir. Pek çok başka platform için de programlanmıştır ve 
+tradethemarkets.com web sitesinde mevcuttur, ne yazık ki ücretsiz değildir. 
+Kayıtlara geçmesi için şunu belirtelim ki, bu grupla hiçbir bağlantımız yoktur.
+Hizmet Şartları'nda bu güzel göstergeyi Çalışmalar -> Çalışma Ekle -> John Carter'ın çalışmaları 
+-> TTM_Squeeze altında bulabilirsiniz.
+Şekil 3: Sıkma
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Sıkışmanın sağlıklı çalışabilmesi için piyasa saati verilerini yalnızca hisse senetlerine ait 
+kullanmanız çok önemlidir. Hisse senedi alım satımı, hatalı fiyat hareketleri nedeniyle çok 
+zayıf olabilir. Bunu, Seng'in yukarısında grafiklerinizin altında nasıl kapatacağınızı 
+göstereceğiz. Altın veya ham petrol gibi dünya çapında işlem gören vadeli işlemlerde 24 
+saatlik verileri kullanabilirsiniz.
+Şekil 4: Grafik sinyalleri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Beni birleştirme seçicinin küçük anahtarına tıklayın. Bir sonraki ekranda hisse senetlerini 
+seçin ve ardından Genişletilmiş Oturumu Göster seçeneğinin işaretini kaldırın.
+Şekil 5: Grafik 2'yi gösteriyor
+Hareketli ortalamalar
+Hareketli ortalamanın ne olduğunu açıklamaya gerçekten gerek olmadığını düşünüyoruz. Bir 
+açıklamaya ihtiyacınız olursa Google'da aramanız yeterli.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Üstel hareketli ortalamaları kullanacağız. Uzunluğunu 13, 21 ve 55 
+olarak ayarlayacağız. Bu sayılar Fibonacci sayılarıdır. Bu bağlamda 
+herhangi bir sihir yaratacaklarına inanmıyoruz ama bu seçimin de 
+zararı yok. Sadece rahat ettiğiniz şeyi kullanın.
+Mum Çubuğu Grafikleri
+Mum sck grafikleri tüm paketler ve platformlar tarafından desteklendiğinden 
+aşina olacaksınız. Japonya'da 200 yıldan daha uzun bir süre önce icat 
+edilmişler ve Batı dünyasında Steve Nison tarafından 1991 tarihli kitabında 
+popüler hale getirilmişlerdir.Japon Candlesck Charng Teknikleri. O kadar 
+standart hale geldiler ki, bugünlerde bunları Microso Excel'de bile 
+oluşturabilirsiniz. Ticaret yaptığınız özel piyasada neler olduğuna dair çok iyi 
+bir görsel temsil sağlarlar. Bunların nasıl yorumlanacağı ve asılı adam, doji, 
+kara bulut örtüsü ve komik isimle diğer çeşitli oluşumların nasıl 
+anlamlandırılacağı çok sayıda mükemmel kitabın konusu olmuştur. Burada 
+ayrıntılara girmeyeceğiz.
+Heikin Ashi
+Ayrıca Japonya'da icat edilen bu grafikler, bazı benzersiz özelliklere sahip çeşitli mum 
+grafikleridir. Normal mum çubukları verileri olduğu gibi gösterirken Heikin Ashi 
+çubukları aşağıdaki gibi bir hesaplamanın sonucudur:
+Açık = (önceki çubuğun açılması + önceki çubuğun kapatılması) / 2
+Kapanış = (açık + yüksek + düşük + kapanış) / 4
+Yüksek = maksimum yüksek, açık veya kapalı (hangisi daha yüksekse)
+Düşük = minimum düşük, açık veya kapalı (hangisi daha düşükse)
+Aşağıdaki şekil aynı hisse senedi ve aynı dönem için Heikin Ashi ve mum 
+fitillerini yan yana göstermektedir. Heikin'in bunu hemen fark edeceksiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Ashi grafikleri çok daha yumuşak trendler gösteriyor. Aynı zamanda bar 
+kapanış fiyatlarının özel hesaplamalar nedeniyle gerçek verileri yansıtmadığını 
+da fark edeceksiniz. Bu nedenle bunları asla tek başına kullanmamalısınız. 
+Bunları yan yana bulundurmak iyi bir fikirdir.
+Güçlü bir yükseliş trendi, beyaz mumlarla ve yükselişte kuyruk olmamasıyla karakterize 
+edilirken, güçlü bir düşüş trendinde mumların fitili yoktur ve düz kırmızıdır.
+Şekil 6: Heikin Ashi ve mum çubukları
+Genel Piyasa Göstergeleri
+Her zaman piyasanın genel duygusunun farkında olmalısınız.
+Bana göre, güçlü bir hisse senedi genel piyasanın tam tersi yönde şiddetli bir şekilde 
+hareket edebilir. Mükemmel bir kurulumunuz varsa ve analizimizin her noktası aynı 
+hizadaysa, böyle bir hamle yapabilirsiniz ancak ekstra dikkatli olmalı ve muhtemelen 
+stoplarınızı güçlendirmelisiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Belirli bir düzenin yokluğunda, genel piyasaya karşı değil, onunla ticaret yapmalısınız. 
+Olasılıklar sadece biradır ve ticaret para kazanmakla ilgilidir, kahraman olmakla ilgili 
+değil. Piyasalarda kahramanlar genç yaşta ölür ya da gömleğini çok çabuk kaybeder.
+İzlenmesi gereken iki yararlı gösterge volspread ve ck endeksidir. Hizmet 
+Şartları platformunda semboller $VOLSPD ve $TICK'tir.
+Volspread, S&P 500'ün yukarı ve aşağı hacimleri arasındaki farktır. Bu 
+göstergeyi 5 dakikalık çubuklarla grafiklendirebilirsiniz. Bir bakışta piyasanın 
+yatay yönde hareket edip etmediğini veya boğaların mı yoksa ayıların mı 
+hareket ettiğini göreceksiniz.
+Ck endeksinin tanımı, yükselişte işlem gören hisse senedi sayısından düşüşte işlem 
+gören hisse senedi sayısıdır. Bu endeks çok kısa bir süre içinde büyük ölçüde 
+dalgalanabilir. Bunu 5 dakikalık bir grafik olarak görüntülemek gürültünün bir 
+kısmını azaltır. Ek olarak sıfır çizgisini vurguluyor ve trendi göstermek için doğrusal 
+bir regresyon kanalı ekliyoruz. ToS plaormunu kullandığım için John Carter'ın 
+çalışmaları altında bulabileceğiniz TTM_LRC'yi kullanıyorum. +400 ile -400 arasındaki 
+okumalar sadece piyasanın gürültüsüdür. +800'ün üzerinde veya -800'ün altında 
+okumalar alırsanız, bu boğaların veya ayıların ciddi faaliyet gösterdiğinin bir 
+işaretidir ve bunu ciddiye almalısınız.
+Aşağıdaki çizim sabah saat 11:00'de $VOLSPD'de çok hoş bir yükseliş 
+trendi gösterirken, cks me'nin çoğunu aşırı okumalar olmaksızın sıfır 
+çizgisinin üzerinde harcıyor.
+İki grafiği, acve grafiğindeki görünümü engellemeyecek bir 
+köşede küçük bir pencerede tutabilirsiniz.
+Şekil 7: Volspread ve cks
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Aynı dönemde SPX şu şekilde hareket etti:
+Şekil 8: S&P 500
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Zaman aralığı
+Hangi meframe'i seçtiğiniz gerçekten önemli mi?
+Evet ve hayır. Hisse senedi fiyat hareketlerinin doğasına genellikle 
+fraktal denir. Hareketlerde öyle bir benzerlik var ki, efsaneniz yoksa 
+hangi kareye baktığınızı anlayamazsınız. Aşağıdaki üç grafik, 15 
+dakikalık, saatlik ve günlük çubuklarla AMZN'ye aittir.
+Grafik analizi ilkesi tüm çerçevelerde aynı şekilde çalışmalıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Şekil 9: AMZN
+Şekil 10: AMZN
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Şekil 11: AMZN
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Ticaret faaliyetinizi günlük yaşamınıza nasıl dahil edeceğinizi düşündüğünüzde, 
+ticaret yapmak istediğiniz çerçevenin seçimi önem kazanmaktadır.
+Eğer işlem günü boyunca ekran karşısında oturacak benliğe, enerjiye ve 
+kararlılığa sahip bir günlük trader iseniz, takas yapmak için 5 dakikalık, hatta 3 
+dakikalık grafikleri seçebilirsiniz. Sizi piyasaya girip çıkaracak daha fazla sinyale 
+sahip olacaksınız. Daha fazla işlem, çok sayıda küçük kar ve zarar ve tabii ki daha 
+fazla komisyon anlamına gelebilir. Bazen sizi cömertçe ödüllendiren daha uzun 
+süreli bir trendi sürdürebileceksiniz.
+Günlük bir işiniz olabilir ve gün boyunca piyasayı takip edecek gücünüz veya 
+sabrınız olmayabilir. Hesap boyutunuz günlük ticaret yapmanıza izin 
+vermeyebilir. Bu sizi saatlik veya günlük grafiklerle sınırlayacaktır. Birkaç gün 
+süren bir trendi yakalarsanız oldukça başarılı olabilirsiniz. Aynı zamanda 
+duraklarınızın daha geniş olması gerekecek, bu da ara sıra size biraz ısı verebilir. 
+Pozisyon büyüklüğünüzü azaltarak, riskinizi daha yönetilebilir bir seviyeye 
+sınırlayarak bunu dengeleyebilirsiniz. Sadece uykunuzu etkilemeyecek kadar risk 
+alın.
+Bizim için ideal uzlaşma 15 dakikalık grafikten vazgeçmektir. Çoğunlukla 5 
+ila 10 bar uzunluğundaki trendleri yakalayabilirsiniz, bu da yaklaşık bir ila 
+iki buçuk saat anlamına gelir. Aynı hisse senedi size bir gün içinde 1 ila 3 
+işlem sağlayabilir. Elbette tek hisse senedinde işlem yapılmayan günler de 
+vardır. Ama yine de birden fazla izliyorsunuz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Heikin Ashi Trend ticaret stratejisi
+Şimdi birlikte hareket etmemiz ve bir trende nasıl erkenden girilebileceğinin ve bir takastan 
+vaktinden önce korkmadan onu neredeyse sonuna kadar nasıl sürebileceğimizin ana hatlarını 
+çizmem gerekiyor.
+Grafikleri Ayarlama
+Öncelikle ToS platformunda göstereceğimiz grafiklerimizi oluşturuyoruz. 
+Yalnızca standart araçlar ve göstergeler kullandığımız için bunu hemen hemen 
+tüm diğer platformlarda kopyalayabilmelisiniz.
+Ana sayfada, üst satırdaki Grafikler sekmesini ve altındaki satırdaki Grafikler 
+sekmesini seçin. Temiz bir ekran göremiyorsanız sağ üst köşedeki Sıfırla 
+seçeneğine tıklayın. Üzerindeki birkaç konumla, bir çalışma sayfasında kaç tane 
+grafik penceresi istediğinizi seçebilirsiniz. 2 bitişik olanı seçin.
+Yaptığınız işin ilerleyişini görmek için üst köşedeki kutuya bir işaret 
+sembolü koyun. Bu giriş kutusu ile tam şirket adı arasında
+üç renkli karedir. Bu simgeye tıklayın ve bir renk seçin. (1) Aynı rengi 
+seçerek sağdaki grafik penceresinde de aynısını yapın. Bu, bir grafikte bir 
+cker girdiğinizde diğerinin de aynısını otomatik olarak yapması sonucunu 
+doğurur.
+Şekil 12: Grafik kurulumu
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Daha sonra Stil'e tıklayın (2) ve açılır menüden Grafik Türü'ne (çubuk) gidin ve 
+sağa gidin ve Heikin Ashi'yi seçin. Sağdaki grafikte de aynısını yapın ancak 
+bunun yerine Mum Trendi'ni seçin.
+Şimdi me toplamayı 15 dakikaya değiştirin (3) şimdilik her ikisinde de. 
+Grafiklerinizde açık sarı gölgeli alanlar görüyorsanız, bu size piyasa saatlerinin de 
+görüntülendiğini gösterir. Hacim alt grafiğinde neredeyse hiç hacmin olmadığı 
+dönemleri de göreceksiniz. Sıkma göstergesini bozacak olan şey budur. Daha önce 
+açıklandığı gibi Genişletilmiş Oturumu Göster seçimini kaldırın.
+Hacim bir alt grafikte gösterilir ancak biz bunun grafikte üst üste gelmesini tercih 
+ederiz. Bunu değiştirmek için tekrar Grafik gönderme sayfasına gidin ve Genel 
+sekmesini seçin. Düzen altında Çakışan Birim kutusunu işaretleyin.
+Artık sıkıştırmayı kurmaya hazırız. Hizmet Şartları'nda bu güzel göstergeyi 
+Çalışmalar -> Çalışma Ekle -> John Carter'ın çalışmaları -> TTM_Squeeze altında 
+bulabilirsiniz.
+Hizmet Şartları'nız yoksa veya başka bir platformda bu göstergeye erişiminiz yoksa 
+Bollinger Bandını, Keltner Kanalını ve momentum göstergesini yukarıda açıklandığı 
+gibi ayarlayabilirsiniz. Bilgiler aynıdır, ancak TTM_Squeeze kadar düzgün değildir.
+Daha sonra hareketli ortalamaları ekliyoruz. Bunları trendin doğru tarafında 
+kalmak için kullanacağız. 13, 21 ve 55 periyot uzunluğundaki üstel 
+ortalamaları kullanıyoruz. Çalışmaları göndermeyi tamamladığınızda, bunları 
+uygun bir adla bir çalışma seti olarak kaydedin. Daha sonra diğer grafiğe 
+geçersiniz ve o çalışma setini yüklersiniz ve işiniz biter.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Her sabah izleme listemizi sıkışıklıklar için tararız. Uzun bir izleme listeniz varsa ve 
+yalnızca 15 dakikalık ben karesini taramak istemiyorsanız, bu sıkıcı olabilir. Piyasa 
+açılmadan önceki hafta boyunca 15 dakikalık sıkışıklıklar için bir tarama daha 
+yapıyorum. Ve bir hisse senedi sıkışmaya girdiğinde veya sıkıştığında beni 
+bilgilendirecek bir alarm kurdum.
+ToS'de, kolay çıktı sağlayan sıkıştırmalara yönelik hazır bir tarama henüz yoktur. 
+tradethemarkets.com web sitesinde kullanıcılardan biri Hizmet Şartları için çok 
+kullanışlı bir geçici çözüm yayınlamıştı. Farklı bir platformla çalışıyorsanız kodu 
+buna göre yeniden yazabilirsiniz.
+Dikkat:
+Lütfen bu taramayı yalnızca iyi bir tahmin olarak kullanın. Grafikleri 
+incelediğinizde ortaya çıkmalarına rağmen bazen taramada aktif 
+sıkışmalar görülmez.
+Bu arada şu anda farkında olmadığımız bir güncelleme mevcut 
+olabilir.
+Taramayı ayarlamak için ana ekranın dosya tarafındaki araçlar altında listelenen 
+izleme listenize gidin. Başlık Sembolünün sadece küçük noktasına sağ tıklayın. En 
+üstteki Özelleştir seçeneğini seçin. Burada öğe ekleyerek veya kaldırarak izleme 
+listesinde nelerin görüntüleneceğini değiştirebilirsiniz.
+Mevcut öğeler altında Özel etiketli öğelerden herhangi birine gidin ve çift tıklayın. 
+Durum Sihirbazı sekmesinin açılmasıyla birlikte Özel Teklif Formülü penceresi açılacaktır. 
+Görüntülenen bir öğeyi kaldırmak için Sil'e tıklayın ve ardından boş bir pencere açmak 
+için thinkScript Düzenleyicisi sekmesine tıklayın. Bu pencereye aşağıdakileri 
+kopyalarsınız:
+giriş BollingerDavions = 2,0; giriş BollingerUzunluğu = 20,0; giriş 
+KeltnerFaktörü = 1,5; giriş KeltnerUzunluğu = 20; girdi fiyatı = kapanış; def bk = 
+referans BollingerBandsSMA("num_dev_up" = BollingerDeviaons, "uzunluk" = 
+BollingerLength ).."üst bant" - referans
+KeltnerChannels("faktör" = KeltnerFactor, "uzunluk" = 
+KeltnerLength).."Upper_Band"; def grnconsecdots = eğer bk[0]>0 ve bk[1]>0 ise
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+ve bk[2]>0 ve bk[3]>0 ve bk[4]>0 ve bk[5]>0 ve bk[6]>0 sonra 7 else if bk[0]>0 ve 
+bk[1] >0 ve bk[2]>0 ve bk[3]>0 ve bk[4]>0 ve bk[5]>0 sonra 6 else if bk[0]>0 ve 
+bk[1]>0 ve bk[ 2]>0 ve bk[3]>0 ve bk[4]>0 sonra 5 else if bk[0]>0 ve bk[1]>0 ve 
+bk[2]>0 ve bk[3]>0 o zaman 4 else if bk[0]>0 ve bk[1]>0 ve bk[2]>0 sonra 3 else if 
+bk[0]>0 ve bk[1]>0 sonra 2 else if bk[0]>0 sonra 1 veya 0; def redconsecdots = if 
+bk[0]<0 ve bk[1]<0 ve bk[2] <0 sonra 3 else if bk[0]<0 ve bk[1]<0 sonra 2 else if 
+bk[0]< 0 sonra 1, yoksa 0; çizim sinyali = eğer grnconsecdots > 0 ise 
+grnconsecdots değilse redconsecdots + 10; signal.signValueColor (renk.BLACK); 
+questBackgroundColor( if bk[0] < 0 ardından color.red else if grnconsecdots< 7 
+ardından color.green else color.black);
+Sütun adına uygun bir ad verin ve toplamayı seçin. Uygula ve Tamam'a 
+tıklayın ve aynı işlemi bir sonraki Özel etikette tekrarlayın. 
+Bilgisayarınız tüm işi şikayet etmeden yapacağı için haftalık, günlük, 
+saatlik, 30 dakika, 15 dakika ve 5 dakikayı seçiyorum.
+Başlangıçta tüm alanların hesaplanması biraz zaman alacaktır. Bira görüntülemek için, 
+yazıcı simgesinin yanındaki küçük simgeye tıklayarak bu listeyi yeniden 
+boyutlandırılabilir yeni bir pencereye ayırabilirsiniz. Sonuç aşağıdaki gibidir:
+Şekil 13: Sıkıştırılmış tarama
+Acve sıkışıklıkları kırmızı, yeşil olanlar ise hissenin sıkışıklıktan çıktığını 
+gösteriyor. Yeşil kutucukların içindeki rakamlar kaç dönem sıkışmanın 
+dışında kaldığımızı gösteriyor. Kırmızı kutulardaki rakamlar çok net 
+değil, 11 sıkmadaki bir periyodu, 12 ise iki periyodu ifade ediyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+ve bundan daha uzun olanlar için 13. Bu rakamlara çok fazla 
+önem vermeyin, görsel inceleme çok daha önemli zaten
+İlk adım, bizim için 15 dakika olan seçtiğiniz ben çerçevesinde sıkışık durumda 
+olan hisse senetlerini belirlemektir. Listeyi o sütunda, kırmızı kutular listenin 
+üstünde olacak şekilde sıralıyoruz. Bunlar daha yakından incelenmeyi hak eden 
+adaylardır ve olası ticaret kurulumları için grafikleri görsel olarak inceleyeceğiz. 
+Daha yüksek bir çerçeve içerisinde sıkışma yaşayan hisse senetleri, volatilite 
+sıkışıklığından çıktıktan sonra daha uzun süreli trendler geliştirebilecekleri için 
+özel bir süreyi hak ediyorlar.
+Uzun giriş kuralları
+Hisse senedinizin, işlem yaptığınız ben çerçevesinde bir sıkışma içinde olduğundan emin olun. 
+Eğer daha yüksek bir ben'de de bir sıkışma görürseniz, bu her türlü sinyali güçlendirir.
+Hareketli ortalamaların doğru sırada istiflendiğinden emin olun. En kısa ortalamanın 
+yukarıya doğru ilerlemesi ve yukarıya doğru ilerlemek üzere olması sorun değil.
+Satın alma sinyali: Her ikisinin de kuyruğu çok küçük olan veya hiç olmayan başka bir 
+beyaz çubuğu takip eden beyaz bir Heikin Ashi çubuğu, sinyal çubuğudur. Bu iki çubuk 
+tipik olarak son 14 periyodun ortalama gerçek aralığının yaklaşık iki katı veya daha 
+fazlasını gösterecektir. Sinyal çubuğunun orta noktasında limiti olan bir satın alma emri 
+girersiniz ve bunun bir sonraki çubukta gerçekleştirileceğini umarsınız. Eğer dolgu 
+alamazsanız kovalamayın. Başka birçok fırsat var.
+Volite patlaması yaklaşık aynı noktada veya bir veya iki çubuk sonra 
+meydana gelecek ve momentum da genişleyecek, bu da doğru yolda 
+olduğumuzun iyi bir kanıtı.
+Kısa giriş kuralları
+Hisse senedinizin, işlem yaptığınız ben çerçevesinde bir sıkışma içinde olduğundan emin olun. 
+Eğer daha yüksek bir ben'de de bir sıkışma görürseniz, bu her türlü sinyali güçlendirir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Hareketli ortalamaların doğru sırada istiflendiğinden emin olun. En kısa ortalamanın 
+aşağıya doğru ilerlemesi ve aşağıya doğru ilerlemek üzere olması sorun değil.
+Satış sinyali: Her ikisinde de çok küçük fitiller bulunan veya hiç fitili olmayan başka bir 
+kırmızı çubuğu takip eden kırmızı bir Heikin Ashi çubuğu, sinyal çubuğudur. Bu iki 
+çubuk tipik olarak son 14 periyodun ortalama gerçek aralığının yaklaşık iki katı veya 
+daha fazlasını gösterecektir. Sinyal çubuğunun orta noktasında, bir sonraki çubukta 
+gerçekleştirileceğini umduğunuz limitli bir satış emri girersiniz. Eğer dolgu alamazsanız 
+kovalamayın. Başka birçok fırsat var.
+Volite patlaması yaklaşık aynı noktada veya bir veya iki çubuk sonra 
+meydana gelecek ve momentum da genişleyecek, bu da doğru yolda 
+olduğumuzun iyi bir kanıtı.
+Durur ve çıkar
+Sinyal çubuğunun hemen altına bir ilk durak yerleştirin. Durdurucuyu mevcut çubuğun 
+bir çubuk gerisinden takip edin. Bir çubuğun ardından bir veya daha fazla iç çubuk 
+geliyorsa, durdurmayı son konumunda bırakın ve iç ortam temizlendikten sonra onu 
+yukarı doğru sürmeye devam edin. Uzun kuyruklu ve fitilli bir veya daha fazla doji 
+gördüğünüzde bunu bir uyarı işareti olarak değerlendirin ve duraklarınızı güçlendirin. 
+Erken durdurulmaktan korkmayın. Güvenli tarafta olmak genellikle biradır. Bir devam 
+hamlesi gelişirse yeniden giriş için bir sinyal alacaksınız ve katılabileceksiniz.
+Not
+Sıkıştırma çok güvenilir bir kurulumdur çünkü hiçbir hisse senedi sonsuza kadar düşük 
+volatilite durumunda kalamaz. Ve bir sıkıştırmayı ortadan kaldırmak genellikle güçlü bir 
+hareketle yapılır. Sıkışmalara yönelik bir tarama bu adayları hızlı bir şekilde tanımlar. 
+Ancak hızlı hareket eden piyasalarda, sıkışıklığın gelişmesini gerektirmeyen veya 
+Bollinger Bantlarının yaklaştığı halde Keltner Kanalı'na nüfuz edemediği birçok durum 
+vardır.
+Heikin Ashi giriş kuralları en önemlileridir ve tek başına veya pazara 
+girmek için başka herhangi bir gerekçenin desteğiyle alınabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Gerçek hayattan örnekler
+9 Ağustos 2013 Cuma
+Heikin Ashi grafiğini 15 dakikalık bir grafik olarak bırakacağız ve normal mum 
+grafiğini şimdilik bir saatlik daha yüksek bir me çerçevesine ayarlayacağız. Bu 
+şekilde ana eğilimi gözlemleyebiliriz. Tüm me çerçevelerinde doğru bakış açısına 
+sahip olmak için mum grafiğindeki me çerçevesini 5 dakika ile bir saat arasında 
+sık sık değiştireceğiz.
+Daha önce yaptığımız taramada NFLX, tüm karelerde saatlik karelerden aşağıya doğru 
+sıkışmalar gösterdiği için aenon'umuzu çizdi. 15 dakikalık Heikin Ashi tablosunu görsel olarak 
+inceliyoruz:
+Şekil 14: NFLX kurulumu, 9 Ağustos 2013 Cuma
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+NFLX'in Cuma gününün çoğunda sıkışık bir durumda olduğunu ve günün başında 
+Heikin Ashi mumlarının tamamının uzun çubuğun içinde olduğunu fark ettik. Ayrıca 
+beyaz ve kırmızı arasında geçiş yapıyorlar ve birçoğu küçük gövdeli, uzun kuyruklu 
+veya fitilli doji barlardır, bu da açık bir kararsızlık işaretidir. Günün sonuna doğru 
+hareketli ortalamaların da teyit ettiği hafif bir yükseliş eğilimi görüyoruz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+bunlar düzgün bir şekilde doğru sırada istiflenmiş ve momentum orta 
+derecede pozitif bir eğilim gösteriyor. Ancak gerçek bir mahkum yok ve bu 
+sabahtan itibaren uzun çubukta işlem yapmaya devam ediyoruz. Bu bizi 
+hafta sonu pozisyon almaya ikna etmek için elbette yeterli değil ama 
+Pazartesi sabahı bunu yakından izleyeceğiz.
+12 Ağustos 2013 Pazartesi
+İşte Pazartesi günü yaşananlar:
+Şekil 15: NFLX, 12 Ağustos 2013 Pazartesi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Pazartesi sabahı yaşanan sabah bulantısı bizi biraz şaşırttı ancak yerleşik ticaret 
+aralığına doğru toparlanma çok hızlı oldu. Günün ikinci çubuğu görmek istediğimiz 
+biçimde, kuyruğu olmayan beyaz bir çubuk. Bunlardan bir tane daha görmemiz 
+lazım. Ancak sonraki iki çubuk, azalan momentumla yeniden kırmızı renkte. Ve 
+sadece iki çubuk sonra mükemmel şekilli uzun bir menzil görüyoruz
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+çubuk son 14 periyodun ortalama gerçek aralığından çok daha büyük. Aynı 
+zamanda bu sıkışıklığın dışında da ilk olandır. O uzun çubuğun orta 
+noktasından alış emri veriyoruz ve saat 11:00 gibi 254.25'te doluyor. İlk durağı 
+sadece 0,85 riskini göze alarak 253,40 olarak belirledik.
+Sonraki birkaç bar barların içinde olduğundan durağı olduğu yerde bırakıyoruz. 
+NFLX'in ilerlemeyi sindirmek için biraz bana ihtiyacı var ve yükseliş eğilimine 
+devam ettiğinde saat 13:00'te 254,75'e kadar durabiliriz. Yine çoğunluğu beyaz 
+çubuklardan oluşan bir dizi iç çubuk görüyoruz. Birkaç küçük doji var ve ivme 
+biraz zayıflıyor, bu da duruşlarımızı güçlendirecek bir uyarı işareti. Ayrıca 
+hamlenin şimdilik bitebileceğini söyleyen bir sıkışma da var. Sıkışmanın yalnızca 
+bir çubuk sürdüğünü bir sonraki çubuk kapanıncaya kadar bilemeyeceğiz. Bu aynı 
+zamanda işlem gününün son barı olacak. Kapanış zilinden önce çıkıp günün en 
+yüksek seviyesi olan 256.50'de 2.25 karla dolmaya karar veriyoruz.
+13 Ağustos 2013 Salı
+Şekil 16: NFLX, 13 Ağustos 2013 Salı
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Şekil 17: NFLX 13 Ağustos 2013 Salı 5 dakikalık mumlar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Pazartesi kapanıştan hemen önce bir nokta sıkışıklığı yaşadığımız için bir süre 
+kenarda oturmak istiyoruz. 5 dakikalık grafiğin (Şekil 17) gösterdiği gibi, bir 
+boşluk yaşadık ve ardından ciddi bir satış geldi. Güçlü yakınlaşmadan
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Pazartesi günü ertesi gün bir boşluk olacağını tahmin edebilirdik. Ancak açılış zilinin hemen 
+ardından yaşanan acımasız satışları görünce çok fazla hayal kırıklığına uğramadık.
+Sonraki üç Heikin Ashi barı güzel bir düşüş eğilimi gösterdi (Şekil 16). Neden 
+üzerine atlamadık? Çünkü hareketli ortalamalar pozitif bir şekilde yığılmış 
+durumda kaldı ve bir trend değişikliğini teyit etmedi. Saatlik grafiğin daha 
+yüksek meframe'ine bakıldığında hem trendin hem de momentumun kesinlikle 
+kırılmadığı görüldü.
+Uzun bir giriş şansına bakmayı tercih ederiz. 10:45 Heikin Ashi barı sinyal barıydı 
+ve orta noktasından limitli alıma girdik ve 256.50'de dolduk. Sinyal çubuğunun 
+altındaki ilk durağı 1,10 riskini göze alarak 255,40'a ayarladık. Durağı hızla 
+257.50'ye kadar takip edebiliriz. Sonraki üç çubuk çubukların içindeydi, bu 
+nedenle trend devam edene kadar durağı hareket ettirmedik ve durağı 13:15 
+çubuğunun hemen altındaki 260.30'a yükseltebildik. Fiyat grafiği, yükselişteki 
+ivmeye rağmen oldukça kararsızlık gösterdi. Sonunda 3,80 kârla 260,30'da 
+durdurulduk. Hareketli ortalamalar hala pozitif olduğundan ve Heikin Ashi 
+çubuklarının üstünde birkaç fitil olduğundan, açıkta kalmaya yetecek kadar 
+mahkum yoktu, bu da güçlü bir mahkumiyetin işareti değil. Biz de kapanıştan 
+önce yeni bir pozisyona girmek istemedik.
+14 Ağustos 2013 Çarşamba
+Çarşamba günü ilk yarım saatte önceki günkü gibi sert hareketlerle başladı. Lütfen 
+Salı gününü ve Çarşamba gününün çoğunu gösteren Şekil 16'ya bakın. İlk bar, 
+devasa bir kuyruğu ve fitili olan bir dojiydi ve yalnızca bir dönem süren bir sıkışma 
+üretiyordu. Hareketli ortalamalar hala pozitifti ve günün üçüncü çubuğu sinyal 
+çubuğu haline geldi. Orta noktada limitli alım emri girdik ve yerine getirilmedi. 
+$VOLSPD'yi kontrol ettiğimizde genel piyasanın oldukça zayıf göründüğünü gördük. 
+cks ayrıca hafif bir aşağı yönlü eğilimi olan gerçek bir mahkumiyet göstermedi; yine 
+de -800'ün altında birkaç okuma çok hızlı bir şekilde reddedildi. Kendimizi doğrama 
+modunda hissettik, satın alma siparişimizi iptal ettik ve günün geri kalanında 
+kenarda şarkı söylemeye devam ettik. Bir hamlenin peşinde koşmak bizim tarzımız 
+değil ve fırsatları başka yerde aramayı, hatta öğleden sonra izin almayı tercih 
+ediyoruz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Şekil 18: 14 Ağustos 2013 Çarşamba günü VOLSPD
+Şekil 19: 14 Ağustos 2013 Çarşamba günü keneler
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+15 Ağustos 2013 Perşembe
+Şekil 20: 15 Ağustos 2013 Perşembe günü NFLX
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Perşembe gününe bir önceki günün sıkışıklığı içinde geldik. İlk çubuk bizi 
+sıkışmanın patlamasıyla fırlattı ve oldukça şiddetli bir aşağı doğru hareket 
+yaşadık. Aynı zamanda fitili olmayan ikinci kırmızı çubuktu ve
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+kısa ve orta hareketli ortalamalar aşağıya doğru ilerliyordu, ancak yine de uzun 
+olanın üzerindeydi. S&P ve Dow büyük bir düşüş farkıyla açıldığından ve $VOLSPD 
+ile cks güçlü bir şekilde negatif olduğundan, orta noktada 259,60 seviyesinde 
+limitli bir açığa satış emri girdik. İlk durağı 2,30 riskini göze alarak 261,90'a 
+yerleştirdik. Yeni bar açılır açılmaz bu stopu 260,60'a indirdik ve riskimizi sadece 
+1,00'a düşürdük. Sabahın çoğunu sıfır çizgisinin altında geçiren ve 1.000 birkaç 
+me'ye ulaşan ck okumalarıyla çok ciddi bir satış gördük. Sıfır çizgisinin üzerine ara 
+sıra yapılan geziler düzenli olarak +400 seviyesinde reddedildi. Ve $VOLSPD 
+acımasızca düşüşe devam etti. Testere riskini sınırlamak için mevcut barın 
+arkasında bir çubuk yerine iki durağı takip etmeye karar verdik. Durdurmayı 
+genellikle bizim yaptığımız gibi bir önceki çubuğa ayarlamanız durumunda 
+durdurulurdunuz ancak çok geçmeden kısa pozisyona yeniden girmek için yeni 
+bir şansınız oldu.
+$VOLSPD ve $TICKS şu şekilde görünüyordu:
+Şekil 21: 15 Ağustos 2013 Perşembe günü VOLSPD
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Şekil 22: 15 Ağustos 2013 Perşembe günü keneler
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Saat 10:15'ten sonra birkaç doji ve iç çubuk aldık, NFLX'in olumsuz 
+momentumu ikna edici olmasa da biraz azaldı ve genel olarak piyasa 
+zayıflığın devam ettiğini gösterdi. Bu yüzden sindirim dönemini geçirmeye 
+karar verdik. 9 bardan sonra düşüş eğilimi nihayet yeniden başladı. 
+Durağımızı iki bar geriye doğru takip etmeye devam ettik ve günün son 
+barında 253.6o'da 6.00 karla durdurulduk.
+Güvenli tarafta olmak için kapanıştan önce yine de işlemden çıkardık. Böyle bir 
+hareketin ardından her şey bir gecede gerçekleşebilir ve karımıza zarar 
+verebilir.
+16 Ağustos 2013 Cuma
+Şekil 23: 16 Ağustos 2013 Cuma günü NFLX
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Cuma sabahı zor bir durumla karşı karşıya kaldık. Bu kadar derin bir inişten sonra, 
+bir geri çekilme hamlesi ya da ölü kedi sıçraması yapma isteğine kapılırız. Ancak 
+görünürde hiçbir yerde sıkışma yoktu. Haftalık grafiğe kadar tüm yüksek kareleri 
+kontrol etmek de bize bu sabah NFLX'i uzun süre oynamamız için bir bahane verecek 
+bir sıkıntı yaratmadı. Hareketli ortalamalar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Negatif düzende istiflenmesi bu kadar keskin bir düşüşten sonra mantıklıdır, böylece en iyi 
+ihtimalle kısa pozisyonlara dikkat etmemizi sağlar.
+Ancak günün ilk iki barı uzun kuyruklu ve fitilli iki dojiydi ve piyasada tam 
+bir kararsızlık vardı. Üçüncü çubuk, trendin değiştiğinin açık bir göstergesi 
+olan mükemmel şekilli, güçlü beyaz bir çubuktu ve biz de denemeye karar 
+verdik ve orta noktada 254,80'de dolan bir satın alma emrine girdik. İlk 
+stopu 2,00 riskini göze alarak 252,80 olarak belirledik. Biraz temkinli 
+davranarak stopu sadece bir bar geride takip ettik ve 4.30 karla 259.10'da 
+durduk.
+Aynı mantığı takip edersek 13:45 çubuğu kısa bir giriş için sinyal çubuğu 
+görevi görebilirdi. İşlem günü ve haftasında yalnızca 2 saat süre 
+olduğundan bu sinyali almamaya karar verdik. Ve Cuma, kapanışa doğru 
+genellikle hafif bir yukarı yönlü eğilime sahip olan vade sonu günüydü. 
+Defalarca deneyimlediğimiz için vade gününde her şey olabilir ve biz 
+sürprizlere aldırış etmedik.
+Güzel bir haftaydı. Sadece 4 işlemle hisse başına toplam 16,35$ 
+kazandık. Sadece 100 hissenin alım satımı bize haftalık komisyon öncesi 
+1.635$ kazandırdı. Bu pozisyondaki marj gereksinimi 9.000 dolardan az 
+olacaktı. Yüzdelere bağımlıysanız bu, haftalık %18'in üzerinde getiri 
+anlamına gelir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Son Açıklamalar
+Size tam bir hafta boyunca sadece dört işlemle tek bir hisse senedinin alım 
+satımını gösterdik ve Heikin Ashi trend alım satım stratejisinin basitliğini ve 
+gücünü fark edebileceğinizi umuyoruz. Bu hafta harika sinyaller veren tek hisse 
+senedi NFLX değildi ve buna ek olarak benzer sonuçlarla başka hisse 
+senetlerinde de işlem yapabilirdiniz.
+Birkaç genel açıklama yapmamıza izin verin:
+Birkaç karlı işlem yaptıktan sonra psikolojik bir tehlike bölgesine giriyorsunuz. 
+Kendinizi kaptırıp kurallarla, özellikle de zararı durdurma emirleriyle 
+oynamaya başlamak çok kolaydır. Bu benim için sıkıcı olsa da kurallarınıza 
+lanet olsun. Bu işe heyecan için değil, para kazanmak için giriyorsunuz.
+Gösterilen hafta boyunca tüm işlemler bizimki kadar iyi sonuçlanmayacaktır. Ara sıra 
+kayıpları beklemeniz ve kabul etmeniz gerekir. Onlar bu işin bir parçası.
+Riskinizi her durumda kontrol altında tutun. Bu, yalnızca gönderme ve takip eden 
+durdurma kayıplarını değil, aynı zamanda konum boyutunun sıkı kontrolünü de içerir. 
+Tabağınızı, uykunuzu kaybetmeden kaldırabildiğiniz kadar alın. Çeşitlendirme yoluyla 
+riski azaltmak, yatırımda harika bir kavramdır, ancak günlük ticarette buna güvenmeyin. 
+Kötü şöhretli siyah kuğuların uçup gitmesine gerek yok, sadece düzenli bir satış size 
+farklı bir şey öğretecektir.
+Veba gibi para kaybetmekten kaçının ve çabalarınızın aslan payını bu hedefe 
+ayırın. Kârlar kendi başının çaresine bakacaktır.
+Ayrıca pozisyonlarınızı sürekli izleyebilmelisiniz. Aynı anda kaç tanesini 
+idare edebileceğiniz, kişisel alan aralığınıza ve ne kadar ekran alanınıza 
+sahip olduğunuza bağlıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+- - $$$$$--
+Heikin Ashi Trend Ticaret Stratejimizi kullanarak kârlı işlemler 
+yapabildiğinizi içtenlikle umuyoruz. Bunu duymak isteriz. Başarı 
+öyküleriniz ve önerileriniz için e-postanızı şu adrese bekliyoruz: 
+traderhaddock@gmail.com .
+Cihazınızda sağlanan grafikleri düzgün göremiyorsanız, bize bir e-posta 
+göndermekten çekinmeyin; biz de onlara erişebilmenizi sağlayacağız.
+Ve tabii ki kitabı beğendiyseniz amazon.com'da kısa bir inceleme 
+bırakırsanız minnettar oluruz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

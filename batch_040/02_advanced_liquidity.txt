@@ -1,0 +1,391 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 1\Baskı 1\Gelişmiş Likidite Tekniği - Elad Menda (24 sayfa) - @eseckal.pdf
+PAGES: 24
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Elad Menda'dan İleri Likidite PDF'si
+Tamam öncelikle Likidite nedir:
+Likidite, bir varlığın veya menkul kıymetin piyasada fiyatını önemli ölçüde 
+etkilemeden hızlı bir şekilde alınıp satılabilme derecesini ifade eder. 
+Başka bir deyişle, bir varlığın önemli bir değer kaybına uğramadan nakde 
+çevrilebilme kolaylığıdır.
+Nakit veya büyük ölçekli hisse senetleri gibi yüksek likiditeye sahip varlıklar, 
+fiyatlarını önemli ölçüde etkilemeden piyasada kolayca alınıp satılabilir. Öte 
+yandan, gayrimenkul veya küçük ölçekli hisse senetleri gibi likiditesi düşük 
+varlıkların fiyatını düşürmeden hızlı bir şekilde satılması zor olabilir.
+Likidite aynı zamanda bir alıcının bir varlık için ödemeye hazır olduğu en 
+yüksek fiyat (teklif) ile satıcının kabul etmeye hazır olduğu en düşük fiyat 
+(asker) arasındaki fark olan alış-satış spreadini de etkiler. Oldukça likit bir 
+piyasada, benzer fiyatlarla işlem yapmak isteyen çok sayıda alıcı ve satıcı 
+olduğundan alış-satış farkı genellikle dardır. Ancak daha az likit bir piyasada 
+alış-satış farkı daha geniş olabilir, bu da belirli bir fiyatta işlem yapacak karşı 
+taraf bulmanın zorluğunu yansıtır.
+ŞimdiTicarette likidite ile ilgili kuru açıklamayı okuduktan sonra asıl meseleye 
+geçelim. Ticaretimizde likidite olarak neyi adlandırıyoruz? Bazıları buna SMC 
+veya ICT diyebilir ama ben buna bankaların manipülasyonu ve perakende 
+tüccarların algoritmaları diyorum.
+Bir sonraki sayfada likiditeyi kendi avantajımıza nasıl kullanabileceğimizi açıklamaya 
+başlayacağım.
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Peki, işlemlerimizde hangi likidite kastedilmektedir?
+Piyasada iki grubumuz var. Bazıları üç ya da daha fazla grup olduğunu 
+iddia edebilir ama ben onları iki grup olarak adlandırıyorum.
+Birinci grup: merkez bankaları, algoritmalar ve kurumlardan oluşur.
+İkinci grup: ABD perakendesidir.
+Birinci grup piyasadaki tüm parayı kontrol ediyor. Birinci grubun piyasayı 
+hareket ettirebilmesi için, hedefledikleri alana doğru satın almaya istekli 
+birine ihtiyaçları var. Diyelim ki ilk grup fiyatı 100$ düşürmek istiyor. Bunun 
+gerçekleşebilmesi için kendilerinden bu fiyata satın almaya istekli birine 
+ihtiyaçları var.
+Perakendeciler neden bu alanlarda alım/satım yapmak istesin?
+Çünkü duraklarını bu bölgelere koyuyorlar. Perakendeciler uzun pozisyon 
+açtıklarında uzun stop belirlerler. Fiyat bu durağa ulaştığında, hemen uzun 
+ticareti durduran kısa bir ticaret açar. Bu örnekte, uzun durağınız Satış Tarafı 
+Likidite (SSL) adını verdiğimiz kısa bir işlemdir. Perakendeciler kısa pozisyon 
+açtıklarında uzun stopun tersi olan kısa stop belirlerler. Kısa stop uzun bir 
+ticaret açar ve biz buna Satın Alma Tarafı Likidite (BSL) diyoruz.
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Yani ilk grup (bundan sonra onlara "bankalar" diyeceğim), bankalar satın alma 
+pozisyonları biriktirmek istediğinde perakende tüccarları piyasanın düşüş eğiliminde 
+olduğuna inandırmak için her zaman fiyatları manipüle ediyor. Benzer şekilde, bankalar 
+perakende tüccarları, satış pozisyonu biriktirmek istediklerinde piyasanın yükselişte 
+olduğunu düşünmeleri için manipüle ediyor.
+Grafikte Likidite nasıl tespit edilir?
+Tamam, şimdi muhtemelen zaten bildiğiniz likidite hakkındaki temel 
+açıklamayı ele aldığımıza göre, bunu ticaretimizde nasıl kullanabileceğimize 
+bakalım.
+Bir tüccar olarak, potansiyel ticaret fırsatlarını veya risklerini tespit etmenize yardımcı 
+olabileceğinden likiditenin nerede olduğunu anlamak istersiniz. Özellikle kurumsal 
+yatırımcıların, kolayca eşleşemeyecek kadar büyük hacimlerde işlem yapmaları nedeniyle 
+likidite konusunda dikkatli olmaları gerekir.
+Kurumlar genellikle piyasaları, perakende tüccarları belirli yerlerde zarar 
+durdurmalarını belirlemeye teşvik edecek şekilde tasarlayarak "kitleleri 
+kandırmaya" çalışır. Daha sonra buralara saldırarak büyük hacimli mevzilere 
+girebilirler.
+Onları alt etmek için likiditenin nerede olduğunu anlamanız ve onların 
+tuzaklarına düşmekten kaçınmanız gerekir. Bazı söylentilerin aksine, likidite 
+rastgele eski yüksek/düşük seviyelerde durmaz.Yerineperakende tüccarların 
+satın aldığı veya sattığı en yeni yerlerde bulunma eğilimindedir.
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Örneğin, düşüş yönlü bir yapıya sahip olsaydık, likidite muhtemelen düşüş 
+eğilimi sırasında oluşan yüksek seviyelerde kalırdı.
+Kurumlar aynı zamanda destek/direnç veya çift tepe gibi yeni likidite seviyelerini 
+oluşturmak için eski yüksek/düşük seviyelerinden de yararlanır. Bunu nasıl 
+yaptıklarını anlamak, onların hamlelerini tahmin etmenize ve oyunda bir adım 
+önde olmanıza yardımcı olabilir.
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Gelişmiş Likidite PDF. @menda_crypto
+SSL, BSL Nedir?
+Bunun ne olduğunu size zaten kısaca açıklamıştım ama şimdi size tablodan 
+örnekler vereceğim.
+Perakendecilerin siparişleri nasıl açtığına dair örnek:
+Daha temiz görünüm:
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Likidite Neden Bu Düşük?
+İşte açıklama:
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Destek ve Direnç alanlarında likidite. (SSl, BSL Havuzu)
+Perakende tüccarları direnç alanlarında yoğun açığa satış yapıyor ve destek 
+alanlarında yoğun alım yapıyor. İlk salınımda duraklarını direncin üzerine, 
+desteğin tersini ise ilk salınımda aşağıya yerleştirirler.
+BSL, SSL Havuzları Nedir?
+Perakende S&R Düzeylerini nasıl görüyor:
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Perakende bu fiyat hareketini görüyor ve son derece düşüş eğiliminde. (Ayı 
+piyasası yapısı + Direnç alanı)
+Likidite Dışı, Likidite Yüksek/Düşük Noktaları nasıl belirlenir? (Çok önemli.)
+Ticarette bir fib geri çekilme aracımız var. Bu araçta yalnızca 1,.5, 0 seviyelerine 
+ihtiyacınız vardır. 0,5 seviyesinin altındaki alana İndirim, 0,5 Seviyesinin üzerindeki 
+alana ise Premium diyoruz.
+PURE piyasa yapısında Fiyat, 5 seviyesinin altına/üstüne çıkmadığında Düşük/
+Yüksekler Likidite değildir çünkü perakendenin satın alma şansı yoktur. (perakende 
+satışlar yalnızca fiyat 0,5'in altına/üstüne düştüğünde alım/satım yapar)
+SADECE SAF PİYASA YAPISI İÇİN BUNU ANLAMAK ÇOK ÖNEMLİ! 0,5'in üstüne/
+altına gelmeyen destek ve direnç alanları varsa bunlar likiditedir.
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Likidite Baskını Nedir?
+Artık grafiklerde Likiditeyi nasıl belirleyeceğimizi ve doğru olanları nasıl tespit edip 
+geçersiz olanlardan nasıl kaçınacağımızı öğrendikten sonra, bu alanları nasıl 
+avantaja çevirebileceğimizi öğrenebiliriz.
+Mühendislik Likidite aşaması, fiyatın neredeyse tüm geri çekilmelerde 
+indirime/prime dönmesi ve birçok perakende tüccara girmesi nedeniyle 
+özeldir.
+Likidite baskını Algo'nun Likidite Seviyelerine doğru hareketidir.
+Algo hamlesinin özelliği çoğu zaman fiyatın premium/indirim alanlarına 
+dönmemesi ve dolayısıyla perakende yatırımcıların bu harekete girmesinin 
+engellenmesidir.
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Bankalar perakendeyi nasıl manipüle ediyor? Örnek:
+Burada, fotoğraflardaki açıklamalarla birlikte S&R Grafiğinin bazı fotoğraflarını 
+göreceksiniz:
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Şimdi tüm bu fotoğrafları özetleyecek olursak:
+Bu Yol örneğinde, algoritmanın ve bankaların perakendeyi bankaların yapmak 
+istediği şeyin tersini yapacak şekilde nasıl manipüle ettiğini görebilirsiniz.
+Siyah yolda bankaların perakende satışları bizim düşüş eğiliminde olduğumuzu 
+düşünerek manipüle ettiğini ve onları çok sattırdığını görebilirsiniz. Satış yaparak çok 
+fazla SSL Likidite sağladılar.
+Kırmızı Yol'da bankaların tüm durakları alarak perakendeyi bizim Boğa yanlısı olduğumuzu 
+düşünmeleri için nasıl manipüle ettiklerini görebilirsiniz.
+Turuncu renkte, fiyatın tüm perakende satış noktalarını Boğa yapısına geçtiğimizi 
+düşünmeye yönelttikten sonra bankaların fiyatı tekrar düşürdüğünü ve 
+perakende satışları yeniden durdurduğunu görebilirsiniz.
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Şimdi! Likidite kullanarak işlemlere nasıl girebiliriz?
+Aklınıza getirmeniz gereken ilk şey, likiditenin herhangi bir tarafı alınmadan 
+işlem yapmıyoruz.!
+Hep bir tarafın alınmasını bekliyoruz ve sonra harekete geçmeye bakıyoruz. 
+PD dizilerini aramaya ancak likiditenin bir tarafı temizlendikten sonra 
+başlıyoruz.
+Diyelim ki SSL'yi temizledik ve hedeflenecek bir BSL yoksa aşağıya doğru hedeflemek 
+istiyoruz. Bu takası kabul etmiyoruz! Bsl almak için de aynı şey geçerli ve SSL 
+kalmadı. Yalnızca üzerinde çalışabileceğiniz net bir likiditeniz varsa işlem 
+yapıyorsunuz demektir!
+Benim yolum, Likidite tarafında temizlikten sonra ilk FVG'yi aramak.
+Peki bu FVG'ye Alt zaman dilimlerinde nasıl girebiliriz?
+FVG'de açığa satış yapmak istiyorsanız, fiyatın yavaş yavaş FVG'ye doğru gelmesini ve bol 
+miktarda Likidite yaratmasını istersiniz.
+Eğer fiyat herhangi bir Likidite yaratmadan ani bir hareketle geliyorsa, bunu 
+aşmak isteyeceksiniz veya fiyatın, fiyatın düşmesini destekleyecek bir likidite 
+kralı yaratmasını bekleyin.
+Fiyatın FVG'ye nasıl ulaşabileceğine dair 2 senaryo var
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Gelişmiş Likidite PDF. @menda_crypto
+İlk senaryo:
+İkinci senaryo:
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Bunu anlamak çok önemli!
+PD dizilerini ancak likiditenin bir tarafı temizlendikten sonra arıyoruz.
+Fiyat Birikiminin fiyatta nasıl göründüğü
+Bu Alanlar çok çabuk temizlenme eğilimindedir. Fiyatın böyle belirli bir yönde 
+hareket ettiğini görürseniz bunun uzun sürmeyeceğini bilin.
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Gelişmiş Likidite PDF. @menda_crypto
+LRLR,HRLR Likidite Çalıştırmaları:
+HRLR (Yüksek Dirençli Likidite Koşusu) Nedir?
+Piyasa, önemli fiyat seviyeleri gibi birden fazla direnç alanıyla karşı karşıya 
+kaldığında Yüksek Dirençli Likidite Koşusu (HRLR) meydana gelir. Bu direnç 
+noktaları, belirli bir fiyat seviyesini aşmak gibi belirli bir hedefe ulaşmak için 
+piyasanın aşması gereken engeller oluşturur. HRLR senaryolarında, alıcılar ve 
+satıcılar net bir yön belirlemekte zorlanırken piyasada artan volatilite 
+yaşanabilir. HRLR'ler genellikle daha az elverişli koşullar olarak görülüyor 
+çünkü yatırımcıların piyasada kârlı bir şekilde ticaret yapmasını 
+zorlaştırıyorlar.
+LRLR (Düşük Dirençli Likidite Koşusu) nedir?
+Buna karşılık, Düşük Dirençli Likidite Koşusu (LRLR), belirli bir hedefe ulaşmak 
+için piyasanın aşması gereken direnç noktalarının daha az olması durumunda 
+ortaya çıkar. LRLR senaryolarında piyasa, likidite alanlarında daha kolay hareket 
+edebilir, bu da yatırımcılar için daha yumuşak fiyat hareketlerine ve potansiyel 
+olarak daha yüksek karlılığa yol açar.
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Gelişmiş Likidite PDF. @menda_crypto
+LRLR ve HRLR'nin bazı grafik örnekleri:
+Örnek 1:
+Örnek 2:
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Artık Gelişmiş Likidite açıklamasını birkaç kez okuduğunuza göre gerçek 
+grafik örneklerine geçelim.
+İlk Örnek:
+Bu örnekte fiyatın, perakende tüccarları, düşüş yönlü piyasa yapısı ve güçlü 
+direnç nedeniyle piyasanın son derece düşüş yönlü olduğunu düşünmeye 
+sevk ettiğini görebiliyoruz.
+Bu, çok sayıda BSL geçerli likiditenin üretilmesine yol açıyor. Fiyat daha sonra tüm bu 
+BSL'yi yağmalıyor ve perakende tüccarları, uzun pozisyon alma zamanının geldiğini 
+düşünmeye yönlendiriyor. Ancak bu manipülasyondan sonra fiyat düşmeye devam 
+ediyor.
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Gelişmiş Likidite PDF. @menda_crypto
+İkinci Örnek:
+Bu örnekte, fiyatın perakende tüccarların 0,5'in üzerindeki her geri çekilmede 
+girdiği düşüş yönlü bir yapı oluşturarak nasıl kısa pozisyon biriktirdiğini 
+gözlemleyebiliriz. Daha sonra fiyat, üç dokunuşla bir direnç yaratır ve bu da 
+tam bir Satın Alma Tarafı Likidite havuzu oluşturur.
+Daha sonra piyasanın algo itici bir hareketle nasıl pompalandığını görebiliriz.
+Fiyat, perakende tüccarlarını piyasanın düşüş eğiliminde olduğuna inandırdı, ancak 
+daha sonra yükselişe geçti ve tüm durakları aldı.
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Üçüncü Örnek:
+Price, hem SSL hem de BSL olmak üzere çok fazla likiditeyi birleştirir ve 
+tasarlar. Bu senaryoda likidite taraflarından birinin alınmasını bekliyoruz, 
+ardından karşı tarafın alınmasını hedefliyoruz. Bu durumda BSL alındı   ve 
+artık hedefimiz SSL oldu
+Bu modelin burada gerçekleştiğini görebiliriz:
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Dördüncü Örnek (Likidite temizliği sonrası girilecek doğru senaryo 
+örneği):
+Fiyat, SSL havuzunu yavaş yavaş düşüş eğilimi gösteren bir yapıya (birikim) 
+doğru alıyor ve pek çok perakende satıcıya giren dürtüsel bir hareket değil.
+Bu, bu SSL havuzunu aldıktan sonra fiyatın hemen BSL'ye geçeceğini 
+gösteriyor.
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Beşinci örnek:
+Fiyat, herhangi bir yeni Likidite oluşturmayan ani bir hareketle SSL 
+Havuzunu temizliyor, dolayısıyla fiyatın tersine dönmesini beklemiyoruz
+BTC Gerçek Grafiği Örneği:
+İlk fotoğrafta fiyatın iki likidite hedefi olduğunu görebiliyoruz. Ancak bu özel 
+senaryoda, yükseliş yapısı ve fiyatın çok fazla BSL seviyesi aldığı göz önüne 
+alındığında, perakende alıcıların satıcılardan daha fazla olduğunu 
+varsayabiliriz. Dolayısıyla bu durumda öncelikle BSL'den sonra SSL'nin 
+alınacağını öngörüyoruz. Bunun nedeni şu anda algoritmanın satış tarafı 
+likiditesini almasının daha karlı olması çünkü BSL'den daha güçlü.
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Gelişmiş Likidite PDF. @menda_crypto
+İkinci Fotoğraf:
+Fiyat, daha güçlü SSL oluşturmak için bu yükseliş yapısına birçok 
+perakende alıcının girdiği indirim alanında konsolidasyon yapıyor. (BUNU 
+ANLAMAK ÇOK ÖNEMLİ)
+Üçüncü Fotoğraf:
+Price SSL'nin tamamını aldı. Yani artık perakende satışların neredeyse tamamı düşüş 
+eğiliminde! SO, eğer tüm SSL'yi temizlediysek ve geriye SSL kalmadıysa, bir sonraki hedefimiz 
+perakende kısa durakları (BSL) almaktır. Yani bu alanda SSL'nin altındaki ilk FVG'de uzun 
+pozisyon alabiliriz.
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Gelişmiş Likidite PDF. @menda_crypto
+Dördüncü Fotoğraf:
+BSL'yi temizlemek için fiyat arttı.
+Tüm bu fotoğrafları özetlemek gerekirse:
+Öncelikle piyasada hem perakende satıcılar hem de alıcılar vardı. Bu nedenle 
+perakende alıcıların mı yoksa satıcıların mı daha fazla olduğunu analiz ettik. 
+Analizimiz sonrasında perakende alıcıların satıcılardan daha fazla olduğunu 
+gördük. Bu nedenle SSL'ye odaklanmaya karar verdik. Fiyat SSL'yi aştığında 
+SSL'nin altındaki ilk FVG'yi aradık ve BSL'ye doğru uzun bir pozisyon girdik. 
+Bunun nedeni çoğu perakende tüccarın bu alanda açığa satış yapmasıydı.
+Tamam, PDF'nin sonuna geldik. Göreviniz, size öğretilen her şeyi tekrar test 
+etmek ve bu konuda uzmanlaşmaktır. Sizi temin ederim ki, gereken 
+çalışmayı gerçekten yaparsanız, piyasayı daha önce hiç olmadığı kadar 
+tahmin edebileceksiniz.
+TİCARETİNİZDE İYİ ŞANSLAR!
+Bu Eğitimsel Likidite PDF dosyasının tüm hakları Elad Menda'ya aittir.
+(@menda_crypto). Lütfen telif haklarına saygı gösterin
+www.forexgercekleri.xyz - [Twitter: @eseckal]

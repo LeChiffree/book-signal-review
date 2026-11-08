@@ -1,0 +1,2051 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 22\Baskı 22\E-mini Dow ve Mini DAX için Hızlı Al-Sat (Scalping) Yöntemleri - Teva Lama (78 sayfa) - @eseckal.pdf
+PAGES: 78
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+Önsöz
+Heikin-Ashi Mumlarını Kullanarak Giriş ve Çıkış Noktaları Nasıl Bulunur
+Dojiler ve dönen toplar Trendin 
+tersine dönmesi
+Scalping Mini Serileri
+Pivot noktalarının scalpingi 
+Stop loss'ların yönetimi
+Destekler, Dirençler ve Önemli Fiyat Seviyeleri 
+Fiyat Hedefinizi Nasıl Seçersiniz
+Risk iştahınızı ayarlayın 
+Ürünlerinizi Tanıyın
+DAX geleceği
+Mini DAX ve e-mini Dow
+Hangi Piyasada ve Hangi Brokerla İşlem Yapılmalı Ne Zaman 
+İşlem Yapılmalı ve Ne Zaman İşlem Yapılmamalı
+Mini-DAX ve DAX ön piyasa açılışında işlem 
+yapmak Son Bir Tavsiye
+Çözüm
+Sözlük
+Yazar hakkında
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Önsöz
+Borsada her alım veya satım yaptığınızda, fiyatların 
+doğru yönde hareket etme olasılığı %50 ve ters yönde 
+hareket etme olasılığı %50'dir. Bu şu soruyu gündeme 
+getirir: Özel yatırımcıların %90'ı özellikle CFD'ler gibi 
+türevlerde neden para kaybediyor? Yatırımcılara yardımcı 
+olmak için çok sayıda teknik gösterge mevcutken, neden 
+sadece birkaç yatırımcı kazanç elde etmeyi başarıyor ve 
+daha da azı ticaretle geçimini sağlıyor?
+Cevap insan psikolojisinde yatıyor. Hazırlık eksikliği, kötü risk yönetimi, 
+yerinde stop-loss olmaması, küçük karları nakde çevirmek ve bir geri 
+dönüş umuduyla büyük zararların devam etmesine izin vermek.
+Bu kitapla, bu tür durumlara yakalanmamanız için size araçlar 
+vermek istiyorum. Düzenli kazançlar biriktirme ve kayıplarınızı 
+sınırlama amacıyla bir robot gibi işlem yapmanızı sağlayacak 
+araçlar. Scalping, minimum riskle, umut ve şüpheye en az yer 
+bırakarak karınızı adım adım oluşturmayı gerektirir. Scalping, 
+kısa zaman dilimlerinde işlem yapmanızı sağlar. Pozisyonlarınız 
+gün sonundan önce kapatılır, böylece boş zamanınızın tadını 
+çıkarabilir ve açılan pozisyonlar ve olası kayıplar hakkında 
+endişelenmeden iyi bir gece uykusu çekebilirsiniz.
+Scalping, kısa zaman dilimlerinde (çoğu zaman saniyeler; çoğu 
+zaman da birkaç dakika) pozisyon açıp kapatmak ve böylece 
+tekrar tekrar küçük kazançlar elde etmek anlamına gelir.
+Scalping'i günlük işlem, swing işlemi veya uzun vadeli işlem yerine 
+önermemin başlıca nedenleri şunlardır:
+Scalping, bir swing trader veya uzun vadeli trader olmaktan 
+daha hızlı bir şekilde yeni başlayan biri olarak işlem deneyimi 
+kazanmanın en iyi yoludur çünkü bir scalper daha sık işlem 
+gerçekleştirebilir. Scalper'lar hatalarından hızla ders 
+çıkaracaktır. İlerledikçe nasıl öğreneceğinizden emin olmanızı 
+açıklayacağım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Scalper'lar sıkı stop-loss'lar kullanır ve "kazançlarınızı maksimize 
+edin ve kayıplarınızı minimize edin" sözünün tamamen doğru 
+olduğunu kanıtlar. Stop-loss'unuz tetiklenirse daha yüksek 
+başarı olasılığı ve minimum kayıp olan giriş noktalarını nasıl 
+bulacağınızı açıklayacağım.
+Scalping yaparken, kayıplar daha küçüktür ve katlanılması 
+daha kolaydır, bu da psikolojik olarak konuşursak, scalpingi 
+günlük işlemden veya swing işlemden daha kolay hale getirir. 
+Günlük işlem ve swing işlem yaparken, hedef daha büyük 
+karlardır, bu nedenle, giriş noktanızdan daha uzakta bir stop-
+loss ayarıyla birlikte daha büyük kayıplar da düşünülmelidir. 
+Aksi takdirde, stratejiniz ilk etapta doğru olsa bile çok sık 
+durdurulma riskiyle karşı karşıya kalırsınız.
+Günün sonunda pozisyonlarınız kapatılacak ve bu da 
+günlük yatırımcılara ve swing yatırımcılarına kıyasla 
+scalper için belirgin bir avantaj. Scalper'lar, gece 
+boyunca veya hafta sonu açık pozisyonları 
+etkileyebilecek haberler hakkında endişelenmeden iyi 
+bir gece uykusunun tadını çıkarabilirler. Ayrıca, 
+pozisyonları gece boyunca açık tutmak, scalper'ın 
+tasarruf edeceği hesabınıza yansıtılan finansal 
+maliyetleri tetikler.
+Scalper'lar gün sonunda sonuçlarını gördüklerinde daha fazla tatmin 
+olurken, swing trader'lar stratejilerinin işe yarayıp yaramadığını 
+görmek için birkaç gün veya hafta beklemek zorunda kalırlar. 
+Scalper çoğunlukla 15 dakikalık veya daha hızlı zaman dilimi 
+grafikleri kullanır, bu da günlük trader'ların ve swing trader'ların 
+scalper'lardan daha az giriş noktası bulabileceği anlamına gelir. 
+Günlük trader'lar ve swing trader'lar stratejilerini çoğunlukla günlük 
+ve saatlik grafiklere dayalı yavaş çekim sinyalleri üzerine kurarlar.
+Bu bölümü kapatmadan önce kendimi tanıtacağım. Eski aylık 
+ödeme sistemi yürürlükteyken 20 yıldan fazla bir süre önce Paris 
+borsasında işlem yapmaya başladım. Ayrıca Londra'da büyük 
+kurumlar ve önde gelen bir kredi derecelendirme kuruluşu için 12 
+yıllık çalışma deneyimim var. Fransız bir işletme okulu olan Ecole 
+Supérieur de Commerce'den (ESC) Finans Lisans derecesine 
+sahibim. İlk başta, kendi adıma işlem yaparken daha çok bir swing 
+tüccarıydım ve scalping'e geçtim
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Boş zamanlarımda internet ve düşük aracılık ücretleri sayesinde daha kısa 
+zaman dilimlerinde işlem yapma olanağı buldum.
+Ancak prestijli derecelere güvenmek yerine, başarılı bir yatırımcı 
+olmak için scalper'ların belirli kurallara uyması gerekir:
+Son derece titiz olun ve olumsuz veya olumlu durumlarda 
+ruh halinizin işlemlerinizi etkilemesine izin vermeden robot 
+gibi işlem yapın.
+Falcı gibi davranmayın. Scalper'lar piyasanın nereye 
+gittiğini tahmin etmeye çalışmazlar, sadece piyasanın 
+sunduğu kısa vadeli fırsatlarla işlem yaparlar. Piyasanın 
+içinden geçtiği aşamalara bağlı olarak farklı şekilde 
+nasıl işlem yapacağınızı göstereceğim.
+Her zaman çalışma planınıza sadık kalın: bir sinyalle 
+piyasaya girin ve hedefe ulaşıldığında veya bir sinyal 
+tetiklendikten sonra çıkın. Stop-loss emrinizi, bunun 
+doğru olma şansını artıracağını düşünerek asla 
+uzaklaştırmayın.
+Başarı ayağınıza geldiğinde açgözlü olmayın ve 
+kârınızı hızla artırmak için yüksek kaldıraçlı işlemlere 
+yönelmeyin.
+İşlemlerinizi titizlikle kaydedin ve iyi ve kötü işlemleri 
+analiz etmek için istatistiklerini düzenli olarak kontrol 
+edin. Ne yaptığınızı takip etmek sıkıcı görünebilir, 
+özellikle de günde 20 ila 30 işlem gerçekleştiriyorsanız, 
+ancak zayıflıklarınızı vurgulamanıza ve bunları 
+geliştirmenize yardımcı olacaktır. Zayıflıklar yalnızca 
+kaybedilen işlemlerde değil, olması gerekenden daha 
+düşük kar getiren kazanılan işlemlerde de bulunabilir.
+Aylık geçim geliri elde etmenin bir yolu olarak değil, 
+bir hobi olarak ticareti düşünün. Özellikle yatırım 
+getirisini artırma umuduyla brokerlar tarafından 
+aşırı risk almaya kandırılan yeni başlayanlar için 
+bunda ısrar ediyorum.
+Motivasyon en önemli şeydir. Bilgisayarınızın önünde 
+saatlerce oturup grafiklere bakmak, aynı görevleri tekrar 
+tekrar yapmak yakında sıkıcı hale gelebilir. Eğer sizin için 
+durum buysa, scalping'ten uzak durun.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+yeni başlayanlara her gün en fazla birkaç saat ticaret 
+yapmalarını ve deneyimin tadını çıkarmalarını tavsiye 
+eder. Bu yaklaşımın bazen daha ödüllendirici 
+olduğunu göreceksiniz.
+Pratik yapmak daha iyi hale getirir. Profesyonel tenisçiler, 
+piyano virtüözleri veya bir spor veya disiplinde uzman olan 
+herhangi biri, bir spor veya sanatta ustalaşmanın ancak 
+düzenli antrenmanla elde edilebileceğini bilir. Ticaret 
+maratonunu koşmak ve uzun vadede başarılı olmak 
+istiyorsanız, her gün pratik yapmanız gerekir. Deneyimle, 
+sonunda ne zaman ticaret yapacağınızı ve ne zaman 
+yapmayacağınızı bileceksiniz.
+Son olarak, bu kitabın başlığı "E-Mini Dow, Mini DAX ve DAX 
+Vadeli İşlemlerinin Scalping'i" de olabilirdi; çünkü bu kitapta 
+sunduğum çalışma yöntemi DAX vadeli işlemlerine veya 
+piyasalarda önemli hacimlerde işlem gören diğer vadeli işlem 
+sözleşmelerine de uygulanabilir. Ancak, bu uzun bir başlık 
+olurdu. Bu arada, bu ürünü işlem yaparken DAX vadeli 
+işlemleriyle ilgili grafikleri de kullanacağım.
+Önsöz yeter; şimdi konuya girelim!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Heikin-Ashi Mumlarını Kullanarak Giriş ve Çıkış 
+Noktaları Nasıl Bulunur
+Japon mum grafikleri hakkında zaten bilginiz varsa, 
+Heikin-Ashi mumları benzer görünecektir. Karşılaştırma 
+bu kadardır çünkü Heikin-Ashi mumları farklı şekilde 
+hesaplanır. Her mum için,Nseçilen zaman dilimi:
+Kapanış HA = [açılış HA(n) + yüksek (n) + düşük (n)
++ kapanış (n)] / 4;
+Burada “kapanış (n)” seçilen zaman dilimi için 
+kapanış fiyatı iken, “açılış HA (n)” aşağıda 
+açıklandığı gibi hesaplanmış bir ortalamadır;
+Açılış HA (n) = [açılış HA (n-1) + kapanış HA 
+(n-1)] / 2;
+En yüksek değer, bu 3 öğenin en yükseği 
+olacaktır:
+Gerçek mumun en yüksek fiyatı Açılış 
+HA (yukarıda açıklandığı gibi) Kapanış 
+HA (yukarıda açıklandığı gibi)
+En düşük değer, bu 3 maddeden en düşüğü olacaktır:
+Gerçek mumun en düşük fiyatı Açılış 
+HA (yukarıda açıklandığı gibi) Kapanış 
+HA (yukarıda açıklandığı gibi)
+Şekil 1’de Heikin-Ashi mumlarının nasıl temsil edildiği gösterilmektedir.
+Şekil 1. Heikin-Ashi mumları
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Açılış fiyatıNbu nedenle, önceki mumun açılış HA fiyatı ve 
+kapanış HA fiyatına dayalı hesaplanmış bir ortalamadırn-1
+Formüle uygun olarak mumun gövdesiNher zaman orta 
+fiyattan başlayacakn-1 mum.
+Endişelenmeyin; bu kitaba çok fazla matematik 
+eklemeyeceğim. Ancak Heikin-Ashi mumlarının hesaplanmış 
+ortalamalar olması nedeniyle "gürültüyü" kesip bir eğilimi 
+daha net görmemizi sağladığını anlamak iyi olur. Aşağıdaki 
+iki grafik aynı anda oluşturuldu. İlki standart mum 
+görünümünü gösterirken, ikincisi aynı eylemin Heikin-Ashi 
+görünümünü gösterir.
+Şekil 2. E-mini Dow Future, 1 dakikalık zaman dilimi, kullanılarak
+şamdanlar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Şekil 3. E-mini Dow Future, 1 dakikalık zaman dilimi, kullanılarak
+Heikin-Ashi mumları
+Şekil 3'te gösterildiği gibi Heikin-Ashi mumları daha net bir resim 
+sunar. Kısa zaman aralığında trend değişimlerini gösterirler
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Şekil 2'de gösterildiği gibi, geleneksel mumlar yeşil ve kırmızı mumların bir karışımını gösterirken, 
+çerçeveler yeşil ve kırmızı mumların bir karışımını gösterir.
+Dalgalı bir piyasada, bir scalper piyasaya girmek ve piyasadan 
+çıkmak için Heikin-Ashi mumlarındaki kısa renk değişimlerinden 
+faydalanabilir. Geleneksel mumlarda, trader'ın scalper için 
+kullanışlı olmak için genellikle çok yavaş olan diğer analitik 
+araçlara güvenmesi gerekir. Heikin-Ashi mumları size piyasa 
+gücü bilgisi sağlar. Mumlar ne kadar büyük ve en az gölge veya 
+kuyruk varsa, hareket o kadar güçlü olur. Ters yöndeki daha 
+uzun gölgeler, zayıflayan bir trendi ve özellikle doji kalıpları 
+belirmeye başladığında olası bir trend değişimini gösterir.
+Dojiler ve topaçlar
+Dojilerin gösterilecek bir gövdesi neredeyse yoktur, bu da açılış ve 
+kapanış değerlerinin aynı veya çok yakın olduğunu gösterir. Aynı 
+şekilde, dönen tepelerin gövdeleri kısadır. Dojiler ve dönen tepeler, 
+bir trendin gücü tükenmeye başladığında ortaya çıkmaya başlar. 
+Bunlar, trendin tersine dönmesinin veya trend yoluna devam 
+etmeden önce yatay bir konsolidasyonun habercisi olabilir. Şekil 4, 
+alıcılar ve satıcılar dengeye ulaştığında yavaşlayan bir trendi gösteren 
+doji ve dönen tepelere ait örnekleri gösterir.
+Şekil 4. Dojiler ve topaçlar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Şekil 4'te, DAX vadeli işlem grafiğinin bir kısmı gösteriliyor, aşağı 
+yönlü eğilim 13:55'te yavaşlıyor gibi görünüyor. Ancak, eğilim 10 
+dakika sonra yeniden başlıyor ve bu da alıcıların henüz yeterli 
+hacimde piyasaya girmediğini gösteriyor. Benzer şekilde, 14:25'te, 
+satıcılar yine kısa bir süreliğine piyasayı aşağıya çekemiyor gibi 
+görünüyor. Açıkça görüldüğü gibi, sadece bir dojinin ortaya çıkması 
+nedeniyle bir eğilim tersine dönmesine bahis oynamak akıllıca 
+olmaz. Ancak bizolabilmekBir dojinin tersine dönüşü duyurmasının 
+rahatlatıcı işaretini arayın. Şekil 4'te, 14:45'teki dojiye 14:00'daki 
+dojiye kıyasla daha fazla önem atfedebiliriz çünkü 14:45 dojisinden 
+önceki mumların gölgeleri daha uzundur ve her biri için dipler 
+önceki gölgelerin diplerinden daha yüksektir. Kırmızı bir mumdaki 
+daha uzun gölgenin, piyasanın fiyatları daha da aşağı itmeye 
+çalıştığını ancak mevcut tereddütün HA mumunun en düşük 
+seviyeden kapanmasını engellediğini unutmayın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+HA mumlarıyla scalping yaparken, ilk hedefinizi bir sonraki trend tersine 
+dönüşünde belirlemek, bu tür göstergeye göre satın almanızı sağlayacaktır. 
+Daha sonra, stop-loss'unuzu nasıl yerleştireceğinizi tartışacağım.
+Trendin tersine dönmesi
+Şekil 5. Trendin tersine dönmesi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Şekil 5'te, kısa bir scalping için faydalanılabilecek tersine 
+dönen trendlerin işaretlerini görüyoruz. 16:00'da, kırmızı 
+mumun önceki mumdan daha düşük olmayan bir kuyruğu var 
+ve onu yeşil bir mum takip ediyor. Bu sırada, scalper
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+bir satın alma emri açın ve bir saat boyunca sürecek olan yükseliş 
+trendinin dalgasında sörf yapın. Saat 17:00'de, daire içine alınmış mum, 
+uzun gölgeleri ve önceki mumun gölgesinden daha düşük bir gölgesi 
+olan dönen bir tepedir. Yükseliş trendi buharını tüketiyor, bu da uzun 
+pozisyonu (satın alma pozisyonu) bu noktada veya bir sonraki kırmızı 
+mumun ortaya çıkmasının onaylanması üzerine kapatmak için bir 
+göstergedir. Bu yeni kırmızı mum, bir satış emri için giriş noktası olarak 
+da kullanılabilir.
+Bir emir verirken, çoğu platform aynı anda bir take profit emri ve 
+bir stop-loss emri ayarlamanıza izin verir. Piyasa aniden ters yönde 
+hareket ederse, muhtemelen birkaç on puanlık bir hareketle 
+kendinizi korumak için aynı anda bir stop-loss emri ayarlamanızı 
+öneririm. Scalping yaparken, bazen bekleyen emir sistemini 
+kullanmadan piyasa fiyatından bir pozisyon açacaksınız, bu nedenle 
+platformunuz aracılığıyla otomatik olarak bir stop-loss emri 
+vermekte fayda var. Scalping yaparken hızlı tepki vermeniz gerekir, 
+bu nedenle piyasa fiyatından alım veya satım yaparken, önceden 
+açılmış bir pozisyon için stop-loss emri ayarlamak üzere bilet 
+sistemine geri dönmek için zaman yoktur. "Stop-Loss'ları Yönetme" 
+bölümünde, stop-loss'larınızı nereye ayarlayacağınızı ve stop-loss'u 
+konumlandırmanın ilk etapta pozisyonu açıp açmamanız gerektiğini 
+nasıl doğrulayacağını açıklayacağım. Başka bir deyişle, stop-loss'un 
+konumu piyasaya girip girmemeniz gerektiğini belirleyecektir.
+Şekil 6. DAX, 1 dakika
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Şekil 6'da, DAX vadeli işlemleri işlem seansının sonunda uyanıyor ve 
+bir yükseliş trendi başlatıyor. Heikin-Ashi'nin trend tersine 
+dönmesine dair ilk işaretlerinde satış yaparak piyasaya girmeli 
+miyiz? Evet, girebiliriz. 12730'da bir stop-loss belirleyerek 12723'te 
+satış yapmak gayet iyi olurdu. Ancak kırmızı mumlar satıcılar 
+tarafında güç belirtileri göstermediği için yeşil bir mum belirir 
+belirmez bu işlemden çıkmalı ve böylece kaybı 5 puana indirmeliyiz. 
+Yine de, buradan çıkmak bir hata olurdu. Piyasa bize yükseliş 
+trendinin henüz durmadığını, bu yüzden bir alım pozisyonu 
+açmamız gerektiğini söylüyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+hemen 12725'te (her zaman bir stop-loss ile, burada 12718'de) ve 
+17:45'ten hemen önce 12738'de gösterilen kırmızı bir mumun ortaya 
+çıkmasıyla kapatın. Bu 13 puanlık bir kazançtır. Yine, 17:45'ten sonra, 
+kırmızı mumlar giderek küçülmeye başlar ve ardından yeşil bir mum 
+gelir. Piyasa aşağı doğru hareket etme belirtisi göstermediği için 
+buraya 12739'da girmeliyiz. Öyleyse neden ilk etapta önceki 
+pozisyonu bu kadar erken kapatalım? Çünkü bu aşamada, hiç kimse 
+piyasanın bundan sonra ne yapacağını tahmin edemez: geri çekilmek 
+veya yukarı doğru hareketini sürdürmek. Bu nedenle, karımızı 
+alabildiğimiz kadar alıp bir sinyal üzerine yeni bir satın alma işlemine 
+girmek daha iyidir.
+Piyasa Şekil 6'daki gibi belirgin bir güç eğilimi gösterdiğinde, akışla 
+işlem yapmak ve karşıt eğilim ticaretinden kaçınmak daha iyidir. 
+Kırmızı mumlarla karşılaştırıldığında yeşil mumların boyutuna bakın. 
+17:30'da satış yapmak iyi olur ancak piyasanın net bir yükseliş eğilimi 
+sinyali verdiği göz önüne alındığında 17:45'te tekrar satış yapmaya 
+çalışmak önerilmez. Güçlü bir yükseliş eğilimi piyasasında kısa bir 
+konsolidasyon sırasında kısa pozisyon açmak yerine, mum renginin 
+yeşile dönmesini beklemek ve piyasa yönünde işlem yapmak daha 
+iyidir.
+Herhangi bir teknik gösterge gibi, Heikin-Ashi mumlarının da 
+işe yaramayacağı zamanlar vardır. Bu, piyasa çok yavaş 
+olduğunda, düşük hacimler ve az aktivite gösterdiğinde 
+olabilir. Bu durumlarda, gösterge suçlanmaz. Piyasa sadece 
+durgundur ve belirli bir yönde hareket etmez.
+Şekil 7. Mini DAX, 1 dakika
+Şekil 7'de gösterildiği gibi, piyasa iki saatlik bir zaman diliminde 
+yalnızca 20 puanlık bir aralıkta hareket etti. Yeşil ve kırmızı dalgaların 
+ardışıklıkları gözlemlenebilir, ancak yeterli aralık olmadan. Yeni 
+trendler hızla teste tabi tutulur ve meydan okunur. Ben
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Piyasa düşük hacim ve düşük volatilite evrelerine girdiğinde Heikin-
+Ashi mumlarını kullanarak işlem yapmanızı önermiyoruz. Bunun 
+yerine, grafiğinizde bazı uyarılar ayarlayın ve belirlenen fiyata 
+ulaşıldığı bildirimini aldığınızda bilgisayarınıza geri dönün. Alternatif 
+olarak, bu fırsatı mini aralıkları kullanarak işlem yapmak için 
+kullanabilirsiniz (“Scalping Mini Aralıkları” bölümüne bakın).
+Şekil 8. Mini DAX vadeli işlem, 1 dakika
+Scalping yaparken oynaklık her zaman hoş karşılanır, Şekil 8'de 
+gösterildiği gibi. Borsa açıldıktan sonraki ilk saat içinde, bir scalper 
+9:15 ve 9:43'te iki alım işlemi ve 9:26, 9:54 ve 10:11'de üç satış 
+işlemi gerçekleştirebilirdi ve bunların her biri mum rengi 
+değiştiğinde kapanırdı. Neden 9:03'teki trend değişiminde işlem 
+yapılmasın? En azından 20 puanlık bir kazançla oldukça 
+ödüllendirici olurdu. Çünkü borsanın açılışından sonraki ilk 15 
+dakika boyunca, piyasa herhangi bir net yön olmaksızın oynak 
+olabilir. Bazı hisse senedi alıcıları ve satıcıları bir gün önce açılan 
+pozisyonları kapatıyor olabilir ve opsiyon tüccarları altta yatan 
+hisse senetleriyle işlem yapmaya zorlanabilir. Bu nedenle, 
+beklemeyi ve ilk 15 dakikadan sonra oluşan trendleri yakalamayı 
+tercih ediyorum.
+Şekil 9, Şekil 8'deki grafiğin devamıdır.
+Şekil 9. Mini DAX vadeli işlem, 1 dakika
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Erken oynaklığın ardından piyasa, Şekil 9'da gösterildiği gibi artık sessiz 
+bir aşamada. Heikin-Ashi sinyallerini bir kenara bırakarak farklı şekilde 
+işlem yapmanın zamanı geldi. Durgun bir piyasada, bir scalper bir 
+sonraki bölümde açıklayacağım mini aralıklarda işlem yapabilir.
+Çözüm:
+Heikin-Ashi bir dakikalık grafik, scalping için iyi bir araçtır. Şekil 3'te görüldüğü gibi 
+kısa bir trendin ne zaman sona erip tersine dönebileceğini belirlemeye yardımcı olur, 
+ancak aynı zamanda Şekil 4'te görüldüğü gibi trendin ne zaman daha güçlü ve 
+tersine dönmenin daha az olası olduğunu da belirlemeye yardımcı olur. Mumların 
+şekli ve renklerdeki değişim, piyasaya ne zaman girileceğini ve pozisyonunuzun ne 
+zaman kapatılacağını değerlendirmek için kullanılabilecek iyi göstergelerdir.
+Yanılıyorsanız kaybınızı en aza indirmek ve riskinizi sınırlamak için her 
+zaman bir stop belirleyin. Stop'un önceki mumların en yüksek veya en 
+düşük seviyelerinin hemen ötesine yerleştirilmesini öneririm. Bunu 
+"Stop-Loss'larınızı Yönetme" bölümünde daha ayrıntılı olarak ele 
+alacağız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Scalping Mini Serileri
+Önceki bölümde, Şekil 9 piyasanın yatay bir konsolidasyona 
+girdiğini gösteriyordu. Bu sessiz aşamalara genellikle düşük 
+hacimler eşlik eder.
+Bu bağlamda, Heikin-Ashi mumlarını kullanarak bir trend belirlemeye 
+çalışmak mantıklı değildir. Zamanla ve deneyimle, scalper'lar 
+piyasanın birkaç düzine puan hareket ettikten sonra ara verip yatay 
+konsolidasyona geçtiği bu evreleri fark edecektir. 15 dakika sonra, 
+piyasa trendine devam etmezse, Heikin-Ashi ticaretini bir kenara 
+bırakıp, her biri 5 puanlık kısa scalping'leri, küçük bir aralık içinde 
+gerçekleştirme fırsatını değerlendirebilirsiniz. Ben bunlara mini 
+aralıklar diyorum.
+Siparişlerinizi, geri çekilmeyle birlikte ters kenara doğru işlem 
+yapma fikriyle aralığın her bir kenarına yerleştirin. Örneğin, Şekil 
+9'da, 10:19'da satın aldıktan ve piyasanın hiçbir yere gitmediğini 
+gözlemledikten sonra, pozisyonumu 10 dakika sonra kapatmayı 
+seçerdim. Sonra, piyasanın yatay bir konsolidasyona girdiğinin 
+teyidi için 10 dakika daha beklerdim. Daha sonra, aralığın en 
+altında 12206'da alım emirleri ve aralığın en üstünde 12221'de 
+satış emirleri vererek oluşan aralık içinde işlem yapmaya 
+başlayabilirdim. Her seferinde, giriş fiyatlarından 5 puan uzakta 
+bir hedef belirlerdim. Not: Sadece 5 puan çünkü piyasanın 
+uyanıp işlemimin ters yönünde olabilecek bir trendi 
+sürdürebileceğinin farkında olduğum için bu pozisyonları çok 
+uzun süre açık tutmak istemiyorum. Kendinize aralığın diğer 
+tarafına kadar daha iddialı bir hedef koymak isteyebilirsiniz, 
+ancak 5 puanlık bir kazancı bozdurmayı ve aralığın kenarında 
+tekrar yeni bir emir vermeyi tercih ederim çünkü piyasa aralığın 
+karşı kenarına ulaşmaya çalışmak yerine hızla o kenara geri 
+dönebilir. Bu stratejiyle, 5 puanlık kazançları beş kez 
+bozdurursunuz veya 40 dakikada 25 puan (Şekil 9).
+Piyasanın aralıktan çıkması durumunda potansiyel kazancımdan daha 
+büyük bir kayıp yaşamamak için, stop emrini aralığın üst noktasının 5 
+puan üstüne ve alt noktasının 5 puan altına yerleştirdim.
+Şekil 10. Mini DAX, 1 dakika
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Şekil 10, kısa ve hızlı scalping için mini aralığı tekrar kullandığım 
+ertesi günü gösteriyor. 10:20'de 12205'te bir satın alma emriyle 
+başlayarak, 5 puanlık bir kazançla 10:23'te kapattım. Satış emrim 
+başlangıçta 12220'de belirlendi ancak piyasa 12216'da duruyor 
+gibi göründüğünden, satış emrimi taşıdım ve 10:32'den satışa 
+başladım. Bunu takiben, pozisyonu iki dakika sonra 12210'da 
+kapattım. Piyasa bu mini aralıkta kaldığı sürece, alım ve satım 
+emirlerim için fiyatları değiştirmezdim. Bunun yerine, sabırlı 
+olurdum ve piyasanın belirlediğim fiyatlara ulaşmasını 
+beklerdim. Piyasa, emir miktarımdan bir puan uzakta dursa bile, 
+kesinlikle piyasanın peşinden koşup satış veya alım yapmaya 
+çalışmazdım. Belirlediğiniz giriş fiyatından bir veya iki puan 
+uzakta alım veya satım yapmak aşağıdaki olumsuz etkilere 
+neden olacaktır:
+Çıkış hedefinizi değiştirmezseniz kazancınız bir veya iki 
+puan eksik kalacaktır. Bunların küçük kafa derisi 
+olduğunu ve brokerinizin komisyonunun kârınızın bir 
+kısmını zaten yiyeceğini unutmayın.
+Çıkış hedefinizi kaydırırsanız, piyasanın buna 
+ulaşamama ihtimali artacaktır.
+Pozisyonunuzu aralık sınırından 2 puan önde açarsanız, 
+stop-loss'unuz yürütülürse daha büyük bir kayba 
+katlanmak zorunda kalabilirsiniz. Unutmayın, stop-loss'u 
+aralığın kenarından 5 puan öteye koydum. 
+Hesaplandığında, 5+2 = 3 puanlık potansiyel kazanç için 7 
+puanlık potansiyel kayıp. Risk ve ödül arasındaki fark
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+buna değer. Ayrıca, stop-loss'unuzu daha yakına 
+taşırsanız, çok erken yürütülebilir.
+Kısacası, eğer plan aralığın kenarına ulaşıldığında alım veya satım 
+yapmak ise, o zaman hiçbir koşulda piyasanın peşinden koşmamalı ve 
+sadece aralığın kenarına ulaşıldığı için bir pozisyon açmamalısınız.
+neredeyseulaşmış.
+Bu nedenle, scalping kısa ve hızlı eylemler içerse de acelecilik 
+gerektirmez. Sabırlı olun! Piyasa fiyatınıza ulaşmadıysa, tekrar 
+ona doğru ulaşabilir. Ancak piyasanın mini aralıktan çıkacağı 
+ve stop-loss'unuzun gerçekleştirileceği bir zaman gelecektir. 
+Bu kayıp, daha önce birikmiş tüm kazançlarla telafi 
+edilecektir. Şekil 10'da, stop-loss'umun saat 11:00'de 
+gerçekleştirildiğini gözlemleyin.
+Çözüm:
+Piyasa yatay konsolidasyona veya uyuşuk bir faza girdiğinde, 
+bunu birkaç puan için scalping fırsatı olarak görün. Fiyatlar bir 
+fiyat aralığı içinde dalgalanacaktır. Kendinizi aralığın üst ve alt 
+sınırına konumlandırmanızı ve 5 puanlık bir kar hedefi 
+hedeflemenizi öneririm. Pozisyona girdikten sonra, piyasa 
+hedefinize ulaşmadan önce ileri geri hareket edebileceğinden ve 
+bu nedenle çok daha fazla scalping yapmanızı 
+engelleyebileceğinden, aralığın zıt sınırını hedeflemeyin.
+Her işlemde olduğu gibi, piyasanın aniden aralıktan birkaç puan çıkması 
+durumunda hayal kırıklığı yaratacak sürprizlerle karşılaşmamak için stop-
+loss emri koymayı unutmayın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Pivot noktalarının taranması
+Pivot noktası, basitçe bir önceki işlem günündeki en yüksek, en düşük 
+ve kapanış fiyatlarının ortalamasıdır. Destek veya direnç gibi sabit bir 
+göstergedir. Günlük yatırımcılar, pivot noktalarını kullanmayı ve piyasa 
+pivot noktasının üzerindeyken yükseliş, altındayken düşüş eğiliminde 
+olarak görmeyi severler. Ayrıca, fiyatlar pivot noktasının üzerindeyken 
+piyasanın gün içinde bir satın alma baskısı alanında, pivot noktasının 
+altındayken ise satış baskısı alanında olduğu da yaygın olarak bilinir. 
+Pivot noktalarını hesaplamak ve farklı zaman dilimleri için farklı 
+yöntemler vardır, ancak scalping için, 1, 5 veya 15 dakikalık grafikler 
+kullansanız bile, yatırımcıların çoğunun yaptığı gibi bir önceki gün 
+fiyatları üzerinden hesaplanan standart pivot noktalarını 
+kullanmalısınız.
+Formüller şu şekildedir:
+Önceki günün verilerini günlük grafikte kullanarak:
+Pivot noktası (P) = (yüksek + düşük + kapanış) / 3 
+Destek 1 (S1) = (P x 2) – yüksek
+Destek 2 (S2) = P – (yüksek – düşük) 
+Direnç 1 (R1) = (P x 2) – düşük Direnç 2 
+(R2) = P + (yüksek – düşük)
+Çoğu platform ve yazılım sizin için bunları hesaplar ve çizer, ancak ben 
+grafiklerimde gördüğüm şeylerin bileşenlerini anlamak isterim. Bu aracı 
+ilk kez kullanırken, platformunuzun bunu nasıl hesapladığını her zaman 
+kontrol edin. Bu tavsiye çoğunlukla CFD yatırımcıları için geçerlidir, çünkü 
+bazı brokerlar piyasa kapanış saatinden sonra fiyat teklif etmeye devam 
+eder. Bu, günün en yüksek, en düşük ve kapanış fiyatlarının gerçek piyasa 
+fiyatlarından farklı olabileceği anlamına gelir.
+Destek ve direncin yanı sıra, bu noktalar yatırımcılar 
+tarafından gün (veya hafta, ay…) için referans noktaları olarak 
+kullanılabilir. Piyasa pivot noktasından yukarı doğru hareket 
+ederse, alıcılar fiyatları R1, ardından R2 yönünde vb. yukarı 
+itmeye istekli olabilir. Satış baskısı alanında, satıcılar fiyatları 
+S1, ardından S2 yönünde vb. yukarı itmeye çalışıyor olabilir. 
+Ancak stratejinizi buna dayandırmayın. Fiyatlar bölümünde 
+açıklayacağım gibi, daha ileri bir fiyat analizi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+piyasanın alım veya satım baskı alanında olup olmadığını 
+doğrulamak için yapılabilir. Ayrıca, pivot noktaları hacim ve net 
+trend olmayan bir piyasada işe yaramaz.
+Heikin Ashi mumlarıyla birlikte pivot noktalarının nasıl 
+kullanılacağını görelim.
+Aşağıdaki Şekil 11’de bir önceki günün verileri baz alınarak pivot noktası 
+hesaplanmış ve 20913 olarak belirlenmiştir.
+Şekil 11. E-mini Dow, 1 dakika
+Şekil 11'de görebileceğiniz gibi, piyasa pivot noktası alanına 5 kez 
+geldi ve 1,5 saatlik bir süre içinde 5 scalp (satın alma) sağladı. 
+Sonra, her işlem için, işlemimden çıkmak için Heikin Ashi mum 
+rengindeki değişikliği kullanıyorum. Satın alma emirleri önceden 
+verilebilir. Bir satın alma emrini tetiklemek için piyasanın alana 
+gelmesini beklemenize gerek yok. Emrinizi önceden ayarlamamak, 
+özellikle piyasanın pivot noktasına doğru hızla düştüğünü 
+görürseniz, iyi fırsatları kaybetmenize neden olabilir. Bir satın alma 
+işlemine girme konusunda kötü bir hisse kapılabilir, piyasanın hızla 
+düştüğünü düşünebilirsiniz. İşlem yaparken,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Bu tür psikolojik davranışlardan etkilenmek için 
+çalışmak.
+Bunun yerine, siparişinizi önceden verin ve siparişiniz 
+gerçekleştiğinde bir alarmın çaldığından emin olun, böylece 
+kontrolü ele alabilir ve Heikin Ashi mumunun renginin değişmesi 
+gibi bir sinyalde pozisyonunuzu kapatabilirsiniz.
+Bir pivot noktası fiyatımız var, ancak piyasa genellikle bölgeyi test ediyor ve 
+pivot noktasında mutlaka durmuyor. Bu nedenle, bir satın alma emri için 
+emrimi her zaman pivot noktasının yaklaşık 3 puan altına ve bir satış emri 
+için 3 puan yukarısına yerleştirmeyi tercih ediyorum. Bu şekilde, stop emrimi 
+4 puan daha aşağıya yerleştirebilirim, bu da piyasanın stop emrim piyasa 
+gürültüsünde yürütülmeden pivot noktası etrafında manevra yapması için 
+daha fazla alan sağlar. Gürültü derken, pivot noktaları etrafındaki fiyat 
+oynaklığından bahsediyorum.
+Ancak bazen cimri olmak emrin gerçekleştirilmemesine neden olabilir. 
+Örneğin, 17:15'te piyasa 20915'in altına düşmedi. Ancak 2-3 puan 
+daha fazla ödeme yapmaktansa bu şekilde çalışmayı tercih ediyorum. 
+Önceki 5 işlemimde bana toplam 10-15 puana mal olacaktı. Ayrıca, 
+pivot noktasının 2-3 puan üzerinde satın alma yaptığımda ve pivot 
+noktasının 6-7 puan altına bir stop loss koyduğumda, potansiyel kayıp 
+8-10 puan olurdu. Ancak, scalping'de kayıplarımızı en aza indirmek 
+istediğimizden, stop loss'u daha yakına yerleştirmek, gürültüde 
+gerçekleştirilme olasılığını artıracaktır. Şekil 11'e geri dönersek, 
+20911'den, yani pivot noktasının 2 puan altında satın alırken, stop 
+loss'umu 20907'ye yerleştirebilirim, bu da gerçekleştirilme olasılığını 
+azaltır. Bu nedenle, cimri olmanın ve bir işlemi kaçırsam bile, pivot 
+noktasının üzerinde satın almak için acele etmemenin değerli 
+olduğunu düşünüyorum. Başka fırsatlar yakalayacağım.
+Pivot noktasının üzerinde, piyasa bir satın alma baskısı alanındadır. 
+R1'e ulaşmayı deneyebilir, pivot noktasına geri dönüp toparlanabilir 
+veya onu geçip S1'i hedefleyebilir. Hiçbir şey kesin değildir ve kimse 
+piyasanın ne yapacağını tahmin edemez. Bu yüzden kendimizi farklı 
+olası sonuçlara hazırlamalıyız. Şekil 11'de, piyasanın birkaç kez pivot 
+noktası bölgesine geri döndüğünü ve toparlandığını gördük. Ancak 
+yanılıyorsak ve piyasa geri sıçramak yerine pivot noktasından aşağı 
+doğru gitmeye karar verdiyse ne yapabiliriz?
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Aşağıdaki Şekil 12'de gösterildiği gibi, piyasanın pivot noktası 
+bölgesinde, 12.239,5'in üzerinde yükselmesiyle birlikte, piyasanın 
+tersine dönüp tekrar aşağı ineceği fikriyle bir satış pozisyonu açtığımız 
+bir örneğe bakalım. Ancak bunun yerine, yanılıyoruz ve piyasa 
+yükselmeye devam ediyor.
+Şekil 12. DAX vadeli işlem, 1 dakika
+Şekil 12'de, 12243'te bir satış emrim ve 12247'de bir zarar durdurma 
+emrim var. Piyasa tersine dönmez ve pivot noktası bölgesinden 
+geçerse ne yapmalıyım? Zarar durdurma emrim etkinleştirilirse 4 
+puanlık bir kayba uğrayacağımı biliyorum. Piyasa pivot noktasından 
+geçerse, akışa uymalı ve alıcılara katılmalıyım. Bunu yapmak için, önce 
+hamlemi hazırlamalı ve bir buy stop kullanarak emrimi önceden 
+vermeliyim. Tüm brokerların size stop emirleri kullanarak pozisyon 
+açma olanağı sunmadığını unutmayın. Şekil 12'de, A 12243'teki ilk satış 
+emrim. B 12247'deki alım durdurma emrim. CFD'lerle çalışıyorsanız, 
+aracınızın spread'ini dikkate almanız gerekir, yani, teklif edilen spread 
+1 puansa, alım durdurma emrinizi vadeli bir işlemde 12247'ye 
+ayarlayacağınız yerde 12248'e ayarlamanız gerekir (her zaman vadeli 
+endekslere dayalı CFD'lerden bahsediyorum, borsa endeksinden 
+değil).
+Bu tür bir işlem için, ulaşılan ilk 10 noktada pozisyonunuzun 
+%50'sini kapatmak için minimum iki lotla çalışabilir ve Heikin 
+Ashi mumu olası bir trend değişikliğini gösterdiğinde kalan 
+bakiyeyi kapatabilirsiniz. Satış limit emri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Pozisyonun ilk yarısı ilk alım durdurma emrinize bağlı 
+olmalıdır çünkü piyasa hızlı hareket edebilir ve ilk hedefinize 
+saniyeler içinde ulaşabilir ve bilet sistemine girip 
+pozisyonunuzun ilk %50'sini kısmen kapatmak için zamanınız 
+olmaz. Kalan bakiye için, bunu manuel olarak kapatmanız 
+gerekebilir. Pozisyonun ilk %50'sini kapattıktan sonra, piyasa 
+dönüp pivot noktasının altına geri dönerse kalanın kaybeden 
+bir pozisyon haline gelmemesi için, zarar durdurma emrinizi 
+giriş fiyat seviyenize taşımayı unutmayın.
+Bu kurulumla satıcı olduktan sonra alıcı konumuna geçerek 
+başlangıçtaki 4 puanlık kaybınızı iptal edip kazançla bitireceksiniz.
+15:45'ten hemen önce, Şekil 12'de, yine pivot noktasında bir 
+piyasa toparlanması deniyorum. 12237'de (D noktası) bir alım 
+emri veriyorum. Piyasa yine yanıldığımı kanıtlıyor, ancak ne 
+yapacağımı bildiğim ve yedek planım hazır olduğu için önemli 
+değil. Piyasa tekrar aşağı inip pivot noktasını geçtiğinde, stop 
+loss emrim ve yeni satış stop emrim 12334'te (E noktası) 
+dolduruluyor. İlk 10 puanlık hedefe dakikalar içinde ulaşılıyor (F 
+noktası).
+Gördüğünüz gibi, bir pivot noktasındaki toparlanmadan 
+faydalanamıyorsak, bunun etrafından dolaşabilir ve pivot 
+noktasından geçen bir piyasa ile çalışabiliriz. Vurgulamak 
+istediğim şey, piyasanın pivot noktasına yaklaştığını tahmin edip 
+buna hazırlanabileceğimiz ve kesinlikle acele veya panik 
+modunda çalışmayacağımızdır. Pivot noktası, önceki gün 
+verilerini kullandığı için önceden bilinir. Bu nedenle, planın ilk 
+kısmı için güne başlarken emirlerimi hazırlayabilir ve ardından 
+ilk tur bittikten hemen sonra emirlerimi ayarlayabilirim.
+Vurgulamak istediğim ikinci şey, istediğiniz kadar çok araç 
+kullanabileceğinizdir; her zaman %100 başarılı olamazsınız. Ancak 
+bir B planınız olduğu ve planınızı takip ettiğiniz sürece, işlemde 
+başarılı olursunuz. Şekil 11'de gördüğümüz gibi, pivot noktası 
+stratejisi son derece iyi çalıştı ancak Şekil 12'de o kadar iyi 
+çalışmadı. Ancak önemli değil çünkü sonunda, B planımız bizim için 
+işe yaradı.
+Ancak üçüncü bir senaryo daha var. Birçok yazar, ticareti kolay 
+ve en iyi durumda bile işlerin nasıl iyi gittiğini tasvir ediyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+dünyalar, ancak size karşı dürüst olmak ve neyin ters 
+gidebileceğinden bahsetmek istiyorum, neyse ki nadiren. Bu 
+senaryoda, piyasa pivot noktasından geçer ve zarar durdurma emriniz 
+tetiklenir. Daha sonra alım veya satım emriniz de yürütülür, ancak 
+piyasa geri sıçrar ve ters yönde tersine döner, bu da ilk emrinizin 
+kapatıldığına pişman olmanıza neden olur. Bu, pivot noktası 
+etrafındaki gürültü daha önemliyse veya piyasa dinamiklerden 
+yoksunsa, yani düz bir piyasada, herhangi bir hacim olmadan 
+gerçekleşebilir. Bu durumda, böyle bir piyasada işlem yapmaya 
+değmeyeceğini önceden bileceksiniz.
+Tüm araçlarda olduğu gibi, pivot noktaları da kesin bir bilim değildir. Ancak 
+iyi yatırımcılar olarak, piyasa bizi yanlış yönlendirirse ne yapacağımızı ve 
+bundan nasıl faydalanacağımızı biliyoruz. Tekrar ediyorum, piyasanın nereye 
+gittiğini tahmin etmeye çalışmıyoruz, sadece bize verilen fırsatlarla çalışırken 
+risklerimizi sınırlandırıyoruz.
+Bu yöntemle çalışmak için, aracınızın bir pozisyon açmak için 
+buy stop veya sell stop emirleri vermenize izin vermesi gerekir. 
+Bir buy veya sell limit emri işe yaramaz çünkü piyasa fiyatının 
+emrinizi verdiğiniz anda daha avantajlı olması durumunda 
+otomatik olarak yürütülürler. Ancak bunun olmasını 
+istemiyoruz. Burada, piyasa pivot noktasından geçerse 
+kendimizi pusuya düşürmek istiyoruz.
+Çözüm:
+Pivot noktaları genellikle günlük yatırımcılar tarafından kullanılır çünkü 
+bunlar gün için önemli seviyeler olarak kabul edilir. Pivot noktalarının 
+üstünde veya altında, piyasa bir alım baskısı veya satış baskısı alanında 
+olacaktır.
+Bir toparlanma beklentisiyle pivot noktalarını kullanarak çalışabilirsiniz. 
+Ancak yanılıyorsanız ve piyasa pivot noktasından geçiyorsa, sadece 
+oturup işleminizden pişman olmayın. Bir B planı hazırladıysanız ve trende 
+göre hareket ettiyseniz, yine de kar elde edebilirsiniz. Mumlar olası bir 
+trend tersine dönüşünü duyurduğunda işleminizden çıkmak için Heikin 
+Ashi mumlarını kullanmayı unutmayın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Zarar durdurma emirlerinin yönetimi
+Önceki bölümlerde zarar durdurma konusuna değindim. Ve size 
+daha fazla giriş noktası tekniği vermeden önce, zarar durdurma 
+emirlerinin nasıl yerleştirileceğine ve yönetileceğine bakalım. Zarar 
+durdurma emirlerinin kullanımı zor olabilir: giriş fiyatınıza çok 
+yakınsa ve haklıyken zarar durdurma emrinizin yürütülmesi riskini 
+alırsınız; çok uzaksa ve haksızsanız daha büyük kayıplar riski 
+alırsınız.
+Scalping'te, bir pozisyonun işlemesi için saatlerce bekleyemeyiz. 
+Uzakta açılan bir pozisyondan stop loss emirlerinin yürütülmesi 
+nedeniyle büyük kayıplara da katlanamayız.
+Bir işlemde büyük bir kayıp riskine girmek istemediğim için, zarar 
+durdurmalarımı giriş fiyatlarımdan 7 puan uzağa yerleştiriyorum. Bunlar 
+sıkı zarar durdurmalarıdır, yalnızca scalping için kullanılır. Zarar 
+durdurmamı giriş fiyatımdan 7 puandan daha uzağa yerleştirmek 
+istemiyorsam, giriş fiyatıma dikkat etmeli ve mümkün olan en iyi 
+durumda bir pozisyon açmalısınız. Bir bakıma, zarar durdurmam 
+karşılayabileceğim nihai giriş fiyatını belirliyor.
+Önceki bölümlerde, olası bir trend değişimini değerlendirmek ve yeni bir trendin 
+veya konsolidasyonun başlangıcını tahmin etmek için Heikin Ashi mum 
+rengindeki bir değişikliği kullanabileceğimizi gördük. Zarar durdurma emrim 
+alım veya satım açılış emrime bağlı olduğundan, zarar durdurma emrimi dönüm 
+noktasının en yüksek fiyatının 3 puan üstüne veya dönüm noktasının en düşük 
+fiyatının 3 puan altına yerleştirmek istersem, bu, giriş fiyatımın 7 puanlık bir 
+zarar durdurma emri için bu en yüksek veya en düşük fiyattan 4 puan uzakta 
+olması gerektiği anlamına gelir. Somut bir örneğe bakalım.
+Şekil 13. DAX vadeli işlem, bir dakika
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Borsa açıldığında işlem yapmaktan kaçınmak daha iyidir, 
+çünkü piyasa ilk 10 dakikada birkaç yönü test edebilir. 
+Yukarıdaki Şekil 13'te, 9:10'da başlayan ilk yükselişten sonra,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Piyasa 9:20 ile 9:25 arasında yavaşlama belirtileri gösteriyor. İlk kırmızı 
+mumdan sonra ilk satış emri için kendimi hazırlayabilirim. 9:25'te 
+piyasa 12643'ten hemen önce duruyor. Piyasa bana o sırada 12643'te 
+en yüksek noktayı verdi. Piyasanın bu seviyeyi tekrar test edebileceğini 
+bilerek bir satış emri açmak istersem, stop loss'umu o seviyenin 
+yaklaşık 3-4 puan ötesine, diyelim ki 12646'ya (12643 + 3) yerleştirmem 
+gerekiyor. Artık stop loss'umu nereye yerleştireceğimi bildiğime ve bir 
+scalping işleminde 7 puandan fazla kaybetmek istemediğimden, 
+kendimi 12639'un altına satmama izin vermemeliyim (12646'da stop 
+eksi 7 puan). Bu şekilde çalışmaz ve stop loss'umu daha aşağıya 
+yerleştirirsem, piyasanın geri gelme riskini alırım, en yükseği test 
+ederim ve aynı anda stop loss'umu uygularım. Daha aşağıya girersem, 
+diyelim ki 12635 ve hala en yüksek seviyenin üzerinde bir stop loss 
+istiyorsam, stop loss'um çalıştırılırsa daha büyük bir kayıp (11 puan, 
+yani 12646 – 12635) riskini alırım. Scalping'te, cimri olmak ve meydana 
+gelirse kayıpları en aza indirmek için iyi bir fiyattan pozisyon açmak 
+daha iyidir. Piyasa giriş fiyatınızdan uzaklaştığında, stop loss'unuzu 
+break-even'a (giriş fiyatınızla aynı seviye) taşımaya değer, böylece 
+piyasa keskin bir şekilde tersine dönerse, bir kayıp yaşamayacaksınız.
+Bu teknik aslında her türlü işlem sistemine uygulanabilir:
+1. Bir işleme girmeden önce, stop loss emrinizin 
+gerçekleşme şansının en az olması için, stop loss 
+emrinizi koyacağınız fiyatı belirleyin;
+2. Kendinizi rahat hissettiğiniz teknik analiz 
+araçlarından olası giriş fiyatınızı belirleyin;
+3. Bu olası giriş fiyatı ile stop loss arasındaki mesafeyi 
+hesaplayın ve sonucun işlem sisteminizin sınırları 
+içerisinde olup olmadığına bakın;
+4. İşlem sisteminizle uyuşmuyorsa, o zaman emri 
+vermeyin ve pozisyonu açmayın. Bunun yerine 
+size uyan bir fiyat arayın. Ve piyasa sizin fiyatınıza 
+gelmezse endişelenmeyin. Piyasanın sizin 
+fiyatınıza geleceği birçok durum olacak ve birkaç 
+puandan tasarruf ettiğiniz için memnun 
+kalacaksınız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Şekil 13'e geri dönersek, stop seviyemin olması gereken yerden 6 puan 
+uzakta olan 12640'ta satış yapma fırsatını değerlendiriyorum. Piyasa 10 
+dakika boyunca hafifçe tersine dönüyor ve 12625 civarında momentum 
+kaybediyor. Pozisyonumu 12627'de 13 puanlık bir karla kapatabilirim. 
+Tersine dönüş sona erdiğinde, B noktasında 12626'da satın alıyorum. 
+Stop seviyemin 12619'da olması gerektiğini hesapladığım için bu işlemi 
+yapabilirim. Dolayısıyla, potansiyel kaybım 7 puandır. Bu pozisyon, 
+kırmızı bir mum belirir belirmez kapatılmalıdır ve 12652'de (C noktası) 
+durum böyle olacak ve bana 26 puanlık bir kar sağlayacak. D Noktası, 
+piyasa 12650 alanını test etmeye gelirse yürütülmek üzere önceden 
+yerleştirdiğim bir satış emridir (fiyat seviyeleriyle çalışma bir sonraki 
+bölümde ele alınacaktır), burada 12655'te yerleştirilmiştir. Aynı anda iki 
+stratejiyle çalışmak istiyorsanız, iki farklı broker kullanmanız gerekebilir, 
+çünkü bazı brokerlar aynı üründe kısa pozisyon açarken (yani hedge 
+ederken) uzun pozisyon tutmanıza izin vermez. Bu brokerlar FIFO (İlk 
+Giren İlk Çıkar) ilkesini uygular. Brokerınız, bazı ülkelerde vergi yasası 
+gerekliliklerine uyduğu için varsayılan olarak FIFO yöntemini 
+uygulayabilir, ancak bu seçeneği devre dışı bırakıp bırakamayacağınızı 
+brokerınıza danışın.
+Bazen piyasa, aşağıdaki Şekil 14'te görebileceğiniz gibi, tek bir yöne 
+doğru hızla hareket edebilir, ancak bu hareketten faydalanabileceğiniz 
+açık bir pozisyonunuz olmayabilir.
+Şekil 14. E-mini Dow, bir dakika
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Şekil 14'te piyasa ABD açılışından itibaren doğrudan düşüş 
+gösteriyor ve birkaç saat içinde 70 puandan fazla kaybediyor. 
+Grafiklerimde kullanılan zamanın GMT+2 (Paris, Frankfurt ve 
+Brüksel yaz saati) olduğunu belirtmeliyim. Yani, grafiğimde 
+gösterilen zaman 16:20 ise, New York'ta 10:20 olacaktır.
+Ardından, iki saatlik bir yatay konsolidasyondan sonra, piyasa 15 
+dakika içinde tekrar 100 puan düştü ancak tersine döndü ve 
+sonraki iki saatte kaybedilen 100 puanı geri kazandı. Bu kısa süreli 
+bir panikti. Önemi yok, scalper 20875'te kısa pozisyon (satış) açıp 
+18:00'den sonra 20855'te kapatarak 18:00'den hemen önce ikinci 
+düşüşün başlangıcının tadını çıkarabilirdi. Bu grafiği sıkıştırmak 
+zorunda olduğum için bunu görmekte zorluk çekebilirsiniz ancak 
+düşüş 18:00'den kısa bir süre sonra ivmesini durdurdu ve iki yeşil 
+mum belirdi, bu da bana pozisyonu kapatmam için bir sinyal verdi. 
+100 puanlık bir potansiyel veren bir piyasada 20 puan almak ne 
+kadar sinir bozucu olsa da, özellikle 100 puan düşen ve hemen 
+ardından toparlanan bir piyasanız olduğunda, kimse piyasanın 
+nereye gideceğini tahmin edemez. Bir scalper olarak,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Piyasa bana iyi fırsatlar veriyor, her ne kadar düşüşten 
+maksimum verimi alamasam da.
+Bu işlem dönemine geri dönersek, 18:20'ye (Şekil 15) 
+yakınlaştırırsam, 20790'da bir alım emri açmanın 
+önerilmediğini görebilirsiniz, çünkü bu beni stop loss emrimi 
+20775'in altına, yani 15 puan uzağa yerleştirmeye zorlardı.
+Şekil 15. E-mini Dow geleceği, bir dakika
+18:36'da, piyasanın 20800'den 20828'e gitme fırsatını 
+değerlendirmediğimi itiraf etmeliyim. Piyasa 20 dakikadır 
+yatay konsolidasyondan geçiyordu. Trendin nereye gittiğine 
+dair net bir fikriniz olmadan bir satın alma emri açmak
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+yazı tura oynamakla aynı. Önemli bir düşüşten sonra, ilk alıcıların iş 
+başında olmasını beklemek ve alıcıların geri döneceğine dair bir onay 
+beklemek daha iyidir, bu yüzden bunun sadece kısa ömürlü bir toparlanma 
+olmadığını biliyorum. Bunu "Risklerinizi değerlendirin" adlı bölümde daha 
+ayrıntılı olarak ele alacağım.
+Piyasanın görünürde hiçbir sebep olmadan birkaç düzine puan 
+hareket edeceği ve sizin açık bir pozisyonunuzun olmayacağı 
+zamanlar olacaktır. Scalping büyük ödülü veya ikramiyeyi 
+beklemekle ilgili değildir. Sörfçünün her yeni ayda gerçekleşen 
+büyük güzel dalgayı beklediğini hayal edin. Bu olduğunda 
+sinirlenmemeyi öğrendim. Büyük bir hareketin parçası 
+olmayabileceğinizi aklınızda tutarak oturup beklemektense, elde 
+edebildiğimiz her küçük yolculuğun tadını çıkarmak ve düzenli 
+olarak küçük karlar biriktirmek daha iyidir.
+Çözüm:
+Başarı şansınızı en üst düzeye çıkarmak için, işleminizin stop loss'unuzun 
+nerede olacağını göz önünde bulundurması gerekir, böylece durdurulma 
+olasılığı düşüktür ve gerçekleşirse, kaybınız küçük olacaktır. Her zaman 
+olduğu gibi, scalper'lar olarak görüşümüz karı maksimize etmek ve kayıpları 
+en aza indirmektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Destekler, Dirençler ve Önemli Fiyat
+Seviyeler
+Pivot noktalarının devamlılığı içerisinde destek, direnç ve önemli 
+fiyat seviyeleri ile çalışmak ilgi çekici olacaktır.
+Scalping seansınıza başlamadan önce, son iki günde meydan 
+okunan ancak hem düşüş hem de yükseliş trendinde direnç 
+gösteren seviyelere bakın. Bu analiz için bir saatlik grafik 
+kullanın. Piyasanın özellikle son iki günde iyi bir hafızası vardır 
+ve bu seviyelerde tekrar gelebilir. Ancak, piyasa açık bir 
+trenddeyse ve bu seviyelerden uzaklaşıyorsa, elli ve yüz puan 
+gibi temel fiyat seviyelerini kullanarak çalışabilirsiniz. Bu, yeni 
+rekorlar kırmaya devam eden ve yeni fiyatlara ulaşılma 
+geçmişi olmayan bir piyasada daha da doğrudur.
+Piyasa ellili ve yüzlük seviyelerde duraklayabilir veya bu 
+seviyeleri büyük bir coşku veya depresyonla (nerede 
+durduğunuza bağlı olarak) geçebilir.
+Şekil 16. E-mini Dow, 1 saatlik grafik
+Yukarıdaki Şekil 16'da gösterildiği gibi bir saatlik grafikte, 
+piyasanın elli ve yüz seviyelerini birkaç kez zorladığını ve 
+genellikle yeterli uzunlukta geri sıçradığını görebilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+hızlı bir scalping yapmak için. Şekil 16'da, bu seviyelere kırmızı 
+çizgiler çizdim. Bu seviyeler birçok kez, hatta E hattında 16 kez 
+test edildi ve bu, saatlik grafikte.
+Şimdi bu grafiğe adım adım bakalım. Şekil 16'da, piyasa 4 
+saat içinde iki kez 21450'deki B çizgisine geliyor. Bir 
+dakikalık grafik kullanarak bu sıçramalardan birine 
+yakınlaşalım.
+Şekil 17. E-mini Dow, 1 dakika
+Piyasa 50 veya 100 seviyesine geldiğinde, nerede duracağını 
+bilemezsiniz. Aslında hiç durmayabilir ve sadece seviyeyi geçebilir. 
+Yukarıda açıkladığım gibi, piyasanın o seviyeye nasıl geldiğini 
+beklemek ve görmek yerine emirleri önceden vermenin daha iyi 
+olduğuna inanıyorum çünkü hareket o kadar hızlı olabilir ki, 
+psikolojik olarak, girmekten korkabilirsiniz. Bu yüzden, gürültüyü 
+hesaba katmak için emirlerimi seviyenin yaklaşık 5 puan ötesine ve 
+7 puan daha öteye bir stop loss koyuyorum, bu da seviyeden 
+toplam 12 puan sapma yapıyor. Bu şekilde, yukarıdaki örnekte, 
+piyasa 21440'a giderse, stop loss'um doldurulmaz ve hala 
+toparlanmanın tadını çıkarabilirim. Öte yandan, piyasa 21450 
+puanın üzerinde durursa, o zaman ticaretim gerçekleşmez. Ama bu 
+şekilde çalışmayı tercih ediyorum
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Gürültü alanında stop emrimin yürütülmesi riskini almamak için. Stop 
+loss emrimi daha da ileriye koymak, hızlı bir kâr peşinde olduğum ve 
+kâr hedefimden daha büyük bir zarar riskini göze alamayacağım için bir 
+scalper için ilgi çekici değil.
+Bu stratejiyle, piyasa bir seviyeye ulaştığında piyasa geri çekilmeleri 
+üzerinde çalışabiliriz, ancak piyasanın kısa bir duraklama 
+yapabileceği ve sıçramada hızlı bir kafa derisi potansiyeli olabileceği 
+fikriyle. Piyasanın iki saat içinde seviyeyi kırıp kırmayacağını veya 
+geri çekilip çekilmeyeceğini tahmin etmekle ilgilenmiyoruz.
+Pivot noktalarında olduğu gibi, pozisyonun ilk %50'si için 
+başlangıç   emriyle 10 puanlık otomatik bir hedef 
+belirlenmelidir. Daha sonra kalan kısım bir Heikin Ashi 
+trend değişim sinyaliyle kapatılabilir. İlk %50 kapatılır 
+kapatılmaz, pozisyonun kalanını güvence altına almak için 
+kalan bakiye için stop loss fiyat giriş seviyesine 
+getirilmelidir.
+18:45'teki ikinci işlemde, bir pozisyonu ne zaman kapatacağınıza karar 
+vermek için Heikin Ashi mumlarını kullanmanın faydasını 
+görebilirsiniz. Bu örnekte, bu işlem 20 puanlık bir kar getirdi, oysa 
+geleneksel bir mum çubuğu grafiği kullanarak, aşağıdaki Şekil 18'de 
+görüldüğü gibi trend tersine dönüşünü bulmakta zorlanırdınız. Şekil 
+18, Şekil 17 ile aynı piyasayı ancak geleneksel mum çubuklarıyla 
+göstermektedir.
+Şekil 18. E-mini Dow, mum çubuklu 1 dakikalık grafik
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Şekil 16'daki bir saatlik grafiğe tekrar bakalım.
+Ertesi gün, 21 Haziranst, piyasa 21400 alanına (Şekil 16'daki C noktası) 
+Avrupa'da 9:28'de ulaşır. Normalde, hacimlerin düşük olması ve 
+emirlerin standart işlem saatleri dışında Globex üzerinden 
+yönlendirilmesi nedeniyle borsa işlem saatleri dışında işlem 
+yapmamalısınız. Ancak burada, 21400 puanda, fiyatlar dünkü aralığın 
+dışındadır ve borsada bir boşluk açılmasına neden olur. Borsa 
+endeksinin ve vadeli işlem sözleşmelerinin fiyatına baktığınızda, 
+finansman ve yeniden yatırılan veya ödenen temettülerden 
+kaynaklanan fiyat farkına dikkat edin. Bu nedenle, örneğin, vadeli 
+işlem hisse senedi endeksinden 15 puan daha düşük fiyatlandırılırsa, 
+bu borsanın 15 puan daha düşük bir boşlukla açılacağı anlamına 
+gelmez. Önce vadeli işlem ile hisse senedi endeksi arasındaki fiyat 
+farkının ne olduğunu kontrol edin. Bu, CFD'ler için de geçerlidir. 
+Baktığınız CFD'nin hangi temel ürüne atıfta bulunduğunu kontrol 
+edin: vadeli işlem sözleşmeleri veya hisse senedi endeksi.
+Ancak burada, bu örnekte, vadeli piyasa bana borsa açılışında 
+olası bir boşluğun oluşabileceğini gösterdi. Ancak, hayır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Avrupa piyasalarının açılıştaki olayları, haberleri veya davranışları 
+bana endişe ve muhtemel boşluk sinyalleri veriyordu. Bu nedenle, 
+bu seviyede işlem yapabilir ve boşluğun borsa açılış saatinden 
+önce dolmasını hedefleyebilirsiniz.
+Şekil 19. E-mini Dow, 1 dakika
+Şekil 19'da, piyasa 21400'e iniyor ve yukarı doğru tersine dönüyor. 
+21400'den satın alırsanız, bunu 21400'de en az 2 lotla yapın. Daha 
+sonra ilk 10 noktada %50'sini kapatabilirsiniz (bu emir her zaman 
+olduğu gibi önceden verilir) ve kalanını boşluk kapanışında veya 
+boşluk kapanışından sonra bir Heikin Ashi mum rengi değişiminde 
+kapatabilirsiniz. Sonuç ne olursa olsun, alıcılar piyasayı daha iyi 
+fiyatlardan satın almak için aşağı çekmeyi başarırsa veya alım 
+pozisyonları karı nakde çevirmek için kapatılırsa, hisse senedi piyasası 
+açılmadan önce pozisyonunuzu kapatmayı hedeflemelisiniz.
+Tekrar Şekil 16'ya bakalım. 21450 seviyesinde (Şekil 16'daki D 
+noktası) benzer bir scalping yapabiliriz. Daha sonra piyasa 21400 
+seviyesinde durmadan yaklaşık 100 puan düşecektir (Şekil 20). 
+Bu sefer, zarar durdurma emrim uygulandı ve zarar durdurma 
+emrini giriş fiyatımdan 7 puan uzağa koymanın, zararı 7 puanla 
+sınırlamanın faydasını anlayabilirsiniz. Piyasa sert bir şekilde 
+düşerse, zarar durdurma emrinizin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+kayma ile gerçekleştirilir, yani, sizin stop loss emrinizin yürütülmesi 
+bir piyasa emri haline gelir ve size teklif edilen fiyat sunulur.
+Şekil 20. E-mini Dow, 1 dakika
+Ayrıca emirlerinizi önceden vermemeyi seçebilir, ardından 
+piyasanın seviyeyi nasıl test edeceğini bekleyip görebilirsiniz, 
+yani seviye alanı içinde durabilir veya yukarıda Şekil 20'de 
+olduğu gibi geçebilirsiniz. Ve Şekil 17 ve 19'da görebileceğiniz 
+gibi, piyasa seviyeyi test ederken 2-3 dakika beklemiş olsaydınız, 
+size bir piyasa emriyle girmek için ikinci bir şans verebilirdi. Şekil 
+17'de, 5 dakika içinde piyasa 21445'e geri döndü ve Şekil 19'da 
+piyasa 6 dakika boyunca 21400 civarında kaldı.
+Tek olumsuz yanı, psikolojik olarak, bir piyasanın düştüğünü 
+görürseniz ve satın alma emrinizi anahtar seviyeden vermeyi 
+beklerseniz, düşüşün hızı sizi oldukça temkinli hissettirdiği için 
+sonunda bunu yapmamaya meyilli olabilirsiniz. Hareketleriniz 
+hakkında önceden düşünmeye ve emirlerinizi vererek plana sadık 
+kalmaya istekli değilseniz, daha küçük emirler belirleyebilir ve riski 
+ve stres seviyenizi azaltabilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Şekil 16'ya geri dönersek, E noktasına ve 21350 seviyesine bakarsak, bu 
+seviye iki gün boyunca test edilmişti. Aşağıdaki Şekil 21, piyasanın 
+21350 bölgesinde nasıl işlem gördüğünü gösteriyor.
+Şekil 21. E-mini Dow, 1 dakika
+Şekil 21'de piyasa 21350'ye kadar düşüyor. Tekrar, 21345'te alım 
+emrimi vererek, 10 dakikadan kısa sürede (yarım pozisyonda 
+olsa da) 10 puanlık bir scalping yapmayı başardım. Ancak onay 
+beklemek ve A noktasında bir alım pozisyonu açmak da 
+mümkün olabilirdi, ancak alım düğmesine tıklayarak bir piyasa 
+emriyle 21345'te size hizmet verilmeyebilir, dolayısıyla emrinizi 
+önceden vermenin avantajı. Tekrar, C noktasında bir alım emri, 
+D noktasında kısmen kapatılmış ve mum rengi değişiminde 
+21358'de tamamen kapatılmış, seviye scalping ile çalışmanın 
+yoludur.
+Fiyat seviyeleri, destekler ve dirençlerle çalışırken, piyasanın 
+hızlı hareket etmesiyle bataklığa saplanmayın veya yargınız 
+etkilenmesin, piyasanın bir destek veya dirençten 
+geçebileceğini düşünmeyin. Volatilite 50 ve 100 seviyelerinde 
+sık görülür ve scalper'a fırsatlar verir. Piyasanın yönünü 
+tahmin etmeye çalışmak yerine fiyat seviyesine odaklanarak 
+kısa bir zaman diliminde birçok scalping yapabilirsiniz. Bu 
+durumda, iki saat boyunca scalping yaparak 21350 
+seviyesinde çalışarak 60 puan kar elde edebilirdiniz ve
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+hatta siparişler önceden verilmişse 70 puan. Ayrıntılara bakıldığında 
+olaylar şu şekildeydi:
+21345'te (A noktası) satın alma emri, B noktasında 
+10 puanlık kar için kısmen kapatıldı. Kalan bakiye 
+giriş fiyatında stop loss ile kapatıldı (ilk hedefe 
+ulaşıldığında stop loss'unuzu giriş fiyatına taşımayı 
+unutmayın).
+C noktasında 21345'te ikinci bir alım, ilk %50'nin D 
+noktasında 10 puan karla kapanmasıyla. Bakiye Heikin 
+Ashi mum rengindeki değişimde, yani 21358'de 13 
+puana satıldı.
+Üçüncü alım ise F noktasında, yine 21345'ten, %50'si G 
+noktasında 10 puana, kalanı ise H noktasında 17 
+puana satıldı.
+Umarım e-mini Dow'daki fikir ve fiyat seviyeleriyle nasıl 
+çalışılacağını anlamışsınızdır.
+Yazarın amacına uyması için geçmişte bir zamanda yaşanmış 
+örnekleri kazıp göstermeyi sevdiği diğer kitaplarla 
+karşılaştırıldığında, bu kitabı yazarken bu yöntemin birkaç gün 
+boyunca düzenli olarak uygulanabileceğini göstermek için 
+örnekler aldım. Gördüğünüz gibi, Şekil 16'dan alınan bu 
+örnekler bir haftalık bir süre boyunca işlendi.
+Bu konuda küçük bir uyarımız var.Scalping yaparken, işlemlerinizi her 
+zaman mevcut piyasa koşullarına göre uyarlamanız gerekir. . Sessiz 
+dönemlerde, mini aralık ticareti veya seviye ticareti fırsatları 
+bulacaksınız. Ancak seviye ticaretinin kesinlikle söz konusu olmadığı 
+başka zamanlar da vardır. Bu, ciddi düzeltmeler veya yüksek volatilite 
+aşamaları zamanlarıdır. Bir fiyat seviyesi etrafındaki fiyat oynaklığından 
+değil, günün en düşük ve en yüksek seviyeleri arasındaki kapsamlı fiyat 
+aralıklarına sahip piyasa oynaklığından bahsediyorum.
+Şekil 22. E-mini Dow, günlük
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Yukarıdaki Şekil 22'deki günlük mumların boyutuna bir göz atın 
+ve karşılaştırın (bunlar standart mumlardır). Dow birkaç aydır 
+yükselişte, 2016'nın sonundan 2018'in başına kadar bir yıldan 
+fazla bir süre geçti ve aniden, Şubat 2018'in başında, ABD 10 
+yıllık getirisindeki artışın ardından keskin bir düzeltme meydana 
+geldi. Düşüş sırasında ve hatta toparlanma sırasında mumların 
+boyutunun, düzeltmeden önceki aşamadan çok daha büyük 
+olduğunu görebilirsiniz. Yani, açıkçası, bu tür bir durumda, 
+destek veya rakam seviyelerinde satın alma emirleri vermezsiniz 
+çünkü piyasa bu oynak aşamalarda 50 veya 100 seviyelerinde 
+durmadan açık kapılardan geçer. Bu örnekte, piyasa en yüksek 
+seviyesinden yaklaşık 3700 puan düştü. Düşüşün başlangıcını, 
+hızını ve uzunluğunu veya en düşük noktadan geri çekilmeyi 
+tahmin edemeyiz (bazı yatırımcılar Fibonacci geri çekilmelerini 
+kullanarak tahminlerle çalışabilirler), ancak önemli piyasa 
+seviyelerinde verdiğiniz ilk emirler durdurulduktan sonra, daha 
+düşük bir seviyede ısrar etmemeli ve denememelisiniz. Bunun 
+yerine, yüksek oynaklık varsa, fırsatı değerlendirin ve Heikin Ashi 
+sinyalleriyle işlem yapın.
+Çözüm:
+50 ve 100 seviyeleri, piyasanın kısa bir süreliğine durabileceği, 
+trendine devam etmeden önce biraz toparlanabileceği alanlardır. 
+Bu seviyeleri, özellikle piyasa önceki günlerin fiyatlarına yakın 
+değilse veya hiç test edilmemiş fiyat bölgelerindeyse 
+kullanabilirsiniz. Fiyat seviyeleriyle çalışırken, scalper öncelikle
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+pozisyonun ilk yarısı için 10 puanlık ilk kar hedefi ile hızlı işlemler. 
+Kalan bakiye, potansiyel olarak daha büyük bir karla bir Heikin 
+Ashi renk değişiminde daha fazla kapatılabilir. Alternatif olarak, 
+fiyat seviyesi önceki günlerde test edilmemişse, piyasanın fiyat 
+seviyesine gelmesini bekleyebilir ve emrinizi vermeden önce 
+alanı test edip etmeyeceğini birkaç dakika görebilirsiniz. Bu 
+şekilde, girmeden önce piyasanın alanda nasıl evrildiğini 
+ölçebilirsiniz. Her zaman olduğu gibi, piyasanın o seviyeyi hızla 
+aşması durumunda güvenlik için 7 puan ötede bir stop loss 
+koymayı unutmayın.
+Bu işlem tekniği sert düzeltmeler ve yüksek volatilite 
+dönemlerinde kullanılmamalıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Fiyat Hedefinizi Nasıl Seçersiniz
+Hedef fiyat, pozisyonun bir kısmını veya tamamını kapatmayı 
+seçeceğiniz fiyattır. Hedef fiyat seçimi, piyasa koşullarına ve takip 
+ettiğiniz senaryoya bağlıdır. Mini aralıklar içinde scalping 
+yapıyorsanız, piyasanın düzinelerce puan hareket etmesini 
+bekleyemezsiniz. Bu nedenle, mini aralıklarla ilgili bölümde 5 
+puanlık bir hedef belirlemenizi önerdim. Önceki bölüm olan 
+"Destekler, Dirençler ve Önemli Fiyat Seviyeleri"nde, pozisyonun 
+yarısında 10 puanlık ilk karı almanızı ve trendde bir değişiklik olana 
+kadar kalanı tutmanızı önerdim. Bu şekilde, fiyatlar o önemli fiyat 
+seviyesi veya destek ve direnç alanı etrafında hareket ederken hızlı 
+bir şekilde 10 puan güvence altına alabilirsiniz. Ancak, bazen daha 
+uzun süre bekleyerek daha fazla puan elde edebileceğinizi fark 
+etmişsinizdir. Örneğin, Şekil 21'de, C noktasından satın aldıktan 
+sonra, pozisyonun tamamını E noktasından kapatmak 25 puanlık, 
+hatta daha yüksek kapatırsanız 35 puanlık bir kar elde etmiş olurdu. 
+Ancak piyasanın bu kadar ileri gidebileceğini önceden tahmin 
+edemezsiniz ve diğer durumlarda, 10 puanlık bir hareketten sonra 
+piyasa hızla tersine de dönebilir.
+Deneyimle birlikte piyasayı daha iyi hissedecek ve bazen çıkış 
+hedeflerinizi daha uzağa koyacaksınız. Ticaret yaparken piyasaların 
+öngörülemez olduğunu aklımda tutuyorum. Bunu aklımda tutarak, 
+sezgiye veya duyguya çok az yer bırakarak otomatik olarak çalışmaya 
+alıştım. Size de aynısını yapmanızı ve bazı durumlarda daha iyi 
+fırsatları kaçırsanız bile hızlı kazançları bozdurmanızı öneririm. 
+Scalping karlarınız, bu küçük kazançları biriktirerek ve risklerinizi 
+sınırlayarak elde edilir. Her durum farklıdır, ancak piyasanın giriş 
+noktanızdan 10 puan hareket etme olasılığı, 20 veya 30 puan veya 
+daha fazla hareket etme olasılığından daha yüksek olacaktır. Elbette, 
+günün sonunda, tüm gün için grafiğe bakarsanız ve günün en düşük 
+ve en yüksek değerleri arasında 100, 200 puan veya daha fazla 
+hareket eden bir piyasa görürseniz, bu 100 veya 200 puanı 
+bozdurmadığınız için hayal kırıklığına uğrayabilirsiniz. İnanın bana, 
+günün en düşük ve en yüksek noktalarını önceden bulmak yalnızca bir 
+falcının işidir. Balıkçının ağlarının bir balık sürüsüyle buluşmasını 
+düşünün. Ağ çoğu zaman sürünün bir kısmını yakalayacaktır. 
+Dolayısıyla pazarla, sadece
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+hepsini bozdurmaktansa, yol boyunca birkaç kez 
+bozdurmakla yetinirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Risk İştahınızı Düzenleyin
+Giriş ve çıkış noktalarını bulmak için Heikin Ashi mumlarını, pivot 
+noktalarını ve seviyelerini nasıl kullanacağımızı gördük. Ayrıca, risk 
+almamızı buna göre ayarlamak için fiyatların nasıl evrildiğini ve piyasa 
+baskılarını anlamamız gerekiyor.
+"Trend dostunuzdur" sözünü duymuş olmalısınız ve akıntıya karşı 
+yüzmektense akıntıyla birlikte yüzmenin ne kadar kolay olduğunu 
+göstermeyeceğim. Bu yüzden yükselen bir trendde alım yapıp düşen 
+bir trendde satış yapmak daha mantıklıdır. Bu çoğunlukla günlük 
+yatırımcılar ve swing yatırımcıları için geçerlidir. Piyasa gerçekten de 
+konsolidasyon ve geri çekilme aşamalarından geçecektir. Bazı 
+konsolidasyonlar yanlara doğru gidebilir ve birkaç gün, hatta bazen 
+aylarca sürebilir.
+Şekil 23. Dow 30, günlük
+Yukarıdaki Şekil 23, Dow Jones endeksinin 9 aydan uzun süredir 
+yükseliş trendinde olduğunu gösteriyor. Uzun gün veya swing 
+yatırımcısı alıma odaklanırken, scalper hem uzun hem de kısa 
+pozisyonlarla (alım ve satım pozisyonları) çalışmak zorunda kalacak. 
+Ayrıca, piyasa 9 aydır (bu yazıyı yazdığım sırada) yükseliş trendinde 
+olmasına rağmen, konsolidasyon aşamaları bu süre zarfında 
+kümülatif 7 ayı oluşturuyor. Bu nedenle uzun vadeli bir trend 
+belirlemek scalper için pek yardımcı olmayacaktır. Bunun yerine, 
+scalper'ın fiyat hareketini değerlendirmesi gerekir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Öncelikle piyasa fiyatlarının nasıl oluştuğunu anlamak 
+önemlidir.
+Vadeli işlem sözleşmelerinin işlem gördüğü merkezi piyasalarda, 
+fiyat son işlemi gösterir. Örneğin, DAX vadeli işleminde son işlem 
+12010 puandaysa ve 12009'dan 5 sözleşme satın almak ve 
+karşılık gelen bir emir vermek istiyorsanız. Bir satıcı piyasa 
+fiyatından 5 sözleşme satmaya karar verirse, bir işlem 
+gerçekleşir ve yeni piyasa fiyatı 12009 olur; bu arada hiç kimse 
+12010'da bir satın alma emri göndermediyse. Bu açıkça 
+basitleştirilmiş bir örnektir. Şimdi, 12009'daki tüm işlemlerin 
+tamamlandığını ve satıcıların teklif ettiği yeni fiyatın 12010 
+olduğunu varsayalım, alıcılar o fiyattan değişim yapmaya 
+istekliyse piyasa fiyatı 12010'a geri dönecektir.
+Satıcılardan daha fazla alıcı varsa ve alıcılar daha yüksek fiyatlar 
+ödemeye istekliyse piyasa yükselecektir. Bir noktada, alıcılar daha fazla 
+ödemeye hazır olmadığında, piyasa daha fazla ileri gitmeyecek ve 
+satıcılar fiyatları düşürmeyi kabul ederse tersine dönecektir.
+Birçok yatırımcı RSI, hareketli ortalamalar, MACD ve diğer 
+göstergeleri kullanmayı sever. Bu teknik araçlar ne kadar ilginç olsa 
+da, tarihsel verilere dayanırlar. Okumaları size gecikmeli bir sinyal 
+verebilir, aksiyon çoktan başlamışken yeni bir trendi gösterebilir. Bu 
+nedenle, pozisyonları birkaç puan israf ederek açabilir ve 
+pozisyonları çok geç kapatabilirsiniz. Scalping'te piyasa baskısını 
+anlamak ve mevcut bilgilere göre hızlı bir şekilde hareket etmek 
+daha önemlidir.
+Heikin Ashi mumlarını bir kenara bırakalım ve geleneksel mum 
+çubuklarına daha yavaş bir zaman diliminde bakalım.
+Şekil 24. E-mini Dow, 1 saat
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Yukarıdaki Şekil 24, bir saatlik standart mumlarla e-mini Dow'u 
+göstermektedir. Gördüğünüz gibi, yeşil mumlar miktar olarak daha 
+yüksektir ve gövdeleri kırmızı mumlardan daha uzundur. Piyasa 
+yükselmeye devam ediyor. Grafik, daha yüksek dipler ve daha yüksek 
+zirveler göstererek yükseliş trendini doğruluyor. Bu, satıcıların daha az 
+aktif olduğunu ve alıcıların piyasayı işgal ettiğini gösteriyor. Piyasa alım 
+yaptığı için, satış işlemleri yaparken riskleri en aza indirmek çok 
+önemlidir.
+Bunu işlem planlarımıza uyguladığımızda şu sonuçlar ortaya 
+çıkacaktır: Temel fiyat seviyelerinde işlem yaparken, piyasa yükseliş 
+trendindeyse alım tarafına daha fazla lot, satış tarafına ise daha az 
+lot koyabiliriz. Ve tam tersi, saatlik grafik düşüş trendi gösteriyorsa, 
+alım emirleriyle risk almaktan kaçınmak mantıklıdır ancak
+satış emirlerine hacim ekleyin. Örneğin, 28 Temmuz'daincipiyasa 
+21735'e ulaşır. Eğer piyasanın 21700'e doğru kısa bir süreliğine geri 
+çekilmesi durumunda 21700 alanında bir satın alma emriyle 
+kendinizi konumlandırmak istiyorsanız ve fiyat seviyesi üzerinde 
+çalışmak istiyorsanız, genel trend yönünde işlem yapacağınız için 
+bunu kesinlikle daha fazla lotla yapabilirsiniz. Aslında burada önemli 
+fiyat seviyelerinin sürekli olarak aşıldığını görüyoruz. Ancak 21800 ve 
+21900'deki en ilginç olanlar dışarıda gerçekleşti
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+piyasa işlem saatleri ve bu nedenle bizim scalping'imiz için alakalı 
+değildir. Öte yandan, fiyat seviyeleri işlem saatleri sırasında piyasa 
+tarafından çalıştırılmıştır ve bu da scalper'lar için iyidir.
+Jeopolitik gelişmelerin ardından hızlı hareket eden bir 
+konsolidasyon piyasasının başka bir örneğine bakalım.
+Şekil 25. DAX, 15 dakika
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Yukarıdaki Şekil 25'te, keskin bir düşüşten sonra, piyasa daha fazla 
+düşmeden önce veya alıcılar geri dönerse geri sıçramadan önce bir 
+duraklama gösteriyor. Heikin Ashi işlem tekniğiyle iyi bir sabah 
+scalping'i yaşadıysanız, gününüzü orada sonlandırabilir ve bir 
+trendin ortaya çıkmasını beklemeyebilirdiniz. Ancak diyelim ki daha 
+fazlasını istiyorsunuz veya sabah seansında scalping yapamadınız.
+Sadece mumun örüntüsüne bakarak, piyasanın satış baskısı alanında 
+olduğunu, saat 11:15 itibariyle yaklaşık 200 puan düştüğünü görebiliriz. 
+Alıcılar pek aktif değil. Bundan sonra ne olacak? Piyasa düşüş trendine 
+devam edebilir veya alıcılar ilgi göstermeye başlarsa, trend tersine 
+dönebilir. Piyasa tersine dönerse ve yukarı doğru hareket etmeye 
+başlarsa ve siz de satın almaya başlamak isterseniz, o zaman düşüş trendi 
+piyasasında satış yapıyormuşsunuz gibi daha düşük hacimlerle minimum 
+risk almanızı öneririm. Bu piyasada nasıl çalışılacağını görmek için Heikin 
+Ashi mumlarıyla bir dakikalık grafiğe geri dönelim.
+Şekil 26. DAX, 1 dakika
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Şekil 26, Şekil 25'in devamıdır. Sabahki düşüşten sonra, piyasa 
+toparlanıyor gibi görünüyor. Alıcılar, 15:30'da dipten 25 puanlık bir 
+hareketle geri dönmeye istekli olduklarının sinyallerini veriyor. Piyasa 
+direnç gösterdiği için alım emirleri açmaya başlamalı mıyız? Böyle bir 
+düşüşten sonra, bunun sadece kısa bir geri dönüş mü yoksa 
+gerçekten bir dönüş mü olduğunu asla bilemeyeceğiniz için ilk alıcı 
+turunu bırakmak daha iyidir. Bir onay bekleyin. Daha sonra, kırmızı 
+mumların yeşil mumlara kıyasla daha küçük gövdelere sahip 
+olduğunu görebilirsiniz. 15:45'ten sonra alım yapmaya başlamak 
+mantıklıdır. Ancak, piyasa gün boyunca düşüş trendinde olduğundan, 
+yükseliş trendi doğrulanana kadar ilk alım emirlerimiz düşük hacimli 
+olmalıdır. Fikir, bir trende karşı giderken risk almayı sınırlamaktır.
+Çözüm:
+Sadece bir dakikalık grafiğe odaklanmayın ve genel trende 
+dikkat edin. Bir saatlik ve 15 dakikalık grafikler, piyasanın alıcılar 
+mı yoksa satıcılar mı tarafından işgal edildiğini belirlemenize 
+yardımcı olacaktır. O zaman hangi yönde çalışmanın ve yeterli 
+risk almanın daha kolay olacağını bileceksiniz. Özellikle 
+piyasadan güçlü ve hızlı bir hareketten sonra, ters yönde 
+piyasaya girmek ihtiyatlı bir şekilde yapılmalı, önce gerçekleşen 
+tersine dönüşün sadece kısa bir ömre doğru gitmediğine dair bir 
+onay beklenmelidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Ürünlerinizi Tanıyın
+Son olarak, yeni bir ürünle işlem yapmaya başlamadan 
+önce, özelliklerini okuyup anladığınızdan emin olmanız 
+gerekir: Gerekli marj nedir, her bir noktanın değeri ne 
+kadardır, işlem saatleri nelerdir, vb.
+DAX geleceği
+DAX vadeli işlem sözleşmesi (kod: FDAX), Mart, Haziran, Eylül ve Aralık 
+aylarının her üçüncü Cuma günü saat 13:00'te (ya da Cuma tatil 
+günüyse Perşembe günü) nakit ödemeli üç aylık bir sözleşmedir. 
+Sözleşme, 0,5 puanlık fiyat değişimleriyle, yani 12,5 € ile puan başına 
+25 € olarak fiyatlandırılmıştır.
+Sözleşme değeri hesaplaması: piyasa fiyatı x 25 €. Yani vadeli 
+işlem 12551 puandaysa, bir lot size 313.775 €'ya (25 x 12551) mal 
+olacak. Neyse ki, işlem hesabınızda bu miktarda paraya 
+ihtiyacınız yok. Bu sözleşmeyi işlem yapmak için başlangıç   marjı 
+Eurex tarafından belirlenir ve piyasa risk analizine bağlı olarak 
+dalgalanır. Aracınız buna ekstra bir marj ekleyecektir. Bu kitabın 
+basılacağı tarihte, ortalama gerekli marj sözleşme başına 24.000 
+€'dur.
+Bunun yerine DAX CFD'leri ile işlem yapmak isterseniz, öncelikle 
+brokerinizin gerekliliklerinin ne olduğunu ve bu ürünün işlem koşullarının 
+ne olduğunu kontrol edin. Bazı brokerler DAX CFD'yi 1€'dan sunabilir
+puan başına; diğerleri 25 €'dur ancak 1/10 satın alma seçeneğiyleinciveya
+1/100 bileincibunun. Ayrıca, CFD, yeniden yatırılan temettüler ve 
+finansman nedeniyle daha önce açıkladığım seviyelerde 
+fiyatlandırılmayan DAX endeksine değil, vadeli işlemlere bağlı 
+olabilir. Bazı CFD brokerları, piyasa saatleri dışında bile fiyat teklif 
+edebilir. Bu, stop loss'larınız bağlı olarak gece boyunca tutulan 
+pozisyonlarınız varsa tehlikeli olabilir çünkü piyasa işlem saatleri 
+dışındaki fiyatlar stop loss'unuzun yürütülmesine neden olabilir. Bu 
+nedenle, önce işlem yapacağınız ürünler hakkında okuyun ve 
+kullandığınız herhangi bir broker ile ürünün özelliklerini tekrar 
+okuyun çünkü bunlar bir CFD broker'ından diğerine farklı olacaktır.
+Mini DAX ve e-mini Dow
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Neyse ki, işlem yapmaya başladığınızda nokta başına 25 €'dan 
+sözleşme ticareti yapmak zorunda değilsiniz. Nokta başına 5 €'dan 
+mini DAX (kod: FDXM) ve e-mini DOW (YM…) ile başlayabilirsiniz ve e-
+mini DOW için 5 $. Bunlar da benzer şekilde üç aylık yerleşimlerdedir.
+Sözleşme değerini hesaplamak için kullanılan formül 
+aynıdır: teklif edilen fiyat x bir noktanın fiyatı. Bu kitabın 
+basılacağı tarihte, mini DAX için ortalama gerekli marj 4800 
+€ ve e-mini Dow için 6550 $'dır.
+Daha önce bahsettiğim stratejilerden bazıları en az iki sözleşme 
+gerektirdiğinden, puan başına 1 €'dan CFD'lerle başlayıp deneyim 
+kazanmak, ardından mini sözleşmelere ve daha sonra büyük 
+silahlara geçmek faydalı olabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+Hangi Piyasada ve Hangi Piyasada İşlem Yapılmalı?
+Aracı kurum
+Teklif edilen işlem yapabileceğiniz çok sayıda ürün var ancak 
+scalping için büyük hacimlerde işlem gören ve oynaklığı olan 
+ürünlere ihtiyacınız var. Bunları mini DAX ve e-mini Dow vadeli 
+işlemlerinde buluyorum. Oynaklık, yani günlük aralık (günün en 
+düşük seviyesi ile en yüksek seviyesi arasındaki mesafe) geniştir. 
+Ayrıca, bu nokta çok önemlidir, bu ürünler düzenlenmiş ve 
+merkezi piyasalarda işlem görmektedir: DAX vadeli işlemleri için 
+Eurex ve e-mini Dow için CME; OTC ürünleri olan CFD'lerin 
+aksine; yani aracınız işleminizin karşılığıdır. Satın aldığınızda, 
+aracınız satıcınızdır ve sattığınızda, aracınız sizden satın alır. Öte 
+yandan, merkezi bir piyasada, başka birinin emri sizinkiyle 
+eşleştiğinde (alıcıların ve satıcıların fiyatları buluştuğunda) 
+emriniz yönlendirilir ve yürütülür. Ayrıca, vadeli piyasalarda işlem 
+hacmini görebilirsiniz, CFD'de ise aracınız hiç hacim 
+göstermeyebilir veya yalnızca platformunda işlem gören 
+hacimleri gösterebilir.
+Ve daha da önemlisi, vadeli piyasalarda diğer piyasa 
+katılımcılarının teklif ettiği fiyatları görürsünüz, CFD'lerde ise 
+yalnızca brokerinizin teklif ettiği fiyatları alırsınız. Bunu 
+örneklendirmek için, aynı anda iki farklı CFD brokerinin teklif 
+ettiği fiyatların anlık görüntüsünü aldım.
+Şekil 27. Bilet siparişi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Yukarıdaki Şekil 27'de, sol taraftaki aracının Alman 30'da 
+12.600,25'te bir satış fiyatı teklif ettiğini görebiliriz; bu, sağ 
+taraftaki aracının teklif ettiği fiyatın 3 puandan fazla 
+altındadır. Hangi aracı doğru fiyatı teklif ediyor?
+Yüksek oynaklık durumunda, CFD'ler vadeli işlemlerle aynı şekilde 
+tepki vermez: fiyatlar farklı bir hızda ayarlanabilir ve broker tarafından 
+sunulan spread artabilir. Piyasa çok hızlı hareket ediyorsa bir piyasa 
+emri yeniden fiyatlandırılabilir. Durdurma emirleri kaymaya neden 
+olabilir, bu da size ödenen fiyat durdurma emrinizden birkaç puan 
+uzakta olduğu için brokerınıza birkaç puan kaybedeceğiniz anlamına 
+gelir.
+CFD'leri ve vadeli işlemleri, market tüketimindeki mevcut 
+eğilimlerle karşılaştırmayı seviyorum. İnsanlar, süreçte kar elde 
+eden aracılar ve toptancılar olmadan, doğrudan çiftlikten gelen 
+taze ürünleri tüketmeyi severler. Vadeli işlemler ticareti de buna 
+benzer. Fiyatları doğrudan piyasadan alırsınız, CFD'ler ise gelirini 
+spread'lerden elde eden broker'ınız tarafından sunulan ürünlerdir. 
+Dahası, CFD sağlayıcıları pozisyonlarını veya pozisyonlarının bir 
+kısmını vadeli işlemler ve opsiyonlar kullanarak korurlar.
+Bu yüzden size sadece vadeli veya mini vadeli sözleşmelerle işlem 
+yapmanızı önerebilirim. Ancak CFD'ler, işlem yapmaya ilk adımlarınızı 
+attığınızda küçük pozisyonlarda işlem yapmak için yararlı olabilir çünkü 
+ürünleri 5 avro yerine sadece bir avro üzerinden işlem yapabilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+DAX vadeli işlemlerinde mini vadeli işlem sözleşmesi veya hatta puan başına 
+25 avro. Yerel yasalar ve finansal düzenlemeler nedeniyle CFD'lerin tüm 
+ülkelerde mevcut olmadığını unutmayın.
+Ancak CFD ticareti yapabiliyorsanız ve yapmak istiyorsanız, kiminle 
+ticaret yapacağınıza karar vermeden önce farklı brokerların sunduğu 
+spreadlere baktığınızdan emin olun. Yukarıdaki Şekil 27'de sağ 
+taraftaki broker Alman 30'da bir puanlık spread sunarken, sol 
+taraftaki broker 1,5 puanlık bir spread sunuyor. Yarım puan çok fazla 
+fark yaratmaz, ancak scalping'de çok şey ifade eder. 20 işlemden 
+sonra, her işlemde puan başına bir avrodan yarım puan daha fazla 
+ödeme yapmak, komisyonlarda ekstra 10 avro israf edilmesine neden 
+olur; ve böylece 40 işlemden sonra, 20 avro israf etmiş olursunuz. 
+Diyelim ki bir ayda 600 ila 800 işlem yaparsanız, ekstra 
+komisyonlarda 300 ila 400 avro israf etmiş olursunuz.
+Brokerınızı nasıl seçersiniz:
+İyi koşullarda scalping yapabilmek için broker seçerken 
+şu noktalara dikkat etmeniz gerekiyor:
+CFD'lerle çalışmayı seçerseniz dar spreadler. Sadece 
+brokerınız için çalışmak istemediğinizden, puan başına bir 
+avro veya dolar ödemeniz gereken maksimum miktardır;
+Gerçek zamanlı veri akışı esastır. Eurex veri akışına (DAX 
+ve mini DAX) abone olmak size ayda yaklaşık 20 avroya 
+ve CME CBOT (e-mini Dow) verilerine abone olmak için 
+de 25 avroya mal olacaktır. Brokerınız veri sağlayıcısı için 
+ücretleri toplar; tedarikçiye doğrudan ödeme yapmanız 
+gerekmez. Sadece CFD ticareti yapmak istiyorsanız bu 
+ücretleri ödemeniz gerekmez, ancak yalnızca brokerınız 
+tarafından sağlanan verilere erişebilirsiniz.
+Çoğu platform, otomatik kar alma ve zarar durdurma 
+emirleri ayarlama seçeneğiyle, buy limit veya sell limit 
+emirleri gibi basit emirler vermenize izin verir. Ancak 
+bazıları, pozisyonun bir kısmı için otomatik bir emir ve 
+pozisyonun ikinci kısmı için başka bir emir ayarlamanıza 
+izin vererek daha da ileri gider ve 3 farklı hedef 
+ayarlamak isterseniz bu şekilde devam eder.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+Önceki bölümlerde gördüğümüz gibi, bu emirler destek, 
+direnç ve pivot noktasının aşılması durumlarında 
+faydalıdır.
+Bazı brokerların ilk giren ilk çıkar kuralıyla çalıştığını 
+unutmayın, bu da aynı üründe zıt pozisyonların ayrı ayrı 
+yürütülmesine izin vermeyecekleri anlamına gelir, yani 
+korunma. Yeni yürütülen bir satış emri bir pozisyonu 
+açmayabilir, ancak önceden açılmış bir alım pozisyonunu 
+dengeleyebilir veya kapatabilir. Öte yandan CFD brokerları 
+pozisyonlarınızı birbirinden ayrı olarak işlem yapmanıza, 
+korunmanıza ve çalıştırmanıza izin verebilir. Teoride aynı 
+miktarda ve aynı üründe kısa ve uzun pozisyonlar birbirini 
+dengelese de, brokeriniz yine de her pozisyon için ayrı bir 
+marj kapsamı hesaplayabilir. Bu nedenle marj kullanımınızı 
+takip edin.
+Küçük bir hesapla başlıyorsanız, yani 5.000 €'dan az bir 
+miktarla, işlem yapmanıza izin verecek aracı kurumları arayın
+küçük miktarlarda, 1/100 kadar küçükincibir lot. Bu 
+şekilde, işlemlerinizde güven kazanana kadar minimum 
+risk alarak işlem yapmaya başlayabilirsiniz.
+Akıllı telefon, iPad veya benzerinden işlem yapabilme. Bu 
+cihazları scalping için kullanmanızı kesinlikle tavsiye 
+edemem ancak işlem yaparken bilgisayarınızda bir sorun 
+çıkarsa veya internet geniş bant bağlantınız aniden 
+kapanırsa veya kendini sıfırlarsa B planının bir parçası 
+olarak kullanılmalıdır. Cep telefonu şebekesine bağlı akıllı 
+telefonunuz, bilgisayarınız ve internet tekrar çalışır 
+duruma gelene kadar gerekirse bazı emirleri değiştirmek 
+veya kapatmak için yedek cihazınız olacaktır. Günümüz 
+dünyasında çoğu broker mobil teknoloji sunmaktadır.
+Bu B planıydı. C planı ise, bilgisayarınız ve mobil 
+uygulamanızın yapmanız gereken bir işlemi 
+gerçekleştirmenize izin vermemesi durumunda, acil 
+bir durumda son çare olarak brokerinizin işlem 
+masasını arayabilmenizdir.
+Son olarak, en az iki broker ile çalışmanız gerekiyor 
+çünkü herhangi bir nedenle brokerlarınızdan birinin 
+platformunda teknik bir sorun varsa,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+İkinci brokerinizin platformunda hızlı hareket edebilmeniz 
+gerekir. Diyelim ki bir pozisyonu kapatmanız gerekiyor 
+ancak broker A'nın platformu bir nedenden dolayı 
+çalışmıyor. O zaman broker B platformunda her zaman 
+ters emir açabilirsiniz. Örneğin, broker A ile uzun bir 
+pozisyonu kapatmanız gerekiyor ancak teknik bir sorun 
+bunu yapmanıza izin vermiyor. O zaman broker B ile kısa 
+bir pozisyon açmalısınız, ta ki her şey tekrar çalışır duruma 
+gelene kadar. Daha sonra bu pozisyonları aynı anda 
+kapatmak için çalışabilirsiniz.
+Mini vadeli işlemlerle işlem yapmaya hazır olduğunuzda, 
+fırsat doğduğunda 2 lotla scalping yapabilmek için en az 
+12.000 avroya sahip olmanızı öneririm. En doğru bilgi için, 
+bir veri sağlayıcısı seçebiliyorsanız, tick by tick veri akışını 
+seçin. Bazı veri sağlayıcıları, piyasa verilerini saniye saniye 
+bilgisayarınıza gönderirken, diğerleri verilerini tick by tick 
+bazında yeniler, yani piyasada her işlem gerçekleştiğinde 
+size en son değiştirilen fiyatı gösterir.
+Bu kitapta size mini DAX ve e-mini Dow'da nasıl işlem 
+yapacağınızı gösterdim. Bazı ek piyasaları keşfetmek ve işlem 
+yapmak isteyebilirsiniz ancak aynı anda ikiden fazla piyasada 
+işlem yapmamanızı öneririm çünkü scalping işlemlerinizde 
+konsantrasyon ve hızlı eylem gerektirir. Bu iki üründe birinin 
+Avrupa, diğerinin Amerikan olduğunu fark etmiş olabilirsiniz, bu 
+nedenle DAX'ı Avrupa saatleri sırasında ve e-mini Dow'u ABD 
+piyasa saatleri sırasında kullanabilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+Ne Zaman İşlem Yapılmalı ve Ne Zaman İşlem Yapılmamalı
+Piyasalar farklı evrelerden geçer ve bazen piyasayı 
+okumakta zorluk çekersiniz veya bazen de düşük 
+hacimler ve piyasa katılımcılarının yüksek tereddütleri 
+nedeniyle piyasanın düz ve sıkıcı bir ivmeyle evrildiği 
+zamanlar olur.
+Şekil 28. DAX vadeli işlem, 5 dakika
+Şekil 28 tipik bir sakin günü göstermektedir. Bu örnek için, tüm 
+günü tek bir grafiğe sığdırmak için 5 dakikalık mumlar kullandım. 
+Gördüğünüz gibi, piyasa günün en düşük seviyesi ile en yüksek 
+seviyesi arasında yaklaşık 60 puanlık bir fark yapıyor; bu da fena 
+değil. Peki bu nasıl oldu? Sabahın erken saatlerinde 30 puanlık hızlı 
+bir düşüş, ardından sabahın sonunda açılış fiyatlarına geri dönüş 
+ve ardından saat 17:00'de tekrar küçük bir uyanışa kadar 6 saatlik 
+uzun bir bekleyiş. Bu 6 saat boyunca mini aralık ticareti yapmanın 
+dışında yapabileceğiniz pek bir şey yok.
+Bir günün nasıl geçeceğini tahmin etmek zordur. Burada trendlerden 
+bahsetmiyorum, sadece fiyat oynaklığından bahsediyorum. Aktif bir 
+gün mü olacak yoksa çok sessiz bir gün mü? Gerçekten
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+önceden bilin. Ancak, önceki günün davranışları ve 
+grafik desenleri gibi arayabileceğiniz bazı ipuçları vardır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Şekil 29 – DAX vadeli işlem, bir saat
+Şekil 29'da, piyasa DAX'ı birkaç gündür yükselterek 2 ay önceki 
+zirvelerine geri döndürüyor. Piyasa destek ve dirençler gibi önemli 
+seviyeleri test ettiğinde, hiç kimse en yüksekten satın almaya ve 
+piyasayı daha da ileriye taşımaya istekli olmadığından, bir olay veya 
+bir şey piyasanın bir atılım yapmasını veya keskin bir şekilde konsolide 
+olmasını tetikleyene kadar biraz tereddüt bekleyebilirsiniz. Önemli 
+seviyelere ulaştığınızda ve bunları test ettiğinizde, piyasanın o seviyeyi 
+kırmadan veya tersine çevirmeden önce test etmesini bekleyin.
+Piyasa aktivitesini aramak için bir diğer ipucu da ekonomik 
+takvimlerde ve piyasanın duyurulacak olaylara veya haberlere nasıl 
+tepki verdiğinde bulunabilir. Piyasa, haberlerin yayınlanmasını 
+bekleyerek işlem yapmaya istekli daha az katılımcıyla sessiz bir faza 
+girebilir. Bazı katılımcılar gerçekten de kenarda kalmaya karar 
+verecektir, tıpkı bundan sonra yapmanızı tavsiye edeceğim gibi. Bu 
+sessiz fazda, yine birçok günlük yatırımcının haberlerin yayınlandığı 
+anda yüksek fiyat oynaklığı riskiyle karşı karşıya kalırken çok fazla 
+pozisyon açmak istememesi nedeniyle, işlem hacimleri düşük 
+olabilir. Siz
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+İşlem yaptığınız ürün için gün boyunca gerçekleşen ortalama 
+hacmi bilmeniz, piyasanın daha az katılımcı tarafından düşük 
+hacimlerle mi hareket ettirildiğini yoksa gerçekten de artan bir 
+ilgi olup olmadığını değerlendirmenize olanak tanır.
+Scalping yaparken, piyasa haberler yayınlanmadan önce ve 
+yayınlandıktan sonra çok oynak olabileceğinden, tüm 
+pozisyonlarınızı kapatmak isteyebilirsiniz. Oynaklık normalde bize 
+hizmet etse de, bir haber yayınlandığında, piyasa herhangi bir 
+yönde düzensiz hareket edebilir, haber yayınlanmadan önceki 
+haline geri dönebilir veya belirli bir yönde yerleşebilir. Olacak olan 
+şey, doğru yönde işlem yapmış olmanız ancak piyasanın fiyat 
+oynaklığı nedeniyle önce stop loss'unuza çarpmasıdır. Şimdi, bu 
+durumda stop loss koymayalım veya daha uzağa koyalım 
+diyebilirsiniz, ancak piyasa size karşı hareket ederse ve daha sonra 
+seçtiğiniz yönde geri dönmezse ne olur? Bana göre, haberler 
+yayınlanmadan hemen önce emir vermek sadece kumar 
+oynamaktır. Piyasanın haberlere verdiği tepkilere de mantık 
+uygulamaya çalışmayın, haber olumluysa piyasanın kesinlikle 
+yükseleceğini veya tam tersini, çünkü bunun 
+gerçekleşmeyebileceğini düşünmeyin. Piyasa, bazı piyasa 
+katılımcılarının karlarını bozdurmaya başlamasıyla haberi 
+fiyatlandırmış olabilir ve bu da fiyatların mantıksal olarak gitmesi 
+gereken yönün tersine gitmesine neden olabilir. Bir haber veya 
+rakam yayınlandığında, bununla ilgili tüm bilgilere sahip olmazsınız. 
+Örneğin, ham petrol stokları tahmin edilenden düşükse, bunun 
+nedeni daha yüksek petrol tüketimi mi yoksa daha düşük petrol 
+üretimi mi? Piyasa katılımcılarının hangi stratejileri var? Haberleri 
+analiz edebilmek ve piyasanın haberi nasıl sindireceğini tahmin 
+edebilmek için tüm cevaplarına sahip olmadığımız birçok faktör ve 
+soru var. Bazen, bir haberin yayınlanmasının ardından, piyasa bir 
+yöne giderek güçlü bir şekilde tepki verir, ancak sonraki iki saat 
+içinde toparlanır ve mevcut aktivitesine devam eder. Bu yüzden 
+haberlere güvenerek kumar oynamaya çalışmayın. Ancak 
+deneyimle, önemli haberlerin belirli zamanlarda piyasa üzerinde 
+hiçbir etkisi olmayabileceği, diğer zamanlarda ise güçlü bir şekilde 
+incelenebileceği zamanları öğreneceksiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Piyasaları sıklıkla etkileyen başlıca makroekonomik haberler, 
+merkez bankalarının faiz oranı kararları ve basın toplantıları, 
+ham petrol stokları, Amerikan istihdamı, enflasyon 
+rakamları, GSYİH'ler ve konut satışlarıdır. Bağlama bağlı 
+olarak, yayınlandığında oynaklığa neden olabilirler.
+Birçok web sitesinde haber bülteni tarihlerini ve saatlerini içeren takvimler 
+bulabilirsiniz. Ben yayınlanan ekonomik takvimi kullanmayı seviyorum
+yatırım.com ve önemli haberleri göstermek için bir filtre uygulayın.
+Şekil 29. Ekonomik takvim
+Hafta biterken, sonraki haftanın etkinliklerine bakarım ve 
+bunları bilgisayar takvimime bildiririm ve haber bülteninden bir 
+saat ila 30 dakika önce çalan hatırlatıcılar ve alarmlar 
+kaydederim. Bu şekilde, haber bülteninden hemen önce başka 
+pozisyon açmamamı ve pozitif bölgedeyken mevcut pozisyonları 
+kapatmamı hatırlatır.
+Aşağıda, işlem yapmamanızı önerdiğim ek zamanların bir listesi 
+bulunmaktadır:
+Borsa açılışından sonraki ilk on dakika. Borsa açılışından 
+bahsediyorum, gelecekteki piyasadan değil. İlk on 
+dakika boyunca, piyasa farklı şekillerde hareket edebilir 
+ve bize yararlı okumalar sağlamaz. Gerçekten de, bazı 
+katılımcılar bir önceki gün kapatmayı başaramadıkları 
+veya o anda yeterli teminatları olan ancak artık olmayan 
+pozisyonları kapatıyor olabilir. Diğer katılımcılar, 
+opsiyon koruma çalışmaları nedeniyle pozisyonları 
+açabilir veya kapatabilir ve
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+vb. Farklı gündemlere sahip farklı tüccarlar. İlk 
+on dakika, scalper'lara herhangi bir fırsat 
+vermeden stop loss'ları tetikleyebilecek oynaklık 
+yaratabilir.
+Üçlü cadı günü: Bu, aylık bazda endeks vadeli işlem 
+sözleşmelerinin, hisse senedi endeks opsiyon 
+sözleşmelerinin ve tek hisse senedi opsiyon 
+sözleşmelerinin sona erdiği güne verilen isimdir; hatta tek 
+hisse senedi vadeli işlem sözleşmelerinin üç aylık bazda bu 
+listeye eklendiği dörtlü cadı günü bile. Üçlü cadı günü her 
+ayın üçüncü Cuma günü ve dörtlü cadı günü her çeyrek 
+sonunda ayın üçüncü Cuma günü gerçekleşir. Pozisyonlar 
+bir sonraki sözleşme süresine devredildiği için hacimler 
+yapay olarak yükselir. Piyasa katılımcılarının farklı 
+gündemleri olduğu için oynaklık da artabilir ancak bu 
+scalper'a yardımcı olmayabilir, bu yüzden bu günlerde işleri 
+kolaylaştırmayı tercih ediyorum.
+Çeyreğin son günü: Bazı piyasa katılımcıları 
+bilançolarını ve çeyreklik raporlamalarını iyileştirmek 
+için çalışıyor olabilir. Ancak bunun bir yükseliş trendini 
+tetikleyeceğini düşünmeye başlamayın çünkü yükselen 
+fiyatlar kurumsal yatırımcıların bilançolarını 
+iyileştirebilirse, defterlerinde kısa pozisyonlar olanlar 
+için olumsuz bir etkisi olabilir.
+Tatiller ve bayram dönemleri: Bu dönemlerde hacimler daha 
+düşüktür. Piyasa serbest dönüş modunda olabilir veya düşük 
+hacimlerde hızla hareket edebilir. Kesinlikle işlem yapmak 
+istiyorsanız, bunu daha düşük hacimlerde yapın çünkü kurumsal 
+yatırımcılar ve büyük piyasa hareket ettiricileri tatildeyken piyasa 
+size iyi işlemler gerçekleştirmeniz için doğru fırsatları 
+vermeyebilir. Saat 22:00'den sonra işlem yapmak: Mini DAX ve 
+DAX vadeli işlemleri saat 22:00'den sonra işlem göremez ancak e-
+mini Dow için CME, yatırımcıların GLOBEX platformu üzerinden 
+bir OTC sisteminde işlemlerini sürdürmelerine olanak tanır. Yani 
+e-mini Dow'da gerçekten durmaksızın işlem yapmak istiyorsanız, 
+Pazartesi gece yarısından Cuma gece 23:00'e kadar 
+başlayabilirsiniz (bu saatler kış ve yaz saati değişiklikleri sırasında 
+biraz değişebilir). Ancak, saat 10:00'dan sonra işlem yapmak
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+pm önerilmez çünkü hacimlerin çok düşük olması 
+muhtemeldir. Bunun yerine enerjinizi 14:30 CET'de 
+gerçekleşecek olan ABD ön piyasa açılışına odaklayın.
+Mini-DAX ve DAX ön piyasa açılışında işlem yapma
+Mini DAX ve DAX vadeli işlem piyasaları, borsa açılışından bir saat 
+10 dakika önce sabah 7:50'de açılır. Çoğu zaman piyasa öncesi açılış 
+düşük hacimli işlemlerle çok sessizdir. Ekranınıza koşup sabah 8'de 
+işlem yapmaya başlamanıza gerek yok. Ancak piyasa bir gün önce 
+güçlü bir hareket yaptığında, piyasa öncesi açılışta fırsatlar ortaya 
+çıkabilir. Piyasa katılımcılarının farklı gündemleri olduğunu 
+biliyoruz, ancak piyasa bir yöne güçlü bir şekilde tepki verdiğinde, 
+spekülatörleri zor pozisyonlara sokabilir. Örneğin, piyasa bir günde 
+300 puan düşerse, bazı uzun vadeli yatırımcılar marj çağrılarıyla 
+karşı karşıya kalabilir, bu da hesaplarına daha fazla nakit koymaları 
+veya pozisyonlarının bir kısmını kapatmaları gerektiği anlamına 
+gelir. Bu, piyasaya daha fazla satış emri verilmesine yol açacaktır. 
+Aynı zamanda, bazı satıcılar nakite çevirmek ve kazançlı işlemleri 
+kapatmak isteyebilir. Piyasa öncesi açılışın ilk dakikalarında 
+piyasanın nasıl gelişeceğini bilemezsiniz, ancak bazı işlemler 
+gerçekleştirmek için Heikin Ashi mumlarını kullanabilirsiniz çünkü 
+bir önceki gün güçlü bir hareketten sonra piyasa öncesi açılışta 
+oynaklık olması muhtemeldir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+Şekil 30. DAX, bir dakika
+Şekil 30, DAX'ın bir önceki gün 300 puan kaybetmesinin ardından 
+piyasa öncesi açılışı gösteriyor. 300 puan, DAX için güçlü bir günlük 
+hareket.
+Sessiz piyasa öncesi açılışta fiyatlar on ila yirmi puan 
+aralığında hareket eder. Ancak burada, önceki günkü güçlü 
+hareketten sonra, biraz oynaklık bekleyebiliriz. Şekil 30'da, 
+piyasa 12450'nin hemen altına doğru yükseldi ve ardından 
+60 puandan fazla geri düştü.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+Son Bir Tavsiye
+Burada size piyasanın geçtiği her aşama için esnek ve 
+farklı bir işlem yöntemi sundum. Ancak, bu yalnızca 
+işlemlerinizde titiz olursanız işe yarayacaktır. Titiz olmak 
+şu anlama gelir:
+Fiyat seviyeleri, pivot noktaları, destek ve direnç 
+gibi belirli işlem senaryoları için ne yapacağınızı 
+önceden bilmeniz gerekir; yani bir plan yapın ve 
+emirlerinizi önceden verin; verdiğiniz her emirde 
+bir zarar durdurma ve ilk kar alma hedefi 
+olmalıdır;
+Otomatiklerle çalışmalısınız. Piyasa oynak bir fazdaysa ve 
+piyasaya ne zaman gireceğinize karar vermek için Heikin 
+Ashi mumlarını kullanıyorsanız, giriş noktanızın bölgedeki 
+en yüksek veya en düşük fiyatın üzerine gerçekçi bir şekilde 
+yerleştirebileceğiniz bir zarar durdurma ile 
+doğrulandığından emin olmanız gerekir. Mevcut fiyat zarar 
+durdurmanızı çok uzakta yapıyorsa, acele etmeyin ve büyük 
+fırsatı kaçırdığınızı düşünerek mutlak bir ticaret ruh haline 
+girmeyin. Sadece ticaretinizi riske atmayı başaracaksınız;
+Önceki noktaya benzer şekilde, ayrılma trenini yakalamaya 
+çalışan dürtüsel işlemlerden her ne pahasına olursa olsun 
+kaçının. Fırsatlar düzenli olarak gelir. Bir işlem yapmıyorsanız 
+endişelenmeyin. Fiyatlarda ani bir artış veya düşüş 
+gördüğünüzde hislerinizi dinlemeye meyilli olabilirsiniz. Ancak 
+bunun yerine planınıza sadık kalmanız gerekir;
+Kötü bir güne başladığınızı fark ederseniz, ısrar 
+etmeyin, günü bir kenara bırakın ve yarın zihniniz açık 
+bir şekilde geri dönün. Kumarbaz kumarbaz tavrını, 
+yani masadan kalkmak istemeyen ve işleri 
+düzelteceklerini düşünen kaybeden kumarbazları 
+benimsemeyin.
+Son olarak, bir işlem günlüğü tutun. Haftanın sonunda 
+geri dönüp en iyi yaptığınız ve işe yaramayan şeyleri 
+kontrol edin. Ayrıca kazanan işlemlerinize de dikkat 
+edin. Belki de planınıza sadık kalsaydınız, bunlardan 
+daha fazla kar elde edebilirdiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+Diğer hususların yanı sıra, işlem günlüğünüzde aşağıdaki 
+bilgiler bulunmalıdır:
+Başarı oranı:
+Başarı oranı, belirli bir dönemdeki toplam işlemlere göre kazandıran 
+işlemlerin yüzdesidir.
+Kar/zarar oranı:
+Kar/zarar oranı önemlidir çünkü ortalama kazancı ortalama kayıpla 
+karşılaştırır. Sonuç birin üzerindeyse, bu ortalama kazancın 
+ortalama kaybın üzerinde olduğunu gösterir. Bu şekilde başarı 
+oranınız %50'nin altında olsa bile, birin üzerinde bir getiri oranı sizi 
+yine de karlı hale getirebilir.
+Başarı oranının Kar/Zarar oranıyla birleşmesi size şunları sağlayacaktır:
+işlem başına ortalama karlılık (APT). Bunu açıklamak için, bir 
+yatırımcının 100 işlemden 60'ını kazanan, 40'ını kaybeden işlem 
+yaptığını varsayalım. Bu durumda başarı oranları %60'tır. Genel olarak 
+işlemleri başarılıdır. Ancak şimdi ortalama kazançlarının 200 € ve 
+ortalama kayıplarının 300 € olduğunu varsayalım. Dolayısıyla Kar/Zarar 
+oranları 0,67'dir ve işlem başına ortalama karlılıkları sıfırdır (%60 x 200 
+€ eksi %40 x 300 €). Gördüğünüz gibi, bu örnekte, bu yatırımcının 
+kaybeden işlemlerinden daha fazla kazanan işlemi olabilir. Ancak 
+ortalama kayıplar ortalama kazançlardan daha büyük olduğu için kar/
+zarar oranları birin altındadır ve bu örnekte işlem başına ortalama 
+karlılıkları sıfırdır. Kaybeden işlemleri, daha az sıklıkta gerçekleşse de, 
+kazanan işlemlerinden biriktirdikleri kazançları tüketmiştir.
+Bu hesaplamaları yapmak ve performansınızı analiz etmek için, 
+işlem günlüğünüz her işlem için şu bilgileri kaydetmelidir: açık 
+pozisyon fiyatı, kapanış pozisyonu fiyatı, işlemdeki kazanç veya 
+kayıp puan cinsinden. Ayrıca pozisyonu açma zamanı için bir 
+sütun ve pozisyonu kapatma zamanı için başka bir sütun 
+kullanıyorum. Ayrıca başka bir sütunda bu işlem için kullandığım 
+işlem tekniğini belirtiyorum, yani mini aralık, seviye, pivot 
+noktası veya Heikin Ashi mum rengi değişimi üzerinde çalışıp 
+çalışmadığımı. Son olarak, buna değerse bir yorum ekliyorum. 
+Örneğin, mini aralıkta çalışmışsam ve 5 puanlık bir kayıp 
+yaşamışsam, bu kaybın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+Durdurma işlemimin yürütülmesi nedeniyle. Aracınız size başarı 
+oranını ve getiri oranını hesaplayan raporları indirme olanağı 
+bile sunabilir, bu da sizin için kolaylaştırır. Ancak yine de geri 
+dönüp işlemlerinizi analiz edebilmeniz için bir günlük 
+tutmalısınız.
+Ticaret günlüğüm şu şekilde görünüyor:
+Şekil 31. Ticaret günlüğü
+Şekil 31'de, işlem günlüğümdeki sütunlar şu şekildedir:
+Sütun A: Pozisyonun açıldığı zaman; B: Pozisyonun 
+tamamının veya ilk kısmının kapatıldığı zaman; C: Bakiye 
+tutuyorsam pozisyonun ikinci kısmının kapatıldığı zaman;
+D: pozisyon türü, yani uzun (Alış) için B ve kısa (Satış) 
+için S;
+E: giriş fiyatı;
+F: pozisyonun tamamı veya ilk yarısı için kapanış fiyatı; 
+G: kalan kısım için kapanış fiyatı;
+H: kazanılan veya kaybedilen puan sayısı;
+I: Her işlem için kullanılan strateji. Heikin Ashi işlemleri için HA, mini 
+aralıklar için R, destek veya direnç seviyelerinde scalping için S, 
+pivot noktaları etrafında scalping için P;
+J: İşlemlerime geri dönüp baktığımda faydalı olabileceğini düşündüğüm herhangi bir 
+yorumunuz var mı?
+Başarı oranınız %50'nin altına düşerse veya kar/zarar oranınız 1'in 
+altındaysa, zararla sonuçlanan işlemlere bakarak başlayabilirsiniz. 
+Zarar durdurma emirlerinizin nasıl tetiklendiğini kontrol edin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+İlk başta haklıyken piyasa gürültüsüne mi kapıldınız? Mini 
+aralıklarda çalışırken stop loss'larınız sık sık vuruluyorsa, mini 
+aralığınızın üst ve alt seviyelerini çok sıkı çizip çizmediğinizi 
+kontrol edin. Belki de çok erken bir mini aralıkta bir işleme 
+girmek için çok istekliydiniz. Kendinize şu soruları sorun ve 
+işleminizin neden zarar ettiren bir işlem olduğunu bulmaya 
+çalışın. Bu egzersizi tekrarlayarak zihninizi daha iyi işlem 
+yapmaya alıştıracaksınız. Aynı şekilde, bir filtre yerleştirin ve 
+küçük karlar üreten kazanan işlemlere bakın. Küçük kar işlemleri 
+yalnızca mini aralıklar içindeki işlemlerle ilgili olmalıdır. 
+Filtrenizde mini aralık işlemlerini hariç tutun ve kazanan bir 
+işlemi neden çok erken kapattığınıza bakın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+Çözüm
+Bu kitapta pek çok teknik analiz aracı kullanmadığımı fark etmiş 
+olabilirsiniz. Bunun nedeni, bu araçların tarihsel verileri kullanması 
+ve pozisyon açmak için bunlara güvenmenin scalping açısından 
+size hiçbir faydasının olmamasıdır. Bazı araçlar birbirleriyle 
+çelişebilir, diğerleri ise piyasa çoktan uzaklaşmışken ve yakında 
+tersine dönebilirken piyasaya girmeniz için size bir sinyal verebilir.
+Bunun yerine, piyasanın sunduğu şeylerle çalışmak daha iyidir, yani 
+piyasa durgun bir anda mı, çok sessiz bir aşamadan mı geçiyor? O 
+zaman mini aralık tekniğini kullanarak işlem yapalım. Volatilite 
+daha büyük mumlar ve fiyat aralıklarıyla mı artıyor? O zaman 
+Heikin Ashi işlemine geçelim. Piyasa çok oynak değil, ancak yine de 
+bir trendde mi? O zaman destek ve direnç testlerini scalping ile 
+çalışalım. Gördüğünüz gibi, işlem yapmak için belirlenmiş bir reçete 
+yok. Ve scalper'lar olarak, sadece esnek olmalı ve işlemlerimizi 
+mevcut piyasa koşullarına uyarlamalıyız. Durum değişirse, yeni 
+piyasa durumuyla artık alakalı olmayabileceği için mevcut 
+stratejinizde inatçı kalmayın. Bunun yerine, stop loss'unuz henüz 
+yürütülmediyse pozisyonunuzu kapatın ve bir sonraki stratejiye 
+geçin. Ancak hangi işlem yöntemini izlerseniz izleyin, işlemlerinizde 
+titiz olmalı ve her işlem için şunları hatırlamalısınız:
+Giriş fiyatı, çıkış hedefi ve stop loss'un bulunduğu bir 
+işlem planına ihtiyacınız var;
+Her zaman zarar durdurma emriyle işlem yapmalısınız; 
+asla çok fazla kaldıraç ve dolayısıyla çok fazla hesap 
+marjı kullanarak aşırı işlem yapmayın.
+Bu kurallara uyulmaması hesabınızda büyük kayıplara yol 
+açabilir, birikmiş karlarınızı çöpe atabilir ve sizi zor durumda 
+bırakabilir.
+O yüzden sıkı bir şekilde ticaret yapın, sorun yaşamazsınız.
+Bana göre, scalping, günlük işlemlerinizi bitirmeden önce sıkı stop 
+loss'lar ve kapalı pozisyonlar göz önüne alındığında, minimum risk 
+alarak işlem yapmaya başlamanın en iyi yoludur. Tekrar tekrar 
+çalışarak, küçük karlar biriktirerek işlem yapın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+ticaretten sonra, kendinize güvenebilir ve benim yaptığım gibi ticaretin tadını 
+çıkarabilirsiniz. Bu çabanızda başarılar dilerim.
+Son bir söz: Eğer kendinizi yalnız hissediyorsanız ve bilgisayarınızın başında tek 
+başınıza işlem yapmak istemiyorsanız, www. adresindeki tutkulu yatırımcılardan 
+oluşan ekibimize katılın.tradinglive.org .
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+Sözlük
+Teklif ve Talep:Teklif, alıcının teklif anında ödemeye 
+istekli olduğu fiyatı temsil eder. Satış fiyatı, satıcının 
+satılan ürün için istediği fiyatı temsil eder. Belirli bir 
+zamanda, Teklif ve Satış fiyatı arasındaki fark spread'dir.
+AYM:Chicago Mercantile Exchange (CME), Merc olarak da 
+bilinir, 1848'de Chicago merkezli dünyanın ilk vadeli işlem 
+borsası olarak kuruldu. 2007'de Chicago Ticaret Kurulu ile 
+birleşerek CME Group oldu. Günümüzde CME, dünyanın en 
+büyük opsiyon ve vadeli işlem sözleşmeleri borsasıdır.
+Fark Sözleşmesi (CFD):Bir fark sözleşmesi (CFD), bir 
+yatırımcı ile aracısı arasındaki bir sözleşmeden oluşan bir 
+OTC (Diğer Karşı) türevidir. Sözleşmenin feshedilmesi 
+üzerine, taraflar hisse senetleri, emtialar, borsa endeksleri 
+vb. dahil olmak üzere belirli bir finansal enstrümanın açılış 
+ve kapanış fiyatları arasındaki farkı takas eder.
+E-mini vadeli işlemler:E-miniler, standart vadeli işlemlerin değerinin bir 
+kısmını temsil eden vadeli işlem sözleşmeleridir. Bu vadeli işlem 
+sözleşmeleri CME ve NYBOT'ta işlem görmektedir.
+Evreks:Eurex, dünyanın önde gelen türev borsalarından 
+biridir ve 1998 yılında DTB (Deutsche Terminbörse) ve 
+SOFFEX'in (Swiss Options and Financial Futures Exchange) 
+birleşmesiyle kurulmuştur. Her iki borsa da elektronik 
+işlem platformları aracılığıyla türev piyasalarına erişim 
+sağlamada öncü olmuştur. Eurex halka açık bir şirkettir ve 
+tamamı Deutsche Börse AG'ye aittir. Eurex, elektronik 
+işlem platformunu işletmenin yanı sıra, ürünler ve 
+katılımcılar için otomatik ve entegre bir ortak Takas 
+Merkezi sağlayarak merkezi, sınır ötesi risk yönetimi 
+sağlar. Eurex, yapısı sayesinde katılımcılara tek bir 
+elektronik sistem üzerinden işlemden nihai yerleşime 
+kadar tüm yelpazeyi kapsayan yüksek kaliteli, uygun 
+maliyetli ve kapsamlı bir hizmet yelpazesi sunar. Sinerji 
+etkileri, işlem ve
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+sadece bir işlem ve takas platformunun bakımı 
+(kaynak: Eurex).
+Son kullanma tarihi:Vade Tarihine bakın
+FIFO'lar:İlk Giren İlk Çıkar (FIFO) terimi muhasebeden 
+kaynaklanır. Ticaret açısından, bu bir hesap kuralıdır ve 
+yatırımcının hesabındaki belirli bir ürün için tüm açık 
+pozisyonların başlangıçta açıldıkları sırayla tasfiye edildiği 
+anlamına gelir. Bunu açıklamak için hesabınızda 4 adet mini DAX 
+vadeli işlem sözleşmesi olan uzun bir pozisyonunuz olduğunu 
+varsayalım. FIFO hesap kuralı uyarınca piyasayı kısaltmak için 
+ticaret platformunuzda 2 sözleşme için bir satış emri vermek 
+istiyorsanız, emriniz yürütülür yürütülmez, 4 sözleşmelik uzun 
+pozisyonunuz 2 sözleşmeye düşürülecektir çünkü platform bu 
+satışı pozisyonunuzu azaltmak için kullanmaktadır (4 sözleşme 
+girdikten sonra 2 sözleşme çıktıktan sonra 2 sözleşmelik uzun 
+pozisyon kalır). Öte yandan, hesabınız FIFO kuralına tabi değilse, 
+yukarıdaki işlemler hesabınızda 4 sözleşmeden oluşan uzun bir 
+pozisyon ve 2 sözleşmeden oluşan kısa bir pozisyon 
+gösterecektir. Daha sonra her pozisyon ayrı ayrı yönetilebilir.
+Gelecek sözleşme:Belirli bir tutarda bir finansal aracın, belirli bir 
+fiyattan, gelecekte belirli bir tarihte teslimi veya alınmasına ilişkin 
+standartlaştırılmış sözleşme.
+Açıklık:Bir boşluk, günün açılış fiyatının bir önceki günün kapanış 
+fiyatından yüksek veya düşük olması durumunda oluşur. Boşluk, 
+bir önceki mumun kapanış fiyatı ile bir sonraki mumun açılış fiyatı 
+arasındaki boş bir alandan başka bir şey değildir.
+Koruma:Mevcut bir portföyü veya planlanan yatırımları olumsuz fiyat 
+değişikliklerine karşı korumak için bir strateji kullanılması.
+Limit emri:Limit emirler, belirlenen limit üzerinden veya daha iyi bir 
+fiyattan gerçekleştirilir.
+Uzun pozisyon:Bir alıcının vadeli işlem sözleşmesinde veya CFD'de açık 
+pozisyonu.
+Marj:Marj, Takas Üyesi tarafından sözleşmenin yerine 
+getirilmesi için yatırılması gereken teminattır (Ek Marj, Vadeli 
+İşlem Marjı, Prim Marjı) ve aşağıdakileri karşılamaya yarar:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 76 ===
+Takas odasının risk maruziyeti. Eurex, Risk Tabanlı 
+Marjlama sistemini kullanarak marjı hesaplar (kaynak: 
+Eurex).
+Marj çağrısı:Yatırılan teminat artık yeterli değilse (marj 
+kapsamındaki açığı gösterir), piyasa katılımcısından 
+teminat olarak ek nakit sağlaması istenecektir. Bu süreç 
+"marj çağrısı" olarak bilinir.
+Vade tarihi:Bir sözleşmede tanımlanan nihai yükümlülüklerin 
+(teslimat/nakit ödeme) vadesinin geldiği tarih.
+Açık İlgi:Bir vadeli işlem veya opsiyon sözleşmesinde 
+henüz telafi edici bir işlemle kapatılmamış açık 
+pozisyonların sayısı.
+Emir:Diğer piyasa katılımcılarına belirli bir miktarda finansal 
+enstrümanı belirli bir fiyattan satın almaları veya satmaları için 
+sözleşmesel olarak bağlayıcı bir talep. CFD'ler için diğer piyasa 
+katılımcısının brokeriniz olduğunu unutmayın.
+Tezgah Üstü:Diğer Tezgah (OTC), ürünün merkezi bir 
+borsada değil, doğrudan alıcı ve satıcı arasında işlem gördüğü 
+anlamına gelir. CFD'ler, tüccar ve brokeri arasındaki bir 
+sözleşmeden oluştuğu için OTC ürünleridir.
+Kısa pozisyon: Bir satıcının vadeli işlem sözleşmesinde veya CFD'de açık 
+pozisyonu.
+Kayma:Piyasa fiyatları hızla değişebilir. Kayma, bir pozisyon 
+açarken istenen fiyat ile emir yürütme sırasında elde edilen 
+gerçek fiyat arasında bir fark olduğunda meydana gelir. 
+Örneğin bir tüccar 12600'de bir satış durdurma emri verdi. 
+Piyasa 12600'e ulaştığında emir bir piyasa emri haline gelir ve 
+bu örnek için 12598'de yerine getirilir ve tüccarın kayma 
+nedeniyle 2 puan kaybetmesine neden olur.
+Yaymak:Spread, alış ve satış fiyatı arasındaki farktır.
+Durdurma emri:Durdurma emirleri, yalnızca piyasa fiyatı fiyat limitine 
+ulaştığında (= fiyat limitinde veya üzerinden işlem gördüğünde) tetiklenen 
+kısıtlı emirlerdir. Bu durumda, durdurma emri şu hale gelir:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 77 ===
+Bir piyasa emridir ve bu nedenle mümkün olan en iyi piyasa fiyatından, mümkün 
+olan en kısa sürede gerçekleştirilir.
+Volatilite:Bir finansal aracın (altta yatan) gerçek veya 
+tahmini fiyat dalgalanmasının kapsamı. Bir finansal aracın 
+oynaklığı, dayandığı zaman dilimine bağlı olarak 
+değişebilir. Genellikle, piyasa katılımcıları tarihsel oynaklığı 
+(bir aracın geçmişteki fiyat hareketlerine dayanarak) 
+hesaplar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 78 ===
+Yazar hakkında
+Teva Lama, 20 yıllık deneyime sahip aktif bir yatırımcı ve tüccardır 
+ve bunların 13 yılı Londra şehrinde Finans sektöründe çalışmıştır. 
+2015 yılında bağımsız hale geldi ve artık kendisi için ticaret yapıyor. 
+Ayrıca düzenli olarak yayın yapıyor
+TradingLive.org Çeşitli çevrimiçi yayınlara katkıda bulunmaktadır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

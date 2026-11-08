@@ -1,0 +1,349 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 5\Baskı 5\Fibonacci Geri Çekilme Prensibi (12 sayfa) - @eseckal.pdf
+PAGES: 12
+
+
+=== PDF PAGE 1 ===
+http://www.scientificpapers.org
+[Twitter: @eseckal] tarafından Google API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 2 ===
+Forex piyasasını tahmin etmek için Fibonacci geri çekilme nasıl kullanılır?
+Violeta Gaucan, Titu Maiorescu Üniversitesi, Bükreş, Romanya
+Öz: Aşağıdaki materyalde, Fibonacci Retracement'in forex piyasasını tahmin etmek için önemli bir araç 
+olarak nasıl kullanılabileceğini açıklamaya çalıştım. Bu yazımda Fibonacci yayları, fan, kanal, genişleme 
+gibi Fibonacci geri çekilmesiyle oluşturulan bazı grafik formatlarını ve ayrıca mükemmel grafik çizimi için 
+kuralları dahil ettim. Düşüş trendinde ve yükseliş trendinde Fibonacci geri çekilme modelinin bazı 
+örneklerini analiz ettim. Bu yazıda, ilgilenenleriniz için bir başlangıç   noktası oluşturmaya çalışan farklı 
+kaynaklardan materyaller kullandım ve birleştirdim.
+Anahtar Kelimeler: Fibonacci oranları, düşüş trendi, yükseliş, destek ve direnç seviyeleri
+- Fib numaraları‖ (sıklıkla bahsedildiği gibi), yaprakların bir gövdede dizilmesi ve ağaçların dallanması 
+gibi doğanın birçok yönüyle de ortaya çıkar. Bazı günlük tüccarlar, swing tüccarları ve yatırımcılar, bu 
+nedenle finansal piyasaların doğasının kendilerini Fibonacci sayılarının yapısında gösterdiğini 
+söylüyorlar.
+Şimdi büyük soru: Fibonacci sayılarının finansal piyasalar üzerinde dramatik bir etkisi var mı? Hisse senedi 
+piyasası analizinize yardımcı olması için ticaret sisteminizde Fibonacci ticaretini kullanmalı mısınız? Bu nedenle, 
+Fibonacci Forex, hisse senedi ve vadeli işlem tüccarlarının büyük bir kısmı tarafından kullanımları yoluyla kendi 
+kendini gerçekleştiren bir kehanet olmaktan başka bir nedenden ötürü Fib numaraları ticarette gerçekten 
+önemlidir. Ve bu sayılar Fibonacci geri çekilme seviyelerini hesaplamak için kullanılabilir. Nasıl? Aşağıdaki 
+materyalde birlikte bulacağız.
+Tarih ve matematik
+Fibonacci ( 1175-1240) Orta Çağ'ın en büyük matematikçilerinden biriydi. İtalya'nın Pisa kasabasında 
+doğdu. 1202'de Mısır'a yaptığı bir geziden sonra İtalya'ya geri döndü ve burada aritmetik ve cebir 
+üzerine bir tez yayınladı. "Incipit Liber Abacci" (
+Bileşik bir Leonardo filius Bonacci Pisano). Bu antlaşmada Avrupa'da ilk kez Arap rakam sistemi 
+tanıtılır ve bugün kullandığımız rakamlar 0,1, 2, 3,…, 9. Leonardo da Pisa, haklı olarak Avrupa'nın ilk 
+büyük orijinal matematikçisi olarak kabul edilir.
+Birçok gezisinde (Mısır, Suriye, Yunanistan, Sicilya) Yunan ve Arap kültürüyle temas kurar. 
+Sayıların hikayesi, 1202'de Leonardo Pisano tarafından yazılan Liber Abaci kitabının 27 yaşında 
+ortaya çıkmasıyla İtalya'da ortaya çıkıyor. Kitabın 15 yaprak başı var ve tamamen elle yazılmış, 
+desen 300 yıl sonra ortaya çıktı. Fibonacci kitabı on, yüz, binlik vb. Birimler basamağının kimlik 
+numaralarıyla başlar. Son bölümlerde tamsayı ve kesirlerle hesaplamalar, oran kuralları, karekök 
+çıkarma ve daha yüksek mertebeli hesaplamalar bulduk. doğrusal ve ikinci dereceden 
+denklemlerin çözümleri. Liber Abaci pratik örneklerle doluydu: finansal muhasebenin 
+hesaplanması, kurumsal gelir, para değişimi, ağırlıkların dönüştürülmesi ve faizle kredinin 
+hesaplanması.
+Matematik açısından, Fibonacci sayıları ƒn aşağıdaki tekrarla verilir: ƒ 0 = 0, ƒ 1 = 1, ƒ n + 1 = ƒ n-1 + ƒ n, n≥1.
+Teorem 1. Eğer χ 2 = χ + 1, o zaman elimizde: χ n = ƒ n χ + ƒ n-1, n ≥2. Argüman: n'den 
+sonra tümevarım ile kanıtlayacağız.
+[Twitter: @eseckal] tarafından Google API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 3 ===
+N 2 için ilişki önemsizdir. Varsayalım ki n 2 elimizde χ n-1 = ƒ n-1 χ +
+ƒ n-2. Sonra χ n = χ n-1 · Χ = ƒ n-1 ( χ + 1) + ƒ n-2 χ = (ƒ n-1 + ƒ n-2) χ + ƒ n-1 = ƒ n χ + ƒ n-1.
+Teorema 2. (Binet formülü). Fibonacci dizisinin n'inci terimi şu şekilde verilir:
+1 1 5 1 5
+5
+n n
+ƒ n = , n≥0.
+2 2
+1 5 1 5
+Bağımsız Değişken: Denklem kökleri χ 2 x 1 φ = ve 1 - φ =
+2
+Teorem 1'den, elimizde: φ n = φƒ n + ƒ n-1 ve (1 - φ n) = ( 1 - φ) ƒ n + ƒ n-1
+İleri φ n - (1 - φ) n = √5ƒ n, nereden sonuç Binet formülüdür.
+2
+Forex piyasasında Fibonacci dizisi
+Fibonacci retracement, birçok teknik yatırımcı tarafından yapılacak işlemler, hedef fiyatlar veya kayıpları durdurma için 
+stratejik yerleri belirlemeye yardımcı olmak için kullanılan çok popüler bir araçtır. Geri çekilme kavramı, Tirone 
+seviyeleri, Gartley modelleri, Elliott Wave teorisi ve daha fazlası gibi birçok göstergede kullanılmaktadır. Yukarı veya 
+aşağı önemli bir fiyat hareketinin ardından, yeni destek ve direnç seviyeleri genellikle bu çizgilerde veya yakınında.
+Fibonacci dizisi basitçe 0 ve 1 sayılarıyla başlar ve bundan sonraki her sayı önceki ikisinin 
+toplamıdır.
+Yani …
+0 + 1 = 1
+Sonra yukarıdaki denklemin son 2 sayısının toplamını alıp ekliyorsunuz: 1 + 1 = 2
+Sonra yukarıdaki denklemin son 2 sayısının toplamını alıp ekliyorsunuz: 1 + 2 = 3
+Sonra yukarıdaki denklemin son 2 sayısının toplamını alır ve onları eklersiniz: 2 + 3 = 5
+Sonra yukarıdaki denklemin son 2 sayısının toplamını alır ve onları eklersiniz: 3 + 5 = 8
+Sonra yukarıdaki denklemin son 2 sayısının toplamını alır ve bunları eklersiniz: 5 + 8 = 13
+Sonra yukarıdaki denklemin son 2 sayısının toplamını alır ve bunları eklersiniz: 8 + 13 = 21
+… Ve sonsuza kadar gider!
+Fibonacci sayı dizisi aşağıdaki gibidir: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89,
+144, vb. Bu dizideki her terim, basitçe önceki iki terimin toplamıdır ve dizi sonsuz olarak devam 
+eder. Bu sayısal dizinin dikkat çekici özelliklerinden biri, her sayının bir önceki sayıdan yaklaşık 
+1,618 kat daha büyük olmasıdır. Serideki her sayı arasındaki bu ortak ilişki, geri izleme 
+çalışmalarında kullanılan ortak oranların temelini oluşturmaktadır.
+Fibonacci oranları
+Fibonacci oranları, Fibonacci dizilerinden türetilen oranlarla ifade edilen matematiksel ilişkilerdir.
+Temel Fibonacci oranları% 0,% 23,6,% 38,2,% 50,% 61,8 ve% 100'dür.
+1 5
+0
+F % 100 = 1
+2
+[Twitter: @eseckal] tarafından Google API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 4 ===
+% 0,618'lik anahtar Fibonacci oranı - "altın oran" veya "altın ortalama" olarak da adlandırılır - 
+dizideki herhangi bir sayıyı hemen ardından gelen sayıya bölerek bulunur. Örneğin: 8/13 yaklaşık 
+0,6154 ve 55/89 yaklaşık 0,6180'dir.
+1 5
+1
+F % 61,8 = 0,6180
+2
+0,382 oranı, dizideki herhangi bir sayının sağda iki yerde bulunan sayıya bölünmesiyle bulunur. 
+Örneğin: 34/89 yaklaşık 0,3820'dir.
+1 5
+2
+F % 38,2 = 0,381966
+2
+0,236 oranı, dizideki herhangi bir sayının sağdaki üç basamaklı sayıya bölünmesiyle bulunur. 
+Örneğin: 55/233 yaklaşık 0,2361'dir.
+1 5
+3
+F % 23,6 = 0,236068
+2
+0 oranı:
+1 5
+F % 0 = 0
+2
+0.500 oranı, 1 sayısının (dizideki üçüncü sayı) 2 sayısına (dizideki dördüncü sayı) bölünmesiyle 
+elde edilir.
+1
+0,500000
+2
+% 50 geri çekilme seviyesi gerçekten bir Fibonacci oranı değildir, ancak bir varlığın% 50 geri çekmeyi 
+tamamladıktan sonra belirli bir yönde devam etme eğiliminin ezici eğilimi nedeniyle kullanılır.
+Fibonacci geri çekilmesi, bir grafikte iki uç nokta alınarak ve dikey mesafeyi temel Fibonacci 
+oranlarına bölerek oluşturulur. % 0.0 geri çekilmenin başlangıcı olarak kabul edilirken,% 100.0 
+hareketin orijinal kısmının tamamen tersine çevrilmesidir. Bu seviyeler belirlendikten sonra, yatay 
+çizgiler çizilir ve olası destek ve direnci belirlemek için kullanılır.
+F % 50 =
+Diğer oranlar
+0.764 oranı, 1 rakamından 0.236 çıkarılmasının sonucudur.
+1 5
+3
+F % 76,4 = 1 0,763932
+2
+0.786 oranı:
+1
+2
+1 5
+F % 78,6 = 0,786151
+2
+[Twitter: @eseckal] tarafından Google API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 5 ===
+Şekil 1. Fibonacci oranları. Grafik sunum
+Belirsiz nedenlerden dolayı, bu oranlar doğada olduğu gibi borsada da önemli bir rol oynuyor gibi 
+görünmektedir ve bir varlığın fiyatının tersine dönmesine neden olan kritik noktaları belirlemek için 
+kullanılabilir. Varlığın fiyatı yukarıda listelenen oranlardan birine geri döndüğünde, önceki eğilimin yönü 
+muhtemelen devam edecektir.
+Aşağıdaki grafik, Fibonacci geri çekilmesinin nasıl kullanılabileceğini göstermektedir. Destek / direnç seviyelerine 
+yaklaşırken fiyatın nasıl yön değiştirdiğine dikkat edin.
+incir. 2. EURUSD'de% 23.6 seviyesine Fibonacci geri çekilmesi
+Fibonacci Düzeltmeler Modeli
+Hisse senetleri genellikle geri çekilmeden önce önceki hareketin bir yüzdesini geri çekecek veya geri çekecektir. Bu 
+Fibonacci geri çekilmeleri genellikle üç seviyede meydana gelir -% 38,2,% 50 ve
+% 61.8.
+Fibonacci geri çekilme seviyelerinin çevrimiçi hisse senedi alım satımında, borsa analizinde (ayrıca vadeli işlemler, 
+Forex, vb.) Kullanılması, trend yönünde devam etmeden önce bir piyasanın ne kadar geri çekilmesini beklediğini 
+belirlemeye yardımcı olur.
+Genellikle hareketli ortalama, stokastikler, RSI, mum çubuğu formasyonları vb. Gibi diğer teknik analiz 
+göstergeleriyle birlikte kullanılır. Fibonacci Forex kullanırken, hisse senetleri, vadeli işlemler ve emtiaların tümü, bir 
+trendin Fibonacci geri çekilmesi kullanılarak alınıp satılabilir.
+[Twitter: @eseckal] tarafından Google API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 6 ===
+Fibonacci aracı hakkında bilmeniz gereken ilk şey, piyasa trend olduğunda en iyi şekilde 
+çalıştığıdır.
+Buradaki fikir, piyasa yükselirken Fibonacci destek seviyesinde bir geri çekilme üzerinde uzağa gitmek (veya satın 
+almak) ve piyasa düşüş eğilimindeyken Fibonacci direnç seviyesinde bir geri çekilme için kısa hareket etmek 
+(veya satmak). Bu geri çekilme seviyelerini bulmak için, yakın zamandaki önemli Swing Highs ve Swings Lows'u 
+bulmanız gerekir.
+Ardından, düşüş trendleri için, Swing High'a tıklayın ve imleci en son Swing Low'a sürükleyin. 
+Yükseliş trendleri için tam tersini yapın. Swing Low'a tıklayın ve imleci en son Swing High'a 
+sürükleyin.
+Yükseliş
+Şek. 3. Günlük AUD / USD grafiği
+Burada Fibonacci geri çekilme Seviyelerini, Swing Low'a tıklayarak grafiklendirdik.
+. 20 Nisan'da 6955 ve 3 Haziran'da imleci Swing High'a sürükleyerek .8264'te. Tada! Yazılım, size geri çekilme seviyelerini sihirli bir şekilde gösterir.
+Grafikten de görebileceğiniz gibi, geri çekilme seviyeleri .7955 (% 23.6), .7764 (% 38.2), 7609 (% 50.0), 
+.7454 (% 61.8) ve .7263 (% 76.4) idi.
+Şimdi, beklenti, AUD / USD yakın zamandaki yüksek seviyeden geri çekilirse, bu Fibonacci seviyelerinden 
+birinde destek bulacağı, çünkü tüccarlar fiyat geri çekildikçe bu seviyelerde satın alma siparişleri verecek.
+Teoride, bir yükseliş trendindeki Fibonacci geri çekilmesi aşağıdaki resimdeki gibi gösterilebilir:
+Şekil 4. Teoride bir yükseliş trendinin temsili
+[Twitter: @eseckal] tarafından Google API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 7 ===
+Şimdi, Swing High meydana geldikten sonra ne olduğuna bakalım.
+Şekil 5. Günlük AUD / USD grafiği
+Fiyat% 23,6 seviyesinde geri çekildi ve önümüzdeki birkaç hafta boyunca düşmeye devam etti. Hatta% 
+38,2 seviyesini test etti ancak bunun altında kapanamadı. Daha sonra, 14 Temmuz civarında, piyasa 
+yukarı yönlü hareketini sürdürdü ve sonunda yüksek dalgalanmayı kırdı. Açıkçası,% 38,2 Fibonacci 
+seviyesinde alım yapmak karlı bir uzun vadeli ticaret olurdu!
+Düşüş trendi
+Şimdi, düşüş trendi sırasında Fibonacci düzeltme aracını nasıl kullanacağımızı görelim. Aşağıda 4 saatlik EUR / USD 
+grafiği bulunmaktadır.
+Şekil 6. Günlük EUR / USD grafiği
+Gördüğünüz gibi, Swing High'ımızı 26 Ocak'ta 1.4195'te ve Swing Low'umuzu birkaç gün sonra 2 
+Şubat'ta 1.3854'te bulduk. Geri çekilme seviyeleri 1.3933 (% 23.6), 1.3983 (% 38.2), 1.4023 (% 50.0) 
+1.4064 (% 61.8) ve 1.4114 (% 76.4).
+Düşüş eğilimi beklentisi, fiyat bu düşük seviyeden geri çekilirse, Fibonacci seviyelerinden birinde 
+dirençle karşılaşacak, çünkü tüccarlar orada satış emirlerine hazır olacak.
+[Twitter: @eseckal] tarafından Google API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 8 ===
+Teoride, düşüş trendindeki Fibonacci geri çekilmesi aşağıdaki resimdeki gibi gösterilebilir:
+Şekil 7. Teoride düşüş trendinin temsili
+Şimdi ne olduğuna bir bakalım.
+Şekil 8. Günlük EUR / USD grafiği
+Piyasa ralli yapmayı denedi, test etmeden önce bir süre% 38,2 seviyesinin altında kaldı.
+% 50.0 seviyesi. % 38.2 veya% 50.0 seviyelerinde siparişleriniz olsaydı, bu ticarette biraz çılgın 
+pipler yapardınız. Bu iki örnekte, bu fiyatı görüyoruz
+bulundu Fibonacci geri çekilme seviyelerinde bazı geçici destek veya direnç.
+Fibonacci Yayları
+Fibonacci Yayları şu şekilde oluşturulur: ilk olarak, eğilim çizgisi iki uç nokta arasında, örneğin 
+çukurdan karşıt tepeye doğru çizilir. Ardından, merkezleri ikinci en uç noktada olacak şekilde ve 
+yüzde 38,2, 50 ve 61,8 Fibonacci seviyelerinde trend çizgisiyle kesişen üç yay inşa edilir.
+[Twitter: @eseckal] tarafından Google API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 9 ===
+Şekil 9. Fibonacci yayları
+Fibonacci yayları, potansiyel destek ve direnç seviyeleri olarak kabul edilir. Fibonacci Arkları ve 
+Fibonacci Fanları genellikle grafik üzerinde birlikte çizilir ve destek ve direnç seviyeleri bu çizgilerin 
+kesişme noktalarına göre belirlenir.
+Yay bir çevrenin bir parçası olduğu ve şekli her zaman aynı olduğu için Arkların kesişme noktaları 
+ile fiyat eğrisinin grafik ölçeğine bağlı olarak değişebileceğine dikkat edilmelidir.
+Fibonacci Fanı
+Bir çizgi enstrümanı olarak Fibonacci Fanı şu şekilde oluşturulmuştur: bir eğilim çizgisi - örneğin 
+bir çukurdan karşıt tepeye iki uç nokta arasında çizilir. Daha sonra, ikinci uç noktadan otomatik 
+olarak "görünmez" bir dikey çizgi çizilir. Bundan sonra, Fibonacci yüzde 38,2, 50 ve 61,8 
+seviyelerinde bu görünmez dikey çizgiyi kesen üç trend çizgisi ilk uç noktadan çekilir.
+Bu çizgilerin destek ve direnç seviyelerini temsil ettiği kabul edilir. Daha kesin bir tahmin elde 
+etmek için Fan ile birlikte diğer Fibonacci aletlerinin kullanılması önerilir.
+Şekil 10. Fibonacci Fanı
+[Twitter: @eseckal] tarafından Google API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 10 ===
+Fibonacci Saat Dilimleri
+Fibonacci aralıkları 1, 2, 3, 5, 8, 13, 21, 34, vb. Olan dikey çizgiler dizisidir. Bu satırların yakınında 
+önemli fiyat değişikliklerinin beklendiği düşünülmektedir.
+Bu enstrümanı oluşturmak için, birim aralığın uzunluğunu belirlemek için iki nokta belirtmek gerekir. Diğer 
+tüm çizgiler Fibonacci Numaralarına göre bu birim aralığına göre oluşturulmuştur.
+Şekil 11. Fibonacci saat dilimleri
+Fibonacci Genişlemesi
+Fibonacci Genişlemesi büyük ölçüde Fibonacci Retracement'e benzer ve üçüncü dalganın sonunu 
+belirlemeye yöneliktir. Fibonacci Retracement'in aksine, bu enstrüman tek bir trend çizgisi üzerine değil, 
+iki dalga üzerine inşa edilmiştir.
+Önce ilk dalganın çizgisi çizilir, daha sonra yüksekliği birim aralık olarak kabul edilir. İkinci 
+dalganın sonu, görünmez bir dikey çizgi oluşturmak için bir referans noktası görevi görür. Karşılık 
+gelen çizgiler, birim aralığın% 61,8,% 100 ve% 161,8'ine eşit aralıkta referans noktasından çizilir. 
+Üçüncü dalganın bu seviyelerin yakınında bittiği kabul edilir.
+Şekil 12. Fibonacci genişlemesi
+Fibonacci Kanalı
+Fibonacci Kanalları, birkaç paralel eğilim çizgisi kullanılarak oluşturulur. Bu enstrümanı oluşturmak için, 
+birim genişliği olarak alınan genişliğe sahip kanal kullanılır. Daha sonra Fibonacci Sayılarına eşit 
+değerlerde paralel çizgiler çizilir, kanalın 0.618 kat büyüklüğünden başlayıp ardından 1.000 kat, 1.618 
+kat, 2.618 kat, 4.236 kat vb.
+[Twitter: @eseckal] tarafından Google API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 11 ===
+Beşinci dalga biter bitmez, trendin tersi yönde düzeltme beklenebilir.
+Doğru bir Fibonacci Kanalı yapısını hatırlamak gerekir: taban çizgisi, trend yükselirken kanalın üst 
+kısmını ve trend alçalırken alt kısmını sınırlar.
+Şekil 13. Fibonacci kanalı
+Mükemmel Fibonacci Grafik Çizimi Kuralları
+Fibonacci geri çekilmeleri, yatırımcılar için mükemmel bir aracı temsil eder ve tarihsel bir fiyat çizelgesindeki geri 
+dönüş noktalarını tanımlar. Herhangi bir tarihsel fiyat tablosunda, alım satım fiyatlarının doğal olarak geri 
+çekileceğini veya önceki hareketin bir yüzdesini geri çekip tekrar geri dönmeden ve ardından genel uzun vadeli 
+eğilim yönünde ilerleyeceğini herkes görebilir.
+Tarihsel gözlemler, bu geri çekilme yüzdelerinin bir Fibonacci oran modelini takip ettiğini 
+gösteriyor. Bir tüccar, bu geri çekilme olasılıklarını dikkatli bir şekilde tarihsel bir fiyat çizelgesine 
+yerleştirerek başarılı bir yatırım yapma olasılığını artırır. Başarılı giriş ve çıkış noktalarını 
+tanımlama olasılığını artırmak için belirli kurallar önerilir.
+Kural 1: Yüksek ve Düşük Olanları Belirleyin
+Fibonacci geri çekilmelerini kullanmak için, tarihsel bir grafikte göreceli olarak yüksek ve düşük fiyatları 
+belirlemek önemlidir. Kullanılan terim ne kadar uzun olursa, çizilen Fibonacci geri çekilme çizgilerinin, 
+gösterilen önemli destek ve direnç seviyelerini belirleme olasılığı o kadar yüksektir.
+Kural 2: Fibonacci Geri Çekilme Seviyelerini Çizin
+Bir zaman periyodu için yüksek ve düşük seçildiğinde, Fibonacci geri çekilme yüzdesi seviyelerini 
+grafiğe çekmek mümkün olacaktır. Düşük nokta% 0'ı temsil eder ve yüksek nokta% 100'ü temsil 
+eder.
+Bu iki uç nokta arasında,% 38,2,% 50 ve% 61,8'lik en önemli Fibonacci yüzde çizim çizgileri çizilebilir. Bu 
+yüzdelerin yüksek ve alçakların altında ve üstünde çizilmesi de faydalıdır. Başka bir deyişle, en yüksek 
+seviyenin üzerinde yukarı tarafta% 138,2,% 150 ve% 200 ve düşük seviyenin altında% -30,2,% -50 ve 
+aşağı tarafta% -61,8 olacak şekilde çizim çizgileri. Bu Fibonacci seviyelerini otomatik olarak çizmenize izin 
+verecek bir yazılımın var olduğu unutulmamalıdır.
+Kural 3: Tarihsel Davranışı Gözlemleyin
+Çizim çizgileri grafiğe yerleştirildikten sonra, söz konusu tarihsel dönemde hangi Fibonacci 
+seviyelerinin destek gösterdiğini gözlemlemek önemlidir.
+[Twitter: @eseckal] tarafından Google API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 12 ===
+ve direniş. Bu alanların objektif olarak yaklaşıldığında geri çekilmenin net bir şekilde sonuçlandığını gösterdiği 
+görülecektir.
+Kural 4: Gelecek Hareketini Tahmin Et
+Uygun Fibonacci geri çekilmeleri, yatırım piyasasından yatırım piyasasına değişiklik gösterecek ve 
+herhangi bir zamanda ticaret karakterinin de bir işlevi olacaktır. Sonuç olarak, Fibonacci tekniklerinin 
+başarılı bir şekilde kullanılması, tanımlanan aralık dahilindeki önceki fiyat hareketi faaliyetinin doğru 
+yorumlanmasına büyük ölçüde bağlı olacaktır. Uygun Fibonacci geri çekilmeleri gözlemlendiğinde, 
+giriş ve çıkış noktaları, açıkça gösterilen geçmiş kayıtlara dayalı olarak pozisyon alma için tahmin 
+edilebilir.
+Kural 5: Her Zaman Onay Alın
+İnceleme ve gözlem yoluyla, birçok başarılı yatırımcı, Fibonacci geri çekilme oranlarının 
+kullanılması için gerekli tekniklerde ustalaşmıştır. Ancak herkesin görebileceği gibi, bu seviyelerin 
+temsil ettiği destek ve direnç her zaman otomatik olarak ortaya çıkmaz. Diğer bir deyişle,% 38,2'lik 
+düzelmeden sonra, fiyat bu yönde devam edebilir ve belki% 61,8'e ulaşana kadar durup 
+durmayabilir. Açık olan, belli bir Fibonacci noktasında, bir geri çekilme meydana gelecektir. Bunun 
+bir sonucu olarak, Fibonacci tekniklerinin kullanımı, tanımlanmış olanı doğrulayan diğer teknik 
+analiz araçlarıyla birlikte kullanıldığında en başarılıdır.
+Sonuçlar
+Fibonacci Retracement ticareti tüm piyasalarda kullanılmaktadır - çevrimiçi hisse senedi ticareti, Fibonacci Forex ticareti ve 
+ayrıca vadeli işlem piyasalarında.
+Fibonacci işlem rakamlarının özel bir önemi olduğuna inanıp inanmasın, bu kadar yaygın bir 
+şekilde kullanılması gerçeği, seviyelerde kendi kendini gerçekleştiren bir kehanet yaratır. Bu 
+nedenle, inanmayı seçtiğiniz herhangi bir nedenle, Fibonacci geri çekilme seviyeleri teknik analizin 
+önemli bir parçasıdır ve ticaret sisteminize dahil edilmelidir.
+İşlemlerinizde Fibonacci geri çekilmelerini kullanmak sizi bir gecede profesyonel bir swing tüccar, günlük 
+tüccar veya yatırımcı yapmaz. Ancak stokastikler, RSI, MACD, hareketli ortalamalar, şamdan kalıpları 
+gibi diğer teknik analiz araçlarıyla birlikte kullanıldığında, herhangi bir tüccar araç kutusuna çok değerli 
+bir katkı olabilirler. , Fibonacci geri çekilme seviyeleri, Fibonacci ticaretinin temelini oluşturur ve teknik 
+analiz ve borsa analizinin önemli bir parçasıdır.
+Referanslar
+[1] İskender Elder, Yaşamak için ticaret, Ed. John Wiley & Sons, Kanada 1993 [2] Neculai Stanciu, 
+Mayıs 2010, Revista Electronică MateInfo.ro, [çevrimiçi],
+http://www.mateinfo.ro/problema_saptamanii%20_concurs_matematica_web/mai201 0 / mai2010_stanciu_n 
+/ MAI2010_stanciu_n.xht
+[3] Mark Whistler, 12 Mayıs 2010, Forex Ticaretinde Fibonacci Düzeltmelerinden Nasıl Kar Elde Edilir, 
+[çevrimiçi], [10 Şubat 2011'de okuyun],
+http://www.tradingmarkets.com/.site/forex/how_to/articles/-75248.cfm
+[4] http://www.investopedia.com/terms/f/fibonacciretracement.asp
+[5] http://www.fibonacciretracement.net/fibonacci-trading/
+[6] http://www.babypips.com/school/support-and-resistance.html
+[7] http://en.wikipedia.org/wiki/Fibonacci_number
+[8] http://stockcharts.com/school/doku.php?id=chart_school:technical_indicators
+[9] http://www.fibonaccigenius.com/index.html
+[10] http://ta.mql4.com/linestudies/fibonacci
+[Twitter: @eseckal] tarafından Google API kullanılarak tercüme edilmiştir.

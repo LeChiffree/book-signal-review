@@ -1,0 +1,37 @@
+# Kitap okuma 185 — sektör içi dönüş ve haber sonrası ilk dakika
+
+Üç daha önce tamamlanmamış PDF'nin **491 sayfası** metne çıkarılıp sayfa bazında baştan sona tarandı; belirgin işlem kuralları tam sayfa okundu. **2 yeni, doğrulanmamış aday** kaydedildi. Backtest, paper test veya emir yapılmadı. Sayfalar PDF sayfasıdır.
+
+## 1. NCFM — Teknik Analiz Modülü (169 sayfa)
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 1/Baskı 1/Teknik Analiz Modülü - NCFM (169 sayfa) - @eseckal.pdf>) · [tam metin](01_ta_ncfm.txt)
+
+**Tam okuma:** S. 1–12 giriş; 13–42 mumlar; 43–75 destek/direnç, omuz baş omuz, çift tepe/dip ve gap; 76–116 MA, RSI, stokastik, Williams %R, MACD, MFI ve Bollinger; 117–123 kısa ticaret sınıfları; 124–155 Dow, Elliott ve Fibonacci; 156–169 risk/psikoloji ve sınav yanıtları. Bu ders kitabındaki mumlar, klasik desenler ve indikatör aileleri önceki partilerde kayıtlı. S. 97–99'da RSI aşırı satım eşiğinin boğa/ayı rejimine göre farklı ele alınması bir filtre duyarlılığıdır; tek başına yeni işlem sistemi değildir. Elliott dalga sayımı geri dönük yeniden etiketlenebilir, canlı teyit zamanı verilmez. Hindistan/Nifty örnekleri diğer piyasalara otomatik taşınmaz. **Yeni bağımsız aday: 0.**
+
+## 2. Igor Tulchinsky ve katkıda bulunanlar — Alfaları Bulmak (215 sayfa)
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 11/Baskı 11/Alfaları Bulmak - Ticaret Stratejileri Geliştirmek İçin Nicel Bir Yaklaşım - Igor Tulchinsky (215 sayfa) - @eseckal.pdf>) · [tam metin](02_alpha_tulchinsky.txt)
+
+**Tam okuma:** S. 1–23 önsöz ve alfa tasarımına giriş; 24–45 fikirden matematiksel ifade, beş günlük dönüş, sektör nötrleştirme ve örnek simülasyon; 46–76 temel veri, fiyat/hacim, ciro, örneklem dışı kontrol; 77–119 risk ve finansal tablo faktörleri; 120–136 araştırma kaynakları; 137–145 vadeli işlem/FX veri fikirleri; 146–184 WebSim mimarisi ve operatörler; 185–207 örnek ifadeler/kod ve SSS; 208–215 kaynaklar ve kapanış. WebSim grafiklerinin örnek getirileri (s. 38–45) farklı dönem, maliyet ve bağımsız uygulamayla doğrulanmış performans değildir. S. 185–194'teki `1/close`, ham fiyat ve hacim ifadeleri fiyat ölçeği/kurumsal işlem yanlılığı taşıyabilir; her ifade ayrı sinyal olarak sayılmadı.
+
+### IT185A — sektör nötr beş günlük kısa vadeli ters getiri
+
+- **Kaynak (s. 31–33, 35–42):** `alpha_i=−(C_i,t/C_i,t−5−1)`; kazanan hisseye short, kaybedene long. Ham sinyali sektör içinde ortalamadan arındırıp aynı sektörün net dolar pozisyonunu sıfıra yaklaştırma fikri s. 33 ve 39–40'ta anlatılır; üç günlük sönüm/ortalama ile ciroyu düşürme varyantı s. 40'tadır. Bu, tek hisse RSI dip alımından farklı, kesitsel long/short portföy sinyalidir.
+- **Veri/karar:** Point-in-time ABD adi hisseleri için düzeltilmiş D1 OHLCV, tarihsel sektör sınıflaması, delist/split, ödünç bulunabilirliği ve borrow ücreti. Her D1 kapanışında, o ana kadar bilinen evrende fiyat `≥5 USD`, önceki 20 tam gün ortalama dolar hacim `≥2 milyon USD`; sektör başına en az 10 uygun hisse. Son 5 **tamamlanmış** seansın getirisi `r5=C_t/C_(t−5)−1`; sektör içi `q_i=−r5_i−mean_sektör(−r5)`. Sektörde `q` sıralamasının üst `%20`si long, alt `%20`si short; her taraf eşit dolar. Yüzdelik dilim, likidite ve en az 10 sınırı bizim uygulanabilir test seçimimizdir.
+- **İcra/risk/çıkış:** `t` kapanışında hesapla, `t+1` açılışında gerçek bid/ask ile hedef ağırlığa geç; aynı sinyalin kapanışından işlem yapılmış sayma. Her sektör long ve short dolarları eşit; toplam brüt maruziyet en fazla özsermayenin `%100`ü, tek hisse `%2`, sektör `%20`. Pozisyonları beşinci işlem günü açılışında veya sonraki günlük yeni sepet kurulduğunda, hangisi önceyse, yeniden dengele. Bu beş günlük tutma ve limitler **bizim sözleşmemizdir**. Delist getirisi, borrow reddi/ücreti, spread, komisyon, kayma ve açılış kapasitesi dahil; açılamayan short'u kârlı varsayma.
+- **Ayırıcı sınama:** Sektör nötrleştirme ve 3 günlük sinyal sönümlemesi ayrı ablation; yalın 5 günlük piyasa geneli dönüş, önceki göreli güç/momentum adayları ve piyasa nötr 5 günlük ters getiri ile karşılaştır. Evren/üyelik yalnız geçmişte bilinen değerlerle; sektör etiketi sonradan düzeltilmiş geçmiş bilgiyle sabitlenmez. Sinyal maliyet sonrası net PnL, turnover, short erişimi, dönem dışı ve piyasa/ sektör yoğunluğu raporlanır. Örnek WorldQuant WebSim grafiği bağımsız doğrulama değildir.
+
+## 3. Alpesh B. Patel ve Paresh H. Kiri — 7 Basit Strateji (107 sayfa)
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 16/Baskı 16/Son Derece Etkili Yatırımcıların 7 Basit Stratejisi - Hemen Uygulayabileceğiniz Kazandıran Teknik Analiz Stratejileri - Alpesh B. Patel ve Paresh H. Kiri (107 sayfa) - @eseckal.pdf>) · [tam metin](03_seven_strategies_patel.txt)
+
+**Tam okuma:** S. 1–9 giriş; 10–26 hacim teyitli momentum kırılımı; 27–41 ekonomik veri olayı; 42–54 gün içi vadeli işlem ve limitler; 55–66 ortalamaya dönüş; 67–79 MA çaprazları; 80–90 kanal/trend çizgisi; 91–102 Japon mumları; 103–107 risk/kapanış. Hacimli taban kırılımı, MA/kanal, ortalamaya dönüş ve mumlar önceki aday aileleridir. S. 56'daki piyasanın `%90` yatay kaldığı iddiası evrensel sabit değildir. S. 35'teki 10'da 7 başarı iddiası kaynakta doğrulanmış örneklem, maliyet ve güven aralığı taşımaz.
+
+### PK185A — makro veri açıklaması sonrası ilk M1 mumunun yönlü kırılımı
+
+- **Kaynak (s. 29–41):** GSYH, NFP, TÜFE veya FOMC duyurusundan sonraki ilk bir dakikanın yönüne bak; ilk M1 high'ı üstü ya da low'u altı kırıldığında aynı yönde giriş, ilk M1'in karşı ucu stop. S. 34–36 NFP short örneği; s. 38–39 TÜFE long örneği. Shortta önceki 3 M1 high üstüne, longda önceki 2–3 M1 low altına dönüş çıkışı önerilir; ilk 30 dakika kısa ufuk. Yazar makro rakamın beklenene göre yönü yerine **fiyat tepkisini** esas alır.
+- **Veri/zaman:** Resmî duyuruların tarihsel *gerçek* yayın zamanları, zaman bölgesi ve revizyon takvimi; EUR/USD ile GBP/USD M1 bid/ask OHLC ve mümkünse tick/snapshot. Her duyuru için önceden sabit enstrüman: ABD NFP/FOMC için EUR/USD, Euro bölgesi TÜFE/GSYH için EUR/USD; başka eşleşme ayrı deney. Duyurunun başladığı dakikanın barı `[T,T+60s)` tamamen kapandıktan sonra `O,H,L,C` bilinir. İlk mum gövdesi `C>O` ise yalnız long, `C<O` ise yalnız short, doji ise atla. `t+1` ve `t+2` tamamlanmış M1 kapanışı ilk barın ilgili uç seviyesini en az 1 tick aşarsa sonraki uygulanabilir bid/ask ile giriş. Bu **kapalı mum uyarlaması** kaynakta verilen intrabar stop emrinden geç kalabilir; kaynak ile eşdeğer fill olarak sunulmaz.
+- **Risk/çıkış:** Stop ilk M1'in karşı ucu `±1 tick`; spread dahil risk mesafesi sıfır veya `>3×` önceki 20 normal M1 medyan aralığıysa atla. Sermaye başına en fazla `%0,1` stop riski, duyuru başına tek deneme. Long için girişten sonra kapanmış M1 `C<min(önceki 2 M1 low)`; short için `C>max(önceki 3 M1 high)` olduğunda sonraki uygulanabilir fiyattan çık. Ayrıca `2R` hedef veya duyurudan 30 dakika sonra zaman çıkışı. Zaman, sabit R ve risk limitleri bizim sözleşmemiz; 2–3 M1 yapısı kaynak s. 36–39. Gerçek haber anı spread genişlemesi, kayma, kesilen kotasyon ve gecikme olmadan sonuç geçerli sayılmaz.
+- **Ayırıcı sınama:** Aynı ilk M1 kırılımını haber olmayan eşleşmiş saatlerde ve sıradan açılış aralığı kırılımlarında karşılaştır; yalnız haber verisi ile yön seçimi ayrı kol. Gün içi M1 verisi yoksa D1/H1 barından bu işlem simüle edilmez. Duyuru sonrası barın kapanmadan high/low'una emir koyan kaynak versiyonuyla kapalı mum versiyonu ayrı strateji/fill senaryoları olarak raporlanmalı.
+
+**Parti sonucu:** 3 PDF, **491 sayfa**, **2 yeni doğrulanmamış aday**. Kümülatif **555 PDF, 29.556 sayfa, 425 aday**.

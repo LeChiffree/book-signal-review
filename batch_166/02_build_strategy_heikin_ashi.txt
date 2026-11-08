@@ -1,0 +1,1806 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 22\Baskı 22\Karlı Bir Trading Stratejisi Nasıl Oluşturulur - Heikin Ashi Trader (71 sayfa) - @eseckal.pdf
+PAGES: 71
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+Bölüm 1: Tüccar Kalabalığının Yapmaya Çalıştığının Tam 
+Tersini Yapın!
+1. Tüccarlar Otomatik Ticaretten Neler Öğrenebilir?
+Sistemler
+2. Ticaret Defterlerinde Bulunanların Tam Tersini Yapın
+İddia 1: Kayıplarınızı Kesin ve Karlarınızın Artmasına İzin Verin
+İddia 2: İyi Bir Risk-Ödül Oranı Elde Etmeye Çalışın
+İddia 3: Sadece %33,33'lük bir İsabet Oranına İhtiyacınız Var
+3. Yüksek Vuruş Oranını Hedefleyin
+4. Neden "iyi" risk-ödül oranlarına sahip ticaret stratejileri
+genellikle başarısızdır
+5. Kar alma emrinin övgüsü
+6. Otomatik girişin övgüsü
+Bölüm 2: Küçük Bir Fiyat Hedefi Olan Bir Ticaret Stratejisi
+Test 1: Alman Bund Geleceği, Hareketli Ortalama Stratejisini 
+Geçme
+Test 2: E-Mini, Hareketli Ortalamayı Geçme Stratejisi
+Test 3: E-Mini, Uyarlanmış Parametrelerle Hareketli Ortalamayı 
+Geçme Stratejisi
+Çözüm
+Sözlük
+Amazon'da Heikin Ashi Trader'ın Diğer Kitapları
+Yazar Hakkında
+Baskı
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Bölüm 1: Tam tersini yapın
+Tüccar Kalabalığı Ne Yapmaya Çalışıyor!
+1. Tüccarlar Otomatik İşlemlerden Neler Öğrenebilir?
+Ticaret Sistemleri
+Tüccarlar borsada sadece puan, tik ve pip toplamak için 
+aktif olurlar. Mümkün olduğunca ve mümkün olduğunca hızlı. 
+Geri kalan her şey eğlence ve işe yaramaz analizlerdir. Bu 
+nedenle tüccarların tam olarak bunu yapan bir yönteme, bir 
+sisteme ihtiyaçları vardır: kalıcı olarak küçük karlar biriktirmek, 
+bu da sonunda hesapta önemli bir artıya dönüşür.
+Ticaret, finansal piyasaları analiz etmek ve gelecekteki fiyatları 
+tahmin etmeye çalışmakla ilgili değildir. Kural olarak, çoğu yatırımcı 
+bu tür bir yaklaşımla başarısız olur. Piyasayı anlamak isterler. 
+Benim deneyimime göre finansal piyasaların davranışını anlamak 
+mümkün değildir. Farklı niyetlere sahip çok sayıda aktör aynı anda 
+işlem yaparken fiyatı keyfi olarak ileri geri iter.
+Bu nedenle, başarıya giden ilk adım, yatırımcıların 
+piyasanın davranışını anlayamayacakları içgörüsüyle gelir. Sonuç 
+olarak, onu analiz edemezler ve kesinlikle tahmin edemezler. Bir 
+analist ordusunun sürekli olarak bu başarıyı elde etmeye 
+çalıştığını biliyorum. Onlar yalnızca halkın temel veya teknik 
+nitelikteki açıklamalara olan ihtiyaçlarını karşılarlar.
+Bu açıklayıcı modeller bir süre işe yarayabilir ancak 
+sonunda bu modellerin zarar üretmeye başlayacağı 
+zaman gelecektir. Sonuç olarak, elbette, tüccar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+hayal kırıklığına uğrayacak ve geçmiş işlemlerini analiz etmeye çalışacak 
+(tekrar!). Öte yandan, daha da kötüsü, sistemini optimize etmeye çalışacak.
+En kötü ihtimalle, sonunda istediği başarıyı elde etmeyi 
+umduğu yeni bir strateji arayışına girecektir. Mükemmel 
+stratejiyi arama sarmalında, birçok yatırımcı bu sarmalın içine 
+girer. Tekrar tekrar umutlarını yeni bir şeye bağlarlar. Dahası, 
+tekrar tekrar, her zaman yine hayal kırıklığına uğrarlar. Bazen 
+başarılı olsalar da, yakında yeni bir talihsiz darbe onun yerini 
+alacaktır.
+Tanıdığım çoğu finansal piyasa o kadar verimli ki onları 
+yenmek neredeyse imkansız gibi görünüyor. Yatırımcıyı pes 
+etmeye zorluyorlar. Bu nedenle, birçok insan pes ediyor ve 
+borsada para kazanamayacağınız söylentisini yaymaya devam 
+ediyor.
+Ben de bu acı dolu yola girdim ve pes etmeye yaklaştım. 
+Otomatik işlem sistemlerine bakmaya başladığımda, işlem 
+yapmaya çok farklı bir açıdan bakmaya başladım. Yıllarca 
+teknik analiz yoluyla işlemlerimi kontrol altına almaya boşuna 
+çalıştıktan sonra, artık borsa işlemlerine bakmanın çok daha 
+ayık bir yolunu öğrendim.
+Eğer bu kadar aşırıya kaçmak zorunda kalacağınızdan 
+korkuyorsanız, sizden biraz güven ve sabır rica ediyorum. 
+İşlemlerinizi otomatiğe geçirmek zorunda değilsiniz. Bu 
+kitabın amacı bu değil. Otomatik işlemle uğraşırken 
+öğrendiklerimi göstermek için birkaç somut örnek kullanmak 
+istiyorum. Dahası, umarım siz de işleme tamamen farklı bir 
+şekilde bakma fırsatına sahip olursunuz.
+Günümüzde, profesyonel olmayanların da basit geri testler 
+yapmasına olanak tanıyan çok sayıda işlem platformu 
+bulunmaktadır. Geri test, tüccarın belirli bir işlem fikrinin 
+sağlamlığını kontrol edebileceği bir yöntemdir. Bu yazılımla,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+geriye dönük bir test gerçekleştirin. Bu ona saniyeler içinde 
+geçmiş yıllarda bu fikri takas etmiş olsaydı nasıl keseceğini 
+gösterir.
+Sadece bu binlerce bilgisayar simülasyonlu işlemin 
+sonuçlarını elde etmekle kalmıyor. Ayrıca bu testin kapsamlı bir 
+istatistiksel analizini de elde ediyor. Bu veriler ona bu işlem fikrini 
+işlem yapmanın değip değmediğini ayrıntılı olarak gösteriyor. 
+Umarım son on yılda işe yaramayan bir işlem fikrinin önümüzdeki 
+on yılda da işe yaramayacağı (istisnalar vardır) kendi kendine 
+konuşur.
+Öte yandan, yatırımcının son on yılda çok iyi işleyen 
+bir fikri varsa, bu sonucu önümüzdeki on yılda tekrarlama 
+şansı yüksektir. Burada bir garanti yoktur, ancak her 
+durumda arka test pozitifse şans daha iyidir.
+Bir yatırımcı bir işlem fikriyle çalışmaya başlamadan önce 
+bu tür bilgilere sahip olmak benim için önemlidir. Yatırımcı 
+istikrarlı ve başarılı bir stratejiye sahip olduğunu siyah beyaz 
+biliyorsa, daha fazla güvenle işlem yapabilir. Bu, elbette, işler 
+yolunda gitmediğinde özellikle önemlidir. Ayrıca, bu tür 
+dönemler - hepimizin bildiği gibi - tekrar tekrar yaşanır.
+Bu nedenle, otomatik işlem sistemlerine (henüz) aşina 
+olmayan okuyucuları bunu denemeye teşvik etmek istiyorum. 
+Onlara buna değeceğini temin edebilirim. Ben de uzun bir süre 
+kendimi buna karşı korudum. Birincisi, zaten matematiğe pek 
+meraklı değilim. İkincisi, yazılımlardan pek anlamam ve 
+bilgisayarıma yüklenen programlar sorunsuz çalıştığında 
+gerçekten mutlu oluyorum. Sanırım bu çoğu insan için 
+geçerlidir.
+Ancak, otomatik işlem sistemleriyle işlem yapmaktan kendimi 
+alıkoymam yanlıştı çünkü çok sayıda talebim reddedildi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Ticaretin gerçekte nasıl işlediğine dair önemli içgörüler. 15 yıl önce 
+vadeli işlemlerde scalping yapmaya başladığımda böyle verilere 
+sahip olmaktan çok mutlu olurdum. Ticaret kariyerim farklı olurdu 
+ve öğrenme eğrisi çok daha hızlı olurdu.
+Ayrıca, artık amatörler için bile mükemmel programlar 
+mevcuttur. Herhangi bir programlama bilginiz olmadan belirli 
+stratejileri test edebilirsiniz. Gerçek parayı böyle bir programa 
+emanet etmeyi asla düşünmeseniz bile, otomatik ticaretin 
+kullanımını engelleyecek hiçbir şey yoktur.
+Ayrıca, eğer işe yaramazsa, brokerınız size yardımcı olmak 
+için emrinizdedir. Unutmayın: Bir brokerın görevi, sizin işlem 
+yapmanız için sizi desteklemektir. Sonuçta, parasını bu şekilde 
+kazanır. Broker firmanızın çalışanları, bir geri testle veya bir 
+şablon oluşturmayla ilgili sorun yaşarsanız size yardımcı 
+olmaktan mutluluk duyacaktır. Bu konuda brokerımın 
+hizmetlerinden birkaç kez yararlandım ve bana her zaman 
+cömertçe ve ücretsiz olarak yardım etti. Her seferinde, otomatik 
+ticaret hakkında yeni bir şey öğrendim.
+Elbette, tanıdık çevrenizde bu tür programlara aşina biri 
+varsa daha da iyi olur. Böyle birini tanıyorsanız, onu akşam 
+yemeğine veya başka bir eğlenceye davet etmenizi öneririm. Bu 
+yatırım değerlidir. Alternatif olarak, elbette bu konuyla ilgilenen 
+bir tüccar kulübüne veya bir İnternet grubuna katılabilirsiniz. Bu 
+konular sayısız forumda ayrıntılı olarak tartışılmaktadır. 
+Herhangi bir sorunuz varsa size memnuniyetle yardımcı olacak 
+gerçek profesyonelleri burada ve orada bulacaksınız.
+Daha önce de söylediğim gibi, sizi otomatik işlem sistemlerinin 
+avantajları konusunda ikna etmek için burada değilim. Bu stratejinin 
+dezavantajları da var. İşlemlerinizi yine de manuel olarak girebilir ve 
+ne zaman işlem yapmak istediğinize karar verebilirsiniz. Ben
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Otomatik ticarete girmenin, sözde "manuel tüccar" için 
+de getirdiği avantajlara işaret etmek istiyorum.
+Ticaret işini tamamen manuel olarak yürüten bir tüccar, 
+otomatik olarak ticaret yapan tüccarlardan sonsuz miktarda şey 
+öğrenebilir. Örneğin, ticareti çok daha nesnel bir şekilde düşünmeyi 
+öğrenebilir ve bu nedenle daha rasyonel davranabilir. Her şeyden 
+önce, "piyasaların nasıl çalıştığını" değil, "ticaretin nasıl çalıştığını" 
+öğrenebilir! Okuyucu daha fazlasını okuyarak ne demek istediğimi 
+hemen anlayacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+2. İçindekilerin Tam Tersini Yapın
+Ticaret Kitapları
+Herhangi bir işte başarı genellikle çoğunluğun yaptığının tam 
+tersini yaptığınızda ortaya çıkar. Bence bu kendi kendine konuşur. 
+Ancak tanıdığım çoğu yatırımcı bu ilkeye aykırı hareket eder. Sözde 
+"başarılı yatırımcılardan" ne yapmaları gerektiğini duymak isterler. 
+Daha sonra bu stratejileri taklit etmeye çalışırlar veya hatta "başarılı 
+yatırımcı" ile aynı şekilde işlem yapmaya çalışırlar. Kural olarak, bu 
+istenen başarıya yol açmaz.
+Şimdi bu kitapta ticaret literatüründen bazı klasik 
+önerilere bakacağım ve bu iyi niyetli tavsiyelerin 
+önerdiği şeyin tam tersini yapacağım. Okuyucunun da 
+bunu yapması gerektiğini söylemiyorum.
+her neyse, tavsiyeler. Herkes kendi ticaretinden ve kendi 
+şansından sorumludur. Ancak, bu düşünce deneyi 
+sayesinde okuyucunun yeni fikirler üreteceğini 
+umuyorum. Belki de kendi ticaretine farklı bir şekilde 
+bakmasını sağlar.
+İddia 1: Kayıplarınızı Kesin ve Karlarınızın Artmasına İzin Verin
+Saldırmak istediğim ilk iddia veya klasik öneri şudur: 
+"Zararlarınızı kesin ve karlarınızın akmasına izin verin". Her 
+yatırımcı bu hükmü bilir. Bunu neredeyse her yatırım 
+kitabında bir mantra gibi bulabilirsiniz. İlk bakışta buna karşı 
+söylenecek pek bir şey yok. Borsada para kazanmak için 
+herkesin aklına kesinlikle mantıklı geliyor;
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Bir yatırımcı mümkün olduğunca az kaybetmeli ve ardından mümkün olduğunca çok 
+kaybetmelidir.
+Ancak, özellikle kısa vadeli işlem veya günlük işlem 
+yaparken bu cümleyi sorguluyorum. Bu sözün arka planına 
+bakarsanız, bunun çok belirli bir köşeden, yani trend 
+takipçisinin köşesinden geldiğini göreceksiniz. Trend 
+takipçileri, felsefeleri hisse senetlerini ve piyasaları her zaman 
+uzun vadeli veya orta uzun vadeli trendler halinde görmek 
+olan tüccarlardır.
+Sonuç olarak, bu tüccarlar trendi takip etmeye çalışacaklardır. Basitçe 
+söylemek gerekirse, bir hisse senedinde veya piyasada bir trend tespit 
+etmişlerse, onu satın alacaklardır. Daha sonra, sistemleri trendin bittiğini 
+işaret edene kadar mümkün olduğunca uzun süre bu piyasada kalmaya 
+çalışırlar. Uygun bir trende girdiklerinde, elbette para kazanırlar. Bu yüzden 
+şunu söylerler: karlarınızın akmasına izin verin. Bu nedenle, trend var olduğu 
+sürece trendi takip ederler. Bu açık ve rasyonel bir davranıştır.
+Ne yazık ki, bu yöntem her zaman işe yaramıyor. Bazen, bir trend 
+takipçisi belirli bir yönde hareket eden bir piyasayı satın alır ve sonra 
+hareket etmeyi bıraktığını deneyimler. Tüccarın bir pozisyonu vardır, 
+ancak bu ona herhangi bir kar getirmeyecektir. Hiçbir şey kaybetmez, 
+ancak hiçbir şey kazanmaz da. Sadece zamanını kaybeder.
+Ayrıca, trend takipçisinin umduğunun tam tersi de 
+olur. Satın aldıktan hemen sonra piyasa döner ve pozisyon 
+para kaybetmeye başlar. Bu yüzden tavsiyenin ilk kısmı 
+kayıpları sınırlamaktır. Bir pozisyon kayba girer girmez, 
+trend takipçisi pozisyonu kapatmalı ve mümkün olan en 
+küçük kaybı almalıdır. Bu nedenle tekrar tekrar küçük 
+kayıplar almaya istekli olmalıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Hiç de açık değil; piyasa, yatırımcının satın aldığı anda 
+istenilen yöne gidiyor. Bu durum daha da istisna. Bu 
+nedenle kural, önce istenmeyen yöne gitmesidir. Zorluk, 
+elbette, yatırımcının çok fazla dikkat edilmemesi gereken 
+geçici bir düzeltmeyle mi uğraştığını yoksa bunun piyasada 
+gerçek bir dönüşün başlangıcı mı olduğunu belirlemektir. 
+Bu durumlardan hangisi olursa olsun, kural şunu belirtir: 
+Zararınızı kesin. Bu nedenle, trend takipçisi, 
+değerlendirmesi doğru olsun ya da olmasın pozisyonu 
+kapatmalıdır.
+Deneyimime göre, yalnızca küçük bir grup insan bu 
+kadar güçlü bir disiplini sürdürüyor. Öneri doğru gözlem ve 
+deneyime dayansa da, başarılması zor. Bu aynı zamanda 
+birçok trend takipçisinin sistemlerini tamamen 
+otomatikleştirmesinin nedenidir. Daha sonra bilgisayar ne 
+zaman alım satım yapılacağına karar verir.
+Bu kural trend takipçileri için ne kadar önemli ve doğru olsa da, 
+günlük ticarette veya kısa vadeli ticarette pek işe yaramaz. Günlük 
+ticaret genellikle kaldıraçlı bir hesap üzerinden yapıldığından, trend 
+takibi burada nadiren işe yarar. Bir ticarette haftalarca veya belki 
+aylarca kalmayı planlıyorsanız, brokerin sizden talep edeceği 
+finansman maliyetleri getiriye göre makul bir oranda olmayacaktır.
+Sürekli olarak keşfettiğim günlük işlemdeki sorunlar, 
+çoğu yatırımcının maalesef işlem felsefelerini trend 
+takipçilerinden ödünç almış olmasının sonucudur. Bu nedenle, 
+aynı zamanda karlarını maksimize etmeye ve kayıplarını 
+minimize etmeye çalışırlar. Bu mantıklı veya rasyonel geliyor, 
+ancak günlük işlemde uygulanması zordur.
+Eğer günlük grafikleri incelerseniz, bunu da göreceksiniz. 
+Genellikle, piyasa dar bir aralıkta birkaç saat boyunca yatay seyreder,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+ve sonra patlayıcı bir şekilde yukarı veya aşağı doğru fırlar. Bu 
+genellikle önemli ekonomik veriler yayınlandıktan sonra olur. 
+Piyasa katılımcılarının sadece bu verileri beklediğini açıkça 
+görebilirsiniz. Ancak hareketin hangi yönde gerçekleşeceği 
+belirsiz olduğundan, elbette herhangi bir analize dayanarak 
+fiyatın yönünü tahmin etmek zordur. Birçok tüccar ayrıca piyasa 
+yönünü doğru bir şekilde değerlendirdikleri gerçeğini 
+deneyimliyor, ancak yine de pozisyonlarını kaybediyorlar çünkü 
+piyasa önce ters yönde hareket ediyor ve stop emirlerini devre 
+dışı bırakıyor. Bunun nedeni, stop emirlerinin piyasa hareketine 
+çok yakın yerleştirilmesidir, çünkü trend takipçilerinin 
+mantrasına göre "kayıplarını sınırlamak" istiyorlar. Sonunda, 
+birçok kayıp ticareti birikir ve birkaç büyük kâr ticareti haftanın 
+sonunda kâr elde etmek için yeterince büyük değildir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+İddia 2: İyi Bir Risk-Ödül Oranı Elde Etmeye Çalışın
+Trend takipçisinin felsefesi, risk ödül oranı (RRR) söz konusu 
+olduğunda en çarpıcı olanıdır. Bu, bir yatırımcının belirli bir getiri elde 
+etme riskini ne kadar alabileceğini (veya alması gerektiğini) söyleyen bir 
+sayıdır. Çoğu yatırım gurusunun tekrarlanan mantrası olan iyi yatırım, 
+yüksek RRR'lerle işe yarar. Bu nedenle, kısa vadeli yatırım için genellikle 1: 
+2 veya hatta 1: 3'lük bir RRR'nin gerekli olduğunu görürsünüz.
+Özellikle, bu, tüccar 50 tick veya pip (stop'un giriş fiyatına 
+olan mesafesi) riske ederse, fiyat hedefinin en az 100 tick veya 
+pip olması gerektiği anlamına gelir. Örneğin, Dow Jones Future'ı 
+18.000 puanlık bir fiyattan satın alırsa ve 17,950'de 50 puan daha 
+düşük bir koruyucu stop koyarsa, fiyat hedefi en az 18.100 puan 
+olmalıdır.
+Bu, Dow'u 18.000 puandan satın alan bir yatırımcının, 
+önümüzdeki birkaç saat içinde 18.100 puana gerçekten 
+yükselmesini umması gerektiği anlamına gelir. Belki de 
+gerçekten yükselir. Ancak gerçek şu ki, eski güzel Dow yatırımcıyı 
+bu şekilde kayırmadan önce, önce tekrar 17.950 puana düşecek 
+ve piyasadan stop emrini çıkaracaktır. Dow bunu sadece 
+yatırımcıyı kızdırmak için yapmaz. Bunu yapar çünkü piyasalar 
+basitçe böyle işler. Piyasa, öncelikle yatırımcının beklentisini 
+aldatma eğilimindedir.
+Birçok ticaret gurusunun risk ödül oranlarıyla ilgili 
+gereksinimleri mantıklı ve matematiksel olarak doğru olsa da, 
+tüccar bu şekilde ticaret yapmaya çalışırsa gerçeklik çok farklı 
+görünür. 50 pip veya 50 puanlık bir riskle 100 pip veya puanlık bir 
+getiri elde etmek kolay değildir, ne kadar istenirse istensin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Tabii ki, gurular 1:3 veya daha yüksek RRR'ler isterse daha da 
+zorlaşır. Burada başarılı olmak için daha iyi sihire ihtiyacınız 
+var.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+İddia 3: Sadece %33,33'lük bir İsabet Oranına İhtiyacınız Var
+Tüccar 50 puanlık bir riskle 100 puanlık kâr gibi pek de 
+mütevazı olmayan bir getiri elde etmek istiyorsa, karlı bir şekilde 
+işlem yapmak için sadece %33,33'ün biraz üzerinde bir isabet 
+oranına ihtiyacı olacaktır. İşlemlerinin sadece %34'ü fiyat 
+hedefine ulaşmalıdır, böylece karlı bir şekilde işlem yapabilir. En 
+azından matematik bize bunu söylüyor. Bu gereklilik de elbette 
+makul geliyor. Ayrıca, bu fikirle ilk kez karşılaşan herkes şöyle 
+der: "Eh, %33,33, bunu yapabilirim! Hatta daha iyisini bile 
+yapabilirim!"
+Ticaretin gerçekliği ne yazık ki oldukça farklıdır. Piyasaya 
+bu tür varsayımlarla giren yatırımcılar genellikle oynaklık 
+eksikliğine maruz kalırlar. Sonuç olarak, 100 pip veya 100 
+puanlık belirtilen fiyat hedefine hiç ulaşılamaz (150 pip'ten 
+bahsetmiyorum bile). Ancak, giriş fiyatından yalnızca 50 puan 
+uzakta olan stop'a ulaşılma olasılığı yüksektir. Sonuç olarak, 
+denklem basitçe işe yaramaz. Matematiksel olarak doğrudur, 
+ancak bunu pratiğe dökmek zordur. Ayrıca, bu arada, 
+yatırımcının 30 - 60 veya 20 - 40 oranıyla çalışması önemli 
+değildir, zorluklar aynı kalır.
+Bu tür ticaretin sorunu, bence, altta yatan öncülde ele 
+alınması gereken bir sorundur. Bu, tam olarak daha önce 
+bahsedilen "zararlarınızı kesin ve karlarınızın akmasına izin 
+verin" tavsiyesinden gelir. İlk bakışta, bu tavsiye makul ve 
+rasyonel geliyor, ancak kısa vadeli ticaretin günlük 
+gerçekliğinde pratik değil.
+Bu nedenle, başarısızlığın tüccarın disiplininden kaynaklanmadığı (sık 
+sık iddia edildiği gibi) ve sadece yanlış yöntemden kaynaklandığı açıktır. 
+Hatta daha da ileri gidip bunun yanlış ticaret felsefesinden kaynaklandığını 
+iddia edebilirim. "Paranızı kesin" kadar tavsiye edilebilir ve doğru
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+"Zararları biriktirip kârınızı sürdürün" tavsiyesi trend takipçileri için geçerli 
+olabilir ancak kısa vadeli işlemlerde bu tavsiye işe yaramaz.
+Üstelik bu kitaptaki önerim, trend takipçilerine 
+önerilenin tam tersi olacak. Günlük işlem için önerim aslında 
+şudur: karları mümkün olduğunca küçük tutmak ve büyük 
+kayıplara katlanmak. Bu öneri bazı kulaklara ne kadar 
+saçma gelse de, bu öneriyi iyice test edip sonuçları 
+incelediğimizde çok etkili olduğunu görüyoruz.
+Gün içi ticaret konusunda tavsiyem, bir scalper olarak ticaret 
+yapmayı denemektir. Bu nedenle, kalıcı olarak küçük karlar elde 
+etmeyi tercih ederim ancak sıkı stoplarla çalışmam. Günlük tüccar 
+sıkı stoplarla çalışırsa, pozisyonunun sürekli olarak 
+durdurulduğunu deneyimleyecektir. Bunun nedeni, sürekli olarak 
+küçük dalgalanmalara yenik düşen piyasaların doğasıdır.
+Bu nedenle pozisyonunun fiyat hedefi mümkün 
+olduğunca küçük seçilmeli, böylece hızlı ve zahmetsizce 
+ulaşılabilir. Ancak stop, mevcut fiyat hareketinden 
+mümkün olduğunca uzakta olmalıdır. O kadar uzakta ki, 
+"normal piyasa koşulları" altında hiç ulaşılamıyor. Bunun 
+zaten gerçekleşeceği, kendi adına konuşuyor. Piyasa 
+koşulları ve oynaklık sürekli değişiyor. Elbette, mevcut 
+piyasadan çok uzakta seviyelerde bekleyen stoplara 
+neden olacak ara sıra abartılar olacak.
+Bu stratejinin gerçek fikri, fiyat hedefine piyasanın doğal 
+dalgalanmaları tarafından hızlı ve kolay bir şekilde ulaşılmasıdır. 
+Bunun ne kadar hızlı gerçekleşebileceğini, bu kitabın ikinci 
+bölümünde birkaç örnekle göstereceğim. Bu stratejide önemli 
+olan, günlük ticaretin sadece büyük karlar elde etmekle ilgili 
+olmadığını anlamanızdır. Aksine, ben
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+fiyat hedefime mümkün olduğunca çabuk ulaşılmasını ve ardından bir sonraki 
+işleme geçilmesini istiyorum. Bu nedenle birçok küçük kârdan oluşan bir zincir 
+tercih ediyorum.
+Bu yaklaşımın birçok avantajı vardır. Bana göre bunların en 
+önemlisieğlence faktörü. Tekrar tekrar kazanırsanız, bu sizi muazzam 
+bir şekilde motive eder. Dürüst olun, paranızı nasıl kazanmayı tercih 
+edersiniz: bir kez kazanıp beş kez kaybetmek mi? Öte yandan, dokuz 
+kez kazanıp bir kez kaybetmek mi?
+Cevabın açık olduğunu düşünüyorum. Çoğu insan ikinci 
+seçeneği seçecektir. Bu tamamen insan doğasıdır. Bu yüzden 
+insan doğasını model alan bir işlem stratejisi geliştirmeye 
+çalışıyorum. İlk seçeneği seçmek daha mantıklı görünebilir (ki 
+çoğu işlem kitabı bunu yapar). Ancak pratikte bunu uygulamak 
+zordur. İnanın bana; bunu yıllardır deniyorum.
+Çoğu yatırımcı her zaman (ya da mümkün olduğunca sık) 
+kazanmayı tercih eder. Bu yüzden tam olarak bunu yapan bir strateji 
+aramanızı öneririm: mümkün olan en yüksek isabet oranına sahip bir 
+strateji. Birkaç basit örnekle, nihayetinde karlı bir şekilde işlem 
+yapabilmeniz için isabet oranının ne kadar yüksek olması gerektiğini 
+açıklamak istiyoruz.
+Bu nedenle, eğer tüccar istikrarlı küçük karlara odaklanıyorsa, 
+ticaret yapma yolunu (beynini) bu yönteme göre programlar. Her 
+zaman istikrarlı küçük başarılar elde ettiği için, devam etmek için 
+motivasyonunu korur. Bu, ticarette muazzam bir öneme sahiptir. 
+Ticaret kesinlikle büyük bir meydan okumadır ve bu yüzden istikrarlı 
+başarı çok önemlidir. Az başarı deneyimlediğinde, tüccar 
+motivasyonunu hızla kaybeder.
+İkinci avantajküçük fiyat hedeflerinin gerçekliği, 
+genellikle büyük karlar elde etme fırsatı vermeyen, ancak 
+her zaman küçük karlar elde etme fırsatı veren piyasanın 
+kendisidir. Bu yüzden bunu tercih ediyorum
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+yöntem, çünkü bana kalıcı gelir sağlayan bir sistem istiyorum. 
+Büyük kazançlar peşindeyseniz, genellikle bu beklenen 100 
+puanlık hareket gerçekleşene kadar günlerce beklemeniz 
+gerekir. Zamanla, sistemim bana piyasadan 20 veya 30 kez 5 
+veya 7 puan kazandırabilir.
+Küçük fiyat hedeflerine sahip böyle bir sistemin karlı 
+olabilmesi için doğal olarak yüksek bir isabet oranına ihtiyacımız 
+var çünkü arada sırada kârımızı kısa devre yapacak bir kayıp 
+işlemimiz olacak. Yüksek isabet oranı bu sistemin öncülüdür. 
+Onlara ihtiyacımız var ve onları istiyoruz. Dahası, her zaman 
+kazanmak isteyen insanların doğal ihtiyacını karşılar. Buna pişman 
+olabilir ve hatta bunu mantıksız olarak görebilirsiniz, ancak insan 
+doğasına aykırı çalışmak her zaman en zor işlerden biri olmuştur. 
+Bu nedenle, ilk etapta bunu denememeliyiz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+3. Yüksek Vuruş Oranını Hedefleyin
+Stratejimizin öncülünü daha açık hale getirmek için risk 
+ödül oranına ve isabet oranına daha yakından bakmamız 
+gerekiyor. Çünkü eğer varsaticarette bir başarı formülü, o 
+zaman tam burada. Vuruş oranı ve risk ödül oranının 
+etkileşimini anlayan kişi, kendi kişiliğine göre uyarlanmış bir 
+işlem formülü geliştirebilir. Bu nedenle, bazı formüllere daha 
+yakından bakmak istiyoruz.
+Bir tüccar trend takip felsefesinin takipçisiyse, elbette, 
+genel olarak trendleri belirleyecektir. Böyle bir tüccar, yanal 
+fazları "anlamsız gürültü"den ziyade "devamlılık kalıpları" 
+olarak değerlendirir. Trendlere odaklandığı için, elbette büyük 
+karlar elde etmeye çalışacaktır. Risk ve kar arasındaki ilişkide, 
+bu tüccar kar tarafına odaklanacaktır. Trend piyasalarında, 
+daha da büyük karlar bekleyebilir.
+Bu nedenle, başarı formülüne göre, yüksek risk ödül oranlarını 
+(RRR'ler) seçecektir - en azından 1: 3 veya daha yüksek RRR'ler. Bunun 
+isabet oranı için ne anlama geldiğini bir hesaplama örneğiyle 
+göstermek istiyoruz. Trend takipçisinin 100 işlem yaptığını ve 
+bunlardan yalnızca 30'unun kazanan olduğunu varsayalım (trend 
+takipçileri için yaygın bir başarı oranı). Bu nedenle, %30'luk bir isabet 
+oranına sahiptir. 1: 3'lük bir Risk Ödül Oranı ile çalışır. Puan olarak: 
+300 kazanmak için 100 puan riske eder.
+30 kazançlı işlem x 300 puan = 9000 puan
+70 kayıp işlem x 100 puan = 7000 puan
+Toplam: 2000 puan
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Gördüğünüz gibi, bu hesaplamaya göre, trend takipçimiz 
+karlı bir işlem sistemine sahip. Sadece %30'luk bir isabet oranına 
+sahip olmasına rağmen, yine de kar elde ediyor. Daha da iyisi. Bu 
+tüccarın karlılık eşiği tam olarak %25. Bu, zarar etmemek için her 
+dördüncü işlemde sadece fiyat hedefine ulaşması gerektiği 
+anlamına geliyor. 26. işlemden itibaren karlı olmaya başlıyor. 
+Burada, bunu görebilirsiniz:
+25 kazançlı işlem x 300 puan = 7500 puan
+75 kayıp işlem x 100 puan = 7500 puan
+Toplam: 0 puan
+Düşük gerekli isabet oranı, birçok yatırımcının bu 
+stratejiye ilgi duymasının nedenidir. Şöyle derler: %25 isabet 
+oranı. Bu kolayca elde edilebilir. Ayrıca, belki de haklı olabilirler, 
+yeter ki birçok kayıp işlemini (75%'e kadar) zihinsel olarak idare 
+edebilsinler. Ayrıca, bu işlemler kayıp, kayıp, kayıp gibi cesur bir 
+ritimde ortaya çıkmaz.kâr, kayıp, kayıp, kayıp, kâr, kayıp, vb.
+Bir trend takipçisi olarak, on veya daha fazla kayıp serisini 
+deneyimleyebilirsiniz. Dolayısıyla, onuncu kez 100 puanlık bir kayıp 
+yaşadıysanız, 100 puanlık bir kayıp durdurma ile 11. işleme gözünüzü 
+kırpmadan girebilir misiniz?
+Bu stratejiye karşı ikinci çekincem, elbette, 300 puanlık 
+bir fiyat hedefine ulaşmanın hiç de kolay olmamasıdır. Trend 
+takipçisinin USD/JPY paritesinde bir pozisyonu olduğunu ve şu 
+anda 250 pip kârda olduğunu varsayalım. Dolayısıyla, 300 
+piplik fiyat hedefine ulaşmak için "sadece" 50 pip daha ihtiyacı 
+var.
+Ne yazık ki, beklenmeyen bir şey oluyor! USD/JPY aniden 
+yön değiştiriyor ve makul bir geri çekilme üretiyor. Sonuç 
+olarak, pozisyon sadece birkaç saat sonra sadece 75
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+kârda pip. O zaman bir trend takipçisi olarak ne yaparsınız? 
+Durdurmanızı yukarı çekin (tam o anda RRR'nizi hemen değiştirecek 
+ve sisteminizi "sahte" hale getireceksiniz). Öte yandan, şimdi bir takip 
+eden durdurma ile mi çalışıyorsunuz ve piyasanın pozisyonunuzu 300 
+pipten (olası varyant) daha küçük bir kârla durdurduğunu kabul ediyor 
+musunuz?
+Gördüğünüz gibi, yüksek fiyat hedefleri olan sistem teoride iyi 
+görünüyor, ancak pratikte elde edilmesi zor. Bence bu, aynı 
+zamanda birçok yatırımcının forex piyasasında başarısız olmasının 
+nedeni. Sadece yanlış bir sisteme sahipler. En azından, 
+uygulanması zor bir sistem.
+Durdurma yönetimi ve çıkış stratejileriyle ilgili tüm 
+sorular, bu tüccarın yüksek (genellikle erişilemez) fiyat 
+hedefleriyle çalışmasının sonucudur. Daha sonra, 
+parametrelerdeki her değişiklikle başarı formülünü doğal 
+olarak sorgulatan yaratıcı çıkış stratejileriyle uğraşmak 
+zorundadır.
+Örneğin, piyasa düzeltmeleri veya geri çekilmeleri nedeniyle 
+300 pip hedefine daha sık ulaşamazsa, işlem hedeflerine ulaşmakta 
+zorluk çekecektir. Başlangıçta bu stratejinin karlı bir şekilde işlem 
+yapabilmek için %25'in biraz üzerinde bir isabet oranına sahip 
+olduğunu varsayarsak, şimdi çok daha yüksek bir isabet oranı 
+beklememiz gerekebilir. Ayrıca, burada işler karmaşıklaşmaya başlar.
+Trend takipçisinin tam tersini yapan bir tüccarın 
+modeline bakalım. Mümkün olan en küçük hedefi ve 
+geniş bir stopu seçer. Bu tüccar bunu yapar çünkü 
+trend takipçisinden çok farklı bir felsefenin takipçisidir. 
+Her yerde trend görmek yerine, bu tüccar piyasaların 
+çoğu zaman trendsiz kalacağını varsayar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Teknik açıdan bu, piyasaların çoğunlukla ortalamaya 
+dönüş modu. Bu nedir? Ortalamaya dönüş, bir piyasanın aşırı 
+bir pozisyondan sonra ortalama değerine dönme eğilimidir. 
+Elbette, ortalamaya dönüş modunda abartılar da vardır (yani, 
+tüccarın daha büyük karlar elde edebileceği işlem fırsatları). 
+Ancak, piyasa erken veya geç bu abartıları düzeltir. Fiyat ya 
+daha erken bir aralığa döner ya da kopuştan sonra hiçbir takip 
+alıcısı ortaya çıkmaz, böylece kar kademeli olarak parçalanır.
+Ortalama geri dönüş tüccarı bu patlamaları veya abartıları 
+(yani büyük fiyat hedeflerini) işlem yapmaya bile çalışmaz. 
+Piyasadaki normal, günlük dalgalanmadan başlar ve her 
+seferinde biraz kesmeye çalışır.
+Bu nedenle bu tüccarın başarı formülüne bakıyoruz. 10 
+puanlık bir hedefe ulaşmaya çalıştığını varsayalım. Stop'u 
+mevcut piyasadan güvenli bir mesafede, yani 30 puanda. Bu 
+nedenle, sadece 10 kazanmak için 30 puan riske ediyor. Bunun 
+çok sayıda tüccar için korkunç bir şey gibi gelebileceğini 
+biliyorum. Kazanabileceğinizden daha fazlasını riske atarak 
+"negatif Risk Ödül Oranı" ile nasıl çalışabilirsiniz?
+Ancak bu kitabın başında, başarılı olmak için çoğu zaman 
+kitlelerin yaptığının tam tersini yapmamız gerektiği tezinden 
+yola çıktığımız için, bu yatırımcıyı ciddiye alıyor ve onun başarı 
+formülüne daha derinlemesine bakıyoruz.
+Fiyat hedefi küçük olduğundan, trend takipçisinin fiyat 
+hedefinin aksine, elbette hızlı ve kolay bir şekilde elde edilir. 
+Böyle bir stratejinin elbette daha yüksek bir isabet oranı 
+olacaktır. Bunun %75 olacağını varsayalım. Bu tüccar da 
+örneğimizde 100 işlem yapar.
+75 kazançlı işlem x 10 puan = 750 puan
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+25 kayıp işlem x 30 puan = 750 puan
+Toplam: 0 puan
+Örnekte, bu yatırımcının karlı bir şekilde işlem yapmak için %75'in 
+biraz üzerinde bir isabet oranına ihtiyacı olduğunu görüyoruz. Bu yöntemin 
+eleştirmenleri, %75 ve üzeri isabet oranlarına ulaşmanın zor olduğunu 
+savunacaktır. Katılıyorum, fiyat hedefleri çok iddialı olduğu sürece (çoğu 
+günlük içi stratejide olduğu gibi). İşlem hedefe kolayca ve hızlı bir şekilde 
+ulaşabiliyorsa, o zaman %75, evet %80'den fazla isabet oranları 
+uygulanabilir.
+Elbette, bu örneği keyfi olarak seçtim. Bu kitap 
+boyunca, tam olarak bu varsayıma dayanan, minimum 
+fiyat hedefli bir strateji sunacağım. Hatta uç bir örnek bile 
+hayal edebilirsiniz. Tüccarın 6 puanlık bir fiyat hedefinden 
+memnun olacağını varsayalım. Stop'u 30 puanlık bir 
+mesafede kalacaktır. Bu durumda, Risk Ödül Oranı 6: 1 
+olacaktır ki bu da son derece negatif bir RRR'dir. Sizce bu 
+durumda, işlemin stop yerine fiyat hedefine ulaşma 
+olasılığı nedir? Aslında: çok yüksek.
+84 karlı işlem x 6 puan = 504 puan
+16 kayıplı işlem x 30 puan = 480 puan
+Bu örnekte, yatırımcının karlı olabilmesi için %84'lük bir isabet 
+oranına ulaşması gerekir. Tekrar ediyorum, bu çok yüksek bir isabet 
+oranıdır. Fiyat hedefinin gerçekleşme olasılığı artık 10 puanlık bir 
+durdurma mesafesine sahip örnektekinden bile daha yüksektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+4. "İyi" risk-ödül oranlarına sahip işlem stratejilerinin 
+genellikle başarısız olmasının nedeni
+Şimdi eleştirel bir okuyucu, bir işlem sisteminin kalıcı olarak 
+yüksek isabet oranlarına ulaşmasının olası olmadığını iddia 
+edebilir. Piyasada her zaman stop'a daha sık ulaşılan aşamalar 
+olacaktır. Bu daha sonra daha büyük düşüşlere (zarar serileri) yol 
+açacak ve bu da stratejinin genel karlılığını azaltacaktır. Buna 
+katılıyorum. Bu olacak. Düşüş aşamaları olmadan yönetilen 
+hiçbir işlem sistemi bilmiyorum.
+Her zaman kayıp evrelerinin olacağı doğru olduğu kadar, yüksek 
+isabet oranına sahip sistemlerin birikmiş kayıpları hızla telafi etme 
+eğiliminde olduğu da doğrudur. Bunu böyle bir sistemin çeşitli sermaye 
+eğrileri aracılığıyla göstereceğim. Ayrıca, böyle bir sistemde uzun vadeli 
+kar serileri ortaya çıkar ve bu da doğal olarak hesabın büyümesine 
+yardımcı olur. Bazı durumlarda, bu sistem tek bir kayıp işlemi olmadan 
+100'den fazla işlemden oluşan kar serileri üretti!
+Ancak, özellikle kısa vadeli veya günlük işlem yapmayı 
+planlıyorsanız, küçük fiyat hedeflerine sahip bir işlem 
+sistemini destekleyen çok daha önemli bir argüman vardır. 
+Trend takip modeline dayalı işlem sistemlerine baktığımızda, 
+piyasanın fiyat hedeflerine ulaşmakta zorluk çektiğini veya hiç 
+ulaşamadığını gördük. Bu olumsuz etki, doğal olarak bu ilkeye 
+dayalı birçok işlem stratejisinin Risk Ödül Oranını kötüleştirir. 
+Ayrıca, bu modelle çalışan tüccarların başarılı olmamasının 
+nedeni genellikle budur.
+Ancak, küçük fiyat hedefleriyle çalışan işlem modellerinin 
+sonuçlarına bakalım. Genellikle farklı bir etki vardır:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+burada, piyasa her zaman stop'a ulaşamaz! Bunun nedeni 
+basittir: tüccar işleme girdikten sonra, piyasa fiyat hedefine 
+ulaşamayabilir, ancak düşük volatilite nedeniyle stop'a da 
+ulaşamaz.
+Şekil 1: Eurostoxx 50 Future'daki (FESX) performans 
+histogramı
+Şekil 1 bu etkiyi göstermektedir. Eurostoxx50 vadeli 
+işlemlerinde bir dizi işlemin sonucunu görüyorsunuz. Yukarıdaki 
+küçük mavi çubuklar kâr işlemlerini sembolize ediyor. Aşağıdaki uzun 
+kırmızı çubuklar zarar işlemlerini temsil ediyor. Kâr işlemleri açıkça 
+çoğunluktaydı, bu da şu anlama geliyor: bu stratejinin yüksek bir 
+isabet oranı var. Bu durumda, bu zor değildi çünkü fiyat hedefi 
+sadece iki tikti. Bu stratejide stop 20 tiklik güvenli bir mesafedeydi.
+Piyasa çoğunlukla fiyat hedefine ulaşmış olsa da (iki 
+istisna vardı), yalnızca altı durumda stop'a ulaştı. Ancak 
+sistem, piyasanın stop'a ulaşmadığı beş başka zarar ticareti 
+daha yaptı. Trend takip sisteminin aksine, bir günlük sistem, 
+işlem seansının sonundan önce pozisyonu kapatmak 
+zorundadır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Ancak, piyasa her zaman stop'a ulaşmazsa, toplam 
+kayıp (tüm kayıp işlemlerinin toplamı) küçüldükçe risk ödül 
+oranı elbette iyileşecektir. Bu etki daha sonra tüccarın 
+karlılık eşiğine ulaşmak için daha düşük bir isabet oranına 
+ihtiyaç duymasını sağlar. Öte yandan, piyasa genellikle 
+küçük fiyat hedefine ulaşır.
+Dolayısıyla, azaltılmış fiyat hedeflerinin etkisi trend takip 
+sistemlerinin karlılığını azaltırken, daha küçük kayıpların etkisi 
+küçük fiyat hedeflerine sahip işlem sistemlerinin karlılığını artırır. 
+Bana göre, bu böyle bir sisteme daha yakından bakmak için yeterli 
+bir sebeptir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+5. Kar alma emrinin övgüsü
+Kar elde etmek kesinlikle bir ticaret işinin en keyifli 
+faaliyetlerinden biridir. Aynı zamanda bir tüccarın gerekli 
+faaliyetlerinden biridir. Bu işten geçimini sağlamak istiyorsa sürekli 
+kar elde etmelidir. Bunun muhtemelen bir tüccarın yapabileceği en 
+basit şeylerden biri olduğuna inanıyorsanız, büyük bir sürprizle 
+karşılaşacaksınız. Tanıdığım birçok tüccar, kazançlı bir pozisyonu 
+kapatmakta büyük zorluklar yaşıyor. Bunun nedeni insani: 
+açgözlülük. Bir kez kazandığınızda, daha fazla kazanma doğal 
+ihtiyacınız olacak. Son olarak, pozisyon zaten kârdadır ve birikmiş 
+kârın daha da artmaması için hiçbir neden yoktur.
+Bu sorun benim de uzun zamandır başıma geliyordu. 
+Kârımı gerçekleştiremiyordum. Bir bakıma çok 
+sabırlıydım. Açgözlüydüm. Bu sorunu tartıştığım bir 
+tüccar arkadaşım bana: "Parayı masadan tekrar tekrar 
+almalısın," dediğinde, kârımı zamanında gerçekleştirmeyi 
+öğrendim. Ancak kolay olmadı.
+Ne yazık ki, bunun tersi de doğrudur. Birikmiş karlar, güneşte 
+kardan daha hızlı eriyebilir, bunu izleyebilirsiniz. Bana göre bu, 
+tanıtım yapmak için yeterli bir sebeptirotomatik kar alma emri
+Burada. Bu, belirli bir fiyat seviyesine ulaştıktan sonra bir menkul 
+kıymetin satışı için bir emirdir. Bu, piyasa belirli bir fiyata 
+ulaştığında sistemin karı otomatik olarak yatırımcının hesabına 
+aktardığı anlamına gelir. Bu aracı kullanan yatırımcı, bu nedenle 
+piyasanın daha fazla gelişmesi konusunda endişelenmek zorunda 
+değildir. Pozisyon kapatıldığında, oyundan çıkar. Nokta.
+Otomatik kar alma emrinin eleştirmenleri, elbette, bu 
+şekilde tüccarın karını sınırladığını savunacaktır. Son olarak,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+piyasa sonsuza kadar yükselebilir (ya da yatırımcı kısa 
+pozisyondaysa düşebilir). Kitabın başında bunun en nadir 
+durumlarda gerçekleştiğini gösterdim.
+Aksine, piyasalar çoğu zaman ortalamaya dönüş modunda 
+olduğundan, çok sık tersine dönerler. Bu nedenle, tüccarın 
+amaçladığının tam tersi gerçekleşir.
+Bu nedenle, yatırımcının kârlarını gerçekten gerçekleştirmeyi 
+öğrenmesi son derece önemlidir. Tıpkı zararlarını sınırlamayı 
+öğrenmesi gerektiği gibi. Ancak, bir yatırımcı yüksek risk ödül 
+oranlarıyla çalışıyorsa, bu ne yazık ki onu, işlem iyi çalışmıyor gibi 
+görünüyorsa piyasayı analiz etmeye yönlendirir. Bunu işlemden 
+önce, işlem sırasında ve genellikle işlemden sonra yapar. Bu 
+entelektüel olarak ilginç bir aktivite olabilir, ancak genellikle para 
+getirmez.
+Bir tüccar borsada yalnızca sistematik olarak kârını 
+gerçekleştirirse para kazanır. Ayrıca, benim deneyimime 
+göre, şüphe etme cazibesine kapılmamak için bu süreci 
+otomatikleştirirse bu en iyi şekilde çalışır. Otomatik kar 
+alma emri bu işi yapar. Adı açıkça söylüyor: Karı al!
+İnanılmaz bir şekilde, bu basit süreç ticarette gerçek 
+parayı getiriyor — başka bir şey değil. Biraz abartılı denebilir: 
+Bir tüccar, kar elde eden kişidir. Bu nedenle, tüccar dikkatini ve 
+enerjisini tam olarak bu aktiviteye odaklamalıdır. Eğer 
+odaklamazsa, zamanını boşa harcamış olur. Unutmayın: 
+Tüccarlar borsada tik, puan ve pip toplamak için vardır. Sürekli, 
+yorulmak bilmez ve bunu yaparken çok eğlenirler!
+Tüccar, benim önerdiğim gibi, küçük fiyat 
+hedefleriyle çalışırsa, piyasa fiyat hedefine doğal olarak 
+hızla ulaşacaktır. Bazı aşırı durumlarda, birkaç saniye 
+sonra. İşlemleri kısaysa, sistemi,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+daha büyük fiyat hedeflerine. Sonuç olarak, tüccar bir 
+scalper'ınkine yakın olan belirli bir dinamizme girer. Scalping 
+kitaplarımı bilenler, bir tüccarın beynindeki avantajları bilir. 
+Karların sürekli gerçekleşmesi, borsada başarılı olmak için 
+ihtiyaç duyduğunuz kazanma zihniyetini tam olarak yaratır.
+İşlemler çok uzun sürerse, yatırımcının fiyat hareketine çok 
+daha fazla mesafeye ihtiyacı vardır ve PC'yi veya dizüstü 
+bilgisayarı (ve akıllı telefonunu) kapatıp piyasayı izlemeyi 
+bırakmalıdır. Ancak deneyimlerime dayanarak, bunu yapabilecek 
+en az yatırımcının olduğunu biliyorum. Akıllı telefonunda beş 
+borsa uygulaması yüklü olan bir yatırımcıdan iki gün boyunca 
+borsaya bakmamasını isteyin. Bunu yapabilecek bir yatırımcı 
+bulamazsınız. Ticaret bağımlılık yaratabilir.
+Bu nedenle, bir pozisyona girer girmez sabit kar alma emirlerini 
+kullanarak işlemlerinizi büyük ölçüde otomatikleştirmenizi veya en 
+azından yarı otomatik olarak çalışmanızı öneririm. Daha sonra 
+dilerseniz piyasaya manuel olarak girebilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+6. Otomatik girişin övgüsü
+Tüccarlar bazen giriş, çıkış, strateji ve teknik analiz 
+konusunda çok endişelenirler. Birkaç bin veya hatta on binlerce 
+işlemden sonra, bu şeylerin çoğu yeni başlayanın beklediğinden 
+çok daha az önemli olduğunu hatırlatabilir miyim? Öte yandan 
+deneyimli tüccarlar, bir işlem döneminin genel istatistiksel 
+değerlendirmesinde parametrelere çok daha fazla dikkat 
+ederler.
+Tüccar analiz etmeyi bıraktığında, istatistiksel varsayımlara 
+(önceki geriye dönük testlerle elde edilen) dayalı olarak giderek daha 
+fazla işlem yapmaya başlar. Bunu yaparken, duyguları işlemden büyük 
+ölçüde uzaklaştırır ve daha rasyonel davranır. Bunu, swing ticareti 
+hakkındaki kitap serimde daha önce belirtmiştim. "Borsa piyasasında" 
+nesnel olarak analiz edilebilecek hiçbir şey yoktur.
+Borsa, genellikle rasyonel davranmayan binlerce 
+piyasa oyuncusu tarafından belirlenen kaotik bir olaydan 
+başka bir şey değildir. Bana göre borsayı anlamaya 
+çalışmak sadece başarısızlığa uğrayabilir. Piyasanın 
+gelecekteki gelişimi hakkında bir açıklama yaptığınız 
+anda, başka bir analist bir dakika önce düşündüğünüzün 
+tam tersini kanıtlayan iyi bir argüman ortaya koyar.
+Borsada kendi oyununuzu oynamalısınız. Ayrıca, kendi 
+oyununuzu dediğimde, bunun anlamı şudur:SEN Kuralları 
+belirlemeli! Başka hiç kimse değil. Ne zaman ve neden bir işleme 
+girdiğinizi, stop'unuzun nerede olduğunu ve ne zaman karı almak 
+istediğinizi bilmelisiniz. Bu basit ama net parametrelere 
+odaklanırsanız, bir gün kazananlar arasında olma şansınız çok 
+daha yüksektir. Bu yüzden kendi oyununuzu oynayın!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Bir tüccar ideal alım veya satım sinyallerini aramak için çok 
+zaman harcayabilir. Ancak soru, bunu yapıp yapmaması 
+gerektiğidir. Elbette, zaman zaman, örneğin, günün en düşük 
+seviyesini yakalayacak ve doğru anda uzun pozisyon açacaktır. 
+Ancak soru şudur: Bunu her gün başarabilir mi? Sanırım cevap 
+açıktır. Mükemmel girişi sürekli aramanın yeni başlayanların 
+sorunu olduğunu söylememe izin verin.
+İnanın bana; profesyonellerin çoğu, bir işleme ne zaman ve girip 
+girmeyecekleri sorusunu otomatikleştirmiştir. Günün en yüksek 
+seviyesinde kısa pozisyon açmayı başarırsanız, bu entelektüel merakı 
+tatmin edebilir ve egonuzu iyi bir şekilde tatmin edebilir. Yine de 
+dürüst olalım: On yıldır işlem yapıyorsanız ve ilk on bin işleminizi 
+yapmışsanız, hala bu hırsa sahip olacağınıza gerçekten inanıyor 
+musunuz?
+Burada tanıtmak istediğim stratejiye gelince, otomatik 
+girişi ve ayrıca şunu öneriyorum:otomatik kar alma emri. 
+Bunun birçok avantajı vardır. Eğer tüccar artık iyi bir giriş ve 
+kazananlar (sistem bunları onun için gerçekleştirir) aramak 
+zorunda değilse, geriye sadece bir şey kalır: zarar eden 
+işlemlerin yönetimi. Dahası, gerçek usta burada gerçekten 
+ortaya çıkar.
+Elbette, kaybeden işlemlerin yönetimini de 
+otomatikleştirebilirsiniz. Ancak, bunu kendiniz yapmanız için iyi 
+nedenler vardır. Deneyimli yatırımcılar genellikle robotlardan 
+daha iyi kayıp işlemlerini yönetirler. Bunun nedeni piyasa ve işlem 
+deneyimi ve alan uzmanlığıdır (günlük işlem gören piyasanın 
+derinlemesine bilgisi).
+Bu yüzden yarı otomatik işlem yapmayı öneriyorum. 
+Otomatik işlem ve takdir yetkisine bağlı (manuel) işlem 
+avantajlarını bir araya getiriyor. Otomatik işlem sistemleri 
+piyasayı yorumlayamaz. Bunu deneyimli bir tüccar yapabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Ancak, tüccarlar genellikle disiplinin uygulanmasında zorluk 
+çekerler. Bir robot bunu daha iyi başarabilir. Bu nedenle, iki 
+yaklaşımın avantajlarını birleştirmenizi ve dezavantajlarını 
+mümkün olduğunca ortadan kaldırmanızı öneririm.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Bölüm 2: Küçük Bir Yatırımla Bir Ticaret Stratejisi
+Fiyat Hedefi
+Üç geri test kullanarak karlılık açısından basit bir işlem 
+stratejisini ele almak istiyorum. Genel olarak, işlem literatürü 
+stratejinin kendisine büyük önem verir. Her tüccarın bir yerinde, 
+bir gün şimdiye kadar hiç kimsenin keşfetmediği gizli stratejiyi 
+bulmayı uman bir tür graalseeker vardır. Belki de böyle bir 
+strateji vardır. Ne yazık ki, bir tüccar olarak 15 yıllık kariyerimde 
+bunu hiçbir yerde keşfetmedim. Gördüğüm, işlem yaptığım veya 
+test ettiğim herhangi bir stratejinin zayıflıkları ve büyük 
+düşüşleri vardı.
+Böyle "yanılmaz" bir strateji için boşta aramaya 
+odaklanmaktansa, finansal hedeflerimize ulaşmamızı sağlayacak 
+şekilde mevcut bir stratejinin parametrelerini ayarlamanın çok daha 
+verimli olduğunu düşünüyorum. Tüccarın seçtiği stratejinin 
+performans potansiyeli hakkında nesnel bir görüş elde edebilmesi 
+için önce onu test etmesi gerekir. Bunu elbette sözde demo hesapta 
+(kağıt ticareti) yapabilir. Bir veya iki ay sonra, bu stratejinin mantıklı 
+olup olmadığı konusunda bir fikir edinmelidir.
+Ancak, tüccar bir işlem stratejisinin uzun vadeli karlılığını 
+kontrol etmek istiyorsa, bir işlem yapmalıdır.arka testayarlanan 
+parametreler için. Bu, artık birçok işlem platformunda sunulan özel 
+bir yazılımdan kaynaklanmaktadır. Genellikle, bu yazılımı satın 
+almanız gerekmez.
+Eğer geriye dönük test yapıyorsanız, stratejinizin seçilen 
+parametrelerle performansını kontrol etmek için bir piyasanın 
+geçmiş verilerine bakarsınız. Sonuçlar, yatırımcının stratejisinin 
+performansını değerlendirebileceği istatistiksel bir analizi mümkün 
+kılacaktır. Böyle bir geriye dönük testin öncülü şudur:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Elbette, geçmişte iyi işleyen stratejilerin gelecekte de bunu 
+tekrarlama şansının yüksek olduğu varsayımı. Aynısı, elbette, iyi 
+performans göstermeyen stratejiler için de geçerlidir. Kural 
+olarak, gelecekte de bunu yapmayacaklardır.
+Bununla birlikte, geçmiş performansın gelecek için bir garanti 
+olmadığını unutmamak gerekir. Bir yatırımcı belirli bir stratejiyi test 
+ettiğinde, sisteminin temel varsayımlarının belirli piyasa koşulları 
+altında çalışıp çalışmadığını bilmek ister. Daha fazla değil, daha az da 
+değil. Bu nedenle geriye dönük test mükemmel değildir. Ancak 
+yatırımcı, girilen parametrelere sahip stratejinin, işlem yapmış 
+olsaydı son yıllarda nasıl performans göstereceğine dair en azından 
+bir fikir edinir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Test 1: Alman Bund Geleceği, Geçiş
+Hareketli Ortalama Stratejisi
+Mümkün olduğunca basit tutmak için, işlem sinyallerim için 
+çapraz hareketli ortalama kullanmaya karar verdim. Bu gösterge, 
+yavaş ve hızlı hareketli ortalamanın kesişimine dayanmaktadır. 
+Hızlı MA, yavaş MA'yı aşağıdan yukarıya doğru keserse, sistem 
+yalnızca uzun pozisyonlar açacaktır. Tersine, hızlı MA, yavaş 
+MA'yı yukarıdan aşağıya doğru keserse, sistem yalnızca kısa 
+pozisyonlar açacaktır. Alman Bund Future'da ilk testi yaptım. 
+Almanca'da "tahvil" anlamına gelen Bund, Almanya federal 
+hükümeti tarafından ihraç edilen bir borç senedidir ve ABD 
+Hazine tahvilinin Alman eşdeğeridir.
+Şekil 2: Bund Future, 5 dakikalık grafik
+Geçiş hareketli ortalama ayarı için 24, 51'i seçtim. 
+Mavi çizgi (üstte) hızlı MA'dır ve macenta çizgi (aşağıda)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+yavaş MA'dır. Bu durumda, mavi MA, macenta MA'nın 
+üzerindeydi. Bu nedenle, sistem yalnızca uzun pozisyonlar 
+açtı (oklar).
+Fiyat hedefini 3 tik olarak belirledim, stop-loss emrini ise 20 tik 
+olarak belirledim.
+Bund Future, testin seçilen dönemi (2006-2017) için 
+çoğunlukla yukarı yönlü bir eğilimde olduğundan, yalnızca uzun 
+vadeli test sonuçlarına da baktım. Yani, bu durumda parametreleri 
+uzun kısadan yalnızca uzuna değiştirdim. Daha sonra, yalnızca uzun 
+pozisyonlar işlem görmüşse, test sonuçları görüntülendi. Sonuçlar, 
+aslında, sistem kısa tarafta da işlem yapmış olsaydı olduğundan çok 
+daha iyiydi.
+Tüccarın testlerde bu tür küçük değişiklikler yapmasını 
+şiddetle tavsiye ediyorum. Bazen şaşırtıcı sonuçlar elde edecektir. 
+Bazı stratejilerin belirli bir piyasada yalnızca kısa veya yalnızca 
+uzun olarak işlem gördüklerinde daha etkili olduğunu 
+keşfedecektir. Uzun/kısa aynı anda her zaman en iyi sonucu 
+vermez.
+Belirli bir işlem gününe ait yukarıdaki örnekte, sistem 
+on uzun pozisyon açtı. İlk dokuz işlem çoğunlukla 5 dakika 
+içinde üç tik hedefine ulaştı. Bu durumda, strateji 9 kez 30 
+avro, yani ücretler hariç 270 avro kar elde etti. Mumun 
+üzerindeki yeşil yatay çizgi fiyat hedefini temsil eder.
+Ancak onuncu işlemde piyasa fiyat hedefine 
+ulaşamadı. Birkaç saat sonra, stop-loss emri bile 
+tetiklendi (mumların altındaki kırmızı yatay çizgi, kırmızı 
+ok). Bu durumda sistem 20 tick veya 200 avroluk bir kayıp 
+üretti. Bu işlem günü için brüt kar şu şekildeydi:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+270 (9x30) - 200 (1x200) = 70 Euro
+Şekil 3: Performans histogramı, Bund-Future'dan
+10.12.2016 - 3.1.2017
+Şekil 3'teki performans histogramı sistemin nasıl çalıştığını 
+göstermektedir. Yukarıdaki küçük mavi çubuklar kâr işlemlerini 
+temsil ederken, alttaki kırmızı çubuklar zarar işlemlerini sembolize 
+eder. Beklendiği gibi, kâr işlemleri küçük fiyat hedefi nedeniyle 
+açıkça çoğunluktadır. Üç tiklik fiyat hedefi genellikle elde edilir.
+Ancak 10 Aralık 2016 ile 3 Ocak 2017 arasındaki 
+dönemde, 20 tick'lik stop'a dokuz kez ulaşıldı. Ancak, 
+bunun böyle olmadığı üç kayıp ticareti de vardı. Burada, 
+sistem piyasa stop'a ulaşmadan önce pozisyonu kapattı. 
+Saf bir günlük işlem stratejisi olduğu için sisteme bir 
+"blok" uyguladım. Bu, tüm açık işlemlerin akşam 6'da 
+kapatılacağı ve yeni işlem açılmayacağı anlamına geliyor. 
+Bu önlem, boşluklar nedeniyle performansı gereksiz 
+kayıplardan korumak için gereklidir.
+Üç tiklik bir fiyat hedefi seçersem, bu hedefe hızlı ve kolay 
+bir şekilde ulaşmak istediğim anlamına gelir. Yukarıdaki
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+örneğin, bu on işlemden dokuzunda iyi çalıştı. Sadece 
+onuncu işlemde bir kayıp yaşadım. Eğer tüccar stratejiyi 
+tamamen otomatik olarak işlem yapsaydı, stop-loss emri 
+onuncu işlemde tetiklenirdi.
+Tüccar yarı otomatik hareket ederse, işlemin işe 
+yaramadığı anlaşılır anlaşılmaz kaybını sınırlayabilir. 
+Burada öznel bir bileşen devreye girer. Tüccar işlemin 
+işe yaramayacağını ne zaman "bilir"? Bu karar, özellikle 
+ne hedef ne de stop'a ulaşılmadığı için, elbette kendi 
+takdirindedir (deneyim).
+Ancak strateji, hedefe hızlı ve kolay bir şekilde 
+ulaşılmasını sağlamak için tasarlanmıştır ve çoğu durumda 
+(genellikle 5 ila 10 dakika) bu gerçekleşir. Bir işlem, 30 dakika 
+sonra hala hedef fiyata ulaşmamışsa ve pozisyon, örneğin, 
+eksi beş tik ise, tüccarın kaybı sınırlamayı düşünmesi 
+zorunludur. Bund Future'da 3 tik toplayıcısıysanız, basitçe işe 
+yaramayan bir işleme bakarak bir saatten fazla zaman 
+harcamanın bir anlamı yoktur.
+Eğer tüccar, stop loss emrine ulaşılmadan önce bu 
+tür işlemleri kapatmayı başarırsa, genel puanını önemli 
+ölçüde artırabilir. Zaman zaman, hızlı bir hareket stop 
+loss emrini tetikler ve bu engellenemez. Yine de, iyi bir 
+yarı otomatik tüccarın sonuçları genellikle tam otomatik 
+sistemin yaptığından çok daha iyi görünür. Sistem, 
+elbette, piyasayı dikkate almadan işlem yapmaya devam 
+eder.
+Tüccar kendisi işlem yapmak için zaman ayırmak istemiyorsa, 
+otomatik risk yönetiminin başka bir aracına güvenebilir: zaman 
+durdurma. Zaman durdurmanın avantajı, önceden girilen bir 
+süreden sonra bir işlemi kapatmasıdır. Örneğin, bu 30 veya 60 
+dakika olabilir. Bir zaman durdurma, elbette,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Ayrıca zaman zaman piyasanın hedefe ulaşmasını da engeller. 
+Ancak, çoğu zaman işlemin stop'a gitmesini engeller, her 
+yatırımcının göz önünde bulundurması gereken bir avantajdır.
+Şekil 4: Bund Future Crossing MA Temmuz 2006 - Ocak 2017 arasında 
+geriye dönük test sonuçları
+18 Temmuz 2006 ile 3 Ocak 2017 arasındaki dönem için geriye 
+dönük bir test yaptım, sonuç Şekil 4'te görülmektedir. Genel olarak 
+124.495,05 Avro brüt kar elde edildi. Sistemin tüm dönem boyunca 
+tek bir sözleşme ticareti yaptığını varsayarsak. Ticaret maliyetlerine 
+gelince, hemen konuşmaya başlıyorum.
+Bu süre zarfında 29.069 işlem gerçekleştirildi. Bu çok gibi 
+geliyor, ancak 10 yıllık bir işlem döneminde bu yaklaşık olarak
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Günlük 15 işlem. Bu frekansın küçük fiyat hedefinde beklenmesi 
+mümkün olduğundan bir scalping sisteminden de bahsedilebilir.
+Bunlardan 25.200'ü kazançla sonuçlandı. Bu, %86,89'luk bir 
+isabet oranına denk geliyor. Sadece 3869 işlem kayıpla sonuçlandı. 
+Beklendiği gibi, ortalama kâr ticareti 30 avro oldu. Bu, Bund 
+Future'da tam olarak üç tik kâra denk geliyor.
+Bazı istisnalar vardı. En büyük kâr ticareti 250 avro veya 
+25 tick'ti. Bu, kâr alma emrinin başlangıçta tüccarın 
+amaçladığından çok daha iyi bir fiyattan yürütüldüğü hızlı 
+bir hareketin sonucu olabilir. Bazen, kayma (daha kötü veya 
+daha iyi emir yürütme) da tüccarın avantajına olur.
+En büyük kayıp ticareti 290 avroydu, bu da 20 Tick'lik sabit stop 
+loss'tan dokuz tik daha fazla. Kayma, Bund Futures gibi likit bir vadeli 
+işlem piyasasında aşırı hareketlerde de meydana gelebilir. Bu özellikle 
+merkez bankalarından gelen önemli ekonomik haberler veya notlar 
+için geçerlidir. Bu stratejiyi kendiniz ticaret yapmaya karar verirseniz, 
+bu tür önemli olayların yakınında pozisyon tutmamaya çalışmalısınız.
+İlginç olan, 163.30 olan ortalama kayıp ticaretidir. Bu 
+nedenle, stop-loss oranına her zaman ulaşılamadı. Bu rakam 
+muhtemelen bu analizdeki en önemli rakamdır. Eğer tüccar bunu 
+daha da azaltmayı başarırsa, kazananlar hakkında 
+endişelenmesine gerek kalmadığı için (diğer çoğu stratejinin 
+aksine) stratejinin karlılığını önemli ölçüde artırabilir.
+Ayrıca, kar serilerinin sayısı da memnuniyet verici. Bu testte, 
+birbiri ardına etkileyici bir şekilde 61 kar ticareti kaydedildi. Bu, 
+tam da bu yaklaşımın gücüdür. Buna karşılık, yapılan en büyük 
+zarar serisi sadece beş ardışık zarar ticaretiydi. Bana göre bu 
+mümkün görünüyor, özellikle de tüccar bu zararları en aza 
+indirmeyi başarırsa.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Daha önce de belirtildiği gibi: Hiçbir sistem geri çekilme 
+aşamaları olmadan ortaya çıkmaz. Geri çekilme, belirli bir süre 
+içindeki maksimum kümülatif kaybı temsil eder. Örneğin, belirli bir 
+sistem bir yıl içinde %100 kar elde edebilir. Ancak bu süre içinde 
+"dalgalanmalar" olabilir. Örneğin, sistem Temmuz ve Ağustos 
+aylarında Haziran seviyesine kıyasla %15 kayıp yaşayabilir. Bu 
+durumda, maksimum %15'lik bir geri çekilmeden bahsediyor 
+olursunuz. Tüccar veya yatırımcı daha sonra bu tür geçici kayıp 
+dönemlerinin büyüklük sırasını kabul edip edemeyeceğine karar 
+verebilir. Kabul edemezlerse, ya işlem sistemini terk etmeleri ya da 
+yüzdelik geri çekilmeyi daha küçük olacak şekilde risk parametrelerini 
+değiştirmeleri gerekir.
+5301.66 avroluk maksimum düşüş, benim için yönetilebilir 
+aralıkta görünüyordu. 124.495 avroluk brüt kârla ilişkili olarak, 
+neredeyse ihmal edilebilir. Bu, yatırımcının stratejinin herhangi 
+bir önemli aksilik olmadan hesabı neredeyse sürekli olarak 
+artıracağı konusunda şanslı bir konumda olacağı anlamına gelir.
+Şimdiye kadar, arka testin sonucu beni ikna etti. Ancak kâr 
+faktörüne baktığımda bunun yalnızca 1,20 olduğunu keşfettim. 
+Kâr faktörü bir işlem sistemi hakkında ne söylüyor? Bu, tüccarın 
+belirli bir getiri elde etmek için ne kadar risk almaya istekli 
+olduğunun bir ifadesidir. Peki kâr faktörünü nasıl hesaplarız? 
+Basitçe, toplam kârları toplayıp toplam zararlara bölüyorsunuz.
+Kar faktörü= (kar toplamı) / (zarar toplamı)
+Testimizde bu şu anlama gelir:
+Kar faktörü = (756.297, 06) / (631.802) = 1.197
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Sistem kar elde etse de (faktör birin üzerinde!), bu karı 
+üretmek için ortalamanın üzerinde bir riske ihtiyaç vardır. 
+Sadece 756.297 avro brüt kar elde etmek için 600.000 avronun 
+üzerinde risk alıyoruz, bu çok yüksek.
+Elbette, bu olumsuz ilişki benim seçtiğim işlem sistemi 
+türüyle alakalı. Trend takip felsefesine dayalı işlem sistemleri 
+genellikle daha yüksek kar faktörleri elde eder. Hedef fiyatımız 
+çok küçük olduğundan ve stop-loss giriş fiyatından mümkün 
+olduğunca uzakta olduğundan, küçük bir kar elde etmek için 
+çok fazla risk alıyormuşuz gibi görünüyor. Ancak, çoğu 
+yatırımcının hızlı ve küçük karlar elde etme psikolojik ihtiyacını 
+ciddiye alan sistemimizin öncülü tam olarak budur.
+Tüccar çevrelerinde, ikiden fazla bir kar faktörü her zaman "iyi 
+ticaret" işareti olarak kabul edilir. Bunun ancak 1: 2 veya 1: 3'lük 
+pozitif risk-ödül oranlarıyla elde edilebileceği açıktır. Ayrıca, tüccarın 
+ortalamanın üzerinde bir isabet oranına da ulaşması gerekir. Bu tür 
+oranların aslında yalnızca en nadir durumlarda elde edildiği gerçeği 
+genellikle gizlidir.
+Sistemim karlı olduğu ve sürekli olarak kar ürettiği 
+sürece, 1.20 kar faktörüyle bir yatırımcı olarak 
+yaşayabilirim. Sonuçta, bu sisteminizden ne beklediğinize 
+bağlıdır.
+Bana göre arka testteki daha büyük bir sorun, işlem başına 
+beklenti. Bu 4,28'de oldukça düşüktü. Bu rakam bize uzun 
+vadede (burada, on yıl) işlem başına ne kadar kar 
+bekleyebileceğimizi söylüyor. Bir sistemin beklentisini nasıl 
+hesaplarsınız?
+Beklenti:(isabet oranı x işlem başına ortalama kar) - ((1- isabet oranı) x 
+işlem başına ortalama kayıp)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Beklenti:0, 87 * 30 euro - (1-0, 87) * 163 euro = 4, 91 
+euro
+Hesaplamaya bağlı olarak, sonunda bu stratejiyle 
+bekleyebileceğim ortalama 4 ila 5 avro arasında bir kar elde 
+ediyorum. İşlem maliyetleri burada devreye giriyor. Vadeli 
+işlem ticaretinde tur başına maliyet şu anda çoğu broker için 4 
+ila 5 avro arasında
+Örneğin, tüccar tur başına 4,40 avro (işlem başına 2,20 avro) 
+ödüyorsa ve siz 1,17 dolarlık borsa ücreti ödemek zorundaysanız, 
+bu ortalama işlem veya 4,91 avroluk beklentiyle karlı bir şekilde 
+işlem yapamaz. Aksine, para kaybedecektir. Bu, açıkça söylemek 
+gerekirse, sistemimiz çok umut verici görünse de, maliyetleri 
+düştükten sonra bu düşük beklentiyle kar elde edemeyeceğimizi 
+anlamamız gerektiği anlamına gelir.
+Size çok uygun koşullar (işlem başına 1$'ın altında) 
+sunan bir broker bulsanız bile, böyle bir beklentiyle karlı bir 
+şekilde işlem yapmanız zor olacaktır. Bu nedenle 
+sistemimizin beklentisini artırmamız esastır. Alternatif 
+olarak, başka bir sistem aramamız gerekir. Basit Crossing 
+MA sistemimizi optimize etmediğimiz için ilk varyantı daha 
+fazla araştırmak istiyoruz. Ancak, ikinci teste geçmeden 
+önce, Bund Futures Crossing MA sistemimizin ilk testinin 
+sermaye eğrisine bakalım.
+Şekil 5: Bund Future Crossing MA, Sermaye Eğrisi 2006
+- 2017
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+İlk bakışta, Bund Future sistemimizin sermaye eğrisi çok iyi 
+görünüyor. Neredeyse hiç önemli gerileme yok ve daha önce de 
+belirtildiği gibi, düşüşler çok sınırlı. Ancak, bu 10 yıla yayılan bir 
+sermaye eğrisi olduğundan, daha yakından incelendiğinde bazı 
+zorluklar keşfedeceğiz. Bu nedenle, sistemin başlangıçta (sol 
+altta) karlılığa ulaşması için bir yıldan fazla zamana ihtiyacı vardı. 
+Başlangıçta, takım sistemi finansal olarak önemsiz olan ancak 
+yine de 12 aydan fazla süren makul bir düşüşe neden oldu.
+Sistem 2013'te bile gözle görülür bir kar elde edemedi ve 
+8000 Euro sınırında kaldı. Bu kırık bir bacak değil, ancak hangi 
+yatırımcı bir yıl boyunca bir kuruş kazanmadan bir sistemle 
+işlem yapabilir ve seğirmeden disiplinli kalabilir? Dolayısıyla 
+burada da en azından bize kar vaat eden yıllık bir işlem 
+sistemine ihtiyacımız var, aksi takdirde yatırımcının stratejisine 
+olan isteğini hızla kaybetmesi söz konusu olabilir.
+Bununla birlikte, belirli bir stratejinin kâr getirmediği 
+bu tür dönemlerin de olabileceğini belirtmek isteriz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+normal olarak kabul edilmelidir. Ticaret nadiren veya asla tek 
+yönlü bir yol değildir. En azından yıllık bazda kar vaat eden bir 
+strateji geliştirmeye çalışabiliriz. Ancak, bu hiçbir sistem 
+tarafından garanti edilemez. "Gelir" açısından, ticaret gerçekten 
+de uzun vadede bakmanız gereken bir şeydir ve bu sermaye 
+eğrisi bunu açıkça göstermektedir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Test 2: E-Mini, Hareketli Ortalamayı Geçiyor
+Strateji
+Bund Future'da istediğim başarıyı yakalayamayınca, 
+SP500'ün meşhur Future'ı olan E-Mini Future'da şansımı 
+denedim.
+Şekil 6: E-Mini, 5 dakikalık grafik
+Sistem ayarlarında sadece küçük şeyleri değiştirdim. İki 
+hareketli ortalamanın ayarını 24.51'de bıraktım. Ayrıca bu test 
+için üç tiklik bir hedef seçtim. Ancak, durdurmayı değiştirdim. 
+Bunu 30 tik olarak ayarladım, ki bu E-Mini'de genellikle mevcut 
+piyasaya uygun bir mesafe anlamına gelir. Burada da, SP500 
+uzun vadede de (Ocak 2017 itibariyle) yükseliş eğiliminde olduğu 
+için sadece uzun bir yaklaşım seçtim. Uzun taraftaki hedeflere 
+kısa taraftakinden daha hızlı ulaşılma olasılığı bana daha büyük 
+göründü.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Şekil 6, sistemin Bund Future'a benzer şekilde nasıl 
+çalıştığını göstermektedir. Üç tiklik fiyat hedefi, ilk sekiz uzun 
+işlemle (yeşil oklar) nispeten hızlı bir şekilde elde edildi. 
+Aşağıdaki kırmızı yatay çizgileri düşünürseniz, bu işlem 
+gününde bu işlemlerin hiçbirinin stoplara yaklaşmadığını 
+görebilirsiniz. Ancak, üç tiklik fiyat hedefi (işlem gören 
+sözleşme başına 37,50 $) genellikle 30 dakika içinde elde 
+edildi.
+Şekil 7: Performans histogramı 10.12.2016 -
+30.12.2016
+Benzer bir resim, 3 haftalık bir süre için performans 
+histogramına baktığımızda Bund-Future'da da görülmektedir. 
+İşlemlerin çoğu hedefe ulaşmış ve kazanmıştır (yukarıdaki küçük 
+mavi çubuklar). Yine de bu süre zarfında altı kayıp işlemi 
+olmuştur ve bunlardan sadece ikisi stop loss'a ulaşmıştır 
+(-375$'lık bir kayba karşılık gelmektedir). Daha küçük dört kayıp 
+işlemi sistem tarafından erken sonlandırılmıştır.
+Şekil 8: E-Mini'nin geriye dönük testi, Temmuz 2011 - Aralık 2016
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+E-Mini'deki geri test de olumluydu. Burada sadece Temmuz 
+2011'e kadar verimiz olduğundan, sadece son 5 yıl için bir test 
+gerçekleştirebildik. Sonuçta, sistem bu süre zarfında 16.412 işlem 
+gerçekleştirdi. Bu nedenle, bu verinin E-Mini'deki bu strateji 
+hakkında bize bir fikir verecek kadar istatistiksel olarak önemli 
+olduğunu düşünüyorum.
+Sistem toplamda 86.662,50$ kar elde etti. 14.776 karlı 
+işlem ve sadece 1.636 kayıp işlem vardı. Bu, %90,03'lük bir 
+isabet oranına karşılık geliyor. Beklendiği gibi, ortalama 
+kar işlemi fiyat hedefine, yani 37,50$'a yakındı. Ortalama 
+kayıp işlemi, 285,86$'da 375$'lık stop loss eşiğinin önemli 
+ölçüde altındaydı. En büyük kayıp işlemi, bu piyasa için 
+gerçekten konuşan 375$'dı. Kayıp işlemleri bir kez bile 
+kayma göstermediyse, bu,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Bu piyasanın likiditesi çok yüksek olduğundan, E-Mini yatırımcılar 
+arasında çok popülerdir.
+Sonuçta, burada da önemli kar serileri vardı. En uzun 
+kaydedilen 64 kar işlemi üst üste yapıldı. En uzun kayıp 
+serisinde sadece dört işlem yapıldı. Tekrar ediyorum, bu çok 
+iyi bir veri. 9062,50$'lık maksimum düşüş, Bund-
+Future'dakinden biraz daha yüksekti, ancak genel kar 
+açısından bu sonuçla iyi yaşayabilirsiniz.
+Bund Future testinde daha önce bahsedilen anahtar 
+rakamlar kar faktörü ve beklenti beni bir kez daha baş 
+ağrısına hazırladı. Bunlar burada da benzer. Kar faktörü de 
+1,19'da nispeten zayıftı. Ayrıca, beklenti veya işlem başına 
+ortalama kar, karlı işlem yapmak için 5,28 $ (ok) ile çok düşük.
+Bu nedenle, E-Mini'de sistemi karlı bir şekilde ticaret etmek 
+istiyorsam parametrelerde bazı değişiklikler yapmam gerekiyordu. İlk 
+olarak, bu testin sermaye eğrisine bakıyoruz.
+Şekil 9: E-Mini Sermaye Eğrisi, 2011 – 2016
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Burada da sermaye eğrisi istenilen yöne gidiyor gibi 
+görünüyor. Daha önce de belirtildiği gibi, düşüşler sınırlıydı. 
+Birçok yatırımcı böyle bir sermaye eğrisi için önceden çekim 
+yapardı. Yine de, sistem Temmuz 2011 ortasında sadece bir 
+düşüşle başladı (grafiğin sol alt kısmında, mavi çizgi sıfır 
+çizgisidir). Bu nedenle, sistemin para kazanmaya başlaması 
+birkaç ay sürdü. Bu, düşüşlerin, ticarete yeni başlıyor olsanız 
+bile, her an meydana gelebileceğini açıkça gösteriyor. 2015'te 
+yine oldu. Ancak, strateji birikmiş kayıpları nispeten hızlı bir 
+şekilde telafi edebildi. Her şey yolunda gittiği sürece.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Test 3: E-Mini, Hareketli Ortalamayı Geçiyor
+Uyarlanmış Parametrelerle Strateji
+Bu stratejiyle daha iyi bir sonuç elde etmek için, iyi bir 
+işlem yazılımı, sistemin bireysel veya tüm parametreleri için 
+sözde optimizasyonlar yapmamızı sağlar. Örneğin, biraz daha 
+büyük bir fiyat hedefi seçerek daha iyi sonuçlar elde edip 
+edemeyeceğimi öğrenmek istersem, sistem bu değiştirilmiş 
+hedefle bir test gerçekleştirebilir. Örneğin, sistem üç tik yerine 
+beş tik kar hedefi seçerek daha iyi sonuçlar elde edebilir. 
+Aynısı elbette, stop veya sisteme sinyalleri veren göstergenin 
+ayarları için de geçerlidir.
+Ancak, geri testin kendisi sistemimizin en istikrarlı sonuçları 
+ürettiği parametreleri göstermez. Kişi ticaret sistemlerinin 
+optimizasyonuyla ilgileniyorsa, aşırı optimizasyon tehlikesi, yani 
+sözde eğri uydurma (parametreleri tarihsel veri setine uyarlama) 
+pusuda bekler. Güçlü bir şekilde "eğriye uydurulmuş" bir sistem, 
+görünüşte geçmişin verilerine en iyi şekilde uyarlanmıştır, ancak 
+genellikle gerçek zamanlı olarak ticaret yapmaya başlandığı anda 
+başarısız olur.
+Asıl soru, eğri uydurmanın gerçekte nerede başladığıdır. 
+Bu, sistem geliştiricileri için her zaman tartışılan bir konudur. Bu 
+nedenle genel bir cevap vermek zordur. Gerçek olamayacak 
+kadar iyi görünen otomatik bir işlem sistemi görürseniz, en 
+azından eleştirel olmalısınız (özellikle de bunun için çok para 
+ödemeniz gerekiyorsa!). Ne yazık ki, kendilerine gökyüzünün 
+mavisini vaat eden sözde kara kutu satın alan birçok tüccar bu 
+deneyimi yaşadı. Kısa süre sonra sistemin ambalajda belirtildiği 
+gibi vaat edilen getiriyi üretmediğini fark etmek zorunda kaldılar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Bu kitapta okuyucuya saf otomatik ticareti tavsiye 
+etmeyi düşünmediğim için bu soruya daha fazla 
+girmeyeceğim. Benim için belirleyici faktör, sistemi küçük 
+optimizasyonlarla iyileştirip iyileştiremeyeceğimi kontrol 
+etmekti. Unutmayın, optimizasyon olmadan bile olumlu bir 
+sonuç gösteriyor.
+Birkaç kez belirtildiği gibi, kritik optimizasyon, tüccarın 
+kayıp işlemlerini zamanında fark edip en aza indirebilme 
+yeteneğindedir. Tüccar, örneğin, bu işlemlerin %30'unu daha 
+erken kapatmayı başarırsa, istenen sonuç elde edilir.
+E-Mini-Future'da MA geçiş sisteminin yeni bir testinde iki 
+parametreyi değiştirdim. Uzun pozisyonların fiyat hedefini üçten 
+iki tike ayarladım. Böyle bir kararın eleştirmenleri, bunun işlem 
+maliyetlerinin artık orantılı olmadığı son derece küçük bir fiyat 
+hedefi olduğunu iddia edebilirler. Bu itirazı, verilere ilişkin ayık 
+bir bakış açısıyla geçersiz kılacağım.
+Öte yandan, stop'u piyasadan neredeyse erişilemez bir 
+mesafeye, yani girişe 100 tik mesafeye ayarladım. Tekrar 
+ediyorum, bu eleştirilebilecek radikal bir karardır. Sadece 2 tik 
+kazanmak ve 100 tik risk almak istiyorsanız, son derece negatif 
+bir risk ödül oranıyla çalışırsınız. Bu nedenle bu karar, yaygın 
+olarak kullanılanın tam tersidir.
+tavsiye edilen.
+Bu son kararın elbette çok geniş kapsamlı sonuçları var. Bir 
+yandan, stop'un yalnızca nadir durumlarda gerçekleşmesini 
+umuyorum. Stop tetiklenirse, büyük bir kayba, yani sözleşme 
+başına 1237,50 dolara neden olur ki bu da elbette her zaman 
+sermaye eğrisini yırtar. Öte yandan, asıl soru şudur: Böyle bir 
+olay ne sıklıkla gerçekleşir ve bu, sermaye eğrimin büyümesi için 
+ne anlama gelir?
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Sistemden gerçekten gerçekleştirdiğim tek 
+optimizasyon, çapraz hareketli ortalamaların 
+parametreleriyle ilgiliydi. Şimdiye kadar 24, 51 ayarını 
+kullandım. Ancak bir testten sonra 42, 92 ayarının bana daha 
+iyi sonuçlar verdiği ortaya çıktı.
+Şekil 10: E-Mini, 5 dakikalık grafik
+Burada, optimize edilmiş sistemin çalıştığını görüyoruz. 
+Aşağıdaki kırmızı yatay çizgiler, fiyat hareketinden güvenli bir 
+mesafede bulunan ilgili bekleyen zarar durdurma emirleridir. 
+Bu ekran görüntüsünü aldığım gün, bu emirlerin hiçbiri 
+tetiklenmedi. On uzun pozisyon (yeşil oklar) açıldı ve bunlardan 
+ilk dokuzu fiyat hedefine ulaştı. Onuncu uzun pozisyon, işlem 
+gününün sonunda sistem tarafından 23 Tick veya 287,50$ 
+kayıpla kapatıldı.
+Bana göre bu büyüklükte bir kayıp gerekli olmazdı. 
+Sonuçta, pozisyon bir buçuk saat açık kaldı, bu da bu 
+strateji için çok uzun bir süre.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+tüccar pozisyonu daha erken kapatabilir ve kaybı sınırlayabilir. Bu her zaman 
+başarılı olmayacaktır, ancak tekrar tekrar başarılı olacaktır. Performans 
+histogramındaki kazanan/kaybeden oranına bakalım.
+Şekil 11: E-Mini, performans histogramı 10 Aralık 
+2016 - 4 Ocak 2017
+10 Aralık ile 4 Ocak 2017 arasındaki performans 
+histogramında tam olarak bahsedilen sorunları görüyoruz. 
+İşlemlerin büyük çoğunluğu beklendiği gibi kazançlı (yukarıdaki 
+mavi çubuklar). Tüccarın bu konuda endişelenmesine gerek yok. 
+Tüm becerileri bu nedenle kayıp işlemlerinin yönetimine 
+yansıyacaktır. Bu nedenle 28 Aralık 2016'daki tek büyük kayba 
+(1062,50 $, ok) bakmalıyız.
+Şekil 12: 28 Aralık 2016'daki zarar ticareti
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Grafikte açıkça görüldüğü gibi, uzun pozisyon 28 Aralık 
+sabahının erken saatlerinde (Avrupa'da öğleden sonra erken 
+saatlerde) açıldı (yukarıdaki yeşil ok solda). O sırada, piyasa 
+hala yanlara doğru gidiyordu ve bazı önceki uzun işlemler 
+zaten başarıyla kapatılmıştı. Bana göre bu işlem için önemli 
+olan, uzun pozisyon açıldıktan 15 dakika sonra piyasanın 
+aniden çökmesi (girişten sonra grafikteki kırmızı mumlar). 
+Ayrıca, Crossing MA göstergesi uzundan kısaya geçti. En geç 
+burada, tüccar müdahale etmek ve pozisyonu kapatmak 
+zorunda kalacaktı. 1062,50$ yerine 200-300$'lık bir kayıpla 
+kurtulmuş olacaktı.
+Tamamen otomatik bir sistem böyle bir durumu 
+değerlendiremeyeceğinden, elbette, işlem kapanışına kadar o 
+pozisyonda kalacaktı. O zaman büyük bir kayıpla (günün en düşük 
+seviyesinde ve sadece stop loss emrinin hemen üzerinde) kapanmıştı.
+Bir yandan, özellikle fiyat hedefi çok küçük olduğu için, 
+bir pozisyonu birkaç saat boyunca tutmak bu stratejinin 
+felsefesine tamamen aykırıdır. Öte yandan, bir tüccar bunu 
+yaparsa kötü bir risk yönetimi olur
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+müdahale etmeyin. Zararı sınırlamak için böyle bir pozisyonu daha erken 
+kapatmalıdır. Bunu yapamıyorsa, o zaman tamamen otomatik olarak işlem 
+yapmak ve nasıl hareket edileceğini bilgisayara bırakmak daha iyidir.
+(Yarı otomatik olarak) hareket etmenin tek nedeni, bir 
+tüccarın tam otomatik sistemden daha iyi sonuçlar elde 
+edebilmesi olabilir. Bu örnek, bunun oldukça mümkün olduğunu 
+açıkça göstermektedir. Hasarı yarıya indirmek (500$ kayıp) bile 
+sistemin genel sonucunu önemli ölçüde iyileştirecektir. Ve tüm 
+mesele budur.
+Şekil 13: E-Mini, ikinci geri test 2011 – 2017
+Değiştirilen parametrelerle yapılan bu ikinci geri testte 
+sistem 17.144 işlem gerçekleştirdi. Bunlardan 16.309'u
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+karlı, bu da %95,13'lük bir isabet oranına karşılık geliyor. Brüt 
+kar 157.250,00 dolardı. Ortalama karlı işlem beklendiği gibi 
+25,28 dolardı. Bu, 25 dolarlık hedef fiyattan biraz daha yüksektir 
+ve bu da tüccarın avantajına bir miktar kayma olduğunu 
+gösterir. Ortalama kayıplı işlem, ilk teste göre 305,52 dolarda 
+biraz daha yüksekti. En uzun kazanan serisi, üst üste muhteşem 
+129 karlı işleme ulaştı. Öte yandan, en uzun kayıplı seri sadece 
+üç işlem uzunluğundaydı.
+Maksimum düşüş kabul edilebilir aralıkta 5700$'da kaldı. 
+Bu sefer kar faktörü çok daha yüksekti: 1.62, bu da çok daha 
+yüksek stoploss'a rağmen bu sistemin bir öncekinden çok daha 
+az riskli olduğunu gösteriyor. Bu paradoksal görünüyor; sadece 
+iki tick kazanmak için 100 tick riske atıyorum. Yine de, bu 
+yaklaşım için yapılan test bana daha düşük bir risk veriyor. 
+Açıkçası, karlı bir şekilde işlem yapabilmek için stop'u piyasadan 
+olabildiğince uzağa koymanız gerektiği varsayımım doğru. Bu 
+aynı zamanda, işlem literatüründe genel olarak önerilenin tam 
+tersini yapan bir farkındalıktır.
+Son olarak, sistem ortalama kâr açısından da tatmin edici 
+bir sonuç elde etti. 9,17$'da beklenen değer, ilk testin 
+sonucunun oldukça üzerindeydi. Kazananlar arasında 
+maksimum 25$ kâr vaat eden 2 tick'lik küçük fiyat hedefi 
+düşünüldüğünde, bu maliyetler düşüldükten sonra bile kârlı bir 
+şekilde işlem görebilecek iyi bir sonuçtur.
+Şimdiye kadar tartışmadığım önemli bir rakam, sözde 
+"kazananlardaki ortalama çubuklar", yani kâr işlemlerinin ortalama 
+olarak fiyat hedefine ulaşması için gereken 5 dakikalık mum 
+sayısıdır. Kâr işlemleri için bu beklendiği gibi düşüktür, yani 2,56 
+mum. Bu, kâr işleminin hedefe ulaşması için ortalama yaklaşık 13 
+dakikaya ihtiyaç duyduğu anlamına gelir. Zarar işlemlerinde ise 
+sayı oldukça farklı görünüyor. Ortalama olarak,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Kayıp ticareti kapanana kadar 31.33 mum kadar sürdü. Bu 
+yaklaşık 2.5 saattir. Yarı otomatik tüccar için bu açıkça çok 
+uzundur. Bu veriler ayrıca tüccar daha hızlı müdahale edebilirse 
+sonuçların açıkça iyileştirilebileceğini göstermektedir.
+Para yönetimiyle ilgili olarak, elbette, her yatırımcının böyle bir 
+stratejiyle kaç sözleşmeyle başa çıkabileceğine karar vermesi gerekir. 
+Ara sıra 1000$'ın üzerinde kayıpları kabul etmek zorundaysa, bunu 
+sorumlu bir şekilde yapmak için kesinlikle daha yüksek beş haneli bir 
+tutara ihtiyacı olacaktır. Yatırımcı kayıp işlemlerini önemli ölçüde 
+azaltmayı başarırsa, strateji daha küçük tutarlarla işlem görebilir. 
+Olası düşüşler hakkında daha iyi bir fikir edinmek için, bu dönemin 
+sermaye eğrisine bakalım.
+Şekil 14: E-Mini, ikinci geri test, Sermaye Eğrisi 2011 -
+2017
+Hisse senedi eğrisi artık her yatırımcının prensipte 
+her zaman isteyeceği bir rotaya sahip. Düşüşler küçük ve 
+hızla telafi ediliyor. Ayrıca küçük "toka"ya da baktım
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+Ağustos 2015'te. Burada, aslında, stop noktasına üst üste 
+birkaç kez ulaşıldı ve bu da binlerce dolarlık kayba yol açtı. 
+Grafikteki bu döneme (24-28 Ağustos 2015 arası) daha 
+yakından bakıldığında, tam da Amerikan endekslerinde 
+küçük bir çöküşün yaşandığı zamandır. Umarım, sorumlu 
+bir yatırımcının bu koşullar altında üst üste beş kez uzun 
+pozisyonda kalmayacağı açıktır.
+Eğer herhangi bir okuyucunuz uzun vadede karlı olan %95'lik bir 
+isabet oranına sahip bir işlem sistemi geliştirebileceğinize gerçekten 
+inanmıyorsa lütfen 4 Ocak 2017 tarihli işlemlere bakın.
+Şekil 15: 4 Ocak 2017'deki işlemler
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Bu şekil bu ticaret sisteminin avantajlarını göstermektedir. 
+Genellikle büyük bir kolaylıkla kazanır. Bu, tüccar olmadan da 
+gerçekleşir.
+Böyle bir sistem, tüccarların borsada yalnızca bir sebepten 
+dolayı aktif olmaları gerektiğini söylediğimde tam olarak 
+kastettiğim şeyi çözer: mümkün olan en kısa sürede mümkün 
+olduğunca çok tick, pip veya puan toplamak. Bir tüccar böyle çılgın 
+bir yere gitmek için çaba sarf ediyorsa, bunun tek sebebi para 
+kazanmak olmalıdır: kalıcı, sürekli ve sabit.
+Bu, bir yatırımcının zamanını sonsuz analizlerle harcamaması 
+gerektiğini gösterir. Bu, onun entelektüel merakını tatmin edebilir, 
+ancak genellikle cebini doldurmaz. İyi niyetli yatırımcıların veya 
+yatırım koçlarının disiplinli olduklarını veya yüksek riskli ödül oranına 
+sahip işlemleri ele aldıklarını iddia ettiklerini biliyorum. Öte yandan, 
+çok iyi temellendirilmiş bilimsel çalışmalar, yalnızca sınırlı miktarda 
+irade gücüne (disipline) sahip olduğumuzu gösteriyor. Bu sınırlı 
+miktar tükenirse, dikkatimizin dağılmasından çok mutlu oluruz ve bu 
+koçların bizden yapmamızı istediklerini istemeyiz. Bunu, birkaç 
+dakikalık antrenmandan sonra gücü giderek azalan bir kasla 
+karşılaştırabilirsiniz.
+Eğer tüccarlar tüm güçlerini ve konsantrasyonlarını kar peşinde 
+koşarken kullanırlarsa, kayıpları kontrol etmek için geriye pek bir şey 
+kalmaz. Öte yandan, kazanan işlemlerinizi otomatik bir sistemin 
+oluşturmasına izin verirseniz, bunun yerine kendinizi birkaç kayıp 
+işlemini yönetmeye adayabilirsiniz. Ayrıca, ticaret söz konusu 
+olduğunda her şey budur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+Çözüm
+Sunulan stratejiyi yayınlamadım, böylece okuyucu alıp 
+işlem yapabilir. İşlem yapılabilir, tam otomatik veya yarı 
+otomatik. Ayrıca, geriye dönük test, geçmişte elde edilen 
+sonuçların gelecekte de elde edilebileceğini asla garanti etmez.
+Stratejileri test eden her yatırımcı her zaman şunun farkında 
+olmalıdır: bir test bir testtir. Daha fazlası değil, daha azı da değil. 
+Stratejinin sonuçları "iyi" olsa da, bu her yatırımcının benzer bir getiri 
+elde edebileceği anlamına gelmez. Piyasalar sürekli değişiyor ve bir 
+yatırımcının öğrenme eğrisi, belirli bir stratejinin karlı olup 
+olmadığında belirleyici bir rol oynuyor.
+Bu kitapta, öncelikli olarak çoğu ticaret kitabının yaptığı belirli 
+iddiaları incelemekle ilgilendim. Görünüşte sabit olan bilginin bu 
+şekilde sorgulanmasının her zaman çekici olmadığının ve eleştiriye 
+yol açabileceğinin farkındayım. Ancak, hedefime ulaşmış olurdum. 
+Her an kendini sorgulamaya ve yeni ticaret ufuklarını keşfetmeye 
+hazır dinamik bir tüccar sahnesinden daha iyi ne olabilir?
+İşlemlerinizde bol başarılar dilerim!
+Heikin Ashi Tüccarı
+Yazara aşağıdaki e-posta adresinden ulaşabilirsiniz: 
+pdevaere@yahoo.de
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+Sözlük
+Otomatik veya algoritmik ticaret:Bilgisayar programları aracılığıyla menkul 
+kıymetlerin otomatik olarak alınıp satılmasını ifade eder.
+Geri test:Tarihsel verileri uygulayarak bir stratejiyi 
+değerlendirme sürecini tanımlar
+Kara kutu sistemleri:Kullanıcının sistemi kullanabilmesi için parametrelerini 
+görmesi veya bilmesi gerekmeyen menkul kıymetlerin alım satımını 
+otomatikleştiren bilgisayar programları
+Başa baş:Kar eşiği
+Aracı kurum: Menkul kıymet yatırımcılarının emirlerinin 
+yürütülmesinden sorumlu finansal hizmet sağlayıcısı
+Bund'un Geleceği:Alman Vadeli Sözleşme, yüzde 6 kupon ve 
+10 yıllık vadeye sahip, varsayımsal, uzun vadeli bir Alman 
+federal tahvilini ifade eder
+Şamdan:Japon analiz tekniğine dayalı fiyat 
+değişimlerinin gösterimi
+Komisyonlar:Menkul kıymet veya vadeli işlem sözleşmelerinin alım 
+satımında ortaya çıkan maliyetler
+Devam deseni:Ana trendde duraklama, sonunda önceki 
+yöne geri dönülmesi
+Hareketli Ortalamayı Geçmek:İki standart göstergenin 
+(hareketli ortalamalar) kesişimine dayalı strateji
+Eğri uydurma: Parametrelerin tarihsel veri setine uyarlanması
+DAX'ta:Alman borsa endeksi
+Günlük alım satım:Günlük işlem, menkul kıymetlerin kısa vadeli 
+spekülatif ticaretini tanımlar. Pozisyonlar, düşük fiyat 
+dalgalanmalarından faydalanmak amacıyla aynı işlem günü içinde 
+tekrar açılır ve kapatılır.
+Takdirî ticaret:Bir yatırımcının öznel analiz süreçlerine 
+dayalı işlem yaklaşımı
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Geri çekilme:Belirli bir zaman dilimi içerisinde zirveden 
+kaynaklanabilecek kayıplar
+E-Mini-Gelecek:Amerikan Endeksi SP500'de vadeli işlem 
+sözleşmesi
+Giriş stratejisi:Bir pazara girişi belirleyen bir strateji
+Sermaye eğrisi:Performans eğrisi
+Hisse senedi endeksi: Hisse senedi piyasasının bir bütün olarak veya 
+bireysel hisse senedi gruplarının (örneğin, Dow Jones) fiyat performansına 
+ilişkin gösterge
+Eurostoxx50 Geleceği:Avro Bölgesi'nin 50 büyük halka 
+açık şirketinin yer aldığı Avrupa borsa endeksinin geleceği 
+Çıkış stratejisi:Bir pazardan çıkışı belirleyen strateji
+Beklenti:Deney sonsuza kadar tekrarlandığında 
+sonuçların ortalamasını gösterir
+Döviz:Uluslararası döviz piyasası Vadeli İşlemler:Belirli bir 
+tarihte, belirli bir miktarda malın, sabit bir fiyattan satın alınması 
+veya satılmasına ilişkin standart sözleşme Açıklık:İki işlem günü 
+arasındaki kurs boşluğu Heikin Ashi Tablosu:Japonca: "Ayak 
+Üzerinde Dengeleme". Fiyat değişikliklerinin Japonca gösterimi
+İsabet oranı:Karlı işlemlerin zararlı işlemlere oranını açıklar 
+Gösterge:Teknik analizde, menkul kıymetlerin fiyat 
+hareketlerini belirlemek için kullanılan gösterge
+Öğrenme eğrisi:Ticarette zaman içinde öğrenmenin 
+başarı oranını açıklar
+Likidite:Bir menkul kıymetin herhangi bir zamanda alınıp 
+satılabileceği ölçüyü açıklar
+Uzun:Uzun olmak, menkul kıymetleri satın almak ve tutmaktır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+Sadece uzun:Sistemde sadece uzun pozisyonlar 
+açan parametre ayarı
+Uzun / Kısa:Sistemde hem uzun hem de kısa pozisyonları 
+açan parametre ayarı
+Ortalamaya dönüş:Bir finansal piyasanın aşırı bir pozisyondan 
+sonra ortalamasına dönme eğilimi
+Para yönetimi:Bireysel işlem pozisyonlarının büyüklüğünü 
+belirleyerek bir menkul kıymet portföyünün riskini kontrol etmeyi 
+amaçlayan katma değerli bir strateji
+Hareketli ortalama:Hareketli ortalama, gösterge 
+Optimizasyon:Genellikle karmaşık bir sistemin en iyi 
+parametrelerini bulmaya çalışan uygulamalı matematikteki 
+süreçler Performans histogramı: Belirli bir işlem dönemi için 
+performans ölçümü
+Pip:Nokta bazında, döviz ticaretinde fiyattaki en küçük 
+değişim
+Fiyat hedefi:Bir menkul kıymetin analiz sonucunda 
+ulaşacağı borsa fiyatı
+Kar faktörü: Brüt kârı brüt zarara bölen rakam
+Geri çekilme:Mevcut eğilime ters yönde gerçekleşen geçici 
+bir geri dönüş
+Risk Yönetimi:Risklerin sistematik olarak tanımlanması, analizi, 
+değerlendirilmesi, izlenmesi ve kontrolüne yönelik tüm önlemleri 
+içerir
+Risk ödül oranı (RRR):RRR, bir işlemin anlamlılığının bir 
+göstergesi olarak hizmet eder. Beklenen karlılığın mümkün olan 
+en büyük zarara (zarar durdurma) bölünmesiyle hesaplanır
+Tur dönüşü:Bir menkul kıymetin satın alınıp tekrar satıldığı 
+tamamlanmış işlem
+Kafa derisi soyma:Tüccarın işlem yapmaya çalıştığı işlem tekniği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+piyasada minimal hareketler
+Yarı otomatik işlem:Tüccarın ticaret kararlarını kısmen 
+otomatik bir sisteme, kısmen de elle verdiği ticaret 
+yaklaşımı
+Kısa pozisyon:Bir yatırımcı, bir pozisyonu sahibi olmadan sattığında (kısa 
+satış) kısa pozisyon almış olur.
+Kayma:Menkul kıymetlerin satın alınması için amaçlanan 
+fiyat ile gerçekleşen fiyat arasındaki fark
+S ve P 500(Standard & Poor's 500): Dünyanın en büyük 500 halka 
+açık Amerikan şirketini içeren bir hisse senedi endeksi
+Zarar durdurma emri:Belirli bir fiyata ulaşıldığında 
+gerçekleştirilen satış emri
+Kar al emri:Önceden tanımlanmış bir fiyat hedefine 
+ulaşıldığında tetiklenen otomatik borsa
+Tik:Vadeli işlem piyasasında en küçük fiyat değişimi
+Zaman Durdurma:Bu emir, önceden tanımlanmış bir süreden sonra 
+pozisyonu otomatik olarak kapatır
+Ticaret aralığı:Bir piyasanın belirli bir zaman diliminde (bir gün, 
+bir hafta, birkaç ay) işlem gördüğü fiyat alanı Takip eden durdurma:
+Otomatik olarak izlenen zarar durdurma emri Trendleri takip 
+etmek:Bir kere belirlenmiş bir trendi takip etmeye dayanan işlem 
+stratejisi
+USD/JPY:ABD doları ile Japon yeni arasındaki döviz 
+kuru
+Volatilite:Standart sapma. Bir fiyatın ne kadar dalgalandığını 
+gösterir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+Heikin Ashi Trader'ın Diğer Kitapları
+Amazon
+500$ ile Ticaret İşletmesi Nasıl Başlatılır
+Birçok yeni yatırımcının başlangıçta çok az sermayesi olur, 
+ancak bu yine de bir yatırım kariyerine başlamanın önünde bir 
+engel değildir.
+Ancak bu kitap, 500$'lık bir hesabın 500.000$'lık bir hesaba 
+nasıl dönüştürüleceğiyle ilgili değildir. Çoğu yeni başlayanı 
+başarısızlığa sürükleyen şey tam da bu abartılı getiri beklentileridir.
+Bunun yerine yazar, sınırlı başlangıç   sermayesine rağmen tam 
+zamanlı bir yatırımcı olmanın nasıl mümkün olduğunu gerçekçi bir 
+şekilde gösteriyor. Bu, hem özel kalmak isteyen yatırımcılar hem de 
+sonunda müşteri fonlarıyla işlem yapmak isteyenler için geçerlidir.
+Bu kitap bunu nasıl yapacağınızı adım adım gösteriyor. 
+Ayrıca, her adım için somut bir eylem planı var. Herkes bir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+Prensip olarak tüccar, bu işin nasıl yürüdüğünü 
+öğrenmeye istekliyse.
+İçindekiler
+1. Sadece 500$ ile Nasıl Tüccar Olunur
+Bahis?
+2. İyi Ticaret Alışkanlıkları Nasıl Edinilir?
+3. Disiplinli Bir Tüccar Nasıl Olunur
+4. Bileşik Faiz Masalı
+5. 500 Dolarlık Hesap Nasıl Alınır?
+6. Sosyal Ticaret
+7. Brokerınızla Konuşun
+8. Profesyonel Yatırımcı Nasıl Olunur?
+9. Bir Hedge Fonu İçin Ticaret
+10. Ağ Kurmayı Öğrenin
+11. Yedi Adımda Profesyonel Yatırımcı Olun.
+12. 500 Dolar Çok Paradır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+Mini DAX Vadeli İşlemlerinde Scalp İşlemi Nasıl Yapılır?
+Mini-DAX vadeli işlemlerinin (FDXM) tanıtılması 
+sayesinde, daha küçük hesaplara sahip özel yatırımcılara 
+Alman DAX Endeksini profesyonel terimlerle satma fırsatı 
+sunuluyor. Diğer birçok işlem aracının aksine, Vadeli İşlemler 
+finansal piyasalarda para kazanmanın en şeffaf ve etkili 
+yoludur.
+Scalper'lar pozisyon tüccarlarından veya günlük tüccarlardan 
+sonsuz derecede daha fazla işlem fırsatına sahiptir ve bu da bu işlem 
+stilinin gerçek gücünü oluşturur. Bu nedenle bir scalper sermayesini 
+diğer tüm piyasa katılımcılarından çok daha etkili bir şekilde yönetebilir 
+ve böylece aksi takdirde olacağından çok daha büyük getiriler elde 
+edebilir.
+Heikin Ashi Trader bu kitapta DAX'ta bu yeni geleceğin nasıl 
+başarılı bir şekilde scalping yapılacağını gösteriyor. Piyasaya nasıl 
+gireceğinizi, pozisyonunuzu nasıl yöneteceğinizi ve hangi noktada 
+geri çekilmeniz gerektiğini öğreneceksiniz. Ayrıca kitap, ticaretinizi 
+daha da etkili ve kesin hale getirmek için bir sürü ipucu ve araç 
+içeriyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+İçindekiler
+1. EUREX, Mini DAX Geleceğini Tanıtıyor
+2. Uluslararası İşlemler İçin Popüler Bir Piyasa Olan Alman DAX
+Tüccarlar
+3. Vadeli İşlemlerin Avantajları
+4. Heikin-Ashi Tablosu
+5. Scalping Nedir?
+6. Scalper Olmanın Avantajı Nedir?
+7. Heikin Ashi Scalping'in Temel Kurulumu
+8. Giriş Stratejileri
+9. Tekrar Girişler Mantıklı mı?
+10. Çıkış Stratejileri
+11. Birden Fazla Hedef Mantıklı Mıdır?
+12. Mini-DAX-Future'ı (ve) Ne Zaman Scalping Etmelisiniz?
+(Olmadığında)
+13. Scalperlar için Faydalı Araçlar
+A. Sipariş Verme
+B. Emirleri Açma ve Kapatma
+C. Açık Siparişleri Yönetme
+D. Kar Maksimizasyon Aracı Olarak Trailing Stop
+14. Çeşitli Durdurma Emirleri
+A. Düzeltme Durağı
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+B. Takip Eden Durdurma
+C. Doğrusal Durma
+D. Zaman Durdurma
+E. Parabolik Durak
+F. Bağlantı Durdurma Emirleri
+G. Çoklu Duraklar ve Çoklu Hedefler
+15. Borsada Para Çıkışla Kazanılır
+Stratejiler!
+16. Pazar Analizinin Daha da Geliştirilmesi
+A. Temel Fiyat Seviyeleri
+B. Canlı İstatistikler
+Sonsöz
+Sözlük
+Heikin Ashi Trader'ın Diğer Kitapları
+Yazar Hakkında
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+Yazar Hakkında
+Heikin Ashi Trader, vadeli işlemler ve dövizde günlük 
+ticarette 15 yılı aşkın deneyime sahip bir tüccarın takma 
+adıdır. Scalping ve hızlı günlük ticarette uzmanlaşmıştır. 
+Buna ek olarak, ticaret faaliyetleri hakkında birden fazla 
+açıklayıcı kitap yayınlamıştır. Popüler konular şunlardır: 
+scalping, swing trading, para ve risk yönetimi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+Baskı
+© 2017 Heikin Ashi Tüccarı
+Tüm içerikler dahil olmak üzere eser telif hakkına tabidir. 
+Tüm hakları saklıdır. Bu yayının hiçbir bölümü, yazarın açık 
+yazılı izni olmadan elektronik, mekanik, fotokopi veya 
+başka bir şekilde hiçbir biçimde veya hiçbir yolla yeniden 
+basılamaz veya çoğaltılamaz. Tüm çeviri hakları saklıdır.
+Bu kitabın kullanımı ve içindeki bilgilerin uygulanması 
+tamamen kendi riskiniz altındadır. Tüm içerik dahil olmak 
+üzere çalışma azami özenle derlenmiştir. Ancak, baskı 
+hataları ve yanlış bilgiler tamamen hariç tutulamaz. Yazar, 
+kitabın içeriğinin güncelliği, doğruluğu ve eksiksizliği veya 
+baskı hataları için hiçbir sorumluluk kabul etmez. 
+Yazardan kaynaklanan hatalı bilgiler ve sonuçlar için 
+hiçbir yasal sorumluluk veya yükümlülük olamaz. Bu 
+kitapta basılan İnternet sayfalarının içeriğinden, ilgili 
+İnternet sayfalarının operatörleri tek başına sorumludur.
+İlk baskı 2017
+Metin: © Telif Hakkı Heikin Ashi Trader 
+12 Carrer Italia, 5B
+03003 Alicante, İspanya
+Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]

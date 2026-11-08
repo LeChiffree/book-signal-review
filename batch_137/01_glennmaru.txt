@@ -1,0 +1,967 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 9\Baskı 9\Yalan Söylemeyen Trading Rehberi - Glennmaru - Alkimey Investment Clan (33 sayfa) - @eseckal.pdf
+PAGES: 33
+
+
+=== PDF PAGE 1 ===
+Alkimey Investment Clan
+THE NO LIE TRADING GUIDE
+by
+GLENNMARU
+No Copyright 2014 – No Left or Right Reserved
+~Copy All You Want~
+
+
+
+=== PDF PAGE 2 ===
+Alkimey Yatırım Klanı
+YALAN OLMAYAN TİCARET REHBERİ
+ile
+GLENNMARU
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+İÇİNDEKİLER
+1
+2
+3
+giriiş
+Sorumluluk reddi
+Hakkımda
+Çocukluk Analizi
+4
+5
+6
+7
+8
+Mum Desenleri (CSP) Pivot 
+Noktaları (PP)
+Stokastik (STO)
+Bollinger Bantları (BB)
+Basit Kombo
+Sokak Akıllı Yolculuğu
+9
+10
+11
+12
+13
+Risk ve Para Yönetimi No 
+Luck Trade
+Brokerlar
+Dolandırıcılıklardan Kaçının
+İpuçları ve Püf Noktaları
+Yetişkinlik Analizi (~Yakında~) 14
+15
+16
+17
+18
+19
+20
+Trendler
+Kutu Teorisi
+Boks Trendleri
+Destek ve Direnç (SR) 
+Fibonacci (FIB)
+Grafik Desenleri (CP)
+İleri Kombo
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+1. Giriş
+(Yalan Olmayan Ticaret Rehberi) farklı Perakende Yatırımcılar, Enstitü Yatırımcıları, Yatırım Eğitmenleri, Yatırım Kitapları Yazarları, Çevrimiçi 
+Yatırım Makaleleri, Yatırım Videosu Oluşturucuları ve beynimden öğrendiklerim sonucunda özetlenip oluşturulmuştur.
+Özel Teşekkürler:
+(Perakende Tüccarlar)
+May Ng, Anthony Hao, Kim Wee Liang, Janice Yeh
+(Enstitü Tüccarları)
+W** C**** (bilgi paylaştığı için bankasından ceza alacak), Nicholas Tan, Anton Kreil
+(Ticaret Eğitmenleri)
+Sam Seiden, Jeff Manson, Alfonso Moreno, Nicholas Tan, Anton Kreil, Nial Fuller
+(Ticaret Kitaplarının Yazarları)
+Nicholas Tan, Steve Nison, Van K. Tharp, Mark Douglas, Mike Bellafiore, Chin Yong Sak, Toni Turner, Gregory L. Morris
+(Ticaret Videosu Oluşturucuları)
+DayTraderRockStar, UrbanForex
+(Çevrimiçi Ticaret Makaleleri)
+BabyPips, ForexFactory, Investopedia, MoneyShow, Urban Forex, Forex-Stratejileri-Açıklandı, Forex4noobs
+(Ve)
+Beynim
+Ticaretin bütünsel resmini oluşturabilmem için bana farklı yapboz parçaları sağladıkları için onlara teşekkür ediyorum.
+Bu rehberin amacı, finansal enstrümanlarla işlem yapmakla ilgilenen kişilere, edindiğim gerçekleri, yatırım fikirlerini ortaya 
+koymak ve dolandırıcılıklardan ve komik fikirlerden uzak durmalarını sağlamaktır.
+Bu rehber başlangıç   sermayenizi kurtarmaya yönelik değil, sermayenizi iyi bir şekilde büyütmenize ve korumanıza yardımcı olacak doğru tekniklerle doğru 
+eğitimi temel almaktadır.
+Hiç kimse bu rehber dahil olmak üzere ticarette kar elde etme başarınızı garanti edemez. Tüm ticaret konseptinde ustalaşmak ve karlı olmak 
+için bolca sabra, sıkı çalışmaya, mantıksal anlayışa, esnekliğe ve deneyime ihtiyacınız var.
+Ayrıca bana şu adresten e-posta gönderebilirsiniz:Kampongkia18@hotmail.com Babypips veya diğer web sitelerinden bağımsız 
+olarak herhangi bir yerden sorularınız varsa. Lütfen... Lütfen bana tüm sorularınızı spam olarak gönderin! Bunu mükemmel bir rehbere 
+dönüştürmek istiyorum ve bazı şeyleri kaçırabilirim.
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+2. Feragatname – EKSİK!!
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+3. Hakkımda
+Ben saf bir cimri Singapurluyum ve aynı zamanda Özel Ticaret Öğretmeniyim (öğretmek sadece hobim, bundan para kazanmıyorum.) 
+Yüksek eğitimli değilim, Singapur'un eğitim sistemini biliyorsanız, GCE N(t) Seviyesinde normal bir teknik öğrenciyim ve en yüksek 
+yeterliliğim ITE'den Elektronik alanında NITEC'tir.
+Kişiliğim her zaman inatçı ve asi tipteydi. Çocukluğumdan beri ders çalışmaktan nefret ederdim ve farklı işlerde çalışmak 
+için okulu asmayı severdim. Okul ödevlerimi tamamlayamadığım ve derslerde sürekli uyuduğum için akademi notlarım 
+kötüydü ama bir şekilde GCE N(t) Seviyemi geçmeyi başardım.
+Daha üst bir seviyeye geçerek NITEC için biraz daha sıkı çalışmaya karar verdim ve başarıyla tamamladım.
+Ben 80 puanlık düşük bir IQ'ya sahip olduğum için pek akıllı değilim çünkü zaten IQ testi yapıyorum ama mantık duygum ortalama insanları aştı ve 
+ticaretin daha çok mantıkla ilgili olması nedeniyle Tanrı'ya şükrediyorum.
+Hayatta her zaman bir şeyin eksikliğini başka bir şeyle telafi edeceksiniz, ana yeteneğinizi iyi değerlendirin ve az olan şey ana 
+yeteneğinizi destekleme rolünü oynayacaktır.
+Eksikliklerinize kin beslemenin, stresli olmanın hiçbir faydası yok, o yüzden lütfen onları atın gitsin.
+Lütfen dil bilgisi ve kelime hatalarımı mazur görün, özür dilerim ve çok teşekkür ederim!
+14 yaşımdan beri çalışmaya başladım, hayatım boyunca Kasiyer, Garson, Tanıtım Elemanı, Bilgisayar Teknisyeni, Satış Elemanı, Kurye, Aşçı, 
+Memur, Yönetici, Pazarlamacı, Denetçi, Operasyon Planlayıcısı gibi farklı işler yaptım ve kısa vadeli bir iş kurdum.
+16 yaşımdayken, "Forex ticareti yapın, ayda 10 bin kazanın" ve "Annem haftada Forex ticareti yaparak 8 bin kazandı" şeklinde reklam yapan birçok gazete 
+makalesi gördüm, hangisi olursa olsun, inanmak için çok ikna edici buluyorum ve bunu öğrenmeye zahmet etmedim çünkü sadece Hisse Senetleri ile 
+ilgileniyordum ama Hisse Senetleri satın almak için gereken büyük sermaye nedeniyle yolculuğuma başlamadım. Ortalama bir aileden geliyorum ama 
+ebeveynlerim geleneksel düşünceye sahip destekleyici olmayan tipler, sadece insanların istikrarlı bir hayat yaşamak için bir öküz gibi çok çalışması gerektiğine 
+inanıyorlar, o zaman gerçekten bir ahırdaki öküz olacaksınız.
+Çok tembelim, özgürlüğümü istiyorum ve hayatım boyunca ayda 3 bin dolardan az kazanarak çalışmak istemiyorum. Spor arabalara veya büyük evlere ihtiyacım 
+yok, sadece 35 yaşıma geldiğimde uyuyabileceğim, yerde yuvarlanabileceğim 5x5 ft karelik bir oda ve lezzetli yemeklere harcayabileceğim kadar parayla emekli 
+olmak istiyorum. Çok zengin olduğumda, yetim çocukların iyi yemek yiyebilecekleri, iyi uyuyabilecekleri, iyi oynayabilecekleri ve bağımsız olana kadar onları iyi 
+eğitebilecekleri bir okul inşa etmeliyim çünkü çocukları seviyorum ve okulumda kendimin bir heykelinin olmasını istiyorum. House Rabbit Society Singapore'un 
+(HRSS) kurtardıkları tavşanlar için barınak ve ihtiyaç sağlamalarına yardımcı olmak için bir bina inşa etmeliyim çünkü ben de tavşanları seviyorum. Hayalimi 
+gerçekleştirirken düşmeye devam etsem de pes etmeyeceğim veya ölene kadar kimsenin beni durdurmasına izin vermeyeceğim.
+2 yıllık vatani görevimi yaparak ve şirketler için çalışarak huzurlu hayatımı sürdürdüm; ta ki bir gün, tesadüfen 
+meslektaşlarımdan birinin (May Ng) bilgisayarını açıp satın aldığı hisse senetlerine baktığını görene kadar ve yolculuğum o 
+şekilde başladı.
+Yavaş piyasaya daha iyi uyum sağladığı için beni MSCI Singapore Index (SiMSCI) ile tanıştırdı ve bana farklı finansal enstrümanlar öğretti. Ergenlik 
+çağımda, Vadeli İşlemlerde riske atacak param yoktu, bu yüzden bunun yerine Forex'e bakmaya karar verdim ve bunun özgürlüğüme giden tek yol 
+olduğunu düşünüyorum (finansal olarak değil).
+Çok zaman harcadım (ÇOK~) farklı şeyler öğrenerek, bana asla para kazandırmayan farklı türden komik şeyleri deneyerek (mesela şanslı alım 
+şanslı satım gibi, şimdi her düşündüğümde kendime gülüyorum) büyük büyük turlar attım, ta ki durup bir şeylerde ustalaşmam gerektiğini 
+fark edene ve her şeyi tek tek yapana kadar.
+Çok geçmeden, kız kardeşim (İstatistik Tüccarları) tarafından kandırıldı ve her sayfadaki okuma materyalinde BÜYÜK sözcüklerle öğrencilere 
+her gün sabah 5'te bir önceki günün en yüksek ve en düşük seviyesinde bekleyen emir vermelerini söyleyen 3.000 dolarlık kurslarını satın 
+aldı. Daha bir sürü saçmalıkları var (Stratejinin düşünülmemesi gibi, %100 falan filan) hatırlamıyorum. Bu arada, artık ortalıkta yoklar.
+Kız kardeşim dolandırıcıların önerdiği Fxprimus'a 250$ yatırdı. 50$ kaybetti ve daha fazla kaybetme korkusuyla bıraktı. Bir daha 
+asla trading'e dokunmadı.
+Ben de 4 yıl önce (19 yaşında) yatırım yapmaya başladım, 3 yıl önce istikrarlı kar elde ettim ve geçen yıl 1 gün uyandığımda piyasayı net bir şekilde 
+görebiliyordum (birdenbire oldu *Göz kırpış* o kadar ani ki, nedenini açıklayamıyorum.).
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Hisse senetleri, vadeli işlemler, döviz, emtia ticareti yapıyorum ve insanları şiddetle teşvik ediyorumOLUMSUZİkili Opsiyon ticareti yapmak.
+Nasıl işlem yaparım? Ben zirveleri ve dipleri seçen tam bir TA tüccarıyım ancak bu sadece aralıklı işlem yaptığım anlamına gelmiyor. Gün, Salınım, Pozisyon ticareti benim 
+için sorun değil ve daha fazla pip kazanmanın daha az pip ile daha fazla para kazanmaktan kesinlikle daha iyi olduğuna inanıyorum. 10 pip ile 100 dolar kazanmak 
+istiyorum, 1 pip ile 100 dolar değil.
+Neden cimriyim? Ücretli kurslara gitmiyorum çünkü kendi kendime öğrenerek başarılı olabileceğime inanıyorum.
+Kütüphanelerden kitap kutuları okuyorum çünkü ÜCRETSİZ, ücretsiz seminerlere katılıyorum çünkü ÜCRETSİZ, internette tonlarca araştırma yapıyorum çünkü 
+ÜCRETSİZ ve demo hesaptan istikrarlı bir kar elde edene kadar gerçek parayla işlem yapmıyorum çünkü ÜCRETSİZ.
+Bazı stratejiler veya araçlar tek başına yapılabilirken bazılarını birleştirmeniz gerekir ancak bunları hiçbir şekilde karıştırmamalısınız. Tıpkı yiyecekler gibi, her 
+türlü karıştırılan malzemeler kötü bir tada sahip olabilir.
+İyi kombinasyonlarınız olduğunda, piyasa hareket ettiği sürece hem aralıklı hem de trend günlerinde işlem yapabilirsiniz.
+Bir kombinasyona sahip olmak en iyisidir çünkü farklı insanlar farklı stratejiler kullanır. Farklı göstergeleri (insan psikolojisi) 
+alırız ve bunları bir araya getirerek aynı zihniyete sahip oldukları yeri ve zamanı belirleriz.
+Ticaret yolculuğum boyunca, göstergelerin, stratejilerin, risk ve para yönetiminin, psikolojinin ve deneyimin doğru kullanımının 
+anlaşılmasının ne kadar önemli olduğunu ancak insanların size aslında bunun tam işlevini öğretmediğini ve çoğu zaman sizin için alım 
+veya satım sinyalleri almayı kolaylaştırmaya çalıştıklarını keşfettim. İşler ters gittiğinde, tüccarlar tekrar başka bir komik şeye atlayacaklar 
+ve bu böyle devam edecek.
+Benim teorimde, tüm hayali stratejiler, grafiğe bakarak piyasadaki Talep ve Arz bölgelerini bulmak için yaratılır. Farklı göstergelerin kombinasyonu, 
+oranları sizin lehinize çevirecek, gürültüleri ortadan kaldıracak ve size kaliteli işlemler sunacaktır. Bazıları, bu kadar çok gösterge ve kuralla bunun 
+karmaşık olduğunu söyleyebilir ama Nehh... 4 göstergeyi birleştirebilir ve uyulması gereken basit bir kural setine sahip olabilirim ama kurallarım askeri 
+kurallardan daha katıdır, işlem kurulumuma tek gözümü bile kapatmam,GİRİŞ YOK, GİRİŞ YOK DEMEKTİR!
+Öncelikle risk ve para yönetimini uygulamaya başlamadan önce stratejinizi bilmeniz gerekeceğinden, göstergelerin fonksiyonlarını 
+ve ardından para yönetimini ele alabilirim.
+Hadi Başlayalım
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+4. Mum Desenleri (CSP)
+CSP'yi seviyorum ve anında yürütme stratejilerimin hepsi için temelim. Piyasanın bir sonraki yukarı veya aşağı 
+hareketini belirleyen anlık duygusallık olarak ve ayrıca işlemlere girmek ve zarar durdurma emrimi sıkılaştırmak 
+için kullanıyorum çünkü cimriyim. Acemi günlerimde sadece saf CSP ile işlem yapmaya başladım ve açgözlü ve 
+tembel olana kadar her ay ortalama 300 pip kazandım. Bilgisayarıma bakmaya devam etmek istemediğim için 
+daha karlı ve tembel yollar aramak için bu bebeği terk ediyorum. Eh... Dünya turundan sonra bu bebek için geri 
+döndüm, LOL'ler!
+CSP'nin bu 9 temel seti trading'iniz için yeterlidir.
+Doğal:Doji, Dönen Üst ve Alt (Seviye 3 'Yıldızlar' CSP için gereklidir)
+1 mumlu 1. seviye:Çekiç ve Kayan Yıldız, Üst ve Alt Tıraşlı, Beyaz ve Siyah Marubozu
+Çekiç ve Kayan Yıldız için, boğa/ayı renkliYapmaz konu.
+Traşlı Üst ve Alt için, boğa/ayı rengiYapmak konu.
+Örn. Uzun pozisyona gireceğiniz zaman boğa renginde Shaven Top'unuz olmalı.
+2 mumlu 2. seviye:Boğa/Ayı Yutan, Boğa/Ayı Harami, Delici ve Kara bulut örtüsü, Bir Beyaz Asker ve 
+Bir Kara Karga.
+3 mumlu 3. seviye:Sabah ve Akşam Yıldızları, Sabah ve Akşam Doji Yıldızları
+Sabah ve Akşam Yıldızları için, Yıldızların boğa/ayı rengiYapmaz konu.
+Lütfen şunu unutmayın
+Örn. 15 dakikalık zaman dilimini kullanıyorsanız, Boğa Yutma = 30 dakikalık Çekiç veya Tıraşlı Tepe. Örn. 2. 
+15 dakikalık zaman dilimini kullanıyorsanız, Sabah Yıldızı = 45 dakikalık Çekiç veya Tıraşlı Tepe.
+Resimleri bir araya getirince ortaya bu çıkıyor.
+Seviye 2 ve 3 CSP'ler, Seviye 1 CSP'yi bulmak için zaman dilimleri arasında geçiş yapmanıza gerek kalmaması için oluşturulmuştur.
+Gürültü esnasında CSP oluşabilir ve kaliteli bir CSP elde etmek için, seviyelerde CSP almak gerekir.
+CSP çok uzun veya çok kısa olabilir.
+Eğer CSP'nin çok uzun olduğunu düşünüyorsanız, işleme girmeden önce yaklaşık %50 geri çekilme beklemelisiniz (Sadece limit emirleri 
+yapın).
+CSP'nin çok kısa olduğunu düşünüyorsanız, işleme girmemeyi veya teyit için bir sonraki mumun kapanmasını beklemeyi 
+seçebilirsiniz.
+Eğer CSP'den şüphe duyuyorsanız veya rahatsızsanız işlem yapmayın, bir sonraki kurulumu bekleyin.
+Uzunluğa sabitlenmek üzere,
+15dk zaman dilimi:
+10 pip ve altı = En iyisi
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+3 pip ve altı = Çok Kısa
+15 pip ve üzeri = Çok Uzun
+Yeni yatırımcılar için, çok uzun veya çok kısa olmasına bakılmaksızın başınızı ağrıtmayacak güzel ve belirgin bir CSP'yi her 
+zaman bekleyin. Deneyim kazandığınızda, baş ağrısı yaratan CSP'de nasıl işlem yapacağınızı otomatik olarak bileceksiniz. 
+(CSP'nin çok uzun süre güzel olup olmadığını düşünmek, olmadığı anlamına gelir. 1 veya 2 bakış size CSP konusunda güven 
+vermelidir).
+CSP'nin önceden ters bir eğime sahip olması gerekir.
+örn. 15 dakikalık zaman dilimi Bullish CSP, 15 dakikalık zaman dilimi düşüş trendi sırasında oluşturulmalıdır. Eğimler gözünüze 
+açık olmalıdır. Eğim konusunda şüpheniz varsa, CSP'yi onaylamayın.
+(Uzun süre eğim mi diye düşünmek, eğim olmadığı anlamına gelir. Aynı şey, 1 veya 2 bakışla teyit edilebilir, değilse 
+CSP ile işlem yapmayı unutun). Gözlerinizi yanlış eğimleri kabul etmeye zorlamayın.
+TheKAPALI CSP'nin, ticaretinize girmek için tetikleyebileceğiniz yer burasıdır. CSP'nin üstünde veya altında 1pip'lik bir kırılmaya gerek 
+yoktur çünkü bu, hiçbir şey için bedava para vermek gibidir.
+Saf CSP ticareti, iyi olanları nasıl seçeceğinizi biliyorsanız size para kazandırabilir, sonunda işe yarayıp 
+yaramadığı önemli değil, doğru olanları seçtiğinizi ve riskinizi kontrol ettiğinizi bildiğiniz sürece. (Unutmayın, 
+gelecekteki kazanma oranınızı veya tüm mükemmel CSP'leri seçseniz bile %100 kazanma oranına sahip 
+olacağınızı bilemezsiniz.)
+CSP'yi nasıl seçersiniz?
+1: CSP'yi kapanıştan önce tahmin ederek onaylayabilirsiniz (Ne kadar hızlı ve deneyimli olduğunuza bağlı, yeni başlayanların 1 dakikaya veya 
+daha fazlasına ihtiyacı olabilir. (Tahmin etmek sadece kalıpların ne olacağını ifade eder, kapanıştan önce işleme atlamak anlamına gelmez.)
+Ayrıca, CSP'nin onaylandıktan sonra nasıl girileceğine dair hızlı bir plan yapmak için CSP'nin çok uzun veya çok kısa olup 
+olmadığını da söyleyebileceksiniz (Piyasayı al, limit emirleri ver veya ticareti atla).
+2: Eğimi kontrol etmek için sola bakın.
+Eğim dik yukarı/aşağı olmamalı çünkü boğa ve ayıların yukarı veya aşağı itmek için mücadele ettiğini ve düşen bir bıçağı 
+yakalamak istemediğinizi görmek istersiniz. (Hisseler veya Vadeli İşlemler ticareti, sadece dik aşağı izin verilmez, dik bir 
+yukarıyı kısaltabilirsiniz. Bunun nedeni Forex'in para birimini diğeriyle karşılaştırmasıdır, grafikte dik yukarı = başka bir dik 
+aşağı = o belirli para birimi için düşen bıçak görürsünüz)
+Rahatça yukarı/aşağı yürüyebileceğiniz, düşüp yuvarlanma korkusu yaşamayacağınız eğim. 45 derecelik 
+açı kullanmak en iyisidir, 80 derece çok tehlikeli olacaktır.
+Boğayı desteklemeye gittiğinizi hayal edin,
+Görmek istedikleriniz:
+Boğa daha fazla enerji biriktirmek için yerde yatıyor ve ayı onu zorlarken enerji kaybetmeye devam ediyor = Düşüş 
+trendi
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Aniden! Boğa ayağa kalktı! = Boğa CSP (Bu, desteğinizi verdiğiniz zamandır.)
+Ondan sonra onu görmek isteyeceksin:
+1 vuruşta ayıyı tornado tekmesiyle KO et! = Uzun boğa yukarı
+veya ayıya sert bir aparkat vurun ama ayı hala kafasının etrafında kuşlarla ayakta duruyor = Bundan sonra boğanın kombo 
+vuruşu yapabileceği sert bir vuruş.
+veya kombo vuruşu ayıya = Yükseliş trendi
+Karınızı aldıktan ve boğanın enerjisi kalmayınca, ayıyı desteklemek için pozisyon değiştirirsiniz.
+Ve hikaye yerdeki ayı ile başlıyor. Mini trend, CSP'nizin ötesine geçen keskin bir sivriliğe sahip olmamalı. 
+Bu, boğanın ayınıza bir aparkat yapması ve ayınızın bulanıklaşmasına neden olması ve her an KO alması 
+gibi ve ayı bayılmadan önce kaçmak istiyorsunuz çünkü boğa bundan sonra da size yumruk atacak.
+Önce kendinizi kurtarın ki hala hayatta olan diğer boğa/ayıları destekleyebilin. Piyasada boğa ve ayı 
+ölmeyecek, bu yüzden onları kurtarmanıza gerek yok.
+Slopes’a neden ihtiyaç duyulur?
+Eğim yıkaması ve ekstra talep/arz emirlerini durulaması ve CSP'nin size 'Tamam, yeterince yukarı/aşağı gittim, ters yöne 
+gidelim' demek için eğimin ağzıdır. Yüksek/düşük işaretini, o fiyatta park edilmiş çok fazla talep/arz olma olasılığının 
+yüksek olduğunu bilmeniz için bırakır.
+Örn. Boğa Yutma formasyonunun 1. mumu tüm ekstra talebi ortadan kaldırır ve 2. mumun dibi, talebin büyük bir 
+kısmının orada park edilmiş olma olasılığının yüksek olduğunu gösterir.Bu nedenle, STOP LOSS'unuz güçlü talep 
+noktasının altında 1 pip + sabit veya ortalama değişken spread'lere ayarlanmalıdır. Ayılar sizi kovmadan önce 
+boğaları alt etsin.
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+5. Pivot Noktası (PP)
+PP yeni yatırımcılar için iyidir, size gerçek bir destek ve direncin nasıl işlem göreceği kavramını verir ve bunu kendiniz bulmanız 
+gerekmez çünkü gerçek S/R'yi bulmak yeni başlayanlar için çok sinir bozucu olacaktır. PP ile trendle oynayabilir ve geri 
+dönüşler yapabilirsiniz, bugünün aralıklı veya trend bir gün olması konusunda endişelenmenize gerek yok.
+İndirme Göstergesi: FXI pivots.ex4
+Bilgi için kendinizi hesaplamanız en iyisidir
+Seviyeler belirli bir fiyat değil bölge olduğundan (her S/R için 3 pip +/-) hayali hesaplamalara ihtiyacınız yok, 
+örneğin Fibo Pivot gibi farklı hesaplamalar Standartlardan sadece birazcık artı eksi uzakta.
+Günlük PP kullanarak işlem yapmak yeterlidir, Haftalık PP sadece referans amaçlıdır. (örn. Haftalık S1, Günlük S1 ile aynı 
+seviyedeyse, o seviyede işlem yaptığınızda oranların daha yüksek olduğunu bilirsiniz. SON.)
+FXI Standart Kat hesaplamasını kullanır:
+PP = (Dünün En Yüksek Değeri + Dünün En Düşük Değeri + Dünün Kapanış Değeri) / 3
+R1 = (PP * 2) - Dünün En Düşük Değeri
+S1 = (PP * 2) - Dünün En Yüksek Değeri
+R2 = PP + (R1 - S1)
+S2 = PP - (R1 - S1)
+R3 = Dünün En Yüksek Değeri + (2 * (PP - Dünün En Düşük Değeri))
+S3 = Dünün En Düşük Değeri - (2 * (Dünün En Yüksek Değeri – PP))
+* Önemli*
+PP'yi hesaplamak için, yalnızca Sidney oturumunun açılışından New York oturumunun kapanışına kadar (YHigh, YLow, 
+YClose) kullanın. Dönem ayırıcılarınız sıfırlanmazsa0:00saat , kullanamazsınFXI pivotları.ex4.
+Fiyatın S/R seviyesine her temasında 1 fırsat yaratılır.
+Durdurulduğunuzda her zaman fiyatın bir sonraki seviyeye geçmesini bekleyin.
+Durdurulduğunuz anda aynı seviyeden iki kez girmeye çalışmayın, kendinizi karıştırırsınız.
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+1.Açılış
+Price'ın uzaklaşmasını bekleyin.
+1. kutunun sonu, Fiyat @ PP ve S1'in ortasında.
+Fiyatın UZUN için S1'e doğru hareket etmesini veya KISA için PP'ye dönmesini bekleyin.
+2. S1'deki Fiyat
+Sinyallerin UZUN olmasını bekleyin.
+Durdurulduysa, Fiyatın bir sonraki seviyeye geçmesini bekleyin.
+3. S2'deki Fiyat
+Sinyallerin UZUN olmasını bekleyin.
+Durdurulduysa, Fiyatın bir sonraki seviyeye geçmesini bekleyin.
+4. Fiyat @ S1
+KISA SÜRE İÇİN SİNYAL BEKLEYİN
+Durdurulduysa, Fiyatın bir sonraki seviyeye geçmesini bekleyin.
+5. PP Fiyatı
+KISA SÜRE İÇİN SİNYAL BEKLEYİN
+Durdurulduysa, Fiyatın bir sonraki seviyeye geçmesini bekleyin.
+~Tam tersi~
+1.Açılış
+Price'ın uzaklaşmasını bekleyin.
+1. kutunun sonu, Fiyat PP ve R1'in ortasında.
+Fiyatın KISA pozisyon için R1'e doğru hareket etmesini veya UZUN pozisyon için PP'ye dönmesini bekleyin.
+2. Fiyat @ R1
+KISA Sinyalini Bekleyin.
+Durdurulduysa, Fiyatın bir sonraki seviyeye geçmesini bekleyin.
+3. Fiyat @ R2
+KISA Sinyalini Bekleyin.
+Durdurulduysa, Fiyatın bir sonraki seviyeye geçmesini bekleyin.
+4. Fiyat @ R1
+Sinyallerin UZUN olmasını bekleyin.
+Durdurulduysa, Fiyatın bir sonraki seviyeye geçmesini bekleyin.
+5. PP Fiyatı
+Sinyallerin UZUN olmasını bekleyin.
+Durdurulduysa, Fiyatın bir sonraki seviyeye geçmesini bekleyin.
+Eğer Fiyat PP & S1 veya PP & R1 ortasından açılırsa, 1. kutunun sonundan başlanır.
+S2 ve S3 arasındaki yükseliş sinyallerini ve R2 ve R3 arasındaki düşüş sinyallerini UZUN tutabilirsiniz. S3/R3'e dokunmanıza gerek 
+yok.
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+6. Stokastik (STO)
+Trend bana her zaman yalan söyler! Ne zaman binip binsem bana karşıydı! Sonra STO'yu kullanın, yalan dedektörü 
+işlevi görür.
+Aşırı alım ve aşırı satım bölgeleri saçmalık! Fiyat bölgeye ulaştı ama trend durmadı! İkisi de yalancı!
+Birçok yatırımcı, STO OB/OS gösterdiğinde sadece uzun/kısa pozisyon açmaları gerektiğini düşünür. Hayır, STO 
+böyle çalışmaz!
+Tıpkı CSP gibi, STO da benim temelim ve park stratejilerim için anında yürütmeme de yardımcı oluyor, CSP'nin sadece 
+anında yapmasının aksine. Tamam, bu 2 göstergeyi tek temelim olarak aldım, bu yüzden endişelenmeyin Lols!
+OB/OS'nin etkinleştirilmesi için birDüzenli veya Gizli Sapmalar .
+Ve STO dönemlerim ( olarak ayarlandı%K: 9 ,%D: 3 ,Yavaşlama: 3 ,Fiyat alanı: Düşük/Yüksek ,MA yöntemi: Basit , 
+Sabit Min/Maks: İşaretli ) ve neden? Gerisi benim %K'm hariç varsayılan ama benim %K'mi ayarlamam için sihirli 
+sayılar yok. Sadece %K'min %D'mden çok uzakta olmasını istemiyorum.
+Bunu hatırla:
+Düzenli Diverjanslar bir trendin tersine dönmesini ifade eder.
+Gizli Ayrışmalar bir trendin devamı içindir.
+SATIN ALMAK istediğinizde, düşükten satın almak istersiniz, bu yüzden Grafik ve STO'nuzun düşüklerine bakarsınız.
+SATMAK istediğinizde, yüksekten satmak istersiniz, bu yüzden Grafik ve STO'nuzun zirvelerine bakarsınız.
+STO'daki salınımlar:
+Salınımlar orta veya aşırıdır.
+Bir salıncakta sallandığınızı ve eğlenmek için sonuna kadar sallanmak istediğinizi düşünün.
+Kutulardaki kıpırdanmalar salınım değil (1. görseldeki gibi filtreleyip tam salınım olarak alabilirsiniz).
+2. görseldeki gibi çok fazla oynama veya düzleşme olduğunda diğer salınımları bekleyin ve kaçının.
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Uzun:
+Düzenli Ayrışmalar (Ters - Yakınsak)
+c1 düşük bir salınımı gösterir ve s1 OS'nin altında (en iyisi daha derin) olmalıdır.
+c2, c1'den düşüktür fakat s2, s1'den yüksektir.
+S2 işletim sisteminin altında en iyisidir ancak aynı düşüklükte veya s1'in altında izin verilmez.
+Normalde bu senaryoda, s1'in altına düşüp düşmeyeceği hakkında hiçbir fikriniz olmaz çünkü s2 hala aşağı doğru 
+yoldadır. 2 çizginin kesişmesini beklerken çok yavaş olacaksınız ve her zaman yanlış kesişme olur.
+(örn. Şimdi 1. mumun kapanışında çizgilerin kesiştiğini gördünüz, ancak bir sonraki mum kapandığında çizgileriniz 
+yön değiştirdi ve kesişmedi.)
+O zaman yanlış bir yolculuğa çıkmış olursunuz ve onaylanmış geçiş için bekleme süreniz uzar, bu da bir sonraki sefere kötü bir 
+fiyattan girmenize neden olur.
+Dolayısıyla en iyisi CSP'yi birleştirmek veya STO geri adım atmadan önce atlayabileceğiniz sinyaller üretmenin başka 
+yollarını bilmektir.
+c2'deki daire, karşı trend için uzun pozisyon açma sinyallerini beklediğiniz yerdir.
+Gizli Ayrışmalar (Devamı – Ayrışan)
+c2 düşük bir salınım gösteriyor. s2 touch OS'ye gerek yok (s2'nin OS'nin çok altında olması kötü).
+c3, c2'den yüksektir fakat s3, s2'den düşüktür.
+s2, s3'ten yüksek olmalıdır (aynı düşüklüğe izin verilmez).
+S3'ün OS'ye değmesi veya altında olması gerekir (en iyisi daha derinde).
+Bu senaryoda s3'ünüzün s2'nizin altında olduğunu görebileceksiniz. O yüzden endişelenmeyin.
+c3'teki daire, trende uymak için çok uzun sinyallerin gelmesini beklediğiniz yerdir.
+~Tersi~ Kısaya:
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Düzenli Ayrışmalar (Ters Dönüş - Ayrışan)
+c1 yüksek bir salınımı gösterir ve s1 OB'nin üstünde (gökyüzüne mümkün olduğunca yüksekte) olmalıdır.
+c2, c1'den yüksektir fakat s2, s1'den düşüktür.
+S2'nin OB'nin üstünde olması en iyisidir ancak s1'in aynı yükseklikte veya üstünde olmasına izin verilmez.
+STO, Düzenli Sapmalar (Ters Dönüşler) konusunda çok iyi değildir, bu yüzden sinyal üretmenin başka yollarına sahip olmak en iyisidir.
+Hala STO kullanıyorum çünkü RSI, MACD veya OSMA'dan daha yüksek hassasiyetle aşırı salınımlar 
+üretebiliyor ve sabit 0 ila 100 ile daha kolay.
+Gizli Ayrışmalar (Devam – Yakınsak)
+c2 yüksek bir salınım gösteriyor. s2'nin OB'ye dokunması gerekli değil (s2'nin gökyüzüne çok yakın olması kötü).
+c3, c2'den düşüktür fakat s3, s2'den yüksektir.
+s2, s3'ten düşük olmalıdır (aynı yüksekliğe izin verilmez).
+S3, OB'ye değmeli veya üstünde olmalıdır (en iyisi ne kadar yüksekse).
+Görülebilir. Bu nedenle endişelenmeyin.
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+7. Bollinger Bantları (BB)
+Şimdilik BB'yi sadece varsayılan ayarlarla oran arttırıcı olarak kullanıyorum çünkü basit kombomda breakout işlemlerini 
+uygulamanın yüksek olasılıklı yollarını keşfedemedim.
+Şimdilik teori basit. Alt bantta Al'a veya üst bantta Sat'a bak.
+Peki orta bant ne işe yarar? Kar elde etmek için mi? Cevap Hayır...
+Orta Bant, üst/alt bant gibi çalışır ve yalnızca trend döneminde çalışır.
+BB için 3 aralık boyutu vardır:
+İnce veya Dar = Konsolidasyonlar, bu durum genellikle hacimlerin düşük olduğu zamanlarda (örneğin Asya seansı, tatiller sırasında) veya 
+boğalar ile ayıların kararsız olduğu zamanlarda gerçekleşir.Küçük mumlar bu boyutu görmenin ipucudur .
+Explode = Breakouts, emir akışının yüksek dengesizliğinden dolayı meydana gelir. (Emir akışı hakkında okudunuz mu? 
+Okumadıysanız, şu an olduğunuz yerde durun ve biraz araştırma yapın.)
+Ortalama = Burada aralıklı işlem yapabilir veya trendlere atlayabilirsiniz.
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+BB'yi kullanarak aralık veya trend periyodunu belirleme:
+Bunu her zaman aralıklı olarak ele alın.
+Trend ticareti:
+BB'nin ilk etabı tamamladıktan sonra genişlemesini bekleyin, ardından orta veya zıt bantlara geri çekilin ve 
+sinyallerinizin gelmesini bekleyin.
+Örn. Boğa gerginliği -> geri çekilmeyi bekleyin ve orta veya alt banda dokunun -> boğa sinyalinizin bir satın alma işlemini tetiklemesini 
+bekleyin. (Geri çekilme boğa sinyalleriniz boğa gerginliğinin en düşük seviyesine dokunmamalı veya onu kırmamalıdır.)
+Zaten aralıklı bir ticaretteyseniz ve doğru yöndeyseniz, o zaman ilk etapta para kazanacaksınız + size geri 
+çekilmeye yeniden girmek veya geri çekilmede ölçeklendirmek için 2. bir şans vererek 2. etapta kar elde 
+edeceksiniz. Bu, o günü sizin için bir home run yapar!
+Koparma yapan yatırımcılar:
+Konsolidasyon döneminde işlemde olmalısınız, 1. mumun yukarı/aşağı yönlü kırdığını gördüğünüzde hemen 
+atlamamalısınız.
+Örn. Alt banttan alım yapıp üst bantta kırılmayı beklersiniz, tam tersi.
+Bu şekilde çok sıkı bir stop loss ve çok yüksek kazançlar elde edebilirsiniz.
+Neyse ki, BB'yi PP ile birleştirdiğinizde çocuğun hangi boyutta olduğuyla ilgilenmenize gerek yok ve benim breakout'u 
+keşfetme yolculuğum henüz bitmedi. Sadece fiyatın üst, orta veya alt banda dokunduğunu görmeniz gerekiyor. 
+Çocuğun boyutu yalnızca bir referans işlevi görecek ve BB, PP'nin geçerli olup olmadığını tespit etmek için bir onay 
+görevi görecek.
+BB'ye henüz tam olarak hakim değilim ama kombomu eklemenin bir yolunu bulduğumda bunu sizinle paylaşacağım, 
+böylece her türlü durumda ticaret yapabiliriz. Bana fikirlerinizi iletmekten çekinmeyin, Çok teşekkürler!
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+8. Basit Kombo
+Bunu bekliyordunuz değil mi? Yoksa her şeyi en baştan buraya kadar mı atladınız? (Lütfen burayı atlamayın ve 
+okumaya başlayın, bu stratejiyi düzgün bir şekilde kullanmak için konseptimi kavrayamayacaksınız!)
+Bu kombo benim gibi aşırı tembel bir adam için yaratıldı. Sabah uyan, platformumu aç ve aptal gibi bekle... 
+Çünkü çoklu zaman dilimi analizine veya herhangi bir araçta dokunuşa gerek yok, PP'yi manuel olarak çizmeniz 
+gerekmediği sürece, çok kötü, Lols!
+Düşük spreadler nedeniyle USDJPY ve EURUSD'de bu stratejiyi kullanıyorum. Ayrıca 15 dakikalık bir zaman diliminde günlük işlem 
+yapmak için çok sayıda pariteye bakmakla meşgul olmak istemiyorum.
+Sinyal genellikle Asya seansı sırasında ABD seansının açılışından önce oluşur. 12 saat orada olmanıza gerek 
+yok, Asya veya Avrupa seansı sırasında izlemeyi seçebilirsiniz. Kaçırılan bir işlem gördüğünüzde çok fazla 
+kovalamayın veya uğraşmayın.
+Bu 2 çift, haftada yaklaşık 3 veya daha fazla kaliteli sinyal üretmeye yetiyor ve bunu 2 yıldan fazla bir süredir 
+kullanarak %85   oranında kar elde ettim.
+Çok fazla düşünme çünkü ben tecrübe edindim ve nasıl seçeceğimi biliyorum. Tekrar ediyorum, gelecekteki kazanma oranını 
+asla bilemezsiniz, sizi yarı yolda bırakana kadar inanın.
+Ortada olanı görmek, karışıklığı engellemenin anahtarıdır.
+Kurallar:
+CSP'nin Üst/Alt Bant'ı aşması dışında CSP'nin BB'ye +/- olmadan dokunması gerekiyor.
+PP'nin S/R bölgesi = 7 satırın her birinden 3 pip +/-.
+STO sapmaları iki kez bakıldığında hala belirgin değilse, işlemi atlayın. (Farklı zirveler veya dipler olup olmadığını görmek için çizgiler 
+çizmeye veya rakamları karşılaştırmaya gerek yok)
+Dokunma = CSP, PP/BB hatlarına oturur.
+Alt/Üst = PP'nin R2 & R3 veya S2 & S3 arasındaki CSP. CSP, BB'nin Üst/Alt Bandının üzerine çıktı.
+Kaçış = CSP, BB'nin Üst/Alt Bandını aştı.
+W&R = Yıkama ve Durulama
+Aşağıdaki görselde Boğa Harami'nin S2 ve W&R BB'nin Alt Bandının altına düştüğü görülüyor.
+Her tetikleyicinin kurallara uygun olması gerekir.
+Uzun (Tersine Dönüş)
+1. Boğa CSP'nin PP'nin S1/S2'sine veya S2'nin altına dokunması gerekir
+2. Boğa CSP, BB'nin Alt Bandına dokunmalı veya altına kaçmalıdır
+3. Düzenli Yakınsak
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+4. Tetiği onaylamak için boğa CSP kapanışı
+Kısa Pozisyona (Tersine Dönüş)
+1. Ayı CSP'si PP'nin R1/R2'sine veya R2'nin üstüne dokunmalıdır
+2. Ayı CSP, BB'nin Üst Bandına dokunmalı veya yukarı çıkmalıdır
+3. Düzenli Diverjan
+4. Ayı CSP'si tetikleyiciyi onaylamak için kapanıyor
+Uzun (Trend)
+1. Fiyatın, Boğa CSP ile herhangi bir PP'nin S/R'sine dokunması için geri çekilmesi gerekir
+2. Boğa CSP, BB'nin Orta/Alt Bandına dokunmalı veya altına kaçmalıdır
+3. Gizli Sapma
+4. Tetiği onaylamak için boğa CSP kapanışı
+Kısa (Trend)
+1. Fiyatın, Ayı CSP ile herhangi bir PP'nin S/R'sine dokunması için geri çekilmesi gerekir
+2. Ayı CSP, BB'nin Orta/Üst Bandına dokunmalı veya yukarı çıkmalıdır.
+3. Gizli Yakınsak
+4. Ayı CSP'si tetikleyiciyi onaylamak için kapanıyor
+Yukarıdaki görseli şu adreste bulabilirsiniz:26/Ağustos/2014, EURUSD Kazandıran bir işlem bulmak için bu kadar geri 
+çekilmeme gerek yok.
+1. Kutu: Boğa Engulfing W&R BB'nin Alt Bandı ve S1(bölge)'ye teması var ancak Düzenli Yakınsaklık 
+yok.
+Sonuç: Tetik YOK!
+2. Kutu: Kayan Yıldız BB'nin Üst Bandının üstünden kaçar ve Düzenli Diverjant ile R1(bölgesine) temas eder.
+Sonuç: Kısa Tetiklendi!
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Bu, neredeyse tüm gün menzilini alan ev koşularımdan biri08/08/2014, USDJP Y.
+1. Kutu: Boğa Harami W&R BB'nin Alt Bandı ve Düzenli Yakınsakla S2'nin Altında. 
+Sonuç: Uzun Tetiklendi!
+2. Kutu: Boğa Engulfing, Gizli Diverjan ile BB'nin Alt Bandına ve S2'ye dokunuyor.
+Sonuç: Uzun Süreli Tetiklendi!
+Yüksek Oranlar: CSP W&R veya BB'nin Üst/Alt Bandından kaçış, CSP, PP'nin S/R'sine (S2/R2 üzeri hariç) ve CSP'nin STO'nun 
+OB/OS'sine temas eder.
+Pozisyon boyutlarım 1 pip + 2 pip spread dahil olmak üzere 10 pip olarak sabitlenmiştir.
+CSP daha kısaysa, SL'im CSP'nin en yüksek/en düşük + spread'lerinde olacak. Paramı biriktir lol! (Çok cimri olduğumu biliyorum) CSP 
+daha uzunsa, sadece 10 pip içinde bir giriş bekleyeceğim veya biraz daha pip ekleyeceğim.
+Dikkat edin, SL'niz 1pip + spreadler dahil 15 pip'ten fazla olmamalı. (Risk : Ödül Nedeniyle)
+Kar Alımları giriş fiyatından itibaren 30 pip olarak sabitlenmiştir veolmayacak daha kısa/daha uzun CSP nedeniyle değişim.
+Home-run durumunda (İşlem içinde işlem): Eski 
+emrin SL'si yeni emrin SL'sine hareket eder. Eski 
+emrin TP'si yeni emrin TP'sine hareket eder.
+1 saatlik zaman diliminde ve üzerinde işlem yapacaksanız PP'ye gerek yoktur. Pozisyon 
+boyutlandırması tetikleyicinize göre yapılabilir, TP SL aralığınızın 3 katı olacaktır.
+SL'nin kaydırılması
+SLolmamalı Sayısal olarak kaydırılabilir (örn. X karı elde ettiğinizde Breakeven/1pip/x1 veya sözde psikoloji 
+00'lar seviyeleri '1.2000, 1.3000').
+SLolmamalı fiyatın SL'nize geri döneceği korkusundan dolayı kayabilir. Profesyonel olun!
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+SL'yi kaydırmanın doğru yolu Swings high/low'dur ancak herhangi bir swing değil. Ne kullanırsanız kullanın, 
+güçlü swing'lere ihtiyacınız var ve swing'in bozulmayacağından emin olmalısınız.
+Mantıksal bir sebep olmadan SL'yi değiştirmek, gerçek hedefinize ulaşmadan önce atılmanıza neden olacaktır.
+Yeni başlayanlara, hedeflerinin x2 veya x3'e kaç kez ulaştığını görmek için istatistik kaydetme amacıyla SL'yi 
+değiştirmemelerini önereceğim. Bu şekilde daha fazla güven kazanacaksınız.
+Kısmen TP
+Kaybetmekten bu kadar korkuyorsanız x2 karla %75'ten düşük bir oran almayı tercih edebilirsiniz. Durdurulursanız en azından biraz 
+kazanırsınız.
+3 ila 6 ay boyunca demo üzerinde pratik/ileri test yapın, tüm sorularınızı kaydedin ve bana spam gönderin.
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+9. Risk ve Para Yönetimi
+Sözde ticaret gurusu olanların çoğu, ticaretin tamamen risk ve para yönetimiyle ilgili olduğunu vurgular. Size işlem başına 
+%2'den fazla risk almamanızı, genel olarak %4'ten fazla risk almamanızı ve R&M yönetimi konusunun bu kadar olduğunu mu 
+söylüyorlar?? 1 dakikalık bir açıklama bile yok mu?? Ne hakkında konuştuklarını biliyorlar mı??
+Yeni başlayanlar iyi bir ticaretin nasıl seçileceğini bile bilmiyorken, o belirli ticarette ne kadar pompalanacağını cehennem 
+bilir lol.
+Özür dilerim, bunu her söylediğimde çok sinirleniyorum.
+İşlem yapmak için önerilen miktar:
+Forex = 3.000 dolar çünkü yüksek kaldıraç ve Mini'den Mikro'ya kadar küçültme imkanı (Pozisyon boyutlandırma)
+Vadeli işlemler = 50.000 dolar çünkü sözleşme boyutu pahalı
+Hisse senetleri = Az miktarda paranız varsa hisse senedi almayın çünkü günlük yemeğinizi kazanmanıza 
+yetmeyecektir. Peki ya ucuz hisse senetleri? Cevap Hayır hayır hayır!
+Önerilen kaldıraç:
+Brokerınızdan alabileceğiniz en yüksek miktar
+Ama Durun! Yüksek kaldıraç riskli değil mi?
+Hayır... Kaldıracı yalnızca marj amaçlarınız için kullanacaksınız, aşırı kaldıraç kullanmak için değil.
+Nasıl??
+Marjlar, açık bir pozisyonda olduğunuzda hesabınızda tutmanız gereken paradır. Kaldıraç oranınız ne kadar yüksekse, 
+tutmanız gereken marj da o kadar az olur, pozisyon boyutlandırması yaparken daha esnek olursunuz ve marj çağrısı 
+veya broker tarafından atılma konusunda endişelenmenize gerek kalmaz.
+1 Mikro = 1k birim
+1 Mini = 10k birim
+1 Standart = 100k birim
+Diyelim ki 1:1 kaldıracınız var ve 1 standart lot almak istiyorsunuz. Hesabınızda tutmanız 
+gereken marj şudur:
+100k birim / 1 kaldıraç * giriş fiyatı örneğin (1.4000) = 140k$
+Hesabınızın değeri 140 bin doların altına düşerse, aracı kurumunuz sizi otomatik olarak pozisyondan çıkaracaktır.
+Bazı brokerlar size sadece marjın %25 ila %50'sini korumanızı teklif edebilir.
+Örn. %25 = Sermayeniz 140.000$ * 0,25 = 35.000$ altına düşerse atılırsınız
+Ve şimdi 1:100 kaldıraç ve 1 standart lot için korumanız gereken marj şudur:
+100k birim / 100 kaldıraç * cari fiyat örneğin (1.4000) = 1.4k$
+Hesabınızın değeri 1.4 bin doların altına düşerse, aracı kurumunuz sizi otomatik olarak pozisyondan çıkaracaktır.
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Farklı brokerların farklı marj gereksinimleri vardır, bunu kontrol etmeniz gerekir.
+Marjı korumak sizin sorumluluğunuzdadır, brokerınızın değil!
+Aşırı kaldıraç kullanmamak için ne yapmalıyız?
+Örn. Hesabıma 3.000$ yatırdım
+Aracı kurumumun sunabileceği en yüksek kaldıraç oranı olan 1:400'deyim.
+Girebileceğiniz maksimum lot büyüklüğünü hesaplamanız gerekiyor:
+3 bin dolar bakiye * 400 kaldıraç = 1,2 milyon dolar
+Standart = 1,2 milyon dolar / 100 bin = 12 standart lot
+Mini = 1,2 milyon dolar / 10 bin = 120 mini lot
+Mikro = 1,2 milyon dolar / 1 bin = 1200 mikro lot
+Bunlar sadece kabataslak rakamlar, hesaplanan maksimum lot büyüklüğünüzü düşürecek güncel fiyatınız 
+olduğunu unutmayın.
+Ve sevgili dostum, lütfen 12 standart lota kadar işlem yapmayın.
+Aşırı kaldıraç kullanmamak için, günlük işlem yapıyorsanız işlem başına günlük risk miktarınızı takip 
+etmelisiniz.
+Swing için işlem başına sadece %1 kullanıyorum (maksimum 4 işlemle sınırlı = %4, 1 işlem kapandıktan sonra yenisini girebiliyorum ve 
+Pozisyon için işlem başına %2 çünkü çok fazla işlem yapamıyorum.
+Yani toplam risk yüzdem hesabımın %10'unu geçmeyecek.
+Swing & Position için, daha fazla zamanınız olduğu ve sadece mükemmel kurulumu yaptığınız için risk yüzdenizi anında 
+hesaplayabilirsiniz.
+Şimdi öncelikle Day veya Swing trading'e odaklanın, hangisini istiyorsanız onu yapın ama bunu teker teker yapın.
+Günlük işlemlerim için bazen biraz çılgınca olma eğilimi oluyor ve 15 dakikalık zaman diliminde işlem yaparken hızlı olmak istiyorsunuz, 
+günde %4'e kadar riskleri beklemede tutuyorum, normalde %4'e ulaşamıyorum (beklemede tutmak her zaman iyidir)
+Eğer bugün %4'ünüzü tam olarak kullanamadıysanız, bu yarın için ekleme yapabileceğiniz anlamına gelmez.
+Her gün yeni bir gündür = her gün yeni risk sadece %4
+Yani 3k * 0,04 = 120$ günlük maksimum kayıp
+Her gün %4'ünüzü yeniden hesaplamanız gerekecektir.
+Veya maksimum işlemlerinizi kaybettikten sonra yeniden hesaplamayı seçebilirsiniz(Tavsiye edilen).
+Yani %4'ünüzü kaybettikten sonra %4'ünüzü yeniden hesaplamanız gerekiyor.
+(Excel elektronik tablonuzu kullanın)
+Microsoft Office'iniz yoksa, 'Apache OpenOffice' adlı ücretsiz bir ofis indirin Google'da arayın. Tıpkı 
+MS Office gibi çalışır.
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Risk : Ödül
+Günlük biliyorum ama işlem başına ne dersin?
+Risk : Ödül oranlarınıza bağlıdır.
+R:R'niz 1:2 ise işlem başına 120$ / (1+2) = 40$. Üst üste 3 kayıp yaşadığınızda %4'ünüzü yeniden hesaplayın.
+R:R'niz 1:3 ise işlem başına 120$ / (1+3) = 30$. Üst üste 4 kayıp yaşadığınızda %4'ünüzü yeniden hesaplayın.
+Dikkat!
+Bir işlemde kazandığınızda, %4'ünüzü yeniden hesaplayın ve 1. işlemden başlayın çünkü daha yavaş kaybetmek ve en hızlı 
+kazanmak istiyoruz.
+Neden böyle bir hesaplama yapıyorsunuz?
+Bunun sebebi, R:R'niz 1:2 ise, 3 işlemden 1'inin kazançlı çıkması durumunda gününüzü kurtarabilmenizdir.
+3 galibiyet = 240$
+2 galibiyet = 160$
+1 galibiyet = 80$
+0 kazanç = 0$
+Yani sadece kar elde etmeniz gerekiyor:
+1 galibiyet / 3 işlem = 0,33 = başabaş noktasına ulaşma süresinin %33'ü
+%33'ten fazla = kazanıyorsunuz.
+R:R'niz 1:3 ise, %25'lik dengeye ulaşmak için 4 işlemden sadece 1'ini kazanmanız gerekir
+0 kayıp = -$0
+1 kayıp = -$40
+2 kayıp = -$80
+3 kayıp = -$120
+gün karı = 240$ - 0$ = 240$
+gün karı = 160$ - 40$ = 120$
+gün karı = 80$ - 80$ = 0$
+kaybedilen gün = 0$ - 120$ = -120$
+Yüksek oranlar elde etmek için yüksek riske inanmıyorum ve bana 10 pip'i SL 100 pip ile kazanmanın daha 
+kolay olduğunu söylemeyin. Bunu yapanlar piyasada kumar oynayanlardır.
+Yeni bir yatırımcı olarak, gelecekteki kazanma oranlarınızı asla bilemeyeceğiniz için risk-ödül oranlarınız her zaman 
+1:3 olmalıdır. R:R'nizi yalnızca yeterli deneyime sahip olduğunuzda ve tüm istatistiklerinizi topladıktan sonra 
+değiştirebilirsiniz ancak yine de R:R'niz 1:2'nin altında olmamalıdır.
+Şu negatif sayılandırma senaryosunu düşünün:
+Takoyaki, 3:1 oranını kullanırsa daha yüksek kazanma şansına sahip olabileceğini düşünüyor.
+3 galibiyet ve 1 mağlubiyetten sonra tekrar başa döndü, üstelik zaman kaybetmenin verdiği hayal kırıklığı ve bir mağlubiyet daha 
+almanın korkusu bu hesabı daha da zorlayacak.
+Tekrar denemeye devam etti ve bu sefer üst üste 9 galibiyet aldı, kendini şımartmak için parasını mutlu 
+bir şekilde çekti. 1 kaybı, 10. işlem kaybını unutup hesabını kazdıktan sonra, şimdi açığı kapatmak için 3 
+kez kazanması gerekecek ve harcamak için çektiği para aslında ilk yatırımıydı ve hiç de kârı değildi.
+Takoyaki para çekmek istediğinde her zaman şüphe duyacaktır çünkü her zaman kârların silinip yok 
+olma korkusuyla işlem yapar. Tek çözümü açığı daha fazla kazançla kapatmak veya cebinden para 
+eklemektir.
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Kazandığı 6 parayı hiç harcamasa ve açığı kapatmak için 3 parayla geri kazanmaya karar verse bile, yine de 1 
+kayıp daha yaşarsa başa döneceğinden korkuyor.
+Takoyaki, zarar etmemek için 4 işlemden her zaman %75 kazanmalı, işlemlerinde hata yapma lüksüne 
+sahip değil.
+Eğer bu tür bir tüccarsanız veya benim kumarbaz dediğim kişiyseniz, bu sektörde asla uzun süre kalamazsınız. Ve bana 
+güvenin, bu şekilde hesabınızı asla büyütemezsiniz.
+İyi R:R neden bu kadar önemlidir?
+1:3 ile hesabınızın zararını telafi etmek için sadece %25'lik bir kazanma oranına ihtiyacınız var. %25'ten fazla kazanırsanız, kârda 
+olursunuz. Doğru şekilde yaparsanız, hesabınız sonunda daha hızlı ve daha hızlı büyüyecek, bu nedenle başlangıçta çok az 
+kazanma konusunda endişelenmenize gerek kalmayacak.
+10 işlemden 1'ini bile 1:3 oranında üst üste kazanamıyorsanız lütfen benimle iletişime geçin. Piyasayı analiz etmeme yardım edin ve 
+işlemlerinizi yönünüzün tersine yerleştirerek para kazanmanıza yardımcı olayım. Sizin gibi yatırımcılara ihtiyacım var çünkü siz benim 
+altın kazanımsınız.
+Her zaman düşük riski hedefleyin ve daha yüksek kazanma oranlarına ulaşmak için TA becerilerinizi geliştirin.
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+10. Şanssız Ticaret
+İyi bir yatırım şansa bağlı değildir.
+Kumar = Paranızı masaya koyup şansınızın yaver gitmesini ummak. Piyasada kumar oynamak, ne 
+yaptığınızı bilmeden emir vermek veya planınızı bozmak anlamına gelir.
+Bir kişi ne yaptığını biliyorsa ve kumarhanede kazanmak için şansa bağlı değilse (örneğin, kart saymak, kartları 
+ezberlemek), kumar oynamıyor demektir.
+Ticaret yaparken veya başka bir şey yaparken,%101şanslı olup olmadığınızı düşünmeyin çünkü o seviyede 
+durdurulan tek kişi siz değilsiniz. İşleminizin 1pip tarafından durdurulması nedeniyle şanssız olmayı 
+düşünürseniz, kumar oynuyorsunuz demektir.
+Analizlerinize güvenin ve eğer her seferinde başarısız oluyorsanız, ya deneyimsizsinizdir, ya konuyu iyi kavrayamamışsınızdır 
+ya da konuyu yanlış kullanıyorsunuzdur.
+Birçok kişi psikolojik sebeplerden dolayı para kaybediyor, sürekli olarak günlük/aylık ne kadar kazanacağını düşünüyor veya stop out 
+olduktan sonra tekrar kaybetme korkusu yaşıyor ve kendilerine yardımcı olacak bilgiye ihtiyaçları olduğunu unutuyorlar.
+Ne yaptığımızı bilmeden paramızı masaya koymak istemiyoruz. İşlemlerimizin iyi sonuçlanmasını 
+ummuyor ve dua etmiyoruz. Kısayollar kullanmıyoruz.
+İşinizi iyi öğrenin ve matematiğinizi yapın, matematik deneyimsizlik yolculuğunuzda sizi kurtaracak ve 
+yine de biraz para kazandırabilir. Bu yüzden piyasayı net bir şekilde göremeden bile kar elde ediyorum.
+İstenmeyen riskler istemiyoruz, her zaman en yüksek oranları hedefliyoruz, bu nedenle bir işlemi onaylamak için 10 göstergeye 
+ihtiyacınız olsa bile planı takip edin.
+Eğer indikatörleri sevmiyorsanız ve sadece temiz ve net grafiklerle işlem yapmak istiyorsanız, Alfonso Moreno'dan 
+Talep ve Arz'ı öğrenmek isteyebilirsiniz @http://www.forexfactory.com/showthread.php?t=428204
+Çok tutarlıysanız ve yine de para kaybediyorsanız, stratejinizi tersine çevirin. İstatistikler önemlidir, böylece 
+oynamanın yollarını bulabilirsiniz.
+Sonuç olarak şunu bilmelisiniz ki her riskli işin, hatta en tehlikelisi olan Martingale yönteminin bile, 
+uygun bir çözümü vardır.
+İhtiyacınız olan sermayeye sahip olmadan işlem yapmadığınız sürece, işlem yapmak sizi iflas ettirmez veya parmaklarınızı 
+yakmaz.
+Örn. Singapur'da bir hisse senedi satın aldığınızda, aracınıza 3 gün içinde ödeme yapmanız gerekir; aksi takdirde satın 
+aldığınız hisse senedi otomatik olarak piyasaya geri satılır.
+Kar edersen sana verilir ama zarar edersen aradaki farkı ödemek zorunda kalırsın, yoksa aracı kurumun iflas 
+edene kadar seni dava eder.
+Bunu yapanlar parası olmayan kumarbazlardır, hisse senedinin fiyatının yükselip kendilerine kar getireceğini 
+umarlar ve iflas ederler.
+Bir hisse senedinin fiyatının 3 günde ne kadar hızlı hareket edebileceğini düşünüyorsunuz? Ya da ne kadar?
+Birçok şirket ve mağaza işletmesi konsinye oldukları için iflas etti. Konsinye, tedarikçilerin fiziksel stok 
+parasını borçlu olarak işletmelerin daha hızlı büyümelerine olanak tanıyan bir kaldıraç türüdür.
+Vay canına! Çok güzel!
+İki kere düşünün!
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Durgunluk döneminde tedarikçiler borçlarını ödemeye çalışacak ve ödeme yapamayan şirket/dükkan sahipleri iflas 
+edene kadar tedarikçileri tarafından dava edilecek.
+Şirketlerin/dükkan sahiplerinin kira, işgücü ve işletme giderlerini karşılamak zorunda olduklarını, aksi takdirde dükkanlarını kapatmak 
+zorunda kalacaklarını unutmayın.
+Dükkanı kapat = Para kazanamaz = Borçlarını ödeyemez = Öl
+Unutmayın, borcunuz olmadığı sürece iflas etmezsiniz ve sadece paranız olduğunda yatırım yaparsınız. Bu şekilde, 
+yolculuk stresiniz sadece para kazanmamak olur, aynı zamanda herhangi bir borcu ödeme konusunda endişelenmenize 
+gerek kalmaz.
+Eğer bu kadar fakirseniz, MacDonald'a gidip çalışın ve para biriktirin çünkü para biriktirirken öğrenmeye de başlayabilirsiniz. Elleri 
+ve bacakları olan insanların iş bulamayacağına inanmıyorum.
+Seçici olmayın, bulabildiğiniz herhangi bir işi alın ve geçebileceğiniz daha iyi işler arayın. Günde 10 dolar 
+kazanmak hiç yoktan iyidir!
+Peki ya giderek daha fazla insan aynı stratejiyi kullanıyorsa? İyi mi? Yoksa çok fazlası iyi değil mi?
+Eğer bu gerçekleşirse, herkes aynı anda piyasaya girmeye çalışacağından ve girişler veya çıkışlar ne olursa olsun, her şey ne kadar 
+hızlı olabileceğinize bağlı olacağından, çok fazla kontrol edilemeyen yüksek kaymalar yaşanacaktır.
+Aynı stratejiyi kullanan kişiler TP'ye ulaştıklarında bunu başaramayabilirler ve fiyat SL'sini bulmak için 
+dönebilir.
+Bazılarının sektöre girme veya sektörden çıkma şansı bile olmayabilir.
+Çok sayıda insan aynı şeyi yaparsa, grafikte tonlarca keskin artışlar oluşur ve bir işleme girmeniz için 
+hiçbir tetikleyici olmaz. Strateji, piyasa koşulları normal döngüye dönene kadar ortadan kalkar.
+Nasıl anlatacağımı bilmiyorum, sadece kabataslak bir açıklama.
+Ama merak etmeyin, bu bizim neslimizin sorunu değil çünkü bizim zamanımızda olmayacak.
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+11. Brokerlar
+Size herhangi bir aracı kurum öneremem çünkü yurtdışındaki hesaplarımı Singapur'daki enstitüler adına 
+açtım ve istediğim zaman paramı çekebileceğime dair çift garantiye sahibim.
+Her zaman düzenlenmiş bir hesabınız olsundoğrudan bu düzenleme kurullarından biri olan 'NFA, CFTC, ASIC veya FCA' 
+tarafından. Mauritius tarafından düzenlenen hiçbir broker'a gitmeyin çünkü offshore'durlar.
+Doğrudan='Örneğin ASIC' tarafından düzenlenen bazı jokerler aracılığıyla değil. Fxprimus'un HLK Group Pty Ltd aracılığıyla ASIC'e 
+geçmesi gibi.
+Eğer lisansı doğrudan alamıyorlarsa bu onların kötü olduğu anlamına gelir. Çok fazla konuşmanıza veya daha fazla 
+güvenlik için paranızı başka bir yere koymaya gerek yok. SON.
+İhtiyacınız olan şey aracı kurumunuzdan paranızı çekebilmenizdir.
+Aracı kurumların sizinle oyun oynamasından endişe etmeyin çünkü aracı kurumlar sizin birkaç bin dolarınızı 
+umursamaz.
+Aracı kurumların piyasa fiyatını 1k veya 10k SL'nize çıkarmak için milyonlarca dolar harcayacak kadar aptal olduğunu mu 
+düşünüyorsunuz?
+Aracı kurumların, sizi durdurmak, kurumsal müşterileriyle başınız derde girmesine ve düzenleme kurulu tarafından soruşturulmasına yol 
+açmak için spread'leri genişletecek kadar aptal olacaklarını mı düşünüyorsunuz?
+Hangi broker'a giderseniz gidin, düzenlemeye tabi olsun veya olmasın, işlem masası olsun veya olmasın, istikrarlı bir kar 
+elde edene kadar her zaman önce B defterine geçersiniz, daha sonra sizi kesin STP olan A defterine aktarırlar.
+Hala güvensiz hissediyorsanız, Singapur brokerlarından hesabınızı açın. Her ne kadar Sg'nin tüm brokerları piyasa 
+yapıcı olsa da, Singapore Exchange (SGX) paranızı çekebileceğinizi garanti eder ve Sg'nin brokerları kesinlikle 
+komik şeyler yapmalarına izin vermez ve kayma sırasında maksimum kayıplar sınırlıdır.
+Evet, SGX yukarıda adı geçen tüm düzenleme kurullarından daha katıdır.
+Hisse senetleri ve vadeli işlemler için Sg'nin brokerlarını kullanıyorum çünkü Forex için yüksek kaldıraç gerekiyor ve Sg'nin 
+brokerları bunu sağlayamıyor (maksimum 1:50).
+Yurtdışı brokerlar için, bazı kepçe dükkanları kendilerinin düzenlendiğini iddia edebilir ancak düzenlenmemiştir. Çift onay 
+için düzenleme kurullarını aramaktan veya e-posta göndermekten korkmayın.
+Bonus, ilk yatırımınızı iki katına çıkarma, 0 spread veya çok yüksek kaldıraç gibi iyi tekliflere 
+kanmayın.
+Sadece kontrol ettikten sonra tekliflerine gidin! Şartlar ve koşullar geçerlidir! kontrol edin, kontrol edin, kontrol edin!
+Düzenlemeyi, lisansı, politikayı, marjı, marj çağrısı, stop out seviyesini, kaldıracı (bazıları hesabınız belirli bir miktarı 
+aştığında kaldıracınızı değiştirebilir), spreadleri, para yatırma ve çekme ücretlerini ve yöntemlerini kontrol edin.
+Paypal ve Skrill iyidir. Asla Kredi/Banka Kartları kullanmayın, Paypal/Skrill üzerinden brokerınıza borç ve banka kartı 
+kullanmak istiyorsanız lütfen banka hesabınızı boş bırakın, brokerınıza asla doğrudan transfer yapmayın.
+Ödevini yap! Politikaları okumak için tembel olma!
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+12. Dolandırıcılıklardan Kaçının
+"Gurular" nereden olursa olsun,ASLA Paranı herhangi birinin cebine koy!
+Dolandırıcılıklardan kaçınmak o kadar da zor değil ama çoğu zaman insanlar açgözlülükleri yüzünden dolandırıcılıklara ve kurslara 
+yöneliyorlar.
+Bu dolandırıcılar, kendilerini çok akıllı sanan insanları dolandırmak için çok ikna edici yöntemleri ve yeni nesil 
+dolandırıcılık yöntemleri olan 'İkna edici olmayan çok ikna edicidir' yöntemi ile ortaya çıkacak kadar kirlidirler.
+Hikayeleri doğru olsun ya da olmasın, onları dinlemekten keyif alıyorum ama asla inanmayacağım.
+Ve bana bunların hepsini nasıl bildiğimi sormayın, çünkü onların derslerine katılmadım. Ben sadece bunları öğrenmek için kendi yöntemlerimi buldum.
+Aşağıdakilere aldanmayın:
+Kar ve Zarar (K&Z) –Eğer size Kâr ve Zarar tablolarını göstereceklerse, bunları canlı olarak ve doğrudan işlem platformlarından 
+göstermelerini isteyin, görüntü olarak değil!
+Tüm kayıplarımı düzenleyip 'Paint' adlı basit bir araçla size göstermek için kara dönüştürebilirim. Eğer bilmiyorsanız, 
+bilgisayarınızda 'Paint'i arayın.
+Demo Hesapları–Bazı brokerların MT4 platformlarının başlık kısmında 'Demo' yazmıyor.
+Onaylamak için, onlardan 'Gezgin'lerine tıklamalarını ve 'Hesaplar' altında kontrol etmelerini isteyin
+Demo hesabının numarası çoğunlukla çok sayıda rakamdan oluşur, belki 7, 8 veya daha fazla çünkü birçok kişi 
+denemek için demo hesabı açıyor. Öğrencilerim için ücretsiz demo akışı açabilirim lol.
+İndirimler–Size sadece havadan bir fiyat seçip kurslarının 10 bin, 20 bin, 50 bin ve hatta 100 bin olduğunu 
+söylüyorlar, daha da acıklısı, yaptıkları indirimle kurs ücretlerini 5 bin veya daha aza indirecekler.
+Hadi canım?? Bu hala piyasa fiyatından yüksek mi?
+Ücretsiz şeyler–Sonunda diğer şeyler için ödeme yapmanız gerektiğinde hiçbir şeyi bedavaya alamazsınız.
+Tanıklar–Bana yalan söylememde yardım edecek birini bulmak veya ona para ödemek neden bu kadar zor?
+Bazıları video, bazıları ise canlı tanıklar içeriyor, örneğinPowerUp Capital'den Kishore M .
+Yeniden oturum–Dilediğiniz zaman ders tekrarı için ücretsiz akış alabilirsiniz.
+Yeni öğrenciler için öncelik hakkına tabidir. Onları aradığınızda, çok fazla yeni öğrenci olduğu için boş yer 
+olmadığını söyleyerek sizi azarlayacaklardır.
+Ve unutmayın, sözde ucuz kurslarına katılanlar, size de tekrar sınava girebileceğinizi göstermek için sadece 1 önceki 
+öğrencinin tekrar sınava girmesine izin verecekler. Yüksek sesle 'Tekrar sınava girecek 1 öğrencim var' diye bağıracaklar ve 
+onu diğerlerine gösterecekler. Bulanık öğrenci, eşyalarını satmaya yardımcı olmak için kullanıldığını bilmiyordu.
+Mülkiyet Sahibi Tüccar Kiralama–Dolandırıcılar genellikle bu terimi, ücretsiz kurslarına katılmanızı ve kendi destekçileri 
+olmanızı söylemek için kullanırlar.
+Lütfen imzalayacağınız sözleşmeyi, Şartlar ve Koşulları veya her neyse onu okuyun!
+Şartlar ve koşullar, eğer kurstan sonra bizim destek tüccarımız olmamaya karar verirseniz, ****k olan kurs ücretini ödemek 
+zorundasınız.
+İyi duyuldu mu? Daha fazlası var!
+Eğer şirket tarafından sponsor tüccarı olmanız reddedilirse, YİNE DE ÖDEME yapmak zorunda kalacaksınız!
+Bu, kullanılan hilelerden biridirNorne Trader'dan Linus .
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Kazanma Stratejileri–Ne dediğimi hatırlıyor musun?
+VarHAYIR%100 kazanma stratejisidir ve gelecekteki kazanma oranını tahmin edemezsiniz.
+%100 veya %99,99 gördüğünüzde, kapıdan çıkıp gidebilirsiniz. Bu şakacılar muhtemelen size Martingale yöntemini 
+veya başka bir katlama yöntemini öğreteceklerdir. Katlamak için paranız yoksa, bu onların hatası değildir.
+Çoğu size kazanma oranlarının %70 civarında olduğunu söyleyebilir, ikna edici olmayabilir ancak bunun mümkün 
+olduğunu düşünmenizi sağlar ve gerçek gibi görünür.şimdiye kadar yapıyorlar. Peki ya daha sonra? Peki ya yeni 
+başlayan biriyseniz? Hala %70 alabilir misiniz?
+Risk/Ödül–Singapurlu bir ticaret gurusu medyada sadece 1:2'ye gittiğini ancak kursunda SR'lerin erken kar almanızı 
+sağlamak için kullanıldığını ve bunun da acınası bir şekilde (Risk 1: Ödül 0,8) veya 1:1.x ile sonuçlandığını belirtti.
+Uzun vadede hayatta kalmak mı istiyorsunuz? Bu tür bir R:R ile? %80 kazanmak kayıplarınızı karşılamaya veya size bir öğün 
+kazandırmaya yetmez.
+Risk %–Hiç kimse size içgüdülerinize veya işlem başına hislerinize dayanarak istediğiniz miktarı riske etmeniz gerektiğini söyleyemez.
+Bu, size dolaylı olarak, her zaman kötü ticarete daha fazla para yatırırsanız bunun çok kötü olduğunu söylemiyor mu?
+Bazı yatırımcılar içgüdülerini kullanabilirler ancak yeni başlayanlar piyasayı hissedemez ve profesyoneller de içgüdülerine 
+göre hareket etmezler!
+Yöntemler–Başka bir Singapurlu ticaret gurusu ne yaptığını öğretmiyor bile çünkü çok az bilgisi var, planı yok, 
+içgüdülerine göre işlem yapıyor ve kayıplarını ikiye katlıyor. Öğrettiği şeyler temelde internetten ücretsiz ve 
+öğrencilerden birleştirmek istedikleri göstergeleri seçmelerini ve kendi kurallarını çıkarmalarını istiyor.
+Trend yatırımcısı olduğunu ancak Hareketli Ortalamayı bile düzgün bir şekilde öğretemediğini söyledi? 'Crossover, 
+atlarsın ancak MA'nın burada ve orada kesiştiğini görürsen, piyasadan uzak durursun' ve o zamana kadar, gerçekten 
+piyasadan uzak kalabilirsin çünkü zaten tüm paranı kaybetmişsindir ve artık işlemlere giremezsin. Girebilsen bile, gerçek 
+trend yatırımcıları gibi kayıpları bile karşılayamazsın.
+Asistanı Fibo ve CSP kullanıyor, Fibo çekmeyi bile öğretemiyor mu? CSP'ye bile öğretemiyor mu? Kayıpları konusunda sessiz 
+kalıyor ve fiyat 423.6'ya ulaştığında Fibo çekmesini FB'de mutlu bir şekilde paylaşıyor mu?
+Öğrencilerin çok fazla kayıp yaşadığını gören öğretmen, komik bir yöntemle ortaya çıkıyor ve öğrencilerin bu yöntemi takip etmelerini 
+istiyor, bu da kötü R:R'ye yol açıyor ve öğrencilerin yine kayıplar yaşamasına neden oluyor.
+Sınıfında kurallara sıkı sıkıya uyan öğrenciler bile para kazanamıyor.
+İkisi de zararlarını ikiye katlayacak kadar zengindi ve asistanı da ders veremeyeceğini söyledi.
+Peki, eğer öğretemiyorsan neden oradasın? Vadeli İşlemler dersini bile idare edemiyorsun ve yine de Forex 
+Kursunu çıkarıyorsun?
+Bir eğitmen, öğrettiğini kullanmazsa asla doğru öğretemez!
+Alıntılar– ''Eğer sana ödeme yapmazsam, öğrenme konusunda asla ciddi olamazsın.' Bu sözü sık sık duyuyor musunuz?
+Aslında bu oldukça doğru ama eğer tutku meyvemi öğretmek için aldıysam, senin ciddi olup olmadığın kimin umurunda. Sana 
+şans verdim ve sen zamanını ve benim zamanımı harcamak istiyorsun, öyle olsun.
+Sonuç olarak, öğretmekten hala keyif alıyorum ama zamanını ve fırsatını boşa harcayan sensin, çünkü ben üçüncü bir şans 
+vermiyorum.
+Tüm bunları okuduktan sonra, kimseye güvenemeyeceğinizi mi düşünüyorsunuz? Evet! Aslında!Kendinize güvenin ve kendinizi öğrenin!
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+13. İpuçları ve Püf Noktaları
+MT4 Platform
+Alım & Satım Hattı:
+Araçlar > Seçenekler > Grafik sekmesine tıklayın > 'Soru satırını göster' seçeneğini işaretleyin
+veya
+Grafiğinize sağ tıklayın > Özellikler > 'Soru satırını göster' seçeneğini işaretleyin
+Bundan sonra yukarıdaki görselde görüldüğü gibi toplam 2 canlı fiyat çizgisini görebilirsiniz.
+Her zaman Üst çizgiden ALIM yaparsınız ve Alt çizgiden SATIŞ yaparsınız.
+Çizgi, Çubuk ve Mum Grafiğinizin geçmişleri SATIŞ çizgisine göre oluşturulur. Bu nedenle, önceki 
+spreadleri göremezsiniz çünkü SATIN AL çizgisi geçmiş oluşturmaz.
+Alış ve Satış çizgileri arasındaki fark spread'dir.
+örneğin, 1.0010'dan SATIN AL/ 1.0000'den SL/ 1.0030'dan TP
+İşleminizi kapatabilmeniz için Satış hattınızın SL veya TP'nize değmesi gerekir.
+Çünkü aldıktan sonra geri satmanız gerekiyor.
+İlk satış için tam tersi geçerlidir.
+Yani spreadlerin kurbanı olduğunuzda ne olduğunu biliyorsunuz. Lols!
+Pozisyon Boyutlandırma (Hacim):
+Tek Tıkla İşlem ve Sipariş iletişim kutusundaki Hacim (0,00)
+1.00 = 1 Standart Lot/pip = 10$/pip
+0,10 = pip başına 1 Mini Lot = $1/pip
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+0,01 = 1 Mikro Lot/pip = 0,10$/pip
+ve (1.00) DEĞİL = 1.00$/pip
+Piyasaya girmeden önce hacminizi iki kez kontrol edin! Rakamlar sıçrayacak ve yanlış lot büyüklüğü girmenize neden 
+olacaktır.
+Her zaman vurgulayın ve yeniden yazın.
+1 mikro girmek istiyorsanız, vurgulayın ve yazın. sonra 0 sonra 1
+Fikrinizi değiştirirseniz vurgulayıp yeniden yazın, kısayollar kullanmayın!
+Araç Çubuğunu Özelleştir:
+Araçlara sağ tıklayın > Özelleştir > Özelleştirme araç çubuğu görünecektir.
+İhtiyacınız olmayanları çıkarabilir veya isteğinize göre düzenleyebilirsiniz.
+Crosshair'i kaldırıp, farenizin kaydırma tuşuna tıklayarak Crosshair'i kendiniz eğitmek isteyebilirsiniz.
+Özelleştirme araç çubuğu kategorilere göre sıralanmıştır. Zaman dilimini kaldırmak istiyorsanız Özelleştirme araç 
+çubuğunuz için zaman dilimi kategorisine sağ tıklayın.
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Tabloyu Ayır:
+Grafikleri ayıramazsınız ancak 'Piyasa İzleme, Veri Penceresi, Navigatör, Terminal'i ayırabilirsiniz, sadece 
+sürükleyip çıkarın.
+IBFX ayırma çizelgesi betiğini indirmeyi aklınızdan bile geçirmeyin. Betikte birçok sorun var.
+Fibonacci Araçları:
+Aşağıdaki farkı fark ettiniz mi? Varsayılan (Sol) yalnızca Fibo % oranlarıyladır.
+Sağdaki görsele Fiyat % olarak eklenmiştir.
+Aşağıdaki resim Fibo Özelliklerini gösterir, sadece bir Fibo çizin ve kırmızı noktalı çizgiye sağ tıklayın. Sağ 
+tıklamadan önce kırmızı noktalı çizgideki küçük sarı kare kutuyu görebildiğinizden emin olun.
+Seviye – % grafiğini satırlara göre değiştirmenizi sağlar.
+Satırlarda Fiyat gösterilmesi için – Her bir açıklama için %$ ekleyin. 0.0 ile %$ arasına eklenen boşluk, tire 
+veya eşit değer hiçbir şeyi etkilemeyecektir, sadece boşluk oluşturma amaçlıdır.
+Telif Hakkı Yok 2014 – Sol veya Sağ Saklı Değil
+~İstediğiniz Kadar Kopyalayın~ www.forexgercekleri.xyz - [Twitter: @eseckal]

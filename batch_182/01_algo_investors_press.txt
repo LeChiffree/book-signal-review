@@ -1,0 +1,3579 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 26\Baskı 26\Adım Adım Algoritmik Trading Rehberi - Investors Press (118 sayfa) - @eseckal.pdf
+PAGES: 118
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+giriiş
+Investors Press Kimdir? Neden Bize 
+Güvenmelisiniz? Bölüm Özeti
+Bölüm 1: Algoritmik Ticaretin Temelleri
+Algoritmik Ticaret Nedir? 
+Algoritmik Ticaret Nasıl Çalışır?
+Algoritmik Ticaretin Avantajları ve Dezavantajları Manuel 
+Ticaretten Algoritmik Ticarete Geçmeli Misiniz? Bölüm 2: 
+Algoritmik Ticaret Gereksinimleri
+Donanım Gereksinimleri
+Yazılım Gereksinimleri
+Bir İşlem Platformu Seçimi 
+Bilgi Gereksinimleri
+Bölüm 3: Algoritmik Ticarete Başlarken
+Bir Ticaret Algoritması Geliştirmeye Başlamadan Önce 
+Dikkat Edilmesi Gereken Temel Hususlar Bölüm 4: 
+Algoritmik Ticaret Stratejileri
+Algoritmik Ticaret Stratejisi Fırsatları 
+Algoritmik Ticaret Stratejileri
+Bölüm 5: Algoritmalarınızı Değerlendirme ve İzleme
+Algoritmanızı İzleme ve İşlem 
+Stratejilerini Değerlendirme 
+Bölüm 6: Risk Yönetimi
+Riskler
+Risk Yönetimi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Yeni Başlayanların Yaptığı Yaygın Hatalar ve Bunlardan 
+Nasıl Kaçınılır Bölüm 7: Ek Kaynaklar
+(Algoritmik) Ticaret ve Yatırım Bilgisayar ve 
+Programlama Kaynakları
+Çözüm
+Önemli Çıkarımlar
+Son Düşünceler
+Referanslar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+giriiş
+"Hem ticarette hem de hayatta kazanmak için iki temel kuralım var: 1) Eğer yapmazsanız,
+Bahis yaparsan kazanamazsın. 2) Tüm fişlerini kaybedersen bahis yapamazsın.”
+- Larry Hite tarafından
+Hisse senedi ticareti onlarca yıl boyunca zenginlik ve ayrıcalık kapısının 
+ardında kilitli kalmıştı. Çevrimiçi işlem platformları ve indirimli 
+brokerların piyasaya sürülmesiyle bu kapı açıldığında, borsaya çok 
+sayıda yeni yatırımcı ve yatırımcı girdi.
+İndirimli brokerların ve çevrimiçi işlem platformlarının piyasaya 
+sürülmesi birçok yönden ferahlatıcı bir gelişmeydi. Piyasayı açtı ve 
+küresel ekonomimizi canlandırdı. Ayrıca, biraz nakit parası ve internet 
+bağlantısı olan herkese servetlerini büyütme fırsatı verdi.
+Ancak, ticaret ve yatırıma yeni başladığınızda, finansal yatırım dünyası 
+oldukça bunaltıcı olabilir, özellikle de indirimli aracı kurumlarda olduğu 
+gibi çok fazla rehberlik almadan başlıyorsanız.
+Sonuçta, yeni başlayan biri olarak neye, nasıl ve ne zaman yatırım 
+yapacağınızı nasıl bileceksiniz? Yeni bir işe giriştiğimizde çoğumuzun 
+yaptığı ilk şey biraz araştırma yapmaktır.
+Google'dan önceki zamanlarda araştırma yapmak, genellikle büyük metinlerin üzerinde 
+çalışmak ve kütüphanede tozlanmak anlamına geliyordu. O günlerin çoktan geride kaldığını 
+söylemekten mutluluk duyuyoruz.
+Giderek daha karmaşık hale gelen teknolojik gelişmelerle, alım satım artık göz 
+korkutucu bir görev olmak zorunda değil. Günümüzde, yeni başlayanların 
+ayakları üzerinde durmalarına yardımcı olmayı amaçlayan kağıt yatırım 
+hesapları ve çevrimiçi web seminerleri mevcut.
+Finans piyasalarında biraz dolaştığınızda, çok sayıda ticaret tekniği, 
+yöntemi ve stratejisiyle karşılaşacaksınız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Finans piyasalarıyla etkileşim kurarken kullanabileceğiniz yöntemler ve 
+stratejiler her şekil ve boyutta mevcuttur ve her uzmanlık seviyesine 
+uygundur.
+Eğer teknolojiye biraz daha hakimseniz ve ticaret ve yatırıma atılmak 
+istiyorsanız, algoritmik ticaret finans piyasasında gezinmenin 
+mükemmel yolu olabilir.
+Bu kitabı okuyorsanız, büyük ihtimalle algoritmik ticaret hakkında bir 
+şeyler duymuşsunuzdur ve bunu olası bir ticaret ve yatırım yolu olarak 
+keşfetmekle ilgileniyorsunuzdur.
+Ancak finansla ilgili her şeyde olduğu gibi, işe girişmeden önce 
+araştırma yapmanız gerektiğini biliyorsunuz.
+İşte tam bu noktada devreye biz giriyoruz.
+Bu kitap, algoritmik ticaretin temellerini ele almayı ve yatırım portföyünüzü yönetme 
+aracı olarak algoritmik ticareti kullanmanıza yardımcı olmayı amaçlamaktadır. 
+Algoritmik ticaretin manuel ticaretten daha iyi olup olmadığı ve algoritmik ticaretin işe 
+yarayıp yaramadığı gibi soruları yanıtlamak için buradayız.
+Kısacası, bu kitap algoritmik ticaret konusunda kısa bir kurs niteliğindedir ve algoritmik 
+ticaretin temelleri, kullanımları, riskleri ve faydaları ve nasıl başlayacağınız gibi konuları 
+ele almaktadır.
+Ayrıca, algoritmik stratejiler geliştirme konusunda temel bir kılavuz, 
+başlangıçta uygulamanız gereken en iyi uygulamalar ve bu kitaptan 
+ihtiyacınız olan her şeyi edindikten sonra inceleyebileceğiniz ek 
+kaynaklar da içeriyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Investors Press Kimdir? Ve Neden Bize 
+Güvenmelisiniz?
+Şimdi ne düşündüğünüzü biliyoruz. Bu yazar kim? Finans ve ticaret 
+hakkında ne biliyor?
+Ve bu soruları sorma hakkınız kesinlikle var. Biz, yatırımcılara ve 
+yatırımcılara kaynak sağlama konusunda uzmanlaşmış bir yayın şirketi 
+olan Investors Press'in arkasındaki ekibiz.
+Varlık ticareti üzerine çalıştık ve ele aldığımız farklı konularda uzmanlarla 
+birlikte kapsamlı araştırmalar yaptık. Deneyimimizin, yatırım ve ticaret 
+yolculuğunuzda başarıya ulaşmanıza yardımcı olacağını umuyoruz. 
+Algoritmik ticaret konusunda kapsamlı ve kapsamlı bir çalışma yaptık ve bu 
+zorluğun üstesinden gelmeye istekliyseniz, bunun cephaneliğinize 
+ekleyebileceğiniz harika bir araç olabileceğini düşünüyoruz.
+Bu kitabı, yeni başlayanlar için faydalı bir kaynak olması ve algoritmik ticaretin 
+karmaşık konusunu basitleştirmesi amacıyla yazdık. Ayrıca, yeni başlayanların ticaret 
+dünyasında gezinmelerine yardımcı olacak bir rehber görevi görmesini de amaçladık.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Bölüm Genel Bakışı
+Konuya girmeden önce, bu kitabın sunduklarına dair kısa bir genel bakış sunalım:
+Bölüm 1algoritmik ticarete giriş niteliğindedir. Bu bölüm, algoritmik ticaretin 
+temellerini, nasıl çalıştığını ve yatırımcılar ve yatırımcılar tarafından nasıl 
+kullanıldığını ele almaktadır.
+Bölüm 2algoritmik ticareti uygulamaya başlamak için bilmeniz ve 
+öğrenmeniz gerekenleri ele alıyor. Bu bölümde, ihtiyaç duyacağınız 
+ekipman ve yazılım türlerinin yanı sıra edinmeniz gereken becerileri de 
+ele alacağız.
+Bölüm 3Algoritmik ticarete başlama adımlarını ele alıyor ve kendi algoritmanızı 
+ve ticaret stratejinizi nasıl geliştireceğiniz gibi konuları ele alıyor. Ayrıca, 
+algoritmaları ve stratejileri test etmenize yardımcı olmaya odaklanıyor.
+Bölüm 4Algoritmik ticarette kullanılan yaygın ticaret stratejilerini sunar. 
+Ayrıca, ticaret ve arbitraj fırsatlarının nasıl bulunacağına dair ipuçları da 
+sağlar.
+Bölüm 5Algoritmanızı güncel ve güncel tutmanıza yardımcı olmaya odaklanıyor; 
+bu, piyasanın ne kadar hızlı değiştiği göz önüne alındığında özellikle önemli. Bu 
+bölüm ayrıca, verimliliğinizi korumak için işlem stratejinizi nasıl 
+değerlendireceğinize dair ipuçları da sunuyor.
+Bölüm 6risk yönetimini ele alıyor ve algoritmik ticaretle birlikte gelen 
+riskleri belirlemenize ve bunları nasıl yöneteceğinize yardımcı olmayı 
+amaçlıyor.
+Son olarak,Bölüm 7Algoritmik ticaret konusundaki bilginizi geliştirmek 
+isterseniz erişebileceğiniz ek kaynakları özetlemektedir. Bu bölümde, 
+hemen başlamak isterseniz bu kaynaklara bağlantılar da ekledik.
+Artık neyle karşılaşacağınızı bildiğinize göre, başlayalım!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Bölüm 1:
+Algoritmik Ticaretin Temelleri
+Algoritmik ticaret, finans piyasalarında işlem yapmanın birçok 
+yönteminden biridir. Ancak çoğu ticaret yönteminde olduğu gibi, 
+algoritmik ticareti uygulamak ve onu uygulanabilir bir yatırım yöntemine 
+dönüştürmek zaman, sabır ve pratik gerektirir.
+Çoğu işlem yöntemi gibi, algoritmik işlem de benzersiz bir beceri seti 
+gerektirir. İşlem ve yatırım konusunda bilgili olmanın yanı sıra, kodlama ve 
+programlama becerisine de sahip olmanız gerekir.
+Ancak algoritmik ticaretin lojistiğine girmeden önce, öncelikle temelleri 
+bilmeniz gerekir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Algoritmik Ticaret Nedir?
+Peki algoritmik ticaret nedir?
+Basitçe ifade etmek gerekirse, algoritmik ticaret (otomatik ticaret olarak 
+da bilinir), bir işlem gerçekleştirmek için bir dizi talimat verilmiş bir 
+bilgisayar programından yararlanır. Özünde, algoritmik ticaret finansal 
+ticarete sistematik bir yaklaşımdır.
+Bilgisayar programı, bu talimatları (algoritma) kullanarak, işlemleri biz 
+insanların ulaşamayacağı bir hız ve sıklıkta gerçekleştirebilir. Bilgisayar 
+programı, programın nasıl davranması gerektiğine dair tanımlanmış bir 
+dizi talimat ortaya koyan matematiksel bir denkleme veya algoritmaya 
+dayanır (Seth, 2021).
+Bu talimatlar, hangi finansal enstrümanla işlem yapılacağı, işlem yapılacak 
+fiyat noktaları ve işlem yapılması gereken miktar gibi ayrıntıları içerir. Bu 
+algoritmalar genellikle matematiksel modellerle birlikte karmaşık 
+formüllerden oluşur (Chen, 2019). Ancak, algoritmik ticaret otomatik olsa 
+da, özellikle finansal trendlerin ve piyasaların ne sıklıkla değiştiği göz 
+önüne alındığında, yine de insan müdahalesi gerektirir.
+Algoritmik ticareti tanımlayan otomatik fonksiyon nedeniyle, bu yöntem genellikle 
+yüksek hacimli, yüksek frekanslı yatırımcılar tarafından kullanılır.
+Algoritmik ticaret, New York Borsası'nın Belirlenmiş Emir Dönüşümü 
+(DOT) sistemini uygulamaya koyduğu 1970'lerin ortalarında ortaya çıktı. 
+DOT sistemi, emirlerin yatırımcılardan borsada bulunan uzmanlara 
+yönlendirilmesini içeriyordu (Chen, 2019).
+Unutmayın, 1970'lerin ortalarında, çevrimiçi ticaretin lüksü henüz 
+ortaya çıkmamıştı ve bu nedenle ticaret borsaları genellikle fiziksel 
+konumlardı.
+Yıllar geçtikçe ve teknoloji geliştikçe, elektronik ticaret yaygınlaştı ve 
+2009 yılına gelindiğinde Amerika Birleşik Devletleri'ndeki tüm işlemlerin 
+%60'ından fazlası elektronik olarak gerçekleştiriliyordu (Chen, 2019). 
+Günümüzde elektronik ticaret yaygınlaşmıştır. İndirimli aracılar ve 
+çevrimiçi aracılar giderek yaygınlaşmaktadır.
+Algoritmik ticaret de bir istisna değil. Çok sayıda programcı var.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Ek gelir elde etmek için algoritmik ticaret kodu yazanlar. Ancak, yüksek 
+hızlı internet ve hızlı bilgisayarların yaygınlaşmasıyla birlikte, algoritmik 
+ticaret neredeyse herkesin edinebileceği bir beceri haline geldi.
+Yapay zekâ (YZ) ve makine öğreniminin ortaya çıkmasıyla birlikte, 
+bilgisayar programcıları artık derin öğrenme adı verilen bir süreçle 
+kendilerini geliştirebilen ve güncelleyebilen algoritmalar oluşturabiliyor. 
+Bu, insan müdahalesine olan ihtiyacı azaltıyor ve algoritmanın piyasa 
+trendlerine uyum sağlamasını sağlıyor (Chen, 2019).
+Ancak teknoloji finansal ticareti ne kadar kökten değiştirmiş olsa da, 
+algoritmik ticaret gibi otomatik sistemleri kullanırken ticaret ve yatırım 
+profillerinizi takip etmenizi öneririz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Algoritmik Ticaret Nasıl Çalışır?
+Daha önce de belirttiğimiz gibi algoritmik ticaret, özünde talimatları 
+izleyen bir bilgisayar programıdır.
+Örneğin, aşağıdaki talimatı almış bir program kurduğunuzu varsayalım:
+1. 50 günlük hareketli ortalama 200 günlük hareketli ortalamayı 
+aştığında 20 adet hisse senedi satın alın.
+2. 50 günlük hareketli ortalaması 200 günlük hareketli ortalamasının 
+altına düşen hisseleri satın.
+Bu oldukça basit bir talimat dizisidir ve bilgisayar bu talimatlara göre 
+işlem yapacaktır. Program, hisse senetlerinin fiyatını otomatik olarak 
+izler ve bir işlem gerçekleştirmeden önce bu hisse senetlerinin hareketli 
+ortalamasının talimatlarda belirtilen kriterleri karşılamasını bekler.
+Bu biraz fazla basit görünebilir, çünkü öyle. Algoritmik ticaret, tüm 
+işlemlerinizi sizin adınıza yapacak bir bilgisayar programı 
+oluşturmaktan çok daha fazlasını gerektirir. Sadece bir program 
+oluşturmak, gelirinizi artırmada etkili olacağı anlamına gelmez.
+Algoritmik ticaret, çalışmak, çabalamak gerektirir.
+Algoritmik ticareti karlı ve uygulanabilir bir işlem seçeneği haline getirmek 
+için aşağıdakileri yapmanız gerekir:
+● Sizin için işe yarayan ve finansal hedeflerinize uygun bir ticaret 
+stratejisi bulun
+● İşlem stratejinize uygun bir algoritma oluşturun
+● Algoritmanızın amaçlandığı gibi çalıştığından emin olmak için kapsamlı bir şekilde 
+test edin
+● Bir ticaret ve yatırım portföyü oluşturun
+● Ve son olarak, algoritmanızı ve stratejinizi etkili olduğundan emin 
+olmak için izleyin ve değerlendirin
+Ve bunlar sadece temel bilgiler!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Şimdi, sizi korkutmaya çalışmıyoruz. Teknoloji ticareti kolaylaştırmış 
+olsa da, yine de gerekli özeni göstermeniz gerekecek. Algoritmik ticaret 
+gibi karmaşık bir alanda, araştırmadan çok daha fazlası gerekecek.
+Paniklemeden önce derin bir nefes alalım. Bu bir başlangıç   rehberi ve 
+yol boyunca her adımda size yardımcı olacağız.
+Bir Ticaret Stratejisi Bulmak
+Etkili bir işlem stratejisine sahip olmak, her algoritmik yatırımcının 
+temel taşıdır. Doğru bir strateji olmadan, etkili bir algoritma 
+uygulayamazsınız.
+Alım satım ve yatırıma başlarken atılacak ilk adım, ihtiyaçlarınıza ve 
+finansal hedeflerinize uygun bir alım satım stratejisi bulmaktır. Bir alım 
+satım stratejisi belirlemenin ilk adımı, finansal durumunuzu bilmek ve 
+finansal hedeflerinizi net bir şekilde belirlemektir. Ayrıca, alım satıma ne 
+kadar zaman ayırabileceğiniz ve ne kadar para yatırmak istediğiniz gibi 
+unsurları da göz önünde bulundurmalısınız.
+Unutmayın, seçeceğiniz strateji, ulaşmak istediğiniz hedeflerle uyumlu 
+olmalıdır. Bir yatırım stratejisinin temel amacı, finansal hedeflerinize 
+ulaşmanıza yardımcı olmaktır.
+Şimdi, iki seçeneğiniz var. Kendi işlem stratejinizi geliştirmeyi 
+deneyebilir veya finans dünyasında mevcut birçok işlem stratejisinden 
+birini uygulayabilirsiniz. İşlem ve işlem stratejileri konusunda 
+yeniyseniz, mevcut stratejileri incelemenizi öneririz.
+Ancak, merakınızı gidermek için kendi stratejinizi oluşturma adımlarını 
+inceleyelim. 4. Bölüm'de algoritmik ticaret stratejilerini ele alacağız.
+Kendi Ticaret Stratejinizi Oluşturma
+İşlem stratejinizi tanımlamaya başlamadan önce, birkaç temel ilkeyi ana 
+hatlarıyla belirtmeniz gerekir.
+Öncelikle, hangi finansal enstrümanla işlem yapmak istiyorsunuz? Hisse senetlerine mi 
+yoksa emtialara mı daha çok odaklanıyorsunuz? Belki de işlem yapmak istersiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+vadeli işlem sözleşmeleri mi yoksa opsiyonlar mı?
+İşlem yapmaya karar verdiğiniz finansal araç, stratejinizi büyük ölçüde 
+etkileyecektir. Sonuçta, hisse senedi ticareti, opsiyon veya emtia 
+ticaretinden biraz farklıdır. Yeni başlayan biriyseniz, tek bir finansal 
+araçla başlamanızı öneririz. İşlem yapmaya daha aşina ve alışkın hale 
+geldiğinizde, yatırım portföyünüzü çeşitlendirmeye başlayabilirsiniz.
+Bir finansal enstrüman seçtikten sonra, bir işlem fikri bulmanın zamanı 
+geldi.
+1. Fikir:Yatırım fikriniz, yüksek hacimli işlemler yapmaktan sıradan 
+işlemlere kadar her şey olabilir. Önemli olan, bu fikrin stratejinizin 
+temelini oluşturacağıdır (Samuelsson, 2021).
+Bu aşamada, istediğiniz kadar yaratıcı ve yenilikçi olabilirsiniz. Tek 
+sınır, kendi hayal gücünüzdür.
+Aklınıza bir fikir geldiğinde ilham almak için ticaret forumlarına 
+göz atmanızı öneririz.
+2. Geriye Dönük Test:Artık yatırım fikrinizi belirlediğinize göre, bunun 
+uygulanabilir olup olmadığını anlamanız gerekiyor. Bunu yapmanın en kolay 
+yolu, fikri "geriye dönük test" etmektir. Bu, temel olarak, yeni 
+oluşturduğunuz yatırım stratejinizi geçmiş veriler üzerinde test ederek işe 
+yarayıp yaramadığını görmenizi sağlar.
+Geriye dönük testler büyük ölçüde 'öz sermaye eğrisine' dayanır. Öz sermaye 
+eğrisi, piyasa eğilimlerinin ve belirli bir zaman dilimi içindeki alım satım ve 
+yatırım hesaplarının değerindeki değişimin görsel bir temsilidir (Burns, 
+2020). Bu genellikle bir grafik aracılığıyla gösterilir.
+Yukarı yönlü bir hisse senedi eğrisi, kullanılan işlem stratejisinin zaman 
+içinde kârlı olduğu anlamına gelir. Aşağı yönlü bir eğri ise, işlem stratejinizin 
+piyasa trendleriyle uyuşmadığı ve kârlı olma olasılığının düşük olduğu 
+anlamına gelir.
+Geriye dönük test, yukarıda belirtilen talimatlar gibi belirli alım ve satım 
+sinyallerine odaklanarak bir işlem stratejisinin uygulanabilirliğini ölçmek 
+için sermaye eğrisini kullanır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Geriye dönük test, işlem stratejiniz için harika bir ön test olsa da, 
+bir adım daha ileri giderek 'sağlamlık testi' kullanmanızı öneririz.
+3. Dayanıklılık Testi:Çoğu zaman, geriye dönük testler bir işlem 
+stratejisinin uygulanabilirliğini garantilemek için yeterli değildir. 
+Geriye dönük testleri, bir strateji geliştirmede doğru yolda olup 
+olmadığınızın ön göstergesi olarak görmeyi tercih ediyoruz.
+Sonuçta, geriye dönük testin gösterdiği tek şey, işlem stratejinizin rastgele 
+piyasa hareketlerine uygun olduğudur. Bu, işlem stratejinizin gerçek piyasa 
+trendleri ve davranışlarıyla örtüşüp örtüşmediğini test eden gerçek bir test 
+değildir.
+Stres testi olarak da bilinen sağlamlık testi, işlem stratejinizi her 
+biri fiyat verileri gibi belirli değişkenleri değiştiren çeşitli testlere 
+tabi tutmak anlamına gelir (Bryant, nd).
+İşlem stratejiniz "sağlam" ise, değişkenlerdeki değişikliklere 
+nispeten daha düşük tepkiler verecektir; sağlam değilse ise 
+orantısız tepki verecektir. Bazı durumlarda, işlem stratejiniz 
+tamamen başarısız olabilir.
+Buradaki amaç, işlem stratejinizin canlı piyasa koşullarında nasıl 
+tepki verebileceği konusunda size bir fikir vermektir. İşlem stratejiniz 
+bu değişiklikleri etkili bir şekilde yönetemiyorsa, gerçek piyasa 
+koşullarında ayakta kalabilmesi çok olasıdır.
+Stres testi yapmak çok önemlidir çünkü gerçek zamanlı piyasalar 
+sürekli bir değişim halindedir. Sağlamlık testi, stratejinin bunlarla 
+başa çıkabileceğinden emin olmak için piyasa trendlerindeki 
+sürekli değişiklikleri taklit etmeyi amaçlar. Piyasa koşulları artık 
+ideal olmadığında işlem stratejinizin nasıl performans 
+göstereceğini bulmaya odaklanır (Bryant, t.y.).
+4. Portföyünüzü Oluşturma:Artık işlem stratejinizi geliştirip test 
+ettiğinize göre, bir strateji portföyü oluşturmanın zamanı geldi.
+Deneyimli yatırımcıların, her biri farklı bir platformda faaliyet gösteren çeşitli 
+yatırım ve işlem portföylerine sahip olması yaygın bir uygulamadır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+ticaret stratejisi ve çoğu zaman farklı bir finansal enstrümanla.
+Algoritmik ticareti bu kadar harika kılan şey, aynı anda çok sayıda 
+portföy ve strateji çalıştırmanıza olanak sağlamasıdır. Çok sayıda işlem 
+stratejisi çalıştıran çeşitlendirilmiş portföylere sahip olmak, kendinizi 
+riskten korumanın da harika bir yoludur (Samuelsson, 2021).
+Çünkü portföylerinizden ve stratejilerinizden biri başarısız olursa, 
+birden fazla yedeğiniz olur ve kaybınızı azaltabilirsiniz. Birden fazla 
+stratejiye sahip olmak, piyasa değişimlerine kolayca uyum 
+sağlamanızı da sağlar.
+Bu işlem yöntemi ideal olsa da, yeni başlayanlara önermiyoruz. 
+Geniş bir portföy yelpazesine (umarız çeşitli bir portföy) sahip 
+olmak, özellikle de yeni başlayan biriyseniz ve henüz yeni 
+başlıyorsanız, yönetimi zor olabilir.
+Yeni başlayanlar için, tek bir işlem stratejisini izleyen ve tek bir 
+finansal enstrümana odaklanan tek bir portföy ile başlamanızı 
+öneririz.
+5. Stratejilerin İzlenmesi:Portföyünüz artık hazır olduğuna göre, 
+asıl eğlence başlıyor. Uyguladığınız stratejiyi veya stratejileri takip 
+etme zamanı.
+Elinizdeki zamana ve işlem stratejinizin yoğunluğuna bağlı olarak, 
+bu işlem birkaç dakikadan birkaç saate kadar sürebilir. Zamanınız 
+kısıtlıysa, takip etmesi kolay, basit bir strateji uygulamanızı 
+öneririz.
+Portföyünüzü algoritmanın yönetmesine izin vermek cazip 
+gelebilir, ancak algoritmik ticaretin en iyi şekilde çalıştığından 
+emin olmak için epeyce izleme gerektirdiğini unutmamalısınız.
+Stratejinizi izlemek, kodda veya talimatlarda gözden kaçırmış 
+olabileceğiniz hataları tespit etmenizi sağlar. Ayrıca, bağlantınızın 
+sunucudan kesilmediğinden emin olmanızı da sağlar.
+Bu strateji, bunu başarabilmenizi sağlayacak şeylerden biridir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Yazılım veya donanım arızalarından kaynaklanabilecek riskleri 
+azaltmak için.
+Ancak bu, saatlerce bilgisayarınıza yapışık kalmanız gerektiği 
+anlamına gelmiyor. Günümüzde, işlemlerinizi uzak bir sunucu 
+üzerinden kontrol etmeniz mümkün. Bu sayede, evinizden uzakta 
+olsanız bile portföyünüzü cep telefonunuzdan kontrol 
+edebilirsiniz.
+Algoritmik Ticaret Nasıl Kullanılır?
+Şimdiye kadar algoritmik ticaretin temellerini ve nasıl çalıştığını ele 
+aldık, peki bu yöntem nasıl kullanılır? Algoritmik ticaretten 
+yararlanılabilecek çok sayıda ticaret biçimi mevcut.
+Unutmayın, algoritmik ticaret aktif ticarete yönelik sistematik bir 
+yaklaşımdır ve nasıl programlandığına bağlı olarak hemen hemen her 
+türlü ticarette kullanılabilir (Chen, 2019).
+Bu bölümde algoritmik ticaretin kullanılabileceği üç yaygın ticaret ve 
+yatırım faaliyetini ele alacağız:
+1. Kısa vadeli yatırımcılar,Piyasa yapıcılar, spekülatörler ve satış 
+tarafındaki katılımcılar genellikle otomatik işlem yürütmelerinden 
+faydalanırlar. Piyasa yapıcılar açısından, algoritmik yatırımcıların 
+eklenmesi, finansal piyasaların alıcılar ve satıcılar için yeterince likit 
+kalmasına da yardımcı olur.
+Finans piyasalarındaki likidite, piyasanın amaçlandığı gibi 
+işlemesini sağladığı için özellikle önemlidir. Yani, hızlı ve kolay 
+ticaret ve yatırımlara olanak tanır.
+2. Algoritmik ticaret, orta ve uzun vadeli yatırımcılar ve alım tarafı şirketleri 
+tarafından da kullanılır. Bu durumda, algoritmik ticaret, piyasa trendlerini 
+ve hisse senedi fiyatlarını etkilemeden büyük miktarlarda hisse senedi 
+satın almak için kullanılır. Bu tür algoritmik ticaret, yatırımcıların ve 
+yatırımcıların ayrı, yüksek hacimli alım satım ve yatırımlar yapmalarına 
+olanak tanır.
+3. Algoritmik ticaret, daha yaygın olarak, piyasa trendlerini takip etme eğiliminde 
+olan sistematik yatırımcılar tarafından kullanılır. Bunlara hedge fon yatırımcıları 
+veya parite yatırımcıları da dahildir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Sistematik yatırımcılar, otomatik ticaretin verimliliği nedeniyle, 
+manuel ticaret yapmak yerine, genellikle bir dizi talimata göre 
+işlemlerini otomatikleştirmeyi tercih ederler.
+Algoritmik ticaret, çok yönlü ve etkili bir ticaret ve yatırım yöntemi olsa da 
+her finans piyasasına uygun değildir. Örneğin, algoritmik ticaret, hisse 
+senetleri, ETF'ler, yüksek likiditeye sahip vadeli işlem sözleşmeleri ve döviz 
+çiftleri gibi finansal araçlarla en iyi şekilde çalışır.
+Esas itibarıyla algoritmik ticaret, otomatik ticaretle ilişkili büyük işlem 
+hacmi ve hızı nedeniyle yüksek likiditeye sahip finansal piyasalarda en iyi 
+şekilde çalışır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Algoritmik Ticaretin Avantajları ve 
+Dezavantajları
+Algoritmik ticaretin sayısız avantajı ve dezavantajı vardır. Algoritmik 
+ticarete tam gaz başlamadan önce, bununla ilişkili riskleri ve avantajları 
+anlamanız önemlidir.
+Algoritmik Ticaretin Faydaları
+Algoritmik ticaret, büyük aracı kurumlar ve kurumsal yatırımcılar 
+tarafından işlem maliyetlerini düşürmek amacıyla sıklıkla kullanılır. 
+Araştırmalar, algoritmik ticaretin özellikle yüksek hacimli yatırımcılar 
+için faydalı olduğunu göstermiştir.
+Algoritmik ticaretin en büyük faydası, genellikle piyasa likiditesini artırmak için 
+kullanılması ve bu sayede finansal piyasaların amaçlandığı gibi işlemesine olanak 
+sağlamasıdır.
+Ek avantajlar şunlardır: Hız
+Artık algoritmik ticaretin en büyük avantajlarından birinin, daha hızlı ve kolay 
+işlem yürütme olanağı sağlaması olduğunu fark etmiş olmalısınız. Algoritmik 
+ticaretin sağladığı işlem hızı ve hacmi sayesinde, scalping (kafa derisi ticareti) 
+için idealdir.
+Scalp ticareti, finansal varlıkları küçük fiyat artışlarıyla hızla alıp satarak, 
+belirli bir süre boyunca meydana gelen küçük fiyat dalgalanmalarından 
+kar elde etmeyi içerir (Laster, nd).
+Algoritmik ticaret, çok sayıda göstergeye dayalı işlemleri insanların 
+genellikle ulaşamayacağı hızlarda gerçekleştirmenize de olanak tanır. 
+Bu, işlemleri daha hızlı analiz edip gerçekleştirmenizi sağlar ve size 
+daha fazla işlem fırsatı sunar (Laster, nd).
+Ancak hız, algoritmik ticaretin önemli bir avantajı olsa da, uzun bir süre 
+boyunca çok sayıda işlem insan müdahalesi olmadan gerçekleştirilirse 
+sorun haline gelebilir. Önceki bölümde de belirtildiği gibi, işlemlerinizi 
+ve işlem profilinizi izlemek hayati önem taşır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+gereksiz kayıplara uğramamanız önemlidir. Kesinlik
+Finansın her alanında olduğu gibi, alım satım ve yatırımlarda da doğruluk çok 
+önemlidir. Bu, özellikle piyasa eğilimleri ve dalgalanmaları göz önüne 
+alındığında geçerlidir. Uzmanlık ve deneyim seviyeniz göz önüne alındığında, 
+yüksek hacimli işlemleri çok fazla sorun yaşamadan doğru bir şekilde 
+gerçekleştirebilirsiniz.
+Ancak profesyonel bir yatırımcı değilseniz, bu seviyedeki işlemler genellikle 
+sıradan yatırımcılar için erişilemezdir.
+Algoritmik ticaret, genellikle işlemlerin doğruluğunu artırır ve insan 
+hatasından kaynaklanabilecek hataları azaltır (Laster, t.y.). Örneğin, 
+manuel olarak işlem yapıyorsanız, yanlışlıkla yanlış varlığı alıp satabilir 
+veya yanlış fiyattan alıp satabilirsiniz.
+İçinde bulunduğunuz duygusal durum nedeniyle bazı işlemler yapmaya 
+yönlendirilebilirsiniz. Bazı günler kendinizi daha pervasız, bazı günler 
+ise daha temkinli hissedebilirsiniz.
+Algoritmik ticaret, insan duygularının etkilerini ortadan kaldırır ve yalnızca kendisine 
+verilen talimatlar doğrultusunda hareket eder. Hem öngörülebilir hem de güvenilirdir. 
+Ayrıca, insan hatasını azaltmada da oldukça etkilidir.
+Önceki bölümde de tartışıldığı gibi, algoritmik ticaret, geriye dönük test ve 
+sağlamlık testine olanak sağlayarak insan hatasını da önler (Laster, nd). 
+Bu, algoritmanızı test etmenize ve amaçladığınız şekilde çalışacağından 
+emin olmanıza olanak tanır.
+Algoritmik ticaret, insan hatasını azaltarak manuel ticaretle ilişkili 
+riskleri de azaltır.
+Azaltılmış Maliyetler
+Yukarıda belirtildiği gibi, algoritmik ticaret genellikle işlem ve yatırımla ilişkili 
+maliyetleri azaltmanın bir yolu olarak kullanılır. Yatırımcıların, işlem sırasında 
+piyasaları kontrol etmek ve tekrar kontrol etmek için saatler harcamalarına 
+gerek kalmaz, çünkü işlem sizin gözetiminiz olmadan yapılabilir.
+Bu, maliyetleri düşürmenize ve normalde manuel olarak işlem yapıyor 
+olsaydınız harcayacağınız zaman miktarını azaltmanıza olanak tanır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Bilgisayarınıza zincirlenmeden, zamanınızı istediğiniz gibi geçirme 
+özgürlüğü.
+Algoritmik Ticaretin Dezavantajları
+Algoritmik ticaretin sayısız avantajının yanı sıra, birtakım dezavantajları 
+ve riskleri de vardır. Algoritmik ticarete başlamadan önce, bu ticaretin 
+dezavantajlarını anlamak önemlidir.
+Teknik Hatalar
+Algoritmik ticaretin en büyük dezavantajlarından biri teknik hatalarla 
+karşılaşılmasıdır. Sonuçta, algoritmik ticaret belirli bir yazılımı 
+çalıştırmaya, belirli bir donanıma erişime ve algoritmayı etkili bir şekilde 
+programlayabilmeye bağlıdır.
+Elektrik kesintileri, sunucuların bağlantısının kesilmesi, yazılım ve 
+donanım çökmeleri gibi sorunlar algoritmik ticaretle ilişkili risklerdir.
+Elektrik kesintisi olması veya internet bağlantınızın kopması durumunda, 
+işlemleriniz piyasaya gönderilemeyecek ve gerçekleştirilemeyecektir; bu da 
+kayıplara yol açabilir.
+Donanımınız veya yazılımınız standartlara uygun değilse, algoritma 
+tarafından oluşturulan tahmini işlemler ile gerçekleştirilen gerçek 
+işlemler arasında uyumsuzluk da olabilir.
+Algoritmik ticaret son derece teknik bir işlemdir ve başlangıçta zorlu bir 
+öğrenme süreci olacaktır. Edinmeniz gereken becerilerin yanı sıra, 
+algoritmik ticaretin çalışması için belirli ekipman, donanım ve 
+yazılımlara da ihtiyaç vardır. Algoritmik ticaretin donanım ve yazılım 
+gereksinimlerini 2. Bölüm'de ele alacağız.
+Aşırı Optimizasyon
+Algoritmik ticarette, kağıt üzerinde harika görünen ancak gerçek zamanlı piyasa 
+borsalarında başarısız olan bir işlem stratejisi geliştirme riskiyle karşı karşıya 
+kalırsınız. Bununla kastettiğimiz şey, işlem stratejinizin geriye dönük testlerde iyi 
+sonuç verebileceği, ancak gerçek zamanlı piyasalara uygulandığında yine de 
+başarısız olabileceğidir.
+Buna aşırı optimizasyon denir. Eğer işlem stratejiniz aşırıysa...
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+optimize edildiğinde, geriye dönük testlerde mükemmel olan ancak canlı işlemlerde 
+yetişemeyen aşırı eğri uyumu sergileyecektir.
+Aşırı optimizasyondan kaçınmanın iyi bir yolu, işlem stratejinizi canlı 
+işlemlerde nasıl davranacağını görmek için çok sayıda stres testine tabi 
+tutmaktır. Yine de, gerçek zamanlı piyasa trendlerine karşı dayanıklı 
+olup olmadığını görmek için işlem stratejinizi kağıt işlem hesaplarıyla 
+denemenizi öneririz.
+Kağıt işlem hesapları, simüle edilmiş piyasa borsalarında yeni işlem stratejilerini 
+test etmek için harika bir kaynaktır. Genellikle indirimli ve çevrimiçi aracı 
+kurumlar tarafından sunulurlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Manuel Ticaretten Algoritmik Ticarete 
+Geçmeli Misiniz?
+Genel olarak, finans piyasası borsalarıyla etkileşim kurmanın iki temel 
+yolu vardır. Bunlardan ilki, daha önce de bahsettiğimiz algoritmik veya 
+otomatik alım satımdır.
+Daha önce de belirttiğimiz gibi, otomatik ticaret bir algoritmaya ve belirli bir 
+yazılıma bağlıdır. Çok az insan müdahalesi gerektirir ve algoritmanın 
+öngördüğü şekilde çalışır.
+İkinci yol ise manuel alım satımdır. Manuel alım satım, daha "geleneksel" bir alım satım 
+yöntemidir ve finansal alım satım ve yatırımların ortaya çıkışından bu yana varlığını 
+sürdürmektedir. Adından da anlaşılacağı gibi manuel alım satım, bir algoritmanın 
+müdahalesi olmadan istediğiniz gibi alım satım yapmanız anlamına gelir. Ne zaman, 
+nerede ve nasıl alım satım yapacağınıza siz karar verirsiniz.
+Alınan her karar sizin kararınızdır.
+Manuel ticareti bırakıp algoritmik ticarete geçmeniz gerekip gerekmediği konusuna 
+girmeden önce, manuel ticaretin inceliklerine ve beraberinde getirdiği her şeye bir göz 
+atalım.
+Manuel Ticaret
+Manuel alım satım, özünde uygulamalı bir işlemdir. Yatırımcı olarak, alım satımları 
+ve yatırımları bizzat siz gerçekleştirirsiniz. Bu, genellikle piyasa trendlerini ve fiyat 
+dalgalanmalarını okuyup stratejinizle uyumlu olup olmadıklarını kontrol etmeniz ve 
+ardından bir alım satım yapıp yapmamaya karar vermeniz anlamına gelir.
+Eğer işlemi yapmaya karar verdiyseniz, bunu manuel olarak yapmanız 
+gerekecektir.
+Hiçbir şey otomatik değil.
+Manuel işlem, işin çoğunun yatırımcı tarafından yapıldığı anlamına 
+gelir. Bu nedenle, çıktınız yalnızca girdiniz kadar iyi olacaktır. Ne kadar 
+kâr elde edeceğiniz, kaç başarılı işlem gerçekleştirebildiğinize, bunları 
+ne kadar hızlı gerçekleştirebildiğinize ve işlem yapmaya ne kadar 
+zaman ayırabildiğinize bağlı olarak belirlenecektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+yatırım.
+Manuel Ticaretin Faydaları
+Manuel ticaretin birkaç faydası şunlardır:
+● Manuel alım satım, yatırımcıların ve yatırımcıların etkileşimde bulundukları 
+finans piyasasına uyum sağlamalarına ve daha fazla bilgi edinmelerine 
+yardımcı olur. Ayrıca, alım satım yaparken kullanılan araçlar, grafikler ve 
+yöntemler hakkında bilgi edinmenize de yardımcı olur. Örneğin, bunlar 
+teknik ve temel analiz araçlarıdır.
+Eğer yatırımda yeniyseniz, manuel yatırım, yatırımın inceliklerini 
+ve piyasa fiyatlarını ve dalgalanmalarını etkileyen tüm 
+değişkenleri kavramanız için harika bir yoldur.
+Eğer bilginizi geliştirmek istiyorsanız, manuel ticaret doğru yoldur.
+● Manuel alım satım, işlemleriniz ve yatırımlarınız üzerinde mutlak 
+kontrol sağlar. Ayrıca portföy yönetiminiz üzerinde tam kontrol 
+sahibi olmanızı sağlar. Canlı piyasa borsalarında çalışıyorsanız bu 
+harika bir özelliktir çünkü tüm kararları siz verirsiniz.
+Ticaret ve yatırım yaparken paranızı nerede ve nasıl harcayacağınıza siz karar 
+verirsiniz.
+● Manuel işlem aynı zamanda bir işlem stratejisinin sizin için işe yarayıp yaramadığını 
+hızlı bir şekilde anlamanıza ve stratejinizi geliştirmek için ince ayar yapılması 
+gereken küçük değişkenleri belirlemenize olanak tanır.
+Ayrıca, işlem stratejinizle uygulamalı olarak çalışacağınız için 
+zayıflıkları ve hataları da hızlı bir şekilde tespit edebilirsiniz.
+Bu, işlem stratejinizi hızlı bir şekilde değiştirmenize ve önlenebilir kayıpları 
+azaltmanıza olanak tanır.
+Manuel Ticaretin Dezavantajları
+Manuel ticaretin kullanımında karşılaşılan bazı yaygın dezavantajlar şunlardır:
+● Manuel ticaretin en büyük dezavantajı zaman almasıdır. Kendi 
+araştırmanızı yapmanız, emirlerinizi ve işlemlerinizi bu araştırmaya göre 
+vermeniz, piyasa trendlerini okumanız ve takip etmeniz gerekecektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Finans haberlerini takip edin ve ticaret stratejilerinizi inceleyerek 
+verimliliklerini ve karlılıklarını değerlendirmek için çok zaman harcayın.
+Bu, zaman ve büyük miktarda çaba ve enerji gerektirir. Bu adımların 
+birkaçı otomatikleştirilebilir ve çoğu çevrimiçi aracı kurum bunu 
+kolaylaştırmak için platformlarını optimize etmiş olsa da, 
+portföyünüze odaklanmak için gününüzden zaman ayırmanız 
+gerekecektir.
+● Manuel alım satımda başarılı olmak için çok fazla disiplin ve özdenetim 
+gerekir. Bu, duygularınızın alım satım işlemlerinizi ve yatırımlarınızı 
+etkilemesine izin veremeyeceğiniz anlamına gelir.
+Çoğu zaman, 'bir sonraki büyük fırsatı' kaçırmaktan korktuğunuz 
+veya diğer yatırımcıların baskısı altında hissettiğiniz için belirli 
+işlemleri yapmaya mecbur hissedebilirsiniz. Bu durum, 
+işlemlerinizi sağlam bir stratejiye göre yürütmek yerine 'kumar' 
+oynamaya başlamanıza neden olabilir.
+Bu durum sizi gereksiz risklere ve kayıplara maruz bırakır.
+● Manuel alım satımın insan hatasına maruz kalma gibi bir dezavantajı 
+da vardır. Hepimiz insanız ve bu nedenle hata yapmaya meyilliyiz. 
+Alım satım da bir istisna değildir. Tek bir düğmeye dokunarak yanlış 
+varlığı satabilir veya yanlış hisse senedine yatırım yapabilirsiniz.
+Bu durum gereksiz kayıplara yol açabilir.
+Kendinize bir zarar verdiğinizi bilmek de kabullenilmesi zor bir 
+durum olabilir. Aslında birçok yatırımcı, portföylerinin 
+sorumluluğunu tek başına üstlenmekte zorlanır.
+Manuel Ticaret ve Algoritmik Ticaret
+Peki, hangi yöntemi seçmelisiniz? Manuel ticaret mi, algoritmik ticaret 
+mi?
+Aslında bu sorunun cevabı biraz karmaşık.
+Öncelikle, ticaret ve yatırımla neyi başarmak istediğinizi, finansal 
+hedeflerinizin neler olduğunu ve neden ticaret ve yatırım yapmak 
+istediğinizi sormak istiyoruz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Eğer bu soruları cevaplayabiliyorsanız, bir sonraki soru ne kadar dahil 
+olmak istediğiniz oluyor: Uygulamalı bir yaklaşımı mı yoksa daha rahat bir 
+yaklaşımı mı tercih edersiniz?
+Ne kadar zamanınız var?
+Seçeceğiniz yöntem ihtiyaçlarınıza, isteklerinize ve yaşam tarzınıza uygun 
+olmalıdır. Burada oturup manuel ticarete geçin! Ya da otomatik ticarete 
+geçin! demek bizim için kolay olurdu. Ama gerçek şu ki, karar size ait.
+Bu kitabı okuyorsanız, büyük olasılıkla kararınızı çoktan vermiş ve 
+algoritmik ticareti seçmişsinizdir. Bu, alım satım söz konusu olduğunda 
+biraz daha fazla özgürlük, biraz daha az kontrol ve daha sistematik bir 
+yaklaşım istediğiniz anlamına gelir.
+Bununla birlikte, algoritmik ticarete geçmeniz, manuel ticaretin 
+size kapalı olduğu anlamına gelmez. Zamanınız ve enerjiniz varsa, 
+her şeye sahip olabilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Bölüm 2:
+Algoritmik Ticaret Gereksinimleri
+Eskiden ticaret ve yatırım toplumun elit kesimine aitti; ancak internet ve 
+indirimli aracı kurumların ortaya çıkmasıyla bu durum değişti.
+Artık cep telefonu ve internet bağlantısı olan herkes, alım satım ve yatırım için 
+finans piyasalarına erişebilir. Yeni başlayanların, başarılı işlemler yapmak için 
+piyasa trendlerini okuyabilmek, piyasa tahminleri yapabilmek ve çeşitli işlem 
+yöntemlerini deneyebilmek gibi birkaç değerli beceriyi öğrenmeleri gerekecek, 
+ancak bunların hepsi erişilebilir durumda.
+Ancak, çoğu alım satım ve yatırım yönteminin aksine, algoritmik alım satım, 
+internet bağlantısı ve temel alım satım bilgisinden biraz daha fazlasını 
+gerektirir. Algoritmik alım satımda uzmanlaşmak ve bunu uygulanabilir bir 
+alım satım seçeneği haline getirmek istiyorsanız, algoritmanızı ve algoritmayı 
+çalıştıracak donanım ve yazılımı nasıl programlayacağınızı bilmeniz gerekir.
+Bu bölümde, algoritmik ticarete başlamak için bilmeniz ve öğrenmeniz 
+gerekenler ele alınıyor. Ayrıca, ihtiyaç duyacağınız ekipmanlar (evet, 
+algoritmik eğitim belirli bir donanım gerektirir) ve yazılım gereksinimleri 
+de ele alınıyor.
+Bu bölümün ilk kısmı algoritmik ticaretin teknik gereksinimlerini 
+(donanım) ele almaktadır. İkinci kısım, algoritmayı çalıştırmak için 
+ihtiyaç duyacağınız yazılıma, üçüncü kısım ise algoritmik ticaret için 
+ideal işlem platformlarını belirlemeye odaklanmaktadır.
+Bu bölümün son birkaç kısmı, programlama ve mesleğin temelleri gibi 
+edinmeniz gereken bilgi ve becerilere odaklanıyor ve ayrıca yeni 
+başlayanlar için programlamaya dair birkaç ipucu veriyor.
+Bu bölümün sonunda algoritmik ticarete başlamak için neye ihtiyacınız 
+olduğuna dair bir fikriniz olmalı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Donanım Gereksinimleri
+Algoritma ticaretinin bir bilgisayar programı kullanılarak mümkün olduğu 
+düşünüldüğünde, ihtiyacınız olan temel donanım bileşenlerinden biri bilgisayardır. 
+Dizüstü bilgisayarınızın yeterli olacağını düşünüyorsanız, yanılıyorsunuz.
+Çoğu ana akım ve hatta oyun dizüstü bilgisayarı, aşırı ısınma ve çökme 
+riski olmadan program, yazılım çalıştırma ve işlem yapma baskısını 
+kaldıramaz.
+Bunun yerine, algoritmik ticarete girmeyi düşünüyorsanız, bir 'ticaret 
+bilgisayarına' yatırım yapmanızı öneririz. İster günlük ticaret, ister swing 
+ticareti, ister algoritmik ticaret yapın, bir ticaret bilgisayarına sahip olmanız 
+şarttır.
+Bir 'işlem bilgisayarı' sizi bir işlem dehasına dönüştürecek sihirli bir 
+makine değildir. Aşırı ısınma veya çökme olmadan çalıştırmanız 
+gereken yazılım ve programları çalıştırabilen ve öncelikle işlem yapmak 
+için kullanılan basit, orta sınıf bir masaüstü bilgisayardır.
+Bir ticaret bilgisayarı normal bir bilgisayardan çok da farklı olmasa da, bir 
+ticaret bilgisayarı kurmayı veya satın almayı planlıyorsanız odaklanmanız 
+gereken birkaç özellik vardır:
+CPU
+Bir ticari bilgisayar satın alırken veya kurarken odaklanmanız gereken 
+ilk şey CPU'dur. CPU, merkezi işlem birimidir ve bilgisayarlar, cep 
+telefonları, akıllı saatler, e-kitap okuyucular ve hatta termostatınız gibi 
+neredeyse her elektronik cihazda bulunur. CPU, kendisine verilen tüm 
+talimatları işlemek ve yürütmekle görevlidir. Birçok yönden cihazın 
+beyni görevi görür.
+Bu nedenle, CPU talimatları ne kadar hızlı işleyip yürütebilirse, 
+bilgisayarınız o kadar hızlı çalışacaktır. Bu da algoritmanın işlemleri 
+yürütme hızını artıracaktır (Samuelsson, 2019).
+Algoritmik ticarette, hızlı ve yavaş bir CPU arasındaki fark oldukça belirgindir 
+ve yavaş bir CPU'ya sahip olmak size pahalıya mal olabilir. Hızlı bir CP'ye 
+sahip olmak, işlem sürecini hızlandırır ve daha fazla zaman kazandırır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+araştırma ve strateji geliştirme (Samuelsson, 2019).
+Şimdi, bir CPU seçerken göz önünde bulundurmanız gereken en önemli 
+şey, tek çekirdekli mi yoksa çok çekirdekli bir CPU mu seçeceğinizdir.
+Basitçe söylemek gerekirse: Tek çekirdekli işlemcilerde tek bir çekirdek 
+bulunurken, çok çekirdekli işlemcilerde tek bir çipe sıkıştırılmış çok sayıda küçük 
+işlemci bulunur.
+Teorik olarak, çok çekirdekli işlemciler tek çekirdekli işlemcilerden çok daha hızlıdır. 
+2001'deki piyasaya sürülmelerinden bu yana çok çekirdekli işlemciler büyük bir 
+popülerlik kazanmıştır ve günümüzde çoğu ana akım bilgisayar 16-32 çekirdekle 
+gelmektedir.
+Ancak çok çekirdekli işlemcilerin de sınırlamaları yok değil. Çoğu zaman, 
+işlem platformları tüm çekirdekleri etkili bir şekilde kullanmakta zorlanır 
+(Samuelsson, 2019). Bazı işlem platformları çok çekirdekli işlemcileri 
+yönetmede daha iyidir ve platformların destek kapasitelerini artırma 
+yönünde bir eğilim söz konusudur.
+Teknolojideki hızlı gelişmeler göz önüne alındığında, çok çekirdekli bir 
+CPU'yu tercih etmenizi öneririz. Çoğu işlem platformunun, zamana ayak 
+uydurmak için yazılımlarını güncellemesi muhtemeldir.
+Grafik Kartı
+Çoğu PC kullanıcısı için şık bir ekran kartı satın almak pek akıllarına gelmez. Birçok 
+kişi, oyun sektörüne ilk adımlarını attığında, bir oyun bilgisayarı ve üst düzey bir 
+ekran kartı almak aklına bile gelmezdi. Çoğu kişi, bunun yalnızca üst düzey 
+oyuncuların ihtiyaç duyduğu bir şey olduğunu düşünürdü.
+Gerçeklerden ne kadar uzakmış.
+Günümüzde ekran kartları yalnızca oyuncular ve video editörleri tarafından değil, aynı zamanda 
+kripto para madenciliği yapmak isteyen kripto para yatırımcıları ve tahmin ettiğiniz gibi algoritmik 
+yatırımcılar tarafından da kullanılıyor.
+Ekran kartı, esasen monitörünüze görüntü aktarmaktan sorumlu bir 
+genişletme kartıdır. Bu nedenle, ekran kartı ne kadar iyiyse, görüntü de 
+o kadar iyi ve akıcı olur.
+İyi bir grafik kartı, bir ticaret bilgisayarının daha sorunsuz çalışmasına yardımcı 
+olacak ve çok sayıda grafiği, çizelgeyi ve tabloyu takip etmenize yardımcı olacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Belirli bir finansal araç hakkında araştırma yaparken veya piyasa trendlerini 
+okumaya çalışırken.
+Çoğu durumda, haber akışlarını ve piyasa trendlerini takip etmeyi çok daha 
+kolay hale getirdiği için iki monitöre yatırım yapmanızı öneririm. İyi bir ekran 
+kartına sahip olmak bunu çok daha kolay hale getirir ve size net bir görüntü 
+sunar (Solanki, 2020).
+Veri deposu
+RAM, yani rastgele erişimli bellek, her bilgisayar sisteminin temel bir 
+bileşenidir. RAM, bilgisayar tarafından aktif olarak kullanılan bilgileri depolar, 
+böylece bu bilgilere kolayca ve hızlı bir şekilde erişilebilir. RAM, kısa süreli 
+bellektir.
+Esasen, bilgisayarınızın hızı ve performansı, takılı RAM miktarıyla 
+doğrudan ilişkilidir. Ne kadar çok RAM'iniz varsa, bilgisayarınız o kadar 
+hızlı ve verimli olacaktır.
+Bir ticaret bilgisayarı kurarken veya satın alırken, düzgün çalışmasını 
+sağlamak için yeterli RAM'e sahip olmak kritik öneme sahiptir (Samuelsson, 
+2019). İhtiyacınız olan RAM miktarı, kullanacağınız yazılım ve uygulamaların 
+ne kadar spesifik yoğunlukta olduğuna bağlı olacaktır.
+Genel bir kural olarak, temel bir işlem bilgisayarının yaklaşık 8 GB 
+RAM'e ihtiyacı vardır; ancak, 16 ila 32 GB gibi biraz daha yüksek bir RAM 
+hedeflemenizi öneririz.
+Sabit Disk
+Sabit disk sürücüsü olarak da bilinen sabit disk, tüm videolarınızı, 
+belgelerinizi, uygulamalarınızı, işletim sisteminizi ve resimlerinizi 
+depolayan dahili bir bileşendir. Birçok açıdan sabit disk bir depolama 
+kutusu olarak düşünülebilir. Neredeyse her şeyi içinde barındırır.
+Bir ticaret bilgisayarı oluştururken büyük bir sabit diske sahip olmak pek 
+önemli sayılmaz. Sabit diskin temel amacı depolama alanı görevi görmek olsa 
+da, bilgisayarınızın ne kadar hızlı açılacağı ve uygulama ve yazılımların ne 
+kadar hızlı yüklenebileceği üzerinde de büyük bir etkisi vardır.
+Bu nedenle iyi bir sabit diske sahip olmak sahip olmanız gereken bir şeydir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Bir ticaret bilgisayarı satın alırken veya kurarken ciddi olarak düşünün.
+İki tür sabit disk vardır. Birincisi, hemen hemen her bilgisayarda 
+bulunan genel HDD'dir (sabit disk sürücüsü). İkincisi ise daha gösterişli 
+SSD'dir (katı hal sürücüsü).
+Bir yatırım bilgisayarına yatırım yaparken, daha yaygın olan HDD 
+sürücü yerine bir SSD sürücü tercih etmenizi öneririz. Çünkü SSD 
+sürücünün HDD'den çok daha hızlı olduğu ve önyükleme ve yükleme 
+sürelerinizi yarı yarıya azalttığı kanıtlanmıştır.
+Ancak SSD sürücüler, HDD sürücülerden biraz daha pahalıdır ve eğer 
+bütçeniz yetmiyorsa, gerçekten iyi bir HDD almanızı öneririz. Aynı 
+amaca hizmet eder, ancak biraz daha yavaş olabilir.
+Soğutma
+Bir ticaret bilgisayarının uzun süreler boyunca genellikle maksimum kapasitede 
+çalıştığı göz önüne alındığında, aşırı ısınmayı önlemek için etkili bir soğutma 
+sistemine sahip olmak çok önemlidir.
+Uzun süre boyunca maksimum kapasitede çalıştırmak, bilgisayarınızın büyük 
+miktarda ısı üretmesine neden olur ve aşırı ısınmayı önlemek için bilgisayarınızın 
+zorla yavaşlamasına yol açar (Samuelsson, 2021).
+Bunun olmasını önlemek için çoğu bilgisayarda hava soğutucular 
+bulunur. Ancak, bilgisayarın kalitesine bağlı olarak, bu hava soğutucular 
+maksimum kapasitede çalışırken inanılmaz derecede gürültülü olabilir 
+ve genellikle bilgisayarı yeterince soğutamazlar.
+Soğutma sisteminizi daha iyi fanlar ekleyerek veya sıvı soğutucular 
+takarak yükseltmenizi öneririz. Sıvı soğutucular, hava soğutuculardan 
+çok daha verimli ve çok daha sessizdir. Ancak, sıvı soğutucuların hava 
+soğutuculardan çok daha pahalı olduğunu da unutmayın.
+İnternet Bağlantısı
+Her türlü işlem için güçlü, hızlı ve güvenli bir internet bağlantısı olmazsa 
+olmazdır. İnternet bağlantınız, finans piyasalarına ve aracı kurum 
+platformunuza olan bağlantınızdır. Özünde, işlemlere ve yatırımlara açılan 
+kapınızdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Algoritmanızın gerektiği gibi çalışmasını sağlamak istiyorsanız güvenilir 
+bir internet bağlantısına ihtiyacınız var.
+İnternet bağlantınız kesilirse diye bir tür yedek yatırım yapmanızı 
+öneririz. Bu, ekstra bir modem veya akıllı telefonunuzun erişim noktası 
+olabilir. En zarif çözüm olmasa da, bilgisayarınızı akıllı telefonunuzun 
+erişim noktasına bağlayabilmek, açık pozisyonlarınızı kapatmanıza ve 
+gereksiz kayıplar yaşamanızı önlemenize yardımcı olabilir.
+Bir Ticaret Bilgisayarı İçin Minimum ve Önerilen Özellikler
+Minimum Gereksinimler Önerilen Gereksinimler
+İşlemci 4 çekirdekli CPU İşlemci 8 çekirdekli CPU
+Veri deposu 8 GB Veri deposu 16 GB
+Depolamak 240 GB SSD Depolamak 240 GB SSD
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Yazılım Gereksinimleri
+Donanım gereksinimlerinde olduğu gibi, algoritmik ticaret için ihtiyaç 
+duyacağınız yazılımı oluşturma, programlama veya satın alma 
+seçeneğiniz vardır.
+Hazır yazılım satın almak hızlı ve kolaydır. Ancak, dezavantajları da yok 
+değildir. Bir işlem yazılımı satın almak size zaman kazandırabilir, ancak 
+para kazandırmaz. Algoritmik yazılımlar genellikle inanılmaz derecede 
+pahalıdır ve göz ardı edilirse gereksiz kayıplara yol açabilecek kusurlarla 
+dolu olabilir (Seth, 2021b).
+Yazılımın yüksek maliyeti, algoritma ticaretinin uygulanabilirliğini de 
+azaltabilir, bu nedenle bunu aklınızda bulundurmanız gerekir.
+Öte yandan, kendi yazılımınızı oluşturmak, ihtiyaçlarınıza göre 
+özelleştirmenize olanak tanır ve size büyük bir esneklik sunar (Seth, 
+2021b). Ayrıca, yazılım satın almak kadar da maliyetli değildir. Ancak, 
+kendi yazılımınızı oluşturmak zaman, muazzam çaba ve programlama 
+ile finans piyasaları ve ticaretin nasıl işlediği konusunda derin bilgi 
+gerektirir.
+Her Algoritmik Ticaret Yazılımının Sahip Olması Gereken Temel 
+Bileşenler
+İster satın almaya ister kurmaya karar verin, her algoritmik ticaret 
+yazılımının uygulanabilir olması için ihtiyaç duyduğu birkaç temel 
+bileşen vardır.
+Çeşitli Finansal Piyasalara Bağlantı
+Herhangi bir yatırım yazılımının en önemli bileşeni, çeşitli finans 
+piyasalarına erişebilmesi ve bağlanabilmesidir. Bu, hem ulusal hem de 
+uluslararası kapsamda olmalıdır.
+Bir yatırımcı olarak, birden fazla borsada işlem yapacaksınız. Her piyasa size 
+çeşitli veri akışlarına erişim sağlayacak ve bu veri akışlarının formatları 
+muhtemelen farklı olacaktır. Satın aldığınız veya oluşturduğunuz yazılımın farklı 
+formatlardaki akışları kabul edebilmesi gerekecektir (Seth, 2021b).
+Bu sizin için çok fazla zorluk teşkil ediyorsa, Reuters ve Bloomberg gibi 
+üçüncü taraf veri sağlayıcılarını kullanmayı deneyebilirsiniz. Bu veriler
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Tedarikçiler, çeşitli piyasa borsalarından elde edilen toplu piyasa 
+verilerini size sunar. Veriler ayrıca tek ve standart bir formatta sunulur.
+Burada önemli olan, yazılımınızın bu verileri gerektiği gibi 
+işleyebilmesidir.
+Tarihsel Verilerle Geriye Dönük Test
+Her yatırım yazılımının sahip olması gereken bir diğer önemli özellik, geçmiş veri 
+kümeleri üzerinde geriye dönük test simülasyonları gerçekleştirebilme 
+yeteneğidir. Daha önce de belirtildiği gibi, geriye dönük test, canlı yatırımı 
+simüle etmek için geçmiş verilere bir yatırım stratejisi empoze etmeyi içerir ve 
+bir yatırım stratejisinin canlı yatırımda uygulanabilirliğini test etmek amacıyla 
+yapılır.
+Backtesting olmazsa olmaz bir özelliktir; önemini ve değerini göz ardı 
+etmeyin.
+Şirket ve Piyasa Verilerinin Kullanılabilirliği
+Yatırım yazılımlarının ayrıca gerçek zamanlı piyasa veri akışlarına ve 
+şirket akışlarına kolayca erişebilmesi gerekir. Bu özellik sisteme entegre 
+edilmeli ve çeşitli kaynaklardan gelen bu bilgileri kolayca entegre edip 
+işleyebilmelidir (Seth, 2021b).
+Gerçek zamanlı veri akışları, şirket temelleri, şirket kazançları ve F/K 
+oranları gibi önemli bilgiler içerir. Bu bilgiler, her yatırımcı ve yatırımcı 
+için olmazsa olmazdır.
+Gecikme
+Gecikme, veri noktalarının bir uygulamadan diğerine geçişine verilen 
+zaman gecikmeli bir yanıttır (Seth, 2021b). Örneğin, bir fiyat teklifinin 
+bir borsadan yazılımınızın veri merkezine (DC) kaydedilmesi 0,3 saniye, 
+ardından bilginin veri merkezinizden ekranınıza ulaşması 0,2 saniye ve 
+yazılımınızın bilgiyi işlemesi 0,3 saniye sürebilir.
+Algoritmanızın bu bilgiyi analiz edip bir işlem gerçekleştirmesi 0,2 
+saniye, işlemin aracı kuruma ulaşması 0,4 saniye ve işlemin 
+gerçekleştirilmesi 0,3 saniye daha sürebilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Piyasa borsasında fiyat noktası hareketlerinin ne kadar hızlı gerçekleştiği göz önüne 
+alındığında, bir işlemin gerçekleştirilmesinin birkaç saniye sürmesi durumunda, söz 
+konusu varlığın fiyatının birkaç kez değişmiş olması muhtemeldir.
+Gecikmeyi önlemek ve istediğiniz fiyat noktasında işlem yapmak için 
+gecikme süresini mümkün olduğunca düşük tutmak ve ideal olarak 
+mikrosaniyelere indirmek önemlidir. Bunu, bir satıcıya (aracıya) ihtiyaç 
+duymadan borsaya doğrudan bağlantı kurarak yapabilirsiniz.
+Platformdan Bağımsız Programlama
+Zorunlu olmasa da, kullandığınız platform ve yazılımdan bağımsız bir 
+programlamaya sahip olmak uzun vadeli planlama için iyi bir fikirdir.
+Genellikle, programlama dillerinin, ilgili yazılım veya platform için özel 
+olarak çalışan özel platformları vardır. İster kendiniz geliştirin ister satın 
+alın, kullanacağınız platformda kullanılandan farklı bir programlama dili 
+seçmeniz önerilir.
+Buradaki fikir, gelecekte işlem stratejinizin ve algoritmanızın alabileceği 
+değişikliklere hazırlıklı olmaktır.
+Özelleştirme
+Ticaret yazılımının bir diğer önemli bileşeni de onu ihtiyaçlarınıza ve 
+ticaret stratejinize uyacak şekilde özelleştirebilmenizdir.
+Satın almayı seçerseniz, çoğu algoritmik işlem yazılımı yerleşik algoritmalarla 
+birlikte gelir. Bu, potansiyel olarak size zaman ve emek tasarrufu sağlar; 
+ancak algoritmanın parametrelerini kendi işlem stratejinize uyacak şekilde 
+tamamen özelleştirebilmelisiniz.
+Yanlış yazılımı satın alırsanız, değiştiremeyeceğiniz sabit işlevlerle 
+kısıtlanmış halde bulabilirsiniz kendinizi.
+Buna ek olarak, yazılım içinde kendi özel programlarınızı yazabilmeniz, 
+aradığınız bir diğer önemli özelliktir. Bu, çeşitli stratejiler ve işlem 
+konseptlerini daha fazla özelleştirmenize ve denemenize olanak tanır 
+(Seth, 2021b).
+İdeal olarak, kullanmanıza izin veren bir ticaret yazılımı kullanmalısınız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Tercih ettiğiniz programlama dili.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Bir İşlem Platformu Seçimi
+Artık yazılımınız ve algoritmanız hazır ve umarız test edilmiş olduğuna 
+göre, bir işlem platformuna karar verme zamanı. Peki, bir işlem platformu 
+nedir? Neden ihtiyacınız var?
+Basitçe ifade etmek gerekirse, bir işlem platformu, yatırımcıların ve 
+yatırımcıların alım satım ve yatırım işlemlerini gerçekleştirebildiği çevrimiçi 
+bir web sitesi veya uygulamadır. Çok sayıda çevrimiçi ve indirimli aracı 
+kurum, sahip olduğunuz hesap türüne ve seçtiğiniz aracı kuruma bağlı olarak 
+kendi işlem platformlarını ücretsiz veya düşük fiyatlarla sunar.
+Genellikle, işlem platformları gerçek zamanlı veri akışları, grafik 
+yazılımları ve prim analizleri gibi çok sayıda ek hizmet de sunar (İşlem 
+Platformu, 2021). Bu hizmetler, alım satım ve yatırımı mümkün 
+olduğunca kolay ve etkili hale getirmeyi amaçlamaktadır.
+İki tür işlem platformu vardır: İlki ve en yaygın olanı ticari web siteleri, 
+ikincisi ise destek platformlarıdır. Ticari web siteleri, yatırımcılara ve 
+günlük yatırımcılara yöneliktir (İşlem Platformu, 2021). Bu tür işlem 
+platformlarının kullanımı genellikle kolaydır ve eğitim kaynakları, 
+araştırma verileri, haber akışları ve haritalar gibi çok çeşitli özellikler 
+sunar.
+Öte yandan, prop platformları, büyük brokerların ihtiyaçlarına, işlem 
+tarzlarına ve taleplerine özel olarak uyacak şekilde geliştirdikleri 
+özelleştirilebilir platformlardır.
+Günümüzde yüzlerce işlem platformu mevcut ve hangisini seçeceğinize 
+karar vermek, özellikle yeni başlayanlar için oldukça zorlayıcı olabilir. 
+Genel bir kural olarak, işlem tarzınıza, işlem stratejinize ve finansal ve 
+işlem hedeflerinize göre bir işlem platformu seçmelisiniz. Ayrıca, 
+algoritmik bir işlem yöntemiyle uyumlu bir işlem platformu da 
+seçmelisiniz.
+Bir işlem platformu seçerken göz önünde bulundurmanız gereken 
+birkaç ek faktör şunlardır:
+Varlık Sınıfları
+Bir ticaret platformu seçmeden önce,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Tercih ettiğiniz platform, işlem yapmaya karar verdiğiniz varlık sınıflarını sunar. 
+Bunlar hisse senetleri, tahviller vb. olabilir.
+Bu nedenle, hisse senedi ticareti yapmak istiyorsanız, yalnızca hisse senetlerini 
+destekleyen bir platform seçmeyin. Çoğu işlem platformu birden fazla varlık 
+sınıfını destekler, bu harika bir özelliktir. Çevrimiçi aracı kurumlar genellikle 
+belirli varlık sınıfları için özel avantajlar ve indirimler sunar. Yalnızca seçtiğiniz 
+varlık sınıflarını desteklemekle kalmayıp, aynı zamanda seçtiğiniz varlık sınıfları 
+için avantajlar ve indirimler de sunan bir işlem platformu seçmenizi tavsiye 
+ederiz.
+Veri
+Ticaret ve yatırımda olduğu gibi, güncel ve alakalı verilere erişim çok 
+önemlidir. Seçtiğiniz işlem platformu, kapsamlı ve yüksek kaliteli 
+verilere erişim sağlamalıdır. Bazı işlem platformları bu bilgilere erişim 
+için ücret talep edebilir.
+İdeal olarak, verilerine ücretsiz erişim sağlayan bir ticaret platformu 
+bulabilirsiniz.
+Broker Entegrasyonu
+Algoritmanızı bir işlem platformuna bağlayabilmek, algoritmik ticaret için 
+olmazsa olmazdır.
+Ne yazık ki, tüm algoritmik işlem platformları işlem yapmanıza izin 
+vermeyecektir. Bu genellikle işlem platformu sağlayıcısının aracı kurum olup 
+olmamasına bağlıdır. Platform sağlayıcısı aracı kurum değilse, aracı kurum 
+entegrasyonuna izin verme ve algoritmanızı platforma bağlamanıza olanak 
+sağlama olasılığı yüksektir.
+Ayrıca, hiçbir canlı işlem desteği sunmayan birkaç platform da vardır; 
+bu, bu platformlar aracılığıyla işlem yapamayacağınız anlamına gelir. 
+Bu tür platformları yalnızca araştırma ve geliştirme için kullanabilirsiniz.
+Algoritmanızı platforma bağlamanıza olanak tanıyan ve broker 
+entegrasyonunu destekleyen bir işlem platformu seçmeniz gerektiğini 
+söylememize gerek yok.
+Fikri Mülkiyet
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Herhangi bir algoritmik yatırımcının en büyük endişesi, geliştirdikleri 
+algoritmaların fikri mülkiyetini (sahipliğini) koruyabilmektir. Bu nedenle, 
+algoritmanız kendi platformlarında geliştiriliyorsa, üzerinde mülkiyet 
+hakkı iddia etmeyen bir işlem platformu bulmak çok önemlidir.
+Eğer bu sizi özellikle endişelendiriyorsa, algoritmanızı kendi 
+bilgisayarınızda geliştirip platforma bağlamanıza olanak tanıyan bir 
+platform seçmenizi tavsiye ederiz. Bu, sahiplik haklarınızı korumanın 
+açık ara en güvenli yoludur.
+Yarışmalar ve Lisanslama
+Günümüzde çoğu platform oldukça düzenli olarak yarışmalar 
+düzenliyor. Bu yarışmalarda, algoritmanızı (belirli gereksinimleri 
+karşılıyorsa) gönderebilir ve birçok başka algoritmayla yarışabilirsiniz 
+(Louis, 2020).
+Algoritmanız kazanırsa, her türlü eğlenceli ödül veya nakit ödül 
+kazanabilirsiniz.
+Ticaret platformları ayrıca algoritma yatırımcılarına algoritmalarını 
+lisanslama ve bunları resmi olarak tanınan algoritmalar haline getirme fırsatı 
+da sunabilir.
+Bu avantajlar algoritma ticaret girişiminizin sürdürülebilirliği ve başarısı 
+için mutlaka gerekli olmasa da güzel eklemelerdir.
+Programlama Dilleri
+Algoritmanızı platforma bağlayabilmek istiyorsanız, işlem platformunun 
+programlama dilinin algoritmanızı geliştirmek için kullandığınız dili 
+desteklediğinden emin olmak çok önemlidir (Louis, 2020).
+Yine de, algoritmanızı platform üzerinde geliştirmek istiyorsanız, 
+platformun API'sini öğrenmeniz gerekecektir. Ancak, algoritmanızı 
+platform üzerinde geliştirmek yerine kendi bilgisayarınızda geliştirmenize 
+olanak tanıyan bir platform seçerseniz, bu çok da sorun olmayacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Bilgi Gereksinimleri
+Artık anlamış olabileceğiniz gibi, algoritmik ticaret, gelişmiş bir işlem 
+bilgisayarına ve harika bir işlem platformuna erişimden daha fazlasını 
+gerektirir. Başarılı bir algoritmik yatırımcı olmak istiyorsanız, edinmeniz 
+gereken birçok beceri vardır.
+Öğrenmeniz gereken ilk beceri şudur:ticaretin temelleriBunlara 
+piyasa trendlerini okuyabilmek, stop emrinin ne olduğunu bilmek, limit 
+emrinin ne olduğunu bilmek ve marj gereksinimlerini anlamak gibi 
+şeyler dahildir.
+Ticarette bundan çok daha fazlası var. İşlemleri ne zaman 
+gerçekleştireceğinizi, ne zaman alıp satacağınızı ve piyasanın sizin için nasıl 
+çalışacağını bilmeniz gerekir.
+Ticaret ve yatırımın artan popülaritesiyle birlikte, çok sayıda kaynak 
+mevcuttur. Birçok yatırım aracı kurumu, yeni başlayanlar için ideal olan 
+web seminerleri, eğitimler ve kağıt tabanlı yatırım hesapları gibi eğitim 
+kaynakları da sunmaktadır.
+Eğer siz de bizim gibiyseniz, en iyi yaparak öğrenirsiniz, bu yüzden kağıt 
+tabanlı bir işlem hesabı açmanızı öneririz.
+Ayrıca, özellikle ilginizi çeken yatırım konularına odaklanan bu kitap gibi 
+yatırımla ilgili daha fazla kitap okumanızı öneririz. Ayrıca, çevrimiçi 
+olarak izleyebileceğiniz çok sayıda yatırım ve yatırım videosu da 
+mevcut.
+Buradaki en önemli nokta, canlı işlemlere geçmeden önce mümkün olduğunca çok şey 
+öğrenmenizdir.
+İkinci önemli beceri ve muhtemelen beklemediğiniz bir şey ise;matematik
+Evet, dediğimiz gibi, algoritmik ticarette iyi olmak istiyorsanız, 
+matematikte de iyi olmanız gerekir. Bu, finansal hesaplamalar, temel 
+istatistikler ve bilgisayar ticareti performans ölçütleri konusunda iyi bir 
+anlayışa sahip olmayı gerektirir (Davey, 2019).
+Ayrıca Microsoft Excel veya MatLab gibi başka bir veri işleme programı 
+hakkında da bilgi sahibi olmanız gerekir. Bu programlar, işlem 
+stratejinizi desteklemek için oldukça faydalıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Analiz.
+Bunu söylemek ne kadar acı verici olsa da, matematikte ne kadar iyi olursanız, algoritmik 
+yatırımcı olarak da o kadar iyi olursunuz.
+Algoritmik ticarette başarılı olmak için ihtiyaç duyacağınız son beceri:
+Seçtiğiniz ticaret platformunu nasıl çalıştıracağınızı bilmekBu beceriyi 
+öğrenmek çok da zor değil. Tek yapmanız gereken platformla biraz 
+uğraşmak ve mekanizmalara alışmak.
+Bir işlem platformuyla tanışmanın en iyi yolu, bir kağıt işlem hesabı açmaktır. 
+Bu, platformu denemenize ve herhangi bir taahhütte bulunmadan 
+alışmanıza olanak tanır. Bu beceriyle yakından ilişkili olan bir diğer beceri ise:
+yerleşik bilimsel bir yaklaşımı takip edinVebir ticaret sisteminin nasıl 
+geliştirileceğini öğrenmek.
+Algoritmik stratejilerinizi tasarlamak ve test etmek için sağlam bir 
+ticaret sistemi geliştirebilmek önemlidir (Davey, 2019).
+Öğrenmeniz gereken son ve muhtemelen en önemli beceri şudur: 
+programlamaKendi algoritmanızı geliştirmenin önemli bir kısmı, nasıl 
+programlanacağını bilmek ve hangi programlama dilinin ihtiyaçlarınıza en 
+uygun olacağını bilmektir.
+Bir yatırım yazılımı seçerken programlamayı bilmek de önemlidir, 
+çünkü farklı yazılımların nasıl çalıştığını ve hangisinin sizin için en uygun 
+olduğunu anlamanıza yardımcı olur. Buna ek olarak, farklı platformlar 
+farklı programlama becerileri gerektirdiğinden, farklı programlama 
+dillerini de öğrenmek isteyebilirsiniz.
+Buradaki önemli nokta, araştırmanızı yapmanız ve ticaret platformunun 
+gerektirdiği programlama dilinde uzmanlaşmanızdır (Davey, 2019).
+Programlamaya Yeni Başlayanlar İçin İpuçları
+Yeni başlayan biri olarak programlamaya başlamak oldukça korkutucu 
+olabilir. Piyasada o kadar çok programlama dili var ki, bunaltıcı gelebilir. 
+Ancak, eğer devam ederseniz, programlama inanılmaz derecede eğlenceli ve 
+teşvik edici olabilir.
+Binlerce uygulama alanı olan bir beceridir. Becerinizi şu amaçlar için kullanabilirsiniz:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Algoritmalar, video oyunları ve yeni yazılımlar yaratın. Olasılıklar 
+gerçekten sonsuz.
+Ama biraz toparlayalım. Bu bölümde, özellikle finans ve algoritmik ticarete 
+odaklanarak, yeni başlayanlar için programlamaya nasıl başlayabileceğinize 
+dair birkaç ipucu vereceğim.
+Google Arkadaşınızdır
+İlk ipucumuz, Google'ı kullanmaktan korkmamanız. Yeni başlayan bir 
+programcı olarak, kodları çalıştırmaya çalışırken hata yapma, tökezleme ve 
+tıkanma olasılığınız yüksek. Kendinizi sıkışmış ve çaresiz hissederseniz, 
+Google'a sorun.
+İnternette çok sayıda faydalı video ve programlama forumu mevcut; bunlara 
+ulaşmak için basit bir arama yeterli. Programlama forumları ve eğitimleri, 
+programlama becerilerinizi ve özgüveninizi geliştirmek için kullanabileceğiniz 
+harika kaynaklardır.
+Belirli komutlarda zorlanıyorsanız, çözümü Google'da arayın. 
+Zorlanmak yerine cevapları bulmakta hiçbir sakınca yok. Elinizdeki 
+kaynakları kullanmaktan çekinmeyin.
+Ayrıca Google tamamen ücretsizdir, onu da kullanabilirsiniz. Zaman 
+Verin
+Söylemeye gerek yok ama kendinize zaman tanıyın. Programlama, 
+edinilmesi zor bir beceridir ve bir gecede uzmanlaşamazsınız. Başarısız 
+olup öğrenmek için kendinize zaman ve alan tanımanızı öneririz.
+Bunu bir sprintten ziyade bir maraton olarak düşünün.
+Buradaki en önemli nokta, harekete geçmek ve başlamaktır. Mücadelenin yarısı orada 
+olmaktır.
+Mümkün Olduğunca Keşfedin
+Dediğimiz gibi, programlama göz korkutucu olabilir. Başlangıçta, 
+mümkün olduğunca kurallara ve geleneklere uymaya çalışabilirsiniz. Bu 
+kötü bir şey değil. Geleneklere uymak, yeni bir zanaata alışmanın 
+yoludur.
+Ancak kendiniz düşünmekten ve yeni şeyler denemekten korkmayın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Tamamlamak istediğiniz belirli bir kodlama görevi varsa, bunu nasıl 
+yapmak istediğinizi düşünün. Kodlama yaparken hangi adımları izlemek 
+istersiniz? Gerekli adımları ve bunları nasıl yapmak istediğinizi düşünün.
+Bu, yaratıcılığınızı kullanmanızı sağlar ve kim bilir, belki de sorunları 
+çözmek için yeni ve heyecan verici yollar bulursunuz.
+R'de Print Komutunu Kullanmaktan Korkmayın
+Uzun ve karmaşık kod dizileri sizi korkutuyorsa ve kodun nasıl çalıştığını 
+ve ne işe yaradığını anlamaya çalışıyorsanız, print komutunu 
+kullanmaktan çekinmeyin.
+R'deki kodu basitçe kopyalayarak print komutunu kullanarak kodun 
+nasıl çalıştığını ve temel işlevlerinin neler olduğunu anlayabilirsiniz.
+Ayrıca Ctrl+Enter kombinasyonunu kullanarak kodu satır satır görebilir 
+ve konsol sonuçlarını görebilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Bölüm 3:
+Algoritmik Ticarete Başlarken
+Peki, ihtiyacınız olan becerileri edindiniz, bir işlem bilgisayarı satın 
+aldınız veya kurdunuz ve kendi algoritmanızı geliştirdiniz. Peki, sırada 
+ne var?
+Yolculuğunuzun bu noktasında, algoritmanızı geriye dönük test ve stres 
+testinden geçirdiğinizi ve işlem yazılımınıza ve işlem platformlarınıza 
+karar verdiğinizi varsayıyoruz. Hazırsınız, harekete geçin ve başlayın.
+Tüm sistemler hazır!
+Keyfi kaçıranlardan olmak istemeyiz ama bu noktada sizden yavaşlamanızı 
+rica ediyoruz.
+Dikkat: Yavaşlayın ve bir sonraki birkaç adımın nasıl olacağını gerçekten 
+düşünün.
+Bu bölümde, algoritmik ticarete başlamak için atmanız gereken 
+adımları ele alacağız. Kendi algoritmanızı nasıl geliştireceğinizi 
+derinlemesine inceleyecek ve ticaret için kullanılan bir algoritma örneği 
+sunacağız.
+Ancak buna geçmeden önce, işe koyulmadan önce dikkate almanız 
+gereken önemli noktalara da değineceğiz.
+Birçok yönden, bu küçük mola noktası geri dönüşü olmayan bir noktadır. Bundan 
+sonra, tamamen ticaret dünyasına dalmış olacaksınız ve tüm sıkı çalışmalarınızın ve 
+çabalarınızın boşa gitmesini istemezsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Başlamadan Önce Önemli Hususlar
+Şu anda değişimin eşiğindesiniz. Kafanızın nerede olduğuna bağlı 
+olarak, bu tam teşekküllü bir yatırımcı olmadan önceki an olabilir veya 
+bunun size göre olmadığına karar verdiğiniz an olabilir.
+İleri atılmaya ya da geri dönmeye karar verebilirsiniz.
+Ancak bu kararı vermeden önce göz önünde bulundurmanız gereken 
+birkaç şey var.
+Algoritmik Ticaret Zaman Alıcıdır
+Algoritmik ticaret, doğası gereği otomatik bir ticarettir ve bu, bilgisayarınızı 
+kurmanız, algoritmanın çalışmasını beklemeniz ve ardından para kazanmanız 
+dışında pek bir şey yapmanız gerekmediği izlenimini verebilir.
+Ne yazık ki durum pek de böyle değil.
+Algoritma kendi başına çalışabilse de, insan müdahalesi ve takibi gerektirir. 
+Değişen piyasa trendlerine uyum sağlamak için algoritmanızı yeniden 
+değerlendirmek ve programlamak için zaman ayırmanız gerekecektir.
+Ayrıca algoritmanızın tasarladığınız şekilde çalıştığından ve gereksiz kayıplara 
+neden olabilecek herhangi bir kusur veya gözden kaçma olmadığından emin 
+olmak için onu yakından izlemeniz gerekecektir.
+Farklı bir işlem stratejisi denemeye karar verirseniz, algoritmanızı da 
+ayarlamanız gerekecektir.
+Ticaret Sermaye Gerektirir
+İşlemler ve yatırımlar sermaye gerektirir ve algoritmik ticaret de farklı 
+değildir. İşlem yapmaya ve yatırım yapmaya başlamak istiyorsanız, paraya 
+ihtiyacınız olacak.
+Başlamak için ihtiyacınız olan miktar, seçtiğiniz finans piyasasına ve finansal araca 
+bağlı olarak değişecektir. Hisse senetlerinde günlük işlem yapmayı hedefliyorsanız, 
+en az 25.000 ABD dolarına ihtiyacınız olacaktır. Forex ve Vadeli İşlemler ticareti 
+daha az sermaye gerektirebilir.
+Çevrimiçi veya indirimli bir aracı kurumda hesap açmanın da maliyetleri 
+vardır. Aracı kurumlarda genellikle hesap alt limitleri vardır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Komisyon ücretleri ve sundukları hizmetlere bağlı işlem ücretleri. İşlem 
+maliyetleri aracı kurumdan aracı kuruma değişiklik gösterecektir. Gizli 
+ücretlerden kaçınmak için, seçtiğiniz aracı kurumun ücret yapısını 
+dikkatlice incelemenizi tavsiye ederiz.
+Algoritmik ticarete başlamak için ihtiyaç duyacağınız çeşitli yazılımları 
+edinmek ve bir ticaret bilgisayarı satın almak için de muhtemelen hatırı 
+sayılır miktarda para harcayacaksınız.
+Son olarak, ister programcı olun ister tamamen yeni başlayan, 
+becerilerinizi geliştirmek için kodlama ve programlama kurslarına para 
+harcamanız gerekebilir.
+Hedefler ve Amaçlar
+Başlamadan önce üç soruya kesin ve net yanıtlar vermeniz gerekiyor:
+1. Finansal hedefleriniz nelerdir?
+2. Hangi finansal varlıkla işlem yapmak istiyorsunuz?
+3. İşlem yapmaya ne kadar zaman ayırabilirsiniz?
+Buradaki anahtar, algoritmanızı oluşturmanıza ve sağlam bir işlem stratejisi 
+belirlemenize yardımcı olacak sağlam hedef ve amaçlara sahip olmaktır. 
+Unutmayın, algoritmanızın sizin için çalışmasını ve hedeflerinize ulaşmanıza 
+yardımcı olmasını istersiniz.
+Tam olarak ne istediğinizi ve nasıl işlem yapmak istediğinizi bilmek, 
+algoritmanızı oluşturmanıza da yardımcı olur. Sonuçta, algoritma yalnızca nasıl 
+işlem yapılacağına dair bir dizi talimattan ibarettir. Bu talimatları kodlayabilmek 
+için, işlem stratejiniz ve nasıl uygulayacağınız konusunda net bir fikre sahip 
+olmanız gerekir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Bir Ticaret Algoritması Geliştirme
+Bir ticaret algoritması geliştirmek küçümsenecek bir şey değil; bunu 
+muhtemelen 2. Bölüm'de bahsettiğimiz uzun gereksinimler listesinden de 
+anlayabilirsiniz.
+Etkili bir işlem algoritması, işlem (alım ve satım) fırsatlarını belirleyebilmeli 
+ve önceden belirlenmiş bir işlem stratejisine göre işlemleri 
+gerçekleştirebilmelidir. İşin püf noktası, seçtiğiniz işlem stratejisini işlem 
+algoritmasını oluşturacak kod satırlarına dönüştürebilmektir. Bu 
+algoritmanın ayrıca, işlemleri etkili bir şekilde gerçekleştirebilmesi için 
+işlem hesaplarına erişebilecek şekilde programlanması gerekir.
+Peki, nereden başlayacaksınız? Etkili Bir 
+Strateji Geliştirme
+Şimdi, bunu daha önce de söylediğimizi biliyoruz ve muhtemelen bunu duymaktan 
+biraz sıkılmışsınızdır, ancak tekrarlamaya değer.
+Etkili bir işlem stratejisine ihtiyacınız var ve bir tane olsa bile, işlem 
+stratejinizin kodlanmasının ne kadar kolay olacağını hiç düşündünüz 
+mü?
+Genel bir kural olarak, işlem stratejiniz ne kadar öznel ve karmaşıksa, 
+kodlaması o kadar zor olacaktır. Öte yandan, işlem stratejiniz ne kadar 
+kural tabanlı, yapılandırılmış ve basitse, kodlaması o kadar kolay 
+olacaktır (Mitchell, 2021).
+Genel olarak, kural tabanlı stratejileri kodlamak çok daha kolaydır çünkü bunlar 
+genellikle zarar durdurma emirleri ve niceliksel verilere veya fiyat noktası 
+hareketlerine dayanan fiyat hedefleri gibi basit talimatlar etrafında 
+yapılandırılmıştır (Mitchell, 2021).
+Bu tür stratejiler kolayca kopyalanıp test edilebilir. Kendi yatırım 
+stratejinizi oluşturma konusunda kendinizi rahat hissetmiyorsanız, 
+internette birçok strateji bulabilirsiniz.
+İnceleyebileceğiniz kaynaklardan biri de Quantapedia'dır. Bu web sitesi, 
+çok sayıda nicel işlem yönteminin alım satım sonuçları ve alım satım 
+üzerine çok sayıda akademik makaleye erişim sağlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Hem alım satım hem de programlamadaki beceri seviyeniz ne olursa 
+olsun, kural tabanlı bir alım satım stratejisi izlemenizi öneririz. Algoritmik 
+alım satım, karmaşık bir alım satım stratejisi kodlamaya çalışarak işleri 
+daha da zorlaştırmadan, zaten yeterince karmaşıktır.
+Sonuçta, kodlama zaman alır ve tüm pürüzleri ve hataları gidermek için 
+defalarca test edilmesi ve yeniden test edilmesi gerekir. Kural tabanlı 
+bir strateji seçmek, deneyiminizi kolaylaştırmaya yardımcı olacaktır. 
+Bilgi ve deneyimlerimize göre, strateji ne kadar basitse o kadar etkilidir.
+Sağlam Bir Ticaret Stratejisinin Özellikleri
+Bir işlem stratejisi seçerken, neyi başarmak istediğinizden emin olmanız 
+önemlidir. Genellikle en kolay çözümü tercih etmek daha kolaydır ve bu 
+illa ki kötü bir fikir olmasa da, biraz daha araştırma yapmanızı öneririz.
+Yatırım bloglarını ve forumlarını okuyun. Akademik finans dergilerine 
+ve yatırım dergilerine göz atın. Temel olarak, yatırım ve finans 
+dünyasını olabildiğince keşfedin.
+Ön araştırmanız, risk profiliniz, ayırabileceğiniz zaman miktarı ve 
+işlemler için ayırabileceğiniz sermaye miktarı gibi kişisel özelliklerinize 
+dayanmalıdır.
+Bununla birlikte, her etkili ticaret stratejisinin sahip olması gereken birkaç 
+temel özellik şunlardır:
+1. Piyasa değişikliklerine karşı ihtiyatlı olmak
+2. Güvenilir istatistiksel yöntemlere dayalı
+3. Kural tabanlı
+Ayrıca şunlara da sahip olmalıdır:
+1. Bir işleme ne zaman girileceği, ne zaman çıkılacağı ve ne zaman gerçekleştirileceği 
+konusunda açıkça tanımlanmış kurallar.
+2. Mükemmel portföy yönetimi
+3. Risk yönetimi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+4. Beklenmedik durumlar için önlemler alın
+Algoritmanızın Hangi Bilgileri Yakalaması Gerektiğini Belirleyin:
+Bir sonraki adım, algoritmanızın hangi bilgileri yakalayıp tanımlaması gerektiğini 
+net bir şekilde tanımlamaktır. Bu, işlem stratejinizin önemli bir parçası olması 
+gerektiği için, bunu anlamak çok da zor olmamalı.
+Buradaki amaç, algoritmanızın piyasa trendlerinden ve 
+davranışlarından yararlanmasına yardımcı olmaktır (Johnston, 2021). 
+Buna ek olarak, stratejinizi tek seferlik piyasa verimsizlikleri üzerine 
+kurmamanızı da tavsiye ederiz, çünkü piyasa verimsizlikleri tespit 
+edilemez. Stratejinizin başarısının veya başarısızlığının tesadüfen mi 
+gerçekleştiğini bilmenin hiçbir yolu yoktur.
+Seçtiğiniz işlem stratejisine bağlı olarak, belirli piyasa trendlerinden ve 
+davranışlarından yararlanan çeşitli yöntemler mevcuttur. Stratejiler 
+şunlardan faydalanabilir:
+● Faiz oranı değişiklikleri gibi makroekonomik haberler
+● Gelir verileri veya kazanç duyuru notları gibi temel analizler
+● Hareketli ortalamalar gibi teknik analiz bilgileri
+● Ticaret altyapısı gibi mikro yapı haberleri
+● Eşbütünleşme gibi istatistiksel analizler
+Bu bilgi kaynaklarının her biri, işlem algoritmanızda kullanabileceğiniz 
+çeşitli teknik göstergeler içerir. Kodlama ve işlem yapma konusunda 
+uzmanlaştıktan sonra, işlem stratejiniz ne kadar gelişirse gelişsin, 
+algoritmanızın çeşitli göstergelere odaklanmasını sağlayabilirsiniz.
+Popüler teknik göstergelerden bazıları şunlardır:
+● Hareketli ortalamalar
+● Stokastik
+● Göreceli güç endeksi
+● Parabolik SAR
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+● Göreceli canlılık endeksi
+Algoritmanız bilgileri etkili ve doğru bir şekilde yakalayıp 
+işleyebildiğinde, bu bilgileri (talimatlarla birlikte) finansal varlıkları alıp 
+satmak ve işlemleri başarılı bir şekilde gerçekleştirmek için 
+kullanabilecektir.
+Bahsedilen teknik göstergeler kuralların belirlenmesi açısından önemlidir 
+çünkü değerlerine bağlı olarak algoritmanızın bir varlığı alıp satması için 
+tetikleyici görevi göreceklerdir.
+Ayrıca stratejinizi karşılaştırabileceğiniz ölçütlere de ihtiyacınız olacak! 
+Ticaret Stratejinizi Koda Çevirin İşte asıl eğlence (ve asıl baş ağrısı) 
+burada başlıyor!
+Daha önce de belirttiğimiz gibi, stratejinizi koda dönüştürmeden önce 
+edinmeniz gereken birkaç temel beceri var. Şimdiye kadar, 
+programlamanın temellerini anlamak ve ticaret ve finans piyasası 
+borsaları hakkında bilgi sahibi olmak hakkında konuştuk.
+Bunun yanı sıra teknik, temel ve duygusal analizleri, kodlamayla birlikte 
+gelen girdileri, değişkenleri ve matematiksel özellikleri anlamanız 
+gerekecektir.
+Teknik, Temel ve Duygusal Analiz
+Teknik, temel ve duygusal analiz konusunda iyi bir anlayışa sahip 
+olmak, kodunuzu oluşturmanıza yardımcı olacaktır çünkü yukarıda 
+belirtilen göstergelerin nasıl çalıştığını ve ne anlama geldiğini 
+anlayabileceksiniz.
+Peki, teknik, temel ve duygusal analiz nedir?
+Kuyu,teknik analizGeçmiş piyasa eğilimlerinin ve davranışlarının 
+gelecekteki piyasa eğilimleri, hareketleri ve davranışları üzerinde 
+doğrudan bir etkiye sahip olduğuna inanılmasıdır (Temel, Teknik ve 
+Duygu Analizi, 2018).
+Bu nedenle teknik analiz yatırımcıları, potansiyel fiyat dalgalanmalarını ve 
+piyasa eğilimlerini tahmin etmek için trend ve grafik analizi gibi geçmiş 
+verilere büyük ölçüde güvenirler. Bu grafikler genellikle belirli bir zaman 
+dilimindeki fiyat noktası hareketlerini temsil eder. Okuyarak ve analiz ederek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Bu grafikler, yatırımcıların belirli finansal varlıkların gelecekteki arz ve talep 
+eğilimlerini anlamalarını amaçlar.
+Alım veya satım kararının temel göstergeleri destek ve direnç seviyeleridir. 
+Diğer göstergeler arasında osilatörler, trendler ve hacim göstergeleri bulunur. 
+Bunlar, yatırımcıların fiyat eğilimlerini anlamalarına yardımcı olur.
+Duygusal AnalizTeknik analizden daha kısa vadelidir ve genel olarak 
+yatırımcıların duygularına (eylemlerine) odaklanır. Örneğin, bir teknik 
+analist bir finansal varlığın yükseliş trendine gireceğini öngörebilir. 
+Ancak, yatırımcıların ruh hali nedeniyle varlık düşüşte kalabilir.
+Bu, yatırımcıların büyük çoğunluğunun bilinmeyen bir nedenden ötürü aşağı yönlü 
+pozisyon seçtiği anlamına geliyor.
+Bu yatırımcı hisleri, yatırımcıların belirli bir pozisyon almasına yardımcı olmak için 
+kullanılabilir. Duygusal analizleri takip eden yatırımcılar, genellikle trende karşı 
+yatırım yaptıkları için ters yönlü yatırımcılar olarak da bilinirler. Bu, piyasanın her 
+zaman hislere ters yönde hareket etme eğiliminde olduğuna inanılarak yapılır.
+Temel analizBir finansal varlığın fiyatını etkileyebilecek faktörlerin 
+incelenmesiyle ilgilidir. Bu tür bir analiz, büyük ölçüde her ülkenin 
+merkez bankasına ve açıklayacakları beklenen faiz oranlarına bağlıdır.
+Faiz oranlarındaki artışların bir varlığın değerini uzun vadede artırabileceğine 
+inanılmaktadır. Temel analistlerin odaklandığı diğer faktörler arasında GSYİH, 
+enflasyon oranları, kâr amacı gütmeyen kuruluşlar (NFP) ve nüfus artışı yer alır. Bu 
+nedenle, güncel haberleri takip etmek bir temel yatırımcı için hayati önem taşır.
+Bu tür analizler genellikle forex ve emtia ticaretinde kullanılır.
+Bir algoritma oluştururken yukarıdaki teknik göstergeleri kullanabilmek için bu 
+analizleri anlamak hayati önem taşımaktadır.
+Girişler, Değişkenler ve Matematiksel Özellikler
+Yukarıda bahsedilen temel, teknik ve duygusal analizlerde olduğu gibi, 
+bir algoritma geliştirirken girdiler, değişkenler ve matematiksel 
+özellikler önemlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+GirişlerGenellikle bir algoritma oluşturmak için diğer 'düğümlere' 
+atanırlar. Bilmeniz gereken dört tür girdi vardır:
+● Dize
+● Tam sayı
+● Boole
+● Sayı
+ThedeğişkenlerGenellikle her veri türüne karşılık gelir. Dikkat etmeniz 
+gereken dört veri türü vardır:
+1. Boole
+2. Metin
+3. Sayı
+4. Tarih ve saat
+Değişkenler önemlidir çünkü algoritmanıza neyi ne zaman yapacağını 
+söylerler.
+Thematematiksel özellikleroldukça basittir. Bunlar, birkaçını saymak 
+gerekirse =, + ve - işaretleridir.
+Odaklanmanız gereken son husus şudur:mantık,ve sağduyudan 
+bahsetmiyoruz. Mantık şunları içerir:VE, VeVeyaÖrneğin, algoritma, 
+Stokastik 28'deyken VE/VEYA RSI değeri 30'dayken bir alım işlemi açmak 
+üzere yönlendirilebilir. Bu durumda her ikisini de kullanabilirsiniz.
+Basitçe ifade etmek gerekirse, mantık fonksiyonu algoritmaya pozisyonlara ne 
+zaman girip çıkacağını talimat verirken kullanılabilir.
+Algoritmik Bir Ticaret Stratejisi Kodlama
+İşin eğlencesi, ticaret stratejinizi koda dönüştürmekle başlıyor. 
+Deneyimlerimize göre, en yaratıcı olduğumuz nokta burasıydı. 
+Stratejimizi koda nasıl dönüştüreceğimizi bulmak, farkında olmadan 
+yaptığımız zihinsel bir egzersizdi.
+Bir oyuna dönüştü. Bir stratejiyi ne kadar hızlı kodlayabilirdik veya karmaşık bir kuralı 
+basit bir koda ne kadar hızlı dönüştürebilirdik? Ne kadar basit hale getirebilirdik?
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Kodun etkinliğini tehlikeye atmadan nasıl yazılabilir?
+Algoritmik ticaretin en sevdiğimiz kısmının kodlama olduğu oldukça açık.
+Bu bölümde, işlem stratejinizi hayata geçirmek için size 8 adımlık basit 
+bir yöntem sunacağız!
+Bu örnekte, basit bir işlem algoritması kullanarak Amazon hisse senedi CFD'si (Farklı 
+Fiyat Sözleşmeleri) ile işlem yapacağız. Kullanacağımız strateji, "fiyatlardaki düşüş"ten 
+alım yapmayı içeriyor. Bu, algoritmanın hisse senetlerinin değeri kısa vadede 
+düştüğünde uzun pozisyonlara gireceği anlamına geliyor.
+İşte adımlar:
+1. Ürününüzü/finansal varlığınızı seçin.
+Bu örnekte Amazon hisse senedi CFD'si ile çalışmayı seçtik. CFD, 
+fark sözleşmesi anlamına gelir ve esasen gerçek hisse senedinin 
+fiyat noktası hareketlerini taklit eden bir türevdir.
+2. Tercih ettiğiniz işlem yazılımını seçin.
+Seçtiğiniz yazılımın ne kadar karmaşık olduğuna ve ne kadar 
+RAM'iniz olduğuna bağlı olarak, bu işlem çok fazla zaman 
+almayacaktır.
+Bu örnekte kullanacağımız yazılım MetaTrader 4 (MT4). Bu 
+yazılımı, yeni başlayanlar için son derece uygun olduğu ve bu 
+sayede kullanımı daha kolay olduğu için seçtik. Öğrenme eğrisi de 
+oldukça düz, bu yüzden bu yazılımı kullanmaya karar verirseniz, 
+alışmanız çok uzun sürmeyecektir.
+Fark ettiğimiz tek olumsuz nokta, bu yazılımın karmaşık istatistiksel 
+analizler veya makine öğrenimi çalıştırmak için pek uygun 
+olmamasıydı. İlk algoritmanızı geliştirmenin ilk aşamalarında bunun 
+endişelenmeniz gereken bir şey olduğunu düşünmesek de, aklınızda 
+bulundurmanız gereken bir şey.
+Artık tercih ettiğiniz yazılımı indirdikten sonra yapmanız gereken 
+tek şey yükleyiciyi açmak ve talimatları takip etmektir.
+3. Tercih ettiğiniz aracı kurumda hesap açın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Yazılımınızı başarıyla yükledikten sonra, tercih ettiğiniz çevrimiçi 
+veya indirimli aracı kurumun web sitesine gidin ve bir demo hesabı 
+oluşturun.
+Tercih ettiğiniz aracı kurum demo hesap sunmuyorsa bu bir sorun 
+olabilir. Eğer durum buysa, demo hesap sunan bir sonraki en iyi 
+aracı kuruma yönelmenizi öneririz.
+Buradaki amaç, algoritmanızın etkili bir şekilde çalışıp çalışmadığını görmek için onu 
+çalışır hale getirmektir. Bunu, gerçek işe başlamadan önce bir test çalışması olarak 
+düşünün. Bu nedenle, ilk denemeniz için gerçek bir hesaba ihtiyacınız olmayacak.
+Seçtiğiniz aracı kuruma bağlı olarak, bazı kişisel bilgilerinizi 
+girmeniz gerekebilir. Bu biraz riskli gelebilir. Ancak, gerekli özeni 
+gösterip saygın ve itibarlı bir aracı kurum seçtiyseniz, 
+endişelenecek bir şeyiniz olmayacaktır.
+Mevcut Demo hesap türlerine bağlı olarak, standart veya 
+premium hesap arasında seçim yapabilirsiniz. Sadece bir deneme 
+sürümü yaptığımız için standart hesabı seçmenizi öneririz.
+Artık demo hesabınızı kurduğunuza göre, giriş bilgileriniz size 
+verilmiş olmalı.
+Daha sonra, işlem yazılımınızı açıp "İşlem Hesabına Giriş Yap" 
+yazan sekmeyi bulmanız gerekecek. MT4'te bu işlev "Dosya" 
+sekmesinin altındadır.
+Bu fonksiyona tıklayın ve yeni hesap bilgilerinizi girin.
+4. Stratejiyi anlayın.
+Yukarıda belirtildiği gibi, bu örnekte, hisse senedi düştüğünde hisse 
+senedi satın almayı hedefleyen bir strateji kullanacağız. Ancak, 
+algoritma sadece "Düşüşte hisse senedi satın al" yazarsak ne demek 
+istediğimizi anlamayacaktır.
+Bu durumda, düşüşün ne anlama geldiğini bulmamız gerekecek. Hisse 
+senedinin düşüşe geçmesi için ne kadar düşmesi gerekiyor ve ne kadar 
+süreyle 'düşüş' yaşaması gerekiyor?
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Kulağa gereksiz yere işleri karmaşıklaştırıyormuşuz gibi gelebilir, ancak 
+kodlamaya başlamadan önce netleştirmeniz gereken hususlar bunlardır.
+Bu örnek için algoritmanın, hisse senedinin fiyatı son 15 işlem 
+günündeki en düşük fiyatının altına düştüğünde bir işleme 
+gireceğini varsayalım.
+Neden 15 gün? Aslında önemli değil. Geriye dönük test ve 
+optimizasyon sırasında bu zaman dilimini sizin için uygun bir sayıya 
+ulaşmak için daraltabilirsiniz.
+Şimdi bu alıştırmada, her işlem yapabildiğimizde mümkün olan en 
+fazla miktarda hisse senedi satın alabilmek için hesaptaki tüm 
+parayı harcama yöntemini kullanacağız.
+Bunun çok agresif bir yaklaşım olduğunu ve bunu canlı işlemler için 
+kesinlikle tavsiye etmediğimizi unutmayın, ancak demo hesabımız bize 
+bir sürü sahte para verdiğinden, hadi çılgınlık yapalım!
+Bu noktada, aynı anda yalnızca bir işlem gerçekleştireceğiz.
+İşlemi kapatırken, algoritmayı hisse senedi fiyatı %25 arttığında 
+(kar) veya %10 düştüğünde (zarar) çıkış yapacak (satış yapacak) 
+şekilde programladık.
+Örneğin, 200 dolarlık bir fiyat noktasından işleme girersek, işlemi 
+250 dolardan kapatıp 50 dolar kar elde ederiz veya 180 dolardan 
+kapatıp 20 dolar zarar ederiz.
+5. Ticaret yazılımınızı anlayın ve kurun.
+Bu işlem stratejisi çok basit olduğundan ve esasen iki temel kurala 
+bağlı olduğundan, MT4'ün her yönünü veya özelliğini kullanmamıza 
+gerek kalmayacak.
+Genellikle, stratejiniz ne kadar karmaşıksa, o kadar çok unsur 
+kullanmanız gerekebilir. Ancak, kullanacağınız özellikler, analiz 
+etmeniz gereken bilgilere bağlı olacaktır.
+Bu örnekte üç özelliğe odaklanacağız; grafik boyutunu artırmak, 
+hisse senedinin fiyat verilerini toplamak ve robot şablonunu işlem 
+yazılımına indirmek.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+Yine, stratejinize bağlı olarak bu adımlar değişecektir. Ayrıca, 
+yazılımınıza bağlı olarak, bunu yapabilmek için gereken adımlar 
+da değişecektir.
+Bunu yaptıktan sonra yazılımınızın işlem algoritmasının 
+bölümlerini anlamanız gerekecektir.
+Anlamanız gereken hususlar arasında hangi programlama dilinde kod 
+yazmanız gerektiği de yer alır.
+6. Stratejinizi kodlayın.
+Ne yazık ki, algoritmik bir ticaret kodunu satır satır incelemek çok 
+uzun zaman alacaktır, bu yüzden sadece temelleri ele alacağız.
+Bununla birlikte, kodlamanın daha derinlemesine bir açıklamasını 
+almak için alabileceğiniz çok sayıda çevrimiçi kodlama kursu 
+bulunmaktadır.
+Şimdi kod yukarıdan aşağıya doğru okunup çalıştırılıyor.
+Bu işlem stratejisi için kodumuzun yapısı şu şekilde olacaktır:
+Hisse senedinin fiyatının, en düşük fiyattan daha düşük olup olmadığını sorun.
+son 15 işlem günü
+Hisse senedinin satış fiyatı < son 15 işlem günündeki en düşük fiyat (daha 
+düşük olanı < sembolüyle değiştirin)
+Sor < son 15 işlem günündeki en düşük fiyat (hisse senedinin sor fiyatını 
+Sor ile değiştirin)
+Daha sonra Ask < iLow(Symbol(), 0, (veri noktası son 15 işlem 
+günündeki en düşük fiyatı içerir)) // iLow() bana belirli bir veri 
+noktasının en düşük fiyatını verecek bir fonksiyondur.
+İlk girdi, üzerinde çalıştığımız varlık olacaktır. İkincisi, 0 ile 
+gösterilen zaman dilimi olacaktır. Üçüncüsü ise düşük fiyat için 
+alacağımız veri noktası kimliğidir.
+Kod şu şekilde olacaktır: Ask < iLow(Symbol(), 0, (iLowest(Symbol(), 
+0, MODE_LOW, 15, 1))) // iLowest()
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Şimdi, iLow() ve iLowest()'ten geçiş yapmak tuhaf görünebilir. 
+Sonuçta, bunu kodlamanız gerektiğini nasıl bilebilirsiniz ki?
+Basit cevap şu ki, bunu bilemezsiniz.
+Yeni bir programlama dili öğrenmeye başladığınızda, belirli 
+talimatların yerine hangi kodu kullanacağınızı bilmek zor olabilir. 
+Sorun değil. Her şeyi aynı anda bilmenize gerek yok. Bilmiyorsanız, 
+Google'da arayın! Kodlama forumlarına göz atın.
+Artık kodunuz tamamlandığında, tek yapmanız gereken onu 
+derlemek. Bir kodu derlerken, program kodda herhangi bir hata 
+olup olmadığını kontrol eder ve bilgisayarınızın anlayabileceği bir 
+kod sürümü oluşturur.
+7. Kodunuzla geçmişe dönük bir test çalıştırın.
+Eğer kodunuz hatasız geri dönüyorsa, test çalıştırmanın zamanı gelmiş demektir!
+Yüklediğiniz işlem yazılımında Strateji Test fonksiyonu 
+bulunmalıdır.
+Yan not: Bu adımları tamamlarken, adım adım ayrıntılı bir video 
+kılavuzu bulup takip etmenizi şiddetle tavsiye ederiz. Videonun sizin 
+kullandığınız güvenli yazılımla uyumlu olduğundan emin olun. 
+Deneyimlerimize göre, yaparak öğrenmenin, talimatları bir sayfadan 
+okumaktan daha kolay olduğunu görüyoruz.
+Strateji Test Aracı'nı çalıştırdıktan sonra, başlangıç   tarihi olarak en 
+erken tarihi ayarlayabilirsiniz. Unutmayın, testi çalıştırmak için 
+geçmiş verileri kullanacaksınız!
+Ve işte, ilk geri test tamamlandı! Tebrikler! Bir çikolata alın!
+Bu noktada, algoritmanızın nasıl çalıştığını görmek için Rapor fonksiyonunu kontrol 
+edebilirsiniz.
+8. Sahte parayla canlı yayın yapın.
+Algoritmayı demo hesabında canlı olarak çalıştırmak, kod test etmenin 
+muhtemelen en sevdiğimiz kısımlarından biridir, çünkü algoritmanızın işe 
+yarayıp yaramayacağı konusunda size en iyi fikri verecektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Hangi aracı kurumla çalışmaya karar verdiğinize bağlı olarak, elinizde 
+oynayabileceğiniz yaklaşık 100.000 ila 200.000 dolar değerinde sanal para 
+bulunmalıdır. Tekrar belirtelim, bu para gerçek değil, bu yüzden kaybetme 
+konusunda endişelenmeyin.
+Yapmanız gereken ilk şey, Terminal sekmesini açıp hesabınızda ne 
+kadar "nakit" olduğunu kontrol etmektir. Bunu yaptıktan sonra, 
+Otomatik İşlemleri Etkinleştir işlevini tıklayarak algoritmayı çalıştırın.
+Daha sonra, hisse senedi fiyat grafiğini algoritmaya eklemek 
+isteyeceksiniz (bu, algoritmanızın işlemleri gerçekleştirmek için işlemesi 
+gereken önemli bir bilgidir).
+Ve işte bu kadar! Yayındasınız!
+Geriye sadece çalışmasına izin vermek ve ne kadar iyi performans gösterdiğini görmek 
+kalıyor. Geriye Dönük Test ve Optimizasyon
+Algoritmanızın 'canlı test' sırasında ne kadar iyi performans gösterdiğine bağlı olarak, kodu 
+yeniden gözden geçirip olası aksaklıkları ve hataları düzeltmek isteyebilirsiniz.
+Geriye dönük test ve optimizasyon sırasında, kodunuzun tam olarak 
+istediğiniz gibi çalıştığından emin olmanız gerekir. Bu süreçte, 
+stratejinizi yeniden değerlendirip kodu daha etkili çalışacak şekilde 
+ayarlamanız da gerekebilir.
+Bu, zaman çerçevesini değiştirmeyi, girdiyi ve değişkenleri ayarlamayı 
+veya kuralları ve talimatları nasıl kodladığınızla oynamayı içerebilir.
+Buradaki amaç algoritmanın mümkün olduğunca verimli çalışmasını sağlamaktır.
+Ancak küçük bir uyarı: Algoritmayı aşırı optimize etmemeye dikkat edin. 
+Bunu daha önce de belirtmiştik, ancak algoritmanız geçmiş verilere çok 
+fazla dayanıyorsa, gelecekteki piyasa trendleri nadiren geçmiş trendleri 
+tam olarak takip ettiğinden gereksiz kayıplara neden olabilir.
+Canlı Yayına Geçiyor
+Daha önce canlı yayına geçmekten bahsettiğimizi biliyoruz, ancak bu bir 
+demo veya kağıt tabanlı işlem hesabıyla ilgiliydi.
+Algoritmanızı iyice test ettikten ve bunun işe yarayacağından emin olduktan sonra
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+Planlandığı gibi çalışacaksa, gerçek para kullanmaya başlamanın zamanı geldi. Evet, doğru duydunuz; 
+artık çocuk eldivenlerini çıkarıp ticarete başlamanın zamanı geldi.
+Her türlü yatırımda olduğu gibi, riskler de mevcut ve bunu aklınızda 
+tutmanız gerekiyor. Paranız söz konusu olacağı için bazı duygusal iniş 
+çıkışlar da yaşayabilirsiniz, ancak bu heyecan verici bir dönem.
+Sonunda, tüm sıkı çalışmanızın ve çabanızın meyvelerini toplayabileceksiniz. Ancak, 
+çok heyecanlanmadan önce, küçük adımlarla başlamayı unutmayın. Tüm paranızı 
+tek bir hisse senedine veya varlığa yatırmayın.
+Canlı işlemlere başladığınızda, yavaş ilerleyin ve her şeyi değerlendirin. Bu 
+süre zarfında, algoritmanızı ve piyasa trendlerini sürekli olarak takip ederek 
+performanslarını kontrol etmeniz ve herhangi bir ayarlama gerekip 
+gerekmediğini kontrol etmeniz de önemlidir.
+Bakım
+Algoritmanız, kendisine talimat verdiğiniz istatistiksel parametreler 
+dahilinde çalıştığı sürece, algoritmayı olduğu gibi bırakın. İşlem 
+profilinizdeki faaliyetleri doğru çalıştığından emin olmak için izlemeniz 
+gerekse de, algoritmayı gereksiz yere kurcalamayın.
+Unutmayın, bir işlem algoritmasına sahip olmanın en önemli faydalarından 
+biri, insan duygularının işlem sürecini engellememesidir.
+Algoritma çalışır duruma geldikten sonra yapmanız gereken tek şey 
+onu korumak, performansını izlemek ve piyasa değişirse kodu buna 
+göre ayarlamaktır.
+Buradaki anahtar nokta, algoritmanızın hangi piyasa koşullarında başarılı olduğunu ve 
+hangi piyasa koşullarının onu çökertebileceğini bilmektir. Ayrıca, algoritmayı ne zaman 
+kendi haline bırakıp ne zaman müdahale etmeniz gerektiğini de anlamanız gerekir.
+Dengeyi bulmak zordur ve bunu rahatça başarabilmeniz için biraz 
+deneme yanılma yapmanız gerekecektir. Önemli olan pes 
+etmemenizdir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Bölüm 4:
+Algoritmik Ticaret Stratejileri
+Önceki bölümlerde algoritmik işlem stratejilerine ve kodlamaya 
+başlamadan önce stratejinizi net bir şekilde anlayıp ana hatlarını 
+çizmenin önemine değinmiştim. Ancak, işlem stratejileri konusu o 
+kadar önemli ki, bu konuya özel bir bölüm ayırmamız gerektiğini 
+biliyorduk.
+Piyasada çok sayıda işlem stratejisi mevcut; neredeyse insan sayısı 
+kadar, hatta belki daha fazla. Sonuçta herkes - ve gerçekten herkes - 
+kendi özelliklerine ve ihtiyaçlarına tamamen özel bir işlem stratejisi 
+geliştirebilir.
+Bununla birlikte, var olan her türlü ticaret biçimindeki her ticaret stratejisini ele 
+almaya kalksaydık, ikimiz de yaşlanıp saçlarımız ağarana kadar burada kalırdık.
+Bu bölümde, alanı daralttık ve algoritmik yatırımcılar arasında en 
+yaygın ve en popüler işlem stratejilerini seçtik.
+Bu bölümde iki ana konuyu ele alacağız: Birincisi algoritmik işlem 
+stratejisi fırsatları, ikincisi ise algoritmik işlem stratejileri.
+Eğer yatırıma tamamen yeniyseniz ve hangi stratejileri denemek 
+istediğinize henüz karar vermediyseniz, bu bölüme özellikle dikkat 
+etmenizi öneririz. Kim bilir, belki de ideal stratejinizi önümüzdeki birkaç 
+sayfada bulabilirsiniz!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+Algoritmik Ticaret Stratejisi 
+Fırsatları
+Peki, "algoritmik ticaret stratejisi fırsatları" derken tam olarak neyi 
+kastediyoruz? Aslında fikir oldukça basit. Kendimize sorduğumuz (ve 
+sizin de kendinize sormanız gerektiğini düşündüğümüz) şey, algoritmik 
+ticarete başlarsak hangi fırsatların önümüzde olduğudur. Ve 
+uygulayabileceğimiz stratejilerde hangi fırsatlar yatıyor?
+Özetle, algoritmik ticaret ufkunuzu nasıl genişletebilir?
+Ufkunuzu genişletmek açısından, kodlamayı öğrenmek size özgeçmişinize 
+ekleyebileceğiniz harika bir beceri kazandırır ve yepyeni bir olasılıklar 
+dünyasının kapılarını açar (Smigel, 2019). Toplumumuzun teknoloji odaklı hale 
+geldiği günümüzde, kodlama becerisi paha biçilmez bir beceridir.
+Bunun yanı sıra, kendi algoritmalarınızı yazabilmeniz, potansiyel olarak 
+oldukça karlı bir algoritmik yatırımcı olmanız ve pasif gelir elde etmeye 
+başlamanız anlamına gelir.
+Algoritmik işlem stratejileri açısından, fırsat alanının iki önemli alanı 
+vardır: kullanılan stratejiler ve işlem yapmaya karar verdiğiniz piyasalar 
+(Smigel, 2019).
+Algoritmik yatırımcılar için en büyük pazar fırsatları, kurumsal 
+yatırımcıların kapasitelerinin kısıtlı olduğu ve verilere erişimin kolay ve 
+bol olduğu bir alanda rol almaktır.
+Bu fırsatlardan yararlanmak istiyorsanız, yüksek frekanslı işlem gibi 
+rekabetçi piyasalardan uzak durmanızı öneririz.
+İkinci fırsat, kullandığınız stratejilerdedir. Algoritmik işlem stratejileri 
+genellikle altı kategoriye ayrılır.
+● Nicel:
+Nicel ticaret stratejileri, adından da anlaşılacağı gibi nicel analize 
+dayanır. Nicel analizler temelde, aşağıdakileri belirlemek için 
+kullanılan matematiksel hesaplamalar ve denklemlerdir:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+ticaret fırsatları.
+Bunlar genellikle hacim ve fiyat gibi göstergeleri içerir. Daha 
+sonra nicel bir analiz, bu göstergeleri denklemlerin girdisi olarak 
+kullanır.
+● Ortalamaya dönüş:
+Ortalamaya dönüş stratejileri, varlık fiyat oynaklığının geçici 
+olduğu ve tarihsel ortalamaya veya ortalama fiyata geri döneceği 
+inancına dayanır.
+Bu stratejiyi kullanan yatırımcılar, bir varlığın fiyatının tarihsel ortalamasına 
+dönmesinden sonra bundan yararlanmaya çalışırlar.
+● Trendleri takip eden:
+Trend ticareti veya trend takibi, bir varlığın algılanan 
+momentumundan yararlanmayı içerir. Örneğin, bir varlığın fiyatı 
+belirli bir yönde (yukarı veya aşağı) hareket ediyorsa, bu bir trend 
+olarak kabul edilir.
+Yatırımcılar daha sonra varlık yükselirken satın alarak ve ardından trend 
+kaçınılmaz olarak sona ermeden önce satarak bu trendden yararlanmayı 
+umabilirler.
+● Kopuş veya Çöküş:
+Breakout ticareti, bir trendin erken aşamalarında bir varlıkta 
+pozisyon almayı içerir. Genellikle bu, bir varlığın fiyatı yükselmeye 
+başladığında gerçekleşir. Buradaki amaç, mümkün olduğunca fazla 
+kâr elde etmek amacıyla erken giriş yapıp trend durgunlaşmaya 
+başladığında pozisyonunuzu kapatmaktır.
+● Arbitraj:
+Arbitraj ticaret stratejileri, varlığın listelenmiş fiyatındaki küçük 
+farklardan kar elde etmek amacıyla aynı varlığın çeşitli piyasalarda 
+eş zamanlı olarak alınıp satılmasını içerir.
+● Sömürünün yeniden dengelenmesi:
+Bu yöntemi kullanan yatırımcılar, kar elde etmeyi hedefler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+profil yeniden dengelemesinden yararlanarak.
+Ayrıca en iyi emir fiyatlarını elde etmeyi hedefleyen birden fazla yürütme 
+stratejisi vardır ve bunlar şunlardır:
+● Ton ağırlıklı ortalama fiyat (TWAP)
+● Hacim ağırlıklı ortalama fiyat (VWAP)
+● Hacim yüzdesi (POV).
+Bu bölümde bu stratejilerin her birini inceleyeceğiz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+Algoritmik Ticaret Stratejileri
+Herhangi bir yatırım stratejisinin temeli, özelliklerinizi ve finansal profilinizi 
+göz önünde bulundurarak hala karlı olan bir fırsatı belirlemektir. Aşağıda 
+popüler algoritmik yatırım stratejileri yer almaktadır.
+Trend Takip Eden (Momentum Tabanlı) Stratejiler
+Trend takip stratejileri, momentum tabanlı stratejiler olarak da bilinir, 
+yükselişte gibi görünen finansal varlıkları satın almayı ve fiyatları 
+zirveye ulaştığında bu varlıkları satmayı amaçlayan işlem stratejileridir 
+(Barone, 2020).
+Diyelim ki piyasada belirli bir trend var. Bir yatırımcı veya trader olarak, bu 
+trendi takip etmeyi seçiyorsunuz. Bu durumda, traderlar ve yatırımcılar, 
+trendin devam edip etmeyeceğini belirlemek için istatistiksel verileri analiz 
+edeceklerdir.
+Bu bilgileri kullanarak varlığı ne zaman satacaklarına karar verecekler.
+Buradaki fikir, kısa vadeli yükseliş trendleri gösteren satın alma 
+fırsatları bularak piyasa oynaklığından yararlanmak ve varlık ivmesini 
+kaybettiğinde hızla satmaktır.
+Momentum tabanlı işlemlerde sıklıkla kullanılan göstergeler hareketli 
+ortalamalar, fiyat noktası hareketleri ve kanal kırılmalarıdır.
+Trend tabanlı stratejiler, herhangi bir fiyat tahminine veya öngörüsüne 
+bağlı olmadıkları için genellikle bir algoritma aracılığıyla kodlanması ve 
+uygulanması en kolay olanlardır. Yaptığınız işlemler, olumlu piyasa 
+trendlerinin ortaya çıkmasına dayanır ve algoritmalar aracılığıyla 
+uygulanması oldukça kolaydır.
+Momentum bazlı işlemlerde zamanlama hayati önem taşır çünkü kayıptan 
+kaçınmak ve kâr elde etmek için tam olarak ne zaman alım ve satım 
+yapmanız gerektiğini bilmeniz gerekir. Bu da doğru risk yönetimi tekniklerini 
+uygulamanızı gerektirir.
+Bu nedenle, momentum ticaretinin dezavantajlarından biri, zamanınızın 
+bir kısmını alabilecek doğru bir izleme gerektirmesidir. Ayrıca, momentum 
+tabanlı ticareti denemeye karar verirseniz, olası kayıplara karşı korunmak 
+için işlem portföyünüzü çeşitlendirmenizi öneririz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Momentum tabanlı iki ana işlem stratejisi vardır. Bu stratejiler ya 
+geçmiş getirilere ya da kazanç sürprizlerine dayanır. Her ikisi de 
+piyasanın çeşitli bilgilere verdiği tepkiden yararlanmayı amaçlar.
+● Kazanç momentumu stratejileri, kısa vadeli kazançlarla bağlantılı 
+bilgilere piyasanın yetersiz tepki vermesinden kar elde etmeyi 
+içerir.
+● Fiyat momentumu stratejileri, bir varlığın uzun vadeli karlılığını da 
+içeren daha geniş bir bilgi kümesine yönelik yavaş piyasa 
+tepkilerinden yararlanarak kar elde etmeyi içerir.
+Tahkim Fırsatları
+Arbitraj fırsatları döviz işlemlerini içerir ve yatırımcıların ve tüccarların 
+aynı menkul kıymeti, para birimini veya emtiayı iki farklı piyasada eş 
+zamanlı olarak alıp satarak kar elde etmelerine olanak tanır 
+(Bloomenthal, 2019).
+Esasen, yatırımcı, bir piyasada düşük fiyattan çift listeli bir finansal 
+varlık satın alırken, aynı anda farklı bir piyasada daha yüksek fiyattan 
+satar. Örneğin, bir borsada 40 dolardan Amazon hissesi satın alıp, 
+ardından bu hisseyi farklı bir piyasada (farklı bölge/ülke) 100 dolara 
+satarak 60 dolar kâr elde edebilirsiniz.
+Yatırımcıların, fiyatı henüz değişen döviz kuruna göre ayarlanmamış bir 
+dövizde hisse senedi alıp satarak arbitrajdan yararlanmaları da 
+yaygındır.
+Bu yöntem vadeli işlemler, opsiyonlar, emtialar, döviz çiftleri ve hisse senetleri 
+için kullanılabilir.
+Bu işlem stratejisi, orta düzey yatırımcılar için harikadır çünkü oldukça 
+basittir ve kodlanması da kolaydır. Ayrıca, özellikle diğer işlem 
+stratejileriyle karşılaştırıldığında düşük riskli olarak kabul edilir.
+Bununla birlikte, arbitrajın daha karmaşık olabilen çeşitli alt stratejileri 
+vardır. Bu yöntemlerden biri, yatırım ve ticaret için tetikleyici olarak 
+şirket satın almaları, şirket birleşmeleri veya yeni bir şirket girişiminin 
+başlatılması gibi kurumsal olayları takip etmeye odaklanır (Bhagat ve 
+Singh, 2018).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+Yatırımcılar ve tüccarlar daha sonra bu kurumsal olayların algılanan 
+sonucuna bağlı olarak hareket edeceklerdir.
+Bir diğer popüler yöntem ise istatistiksel arbitrajdır. 
+İstatistiksel Arbitraj:
+İstatistiksel Arbitraj, varlığın fiyat noktasının yanlış fiyatlandırılması nedeniyle bir 
+arbitraj fırsatının ortaya çıkması durumunda ortaya çıkar. Bu yöntem, algoritmik 
+alım satımla birlikte kullanıldığında oldukça karlı olabilir.
+Buradaki amaç, finansal aracın beklenen değerine dayanarak finansal 
+aracın yanlış fiyatlandırılmasından kar elde etmektir (Bhagat & Singh, 
+2018).
+Bu yöntem, piyasa dalgalanmaları nedeniyle pozisyonlara ne kadar hızlı 
+girip çıkmanız gerektiği nedeniyle algoritmik ticarette de iyi çalışır. Bir 
+insanın bu tempoya ayak uydurması ve fiyat değişikliklerini takip etmesi 
+oldukça zor olsa da, bir algoritmanın böyle sorunları olmayacaktır.
+İstatistiksel Arbitraj Algoritmalarıbüyük ölçüde ortalama revizyonlara 
+dayanır ve çift işlem stratejisi kullanıldığında en iyi şekilde çalışır.Çift 
+ticaretiFiyatlarında tarihsel olarak eş hareket gösteren hisse senetlerine 
+odaklanan istatistiksel bir arbitraj stratejisidir. Bu hisse senetleri, temel ve 
+piyasa temelli benzerliklere dayalı çiftlerdir.
+Çift işlem, piyasa borsalarındaki göreceli fiyatların dengede olduğu ve 
+bu kuraldan herhangi bir sapmanın sonunda kendini düzelteceği fikrine 
+dayanır.
+Bu nedenle, bir hisse senedi diğerinden daha iyi performans gösterdiğinde, iyi performans 
+gösteren hisse senedinin açığa satıldığı, kötü performans gösteren hisse senedinin ise uzun 
+pozisyon aldığı düşünülür. Bu kısa vadeli ayrışma, fiyatların eşitlenmesiyle sonunda sona 
+erecektir.
+Örnek olarak Pepsi ve Coca-Cola'yı ele alalım. Her ikisi de oldukça benzer 
+ürünler satan büyük gazlı içecek şirketleridir. Tarihsel olarak, bu şirketlerin 
+fiyat düşüşleri ve artışları ortak olmuştur. Dolayısıyla, Pepsi'nin fiyatı 
+önemli ölçüde artarken Coca-Cola aynı kalırsa, ikili opsiyon yatırımcıları 
+Coca-Cola hissesi satın alır ve Pepsi hisselerini satarlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+Hisse senedi fiyatlarının tarihi denge noktasına döneceği varsayımı.
+Eğer haklılarsa, Pepsi ve Coca-Cola hisselerinin fiyat farkından kar elde 
+edecekler.
+Bu oldukça basit bir yöntem olsa da ve doğru kodlama ile kârlılığa yol açabilse 
+de, arbitraj yapmak için önemli miktarda başlangıç   sermayesine ihtiyacınız 
+olacak. Ayrıca, en son teknolojiye erişiminiz ve arbitrajı kârlı hale getirmek için 
+gerekli uzmanlığa sahip olmanız gerekecek.
+Endeks Fonu Yeniden Dengeleme
+Endeks fonu yeniden dengelemesine geçmeden önce, yeniden dengelemenin ne olduğunu 
+ve nasıl çalıştığını tanımlayalım.
+Yeniden dengeleme, bir ticaret veya yatırım portföyünün varlıkların 
+ağırlıklandırılması açısından yeniden düzenlenmesini içerir. Amaç, 
+portföyü istenen varlık dağılımına geri getirmek için varlık alıp 
+satmaktır.
+Örneğin, hedefinizin %20 hisse senedi, %50 emtia ve %30 vadeli işlem 
+sözleşmeleri ile işlem yapmak olduğunu varsayalım. Ancak zamanla, %50 
+hisse senedi ve %50 vadeli işlem sözleşmeleri ile işlem yapmaya başladınız 
+ve işlem portföyünüz artık istediğiniz gibi görünmüyor.
+İşlem stratejiniz ve finansal hedefleriniz değişip değişmediğine bağlı 
+olarak, %20, %50, %30'luk hedef tahsisinize ulaşabilmeniz için 
+portföyünüzü yeniden dengelemeye karar verebilirsiniz.
+Portföyünüzü yeniden dengelemek, portföyünüzün yeterince 
+çeşitlendirilmiş kalmasını ve uzmanlık alanınız dahilinde faaliyet 
+göstermeye devam etmenizi sağlayarak gereksiz risklere maruz 
+kalmanızı da engeller (Chen, 2019b).
+Şimdi, bunların hepsi iyi ve güzel, ama yeniden dengelemeden nasıl kar elde 
+etmeyi düşünüyorsunuz?
+Endeks fonu yeniden dengelemesiyle, yatırımcılar portföylerini kıyaslama 
+endeksleriyle uyumlu hale getirmeyi hedefler. Algoritmik yatırımcılar ise 
+bu durumdan faydalanarak işlemlerden yararlanabilirler.
+Bu işlemler muhtemelen 20 ila 80 baz puanlık karlar sunabilir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+Fon yeniden dengelenmeden önce kaç hisse senedi olduğuna bağlı olarak. 
+Algoritmik ticaret burada iyi çalışır çünkü program, mümkün olan en iyi fiyatları 
+garantilemek için bu işlemleri doğru zamanda gerçekleştirebilir (Endeks Yeniden 
+Dengeleme İşlemlerinin Planlanması ve Yürütülmesi | Ryedale, 2021).
+Nicel Temelli Stratejiler
+Nicel ticaret, nicel analize dayanan ticaret stratejilerini içerir. Bu tür 
+ticaret stratejileri aynı zamanda şu şekilde de bilinir:matematiksel 
+model tabanlı stratejilerve işlem fırsatlarını belirlemek için 
+matematiksel fonksiyonlara ve denklemlere bağımlıdırlar (Sharma, 
+2021). Matematiksel model tabanlı stratejiler kullanıldığında, bu işlem 
+fırsatlarını belirlemeye çalışırken geriye dönük test hayati önem taşır.
+Nicel ticaret oldukça yenilikçidir ve karlı bir şekilde ticaret yapmak için 
+modern teknolojiden, veri ve bilginin kullanılabilirliğinden ve 
+matematikten yararlanır.
+Genellikle yatırımcılar, kendilerine uygun bir işlem stratejisini temel 
+alarak matematiksel bir model oluştururlar. Ardından, bu modeli 
+geçmiş piyasa verileri üzerinde test eden bir algoritma geliştirirler 
+(Sharma, 2021).
+Model, yatırımcının istediği şekilde çalışacak şekilde optimize edilene 
+kadar birçok kez tekrar test edilecektir.
+Şöyle düşünün: Diyelim ki meteoroloji uzmanı bir raporu işliyor ve 
+güneş henüz batmamışken %80 yağmur ihtimali öngörüyor. 
+Meteoroloji uzmanı, çevredeki iklim verilerini toplayıp analiz ederek ve 
+tarihsel olarak bu bölgenin 100 yağıştan 80'inde yağmur aldığını 
+bularak bu sonuca varmış olabilir.
+Dolayısıyla, veri analizinin sonuçlarına göre %80 oranında yağmur 
+ihtimalinin bulunduğunu rahatlıkla söyleyebiliyor.
+Nicel ticaret stratejileri, bir ticaret stratejisi geliştirmek veya doğrulamak 
+amacıyla hacim, diğer varlıklarla korelasyon ve tarihsel fiyat noktası 
+hareketleri gibi piyasa verilerini analiz etmek için matematiksel denklemler 
+kullanarak benzer bir kavram üzerinde çalışır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+Nicel ticaretin dezavantajlarından biri, işlem modelinizin finansal piyasa 
+koşullarıyla uyumlu olması gerektiğidir. Bu nedenle, piyasa değişirse 
+modelinizin işe yaramaz hale gelme ve her şeye yeniden başlamak 
+zorunda kalma riski vardır.
+İşlem Aralığı (Ortalama Geri Dönüş) İşlem Stratejileri
+İşlem aralığı stratejileri, bir finansal aracın fiyat dalgalanmalarının 
+doğası gereği geçici olduğu ve zamanla ortalama değerine döneceği 
+fikrine dayanır (Chen, 2021).
+Bir fiyat aralığının belirlenmesi, ana hatlarının belirlenmesi ve bu fiyat aralığına dayalı 
+bir algoritma geliştirilmesi, varlığın fiyatının bu aralıktan çıkması durumunda işlemlerin 
+gerçekleştirilmesini sağlar.
+İşlem aralığı stratejisi, piyasa koşullarının istatistiksel analizinde sıklıkla 
+kullanılır. Bu kavram, bir varlığın fiyat oynaklığını ve uzun vadeli bir 
+ortalama etrafında nasıl dalgalandığını tanımlarken opsiyon fiyatına da 
+uygulanabilir (Chen, 2021).
+Bu stratejiyi uygulamanın en iyi yolu, onu çeşitli tahmin teknikleriyle 
+birlikte kullanmaktır. Buradaki fikir, yatırımcıların bu strateji ve 
+teknikleri aynı anda kullanarak mümkün olan en iyi işlem fırsatlarını 
+tespit edebilmeleridir.
+Şöyle düşünün: Diyelim ki geçmiş verileri analiz ederken, bir hisse senedinin 
+ortalama fiyatının 50 dolar olduğunu ve 55 dolar ile 44 dolar arasında düzenli 
+olarak dalgalandığını gördünüz. Bunu kodlarken, algoritmanızın geçmiş verilere, 
+fiyat noktası grafiklerine ve ortalama ortalama grafiklerine de erişebilmesini 
+istersiniz.
+Bu girdileri kullanarak, algoritmanızın fiyat 50 doların altına düştüğünde hisse senedi 
+almasını ve fiyat 50 doların üzerine çıktığında hisse senedini satmasını ve böylece fiyat 
+farkından kar elde etmesini istersiniz.
+Piyasa trendlerini okuma konusunda deneyimliyseniz ve etkili bir işlem 
+algoritmanız varsa, ortalamaya dönüş stratejisi oldukça karlı olabilir. 
+Bununla birlikte, her ticaret stratejisinde olduğu gibi, ortalamaya dönüş 
+stratejisi de risksiz değildir.
+Bu yöntemin en büyük riski, normal fiyat dalgalanma modelinin tahmin 
+ettiğiniz gibi gerçekleşeceğinden %100 emin olamamanızdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+Bazen piyasalarda beklenmedik dalgalanmalar yaşanabilir, bu da 
+öngörülemeyen iniş ve çıkışlara sebep olabilir.
+Bu olaylar yeni bir ürünün piyasaya sürülmesi, bir şirket birleşmesi veya 
+başka bir önemli rakibin ortaya çıkmasıyla tetiklenebilir.
+Hacim Ağırlıklı Ortalama Fiyat (VWAP)
+Hacim ağırlıklı ortalama fiyat (VWAP), yatırımcıların gün boyunca işlem 
+gören bir finansal varlığın ortalama fiyatını belirlemeye çalışırken 
+kullandıkları bir işlem ölçütüdür. Adından da anlaşılacağı gibi, VWAP, 
+varlığın hacmine ve fiyatına dayanır (Fernando, 2021).
+Yatırımcılar genellikle bu bilgileri piyasa eğilimleri ve varlığın değeri hakkında 
+fikir edinmek için kullanırlar.
+VWAP, büyük bir emri parçalara ayırır ve hisse senedine özgü geçmiş 
+hacim profillerini kullanarak emrin daha küçük parçalarını piyasaya 
+sunar (Fernando, 2021). Bu, VWAP'ye mümkün olduğunca yakın bir 
+işlem gerçekleştirmeyi amaçlar.
+Bu strateji, yatırımcıların belirli bir zaman dilimindeki bir varlığın fiyatının daha 
+net bir göstergesini görmek istediklerinde sıklıkla uygulanır. Ayrıca, daha 
+deneyimli yatırımcılar tarafından, işlemlerinin alım veya satım yapmak istedikleri 
+fiyatın üzerine çıkmamasını sağlamak istediklerinde de kullanılabilir.
+Bir varlığın VWAP'sini hesaplamak oldukça basittir. VWAP'yi kullanarak, her 
+işlem için işlem gören tutarı hesaplayabilir ve ardından bu tutarı işlem 
+gören toplam hisse sayısına bölebilirsiniz.
+VWAP tabanlı işlem stratejilerinin en büyük sınırlamalarından biri, 
+VWAP'nin tek günlük bir gösterge olmasıdır. Bu, VWAP endeksinin her 
+işlem gününün başında yeniden başlatıldığı anlamına gelir. Bu durum, 
+özellikle algoritmik işlem için kullanımını sınırlar, çünkü belirli bir süre 
+boyunca ortalama VWAP, gerçek VWAP okumasına muhtemelen sadık 
+değildir (Fernando, 2021).
+VWAP da tarihsel verilere dayanmaktadır ve bu nedenle doğası gereği öngörücü 
+değildir.
+Bununla birlikte, VWAP tabanlı ticareti önermiyoruz
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+Kodlanması oldukça karmaşık olabileceği ve piyasa eğilimleri ve finans piyasaları 
+hakkında çalışma bilgisi gerektirdiği için yeni başlayanlar için stratejiler.
+Zaman Ağırlıklı Ortalama Fiyat (TWAP)
+Zaman Ağırlıklı Ortalama Fiyat (TWAP), belirli bir zaman dilimindeki 
+ağırlıklı ortalama fiyata dayanır. VWAP'ye benzer şekilde, TWAP da 
+yatırımcıların çok sayıda işlem yapmak istediklerinde kullandıkları bir 
+işlem algoritmasıdır.
+TWAP kullanıldığında, yatırımcılar büyük bir emri, TWAP fiyatı üzerinden 
+değerlendirilen çok sayıda küçük emre bölebilirler. Bu, büyük emirlerin 
+piyasa borsalarında bir finansal varlığın değerini aniden artırmasını 
+önlemek amacıyla yapılır.
+Şöyle ifade edelim: 10.000 hisselik bir emrin gerçekleştirilmesi, söz konusu hisselerin fiyatı 
+üzerinde, örneğin 1.000 hisselik 100 küçük emrin gerçekleştirilmesinden çok daha büyük 
+bir etkiye sahip olacaktır. Daha büyük emirler, gerçekleştirildiğinde, bir varlığın değerini 
+geçici olarak yükseltir ve bu durum, alım yapmayı hedefleyen yatırımcının lehine işlemez.
+TWAP, özünde, yatırımcılar ve traderlar için ticareti kolaylaştırmak amacıyla 
+büyük emirleri daha küçük emirlere bölmek için kullanılır.
+TWAP, yatırımcılar tarafından bir varlığın piyasa değerini bulmaya 
+çalışırken de kullanılabilir. Genellikle yüksek hacimli veya yüksek 
+frekanslı yatırımcılar tarafından kullanılır.
+TWAP'ı hesaplamak oldukça basittir. Tek yapmanız gereken, tüm günün fiyat 
+çubuğunun (o günün açılış, en yüksek, en düşük ve kapanış fiyatları) 
+ortalamasını almaktır. Ardından, emri uygulamaya karar verdiğiniz zamana 
+bağlı olarak, tüm süre boyunca geçerli fiyatların ortalamasını hesaplamak 
+için her günün ortalama fiyatı alınır.
+Denklem şu şekildedir:
+Her günün fiyatının ortalaması = (Açılış + Kapanış + En Yüksek + En Düşük fiyatlar) / 4
+TWAP, yukarıda bahsedilen VWAP'den farklıdır çünkü VWAP, TWAP 
+kadar kolay hesaplanamaz. TWAP da zamanla tanımlanırken, VWAP 
+hacimle tanımlanır.
+TWAP'ın hesaplanması ne kadar basit olsa da, kusurları da yok değil. Birkaç
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+Bu işlem stratejisinin dezavantajları, genellikle aşırı öngörülebilir olması ve 
+bu durumun stratejinizi diğer yatırımcılara karşı savunmasız 
+bırakabilmesidir. Bu işlem yöntemi karmaşık değildir ve bu bölümde 
+bahsedilen diğer işlem stratejilerinin birçok nüansından yoksundur.
+Hacim Yüzdesi (POV)
+Katılımcı stratejisi olarak da bilinen hacim yüzdesi (POV) işlem stratejisi, 
+piyasa hacminin yüzdesini (Hacim Yüzdesi (POV), nd) hedefleyerek işlem 
+hızını kontrol etmeye odaklanır. Bu, işlemin POV'ye mümkün olduğunca 
+yakın kalmasını sağlamak için yapılır.
+POV işlem stratejisi, yatırımcının verdiği emir tamamlanana veya 
+finansal piyasa kapanana kadar mevcut piyasa hacminin açıkça 
+tanımlanmış bir yüzdesinde işlem yapmayı hedefler.
+Algoritmik ticaretle birlikte kullanıldığında, algoritmanız, sipariş 
+tamamlanana kadar belirlediğiniz katılım/yüzde oranına göre sürekli 
+olarak kısmi emirler gönderecektir.
+Bu nedenle, bu işlem yöntemi, belirli bir zaman aralığında yüksek hacimli işlemler veya 
+büyük emirler gerçekleştirmeyi planlıyorsanız en avantajlı yöntemdir. Ayrıca, 
+yatırımcılar beklenen piyasa fiyatından memnun olduklarında da sıklıkla kullanılır, 
+çünkü POV, işlemleri piyasa fiyatına yakın bir şekilde gerçekleştirir.
+TWAP'ta olduğu gibi, POV da yatırımcıların daha büyük emirlerin varlığın fiyatı 
+üzerindeki etkisini sınırlamak istemeleri durumunda kullanılabilir.
+POV uygularken göz önünde bulundurmanız gereken birkaç strateji 
+parametresi vardır. Kullanacağınız parametreler, işlem stratejinize ve 
+seçtiğiniz aracı kuruma bağlı olacaktır.
+Dikkat etmeniz gereken ilk parametre başlangıç   zamanıdır.başlangıç   
+zamanıBir emrin borsaya gönderilip gönderilmeyeceğini belirler. Bu 
+nedenle, gereksiz kayıplara uğramamak için piyasanızın başlangıç   
+saatini bilmelisiniz. Başlangıç   saati, finans piyasasından finans 
+piyasasına ve aracı kurumdan aracı kuruma değişiklik gösterecektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+İkinci parametre bitiş saatidir. Başlangıç   saatine benzer şekilde, son 
+zamanBir emrin yerine getirilip getirilmeyeceğini belirler.
+Üçüncü parametre iseyüzde hacimPOV, bir algoritmaya kodlandığında, 
+varlığın toplam işlem hacmindeki yüzdesini sınırlamak için işlemlerinizin 
+katılım oranını otomatik olarak ayarlar. Örneğin, bir varlık dakikada 
+100.000 hisse senedi üzerinden işlem görüyorsa ve yüzde hacmi %20 
+ise, algoritma dakikada 20.000 hisse senedi işlem yapacaktır.
+Temel olarak, yüzdelik hacim belirli bir zaman dilimi içerisinde kaç adet 
+hissenin işlem göreceğini belirler.
+Dördüncü parametre isefiyat markasıFiyat markasını, bir varlığa 
+koyabileceğiniz fiyat limiti olarak düşünebilirsiniz. Piyasa fiyatı, fiyat 
+markası limitinin ötesine geçerse, algoritma emri yerine 
+getirmeyecektir.
+Son parametre şudur:referans fiyatıFiyat markası gibi, referans fiyat 
+da algoritmanın işlemleri gerçekleştireceği fiyatı etkiler. Algoritmanızı 
+nasıl kodladığınıza bağlı olarak, daha yüksek kârlar elde etmek için 
+işlemleri gerçekleştirirken otomatik olarak referans fiyatı geçmeye 
+çalışmalıdır.
+Uygulama Açığı
+Uygulama açığı, bir varlığın alım veya satım kararı verildiği andaki 
+mevcut fiyatı ile vergiler ve komisyonlar gibi ek işlem ücretleri dikkate 
+alındıktan sonra nihai yürütme fiyatı arasındaki farklara odaklanan bir 
+işlem stratejisidir (Hayes, 2020).
+Bu durum genellikle işlemin yapılması ile tamamlanması arasındaki 
+zaman farkından kaynaklanır ve zayıf ağ veya internet bağlantısından 
+kaynaklanabilir.
+Dolayısıyla, uygulama açığı, emir açılışı ile kapanışı arasında piyasa 
+dalgalanması olması durumunda, işlem maliyetleri ile başlangıç   (fırsat) 
+maliyetlerinin toplamıdır. Bu duruma kayma da denir.
+Bir uygulama açığı ticaret stratejisi, en üst düzeye çıkarmayı amaçlar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+Yatırımcının işlem maliyetini düşürerek elde ettiği kâr. Bu, gerçek zamanlı 
+piyasa borsalarında işlem yaparak sağlanır. Bu sayede, yalnızca emir 
+maliyetinden değil, aynı zamanda gecikmeli bir işlemden kaynaklanabilecek 
+fırsat maliyetinden de tasarruf edilir.
+Maliyetleri en aza indirmeye yardımcı olan son teknolojik gelişmeler 
+arasında gerçek zamanlı fiyat tekliflerinin sunulması ve brokerlerin genel 
+olarak komisyonsuz işlemlere yönelmesi yer alıyor.
+Uygulama eksikliklerini en aza indirmek için kullanabileceğiniz diğer yöntemler 
+arasında piyasa emirleri yerine limit emirleri veya stop-limit emirleri kullanmak 
+yer alır. Piyasa emirlerinin aksine, bir limit emri yalnızca istediğiniz fiyattan veya 
+belirlediğinizden daha iyi bir fiyattan gerçekleşir. Bu nedenle, emir 
+beklediğinizden daha düşük bir fiyattan gerçekleşmez (Hayes, 2020).
+Limit ve stop-limit emirlerini kullanmanın olası bir dezavantajı, oldukça 
+kazançlı fırsatları kaçırmanız olabilir. Ayrıca, piyasanın oynak hale gelmesi 
+durumunda pozisyonlarınızdan hızla çıkmanızı engelleyebilecekleri için, 
+limit ve stop-limit emirlerini yalnızca piyasanın uygun olduğu zamanlarda 
+kullanmanızı öneririz.
+Bununla birlikte, ticaretin bu yönünü tamamen ortadan kaldırmak istesek de, 
+uygulama eksikliklerinin kaçınılmaz olduğu da bir gerçek.
+Duyguya Dayalı İşlem Stratejileri
+Önceki bölümlerde duygu temelli alım satıma kısaca değinmiştik. Bu 
+bölümde, bu alım satım stratejisini ve nasıl çalıştığını derinlemesine 
+inceleyeceğiz.
+Daha önce de belirtildiği gibi, piyasa duyarlılığı, yatırımcıların veya genel 
+olarak yatırımcıların belirli bir finansal araca veya piyasaya doğru veya 
+onlardan uzaklaşarak hareket etmesidir (Smith, 2019). Belirli bir finansal 
+araç hakkında genel bir fikir birliğidir; bu fikir birliği olumsuz veya olumlu 
+olabilir. Genellikle piyasa duyarlılığı olumludur.
+Piyasa duyarlılığı, varlıkların fiyat hareketlerine bakıldığında görülebilir. 
+Hızla yükselen fiyatlar olumlu bir piyasa duyarlılığını (boğa) ve hızla 
+düşen fiyatlar olumsuz bir piyasa duyarlılığını (ayı) gösterir.
+Bu bölümde bahsedilen diğer ticaret stratejilerinin aksine, piyasa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+Duygular her zaman temel verilere, piyasa trendlerine veya veri ve haber 
+akışlarına dayanmaz (Smith, 2019). Çoğu zaman, piyasa duygusu insani 
+duygular tarafından yönlendirilir. Bu, kazançlı fırsatları kaçırma korkusuyla 
+ortaya çıkar.
+Piyasa duyarlılığını ölçmek için kullanılabilen teknik göstergeler; 
+Yüksek-Düşük Endeksi, Boğa Yüzdesi Endeksi (BPI), CBOE Volatilite 
+Endeksi (VIX) ve hareketli ortalamalardır.
+Piyasa duyarlılığı, günlük yatırımcılar tarafından sıklıkla kullanılır çünkü 
+günlük yatırımcıların kısa vadeli fiyat noktası hareketlerinden kar elde etmek 
+için neyi ölçüp işlem yapacaklarına karar verirken kullandıkları teknik 
+göstergeleri doğrudan etkiler.
+Piyasa duyarlılığı, piyasanın doğal olarak duyarlılığın ortadan kalkmasıyla kendini 
+düzelteceğine inanan ve kalabalığa karşı hareket etmeyi amaçlayan ters yönlü 
+yatırımcılar tarafından da kullanılabilir.
+Eğer deneyimlilerse, yatırımcılar ve tüccarlar düşük veya yüksek değerli 
+bir finansal varlıkla karşılaştıklarında piyasa duyarlılığından kar elde 
+edebilirler ve hızlı hareket edebilirler.
+Piyasa duyarlılığının en önemli avantajlarından biri, müşterilerin belirli 
+bir şirket ve ürün hakkındaki hisleri hakkında oldukça iyi bir fikir 
+edinmeniz gerekmesidir. Pazar bir şirkete doğru kaymışsa, büyük 
+olasılıkla o şirketi tercih ederler ve iyi performans göstermesini 
+beklerler. Pazar belirli bir şirketten uzaklaşmışsa, büyük olasılıkla 
+şirketin iyi performans göstereceğine pek inanmazlar.
+Piyasa Yapıcılığı
+Bir piyasa yapıcı (ister kurumsal ister bireysel yatırımcı olsun), işlem yaparken 
+piyasanın her iki tarafında da hareket eder. Bu, hem alış hem de satış (talep) 
+teklifleri sunmaları ve en iyi teklife finansal araçlar satmaları anlamına gelir. 
+Bu şekilde, piyasanın her iki tarafında da hareket edebilirler.
+Örneğin, bir piyasa yapıcının Apple hisseleriyle işlem yaptığını ve 20,00 - 
+20,05 dolar (100x500) fiyat teklifi sunduğunu varsayalım. Bu, 100 hisseyi 20 
+dolara teklif edecekleri (alacakları) ve 500 hisseyi 20,05 dolara teklif 
+edecekleri (satacakları) anlamına gelir; böylece teklif fiyatı ile satış fiyatı 
+arasındaki farktan kâr elde ederler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+Diğer yatırımcılar ve yatırımcılar daha sonra hisse senedini 20,05 dolardan piyasa 
+fiyatından satın alabilir (teklifi yükseltebilir) veya hisseleri 20 dolara satabilirler (teklifi 
+vurabilirler).
+Bir piyasa yapıcı, başka bir yatırımcıdan emir aldığında, elindeki 
+hisseleri hemen satar.
+Piyasa yapıcıların ilginç bir yönü, piyasada iki yönlü fiyat teklifleri 
+sunabilmeleri sayesinde, işlem yapmanın beraberinde getirdiği olağan 
+risklerden bir nebze olsun korunmuş olmalarıdır.
+Bununla birlikte, piyasa yapıcılar, menkul kıymetlerinin ve varlıklarının, 
+satın alındıktan sonra ve satma fırsatı bulamadan değer kaybetme 
+riskiyle karşı karşıyadır. Sonuçta, satış fiyatı alış fiyatından düşükse, 
+zarar ederler.
+Piyasa yapıcıların temel amaçlarından biri, adından da anlaşılacağı gibi, 
+piyasa likiditesini artırarak piyasanın daha verimli çalışmasına yardımcı 
+olmaktır. Ayrıca, alım satım farkı (bidask spread) arasındaki farktan da kâr 
+elde ederler.
+Piyasa yapıcılar, belirli miktardaki varlıklar için fiyat tekliflerini alıp satarak 
+piyasa likiditesini artırabilirler. Bu varlıklar hisse senedi, emtia, vadeli işlem 
+veya opsiyonlar, kısacası herhangi bir finansal araç olabilir.
+Piyasa yapıcılar çoğunlukla büyük finansal firmalar veya piyasa 
+borsaları tarafından, finansal piyasaların likiditesini ve finansal 
+varlıklara yönelik işlem hacmini artırmak amacıyla istihdam edilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 76 ===
+Bölüm 5:
+Algoritmalarınızı Değerlendirme ve İzleme
+Algoritmalarınızı çalışır duruma getirdikten sonra izleme ve 
+değerlendirmenin önemine değindiğimizi biliyoruz. Ancak, bunu nasıl 
+yapacağınıza dair ipuçlarını henüz paylaşmadık.
+Daha önce de belirttiğimiz gibi, algoritmalarınızı doğru bir şekilde izlemek ve 
+değerlendirmek, beceri ve deneyim seviyeleri ne olursa olsun her algoritmik 
+yatırımcı için önemli bir adımdır.
+Algoritmik yatırımcılar için, alım satımdaki başarıları tamamen 
+algoritmalarının verimli çalışıp çalışmadığına bağlıdır. Ayrıca, piyasa 
+koşulları genellikle değişken olduğundan ve altta yatan ekonomik 
+ortama bağlı olduğundan, stratejilerinin ve sistemlerinin de değişimlere 
+uyum sağlayabilmesi gerekir.
+Piyasa koşulları, borsalar ve trendler de sürekli değişmekte ve 
+öngörülemeyen davranışlar sergileyebilmektedir. Bu nedenle, 
+programladığınız algoritmanın güncel piyasa koşulları ve trendleriyle 
+uyumlu kalacak şekilde güncellendiğinden emin olmanız önemlidir.
+Algoritmanızın performansını değerlendirmenin ve izlemenin temel 
+nedenlerinden biri, güncel kalmasını ve çalıştığınız finans piyasasıyla 
+alakasız ve uyumsuz hale gelmemesini sağlamaktır.
+Bu bölümde, algoritmanızın piyasa trendlerine ayak uydurup uyduramadığını ve iyi 
+performans gösterip göstermediğini nasıl kontrol edeceğiniz ve ne zaman 
+güncellenmesi gerektiğini nasıl bileceğiniz konusunda birkaç ipucu vereceğiz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 77 ===
+Ticaret Stratejilerinin Değerlendirilmesi
+Teknolojik gelişme ve inovasyon son yıllarda büyük bir hızla ilerledi ve 
+bu, algoritmik ve sistematik yatırımcılar için bulunmaz bir nimet oldu. 
+Bu teknolojik gelişmeler, finans, ticaret ve yatırım dünyasını kökten 
+değiştirmekle kalmadı, aynı zamanda süreci inanılmaz derecede kolay 
+ve kullanıcı dostu hale getirdi.
+Geliştirilen alanlardan biri de algoritmaların değerlendirilmesi ve 
+izlenmesidir. Mevcut piyasa analiz platformları, algoritmik yatırımcıların işlem 
+sistemlerini incelemelerini inanılmaz derecede kolaylaştırmıştır.
+Algoritmanızı değerlendirmek ve izlemek, bir strateji performans raporu 
+hazırlamak ve algoritmanın hala ticari ve finansal ihtiyaçlarınızı karşılayıp 
+karşılamadığına karar vermek kadar basit hale geldi.
+Strateji performans raporlarıAlgoritmanıza performans metrikleri 
+uygulanarak derlenir ve esasen algoritmanızın performansının çeşitli 
+matematiksel yönlerine dayanan farklı veri kümelerinin bir derlemesidir 
+(Folger, 2019). Bu rapor, algoritmanızın finans piyasası borsasında nasıl 
+performans gösterdiğine dair nesnel bir genel bakış sunar. 
+Algoritmanızın strateji performans raporunu analiz etmek, 
+algoritmanızın güçlü ve zayıf yönlerini bulmanın harika bir yoludur.
+Bunu, algoritmanızda neyin işe yarayıp neyin yaramadığını bulmanıza yardımcı 
+olacak bir araç olarak düşünün. Bu araç, geçmiş verileri kullanarak geriye dönük 
+test yaparken ve algoritmanız yayına girdiğinde kullanılabilir.
+Algoritmik yatırımcılar için strateji performans raporları paha biçilmezdir. Çoğu 
+piyasa analiz platformu, özellikle geriye dönük testler sırasında yatırımcılara bu 
+özelliği sunar. Çoğu çevrimiçi aracı kurum da bu özelliği sunmalıdır, ancak bu 
+özellik bir ödeme duvarının arkasına gizlenmiş olabilir.
+Strateji Performans Raporunun Temel Bileşenleri
+Bir strateji performans raporunu analiz ederken, raporun genel 
+formatına ve nasıl okunması gerektiğine aşina olmalısınız. 
+Deneyimlerimize göre, strateji performans raporları oldukça...
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 78 ===
+Her yerde standart formattadır. Ancak, hangi çevrimiçi aracı kurum veya 
+piyasa analisti platformunu seçtiğinize bağlı olarak ufak farklılıklar olabilir.
+Bazı aracı kurumların ve piyasa analisti platformlarının verileri görüntüleme 
+konusunda farklı yöntemleri olabilir ve bunları kavramak birkaç deneme 
+gerektirebilir.
+Bununla birlikte, bir strateji performans raporunun aşina olmanız 
+gereken birkaç temel bileşeni vardır.
+Ön Sayfa (Özet)
+Strateji performans raporunun ön sayfası, esasen performans 
+metriklerinin ve rapordaki diğer verilerin bir özetidir. Algoritmanızın 
+belirli bir zaman diliminde finans piyasasında nasıl performans 
+gösterdiğinin anlık bir görüntüsüdür.
+Bu bilgiler genellikle tablo biçiminde gösterilir; performans ölçümleri 
+tablonun solunda, ilgili hesaplamalar ise tablonun sağında listelenir.
+Temel Performans Ölçütleri
+Hem özette hem de raporda listelenmesi gereken temel performans 
+ölçütleri; toplam net kâr, kârlılık yüzdesi, ortalama net işlem kârı, kâr 
+faktörü ve maksimum düşüştür. Muhtemelen tahmin edebileceğiniz 
+gibi, bu ölçütler algoritmanızın ne kadar iyi performans gösterdiğinin iyi 
+göstergeleridir.
+Strateji performans raporunuzun çok sayıda veri, istatistik ve bilgi 
+içermesi çok muhtemeldir. Ancak, bu ölçütler performansı 
+değerlendirirken en önemli olanlardır.
+Performans metrikleri genellikle her metriğin belirli bir zaman dilimindeki 
+işlem verilerini gösteren grafikler kullanılarak gösterilir.
+Bu metrikler, veri analizi ve işlem stratejileri uygulama konusunda henüz 
+yeni olan yeni başlayanlar için harika bir başlangıç   noktasıdır. Ayrıca, 
+verilerin geri kalanına dalmadan önce algoritmanızın performansının ilk 
+kapsamını görmek istiyorsanız da harikadır.
+Peki bu temel metrikler ne anlama geliyor? İşte kısa bir özet:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 79 ===
+1. Toplam Net Karlar
+Toplam net kâr, esasen bir işlem sisteminin belirli bir süre içindeki nihai 
+hedefi veya nihai kârıdır. Sonuçta, işlemin amacı kâr elde etmektir ve bu 
+performans ölçütü size ne kadar net kâr elde ettiğinizi gösterir.
+Toplam net kâr, tüm başarılı işlemlerin brüt kârından tüm işlemlerin 
+brüt zararının (komisyon veya tutma ücreti gibi işlem ücretleri dahil) 
+çıkarılmasıyla hesaplanır. Denklem aşağıdaki gibi olmalıdır:
+Brüt Karlar - (Brüt Zarar + İşlem Ücretleri) = Toplam Net Karlar
+Toplam net kâr metriği, hem işlem stratejinizin hem de algoritmanızın 
+performansının ve uygulanabilirliğinin harika bir göstergesidir; ancak tek 
+başına değerlendirilemez. Bu metriğe tek başına güvenmek oldukça 
+yanıltıcı olabilir, çünkü algoritmanızın gerçekten etkili bir performans 
+gösterip göstermediğinin doğru bir göstergesi değildir.
+Bu gösterge, algoritmanın içerdiği risk miktarını dikkate aldığında 
+sonuçları normalleştirememektedir.
+Bu nedenle, paha biçilmez bir ölçüt olmasına rağmen, onu tek başına 
+okumamanızı şiddetle tavsiye ederiz.
+2. Karlılık Yüzdesi
+Kârlılık yüzdesi, algoritmanızın başarılı işlemler gerçekleştirme 
+olasılığını gösterir. Önceki performans metriğinin aksine, her 
+yatırımcının hedeflemesi gereken tek bir ideal değer yoktur. 
+Bunun yerine, "ideal değer", işlem tarzınıza ve stratejinize bağlı 
+olarak yatırımcıdan yatırımcıya değişir.
+Trend ticareti yapan yatırımcılar, genellikle potansiyel olarak büyük kârlar 
+içeren daha büyük işlemler gerçekleştirdikleri için genellikle daha düşük 
+bir kâr yüzdesine sahip olurlar. Bunun nedeni, başarılı işlemlerin büyük 
+kârlar getirmesidir.
+Bu ticaret yöntemini kullanırken, karlılık yüzdesi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 80 ===
+Değer %40 kadar düşük olabilir, ancak yatırımcı büyük kazançlar 
+sayesinde yine de inanılmaz derecede başarılı olabilir. Başarısız olan 
+işlemler de genellikle kazançlarla karşılaştırıldığında küçük bir 
+kayıpla kapatılır.
+Kârlılık yüzdesi aşağıdaki denklemle hesaplanır:
+(Başarılı İşlemler ÷ Toplam İşlem Sayısı) x 100 = Karlılık Yüzdesi
+3. Ortalama İşlem Net Kârı
+Ortalama işlem net kârı, işlem başına kazandığınız veya 
+kaybettiğiniz ortalama para miktarını ifade eder. Bu performans 
+ölçütü, hem başarılı hem de başarısız işlemleri dikkate alır ve 
+daha önce bahsedilen toplam net kâr ölçütüne dayanır.
+Bu metriğin dezavantajlarından biri, bir aykırı değer tarafından 
+kolayca çarpıtılabilmesidir. Örneğin, diğerlerine kıyasla çok daha 
+büyük kâr getiren tek bir işlem, ortalama işlem net kârını bozabilir. 
+Bu durum, gerçekte olduğunuzdan çok daha kârlı görünmenize 
+neden olabilecek aşırı şişirilmiş bir ortalama işlem net kâr değerine 
+yol açabilir.
+Bunu önlemek için, daha doğru bir değer elde etmek amacıyla denklemden 
+aykırı değeri çıkarabilirsiniz.
+Ortalama net ticari kâr aşağıdaki şekilde hesaplanır:
+Toplam Net Karlar ÷ Toplam İşlem Sayısı = Ortalama İşlem Net 
+Karı
+4. Kâr Faktörü
+Kâr faktörü, brüt kârın brüt zararlara (+işlem ücretleri) 
+bölünmesiyle elde edilir. Bu ölçüm, bir işlem dönemi boyunca 
+gerçekleştirilen tüm işlemleri dikkate alır. Bu, birim risk başına 
+elde ettiğiniz kâr miktarını bulmak için yapılır.
+Kâr faktörü aşağıdaki şekilde hesaplanır:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 81 ===
+Toplam Brüt Karlar ÷ (Toplam Brüt Zararlar + İşlem Ücretleri) = Kar 
+Faktörü
+Ancak karlılık oranından farklı olarak hedeflemeniz gereken ideal 
+bir değer vardır.
+Örneğin, toplam brüt kârınızın 149.020 ABD doları, brüt zararınızın 
+ise işlem ücretlerinizle birlikte yaklaşık 75.215 ABD doları olduğunu 
+varsayalım. Hesaplama yapıldığında kâr faktörünüzün 1,98 olması 
+gerekir.
+1,98 oldukça makul bir kâr faktörüdür ve işlem algoritmanızın 
+kâr sağladığının bir göstergesidir. Riskler ve kayıplar ticaretin 
+doğasında var olsa da, amacınız bu kayıpları ve potansiyel riski 
+sürekli kâr elde ederek dengelemek olmalıdır.
+Kâr faktörünü kullanarak kârınızın zararınızdan ne kadar fazla 
+olduğunu bileceksiniz.
+Kâr faktörünüz 1'in altındaysa, örneğin 0,94 ise, bu, brüt 
+zararlarınızın brüt kârınızı aştığı ve dolayısıyla algoritmanızın 
+başarılı bir şekilde kâr üretmediği anlamına gelir. Bu durumda, 
+algoritmanızı ve işlem stratejinizi yeniden değerlendirmenizi 
+şiddetle tavsiye ederiz.
+5. Maksimum Düşüş
+Maksimum düşüş, esasen bir işlem dönemi için 'en kötü 
+senaryo'dur (Folger, 2019). Bu performans ölçütü, yatırımcıların 
+algoritma nedeniyle maruz kalabilecekleri risk miktarını 
+ölçmelerine yardımcı olur. Ayrıca, hesabın büyüklüğüne bağlı 
+olarak algoritmanızın uygulanabilir olup olmadığını anlamanıza 
+da yardımcı olur.
+Buradaki temel varsayım, riske atmaya razı olduğunuz nakit 
+miktarının maksimum düşüşten az olması durumunda, 
+geliştirdiğiniz işlem sisteminin size uygun olmayabileceğidir. Bu 
+durumda, çizim tahtasına geri dönmenizi ve işlem stratejinizi ve 
+algoritmanızı yeniden gözden geçirmenizi tavsiye ederiz.
+Maksimum düşüşü bu kadar önemli bir ölçüt yapan nedir?
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 82 ===
+Özellikle idealist ve yeni yatırımcılar için bir uyarı niteliğinde 
+olması. Bu ölçütün, risk toleransınız ve işlem hesabınızın 
+büyüklüğüyle uyumlu olması gerekir.
+Büyük hayaller kurup yıldızları hedeflemekte hiçbir sakınca yok; 
+ancak finansal hedeflerinize ulaşmak istiyorsanız, gerçekçi 
+olmaları gerekir. Aynı şey yatırım stratejiniz için de geçerlidir.
+Değerlendirmeniz Gereken Ek Hususlar
+Strateji performans raporu, işlem stratejinizi değerlendirirken 
+kullanabileceğiniz ana ve muhtemelen en kolay yöntem olsa da, 
+kullanacağınız tek yöntem bu olmamalıdır.
+Strateji performans raporunuz, algoritmanızın nasıl performans gösterdiğine dair 
+genel bir bakış elde etmenin harika bir yoludur. Ancak, genel bir bakış açısı elde 
+etmek istiyorsanız, aşağıdaki hususları göz önünde bulundurmalısınız:
+1. Metodoloji
+Adından da anlaşılacağı gibi, metodoloji stratejinizi nasıl, neden, 
+nerede ve ne zaman uyguladığınızı ifade eder. Bu yön, 
+stratejinizin parametrelerine, piyasa koşullarına, aracı kuruma, 
+işlem stratejisine, koda vb. odaklanır.
+Metodoloji esas itibariyle şu ana kadar yaptığınız her şeyi 
+kapsıyor.
+Metodolojinizi değerlendirirken, temelde nerede hata yapmış 
+olabileceğinizi bulmak amacıyla adımlarınızı geriye doğru 
+izliyorsunuz. Bu, yaptığınız her adımı ve seçimi iyice düşünüp 
+bunların doğru olup olmadığına karar vermek anlamına gelir.
+Kulağa çok fazla gelebilir, ancak aslında çok basit. Metodolojinizi 
+değerlendirirken, strateji performans raporunuzu bir rehber 
+olarak kullanmanızı öneririz.
+Örneğin, kâr faktörünüz düşükse, işlem stratejinizin yanı sıra işlem 
+ücretlerinizi ve masraflarınızı değerlendirmeye odaklanabilirsiniz. 
+Çoğu zaman, düşük kâr faktörünün nedeni, aracı kurumunuz 
+tarafından sizden gizli ücretler talep edilmesi olabilir.
+Bu durumda, kar faktörünüz sizi belirli bir şeye yönlendirecektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 83 ===
+Algoritmanızın ve işlemlerinizin dikkatinizi gerektiren alanları. Tek yapmanız 
+gereken, bu alanlardaki metodolojinizi yeniden gözden geçirmek ve zayıf 
+noktaları belirlemek.
+2. Frekans
+İşlem stratejinizin sıklığı, algoritmanızın işlemleri ne sıklıkla 
+gerçekleştirdiğini ifade eder. Dolayısıyla, yüksek frekanslı işlem, 
+bir işlem dönemi boyunca çok sayıda işlem gerçekleştireceğiniz 
+anlamına gelirken, düşük frekanslı işlem, bir işlem dönemi 
+boyunca az sayıda işlem gerçekleştireceğiniz anlamına gelir.
+Yüksek frekanslı işlem stratejileri günlük yatırımcılar tarafından sıklıkla 
+kullanılır.
+Yüksek frekanslı alım satım, büyük kârlar elde etme potansiyeline sahip 
+olsa da, büyük kayıplara uğrama riskini de taşır. Bununla birlikte, göz 
+önünde bulundurmanız gereken şeylerden biri, gerçekleştirmek 
+istediğiniz işlem sayısı için yeterli sermayeyi riske atmaya istekli olup 
+olmadığınızdır.
+Örneğin, yüksek frekanslı işlem için çok fazla sermayeye, düşük frekanslı 
+işlem için ise daha az sermayeye ihtiyacınız olacak.
+Bunun iyi bir göstergesi yukarıda bahsedilen maksimum düşüş 
+performans parametresidir.
+3. Parametreler
+Algoritmanızın ve işlem stratejinizin parametreleri, esasen 
+algoritmanızın sınırlamalarıdır. Bu nedenle, algoritmanız kodlama 
+sırasında belirlediğiniz parametrelerin ötesinde performans 
+gösteremez.
+3. Bölüm'e dönerseniz, işlem stratejinizin kurallarını bilmek ve bu 
+kuralları kodlayabilmekten bahsetmiştik. İşte parametreler bu 
+kurallardır. Algoritmanıza nasıl ve ne zaman çalışacağını söylerler. 
+Ayrıca, algoritmanızın ne kadar ve ne sıklıkta işlem 
+gerçekleştireceğini de sınırlarlar.
+Algoritmanızın performansıyla ilgili sorun yaşıyorsanız, kontrol 
+etmenizi önerdiğimiz ilk husus kurallarınızdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 84 ===
+Çoğu zaman, belirlediğiniz kurallar nedeniyle algoritmanız 
+zorlanıyor olabilir. Belki de bunları doğru şekilde düşünmemiş 
+veya kodlamamışsınızdır. Bazen, tüm işlem stratejisi yanlıştır ve 
+en baştan başlamanız gerekir.
+4. Volatilite
+Volatilite, bir işlem stratejisiyle ilişkili risk miktarını ifade eder. 
+İşlem stratejinizin ve algoritmanızın bu yönü, strateji performans 
+raporunda mevcut olmalıdır.
+Bu husus yalnızca işlem stratejinize değil, aynı zamanda işlem 
+yapacağınız finansal varlığa da odaklanır.
+Dolayısıyla, bir dayanak varlığın oynaklığı ne kadar yüksekse, kayıp riski 
+de o kadar yüksektir. Oynaklık ne kadar düşükse, risk de o kadar 
+düşüktür.
+Volatilite oranı genellikle Sharpe oranı kullanılarak gösterilir. Sharpe 
+oranı, William Sharpe tarafından geliştirilmiştir ve bu nedenle bu adı 
+almıştır. Bu oran, bir yatırımın getirisini riskle karşılaştırarak analiz 
+etmek ve anlamak için kullanılır (Fernando, 2019).
+Genellikle, Sharpe oranı ne kadar büyükse, risk ayarlama getirisi de o 
+kadar iyi olur. Bu nedenle, bu hesaplamayı kullanırken daha yüksek bir 
+Sharpe oranını hedeflemek en iyisidir, çünkü bu, getirisinin riskten çok 
+daha ağır bastığı anlamına gelir.
+Peki, strateji performans raporunuzu analiz ettikten sonra ne olacak? 
+Sanırım bu sorunun cevabı raporunuzun sonuçlarına bağlı. Rapor 
+olumluysa ve algoritmanız ile işlem stratejileriniz amaçlandığı gibi 
+çalışıyorsa, yapmanız gereken pek bir şey yok.
+Bu noktada, işlem stratejinizi daha etkili hale getirmek için biraz değişiklik 
+yapmaya karar vermiş olabilirsiniz, ancak küçük değişiklikler dışında, kendinizi 
+oldukça güvende hissetmelisiniz. Biz de öyle olacağımızı biliyoruz.
+Öte yandan, raporunuz endişe verici sonuçlar içeriyorsa, bir sonraki adımınız 
+algoritmanızı ve stratejinizi derinlemesine incelemek ve nerede hata yapmış 
+olabileceğinizi anlamaya çalışmaktır. Bu, daha fazla geriye dönük test ve 
+stres testi yapmayı, kodu tekrar kontrol etmeyi veya mevcut piyasa 
+koşullarını yeniden değerlendirmeyi gerektirebilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 85 ===
+Algoritmanızı değerlendirdikten sonra atabileceğiniz birkaç adım 
+şunlardır: Değişime İhtiyaç Olup Olmadığını Belirleyin
+Strateji performans raporunuzu analiz ettikten ve tüm performans 
+ölçümlerini ve performans değerlerini inceledikten sonra, bir 
+değişikliğe ihtiyaç olup olmadığını belirlemeniz gerekir.
+Kendinize, işlem stratejinizi ayarlamanın zamanı gelip gelmediğini sorun. 
+Gerçekten bir değişikliğe ihtiyaç var mı? Bu sorunun cevabını bulmak o kadar 
+da zor değil.
+Strateji performans raporunuzu kontrol edin. Cevaplar, orada 
+bulacağınız değerlerde yatıyor. Dolayısıyla, istatistikler ve değerler 
+zayıfsa, stratejinizi yeniden gözden geçirmelisiniz. Ancak, sonuçlarınız 
+iyiyse, birkaç değişiklik yapmayı düşünebilirsiniz, ancak endişelenecek 
+pek bir şey yok.
+Bununla birlikte, deneyimlerimize göre yeni bir algoritmayı canlıya 
+geçirmek oldukça heyecan verici olabiliyor. Gerçek para kullanarak ilk kez 
+canlı bir algoritma çalıştırdığımızda, günlerce midemiz bulandı. 
+Bilgisayarlarımıza yapışıp algoritmamızı sürekli kontrol ettik.
+Benzer bir kaygı durumunu siz de yaşayabilirsiniz ve bu durum, algoritmanız 
+kendini kanıtlama şansı bulmadan önce stratejinizi değerlendirmenize neden 
+olabilir.
+Buradaki amacımız, ona zaman tanımanız gerektiğidir. Algoritmanıza 
+gelişme şansı vermeden değerlendirmeye acele etmeyin.
+Daha önce de belirtildiği gibi, işlem stratejilerinizin çok yönlü olması ve 
+sürekli dalgalanan piyasa koşullarında etkili bir şekilde çalışabilmesi 
+gerekir. Ancak, algoritmanızın dalgalanan piyasa koşullarında 
+uygulanabilirliğini test etmek için ona zaman tanımanız gerekir.
+Ne Kadar Ayarlamanız Gerektiğini Hesaplayın
+Algoritmanızı gerçekten ayarlamanız gerekip gerekmediğine karar 
+verdikten sonra, bu ayarlamaların ne kadar kapsamlı olması gerektiğini 
+belirlemeniz gerekir. Arada sırada ufak tefek değişikliklere mi ihtiyacınız 
+var, belki birkaç hesaplamayı ve biraz kodu değiştirmek mi, yoksa tüm 
+sistemi elden geçirip sıfırdan mı başlamanız gerekiyor?
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 86 ===
+Ayarlamaların kapsamı genellikle algoritmanızın performansına 
+bağlıdır. Algoritmanızın hangi yönlerinin ayarlanması gerektiğini 
+anlamanın iyi bir yolu, strateji performans raporunuza bakmaktır.
+Deneyimlerimize göre, performans ölçümlerini kontrol etmek, 
+zayıflıkların ve hataların nerede olduğunu anlamanın harika bir yolu. Bu 
+durumda, tüm sistemi elden geçirmek yerine, size sorun çıkaran yönleri 
+tespit edip bunlarda ayarlamalar yapabilirsiniz.
+Algoritmanızda doğası gereği bir sorun olmayabilir ve sadece sistem 
+ölümü yaşıyor olabilir. Sistem ölümü, algoritmanızın mevcut piyasa 
+değişim koşullarında artık uygulanabilir veya etkili olmamasıdır.
+Bu durumda, sisteminizi dikkatlice parçalara ayırmanız ve algoritmanızın 
+artık amacına hizmet etmeyen yönünü bulmanız gerekecektir. Bu, 
+algoritmanızın değiştiğinin veya bazı yönlerinin etkisiz hale geldiğinin bir 
+göstergesi olabilir. Ayrıca, algoritmanızın gerçek anlamda çok yönlü 
+olmaması da söz konusu olabilir.
+Her iki durumda da, sisteminizi parçalara ayırıp her bir unsuru analiz 
+etmek son derece zaman alıcı ve sinir bozucu olabilir. Ayrıca, 
+algoritmanızı ayarlamanın zor bir yoludur ve işlem, teknik göstergeler 
+ve kodlama konusunda kapsamlı deneyim ve bilgi gerektirir.
+Algoritmanızı elden geçirip yeni bir işlem sistemi tasarlayıp kurmak 
+zorunda kalırsanız, buna da epey zaman ayırmanız gerekecektir. Bir 
+sistemi elden geçirmek, sadece küçük ayarlamalar bulup yapmaktan 
+çok daha fazla düşünce, çaba ve dikkat gerektirir.
+Bu bölümdeki kilit nokta, algoritmanızın performansını ve performans 
+metriklerini gözlemleyerek zayıf ve güçlü yönlerini tespit edebilmeniz 
+gerektiğidir. Temel olarak, neyin işe yaradığını ve neden işe 
+yaramadığını ve neden işe yaramadığını belirleyebilmeniz gerekir.
+Bunu anladıktan sonra, ne kadar kapsamlı olduğunuzu bilmeniz gerekir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 87 ===
+ayarlamalar yapılması gerekiyor.
+Bununla birlikte, algoritmanızın bir yönüyle oynamanın, algoritmanızın 
+diğer tüm yönleri üzerinde dalga etkisi yaratacağını da unutmamak 
+önemlidir. Bu nedenle, küçük ayarlamalar yaparken, bunun tüm sistem 
+üzerindeki etkilerinin farkında olun. En kötü senaryo, bir yönü 
+ayarlamanız ve bunun tüm algoritmanızı dengesiz hale getirmesidir.
+Gerekli Ayarlamaların Yapılması ve Canlı Test
+Algoritmanızdaki sorunları tespit edip gerekli ayarlamaları yaptıktan 
+sonra, sistemi geriye dönük test ve stres testi yoluyla test etme zamanı 
+geldi. Bunu daha önce de ele aldık ve yine, çalıştırabileceğiniz en iyi 
+simüle edilmiş testler demo hesaplarda veya kağıt işlem 
+hesaplarındadır (Optimum Performans için İşlem Stratejinizi 
+Değerlendirmenin 6 Adımı, 2019).
+Ancak, kağıt ticareti aşamasına kapılmamaya veya algoritmanızı 
+mükemmelleştirmeye çalışmamaya dikkat etmelisiniz, çünkü bu aşırı optimizasyona 
+yol açabilir. Canlı piyasa işlemleri hakkında daha fazla bilgi edinmeye çalışıyorsanız, 
+kağıt ticaretinde takılıp kalmanız da size pek fayda sağlamayacaktır.
+Tekrar ediyorum, acele etmeyin. Yatırımda acele etmeye gerek yok. 
+Yatırım fırsatları her zaman mevcut olacaktır.
+Bu adımda önemli olan, simülasyonları test ederken ve çalıştırırken 
+algoritmanızın performans metriklerini dikkatlice gözlemlemektir. Ayrıca, 
+algoritmanızı simülasyonun çeşitli yinelemelerinden geçirmeniz de akıllıca 
+olacaktır; bu, yaptığınız ayarlamaların uygulanabilirliğini ve etkinliğini objektif 
+ve kapsamlı bir şekilde değerlendirmenize olanak tanır.
+Düzenli Değerlendirmeler
+Bunu daha önce de belirtmiştik, ancak bazı dersleri tekrarlamakta fayda 
+var. İdeal bir dünyada yaşasaydık, tüm algoritmalarınız müdahaleye 
+gerek kalmadan kusursuz bir şekilde çalışırdı ve faiziyle 
+geçinebileceğiniz kadar kâr elde ederdiniz.
+Ne yazık ki dünya bizim kadar kusurlu ve algoritmanız iyi olabilir, ancak 
+mükemmel olmayacaktır (Optimum Performans için İşlem Stratejinizi 
+Değerlendirmek İçin 6 Adım, 2019). Bu nedenle,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 88 ===
+Verimliliğini sürdürebilmek için düzenli değerlendirmeler yapmanız çok 
+önemlidir.
+Bunu başarıyla gerçekleştirebilirseniz, geçmiş strateji performans 
+raporlarınızı güncel ve gelecekteki performans raporlarıyla 
+karşılaştırdığınızda önemli gelişmeler fark edeceksiniz.
+Bununla birlikte, stratejinizi değerlendirirken algoritmanıza piyasa 
+borsasında yerleşip kendini kanıtlaması için alan ve zaman tanımanız 
+önemlidir. Böylece, algoritmanızı değerlendirirken elinizde çalışmak için 
+yeterli veri olur.
+Çoğu zaman, değerlendirmenizi çok erken yaparsanız, üzerinde 
+çalışabileceğiniz nispeten küçük bir veri örneğiniz olur ve bu da yanıltıcı 
+sonuçlara yol açabilir.
+Tekrarla
+Algoritmanızı izlerken ve değerlendirirken yineleme çok önemlidir. Hatta, 
+yinelemenin bir algoritma geliştirme ve çalıştırmanın her adımının bir parçası 
+olduğunu iddia edecek kadar ileri gidebiliriz.
+Kısacası, sürecin hangi aşamasında olursanız olun, istediğiniz sonucu 
+elde edene kadar algoritmanızı sayısız yinelemeden geçirmeniz 
+gerekecektir. Örneğin, bir işlem stratejisi geliştirirken, size uygun olana 
+karar vermeden önce bir işlem stratejisinin çeşitli yinelemelerini test 
+etmeniz gerekebilir. Bu stratejiyi koda dönüştürürken de, istediğiniz 
+gibi çalışan bir stratejiye karar vermeden önce kodun çeşitli 
+yinelemelerini test etmeniz gerekebilir.
+Buradaki amaç, stratejinizi ve algoritmanızı amacınıza hizmet edene kadar test 
+etmek, tekrar test etmek ve iyileştirmektir.
+Bu adımlardan herhangi birinde sorun yaşıyorsanız, yardım istemekten çekinmeyin. 
+Çoğu zaman gözlerimiz başkalarının çok net gördüğü şeyleri göremez, bu yüzden 
+forumlarda gezinmekten çekinmeyin. Kim bilir, belki bir arkadaş bile edinebilirsiniz!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 89 ===
+Algoritmanızı İzleme
+Algoritmanızı değerlendirirken, değerlendirmeleri muhtemelen yalnızca bir işlem 
+döneminden sonra veya iki yılda bir gerçekleştireceksiniz. Deneyimlerimize göre, 
+değerlendirmeler çok sık yapıldığında o kadar etkili olmuyor.
+Öte yandan, algoritmanızı izlemek daha sık yapmanız gereken bir aktivite 
+olmalıdır. Değerlendirmenin aksine, algoritmanızı izlemek o kadar zaman 
+alıcı olmak zorunda değildir. Çoğu durumda, işlem hesabınızı, işlem 
+profilinizi ve algoritmanızı kontrol ederek gerektiği gibi çalışıp 
+çalışmadığını kontrol etmeniz gerekebilir.
+Algoritmanızı izlemek, özellikle yeni başlayan biriyseniz veya yeni bir 
+algoritma çalıştırıyorsanız hayati önem taşır. Temel amaç, 
+algoritmanızın amaçlandığı gibi çalıştığından emin olmak ve olası 
+hataları, zayıflıkları veya eksiklikleri tespit etmektir.
+İşlem portföyünüze ve işlem hesabınıza kolayca erişebilmek, algoritmanızın 
+ilerleyişini ve performansını izlemenin harika bir yoludur. Bu aynı zamanda 
+algoritmanızın yaptığı tüm işlemleri takip etmenin de harika bir yoludur.
+Günümüzde çoğu çevrimiçi ve indirimli broker, işlem profilinizi ve hesabınızı 
+cep telefonunuzla otomatik olarak senkronize eden bir mobil uygulama 
+platformu sunmaktadır. Ayrıca, bu uygulamalardan işlem yapabilir ve 
+hesabınızı yönetebilirsiniz.
+Cep telefonunuzda bir mobil ticaret uygulaması bulundurmak, dünyanın 
+neresinde olursanız olun algoritmanızın performansını hızlı ve kolay bir 
+şekilde izlemenizi sağlar. Tek ihtiyacınız olan internet bağlantısıdır.
+Mobil işlem uygulamaları, yoğun bir yaşam tarzınız olsun ya da olmasın, her 
+yatırımcı için olmazsa olmazdır. Size, bilgisayarınıza bağlı kalmak, işlem yapmak 
+veya algoritmanızı izlemek zorunda kalmadan zamanınızı dilediğiniz gibi 
+geçirme özgürlüğü sunarlar.
+Deneyimlerimize göre, algoritmik ticarete ilk başladığımızda mobil bir 
+ticaret uygulamasına erişim, omuzlarımızdaki yükün büyük bir kısmını 
+aldı. Bilgisayarımızdan ayrılmamızı sağladı ve ticaret profilimizi kontrol 
+edebileceğimizi bilmenin rahatlığını sağladı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 90 ===
+istediğimiz zaman, istediğimiz yerde hesabımıza erişebiliyoruz.
+Bu nedenle, çevrimiçi bir aracı kurum ararken, harika bir mobil platform 
+sunan bir aracı kurum seçmenizi tavsiye ederiz. Mobil uygulamanın mobil 
+cihazınız tarafından desteklendiğinden emin olmak da önemlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 91 ===
+Bölüm 6:
+Risk Yönetimi
+Bu noktaya kadar, alım satımla ilişkili risklerden ve gerçekleştirilen her 
+işlemle birlikte gelen içsel risklerden bahsettik. Önceki bölümde, birkaç 
+performans ölçütünü de ele aldık; bunlardan birkaçı, işlemlerin 
+uygulanabilirliğini veya kârlılığını hesaplamada karşılaşılan riskleri ele 
+alıyordu.
+Ancak şimdiye kadar size riskleri nasıl yöneteceğinizi anlatmadık. 'Kaçınmak' 
+kelimesini kullanmadığımıza dikkat edin, çünkü riskler azaltılabilir ve 
+yönetilebilir olsa da, tamamen ortadan kaldırılması imkansızdır.
+Yöntem, varlık veya strateji ne olursa olsun, her işlem bir miktar risk 
+içerir. Ne yazık ki, ticaret ve finans dünyasında riskler kaçınılmazdır. Bu 
+nedenle, her yatırımcının ve yatırımcının işlem yapmadan önce bir tür 
+risk yönetimi stratejisi uygulaması hayati önem taşır.
+Şimdi, alım satım yaparken kullanılabilecek risk stratejileri çoğu zaman alım 
+satım stratejilerinin doğasında vardır. Bir düşünün. Önceki bölümlerde, yeni 
+strateji ve algoritmaları test ederken değerlendirme, geriye dönük test ve 
+kağıt işlem hesaplarından yararlanma hakkında kapsamlı bir şekilde 
+konuştuk.
+Bu adımlar özünde bir tür risk yönetimidir. Örneğin, geriye dönük test 
+yaparken, işlem stratejinizin ve algoritmanızın planladığınız şekilde 
+çalıştığından emin olursunuz. Bu, algoritmanızın etkisiz kalması 
+nedeniyle gereksiz kayıplara uğrama riskini azaltır.
+Aynı durum düzenli izleme ve değerlendirmeler için de geçerlidir.
+Bu bölümde, algoritmik ticarete ve genel olarak ticarete özgü riskleri ve 
+bu risklerin nasıl yönetileceğini ele alacağız. Ayrıca, yeni başlayan 
+yatırımcıların yaptığı yaygın hataları ve bunlardan nasıl kaçınılacağını da 
+ele alacağız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 92 ===
+Riskler
+Ticaret ve yatırımla ilişkili çok sayıda risk vardır. Farklı işlem stratejileri 
+ve yöntemleri de farklı riskler içerir. Bu nedenle, bir işlem stratejisi ve 
+yöntemi seçerken yapmanız gereken ilk şeylerden biri, söz konusu 
+riskleri göz önünde bulundurmaktır.
+Örneğin, günlük alım satımla ilişkili riskler, salınım alım satımıyla ilişkili 
+risklerden farklı olabilir ve yüksek hacimli alım satım, yüksek frekanslı 
+alım satımdan farklı riskler taşır.
+Bununla birlikte, algoritmik ticarete başlamadan önce bilmeniz gereken 
+belirli riskler de vardır.
+Yüksek Volatilite
+Daha önce de belirttiğimiz gibi, algoritmanızın etkili olabilmesi için piyasa 
+koşullarındaki değişikliklerle başa çıkabilmesi gerekir. Sadece belirli piyasa 
+değişikliklerini öngörebilmeniz değil, aynı zamanda algoritmanızın bu 
+değişiklikleri karşılayacak kadar esnek olduğundan da emin olmanız 
+gerekir. Algoritmanızı piyasayla ilgili değişikliklerle başa çıkabilecek 
+şekilde kodlamak kolay bir iş değildir. Ticaret ve finans piyasası borsaları 
+hakkında iyi bir çalışma bilgisinin yanı sıra ileri düzey kodlama becerileri 
+de gerektirir.
+Piyasa değişikliklerini yönetebilen esnek bir algoritma kodlasanız bile, 
+algoritmanızın piyasa değişikliklerine aşırı derecede genişleyerek 
+olumsuz tepki vermesi veya tamamen işlevini yitirmesi riski her zaman 
+vardır.
+Bu durum, oynaklığın artmasına ve likiditenin azalmasına yol açabilir. En 
+kötü senaryoda, algoritmanız çalışmaya devam edebilir ancak değişen 
+piyasa koşulları nedeniyle riskli işlemler gerçekleştirebilir ve bu da 
+kayıplarınızı artırabilir.
+Yanlış Algoritmalar
+Algoritmik yatırımcıların karşılaştığı bir diğer büyük risk, hatalı bir 
+algoritma uygulamaktır. Bu, belirli bir talimatı doğru kodlamamanızdan 
+veya stratejinizi iyi düşünmemenizden kaynaklanabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 93 ===
+Yeterli. Ayrıca, açıkça tanımlanmış kurallar ve talimatlar belirlemediyseniz veya 
+bir işlem stratejisinin nasıl işlediğini yanlış anladıysanız da bu durum ortaya 
+çıkabilir.
+Sebebi ne olursa olsun, algoritmanızdaki bir hata veya zayıflık çok kısa 
+bir süre içerisinde kayıplarınızın artmasına neden olabilir.
+Risk mevcut olsa da, algoritmanızı geriye dönük test ederek ve kağıt üzerindeki işlem 
+hesaplarında test ederek bu riski yönetebilirsiniz. Ancak, çok fazla geriye dönük test 
+yapmak aşırı optimizasyona yol açabilir.
+Daha önce de belirtildiği gibi, aşırı optimizasyon, algoritmanız geriye dönük 
+testlerde harika çalıştığı halde mevcut, canlı piyasa dalgalanmaları ve 
+değişiklikleriyle uyumlu olmadığında ortaya çıkar. Bu durumda, algoritmanız 
+geriye dönük testler sırasında mükemmel çalışıyormuş gibi görünebilir 
+çünkü algoritmanızı istemeden canlı piyasa koşulları yerine geçmiş verilere 
+ve piyasa trendlerine uyarlamışsınızdır.
+Bu durumda, algoritmanızın geriye dönük test performansı yanıltıcı 
+olacaktır ve canlı piyasa borsalarındaki performansıyla korelasyon 
+göstermeyecektir.
+Zincirleme Reaksiyonlar
+Finans dünyasındaki hızlı teknolojik gelişmeler sayesinde küresel 
+piyasalar giderek daha fazla entegre hale geldi. Bu nedenle, bir finans 
+piyasasında meydana gelen bir değişiklik, genellikle diğer piyasalara ve 
+varlık sınıflarına da yansıyor.
+Bu bir zincirleme reaksiyona neden olur.
+Bu durumda, piyasa koşullarında beklenmedik değişikliklere yol açabilecek bir 
+zincirleme reaksiyon meydana gelebilir ve bu değişiklikleri hesaba katmadığınız 
+ortaya çıkabilir. Algoritmanız bu değişiklikleri yönetemeyebilir ve bu nedenle, 
+mevcut piyasa koşullarına uyum sağlamak için müdahale edip stratejinizi 
+ayarlamanız gerekebilir.
+Bu zincirleme reaksiyonlar, piyasalardaki hareketliliğe ve piyasadaki 
+değişimin büyüklüğüne bağlı olarak oldukça hızlı gerçekleşebilir. Bu 
+değişimler, şirket birleşmeleri, yeni bir ürünün piyasaya sürülmesi veya 
+doğal afet gibi dış etkenlerden de kaynaklanabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 94 ===
+Sistem Arızaları
+Algoritmanın tamamen elektronik olarak tutulup çalıştırılması ve çok az insan 
+müdahalesi olması nedeniyle, algoritmik yatırımcılar donanım veya 
+yazılımlarının arızalanma riskiyle karşı karşıyadır.
+Elektrik kesintisi olabilir veya işlem bilgisayarları artık yazılımı 
+çalıştıramıyor olabilir. Bazı durumlarda, bilgisayar sistemleri aşırı 
+yüklenebilir ve bu da güç kaynağının patlamasına neden olabilir.
+Sebebi ne olursa olsun, donanım veya yazılımda bir sorun olması 
+durumunda algoritma işlevini yitirir ve bu da işlemlerin durmasına ve 
+pozisyonların açık kalmasına neden olabilir.
+Özellikle yüksek frekanslı veya yüksek hacimli işlemler yapıyorsanız, bu durum 
+kayıplarınızın artmasına neden olabilir.
+İş kaybına ek olarak, sistem arızasının boyutuna bağlı olarak, bozulan 
+sistemi onarmak için büyük miktarda para harcamanız gerekebilir. Bu, 
+temel bileşenleri ve yazılımları değiştirmeyi ve en kötü senaryoda 
+tamamen yeni bir sistem kurmayı içerebilir.
+Böyle bir durumda, işlem hesabınıza erişmenizi ve her şey tekrar çalışır 
+duruma gelene kadar tüm işlemlerinizi durdurmanızı öneririz. Ayrıca, bir 
+sistem arızası durumunda tüm verilerinizin, programlarınızın, kodlarınızın ve 
+algoritmalarınızın yedeklerini almanızı da öneririz.
+Bu yedeklere sahip olmak, sisteminiz geri yüklendiğinde tekrar yola 
+girmenizi kolaylaştıracaktır.
+Ağ Bağlantısı
+Algoritmanızın en iyi şekilde çalışması için işlem bilgisayarınızın yanı 
+sıra güçlü bir internet bağlantısına da ihtiyacınız var. Oldukça gelişmiş 
+bir ülke veya şehirde yaşıyorsanız, Wi-Fi bazı bölgelerde neredeyse 
+yaygınlaştığı için bu pek sorun teşkil etmemeli.
+Kablosuz internet bağlantısına erişiminizin olmasının yanı sıra, bağlantınızın 
+işlemlerinizi yürütebilecek kadar güçlü ve istikrarlı olması da gerekir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 95 ===
+tutarlı bir oranda.
+Elektrik kesintisi veya kötü hava koşulları nedeniyle ağ bağlantınız 
+kesilirse, algoritmanız doğru şekilde çalışamayacak ve gereksiz 
+kayıplara uğrayabilirsiniz.
+Ne yazık ki, istikrarlı ve güvenilir bir internet bağlantınızın olması her 
+zaman kontrol edebileceğiniz bir şey değildir. Bağlantının kesilip 
+işlemlerinizi aksatma riski her zaman vardır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 96 ===
+Risk Yönetimi
+Risk yönetiminin neden önemli olduğunu biliyoruz, peki tam olarak ne anlama 
+geliyor? Basitçe söylemek gerekirse, risk yönetimi, alım satım veya yatırım 
+yaparken kayıpları azaltmak için gereklidir. Doğru risk yönetimi, alım satım ve 
+yatırım hesaplarının para kaybetmesini önlemek için de kullanılabilir.
+Yukarıda tartışıldığı gibi, riskler kayıplar yaşandığında ortaya çıkar. Ticaret 
+ve yatırımın doğası gereği riskli olması göz önüne alındığında, risk 
+yönetimi her yatırımcının sahip olması gereken bir unsurdur. Doğru risk 
+yönetimi stratejileri uygulandığında, bir yatırımcı veya yatırımcı, tüm 
+nakitlerini kaybetme korkusu olmadan piyasa borsalarına erişebilir 
+(Kuepper, 2019).
+Bir işlem stratejisi ve algoritması geliştirme sürecinde birkaç risk 
+yönetimi stratejisi bulunsa da, başarılı bir şekilde işlem yapmak 
+istiyorsanız, bunları tek risk yönetim biçiminiz olarak kullanmak 
+kesinlikle yeterli değildir.
+Şimdi, işlem stratejinize ve işlem yöntemlerinize bağlı olarak, 
+uygulayacağınız risk yönetimi stratejileri değişiklik gösterecektir. Ancak, 
+evrensel olarak kabul gören birkaç yaygın risk yönetimi stratejisi vardır.
+İşte birkaçıortak risk yönetimi ipuçlarıbu günlük yatırımcı için işe 
+yaramalı:
+Kayıpla Başa Çıkmak
+Risk yönetimini tartışırken bu ipucu kulağa tamamen imkansız gelebilir. 
+Sonuçta, risk yönetiminin asıl amacı risklerden ve kayıplardan mümkün 
+olduğunca kaçınmaktır, değil mi?
+Ancak, daha önce de belirttiğimiz gibi, riskler ticaretin doğasında vardır. 
+Stratejiniz ne kadar etkili ve risk yönetimi stratejileriniz ne kadar sağlam 
+olursa olsun, her zaman bir miktar risk olacaktır. Bu kaçınılmazdır.
+Bu nedenle, ticaret ve yatırımla birlikte gelen riskleri kabul etmenin ve 
+her ticaretin risklerle dolu olduğunu anlamanın gerçekten önemli 
+olduğunu düşünüyoruz. Bazen işler istediğiniz gibi gitmez. Bazen 
+piyasa trendleri beklenmedik bir şekilde sona erer veya piyasa...
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 97 ===
+tahmin edemeyeceğiniz şekillerde değişimler yaşanabilir.
+Bu nedenle, bu riskleri kabul etmek, hem duygusal hem de finansal olarak bunlara 
+daha iyi hazırlanmanıza yardımcı olur.
+Risk yönetimi, kayıpları ortadan kaldırmak için değil, kayıplarınızı küçük ve 
+yönetilebilir tutarken kazançlarınızın kayıplarınızdan daha fazla olmasını 
+sağlamak için vardır (Desai, 2016).
+Giriş Noktaları
+Başarılı bir yatırımcı olmak için geliştirmeniz gereken temel becerilerden biri, 
+piyasayı nasıl okuyacağınızı ve işlem ve yatırım fırsatlarını nasıl 
+belirleyeceğinizi bilmektir. Bu becerinin bir kısmı da, mümkün olan en iyi 
+kazancı elde etmek için pozisyonlara ne zaman girip çıkacağınızı bilmektir.
+Pozisyonlara ne zaman girip çıkacağınızı bilmek, deneyim seviyeleri ne 
+olursa olsun birçok yatırımcının zorlandığı bir konudur. Bu yüzden biraz 
+tökezlerseniz çok fazla cesaretiniz kırılmasın. Yatırımın bu yönüyle ilgili 
+temel sorun, doğru veya yanlış bir yöntemin olmamasıdır.
+Alım satım ve yatırım genellikle son derece özneldir ve stratejiler yatırımcıdan 
+yatırımcıya farklılık gösterir. Bu nedenle, alım satımın tam olarak nasıl 
+yapılacağını belirlemek zor olabilir.
+Ancak, işleri çözmenize yardımcı olabilecek birkaç genel kural ve tavsiye 
+bulunmaktadır.
+Hızla büyüyen bir hisse senedi veya ivmesi artan bir varlık bulursanız, 
+bir ton hisse senedi alıp almak ne kadar cazip gelse de, beklemenizi 
+tavsiye ederiz. Varlığı dikkatlice izleyin ve yükselişe geçmesini bekleyin. 
+Varlığın artan ivmesine güvenilir bir model bulduğunuzda, çıkış 
+noktalarınızı belirleyebileceğinizi bilerek pozisyon açabilirsiniz.
+Bunun yanı sıra piyasa göstergelerini de incelemenizi ve pozisyonlara giriş 
+ve çıkışlarda yol gösterici olarak kullanmanızı öneririz.
+Şimdi, algoritmik ticarette pozisyonlara ne zaman girip çıkacağınızı 
+bilmek çok büyük bir sorun olmamalı çünkü algoritmanız pozisyonlara 
+ne zaman girip çıkacağınıza dair belirli talimatlarla programlanmış 
+olacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 98 ===
+Bununla birlikte, işlem stratejinizi geliştirirken ve algoritmanızı 
+kodlarken algoritmanızın pozisyonlara ne zaman girip çıkacağına karar 
+vermeniz gerekecektir.
+Portföyünüzü Çeşitlendirme
+Alım satım veya yatırım portföyünüzü çeşitlendirmek, alım satımın en önemli 
+unsurlarından biridir. Esasen, bu alım satım yaklaşımı, "Tüm yumurtalarınızı 
+aynı sepete koymayın" şeklindeki eski bir söze dayanır. Bu, tüm paranızı tek 
+bir hisse senedine veya finansal araca yatırırsanız, hisse senedi veya varlığın 
+değeri düştüğünde büyük kayıplar yaşama riskiyle karşı karşıya kalacağınız 
+anlamına gelir.
+Bu riski azaltmak için, portföyünüzü çeşitli hisse senetlerine ve finansal 
+varlıklara yatırım yaparak ve bunlarla işlem yaparak çeşitlendirmeniz 
+şiddetle tavsiye edilir. Böylece, bunlardan biri başarısız olursa, 
+yaşayacağınız kayıp o kadar yıkıcı olmayacaktır.
+Bununla birlikte, portföyünüzün dengeli olduğundan emin olmanız da 
+önemlidir. Ya da en azından işlem stratejinize göre dengeli olduğundan emin 
+olun. Doğru şekilde dengelenmiş bir portföye sahip olmak, portföyünüzü 
+çeşitlendirmeye benzer bir amaca hizmet eder; çünkü riskleri bir miktar 
+azaltır ve kâr elde etme olasılığını artırır.
+Bakın, aslında oldukça basit. Çeşitlendirilmiş bir portföy, çeşitli hisse 
+senetleri ve finansal varlıklardan oluşur ve bu nedenle size daha fazla 
+kâr elde etme fırsatı sunar ve büyük kayıplara uğrama riskinizi azaltır.
+Koruma
+Hedging, esasen olası kayıpları telafi etmeyi amaçlayan bir işlem 
+stratejisidir. Bu, riskleri azaltma amacıyla işlem yapmak ve yatırım 
+yapmak anlamına gelir. Bu, bir fiyat sabitlemesi elde ederek kendinizi 
+olumsuz fiyat hareketlerine karşı korumak için piyasa fiyat riskine karşı 
+korunmayı gerektirir (Thakar, 2020a).
+Bir varlığın fiyatı önceden belirlenmiş bir limitin üzerine çıktığında fiyat 
+kilidi devreye girer. Bu gerçekleştiğinde, tüm işlemler gün boyunca 
+veya fiyat limite geri dönene kadar durdurulur. Örneğin, bir varlığın 
+fiyatı limitin altına düşerse, algoritmanız şu şekilde programlanabilir:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 99 ===
+Fiyat bu limitin üzerine çıkana kadar tüm işlemleri durdurun.
+Bu, bir varlığın fiyatının önemli ölçüde düşmesi durumunda büyük kayıplar 
+yaşamanızı engeller.
+Bu ticaret ve yatırım stratejisi genellikle türevler (bir finansal araç) 
+kullanılarak yapılır, çünkü türevler ile bunlara karşılık gelen temel varlık 
+arasındaki ilişki açıkça tanımlanmıştır (Thakar, 2020a).
+Eğer türevlerden hoşlanmıyorsanız, bu strateji vadeli işlem sözleşmelerini, 
+opsiyonları ve tezgah üstü hisse senetlerini de kullanır.
+Algoritmik ticaret kullanırken korunmayı uygulamak oldukça kolaydır, çünkü 
+sabit fiyat kilitlemelerini kodlayabilirsiniz ve algoritmanız çok fazla müdahaleye 
+gerek kalmadan bu fiyat kilitlemelerine uyacaktır.
+Risk/Ödül Oranı
+Daha önce de belirtildiği gibi, bir yatırımcı bir işleme girmeye veya çıkmaya karar 
+verdiğinde, içerdiği riskleri göz önünde bulundurmalıdır. Her yatırımcının hedefi, 
+"ödülün" (kârın) risklerden daha ağır basması olmalıdır.
+Dolayısıyla, bir işlemle ilişkili riskler yüksekse ve getirisi ağır basıyorsa, 
+o işleme girmenin bir anlamı yoktur. Öte yandan, işlemle ilişkili riskler 
+düşükse ve getirisi riski ağır basıyorsa, o işleme girmek faydalı 
+olacaktır.
+Risk-ödül oranı işlem stratejisi, pozisyonlara girerken ve çıkarken daha 
+dikkatli davranan ve risklerini mümkün olduğunca azaltmak isteyen 
+muhafazakar yatırımcılar tarafından sıklıkla kullanılır.
+Muhafazakar alım satımda hiçbir sorun olmasa da, alım satım yaparken 
+aşırı temkinli olmanız konusunda sizi uyarıyoruz. Risk ve kayıp korkunuzun 
+alım satım işlemlerinizi yönlendirmesine izin vermek, kâr elde etme 
+şansınızı kaybetmenize neden olabilir. Neyse ki, algoritmik alım satım 
+insan duygularını denklemden çıkardığı için bu konuda endişelenmenize 
+gerek yok.
+Risk/ödül oranı stratejisindeki en önemli zorluk, risk ve ödülün nasıl 
+dengeleneceğini bilmektir; çünkü ticarette ve yatırımda risk ne kadar 
+yüksekse, ödül de o kadar yüksektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 100 ===
+Belirleyeceğiniz risk/ödül oranı, kullandığınız işlem yöntemine (günlük risk-
+ödül, yüksek frekanslı işlem vb.) bağlı olacaktır. Örneğin, günlük yatırımcılar 
+1:2 risk/ödül oranını hedeflemelidir. Bu, 100 dolarlık bir işlem yaparsanız, 200 
+dolar kaybetmeye razı olmanız gerektiği anlamına gelir.
+Risk/ödül oranı, yatırımcılara yaptıkları her işlemle ilgili potansiyel kâr 
+ve zararlar hakkında net bir fikir vermeyi amaçlar. Bu, işlem yaparken 
+bilinçli kararlar almanızı sağlar. Bir risk/ödül oranı uygulamak, tüm 
+hesabınızı riske atabilecek işlemler yapmanızı da engeller.
+Düzenli Bakım
+Algoritmanızı düzenli olarak izlemeniz ve değerlendirmeniz gerektiği gibi, 
+aynı şey işlem bilgisayarınız için de geçerlidir. Algoritmik yatırımcılar için 
+işlem bilgisayarları ekmek ve su gibidir. Onlar olmadan algoritmik işlem 
+yapmak imkânsız olurdu.
+Bu nedenle, donanım ve yazılımlarınızda düzenli bakım kontrolleri 
+yaptırmanız hayati önem taşır. Çoğu bilgisayarda, bilgisayarınızın 
+verimliliğini kontrol eden önceden yüklenmiş ayarlama programları 
+bulunur. Ayarlama ve servis bakımı yapmak, bilgisayarınızın optimum 
+durumda çalışmasını sağlar ve sistem arızası riskini azaltır.
+Bu zamanı, bilgisayarınızın ve bileşenlerinin durumunu değerlendirmek ve bir 
+donanım güncellemesine ihtiyaç olup olmadığına karar vermek için de 
+kullanabilirsiniz. Belki güç kaynağınızın yükseltilmesi gerekiyor veya daha iyi bir 
+anakarta yatırım yapmak istiyorsunuz.
+Buradaki amaç, bilgisayarınızın işlem algoritmanıza ayak uydurabilmesini 
+ve işlem girişimlerinizi verimli ve etkili bir şekilde yürütebilmesini 
+sağlamaktır.
+Senaryo Analizi
+Senaryo analizi, riskleri yönetmek için kullanılabilecek bir diğer 
+yöntemdir. Bu yöntem, bir alım satım veya yatırım portföyünün 
+önceden belirlenmiş bir süre sonundaki beklenen değerinin tahmin 
+edilmesini içerir (Hayes, 2019). Bu, portföyde tutulan varlıkların 
+değerinin, örneğin faiz oranındaki bir değişiklik gibi, değişime tabi 
+olduğu varsayımına dayanır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 101 ===
+Yatırımcılar, portföylerinin değerindeki olumsuz piyasa değişikliklerine veya 
+koşullarına tepki olarak meydana gelen değişiklikleri tahmin etmek için senaryo 
+analizi uygulayabilirler. Bu yöntem, teorik olarak en kötü senaryolarda portföylerin 
+değerini tahmin etmek için de yaygın olarak kullanılır.
+Senaryo analizi, yeniden yatırılan beklenen getiriler için çeşitli yeniden 
+yatırım oranlarının hesaplanmasıyla yapılır. Bu hesaplamalar 
+matematiksel ve istatistiksel ilkelere dayanmaktadır (Hayes, 2019).
+Bu hesaplamaları kullanarak senaryo analizi, "ya şöyle olursa" durumlarında 
+alım satım veya yatırım portföyünüzün değerinin nasıl değişebileceğine dair fikir 
+verir.
+Temel olarak, piyasa çökerse veya farklı bir yöne kayarsa, işlem 
+portföyünüzün nasıl performans göstereceği sorusuna cevap verir.
+Bazılarının bir işleme girmeden önce senaryo analizi yapmanız 
+gerektiğinde ısrar ettiğini biliyoruz, ancak bize göre bu biraz aşırı. Bir 
+algoritma ile belirli parametreler ve sınırlamalar belirleyebilirsiniz. Bu 
+sınırlamalar, olası riskler göz önünde bulundurularak belirlenmelidir. 
+Bunu doğru yaptıysanız, her işlemden önce senaryo analizi yapmanın 
+tamamen saçma olduğunu düşünüyoruz.
+Senaryo analizini, işlem stratejinizi geliştirme ve kodlama sürecinin 
+başlangıcında uygulamanızı öneririz; böylece algoritmanız çalışır 
+duruma geldiğinde, algoritmanız bunu zaten dikkate alacağından, 
+sürekli olarak senaryo analizi yaparak zaman kaybetmenize gerek 
+kalmaz.
+Portföy Optimizasyonu
+Portföy optimizasyonu, beklenen getiriyi en üst düzeye çıkarırken 
+riskleri en aza indirmeyi hedefleyerek portföyünüzü oluşturmayı içerir. 
+Portföyünüzü nasıl optimize edeceğiniz, işlem stratejinize ve finansal 
+hedeflerinize bağlı olacaktır.
+Portföy optimizasyonu, Modern Portföy Teorisi'ne (MPT) dayanmaktadır. 
+MPT, Harry Markowitz tarafından ilk kez 1952'de Journal of Finance'de 
+yayınlanan "Portföy Seçimi" adlı makalesiyle geliştirilmiştir (Chen, 2019b). Bu 
+teori, yatırımcıların piyasa riski düzeyine bağlı olarak beklenen getiriyi en üst 
+düzeye çıkarmak için portföyleri nasıl oluşturabileceklerini ele almaktadır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 102 ===
+Portföy ile ilişkilidir. Bu teori ayrıca, bir yatırım veya işlemle ilişkili risk ve 
+getirinin tek başına ele alınmaması gerektiğini, bunun yerine bu 
+yatırımın portföyün genel risk ve getiri oranlarını nasıl etkilediği 
+açısından değerlendirilmesi gerektiğini savunur.
+Bununla birlikte, portföyünüzü optimize etmek, esasen farklı yatırım 
+oranlarına sahip çeşitli portföyleri analiz ederek, her bir portföyün 
+üretebileceği potansiyel risk ve getirileri (kârları) hesaplamayı içerir 
+(Thakar, 2020a). Bu, en az riskle en yüksek kârı sağlayacak mükemmel 
+varlık kombinasyonunu bulmayı amaçlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 103 ===
+Yeni Başlayanların Yaptığı Yaygın Hatalar ve Bunlardan 
+Nasıl Kaçınılır
+Algoritmik ticaretle ilişkili yaygın riskleri ve bu riskleri risk yönetimi 
+stratejileriyle nasıl azaltabileceğimizi ele aldığımıza göre, yeni başlayan 
+yatırımcılar arasında fark ettiğim yaygın hataları ele almanın faydalı 
+olacağını düşündüm.
+Hata yapmak insan olmanın bir parçasıdır ve çoğu zaman hatalar 
+kaçınılmazdır. Bu, özellikle yeni bir şeye başlıyorsanız geçerlidir. İlk kez 
+bisiklete biniyorsanız, birkaç kez tökezleyip düşmeniz muhtemeldir. 
+Çizim yapmayı öğreniyorsanız, muhtemelen pratikle gelen tekniklere ve 
+bilgi birikimine alışkın olmadığınız için hata yapacaksınız.
+Aynı şey ticaret için de geçerlidir.
+Yeni başlayan bir yatırımcıysanız, hata yapma olasılığınız yüksektir. 
+Ancak, çizim yaparken veya bisiklete binerken olduğu gibi, diziniz sıyrık 
+veya kötü çizilmiş bir resimle yetinmezsiniz. İşlemde hata yaparsanız, 
+para kaybedebilirsiniz.
+Hatalar kaçınılmaz olsa da, yeni başlayan yatırımcıların yaptığı ve biraz 
+dikkat ve bilgiyle kolayca önlenebilecek birkaç yaygın hata vardır.
+Hazırlık Eksikliği
+Diğer hobi veya ilgi alanlarının aksine, herhangi bir ön bilgi veya deneyim 
+olmadan bir işlem hesabı oluşturup canlı işlemlere başlayamazsınız. 
+Herhangi bir ön çalışma yapmadan devam ederseniz büyük kayıplar 
+yaşama riskiniz yüksektir. Zenginseniz bu sorun olmayabilir, ancak 
+çoğumuz için para sıkıntısı vardır.
+Dolayısıyla, ticarete başlamak ve başarılı olmak istiyorsanız, bir miktar 
+disipline sahip olmanız gerekir. Araştırmanızı yapmalı ve başlamadan 
+önce ticaret hakkında olabildiğince çok şey öğrenmeye çalışmalısınız. 
+Buna ek olarak, hazır olmadan önce edinmeniz gereken birçok beceri 
+vardır.
+Bölüm 2'de öğrenmeniz gereken becerilerden bahsettik, ancak
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 104 ===
+Hızlı bir özet yapın. Öğrenmeniz gereken temel beceriler arasında piyasa trendlerini 
+nasıl okuyacağınızı bilmek, çevrimiçi işlem platformlarını nasıl kullanacağınızı 
+bilmek, işlemlerin nasıl işlediğine dair pratik bilgiye sahip olmak (örneğin, 
+pozisyonlara ne zaman girip çıkacağınız, ne zaman ve nasıl işlem yapacağınız ve 
+hangi finansal araçların sizin ve koşullarınıza uygun olduğu gibi) yer alır.
+Yatırımın araştırma ve uygulama aşamalarını göz ardı etmenin yanı sıra, 
+yatırım dünyasına adım atan çoğu yeni başlayanın bunun ne kadar emek 
+gerektirdiğinin farkında olmadığını da fark ettik. Yatırımda, ne zaman ve 
+nerede yatırım yapacağınızı bilmek için oluşturulup takip edilebilecek 
+izleme listeleri vardır. Portföyünüzü takip etmek için grafik sistemleri 
+kurmanız ve bir yatırım stratejisi uygulamaya çalışmanız gerekecektir.
+Algoritmik ticarette öğrenme eğrisi ve gereksinimler daha da diktir 
+(bkz. Bölüm 2).
+İşlemleri ne zaman ve nasıl doğru bir şekilde gerçekleştireceğinizi veya işlem yapmadan 
+önce gerekli özeni nasıl göstereceğinizi bilmemek, giderek artan kayıplara yol açacaktır. Bu 
+kayıplar genellikle kolayca önlenebilir.
+Şimdi, bu kitabı okuyorsanız, bu hatayı yapmayacak az sayıdaki kişiden biri 
+olduğunuzu varsayıyoruz. İşlem öncesi hazırlıklarınızı ilerletmenize yardımcı 
+olmak için, yolculuğunuzda size yardımcı olacak ek kaynaklarla dolu bir 
+sonraki bölümü hazırladık.
+Planlama Yok
+Bu hata, yukarıda bahsedilen hatayla paralellik gösterir. Sonuçta, 
+hazırlıklı değilseniz, sağlam bir işlem stratejisi veya planıyla bir işleme 
+girme olasılığınız çok düşüktür.
+Hızlı para kazanma amacıyla canlı alım satıma atılıp, yükselişte 
+olduğunu düşündüğünüz hisse senetlerine veya varlıklara, eylemin 
+ardında pek düşünmeden yatırım yapabilirsiniz. Ancak, plansız bir 
+şekilde atıldığınız için, yaptığınız yatırımlar ve işlemler aleyhinize 
+dönebilir ve zarar etmeye başlayabilirsiniz. Hatta yatırdığınız her şeyi 
+kaybedebilir ve başladığınız zamandan daha kötü bir durumda 
+kalabilirsiniz.
+Bu hatanın bir diğer yönü de bir ticaret planınız olabilirdi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 105 ===
+Aklınızda bir strateji yoktu ancak heyecan veya sabırsızlık nedeniyle bu 
+planınızdan saptınız ve bazı dürtüsel kararlar aldınız.
+Bir planınız olup da onu uygulamamanız, hiç planınız olmamasıyla aynı 
+kayıplara yol açabilir.
+Unutmayın, bir yatırımcının temel ilkelerinden biri sabırlı olmak ve 
+işlem yaparken bilinçli ve bilinçli kararlar almaktır. Eğer dürtüsel, 
+sabırsız ve bilgisizseniz, başarılı olma olasılığınız çok düşüktür.
+Duygularınızın İşlemlerinizi Belirlemesine İzin Verin
+Yukarıda bahsedilen hatayla birlikte gelen bir diğer hata da insan 
+duygularıdır. Duygular doğası gereği riskli değildir ve hatalara da 
+neden olmaz. Ancak, duygularınızın eylemlerinizi, sonuçlarını 
+düşünmeden yönetmesine izin verdiğinizde, özellikle de alım satımda, 
+bu bir sorun haline gelir.
+Her yatırımcı, işlem yaparken duygularını ve içgüdüsel tepkilerini kontrol etmekte 
+zorlanır. Korku, özgüven ve açgözlülükle mücadele ederken sürekli bir çekişme ve 
+çekişme yaşarsınız.
+Ticarete başladığınızda, muhtemelen heyecanlanacak ve atılıp para 
+kazanmaya hazır olacaksınız. Öte yandan, korkabilir ve temkinli 
+davranabilirsiniz. Ve bu iki duygu da tamamen normal ve doğaldır.
+Çoğu durumda, bu duygular sizi motive etmenin harika bir yoludur. Örneğin, 
+korku temkinli kalmanıza yardımcı olur ve pervasız davranıp riskli işlemler 
+yapmanızı engeller. Açgözlülük ise sizi daha çok çalışmaya ve daha fazla 
+teknik ve işlem yöntemi öğrenmeye motive edebilir. Güven ise işlemlerinizi 
+yürütmenize ve pozisyonlara girip çıkmanıza yardımcı olabilir.
+Ancak bu duyguların sizi ele geçirmesine izin vermemeye dikkat 
+etmelisiniz.
+Aşırı özgüven ve açgözlülük, işlemlerinizde büyük riskler almanıza 
+neden olabilirken, korku da işlem fırsatlarına erişmenizi engelleyebilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 106 ===
+Önemli olan, soğukkanlılığınızı korumak ve size hizmet ettiği sürece işlem 
+planınıza sadık kalmaktır. Bu dürtüsel duygulardan kurtulmak için bir çıkış 
+yolu arıyorsanız, elinizde denemeler yapabileceğiniz bir kağıt işlem hesabı 
+bulundurmanızı öneririz.
+Zor ve Karmaşık İşlem Modelleri
+Şimdiye kadar ele aldığımız işlem hatalarının tam tersi tarafta, gerekli 
+özeni gösteren, araştırma yapan ve piyasa değişimlerinin ve işlemlerin 
+nasıl çalıştığına dair rahat bir çalışma bilgisine sahip olan yatırımcılar 
+yer almaktadır.
+Temel çalışmayı yapmış ve kendine güvenen yeni başlayanların, 
+başlangıç   olarak çok karmaşık, zor işlem stratejileri seçme hatasını 
+sıklıkla gördük.
+Karmaşık işlem stratejilerinin sorunu, genellikle uygulanmalarının zor 
+olması ve bunları başarmak için kapsamlı deneyim, beceri seti ve bilgi 
+gerektirmesidir. Bu nedenle, çoğu yeni başlayan, etkili bir şekilde 
+çalışmasını sağlayacak deneyimden yoksun oldukları için işlemlerinin ve 
+stratejilerinin başarısız olduğunu fark eder.
+Deneyimlerimize göre, ticarette başarılı olmak hem deneyim hem de bilgi 
+birikimi gerektirir. Ne kadar heyecanlı ve hazır olursanız olun, 
+kaldırabileceğinizden fazlasını üstlenmemeniz konusunda sizi uyarıyoruz.
+Bunun yerine, kendinizi bulana kadar basit ve uygulanması kolay ticaret 
+stratejileriyle küçük adımlarla başlayın. Kendinizi daha rahat hissedip daha fazla 
+deneyim kazandıktan sonra, daha karmaşık stratejileri deneyebilir ve farklı 
+alanlara yönelebilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 107 ===
+Bölüm 7:
+Ek Kaynaklar
+Bu bölümde algoritmik ticaret hakkında daha fazla bilgi edinmeniz ve kodlama ve ticaret 
+becerilerinizi geliştirmeniz için kullanabileceğiniz ek kaynaklar listelenmektedir.
+Bu bölümü iki ana bölüme ayırdık. İlk bölüm özellikle alım satım ve 
+algoritmik alım satıma odaklanırken, ikinci bölüm bir alım satım 
+bilgisayarı oluşturmaya ve kodlama becerilerinizi geliştirmeye 
+odaklanıyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 108 ===
+(Algoritmik) Ticaret ve Yatırım Kaynakları
+Bu bölümde, yeni başlayanların yatırım yolculuğuna başlarken ideal 
+olduğunu düşündüğümüz kaynakları ele alacağız. Daha fazla bilgi edinmek 
+isterseniz, buradan başlamanızı öneririz.
+Udemy
+Udemy, ticaret, yatırım, işletme yönetimi ve daha birçok konuyu 
+kapsayan binlerce ders sunan harika bir çevrimiçi öğrenme kaynağıdır.
+Bu kursların sektör profesyonelleriyle iş birliği içinde hazırlanmış olması 
+bizi oldukça etkiledi. Bunun, kursların kalitesini ve güvenilirliğini önemli 
+ölçüde artırdığını düşünüyoruz. Bu bölümde, yeni başlayanlara uygun 
+olacağını düşündüğümüz oldukça kullanışlı bir ticaret kursuna yer verdik.
+Kurs profesyonelce hazırlanmış olmasının yanı sıra, bilgiler de başlangıç   
+seviyesindekilere uygun, basit bir şekilde sunuluyor ve bu da hoşuma 
+gitti.
+Udemy ücretli bir hizmettir. Ancak oldukça uygun fiyatlıdır ve bütçenizi 
+zorlamaz. Belirli bir kurs için ödeme yaptığınızda, o kursa ömür boyu 
+erişebilir ve dersi iyi anlamadıysanız eğitmenlerle etkileşim 
+kurabilirsiniz.
+Tek olası dezavantajı, bu kursların diploma veya sertifika vermemesidir. 
+Ancak, amaç ticaret becerilerinizi geliştirmek olduğundan, bunun çok 
+da büyük bir sorun olacağını düşünmüyoruz.
+Disiplinli Tüccar
+Disiplinli Yatırımcı, yatırım psikolojisine ve başarılı olmak isteyen birinin 
+ihtiyaç duyduğu zihinsel disipline odaklanan, yeni başlayanlar için 
+mükemmel bir yatırım kitabıdır.
+En son çıkan kitap olmasa da (1990'da yayınlanmış) zaman testinden geçmiş 
+olması ve hala birçok kişi tarafından mutlaka okunması gereken bir kitap olarak 
+görülmesi bizi etkiledi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 109 ===
+Oldukça karmaşık bir konuyu ele almasına rağmen, oldukça sade bir dille yazıldığını 
+ve okunmasının kolay olduğunu düşündük. Yazar, her yatırımcının sahip olması 
+gereken temel düşünce yapısını ve tutumları anlatmada harika bir iş çıkarmış.
+İlginizi çekerse Amazon bağlantısını da ekledik.
+Algoritmik Ticaret ve DMA
+Algoritmik Ticaret ve DMA, Barry Johnson tarafından yazılmış, nicel 
+algoritmik ticarete odaklanan bir kitaptır. Biraz karmaşık olsa da, 
+algoritmik ticaret ve kodlamadaki karmaşık kavramları anlamaya 
+çalışırken bu kitabı inanılmaz derecede faydalı bulduk.
+Kitapta özellikle piyasa değişimlerinin nasıl işlediği ve Johnson'ın "piyasa 
+mikro yapısı" olarak adlandırdığı konuya odaklanılıyor.
+Yatırım ve ticaret stratejilerinin nasıl oluşturulacağı ve finansal piyasa 
+borsalarının iç işleyişi hakkında daha fazla bilgi edinmek istiyorsanız, bu 
+kitap olmazsa olmazdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 110 ===
+Bilgisayar ve Programlama Kaynakları
+Kodlama ve bilgisayarlarla ilgili güvenilir, yeni başlayanlara uygun kaynaklar 
+bulmak oldukça zor olabilir. Şimdi, teknoloji konusunda en bilgili grup 
+olmadığımızı ve bilgisayarlarla aramızın hiç iyi olmadığını ilk kabul 
+edenlerden biri olacağız. Bu nedenle, programlama ve bilgisayar 
+becerilerimizi geliştirmemize yardımcı olacak kaynaklar ararken, başlangıç   
+seviyemize uygun olanları bulmakta zorlandık.
+Her şey ya çok karmaşıktı ya da yeterince iyi açıklanmamıştı. Bununla 
+birlikte, bir ekip olarak başladığımızda bize yardımcı olan, yeni 
+başlayanlara uygun birkaç kaynak aşağıda yer alıyor.
+Beceri Paylaşımı
+Eğer bir süredir internetteyseniz, skillshare'i mutlaka duymuşsunuzdur.
+Skillshare, yıllık sadece 30 dolara inanılmaz derecede uygun fiyatlı bir çevrimiçi öğrenme platformudur. 
+Gerçekten kaçırılmayacak bir fırsat!
+Skillshare, fotoğrafçılıktan programlama ve kodlamaya kadar her şeyi 
+kapsayan binlerce kurs sunuyor. Skillshare'de ayrıca çeşitli öğretmenler 
+de mevcut, yani belirli bir ders ilginizi çekmiyorsa, neredeyse her zaman 
+benzer bir ders bulabilirsiniz.
+Geniş ders çeşitliliği, size uygun olanı seçmenize olanak tanır. Ayrıca, 
+Skillshare ne zaman ve nerede öğrenmek istediğinizi seçmenize de 
+olanak tanır. Güçlü bir internet bağlantınız olduğu sürece, dünya sizin 
+için bir cennettir.
+Bu bölümde, yeni başlayanlar için uygun olduğunu düşündüğümüz 
+Skillshare kodlama derslerine bağlantılar ekledik. Ayrıca ticaret ve yatırım 
+üzerine dersler de bulabilirsiniz.
+JayzTwoCents
+Bu biraz alışılmadık bir durum olabilir, ancak YouTuber JayzTwoCents 
+bilgisayarlar, bilgisayar bileşenleri ve nasıl PC toplanacağı hakkında 
+harika videolar çekiyor. Ayrıca anakartlar, RAM kartları ve güç 
+kaynakları gibi bilgisayar bileşenleri hakkında da bir sürü inceleme 
+yapıyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 111 ===
+Kanalına rastladığımızda, talimatlarını ve açıklamalarını takip etmesi 
+oldukça kolay ve son derece kullanıcı dostu bulduk. İçerikleri de 
+oldukça eğlenceli ve profesyonelce düzenlenmiş ve kaydedilmiş. 
+Videoları oldukça kişisel ve çoğu zaman bir arkadaşınızla 
+konuşuyormuşsunuz gibi hissettiriyor.
+Skillshare'de olduğu gibi, YouTube da internete erişiminiz olduğu 
+sürece istediğiniz zaman, istediğiniz yerde video izlemenize olanak 
+tanır. Bu da size istediğiniz zaman öğrenme özgürlüğü sağlar.
+Ayrıca, YouTube'un kullanımı tamamen ücretsizdir. Premium bir 
+sürümü de mevcuttur; ancak bunu gereksiz buluyoruz.
+Web sitesinde ayrıca, bazıları ticaret ve yatırım konularını da kapsayan 
+yüz binlerce başka YouTube kanalı da bulunmaktadır. Arama çubuğuna 
+tıklayıp bu seçenekleri keşfetmenizi öneririz.
+Veri Kampı
+Data Camp, kodlama ve programlama konusunda uzmanlaşmış bir 
+diğer harika çevrimiçi kaynaktır. Bu listedeki kaynakların çoğu gibi, 
+ücretsiz bir sürümü ve ücretli bir premium hesabı mevcuttur; ancak 
+bunun deneyimimizde pek bir fark yaratmadığını gördük.
+Data Camp'in "Finans İçin Python: Algoritmik Ticaret" adlı bir eğitim dersi 
+sunması oldukça etkileyiciydi. Kodlama becerilerinizi geliştirirken oldukça 
+faydalı bulacağınızı düşünüyoruz. Sonuçta, kodlamayı öğrenmek çok önemli 
+olsa da, bir ticaret stratejisini kodlamaya nasıl dönüştüreceğinizi ve bunu 
+nasıl etkili bir şekilde yapacağınızı da bilmeniz gerekiyor.
+Bu eğitimin, algoritmik ticaret için özel olarak kodlamayı öğrenmek için 
+harika olduğunu gördük. Hem yeni başlayanlara uygun hem de tamamen 
+çevrimiçi olması, istediğiniz zaman ve istediğiniz yerde öğrenebileceğiniz 
+anlamına geliyor.
+Bu kaynağa erişmek istiyorsanız yine internet bağlantınızın olması 
+gerekiyor.
+Makinenin İçinde: Mikroişlemciler ve Bilgisayar 
+Mimarisi Hakkında Resimli Bir Giriş
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 112 ===
+Bu daha geleneksel bir kaynaktır. "Makinenin İçinde" kitabı, bilgisayarlar ve 
+çeşitli bileşenleri hakkında yeni başlayanlar için bir rehberdir.
+Başlangıç   seviyesindekiler için bir rehber olması göz önüne alındığında, 
+son derece kullanıcı dostu ve sade bir dil kullanıyor. Ayrıca, okuyucuyu 
+bunaltmadan veya onları her türlü karmaşık terimle boğmadan bilgi 
+aktardığını gördük.
+Bu kitap, okuyucuların modern bir bilgisayarın temellerini ve bilgisayarın farklı 
+bileşenlerini anlamalarına yardımcı olmayı amaçlamaktadır. Ayrıca, temel 
+kavramlar ve hatta bazı ileri düzey dersler de dahil olmak üzere programlamanın 
+temellerini de kapsamaktadır.
+Genel olarak, bu kitap bilgisayar ve programlamaya başlamanız için harika bir 
+başlangıçtır, özellikle de konunun teknik yapısı göz önüne alındığında biraz 
+tereddütlüyseniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 113 ===
+Çözüm
+Ve işte böylece, birlikte yolculuğumuzun sonuna geldik. Son birkaç 
+bölümde, algoritmik ticaretin temelleri ve gerekliliklerinden risk 
+yönetimi ve algoritmik değerlendirmeye kadar her şeyi ele aldık.
+Bu bölümlere mümkün olduğunca çok bilgi sığdırmaya çalıştık ancak 
+korkarım ki siz buzdağının sadece görünen kısmını gördünüz.
+7. Bölüm'ün de gösterdiği gibi, dışarıda bir bilgi dünyası var ve 
+öğrenmeye devam ettikçe, bilmediğiniz çok daha fazla şey olduğunu 
+göreceksiniz. Şimdi, cesaretinizi kırmak istemiyoruz. Aksine, 
+sözlerimizin sizi daha büyük hedeflere doğru itecek bir motivasyon 
+kaynağı olmasını umuyoruz.
+Bu kitabı elinize almanızın bir sebebi var. Basit bir ilgi, merak veya ticaret 
+yapma isteği olabilir. Elinize almanızın sebebi ne olursa olsun, sonuna 
+kadar elinizde tutmanızın da bir sebebi var. Sonuçta, kimse sizi kitabı 
+bitirmeye zorlamadı.
+Peki, size sorumuz şu: Neden kaldınız? Merak sizi ancak belli bir yere kadar 
+götürür ve bunun sizi bir kitabın tamamı boyunca idare edebileceğinden 
+şüpheliyiz.
+Eğer cevabınız gerçekten ticaretle ilgiliyse, sizi aramızda görmekten büyük 
+mutluluk duyuyoruz.
+Gösterdiğimiz gibi, alım satımı öğrenmek ve ustalaşmak en kolay şey 
+olmasa da, mümkündür. Elinizde doğru araçlar varsa, finansal 
+hedeflerinize düşündüğünüzden daha hızlı ulaşabileceğinizden eminiz. 
+Tek ihtiyacınız olan sabır ve özveri.
+Tüm güzel şeylerde olduğu gibi, ticaret ve yatırımlarda ustalaşmak da kolay 
+olmayacak. Kesinlikle bir gecede olmayacak. Çok çalışmanız gerekecek ve zor 
+olacak, ancak ödüllerinin kesinlikle geleceğine söz veriyoruz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 114 ===
+buna değer.
+Başlamanız için size yeterli araçları sağladığımızı umuyoruz.
+Şimdi etrafınıza bakıp "Şimdi ne olacak?" diye düşünüyor olabilirsiniz. Peki, bundan sonra 
+nereye gideceğim?
+Peki, bundan sonra ne olacağı tamamen size kalmış. Finansal 
+geleceğiniz tamamen sizin elinizde ve nereye gideceğinize siz karar 
+veriyorsunuz. Bu kitabı bir kenara bırakıp öğrendiklerinizi unutabilir 
+veya başka bir finans kitabı alıp kendinizi daha fazla bilgiyle donatmaya 
+karar verebilirsiniz.
+Algoritmik ticaret ve genel olarak ticaret hakkında daha fazla bilgi edinmek 
+istiyorsanız, 7. Bölüm, bu kitabı bitirdikten sonra artık inceleyebileceğiniz 
+harika kaynaklara giden bir yol haritası görevi görmektedir.
+Sizi kapıda uğurlamadan önce, bu kitaptaki dersleri ve bilgileri oldukça iyi 
+özetlediğini düşündüğümüz birkaç önemli noktayı sizinle paylaşmak 
+istiyoruz. Bunu, şimdiye kadar ele aldığımız her şeyin bir özeti olarak 
+düşünün.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 115 ===
+Önemli Çıkarımlar
+Bu bölümde, kitabın temel ilkeleri olduğuna inandığımız şeyleri 
+derledik. Bunlar, her şeyi unutsanız bile yanınızda taşımanızı 
+umduğumuz temel tavsiyeler ve bilgilerdir.
+Bu kitaptaki bölümlerden bir temel ilke veya çıkarım seçerek derslerin 
+bir özetini oluşturduk.
+Temel Bilgilerinizi Öğrenin
+Bu kitabın ilk bölümü oldukça basitti. Algoritmik ticarete giriş veya 
+hızlandırılmış kurs niteliğindeydi. Birçok yönden, gelecekte olacakların 
+temelini atıyordu.
+Bununla birlikte, birinci bölümden çıkarabileceğiniz en iyi dersin 
+temelleri bilmek olduğunu düşünüyoruz. Bu, "Algoritmik ticaret nedir?", 
+"Nasıl çalışır?" ve "Algoritmik ticaretin avantajları ve dezavantajları 
+nelerdir?" gibi soruları cevaplayabilmek anlamına gelir.
+Ayrıca, ticaretin temelleri, ticaret stratejileri ve bunların nasıl çalıştığı, 
+çevrimiçi brokerlar ve bunların finans piyasalarındaki rolü hakkında da bilgi 
+sahibi olmalısınız.
+Şimdi kendinize, bunları bilmeniz konusunda neden bu kadar ısrarcı 
+olduğumuzu soruyor olabilirsiniz. Şöyle düşünün: Bir ev inşa ederken 
+sağlam bir temele ihtiyacınız vardır, aksi takdirde ev çökebilir.
+Ticaret ve yatırımın temellerini bilmek, temelinizdir. Büyüdükçe ve 
+öğrendikçe ticaret yolculuğunuz buna dayanacaktır. Temel konularda 
+net değilseniz, para kaybetmenize ve ticaret kariyerinizin çökmesine 
+neden olabilecek basit hatalar yapabilirsiniz.
+Temel bilgileri bilmek çok önemlidir çünkü size bir aşinalık ve yön duygusu 
+kazandırır. Hangi işlem stratejisini kullanacağınıza veya hangi aracı kurumu 
+seçeceğinize karar vermek gibi önemli kararlar almanıza yardımcı olur.
+Hazırlıklı olun
+Herhangi bir yeni girişime başladığınızda veya yeni bir hedefe ulaşmaya çalıştığınızda, bu önemlidir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 116 ===
+Nereye varmak istediğinize ulaşmak için neye ihtiyacınız olduğunu bilmek.
+Diyelim ki bahçeciliğe başlamak istiyorsunuz. Tüm araştırmalarınızı 
+yaptınız, sevdiğiniz çiçekleri yetiştirmek için en iyi toprak tipini buldunuz 
+ve hatta evinizde bahçenizi kurmak için en uygun yeri bile buldunuz.
+Bunların hepsi güzel ve hoş, ancak gerekli tüm aletleri edinmeden 
+bahçeciliğe başlayamazsınız. Bunlar saksı, tohum, sulama kabı ve 
+toprak olabilir.
+Aynı şey algoritmik ticaret için de söylenebilir. Temel bilgileri 
+ezberlemek harika, ancak bu tek başına sizi algoritmik bir yatırımcı 
+yapmaz. Ticarete başlamak istiyorsanız, doğru araçlara ihtiyacınız 
+olacak.
+Artık manuel ticarette, başlamak için ihtiyacınız olan tek şey iyi bir internet 
+bağlantısı ve bir aracı kurumda bir işlem hesabı. Ancak, 2. Bölüm'de de 
+belirtildiği gibi, algoritmik ticarete başlamak için bundan çok daha fazlasına 
+ihtiyacınız olacak.
+Burada önemli olan, özellikle ticaret gibi karmaşık bir işe giriştiğinizde 
+hazırlıklı olmanızdır.
+Tutarlılık Anahtardır
+Seçtiğiniz stratejiye göre işlem algoritmanızı ve hesabınızı kurup 
+çalıştırdıktan sonra, onu olduğu gibi bırakıp en iyisini ummak yeterli 
+değildir.
+Algoritmik ticaret, otomatik bir ticaret biçimi olsa da yine de insan 
+müdahalesi gerektirir. Kurup çalışır durumda bırakabileceğiniz bir şey 
+değildir.
+Bunun yerine, algoritmanızın karlılığını koruduğundan ve piyasa 
+trendlerine ayak uydurabildiğinden emin olmak için performansını sürekli 
+olarak izlemeniz ve değerlendirmeniz gerekecektir.
+Bununla birlikte, sürekli bakıma ihtiyaç duyan tek şey algoritmanız 
+değil. Öğrenmeyi ve becerilerinizi geliştirmeye çalışmayı bırakmamanız 
+önemlidir. Sonuçta, pratik mükemmelleştirir.
+Bu nedenle, kendinizi rahat hissetseniz bile, şunu tavsiye ederiz:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 117 ===
+Ticaret yaparken, yeni yöntemler araştırmayı ve çeşitli yatırım ve işlem 
+seçeneklerini keşfetmeyi asla bırakmazsınız. Algoritmik ticarette ise, 
+kodlama ve programlama becerilerinizi de geliştirmeniz gerekir.
+Ayrıca, sürekli dalgalanan finans piyasaları nedeniyle, finansal haberleri 
+takip etmekte tutarlı olmanız da iyi bir fikirdir. Bu, oluşabilecek 
+herhangi bir piyasa değişimine hazırlıklı olmanızı sağlar.
+İlgili Riskleri Anlayın Bahçecilik 
+örneğine geri dönelim.
+Diyelim ki bahçeciliğe başladınız. Toprağınız, tohumlarınız, doğru 
+yeriniz ve şık bir sulama kabınız var; yani başlamak için ihtiyacınız 
+olabilecek her şey. Böylece ekim, dikim ve bahçecilikle ilgili diğer her 
+şeye başlıyorsunuz.
+Zamanla bitkileriniz filizlenir ve her şey yolunda gider gibi görünür. Sonra 
+bir gün uyandığınızda bitkilerinizin yarı yenmiş ve neredeyse ölmüş 
+olduğunu görürsünüz. Bitkilerinizin arasında, yeni bitkilerinizle ziyafet 
+çekmiş küçük böcekler ve salyangozlar bulursunuz.
+Bahçeciliğin risklerini öğrenmeyi unuttuğunuz için tüm o emekler boşa 
+gidiyor.
+Bahçecilikte olduğu gibi, ticaretin de kendine has riskleri vardır. 6. 
+Bölüm, algoritmik ticaretle ilişkili riskleri ve bunlara karşı nasıl 
+korunulacağını ayrıntılı olarak ele almaktadır.
+Algoritmik ticaretin içerdiği risklerin farkında olmak, kendinizi 
+bunlardan korumanın en iyi yoludur.
+Bununla birlikte, risklerin farkında olmak ne kadar önemliyse, ticaret ve 
+yatırımın doğasında risklerin olduğunu kabul etmek de bir o kadar 
+önemlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 118 ===
+Son Düşünceler
+Artık bu kitabın sonuna ulaştığımıza ve bu sayfaların izin verdiği kadar 
+bilgi ve tavsiye paylaştığımıza göre, vedalaşma zamanımız geldi.
+Artık kendi başınızasınız ve ticarete olan ilginizi sürdürmeye karar vermek 
+veya şu anki halinizle devam etmek tamamen size kalmış.
+Ama son olarak şunu da söylemeden edemeyiz:
+Bu kitabı okumaya ayırdığınız zamanın boşa gitmesine izin vermeyin. Öğrenin, 
+keşfedin ve bilgi ve becerilerinizi kullanın.
+Ticaret yolculuğunuzda başarılar dileriz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

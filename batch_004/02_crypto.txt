@@ -1,0 +1,2662 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 9\Baskı 9\Gelişmiş Kripto Trading Stratejileri (75 sayfa) - @eseckal.pdf
+PAGES: 75
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+1.0 Sözlük
+2.0
+2.1
+2.2
+2.3
+Bitcoin: Nedir ve Nasıl Çalışır?
+250 Kelime veya Daha Az Kelimeyle Bitcoin 
+Blockchain'i
+Enflasyon ve Çatallar
+3.0
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+3.8
+Diğer veya “Alt” Para Birimleri veya “Paralar”
+Ethereum
+Dalgalanma
+Çizgi
+NEO
+Litecoin
+Iota
+Monero
+NEM
+4.0
+4.1
+4.2
+4.3
+4.4
+4.5
+4.6
+4.7
+4.8
+4.9
+4.10
+4.11
+Cüzdanlar
+En Güvenli Ekmek Seçeneklerini 
+Düşünmek
+Miselyum
+Çıkış
+Ortak ödeme
+Jaxx
+Cephanelik
+Trezor
+Defter Nano S
+Yeşil Adres
+Blockchain.info
+5.0
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+Borsalar
+Önemli İlk Hususlar
+Coinbase
+İkizler burcu
+Cex.Io
+Poloniex
+Kraken
+2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+6.0
+6.1
+6.2
+6.3
+6.3.1
+6.3.2
+6.3.3
+6.3.4
+6.3.5
+6.3.6
+6.3.7
+6.3.8
+6.3.9
+6.3.10
+6.4
+Teknik Ticaret
+Teknik Ticaretin Potansiyeli
+Grafik Nasıl Okunmalı: İlk Ufacık Bebek Adımları 
+Common Analytics
+Basit Hareketli Ortalama
+Üstel Hareketli Ortalama
+Hareketli Ortalama Yakınsama Iraksama KDJ 
+Göstergesi
+Bollinger Bantları
+Göreceli Güç Endeksi
+Önyargı Oranı
+Williams % Aralığı
+Hızlı/Yavaş Stokastik Osilatör 
+Hacmi Hareketli Ortalama
+Ortak Ticaret Kalıpları
+7.0
+7.1
+7.2
+7.3
+7.4
+7.5
+7.6
+Desenlere Giriş
+Boşluklar
+Baş ve Omuzlar
+Üçlü Alt
+Çift Alt/Üst
+Tabaklar
+T-30
+8.0 Türevleri Anlamak
+Temel Video Eğitim Dersleri, bu Ustanın zihnindeki Gizli Otomasyon silahlarıyla kısa sürede nasıl büyük kar elde edileceğini gösteriyor
+Kripto Takas Karları Mastermind Size Avantaj Sağlıyor...
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Değer alışverişi araçlarının evriminde bir sonraki adım olan kripto para birimleri dünyasına hoş geldiniz. Bu, 
+pek çok yazarın paranın büyüleyici tarihine yöneleceği kısımdır. Bu ilginç olsa da ya da en azından ilginç 
+olabilse de sonuçta bu bir yan not ve açıkçası sizi daha da zengin yapmayacak.
+Bunun yerine, bu kitap, bu son derece sıcak yatırım alanına katılmak ve potansiyel olarak kar elde etmek için 
+bilmeniz gerekenlerle başlayacak ve bunlara odaklanacaktır. Bunu aklımızda tutarak, en baştan başlayıp sizi 
+insanlığın ilk para birimleri veya buna benzer hikayelerle eğlendirmeyeceğiz; bunun yerine, yüksek tahtadan bir 
+adım atacağız ve size hemen şimdiki ve en yeni bilgisayar tabanlı para birimlerini öğretmeye başlayacağız.
+Sözlük çoğu kitabın arkasına yerleştirilse de, bu kitabın ön tarafında yer alıyor. Çünkü kripto para dünyasının 
+kendine ait bir dili var; ve bu, bitcoin veya diğer dijital para birimlerini satın alan herkesin akıcı bir şekilde 
+bilmesi gereken bir jargondur. Bu kelimeleri tanıyıp gerçekten anlamaya başlamanın hiçbir yolu yoktur.
+İster baştan sona okuyun, ister sadece bu sözlüğe sık sık bakın, bu yeni kelime dağarcığı, haklı olarak yeni, sınırsız 
+uluslararası finans imparatorluğundaki krallığın madeni parası olarak tanımlanabilir. Bu, kripto para birimiyle ilgili diğer 
+ayrıntılı açıklamalarla (normal, finansal olmayan insanların konuşma şekli olan sade İngilizce) birleştiğinde, sizi bitcoin ve 
+altcoin karlarını takip etmek için iyi bir konuma yerleştirecektir. Ve, hey, başlayabileceğiniz ilk iki kelime var. Eğlence.
+Adres.Bitcoin'lerin veya altcoin'lerin gönderilebileceği veya gönderilebileceği benzersiz bir alfasayısal karakter 
+dizisi. Bu adres, tıpkı e-posta adresi gibi, değer alışverişini başlatmak amacıyla herkesle paylaşılabilir. Bu şekilde, 
+kripto para biriminin anonim değil eşanlamlı olduğu söylenir; sonuçta izlenebilirdir.
+API'dir.“Uygulama programlama arayüzü.” Kodu API'ye izin veren kripto para birimleri, işlevselliği artırmak için ayrı 
+uygulamalar çalıştırabilir. Bitcoin'in API'si YOKTUR. Bazıları API eksikliğini ciddi bir dezavantaj olarak görüyor.
+Bitler.Bitler, tıpkı penilerin bir doları oluşturması gibi, bir bütünü oluşturan daha küçük bitcoin birimleridir. Bir bitcoin bir milyon 
+bitten oluşur.
+Blok.Genellikle 10 dakika olmak üzere belirli bir süre boyunca gerçekleştirilen toplu bir dizi doğrulanmış 
+işlem.
+Blockchain.Her bitcoin işleminin kesin kaydını içeren büyük bir veri dosyası. Blockchain'e herkes bakabilir. 
+Anonim değil eşanlamlı olarak kabul edilir.
+BTC.Bitcoin'in borsa sembolü. Herhangi bir grafiğe bakarken her zaman doğru menkul kıymeti görüntülediğinizden emin olun. Her 
+kripto paranın tıpkı hisse senedi veya yatırım fonu gibi bir hisse senedi sembolü vardır. Bazı kriptolar, genellikle dolar, euro veya pound 
+olmak üzere fiat para birimi cinsinden teklif verir ve birçoğu da diğer kriptolarla teklif verir. Neyin ne anlama geldiğini anladığınızdan 
+emin olun ve dönüşüm hesaplamalarınızı her zaman önce iki, sonra üç kez kontrol edin.
+4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Dağıtılmış hesaplama.Tüm görevlerin tek bir merkezi işlemci üzerinden yürütülmesi yerine, bir grup bilgi işlem görevinin eş 
+zamanlı olarak işlenmesi için geniş bir ağ üzerinden yayılması. Kripto para birimi “dağıtılır”.
+Merkezi olmayan.Merkezi bir işlem otoritesi tarafından yönetilmeyen ağ tabanlı bir iş akışı sistemi. Bitcoin ve 
+altcoin merkezi olmayan bir yapıdadır çünkü genellikle büyük bir ana bilgisayar (banka veya kredi kartı işlemcisi 
+gibi) tarafından yapılan işler, küçük işler halinde internete bağlanan tonlarca küçük makineye dağıtılır.
+Merkezi.Bir ağ içindeki tüm işlemlerden ve eylemlerden "sorumlu" olan bir ana işlem birimine sahip 
+hiyerarşik bir organizasyon.
+Soğuk Depolama (veya “soğuk cüzdan”).Madeni paraların özel anahtarlarını çevrimdışı tutmak - internete bağlı değil. Bunlar, 
+taşınabilir bir USB sürücüsü, çevrimiçi bağlantısı olmayan bir bilgisayar veya özel anahtarın (onsuz madeni paranın 
+kullanılamayacağı) gerçek basılı kopyası şeklinde olabilir. Ledger Nano bir tür soğuk depolamadır.
+Onay.Bir bitcoin işlemi, blockchain üzerindeki bir bloğa dahil edilene kadar onaylanmamış olarak kabul edilir; 
+bu noktada bir onaya sahiptir. Her ek blok başka bir onaydır. Bir bitcoin işleminin blockchain taşına kazınması 
+için üç onay gerekir.
+Kriptografi.Bilgiyi korumak için karmaşık matematiğin kullanılması. Kriptografi, para birimleri ve cüzdanlar yaratır, 
+işlemlerin dijital olarak imzalanmasına ve blok zincirindeki işlemlerin doğrulanmasına olanak tanır.
+Doğramak.Madencilerin ağı güvenli hale getirmek için bloklar üzerinde gerçekleştirdiği benzersiz bir işlem tanımlayıcı veya 
+aritmetik işlev.
+Sıcak Cüzdan.Çevrimiçi bağlantısı olan bir cihazı (telefon gibi) temel alan bir Bitcoin veya altcoin cüzdanı. Bir masaüstü 
+bilgisayara, tablete veya telefona yüklenen bir cüzdan genellikle "sıcak" bir cüzdandır. Elektronik olan her şey teorik olarak 
+hacklenebilir olduğundan, sıcak cüzdan, internete bağlı olmayan bir cihazda veya başka bir depolama yönteminde gerçekleşen 
+soğuk cüzdan veya soğuk depolamaya göre daha az güvenli görülüyor.
+Müşterinizi Tanıyın.Finansal kuruluşların müşterilerinin kimliklerini doğrulamasını gerektiren bankacılık kuralları. 
+Birisi size KYC hakkında soru sorarsa, bir kova tavuk ya da lahana salatası aramıyor demektir.
+Defter.İşlemleri ve bakiyeleri detaylandıran elektronik bir kayıt defteri. Bitcoin blok zinciri ilk dağıtılmış, merkezi 
+olmayan, halka açık defterdi. Çoğu kripto para biriminin kodlamasının merkezinde bir tür halka açık defter bulunur.
+Madenci.Dağıtılmış ağdaki diğer madenciler (veya "düğümler") tarafından oluşturulan bloklara işlem ekleyen ve blokları 
+doğrulayan bir bilgisayar (veya bazı durumlarda bir grup bilgisayar). Madenciler çabaları ve harcamaları karşılığında bir işlem 
+ücreti ile ödüllendirilir. Madencilik, güçlü bilgisayarlara ve ultra hızlı bilgisayar çiplerinin tüm silindirlerde çalışmasını sağlamak 
+için oldukça fazla elektriğe ihtiyaç duyar.
+5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Çoklu İmza.Ayrıca "multisig" kısaltmasıyla da anılır. Birden fazla tarafın elektronik imzasını gerektiren bir 
+Bitcoin veya altcoin işlemini ifade eder. Multisig, kripto para biriminin güvenliğini güçlendirmeye yönelik bir 
+çabadır.
+Düğüm.Bir ağdaki katılımcı. Düğümlerin her biri blok zincirinin bir kopyasına sahiptir (TÜM işlemleri kaydeden halka açık 
+kayıt defteri). Düğümler bilgileri paylaşarak yeni işlemleri doğrulama ve tamamlama için diğer düğümlere aktarır.
+Açık Kaynak.Herkese açık olan ve herkese ücretsiz olarak dağıtılabilen yazılım kodu. Bitcoin açık kaynaktır. 
+Örneğin Linux “açık kaynaklı” bir bilgisayar işletim sistemidir.
+Kağıt Cüzdan.Kulağa tam olarak benziyor: Özel kripto anahtarlarının basıldığı (soğuk depo) bir kağıt parçası. En güvenli 
+depolama şekli olarak kabul edilir.
+Eşler arasıbazen P2P olarak kısaltılır. Bu, ağdaki düğümlerin yukarıdan aşağıya hiyerarşik ("merkezi") bir 
+bilgisayar sistemi aracılığıyla iletişim kurmak yerine birbirleriyle konuşması anlamına gelen dağıtılmış bir ağ 
+terimidir. Bitcoin, çoğu altcoin türü gibi P2P'dir.
+Özel Anahtar.Bitcoin ve diğer Kripto para birimlerinin harcanmadan önce "kilidini açmak" için kullanılması 
+gereken bir dizi alfanümerik karakter. Anahtarlar bir adresle ilişkilendirilir.
+Önem Kanıtı.Genellikle büyüklükleri, hesap sahibinin toplam madeni para sayısı veya her ikisi nedeniyle bazı 
+işlemleri madenciler tarafından işlenmek üzere ön sıralara ilerleten bir yazılım protokolü.
+Çalışma Kanıtı.Oluşturulması önemli miktarda hesaplama gerektiren ancak doğruluğunun doğrulanması için 
+minimum miktarda hesaplama gerektiren bir veri parçası. Bitcoin, blok oluşturmak için iş kanıtını kullanır.
+Genel Anahtar.Özel bir anahtardan türetilen bir harf ve sayı dizisi. Ortak anahtar, kişinin işlemleri almasına olanak 
+tanır.
+QR Kodu.Bunlar, bilgi içerebilen ve bir uygulamanın içinde kullanılmak üzere dijital kamera ile taranabilen büyük 
+kare barkodlardır. Bu, yaklaşık beş yıl önce, bazı mağazaların sizi kendi uygulamalarına veya web sitelerine 
+yönlendirmek için tabelalara bile yerleştirdiği noktaya kadar bir tür İnternet modasıydı. Bu moda büyük ölçüde 
+azalmış olsa da, teknoloji son derece kullanışlı ve genel ve özel anahtarların saklandığı bitcoin alanında kendine bir 
+yer buldu.
+İmza.Özel anahtar sahibinin işleme yetki verdiğini kanıtlayan işlem unsuru.
+Satoshi.Bir bitcoinin bölünebilen en küçük birimi. Bir Bitcoin'de 100 milyon satoshi var. Adını Bitcoin'in mucidi 
+olduğu söylenen "John Smith"in Japonca versiyonu olan Satoshi Nakamoto'dan alıyor. Kimliği bilinmiyor.
+6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+İşlem.Coinlerin adresten adrese transferini tanımlayan blockchaindeki bir giriş. Her Bitcoin işlemi çeşitli girdi 
+ve çıktıları kapsayabilir ve bu da madencilerin işlemleri gönderirken ve doğrularken kilidini açması gereken 
+yüz milyarlarca potansiyel kombinasyona yol açar.
+İşlem Ücreti.Bitcoin ağındaki görevleri yerine getirmeleri karşılığında madencilere ücret olarak ödenen bitcoin 
+veya altcoin miktarı. Tipik bir bitcoin ücret tutarı 0,0001 BTC olabilir.
+Cüzdan.Kripto para biriminin kilidini açan özel anahtarları içeren bir yazılım programı, donanım parçası veya hatta bir 
+kağıt parçası.
+Sermayesi 100 Milyon Dolardan Fazla Olan Kripto Paralar
+Koştu
+k İsim Piyasa Değeri Fiyat Tedarik Günlük Hacim
+68.281.610,66$
+6
+4.135,8$
+2
+2.240.110,00$
+01 Bitcoin 16.509.812
+28.416.910,22$
+0
+6.086.586.429 $
+4.976.055.009$
+2.649.409.352 $
+2.323.890.000$
+2.308.171.641 $
+2.277.725.000$
+1.676.431.196$
+1.004.300,00$
+0
+106.986.000$
+102.895.000$
+57.330.000$
+9.739.960$
+122.558.000$
+196.370.000$
+57.736.000$
+2
+3
+4
+5
+6
+7
+8
+9
+Ethereum
+Dalgalanma
+Bitcoin Nakit
+Iota
+NEM
+Litecoin
+NEO
+Çizgi
+Ethereum
+Klasik
+Qtum
+OmiseGo
+BitConnect
+Monero
+Tabakalar
+TenX
+Dalgalar
+EOS
+Zcash
+BitShares
+Bağ
+Steem
+302,19$
+0,16$
+301,70$
+0,95$
+0,26$
+43,99$
+45,55$
+223,66$
+94.036.878
+38.343.841.883
+16.493.388
+2.779.530.283
+8.999.999.999
+52.468.582
+50.000.000
+7.495.411
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+1.370.292.994$
+847.594.000$
+820.245.727$
+721.094.172$
+710.351.589$
+630.710.102$
+489.240.340$
+470.044.000$
+458.564.419$
+421.551.367$
+368.113.691$
+319.871.924$
+278.403.581 $
+14,49$
+14,37$
+8,34$
+111,72$
+47,54$
+6,40$
+4,67$
+4,70$
+1,60$
+213,56$
+0,14$
+1,00$
+1,16 dolar
+94.587.115
+59.000.000
+98.312.024
+6.454.304
+14.943.539
+98.505.357
+104.661.310
+100.000.000
+287.396.695
+1.973.906
+2.597.930.000
+319.501.302
+239.608.560
+63.861.700$
+63.050.800$
+156.284.000$
+7.455.380$
+9.329.870$
+20.043.200$
+36.468.800$
+3.414.580$
+24.787.600$
+16.073.400$
+24.063.600$
+140.994.000$
+1.055.590$
+7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+23 İkonomi 258.194.843$ 2,97$ 86.900.350
+183.246.354,93
+9
+2.010.533
+110.997.245
+833.032.000
+11.000.000
+28.637.654.550
+526.327
+41.252.246
+340.000.000
+3.470.483.788
+1.000.000.000
+11.039.771.873
+1.104.590
+664.126.673
+110.672.589,21
+5
+1.489.350$
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+Bytecoin
+Veritaseum
+Lisk
+Golem
+Kahin
+Siacoin
+Bayt topu
+Kalabalık
+Sivil
+Stratus
+Temel Dikkat
+Yıldız Lümenleri
+Gnosis
+Bytom
+251.540.439$
+244.030.507$
+241.804.168 $
+224.920.306$
+224.625.500$
+221.270.556$
+216.435.233$
+211.893.812 $
+206.719.320$
+205.059.781$
+203.541.000$
+201.439.405$
+199.867.828 $
+196.056.171$
+0,00$
+121,38$
+2,18 dolar
+0,27$
+20,42$
+0,01$
+411,22$
+5,14 dolar
+0,61$
+0,06$
+0,20$
+0,02$
+180,94$
+0,30$
+2.067.440$
+375.905$
+5.552.720$
+3.559.700$
+1.280.750$
+13.048.300$
+1.943.310$
+711.425$
+10.642.300$
+13.603.300$
+3.024.240$
+9.722.620$
+1.471.170$
+22.095.800$
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+KAYNAK: CoinMarketCap.com, 16 Ağustos 2017
+Dogecoin 194.384.229$ 0,00$ 4.602.640$
+2.750.560$
+2.785.970$
+20.045.400$
+791.473$
+310.243$
+1.186.010$
+1.806.300$
+4.049.290$
+1.400.740$
+14.774.000$
+801.592$
+25.543.800$
+19.112.200$
+1.265.040$
+3.132.300$
+10.051.600$
+794.284$
+6.583.300$
+MaidSafeCoin 180.829.988 $ 0,40$ 452.552.412
+Gerçek
+Gemi
+DigixDAO
+MCAP
+maden
+Decred
+Oyun Kredileri
+şevk
+DigiByte
+Komodo
+Binance Coin
+ICO
+MobilGo
+Bancor
+Sonraki
+PIVX
+Storj
+163.141.627$
+159.405.463$
+157.640.000$
+151.699.328 $
+148.410.747$
+137.973.273 $
+134.301.871$
+132.621.179$
+130.187.893$
+128.296.696$
+124.747.000$
+124.158.000$
+117.703.285 $
+109.843.337$
+109.638.250$
+106.948.244$
+101.840.979$
+18,66$
+1,64 dolar
+78,82$
+2,09$
+7,69$
+24,85$
+2,10$
+0,13$
+0,01$
+1,27$
+1,25$
+1,24$
+1,20$
+2,69$
+0,11$
+1,98$
+1,37$
+8.745.102
+96.930.122
+2.000.000
+72.433.345
+19.300.994
+5.552.066
+63.847.164
+998.999.495
+8.742.253.657
+100.945.510
+100.000.000
+100.000.000
+98.028.887
+40.772.871
+998.999.983
+54.061.774
+74.526.878
+8
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+2.0 Bitcoin: Nedir ve Nasıl Çalışır?
+Dijital ödemelerin hikayesi uluslararası gizemli bir adamla başlıyor: Şimdiye kadar bilinmeyen bir bilgisayar 
+programcısı, yalnızca Satoshi Nakamoto olarak anılıyor - John Smith'in Japonca eşdeğeri.1— dijital ödemeler 
+için benzersiz bir metodoloji geliştirdi.
+Yıl 2008'di. Yüksek faizli ipotek balonunun ardından, küresel mali sistemin temelleri çarpık durdu ve çöküş tehlikesiyle 
+karşı karşıya kaldı. Tüketicinin hükümete, bankalara ve fiat para birimine (yani merkez bankaları tarafından basılan 
+başkanların, devlet adamlarının ve hükümdarların portrelerinin kazındığı o küçük kağıt parçalarına) olan güveni 
+buharlaştı.
+Güvenli, şeffaf bir değişim aracı fikri hem Wall Street'te hem de Ana Cadde'de yankı buldu ve hızla ilgi kazandı. 
+Bu, yeni bir şeye, Bitcoin'e hazır bir dünyanın durumuydu.
+O günlerde Bitcoin'in aslında parasal bir değeri yoktu. Hiçbir değeri yoktu. Konseptin işe yarayıp yaramayacağını görmek 
+için sadece bir fikirdi. Gününüzü mahvetmek istemem ama kesinlikle girmek için harika bir zamandı… Çünkü bugün tek 
+bir Bitcoin'in değeri birkaç bin dolardır. Ancak cesaretli olun, çünkü Bitcoin'in bugüne kadarki yükselişine rağmen hala 
+kazanılacak çok para var.
+Bu dijital altın külçelerin dünya çapındaki önbelleği yaklaşık 50 milyar dolar değerinde, yani tüm kripto para 
+birimlerinin toplam piyasa değerinin kabaca yarısı kadar. Bitcoin göz ardı edilemeyecek 400 kiloluk bir gorildir, bu 
+yüzden onu bu yeni sınırı anlamak için başlangıç   noktası olarak kullanabiliriz. Ancak açık olalım, bu, para biriminin 
+gücünü hükümetlerin yerine yatırımcıların – pardon “halkın” – eline bırakabilecek bir sınırdır.
+Artık zamanı gelmiş bir fikir. Dünya çapındaki küresel çatışmalar ve özellikle finansal türdeki uzun süredir 
+devam eden kurumlardaki düşüş, dijital para biriminin ana akıma girmeye başlaması için mükemmel koşulları 
+yarattı. Hatta piyasadaki bazı evler şu anda Bitcoin ile fiyatlandırılıyor. Bu iyi tarafı.
+Tüm para birimlerinin sorunu, insan doğasının karanlık tarafının kontrolü ele geçirme ve son derece iyi bir şeyi berbat etme 
+eğiliminde olmasıdır: Bitcoin aynı zamanda bilgisayar korsanlarının bilgisayar sistemlerini torpillememeleri için şirketlerden 
+ödeme olarak talep etmeye başladıkları şeydir. Dahası, herhangi bir değere sahip öğe yaratıldığında, toplum eninde sonunda 
+hırsızlık, sahtecilik ve birinin mülkünü dolandırmanın diğer olası yollarıyla uğraşmak zorunda kalır.
+O halde oldukça şık bir çözüm şeffaflığı ve dürüstlüğü ödüllendirmektir. Bitcoin bunun üzerine inşa edilmiştir. 
+Çalınabilir ve sahtesi yapılabilir eski dolarların zayıflığını alıp onları güce dönüştürüyor. Eğer sahtekârlığa ödül yoksa 
+çoğu insan sahtekâr olmayacaktır.
+1Hiç kimse Satoshi'nin gerçekte kim olduğunu bilmiyor. (Gerçekten mi!)
+10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Eğer sahtekârlık sistemi engelliyorsa, o zaman, dürüst bir şekilde hareket etmeyi seçen herkes bir avantaja sahip olur ve 
+daha da önemlisi, dürüst olmayan davranışlarda bulunmaya çalışan kişi bunu yapmama konusunda aktif bir teşvike 
+sahiptir. Cevap blockchain denen bir şeydi.
+2.1 Blockchain (250 Kelime veya Daha Az)
+Bu şekilde bozulur:
+Andy, Jennifer'a yeni bir kapüşonlu svetşört için para ödüyor.
+İşlemi başlatmak için Bitcoin'inin özel anahtarını kullanıyor, bu durumda para biriminin mülkiyetinde 
+değişiklik anlamına geliyor.
+Başka hiçbir şey el değiştirmez.
+Madenciler olarak bilinen bitcoin ağı, bu işlemin haberini çok güçlü bilgisayarlarını kullanarak alıyor.
+Son işlemlerden elde edilen verilerdeki boşlukları dolduran bir deneme yanılma yaklaşımını kullanarak bu makineleri tam gaz 
+çalıştırıyorlar.
+Bu, tek çözümü olan büyük bir bulmaca yaratır.
+Tüm uygun işlem numaralarını doğru bir şekilde dolduran ilk madenci, tüm son anlaşmaları "blok" olarak bilinen bir veri 
+parçasında birleştirme hakkını kazanır.
+Ama bu hala son değil. Diğer madenciler bloktaki TÜM verilerin %100 hatasız olduğunu ve bloktaki tüm 
+işlemlerin geçerli sayılacak tüm gereksinimleri karşıladığını doğruladıktan sonra blok, önceki TÜM işlemlerin 
+daha büyük blok zincirine eklenir.
+Buna “kamu defteri” denir.
+Bloğu bir araya getiren madenci, çabasının karşılığında bir Bitcoin (veya Bitcoin'in bir kısmını) alır.
+Bitcoin'in merkezi bir bilgisayarı yoktur: Tüm verileri internete bağlı bir grup bilgisayara dağıtır.
+Buna dağıtılmış hesaplama denir ve bu nedenle kripto para birimlerine "merkezi olmayan" denir. Bazı veri gruplarında, 
+kredi kartı onay ağlarında olduğu gibi, her şeyin devam etmesini sağlayan "merkezi" bir ana bilgisayar yoktur.
+Bloklar bir megabayt veriyle sınırlıdır.
+11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Tüm bloklar birbiriyle bağlantılıdır ve her zaman doğru olması gerekir. Teknolojinin gerektirdiği de budur. Bu durumda 
+sistem güvenli olur ve işlemler belirli bir maksimum oranda gerçekleşir ve madenciler için belirli bir maksimum ödül 
+sağlanır.
+İşte bu. Bütün yaygaranın nedeni bu.
+O kadar da zor değil, değil mi?
+2.2 Bitcoin Satın Alma
+Mali işlerin her zaman yaptığı gibi, biraz ince yazıyla başlamalıyız. Bitcoin'i veya alternatiflerinden birini nasıl 
+satın alacağınıza karar verirken bu alfabe çorbasından bazılarını aklınızda bulundurmak isteyeceksiniz.
+Bankalar ve finansal kurumlar sıkı bir şekilde denetlenmektedir ve düzenleme ne kadar katı olursa erişim alanları da o 
+kadar geniş olur. Dijital para bağlamında öncelikli endişe, dünyanın çeşitli kara para aklamayı önleme yasaları veya 
+“AML”dir. Bunların başında "Müşterinizi Tanıyın" adı verilen bir kurallar alt kümesi gelir.
+Bu genellikle birçok tüccarın tavuk eklemiyle karıştırdığı KYC olarak kısaltılır. Her durumda, üç çeşidi vardır ve hangisini 
+seçeceğiniz, kendinizle ilgili ne kadar kişisel bilgiyi Interweb'in tamamına açıklamak istediğinize bağlı olmalıdır. KYC kötü 
+ya da acı verici bir şey değil, sadece yeni müşterilerin kimliğinin çeşitli yöntemlerle doğrulanması anlamına geliyor. 
+AML'ler ülkeden ülkeye farklılık gösterdiğinden, bu aynı zamanda nerede yaşadığınıza da bağlıdır.
+Sıfır KYCsitenin veya servis sağlayıcının sizin kim olduğunuza dair hiçbir soru sormadığı anlamına gelir. Kimlik belgesi 
+zorunluluğu yoktur ve soğuk parayla, nakit parayla veya Moneygram veya Western Union gibi banka havaleleriyle ödeme 
+yapabilirsiniz. Bu genellikle, işlemlerin, onu kullanan bireyler olmasa bile, para birimini koruyan doğal blockchain teknolojisi 
+dışında, gerçek gözetim veya doğrulama girişimleriyle Eşler Arası olduğu durumlarda geçerlidir. Bu siteler genellikle pahalı 
+taraftadır. Belli ki mahremiyetin bir bedeli var.
+KYC'nin "hafif" versiyonuTelefon numaranızı, banka hesabınızı, Paypal bilgilerinizi veya kredi kartı bilgilerinizi takip ederek kim 
+olduğunuzu anlayabilirsiniz. Pek çok borsa, yalnızca bu izlenebilir bilgiyi bilerek en azından bir miktar Bitcoin satın alma konusunda 
+adım atmanıza olanak tanır.
+KYC Monty'nin tamamıkimliğinizi gerçekten ve kesin olarak kanıtlayacak belgeler bulmanız gerektiği anlamına gelir. 
+Pasaportlar, lisanslar, hatta elektrik faturaları veya seçmen kimlikleri, bir finans kuruluşunun kabul edeceği onaylı kimlik 
+listesinde olabilir ve genellikle bunların bir kombinasyonuna ihtiyacınız olacaktır. Bu süreç uzun bir yol kat edebilir; hatta 
+ehliyetinizi taşıyan bir fotoğrafınızı göndermeniz veya noter imzası ya da bankanızdan kimliğinizi belgeleyen bir mektup 
+istemeniz bile istenebilir.
+Buradaki amaç, uyuşturucu parasını aklamak veya başka bir şekilde vergilendirmeden kaçınmak için Bitcoin kullanmaya çalışabilecek kötü aktörlerin izini 
+sürmektir; dolayısıyla satın almaya çalıştığınız miktar ne kadar büyükse, kimlik bilgilerinizi doğrulamak için atlamanız istenecek daha fazla çemberin 
+olmasını bekleyebilirsiniz. kimlik.
+12
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Kripto para sağlayıcınızı aslında siz olduğunuza ikna ettikten sonra, aşmanız gereken bir sonraki engel, bitcoin satın almak için 
+ne kullanacağınızı seçmek olacaktır. Buradaki cevap, yeni yatırımcılar için neredeyse her zaman dolardır, dolayısıyla bu dolarları 
+nasıl göndermek istediğinize dair biraz fikir sahibi olmak isteyeceksiniz.
+Eğer Amerika Birleşik Devletleri'nde yaşıyorsanız, iyi haber, birçok seçeneğiniz var. Diğer yerel ayarların daha sınırlı seçenekleri olabilir. 
+İncelemek için:
+•Banka transferleri.Bankanız hizmet sağlayıcınıza dolar göndermek için bazı elektronik yöntemler seçtiğinde, çoğu kişinin kabul 
+edeceği tek para yatırma yöntemi budur. Bu bir gün kadar kısa bir zaman alabilir. Gönderilen tutardan bağımsız olarak 10-40$ 
+aralığında bir havale ücreti bekleyin.
+• Plastik.Kredi kartıyla satın alabilirsiniz ancak bu, kripto alanında pek yaygın değildir. Evet, tüm dünya plastikle yaşıyor, 
+dolayısıyla herkesin American Express'i tercih edeceğini varsaymak doğaldır. Ancak işin ilginç tarafı, herhangi bir kredi 
+kartı işlemi bir telefon görüşmesiyle tersine çevrilebilirken, bitcoin işlemleri geri alınamıyor.
+Tabii ki, siz akşam yemeği yerken birisinin Burberry'nizden çaldığı bir kartı kullanma riski de var; bu, ticaret 
+platformlarının ve borsaların uğraşmak istemediği bir risktir. Aynen PayPal.
+• Diğer popüler ABD ödeme kanallarınakit veya Western Union gibi ödemeler genellikle kabul edilmez. Ancak AB'deyseniz 
+şanslısınız çünkü yaygın olarak kullanılan para gönderme yöntemlerinden bazıları, aralarında Almanya'nın Sofort veya 
+Hollanda'nın iDeal sisteminin de bulunduğu yerel borsalar tarafından kabul ediliyor.
+Aslında Bir Satın Alma Yapmak
+Neredeyiz? İnce baskı açıklandı. Kapsanan yöntemler. Şimdi aslında çekiç çiviye koyalım. İşte ilk bitcoininizi nasıl 
+satın alacağınız. Endişelenmeyin: Aslında çok kolay.
+Yöntem 1:Özel ATM. Nakit parayla satın alırsınız ve genellikle cep telefonunuzun teknolojisini veya parmak izi gibi biyometrik okumayı 
+kullanarak bazı küçük KYC adımlarından geçmeniz gerekir. Çevrimiçi olarak Coin-ATM-Radar.com adresini ziyaret ederek bu 
+makinelerden birini dünyanın herhangi bir yerinde bulabilirsiniz. Bununla birlikte, satın alma ücretleri %6'nın kuzeyine ulaşabildiğinden, 
+bu otoyolu kullanmak için oldukça büyük bir ücret ödemeyi bekleyin. Bu maliyet doğrudan işleminizdeki kar marjından kaynaklanır, bu 
+yüzden bunu aklınızda bulundurun.
+Bu sebeple bu yöntem önerilmemektedir. Bazı satıcılar, genellikle Amerika Birleşik Devletleri'nde olmasa da, bitcoin karşılığında 
+kullanılabilecek hediye kartları satmaktadır. Yine ücretler yüksek ve başka bir yere bakmak akıllıca olacaktır.
+Yöntem 2:Borsalar/Komisyoncular. Burası tıpkı Merrill Lynch'te hesap açacakmış gibi hesap, cüzdan ve ödeme 
+yönteminizi oluşturduğunuz yerdir. Bunlar gelecek bölümde daha ayrıntılı olarak ele alınacaktır.
+Yöntem 3:Eşler Arası Satışlar: Bitcoin sahiplerinin bu çevrimiçi buluşma yerleri, alıcıların ve satıcıların doğrudan birbirleriyle 
+takas yapmak için buluştuğu yerdir. Ücretler düşüktür — %1 genellikle hedefin üstündedir ve hiçbir şey değildir
+13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+duyulmamış. Talep fiyatı ile satış fiyatı arasındaki fark ("spread" olarak adlandırılır) ağın likiditesiyle doğru 
+orantılı olarak değişecektir.
+Bir Bitcoin için 5.000 Dolar isteyen bir satıcınız ve 4.000 Dolar ödemeye hazır bir alıcınız varsa, iki tarafın bir 
+anlaşmaya varması pek olası değildir. Bu kazana 10.000 tüccar ekleyin ve teklif ve talep fiyatları daha da 
+yakınlaştıkça anlaşmalar patlamaya başlar. Mevcut en düşük teklifi/en yüksek teklifi kabul etmenin yanı sıra, bir 
+limit emrinin tutarını girme seçeneğiniz de var - bunun için satacağım ama daha az değil -.
+"Omuz Üstü" video eğitim derslerimizle, doğru başlamak için yapmanız gereken her şeyi size anlatacağız.
+2.3 Enflasyon ve Çatallar
+Kriptolar, ağı işleten madencilere ödeme yapmak için ek parayı "serbest bırakmaları" açısından para birimleri 
+arasında benzersizdir. Bu paralar genellikle blok zincirine yeni bir bloğun başarıyla eklendiği doğrulandıktan sonra 
+serbest bırakılır. Her bir madeni para diğerlerinin değerini çok ama çok çok az düşürür, bu da enflasyonla aynı 
+şeydir. Nihai kârlılığınızı belirleyen bir faktör olduğundan, bunu akılda tutmak önemlidir.
+Ayrıca kripto paraların bir diğer özelliği de fork adı verilen bir olgudur. Dijital para birimlerinin merkezinde tahmin 
+edebileceğiniz gibi rakamlar var. Kamu defterinde, önceki tüm işlemlerin ayrıntılarını içeren muazzam miktarda veri 
+depolanır ve bu dosya oluştukça, en hızlı bilgisayarların bile bunu sindirmesi daha hantal hale gelir. Çözüm, para biriminin 
+bir bölümünün eskisinin yeni bir alt türüne ayrılması veya çatallanması, aynı temel kodu kullanması, ancak adının 
+değiştirilmesi ve kendi kendine gitmesi anlamına gelen çatallanmadır.
+Bu, çeşitli şekillerde kendini gösterebilir. Örneğin, Bitcoin'in maksimum blok boyutu bir megabayttır. Yeterli sayıda 
+kullanıcı (madenciler) aynı fikirde olursa, bu, iki kat daha büyük olan iki megabayta yükseltilebilir ve bu da teorik olarak 
+çatallanma hızını yarı yarıya yavaşlatır. Diğer çözümler arasında kodun geri kalanını korurken bazı işlevlerin atılması yer 
+alır.
+Üç fork ile Bitcoin'in üç çeşidi vardır. Sade eski bitcoin, bir megabaytlık dosya boyutu sınırına sahiptir ve 
+ayrılmış tanık adı verilen bir teknolojiye izin verir. Bitcoin Cash'in sekiz megabaytlık bir sınırı vardır ve ayrılmış 
+bir tanık yoktur. "SegWit2/New York Anlaşması" - akılda kalıcı, akla gelebilecek bir isim, sınırı iki megabayta 
+taşıyor ve ayrılmış tanığı koruyor (bu, aynı miktardaki veriye daha fazla işlem ayrıntısı doldurmanın bir yolu) 
+alanı, bir tür dosya sıkıştırma yöntemi).
+Akıllı Risk / Yüksek Ödüllü Kurallara Dayalı Ticaret -
+Birçok kişi yüksek getiri elde etmek için çok fazla risk almanız gerektiğini 
+düşünüyor. Biz farklı inanıyoruz. "Akıllı Risk"e sahip olup bu yüksek getirileri 
+elde etmek, kendinizi ve cüzdanınızı korumak mümkündür.
+Riskinizi öğrenmek ve sizin için doğru ticareti bulmak için Kurallara Dayalı Ticaret 
+stratejimizi öğreneceksiniz.
+14
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+3.0 Diğer veya “Alt” Para Birimleri veya “Paralar”
+Kripto para dünyasındaki sürekli değişimlere ayak uydurmak neredeyse imkansız. Döviz ticaretiyle ilgilenen 
+yatırımcıların, dünya hükümetleri tarafından çıkarılan ve desteklenen fiat para birimleriyle neredeyse aynı veya 
+daha fazla seçeneği var.
+Bu yüksek teknolojili yazılım tabanlı para birimlerinin derinlemesine ve tamamen anlaşılması, neredeyse doktora düzeyinde bir 
+yazılım mühendisliği gerektirse de, bir yatırımcının, tıpkı şehirli bir spekülatörün ihtiyaç duyduğu gibi, bunların ticaretini yapmak 
+için geçmişlerini veya kendilerine özgü benzersiz teknolojilerini bilmesine gerek yoktur. Bu piyasalarda altın, buğday veya domuz 
+pastırması konusunda çok az bilgimiz var. Ancak bunu akılda tutarak bile, majör para birimlerinin (Bitcoin, Ripple ve Etheruem) 
+ve bazı önemli küçük para birimlerinin oluşumunu incelemek kötü bir fikir değildir.
+Doğal olarak Büyükler'i daha ayrıntılı olarak ele alıyoruz, ancak aynı zamanda en azından kısa bir açıklama ve bazı ilginç gerçekleri 
+anlamanıza yardımcı olacak ve belki de bu heyecan verici yatırım alanına ilginizi çekebilecek şekilde sunmanın önemli olduğunu 
+düşünüyoruz.
+Ve kesinlikle heyecan verici. Sınır yatırım alanlarının kendi risk profilleri olsa da - ki bu önemli olabilir ve 
+ticaretten ÖNCE açıkça anlaşılması gerekir - acemi kripto para birimi yatırımcılarının bile yakalayabileceği 
+büyük meblağların olduğu ve çoğu para biriminin günlük fiyat dalgalanmaları gördüğü neredeyse 
+tartışmasızdır. Standard & Poor's 500 Endeksinin Forman başına yıllık deneyimini aşabilir!
+Bir göz atalım.
+3.1 Ethereum
+Fiyat:
+Gösterge:
+Piyasa değeri:
+Günlük işlem hacmi:
+Ethereum, C++, Go ve Rust programlama dillerine (Linux, OS, Windows, Posix ve Raspbian işletim sistemlerinde kullanılabilir) ve 
+birçok işlevselliğe dayalı olarak 2015 yılında resmi olarak tanıtılan bir kripto para birimidir. Gerçek tokenlara Ether adı veriliyor. 
+Bunlardan en önemlisi, bilinmeyen bir karşı tarafla çevrimiçi olarak bir anlaşma veya başka bir sözleşme oluşturmayı 
+kolaylaştıran "akıllı sözleşmeler" adı verilen bir özelliktir. Ayrıca ekosistemi, özel düğümlerden oluşan bir ağ üzerinde komut 
+dosyalarını çalıştıran Ethereum Sanal Makinesini de kapsar. Akılda tutulması gereken diğer iki yetenek: işlem maliyetlerini 
+belirlemenin, spam ile mücadele etmenin ve ağın olması gereken yerde uygun kaynaklara sahip olmasını sağlamanın bir yolu 
+olan eter ve "gaz" adı verilen dijital ödeme jetonu.
+Vitalik Buterin, 2013 yılında kripto para birimine uygulama ekleme kavramını araştıran bir makalesinde Ethereum'u (veya kısaca "ETH") tasarladı. 
+Ertesi yıl, Ethereum Switzerland adında bir İsviçre konsorsiyumu ve daha sonra kar amacı gütmeyen bir kuruluş ortaya çıktı.
+16
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Ethereum Vakfı. Yaz sonlarında bir kitlesel fonlama girişimi başlangıç   sermayesini sağladı: İnsanlar Bitcoin'in yanı sıra 
+Ethereum değer tokenını ("eter" olarak adlandırılır) satın alabildiler. Çeşitli versiyonlar ortaya çıktı: Mevcut olan 
+Homestead'in istikrarlı olduğu düşünülüyor, ancak gelecekteki yükseltmeler Metropolis ve Serenity yakında ve daha fazla 
+stabilite ve işlevsellik sunabilir.
+Daha sonra çalışmalara bir İngiliz anahtarı atan DAO geldi. Yıl 2016'ydı; kripto para birimi alanında bir buz çağı 
+öncesi. DAO adlı bir grup, akıllı sözleşme konseptini tanıtarak kitlesel fonlamada 150 milyon dolar topladı ve 
+bilinmeyen biri 50 milyon dolar değerindeki parayı ele geçirdi. Ethereum'un çalınan fonları yeniden tahsis etmek 
+için sert bir çatal (yani iki tür para biriminin bölünmesi) tasarlaması gerekip gerekmediği konusunda bir tartışma 
+başladı. Çözüm, ağı artık rakip para birimleri olan Ethereum ve Ethereum Classic'e bölmekti. 2016 sonlarında 
+Ethereum koruyucu yeteneklerini güçlendirdi ve diğer hack saldırılarını durdurmayı başardı.
+Tokenların değeri dalgalı bir seyir izliyor ve bu da yatırımcılara harika fırsatlar sunuyor. Örneğin, hackerlar DAO'yu 
+vurduğunda Ether'in değeri 21,50 dolardan 8 dolara düştü. Bu yeni temel seviyedeki desteği satın alanlar kendileri için 
+oldukça iyi bir performans sergiledi: Haziran 2017 itibarıyla Ethereum'un değeri 1 Ocak'tan bu yana %5.000'lik çarpıcı bir 
+artışla 400 doların üzerine çıktı. Ether daha sonra devasa bir satış emrinden kaynaklanan büyük bir çöküş gördü. Fiyatı bir 
+kuruşa düşüren bir borsada — 300 dolara doğru gidiyor!
+Ether'in arzında 2017'de %%14,7'lik bir artış olacağı tahmin ediliyor. Bu artış, 2065'te %1,59'luk bir büyüme oranına 
+ulaşana kadar yıllar içinde azalacak. Yazılımın yeni bir sürümü, hisse kanıtından ziyade hisse kanıtını temel alıyor. 
+Enflasyon oranını zamanla daha da düşürebilecek bir çalışma.
+Ethereum'un akılda tutulması gereken birkaç benzersiz özelliği vardır.
+Ethereum Sanal Makinesi akıllı sözleşmelerin arkasındaki omurgadır. EVM "korumalı alana sahiptir", yani ana 
+Ethereum ağından izole edilmiştir. Ağdaki tüm düğümler, görevleri gerçekleştirmek için EVM'de aynı dizi 
+adımları yürütür.
+Akıllı sözleşmeler değer alışverişini gerçekleştirir ve ayrıca anlaşmanın şartlarını kolaylaştırabilir, doğrulayabilir ve uygulayabilir.
+Blockchain üzerindeki sözleşmeler halka açık olabilir ve bu da bir piyangonun tüm katılımcılar için açıkça adil olduğunu 
+kanıtlamak gibi işlevselliği kanıtlama olasılığını açar.
+Ethereum, Microsoft, IBM, Chase ve Deloitte gibi şirketler tarafından kurumsal yazılımlarda kullanılmak üzere 
+inceleniyor. Enterprise Ethereum Alliance 30 kurucu üyeyle kuruldu, şu anda Cornell, Toyota, Merck, Samsung, 
+Accenture ve Santander dahil olmak üzere 115'ten fazla üye var. Chase, Quorum adı verilen bir katman üzerinde 
+çalışıyor. İskoçya Kraliyet Bankası, Ethereum'un dağıtılmış defterine dayalı bir takas odası mekanizması oluşturdu.
+3.2 Dalgalanma
+Piyasa değeri: 7 milyar dolar
+17
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Tedarik:
+Günlük hacim:
+38,3 milyar
+60 milyon dolar
+Ripple kullanıcıları işlerini kriptografik olarak imzalanmış işlemlerle gerçekleştirir. Kullanıcı doğrulama protokolleri var: Bir anlaşmanın geçerli 
+olabilmesi için güvenin resmen ve kelimenin tam anlamıyla genişletilmesi gerekiyor. Kullanıcılar temel olarak birbirleri için kredi limitleri belirler. 
+“Ağ geçitleri” para yatırma işlemlerini kabul edebilir ve Ripple'ın defterinde bakiye oluşturabilir. Bitstamp, Mr. Ripple, Gatehub, Ripplefox popüler 
+Ripple ağ geçitleri arasındadır.
+Ripplepay adı verilen ilk kripto para birimi, 2004 yılında Vancouver'da tüccar olarak çalışan bir Kanadalı tarafından icat 
+edildi. Onun fikri çevrimiçi olarak kullanılabilecek yeni bir para sistemi oluşturmaktı. Bu durum yeni bir sistem anlayışına 
+yol açtı.Jed McCaleb Arthur Britto ve David Schwartz tarafından yaptırılmıştır.
+Bitcoin'in kullandığı blockchain merkezli madencilik süreci yerine ağ üyelerinin mutabakatla işlem onayına 
+eklendiler. Bu, her şeyi daha hızlı hale getirir ve Bitcoin'in merkezi alışverişlere olan ihtiyacını azaltır ve daha az 
+hesaplama desteğine ihtiyaç duyduğundan, aynı zamanda daha az elektrik kullanır. Kanadalı tüccar veda etti; diğer 
+programcılar OpenCoin adında bir şirket kurdular; Google ilk yatırımcılardan biriydi; artık yeni bir fikir ortaya atan 
+Ripple Labs olarak adlandırılıyor.
+Bu, muhtemelen tahmin edebileceğiniz gibi, yine başka bir kısaltmadır; bu kez "gerçek zamanlı brüt ödeme sistemi" 
+anlamına gelen ağız dolusu RTGS'dir. Bu, Ripple İşlem Protokolü (veya "RTXP") veya yalnızca "Ripple protokolü"dür. 
+Bu, fikir birliği defterini ve bazen XRP olarak kısaltılan Ripple para birimini kullanan açık kaynaklı bir ekosistemdir. 
+Ripple, Arthur Britto, David Schwartz ve Ryan Fugger'ın buluşudur ve 2012'de piyasaya sürülmüştür. Bugün, kripto 
+para birimleri arasında Bitcoin ve Ethereum'un ardından üçüncü sırada yer almaktadır.
+Temmuz 2013'te Ripple Labs, Ripple sahiplerinin HERHANGİ bir para biriminde belirlenen ödemeleri bir Bitcoin adresine göndermesine 
+olanak tanıyan Bitcoin Köprüsü adını verdiği şeyi kullanarak Bitcoin'e bağlandığını dünyaya bildirdi. Medya, bu gelişmenin sonuçta 
+Western Union gibi para gönderme hizmetlerine yönelik bir tehdit olabileceği konusunda çok heyecanlıydı.
+Biraz ileri sar. 2015 yılında FinCEN, Ripple Labs'e Banka Gizlilik Yasasını ihlal ettiği için para cezası verdi. Ripple Labs, 
+sorunları çözmek için tam uyum sözü verdi. Söylediği kadar iyiydi: Yaklaşık bir yıl sonra, Ripple'a New York Eyaleti 
+tarafından sanal para birimi lisansı verildi ve bunu yapan dördüncü şirket oldu.
+Birkaç ay sonra, bir grup Japon bankası ödemeler için Ripple'ın teknolojisini kullanacaklarını söyledi: Katılımcı 42 banka, toplam 
+Japon banka varlıklarının %80'inden fazlasını elinde tutuyor. Daha sonra diğer finans gruplarından oluşan bir grup, Küresel 
+Ödemeler Yönlendirme Grubu'nu oluşturmak için mücadeleye girdi. Bunların arasında Bank of America, Mitsubishi Financial, 
+Royal Bank of Canada, Santander ve Standard Chartered yer alıyor.
+Grup kuralları, standartları, ücretleri ve yeni ödeme yeteneklerini denetleyecek. Ripple'ın en iyi yanı bankaların bundan 
+hoşlanmasıdır. Ripple'ın en iyi yanı bankaların bundan hoşlanmasıdır. Cidden, BANKALARIN BUNU SEVDİĞİNİ 
+UNUTMAYIN. Ripple, Davos'taki Dünya Ekonomik Forumu tarafından Teknoloji Öncüsü olarak övüldü.
+18
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+3.3 Çizgi
+Fiyat:
+Piyasa değeri:
+Tedarik:
+Günlük Hacim: 30 milyon dolar
+1,5 milyar dolar
+7,5 milyon
+Dijitaldeki “d” ve nakitteki “kül”ün birleşimi olan Dash, hayatına Darkcoin olarak başladı, daha sonra XCoin adını aldı. 
+Evan Duffield'ın buluşu, bitcoin gibi işlev görmesine rağmen, bir blockchain'e kaydedilmeyen PrivateSend adı 
+verilen bir özelliği kullanarak tamamen özel işlemler için kullanılabilmesidir. Dash ayrıca InstantSend ile anında 
+kullanılabilir. Bitcoin gibi Dash de merkezi değildir ve herhangi bir hükümet desteğinden veya yasal güçten 
+bağımsızdır. Ocak 2013'te piyasaya sürüldü. Dash 19 milyon jeton sınırına ulaşana kadar arz %7,1 azalacak.
+Dash'in iki katmanı vardır: İki katmanlı mimarisinin ilki, ağı güvence altına alan ve işlemleri blockchain'e 
+kaydeden madencilerden oluşur. Diğer katman ise Dash'e daha gelişmiş özellikler kazandıran ana düğümlerin 
+bir koleksiyonudur.
+Dash'in ilk iki günlük operasyonlarında yaklaşık 2 milyon madeni para çıkarıldı. Sonra sorun. Dash'in arkasındaki koddaki bir 
+hata "zorluğu yanlış bir şekilde dönüştürdü, ardından sübvansiyonu hesaplamak için bozuk bir değer kullanmaya çalıştı" ve bu 
+da sözde "instamine" fenomenine yol açtı. Duffield, sorunu çözmek için kodun yeniden yayınlanmasını önerdi, ancak kullanıcılar 
+özelliği beğendiklerine karar verdiler ve bu konuda seslerini yükseltme eğiliminde oldular. Duffield daha sonra Dash'in ilk 
+dağıtımını genişletmek için havadan para damlası adını verdiği şeyi gerçekleştirmeyi teklif etti. Kullanıcı tabanı yine direndi ve 
+işler devam etti.
+Bitcoin ile ağdaki tüm işler aktif Dash madencileri tarafından tamamlanmak üzere dağıtılır. Dash bunu yapıyor ancak 
+masternode'larla bir adım daha ileri gidiyor. Bu operatörler Dash'in PrivateSend, InstantSend ve yönetim işlevlerinin 
+ardındaki ağır işleri yapıyor. Bir masternode'un teminat olarak 1.000 Dash tokenına sahip olması gerekir.
+Buradaki olumsuzluk, masternode kalabalığının blok ödülünün yarısını almasıdır - her grup blok ödülünün %45'ini alır, 
+diğer %10 ise geliştiricileri ve çalışanları işe almak için bir "hazine" veya "bütçe" sistemini finanse etmek için tahsis edilir ve 
+para borsalarına ve API sağlayıcılarına bağlanmak için ödeme yapın. Ayrıca küçük bir demokrasi özelliği de var: Her 
+masternode operatörü, Dash.org forumları veya DashCentral gibi topluluk siteleri aracılığıyla gönderilen çeşitli teklifler 
+için oy alır.
+3.4 NEO
+Fiyat:
+Piyasa değeri:
+Tedarik:
+Günlük Hacim: $
+milyar dolar
+milyon
+19
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Da Hongfei tarafından kurulan NEO, derin bir profesyonel deneyim birikimi sunuyor. Gösteriyor. NEO, Antshares 
+olarak başladı. Bazıları bunun Çin'in Ethereum'a cevabı olacağını öngörüyor. NEO Ethereum 2.0'ı çağırmak uygun 
+olabilir.
+Bu kesinlikle ileriye doğru atılmış bir adımdır ve oldukça kısa sürede çok fazla kazanım elde edilmesini sağlayan bir adımdır. Geleneksel görüş 
+bunun nedeni teknolojinin iyi olmasıdır.
+NEO'nun akıllı sözleşme konseptine yeni bir bakış açısı getiren kendi blockchain kodlama algoritması var. NEO, birçok 
+programcının bildiği koda dayanmaktadır. Bu riskli görünüyor, ancak belirtmekte fayda var. Dijital para platformu arayan büyük 
+bir finans kurumuysanız, meraklılarınızın yeniden başlayıp başka bir kodda akıcı olmalarını istemek yerine, nasıl kullanacaklarını 
+bildikleri bir şey üzerinde çalışmalarını sağlamak çok daha kolaydır. Sonuçta satın almak, Çinli dostlarımızın NEO'yu 
+Ethereum'ları olarak benimsemeleri üzerine büyük bir bahis.
+3.5 Litecoin
+Fiyat:
+Piyasa değeri:
+Tedarik:
+Günlük işlem hacmi:
+Litecoin,veya LTC, eski Google çalışanı Charlie Lee tarafından 2011 yılında tanıtılan merkezi olmayan bir P2P kripto para birimi 
+ve açık kaynaklı yazılım platformudur. Litecoin, bitcoin ile aynı şekilde çalışır, ancak ağa işlemleri işlemek için daha fazla kapasite 
+sağlayan birkaç değişiklikle birlikte. İşlem maliyetleri oldukça düşüktür.
+Ve sistem, ödemeleri Bitcoin'in dört katı hızında gerçekleştiriyor; tıpkı bir gün Bitcoin'in dört katı kadar Litecoin'in olacağı 
+gibi. Mayıs 2017'de Litecoin, Ayrı Tanık olarak bilinen bir teknolojiyi kullanmaya başladı ve madalyonun bir kısmını 
+İsviçre'den Amerika Birleşik Devletleri'ne bir saniyeden kısa sürede taşımayı başardı. Litcoin'ler her dört yılda bir 
+bölünüyor. Sonunda maksimum 84 milyon coine ulaşacak. Her 2016 blok serisinden sonra zorluk seviyeleri artıyor.
+Litecoin, ilk benimseyenler için harika getiriler elde etti. 2013'ün sonlarında sadece 24 saat içinde %100 değer 
+kazandı. Litecoin, iş kanıtı algoritmasında scrypt (ess-SCRIPT) adı verilen bir şifre teknolojisi kullanır. 
+Madencilik oyun alanını eşitlediği düşünülen bir ton hafızayı tüketiyor (donanım tarafında bazı madencilik 
+hesaplama metodolojilerinin avantajını ortadan kaldırıyor).
+3.6 Iota
+Piyasa değeri:
+Tedarik:
+Günlük hacim:
+20
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Iota, Temmuz 2016'da kullanıma sunulan, eşler arası, izin gerektirmeyen dağıtılmış bir defterdir. İlk üç harf, Iota'nın 
+köklerini takip ettiği nesnelerin interneti anlamına gelen IOT'dir. Teorik olarak Iota, buzdolabınızın alışveriş 
+listenizdeki ürünleri yenilemek için kullanacağı paradır.
+Blockchain yerine, “yönlendirilmiş döngüsel olmayan grafik”e dayanmaktadır.dolaşmak.Blockchain'de her blok 
+benzersiz bir alt kökene kadar takip edilebilirken, dolaştırmada bir blok, onları doğrulamak için önceki iki 
+bloğa bağlanır. Bu bağlantının amacı önceki blokların onayını iletmektir. Iota'nın 2.779.530.283.277.761 adet 
+sabit arzı var (sıfır enflasyonla).
+Sistem, bir işlemin karşı tarafları arasında aracı olarak bir koordinatör kullanır. Bir Koordinatör, işlemi yayınlanan bir dizi 
+aşamaya dahil ettiğinde anlaşma onaylanır. Bir işlemi göndermek için kullanıcının diğer iki işlemi doğrulaması gerekir. 
+Gönderilen bir işlemin, alıcısı tarafından kabul edilebilmesi için belirli bir düzeyde doğrulama sağlaması gerekir. Ağ, 
+kullanıcı tabanında belirli bir kritik kitleye ulaştığında koordinatör rolünün eninde sonunda kaldırılması planlanıyor.
+Iota'daki en küçük birime "iota" denir. Çok sayıda iota parası nedeniyle, işleri biraz daha kolaylaştırmak için birimler 
+genellikle daha büyük gruplar halinde birlikte ifade edilir. Her zamanki ondalık gösterim (bilgisayarlarda 
+kullanmaya alışık olduğunuz) kullanılır.
+Böylece bir kilolota (Ki olarak ifade edilir) 1.000 iotadır, bir milyon bir megalotadır, ardından gigalota ve teralota, sonsuza kadar 
+devam eder. Kullanıcıların Iota ağına erişmek için kullanması gereken anahtar bir “tohum”dur. Seed'ler 81 karaktere kadar 
+olabilir, bu da en fazla güvenliği sağlar: Her karakter, 9 rakamı veya başına 27 benzersiz seçenek sunan bir harf olmalıdır.
+3.7 Monero
+Fiyat
+Piyasa değeri:
+Günlük işlem hacmi:
+Monero, bazen XMR olarak kısaltılan açık kaynaklı bir kripto para birimidir. Odak noktası gizlilik ve ölçeklenebilirliktir. Bitcoin 
+platformunun bir dalı değildir ve bunun yerine Bitcoin platformuna dayanmaktadır.KriptoNot protokol. 2014 yılında BitMonero olarak 
+tanıtıldı - Bitcoin'e saygı gösterilerek "bit" artı Esperanto'da madeni para anlamına gelen "monero".
+Esperanto'nun kimsenin konuşmadığı uydurma bir dil olduğunu unutmaya çalışın… Monero'nun piyasa değeri 2016'da kabaca 5 
+milyon dolardan yaklaşık 185 milyon dolara fırladı. Hacminin büyük bir kısmı büyük bir darknet pazarı olan AlphaBay tarafından 
+benimsenmesinden kaynaklanıyor. Dünya çapında kullanılmaktadır ve Windows, OS ve Linux üzerinde çalışmaktadır. Madenciler 
+Mayıs 2022 sonuna kadar 18,1 milyon coine erişebilecek. Buradaki itiraz GİZLİLİK, GİZLİLİK, GİZLİLİK. Hey, üç mahremiyet 
+görüyorsun, üç sebebin var. İlk olarak imzalar, ödemeyi yapanın gönderen adresini gizleyecek şekilde ayarlanıyor. İkincisi, 
+miktar gizlendi. Son olarak tahmin edebileceğiniz gibi alacaklının da gizli olduğu gerçeğidir.
+21
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+3.8 NEM
+Fiyat:
+Piyasa değeri:
+Günlük işlem hacmi:
+NEMoyuna yeni başlayan biri gibi. Mart 2015'in son gününde yayına girdi. Büyük Fikri, sahip olduğunuz para 
+miktarına ve bunları ne sıklıkta kullandığınıza bağlı olarak işleminizi onay için hattın en önüne gönderen 
+"Önem Kanıtı"dır. Başlangıç   giriş noktası 10.000 jetondur; bundan daha az olursa işleminiz sıfır önem puanı 
+alır. NEM, bir dakikalık blok süresine sahip blockchain teknolojisi üzerine inşa edilmiştir. NEM'in dokuz 
+milyardan az parası var. Herhangi bir tarayıcıda çalışabilen Nanowallet'ı kullanır. Sistem, düğüm sisteminden 
+cüzdana doğrudan saldırı hattına izin vermiyor, bu da bir koruma katmanı daha sağlıyor.
+NEM grupları, aktarılabilir (veya aktarılmayacak) şekilde tasarlanabilen Mozaikler halinde özelleştirilebilir ve 
+oluşturucu ayrıca bunların bölünüp bölünemeyeceğine de karar verebilir. Mozaiklerin ağ üzerinden taşınması 
+ek ücret gerektirir. Sistem aynı zamanda ağda gerçekleştirilen işin kalitesini izleyen ve ağ verimliliğinin 
+sağlanmasına yardımcı olan düğüm itibar sistemiyle, iyi aktörlerin yanı sıra kötü aktörlere de göz kulak oluyor.
+> > > > > > Riskinizi öğrenmek ve bu Kriptolarla sizin için doğru ticareti bulmak için Kurallara Dayalı Ticaret stratejimizi öğreneceksiniz <<<<
+22
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+4.0 Cüzdanlar
+Kripto para birimi bağlamında "cüzdan", kağıt faturaları fiziksel olarak saklamak için katlanmış bir deri parçası değildir. Daha ziyade bir yazılım 
+parçasıdır. Görevi, kripto para birimi “anahtarlarını” depolamak ve blockchain olarak bilinen bir teknolojiyle arayüz oluşturmaktır. Cüzdanlar aynı 
+zamanda insanların hesap bakiyelerini ve değerlerini takip etmelerine de yardımcı olur. Cüzdanlar isteğe bağlı değildir: Aktif bir kripto para 
+birimi yatırımcısı olmak için bir cüzdanınızın olması yeterlidir.
+Yine kilit nokta, cüzdanın aslında kripto para birimini saklamamasıdır. Blockchain, gerçek bir bitcoini 
+doğrulamanın veya bir bitcoin işlemine katılmanın tek "gerçek" yöntemidir.
+Blockchain açıkçası teknik düzeyde oldukça korkutucu. Ancak kavramsal olarak bu aslında bir defterden daha karmaşık 
+bir şey değil; kimin neyi, ne zaman ödediğini gösteren bir liste. Tek söylediği şu: "Hey, Frank'e (ya da her kim olursa olsun) 
+gönderene kadar bu Bitcoin'e sahiptim." Birisi size bir bitcoin gönderirse, bu, ödemeyi yapan kişinin bitcoinin mülkiyetini 
+imzaladığını ve bunu başka birine devrettiğini söyleyen blok zincirine eklenen küçük bir bilgi paketiyle birlikte cüzdanınıza 
+gelir.
+Bir dijital para birimi işleminin geçerli olabilmesi için cüzdanınızın, kripto para biriminin atandığı genel adresle 
+eşleşmesi gereken özel bir anahtar kullanması gerekir. Bunu yaparlarsa, işlem tamamlanır; hesabınız, 
+gönderenin hesabından çıkarıldığı anda alınan bitcoin sayısı kadar artar. Gerçek paralar el değiştirmez, 
+yalnızca sahiplikleri değişir.
+Cüzdanlar, dijital para birimini saklamak ve kullanmak için kendi yollarını sunan birkaç farklı türde gelir. Cüzdanlar 
+üç kategoriye ayrılabilir: Yazılım, donanım veya ister inanın ister inanmayın, kağıt.
+PC'nizde veya Mac'inizde, ister dizüstü ister güvenilir eski masaüstünüz olsun, bir cüzdan programı yalnızca birkaç fare 
+tıklamasıyla indirilebilir ve kurulabilir. Masaüstü cüzdanlar genellikle oldukça güvenlidir ancak bilgisayar korsanlarına karşı risk 
+taşırlar ve bilgisayar virüslerine karşı hassastırlar. Bu nedenle, bilgisayarınızda herhangi bir finansal işlem yaparken yaptığınız 
+gibi sağduyulu güvenlik önlemlerini kullanın. Güvenlik tercihlerinizin size en fazla korumayı sağlayacak şekilde ayarlandığından 
+emin olun.
+Ve içgüdülerinize güvenmeyi her zaman aklınızda bulundurun. Bir şeylerin yanlış olduğu görülüyorsa, kendi durum 
+tespitini yapmak yatırımcının sorumluluğundadır. Kripto para birimleri devlet destekli değildir ve düzenlemeler hafiftir, bu 
+nedenle sürekli tetikte olmak iyi bir fikirdir.
+Yazılımı elinizin altında bulundurduğunuz cihaza donanımsal olarak yüklemek yerine cüzdanınızı buluta yerleştirmeniz de 
+mümkündür. Bu, bağlı herhangi bir cihazdan kripto para biriminize erişmenizi sağlar. Bununla birlikte, yeni dijital paranızın 
+kalbinde, onun kilidini açan özel anahtarlar bulunur ve bu anahtarların bulutta saklanması, onları üçüncü bir tarafın eline geçirir. 
+Dolayısıyla kolay erişimin rahatlığının akılda tutulması gereken bir riski var; teorik olarak hırsızlıktan kaynaklanan kayıplara karşı 
+daha savunmasızlar.
+24
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Mobil cüzdanlar bu kolaylığa başka bir boyut daha ekleyerek kripto para birimi kullanıcılarının fonlarına diledikleri yerden erişmelerine ve 
+bunları dağıtmalarına olanak tanıyor. Bir mobil cihazın genellikle tipik bir masaüstü bilgisayardan önemli ölçüde daha az depolama alanına 
+sahip olması nedeniyle, bu uygulamalar işlevsellik açısından oldukça zayıf olma eğilimindedir.
+Dijital para biriminiz donanımda nasıl saklanabilir? Gerekli olan büyük miktarda veriyi barındırabilen USB sürücülerini düşünün. 
+Madeni paralarınız çevrimdışı olarak saklanır ve bu nedenle bilgisayar korsanlarına karşı savunmasızdır. Bu donanım tabanlı 
+cüzdanlar diğer kripto para birimi platformlarıyla birlikte kullanılabilir. Sahibinin tek yapması gereken, sürücüyü bir bilgisayara 
+veya mobil cihaza takmak, kişisel kimlik kodunu girmek, para göndermek ve işlemi onaylamaktır.
+Birçok kişi bu para birimlerinin kağıt opsiyonunun olmasına şaşırıyor. Ve birçok kişi bunu öğrendiğinde mutlu oldu çünkü bu, bir 
+şekilde dijital para birimlerinin daha somut görünmesini sağlıyor. Belge, genel ve özel anahtarlarınızın fiziksel çıktısına atıfta 
+bulunabilir. Ancak "kağıt" aynı zamanda bir işlemi gerçekleştirmek için çiftler halinde kullanılması gereken ikili anahtarları 
+güvenli bir şekilde üreten yazılım anlamına da gelebilir. Coinlerinizi kağıt cüzdanınıza aktarmak, fonları yazılım tabanlı bir 
+cüzdandan kağıt cüzdanınızda belirtilen genel adrese aktarmak anlamına gelir. Madeni paralarınızı çekmeniz veya başka bir 
+şekilde harcamanız gerekiyorsa, parayı kağıt cüzdanınızdan yazılım cüzdanınıza aktarabilirsiniz. Buna "süpürme" denir ve özel 
+anahtarların manuel olarak girilmesiyle veya kağıt cüzdanınızda basılı bir QR kodunun taranmasıyla gerçekleştirilir.
+4.1 En Güvenli Seçeneği Düşünmek
+Bazen küçük bir tekrar bir noktaya değinmeye yardımcı olur: Cüzdan güvenliği değişiklik gösterir. Cüzdan güvenliği değişiklik gösterir. Cüzdan güvenliği değişiklik 
+gösterir.
+Çevrimdışı depolama, özellikle servis sağlayıcılar zayıf taraftaysa, paralarınızı bulutta bırakmaktan çok daha 
+güvenlidir. Ancak unutmayın: Bunun nedeni temel teknolojinin kusurlu olması değildir. Aksine, kripto para birimi 
+modeli son derece güvenlidir ve dolandırıcılık tespit edilirse veya işlemler doğrulanamazsa çalışmaz. Bununla 
+birlikte, anahtarlarınız çalınabilir ve bu sürekli olarak korunması gereken bir tehdittir. İşin özü şu: Hangi cüzdanı 
+kullanırsanız kullanın, özel anahtarlarınızı kaybetmek telafisi mümkün olmayan kayıplara yol açabilir.
+Güvenlik Yönergeleri
+Bu güvenlik yönergelerini aklınızın ön saflarında tutmak akıllıca olacaktır. Öncelikle yazılımınızı daima güncelleyin. 
+İPad'inizin Facebook uygulamasının en son ve en iyi sürümünü çalıştırıyor olması pek de umurunda olmayabilir, ancak 
+tüm kripto para birimi yazılımlarının en güncel sürümüyle her zaman güncel olduğunuzdan emin olmalısınız. Bu aynı 
+zamanda, madeni paralarınıza erişmek için kullandığınız bilgisayar veya diğer cihazdaki işletim yazılımının yanı sıra 
+madeni parayla ilgili hizmet sağlayıcıların yazılımı için de geçerlidir.
+Cüzdan yazılımınızın en güncel sürümüne sahip olduğunuzdan emin olun. Bu programların birçoğu güncellemeleri kontrol 
+edecek ve otomatik olarak yükleyecektir. Bu işlevselliğin etkinleştirildiğinden emin olun; genellikle bunun tek nedeni
+25
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Verileri kaydetmek için kapatılmıştır. Çözüm, ucuz olan bant genişliği konusunda endişelenmemek ve odaklanmanızı, ucuz olmayan 
+paralarınıza odaklamaktır!
+Amazon'dan e-posta hesabınıza kadar her şey için aynı şifreyi kullanmanın günleri sona erdi. İşleri güvende 
+tutmak için uzun, karmaşık ve çoğunlukla anlamsız şifreler kullanmanız gerekir. Bazı tarayıcılar şifre önerir (ve 
+hatırlar). Bu harika bir özellik; tabii birisi cihazınıza el koymadığı sürece. Bu nedenle cihazınızda, cüzdanınız için 
+ve yazılımını yüklediğiniz diğer servis sağlayıcılar için bir şifre kullanın. Şifrelerinizi tekrarlamayın ve 
+şifrelerinizi düzensiz olarak değiştireceğiniz bir program belirleyin. Bu çok fazla titizlik gerektirir. Bu, kuşkusuz 
+gerçek bir acıdır. Ancak size temel bir koruma sunar.
+Aynı şekilde, mümkün olduğunca çok sayıda başka güvenlik katmanı ekleyin. Tekrarlamakta yarar var: İyi bir üne 
+sahip olan bir cüzdan seçin - diğer çevrimiçi incelemelerin yanı sıra bu ipuçlarını da okuyun - ve kişisel kimlik 
+numaraları ve iki faktörlü kimlik doğrulama gibi ek güvenlik katmanları sunan bir cüzdan seçin. Bu alanda dikkat 
+edilmesi gereken bir diğer teknoloji ise “multisig” yani birden fazla imza olarak adlandırılıyor. Temel olarak bu, bir 
+işleme başlamadan önce ağdaki diğer kullanıcılardan izin istemeye benzer. Bu, komşunuzun kendi çimlerini biçmek 
+için evinize gelip izin istemesine benzer. İki şeyden biri olur: Ya bir akşam yemeği partisi düzenlediğiniz için 
+komşunuza "hayır" dersiniz ya da izin verirsiniz: "Tabii ki Phil" dersiniz, "Beni rahatsız etmez." İzin yok, zar yok.
+Son olarak cüzdanınızı yedekleyin. Hey, bunu iTunes satın alımlarınızla yapıyorsunuz. Bunu kripto para biriminizle de yapın. Cüzdanınızda 
+yalnızca ihtiyacınız olacak parayı saklamak iyi bir fikirdir. Geri kalanı deyim yerindeyse bankaya ya da en azından bodrumdaki kasaya gidiyor. 
+Soğuk depolama (yani donanım veya kağıt) olarak adlandırılan depolama, bilgisayar arızalarına karşı korunmaya yardımcı olacaktır.
+Farklı türde kripto para birimlerini saklamak için tek bir cüzdan kullanmak mümkündür. Bu sizin için işi kolaylaştırır, ancak 
+aynı zamanda bilgisayar korsanlarının veya diğer hırsızların tüm zulanıza erişmesini de kolaylaştırır. Her para birimiyle en 
+iyi şekilde çalışan ve kendinizi en rahat hissettiğiniz cüzdanı kullanın. Düşük olma eğiliminde olan ancak sıfır olmayan 
+ücretlere dikkat edin ve aslında mümkün olan en düşük işlem ücretini tercih etmek, işlemin onaylanmasını yavaşlatabilir. 
+İşlem başına ortalama yaklaşık 12 sente güvenin.
+Ayrıca coinlerinizin anonim olmadığını unutmayın. Bir takma ad oluşturabilirsiniz ancak paralarınız sonuçta izlenebilir 
+durumdadır. Blockchain evinizin adresini kaydetmez ancak cüzdanınızın sanal adresini içerir. Bu tamamen özel olmadığı 
+anlamına gelir. Bazı para birimleri diğerlerinden daha gizlidir: Bu konuya, her bir kripto para birimi türünü 
+inceleyeceğimiz XX. Bölüm'de değineceğiz.
+Bu alanda birçok seçeneğiniz var ve daha fazlası da yolda. Cüzdan seçiminiz, kripto para birimini nasıl kullanmayı 
+planladığınıza göre belirlenmelidir. Karar noktası iki kritik faktöre indirgeniyor: Madeni paraları gerçekten satın alımlar 
+için mi kullanacaksınız yoksa sadece yatırım için mi kullanacaksınız ve cüzdanınıza nereden erişmeniz gerekecek - evinizde 
+mi yoksa gittiğiniz her yerde mi? Bu popüler cüzdanları incelerken bu temel soruları aklınızda bulundurun.
+4.2 Ekmek
+26
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Tip:
+Mağazalar: Bitcoin
+Nedir:
+Anla:
+Benzer:
+Not:
+Mobil
+Paraları mesaj kadar kolay gönderin. Sunucu yok, bilgisayar korsanı yok demektir. 
+App Store, Google Play.
+Ethereum Freewallet, Monero Freewallet, Coinbase, Digibyte Core, Coinjar, Coinapault. 
+Masaüstü erişimi yok.
+Genel Bakış
+Bread, merkezi sunucusu olmayan bağımsız bir istemcidir, dolayısıyla kullanıcılar 7/24 erişime sahiptir ve fonları üzerinde her zaman tam 
+kontrol sahibidirler. Tasarım zariftir, güvenlik sürekli olarak geliştirilmektedir. Kripto para birimine yeni gelenlerin yanı sıra daha deneyimli 
+kullanıcılar tarafından da kullanılır.
+Ekmekten
+“Banka kasasından daha güvenli ve e-posta göndermekten daha kolay. Kişisel bilgiye gerek yok, sadece uygulamayı 
+indirin.”
+İncelemelerden
+“Artık Android için mevcut. Yeni başlayanlar için çok basit bir güvenlik. Açık kaynaktır ve mevcut olduğunda anahtarları güvenilir donanımda 
+saklar. Basitlik nedeniyle pek zengin özelliklere sahip değil, mesajları imzalama veya ücretleri düzenleme seçeneklerini çok isterim. Birimler kafa 
+karıştırıcı ve değiştirilmesi zor.” -viskikilo
+“Kullanımı kolay temel işlevsellik mevcut. İlk çıktığı günden beri kullanıyorum ve 0 sorun yaşadım. Bazen keşke işlem 
+ücretini seçebilseydim diyorum çünkü varsayılan değer biraz düşük, dolayısıyla işlemler yavaş. Aksi takdirde 5/5.” - 
+Laurent
+4.3 Miselyum
+Tip:
+Mağazalar: Bitcoin
+Öğle yemeği:
+Nedir:
+Anla:
+Not:
+Mobil
+2008
+Üçüncü taraf kontrolü sağlamayan bir cüzdan. App 
+Store, Google Play.
+İleri düzey kullanıcılar için, yeni başlayanlar için değil.
+Genel Bakış
+Mycelium, genellikle rakip uygulamalardan daha iyi kabul edilen ve hatta bazıları tarafından soğuk depolama ve şifreli PDF 
+yedeklemelerinden bile daha üstün olduğu söylenen kurumsal düzeyde güvenlik sunar. Entegre bir QR kod tarayıcıya, yerel bir 
+ticaret pazarına ve diğer kullanıcılarla güvenli sohbete sahiptir. Yaygın olarak en güçlü cüzdan seçeneklerinden biri olarak kabul 
+edilir.
+27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Miselyumdan
+“Yüzbinlerce kullanıcı tarafından test edildi. Google Play'de hiçbir alternatifin daha fazla yıldızı yok."
+İncelemelerden:
+“Mycelium, Android kullanıcıları için önde gelen mobil cüzdanlardan biridir. Kolaylık faktörünü azaltmadan bir ton 
+güvenlik özelliği içerir. Üstelik diğer hizmetlerle entegrasyon, Bitcoin satın almayı ve satmayı çocuk oyuncağı haline 
+getiriyor. Mycelium'un iyi bir nedeni var, en popüler Android Bitcoin cüzdan çözümlerinden biridir. Uygulama birçok 
+işlevsellik sunarken, acemi Bitcoin meraklıları tarafından da kullanımı kolay. Dahası, güvenliğe güçlü bir odaklanma 
+var, bu da Bitcoin servetini Android işletim sisteminde takip etmek isteyen herkes için göz atmaya değer bir 
+seçenek haline getiriyor.” -themerkle.com
+4.4 Çıkış
+Tip:
+Mağazalar: Bitcoin, litecoin, eter, dogecoin, 
+dash. Nedir:
+Anla:
+Not:
+Yalnızca masaüstü
+Harika bir yedekleme kılavuzuyla birlikte kullanımı kolay 
+cüzdan. App Store, Google Play.
+Birden fazla paranın kullanıcıları için.
+Genel Bakış
+Exodus'un özelliği, kullanıcıların cüzdandan çıkmadan altcoinler ile bitcoinler arasında işlem yapmasına olanak tanıyan yerleşik bir şekil 
+değiştirme borsasına sahip olmasıdır.
+Çıkış'tan
+“Blockchain varlıklarını güvence altına almak, yönetmek ve değiştirmek için hepsi bir arada uygulama. Exodus, ShapeShift'in yerleşik olduğu ilk masaüstü 
+çok varlıklı cüzdandır."
+İncelemelerden
+“Her ne kadar kripto para çevrelerinde Exodus'tan pek bahsedilmese de, onun çoğu tüccarın kullanmayı tercih 
+ettiği cüzdanlardan biri olduğuna şüphe yok. … Bu sadece Bitcoin'den fazlasını destekleyen bir cüzdan; bir 
+adım daha ileri giderek dash, Ethereum, Dogecoin ve Litecoin gibi altcoinleri entegre ettiler. … Her cüzdan 
+sanal olarak kullanıcı arayüzü kadar iyidir. Parayı yatırmayı seçtikleri varlıklara göre kişinin dijital para birimi 
+varlıklarını sıralayan bir kullanıcı pasta grafiği var. Çok fazla görünmeyebilir, ancak bu özellik, kripto para 
+varlıklarını görsel olarak kolayca takip etmek isteyen yatırımcılar için çok kullanışlıdır. Bu esnekliği gezinmesi 
+kolay bir platformla birleştirdiğinizde, çoğu kripto tüccarının ve yatırımcının sanal, anonim para dünyasına 
+adım attıklarından beri neden bu cüzdana bağlı kaldıklarını anlarsınız.
+Buna ek olarak Exodus, yerleşik dahili değişime sahip birkaç cüzdan tabanlı platform arasında yer alacak gibi 
+görünüyor. Bu, çeşitli kesimlerden, özellikle anlık ve günlük ticarette uzmanlaşmış yatırımcılardan övgü alan 
+bir özelliktir. Bu değişim, desteklenen beş dijital para biriminin her biri için çalışır ve fiyatlar genellikle gerçek 
+zamanlı olarak ayarlanır. Exodus'un sayısız avantajına rağmen tam olarak kusursuz değil. Çarpıcı bir
+28
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+dezavantajı, Exodus'un portföyünde desteklenen her dijital para birimi için ayrı cüzdan adreslerini kontrol etme gibi çok temel 
+bir seçeneğe sahip olmamasıdır.
+Bu, bu cüzdanı kullanırken normal bir Ether veya bitcoin adresine ve ayrı bir salt izleme adresine sahip olmanın kolay olmadığı 
+anlamına gelir. Her ne kadar bu kapsamlı bir yazılım güncellemesiyle düzeltilebilecek bir şey olsa da Exodus'un arkasındaki 
+geliştiriciler bunu henüz başaramadı."-Bitcoin Exchange Guide
+4.5 Ortak Ödeme
+Tip:
+Mağazalar: Bitcoin
+Nedir:
+Anla:
+Not:
+ve yanıt vermeyen, sınırlı kullanıcı desteği
+Masaüstü, mobil veya çevrimiçi
+Sağlam, kullanışlı çoklu imza platformu. 
+App Store, Google Play.
+Yeni başlayanlar için iyi ancak daha ileri düzey kullanıcıları tatmin edecek yeterli işlevselliğe sahip. Yavaş olabilir
+Genel Bakış
+Copay, hiyerarşik deterministik, çoklu imzalı bir cüzdan kullanan bir bitcoin cüzdanıdır. Bu sistem, her işlem 
+alındığında yeni bir adres oluşturarak sizi neredeyse izlenemez hale getirir. Uygulamada aynı anda saklanan birden 
+fazla cüzdanı destekler ve Bitcoin ödeme protokolünün tamamını (BIP 0070-0073) kullanır.
+Copay'dan
+“Açık kaynaklı, çok imzalı bir cüzdanla Bitcoin'i kendi koşullarınıza göre güvence altına alın. Copay kullanıcıları, çoklu onay 
+gerektirerek yetkisiz ödemeleri önleyebilen çoklu imzalı cüzdanlar sayesinde fonları bireysel olarak tutabilir veya finansmanı 
+diğer kullanıcılarla güvenli bir şekilde paylaşabilir.
+İncelemelerden
+“Copay, diğer Bitcoin cüzdanlarından farklı ve genellikle üçüncü bir tarafın elinde bulunan bir hesap veya 
+hizmetle karıştırılıyor. Durum böyle değil. Özel anahtarların kontrolü sizdedir, böylece Copay bile paranıza 
+erişemez. Copay'i öne çıkaran bir özellik de çoklu imza işlevidir; Bir cüzdanı paylaşmak için en fazla 5 kişi 
+seçebilir ve bu kişilerden 3'ünün bir işlemi imzalamasını isteyebilirsiniz. Fon paylaşıyorsanız veya ödeme 
+yöntemi olarak Bitcoin kullanan bir şirkette çalışıyorsanız bu harika bir özellik.” -Jackmanmania
+4.6 Jaxx
+Tip:
+Mağazalar: Çeşitli altcoin türleri (Ethereum ve Ethereum Classic, dash, DAO, litecoin, REP, Zcash, anaç, ancak öncelikle bitcoin ve 
+ethereum'u işlemek için oluşturulmuştur.
+Nedir:
+Alın: App Store, Google Play.
+Unutmayın: Kod açık kaynak değildir. Yavaş olabilir.
+Genel Bakış
+29
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Jaxx, Windows, Linux, Chrome, Firefox, OSX, Android ve iOS dahil olmak üzere çeşitli platformlarda kullanılabilir. Jaxx, 
+Shapeshift'i kullanarak ve kağıt Ethereum cüzdanlarını içe aktararak Bitcoin ile Ether arasındaki dönüşümü kolaylaştırır. Jaxx 
+geliştirici ekibi, yeni para birimlerini entegre etme konusunda iyi bir iş çıkarıyor ve birden fazla kripto para birimine yatırım 
+yapan kullanıcılar arasında lider bir cüzdan olduğu açık.
+Jaxx'ten
+Caz Felsefesi:
+1. Kullanıcı fonlarına asla erişmeyiz veya onları tutmayız.
+2. Özel anahtarların yerel olarak barındırıldığı ve hiçbir zaman hiçbir sunucuya gönderilmediği, istemci tarafı bir güvenlik modeli sunuyoruz.
+3. Tasarım odaklıyız, basit, çekici kullanıcı arayüzleri ve deneyimleri sunuyoruz.
+4. Arızalanmamız veya varlığımızın sona ermesi durumunda anahtarlarınızın başka bir hizmete aktarılabilmesini sağlayan standartları 
+kullanıyoruz.
+5. Mümkün olduğunca sürtünme noktalarını ortadan kaldırırız.
+6. Kullanıcılardan hiçbir zaman e-posta adresleri dahil herhangi bir kişisel bilgi girmelerini talep etmeyiz.
+İncelemelerden
+“Tasarım harika, kullanıcı arayüzü muhteşem. Jaxx'te dikkatimi çeken ilk şey tasarımı oldu. M-cüzdan, kullanıcıya 
+sadelik getiren güzel, minimalist siyah ekranlar kullanıyor. Ancak cüzdanda satılmamı sağlayan şey bu değil. Bana 
+göre gerçekten şaşırtıcı olan şey basit arayüzdü. Tamamen yeni biri olsanız bile, muhtemelen Jaxx'i çok fazla sorun 
+yaşamadan kullanmayı başaracaksınız.
+Kurulumu oldukça basittir ve devam eden kullanımı “gönderme” / “alma” ve para birimi türünü değiştirme gibi 
+temel işlemlerle sınırlıdır. Bitcoin ve kripto paraların bu kadar teknik bir konu olması nedeniyle kullanıcıyı 
+korkutmayan bu tür ürünlere gerçekten ihtiyacımız var. Ancak arayüzün minimal olması Jaxx'in kullanıcıya gelişmiş 
+özellikler sağlamadığı anlamına gelmiyor.
+"Menü" düğmesine (sağ üst) tıkladığınızda, aşağıdakiler de dahil olmak üzere her türlü gelişmiş özelliğe sahip olursunuz: Farklı para 
+birimi desteği ekleme/kaldırma, farklı döviz kurları kullanma, daha hızlı/yavaş onaylar için işlem ücreti boyutunu ayarlama, özel anahtarı 
+yedekleme ve görüntüleme diğerlerinin yanı sıra cüzdan. Bu seçenekler muhtemelen bir cüzdanda genellikle aradığım özelliklerin 
+hepsini olmasa da çoğunu kapsıyor. Ayrıca her özellik, kendisi hakkında daha fazla bilgi veren küçük bir araç ipucuyla birlikte gelir, 
+böylece açıklamalar için internette arama yapmanıza gerek kalmaz." -Ofir Beigel
+4.7 Cephanelik
+Tip:
+Mağazalar: Bitcoin
+Nedir:
+Yalnızca masaüstü
+Deneyimli kripto kullanıcıları için özellik yüklü ve son derece güvenli bir platform.
+30
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Anla:
+Not:
+App Store, Google Play. Yeni 
+başlayanlar için değil.
+Genel Bakış
+Özellikleri arasında soğuk depolama, çoklu imza işlemleri, tek seferlik yazdırılabilir yedeklemeler, çoklu cüzdan arayüzü, GPU'ya dayanıklı cüzdan 
+şifrelemesi, anahtar içe aktarma, anahtar süpürme ve daha fazlası yer alır.
+Armory'den
+“Armory, kullanıcıların ve kurumların Bitcoin özel anahtarlarını oluşturması ve saklaması için mevcut en güvenli ve tam özellikli 
+çözümdür. Bu, kullanıcıların Armoury ekibine asla güvenmek zorunda kalmadıkları ve onu Glacier protokolüyle kullanabilecekleri 
+anlamına gelir. Satoshi gurur duyardı. Kullanıcılar birden fazla şifrelenmiş Bitcoin cüzdanı ve tek seferlik kalıcı 'kağıt yedeklemeleri' ile 
+güçlendirilir. Armory, soğuk depolamaya öncülük etti ve çoklu imzayı dağıttı. Bitcoin soğuk depolama, Bitcoin'leri tamamen hava 
+boşluklu çevrimdışı bir bilgisayarda güvenli bir şekilde depolamak için kullanılan bir sistemdir.
+Ekibimiz kriptografi ve özel anahtar törenleri konusunda oldukça deneyimlidir. Örneğin, İnternette güven 
+oluşturmaya yönelik yenilikçi bir kimlik doğrulama spesifikasyonu geliştirmek için Verisign ile işbirliği yaptılar.
+Armory olarak, yeni güvenlik özellikleriyle en iyi bitcoin cüzdanını sürekli olarak geliştirmeye çalışıyoruz. Armoury, internete hiç 
+dokunmayan bir bilgisayar kullanarak çevrimdışı bitcoin cüzdanlarını kolayca yönetmeye öncülük etti. İşlem oluşturmak için 
+gereken her şey, yalnızca izlenebilir bir cüzdana sahip çevrimiçi bir bilgisayardan yönetilebilir. Tüm gizli özel anahtar verileri 
+yalnızca çevrimdışı bilgisayarda kullanılabilir. Bu, bitcoin çalmaya çalışan bir saldırganın saldırı yüzeyini büyük ölçüde azaltır.
+Tüm özel anahtar verilerini çevrimdışı bilgisayarda tutarak, yalnızca çevrimdışı bilgisayara fiziksel erişimi olan biri 
+Bitcoin'lerinizi çalabilir. Bir işlem oluşturma ve onu çevrimdışı bilgisayarla imzalamanın asıl süreci bir dakikadan az 
+sürebilir ve daha sonra bunu ağa yayınlayarak bitcoin madencilerinin bunu bir bloğa dahil etmesini 
+sağlayabilirsiniz.
+Ayrıca Armoury pek çok güvenlik uygulaması kullanır; dolayısıyla birisi fiziksel olarak çevrimdışı sisteminizi 
+çalsa bile gelişmiş cüzdan şifrelemesini aşması yüzyıllar alabilir. Çoklu imza adresleri ise Kilitli Kutular 
+kullanılarak tamamen dağıtılmış bir şekilde kullanılabiliyor.”
+İncelemelerden
+“Armoury'nin tam potansiyelini anlaması ve kullanması biraz zaman alsa da, fonlarını güvende ve emniyette tutmak isteyen 
+teknoloji meraklısı Bitcoin meraklıları için harika bir seçenek.” -kullanıcı8
+4.8 Trezor
+Tür: Donanım
+Mağazalar:
+31
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Nedir: Kötü amaçlı yazılımlardan etkilenmeyen ve paranızın özel anahtarlarını asla açığa çıkarmayan açık kaynaklı cüzdan. Anla:
+Unutmayın: Büyük miktarları depolamak için tasarlanmıştır. Bitcoin göndermek için Trezor yanınızda olmalı
+Genel Bakış
+Trezor açık kaynaklı ve şeffaftır: Tüm teknik kararlar topluluk istişaresinden yararlanır. Kullanıcı dostu arayüz, 
+başlamayı kolaylaştırır ve Trezor, WIndows, OS X ve Linux ile çalışır. Aktif olmayan tasarruf sahipleri ve yatırımcılar 
+için önerilir. bir microUSB kablosu ve bir kurtarma tohum kitapçığı ile birlikte gelir. Cihazın kendisi plastikten 
+yapılmış, 128×64 piksel OLED ekran ve ön tarafında 2 adet buton, alt kısmında ise microUSB portu bulunuyor. Fiyatı 
+99 dolar.
+Trezor'dan
+“Bitcoin'de yeni olmanız veya halihazırda bir güvenlik uzmanı olmanız fark etmez. Trezor herkes için 1 numaralı Bitcoin cüzdan tercihidir. 
+Virüsleri ve keylogger'ları arkanızda bırakın. Düzenli yedekleme yapmayı, şifreleme kılavuzlarını okumayı, kağıt cüzdan yazdırmayı ve 
+çevrimdışı depolama oluşturmayı unutun. Bir dahaki sefere bitcoinlerinizi güvence altına almak için 10'dan fazla adımlı başka bir kılavuz 
+gördüğünüzde, onu okumayı atlayın.
+İncelemelerden
+“Donanım cüzdanı nihai çözümdür. Şu anda en iyi donanım cüzdanları Trezor ve Ledger Nano S, en popüleri 
+olduğu için Trezor'u seçtim. Bitcoin'e yeni başlayanlar için bile kurulumu son derece kolaydır. Birkaç dakika 
+sonra Trezor kullanıma hazırdır.
+Trezor cüzdanına her erişmem gerektiğinde 6 haneli bir PIN girmem gerekecek. Aradaki fark, kodu klavyenizle 
+giremeyecek olmanızdır. Bunun yerine, cihazın ekranı size rastgele sırayla 9 sayı gösterecek, bu sayıların 
+konumlarına bakacak, ardından farenizle bilgisayar ekranına karşılık gelen PIN'inizi gireceksiniz.
+Her işlemi tamamlamadan önce Trezor ekranında tutarı, adresi ve ücreti onaylamanız gerekecektir. Özel 
+anahtarlar Trezor'un içinde tutulur, böylece birisi Bitcoin'inizi yalnızca kurtarma tohumlarınızı veya Trezor'u 
+elinde bulundurup PIN'i bildiğinde çalabilir. Bilgisayarınıza bir virüs bulaştığında bile Bitcoin'iniz korunur. 
+Trezor'un harika bir özelliği, Bitstamp gibi bazı borsalarla yerel cüzdan entegrasyonunu başlatmış olmalarıdır.
+Bu, doğrudan Bitstamp'a para yatırıp çekebileceğiniz ve Trezor cüzdan arayüzünü açmanıza gerek kalmayacağı anlamına gelir. 
+Bitcoin depolamanın yanı sıra Trezor'u Litecoin, DASH ve Zcash gibi diğer kripto para birimlerini depolamak için de 
+kullanabilirsiniz. Ethereum da desteklenmektedir ancak MyEtherWallet'tan farklı bir cüzdan arayüzü kullanmanız gerekecektir. 
+Trezor yılın en sevdiğim teknolojilerinden biri, bu nedenle imkanınız varsa satın almanızı şiddetle tavsiye ederim. Artık tüm 
+kontrol sizde olduğu için Bitcoin'inizi kaybetme konusunda bir daha asla endişelenmenize gerek kalmayacak." -Tuan Do
+32
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+4.9 Defter Nano S 
+Tip: Donanım
+Mağazalar: Çoklu para 
+birimleri Nedir:
+Anla:
+Not:
+Bitcoin kullanıcıları için hiyerarşik deterministik çoklu imzalı donanım cüzdanı. 
+Elektronik perakendecisi veya çevrimiçi satıcı. Amazon taşıyor.
+Gizli hesaplar oluşturulamıyor
+Genel Bakış
+Nano, ikinci bir güvenlik katmanı kullanarak bir dizi potansiyel hacker yaklaşımını ortadan kaldırmayı amaçlıyor. Bu, altı gramdan 
+daha az ağırlığa sahip, küçük bir flash sürücü boyutunda, akıllı karta dayalı kompakt bir USB cihazıdır. Ekran hareketli bir kapakla 
+korunmaktadır. Birden fazla kripto para birimini destekler ve üçüncü taraf uygulamaları çalıştırabilir. Kurtarma çok kolaydır. 
+Yaklaşık 200$'a mal oluyor.
+Üreticiden
+“ÇOKLU PARA BİRİMİ: Nano S, Bitcoin, Ethereum, Litecoin, Dogecoin, Zcash ve Dash’i destekliyor. Farklı varlıkları tutun ve 
+bunları aynı donanım cüzdanından harcayın. Electrum, Copay, Mycelium, GreenBits ve MyEtherWallet ile uyumludur. 
+BASİTLİK: Tak ve çalıştır! Cihaz üzerinde kolay konfigürasyon. PIN koruması. Cihazın kaybolması veya tahrip olması 
+durumunda varlıklarınızın anında kurtarılması için kağıt cüzdan yedeklemesi. GÜVENLİK :
+Özel anahtarlarınız, bir PIN koduyla kilitlenen, güçlü bir şekilde yalıtılmış bir ortamda (güvenli şifrelenmiş çip) korunur ve 
+hiçbir zaman ana bilgisayara maruz kalmaz. OLED ekranındaki işlemleri kontrol edin ve fiziksel düğmeleri kullanarak 
+onaylayın (kötü amaçlı yazılımdan koruma ikinci faktörü). Makul inkar edilebilirlik ve parola uyumluluğu için alternatif PIN. 
+ÇOKLU UYGULAMALAR:
+Kripto para cüzdanlarına ek olarak FIDO U2F, GPG, SSH gibi üçüncü parti uygulamaları kullanın veya kendinizinkini oluşturun. MANYETİK USB 
+KABLOSU: Bağlantı noktasını kirden, tüylerden ve kullanımdan kaynaklanan hasarlardan korur. Anahtarlarınızı korurken donanımınızı da 
+koruyun. Hızlı manyetik bağlantı, karıştırmanın, çizmenin veya bükmenin olmadığı anlamına gelir.
+İncelemelerden
+“Bu ürünü Temmuz 2017'de satın aldım. Nano S'imi satın almak için ne aradığımı bulmak için birkaç gün harcadım. Bunu 
+yaptığıma sevindim. Bir doların fiyatına Mac'in güç kablosuna benzer bir manyetik kablo elde edersiniz. Muhtemelen basit bir 
+nedenden dolayı bu kabloya daha fazla para öderdim:
+Nano S, ünitenin üzerinde mikro USB konektörüne sahiptir. Eğer bunlarla ilgilenseydiniz bunların çok hassas olduğunu bilirdiniz. 
+Eski telefonumda neredeyse bir tanesini kırıyordum. Yani MintCell'in size sağladığı kabloyu Nano'ya takabilir ve onu sonsuza 
+kadar orada bırakabilirsiniz. Cihazın bağlantısını kesmek için manyetik bağlantıyı ayırmanız yeterlidir. Küçük parça ünitenin 
+içinde kalır ve metal kapağın tam üzerine kapanmasını sağlayacak kadar küçüktür, dolayısıyla ünitenin normal çalışmasını 
+engellemez.
+Yani sürekli kabloyu ünitenin içine sokmazsınız, böylece iç kısım yıpranmaz ve kopmaz. Bu kablo ilavesi dahice 
+ve burada satılan normal Nano S ürünü yerine bu paketi şiddetle tavsiye ediyorum. Alacağınız Nano S, ayrıca 
+satın alacağınız şeyin aynısıdır. Yani eğer olsaydı
+33
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Tekrar satın almak için bu paketi tercih ederdim. Kesinlikle tavsiye ederim. Herhangi bir nedenle kabloyu kullanmak 
+istemiyorsanız, kullanmayın ve cüzdanı ayrı olarak satın alacağınız bir cüzdan olarak kullanın. Tamamen aynı şey.” AudreyK, 
+Amazon aracılığıyla
+4.10 Yeşil Adres
+Tip:
+Mağazalar: Bitcoin
+Nedir:
+Sıcak bir cüzdan olarak kabul 
+edilir. Anla:
+Not:
+Masaüstü veya mobil
+Sağlam güvenlik, çoklu platform ve çoklu cihaz, çoklu imza, başlangıç   seviyesi dostu, açık kaynaklı yazılım.
+App Store, Google Play. Chrome ve Android ile arayüz oluşturabilir. Özgür. 
+Yeni başlayanlar için güçlü bir rakip.
+Genel Bakış
+Bu yazılım, gelişmiş güvenlik, kağıt cüzdan yedeklemesi ve anında işlem onayı için çoklu imza adreslerini ve iki faktörlü 
+kimlik doğrulamayı kullanır. Bir dezavantajı: Tüm ödemelerin onaylanması için Yeşil Adres gereklidir, dolayısıyla tam 
+kontrole sahip olamazsınız.
+Yeşil Adresten
+“Kontrolün sizde olmasını sağlayan daha güvenli Bitcoin cüzdanı. Güvenliği artırmak için çoklu imzayı (örneğin iki faktör 
+veya sınırlar ekleyerek) ve gizliliğinizi artıran Hiyerarşik Deterministik adresleri kullanır. Bu cüzdan, bir web cüzdanının 
+avantajlarını sunar: Her yerde mevcut, iki faktörlü kimlik doğrulama. İşlem limitleri/kısıtlamaları, GreenAddress anlık 
+işlemleri ve Electrum gibi yerel bir yazılım cüzdanının avantajlarını içerir. Anımsatıcı tohum yedekleme - bir kez ayarlayın 
+ve unutun. Özel anahtarlarınız hiçbir zaman sunucuda bulunmaz, hatta şifrelenmez. Tam istemciyi Bitcoin blok zinciriyle 
+senkronize etmek için uzun süre beklemenize gerek yok.
+Özellikler:
+- Segwit için geliştirilmiş destek
+- Gidiş dönüşlerin azalması
+- İşlem ücreti yönetimi iyileştirildi
+- Çevirileri güncelle”
+İncelemelerden
+“Yeşil Adres son derece sağlam bir HD cüzdandır. Çoklu imza güvenliğine sahiptir, ek güvenlik için yalnızca masaüstü 
+bilgisayarlarda bir krom uzantısı aracılığıyla kullanılabilir, 4 farklı türde iki faktörlü kimlik doğrulama sunar ve daha deneyimli 
+Bitcoin meraklılarının ilgisini çekecek, aşağıda ayrıntıları verilen çok sayıda gerçekten güzel zil ve ıslıklara sahiptir. GreenAddress 
+bunaltıcı olabileceğinden acemiler için daha basit bir ürünle başlamak en iyisi olabilir.
+Bununla birlikte, cüzdanınızı kurma gibi zahmetli bir süreçten geçtikten sonra (zorluk açısından değil, güvenlik adımları açısından 
+zahmetlidir), bitcoin gönderip almak temelde başka herhangi bir yerdekiyle aynıdır; ancak bunu gerçekten yapmazsanız Gösterişli bir 
+cüzdana ihtiyacınız varsa, aynı zamanda oldukça güvenli olan daha basit ürünler de vardır. Yeşil Adres şu adreste mevcuttur:
+34
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+masaüstü yalnızca Chrome Web Mağazası'nda. Pek çok kullanıcı krom uzantılarını kullanmaya aşina olmasa 
+da, bu, özel anahtarları kurtarmak için kullanılabilecek anımsatıcının kopyalanmasını içeren daha yüksek riskli 
+kayıt sürecinden geçerken ek bir güvenlik katmanı sağlar. Cüzdanınızı oluşturduktan ve anımsatıcıyı 
+kopyaladıktan sonra, anımsatıcınızı yeni bir şifrelenmiş anımsatıcıya dönüştürecek bir parola yazmanız 
+istenecektir! Bu anımsatıcı artı şifre, şifrelenmemiş anımsatıcıyı gösterecektir.
+İşte özelliklerle dolu bir bitcoin cüzdanı! Daha ileri düzey Bitcoin meraklıları için bu gerçekten harika bir üründür; pazara 
+yeni giren acemiler için biraz fazla olabilir. Her neyse, uzun lafın kısası: HD cüzdan, çoklu imza güvenliği, hem 
+masaüstünde hem de yerel Android ve iOS uygulamalarında mevcuttur, sunucu tarafında saklanan kişisel bilgiler yoktur 
+ve gizliliği artırmaya yönelik araçlar. Biz kesinlikle hayranlarıyız.” – Bit incelemesi
+4.11 Blockchain.info
+Tür: Herhangi bir tarayıcıyı veya telefonu kullanır. 
+Mağazalar: Bitcoin
+Nedir: En popüler cüzdan Alın: 
+App Store, Google Play. 
+Unutmayın: Zayıf gizlilik
+Genel Bakış
+Bu cüzdana herhangi bir tarayıcı veya telefonla erişim. Tarayıcı kullanıcıları iki faktörlü kimlik doğrulamayı etkinleştirebilir; mobil kullanıcılar, 
+cüzdan uygulamasını her açıldığında kullanmak için bir PIN gereksinimini etkinleştirebilir. Cüzdanınız çevrimiçi olarak saklanır; Tüm işlemlerin 
+şirketin sunucuları üzerinden yönlendirilmesi gerekiyor, ancak Blockchain'in kendisi hiçbir zaman özel anahtarlarınıza erişemiyor.
+Blockchain'den
+“Blockchain dünyanın en popüler bitcoin cüzdanıdır. Her seferinde tek bir yazılım parçasıyla daha açık, erişilebilir ve adil bir finansal 
+gelecek inşa etme misyonundayız. Kullanıcı tarafından beğenildi. Geeks tarafından övüldü. Basın tarafından tanındı. Bitcoin kullanımını 
+güvenli, basit ve eğlenceli hale getiriyoruz. Bitcoin'inizi güvenli bir şekilde saklayın ve dünyadaki herkesle anında işlem yapın.
+Adım adım güvenlik merkezimiz, paranızı yedeklemenize ve yetkisiz erişime karşı korumanıza yardımcı olur. Blockchain, 
+cüzdanınızdan bitcoin satın almayı hem basit hem de kusursuz bir deneyim haline getirmek için dünyanın her yerindeki değişim 
+ortaklarıyla birlikte çalışıyor.”
+İncelemelerden
+“Kayıt kolaylığı, web erişimi ve mobil erişim gibi yeni Bitcoin kullanıcılarının ilgisini çekecek faktörler nedeniyle en 
+yaygın kullanılan cüzdanlardan biri. Bununla birlikte, kendi Bitcoin'leri ve güvenliği üzerinde tam kontrol isteyen 
+deneyimli kullanıcılar için nihai seçim olmayabilir.
+35
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Doğrudan web erişimi ve mobil uygulama olarak kullanılabilirliği nedeniyle Blockchain.info'nun cüzdanı muhtemelen 
+Bitcoin'lerinize erişmenin ve harcamanın en uygun yöntemlerinden biridir. Cüzdan kimliğiniz olduğu sürece, paranıza 
+erişmek için internete bağlı bir web tarayıcısı aracılığıyla bu kimliği girebilirsiniz.
+Bu, cüzdan kimliğinizi masaüstünüzde veya cep telefonunuzda bir yerde saklamanız gerektiği anlamına gelir; ancak tarayıcı 
+önbelleklerinin kullanımı bunu aşmanıza yardımcı olabilir.
+Bazı mobil kullanıcılar, Bitcoin adreslerini mobil uygulama içinde kopyalayıp yapıştıramama gibi oldukça can sıkıcı bir sorunla da 
+karşı karşıyadır. Dolayısıyla, fotoğrafik hafızanız olmadığı sürece, birine Blockchain.info uygulamasını kullanarak Bitcoin 
+göndermek gibi basit bir işlem acı verici olacaktır.
+Ancak geçmişte web sitesine gelen yüksek trafik, aşırı yüklemeye ve sunucu sorunlarına yol açarak kullanıcıların uzun süre 
+cüzdanlarına erişememesine yol açıyordu. Son zamanlarda performans artıyor gibi görünüyor, ancak eğer bir kullanıcıysanız, o 
+zaman sunucu performanslarıyla her zaman onların açısından mücadele etmek zorunda kalacaksınız.
+Bu, Bitcoin'lerinizi talep üzerine kullanamama riskiniz olduğu anlamına gelir. Blockchain.info, ücretsiz cüzdan çözümü 
+sunan en eski şirketlerden biridir ve Bitcoin topluluğu içinde yüksek düzeyde güven sağlar. Cüzdanınız çevrimiçi olarak 
+sunucularında saklandığı için (gerçi kurtarma için yedekleme ifadenizi hala kontrol ediyorsunuz), bu, kullanıcıların 
+Blockchain.info'ya güvenmesi gerektiği anlamına gelir; dolayısıyla kontrol etmek istiyorsanız bu hibrit çözüm, uzun vadeli 
+cüzdan seçenekleriniz olmayabilir. tüm bilgileriniz ve gizliliğiniz (işlemlerinize ilişkin veriler dahil).
+Blockchain.info'yu kullanmak konusunda istekliyseniz, Güvenlik Merkezi tarafından sunulan (oturum açıldıktan sonra erişilebilir) 
+gelişmiş güvenlik özelliklerinden tam olarak yararlanmayı unutmayın. Cüzdanınızı oluştururken, oturum açma işleminde 
+kullanılan e-posta adresinizi doğrulamanız istenecektir. Ayrıca, cüzdanınızı kurtarmanız gerektiğinde güvenli bir şekilde 
+saklamanız gereken 12 kelimelik bir yedek cümle oluşturmanız da istenecektir. Davetsiz misafirler tarafından yaygın olarak 
+kullanılan TOR bağlantılı IP adreslerinden erişimi engellemek için de bir IP filtresi kullanabilirsiniz." – bitcoin milyoneri
+36
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+5.0 Değişimler
+Eski Jaguar XKE'nizi bir Ripple yük vagonu karşılığında satmak gibi özel bir işlem yoluyla bir kripto para birimi önbelleğine 
+rastlamadığınız sürece, görünüşte nakit karşılığında bir miktar satın almak için bir borsaya gitmeniz gerekecektir.
+Her ne kadar bariz olanı açıklamak aptalca görünse de, bir borsa seçmenin ilk gerçek adımı, ne tür kripto sattığını 
+ve karşılığında neleri kabul ettiğini düşünmektir; başka bir kripto, euro, ABD doları ve hatta havayolu milleri. Bitcoin 
+ticareti yapan bir borsa bulmak oldukça kolaydır; bunlardan en az düzinelerce var ve bunları bulmak da kolaydır. 
+Daha az bilinen altcoinlerin satın alınabileceği bir platform bulmak biraz araştırma gerektirebilir. Bakarken birkaç 
+şeyi aklınızda bulundurun:
+5.1 Önemli İlk Hususlar
+İtibaranahtardır. İnternetin en güzel yanlarından biri, rastgele bir meraklının en yeni Star Wars resminin 
+fragmanının 50.000 kelimelik eleştirisinden veya düşük voltajlı kompakt filmlerin yan yana karşılaştırmasına kadar 
+hemen hemen her şey hakkında bilgi bulma yeteneğidir. floresan ampuller.
+Açıkçası bu, başka bir Accord yerine yeni bir Subaru seçerken faydalıdır ve takas seçerken göz ardı etmeniz gereken bir 
+şey değildir. Bununla birlikte, elbette, İnternet'teki bazı insanların sadece huysuz olduklarını ve deneyimlerinden 
+azarlanan huysuzların genellikle histerik ve/veya histrionik incelemeler yazma eğiliminde olduğunu unutmayın. Bu 
+nedenle, belirli özelliklere, artılarına ve eksilerine atıfta bulunan düşünceli incelemelere dikkat etmeye dikkat edin. Çeşitli 
+sitelere göz atın. (Açıkçası, Reddit gibi aşırı bilgi yüklemesinden de uzak durun, bu çok daha fazla zarar verebilir.)
+Güvenlik.Sitenin tüm güvenlik protokollerini araştırdığınızdan emin olun. Burnunuz dostunuz olsun; eğer bir fare kokusu alıyorsanız veya bir 
+fare kokusu aldığınızı düşünüyorsanız, o zaman uzak durun. Madeni paralarınızı internette cennetin neresinde olduğunu bilmediğiniz bir 
+borsada satın almanın yanlış bir yanı yok. Çoğu çevrimiçi satın alma işleminde olduğu gibi muhtemelen iyi sonuç verecektir.
+Ama eğer işi şansa bırakmak istemiyorsanız - ki bunda yanlış olan tek bir şey yok - o zaman büyük bir bankaya gidin ve onların size 
+yardım etmesine izin verin.
+Kripto yeni bir dünya ve dikkatli olmak akıllıca olacaktır. Güvenliği tam olarak anlamadığınızı düşünüyorsanız 
+ya biraz daha araştırma yapın ya da bir uzmana danışın. Bunu yazarken kendimizi 12 yaşında pek çok zeki 
+çocuğa danışırken bulduk!
+Bir sonraki husus isehacim.Hacim ne kadar fazla olursa, işlem yaparak getiri elde etme olasılığınız da o kadar artar. 
+Çoğumuz borsalar bağlamında hacim verilerini işlemeye kilitlenmiş durumdayız. Bu doğal zihinsel karşılaştırmadan 
+kaçının.
+38
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Finans dünyasındaki her rakam gibi hacim de bağlama ihtiyaç duyar, ancak gerçekten önemli olan tek rakam 
+o borsanın önceki gün, hafta ve aydaki hacmidir. Neler olup bittiğini görmek için bunu diğer borsalarla 
+karşılaştırın.
+Son olarak şuna bakınKullanılabilirlik.Muhtemelen incelemelerde bununla karşılaşacaksınız, ancak tekrar etmekte fayda 
+var. Takasın kullanımı zorsa veya sizin için zorsa, bir numarayı kaçırma ihtimaliniz büyük ölçüde artar. İşlemlerin kolayca 
+yapılabileceği, işlem ortamında kolayca gezinilebileceği ve en iyi durumda, kontrol edebileceğiniz ve işlem kalıplarını ayırt 
+etmek için kullanabileceğiniz tonlarca verinin bulunduğu bir borsa bulun.
+5.2 Şekil Değiştirme
+Eğer bu sevimli bir inceleme olsaydı, başlık şöyle olurdu: 'İşlevsel.' ShapeShift'i, kripto para biriminin arabaya servis edilmesi 
+olarak düşünün. Diğerlerinin yanı sıra bitcoin, Ethereum, Monero ve Dash'i alıp satmanıza olanak tanır. Bazı yatırımcılar 
+komisyoncularıyla bir ilişkileri olduğunu hissetmek ister.
+Bu o değil.Bu, kripto ticaretinin hiçbir şey ifade etmeyen otelidir: Bir hesaba ihtiyacınız yoktur ve paralarınızı borsada 
+bırakmanıza gerek yoktur. Yeni başlayan birinin kolayca gezinmesi ve etkili bir şekilde kullanması sorun değildir. Dezavantajı 
+sınırlı ödeme seçenekleridir; üzgünüm, kart yok. Gösterge tabloları, bilgiler ve diğer araçlar çok hafiftir. Bu doğrultuda başka bir 
+seçenek de CoinMama'dır.
+5.3 Coinbase
+En popüler borsalar arasında yer alan Coinbase, yeni başlayanlar da dahil olmak üzere tüm dünyada milyonlarca kullanıcı tarafından güveniliyor. 
+Kullanıcılar, para birimi satın almak, satmak veya saklamak için kullanımının kolay olmasını sever. Bitcoin, Ethereum ve Litecoin satın alabilirsiniz; 
+dijital cüzdanı Android veya iOS'ta çalışır.
+İsterseniz Coinbase'in Global Digital Asset Exchange anlamına gelen GDAX platformunda diğer kullanıcılarla doğrudan 
+ticaret yapmayı seçebilirsiniz ve Coinbase ile GDAX arasında fon taşımak için herhangi bir ücret alınmaz. Güvenli. GDAX 
+teknik yatırımcılara yöneliktir. Almak ve tutmak için kullanmayın.
+5.4 İkizler
+Gemini muhtemelen kripto dünyasının platin standardı, Goldman Sachs veya Bessemer Trust'tır. Daha sofistike 
+yatırımcılar için güçlü araçlarla güzel bir şekilde oluşturulmuş ve kullanımı kolaydır ve bol miktarda likidite vardır.
+Gemini düzenlemelere tabidir, Amerika Birleşik Devletleri tarafından lisanslanmıştır, bu da tıpkı bir banka gibi sıkı sermaye gerekliliklerini ve diğer 
+kriterleri karşılaması gerektiği anlamına gelir. (Eyaletinizin siteye tam erişime izin verip vermediğini kontrol edin; yalnızca 42 tanesi izin veriyor.)
+39
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Gemini, tüm dolar mevduatlarını, Şeker Amca'nın çeyrek milyona kadar garanti ettiği FDIC sigortalı bir bankada tutuyor. Ayrıca Gemini 
+madeni paralarının çoğunu son derece güvenli olan soğuk hava depolarında saklıyor. Ancak dezavantajı seçimdir: Kullanıcılar dolar, 
+bitcoin ve Ether ile sınırlıdır. Para yatırma ve çekme işlemleri ücretsizdir; Takas yapmak için para ödersiniz ve yüksek hacimli oyunculara 
+küçük bir indirim uygulanır.
+5.5 Cex.io
+Cex.io, ne yaptığını bilen kullanıcılar için profesyonel düzeyde bir sitedir; ticaret kontrol panelleri çok iyidir. Marj hesapları 
+mevcut. Güvenlik güçlüdür ve CEX kredi kartlarını bile kabul etmektedir. Pek çok özelliği ve özelliği olsa da, yapmak istedikleri tek 
+şey satın almak ve tutmak olsa bile, yeni gelenlerin kendilerini rahat hissedebilecekleri bir site burası. Madeni paralar bulutta 
+veya soğuk depo cüzdanlarında saklanabilir. Buradaki veriler güvenilir ve eksiksizdir ve CEX'in birçok altcoin seçeneği vardır, 
+ancak Bitcoin hâlâ en önemli seçenektir.
+Mobil versiyon olumlu değerlendirildi ve döviz kurları iyi. Bazılarının yaşadığı yakınma, doğrulama sürecinin 
+zahmetli olmasıdır, ancak bunun diğer tarafı, elbette, daha fazla güvenlik ve kötü aktörlerin içeri girmesi 
+konusunda daha az endişedir. Bilge bir söz: Ücretlere dikkat edin. Hepsi, her zaman.
+5.6 Polonieks
+Poloniex, bazılarının kripto para biriminin "Mall of America"   dediği şeydir. 2014'ten beri piyasada ve bugün dünya 
+liderleri arasında sayılıyor. Çocuk oyuncağında bir hesap oluşturma. 100'den fazla döviz çifti var, bu yüzden mevcut 
+bilgi miktarı nedeniyle itfaiye hortumundan bir yudum su almaya çalışıyormuş gibi hissedebilirsiniz. Uzman 
+yatırımcılar analitik araçları ve oldukça önemli olan hacmi sevecekler.
+Ücretler makuldür ancak navlun ücretinin ne kadar gelip gittiğini her zaman bilmeniz gerekir. Yorumlar müşteri hizmetlerinin 
+berbat olduğunu söylüyor.
+5.7 Kraken
+Kraken, euro, yen, dolar, Kanada doları ve İngiliz sterlini cinsinden önemli hacimlere sahip devasa ve saygın bir bitcoin borsasıdır 
+ve bu da gelişmiş tüccarlar için bazı etkileyici arbitraj fırsatlarının önünü açar. Kraken ayrıca aralarında Ether, Ripple, Monero, 
+Ethereum Classic, Litecoin, Dogecoin ve Zcash'in de bulunduğu bir ton altcoin'e yatırım yapmanıza veya ticaret yapmanıza 
+olanak tanır.
+Marj hesapları mevcuttur; ancak bunlar, önemli bir ticaret deneyimi olmayan kişilere önerilmez. Kraken, bir 
+Bloomberg terminali gibi zengin özelliklere sahiptir ve kullanımı da bir o kadar sezgiseldir, yani pek de öyle değildir. 
+Bu, Coinbase gibi bir sitede temel konularda uzmanlaştığınızda araştırmak için mükemmel bir sitedir.
+40
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+6.0 Teknik Ticaret
+Temel analistler fiyat grafiklerine teknik yatırımcılardan tamamen farklı ve çok daha basit bir şekilde bakar ve 
+düşünürler. Gazetelerde, yatırım dergilerinde ve finans haber kanallarında en sık gördüğünüz grafikler, fiyatı 
+dikey Y eksenine, zamanı (çeşitli aralıklarla) yatay X eksenine gösterir.
+Bu fiyat grafikleri genellikle veri noktalarının bağlanmasıyla oluşturulan nispeten düzgün kıvrımlı çizgiler gösterir. Bu tür 
+grafikler teknik analiz için tamamen işe yaramaz değil ancak çoğu ciddi yatırımcı, çok daha fazla veriyle dolu farklı türdeki 
+grafikleri tercih ediyor.
+Aşamdan grafiğibir günlük ticaret faaliyetini kapsar. Her mum çubuğu açılış, yüksek, düşük ve kapanışı 
+gösterir. Günün yüksek fiyatı, bir hat segmentinin en üst noktasını oluşturur; Seans sırasındaki düşük fiyat 
+diptir.
+Kapanış ve açık, bu çizgi üzerinde yatay çizgilerle işaretlenir ve bu çizgiler uzun bir dikdörtgen oluşturur.vücut,
+mumveyaşamdan. Vücuttan yukarıya doğru uzanan bölüme denir.üst gölge; Aşağıdaki bölüm şu şekilde anılır:
+alt gölge(veyafitilveyakuyruk). Hangi karma işaretinin açık, hangisinin kapalı olduğunu söylemek imkansız 
+olduğundan, kutu genellikle renk kodludur:
+Açık kapanıştan yüksekse gövde genellikle siyah veya kırmızıdır. Eğer kapanış, açılış seviyesinin üzerindeyse, grafik 
+genellikle yeşil renk gösterir veya içi boş/renksiz/beyaz bir mum çubuğu kullanılır. Mum çubuğunun gövdesi, 
+üstündeki veya altındaki çizgilere göre uzun, normal veya kısa olarak tanımlanır.
+Sadece açık olma ihtimaline karşıtehlike: Bazıları bu tür bir grafiğin 1700'lü yıllarda Japonya'da tanınmış bir pirinç tüccarından geldiğini 
+öne sürüyor ve birkaç sadelik yanlısı buna saygı göstererek bunlara "Japon şamdanları" adını vermekte ısrar ediyor. Şamdanlar, 
+bazılarını daha sonraki bir bölümde ele alacağımız 40'tan fazla tanınmış desen oluşturur.
+6.1 Etkin Piyasa Hipotezi
+Bir hesap açmadan veya hatta bir fareye tıklamadan önce, yatırımcıların çoğumuzun muhtemelen o zamandan beri 
+düşünmediği Ekonomi 101'in küçük bir parçası hakkında biraz düşünmesi gerekiyor.Etkin Piyasa Hipotezi.Büyük Fikir, 
+herhangi bir piyasadaki katılımcıların, işlem gören menkul kıymetle ilgili bilinen tüm bilgilerin fiyatlandırılmasıdır.
+Kulağa oldukça hoş geldiği kesin. Tarih de bunu doğruluyor gibi görünüyor: Kazanç raporu gibi yeni bilgiler yayınlandığında 
+ortaya çıkan (çoğunlukla) önemli fiyat dalgalanmalarından başka bir şeye bakmaya gerek yok. Chipotle, E. coli salgınıyla 
+mücadele ediyor ve hisse fiyatları düşüyor. Başka bir büyük şirket, maliyet tasarruflarının kârlılığı artıracağı düşüncesiyle 
+yatırımcıların fiyatları artırarak neşelendirdiği işten çıkarmaları duyurabilir. Ve benzeri. Ancak Etkin Piyasa Hipotezinin nereye 
+kadar gidebileceğinin de elbette bir sınırı var.
+42
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+A Şirketinin ve B Şirketinin her ikisinin de eşit gelir ve kazançlara sahip olduğunu varsayalım. Hatta aynı temettüyü ödeyebilirler ve 
+benzer bilançolara sahip olabilirler. Ancak bu şirketlerin değeri yalnızca değişmekle kalmayacak, aynı zamanda büyük farklılıklar da 
+gösterebilecek, çünkü hiçbir iki şirket tam olarak aynı olmadığı için elmalar ile elmalar arasında doğrudan karşılaştırmalar yapmak 
+kesinlikle imkansızdır. Söyleyebileceğimiz en iyi şey oldukça yakın olmalarıdır, ancak gerçekte hiç de yakın olmayabilir.
+Fiyatlandırma farkının bir diğer kısmı da kronoloji yani zamandır. Zaman geçtikçe bir şirket, sonuçları ve diğer sektör 
+dinamikleri hakkında daha fazla şey ortaya çıkar. Ancak bu fiyat farkının daha büyük bir unsuru, yatırımcıların her zaman 
+nihai çıkarlarına göre hareket etmemelerinden kaynaklanacaktır.
+Başka bir deyişle, yatırımcılar bazen dürtü, içgüdü veya duyguya dayalı olarak irrasyonel kararlar alabilirler. Etkin Piyasa 
+Hipotezi bu nedenle ölümcül derecede kusurludur. Eğer bu doğru olsaydı, takaslara gerek kalmazdı; fiyatları alıcılar ve 
+satıcılar belirlemezdi; bunun yerine fiyatlar, çift-kör açık artırma pazarlıklarıyla değil, algoritmayla belirlenirdi.
+Tekrar etmekte fayda var: Yatırımcılar her zaman kendi çıkarları doğrultusunda hareket etmezler. Öyle olsa bile, o 
+ilgi ve onu oluşturan faktörler o kadar sık   değişiyor ki, söz konusu ilgi artık tartışmalı hale geliyor. Etkin Piyasa 
+Hipotezi doğruysa ancak uzun vadede doğrudur. Kısa vadede tüccarlar aşırı tepki verme eğilimindedir. Hiç kimse - 
+zaten çok az kişi - kısa vadeli piyasanın miyopluğunu küçümseyerek meteliksiz kalmadı. Bay Morgan'ın yatırımcıların 
+bahis oynadığı dalgalanmalar bunlar olduğunu belirtti.
+O zaman soru şu: Kripto para ticaretinde en iyi yaklaşım hangisidir? Çoğu yatırımcı şununla başlar:temel analiz
+- Bir şirketin mali temellerini incelemek ve karşılaştırmak için kasıtlı bir süreç. Bu, Etkin Piyasa perspektifine 
+aykırıdır: Yatırımcılar, tüm piyasa katılımcılarının anında erişebildiği bilinen bilgileri inceliyor.
+Bilgi çağında, yalnız bir analistin şimdiye kadar dikkate alınmamış veya gerçekleşmemiş bazı gerçeklere 
+rastlayabileceği fikri düpedüz aptalcadır. Ancak tartışmanın hatrına, Etkin Piyasa Hipotezi'ni akıllıca reddeden 
+temel analizin kutsal metinler kadar kutsal olduğunu varsayalım. Sorun şu ki, kripto para birimine ilişkin temel 
+bir analiz yok. Değerlendirilecek kesinlikle sıfır temel var.
+Piyasa katılımcıları yalnızca ne kadar bitcoin bulunduğunu ve piyasanın herhangi bir anda bunların değerinin ne olduğunu 
+söylediğini bilir. Bu, yatırımcılara yalnızca tek bir somut veri kaynağı bırakıyor: Bitcoin fiyatlandırması. Dolayısıyla Bitcoin 
+ticaretine tek mantıklı yaklaşım, bir şirket hakkında fiyat dışında tüm bilgilerin göz ardı edildiği teknik analizdir. Bu saf bir 
+ticarettir.
+Tamam, bu bir çeşit dersti. Pirinç meselelerine geçelim. Piyasa her zaman haklıdır ancak kısa vadede her zaman 
+geçerli değildir. Aşırı tepki verme eğilimindedir. Kısa vadede bu bir sandıktır (fiyatlar bir politikacının onay rakamları 
+gibi dalgalanır), ancak uzun vadede sonuçları tartan bir terazidir. Bu arada? Tam bir kargaşa. Ticaret için mükemmel 
+bir yer.
+43
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+6.2 Teknik Ticaretin Potansiyeli
+Teknik ticaret yalnızca yatırıma basitleştirilmiş bir yaklaşım sunmakla kalmaz, aynı zamanda sadece satın alıp elde tutmaktan çok daha 
+büyük bir getiri potansiyeline sahiptir. Şimdi, elbette, satın al ve tut stratejisi işe yarıyor Zamanla, bu yöntemi kullanarak paranızdan 
+güçlü kazançlar elde etme potansiyeli aslında sadece çok güçlü değil, aynı zamanda istatistiksel olarak da muhtemeldir.
+Örneğin ABD borsasının tarafsız bir değerlendirmesi, Standard & Poor's 500 Endeksi'nin 1965'ten 2015'e 
+kadar yıllık ortalama %11,1 kazanç elde ettiğini gösteriyor. Bu, tüm temettülerin yeniden yatırımını da içeren 
+%9,5'lik yıllık bileşik büyüme oranına eşittir.
+Bu büyüme hızında, bir yatırımın değeri yaklaşık olarak her 7,5 yılda bir ikiye katlanır. Bunu hesaplamak kolaydır: 
+Herhangi bir getiri oranını 72 sayısına bölerseniz sonuç, yatırımın anaparasının iki katına çıkması için gereken yıl 
+sayısı olacaktır. Buna 72 Kuralı denir.
+Bu iyi. Ama iyi her zaman büyüklerin düşmanıdır. Yani %9,5'lik yıllık bileşik getiri oldukça iyi olsa da, tam anlamıyla 
+mükemmel bir seviyeye ulaşıldığında bununla yetinmek için hiçbir neden yok. Şunu düşünün: Bir yılda ortalama %1,25 
+getiri sağlayan 26 işlem gerçekleştirirseniz, neredeyse dört kat getiri elde edersiniz. Bunun nedeni, matematiğin %1,25 
+çarpı ilk anaparanın 26 katı kadar sonuçlanmamasıdır.
+Aksine, yılda %38,5'e ulaşıyor; bu da piyasadan rasyonel olarak beklenebilecek rakamın neredeyse DÖRT katı. bu bir Harikageri 
+dönmek. Bir kişinin (yalnızca) %25'lik bir kazanç elde edebileceğini varsaysak bile, sonuç yine de makul bir yıllık rakamdır. Beş yıl 
+sonra, bu gerçekten dikkate değer: S&P 500 Endeksi ile ölçülen borsa muhtemelen her zaman kazandığını, yaklaşık %9,5'u 
+kazanacak. Beş yıl içinde 10.000 dolar kabaca 15.000 dolara çıkacak. Ancak mütevazı derecede başarılı ticaret bile aynı on bin 
+doları 30.000 dolardan fazlaya dönüştürüyor!
+Oradan gelen sayılarla oynamak günah değil. Örneğin, yalnızca ortalama kazancı %1,30'a çıkarmak, iğneyi %40'lık bir yıllık 
+getiriye taşır. Ve bunu başarmak için bir yatırımcının yalnızca %1,25'lik net başarı oranına ulaşması gerekir her iki haftada 
+bir.Bu mümkün mü? Kesinlikle. Goldman Sachs ve Renaissance Technologies gibi büyük finans kuruluşlarının ticaret 
+masalarına sormanız yeterli.
+Sonuçta neyin kim tarafından, hangi sebeple alınıp satıldığı pek de önemli değil. Bu, uzun vadeli al-tut 
+yaklaşımını tercih eden temel yatırımcılar için geçerli. Teknik bir yatırımcı için önemli olan tek şey ticaretin 
+olmasıdır. Bir grafik ortaya çıktığında, yapılacak bir ticaret var.
+6.3 Açığa Satışa Giriş
+Saf ticareti anlamanın ilk adımı, daha önce duymuş olabileceğiniz, "açığa satış" olarak bilinen bir kavramı 
+kucaklamaktır.
+Çoğu yatırımcı için - borsadaki "satın al ve tut" kalabalığının daha iyi bir terimi olmadığı için - yatırım yapmak bir şey satın almak 
+anlamına gelir. Fikri anlamak yeterince kolay: Bob, General Electric'in 100 hissesini satın alıyor çünkü şöyle düşünüyor:
+44
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Her ne sebeple olursa olsun şirketin hisselerinin fiyatı artacaktır. En iyi senaryoda Bob, GE hisselerini daha sonra satacağı 
+fiyattan daha düşük bir fiyata satın alıyor.
+Ödediği fiyat ile sattığı fiyat arasındaki fark kârdır. Düşükten al, yüksekten sat. Hepimiz bunu daha önce duymuştuk. Açık 
+olmak gerekirse, piyasada para kazanmanın güvenli bir yoludur. Ancak - ve bu çok önemli - bu güzel dünyada bir 
+yatırımcının bu iki adımı belirli bir sırayla atması gerektiğini söyleyen hiçbir kural yoktur.
+Bu ne anlama geliyor? Elbette, ana fikri anlayana kadar bu biraz mantık dışı olabilir. Ancak buna sadık kalın 
+çünkü bu, TÜM başarılı yatırımcılar için hayati bir kavramdır.
+Bir yatırımcının fiyat artışına "bahis oynaması" düşük fiyattan alıp yüksek fiyata satma şeklindeyse, mantıksal olarak yatırımcıların 
+DÜŞÜŞ fiyatına bahis yapma şeklinin tam tersi olduğu, yüksekten satıp düşükten satın aldığı sonucu çıkar; diğer bir deyişle, adımları 
+geriye doğru atın.
+IBM'in yükseleceğine dair bahse girmek isteyen biri, kar elde etmek amacıyla hisseleri satın almayı seçebilir. Eğer kişi 
+fiyatın düşeceği üzerine bahse girmek istiyorsa, satmak zorundadır. Açık soru, bir yatırımcının sahip olmadığı bir şeyi 
+meşru bir şekilde nasıl satabileceğidir. Cevap kolaydır; yatırımcı onu ödünç alır.
+Fiyat düşüşü üzerine bahse girmek, yani bir menkul kıymette "kısa pozisyon açmak" için yatırımcı bir miktar borç alır ve onu hemen 
+yeniden satar. Frank 3M'in düşeceğini düşünürse hisselerde açığa satış yapar. 150$ olduklarını söylüyorlar. Frank 100 hisseyi borç alıp 
+bu fiyata satıyor. Hesabında 15.000 dolarlık bir kredi bakiyesi görünüyor. Frank'in komisyoncusuna ne kadar borcu var?
+15.000 dolar dediysen yanılıyorsun. Frank borç almadı. Hisse senetlerini ödünç aldı ve geri vermesi gereken hisse 
+senetleridir. (Ata sözü şudur: Kendisine ait olmayanı satan/geri satın alan ya da hapse giren.”
+Bu noktada iki şey olabilir. Ya hisse senedi yükselebilir, bu da Frank'i ödediğinden daha fazla parayla geri almaya zorlar ya 
+da fiyat düşer ve Frank onu daha ucuza satın alabilir. Fiyat 140 dolara düşerse, satıcı Frank hisse başına 10 doları 
+düşüşten temizleyecektir; tıpkı fiyat aynı miktarda artacaksa alıcının aynı parayı cebine atması gibi. Frank yüksek fiyata 
+satıp düşük fiyata satın aldı. Hiç kimse bu ticareti yaparken meteliksiz kalmadı. (Kesinlikle güzel bir ücret alan 
+komisyonculuk değil.)
+Açığa satış piyasa likiditesini garanti eder. Likidite, hem alıcıların hem de satıcıların işlemesi gereken herhangi bir piyasa için hayati 
+öneme sahiptir. Tabii ki daha geniş nokta şu ki, bilgili bir tüccar, anında şeffaf fiyatlandırma olduğu sürece her piyasada para 
+kazanabilir. Açığa çıkmayı anlayıp benimsedikten sonra çıkarılacak temel çıkarım şu: Yatırımcıların para kazanması için fiyatların yukarı 
+veya aşağı yönlü bir eğilim göstermesine gerek yok, fiyatların hareket etmesi yeterli.
+45
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+6.4 Destek ve Direnç
+Grafikler ve fark edebileceğiniz modeller, arz ve talep güçlerini bir grafik üzerinde basit bir çizgide 
+birleştirerek tüm alım ve satımları perspektife koyacaktır. Desenler, boğalar ve ayılar arasındaki sürekli 
+çekişmeyi analiz etmek için bir çerçeve sağlar.
+İlk kavram, "destek" ve "direnç" şeklindeki ikili fikirdir. Destek, alımları cezbedecek kadar düşük olan temel fiyattır. 
+Daha fazla satın alındıkça talep artar ve fiyat da artar. Bu alım satımların arkasında milyarlarca faktör bulunabilir, 
+ancak tüm teknik yatırımcıların ilgilendiği ve odaklandığı şey fiyattır.
+Direnç ise tam tersidir. Yatırımcıların ödemeyeceği bedel bu. Lilly Facebook'un bir hissesi için 49,95 dolar ödemeye razı 
+olabilir ama 50 dolar ödemeyecek. Sebebi hakkında spekülasyon yapmak için yine bir neden yok.
+Önemli olan, her şeyin çok pahalı hale gelebileceğini, bu noktada diğer sahiplerin satmaya ve karlarını almaya 
+karar verebileceğini anlamaktır. Bu yeterli miktarda gerçekleştiğinde ilave arz, talebin tersi etki yaparak fiyatı 
+düşürür. Teknik bir trader olarak bilmeniz gereken tek şey, fiyatların destek ve direnç seviyeleri arasında 
+dalgalanma eğiliminde olduğudur.
+6.5 Trend çizgileri
+Grafik desen analizi, kısa vadeli veya uzun vadeli tahminler yapmak için kullanılabilir. Veriler gün içi, günlük, 
+haftalık veya aylık olabilir ve desenler bir gün kadar kısa veya yıllar kadar uzun olabilir. Boşluklar ve dış 
+dönüşler tek bir işlem seansında oluşabilir, genişleyen tepeler ve hareketsiz diplerin oluşması ise aylar 
+sürebilir.
+Teknik ticaret, Wall Street'te kitlesel yasal geçiş dönemi olan 1930'ların başlarında yatırım bilincine girdi. 1929 
+Çöküşü sadece Büyük Bunalım'a yol açmakla kalmamıştı, aynı zamanda adil piyasaları teşvik etmek için tasarlanmış 
+yeni bir menkul kıymet kanunları çağının da habercisiydi.
+İster inanın ister inanmayın, komisyoncunuzun ve Wall Street'in uyması gereken kuralların çoğu daha 
+doğmadan önce tasarlandı. 1932'de Richard Schbacker, bugün bildiğimiz kalıp analizinin temellerinin çoğunu 
+oluşturan Teknik Analiz ve Hisse Senedi Piyasası Karları'nı yayınladı. Kitapta Schbacker'in hemen bir uyarıda 
+bulunduğunu düşündüm:
+Ancak harita okuma bilimi, belirli kalıpları ve resimleri ezberlemek ve genel olarak tahmin ettiklerini 
+hatırlamak kadar kolay değildir. Herhangi bir genel hisse senedi grafiği, sayısız farklı modelin birleşimidir ve 
+doğru analizi, sürekli çalışmaya, uzun deneyime ve tüm ince ayrıntılara ilişkin bilgi birikimine bağlıdır.
+46
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+hem teknik hem de temel noktalar ve hepsinden önemlisi karşıt göstergeleri birbirine göre tartma, resmin 
+tamamını en küçük ve bileşik ayrıntılarının ışığında ve aynı zamanda belirli ve ezberlenmiş herhangi bir 
+formülü tanıyarak değerlendirme yeteneği.
+Schbacker açıkça harita okumayı bilim olarak nitelendiriyor. Ama aynı zamanda bir dereceye kadar sanatsallık da var. Ayrıca 
+örüntü tanımanın yoruma açık olduğu ve dolayısıyla kişisel önyargıya tabi olduğu da kabul edilmelidir. Buna karşı savunma 
+yapmak, teknik analizin diğer yönlerini kullanmak anlamına gelir. Bunu Ada Kuralı olarak düşünün: Hiçbir sayı tek başına ayakta 
+duramaz. Herhangi bir fiyat, oran veya diğer ölçüm yalnızca rasyonel karşılaştırma bağlamında faydalıdır. Wall Street'teki hiçbir 
+sayı yalnızca göründüğü gibi değerlendirilemez. Bağlamsallaştırılmalıdır.
+Hiçbir bilgi, hatta fiyat bile tamamen boşlukta mevcut değildir. Kusurlu olsa da öğretici olabilecek Etkin Piyasa Hipotezi'ne bir 
+göndermeyle. İşin püf noktası, dikkate alınan yatırım durumunu doğrulamak veya çürütmek için mevcut tüm verileri 
+değerlendirmektir. Sonuçlar doğru mu? Kontrol edin ve iki kez kontrol edin.
+Hiç kimse her modeli göremez, hiç kimse geleceği kesin olarak tahmin edemez. Bu nedenle, birçok model benzer görünse 
+de hiçbirinin tam olarak aynı olmadığını unutmayın. Yanlış kırılmalar, yanlış okumalar ve elbette kuralın istisnaları teknik 
+ticaretin bir parçasıdır.
+6.6 Bir Çartist Gibi Düşünmek
+Grafikte oldukça dik bir şekilde yukarıya doğru eğimli bir çizgi düşünün, örneğin %45. Bu Wimpy's Hamburgers için (varsayımsal) 
+fiyat tablosudur. Normal bir temel piyasa analistinin alım/satım kararı vermek için bu görüntüye nasıl yaklaşacağını düşünelim.
+Fiyat grafiğinin yorumlanamayan yükselişi, çok başarılı ve hızla büyüyen bir işletmenin göstergesi: Üç aylık sonuçlar 
+etkilemeye devam ediyor. Büyüme stratejisi güçlü, pazar derin ve şirketin seçkin ürünleri ona rakiplerine karşı 
+sürdürülebilir bir rekabet avantajı sağlıyor. Temel bir analistin şirketin geçmiş performansına dayanarak 
+muhtemelen bir "satın alma" tavsiyesi ve hatta belki de güçlü bir satın alma tavsiyesi vermesi muhtemeldir. 
+Buradaki konsepti anlamak için Wharton School of Business'tan doktora derecesine ihtiyacınız yok:
+Analist basitçe geçmiş sonuçlara bakar, bileşik büyüme oranlarını belirler; ihtiyatlılık adına ve tedarik zinciri kesintisi 
+veya döviz dalgalanması gibi gerçek anlamda bilinmeyenleri telafi etmek adına bunu biraz indirir. Bu analizin 
+sonucu bir çizgiden daha karmaşık bir şey değildir. Düşünce basittir: Eğer bugünkü fiyat X ise ve rasyonel olarak 
+yıllık %8 kazanç artışına güvenilebilirse, o zaman gelecekteki fiyat oldukça basit bir denklemde çözülebilir değişken 
+olacaktır.
+Analist, "Fiyat bugün 40 dolar ise, mevcut sektör eğilimleri ve şirketin mali performans geçmişi göz önüne 
+alındığında, hisselerin önümüzdeki 12 ay içinde beklenen olası getiriyi aşarak 52,50 dolara ulaşacağını 
+varsaymak mantıklı olacaktır" Daha geniş bir pazarın."
+Elbette savunulabilir bir konumdur. Ve bir haritacının şöyle cevap vereceği bir soru: "Siz efendim, tamamen aklınızı 
+kaçırmışsınız." Kibar grafikçimiz bu cesur iddiayı nasıl ileri sürebilir? Matematik.
+47
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Analistin gelecekteki bir fiyatı tahmin etmek için kullandığı aritmetik aynı zamanda farklı bir sonuca da işaret 
+edebilir. Grafikteki çizgi fiyatı temsil ederken, grafiğin alt ekseni çok daha önemli bir değişkeni, zamanın geçişini 
+gösterir.
+Newton'un hareket yasası, hareket halindeki bir nesnenin, dışarıdan bir kuvvet uygulanmadığı sürece hareket halinde kalma 
+eğiliminde olduğunu belirtir. Başka bir deyişle, bir şey olmadığı sürece bir şey süresiz olarak belirli bir hızla hareket edecektir. 
+İşte Ada Kuralı burada devreye giriyor. Herhangi bir zaman dilimindeki fiyat grafiği aynı döneme ait başka bir fiyat grafiğiyle 
+karşılaştırılmalıdır.
+Teorik Wimpy's Hamburgers'ımız örnek fiyatlarında yalnızca artış görse de, bu olgu gerçek hayatta meydana 
+gelmedi. Fiyatlar bir dönem yukarıya doğru hareket edebilir ama aynı zamanda düşüşe de geçecektir. 
+Grafikçimiz yalnızca bazı basit ama çok sağlam yazı-tura istatistiklerini kullanıyor: Para eninde sonunda tura 
+düşecek. Örneklem boyutu arttıkça veriler yazı ve tura oranlarının tamamen eşit olduğunu gösterecektir. İki 
+sonuç olduğunda matematik budur.
+Piyasada elbette sonsuz sayıda sonuç var. Bilge biri tüm olasılıkların 50-50 olduğunu söyleyebilir; bir şey ya olacaktır ya da 
+olmayacaktır. Bir grafikçi bu düşünce tarzını istisna kabul edecektir. Olasılıkları daraltmak için geçmiş sonuçları işlemek 
+için matematiği kullanmaya çalışacaktır. Yazı veya tura olmak üzere iki sonuç üzerine bahis oynamak yerine, iki tarafın 
+Standard & Poor's 500 Endeksi'nin sonucu - gelecek yılın ortalama yıllık getirisini aşıp aşmayacağı - üzerine bahis 
+oynamayı kabul ettiğini varsayalım. Her iki tarafın da yalnızca endeksin geçmiş performansının bir listesi vardır ve başka 
+hiçbir bilgisi yoktur.
+Wiseacre bu oranları 50-50 olarak değerlendiriyor. Onun beklentisi %100 kazanç veya kayıptır; bu da başka bir saf risk 
+oyunudur. Gerçek şansına bakmıyor. Aslına bakılırsa, seçiminin gerçekten güvenilir tek tahmincisi, yaptığı son bahistir.
+Grafik uzmanı daha ihtiyatlı bir yaklaşım benimsiyor. İlk önce piyasanın ortalama yıllık getirisini, yani aritmetik 
+ortalamayı belirliyor. Bu yeterince kolay: Değerleri toplayın ve toplam sayılarına bölün. Değerler ne kadar fazla 
+olursa ortalama o kadar iyi (yani daha doğru) olur. Bu, golften bir terim ödünç almak gerekirse, rasyonel bir 
+karşılaştırma noktası sunar. Bu değerler elbette ki bu durumda delikten deliğe değil, yıldan yıla değişecektir.
+Normdan sapmayı göz önünde bulunduran grafikçi, bunların her yıl tam olarak ne kadar değiştiğini ölçerek tam anlamıyla ölçer. 
+Görünüşe göre bu, rastgele olayları bile nispeten öngörülebilir kılıyor. İstatistikler, rastgele bir serideki tüm sonuçların yaklaşık 
+üçte ikisinin ortalamanın belirli bir aralığında gerçekleştiğini göstermektedir.
+Buna standart sapma veya “sigma” denir ve sanki bir grafikteymiş gibi bir ölçü birimi olarak ifade edilir. Dolayısıyla, 
+olasılıkların 50-50 olduğunu söylemek yerine, grafikçi artık biraz daha ileri giderek S&P'nin yaklaşık 10 yılda yedi yılda 
+ortalama getiriden bir sigma içinde geri döneceğini söyleyebilir.
+Bu ortalama, tesadüfen, %11,1'dir (1965'ten 2015'e kadar olan veriler kullanılarak). Kararın özü, endeksin 
+ortalamasını aşıp aşmayacağının belirlenmesinde yatıyor. Grafikçi burada da yine tarihsel verilere atıfta bulunacak:
+48
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Örneğin, eğer önceki iki yıl piyasa için tarihsel ortalama getiriyi aşan "yükseliş" yıllarıysa, grafikçi üçüncü yılda 
+olup bitenlerin bir listesini yapacaktır.
+Piyasanın iki yıl boyunca yükselişe geçtiği her durumda tarihsel ortalamasını tutturamadığı söylenebilirse, 
+doğru tahmin şansı önemli ölçüde arttı ve ilgili bahisçilere kalan tek soru ne kadar istekli olduklarıdır. 
+Potansiyel başarıları için hesapladıkları olasılıklar göz önüne alındığında risk almak.
+Regresyon analizi ciddi hesaplama gerektirir ancak çıkarım basitçe şudur:Çoğu sonuç ortalama olacaktır. Yani 
+geçen sefer ne olduğuna bakarak bir sonraki sefer ne olacağını tahmin etmede önemli bir avantaj elde etmek 
+mümkün. Kusursuz değildir, ancak olasılıkları lehinize yığmak için örüntü tanıma ve istatistiksel analizin 
+gücünü kullanabilirsiniz.
+Temel analist bunu net bir satın alma olarak görüyor. Grafikçi daha güçlü bir satış sinyali bulamadı. Her ikisi de başarılı 
+olabilir; bu tamamen ticaretin zaman çerçevesine bağlıdır. Uzun vadeli sahip olanın olumlu, hatta eşit bir sonuç elde 
+etmesi pekâlâ mümkün olabilir.
+Temel ve teknik, yalnızca entelektüel bir perspektif meselesi, bir metodoloji meselesidir. Her ne kadar temel analizin 
+babası ve Warren Buffett'ın akıl hocası Benjamin Graham, alım satımı daha fazla spekülasyon olarak algıladı ve bir 
+şekilde oranlar ve yüzdeler hakkında aralıksız gevezelik etmekten daha aşağı kaldı. Değil. Ticarette yanlış bir şey 
+yok. Ticaret (veya skandal bir şekilde "spekülasyon") ile yatırım yapmak arasındaki farkı belirtmek istiyorsanız bu 
+size kalmış.
+6.7 Yeniden Belirleme ve İnceleme
+1.Uzun vadeli grafiklerin incelenmesiyle başlayın.Başkasını dinlemeyin, kendi haritanızı yapmadan başkasının 
+haritasını kabul etmeyin. Analizinize aylık, ardından haftalık grafiklerle başlayın ve uzun perspektifi (yıllar) koruyun. 
+Elbette GPS'iniz size bir sonraki caddeyi gösterir, ancak genel haritayı aklınızda tutmanız gerekir. Genel olarak pazar, 
+benimsediğiniz uzun vadeli bakış açısıyla size daha fazla görünürlük kazandırır. Makroda kendinizi rahat hissettikten 
+sonra mikroda işlem yapmaya hazırsınız demektir. Burada günlük ve gün içi grafikler devreye giriyor. Kısa vadeli 
+görünümün yanıltıcı olabileceğini unutmayın.
+2. Trendi takip edin. Belki uzun vadeli bir trend, belki de çok kısa vadeli bir trend. Hangisiyle işlem yapmak istediğinizi belirleyin 
+ve ihtiyatlı kararlara rehberlik etmek için kendinizi doğru grafikle donatın. Örnek olarak, trend yükselişteyse düşüşleri satın alın. 
+Eğilim olumsuzsa mitingler sat. Ara trendler günlük ve haftalık grafikleri zorunlu kılar. Günlük işlemlerde günlük veya gün içi 
+grafikler kullanılır. Her iki durumda da, tanımladığınız uzun vadeli eğilimi gözden kaçırmayın. Unutma. Onunla mücadele 
+etmeyin ve zorlamayın.
+3. Hangi zaman dilimini seçerseniz seçin,destek ve direnci belirleyin.Bu sağduyulu ve aynı zamanda biraz 
+mantığa aykırıdır; en iyi plan destekten satın almak ve direnç yakınında satmaktır. AMA – lütfen, lütfen şunu 
+unutmayın – KİMSE, HİÇ KİMSE, HİÇ KİMSE her dipten alıp her tepeden satamaz. Eski Wall Street atasözünü 
+hatırlayın: Boğalar para kazanır, ayılar para kazanır ve domuzlar katledilir!
+49
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+4. Grafiğinize trend çizgileri çizin.Basit ama etkilidirler ve ihtiyaç duyulan tek şey bir cetvel ve grafikteki iki noktadır. “Yukarı” 
+trend çizgileri birbirini takip eden iki düşük seviye boyunca çizilir.
+"Aşağı" trend çizgileri birbirini takip eden iki yüksek seviye boyunca çizilir. Fiyatlar genellikle trendlerine devam etmeden önce trend çizgisine 
+geri çekilme eğilimindedir. Trend çizgilerinin kırılması çoğu zaman bir trend değişikliğini simgelemektedir. Bir trend çizgisi ne kadar uzun süre 
+mevcut olursa, o kadar çok bağ test edilir ve tahmin aracı olarak o kadar kritik hale gelir.
+5. Hareketli ortalamalar dostunuzdur.Objektif alım/satım sinyalleri sağlayabilirler. Algıladığınız eğilimin hâlâ geçerli olup 
+olmadığını size gösterebilirler. İyi haber bu. İşin kötüsü, bir trendin değişmek üzere olup olmadığını size önceden söyleyemezler. 
+Burada yine bağlam sorunuyla karşı karşıyayız ve resmi daha net hale getirmek için biraz daha veri aramamız gerekiyor:
+İki hareketli ortalamanın birleşimi, ticaret sinyallerini tespit etmenin popüler bir yoludur. 4 ve 9 günlük hareketli ortalamalara, 9 
+ve 18 günlük, 5 ve 20 günlük hareketli ortalamalara bakmayı deneyin. Bu sinyal nasıl tespit edilir?Bu, daha kısa ortalama 
+çizgisinin daha uzun olanı geçtiği zamandır.40 günlük hareketli ortalamanın üstünde veya altında olan bu "fiyat geçişleri" güçlü 
+bir ticaret sinyalidir.
+6.Sesi asla göz ardı etmeyin–bu güçlü bir onaylayıcı göstergedir. Hacim fiyatı aşıyor. Yükseliş trendi sırasında yükseliş 
+günlerinde güçlü hacim görmeyi bekliyoruz. Giderek güçlenen hacim, yeni paranın hakim eğilimi desteklediğini çifte kontrol 
+ediyor. Düşen sütun, bir trendin geri çekilme aşamasında olduğunu gösterebilir. Paket servis:Güçlü bir fiyat yükselişine her 
+zaman artan hacim eşlik etmelidir.
+6.8 Grafik Nasıl Okunur?
+Grafik Tanımlaması.Her grafikte bir tane bulunur ve tam olarak neye baktığınızı bildiğinizden emin olmak 
+istersiniz. Bunun için yalnızca baktığınız şeyin adını bilmeniz gerekmeyecek, aynı zamanda çoğu grafiğin bir 
+dereceye kadar dayandığı hisse senedi sembolünün hem doğru hem de aradığınız şey olduğunu iki kez kontrol 
+etmeniz gerekecektir.
+Bu çok açık görünebilir, ancak herkes yanlış grafiğe dayalı bir işlem yapmıştır; bu aniden olur ve sonuçlar hoş 
+karşılanmayan bir içgüdüsel darbe olabilir.
+Zaman Aralığı.HER ZAMAN x eksenidir. Adlai Stevenson başkanlığa aday olduğundan beri klasik matematik 
+çeyreği hakkında düşünmeyenler için, bu grafikteki yatay çizgidir. Tekrar belirtmek gerekirse, bu belirtilmesi 
+aptalca bir şey gibi görünebilir, ancak gerçek şu ki, bir yatırımcı aynı temel menkul kıymetin 25 grafiğine 
+bakabilir ve zaman dilimi en önemli acil bağlamsallaştırma faktörüdür. Her zaman bak. Eski gazete editörünün 
+sloganını hatırlayın:
+50
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+“Annen seni sevdiğini söylüyorsa, bir bak.” Hiçbir şeyi varsaymayın ve hiçbir şeyi olduğu gibi kabul etmeyin. 
+Gözleriniz açıkken iki ve üç kez kontrol edin.
+Günlük Ticaret Aralığı. Muhtemelen alışık olduğunuz fiyat grafikleri, genellikle işlem gören şeyin kapanış veya gün içi 
+fiyatlarını temsil eden, birbirine bağlı noktalardan oluşan çizgilerdir. Teknik yatırımcılar bundan daha fazla veri talep 
+ediyor. Nokta yerine daha önce bahsettiğimiz Şamdan adı verilen bir dizi dikey çizgi kullanıyorlar.
+Yine işin en üst noktası menkul kıymetin o gün ulaştığı yüksek fiyattır. Alt nokta düşük noktadır ve açılış ve 
+kapanış, aradaki çizgide yer alan karma işaretlerdir.İşlem platformunuzun bunları nasıl gösterdiğini ve renk 
+şemasının neyi temsil ettiğini dikkatlice incelemek isteyeceksiniz.
+Hacim. Bu sonuncusu ama en önemlisi, çünkü hacim (işlem gören birim sayısı) teknik yatırımcı için birinci derecede önem 
+taşıyor. Hacim grafiğin altında çubuk grafik olarak görüntülenir; çubuk ne kadar yüksek olursa hacim de o kadar büyük 
+olur. Bazen çubuklar renk kodludur; kırmızı, bir öncekine göre aşağı kapanışı gösterir. Genellikle ortalama bir rakamı 
+gösteren çubuk grafiğin üzerinden kırmızı bir çizgi geçer.
+( Kurallara Dayalı ticaret sistemimizi öğrenin - Yeni başlayanlar bundan yararlanabilir. Yeni başlayanlar para kaybeder. Uzman yatırımcılar Kurallara Dayalı ticaret sistemlerini kullanır. Biz istiyoruz)
+uzman olmanızı sağlar. Ne olmak istiyorsun?
+6.9 Ortak Harita Çizgileri
+Hisse senedi ticareti yapıyorsanız, muhtemelen grafikte yalnızca tek bir gerçek çizgiyle, yani fiyatla 
+değerlendirilmişsinizdir. Ancak başka birçok kişi de olabilir ve hepsi kendi içgörülerini sunar. Profesyonel ticaret 
+yazılımı yüzlerce grafik seçeneğe sahip olsa da, Google Finans'ta kolayca bulunabilen ve ücretsiz olanlarla 
+başlamanızı sağlayacağız.
+Tarayıcınızın Flash ve Java'nın etkin ve güncel olduğu en güncel sürümünü kullandığınızdan emin olun. Not: Bunu 
+yapmazsanız, bu grafikler kelimenin tam anlamıyla çalışmayı bırakacak ve ekranınızda görünmeyecektir. İşletim 
+sisteminizi bu önemli yazılım yükseltmelerini otomatik olarak arayacak ve yükleyecek şekilde ayarlamak akıllıca bir 
+harekettir. Ve mevcut en sağlam anti-virüs yazılımını çalıştırmak istediğinizi tekrarlamakta fayda var.
+6.9.1 Basit Hareketli Ortalama
+Aritmetik hareketli ortalama, belirli zaman dilimleri için günlük kapanış fiyatının eklenmesi ve ardından bu 
+rakamın zaman dilimi sayısına bölünmesiyle hesaplanır. 10 günlük hareketli ortalama, en son 10 günlük 
+kapanışı gösterir. 10 gün sonra, yani onbirinci günde serideki ilk kapanış fiyatı silinir, 2 numara 1 numaraya 
+kayar ve yeni kapanış onuncu sıraya eklenerek “devam eden ortalama” yeniden hesaplanır. ”
+Kritik çıkarım:Hareketli ortalamalar günlük volatiliteyi yumuşatır.
+51
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+6.9.2 Üstel Hareketli Ortalama
+Basit bir hareketli ortalamaya benziyor ancak son günlere daha fazla ağırlık veriyor. Konsept bu; fazla 
+düşünmeyin. Ve açıkçası buradaki matematik, zor olmasa da, Alan 51'deki enkazdan çıkarılmış bir şeye 
+benziyor.
+Sadece eğlence olsun diye işte formül:
+EMA [bugünün] = (Fiyat [bugünün] çarpı K) bölü (EMA [dünün] çarpı (1 - K))
+Hangisinde:
+K = 2 ÷ (N+ 1)
+N= EMA Fiyatının [bugün] gün 
+cinsinden uzunluğu = mevcut kapanış
+EMA [dün] = önceki EMA rakamı EMA 
+[bugün] = mevcut EMA rakamı
+İlk sabit sayının basit bir ortalamasını oluşturarak başlayın (yani, "N") dönemleri seçin ve bu değeri EMA hesaplamasını 
+başlatmak için kullanın VEYA ilk veri noktasını (kapanış fiyatı) başlangıç   olarak kullanın ve EMA'yı bu noktadan itibaren 
+hesaplayın. Ya da Allah aşkına bırakın mikroçipler işlerini yapsın!
+Kritik çıkarım:“EMA”nın ardındaki fikir, bir günlük olayların ortalamayı çarpıtmamasını ve aslında gerçekleşmeyen bir trende 
+işaret etmemesini sağlamaktır.
+6.9.3 Hareketli Ortalama Yakınsaması/Uzaklaşması
+1960'larda Gerald Appel tarafından geliştirilen MACD, iki hareketli fiyat ortalamasını karşılaştırarak trend 
+momentumunu izler. 26 günlük üstel hareketli ortalamayı 12 günlük EMA'dan çıkararak hesaplıyor. Üçüncü bir 
+unsur, 9 günlük EMAMACD'nin Sinyal çizgisi olarak bilinen MACD'nin üstüne çizilir. Okuması, alım/satım sinyallerini 
+ayırt etmek için kullanılır.
+Kısa vadeli bir ortalama daha uzun bir ortalamanın ÜZERİNDE geçtiğinde, tüccarlar artan fiyat ivmesini algılar. Bu, 
+verilere göre fiyatların yakın geçmişte olduğundan daha hızlı arttığını gösteren bir satın alma sinyalidir. Ama bize 
+şunu söyleyen bilge matematikçi dostumuz Carl Jacobi'yi hatırlayın: “Tersine Çevir! Her zaman tersine çevir! Ve bu 
+durumda ne mutlu ki bu işe yarıyor. Kısa vadeli hareketli ortalama, uzun vadeli ortalamanın ALTINI geçtiğinde 
+bunun tersi olur ve fiyatlar şu anda yakın geçmişte olduğundan daha hızlı bir oranda düşmeye başlamıştır; bu klasik 
+bir satış sinyalidir.
+52
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Tekrar ediyorum, bu matematiği yapmanıza gerek yok. Grafik bunu sizin için yapacak.
+Kritik Çıkarım:Bu, kısa vadeli elde tutma süreleri için kullanılır.
+6.9.4 KDJ Göstergesi
+İşte finansal yazılarla ilgili sevilecek bir şey. Hazırlıklı olun, bu bir yakalayıcıdır. “KDJ göstergesi aslında 
+Stokastik'ten türetilmiş bir formdur; tek fark, J çizgisi adı verilen ekstra bir çizgidir. J çizgisi %D değerinin %K 
+değerinden sapmasını temsil eder.”
+Yani: Evet. Bu bir ağız dolusu. Yeni bir dil öğrenmek zordur, o yüzden bu konuyu tek tek inceleyelim ki geeklik 
+içinde boğulmayalım.
+Stokastikborsanın rastgele ama tahmin edilebilir doğasını anlatır. Herhangi bir günde veya herhangi bir saniyede, size 
+kısa vadede herhangi bir şeyi tahmin edebildiğini söyleyen herkes muhtemelen balon suyuyla doludur ve/veya size değeri 
+şüpheli bir şey satmaya çalışmaktadır.
+Bununla birlikte, değişmez istatistik yasalarını (hepsi birinci sınıfa giriş dersinin ilk haftasında kapsanan aritmetik ortalama, 
+standart hata ve standart sapma) kullanarak, tüm sonuçların kabaca üçte ikisinde S&P'nin yıllık performansının olduğunu 
+söyleyebiliriz. 500, %11,1'lik tarihsel ortalama yıllık getirinin (1965-2015) bir sigmasında olacaktır. Yunanca standart sapma 
+anlamına gelen sigma'nın değerini biliyorsanız, o zaman piyasanın tüm yılların tam üçte ikisindeki olası aralığına ilişkin makul bir 
+tahminde bulunabilirsiniz. Dolayısıyla stokastik, aynı anda rastgele ama aynı zamanda istatistiksel olarak tahmin edilebilir 
+anlamına gelir.
+Iraksaksadece iki yönde ayrılmış anlamına gelir. %D değerinin %K'ya olan mesafesini karşılaştıran J çizgisi 
+tarafından ölçülen şey, ne kadar farklı olduklarıdır.
+%D DeğeriHareketli Ortalama çarpı %K Değeridir.
+%K Değeri100 katıdır (Yakın-En Düşük En Düşük [son “n” dönemin]) / (En Yüksek En Yüksek [son “n” dönemin] – En Düşük En Düşük [son 
+“n” dönemin])
+Gerçek Hayatta şu şekilde çalışır: Osilatör 80'i aştığında, menkul kıymet (bu durumda para birimi) aşırı alım olarak 
+kabul edilir. 20'ye düştüğünde menkul kıymetin aşırı satıldığı söyleniyor. Dolayısıyla, K ve J aşırı satış 
+bölgesindeyken J çizgisi 0'ın altına düştüğünde "satın alma" sinyali yanıp söner. K ve J aşırı alımdayken J çizgisi 
+100'ün üzerine çıktığında “sat” sinyali devreye girer.
+Kritik Çıkarım:Çoğu zaman göreceğiniz şey 20 ile 80 arasında bir değerdir, bu da piyasa koşullarının fiilen nötr 
+olduğunu gösterir. Bu gösterge oldukça yavaş hareket eder ve bu nedenle bazen gecikmeli bir gösterge 
+olarak düşünülür.
+53
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+6.9.5 Bollinger Bantları
+Bollinger Bantları fiyat oynaklığının görsel bir temsilidir ve bu, yeni başlayanların benimsemesi gereken şık bir 
+göstergedir. Bantlar 20 günlük basit hareketli ortalamanın üstünde ve altında çizilir. Volatilite arttıkça veya düştükçe 
+hareket eden standart sapmayı sürekli ölçerler. Dış bantlar iki sigma veya standart sapma olarak ayarlanır
+— orta bandın üstünde ve altında. Volatilite arttıkça genişlerler ve volatilite azaldıkça daralırlar. John Bollinger, kendi adını taşıyan 
+bantların toplam fiyat hareketinin %88 ila %89'unu içermesi gerektiğini, dolayısıyla bu bantların DIŞINDA bir hareketin anlamlı 
+olduğunu, ancak yine de garanti olmaktan uzak olduğunu iddia ediyor!
+Kritik çıkarım:Bollinger bantlarında fiyatların üst bandın üzerine çıktığında nispeten yüksek olacağı düşünülüyor. 
+Öte yandan, alt bandın altına düştüğünde fiyatların nispeten düşük olduğu düşünülüyor.
+6.9.6 Göreceli Güç Endeksi
+1978 tarihli kitabındaTeknik Ticaret Sistemleri için Yeni Konseptler,Welles Wilder, fiyatların hızını ve değişimini ölçen bir 
+momentum osilatörünü tanıttı. RSI 0 ile 100 arasında bir ölçektir. RSI 70'i aştığında menkul kıymetin aşırı alım olduğu kabul edilir 
+(ve satış zamanı gelmiştir). RSI 30'un altına düşerse menkul kıymetin aşırı satıldığı düşünülür, bu da satın alma zamanının geldiği 
+anlamına gelir. Kullanımı kolay, ticarete yeni başlayanlar ve profesyoneller arasında oldukça popüler olan basit bir ölçektir.
+Bunun formülü kolaydır:
+RSI = 100 – (100 / 1+ RS) RS = Ortalama Kazanç / Ortalama Kayıp olduğunda
+Ortalama kazanç ve ortalama kayıp için ilk hesaplamalar basit 14 dönemlik ortalamalardır. Bu sadece son 14 günün tüm kazançlarını 
+toplayıp ortalamasını alacağınız ve ardından aynı şeyi son 14 günün toplam kayıpları için yapacağınız anlamına gelir. Daha sonra RS'yi 
+belirlemek için bölün. Çocuk oyuncağı. Özellikle de bunu bilgisayarın yapmasına izin verdiğinizde, artık nasıl yapılacağını bilseniz bile…
+Kritik çıkarım:Bu, tek başına izlenecek iyi bir göstergedir; ancak bir alım/satım sinyalini tekrar kontrol etmek için onu diğer satırlarla birlikte 
+kullanmayı deneyin.
+6.9.7 Önyargı Oranı
+Bu oran, 2004 yılına kadar kamuoyunda tartışılmamış ve 2006 yılına kadar yayınlanmamış olmasına rağmen, 2001 yılına 
+dayanan teknik alanda nispeten yeni bir orandır. Fiyat manipülasyonu anlamında önyargıyı tespit eder. Fiyatlandırmada 
+önyargının varlığını aydınlatan, getiri dağılımındaki anormallikleri ölçen somut bir ölçümdür. Getirilerin tarafsız bir 
+dağılımdan ne kadar uzakta olduğunu karşılaştırarak çalışır.
+54
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+Kritik çıkarım:Her ne kadar bunun farkında olsanız da, bu, dijital para ticaretinde yardımcı olan bir araç değildir. Bunu okumak zorunda 
+olduğunuza göre Eğlenceli Bir Bilgi almaya hak kazandınız.Bernie Madoff'u bu şekilde ele geçirdiler.
+6.9.8 Williams'ın %R'si
+Düzgün bir şekilde "Williams Yüzde Aralığı" olarak söylendiğinde bu, bir menkul kıymetin aşırı alım veya aşırı satım olup olmadığını 
+belirlemeye çalışan bir osilatördür. İşlem yaparken giriş ve çıkış noktalarını (yani fiyatları) belirlemek için Williams Yüzde Aralığını 
+kullanın. Aralık, 14 günlük bir süre boyunca kapanış fiyatını yüksek-düşük aralıkla karşılaştırarak çalışır. Larry Williams adında bir ticaret 
+uzmanı tarafından icat edildi.
+Formül:
+%R = (En Yüksek Yüksek – Kapanış Fiyatı) / (En Yüksek Yüksek – En Düşük Düşük) x - 100
+Kritik çıkarım:Gelecekte en az bir veya iki gün içinde yakın bir piyasanın tersine döneceğine işaret etmek için tahmine dayalı bir gösterge olarak 
+kullanılması en iyisidir.
+6.9.9 Hızlı ve Yavaş Stokastik Osilatör
+George Lane, 1950'lerde stokastik osilatörü icat etti. 14 günlük bir süre için kapanış fiyatının en yüksek ve en 
+düşük fiyat aralığına göre konumunu gösterir. Lane'in iddiası, diğer her şey eşit olduğunda, fiyat hareketinin 
+hızının gerçek fiyattan önce değişmesiydi. Osilatörün hassasiyeti, zaman aralığını ayarlayarak VEYA 
+okumasının hareketli ortalamasını kullanarak artırılabilir veya azaltılabilir.
+Formül: %K = 100(C - L14)/(H14 - L14)
+Burada C = en son kapanış fiyatı,
+L14 = önceki 14 işlem seansının en düşük seviyesi,
+H14 = aynı 14 günlük dönemde işlem gören en yüksek fiyat,
+%K= döviz çifti için geçerli piyasa oranı ve
+%D = %K'nın 3 dönemlik hareketli ortalaması
+Kritik Çıkarım:80'in üzerindeki okumalar, güvenliğin yüksek-düşük aralığının zirvesinde veya buna yakın olduğunu gösterir. 20'nin altındaki 
+okumaların, menkul kıymetin yüksek-düşük aralığının dibine yakın işlem gördüğüne işaret ettiği düşünülüyor.
+55
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+6.9.10 Hacim Hareketli Ortalaması
+Kendini açıklayıcı: Hacmi değerlendirmek için hareketli bir ortalama.
+Bu, Google Finans'ta bulacağınız başlıca grafik işlevlerini tamamlıyor. Kesinlikle bir molayı hak ettiniz! Şu anda kendinizi 
+kaybolmuş veya bunalmış hissediyorsanız endişelenmeyin. Bu son derece normaldir. Teknik ticaret karmaşıktır ve başlangıçta 
+özellikle matematikle ilgisi olmayanlar için her zaman sezgisel değildir. Ancak bu öğrenilebilecek ve geliştirilebilecek bir 
+beceridir. Kendinize zaman verin.
+Bunu okuyarak veya hatta kelime kelime ezberleyerek öğrenebileceğiniz çok şey var; bu, her göstergenin nüanslarına 
+aşina olmak için kullanmanız ve çokça kullanmanız gerekecek. En iyi tavsiye pratik yapmak, pratik yapmak, pratik 
+yapmaktır. Bu araçları sezgisel hale gelinceye kadar kullanın. Hiç kimse tüm bunların nasıl bir araya geldiğini anlamaya 
+başlamıyor. Çok etkinlikli bir zihinsel jimnastik buluşmasıdır.
+Hepsini bir günde öğrenmeye çalışmayın. Sabırlı olun ve çalışmaya devam edin. Gerçek cephaneyi kullanmadan önce bu göstergelerin 
+her birini hedef menzilde rahatça kullanın.
+Hesap açmaya karar vermeden önce çeşitli işlem platformlarında bulunan verilere ve analiz araçlarına 
+yakından bakın. Birçoğu, yeni başlayanların yeterince yararlanamayacağı video eğitimleri gibi ek öğrenme 
+fırsatları da sunacak.
+Artık grafiğin temellerini ve karşılaşmanız muhtemel analitik araçlardan birkaçını ele aldığımıza göre, kripto para 
+ticareti yapmayı öğrenirken karşılaşacağınız en yaygın kalıplardan bazılarına bir göz atalım.
+56
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+7.0 Desenlere Giriş
+Şimdiye kadar yazılan her mali sorumluluk reddi beyanında, geçmiş performansın "gelecekteki sonuçların garantisi olmadığı" 
+belirtiliyor. Bu, en azından yatırım şirketlerinin herhangi bir menkul kıymet arzına dahil etmesi gereken, akıllara durgunluk verecek 
+kadar sıkıcı izahnameler açısından bakıldığında doğrudur. Açıkçası biraz samimiyetsiz: Hayır, hiçbir garantisi yok. Öte yandan, devam 
+edecek başka ne var?
+İnsan ırkı şu andaki durumuna kısmen beynimizin kalıpları tanıma yeteneği sayesinde ulaştı. İlkel insanın, 
+örneğin bir timsaha çok yaklaşan birinin yenilme riskiyle karşı karşıya olduğunu fark etmesinin çok uzun 
+sürmediğini tahmin edebiliriz. Ya da hava bulutluyken yağmur yağma ihtimalinin büyük ölçüde arttığını fark 
+etmek.
+Evrimsel biyoloji alanında var olan tartışmaları bir kenara bıraksanız bile, tanımadığınız bir şehrin kalabalık bir caddesinde 
+yürüyüşe çıkmayı düşünün. Bilinçaltınız, mümkün olan tüm ipuçlarını toplamak için tüm görsel verileri sürekli olarak 
+değerlendiriyor. Eğer bundan şüphe duyuyorsanız, kolay bir deney deneyin: Yalnızca gördüğünüz yüzlere odaklanarak 20 
+blok yürüyün. Birinci Cadde'den Üçüncü Cadde'ye geçmeden önce, tanıdığınız birine benzeyen birini fark edeceğiniz 
+kesindir.
+Beyniniz bilinçaltında gördüğünüz her yüzü daha önce gördüğünüz her yüzle karşılaştırır ve tanıdık birini arar. 
+Çok kısa bir mesafede muhtemelen onlarca yıldır aklınıza gelmeyecek kişileri aklınıza getiren düzinelerce yüz 
+göreceksiniz.
+Aynı numaranın başka bir versiyonu, hiç gitmediğiniz bir yere arabayla gitmekle de başarılabilir: Dikkatiniz artar 
+çünkü kaybolmamak için doğuştan gelen bir arzunuz vardır. Gri maddeniz ultra yüksek çözünürlüğe geçtikçe 
+gözleriniz keskinleşir: Bu nedenle genellikle tersine giden yolunuzu bu kadar doğal bir şekilde bulabilirsiniz; desen 
+tanıma ve hedef bulma içgüdünüz aynı madalyonun iki yüzüdür.
+Başka bir deyişle, kuru temizlemecinize giderken yol boyunca reklam panoları gibi şeyleri fark etmezsiniz. tabii düzeni 
+bozan yeni bir tane olmadığı sürece.Ancak yoldayken zihniniz aktif olarak mümkün olduğunca fazla bilgi arayacaktır. 
+Kendinizi, beyninizin gelecekteki karşılaştırmalar için tüm görsel verileri dosyaladığı, çevresel görüşünüzün dışında reklam 
+panolarını okurken bulacaksınız. Pratik yaparak, istediğiniz zaman gözlemlerinizi artırmak için kendinizi eğitmek üzere bu 
+yeteneği kullanabilir ve geliştirebilirsiniz.
+Piyasada menkul kıymetlerin fiyat tabloları her türlü kalıpla doludur. Değişen derecelerde bu modeller gelecekteki 
+sonuçların öngörüsü olabilir. Beyninizi en yaygın grafik modellerinden bazılarıyla tanıştırdıktan sonra, olanları kavramak, 
+bunları geçmişte olduğunu bildiğiniz şeylerle karşılaştırmak ve bunu bir araç olarak kullanmak konusunda şaşırtıcı bir 
+yeteneğe sahip olduğunuzu göreceksiniz. geleceği tahmin etme rehberi. Bu şaşmaz bir şey değil, ama kalıpları ne kadar 
+çok incelerseniz ve ne kadar çok tabloya bakarsanız, onları refleks olarak, içgüdüyle tanımakta o kadar iyi olursunuz.
+Bu beyinsel yetenek, güvenliğinizi koruyabilir, yolunuzu bulmanıza yardımcı olabilir, tanıdığınız insanları tanımanıza (veya onların 
+benzerlerini fark etmenize) olanak tanıyabilir ve mali bağlamda, neredeyse sonsuz olanı işlerken size bir avantaj sağlayabilir.
+58
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Binlerce grafikten toplayabileceğiniz veri akışı. Geçmiş performans gelecekteki sonuçların garantisi değildir. Ancak yine de 
+karlı ticaretler tasarlamak için size güçlü bir avantaj sağlayabilir.
+Ancak bir uyarı: Kafatası coğrafyası dünyasından bir başka önemsiz bilgi. Beynin, maddi bir ödül beklentisiyle 
+size zihinsel bir sarsıntı ve hatta zihinsel bir keyif veren aynı kısmı (buna denir)çekirdek akümbens), kokain gibi 
+uyuşturucular kullanıldığında beynin yanan kısmıdır.
+Beynin finansal kazançla birlikte gelen endorfin salgısını sevdiği ve gerçekten de bunu arzuladığı ortaya çıktı. Bu yüzden 
+uzun zamandır giymediğiniz bir ceketin cebinde beş dolarlık banknot bulduğunuzda sevinirsiniz. Bu sadece berbat bir beş 
+dolar; saygın bir latte için zar zor yeterli,ama yine de sizi cezbediyor. Bu nedenle, gözlerinizi tamamen açık ve 
+düşüncelerinizi mümkün olduğunca net bir şekilde ticaret zihniyetinize girmeye hazır olmalısınız.
+Evet, beyniniz örüntü tanıma konusunda harikadır. Ancak parasal kazanca eşlik eden nörokimyasal dalgalanma ihtimali de 
+hoşuna gidiyor. Bu nedenle akıllı yatırımcılar, yanlış pozitiflere karşı korunmak için daha önce ele aldığımız çeşitli grafik çizgileri 
+gibi çok sayıda analitik aracı kullanmak üzere kendilerini eğitirler. Başka bir deyişle, beyninizin sizi gerçekte orada olmayan bir 
+grafik üzerinde bir model oluşturmaya ikna etmesine asla izin vermeyin. Unutmayın: San Francisco'da gördüğünüz ve size 
+tanıdık gelen kişiler genellikle Scarsdale'de tanıdığınız kişilerle aynı kişiler değildir. Sadece öyle görünüyorlar. Bu nedenle dikkatli 
+olun, tetikte olun ve size rehberlik edebilecek verilere yakın kalın.
+Başarılı bir kripto para birimi tüccarı olarak tanımanız gereken ortak kalıplardan bazıları şunlardır:
+7.1 Şamdan Desenleri
+•Büyük Siyah Mum.Geniş yüksek-düşük aralığa sahip uzun siyah gövde. Fiyat en yüksek seviyeye yakın açılır ve en düşük seviyeye 
+yakın kapanır.AYI.
+• Büyük Beyaz MumYüksek-düşük menzilli uzun beyaz gövde. Fiyat en düşük seviyeye yakın açılır ve en yüksek seviyeye yakın kapanır. 
+BOĞA.
+•Siyah GövdeAçık olduğunda kapanıştan daha yüksektir.
+•Beyaz Gövde.Açılıştan daha yüksekte kapatın. BOĞA.
+•Cellat.Günün en yüksek seviyesine yakın küçük bir gövdeye sahip, üst gölgesi çok az olan veya hiç olmayan ve gövde uzunluğunun iki ila üç 
+katı kadar uzun bir alt gölgeye sahip siyah veya beyaz mum çubuğu. Yükseliş trendi sırasında meydana gelirse bu bir AYI formasyonudur.
+•Kayan yıldız. Uzun üst gölgesi olan ve kuyruğu çok az olan veya hiç olmayan küçük siyah veya beyaz gövde. Yükseliş trendi sırasında durum 
+AYIDIR.
+59
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+•Çekiç.Yüksek seviyeye yakın küçük gövdeli, üst gölgesi olmayan veya çok az olan, uzun kuyruklu siyah veya beyaz mum 
+çubuğu. Çekiç bir düşüş trendi sırasında göründüğünde, BOĞA'dır.
+•Ters Siyah Çekiç.Baş aşağı çekiç pozisyonunda siyah gövde. Bir geri dönüş sinyali.
+•Uzun Alt Gölge.Mum çubuğunun uzunluğunun en az üçte ikisi kadar alt gölgeye sahip siyah veya beyaz bir gövde. Bu 
+formasyon desteğin yakınında göründüğünde bunun BOĞA olduğu söylenir.
+•Uzun Üst Gölge.Üst gölgesi gövde uzunluğunun en az üçte ikisi kadar olan siyah veya beyaz bir mum 
+çubuğu. Dirençte AYI DEĞİL.
+•Marubozu.Kuyruğu veya gölgesi olmayan siyah veya beyaz bir gövde; inişler ve çıkışlar açık ve kapalıdır. 
+Devamını belirtir.
+•Dönen Top.Küçük siyah veya beyaz şamdan. Gölgelerin uzunluğu değişir. Tepe tek başına nötr bir göstergedir 
+ancak diğer formasyonların kritik bir unsurudur.
+•Alt kısmı tıraş edilmiş.Siyah veya beyaz kuyruksuz gövde
+•Tıraşlı Kafa.Üst gölgesi olmayan siyah veya beyaz mum çubuğu.
+•Doji . Açılış ve kapanış çok yakın olduğunda. Gölge uzunlukları değişiklik gösterir.
+•Yusufçuk Doji.Açılış ve kapanış günün en yüksek seviyesinde gerçekleşir. Uzun bir alt gölge BOĞA'dır. Eğer yusufçuk 
+piyasanın en altında belirirse bunun bir tersine dönüş sinyali olduğu söylenir.
+•Mezar taşı Dojisi.Açılış ve kapanış günün en düşük seviyelerinde. Uzun bir üst gölge AYI'dır. Mezar taşının fiyatı piyasanın 
+zirvesindeyse bunun bir tersine dönüş sinyali olduğu düşünülüyor.
+•Uzun Bacaklı DojiÜst ve alt olmak üzere iki uzun gölgeye sahip bir Doji. Ne yükseliş ne de düşüş.
+•Ayı Harami.Alışılmadık derecede uzun beyaz bir şamdan ve ardından büyük beyaz gövdenin içinde küçük siyah bir 
+gövde bulunur. Yükseliş trendinin hemen ardından gelirse AYI.
+•Ayı Harami Haçı.Büyük beyaz gövde ve ardından bir doji. Üstte görünen bir geri dönüş sinyali.
+•Boğa Harami.Alışılmadık derecede uzun siyah bir gövde ve ardından büyük siyah gövdenin içinde küçük beyaz bir mum 
+bulunur. Eğer öncesinde bir düşüş trendi varsa BOĞA.
+•Kara Bulut Örtüsü.Uzun beyaz mum ve ardından beyaz mumun tepe noktasının üzerinde açılan VE beyaz mumun 
+gövdesinde kapanan siyah bir mum çubuğu. Yükseliş trendi sırasında bu bir AYI DÖNÜŞÜdür.
+60
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+•Yutan Ayı Hattı.Aşağıdaki büyük siyah mum çubuğunun içindeki küçük beyaz gövde. Eğer zirvede gerçekleşirse 
+bu güçlü bir geri dönüş sinyalidir.
+.
+•Yutan Boğa.Aşağıdaki büyük beyaz gövdenin içinde bulunan küçük siyah mum. Dipte meydana geldiğinde büyük 
+bir geri dönüş sinyali.
+•Boyun çizgisi.Siyah mumun ardından küçük beyaz bir mum gelir ve kapanışı önündeki siyah mumun dip noktasına yakın olur. Düşüş 
+trendinde ortaya çıkar. Beyazın en düşük seviyesine girildiğinde AYI.
+• Üç Beyaz Asker.Üç uzun beyaz mum çubuğu, giderek daha yüksek kapanışlar yaparak en yüksek seviyelerine yakın veya en yüksek 
+seviyelere ulaşır. Altta göründüğünde, alttan dönüş sinyali olarak yorumlanır.
+• Üç Kara Karga.Üç uzun siyah mum çubuğu, her biri dip kapanışa yakın veya dip seviyesinde. En üstte göründüğünde, 
+bir tepe dönüş sinyali olarak kabul edilir.
+• Akşam YıldızıBüyük beyaz bir gövde ve ardından önceki mumun üzerinde boşluk bırakan siyah VEYA beyaz renkte 
+küçük bir gövde. Üçüncüsü, büyük beyaz gövde içinde iyi kapanan siyah gövdeli bir mumdur. En üst seviyede 
+göründüğünde geri dönüş sinyali olarak kabul edilir.
+•Akşam Doji Yıldızı.Büyük beyaz bir gövdeyle başlayan ve ardından bir Doji ile başlayan üç günlük bir desen.açıklık beyaz 
+gövdenin üstünde. Son öğe, beyaz gövdeye yakın bir siyah gövdedir. Evening Star'dan daha düşüş eğilimli. En üstte 
+görünüyorsa, bu bir tersine dönüş anlamına gelir.
+•Sabah Doji Yıldızı.Büyük siyah bir mum ve ardındanDoji bu önceki mum çubuğunun altında gerçekleşti. 
+Ertesi gün, fiyatı Doji öncesindeki siyah mum çubuğuna çok yakın olan üçüncü bir beyaz mum çubuğu oluşur. 
+Büyük bir geri dönüş sinyali. BOĞA.
+• Sabah Yıldızı,Büyük siyah bir mum çubuğunun ardından küçük bir gövde (siyah veya beyaz) büyük siyah mum 
+çubuğunun altında belirir. Ertesi gün, siyah mumun yakınında üçüncü bir beyaz mum çubuğu oluşur. Altta 
+göründüğünde güçlü bir geri dönüş sinyali olarak kabul edilir.
+Şimdi bilginizi test etme zamanı. Birkaç dizin kartı alın ve her bir şamdan desenini bir tarafa, adını da diğer tarafa çizin. Bu bilgi 
+kartlarını aşağıdaki kullanıcı anahtarıyla bir kez daha kontrol edin. Hile yapmayın; bunları soğukkanlılıkla halletmek para 
+kazanmanıza yardımcı olabilir! Formasyonun yükseliş mi yoksa düşüş eğilimi mi olduğu da dahil olmak üzere uzmanlaşana 
+kadar pratik yapın, ardından bu formasyonları aramaya başlayın ve bunları tanımlamak için yazılımı kullanın.
+Ancak farklı işlem platformlarının tanımlar konusunda farklı ve oldukça subjektif kriterlere sahip olacağını unutmayın; bu 
+nedenle mutlaka kontrol edin. (Örneğin, uzun, normal ve kısa gövdeli bir mum çubuğunun kesim noktası nedir? Bunu 
+gözlerinizle görebilseniz de, bilgisayarın bir dizi kurala ihtiyacı vardır.)
+61
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+NOT: Herkes alım yaparak yükseliş sinyalinden yararlanabilir ancak düşüş sinyalinden kâr elde etmenin tek yolu kısa 
+pozisyon açmaktır. Önceki bölümde açığa satışı gözden kaçırdıysanız, lütfen biraz zaman ayırıp geri dönüp konuyu 
+inceleyin ve komisyoncunuza bir marj hesabı sormaya çalışın.
+7.2 Boşluklar
+Bu, tespit edilmesi en kolay formasyonlardan biridir, dolayısıyla yeni yatırımcıların gözlerini dört açması için harika bir formasyondur. Boşluklar, bir 
+menkul kıymetin bir önceki günkü kapanış fiyatından çok daha yüksek veya daha düşük bir seviyede işlem görmeye başlamasıyla ortaya çıkar. Daha 
+yüksek boşluklar yeni bir destek seviyesine (bir satın alma fırsatı) işaret edebilir.
+Aralığın daha düşük olması yeni bir direnç çizgisinin sinyalini verir. Her iki durumda da, geleneksel kanı, yani bu olguyu 
+(bu modeli) gözlemleyerek çıkarılan sonuç, yatırımcıların trendin boşluğun yönünde devam edeceğini varsayabilecekleri 
+yönündedir.
+Teknik yatırımcılar grafikte bir modelin neden ortaya çıktığının ayrıntılarıyla ilgilenmese de boşluklar genellikle önceki 
+günün kapanışından sonra meydana gelen haberlerden kaynaklanır. İyi haberler daha yüksek boşluklar yaratma 
+eğilimindedir, kötü haberler ise daha düşük boşluklara yol açar.
+Kazananın İpucu:Boşluklar genellikle alışılmadık derecede yoğun ses seviyelerinde meydana gelir. Önemli bir ticaret faaliyeti olmadan 
+bir boşluk ortaya çıkarsa şüphelenin. Ancak hacim oradaysa, fiyat çizgisi boşluğu başlatan açılış fiyatının altına düşene kadar eğilimin 
+devam etmesi muhtemeldir.
+Bir Şeyi Düşünmek:Boşluklar tespit edilmesi kolay bir model olsa da, bunlar kripto para birimi yatırımcıları için daha çok zihinsel 
+bir egzersiz olabilir. Bunun nedeni haberlerin bitcoin ve altcoin piyasalarını hareketlendirmemesi değil, kesinlikle etkiliyor. 
+Bunun nedeni, bir boşluğun ortaya çıkması için normal bir işlem seansının sonunda oluşan alım satımda bir duraklamanın 
+olması gerektiğidir. Birçok kripto borsası 7/24 çalıştığından boşluklar nadirdir ve yalnızca beklenmedik büyük bir haber olayı 
+meydana geldiğinde ortaya çıkar.
+7.3 Baş ve Omuzlar
+Bu biraz daha karmaşık çünkü dört ayrı nokta gerektiriyor: iki omuz, baş ve boyun çizgisi. Bazı insanların, gece 
+gökyüzündeki takımyıldızlarını oluşturan yıldızların yarattığı efsanevi figürleri görememesi gibi, bazı insanların doğal 
+olarak baş ve omuzları gerçek anlamda “görmeyeceklerini” (veya algılamayacaklarını) da belirtmek gerekir. Yazılım, 
+kalıpları tespit etmede büyük bir yardımcı olabilir.
+Daha önce belirlenen bir yükseliş trendi yeni bir zirveye ulaştığında bir baş ve omuz oluşur ve bu da SOL “omuz”u 
+oluşturur. Oradan fiyat düşer ama sonra tekrar ikinci yeni en yüksek seviyeye yükselir. Bu “kafa”dır. Bunu, sol omuzdaki ilk 
+satışı onurlandıran bir fiyat düşüşü takip ediyor. Bir sonraki adım, SAĞ omuzu belirleyen ilk yüksek seviyeyle eşleşen 
+başka bir yükseliş. Fiyat çizgisi boyun çizgisini kırdığında formasyon normal seyrini sürdürür ve fiyatlar tekrar aşağıya 
+doğru hareket eder.
+62
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+Kazananın İpucu:Baş ve omuzlar bir zirveyi (satış işareti) işaret eder ve aynı zamanda aşağı yönlü bir fiyatı 
+aydınlatır; böylece ticaret için hem giriş hem de çıkış noktası sağlar.
+Bir Şeyi Düşünmek:Yukarıdaki açıklama baş ve omuzlar ÜST noktası içindir, ancak model aynı zamanda "Ters Baş 
+ve Omuzlar" olarak bilinen durumda ters şekilde de çalışır. Ters Günmüş gibi davranın ve düzeni tersine çevirmeyi 
+deneyin!
+7.4 Üçlü Zirve
+Baş ve omuzları tespit etmek zor görünüyorsa, bir tür alt tür daha hoşunuza gidebilir: Üçlü Tepe. Bazen ters 
+gösterge olarak da adlandırılan bir formasyon türüdür: Fiyat çizgisinin yönünde yakın bir değişikliği işaret 
+eder.
+Bu modelin merkezinde direnç fikri yer alır; grafikte piyasanın normalde yükselişte olan bir hisse senedine 
+karşı heyecanını kaybettiği nokta. Aynı (ya da çok yakın) zirveye üçüncü kez ulaşıldığında, bu modelin 
+taraftarları üçüncü bir tersine dönüşün yaklaştığını varsayarlar ve hisseleri satarlar (ya da "kısa pozisyona 
+verirler").
+Bu da Üçlü Dip gibi ters yönde çalışan başka bir grafiktir: Fiyat aynı dip noktasına (ya da düşük ya da "destek" çizgisine) ulaştığında, 
+tüccarlar hisselerin tekrar sıçrayacağını varsayarlar ve bu yüzden SATIN ALARLAR.
+Kazananın İpucu:Üçlü Tepe, daha uzun vadeli bir grafiği değerlendirirken en iyi şekilde kullanılır (haftalar yerine aylar).
+7.5 Çift Dip ve Çift Tepe
+Bu, Üçlü Dip'in Reader's Digest Yoğunlaştırılmış Versiyonudur ve biraz daha sık meydana gelme eğilimindedir. Fiyatın ikinci kez en 
+yüksek veya en düşük seviyeye ulaşması bu ticaretin giriş noktasıdır. Tıpkı fiyatın aynı en düşük seviyeye iki kez ulaşmasının ardından 
+satın alma zamanının gelmesi gibi, iki zirveden sonra hamle satış yönündedir. Bu da bizi önemli bir yan nota götürüyor.
+Kazananın İpucu:Finans dünyasındaki en üzücü yan notlardan biri, büyük piyango talihlilerinin bazen yüz milyonlarca 
+dolar kazandıktan sonra bile iflas etme eğiliminde olmalarıdır. Belli ki kazananlar böyle bir meblağın hiçbir zaman 
+tükenmeyeceğini varsayıyorlar ve haftanın her günü farklı renkte bir Rolls-Royce Phantom gibi aptalca değer kaybeden 
+varlıklara gereğinden fazla para harcıyorlar.
+Birçoğu kazançlarını vergiden muaf belediye tahvilleri gibi ihtiyatlı bir şeye değil, bunun yerine güvenilir bir gelir sağlamak 
+yerine bir kralın fidyesini kısa sürede bir anıya dönüştürebilecek kötü tasarlanmış yüksek riskli "iş" planlarına yatırma 
+eğilimindedir. hayatlarının geri kalanı boyunca. Ne yazık ki.
+Bir finansal planlamacı bu olguya benzersiz bir yaklaşım benimsedi ve bu bizim için ticaret bağlamında ele almamız gereken 
+öğretici bir hikaye. Fikri basitti: Büyük ikramiye kazanıldığında müşterilerinin her birine birer Powerball bileti gönderdi.
+63
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+gülünç derecede büyük bir dolar rakamına ulaştı. Müşterilerine şans dileyen ve her birinin 500 milyon dolarlık ödülü 
+nasıl harcayacaklarını tam olarak yazmalarını öneren bir mektup ekledi.
+Artık, Tanrı'nın yeşil dünyasındaki her mali danışman, müşterilerini rasyonel ev bütçeleri yazmaya ve benimsemeye 
+ikna etmeye çalışıyor, çabalıyor ve çabalıyor. Ve kişi açısından, her danışman eninde sonunda bu tavsiyenin 
+anlamsızlığını anlar. Gerçek şu ki, insanlar bütçelerden nefret ediyorlar ve bir nedenden dolayı da nefret ediyorlar. 
+Bütçeler Çok Gerçektir. Eve çok yaklaştılar. Bütçeler, insanları sınırlı kaynaklarıyla zor kararlar almaya zorlar. Ancak 
+bu durumda, bedava piyango biletine verilen tepki ve yarım milyar dolarlık fantezi alışverişi yapma şansı büyük bir 
+tepkiye neden oldu. Elbette müşterileri bedava piyango biletini sevdiler, ancak parayı "harcamayı" daha çok 
+sevdikleri ortaya çıktı.
+Tanıdık bir senaryo, iki kritik şeyin gerçekleşmesiyle kendini tekrarlamaya başladı. İlk olarak, çoğu müşteri böylesine beklenmedik bir 
+şeyin hayatları için ne anlama gelebileceği konusunda ciddi bir şekilde düşünür. Herkesin ilk içgüdüsü aynıydı: Bir malikane inşa 
+edeceklerini, dünyayı dolaşacaklarını ve Ferrari bayisinden veya Harry Winston'dan birkaç oyuncak alacaklarını söylediler.
+Ancak bu mali danışmanı şaşırtan şey, birçoğunun bu fikirleri çok geçmeden bir kenara atması, gerçekten düşündükten 
+sonra 40 odalı bir mülke, Rock Creek'teki The Ranch'te bir ay (sadece Google'da) veya bir elmasa ihtiyaç duymadıklarını 
+fark etmeleriydi. kivi büyüklüğünde. Sadece bu da değil, çok sayıda müşterisi fantezi kazançlarını nereye ve nasıl 
+yatırmaları gerektiğini sormak için onu aramaya başladı. İnsanların normalde kucaklaşmakta zorlandıkları pek çok iyi 
+dersi öğretmenin gerçekten akıllıca bir yoluydu.
+Hane bütçenize bakmak zordur çünkü bu, sınırlı kaynaklarla kararlar almak ve çoğu insan için ihtiyaçlarını karşılama 
+isteklerini ertelemek anlamına gelir. Öte yandan, gerçek bütçe sınırları olmayan bir harcama planı yazmak, insanları 
+alışılmışın dışında düşünme özgürlüğüne kavuşturdu.
+Bu hikayenin ahlaki şudur:Her finansal hamle planlama gerektirirve bu planlamanın belirlenmiş, somut bir hedefe 
+odaklanması gerekir. Ticaret dünyasında, belirli bir eylemin potansiyel sonuçlarını kapsayan eğer-o zaman senaryoları 
+içeren basit bir akış şeması oluşturmak özellikle zor değildir.
+Şöyle ki: Bu noktada bir işleme girersem amacım X getirisi yakalamak ve ardından işlemi kapatmaktır. Bu, ister inanın 
+ister inanmayın, daha zor kısmı olan olumlu tarafı kapsıyor. Plan elbette olumsuz tarafları da kapsamalıdır ve daha 
+karmaşık işlemlerde risk azaltma stratejilerini de içermelidir; kayıplar belirli bir eşiğe ulaştığında pozisyondan otomatik 
+olarak çıkmak için zararı durdurmayla başlamalı ve belki de siz ilerledikçe daha karmaşık korunma önlemleri eklenmelidir. 
+onlarla rahat büyüyün. (Bunlardan bazıları, sizi türevlerle tanıştıracak veya yeniden tanıtacak olan bir sonraki bölümde ele 
+alınmaktadır.)
+Her zaman bir planınız olsun. Bu Powerball ikramiyesi için geçerlidir. Bu markete yapılan bir gezi için geçerlidir. Ve bu, herhangi bir 
+tüccar tarafından gerçekleştirilen herhangi bir ticaret için kesinlikle doğru, ihtiyatlı ve akıllıcadır. Başarının ESP veya asma finansman 
+alanında MBA gerektirmediği, yatırım dünyasının kirli küçük bir sırrıdır.
+64
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+Aksine, başarılı yatırımın en önemli özelliği, tüm temas sporlarında olduğu gibi, temelleri anlamaktır. İkinci en 
+önemli özellik disiplindir; planınıza yalnızca kayıplara karşı korunma anlamında bağlı kalmak değilama 
+kazanımları korumada kendi beyninizin kendi donanımsal bağlantılarından. Bir yatırımcı olarak kendinize 
+söyleyebileceğiniz en tehlikeli şey şu olabilir: "Bu sefer işler farklı olacak." Hayır. Hayır! Bin kere HAYIR.Teknik 
+ticaretin ve arkasındaki istatistiksel elma püresinin asıl amacı, kalıpların tekrarlanmasıdır.Masada kazançlarınız 
+var diye işler farklı olmayacak. Sonuçların çoğu ortalama olacaktır; aslında, tüm sonuçların yarısının 
+ortalamanın ALTINDA olacağına güvenebilirsiniz. Bunların tam üçte ikisi orta değere oldukça öngörülebilir bir 
+mesafede meydana gelecektir. Bu aritmetiği ele aldık, ancak tekrar etmekte fayda var. İşte ders sona eriyor.
+7.6 Tabaklar
+Bu model, perspektif açısından işleri biraz karıştırır. Daire modeli, belirli fiyat noktalarına güvenmek yerine üç ayrı 
+uzun vadeli fiyat eğilimine dayanıyor. İlk trend belirgin bir düşüş trendi, dik bir düşüş. Daha sonra, genellikle destek 
+hattı boyunca yanlara doğru bir hareket dönemi gelir.
+Bunu yeni bir yükseliş trendi takip ediyor. İşin püf noktası, destek hattından satın almak ve yükseliş trendinin tutunmasını 
+beklemek, ardından kârla - ve umarız önceden belirlenmiş bir kârla - satmaktır. Kârlı bir ticaret yapan yeni tüccarlar için bu 
+oldukça zor olabilir: Birkaç şekel daha ele geçirmek için dayanma eğilimi gösterirler. Sorun şu ki, çoğu zaman sadece kazançları 
+buharlaşıp hatta kayba dönüştükten sonra bile tutunmaya devam ediyorlar. Bu hatayı önlemek için önceden planlama yapmak 
+en iyi eylem yoludur.
+Kazananın ipucu:Daire deseni hızlı bir ticaret değildir.Trendlerin ortaya çıkması zaman alır. Bazı teknik 
+göstergeler bir gün içinde ortaya çıksa da, bu kolaylıkla bir yıl sürebilir. Yatırımcıların bu modeli teyit 
+edebilmesinin diğer yolu da hacme çok dikkat etmektir. Yatay trend sırasında oldukça düşük olmalıdır.
+7.7 T-30
+Artık beş yaygın teknik grafik modeliyle tanıştığınıza göre, karışıma başka bir faktör daha eklemenin zamanı geldi: 
+daha önce incelediğimiz trend çizgileri. Bunun olacağını görmüş olmalıydın, değil mi? T-30'da T, belirli bir noktanın 
+altına sarkan belirgin bir düşüşe sahip bir fiyat için tüccar argosu olan "kuyruk" anlamına gelir. Bu durumda bu 
+nokta 30 günlük üstel hareketli ortalamadır.
+Bu eğilimi tespit etmek için menkul kıymetin fiyatını, EMA'sını ve mümkünse 200 günlük hareketli ortalamayı gösteren bir grafik 
+penceresi oluşturmanız gerekecektir. Alış sinyali, normalden daha yüksek hacimdeki fiyat düşüşüdür. Önümüzdeki günlerde 
+fiyatların yükselmeye başlamasından önce birkaç yatay işlem seansının gerçekleşeceği beklentisiyle pozisyon korunuyor.
+Kazananın İpucu:Ticaretin işe yaraması için bu kuyruğun dibini satın almanıza gerek yok. Aslında hiçbir yatırımcının her dip 
+noktası alıp her tepe noktasını satamayacağını akılda tutmak çok önemlidir. Teknik ticaret, kazananın Kewpie Doll'u kazanmak 
+için hedefi vurması gereken bir hedef atış değildir; daha çok at nalı veya el bombası oyununa benzer:
+65
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+Yeterince yakın sayımlar! Bunu akılda tutarak, yatırımcıların kuyruk veya "çekiç" 30 günlük EMA'yı kırdıktan (veya hatta en düşük 
+seviyeye ulaştıktan) sonra bu ticareti başlatmak için seansın geç saatlerine kadar beklemelerini öneren uzmanlara kulak vermek 
+akıllıca bir fikir. (200 günlük hareketli ortalama)
+Bonus ipucu:Ticaret platformunuzun tüm gücünü kullanın.Bu yazılım inanılmaz derecede faydalıdır ve çoğu yatırımcı olası 
+işlevlerden yalnızca birkaçını öğrendiğinde bu fırsatı kaçırır. Hemen hemen her işlem platformu çeşitli nasıl yapılır ve 
+öğreticilerle doludur, bu nedenle tüm avantajlardan yararlandığınızdan emin olun.
+Teknik tabloların ve üzerinde yaşadıkları bilgisayar ekranlarının oldukça korkutucu görünebileceği kaçınılmaz gerçeğine 
+hazırlıklı olun. Bu yüzden en yaygın araçların neler yapabileceğini açıklamak için bu kadar ileri gittik. Birçok yatırımcının 
+başlangıçta yaptığı şeylerden biri, bazı unsurları kaldırarak grafik penceresini görsel olarak biraz daha yönetilebilir hale 
+getirmeye çalışmaktır ve hacim çoğu zaman bir kayıptır. Bu hatayı yapmayın. Hacim, grafiğin biraz göz korkutucu 
+görünmesine neden olabilir, ancak buna alışacaksınız ve son derece hayati bilgiler sağlayabilir ve genellikle de sağlar.
+66
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+8.0 Türevler
+Hiç kimse ticarette gerçekten ustalaşamasa da - bu tıp gibi bir sanattır, mühendislik gibi bir bilim değil
+tüm grafikler — grafik desenleri eğitiminizin son unsuru değildir. Pinokyo'dan önceki son dersler
+Are Real Boy, türev adı verilen özel bir ticaret türüyle ilgilidir.
+Standart sapma gibi "türevler" de Biraz Fazla Matematik gibi görünebilir. Ne yazık ki, öğretmenlerinize gerçek hayatta asla 
+kullanmayacağınızı söylediğiniz matematik, başarılı ticaret için hayati öneme sahiptir ve yalnızca bazı yeni hesaplamaları öğrenmekle 
+kalmayacak, aynı zamanda yeni bir düşünme biçimini tamamen benimsemeniz gerekecek. İlk başta zihinsel bir esneme olsa da, pratik 
+yaparak geliştirebileceğiniz bir beceridir. Dürüst olmak gerekirse aslında çok eğlenceli. Ve bunun iyi tarafı inanılmaz derecede kazançlı 
+olabilir.
+"Türev" terimi aslında arada sırada duyduğumuz "türetme" kelimesinden gelmektedir. Gelmek anlamına 
+gelen bir fiildir. Bir türevin değeri başka bir şeye, genellikle bir menkul kıymetin fiyatına dayanır, yani bu 
+fiyattan gelir.
+Investopedia adlı internet sitesine göre “menkul kıymet”, mali değer taşıyan, takas edilebilir, devredilebilir, 
+mali bir araç olarak tanımlanıyor. Bir şirketteki mülkiyet pozisyonunu, borçluyla alacaklı ilişkisini veya mülkiyet 
+hakkını temsil eder.
+Finans sektöründe tipik olduğu gibi bu tanım çok nettir. Sonuçta oyun bu: Alıcının satıcıyla buluştuğu ve başka 
+hiçbir şeyin olmadığı Wall Street'in gerçek sadeliğini karmaşık ve korkutucu bir şeye dönüştürmek.
+Eğer genel kamuoyu finansın kolay olduğunu düşünseydi, o zaman insanlar faiz veya temettü gibi basit bir şeyi 
+açıklamak için komisyonculara ve analistlere yılda milyarlarca dolar ödemezdi. Yine de buradayız. Hadi bunu gerçek 
+konuşma İngilizcesine yakın bir dile çevirelim.
+"Fungible" sadece birinin diğeri kadar iyi olduğu anlamına gelir. Her dolar 100 sent değerindedir, yani her biri bir diğeri kadar 
+iyidir, en azından harcama açısından. (Toplamanın aksine.) Bu takas edilebilir. "Eşitlik" de gayet iyi çalışıyor: Mali açıdan 
+konuşursak, Berkshire Hathaway'in bir hissesi 200.000 dolardan fazla değere sahip olabilir, dolayısıyla TÜM hisseler herhangi bir 
+nanosaniyede aynı miktar değerindedir.
+Üçüncü bir şekilde ifade etmek gerekirse, tüm türevler tekdüzedir. Bunlar standartlaştırılmıştır. Öyle olmasaydı, ticaret gerçekten inanılmaz derecede 
+karmaşık olurdu ve bankacıların misli olan banknot yığınlarını sayma yönteminden çok, koleksiyoncuların pulları derecelendirme yöntemine benzer 
+olurdu.
+68
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+"Pazarlık edilebilir" sadece onu satabileceğiniz anlamına gelir. Brooklyn Köprüsü tartışılamaz. Çim biçme makineniz pazarlık konusu olabilir. 
+Karşılıklı olarak fiyatta anlaşabiliriz.
+Tanımın geri kalanı, söz konusu varlığın hisse senedi mi, tahvil mi yoksa bu yeni "mülkiyet hakkı" fikri mi olduğunu 
+açıklıyor. Bu sonuncusu bir türevdir. Bu sadece alıcı ve satıcı arasındaki bir sözleşmedir (yasal olarak uygulanabilir) 
+bir anlaşmadır. Sözleşme, alıcıya belirli haklar vermekte ve satıcıya da belirli sorumluluklar yüklemektedir. Bu 
+sözleşmelere, sahibine sundukları gibi "seçenekler" adı verilir.
+8.1 Seçenek Türleri
+Opsiyonlar, alım ve satım olmak üzere iki şekilde gelir.
+Bir "alma" seçeneği, sahibine belirli bir süre için önceden belirlenmiş bir fiyattan ("grev" adı verilen) bir menkul kıymeti - bu durumda 
+dijital para birimini - SATIN ALMA hakkını verir. Mart ayı IBM 200 alım opsiyonu, sahibine, Mart ayının sona erme tarihinden önce, 100 
+hisse lotu halinde, hisse başına 200 ABD dolarından IBM satın alma hakkı verecektir. (Bu sözleşmeler aynı zamanda standartlaştırılmıştır 
+ve dolayısıyla değiştirilebilir ve dolayısıyla bir teminattır.)
+Soruyor olabileceğiniz soru, neden dünyada birinin bunu yapmak isteyebileceğidir; bir şeyi satın alma hakkını satın almak. İster 
+inanın ister inanmayın, opsiyonlar Wall Street'te para kazanmak için tasarlanmamış bir şeydir. Daha ziyade, ilk fikir potansiyel 
+finansal riski azaltmaktı. Opsiyonlar, insanların para KAYBETMELERİNİ önlemenin bir yolu olarak vadeli işlem piyasasında 
+kullanılmaya başlandı.
+Her gün onbinlerce ekmek üreten büyük bir fırın düşünün. İş adamınızın şapkasını veya yeşil siperliğini takın 
+ve yöneticilerin masalarında birikmesi gereken faturaları düşünün. Büyük olanlar nelerdir? Emek elbette. 
+Kesinlikle gayrimenkul ve enerjinin yanı sıra envanter de. Envanter yalnızca müşterilere satılmak üzere eldeki 
+bitmiş ürünler değil, aynı zamanda gelecekteki üretim için depolanan girdilerin toplamıdır.
+Bir fırında en önemli tedariklerden biri undur ve bunun fiyatı açıkça doğrudan temel ürün olan buğdaya bağlıdır. 
+Tüm fiyatlar dalgalansa da, emtia fiyatları oldukça kısa bir süre içinde geniş çapta dalgalanabilir. Neden? Un söz 
+konusu olduğunda fiyat, hava durumu gibi rastgele (ve hızla değişen) faktörlerden etkilenecektir.
+Eğer büyük bir fırtına, Orta Batı'nın büyük bir kısmındaki buğday tarlalarını düzleştiren dolu üretirse, arzdaki büyük 
+yıkımın, buğdayın ve ondan yapılan her şeyin fiyatını, muhtemelen çok daha fazla artıracağına bahse girebilirsiniz. 
+Bu önemli bir iş riski teşkil etmektedir.
+İyi yönetilen bir fırının %20 marjla çalışabileceğini varsayalım. Girdi fiyatlarındaki herhangi bir artış doğrudan bu 
+gevşeklikten kaynaklanmalıdır. Fiyattaki dramatik bir artış, işletmenin faaliyetlerini sürdürme olasılığını tehlikeye atabilir 
+ve basiretli bir işletme sahibi, fiyatlardaki bu potansiyel artışa ve bunun sonucunda kazanç kabiliyetinin azalmasına karşı 
+nasıl korunacağı konusunda bir çözüm arar.
+69
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+Nasıl? En az üç yol var. Birincisi, gidip bir çiftlik satın almak ve kendi ununu üretmek. Bu, sermaye yoğun bir 
+işlemdir, çok zaman alır ve yine de esas sorunu çözmez; hava koşulları o alanı da kolaylıkla yok edebilir. İkinci 
+alternatif, size ihtiyacınız olan (veya artan maliyetlerinizi karşılamak için satabileceğiniz) malı teslim alma hakkı 
+verecek bir vadeli işlem sözleşmesi satın almaktır.
+Bu, bir riski "korunmanın", kayıp potansiyelini azaltmaya çalışmanın iyi ve temel bir yoludur. Ancak fiyat artışından 
+korunmak için buğdaya ön ödeme yapmak mümkün olmayabilir. Böylece her zaman yardıma hazır olan Wall Street başka 
+bir fikir ortaya attı:
+Fırın yöneticileri, ancak ihtiyaç olduğuna karar vermeleri halinde buğday satın alma hakkını satın alabiliyor. Vadeli işlem sözleşmesinden 
+çıkmanın yasal bir yolu yoktur: Bir taraf para öder, diğer taraf buğdayı teslim eder (veya bunu "kapsamak" için karşıt bir sözleşme satın 
+alır). Ancak satın alma seçeneğinde, sahip olarak hakkınızı kullanmak -bekleyin- isteğe bağlıdır. Sahibi, yetkisini ya kullanabilir ya da 
+kullanamaz.
+Üstelik oldukça ucuz. (Nedenine birazdan değineceğiz.)
+8.2 Zaman Değeri ve İçsel Değer
+Opsiyonlar Black-Sholes adı verilen bir formüle göre fiyatlandırılır, daha sonra piyasa devreye girer ve fiyatlar, alıcıların 
+ödemek istediği miktara göre belirlenir. Bir opsiyonun fiyatı iki unsurdan oluşur ve her ikisini de anlamak çok önemlidir.
+İlk unsur içsel değerdir. İçsel değer, menkul kıymetin piyasa fiyatı ile opsiyonun kullanım fiyatı arasındaki 
+farkın hesaplanmasıyla belirlenir.
+Tamam, bu çok ağız dolusuydu. Hadi parçalayalım.
+Halliburton hisse başına 50 dolardan işlem görüyor. Frank'in, hisseleri 40 dolara satın alma hakkını veren bir alım 
+opsiyonu var. Bu seçenek, tüm seçenekler gibi, 100 hisse senedini kapsar. Gerçek değeri, piyasa fiyatı eksi kullanım fiyatı 
+veya 50 - 40 $, yani 10 $'dır.
+Ancak sorun şu ki, 10$'lık gerçek değere sahip bir opsiyon genellikle sadece 10$'a satılmayacaktır. Daha 
+fazlasına satılacak. Nedeni? Zaman. Opsiyon şu anda 10 dolar değerinde ancak bu farkın genişleyebileceği çok 
+daha fazla an olacak. Fiyat da elbette düşebilir ancak Wall Street yükseliş potansiyeline prim verme eğiliminde.
+Bu ek olası avantaj bedava değil, ödenmesi gerekiyor. Bu da bir opsiyonun "zaman değeri" olarak bilinir. İçsel 
+değer artı zaman değeri, opsiyonun fiyatına eşittir. Her zaman.
+70
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+Tamam: Kauçuğun yolla buluştuğu yer burası…
+Bir opsiyon "karda" veya "karda" olarak tanımlanabilir. Kazançlı bir opsiyonun içsel değeri vardır. Nakit 
+olmayan bir seçeneğin böyle bir değeri yoktur; yalnızca zaman değeri vardır. Sadece bir anlığına düşünün ve 
+fazla düşünmeyin. Halliburton'u borsada 50 dolara satın alabilirsiniz.
+Hisseleri 60 dolardan satın alma hakkı, piyasa fiyatı kullanım fiyatının üzerine çıkmadığı sürece - ister parasız 
+durumdan ister kârda olsun, hiçbir gerçek değer taşımaz.
+Açıkça ifade etmek gerekirse:
+Menkul kıymetin piyasa fiyatı, opsiyonun kullanım fiyatının üzerine çıktığında, bir alım opsiyonu paradadır. 
+Aksi taktirde parası bitmiş demektir. Karda olan seçenekler parasız seçeneklere göre çok daha pahalıdır. 
+Piyasa, Etkin Piyasa Hipotezi'ne dönecek olursak, mevcut tüm veriler ışığında bilinen olasılıklar dahilinde 
+fiyatlandırır. Parasız opsiyonların maliyeti çok azdır çünkü piyasa bunların gerçek değer kazanma ihtimalini 
+çok az belirler.
+Bu, elbette anlık fiyat yakınlığına bağlı olarak değişen derecelerde gerçekleşir. Halliburton 38 dolardan işlem görüyorsa, 
+40'lık bir alım 50'lik bir alımdan çok daha pahalı olacaktır. Rüzgarın hangi yönden estiğine bağlı olarak piyasa fiyatı iki 
+dolar hareket edebilir; ancak rüzgarın 50'ye ulaşması için kasırga şiddetine ulaşması gerekiyor. Metafora devam etmek 
+gerekirse, tüccarlar açık bir hava durumu radarı görüyor. Yani 50 Call ucuz kalıyor. Ancak bir devralmayla ilgili inandırıcı 
+bir söylenti ve birdenbire - bum! — Ufuktaki fırtına bulutları 50 Çağrı'yı   bile daha yükseğe itecek.
+Alımın tam tersi olan satım opsiyonu için her şey tersine döner. Piyasa fiyatının kullanım fiyatından düşük olması 
+durumunda opsiyon kârdadır. Daha yüksekse, o zaman paranın dışındadır.
+Bir opsiyon da zararda olabilir, tıpkı bir madalyonun teorik olarak yazı veya tura yerine kenarına düşmesi gibi…
+Teori bu. Bu ticaretin her iki tarafındaki rasyonel nedenleri değerlendirerek pratikte nasıl göründüğüne bakalım.
+- her karşı taraf, biraz finansal jargon ödünç alırsak - her türlü seçeneği satın alır veya satar.
+8.4 İnsanlar Neden Opsiyon Alır?
+Çağrı Satın Alma Nedenleri
+Bir çağrı satın almak yükselişe işaret ediyor. Opsiyonun süresi dolmadan menkul kıymetin fiyatının artacağını düşünüyorsunuz.
+Put Satın Alma Nedenleri
+Bir put satın almak düşüş eğilimi gösterir. Opsiyonun süresi dolmadan menkul kıymetin fiyatının düşeceğini düşünüyorsunuz.
+Bir Aramayı Satmanın (veya “Yazmanın) Nedenleri
+Bir çağrı satmak düşüş eğilimi gösterir. Opsiyonun vadesi dolmadan menkul kıymetin piyasa fiyatının opsiyonun kullanım fiyatının 
+üzerine çıkacağını düşünmüyorsunuz.
+71
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+Satış Yapmanın veya Satım Yazmanın Nedenleri
+Put satmak yükselişe işaret ediyor. Menkul kıymetin piyasa fiyatının, vadesi dolmadan opsiyonun kullanım fiyatının altına 
+düşeceğini düşünmüyorsunuz.
+Bir Şeyi Düşünmek:Haber kuruluşlarının piyasanın yükselişinin yatırımcılar için iyi olduğunu varsaydığını hiç fark ettiniz mi? Bu, 
+finansal piyasaların gerçekte nasıl işlediğine ve sonuçların çeşitli piyasa katılımcıları için ne anlama geldiğine dair büyük bir 
+anlayış eksikliğini gösteriyor. Wall Street'te kötü bir gün kötü bir haber gibi görünebilir, ancak bu, bir menkul kıymette kısa devre 
+yapan, satım satımı yapan veya alım satımı yapan yatırımcılar için bir Tanrı lütfudur.
+8.5 Temel Seçenekli Oyunlar: Boğma ve Üstüne Çıkma
+Wall Street'le ilgili bir şey de yeterince kendi başına bırakılamamasıdır. Sanki seçenekler yeterince kafa karıştırıcı değilmiş gibi, bazı 
+yatırımcılar para kazanmak için her türlü farklı stratejiyi kullanarak işleri daha da karmaşık hale getirmeyi seviyorlar. Unutmayın, hiç 
+kimse herhangi bir günde piyasanın yukarı mı yoksa aşağı mı gideceğini gerçekten tahmin edemez.
+Bu konuda şimdiye kadar söylenen en akıllıca şey, bir muhabirin finansçı JP Morgan'ı köşeye sıkıştırıp ona piyasanın 
+ne yapacağını sormasıydı. Bilge adam, "Değişecek" dedi. Gelişmiş opsiyon tüccarlarının umduğu şey de tam olarak 
+budur.
+•ata biner gibi oturmak,veya "uzun çatallı", yatırımcının aynı vade tarihi ve aynı kullanım fiyatı ile aynı menkul 
+kıymet üzerinde bir alım ve satım satımı satın aldığı bir pozisyondur. Bu, kıskanılacak bir sonuç sunuyor; çünkü 
+artısı sınırsız ama risk sınırlı. Tüccarın opsiyonları satın alması nedeniyle buna bazen “uzun” istifleme denir. Uzun, 
+kısanın tersidir.
+•boğmakstraddle'ın bir varyasyonudur. Boğma, aynı vade tarihi olan ancak FARKLI kullanım fiyatlarına sahip aynı menkul 
+kıymet üzerinde bir alım satın almayı ve bir satış satın almayı gerektirir -ikisi de parasız. Bu büyük bir hareket üzerine bir 
+bahis, ancak sınırlı bir yükselişi var.
+Bunu güzelce ve yavaşça oynayalım: Bir menkul kıymetin 50 dolardan işlem gördüğünü varsayalım. David bir alım ve satım satın alıyor. Çağrının 
+kullanım fiyatı 55 Dolardır ve maliyeti 400 Dolardır (her seçenek için 4,00 Dolar çarpı 100 hisse). Satışın getirisi 45$'dır ve maliyeti 300$'dır 
+(seçenek başına 3,00$ x 100 hisse).
+Hisse senedinin fiyatı 45 ile 55 dolar arasında kalırsa, zarar ödenen toplam primdir - bu durumda 700 dolar. Ama 
+boğmak para kazandırırHisse senedi fiyatı aralığın dışına çıkarsa.
+Diyelim ki hisse senedinin fiyatı 35$'a ulaştı.çağrı seçeneğihiçbir değeri yoktur ve 300$'lık bir kayıp durumunda değersiz 
+olarak sona erer. Ama değer kazandı ve değeri 700 dolar oldu. Yatırımcı zararı yer, kazancı bankaya yatırır ve 400$ kazanç 
+elde eder –temel güvenceye asla sahip olmamasına rağmen.
+72
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+8.6 Sonuç
+Şu anda, kripto para biriminde opsiyon ticareti, "türev" ve bitcoin'in "bit" kelimelerinin ilk hecelerinin sevimli bir birleşimi olan 
+deribit.com'da mümkündür.Bu ticaret alanının önümüzdeki birkaç yıl içinde finansal alanın en hızlı büyüyen alanı olması 
+muhtemeldir. özellikle bitcoin'in fiyatı yükseldikçe satın almayı zorlaştırıyor ve dolayısıyla opsiyonlarla bahis oynamayı daha 
+çekici hale getiriyor. Ticarette ustalaşmak, seçeneklerde ustalaşmak anlamına gelir.
+Bunu yapmanın en iyi yolu Bölüm 8.4'e başvurmak ve sezgisel hale gelene kadar onu gözden geçirmektir. Daha sonra herhangi bir rastgele 
+hisse senedini veya emtiayı kontrol ederek ve tahmin ettiğiniz yön veya dalgalanmadan en iyi şekilde nasıl yararlanabileceğinizi kendinize 
+sorarak kendinizi test edin.
+(Ve boşuna değil, ama bu kitaptan öğreneceğiniz tek şey, alım opsiyonlarını anlamaksa, satın alma fiyatını defalarca geri 
+kazanmakta fayda var. Bunun nedeni, yazabilmeniz - yani satabilmeniz - Halihazırda sahip olduğunuz hisse senetlerine 
+ilişkin aramaları kapsar.
+Örneğin, 1.000 adet Altria hisseniz (büyük bir gelir stoğu) varsa, satış çağrılarından kazandığınız primle temettü 
+akışınıza katkıda bulunabilirsiniz. Piyasa fiyatı, grevinizi aşarsa, satış yapmakla yükümlüsünüz, ancak grevi hiçbir 
+zaman zararla satmayacak şekilde tasarlayabilirsiniz. Fiyat grevin üzerine çıkamazsa prim ve hisseler sizde kalır.
+Diyelim ki yılda dört kez parasız bir çağrı yazdığınızı ve her seferinde hisse başına 0,50 dolar kazandığınızı varsayalım. 1000 çarpı 
+0,50 çarpı 4 bedava para olarak 2.000 dolar eder. Brokerınıza göz atın ve seçenekleri araştırın. Sizden bir opsiyon sözleşmesi 
+imzalamanız istenecektir ve bu zorunlu olmasa da Chicago Board Options Exchange'de çeşitli eğitim kurslarına katılmak akıllıca 
+olacaktır.)
+Birçok tüccar aynı zamanda opsiyonları da benimsiyor çünkü bazen potansiyel olarak güçlü ve dolayısıyla potansiyel olarak tehlikeli bir 
+kredi aracı olan bir marj hesabı tutmak zorunda kalmadan bir ticaretin her iki tarafını da seçmenin daha az riskli bir yolu olarak 
+görülüyor. (Bu, komisyoncunuzun bahis yaptığınız paranın bir kısmını size ödünç verdiği anlamına gelir.
+Tüm açığa satışlar, belirli asgari sermaye gereksinimleri gerektiren marj hesaplarında gerçekleşir. Bu gereklilikler, büyük bir piyasa 
+hareketi sırasında karşılanmadığı takdirde, komisyoncuyu paralarını tahsil etmek için hesabınızdaki varlıkları nakde çevirmeye 
+zorlayabilir. Bir opsiyon işleminde kredinin uzatılmasına gerek yoktur: Tüccar olarak siz opsiyonu satın almak için prim ödersiniz, sonra 
+ya yeniden satarsınız ya da vadesinin dolmasına izin verirsiniz.
+73
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+9.0 Ve nihayet…
+Bu kitap kısa olmasına rağmen oldukça dolu. Nispeten az sayıdaki bu sayfada, tam zamanlı finans 
+profesyonellerinin ustalaşmasının yıllar aldığı çok büyük miktarda materyali ele aldınız. Yol boyunca size çeşitli 
+kripto para birimi türlerinden bazılarını, bunları yöneten yazılımı, bunların alınıp satılabileceği borsaları ve 
+yatırımcıların kazanç arayışında kullandıkları bazı kalıpları tanıttık.
+Son bölümde yeni oluşan türev piyasasına değinildi. Ekonomiden, yatırımcı psikolojisinden, istatistikten 
+bahsettik. Geriye tek bir soru kalıyor; gerçekten de cevaplanmayı hak eden bir soru.
+Hangi kripto en iyisidir?
+En iyi borsa hangisi?
+Hangi ticaret modelleri en iyisidir?
+Çoğu finans yazarı bu soruyu sevmez. Kesin bir cevap gerektirir ve hiç kimse "Bu böyle, nokta, amin" diyerek 
+kayıtlara geçmekten hoşlanmaz.
+Ama bu geçerli bir soru. Cevabı hak eden biri.
+İşte şöyle:
+• En iyi kripto para birimi, kendinizi en rahat hissettiğiniz kripto para birimidir.
+• En iyi cüzdan ve takas, sizin için en iyi sonucu veren cüzdan ve takastır. (Öyleyse birkaç tanesine bakın, 
+oynayın. Başladığınızı beğenmediyseniz başka birini denemenizde kesinlikle yanlış bir şey yoktur. Bitcoin'in 
+duygularını incitmeyeceksiniz.
+• En iyi ticaret modeli, grafiklere baktığınızda içgüdüsel olarak en çok anladığınız ve algılamaya çalıştığınızda 
+kendinizi rahat hissettiğiniz formasyondur. Peki ya bu grafikler? En iyisi hangisi? Muhtemelen buna kendiniz cevap 
+verebilirsiniz. Bir bakışta en fazla veriyi alabileceğiniz şey budur. En kolay ve sezgisel olarak kullanabileceğiniz şey 
+budur.
+Bu kesin bir cevap gibi görünmeyebilir. Ancak emin olmak için, bu gerçekten kesin cevaptır.
+Öyle olması gerekiyor.
+Yatırım dünyasında sınırsız seçeneğiniz ve sınırsız fırsatınız var. Bilgiyi işleme şekliniz, doğal olarak yatırıma 
+yaklaşma şekliniz, üstlenmeye istekli olduğunuz risk düzeyi - bunlar
+74
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+bunların hepsi yalnızca sizin verebileceğiniz kararlar. Ve elinizden geleni öğrenmenin veya dilediğiniz kadar 
+inceleme ve öneri okumanın hiçbir zararı olmasa da, sonuçta karar tamamen sizindir.
+Gerçek şu ki, başkalarının ne düşündüğünün hiçbir önemi yok. Yapabileceğinizi ve yapmanız gerektiğini düşündüğünüz 
+şeyi yapmalısınız. Tercihleriniz ve zevkleriniz Bu Uzman veya O Adam'dan farklı olabilir ama ne olmuş yani? Önemli olan 
+ne satın aldığınızı anlamanız, hem olumsuz hem de olumlu yönlerini tam olarak takdir etmek için yeterli bilgi toplamış 
+olmanız ve daha da önemlisi geceleri uyuyabilmenizdir.
+Eğer yapamıyorsanız, basit bir teşhis var. Başınızı aşan bir durumdasınız ve bir adım geri çekilip yeniden değerlendirmeniz gerekiyor. Bu 
+durmanız gerektiği anlamına gelmez. Bu, durmanız, derin nefes almanız ve beyninize daha fazla bilgi beslemeniz gerektiği anlamına 
+gelir. Bu, yaptığınız şeyin işe yaramadığı ve işe yarayacak bir yol bulmanız gerektiği anlamına gelir.
+Bu zaman alır. Hiç kimse bir gecede deneyimli bir tüccar olamaz. Herkes hata yapar. Herkes -herkes- bazen 
+kayıplar yaşar. İster kripto para birimleri üzerinde karmaşık opsiyon stratejileri oluşturuyor olun, ister sadece 
+bir yatırım fonu satın alıyor olun, bu doğrudur.
+Tüccarlar ticaret yapar. Ancak akıllı yatırımcılar sebepsiz, plansız ticaret yapmazlar. Bir sistem, bir dizi kural geliştirmeye çalışırlar ve 
+bunlara da sıkı sıkıya sarılırlar; yalnızca ticaretin entelektüel taleplerini sürekli dengelemekle kalmaz, aynı zamanda duygusal 
+durumlarını da sürekli olarak değerlendirirler ve ASLA bunu görmezden gelmezler veya yokmuş gibi davranmazlar. Her zaman öyledir.
+Bize katıldığınız için teşekkür ederiz. Çok mutlu dönüşler.
+Temel Video Eğitim Dersleri, bu Ustanın zihnindeki Gizli Otomasyon silahlarıyla kısa sürede nasıl büyük kar elde edileceğini gösteriyor
+75
+www.forexgercekleri.xyz - [Twitter: @eseckal]

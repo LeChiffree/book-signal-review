@@ -1,0 +1,547 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 18\Baskı 18\Günlük Trading - Giriş ve Çıkış Sistemleri 2023 - James Jecool King (32 sayfa) - @eseckal.pdf
+PAGES: 32
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+İçindekiler:
+Giriş.................................................................................................................................................3
+1. Temeller............................................................................................................................................ 4
+a. Forex Nedir
+b. Piyasa Nasıl Çalışır
+c. Ticaret Türleri
+i. Salınım İşlemleri
+ii. Günlük İşlemler
+d. Ticaret Platformları
+e.SL/TP
+En Çok Kullanılan İşlem Yöntemlerimiz.................................................................................. 8
+2. Risk Yönetimi ..................................................................................................................8a. %1-5 kullanarak
+b. Çoklu TP'ler
+c. R: R
+3. Ticaret Kanalları..................................................................................................................11a. Kanallar Sizi 
+Sahtekarlaştırabilir
+b. “Sahte” Kanallar
+4. Destek ve Direnç.................................................................................................................13a. S/R Nedir?
+b. Kanallarla Nasıl Çalışır
+5. Göstergeler..................................................................................................................................16a. Destek ve 
+Direnç Göstergesi
+b.Geri Dönüşlü Reaktif Güç Göstergesi
+c. Göstergelerin Görüşünüzü Bulandırmasına İzin Vermeyin
+6. Sinyaller .................................................................................................................................. 17a. Sinyaller Nelerdir
+b. Sinyallerin Faydaları
+giriiş
+Öncelikle, bu e-kitaba yatırım yapmak için zaman ve para harcadığınız için teşekkür ederim. Ne olursa olsun 
+zanaatınızı sürdürmeye istekli bir insan olmanız, muhtemelen aradığınızı bulacağınız anlamına gelir. İki tür 
+yatırımcı vardır. Biri kaybeder ve bırakır, diğeri ise ne olursa olsun devam eder. İkinci kişi olduğunuza bahse 
+girerim.
+Bu kitabın nedeni, grubumuzda iki tür yatırımcının olmasıdır: ticaret yapmayı öğrenmek isteyenler ve sadece 
+sinyallerden para kazanmak isteyenler. Şu anda sinyaller sunuyoruz, ancak yatırımcılara sinyal analizimizden 
+ders çıkarmak yerine daha kapsamlı bir eğitim sağlamak istedik.
+Sadece en sevdiğimiz ipuçları, püf noktaları ve piyasa sırlarından oluşan kısa bir kitap oluşturmak istedik. Aradığınızı bulmak için 
+okumanız gereken hiçbir gereksiz şey yok. Herhangi bir geri bildiriminiz varsa çok seviniriz. Teşekkür ederiz ve Keyfini çıkarın!
+Temeller
+Forex ticaretine yeni başladıysanız, temellerden bazılarını ele alarak başlayacağız. Deneyimli bir yatırımcıysanız, sonuna 
+atlayabilirsiniz. Ticaretle ilgileniyorsanız ancak nereden başlayacağınızı bilmiyorsanız, bu bölüm yardımcı olacaktır.
+Forex nedir? Nasıl çalışır? Ne ticareti yapacağım?
+Aslında sadece yabancı para ticareti olan forex'in karmaşıklıklarında kaybolmak kolaydır. Bu çok temel ve
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+kaba bir örnek, ancak Amerika Birleşik Devletleri'nde yaşadığınızı ve tatil için Avrupa'ya seyahat ettiğinizi varsayalım. 
+Avrupa'dayken alışveriş yapabilmek için USD'yi (ABD Doları) EUR'ya (Euro) çevirirsiniz. Euro'larınız artık Avrupa 
+ekonomisi için seyahatiniz sırasında gerçekleşen önemli olaydan önce olduğundan daha fazla değere sahip. Bu, 
+seyahatinizden hiç para harcamadan dönerseniz, Euro'larınızı USD'ye çevirdiğinizde yatırdığınızdan daha fazla 
+paranız olacağı anlamına gelir. Temelde yaptığımız şey budur, ancak çevrimiçi ve çok daha hızlı yapılır. Hisse 
+senetleriyle karşılaştırıldığında, forex'in bir avantajı, fiyatın yükselip yükselmeyeceğine "bahse girebilmeniz"dir, oysa 
+hisse senetlerinde yalnızca pozisyonunuzu satın alabilir veya kapatabilirsiniz.
+Brokerlar kimlerdir? MetaTrader nasıl çalışır? Kaldıraç: Nedir?
+Bir broker esasen sadece alım satım yapan bir işletme olduğundan, tek endişeniz hangi işlemin en iyi olduğudur. Yüz 
+binlerce dolarlık dövizin anında alım satımı bir broker tarafından inanılmaz derecede basit hale getirilir. Endişelenmeniz 
+gereken tek şey işlemlerinizden para kazanmaktır. Birçok yatırımcı MetaTrader 4 uygulamasıyla işlem yapmayı tercih ediyor. 
+Esasen, brokerinizin giriş bilgilerini girebileceğiniz bir işlem platformudur. Akıllı telefonunuzla hareket halindeyken 
+işlemlerinizi kolayca görüntüleyebilmeniz de oldukça popülerdir. Öte yandan ekibimiz "Oanda" uygulamasını çok daha fazla 
+tercih ediyor. Oanda bir brokerdir. Ayrıca, bizim görüşümüze göre Metatrader 4'ten daha üstün olan kendi akıllı telefon işlem 
+platformlarına sahiptirler. Sürekli olarak karlı bir yatırımcı olmak istiyorsanız, ülkeniz destekliyorsa Oanda uygulamasını 
+kullanmanızı öneririz. Metatrader 4, işlem dünyasında ayaklarınızı ıslatmak için iyi olabilir. Herhangi bir üretken yatırımcı için 
+önemli olan risk yönetimi için gerçekten olağanüstü araçlar sunarlar. MT4'ün (MetaTrader 4) para kazandıramayacağını 
+söylemiyoruz; bunun yerine, Oanda uygulamasının sık sık işlem yapmak isteyen yatırımcılar için en iyi araçlara sahip 
+olduğunu düşünüyoruz. Ticaret dünyasına yeni başlıyorsanız MT4 uygulamasıyla bir demo hesabı oluşturun. Hayali bir hesap 
+açıp onu anlamsızca harcamak eğlencelidir.
+Bir işlem nasıl yapılabilir? SL/TP nasıl ayarlanabilir? Bir sinyal nasıl işlem yapılır?
+MetaTrader ile işlem yapmaya başlamak için, uygulamanın indirildiğinden emin olun, ardından ayarlara gidin, Yeni Hesap'ı seçin ve 
+ardından Demo Hesabı Açın. "Teklifler" sayfasında, bunu yaptıktan sonra işlem yapabileceğiniz tüm pariteleri göreceksiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Bu döviz çiftlerinden birine tıkladığınızda, bir grafiğe bakabileceğinizi veya işlem yapabileceğinizi görebilirsiniz. "İşlem"e tıklarsanız, 
+bir sinyalin nasıl girileceğini göstereceğiz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Bir sinyal, farkında olmayanlar için birinin size hangi işlemleri yapacağınızı söylemesidir. Gönderdiğimiz gerçek bir 
+sinyal ve bunun MT4'e nasıl girileceği burada gösterilmektedir. Çoğu durumda TP ve SL'nin ne söylediğini kopyalayıp 
+yapıştırmanız yeterlidir. Bu örnekte iki TP vardır, ancak bunun için endişelenmeyin çünkü bundan daha sonra 
+bahsedeceğiz. SL ve TP'yi bir sinyalden MT4'e kopyalamak şu anda endişelenmeniz gereken tek şeydir. Stop Loss ve 
+Take Profit iki kısaltmadır. Bu araçlar çok önemlidir çünkü ya istediğimiz hedef seviyeye ulaştığında (önceki örnekte 
+yeşil renkle gösterilmiştir) ya da çok ileri gidip kayba yol açtığında işlemi bizim için otomatik olarak kapatırlar. Tutarlı 
+bir şekilde işlem yapmak isteyen her yatırımcı bunu yapmalıdır. Yatmadan önce işlem yapmak ve sonra uyandığınızda 
+işlemin yanlış yöne gittiği için hesabınızın boş olduğunu görmek olabilecek en kötü histir.
+Eğer bir rehbere ihtiyacınız varsa, Oanda'nın nasıl kullanılacağına dair video eğitimleri Signal Grubumuzda mevcuttur.
+Hangi meslekler var?
+Bunu temel eğitime ekleyeceğiz çünkü birçok kişi bize bunu soruyor. İşlemler genel olarak üç kategoriye ayrılabilir. 
+Kısa vadeli günlük işlemler, orta vadeli salınım işlemleri ve uzun vadeli işlemler. Günlük işlemler, gün sonundan önce 
+tamamlanan veya kapatılan işlemlerdir. Tipik bir "Forex Tüccarı" bu şekilde işlem yaptığını iddia eder. Önemli sonuçlar 
+görmek için önemli miktarda zaman harcamanız gerekecektir. Tam zamanlı bir işiniz varsa günlük işlem sizin için 
+muhtemelen mümkün değildir. Salınım işlemlerindeki pozisyonlar iki günden iki haftaya kadar sürebilir. Sinyal 
+grubumuzda bu tür işlemler yapıyoruz. Bunun nedeni: Günlük işlemler hızlıdır ve müşterilerimizin çoğu başka 
+ülkelerdendir. Bu, eğer uyuyorsanız işlemi ve fırsatı kaçırma olasılığınızın oldukça yüksek olduğunu gösterir. Salınım 
+ticaretiyle (2) birkaç saat sonra bile ticarete girme fırsatına sahip olacaksınız. Salınım ticareti daha tutarlı sonuçlar elde 
+etmemizi sağlar, ancak bir tüccar olma yolunda ilerledikçe, sizin ve yaşam tarzınız için en iyi işe yarayan stratejileri 
+seçebileceksiniz.
+En Çok Kullanılan Ticaret Yöntemlerimiz
+Bu bölüm, bir işlem kararı almak için en sık kullanılan tavsiyeleri içerir. Bu fikirleri okuyup anlarsanız, işlem yapmaya 
+başlamak (veya daha sık işlem yapmak) için bazı güzel araçlara sahip olacağınızı söylemeye gerek yok.
+Risk Yönetimi
+Yatırımcıların başarısızlığa uğradığına, cesaretlerinin kırıldığına ve çoğunlukla risk yönetimi becerilerinin eksikliğinden dolayı 
+pes ettiğine inanıyoruz. 1.000$ biriktirdiğiniz ve bununla işlem yapmaya karar verdiğiniz senaryoyu düşünün. Sonraki yedi 
+gün içinde birkaç kötü işlem yapıyorsunuz. Hesap bakiyeniz 20$ ile 550$ arasında, 1.000$ ile 230$ arasında dalgalanıyor. 
+Bunun hakkında ne düşündüğünüzü bilmiyorum ama ben bunu birkaç kez yaptım ve oldukça moral bozucu. Hepimiz kötü 
+anlaşmalar yapmaktan suçluyuz! İlk işlem yapmaya başladıklarında, hiç kimse mükemmel değildir! Peki, tüm hesabımızı 
+kaybetmeden kötü işlemler yapmayı nasıl öğreniriz? Risk kontrolü! Şimdi, bana katlanın. Bunu okuduktan sonra, çoğunuz 
+hesaplarınızı havaya uçurmaya başlayacaksınız. Bunun nedeni, birçok acemi yatırımcının forex piyasasının "açgözlülük ve 
+savurgan zenginlik" genel şemasına direnememesidir. "Hesapları 1.500 dolar değerinde, 1.000 dolarları var ve iyi bir işlem 
+yaptılar. Plan bu. ÇOK AZ PARA İLE BİR GECEDE ZENGİNLİK Bu tamamen yanlış. İyi bir işlemden 500 dolar kazanmış 
+olabilirsiniz, ancak sizi temin ederim ki bunu sürdüremezsiniz. Her işlemde büyük oynamalısınız çünkü o 500 dolar artık her 
+seferinde kazanmak istediğiniz şey! Ayrıca, hesabınız farkına varmadan değersiz hale gelir. Tam olarak ne yaparsınız? 
+Hesabınızı temizlemeden, kötü işlemlerden nasıl ders çıkarırsınız? İstatistiklere göre yatırımcıların %60 oranında doğru 
+olmasına rağmen paralarının %95'ini kaybetmeleri nasıl mümkün olur? Cevap risk yönetimidir! Bu nedenle, tipik bir forex 
+acemisi, benim yaptığım gibi, işlem başına hesabının %30 ila %50'sini riske atacaktır. İlk ben başladım. Bu, işlemi 
+kaybederseniz ve hesabınızda 1.000$ varsa, 500$ kaybetmiş olacağınızı gösterir. Ek olarak, hesabınızı üç ila dört işlem içinde 
+boşaltmalısınız. Bu durumda, doğru risk miktarı %1 ila %5'tir! İşlem başına %2 komisyona kesinlikle uyuyoruz, ancak siz karar 
+verin. Bu, 1.000$'lık bir hesapla bir işlemi kaybedersem 20$ kaybedeceğimi gösterir. Bir işlemi kaybettiğinizde, işlem 
+stratejinizin biraz çalışmaya ihtiyacı olduğunu hatırlatmak iyi bir fikirdir. İlk başladığımda, tek bir işlemde hesabımın yarısını 
+kaybettiğimde yıkıldığımı hatırlıyorum. Bu kabul edilemez! İşlem stratejiniz kaybedilen işlemleri de içermelidir! Tanrı 
+değilseniz hayatınızın geri kalanında işlemler kaybedeceksiniz. Soru "kötü işlemler yapmayı nasıl bırakırım" değil, "yine de iyi 
+para kazanırken kayıplarımı nasıl en aza indiririm?" sorusudur. Uygun işlem platformunu kullanmak,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Risk yönetimini hesaplamak kolaydır. Oanda uygulaması yalnızca bu sebepten dolayı şiddetle tavsiye edilir. Çünkü risk seviyesini 
+doğru bir şekilde belirleyebilirsiniz. MT4 ile daha çok bir tahmindir. Eğer geçiminizi ticaret yaparak sağlamak istiyorsanız, başarılı bir 
+ticaretten ne kadar kaybedeceğinizi ve ne kadar kazanacağınızı tam olarak bilmeniz gerekir. Size bunun hızlı bir karşılaştırmasını 
+göstereceğiz, ancak daha derinlemesine bir eğitim istiyorsanız, sinyal grubumuzda eğitim videoları bulunmaktadır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+MetaTrader'da ne kadar alım veya satım yapmak istediğinize karar vermek için birimleri kullanabilirsiniz (soldaki resim). Şahsen, 
+birimlerin şimdiye kadarki en kafa karıştırıcı kavram olduğuna inanıyorum. Bunun ardındaki matematiği anlamak için birkaç kez 
+denedim, ancak o kadar şaşırtıcı ki uğraşmıyorum. "Birimler" hakkında kendi başınıza araştırma yapabilirsiniz, ancak size çok daha 
+basit olan OANDA uygulamasıyla (sağda resmedilmiştir) riski nasıl hesaplayacağınızı göstereceğim. Örneğimiz olarak daha önceki 
+GBP/USD sinyalini kullanalım. İşaret SL:1.26 ve TP:1.3363 idi. Bu nedenle, bu verileri Oanda'ya girdiğinizde, SL ve TP arasındaki kesin 
+pip sayısını gösterecektir. Buradan, kayıt bakiyenizin %2'sini yansıtmak için soldaki birimlerinizi artırabilir/azaltabilirsiniz. Sağ tarafta, 
+Oanda size kaç tane "mevcut birim" satın alabileceğinizi gösterir. Bu örnekte, 1.000$ hesabımızda 20$ risk almak istiyoruz. 15.215 
+adet kullanılabilir birimim var, bu yüzden "stop loss -USD miktarı" tam olarak -$20'ye gelene kadar birkaç farklı sayıyla oynayacağım. 
+Oldukça iyi olduğum için sadece birkaç saniyemi alıyor. Bu durumda, doğru miktar 900 birim veya işlem ters giderse -$19.98'dir. 
+Daha sonra bu bilgiyi doğru bir şekilde edindiğinizde ne kadar kazanacağınızı veya kaybedeceğinizi tam olarak gösterecektir! Benim 
+durumumda, 49$ kazanabilir ve 20$ kaybedebilirim. Bu, birçok yatırımcının vaat ettiği "bir gecede zenginlik" değil, ancak bana 
+sorarsanız, neredeyse 50$ kazanma şansıyla 20$ riske atmak oldukça heyecan verici. Hesabınız büyüdükçe ve daha iyi hale geldikçe, 
+bu sayı işlem başına 500$'a ve daha da fazlasına çıkacak!
+Birden fazla TP ile çalışma
+Bazen birden fazla Take Profits ile işlemler gönderiyoruz. Bu, işlemin iki dönüm noktasına ulaşacağına inandığımızı 
+gösterir. Hem kısa vadeli hem de uzun vadeli dönüm noktası. Ayrıca, birden fazla TP kullanmak riski azaltır ve kötü bir 
+işlem durumunda karı güvence altına alır. GBP/USD sinyalimizi bir kez daha örnek olarak kullanalım.
+SL:1.26
+TP1:1.3129
+TP2:1.3363
+Bu senaryoda, riski iki işlem arasında bölmelisiniz. Aslında, hiç de zor değil. Önceki örnekteki %2 riski 
+temsil eden 900 birimi yarıya bölün. Bu, her biri %1 risk ve 450 birim değere sahip iki işlem yapacağınız 
+anlamına gelir. Sadece riski bölüyoruz, bu da aynı miktardır.
+R:R (Risk Ödül Oranı)
+Bazılarınız bunu forex ticaretinin temel bir ilkesi olarak görebilir ancak bu stratejimizin temel bir parçasıdır. Temel olarak, risk 
+ödül oranı ne kadar kaybedebileceğinizin: kazanabileceğinizin oranıdır. GBP/USD örneğinde R:R oranımız 1: 2,5'ti. Bunun 
+nedeni 49$ kazanmak için 20$ riske etmemizdi (20:49 azaltıldığında yaklaşık 1:2,5'tir) Size iyi ve kötü R:R oranlarına sahip bazı 
+işlem örnekleri göstereceğim.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Örneklerde gösterildiği gibi soldaki işlem yaklaşık olarak 1:1 R'dir: Sağdaki işlem 1:4'tür (iyi), R ise kötü bir işlemdir. 
+Tüccarların %60'ı doğrudur, ancak %95'i 1:1'den düşük işlemler yaparak para kaybederler. Bunun nedeni, işlemlerinin 
+kazançlarını aşan kayıplara yol açabilmesidir! 1:1-4 R'ye sıkı sıkıya bağlı kalırsanız: Bu, üst üste üç işlem kaybederken bir işlem 
+kazanabileceğiniz ve yine de karlı olabileceğiniz anlamına gelir! 1:4 RR işlemlerini bulmak daha zordur, ancak daha iyi hale 
+geldikçe ve sinyal grubumuzdan işlem kurulumlarını tanımayı öğrendiğinizde, yakında bu türden daha fazla işlemi 
+tanımlayabileceksiniz. Sonuçlarımızın "gerçek olamayacak kadar iyi" olması nedeniyle sürekli olarak "dolandırıcılık" veya 
+"sahte" olduğumuzu iddia eden insanlardan DM alıyoruz, ancak gerçekte öyle değiller. Sadece 1:3 veya daha yüksek oranda 
+işlem kabul edip %2 risk yönetimi yaparsanız kar elde etmemeniz zor olacaktır. Sorun şu ki çoğu yatırımcı bu disiplini 
+sürdürmekten hoşlanmaz.
+Ticaret Kanalları
+Kanallar, grafiklerde işlem yapmayı en sevdiğimiz desenlerden biridir. Dikkatli bakarsanız, bir kanal gibi sürekli 
+gerçekleşen desenlerde fiyatın nasıl değiştiğini görebilirsiniz. Aşağıda bir çizim verilmiştir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Şimdi, bu örneğe baktığınızda, "Vay canına, artık ticaretin gizli formülünü biliyorum!" diye düşünmek kolaydır. Ancak 
+bu kadar basit değildir. Kanallar her zaman istediğiniz gibi davranmaz ve fiyat bazen kendiliğinden kanaldan çıkabilir. 
+Kanallarla işlem yaparız çünkü sıklıkla tutarlı davranırlar. Bir kanalın tepesinde veya dibinde fiyatı tespit etme ve bunu 
+yüksek R:R oranlı bir işlemle birleştirme yeteneğiniz varsa, kazançlı bir işlem yapabilirsiniz. İşte kanalların kontrolden 
+çıktığına dair birkaç örnek.
+Önceki çizimde uzun süredir tutarlı bir şekilde hareket eden bir kanal görebilirsiniz! İşlem kurulumu mükemmel 
+görünüyor (yüksek R:R oranı ve kanalın en yüksek noktasında) ancak kader her durumda seçti. Profesyonel 
+yatırımcılar tahmin etmede çok iyidir ve zamanla tahmin etmede daha iyi hale gelirler çünkü piyasayı doğru bir 
+şekilde tahmin etmek imkansızdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Bu örnekteki işlem, inişine devam edip ana kanalın dibine ulaşmadan önce mini bir kanala giriyor gibi 
+görünüyordu. Bununla ilgili sorun, işlemi zamanında tamamlayamamamızdı. Bu kadar küçük işlemler 
+yaptığınızda, sonunda kanalın dibine ulaşıp ulaşmayacağını tahmin etmek imkansızdır.
+Bu, bir işlemin "sizi kandırmasının" bir örneğidir. Bazen fiyat kanalın altına düşecektir, ancak daha sonra tekrar kanala 
+yükselecek ve normal davranacaktır. Amatör bir tüccar, bir kanal kopuşu gördüğü anda satar ve kanal tekrar 
+yükseldiğinde hemen para kaybeder. Temel Tavsiye: Fiyattan uzak durun! Kesinlikle yanılıyorsunuz! Meslekten uzak 
+durun ve içeriden bilgi edinin. Alım/satım/alım/satış/alım yaparsanız, ne yaptığınızı bilmediğiniz açıktır (ilk planınız işe 
+yaramadığı ve şimdi başka bir şey denediğiniz için). Tanım gereği yanılıyorsunuz. Bu nedenle, işlemden çıkın, ondan 
+bilgi edinin ve ya farklı bir parite ile işlem yapın ya da daha sonra ona geri dönün. Birçok işlem "bizi kandırmaya" 
+çalıştığı için, işlemler oluşturduğumuzda SL'yi bu olasılığın altına ayarlamaya çalışıyoruz.
+Destek ve Direnç
+İşlem yaparken, dikkate alınması gereken bir diğer önemli husus destek ve dirençtir! İşlemlerimizi kontrol etmek 
+için bunu sıklıkla diğer stratejilerle birleştiriyoruz. Çoğu durumda, fiyat hareketinde belirli seviyeler korunacaktır. 
+Fiyat belirli bir seviyede üç kez durdurulursa, tekrar durdurulma olasılığı yüksektir. Destek ve
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Dirençler bu temel prensibe dayanır. Fiyatın sıklıkla eşit fiyat seviyelerine (1.000, .600, 27.500, vb.) bağlı 
+kalması, destek ve direncin bir başka örneğidir. Bunun nedeni, yatırımcıların duygusal olmaları ve bu 
+seviyelere ulaştığında bir işlemi kapatmaları veya açmaları gerçeğidir. Ek olarak, büyük bankalar da bu 
+seviyelerde işlemlere girip çıkacaklardır, bu da fiyat hareketini etkileyebilir. İşte birkaç örnek.
+Bu durumda, fiyat en üstteki yeşil çizgiye bağlı kalırken aşağı doğru yukarı doğru bir kama hareketine 
+girmiştir. Ya yükselip kama direncini kırabilir ya da alçalıp orada sıçramaya devam edebilir.
+Bu örnekteki işlemin bu S/R seviyesine saygı göstereceğine ve aşağıya doğru geri sıçrayacağına inanıyoruz. S/R mükemmel bir 
+bilim olmasa da, olası fiyat geri dönüşlerini belirlemek için diğer stratejilerle birlikte kullanıldığında faydalıdır. Ayrıca, S/R'yi 
+gösteren bazı güzel göstergelerden de daha sonra bahsedeceğiz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Oluşturduğumuz bu çizim gerçek bir grafik olmasa da, fiyatın kanala ve S/R seviyelerine nasıl uyduğuna 
+dikkat edin. Bu çizimi sunuyoruz çünkü S/R'yi diğer stratejilerle birlikte kullanmak önemlidir.
+Göstergeler
+Grafiğinizde istatistiksel ve matematiksel verileri görüntüleyen bir katman, bir gösterge olması gereken şeydir. Muhtemelen, size işlemlere 
+nerede girip çıkacağınızı sihirli bir şekilde söyleyen "sihirli bir gösterge" sattıklarını söyleyen tüccarlar hakkında çok şey biliyorsunuzdur. 
+Bunun gerçek olmadığını size bildirmek için buradayız. İşaretçiler, piyasanın nasıl hareket ettiğini ve hareket edeceğini algılamak için değerli 
+araçlar olabilir, ancak hiçbir işaretleyici size ne yapmanız gerektiğini gizemli bir şekilde göstermez. İlk ticarete başladığımda ekranımda bir 
+sürü gösterge vardı! Dürüst olmak gerekirse, o sırada ne yaptığım hakkında hiçbir fikrim yoktu ve kaotikti.
+Hepinizin buna benzer bir grafiği olabilir. Eğer bu sizi tanımlıyorsa ve tüm bu göstergeler size yardımcı oluyorsa sizin için iyi. 
+Ancak, çoğunun sadece alanınızda uzman olduğunuz izlenimini vermek için orada olduğunu iddia etmeye hazırım. Biz kişisel 
+olarak aynı anda yalnızca bir veya iki göstergeyle işlem yapıyoruz. Yeni bir göstergenin stratejinizi değiştirmemesi gerektiğini 
+unutmayın! Forex kavramları ve piyasa davranışları hakkında bilgi edindikten sonra, kalıpları tespit etmenize yardımcı olacak 
+bir gösterge aramalısınız! Birçok yatırımcı bir gösterge hakkında bir YouTube videosu izler ve "Vay canına, bu mantıklı; o 
+adamın bana gösterdiği şey onun için işe yaramış!" diye düşünür. Ancak, büyük ihtimalle sizi sadece şaşırtacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Başarımızın yalnızca yaklaşık %10'u göstergelerden geldiği için, bunları incelemek için çok fazla zaman harcamayacağız. 
+Yemeğinizin tuzu olarak göstergeler olmalı. Bir lokma biftek ve bir kavanoz tuz? Kimse istemez! Göstergeleriniz aynı 
+şekilde ele alınmamalı! Şimdi, bize gerçekten yardımcı olan iki veya üç göstergeden bahsedeceğiz.
+S/R Göstergesi
+Destek ve direnç bu gösterge tarafından gösterilir. Ücretsiz/temel bir göstergeden çok uzaktır ve muhtemelen tüccarınıza/
+sahnenize eşlik etmeyecektir. Bir kullanıcı olan LazyBear bunu "S/R Levels" adı altında yazmıştır. "Kullanımı aylık 30 dolara mal 
+oluyor. Bir deneme yaptım ve S/R'yi belirlemede çok yardımcı olduğunu gördüm.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Gösterge, yeşil ve kırmızı noktalarla gösterildiği gibi destek ve direnç seviyelerini belirliyor. Mükemmel işlemleri 
+garanti eden "sihirli bir gösterge" olmasa da, S/R seviyelerini belirlemenize yardımcı olmalı. Görüldüğü gibi, fiyat S/R 
+seviyelerini tekrar tekrar ihlal ediyor. Ek olarak, bu gösterge fiyatın ne zaman bir kopuşa girdiğini belirlemek için 
+yararlıdır. Bu S/R seviyesine ulaştığında, ya yükselecek ya da düşecektir. İşlem yapmadan önce bir kopuş veya 
+sıçrama onayı alana kadar beklemek, bu göstergeyle faydalı bir stratejidir.
+RSI (Göreceli güç endeksi)
+RSI (Göreceli güç endeksi), piyasanın ne zaman aşırı alım veya aşırı satım yaptığını belirlemek için yararlı bir araçtır. RSI grafiği en 
+üste çıktığında bu aşırı alım olabileceğinin bir göstergesidir ve en altta olduğunda aşırı satım olduğunu gösterir. Bu, fiyatın 
+potansiyel bir düşüş/yükseliş yapabileceği zamanı belirlemek için yararlıdır. Tekrar ediyorum, yalnızca RSI'ye veya herhangi bir 
+göstergeye güvenemezsiniz. Her zaman %100 doğru olacak bir gösterge yoktur, bu yüzden işlem stratejilerini bir göstergeye değil, 
+SİZİN yapmanız önemlidir. Aşağıda RSI'nin bir örneği verilmiştir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Sonuç olarak, göstergeler piyasa eğilimlerini belirlemede faydalı olabilir, ancak her zaman doğru değildir. Bir ticaret 
+stratejisi geliştirdikten ve ne yaptığınızı bildikten sonra, ticaret stratejinizi belirlemenize yardımcı olacak bir gösterge 
+bulmak çok önemlidir
+En Önemli Fiyat Hareketi Desenlerinin Listesi
+Fiyat hareketi tüccarı olmak için, piyasanın birçok farklı fiyat hareketi kalıbı hakkında çok şey bilmeniz gerekir. Bu 
+kalıplarla ilgili sorun, piyasada bunlardan o kadar çok olması ki, hangilerini öğrenmeniz ve hangilerinden 
+vazgeçmeniz gerektiğini söylemek zor olabilir.
+Bu soruna bir çözüm olarak, forex yatırımcılarının anlaması için en önemli olduğunu düşündüğüm fiyat hareketi 
+kalıplarının bir listesini size sunmaya karar verdim. Bunu okuyanlarınızdan bazılarının muhtemelen bildiği gibi, 
+piyasada ortaya çıkabilecek üç temel kalıp türü vardır:
+• Fiyat Hareketi Tersine Dönüş Modelleri
+• Fiyat Hareketi Devam Modelleri
+• Fiyat Hareketi Mum Çubuğu Deseni
+Bu yazımda, öncelikle piyasada dikkat etmeniz gereken en önemli fiyat hareketi geri dönüş formasyonlarını, 
+ardından en önemli fiyat hareketi devam formasyonlarını ve son olarak da en önemli iki fiyat hareketi mum 
+formasyonlarını göstereceğim.
+Fiyat Hareketi Tersine Dönüş Modelleri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Tersine dönüş kalıpları, muhtemelen hakkında çok şey bilmeniz gereken en önemli fiyat hareketi kalıpları 
+kümesidir çünkü size bir piyasa hareketinin sona ermek üzere olup olmadığını erkenden söyleyebilirler. Bu 
+bölümde size göstereceğim altı kalıbın her biri çoklu salınım şeklidir, yani piyasadaki birden fazla yükseliş ve 
+düşüşten oluşur. Tamamlandıklarında, hepsi ortak şekiller gibi görünür.
+Baş ve Omuz Deseni
+Baş ve omuzlar kalıbı inceleyeceğimiz ilk fiyat hareketi tersine dönüş kalıbıdır. Piyasadaki en iyi bilinen ve popüler 
+fiyat hareketi kalıplarından biri olan baş ve omuzlar formasyonu, fiyat hareketi kullanarak tersine dönüşleri tespit 
+etmede iyi olmak isteyen tüm fiyat hareketi tüccarlarının ezberlemesi ve kavraması gereken bir kalıptır. Baş ve 
+omuzlar kalıbı, muhtemelen tahmin ettiğiniz gibi bir tersine dönüş kalıbıdır.
+İşte EUR/USD paritesinin 1 saatlik grafiğinde oluşan düşüş yönlü baş ve omuz formasyonunun görüntüsü.
+Desenin yapısı, görselde gösterildiği gibi, omuzları birbirine paralel şekilde dik duran bir kişinin yapısına çok 
+benzemektedir. Baş ve omuz desenlerinin çoğu yukarıdaki resimdeki gibi görünmek için tasarlanmıştır, ancak 
+birçoğu aslında birbirinden biraz farklı özelliklere sahiptir. Örneğin, bir omuzun diğerinden biraz daha yüksek 
+olduğu veya iki omuz ile baş arasındaki mesafenin yukarıdaki desenden daha küçük veya daha büyük olduğu 
+bir desen gözlemleyebilirsiniz. Desen, bu önemsiz değişikliklerden anlamlı bir şekilde etkilenmez. Baş her 
+zaman ortada ve iki omuz her iki tarafta olduğu sürece bu bir baş ve omuz desenidir. Bu bir baş ve omuz 
+deseni değildir ve sağ omuzun tepe noktasının, başı oluşturan yukarı hareketin salınım dip noktasının altında 
+olduğu bulunursa bu şekilde ele alınmamalıdır. Desenin kendisinin iki versiyonu vardır. Yukarıdaki görselde 
+incelediğimiz desen, piyasanın aşağı doğru dönebileceğini gösteren ayı baş ve omuz deseni olarak adlandırılır. 
+Öte yandan, aşağıdaki görseldeki boğa baş ve omuz formasyonudur ancak formasyonun temelde ayı 
+formasyonunun ters bir versiyonu olması nedeniyle sıklıkla ters baş ve omuz formasyon olarak adlandırılır. Bu 
+formasyonların her ikisi de piyasanın aşağı doğru dönebileceğinin sinyalleridir.
+İşte ters omuz ve baş formasyonu grafikte nasıl görünüyor.
+Desenin ayı versiyonu aynı özelliklerin hepsine sahiptir, ancak tersi doğrudur. Sol ve sağ omuzlar 
+ve baş, ayı deseninde olduğu gibi yukarı değil aşağıyı işaret eder. İki desen arasındaki tek gerçek 
+fark, desenin geçersiz kılınması için ne olması gerektiğidir.
+Eğer sağ omuz, boğa baş ve omuzlar formasyonunda başı oluşturan yukarı hareketin swing low'unun altında 
+oluşursa, formasyon bir baş ve omuzlar değil, farklı bir formasyondur. Sadece sağ omuz, ayı baş ve omuzlar 
+formasyonunda başı oluşturan aşağı hareketin swing high'unun üzerinde oluşamaz; eğer oluşursa, ayı baş ve 
+omuzlar formasyon değildir.
+Genel olarak, baş ve omuzların oluşumu, mevcut hareketin değişmek üzere olduğunun oldukça güvenilir bir göstergesidir. Baş ve 
+omuzlar formasyonunun nasıl işlem göreceği ve grafiklerinizde nasıl görünmesi gerektiği hakkında daha fazla bilgi edinmek 
+istiyorsanız aşağıda bıraktığım makaleye göz atın.
+Çift Dip ve Çift Tepe Desenleri
+Ayrıca, her ikisi de son derece önemli olan çift tepe ve çift dip tersine dönüş formasyonlarının piyasa tarafından nasıl 
+oluşturulduğunun da farkında olmalısınız. Çift dip formasyonunda, piyasa tersine dönmeden önce benzer fiyatlarda 
+swing dipleri ile iki düşüş yaşayacaktır; çift tepe formasyonunda ise piyasa tersine dönmeden önce benzer fiyatlarda 
+swing tepeleri ile iki yükseliş yaşayacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Yukarıdaki görsel USD/JPY'nin 1 saatlik grafiğinde çift dip formasyonunun bir örneğidir.
+Piyasa bir düşüş ve ardından bir yükseliş yaşadıktan sonra, desenin ilk kısmının oluştuğu görülebilir. Desen 
+sırasında ortaya çıkan iki dipten biri, daha yüksekteki salınımın dibinde oluşan salınım dip noktasıdır. Sonraki 
+salınım dip noktası ve taban, bu ilk salınım dip noktasının şekillendiği karşılaştırılabilir bir vurguda sürekli 
+olarak çerçevelenecektir ve genel salınım yapısı, örnek tamamen büyüdüğünde kural olarak W harfine 
+benzeyecektir. Bu görüntüde çift tepe deseninin bir örneğine bakıyoruz.
+Doğal olarak, çift tepe, çift dip noktasının tam tersidir, yani iki salınım dip noktası yerine, benzer fiyatlarda salınım 
+yükseklikleri oluşan iki yükseliş noktası vardır. Her iki desendeki ikinci tepe veya dip noktası, ilk tepe veya dip noktasının 
+oluştuğu fiyattan önemli ölçüde düşük bir fiyatta meydana gelirse, her iki desen de geçersiz sayılır. Bunun ne kadar uzakta 
+olması gerektiğine dair kesin bir kılavuz yoktur, ancak ilk tepe veya dip noktasının altında veya üstünde iki veya üç büyük 
+mum çubuğu kapatırsanız, muhtemelen bu bir çift dip veya çift tepe deseni değildir.
+Genel olarak konuşursak, iki katlı taban ve iki katlı tepe örnekleri, aslında değiş tokuş edilmesi çok zor örnekler 
+olmalarına rağmen, iki güzel ters çevirme gelişimidir, çünkü bir sonraki taban veya tepenin 
+çerçevelenmesinden sonra görülen salınım, bir değiş tokuşa girdikten kısa bir süre sonra kolayca bir geri 
+çekilmeye veya birleşmeye dönüşebilir.
+Yükselen ve Düşen Kama Deseni
+Yükselen kama ve düşen kama, inceleyeceğimiz iki son fiyat hareketi tersine dönme örüntüsüdür. Piyasa 
+bazen bir yukarı veya aşağı hareketin sonundan önce daralır ve bu da "yükselen kama" ve "düşen kama" 
+adlarının ortaya çıkmasına neden olur. "Salınımların daralması kama oluşturur ve örneklere adını verir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+İşte EUR/USD günlük grafiğinde oluşan büyük yükselen kama formasyonunun görüntüsü.
+Piyasanın kama başlangıcında alt kama çizgisine ve üst kama çizgisine çarpması arasında önemli bir 
+mesafe olduğunu görebilirsiniz. Ancak, desen ilerledikçe, iki çizgi arasındaki mesafe giderek küçülür ve 
+bir noktada birbirlerine o kadar yakınlaşırlar ki bir okun ucunu oluşturmak için birleşecekmiş gibi 
+görünürler.
+Bu resimde, düşen kama formasyonunun bir örneği görülebilir. Kama formasyonunun boğa versiyonu olan düşen 
+kama, piyasanın yakında ters yönde, yukarı doğru hareket edebileceğinin bir işaretidir. Bu formasyon ile yükselen 
+kama formasyonunun arasındaki tek fark, salınımların yükselen kama formasyonunda olduğu gibi yukarı yönde 
+değil, aşağı yönde daralmasıdır. Sonuç olarak, yükselen ve düşen kama formasyonlarını bir grafikte tanımak 
+önemlidir, ancak bunları işlem giriş fırsatlarını aramak için kullanmamalısınız çünkü salınımlar daraldıkça ve 
+formasyon kapandıkça birçok yanlış sinyal ortaya çıkacaktır.
+Fiyat Hareketi Devam Modelleri
+En önemli fiyat hareketi tersine dönüş modellerinden bazılarını incelediğimize göre, piyasada oluşmasını bekleyebileceğiniz 
+en önemli fiyat hareketi devam modellerine geçmenin zamanı geldiğine inanıyorum. Az önce incelediğimiz tersine dönüş 
+modellerinin tersi fiyat hareketi devam modelleridir. Bize doğru hareket etmek yerine bir tersine dönüş meydana gelecektir, 
+bunların ortaya çıkması en son şeyin/gelişmenin muhtemelen devam edeceğinin bir işaretidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Yükselen ve Düşen Kama Devamı
+Fiyat hareketinin tersine dönmesi formasyonları en yaygın tür olmasına rağmen, yükselen ve düşen kama formasyonları da sırasıyla 
+yükseliş trendleri veya düşüş trendleri sırasında ortaya çıkarsa devam formasyonları olabilir.
+EUR/USD paritesinde oluşan düşen kama formasyonu.
+Düşen kamanın tersine dönüşü her zaman bir düşüş trendinin veya aşağı hareketin sonunda meydana gelirken, devam 
+varyasyonu yalnızca bir yükseliş trendi veya yukarı hareket sırasında meydana gelir. Kamanın oluşumu, bir düşüş trendinin 
+sonunda bir tersine dönüş olsaydı olduğu gibi aynı şekilde görünür.
+Desen ilerledikçe salınımlar daralır ve piyasa, desenin daha keskin aşağı eğimine ulaştığında oluşan salınım zirvelerinin 
+üzerine çıkana kadar yukarı yönlü bir kırılma meydana gelir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+USD/JPY 1 saatlik grafiğinde yükselen kama formasyonu.
+Yükselen kama deseni, düşen kama deseninin aksine, yalnızca düşüş trendleri sırasında bir devam deseni olarak görünür. 
+Bu desenlerden birini yükseliş trendi sırasında gördüğünüzde, bu bir devam deseni değildir; bunun yerine, bir önceki 
+bölümde tartıştığımız tersine dönüş desenidir. Piyasanın kama devam desenlerinin çoğu, yukarı veya aşağı hareketler 
+sırasında geri çekilmeler olarak ortaya çıkar. Geri çekilme boyunca oluşurlar ve her desenin sonunda görülen kopuş, 
+genellikle yalnızca desenin oluşumunun değil, aynı zamanda bir bütün olarak geri çekilmenin de sonunu ifade eder.
+Boğa ve Ayı Bayrak Deseni
+Ayrıca, bazen "boğa bayrağı" ve "ayı bayrağı" olarak telaffuz edilen, piyasada fiyat hareketi devamı kalıpları olarak 
+oluşan boğa ve ayı bayraklarını da göreceksiniz. Adlarını, bir direk üzerindeki bayrağa benzeyen kalıbın yapısından 
+alırlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Yukarıdaki görselde AUD/USD paritesinde oluşan yükseliş bayrağı formasyonunun bir örneğini görebilirsiniz.
+Örneğin temelde iki yerden oluştuğunu görebilirsiniz. İlk nokta, geri çekilme başlamadan hemen önce keskin bir 
+yükseliş hareketidir (bayrak direği olarak bilinir) ve ikinci nokta geri çekilmenin kendisidir. Desenin bayrak kısmı geri 
+çekilmedir ve her zaman bayrak direğini oluşturan düşüşün %50 fibonacci geri çekilme seviyesinden önce sona 
+ermelidir. Piyasa %50 seviyesinin üzerine geri çekilirse, bu genellikle desenin bir bayraktan başka bir şeye kaydığını 
+gösterir.
+Bu görsel EUR/USD paritesinde 1 saatlik grafikte oluşan düşüş bayrağı modelini göstermektedir.
+Ayı bayrağı esasen tersine dönmüş boğa bayrağıdır. Bir desenin bayrak olarak kalma olasılığı, piyasa bayrak direği 
+salınımının %50 seviyesinin ötesine geçtiğinde önemli ölçüde azalır; bu, her iki desenin de nasıl oluştuğu ve aynı oluşum 
+kurallarına nasıl uyduğudur. Piyasada, boğa bayrakları ve ayı bayrakları sıklıkla oluşur ve sıklıkla mevcut hareketin devam 
+edeceğine dair oldukça güvenilir göstergelerdir. Bir arz veya talep bölgesi genellikle bir bayrağın sonlanacağı aynı yerde 
+oluşur. Bu nedenle, bir bayrak desenine dayalı bir ticarete girmeyi denemek istiyorsanız, bunu yakındaki bir arz veya talep 
+bölgesinin oluştuğu nokta civarında yapmalısınız. Bu noktada, bayrağın sona ermesi ve önceki trend veya hareketin devam 
+etmesi muhtemeldir.
+Alçalan ve Alçalan Üçgen Desenleri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Yükselen üçgen ve alçalan üçgen, inceleyeceğimiz iki devam örüntüsüdür. Daha önce incelediğimiz 
+yükselen ve alçalan kama örüntüleri üçgen örüntülerine çok benzer. Aynı şekilde gelişirler ve aynı 
+salınım yapısını paylaşırlar. İkisi arasındaki temel fark, her üçgen örüntüsünün her zaman piyasa 
+örüntüden çıkana ve onu önceleyen trendle aynı yönde hareket etmeye devam edene kadar direnç veya 
+destek seviyesi görevi gören tek bir düz kenara sahip olmasıdır.
+İki üçgen örüntüsünün boğa varyantı yükselen üçgendir. Sadece yükseliş trendleri veya yükselişler sırasında ortaya 
+çıkar ve genellikle mevcut hareketin devam edeceğine dair bir işaret olarak kabul edilir. Desen oluşurken piyasanın 
+aşağı hareket etmesini engelleyen seviye yükselen üçgenin düz kenarıdır.
+Düşen üçgen, üçgen örneğinin negatif yorumudur ve gelişimi devam eden aşağı hareketin/aşağı trendin 
+muhtemelen devam edeceğinin bir işaretidir. Yükselen üçgenden onu ayıran tek şey, düz kenarının bir direnç 
+seviyesi olarak hizmet etmesi ve piyasadaki desenin oluşumu sırasında fiyatların daha fazla yükselmesini 
+engellemesidir. Gerçek kırılmadan önce genellikle birkaç yanlış kırılma meydana geleceği ve piyasanın desenin 
+piyasada oluşmasından önce hareket ettiği yönde hareket etmesine neden olacağı için, yükselen ve alçalan üçgen 
+kalıpları bilmek için yararlıdır ancak ticaret için çok yararlı değildir.
+Fiyat Hareketi Mum Çubuk Desenleri
+Bugün göreceğimiz maliyet etkinliği tasarımlarının son düzenlemesi maliyet etkinliği mum tasarımlarıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Birçok farklı mum çubuğu deseni vardır, ancak ben sadece fiyat hareketi yatırımcılarının en çok bilmesi gerektiğini düşündüğüm 
+ikisine odaklanmak istiyorum.
+Pin Bar/Çekiç Mumluk
+Piyasada, pin bar tüm dövizlerde ve zaman dilimlerinde görülen tek bir mum desenidir. Görünüşünün bir tersine dönüşün 
+geldiğine dair bir işaret olması amaçlandığı için, fiyat hareketi tersine dönüş desenleri kategorisine aittir.
+Çok az pin bar'ın aslında önemli piyasa tersine dönüşlerine neden olmasına rağmen, nedenini birazdan açıklayacağım. Pin 
+bar, fiyat hareketi modellerinin çoğu gibi, iki biçimde bulunabilir: Aşağıya doğru bir tersine dönüşün muhtemelen 
+gerçekleşeceğini belirten ayı pin barı ve yukarı doğru bir tersine dönüşün gerçekleşmek üzere olabileceğini belirten boğa 
+pin barı.
+İşte EUR/USD'nin 1 saatlik grafiğinde oluşan bazı yükseliş pin barlarının görüntüsü
+Gördüğünüz gibi, bir kez oluştuktan sonra, bu yükseliş pinlerinin büyük çoğunluğu piyasanın tersine dönmesine neden oldu, ancak 
+hepsi aynı süre boyunca bunu yapmadı. Bazıları önemli yükselişlere neden oldu, diğerleri ise yalnızca küçük geri çekilmeler üretti.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Bu görselde USD/JPY'nin 1 saatlik grafiğinde oluşan bazı düşüş eğilimi gösteren pin barlarını görebiliyoruz.
+Burada oluşan pin çubuklarının aynı zamanda farklı boyutlarda tersine dönüşlere de yol açtığını bir kez daha görebilirsiniz. 
+Pin çubuğunun ilk başta oluşmasına neden olan eylem, pin çubuklarında farklı boyutlarda tersine dönüşlere neden olan 
+şeydir. Grafiklerinizde görünen diğer tüm mumlar, pin çubukları dahil, yatırımcıların piyasa fiyatı hakkında kararlar 
+almasının sonucudur. Pin çubukları, yalnızca banka brokerlerinin piyasayı döndürmek için borsaları ayarlaması veya daha 
+önce koydukları borsalardan kar elde etmeleri sonucu şekillenir.
+Doğal olarak, banka tüccarları işlemlerinden kar elde ettiğinde oluşan pin bar'ın neden olduğu tersine dönüş, tüccarlar 
+piyasayı tersine çevirmek için işlem yaptığında oluşan pin bar'ın neden olduğu tersine dönüşten çok daha küçüktür. Bu 
+mantıklıdır; sonuçta, bir işlemden biraz kar elde ettiyseniz, piyasanın işleminizle aynı yönde hareket etmeye devam etmesini 
+ve böylece daha fazla para kazanmanızı istersiniz. Banka tüccarları kendi işlemlerinden kar elde ettiğinde, bir pin bar'ın 
+oluşmasına neden olduklarında aynı şeyin olmasını isterler.
+Bu nedenle bazı pin barların neden olduğu geri dönüşler diğer pinlerin neden olduğu geri dönüşlerden çok daha küçüktür. Fiyat hareketleriyle 
+işlem yapıyorsanız, boğa ve ayı pin barları dikkat etmeniz gereken mükemmel geri dönüş desenleridir. Ancak, bunlardan faydalanmak için 
+bunları doğru şekilde işlem yapmalı ve piyasada neden oluştuklarını anlamalısınız. Pin bar rehberlerinin ve kitaplarının çoğu, yatırımcılara 
+bunların oluşmasına neyin sebep olduğunu öğretmez; ancak, bunların oluşmasına neyin sebep olduğunu bilmek, hangi pinlerin başarılı olma 
+olasılığının yüksek olduğunu belirlemenize yardımcı olacaktır.
+Pin barların lookout'ta şekillenmesine neyin sebep olduğunu daha iyi anlamak için, sitede erişebildiğim diğer pin bar 
+makalelerinin bir kısmına göz atın veya harika şeyler sayfasında bulunan Pin Bars Revealed kitabını inceleyin, çünkü bu kitap, 
+bayilerin pin barların lookout'ta neden şekillendiğini ve bunları nasıl üretken bir şekilde değiştireceklerini anlamalarına 
+yardımcı olmaya adanmıştır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Yutan Mumlar
+Yutan mum çubuğu, fiyat hareketi yatırımcılarının farkında olması gereken diğer çok önemli mum çubuğu örüntüsüdür 
+Yutan mum çubuğu, pin çubuğu gibi bir tersine dönüş örüntüsüdür, yani piyasada bir tane oluştuğunu gördüğünüz anda 
+tersine dönmesi beklenir. Yutan mum çubuğu, pin çubuğunun aksine, iki çubuklu bir tersine dönüş örüntüsüdür, yani 
+oluşumun tamamlanması için iki mum çubuğunun mevcut olması gerekir.
+Ayı engulf'u her zaman piyasanın aşağı doğru geri döneceğinin bir işaretidir. Desenin kendisinde iki 
+mum çubuğu vardır. Okla gösterdiğim ayı engulf mum çubuğu ve bir saat önce var olan boğa mum 
+çubuğu. Ayı engulf kurulumunda, ilk mum boğa mumu olmalıdır. Piyasa bu mum çubuğunu 
+oluşumundan kısa bir süre sonra her zaman ayı mumuyla çevreleyecektir.
+Ayı engulf mumunun oluşmasından önce, boğa mumunun oluşmuş olması gerekir. Ayı mumu başka bir ayı 
+mumunu engulf edemez; ayı engulf olarak kabul edilebilmesi için önce boğa mumu olması gerekir.
+Boğa engulfing mumları, elbette, ayı engulfing mumlarının tersi olduğundan, görünümleri piyasanın ters yönde, 
+yukarı doğru hareket edeceğini gösterir. Ayı engulfing mumu gibi iki çubuklu bir desendirler, ancak ilk mumu boğa 
+mumu olan ayı engulfing formasyonunun aksine, boğa engulfing kurulumundaki ilk mum her zaman ayı mumunu 
+engulfing yapar. Ayı engulfing mumu yalnızca ayı mumlarını engulfing yapabilir; başka bir boğa mumunu engulfing 
+yapamaz. Engulfing mumları, piyasayı tahmin ettiğiniz destek ve direnç seviyelerinde veya arz ve talep bölgelerinde 
+işlemlere girmek için sinyal olarak en iyi şekilde kullanılır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+tersine dönecek. Herhangi bir diğer doğrulayıcı faktörün varlığı olmadan kendi başlarına işlem görebilmelerine rağmen, 
+genellikle pin barlar kadar iyi performans göstermediklerine inanıyorum.
+Özet
+Bu makalede ele aldığım fiyat hareketi kalıpları piyasada oluşabilecek tüm kalıplar olmasa da, en önemlileridir 
+ve bu kalıpları kendi başınıza araştırmalısınız. Bu kalıpların piyasada ne zaman ortaya çıktığını görmek için 
+grafiklerinize geri bakmalı ve nasıl oluştuklarını ve bir devam veya tersine dönüşe neden olduklarını 
+gözlemlemelisiniz. Bunu yaparak, sadece kalıpları daha kolay tanımakla kalmayacak, aynı zamanda bir tersine 
+dönüş veya devama neden olmak üzere oldukları zamanı da tanıyabilecek ve daha karlı fiyatlarda işlem 
+yapmayı kolaylaştıracaksınız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

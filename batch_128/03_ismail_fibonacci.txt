@@ -1,0 +1,225 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 5\Baskı 5\Fibonacci Geri Çekilme ile Teknik Analiz - M. Jazuli İsmail (12 sayfa) - @eseckal.pdf
+PAGES: 12
+
+
+=== PDF PAGE 1 ===
+Fibonacci Retracement ile Teknik Analiz
+Yazan: M. Jazuli Ismail, S.kom
+FB: http://www.facebook.com/jazulii Eposta: mr.jazzfx@yahoo.com
+1. GİRİŞ
+Fibonacci Geri Çekilmesi tüccarlar için favori bir analiz aracıdır, forex analizinde Fibonacci sayılarının doğruluğu oldukça iyi 
+bilinmektedir. Bilim adamlarına göre Fibonacci "Tanrı Numarası" dır çünkü bu Fibonacci sayı kombinasyonu doğada ve hatta
+her açıklık oran vücut ideal insan.
+Metatrader 4'te (MT4 olarak kısaltılır) birkaç tane var Fibonacci geri çekilme seviyeleri yani: 0
+, 23.6 , 38.2 , 50 , 61.8 , 100 , 161.8 , 261.8 ve 423.6
+Birçok analist ve tüccar, düzeltici hareketlere veya fiyatların toparlanmasına dayanan analiz stillerine ve özelliklerine sahiptir. En 
+yüksek veya en düşük fiyatı bulmaya çalışacaklar ve ardından pozisyonu alacaklar. Fiyatların hızlı bir hareketin ardından ilk 
+hareketten yönünü tersine çevireceği (geri çekileceği) görüşü artık garip değil ve doğadaki destek ve dirençle hızlı hareketler 
+sonrasında fiyat hareketleri için hedef seviyelere ulaşmak için Fibonacci Retracement en iyilerinden biri.
+Fibonacci kullanmanın avantajları
+1. Fibonacci gecikmeli bir gösterge değil, öncü bir göstergedir, bu nedenle yeniden boyama, geç vb. Gibi bir şey 
+yoktur.
+Fibonacci, fiyat hareketine göre çizilir ve dinamiktir.
+Fibo ile artık başınızı döndüren karmaşık göstergelere ihtiyacınız yok, böylece pazara daha fazla odaklanabilirsiniz.
+Otomatik Fibo ile Risk ve Ödül oranımız iyi olacaktır, en azından TP = SL veya daha iyisi TP> SL.
+Fibo düzeltme tekniği bir trend takip tekniğidir, bu nedenle daha güvenlidir.
+2.
+3.
+4.
+5.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 2 ===
+2. FIBO'YU NASIL ÇEKEBİLİRSİNİZ?
+Fibonacci Retracement'e sahip olmak için tek yapmanız gereken, aşağıdaki adımlar ve kurallarla sanal bir trend çizgisi çizmektir:
+1. Resme tıklayın
+bir eğilim gösterir.
+en sevdiğiniz MT4'ü pata. Ozaman karar ver mum
+2. Artış trendi için Fibo çekme kuralı, kuyruğun üstünden 
+kuyruk örneğinin altına doğru çizilir:
+3. Düşüş trendi için fibo çekme kuralı, kuyruğun alt ucundan 
+kuyruğun en üstüne doğru çizilir. Misal:
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 3 ===
+4. Fibo Aynı mumların arasına çekilmelidir, bu yüzden farklı 
+mumlardan fibo çekmemelisiniz.
+5. Son vücut mumu bir önceki mumun kuyruğunu 
+geçmezse, mum çekilmeyecektir.
+6. Fibo uzun bir mum üzerine ya bir mum al ya da bir sat 
+mumu üzerine çizilebilir
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 4 ===
+3. AÇIK POZİSYON KURALLARI
+Şimdi Açık pozisyon nasıl belirlenir ..?
+a. Örneğin çizdiğimiz fibodan, yükseliş trendi genellikle belirli bir noktada düzeltilir, bu düzeltmenin trendin yönünün tersi 
+olmasına izin verin ve 50 seviyesine dokunmasını bekleyin. reddetmek ( sadece kuyruğa dokunun) veya kırın ( vücuduna 
+dokunmak). Böylece bir sonraki mumda OP yapabileceğimizden emin olabiliriz, örneğin:
+b. Ancak bazı durumlarda, ilk başta eğilim yükselir, ancak bir satış mumuyla seviye 50 ve seviye 38,2'yi kırabilir, ardından trend 
+değişmiştir. Düşüyor. Aynı şekilde tam tersi.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 5 ===
+4. ÖOPPETRNKKOVEYAYENİDENBUZSII DDETRNGGAANN FFIIBBÖÖ
+Bir Trendde K KoorremeşeKssii kanun
+wWAajjiibMajesteleriunnttuukk iittu ub baaggii a birnddaevet Evetbirngg
+k-eahHiillabirnggabirnm ay omben mienHayırOPPETRN p pareklamdabir lleevveell
+5500 ,, jjabirnggabirn bolmakhata-eecCiill hHaattii kkaborçennaa
+k-eesseemmppaattabirnm anneAşkhb babirnyEvetakk ,, tte ettaappii
+ppeErrlluud evet bennggaAtt areklamdaallaAhss WAgötpareklamdaa ,, ppareklamdaa
+senujjuunngg ttrreenndd kkaborçennaab Biissabir ssaajjabir tteErrjjareklamdii
+düzeltme ((bbaAliikk aArraAhh ddaArii ttrreennd
+gerekir). ketiikka a cCAbirnddllee ttrreenndd
+tteErraakkhhiirr ttiiddaakk d daappaatt m ben miEllabirnjjuuttkkabirn ,,
+bBiiaassabirnyEvetbir A Akkabirn tte Errjjareklamdii kko orreeksii ...
+sonraki O OPP kkeebbaAiikkabirnd daArrii TTrreenndd
+kkaallaauSen ssuuddaAhh ssaammppaaii rreejjeecctt lle evveell 5 500
+veya 38.2. Eğilimler a Akkabirnb olmakErrllabirnjjuutt sseessuuaaii
+önceki yön.
+5. AÇIK DÜZELTME d deennggabirn LLOOTT GGAAJJAAHH
+O kuralındaysa ÖOPPP nnHayırÖo ... 333 hjjaaArraaAkkka abirnntttaaArraaau senujjjusenunnnggg tttrrreeennndddy yEvetabirnngggmmben mieEllaaAkkbenimsenukkkaabirnn kkkoÖOrrreeekkksssiii dddaaArrriii llleeevvveeelll
+100'den 50'ye kadar sadece 200 0 - 500 pip (5 hane), sonra Reddetme düzeltmesi d daArii lleevveell 116611..88 aattaausen
+261,8 b Biissabir ssaammppaaii 550000ppiipp - 1 1000000 ppiippjjareklamdii uunnttuukk ssiisstteemmOOPP tteebbaarr jjaAriinnggb Biissaamben miemanneAkkaaii TTPP
+1000. Sonra çanta ggaaaiiimmanneabirnnaaap ppaaAtttoÖokkkaabirnn llleeevvveeelll 111666111 ... 888 aaAtttaaausenu 222666111 ... 888 yyEvetabirnngggv vvaaallliidddy yEvetabirnngggb bBiiisssaareklamddiii pppaaAkkaaaiii
+ÖOPP ....?? jja awWAabbabirnnnyEvetbir AreklamdaallaAhhp pareklamdaa tta Ariikkabirn FIBO ERKEN TREND. B OlErriikkuutt b olmakebolmakErraappaa
+SScCrreennsshhoooott yEvetbirnggddaappaatt mben miemmbMajesteleriUkkttiikkabirn tteeoorrii iinnii ..
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 6 ===
+Red / break düzeyinin iki katı 261.8
+Reddet 1 11666111 ... 666 aaAtttaaausenu 222666111 ... 888 ssseeeaaAkkaabirnnmmben mieennngggeeemmmbbbaaAllliiikkkaabirnnmmanneaArrrkkkeeettt kkkeeeaaawwWAaalll tttrrreeennnddd ...
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 7 ===
+6. KAR (TP) ve STO ALIN OPP ZARAR (SL)
+Take p konumunu bilin pprrroÖofffiiittt sssaabirnngggaaattt dddiii pppeeErrlllusenukkkaabirnn sssusenyukarıppaaevetyEvetabir tttrrraareklamddeehata dddaaapppaaattt mmben mieennngggeeetttaaAhhhusenuiii
+kkkaaapppaabirnn tttrrreeennnaaakkkaabirnnbbolmakehatabbaaallliikkk aaArraaAhhh kkkaaarreeennnaabir kkkoÖOrrreeekkksssiii ssseeahhoh ohnnggİyi oyunggaabir tttrrraabirnnsssaaakkksssiii dddaaapppaaattt cccllloÖOssseeedddeeennngggaabirnn
+hHaAssiill pprrooffiitt .. PPehataHaAttiikkabirnggaammbbaarr ddiibbaawWAAhh iinnii ..
+G.Gaammbbaarr ddii aattaeşek birreklamdaallaAhh ttaAriikkabirn ffiibBöop pareklamdabir AawWAtüm ttrreenndd sseetteEllaAhh ttrreenndd sseebolmakelluumM NnyEvetbir naaiikk
+ppaAlliinngg ttiinngİyi oyungii .. PPeErrlluud burayanggaAtt baAhssWAa ttaAriikkabirnp pareklamdabir AawWAtüm ttrreenndd iinnii bBiissareklamdii ppaAkkaaii sseebbaaggaaii
+ppaattookkabirn ttrreenn sseEllabirnjjuuttnnyEvetab baAhhkkabirn ssaammppaaii 1122 saatHaArii kkeeddeeppabirn ..
+- ÖOPP 11 p pareklamdabir lleevveell 5500 // 6 611..88 ppaassabirngg TTPP ppareklamdaAhHaarrggareklamdii lleevveell 100 ((TTP P11)) .. genelde
+C'den sonra cCAabirnndddllleeemmben mieennnyyEveteennntttusenahhh llleeevvveeelll 111000000 a aakkkaabirnn ttteeErrjjjaareklamddiii kkkoÖOrrreemeşekksssiii ... NNNaaammsizinsenunnnaareklamddaabir hjjusençirkinggaaevetyEvetabirnnggg
+lllaabirnngggsssusenunnngggm mben mieennneeHatasenUssskkkaabirnn tttrrreeennndddm mben mieennnusenujjjusenu kk-eee llleeevvveeelll ssseeEllaabirnnjjjusenutttnnnyyEvetaa tttaabirnnpppaabir kkkoÖOrrreeekkksssiii ssseeepppeeErrtttiii
+ggaammbbaarr dDiiaattagöt .. UUnnttuİngilterek KAYIP DURDUR (SL) .. P Babaassabirnggd dii 11 Aattaauu 22 lleevveell ddii aattagötnyEveta..mmiissaherşey
+ppareklamdabir lleevveell 3388, 22 ,, 2233..66 aattaauyukarı0.0 seviyesinin üstünde.
+OP 2, 161,8 (TP2) seviyesinde fiyatla 100 çift TP seviyesindedir. b BiiaassabirnyEvetbir sseetteEllaAhh
+ccCAabirnndddllleeem mben mieennnyyEveteennntttusenahhh llleeevvveeelll 111666111 ... 888 a aAkkkaabirnn ttteeErrjjjaareklamddiii kkkoÖOrrreeekkksssiii ... NNNaaammsizinsenunnna areklamddaabir hjjusençirkinggaaevetyEvetabirnnggg
+lllaabirnngggsssusenunnngggmmben mieennneeHatasenussskkkaabirnn tttrrreeennndddmmben mieennnusenujjjusenu kkkeee llleeevvveeelll ssseeEllaabirnnjjjusenutttnnnyyEvetaa tttaabirnnpppaabir kkkoÖOrrreeekkksssiii UUUnnntttusenİngilterekk DUR
+ZARAR (SL) .. P Babaassabirnggddii 11 Aattaauu 22 lleevveell ddii aattagötnyEveta..mmiissabütün ppareklamdabir lleevveell 50.
+ÖÖOPPP 333 p ppaareklamddaabir llleeevvveeelll 111666111 ... 888 pppaaAsssaabirnnggg TTTPPP pppaareklamddaaAh hHaaArrrgggaareklamddiii llleeevvveeelll 222666111 ... 888 (((TTTPPP333))) ... genelde
+sseetteEllaAhhc CAbirnddlleemben miennyEvetennttuahh lleevveell 261.8 için bir düzeltme olacak S STTOOPP ZARAR (SL).
+PBabaassabirnggddii 11 Aattaauu 22 lleevveell donun üstünde, örneğin 161.8 seviyesinde.
+26. seviyede OP 4 611..88 ppaassabirngg TTPP ppareklamdaAh Haarrggareklamdii lleevveell 423.6 ((TTP P4). genelde
+sseetteEllaAhhc CAbirnddlleemben miennyEvetennttuahh lleevveell 261.8 bir düzeltme olacak attaauub baAhhkkabirnb olmakhatagabirnttii
+yeni trendler. İçin S STTOOPP ZARAR (SL) .. P Babaassabirnggd dii 11 Aattaauu 22 lleevveell ddii aattagötnyEveta..mörneğin
+seviye 261.8.
+-
+-
+-
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 8 ===
+7. MULTI LOT & FIBO NETWORKS SEÇENEKLERİ
+OP için reddin 50 seviyesinde olduğundan emin olun ve ardından hemen DS komut dosyasını çalıştırın. Dosya grubundaki 
+DHUHA 9 veya henüz sahip değilseniz yazarın gelen kutusu olabilir.
+Bu sistemin avantajı, piyasanın hareketini teyit edemediğimiz için trendin yukarı veya aşağı hareket edip 
+etmeyeceği konusunda endişelenmemize gerek olmamasıdır.
+genellikle mumun hareketi, aşağıdaki örnekte olduğu gibi fibo seviyelerinde durur veya reddeder, 161.8 seviyesinde durur, 
+bunun için TP bu seviyeyi aşarsa, lütfen 261.8 seviyesinden önce hareket ettirin. Trende devam edemeyecek gibi 
+görünüyorsa, tereddüt etmeyin KESİLEN KAR (CP).
+Ancak hareket, fibo seviyesini kırmak için çok güçlüyse, bırakın KAR ALIN (TP). TP'Yİ Akıllıca KULLANIN.
+8. ERKEN TREND, REDDET ve KIRILMA Olgusundan FIBO ANALİZİ
+1
+2
+5
+3
+8
+6
+7
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 9 ===
+PPehataHaAttiikkabirn GGaammbbaarr ttabirngİyi oyungatüm 44 aagguussttuuss - 9 Ağustos 2013 yukarıda, d Diissiinnii ssaevetEvetamben miennaArriikk
+ffiibBöop pareklamdabir AawWAtüm ttrreenn .. TTehatadaappaatt seviye-lle evveell yEvetbirnggh HaArruuss ddiillaalluuii oOlleahhmanneArrkkeett .. var
+iki terim, yani:
+a. R Yenidenejjeecctt ((mben miennyEvetennttuahHeymeşekoorr ssaajjaa veya biraz vücut) d diittabirnddaaii lliinngHayırkaArrabirn BBiirrusen
+b. b Brreeaakk ((mben mielleewWAattii lleevveell ddeennggabirnb Böoddyy)) ddeennggabirnp pabirnjjabirnggc CAbirnddllee> > 5500ppiips. İşaretlenmek
+Kırmızı daire.
+MMAARRKKİMEETT AAKKAANNMMAANNTTUULL ((ÖNCEKİ TREND YÖNLERİNE GERİ DÖN)) EĞER REDDET
+DDAANNAAKKAANNMBEN MİTRNEERRUBİZESKKAANN TTRYENİDENTRN JIIKKABir TTEERRJJAADDII BREAK.
+UUnnttuukk iittuud duuaak -eemsizinunnghiçbir şey değilnabirn ttareklamdii ddaappaatt d dii abirmela ile nttiissiipasi ben miukkabirn PPeenndiçindengg
+Öorrddehata dduuabir AArraAhh sseeppeerrttii sseeppeerrttii ssckıtır kıtırptt DDSS ddhhuahHaa99 ,, BBlluueekkabirnk TP20 / Tp26.
+9. FENOMEN R YENİDENEJJEECCTT PPAADDABir LLEEVVEELL 6611..88
+JJJiiikkkaaak Kkiiitttaaammben mieEllliiihhHaaattt gggaaammmbbbaaarrr ddDiiiaaAtttaaeşek
+6611..88 sa.çirkingareklamdaappaatt ddiillaben miukkabirHayırOPP ..
+10 A ANNAALLIISSABir FFIIBBÖOPPAADDABir TTFF HH44 GDAANN TTFF
+UUUnnntttusenİngilterekk aabirnnaaAllliiisssaaap ppaareklamddaabir TTTFFF HHH111 mmben mieennnggGiiikkbenimsenutttiii aabirnnaaAllliiisssaaap ppaareklamddaabir HHH444 ... DDDeeennngggaabirnn kkkaaAtttaaA lllaaaiiinnn HHH444 llleeebbAmanhh VVVaaallliiddd
+senunnttuİngilterekmben miennggabirnaAlliissabir sseecCAArraag Glloobbatümü (uzun vadeli) .. SSe eddabirngHayırbirnu unnttuukk abirnaAlliissaap pareklamdabir HH11
+lleebvay behc ceennddeErruunngHayıreppareklamdabir AbirnaAlliissabir sseecCAArrabir sseemben miennttaArraa ((ttrreennb olmakebolmakErraappaklimaCAbirnddllee)) / kısa
+dönem ... JJJiiikkkaabir TTTaaArrriiikkkaabirnn FFFiiibbBöÖop ppaareklamddaabir HHH444 sssdddhhh VVVaaallliidddmmben mieEsskkkiiipppusenunnn tttiiidddaaakkk vvvaaallliidddp ppaareklamddaabir HHH111 mmanneaAkkaaammanneaAsssiiihhh
+hala izin veriliyor m mben mieennnggİyi oyunggusenunnnaaAkkaabirnn tttaaArrriiikkkaabirnn fffiiibbBöÖo HHH444 usenunnntttusenukkkaabirnnaaAllliiisssaabir GG.GllloÖobbbaaalll ... pppeehatahHaaatttiiikkkaabirnn
+aşağıdaki örnek.
+ttteehataddaaapppaaattt fffaaAkkteşekkür ederimaab bbaaAhhsswWAabir jjjiiikkkaabir ttteeErrjjjaareklamddiii rrreeejjjeeecccttt pppaareklamddaabir llleeevvveeelll
+HH11
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 10 ===
+Şekil FIBO EU 8-9 99 aaagggusenussstttusenusss 222000111333 TTTFFF HHH111 A aAtttaaeşek))) ... TTTeeErrkk-eeEssaabirnnmmben mieennnyyEvetaalllaaAhhhiii aaatttusenUrrraabirnn YYYNYaArrriiikkkaabirnn
+FFFiiibbBöÖaçıknnaaammsizinsenunnna aapppaaabbBiiilllaareklamddiii tttaaarrriiikkk dddaaarrriii TTTFFF HHH444 (((gggaaammmbbbaaarrr bbbaaawwWAaAhhh))) sssaabirnngggaaattt VVVaaallliidddmmben mieennnusenunnnjjjusenukkkkkkaabirnn
+zaten rrreeevvveeHatalaraalll rrreeejjjeeecccttt pppaareklamddaabir llleeevvveeelll 444333222 ... 666 ,,, (((ddverilmişhHaaattt dddaaarrriii FFFIIIBBBÖÖO biraawwWAaalll tttrrreeennnddd))) dddaabirnnb bBrrreeeaaAkkkpppaareklamddaaa
+lleevveell 5500 gündabirn 3388 ((ppareklamdabir ffiibBöoa akkhhiirr ttrreenn)) aarttiinnyEvetbir ttrreennaAkkabirnbolmakhatagabirnttii ..
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 11 ===
+11. TREND İLK MUMUNU TF D1 İLE BELİRLEME
+İlk trend mumunu belirleyip ardından FIBO'yu çekebilirsek, trendin ne zaman biteceğini belirleyebiliriz, yani mum 423.6 
+düzeyinde reddederse,
+Yol TF D1'e bakarak (günlük / günlük). sonra ilk mumu belirleyin ve sadece bir mum olan fiboyu çekin. Aşağıdaki 3 
+FIBO'ya dikkat edin.
+1 3
+2
+AB Pazar Resimleri, 20 Mayıs 2013 - 6 Ağustos 2013.
+EJ Market Resimleri, 27 Temmuz 2013 - 8 Ağustos 2013
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 12 ===
+GENEL SONUÇLAR:
+- OP'yi yapmadan önce gerçekten geçerli olan anları ve gerçekten doğru olan anları arayın ( dawuh Guru Eko 
+Suyanto).
+Seviye 50'den 161,8'e kadar ölçün, 75 pip'e kadar değilse, o zaman olma eğilimindedir KESİM KARI, TP'ye 
+dokunmaya zorlamayın ( dawuh Usta Shinlin).
+Sezginizi / içgüdüsel fibo tekniğinizi keskinleştirmek için birkaç gün önce analiz yapın (fiboyu çekerek). ( dawuh Guru 
+Sunaryo).
+Analiz için TF H4 üzerinde fiboyu çekin ve uygulama için fiboyu TF H1'e çekin.
+(dawuh Guru Arie Pamungkas).
+Karlı olduğunda kapatmaktan çekinmeyin. her zaman Kaybı durdur seçeneğini kullanın ( dawuh Guru Pupung).
+Haftalık, Günlük Analiz ve birkaç trend şamdanı gerçekleştirin ve piyasanın gelecekteki yönünü büyük ölçüde 
+etkiledikleri için bunları silmeyin. TF H1, H4 ve D1'de bir FIBO Pull yapın. Analizinizi güçlendirmek için.
+-
+-
+-
+-
+-
+-
+Tüm incelemeler bu
+mükemmel, Mükemmellik Allah'a Aittir SWT bir tek. Gerçek Tanrı'dan ve şahsen benden gelen saf hatadan geliyor, bu makale 
+aracılığıyla gerçekleri sunuyoruz, umarım yeni başlayanlar için yararlıdır ve mas Pupung (Dewa Scalper), Mas Arie Pamoengkas, 
+mas Eko Suyanto ve mas Sunaryo Rohyat'a teşekkür etmeyi unutmayız. Mas Shinlin ve diğer arkadaşlar Tek tek yazamayız.
+Lamongan 10 Ağustos 2013
+Yazar
+FIBO ile ilgili olarak, böyle bir ticaret sistemi olmadığının farkındayız
+M. Jazuli İsmail, SKom
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.

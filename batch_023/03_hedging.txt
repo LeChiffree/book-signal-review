@@ -1,0 +1,152 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 9\Baskı 9\Hedging Stratejisi - John Carricaburu (8 sayfa) - @eseckal.pdf
+PAGES: 8
+
+
+=== PDF PAGE 1 ===
+"Kesin" Forex Hedging Stratejisi
+(John Carricaburu tarafından paylaşıldığı gibi)
+NOT: Belge 2 diğer forex ticaret stratejisiyle güncellendi. Kesinlikle en iyi ticaret stratejisi 
+olduğuna inandığım şey için en son sayfaya bakın! KEYFİNİ ÇIKARIN!! :-)
+Aşağıdaki forex ticaret tekniği basitçe...harika. Bir grafiğe bakıp piyasanın ne zamantrend olan, o 
+zaman aşağıdaki tekniği kullanarak bir paket yapabilirsiniz. Eğer dünyadaki tek bir işlem tekniğini 
+seçmek zorunda kalsaydım, bu olurdu! Bunda doğru pozisyon boyutlandırma ve para yönetimini 
+kullandığınızdan emin olun ve sadece başarı ile karşılaşacaksınız! Ancak başlamadan önce, krediyi 
+hak edene vermeliyim, broker-forex.fr'deki arkadaşım Ludovic (orijinal, Fransızca versiyonu
+www.forex-central.net ) beni bu harika trading tekniğiyle tanıştırdı. Şimdi, iyi şeylere geçelim!
+1 - İşleri basit tutmak için, spread olmadığını varsayalım. İstediğiniz herhangi bir yönde bir pozisyon açın. Örnek: 
+1,9830'dan 0,1 lot satın alın. Satın alma emrinizi verdikten birkaç saniye sonra, 1,9800'dan 0,3 lot için bir Satış 
+Durdur emri verin. Lotlara bakın...
+2 - 1.9860'daki TP'ye ulaşılamazsa ve fiyat aşağı inip 1.9770'deki SL veya TP'ye ulaşırsa, 30 pip 
+karınız olur çünkü Sell Stop, hareketin başlarında 0.3 lotta aktif bir Sell Emri (Kısa) haline 
+gelmişti.
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+3 - Ancak 1.9770'teki TP ve SL'ye ulaşılamazsa ve fiyat tekrar yükselirse, yükseliş beklentisiyle 
+1.9830'da bir Buy Stop emri vermelisiniz. Sell Stop'a ulaşıldığında ve 0.3 lot Satış için aktif bir emir 
+haline geldiğinde (yukarıdaki resim), hemen 1.9830'da 0.6 lotluk bir Buy Stop emri vermelisiniz 
+(aşağıdaki resim).
+4 - Eğer fiyat yukarı yönlü hareket edip 1.9860 seviyesinde SL veya TP'ye ulaşırsa, o zaman siz de 30 pip kar elde etmiş olursunuz!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+5 - Fiyat herhangi bir TP'ye ulaşmadan tekrar düşerse, 1.2 lotluk bir Sell Stop emri, ardından 2.4 
+lotluk bir Buy Stop emri vb. ile beklemeye devam edin... Kar elde edene kadar bu diziyi sürdürün. 
+Lotlar: 0.1, 0.3, 0.6, 1.2, 2.4, 4.8, 9.6, 19.2 ve 38.4.
+6 - Bu örnekte, 30/60/30 yapılandırmasını kullandım (TP 30 pip, SL 60 pip ve 30 pip Hedging Mesafesi). Ayrıca 
+15/30/15, 60/120/60'ı da deneyebilirsiniz. Ayrıca, 30/60/15 veya 60/120/30 yapılandırmalarını test ederek karı 
+maksimize etmeye çalışabilirsiniz.
+7 - Şimdi, spread'i göz önünde bulundurarak, EUR/USD gibi dar spread'i olan bir çift seçin. Genellikle spread sadece 2 pip 
+civarındadır. Spread ne kadar dar olursa, kazanma olasılığınız o kadar yüksek olur. Bunun "Bir Daha Asla Kaybetme Stratejisi" 
+olabileceğini düşünüyorum! Fiyatın istediği yere gitmesine izin verin; yine de kar elde edeceksiniz.
+Aslında bu stratejinin (eğer varsa) tüm "sırrı", piyasanın kar elde etmek için ihtiyaç duyduğunuz pipleri garanti 
+edecek kadar hareket edeceği bir "zaman aralığı" bulmaktır. Bu strateji herhangi bir işlem yöntemiyle çalışır. 
+(AŞAĞIDAKİ YORUMLARA BAKIN)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Line-1 ve Line-4 kullanarak Asya Kırılımı. Aslında 
+istediğiniz herhangi bir pip aralığını kullanabilirsiniz.
+Sadece piyasanın ihtiyaç duyduğunuz pipleri üretecek kadar hareket ettiği zaman dilimini bilmeniz 
+gerekir. Bir diğer önemli şey de sonunda marjınız tükenebileceğinden çok fazla açık alım ve satım 
+pozisyonuyla sonuçlanmamaktır.
+YORUMLAR:Bu noktada, bu stratejinin sağladığı inanılmaz olasılıkları görebileceğinizi umuyorum. 
+Özetlemek gerekirse, hakim günlük trendin yönünde bir işleme girersiniz. Piyasanın hangi yöne gittiğini 
+belirlemek için H4 ve H1 grafiklerini kullanmanızı öneririm. Ayrıca, işlem ve zamanlama pencereniz olarak 
+M15 veya M30'u kullanmanızı öneririm. Bunu yaparak genellikle ilk TP hedefinize %90 oranında ulaşırsınız 
+ve hedge pozisyonunuzun asla etkinleştirilmesi gerekmez. Yukarıdaki 7. noktada belirtildiği gibi, hedge 
+stratejileri kullanırken spreadleri düşük tutmak şarttır. Ancak, ayrıca, momentum ve oynaklıktan nasıl 
+yararlanılacağını öğrenmek bile
+daha önemli. Bunu başarmak için, bazılarının incelenmesini öneririmen oynak döviz çiftleri GBP/
+JPY, EUR/JPY, AUD/JPY, GBP/CHF, EUR/CHF, GBP/USD vb. gibi. Bu çiftler bir kalp atışında 30 ila 40 
+pip verir. Yani, bu çiftler için ödediğiniz spread ne kadar düşük olursa o kadar iyi. Biren düşük 
+spread'lere sahip forex broker'ı bu çiftlerde ve bu da korunmaya (aynı anda bir döviz çifti alıp 
+satmaya) olanak tanır. Ben şahsenArtı500 EUR/USD spreadleri genellikle 0,8 - 1,6 pip arasındadır
+en yoğun forex işlem saatleri .
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Yukarıdaki resimde de görebileceğiniz gibi, Line 1 ve Line 2'de (10 pip fiyat farkı) işlem yapmak da kazançlı bir 
+işlemle sonuçlanacaktır.
+Bu yöntem son derece basittir:
+1. Sadece 2 fiyat seviyesi (Yüksek, Düşük, siz karar verin) ve belirli bir zaman seçin (siz karar verin), eğer 
+Yüksek bir kırılma varsa satın alın, eğer Düşük bir kırılma varsa satın. TP=SL= (HL).
+2. Her kayıp yaşadığınızda, bu sayısal dizideki alım/satım lotlarını artırın: 1, 3, 6, 12, vb... Zamanınızı ve 
+fiyat aralığınızı iyi seçerseniz, bu kadar çok işlemi etkinleştirmeniz gerekmez. Aslında, piyasayı doğru bir 
+şekilde zamanlamanız durumunda, bir veya ikiden fazla pozisyon açmanız çok nadiren gerekir.
+3. Her ikisinden de yararlanmayı öğrenmekoynaklık ve momentum bu stratejiyi kullanmayı öğrenmede 
+anahtardır. Daha önce de belirttiğim gibi, zamanlama ve zaman aralığı başarınız için kritik olabilir. Bu strateji 
+herhangi bir piyasa seansında veya günün herhangi bir saatinde işlem görebilse de, Asya seansı gibi mesai 
+saatleri dışında veya düşük volatilite seanslarında işlem yaptığınızda kar hedefinize ulaşmanızın daha uzun 
+süreceğinin vurgulanması gerekir. Bu nedenle, her zaman en iyisiÇakışan saatlerde ticaret Avrupa/Londra 
+seansları ve/veya New York seansı. Ayrıca, en güçlü momentumun genellikle herhangi bir piyasa seansının açılışı 
+sırasında meydana geldiğini aklınızda bulundurmalısınız. Bu nedenle, bu belirli zamanlarda çok daha yüksek bir 
+başarı olasılığıyla işlem yapacaksınız. ZAMANLAMA + MOMENTUM = BAŞARI!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+29 Mart 2007, piyasalar çok fazla hareket etmediği için tehlikeli bir günün tipik bir örneğiydi. Böyle bir durumun 
+üstesinden gelmenin en iyi yolu, mevcut piyasa koşullarını tanıyabilmek ve ne zaman onlardan uzak duracağınızı 
+bilmektir. Aralıklı, konsolide ve küçük salınımlı piyasalar, doğru şekilde tanınmaz ve işlem görmezlerse herkesi 
+öldürür (aslında, onlardan vebadan kaçar gibi kaçınmalısınız!). Ancak, iyi kurulumları belirlemenize yardımcı olacak iyi 
+bir işlem yöntemine sahip olmak, birden fazla işlem girişine olan ihtiyacı ortadan kaldırmanıza yardımcı olacaktır. Bir 
+bakıma, bu strateji size istikrarlı bir kar akışı garanti eden bir tür sigorta poliçesi haline gelecektir.
+Piyasalara doğru zamanda girmeyi öğrenirseniz (bazen fiyatın geri çekilmesini veya biraz geriye düşmesini 
+beklerim, atılmadan önce), genellikle ilk TP hedefinize %90 oranında ulaşacağınızı ve fiyatın hedge emrinize veya 
+ilk stop loss'unuza yakın bir yere gelemeyeceğini göreceksiniz. Bu durumda, hedge stratejisi normal bir stop 
+loss'a olan ihtiyacı ortadan kaldırır ve daha çok bir kar garantisi görevi görür.
+Yukarıdaki örnekler mini lotlar kullanılarak gösterilmiştir; ancak bu stratejide daha rahat ve usta hale 
+geldikçe, kademeli olarak standart lotlarla işlem yapmaya başlayacaksınız. İstediğiniz zaman 30 pip 
+kazanma tutarlılığınız, birden fazla standart lotla işlem yapmak için gereken güveni sağlayacaktır. Bu 
+yeterlilik seviyesine ulaştığınızda, kar potansiyelinizsınırsızFarkında olsanız da olmasanız da, bu 
+strateji neredeyse hiç risk almadan işlem yapmanızı sağlayacaktır. Sanki Dünya Bankası'na ait bir 
+ATM Banka Kartınız var!!!!!!(Bu harika tekniği sizinle paylaşmam karşılığında, web sitemdeki 
+bağlantıları kullanarak bir forex ticaret hesabı açarak bana geri ödeme yaparsanız gerçekten çok 
+sevinirim.Burada – ekstra komisyon alınmayacak ve zengin oldukça spread'in küçük bir yüzdesini de 
+alacağım. Bu stratejinin tadını çıkarın, başarılı bir geleceğe sahip olun ve ailenizle vakit geçirin! ;-)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2) Çift martingale kullanan stratejinin bir çeşidi
+Bu strateji biraz farklıdır ancak stop loss'a ulaştığınızda hala kar ettiğiniz için oldukça ilginçtir! 
+Aşağıdaki resmi örnek olarak kullanarak, yükseleceği fikriyle 1 lot (B1 ile gösterilir) satın alırsınız. 
+Ancak aynı zamanda, fiyat düşerse diye 1 lot (satın alma fiyatınızla aynı fiyat olan S1'de) 
+satarsınız. Sonra diyagramı takip edin. Bir martingale durduğunda, diğeri devralır. Bu strateji, 
+fiyatın dalgalandığı dönemlerde pip kazandırabilir. Kazanan işlemleriniz için oyuna ek bir lot 
+koymanız gerektiğinden, diğer martingale ile karşılaştırıldığında gerçekten çok fazla fark 
+yaratmaz. Aralık dönemlerinde (düz konsolidasyon dönemleri) ilk martingale için her zaman bir 
+risk vardır, ancak bu risk ikinci martingaleden kazandığınız piplerle azaltılır!
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+3) Daha düşük riskli martingale stratejisi (Bu 
+belgedeki 3 stratejiden favorim!)
+İşte yapmanız gerekenler: Fiyat yukarı doğru eğilim gösteriyorsa, .1 lot için bir satın alma emri verin (ayrıca 29 pip'te bir 
+Zarar Durdurma emri ve 30 pip'te bir Kar Al emri verin). Aynı zamanda 29 pip SL ve 30 pip TP ile .2 lot için 30 pip aşağıda 
+bir Satış Durdurma emri verin. İlk pozisyon SL'ye ulaşırsa ve ikinci emir tetiklenirse, yeni emrinizin 30 pip üzerinde .4 lot 
+için bir Satın Alma Durdurma emri verin. Vb... Emir büyüklükleriniz .1/.2/.4/.8/1.6/vb... olacaktır.
+Eğer stop loss'unuz vurursa ve fiyat tersine döndüğü için yeni emir tetiklenmezse, bu yeni emri 
+fiyatın şu anda yöneldiği ters tarafa yerleştirin (bu durumda aynı lot büyüklüğü için hem alım 
+stop hem de satış stop emri ayarlamış olursunuz).
+10.000$ (veya €) hesabınız varsa, ilk pozisyonunuzun .1 lot olmasını öneririm. 20.000$ hesabınız varsa, iki farklı 
+paritede işlem yapmanızı öneririm (örneğin: EURUSD'de uzun pozisyon açarsanız, USDJPY'de de uzun pozisyon 
+açın, bu şekilde açık pozisyonlarınızın yarısının kar alma noktasına geldiğinden emin olursunuz ve bu da toplam 
+riskinizi yarıya böler). 30.000$ hesabınız varsa, 3 farklı paritede işlem yapmanızı ve işlem yapmak için daha fazla 
+sermayeniz olduğunda ilk pozisyonlarınızın ağırlığını artırmanızı öneririm.
+Bu stratejiyi seviyorum çünkü genel pozisyon büyüklükleriniz (ve dolayısıyla riskiniz) daha düşük oluyor:
+- Orijinal kesin sonuç veren strateji pozisyon büyüklükleri: .1, .3, .6, 1.2, vb.
+- Bu stratejinin pozisyon büyüklükleri: .1, .2, .4, .8, vb.
+Bu stratejilerle ilgili deneyimlerinizi paylaşınForex-Central.net forumu
+www.forexgercekleri.xyz - [Twitter: @eseckal]

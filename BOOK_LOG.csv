@@ -1,0 +1,646 @@
+﻿batch,book_id,title,pdf_pages,read_status,review_file
+001,adx_puneet_jain,ADX Göstergesi - Puneet Jain,41,complete,batch_001/STRATEGIES.md
+001,bb_connors_alvarez,Bollinger Bantları - İşe Yarayan Trading Stratejileri - Laurence Connors ve Cesar Alvarez,37,complete,batch_001/STRATEGIES.md
+001,ema20_jayesh_shah,20 EMA Stratejisi - Jayesh Shah,31,complete,batch_001/STRATEGIES.md
+002,macd_lalit_mohanty,MACD Uzmanlığı - Lalit Mohanty,37,complete,batch_002/STRATEGIES.md
+002,rsi_lalit_mohanty,RSI İndikatöründe Ustalaşmak - Lalit Mohanty,50,complete,batch_002/STRATEGIES.md
+002,breakout_sinisa_persic,Başarılı Koparma Ticareti - Sinisa Persic,34,complete,batch_002/STRATEGIES.md
+003,candles_llewelyn_james,Mum Formasyonları İçin Dürüst Bir Rehber - Llewelyn James,176,complete,batch_003/STRATEGIES.md
+003,volume_george_milton,Hacim Fiyat Analizi - George Milton,83,complete,batch_003/STRATEGIES.md
+003,patterns_lalit_mohanty,Grafik Formasyonları Uzmanlığı - Lalit Mohanty,40,complete,batch_003/STRATEGIES.md
+004,ichimoku_sofia_stavropoulou,Ichimoku Sisteminin Kazançlı Sinyalleri ile Nasıl Trade Yapılır - Sofia Stavropoulou,67,complete,batch_004/STRATEGIES.md
+004,advanced_crypto_trading,Gelişmiş Kripto Trading Stratejileri,75,complete,batch_004/STRATEGIES.md
+004,trend_adam_lemon,Kanıtlanmış Trading Stratejisi - Trend Trading - Adam Lemon,13,complete,batch_004/STRATEGIES.md
+005,swing_high_low_market,Swing Yüksekleri ve Swing Düşüklerini Kullanarak Pazarın Ne Durumda Olduğunu Daha İyi Anlamak,40,complete,batch_005/STRATEGIES.md
+005,supply_demand_fahmi_lamar,Arz ve Talep Bölgeleri - Fahmi Lamar,23,complete,batch_005/STRATEGIES.md
+005,market_structure_ob_wisdom_muke,Piyasa Yapısı ve Order Block Sanatında Ustalaşmak - Wisdom Muke,50,complete,batch_005/STRATEGIES.md
+006,swing_plan_frank_ochoa,5 Adımlı Swing Trading Planı - Frank Ochoa,123,complete,batch_006/STRATEGIES.md
+006,nine_strategies_roman_sadowski,9 Kazançlı Trading Stratejisi - Roman Sadowski,42,complete,batch_006/STRATEGIES.md
+006,rsi_swing_tmp,RSI Swing Trading Stratejisi - TMP,13,complete,batch_006/STRATEGIES.md
+007,sma5_rsi5,5 SMA 5 RSI Forex Trading Stratejisi,7,complete,batch_007/STRATEGIES.md
+007,forex_momentum_jus,Forex Momentum Stratejisi - Jus Forex Signals,23,complete,batch_007/STRATEGIES.md
+007,candle_ichimoku_action_forex,Gelişmiş Mum ve Ichimoku Stratejileri - Action Forex,82,complete,batch_007/STRATEGIES.md
+008,rsi_pro_scalping_ylf,RSI Pro Scalping Stratejisi - You Learn Forex,30,complete,batch_008/STRATEGIES.md
+008,forex_bounce_nikos_mermigas,Forex Bounce Trading Stratejisi - Nikos Mermigas,27,complete,batch_008/STRATEGIES.md
+008,winning_strategies_tradersgps,Kazandıran Stratejiler - TradersGPS,35,complete,batch_008/STRATEGIES.md
+009,golden_strategy_russ_horn,Golden Strateji - Russ Horn,11,complete,batch_009/STRATEGIES.md
+009,h4_ema5_gbp_sterling,H4 EMA5 GBP Stratejisi - Sterling,20,complete,batch_009/STRATEGIES.md
+009,advanced_sniper_tsg,Gelişmiş Sniper Trading Stratejisi - Trading Strategy Guides,30,complete,batch_009/STRATEGIES.md
+010,swing_leandro_method,Swing Trading Leandro Yöntemi,67,complete,batch_010/STRATEGIES.md
+010,gann_trading_tsg,Gann Trading Stratejisi - Trading Strategy Guides,15,complete,batch_010/STRATEGIES.md
+010,forex_scalping_28,Forex Scalping Stratejisi,28,complete,batch_010/STRATEGIES.md
+011,g7_forex_science,G7 Forex Sistemi - Forex Science,49,complete,batch_011/STRATEGIES.md
+011,decision_points_smart_trader,Karar Noktaları - Smart Trader,53,complete,batch_011/STRATEGIES.md
+011,forex_risk_roulette_trader,Forex Trading Risk Yönetimi Sistemleri - Roulette Trader,63,complete,batch_011/STRATEGIES.md
+012,perfect_trade_oli_hille,Mükemmel Trade Oluşturmak - Oli Hille,61,complete,batch_012/STRATEGIES.md
+012,pivot_price_action_vikram_prabhu,Pivotlarla Günlük Trading ve Price Action - Vikram Prabhu,103,complete,batch_012/STRATEGIES.md
+012,twenty_pips_thato_babedi,Günde 20 Pips Stratejisi - Thato Babedi,43,complete,batch_012/STRATEGIES.md
+013,thirteen_swing_ladha,13 Swing Trading Stratejisi - Pankaj Ladha ve Anant Ladha,140,complete,batch_013/STRATEGIES.md
+013,fifteen_price_action_ankya,15 Price Action Stratejisi - Mr. Ankya,53,complete,batch_013/STRATEGIES.md
+013,simple_strategy_heitkoetter_hodge,Basit Strateji - Markus Heitkoetter ve Mark Hodge,80,complete,batch_013/STRATEGIES.md
+014,three_w_sumit_das,3W Sistemi - Sumit Das,56,complete,batch_014/STRATEGIES.md
+014,bbma_john_ray,BBMA Trading Stratejisi - John Ray,54,complete,batch_014/STRATEGIES.md
+014,mechanical_day_trading_muranno,Akıl Almaz Kazançlı Mekanik Günlük Trading Stratejileri - James Muranno,75,complete,batch_014/STRATEGIES.md
+015,hundred_pips_dittmann,100 Pips Kur ve Unut Stratejisi - Karl Dittmann,18,complete,batch_015/STRATEGIES.md
+015,ak47_scalping_vezi,AK47 Scalping Stratejisi - Siya Vezi,26,complete,batch_015/STRATEGIES.md
+015,six_forex_cam_white,6 Basit Forex Trading Stratejisi - Cam White,93,complete,batch_015/STRATEGIES.md
+016,ichimoku_step_albizu,Adım Adım Ichimoku - Fabio Monterrey Albizu,73,complete,batch_016/STRATEGIES.md
+016,abcd_bilkhu,ABCD Formasyonu - Sundeep Bilkhu,17,complete,batch_016/STRATEGIES.md
+016,flags_pennants_ribakov,Bayraklar ve Flamalar ile Trade - Vladimir Ribakov,22,complete,batch_016/STRATEGIES.md
+017,h4_heikin_ashi_swing_trader,4 Saatlik Grafik Kullanarak Swing Trading - Heikin Ashi Trader,108,complete,batch_017/STRATEGIES.md
+017,m15_turbo_forex_course,15 Dakikalık Turbo Forex Trading Kursu,23,complete,batch_017/STRATEGIES.md
+017,thirty_minute_stock_trader_bensdorp,30 Dakikalık Hisse Senedi Traderi - Laurens Bensdorp,153,complete,batch_017/STRATEGIES.md
+018,pattern_secrets_yoosuf_khan,90 Dakikada Sadeleştirilmiş Formasyon Trading Sırları - Yoosuf Khan,146,complete,batch_018/STRATEGIES.md
+018,support_resistance_thomsett,Basitleştirilmiş Destek ve Direnç Analizi - Michael C. Thomsett,105,complete,batch_018/STRATEGIES.md
+018,price_action_frank_miller,Basitleştirilmiş Price Action - Frank Miller,73,complete,batch_018/STRATEGIES.md
+019,price_action_think_markets,Price Action Rehberi - Think Markets,20,complete,batch_019/STRATEGIES.md
+019,price_action_rayner_teo,Price Action Rehberi - Rayner Teo,58,complete,batch_019/STRATEGIES.md
+019,price_action_atanas_matov,Price Action Rehberi - Atanas Matov,86,complete,batch_019/STRATEGIES.md
+020,trendline_kelvin_lee,Trendline Stratejisi - Kelvin Lee,79,complete,batch_020/STRATEGIES.md
+020,stoploss_lance_beggs,Stoploss Stratejisi - Lance Beggs,22,complete,batch_020/STRATEGIES.md
+020,triple_s_strategy,Triple S Stratejisi,16,complete,batch_020/STRATEGIES.md
+021,price_action_scalping_christopher,Price Action Scalping Stratejisi - Christopher,121,complete,batch_021/STRATEGIES.md
+021,london_breakout_strategy,Londra Koparma Stratejisi,8,complete,batch_021/STRATEGIES.md
+021,james16_trading_strategy,James16 Trading Stratejisi,12,complete,batch_021/STRATEGIES.md
+022,fibonacci_thesis_tremblay,Fibonacci Oranları Bir Yatırım Stratejisine Değer Katabilir Mi - Guillaume Alim Tremblay,93,complete,batch_022/STRATEGIES.md
+022,trendline_myronn_saremo,Trendline Stratejisi - Myronn Saremo,114,complete,batch_022/STRATEGIES.md
+022,ema14_50_scalping_waqar,EMA14 ve EMA50 Scalping Stratejisi - Waqar,28,complete,batch_022/STRATEGIES.md
+023,forex_price_action_guide,Forex - Price Action Rehberi,129,complete,batch_023/STRATEGIES.md
+023,bob_volman_scalping_excerpt,Price Action Scalping - Bob Volman (alıntılar),38,complete,batch_023/STRATEGIES.md
+023,hedging_john_carricaburu,Hedging Stratejisi - John Carricaburu,8,complete,batch_023/STRATEGIES.md
+024,crypto_ta_osbert_ferguson,Kripto Para Alım Satımı ve Yatırımının Teknik Analizi - Osbert Ferguson,108,complete,batch_024/STRATEGIES.md
+024,momentum_trade_laurentiu_damir,Momentum Trade - Laurentiu Damir,25,complete,batch_024/STRATEGIES.md
+024,trend_trader_james_muranno,Trend Traderinin El Kitabı - Güçlü Trend Ticareti - James Muranno,81,complete,batch_024/STRATEGIES.md
+025,m1_scalping_trevor_candle,1 Dakikalık Forex Scalping Stratejisi - Trevor Candle,96,complete,batch_025/STRATEGIES.md
+025,twenty_trading_strategies,20 Trading Stratejisi,28,complete,batch_025/STRATEGIES.md
+025,hundred_plus_strategies_joseph_buckley,100_den Fazla Alım Satım ve Yatırım Stratejisi - Joseph Buckley,157,complete,batch_025/STRATEGIES.md
+026,fourteen_candles_p_arul_pandi,14 Mum Kalıbı - P. Arul Pandi,162,complete,batch_026/STRATEGIES.md
+026,swing_2023_dennis_sharpe,2023_te Etkili Swing Trading Stratejileri - Dennis Sharpe,45,complete,batch_026/STRATEGIES.md
+026,pattern_123_sunil_mangwani,123 Grafik Formasyonu - Sunil Mangwani,7,complete,batch_026/STRATEGIES.md
+027,seventeen_forex_thomas_carter,17 Forex Trading Stratejisi - Thomas Carter,34,complete,batch_027/STRATEGIES.md
+027,twenty_forex_thomas_carter,20 Forex Stratejisi - Thomas Carter,32,complete,batch_027/STRATEGIES.md
+027,ict_2023_mentorship_gems,2023 ICT Mentorship GEMS (TR-ENG),86,complete,batch_027/STRATEGIES.md
+028,seven_winning_grace_cheng,7 Kazandıran Strateji - Grace Cheng,209,complete,batch_028/STRATEGIES.md
+028,three_swing_examples_alan_farley,3 Swing Trading Örneği - Alan Farley,16,complete,batch_028/STRATEGIES.md
+028,seven_rsi_trade_strategies,7 RSI Trade Stratejisi,6,complete,batch_028/STRATEGIES.md
+029,market_mastery_jacob_bernstein,30 Günde Piyasa Ustalığı - Jacob Bernstein,192,complete,batch_029/STRATEGIES.md
+029,twenty_five_trade_rules,25 Trade Kuralı,24,complete,batch_029/STRATEGIES.md
+029,one_hour_professional_forex,1 Saatte Profesyonel Bir Trader Gibi Forex Piyasasında Nasıl Trade Yapılır,58,complete,batch_029/STRATEGIES.md
+030,twenty_minute_trader_jeremy_russell,20 Dakikalık Trader Olmanın Yolları - Jeremy Russell,227,complete,batch_030/STRATEGIES.md
+030,five_minute_scalp_strategy,5 Dakikalık Scalp Stratejisi,8,complete,batch_030/STRATEGIES.md
+030,fifteen_minute_forex_course,15 Dakikada Forex Kursu,24,complete,batch_030/STRATEGIES.md
+031,demark_jason_perl,DeMark Göstergesi - Jason Perl,183,complete,batch_031/STRATEGIES.md
+031,ema_power_soulz,EMA_ların Gücü - Soulz,19,complete,batch_031/STRATEGIES.md
+031,rsi_80_20_strategy,RSI 80-20 Trading Stratejisi,18,complete,batch_031/STRATEGIES.md
+032,rsi_five_systems_roman_sadowski,RSI İndikatörü +5 Sistem Trading Stratejisi - Roman Sadowski,22,complete,batch_032/STRATEGIES.md
+032,rsi_scalping_paul_dean,RSI Ölçeklendirme Stratejisi - Paul Dean,30,complete,batch_032/STRATEGIES.md
+032,rsi_divergences_emperor_btc,RSI Uyumsuzlukları - Empreror BTC,22,complete,batch_032/STRATEGIES.md
+033,atr_mastery_aaron_lee_johnson,ATR Uzmanlığı - Aaron Lee Johnson,92,complete,batch_033/STRATEGIES.md
+033,heikin_ashi_stochastic_edward_munroe,Heiken Ashi ve Stokastik Göstergeyle Swing Trading - Edward Munroe,29,complete,batch_033/STRATEGIES.md
+033,dual_momentum_trend_trading_lee_tang,Dual Momentum Trend Trading - Lee Tang,35,complete,batch_033/STRATEGIES.md
+034,darvas_box_jaynesh_kasliwal,Darvas Box Trading - Jaynesh Kasliwal,59,complete,batch_034/STRATEGIES.md
+034,breakout_pullback_michael_norman,Breakout ve Pullback Trading Stratejileri - Michael Norman,54,complete,batch_034/STRATEGIES.md
+034,vwap_breakout_failure_varun_speak,VWAP Breakout Başarısızlığı Stratejisi - Varun Speak,58,complete,batch_034/STRATEGIES.md
+035,breakout_trading_alton_swanson,Breakout Trading - Alton Swanson,15,complete,batch_035/STRATEGIES.md
+035,trend_reversal_patterns_ifc,Trendin Tersine Dönüş Modelleri,9,complete,batch_035/STRATEGIES.md
+035,fibonacci_tp_sl_manish_patel,Destek ve Direnç Seviyesi Olarak TP ve SL Bulmak İçin Fibonacciyi Anlamak - Octa FX,37,complete,batch_035/STRATEGIES.md
+036,breakout_john_connors,Koparma Ticareti - John Connors,54,complete,batch_036/STRATEGIES.md
+036,true_support_resistance,Gerçek Destek ve Direnç,12,complete,batch_036/STRATEGIES.md
+036,support_resistance_investija,Destek ve Dirençler - Investija,22,complete,batch_036/STRATEGIES.md
+037,breakout_mark_white,Breakout Trading Stratejisi - Mark K. White,32,complete,batch_037/STRATEGIES.md
+037,sr_detection_chris_padgett,Destek ve Direnç Seviyelerinin Tespiti - Chris Padgett,13,complete,batch_037/STRATEGIES.md
+037,consolidation_breakout_duane_shepherd,Forex Piyasasında Konsolidasyon Breakout Sinyalleri - Duane Shepherd,14,complete,batch_037/STRATEGIES.md
+038,trend_fans_albert_yang,Trend Çizgileri - Albert Yang,43,complete,batch_038/STRATEGIES.md
+038,sr_daytrade_laurentiu_damir,Destek Direnç Bölgeleriyle Günlük Trade - Laurentiu Damir,25,complete,batch_038/STRATEGIES.md
+038,trend_break_trading_strategy_guides,Trend Kırılımı Strateji Rehberi - Trading Strategy Guides,14,complete,batch_038/STRATEGIES.md
+039,chaikin_money_flow,Chaikin Para Akışı Göstergesi,10,complete,batch_039/STRATEGIES.md
+039,volume_trading_jayesh_shah,Volume Trading - Jayesh Shah,35,complete,batch_039/STRATEGIES.md
+039,volume_price_george_milton,Hacim Fiyat Analizi - George Milton,83,complete,batch_039/STRATEGIES.md
+040,supply_demand_liquidity_james_king,Arz ve Talep - Saf Likidite Konsepti BOS ve CHOCH - James Jecool King,34,complete,batch_040/STRATEGIES.md
+040,advanced_liquidity_elad_menda,Gelişmiş Likidite Tekniği - Elad Menda,24,complete,batch_040/STRATEGIES.md
+040,liquidity_trade_with_worldbank,Likidite - Trade with WorldBank,18,complete,batch_040/STRATEGIES.md
+041,supertrend_alpesh_pansheriya,Supertrend İndikatörü - Alpesh Pansheriya,80,complete,batch_041/STRATEGIES.md
+041,ichimoku_winners_ahmed_agouz,Ichimoku Kazananları - Ahmed El Agouz,40,complete,batch_041/STRATEGIES.md
+041,bollinger_band_trading_glenn_wilson,Bollinger Band Trading - Glenn Wilson,28,complete,batch_041/STRATEGIES.md
+042,ichimoku_beginners_gabor_kovacs,Yeni Başlayanlar İçin Ichimoku - Gabor Kovacs,55,complete,batch_042/STRATEGIES.md
+042,macd_trend_strategy_guide,MACD Trend Takip Stratejisi,23,complete,batch_042/STRATEGIES.md
+042,fibonacci_golden_zone_strategy,Fibonacci Golden Zone Trading Stratejisi,34,complete,batch_042/STRATEGIES.md
+043,vwap_easy_money_strategy,Kolay Para ile VWAP Trade Stratejisi,24,complete,batch_043/STRATEGIES.md
+043,adx_learn_price_action,ADX İndikatörü - Learn Price Action,11,complete,batch_043/STRATEGIES.md
+043,rsi_playbook_hima_reddy,Kazanan RSI Playbook - Hima Reddy,27,complete,batch_043/STRATEGIES.md
+044,fibonacci_channel_trading_strategy,Fibonacci Kanal Stratejisi - Trading Strategy Guides,22,complete,batch_044/STRATEGIES.md
+044,channel_trading_alton_swanson,Kanal Trading - Alton Swanson,10,complete,batch_044/STRATEGIES.md
+044,rsi_traders_secret_weapon_erich_senft,RSI - Traderin Gizli Silahı - Erich Senft,15,complete,batch_044/STRATEGIES.md
+045,vwap_strategy_terence_gronowski,VWAP Stratejisi - Terence V. Gronowski,44,complete,batch_045/STRATEGIES.md
+045,trade_against_trend_heikin_ashi_trader,Trende Karşı İşlem Yapmak - Heikin Ashi Trader,46,complete,batch_045/STRATEGIES.md
+045,heikin_ashi_strategy_roman_sadowski,Heikin Ashi Trading Stratejisi - Roman Sadowski,11,complete,batch_045/STRATEGIES.md
+046,scalping_fun_heikin_ashi_trader,Scalping Eğlencelidir - Heikin Ashi Trader,22,complete,batch_046/STRATEGIES.md
+046,rsi_relative_strength_alton_swanson,RSI - Göreceli Gün Endeksi - Alton Swanson,20,complete,batch_046/STRATEGIES.md
+046,heikin_ashi_day_trading_haddock_kapoor,Heikin Ashi Grafikleriyle Günlük Trade - Tim Haddock ve Ravi Kapoor,50,complete,batch_046/STRATEGIES.md
+047,scalping_fun_2_heikin_ashi_trader,Eğlenceli Scalping 2 - Heikin Ashi Trader,44,complete,batch_047/STRATEGIES.md
+047,rsi_alpesh_pansheriya,RSI - Alpesh Pansheriya,58,complete,batch_047/STRATEGIES.md
+047,fibonacci_trendline_strategy_guide,Fibonacci Trend Çizgisi Strateji Rehberi,25,complete,batch_047/STRATEGIES.md
+048,rsi_secrets_sudhir_dixit,RSI Sırları - Sudhir Dixit,98,complete,batch_048/STRATEGIES.md
+048,vwap_mastery_lalit_mohanty,VWAP Uzmanlığı - Lalit Mohanty,90,complete,batch_048/STRATEGIES.md
+048,forex_momentum_power_strategy,Forex Momentum Stratejisi - Momentum Güç Stratejisi,23,complete,batch_048/STRATEGIES.md
+049,five_moving_average_signals_burns,Al ve Tut Stratejisini Yenen 5 Hareketli Ortalama Sinyali - Steve Burns ve Holly Burns,32,complete,batch_049/STRATEGIES.md
+049,smart_money_price_action,Akıllı Para Kavramıyla Price Action,41,complete,batch_049/STRATEGIES.md
+049,practical_pin_bar_kc_thorpe,Forex İçin Uygulamalı Pin Bar Trading - KC Thorpe,40,complete,batch_049/STRATEGIES.md
+050,inside_bar_colibri_trader,Inside Bar - Colibri Trader,15,complete,batch_050/STRATEGIES.md
+050,engulfing_trader_timon_weller,The Engulfing Trader - Timon Weller,31,complete,batch_050/STRATEGIES.md
+050,breakout_trading_john_connors,Koparma Ticareti - John Connors,54,complete,batch_050/STRATEGIES.md
+051,chart_patterns_strategy_creation,Grafik Desenleriyle Strateji Oluşturma,58,complete,batch_051/STRATEGIES.md
+051,harmonic_patterns_short_guide,Harmonik Desenler,10,complete,batch_051/STRATEGIES.md
+051,no_indicators_kevin_baker,Kokuşmuş İndikatörlere İhtiyacımız Yok - Kevin Baker,39,complete,batch_051/STRATEGIES.md
+052,ict_strategy_short,ICT Stratejisi,19,complete,batch_052/STRATEGIES.md
+052,language_of_candles,Mumların Dili,31,complete,batch_052/STRATEGIES.md
+052,moving_average_strategy_john_person,Hareketli Ortalamalarla Strateji Rehberi - John Person,16,complete,batch_052/STRATEGIES.md
+053,gap_trading_jayesh_shah,GAP Trading - Jayesh Shah,29,complete,batch_053/STRATEGIES.md
+053,fifty_pips_laurentiu_damir,Günde 50 Pips Stratejisi - Laurentiu Damir,45,complete,batch_053/STRATEGIES.md
+053,technical_footprints_short,Teknik Analizde Ayak İzleri,11,complete,batch_053/STRATEGIES.md
+054,ten_pips_haji_warithu,Günde 10 Pips Stratejisi - Haji Warithu,29,complete,batch_054/STRATEGIES.md
+054,miracle_method_trading,Miracle Metot Trading Stratejisi,31,complete,batch_054/STRATEGIES.md
+054,trading_secrets_chame_quiroz,Ticaret Sırları - Chame Quiroz,43,complete,batch_054/STRATEGIES.md
+055,time_price_theory,Zaman ve Fiyat Teorisi,9,complete,batch_055/STRATEGIES.md
+055,trendline_power_louisos,Trend Çizgisi Analizinin Gücünden Yararlanın - Louisos Alexander,19,complete,batch_055/STRATEGIES.md
+055,trade_like_pros_jode_lebin,Profesyoneller Gibi Trade Yapın - Jode Lebin,74,complete,batch_055/STRATEGIES.md
+056,rsi_hima_reddy_faceoff,Göreceli Güç Endeksi - Hima Reddy,27,complete,batch_056/STRATEGIES.md
+056,st_patterns_poltoratskiy,Forex Stratejisi - ST Kalıpları Trade Kılavuzu - Vladimir Poltoratskiy,52,complete,batch_056/STRATEGIES.md
+056,swing_trading_jan_arps,Swing Trading - Piyasa Dalgalarında Sörf Yapmak - Jan Arps,37,complete,batch_056/STRATEGIES.md
+057,rsi_indicator_trading,Göreceli Güç Endeksi - RSI Göstergesi ile Ticaret,16,complete,batch_057/STRATEGIES.md
+057,elliott_wave_foundations_prechter,Elliott Dalga Prensibinin Temelleri - Robert Prechter,38,complete,batch_057/STRATEGIES.md
+057,forex_bank_manipulation,Forex'te Bankaların Manipülasyonu,34,complete,batch_057/STRATEGIES.md
+058,supply_demand_frank_luther,Arz ve Talep Ticareti - Frank Luther,65,complete,batch_058/STRATEGIES.md
+058,advanced_order_block_king,Gelişmiş Order Block Kılavuzu - James Jecool King,58,complete,batch_058/STRATEGIES.md
+058,profitable_candlestick_patterns_anderson,Kazançlı Mum Kalıpları - Matt Anderson,54,complete,batch_058/STRATEGIES.md
+059,superior_trader_forexia,Üstün Trader Olmanın Yolu - Forexia,48,complete,batch_059/STRATEGIES.md
+059,forex_dream_christopher_lee,Forex Rüyası - Christopher Lee,57,complete,batch_059/STRATEGIES.md
+059,price_action_handbook,Price Action El Kitabı,68,complete,batch_059/STRATEGIES.md
+060,h1_strategy_brian_anderson,H1 Stratejisi - Brian P. Anderson,101,complete,batch_060/STRATEGIES.md
+060,price_action_patterns_ankya,Price Action Kalıpları - Ankya,81,complete,batch_060/STRATEGIES.md
+060,swing_trading_michael_roy,Swing Trading - Michael Roy,95,complete,batch_060/STRATEGIES.md
+061,moving_averages_simplified_droke,Basitleştirilmiş Hareketli Ortalamalar - Clif Droke,82,complete,batch_061/STRATEGIES.md
+061,candlestick_patterns_simplified_lee,Basitleştirilmiş Mum Kalıpları - Christopher Lee,63,complete,batch_061/STRATEGIES.md
+061,elliott_wave_theory_short,Elliott Dalga Teorisi,43,complete,batch_061/STRATEGIES.md
+062,best_trendlines_mikula,En İyi Trend Çizgisi Yöntemleri - Patrick Mikula,96,complete,batch_062/STRATEGIES.md
+062,twenty_one_candles_pasternak,Her Traderin Bilmesi Gereken 21 Mum - Dr. Melvin Pasternak,81,complete,batch_062/STRATEGIES.md
+062,macd_secret_jayden_smith,MACD Göstergesinin Sırrı - Jayden Smith,62,complete,batch_062/STRATEGIES.md
+063,supply_demand_samibegood,Arz ve Talep Analizi - Samibegood - A. Riskiyanto,95,complete,batch_063/STRATEGIES.md
+063,forex20_trend_follow_carter,Forex 20 Trend Takip Sistemi - Thomas Carter,50,complete,batch_063/STRATEGIES.md
+063,support_resistance_toni_hansen,Toni Hansen'in Pazarı - Destek ve Direnci Anlamak,52,complete,batch_063/STRATEGIES.md
+064,best_trading_systems_jenyns,En İyi Trading Sistemleri - David Jenyns,65,complete,batch_064/STRATEGIES.md
+064,profit_with_indicators_drake,İndikatörlerle Kazanç Sağlamak - Jeff Drake,50,complete,batch_064/STRATEGIES.md
+064,technical_analysis_agarwal,Teknik Analizi Anlamak ve Uygulamak - Ravi Agarwal,65,complete,batch_064/STRATEGIES.md
+065,set_and_forget_boardman,Forex - Ayarla ve Unut Kazanç Sistemi - Mark Boardman,89,complete,batch_065/STRATEGIES.md
+065,macd_trend_trading_strategy_guides,MACD Trend Takip Stratejisi - Trading Strategy Guides,25,complete,batch_065/STRATEGIES.md
+065,short_term_trading_secrets,Short-Term Trading Sırları,24,complete,batch_065/STRATEGIES.md
+066,forex_chart_patterns_gdp,Forex Grafik Desenleri - Eksiksiz Bir Kılavuz - Forex GDP,40,complete,batch_066/STRATEGIES.md
+066,understand_candlesticks,Mum Çubuklarını Anlamak,48,complete,batch_066/STRATEGIES.md
+066,edge_trading_secrets_blue_edge,EDGE Trading Sırları - Blue Edge Financial,80,complete,batch_066/STRATEGIES.md
+067,forex_magic_candles_profit_farm,Forex Sihirli Mum Çubukları - Forex Profit Farm,69,complete,batch_067/STRATEGIES.md
+067,technical_art_trading_technicals,Teknik Analiz - Trading Sanatı - Trading Technicals,66,complete,batch_067/STRATEGIES.md
+067,thinking_trader_galen_woods,Düşünen Trader - Galen Woods,47,complete,batch_067/STRATEGIES.md
+068,dynamite_tnt_forex,Dinamit TNT Forex Sistemi,95,complete,batch_068/STRATEGIES.md
+068,winning_forex_system_axi_trader,Kazandıran Forex Trading Sistemi - Axi Trader,63,complete,batch_068/STRATEGIES.md
+068,market_maker_traps_beat,Piyasa Yapıcı Tuzakları - Beat The Market Maker,14,complete,batch_068/STRATEGIES.md
+069,craig_harris_methodology_lynn_brown,Craig Harris'in Forex Trading Metodolojisi - Lynn Brown,72,complete,batch_069/STRATEGIES.md
+069,forex_broker_killer_mmutlane,Forex Broker Killer Edition - Kgopotso Mmutlane,94,complete,batch_069/STRATEGIES.md
+069,para_sihirbazi_zeki_celik,Para Sihirbazı - Mum Çubukları ile Farklı Bir Analiz Yöntemi - Zeki Çelik,47,complete,batch_069/STRATEGIES.md
+070,bitcoin_day_trading_keaton,Bitcoin Günlük Alım Satım Stratejileri - Lawrence Keaton,68,complete,batch_070/STRATEGIES.md
+070,bitcoin_ethereum_strategy_king,En İyi Bitcoin ve Ethereum Trading Stratejisi - James Jecool King,23,complete,batch_070/STRATEGIES.md
+070,crypto_trading_entry_exit_lambert,Kripto Para Ticareti - Piyasaya Giriş Çıkış ve Stop-Loss - Chris Lambert,36,complete,batch_070/STRATEGIES.md
+071,algorithmic_trading_ratford,Algoritmik Trading Stratejileri - Scotty Ratford,83,complete,batch_071/STRATEGIES.md
+071,mean_reversion_teally,Ortalama Dönüşüne Dayalı Günlük Alım Satım Stratejisi Kitabı - Rob Teally,64,complete,batch_071/STRATEGIES.md
+071,bear_market_kratter,Ayı Piyasası Trading Stratejileri - Matthew R. Kratter,75,complete,batch_071/STRATEGIES.md
+072,supply_demand_frank_edward,Arz ve Talep Trading Stratejisi - Frank Edward,50,complete,batch_072/STRATEGIES.md
+072,low_risk_high_reward_trading_pub,Düşük Risk Yüksek Kazanç Trading Stratejileri - Trading Pub,69,complete,batch_072/STRATEGIES.md
+072,price_chart_patterns_derek_salvon,Fiyat Grafik Formasyonlarıyla Trading - Derek Salvon,67,complete,batch_072/STRATEGIES.md
+073,follow_the_money_ftm,Follow The Money (FTM) Stratejisi,64,complete,batch_073/STRATEGIES.md
+073,forex_trading_system_sumo_fx,Forex Trading Sistemi - Sumo FX - Jaco Ferreira,64,complete,batch_073/STRATEGIES.md
+073,top_10_price_action_models_al_brooks,En Başarılı 10 Price Action Modeli - Al Brooks,24,complete,batch_073/STRATEGIES.md
+074,reversal_timing_unnamed,Bir Tersine Dönüşün Ne Zaman Gerçekleşeceğini Nasıl Belirleyebilirim,41,complete,batch_074/STRATEGIES.md
+074,macd_karthik_marar,MACD - Karthik Marar,24,complete,batch_074/STRATEGIES.md
+074,trendline_rich_finegan,Trendline Trading Stratejisi - Rich Finegan,36,complete,batch_074/STRATEGIES.md
+075,divergences_alexander_elder,Uyumsuzluklar - Alexander Elder,46,complete,batch_075/STRATEGIES.md
+075,wyckoff_method,Wyckoff Yöntemi,14,complete,batch_075/STRATEGIES.md
+075,forex_day_trading_gavin_wallace,Forex Day Trading - Gavin Wallace,69,complete,batch_075/STRATEGIES.md
+076,short_dr_alexander_elder,Short - Dr. Alexander Elder,132,complete,batch_076/STRATEGIES.md
+076,price_action_elliot_baker,Price Action - Elliot Baker,26,complete,batch_076/STRATEGIES.md
+076,order_block_fibonacci_bheki_mpangane,Order Block ve Fibonacci - Bheki Mpangane,31,complete,batch_076/STRATEGIES.md
+077,spartan_trader_nikos_mermigas,Spartan Trader Forex Sistemi - Nikos Mermigas,101,complete,batch_077/STRATEGIES.md
+077,price_action_setups_stoxxme,Price Action Kurulumları ve Örnekleri - Stoxxme,71,complete,batch_077/STRATEGIES.md
+077,beginner_chart_reading,Yeni Başlayanlar İçin Grafik Okuma Teknikleri,23,complete,batch_077/STRATEGIES.md
+078,trading_strategies_simon_sikorski,Trading Stratejileri - Simon Sikorski,148,complete,batch_078/STRATEGIES.md
+078,divergences_oleg_but,Uyumsuzluklar - Oleg A. But,34,complete,batch_078/STRATEGIES.md
+078,price_action_james_jecool_king,Price Action - James Jecool King,53,complete,batch_078/STRATEGIES.md
+079,price_action_marcio_santos,Price Action - Marcio Santos,37,complete,batch_079/STRATEGIES.md
+079,gap_trading,Gap Trading,62,complete,batch_079/STRATEGIES.md
+079,unicorn_edge_furqan_malick,Unicorn Avantajı - Furqan Malick,56,complete,batch_079/STRATEGIES.md
+080,price_action_market_masters_academy,Price Action - Market Masters Academy,89,complete,batch_080/STRATEGIES.md
+080,price_action_course_junior_dias,Price Action Kursu - Junior Dias,72,complete,batch_080/STRATEGIES.md
+080,supply_demand_training_course,Supply and Demand Eğitim Kursu,94,complete,batch_080/STRATEGIES.md
+081,price_action_strategies_alpha_fx,Price Action Stratejileri - Alpha FX,80,complete,batch_081/STRATEGIES.md
+081,supply_demand_guide,Supply and Demand Kılavuzu,28,complete,batch_081/STRATEGIES.md
+081,technical_analysis_course_rekt_proof,Teknik Analiz Kursu - Rekt Proof,83,complete,batch_081/STRATEGIES.md
+082,low_risk_ichimoku_karen_peloille,Düşük Riskli Ichimoku Stratejisi Rehberi - Karen Peloille,162,complete,batch_082/STRATEGIES.md
+082,day_trade_forex_system,Day Trade Forex Sistemi - Erol Bortucene ve Cynthia Macy,44,complete,batch_082/STRATEGIES.md
+082,five_simple_strategies_jeff_swanson,İşe Yarayan 5 Basit Trading Stratejisi - Jeff Swanson,61,complete,batch_082/STRATEGIES.md
+083,profitable_day_trading_caroline_ayuk,Kazançlı Günlük Trading Stratejisi - Caroline Ayuk,80,complete,batch_083/STRATEGIES.md
+083,simple_forex_trading_formulas_billy_williams,Basit Forex Trading Formülleri - Billy Williams,113,complete,batch_083/STRATEGIES.md
+083,trading_secrets_unleashed,Açığa Çıkan Trading Sırları,61,complete,batch_083/STRATEGIES.md
+084,sma_bollinger_aaron_lee_johnson,Basit Hareketli Ortalama ve Bollinger Bantları - Aaron Lee Johnson,94,complete,batch_084/STRATEGIES.md
+084,advanced_rsi_lalit_mohanty,Gelişmiş RSI İndikatörü - Lalit Mohanty,75,complete,batch_084/STRATEGIES.md
+084,harmonic_patterns_six000,Harmonik Formasyonlar - Six000,15,complete,batch_084/STRATEGIES.md
+085,authentic_fx_top_10,En İyi 10 Forex Stratejisi - Authentic FX,43,complete,batch_085/STRATEGIES.md
+085,forex_strategies_edmund_loh,Forex Trading Stratejileri - Edmund Loh,34,complete,batch_085/STRATEGIES.md
+085,day_trading_indicators_lawrence_keaton,Günlük Trading Stratejilerinde İndikatörlerin Kullanımı - Lawrence Keaton,77,complete,batch_085/STRATEGIES.md
+086,day_trading_entries_exits_david_harnett,Günlük Alım Satım Giriş ve Çıkışları - David Harnett,91,complete,batch_086/STRATEGIES.md
+086,forex_trading_strategies_53,Forex Trading Stratejileri - derleme,53,complete,batch_086/STRATEGIES.md
+086,trend_trading_articles_55,Trend Trading Makaleleri - derleme,55,complete,batch_086/STRATEGIES.md
+087,top_25_indicators_frank_luther,En İyi 25 İndikatör - Frank Luther,25,complete,batch_087/STRATEGIES.md
+087,daily_buy_sell_signals_2022,Al ve Sat Günlük Trading Sinyalleri - 2022 Baskısı,61,complete,batch_087/STRATEGIES.md
+087,high_win_rate_setups_marcel_robbinson,Yüksek Kazanç Oranlı Günlük Trading Kurulumları - Marcel Robbinson,70,complete,batch_087/STRATEGIES.md
+088,divergence_trading_20,Uyumsuzluklarla Trading,20,complete,batch_088/STRATEGIES.md
+088,forex_hidden_trading_model_rich_finegan,Forex Gizli Trading Modeli - Rich Finegan,33,complete,batch_088/STRATEGIES.md
+088,coffee_grounds_pk_tournis,Coffee Grounds Trading Sistemi - P. K. Tournis,48,complete,batch_088/STRATEGIES.md
+089,beginner_day_trading_2020_george_livermore,Başlangıç Seviyesi Günlük Trading 2020 - George Livermore,83,complete,batch_089/STRATEGIES.md
+089,simplified_forex_marlon_green,Yeni Başlayanlar İçin Basitleştirilmiş Forex Trading - Marlon Green,31,complete,batch_089/STRATEGIES.md
+089,forex_trading_rules_lever70,Forex Trading Kuralları - Lever70,21,complete,batch_089/STRATEGIES.md
+090,forex_ten_golden_rules_admiral,Forex Trading 10 Altın Kural - Admiral Markets,29,complete,batch_090/STRATEGIES.md
+090,intraday_wealth_maddy,Güniçi Trading ile Servet Oluşturmak - Maddy,29,complete,batch_090/STRATEGIES.md
+090,perfect_day_trading_ivan_cavric,Kusursuz Günlük Trading - Ivan Cavric,139,complete,batch_090/STRATEGIES.md
+091,bollinger_band_trading_glenn_wilson,Bollinger Band Trading - Kazançlı Bir Trading Sistemi Nasıl Oluşturulur - Glenn Wilson,28,complete,batch_091/STRATEGIES.md
+091,forex_m30_jeremy_zindel,Forex Trading Rehberi - 30 Dakikalık Günlük Trading Stratejisi - Jeremy Zindel,41,complete,batch_091/STRATEGIES.md
+091,daily_forex_frq_mid,Günlük Forex Stratejisi - Güvenli ve Kazançlı Trading - Frq Mid,35,complete,batch_091/STRATEGIES.md
+092,stop_hunting_david_odoh,Forex Trading İşlemlerinde Stop Avlama Stratejisi - David Odoh,14,complete,batch_092/STRATEGIES.md
+092,step_by_step_donald_stanberry,Adım Adım Kazanan Trader için Forex İşlem Stratejileri - Donald Stanberry,26,complete,batch_092/STRATEGIES.md
+092,new_forex_system_emegha_emmanuel,Yeni Forex Piyasası Trading Sistemi - Emegha Emmanuel,46,complete,batch_092/STRATEGIES.md
+093,professional_system_eloy_villalon,Profesyonellerin Trading Sistemi - Eloy Villalon,26,complete,batch_093/STRATEGIES.md
+093,hundred_dollars_brian_kendall,Günde En Az 100 Dolar Kazanmak İçin En İyi Forex Trading Stratejileri - Brian Kendall,38,complete,batch_093/STRATEGIES.md
+093,patterns_price_action_mason_anderson,Grafik Formasyonları ve Price Action Forex Trading - Mason Anderson,58,complete,batch_093/STRATEGIES.md
+094,price_patterns_laurentiu_damir,Fiyat Kalıplarıyla Günlük Forex Trading - Laurentiu Damir,37,complete,batch_094/STRATEGIES.md
+094,entries_exits_2023_james_jecool_king,Günlük Trading - Giriş ve Çıkış Sistemleri 2023 - James Jecool King,32,complete,batch_094/STRATEGIES.md
+094,futures_strategies_wayne_walker,Vadeli İşlemler Trading Stratejileri - Wayne Walker,45,complete,batch_094/STRATEGIES.md
+095,forty_pips_giorgio_strani_file,Günde 40 Pips - Giorgio Strani,38,complete,batch_095/STRATEGIES.md
+095,ten_minutes_giorgio_strani_file,Kazandıran Forex Trading - Forex_te Kazanmak için Günde 10 Dakika - Giorgio Strani,39,complete,batch_095/STRATEGIES.md
+095,how_to_scalp_binary_forex_brokers,Forex Piyasasında Nasıl Scalp Yapılır - Binary Forex Brokers,27,complete,batch_095/STRATEGIES.md
+096,technical_truths_alvaro_cid,Borsada Kazanmak İçin Teknik Analiz Hakkındaki Gerçekler - Alvaro Cid,33,complete,batch_096/STRATEGIES.md
+096,fx_trading_2_heikin_ashi_trader,Döviz İşlemleri 2 - Heikin Ashi Trader,27,complete,batch_096/STRATEGIES.md
+096,best_technical_indicators_emily_dhruv,En İyi Teknik İndikatörler - Emily Dhruv,14,complete,batch_096/STRATEGIES.md
+097,index_trader_daily_strategy,Günlük Trading Stratejisi - Türkçe ve İngilizce - Index Trader,41,complete,batch_097/STRATEGIES.md
+097,ichimoku_quickstart_bob_joiner,Ichımoku Hızlı Başlangıç Rehberi - Bob Joiner,12,complete,batch_097/STRATEGIES.md
+097,five_systems_leigh_vernon,Geçimini Sağlamak İçin Günlük Alım Satım - Borsa Piyasasında Yön Bulmak İçin 5 Uzman Sistem - Leigh Vernon,33,complete,batch_097/STRATEGIES.md
+098,accumulation_distribution_momoh,Biriktirme ve Dağıtım Kurulumları - Momoh S.O.,36,complete,batch_098/STRATEGIES.md
+098,impulse_buying_lalit_mohanty,Dürtüsel Satın Alma - Lalit Mohanty,72,complete,batch_098/STRATEGIES.md
+098,day_trading_rajiv_lb_roy,Day Trading - Rajiv LB Roy,71,complete,batch_098/STRATEGIES.md
+099,crypto_candles_emily_dhruv,Kripto Ticaretinde Mum Grafiklerini Okumak İçin Profesyonel Bir Kılavuz - Emily Dhruv,23,complete,batch_099/STRATEGIES.md
+099,order_block_emily_dhruv,Order Block Trading - Emily Dhruv,27,complete,batch_099/STRATEGIES.md
+099,scalping_s_connell,Scalping Stratejileri - S. Connell,33,complete,batch_099/STRATEGIES.md
+100,price_order_block_james_jecool_king,Price Action ve Order Block Uzmanlığı - James Jecool King,26,complete,batch_100/STRATEGIES.md
+100,five_scalping_strategies_andrew_c_ellis,Scalping Trading İşlemlerinde En İyi 5 Strateji - Andrew C. Ellis,34,complete,batch_100/STRATEGIES.md
+100,simple_strategy_heitkoetter_hodge,Basit Strateji - Markus Heitkoetter ve Mark Hodge,80,complete,batch_100/STRATEGIES.md
+101,simple_forex_alpha_balde,Basitleştirilmiş Forex - Alpha Balde,19,complete,batch_101/STRATEGIES.md
+101,forex_online_eugenio_milani,Forex Online - Eugenio Milani,34,complete,batch_101/STRATEGIES.md
+101,forex_trading_owen_pagano,Forex Trading - Owen Pagano,42,complete,batch_101/STRATEGIES.md
+102,thirty_days_ross_wright,Forex Trading - 30 Günde Hiçbir Şeyden Her Şeye - Ross Wright,47,complete,batch_102/STRATEGIES.md
+102,fifteen_minutes_caroline_ayuk,Para Kazanma Stratejisi - Günde Sadece 15 Dakika - Caroline Ayuk,53,complete,batch_102/STRATEGIES.md
+102,four_steps_luciano_kelly,Forex Trading İşlemlerinden Geçimini Sağlamanın 4 Adımı - Luciano A. Kelly,49,complete,batch_102/STRATEGIES.md
+103,eurusd_three_daniel_gg,EURUSD için 3 adet Günlük İşlem Stratejisi - Daniel G. G.,26,complete,batch_103/STRATEGIES.md
+103,profitable_ma_stephan_miller,Kazançlı Hareketli Ortalama Trading Sistemi - Stephan Miller,18,complete,batch_103/STRATEGIES.md
+103,ultimate_macd_richard_krugel,Ultimate MACD Giriş Stratejisi - Richard Krugel,20,complete,batch_103/STRATEGIES.md
+104,gavin_holmes_scalp,Gavin Holmes Scalp Stratejisi,24,complete,batch_104/STRATEGIES.md
+104,madam_lim_world_class,Madam Lim Trading Sistemi - World Class Trading Stars,50,complete,batch_104/STRATEGIES.md
+104,trendline_day_night,Trendline Trading Stratejisi - Day and Night Forex,19,complete,batch_104/STRATEGIES.md
+105,price_action_scalper,Price Action Scalper,10,complete,batch_105/STRATEGIES.md
+105,forex_grid_trade,Forex Grid Trade Stratejisi,12,complete,batch_105/STRATEGIES.md
+105,swing_failure_pattern,Swing Failure Pattern,11,complete,batch_105/STRATEGIES.md
+106,london_sassetti,Londra Oturumu Forex Trading Sırları - Alberto Sassetti,20,complete,batch_106/STRATEGIES.md
+106,swing_bressert,Düşük Riskli Swing Trading için Gün İçi Zamanlama - Walter Bressert,20,complete,batch_106/STRATEGIES.md
+106,nasdaq_secrets,Nasdaq Endeksi ile Tradingin Sırları,20,complete,batch_106/STRATEGIES.md
+107,forex_code_sassetti,Forex Trading Şifresi - Alberto Sassetti,20,complete,batch_107/STRATEGIES.md
+107,swing_screener_jain,Swing Trading için Hisse Tarama Aracı - Abhishek Jain,18,complete,batch_107/STRATEGIES.md
+107,price_action_robert,Price Action Trading Stratejileri - Matthew Robert,16,complete,batch_107/STRATEGIES.md
+108,gold_price_action,Kazançlı Gold Stratejisi - Learn Price Action,12,complete,batch_108/STRATEGIES.md
+108,gann_okehiedon,Okehiedon Gann System,17,complete,batch_108/STRATEGIES.md
+108,macd_signals,MACD Al ve Sat Sinyalleri,14,complete,batch_108/STRATEGIES.md
+109,falcon_fx_setups,Trading Kurulumları - Falcon FX,15,complete,batch_109/STRATEGIES.md
+109,payapa_scalp,Payapa Scalping Stratejisi - Türkçe ve İngilizce,12,complete,batch_109/STRATEGIES.md
+109,intraday_stock_trader,Gün İçi Trading Stratejisi - Stock Trader,10,complete,batch_109/STRATEGIES.md
+110,weekly_wood,Haftalık Gelir İçin Basit Kurulumlar - Thomas Wood,14,complete,batch_110/STRATEGIES.md
+110,double_fib_crawford,Çift Vuruş Fibonacci Stratejisi - J Crawford,10,complete,batch_110/STRATEGIES.md
+110,forex_valeriano,Forex - Investing People - Valeriano,19,complete,batch_110/STRATEGIES.md
+111,bermuda_selim,Forex Bermuda Trading Stratejisi - Michel Selim,20,complete,batch_111/STRATEGIES.md
+111,ak47_vezi,AK47 Scalping Stratejisi - Siya Vezi,26,complete,batch_111/STRATEGIES.md
+111,nasdaq_fx_goat,Nasdaq Trading Stratejisi - FX Goat,29,complete,batch_111/STRATEGIES.md
+112,double_doji_ribakov,Trading İşlemlerinde İkili Dojinin Sırrı - Vladimir Ribakov,10,complete,batch_112/STRATEGIES.md
+112,channel_trading,Kanal Ticareti,12,complete,batch_112/STRATEGIES.md
+112,forex_shepal,Forex - JM Shepal,17,complete,batch_112/STRATEGIES.md
+113,fibonacci_srinivasan,Basitleştirilmiş Fibonacci Düzeltmesi - Sankar Srinivasan,15,complete,batch_113/STRATEGIES.md
+113,candles_mudaliar,Mum Grafiğiyle Trading Tekniği - Avinash Mudaliar,16,complete,batch_113/STRATEGIES.md
+113,order_block_smith,Forex ve Order Block Trading Rehberi - Raymond M. Smith,15,complete,batch_113/STRATEGIES.md
+114,pin_bar_strategy,Pin Bar Stratejisi,18,complete,batch_114/STRATEGIES.md
+114,nfp_salman,NFP Stratejisi - Unathi W. Salman,21,complete,batch_114/STRATEGIES.md
+114,nasdaq_lebese,Nasdaq Trading Stratejisi - Thabang Lebese,21,complete,batch_114/STRATEGIES.md
+115,fibonacci_poulos,Fibonacci Trading Hakkında Her Şey - Bill Poulos,21,complete,batch_115/STRATEGIES.md
+115,btmm_festus,BTMM + ICT Sniper Giriş - Omoemu Festus,20,complete,batch_115/STRATEGIES.md
+115,swing_cafe_du_forex,Swing Trading - Cafe Du Forex,21,complete,batch_115/STRATEGIES.md
+116,trading_system_del_toro,Trading Sistemi - Giovanni Del Toro,26,complete,batch_116/STRATEGIES.md
+116,super_scalper_holmes,Super Scalper - Gavin Holmes,27,complete,batch_116/STRATEGIES.md
+116,candle_ambush_seng,Forex Mum Çubuğu Pusu İşlemi - Long Hang Seng,30,complete,batch_116/STRATEGIES.md
+117,wyckoff_methodology,Wyckoff Metodolojisi,31,complete,batch_117/STRATEGIES.md
+117,rsi_trading_tyler_aaron,RSI Trading - Tyler Aaron,33,complete,batch_117/STRATEGIES.md
+117,intraday_trading_jonathan,Güniçi Trading - B. Jonathan,27,complete,batch_117/STRATEGIES.md
+118,gold_technical_hexa_borsa,Altın Teknik - Hexa Borsa,64,complete,batch_118/STRATEGIES.md
+118,seven_trading_patterns_charles_floyd,Sizi Zengin Edebilecek 7 Trading Modeli - Charles A. Floyd,33,complete,batch_118/STRATEGIES.md
+118,five_swing_secrets_ivayla_ivanov,Yüksek Kazançlı Swing Ticaretinin 5 Sırrı - Ivayla Ivanov,52,complete,batch_118/STRATEGIES.md
+119,forex_systems_research_technical,Forex Systems Research Company Teknik Analiz Kursu,49,complete,batch_119/STRATEGIES.md
+119,forex_trading_course_heiken_ashi_trader,Forex Trading Kursu - Heiken Ashi Trader,69,complete,batch_119/STRATEGIES.md
+119,bull_bear_academy_technical,Teknik Analiz Kursu - Bull and Bear Academy,61,complete,batch_119/STRATEGIES.md
+120,price_action_minev,Açıklamalı Price Action Tekniği - Svetlin Minev,144,complete,batch_120/STRATEGIES.md
+120,candles_ribakov,Mumların Dili - Vladimir Ribakov,25,complete,batch_120/STRATEGIES.md
+120,trend_lines_generic,Trend Çizgileri - Jeffrey Kennedy,43,complete,batch_120/STRATEGIES.md
+121,colibri_price_action_dem_su,Price Action - Colibri Trader - Demsu,25,complete,batch_121/STRATEGIES.md
+121,price_action_dynamics,Price Action Dinamikleri,29,complete,batch_121/STRATEGIES.md
+121,candle_entries_exits_bigalow,Kazançlı Mum Giriş Çıkış Stratejileri - Stephen W. Bigalow,27,complete,batch_121/STRATEGIES.md
+122,gaines_cycles_breakouts,Haftalık Opsiyonlar ve Vadeli İşlemlerle Trading Döngüleri ve Kırılmalar - Larry Gaines,27,complete,batch_122/STRATEGIES.md
+122,intraday_buy_akshay,Güniçi Satın Alma Stratejisi - Akshay VG,30,complete,batch_122/STRATEGIES.md
+122,darvas_box_pansheriya,Darvas Box ile Trading - Alpesh Pansheriya,42,complete,batch_122/STRATEGIES.md
+123,eight_price_action_pansheriya,Kanıtlanmış 8 Price Action Stratejisi - Alpesh Pansheriya,43,complete,batch_123/STRATEGIES.md
+123,tyler_price_action,Price Action Trading - Tyler Aaron,28,complete,batch_123/STRATEGIES.md
+123,carter_trend_follow,Forex Trend Takip Stratejileri - Thomas Carter,37,complete,batch_123/STRATEGIES.md
+124,crowder_three_option_strategies,3 Basit Opsiyon Stratejisi - Andy Crowder,37,complete,batch_124/STRATEGIES.md
+124,introbooks_day_trading,Günlük Trading - Intro Books - Learning is Easy,25,complete,batch_124/STRATEGIES.md
+124,damir_price_action_trends,Price Action Trends - Laurentiu Damir,46,complete,batch_124/STRATEGIES.md
+125,trading_junkies_candles,Mum Kalıpları - Trading Junkies,21,complete,batch_125/STRATEGIES.md
+125,johnathon_swing_guide,Swing Trading için Kesin Kılavuz - Johnathon,21,complete,batch_125/STRATEGIES.md
+125,king_smc_trading,Smart Money Concept - SMC Trading - James Jecool King,22,complete,batch_125/STRATEGIES.md
+126,plexus_daily_bias,Kolaylaştırılmış Daily Bias Tespiti (TR-ENG),13,complete,batch_126/STRATEGIES.md
+126,mark_rose_candles,Mumlar Hakkında Bilmek İsteyeceğiniz Her Şey - Mark Rose,22,complete,batch_126/STRATEGIES.md
+126,market_makers_method_training,Forex Eğitimi - Market Makers Method,22,complete,batch_126/STRATEGIES.md
+127,m1_m5_forex_scalping,M1-M5 Forex Scalping Stratejisi,6,complete,batch_127/STRATEGIES.md
+127,chriss_padgett_fibonacci,Fibonacci Geri Çekilme Stratejisi - Chris Padgett,8,complete,batch_127/STRATEGIES.md
+127,gabriel_rios_order_block,Order Block - Gabriel Rios,8,complete,batch_127/STRATEGIES.md
+128,soulz_supply_demand,Arz ve Talep - Soulz,12,complete,batch_128/STRATEGIES.md
+128,gaucan_fibonacci_principle,Fibonacci Geri Çekilme Prensibi - Violeta Gaucan,12,complete,batch_128/STRATEGIES.md
+128,ismail_single_candle_fibonacci,Fibonacci Geri Çekilme ile Teknik Analiz - M. Jazuli İsmail,12,complete,batch_128/STRATEGIES.md
+129,low_tf_order_block_refinement,Düşük Zaman Dilimlerinde Order Block Tespiti,14,complete,batch_129/STRATEGIES.md
+129,lucius_ict_block_types,ICT Blok Tipleri (Orijinal) - Lucius,12,complete,batch_129/STRATEGIES.md
+129,lumi_ict_block_examples,ICT Block Örnekleri - Lumi Traders,18,complete,batch_129/STRATEGIES.md
+130,bystra_gold_perfect_entry,BYSTRA - Gold Perfect Entry - Orijinal,27,complete,batch_130/STRATEGIES.md
+130,momoh_pullback_reversal,Fiyat Düzeltmesi ve Trend Dönüşü Kurulumu - Momoh SO,36,complete,batch_130/STRATEGIES.md
+130,profit_king_day_trading,Günlük Trading Kazanç Paketi - Profit King,37,complete,batch_130/STRATEGIES.md
+131,tradable_order_blocks,Takas Edilebilir Order Blocklar,25,complete,batch_131/STRATEGIES.md
+131,wyckoff_rise_precision,Wyckoff Eğitimi - Rise Precision,25,complete,batch_131/STRATEGIES.md
+131,tim_morris_crash_signal,Çökme Sinyali - Borsa Çöküşünü Öngören Tek Sinyal - Tim Morris,28,complete,batch_131/STRATEGIES.md
+132,trading_mastery_million_moves,Trading Uzmanlığı - Million Moves Presents,13,complete,batch_132/STRATEGIES.md
+132,mw_intraday_jecool_king,M ve W Nihai Gün İçi Trading Stratejisi - James Jecool King,44,complete,batch_132/STRATEGIES.md
+132,set_forget_tim_morris,Ayarla ve Unut - Tim Morris,41,complete,batch_132/STRATEGIES.md
+133,crypto_candlesticks_emily_dhruv,Kripto Ticaretinde Mum Grafiklerini Okumaya Yönelik Profesyonel Bir Kılavuz - Emily Dhruv,23,complete,batch_133/STRATEGIES.md
+133,orderblock_forex_jecool_king,Orderblock Forex Trading Sırrı - James Jecool King,30,complete,batch_133/STRATEGIES.md
+133,forex_insider_marc_caron,Forex Trading için İçeriden Rehber - Marc Jr. Caron,45,complete,batch_133/STRATEGIES.md
+134,sir_lz_notes,Sir Lz Notları - Orijinal,10,complete,batch_134/STRATEGIES.md
+134,shinta_fx_trader_guide,Trader Rehberi - Shinta FX,31,complete,batch_134/STRATEGIES.md
+134,hedge_strategies,Hedge Stratejileri,45,complete,batch_134/STRATEGIES.md
+135,ict_strategy_jecool_king,ICT Stratejisi - James Jecool King,60,complete,batch_135/STRATEGIES.md
+135,price_action_chart_profit_king,Fiyat Hareketi Grafiğini Okuma Rehberi - Profit King,52,complete,batch_135/STRATEGIES.md
+135,trading_success_jennifer_jung,Trading Başarısı - Temellerden İleri Seviyeye - Jennifer Jung,28,complete,batch_135/STRATEGIES.md
+136,h4_ema200_50_retest,H4 Zaman Diliminde 200 ve 50 EMA ile Strateji Oluşturma,3,complete,batch_136/STRATEGIES.md
+136,currency_grail_scalping,Currency Grail - Benim Gizli Kayıpsız Forex Scalping Sistemim,38,complete,batch_136/STRATEGIES.md
+136,elliott_acrotec,Kolaylaştırılmış Elliott Dalgaları - Acrotec,37,complete,batch_136/STRATEGIES.md
+137,glennmaru_no_lie,Yalan Söylemeyen Trading Rehberi - Glennmaru,33,complete,batch_137/STRATEGIES.md
+137,trading_hub_mr_khan,Trading Hub 2.0 - Mr. Khan,43,complete,batch_137/STRATEGIES.md
+137,king_of_pips_orozco,King of Pips Teknik Analiz Kılavuzu - Alberto Orozco,38,complete,batch_137/STRATEGIES.md
+138,candles_williams,Kolaylaştırılmış Mum Grafikleri - James Williams,23,complete,batch_138/STRATEGIES.md
+138,fiacan_no_bs_guide,Saçmalık Olmayan Rehber - David Fiacan,42,complete,batch_138/STRATEGIES.md
+138,kelvin_trading_secrets,Trading İşlemlerinde Başarılı Olmanın Sırları - Lee Kelvin,32,complete,batch_138/STRATEGIES.md
+139,turner_month_wisdom,1 Aylık Trade Bilgeliği Rehberi - Edward C. Turner,35,complete,batch_139/STRATEGIES.md
+139,glover_slow_steady,Yavaş ve İstikrarlı - Robert Glover,34,complete,batch_139/STRATEGIES.md
+139,radge_stock_success,Başarılı Hisse Senedi Ticareti - Nick Radge,64,complete,batch_139/STRATEGIES.md
+140,markets_forex_beginner,Yeni Başlayanlar İçin Forex - Markets.com,37,complete,batch_140/STRATEGIES.md
+140,simple_trading_original,Basit Trading Kitabı - Orijinal,60,complete,batch_140/STRATEGIES.md
+140,elliott_lesson4,Elliott Dalga Teorisi (Ders 4),14,complete,batch_140/STRATEGIES.md
+141,green_forex_gbpjpy_scalp,GBPJPY M1 Scalp Stratejisi - Green Forex,4,complete,batch_141/STRATEGIES.md
+141,rayner_100_rules,Tüm Zamanların En İyi 100 Trading Kuralı,14,complete,batch_141/STRATEGIES.md
+141,alper_ergul_candles,Mum Formasyonları - Alper Ergül,75,complete,batch_141/STRATEGIES.md
+142,walsh_day_trading_secrets,Günlük Trading Sırları - Harvey Walsh,45,complete,batch_142/STRATEGIES.md
+142,colibri_eight_price_action,En İyi 8 Adet Price Action Kalıbı - Colibri Trader,40,complete,batch_142/STRATEGIES.md
+142,kevin_ho_lbr_scalps,LBR Scalp İşlem Kurulumları - Kevin Ho,4,complete,batch_142/STRATEGIES.md
+143,derek_salvon_smc,Yeni Başlayanlar için Smart Money Konsepti - Derek Salvon,30,complete,batch_143/STRATEGIES.md
+143,abraham_robert_risk,Risk Yönetimi - Abraham Robert C.,36,complete,batch_143/STRATEGIES.md
+143,oliver_kell_stock_trading,Hisse Senedi Ticaretinde Zafer - 2020 ABD Yatırım Şampiyonunu Stratejisi ve Taktikleri,40,complete,batch_143/STRATEGIES.md
+144,david_t_allen_crypto_day,Acemiler için Kripto Day Trading - David T. Allen,42,complete,batch_144/STRATEGIES.md
+144,james_jecool_king_ict_guide,ICT Trading Rehberi - James Jecool King,40,complete,batch_144/STRATEGIES.md
+144,elite_signals_trading_masters_patterns,Trading Masters Kalıplar,13,complete,batch_144/STRATEGIES.md
+145,derek_salvon_ict_order_block,ICT Order Block Trading - Derek Salvon,44,complete,batch_145/STRATEGIES.md
+145,long_pham_combined_indicators,İndikatörleri Birleştirerek Geliştireceğin Güçlü Stratejilerle _80_e Varan Kazanç Elde Et - Long Pham,6,complete,batch_145/STRATEGIES.md
+145,kyle_w_james_dynamic_forex,Forex Trading - Dinamik Bir Pazarda Başarı İçin Stratejiler ve Taktikler - Kyle W. James,45,complete,batch_145/STRATEGIES.md
+146,falcon_trading_technical_course,Falcon Trading Teknik Analiz Kursu,37,complete,batch_146/STRATEGIES.md
+146,forex_jungle_manifesto,Forex Trading Manifestosu,18,complete,batch_146/STRATEGIES.md
+146,chris_miller_ai_trading,Yapay Zeka ile Daha Akıllı Trading - Chris Miller,22,complete,batch_146/STRATEGIES.md
+147,rachana_ranade_technical_analysis,Teknik Analiz - Rachana Ranade,31,complete,batch_147/STRATEGIES.md
+147,deriv_vince_stanzione_patterns,Teknik Analiz Kursu - Deriv,30,complete,batch_147/STRATEGIES.md
+147,digitalgigz_price_action,Price Action - Digitalgigz Trading Academy,36,complete,batch_147/STRATEGIES.md
+148,price_action_concept,Price Action Konsepti,21,complete,batch_148/STRATEGIES.md
+148,smart_money_concepts,Smart Money Kavramları,20,complete,batch_148/STRATEGIES.md
+148,emily_dhruv_candle_analysis,Mum Analizi - Emily Dhruv,27,complete,batch_148/STRATEGIES.md
+149,patt_tomas_trading_rules,Trading Kuralları - Patt Tomas,45,complete,batch_149/STRATEGIES.md
+149,lalit_mohanty_intraday_mastery,Güniçi İşlemlerde Ustalaşmak - Lalit Mohanty,47,complete,batch_149/STRATEGIES.md
+149,emily_dhruv_trading_game,Trading Oyununda Nasıl Kazanılır - Emily Dhruv,44,complete,batch_149/STRATEGIES.md
+150,michael_young_dow_theory,Dow Teorisi - Michael Young,23,complete,batch_150/STRATEGIES.md
+150,alfa_crypto_lesson_notes,Alfa Crypto Ders Notları,27,complete,batch_150/STRATEGIES.md
+150,crypto_charts,Kripto Para Grafikleri,27,complete,batch_150/STRATEGIES.md
+151,market_maker_method_module_1,Piyasa Yapıcı Yöntemi - Modül 1,27,complete,batch_151/STRATEGIES.md
+151,price_action_candle_guide_we_trade_daily,Price Action Mum Rehberi - We Trade Daily,24,complete,batch_151/STRATEGIES.md
+151,darrell_jobman_candle_guide,Mum Rehberi - Darrell Jobman,18,complete,batch_151/STRATEGIES.md
+152,day_trading_scotty_ratford,Günlük Alım Satım Stratejileri - Scotty Ratford,48,complete,batch_152/STRATEGIES.md
+152,smc_kevin_brown,Basitleştirilmiş SMC (Akıllı Para Konsepti) Trading Rehberi - Kevin M. Brown,34,complete,batch_152/STRATEGIES.md
+152,price_action_orderblock_james_king,Price Action ve Orderblock ile İleri Düzey Piyasa Yapısı Trading - James Jecool King,23,complete,batch_152/STRATEGIES.md
+153,payapa_trading_strategy,Payapa Trading Stratejisi,47,complete,batch_153/STRATEGIES.md
+153,basic_patterns_branko_petruci,Temel Formasyonlar Rehberi - Branko Petruci,23,complete,batch_153/STRATEGIES.md
+153,advanced_order_block_raymond_smith,Order Block ile Gelişmiş Trading Rehberi - Raymond M. Smith,18,complete,batch_153/STRATEGIES.md
+154,forex_swing_abraham_robert_c,Forex Swing Trading - Abraham Robert C.,50,complete,batch_154/STRATEGIES.md
+154,day_trading_anthony_smith,Günlük Alım Satım - Anthony Smith,46,complete,batch_154/STRATEGIES.md
+154,technical_analysis_dow_mustafa_kucukakarsu,Teknik Analiz ve Dow Teorisi - Mustafa Küçükakarsu,8,complete,batch_154/STRATEGIES.md
+155,swing_trading_rules_paul_welch,Swing Trading Kuralları - Paul Welch,51,complete,batch_155/STRATEGIES.md
+155,day_trading_matthew_kratter,Kolaylaştırılmış Günlük Trading - Matthew R. Kratter,33,complete,batch_155/STRATEGIES.md
+155,supply_demand_kenny_brandon,Arz ve Talep Trading Rehberi - Kenny Brandon,36,complete,batch_155/STRATEGIES.md
+156,technical_analysis_price_action_alexander_wilson,Teknik Analiz ve Fiyat Hareketi - En Kapsamlı Rehber - Alexander C. Wilson,44,complete,batch_156/STRATEGIES.md
+156,smart_money_concepts_2_kavin_kavi,Smart Money Konseptleri 2.0 - Forex Trading - Kavin Kavi,56,complete,batch_156/STRATEGIES.md
+156,forex_trading_bruce_copson,Forex Trading - Bruce Copson,35,complete,batch_156/STRATEGIES.md
+157,metastock_secrets_second_edition,Başarılı Traderların Sırları - İkinci Baskı - MetaStock,40,complete,batch_157/STRATEGIES.md
+157,forex_secrets_john_powell,Forexin Sırları - John Powell,55,complete,batch_157/STRATEGIES.md
+157,trader_secrets_sagar_nandi,Başarılı Traderların Sırları - Sagar Nandi,34,complete,batch_157/STRATEGIES.md
+158,wyckoff_daily_stock,Günlük Hisse Senedi Ticaretimin Sırları - Richard D. Wyckoff,52,complete,batch_158/STRATEGIES.md
+158,martinez_ten_keys,Başarılı Forex Ticareti için 10 Anahtar - Jared F. Martinez,41,complete,batch_158/STRATEGIES.md
+158,harnett_mean_reversion,Ortalamaya Dönüş Günlük Trading - David Harnett,59,complete,batch_158/STRATEGIES.md
+159,jenkins_day_trading,Basitleştirilmiş Günlük Trading Teknikleri - Michael S. Jenkins,132,complete,batch_159/STRATEGIES.md
+159,byeajee_trading_psychology,200 Kısa Trading Psikolojisi - Yvan Byeajee,37,complete,batch_159/STRATEGIES.md
+159,elder_step_by_step,Adım Adım Trade - Alexander Elder,72,complete,batch_159/STRATEGIES.md
+160,smart_money_morrison,Akıllı Para Konseptinde Ustalaşma - Forex Piyasasının Ayrıntılı Analizi - David E. Morrison,16,complete,batch_160/STRATEGIES.md
+160,price_action_course,Price Action Kursu,20,complete,batch_160/STRATEGIES.md
+160,order_block_mete_kaplan,Order Block - Mete Kaplan,25,complete,batch_160/STRATEGIES.md
+161,price_action_raoul_hunter,Price Action - Raoul Hunter,57,complete,batch_161/STRATEGIES.md
+161,entry_point_momoh,İşleme Giriş Noktasının Belirlenmesi - Momoh SO,47,complete,batch_161/STRATEGIES.md
+161,overbought_oversold_momoh,Fiyat Aşırı Alım ve Aşırı Satım Sinyali - Momoh SO,42,complete,batch_161/STRATEGIES.md
+162,trade_the_line_kennedy,Çizgiyi Takas Etmek - Trend Çizgilerini Kullanarak Dönüşleri Tespit Etmek ve Trendleri Yakalamak - Jeffery Kennedy,44,complete,batch_162/STRATEGIES.md
+162,supply_demand_applebaum,Arz ve Talep Ticaretini Kolayca Öğrenin - Jason Applebaum,42,complete,batch_162/STRATEGIES.md
+162,pitchfork_bryan_post,Andrews Pitchfork Kullanarak Bereketli Trading Kazançları Elde Edin - Bryan V Post,53,complete,batch_162/STRATEGIES.md
+163,big_moves_thomas,Büyük Piyasa Hareketlerini Nasıl Yakalayabilirsiniz - L.R. Thomas,58,complete,batch_163/STRATEGIES.md
+163,momentum_stocks_kratter,Yüksek İvmeli Hisselerde İşlem Yapmayı Öğrenin - Matthew R. Kratter,59,complete,batch_163/STRATEGIES.md
+163,advanced_forex_walker,Forex İçin Gelişmiş Teknik Analiz - Wayne Walker,58,complete,batch_163/STRATEGIES.md
+164,chart_patterns_cheat_sheet,Grafik Kalıpları - Chart Patterns Cheat Sheet,33,complete,batch_164/STRATEGIES.md
+164,price_action_daniel_stones,Price Action - Daniel Stones,48,complete,batch_164/STRATEGIES.md
+164,japanese_candlesticks_james_abbott,Japon Mum Grafik Teknikleri - James Abbott,50,complete,batch_164/STRATEGIES.md
+165,candles_stefano_calicchio,Japon Mum Çubuklarına Kolay Bir Yaklaşım - Stefano Calicchio,50,complete,batch_165/STRATEGIES.md
+165,day_trading_anthony_smith,Günlük Alım Satım - Anthony Smith,46,complete,batch_165/STRATEGIES.md
+165,price_action_derek_salvon,Price Action - Derek Salvon,48,complete,batch_165/STRATEGIES.md
+166,supply_demand_daniel_stones,Arz ve Talep Trading Kitabı - Daniel Stones,69,complete,batch_166/STRATEGIES.md
+166,build_strategy_heikin_ashi_trader,Karlı Bir Trading Stratejisi Nasıl Oluşturulur - Heikin Ashi Trader,71,complete,batch_166/STRATEGIES.md
+166,forex_kungfu_shaolin,Forex Kungfu Shaolin,70,complete,batch_166/STRATEGIES.md
+167,range_trading_heikin_ashi_trader,Bir Aralıkta Nasıl İşlem Yapılır - Heikin Ashi Trader,66,complete,batch_167/STRATEGIES.md
+167,price_action_market_structure_bill_simons,Price Action ve Piyasa Yapısı - Bill Simons,66,complete,batch_167/STRATEGIES.md
+167,trapped_trading_deivid_fx,Görünür ve Tuzaklı Trading - Deivid FX,74,complete,batch_167/STRATEGIES.md
+168,fibonacci_retracement_mastery_lalit_mohanty,Fibonacci Düzeltmesi Uzmanlığı - Lalit Mohanty,68,complete,batch_168/STRATEGIES.md
+168,scalping_strategies_101_usiere_uko,Scalping Stratejileri 101 - Usiere Uko,80,complete,batch_168/STRATEGIES.md
+168,professional_price_action_kenny_brandon,Profesyonel Price Action Trading Rehberi - Kenny Brandon,65,complete,batch_168/STRATEGIES.md
+169,price_action_three_lines_r_rana,Price Action Three Lines - R. Rana,131,complete,batch_169/STRATEGIES.md
+169,price_action_breakouts_laurentiu_damir,Price Action Kırılımları - Laurentiu Damir,79,complete,batch_169/STRATEGIES.md
+169,price_action_quasimodo_qm,Price Action Quasimodo (QM) Konu Anlatımı,44,complete,batch_169/STRATEGIES.md
+170,indicator_scalping_marcello_ferrazzi,Göstergeyle Scalping El Kitabı - Marcello Ferrazzi,79,complete,batch_170/STRATEGIES.md
+170,definitive_scalping_guide_tr_en,Scalping İşlemlerine İlişkin Kesin Kılavuz - Türkçe ve İngilizce,56,complete,batch_170/STRATEGIES.md
+170,high_probability_scalping_zackary_carson,Yüksek Başarı Olasılığına Sahip Scalping Stratejileri El Kitabı - Zackary Carson,99,complete,batch_170/STRATEGIES.md
+171,emini_dow_mini_dax_scalping_teva_lama,E-mini Dow ve Mini DAX için Hızlı Al-Sat - Teva Lama,78,complete,batch_171/STRATEGIES.md
+171,ten_trading_strategies_nikhil_porwal,En Kazançlı 10 Trading Stratejisi - Nikhil Porwal,97,complete,batch_171/STRATEGIES.md
+171,forex_trading_strategies_collection_53,Forex Trading Stratejileri - derleme,53,complete,batch_171/STRATEGIES.md
+172,trendline_breakout_62,Trendline Breakout Stratejisi,62,complete,batch_172/STRATEGIES.md
+172,price_action_setups_90,Price Action Kurulumları,90,complete,batch_172/STRATEGIES.md
+172,quantum_globe_forex_strategy,Forex Trading Stratejisi - Quantum Globe,125,complete,batch_172/STRATEGIES.md
+173,forex_range_damir_122,Forex Range Trading with Price Action - Laurentiu Damir,122,complete,batch_173/STRATEGIES.md
+173,bo_turbo_price_action_104,BO Turbo Trader Price Action Kılavuzu,104,complete,batch_173/STRATEGIES.md
+173,gary_norden_scalping_114,Scalping Kılavuzu - Gary Norden,114,complete,batch_173/STRATEGIES.md
+174,fibonacci_advanced_jim_kane_146,Gelişmiş Fibonacci Trading Kavramları - Jim Kane,146,complete,batch_174/STRATEGIES.md
+174,vwap_brian_shannon_171,VWAP - Brian Shannon,171,complete,batch_174/STRATEGIES.md
+174,ichimoku_nicole_elliott_109,Ichimoku Grafikleri Rehberi - Nicole Elliott,109,complete,batch_174/STRATEGIES.md
+175,candles_clive_lambert_171,Mum Grafikleri - Clive Lambert,171,complete,batch_175/STRATEGIES.md
+175,price_action_indrazith_108,Price Action Trading - Indrazith Shantharaj,108,complete,batch_175/STRATEGIES.md
+175,candles_stephen_bigalow_122,Yüksek Olasılıklı Mum Desenleri ve Kurulumlar - Stephen Bigalow,122,complete,batch_175/STRATEGIES.md
+176,price_action_atif_choudhury,Price Action - Atif Choudhury,132,complete,batch_176/STRATEGIES.md
+176,trading_beginners_mark_mcrae,Başlangıç Seviyesindekiler İçin Trading - Mark McRae,100,complete,batch_176/STRATEGIES.md
+176,trader_handbook_rob_booker,Traderin El Kitabı - Rob Booker,96,complete,batch_176/STRATEGIES.md
+177,forex_daily_profit_ketty_lin,Forex Piyasasında Günlük Ticaret - Kar Stratejileri - Ketty Lin,223,complete,batch_177/STRATEGIES.md
+177,market_maker_matrix_evan_christopher,Piyasa Yapıcının Matrixi - Evan J. Christopher,61,complete,batch_177/STRATEGIES.md
+177,day_trading_mastery_nataraj_malavade,Günlük İşlem Yapmanın Ustalığı - Nataraj Malavade,153,complete,batch_177/STRATEGIES.md
+178,price_action_mustafa_karahan,Price Action - Mustafa Karahan,236,complete,batch_178/STRATEGIES.md
+178,trader_93_lessons_frank_marshall,Trader - 93 Trading Dersi - Frank Marshall,96,complete,batch_178/STRATEGIES.md
+178,forex_okulu_208,Forex Okulu,208,complete,batch_178/STRATEGIES.md
+179,ultimate_day_trading_al_hill,Günlük Trading İşlemlerinde Nihai Rehber - Al Hill,160,complete,batch_179/STRATEGIES.md
+179,penny_stock_system_donny_lowy,Penny Stock Trading Sistemi - Donny Lowy,214,complete,batch_179/STRATEGIES.md
+179,forex_technical_analysis_course_212,Forex Teknik Analiz Kursu,212,complete,batch_179/STRATEGIES.md
+180,forex_grebenshchikov_sayadov_139,Forex Piyasasında Nasıl Para Kazanılır - Stanislav Grebenshchikov ve Vagram Sayadov,139,complete,batch_180/STRATEGIES.md
+180,trend_following_chuck_hughes_114,4.5 Milyon Dolar Kazanç - Chuck Hughes’in Trend Takip Raporları - Chuck Hughes,114,complete,batch_180/STRATEGIES.md
+180,forex_guide_felix_goldstein_89,Forex Hakkında Nihai Kılavuz - Felix Goldstein,89,complete,batch_180/STRATEGIES.md
+181,algo_cheat_codes_kevin_davey_193,Algoritmik Trading Kısayol Kodları - Kevin J. Davey - Orijinal,193,complete,batch_181/STRATEGIES.md
+181,hidden_science_price_volume_timothy_ord_193,Fiyat ve Hacmin Gizli Bilimi - Timothy Ord,193,complete,batch_181/STRATEGIES.md
+181,powerx_strategy_markus_heitkoetter_147,PowerX Stratejisi - Markus Heitkoetter - Orijinal,147,complete,batch_181/STRATEGIES.md
+182,step_by_step_algo_investors_press_118,Adım Adım Algoritmik Trading Rehberi - Investors Press,118,complete,batch_182/STRATEGIES.md
+182,ultimate_candles_burns_matov_118,Mum Grafikleri Hakkında Nihai Rehber - Steve Burns ve Atanas Matov,118,complete,batch_182/STRATEGIES.md
+182,trading_strategies_2022_daphne_warner_124,Trading Stratejileri 2022 - Daphne Warner,124,complete,batch_182/STRATEGIES.md
+183,advanced_ta_jon_fibonacci_106,Gelişmiş Teknik Analiz - Jon Fibonacci,106,complete,batch_183/STRATEGIES.md
+183,when_to_buy_javier_luque_182,Ne Zaman Hisse Senedi ve Kripto Varlık Alınır - Javier Luque,182,complete,batch_183/STRATEGIES.md
+183,intermarket_forex_dean_grey_179,Piyasalar Arası Analiz Kullanarak Forex Trading - Dean Grey,179,complete,batch_183/STRATEGIES.md
+184,swing_day_bulkowski_284,Swing and Day Trading - Thomas N. Bulkowski,284,complete,batch_184/STRATEGIES.md
+184,systematic_trading_carver_306,Sistematik Trading - Robert Carver,306,complete,batch_184/STRATEGIES.md
+184,cycle_analytics_ehlers_233,Traderlar için Döngü Analitiği - John F. Ehlers,233,complete,batch_184/STRATEGIES.md
+185,ta_module_ncfm_169,Teknik Analiz Modülü - NCFM,169,complete,batch_185/STRATEGIES.md
+185,finding_alphas_tulchinsky_215,Alfaları Bulmak - Igor Tulchinsky,215,complete,batch_185/STRATEGIES.md
+185,seven_strategies_patel_kiri_107,Son Derece Etkili Yatırımcıların 7 Basit Stratejisi - Alpesh B. Patel ve Paresh H. Kiri,107,complete,batch_185/STRATEGIES.md
+186,ten_secrets_berg_atkinson_88,Online Trading ve Yatırımın 10 Sırrı - Jim Berg ve John Atkinson,88,complete,batch_186/STRATEGIES.md
+186,short_term_bansal_193,Karlı Kısa Vadeli Trading Stratejileri - Rakesh Bansal,193,complete,batch_186/STRATEGIES.md
+186,ta_guide_rankia_76,Teknik Analiz Rehberi - Rankia,76,complete,batch_186/STRATEGIES.md
+187,one_trade_a_day_jardine_181,Günde Sadece 1 Trade - Michael Jardine,181,complete,batch_187/STRATEGIES.md
+187,advanced_forex_day_120,Gelişmiş Forex Trading - Edward Day,120,complete,batch_187/STRATEGIES.md
+187,sp500_daytrading_ullrich_82,S&P 500 Endeksinde Günlük Trading - Arthur H. Ullrich,82,complete,batch_187/STRATEGIES.md
+188,advanced_price_action_airforexone_364,Gelişmiş Price Action Tekniği - Airforexone,364,complete,batch_188/STRATEGIES.md
+188,trade_like_monk_kharbanda_74,Bir Keşiş Gibi Trade Yap - Harneet Singh Kharbanda,74,complete,batch_188/STRATEGIES.md
+188,position_sizing_basso_75,Başarılı Yatırımcılar Pozisyonlarını Neden ve Nasıl Boyutlandırıyor - Tom Basso,75,complete,batch_188/STRATEGIES.md
+189,elliott_visual_gorman_kennedy_254,Elliott Dalga Ticareti Hakkında Görsel Rehber - Wayne Gorman ve Jeffrey Kennedy,254,complete,batch_189/STRATEGIES.md
+189,smart_money_bible_dexterrfx_104,Smart Money Kavramının Kutsal Kitabı - DexterrFX,104,complete,batch_189/STRATEGIES.md
+189,calm_trader_burns_42,Sakin Trader - Aklınızı Kaybetmeden Kazanın - Steve Burns ve Holly Burns,42,complete,batch_189/STRATEGIES.md
+190,day_trading_bennett_148,Day Trading - David Bennett,148,complete,batch_190/STRATEGIES.md
+190,electronic_day_traders_friedfertig_west_238,Elektronik Günlük Traderların Sırları - Marc Friedfertig ve George West,238,complete,batch_190/STRATEGIES.md
+190,risk_holy_grail_mann_55,Ticaretin Kutsal Kasesi Risk Yönetimi - Kenneth Mann,55,complete,batch_190/STRATEGIES.md
+191,price_action_volman_410,Price Action Sistemini Anlamak - Bob Volman,410,complete,batch_191/STRATEGIES.md
+191,risk_management_burns_78,Trade İşlemlerinde Risk Yönetimi Kılavuzu - Steve Burns ve Holly Burns,78,complete,batch_191/STRATEGIES.md
+191,financial_freedom_secker_weaver_133,Forex ile Finansal Özgürlük - Greg Secker ve Chris Weaver,133,complete,batch_191/STRATEGIES.md
+192,day_trading_allen_472,Day Trading - Douglas Allen,472,complete,batch_192/STRATEGIES.md
+192,fast_money_kovac_167,Hızlı Para - O Kadar da Hızlı Değil - Peter Kovac,167,complete,batch_192/STRATEGIES.md
+192,finance_psychology_fil_49,Finans Psikolojisi - Forex Investment Lounge,49,complete,batch_192/STRATEGIES.md
+193,futures_trend_greyserman_kaminski_391,Vadeli İşlemlerle Trend Takibi - Alex Greyserman ve Kathryn M. Kaminski,391,complete,batch_193/STRATEGIES.md
+193,best_loser_hougaard_250,En İyi Kaybeden Kazanır - Tom Hougaard,250,complete,batch_193/STRATEGIES.md
+193,mental_fitness_hallett_31,Traderlar İçin Mental Fitness - Norman Hallett,31,complete,batch_193/STRATEGIES.md
+194,wyckoff_villahermosa_206,Derinlemesine Wyckoff Metodolojisi - Ruben Villahermosa,206,complete,batch_194/STRATEGIES.md
+194,quant_momentum_gray_vogel_179,Kanitatif Momentum - Wesley R. Gray ve Jack R. Vogel,179,complete,batch_194/STRATEGIES.md
+194,swing_timing_lee_tryde_192,Swing Traderlar için Zamanlama Çözümleri - Robert T.H. Lee ve Peter A. Tryde,192,complete,batch_194/STRATEGIES.md
+195,trend_art_parness_230,Trend Ticareti Sanatı - Michael Parness,230,complete,batch_195/STRATEGIES.md
+195,smart_money_holmes_189,Smart Money Gölgesinde Trading - Gavin Holmes,189,complete,batch_195/STRATEGIES.md
+195,trend_forecast_mendelsohn_104,Teknik Analiz ile Trendi Tahmin Etmek - Louis B. Mendelsohn,104,complete,batch_195/STRATEGIES.md
+196,leveraged_trading_carver_297,Kaldıraçlı Trading - Robert Carver,297,complete,batch_196/STRATEGIES.md
+196,stock_strategies_bernstein_186,Borsada İşe Yarayan Stratejiler - Jake Bernstein ve Elliott Bernstein,186,complete,batch_196/STRATEGIES.md
+196,super_forex_system_139,Süper Forex Sistemi - En Kazançlı 16 Strateji,139,complete,batch_196/STRATEGIES.md
+197,regime_gunn_401,Trading Rejimi Analizi - Murray Gunn,401,complete,batch_197/STRATEGIES.md
+197,thalesians_amen_210,Thalesians Trading - Saeed Amen,210,complete,batch_197/STRATEGIES.md
+197,breakthroughs_keller_150,Teknik Analizde Atılımlar - Bloomberg - David Keller,150,complete,batch_197/STRATEGIES.md
+198,effective_systems_stridsman_345,Etkili Trading Sistemlerinin Oluşturulması ve Değerlendirilmesi - Thomas Stridsman,345,complete,batch_198/STRATEGIES.md
+198,price_patterns_pring_350,Fiyat Kalıpları - Martin Pring,350,complete,batch_198/STRATEGIES.md
+198,commodity_garner_432,Daha Yüksek Olasılıklı Emtia Ticareti - Carley Garner,432,complete,batch_198/STRATEGIES.md
+199,oneil_morales_390,O'Neil Disciples ile Trading Kokpitinde - Gil Morales ve Dr. Chris Kacher,390,complete,batch_199/STRATEGIES.md
+199,early_breakout_moneyu101_67,Breakout Traderları için Erken Giriş Noktaları - Moneyu101,67,complete,batch_199/STRATEGIES.md
+199,nse_technical_analysis_134,NSE Teknik Analiz Kursu,134,complete,batch_199/STRATEGIES.md
+200,craig_harris_72,Craig Harris'in Forex Trading Metodolojisi,72,complete,batch_200/STRATEGIES.md
+200,forex_analysis_marta_244,Forex Analizi ve Trading - T. J. Marta ve Joseph Brusuelas,244,complete,batch_200/STRATEGIES.md
+200,forex_mastery_norris_293,Döviz Piyasasında Ustalaşmak - Jay Norris - Al Gaskill ve Teresa Bell,293,complete,batch_200/STRATEGIES.md
+201,integrated_pitchfork_dologa_423,Entegre Çatal Analizi - Dr. Mircea Dologa,423,complete,batch_201/STRATEGIES.md
+201,rds_forex_radkay_562,RDS Forex Sistemi - Stephanie Radkay,562,complete,batch_201/STRATEGIES.md
+201,day_trading_kuepper_196,Day Trading - Justin Kuepper,196,complete,batch_201/STRATEGIES.md
+202,day_trading_small_investors_198,Küçük Yatırımcılar İçin Günlük İşlemler 2.0,198,complete,batch_202/STRATEGIES.md
+202,toni_hansen_support_52,Toni Hansen'in Pazarı - Destek ve Direnci Anlamak,52,complete,batch_202/STRATEGIES.md
+202,forex_revolution_rosenstreich_275,Forex Devrimi - Peter Rosenstreich,275,complete,batch_202/STRATEGIES.md
+203,forex_ten_elements_martinez_207,Forex Ticaretinin 10 Temel Ögesi - Jared F. Martinez,207,complete,batch_203/STRATEGIES.md
+203,forex_secrets_dicks_319,Forex Trading Sırları - James Dicks,319,complete,batch_203/STRATEGIES.md
+203,forex_sayadov_134,Forex - Vahram Sayadov,134,complete,batch_203/STRATEGIES.md
+204,orange_roshan_srdc_124,OrangeRoshan Paylaşımları - SRDC 1 - MatiasFX,124,complete,batch_204/STRATEGIES.md
+204,minervini_stock_wizard_317,Borsa Sihirbazı Gibi Trade Yapın - Mark Minervini,317,complete,batch_204/STRATEGIES.md
+204,phantom_gift_110,Phantom_un Hediyesi,110,complete,batch_204/STRATEGIES.md
+205,teknik_analiz_dersi_182,Teknik Analiz Dersi,182,complete,batch_205/STRATEGIES.md
+205,sam_seiden_notes_423,Sam Seiden Eğitim Notları,423,complete,batch_205/STRATEGIES.md
+205,alessio_rastani_154,Trading İşlemlerine Yeni Başlayanlar İçin Kılavuz - Alessio Rastani - Orijinal,154,complete,batch_205/STRATEGIES.md
+206,price_is_everything_392,Price is Everything - Orijinal Kaynak,392,complete,batch_206/STRATEGIES.md
+206,volatile_markets_cohen_312,Basitleştirilmiş Volatil Piyasalar - Guy Cohen,312,complete,batch_206/STRATEGIES.md
+206,forex_marc_stuart_43,Yeni Başlayanlar İçin Forex - Marc Stuart,43,complete,batch_206/STRATEGIES.md
+207,value_in_time_willain_373,Zamandaki Değer - Pascal Willain,373,complete,batch_207/STRATEGIES.md
+207,hundred_baggers_mayer_198,100e Katlayanlar - Christopher Mayer,198,complete,batch_207/STRATEGIES.md
+207,forex_rogers_evans_112,Yeni Başlayanlar İçin Forex Trading - William Rogers ve George Evans,112,complete,batch_207/STRATEGIES.md
+208,forex_hoerning_470,En Kapsamlı Forex Trading Kılavuzu - Joshua Hoerning,470,complete,batch_208/STRATEGIES.md
+208,stock_investing_elle_jc_169,Borsa Yatırımı - Elle J.C.,169,complete,batch_208/STRATEGIES.md
+208,karen_foo_star_trader_34,Yıldız Trader Olmak İçin Rehber - Karen Foo,34,complete,batch_208/STRATEGIES.md
+209,capra_intraday_tactics_143,Gün İçi Trading Taktikleri - Greg Capra,143,complete,batch_209/STRATEGIES.md
+209,velez_win_every_trade_191,Her Operasyonda Kazanma Stratejileri - Oliver L. Velez,191,complete,batch_209/STRATEGIES.md
+209,summa_trading_against_crowd_193,Kalabalığa Karşı Trading - John F. Summa,193,complete,batch_209/STRATEGIES.md
+210,jankovsky_trade_rules_162,İşe Yarayan Trade Kuralları - Jason Alan Jankovsky,162,complete,batch_210/STRATEGIES.md
+210,pryor_seven_chart_tools_131,Kazanmak için 7 Grafik Aracı - Malcolm Pryor,131,complete,batch_210/STRATEGIES.md
+210,rhoads_candlesticks_332,Mum Grafiklerini Anlamak - Russell Rhoads,332,complete,batch_210/STRATEGIES.md
+211,sussex_first_day_trader_184,Birinci Gün - Trader - John Sussex,184,complete,batch_211/STRATEGIES.md
+211,gujral_trade_with_charts_261,Grafiklerle Trade Yaparak Nasıl Para Kazanılır - Ashwani Gujral,261,complete,batch_211/STRATEGIES.md
+211,heitkoetter_complete_day_trading_269,Günlük Trading için Tam Kapsamlı Kılavuz - Markus Heitkoetter,269,complete,batch_211/STRATEGIES.md
+212,abraham_trend_following_bible_200,Trend Takibinin Kutsal Kitabı - Andrew Abraham,200,complete,batch_212/STRATEGIES.md
+212,sadekar_candlesticks_140,Mum Grafikleriyle Nasıl Para Kazanırsınız - Balkrishna M. Sadekar,140,complete,batch_212/STRATEGIES.md
+212,whistler_trading_pairs_261,Trading Çiftleri - Mark Whistler,261,complete,batch_212/STRATEGIES.md
+213,aronson_evidence_based_ta_470,Kanıta Dayalı Teknik Analiz - David R. Aronson,470,complete,batch_213/STRATEGIES.md
+213,bulkowski_classic_patterns_439,Klasik Trading Grafik Kalıpları - Thomas N. Bulkowski,439,complete,batch_213/STRATEGIES.md
+213,durenard_professional_automated_341,Profesyonel Otomatik Trading - Eugene A. Durenard,341,complete,batch_213/STRATEGIES.md
+214,colby_technical_market_indicators_805,Teknik Piyasa İndikatörleri Ansiklopedisi - Robert W. Colby,805,complete,batch_214/STRATEGIES.md
+214,morris_market_breadth_441,Piyasa Genişliği Göstergelerine İlişkin Tam Kılavuz - Gregory L. Morris,441,complete,batch_214/STRATEGIES.md
+214,oreste_quantum_trading_221,Quantum Trading - Fabio Oreste,221,complete,batch_214/STRATEGIES.md
+215,coles_hawkins_midas_433,MIDAS Teknik Analiz - Andrew Coles ve David G. Hawkins,433,complete,batch_215/STRATEGIES.md
+215,northington_volatility_based_454,Hacime Dayalı Teknik Analiz [PDF içeriği Volatility-Based Technical Analysis] - Kirk Northington,454,complete,batch_215/STRATEGIES.md
+215,kaufman_short_course_321,Kısa Bir Teknik Analiz Kursu - Perry J. Kaufman,321,complete,batch_215/STRATEGIES.md

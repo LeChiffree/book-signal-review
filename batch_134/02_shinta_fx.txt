@@ -1,0 +1,618 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 24\Baskı 24\Trader Rehberi - Shinta FX (31 sayfa) - @eseckal.pdf
+PAGES: 31
+
+
+=== PDF PAGE 1 ===
+Translated from Spanish to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+Önsöz
+T
+Bu kitaba hoş geldiniz. Takma adım Shinta ve birkaç yıldır piyasaları çeşitli bakış açılarından öğreniyorum. 
+En basit temellerden geliyorum ve her perakende yatırımcı gibi, büyük balıklar için likidite sağlamaktan 
+geliyorum. Başarı şansımı artıracak bir yön ararken uzun süre ICT'nin (Michael J. Huddleston, nam-ı diğer 
+Inner Circle Trader) öğretilerini buldum. Samimi tavsiyem, bu kitabı bitirdikten sonra öğreniminizi doğrudan 
+ICT'nin YouTube kanalına yönlendirmenizdir. Aynı şekilde, Patreon'um "Fiyatın Dili"nde teknik analiz 
+öğreniminizde size destek sağlıyorum. Umarım bu kitapta oluşturulan temeller, kitabın dilini daha kolay 
+anlamanıza ve internette bolca bulunan gereksiz ve harcanabilir bilgilere başvurmanıza gerek kalmadan 
+anlamanıza yardımcı olur.
+Aşağıdaki testi deneyin: Google'da "İşlem" araması yapın; sayısız farklı sonuç, video ve kurs göreceksiniz. Başka bir deyişle,
+dezenformasyon duvarı Dikkatsizleri cezbetmek için tasarlanmış. Siz de onlardan biri olmayın.
+Amacım, doğru, anlaşılır ve faydalı kavramlarla, yatırım dünyasına adım atarken size rehberlik etmektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Ticaretin Tanımı
+Ticaret, varlıkların para karşılığında el değiştirmesini içeren, belirli zaman dilimlerinde sınırlı işlemler 
+kuran, söz konusu varlığın değerindeki değişimden (artış veya azalış) yararlanarak aradaki farkı 
+kazanmayı amaçlayan ticari bir faaliyettir.
+Bunu basit bir örnekle açıklayalım: Bir WTI ham petrol kontratı satın alıyorum. Bu varsayımsal örnek için, satın 
+alma anındaki değerinin 100 dolar (belirli zamanlarda bir varil fiyatına yakın) olduğunu ve fiyat 103 dolara 
+ulaştığında satmayı beklediğimizi varsayalım. Fiyatı bir hafta boyunca takip ediyoruz. Kontratı Cuma günü satın 
+aldığımızda, fiyatın anlık olarak 99 dolara düştüğünü gördük. Sabahın erken saatlerinde fiyat yavaş yavaş 
+yükselmeye başlıyor ve gün içinde 103 dolara ulaşıyor. Altı saat süren bir işlemde 3 dolarlık farktan 
+yararlanarak satıyoruz.
+Kulağa küçük gelebilir... "3 dolar kazanarak ne yapıyorum?" Ama durum böyle değil, sabırlı olun! Gerçek 
+şu ki, fiyat 100 ile 103 dolar arasındaki farkı kapatmak için yüzlerce dolar hareket etti. Aracı kurumların 
+yatırımcılara sunduğu işlemlerde "Kaldıraç" adı verilen bir şey var.(kaldıraç), kendi paramızdan daha fazla 
+sermayeye erişebileceğimiz ve alım satımın ticari açıdan mantıklı olacağı bir prosedür. Diyelim ki, 
+örneğimizde, fiyatın lehimize her yüzde bir doları, kişisel işlem hesabımıza yansıyan 5 dolarlık gerçek kâr 
+anlamına geliyor. Dolayısıyla, işlem 1.500 dolar kazandırdı.
+Şimdi diğer tarafa, riske geçelim. Sözleşme fiyatındaki her yüzde bir dolarlık değişimin,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Petrol, gerçek para cinsinden 5 doları temsil ediyor. 1.500 dolar kazanmak için ne kadar para riske atmaya razıyım? 
+Mantıklı bir ölçüt, kârın 1/3'üdür. Yani bu örnekte, 1.500 dolar kazanmak için maksimum 500 dolar riske atarım.
+O zaman riskim 100 dolar olur. Yani petrol 100'den 99'a düşerse 500 dolar kaybetmiş olurum.
+Kulağa harika geliyor, değil mi? Basit mi? Öyle görünüyor. Ancak öyle değil. En stresli, riskli ve zorlu 
+aktivitelerden biri. Bu yüzden çok çalışmalı, bol bol pratik yapmalı ve dikkatli olmalısınız.gösterirefleks 
+gelişene kadar veparadan kopuş Gerçek şu ki, birçok kez kaybedeceğiz, ancak her kazandığımızda, 
+birkaç kaybı telafi edeceğiz veya çok az kârla çıkacağız.
+Özetlemek gerekirse, üç fiyatımız var: 100$ (giriş fiyatı), 103$ (maksimum kâr) ve 99$ (maksimum zarar). 
+Bu disiplinde kârlı olmak için, maksimum zarara saygı göstermeli ve zamanı geldiğinde işlemlerimi 
+korumalıyım. Yani, başlangıçta bir zararı temsil eden çıkış seviyem, fiyat beklediğim yönde hareket 
+ettiğinde pozitife de dönebilir. Diyelim ki 101$'a ulaştığında, zarar durdurma emrimi 100,50$'a 
+taşıyorum; bu da fiyat aşağı döner ve o seviyeye ulaşırsa, 250$'lık küçük bir kâr anlamına gelir. Fena 
+değil; küçük bir kâr elde ettim, ancak her şeyden önce zarardan kaçındım. Ayrıca, çıkış seviyemizi çok 
+erken taşıdığımız gerçeğini de dengelemeliyiz, çünkü fiyat genellikle genişlemeden önce geri çekilir.
+Şu ana kadar "Düşükten alıp yüksekten satmayı anlıyorum; bu işin en basit kısmı. Peki ya düşen fiyatlar? 
+Değer kaybederse nasıl para kazanacağım?" diye düşünüyor olabilirsiniz.
+İşte burada iki kavramı anlamamız gerekiyor. Petrolü 100 dolardan alıp 103 dolardan sattığımız önceki örnek:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Uzun bir ticaret veya günlük dilde kullanılan İngilizcedeki "uzun" kelimesi. Para,uzun, para da yapılırkısa.
+Kısa İşlemler
+Kısa pozisyon açmak nedir? Önceki örneğin tam tersi. Diyelim ki sevgili varil petrolümüz bu hafta iyi bir 
+performans gösterdi. Uzun pozisyonumuzdan kâr elde ettikten sonra, fiyat Cuma ve Pazartesi günü 
+yükselmeye devam etti ve genel olarak piyasa için olumlu görünen bir dizi haberin ardından 109 dolara kadar 
+yükseldi. Ancak, ek bir bilgimiz var: 109 dolara yükseliş çok hızlı ve muhtemelen yapay oldu. Ayın daha yeni 
+başladığını biliyoruz ve önceki haftalarda fiyatın sürekli düştüğünü gördük. Bu yüzden beklentimiz 109 doların 
+tekrar 100 dolara ulaşması. Örnek tam tersi, değil mi? İşte tam olarak yapacağımız şey bu. 109 dolardan alım 
+yapmayacağız çünkü yükselişinin devam etmesini beklemiyoruz; doğrudan satış yapacağız.dikkatini kaybetme 
+İşte püf noktası. Sahip olmadığım şeyi nasıl satacağım? Bunu yapacağım.borç almakAracı kurum bize bu geçici 
+krediyi teklif ediyor. Petrol sözleşmesini bize 109 dolardan sunuyor ve 100 dolara döndüğünde...biz satın aldık 
+Bu düşük fiyattan. Aracı kurum ödünç aldığı sözleşmeyi geri alır (sözleşme sözleşmedir) ve biz, zeki yatırımcılar, 
+işlemimizin hareketi karşılığında 0,900 dolar sermaye elde ederiz. Dolar cinsinden bu 4.500 dolara denk gelir. 
+Riskimiz önceki işlemdekiyle aynıydı: 500 dolar, yani işlem için maksimum pratik kaybımız 110 dolardı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Örneğimizde, gün için daha düşük fiyatlar bekliyorduk, bu nedenle fiyat giriş seviyemize ulaşır 
+ulaşmaz sattık ve 100$'a ulaşana kadar işlemi tuttuk.
+Anlıyor musun? Piyasaları yönetmenin iki yolu var: Uzun ve Kısa.Uzun ve KısaAynı madalyonun iki yüzü. 
+Öyleyse, pazara yaklaşımımızda üstlenmemiz gereken rolleri anlamak görevimiz. Yaklaşımımız her 
+işletme gibi olmalı: bir strateji, ön araştırma, başlangıç   sermayesi ve bu sermayeyi azar azar büyütmek 
+için risk yönetimi olmalı, böylece istatistikler bizi kâr artışına yönlendirsin diye kayıplardan kaynaklanan 
+hasara mümkün olduğunca az maruz kalmalıyız.
+Örneğin, risk/ödül oranı 1:3 olan ve her birinde 100$ riske attığım 10 işlem yaparsam ve sadece 3'ünü 
+kazanıp 7'sini kaybedersem, 200$ kâr elde ederim (900$ kazanç - 700$ kayıp). Çünkü tüm işlemlerin 
+toplamında kârlar, risk yönetimime saygı duyduğum sürece her zaman zararları telafi eder. Her zaman 
+kaybedeceğiz! Kazançlı işlemlerle telafi etmek ve zamanlamayı (ne zaman girileceği, ne zaman 
+kaçınılacağı) dikkate alarak zarar olasılığını en aza indirmek bizim görevimizdir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Her büyük yatırımcının sırrı şudur: Kusursuz risk yönetimi (işlem büyüklüğü, en yüksek olasılıklı 
+işlemleri seçme).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Varlıklar
+Şimdi, tipik bir başlangıç   sermayesiyle erişebildiğimiz aracı kurumlarda yaygın olarak işlem gören varlıklar hakkında bilgi 
+edinelim. Rakamlar ve ülkeler hakkında konuşarak başlayacağız. Özellikle, ABD ve düzenlemeleri ile dünyanın geri kalanı 
+arasındaki farklardan bahsedeceğiz. Ama önce, varlık türleri (varlık sınıfları)
+1) Eylemler:Hisse senetlerini tanıtarak başlayalım çünkü belki de en aşina olduğumuz şey onlar. Her filmde, 
+gazetede "borsa"dan ve fiyat hareketlerinin belirli bir ülkenin ekonomisinin durumunu nasıl yansıttığından 
+bahsedilir. Otomobil üreticileri, petrol şirketleri, gıda şirketleri ve teknoloji şirketleri; büyük veya orta ölçekli 
+tüm rakipler genellikle hisse senetlerini borsada listeler ve bu hisseleri satın aldığımızda azınlık hissedarı olarak 
+"ortak sahip" olmamızı sağlar. Listelendikleri borsaya bağlı olarak belirli zamanlarda işlem görürler ve bazıları 
+yılda bir veya birkaç kez temettü öder. Bir hisse senedi satın aldığımızda, şirketin bir bölümünü satın almış 
+oluruz. Değeri yükselse de düşse de, bu kısmı bir varlık olarak tutarız. İdeal olarak, bu pozisyonu tasarruf veya 
+yatırım olarak korumak istiyorsak ucuza satın almak isteriz. Bu hisseyi sattığımızda, değer farkını kazanmış 
+veya kaybetmiş oluruz. Ayrıca bazı borsalarda hisse senetlerini açığa satabiliriz; bazılarının ise bu işlem için 
+genel veya menkul kıymete özgü kısıtlamaları vardır.
+2) Borsa endeksleri:Bu, bir yatırımcı olarak benim için çok daha ilginç çünkü tercih ettiğim varlık bu. Bir 
+endeks, ortak özellikleri paylaşan belirli hisse senetlerini bir araya getirir. Örneğin, Nasdaq, New York 
+Borsası'nda listelenen teknolojiyle ilgili hisse senetlerini temsil etmesiyle bilinir. Üç ana endeks vardır: Dow 
+Jones (öncelikle sanayi olmak üzere büyük şirketlerin 30 hisse senedi), S&P 500 (500 büyük şirket) ve Nasdaq 
+(100 teknoloji şirketi). Bu üç endeks, bu kitapta özetlenen prensipleri öğrenmek ve uygulamak için yeterli 
+materyal sağlamalıdır. Bir diğer iyi bilinen endeks ise Russell'dır (2.000 küçük sermayeli şirket). Tüm bu 
+endekslerde, bir araya getirdikleri tüm hisse senetlerinin ortalaması alınır, endeks içindeki her hisse senedine 
+belirli bir değer atanır ve hareketinin Amerikan ekonomisinin o sektörünün gerçekliğini yansıtması amaçlanır.
+3) Para Birimleri:Bu varlık, halk arasında bilinen adıyla:Dövizveya FX (ABD dolarına yabancı para birimleri olduğu için 
+Döviz anlamına gelir). Dünya çapında iyi bilinir ve işlem görür ve başlıca para birimleri şunlardır:Ana dallarve diğerleri 
+olarak bilinenKüçükler, geri kalan her şeye denirEgzotiklerGenellikleAna dallar En öngörülebilir hareketi temsil 
+ederler ve spektrum, aşağıdakilere doğru daha değişken hale gelir:Küçükler, daha yüksek olmakEgzotiklerBu, para ve 
+işlem hacmi açısından borsadan çok daha büyük, devasa bir piyasadır ve hafta boyunca çok az kısa aralarla işlem 
+yapar. Çok sayıda Forex brokeri vardır ve hesap açmak oldukça basittir. Bu piyasada sadece 10$ gibi düşük bir 
+sermayeyle işlem yapmaya başlayabilirsiniz.
+4) Emtialar (hammaddeler):Petrol, soya fasulyesi, kahve ve doğal gaz, emtia örnekleridir. Altın ve 
+gümüş gibi değerli metaller de bu kategoriye girer. Fiyatları, arz ve talep, tarımda hava koşulları, 
+savaşlar ve doğa olayları gibi gerçek dünya faktörlerinden etkilenir. Yatırımcılar olarak, bunun 
+beraberinde getirdiği ani dalgalanmalara hazırlıklı olmalıyız. Ancak aynı zamanda, geniş fiyat 
+değişimleri ve buna bağlı mevsimsellik, gerekli bilgiye sahip olduğumuz sürece bu varlıklarda oldukça 
+kazançlı bir işlem yapma olanağı sağlar.
+5) Borç tahvilleri:Forex'ten sonraki en büyük ve en olgun piyasalardan biridir. Doğrudan ihraç eden 
+ülkenin ekonomisini temsil eder. ABD örneğinde, kamu borcu ve ABD dolarının gücüyle ilişkisini yansıtır. 
+Dolayısıyla, hareketleri genellikle çok yakın olan, birbiriyle oldukça ilişkili piyasalardır. Çeşitli vadelerde 
+(30 yıllık, 10 yıllık, 5 yıllık tahviller, 6 aylık, 3 aylık tahviller vb.) bulunurlar ve hepsi, belirlenen vadede bir 
+ödeme taahhüdünü ve tahvili satın alan borç verene, bu durumda tahvil sahibine iade edilen bir faiz 
+getirisini temsil eder.
+6) Kripto paralar:Bu en genç varlıktır ve Bitcoin'in ilk ve baskın, Ethereum'un var olan ikinci kripto para birimi olması ve ardından 
+sayısız alt birimin yer almasıyla kendi iç dinamiklerini ve alt bölümlerini içerir.altcoinlerHer birinin kendine özgü bir nedeni ve 
+faydası var, bunların sınıflandırılması bu kitabın kapsamını aşıyor, ayrıca benim mütevazı fikrime göre son derece spekülatif bir 
+varlık olmasının yanı sıra, bir piyasa olarak diğer varlık sınıflarının gösterdiği istikrara ulaşmak için çok daha fazla zamana ve 
+ekonomik geçmişe ihtiyaç duyuyor.
+Burada yukarıda bahsedilen tüm varlık sınıflarında işlem yaparken var olan iki ana bölünmeden 
+bahsedeceğim.(çok daha fazla enstrüman var)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+a) Vadeli İşlem Sözleşmeleri
+b) CFD (fark sözleşmeleri)
+ABD'de, yasalara göre, tüm ticaret işlemleri vadeli işlem sözleşmeleri aracılığıyla yapılmalıdır; bu da, 
+yatırımcının kendi adına sahip olduğu sermayeye göre işlem görebilecek sözleşme sayısı, işlem saatleri, günlük 
+seansın ötesinde açık bir pozisyonu sürdürmenin getirdiği maliyetler ve aynı anda uzun ve kısa işlemler yapma 
+olasılığı ile ilgili özel bir düzenleme anlamına gelir; bu da vadeli işlem sözleşmeleri olarak bilinir.korunma
+Uygulamada, bir vadeli işlem sözleşmesinin sabit bir değeri vardır ve fiyatı, işlem gördüğü tüm aracı kurumlar 
+ve brokerlar için ortaktır. Genellikle, ister alım ister satım olsun, her emir için bir komisyon (maliyet) ve 
+piyasanın kapalı olduğu hafta sonu veya bir günden diğerine işlemleri açık tutmak istersek ek maliyetler alırlar.
+CFD'ler dünyanın geri kalanında yasal, normal, düzenlenmiş veya en azından hoşgörüyle karşılanmaktadır. Özellikle Avrupa'da, 
+yatırımcıların herhangi bir varlıkla işlem yapmak için kullandığı en yaygın araçtır.varlık sınıfıÖrneğin, vadeli işlemler için Amerikan 
+yasal çerçevesine uyma zorunluluğu olmadan, Londra, Madrid veya Bogota'dan SP500 endeksi ticareti yapmak için CFD'ler 
+mevcuttur.
+CFD'ler, tamamı veya kesirli olarak kullanılabilen "Lotlar" halinde ifade edilir ve bu, kaldıraçla birlikte, 
+Broker'a ve hesap türüne özgü her lotun değerini bilmeyi gerektirir, bu nedenle vadeli işlem 
+sözleşmelerinde olduğu gibi, belirli bir değeri hakkında kesin terimlerle konuşamayız!
+CFD dünyasına girdiğimizde, hesaba katmamız gereken farklı özellikler vardır ve bunlar kişiye bağlı 
+olarak avantaj veya dezavantaj olarak görülebilir. Komisyonları ve maliyetleri genellikle vadeli 
+işlemlerden farklı hesaplanır ve burada,yaymakCFD brokerlarına hizmet ücretlerinin ödenmesinde en 
+yaygın mekanizmadır.
+Spread'i anlamanın en basit yolu, girdiğimiz işlem lehimize sonuçlanırsa, fiyatın kâr getirmeye başlamasının 
+daha uzun süreceği ve bu zaman ve fiyat farkının aracı kuruma hizmeti karşılığında ödeneceğidir. Yani, 
+potansiyel kârımız örneğin 1.000 dolarsa, 995 dolar kazanabiliriz ve aracı kurum spread sonucunda 5 dolar 
+alabilir (varsayımsal sayılardan bahsediyorum; her aracı kurumun ve hesabın farklı koşulları vardır, bu yüzden 
+herhangi bir işlem açmadan önce ilgili maliyetleri araştırmanızı tavsiye ederim).
+Tamam, farklı varlıklardan ve belirli bir piyasaya yaklaşırken nelere dikkat etmeniz gerektiğini bilmek için 
+çok önemli olan Vadeli İşlem Sözleşmeleri ile Fark Sözleşmeleri arasındaki ayrımdan zaten bahsettik. 
+Şimdi, piyasalardaki paranın işleyişini anlamak için temel olan bir gerçeği öğrenelim. İnsanlar piyasalarda 
+merkezi olarak ticaret yapmaya başladıklarında, örneğin çiftçiler ürünlerini merkezi bir konuma, bir pazar 
+meydanına getirirlerdi. Burada bir aracı (alan sahibi) ürünleri toplar ve mevcut arz, müşteri talebi ve kâr 
+marjına göre günün fiyatını belirlerdi. Dolayısıyla bu fiyat, o zamanlar da bugün de, o biraz değişken 
+yapının hâlâ var olduğu ve orada sadece para için bulunan piyasa sahiplerinin rahatlığına bağlı olduğu bir 
+yerdi.
+Kusursuz ve iştah açıcı sebzeler üreten çiftçinin bilgeliği, ne aradığını ve onu efsanevi bir yemeğe nasıl 
+dönüştüreceğini tam olarak bilen aşçının ustalığı, piyasanın ticari kararlarında yeri olmayan bir şey. 
+Hem üretici hem de tüketici sektörlerinin ihtiyaçlarını değerlendirerek aracılık sürecinden kâr elde etme 
+yeteneğine sahip bir kişi için, bambaşka bir oyun, bambaşka bir seviyede. Para, Likidite.
+Şimdi bilgisayarın icadından ve dijital teknolojinin doğuşundan sonraki 20. yüzyıla geçelim.borsalar Ünlü 
+endeksin temsil ettiği Nasdaq gibi elektronik piyasalar. Dünya çapında milyonlarca işlemi, kontrolü 
+altındaki varlıklarla koordine edecek bir sistemin olması gerekiyor. En zeki piyasa yatırımcısının bile böyle 
+bir görevi verimli bir şekilde yerine getirebileceğini sanmıyorum. Piyasa çok büyük. Bu yüzden 
+günümüzde emirleri düzenlemek ve yönlendirmek bilgisayarlar sorumluluğunda.
+Bilgisayarlar her şeyi kontrol ediyor, değil mi? Arz ve talep teorileri, 1600'lerde Avrupa'da veya Amerikan 
+ekonomisinin ilk dönemlerinde sahip oldukları etkiye sahip olmayabilir. Artık değil. Artık ticaret elektronik, 
+çok kısa tepki süreleri ve yalnızca bir bakış açısıyla açıklanabilen davranışlarla gerçekleşiyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+hesaplamalı. Bu birAlgoritma, fiyatı bir taraftan diğerine sürükleyen, yeterli ilginin beklendiği alanlardan 
+(örneğin düşük alım) mümkün olduğunca fazla likidite toplayarak (örneğin yüksek satış) karşıt ilginin 
+uyandığı seviyelere (örneğin yüksek satış) getiren bir dizi talimat ve tepkidir. Bu şekilde, hem üretici hem 
+de tüketici piyasaya yaklaşır ve iyi bir işlem yaptıklarını düşünerek mutlu bir şekilde ayrılırlar. Ancak her 
+şeyden önce, piyasanın sahibi, yani bilgisayarı tasarlayan kişi, günü daha da mutlu bir şekilde bitiren 
+kişidir :)
+Bizim için bunda bir sorun yok. Aslında, alım satıma yaklaşımımız, algoritmanın ayak izini tanımak ve dolayısıyla kendimizi bu 
+ayak izinin içine yerleştirmek, ipuçlarını taklit edip bunlardan yararlanarak en iyi hamleleri yakalamak ve bu süreçte daha 
+fazla kazanmaktır.
+Grafikler (fiyat-zaman) Mumlar
+Şimdi, alım satıma nasıl katıldığımızı anlayalım. Öğrenme sürecimizde, doğrudan çevrimiçi olarak 
+erişilebilen Tradingview adlı güçlü bir araç kullanacağız. Keşfetmeye ve öğrenmeye başlamak için yeterli 
+olacak ücretsiz bir üyelik sunuyor. Ayrıca, disiplininizin ve reflekslerinizin gelişimini engelleyebilecek 
+erken kayıplara maruz kalmadan öğrenmenin mükemmel bir yolu olan kağıt alım satım seçeneği de 
+sunuyor. Tıpkı gerçek bir alım satım hesabı gibi çalışan, ancak sanal parayla çalışan ücretsiz bir demo.
+Bilgisayarımızda Tradingview'i açacağız.https://www.tradingview.com/chart/ Ve varlığı grafiksel olarak 
+nasıl temsil edeceğimizi öğrenmek için seçeceğiz. Ardından, arama kutusuna (sol üst köşede) grafiği 
+görüntülemek için şunu gireceğiz: US100. İlk çıkan sonuca tıklayacağız. US100 bir Nasdaq CFD'sidir. 
+Benim durumumda, capital.com tarafından ihraç edilen CFD'ye bakıyorum ve endeksin fiyat hareketini 
+kabaca temsil ediyor. E-mini sözleşmesinin sembolü NQ (e-mini, biz küçük Nasdaq yatırımcılarının 
+kullandığı isimdir).
+Ne görüyoruz? Güzel soru. İlk olarak varlık adının altında iki fiyat etiketi olacak ve bunun altında 
+"gösterge" olarak bilinen ek bir özellik olabilir. İmleci üzerine getirdiğinizde, o göstergeyi kaldırmak için 
+bir "X" işareti göreceksiniz. Kaldıralım. Gerekli değil.
+Grafikte göstergeler yoksa, bu harika; ihtiyacımız olan her şey mevcut. Ardından, grafiğin sağ alt 
+köşesindeki saati bulup New York Saati'ni seçeceğiz. Bu şekilde, algoritmanın kullandığı zamanla 
+senkronize olacağız. Fiyat hareket edeceği için bu çok önemli.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Zamanı ana değişken olarak ele aldığımızda, New York seansında piyasanın öğle ortasındaki 
+zirvesindeki hareket, işlemlerin yeniden başladığı saat 19:00'daki hareketle aynı değil.
+Ardından, dikkatimizi grafiğe geri döndüreceğiz. Ortada renkli çubuklar ve iki ölçek var: bir X ekseni ve bir Y 
+ekseni. X ekseni Zamanı temsil eder; ilk analiz edilmesi gereken en önemli şeydir. Y ekseni Fiyatı temsil eder; 
+her zaman Zamanın bir sonucudur. Bu nedenle, çalışmamızda bu öncelik sırasını izleyeceğiz. Grafikte bir 
+boşluğa tıklayıp sürükleyerek sağdan sola nasıl hareket ettireceğimizi göreceğiz. Ölçeklerde ayrıca tıklayarak 
+genişletme veya daraltma yapabilir, grafiği görmek veya incelemek istediğimiz şeye göre ayarlayabiliriz. Fiyat 
+eksenini hareket ettirdiğimizde, bir ayrıntıyı yakınlaştırmak için grafiği her yöne kaydırabiliriz. Alt ortada ayrıca, 
+grafiği otomatik olarak yeniden ortalamak için kullanabileceğimiz düğmeler de belirir.
+İdeal olanı: temiz ve ortalanmış bir grafik. Fiyat analizi için faydalı olacak unsurlara, sağdaki varlık 
+listesine bakın ve zaman içinde nasıl davrandıklarını görmek için farklı piyasaları deneyin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Ayrıca, işaretçinin merkezini yakınlaştırmak için CTRL tuşuna basarak fare tekerleğini kullanmayı deneyin. Bu 
+ilk denemelerde aracı tanıyacak, grafikler arasında gezinecek ve farklı tarihleri   görüntüleyeceğiz. Sol alt 
+köşedeki kontrolleri deneyin; burada belirli bir tarih ve saate gidebilir veya önceden belirlenmiş bir zaman 
+aralığını görüntüleyebilirsiniz:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Japon Şamdanlarının Anatomisi
+Renk tablosunda gördüğümüz şeylere "mum çubukları" denir. Bunlar tarihi Japon kökenlidir ve belirli bir dönemdeki fiyat 
+hareketini temsil eder. Örneğin, günlük bir mum çubuğu, açılış anından itibaren fiyatı, ne kadar yükseldiğini veya düştüğünü, gün 
+içinde hangi yönde hareket ettiğini ve nerede kapandığını gösterir.
+Dolayısıyla herhangi bir mumda O (açık) adı verilen 4 seviye 
+yansıtılır.
+L (düşük, minimum)
+H (yüksek, maksimum)
+C (kapalı)
+Mumlar iki türe ayrılır: yükseliş ve düşüş. Dört fiyatın sıralaması şu şekildedir:
+OLHC, yükseliş mumu için emir olacaktır. 
+OHLC, düşüş mumu için emir olacaktır.
+Yeşil rengi yükseliş mumlarıyla, kırmızı rengi ise düşüş mumlarıyla ilişkilendirmek gelenekseldir. Siyah ve 
+beyaz da sırasıyla kullanılır. Minimalizm felsefemizde, incelenen tüm olguları vurgulamak için renksiz, 
+çok basit bir grafik kullanmak hoş karşılanır.renklerde …
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Omumların gövdesien büyük müzakere hacmini temsil ederken,önemli noktalarBunlar, fiyatın yalnızca sınırlı bir 
+süre için orada olduğu ve bu nedenle aldatıcı bir hareket, yani bir hile olabileceği dip ve zirveleri temsil eder. Peki ya 
+ne dersiniz? Bir hile varsa ve biz de biliyorsak, katılabiliriz, değil mi? Tamam. Bakmaya devam edelim. Şimdi, en üstte, 
+sembolün yanında, "zaman dilimini" seçebileceğimiz bir yer var, yani,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Grafiği oluşturan mumların süresi.
+1 saatlik mumu seçeceğiz. Grafik değişiyor, değil mi? 1 günlük bir mumun içinde birçok 1 saatlik mum 
+bulabileceğimizi görüyoruz. Hadi deneyelim. Saat 18:00'de üç gün boyunca dikey bir çizgi oluşturacaksınız, 
+ardından dikdörtgen çizim aracını bulup tüm mumları bu üç çizginin içine yerleştireceksiniz. Ardından günlük 
+grafiğe geri dönüp bu dikdörtgenin nasıl göründüğüne ve neyi temsil ettiğine bakacaksınız.
+Günlük mum, US100 için her gün saat 18:00'de gerçekleşen açılıştan başlar ve ertesi gün saat 17:00'de kapanana 
+kadar gün içinde gözlemlenen tüm fiyat hareketini kapsar. Örneğin, Salı günü saat 18:00'de Çarşamba günü günlük 
+mum başlar ve Çarşamba günü saat 17:00'de kapanır. Ardından bir saatlik bir ara verilir ve Çarşamba günü saat 
+18:00'de Perşembe günü mum başlar, vb. vb.
+Çalışmalarım ve günlük işlemlerim için kullandığım grafikler kabaca şunlardır: Haftalık, Günlük, 4s, 1s, 15dk ve 5dk. 
+Daha geniş zaman dilimlerine geçtikçe şunlardan bahsedeceğim:Daha Yüksek Zaman ÇerçevesiEvet ve daha kısa 
+süreli grafiklere doğru ters yönde gittiğimde, bahsedeceğimDaha Düşük Zaman Çerçeveleri. (HTF ve LTF).
+İnsan benzetmesi düşündüğümüzde, kime daha çok güveniriz, yaşlı birine mi yoksa 5 yaşında bir çocuğa mı? 
+Kesinlikle... HTF genellikle bize daha güvenilir bilgi verirken, LTF daha çok fanteziye ve oyunlara tabidir... 1 
+saatlik grafiğin uzaklaşıp uzaklaşmasına ve 1 günlük grafiğe bakın. Hangisi hareketinde daha istikrarlı, hangisi 
+daha kaotik görünüyor?
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+İşlem Aralıkları
+Şimdi fiyat hareketinde önemli bir terimi öğrenelim. İşlem aralığı (işlem aralığı) Fiyat, mum grafiklerinde temsil edilen 
+farklı şekillerde hareket eder, ancak her hareket başlangıcı ve sonuyla açıkça görülebilir. Minimum ve maksimumları 
+işaretleyen fitillerle sınırlandırılmış 4 saatlik grafikte bir hareket bulalım. Ardından, Shift tuşunu basılı tutarak, 
+tamamen yatay olacak şekilde, gözle görülür şekilde bu dikdörtgenin ortasına bir çizgi çizeceğiz. Bunu birkaç sürekli 
+hareketle yapacağız; kısa süre sonra fiyatta bir modelin belirdiğini gözlemlemeye başlayacağız. Neredeyse büyülü. 
+Fiyat, er ya da geç, aralığın yarısını yerleştirdiğimiz seviyeyi keşfediyor gibi görünüyor, değil mi? Harika, çünkü tüm bu 
+görünürdeki kaosun içinde, yavaş yavaş bir düzen, bize kâr fırsatları sunabilecek öngörülebilir bir şey gözlemlemeye 
+başlıyoruz. Aralığın, fiyatın davranışıyla uyumlu, 0'dan 100'e kadar bir hareket olarak ifade edildiğini görüyoruz. 
+Yükseliyorsa, 0 en düşük fiyat, 100 ise 4 saatlik mumlardaki hareketin maksimum değeri olacak ve 0 ile 100 arasında 
+kim var? Basit: 50. 50, aralığın ortasını, ucuz (0) ve pahalı (100) fiyatları temsil eden nokta arasındaki denge noktasını 
+temsil eder; bu noktaya "Denge" (EQ) adını vereceğiz. 0'dan dengeye kadar olan tüm alan "İndirim" ve 50'den 100'e 
+kadar olan tüm alan "Premium" olarak adlandırılacak. Yani artık iki alanımız ve üç fiyatımız var; görevimiz İndirimden 
+Alıp Premiumdan Satmak. Fiyat genellikle Premium'a yükselir, EQ'ya geri döner ve algoritma bir alım 
+programındayken daha yüksek zirvelere ulaşmaya devam eder. Tersi durumda ise, fiyat Premium'dan İndirime geçer, 
+EQ'ya geri döner ve ardından daha düşük dip noktaları arayarak bir satış programını doğrular.
+Bu işlem aralığı kavramı, limitleri belirlememize yardımcı olur. Örneğin, yalnızca EQ seviyesinde alım 
+yapabilir ve Prim'in üst sınırını belirleyen önceki zirve seviyesinde kâr alabiliriz. Teorik modelimiz, 17:00 
+ile 20:00 arasında bir aralık belirlersek ve 20:00 ile 22:00 arasında EQ'ya veya altına, yani İskonto'ya geri 
+çekilme görürsek, girişi değerlendirir. Ardından, ana değişken olan zamana göre işlem planları yapar, 
+fiyatın bu değişken dahilinde hareket etmesini, beklenen limitleri oluşturup aşmasını izleriz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Şimdi şunu tanıyalım:fiyat teslim aşamalarıkonuyla ilgili daha ileri çalışmalara hazırlık olarak
+KONSOLİDASYON:Fiyat teslimatının ilk ve en önemli aşaması budur. Bunu, fiyatın iki sınırlı seviye 
+arasında, çok fazla ilerlemeden, az çok kontrollü bir şekilde hareket etmesi olarak düşünelim. Özellikle 
+mum gövdeleri limitlerin üstünde veya altında kapanır. Fitiller ara sıra biraz daha uzayabilir, ancak 
+sonunda belirlenen aralığa geri döner. Birçok ilginç hareket bu seviyeden kaynaklandığı ve EQ'nun 
+konsolidasyon aralığından geçici olarak uzaklaşan herhangi bir hareket için doğal hedef olduğu için 
+konsolidasyon EQ'sunu yakından takip edeceğiz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Konsolidasyon genellikle likidite birikimi aşamasıdır; buradaakıllı paraBüyük bir hamle öncesinde 
+siparişleri toplar. BT kavramlarında, AMD harfleriyle gösterilen üç bileşen vardır (birikim, manipülasyon 
+ve dağıtım).
+GENLEŞME:Konsolidasyon aşamasından sonra, genellikle aralığın dışına doğru güçlü bir hareket gelir. 
+Bazen bu, fiyatı başka bir bölgeye taşıyarak yeni bir konsolidasyon yaratan kesin bir harekettir; bazen 
+de yanlış bir harekettir, örneğin günlük mumun fitilini hatırlayın. Bu durumda, manipülasyon görürüz 
+ve ardından fiyat yön değiştirerek nihai yönüne geri döner.
+Genişleme aynı zamanda dağıtım olarak da bilinir ve bu, ilk iki aşamada biriken tüm siparişlerin daha 
+sonra genişlemede teslim edildiği anlamına gelir.kar elde etmekÇeşitli seviyelerde. Bunu öğrenmek 
+önemli. Hareketi gördüğümüzde siparişleri her zaman kısmen kapatmalıyız. İstediğiniz zaman geri 
+çekilebilirsiniz ve kısmi sipariş almazsak hiçbir şeyimiz kalmaz!
+GERİ TEPME:Genişleme genişleyecekse, genellikle genişlemenin ortasına doğru bir geri çekilme görürüz 
+(dikdörtgenle çizdiğimiz aralıklarda EQ'ya dönüşü hatırlayın), ardından satın alma programını tekrar 
+görürüz, hedeflere ulaşana kadar genişlemeyi beklenen yönde etkinleştirir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Geri çekilmenin sabit bir seviyesi yoktur; çizilen aralığın dengesine ulaşabilir veya çok daha derine inebilir. Bazen daha önce 
+çıktığı seviyeyi de geçebilir. İşlemlerde mutlak değerler yoktur, sadece olasılıklar vardır! İşte bu yüzden, yine, kısmi 
+pozisyonlar almak ve nihai bir kayıptan kaçınmak için pozisyonun geri kalanını korumak çok önemlidir.
+YATIRIM:AMD manipülasyon aşamasında açıkladığım gibi, geri dönüş, yatırımcı için çok hassas ve 
+önemli bir andır. Analizimiz bize yükseliş yönünde bir fikir veriyorsa, manipülasyon her zaman bir geri 
+dönüşü takip eder ve ardından fiyat daha yüksek fiyatlara doğru gerçek genişlemesini gerçekleştirir. 
+Buna dayanarak, geri dönüşten türetilen bir model, "önceki aralığın EQ'su aşıldığında manipülasyon 
+sonrası fırsatları yakalamayı" içerebilir. Ancak normal günlerde bile, bir yükseliş seansı, bir hedef ve 
+ardından bir düşüş seansı görebiliriz. Günlük hareketlerin olası hedeflerini analizimize dahil etmeliyiz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+11 yaşındaki bir öğrencinin analiz ettiği AMD örneği :)
+Bu bölümü sonlandırırken, Asya ve Londra'da yaşananlara bağlı olarak New York için beklenebilecek fiyat hareketinin 
+oldukça öngörülebilir olduğunu belirtmeliyim. Fiyat aşamaları doğrusaldır. Her zaman konsolidasyon ve ardından 
+genişlemeyle başlarlar. Asya konsolide olursa, Londra'nın beklenen yönde manipüle etmesini veya genişlemesini, ardından 
+New York'un günlük hareketin çoğunu genişletmesini bekleyebiliriz. Bu nedenle, NY açılışından önce hazırlanacak 4 saatlik, 1 
+saatlik ve 15 dakikalık grafikleri incelemeliyiz.Günlük YatırımcılarAyrıca şunu da görmeliyiz:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Hafta sonu HTF grafikleri, piyasanın hedefler ve olası hareketlerle geri dönmesine hazırlıklı olunması 
+için.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+ZAMAN
+Şimdi, piyasa dinamiklerinin baskın unsuru olan zamandan bir kez daha bahsedelim. Haftalık mumla 
+temsil edilen bir haftanın neler getireceğini öğrenelim. Bunun için, US100 CFD örneğini kullanacağız.
+HAFTALIK MUM'da 5 
+GÜNLÜK MUM vardır
+Haftanın 5 iş gününü temsil ederler ancak elektronik ticaret takvimi nedeniyle pazar günleri de bazı saatleri 
+içerirler.
+GÜNLÜK MUM'da 6 
+adet 4H MUM vardır
+Çok basit, 6x4 24 saat :) Ama bir püf noktası var; günün ilk mumu 18:00'da başlıyor.önceki gün Çünkü piyasa 17:00 
+ile 18:00 arasında kapanıyor. Ve son 4 saatlik mum (14:00'teki mum) tam 17:00'de sona eriyor, yaniSadece 3 saat 
+sürüyor , ancak daha düşük işlem hacmini temsil etmesine rağmen daha az zamanı olduğu için yine de 4 saatlik bir 
+mum olarak sayılır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+4H MUM Son mumun özelliğini bildiğimizde, diğerlerinin hepsinin tam 4 saati vardır. 4H mumları günlük 
+hareketi analiz etmek için olmazsa olmazdır.
+1H MUM Buradan itibaren tüm mumların nominal zamanı vardır ve giderek artan LTF'dir
+YELKEN 15m, 5m, 1m, vb.
+Şimdi bu 4 saatlik mumları işlem seanslarında bulalım. Gün açıldıktan sonraki ilk seans Asya seansıdır. 
+Sınıflandırmamız için saat 20:00'de başlar ve gece yarısı sona erer, çünkü gece yarısı algoritma yeniden 
+başlar ve program için yeni günü ayarlar ve bu fiyat günün geri kalanı, hatta bazen hafta için referans 
+olacaktır. Bunu her zaman aklımızda tutalım. İlk mum (18:00) ve ikinci mumun ilk yarısı (22:00) Asya 
+fiyatını içerir.
+İkinci seans, sabah 2:00'de başlayan Londra'dır; bu nedenle bu mum genellikle, seanslar arasında koordineli bir 
+hareket gördüğümüzde, bir sonraki günün temposunu belirleyecek hareketlerin başlangıcını içerir. Ardından, ilk üç 
+saati genellikle Londra'da bir hareket başladığında geri çekilmeye ev sahipliği yapan sabah 6:00 mumu gelir; bu 
+nedenle, genişlemeye devam edeceksek, geri çekilmenin sona erdiğini gördüğümüzde harekete geçme olasılığı 
+daha yüksektir.
+Üçüncü seans, sabah ve akşam olmak üzere iki alt gruba ayrılan New York seansıdır. Günün işlemlerinin büyük 
+kısmını temsil eder. Sabah 6:00 mumuyla başlar, ancak sabah 8:30'da açılır; bu da o saatten önce fiyatın çok fazla 
+kararlılık göstermeden küçük aralıklar oluşturabileceği anlamına gelir. Sabah 9:30'da borsa işlemleri açılır, bu nedenle 
+o saatte önemli bir likidite enjeksiyonu görürüz. Bir sonraki 4 saatlik mum, genellikle sabahın genişlemesini 
+yaratmada bir önceki mumun sonuyla sorumluluğu paylaşan sabah 10:00 mumudur. Saat 11:00 ve 11:30'da Londra 
+seansı kapanır ve o zamana kadar New York ile hacmi paylaşır. Bu nedenle, o saatte geleneksel olarak bu oynaklıktan 
+yararlanarak fiyat geri çekilmeleri veya dönüşleri görebiliriz. Bu mum, yön değiştirmiş olsun veya sabahın başından 
+beri trendi sürdürsün, saat 14:00'e kadar aktiftir. New York seansında 12:00'nin genellikle konsolidasyon gözlemlenen 
+bir zaman olduğunu belirtmek önemlidir. Öğle vakti olduğu için işlem hacimleri düşer, bu nedenle algoritma 
+genellikle NY PM'yi beklerken fiyatı belirli bir aralıkta tutmaya özen gösterir.
+New York seansının ikinci kısmı, resmi olarak 13:00'te başlayan öğleden sonra seansıdır; ancak aslında bunu, ardından gelen 
+genişlemesiyle birlikte 14:00 mumunda bulabiliriz. Daha önce de belirttiğimiz gibi, sadece üç saat sürer. Bu nedenle, 
+genellikle öğleden sonra seansında daha fazla yer kaplayan seansın daha hızlı olduğunu görürüz; fiyat, eğer hala 
+beklemedeyse ve günün önemli olayları zaten gerçekleşmişse, hedeflere daha hızlı yaklaşır. Genellikle genişlemenin 15:00 
+veya 15:30'a kadar, en fazla 16:00'a kadar gerçekleştiğini ve kapanışa kadar hacimde bir düşüş yaşandığını, 14:00 mumunun 
+tepesinde küçük bir fitil oluştuğunu görürüz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Günün hikayesi ve dört önemli anı şöyleydi: Asya, Londra, NY-AM, NY-PM. Bunların etkileşim biçimleri günün profilini 
+şekillendirecek. Hepsi aynı yönde hareket ediyor olabilir veya Londra fiyatı tek bir yöne yönlendirirken, NY Asya'nın 
+altındaki diplere geri döndürebilir. Bilgi ve iletişim teknolojileri günlük profillerinde her şeyi çok iyi karakterize ediyor. 
+Sizi bu konuyu daha derinlemesine incelemeye davet ediyorum, ancak öncelikle öğrenmenin en iyi yolu 5M grafiğini 
+alıp aşağıdaki zamanlarda dikey çizgiler çizmektir:
+18:00
+20:00
+00:00
+02:00
+08:00
+11:00
+12:00
+14:00
+Öyleyse, fiyatın bu zaman aralıklarında neler yaptığını gözlemleyelim. İlginç noktalar: 00:00, 4:00, 8:30, 9:30, 11:00 ve 
+14:00. Hareketleri ve anlatıyı anlamak için mantığı inceleyin.
+Ben sizin yerinize ödevi yapmayacağım ama elde edilen bilginin bir örneğini göstereceğim.
+Fiyatın aniden yön değiştirerek tepki verdiği ilgi noktalarını gördüğünüzde, bu en yüksek ve en düşük 
+seviyelere dokunan yatay çizgiler çizeceksiniz. Mıknatısı hassas bir şekilde kullanın. Her satıra metin etiketleri 
+yazabilirsiniz, örneğin ("NY Salı günü açık", "Londra Perşembe günü düşük" vb.)
+Artık fiyatlar (doğru zaman diliminde) işaretlendiğine göre, zaman dilimini 4 saatlik, günlük ve haftalık olarak 
+güncelleyeceğiz ve fiyatın nerede sıçradığını ve nerede yön değiştirdiğini gözlemleyeceksiniz. Her zaman diliminde 
+notlarınızla birlikte ekran görüntüsü almayı unutmayın. Ardından, tüm bu görselleri ve verileri "Çalışma 
+Günlüğünüz"de derleyeceksiniz. Bu kitap, en iyi öğrenme aracınız olacak; çalışma ve bilgi birikiminizin ilk temeli 
+olan bu kitaptan başlayarak, en karmaşık BT kavramlarını analiz edene kadar bir pazar öğrencisi olarak 
+yolculuğunuzu yakalayacak. Kendi gelişiminiz için olmazsa olmaz olan bu çalışma materyalini oluşturmadan 
+ilerlemeyin.
+Tekrar söylüyorum, piyasaları daha önce gerçekleşmiş fiyat hareketlerine göre incelemelisiniz, buna denir"
+geriye dönük test"ve bu, farklı günlerdeki grafikleri incelemek, fiyat aşamalarını, dipleri ve
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Önemli zirveler, konsolidasyonlar, bir şeylerin yaşandığı zamanlar. Tüm bunlar ekran görüntüleriyle belgelenecek ve 
+referansınız için kategorilendirilecek. Bu materyalde düzen, başarının anahtarıdır! Düzenlemek için farklı araçlar 
+kullanabilirsiniz; Notion birçok kişinin kullandığı araçlardan biri. Ben Discord kullanıyorum ve her şey belirli kanallara 
+kategorilendirilmiş durumda.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+RİSK/FAYDA
+Kitabın ilk bölümünden itibaren bu ilişkiden bahsettik; bu, bir yatırımcı olarak kârlı mı yoksa dipsiz bir para çukurunda mı 
+olacağınızı belirleyen şeydir. Kulağa sert geliyor ama her şeyin olduğu gibi anlatılması gerekiyor.
+Riskinizi birimlerle belirtelim; bu birimler sermayenizin bir yüzdesini temsil eder. Bu yüzdeyi %2 olarak 
+belirleyelim; bu, küçük sermayeli yeni başlayan biri için makul bir miktardır.
+Ticaret disiplininde yaygın olan aşağıdaki terimleri kullanacağız:
+Giriş: Nerede satın aldığımız veya sattığımız (işlemin sayılmaya başladığı fiyat)
+Kar Al: Fiyatın ulaşmasını beklediğimiz, karı üreten hedef
+Zarar Durdurma: Zarar durdurma çıkış emri, her zaman belirlememiz gereken bir güvenlik önlemidir. Bu emir, 
+sermayemize, işlem başına kabul ettiğimiz riske ve fiyatın uymasını beklediğimiz referans noktasına göre hesaplanır. 
+Örneğin, alım yapıyorsak ve son salınım dip noktasının, düşüş trendinde bir dönüş görmediğimiz sürece 
+kırılmayacağına inanıyorsak ve bu nedenle fikrimiz geçersiz sayılacaksa, zarar durdurma emrimizi, fiyat geri 
+çekilmesinin yalnızca yapının kırılması ve trendde bir değişiklik anlamına geleceğine inandığımız salınım dip 
+noktasına göre yerleştiririz.
+Kısmi: Bunlar, işlem lehimize ilerledikçe atacağımız kâr alma adımlarıdır; bu adımlar, zarar durdurma 
+seviyesine doğru bir geri çekilmeyi önler ve risk maruziyetimizi azaltır. Örneğin, üç Dow Jones sözleşmesi 
+alırsam, önce bir sözleşmeyi en yakın hedefte, diğerini ikinci hedefte kapatır ve ardından muhtemelen bir 
+sözleşmeyi ek seviyelere doğru hareket ettirerek analizime uygun olarak daha büyük bir kâr elde ederim. 
+Benzer şekilde, bu seviyelere ulaşılmadığını ve bir trend dönüşü belirtisi olduğunu fark edersem, 
+pozisyonu kısmen kapattığım son hedeflere düşmeden önce kapatabilirim.
+Başa baş: İşlemimiz, anında likidite seviyelerini (anlık aralığı tanımlayan bir dalgalanma en yüksek veya en düşük 
+seviye) aştığında, stop loss seviyesini giriş fiyatından, alımsa biraz daha yukarı, satışsa biraz daha aşağı çekmeniz 
+önerilir. Bu şekilde, ani bir geri çekilme durumunda, kalan pozisyonumuz küçük bir kârla kapanacak ve stop 
+loss'tan kaçınılacaktır. İşlem komisyonlarını karşılamak için her zaman denge sınırını (denge sınırının birkaç puan 
+ötesinde) göz önünde bulundurun.
+Diyelim ki sermayeniz 500 dolar.
+Her risk/ödül birimi 500$'ın %2'si veya 10$ olacaktır.
+Eğer 1:3 R/B oranıyla operasyon kurarsak, her şey yolunda giderse 30 dolar kazanacağız demektir.
+Ya da her şey ters giderse 10 dolar kaybedeceğiz! :)
+Şimdiye kadar her şey yolunda, değil mi? Peki, şimdi başlangıç   pozisyonunu kapatacağımızı düşünelim.kısmen
+parkurun ortası ile 1:3 sonu arasında, çok daha uzaktaki bir hedef için küçük bir bölüm bırakılmıştır.
+Yani ilk kar alma işlemi küçük bir miktar olacak, diyelim ki 5 dolar ve 1:3'ün yaklaşık olarak orta noktasında 
+olacak. İkinci kar alma işlemi tam olarak 1:3'te olacak ve 10 dolar olacak (zaten 15 dolar kar elde ettik) ve
+zararı durdur((Çıkış emri) giriş fiyatının biraz üzerinde ve biraz daha fazlasını kapsayacak şekilde
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Komisyonlar. Orijinal pozisyonun üçte biri kadar kârla kalıyoruz.
+Diyelim ki küçük pozisyonumuz 1:6'ya yükseldi ve orada günlük hareketin sonunu işaret edebilecek 
+ilginç bir nokta tespit ettik. Bu kısım 20 doları temsil ediyor ve önceki 15 dolara eklendiğinde toplam 35 
+dolar ediyor. Kısmi pozisyonlar almak, risk altındaki sermayeyi azaltır ve kârı garanti altına alır. Bu da 
+iflas riskini önemli ölçüde azaltır!
+vs. 30$'a karşı her şeyi son hedefte kapattık, ancak zamanla her zaman hesabın %2'sini riske atıyorduk, çünkü 
+hiçbir zaman kar almadık...
+Nasdaq Mikro Sözleşmeleri ile ikinci bir örnek
+6 sözleşmelik bir pozisyon 10 
+puanlık Stop Loss: 120$
+Birinci Kısmi, 15 puanda 2 sözleşme: 60$ kar ve toplam SL hemen 60$'a düşer
+İkinci Kısmi, 30 puanda 2 sözleşme: 120 $ alıyoruzzararı durdur5 puan pozitif, bundan sonra risksiz!
+Üçüncü Kısmi, 2 sözleşmenin 60 puana kadar çalışmasına izin verilir: 240$
+Toplam Kâr: İlk 30 puanlık hedeften itibaren risksiz 420 dolar, 360 dolara kıyaslaher zaman tam riskle.
+Bu, olasılıkları alt etmekle ilgili! Çok kaybedeceğiz, galibiyetlerden çok kayıpların olduğu haftalar olacak. Bunu kimse kontrol 
+edemez; hiçbir şey kesin değil, ne zaman güvenli bir şekilde girebileceğimizi de tam olarak bilemeyiz. Ama aynı zamanda, 
+bunun bizi başarısızlığa sürüklemesine izin veremeyiz; biz bundan daha akıllıyız.
+Bu nedenle, kayıp olasılığını azaltarak başarı şansımızı artırmalıyız. İşte bu kadar basit. Daha az para 
+kaybedersem, daha az kez, her kazandığımda bu oyunda hayatta kalmamı garantileyeceğim. 1:2 kolay ve 
+hızlıdır. 1:6 ise bir gün sürebilir, ancak elde edilmesi nadir değildir. geriye dönük testVe bunu sık sık, özellikle 
+Salı, Çarşamba veya Perşembe günleri göreceksiniz. AMD'yi düşünün: Pazartesi ve Salı günleri genellikle 
+birikim ve manipülasyona yoğunlaşır ve o andan itibaren genişleme görebiliriz. Dikkatli olursak, bir haftalık 
+genişlemeden faydalanabiliriz - ki bu da bir hafta boyunca 1:20'lik bir artış demektir. Bu, istatistikleri altüst 
+ediyor! Daha az işlem yapın, daha fazla kâr elde edin.
+DEMİR KURALLAR
+Yani kazanmak, hayatta kalmak ve para kazanmak mı istiyorsunuz? Bu beklentileri karşılamanın tek bir yolu var. O da kurallarınıza harfiyen 
+uymak. Kimse size hangilerini uygulamanız gerektiğini söyleyemez.olmalıdırkurallarınızı siz belirliyorsunuz. Piyasaların bir öğrencisi olarak 
+kuralları siz belirliyorsunuz.geriye dönük testve size en çok hitap eden ve kendinizi özdeşleştirdiğiniz hareketi belirleyerek, karlı olacağınız 
+kurallar setini kimin üreteceğini belirleyin.
+Diyelim ki geriye dönük testlerden şu sonuçları çıkardınız:
+Salı günleri, Pazartesi günkü günlük en düşük seviyeye sabah 8'de ulaşıldığında ve sabah 6 mumundan önceki tüm 4 
+saatlik mumlar küçük olduğunda, sabah 9'dan öğleden sonra 3'e kadar iyi bir genişleme bekleyebileceğimi fark 
+ediyorum. Özellikle Pazartesi mumlarının yaklaşık dört katı büyüklüğünde bir mesafede ulaşılabilecek zirveler varsa.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Yani kurallar aşağı yukarı şöyle bir şey içerecek:
+1) Sadece Salı günleri, New York'ta çalışır
+2) Yalnızca Pazartesi günü maksimum 40 puanlık bir aralığa sahip mumlar varsa işlem yapın
+3) Pazartesi düşük seviyesini alarak girin
+4) %30, %50'de kar al
+5) Pozitif stop loss belirleyin ve son pozisyonun hafta boyunca işlemesini sağlayın.
+6) Her gün öğlen ve kapanışta gözden geçirin, hedefe ulaşıldıktan sonra fiyatta geri dönüş tespit edilirse kapatın
+Yani, önceki kurallara göre, işlem yapmak için yalnızca bir günümüz var. Örneğin, Cuma günü yeni işlem 
+açmayı düşünmemize gerek kalmayacak. Pazartesi günü 100 puanlık bir artış olursa, o hafta boş olduğumuzu 
+zaten biliyoruz. Salı günü bir işlem açarsak ve aynı gün piyasa bir haber nedeniyle çok hareketliyse ve haftalık 
+hedefe bir günde ulaşırsak, haftanın geri kalanında canlı piyasayı incelemek ve geriye dönük test yapmak için 
+boş kalırız.
+Kurallara saygı duymak, çalışmamış, bir model belirlememiş veya bir dizi kural oluşturmamış birine karşı bize 
+avantaj sağlar. Bu kişi, pazara koyunların mezbahaya girmesi gibi girer. Fiyata tepki verir, hiçbir analiz veya 
+öngörüsü yoktur ve büyük olasılıkla riski ve onu kendi avantajlarına nasıl yöneteceklerini anlamazlar.
+Dolayısıyla, ne yapacağımızı en iyi bilen bizler, kurallara uyarak, riske saygı göstererek ve hem kârı hem de zararı 
+kabullenerek hedeflerimize ulaşabiliriz. Aşağıdaki kuralı uygulayacağız:kaybetmek kazanmakBaşka bir deyişle, 
+küçük bir kayıp, piyasa hakkında yanılmış olabileceğimizi, erken girmiş olabileceğimizi veya manipülasyon 
+seviyesinin beklediğimizden daha yüksek olduğunu kabul etmek anlamına gelir. Erken kaybetmek ve daha fazla bilgi 
+beklemek, giderek artan bir kayıpta sıkışıp kalmaktan, gelip gelmeyeceği belli olmayan bir şeyi beklemekten ve 
+potansiyel kâr marjımızı her saniye azaltmaktan daha iyidir.
+Kurallar esnek değil. Onlar bizim yapımız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Sonuç olarak...
+Ticaret sanatının üç ana rolü vardır:
+AnalistGrafikleri inceleyen ve fiyat hareketlerinden yararlanmak için modeller ve olası yaklaşımlar öneren bir 
+kuruluştur.
+Risk yöneticisiMevcut sermaye, stop loss için gereken aralık, risk eğilimi ve uygulanan modelin başarı 
+oranına bağlı olarak operasyonların büyüklüğünü belirleyen bir sistemdir.
+TüccarDoğru zamanda düğmelere basan, ardından duygularını (öfori, korku, açgözlülük) yöneten ve 
+başarılı bir operasyona yol açacak dengeli kararlar almaya çalışan kişi.
+Herhangi bir aktivite veya mekanizmada olduğu gibi, daha az parça daha fazla güvenilirlik anlamına gelir. Karmaşıklığı 
+azaltmaya ve fayda sağlayabilecek en tekrarlı, en güvenli ve en basit seçenekleri kullanmaya çalışalım. Alım satım 
+sıkıcı ve mekanik bir aktivite olmalıdır, çünkü aşırı duygusal hissediyorsak, muhtemelen kendimizi olması gerekenden 
+daha fazla riske atıyor veya bir kuralı çiğniyoruz demektir. Bunu yapmamalıyız; bunu bir spor olarak değil, bir iş olarak 
+görelim!
+Bu kitap disiplinle ilk teması temsil ediyor, buradan itibaren kavramlara dayalı teknik analiz çalışması geliyor.
+akıllı paraBT nasıl öğretiyor? Özellikle YouTube kanalı The Inner Circle Trader'ı ve Twitter hesabını tavsiye 
+ederim.(https://twitter.com/Ben_ICT'yim ) algoritmanın nasıl çalıştığını herkesten daha iyi biliyor. Hepimiz 
+ondan öğreniyoruz; o bizim akıl hocamız. Ancak tüm videoları İngilizce. YouTube'da altyazı kullanabilirsiniz; 
+Twitter'da altyazımız yok. İspanyolca konuşan yatırımcılar için bir diğer önemli kaynak ise DexterLab.(https://
+twitter.com/TraderDext3r ) Meksikalı olup, doğrudan BT alanında en ileri düzeydeki öğrencilerden biridir.
+Beni sonunda Twitter'da bulabilirsiniz (https://twitter.com/tradeservo )
+Benimle öğrenmeye devam etmek isterseniz, sizi Patreon'uma davet ediyorum. Burada videolar ve özel 
+öğretiler aracılığıyla kavramları ayrıntılı olarak keşfedebilir, anlayışınızı ve deneyiminizi genişletebilirsiniz. Size 
+içtenlikle veda ediyor, öğrenmenizde bol şans diliyorum!
+https://www.patreon.com/lenguajedelprecio
+www.forexgercekleri.xyz - [Twitter: @eseckal]

@@ -1,0 +1,948 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 9\Baskı 9\King of Pips Teknik Analiz Kılavuzu - Alberto Orozco (38 sayfa) - @eseckal.pdf
+PAGES: 38
+
+
+=== PDF PAGE 1 ===
+TEKNİK ANALİZ KILAVUZU
+TEKNİK ANALİZ KILAVUZU.
+1
+Translated from Spanish to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+TEKNİK ANALİZ KILAVUZU
+DİZİN
+GİRİİŞ 3
+FİYAT TABLOSU 3
+DESTEKLER 7
+DİRENÇLER 8
+HACİM 10
+TRENDLER 11
+KANALLAR 15
+OMUZ-BAŞ-OMUZ 16
+ÇİFT TAVAN 19
+ÇİFT KATLAR 20
+BİR GÜNDE TURLAR 23
+BAYRAKLAR, KALEMLER VE TAKOZLAR 25
+ÜÇGENLER 25
+DİKDÖRTGENLER 28
+BOŞLUKLAR 28
+GÖSTERGELER 29
+“MOMENTUM” ANI 32
+BAĞIL GÜÇ ENDEKSİ (RSI) 33
+STOKASTİK 37
+2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+TEKNİK ANALİZ KILAVUZU
+GİRİİŞ.
+Grafik analiz veya “grafikçi”, grafikler veya “grafikler” kullanılarak alıntılarla yapılan 
+hareketlerin zaman içindeki gelişimini gözlemlemeye dayanan bir analiz yöntemidir.
+Bu nedenle, bir«çizelge"Hem piyasaların hem de şirketlerin, finansal varlıkların, para 
+birimlerinin, endekslerin, hammaddelerin, finansal türevlerin, yatırım fonlarının vb. 
+fiyatlarının gelişimini temsil eden bir grafiktir. Fiyat teklifleri veya fiyatlar grafiğin dikey 
+ekseninde yer alır ve zaman yatay eksende gösterilir; yani günlük, haftalık, aylık vb. işlem 
+seansları gösterilir.
+OamaçGrafik analiz, fiyatların içinde bulunduğu durumu belirlemek ve geçmiş gelişimlerine 
+veya grafik geçmişlerine dayanarak gelecekteki değişimlerinin nasıl olacağını tahmin etmeye 
+çalışmaktan oluşur.
+Oteknik analizgrafik kullanımına dayalı analizle ilgili her şeyi tanımlamak ve kapsamak için 
+yaygın olarak kullanılan bir terimdir, daha doğrusu alıntılara dayalı bir tekniktir, ancak 
+matematiksel, istatistiksel prosedürler ve ekonometrik modeller aracılığıyla, grafiklerin 
+yorumlanmasının yarattığı öznelliği ortadan kaldıran, fiyatların gelişimini tahmin etme 
+amacına destek ve iyileştirme işlevi gören göstergeler sunmak.
+TEKNİK GÖSTERGELERİ İLE FİYAT TABLOSU
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+TEKNİK ANALİZ KILAVUZU
+Yapım biçimlerine göre grafiklerin modaliteleri. Değerlerin analizi için 
+grafik türleri.
+Grafikler, hem piyasaların hem de menkul kıymetlerin veya ticareti yapılan diğer mali veya 
+mali olmayan varlıkların kotasyonlarının veya fiyatlarının gelişimini temsil eder. Değerleri 
+analiz etmek için en çok kullanılan grafikler aşağıdaki gibi gruplandırılmıştır.
+• Yapım şekli göz önüne alındığında
+• Zaman çerçevesini dikkate alarak
+Pek çok farklı grafik türü vardır (çizgiler, çubuklar, nokta ve mum çubukları şekilleri, Kagi, 
+Renko, vb.) ancak en çok kullanılanlar şunlardır:
+• Çizgi grafikler:Çizgi grafikler, seansın günlük, haftalık, aylık veya dikkate alınan 
+başka bir zaman aralığındaki kapanış fiyatlarının birleştirilmesiyle oluşturulur; gün 
+içi fiyat hareketlerini dikkate almadan.
+GÜNLÜK ÇİZGİ ŞEMASI
+• Çubuk grafikler:Çubuk grafikler, menkul kıymetlerin ve piyasaların analizinde en 
+çok kullanılan grafik türüdür. Bu nedenle, bu bölüm boyunca tartışılan teorik yönleri 
+örneklemek için kullanacağımız şeyler bunlardır. Bu grafikler seansın açılış, kapanış, 
+maksimum ve minimum fiyatları (günlük, haftalık, aylık vb.) hakkında bilgi sağlar. 
+Seans fiyat değişimi, üst ucu maksimum fiyatı, alt ucu ise seansta ulaşılan minimum 
+fiyatı gösteren dikey bir çubukla temsil edilir. Açılış fiyatı piyasa fiyatının açıldığı 
+fiyattır ve
+4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+TEKNİK ANALİZ KILAVUZU
+Dikey çubuğun sol tarafında kısa bir yatay çubukla temsil edilir ve kapanış fiyatı, 
+seansın sona erdiği fiyattır ve sağ tarafta kısa bir yatay çubukla temsil edilir.
+• çizgi grafikler: Çizgi grafikler, gün içi fiyat hareketleri dikkate alınmaksızın, günlük, 
+haftalık, aylık veya herhangi bir zaman aralığındaki seans kapanış fiyatlarının 
+birleştirilmesiyle oluşturulur.
+ÇUBUK GRAFİĞİN GÖSTERİMİ
+FİYAT
+MAKSİMUM
+FİYATI
+AÇILIŞ
+FİYATI
+KAPANIYOR
+FİYAT
+MİNİMUM
+Bu bilgileri oturum oturum toplayarak bir değerin veya 
+pazarın gelişiminin çubuk grafiği oluşturulur.
+Zaman dilimlerine göre grafik modaliteleri.
+Grafikler birkaç dakika, saat, gün, hafta, ay, çeyrek, yıl vb. aralıklarla oluşturulabilir. En 
+yaygın olanları:
+• Gün içi grafikler: Borsa seans süresinden daha kısa sürelerde oluşturulan, beş, on, 
+on beş, otuz veya altmış dakikalık aralıkları içerebilen grafiklerdir. Çizgilerin, 
+çubukların, mumların vb. gün içi grafiklerini oluşturabilirsiniz.
+5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+TEKNİK ANALİZ KILAVUZU
+GÜN İÇİ MUM GRAFİĞİ (5 DAKİKA)
+• Günlük grafikler:Bunlar, fiyatlarda veya fiyat tekliflerinde günlük değişikliklerle 
+oluşturulanlardır.
+ÇUBUK GRAFİKLERİ
+• Haftalık grafikler:Bir menkul kıymetin veya piyasanın haftalık fiyatlarındaki veya 
+kotasyonlarındaki değişikliklerle oluşturulan grafiklerdir. Orta ve uzun vadede 
+vizyon ve karar almayı sağlar.
+6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+TEKNİK ANALİZ KILAVUZU
+HAFTALIK ÇUBUK GRAFİK
+DESTEKLER, DİRENÇLER VE HACİM.
+Destekler ve dirençler grafik analizin temel kavramlarından biridir. Trendler ve pratik 
+olarak grafik veya “grafikçi” oluşumların çoğu bunlara dayanmaktadır.
+Destekler.
+Düşüş eğilimindeki destek, aşağı yönlü evriminde bir fren veya kırılmanın olduğu, yani 
+talebin arzdan daha yüksek olmayı başardığı ve dolayısıyla fiyatlardaki düşüşün durduğu 
+bir fiyat seviyesidir.
+DÜŞÜŞ TRENDİNDE DESTEKLER
+7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+TEKNİK ANALİZ KILAVUZU
+Destekler prensip olarak kısa vadede yukarı yönlü toparlanmaları öngörebilir ve bu 
+nedenle baskın düşüş yönüne karşı tepkiler devam eder, toparlanma sona erdiğinde aşağı 
+yönlü hareket devam eder, bu nedenle destek birçok durumda bir destek sağlar.kısa 
+vadeli alım sinyali.
+Bir desteğin aşağıya doğru kırılması.
+Destek seviyesinin aşılması veya aşağıya doğru kırılması, arzın talebi aştığını ve dolayısıyla 
+fiyatların en azından kısa vadede yeni bir destek seviyesi buluncaya kadar düşmeye devam 
+edebileceğini gösterir. Sonuç olarak bir destek seviyesinin aşağıya doğru kırılması, en 
+azından kısa vadede, hatta bu destek seviyesinin önemine bağlı olarak orta veya uzun 
+vadede de satış sinyali sağlar.
+Destek seviyelerindeki aşağı yönlü kırılmalar, yüksek işlem hacmi olsun ya da olmasın 
+gerçekleştirilebilir, ancak birçok durumda ikinci durum ortaya çıkar, çünkü borsa 
+jargonunda fiyatlar kendiliğinden düşer.
+DİRENÇLER.
+Yükseliş eğilimindeki direnç: Yükselişte bir durma, frenleme veya dinlenmenin olduğu, yani 
+arzın talepten yüksek olmayı başardığı ve dolayısıyla durduğu fiyat seviyesidir. fiyattaki 
+artış. Dirençler prensipte kısa vadede aşağı yönlü bir düzeltme öngörebilir ve daha sonra 
+ana yükseliş hareketine devam edebilir. Bu nedenle prensipte kısa vadeli bir satış sinyalidir.
+YUKARI TRENDDE DİRENÇ
+8
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+TEKNİK ANALİZ KILAVUZU
+Bir direncin yukarı yönlü kırılması.
+Yukarı yönde kırılan veya aşılan bir direnç seviyesi, menkul kıymetlere olan talebin arzı 
+aştığını ve dolayısıyla fiyatların en azından kısa vadede yeni bir direnç seviyesi buluncaya 
+kadar yükselmeye devam edebileceğini gösterir. Sonuç olarak direncin önemine bağlı 
+olarak bir direnç seviyesinin yukarı doğru kırılması kısa, orta veya uzun vadeli bir alım 
+sinyali sağlar.
+Yukarı yönde kırılan dirençler işlem hacminin artmasıyla birlikte yapılmalı; Aksi takdirde bu, 
+kırılmanın güvenilir olmadığını ve fiyatın tekrar düşebileceğini gösterebilir.
+HACİMDEKİ GÜÇLÜ ARTIŞ İLE DİRENÇ YUKARI YÜKSELDİ
+9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+TEKNİK ANALİZ KILAVUZU
+DESTEK VE DİRENÇLERİN PERFORMANSINA YATIRIM. Bir destek aşağıya doğru 
+kırıldığında direnç haline gelebilir veya bir sonraki yukarı veya sonraki harekette bu şekilde 
+hareket edebilir.
+Benzer şekilde yukarı doğru bir direnç aşıldığında bir sonraki aşağı veya sonraki harekette 
+destek olarak değerlendirilebilir..
+DESTEKLER – DİRENÇLER
+HACİM
+Hacim, her seansta (günlük, haftalık, aylık vb.) işlem gören menkul kıymet sayısını ifade 
+eder. Hacim, alttaki grafikte yer alır ve dikey çubuklarla çizilir; günlük grafik durumunda 
+her biri, menkul kıymetlerin her gün işlem gören hacmini yansıtır. Bu bilgi finansal 
+piyasaların grafik analizi için büyük önem taşımaktadır.
+Hacmi analiz ederken, C: H: Dow tarafından belirtilen, hacmin trendle birlikte hareket 
+ettiğini, yani fiyatlar yükseldiğinde arttığını ve fiyatlar düştüğünde azaldığını söyleyen ana 
+önermeyi dikkate almalıyız.
+10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+TEKNİK ANALİZ KILAVUZU
+TRENDLERDE HACİM
+Değer eğilimleri.
+TRENDLER.
+Trend, menkul kıymet veya piyasa fiyatlarının zaman içinde geliştiği yön veya yörüngedir. 
+Çoğu durumda yukarı veya aşağı yönlü bir trend, bazen de yanal bir trend diyebileceğimizi 
+hesaba katarsak bu fiyat yönü artan, azalan veya yatay olabilir. Bu nedenle aşağıdakilere 
+bağlı olarak bir trendin yükseliş, düşüş veya yatay olduğunu söyleyebiliriz:
+• Atrend yükseliş yönündeardışık destek ve dirençler giderek daha yüksek 
+olduğunda.
+• Atrend düşüş yönündeardışık destek ve dirençler giderek daha düşük olduğunda.
+• Aeğilim yanaldırDestekler ve dirençler yönsüz olarak yanlara doğru hareket 
+ettiğinde.
+Trend çizgilerinin izlenmesi veya çizilmesi.
+Ayükseliş eğilimiEn az iki yükselen desteği veya minimumu birleştiren düz eğimli bir çizgi 
+çizilerek çizilir. Bu çizgiye fiyatlar için destek çizgisi görevi gören yükseliş trend çizgisi denir.
+Çizgi bir kez çizildikten sonra geleceğe öyle bir şekilde uzatılacaktır ki, bir piyasa veya değer 
+yükseliş eğiliminde olduğu sürece bu duruma göre hareket etmeliyiz, yani satın almalar 
+yapabilmeliyiz. veya portföydeki menkul kıymetleri muhafaza edin.
+YUKARI TREND ÇİZGİSİ
+11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+TEKNİK ANALİZ KILAVUZU
+Bir düşüş trendi, en az iki direnç veya alçalan yüksek seviyelere sahip düz bir eğimli çizgi 
+çizilerek çizilir. Bu düşüş trendi çizgisi fiyat direnç çizgisi görevi görüyor.
+Çizgi bir kez çizildikten sonra geleceğe öyle bir şekilde uzatılacaktır ki, bir piyasa veya değer 
+düşüş eğilimindeyken “satılması” yani kredili veya finansal olarak satış işleminin yapılması 
+gerekir. türevler (vadeli işlemler, opsiyonlar veya “varantlar”) veya bunların içinde yer 
+almamalısınız.
+AYI TREND ÇİZGİSİ
+12
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+TEKNİK ANALİZ KILAVUZU
+Yanal eğilimler durumunda, kotlar normalde destek ve direnç tarafından oluşturulan bir 
+aralık arasında yatay olarak hareket eder. Yatay bir trend içindeki küçük dalgalanmalar kısa 
+vadeli ticaret için kullanılabilir.
+YANAL TREND
+Bir trendin kırılması.
+Layükseliş trendi çizgisinin altına fiyat düşüşüDestek çizgisi görevi gören, başlangıçta 
+yükseliş trendinin kırılmasını sağlar ve dolayısıyla bir yükseliş eğilimi yaratır. satış işareti
+çünkü bu düşüş eğiliminde bir değişiklik anlamına gelebilir
+YUKARI TRENDİNİN KIRILMASI
+Bir yükseliş trendinin kırılma sinyalini, sonrasındaki hareketi gözlemleyerek 
+doğrulayabilirsiniz; Yani fiyatlar yukarı doğru toparlanırsa ve önceki direnç seviyesine 
+ulaşmazsa veya yükseliş trend çizgisini aşamazsa bu teyit edilmiş olacaktır.
+13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+TEKNİK ANALİZ KILAVUZU
+Düşüş eğilimi çizgisi hemen çizilebildiği için eğilim değişikliği.
+Öte yandan yükseliş trendi çizgisinin aşağıya doğru kırılması, işlem hacminde önemli bir 
+artışla gerçekleşmesini gerektirmez, çünkü bu kırılma böyle bir artış olmadan da 
+gerçekleşebilir.
+Ladüşüş trendi çizgisinin üzerinde fiyat artışı,Direnç çizgisi görevi gören bu çizgi 
+başlangıçta düşüş trendinin kırılmasını sağlar ve dolayısıylasatın alma sinyali. Yanlış 
+sinyalleri önlemek için yukarı yönde bir filtre bırakılması tavsiye edilir.
+Düşüş trendi çizgisinin kırılması, olası bir yükseliş trendi değişiminin ilk işaretidir; bu, 
+kırılmadan sonraki fiyat hareketi analiz edilerek, yani fiyatın önceki desteğe veya düşüş 
+trendi çizgisine ulaşmadan aşağı yöne dönmesi durumunda doğrulanabilir. ve sonuç olarak 
+daha yüksek bir destek çizerek yükseliş çizgisi çizerek trendin değiştiğini gösterebiliriz.
+Düşüş eğiliminin yukarı yönlü kırılması ve trend değişikliğinin işlem hacmindeki artışlarla 
+gerçekleştirilmesi gerekir; bu, fiyatlardaki yükselişin tutarlılığını tespit etmek için belirgin 
+bir şekilde dikkate alınması gereken bir husustur.
+HACİM İLE AŞAĞI TRENDİNİ KIRMAK
+14
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+TEKNİK ANALİZ KILAVUZU
+Yanal trend çizgileri yukarı veya aşağı doğru kırılır: fiyatlar ilgili direnç veya destek 
+çizgilerini yukarı veya aşağı doğru kırdığında, yani yanal trendi veya trendsizliği 
+belirleyen çizgiler.
+Yatay trendin yukarı yönlü kırılması bir alım sinyali sağlarken aşağı yönlü kırılması ise satış 
+sinyali oluşturur. Yukarı yönlü kırılmanın artan hacimle yapılması gerekiyor.
+YATAY TRENDİN YUKARI KIRILMASI
+KANALLAR.
+Kanallar, başlangıçta çizilen yükseliş veya düşüş trend çizgisine paralel bir trend çizgisi 
+çizmeyi içeren trend çizgilerinin başka bir genişletilmiş versiyonudur. Kanal çizgisi olarak 
+adlandırılan bu paralel çizgi, fiyatın orta-uzun vadede yukarı veya aşağı yönde gelişebileceği 
+bir aralığı belirler.
+Yükseliş trendinde, fiyatların oluşturduğu dirençlere doğru yansıtılan yükseliş trendi 
+çizgisine paralel bir çizgi çizilecektir.
+BOĞA KANALI
+15
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+TEKNİK ANALİZ KILAVUZU
+Düşüş trendinde, fiyatların oluşturduğu desteklere doğru aşağıya doğru yansıtılan düşüş 
+trendi çizgisine paralel bir çizgi çizilecektir.
+Düşüş veya yükseliş kanallarının yukarı veya aşağı yönlü kırılmaları ve dolayısıyla alış veya 
+satış sinyalleri, yükseliş trendleri ve basçıların yükselişi ile ilgili olarak yukarıda tartışılanlarla 
+aynı şekilde üretilir ve eşdeğer sonuçlara sahiptir.
+Kanalların oluşumu tüm trendlerden kaynaklanmamaktadır ancak görünümleri, kanalın 
+oluşturduğu fiyat aralığında meydana gelen dalgalanmalardan yararlanarak kısa vadeli 
+ticarete olanak sağlamaktadır. Böylece yükseliş kanalında alımlar trend çizgisinde, satışlar 
+ise kanal çizgisinde yapılacak; Düşüş trendinde ise alımlar kanal hattında, satışlar ise trend 
+hattında yapılacaktır.
+AYI KANALI
+16
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+TEKNİK ANALİZ KILAVUZU
+Trend tersine dönüş oluşumları.
+Trend değişikliği oluşumları, fiyatların yükseliş veya düşüş eğiliminden düşüş eğilimine doğru 
+yönünde veya eğilimindeki olası değişiklikler hakkında uyarıda bulunan rakamlar veya grafik 
+desenlerdir, bu nedenle genellikle yükseliş veya düşüş eğilimlerinin sonunda görünürler.
+OMUZLAR-BAŞ-OMUZLAR.
+Omuz-baş-omuz oluşumu, genellikle bir yükseliş trendinin sonunda ortaya çıkan ve yükseliş 
+eğiliminden düşüş eğilimine doğru bir trend değişimini ima edebilen grafik bir modeldir. 
+Bu modelde fiyatlar üç tepe veya en yüksek noktayı oluşturur; bunların merkezi zirvesi 
+diğer ikisinden daha yüksektir; ve bunlar, yani aşırı uçlar, benzer bir maksimum seviyeye 
+ulaşır. Omuz-baş-omuz konfigürasyonu için aşağıdaki adımları veya aşamaları dikkate alır:
+1) Omuz-baş-omuz oluşumunun başlangıç   özellikleri, özellikle de ilk omuz ve baş, 
+evrimleri açısından pratik olarak yükseliş eğilimine benzer; burada iki ardışık 
+maksimum bulabiliriz.
+2) Yükseliş trendlerinde olduğu gibi, fiyatlar yükseldiğinde hacim ilk omuzda artıyor ve 
+fiyatın geri çekilmesi veya düzeltilmesiyle düşüyor. Bununla birlikte, bir sonraki 
+yüksek oluşumun (baş) yükselişinde işlem gören hacim, önceki yükselişe (ilk omuz 
+oluşumuna) göre daha düşük olmasına rağmen yüksektir.
+3) Daha yüksek bir maksimuma (baş) ulaşıldığında, hacimde bir azalma ile düzeltme 
+meydana gelir; fiyat, yükseliş trend çizgisiyle değil (yükselen destekleri ima eder) 
+işaretli destek seviyesine düşer, ancak önceki minimum veya İlk omuz desteği.
+4) Bu destek seviyesinden (kafanın tabanı) fiyatlar tekrar yükselişe geçer, ancak önceki 
+direnç seviyesine (kafanın tavanı) ulaşmaz, bunun yerine ilk omuzun tavanına veya 
+maksimumuna benzer bir seviyede kalır. Bu yükseliş
+17
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+TEKNİK ANALİZ KILAVUZU
+Fiyatların yükselişi çok düşük bir hacimle gelişiyor ve fiyatların tepenin tabanındaki 
+destek seviyesine düştüğü bir sonraki aşağı yönlü hareket de öyle. Böylece ikinci 
+omuz oluşmuş olur.
+5) Böyle bir rakamın oluşumunun doğrulanması, ancak fiyatların, boyun çizgisi olarak da 
+adlandırılan (genellikle yatay) taban veya başın minimum seviyeleri ile çizilen destek 
+seviyesini kırması durumunda ortaya çıkar. Kırılma meydana geldiğinde, yanlış 
+sinyallerden (fiyatın bir yüzdesi, bir zaman dilimi veya dikkate aldığımız başka bir filtre 
+yöntemi) kaçınmak için belirli bir düşüş marjının bırakılması tavsiye edilir. Şeklin bu 
+kopuşu bir sonuç doğuruyorsatış işaretive hacimde bir artış eşlik edebilir.
+6) Bazen trend değişikliğinin teyidi, kırılmadan sonraki bir sonraki yukarı yönlü fiyat 
+hareketinin gözlemlenmesinden oluşur. Boyun çizgisini aşmayı başaramazlarsa veya 
+bu bir direnç seviyesi olarak hareket ederse veya fiyatlar önceki maksimumdan (ikinci 
+omuz) daha düşük bir direnç seviyesine işaret ederse, trend değişikliğinin meydana 
+geldiğine dair onay almış oluruz. Desen oluştuğunda gerçekleşen bu harekete "geri 
+çekilme" adı verilir.
+OMUZ-BAŞ-OMUZ
+Omuz-baş-omuz rakamı tamamlandığında, projeksiyonu veya anlamı ne kadar büyük 
+olursa, oluşumu için gereken süre o kadar büyük olacak ve fiyatların hareketi veya genliği 
+de o kadar büyük olacaktır.
+Omuz-baş-omuzlar ters döndü.
+Ters omuz-baş-omuzlar, piyasa diplerinde kendini gösteren ve trendin düşüş eğiliminden 
+yükselişe doğru bir değişimi ima edebilen grafik bir oluşumdur. burada
+18
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+TEKNİK ANALİZ KILAVUZU
+Şekilde fiyatlar, merkezi minimumun diğer ikisinden daha düşük olduğu üç taban veya 
+minimumdan oluşur; ve bunlar, yani aşırı uçlar, benzer minimum seviyeye ulaşıyor. Spesifik 
+olarak, ters omuz-baş-omuz oluşumu aşağıdaki evrimi takip eder:
+1) Ters omuz-baş-omuz ve özellikle ilk omuz ve başın başlangıç   özellikleri, evrimleri 
+açısından pratik olarak düşüş eğilimine benzer ve bu nedenle, omuz-baş-omuz 
+gibi, tanımlanması zordur. başlangıçta kafa oluşumunun tamamlanmasına veya 
+ikinci omuzun başlangıcına kadar.
+2) İlk omuzda hem yükseliş hem de düşüş sırasında hacim azalır, ancak fiyatlar 
+minimum fiyat bölgesine yaklaştıkça artar (ilk omuz oluştu). Önceki düşüşe göre 
+daha düşük bir işlem hacmiyle daha düşük bir minimuma (baş) ulaşıldığında, 
+önceki maksimum veya ilk omuzun direnci ile işaretlenen direnç seviyesine 
+yukarı yönlü bir reaksiyon meydana gelir ve aşağı yönlü direnç hattını yukarı 
+doğru aşar. Fiyatlardaki bu artış iş hacminin artmasıyla ortaya çıkıyor.
+3) Bu direnç seviyesinden (ters çevrilmiş başın tabanı) fiyatlar tekrar düşer, ancak 
+önceki destek seviyesine (ters çevrilmiş başın alt kısmı) ulaşmaz, bunun yerine 
+ilk omuzun alt seviyesine benzer bir seviyeye ulaşır. Fiyatlardaki bu düşüş, 
+hacmin azalmasıyla ve fiyatların boyun çizgisi olarak da adlandırılan ters kafanın 
+tabanında bulunan direnç seviyesine yükseldiği (genellikle yatay olan ve yatay 
+olan bir direnç çizgisidir) yukarı doğru hareketle gerçekleştirilmelidir. ters 
+çevrilmiş kafanın maksimum seviyeleri ile çizilmiş), hacim artmaya devam 
+etmelidir. İkinci omuz oluştu.
+4) Bu rakamın oluştuğunun teyidi, ancak fiyatların ters baş veya boyun çizgisinin 
+tabanı ile çizilen direnç seviyesini yukarı doğru kırması durumunda ortaya çıkar. 
+Yanlış sinyallerden kaçınmak için kırılmaya belirli bir marj bırakılması tavsiye 
+edilir. Şekildeki bu kırılmaya hacimde güçlü bir artış eşlik etmelidir; bu durumda
+satın alma sinyali. Aksi halde yanlış sinyal olabilir.
+5) Fiyatlar, boyun çizgisi yukarıya doğru kırıldığında destek çizgisi olarak hareket 
+ederek ona geri dönebilir; bu durumda bu, yükseliş eğilimi değişiminin meydana 
+geldiğini doğrulayan son sinyaldir ("geri çekilme").
+TERS OMUZ-BAŞ-OMUZ
+19
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+TEKNİK ANALİZ KILAVUZU
+Grafik eğitimi ne kadar geniş olursa, kılavuzun olası etkisinin de o kadar büyük olacağını 
+vurgulamalıyız.
+ÇİFT TAVAN.
+Çift tepe, genellikle bir yükseliş trendinin veya piyasanın sonunda ortaya çıkan bir 
+oluşumdur ve genellikle trendin yükselişten düşüşe doğru değişimini ima eder. Çift tepe, 
+aynı fiyat seviyesindeki ardışık iki tepe veya maksimumdan oluşur. Bu grafik eğitimi 
+özellikle aşağıdaki aşamaları ele alır:
+1) Fiyatlar yükseliş eğiliminde olup, giderek daha yüksek olan art arda en yüksek ve en düşük 
+seviyeleri oluşturur, ancak bu durumda son en yüksek seviye bir öncekinden (ilk tavan) 
+daha yüksek bir seviyeye ulaşmaz, bunun yerine yükseliş benzer bir seviyede durur ( ikinci 
+tavan).
+2) Başlangıçta fiyat yükseliş eğilimindeyken hacim artar. Sonuç olarak, ilk tepe 
+oluşumundaki fiyatlardaki yükseliş yüksek işlemle, düzeltme ise az hacimle 
+gerçekleştirilir. Ancak ikinci tavan oluşumunda fiyatlardaki yükseliş düşük işlem 
+hacmiyle gerçekleştiriliyor.
+3) İkinci tepenin oluşmasından sonra fiyatlar tepelerin destek seviyesine veya tabanına 
+düşer ve muhtemelen yükseliş trendi çizgisi kırılır. Bu fiyat düşüşü sırasında işlem 
+gören hacim küçüktür.
+4) Fiyatların küçük bir filtre bırakarak çift tepenin tabanını belirleyen fiyat seviyesinden 
+aşağıya doğru kırılması durumunda, grafik oluşumu - daha önce değil - tamamlanır 
+ve trenddeki değişimin, dolayısıyla düşük seviyenin gerçekleştiğini gösterir. , bu 
+mola birsatış işareti. Satış sinyaline güvenilirlik kazandırmak için temel bir gereklilik 
+olmamasına rağmen, kırılma sırasında hacim artabilir.
+5) Trend değişikliğinin gerçekleştiğine dair son teyit, çift bazın kırılmasından sonraki 
+fiyat hareketinin gözlemlenmesidir.
+20
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+TEKNİK ANALİZ KILAVUZU
+tavan. Fiyatlar kırılan destek çizgisine doğru yukarıya dönerse ve bu, ona 
+ulaşmadan veya onu aşamadan bir direnç seviyesi görevi görürse ve fiyatlar 
+yeniden aşağıya doğru yönelirse trend değişikliği doğrulanır. Formasyonun ikinci 
+zirvesini ve bu ikinci yüksek seviyeyi daha düşük bir seviyede birleştiren bir düşüş 
+eğilimi çizgisi hemen çizilebilir.
+ÇİFT TAVAN OLUŞUMU
+Fiyat hareketi ve süresi açısından formasyon ne kadar geniş olursa, yansımaları da o kadar 
+büyük olur. Bu nedenle, bu rakamı doğrulamak için, en az bir aylık bir farkla iki 
+maksimumun oluşturulması gerekir; bu sürenin altında bu modelin sonuçlarından şüphe 
+duymalıyız.
+ÇİFT KATLI.
+Çift dip, genellikle piyasanın dip noktalarında veya düşüş eğilimlerinin sonunda meydana 
+gelen, düşüş eğiliminden yükseliş eğilimine doğru bir değişim oluşumudur. Ters yönde 
+de olsa, çift tepedeki fiyatların gelişimi açısından benzer bir gelişime sahiptir. Çift dip, 
+benzer fiyat seviyelerinde birbirini takip eden iki düşük seviye veya desteğin ardından 
+yukarı yönlü bir hareketle oluşur. Özellikle çift kat aşağıdaki yönergeleri karşılar:
+1) Fiyatlar bir düşüş eğilimini takip ederek, bir destek seviyesi (birinci kat) buldukları bir 
+seviyeye ulaşır; bu seviye, düşüş eğiliminin bir sonraki hareketi tarafından aşağıya 
+doğru aşılmaz, bunun yerine fiyatlar önceki destek seviyesinde (ikinci kat) düşüşünü 
+sona erdirir. ).
+21
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+TEKNİK ANALİZ KILAVUZU
+2) Hacim genellikle ilk dip düşüşün sonunda, sanki bir düşüş trendinin sonunda bir alım 
+bölgesiymiş gibi yüksektir. İlk dip veya minimumun yukarıya doğru hareketi, tıpkı 
+ikinci dip oluşumu sırasında olduğu gibi, özellikle fiyatların bir önceki destek 
+seviyesine doğru düşmesi sırasında çok küçük bir hacimle gerçekleştirilir.
+3) İkinci minimumun veya tabanın oluşmasından sonra fiyatlar çift dip veya direnç 
+çizgisinin tepesine doğru yönelir ve bunu artan hacimle yapar, muhtemelen yukarı 
+yönlü düşüş trend çizgisini aşar. Fiyatlar, işlem hacminde önemli bir artışla bu 
+direnç seviyesini yukarı doğru kırarsa ve küçük bir filtre bırakırsa, formasyon 
+tamamlanmıştır ve yükseliş trendi değişiminin meydana geldiğini gösterir.satın 
+alma sinyali.
+4) Trend değişikliğinin gerçekleştiğine dair nihai teyit, çift dipteki yukarı yönlü 
+kırılmanın ardından fiyat hareketinin gözlemlenmesidir.
+Fiyatlar tekrar aşağıya dönerse direnç çizgisi yukarı doğru kırılır ve bu bir destek 
+seviyesi görevi görür, aşağı yönlü seviyeyi aşamaz ve ardından fiyatlar yükseliş 
+eğilimine uygun olarak hacim artışıyla yukarıya doğru yönelir.
+5) İki minimum arasındaki mesafenin en az bir ay olması tavsiye edilir ve birkaç aya 
+kadar da olabilir. Fiyat genliği ve rakamın oluşma süresi ne kadar büyük olursa, 
+grafik oluşumunun olası yükseliş etkileri de o kadar büyük olur.
+ÇİFT KAT OLUŞUMU
+22
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+TEKNİK ANALİZ KILAVUZU
+Yuvarlak tavanlar.
+Yuvarlatılmış tepe, genellikle yükseliş trendlerinin sonunda oluşan bir grafik oluşumudur. 
+Bu model, bir trendin yükseliş trendinden düşüş trendine doğru kademeli veya yavaş bir 
+değişim olacağını varsayar. Yukarı yönlü bir hareketin sonunda fiyatların aşamayacağı bir 
+direnç seviyesine veya maksimuma ulaşması ve bu seviyede az çok uzun süre kalması olan 
+bir oluşumdur.
+Bu modelin tamamlanması ve tamamen oluşması, ancak fiyatın direnç seviyesinde bir süre 
+sonra aşağıya doğru yönelmesi ve destek seviyelerinin kırılmasıyla gerçekleşecektir. Fiyatlar 
+yüksek bölgede ne kadar uzun süre kalırsa ve işlem hacmi ne kadar büyük olursa, grafik 
+oluşumunun sonraki olası etkileri de o kadar büyük olur.
+Bu grafikler çok nadiren ortaya çıkar çünkü yükseliş trendinden düşüş trendine geçişler 
+genellikle düşüş veya yükseliş trendlerinden değişimlerden daha hızlıdır. Bu formasyonun 
+hacmi, önceki yükseliş hareketi sırasında yuvarlak tepenin her iki ucunda daha yoğun bir 
+şekilde artıyor.
+Yuvarlak zeminler.
+Yuvarlatılmış dip, genel olarak bazı şirketlerin ekonomik-finansal durumunun çok zayıf 
+olduğu, normalde döngüsel olan şirketler, sermayesi veya büyüklüğü düşük şirketler ve 
+spekülatif menkul kıymetlerde yaşanan düşüş yönlü borsa dönemlerinde ve ekonomik 
+durgunluk zamanlarında kendini gösteren bir oluşumdur. veya "chicharros". Bu koşullar 
+hep birlikte hisse fiyatlarının minimumda kalmasına neden olur ve ekonomi yeniden 
+canlanmaya başlayıncaya, borsa toparlanıncaya ve söz konusu şirket krizden çıkana kadar 
+piyasada ihmal edilen, ihmal edilen bir değer olacaktır.
+Yuvarlatılmış dip, direnç seviyelerini aşarak ve hacimde önemli artışlarla yükseliş eğilimi 
+göstermeye başladığında sona eriyor. Ayrıca bu artışın daha sonra şirketin durumundaki 
+iyileşme haberleriyle de onaylanması gerekiyor.
+Bu grafik oluşumu sırasında hacim neredeyse tükenene kadar yani değere ilgi 
+kalmayıncaya kadar azalır ve dolayısıyla fiyat yükselmeye başlayana veya yukarı sinyaller 
+verene kadar hacmi giderek küçülür, bu durumda. , hacim artacaktır.
+YUVARLAK ZEMİN
+23
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+TEKNİK ANALİZ KILAVUZU
+BİR GÜNDE ULAŞIR.
+Bir günde geri dönüş: Yukarı veya aşağı yönlü bir hareketin sonunda çok hızlı bir şekilde 
+ortaya çıkan trend değişim oluşumlarıdır.
+Yükseliş eğiliminde, fiyatın daha yüksek açıldığı ve fiyatların bir önceki veya öncekilere göre 
+oldukça yüksek bir maksimum seviyeye ulaştığı ancak fiyatların gün açılışının altında 
+kapandığı bir günde dönüş meydana gelir. gün içi hareketin en düşük seviyesinde. Bu 
+rakamın geçerli olabilmesi için yüksek hacimli sözleşmelerin müzakere edilmesi tavsiye 
+edilir. Bu nedenle düşüş yönlü bir formasyondur.satış işareti.
+Aşağı yönlü bir trendde, fiyatların daha düşük bir seviyede açıldığı ve çok düşük bir gün içi minimum 
+seviyeye ulaştığı, ancak seansın günün açılış fiyatından daha yüksek bir fiyatla ve gün içi hareketin 
+yüksek olduğu bölgelerde kapandığı bir günde bir tersine dönüş meydana gelir. Bu rakamı 
+doğrulamak ve yükselişe işaret etmek için yüksek hacimli hisselerin alınıp satılması gerekiyor. Bu 
+nedenle, yükseliş yaratan bir formasyondur.satın alma sinyali.
+Gün içindeki fiyat hareketi ne kadar büyük olursa ve işlem hacmi de o kadar büyük olursa, 
+bu grafik rakamın sinyali ve sonraki sonuçları da o kadar anlamlı olacaktır.
+Trendin devamı ve kararsızlık oluşumları.
+Trend devam formasyonları, genel olarak ister yükseliş ister düşüş olsun ana trendin 
+muhtemelen devam edeceğini ve evriminde geçici olarak bir duraklama yapıldığını 
+gösteren grafik oluşumlardır. Trend kararsızlığı oluşumları ise ana trendin devamını veya 
+değişimini temsil edebilen eşdeğer grafik rakamlardır.
+Bayraklar, flamalar ve takozlar.
+Bayraklar, flamalar ve takozlar genellikle yükseliş veya düşüş eğilimlerinin ortasında, 
+fiyatlardaki hızlı ve ani hareketleri takiben ortaya çıkan ve fiyatların gelişiminde bir 
+duraklamayı temsil eden grafik oluşumlardır. Bu eğitimler genellikle 5 gün ile 4 hafta 
+arasında sürer ve genellikle işe alım hacminde kademeli ve önemli bir azalma eşlik eder.
+Lasyükseliş bayraklarıYüksek iş hacmiyle güçlü bir fiyat artışıyla başlarlar ve ardından çok 
+dar hareketlerle ve belli bir aşağı doğru eğimle küçük bir dikdörtgen oluştururlar. 
+Dikdörtgenin oluşumu sırasında, daralma hacminde neredeyse yok olana kadar kademeli 
+bir azalma olur.
+Yükseliş bayraklarının kırılması, fiyatın hacimde önemli bir artışla yukarıya doğru kaçması 
+durumunda meydana gelir, bu da trendin gücünü gösterir ve sonuç olarak bir yükseliş 
+sağlar.satın alma sinyaliÇünkü yükseliş eğiliminin devam edeceği varsayılıyor.
+24
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+TEKNİK ANALİZ KILAVUZU
+BOĞA BAYRAĞI
+Lasdüşüş bayraklarıYüksek iş hacmi ile fiyatlarda keskin bir düşüşle başlarlar - şart 
+olmasa da - ve daha sonra belirli bir yukarı eğimle küçük bir dikdörtgen oluştururlar ve 
+buna, neredeyse yok olana kadar sözleşme hacminde kademeli bir azalma eşlik eder.
+Düşüş bayrağının kırılması, fiyatlar aşağıya doğru kaçtığında oluşur ve bu durumda işlem 
+gören menkul kıymetlerde bir artış meydana gelebilir.satış işaretiÇünkü düşüş eğiliminin 
+devam edeceği varsayılıyor.
+AYI BAYRAĞI
+25
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+TEKNİK ANALİZ KILAVUZU
+Benzer yönergelerflamalarTek fark, bayraklarda fiyatların bir dikdörtgen oluşturması, 
+flamalarda ise bir üçgen veya birbirine yakınlaşan iki çizgi oluşturmasıdır. durumunda
+takozlarİster yükselen ister alçalan olsun, simetrik bir üçgen oluşturmak yerine fiyatların 
+gelişiminin tersi yönde belirli bir eğime sahip bir kama oluşturma özelliğine sahiptirler.
+Bu grafik desenler finansal piyasalarda çok yaygın olarak görülür, çünkü bunlar yükseliş 
+veya düşüş eğilimlerinin gelişimindeki kırılmaları temsil eder, ancak çok farklı gelişmelere ve 
+maruz kalanlardan farklı olmasına rağmen genellikle benzer sonuçlara sahiptirler.
+BAYRAKLAR, KALEMLER, TAKOZLAR VE DİĞER EŞLEŞTİRİLEBİLİRLER
+ÜÇGENLER.
+Üçgenler genel olarak trendin devamı oluşumlarıdır, ancak trenddeki bir değişikliği temsil 
+edebildikleri için tam olarak ne gibi sonuçlara sahip olduklarını belirlemek için her bir 
+durumu analiz etmek tavsiye edilir. Üçgenlerin çeşitli türleri vardır:
+-
+-
+-
+Simetrik üçgenler. Yükselen 
+üçgenler. Alçalan üçgenler.
+26
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+TEKNİK ANALİZ KILAVUZU
+Simetrik üçgenler
+Simetrik üçgenler, fiyatların bir dizi yakınlaşan fiyat arasında salındığı, yatay ve simetrik bir 
+üçgen oluşturduğu, yani fiyatın yükseliş destek çizgisi ile düşüş direnç çizgisi arasında 
+hareket ettiği grafik oluşumlardır. Üçgenler en az bir veya iki ay içerisinde oluşur.
+Simetrik üçgenler, yükseliş trendi durumunda maksimum direnç seviyesinden veya düşüş 
+trendi durumunda destek veya minimum seviyeden oluşmaya başlar, bu da fiyatların 
+yakınsak bir şekilde, yani azalan maksimumlar ve artanlarla birlikte gelişmesine yol açar. 
+Minimumlar, bir direnç hattı veya azalan arz ve bir destek veya artan talep hattı oluşturur. 
+Düzeni için en az iki maksimum veya direnç ve iki destek bulunmalıdır.
+Destek ve direnç çizgileri tanımlandıktan sonra fiyatın, simetrik üçgenin mesafesinin 
+yaklaşık üçte ikisine, yani üçgenin başlangıcından tepe noktasına kadar bunların içinde 
+gelişmesi gerekir.
+Bu 2/3 mesafe civarında, fiyatın bir trend devam formasyonu olarak hareket edebilmesi ve 
+daha etkili olabilmesi için ana trend yönünde üçgeni kırması veya çıkması gerekir.yükseliş 
+trendi durumunda satın alma sinyalivedüşüş trendinde satış sinyali; tepe noktasına 
+yaklaşmadan veya ayrılmadan, bu durumda grafik desen devam figürü olarak etkilerini 
+kaybeder ve yeni grafik durumunun analiz edilmesi için fiyatın izlenmesi gerekir.
+Üçgen oluşumu sırasındaki hacim, fiyatlar daha dar hareket ettikçe genellikle azalır ve 
+kırılmanın yukarı yönlü olması durumunda önemli ölçüde artması gerekir. Kırılmanın 
+destek hattını kırarak aşağıya doğru gerçekleşmesi durumunda, bunun önemli bir hacimde 
+olması şart değildir.
+SİMETRİK ÜÇGENİN YUKARI KIRILMASI.
+27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+TEKNİK ANALİZ KILAVUZU
+Yükselen üçgenler.
+Yükselen üçgenler, hacim olarak benzer davranışa ve minimum fiyat hedefine sahip 
+simetrik üçgenlere benzer oluşumlardır; ancak arz veya direnç çizgisinin yatay olması ve 
+alçalmaması bakımından farklılık gösterirler; ve destek veya talep çizgisi yükseliyor. 
+Simetrik üçgenlerde olduğu gibi en az iki destek noktası ve iki direnç noktasıyla ve en az bir 
+ila iki aylık sürede oluşturulmaları gerekiyor.
+Yükselen üçgenler genellikle hem yükseliş trendinde (bir devam figürü olarak hareket 
+eder) hem de düşüş trendinde (genellikle bir düşüş trendinin sonunda, dolayısıyla trendin 
+tersine dönüş rakamları olarak da hareket edebilirler) yükselişe yönelik imalara sahiptir.
+Alçalan üçgenler.
+Alçalan üçgenler, talep veya destek çizgisinin yatay olduğu ve arz veya direnç çizgisinin 
+alçaldığı üçgenlerdir. Bu çizgileri çizmek için en az dört temas noktası, iki destek ve iki 
+direnç gereklidir; ve normalde minimum bir veya iki aylık bir süre içinde oluşturulur.
+Yükselen üçgenler genellikle hem düşüş trendinde (trend devam formasyonu olarak 
+hareket eder) hem de yükseliş trendinde (genellikle trendin sonunda trend dönüş 
+formasyonu olarak hareket eder) düşüş yönlü etkilere sahiptir.
+İNEN ÜÇGEN
+28
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+TEKNİK ANALİZ KILAVUZU
+DİKDÖRTGENLER.
+Dikdörtgenler, destek seviyesi olarak hareket eden bir çizgi ve direnç seviyesi olarak hareket 
+eden bir çizgi ile işaretlenmiş iki fiyat seviyesi arasında, fiyatların bir trend olmaksızın 
+yanlara doğru hareket ettiği oluşumlardır. Genellikle ana trendin gelişiminde bir 
+duraklamayı temsil ederler.
+Bu nedenle, her halükarda dikdörtgenin kırılmasına dikkat etmeliyiz, böylece fiyat destek 
+çizgisini aşağıya doğru kırarsa bu fiyatların düşmeye devam edebileceği anlamına gelir, 
+bu nedenle kırılma bir denge sağlar.satış işareti. Aksine, fiyatlar direnç çizgisini yukarı 
+doğru kırarsa ve bunu hacim artışıyla yaparsa, bu birsinyal satın al.
+DİKDÖRTGEN
+DELİKLER.
+Boşluklar, grafiğin herhangi bir ticaretin veya unvan ticaretinin gerçekleşmediği alanlarıdır. 
+Genellikle günlük grafiklerde gözlenirler ve “grafikçi” oluşumların kırılması nedeniyle veya 
+ilgili haber veya olaylara, şirket operasyonlarına veya fiyatlarda ani hareketlere neden olan 
+söylentilere yanıt olarak ortaya çıkma eğilimindedirler. Bazı menkul kıymetlerin likiditesinin 
+düşük olmasının bir sonucu olarak da boşluklar gözlemlenmektedir.
+Yükseliş eğiliminde, bir dönemin minimum fiyatının bir önceki dönemin maksimum 
+fiyatından yüksek olması durumunda boşluk oluşur. Bu boşluklar, özellikle işlem hacimleri 
+yüksek olduğunda, yükseliş eğilimlerinin ortak bir özelliği olan değerde veya piyasada 
+güçlü bir eğilim olduğunu bize bildirir.
+Düşüş trendinde, bir seansın yüksek fiyatı bir önceki seansın düşük fiyatından daha düşük 
+olduğunda bir boşluk oluşur. Bu durumlarda bizi değerdeki veya pazardaki zayıflık ve iş 
+hacminin önemli bir özellik olmadığı konusunda uyarıyorlar.
+29
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+TEKNİK ANALİZ KILAVUZU
+Kökenlerinin nedenine bağlı olarak üç tür boşluk oluşturulabilir:
+-Kopma boşlukları:Yukarıya veya aşağıya doğru bir trend veya grafik oluşumu 
+tamamlandığında, yani trendin, desteğin veya direncin veya ikili tepe, üçgen 
+vb. grafik deseninin kırılmasıyla ortaya çıkarlar. Özellikle yukarı yönlü 
+çıkışlarda iş hacminin artmasını her zaman desteklemelisiniz.
+-Devam, sızıntı veya kaçış boşluklarıyukarı veya aşağı hareket sırasında 
+meydana gelir. Hareket sırasında yükseliş trendinin gücünü ve düşüş 
+trendinin zayıflığını gösteren bir veya daha fazla boşluk oluşabilir.
+- Tükenme boşluklarıBunlar yükseliş veya düşüş eğiliminin sonunda ortaya 
+çıkar. Devam boşluğunu tükenme boşluğundan ayırt etmek gerçekten 
+karmaşıktır, bu nedenle analizi için onu ayırt etmemizi sağlayan diğer 
+araçları kullanacağız.
+TEKNİK GÖSTERGELER.
+Teknik analiz spesifik bir analizdir ancak fiyat veya teklif verilerine dayanan matematiksel 
+ve istatistiksel prosedürlerden hazırlanan göstergelerin uygulanması ve 
+yorumlanmasından oluşan tamamen grafik veya "grafik" analizini tamamlayıcı 
+niteliktedir.
+Teknik analiz, çoğu durumda grafik oluşumların yorumlanmasını gerektiren öznelliği 
+ortadan kaldırmayı amaçlamaktadır. Bu göstergeler sayesinde yatırımcılar ve trader'lar 
+piyasaların ve menkul kıymetlerin hareketlerini ve gücünü daha güvenilir bir şekilde 
+tespit edebilmekte ve yapılan yorumları grafik analizlerle doğrulamalarına olanak 
+tanımaktadır. Ayrıca çok sayıda gösterge kısa ve orta vadeli operasyonlar için oldukça 
+etkili araçlardır.
+Hareketli ortalamalar.
+Hareketli ortalamalar, kısa, orta veya uzun vadede belirli dalgalanmaları ortadan kaldıracak 
+şekilde fiyatların gelişimini az veya çok düzleştiren veya düzleştiren göstergelerdir.
+Piyasalar ve değerler yüksek oynaklıkla, sürekli yükseliş ve düşüşlerle hareket eder, ancak 
+arkasında temel bir eğilim vardır. Hareketli ortalamalar bu oynaklığı düzeltmemize ve 
+piyasaların ve değerlerin gerçek eğilimini gözlemlememize olanak tanır.
+Öte yandan, hareketli ortalamalar trendi takip eden bir göstergedir; yani hareketli 
+ortalamalar piyasayı tahmin etmez, daha ziyade trendini teyit eder ve fiyatlar zaten bunu 
+yaptığında, trendin gidişatına bağlı olarak daha az veya daha fazla gecikmeyle yön 
+değiştirir. ortalama için seçilen dönem.
+30
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+TEKNİK ANALİZ KILAVUZU
+15, 70 VE 200 GÜNLÜK HAREKETLİ ORTALAMALAR
+Hareketli ortalama için kullanılacak süre, operatörün, yatırımcının veya yöneticinin yatırım 
+ufkuna bağlı olacaktır. Yani, kısa vadeli bir yatırımcı, bir spekülatör veya bir ticaret 
+operatörü, birkaç günlük, maksimum 30 günlük hareketli ortalamaları kullanacaktır. 
+Menkul kıymetlerdeki kısa vadeli hareketlerle pek ilgilenmeyen ve orta vadeli 
+hareketlerden yararlanmak isteyen bir kişi ise 50 ila 70 gün arasında hareketli bir 
+ortalamayı seçecektir. Son olarak, yalnızca uzun vadeli trendlerle ilgilenen bir borsa 
+operatörü, kısa ve orta vadeli hareketlerle ilgilenmediğinden, 150 günden daha uzun bir 
+süreye sahip bir ortalamayı seçecektir.
+Her durumda, yatırımcının veya borsa operatörünün profiline bağlı olarak, bir piyasa veya menkul 
+kıymet için hangi hareketli ortalamanın en uygun olduğunu deneyim belirleyecektir.
+YATIRIMCI, OPERATÖR UYGUN GÜNLÜK HAREKETLİ ORTALAMA
+Kısa vadeli Maksimum 30 gün
+Yarım 50-100 gün
+Uzun vadeli 150-200 gün
+Haftalık ve aylık grafiklerde de hareketli ortalamalar hesaplanmaktadır ancak bu 
+grafiklerde kullanılan günlük periyotlara eşdeğer periyotlar daha yüksek periyotları 
+belirleyeceğinden orta ve uzun vadeli yatırımcılar ve operatörler için daha kullanışlıdır.
+Hareketli ortalamalarla ticaret.
+Bu göstergelerle ticaret iki ana yolla gerçekleştirilebilir:
+▪ Hareketli ortalamayla işlem yapmak.
+▪ İki veya daha fazla hareketli ortalamayla çalışma.
+31
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+TEKNİK ANALİZ KILAVUZU
+Hareketli ortalamayla işlem yapmak.
+Tek bir hareketli ortalamayla çalışmayı düşündüğünüzde vermeniz gereken ilk karar, 
+kullanılacak hareketli ortalamanın seçimidir. Genel olarak kısa vadeli bir yatırımcı için 15-30 
+günlük hareketli ortalama, orta vadeli bir yatırımcı için 70 günlük bir hareketli ortalama ve uzun 
+vadeli bir yatırımcı için 200 günlük bir hareketli ortalama (en sık kullanılan) uygundur. .
+Hareketli ortalama seçildikten sonra, fiyatlar veya teklifler hareketli ortalamayı sırasıyla 
+yukarı veya aşağı doğru geçtiğinde alış veya satış sinyalleri oluşur.
+-esatın alma sinyaliFiyatlar hareketli ortalamayı yukarı doğru geçtiğinde ve onun üzerinde 
+kaldığında ortaya çıkar.
+b)satış işaretiHareketli ortalama kullanıldığında, fiyatlar hareketli ortalamayı aşağıya 
+doğru geçtiğinde ve altında kaldığında oluşturulur.
+70 GÜNLÜK BASİT HAREKETLİ ORTALAMA İLE ALIŞ VE SATIŞ SİNYALİ
+İki hareketli ortalamayla çalışma.
+Alış veya satış sinyallerini belirlemek için iki hareketli ortalamanın kullanılması, kısa, orta 
+veya uzun vadede piyasanın gelişimi hakkında daha kapsamlı bir vizyona sahip olmamızı 
+sağlar.
+Hareketli ortalamayla işlem yaparken olduğu gibi. Verilmesi gereken ilk karar, değerlerin 
+analizinde kullanılacak hareketli ortalamaların seçimidir. Kısa vadeli yatırımcılar için 15 ve 
+30 günlük hareketli ortalamalar, orta vadeli yatırımcılar için 30 ve 70 günlük, uzun vadeli 
+yatırımcılar için ise 70 ve 200 günlük hareketli ortalamalar uygundur (bunlar aynı zamanda 
+en yaygın kombinasyonlardır). )
+YATIRIMCI,
+OPERATÖR
+MEİDA GEÇİŞİ
+CEP TELEFONU
+32
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+TEKNİK ANALİZ KILAVUZU
+KISA VADELİ 5 VE 15'İN GEÇİŞİ
+ORTA VADE 30 VE 70'İN GEÇİŞİ
+UZUN VADE 70 VE 200'ÜN GEÇİŞİ
+Hareketli ortalamalar seçildikten sonra, kısa hareketli ortalama uzun hareketli ortalamayı yukarı 
+veya aşağı doğru kestiğinde alım veya satım sinyalleri üretilir.
+Şuna:satın alma sinyaliKısa hareketli ortalama, uzun hareketli ortalamayı yukarı doğru 
+kestiğinde oluşur.
+B.satış işaretiKısa hareketli ortalama, uzun hareketli ortalamayı aşağıya doğru 
+kestiğinde ortaya çıkar.
+İKİ MOBİL ORTALAMAYI GEÇEREK SİNYAL AL   VE SAT
+70 VE 100 GÜNLÜK BASİTLER.
+AN veya "MOMENTUM".
+Momentum veya "Momentum", zaman içinde iki an arasındaki fiyat değişimlerindeki 
+hızlanma ve yavaşlamayı, yani bugünkü kapanış ile "n" seans önceki (genellikle 10 veya 12 
+seans) kapanış arasındaki farkı ölçen teknik bir göstergedir. Fiyatlar her gün aynı miktarda 
+değişiyorsa Momentum sıfırdır, ancak fiyatlar her gün daha fazla yükselir veya düşerse, 
+Momentum sırasıyla yukarı veya aşağı hızlanır. Momentum bir grafikte temsil edilir ve "yüz" 
+değerindeki merkezi bir çizgi etrafında hareket eder. Bu şekilde Moment bize aşağıdakileri 
+bildirir:
+33
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+TEKNİK ANALİZ KILAVUZU
+herhangi biriEğer oMomentum merkez çizgisinin üzerine çıkıyor-Olumlu Momentum - 
+fiyatların veya yükseliş eğiliminin hızlandığını gösterir. Momentum düzleştiğinde 
+veya yüz çizgisine doğru döndüğünde, bu yükseliş eğiliminin yavaşladığını gösterir 
+(fiyatlar yükselmeye devam etse de) ve bu nedenle prensip olarak kısa vadede bir 
+düşüş eğilimi değişimini tahmin edebilirsiniz.
+Eğer oMoment merkez çizgisinin altına düşüyor–Negatif momentum – düşüş 
+eğiliminin hızlandığını gösterir. Momentum düzleştiğinde veya yüz çizgisine doğru 
+döndüğünde fiyatlardaki düşüşün yavaşladığı uyarısında bulunur ve bu nedenle en 
+azından kısa vadede yükseliş eğiliminde bir değişiklik öngörebilirsiniz.
+herhangi biri
+Yukarıdakilerin bir sonucu olarak, alım veya satım sinyalleri aşağıdaki gibi üretilir:
+ile.satın alma sinyaliMomentum yüz çizgisini yukarı doğru geçtiğinde ve fiyat 
+yükseldiğinde ortaya çıkar. Yükselen Momentum yükseliş işaretidir.
+B. Satış sinyali, momentum aşağı doğru yüz çizgisini geçtiğinde ve fiyat düştüğünde 
+ortaya çıkar. Azalan bir “Momentum” düşüş belirtisidir.
+Bu göstergenin bazen sağladığı çok sayıda sinyalin bir sonucu olarak, göstergenin 
+uç değerlerinde üretilen alım satım sinyallerinin incelenmesine dayanarak onunla 
+çalışmanın iyi bir yolu olduğu ortaya çıkıyor.
+Göreceli Güç Endeksi (RSI)).
+Göreceli Güç Endeksi, finansal piyasaların analizinde kullanılan en güvenilir teknik 
+göstergelerden biridir. Göreceli Güç Endeksi, fiyatların yükseliş veya düşüş gücünü ölçer 
+ve 0 ile 100 arasında hareket eder; aşırı alım bölgesi 70 ile 100 arasında, aşırı satış bölgesi 
+30 ile 0 arasında ve 30 ile 70 arasındaki seviyeler dikkate alınır. tarafsız bölge. J. Wells 
+Wilder'ın kullandığı ve yaygın olarak kabul edilen süre 14 seanstır ancak çok kısa vadede 
+operasyon yapmak istiyorsak bu süreyi azaltmamız gerekir.
+Alış ve satış sinyalleri, gösterge aşırı satıldığında veya aşırı satın alındığında ve temel olarak 
+üst ve alt uç değerlerde meydana gelir; RSI'nin değeri ne kadar aşırı olursa, fiyatların 
+değişeceğine dair garanti de o kadar büyük olur. Bu nedenle Göreceli Güç Endeksi şu 
+şekilde çalışır:
+-esatın alma sinyaliAşırı satım bölgesinde meydana gelir. RSI'nın aşağı yönlü 30 çizgisinin 
+üzerine çıkması fiyatların hemen yükseleceği anlamına gelmiyor, kısa süre içinde yukarı 
+yönlü bir tepkinin oluşabileceğine dair bir uyarı.
+34
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+TEKNİK ANALİZ KILAVUZU
+RSI İLE SİNYAL SATIN ALIN
+Lasatış işaretiaşırı alım bölgesinde meydana gelir. 70'in üzerindeki RSI değerinin 
+fiyatların hemen düşeceği anlamına gelmediğini dikkate alırsak, kısa süre içinde aşağı 
+yönlü bir tepkinin oluşabileceğine dair bir uyarıdır.
+RSI İLE SİNYAL SATIN
+35
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+TEKNİK ANALİZ KILAVUZU
+RSI'yi analiz etmenin ve alım satım sinyallerini belirlemenin bir başka tamamlayıcı yolu, fiyat 
+tablosu ile RSI arasında meydana gelen farklılıkları incelemektir.
+a) Satın alma sinyali, pozitif veya yükseliş yönünde bir sapma durumunda, yani fiyat grafiği 
+ardışık iki azalan minimum seviyeye ulaştığında ve RSI bunları onaylamadığında, aksine 
+iki artan minimum çizdiğinde, yani bir yükseliş eğilimi oluştuğunda oluşturulur. . Bu 
+yükseliş eğilimi yükseliş eğilimi değişimine işaret edebilir.
+OLUMLU VEYA BOĞA FARKLILIKLARI
+b)satış işaretibir işlemden önce oluşturulurNegatif veya düşüş eğilimiyani fiyat 
+grafiği art arda iki artan yüksek seviyeye ulaştığında (tipik bir yükseliş trendi) ve RSI 
+iki azalan en düşük seviyeyi çektiğinde, yani düşüş eğilimi oluşur. Bu düşüş eğilimi, 
+düşüş eğiliminde bir değişiklik anlamına gelebilir.
+Hareketli Ortalama Yakınsama ve Uzaklaşma Göstergesi (MACD).
+Hareketli Ortalama Yakınsama ve Uzaklaşma Göstergesi (MACD), iki hareketli ortalama, 
+özellikle sırasıyla 26 ve 12 dönemlik iki üstel hareketli ortalama arasındaki farkı gösterir. Bu 
+göstergeye genellikle MACD'nin 9 günlük üstel hareketli ortalamasından başka bir şey 
+olmayan sözde sinyal çizgisi eklenir. Her iki gösterge de, yani MACD ve sinyal çizgisi, sıfırda 
+bir çizgi etrafında hareket eder; MACD dikey bir çubuk grafik olarak temsil edilirken, sinyal 
+çizgisi MACD çubuk grafiğinin hareketli ortalaması olarak kesikli çizgi olarak çizilir.
+36
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+TEKNİK ANALİZ KILAVUZU
+MACD kullanılarak alım ve satım sinyalleri, özel olmayan ancak operatör tarafından 
+kombinasyon halinde kullanılabilen üç olası yolla oluşturulur:
+MACD'yi ve sinyal çizgisini veya hareketli ortalamasını geçerek.
+herhangi biri
+herhangi biri
+MACD ekstrem değerlerine ulaşın.
+MACD'yi sıfır veya merkez çizgiden geçerek.
+MACD'nin ve hareketli ortalamasının kesişimlerine ilişkin sinyaller şu şekilde üretilir:
+-esatın alma sinyaliMACD göstergesi sinyal çizgisini yukarı doğru geçtiğinde ortaya 
+çıkar ve sinyal çizgisinin üzerinde kaldığı sürece hisse senedi yatırımcısı alım 
+yapmalıdır.
+b)satış işaretiMACD göstergesi sinyal hattını aşağı doğru geçtiğinde ortaya çıkar ve 
+sinyal hattının altında kaldığı sürece borsacının satılması gerekir.
+Ancak birçok durumda, bu çalışma şekli, değer trendde olmadığı sürece, kısa-orta vadeli 
+işlemlerde veya aşırı aşırı satış değerlerinde ve MACD aşırı alım durumunda bu yöntem 
+uygulandığında tüm çaprazlarda optimal sonuçlar sağlamaz. altında:
+ile.satın alma sinyaliYeterince uzun bir önceki dönemle 
+karşılaştırıldığında, MACD'nin daha düşük bir uç değerinde meydana 
+gelir. MACD hareketli ortalamasını veya sinyal çizgisini yukarı doğru 
+geçtiğinde satın alma sinyali onaylanabilir.
+B.satış işaretiYeterince uzun bir önceki zaman dilimine kıyasla MACD'nin 
+daha yüksek bir uç değerinde meydana gelir. Satış sinyali, MACD'nin 
+hareketli ortalamasının aşağı doğru kesişmesiyle doğrulanabilir.
+Hareketli ortalamaların yakınsaması ve ıraksamasının bir göstergesi olan MACD, aynı 
+zamanda MACD sıfır çizgisini geçtiğinde bize alım satım sinyalleri de sağlar:
+ile.satın alma sinyaliMACD sıfır çizgisini yukarı doğru geçip üzerinde 
+kaldığında ortaya çıkar.
+B.satış işaretiMACD sıfır çizgisini aşağıya doğru geçip altında kaldığında 
+ortaya çıkar.
+STOKASTİK.
+Stokastik, bugünkü kapanış fiyatını önceki "n" günün fiyat aralığıyla (genellikle 5 ila 25 seans 
+arası) karşılaştıran bir göstergedir. Stokastik, bir grafik üzerinde 0 ile 100 arasında değişen 
+bir yüzde olarak görüntülenir; burada 50 seviyesi, bugünkü kapanış fiyatının son 'n » 
+seansların en yüksek ve en düşük değerleri arasındaki ortalama değerde olduğunu gösterir; 
+Sıfırda ise bugünkü kapanış fiyatının son "n" seansın en düşük fiyatı olduğunu, Stokastik yüz 
+seviyesinde ise bugünkü kapanış fiyatının son "n" seansın en yüksek fiyatı olduğunu 
+gösterir. oturumlar. Dolayısıyla 70 değerine sahip Stokastik, bugünkü kapanış fiyatının son 
+"n" seanstaki fiyat aralığının en yüksek seviyesine çok yakın olduğunu açıklıyor.
+37
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+TEKNİK ANALİZ KILAVUZU
+Stokastik, grafikte %K çizgisi olarak da adlandırılan sürekli bir çizgi olarak temsil edilir; bu 
+çizgi ayrıca %D çizgisi olarak da adlandırılan kesikli bir çizgiyle temsil edilen Stokastik'in 3 
+günlük basit hareketli ortalamasını da içerir. Ek olarak Stokastik'in 20 ve 80 seviyeleri grafik 
+boyunca yatay bir çizgiyle gösterilir; öyle ki 80'in üzerindeki değerler aşırı alımı, 20'nin 
+altındaki değerler ise aşırı satışı gösterir.
+Stokastik göstergeli alım ve satım sinyalleri aşağıdaki durumlarda ortaya çıkar:
+herhangi biri
+herhangi biri
+herhangi biri
+Göstergenin ve hareketli ortalamasının kesişmesi 
+nedeniyle. Stokastik'in aşırı değerlerinde.
+Fiyat grafiğindeki farklılıkları tespit ederek.
+Stokastik ile hareketli ortalaması arasındaki kesişmelere ilişkin olarak alım ve satım 
+sinyalleri şu şekilde üretilir:
+ile. Satın alma sinyali, Stokastik (%K) hareketli ortalamasını (%D çizgisi) geçip 
+üzerinde kaldığında oluşur.
+B. Satış sinyali, Stokastik (%K) hareketli ortalamasını (%D çizgisi) aşağıya 
+doğru kestiğinde ve bunun altında kaldığında oluşur.
+STOKASTİK İLE SİNYALLER ALIN VE SATIN.
+Yukarıda açıklanan işlem, yalnızca 80'in üzerindeki veya 20'nin altındaki seviyeleri referans 
+alarak geliştirilebilir. Ayrıca fiyat grafiği ile Stokastik arasındaki farklılıklar nedeniyle 
+sinyaller de verebilir.
+38
+www.forexgercekleri.xyz - [Twitter: @eseckal]

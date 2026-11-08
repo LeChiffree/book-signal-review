@@ -1,0 +1,988 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 26\Baskı 26\Volume Trading - Jayesh Shah (35 sayfa) - @eseckal.pdf
+PAGES: 35
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İÇİNDEKİLER
+Telif hakkı
+Adanmışlık
+SORUMLULUK REDDİ
+TEŞEKKÜRLER
+BÖLÜM 1
+BÖLÜM 2
+BÖLÜM 3
+BÖLÜM 4
+BÖLÜM 5
+BÖLÜM-6
+BÖLÜM 7
+BÖLÜM - 8
+BÖLÜM-9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+BÖLÜM 1
+GİRİİŞ
+"Odaklanmak, yapmayacağınız şeylere karar 
+verme meselesidir."
+John Carmack
+Hacim, en az değer verilen göstergelerden biridir
+Hisse senedi analizi. Yatırımcıların ve tacirlerin işlem kararlarını 
+vermeden önce Hacim'e bakmadıklarını söylemiyorum. Ancak, 
+kontrol listelerinin en üstünde olması gerekirken, ya en alt sıralara 
+düşüyor ya da tamamen göz ardı ediliyor.
+Yatırımcı arkadaşlarımdan birinin en az 12 göstergesi var
+ve grafik yazılımına yerleştirilmiş 6 katman. Grafiklerinde yer 
+alan göstergeler RSI, ADX, MACD, CCI, HIZLI VE YAVAŞ 
+STOKASTİK vb.'dir. Üst katmanlar arasında Donchian Kanalı, 
+Parabolik SAR, Bollinger bandı, Ichimoku bulutları, Süpertrend 
+ve Fiyat bandı bulunur. Bir gün ona işlem kararlarını verirken 
+bunlardan hangisini takip ettiğini sorduğumda, "Hepsini" diye 
+cevap verdi.
+Bir gün onun ticareti sırasında yanında oturdum
+Faaliyet. Piyasa iyi göründüğü için bugün bir hisse senedi 
+alacağını söyledi. Taramasını yaptı ve kısa vadeli pozisyon 
+ticareti için satın alınabilecek iki potansiyel aday buldu. Ama 
+tam da bu noktada kafası karıştı.
+"RSI aşırı satım bölgesinden yükseliyor, ancak MACD ve 
+CCI bana alım sinyali vermiyor. OBV ve Stokastik'ten daha 
+güçlü bir onay bekliyorum. Yarına kadar bekleyeceğim." 
+dedi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+O gün 10 listeyi inceledi ama başaramadı
+Herhangi biri hakkında kesin bir şey söyleyemezdi. CCI iyi 
+göründüğünde, Stokastik iyi görünmüyordu. ADX bir gösterge 
+verdiğinde, RSI aşırı alım bölgesinde görünüyordu. OBV umut verici 
+göründüğünde, fiyat çok yukarı yönlü görünüyordu. O gün tek bir 
+işlem kararı bile veremezdi. Ve bu sadece bir gün değil. Çoğu gün 
+böyledir.
+Dağınık bir çalışma alanı veya masa bize zarar verebilirse
+Üretkenlik ve karar verme o zaman karmaşık bir tablonun zihnimize 
+neler yapabileceğini hayal edin?
+Bu göstergelere kesinlikle karşı değilim. Faydalılar.
+Onların yerine. Bu kitapta bahsedeceğim 1. Cilt de bir 
+göstergedir. Ancak alım satımda veya hayatın herhangi bir 
+alanında önemli olan Odaklanmadır. Grafiğe bu kadar çok 
+gösterge ve katman yerleştirerek, odağınızı her yöne çok fazla 
+dağıtıyorsunuz. İşte en önemli olanı gözden kaçırdığımız nokta 
+burası.Fiyat Hareketi ve Hacim.
+Geçmişin efsanevi yatırımcılarından bazılarını ele 
+alalım. Nicolas Darvas, işlem kararlarını vermeden önce 
+hisse senedinin büyük hacimlerle yeni bir rekor kırmasını 
+beklerdi. Düşen bir hisse senedini asla satın almazdı. 
+Daha ucuza almakla değil, doğru zamanda almakla 
+ilgilenirdi.
+Jesse Livermore, giriş yapmak için büyük hacimlere 
+sahip önemli nokta kırılmalarından bahsetti. Bu yatırımcılar 
+neye odaklandı? Fiyat Hareketi ve Hacim. İyi performans 
+gösterdiler mi? Kesinlikle! Piyasalardan büyük paralar 
+kazandılar ve birçok yatırımcı ve yatırımcıya ilham kaynağı 
+oldular. Oyunun efsaneleriydiler.
+Bu kitap, yalnızca Fiyat eylemi ve Hacim'e nasıl odaklanabileceğinize 
+ve bundan nasıl para kazanabileceğinize odaklanacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Piyasalarda tutarlı bir şekilde hareket edin. Giriş ve çıkış kararlarınızı 
+verirken Hacmi tek rehberiniz olarak nasıl kullanabileceğinizi göreceğiz.
+Ayrıca Volume'u nasıl kullanabileceğinizi de kısa bir şekilde göreceğiz.
+Bir ayda %15-40 getiri sağlayabilecek vadeli pozisyonel işlem. 
+Ayrıca, birkaç yıl içinde %1000 ve üzeri getiri sağlayan 
+Multibagger hisselerini bulmak için Hacmi nasıl rehber olarak 
+kullanabileceğinizi de göreceğiz.
+O halde bu heyecanlı yolculuğa başlayalım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+BÖLÜM 2
+HACİM NEDİR
+"Alışılmadık olanı riske atmaya istekli değilseniz, sıradan 
+olanla yetinmek zorunda kalırsınız"
+Jim Rohn
+Standart tanıma göre hacim, toplam sayıdır
+Belirli bir günde veya belirli bir dönemde işlem saatleri içerisinde 
+hisse senedi alıcıları ve satıcıları arasında takas edilen hisse 
+senetleri veya sözleşmeler.
+Ancak Hacmin önemini daha derinlemesine 
+inceleyelim. Hacim, Enerjiyi ifade eder. Hacim, Yaşamı ifade 
+eder. Hacim, Coşkuyu ifade eder. Bir örnek ele alalım. 
+Diyelim ki bir hisse senedi günde iki bin hisse senedi işlem 
+görüyor. Yani ortalama günlük hacmin yaklaşık 2000 hisse 
+olduğunu söyleyebiliriz. Hisse senedi hiçbir yere gitmez ve 
+belirli bir fiyat aralığında kalır. Buna "ölü hisse senedi" veya 
+"enerjisiz hisse senedi" diyebilirsiniz. Ne yükselir ne de 
+düşer. Zor kazandığınız parayı bu tür hisse senetlerine 
+yatırıp asla gerçekleşmeyecek bir hareket beklemek 
+istemezsiniz.
+Ancak bir gün alışılmadık bir şey olur. Hisse senedi 
+hacmi o gün 2.000'den 50.000'e, ertesi gün 1.000'e fırlar. 
+Belki şirket yeni bir ürün piyasaya sürmeye karar 
+vermiştir, mükemmel bir üç aylık rapor yayınlamıştır, yeni 
+bir sözleşme imzalamıştır, yönetimde değişiklik olmuştur 
+vb. Sebep ne olursa olsun, ölü hisse senedinin aniden 
+canlandığını görebilirsiniz. Artık onu daha yüksek bir 
+seviyeye taşımak için gereken enerjiye sahiptir. 
+Yatırımcıların coşkusu ve çok sayıda hisse senedi...
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Ölü bir hisse senedinde aniden işlem görmeye başlaması, bir 
+şeylerin değiştiğinin göstergesidir ve sizi bu değişimin bir parçası 
+olmaya davet eder.
+Yukarıdaki grafiğe bakalım. XPRO INDIA hisse 
+senedinin grafiği. Grafikte neredeyse hiç yeşil veya kırmızı çubuk 
+göremeyeceğiniz sol tarafa bakın. Bu çubuklar, günlük işlem 
+hacmini gösterir. Hisse senedi, günde ortalama 1000-2000 hisse 
+işlem görmüştür. Grafiğin solundaki yatay hareketten de 
+anlaşılacağı gibi, hiçbir yere varamamıştır.
+Kasım ortasında, hisse senedi tek bir günde 1,5 
+lakh hisse senedi işlem gördü. Bu, günlük ortalamaya 
+göre büyük bir artıştı. Grafikteki oka ve altındaki büyük 
+yeşil Hacim çubuğuna bakın. Bu hacim artışının sebebi ne 
+olursa olsun, durgun bir hisse senedine olan ilginin 
+aniden arttığını söyleyebiliriz. Sonuç olarak, hisse senedi 
+fiyatı sadece 8 ayda hisse başına 33 rupiden 300 rupiye 
+yükseldi.
+Bu tür sonuçlar yatırımcıyı şaşkına çevirir. Geri dönüp kendinizi 
+kontrol edin. Önemli bir fiyat hareketi olup olmadığını görün ve hacim 
+artışının fiyatı nasıl yükselttiğini gözlemleyin. Hacim artışından önceki ve 
+sonraki fiyat hareketini gözlemleyin.
+Hacim size önceden ne hakkında bilgi verir
+Hisse senedinde ne olacağı belli değil. Hacmi Roket yakıtı, 
+Fiyatı ise Roket olarak düşünün. Yakıt ateşlendiğinde, bir itme 
+kuvveti görevi görür ve roketi istenen yöne doğru iter. Bundan 
+faydalanabilir ve işlem sonuçlarınızı iyileştirebilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Bunu nasıl yapacağınıza dair kesin süreç sonraki 
+bölümlerde ele alınacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+BÖLÜM 3
+ANAHTARDA SES
+ALANLAR
+"Avantajlar, alıcılar ve satıcılar arasındaki savaş 
+alanlarında bulunur. Bir tüccar olarak göreviniz, 
+bu noktaları bulup kimin kazanıp kimin 
+kaybettiğini görmektir."
+Curtis Faith
+Hacim, önemli grafik alanlarında göründüğünde 
+daha da önemli hale gelir. Hacim artışı, doğrulayıcı bir 
+Fiyat Hareketi ile doğrulandığında, başarı şansınız artar. 
+Hacim artışlarına özellikle dikkat etmeniz gereken önemli 
+alanlara bakalım.
+1. Destek ve Direnç alanları
+2. 52 haftalık en yüksek ve en düşük seviyeler
+3. Önemli Hareketli Ortalamalar
+DESTEK VE DİRENÇ ALANLARI
+Bu çalışmalarda Hacmin önemine girmeden önce
+alanlar, bu alanların ne anlama geldiğini inceleyelim.
+Basit bir dille ifade etmek gerekirse,DestekDüşen hisse senetlerinin durup tersine 
+döndüğü bir alandır.
+Benzer şekilde,Rezistansilerleyen bir hisse senedinin durup geri döndüğü 
+alandır.
+Kısa satışlarda bu anlamlar tersine döner, ancak uzun 
+pozisyonlara daha fazla odaklandığımız için bu kitaptaki tanımların 
+çoğu yalnızca uzun pozisyonlar için geçerli olacaktır. Destek ve 
+direnci anlamak için aşağıdaki resme bakalım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Şimdi resme soldan sağa bakalım. Hisse senedi düştü 
+ve durduğu ve yükseldiği bir noktaya ulaştı. Düşen fiyatı 
+durdurduğu veya desteklediği için bu alan destek olarak 
+adlandırılacaktır. Hisse senedi, daha fazla ilerleyemeyeceği ve 
+aşağı kayacağı bir noktaya ulaşana kadar yükselmeye devam 
+eder. Bu alan ise, daha fazla fiyat hareketine direndiği için 
+direnç olarak adlandırılır. Düşen hisse senedi şimdi tekrar, 
+daha önce tekrar yükseldiği noktaya, yani destek alanına 
+ulaşır. Destek alanından tekrar yukarı hareket eder.Bu, 
+alıcıların o belirli bölgeye geldiğini ve daha fazla düşüşün 
+önlendiğini gösterir.Alıcıların aynı bölgeden fiyatları iki kez 
+yukarı itmesiyle destek daha da güçleniyor.
+Yükselen hisse senedi şimdi daha önce düştüğü 
+direnç bölgesine ulaşıyor. Hisse senedi bu bölgeye dokundu 
+ve tekrar düştü. Direnç bölgesi, satıcıların o noktada alıcıları 
+ezdiği doğrulanınca güçlendi. Bu döngü, bir çıkış 
+gerçekleşene kadar devam eder.
+Uzun pozisyon yatırımcısı olarak görevimiz, hisse senedi 
+Direnç bölgesine ulaştığında özellikle dikkatli olmaktır. Fiyatın bu 
+bölgeyi kırıp yükselişe geçmesini bekleyin.Kopuş.
+Bu kırılmanın bize gösterdiği şey, alıcıların fiyatı 
+dirençten geçirmeyi başardığı. Satıcıları kendi inlerinde 
+yenmeyi başardılar. Satıcıların fiyatları defalarca aşağı 
+çektiği alan artık satıcı alanı değil. Yani hisse senedi 
+buradan kolayca yükselebilir.
+Ama asıl mesele şu ki, tüm kopuşların %70'i başarısızlıkla 
+sonuçlanıyor. Peki, hangilerinin doğru, hangilerinin yanlış olduğunu nasıl 
+anlayacaksınız? Hacimcevabınızdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Fiyat güçlü bir direnç alanını kırdığında olağanüstü bir 
+hacim arayın. Kırılma günü hacmi şu kadar olmalıdır:en az iki 
+kezKırılma sırasında hissenin ortalama günlük hacmi.Kopuş 
+günü hacmi ne kadar büyükse o kadar iyidir.Daha önce de 
+belirttiğimiz gibi, Hacim coşku ve enerjiyi ifade eder. Bir 
+hareketi onaylar. Kopuşlarınızın hacimdeki bir artışla 
+onaylanmasını istersiniz. Aksi takdirde, uzak durun çünkü 
+düşük hacimli bir kopuş başarısızlığa meyillidir.
+Şimdi bunu anlamak için aşağıdaki tabloya bakalım
+daha iyi.
+Yukarıdaki grafikte 240 fiyatının nasıl değiştiğini görebilirsiniz.
+Direnç bölgesi görevi gördü. Fiyat bu bölgeye iki kez dokundu ve 
+ikisinde de geçemedi. Ancak üçüncü denemede, alıcılar güçlü bir 
+şekilde devreye girerek fiyatı direnç bölgesine kadar ve hatta 
+ötesine taşımayı başardı. Günlük hacim, çıkış gününde 34.000 
+hisseden 200.000 hisseye yükseldi. Bu, başlangıç   sinyali. 
+Grafikte, hissenin çıkıştan sonraki sadece 2 haftada %50 değer 
+kazandığını görebilirsiniz.
+52 HAFTALIK YÜKSEKLER VE DÜŞÜKLER
+Önceki grafikte gördüğünüz kırılma
+aynı zamanda 52 haftalık bir zirveydi. Ortalamanın üzerinde bir hacimle 
+52 haftalık bir kırılmaydı. Bu yüzden her zaman büyük hacimli 52 haftalık 
+kırılmalara bakın.Burada en önemli nokta, gerçek boyutun değil, 
+göreceli boyutun önemli olduğunu hatırlamaktır.Örneğin, bir hisse 
+senedi halihazırda günde 50 lakh hisse senedi işlem görüyorsa, 70 lakh'lık 
+bir hacim hacim artışı değildir. Ancak bir hisse senedi günde yalnızca 10 
+lakh hisse senedi işlem görüyorsa ve aniden 70 lakh'lık bir hacme 
+ulaşıyorsa, bu bir hacim artışıdır. Hemen harekete geçin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Aynı mantık 52 haftalık dip seviyeleri civarında da geçerlidir. 
+Dip avcılığı işlem tarzınıza uygunsa, 52 haftalık dip seviyelerde büyük 
+hacimli geri dönüşler arayın. Ancak unutmayın, bir hisse senedi fiyatı 
+gücünü haklı çıkarır. Hisse senedinin düşüşte olması ve 52 haftalık dip 
+seviyeye ulaşmasının geçerli bir nedeni olması muhtemeldir. Birçok şirket, 
+büyük bir hacim artışından sonra bile 52 haftalık yeni dip seviyelerine 
+ulaşmaya devam eder ve ardından işlemler askıya alınır. Bu yüzden dip 
+avcılığı yaparken çok dikkatli olun. İşlem dünyasında bu konuda bir uyarı 
+var.Düşen bir bıçağı asla yakalamayın.Evet, birçok yatırımcı 52 haftanın 
+en düşük seviyelerinde işlem yaparak iyi para kazanıyor. Ancak, yatırım 
+dünyasına yeni başlıyorsanız, bu yola girmemenizi tavsiye ederim.
+HAREKETLİ ORTALAMA
+Hareketli ortalamalar gecikmeli göstergelerdir.
+Fiyatta neler olduğunu merak ediyorsunuz. Ancak bazen 
+dipten bir kırılma ve önemli bir hareketli ortalamadan 
+toparlanma, patlayıcı hareketlere yol açar. Tek yapmanız 
+gereken, bu hareketin ardındaki enerjiyi ve gücü 
+hesaplamaktır. Bunu nasıl yaparsınız? Bingo! Doğru tahmin 
+etmeye başladınız. Hacim artışı.
+Daha önce de belirttiğim gibi, grafiklerimi bu kadar çok 
+gösterge ve katmanla doldurmaktan yana değilim. Ancak 
+grafiklerimde 3 belirli hareketli ortalama bulunduruyorum. Bunlar 20, 
+50 ve 200 periyotlu hareketli ortalamalar. 20 periyotlu hareketli 
+ortalama, kısa vadeli yatırımcılar tarafından işlem kararları için 
+kullanılır. Benzer şekilde, 50 periyotlu hareketli ortalama orta vadeli 
+yatırımcılar tarafından, 200 periyotlu hareketli ortalama ise uzun 
+vadeli yatırımcılar tarafından kullanılır. Üçünü de grafiklerimde tutarak 
+işlem kararlarımı kolayca verebiliyorum.
+Aşağıdaki tabloya bakalım
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Grafiğin sol tarafına bakın. Günlük hacim şu şekildeydi:
+Ortalama 70.000 dolar ve fiyat 20 ve 50 periyotluk hareketli 
+ortalamanın hemen altında dalgalandı. Ardından, fiyat o gün 
+600.000'den fazla hisse senedinin işlem görmesiyle 20 ve 50 
+periyotluk hareketli ortalamanın üzerine çıktı. Bu sinyaldi. Hareketli 
+ortalamanın kırılmasından önce çok küçük hacim çubuklarının 
+olduğunu ve ardından bir hacim artışının günlük hacim artışına 
+nasıl yol açtığını görebilirsiniz.
+Bu hacim artışı aynı zamanda hissenin sadece 3 ayda iki katından 
+fazla değer kazandığı yeni bir trendin de ortaya çıkmasına neden oldu ve grafiğe 
+yakından baktığınızda trendin hala geçerli olduğunu ve bugüne kadar devam 
+ettiğini görürsünüz.
+Bu yüzden her zaman tam olarak nerede olduğuna özellikle dikkat edin
+Grafikte hacim artışının yaşandığını görün. Bu bölümde ele 
+aldığımız temel alanları belirleyin ve Hacim Artışı'nı arayın. 
+Bu, genel işlem katsayılarınızı iyileştirecektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+BÖLÜM 4
+HACİM VE
+ŞAMDANLAR: A
+ÖLÜMCÜL
+KOMBİNASYON
+"Mümkün olduğunca ucuza satın almak değil, doğru 
+zamanda satın almak önemlidir."
+Jesse
+Livermore
+Mum grafikleri, işlemlerinize avantaj sağlar.
+Hacim artışı, eşdeğer bir fiyat artışıyla birlikte gerçekleştiğinde 
+daha da belirgin hale gelir. Mum grafikleri bu fiyat modellerini 
+tasvir etmede en iyi yöntemdir.
+İdeal bir kopuş arıyorsanız,
+Çıkış günü sadece büyük bir hacimle değil, aynı zamanda günlük 
+aralığının tepesinden kapanan büyük bir mum oluşumuyla da sonuçlandı. 
+Neden mi? Çünkü bu, alıcıların gücünü teyit ediyor. Alıcıların sadece 
+büyük sayılarda gelmekle kalmayıp, aynı zamanda hisse senedi için daha 
+yüksek bir fiyat ödemeye de istekli olduklarını gösteriyor. İşte bu yüzden 
+büyük bir mum oluşuyor.
+Kopuş günü mumunun Doji veya düşüş mumu 
+olmasını istemezsiniz. Kopuşta bir Doji, önemli bir Hacim 
+artışından sonra bile kararsızlık olduğunu gösterir. Bu, 
+pozisyon almak için ideal bir senaryo değildir.
+Bir kırılma anında oluşan düşüş mumu daha da 
+tehlikelidir. Bu, hacim artışının, kırılma anında yoğun satış 
+yapmayı başaran ve kırılma gününde düşüş mumu 
+oluşturan satıcıların lehine olduğunu gösterir.
+Böylece, güçlü bir mumun Hacim bazlı kararlarınıza nasıl avantaj 
+sağladığını görebilirsiniz. Geçmiş fiyatları inceleyin ve inceleyin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Desenleri inceleyin ve güçlü bir mumun kırılmasının zayıf bir mumun kırılmasına göre 
+nasıl bir üstünlüğe sahip olduğunu gözlemleyin.
+Şimdi bazı yaygın fiyat geri dönüşlerine bakalım
+Desenler ve her birinde Hacmin önemi. Bu desenlerin 
+nasıl oluştuğuna derinlemesine girmeyeceğiz. Asıl 
+odaklanacağımız şey, bu desenlerin sizin için nasıl son 
+derece karlı olabileceği.
+BOĞA YUTMA
+Boğa yutma, en sık görülen fiyat geri dönüş 
+formasyonlarından biridir. Aşağıda paylaşılan resme bakarsanız, 
+ikinci mumun ilkinden daha büyük olduğunu görebilirsiniz. Mum, 
+bir önceki günün en düşük seviyesinin altında açıldı ve ardından 
+günü bir önceki günün en yüksek seviyesinin üzerinde 
+tamamlayarak önceki mumu tamamen yuttu. Bu, boğaların 
+fiyatın kontrolünü yeniden ele geçirdiğini ve bir önceki günün 
+düşüş hareketini tamamen tersine çevirmeyi başardığını 
+gösteriyor. Dolayısıyla, ideal olarak fiyat artışıyla birlikte bir 
+Hacim artışı görmek istersiniz.
+Yukarıdaki tabloya bakın ve büyük
+Mum, bir önceki günün mumunu tamamen yuttu. Hacim de 
+18 lakh'tan 23 lakh hisseye yükseldi ve bu da modelin güçlü 
+olduğunu gösteriyor. Grafikte görebileceğiniz gibi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Sadece 2 haftada %50 getiri sağlayan güçlü bir yukarı hareketle 
+sonuçlandı.
+Eğer boğa engulfing formasyonunu oluşmuş ancak 
+hacim bir önceki günden fazla değilse işleme girmeyin.
+BOĞA DELİCİ DESENİ
+Delme formasyonunda da Boğa Yutma 
+formasyonuna benzer, tek fark fiyatın bir önceki günün 
+gövdesine derinlemesine girmesi ancak bir önceki günün 
+Açılış seviyesinin üzerine çıkmamasıdır.
+Burada da ikinci gün hacminin ilk günden daha yüksek 
+olmasını istersiniz. Eğer böyle değilse, girmeyin.
+BOĞA ÇEKİÇ DESENİ
+Çekiç Formasyonu aynı zamanda en güçlü geri dönüş 
+formasyonlarından biridir. Burada en önemli şey, çekiç günündeki 
+hacimdir.
+Büyük bir alt fitil ile oluşan yüksek hacim, açılıştan 
+sonra ayıların fiyatları düşürmeyi başardığını, ancak gün içinde 
+bir ara boğaların tüm gücüyle gelip fiyatları yükselttiğini 
+gösteriyor. Bu nedenle uzun alt fitil ve bunun sonucunda 
+oluşan Çekiç formasyonu. Dolayısıyla, çekiç formasyonundaki 
+iyi bir Hacim, boğaların gücünün bir göstergesidir. Ertesi 
+güne, çekiç gününün zirvesinin üzerinde girebilirsiniz.
+Bu bölümde ele alınan 3 dönüş modelinden de 
+görebileceğiniz gibi Hacim her modelde önemli bir rol oynar.
+Hacim desene geçerlilik kazandırır.Zayıf hacimle yapılmış 
+bir desen başarısızlığa meyillidirve diğer yandan, Desen 
+oluşumunun karar gününde büyük hacimler uzun pozisyona 
+geçmenin bir göstergesidir.
+Daha birçok desen ekleyebilir ve bu desenlerin nasıl oluştuğuna dair 
+analiz kısmını derinlemesine inceleyebilirim, ancak sanırım ana fikri anladınız. 
+Herhangi bir grafik deseninde işlem yapmadan önce Hacmin sizin lehinize 
+olduğundan emin olun. Giriş yapmadan önce dikkat etmeniz gereken en 
+önemli şey budur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+BÖLÜM 5
+GİZLİ BİR STRATEJİ
+ZAMANLAMANIZ İÇİN
+GİRİŞ
+"Basit tutun. İyi uygulanan, zamanla test edilmiş basit 
+yöntemler, her zaman gösterişli ve karmaşık yöntemlerden 
+daha iyidir."
+Curtis Faith
+Geçmişin ve günümüzün tüm başarılı yatırımcıları
+Piyasalarda başarılı oldular çünkü bir sisteme bağlı kaldılar. 
+Giriş ve çıkış için net kuralları var. Uygun kurulumun ortaya 
+çıkmasını beklemeye hazırlar ve asla sıradan görünen bir 
+kuruluma atlamazlar. İşlemler aleyhlerine sonuçlanırsa, 
+zararlarını hızla keserler.
+Planlarını uygularken muazzam bir disiplin gösterirler. 
+Takip ettikleri sisteme göre bir "başla" sinyali gelene kadar işlem 
+yapmazlar. İpuçlarına ve tavsiyelere dayanarak işlem yapmazlar. 
+Arkadaşlarından bir ipucu aldıktan sonra, bu "ipucunun" kendi 
+işlem sistemlerine uyup uymadığını derinlemesine araştırırlar. 
+Uymuyorsa, tamamen görmezden gelirler. Zarar durdurma 
+emirlerini asla düşürmezler. Bu disiplin, piyasalardaki başarılarını 
+garantiler.
+Geçmişin efsanevi yatırımcılarını incelerseniz, iyi 
+tanımlanmış bir sistemin başarılarındaki rolünü 
+anlayacaksınız. Jesse Livermore, bir işleme girmeden önce 
+önemli noktalarda en az 5 puanlık veya daha fazla bir kırılma 
+beklerdi. Nicolas Darvas ise, hisse senedinin yüksek hacimle 
+en üstteki kutunun tepesini aşmasını beklerdi. William J. 
+O'Neil'ın CANSLIM'i kendi başına eksiksiz bir sistemdir.
+Yerinde bir sisteme sahip olmak, işlem alanında size avantaj 
+sağlar. Sabit giriş ve çıkış kurallarına sahip olmak, size tasarruf sağlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Birçok yeni yatırımcının her gün yaptığı dürtüsel ve 
+duygusal işlemlerden.
+GİRİŞ KURALLARI
+Aşağıda katılım kuralları yer almaktadır. Bunlar uzun sürelidir.
+sadece pozisyonlar.
+1. Bugün (1. Gün) 52 haftanın en yüksek seviyesi olmalı.
+2. Bugün oluşan mum, günün aralığının en üstünde veya 
+yakınında kapanmalıdır.
+3. Bugünkü hacim, o hisse senedinin geçen ayki 
+ortalama günlük hacminin iki katından fazla 
+olmalıdır.
+4. Yukarıdaki tüm koşullar sağlanıyorsa, hisseyi 2. günde, 1. 
+günün zirvesinin bir puan üstünden satın alırız.
+Şimdi bu kuralların arkasındaki nedenleri inceleyelim, böylece neden bunlara 
+bağlı kalmanız gerektiğini daha net anlayacaksınız.
+Neden 52 haftalık zirve?
+Bir hisse senedinin içsel gücü
+Fiyatı tarafından doğrulandı. Hisse senedi 52 haftalık zirvede işlem 
+görüyorsa, bunun geçerli bir sebebi olmalı. Hisse senedi iyi 
+durumda olmasaydı, pek çok kişi ona ilgi göstermezdi ve bir aralıkta 
+durgunlaşırdı. Hisse senedi çok kötü durumda olsaydı, birçok kişi 
+mümkün olan en kısa sürede hisse senedinden çıkmayı düşünürdü 
+ve tekrarlanan satışlar nedeniyle hisse senedi düşüşe geçerdi. 
+Ancak hisse senedi 52 haftalık zirveye ulaştı. Bu, şirkette 
+yatırımcıları cezbeden iyi bir şeyler olduğu ve fiyatın 52 haftalık 
+zirveye ulaşmasının zorlandığı anlamına gelir.
+Birçok kişi 52 haftalık zirveden alım yapmaktan korkuyor.
+52 haftalık zirveden satıyorlar ve kazananlarla büyük bir kazanç 
+elde etme fırsatını kaçırıyorlar. Profesyoneller, bu zirvelerde 
+sizden hisse satın alıyor ve siz fırsatı kaçırdığınızı hissedip 
+duygusal olarak atladığınızda, çok daha yüksek bir fiyattan tekrar 
+size satıyorlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Ayrıca, hisse senetleri 52'ye ulaştı
+haftalar
+Yüksek olanlar, kendilerini kazanan olarak kanıtlamış olanlardır. Hisse 
+senediniz sürekli düşüş gösteriyorsa, uzun pozisyonlarınızla nasıl para 
+kazanacaksınız? Hisse senedinizin mümkün olduğunca uzun süre yükseliş 
+trendinde kalmasını ve bu süreçte 52 haftalık yeni zirvelere ulaşmaya 
+devam etmesini istersiniz.
+Uzun vadeli yatırımcıların para kazanma şekli budur. 52 
+haftalık zirveden satış yapmazlar. Öte yandan, seçtikleri hisse 
+senedi satın aldıktan sonra yeni bir zirveye ulaştığında mutlu 
+olurlar. Bu, kararlarının doğru olduğunu ve hisse senedinin 
+beklendiği gibi yükseldiğini gösterir.
+Güçlü Bir Mum Neden Breakout'ta Kapanır?
+Daha önce de belirttiğimiz gibi, güçlü bir mum kapanışı, 
+hareketin arkasındaki gücü gösterir.
+İdeal olarak, kırılma gününde, tepede veya tepesine yakın bir yerde 
+kapanan ve gövdesine kıyasla çok küçük bir üst fitil oluşturan büyük 
+bir mum istersiniz.
+Kazandığınız sermayeyi yatırmadan önce, çıkış 
+mumunun güçlenmesini istersiniz.
+Büyük bir üst fitili olan bir çıkış günü mumu 
+istemezsiniz. Bu, satıcıların çıkıştan sonra fiyatları aşağı 
+çekmeyi başardığını gösterir. İdeal bir senaryo değil. Ayrıca, 
+çıkışta bir Doji, hem alıcılar hem de satıcılar açısından 
+kararsızlık anlamına gelir. Bunu da istemezsiniz.
+Mumlar, günün sonunda kontrolün kimin eline 
+geçtiğini net bir şekilde gösterir: Ayılar mı, Boğalar mı? İşlem 
+yaparken kaybeden tarafta olmak istemezsiniz.
+Bazen bir hisse senedi 52 haftalık zirveyi aştıktan sonra 
+geri döner ve sert bir düşüş yaşar. Ne olduğunu açıklayayım. 
+Birkaç yatırımcı 52 haftalık zirvede akıllıca hamleler yapar. Fiyatı 
+52 haftalık zirvenin üzerine çıkarmak için küçük bir lot alırlar. 
+Fiyatın zirvede tutunamadığını görürlerse, pozisyonlarını hemen 
+kısa pozisyona geçirirler. Ardından hisse senedini aşağı doğru 
+çekerler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Bu nedenle her zaman güçlü bir kapanışa sahip uzun bir mum arayın
+Çıkış. Ayılar ve Boğalar arasındaki mücadeleyi kimin kazandığını 
+öğrenmek için gün sonuna kadar bekleyin. Sonra kararınızı 
+verebilirsiniz.
+Kırılma anında hacim artışı neden olur?
+Sanırım artık bu sorunun cevabı çok açık olmalı. Bu 
+kitabın tamamı, Hacim artışının kararlarınızı doğrulama 
+gücüyle ilgili. Bir çıkış işlemi yapmaya karar verdiğinizde, 
+Hacmin ortalamanın üzerinde olmasını istersiniz; bu da o 
+hareketin arkasındaki gücü, coşkuyu ve momentumu 
+gösterir. Çıkış sırasında düşük bir hacim istemezsiniz. 
+Ayrıca, çıkış sırasında ortalama bir hacim de istemezsiniz.
+Kopuşlar çok önemli bir olgudur. Momentum yaratır ve 
+uzun vadeli yatırımcıları cezbeder. Kopuşun hacmi ne kadar 
+büyükse, başarı şansı da o kadar artar.
+Hacim aynı zamanda sahte kırılmalara yakalanmamanıza da 
+yardımcı olur. Sahte kırılmalar düşük ila orta düzeyde hacme sahiptir ve sizi 
+olası bir geri dönüş konusunda uyarmalıdır.
+Bu nedenle hacme bakmak ve beklemek önemlidir
+Önceki 52 haftalık zirvenin üzerinde güçlü bir kapanış için uzun pozisyona geçilmesi 
+gerekiyor.
+Ertesi gün neden pozisyon alıyorsunuz?
+Ertesi gün alım yapmanın çok güçlü bir nedeni var. 
+Nedeni yukarıda tartışılanla aynı. Çıkış gününde güçlü bir 
+gün içi geri dönüşe yakalanmak istemezsiniz.
+Bazı yatırımcılar, işlemin doğru tarafında olmak için 
+günün son 10 dakikasını bekler. Ancak son 5 dakika civarında 
+çok güçlü geri dönüşler gördüm. Bunlar keskin ve sert 
+düşüşlerdir ve alıcı tuzağa düşer.Bir CLOSE kapanana kadar 
+CLOSE değildir. Umarım konuyu anlamışsınızdır.
+Ertesi gün de alım emrinizi açılışta vermeyin. Bazen bir 
+önceki gün güçlü bir kapanıştan sonra, hisse senedi ertesi gün 
+büyük bir yukarı yönlü boşlukla açılır ve geri döner. Emriniz daha 
+sonra günün en yüksek noktasında gerçekleştirilir ve siz de...
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+hemen kaybedersiniz. Bu yüzden ertesi gün ilk birkaç dakikayı 
+bekleyin.
+Küçük bir yukarı yönlü boşluk endişe verici değil. Fiyatın 
+15 dakika boyunca önceki zirvenin üzerinde kalmasını bekleyin 
+ve girişinizi yapın. Negatif bir açılışa karşı dikkatli olunmalıdır. 
+Hisse senedinin tekrar yükselip önceki günün zirve seviyesini 
+geçmesini bekleyin. Aksi takdirde, uzak durun. Bazen, hisseyi 
+uzun süre elinde tutan çoğu yatırımcı, işleri veya yoğun 
+programları nedeniyle çıkış gününü kaçırır. Gece fiyatı görürler 
+ve artık başabaş noktasında satış yapabilecekleri için mutlu 
+olurlar. Sabah hemen satıp işlerine giderler. Bu, gün için negatif 
+bir açılışa yol açar. Mutlu alıcılar daha sonra gelip fiyatları tekrar 
+yükseltir.
+Hisse senedine girdikten sonra ilk zarar durdurma emrinizi koruyun
+Çıkış günü mumunun dip seviyesinin altında (1. Gün). Çıkış sinyalini alana kadar 
+trendi takip edin. Bu konu hakkında daha fazla bilgiyi bir sonraki bölümde 
+bulabilirsiniz.
+Unutmayın, satın alımlarınız için kesin kurallara sahip olarak
+Satış yaptığınızda otomatik olarak en iyi %5'lik yatırımcı kitlesine girersiniz. 
+Frank Mylnarczyk'in doğru bir şekilde söylediği gibi, "Yatırımcıların %5'i ne 
+yaptığını biliyor, %10'u %5'i takip ediyor ve %85'i son derece zor zamanlar 
+geçiriyor."
+Bu yüzden ilk %5'te yer almaya çalışın. Yeterince disiplinli olun.
+Kurallarınıza uyun, başarı da gelecektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+BÖLÜM-6
+ÇIKIŞ KURALLARI
+İŞLEMLERİNİZ
+"Zararların devam etmesine izin vermek, çoğu yatırımcının 
+yaptığı en ciddi hatadır."
+Benjamin
+Graham
+Ticarette, uygun bir çıkış stratejisi daha da önemlidir
+Girişten daha önemli. Birçok yatırımcının, uygun bir çıkış stratejisi 
+olmadığı için tüm kazançlarını geri verdiğini gördüm. Çıkış planı 
+olmayan bir yatırımcı, para kazanır ancak geri dönüş sırasında geri 
+verir. Ayrıca, zamanında çıkış yapmadığı ve kayıplarının artmasına izin 
+verdiği için zarar eden hisse senetlerinde de para kaybeder.
+Bir örnek verelim. 100 TL'den bir hisse senedi aldınız. 
+Ertesi gün 106 TL'ye yükselerek size %6 kâr sağladı. 
+Beklediniz. 3. gün hisse senedi düşmeye başladı ve 104 
+TL'ye geriledi. Kârınızın sadece %4'e düşmesinden ve tüm 
+kârınızı yok etmeden önce satıştan çekilmeniz gerektiğinden 
+korktunuz. Satış emrinizi verdiniz ve hisse senedi ortalama 
+103 TL'den satıldı. %3 kâr elde ettiniz ve sevindiniz. Bir ay 
+sonra fiyatı kontrol ettiniz ve hisse senedi artık 130 TL'de. 
+Çok erken sattınız.
+İkinci senaryoyu hayal edelim. Bir tane satın aldınız.
+Hisse senedi 100 rupiden işlem görüyor. Ertesi gün 98 rupiye düşüyor. "Önemli 
+değil. Yarın tekrar yükselir." diye düşünüyorsunuz. Yükselmiyor.
+Hisse senedi düşmeye devam ediyor ve sen
+Sonunda tekrar yükseleceğini ummaya devam edin. 80'e ulaştığında bile 
+satmak yerine ortalamayı düşürmeyi düşünüyorsunuz. Ortalama alım 
+fiyatınızı düşürmek için daha fazla hisse alıyorsunuz. Fiyat düşüşünün 
+geçerli bir sebebi olabileceğini tamamen göz ardı ediyorsunuz. Hisse 
+senedi bir ay içinde 50'ye ulaştığında tüm umudunuzu kaybediyorsunuz. 
+Buradan %100'lük bir hareket yapması gerektiğini biliyorsunuz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+(50 TL ile 100 TL arası) paranızı geri almak için. Daha fazlasına 
+dayanamayıp büyük bir zararla satıyorsunuz.
+Yukarıdaki örnekler hayal ürünü değildir. Bu tür senaryolar 
+yatırımcıların başına düzenli olarak gelir. Yatırımcıların %80'inden 
+fazlası bu nedenle piyasalarda para kaybeder.
+Uygun bir şekilde davranılarak böyle bir durumun önüne geçilebilir.
+Çıkış planınız hazır. Hisse senedinin lehinize veya aleyhinize hareket 
+etmesi fark etmeksizin her iki senaryo için de bir çıkış planınız olmalı. Her 
+iki senaryoyu ve bunlarla karşılaştığınızda ne yapmanız gerektiğini 
+inceleyelim.
+KÂR ETTİĞİNİZDE
+Bu, her yatırımcının isteyeceği bir senaryo. Bir hisse senedi satın 
+alıyorsunuz ve size bir veya iki gün içinde, ne kadar az olursa olsun, kâr 
+gösteriyor. Burada da, bir sonraki adımınızın ne olacağına karar vermek için 
+Hacim'e bakmalısınız.
+Küçük bir kâr elde ediyorsanız, kârınızı erkenden kaydetmeyi 
+düşünmeyin. Fiyat hareketi ve Hacim, bundan sonra ne yapacağınız 
+konusunda size rehberlik etsin.
+Girişinizden sonra, ilk durağınızı düşük seviyenin altına yerleştirin
+çıkış günü mumu.Asla, tekrar ediyorum, asla ilk stop loss 
+seviyenizi düşürmeyin.Birçok yatırımcı, zararlarını hızlı bir şekilde 
+kesemediği için piyasalarda istikrarlı bir şekilde para kazanmayı 
+başaramıyor.
+Şimdi fiyat hareketine yakından bakın. İdeal senaryoda, Hacim 
+yükseliş günlerinde yüksek olmalı ve düşüş günlerinde önemli ölçüde 
+azalmalıdır. Biz buna "Düşük Hacim Geri Çekilmesi" diyoruz ki bu iyi bir 
+şey. Bu, zirvede çok fazla satış olmadığı ve daha fazla yükseliş 
+hareketinin mümkün olduğu anlamına gelir. Ancak, girişinizden 
+sonraki gün yüksek hacimli bir satış görürseniz, stop-loss emrinizi çıkış 
+günü mumunun dip seviyesinin altına çekin.
+Bu şekilde, birikmiş kârınızın tamamını geri vermenizi 
+önleyebilirsiniz. İzleyebileceğiniz bir diğer strateji de, fiyat hedef 
+noktanıza ulaştığında kârınızın yarısını çekmektir. Diyelim ki satın 
+alma fiyatınızdan %20 veya %25 yukarıda. Kalan yarım 
+pozisyonunuzun bir trend görene kadar devam etmesine izin verin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Tersine çevirme. Bu şekilde, ne olursa olsun haklı çıkarsınız. 
+Hisse senedi düşerse, en azından pozisyonunuzun yarısını makul 
+kârlarla satmış olursunuz ve kalan yarısını başabaş noktasında 
+satabilirsiniz. Diğer yarısı yükselirse, iyi şanslar!
+Kalan yarısını istediğiniz kadar uzun süre kullanabilirsiniz. 
+Ayrıca, size zaten iyi bir kâr sağladığı için hareket etmesi için boş 
+alan da bırakabilirsiniz.
+POZİSYONUNUZ ZARARLI OLDUĞUNDA
+Bu, herhangi bir yatırımcı için en acı verici senaryodur.
+Bir hisse senedi satın alırsınız ve anında zarar ettiğinizi görürsünüz. Beklersiniz ve 
+zararınız artmaya devam eder. Bu durum en zeki yatırımcıları bile zorlar.
+İşte bu noktada, kesin bir başlangıç   zarar durdurma 
+emrine sahip olmak şarttır. Dahi bir yatırımcı, yalnızca %40 oranında 
+haklı çıkabilir ve kazançlarını hızla artırıp zararlarını hızla keserse yine 
+de para kazanabilir. Bazılarımız ise tam tersini yapar. İşte bu yüzden 
+sonuçlarımız ortalamadır.
+Başlangıçta stop loss'u düşük seviyenin altına yerleştirin
+Çıkış günü mumu. Fiyat bunun altına düşerse, hemen 
+satıp mumdan çıkın.
+Warren Buffet'ın en ünlü iki kuralı şunlardır:
+1. Kural 1: Asla para kaybetmeyin. ve
+2. Kural 2: Kural 1'i asla unutma.
+Yukarıdaki 2 kural, ticaretin özüdür. Tüm sermayenizi 
+kaybederseniz, tekrar nasıl yatırım yaparsınız? Savaşın ilk 
+gününde tüm adamlarınızı kaybederseniz, ikinci gün sizin için 
+kim savaşır? Ticarette ilk odak noktanız, zor kazanılan 
+sermayenizi biriktirmek ve ardından para kazanmak olmalıdır.
+İnsanlar, büyük kazanç elde etmek umuduyla tek bir işlemde 
+kaybetmeyi göze alabileceklerinden bile daha fazla miktarda para yatırırlar. 
+Sonra hisse senedi düştüğünde, yakında tekrar yükseleceğini ummaya 
+devam ederler. Hemen harekete geçmezler ve artık harekete geçmek için çok 
+geç olduğunu anlarlar.
+Bunun sizin başınıza gelmesine izin vermeyin.Zarar durdurma 
+seviyenizi asla düşürmeyin.Hatanızı kabul edin ve küçük bir hatayla oradan çıkın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Kaybetmek. Bunu yaparsanız, işlem yapabileceğiniz birçok iyi işlem fırsatı bulacaksınız.
+Bir örnek verelim. 1 lakh sermayeniz var ve
+Tüm paranızı "A" adlı tek bir hisse senedine yatırdınız. Bu hisse senedinde 
+%5 zarar ettiniz ve sermayeniz 95.000'e düştü.
+95000 Rs'nin tamamını yatırarak ikinci bir işlem yapıyorsunuz
+"B" adlı hisse senedini alıp tekrar 5000 kaybettim. Şimdi sermayeniz 
+90000'e düştü.
+Şimdi C adlı hisse senedine 90000 TL yatırım yapıyorsunuz
+Yükselişe geçti. Hisse senedinin kısa sürede %50 değer kazandığını 
+görüyorsunuz. 90.000'iniz artık 1.35.000.
+Dikkatli bakarsanız, 3 işlemden sadece 1'inde kazanan işlem 
+yapmışsınız.Başarı oranı sadece %33.33 ama yine de iyi para 
+kazandınız.Nasıl mı? Çünkü kaybedenlerinizi hemen eleyip 
+kazananlarınızın yoluna devam etmesine izin verdiniz.
+İşlem yapmadan önce eksiksiz işlem planınızı hazır bulundurun
+İşlemi yapın. Zarar durdurma noktanızı belirleyin. İşleminiz ters giderse 
+ne kadar kaybetmeye razı olduğunuzu belirleyin. Ayrıca, işlem lehinize 
+sonuçlanırsa çıkış stratejinizi belirleyin. Pozisyonunuzun yarısını %25-30 
+kazançla kapatıp diğer yarısının işlem yapmasına izin mi vereceksiniz, 
+yoksa kazancınızdan memnun kalarak tüm pozisyonu mu kapatacaksınız?
+Bir işlem planına sahip olmak, zihninizi piyasanın iniş 
+çıkışlarından uzak tutar ve duygusal olmaktan çok mantıklı bir 
+şekilde işlem yapmanızı sağlar. İşlem sonuçlarınız önemli ölçüde 
+iyileşecektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+BÖLÜM 7
+NASIL KULLANILIR
+BULUNMASI GEREKEN HACİM
+ÇOKLU ÇANTACI
+HİSSELER
+"İvme, sizin lehinize çalıştığında muhteşem bir 
+şeydir."
+Simon Mignolet
+Fiyatını iki katına çıkaran hisse senetlerine iki katlı hisse denir.
+Fiyat 10 kat artarsa, 10 kat artış olur. 100 kat artış, her 1 rupi yatırım 
+için 100 rupi geri kazandıran bir hisse senedidir. Dolayısıyla, çoklu 
+kat artışlar, fiyatları ilk yatırım değerlerinin birkaç katına çıkan hisse 
+senetleridir. Portföyünüzde bu hisselerden sadece bir veya ikisine 
+sahip olmanız, bir servet kazanmanız için yeterlidir.
+Şimdi asıl zorluk, bunu nasıl bulacağınızdır
+Bu tür hisse senetleri. Burada momentum ilkesini 
+anlamalısınız. Sadece bir gün spor salonuna gidip bir daha hiç 
+gitmeyerek fit bir vücut yaratamazsınız. Bir roketi uzaya 
+göndermek için sürekli bir itme kuvveti gerekir. Benzer 
+şekilde, bir günlük hacim artışı Çoklu Çantalar yaratmaz.
+Kopuş günündeki Hacim artışlarının çoğu
+Ardından bir iki gün boyunca iyi bir hacim gelir. Bu hacim 
+artışıyla birlikte fiyat da yükselir. Ancak hacim azaldıkça, 
+fiyat ya düşer ya da aralıkta kalır. Bazen bu hacim artışının 
+yarattığı zirveyi aşmak aylar hatta yıllar alır. Bir hissedar 
+beklemeye devam eder.
+Eğer portföyünüzde çok katlı hisse senetleri bulundurmak istiyorsanız
+Portföyünüzde, günlerce hacim artışı gösteren hisse senetlerini bulmanız 
+gerekiyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Bir örnek verelim. NAHAR SPINNING MILLS 
+hisseleri Ağustos 2020'de 36 rupiden işlem gördü. Bir gün 
+hacim, günlük ortalama 14-15 bin rupiden 1,3 lakh'a fırladı. 
+Bu, fiyatı 42 rupiye çıkardı. Ancak daha sonra hacim kurudu 
+ve hisse senedi yatay seyretti. Fiyat, 3 ay boyunca ne yukarı 
+ne de aşağı hareket etmeden 36-44 rupiye aralığında kaldı. 
+Ortalama günlük hacim tekrar 13-14 bin rupiye düştü.
+Ancak Kasım ayındaki çıkış hacimle geldi
+Çıkış gününde 2 lakh'lık bir hareket yaşandı. Bu sefer hareket 
+sürdürülebilirdi.
+Hacim tüm ay boyunca yüksek kaldı
+Günlük 90.000 ila 1,3 lakh hisse arasında işlem görüyor. 
+Şirketin iyiliği için bir şeylerin değiştiğini hissedebiliyoruz ve 
+bu yüzden hisseye bu kadar büyük bir ilgi oluştu. Bu tek 
+seferlik bir artış değil, günlerce süren sürekli bir hacim 
+artışıydı. Sonuç olarak, hisse senedi sadece 8 ayda 43'ten 
+400'e yükseldi. %830 gibi muazzam bir yatırım getirisi.
+Başka bir örneğe bakalım. XPRO INDIA uzun süre 
+16 ila 20 rupi arasında işlem gördü. Ortalama hacim 
+günlük 8.000-10.000 hisseydi. Ardından Haziran 2020'de, 
+hissenin 16 rupiden 34 rupiye yükseldiği büyük bir çıkış 
+yaşandı.
+Hacim günlük 1-2 lakh hisseye yükseldi ve 2 hafta boyunca yüksek 
+hacimli günler geçirmeye devam etti. Bu, bir sıçrama tahtası olarak 
+gereken sürdürülebilir hareketti. Hisse senedi, 2 ay boyunca düşük 
+hacimlerde düzeltme yaptıktan sonra olağanüstü yükselişe geçti. 
+Bir yıl içinde hisse senedi 320 Rupi'lik zirveye ulaştı ve yükselişini 
+sürdürüyor. 20 Rupi'den 320 Rupi'ye bir yıldan biraz fazla bir sürede 
+%1500'lük bir hareket gerçekleşti.
+Bir veya iki ay süren sürekli bir hacim artışının hisseyi 
+baş döndürücü seviyelere taşıdığı birçok örnek var. 
+Geçmişteki kazananlara göz atın ve hacim artışının 
+yaşandığı bu alanları bulun.
+Yapabileceğiniz bir diğer şey de, grafik yazılımınızda haftalık 
+bir grafik çizmek ve ardışık yüksek hacimli haftaları aramaktır. Bu, sizi 
+yaklaşan büyük bir hareket konusunda uyaracaktır ve
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Pozisyonlarınızı önceden alabilirsiniz. Aşağıdaki grafiğe 
+bakalım.
+Bu Nahar İplik Fabrikası'nın haftalık grafiğidir.
+Haftalık hacmin nispeten düşük olduğu grafiğin sol alt kısmına 
+bakın. Ardından ok işaretine bakın. 3-4 hafta üst üste yüksek 
+hacimli yükseliş görebilirsiniz. Bu, büyük bir hareket için 
+gereken itici güçtü. Hisse senedi 46 Rupi'den 414 Rupi'ye çıktı. 
+Sadece 8 ayda %800'lük bir hareket.
+GODAWARI POWER VE ISPAT, günlük ortalama 50-60 
+bin hacimle yatay hareket etti. Ağustos 2020'de hisse senedi, 
+üst üste 5 gün boyunca günlük 200.000 hissenin üzerinde 
+hacim gösterdi. Bu 5 günde 176'dan 240'a yükseldi.
+Ancak bu büyük fiyat ve hacim artışı, daha fazlasının geleceğini 
+gösteriyordu. Hisse senedi, sadece bir yılda 240'tan 1800'e çıktı. 
+Bir yılda %650'lik muazzam bir kazanç.
+TANLA SOLUTIONS günlük ortalamada işlem görüyor
+2-3 lakh hisse hacmi. Temmuz 2020'de, günlük 11 lakh'ın 
+üzerinde hacimle 5 gün üst üste işlem gördü. Hisse 
+senedi, sadece 5 ayda 100'den 900'e yükseldi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Hacmin günlük 2-3 bin dolara geri döndüğü bir konsolidasyon yaşandı. 
+Ancak sonraki tüm çıkışlar ortalamanın üzerinde hacimlere sahipti. Bu, 
+sadece bir yıl içinde %800'lük bir hareketle sonuçlandı.
+Hacim artışı ve çoklu çantacılar hakkında birçok örnek 
+verilebilir, ancak sanırım konu artık açık. Bu yüzden, Çoklu 
+Çantacıları takip ederken rehberiniz Hacim olsun. Geçmiş 
+kazananları inceleyin ve becerilerinizi geliştirin. Odağınızı bu sürekli 
+Hacim artışlarına odaklayın, böylece yakında çoklu çantacılarınızı 
+bulacaksınız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+BÖLÜM - 8
+İŞLERİM
+"Her gün, özellikle de başkalarının 
+deneyimlerinden öğren. Daha ucuz!"
+John Bogle
+Sir John Templeton, en çok dört
+İngilizce dilindeki pahalı kelimeler "Bu"zaman farklıdır.” Bu 
+durum hisse senetleri için de geçerli.
+Fiyat kalıpları ve hacim artışları mevcuttu
+pazar var olduğundan ve onlarkendilerini tekrar tekrar tekrarlamaya 
+devam ediyorlarEfsanevi yatırımcılar bunu anladılar ve tekrarlayan fiyat 
+modellerini tespit ederek büyük miktarda paralar kazandılar.
+Kısa bir sürede bana iyi getiri sağlayan bazı 
+işlemleri inceleyelim.
+JAGSONPAL PHARMA hissesi, yaklaşık 4 ay boyunca 35 ila 
+40 rupi arasında işlem gördü ve günlük ortalama 30-40 bin hisselik 
+bir işlem hacmine ulaştı. 14 Kasım 2020'de 48 rupi seviyesinde 
+güçlü bir çıkış yaparak günün en yüksek seviyesi 49,30'da kapandı. 
+Dikkat çekici olan hacimdi. Çıkış gününde hissenin hacmi 5 lakh'ın 
+üzerindeydi. Bu, günlük ortalama 30-40 bin hisseden büyük bir 
+artıştı. Hepsi bu. Ertesi gün, hisseyi bir önceki günün en yüksek 
+seviyesinin hemen üzerinde satın aldım. Ortalama satın alma 
+fiyatım 50 rupiydi. Aynı gün hisse 57,65 rupiden kapandı. Hareketin 
+devam ettiğini tahmin etmem doğruydu.
+Hisse senedi 9 ayda 200 Rupi'lik zirveye ulaştı. Bir yıldan 
+biraz daha kısa bir sürede %300'lük bir kazanç elde ettim, yani ilk 
+yatırımımın sadece 9 ayda 4 kat arttığını söyleyebilirim. Aşağıdaki 
+grafiğe bakın. Ok, giriş noktamı gösteriyor. Önceki günlere kıyasla 
+aşağıdaki hacim artışına bakın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Bir grafiğe daha bakalım. ADANI GREEN 
+ENERGY'nin haftalık işlem hacmi haftada yaklaşık 30 lacs 
+hisseydi. Ancak Eylül 2019'da haftalık işlem hacmi haftada 1 
+crore hisseye fırladı. 4-5 hafta sonraki tüm haftalarda her 
+hafta 1-2 crore hisse işlem gördü. Bu dikkat çekici ve sürekli 
+artışı görünce, Ekim 2019'da hisseye 58 rupiden girdim. 
+Girişimden sonra birkaç gün yatay seyretti, ancak ardından 
+büyük hacimlerle yükseliş yolculuğuna devam etti. Bir ayda 
+100'e çıktı ve Ocak 2020'de 250'ye ulaştı. Hisselerimin 
+yarısını hisseden çektim ve kalan yarısının trende ayak 
+uydurmasına izin verdim.
+Bu sürekli hacim artışı, hisseyi sadece 20 ayda 1400 
+Rs'ye taşıdı. Sadece 2 yılda %2300'lük bir hareket 
+(58-1400'den).
+Grafikteki oka bakın. 5 haftadır devam eden ve büyük 
+hacimli yükseliş hareketine bakın. Bu hisse senedine birden fazla 
+giriş fırsatı verildi. Düşüş sırasında hacmin nasıl kuruduğunu ve 
+ardından yükseliş sırasında nasıl güçlü bir şekilde geri döndüğünü 
+yakından inceleyin. Bu, trendin geçerli ve devam ettiğine dair size 
+ekstra bir onay verir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Bunlar benim işlemlerimden bazıları. Daha birçok başarılı 
+işlem paylaşabilirim ama şimdilik asıl mesele açık. Bir sistemi takip 
+edip ona sadık kalırsanız, piyasalarda başarı sizin olacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+BÖLÜM-9
+ÇÖZÜM
+"10.000 tekmeyi bir kere çalışmış adamdan 
+korkmam, ama bir tekmeyi 10.000 kere çalışmış 
+adamdan korkarım"
+Bruce Lee
+Bruce Lee'nin bu sözü hayatın her alanında ve ticarette de 
+geçerlidir. Piyasalarda servet kazanmak için, hangi kurulum olursa 
+olsun, tek bir iyi kurulumda ustalaşmanız gerekir. Eğer bir swing 
+yatırımcısıysanız, her yıl birden fazla fırsat yakalarsınız. Eğer bir 
+breakout yatırımcısıysanız, her ay bolca şansınız olur. Sorun, tek bir 
+kurulum yerine birden fazla kurulumu bir arada ustalaşmaya 
+çalıştığımızda ortaya çıkar.
+Aynı anda hem günlük işlem yapan, hem swing yapan, hem 
+pozisyon alan hem de breakout yapan biri olmayın. Birinde ustalaşın ve 
+her işi yapabilen bir yatırımcı olma tuzağına düşmeyin. Bir kurulumda 
+ustalaştığınızda, uzmanlığınızı genişletebilirsiniz.
+Grafiklerinizi bu kadar çok göstergeyle doldurmaktan ve 
+yalnızca Hacim ile işlem yapmaktan nasıl kaçınabileceğinizi anlattık. 
+Kurulumunuza her zaman güvenebilir ve hacmi ek bir onay olarak 
+kullanabilirsiniz.
+Grafiklerde çeşitli önemli alanları nasıl arayabileceğinizi ve bu 
+alanlardaki Hacim artışlarını nasıl tespit ederek iyi bir giriş noktası elde 
+edebileceğinizi ele aldık.
+Ayrıca, işleme girmeden önce uygun bir giriş, çıkış ve zarar 
+durdurma planının nasıl oluşturulacağını da ele aldık. Ayrıca, mum 
+grafiklerinin ve belirli fiyat modellerinin hacimle birleştirildiğinde 
+bir yatırımcı olarak bize nasıl avantaj sağladığını da gördük. Ayrıca, 
+hacim kullanarak çok yönlü hisse senetlerini nasıl bulabileceğinizi 
+de ele aldık.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Şimdi geri dönün ve kitabı tekrar okuyun.Bu kitapta 
+gösterilen kavram ve kurulumları uygulayın. Gerçek parayla işlem 
+yapmaya alışana kadar başlangıçta kağıt ticareti yapın. Hacim 
+artışını ve fiyatın buna nasıl tepki verdiğini belirleyin.Grafikleri 
+okumaya her gün en az yarım saat ayırın. Piyasaları düzenli 
+olarak inceleyin, karşılığını fazlasıyla alacaksınız.
+Gördüğümüz gibi, her zaman başarılı olmak zorunda 
+değilsiniz. İşlemlerinizin yarısı doğru olsa bile piyasalardan çok 
+iyi para kazanabilirsiniz. Kayıplarınızı maksimum %10'da kesin. 
+Kazançlarınızın %50, %100, %200 ve üzeri oranlarda olmasına 
+izin verin. Bu şekilde çoğu zaman piyasaların doğru tarafında 
+olursunuz.
+Unutmayın, rehberiniz olarak her zaman Hacim'e bakın
+Herhangi bir işlem kararı vermeden önce arkadaşınıza danışın. 
+Bugün, önemli bir hacim artışıyla desteklenmeyen bir sisteme 
+girmeyeceğinize karar verin. İnanın bana, bu karar tek başına 
+işlemlerinizi değiştirebilir.
+Ticaret yolculuğunuzda başarılar dilerim.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+SON SÖZLER
+Kitabımı okuduğunuz için minnettarlığımı lütfen kabul edin.
+Hacim bazlı alım satım ve yatırım konusunda faydalı bilgiler edindiğinizi 
+umuyoruz. Lütfen bunları alım satım işlemlerinizde uygulayın ve 
+sonuçlarınızın nasıl muazzam bir şekilde iyileştiğini görün.
+Herhangi bir kazara ihmalden dolayı içtenlikle özür dilerim,
+Bu kitapta tipografi veya dil bilgisi hataları bulunmaktadır.
+Eğer bu kitabı okumayı seviyorsanız, lütfen buraya tıklayın
+Amazon'a gelip bana dürüst ve faydalı bir yorum bırakmanızı rica ediyorum. Tüm 
+geri bildirimlerinizi takdir ediyorum ve ne düşündüğünüzü duymayı çok isterim. 
+Her yorum benim için çok şey ifade ediyor.
+Yorumunuzu yapmak için sadece 4 kolay adım:
+1. Amazon'daki kitap sayfasına gidin (veya bu kitabın 
+adını Amazon'da arayın).
+2. Bu kitabı bulduğunuzda, üzerine tıklayınmüşteri 
+yorumu yazMüşteri yorumları bölümünde.
+3. İncelemenizi yazın ve tıklayıngöndermek.
+4. Yorumunuzun Yayınlanıp Yayınlanmadığını kontrol edin.
+Yatırım yolculuğunuzda başarılar dilerim. Yorumlarınızı, eleştirilerinizi ve 
+başarı hikayelerinizi duymaktan memnuniyet duyarım.
+Sonsuz teşekkürler. 
+Jayesh Shah.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

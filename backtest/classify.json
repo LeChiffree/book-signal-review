@@ -1,0 +1,3826 @@
+[
+ {
+  "i": 0,
+  "batch": "batch_001",
+  "id": "A1",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 1,
+  "batch": "batch_001",
+  "id": "A2",
+  "event": false,
+  "reasons": [
+   "sinyal değil"
+  ]
+ },
+ {
+  "i": 2,
+  "batch": "batch_001",
+  "id": "A3",
+  "event": false,
+  "reasons": [
+   "geri teste alınmaz"
+  ]
+ },
+ {
+  "i": 3,
+  "batch": "batch_001",
+  "id": "B1",
+  "event": false,
+  "reasons": [
+   "asset:hisse",
+   "asset:ABD hisse"
+  ]
+ },
+ {
+  "i": 4,
+  "batch": "batch_001",
+  "id": "B2",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 5,
+  "batch": "batch_001",
+  "id": "B3",
+  "event": false,
+  "reasons": [
+   "strateji kataloğuna eklenmez",
+   "uygun değil",
+   "asset:hisse",
+   "asset:opsiyon"
+  ]
+ },
+ {
+  "i": 6,
+  "batch": "batch_001",
+  "id": "E1",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 7,
+  "batch": "batch_001",
+  "id": "E2",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 8,
+  "batch": "batch_002",
+  "id": "M1",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 9,
+  "batch": "batch_002",
+  "id": "M2",
+  "event": true,
+  "reasons": [
+   "aynı olaydır"
+  ]
+ },
+ {
+  "i": 10,
+  "batch": "batch_002",
+  "id": "M3",
+  "event": false,
+  "reasons": [
+   "işlem sinyali olarak ertelendi"
+  ]
+ },
+ {
+  "i": 11,
+  "batch": "batch_002",
+  "id": "R1",
+  "event": true,
+  "reasons": [
+   "asset:hisse"
+  ]
+ },
+ {
+  "i": 12,
+  "batch": "batch_002",
+  "id": "R2",
+  "event": true,
+  "reasons": [
+   "strateji değil"
+  ]
+ },
+ {
+  "i": 13,
+  "batch": "batch_002",
+  "id": "R3",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 14,
+  "batch": "batch_002",
+  "id": "P1",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 15,
+  "batch": "batch_002",
+  "id": "P2",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 16,
+  "batch": "batch_002",
+  "id": "P3",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 17,
+  "batch": "batch_002",
+  "id": "P4",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 18,
+  "batch": "batch_003",
+  "id": "C1",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 19,
+  "batch": "batch_003",
+  "id": "C2",
+  "event": true,
+  "reasons": [
+   "asset:hisse"
+  ]
+ },
+ {
+  "i": 20,
+  "batch": "batch_003",
+  "id": "C3",
+  "event": true,
+  "reasons": [
+   "asset:seans boşluğu",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 21,
+  "batch": "batch_003",
+  "id": "V1",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 22,
+  "batch": "batch_003",
+  "id": "V2",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 23,
+  "batch": "batch_003",
+  "id": "V3",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 24,
+  "batch": "batch_003",
+  "id": "G1",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 25,
+  "batch": "batch_003",
+  "id": "G2",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 26,
+  "batch": "batch_003",
+  "id": "G3",
+  "event": false,
+  "reasons": [
+   "asset:açılış boşluğu",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 27,
+  "batch": "batch_004",
+  "id": "I1",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 28,
+  "batch": "batch_004",
+  "id": "I2",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 29,
+  "batch": "batch_004",
+  "id": "I3",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 30,
+  "batch": "batch_004",
+  "id": "K1",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 31,
+  "batch": "batch_004",
+  "id": "K2",
+  "event": false,
+  "reasons": [
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 32,
+  "batch": "batch_004",
+  "id": "T1",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 33,
+  "batch": "batch_005",
+  "id": "S1",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 34,
+  "batch": "batch_005",
+  "id": "S2",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 35,
+  "batch": "batch_005",
+  "id": "D1",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 36,
+  "batch": "batch_005",
+  "id": "O1",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 37,
+  "batch": "batch_006",
+  "id": "F1",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 38,
+  "batch": "batch_006",
+  "id": "F2",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 39,
+  "batch": "batch_006",
+  "id": "N1",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 40,
+  "batch": "batch_006",
+  "id": "N2",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 41,
+  "batch": "batch_006",
+  "id": "N3",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 42,
+  "batch": "batch_006",
+  "id": "T1",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 43,
+  "batch": "batch_007",
+  "id": "SR1",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 44,
+  "batch": "batch_007",
+  "id": "M1",
+  "event": true,
+  "reasons": [
+   "sinyal değil",
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 45,
+  "batch": "batch_007",
+  "id": "AI1",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 46,
+  "batch": "batch_007",
+  "id": "AI2",
+  "event": false,
+  "reasons": [
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 47,
+  "batch": "batch_007",
+  "id": "Ertelenen/tekrar fikirler",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 48,
+  "batch": "batch_008",
+  "id": "RP1",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 49,
+  "batch": "batch_008",
+  "id": "B1",
+  "event": true,
+  "reasons": [
+   "tekrarı"
+  ]
+ },
+ {
+  "i": 50,
+  "batch": "batch_008",
+  "id": "B2",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 51,
+  "batch": "batch_008",
+  "id": "G8",
+  "event": false,
+  "reasons": [
+   "asset:hisse"
+  ]
+ },
+ {
+  "i": 52,
+  "batch": "batch_008",
+  "id": "G9",
+  "event": false,
+  "reasons": [
+   "pozisyon büyüklüğü"
+  ]
+ },
+ {
+  "i": 53,
+  "batch": "batch_009",
+  "id": "H9",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 54,
+  "batch": "batch_009",
+  "id": "E9a",
+  "event": false,
+  "reasons": [
+   "asset:forex",
+   "asset:seans boşluğu"
+  ]
+ },
+ {
+  "i": 55,
+  "batch": "batch_009",
+  "id": "TR9",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 56,
+  "batch": "batch_010",
+  "id": "L10a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 57,
+  "batch": "batch_010",
+  "id": "L10b",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 58,
+  "batch": "batch_010",
+  "id": "L10c",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 59,
+  "batch": "batch_010",
+  "id": "GN10",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 60,
+  "batch": "batch_010",
+  "id": "FS10",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 61,
+  "batch": "batch_011",
+  "id": "G7a",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 62,
+  "batch": "batch_011",
+  "id": "DP11a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 63,
+  "batch": "batch_011",
+  "id": "DP11b",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 64,
+  "batch": "batch_011",
+  "id": "DP11c",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 65,
+  "batch": "batch_011",
+  "id": "R11",
+  "event": false,
+  "reasons": [
+   "pozisyon büyüklüğü",
+   "asset:Dow"
+  ]
+ },
+ {
+  "i": 66,
+  "batch": "batch_012",
+  "id": "H12",
+  "event": false,
+  "reasons": [
+   "filtre deneyi",
+   "sinyal değil"
+  ]
+ },
+ {
+  "i": 67,
+  "batch": "batch_012",
+  "id": "P12a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 68,
+  "batch": "batch_012",
+  "id": "P12b",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 69,
+  "batch": "batch_012",
+  "id": "P12c",
+  "event": true,
+  "reasons": [
+   "asset:Nifty",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 70,
+  "batch": "batch_012",
+  "id": "B12",
+  "event": false,
+  "reasons": [
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 71,
+  "batch": "batch_013",
+  "id": "L13a",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 72,
+  "batch": "batch_013",
+  "id": "L13b",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 73,
+  "batch": "batch_013",
+  "id": "L13c",
+  "event": false,
+  "reasons": [
+   "asset:hisse"
+  ]
+ },
+ {
+  "i": 74,
+  "batch": "batch_013",
+  "id": "A13",
+  "event": false,
+  "reasons": [
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 75,
+  "batch": "batch_013",
+  "id": "S13",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 76,
+  "batch": "batch_014",
+  "id": "W14",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 77,
+  "batch": "batch_014",
+  "id": "B14",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 78,
+  "batch": "batch_014",
+  "id": "M14",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 79,
+  "batch": "batch_015",
+  "id": "D15",
+  "event": true,
+  "reasons": [
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 80,
+  "batch": "batch_015",
+  "id": "A15",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 81,
+  "batch": "batch_015",
+  "id": "F15a",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 82,
+  "batch": "batch_015",
+  "id": "F15b",
+  "event": true,
+  "reasons": [
+   "asset:endeks",
+   "asset:opsiyon"
+  ]
+ },
+ {
+  "i": 83,
+  "batch": "batch_016",
+  "id": "I16a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 84,
+  "batch": "batch_016",
+  "id": "I16b/I16c",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 85,
+  "batch": "batch_016",
+  "id": "A16",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 86,
+  "batch": "batch_016",
+  "id": "F16a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 87,
+  "batch": "batch_016",
+  "id": "F16b",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 88,
+  "batch": "batch_017",
+  "id": "H17",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 89,
+  "batch": "batch_017",
+  "id": "B17a",
+  "event": false,
+  "reasons": [
+   "asset:SPY",
+   "asset:hisse",
+   "asset:S&P",
+   "asset:Dow"
+  ]
+ },
+ {
+  "i": 90,
+  "batch": "batch_017",
+  "id": "B17b",
+  "event": false,
+  "reasons": [
+   "asset:hisse",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 91,
+  "batch": "batch_017",
+  "id": "B17c",
+  "event": false,
+  "reasons": [
+   "asset:hisse"
+  ]
+ },
+ {
+  "i": 92,
+  "batch": "batch_018",
+  "id": "K18a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 93,
+  "batch": "batch_018",
+  "id": "K18b",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 94,
+  "batch": "batch_018",
+  "id": "T18a",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 95,
+  "batch": "batch_018",
+  "id": "T18b",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 96,
+  "batch": "batch_018",
+  "id": "M18a",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 97,
+  "batch": "batch_019",
+  "id": "TM19",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 98,
+  "batch": "batch_019",
+  "id": "RT19a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 99,
+  "batch": "batch_019",
+  "id": "RT19b",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 100,
+  "batch": "batch_019",
+  "id": "AM19",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 101,
+  "batch": "batch_020",
+  "id": "KL20a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 102,
+  "batch": "batch_020",
+  "id": "KL20b",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 103,
+  "batch": "batch_020",
+  "id": "LB20",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 104,
+  "batch": "batch_020",
+  "id": "TS20",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 105,
+  "batch": "batch_021",
+  "id": "C21a",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 106,
+  "batch": "batch_021",
+  "id": "C21b",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 107,
+  "batch": "batch_021",
+  "id": "L21",
+  "event": true,
+  "reasons": [
+   "asset:GBP/USD",
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 108,
+  "batch": "batch_021",
+  "id": "J21",
+  "event": true,
+  "reasons": [
+   "asset:kazanç"
+  ]
+ },
+ {
+  "i": 109,
+  "batch": "batch_022",
+  "id": "F22",
+  "event": false,
+  "reasons": [
+   "asset:kazanç"
+  ]
+ },
+ {
+  "i": 110,
+  "batch": "batch_022",
+  "id": "MS22",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 111,
+  "batch": "batch_022",
+  "id": "W22",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 112,
+  "batch": "batch_023",
+  "id": "PA23",
+  "event": false,
+  "reasons": [
+   "asset:Dow",
+   "asset:kazanç"
+  ]
+ },
+ {
+  "i": 113,
+  "batch": "batch_023",
+  "id": "BV23",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 114,
+  "batch": "batch_023",
+  "id": "Karar: canlı/paper aday değil; yalnız risk karşı örneği",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 115,
+  "batch": "batch_024",
+  "id": "F24",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 116,
+  "batch": "batch_024",
+  "id": "D24",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 117,
+  "batch": "batch_024",
+  "id": "M24a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 118,
+  "batch": "batch_024",
+  "id": "M24b",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 119,
+  "batch": "batch_025",
+  "id": "T25",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 120,
+  "batch": "batch_025",
+  "id": "W25a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 121,
+  "batch": "batch_025",
+  "id": "W25b",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 122,
+  "batch": "batch_025",
+  "id": "W25c",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 123,
+  "batch": "batch_025",
+  "id": "B25",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 124,
+  "batch": "batch_026",
+  "id": "P26a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 125,
+  "batch": "batch_026",
+  "id": "P26b",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 126,
+  "batch": "batch_026",
+  "id": "S26a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 127,
+  "batch": "batch_026",
+  "id": "S26b",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 128,
+  "batch": "batch_026",
+  "id": "M26",
+  "event": true,
+  "reasons": [
+   "asset:kazanç"
+  ]
+ },
+ {
+  "i": 129,
+  "batch": "batch_027",
+  "id": "C27a",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 130,
+  "batch": "batch_027",
+  "id": "C27b",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 131,
+  "batch": "batch_027",
+  "id": "C27c",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 132,
+  "batch": "batch_027",
+  "id": "C27d",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 133,
+  "batch": "batch_027",
+  "id": "I27",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 134,
+  "batch": "batch_027",
+  "id": "Ertelenenler",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 135,
+  "batch": "batch_028",
+  "id": "G28a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 136,
+  "batch": "batch_028",
+  "id": "G28b",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 137,
+  "batch": "batch_028",
+  "id": "F28",
+  "event": false,
+  "reasons": [
+   "asset:kazanç"
+  ]
+ },
+ {
+  "i": 138,
+  "batch": "batch_028",
+  "id": "R28",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 139,
+  "batch": "batch_029",
+  "id": "B29a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 140,
+  "batch": "batch_029",
+  "id": "B29b",
+  "event": true,
+  "reasons": [
+   "filtre deneyi"
+  ]
+ },
+ {
+  "i": 141,
+  "batch": "batch_029",
+  "id": "K29",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 142,
+  "batch": "batch_029",
+  "id": "H29",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 143,
+  "batch": "batch_030",
+  "id": "R30",
+  "event": false,
+  "reasons": [
+   "asset:hisse",
+   "asset:ABD hisse",
+   "asset:Dow",
+   "asset:endeks",
+   "asset:opsiyon"
+  ]
+ },
+ {
+  "i": 144,
+  "batch": "batch_030",
+  "id": "S30a",
+  "event": true,
+  "reasons": [
+   "asset:EUR/USD"
+  ]
+ },
+ {
+  "i": 145,
+  "batch": "batch_030",
+  "id": "S30b",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 146,
+  "batch": "batch_031",
+  "id": "D31a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 147,
+  "batch": "batch_031",
+  "id": "D31b",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 148,
+  "batch": "batch_031",
+  "id": "D31c",
+  "event": true,
+  "reasons": [
+   "filtre deneyi"
+  ]
+ },
+ {
+  "i": 149,
+  "batch": "batch_031",
+  "id": "E31a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 150,
+  "batch": "batch_031",
+  "id": "E31b",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 151,
+  "batch": "batch_031",
+  "id": "R31",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 152,
+  "batch": "batch_032",
+  "id": "S32a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 153,
+  "batch": "batch_032",
+  "id": "S32b",
+  "event": true,
+  "reasons": [
+   "filtre deneyi",
+   "sinyal değil"
+  ]
+ },
+ {
+  "i": 154,
+  "batch": "batch_032",
+  "id": "P32",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 155,
+  "batch": "batch_032",
+  "id": "E32",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 156,
+  "batch": "batch_033",
+  "id": "A33",
+  "event": true,
+  "reasons": [
+   "pozisyon büyüklüğü",
+   "asset:kazanç"
+  ]
+ },
+ {
+  "i": 157,
+  "batch": "batch_033",
+  "id": "M33",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 158,
+  "batch": "batch_033",
+  "id": "T33",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 159,
+  "batch": "batch_034",
+  "id": "D34",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 160,
+  "batch": "batch_034",
+  "id": "N34a",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 161,
+  "batch": "batch_034",
+  "id": "N34b",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 162,
+  "batch": "batch_034",
+  "id": "V34",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 163,
+  "batch": "batch_035",
+  "id": "S35",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 164,
+  "batch": "batch_035",
+  "id": "R35",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 165,
+  "batch": "batch_035",
+  "id": "F35",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 166,
+  "batch": "batch_036",
+  "id": "C36",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 167,
+  "batch": "batch_036",
+  "id": "T36",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 168,
+  "batch": "batch_036",
+  "id": "I36",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 169,
+  "batch": "batch_037",
+  "id": "W37",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 170,
+  "batch": "batch_037",
+  "id": "P37",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 171,
+  "batch": "batch_037",
+  "id": "S37",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 172,
+  "batch": "batch_038",
+  "id": "Y38",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 173,
+  "batch": "batch_038",
+  "id": "D38",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 174,
+  "batch": "batch_038",
+  "id": "G38",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 175,
+  "batch": "batch_039",
+  "id": "C39",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 176,
+  "batch": "batch_039",
+  "id": "S39",
+  "event": false,
+  "reasons": [
+   "asset:hisse",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 177,
+  "batch": "batch_039",
+  "id": "M39",
+  "event": true,
+  "reasons": [
+   "asset:Dow"
+  ]
+ },
+ {
+  "i": 178,
+  "batch": "batch_040",
+  "id": "K40",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 179,
+  "batch": "batch_040",
+  "id": "M40",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 180,
+  "batch": "batch_040",
+  "id": "W40",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 181,
+  "batch": "batch_041",
+  "id": "ST41",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 182,
+  "batch": "batch_041",
+  "id": "I41",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 183,
+  "batch": "batch_041",
+  "id": "B41",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 184,
+  "batch": "batch_042",
+  "id": "I42",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 185,
+  "batch": "batch_042",
+  "id": "M42",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 186,
+  "batch": "batch_042",
+  "id": "F42",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 187,
+  "batch": "batch_043",
+  "id": "V43",
+  "event": true,
+  "reasons": [
+   "asset:hisse"
+  ]
+ },
+ {
+  "i": 188,
+  "batch": "batch_043",
+  "id": "A43",
+  "event": true,
+  "reasons": [
+   "veri yok"
+  ]
+ },
+ {
+  "i": 189,
+  "batch": "batch_043",
+  "id": "R43",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 190,
+  "batch": "batch_044",
+  "id": "FC44",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 191,
+  "batch": "batch_044",
+  "id": "C44",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 192,
+  "batch": "batch_044",
+  "id": "RS44",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 193,
+  "batch": "batch_045",
+  "id": "VG45",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 194,
+  "batch": "batch_045",
+  "id": "SB45",
+  "event": true,
+  "reasons": [
+   "asset:hisse"
+  ]
+ },
+ {
+  "i": 195,
+  "batch": "batch_045",
+  "id": "HA45",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 196,
+  "batch": "batch_046",
+  "id": "HS46",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 197,
+  "batch": "batch_046",
+  "id": "RS46a",
+  "event": false,
+  "reasons": [
+   "asset:kazanç"
+  ]
+ },
+ {
+  "i": 198,
+  "batch": "batch_046",
+  "id": "RS46b",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 199,
+  "batch": "batch_046",
+  "id": "HK46",
+  "event": true,
+  "reasons": [
+   "asset:hisse"
+  ]
+ },
+ {
+  "i": 200,
+  "batch": "batch_047",
+  "id": "HF47",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 201,
+  "batch": "batch_047",
+  "id": "RP47",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 202,
+  "batch": "batch_047",
+  "id": "RP47b",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 203,
+  "batch": "batch_047",
+  "id": "FT47",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 204,
+  "batch": "batch_048",
+  "id": "RD48",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 205,
+  "batch": "batch_048",
+  "id": "VM48",
+  "event": true,
+  "reasons": [
+   "sinyal değil"
+  ]
+ },
+ {
+  "i": 206,
+  "batch": "batch_048",
+  "id": "FM48",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 207,
+  "batch": "batch_049",
+  "id": "MA49",
+  "event": true,
+  "reasons": [
+   "pozisyon büyüklüğü",
+   "asset:SPY"
+  ]
+ },
+ {
+  "i": 208,
+  "batch": "batch_049",
+  "id": "SC49",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 209,
+  "batch": "batch_049",
+  "id": "PB49",
+  "event": true,
+  "reasons": [
+   "asset:forex",
+   "asset:kazanç"
+  ]
+ },
+ {
+  "i": 210,
+  "batch": "batch_050",
+  "id": "IB50",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 211,
+  "batch": "batch_050",
+  "id": "EW50",
+  "event": true,
+  "reasons": [
+   "sinyal değil"
+  ]
+ },
+ {
+  "i": 212,
+  "batch": "batch_050",
+  "id": "BC50",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 213,
+  "batch": "batch_051",
+  "id": "CP51",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 214,
+  "batch": "batch_051",
+  "id": "HP51",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 215,
+  "batch": "batch_051",
+  "id": "KB51",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 216,
+  "batch": "batch_052",
+  "id": "IC52",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 217,
+  "batch": "batch_052",
+  "id": "ML52",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 218,
+  "batch": "batch_052",
+  "id": "JP52",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 219,
+  "batch": "batch_053",
+  "id": "GS53",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:seans boşluğu",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 220,
+  "batch": "batch_053",
+  "id": "FD53",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 221,
+  "batch": "batch_053",
+  "id": "FP53",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 222,
+  "batch": "batch_054",
+  "id": "TW54",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 223,
+  "batch": "batch_054",
+  "id": "MM54",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 224,
+  "batch": "batch_054",
+  "id": "PQ54",
+  "event": true,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 225,
+  "batch": "batch_055",
+  "id": "TP55",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 226,
+  "batch": "batch_055",
+  "id": "TL55",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 227,
+  "batch": "batch_055",
+  "id": "PL55",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 228,
+  "batch": "batch_056",
+  "id": "RR56",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 229,
+  "batch": "batch_056",
+  "id": "ST56",
+  "event": true,
+  "reasons": [
+   "asset:forex",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 230,
+  "batch": "batch_056",
+  "id": "JA56",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 231,
+  "batch": "batch_057",
+  "id": "RT57",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 232,
+  "batch": "batch_057",
+  "id": "EP57",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 233,
+  "batch": "batch_057",
+  "id": "BM57",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 234,
+  "batch": "batch_058",
+  "id": "FL58",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 235,
+  "batch": "batch_058",
+  "id": "JK58",
+  "event": false,
+  "reasons": [
+   "asset:Dow"
+  ]
+ },
+ {
+  "i": 236,
+  "batch": "batch_058",
+  "id": "MA58",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 237,
+  "batch": "batch_059",
+  "id": "FX59",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 238,
+  "batch": "batch_059",
+  "id": "CL59",
+  "event": false,
+  "reasons": [
+   "strateji değil"
+  ]
+ },
+ {
+  "i": 239,
+  "batch": "batch_059",
+  "id": "PA59",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 240,
+  "batch": "batch_060",
+  "id": "BA60",
+  "event": false,
+  "reasons": [
+   "asset:hisse",
+   "asset:Nasdaq",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 241,
+  "batch": "batch_060",
+  "id": "AK60",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 242,
+  "batch": "batch_060",
+  "id": "MR60",
+  "event": true,
+  "reasons": [
+   "asset:hisse"
+  ]
+ },
+ {
+  "i": 243,
+  "batch": "batch_061",
+  "id": "CD61",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 244,
+  "batch": "batch_061",
+  "id": "CL61",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 245,
+  "batch": "batch_061",
+  "id": "EW61",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 246,
+  "batch": "batch_062",
+  "id": "PM62",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 247,
+  "batch": "batch_062",
+  "id": "MP62",
+  "event": true,
+  "reasons": [
+   "asset:hisse"
+  ]
+ },
+ {
+  "i": 248,
+  "batch": "batch_062",
+  "id": "JS62",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 249,
+  "batch": "batch_063",
+  "id": "SR63",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 250,
+  "batch": "batch_063",
+  "id": "TC63",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 251,
+  "batch": "batch_063",
+  "id": "TH63",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 252,
+  "batch": "batch_064",
+  "id": "DJ64",
+  "event": false,
+  "reasons": [
+   "risk yönetimi"
+  ]
+ },
+ {
+  "i": 253,
+  "batch": "batch_064",
+  "id": "JD64",
+  "event": true,
+  "reasons": [
+   "sinyal değil"
+  ]
+ },
+ {
+  "i": 254,
+  "batch": "batch_064",
+  "id": "RA64",
+  "event": true,
+  "reasons": [
+   "asset:hisse"
+  ]
+ },
+ {
+  "i": 255,
+  "batch": "batch_065",
+  "id": "MB65",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 256,
+  "batch": "batch_065",
+  "id": "TG65",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 257,
+  "batch": "batch_065",
+  "id": "ST65",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 258,
+  "batch": "batch_066",
+  "id": "FG66",
+  "event": true,
+  "reasons": [
+   "asset:kazanç"
+  ]
+ },
+ {
+  "i": 259,
+  "batch": "batch_066",
+  "id": "UC66",
+  "event": false,
+  "reasons": [
+   "asset:hisse",
+   "asset:açılış boşluğu"
+  ]
+ },
+ {
+  "i": 260,
+  "batch": "batch_066",
+  "id": "BE66",
+  "event": false,
+  "reasons": [
+   "asset:EUR/USD",
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 261,
+  "batch": "batch_067",
+  "id": "FP67",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 262,
+  "batch": "batch_067",
+  "id": "TT67",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 263,
+  "batch": "batch_067",
+  "id": "GW67",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 264,
+  "batch": "batch_068",
+  "id": "TNT68",
+  "event": true,
+  "reasons": [
+   "asset:opsiyon"
+  ]
+ },
+ {
+  "i": 265,
+  "batch": "batch_068",
+  "id": "AX68",
+  "event": true,
+  "reasons": [
+   "uygun değil"
+  ]
+ },
+ {
+  "i": 266,
+  "batch": "batch_068",
+  "id": "BT68",
+  "event": true,
+  "reasons": [
+   "asset:EUR/USD",
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 267,
+  "batch": "batch_069",
+  "id": "CH69",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 268,
+  "batch": "batch_069",
+  "id": "FBK69",
+  "event": true,
+  "reasons": [
+   "backtest kuyruğuna alınmaz"
+  ]
+ },
+ {
+  "i": 269,
+  "batch": "batch_069",
+  "id": "PS69A",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 270,
+  "batch": "batch_069",
+  "id": "PS69B",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 271,
+  "batch": "batch_069",
+  "id": "PS69C",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 272,
+  "batch": "batch_070",
+  "id": "LK70A",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 273,
+  "batch": "batch_070",
+  "id": "LK70B",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 274,
+  "batch": "batch_070",
+  "id": "JK70",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 275,
+  "batch": "batch_070",
+  "id": "CL70A",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 276,
+  "batch": "batch_070",
+  "id": "CL70B",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 277,
+  "batch": "batch_071",
+  "id": "SR71A",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 278,
+  "batch": "batch_071",
+  "id": "SR71B",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 279,
+  "batch": "batch_071",
+  "id": "RT71A",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 280,
+  "batch": "batch_071",
+  "id": "RT71B",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 281,
+  "batch": "batch_071",
+  "id": "MK71A",
+  "event": true,
+  "reasons": [
+   "asset:SPY"
+  ]
+ },
+ {
+  "i": 282,
+  "batch": "batch_071",
+  "id": "MK71B",
+  "event": false,
+  "reasons": [
+   "pozisyon büyüklüğü",
+   "asset:SPY"
+  ]
+ },
+ {
+  "i": 283,
+  "batch": "batch_072",
+  "id": "FE72",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 284,
+  "batch": "batch_072",
+  "id": "TP72",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 285,
+  "batch": "batch_072",
+  "id": "DS72A",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 286,
+  "batch": "batch_072",
+  "id": "DS72B",
+  "event": false,
+  "reasons": [
+   "asset:FX ",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 287,
+  "batch": "batch_073",
+  "id": "FTM73",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 288,
+  "batch": "batch_073",
+  "id": "SF73",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 289,
+  "batch": "batch_073",
+  "id": "AB73",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 290,
+  "batch": "batch_074",
+  "id": "RT74",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 291,
+  "batch": "batch_074",
+  "id": "KM74",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 292,
+  "batch": "batch_074",
+  "id": "RF74",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 293,
+  "batch": "batch_075",
+  "id": "AE75",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 294,
+  "batch": "batch_075",
+  "id": "WY75",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 295,
+  "batch": "batch_075",
+  "id": "GW75",
+  "event": true,
+  "reasons": [
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 296,
+  "batch": "batch_076",
+  "id": "SE76",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 297,
+  "batch": "batch_076",
+  "id": "EB76",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 298,
+  "batch": "batch_076",
+  "id": "BM76",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 299,
+  "batch": "batch_077",
+  "id": "NM77",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 300,
+  "batch": "batch_077",
+  "id": "SX77",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 301,
+  "batch": "batch_078",
+  "id": "SS78",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 302,
+  "batch": "batch_078",
+  "id": "OB78",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 303,
+  "batch": "batch_079",
+  "id": "MS79",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 304,
+  "batch": "batch_080",
+  "id": "JD80",
+  "event": false,
+  "reasons": [
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 305,
+  "batch": "batch_080",
+  "id": "SD80",
+  "event": true,
+  "reasons": [
+   "veri yok",
+   "asset:kazanç"
+  ]
+ },
+ {
+  "i": 306,
+  "batch": "batch_081",
+  "id": "RP81",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 307,
+  "batch": "batch_082",
+  "id": "JS82A",
+  "event": true,
+  "reasons": [
+   "asset:S&P",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 308,
+  "batch": "batch_082",
+  "id": "JS82B",
+  "event": true,
+  "reasons": [
+   "asset:S&P"
+  ]
+ },
+ {
+  "i": 309,
+  "batch": "batch_082",
+  "id": "JS82C",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:endeks"
+  ]
+ },
+ {
+  "i": 310,
+  "batch": "batch_083",
+  "id": "BW83A",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 311,
+  "batch": "batch_083",
+  "id": "CS83A",
+  "event": true,
+  "reasons": [
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 312,
+  "batch": "batch_084",
+  "id": "HF84A",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 313,
+  "batch": "batch_085",
+  "id": "AF85A",
+  "event": true,
+  "reasons": [
+   "uygun değil",
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 314,
+  "batch": "batch_085",
+  "id": "LK85A",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 315,
+  "batch": "batch_085",
+  "id": "LK85B",
+  "event": true,
+  "reasons": [
+   "asset:Dow"
+  ]
+ },
+ {
+  "i": 316,
+  "batch": "batch_086",
+  "id": "DH86",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 317,
+  "batch": "batch_086",
+  "id": "TS86",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 318,
+  "batch": "batch_086",
+  "id": "RWI86",
+  "event": true,
+  "reasons": [
+   "asset:Dow",
+   "asset:endeks"
+  ]
+ },
+ {
+  "i": 319,
+  "batch": "batch_087",
+  "id": "VW87",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 320,
+  "batch": "batch_088",
+  "id": "RF88",
+  "event": false,
+  "reasons": [
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 321,
+  "batch": "batch_088",
+  "id": "CG88",
+  "event": false,
+  "reasons": [
+   "asset:hisse"
+  ]
+ },
+ {
+  "i": 322,
+  "batch": "batch_090",
+  "id": "DC90A",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 323,
+  "batch": "batch_090",
+  "id": "DC90B",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 324,
+  "batch": "batch_090",
+  "id": "DC90C",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 325,
+  "batch": "batch_090",
+  "id": "DC90D",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 326,
+  "batch": "batch_090",
+  "id": "DC90E",
+  "event": true,
+  "reasons": [
+   "uygun değil",
+   "asset:hisse",
+   "asset:endeks"
+  ]
+ },
+ {
+  "i": 327,
+  "batch": "batch_091",
+  "id": "FM91A",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 328,
+  "batch": "batch_091",
+  "id": "FM91B",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 329,
+  "batch": "batch_094",
+  "id": "FP94",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 330,
+  "batch": "batch_096",
+  "id": "WP96A",
+  "event": true,
+  "reasons": [
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 331,
+  "batch": "batch_096",
+  "id": "WP96B",
+  "event": true,
+  "reasons": [
+   "portföy kuralı",
+   "asset:forex",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 332,
+  "batch": "batch_097",
+  "id": "IV97",
+  "event": false,
+  "reasons": [
+   "asset:Nifty",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 333,
+  "batch": "batch_098",
+  "id": "RG98",
+  "event": false,
+  "reasons": [
+   "asset:hisse",
+   "asset:Dow",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 334,
+  "batch": "batch_099",
+  "id": "BC99",
+  "event": true,
+  "reasons": [
+   "asset:FX ",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 335,
+  "batch": "batch_100",
+  "id": "ME100",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 336,
+  "batch": "batch_100",
+  "id": "BH100",
+  "event": true,
+  "reasons": [
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 337,
+  "batch": "batch_101",
+  "id": "AB101",
+  "event": true,
+  "reasons": [
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 338,
+  "batch": "batch_102",
+  "id": "CA102",
+  "event": true,
+  "reasons": [
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 339,
+  "batch": "batch_102",
+  "id": "LK102",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 340,
+  "batch": "batch_103",
+  "id": "DG103A",
+  "event": false,
+  "reasons": [
+   "asset:EUR/USD",
+   "asset:FX ",
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 341,
+  "batch": "batch_103",
+  "id": "DG103B",
+  "event": true,
+  "reasons": [
+   "asset:EUR/USD"
+  ]
+ },
+ {
+  "i": 342,
+  "batch": "batch_104",
+  "id": "ML104A",
+  "event": false,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD",
+   "asset:USDCHF",
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 343,
+  "batch": "batch_105",
+  "id": "PAS105A",
+  "event": true,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 344,
+  "batch": "batch_106",
+  "id": "LS106A",
+  "event": true,
+  "reasons": [
+   "veri yok",
+   "asset:GBPUSD",
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 345,
+  "batch": "batch_109",
+  "id": "ST109A",
+  "event": false,
+  "reasons": [
+   "asset:Nifty",
+   "asset:BankNifty"
+  ]
+ },
+ {
+  "i": 346,
+  "batch": "batch_110",
+  "id": "JC110A",
+  "event": false,
+  "reasons": [
+   "asset:USDCAD"
+  ]
+ },
+ {
+  "i": 347,
+  "batch": "batch_111",
+  "id": "MS111A",
+  "event": true,
+  "reasons": [
+   "asset:EURUSD"
+  ]
+ },
+ {
+  "i": 348,
+  "batch": "batch_112",
+  "id": "VR112A",
+  "event": false,
+  "reasons": [
+   "asset:EURUSD"
+  ]
+ },
+ {
+  "i": 349,
+  "batch": "batch_113",
+  "id": "SS113A",
+  "event": false,
+  "reasons": [
+   "asset:EURUSD"
+  ]
+ },
+ {
+  "i": 350,
+  "batch": "batch_113",
+  "id": "AM113A",
+  "event": true,
+  "reasons": [
+   "asset:USDJPY",
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 351,
+  "batch": "batch_114",
+  "id": "UWS114A",
+  "event": true,
+  "reasons": [
+   "veri yok",
+   "asset:USDJPY",
+   "asset:USDCHF",
+   "asset:NFP",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 352,
+  "batch": "batch_116",
+  "id": "LHS116A",
+  "event": false,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:USDJPY"
+  ]
+ },
+ {
+  "i": 353,
+  "batch": "batch_117",
+  "id": "TA117A",
+  "event": false,
+  "reasons": [
+   "asset:SPY",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 354,
+  "batch": "batch_118",
+  "id": "CF118A",
+  "event": false,
+  "reasons": [
+   "asset:EURUSD"
+  ]
+ },
+ {
+  "i": 355,
+  "batch": "batch_118",
+  "id": "II118A",
+  "event": false,
+  "reasons": [
+   "asset:hisse",
+   "asset:Nasdaq",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 356,
+  "batch": "batch_119",
+  "id": "HR119A",
+  "event": true,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD",
+   "asset:USDJPY",
+   "asset:USDCHF",
+   "asset:AUDUSD",
+   "asset:NZDUSD",
+   "asset:USDCAD",
+   "asset:FX ",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 357,
+  "batch": "batch_119",
+  "id": "HR119B",
+  "event": true,
+  "reasons": [
+   "asset:USDJPY",
+   "asset:USDCAD",
+   "asset:forex",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 358,
+  "batch": "batch_120",
+  "id": "RB120A",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 359,
+  "batch": "batch_120",
+  "id": "JK120A",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 360,
+  "batch": "batch_121",
+  "id": "BG121A",
+  "event": false,
+  "reasons": [
+   "asset:hisse",
+   "asset:ABD hisse",
+   "asset:endeks",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 361,
+  "batch": "batch_123",
+  "id": "TC123A",
+  "event": false,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD",
+   "asset:USDJPY",
+   "asset:USDCHF",
+   "asset:AUDUSD",
+   "asset:NZDUSD",
+   "asset:USDCAD",
+   "asset:FX ",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 362,
+  "batch": "batch_124",
+  "id": "LD124A",
+  "event": true,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD",
+   "asset:USDJPY",
+   "asset:USDCHF",
+   "asset:AUDUSD",
+   "asset:NZDUSD",
+   "asset:USDCAD",
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 363,
+  "batch": "batch_125",
+  "id": "JK125A",
+  "event": true,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD",
+   "asset:USDJPY"
+  ]
+ },
+ {
+  "i": 364,
+  "batch": "batch_126",
+  "id": "PB126A",
+  "event": true,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD",
+   "asset:USDJPY",
+   "asset:açılış boşluğu"
+  ]
+ },
+ {
+  "i": 365,
+  "batch": "batch_126",
+  "id": "MM126B",
+  "event": true,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD",
+   "asset:USDJPY"
+  ]
+ },
+ {
+  "i": 366,
+  "batch": "batch_127",
+  "id": "MS127A",
+  "event": true,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD"
+  ]
+ },
+ {
+  "i": 367,
+  "batch": "batch_127",
+  "id": "CP127B",
+  "event": false,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD"
+  ]
+ },
+ {
+  "i": 368,
+  "batch": "batch_127",
+  "id": "GR127C",
+  "event": false,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD"
+  ]
+ },
+ {
+  "i": 369,
+  "batch": "batch_128",
+  "id": "JI128A",
+  "event": false,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD",
+   "asset:USDJPY"
+  ]
+ },
+ {
+  "i": 370,
+  "batch": "batch_129",
+  "id": "LU129A",
+  "event": false,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD"
+  ]
+ },
+ {
+  "i": 371,
+  "batch": "batch_130",
+  "id": "PK130A",
+  "event": true,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD"
+  ]
+ },
+ {
+  "i": 372,
+  "batch": "batch_131",
+  "id": "TM131A",
+  "event": true,
+  "reasons": [
+   "asset:SPY"
+  ]
+ },
+ {
+  "i": 373,
+  "batch": "batch_132",
+  "id": "TM132A",
+  "event": true,
+  "reasons": [
+   "asset:hisse"
+  ]
+ },
+ {
+  "i": 374,
+  "batch": "batch_136",
+  "id": "H136A",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 375,
+  "batch": "batch_136",
+  "id": "CG136A",
+  "event": false,
+  "reasons": [
+   "asset:forex",
+   "asset:opsiyon"
+  ]
+ },
+ {
+  "i": 376,
+  "batch": "batch_137",
+  "id": "GM137A",
+  "event": true,
+  "reasons": [
+   "asset:forex"
+  ]
+ },
+ {
+  "i": 377,
+  "batch": "batch_138",
+  "id": "LK138A",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 378,
+  "batch": "batch_139",
+  "id": "EC139A",
+  "event": false,
+  "reasons": [
+   "asset:S&P",
+   "asset:endeks",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 379,
+  "batch": "batch_139",
+  "id": "RG139A",
+  "event": false,
+  "reasons": [
+   "asset:USDJPY",
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 380,
+  "batch": "batch_141",
+  "id": "GF141A",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 381,
+  "batch": "batch_141",
+  "id": "AE141A",
+  "event": false,
+  "reasons": [
+   "asset:hisse",
+   "asset:kazanç",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 382,
+  "batch": "batch_142",
+  "id": "KH142A",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 383,
+  "batch": "batch_143",
+  "id": "OK143A",
+  "event": false,
+  "reasons": [
+   "asset:QQQ",
+   "asset:hisse",
+   "asset:endeks",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 384,
+  "batch": "batch_145",
+  "id": "LP145A",
+  "event": true,
+  "reasons": [
+   "asset:EURUSD"
+  ]
+ },
+ {
+  "i": 385,
+  "batch": "batch_146",
+  "id": "MJ146A",
+  "event": true,
+  "reasons": [
+   "asset:Dow",
+   "asset:EURUSD",
+   "asset:kazanç",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 386,
+  "batch": "batch_150",
+  "id": "AC150",
+  "event": true,
+  "reasons": [
+   "pozisyon büyüklüğü",
+   "asset:kazanç"
+  ]
+ },
+ {
+  "i": 387,
+  "batch": "batch_152",
+  "id": "RT152A",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 388,
+  "batch": "batch_152",
+  "id": "RT152B",
+  "event": true,
+  "reasons": [
+   "uygun değil"
+  ]
+ },
+ {
+  "i": 389,
+  "batch": "batch_152",
+  "id": "RT152C",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 390,
+  "batch": "batch_154",
+  "id": "AR154A",
+  "event": true,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD",
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 391,
+  "batch": "batch_155",
+  "id": "MK155A",
+  "event": false,
+  "reasons": [
+   "asset:hisse",
+   "asset:Nasdaq",
+   "asset:kazanç",
+   "asset:açılış boşluğu",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 392,
+  "batch": "batch_158",
+  "id": "HR158A",
+  "event": true,
+  "reasons": [
+   "uygun değil",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 393,
+  "batch": "batch_159",
+  "id": "EL159A",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 394,
+  "batch": "batch_161",
+  "id": "RH161A",
+  "event": true,
+  "reasons": [
+   "veri yok"
+  ]
+ },
+ {
+  "i": 395,
+  "batch": "batch_162",
+  "id": "JK162A",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 396,
+  "batch": "batch_163",
+  "id": "MK163A",
+  "event": false,
+  "reasons": [
+   "veri yok",
+   "asset:hisse",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 397,
+  "batch": "batch_164",
+  "id": "DS164A",
+  "event": false,
+  "reasons": [
+   "asset:FX ",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 398,
+  "batch": "batch_165",
+  "id": "DS165A",
+  "event": true,
+  "reasons": [
+   "tekrarı",
+   "asset:EURUSD",
+   "asset:GBPUSD",
+   "asset:USDJPY",
+   "asset:FX ",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 399,
+  "batch": "batch_166",
+  "id": "FKS166A",
+  "event": false,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD",
+   "asset:USDJPY",
+   "asset:FX ",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 400,
+  "batch": "batch_167",
+  "id": "HAT167A",
+  "event": false,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD",
+   "asset:USDJPY",
+   "asset:FX ",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 401,
+  "batch": "batch_169",
+  "id": "DV169A",
+  "event": false,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD",
+   "asset:USDJPY",
+   "asset:FX ",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 402,
+  "batch": "batch_171",
+  "id": "TL171A",
+  "event": true,
+  "reasons": [
+   "veri yok",
+   "asset:Dow",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 403,
+  "batch": "batch_172",
+  "id": "ICWR172A",
+  "event": true,
+  "reasons": [
+   "uygun değil",
+   "asset:EURUSD",
+   "asset:forex",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 404,
+  "batch": "batch_173",
+  "id": "ER173A",
+  "event": true,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD",
+   "asset:USDJPY",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 405,
+  "batch": "batch_174",
+  "id": "FK174A",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:ABD hisse",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 406,
+  "batch": "batch_174",
+  "id": "AP174A",
+  "event": true,
+  "reasons": [
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 407,
+  "batch": "batch_174",
+  "id": "MD174B",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 408,
+  "batch": "batch_175",
+  "id": "ML175A",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:ABD hisse",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 409,
+  "batch": "batch_175",
+  "id": "BC175A",
+  "event": false,
+  "reasons": [
+   "asset:hisse",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 410,
+  "batch": "batch_176",
+  "id": "AC176A",
+  "event": false,
+  "reasons": [
+   "asset:GBP/USD",
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 411,
+  "batch": "batch_176",
+  "id": "RB176A",
+  "event": true,
+  "reasons": [
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 412,
+  "batch": "batch_177",
+  "id": "KL177A",
+  "event": false,
+  "reasons": [
+   "asset:EUR/USD",
+   "asset:USD/JPY",
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 413,
+  "batch": "batch_177",
+  "id": "KL177B",
+  "event": true,
+  "reasons": [
+   "asset:FX "
+  ]
+ },
+ {
+  "i": 414,
+  "batch": "batch_177",
+  "id": "NM177A",
+  "event": true,
+  "reasons": [
+   "asset:Nifty",
+   "asset:BankNifty"
+  ]
+ },
+ {
+  "i": 415,
+  "batch": "batch_178",
+  "id": "MK178A",
+  "event": true,
+  "reasons": [
+   "asset:FX ",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 416,
+  "batch": "batch_179",
+  "id": "AH179A",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 417,
+  "batch": "batch_179",
+  "id": "FT179A",
+  "event": true,
+  "reasons": [
+   "asset:Dow",
+   "asset:FX ",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 418,
+  "batch": "batch_180",
+  "id": "CH180A",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:Dow",
+   "asset:opsiyon",
+   "asset:açılış boşluğu"
+  ]
+ },
+ {
+  "i": 419,
+  "batch": "batch_181",
+  "id": "KD181A",
+  "event": true,
+  "reasons": [
+   "asset:kazanç"
+  ]
+ },
+ {
+  "i": 420,
+  "batch": "batch_181",
+  "id": "TO181A",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:seans boşluğu",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 421,
+  "batch": "batch_181",
+  "id": "PX181A",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 422,
+  "batch": "batch_182",
+  "id": "BM182A",
+  "event": false,
+  "reasons": [
+   "asset:hisse",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 423,
+  "batch": "batch_183",
+  "id": "JF183A",
+  "event": true,
+  "reasons": [
+   "asset:EUR/USD",
+   "asset:GBP/USD",
+   "asset:FX ",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 424,
+  "batch": "batch_184",
+  "id": "TB184A",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 425,
+  "batch": "batch_184",
+  "id": "JE184A",
+  "event": true,
+  "reasons": []
+ },
+ {
+  "i": 426,
+  "batch": "batch_185",
+  "id": "IT185A",
+  "event": false,
+  "reasons": [
+   "asset:hisse"
+  ]
+ },
+ {
+  "i": 427,
+  "batch": "batch_185",
+  "id": "PK185A",
+  "event": true,
+  "reasons": [
+   "asset:EUR/USD",
+   "asset:GBP/USD",
+   "asset:NFP",
+   "asset:FOMC",
+   "asset:TÜFE",
+   "asset:GSYH"
+  ]
+ },
+ {
+  "i": 428,
+  "batch": "batch_186",
+  "id": "RB186A",
+  "event": true,
+  "reasons": [
+   "sinyal değil",
+   "asset:Nifty",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 429,
+  "batch": "batch_187",
+  "id": "MJ187A",
+  "event": true,
+  "reasons": [
+   "asset:S&P"
+  ]
+ },
+ {
+  "i": 430,
+  "batch": "batch_187",
+  "id": "AU187A",
+  "event": true,
+  "reasons": [
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 431,
+  "batch": "batch_188",
+  "id": "AFX188A",
+  "event": false,
+  "reasons": [
+   "asset:EURUSD"
+  ]
+ },
+ {
+  "i": 432,
+  "batch": "batch_188",
+  "id": "BB188R",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:Dow",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 433,
+  "batch": "batch_189",
+  "id": "DF189A",
+  "event": true,
+  "reasons": [
+   "asset:EURUSD"
+  ]
+ },
+ {
+  "i": 434,
+  "batch": "batch_190",
+  "id": "DB190A",
+  "event": true,
+  "reasons": [
+   "asset:Dow"
+  ]
+ },
+ {
+  "i": 435,
+  "batch": "batch_191",
+  "id": "GS191A",
+  "event": true,
+  "reasons": [
+   "asset:EURUSD",
+   "asset:GBPUSD"
+  ]
+ },
+ {
+  "i": 436,
+  "batch": "batch_191",
+  "id": "GS191B",
+  "event": false,
+  "reasons": [
+   "sinyal değil",
+   "asset:EURUSD",
+   "asset:GBPUSD",
+   "asset:USDJPY",
+   "asset:USDCHF",
+   "asset:FX ",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 437,
+  "batch": "batch_194",
+  "id": "QM-FIP-01",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:ABD hisse",
+   "asset:Nasdaq",
+   "asset:endeks"
+  ]
+ },
+ {
+  "i": 438,
+  "batch": "batch_196",
+  "id": "RC196A",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 439,
+  "batch": "batch_197",
+  "id": "MG197A",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 440,
+  "batch": "batch_198",
+  "id": "TS198A",
+  "event": false,
+  "reasons": []
+ },
+ {
+  "i": 441,
+  "batch": "batch_199",
+  "id": "GM199A",
+  "event": false,
+  "reasons": [
+   "asset:hisse",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 442,
+  "batch": "batch_199",
+  "id": "MU199A",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:açılış boşluğu"
+  ]
+ },
+ {
+  "i": 443,
+  "batch": "batch_201",
+  "id": "SR201A",
+  "event": true,
+  "reasons": [
+   "asset:EUR/USD",
+   "asset:GBP/USD",
+   "asset:USD/JPY",
+   "asset:FX ",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 444,
+  "batch": "batch_204",
+  "id": "MIN204A",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:endeks",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 445,
+  "batch": "batch_207",
+  "id": "EV207A",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:ABD hisse",
+   "asset:kazanç",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 446,
+  "batch": "batch_208",
+  "id": "FB208A",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 447,
+  "batch": "batch_209",
+  "id": "PCH209A",
+  "event": true,
+  "reasons": [
+   "pozisyon büyüklüğü",
+   "asset:hisse"
+  ]
+ },
+ {
+  "i": 448,
+  "batch": "batch_212",
+  "id": "PR212A",
+  "event": true,
+  "reasons": [
+   "asset:hisse",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 449,
+  "batch": "batch_213",
+  "id": "SI213A",
+  "event": true,
+  "reasons": [
+   "asset:endeks",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 450,
+  "batch": "batch_214",
+  "id": "EM214A",
+  "event": true,
+  "reasons": [
+   "asset:endeks",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 451,
+  "batch": "batch_214",
+  "id": "BT214B",
+  "event": true,
+  "reasons": [
+   "veri yok",
+   "sinyal değil",
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 452,
+  "batch": "batch_215",
+  "id": "AT215A",
+  "event": true,
+  "reasons": [
+   "asset:gap"
+  ]
+ },
+ {
+  "i": 453,
+  "batch": "batch_215",
+  "id": "DM215B",
+  "event": true,
+  "reasons": []
+ }
+]

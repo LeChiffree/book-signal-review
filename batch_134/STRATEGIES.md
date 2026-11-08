@@ -1,0 +1,25 @@
+# Kitap okuma 134 — seviye haritası, Salı filtresi ve uzun/kısa koruma
+
+**Kapsam:** Üç ayrı PDF'nin **10 + 31 + 45 = 86 sayfası** baştan sona okundu. *Sir Lz* metin katmanı boş olduğundan 10 sayfasının tamamı görsel incelendi. Sayfa numaraları PDF sayfasıdır. Backtest, paper test ve emir yapılmadı.
+
+## 1. Sir Lz Notları — Orijinal
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 24/Baskı 24/Sir Lz Notları - Orijinal (10 sayfa) - @eseckal.pdf>) · [Sayfa dökümü](01_sir_lz_notes.txt) · [Görsel s. 1–9](sir_lz_contact_1.png) · [Görsel s. 10](sir_lz_contact_2.png)
+
+**Tam okuma:** S. 1 zaman dilimi, destek/direnç ve trend çizgisi; s. 2–3 aylık/haftalık/günlük ana yön ve H4/H1 giriş; s. 4 yalnız kapanış çizgisinden ilk, taze destek/direnç; s. 5 fiyatı sola izleyerek “origin point”, V/ters V dönüşü; s. 6 ana seviyede yataylaşma ve kırılım/retest; s. 7 üç trend çizgisi türü; s. 8–9 stop, takip stopu ve hesap notları; s. 10 yöntem özeti. Kaynak “fiyat ana seviyeden ana seviyeye gider” der, fakat hangi geçmiş kapanışın seviye olacağı, kökenin sağdan teyidi, trend çizgisinin pivot genişliği ve V dönüşünün sinyal zamanı mekanik değildir. İlk taze retest, kırılım ve rol değişimi [mevcut seviye adaylarıyla](../batch_081/STRATEGIES.md) örtüşür. S. 8'deki “A'dan B'ye %50 gelince stop hazırlama” yalnız mevcut stratejiler için ayrı çıkış karşılaştırması olabilir; sonraki B seviyesi önceden dondurulmadıkça ileri bilgi doğurur. S. 9'daki çok yüksek marj hedefi risk kuralı olarak kullanılmaz. **Yeni bağımsız aday yok.**
+
+## 2. Trader Rehberi — Shinta FX
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 24/Baskı 24/Trader Rehberi - Shinta FX (31 sayfa) - @eseckal.pdf>) · [Tam metin](02_shinta_fx.txt)
+
+**Tam okuma:** S. 1–7 kaldıraç, long/short ve 1:3 risk örnekleri; s. 8–17 varlık türleri, piyasa ve mumlar; s. 18–23 aralık %50'si, konsolidasyon, genişleme, geri çekilme ve AMD; s. 24–27 New York saatli Asya/Londra/NY seansları; s. 28–29 kademeli kâr alma; s. 29–30 **yalnız Salı, Pazartesi mum aralığı en çok 40 NQ puanı, Pazartesi dibine sabah 08:00 dolayında temas** örnek kuralı; s. 31 sonuç. Kaynak s. 29–30 bunun bir öğrencinin geriye dönük incelemesinden çıkarılabilecek **varsayımsal kural örneği** olduğunu söyler, doğrulanmış sistem değildir. `40` puan ve Salı saati, [Pazartesi ucu süpürmesi adayına](../batch_081/STRATEGIES.md) özgü, test edilebilir **ön kayıt filtresi** olarak saklandı: gerçek NQ/MNQ vadeli işlem verisinde Pazartesi, New York 18:00–ertesi 17:00 seans takvimiyle tam kapandıktan sonra `high−low≤40` şartı; Salı 08:00–09:00 New York arasında ilk tamamlanmış M5 barının `low<MondayLow` ve `close>MondayLow` olması. Sinyal sonrası ilk M1 giriş; stop süpürme dibi altında ve 2R/salı seansı kapanışı hedefi **bizim karşılaştırma sözleşmemizdir**. Kaynak “Pazartesi düşük seviyesini alarak gir” dediği için bu kapanış teyidini orijinal emir gibi sunmuyoruz. Ana kıyas Pazartesi dibi süpürmesi filtresiz, yalnız Salı filtresi ve ≤40 puan filtresi; sıfır/çok az işlem çıkarsa eşiği sonuçlara bakarak büyütme. Mevcut olay ailesi için filtre olduğu, tam stop/hedef ve “küçük mum” tanımı kaynakta eksik kaldığı için **yeni bağımsız aday sayılmadı**. S. 28'deki %2 sermaye riski ve s. 29'daki yüksek R örnekleri performans kanıtı değildir; değerlendirmede maliyet, kayma ve en çok %0,5 risk kullanılmalı.
+
+## 3. Hedge Stratejileri
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 23/Baskı 23/Hedge Stratejileri (45 sayfa) - @eseckal.pdf>) · [Tam metin](03_hedge_strategies.txt)
+
+**Tam okuma:** S. 1–12 uzun/kısa 130/30, 150/50, 80/20 oranları ve yeniden dengeleme; s. 13–20 marj, kaldıraç ve korelasyon; s. 21–25 güçlü/zayıf şirket çifti; s. 26–30 80/20 kâr “sıyırma” ve oran kıyası; s. 31–34 VIX ve piyasa görüşü; s. 35–44 eşit uzun/kısa kutu ve kârın yeniden tahsisi; s. 45 risk açıklaması. Kaynağın kendisi s. 12 ve 36–37'de aynı varlıkta eşit uzun/kısa pozisyonun fiyat kârını sıfırladığını kabul eder. Kısa bacağı kapatıp kârı uzun bacağa yatırmak, fiyat riski için yeni bir **yönlü karar**dır; kaynak bu kararın önceden bilinecek nesnel tetikini vermez. Aynı varlıktaki 130/30 ve 150/50 oranlarının net maruziyeti 100 olduğundan, yeniden dengeleme yapılmayan durumda marj/ödünç hisse/temettü maliyetleri öncesinde tek uzun pozisyonla aynı yönlü fiyat riski vardır. “Hasat edilen” kısa kâr toplam portföy P&L'sinden ayrı bedava getiri değildir. S. 21–25 güçlü/zayıf şirket seçimi gelecekteki beta, bilanço ve piyasa davranışını varsayar; point-in-time seçim formülü yok. S. 31–32 VIX'ten beklenen 30 günlük aralık bir **volatilite tahmini**, tek başına giriş yönü değildir. S. 40'ta `2,50/2000` oranının `%0,0125` yazılması aritmetik hatadır; doğru değer `%0,125`tir, ayrıca yıllıklandırma ve komisyon dışlama sonucu bozabilir. Yasal/marj oranları döneme ve aracı kuruma bağlıdır. Belirli tarihte canlı borrow, fonlama, temettü ve hesap kısıtı olmadan kazanç iddiaları test edilemez. **Yeni bağımsız işlem adayı yok.**
+
+## Sonuç
+
+**0 yeni bağımsız strateji adayı.** Shinta'nın Salı/40 puan koşulu mevcut Pazartesi seviye ailesi için ölçülebilir bir filtre olarak kaydedildi.

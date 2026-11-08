@@ -1,0 +1,526 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 17\Baskı 17\Günlük Forex Stratejisi - Güvenli ve Kazançlı Trading - Frq Mid (35 sayfa) - @eseckal.pdf
+PAGES: 35
+
+
+=== PDF PAGE 1 ===
+Translated from Spanish to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+DİZİN
+1. KISA GİRİŞ: GÜNLÜK MUMLARDA SWING TİCARETİ VE 
+ORTA-UZUN VADELİ İŞLEMLERLE İLGİLİ DENEYİMİM.
+2. KONUYA GELELİM. GÜNLÜK STRATEJİNİN 
+AÇIKLANMASI.
+1. KULLANDIĞIM GÖSTERGELER VE PARAMETRELERİ.
+2. HANGİ ÇİFTLERİ KULLANACAĞIZ?
+3. RİSK YÖNETİMİ. OPERASYONLARI 
+NASIL YÖNETİYORUZ.
+4. NE ZAMAN GİRİYORUZ VE NE ZAMAN ÇIKIYORUZ.
+3. GERİYE DÖNÜK TEST. BAZI OPERASYONLARI 
+GÖZDEN GEÇİRİYORUZ.
+1. EURJPY İŞLEMLERİ.
+2. USDCHF İLE İŞLEMLER.
+3. EURUSD TİCARETİ.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+4. İLETİŞİME GEÇİN, SORULARI ÇÖZÜN VE ARAÇLARI 
+PAYLAŞIN.
+KISA GİRİŞ: GÜNLÜK MUMLARDA 
+SWING TİCARETİ VE ORTA/UZUN 
+VADELİ İŞLEMLERLE İLGİLİ 
+DENEYİMİM.
+E-kitabımı satın almadan önce bu küçük tanıtımı 
+okuyabildiğinize sevindim. Böylece bazı şeyleri açıklığa 
+kavuşturabilirim. Birincisi, bu bir eğitim kitabı değil. Eğer 
+Forex'te kendinizi eğitmek istiyorsanız, harika kitaplar ve 
+birçok kaliteli kurs var (herhangi bir stratejiyi uygulamadan 
+önce önerdiğim bir şey) ve ikincisi, amacım size günlük 
+grafiklerde doğru uygulandığında zamanla karlı olan bir 
+stratejiyi açık, detaylı ve grafiksel bir şekilde açıklamak.
+Forex ticaretine ilk başladığımda düşündüğüm ilk şey çılgınlar gibi 
+ticaret yapmaktı. Gerçekten bu kadar uzak bir durum olamazdı, 
+günlük grafiklerde işlem yapmaya başladığımda işlemlerim önemli 
+ölçüde düştü, ancak başarı oranım önemli ölçüde arttı ve zamanla 
+tutarlı hale geldi. Dolayısıyla karlılığın operasyon sayısına bağlı 
+olmadığını söyleyebiliriz. Bunlar tutarlılığı sağlamak için diğer önemli 
+faktörlerdir.
+Risk yönetimi ve işlemlerin devam etmesi hakkında konuşuyoruz. Bu iki özellik 
+el ele gider ve buna ek olarak başarı yüzdesi de sizin lehinize ise karlı 
+operasyonlar gerçekleştirmek için iyi bir temele sahipsiniz demektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Bu stratejiyi karlı hale getirmenin anahtarlarından biri de 
+operasyonları yönetme şeklimizdir. Sabit, tek SL ve tek TP'nin olduğu 
+operasyonlara girmeyeceğiz, bunu fiyata göre adapte olarak daha 
+dinamik bir şekilde yapacağız. Biz, fiyat bizim lehimize hareket ettikçe 
+kar elde etmekle ilgileniyoruz ve ne zaman çıkacağımızı düşünmeden, 
+fiyatla birlikte koşacak bir şeyler bırakıyoruz.
+Merak ediyor olabilirsiniz... Stratejiniz karlıysa neden bunu birkaç avro karşılığında dünyaya 
+gösteriyorsunuz? Bildiğiniz gibi, eğer bilmiyorsanız zaten biliyorsunuzdur, bundan 
+geçinebilmek için yüklü bir sermayeye sahip olmanız gerekiyor. Bu yüzden stratejimi sizinle 
+paylaşmamın ve benim de faydalanmamın kötü bir fikir olmadığını düşünüyorum.
+Bunu nasıl yapacağınızla ilgili herhangi bir sorunuz varsa lütfen bana şu adrese bir e-
+posta gönderin:frq.mid@gmail.com Benim adım Diego Núñez ve size yardımcı olmaktan 
+mutluluk duyarım.
+Hadi konuya gelelim,
+AÇIKLAMA
+GÜNLÜK STRATEJİ.
+KULLANDIĞIM GÖSTERGELER VE PARAMETRELERİ.
+Günlük grafiğimizi açalım ve aşağıdaki indikatörleri girelim. Tüm stratejiyi 
+günlük grafik üzerinde geliştiriyorum, bu bunun bu şekilde yapılması 
+gerektiği anlamına gelmiyor. Daha dar bir fiyattan giriş yapmak 
+istiyorsanız, saatlik grafiğe gidebilir ve günlük mum içerisinde giriş 
+yapmanıza olanak sağlayacak bir geri çekilme olup olmadığını görmek için 
+Heiken Ashi'yi kullanabilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+STOKASTİK OSİLATÖR:
+DÖNEM % K → 52 
+DÖNEM % D → 1
+YAVAŞLA → 10
+FİYATLAR: DÜŞÜK/YÜKSEK
+MA YÖNTEMİ: BASİT --- 3 SEVİYE (80, 50 VE 20)
+STOKASTİK OSİLATÖR:
+DÖNEM % K → 10 
+DÖNEM % D → 1
+YAVAŞLA → 5
+FİYATLAR: DÜŞÜK/YÜKSEK
+MA YÖNTEMİ: BASİT --- 3 SEVİYE (80, 50 VE 20)
+BOLLINGER BANTLARI:
+DÖNEM → 20
+YER DEĞİŞTİRME → 0
+SAPMALAR → 2
+BAŞVURU YAP: KAPAT
+MACD: Varsayılan parametreler (Bu gösterge strateji için gerekli 
+değildir ancak grafiğin bağlamına yardımcı olur)
+HIZLI EMA → 12
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+YAVAŞ EMA → 29
+MACD SMA → 9
+BAŞVURU YAP: KAPAT
+HANGİ ÇİFTLERİ KULLANACAĞIZ?
+Benim için işe yarayan çiftler şunlardır. Ben hep aynılarını kullanıyorum. Zaten biliyorsunuz; 
+Bir şey sizin için işe yarıyorsa onu koruyun ve eğer yapabiliyorsanız onu geliştirin.
+AKRANLAR:
+AUDUSD;EURUSD;EURGBP;EURJPY;GBPUSD;GBPJPY;NZDUSD;ABD 
+DCAD;USDCHF; USDJPY.
+RİSK YÖNETİMİ. NASIL YÖNETİYORUZ
+İŞLEMLER.
+Karşımıza bir işlem fırsatı çıktığında bunu SL'si ve TP'si ile yapacağız, 
+ancak ben TP'yi üçe bölüyorum. Yani sanki operasyonumuzu üç 
+operasyona bölmüşüz gibi. Bu şekilde tüm seviyelerden 
+faydalanacağımız için kar elde etme şansımızı da katlamış oluyoruz. 
+Dolayısıyla, işlemimiz lehimize sonuçlanırsa Bollinger bantlarının ara 
+ortalamasında ilk karı elde edip SL'yi başlangıç   mesafesinin yarısına 
+taşıyacağız (Geriye iki işlemimiz kalacak). Eğer fiyat lehimize devam 
+ederse Bollinger bantlarının dış ortalamalarından birinde ikinci bir kar 
+elde edeceğiz ve SL'ye dokunmayacağız (Bir tane daha işlem hakkımız 
+kalacak). Eğer ortalıkta tuvalet kağıdı yoksa üçüncü ve son işlemi 
+uygulayacağız. Operasyon orta/uzun vadeli olduğundan, bu 
+operasyon günlerce, haftalarca veya aylarca açık kalabilir. Ne zaman 
+kapatıyoruz? İşte karlılık burada. Lehime küçük bir trend oluştuğunda 
+bu işlemi kapatmıyorum, bunun yerine bana önemli bir kar 
+sağlayacak büyük bir trend arıyorum.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Daha iyi anlaşılması için grafiksel bir örnekle açıklayalım. Göz! Ne 
+zaman gireceğimizi henüz görmedik. İçeri girdiğimizde ne 
+yapacağımıza bakıyoruz.
+Örnek:
+Fotoğrafta gördüğünüz gibi. Giriş yaptığımızda örneğin 3 adet normal 
+mikrolot ile giriş yaparsak yapacağımız işlemlerimizi 1'er adet 
+mikrolottan oluşan 3 işleme bölmek olacaktır. Her biri 1 mikrolotluk 
+üç işlem arasında sermayemizin %1'inden fazlasını riske atmamamız 
+önerilir. Kişisel olarak, giriş fırsatları daha az olduğu için, genellikle 
+sermayemin %2 ila %3'ünü 3 operasyon arasında riske atıyorum.
+Peki, bir kere girdikten ve fiyat ilk kar alma pozisyonu lehine döndükten sonra, 
+ilk TP'yi elde ettikten sonra yapacağımız şey SL'yi yarı mesafeye taşımak 
+olacak. Eğer fiyat lehimize hareket etmeye devam eder ve ikinci TP'ye ulaşırsa 
+SL'yi olduğu gibi bırakacağız. Dolayısıyla geriye sadece çalışmasına izin 
+vereceğimiz bir işlem kaldı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Yeni bir işlem yerleştirdiğimizde SL'yi swing noktasının ve Bollinger 
+bandının üstüne yerleştireceğiz. Bunu güvenli bir mesafede tutmamız, 
+fiyata bir miktar marj bırakmamız ve risk yönetimimize saygı 
+göstermemiz gerekiyor. Eğer bu şartları sağlayamıyorsak girmiyoruz.
+NE ZAMAN GİRİYORUZ, NE ZAMAN ÇIKIYORUZ?
+Öncelikle şunu yapmalıyızeğilimi belirlemek. Bunu şu şekilde yapacağız:
+STOKASTİK (52, 1, 10) .
+STOCHASTIC, üç yeşil seviye ve bunlar arasında salınan mavi bir 
+çizgiden oluşan alt göstergedir. Üstteki çizgi 80 (Aşırı Alım) seviyesini 
+işaretleyecektir. Orta çizgi 50, alt çizgi ise 20 (aşırı satım) seviyesinde 
+olacak.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Mavi çizginin yukarıdan aşağıya doğru 50 seviyesini aşması durumunda düşüş trendi 
+ile karşı karşıya kalacağız. Mavi çizginin aşağıdan yukarıya doğru 50 seviyesini aşması 
+durumunda ise yükseliş trendi ile karşı karşıya kalacağız. Trend, tam tersi 
+gerçekleşene ve trend tersine dönene kadar devam edecektir.
+Trendi belirledikten sonra nasıl ve nereden giriş yapacağımıza 
+bakacağız:
+Boğa giriş türü örneği 1 (Satın al)
+Trendi şu şekilde belirliyoruz:STOKASTİK (52, 1, 10) :
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+50 seviyesinin üstünde mavi çizgi. Bu nedenle, boğa trendi.
+Bu ana trend içerisinde bir geri çekilme tespit ediyoruz
+STOKASTİK (10, 1, 5) :
+Bu durumda yeşil çizginin mavi seviye 20'ye (alt mavi çizgi) değmesi 
+gerekiyor.
+Bu iki şart sağlandığında:
+Fiyatın alt Bollinger bandına dokunarak, bu bandın üzerinde yükseliş mumunun 
+kapanmasını bekliyoruz. Bu yükseliş mumu kapandığında SL ve TP'leri 
+yerleştirerek giriş yapabiliriz.
+Boğa giriş türü 2 örneği (Satın al)
+Bu tip girişlerde trendin değişmesini bekleyeceğiz. Bu 
+gerçekleştiğinde ilk geri çekilmeye gireceğiz. Geri çekilmede, giriş tipi 
+1'deki kadar talepkar olmayacağız çünkü fiyat bir trende başlıyor ve 
+henüz böyle büyük bir geri çekilme yapma olasılığı düşük, bu nedenle 
+fiyatın basitçe ara veya alt bandı (satın alma durumunda) test etmesini 
+ve test ettiği bandın üzerinde yükseliş mumunu kapatmasını 
+bekleyeceğiz. Korunan şey, daha önceki risk yönetimidir; aynı 
+prosedür, operasyonu 3 TP'ye bölüp, geriye yalnızca bir operasyonun 
+çalışmasına izin verecek şekilde kademeli olarak serbest bırakmaktır. 
+Bu biletler oldukça karlı olabilir. Bakalım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Ayı girişi türü 1'e örnek (Satış)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Trendi şu şekilde belirliyoruz:STOKASTİK (52, 1, 10) :
+50 seviyesinin altındaki mavi çizgi. Bu nedenle düşüş eğilimi.
+Bu ana trend içerisinde bir geri çekilme tespit ediyoruz
+STOKASTİK (10, 1, 5) :
+Bu durumda yeşil çizginin 80'lik mavi seviyeye (üst mavi çizgi) değmesi 
+gerekiyor.
+Bu iki şart sağlandığında:
+Fiyatın üst Bollinger bandına dokunarak aşağıda düşüş mumunun 
+kapanmasını bekliyoruz. Bu düşüş mumu kapandığında SL ve TP'leri 
+yerleştirerek giriş yapabiliriz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Ayı girişi türü 2 örneği (Satış)
+* Öncekiyle aynı işlem ancak bu sefer düşüş eğiliminde. (Aynı şeyi koydum
+(ancak şüpheye yer bırakmayacak şekilde değiştirilmiştir).
+Bu tip girişlerde trendin değişmesini bekleyeceğiz. Bu 
+gerçekleştiğinde ilk geri çekilmeye gireceğiz. Geri çekilmede, giriş tipi 
+1'deki kadar talepkar olmayacağız çünkü fiyat bir trende başlıyor ve 
+henüz böyle büyük bir geri çekilme yapma olasılığı düşük, bu nedenle 
+fiyatın basitçe ara veya üst bandı (satış durumunda) test etmesini ve 
+test ettiği bandın altında düşüş mumunu kapatmasını bekleyeceğiz. 
+Korunan şey, daha önceki risk yönetimidir; aynı prosedür, operasyonu 
+3 TP'ye bölüp, geriye yalnızca bir operasyonun çalışmasına izin 
+verecek şekilde kademeli olarak serbest bırakmaktır. Bu biletler 
+oldukça karlı olabilir. Bakalım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+EURJPY TİCARETİ.
+22 OCAK - 19 TEM 2019 tarihleri   arasında EURJPY Giriş Noktaları (Günlük Grafik).
+Soldan başlayarak her bir operasyonu ve gerçekleştirilen risk 
+yönetimini ele alacağız. "X" pip ve 3 mikrolot mesafesinde riskin 
+hesabımın %1'i olduğunu ve SL'nin de şu olduğunu varsayalım:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Bollinger bantlarının dışında ve swing noktasının oluşturduğu son 
+maksimum veya minimumdan makul bir mesafede. Bu 3 mikrolotluk 
+işlemi, her biri bir mikrolottan oluşan 3 işleme böleceğiz ve fiyatın 
+lehimize hareket etmesi durumunda bunları serbest bırakacağız. İlk 
+işlemden kar elde ettiğimizde kalan 2 SL'yi başlangıç   mesafesinin 
+yarısına kadar hareket ettiriyoruz.
+1. Satınalma işlemi (Tip 2'dir).
+Trendi şu şekilde belirliyoruz:STOKASTİK (52, 1, 10) : 
+Ayı trendinden boğa trendine geçiş.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Bu ana trend içerisinde bir geri çekilme tespit ediyoruz STOKASTİK 
+(10, 1, 5) :
+Yeşil çizginin 50 seviyesinin altına geri döndüğünü gözlemliyoruz. Fiyat 
+ara Bollinger bandını kırdığında ve yükseliş mumunu bunun üzerinde 
+kapattığında, bir alım işlemi yapıyoruz.
+İlk işlemi Bollinger bandının üst kısmına değdiğinde serbest 
+bırakıyoruz ve kalan 2 SL'yi yarı mesafeye taşıyoruz. Bu sefer ana 
+trende karşı swing noktası oluştuğunda 2. işlemden kar alıyoruz. 3. 
+işlem SL'nize (Beyaz Çizgi) dokunuyor.
+2. alım işlemi ve 1. satış işlemi (Bunlar tip 1'dir).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Bu iki işlem geçersiz kılınır çünkü desen geri çekilme içinde 
+oluştuğunda, ana trendi işaretlemekten sorumlu olan mavi çizgi 50 
+seviyesini geçer. Bunlar karlı iki işlem olsa da, diğer durumlarda 
+stratejiye saygı göstermek hatalı işlemlere girmemizi engeller.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+2. Satış operasyonu (Tip 2'dir).
+Trendi şu şekilde belirliyoruz:STOKASTİK (52, 1, 10) : 
+Trend değişimi, yükselişten düşüşe.
+Bu ana trend içerisinde bir geri çekilme tespit ediyoruz STOKASTİK 
+(10, 1, 5) :
+Yeşil çizginin geri çekilmesini ve orta Bollinger bandının test edilmesini, bunun da düşüş 
+eğilimini oluşturduğunu tespit ediyoruz.
+Ayı mumunun kapanışında üç işleme giriyoruz. Bollinger bandının alt 
+kısmında ilk işlemimizi (Yeşil Çizgi) başlatıyoruz ve SL'yi beyaz çizginin 
+olduğu yere taşıyoruz.
+Fiyat geri çekiliyor ve biraz daha aşağıda Bollinger bandının alt 
+kısmına dokunuyor. O halde 2. işlemi buraya bırakalım (
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+(Mavi çizgi) ve üçüncü işlemin çalışmasını sağlıyoruz.
+USDCHF TİCARETİ.
+22 OCAK - 12 AĞUSTOS 2019 tarihleri   arasında USDCHF giriş noktaları (Günlük Grafik).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+1. Satınalma işlemi (Tip 2'dir).
+Trendi şu şekilde belirliyoruz:STOKASTİK (52, 1, 10) : 
+Ayı trendinden boğa trendine geçiş.
+Bu ana trend içerisinde bir geri çekilme tespit ediyoruz STOKASTİK 
+(10, 1, 5) :
+Yeşil çizginin geri çekildiğini ve orta Bollinger bandının test edildiğini, bunun da yükseliş 
+formasyonu oluşturduğunu tespit ediyoruz.
+Boğa mumunun kapanışında üç işleme giriyoruz. Bollinger bandının 
+üst kısmında ilk işlemi (Yeşil Çizgi) başlatıyoruz ve SL'yi beyaz çizginin 
+olduğu yere taşıyoruz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Fiyat geri çekiliyor ve Bollinger bandının üst kısmına biraz daha 
+yukarıdan dokunuyor. 2. işlemi (Mavi çizgi) serbest bırakıp 3. işlemin 
+çalışmasına izin veriyoruz.
+3.operasyon SL ile atlayış yapılır. Şanssızlık, bir dahaki sefere daha iyi olacak. 
+Yine de sonuç olumlu.
+2. Satınalma işlemi (Tip 1'dir).
+Trendi şu şekilde belirliyoruz:STOKASTİK (52, 1, 10) :
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+50 seviyesinin üstünde mavi çizgi. Yükseliş trendi.
+Bu ana trend içerisinde bir geri çekilme tespit ediyoruz STOKASTİK 
+(10, 1, 5) :
+Yeşil çizginin 20 seviyesine (yeşil çizgi) dokunarak geri çekilmesini ve Bollinger 
+bandının alt kısmının test edilerek yükseliş formasyonu oluşmasını tespit ediyoruz.
+Boğa mumunun kapanışında üç işleme giriyoruz. Orta Bollinger 
+bandında ilk işlemimizi (Yeşil Çizgi) başlatıyoruz ve SL'yi beyaz çizginin 
+olduğu yere taşıyoruz.
+Bollinger bandının üst kısmındaki 2. operasyonu (Mavi çizgi) serbest bırakıyoruz ve 3. 
+operasyonun çalışmasına izin veriyoruz.
+3. Satınalma işlemi (Tip 1'dir).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Trendi şu şekilde belirliyoruz:STOKASTİK (52, 1, 10) : 50 
+seviyesinin üstünde mavi çizgi. Yükseliş trendi.
+Bu ana trend içerisinde bir geri çekilme tespit ediyoruz STOKASTİK 
+(10, 1, 5) :
+Yeşil çizginin 20 seviyesine (yeşil çizgi) dokunarak geri çekilmesini ve Bollinger 
+bandının alt kısmının test edilerek yükseliş formasyonu oluşmasını tespit ediyoruz.
+Boğa mumunun kapanışında üç işleme giriyoruz. Orta Bollinger 
+bandında ilk işlemimizi (Yeşil Çizgi) başlatıyoruz ve SL'yi beyaz çizginin 
+olduğu yere taşıyoruz. Bollinger bandının üst kısmındaki 2. operasyonu 
+(Mavi çizgi) serbest bırakıyoruz ve 3. operasyonun çalışmasına izin 
+veriyoruz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+* Ben uygulamıyorum ama 3. işlemde trailing stop yapmak mümkün 
+çünkü daha az deneyimli kişiler için ne zaman çıkış yapılacağını bilmek 
+kafa karıştırıcı olabilir. Bu sefer, takip eden stop olmasaydı, 3. 
+operasyonun SL'sine dokunmuş olacaktık çünkü fiyat lehine büyük 
+trendler arıyoruz ve bu sefer öyle olmadı. Benim önerim ikinci 
+seçenektir.
+5. alım işlemi (Tip 1'dir).
+Trendi şu şekilde belirliyoruz:STOKASTİK (52, 1, 10) : 50 
+seviyesinin üstünde mavi çizgi. Yükseliş trendi.
+Bu ana trend içerisinde bir geri çekilme tespit ediyoruz STOKASTİK 
+(10, 1, 5) :
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Yeşil çizginin 20 seviyesine (yeşil çizgi) dokunarak geri çekilmesini ve Bollinger 
+bandının alt kısmının test edilerek yükseliş formasyonu oluşmasını tespit ediyoruz.
+Boğa mumunun kapanışında üç işleme giriyoruz. Fiyat SL'ye doğru 
+gidiyor. Bir trend değişikliğiyle karşılaştık. Yapmamız gereken tek şey bir 
+sonraki operasyona destek olmak.
+1. Satış operasyonu (Tip 2'dir).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Trendi şu şekilde belirliyoruz:STOKASTİK (52, 1, 10) : 
+Trend değişimi, yükselişten düşüşe.
+Bu ana trend içerisinde bir geri çekilme tespit ediyoruz STOKASTİK 
+(10, 1, 5) :
+Yeşil çizginin geri çekilmesini ve orta Bollinger bandının test edilmesini, bunun da 
+düşüş eğilimini oluşturduğunu tespit ediyoruz. Görüldüğü gibi düşüş mumu orta 
+Bollinger bandının altında kapanıyor.
+Ayı mumunun kapanışında üç işleme giriyoruz. Bollinger bandının alt 
+kısmında ilk işlemimizi (Yeşil Çizgi) başlatıyoruz ve SL'yi beyaz çizginin 
+olduğu yere taşıyoruz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Fiyat geri çekiliyor ve biraz daha aşağıda Bollinger bandının alt 
+kısmına dokunuyor. 2. işlemi (Mavi çizgi) serbest bırakıp 3. işlemin 
+çalışmasına izin veriyoruz.
+2. Satış operasyonu (Tip 1'dir).
+Trendi şu şekilde belirliyoruz:STOKASTİK (52, 1, 10) : 50 
+seviyesinin altındaki mavi çizgi. Düşüş trendi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Bu ana trend içerisinde bir geri çekilme tespit ediyoruz STOKASTİK 
+(10, 1, 5) :
+Yeşil çizginin 80 seviyesine (yeşil çizgi) dokunarak geri çekildiğini ve 
+Bollinger üst bandının test edilerek düşüş eğilimi oluşturduğunu tespit 
+ediyoruz.
+Ayı mumunun kapanışında üç işleme giriyoruz. Orta Bollinger 
+bandında ilk işlemimizi (Yeşil Çizgi) başlatıyoruz ve SL'yi beyaz çizginin 
+olduğu yere taşıyoruz.
+Fiyat lehimize yükselişini sürdürüyor, Bollinger bandının alt sınırına 
+dokunuyor ve 2. operasyonu (mavi çizgi) serbest bırakıyoruz. Üçüncü işlemi 
+çalıştırıp kalan son SL'yi beyaz çizgide bırakıyoruz.
+OPERASYONLAR İLE
+EURUSD.
+01 ARALIK 2017 - 16 TEM 2018 Arası EURUSD Giriş Noktaları (Grafik)
+günlük).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+1. satın alma işlemi (Tip 1 mi yoksa 2 mi?)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Trendi şu şekilde belirliyoruz:STOKASTİK (52, 1, 10) : 
+Ayı trendinden boğa trendine geçiş.
+Bu ana trend içerisinde bir geri çekilme tespit ediyoruz STOKASTİK 
+(10, 1, 5) :
+Yeşil çizginin geri çekilmesini ve orta Bollinger bandının test 
+edilmesini, bunun da düşüş eğilimini oluşturduğunu tespit ediyoruz. 
+Bu durumda bunu tip 1 operasyonla karıştırabiliriz, ancak alt Bollinger 
+bandını test etmez ve trendde bir değişiklik olduğu için tip 2'ye öncelik 
+veririz. Gördüğümüz gibi, ayı mumu orta Bollinger bandının altında 
+kapanır. Mum orta Bollinger bandının üzerinde kapandığında üç 
+işleme giriyoruz.
+Bollinger bandının üst kısmında ilk işlemi (Yeşil Çizgi) başlatıyoruz ve 
+SL'yi beyaz çizginin olduğu yere taşıyoruz. A meydana gelir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+fiyat geri çekilip Bollinger bandının üst kısmına biraz daha yukarıdan 
+dokunabilir. 2. işlemi (Mavi çizgi) serbest bırakıp 3. işlemin çalışmasına 
+izin veriyoruz. Trendin hızı azaldığında ve MACD'de ayrışma 
+görüldüğünde, üst Bollinger bandı test edildikten ve düşüş eğilimi 
+oluştuktan sonra, 3. işlemden elde edilen karı almak için iyi bir zaman 
+gibi görünüyor.
+2. Satınalma işlemi (Tip 1'dir).
+Trendi şu şekilde belirliyoruz:STOKASTİK (52, 1, 10) :
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+50 seviyesinin üstünde mavi çizgi. Yükseliş trendi.
+Bu ana trend içerisinde bir geri çekilme tespit ediyoruz STOKASTİK 
+(10, 1, 5) :
+Yeşil çizginin 20 seviyesine (yeşil çizgi) dokunarak geri çekilmesini ve Bollinger 
+bandının alt kısmının test edilerek yükseliş formasyonu oluşmasını tespit ediyoruz.
+Boğa mumunun kapanışında üç işleme giriyoruz. Orta Bollinger 
+bandında ilk işlemimizi (Yeşil Çizgi) başlatıyoruz ve SL'yi beyaz çizginin 
+olduğu yere taşıyoruz.
+Fiyat lehimize yükselişini sürdürüyor, Bollinger bandının üst sınırına dokunuyor ve 2. 
+operasyonu (Mavi çizgi) serbest bırakıyoruz. Üçüncü operasyonun çalışmasına izin verdik.
+1. Satış operasyonu (Tip 2'dir).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Trendi şu şekilde belirliyoruz:STOKASTİK (52, 1, 10) : 
+Trend değişimi, yükselişten düşüşe.
+Bu ana trend içerisinde bir geri çekilme tespit ediyoruz STOKASTİK 
+(10, 1, 5) :
+Yeşil çizginin geri çekildiğini ve bu durumda Bollinger bandının üst 
+kısmının test edildiğini, düşüş eğiliminin oluştuğunu gördük. Mum üst 
+Bollinger bandının altına kapandığında üç işleme giriyoruz.
+Bollinger bandının üst kısmında ilk işlemi (Yeşil Çizgi) başlatıyoruz ve 
+SL'yi beyaz çizginin olduğu yere taşıyoruz. Alt Bollinger bandında 2. 
+işlemi (Mavi çizgi) serbest bırakıyoruz ve
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Üçüncü operasyon. Uzun vadede trendin tükendiğini görmüyoruz. Bu 
+sefer SL'yi hareket ettirip karı garantileyebiliriz.
+2. Satış operasyonu (Tip 1'dir).
+Trendi şu şekilde belirliyoruz:STOKASTİK (52, 1, 10) : 50 
+seviyesinin altındaki mavi çizgi. Düşüş trendi.
+Bu ana trend içerisinde bir geri çekilme tespit ediyoruz STOKASTİK 
+(10, 1, 5) :
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Yeşil çizginin 80 seviyesine (yeşil çizgi) dokunarak geri çekildiğini ve 
+Bollinger üst bandının test edilerek düşüş eğilimi oluşturduğunu tespit 
+ediyoruz.
+Ayı mumunun kapanışında üç işleme giriyoruz. Orta Bollinger 
+bandında ilk işlemimizi (Yeşil Çizgi) başlatıyoruz ve SL'yi beyaz çizginin 
+olduğu yere taşıyoruz.
+Fiyat lehimize yükselişini sürdürüyor, Bollinger bandının alt sınırına dokunuyor ve 2. 
+operasyonu (mavi çizgi) serbest bırakıyoruz. Üçüncü operasyonun çalışmasına izin verdik.
+TEMAS ETMEK:
+Yukarıda belirttiğim gibi, sorularınızı yanıtlamak ve paylaşım işlemlerine 
+devam etmek için e-postamı bırakıyorum. Ayrıca operasyonlarımı 
+kolaylaştıran kullandığım göstergeleri de e-posta yoluyla sizinle 
+paylaşmak istiyorum; Örneğin, tek bir grafik üzerinden tüm döviz 
+çiftlerine erişim imkânı sağlayan BUTTONS göstergesi.
+Bu harika gösterge, bir grafikten diğerine geçerken hayatınızı 
+kolaylaştıracak ve size daha fazla zaman kazandıracaktır. Bana ulaşmanız 
+yeterli, size göndermekten mutluluk duyarım.
+TEMAS ETMEK:frq.mid@gmail.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]

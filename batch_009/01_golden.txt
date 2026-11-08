@@ -1,0 +1,187 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 9\Baskı 9\Golden Strateji - Russ Horn (11 sayfa) - @eseckal.pdf
+PAGES: 11
+
+
+=== PDF PAGE 1 ===
+Hediyeler
+Altın Strateji
+Russ Horn tarafından
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+www.RapidResultsMethod.com
+Altın Strateji
+Bu raporda size, kazanma yüzdesi o kadar yüksek olan ve "Altın" strateji olarak adlandırılmayı 
+hak eden bir işlem sistemini göstereceğim.
+Altın Stratejinin en büyük avantajlarından biri, sizin için uygun olan her zaman diliminde 
+işlem yapılabilmesidir. Bilgisayarınızın önünde geçirecek yeterli zamanınız yoksa, M1 (1 
+dakika) ve M5 (5 dakika) gibi daha düşük zaman dilimlerinde işlem yapabilirsiniz. Öte 
+yandan, işe gitme baskısı altında değilseniz ve işleminizi her birkaç saatte bir 
+izleyebiliyorsanız, H1 (1 saat) ve H4 (4 saat) zaman dilimlerinde işlem yapmak tam size 
+göre.
+Sistem Bileşenleri ve Göstergeleri
+Zaman aralığı:
+Tüm zaman dilimleri
+Döviz Çiftleri:
+EUR/USD ve GBP/USD gibi önemli pariteler.
+Göstergeler:
+1. 55 Düzeltilmiş Hareketli Ortalama (SMMA) - Yüksek fiyata ayarlandı.
+2. 55 Düzeltilmiş Hareketli Ortalama (SMMA) - Düşük fiyata ayarlandı.
+3. 55 periyot Williams Yüzde Aralığı (%R) - seviyeler -25 ve -75 değerlerine ayarlanmıştır.
+4. Stokastik Osilatör - %K periyodu = 5, Yavaşlama = 5, %D periyodu = 5, Fiyat alanı = 
+Düşük/Yüksek, MA yöntemi = Basit, seviyeler 20 ve 80'de (varsayılan).
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+www.RapidResultsMethod.com
+Grafik Kurulumu
+1. 55 periyotlu SMMA (Düzleştirilmiş Hareketli Ortalama)-Yüksek fiyata ayarlandı.
+1. Üzerine tıklayınNavigatörNavigator penceresini açmak için düğmeye basın.
+2. Üzerine tıklayınGöstergelerGöstergelerin listesini genişletmek için.
+3. BulHareketli OrtalamalarListeye gidin ve üzerine çift tıklayın. Ayarlar iletişim kutusu 
+açılacaktır.
+4. AyarlayınDönem55 yaşında.
+5. AyrılmakVardiya0'da.
+6. Üzerine tıklayınMA yöntemiaçılır menüyü açın ve Smoothed'ı seçin.
+7. Üzerine tıklayınBaşvurmak içinaçılır menüyü açın ve Yüksek'i seçin.
+8. TıklayınStilve 55 SMMA'nız için rengi seçin. Bu grafikte Yeşil kullanıyoruz.
+9. Satır türünü varsayılan olarak bırakın.
+10.Burada 55 SMMA satır genişliğini ayarlayın.
+11.Üzerine tıklayınTAMAMGrafiğinize 55 SMMA'yı uygulamak için butona tıklayın.
+4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+www.RapidResultsMethod.com
+2. 55 periyotlu SMMA (Düzleştirilmiş Hareketli Ortalama)-Düşük fiyata ayarlandı.
+Temel olarak, 55 SMMA setini Düşük'e ekleme adımları, 55 SMMA setini Yüksek'e ekleme 
+adımlarıyla aynıdır. Sadece aynı adımları izleyin ancak farklı bir renk veBaşvurmak için
+Düşük. Bu grafikte Crimson rengini kullanıyoruz.
+5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+www.RapidResultsMethod.com
+3. 55 periyot Williams Yüzde Aralığı (%R)-Seviyeler -25 ve -75 değerlerine ayarlanmıştır.
+1. Üzerine tıklayınNavigatörNavigator penceresini açmak için düğmeye basın.
+2. Üzerine tıklayınGöstergelerGöstergelerin listesini genişletmek için.
+3. BulWilliams'ın Yüzde Aralığı (%R)Listeye gidin ve üzerine çift tıklayın. Ayarlar 
+iletişim kutusu açılacaktır.
+4. AyarlayınDönem55 yaşında.
+5. Stil'e tıklayın ve %55 R'niz için rengi seçin. Bu grafikte Aqua'yı kullanıyoruz.
+(5)
+6. Satır türünü varsayılan olarak bırakın.
+7. Bu, %55 R çizgi genişliğini ayarlamak içindir.
+8. Üzerine tıklayınSeviyelersekmesi. Burada %55 R için seviyeleri ayarlayabilirsiniz.
+9. Değerlerden birine çift tıklayarak varsayılan seviyeleri değiştirin. İlk seviyeyi 
+girin, -75.
+10.Diğer varsayılan değere çift tıklayın ve kullanacağımız diğer seviyeyi, -25'i girin.
+11.TıklayınStilve 55 %R seviyeleriniz için Beyaz rengini seçin.
+12.Üzerine tıklayınTAMAMGrafiğinize %55 R'yi uygulamak için düğmeye basın.
+6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+www.RapidResultsMethod.com
+4. Stokastik Osilatör- %K periyodu = 5, Yavaşlama = 5, %D periyodu = 5, Fiyat alanı = 
+Düşük/Yüksek, MA yöntemi = Basit ve seviyeler 20 ve 80 (varsayılan).
+1. Üzerine tıklayınNavigatörNavigator penceresini açmak için düğmeye basın.
+2. Üzerine tıklayınGöstergelerGöstergelerin listesini genişletmek için.
+3. BulStokastik OsilatörListeye tıklayın ve ayarlar iletişim kutusunu açmak için 
+üzerine çift tıklayın.
+4. Ayrılmak%K dönemivarsayılan olarak 5'tir.
+5. AyarlaYavaşlama5'e kadar.
+6. Ayarla%D dönemi5'e kadar.
+7. AyrılmakFiyat alanıVarsayılan olarak Düşük/Yüksek'tir.
+8. AyrılmakMA yöntemiBasit olduğu için varsayılan olarak öyledir.
+9. Üzerine tıklayınTAMAMStokastik Osilatörü grafiğinize uygulamak için.
+7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+www.RapidResultsMethod.com
+Uzun Giriş Kuralları
+1. Fiyatın Yüksek (Yeşil) olarak belirlenen 55 SMMA seviyesinin üzerine çıkması gerekiyor.
+2. %R -25 seviyesinin üzerine çıkar.
+3. Stokastik Osilatör Sinyal çizgisinin üzerindedir.
+4. Yukarıda belirtilen tüm koşullar karşılandığında, uzun pozisyonumuzu 
+yerleştirebiliriz. İki olası giriş türümüz var: Agresif ve Muhafazakar.
+Agresif girişinde sinyal mumunun kapanmasını beklemeden alış emri açıyoruz.
+Muhafazakar girişinde, işlem yapmadan önce sinyal mumunun Yüksek olarak ayarlanan 55 
+SMMA'nın üzerinde kapanmasını bekleriz. Bu, piyasanın doğru tarafında işlem yaptığımızın bir 
+onayı olarak hizmet eder.
+5. Stop Loss'u en son salınımın en düşük noktasının birkaç pip altına ayarlayın.
+6. Kar Al seviyesini, zarar durdur seviyesinin iki katı olarak ayarlayın veya fiyat Yüksek olarak ayarlanan 55 
+SMMA seviyesinin altına düştüğünde işlemi kapatın.
+Bir sonraki sayfada uzun vadeli bir işlem örneğine bakalım.
+8
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+www.RapidResultsMethod.com
+Uzun İşlem Örneği
+Yukarıdaki görselde, GBP/USD 5 dakikalık grafiğimiz var. Dikey çizgi (A) boyunca, uzun bir 
+işlem yapmak için tüm koşullar aynı anda karşılandı - fiyat, Yüksek olarak ayarlanan 55 
+SMMA'nın üzerine çıktı, 55 %R -25 seviyesinin üzerine çıktı ve Stokastik Osilatör Sinyal 
+çizgisinin üzerindeydi.
+Dolayısıyla tüm kuralların sağlandığı sinyal mumunun kapanışında 1.60715 seviyesindeki yatay 
+çizgi (B) boyunca alış pozisyonu açıldı.
+Alım işlemi yapıldıktan hemen sonra, Stop Loss son salınım dip noktasının (C) hemen altında 1,60655 
+seviyesinde 6 pip olarak belirlendi.
+Girişin 12 pip üstünde bir Kar Al 1.60835 (D) olarak belirlendi. Gördüğünüz gibi, Kar 
+Hedefi 35 dakika sonra gerçekleşti.
+Şimdi Short ticaret koşullarına bir göz atalım.
+9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+www.RapidResultsMethod.com
+Kısa Giriş Kuralları
+1. Fiyatın Düşük (Kızıl) olarak belirlenen 55 SMMA seviyesinin altına geçmesi gerekiyor.
+2. %R -75 seviyesinin altına iniyor.
+3. Stokastik Osilatör Sinyal çizgisinin altındadır.
+4. Yukarıda belirtilen tüm koşullar karşılandığında, kısa pozisyon açabiliriz. Agresif bir 
+giriş için, işleme girmeden önce mevcut mumun kapanmasını beklememize gerek 
+yoktur.
+Muhafazakar bir giriş için, işlemi yapmadan önce mumun Düşük olarak ayarlanan 55 SMMA'nın altına 
+kapanmasını bekleyin.
+5. Stop Loss'u son salınımın en yüksek noktasının birkaç pip üstüne ayarlayın.
+6. Kar Al seviyesini Stop Loss seviyesinin iki katına ayarlayın veya fiyat Düşük olarak ayarlanan 55 
+SMMA seviyesinin üzerine çıktığında işlemi kapatın.
+Şimdi kısa bir ticaret örneğine bakalım.
+10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Kısa İşlem Örneği
+İşte EUR/USD 5 dakikalık grafikte bir satış işlemi örneği.
+Dikey çizgi (A) boyunca, bir satış ticareti için tüm kurallar aynı anda karşılandı. Fiyat, 
+Düşük olarak ayarlanan 55 SMMA'nın altına geçti, 55 %R -75 seviyesinin altına geçti 
+ve Stokastik Osilatör Sinyal çizgisinin altındaydı.
+Yukarıdaki sinyaller göründükten hemen sonra, 1.29760 (B) seviyesinde kısa bir işlem açıldı. Daha sonra 
+1.29920 (C) seviyesindeki en yakın swing high noktasının hemen üzerine 12 piplik bir Stop Loss belirlendi.
+Son olarak 32 piplik Take Profit seviyesi 1.29440 (D) seviyesinde belirlendi ve bu seviyeye 
+40 dakika sonra ulaşıldı.
+11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Altın Strateji'nin tüm olayı budur, basit ama etkili bir teknik. Bu sistem, mümkün olan en iyi 
+girişlerden bazılarını tespit etmenize yardımcı olabilir. Dahası, istediğiniz herhangi bir zaman 
+diliminde işlem yapma avantajını size sağlar.
+Bunun sizin daha iyi bir yatırımcı olmanıza yardımcı olmasını umuyorum.
+Saygılarımla,
+12
+www.forexgercekleri.xyz - [Twitter: @eseckal]

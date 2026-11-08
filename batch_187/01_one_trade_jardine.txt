@@ -1,0 +1,3982 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 11\Baskı 11\Günde Sadece 1 Trade - Michael Jardine (181 sayfa) - @eseckal.pdf
+PAGES: 181
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+giriiş
+Bölüm Bir: Özetle
+Sana Söyleyeceğim Şey
+Pazar Profili
+Kontrol Noktası
+Kontrolün Bakir Noktası
+Jardine Sıradağları
+Evrensel Tablo
+Sana Söylediklerim
+Birinci Bölüm: Pazar Profillemesinin Temelleri
+Bölüm İki: Pazar Profili
+Fiyat Histogramı Grafiği ile Piyasa Profilinin Ölçülmesi
+Kumdaki Çizgiler
+Tahmin Hatları
+Fibonacci Bir Varsayım Doğrusu Olarak
+Kumdaki En İyi Çizgi
+2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Profillerin Profilleri
+Üçüncü Bölüm: Kontrolün Bakir Noktası
+Kumdaki O Çizgiler
+Sayıların Gücü
+POC Fiyat Çekicisi Olarak
+VPC Daha Güçlü Bir Fiyat Çekicisi Olarak
+Pazar Hafızası Sadece Belirli Bir Süredir
+Dördüncü Bölüm: Jardine Sıradağları
+Ne Yukarı Çıkıyor
+Doğal ve Potansiyel
+Newton'a geri dön
+Objektiflik Dostunuz, Öznellik Düşmanınızdır
+Bölüm İki: Evrensel Sistem
+Beşinci Bölüm: Giriş: Osilatör
+O kıvrımlı çizgiler
+Büyük Osilatör Tartışması
+Stokastik
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Büyük Ayarlar Tartışması
+Peki Ne İşe Yarar?
+Birden Fazla Zaman Dilimi Kullanma
+Ayarlarım— Kutsal Kase (Değil)
+"Satın Al" ve "Sat" Sinyallerini Oluşturmak İçin Nesnel 
+Gereksinimler
+Bir Alım veya Satım Sinyali Yürütme
+Bölüm Altı: Dışarı Çıkmak: Ortalama Aralık
+Hedefimize Hızlı Bir Bakış
+İlk Dalgayı Yakalamak
+Sırada Ne Var?
+Kar Koruması
+Araştırmayı Yap
+Hedefinizi Optimize Etme
+Yedinci Bölüm: Jardine Sıradağları ve Evrensel Harita
+Bu Profiller Hakkında
+Grafik 1: Jardine Sıradağları
+Grafik 2: “Üni”
+4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Ticaret Blogları
+Üçüncü Bölüm: Teoriyi Pratiğe Dökmek
+Bölüm Sekiz: Ticaret Türleri
+Tip 1: Standart Keltner Çıkışı
+Tip 2: Fibonacci Uzantısı ile Keltner Çıkışı
+Tip 3: Karşı Piyasa
+Kaçırılan İşlemler
+Dokuzuncu Bölüm: Zor Kısım
+O sinir bozucu duraklamalar
+Fiyat Tabanlı Durdurma Noktaları
+Piyasa Tabanlı Durdurmalar
+Doğal Duraklar
+Ders: En Kötü Senaryo
+Nakit Yönetimi Hakkında Birkaç Söz
+Kaybetmeye ve Kazanmaya Hazırlanmak
+Onuncu Bölüm: Fibonacci'ye Dönüş: Jardine Trimesterleri
+Ticaret Kaynak Rehberi
+5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Ek A: Yapı Taşları
+Ek B: Fibonacci İncelemesi
+Ek C: 500 Günlük İşlem Özeti
+Sözlük
+Önerilen Okumalar
+6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+giriiş
+"Kendinizi mahvetmeden bu teknolojik ergenliği nasıl 
+atlattınız?"
+- Ellie Arroway, Contact filminde
+Jodie Foster hayranı değilim ama bu benim en sevdiğim alıntılardan 
+biri çünkü bunun sadece filmin yapıldığı 1997'ye kadar olan yıllarda 
+değil, hatta daha sonraki on iki yılda teknolojiyle ilgili 
+deneyimlerimizi özetlediğine inanıyorum. Ayrıca teknolojiyle ilgili 
+hayal kırıklığının ilk işaretlerini görmeye başladığımıza veya en 
+azından bunun her derde deva olmadığının farkına vardığımıza 
+inanıyorum. Bu homurtuları her yerde görebiliyoruz, yavaş yemek 
+hareketinden yavaş para hareketine kadar. Elbette, eski Wall Street 
+yatırım şirketlerinden bankacılara dönüşenlerin bazıları, gelişmiş 
+bilgisayarlar ve sözde yüksek frekanslı ticaretin yardımıyla Büyük 
+Buhran'dan bu yana görülen en kötü piyasa durgunluğundan 
+kurtuldular ama öz sermaye getirilerinin yüzde 50'ye yaklaştığını 
+görmüyorum. Yine de sizin ve benim gibi sıradan ölümlülerin 
+günde sadece bir işlem yaparak başarabileceği şey bu. Tek 
+ihtiyacınız olan piyasaların nasıl çalıştığına dair temel bir anlayış ve 
+bu anlayışı işlem yapılabilir bir sisteme dönüştürmek için nesnel bir 
+yöntem. Herkesin bunu yapabileceğini iddia etmiyorum. 
+Sürdürülebilir olduğunu iddia etmiyorum. Ve ölçeklenebilir olup 
+olmadığından emin değilim. Ancak 500 günlük bir ticaret sinyali 
+kaydı
+1Her işlemden önce her gün blogumda yayınladığım , 
+Jardine Aralığı, Fibonacci ve birkaç basit göstergenin bilgisi 
+kullanılarak %50 ROE'nin tamamen elde edilebileceğini 
+öne sürüyor.
+10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+İlk kitabım olan Fibonacci Ticaretinde Yeni Sınırlar, 
+Fibonacci'ye odaklanan ve ondan türetilen grafik teknikleri ve 
+ticaret stratejilerinin temel bir saha rehberidir. Herkesin farklı 
+hassasiyetleri vardır; farklı yöntemler farklı insanlar için işe 
+yarar. Yeni Sınırlar'da hedefim üç yönlüydü. İlk olarak, piyasa 
+yapısının temellerini tanıtarak ve basit bir aritmetik sayı 
+dizisinin (Da Vinci Şifresi'nde kullanılanla aynı) yalnızca 
+doğadaki büyüme modellerine değil, aynı zamanda pazara 
+da nasıl uygulandığını açıklayarak günlük ticaret için temel 
+oluşturmak. İkinci olarak, çoğunlukla Fibonacci'nin bu basit 
+mantığına dayanan bir dizi yararlı grafik tekniği tanıttım. Son 
+olarak, bu teknikleri ve stratejileri nasıl alıp kendinize bir 
+ticaret sistemi kuracağınızı genel hatlarıyla açıkladım; sadece 
+teoriyi değil, pratiği de içeren bir sistem; elektronik pazarda, 
+canlı ve gerçek zamanlı olarak etrafınızda olup bitenlerin 
+"kaosuna" anlam kazandırarak sistemi optimize etmek için 
+uygulanan giriş ve çıkış yöntemleri, durdurmalar ve teknikler.
+New Frontiers bir saha rehberiyse, Just a Trade a Day de 
+bir kullanım kılavuzudur. Karşıma çıkan en nesnel ve 
+tutarlı işlem sistemine dair özlü bir kılavuzdur. 
+Biliyorum çünkü sistemi oluşturmak için New 
+Frontiers'da tanıttığım araçları kullandım ve New 
+Frontiers'ın yayınlanmasından bu yana geçen altı yıldır 
+tutarlı ve başarılı bir şekilde kullandım.
+Bir sistem yaratmak için hedeflere sahip olmak önemlidir. Bazı insanlar 
+tüm gün boyunca işlem yapmanın heyecanını sever. Bazıları yüksek 
+riskten yüksek getiri elde etmekten hoşlanır - Las Vegas bu tür insanlar 
+için iyi bir yerdir. Benim hedeflerim biraz daha gerçekçi, en azından 
+kendi hassasiyetlerime göre: İşlemlerimi her gün bir veya iki net, 
+kolayca ölçülebilir noktaya indirmek istiyorum.
+11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Başarılı bir ticaret büyük ihtimalle. Dev bir balık yakalamakla 
+ilgilenmiyorum. Yüzlerce küçük balık yakalamakla ilgilenmiyorum. 
+Nehrin kıyısında oturmak, akan suyun gürül gürül sesinin tadını 
+çıkarmak, kitabımın tadını çıkarmak ve sonra— zamanı geldiğinde—
+oltayı suya atmak, bir balık yakalamak ve her gün eve gitmek 
+istiyorum. Zamanımı, yöntemleri ve balık hikayeleriyle beni 
+şaşırtacak diğer tüccarlarla sohbet ederek harcamak istemiyorum. 
+Piyasa her yukarı veya aşağı sıçradığında veya yanlara doğru 
+hareket ettiğinde baştan çıkarılmak istemiyorum. Ve piyasa belirli 
+bir yöne doğru hareket ettiğinde “büyük ticareti” kaçırmak 
+umurumda değil. Sadece günde bir ticaret yapmak istiyorum.
+Bu yüzden Fibonacci Trading'de Yeni Sınırlar'daki teknikleri 
+kullanarak mantıklı bir işlem sistemi oluşturdum, buna Jardine 
+Range adını verdim. Kutudan çıktığı gibi sizin için işe yarayabilir. 
+Zaten kullandığınız bir yöntemi veya sistemi tamamlayabilir. Her iki 
+durumda da Just a Trade a Day'in işlem yapmanıza tutarlılık ve 
+nesnellik getirmesini, stresi ve ekran başında geçirilen sonsuz 
+saatleri ortadan kaldırmasını umuyorum, böylece değerli 
+zamanınızı sizin için gerçekten önemli olan şeylere harcayabilirsiniz. 
+Balık tutmak gibi. Ya da sadece çağlayan bir derenin sesini 
+dinlemek gibi.
+1Blogumdan aldığım 500 günlük işlem kaydı Ek C'de 
+özetlenmiştir.
+12
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Bir
+Özetle
+SİZE SÖYLEYECEĞİM 
+ŞEYLER
+Bunu ortaokulda öğrendim: "Ne söyleyeceğini söyle, 
+sonra söyle, sonra ne söylediğini söyle." Yıllar ve bir 
+MBA sonrasında, belgenin ne kadar uzun olursa olsun, 
+"onlara söyle" kısmını bir veya iki sayfaya -sözde 
+"Yönetici Özeti"- sığdıramazsanız, yazdığınız diğer hiçbir 
+şeyin okunmayacağını öğrendim. İşte Just a Trade a 
+Day'in konusu.
+Her gün, piyasa yeni başlıyor. Dünyanın en likit finansal 
+ürünlerinden biri olan ve "ES" olarak bilinen S&P Futures E-mini 
+sözleşmesini alıp satıyorum. Likit iyidir. Ne kadar likit olursa, 
+manipülasyona o kadar az açıktır. Her gün piyasa açıldığında, 
+yukarı mı yoksa aşağı mı gideceği konusunda kesinlikle hiçbir 
+fikrim yok. Aslında, her ikisini de yapacağından oldukça eminim. 
+Sadece önce hangi yöne gideceğini bilmiyorum ve nerede 
+biteceğini de bilmiyorum. Bunların hiçbiri önemli değil, yeter ki 
+o gün için olası aralığın ne olduğunu bileyim.
+Bölüm 4'te tartışılan Jardine Range adlı bir gösterge geliştirdim. 
+Fiyatların şu şekilde gideceğini söyleyen bir kristal küre değil.
+13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+o aralığın en yükseği veya en düşüğü. Ancak, fiyatlar o 
+aralığın en üstüne ulaştığında (kısa git) ve fiyatlar o aralığın 
+en altına ulaştığında (uzun git) ne yapacağımı söyleyen çok 
+kullanışlı bir araçtır. Genellikle, piyasa her gün aralığın 
+yalnızca bir ucuna dokunur, bu nedenle bu kitabın adı. 
+Bazen, aralığın her iki ucuna da dokunur, bu durumda, bir 
+günde çılgınca iki işlem yaparım. Bazen, aralığın hiçbir ucuna 
+dokunmaz, bu durumda, piyasanın ne yaptığıyla 
+ilgilenmeden rahatlamak, kitap okumak veya diğer 
+projelerim üzerinde çalışmakla yetinirim. Nadiren, o aralığın 
+ötesine uzanır. Seçenekler bunlardır.
+Bu yüzden Jardine Range'de işlem yapmak için bir sistem oluşturdum. 
+Çok basit. Piyasa aralığın her iki ucuna da hareket edene kadar oturup 
+beklerim. Daha sonra o uçtan bir tersine dönüş işlemi yaparım. 
+Örneğin, piyasa aralığın en üst ucuna kadar hareket ederse, kısa 
+pozisyon alırım. Aralığın en altına hareket ederse, uzun pozisyon alırım. 
+Daha sonra, işlemin çıkışını maksimize etmek için Fibonacci dahil olmak 
+üzere bir dizi gösterge kullanırım. Sonra, işim biter.
+PAZAR PROFİLİ
+Market Profile™, CBOT tarafından tescilli bir göstergedir, ancak 
+aynı zamanda Fiyat Histogramı olarak da bilinir. Temel olarak, 
+histogram formatında, piyasanın her fiyat noktasında ne kadar 
+zaman (veya hacim) harcadığını gösterir. Fiyatların flamanın 
+direğine (veya eksenine) doğru yükseldiği bir flamayı hayal edin. 
+Flamanın şekli tamamen piyasa sırasındaki fiyat hareketiyle 
+belirlenir. Piyasa geniş bir aralığı kapsıyorsa ve belirli bir fiyat 
+noktasında fazla zaman harcamıyorsa, flama uzun ve küt olur. 
+Piyasa küçük bir aralığı kapsıyorsa
+14
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+ve belirli bir fiyat noktasında uzun süre kalırsa, flama 
+geniş ve keskin olacaktır.
+KONTROL NOKTASI
+Bu, bir flamanın "noktasıdır" - piyasanın belirli bir 
+günde en fazla zaman harcadığı yer. Bazen bir flamanın 
+iki veya daha fazla noktası olabilir, ancak genellikle 
+yalnızca bir noktası vardır. Nokta keskin veya kör 
+olabilir. Bu, piyasanın belirli bir günde işlem yapmanın 
+en "rahat" olduğu noktayı veya fiyat bölgesini temsil 
+ettiği için yararlı bir bilgi parçasıdır.
+İnsan doğası gereği, rahat olduğumuz alanlara geri 
+dönmeyi severiz. Bir restorana gittiyseniz ve oradaki 
+yemeğin tadını çıkardıysanız, büyük ihtimalle geri 
+gidersiniz. Ve büyük ihtimalle oradan geçiyorsanız ve 
+açsanız, durursunuz. Tüccarlar Kontrol Noktası (POC) ile 
+aynı şeyi yapar. Piyasa daha önce rahat bir fiyat 
+noktasına ne kadar yaklaşırsa, oraya gerçekten 
+gideceğinden o kadar emin olabilirsiniz. Çok az hayvan 
+su içmeden sulama deliğine yaklaşır -tabii ki- korkup 
+kaçmadıkları sürece! Peki, piyasa bir POC'ye hareket 
+ettiğinde ne olur? Tıpkı bir hayvanın sulama deliğine 
+hareket ettiğinde olduğu gibi. Bir duraklama yapar 
+-veya bir su içer- sonra geri döner.
+15
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+KONTROLÜN BAKİR 
+NOKTASI
+Virgin POC veya VPC, dokunulmamış, yani pazarın henüz 
+yeniden ziyaret etmediği bir Kontrol Noktasını tanımlamak için 
+bulduğum bir terimdir. Hiçbir hayvanın içmediği yeni bir sulama 
+deliği gibidir. Mantık, hayvanların aksine insanların daha önce 
+hiç kimsenin gitmediği bilinen konfor alanlarına çekilme 
+eğiliminde olmasıdır. Kayakçıların yeni bir kar yağışından sonra 
+en sevdikleri pistlere akın etmesinin nedeni budur. Bölgeyi 
+bilirler ve oradaki karın taze ve bakir olacağını bilirler. Bir 
+VPC'nin gücü normal bir POC'den çok daha fazladır ve bu 
+nedenle bir gösterge olarak daha güvenilirdir.
+JARDİNE SERİSİ
+Jardine Sıradağları, piyasanın açılış fiyatının en 
+üstündeki en yakın VPC'yi ve en altındaki en yakın VPC'yi 
+alır. Bunlar, işlem gününü etkileyecek en güçlü iki 
+"çekimsel çekim"dir. Günün bir noktasında, fiyatların bu 
+iki noktadan birine dokunma olasılığı %95'tir. Fiyatlar bu 
+iki noktadan birine dokunursa, geri sıçrama olasılığı 
+yüksektir. Bu, Jardine Sıradağları'dır; gün boyunca 
+balığınızı yakalama olasılığınızın en yüksek olduğu iki 
+yer.
+16
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+EVRENSEL TABLO
+Fiyatlar aşağıdan bir VPC'ye yükseldiğinde, bir toparlanma 
+bekleyebilirsiniz. Bu, kısa pozisyon açmak için iyi bir yerdir. Fiyatlar 
+yukarıdan bir VPC'ye düştüğünde, bir toparlanma bekleyebilirsiniz. 
+Bu, uzun pozisyon açmak için iyi bir yerdir. Jardine Aralığı, bu geri 
+dönüşlerin büyük veya küçük olması fark etmeksizin, bunların en 
+olası geri dönüş yerleri olduğunu söyler. Daha sonra, uzun veya 
+kısa işleminize girmek için seçtiğiniz teknik göstergeyi veya yöntemi 
+kullanabilirsiniz. Evrensel Tabloyu geliştirdim çünkü herhangi bir 
+zaman diliminde herhangi bir enstrümana -hisse senedi, vadeli 
+işlem veya opsiyon- uygulanabilir. Tamamen fraktaldır. Her biri 
+çoğu grafik programında yaygın olarak bulunan iki göstergeden 
+oluşur. İlki bir stokastiktir. Aslında, herhangi bir osilatörü 
+kullanabilirsiniz; stokastik bunlardan sadece biridir. İki farklı 
+stokastik gösterge kullanıyorum, biri kısa bir zaman dilimini, diğeri 
+ise daha uzun bir zaman dilimini temsil ediyor. İkisinin de bana aynı 
+sinyali verdiğinden emin olmak istiyorum. Bunlar, bir VPC'ye 
+dokunulduğunda işleme girmek için kullanılır. İşlemden çıkmak için 
+en son aralığın hareketli ortalamasını kullanıyorum. Bunu sizin için 
+yapabilecek birkaç gösterge var; ben Keltner Kanallarını tercih 
+ediyorum. İşlemden girdikten sonra, fiyatlar karşıt Keltner'a 
+değdiğinde sözleşmelerimin yarısından çıkıyorum. Bu bana, ilk 
+toparlanmanın mevcut işlem oynaklığına göre ortalama bir 
+yüksekliğe ulaştığını ve buradan çıkmam gerektiğini söylüyor. İşlem 
+daha sonra benim lehime devam ederse, bunu da optimize 
+etmenin birkaç yolu var. Fibonacci dersleri burada işe yarıyor.
+17
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+SANA SÖYLEDİKLERİM
+Önceki günlerin POC'lerini belirlemek için Piyasa Profilini 
+kullanın. Sadece Virgin POC'lerine bakın; sonraki günlerde 
+fiyatlardan etkilenmemiş olanlara. Piyasa her açıldığında, açılış 
+fiyatının üstünde ve altında en yakın VPC'yi işaretleyin. Bu 
+Jardine Aralığı'dır. Jardine Aralığı'nın her iki ucunda bir işleme 
+girmenize yardımcı olması için favori osilatörünüzü kullanın. 
+Ben sadece bir değil, iki farklı zaman diliminden iki stokastik 
+göstergeyi tercih ediyorum. En azından işlem yaptığınız 
+sözleşmelerin veya hisselerin ilk yarısı için, işlemden çıkmak için 
+en uygun yeri size söylemek için ortalama bir bant kullanın. 
+Bunların hepsi Evrensel Grafikte bulunur. Çıkışlarınızı daha da 
+optimize etmek için Fibonacci bilginizi kullanın.
+İşte bu kadar. Eğer bu sizin için çok mantıklıysa, daha fazla okumanıza 
+gerek yok. Daha net anlamak, mantığı anlamak, daha derinlemesine 
+incelemek, örnekleri incelemek, alternatifleri değerlendirmek ve 
+sistemin pratikte nasıl çalıştığını gözlemlemek istiyorsanız, okumaya 
+devam edin.
+18
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+BİRİNCİ BÖLÜM
+Temeller
+Profilleme
+ile ilgili Pazar
+Piyasa Profilinin ve Fiyat Histogramı tarafından çizilen 
+Kontrol Noktasının büyüsünü tanıtacağım. Daha sonra en 
+önemli kontrol noktalarına, her gün için iki net, belirsiz 
+olmayan tepki noktası sağlayan Virgin Kontrol Noktası (VPC) 
+ve Jardine Aralığına odaklanacağız. Tek yapmanız gereken 
+oturup piyasanın bu noktalardan birine gelmesini beklemek. 
+Bir latte'nin tadını çıkarın. Gazeteye göz atın.
+Bu, işin objektif kısmıdır.
+19
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+İki
+Pazar Profili
+"Piyasanın ne yaptığını, piyasanın kendisinden daha iyi 
+gösteren bir şey yoktur."
+- James Dalton, Zihin Piyasalar Üzerinde
+James Dalton, Piyasa Profili, Mind Over Markets adlı kesin 
+kitabı yazdı ve ardından Markets in Profile adlı kitabı 
+yayınladı. Piyasa Profili
+1benzersizdir çünkü fiyat hareketine normalde 
+görmeye alıştığımızdan tamamen farklı bir bakış açısı 
+sunar. Basit bir flama şeklindeki grafikte, belirli bir süre 
+(genellikle bir gün) için ticaret faaliyetinin kapsamlı bir 
+özetini gösterir. Bana göre, flama noktası veya ucu, 
+herhangi bir göstergenin sunabileceği en önemli bilgi 
+parçasıdır çünkü piyasanın kaçınılmaz bir şekilde içine 
+çekildiği devasa bir çekim girdabını belirler. Tek soru ne 
+zaman olacağıdır.
+Piyasa Profili/Fiyat Histogramı'nın birkaç günlük 
+uygulaması, Fibonacci Ticaretinde Yeni Sınırlar kitabımın 
+10. Bölümünde vurgulanmıştır. Bu kitap, bunları mümkün 
+olduğunca tamamen nesnel olmaya yakın tek bir 
+uygulamaya indirger. Nesnel ticaretin amacı, ticaret 
+denkleminden duygu ve belirsizliği ortadan kaldırmaktır. 
+Bilgisayarlı ticaret de aynısını yapar, ancak aynı zamanda
+20
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+yüksek frekans ve yüksek hacim avantajı. Fiyat 
+Histogramını içeren Jardine Aralığı, ortalama bir 
+yatırımcının bunu basit bir masaüstü bilgisayar ve 
+birkaç temel grafikle başarmasını sağlar.
+TLEköşe
+Piyasa Profili/Fiyat Histogramı'nın gün içi uygulamalarını 
+Traders' Library Eğitim Köşesi'nde çevrimiçi olarak inceleyerek 
+daha fazla bilgi edinin.
+TradersLibrary.com/TLEcorner
+ÖLÇÜMLEME
+PAZAR PROFİLİ İLE
+FİYAT HİSTOGRAMI
+ÇİZELGE
+O
+Fiyat Histogramı, şu şekilde gösterilmiştir:Şekil 2.1, gün 
+boyunca her fiyat noktasında harcanan zamanın göreceli 
+miktarını gösteren bir grafiktir. Genellikle bir çan eğrisi 
+oluşturur ve eğrinin en geniş noktası, yatırımcıların gün 
+boyunca en çok zaman harcadıkları fiyatı veya fiyatları temsil 
+eder. Bu, Kontrol Noktası (POC) olarak bilinir. POC, 
+yatırımcıların gün boyunca işlem yapmaktan en rahat 
+oldukları fiyatı temsil ettiği için önemlidir.
+Şekil 2.1Fiyat Histogramı
+21
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Fiyat Histogramı'nın ardındaki mantık, bir günün işlem 
+hacminin çoğunluğunun ortak bir fiyat aralığında 
+gerçekleşmesi ve fiyat uçlarında daha az işlem 
+yapılmasıdır; ve bunu akılda tutarak, önemli ve en 
+açıklayıcı bilgiler bu gruplamaları gözlemleyerek elde 
+edilebilir. Bu, istatistiksel metodolojide kullanılan, 
+istisnaların veya sivri uçların bir sonuç popülasyonundan 
+kaldırıldığı aynı öncüldür. Bu sivri uçları kaldırarak, kalan 
+bilgi daha doğru bir ortalama veya temsildir.
+HistogramdaŞekil 2.2fiyatların en çok zamanı 1036.00 
+ile 1038.00 arasındaki alanda harcadığını gösteriyor. 
+Özellikle, 1037.50 en önemli fiyattı
+22
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+nokta. Bu POC olarak bilinir. Tam noktayı veya yüzde aralığını 
+(örneğin, %95) kullanabilirsiniz, hangisi size daha iyi geliyorsa.
+Şekil 2.2Mercan Noktası ile Fiyat Histogramı
+Bu histogramın aslında iki "flama" veya noktaya sahip olduğunu 
+unutmayın.Şekil 2.3ikincil flamayı vurgular. Buna Küçük POC 
+veya MPC diyorum. Görsel tasvirin de ima edebileceği gibi, bir 
+MPC'nin önemi POC'ye kıyasla göreceli gücüne veya 
+büyüklüğüne bağlıdır. Bu mantıklıdır; eğer piyasa gün içinde iki 
+farklı fiyat noktasında eşit derecede rahat olsaydı, o zaman bu 
+fiyat noktalarının her ikisi de gelecekteki fiyat çekicileri ve 
+potansiyel geri dönüş alanları olarak eşit derecede önemli 
+olurdu.
+Şekil 2.3Fiyat Histogramı Küçük Kontrol Noktası
+23
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+KUMDAKİ ÇİZGİLER
+Piyasa Profili'nin POC'sinin neden bu kadar önemli olduğunu 
+anlamak önemlidir. Tüccarlar genellikle destek veya direnç 
+alanlarını temsil edebilen kumdaki çizgileri aramayı severler; bu da 
+piyasanın dönüş noktalarını gösterebilir. Bu çizgilerden bazıları 
+piyasanın kendisi tarafından "çizilmiştir"; yüksekler ve düşükler iyi 
+örneklerdir.Şekil 2.4Piyasanın önceki zirve ve dip noktalarından 
+oluşan, açıkça tanımlanmış "kumdaki çizgilerin" bir örneğini 
+gösterir.
+24
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Şekil 2.4Kumdaki Çizgiler-Yükseklikler ve Yasalar
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kumda yararlı olabilecek diğer bazı çizgiler, gösterildiği gibi 
+çift tepeler veya çift diplerdir.Şekil 2.5ve baş ve omuzlar, 
+gösterilmiştirŞekil 2.6Bu modeller Fibonacci Ticaretinde Yeni 
+Sınırlar kitabında anlatılmaktadır.
+Şekil 2.5Çift Dip
+25
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Şekil 2.6Baş ve Omuzlar
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+26
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Bu iki oluşumun da aynı grafikten geldiğini unutmayın.
+Şekil 2.5ikinci dipten mükemmel bir uzun vadeli ticaret 
+gibi görünen şeyi gösteriyor. Öte yandan,Şekil 2.6fiyatlar 
+ikinci omuzun genliğinin altına düştüğünde klasik bir kısa 
+sinyali gösterir. İkisi çelişkilidir, tabi eğer siz medyum 
+değilseniz ve gerçekten önce uzun ticareti yapıp sonra 
+ikinci ticareti yapmadıysanız. Hayır teşekkürler. Kumda 
+daha belirgin bir çizgiye ihtiyacım var.
+TLEköşe
+Bu desenlerin tam açıklamalarını çevrimiçi olarak Traders' Library 
+Eğitim Köşesi'nden edinebilirsiniz.
+TradersLibrary.com/TLEcorner
+Peki ya sayılar? Peki ya Fibonacci?
+27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+TAHMİNİ ÇİZGİLER
+Bazı tüccarlar sadece matematiksel tahminler olan çizgiler kullanmayı severler. 
+Ben bunlara varsayım çizgileri diyorum
+2, çünkü piyasanın bunların var olduğuna dair bilinçli bir fikri 
+yoktur. Bununla henüz gerçekleşmediklerini kastediyorum. 
+Grafiklerini izleyen herkes tarafından açıkça görülebilir. Bir 
+varsayım çizgisi, birinin "Burada bir şey olabilir" diyerek bahse 
+girdiği matematiksel bir hesaplamadır. Bir işleme girip 
+girmemeye karar verme noktasında, herhangi bir varsayım 
+kullanmaktan çok çekinirim.
+Sözde "Pivot Noktaları" (1S, 2S, 1R ve 2R)Şekil 2.7
+Bunlara iyi birer örnektir; bir önceki günün en yüksek, 
+en düşük ve kapanış fiyatlarını alarak bir sonraki gün 
+için muhtemel dönüm noktalarını tahmin eden basit bir 
+denklemden hesaplanırlar.Şekil 2.7bir denklemden 
+üretilen destek ve direnç noktalarını gösterir. Grafiğin 
+ilk yarısı önceki günü, ikinci yarısı ise bu çizgilerin 
+kullanılacağı sonraki günü gösterir.
+Şekil 2.7Pivot Noktaları ve Tahmin Çizgileri
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+28
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Bununla ilgili sorunum, matematiksel formülün görünüşte 
+keyfi olmasıdır. Pivot noktası şu şekilde hesaplanır (Yüksek
++ Düşük + Kapanış)/3. 1R, (2 × Pivot Noktası – Yüksek) olarak 
+hesaplanır; 1S, (2 × Pivot Noktası – Düşük) vb. Bu grafikte, piyasanın 
+aslında 1R'de tersine döndüğünü görebilirsiniz. Objektif mi? İşlem 
+yapabilir misiniz? Sadece dikkatli gözlem kesin olarak söyleyebilir.
+FİBONAKİ
+TAHMİN ÇİZGİSİ
+GİBİ A
+Fibonacci'yi ne kadar sevsem de (ve bu konuda bir kitap yazsam da) Altın Ortalama 
+çarpanlarından veya geri çekilme sayılarından herhangi birini kullanmak
+29
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+giriş noktası olarak en iyi ihtimalle özneldir. Bu, Fibonacci sayılarının 
+herhangi birinin, hepsinin veya bazılarının bir tabloya bakıldığında 
+mükemmel giriş noktaları oluşturacağı anlamına gelmez. Bu tür şeyler 
+için geriye dönük bakış harikadır.Şekil 2.8 en azından geriye dönüp 
+bakıldığında her şeyin nasıl da uyumlu göründüğünü gösteriyor.
+Şekil 2.8Fibonacci Mükemmelliği: Geriye Dönüp Bakıldığında
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+TLEköşe
+Hızlı bir "Fibonacci İncelemesi" için Traders' Library Eğitim 
+Köşesi'ne giriş yapın.
+TradersLibrary.com/TLEcorner
+30
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Fibonacci ile dalga geçmek istemiyorum. Aksine, bu 
+sayısal dizinin büyüme döngüleri (yani kar elde etme 
+noktaları) için bir öngörücü olarak basit zarafeti, 
+matematikçilerin diziyi icat etmemiş olması nedeniyle 
+rakipsizdir; onu keşfettiler. Doğanın altta yatan 
+örüntüleri zaten vardı ve evrensel uygulanabilirlikleri 
+şaşırtıcıdır.
+Fibonacci, bir işlemde olduğunuzda karınızı optimize etmek 
+için harikadır, ancak sizi ilk etapta o işleme sokmak için daha 
+az güvenilirdir. Öte yandan, Piyasa Profili, sizi işleme sokmak 
+için mükemmel bir yoldur. Fibonacci ile birleştiğinde, ikisi 
+harika bir ekip oluşturur.
+KUMDAKİ EN İYİ ÇİZGİ
+Fiyatların POC'a döndüğünde ne olacağını ve bunun nedenini 
+analiz etmek için Piyasa Profiline bir kez daha bakalım.Şekil 
+2.9Fiyat Histogramı'nın "kumdaki çizgilerinin" başarılı 
+işlemler için net fırsatlar sağladığı yedi ardışık günden altısını 
+gösterir. Her zaman bu kadar pembe olmayabilir, ancak iyi 
+bir işlem sistemiyle çok yakın olabilir.
+Şekil 2.9Gönder'deki Satırlar
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+31
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Dolu çizgiler her gün için Fiyat Histogramı POC'larıdır. Oklar 
+piyasanın önceki günün çizgisinin desteğine veya direncine karşı 
+nerede durduğunu ve ardından ters yönde tersine döndüğünü 
+gösterir. Bu çizgilerin aslında nasıl çalıştığını görmek için bazı 
+ayrıntılara bir göz atalım (Şekil 2.10).
+Şekil 2.10Kumdaki Çizgilerin Ayrıntıları
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+32
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+a. Pazartesi, 20 Temmuz'da piyasa, Kontrol Noktası olarak 
+bilinen bu noktada işlem yapmakta en rahattı. Bu noktanın 
+önemli ölçüde üzerinde kapandı.
+b. Salı günü, piyasa bir önceki günün POC'sinin çok 
+üzerinde açıldı. Bir önceki günün POC'sine geri 
+döneceğine dair hiçbir belirti yoktu. Ancak gün 
+ilerledikçe ve yavaş yavaş yaklaştıkça, yaklaştıkça ve 
+piyasanın o noktaya geri düşme olasılığı daha da arttı.
+c. Piyasa bir önceki günün POC'sine dokunduğunda, bir 
+anda dönmedi. Tereddüt etti ve sonra bir süre o 
+seviyenin etrafında işlem gördü. Gün sonuna kadar 
+tekrar yükselmedi.
+d. Buradaki kutu POC'nin altındaki bir "daldırma" alanını 
+gösterir. Bir ticaret sistemi oluşturuyorsanız,
+33
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Bu olumsuz alanlara özellikle dikkat edin ve stop loss uygulayıp 
+uygulamayacağınıza ya da sadece dizginleri gevşeteceğinize karar verin.
+e. Bu örnekte, eğer düşüşü atlatabildiyseniz, gün sonu 
+kapanışı güzel bir ödüldü.
+f. Çarşamba günü, piyasa Salı'nın POC'sinin hemen üzerinde açıldı, 
+ona dokunmaya çalışmak için hafifçe düştü ve sonra yükseldi. Ama 
+önemli değil; piyasanın çok iyi bir hafızası var.
+g. Perşembe günü, piyasa Çarşamba günkü POC'nin hemen 
+üzerine kadar açıldı.
+h. Fiyatlar hemen o POC'a kadar düştü ve güzel bir uzun 
+vadeli işlem başlattı.
+i. Çıkış metodolojinize bağlı olarak çok büyük bir kar elde 
+etmiş olabilirsiniz.
+j. Salı günü "kaçan" POC'ye geri dönüp baktığımızda, 
+endişelenmeye gerek yok. O, dokunulmamış veya Bakir bir POC. 
+Bununla ilgili daha fazla bilgiyi 3. Bölüm'de okuyun.
+PROFİLLER
+PROFİLLER
+İLE İLGİLİ O
+Piyasa Profili genellikle bir flama veya yan yatırılmış bir 
+çan dağıtım eğrisinin şekline benzer. Ancak her zaman 
+değil. Aslında, Piyasa Profilleri birkaç farklı imzaya 
+sahiptir ve her biri, altta yatan fiyat hareketini oldukça 
+zarif bir şekilde açıklar. POC, Piyasa Profili hakkında en 
+önemli tek bilgi parçası olmasına rağmen, profilin 
+şekline de bakmak önemlidir. İşte ticaret için 
+kullanılabilecekleri ana şekiller ve yollar.
+34
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+1. Sıradan
+Aşağıdaki şekilde görüldüğü gibi Normal bir profilŞekil 2.11
+piyasanın çok dar bir bölgede önemli miktarda zaman 
+geçirmesine karşılık gelen keskin bir flamaya sahiptir. Bu, 
+elbette, işlem yapmak için en iyi POC'dir.
+Şekil 2.11Normal Profil
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+2. Çoklu Flama
+Çoklu Flama profilleri, örneğin:Şekil 2.12, her nokta açıkça 
+ifade edildiği sürece, ticaret tersine dönüşleri için birden 
+fazla nokta sağlayabilir. Bu örnek, ikisi özellikle güçlü olan 
+üç net flama gösteriyor. İkincisini Küçük POC (MPC) olarak 
+adlandırıyorum.
+35
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Şekil 2.12Çoklu Flama Profili
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+3. Çift Flama
+Adından da anlaşılacağı gibi, Çift Flama, aynı boyutta iki iyi 
+eklemlenmiş, keskin flamadır. Flamaların günün hangi 
+saatinde oluşturulduğu önemli değildir; flamaların aynı 
+bitişik zaman diliminde oluşturulup oluşturulmadığı da 
+önemli değildir (alttaki flama gibi)Şekil 2.13) veya iki veya 
+daha fazla ayrı zaman periyodunda (üst flamanın olduğu 
+gibi). Bunların her ikisi de eşit güçtedir ve biri diğerini 
+destekler.
+Şekil 2.13Çift Flama Profili
+36
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+4. Düz Profil
+Düz profil, tanımlanmamış veya sıkışık fiyat alanlarını 
+temsil ettiği için kaçınılmalıdır. Düz profilŞekil 2.14
+Multiple Pennant profiline benzer, ancak flamanın 
+hiçbiri iyi eklemlenmemiştir. Hepsi nispeten küttür. 
+Uzak durun!
+Şekil 2.14Düz Profil
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+37
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+5. Künt Profil
+Blunt profili,Şekil 2.15, dar bir sayı denese de piyasanın 
+herhangi bir fiyat noktasında özellikle rahat olmadığını gösterir. 
+Tüm profili sınırlı geri dönüş potansiyeli olan olası bir tıkanıklık 
+bölgesi olarak ele alın. Bunu günlük alım satım veya başka ne 
+yapıyorsanız onu yapmak için kullanın. Ancak günlük tek bir 
+işlem için değil!
+Şekil 2.15Künt Profil
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+38
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+POC, tüccarlar için önemlidir çünkü kumda açıkça görülebilen 
+bir çizgiyi temsil eder. Bu açıdan, matematiksel denklemlerle 
+oluşturulan ve bu nedenle tüccarlar tarafından görülemeyen 
+diğer öznel pivot noktalarından daha nesnel olarak eyleme 
+geçirilebilir.
+- - - - - - - - - - - KENDİNİ 
+SINAV SORULARI
+1. Pazar Profili neyi ölçer?
+a. Altta yatan hisse senedinin mali durumu
+b. Fiyat hareketinin hızı ve oynaklığı
+c. Piyasanın farklı fiyat noktalarında harcadığı zaman 
+miktarı
+d. Fiyatla ilgili zaman ve hacim farklılığı
+2. Kontrol Noktası Nedir?
+39
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+a. Piyasanın en fazla zaman harcadığı fiyat
+b. Varsayım hatlarına dayalı herhangi bir dönüm noktası veya pivot
+c. Geçmiş fiyat hareketlerine dayalı herhangi bir dönüm noktası veya pivot
+d. Durak yönetimi için yararlı olan öznel bir değer duygusu
+3. Flama nedir?
+a. Dünya Serisine giden yolun bir diğer adı
+b. Baş ve omuzlara benzer bir grafik oluşumu
+c. Piyasada keskin bir dönüm noktası
+d. Bir pazar profilinin en yaygın şekli
+4. Bir bayrağın şeklinin önemi nedir?
+a. Hiçbiri yoktur.
+b. Şekil ne kadar körelirse, sinyal o kadar güçlü olur
+c. Şekil ne kadar keskinse, sinyal o kadar güçlüdür
+d. Eğer üst üste gelen iki grafik aynı yapıya sahipse piyasa trend 
+içerisindedir.
+5. Aşağıdaki listeden hangileri nesnel göstergelerdir?
+a. Haftalık en yüksek ve en düşük
+b. Pazar Profili
+c. S1 ve R1 pivot noktaları
+d. Fibonacci uzantıları ve geri çekilmeleri
+e. A ve B
+f.A ve C
+g. B ve D
+h. C ve D
+- - - - - - - - - -
+Cevaplar için şuraya gidin:www.TradersLibrary.com/TLEcorner.
+1“Market Profile” terimi Chicago Ticaret Bürosu (CBOT) 
+tarafından tescillidir ancak ticaret platformlarında aynı 
+veya benzer bilgileri gösteren birçok gösterge 
+mevcuttur. En popüler olanlardan biri “Price
+40
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Ensign Software'den Howard Carrington tarafından oluşturulan 
+"Histogram".
+2Tahmin çizgileri, geçmişten gelen matematiksel bir formülden 
+yola çıkılarak gelecekte ne olabileceğine dair bir “tahmin” 
+yaratılarak türetilen göstergelerdir.
+41
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Üç
+Kontrolün Bakir Noktası
+Kontrol Noktası (POC) güçlü bir fiyat çekicisi ise, henüz 
+yeniden ziyaret edilmemiş bir POC (Şekil 3.1) daha da 
+güçlüdür. Buna "Virgin POC" veya kısaca VPC diyorum. 
+Nedenini anlamak için, önce İkinci Bölüm'deki bazı temel 
+dersleri gözden geçiren bir örnek alalım.
+Şekil 3.1Virgin Kontrol Noktası
+42
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+KUMDAKİ O ÇİZGİLER
+Önceki bölümde gösterildiği gibi, POC güçlü bir fiyat 
+çekicisidir. Bunun nedeni, piyasanın doğal eğiliminin, 
+yüksek hacimlerin veya uzun zaman miktarlarının 
+harcandığı daha önce kanıtlanmış konfor alanlarını 
+aramasıdır. Bir düşünün. Diyelim ki, gösterildiği gibi çift 
+dipte uzun pozisyon aldınızŞekil 3.2. İşlemden çıkmak için 
+nereye bakarsınız? Saç derisi, salınım veya hatta kısa 
+vadeli bir yatırım olması fark etmez. Kar elde etmek için en 
+uygun yer neresidir?
+Şekil 3.2Çift Dip Uzun
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+43
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Fibonacci ve Tohum Dalgası hakkındaki bilgimiz, bir işlemden çıkmak 
+için en uygun yerin, bir geri dönüşte ilk dalganın genliğinin 1,382~1,618 
+katı olan alan olduğunu göstermektedir, aşağıdaki şekilde 
+gösterilmiştir:Şekil 3.3.
+Şekil 3.3Fibonacci Hedef Tohum Dalgası
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+44
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+TLEköşe
+Fibonacci ve Tohum Dalgası hakkında daha fazla bilgiyi Traders' Library 
+Eğitim Köşesi'nde çevrimiçi olarak bulabilirsiniz.
+TradersLibrary.com/TLEcorner
+SAYILARDAKİ GÜÇ
+Bu, bu örnekle ilgili bir noktayı vurgulamak için ufak bir 
+sapmadır: Piyasanın dikkatini çekme olasılığını artırması 
+nedeniyle birden fazla doğrulayıcı gösterge aramak her zaman 
+iyi bir fikirdir. Ancak bir elmanın size söylediği şeyi doğrulamak 
+için başka bir elma kullanmamaya dikkat edin; yalnızca farklı 
+kaynaklardan geliyorlarsa gerçekten işe yarar
+45
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+1Örneğin, bir stokastiği doğrulamak için bir MACD kullanmak, 
+NBC'den bir televizyon yayınını doğrulamak için NBC'den bir radyo 
+yayını kullanmak gibidir. Bunun yerine, farklı kaynaklardan gelme 
+eğiliminde oldukları için, bir varsayım çizgisini kumdaki bir çizgiyle 
+birlikte kullanmayı en iyi buluyorum. Fibonacci Seed Wave hedefi
+Şekil 3.3ilk geri dönüş dalgasının büyüklüğüne dayalı bir varsayım 
+çizgisidir.
+Gözden geçirmek
+Birden fazla doğrulayıcı göstergeye bakmak her zaman iyi bir 
+fikirdir.
+Peki, iyi bir sınır çizgisi ne olabilir?Şekil 3.4 Fiyat 
+Histogramını tam olarak aynı grafikle kaplar Şekil 3.3. Fiyat 
+Histogramı mükemmel bir kum çizgisidir çünkü hiçbir şeyi 
+tahmin etmez veya varsaymaz, sadece geçmişte ne 
+olduğunu yüksek sesle ve net bir şekilde gösterir. 
+Kesintisiz yatay çizgiler önceki günlerdeki Kontrol 
+Noktalarını gösterir.
+Şekil 3.4Fibonacci ve Fiyat Histogramı Karşılıklı 
+Doğrulama
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+46
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Bu örnekte,Şekil 3.5dönüm noktasının aslında Fibonacci 
+Tohum Dalgası tahminleri ile ayın 12'si ve 13'ündeki 
+geçmiş POC'ların bir araya gelmesi olduğunu 
+göstermektedir.
+Şekil 3.5Yakınsama Çıkışı
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+47
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+POC
+ÇEKİCİ
+GİBİ A FİYAT
+Bu örneğin amacı yalnızca bağımsız göstergelerin bir 
+araya gelmesinin her zaman yardımcı olması değildir. 
+Önceki günlerdeki POC'lerin genellikle güçlü fiyat çekicileri 
+olarak hareket ettiğini göstermektir. Tıpkı yerçekimi 
+kuvvetinin kaynaktan uzaklık azaldıkça artması gibi, bir 
+POC'nin fiyatları "çekme" olasılığı da piyasa o POC'ye 
+yaklaştıkça artar.
+48
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+VPC
+DAHA GÜÇLÜ
+ÇEKİCİ
+GİBİ BİR EŞİT
+FİYAT
+POC güçlü bir fiyat çekicidir, ancak Virgin POC (VPC) daha 
+da güçlüdür. VPC, piyasa tarafından sonraki günlerde 
+henüz yeniden ziyaret edilmemiş bir POC'dir.Şekil 3.6Fiyat 
+Histogramı grafiğinde görülebilen üç tür Piyasa Profili 
+POC'sini göstermektedir.
+Şekil 3.6Üç Tür POC
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+49
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+a. Piyasanın hemen ertesi gün tekrar ziyaret ettiği bir POC. Bunlar 
+en yaygın olanlardır. Bu POC bir günden daha az bir süre "bakir"di.
+b. Piyasanın en az iki veya daha fazla gün sonra tekrar ziyaret 
+ettiği bir POC. Bu POC birkaç gün boyunca bakirdi.
+c. Piyasanın henüz yeniden gözden geçirmediği bir POC, en 
+azından grafik yakalandığında. Hala bakir.
+Büyük Buhran'dan bu yana en büyük piyasa çöküşünün 
+yaşandığı Kasım 2008'in ilk yarısında piyasanın hala dip 
+bulmaya çalıştığı dönemde gerçekte neler yaşandığına 
+daha yakından bakalım.Şekil 3.7piyasa VPC'lerde dönerken 
+potansiyel uzun ve kısa işlemlerin oluşturulduğu beş 
+günlük bir dönemi gösterir. Kutular işlem potansiyelini 
+gösterir; büyük oklar potansiyel işlem giriş noktasını 
+gösterir.
+Şekil 3.7VPC Sinyallerinden Potansiyel İşlemler
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+50
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+a. Cuma günü, 31 Ekim'de piyasa bir önceki günün 
+POC'sinin hemen üzerinde açıldı. Önceki günün tüm 
+POC'leri, fiyatlar POC'den açıkça geçene kadar, tanım 
+gereği, VPC'lerdir. Burada hemen düştü (küçük boşluk 
+doldurma) ve daha sonra daha önce gittiği yöne doğru 
+geri sıçramaya devam etti; en azından geriye dönüp 
+bakıldığında öyle görünüyor. Bunun klasik bir üç dalgalı 
+Tohum Dalgası tersine dönüşü olduğunu görebilirsiniz. Bu 
+ticaretten ne kadar kar elde edilebilirdi? Kitabın bu 
+noktasında, eksik olan iki kritik parça var: giriş noktası ve 
+çıkış noktası. Oraya yeterince yakında geleceğiz.
+b. Aynı günün ilerleyen saatlerinde fiyatlar 21 Ekim'deki 
+VPC'ye ulaşana kadar yükseldi. Kar alımı gerçekleşti ve kısa 
+bir fırsat oluştu. Piyasanın hemen toparlanmadığını 
+unutmayın. Sadece böyle bir işlem için makul bir gösterge 
+seti verildiğinde kısa bir işlem yapmak için açık ve belirgin bir 
+fırsat sundu.
+c. Pazartesi günü, piyasa konsolidasyon modundaydı (tekrar ediyorum, 
+sadece geriye dönüp bakıldığında) ancak bir saat sonra Cuma günkü 
+VPC'ye düştü, ardından toparlandı ve küçük bir potansiyel sağladı
+51
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+yaklaşık beş puan. Bu arada, S&P Futures E-mini 
+sözleşmesinde beş puan fena değil; bu, sözleşme başına 250 
+dolara eşdeğer.
+d. Salı günü, piyasa yukarı doğru keşif yaparken ve 14 Ekim'de 
+belirlenen VPC'nin gerisinde kalırken içeride bir gündü. Ancak 
+bu, yeni bir VPC yarattı. Çarşamba günü, piyasa aşağı doğru 
+boşluk açtı. Boşluklarda işlem yapmak neredeyse imkansızdır 
+çünkü bir boşluk açıldıktan sonra üç şeyden biri olabilir: 1) 
+piyasa yanlara doğru hareket eder, 2) boşluktan güçlü bir 
+şekilde uzaklaşmaya devam eder veya 3) boşluğu doldurmaya 
+çalışır. Ne olacağını tahmin etmek, paranızı bir zar masasında 
+birine atmak gibidir. Durugörü sınırlılıklarımı fark ederek, 
+fiyatlar bir önceki günün VPC'sine geri dönerse tepki vermeye 
+hazır olmayı tercih ederim. Ve olan da bu oldu. O noktada 
+-umarım artık görmeye başladığınız gibi tahmin edilebilir bir 
+şekilde- piyasa tersine döndü.
+Birisi, "Peki ya daha önce piyasaya dokunmuş olan diğer 
+POC'ler? Onlar hala pivot veya dönüm noktası olarak geçerli 
+değil mi?" diye sorabilir. BenceŞekil 3.8cevabı gösterir. 
+Yeterince çizgi çekerseniz, bazılarının büyük dönüm 
+noktalarını geçmesi kaçınılmazdır!
+Şekil 3.8POC'ler ve VPC'ler
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+52
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+PAZAR HAFIZASI
+SADECE BİR KAÇ ZAMAN İÇİN
+Günde bir veya iki işlemle tutarlı karlar sağlayacak nesnel bir 
+yöntem oluşturmaya geçmeden önce değinilmesi gereken 
+son bir nokta var. Zaman bir VPC'yi ne kadar geçerse, o VPC 
+hem fiyat çekme hem de geri dönüş noktası olarak hareket 
+etme açısından o kadar güçsüzleşir. Örneklemek için, 
+nispeten eski olan iki VPC'ye bakalım. İlki 29 Ekim 2008'de, 
+diğeri ise 22 Kasım 2008'de oluşturulmuştur, aşağıdaki 
+şekilde gösterilmiştirŞekil 3.9.
+Şekil 3.9Eski VPC'ler ve Yeni VPC'ler
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+53
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Gözden geçirmek
+Zaman bir VPC'yi ne kadar geçerse, o VPC hem fiyatları 
+çekme hem de geri dönüş noktası olarak hareket etme 
+anlamında o kadar güçsüzleşir.
+Şimdi fiyat hareketine yakından bakalım, önce 5 Kasım 2008 
+VPC'sine.Şekil 3.10piyasanın aşağıdan keskin bir şekilde 
+yukarı hareket ettiğini gösteriyor. En azından günlük kısa bir 
+işlem için bir tersine dönüş beklerdik. 976,00 genel alanına 
+ulaşıldığında, piyasa yukarı yönlü momentum nihayet 
+tükenene kadar önemli ölçüde -en az 15 puan- daha fazla- 
+devam etti. Doğru, bu önemli bir direnç alanıydı; piyasanın 
+yukarı doğru yönelmeye karar vermeden önce beş gün 20 
+puanlık bir aralıkta geçirdiğini görebilirsiniz. Ancak, en 
+azından günlük zaman diliminde, nesnel bir kısa işlemin 
+başarılı bir şekilde gerçekleştirilmesinin hiçbir yolu yoktur.
+Şekil 3.105 Kasım 2008 VPC 23 Temmuz 2009'da vuruldu
+54
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Daha da sert bir uyarıyı bir sonraki örnekte bulabilirsiniz.
+Şekil 3.11"canlılığın kaybını" neredeyse bir yıl sonra 
+gösteriyor. Piyasa yine aşağıdan güçlü bir şekilde yukarı 
+çıktı ve sanki orada yokmuş gibi 29 Ekim 2008 VPC'yi 
+tamamen geçti. Hata payı sadece altı puandı. Bu felaket 
+değil, ancak yine de daha yeni VPC'lerin ürettiği tersine 
+dönüş sinyalleri kadar net veya nesnel değil.
+Şekil 3.1129 Ekim 2008 VPC 7 Ağustos 2009'da vuruldu
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+55
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+- - - - - - - - - - - KENDİNİ 
+SINAV SORULARI
+1. POC ile VPC arasındaki fark nedir?
+a. POC sonraki gün fiyatlardan etkilenmiş, VPC 
+etkilenmemiştir.
+b. VPC bir tahmindir, POC ise gerçektir.
+c. POC bir tahmindir, VPC ise gerçektir.
+d. VPC hacmi ölçer, POC fiyatları ölçer.
+e. VPC daha büyük bir fiyat çekicidir.
+2. Hangisi daha güçlüdür, VPC mi yoksa POC mu? Neden?
+a. POC, çünkü fiyatlara dayalıdır.
+b. VPC, çünkü fiyatlardan etkilenmemiştir.
+c. VPC, çünkü hacmi ölçer.
+d. İkisi de aynıdır.
+3. Aşağıdaki senaryolardan hangisi size en yüksek işlem 
+yüzdesini kazandıracaktır?
+a. Hareketli ortalama ile desteklenen bir stokastik
+b. Bir Pazar Profili POC'si ile desteklenen günlük bir yükseklik
+56
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+c. Fibonacci ile desteklenen bir Piyasa Profili VPC'si
+d. VPC ile desteklenen günlük düşük
+4. Aşağıdaki flama şekillerinden hangisi en yüksek ticaret yüzdesini 
+sağlar?
+a.Normal
+b. Çoklu Flama
+c. Çift Flama
+d. Düz
+e. Künt
+- - - - - - - - - -
+Cevaplar için şuraya gidin:www.TradersLibrary.com/TLEcorner.
+1Daha az ölçüde, aynı göstergeyi (başka bir "elma") kullanırsanız da 
+işe yarar, ancak farklı zaman dilimlerinden. Bununla ilgili daha fazla 
+bilgi için Bölüm 5'e bakın.
+57
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+Dört
+Jardine Sıradağları
+"Yukarı çıkan her şey, aşağı inmek zorundadır."
+– Sör Isaac Newton
+"Aşağıya inen her şey yukarı çıkmak zorundadır."
+– Jardine Sıradağları Sonucu
+Şekil 4.1VeŞekil 4.2İşlem günü için iki seçeneği gösterin.
+Şekil 4.1Ne Yukarı Çıkıyor
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+58
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Şekil 4.2Neler Oluyor
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+59
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+NE YUKARI ÇIKIYOR
+Birkaç yıl önce, her günün doğal bir potansiyel işlem aralığıyla 
+başladığı aklıma geldi. Aralık fikri mantıklıdır çünkü hiç kimse 
+piyasanın yukarı mı aşağı mı gideceğine dair bir fikre sahip 
+değildir. Genellikle her ikisini de yapar, ancak hiç kimse 
+herhangi bir günde piyasa gününün yukarı mı aşağı mı 
+biteceğine dair bir fikre sahip değildir. Birisi bu bilgiye sahip 
+olsaydı, zengin olurdu ve çok şanslı olurdu.
+DOĞAL
+POTANSİYEL
+VE
+Ancak, herhangi bir günde piyasa için doğal bir potansiyel 
+aralığı belirlemek mümkündür. Bu, piyasanın aralığın en 
+üstüne çıkacağı veya aralığın en altına düşeceği anlamına 
+gelmez; ancak potansiyel açısından, piyasanın doğal 
+olarak işlem göreceği ve en azından bir ucunda işlem 
+göreceği ve sonra tersine döneceği bir aralık belirlemek 
+oldukça kolaydır. Bu ne anlama geliyor? Üç şey:
+1. Fiyatlar aralığın en üstüne çıkarsa, daha sonra ters yönde 
+aşağı doğru işlem göreceklerdir. Bu,Şekil 4.1.
+2. Fiyatlar aralığın altına hareket ederse, daha sonra tersine döner 
+ve tekrar yukarı hareket eder. Bu olasılık şu şekilde gösterilir: Şekil 
+4.2.
+3. Fiyatlar aralığın dışına çıkarsa, haberler veya bir dizi 
+kazanç gibi doğal olmayan bir şey oluyor demektir.
+60
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+örneğin raporlar. Ya da belki de, yalnızca aralığın en uç noktasında 
+geçici olarak durdurulan daha güçlü bir genel eğilim.
+30 Eylül 2009'da S&P E-mini Vadeli İşlemler piyasasında neler 
+yaşandığına bir bakalım.
+Şekil 4.3Salı günü piyasanın 1054,50'de kapandığını 
+gösteriyor. Bir sonraki işlem gününe hazırlık yaparken, 
+piyasanın kapandığı yerin üstünde, 1059,00'da bir VPC 
+olduğunu gözlemledim. Ayrıca piyasanın kapandığı yerin 
+altında, 1044,00'da bir VPC olduğunu fark ettim. Piyasa bu iki 
+nokta arasında açılacak. Bu iki nokta, Jardine Aralığı adını 
+verdiğim doğal bir işlem aralığı oluşturuyor. Jardine Aralığı 
+hakkında bilinmesi gereken birkaç önemli nokta var.
+Şekil 4.3Jardine Serisi
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+61
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+İKİ DÖNÜM NOKTASI - İŞTE BU KADAR
+İlk ve belki de en belirgin olanı, piyasa açılışının üzerindeki en 
+yakın VPC ve piyasa açılışının altındaki en yakın VPC Jardine 
+Aralığı'nı oluşturur. Genellikle aralığı belirtmek için bir kutu 
+çizerim.
+TEPKİ VER, TAHMİN ETMEYİN
+Jardine Sıradağları hiçbir şeyi tahmin etmeyi amaçlamaz. Tek 
+amacı, tahmin etmek değil, tepki vermek için bir temel 
+sağlamaktır. Ticaret kararından mümkün olduğunca fikir, 
+varsayım ve diğer dış "gürültüyü" çıkarmak önemlidir, çünkü 
+bunlar karar verme zamanı geldiğinde sizi farlardaki bir geyik 
+gibi dondurur. Ayrıca rüzgar ıslık çaldığında veya bir hayvan 
+bağırdığında ürkekçe zıplamanıza neden olurlar. Ya da sizi 
+piyasaya çok erken veya çok geç ve muhtemelen çok sık 
+girmeye yönlendirebilirler.
+Jardine Aralığı, olası aralığın ne kadar geniş olacağını 
+öngörmez. Fiyatların aralığın en üstüne veya en altına 
+çıkacağını öngörmez.
+NEWTON'A GERİ DÖN
+Jardine Range, piyasanın doğal "çekim kuvvetlerini" 
+gösterir. Yani, fiyatlar VPC'lerden birine ne kadar 
+yaklaşırsa, o kadar çok ona çekilirler. Çok fazla astrolojik 
+olmadan, çekim kuvvetlerini düşünün
+62
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+Dünya'nın uzaydaki nesnelere veya hatta yüzeyindeki nesnelere 
+doğru çekimi. Bunu bir adım daha ileri götürürsek, tüm doğa tıpkı 
+nesnelerin yerçekimine çekilmesi gibi kuvvetlere çekilir. Çekici bir 
+kadın içeri girdiğinde barda tüneyen adamların kafalarını 
+gözlemleyin. Güneş çıktığında bir çiçeğin ne yaptığını izleyin. Piyasa 
+Jardine Sıradağları'nın her iki ucuna yaklaştığında ne olacağını 
+anlamak kolaydır. Yatırımcılar pozisyonlarından çıkacak ve bu, bir 
+tersine dönüşe veya sadece bir duraklamaya yol açabilecek bir 
+momentum kaymasına neden olacaktır. Bu kaymanın boyutu şu 
+anda endişe verici değil. Sadece bir kayma olacağını anlamamız 
+gerekiyor. Bu kaymayla ne yapacağımız İkinci Bölüm'de ele 
+alınmaktadır.
+OBJEKTİFLİK SİZİNDİR
+DOST, ÖZNELLİK
+DÜŞMANINIZ
+Şimdi her işlem gününün sonunda grafiklerinize Jardine 
+Aralığı'nı çizerek başlayın. Daha sonra her sabah piyasa 
+açılmadan önce kontrol edin. Piyasa bu aralıkta mı açılacak? 
+Yoksa bir boşluk olacak mı? Piyasa yukarı veya aşağı doğru 
+boşluk bıraktıysa, aralığı yalnızca açılış fiyatının hemen 
+üzerindeki bir VPC ve hemen altındaki bir VPC'yi içerecek şekilde 
+yeniden çizmeniz gerekebilir.
+Fiyatlar VPC'lerden herhangi birine doğru hareket ettikçe ne olacağını 
+gözlemleyin. Bu bilgiyi kendi lehinize nasıl kullanabileceğinizi düşünün. 
+Unutmayın, bu bilgi tamamen nesneldir. Jardine'in her iki ucunda da 
+muhtemelen bir şeyler olacaktır
+63
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+Menzil, haberler, duygular veya konuşan kafaların 
+söylediklerinden bağımsız olarak; diğer hangi pivot noktaları, 
+armonikler veya kumdaki çizgilerin çizildiğinden bağımsız 
+olarak. Aslında, şimdilik, Jardine Menzili'nin ne kadar güçlü 
+olabileceğini anladıkça geri kalanını görmezden gelmek iyi 
+bir fikirdir.
+Daha sonra Jardine Range'in üstüne bir ticaret sistemi kurabilirsiniz. 
+Kumdaki diğer çizgilerinizi kademeli olarak katmanlayabilirsiniz—
+ama yalnızca, önerdiğim gibi, Jardine Range'in size zaten söylediği 
+şeyi doğrulamak için bağımsız göstergeler olarak.
+Daha sonra eski yöntemlerinize geri dönebilir ve Jardine Range ve Universal 
+System'in sizi daha iyi bir yatırımcı yapmaya yardımcı olup olamayacağına 
+bakabilirsiniz. Tanıdığım birçok yatırımcı bunu yapıyor.
+Ya da benim yaptığımı yapabilir ve diğer her şeyi bırakıp 
+Evrensel Sistem'i takas edebilirsiniz. Başka hiçbir şey 
+kullanmıyorum. Bana o çağlayan dereyi dinlemek, güzel bir 
+günde kayığımı çıkarmak veya dağlarda fotoğraf çekmek için bir 
+öğleden sonra arabaya atlamak için zaman veriyor. Sonuçta, her 
+şey bununla ilgili değil mi? Ve eğer dışarıdaki hava kötüyse, evde 
+kalıp iPhone için "ürün eğlencesi" uygulamaları tasarlıyorum
+SolSahilMantığı.com
+- - - - - - - - - - - KENDİNİ 
+SINAV SORULARI
+1. Jardine Serisi Nedir?
+a. Mevcut fiyatların üstünde ve altında hareketli bir ortalama tarafından 
+oluşturulan yüksek ve düşük bant
+b. Fiyatların henüz dokunmadığı son günün en yüksek ve en 
+düşük seviyeleri
+c. Açılış fiyatlarının üstünde ve altında en son VPC
+64
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+d. Mevcut fiyat etrafında bir bant oluşturan bir dizi Piyasa 
+Profili POC'si
+2. Jardine Sıradağları tahmini mi yoksa reaktif mi?
+a. Öngörücü, çünkü piyasanın açılış fiyatından yukarı mı 
+yoksa aşağı mı gideceğini öngörür.
+b. Reaktiftir, çünkü piyasanın hangi yöne gideceği ile 
+ilgilenmez.
+c. Hiçbiri. Fiyat hareketini ne tahmin eder ne de ona tepki verir.
+d. Her ikisi de. Aralık, fiyatların gün içerisinde bir noktada aralığın 
+her iki ucuna da dokunacağını gösteriyor.
+- - - - - - - - - -
+Cevaplar için şuraya gidin:www.TradersLibrary.com/TLEcorner.
+65
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+İKİNCİ BÖLÜM
+Evrensel Sistem
+Bir karar noktasına geldiğinizde, sadece satın alabilir veya 
+satabilirsiniz. Örneğin, piyasa Jardine Sıradağları'nın tepesine 
+yükseldiğinde, o noktada kısa pozisyon açabilirsiniz. Veya piyasa 
+Jardine Sıradağları'nın dibine düştüğünde, uzun pozisyon 
+açabilirsiniz. Ancak, yol boyunca size yardımcı olacak bazı 
+göstergeleriniz olsaydı daha kolay olmaz mıydı?
+Yanlış anlamayın: bunlar sadece göstergeler. En iyi ihtimalle 
+özneldirler, daha önce karşı çıktığım varsayım çizgilerinin ta 
+kendisidirler. Bu göstergelere eyleme geçirilebilir uyarılar 
+atayarak, grafiğin size yapmanızı söylediği şeyi yaptığınız için 
+yanlış bir şey yaptığınız korkusu olmadan işlemi 
+gerçekleştirebilirsiniz.
+Önemli bir koşul var: Bir araya getirdiğiniz sisteme 
+güvenebilmeniz için ödevinizi yapmalısınız. Ama bunu zaten 
+biliyorsunuz, değil mi? Tamam, o zaman New Frontiers'da 
+öğrendiklerimizi bir sistem kurmak için kullanalım. Buna 
+Evrensel diyeceğiz çünkü herhangi bir işlem aracı için, herhangi 
+bir zaman diliminde işe yarıyor. En azından öyle olmalı.
+66
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Beş
+Giriş: Osilatör
+O KIVRIMLI ÇİZGİLER
+Piyasa dalgalanır. İleri geri hareket eder. Bunu yukarı doğru 
+hareket edip etmediğine bakılmaksızın yapar (Şekil 5.1), aşağı (
+Şekil 5.2), veya yanlara doğru (Şekil 5.3).
+Şekil 5.1Yukarı doğru salınan
+67
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+Şekil 5.2Aşağı doğru salınan
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Şekil 5.3Yanlara doğru salınan
+68
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+Osilatör göstergeleri, az önce olanların hareketli ortalamalarına 
+dayanarak fiyat salınımlarının ritmini bulmada iyidir. 
+Salınımların büyüklüğünü, genliğini veya hatta yönünü tahmin 
+etmede iyi değillerdir. Sorun değil. Bunun için onlara ihtiyacımız 
+yok. Aradığımız tek şey, bir salınımın ne zaman meydana gelme 
+olasılığının olduğunu veya daha spesifik olarak, bir salınımın 
+zirveye ulaştığı ve aşağı dönme olasılığının ne zaman olduğunu 
+söyleyebilecek bir gösterge. Çünkü bu, ticaretime girmek 
+istediğim nokta.
+Şekil 5.4bir osilatör göstergesi tarafından üretilen üç satış 
+sinyalini gösterir. Birincisi en üstteki dönüm noktasına çok 
+yakındır. İkincisi ikinci bir dalgayı yakaladı, ancak biraz geç 
+gerçekleşti. Üçüncüsü, işlem yapmaya bile değmeyen çok 
+küçük bir salınımı yakaladı. Tablonun alt bölmesindeki 
+osilatör göstergelerinin genliğinin hemen hemen aynı 
+olduğunu, ancak ana bölmede gösterilen fiyat hareketi 
+boyutunun oldukça farklı olduğunu unutmayın. Bu, hem 
+osilatörlerin zamanlama cihazları olarak avantajlarını hem de
+69
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+sınırlamalar, bundan sonra ne olacağının ve ne kadar olacağının öngörücüleri olarak 
+kullanılır.
+Şekil 5.4Salınımlı Satış Sinyalleri
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 3 dakika, CME, 23/9-24/09
+O
+OSİLATÖR TARTIŞMASI
+HARİKA
+Tanıdığım birçok tüccar popüler osilatör türlerinden 
+birine yemin ediyor: Stokastik, Göreceli Güç Endeksi 
+(RSI), Emtia Kanal Endeksi (CCI) ve Hareketli Ortalama 
+Yakınsama-Uzaklaşma (MACD). Bazı kişiler
+70
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+bu göstergelerden bir veya daha fazlasında bir ticaret itibarı ortaya 
+koyuyor ve bunların her derde deva, teknik göstergelerin kutsal kasesi 
+olduğunu iddia ediyor. Bunu çürütebilirim veya en azından bir sonraki 
+grafikle ciddi şüpheye düşürebilirim.Şekil 5.5bu dört göstergenin ne 
+kadar benzer olduğunu gösteriyor. Bunlardan herhangi birinin diğerine 
+göre belirgin bir avantajı var mı? Söyleyebileceğim bir şey yok. Hepsinin 
+aynı noktalarda, aynı hassasiyet dereceleriyle salınım yapması için 
+yalnızca ayarlarını değiştirerek yapılandırılabilirler.
+Şekil 5.5Stokastik RSI, CCI, MACD
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+71
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+Bunu aklımda tutarak, stokastik'i belirli bir sebep 
+olmaksızın seçtim, sadece öğrendiğim ilk osilatör olması 
+dışında. Hepsi bu. Örneğin, fotoğrafçılığım için bir Nikon 
+kullanıyorum, bir Canon veya Sony'den daha iyi olduğu 
+için değil, elimde daha rahat hissettirdiği için. Ve daha iyi 
+hissettirirse, daha iyi fotoğraflar çekerim. Aynı mantık 
+osilatörler için de geçerlidir.
+STOKASTİK
+Stokastik osilatörü, belirli sayıda dönem boyunca ortalaması 
+alınan yüksek/düşük aralığa göre mevcut kapanışın yerini 
+gösteren bir momentum göstergesidir. Stokastiğin standart 
+kullanımı yaklaşık %80'lik bir yüksek bant ve yaklaşık %20'lik bir 
+düşük bant içerir. Stokastik %80 bandının üzerinde olduğunda, 
+fiyatlar aşırı alım yapmıştır. Stokastik daha sonra %80 bandının 
+altına düştüğünde, bu bir satış sinyali görevi görür.
+BÜYÜK AYARLAR
+ÇEKİŞME
+Bir osilatöre diğerine göre bu kadar odaklanan aynı 
+tüccarlar, kullandıkları belirli ayarların, piyasa, hisse senedi, 
+endeks, zaman dilimi vb. için en iyi şekilde optimize edilmiş 
+ayarlar olmak üzere uzun yıllar süren deneyimleri ve 
+analizleri sonucunda geliştirildiğini de söyleyecektir. Bence, 
+bu tür yargılarda bulunmak için hiçbir deneyime gerek 
+yoktur; tek ihtiyacınız olan geriye dönük test sağlayan bir 
+grafik programıdır ve dakikalar içinde, herhangi bir
+72
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+Son on yıldır en iyi osilatörün hangisi olduğu ve o osilatör için en 
+iyi ayarların ne olduğu konusunda hiçbir şüphe yok. Ancak 
+gerçek hayatta gerçek zamana doğru işlem yapmaya 
+başladığınızda son on yıl çok az şey ifade ediyor.
+Bunu test etmek için, en sevdiğiniz işlem enstrümanında en 
+sevdiğiniz osilatörün bir geri testini yapın ve bunu önceki on 
+yıllık dönem boyunca optimize edin. Sonra aynısını yapın, 
+ancak önceki beş yıllık dönem için. Sonra aynısını geçen bir 
+yıllık dönem için yapın. Sonuçların hepsi farklı olacaktır. Sizce 
+bu üç sonuçtan hangisi gelecek yıl için en iyi şekilde işe 
+yarayacak? İpucu: "geçtiğimiz on yıllık" ayarlar, önümüzdeki 
+yıl en son yıl ayarları kadar iyi veya kötü performans 
+gösterme şansına sahip olacak. Diyelim ki üçü de aynı 
+-geçtiğimiz on, geçtiğimiz beş ve geçtiğimiz yıl- yine de 
+gelecek yılın aynı olacağına dair bir garanti veya makul bir 
+güven bile yok.
+Peki bunun ne faydası var?
+Eğer dediklerim doğruysa -ve bana inanmamakta 
+özgürsünüz- o zaman sorabilirsiniz, bir osilatörün faydası 
+nedir? Osilatörler hassas değildir, ancak osilatör seçiminin 
+önemli olmadığını ve ayarların da (makul ölçüde) önemli 
+olmadığını fark edeceksiniz. Önemli olan, bu göstergelerin 
+içgüdüsel olarak bilmeniz gereken şeyi size söylemeye 
+yardımcı olmasıdır: bir fiyat osilasyonu zirveye ulaştığında, 
+fiyatlar devrilmelidir. Bazen erken, bazen tam yerinde ve 
+bazen geç olurlar. "Hızlı" ayarlara sahip bir stokastik sizi 
+bir işleme çok erken sokabilir, ancak bir sonraki sefere sizi 
+tam doğru anda sokabilir. Önemli olan
+73
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+Bunu anlayın ve takdir edin ve tutarlı bir şekilde tek bir osilatöre 
+ve tek bir ayara bağlı kalın. Bu, nesnelliği sağlamaya yardımcı 
+olur. Öte yandan, paranızı boşa harcamanın en iyi yolu, bir 
+göstergeden diğerine geçmek, bir gösterge veya ayar sizin için 
+işe yaramadığında her seferinde gemiyi terk etmektir.
+Gözden geçirmek
+Silahlarınızı seçin, kurun ve bunları istikrarlı bir şekilde 
+kullanın.
+ÇOKLU ZAMAN KULLANIMI
+ÇERÇEVELER
+Evet, tüm osilatörlerin esasen aynı olduğuna ve belirli ve kesin ayarların 
+hepsinin zaman içinde ortalamaya girdiğine inanıyorum. Bu yüzden bu 
+huysuzluğun zaman dilimlerine uzanmadığını öğrenmek sizi 
+şaşırtabilir. Aslında, daha kısa zaman dilimlerinde alınan kararları 
+desteklemek için daha uzun zaman dilimlerinden trendleri ve verileri 
+kullanmaya büyük bir inancım var. Örneğin, piyasa uzunken neden kısa 
+pozisyon alıyorsunuz?
+1
+Trendi -veya bu durumda salınımı- uzun vadede 
+doğrulamak, salınımı mikro düzeyde yürütmek için 
+oldukça faydalıdır. Ancak iki farklı zaman periyodundan iki 
+grafiğe bakmak yerine, örneğin beş dakikalık bir grafik ve 
+30 dakikalık bir grafik, iki stokastiği tek bir grafikte 
+birleştirmeyi tercih ederim. Bu, iki stokastik pencereye 
+sahip olarak kolayca yapılabilir; biri yavaş, diğeri hızlı için.
+74
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+Aynı grafikte farklı zaman dilimlerini birleştirmek, daha uzun bir 
+zaman diliminden gelen daha büyük trendi, aynı sinyalleri daha kısa 
+bir zaman diliminde işlem yapmak için bir filtre olarak iyi bir şekilde 
+kullanır. Daha hızlı stokastik daha kısa bir zaman dilimini, daha 
+yavaş stokastik ise daha uzun bir zaman dilimini temsil eder.
+BENİM
+KUTSAL KÂSE (DEĞİL)
+AYARLAR—
+Hızlı stokastiğim için ayarlar olarak 9, 3, 3'ü ve yavaş 
+stokastiğim için ayarlar olarak 81, 9, 9'u kullanıyorum. 
+Yavaş stokastik ayarım için sayıları elde etmek için hızlı 
+stokastik ayarındaki tüm sayıları çarptım. Bu, hızlı 
+stokastik ayarları ne kadar keyfi olursa olsun, yavaş 
+stokastik ayarlarının hızlı olanlarla tamamen tutarlı olduğu 
+anlamına gelir. Tamamen farklı ayarlar kullanmak, 
+korkuluğa cesaret ve korkak aslana beyin vermekle aynı 
+şey olurdu.
+Şekil 5.6Bu iki stokastiği kolay, hızlı ve nesnel bilgi için 
+grafiğimde nasıl kurduğumu gösteriyor. (a) çizgisi yavaş 
+81, 27 stokastiğidir ve (b) hızlı 9, 3 stokastiğidir. Bunun 
+birkaç önemli unsuru vardır.
+Şekil 5.6Çoklu Zaman Çerçevesi Stokastikleri
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+75
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+HIZLI STOKASTİK
+Stokastikler genellikle iki çizgi gösterir: önde gelen bir %K çizgisi ve 
+geride kalan bir %D çizgisi. Çok fazla ayrıntıya girmeden, bir çizgi 
+diğerinin üzerinden geçtiğinde, bu genellikle bir fiyat rollover'ı için 
+sinyal noktasıdır. Sadece grafik panelindeki göreceli konumlarını 
+değil, aynı zamanda aralarındaki spread'i veya mesafeyi de 
+gösterirsem, bu iki çizgi arasındaki ilişki hakkında çok daha fazla 
+bilgi edinebilirim. (b)'nin kalın çubuklarında gösterilen budur. Açık 
+gri çubuklar, önde gelen %K'nin %D'nin altında olduğunu gösterir. 
+Gri çubuk ne kadar uzunsa, tekrar yukarı doğru geçmesi o kadar 
+uzaktır. Bu çubuklar kısaldıkça, bana bir çapraz aramaya başlamamı 
+söylüyor. Açık siyah çubuklar,
+76
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+%K'nin %D'nin üzerine çıktığı. Bu nedenle, ilgilendiğim belirli 
+bir çubuk, rengin açık griden siyaha dönüştüğü çubuktur. 
+Sadece bunun %20 ızgara çizgisinin altında gerçekleştiği 
+zaman ilgileniyorum. Bu grafikte bu birkaç kez oluyor. Peki, 
+hangi ticareti yapmalı? Rehberlik için yavaş stokastik'e 
+bakacağız— ya da en azından bir filtre olarak.
+Yararlı bulduğum bir diğer ayar da, grafiğin ana penceresindeki 
+fiyat çubuklarını hızlı stokastik spread ile aynı renklere 
+boyamam. Bu, ana grafikte bir salınım rollover'ı ne zaman 
+aramam gerektiğini görsel olarak görmeme yardımcı oluyor. 
+Gerçek zamanlı olarak, gösterge açık griden siyaha (veya 
+bilgisayarımda renkli grafikte pembeden yeşile) geçmeye 
+hazırlanırken, rengin ileri geri titrediğini görebiliyorum. Bu, 
+başka bir görsel ipucu ve aynı zamanda ilginç bir uyarıcı!
+Şekil 5.7grafik programımdaki hızlı stokastik ayarları gösterir. 
+Bunların diğer grafik programlarına da oldukça 
+benzediğinden eminim.
+Şekil 5.7Hızlı Stokastik Ayarlar
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+77
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+YAVAŞ STOKASTİK
+(a) satırındaŞekil 5.6yavaş stokastiği gösterir. %K'nin yavaş 
+stokastikte %D'yi ne zaman geçtiğiyle ilgilenmiyorum, çünkü 
+bu bir giriş sinyali değil; hızlı stokastiğin giriş sinyalini almak 
+için bir filtre. Bu nedenle, gerçekten sadece bir çizgiyle 
+ilgileniyorum; hangisi olduğu önemli değil, ancak %K çizgisini 
+seçtim. Bu çizgi stokastik penceresinde %20 ızgara çizgisinin 
+altındaysa, o zaman koşullar uzun bir işlem için iyidir, bu 
+noktada, tetikleyicim olarak hızlı stokastiği kullanacağım. Bu 
+çizgi stokastik penceresinde %80 ızgara çizgisinin 
+üzerindeyse, o zaman koşullar kısa bir işlem için iyidir. Tekrar 
+ediyorum, tetikleyicim olarak hızlı stokastiği kullanacağım. Bu 
+iki koşulu izlemeye yardımcı olmak için, yavaş stokastik bu iki 
+uçta olduğunda %20 ve %80 bantlarını renklendiriyorum. 
+Yine de,Şekil 5.6uzun vadeli bir işlem için çoklu zaman dilimi 
+kurulumunu gösterir, eğer bakarsanız
+78
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 76 ===
+Grafiğin en sağ tarafında, kısa vadeli işlem tetikleyicisi için güzel bir 
+kurulum da göreceksiniz.
+Şekil 5.8grafik programımdaki yavaş stokastik ayarları 
+gösteriyor.
+Şekil 5.8Yavaş Stokastik Ayarlar
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:
+www.traderslibrary.com/ TLEcorner
+AMAÇ
+GEREKLİLİKLER İLE
+79
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 77 ===
+"SATIN AL"I OLUŞTUR
+VE "SATIŞ" SİNYALLERİ
+Objektif bir ticaret sistemi kurmak için iki bileşene sahip olmanız 
+gerekir:
+1. Bir ticarete girmek için gereken objektif şartların listesi.
+2. Her bir bileşenin altında yatan mantık veya neden.
+Bunları üst üste koyduğunuzda, tutarlı ve olumlu sonuçlar 
+verecek nesnel bir sistem elde edersiniz.Tablo 5.1Evrensel 
+Grafik kullanılarak satış (kısa pozisyon) kararına kadar geçen 
+gösterge yığınını gösterir.
+Tablo 5.1Göstergeleri Satma Kararı
+Gösterge Ne Anlama Geliyor?
+Fiyatlar daha önce kanıtlanmış bir konfor alanına 
+çekildi. Yatırımcılar burada kar elde edecekler, bu 
+da bir geri çekilmeye veya hatta belki de tam bir 
+Seed Wave tersine dönüşüne neden olacak.
+VPC
+(Bakir
+(PoC)
+Yavaş
+Stokastik
+> 80
+Uzun vadede, piyasa aşırı alım bölgesindedir ve potansiyel 
+olarak tersine dönebilir.
+Hızlı
+Stokastik
+> 80
+Kısa vadede piyasada aşırı alım var ve potansiyel olarak 
+geri dönüş yaşanabilir.
+%K
+,
+Stokastik
+Açık
+Hızlı
+Küçük bir kartopu yokuştan aşağı yuvarlandı. Bunun 
+bir önemi var mı? Tek başına, kesinlikle değil. Ancak ilk 
+üç gösterge göz önüne alındığında, bir
+80
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 78 ===
+Gösterge Ne Anlama Geliyor?
+çapraz
+üzerinde
+%D
+küçük kartopunun bir kar kayması ve hatta 
+bir çığ oluşturması oldukça olası. Çığ 
+uyarınızı ayarlayın ve atlayın!
+Özetlemek gerekirse, Evrensel Tablomdaki "satın al" 
+sinyali, fiyatlar Jardine Aralığı'nın dibine dokunduğunda 
+ve aşağıdaki üç koşulun hepsi aynı anda karşılandığında 
+tetiklenir:
+1. Yavaş stokastik %20 bandının altındadır,
+2. Hızlı stokastik de %20 bandının altındadır ve
+3. Hızlı stokastiğin %K'sı, hızlı stokastiğin %D'sinin 
+üzerinden geçer.
+"Satış" sinyali, kısa pozisyon açma sinyalidir. Bunu uzun 
+pozisyon açma sinyaliyle karıştırmayın. Universal 
+Chart'ımdaki "satış" sinyali, fiyatlar Jardine Aralığı'nın 
+tepesine ulaştığında ve aşağıdaki üç koşulun hepsi aynı 
+anda karşılandığında tetiklenir:
+1. Yavaş stokastik %80 bandının üzerindedir,
+2. Hızlı stokastik de %80 bandının üzerindedir ve
+3. Hızlı stokastiğin %K'sı, hızlı stokastiğin %D'sinin 
+altından geçer.
+ALIM VEYA SATIM SİNYALİ 
+UYGULAMA
+Bir sinyal geldiğinde işlemi gerçekleştirmenin farklı yolları 
+vardır. Bir satın alma sinyali durumunda, bazı kişiler basitçe
+81
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 79 ===
+ticaret yazılımlarındaki "satın al" düğmesi. Diğerleri 
+sinyalin iyi olduğuna dair bir tür onay bekler. Satın alma 
+sinyali duyulur duyulmaz satın alan kişi genellikle daha 
+erken ticarete girer. Bu aynı zamanda, beklemiş olsaydı 
+girişini daha yüksek bir fiyattan gerçekleştirebileceği 
+anlamına gelir.
+Bir seçenek, bir işleme girmek için takip eden durdurmaları 
+kullanmaktır. Bu, uzun bir sinyal düşünülürken, işlemin yalnızca 
+sinyalin oluştuğu çubuğun en yüksek noktası aşıldığında tetikleneceği 
+anlamına gelir. Bunu yapmak için, sinyalin oluştuğu çubuğun en yüksek 
+noktasının bir tik yukarısına bir piyasa alım durdurma veya limit 
+durdurma emri verin. Piyasa yukarı yerine aşağı doğru devam ederse, 
+bir yüksek nokta aşılıp işlem gerçekleştirilene kadar piyasa durdurma 
+emrini her bir sonraki çubuğun en yüksek noktasının bir tik üzerine 
+taşıyın.
+Örneğin,Şekil 5.9, "satın al" sinyali, stokastik penceresindeki 
+ilk dairenin noktasında, yavaş stokastiğin %20 çizgisinin 
+altında olduğu, hızlı stokastiğin de %20'nin altında olduğu ve 
+%K'nin %D'nin üzerinde yukarı doğru geçtiği noktada üretildi. 
+Bu, hem hızlı stokastik histogram çubuğunun hem de ana 
+grafik penceresindeki fiyat çubuğunun rengindeki 
+değişiklikle gösterilir. (Yazılımım ayrıca görünür bir ok 
+yazdırır ve sesli bir uyarı üretir.)
+Şekil 5.9Trailing Stop Girişi
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, bir dakikalık, CME, 12 Ekim 2009
+82
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 80 ===
+Bu çubuğun en yükseği 1070.50 idi. 1070.75 için bir stop buy 
+emri verdim. Bu, teklif 1070.50'nin üzerine çıkarsa, brokerımın 
+işlem yazılımının büyük olasılıkla 1070.75'te doldurulacak bir 
+piyasa buy emri vereceği anlamına geliyordu.
+Ancak fiyatlar 1070.50'nin üzerine çıkmadı. Bir sonraki çubuğun en 
+yükseği 1070.25'te basıldı, bu noktada stop market buy emrimi 
+1070.50'ye düşürdüm. 1070.25 seviyesi sonraki üç dakika boyunca 
+tutundu, sonra tekrar düştü. Bir sonraki düşük en yüksek 1060.25'ti, 
+bu yüzden stop buy emrimi 1060.50'ye düşürdüm. Bu kırılmamıştı, 
+bu yüzden bir sonraki düşük en yüksek 1069.00'dı. Bu da tutundu, 
+bu yüzden on dakika sonra 1068.75'te bir stop buy emrim vardı. Bu, 
+ikinci dairenin gösterdiği gibi sonunda gerçekleşti. Bu örnekte, 
+takip eden stopları kullanarak, işlem girişinde iki puan 
+kazanabildim. Bir ES işleminden elde edilen tipik kârın sadece üç 
+puan olduğunu düşünürsek, %66'lık bir avantaj elde edebildim.
+83
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 81 ===
+Elbette, her zaman böyle olmuyor, ancak bu örnek, bir işleme girmek 
+için neden her zaman trailing stop kullanmayı tercih ettiğimi 
+gösteriyor. Diğer yandan, basit limit emirlerini tercih ediyorum. 
+Bunların nasıl çalıştığını görelim.
+- - - - - - - - - - - KENDİNİ 
+SINAV SORULARI
+1. Osilatörler şu konularda iyidir:
+a. Fiyat dalgalanmalarının büyüklüğünü tahmin etmek.
+b. Fiyat dalgalanmalarının genliğini tahmin etmek.
+c. Fiyat dalgalanmalarının ritmini tahmin etmek.
+d. Fiyat dalgalanmalarının yönünü tahmin etmek.
+e. Yukarıdakilerin hiçbiri
+f.A ve C
+2. Fiyat dalgalanmalarını tahmin etmek için aşağıdaki osilatörlerden hangisi 
+daha iyidir?
+a. Stokastik
+b.Geri Dönüşlü Reaktif Güç Göstergesi
+c.MACD
+d. CCI
+e. Hepsi aynıdır.
+3. Bir osilatörün sinyalini doğrulamanın iyi bir yolu nedir?
+a. Bir regresyon kanalındaki salınımların eğilimini takip edin.
+b. Aynı sinyali daha uzun bir zaman diliminde kullanın.
+c. Hareketli ortalama kullanarak yönü doğrulayın.
+d. Elliott Dalgalarını sayın.
+- - - - - - - - - -
+Cevaplar için şuraya gidin:www.TradersLibrary.com/TLEcorner.
+1Bunun tek önemli istisnası, Jardine Aralığı'nın tüm 
+varsayımıdır: Bu, trendin tersine olsalar bile, tam olarak 
+tersine dönüş işlemlerini tanımlamak için kullanılır.
+84
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 82 ===
+Bu konu hakkında daha fazla bilgiyi 8. Bölümde “Tip 3: Karşı Piyasa” 
+başlığı altında okuyabilirsiniz.
+85
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 83 ===
+Altı
+Dışarı Çıkma: Ortalama Aralık
+AMACIMIZIN HIZLI BİR 
+İNCELEMESİ
+Fibonacci Ticaretinde Yeni Sınırlar'ı okuduysanız, bir işlemden 
+çıkmak için en verimli yeri hedeflemek için 1,618'in "Altın 
+Ortalamasını" ve birincil türevi 1,382'yi kullanabileceğinizi 
+bilirsiniz. Ancak bu, ölçüm yapılacak önceki bir dalgaya sahip 
+olmaya dayanır; tercihen, yönün tersine döndüğü ilk dalga, ki 
+ben buna Tohum Dalgası diyorum. Basitçe söylemek gerekirse, 
+Altın Ortalamayı bir serideki ilk dalgaya uygulayarak aynı 
+yöndeki bir sonraki dalganın olası tükenme noktasını tahmin 
+edin. İlk dalganın en düşük noktası 100 ve en yüksek noktası 
+110 ise, o zaman o ilk dalganın genliği 10'du. 10 × 1,618 = 16. 
+Yani, 116 o ikinci yukarı itmenin optimum yüksekliğidir.
+TLEköşe
+Altın Ortalama hakkında daha derin bir anlayış için, Traders' Library Education 
+Corner'da çevrimiçi olarak yer alan New Frontiers in Fibonacci Trading adlı 
+eserin bir bölümünü okuyun.
+TradersLibrary.com/TLEcorner
+Şekil 6.1VeŞekil 6.2Fibonacci'yi Jardine Dizisi ile birleştirmenin 
+amacını göstermektedir.Şekil 6.1VPC'yi gösterir
+86
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 84 ===
+30 Eylül 2009'dan itibaren olası geri dönüş noktası olarak ve 
+Şekil 6.26 Ekim 2009'un detayını gösteriyor.
+Şekil 6.1Jardine Aralığı ve Beş Dalga Tersine Dönüş
+Şekil 6.2Beş Dalga Tersine Dönüşünün Detayı
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+87
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 85 ===
+Önceki grafikte 30 Eylül VPC'sinden uzanan okun gösterdiği gibi, 
+Tohum Dalgasının 1056,00'da başlamasını bekliyorduk. Kutu, 2. 
+Dalga 1. Dalganın tepesinin altında sona erdikten sonra 
+doğrulanan gerçek Tohum Dalgasını gösteriyor, ardından 3. 
+Dalga 1. Dalganın dip noktasının altına düştü. O noktada, 1.618 
+çizgisiyle gösterildiği gibi, bir sonraki aşağı yönlü itmenin 
+sonunu tahmin etmek için Fibonacci Altın Ortalamasını ilk 
+dalganın genliğine uyguladık - 3. Dalga. Fena bir tahmin değil. 
+Bazen - her zaman olmasa da - daha büyük bir itme meydana 
+gelir. Eğer öyleyse, o 5. Dalga, gösterildiği gibi ilk Tohum 
+Dalgasının 2,618 katı olarak ölçülebilirŞekil 6.2.
+88
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 86 ===
+İLK YAKALAMA
+DALGA
+Ya bir Tohum Dalganız yoksa? Jardine Aralığı'nın öncülü, piyasanın 
+tersine dönmesi veya en azından daha önceki bir işlem gününün 
+Piyasa Profili'nden türetilen daha önce dokunulmamış Kontrol 
+Noktası'nda duraklamasıdır. Mantıksal olarak, o zaman, bir Tohum 
+Dalgası'nın başlamasını bekliyoruz. Jardine Aralığı'nı, gerçekten bir 
+Tohum Dalgası olup olmadığını bilmemizden çok önce, o Tohum 
+Dalgası'nın başlangıcında bir işleme girmek için kullanıyoruz. Bu 
+nedenle, işlemin bu noktasında, Altın Ortalama bizim için yararlı 
+değildir. Daha sonra yararlı olacaktır - umarım.
+Gözden geçirmek
+Jardine Range'in varsayımı, piyasanın tersine döneceği veya en 
+azından daha önce dokunulmamış POC'de duracağıdır.
+O halde bir işlemden çıkmanın en basit yolu, gökten bir sayı seçmek 
+veya kişinin geriye dönük test sonuçlarından bir sayı seçmektir. 
+Örneğin, 5. Bölümün sonunda belirttiğim gibi, analiz ettiğim S&P 
+Futures E-mini sözleşmelerinin, ES, ticaretiyle ilgili tarihsel veriler 
+bana Universal bir işlemdeki ortalama kârın üç puan olduğunu 
+söylüyor. Ancak bu büyük ölçüde değişir. Bana daha yakın bir 
+dönemdeki ortalama işlem aralığını gösteren nesnel bir göstergeye 
+sahip olmayı tercih ederim; tercihen sadece bugünün iniş çıkışlarını 
+yansıtır. Bunu ölçmenin en iyi yolu Keltner Kanalı'nı almaktır. 
+Keltner Kanalı, üst ve alt bantları Ortalama Gerçek Aralık'ı 
+kullanarak oynaklıktaki değişikliklere uyum sağlayan hareketli 
+ortalama bant göstergesidir.
+89
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 87 ===
+Şekil 6.3Keltner Kanalının, fiyatların ve oynaklığın ortalamasına 
+dayalı bir geri dönüş ticareti için çıkış noktaları önermek için 
+nasıl kullanılabileceğini gösterir. Ticaret giriş örneğinde 
+kullandığımız grafikle aynıdır,Şekil 5.9: Trailing Stop Girişi.
+Şekil 6.3Keltner Çıkışları
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+İşlem 1070.50'de işaretlendi, ancak gerçek işlem (a) noktasında 
+1068.50 kırılıncaya kadar gerçekleştirilmedi. Daha sonra tersine 
+dönüş gerçekleşti ve fiyatlar (b) ve (c) noktalarında Keltner 
+Kanalının tepesine neredeyse dokundu. Bunlardan herhangi biri 
+işlemden çıkmak için ideal yerler olurdu. Genellikle, Keltner 
+noktasında bir limit satış emri vermeyi güvenli buluyorum.
+90
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 88 ===
+bir sonraki alt işlem birimini yuvarlayarak. Bu örnekte, (b) 
+veya (c) bir limit satış emrinde çıkışı gerçekleştirebilirdi. 
+Nokta (d) kesinlikle yaptı, çünkü fiyatlar Keltner Kanalı 
+çizgisinden geçti.
+SONRAKİ ADIM NE?
+Keltner Kanalı, alım (veya satım) işleminin tükenme noktasına gelip 
+yön değiştirmesi veya konsolidasyon ya da "tutma modeli" içinde 
+yanlara doğru hareket etmesi durumunda piyasa tabanında kalan 
+parayı toplamanın nispeten güvenli bir yolunu temsil eder.
+Peki ya tersine dönüş tüm gücüyle devam ederse? Ya ters 
+yöndeki ilk itiş aslında bir 123 tersine dönüşüyse ve bir Tohum 
+Dalgası yaratıyorsa? Eğer bu gerçekleşirse, o zaman çok 
+şanslıyız çünkü en baştan girdik. Ayrıca Keltner Kanalı'nın karşı 
+ucunda makul bir kârla çıktık. Ancak burada biraz akıllıca 
+ticaretin uzun bir yol kat edebileceği yer: hisselerin veya 
+sözleşmelerin tamamını satmak (veya kapatmak) yerine, neden 
+sadece bir kısmını (örneğin yarısını) satıp geri kalanı tutarak 
+tersine dönüşün tutunup tutunmadığını görmüyoruz?
+Bunun için üç şeye ihtiyacınız var:
+1. Bir kar koruma planı,
+2. Araştırma ve
+3. Optimize edilmiş bir hedef.
+91
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 89 ===
+KÂR KORUMASI
+Makul bir kar elde ettiğinizde, piyasanın yükselmeye devam 
+edebileceğini düşünüyorsanız, bu olasılıktan yararlanmak için 
+hisselerinizin veya sözleşmelerinizin bir kısmını elinizde tutmak 
+isteyeceksiniz. Ancak çoğu zaman piyasa yükselmeye devam etmez - en 
+azından mücadele etmeden. Karları korumak için en iyi yol, denge 
+noktası stop emri vermektir. Stop emrini, takip eden stop emri olarak 
+yukarı taşımayı da deneyebilirsiniz, ancak bunun sadece hayal ürünü 
+olduğunu düşünüyorum. Piyasa o kadar gergin ki, görünüşte çok 
+sayıda rastgele alım ve satım emriyle destekleniyor ki, takip eden stop 
+emri, Seed Wave'i kaçırmanızı neredeyse garantiliyor. Sadece orijinal 
+giriş fiyatınızda bir satış stop emri girin ve rahatlayın.
+Şekil 6.4Giriş noktası (a)'yı gösterir, bu nokta fiyatların Jardine 
+Aralığı'nın altındaki VPC'ye düşmesinden sonra meydana gelir ve 
+yavaş ve hızlı stokastikler 20'nin altındayken ve hızlı stokastiğin 
+%K'si %D'nin üzerinde yukarı doğru kesişir. (b) noktasında fiyatlar 
+Keltner Kanalı'nın tepesine ulaşır ve bu belirli itmenin muhtemelen 
+Ortalama Gerçek Aralık değerine ulaştığını gösterir, bu nedenle 
+yarısını satmak için iyi bir yerdir. Ancak (a)'dan (b)'ye olan ilk itme 
+bir Tohum Dalgası mı olacak? Hafif bir geri çekilme olacak mı, 
+ardından başka bir geri itme mi olacak? (c) noktasında, giriş 
+fiyatında bir stop satış emri verin. Bu en azından fiyatlar tersine 
+döndüğünde para kaybetmeyeceğinizi garanti edecektir.
+Şekil 6.4Denge Durdurma
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+92
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 90 ===
+Şekil 6.5neler olabileceğini ve bu stop'u tutmanın neden iyi 
+olduğunu gösterir. Yükselişten sonra fiyatlar Keltner Kanalı 
+tarafından oluşturulan deseni izleyerek tekrar düştü. Stop'a ulaşıldı. 
+Hiçbir risk alınmadıysa, hiçbir şey kazanılmadı. Değil mi?
+Şekil 6.5Denge Noktası Durdurma Vuruşu
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+93
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 91 ===
+ÇİFT ALT
+Belki de değil. Bu durumda, fiyatlar uzun işlemin ilk tetiklendiği 
+çubuğun tam yüksekliğine doğru hareket etti ve ardından 
+gösterildiği gibi geri yukarı doğru hareket etti.Şekil 6.6.
+Şekil 6.6Çift Düğme
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+94
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 92 ===
+Bu bir tesadüf müydü? Deneyimim bana öyle olmadığını 
+söylüyor. Bu, bazı insanların "Çift Dip" olarak adlandırdığı 
+klasik bir "Dokun ve Git" desenidir. Piyasa bir dip arıyor, 
+belirli bir noktadan sıçrar
+1, tekrar yukarı çıkar, iki kere düşünür, tekrar aşağı 
+düşer, tekrar o dibe vurur ve der ki, "Tamam, bu sağlam 
+bir zemin, hadi tekrar yukarı çıkalım." Elbette piyasalar 
+düşünmez; ancak bu, desenin ardındaki piyasa 
+psikolojisinin uygun bir tanımıdır; bu da aynı anda aynı 
+grafiğe bakan binlerce yatırımcının kolektif bilincini 
+yansıtır.
+Yani, hayır, bu desenin tekrar tekrar oluşması bir tesadüf 
+değil. Başarılı bir çift dip, VPC'de diğer herhangi bir 
+çizgiden daha sık meydana gelmesi bir tesadüf değil.
+95
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 93 ===
+kum. Bu olasılığı nesnel bir işlem yöntemine dahil 
+edecek kadar gerçekleşiyor mu? Çift dip seviyesine 
+ikinci dokunuş, o denge durağını biraz ayarlayıp belirsiz 
+bir sıçramaya izin verecek kadar kesin mi? Yoksa Keltner 
+Kanalı'nın tepesinde tüm işlemden çıkıp ikinci 
+sıçramada tekrar girmek daha mı akıllıca olur?
+ARAŞTIRMAYI YAPIN
+Eğer bu soruları soruyorsanız, o zaman nesnel bir yöntem 
+oluşturucusu gibi düşünüyorsunuz demektir. Devam edin! Ve 
+çalışın, çalışın, çalışın. Her bir örüntü gördüğünüzde kendinize şu 
+dört soruyu sorun:
+1. Bu desen gerçekte ne sıklıkla meydana geliyor?
+2. Bu desenden nasıl faydalanabilirim?
+3. Bu desen başarılı olursa, yöntemimin diğer parçaları üzerinde ne 
+gibi bir etkisi olur? Başka bir parçaya zarar verir mi? Paul'e ödeme 
+yapmak için Peter'ı mı soymuş olurum?
+4. Eğer bu model başarısız olursa, yöntemimin diğer parçaları üzerinde 
+nasıl bir etkisi olur?
+OPTİMİZE ETME
+HEDEF
+SENİN
+Diyelim ki o işlemde kaldık ve breakeven noktasında 
+durdurulmadık.
+96
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 94 ===
+Piyasa net, dalga tabanlı bir tersine dönüşle yükselmeye 
+devam ederse ne yapacağımızı biliyoruz. Fibonacci 
+bilgimiz burada işe yarıyor. İlk itmenin boyutunu ölçerek 
+bir sonraki itmeyi hesaplamak olabilecek en basit şey. 
+Basit sayısal dizimiz o İtalyan rahip tarafından sadece 
+borsa için tasarlanmadı. Tavşanların üreme "itmelerinden" 
+hapşırıkotu çalılarının dallarına, bir ağacın halkalarının 
+uzaklığına veya güneş sistemimizdeki gezegenlere kadar 
+her şeyi matematiksel zarafetle tanımlamak için beş yüz 
+yıldan fazla bir süredir kullanıldı.
+Herhangi bir göstergede olduğu gibi, Fibonacci hedeflerini 
+bir tür destek veya onay olarak diğer göstergelerle 
+birleştirmek faydalıdır. Bunun için zaten iyi bir göstergemiz 
+var - ilk etapta ticarete girmek için kullandığımız gösterge - 
+çift stokastik.
+TLEköşe
+İtalyan rahip ve üreyen tavşanları hakkında daha fazla bilgiyi 
+çevrimiçi olarak Tüccar Kütüphanesi Eğitim Köşesi'nde 
+bulabilirsiniz.
+TradersLibrary.com/TLEcorner
+Şekil 6.7Çift stokastiğin bir işlemin ikinci yarısı için çıkış sinyali 
+olarak nasıl kullanılacağını gösterir ve bunun Fibonacci aracı 
+tarafından Tohum Dalgasının genliğine göre oluşturulan 
+hedefi doğrulamak için kullanılabileceğini gösterir. Tohum 
+Dalgası kutuda gösterilir. Bu, kısadan uzuna bir trendin 
+(potansiyel) tersine çevrilmesindeki ilk itmedir. 123 tersine 
+çevirmenin kurallarına göre doğrulandıktan sonra, Fibonacci 
+aracı bu Tohum Dalgasına uygulanarak 1,618 Altın Ortalama 
+ile birinci türevi 1,382 arasında hedeflenen bir çıkış bölgesi 
+elde edilir. Peki ya çift stokastik?
+97
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 95 ===
+20 çizgisinin altındaki yavaş ve hızlı stokastikler, işleme girmek 
+için güvenli bir yer gösterdiğinden, tam bir salınımın diğer 
+ucundan çıkmak mantıklıdır - yavaş stokastik 80 çizgisinin 
+üzerinde olduğunda ve hızlı stokastik de 80 çizgisinin üzerinde 
+olduğunda ve hızlı stokastiğin %K'si %D'nin altına geçtiğinde. Bu 
+nokta daire içinde gösterilir ve karşılık gelen fiyat çubuğu kesikli 
+çizgi okunun sonunda gösterilir.
+Şekil 6.7Stokastik Rollover Çıkışı
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Çoğu zaman, bu "Stokastik Rollover Çıkışı" tarafından 
+üretilen sinyal, Fibonacci ölçümünün doğruluğunu doğrular.
+98
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 96 ===
+özellikle ilk Seed Wave açık, net bir dalgaysa önerilir. 
+Unutmayın, dalga ne kadar güçlüyse sörf de o kadar 
+iyidir!
+- - - - - - - - - - - KENDİNİ 
+SINAV SORULARI
+1. Tohum Dalgası Nedir?
+a. Bir dalganın başlangıcı
+b. Bir trendin tersine dönmesindeki ilk dalga
+c. Bir serideki çok küçük bir dalga
+d. Elliott beş dalga dizisinin son dalgası
+2. Altın Ortalama ve onun birincil türevi nedir?
+a. 1.618 ve 1.382
+b. 1.0 ve 0.1
+yaklaşık 1,5 ve 1,782
+d. 1.618 ve 1.782
+3. Keltner Kanalı neyi ölçer?
+a. Ortalama bir zaman dilimi içinde fiyatların yönü
+b. Belirli bir zaman dilimi içindeki fiyatların ortalama oynaklığı
+c. Ortalama fiyat aralığı ortalamadan
+d. Belirli bir zaman dilimi içerisinde fiyatlardaki yön değişikliği
+4. Keltner Kanalı bir işlem için çıkış noktaları önermek açısından neden 
+faydalıdır?
+a. Fiyatların ortalama aralığını bir osilatörden daha iyi 
+ölçer
+b. Fiyatın tersine döneceğini tahmin edebilir
+c. Bu, sadece çekingen yatırımcılar için görsel bir "güvenlik battaniyesi"dir.
+d. Aslında kârla çıkmaktan ziyade stop yönetimi için daha 
+iyidir.
+5. Aşağıdakilerden hangisi kârınızı korumanın iyi bir yolu 
+değildir?
+a. Takip eden durdurma
+b. Denge noktası durağı
+99
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 97 ===
+c. İki katına çık
+d. Muhafazakar bir hedefte kar elde etmek, ardından fiyatlar yükseldikçe stop 
+emri kullanmak
+- - - - - - - - - -
+Cevaplar için şuraya gidin:www.TradersLibrary.com/TLEcorner.
+1Çoğu zaman, o belirli nokta bir VPC'dir!
+100
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 98 ===
+Yedi
+Jardine Sıradağları ve 
+Evrensel Harita
+Universal'da işlem yapmak için iki ayrı haritaya ihtiyacınız olacak; biri 
+Jardine Sıradağları için, diğeri ise Universal Haritası için.
+HAKKINDA
+PROFİLLER
+ONLAR
+Jardine Range grafiği, mümkün olduğunca geriye, tercihen en 
+az bir yıla kadar giden Piyasa Profilleri veya Fiyat 
+Histogramlarından oluşur. Her histogram, bir işlem günü için 
+fiyat hareketini tanımlamalıdır. Standart ayar 30 dakikalık bir 
+grafik kullanmaktır, ancak daha fazla ayrıntı için beş dakikalık bir 
+grafik tercih ederim. Sadece dokunulmamış Virgin Kontrol 
+Noktaları (VPC'ler) ile ilgilendiğimiz için, fiyatlar daha sonra 
+bunların içinden geçtiğinde POC'leri ortadan kaldıran bir grafik 
+programına sahip olmak en iyisidir. Ensign Software'de bu 
+mevcuttur. Şekil 7.1yalnızca VPC'leri gösteren bir Fiyat 
+Histogramı grafiğini gösterir. Noktalı çizgi okları, piyasa 
+bunların içinden geçene kadar bakir olan POC'leri gösterir. Dolu 
+çizgi okları, 15 Ekim 2009'da piyasanın kapanışında bakir olan 
+POC'leri gösterir.
+101
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 99 ===
+Şekil 7.1Fiyat Histogramı VPC'leri
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, beş dakikalık, CME, 15 Ekim 2009
+Şekil 7.2Ensign Software'deki Fiyat Histogramı ayarlarını 
+"yalnızca Virgin POC'leri göster" onay kutusuyla gösterir. 
+Ayrıca histogramı iki farklı aralıkla renklendirme seçeneği 
+de vardır: belirli bir yüzde bandına giren fiyatlar ve bu 
+aralığın dışına düşen fiyatlar. Geleneksel ayar, histogramın 
+koyu kısmında gösterildiği gibi %70'tirŞekil 7.1. Bu ayarları 
+kullanmıyorum. Bunun yerine, tamamen histogram 
+şekline odaklanıyorum. Bölüm 2'deki beş profil türüne geri 
+dönün. Normal, Çoklu veya Çift Flama ise, POC'yi ve bazen 
+de MPC'yi takas edeceğim. Düz veya Blunt profil ise, onu 
+benim için kullanmayacağım
+102
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 100 ===
+"bir günlük işlem", ancak günlük alım satım için Blunt profilini 
+kullanabilirim - ancak yalnızca pervasızca terk edilmeye 
+sürüklendiğimde. Just a Trade a Day'in ardındaki tüm fikir, bu tür 
+öznel riskler için kumar oynayarak para kaybetmekten kaçınmaktır.
+Şekil 7.2Fiyat Histogramı Ayarları
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+ÇİZELGE
+MENZİL
+1: SÜTLÜ BAHÇE
+Jardine Range, en yakını piyasa açılışının üstünde ve en yakını 
+piyasa açılışının altında olmak üzere iki VPC ile sınırlıdır. Genellikle 
+günün sonunda, göstermek için dikdörtgen bir kutu çizerim.
+103
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 101 ===
+Jardine Range'in ertesi gün nerede olması muhtemel. Bunu 
+sabahın ilk saatlerinde, piyasa açılmadan önce güncellerim. 
+Şuna bakarakŞekil 7.3, 1074.75'te şort, 1064.25'te uzun 
+pozisyonlar arayacağımı görebiliyorum. Bu olabilecek en 
+basit şey.
+Şekil 7.3Jardine Serisi
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, beş dakikalık, CME, 16 Ekim 2009
+Ancak, Çarşamba, 14 Ekim'de oluşan geçerli bir VPC var, 
+öyleyse neden bunu Cuma, 16 Ekim'de Jardine Range için 
+alt sınır olarak kullanmıyoruz? Bunun nedeni, Cuma 
+sabahı piyasanın tam o VPC'de (veya yakınında) açılmış 
+olmasıdır. Bir kuralım var: Piyasa bir VPC'de veya 
+yakınında açılırsa, o VPC geçersizdir. Neden?
+104
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 102 ===
+Bir düşünün. Bir topu yerden yarım inç yukarıdan bırakırsanız, 
+sekmez. Sadece yuvarlanıp gider. Bir topu yerden birkaç fit 
+yukarıdan bırakırsanız, sekmez. Aynısı Jardine Aralığı'nın 
+sonundaki tersine dönüşler için de geçerlidir. Piyasa tam bir 
+VPC'de açılırsa ölçülebilir bir tersine dönüş bekleyemezsiniz. 
+Önemli bir mesafeden bir VPC'ye geçmesi gerekir. Bir sonraki 
+grafiğe baktığımızda bununla ilgili daha fazla bilgi edineceğiz,
+Şekil 7.4.
+Şekil 7.4Evrensel Tablo
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 16 Ekim 2009
+105
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 103 ===
+GRAFİK 2: “UNI”
+Evrensel veya "Uni" Tablosu, varsayım çizgilerini içerir: 
+Keltner Kanalı ve iki stokastik. Cuma sabahı piyasa 
+açılmadan önce, ayrıca Jardine Aralığı'nın sınırlarını da 
+çizdim, gösterildiği gibiŞekil 7.4Aralıktaki en yüksek 
+seviye 1086.00, en düşük seviye ise 1075.00 oldu.
+Uni için 50 aralıklı bir grafik kullanıyorum. Bir tick grafiği de 
+kullanabilirsiniz. Bir aralık grafiği veya tick grafiği kullanmamın 
+nedeni, piyasa öncesi aktivite hakkında bilgiye ihtiyacım olması, 
+ancak bu bilginin hacim eksikliğinden etkilenmemesi 
+gerektiğidir. Gece aktivitesini göstermek için bir dakikalık grafik 
+kullansaydım, bu sadece uzun, dolambaçlı bir çizgi olurdu. Bir 
+aralık veya tick grafiği, gece aktivitesini hacim tabanlı bir gündüz 
+grafiğine benzeyen bir grafikte yoğunlaştırır. Bunu şurada 
+görebilirsiniz:Şekil 7.4(a) satırında saat 09:30'da (EST) açılan 
+piyasanın her iki tarafı da aynı görünüyor, sol taraftaki hacim 
+çok daha düşük ve piyasa açılışından iki saat öncesine kadar 
+uzanıyor olsa bile.
+Özellikle piyasa öncesi gecelik aktiviteyi görebilmek, bu 
+gecelik aktivitenin bir sonucu olarak Jardine Aralığında 
+herhangi bir ayarlama yapabilmeniz için faydalıdır. Örneğin,
+Şekil 7.4Piyasanın 1089,75'lik kapanışından itibaren aşağıya 
+doğru bir boşluk bıraktığını görebilirsiniz.Şekil 7.3. Gerçekten 
+de, piyasa gece boyunca hem 1086,00 VPC'yi hem de 1082,50 
+VPC'yi geçti ve 09:30'da (EST) tam 1082,50 VPC'de açılmak 
+üzere toparlandı. Tesadüf mü? Hiç de değil. Bildiğiniz gibi, 
+VPC'ler harika fiyat çekicileridir, bu nedenle piyasanın tam bir 
+VPC'de açılması hiç de alışılmadık bir durum değildir. Bu, 
+basitçe işlemi yapmadığımız ve
+106
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 104 ===
+Jardine Range bu bilgiyi dikkate alarak yukarı veya aşağı 
+doğru hareket ettirilebilir.
+Bir VPC'nin, işlem yapmak için geçerli olması için açıldığında 
+piyasanın VPC'den ne kadar uzakta olması gerektiğini nasıl 
+belirlersiniz? Keltner Kanalı iyi bir göstergedir. VPC, piyasa 
+açıldığında Keltner Kanalı'nın dışındaysa, o zaman geçerlidir. 
+Eğer içindeyse, o zaman çok yakındır ve geçersizdir.Şekil 7.4, 
+piyasanın açıldığı sırada 1082.50 VPC'nin Keltner Kanalı'nın 
+içinde olduğunu görebilirsiniz, bu yüzden bir sıçrama için 
+yeterli alan yoktu - en azından bizim amaçlarımız için yeterli 
+alan yoktu.
+Elbette, piyasa öncesi seansta sinyal verilen işlemleri yapma 
+seçeneği de var. Normal piyasa saatlerinden önceki saatin (EST 
+saatine göre 08:30'dan 09:30'a kadar) genellikle tutarlı işlemler 
+üretmek için yeterli hacme sahip olduğunu düşünüyorum. Bu 
+durumda,Şekil 7.4, Sabah saat 9:00 civarında 1082.50 VPC'den uzun 
+bir sinyal alırdım, ardından piyasa açılışından hemen sonra Keltner 
+Kanalı'nın diğer ucundan çıkarak bir puanlık kazanç elde ederdim.
+GİRİŞ SİNYALİ
+Piyasa açıldıktan sonra— tam 1082.50 VPC'de— yukarı doğru kıvrıldı, 
+kaçınılmaz bir şekilde bir sonraki güçlü mıknatısa, 1086.00 VPC'ye 
+çekildi. Piyasanın yükseleceğini biliyor muyduk? Hayır. 
+Düşebileceğini düşündük mü? Belki. Bu şeyler hakkında bir fikre 
+sahip olmamak iyidir. Bunun yerine, bu olaylardan herhangi biri 
+gerçekleştiğinde ne yapacağınızı bilmek daha iyidir; ve bu da tepki 
+vermek ve uygulamaktır.
+107
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 105 ===
+Şekil 7.5piyasanın 1086,00 VPC'ye çekildiğini gösteriyor. Tam 
+o çizgiye dokunduğu anda, (a) iki stokastik göstergenin 
+hizalandığını gösteriyor, bu yüzden kısa bir ticarete girmeye 
+hazırlanıyor olmalıyız. Stokastik rollover tam da temas 
+noktasında gerçekleşti— güzel bir tesadüf. Bu, 50 aralıklı 
+çubukların renklerini uzundan kısaya çevirdi ve kısa sinyal o 
+fiyat çubuğunun en düşük seviyesi olan 1085,50'de üretildi. 
+Daha sonra bunun bir tik altında, 1085,25'te bir piyasa stop 
+satış emri verdim.
+Şekil 7.5Giriş Sinyali
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 16 Ekim 2009
+108
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 106 ===
+Gözden geçirmek
+Keltner Kanalı iyi bir göstergedir. VPC, piyasa açıldığında 
+Keltner Kanalı'nın dışındaysa, o zaman geçerlidir. 
+İçindeyse, o zaman çok yakındır ve geçersizdir.
+ÇIKIŞ SİNYALİ
+Şekil 7.6ticaretin ilk yarısı için çıkış sinyalini gösterir, bu 
+aslında girişin gerçekleştirilmesinden sadece 90 saniye sonra 
+gerçekleşir. Bu bizim "günlük ticaretimiz"di, ancak hızlı bir 
+ticaret oldu.
+Şekil 7.6Keltner Çıkışı
+109
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 107 ===
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 16 Ekim 2009
+Peki bir sonraki soru şu, bu aşağı itme bir Tohum Dalgası 
+mıydı? Ticarette Keltner Channel'dan ilk çıkıştan daha fazlası 
+var mıydı?
+İKİNCİ ÇIKIŞ SİNYALİ
+Gerçekten de, bu bölümü yazmak için oturduğum gün, tesadüfen 
+bir Tohum Dalgası yaşandı! Artık, ne olduğunun boşluklarını 
+doldurabiliyor olmalısınız, bu yüzden okumadan önce
+110
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 108 ===
+üzerine, bir göz atınŞekil 7.7ve yukarıdaki harflerin her birinin ne 
+anlama geldiğini not etmeye çalışın. Bir sonraki sayfadaki cevaplara 
+bakmayın!
+Şekil 7.7Başarılı Uni Trade
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 16 Ekim 2009
+a. VPC'de kısa giriş ve stokastik rollover.
+b. Keltner Kanalı temasında ticaretin yarısını kapsayın.
+111
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 109 ===
+c. Tohum Dalgası bu noktaya kadar devam etti, geri yukarı doğru 
+çekildiğinde doğrulandı, Dalga 3 daha sonra önceki düşük seviyeyi 
+geçti. Bu noktada, o Dalga 3'ün muhtemel tamamlanmasını tahmin 
+etmek için Fibonacci aracını çıkardık.
+d. Bu, Tohum Dalgasının genliğinin 1.382 ~ 1.618 katı 
+olan Fibonacci Dalgası 3 bandıdır. Bu, işlemin ikinci 
+yarısı için hedefimizdir.
+e. Bu noktada, yavaş stokastik 80'in üstünden 20'nin altına 
+tam bir salınımı tamamlamış ve hızlı stokastikler devrilmiştir. 
+Bu, işlemin ikinci yarısından çıkmak için standart 
+sinyalimizdir. Bu durumda, Fibonacci hedefine ulaşılmadan 
+önce gerçekleşmiştir. Ne yapmalı? Bunu size bırakacağım.
+f. Bu noktada, 3. Dalga hedefine ulaşıldı. Bu aynı 
+zamanda uzantının dibiydi ve piyasa günün geri 
+kalanını tekrar yukarı hareket ederek geçirdi.
+TİCARETLERİ BLOGLAMAK
+Genellikle bu işlemleri her gün blogumda yayınlarım. 
+Zamanım varsa, işlemin önceden ayarlandığına dair bir uyarı 
+veya uyarı yayınlarım. Bu elbette beni bağlar ve işlem kötü 
+olursa geri çekilmem mümkün olmaz!Şekil 7.8Ve
+7.916 Ekim 2009'dan itibaren gerçek blog yazıları olup, yazıların ne 
+zaman yazıldığını gösteren zaman damgaları (Pasifik Yaz Saati) 
+bulunmaktadır.
+Şekil 7.816 Ekim 2009'da ES için Jardine Range
+Kaynak: S&P E-mini, beş dakikalık, CME, 16 Ekim 2009
+112
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 110 ===
+Şekil 7.9Kısa Sinyal Yaklaşıyor
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 16 Ekim 2009
+113
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 111 ===
+Genellikle piyasa açılmadan hemen önce Jardine Sıradağları'nı paylaşıyorum.
+Daha sonra, piyasa bir VPC'ye doğru hareket etmeye 
+başladığında, izleyicilere bir işlem sinyalinin kurulduğunu 
+hatırlatmak için, işlemin yönünü gösteren basit bir okla bir 
+"uyarı" grafiği yayınlayacağım. Sohbet odamda olan kişiler bu 
+gönderileri hemen görecekler. Ayrıca, bilgisayarlarının başında 
+olmayan kişilerin de uyarılması için Yahoo! Messenger ve Twitter 
+üzerinden bağlantılar gönderiyorum.
+Ticarete girdiğimde başka bir grafik yayınlayacağım 
+(bkz. Şekil 7.10) sinyalin gittiğini doğrulayan ve işlemin 
+yönünü gösteren bloga. Bu durumda, grafiği 
+yayınlamadan önce işlem aslında tamamlanmıştı!
+Şekil 7.10Kısa Sinyal Onaylandı
+114
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 112 ===
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 16 Ekim 2009
+İşlem tamamlandıktan sonra, çıkış fiyatını ve kar veya zararı 
+gösteren bir grafik yayınlayacağım. Tamamen nesnel amaçlar için, 
+stopları göstermiyorum. Sadece Keltner Çıkış noktasını 
+gösteriyorum, görüldüğü gibiŞekil 7.11, pozitif veya negatif bir sayı 
+olsun. Durdurma stratejileri hakkında bir tartışma için Bölüm 9'un 
+başlangıcına bakın.
+Şekil 7.11Keltner Çıkışı
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+115
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 113 ===
+Kaynak: S&P E-mini, 50-Range, CME, 16 Ekim 2009
+İşlemde bir uzatma olursa, bu grafiği burada görüldüğü 
+gibi bloga da koyacağım.Şekil 7.12.
+Şekil 7.12Fibonacci Hedefine Ulaşıldı
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 16 Ekim 2009
+116
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 114 ===
+- - - - - - - - - - - KENDİNİ 
+SINAV SORULARI
+1. Universal long ticareti için ilk sinyal nedir?
+a. Piyasa fiyatları yukarıdan aşağıya doğru VPC çizgisine doğru hareket eder.
+b. Piyasa fiyatları VPC çizgisini aşağıdan yukarı kırar.
+c. Yavaş stokastik 20 bandının altına düşer.
+d. Yavaş stokastik 80 bandının üzerine çıkar.
+2. İkinci sinyal nedir?
+a. Piyasa fiyatları yukarıdan aşağıya doğru VPC çizgisine doğru hareket eder.
+b. Hızlı stokastik %D, %K'yi çaprazlar.
+c. Hızlı stokastik 20 bandının altına düşer.
+d. Yavaş stokastik 20 bandının altına düşer.
+3. Aradığınız üçüncü sinyal nedir?
+a. İşte bu kadar, uzun vadeli ticarete gir.
+117
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 115 ===
+b. Hızlı stokastik %D, 20 bandının altındayken %K'nın üzerine 
+çıkar.
+c. Hızlı stokastik yavaş stokastiğin üzerinde yukarı doğru kesişir.
+d. Hızlı stokastik yukarı doğru hareket ederken fiyatlar VPC çizgisinden 
+toparlanır.
+4. İlk çıkış sinyali nedir?
+a. Hızlı stokastik 80 bandına ulaşır.
+b. Yavaş stokastik 80 bandına dokunuyor.
+c. Fiyatlar Keltner bandının diğer ucuna dokunur.
+d. Fibonacci 1.618 hedefine ulaşıldı.
+5. İkinci çıkış sinyali nedir?
+a. Yavaş stokastik 80 bandını geçer ve hızlı stokastik aşağı doğru 
+geçer.
+b. 80 bandının üzerinde yavaş stokastik geri dönüşler.
+c. Fibonacci 1.618 hedefine ulaşıldı.
+d. Üç puan hedefine ulaşılır.
+e. A veya B
+f. A veya C
+g. B veya D
+h. Yukarıdakilerin hepsi
+- - - - - - - - - -
+Cevaplar için şuraya gidin:www.TradersLibrary.com/TLEcorner.
+118
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 116 ===
+ÜÇÜNCÜ BÖLÜM
+Teoriyi Pratiğe Dökmek
+Bu, size söylediklerimi anlattığım ve birkaç sulu bilgi parçası 
+eklediğim kısım.
+Paranızı kaybetmenin en iyi yolu, göstergeniz sizin için 
+çalışmadığında gemiyi terk etmektir. Sürekli olarak tek bir 
+osilatöre ve tek bir ayara bağlı kalmak şarttır!
+Blogumuzu diğerlerinden ayıran bir şey, kurulumları önceden yayınlamamız ve 
+kazanıp kazanmamamıza bakılmaksızın sonuçları da yayınlamamızdır. Bu 
+şekilde öğreniriz. Geriye dönüp bakıldığında yapılan yorumlar açıklayıcı olabilir. 
+Ancak geriye dönüp bakıldığında başarılı bir ticareti yayınlamak kimseye 
+yardımcı olmaz.
+Umarım artık mantıklı gelmeye başlamıştır. Üçüncü 
+Bölümde, ne beklemeniz gerektiği konusunda size bir fikir 
+verecek dört ana Evrensel Ticaret türünü ve bir sürü yedek 
+materyali açıklayacağım.
+119
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 117 ===
+Sekiz
+Ticaret Türleri
+Jardine Range ile tipik bir Universal ticaretini oluşturan 
+dört tür ticaret vardır. Bunlardan üçü karlıdır. 
+Dördüncüsü karlı değildir ve Bölüm 9'da ayrı olarak ele 
+alınmıştır. Üç karlı ticaret türünden beklenenler 
+şunlardır.
+TİP
+KELTNER ÇIKIŞI
+1: STANDART
+Standart bir Keltner Çıkış işlemi size VPC'den gelen ortak 
+sıçramada kar sağlar, ancak daha sonra fiyatlar orijinal giriş 
+noktasına doğru geri döner.Şekil 8.1VPC çizgisinde tetiklenen ve 
+ardından Keltner Kanalı'nın diğer ucundan çıkan kısa bir ticareti 
+gösterir. Ancak, Keltner'da kar elde ettikten sonra, piyasa 
+VPC'de duraklamadan önce gittiği yönde devam etti. Bu, karşıt 
+trend ticareti olarak da bilinir, ancak VPC çizgilerinin gücünü 
+gösterir: fiyatlar bir VPC'ye yaklaştığında, hiç kimse bu noktada 
+tersine dönüp dönmeyeceği veya yukarı doğru devam edip 
+etmeyeceği konusunda hiçbir fikre sahip değildir. Ancak piyasa 
+yukarı doğru devam etse bile, en azından Ortalama Gerçek 
+Aralık'ın genişliğine, yani Keltner'a geri döneceği konusunda iyi 
+bir fikrimiz var.
+120
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 118 ===
+Şekil 8.1Standart Keltner Çıkışı
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 1 Kasım 2009
+TİP 2: KELTNER ÇIKIŞI
+FİBONAKİ
+EKLENTİ
+Bu, birden fazla lot, hisse veya sözleşmeyle işlem yapmanın 
+bir nedenidir. Tip 1 Keltner Çıkışı, hemen hemen "paranın
+121
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 119 ===
+zemin.” Peki ya piyasa VPC'de gerçekten tersine dönerse ve 
+bir Tohum Dalgası yaratırsa? Sonuçta, Tohum Dalgaları 
+herhangi bir ölçülebilir noktadan veya kumdaki diğer 
+çizgiden daha sık VPC'lerde yaratılır. Bu nedenle, ideal olarak, 
+nesnel bir ticaret sistemi, Tohum Dalgası uzatma olasılığı için 
+bir kısmı tutarken "güvenli" Keltner noktasından çıkmanıza 
+izin vererek bu olasılığı hesaba katmalıdır. Bu, Keltner 
+Çıkışından sonra basitçe bir kar koruma stopu yerleştirerek 
+ve ikinci yarıda tutarak gerçekleştirilebilir. Stop, bir denge 
+stopu olabilir, ardından ardışık Piyasa Yapısı Yüksekleri 
+(MSH'ler) ve Piyasa Yapısı Düşükleri (MSL'ler) olarak yukarı 
+taşınabilir
+1ulaşılır.
+Şekil 8.2Jardine Range'i gösterir. Aralığın tepesi 30 Eylül'den 
+itibaren 1056,00 VPC'dir. Bu, oldukça keskin bir noktaya sahip yakın 
+tarihli bir VPC'dir, bu nedenle fiyatlar o bölgeye doğru hareket 
+ederse oldukça güçlü bir "tüccar hafızası" uyandırmalıdır.
+Şekil 8.2Salı, 6 Ekim 2009 için Jardine Range
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 6 Ekim 2009
+122
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 120 ===
+Şekil 8.3İşlemin ayrıntılarını gösterir:
+Şekil 8.3Salı, 6 Ekim 2009'a ait Ticaret Detayı
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 6 Ekim 2009
+123
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 121 ===
+a. VPC çizgisi. Piyasa aniden yukarı doğru itilince, satış 
+bekleniyordu. Piyasa tükenme noktasına ulaştığında biz de 
+satış yapmayı umuyorduk. Bunun gerçekleşme olasılığı 
+yüksekti çünkü VPC'nin iyi bir tükenme noktası olduğunu 
+biliyorduk ve alt penceredeki hem yavaş hem de hızlı 
+stokastiklerin ayarlandığını gördük. Hızlı stokastik aşağı 
+doğru geçtiğinde, kısa pozisyon açma sinyali verildi. b. 
+Gerçekten de piyasa üç puanlık bir kazanç için Keltner'a 
+düştü. Bu, S&P Futures E-mini (ES) için makul bir hedefti ve 
+sözleşme başına 150 dolar hasılat elde etti. Strateji, tersine 
+dönmenin uzaması durumunda işlemin bir kısmını tutmaktı.
+c. Bu noktada piyasa tekrar yukarı döndü ve bu durum Tohum 
+Dalgası'nın (a)-(c) potansiyel oluşumunu gösteriyor.
+d. 1055.00'da, geri çekilme Dalgası 2 sona erdi. Bu 
+örnekte, geri çekilme oldukça güçlüydü ve tüm
+124
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 122 ===
+Bu takip eden stoplar. Eğer 1056.00'a bir puan daha 
+uzatılsaydı, o zaman denge stopu tetiklenirdi, geri çekilme 
+Dalgası 2 başarısız olurdu ve potansiyel Tohum Dalgası 
+gerçekleşmezdi. Ancak bu olmadı. Bunun yerine, 
+potansiyel bir Dalga 3 başladı ve önceki düşük noktayı (c) 
+geçtiğinde doğrulandı. Tohum Dalgasının (a)-(c) genliğini 
+ölçmek için Fibonacci aracını kullanarak, hedef bölgenin 
+1049.50 ~ 1050.50 olduğunu gördük.
+e. Burada alt penceredeki iki stokastiği ve Fibonacci hedefini 
+yakından takip ettik. Fiyatlar 1049,50'nin altındaki hedef 
+bölgeye girdiğinde, herhangi bir çıkış iyi olur. Hızlı stokastik 
+bir saç tetikleyicisi olarak kullanılabilir; en kolay yol, hızlı 
+stokastiğin tekrar yukarı doğru geçmesini beklemektir (%K, 
+%D'yi geçer), bu da grafikte stokastik histogram çubuklarının 
+rengindeki değişiklikle gösterilir. Benim işlem platformumda, 
+belirsizliği gidermeye yardımcı olmak için bunlar renkli ve 
+ayrıca sesli bir uyarı var.
+TİP
+PAZAR
+3: TEZGAH
+Piyasanın bir VPC'ye karşı hareket etmesi, yani Jardine 
+Range'den "çıkması" mümkündür. Aslında, düşünürseniz, 
+bunun bir noktada gerçekleşmesi gerekir. Jardine Range 
+yalnızca doğal dönüm noktalarını ifade eder, tutma 
+noktalarını değil. Ancak piyasa bir Jardine Range'den çıkmaya 
+"karar verse" bile, (c) noktasında gösterildiği gibiŞekil 8.4, 
+makul bir kısa vadeli işlem yapmak mümkündür (b)-(c).Şekil 
+8.5 Bu ticaretin ve Tip 2 ticaretinin ayrıntılarını gösterir.
+125
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 123 ===
+Şekil 8.4Akıntıya Karşı Ticaret
+Şekil 8.5İki Mesleğin Anatomisi
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+126
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 124 ===
+Şekil 8.5Fiyat Histogramı grafiğinde vurgulanan işlemlerin Evrensel 
+Grafik kullanılarak ayrıntılarını gösterirŞekil 8.4Ayrıca, Fibonacci'nin 
+etkili ve zamanında işlem çıkışı için bir tahmin edici olarak nasıl 
+kullanıldığını bir kez daha göstermektedir.
+a. Bu, bir önceki gün, 2 Ekim'deki Jardine Sıradağları'nın 
+"dibi"ndeki VPC'dir.
+b. Burada fiyatlar VPC çizgisine dokunduğunda uzun işlem sinyali 
+oluşmuştur: 20 bandının altında yavaş stokastik ve aşağıdan yukarı 
+doğru geçen hızlı stokastik.
+c. Bu, uzun vadeli işlemin giriş noktasını gösterir.
+d. Ticaretin ilk yarısında çıkış her zaman olduğu gibi 
+Keltner bandının diğer ucundaydı.
+e. Bu noktada, Tohum Dalgası geri çekilme Dalgası 2'ye dönüştü, 
+bu nedenle Fibonacci aracını kullanarak tahmin edebiliriz.
+127
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 125 ===
+İlk Tohum Dalgasının genliğinin 1.382~1.618 katına dayalı 
+optimum çıkış noktası.
+f. Bu, Fibonacci aracının ürettiği optimum çıkış alanını 
+gösterir.
+g. Bu, fiyatların yükseliş trendini geçmesinden sonraki gerçek çıkış noktasını gösterir.
+1.382~1.618 bandında ve hızlı stokastik aşağı çevrildi.
+h. Bu, 1 Ekim'den itibaren üst VPC, Jardine Range'in "tepesi". Bir 
+günde Jardine Range'den iki güçlü ticaret yapmak yaygın 
+değildir. Ayrıca, bu noktada güçlü bir geri dönüş olup 
+olmayacağını veya VPC'nin güçlü bir boğa koşusu yolunda geçici 
+bir direnç noktası olarak hareket edip etmeyeceğini de 
+bilmiyorduk. Tek bildiğimiz, burada kısa pozisyon açmak için 
+muhtemel bir yer olduğuydu.
+i. Yavaş ve hızlı stokastikler VPC'de sıralanmıştır.
+j. Bu noktada kısa vadeli bir işlem sinyali verildi.
+k. Ticaretin ilk yarısı için çıkış Keltner bandının karşı 
+ucunda işaretlendi. Bu durumda, şans eseri öyle oldu. 
+Piyasa Keltner'da sağa döndü ve yukarı doğru yoluna 
+devam etti.
+KAÇIRILAN İŞLEMLER
+Bir ticareti kaçırmak da oldukça olasıdır. Bununla, piyasanın bir VPC'nin 
+Kontrol Noktası çizgisinin hemen üzerine dönmesini kastediyorum. Bu 
+oldukça sık gerçekleşiyor gibi görünebilir, ancak muhtemelen 
+göründüğünden daha az gerçekleşir.
+Kaçırılan işlemlerle başa çıkmanıza yardımcı olmak için, öncelikle hem 
+yürütülen hem de "kaçırılmaya yakın" tüm işlemlerin kaydını tutun. Her 
+halükarda bir işlem kaydı tutmak önemlidir, böylece verileri analiz edebilir 
+ve çıkışları ve durdurmaları optimize edebilirsiniz. New'deki 16. Bölüm
+128
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 126 ===
+Fibonacci İşlemlerinde Sınırlar buna adanmıştır ve şu 
+uyarıyla başlar: "Bir işlem kaydı tutmak, işlem 
+cephaneliğinizin en önemli parçasıdır." Bunun ne kadar 
+önemli olduğunu yeterince vurgulayamam.
+Verileri işlememe ve Microsoft Excel'in Çözücü özelliğiyle olasılık 
+senaryoları çalıştırmama izin veren bir elektronik tablo 
+kullanıyorum. Ampirik veriler, fiyatların size gelmesini 
+bekleyerek çok fazla iyi işlemi kaçırdığınızı gösteriyorsa, 
+POC'lerinize bir derece enlem ekleyerek giriş noktanızı 
+ayarlamayı deneyin. Kullandığım grafikler, fiyatın gerçek 
+noktaya değmesini gerektirir, ancak noktayı o noktanın yüzde iki 
+ila beşlik bir varyansına ayarlayabilirsiniz. Bu sizi daha fazla 
+işleme sokar, ancak buna karşı bir denge vardır: tüm 
+işlemlerinize daha az uygun fiyatlarla, hem kaybederek hem de 
+kazanarak girersiniz. Yakın ıskalamaların bir kaydını tutarsanız, 
+ne kazanacağınızı size göstermek için Excel'in Çözücüsünü 
+kullanmak kolaydır. Basit matematik, girişinizi örneğin ES'ye 
+yarım puan ekleyerek ayarlarsanız, şu anda yaptığınız her 
+işlemde sözleşme başına 25 dolar kaybedeceğinizi söyler. 
+Universal işleminde ortalama Keltner kârı yaklaşık üç puan veya 
+sözleşme başına 150 dolar olduğundan, kazanma yüzdesinin 
+aynı kaldığını varsayarak, şu anda yaptığınız her altı işlem için 
+bir yeni işlem ekleyebilmeniz gerekir.
+Gözden geçirmek
+Verileri analiz edebilmeniz ve çıkış ve durdurma emirlerini optimize 
+edebilmeniz için bir işlem kaydı tutmanız önemlidir.
+Şahsen, bu belirli çizgide ayarlamalar yapmayı 
+desteklemiyorum çünkü bu, güvenli, basit ve
+129
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 127 ===
+Kurulum, giriş, çıkış ve kar maksimizasyonu için çok net 
+göstergeleri olan objektif bir yöntemdir.
+Objektif olmayan tek şey yönetimi durdurmaktır.
+- - - - - - - - - - - KENDİNİ 
+SINAV SORULARI
+1. Karlı işlem türleri nelerdir?
+a. Standart Keltner Çıkışı
+b. Fibonacci Uzantısı ile Keltner Çıkışı
+c. Jardine Range'in karşı piyasa kırılması
+d. Jardine Range'in üst ve alt ribaundu
+e. Yukarıdakilerin hepsi
+f.A, B ve C
+g. C ve D
+2. Bir işlemi kaçırmaktan kaçınmanın en iyi yolu nedir?
+a. Daha uyanık olun.
+b. Takip eden bir durdurma emri yerine piyasa bazlı bir giriş kullanın.
+c. POC’nin “noktasını” yüzde iki veya beş bandına 
+değiştirin.
+d. Subjektif ticaret yapın.
+- - - - - - - - - -
+Cevaplar için şuraya gidin:www.TradersLibrary.com/TLEcorner.
+1MSH (Piyasa Yapısı Yüksek) ve MSL (Piyasa Yapısı Düşük), 
+Fibonacci Ticaretinde Yeni Sınırlar kitabında ayrıntılı olarak 
+ele alınmış olup ayrıca burada Ek A: Yapı Taşları'nda 
+özetlenmiştir.
+130
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 128 ===
+Dokuz
+Zor Kısım
+O SİNİR BOZUCU DURAKLAR
+Durdurma yönetimi kritiktir ve bu nokta yaptığım dördüncü tür 
+ticarete yol açar: kaybeden ticaret. Ticaretlerimin sadece yüzde 
+25'i kaybeden ticaret olsaydı mutlu olurdum. Kaybeden 
+ticaretler düzenli olarak gerçekleşir. Hatta kazanan ticaretlerden 
+daha sık bile gerçekleşebilirler, en azından kısa bir süre içinde. 
+Ve kaybetmek kazanmaktan çok daha zor olduğundan, konuya 
+bir bölüm ayırmak faydalı olabilir.
+Gözden geçirmek
+Kaybetmeyi öğrenmek, kazanmayı öğrenmekten çok daha zordur.
+Öncelikle, psikolojik olarak yıpratıcı olabilir. Egoyu ezer ve 
+yerine korku ve şüphe koyar, bu da başarısızlığı neredeyse 
+garantileyen öznelliğe yol açar. Nesnellik olmadan, 
+kaybetmek ticaret şeklinizi etkileyebilir ve bu da aşağı doğru 
+bir sarmalın oluşmasına yol açar. Örneğin, bir ticarette çok 
+fazla para kaybettiğinizde, doğal tepki "Tamam, geri çekilip 
+önümüzdeki birkaç gün piyasayı izleyeceğim" demektir. Bu 
+aptalca. Tam tersini yapmalısınız. İstatistiksel olarak, üst üste 
+iki büyük kaybeden ticaretin olasılığı o kadar düşüktür ki, bir 
+sonrakinin kazanan bir ticaret olma olasılığını büyük ölçüde 
+artırır. Korkunç olmak istemem ama eğer
+131
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 129 ===
+favori havayolunuz uçak kazası geçirdi, havayolunu değiştirmeyin. 
+Havayolunuz uçmak için en güvenli havayolu oldu. Bir sonraki 
+uçağa atlayın. Aynı şekilde, zarar eden bir ticaretiniz varsa -özellikle 
+büyük bir ticaret- sadece yeniden toparlanmanız gerektiği için 
+ticaret yapmayı bırakmayın. Sistemi anlamadığınız veya sermayeniz 
+olmadığı için ticaret yapmayı bırakın.
+Daha da önemlisi, sistemin yöntemini tamamen anlayana ve 
+körü körüne ve tarafsızca uygulayabilene kadar ilk etapta 
+işlem yapmaya başlamayın. Bunu yapmak için pratik, pratik, 
+pratik yapmalısınız. Dört işlem türünü açıkça bilin, nasıl 
+uygulanacağını bilin ve istisnaları bilin.
+İstisnalar olur. Bazen piyasa bir Jardine Aralığı'nın sonunu 
+görmezden gelir ve VPC çizgisini hemen geçer. S&P Vadeli İşlemler 
+E-mini (ES) durumunda, bazen oldukça hızlı bir şekilde 10 veya 15 
+puan kadar düşebilir (veya sıçrayabilir). Bu, kazanan bir işlemden 
+elde edilen ortalama kârın beş katına kadardır. Kişinin ilk tepkisi 
+güvenli oynamak ve sıkı bir stop emri koymak olabilir. Birkaç stop 
+senaryosuna bakalım ve sıkı bir stop emrinin gerçekten en iyi 
+çözüm olup olmadığını düşünelim.
+FİYATA DAYALI DURDURMALAR
+En basit stop, fiyat bazlıdır; piyasa girişinize karşı üç puan 
+hareket ederse, stop out yapın.
+Tekrar, bir elektronik tablo ve yaklaşık 100 gerçek (kağıt) işlem, stop 
+sıklığını kayıp boyutuyla dengeleyen kabaca bir "en iyi noktayı" 
+bulmanız için yeterli veri sağlayabilir. Tek yapmanız gereken her 
+işlemi takip etmek ve maksimum düşüşü işaretlemektir.
+132
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 130 ===
+her işlem ve o işlem sırasındaki maksimum kâr. Daha sonra 
+optimize edilmiş senaryoları test edebilirsiniz.
+Ancak sıkı stop emirleri aynı zamanda karlı olabilecek 
+işlemlerden gereksiz çıkışlara da yol açabilir.
+Şunu düşünün: stop ne kadar sıkıysa, kaybettiğiniz işlem başına kaybınız o kadar 
+düşük olur— ama aynı zamanda kazanma yüzdeniz de o kadar düşük olur. 
+Neden? Çünkü hem kazandığınız hem de kaybettiğiniz daha fazla işlemden stop 
+edilirsiniz. Stop ne kadar gevşekse, kazanma yüzdeniz o kadar yüksek olur, ama 
+kaybettiğiniz işlem başına kaybınız da o kadar yüksek olur.
+PİYASA TABANLI DURDURMALAR
+Sabit (ve optimize edilmiş) bir puan veya dolar sayısı yerine 
+kullanılabilecek başka stratejiler de vardır. Piyasa tabanlı bir 
+stop, önceki zirveler ve dipler ve diğer dönüm noktaları gibi 
+bilinen "kumdaki çizgileri" kullanır. Birçok kişi bunlara yemin 
+eder. Bu tür stoplar için bir kural belirlemenizi ve birkaç düzine 
+işlem için bu kuralı izlemenizi öneririm. En azından Jardine 
+Range'deki Evrensel Grafik ile, gerçekten işe yaramaz çünkü 
+piyasa genellikle işlem sırasında bir giriş noktasına karşı birden 
+fazla kez hareket eder. Piyasa, şeytani olduğu kadar, ters yönde 
+uçmadan önce önceki dipleri bir veya iki puan test etmeyi sever.
+DOĞAL DURAKLAR
+Bu benim tercih ettiğim stop türüdür. Aslında bu, kar 
+elde etmemin aynı yoludur; ters uçtan çıkış yaparak
+133
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 131 ===
+Keltner Kanalı. Çıkış, kâr, zarar veya eşitlemede 
+olmasına bakılmaksızın doğaldır. Keltner'da işlemden 
+çıkarsınız. İşlem o aşamada iki puandan fazla kârlı 
+olursa, tutarınızın yalnızca yarısını çıkarmayı seçebilir ve 
+kalanını olası Seed Wave tersine dönüşü için 
+tutabilirsiniz. Eşitlemede veya zarardaysanız, hepsinden 
+çıkın.
+DERS: EN KÖTÜ DURUM
+SENARYO
+Bir sonraki grafik serisi sizi öforiden felakete götürür ve 
+küçük bir umutla sonlanır; birçok işlem gibi. Bunların hepsi 
+bir gün içinde gerçekleşti, ki bu nadirdir.
+Şekil 9.1artık size tanıdık gelmesi gereken şeyi gösteriyor. 
+Piyasa Jardine Aralığı'nın VPC 1075.00'deki dibine düştü ve 
+uzun sinyal 1072.00'de gerçekleşti. Bu arada, bu, ikili 
+stokastik osilatörleri kullanmak için iyi bir neden gösteriyor, 
+çünkü işleme girdiğimizde, VPC'de basitçe girmiş olsaydık 
+olduğundan üç puan (sözleşme başına 150 $) daha uygun bir 
+fiyattı. Keltner Çıkışı, işlemin yarısında +4 puan için 
+1076.00'daydı. Fibonacci çıkışı daha sonra ikinci yarıda +7 
+puan için 1079.00'daydı. Ortalama kâr +5.5.
+Şekil 9.1Birinci Aşama: Öfori
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 22 Ekim 2009
+134
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 132 ===
+Şekil 9.2Fiyatların Fibonacci hedef bölgesine doğru hareket 
+ettiğini, Jardine Aralığı'nın tepesinin 1081,00 VPC'sinin hemen 
+üzerinde olduğunu gösterir. Agresif bir işlem, Fibonacci hedefini 
+kabul etmek yerine fiyatların o noktaya kadar hareket etmesini 
+beklemek olurdu. Gerçekten de, stokastik rollover tam o 
+noktada gerçekleşti. Ancak önemli değil. Önemli olan, Jardine 
+Aralığı'nın tepesinde, Evrensel Tablonun ikiz stokastiğini 
+kullanarak ters yönde kısa bir işlem gerçekleştirmenizdir. Bir 
+günde iki işlem yapmak -bir uzun ve bir kısa- yaygın değildir. 
+Yaklaşık yüzde on oranında gerçekleşir. Ancak sinyaller her 
+zaman açıktır, bu yüzden işleme gireriz. Biraz açgözlü ve 
+heyecanlı hissediyoruz ve kafamızda matematik yapıyoruz, "Bu 
+işlemde bir +5,5 puan daha alabilirsem, normalde bir haftada 
+kazandığımdan daha fazlasını bir günde kazanmış olacağım." 
+Hatta normalde işlem yaptığınız sözleşme sayısının iki katını 
+üstlenmeyi bile cesurca düşünüyor olabilirsiniz. "Kendimi iyi 
+hissediyorum ve artık bunun nasıl işlediğini anlıyorum."
+Şekil 9.2İkinci Aşama: Açgözlülük ve Heyecan
+135
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 133 ===
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 22 Ekim 2009
+Şekil 9.3neler olabileceğini gösteriyor. Bakalım, kısa işlem (a) 
+1080.50'de işaretlendi ve gerçekleştirildi ve hemen hemen hemen 
+benim yönüme doğru hareket etti. Keltner'ın diğer ucuna tam 
+olarak yarı yoldan daha az bir mesafeye ulaştı, orada oturan ve 
+bekleyen bir limit alım emrim vardı. Sonra tersine döndü. Aman 
+Tanrım. Ama bunun sıklıkla gerçekleştiğini biliyorum; piyasa VPC'ye 
+geri dönebilir ve Keltner Kanalı tarafından gösterilen Ortalama 
+Gerçek Aralığı temsil eden bir salınım için geri düşmeden önce 
+bunu birkaç kez tekrar test edebilir.
+Şekil 9.3Üçüncü Aşama: Felaket
+136
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 134 ===
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 22 Ekim 2009
+Bu durumlarda kullandığım bir "güvenlik durağım" var. 
+Sağduyuya dayanıyor. Piyasa salınımlarının Keltner 
+tarafından temsil edilen Ortalama Gerçek Aralık tarafından 
+tanımlandığını biliyorum. O çizgiye bir geri çekilme 
+bekliyorum. Fiyatlar Keltner'ın neredeyse diğer ucuna 
+hareket ederse, sonra giriş noktama kadar geri dönerse, 
+bunun biraz küçük bir salınım olduğunu düşüneceğim ve 
+sadece denge noktasında duracağım.
+Ancak bu durumda, (b) noktasına doğru hareket Keltner'a yeterince 
+yakın değildi, bu yüzden VPC hattına geri döndüğünde, ticarette 
+kalmaktan ve testin bitmesini ve sık sık yaptığı gibi aşağıya doğru 
+devam etmesini beklemekten başka seçeneğim yoktu ve
+137
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 135 ===
+Önceki bölümlerdeki düzinelerce grafikte gördüğünüz gibi. 
+Ancak test başarısız oldu ve hızla pozisyonumun tersine hareket 
+etti.
+Eğer sıkı bir stop koymuş olsaydım, kurtarılabilirdim. 
+Ancak sıkı bir stop beni diğer birçok karlı işlemden uzak 
+tutardı. Yani yine sıkı, gevşek ve doğal olanı optimize 
+etmeye geliyor. Doğal stop yöntemi, cehennem olsun ya 
+da olmasın, Keltner'ın diğer ucundan çıkar. Burada ne 
+olduğunu görelim.
+Şekil 9.4trenin istasyondan ayrıldığını, tabiri caizse, ve bu seferin 
+nereye doğru gittiğini gösteriyor? Genellikle, bir kopuş en 
+azından bir sonraki VPC'de duraklayacaktır. Bu durumda, bu 
+1094.00'daydı— Umarım VPC hatlarının bir tesadüf olmadığını 
+fark etmeye başlıyorsunuzdur.
+Şekil 9.4Dördüncü Aşama: Ders ve Kurtuluş
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 1 Kasım 2009
+138
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 136 ===
+Yani piyasa 1094.00 çizgisine kadar hareket etti, ancak bunun 
+bu kadar hızlı veya doğrudan hareket edeceğini bilmemizin 
+bir yolu yoktu. Sadece oldu. 1094.00 VPC'ye ulaştığında, hala 
+Keltner Kanalının diğer ucuna geri çekilmemişti, bu yüzden 
+hala işlemdeydim. (b) noktasında, başka bir satış sinyali 
+üretildi. Yapılacak nesnel şey tekrar kısa pozisyon açmaktır - 
+aslında, ikiye katlamak. Yani, günün üçüncü işlemimde 
+1094.00'da kısa pozisyon. 1092.00'da basit bir Keltner Çıkışı 
+bana üçüncü işlem için sözleşme başına iki puan verdi ve 
+"felaket" işlemini de 1092.00'da -11.5 puanla kapattım, 
+göreceli bir felaket.
+Ancak daha kötü olabilirdi. "Felaket" ticaretinden hemen önce ve 
+hemen sonraki işlemlerin ikisinin de kazanan olduğuna dikkat edin. 
+Net sonuç gün için -4'tü. Ancak, yalnızca nesnel olarak ticaret 
+yaptığım için.
+139
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 137 ===
+NAKİT YÖNETİMİ 
+HAKKINDA BİR KELİME
+Nakit paranızı ve likiditenizi yönetmek, her türlü sistemde işlem 
+yapmanın anahtarıdır. İşte buna "Dengeli Gelir" sistemi 
+diyorum.
+Öncelikle, risk toleransınız açısından yönetilebilir bir likidite 
+seviyesine doğru yol alın. Diyelim ki S&P Futures E-mini 
+sözleşmesinin (ES) 10 sözleşmesini alıp satıyorsunuz. Bunun için 
+hesabınızda 50.000 dolara ihtiyacınız olacak, sözleşme başına 5.000 
+dolar baz alınarak. Bazı brokerların daha düşük bir gereksinimi 
+vardır, ancak bu, Dengeli Tablo sistemiyle birleştirildiğinde, 
+çekilmelere izin vermek için yeterli olmalıdır.
+Ay ilerledikçe, işlem hisselerinizi buna göre ayarlarsınız. 
+Hesabınızda 55.000$ seviyesine ulaşırsanız, 10 yerine 11 
+sözleşme işlem yaparsınız. 45.000$'a düşerse, 10 yerine 
+9 sözleşme işlem yaparsınız.
+Her ayın sonunda, kendinize 50.000$'ın üzerindeki tutarda 
+bir çek yazarsınız. Sonraki aya 50.000$ ve 10 sözleşme ile 
+başlarsınız. Bir ayı 50.000$'ın altında bitirdiyseniz, 
+kendinize çek yazmazsınız. Sonraki aya [Mevcut bakiye] / 
+5.000$ ile işlem yaparak başlarsınız. Bakiyeniz 40.000$ ise, 
+8 sözleşme ile işlem yapmaya başlarsınız.
+Bu oldukça muhafazakar bir yaklaşımdır, ancak işlemlerinizin 
+beklediğiniz veya istediğiniz sonuçları üretmemesi durumunda 
+"bankayı batırmamanızı" sağlar.
+140
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 138 ===
+HAZIRLIK
+KAYBETMEK VE KAZANMAK
+İLE
+Buradan çıkarılacak ders, neyin ters gidebileceğini bilmenin ve bununla 
+başa çıkmaya hazır olmanın her zaman önemli olduğudur. İşte kısa bir 
+kontrol listesi:
+1. Çalışma
+İlginizi çeken herhangi bir sistemi işlem yapmadan önce inceleyin. Ben altı 
+ay veya 100 işlem öneriyorum, hangisi önce gelirse. Çalışma, her işlemi 
+kağıt üzerinde kataloglamak anlamına gelir.
+2. Analiz edin
+Sistemin güçlü ve zayıf yönlerini analiz edin. Bunu kendi ticaret 
+tarzınıza ve mizacınıza uyacak şekilde nasıl uyarlayabilirsiniz?
+3. Optimize
+Girişler, kar elde etme ve zararı en aza indirme konusunda en iyi noktaların nereler 
+olduğunu öğrenin.
+4. Durdurma Stratejisi
+Durdurma için bir strateji belirleyin ve buna sadık 
+kalın. 5. Nakit Yönetimi
+Çok az nakitle başlayın. Sistemi öğrenerek "kazandıkça" 
+likidite seviyenizi kademeli olarak artırın. Sonra hangi 
+sistemi kullanmak istediğinize karar verin: "Dengeli Gelir" 
+veya tüm kazançlarınızı yeniden yatırmak.
+Kararlarınızdan emin olduğunuzda ve seçtiğiniz yöntemi 
+uygulayıp ustalaştığınızda işlem yapmaya başlayabilirsiniz.
+141
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 139 ===
+On
+Fibonacci'ye Dönüş: Jardine 
+Trimesterleri
+Universal Chart'ta Jardine Range işlemlerini gözlemlediyseniz, 
+muhtemelen can sıkıcı bir şey fark etmişsinizdir: piyasanın önce 
+kısa bir işlem için Jardine Range'in tepesine mi yoksa uzun bir 
+işlem için dibine mi hareket edeceğini bilmiyorsunuz. Bu yüzden 
+piyasanın yavaşça ama kaçınılmaz bir şekilde VPC'ye doğru 
+hareket etmesini bekliyorsunuz. VPC'ye ulaştığında, sonunda 
+"günlük işlem"iniz için bir geri dönüş işlemine girme şansı 
+yakalıyorsunuz. Ama VPC'ye girip çıkabilseydiniz güzel olmaz 
+mıydı?
+Bir yol var ve bu yol, Fibonacci'ye bir miktar sağduyuyla geri 
+dönüyor. Fibonacci geri çekilme aracı, normalde belirli bir 
+aralıktan geri çekilme miktarını ölçmek için kullanılır. En 
+yaygın kullanım, bir aralığın veya bir dalganın veya bir dizi 
+dalganın en yüksek ve en düşük noktasını almak ve sonra ne 
+olduğunu gözlemlemektir.Şekil 10.1Fibonacci geri çekilme 
+aracını bir aralığın en yüksek ve en düşük noktasına çizilir. 
+0,382 ve 0,618'lik temel geri çekilme seviyeleri sırasıyla (a) ve 
+(b)'de gösterilir. (a) noktasında, aralığın en üstünden geri 
+çekilme durakladı. Aynısı 0,618 çizgisinde de oldu, ancak 
+yanal hareketin 0,618 geri çekilmesinden dolayı mı meydana 
+geldiği yoksa sadece onu yansıtıp yansıtmadığı açık değil
+142
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 140 ===
+Günün erken saatlerinde saat 11:00 - 14:00 aralığında 
+gerçekleşen yatay fiyat hareketi.
+Şekil 10.1Fibonacci Geri Çekilmesi
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 23 Ekim 2009
+Fibonacci aracını kullanmanın bir başka yolu da, bitişik bir 
+işlem aralığının en yüksek ve en düşük noktasından değil, 
+aşağıda gösterildiği gibi Jardine Aralığı'nın en yüksek ve en 
+düşük noktasından çizmektir.Şekil 10.2. Bu, Jardine 
+Sıradağlarını üç aylık dönemlere ayırır. Üç aylık dönemlerin 
+mantığı, fiyatlar Jardine Sıradağlarının bir ucuna yaklaştıkça, 
+o aralığın o ucuna giderek daha fazla çekilecekleri gözlemine 
+dayanır. Mantıksal olarak, aralığın orta üçte biri, fiyatların
+143
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 141 ===
+yukarı veya aşağı hareket edebilir. Ancak fiyatlar o orta 
+bölgeden her iki yönde de hareket ettiğinde, büyük 
+ihtimalle o VPC'de sonlanacaklardır. Örneğin,Şekil 10.2, 
+fiyatlar Fibonacci 0.382 çizgisinin altındaki (c) 
+trimester'a girdiğinde, fiyatların Jardine Aralığı'nın 
+1078.00 VPC'deki dibinde sonlanma olasılığı çok 
+yüksektir. Bu, 1078.00'a kadar kısa işlem yapma ve 
+ardından Evrensel Tabloyu kullanarak bu çizgiden uzun 
+bir geri dönüş işlemi yapma fırsatı sağlar.
+Şekil 10.2Jardine Aralığındaki Fibonacci Trimesterleri
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 23 Ekim 2009
+144
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 142 ===
+Şekil 10.3önceki grafiğin devamıdır ve konuyu açıklar: 
+fiyatlar orta üç aylık dönemden (a) aşağı doğru hareket 
+etti, sonra tam 1089,00 VPC'ye düştü, bu noktada 
+Universal Chart'ta uzun bir işlem tetiklendi. Uygun para 
+yönetimiyle, işlem sermayenizin getirisini iki katına 
+kadar çıkarabilirsiniz.
+Şekil 10.3Jardine Aralığındaki VPC'ye Giriş ve Çıkış 
+İşlemleri
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: S&P E-mini, 50-Range, CME, 23 Ekim 2009
+145
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 143 ===
+TLEcornar
+Orta trimester'dan çıkışta işlem yapmanın daha fazla yöntemini öğrenmek 
+için Traders' Library Education Corner'a giriş yapın.
+TradersLibrary.com/TLEcorner
+Orta Fibonacci üç aylık döneminden Jardine Aralığı'nın kenarına 
+kadar işlem yapmanın birçok yolu vardır. Bir yol, mesafeyi kat 
+etmek için salınım ticareti tekniklerini kullanmaktır. Bir diğeri, 
+aşağı doğru giderken kanalları kullanarak veya küçük karlar elde 
+etmektir. Bunlar için birçok yöntem vardır ve bunlar Fibonacci 
+Ticaretinde Yeni Sınırlar'da açıklanmıştır.
+- - - - - - - - - - - KENDİNİ 
+SINAV SORULARI
+1. Fibonacci trimester nedir?
+a. İki VPC arasındaki aralık, Fibonacci'ye bölünür
+b. Yüksek ve düşük aralık arasındaki geri çekilme
+c. Fibonacci üç dalga dizisinin üçüncü dalgası
+146
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 144 ===
+d. Fibonacci aralığının bir hedef olarak genişletilmesi
+2. Fibonacci trimesterinin üst üçte biri ile neler 
+yapabilirsiniz?
+a. Zirveye kadar uzun vadeli işlemler yapın.
+b. Kısa pozisyonları dibe doğru alın.
+c. Fiyatların orta trimesterden itibaren yukarı hareket etmesini bekleyin, ardından 
+uzun pozisyonlar açın.
+d. Fiyatlar VPC'nin üzerinden aşağıya doğru hareket ettikten sonra kısa 
+pozisyonlar açın.
+3. Fibonacci trimesterinin orta üçte biri ile neler 
+yapabilirsiniz?
+a. Fiyatlar zirveden çıktıktan sonra uzun pozisyonlar açın.
+b. Fiyatlar dipten çıktıktan sonra kısa pozisyonlar açın.
+c. Bu alanda herhangi bir işlem yapmayın.
+d. Yukarıdakilerin hepsi
+4. Fibonacci trimesterinin alt üçte biri ile neler 
+yapabilirsiniz?
+a. Orta trimester'a kadar uzun vadeli işlemler yapın.
+b. Kısa pozisyonları dibe doğru alın.
+c. Fiyatların orta trimesterden itibaren aşağı yönlü hareket etmesini bekleyin, 
+ardından kısa pozisyonlar açın.
+d. Fiyatlar VPC'nin altından yukarı doğru hareket ettikten sonra uzun pozisyonlar açın.
+- - - - - - - - - -
+Cevaplar için şuraya gidin:www.TradersLibrary.com/TLEcorner.
+147
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 145 ===
+TİCARET
+REHBER
+KAYNAK
+148
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 146 ===
+Ek A
+Yapı Taşları
+Doğadaki her şey yapı taşlarından oluşur. Tıpkı evrenin 
+atomlardan oluşması gibi, piyasa da Piyasa Yapıları adı 
+verilen temel birimlerden oluşur. Ve tıpkı atomların içinde 
+iki temel madde biçimi olduğu gibi -protonlar ve 
+elektronlar- piyasada da iki tür yapı vardır, Piyasa Yapısı 
+Düşük (MSL) ve Piyasa Yapısı Yüksek (MSH). Piyasadaki 
+fiyat hareketlerinin çoğu MSL'ler ve MSH'ler ve ikisinin yan 
+yana gelmesi açısından tanımlanabilir. Benzer şekilde, 
+burada tartışılan her şey MSL'ler, MSH'ler ve bunların 
+birlikte oluşturdukları kalıplar, 123 Tersine Dönüşler 
+açısından tanımlanır.
+Aşağıdaki tartışmanın amacı, belirli fiyat kalıplarının nasıl 
+geliştiğini ve bunların nasıl işlem kararları için sinyaller olarak 
+hizmet edebileceğini göstermektir. Ancak, izole edilmiş bir kalıp 
+göstergesinin yalnızca başlangıç   noktası olduğunu unutmayın. 
+Yöntemimi kullanmaya yönelik bilimsel bir yaklaşım her zaman 
+onay sinyallerinin geliştirilmesini içermelidir. MSL ve MSH 
+yalnızca daha fazla araştırmayı teşvik etmek için tasarlanmıştır 
+ve acil eylem gerektiren kesin sinyaller olarak 
+düşünülmemelidir. Bu nedenle bir grafikte bir kalıp göstergesi 
+göründüğünde, satın alma veya satma kararını haklı çıkarmak 
+için bir onay kalıbı aramanız gerekir.
+149
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 147 ===
+PAZAR
+DÜŞÜK (MSL)
+YAPI
+Fiyat modellerini takip etmenin nedeni, mevcut bir eğilimin yön 
+değiştirmek üzere olduğuna dair işaretler aramaktır. Grafikçiler, 
+fiyat hareketlerinin ve eğilimlerin, çeşitli derecelerde, yerleşik 
+modellere dayanarak tahmin edilebilir olduğuna inanırlar. 
+Aşağıdaki örneklerin hepsinde, şunu hatırlamak önemlidir: destek 
+ve direnç, işlem aralıklarının ve fiyatlandırma eğilimlerinin nasıl 
+çalıştığını anlamanın anahtarlarıdır.
+Destek seviyesi, belirli bir işlem aralığında görülmesi 
+muhtemel en düşük fiyattır. Bir trend değişmeden devam 
+ettiği sürece, destek seviyesi gözlemlenecek ve fiyatlar o fiyat 
+seviyesinin altına düşmeyecektir.
+Direnç seviyesi ise tam tersidir, belirli bir işlem aralığında 
+görülmesi muhtemel en yüksek fiyattır. Bir trend değişmeden 
+devam ettiği sürece, direnç seviyesi gözlemlenecek ve fiyatlar o 
+fiyat seviyesinin üzerine çıkmayacaktır.
+Bir işlem aralığı her zaman belirli bir fiyat seviyesi değildir, 
+ancak kademeli olarak tırmanan veya düşen bir aralık olabilir. 
+Her durumda, aralık bir model olarak tanınabilir ve grafikçiler 
+sürekli olarak bir eğilimin tersine döndüğüne dair sinyaller 
+ararlar. Birçok hisse senedi ve endeks düşük oynaklık gösterir ve 
+belirlenmiş bir işlem aralığı uzun bir süre boyunca değişmez. 
+Herhangi bir grafik biçiminin değeri, daha önce belirlenmiş 
+eğilimleri ve bu eğilimlerden sapmaları tanımakta bulunur. 
+Destek ve direnç kavramlarının farkında olarak, göstergelerin 
+daha fazla tersine dönmesini beklemelisiniz
+150
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 148 ===
+genellikle düşük volatiliteli konulardan ziyade daha volatiliteli 
+konularda.
+MSL, fiyatların düşüş trendinden yükseliş trendine olası bir geri 
+dönüşünün ilk işaretidir. Genellikle üç ardışık mumdan oluşur: bir dip, 
+daha düşük bir dip ve ardından daha yüksek bir dip. Dip, kapanış 
+fiyatından değil, mumun gerçek dip noktasından ölçülür. İdeal olarak, 
+gösterildiği gibiŞekil A.1, en düşük ve en düşük en düşük seviyelerin 
+her ikisi de "aşağı" çubuklar (kapanış fiyatının açılış fiyatından düşük 
+olduğu yerler) olacakken, üçüncü çubuk, yani en yüksek en düşük 
+seviye, "yukarı" çubuğu olacaktır.
+Şekil A.1MSL (Piyasa Yapısı Düşük)
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+151
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 149 ===
+MSL aslında, noktalı çizgiyle gösterildiği gibi, fiyatlar daha 
+sonra üçüncü mumun zirvesinin üzerine çıktığında 
+tetiklenir. Elbette, sadece bir MSL tetikleyicisiyle uzun bir 
+ticarete girmek tehlikelidir.
+Bir MSL, her ikisi de aynı düşüklüğe sahip olduğunda iki 
+çubuk veya mumdan da oluşabilir. Bu, gösterildiği gibi çift 
+dip olarak bilinirŞekil A.2. Çift dip, çoğu grafikçinin fiyat 
+yönünde bir değişikliği işaret eden veya tahmin eden 
+güçlü bir gösterge olarak tanıdığı bir desen göstergesidir. 
+İdeal olarak çift dipteki ilk çubuk aşağı bir çubuk, ikincisi 
+ise yukarı bir çubuk olacaktır. Bu örnekte, ikincisi nötr olan 
+bir dojidir (açılış ve kapanış aynıydı).
+Şekil A.2Çift Dip MSL
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+152
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 150 ===
+SWING LOW İLE TAM OLARAK AYNI 
+DEĞİL
+Bazı tüccarlar bir MSL'nin bir "swing low" ile aynı şey olduğunu iddia 
+edebilir. Bu, bir karenin bir dikdörtgenle aynı şey olduğunu söylemek 
+gibidir. Bir MSL, üçüncü mumun uzun bir girişi veya kısa bir işlemden 
+çıkışı düşünmek için bir tetik noktası görevi görmesi bakımından daha 
+spesifiktir; aynı zamanda potansiyel yön değişiminin tanımlayıcı 
+noktasıdır.
+PAZAR
+YÜKSEK (MSH)
+YAPI
+MSL'nin tersi MSH'dir. Fiyatlarda yükseliş trendinden düşüş 
+trendine olası bir geri dönüşün ilk işaretidir. MSH genellikle üç 
+ardışık mumdan oluşur: bir yüksek, daha yüksek bir yüksek ve 
+ardından daha düşük bir yüksek, görüldüğü gibiŞekil A.3
+Yükseklik, kapanış fiyatından değil, mum fitilinin veya gölgenin 
+gerçek yüksekliğinden ölçülür.
+Şekil A.3MSH (Piyasa Yapısı Yüksek)
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+153
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 151 ===
+Yine, fiyatlar MSH formasyonunda üçüncü çubuğun dip seviyesinin 
+altına hareket ettiğinde MSH short tetiklenir.
+Benzer şekilde, bazı tüccarlar bir MSH'nin bir "swing high" ile aynı şey 
+olduğunu iddia edebilir. Öyle değildir. Bir MSH'yi "tetikleyicili bir swing 
+high" olarak düşünün.
+123
+DESENLER
+TERSİNE DÖNÜŞ
+Bir sonraki önemli yapı taşı, MSL'ler ve MSH'lerin birleşiminden 
+oluşur. Tıpkı bir MSL'nin fiyatlarda olası bir tersine dönüşün ilk 
+işareti olması gibi, bir MSL, bir MSH ve ardından daha yüksek bir 
+MSL'nin birleşimi, bir düşüş trendinin bir yükseliş trendine 
+dönüştüğünün bir onay örüntüsüdür. Bu, şu şekilde gösterilmiştir: 
+Şekil A.4.
+154
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 152 ===
+Şekil A.4Yukarı Yönlü 123 Tersine Dönüş
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Daha yüksek MSL'deki MSL tetikleyicisi, bir geri dönüş ticareti için 
+olası bir giriş noktasıdır; ancak geri dönüş, fiyatlar önceki MSH'nin 
+zirvesinin üzerine çıkana kadar doğrulanmaz. Açıkçası, geriye 
+dönüp bakıldığında bu analiz, bir trend ortaya çıkmaya 
+başladığında aynı gözlemleri yapmaktan çok daha kolay hale gelir. 
+Herhangi bir yöntemde olduğu gibi, Fibonacci sistemi de yetenekli 
+bir yorumcu olduğunuz sürece doğrudur. Bu nedenle, bu grafik 
+yöntemini etkili bir şekilde kullanabilmeniz için doğrulama 
+deseninin önemli olmasının nedeni budur.
+- - - - - - - - - - - KENDİNİ 
+SINAV SORULARI
+1. MSL nedir?
+155
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 153 ===
+a. Düşük, ardından daha yüksek düşük, ardından daha yüksek yüksek
+b. Düşük, ardından daha düşük düşük, ardından daha yüksek düşük
+c. Düşük, ardından daha yüksek düşük, ardından tekrar daha düşük düşük
+d. Yüksek, ardından düşük, ardından daha yüksek düşük
+2. MSL size ne anlatır?
+a. Uzun vadeli yatırımınızdan çıkın.
+b. Kısa pozisyonunuzdan çıkın.
+c. Uzun pozisyondan kısa pozisyona dönüşün ilk işareti
+d. Kısa pozisyondan uzun pozisyona dönüşün ilk işareti
+3. MSL nasıl tetiklenir?
+a. En düşük noktada
+b. En yüksek noktada
+c. Fiyatlar daha yüksek dip seviyenin üzerine çıktıktan sonra
+d. Fiyatlar daha yüksek dip seviyesinin altına indikten sonra
+4. MSH nedir?
+a. Yüksek, ardından daha yüksek yüksek, ardından daha düşük yüksek
+b. Yüksek, ardından düşük yüksek, ardından düşük düşük
+c. Yüksek, ardından daha düşük yüksek, ardından tekrar daha yüksek 
+yüksek
+d. Düşük, ardından yüksek, ardından daha düşük yüksek
+5. 123 deseni nedir?
+a. Fibonacci'ye benzer tekrar eden sayısal dizi
+b. MSL'ler ve MSH'lerin bir kombinasyonu, trendin tersine döndüğünü 
+doğruluyor
+c. Elliott Dalga teorisinin bir parçası
+d. Yukarıdakilerin hepsi
+e. A ve B
+f. B ve C
+6. 123'ün Tohum Dalgası ile ilişkisi nedir?
+a. 1 ve 2 Tohumu oluşturur.
+b. 2 ve 3 Tohumu oluşturur.
+c. 3'ten sonra Tohum Dalgası oluşur.
+d. İlişki yok
+156
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 154 ===
+- - - - - - - - - -
+Cevaplar için şuraya gidin:www.TradersLibrary.com/TLEcorner.
+157
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 155 ===
+Ek B
+Fibonacci İncelemesi
+1123581321
+Bu sayı kaçtır?
+Da Vinci Şifresi'ni okuduysanız veya izlediyseniz, 
+1123581321'in Sion Tarikatı'nın sırlarını açan kod olduğunu 
+biliyor olabilirsiniz. Matematiksel eğiliminiz varsa, sayıların 
+aslında basit bir aritmetik dizisi olduğunu fark edebilirsiniz:
+1, 1, 2, 3, 5, 8, 13, 21. . .
+Sayıların ardında çok az gizem vardır; aslında aralarındaki ilişki 
+neredeyse kendiliğinden açıktır; Fibonacci dizisi, bir sonraki sayıyı 
+elde etmek için önceki sayıyı mevcut sayıya eklemekten başka bir 
+şey değildir.
+Ancak, bu sayıların her birinin ortak olduğu çok ilginç 
+bir şey daha var. Önceki sayıya bölündüğünde, her 
+zaman 1.618 sayısını elde edersiniz.
+1İşte buna Altın Oran veya Altın Ortalama denir.
+LEONARDO
+TAVŞANLAR
+VE ONUN
+12. yüzyılda tavşanların üreme şekillerini inceleyen 
+Leonardo Fibonacci adında bir rahip vardı.
+158
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 156 ===
+Nüfuslarındaki artış oranını açıklayan zarif ve basit bir 
+sayısal dizi gözlemledi; eğer gösterilmişse Şekil B.1.
+Şekil B.1Leonardo Fibnonacci'nin Üreme Tablosu
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Dizi sıfır ve bir ile başlar ve sonra bir sonraki sayıyı elde 
+etmek için son iki sayıyı ekler. Yani sıfır artı bir eşittir bir, 
+bir artı bir eşittir iki, bir artı iki eşittir üç, iki artı üç eşittir 
+beş, üç artı beş eşittir sekiz, vb.
+Bu dizi, doğanın temel büyüme modellerinin şaşırtıcı çeşitliliğini, 
+uzaklıklardan başlayarak tanımlamak için kullanılabilir.
+159
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 157 ===
+Güneş'ten gezegenlere, bir ağacın halkalarına, insan 
+vücudunun oranlarına, hapşırık otu bitkisinin dallarına kadar.
+Bu basit dizinin neden bu kadar çok farklı doğa sürecini 
+tanımladığı son yedi yüz yıldır filozoflar ve matematikçiler 
+arasında tartışma konusu olmuştur. Belki de daha da gizemli 
+olanı, aynı Fibonacci dizisinin finans piyasalarında da şaşırtıcı 
+bir düzenlilikle nasıl ortaya çıktığıdır. Gerçekten de, 
+yatırımcıların ne zaman satın alıp ne zaman satacaklarını 
+söylemek için kullandıkları birçok başka dizi ve formül vardır, 
+ancak hiçbiri piyasayı bu kadar evrensel olarak tanımlamaz 
+ve hiçbiri kaosunu bu kadar basit ve zarif bir şekilde açık bir 
+anlama çevirmez, Fibonacci dizisi kadar.
+Fibonacci dizisi, doğayı piyasalarla bağlayan ortak bir 
+bağ olduğu varsayımına dayanır ve bu da "tohum" 
+kavramıdır. Fibonacci dizisi tarafından tanımlanan 
+doğadaki hemen hemen tüm desenlerin bir tür tohumu 
+vardır. Benzer şekilde, finansal piyasalardaki büyüme 
+de bir tür tohumdan gelir.
+ALTIN   ORTALAMA
+Tüm bunların nasıl ilişkili olduğunu görmek için Fibonacci serisinin ilk 
+sayılarına bakalım:
+1 2 3 5 8 13 21 34 55 89 144 233 377
+Bu sayılar arasında Altın Ortalama olarak bilinen ilginç bir 
+ilişki kümesi vardır: verilen herhangi bir sayı, kendinden 
+önceki sayının yaklaşık 1,618 katı ve kendinden sonraki 
+sayının yaklaşık 0,618 katıdır
+160
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 158 ===
+2Örneğin, 34 × 1,618 = 55 ve 55 × 0,618 = 34, yaklaşık 
+olarak.
+Tıpkı 1,618 ve 0,618'in Fibonacci dizisindeki bir sayısal 
+değer ile bir sonraki arasındaki ilişkiyi tanımlaması gibi, 
+fiyatlardaki bir artış ile borsadaki bir sonraki artış 
+arasındaki ilişkiyi de tanımlarlar. Yani bir fiyat 5'ten 8'e 
+yükselirse, 8 × 1,618'i çarparak fiyatlardaki bir sonraki 
+artışın 13 olacağını tahmin edebilirsiniz.
+ORTALAMA HAKKINDA DAHA FAZLASI
+Bu mantığı sürdürürsek, Fibonacci dizisindeki herhangi iki 
+ardışık sayı arasındaki oranlar önemli olduğu gibi, herhangi üç 
+ardışık sayı arasındaki oranlar ve herhangi dört ardışık sayı 
+arasındaki oranlar da önemlidir:
+1 2 3 5 8 13 21 34 55 89 144 233 377
+1 2 3 5 8 13 21 34 55 89 144 233 377
+Bu bize ikincil öneme (0,382 ve 2,618) ve üçüncül öneme 
+(0,236 ve 4,682) ilişkin ek oranlar verir; bu oranlar 
+özetlenmiştir.Tablo B.1.
+Tablo B.1Önemli Fibonacci Büyüme ve Geri Çekilme Oranları
+161
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 159 ===
+FİYATLAR DÜZ BİR ÇİZGİDE 
+HAREKET ETMEZ
+Fibonacci dizisini piyasaya uygulamadan önce, büyüme ve 
+geri çekilme arasındaki ilişkiye bakalım, çünkü bu, 
+fiyatların piyasalarda nasıl hareket ettiğini anlamak için 
+önemlidir.
+Tüccarlar için şans eseri, fiyatlar düz bir çizgide hareket etmez. 
+"Düşüşler" veya geri çekilmeler, bize yalnızca ticarete girme 
+fırsatı değil, aynı zamanda aynı ticaretten ne zaman çıkacağımızı 
+tahmin etme fırsatı da sağlar.
+Genellikle, alıcılar satıcılardan fazla olduğunda, fiyat yükselir. 
+Bu, elbette, daha fazla alıcıyı ve daha istekli satıcıları çeker, ta ki 
+satın alma baskısı tükenene kadar. Daha sonra fiyatlar genellikle 
+geldikleri yönde geri çekilir. Bu, alıcıların kar elde etmek için 
+taraf değiştirerek satıcı olmaları nedeniyle oluşur. Bu satıcılar 
+artık alıcılardan fazladır ve fiyatı tekrar aşağı doğru 
+kovalamaktadır. Trend olan bir piyasada, bunun bir lastik bant 
+etkisi olma eğilimi vardır; her ilerleme bir geri çekilme ile 
+karşılanır. Satıcılar karlarını aldıktan sonra, genel yükseliş eğilimi 
+hala bozulmamışsa, geri çekilme daha sonra başka bir ilerleme 
+ile karşılanacaktır.
+162
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 160 ===
+Bir ilerlemenin, bir geri çekilmenin ve başka bir yüksek 
+ilerlemenin birleşimi, şekilde gösterildiği gibi bir dalga deseni 
+oluşturur.Şekil B.2. Dalga deseninin bir MSL'den, ardından bir 
+MSH'den ve ardından daha yüksek bir MSL'den oluştuğuna 
+dikkat edin. Bu, herhangi bir dalganın temel yapı taşıdır: MSL, 
+MSH, daha yüksek MSL. Aşağı doğru bir dalga için desen basitçe 
+tersidir: MSH, MSL ve daha düşük MSH. Bir dizideki ilk dalgaya 
+Tohum Dalgası denir
+3çünkü sonraki dalgaların yeşerdiği tohumdur.
+Şekil B.2Dalga Deseni
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+163
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 161 ===
+Fibonacci dizisinden türettiğimiz oranlar hem bir dalganın geri 
+çekilmesini ölçmek hem de bir sonrakinin ilerlemesini tahmin 
+etmek için kullanılabilir. Tek bilmemiz gereken ilk tohumun 
+boyutudur.
+Şekil B.3aynı dalga modelini gösterirŞekil B.2Ancak gerçek 
+dünyanın biraz daha kaotik bağlamında: Microsoft'un gerçek 
+bir grafiği.
+Şekil B.3MSFT'de Dalga Deseni
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+Kaynak: MSFT, 13 Dakika, Nasdaq, 15/10/01
+164
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 162 ===
+• MSL, MSH ve daha yüksek MSL örüntüsünü tekrar not 
+edin.
+• Ayrıca bu dalga modelinin düşüş trendinden yükseliş trendine (kısa 
+pozisyondan uzun pozisyona) dönüşün başlangıcı olduğunu, dolayısıyla 
+bir Tohum Dalgası olduğunu unutmayın.
+FİBONACCI'Yİ KULLANARAK
+TAHMİN DALGALARI
+Artık bir Tohum Dalgası belirlediğimize göre, bir sonraki dalganın ne kadar 
+yüksek olacağını tahmin etmek için Fibonacci büyüme oranlarını kullanabiliriz.
+165
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 163 ===
+dalga(lar) olacak. Bu yararlıdır çünkü bize ticaretten ne zaman 
+çıkacağımızı söyler.Şekil B.4, oranların bize bir sonraki dalganın 
+olacağını kesin olarak söylemediğini unutmayın. Bunlar bize 
+yalnızca başka, daha yüksek bir dalga varsa ne yapacağımızı 
+söyler. Daha sonra daha yüksek bir dalga olsa bile, dalganın 
+öngörülen Fibonacci hedefine ulaşacağını veya ulaşırsa çok 
+daha öteye gitmeyeceğini kesin olarak söylemezler. Fibonacci 
+dizisinin bize söylediği şey, çok açık bir şekilde ve ortalamalar 
+yasası dahilinde, işlemimizden çıkmak için en ideal yerin neresi 
+olduğudur.
+Şekil B.43. Dalga Tahmini
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+166
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 164 ===
+- - - - - - - - - - - KENDİNİ 
+SINAV SORULARI
+1. Fibonacci dizisinde, herhangi bir sayının dizideki bir 
+önceki sayıya bölünmesiyle elde edilen oran kaçtır?
+a. 1,5
+b. 1.618
+yaklaşık 1.382
+d. 2.0
+2. Herhangi bir sayının kendisinden önceki ikinci sayıya 
+bölünmesinin oranı nedir?
+a. 1,5
+b. 1.618
+yaklaşık 1.382
+d. 2.618
+3. Fibonacci dizisindeki herhangi bir sayının bir sonraki 
+sayıya bölünmesinin oranı nedir?
+a. 0,382
+b.0,5
+yaklaşık 0,618
+d. 1.27
+4. Fibonacci'yi kullanarak bir dalgayı nasıl tahmin edebilirsiniz?
+a. Tohum Dalgasının genliğinin 1.382~1.618 katını uygulayın.
+b. Önceki aralıktan 0.382~0.618 geri çekilmesini kullanın.
+c. Geri dönüşten önceki son dalganın genliğinin 1.618 katını 
+uygulayın.
+d. İlk dalganın menzilinin iki katı.
+- - - - - - - - - -
+Cevaplar için şuraya gidin:www.TradersLibrary.com/TLEcorner.
+1Tam sayı yaklaşık olarak 1.6180339887'dir. Dizide 
+erken görünen herhangi iki çifti böldüğünüzde (örneğin 
+3/2 veya 8/5) sonucun
+167
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 165 ===
+tam olarak 1.618. Dizide yukarı doğru hareket etmeye devam 
+edin. Dizinin başlangıcından ne kadar uzaklaşırsanız, sonuç 
+1.618'e o kadar yakın olur. Örneğin, 21/13 = 1.615 ve 89/55 = 
+1.618181818.
+2Bu sabitler dizideki ilk birkaç sayı için geçerli değildir; 
+ancak dizide ilerledikçe oranlar 1,618 ve 0,618'e 
+yaklaşır.
+3Tohum Dalgası terimi fizikte sıkça geçer ancak ilk olarak 
+finansal teknik analizde bir terim olarak Russell A. Lockhart, 
+Ph.D. tarafından ortaya atılmıştır.
+168
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 166 ===
+Ek C
+500 Günlük İşlem Özeti
+Bu, 13 Mayıs 2008'den 6 Kasım 2009'a kadar 500 gün 
+boyunca S&P Futures E-mini (ES) için her Evrensel işlem 
+sinyalinin çok temel bir geçmişidir. Blogumuzda yayınlanan 
+grafiklerin genel arşivinden derlenmiştir. Neredeyse her 
+sinyal işlemden önce yayınlanmıştır. Hiçbir kaybeden işlem 
+atlanmamıştır. İşlemler arasında bazı boşluklar vardır çünkü 
+seyahat etmeyi severim ve bazen sabahları köpeklerimi 
+yürüyüşe çıkarırım. Ancak önceden yayınlanan her işlem
+Tablo C.1.
+Tablo C.1
+169
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 167 ===
+Sonuçlar hakkında birkaç yorum: ES'de toplam kümülatif kâr 87,25 
+puandır. Bu, 111 işlemde komisyon hariç sözleşme başına 4.362,50 
+dolara eşdeğerdir. İndirimli bir komisyoncu kullanırsanız, sözleşme 
+başına gidiş-dönüş 5 dolar kadar düşük bir ücretle işlem yapabilirsiniz. 
+Komisyonları gidiş-dönüş başına 5 dolardan çıkarırsanız,
+170
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 168 ===
+sözleşme başına 3.807 dolar getiri sağlıyor. Bu, yıllık 
+ortalama 2.564 dolar. Sözleşme başına 5.000 doları likidite 
+olarak kullandığınızı varsayarsak, bu yıllık ortalama %50 
+getiri demektir. Bu, bir bankadaki mevcut faiz oranından 
+daha iyidir. Elbette, belirli bir süre orada bulunmanız da 
+gerekir. Ancak, benim gibi, seyahat edebilir ve başka şeyler 
+de yapabilirsiniz!
+Bazı kişiler başarı oranının yanı sıra düşüşleri de ölçmekle 
+ilgileniyor.Şekil C.1gösterilen işlemler için kar eğrisini 
+gösterirTablo C.1. Ayrıca, dönem boyunca düşüşleri de 
+hissedebilirsiniz. İşlemlerin yüzde yetmişi dönem boyunca 
+kârlıydı ve "kâr", en azından komisyonları karşılamaya 
+yetecek kadar kâr elde etmek olarak tanımlanıyordu. 
+Dikey eksen, ES'deki noktalardır. Her noktanın değeri 50 
+dolardır. Platolar, uzakta olduğum veya ticaretle 
+uğraşmaktan başka bir şey yaptığım zamanları gösteriyor.
+Şekil C.1Karlar ve Geri Çekilmeler, Mayıs 2008 - Kasım 
+2009
+Daha yakından bakmak için lütfen şu adresi ziyaret edin:www.TradersLibrary.com/ 
+TLEcorner
+171
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 169 ===
+172
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 170 ===
+Sözlük
+Küt Profil – Herhangi bir flaması yoktur; piyasa belirli bir 
+fiyat noktasında rahat değildir.
+Break-Even Stop – İşlemin açıldığı andaki kapatılan değer 
+öz sermaye tutarının altına düştüğünde açık pozisyonu 
+kapatır.
+Tahmin Hatları – Gelecekte ne olabileceğine dair matematiksel 
+tahminlerden türetilen göstergeler. Piyasanın bunların varlığından 
+haberi yoktur.
+Düzeltme Dalgaları – Genel trende ters yönde hareket eden ve 
+trend yönündeki bir sonraki dalga için doğal bir geri çekilme 
+sağlayan dalgalar. Yükseliş trendi 5 dalga dizisinde, 2. ve 4. 
+dalgalar düzeltme dalgalarıdır.
+Sapma – Fiyat hareketinin salınımının, temel 
+göstergelerin (MACD, stokastikler vb.) salınımından 
+sapması, zayıflayan bir trendin ilk işaretidir ve bu da 
+yatay tıkanıklığa veya trendin tersine dönmesine yol 
+açabilir.
+Çift Dip – Her ikisi de aynı düşük seviyeye sahip olan ve bir 
+düşüş trendinin dibinde (veya potansiyel dibinde) oluşan, 
+mutlaka ardışık olmayan iki fiyat çubuğu veya mum. Çift dip, 
+çoğu grafikçinin fiyat yönünde bir değişikliği işaret eden veya 
+tahmin eden güçlü bir gösterge olarak tanıdığı bir desen 
+göstergesidir. İdeal olarak çift dipteki ilk çubuk bir aşağı 
+çubuk ve ikincisi bir yukarı çubuk olacaktır. Çift dip aynı 
+zamanda bir tür MSL'dir (Piyasa Yapısı Düşüklüğü).
+173
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 171 ===
+Çift Flama Profili – Aynı boyutta iki adet net, keskin flama 
+bulunur. Her ikisi de eşit güçtedir ve birbirini destekler.
+Çift Tepe – Her ikisi de aynı yüksekliğe sahip olan ve bir yükseliş 
+trendinin tepesinde (veya potansiyel tepesinde) oluşan, mutlaka 
+ardışık olmayan iki fiyat çubuğu veya mum. Çift tepe, çoğu 
+grafikçinin fiyat yönünde bir değişikliği işaret eden veya tahmin 
+eden güçlü bir gösterge olarak tanıdığı bir desen göstergesidir. 
+İdeal olarak, çift tepenin ilk çubuğu bir yukarı çubuk ve ikincisi 
+bir aşağı çubuk olacaktır. Çift tepe aynı zamanda bir MSH 
+(Piyasa Yapısı Yüksekliği) türüdür.
+Fibonacci Oranları – Her sayının kendisinden önceki iki sayının 
+toplamına eşit olduğu matematiksel bir sayı dizisi: 
+1,2,3,5,8,13,21, 34, 55, vb. Bu dizilim, teknisyenler tarafından 
+geri çekilmeleri belirlemeye yardımcı olmak için kullanılır.
+Düz Profil – Herhangi bir belirgin flaması yoktur; tanımlanmamış veya 
+sıkışık fiyat alanlarını temsil eder.
+Baş ve Omuzlar – Baş ve iki omuza benzeyen teknik bir 
+işlem modeli. Fiyat bir platoya ulaşır, sonra daha da 
+yükselir ve sonra tekrar platoya düşer. Üst baş ve 
+omuzlar, yukarı yönlü bir trendin tersine dönmesini 
+ifade eder. Alt baş ve omuzlar, aşağı yönlü bir trendin 
+tersine dönmesini ifade eder.
+Jardine Range – Piyasanın açılış fiyatının üstündeki en 
+yakın Virgin Kontrol Noktasını (VPC) ve altındaki en 
+yakın VPC'yi kullanan bir gösterge. Bunlar, işlem 
+gününü etkileyecek en güçlü iki noktadır.
+174
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 172 ===
+Keltner Kanalı – Üst ve alt bantları Ortalama Gerçek Aralık'ı 
+kullanarak oynaklıktaki değişikliklere uyum sağlayan hareketli 
+ortalama bant göstergesi.
+Piyasa Profili™ (Fiyat Histogramı olarak da bilinir) – Gün 
+içerisinde her fiyat noktasında harcanan zamanın göreceli 
+miktarını gösteren bir grafiktir.
+Market Structure High (MSH) – Fiyatın yükseliş trendinden düşüş 
+trendine olası bir geri dönüşünün ilk işareti. Bir MSH genellikle üç 
+ardışık mumdan oluşur: bir yüksek, daha yüksek bir yüksek ve 
+ardından daha düşük bir yüksek. MSL'nin tersi.
+Market Structure Low (MSL) – Fiyatlarda düşüş trendinden 
+yükseliş trendine olası bir geri dönüşün ilk işareti. Genellikle 
+üç ardışık mumdan oluşur: bir düşük, bir düşük düşük ve 
+ardından bir yüksek düşük. MSH'nin tersi.
+Mekanik Durdurma – Fiyatlar belirli bir sayıya geri dönerse uzun 
+pozisyonunuzu satmak için brokerınıza verdiğiniz bir emir. 
+Genellikle, mekanik durdurma bir piyasa durdurma emri olarak 
+yerleştirilir.
+Küçük Kontrol Noktası (MPC) – Bir Profilin birden fazla 
+flamaya sahip olması mümkündür. Fiyat Histogramı 
+grafiğindeki ikincil flamanın boyutu birincisine benzerse, o da 
+bir fiyat çekici olarak öneme sahiptir.
+Çoklu Flama Profili – Piyasanın en çok zaman geçirdiği 
+iki veya daha fazla net flama, POC ve MPC'den oluşur.
+175
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 173 ===
+Normal Profil – Piyasanın dar bir aralıkta çoğunlukla zaman 
+geçirdiğini gösteren keskin bir flamaya sahiptir.
+Flama – Güçlü bir trend gösteren piyasanın (bayrak deseniyle 
+birlikte) ayırt edici özelliği olan teknik bir desen. Flama, bir çift 
+kısa birleşen trend çizgisiyle sınırlanmış kısa, ters trend fiyat 
+hareketini temsil eder.
+Pivot Noktaları – Bir önceki günün en yüksek, en düşük ve kapanış 
+fiyatlarının ortalaması alınarak hesaplanan bir tür teknik göstergedir; 
+pivot noktaları destek ve direnç seviyelerini yansıtır.
+Kontrol Noktası (POC) – Fiyat Histogramında, tüccarların gün 
+içinde en çok zaman harcadıkları fiyat veya fiyatlar. Sonraki 
+günlerde bir “yerçekimi alanı” veya “fiyat çekicisi” görevi 
+görür. Başka bir deyişle, piyasa daha önce oluşturulmuş bir 
+POC'ye ne kadar yaklaşırsa, piyasanın o yönde hareketine 
+devam etme olasılığı o kadar artar.
+Fiyat Histogramı – Gün içerisinde her fiyat noktasında harcanan 
+zamanın göreceli miktarını gösteren grafik.
+Ters Mum – Bir dizi “yukarı” mumdan sonraki ilk “aşağı” 
+mum, yani açılışının altında kapanan bir mum. Bir dizi 
+aşağı mumda, serideki ilk yukarı mum, yani açılışının 
+üzerinde kapanan bir mum.
+Ters Dönüş Geri Çekilmesi – Önceki aralığın yüzde 50'sinden 
+fazlasını geri çeken bir düzeltme dalgası. Genellikle, her 
+zaman olmasa da, bu önceki trend yönünde bir geri dönüşün 
+başlangıcını temsil eder.
+176
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 174 ===
+Scalping – Gün boyunca sık sık alım satım içeren işlem 
+stili. Scalp işlemleri en küçük günlük fiyat hareketlerini 
+hedefler ve saniyeler veya dakikalar içinde gerçekleşir.
+Tohum Geri Çekilmesi – Potansiyel bir Tohum Dalgasından aşağıya 
+doğru ilk geri çekilme. Tohum Dalgası her zaman bir dizideki 1. 
+Dalgadır ve tohum geri çekilmesi her zaman 2. Dalgadır. Hedefler her 
+ikisinden birleştirilerek, 3. Dalganın tepesi için bir hedef bölgesi ince 
+ayarlanabilir.
+Tohum Dalgası – Bir dizi dalganın ilk dalgası, sonraki 
+dalgaların büyüdüğü dalga. Tohum Dalgası her zaman 
+tersine dönüş noktasında oluşur. Örneğin, bir düşüş 
+trendinden sonra, ters yönde geri dönen ilk dalga bir Tohum 
+Dalgasıdır. Sadece 123 tersine dönüşü tanımlanıp 
+kaydedildikten sonra tohum dalgası olduğu doğrulanır.
+Stokastik – Bir menkul kıymetin kapanış fiyatını belirli bir zaman 
+dilimindeki fiyat aralığıyla karşılaştıran teknik bir momentum 
+göstergesi. Salınımlı bir gösterge olan model, bir hisse senedi fiyatı 
+arttıkça veya azaldıkça kapanış fiyatlarının belirli bir zaman 
+dilimindeki en yüksek veya en düşük seviyelere daha da yakın bir 
+şekilde birikme eğiliminde olduğu inancına dayanır. Göstergenin 
+piyasa hareketlerine olan duyarlılığı, zaman dilimini ayarlayarak 
+veya sonucun hareketli bir ortalamasını alarak azaltılabilir.
+Destek/Direnç (S/R) – Destek kırıldığında, bir düşüş trendinde, her 
+zaman yukarı doğru herhangi bir hareket için direnç haline gelir. 
+Direnç kırıldığında, bir yükseliş trendinde, her zaman aşağı doğru 
+herhangi bir hareket için destek haline gelir.
+177
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 175 ===
+Trailing Stop – Trailing stop, karı kilitlemek amacıyla fiyat 
+eğilimlerini takip eden dinamik bir stop emridir. Trailing stop, 
+yükselen piyasayı takip etmek için uzun bir işlemde kademeli 
+olarak artacak ve düşen fiyatı takip etmek için kısa bir işlemde 
+azalacaktır.
+Virgin Point of Control (VPC) – Dokunulmamış bir Kontrol 
+Noktası; piyasa daha sonraki günlerde henüz o noktaya geri 
+dönmemiştir.
+Dalga Deseni – Bir ilerleme, bir geri çekilme ve başka bir 
+yüksek ilerlemenin birleşimi bir dalga deseni oluşturur.
+178
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 176 ===
+ÖNERİLEN OKUMALAR
+179
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 177 ===
+YENİ
+GRAFİK TEKNİKLERİ, STRATEJİLERİ VE BASİT 
+UYGULAMALAR
+SINIRLAR İÇİNDE FİBONAKİ TİCARET:
+Michael Jardine tarafından
+Deneyimli ve acemi yatırımcılar, günlük karar alma süreçlerinde 
+kendilerine yardımcı olacak güçlü araçlar ve stratejiler 
+keşfedecekler. Birçok pratik örnekle okunması kolay bir üslupla 
+yazılmış olan Fibonacci Ticaretinde Yeni Sınırlar: Grafik 
+Teknikleri, Stratejileri ve Basit Uygulamalar, yatırımcıların 
+mantıklı, duygusuz ticaret kararları almalarına yardımcı olmak 
+için mutlaka okunması gereken bir kitaptır. Michael'a katılın ve 
+karmaşık bir matematiksel denklemi, acemi yatırımcıların bile 
+anlayabileceği basit terimlere ayırın. Siperlerde geçirdiği yıllar, 
+ona sürekli değişen bir pazara zamanla test edilmiş yöntemleri 
+uygulamanın en pratik yollarını öğretti. Bu kitap, karlı 
+yatırımcıların her gün kullandığı kavramlar ve tekniklerle dolu. 
+Bölümler boyunca bulunan grafikler, çizelgeler ve eşlik eden 
+metinler, gerçek ticaret durumlarını ve kurulumlarını açıkça 
+gösteriyor ve açıklıyor.
+Ürün # 1739885 • Liste Fiyatı: 59,95 ABD Doları
+180
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 178 ===
+BASİT
+TİCARET:
+TEKNİKLER
+KULLANILABİLİR
+FİBONAKİ
+KÂRLI
+HERHANGİ BİRİ
+Michael Jardine tarafından
+Fibonacci uzmanı ve yazar ve kurucusu Michael Jardine'in bu 
+son derece bilgilendirici video sunumuyla işlem karlarınızı 
+optimize edin ve daha fazla işlem güveni kazanın. Enthios.com
+Jardine, en çok satan kitabı Fibonacci Ticaretinde Yeni Sınırlar'da 
+ilk kez ana hatlarıyla belirtilen temellerden yola çıkarak, daha 
+karlı ve para kazandıran sonuçlar için Fibonacci temellerinin 
+herhangi bir ticaret veya yatırım sistemine nasıl entegre 
+edileceğini gösteriyor.
+Aşağıdakiler gibi güçlü Fibonacci temelleri hakkında fikir edineceksiniz:
+• Fiyat hareketinin yapı taşları
+• Dalga dizisi
+• Pazar yapıları
+• Geri çekilme desenleri ve çok daha fazlası.
+Jardine ayrıca size ilk kez evrensel grafikle tanıştırıyor, 
+Fibonacci oranlarının kullanımıyla geliştirilmiş basit bir 
+işlem yöntemi. Acemi ve ileri düzey yatırımcılar bu son 
+derece değerli ve öğretici sunumdan faydalanacak. 
+Fibonacci'yi kendi
+181
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 179 ===
+Diğer işlem sistemlerini de deneyerek kısa sürede daha bilgili ve 
+deneyimli bir yatırımcı olabilirsiniz.
+Ürün # 3319031 • Liste Fiyatı: 64,95 ABD Doları
+ÇIĞIR AÇICI
+STRATEJİLER
+TAHMİN ETMEK
+PAZAR
+İÇİN
+HERHANGİ
+Jeff Greenblatt tarafından
+Herhangi Bir Piyasayı Tahmin Etmek İçin Çığır Açan Stratejiler, 
+21. yüzyılın en iyi ticaret kitaplarından biri olarak kabul 
+edilecektir. Jeff Greenblatt, bu çığır açan çalışmada, piyasanın 
+zaman boyutunu nasıl anlayacağınızı ve teknik analizinizi bir üst 
+seviyeye nasıl taşıyacağınızı öğretecek.
+Jeff, kapsamlı vaka çalışmaları ve grafiklerle, piyasaların 
+gerçekte nasıl çalıştığına dair daha derin bir anlayış sağlayacak 
+ve kullandığınız metodolojiyi on kat daha iyi hale getirecek 
+yüksek olasılıklı desen tanıma sistemini ortaya koyacak. Büyük 
+WD Gann'ın izinden giden Jeff, herhangi bir zaman diliminde, 
+işlem yaptığınız herhangi bir enstrümanda daha fazla hassasiyet 
+kazanmanıza yardımcı olacak.
+Ürün # 5150460 • Liste Fiyatı: 149,95 ABD Doları
+182
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 180 ===
+PİYASALARDAN ÖNCE ZİHİN:
+GÜÇ TİCARETİ İLE
+PAZAR OLUŞTURULDU
+BİLGİ
+James Dalton tarafından
+Marangozluk, tıp, atletizm veya vadeli işlem ticareti olsun, 
+herhangi bir çabada mükemmellik, yalnızca zihninizin analitik 
+ve sezgisel güçleri arasında dikkatli bir denge kurarak elde 
+edilir. Mind over Markets, öğrenmeyle ilgili bir kitaptır; fiyat, 
+zaman ve hacim organizasyonu yoluyla piyasaların 
+dinamiklerini öğrenmek ve bu bilgileri kendi sezginizle nasıl 
+sentezleyeceğinizi öğrenmek. Amacımız, nesnel gözlem 
+güçleri ile sezgisel karar verme arasında sağlıklı bir dengeye 
+ulaşmaktır; bu, yalnızca en iyi tüccarların sahip olduğu nadir 
+bir yetenektir.
+Ürün # 94000 • Liste Fiyatı: 34,95 ABD Doları
+PAZARLAR
+KÂR ETMEK
+MÜZAYEDE SÜRECİ
+PROFİLDE:
+İTİBAREN O
+James Dalton tarafından
+183
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 181 ===
+Kitap, piyasaların nasıl çalıştığına dair bir teori sunmak için üç 
+farklı alandan yararlanıyor: Piyasa Profili, davranışsal finans ve 
+nöroekonomi. Piyasa Profili, piyasaların, piyasanın altta yatan 
+dinamiğinin işlemleri kolaylaştırmak olduğu devam eden bir 
+açık artırmayı yansıttığını varsayar. Davranışsal finans, 
+yatırımcıların rasyonel kararlar almadığını, bunun yerine 
+duygusal faktörler tarafından yönlendirildiğini veya karar 
+almada "kurallara" güvendiğini varsayar. Nöroekonomi, 
+yatırımcıların altta yatan psikolojisinin yatırım kararlarına nüfuz 
+ettiğini vurgular. Bay Dalton, piyasaların doğal açık artırma 
+sürecinin, yatırımcıların sıklıkla irrasyonel kararlarıyla birlikte, 
+yatırımcıların altta yatan dinamikleri nasıl anlayacakları 
+konusunda öngörülebilir piyasa yapıları ve öngörülebilir fırsatlar 
+yarattığına inanıyor. Kitap, yatırımcıların piyasalardaki değişimi 
+ve sürekliliği yorumlama ve daha iyi, daha güvenli yatırım 
+kararları alma yeteneklerini geliştirecektir.
+Ürün # 4112840 • Liste Fiyatı: 65,00 ABD Doları
+Listelenen herhangi bir ürün için mevcut en düşük fiyatı almak için
+Gitwww.traderslibrary.com
+184
+www.forexgercekleri.xyz - [Twitter: @eseckal]

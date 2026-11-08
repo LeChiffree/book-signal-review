@@ -1,0 +1,271 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 6\Baskı 6\Takas Edilebilir Order Blocklar (25 sayfa) - @eseckal.pdf
+PAGES: 25
+
+
+=== PDF PAGE 1 ===
+KISALTMALAR VE TANIMLAR
+SİPARİŞ BLOK [OB]
+OB, Yukarı/Aşağı hareketinden önce sırasıyla Destek veya Direnç seviyesinde/yakınında bir Aşağı/Yukarı 
+Mumdur. Aşağı Mum bir Ayı Mumdur
+Up Candle bir Boğa Mumudur
+Boğa Emri Bloğu [BuOB], Yukarı hareketten önce Destek seviyesinde/yakınında Aşağı mumdur Ayı Emri 
+Bloğu [BeOB], aşağı hareketten önce Direnç seviyesinde/yakınında Yukarı Mumdur
+İpucu:
+Risk Giriş Türü İçin;
+- BuOB esnek değilse, Satın Alma Limitimizi mumun en yüksek fiyatına, Kaybetmeyi Durdur [SL]'yi ise mumun en 
+düşük fiyatına yerleştiririz.
+- BuOB fitil ise Alış Limitimizi gövde açıklığına ve SL'yi en düşük fiyata yerleştiririz.
+- BeOB için her şeyi tersine çevirin
+DENGESİZLİK [IMB]
+Bu piyasada Yetersiz Ticarettir. Bazen Likidite Boşluğu [LV] olarak da adlandırılır.
+Piyasada yeterli işlem olmadığında, fiyat genellikle kalan emirleri tamamlamak için 
+geri gelir.
+Dengesizlik 2-3 veya daha fazla Genişletilmiş Aralıklı Mumdan kaynaklanır [ERC] 
+ERC mumu genellikle mum aralığının %80'inde kapanır
+Sergilemek:
+2-3 veya daha fazla yükseliş mumunun ralli yapması, ticaretin yetersiz olduğunu gösterir. yani alış emirleriyle 
+eşleştirilecek daha az satış emri vardı.
+Varsayımlar;
+Piyasa Yapıcı [MM] fiyatı belirli bir seviyeye yükseltmek istediğinde, alım emirlerini eşleştirmek için 
+yeterli satış emrinin olması gerektiği varsayılır (bu şekilde kar elde ederler).
+Dolayısıyla, MM, arkasında bir LV (IMB) bırakarak güç ve büyüklük açısından belirli bir seviyeden uzaklaştığında, 
+bunu, o seviyede mevcut olan satış emirlerinin Alış Emirleri ile eşleştirmek için yeterli olmadığını varsaymak için 
+kullanabiliriz.
+Bu nedenle, MM genellikle azaltım için bu seviyeye geri dönecektir.
+K enne D ynespot •1 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+AZALTMA
+Azaltma anlamına gelir; riski azaltmak için.
+MM, fiyatı güçlü ve büyük bir seviyeden uzaklaştırdığında, diyelim ki satın alıyorlar; Bunun perakende tüccarları 
+harekete katılmaya ikna etmek için kullanıldığı varsayılıyor.
+Ve çoğu perakende yatırımcı fiyat avcısı olduğundan, bu yolculuğa Zararları Durdur [SL] seti ile katılıyorlar. MM'nin 
+perakende tüccarlar SL'yi temizlemek için geri dönmesinin nedeni (varsayılan) budur. (Perakende Yatırımcıları) SL'leri 
+vurulduğunda, hareketten çıkarılırlar, dolayısıyla MM risklerini azaltır (BAŞLANGIÇ TRENDİNİ DEVAM EDECEKLER, BU 
+NEDENLE TEK BAŞINA HAREKETE GEÇECEKLER).
+İpucu:
+MM'nin hafifletici etki yaptığını bilmek için göz önünde bulundurmanız gereken birkaç şey vardır.
+Örneğin, LV'nin OB'yi doğrulamadan önce bazı görevleri yerine getirmesi gerekir.
+Sergilemek:
+Bir BuOB'u Boğa LV'si ile doğrulamak için;
+1) LV karşıt OB'yi çıkarmalı veya
+2) LV Piyasa Yapısını Kırmalı veya
+3) LV Eşit Yüksek EQL Oluşturmalıdır. Bu, fiyatın HTF BuOB'den (Tersine Giriş için) veya bir ticaret piyasasından 
+(yeniden girişler için) geri döndüğü IFF için geçerlidir.
+K enne D ynespot •2 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+ÇEVİRME BÖLGESİ [FZ]
+Bu, Dirençli [R]'nin Destek [S] haline geldiği ve vasa'nın da [vv] olduğu zamandır.
+İpucu:
+- Destekten (başlangıçta direnç) satın almadan önce, Direnci kırmak için kullanılan gücü kontrol 
+edin. Burada OB'mizi bulmadan önce LV'yi görmek istiyoruz.
+ÖNEMLİ DESTEK VE DİRENÇ [SSR]
+SSR birçok kez test edilen bir Çevirme bölgesidir.
+Burası Piyasa Yapıcının [MM] kayıplarını hafifletmek için geri döndüğü yerdir.
+SSR, Perakende Yatırımcıların emirlerini vermek (Siparişleri Durdurmak) için kullandıkları GÜÇLÜ BİR BÖLGE 
+olduğundan, MM, başlangıç   yönüne devam etmeden önce emirlerini etkinleştirmek/manipüle etmek isteyecektir.
+Sergilemek:
+Diyelim ki piyasa toparlanıyor ve ardından düşmeye başlamak için yön değiştiriyor. Daha da düşmeden önce bir SSR 
+oluşturur.
+Artık Break out Trader'lar, piyasa SSR'yi kırdığında emirlerinin etkinleştirilmesini umarak Satın Alma 
+Durdurmalarını SSR'nin hemen üstüne yerleştirecek. SL'leri SSR'nin birkaç puan altında olacak.
+Aynı şekilde, Destek ve Direnç [SR] Yatırımcıları Satış Limitlerini SSR Bölgesine, SL'lerini ise bölgenin birkaç puan yukarısına 
+yerleştireceklerdir.
+Peki MM fiyatı bu SSR seviyesine geri getirdiğinde ne olur?
+MM gelip SSR'yi KIRARAK hem SR'yi hem de Çıkış Yapan Yatırımcıları etkinleştirir. Fiyat düşüş eğilimine 
+devam ettiğinde, her iki tüccar da her iki SL'ye çarparak devre dışı bırakılır.
+NE HAYAT!   
+K enne D ynespot •3 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+TİCARİ YAPILAN VE TİCARİ OLMAYAN SİPARİŞ BLOKLARI
+Her OB ticarete konu olmaya uygun değildir.
+Bu nedenle, piyasaya çıkmadan önce Giriş Türlerimizle ilgili bazı hususları dikkate almak istiyoruz.
+Bu konu üzerinde yoğunlaşacağımYALNIZCA Takas Edilebilen OB'lerin Özellikleri(Ticareti Yapılmayan OB'ler için her şeyi 
+tersine çevirin).
+Ticareti yapılabilen OB'lerin, geri gelmeleri durumunda fiyatın bloğa uymasını beklediğimiz durumlarda genellikle daha yüksek 
+olasılıkları vardır.
+Peki bu tür OB'leri nasıl doğrulayacağız?
+Herhangi bir zaman dilimindeki bir OB'nin, yalnızca kendi ülkenizdeki çoklu zaman dilimi analizine uygun olması 
+durumunda ticarete konu olabileceğini anlamak önemlidir.zaman dilimi matrisiaşağıdaki kurallarla birlikte;
+İŞLEM YAPILABİLİR SİPARİŞ BLOKLARININ ÖZELLİKLERİ
+1. OB DESTEK/DİRENÇTE/YAKIN OLMALIDIR
+2. OB FLIP BÖLGESİNDE/YAKININDA OLMALIDIR (Geri dönüş girişleri için iyi)
+3. OB PAZAR YAPISINI [BMS] KIRMAK ZORUNDADIR
+4. OB OLUŞTURULDUKTAN SONRAKİ DENGESİZLİK OB'NİN 2 KATI OLMALIDIR+RİSK 
+ÖDÜLÜ [RR] OB'NİN 3 KATI OLMALIDIR
+5. OB, KARŞI BİR OB'Yİ ÇIKARMALIDIR
+6. BERISH OB SSR'NİN ÜZERİNDE VE BULLISH OB SSL'NİN ALTINDA OLMALIDIR
+7. OB'NİN EQH ÜZERİNDE YÜKSELİŞİ.
+8. OB'NİN EQL ALTINDA AYIŞI.
+K enne D ynespot •4 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+1. OB DESTEK/DİRENÇTE/YAKIN OLMALIDIR
+K enne D ynespot •5 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Risk Girişi Onay Girişi
+K enne D ynespot •6 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+2.OB FLIP ZONE'DA/YAKININDA OLMALIDIR
+FZ
+K enne D ynespot •7 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+FZ
+K enne D ynespot •8 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+3.OB PAZAR YAPISINI KIRMAK ZORUNDADIR [BMS]
+K enne D ynespot •9 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+K enne D ynespot •10 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+K enne D ynespot •11 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+4. OB'NİN OLUŞTURULMASINDAN SONRAKİ DENGESİZLİK OB + RİSKİN 2 KATI OLMALIDIR
+ÖDÜL [RR] OB'NİN 3 KATI OLMALIDIR
+K enne D ynespot •12 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+K enne D ynespot •13 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+5.OB, KARŞI BİR OB'Yİ ÇIKARMALIDIR
+K enne D ynespot •14 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+K enne D ynespot •15 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+6.BERISH OB SSR'NİN ÜZERİNDE OLMALI VE BULLISH OB SSR'NİN ALTINDA OLMALI
+SSL
+BeOB SSR'nin üstünde
+SSR
+SSR
+K enne D ynespot •16 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+SSR
+BeOB SSR'nin altında
+SSR
+K enne D ynespot •17 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+K enne D ynespot •18 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+K enne D ynespot •19 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+K enne D ynespot •20 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+BİRLEŞİM
+Burada, piyasaya girmeden önce bunları onaylamak için kendi kurallarınızı (birleşme) 
+oluşturmak istiyorsunuz.
+Takas Edilebilir OB'lerin yukarıdaki 6 özelliğine ilişkin olarak hangisini ilk 2 onayınız olarak 
+değerlendirirsiniz?
+Peki, pratik yapmak ve size uygun ticaret yöntemini seçmek size kalmış.
+İpucu: Bu yöntemle işlem yaparken Zaman Çerçevesi Matrisine [TFM] bağlı kaldığınızdan emin olun.
+DAHA BÜYÜK RESİM ZAMANI
+ÇERÇEVE
+ONAY ZAMANI
+ÇERÇEVE
+GİRİŞ ZAMAN ÇİZELGESİ
+MN WK D1
+WK D1 H4
+D1 H4 H1
+H4 H1 M15
+H1 M15 M5/M3/M1
+Sergilemek:
+Örneğin, alH4 – H1 – M15
+Fiyata saygı duyulursaH4 BuOB,karşıt olanı geçerli olarak işaretleH4 BeOB(Bu sizin aralığınız olacak)
+Şimdi bu aralıkta işlem yapacaksınız… yani M15 BuOB'da keskin nişancı giriş onayı ile tüm 
+H1 BuOB'daki alımları arayın.
+Bu yöntem yalnızca fiyatın karşıt BeOB seviyesine ulaşmaması durumunda geçerlidir.
+Aşağıda Confluence onayı ile OB girişinin rastgele örnekleri verilmiştir
+K enne D ynespot •21 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Onaylar
+1) Destek'te OB
+2) Dengesizlik 2X
+3) RR 3x'tir
+K enne D ynespot •22 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Onaylar
+1) Dengesizlik 2X
+2) RR 3x'tir
+3) Karşıt BuOB çıkarıldı
+K enne D ynespot •23 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Onaylar
+1) BeOB çıkarıldı
+2) Dengesizlik 2'dir X
+3) RR 3x'tir
+K enne D ynespot •24 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Onayla
+1) BuOB çıkarıldı
+2) Dengesizlik 2X
+3) RR 3x'tir
+K enne D ynespot •25 | 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]

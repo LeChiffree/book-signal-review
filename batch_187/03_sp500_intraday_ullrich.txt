@@ -1,0 +1,2018 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 16\Baskı 16\S&P 500 Endeksinde Günlük Trading - Arthur H. Ullrich (82 sayfa) - @eseckal.pdf
+PAGES: 82
+
+
+=== PDF PAGE 1 ===
+Günlük Ticaret
+S & P 500 Endeksi
+Vadeli İşlem Sözleşmesi
+İle
+Arthur H. Ullrich
+Son revize edildi
+20 Ekim 1996
+Bu materyali düzenleme ve farklı bir indeksleme sistemi ekleme sürecindeyiz.
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+Bölüm numaralarının eksikliğini lütfen affedin... Ancak malzeme yine de bu sıraya göre düzenlenmiştir.
+Bu materyali ve grafikleri yazdırmanızı öneririm. Daha sonra bunları ve tüm diğer Yorumları, 
+grafikleri, Çalışma Sayfanız ve Günlük İşlemlerinizle birlikte kolay erişim için bir klasörde 
+saklayın.
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Bölüm 1
+giriiş
+Bölüm 2
+Genel Yorumlar, Öneriler, İnançlar ve Diğer Önemli Şeyler
+Bölüm 3
+Girişler
+Trend Dönüşü (TT)
+Özel Ters Çevirme
+BEK İşlemleri (BEK)
+123 Giriş (123)
+İkinci Sinyal (SS)
+20/20 Ticaret (20/20)
+Boşluk Ticareti (GT)
+İngilizce Al/Sat (İng)
+Dış Bar (OB)
+Boğa Engulfing Bar (BEB) 
+Kutsal Kase
+4. - Bar
+Barlar
+- - Ayı Yutan Çubuk (BrEB)
+Bölüm
+Fiyat Çubuğu Pivot 
+Noktalarının Özellikleri
+Trend Çizgileri ve Üçgenler
+Bölüm
+Yarın İçin Tahmini Yüksek/Düşük 
+Tom DeMark Yöntemi
+Alternatif Yöntem
+Bölüm
+Delta Dönüşleri
+New York'ta Öğle 
+Yemeği Para Yönetimi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Bölüm
+Zarar Durdurma Yerleştirmesi
+Takip Durdurmaları
+100 Noktalık Trailing Stop 
+Bir Dakikalık Barlar
+Tek oturumlu
+Bölüm
+Grafikler için KURULUM
+Birincil Grafik
+ADX Grafiği
+Bir Dakikalık Grafik
+Trend Takip Grafikleri
+Bölüm
+Günlük Çalışma Sayfanızı Oluşturun
+Bölüm
+Notasyonlar, Kodlar ve Kısaltmalar
+Bölüm
+Önerilen Okumalar
+Bölüm
+Ev temizliği
+Bölüm
+Öğeler, Eklentiler, Misl,
+Bölüm 1
+Giriş ve Genel Ders Kuralları.
+Her işlem günü size o gün için Yorumumu göndereceğim. Yorum, günün aktivitesinin bir tartışması ve günün 
+bize sunduğu derslerle ilgili yorumlardır. Ayrıca size işlemlerimi not eden bir günlük grafik göndereceğim. 
+Grafik, Yorumun eki olarak size ulaşacaktır. Net erişim sağlayıcınız bir PCX dosyasını indirmek için bir hizmet 
+sunmuyorsa, America Online'a veya bunu yapan başka bir sağlayıcıya geçmenizi şiddetle tavsiye ediyorum. Size 
+birkaç grafik gönderebileceğim günler olacak. Bunları görüntülemeniz gerekiyor... Aksi takdirde, her gün size 
+grafikleri fakslamak için ayrı bir düzenleme yapmamız gerekiyor... Bu maliyet AOL'den çok daha fazladır. Bu 
+yüzden uygun gördüğünüzü yapın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Anladığınız sürece her gün yanıt vermeniz beklenmez. Ancak takip edin
+Sorularınızı uygun zamanda cevaplayabilmeniz için sorun.
+Eğer bana mesaj yoluyla soru gönderiyorsanız...Konuya "?" ile başlayın ki öncelikli olarak dikkat çeksin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Bir sorunuz veya bir ifadeniz olduğunda bunu gruba yöneltmeyin. Eğer değerliyse ve konuya 
+katkıda bulunacaksa, hem sorunuzu hem de cevabımı herkese kopyalayacağım.
+Bu gruptaki herkes aynı seviyede olmadığı için, ilk hafta veya daha uzun bir süre güncel olaylara bağlı 
+kalmaya çalışalım. Başka bir deyişle, çok fazla ilerlemeye çalışmayın. Ben ancak bu kadar hızlı gidebilirim. 
+Beklediğim ilerlemeyi kaydedemezsek, ek süre sağlayacağım. Parkurda saate bakmaya başlamayın, bırakın 
+ben yapayım. Ve herhangi bir nedenle siz veya ben izin almamız gerekirse, anlaştığımız tüm süreyi 
+alabilmeniz için süre ayarlanacaktır... Pazar tatilleri eğitim günü olarak sayılmayacaktır... Bir ayarlama 
+yapılacaktır.
+Ben bir TradeStation veya EasyLanguage uzmanı değilim. Bu nedenle yazılım veya bilgisayar sorunlarınız varsa teknik 
+destekle iletişime geçin. Sınıfta genellikle yardımcı olabilecek yazılım uzmanları bulunur, ancak onların zamanına da saygı 
+göstermenizi rica ediyorum.
+Adınızı, adresinizi veya telefonunuzu asla kurs dışındakilere vermem. Adres satmam. Kurstakiler de 
+sizden bunu yapmanızı beklemesin. Ancak, kitap, kaset, video vb. düşünmenizi öneririm. Dışarıdan bir 
+reklam alırsanız, bu benden gelmemiştir.
+Broker tavsiye etmiyorum veya tartışmıyorum. Bu hizmeti kendi yatırımcılarına yararlı olabileceği zaman 
+tavsiye etmek için birkaç broker ile bir anlaşmam var. Karşılığında Broker işine girmeyeceğim. Anlıyor 
+musunuz....
+Alım satım geçmişiniz, aldığınız eğitim, okuduğunuz kitaplar vb. benim için önemlidir. Sizinle iletişim 
+kurmama yardımcı olur. Lütfen bana alım satım deneyiminizin bir özgeçmişini gönderdiğinizden emin olun.
+Lütfen bugün bana adınız, adresiniz, telefonunuz, faksınız ve e-posta adresinizle yeni bir mesaj gönderin. Birden 
+fazla e-posta adresiniz varsa diğerlerini yedek olarak gönderin... Sadece belirttiğiniz e-posta adresini 
+kullanacağım... Diğeri sadece acil durumlar içindir.
+Toplu olarak, bu tüccar grubu benden %1000 daha fazla ticaret deneyimine sahip. Önerilerinizi, fikirlerinizi ve 
+üretken yorumlarınızı memnuniyetle karşılarım. Ama lütfen,....konuda kalmama yardım edin. Eğer tüm 
+tüccarlara yarın "Old Grumps Trading Service" tarafından tahmin edilen büyük bir dönüşün olduğunu 
+öğrendiğinize dair bir mesaj gönderirseniz ve bunu kanıtlamak için faksı yeni aldıysanız....... Herkesin tutumu 
+o kadar önyargılı olacak ki faksla tahmin edilenden başka bir yönde işlem yapamayacaklar.. Kursun amacı 
+piyasayla başa çıkmayı öğrenmektir. Bu yüzden bu tür duyurulardan kaçının.. Lütfen...
+Günlük Yorum'un piyasa kapandıktan sonra 2 saat 45 dakika içinde yayınlanması için çabalayacağım. Burada 
+saat 14:15'te kapanıyor. Yorum'da geç kalacağımı görürsem, yaklaşan gecikmeye dair bir bildirim 
+yayınlayacağım ve yeni bir zaman tahmin edeceğim. Bu mesajlardan hiçbirini almazsanız, bana bir saat izin 
+verin ve ardından bana bir mesaj gönderin. Adresinizle ilgili sorun yaşıyor olabilirim..
+Kişisel bir not olarak......Eşim Temmuz 95 ile Şubat 96 arasında 4 beyin ameliyatı geçirdi. İyileşiyor, ancak hala 
+her gün terapi görüyor. Bazen küçük acil durumlar ortaya çıkıyor.... Anlıyorsunuz ya......
+Beni aramak için en iyi zaman Yorum yayınlandıktan sonradır. Ondan önce ararsanız her şeyi 
+yavaşlatırsınız. Lütfen piyasa saatleri içinde aramayın, bunu yapmak için özel bir anlaşmamız yoksa... 
+Lütfen !!!!
+Aradığınızda ve aramanızı beklediğimde, başkalarının da sohbet etmek için zamana ihtiyacı olduğu için kısa olun. Sorunuz 
+yanıtlandığında sizi aramayı aceleyle sonlandırırsam kaba görünmek istemem. İhtiyacınız olduğunu düşünüyorsanız
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Telefonda birkaç dakikadan fazla zamanınız yoksa lütfen bana bir mesaj gönderin ve sizin için en uygun zamanı teklif 
+edin... Daha uzun konuşmak için bir randevu belirleyelim.
+Masamda olduğumda, telefonu 2 zilde açarım. Daha fazlası ve telesekreterimi alırsınız. 2 zil 
+verin ....sonra biraz sonra deneyin...........
+Sabah piyasa açılmadan önce aramayın, eğer gerçekten HIZLI bir arama değilse.
+İçindekiler Tablosundaki materyal, piyasanın sunduğu sırayla ele alınacaktır, ancak temel yapı taşları 
+oldukları için Trendler ve TREND DÖNÜŞÜ ile başlayacağız. Tabloda olmayan ancak tartışacağımız 
+konular da var.....
+Bunlardan herhangi birini açıklığa kavuşturmam gerekirse lütfen bana bildirin.........
+Sizinle çalışmaktan büyük mutluluk duyacağım...
+Arthur Ulrich.
+Bölüm 2
+Genel Yorumlar, Öneriler, İnançlar ve Diğer Önemli Şeyler
+S&P piyasası genellikle sabah ve öğleden sonra daha yüksek bir likidite seviyesine sahiptir. Sabah hareketleri 
+genellikle güçlüdür ve öğle yemeğinden sonraki hareketler de öyledir, doğu saatine göre. İşlemlerin son yarım saati 
+genellikle daha yavaştır. Genellikle vurgusuna dikkat edin. Her zaman istisnalar vardır.
+Öğlen 12:00 ile 13:00-13:20 arasında işlemlere girdiğinizde daha yüksek risk vardır. Öğle yemeğine girerken bir 
+işlem yapıyorsanız, dikkatli olun ve stopları daraltmayı düşünün. Ben genellikle bu saatte işlem yapmayı bırakırım, ancak o 
+zaman da iyi hareketlerin gerçekleştiği zamanlar olur. Esnek olun.
+Piyasanın son yarım saatte yavaşlama eğilimi olduğundan, karınızı korumak için stop emirlerini sıkılaştırmayı düşünün ve 
+bu kadar geç bir zamanda bir işleme girmeden önce dikkatlice düşünün.
+Eğer üst üste üç kez kaybedersem (bazen üç kez kaybedersem, nokta), o gün işlem yapmayı bırakırım.
+Eskiden yetişmek için acele ederdim. İşler nadiren düzelirdi. Bazen yanlış tarafa geçtiğinizde ve düz gitmek 
+için geri gittiğinizde sorunu daha da karmaşık hale getiriyorsunuz. En iyisi bir süre kenara çekilip, geri 
+dönmeden önce aksiyonu kavramak.
+Yapılması zor bir şey, öndeyken bırakmaktır. Kar hedefleri belirleyin. Oraya vardığınızda, gidip tadını çıkarın. Bu
+Gerçek dünya için harika bir tavsiye, ancak kurs boyunca her sinyali öğrenme deneyimiyle "kağıt üzerinde" 
+takas etmenizi öneririm.
+Son birkaç güne ait önemli destek ve direnç alanlarını takip edin. Bunlar büyük fırsat alanları 
+olabilir.
+Günlük aralığı, pivot noktalarını, destek ve direnç alanlarını ve işlem yaparken faydalı olacak diğer önemli verileri 
+ve gerçekleri takip etmenize yardımcı olacak bir Günlük Çalışma Sayfası geliştirin ve koruyun. Size Çalışma Sayfamı ve bazı 
+verileri nasıl kullandığımı göstereceğim. Çalışma Sayfamı korumak için bir elektronik tablo programı kullanıyorum. Sürekli 
+değişiyor. Bu sadece başka bir kişisel araç.
+Günün en yüksek veya en düşük seviyesinin, işlemin ilk saatinde belirleneceğini düşünen birçok kişi var. En 
+yüksek veya en düşük seviyenin, ilk iki saat içinde belirlenmesi daha da olasıdır. Çalışma Sayfanızı kullanarak
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+böylece gerçekleri kullanarak tahmini Yüksek veya düşük bir değer hesaplayabilirsiniz. Ancak, hem yüksek hem de düşük 
+değerlerin SON saatte belirlendiği bir günü hatırlıyorum. Önemli kelime OLASI'dır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Sipariş vermeden veya önemli bir karar vermeden önce bar kapanana kadar bekleyin.
+zaman dilimi.
+DJIA öğle yemeğinde 35 puan veya daha fazla yükselirse, pazarın öğle yemeğinden sonra da yükselmeye devam 
+etmesi olasıdır. Bunun tersi de sıklıkla doğrudur.
+Bir stop'u hareket ettirmek veya karı kilitlemek veya almak için bir pozisyondan çıkmak HER ZAMAN İYİDİR. Ne olursa olsun
+yaparsanız, piyasa sonunda daha da ileri gidecektir. Ne olmuş yani? Ancak, iyi hareketlerden sık sık çok 
+erken çıktığınızı fark ederseniz, tam potansiyeline ulaşana kadar sizi işlemde tutacak teknikler aramak 
+ödüllendirici olabilir; yani, dikkat edin.
+Bir ticareti kovalamaktan kaçının. Hareketin iyi bir şekilde ilerlediğini gördüğünüzde, bakın
+hareketin başladığı yeri görmek için geri dönün. Artık hareketin potansiyeline ulaşmış olması ve sonun yakın olması 
+mümkün. Başlangıcı kaçırdıysanız, kaçırmışsınız demektir. Başka bir fırsat olacak. Bir ticareti kovalamak veya geç atlamak 
+size para kazandırabilir. Ayrıca, en üstten satın almanıza veya en alttan satmanıza da neden olabilir. İkisi de arzu edilen şeyler 
+değildir
+Giriş sırasında, stop loss yerleştirme için destek veya direnç bölgelerinin nerede olduğunu bilin. Stop 
+loss'u başka bir yere yerleştirmek sadece tahmindir.
+Sinyal çubuğu oluştuğunda ve siparişinizi vermeye hazır olduğunuzda,
+Girişiniz stop loss bölgesinden ne kadar uzakta olacak. Başka bir deyişle, ne kadar risk almaya hazırlanıyorsunuz? 
+Sinyal ne kadar iyi görünürse görünsün, bu kadar riske dayanabilir misiniz? Her zaman bir sonraki sinyali 
+bekleyebilirsiniz.
+Karşınıza çıkan her sinyali almak zorunda değilsiniz. Eğer bir sinyali diğerlerinden daha iyi biliyorsanız ve o sinyale 
+güveniyorsanız, o sinyali bekleyin ve diğerlerinin geçmesine izin verin. Hareketleri kaçırdığınız için kendinizi suçlamaya 
+başlamayın. Bazı yatırımcılar sadece bir sinyal türüyle işlem yapar ve bunu yaparak geçimini sağlayabilir. Ancak "kağıt" 
+ticaret kursunda size gösterdiğim tüm sinyalleri deneyim için kullanırsınız.
+Piyasa, yükselişinden yaklaşık %300 daha hızlı düşüyor.
+Piyasanın bir şey yapacağına inanmayın. Piyasa hareketinin size ne yaptığını söylemesine izin verin. Analizinizin veya 
+bir falcının ne yapacağını tahmin etmesine bakmaksızın, ne yaptığına inanın.
+Yüksek Açılış Pozisyonu
+Düşük Açılış Pozisyonu
+( HOP )
+( SÖZ )
+HOP, fiyatın açılışın 160 puan üstüne ulaştığı zamandır. LOP, 
+fiyatın açılışın 160 puan altına ulaştığı zamandır.
+Eğer HOP ilk önce dokunulursa, LOP'a bugün ulaşılmama olasılığı %90'ın üzerindedir. Bunun tersi de 
+geçerlidir.
+HOP'a dokunulursa ve LOP'a dokunulmazsa, fiyatın günlük aralığın üst yarısında kapanma olasılığı 
+%78'dir. Bunun tersi de doğrudur
+HOP'a ulaşılırsa ve fiyat günlük aralığın üst yarısında kapanırsa, fiyatın yarın daha yüksek bir seviyeye 
+çıkma olasılığı %90'ın üzerindedir. Bunun tersi de geçerlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Bölüm 3
+Girişler
+Trend Dönüşü (TT)
+Dönüş sinyallerinden birinin temeli TREND TURN'dür ve Kent Calhoun (KCI) tarafından öğretilen bir sinyale 
+benzer. İlerledikçe TREND TURN modelinin dönüşleri tanımlamak için temel yapı taşı olduğunu göreceksiniz 
+ve hedefimiz daha erken girmek. Modeli size tarif etmektense göstermek çok daha kolaydır, ancak önce 
+kelimelere dökeceğiz.
+TREND DÖNÜŞÜ Satış/dönüş Sinyali
+Referans çubuğu _ Hamlenin en yüksek noktasını oluşturan çubuk.
+Kurulum çubuğu _ Referans çubuğunu takip eden çubuk.
+Onay çubuğu, Referans çubuğunun ve Kurulum çubuğunun en düşük seviyesinden daha düşük KAPANAN ilk 
+çubuktur.
+Onay çubuğu ÜÇÜNCÜ çubuk olmak ZORUNDA DEĞİLDİR. Birkaç çubuk sonra ortaya çıkabilir. Ancak, tüm sinyaller 
+yaşla birlikte değer kaybeder. Onay çubuğu kurulum çubuğundan 3-5 çubuk sonra yerinde değilse, nedenini 
+sormaya başlamak önemlidir. Bu, sinyalin başarısız olduğu anlamına gelmez.
+TREND DÖNÜŞÜ Satın Al/Dönüş Sinyali
+Referans çubuğu _ hareketin en düşük noktasını oluşturan çubuk.
+Kurulum çubuğu _ Referans çubuğunu takip eden çubuk.
+Onay çubuğu, Referans çubuğunun ve Kurulum çubuğunun Yüksek değerinden daha yüksek 
+KAPANAN ilk çubuktur.
+Bir çubuğun Referans'tan sonra ve bir Onay çubuğu yerleştirilmeden önce daha yüksek bir Yüksek veya 
+daha düşük bir düşük ayarlaması durumunda, yeni bir sinyal oluştuğu açıktır. Bir tik yeterlidir.
+TREND TURN sinyali herhangi bir süreye sahip barlar için geçerlidir. Yani, 30 dakikalık barlarda işlem yapmak istiyorsanız, TREND 
+TURN sinyali geçerli olacaktır. Aynı şekilde, TREND TURN sinyali 1 dakikalık barlarda da çalışacaktır, ancak başa çıkılması gereken çok 
+fazla dalgalanma olacaktır.
+Bu sinyal her piyasada işe yarar.
+Önemli bir nokta: TREND TURN Satışını ancak bir TREND TURN Alışından sonra yapabilirsiniz ve tam tersi de 
+geçerlidir. Üst üste iki TREND TURN Satışı veya üst üste iki TREND TURN Alışınız olamaz.
+Şimdi koymanız gereken hedef, bir sinyalin oluştuğunu görüp Onay çubuğundan önce giriş yapabilmenizdir. 
+Elbette bu daha agresiftir ve risk artar, ancak Referans çubuğuna girerseniz, her zaman stop-loss noktanıza 
+daha yakın olursunuz. Size gösterdiğim her şeyde, ilk Stop Loss, ilgili TREND TURN Referans çubuğuyla 
+ilişkilidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Dönüşleri Etiketleme
+Ancak, hareketin uygun yönde devam etme olasılığını artıracak bazı başka koşullar da vardır. İlk ve en 
+belirgin olanı, trend yönünde bir giriştir. Bu, karşıt trend işlemlerini engellemez, ancak karlı bir hareket 
+olasılığı trendle işlem yaparak iyileştirilir. Trendi takip etmenin bir yolu, tüm dönüşleri etiketlemektir ve 
+bu bağlamda, bir dönüş bir TREND TURN sinyalinin oluşmasıdır.
+TREND TURN sinyali her oluştuğunda, tepe daha yüksek bir Yüksek veya daha düşük bir Yüksek olarak etiketlenir. Dipler daha düşük 
+dipler veya daha yüksek dipler olarak etiketlenir. Tepeleri ve dipleri nasıl etiketleyeceğiniz size kalmış, ancak ben grafiklerimi şu 
+şekilde etiketleyeceğim:
+Yükselen bir trendde, her Yüksek daha yüksek ve her düşük daha yüksektir. Tepeleri ve dipleri "beklendiği gibi" anlamında "a" ile 
+etiketleyeceğim. Bir değişiklik olduğunda; yani, bir sonraki Yüksek daha düşük olduğunda, bunu "düşük değişiklik" anlamında 
+"c-" (c eksi) olarak etiketleyeceğim. Bundan sonra, bir sonraki Yüksek daha düşük olduğu sürece, beklendiği gibi "a" etiketini 
+kullanacağım. Elbette, koşullar
+Tekrar tersine çevirerek, "daha yüksek değiştir" anlamında "c+" (c artı) kullanacağım.
+Bir tabloya tek bir bakışla, tüm bunlar netleşmeli. Bir keresinde yalnızca "+" veya "-" kullanmayı denedim ve tablodaki 
+etiketlerin çoğu kayboldu.
+Her dönüşün fiyat zirvelerini ve diplerini etiketlemenin yanı sıra, fiyatın Yüksek veya Düşük belirlediği aynı 
+noktada karşılık gelen RSI'yi etiketleyeceğiz. Hem fiyatı hem de RSI'yi etiketlemeye başladığınızda, bazı 
+önemli ifadeler gözünüze çarpacaktır.
+Fiyat ile RSI arasındaki ayrışmayı aramaya başlayın; yani, fiyat düşük yaptığında ancak RSI çok daha yüksek bir düşük 
+gösterdiğinde, bu ayrışma (divg) güçlü bir giriş sinyaline işaret ediyor olabilir. Elbette, tüm bunları bir grafikte görmek daha 
+kolaydır, bu yüzden size bunlar gerçekleştiğinde grafiklerde göstereceğim.
+Mentorüm bana dönüşleri tam olarak bu şekilde etiketlemeyi gösterdi. Ama bunun çok zaman aldığını düşündüm. Dönüşleri 
+sadece "göz kararı" yaptım ve iyi girişlerin çoğunu kaçırdım. Bana güvenin. DÖNÜŞLERİ ETİKETLEYİN. Şimdi, devam etmeden 
+önce, grafiklerinizde birkaç gün geriye gidin ve tüm TREND DÖNÜŞ sinyallerini belirleyin. Fiyatın tepelerini ve diplerini ve 
+karşılık gelen RSI'yi etiketleyin. İyi sinyallerin size doğru fırladığını görmeniz uzun sürmeyecek.
+Hangi TREND DÖNÜŞ Sinyallerini Almalıyız?
+S&P'de, hiçbir garantinin olmadığı herhangi bir piyasada olduğu gibi, aşağıdaki kriterlerin hepsini karşılayan 
+bir işlem yapmak size en yüksek kar olasılığını ve en düşük riski verecektir. Peki ya bu koşullardan bazıları 
+mevcut değilse? RİSK ARTIYOR! Ancak hepsine sahipseniz, neredeyse garantili bir "para makinesi"... NEREYSE. 
+Bu ne sıklıkla gerçekleşecek? Söylemesi zor. Günde birkaç kez......
+1.
+eğilim.
+(CTM).
+TREND ile işlem yapın. Karşıt trend işlemleri para kazandırır, ancak Yüksek olasılık Karşıt 
+trend hareketleriyle önemlidir. "TÜM" trend dönüşleri bir Karşıt trend hareketiyle başlar
+2.
+RSI, satış sinyalinde 70'in üstünden 70'in altına hareket eder. 
+Ancak fiyat tek başına bir giriş sinyalinin temeli olabilir.
+RSI, satın alma sinyalinde 30'un altından 30'un üzerine çıktığında veya
+Dönüşleri belirlemeye yardımcı olmak için RSI'yi kullanma şeklimiz, piyasanın döngüsel bileşeni için uygundur ve 
+herhangi bir osilatör gibi herhangi bir güçlü trendde başarısız olur
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+3.
+- 100. Grafiklerimde CCI var ama ona çok daha az güveniyorum. (İsteğe bağlı)
+CCI hareketi RSI hareketine karşılık geldiğinde ve +100'ü geçtiğinde işlem yapın veya
+4.
+VE RSI zaten fiyatın önünde yukarı doğru hareket ediyor. 
+Ayrışma, olasılığın iyileştiğinin güçlü bir göstergesidir.
+RSI ve fiyat farklılaştığında, yani fiyat düştüğünde ve yükseldiğinde işlem yapın
+5.
+ADX'in 30'un üzerine çıkmasını beklemek ticaret yapmak için. ADX 10'un altında olduğunda para kazanmak çok zordur. Sadece 
+bekleyin.
+ADX yönünüzde güçlü bir trend (30'un üzerinde) gösterdiğinde işlem yapın. Ancak biz değiliz
+Bunlar aynı anda gözünüzün üzerinde tutmanız gereken çok fazla şey. Ancak 5 dakikalık çubukları izlerken, Referans çubuğu 
+kapandıktan sonra bir Onay çubuğunun kapanması en az on dakika sürecektir. Bu nedenle bir Referans çubuğu gibi görünen 
+bir şey gördüğünüzde, diğer tüm faktörleri kontrol etmeye başlayın. Tüm ördekler size sinyali vermek için sıraya girdi mi? 
+Asla "ani" bir karar vermek zorunda kalmamalısınız, bu odaklanma ve sabır gerektirir.
+Yusufçuk, Doji, Akşam ve Sabah Yıldızı, Kayan Yıldız
+Tersine Dönüş Desenleri. Bunların hepsi Steve Nison'ın Japon Mum Grafik Teknikleri kitabında gösterilmiştir. 
+Ancak her birini ortaya çıktıkça tartışacağız. Kitap incelemeniz varsa, yoksa bunu ticaret geleceğinizde önemli 
+bir yatırım olarak düşünün. Burada grafik yapabilseydik size desenleri gösterirdim. Ancak grafiklerde 
+birçoğunu göreceğiz.
+Yusufçuk, Shimizu'nun grafikler kitabında isimlendirilmiştir. Yukarı hareketin sonlarında Yüksek veya Yüksek'ine yakın bir yerde 
+kapanan bir çubukla başlayan bir deseni tanımlar. Bunu, daha yükseğe çıkan, sonra aşağı dönen ve Düşük veya Düşük'ine yakın ve 
+önceki çubuğun kapanışının altında kapanan bir çubuk takip eder.
+Başı alçakta olan gölge. Baş küçük veya büyük olabilir.
+Sell   sinyalinin kalitesini tanımlar. Dragonfly'ın ne kadar yukarı çıkıp aşağı indiği kaliteye katkıda bulunur. Ancak 
+Dragonfly önceki çubuğun orta noktasında veya yakınında kapanırsa bir satış sinyali verilir.
+bu kalıplar, bunları bir giriş yöntemiyle birlikte belirteceğim günlük aktivitede ortaya çıkar. Dragonfly 
+güçlü bir geri dönüş kalıbı olabilir. Bunun tersi, satın alma kalıplarında da geçerlidir.
+Bu (satış) Dragonfly o zaman uzun bir fiyattır. 
+Önceki barın ne kadar altında kapanır?
+Ne zaman
+The
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+BEK İşlemleri (BEK)
+BEK benim akıl hocamdı ve bana bu sinyali gösterdi. BEK, hareketli ortalamada veya yakınında bulunan ve bir duraklamadan 
+sonra trend hareketinde hareketi yeniden teyit eden bir dış çubuktur (OB). Bir devam sinyalidir ve pozisyonunuza eklemek 
+için harika bir yerdir.
+123 Giriş (123)
+TREND TURN sinyali bir geri dönüş sinyali iken, 123 girişi trend sinyaline sahip bir giriştir. Desen genellikle sadece 
+birkaç çubuktan oluşur ve (bir düşüş trendinde) aşağı hareketin geri çekilen bir veya daha fazla çubuk tarafından 
+kesintiye uğratıldığı zaman görülebilir. Trend devam ettiğinde, giriş düşük noktanın 1-3 tik altında (agresif) veya 
+düşük noktanın altındaki ilk kapanıştır. Yükseliş trendinde bunun tersi geçerli olur.
+Herhangi bir trend hareketinde, mevcut bir pozisyona girme veya ekleme fırsatı sunan birkaç geri 
+çekilme vardır; ancak, girerken hareketin ne kadar ilerlediğinin farkında olmak önemlidir. İlk giriş 123 
+girişi olduğunda, giriş hareketli ortalamaya yakın olduğunda risk daha azdır. Göstergeler aşırı satım 
+gösterdiğinde satış yapmak veya göstergeler aşırı alım gösterdiğinde satın almak riski artırır.
+TREND TURN girişlerinin çok yüksek bir yüzdesi, bir geri çekilme veya Yüksek veya Düşük'ün yeniden test edilmesiyle 
+birlikte gelir. Bu, 123 girişinin başlangıcı olabilir. Bunlar sıklıkla bir hareketin başlangıcına yakın bulunabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+İkinci Sinyal (SS)
+Unutmayın, bir TREND DÖNÜŞÜ sinyali bir hareketin ortasında değil, en üst veya en alt noktasında oluşturulur. Sadece bir 
+SATIN AL sinyalinden SONRA bir satış sinyali ve sadece bir SATIŞ sinyalinden SONRA bir satın alma sinyali alabilirsiniz. Üst 
+üste 2 satış sinyali veya 2 satın alma sinyali olamaz. Bu nedenle bir TREND DÖNÜŞÜ sadece bir hareketin en üst ve en alt 
+noktasında gerçekleşir.
+Piyasanın zirveleri ve dipleri TEKRAR TEST ETME gibi kötü bir alışkanlığı vardır. Elbette piyasanın tekrar 
+test etmesi gerekmez, ancak bunu sıklıkla yapar. Bunu yaptığında, son düşük veya yüksekten 2-3 tik 
+daha uzağa itme riski vardır. Bu noktada, sinyale girdiyseniz, SICAKLIĞI hissedeceksiniz.
+Durduramasanız bile çok rahatsız olursunuz değil mi?
+Bu noktada, İkinci Sinyal (SS) için büyük bir fırsat vardır. İkinci Sinyal daha iyi bir giriş noktası, çok daha az ısı, 
+daha düşük risk ve sizin yönünüze doğru büyük bir hareketin daha da yüksek olasılığı sunabilir. Çok az İkinci 
+Sinyal başarısız olur.
+İkinci Sinyali, hareket devam ettiğinde ve giriş sinyalinize benzer bir çubuk olduğunda tanırsınız ancak 
+daha iyi bir giriş noktasına sahiptir VE RSI hareket yönünde ayrışmıştır. Ne diyorsunuz ??? Size 
+göstereyim o zaman anlayacaksınız.. Ancak RSI ayrışması buradaki "anahtar"dır....
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+20/20 Ticaret (20/20)
+Street Smarts'tan Bu işlem iyi bir günlük işlem veya bir girişi girmek veya onaylamak için kullanılabilen kısa 
+vadeli bir işlemdir. Referans çubuğu günlük çubuktur. Bu nedenle, günün kapanışında günün fiyat çubuğuna 
+bakmalısınız. Günün çubuğunun bir uçtan %20 (günlük aralığın) içinde açılmasını ve diğer uçtan %20 içinde 
+kapanmasını arıyorsunuz. Bu nedenle adı 20/20'dir.
+Referans çubuğu (günlük) yerleştirildiğinde, ertesi gün 20/20 ticareti için uygun hale gelir. Bir kenara not olarak, 
+bunu değerlendiren ve ardından 20/20 ticareti yapılıp yapılamayacağını gösteren günlük Çalışma Sayfamda (e-tablo) 
+bir formül ekledim.
+SATIN AL Sinyali
+Dünün günlük barı zirvenin %20'si içinde açıldı ve dipten %20'si içinde kapandı. Ertesi gün, fiyat önce 
+referans gününden 5-15 tik daha düşük (düşük seviyeyi aşarsa) fiyat Referans gününün düşük seviyesine 
+döndüğünde SATIN AL. Satın alma emrinizi bu düşük seviyede verin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+SATIŞ Sinyali
+Referans günü, düşük seviyesinin %20'si içinde açılmalı ve yüksek seviyesinin %20'si içinde kapanmalıdır. SATIŞ sinyali, fiyat 
+Referans gününün yüksek seviyesini 5-15 tik aştığında ve ardından Referans gününün yüksek seviyesine geri döndüğünde 
+gerçekleşir. Satış emrinizi bu yüksek seviyede verin.
+Fiyatın referans gününün en yüksek/en düşük seviyesini 10 tik aşmasını öneriyorum. Bu benim kararım. 
+Farklı bir şey kullanmak isteyebilirsiniz. Hatırladığım kadarıyla belirli bir gün 20/20 işlem olarak nitelendirilen 
+dört giriş sunmuştu. Bu sinyallerden birinde göstergelerden neredeyse hiç onay gelmemişti, ancak diğer üç 
+sinyalde göstergeler güçlü bir onay sunmuştu.
+Bu ticaret Conners ve Raschke'nin Street Smarts adlı kitaplarında ele alınmıştır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Boşluk Ticareti (GT)
+Gap Trade terimi Kent Calhoun (KCI) kavramlarını takip eder. Gap Trade yalnızca açılışta bir boşluk 
+olduğunda kullanılır. Fiyatın boşluğu dünün kapanışına veya günün bir saatinde kapanışa çok yakın bir 
+yere geri dönerek kapatma olasılığı %80'dir. Birçok durumda, fiyat açılıştan hemen sonra boşluğu 
+kapatmaya çalışacaktır. Boşluk dünün aralığındaysa ve boşluk 200 puan veya daha azsa ve kapanışa 
+geri dönüş kısa vadeli trendle yapılıyorsa, boşluğun açılıştan kısa bir süre sonra kapanma olasılığı 
+%90'ın üzerindedir.
+Aşağıdaki koşullar sağlanıyorsa dünkü kapanış yönünde işlem yapın:
+1. Açık piyasa boşlukları
+2. Boşluk dünün aralığında
+3. Fark 35-50 puandan büyük
+4. Boşluk 200 puandan büyük değil
+Bu, diğer tüm koşullara bakılmaksızın açılış çubuğunda otomatik olarak işleme girmek anlamına GELMEZ. Bazı 
+günlerde, boşluk saatlerce doldurulamayabilir. Normal bir işlem aralığı piyasasında (bu ne olursa olsun), 200 puanın 
+üzerindeki bir boşluk genellikle boşluk yönünde olur, kapanış yönünde değil. Piyasa uç noktalarda işlem 
+gördüğünde, 600 puanın üzerindeki boşlukların kapandığını gördük. Ayrıca, bir önceki günün işlem aralığının çok 
+dışında kalan boşlukların kapandığını da gördük... Ancak tüm koşullar karşılandığında olasılık keskin bir şekilde 
+artar.
+Dünkü kapanışa doğru bir Gap İşlemi yaparken, girmeden önce o yönde kapanan bir bar beklemek her 
+zaman akıllıca olacaktır. Boşluk hızla kapanabileceğinden, diğer göstergelerden onay beklemek her zaman 
+mümkün olmayabilir.
+Boşluğu kapatmak için karşıt trend hareketleri yaygındır ancak trendin değiştiği anlamına gelmez. Trendi belirlemek 
+için diğer göstergeleri ve fiyat hareketlerini izleyin.
+Son bir nokta... "Boşluğu kapatmak" ne anlama geliyor?? Fiyat sıklıkla geri döner ve boşluğu kapatır ancak her 
+zaman kapanış çubuğunun gerçek kapanışına gitmez. Yukarı boşlukta, günün son birkaç çubuğunun 
+tepelerini not edin. Bu tepe veya ona yakın bir hedef belirleyin.... Ve boşluğun 200 puandan büyük olması ve 
+dünün aralığının dışında olması bizi kapanış yönünde işlem yapmaktan alıkoymaz..................
+İngilizce Al/Sat (İng)
+Fiyat aşağı doğru eğilim gösterdiğinde, direnç noktaları oluşturan zirveleri geride bırakır. Fiyat yukarı doğru eğilim gösterdiğinde, 
+destek noktaları oluşturan dipleri geride bırakır. Bunlar İNGİLİZCE Referans Noktaları olabilir.
+Fiyat bu İngiliz Referans Noktalarından birine geri dönerse ve bunu 9 tik veya daha fazla aşmazsa, o zaman 
+diğer yöne giden ve kendi orta noktasının ötesinde kapanan ilk çubuğu işlem yapın ancak her zaman işlemin 
+bir onayını arayın. Esasen, İngiliz sinyali fiyatın eski bir destek veya direnç noktasına ulaşması ve tersine 
+dönmesinin sonucudur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+İngilizce Referans Noktalarını bulmak için 15 dakikalık tabloya gidin. En düşük dip noktasının oluşmasından bir saat önce ve bir saat sonra en 
+düşük dip noktası olan tüm büyük dip noktalarını bulun. En yüksek tepe noktasının oluşmasından bir saat önce ve bir saat sonra en yüksek 
+tepe noktası olan tüm büyük tepe noktalarını bulun ve en yüksek tepe noktasının oluşmasından bir saat sonra en yüksek tepe noktası olan 
+tüm büyük tepe noktalarını bulun. (Bu noktaları hızlı bir şekilde bulmanıza yardımcı olacak bir "show-me" var.)
+Yüksek/düşük, bir saat boyunca yüksek/düşük olarak tutunana kadar bir İngiliz Referans Noktası olmayacaktır. 
+Yüksek veya düşük nokta bir İngiliz Referans Noktası olarak nitelendirildiğinde, fiyat bunun ötesine geçebilir, 
+ancak 9 tik veya daha fazla değil. Fiyat İngilizin sadece birkaç tik ötesine geçerse, hala sağlamdır. Ve eski bir 
+Destek veya Direnç noktası birkaç kez test edildiğinde ve çok fazla aşılmadığında daha da güçlü hale gelir. 
+Ancak her aşıldığında ve yeni nokta olgunlaştığında (bir saat) yeni İngiliz referans noktası haline gelir.
+Öyleyse bir zirve bulun ve şunu sorun: "Bu zirve oluşmadan önceki son saatte daha yüksek bir zirve oldu mu?" ve "Bu zirve 
+oluştuktan sonraki saatte daha yüksek bir zirve oldu mu?" Eğer olmadıysa, bu bir İngilizce Referans Noktasıdır.
+Yani en azından bir saat boyunca en düşük dip olan bir DÜŞÜK tespit ediyoruz. Bu henüz bir İngiliz değil. Bir 
+saat sonra geriye baktığımızda DÜŞÜK'ümüz aşılmamış. Artık bir İngiliz Referans Noktası. Bir fiyat hareketi 
+geliyor ve DÜŞÜK'e dokunuyor ancak aşmıyor. İngiliz hala sağlam. Şimdi yeni bir hareket fiyatın DÜŞÜK'ün 12 
+tik (60 puan) altına inmesine neden oluyor. İngiliz başarısız oldu. Şimdi bir saat önce en düşük dip olan yeni bir 
+düşük var, bu yüzden uygun olup olmadığını görmek için bir saat daha bekliyoruz... ve benzeri.
+Bazen fiyatlar İngiliz Referans Noktasının gerisinde kalır veya Fail Noktasının bir veya iki tik ötesine geçer. 
+Bu durumda, hala geçerli bir sinyal olabilir. Aşağıda, Fail Noktasına ulaşılmasına rağmen fiyatların tersine 
+döndüğü, onay olmadan bir İngiliz Satış örneği verilmiştir.
+SP6M 29/03/96 15:15 Bu klasik bir İngiliz Satış sinyaliydi. Sattık ve stop loss'umuzu İngiliz başarısızlık noktasının 
+1 tik (1t) ötesine koyduk. Saat 15:35'te fiyat STOP LOSS noktamıza kadar geldi, bizi alt etti ve ardından güçlü bir 
+OB'de kapandı. OB o kadar güçlüydü ki tekrar sattık ve... BINGO! Vahşi bir 600 puanlık düşüş yaşadık.
+İngiliz pozisyonunda Stop Loss noktası, başarısızlık noktasının 1t ötesindedir.....Ama bu güçlü bir işlem sinyalidir..
+Dış Bar (OB)
+Outside barlar hakkında gerçek bir gizem yoktur... bu, önceki bardan daha yüksek bir yüksek ve daha düşük bir düşük olan 
+bir Bardır. Çok güçlü bir sinyaldir. Ancak doğru yerde olmalıdır... Fiyat dip yaptığında ve geri dönüş çubuğu, en yüksek 
+seviyesinde veya yakınında kapanan bir OB olduğunda, bu çubuğun en yüksek seviyesinin en düşük seviyeden önce 
+aşılması olasılığı %90'dan fazladır. (Tersi de doğrudur). Ancak bu çubuk en düşük seviyesinde kapanırsa
+orta noktada hiç sinyal olmayabilir.
+Bir OB orta harekette meydana geldiğinde, pozisyonunuza eklemek ve TRAILING STOP stop'unuzu yakına 
+çekmek için harika bir yerdir. Fiyat hareketi tersine dönerse ve bir OB'nin diğer ucunu alırsa... orada bir mesaj 
+vardır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Boğa Yutan Bar (BEB) -- Ayı Yutan Bar (BrEB)
+Önceki çubuğun gövdesini kaplayan veya yutan bir gövdeye sahip bir çubuğa Yutan Çubuk denir. Bu 
+gerçekleştiğinde, özellikle bir hareketin başlangıcına yakın olduğunda, genellikle bir giriş sinyalidir.
+"Yutan" terimini, bar o kadar güçlü olduğunda ve gövdesi üç veya daha fazla önceki barın kapanışını kapladığında ve 
+kapanışlarının ötesinde kapandığında kullandım ve hala kullanıyorum. Bu çok güçlü bir sinyal veya bardır ve trendle 
+uyumluysa giriş yapmaya değer. Erken yakalanırsa, genellikle her iki yönde de kısa vadeli karlar üretecektir. Keşke bunun 
+için daha iyi bir isim olsaydı....
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Kutsal Kase
+14 periyotlu bir ADX ve 20 periyotlu bir Üstel Hareketli Ortalama (MA) kullanarak başlayın. Bu araçların ikisi de ilk 
+kurulumunuzdadır. ADX'i izlemenin birkaç yolu vardır. Ayrı bir grafikte, bir gösterge olarak veya Grafik Durumu 
+Penceresinde. Birkaç ay önce ADX'i ana grafiğimin 1. alt grafiğinde görünür bir gösterge olarak açtım. İzlemesini 
+daha kolay buldum. Siyah bir arka plan üzerinde koyu kırmızı renkte, bu yüzden orada ama rahatsız edici değil.
+Aranacak ilk koşul, güçlü bir trendi gösteren 30'un üzerinde bir ADX'tir. Trend aşağı doğruysa, fiyat 
+hareketi MA'nın altında olacaktır. Fiyat ters bir trendde hareket edip MA'nın üzerinde kapanırsa HG 
+kurulur. Satış sinyali, fiyatın MA'nın altına geri kapanması olacaktır. Street Smarts'ta koşullar aynıdır 
+ancak kurulum, ilk çubuğun MA'ya "dokunduğu" zamandır ve Sinyal, MA'ya ilk dokunan çubuğun 1t 
+altında satış yapmaktır. Her iki durumda da STOP LOSS noktanız MA'nın üzerindeki yüksek noktanın 
+üstünde olacaktır.
+Trend Yukarı ise tersi de geçerlidir.
+İşleminizde LRS'nin olması o kadar önemli değildir, ancak tüm göstergelere karşı hareket etmekten kaçınmak akıllıca 
+olacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Spike ve Tıkanıklık
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+4. Bar..
+Ekli grafikteki (örnek 1) önceki 4 kapanışın üstünde veya altında kapanan "ilk" olan tüm 
+çubuklar oklarla işaretlenmiştir. Pratik amaçlar için bunlar "sinyal çubukları"dır. Ancak 
+birkaç faktör sizi "tüm" bu sinyallere girmekten alıkoyabilir.
+A. Daha önce o yönde bir giriş vardı.
+B. Göstergeler teyit etmiyor.
+C. Güçlü bir eğilimin tersinedir.
+Bu olumsuzlukların yokluğunda 4. Ölçüye giriş geçerli bir Sinyaldir.
+sıkışıklıktan çıkış yolumu veya bir Break Out barı tanımlayın. Break Out barı, "sıkışıklıktan çıkış 
+yolunuzu bulma"nın başka bir yoludur.
+"4. Bar"ı bulmak için kullanıyorum
+4. Çubuk herhangi bir zaman dilimindeki grafiklerde geçerlidir.
+Eklenen ekteki grafikler, Kırılmayı bulmak için kullanılan 4. Çubukları göstermektedir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Örnek 1
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Bölüm 4
+Sipariş, Öğle Yemeği, BEK, Delta
+Giriş siparişinin nasıl ve ne zaman verileceği.
+Metnin başka bir yerinde önerdiğim gibi, harekete geçmeden önce mevcut barın kapanmasını bekleyin. Yani girmeden, bir stop 
+hareket ettirmeden, kurtarmadan veya başka bir şey yapmadan önce. Barın kapanması için zaman tanıyın.
+Ancak bar beklediğim giriş sinyalini oluşturmaya başladığında, harekete geçmeye hazırım. Bilgisayarımın yanında, 
+saniye koluyla birlikte büyük bir saat var. Bar oluşumunun son dakikasına geldiğinde her şeyi hazırlarım. Eğer bu 
+yapmak üzere olduğum bir giriş emriyse, Stop Loss noktamın nerede olduğunu zaten biliyorum, bu yüzden bu Ticaret 
+Kaydımda yazıyor.
+Dakikanın sonundan 20-25 saniye sonra telefonu çeviriyorum (otomatik tekrar arama) ve broker'ım 2 zil 
+sesi içinde cevap veriyor. O noktada Stop Loss noktamı Ticaret Kaydıma zaten yazmış oluyorum. Ve bar 
+kapandığında, çukurun Evet Arthur diye cevap verdiğini duyuyorum (sonra son alış ve satış teklifini 
+tekrarlayacak). Şimdi barın kapanışına bakıyorum ve fiyat Grafik Durumu penceremde. Barın kapanışı ile 
+emrim arasında sadece saniyeler var... "3 Al, Piyasa"... (Bu
+S&P çukuru ve broker, Bellies veya Beans satın almadığımı biliyor... ayrıca mevcut sözleşmeden bahsettiğimi de biliyor.) 
+Emrimi tekrarlıyor, Ve sonra birine bağırıyor ve el işaretlerinin Satın Alma emrini gösterdiğini hayal edebiliyorum. Bir 
+doldurma için tutuyorum ve o birkaç saniye içinde hedeflerimi zihnimde hesaplıyorum. Telefonda doldurmayı 
+duyuyorum ve sadece fiyatı tekrarlıyorum, Sonra, DURDURMA ZARARI emrimi ve hedef emirlerimi veriyorum, yani OK... 3 
+xxx.xx sat
+Dur, 2 xxx.xx MIT al. Tekrar ediyor, her siparişi onaylıyorum ve telefonu kapatıyorum.
+Erken bir sinyal almak için 1 veya 2 dakikalık grafikler kullanan teknikler var, ancak sinyalinizi almak için bir 
+dakikalık bir çubuk kullansanız bile, çubuğun kapanmasını beklersiniz ve kapandığı anda hala siparişiniz hazır 
+olur...
+Fiyat Çubuğunun Özellikleri
+Herhangi bir barın dikkat edilmesi gereken beş özelliği vardır. Bu gerçekler, takip edilecek bar hakkında size çok 
+şey anlatacaktır. Bu özellikler, bar süresinden (1 dakika veya 1 ay) bağımsız olarak geçerlidir.
+1.
+2.
+3.
+4.
+5.
+Yükseliş, son yükselişten daha mı yüksek, yoksa daha mı alçak?
+En düşük seviye, son en düşük seviyeden daha yüksek mi yoksa daha düşük mü?
+Kapanış açılıştan yüksek mi, düşük mü?
+Barın kapanışı orta aralıktan yüksek mi yoksa düşük mü?
+Kapanış, son kapanıştan daha yüksek mi, daha düşük mü?
+Şunu düşünün... Bir önceki çubuğa kıyasla bir çubuk: daha yüksek bir yüksekliğe 
+sahip olduğunda
+daha yüksek bir alçak
+kapanışı önceki kapanıştan daha yüksek. 
+kapanışı açılışından daha yüksek
+kapanışı kendi orta noktasından daha yüksek
+Bu doğrulanmış bir yukarı çubuktur. (tersi de doğrudur)
+(HH)
+(H.Ü.)
+(ÇHC)
+(ÇÖ)
+(ÇM)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Pivot Noktaları
+Pivot noktalarını aşağıdaki şekilde hesaplayın:
+Pivot noktası (A) = (H+L+C)/3 
+Yeni Yüksek = (A*2)-L
+Nu-Hi veya İç Yüksek 
+Yeni Düşük = (A*2)-H 
+Nu-Lo veya İç Düşük
+Yüksek Yüksek = (A+NH)-NL veya Hi-Hi veya Dış Yüksek 
+Düşük Düşük = A- (NH-NL) veya Lo-Lo veya Dış Düşük
+veya
+veya
+H = dünün en yükseği L 
+= dünün en düşüğü C = 
+dünün kapanışı
+Bu pivot noktaları birçok kişi tarafından kullanılan günlük Destek ve Direnç bölgelerini sunar ve fiyat hedefi ve yön 
+referansı olarak kullanılabilir.
+Bunları Çalışma Sayfanızda hesaplayın veya bir gösterge kullanarak grafiklerinize çizin.
+Yarın için Tahmini Yüksek/Düşük
+Tom DeMark'ın Yöntemi
+Aşağıda, yarın için yüksek ve düşük fiyatı tahmin etmek için formüller bulunmaktadır. Bu formüller Tom 
+DeMark'ın The New Science of Technical Analysis kitabının 193-195. sayfalarından alınmıştır. Bu kitap önerilen bir 
+okumadır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Bu hesaplamalar ticari amaçlı değildir, ancak yarının en yüksek ve en düşük seviyelerine ilişkin makul 
+tahminler oluşturmak için kıstas olarak kullanılabilir.
+Bu formülleri doğrudan günlük Çalışma Sayfanıza yerleştirebilirsiniz. Aralık adlarını kullanarak değerleri şu şekilde 
+adlandırın:
+Dünün En Yüksek=H
+Dünün En Düşük Değeri=L
+Dünün Kapanışı=C
+Dünün Açık=O
+Eğer dünkü kapanış açılıştan düşükse, o zaman yarının en yükseği = 
+(H+L+C+L)/2) -L
+Eğer dünkü kapanış açılıştan büyükse, o zaman yarının en yükseği = 
+(H+L+C+H)/2) - L
+Eğer Kapanış = Açılış ise, Yarının En Yüksek Değeri = (H+L+C+C)/2) - L
+Yarının en düşük değerini hesaplamak için aynı formülleri kullanın ancak her seferinde en düşük değer yerine en yüksek değeri 
+çıkarın. Lotus 123'te mantık şu şekildedir:
+Yarın için Tahmini Yüksek @IF(C<O,((H+L+C+L)/2)-L,@IF(C>O,((H+L+C+H)/2)-
+L,((H+ L+C+C)/2)-L))
+Yarın için Tahmini Düşük @IF(C<O,((H+L+C+L)/2)-H,@IF(C>O,((H+L+C+H)/2)-
+H,((H +L+C+C)/2)-H))
+Alternatif Yöntem
+Benim görüşüme göre, Tom DeMark'ın yönteminden daha güçlü projeksiyonlar sağlayan formüller var ancak 
+bunlar her gün ilk ve ikinci işlem saatinin kapanışına kadar projeksiyon yapılamıyor.
+Bu yöntemleri bana hocam BEK verdi.
+Günlük Projeksiyonlar
+Bu projeksiyonlar şu şekilde çalışır: Aşağıdaki üç değerin her birinin %80'ini hesaplayın:
+Dünün Aralığı = YR (Aralığı bul, en düşük değeri en yüksek değerden çıkar) 3 
+günlük ortalama aralık = 3R 10 günlük ortalama aralık = 10R
+Daha sonra ilk saatin sonunda, günün şu ana kadarki en yüksek ve en düşük seviyelerini bulun.
+Üç değerin her birini (YR, 3R,. ve 10R) ilk saatlik düşük değere ekleyerek, üç tahmini yüksek değer bulacaksınız. 
+Bunlar, günün yüksek değerinin oluşmasının beklenebileceği bir aralığı temsil eder.
+Üç değerin her birini (YR, 3R ve 10R) ilk saatlik yüksekten çıkararak, üç tahmini düşük bulacaksınız. Bunlar, 
+günün düşük seviyesinin oluşmasının beklenebileceği bir aralığı temsil eder.
+Aynı şeyi ikinci saatin sonunda da yapın. Zamanın %80'inden fazlasında günlük yüksek veya düşük ilk 
+iki saatte ayarlanacaktır. Böylece diğerini yansıtmış olacaksınız.
+Haftalık Projeksiyonlar
+Haftayı 3 şekilde öngörüyorum:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+A.
+Haftanın aralığının eksi %80'i = Tahmini düşük
+Haftanın Kapanış Fiyatı artı geçen haftanın aralığının %80'i = Tahmini yüksek .. Haftanın Kapanış Fiyatı
+B.
+3 haftalık ortalama aralık = Tahmini Düşük
+Bugüne kadarki haftalık en düşük artı 3 haftalık ortalama aralık = Tahmini en yüksek Bugüne kadarki haftalık en yüksek eksi
+C. BEK projeksiyonu (en doğru)
+Haftanın ilk 2 gününün en yükseği, 3 haftalık ortalama aralıktan çıkarıldığında = Haftanın en düşüğü 
+Haftanın ilk 2 gününün en düşüğü artı 3 haftalık ortalama aralık = Haftanın en yükseği
+Aylık Projeksiyonlar
+A. Geçtiğimiz ayın en düşük seviyesi artı 3 aylık ortalama aralığının %80'i = Tahmini en yüksek seviye 
+Geçtiğimiz ayın en yüksek seviyesi eksi 3 aylık ortalama aralığının %80'i = Tahmini en düşük seviye
+B.
+düşük tarih artı 3 aylık ortalama aralık = Tahmini yüksek
+Ay başından bu yana en yüksek eksi 3 aylık ortalama aralığı = Tahmini en düşük Ay başından bu yana
+Hiçbir tahmin yöntemi kesin sonuç vermez, ancak bu yöntemler, size bazı içgörüler kazandıracak ve fiyat hareketi 
+beklentilerinin bazı seviyelerini belirleyecek tahmin formülleri geliştirmek için başlangıç   noktasıdır.
+Delta Dönüşleri
+Her günün özel bir fırsat barındırdığı ve günün belirli saatlerinde (güne bağlı olarak) piyasanın belirli bir 
+şekilde davranacağı yönünde bir teori var. Sanırım bu bilgiyi yayınlayan ve günün saatlerine "Delta 
+Dönüşleri" adını veren Welles Wilder'dı (WW). Akıl hocam (BEK) bu kavramı araştırdı ve kendi dönüşlerini 
+ortaya çıkardı.
+Bu bir işlem sistemi değil, piyasanın belirli bir zamanda yönünü değiştireceği, değiştirebileceği, değiştirebileceği veya belki 
+de değiştireceği uyarısıdır. Sadece S&P'deki dönüşleri kullanmış olsam da, bunların tüm piyasalarda işe yaradığına 
+inanıyorum. Bu dönüşlerin iyi yanı, şaşırtıcı derecede doğru olmalarıdır. Ancak, dönüşleri kullanmanın koşullarından biri, 
+belirtilen zamandan 45 dakika önce veya 45 dakika sonra gerçekleşebilmeleridir. 15 dakikalık grafiklere bakarsanız, 
+dönüşlerin çoğunlukla belirtilen zamandan 15 dakika sonra gerçekleştiğini göreceksiniz.
+İlk dönüşleri kullanmaya başladığımda BEK'in zamanlarını kullandım. BEK'in bana WW'nin zamanlarını öğrendiğini 
+söylemesi birkaç yıl sonraydı. Bildiğim kadarıyla, aşağıdaki dönüşler WW tarafından geliştirilenlerdir.
+Günler renklerle tanımlanır ve dört renk adı haftada yedi gün çalışır. Bu nedenle, takibinizde, bir pazar 
+günündeki dönüşleri belirlemek için haftanın her gününü kullanırsınız. Tüm zamanlar Doğu Saat Dilimi'dir ve 
+Gün Işığı veya Standart saat için hiçbir değişiklik yapılmaz
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+WW Sıralaması:
+Kırmızı Günler - 10:00, 12:40, 15:40 Mavi 
+Günler - 10:40, 15:00
+Turuncu Günler - 10:20, 15:20 Yeşil Günler 
+- 11:00, 13:00, 15:20
+BEK Dönüşleri:
+Kırmızı Günler - 09:45, 11:45, 13:15, 15:15 Mavi 
+Günler - 10:30, 12:00, 15:15 Turuncu Günler - 
+10:30, 13:00, 14:45 Yeşil Günler - 11:00, 13:15
+Kendi takviminizi oluşturabilmeniz için geçmişe yönelik referans noktaları şunlardır:
+Renk Referans Noktaları:
+1 Nisan 1996
+2 Nisan 1996
+3 Nisan 1996
+4 Nisan 1996
+5 Nisan 1996
+6 Nisan 1996
+7 Nisan 1996
+Mavi
+Turuncu
+Yeşil
+Kırmızı
+Mavi
+Turuncu
+Yeşil
+8 Nisan 1996
+9 Nisan 1996
+10 Nisan 1996
+Kırmızı
+Mavi
+Turuncu
+ve benzeri...
+Aşağıda G1 hücresinde bulunan tarihin rengini hesaplamak için Excel tablosunda 
+kullanılacak formül yer almaktadır.
+=EĞER(MOD(G1-"4/4/96",4)=0,"Kırmızı Gün",EĞER(MOD(G1-"4/5/96",4)=0,"Mavi Gün",EĞER(MOD(G1- 
+"4/6/96",4)=0,"Turuncu Gün",EĞER(MOD(G1- "4/7/96",4)=0,"Yeşil Gün","")))) Bu formül Glenn Pederson tarafından 
+üretilmiştir ve sizin de kullanıyor olabileceğiniz Excel elektronik tablosunda yer almaktadır......
+Hem WW hem de BEK Turns'ü kullanıyorum ve her ikisinde de değer buluyorum. TradeStation'da Turn zamanında ve Turn zamanında 15 
+dakika önce sinyal veren alarmlar çalıştırıyorum. Bu teoride değer bulacağınızı düşünüyorum ancak bunun bir trading sistemi olmadığını 
+unutmayın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Trend Çizgileri ve Üçgenler
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+New York'ta Öğle Yemeği
+New York'ta öğle yemeğine ben derim
+Yapılacak şey, geri dönüp bu süre zarfında S&P hareketine bakmaktır. Bazen durgundur ve bazen de CME'deki 
+yerel yatırımcılar fiyatı dolaştırmayı sever. Çok fazla kez bir pozisyona kandırıldım ve hiçbir sonuç alamadım. 
+Unutmayın, siz ve ben, diğer yatırımcılar olmasaydı fiyatın hemen hemen her şeyi yapmasını sağlayabilirdik. 
+Dolayısıyla piyasa zayıfladığında, CME'deki bir avuç yerel yatırımcı size ve bana zor zamanlar yaşatabilir.
+(NYSE) öğlen 12:00 civarından öğleden sonra 1:20-1:30 civarına kadar. En iyi şey
+Tam öğle yemeğinde her şeyin düz olacağını düşündüğünüz anda gerçek bir hareket başlayabilir, ancak 
+unutmayın, HER ZAMAN en uygun olasılıklara bakıyoruz. İstisnalar dışında hiçbir şey kesin değildir!
+Bu arada, NYSE'deki etkili kişiler borsa katlarındaki yatırımcılar değil, büyük fon yöneticileridir.
+Öğle yemeği konusunda katı kurallara uymuyorum... Bazen öğle yemeği sırasında işlem yapıyorum, bazen 
+yapmıyorum. dikkat...
+Sadece öde
+125 (1325) seviyesindeki kırılmaya dikkat edin, bazen yanlış olabilir...Dikkatli olun.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Para Yönetimi
+SADECE bir sözleşme ile her iki yönde (trend hareketi ve karşıt trend hareketi) işlem yaparak para kazanmak çok 
+zordur. Bir sözleşme ile işlem yaparken sadece mümkün olan en iyi sinyali beklemeli ve sonra maksimum karı elde 
+etmelisiniz.
+Üç sözleşmeyle giriyorum, 40 veya daha fazla puanlık bir hedefte ikisini iptal ediyorum ve sonra son sözleşmeyi 
+uzun vadede çalıştırıyorum. Yani, örneğin, üç sözleşmeyle bir karşı trend hareketine girersem, 50 puanda ikisini 
+iptal edersem, son sözleşmede takip eden stop emrimi eşitliğe taşırsam ve durdurulursam, 100 puanım olur. 
+Harekete bir sözleşmeyle girerseniz ve fiyat 50 puan hareket ederek takip eden stop emrinizi eşitliğe taşımanızı 
+ister ve durdurulursanız, SIFIR olur. Takip eden stop emrinizi eşitliğe taşımak için 100 puan beklerseniz, yine de 
+SIFIR'da durdurulabilirsiniz.
+Hedefler
+En iyi sonuçlar için, birden fazla sözleşmeyle işlem yaparken, trendin gücünü değerlendirin ve belirli bir hedef fiyattan bir 
+veya daha fazlasını çıkarın. Geriye kalan sözleşme(ler)deki takip eden stop'u eşitliğe getirmeden önce giriş noktanıza yakın 
+geri çekilme tamamlanana kadar bekleyin. Daha sonra, mümkün olan en kısa sürede, karları kilitlemek için takip eden 
+stop'unuzu hareket ettirin.
+Dikkate alabileceğiniz genel bir kural var... STOP LOSS'unuzu Break Even'a taşımadan önce, fiyatın 
+başlangıç   riskinizin 2,5 katına çıkmasını bekleyin... Bir KARŞI TREND HAREKETİNDE, unutun gitsin.
+Yani giriş yapıyorsunuz, ilk STOP LOSS'unuz 95 puan uzaklıkta... Bu yüzden STOP LOSS'unuzu Break Even'a 
+taşımadan önce fiyatın giriş noktanızdan 190 puan uzaklaşmasını bekleyin.
+Bir trend hareketinde bu işe yarar, ancak kuralı kendi tarzınıza uyacak şekilde değiştirmek isteyebilirsiniz...
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Zararı Durdur (SL) Atama
+Öncelikle, herhangi bir işlemin girişinde piyasanın işlemimize karşı dönmesi durumunda kabul edeceğimiz maksimum kaybı 
+belirlememiz gerektiği konusunda anlaşalım. TREND TURN giriş sistemini takip ediyorsanız, ilk destek veya direnç çizgisi bir 
+satın alma sinyalinde Referans çubuğunun hemen altında veya bir satış sinyalinde Referans çubuğunun hemen üzerindedir.
+"Somewhere" ne anlama geliyor? Bir zamanlar stop emrim olarak bir tick kullanıyordum. Sonra fiyatın stop emrimdeki yerleşim 
+noktasına çok sık geri döndüğünü gördükten sonra, stop emrimi üç tick'e taşıdım. Şimdi fiyatın zaman zaman stop emrime geri 
+döndüğünü gördükten sonra, aksi yönde bir şey söylemediğim sürece 5 tick kullanıyorum ve nedenini de söyleyeceğim.
+Riske dayanamıyorsanız, işleme girmeyin. Önemli olan nerede olduğu değil. Stop'unuzu daha yakına yerleştirirseniz, 
+sadece diğer yatırımcılara paranızı vermiş olursunuz.
+Ancak diğer koşullar bilinmeden böyle bir kuralın pek bir değeri yoktur:
+Trend ne yönde?
+Referans çubuğu ne kadar 
+uzun? ADX ne kadar güçlü?
+RSI veya diğer indikatörlerde güçlü bir ayrışma var mı?
+Referans çubuğunun en üst/en alt noktası günün en yükseği mi yoksa en 
+düşüğü mü? Giriş fiyatından potansiyel stop yerleştirme alanına kadar kaç 
+puan var?
+Bu kadar riske dayanabilir misin?
+Çok fazla değişken olduğu için stop loss pozisyonunun tam olarak ne olacağını önceden bilmek zordur.
+Eğer trende göre işlem yapıyorsanız ve diğer indikatörlerden de teyit alıyorsanız üç tick yeterli olacaktır ancak şu pratik 
+kuralları deneyin.
+İşlem düşük olasılıklı ve yüksek riskliyse 1 tik kullanın İşlem 
+yüksek olasılıklı ve düşük riskliyse 3-5 tik kullanın BEK işlemlerinde 
+sinyal çubuğunun üstünde/altında 1 tik kullanın
+1-2-3 işlemlerinde trendle birlikte 3-5 tick kullanın
+İngilizce işlemlerde, İngilizce başarısızlık noktasının ötesinde bir tik kullanın.
+Bunu bilmenin en iyi yolu deneyimlemektir. Bu durumlarda S&P'den bahsediyoruz. Stop'un ne kadar uzağa 
+yerleştirilmesi gerektiğini bilmek için diğer piyasaların incelenmesi gerekecektir.
+Takip Eden Durdurmalar (TS)
+Stop loss'unuzu takip eden bir stop'a taşımanın temel amacı, karı kilitlemek veya bir eşit noktaya geçmektir. 
+Takip eden stop yerleştirme, herhangi bir kuraldan daha çok yatırımcının kar hedefleriyle ilgilidir. Ayrıca, T/S 
+yerleştirmede mevcut piyasa koşulları dikkate alınmalıdır.
+Öncelikle bazı fikirleri (her zaman kuralları değil) tartışalım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+100 Noktalık Takip Durdurma
+Söylediğiniz şey, piyasaya hareket etmesi için 100 puan VERECEĞİNİZ. Fiyatın stop'unuzu almak için 100 
+puan geri çekilmeyeceğine inanıyorsunuz. Çünkü piyasanın bu harekette ne kadar hareket ettiğini 
+bilmiyorsunuz ve son 100 kar puanına ihtiyacınız yok, sadece PİYASAYA HAREKET ETME ALANI 
+VERECEKSİNİZ.
+Fiyat bar başına 300 puan hareket ediyorsa, 100 puan yeterli alan mıdır? Eğer günlük sevgiliniz son 100 
+puanla karşılaşırsa, 100 puan çok mu fazla?
+Yani 100 puanlık "kural" uygun olabilir veya olmayabilir. 200 puanlık 7. 
+veya 8. barda son 4-6'yı görürsem, alabildiğim kadarını alıyorum.
+"tükenme" çubuğu. Piyasanın hareketini değerlendirmek, tüccarın işidir. Bir takip eden durdurmayı hareket ettirmek, en büyük 
+zorluktur. Bazıları bunun bir sanat biçimi olduğunu söyler.
+( 5 dakikalık) 50 puanlık barlar döner
+Birini söylemek o kadar da zor değil
+Bir Dakikalık Barlar
+PİYASA YUKARI TREND OLDUĞUNDA (ADX 30'un üzerinde) sizi daha uzun süre bir işlemde tutacak bir TRAILING 
+STOP yöntemi, 1 dakikalık çubukları kullanmaktır. Bir trend hareketine girdiğinizde, 1 dakikalık grafiğe geçin. 
+Fiyatlar yukarı trenddeyse, TRAILING STOP'unuzu son aşağı hareketin üç tik altına yerleştirin, EĞER bir TREND 
+TURN satış sinyali ve ardından bir TREND TURN satın alma sinyali varsa. Oluşan dip, stop'unuz için yerdir.
+Ancak, 1 dakikalık grafiği izlerken 5 dakikalık çubuklar bir satış sinyalini doğruluyorsa ne yaparsınız? 
+Trailing stop yerleştirmenin zorluğuyla ilgili kastettiğim şey budur.
+Piyasa düşüş eğilimindeyse durum tam tersidir.
+Tek oturumlu
+SSO göstergesi aşırı alım bölgesine girdiğinde, en yüksek kapanışa sahip çubuğun bir tik altına takip eden stop 
+emrinizi takip edin. Aynı şekilde, SSO aşırı satım bölgesine girerse, TRAILING STOP emriniz en düşük kapanışa 
+sahip çubuğun bir tik üzerine çıkar.
+Çivili Çubuklar
+Spike çubukları bir hareketin hem başlangıcını hem de sonunu gösterebilir, bu yüzden Spike bir 
+hareketin 5-7. ölçüsünde ortaya çıktığında size bir şey anlatıyor demektir.
+Bir ticarette bu kadar ileri bir noktada bir Spike belirginleştiğinde, bar kapanmadan hemen önce piyasadan 
+çıkıp pozitif kaymadan faydalanmayı önerenler var, yani fiyat hala sizin yönünüze doğru hareket ederken 
+alabildiğiniz her şeyi alın. Fiyatın aleyhinize dönmesini beklerseniz, kayma size kesinlikle daha pahalıya mal 
+olacaktır.
+Bir hareketin sonlarındaki diken çubukları geri çekilmeyi çeker. TRAILING STOP'umu 150 puanlık bir dikenin altına koydum, fiyatın 
+hareket etmek için bolca alanı olduğuna güvenerek, ancak fiyatın 175 puan geri çekilmesi ve benim stop'umu alması, ardından 
+dönüp birkaç çubuk daha yukarı devam etmesi için. O çubuğun kârının yarısını veya daha fazlasını yakalamış olsaydım kendimi çok 
+daha iyi hissederdim.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Diğer Hususlar
+İşleminiz İngiliz Referans Noktasına yaklaşıyorsa, stop emirlerini sıkılaştırın veya İngiliz Referans 
+Noktasını hedef veya fiyat hedefi olarak belirleyin.
+Unutmayın, İngiliz Referans Noktası BÜYÜK bir destek veya direnç bölgesidir.
+Bir hareket daha yüksek zirvelerle 8. çubuğa veya daha yüksek zirvelerle 8. çubuğa yaklaştığında
+daha düşük dipler, TRAILING STOP'unuzu sıkılaştırmaya başlayın.
+Fiyat "M", "W" veya "baş ve omuzlar" kalıplarının fiyat hedefine yaklaşmaya başladığında, takip eden stop'u 
+sıkılaştırmaya başlayın. Stop'ların iyi performans göstermediği bazı fiyatlar vardır. 654,00 gibi eşit noktalardan 
+kaçının. Fiyat 654,00'ın üzerindeyse, stop'umu 653,85'e koyarım veya karı yakalarım. 653,95, 654,00 kadar caziptir. 
+Ayrıca .50'den (yani 654,50) kaçının. 653,35'i deneyin. Bazıları eşit (654,00), yarım (653,50) ve çeyrek (653,25 veya 
+653,75)'in de cazip olduğunu söyleyecektir.
+Ayrıca, bar kapanana kadar stop'unuzu hareket ettirmeyin. Piyasanın size stop'unuzu nereye 
+koyacağınızı söylemesine izin verin. Temel olarak, piyasanın GİTMEYECEĞİ yer burası olmalı ve eğer 
+GİTTİYSE, FİYATIN DİĞER YÖNE GİTTİĞİ ANLAMINA GELİR.
+Piyasa çok zayıf olduğunda (çok az sayıda yatırımcı), zemin yatırımcıları fiyatı istedikleri yere götürebilirler. Ne zaman 
+zayıftır? Öğle yemeği sırasında, büyük uzun hafta sonları veya tatillerden önceki öğleden sonra ve yarın veya ertesi gün 
+fiyatı ve değeri etkileyecek önemli raporların yayınlanması gerektiğinde.
+15 Mart 1996 Cuma günü, herkes Üçlü Cadı Günü olduğunu biliyordu ve herkes aksiyonun başlamasını bekliyordu. 
+Tüccarlar fiyatı bir saatten fazla bir süre boyunca yukarı aşağı oynattılar. Sonra aksiyon bittikten sonra, Cuma öğleden 
+sonraydı. Büyük hareket gerçekleşmişti, bu yüzden zemin tüccarları fiyatı son bir saat boyunca yukarı aşağı oynattılar. 
+Durdurma yerleştirmesi böyle zamanlarda size pek yardımcı olmayacaktır. Kenara çekilmek en iyisi olabilir.
+Durdurma yerleştirmesi çok fazla değerlendirme gerektirir. İki duygunuz (açgözlülük ve açgözlülük) çatışıyor. Açgözlülük, 
+işlemde kalmak için eylemden yeterince uzak kalmanızı ister. Diğer duygunuz olan açgözlülük, hemen şimdi elde 
+edebileceğiniz tüm karları yakalamanızı ister! Açgözlülüğünüzü kontrol edin ve durdurmalarınızı bulmanıza yardımcı 
+olacak önemli destek ve direnç noktalarını arayın.
+Kar almak ASLA yanlış değildir, ancak bir hareketin sunabileceği maksimum getiriyi elde ederek en iyisini yaparsınız.
+RSI Ayrışması
+Genellikle, bir giriş sinyalinin güçlü bir onayı olabilir. Ayrışmayı doğru sinyalle birleştirin ve kazanma 
+trede'lerinin şansını artırın. İşte bazı örnekler
+RSI ayrışması....
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+Grafikler için KURULUM
+Bu kurulum prosedürlerini gözden geçirmenizi ve başlamadan birkaç gün önce bu grafikleri izlemeye başlamanızı 
+öneririm. Bu kurulum prosedürlerinin tüm piyasalarda iyi çalışacağı konusunda rahat olmanızı istiyorum.
+Aşağıdaki grafikleri bu ayarları kullanarak kurun. Renkleri ben önereceğim, ancak hangi renkleri kullanacağınız tamamen size 
+kalmış. Renk bazında bir çizgiye atıfta bulunduğumuzu görmüyorum. Sadece bir öneri.
+Grafiklerinizdeki tüm saatleri ABD Doğu saat dilimine (NYSE) ayarlayın. Çubukları her zaman SAATLERİ ile tanımlayacağız. 
+Grafiklerimizde aynı saatlere sahip olmalıyız.
+Tüm göstergeleri (Seçenekler) 50 bar geriye ayarlayın ve her tik'i çizin.
+Birincil Grafik
+Beş dakikalık barlar, sadece günlük seans. Ön sözleşme DSP veya SP
+Tüm grafikler mum çubukları olacak. Mum çubukları kullandıysanız, bu yardımcı olacaktır. Bence onları okumanız 
+çok daha kolay olacak. Mum çubuklarını gerçekten umursamıyorsanız bu size kalmış... ancak bu kursta mum çubuğu 
+desenlerine atıfta bulunacağız... bunlardan bazılarını başka hiçbir grafik türünde iyi göremiyorsunuz. Şimdi 
+mumlarınızı yukarı doğru ayarladığınızda yukarı çubukları yeşil ve aşağı çubukları kırmızı yapın. Yön hemen 
+belirginleşir.
+Alt grafik 1
+Kapanışların 20 dönemlik Üstel Hareketli Ortalaması.
+SSO: Aşağıdaki kodu Power Editor'ınıza girin ve buna SSO adını verin. 
+Göstergeyi Ekran'a ölçeklendirin ve varsayılan Girişleri (40,20,80) kullanın.
+Giriş: UZUNLUK(40),ALIM BÖLGESİ(20),SATIŞ BÖLGESİ(80); 
+Plot1(YAVAŞ(UZUNLUK),"Plot1");
+Plot2(ALIM BÖLGESİ,"Plot2"); 
+Plot3(SATIŞ BÖLGESİ,"Plot3"); 
+Eğer CheckAlert ise Başla
+EĞER Plot1, Plot2'nin Üstünü Keserse veya Plot1, Plot2'nin Altını Keserse 
+veya Plot1, Plot3'ün Üstünü Keserse veya Plot1, Plot3'ün Altını Keserse veya 
+Plot2, Plot3'ün Üstünü Keserse veya Plot2, Plot3'ün Altını Keserse O ZAMAN 
+Uyarı = DOĞRU;
+Son;
+LRS: Aşağıdaki kodu Power Editor'a girin ve buna LRS adını verin. 
+Göstergeyi Ekran'a ölçeklendirin.
+Plot1 (LinearRegSlope(Kapat,10),"Plot1");
+Alt grafik 2
+Kapanışların 5 dönemlik RSI'ı (sarı) ve 70 ve 30'da (ayrıca sarı) yatay bir çizgi.
+Alt grafik 3
+MACD'im var... Tek bir çizgi olarak ayarlayın Ayarları 2-5-1 olarak değiştirin. 0'da (Sıfır) yatay bir 
+çizgi çizin. Sarı veya seçili grafik arka planınız ile iyi görebileceğiniz bir renk deneyin. Hacim 
+(Tick)'i histogram olarak EKLE. Beyaz veya seçtiğiniz bir renk deneyin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+ADX'i alt grafik 2'ye ekleyin...Ancak ölçekleme altında kullanıcı tanımlı maksimumu 1.0'a ve minimumu 0.0'a ayarlayın, o 
+zaman çizgi alt grafiğinizde gösterilmez ancak değeri Grafik Durumu pencerenizde bulabilirsiniz. Ayarlar 14 nokta. (son 
+zamanlarda ADX'i koyu kırmızıyla alt grafik 1'e koydum. Orada ve yükseliyor mu yoksa düşüyor mu anlayabilirsiniz ancak 
+karmaşaya katkıda bulunmaz.)
+Piyasa çok yavaşladığında veya daha yakın STOP LOSS noktaları bulduğunuzda kullanmak için 5 dakikalık grafikte olduğu gibi 2 
+veya 3 dakikalık bir grafik de ayarlayabilirsiniz.
+Bir Dakikalık Grafik
+Ayrıca indikatörsüz bir dakikalık grafik de kurun. Bunu, takip eden stopları (TS) hareket ettirmek için kullanacağız.
+Trend Takip Grafikleri
+Günlük (405 dakika), 60 dakika, Bunları LRS veya SSO olmadan ayarlayın.
+Alt Grafik 2'ye RSI'yi ekleyin.
+Alt Grafik 3'te MACD'yi TradeStation Varsayılan ayarlarıyla ekleyin.
+MACD'de MADiff'i bir histogram, MACD'yi düz bir çizgi ve MACDavg'yi noktalı bir 
+çizgi haline getirin.
+bu kurulumu kullan. (varsayılan ayarlar)
+(renkleriniz)
+Hızlı Ma
+MACD'yi her kullandığınızda
+12, YavaşMa 26, MACDMA 9
+15 dakikalık grafikler
+Birincil Harita ile aynı şekilde kurulur.
+60 Dakikalık Grafik
+alt grafik 1'de
+Alt grafik 2'de
+alt grafik 3
+Fiyat, birincilde olduğu gibi EMA ve 
+LRS RSI'yi engelliyor
+MACD yukarıdakiyle aynı.
+KONTROL grafiği...
+Alt grafik 1
+Alt grafik 2
+TICK üzerinde yatay çizgiler çizin
++ 600, +400, 0, -400, -600, -800
+Fiyat çubukları
+TICK (Kapanışta çizgi)
+EMA'lı haftalık ve aylık grafikler.
+Bu grafikleri trendi (uzun ve kısa vadeli) takip etmek için kullanacağız.
+Temeller Sayfası... Buna temeller diyorum çünkü bu dış etkidir. Tüm bu 
+çizelgeleri tek bir sayfada toplayabilir misin bir bak.
+Hazine tahvillerinin ön sözleşmesi. Gösterge yok.. Tahvillerle işlem yapıyorsanız 
+veya halihazırda tahviller için bir sayfanız varsa sorun değil..
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+S&P Cash veya S&P True. Sadece bir EMA, (isteğe bağlı göstergeler)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+DJIA, EMA (isteğe bağlı göstergeler)
+Bu kurulumda zorluk yaşarsanız sorularınızı bana e-posta yoluyla gönderebilirsiniz.
+Çünkü şüphesiz verilerimizi farklı kaynaklardan alacağız, bu yüzden bazı çubuklarda ufak farklılıklar beklemeliyiz. Bu 
+bir sorun değil. Ben bir çubukta sinyal gösterebilirim ve siz göstermeyebilirsiniz. Durum bu.
+Daha önce mum kullanmadıysanız, desenlerini incelemenizi öneririm. 
+Referanslar için "Önerilen Okumalar"a bakın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Günlük Çalışma Sayfanızı Oluşturun
+Bu çalışma sayfasını oluşturacak EXCEL dosyaları size gönderilecek...Bir veya iki gün içinde bekleyin.
+İşlem yaparken elinizin altında olması gereken birkaç gerçek ve hesaplama vardır. Bunu yapmanın en iyi yolu, her 
+işlem gününde kullanacağınız bir Çalışma Sayfası oluşturmaktır. Çalışma Sayfanızı nasıl düzenleyeceğiniz size 
+kalmış. İşte sakladıklarım. Daha fazla veya daha az bilgiye ihtiyacınız olabilir.
+1. İşlem gören sözleşme için dünkü OHLC (yani SP6H)
+2. Dünün Nakit HLC'si
+3. İşlem gören sözleşme için bugünün OHLC'sini kaydetmek için boş alan
+4. Bugünün Nakit HLC'sini kaydetmek için boş alan
+5. Dünün aralığı
+6. Üç günlük ortalama aralığı
+7. On günlük ortalama aralığı
+8. Dünün aralığının %80'i için hesaplamalar
+9. Üç günlük ortalama aralığın %80'i için hesaplamalar
+10. On günlük ortalama aralığın %80'i için hesaplamalar
+11. Dünün aralığının %80'ine dayalı olarak bugünün HL'sini yansıtmak için alan
+12. Üç günlük ortalama aralığın %80'ine dayalı olarak bugünün HL'sini tahmin etmek için alan
+13. Bugünün HL'sini on günlük ortalama aralığının %80'ine göre tahmin etmek için alan
+14. Bugünün HL'sini birinci ve ikinci saat için kaydetmek için alan
+15. Geçtiğimiz haftanın HLC'si ve haftanın başından bu yana H ve L
+16. Geçtiğimiz ayın HLC'si ve ay başından bu yana H ve L
+17. Geçtiğimiz haftanın aralığı
+18. Geçtiğimiz ayın aralığı
+19. Bu haftanın bugüne kadarki aralığı (WTD)
+20. Bu ayın bugüne kadarki aralığı (MTD)
+21. Üç haftalık ortalama aralığı
+22. Üç aylık ortalama aralığı
+23. İngiliz destek ve direnç noktaları artı hesaplanan başarısızlık noktası
+24. Pivot noktaları (Pivot, Nu-Hi, Nu-Lo, Hi-Hi, Lo-Lo) _ Çalışma sayfasında hesaplanır ve ardından grafiğe çizgiler 
+yerleştirilir
+Günlük Ticaret Kaydı (DTR)
+DTR hakkında bilmeniz gereken her şeyin faydalı olması için şunlara ihtiyacınız var:
+Fotokopisini çekip kullanabileceğiniz DTR'min bir kopyası ve size nasıl kullandığımı gösterecek örnekler. Kursa başladıktan 
+yaklaşık bir hafta sonra size bunun bir kopyasını göndereceğim. Ancak bu öğeleri aldığınızdan emin olmak için bana bir E-
+posta hatırlatıcısı gönderin. Paketiniz geldiğinde bu bölümü tekrar okuyun. Eğer yoksa size 1 Ağustos 1996'nın Yorumunu da 
+E-posta ile göndereceğim. Birlikte, bu formu nasıl kullandığım konusunda iyi bir fikir edineceğinizi düşünüyorum.
+Benim DTR'mi kullanmanız şart değil. Sizin için en iyi olanı kullanın............
+Tasarladığım formdaki alanlar hakkında biraz açıklama yapmak istiyorum. Kitaplar veya ticaret 
+kurslarıyla birlikte gelen diğer formları kullanmayı denedim ancak istediğim alanlar yoktu ve alanların 
+sırası bir sıranın akması gerektiğini düşündüğüm sırayı takip etmiyordu. Bu yüzden bir ticaret sürecinde 
+verildikleri veya alındıkları gibi gerçekleri baştan sona yazdım ve ardından bilginin temel unsurlarını 
+yakalayacak bir form oluşturmaya çalıştım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+Alan adları
+Zaman........... Zaman için sadece 4 alan var.
+En solda.. Zaman, emrin zamanıdır. Ben grafiğimdeki çubuğun zamanını kullanıyorum.
+bu, emri verdiğim zamandan farklıysa, doldurma zamanıdır. Yani, bir Piyasa emrinde genellikle tuttuğum sürece 
+doldurulurum. Ancak bir Durdur emrinde emir ile doldurma arasında birkaç çubuk olabilir. Genellikle, çağrıyı aldığım 
+zamandan ziyade, durdurmamın vurduğunu gördüğüm çubuk zamanını kullanırım. Sağdaki bir sonraki iki zaman 
+alanı, hedef emrin ve doldurmanın zamanlarıdır.
+Zaman Altında
+Eylem... "Eylem" 3 Al, 1 Sat vb.'dir.
+$... Emrin veya dolumun fiyatı..
+Sıra...
+(OKO),
+"Emir" türü.. yani Durdur, Piyasa, Dokunulursa Piyasa (MIT), Veya Daha İyi, Biri Diğerini İptal Eder
+Piyasa-Kapanışta (MOC).
+Tik.... Bilet numarası.
+Doldurmak... Gerçek dolgunun fiyatı.
+Puan, Brüt, Komisyon vb.
+Her işlem girişinin altında, işlemden elde edilen net kar veya zararı hesaplamak için alanlar ve sol tarafta günlük kümülatif toplamı 
+toplamak için bir alan bulunmaktadır.
+Ve "Tüm emirleri HEMEN temizleyin!" diye büyük bir hatırlatma koydum. Hiçbir şey, brokerınızdan, temizlemeyi başaramadığınız bir 
+emrin doldurulmasıyla ilgili bir çağrı almaktan daha fazla kontrolsüz bir korku yaratamaz.
+Başlarda, benim de başıma böyle bir şey geldi. Bir saatten fazla bir süredir hareketsizdim ve dolgumla bu çağrıyı 
+aldım.....Elbette sesim yedi oktav yükseldi "Hangi sıra??? "
+...bir saatten fazla bir süre önce bir işlemden kurtuldu (çıktı).
+25 dakika boyunca su altında kaldım (zarar gördüm) bir ara 500 doların üzerindeydi, ama çağrıyı aldığımda 250 
+dolar öndeydi...
+Yaptığım ilk büyük hata, kimin haklı olduğunu öğrenebilmek için tüm işlemlerin tam günlük 
+uzlaştırılmasını istemekti. Emri açık bıraktığımı hatırlamıyorum. Bu 20 dakika sürdü. İşlem bu süre 
+zarfında dengeye geri döndü. Sonra yaptığım ikinci büyük hata, işler tekrar kötüye gitmesin diye işlemin 
+altına bir stop koymaktı. İşlem biraz para kaybettirdi, bir felaket değildi ama bir kayıptı..
+Siparişin nerede olduğuna baktığımda, 
+temizleyemediğim bir duraktı.
+Ne yapmalıydım...
+a. Mesleğim hakkında daha iyi bir sicile sahip oldum.
+b. İşlemden çıktığım anda tüm açık emirleri iptal ettim.
+c. Bilinmeyen bir emrin doldurulmasıyla ilgili bilgilendirildiğimde, pozisyondan çıkma 
+emri verildiğinde ve bunun kabul edilmediği ve sorumluluğu alınmadığında. 
+Ses kaydı kimin haklı olduğunu kanıtlayacaktır.
+d. Bilinmeyen bir işlemde asla stop koymayın. Eğer koyarsanız, pozisyonu kendinize aitmiş gibi 
+benimsersiniz. Gerçekten bir broker hatası olabilir.
+Önemli olan iyi kayıtlar tutmak ve TÜM SİPARİŞLERİ TEMİZLEMEKTİR.
+Bir emri temizlediğimde emrimi alan brokerin baş harflerini eklemeyi severim. Ses kaydı nedeniyle gerçekten gerekli 
+değil, ancak kendimi daha iyi hissetmemi sağlıyor. Şu anda birlikte olduğum adamlar iyi. Açık emirlerle bir işlemden 
+çıktığımda genellikle "Yani ### biletini iptal etmek istiyorsunuz" vb. diyorlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+* * * * * * * * * * * * * * *
+1 Ağustos 96 Günlük İşlem Kaydı o güne ait günlüğümdür. (Yorumlara bakın) Fotokopisi daha iyi çekilebilsin 
+diye mürekkeple kopyaladım.
+İlk işlem şu şekilde gerçekleşti. 935 Bu Arthur Buy 3, pazar . 109 numaralı 
+bilette.
+Tamam 642'den 3 tane aldın bile,
+TAMAM !
+111.
+2'yi 642.50'den sat, MIT ve 3'ü 641.25'ten sat, Dur. (emri tekrarlıyor) bu 110 numaralı bilet ve
+Hedefin vurulduğunu görüyorum ve çağrı yapıyorum (şimdi hedefimin vurulduğunu biliyorum, bu yüzden ilk önceliğim takip eden stop emrimi hareket ettirmek),
+Ben) # 111'deki (C&R) iptal et ve değiştir, 1'i 641.70'ten sat, dur. emri 
+tekrarlar, bu yeni bir bilet #117. Senin isteğini yerine getirdim, 2'yi 642.45'ten 
+sattın.
+O)
+Ben) C&R 117'de, 1 642.25'e sat, Dur. (Her zaman siparişimi tekrarlayacak.)
+Me) C&R 117'de, 1'i 645.95'ten sat. 
+doldur..
+ve durağım dolana kadar böyle devam eder, onun aramasını beklerim
+Gördüğünüz gibi, takip eden durdurmalar için daha fazla alana ihtiyaç varsa, sadece aşağıdaki kayda gidiyorum. 
+Aritmetiği yapmak için diğer boş alanlardan bazılarını kullanıyorum. Eğer işler hızlıysa hiçbir şey hesaplamıyorum. Bir 
+durgunluk olduğunda, yetişiyorum.
+DTR'mde kopyalamadığım şey, alt kenar boşluğunda çapraz kontrol için bazı boşluklar var .. tüm puanları ve 
+komisyonları yukarı kaldırın ve sonuçları yeniden hesaplayın. Çapraz kontrol birçok küçük hatayı yakalar.
+Eklemek
+Eğer bu form size DTR'nizi nasıl yapacağınız konusunda fikir veriyorsa, harika.
+Ancak DTR çok kişiseldir ve sizin kendi formunuz benimkinden daha iyi 
+çalışacaktır.
+Hatırlatmayı hatırlayın... Böylece "biz" "benim" unutmamamıza izin vermeyeceğiz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+Ticaret Stili, Yöntemleri ve Felsefesi
+Elbette, tüccarlar kadar çok stil ve yöntem vardır. Ama sadece felsefe olmalı... Kar.
+Benim tarzımı benimsemenizi önermiyorum ancak felsefeniz benimkinden farklıysa tarzımı asla anlayamayabilirsiniz. 
+Bu kursun hedeflerinden biri "anlamanız"dır. Ben onları tanımladığım için sinyalleri takip etmenizi veya körü körüne 
+almanızı istemiyorum. Ancak piyasanın ne yaptığını ve neden bu şekilde işlem yaptığımı anlamanız önemlidir. Daha 
+sonra kendi tarzınızı belirlersiniz.
+Temel öğretim hedeflerim şunlardır:
+A. Birçok farklı "Giriş Sinyali" öğreniyorsunuz Kaç tane? Şu anda en az 12-15 olduğunu düşünüyorum. 
+Ancak kursa 1 - 3 ay katıldıktan sonra 10'unda ustalaşmış ve en az 10'unu daha nasıl kullanacağınızı 
+biliyor olmalısınız.
+B. Kendinizi rahat hissedebileceğiniz hedefler koymayı öğrenin.
+C. İlk Stop Loss noktanızı nereye koyacağınızı ve ardından mantıksal piyasa desteği ve direncini 
+kullanarak Trailing Stop'larınızı nereye ve nasıl hareket ettireceğinizi öğrenin.
+karda.
+ne zaman
+kilit noktaları
+Mevcut becerilerinize, deneyiminize, eğitiminize, çalışmaya ayırabileceğiniz zamana ve mevcut iyi ve kötü 
+alışkanlıklarınıza bağlı olarak bu hedeflere ulaşmak farklı süreler alacaktır.
+Eğer kursa önceden var olan kavramlar, ilkeler ve "Yerleşik kurallar" ile gelirseniz, bu bir mücadele olabilir. 
+Fakat yeni fikirlere açıksanız ve yeni ve belki de farklı yöntem ve teknikleri deneyimlemeye istekliyseniz, 
+herkesin tüm bunları çok az zorlukla kavrayabileceğinden eminim.
+Size yolunuza çıkabilecek sınırlı düşüncenin birkaç örneğini vereyim.
+Ben sadece "iyi" veya "büyük" hareketleri beklemek istiyorum... 
+ve,
+Sadece 300$'lık durakları 
+kullanacağım. ve,
+Sadece bir sözleşme lotu ile işlem 
+yapacağım. ve,
+Günde sadece birkaç (?) kez işlem yapmak istiyorum.
+Eğer bu fikirler zihninizde taşa kazınmışsa, bu kurs sizin en iyi çıkarınıza hizmet etmeyebilir. Fakat diğer 
+fikirlere açıksanız, burada keşfedebileceğiniz fırsatlar var.
+İyi veya Büyük Ticaretler
+Çoğu gün birkaç tane var ancak büyük hareketlerin çoğu ilk birkaç barda diğer hareketler gibi görünüyor. Ancak terimleri 
+yeniden tanımlarsanız ve size para kazandıran bir ticareti İYİ bir ticaret olarak adlandırırsanız. Aynı şekilde düşünüyor 
+olacağız.
+Dolar miktarı durur.
+Piyasa, stopların ne kadar büyük olacağının şartlarını belirler. Ve piyasa, işlem hesabınızın büyüklüğüyle 
+ilgilenmez. Ancak Stop loss noktanızı bir dolar miktarıyla sınırlamak istiyorsanız. Ya çok fazla işlem 
+yapmazsınız ya da diğer yatırımcıların hesaplarına önemli katkılarda bulunursunuz.
+Destek ve direnç alanları, Stop Loss yerleşimini belirleyecektir. Daha büyük büyüklükte hareketlere yol 
+açan belirli sinyalleri ve koşulları tanımanın yolları vardır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+Tek Sözleşmeli Lotlar.
+Tek sözleşme lotları pozisyon ticaretinde iyi çalışabilir. ancak S&P'nin gün içindeki hareketi tek lotluk bir tüccarı 
+büyük bir dezavantajda bırakır. Amacım sizi imkanlarınızın ötesinde olduğunu düşündüğünüz bir şeyi yapmaya 
+teşvik etmek değil. Düşüncenizin kapsamını genişleterek daha önce sadece kayıpların olduğu yerlerde karlı 
+işlemler bulmanızı umuyorum.
+Günlük İşlemleri Sınırlandırma
+Peki sizin için doğru sayı kaç? Ya piyasa size çok daha fazlasını teklif ederse? Seçmek ve tercih etmek 
+zorunda kalırsınız. Bir ticarete girme kararının stresi, başka bir karara yığılmadan yeterince büyüktür .. 
+"Tamam, bu iyi bir giriş sinyali, ama bunu kabul etmeli miyim yoksa geçmeli miyim?" Bu sorunla da 
+başa çıkabileceğinizi hayal edebiliyor musunuz? Gerçek şu ki, daha uzun hareketleri kaçırıp daha kısa 
+olanları alırken, giderek daha fazla cesaretiniz kırılır.
+Sen o zaman
+Fikirlerinizi her gün fiyat hareketinin sunduğu fırsatlara açın ve kendi yolunuza yapay engeller 
+koymaktan kaçının.
+Bu kurs ne kadar risk aldığınızla, ne kadar işlem yaptığınızla veya hatta kaç sözleşmeyle ilgili değildir, fiyat 
+hareketinin size ne söylediğini anlamak ve bunu kendi avantajınıza nasıl kullanacağınızla ilgilidir. Başka hiçbir 
+şey öğrenmeseniz bile, hareketi okumayı ve bundan sonra ne olacağının olasılıklarını anlamayı öğrenin.
+Hedefler ve "Kurtarma"
+Giriş siparişinin nasıl ve ne zaman verileceği.
+Metnin başka bir yerinde önerdiğim gibi, harekete geçmeden önce mevcut barın kapanmasını bekleyin. Yani girmeden, bir stop 
+hareket ettirmeden, kurtarmadan veya başka bir şey yapmadan önce. Barın kapanması için zaman tanıyın.
+Ancak bar beklediğim giriş sinyalini oluşturmaya başladığında, harekete geçmeye hazırım. Bilgisayarımın yanında, 
+saniye koluyla birlikte büyük bir saat var. Bar oluşumunun son dakikasına geldiğinde her şeyi hazırlarım. Eğer bu 
+yapmak üzere olduğum bir giriş emriyse, Stop Loss noktamın nerede olduğunu zaten biliyorum, bu yüzden bu Ticaret 
+Kaydımda yazıyor.
+Dakikanın sonundan 20-25 saniye sonra telefonu çeviriyorum (otomatik tekrar arama) ve broker'ım 2 zil 
+sesi içinde cevap veriyor. O noktada Stop Loss noktamı Ticaret Kaydıma zaten yazmış oluyorum. Ve bar 
+kapandığında, çukurun Evet Arthur diye cevap verdiğini duyuyorum (sonra son alış ve satış teklifini 
+tekrarlayacak). Şimdi barın kapanışına bakıyorum ve fiyat Grafik Durumu penceremde. Barın kapanışı ile 
+emrim arasında sadece saniyeler var... "3 Al, Piyasa"... (Bu S&P çukuru ve broker, Bellies veya Beans 
+almadığımı biliyor... ayrıca mevcut sözleşmeden bahsettiğimi de biliyor.) Emrimi tekrarlıyor ve sonra 
+birine bağırıyor ve el işaretlerinin Al emrini gösterdiğini hayal edebiliyorum. Bir doldurma için tutuyorum 
+ve
+O birkaç saniyede hedeflerimi zihnimden hesaplıyorum.
+fiyat, Sonra ben, STOP LOSS emrimi ve hedef emirlerimi, yani xxx.xx MIT'yi 
+yerleştiriyorum. Tekrar ediyor, her emri onaylıyorum ve telefonu kapatıyorum.
+Telefonda dolguyu duyuyorum ve sadece tekrar ediyorum
+Tamam... 3 xxx.xx Sat, Dur, 2 Al
+Erken bir sinyal almak için 1 veya 2 dakikalık grafikler kullanan teknikler var, ancak sinyalinizi almak için bir 
+dakikalık bir çubuk kullansanız bile, çubuğun kapanmasını beklersiniz ve kapandığı anda hala siparişiniz hazır 
+olur...
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+Hedef Belirleme
+İlk 2 sözleşmem için hedefimin ne olması gerektiğini hesaplayabileceğim bir formülüm yok. En azından bilinçli olarak 
+uyguladığım bir formülüm yok. İlk hedefi kullanmaya başladığımda, akıl hocam 40 puan önerdi. Bu yüzden onu 
+kullanmaya başladım. Çok şüpheci olduğumu ve 3-5 aylık bir süre boyunca 40 puanlık hedefi gerçekten etkili olup 
+olmadığını görmek için binin üzerinde kağıt işlemine uyguladığımı hatırlıyorum. 40 puanın bana para 
+kazandıracağından emin olduktan sonra, piyasanın oynaklığına uyması için hedefi değiştirmeyi hiç düşünmeden veya 
+sorgulamadan 40 puan kullanma alışkanlığı edindim. Zamanla, eksik bir şey olduğu ortaya çıktı ve daha uzun hedefler 
+kullanmak için muhakeme kullanmaya başladım. Bunun üzerinde düşünmem gereken bir şeydi, yoksa 40 puana geri 
+düşecektim.
+Daha sonra 50 puana geçtim.
+Hızlı bir şekilde tam bir noktayı kilitlemiş olmam hoşuma gitti. Ama yine de hedefimi pazara uygun hale getirmeyi aktif 
+olarak düşünmeliyim... Bu yüzden rahat olanı yapma alışkanlığı ediniyorum... Giriş yapmak yeterince stresli... Bir hedefin 
+vurulmasını beklerken daha fazla stres istemiyorum. Ama zamanla hedeflerimi ne zaman büyütebileceğimi yargılamayı 
+öğreniyorum.
+benim görüşüm, burası açgözlü olunacak yer değil. 50-100 puanlık makul bir hedef iyi iş görür. Hala açık bir 
+sözleşmem var ve maksimum kar için stop emrimi takip edebilirim....
+"Kar almak hiçbir zaman yanlış değildir" diye düşünüyorum. Hedef çok büyük olursa risk artar.
+Hedefime ulaştığımda, Stop Loss noktamı son sözleşmede Break Even'a taşıyorum ve bunu bar kapanmadan 
+önce yapıyorum... Sonra bar kapandığında, stop'u tekrar taşımak için yer olup olmadığına bakıyorum. Elbette 
+bir sonraki hedef, son sözleşmede de biraz kar elde etmek.
+Birden fazla sözleşmeyle girmenin en büyük tek faydası, neredeyse aynı anda kar elde edebilmektir. Bu, riski büyük 
+ölçüde azaltır. Unutmayın, bir işlemde ne kadar uzun süre kalırsanız risk o kadar artar. Aynı anda 3'üne girdiğimde 
+ve 2'si 5-15 dakika içinde karla çıktığında, işlemim (neredeyse) risksiz bir durumda olur.... Tek bir sözleşmeyle 
+girerseniz, fiyat sadece 50-80 puan hareket ettikten sonra bile zararı önlemek için STOP LOSS noktanızı neredeyse 
+hiç hareket ettirmezsiniz.
+3 kontratla işlem yapmaya başladığınızda (kağıt üzerinde bile) kısa hedefler kullanın ve bunu yapmak için yer olduğunda 
+DURDURMA KAYBI noktanızı en kısa sürede hareket ettirin. Devam ederken DURDURMA KAYBI noktasını ne zaman hareket 
+ettireceğinizi ve hedeflerinizi ne kadar uzun yapacağınızı nasıl değerlendireceğinizi tartışacağız. Ancak daha önce belirttiğim gibi... 
+Lütfen bu sinyalleri kağıt üzerinde birçok kez işlem yapmadan ve nasıl çalıştıklarını tam olarak anlamadan işlem yapmayın. Zaman 
+ayırın...
+Benim "KURTARMA" Kurallarım ve nedenlerim.
+Bir sinyalin bir ömrü olduğunu biliyorum. Bir sinyal, devam eden bir fiyat hareketinin başlangıcı olarak tanıdığım bir desen 
+oluşturan belirli bir fiyat hareketidir. O sinyal veya desen olduğunu düşündüğüm şeyi gördüğümde, geçmiş deneyime 
+dayanarak girerim. 15 - 30 dakika boyunca hiçbir şey olmadığında, gördüğüm şeyin bir sinyal OLMADIĞI, sadece rastgele bir 
+fiyat hareketi olduğu sonucuna varmak zorundayım.
+Üretken olmayan bir işlemde ne kadar uzun süre kalırsam risk o kadar artar. Bu işlem yönteminin en iyi yanı, 
+bir hedefe doğru hareketin karı kilitlemesi ve genellikle kalan sözleşmemi zarar etmeden kilitlemesidir. 30 
+dakika boyunca kar olmadan bir pozisyonu açık tutmak riski katlanarak artırır. Normalde, eğer su altındaysam 
+20 dakika içinde çekilirim. Eğer zarar etmeden yakınsam belki 5 - 10 dakika daha tutarım. . 20 dakikadan fazla 
+tuttuğumda, kar elde edenlerden %75 daha fazla işlemin aleyhime döndüğünü gördüm. Kendi kurallarınızı 
+geliştirirsiniz. Ve ne olursa olsun, kurala uyun veya değiştirin. Kuralı ihlal etmekten kaçınmaya çalışın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+Kene
+Bildiğiniz gibi Tick, düşen konuların net sayısı ile yükselen konuların sayısındaki net farkı veya tam tersini 
+temsil eder... Kulağa karmaşık geliyor... 2000 konu yükseliyorsa ve 500 konu düşüyorsa... O zaman Tick 
++1500 olur. Ancak 2000 konu düşüyorsa ve sadece 500 konu yükseliyorsa Tick -1500 olur. Anladınız 
+sanırım. Tick genellikle +400 ile -400 arasında bir aralıkta bulunur. Tick'i +1200'de ve -1150'de gördüm.
+Tick   ve vadeli işlem sözleşmesinin farklı yönlere gittiği bir güne örnek olarak DSP6Z sözleşmesinde 
+13/09/96 gösterilebilir. Tick açılışta +900'ün üzerinde başladı ancak düşüşe geçti ve saat 14:00'te 
+(NYSE) Tick 0 veya doğal seviyeye yakındı ve Vadeli İşlem fiyatı düşmeye yeni başlıyordu. Bu, Tick'teki 
+farklılaşmanın bir örneğidir. Ancak aynı gün Tick +740'ta açıldı ve DSP6Z yaklaşık 6,00 puanlık bir 
+açıklıkla açıldı.
+Yani eğer Tick çok aşağıdaysa, yani -800 ise, o zaman S&P'nin değerinin, sadece bir süreliğine bile olsa, düşmesi 
+muhtemeldir. Bunun tersi de doğrudur.
+The Tick ile The True S&P arasında belki daha yakın bir ilişki vardır
+(yani Nakit) S&P ile DJIA arasındaki farktır. DJIA 30 endüstriyel hisse senedinden oluşurken, Gerçek 
+(Nakit) S&P NYSE'de işlem gören 500 hisse senedinden oluşur.
+hiçbir ilişki yok gibi görünüyor. 
+400 yön değişikliği arayın.
+Aşırı günlerde şunlar olabilir:
+Birçok kitapta tick'in +400'ün üzerine çıkması veya altına düşmesi durumunda kar 
+satışlarının gerçekleşeceği ve piyasanın yön değiştireceği belirtiliyor.
+Tick   ile vadeli işlem sözleşmesi arasında bildiğim kadarıyla doğrudan bir sayısal oran yok, bu nedenle 
+ilişkiler arıyoruz. Bu, kaba bir karşılaştırma meselesi. TICK "çok aşağıda" olduğunda S&P düşecektir. 
+Bunun tersi de doğrudur. Tick'te +400 veya -400 aşırı olmaya başlıyor...
+,
+Eğer Tick grafiğiniz ve Futures grafiğiniz aynı sayfadaysa. Sayfayı geri alın ve ilişkiye bakın...
+Tick, DJIA, Cash ve Bonds, S&P vadeli işlem sözleşmesinin "temelleridir". "Temelleri" nasıl alıp 
+satacağınızı bilmiyorsanız,
+Teknik işlemlere sadık kalın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+Trend Çizgileri Çizimi
+Trend çizgilerini çizmede en iyi rehber DeMark'ın Yeni Teknik Analiz Bilimi'dir.... Trend Çizgisi, fiyat 
+hareketindeki yön değişikliğini belirlemede ve mevcut yönün bozulmadığını teyit etmede değerli bir 
+araçtır.
+Trend çizgilerini nasıl çizeceğinizi anlatmanın en kolay yolu, Swing High noktalarını yüksek trend çizgilerine ve 
+Swing Low noktalarını düşük trend çizgilerine bağlamaktır. Yüksek trend çizgileri, fiyat aşağı hareket ederken 
+çizilir. Düşük trend çizgileri, fiyat yukarı hareket ederken çizilir.
+Trend çizgilerini nasıl çizeceğinizi veya okuyacağınızı size "söylemenin" kolay bir yolu yok ama trend çizgisinin nereye 
+çizilmesi gerektiğine ve fiyat yön değiştirdiğinde Kırılmanın nasıl okunacağına dair grafiklerde birçok örnek gösterebilirim.
+Trend Line dosyalarını alıp almadığınızı kontrol edin.. tl913.pcx gibi dosya adları olacak. Eğer 
+gönderdiğim materyalde bulamadıysanız, bunları derhal almanızı sağlayacağım.
+Destek ve Direnç (S&R)
+Destek ve Direnç, fiyat hareketinin ne zaman ve nerede duracağını, tersine döneceğini veya devam etmeden önce 
+duraklayacağını tahmin etmede temel unsurlardır. S&R noktaları veya bölgeleri, fiyatın en son gitmek için ağaçta beklediği 
+ancak gitmediği yerlerdir. Yakın zamanda bir düşük belirlendiğinde ve yön yukarı başladığında, bunun nedeni fiyatın bir 
+destek noktasına ulaşması ve daha aşağı gidememesidir. Bu düşük sadece birkaç dakika veya ay sürebilir. Aynısı yüksekler 
+için de geçerlidir. Rekor bir yüksek yıllarca sürebilir.
+"Pivot Noktaları" gibi yapay S&R noktaları vardır. Her birinin fiyat hareketi üzerinde etkisi vardır. Destek ve 
+direnç noktalarına dair bazı örnekler için "s&r" adlı grafiklere bakın. Derste ilerledikçe bu noktaların ticarette 
+nasıl kullanılacağını göstereceğim. S&R noktaları piyasadan veya zaman diliminden bağımsız olarak aynı 
+şekilde tanımlanır. S&r dosyalarınızı bulamazsanız bana bildirin.
+> > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > >
+Philip York'un bu yazısı, sunduğu içgörü nedeniyle buraya eklenmiştir.
+VADELİ İŞLEM PİYASASI GERÇEKLERİ
+Piyasalardaki her paçavradan zenginliğe uzanan hikaye için bir düzine üzücü hikaye vardır. Çoğu, yıldızlığa 
+çekilenler gibi, zengin olma umuduyla piyasalara çekilir - görünüşte kısa
+saatler, hızlı arabalar ve hızlı zamanlar. Çok az acemi başlangıçta ne kadar çok iş ve ne kadar çok stresin gerçekten söz konusu 
+olduğunu fark eder.
+Ticaret çukurlarında hikayeler hemen hemen aynıdır, Chicago borsası üyeliklerinin yaklaşık 
+üçte biri her yıl yenilenmektedir. Riskler muazzamdır ve ticaret, şiddetlidir.
+Bu piyasalardaki oynaklık, genellikle altta yatan emtialara göre çok daha fazladır çünkü tüccarlar yalnızca gelecekteki olayları 
+hesaba katmak için değil, aynı zamanda diğerlerini de etkilemek için fiyatları zorlarlar.
+Oyuncular oyundan çıktı.
+Ticaret çukurunun köpek yiyip köpek yemesine rağmen, birçok oyuncu arasında yoldaşlık güçlüdür. Eğer işler biri 
+için zorlaşırsa, acı çeken tüccar için sahada ve saha dışında verilen destek bazen yerel yardım kuruluşunuzu hayrete 
+düşürebilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+Bu piyasaların temel işlevi risk transferidir (sigorta). Bu piyasalar, özel bir bireyin bile büyük çokuluslu 
+şirketler tarafından üstlenilen piyasa riskinin bir kısmını üstlenmesine olanak tanır. Neyse ki piyasalar, 
+pozisyonlara girdikleri kadar çabuk çıkış yapmalarını kolaylaştırır. Bu işlevi yerine getirirken bu piyasalar 
+neredeyse saf spekülasyon araçlarıdır - nag'ler ve köpekler gibi.
+Piyasalarda iki kural seti vardır, hükümetteki ve borsalardaki düzenleyiciler tarafından yapılanlar ve 
+taban kuralları. Normalde, bir çatışma varsa, bu, taban kurallarıdır.
+kazanan kat - yasal işlem başlatılmadığı sürece (ki bu neredeyse hiç olmaz). Kat kuralları hiçbir yerde yazılı 
+değildir ve çukurdan çukura değişir, ancak tüccarlar kısa sürede öğrenir.
+Yerel tüccarlar en büyük brokerlara mümkün olduğunca yakın kalmak için mücadele eder. Kağıt akışı çukuru canlı tutar. 
+Bir yerel, tek bir tik hareketinde 100 lotluk bir emri idare edemiyorsa, yoğun bir brokerın yanında uzun süre kalamaz, 
+daha büyük yereller onu kovalar.
+Bu kağıt akışı, bu brokerları güçlü insanlar haline getirir, sadece bir brokerın yerel bir insanı zengin veya fakir yapabileceği başka 
+bir yol arar. Bu nedenle, bir broker zarar ederse, yerel halk genellikle yardım teklif eder
+zarara girmek, bir süre sonra zararlarının genellikle müşterilerin hesabına ödeneceğini bilmek.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+Bu taraflı itiş kakış, büyük yerel halka, daha küçük yerel halka daha iyi fiyatlarla kısmen doldurmaktan mutluluk 
+duyabilecekleri siparişlerde öncelik verildiği hız rekabetini tehlikeye atıyor.
+Serbest piyasa kapitalizminin doğal ifadesi, büyük oyuncuların marjlarını korurken küçük oyuncuların kırıntılarla 
+hayatta kalma mücadelesi vermesini sağlayabilir.
+Elbette, büyük bir emrin yürütülmesi için çukura sinyal verildiğini gören bir yerelin, kısa vadeli dalgayı 
+yakalama umuduyla emrin önünde piyasaya atlayacağı başka numaralar da var - elbette bu süreç müşterilerin 
+yürütmesini kötüleştiriyor, sistemdeki birçok açıktan sadece biri. Sonra elbette, yerel ve broker bir ticareti 
+onaylamak için buluştuğunda basitçe geçmişi yeniden yazmanın daha güvenli, ancak daha az yasal alternatifi 
+var.
+İyi Doldurmalar Elde Etmek
+İyi dolumlar elde etmek büyük ölçüde hız ve önceliğin bir fonksiyonudur - siparişinizi çukura ne kadar hızlı 
+ulaştırabildiğiniz, çukurdaki çalışanlarınızın ne kadar iyi olduğu ve siparişlerinize ne kadar öncelik verdikleri. 
+Uygulamanızın kalitesini belirleyen çok sayıda değişken vardır - bunlardan bazıları şunlardır:
+1. Brokerınıza ulaşmanız ne kadar sürüyor?
+2. Brokerınızın emri iletmesi ne kadar sürüyor?
+3. Brokerınız merkezi emir masasını mı çağırıyor yoksa doğrudan çukuru mu çağırıyor.
+4. Temizleme üyelerinin masasının çukurlara göre zemindeki konumu.
+5.
+daha küçük emirlere göre öncelik verilir. Bu önceliklendirme, daha küçük oyuncuların bazen küçük emirlerin norm olduğu 
+daha küçük çukurlarda işlem yaparak daha iyi hizmet alabileceği anlamına gelir. Bunlar borsanın değil, zeminin 
+kurallarıdır.
+Siparişinizin boyutu. Kat brokerları siparişleri boyuta göre önceliklendirir, daha büyük siparişler genellikle
+6.
+zemindeki kabul edilebilir emirler nelerdir, ancak para cazibesiyle bir broker işinizi isterse ne isterseniz 
+onu yapacaktır - sorun önceliktir. Buradaki en önemli prensip - emriniz ne kadar karmaşıksa öncelik 
+listesinde o kadar aşağı iner.
+Verilen siparişin türü. Borsalar genellikle aşağıda gösterilenler gibi yönergeler belirler:
+Sipariş Türü
+Durdurma Sınırı
+Dokunulduğunda Piyasa
+Piyasa Kapanışta
+KOMEKS KCBT CME
+HAYIR
+BMM
+Evet
+Evet
+Evet
+ÇŞK
+Evet
+Evet
+Evet
+NYFE CBOT NYME NTCE Evet 
+Hayır
+Evet Hayır
+Evet Hayır
+Evet
+Evet
+Evet
+Evet
+Evet
+Evet
+Evet
+Evet
+Evet
+HAYIR
+Evet
+HAYIR
+HAYIR
+HAYIR
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+Listenin en üstünde Piyasa emri vardır, burada broker sadece yere kadar bağırarak al veya sat diye bağırır. Listenin 
+bir sonraki sırasında Dur emri vardır çünkü bu, bir fiyat vurulduğunda etkili bir şekilde bir Piyasa emri haline gelir ve böylece 
+listede aşağı doğru gider. Tekrar ediyorum, bunlar borsanın değil, zeminin kurallarıdır.
+DURAKLARI SİLAHLA SÜRMEK
+Tüccarların kullandığı jargonun genellikle savaş jargonuyla ifade edilmesi tesadüf değildir. "Vurulmak" veya 
+"gömülmek" gibi terimler, savaş alanında vurulmak veya kara mayına basmak gibi mali açıdan savaş eşdeğerlerine 
+eşdeğerdir.
+Kattaki yaygın bir oyun "stop'ları vurmak" olarak adlandırılır. Bu, katlardaki yerellerin aracılar tarafından 
+tutulan stop seviyelerini tetiklemek için fiyatı etrafta dolaştırdığı yerdir.
+Müşteriler. Taktikler, düşman siperlerine pusu kurmaya ve düşmanın mühimmatını patlatarak düşmanı öldürmeyi 
+ummaya çok benzer.
+Fiyatlar önemli bir seviyenin yakınında, diyelim ki düşük bir seviyede olabilir. Yerliler deneyimlerinden, fiyatlar o kadar düşük 
+bir seviyeye gelirse çok sayıda insanın kendi mallarını satacağını biliyorlar.
+tasfiye etmek için pazarlık fiyatlarına pozisyonlar. Bunu bilerek, büyük yerel halk genellikle daha düşük fiyatlardan geri 
+satın alabilme beklentisiyle fiyatları düşürmek için bir satış çılgınlığı başlatır
+Müşterinin likidasyon emirleri seviyenin hemen ötesinde tetiklenir.
+Ayrıca, piyasa önemli bir seviyeye çok yakınsa, yereller bazen piyasayı yüksek veya düşük tikler. Bu, iki yerelin 
+kendi aralarında çok uzak olmayan küçük bir ticaret yapacağı yerdir.
+Mevcut eylemin ötesinde, yakınlarda bekleyen müşteri siparişini arama çabası.
+Elbette herhangi bir piyasa katılımcısı bu tür bir oyunu deneyebilir, ancak yerel üyeler üyelikleri için pahalı ödeme 
+yaparlar ve bu da bu senaryolarda dolumlarını çok daha iyi kontrol etmelerini sağlar. Hepsi oyunun bir parçasıdır.
+AÇILIŞ VE KAPANIŞLAR
+Aşağıda Chicago Ticaret Borsası'nın (CME) piyasa fiyat teklifleri ile ilgili politikasının açıklaması yer 
+almaktadır. Burada ayrıntılı olarak açıklanan prosedürler tüm
+bilgi alışverişi genellikle şeylerin geniş bağlamında geçerlidir.
+Açık, Açılış aralığı, Açılış zaman aralığı.
+Açılış gongundan itibaren, açılış saatinden önce Piyasa Emri olarak verilen tüm emirler piyasada işleme 
+alınır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+Bu Açılış Seansı ilerledikçe fiyatlar değişir, ancak her zamanki gibi değil. Bu ilk dönemde ticaret o kadar 
+şiddetli ve değişkendir ki fiyatlar Açılış Aralığı olarak belirtilir
+bir fiyattan ziyade. Dürüst olmayan tüccarlar için bu, aralığın düşük seviyelerine yakın short'ları ve yüksek seviyelerine yakın 
+long'ları doldurmak için karşı konulamaz bir fırsat sağlayabilir. İşlem, tüm piyasa emirleri yürütüldüğünde sona erer.
+Bekleyen tüm işlemlerin tamamlandığı zaman Açılış Seansı'nın kapanış saatidir. Bu aynı zamanda Açılış 
+Seansı'nın veya Açılış Zaman Aralığı'nın süresini belirler. Bu seansın fiyat aralığı Açılış Aralığı'dır ve fiyat 
+aralığının aritmetik ortalaması (her işlemdeki sözleşme sayısına göre ağırlıklandırılmamış) resmi Açılış 
+fiyatıdır.
+Bu, Commodity Systems Incorporated gibi veri sağlayıcılarının günlük güncelleme hizmetleri için kullandıkları piyasa 
+Açılışıdır, ancak ben Açılış olarak ilk gerçek işlemi kullanmayı tercih ediyorum.
+Hesaplaşma Fiyatı, Kapanış Aralığı, Kapanış Zaman Aralığı
+Piyasa Kapanışı (MOC) olarak tanımlanan emirler, belirli Kapanış Zaman Aralığı'nın başlangıcından önce bu 
+tanımlamaya sahip müşteriler tarafından verilen emirlerdir.
+24 saatlik piyasalara doğru ilerledikçe bu tarz emirler giderek daha az yaygınlaşıyor, ancak yine de bunların 
+yürütülmesi bazı ilginç değişim ritüellerini tasvir ediyor.
+İlgili sözleşmenin resmi kapanışından belirli bir saniye önce, Piyasa Kapanışı olarak tanımlanan tüm 
+emirler piyasada gerçekleştirilir.
+İşlem, bu şekilde işaretlenen tüm emirler yürütüldüğünde sona erer. Bu işlem, resmi kapanış saatinden sonra da devam 
+edebilir.
+Bekleyen tüm işlemlerin tamamlandığı zaman, Kapanış Seansının Kapanış Saatidir. Bu aynı zamanda 
+Kapanış Seansının süresini veya Kapanış Zaman Aralığını da belirler.
+Fiyat aralığı Kapanış Aralığı'dır ve fiyat aralığının aritmetik ortalaması (her işlemdeki sözleşme sayısına 
+göre ağırlıklandırılmamış) Uzlaşma Fiyatı'dır.
+Açılış Zaman Aralığını tanımlamaya yönelik uygulamalara aykırı olarak, tüm Açılış seansları farklı 
+çukurlar için aynı anda başlarken, Kapanış Seansı farklı zamanlarda başlar.
+ve her piyasanın bir fonksiyonudur.
+Kapanış Seansı'nın başlangıcındaki değişiklik borsa tarafından belirlenir. Örneğin CME'de, Kapanış Seansı 
+normalde resmi kapanış saatinden 30 saniye önce başlar,
+Para Birimleri hariç, burada yaklaşık 60 saniyedir. Belirli bir çukurdaki Kapanış zaman aralığı, tüm bekleyen 
+emirlerin (Kapanış Seansı başlamadan önce zaman damgalı) tamamlanmasıyla sona erer.
+idam edildi.
+DÖNÜŞLÜ AÇIKLAR
+Daha önce tartışıldığı gibi, Açılışı ayarlamak için kullanılan resmi Açılış Aralığı genellikle bir veya iki dakika sürer, 
+ancak çoğu yatırımcının bilmediği başka bir resmi olmayan Açılış daha vardır,
+veya bunu kendi işlemlerine nasıl dahil edeceklerini. Bu resmi olmayan Açık, her piyasanın 
+sözleşmelerini sırayla açma prosedürünü kullanan New York piyasalarına özeldir
+(dönme).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+Piyasaların dönüşümlü açılışı, ön ayda yapılan işlemlerin başlangıçta kısa bir süre için açıldığı, ardından kapandığı ve 
+sonraki ayda açılıp kapatıldığı, böylece aşağı doğru devam ettiği bir uygulamadır.
+tüm sözleşmeler bir Açılış Aralığı oluşturana kadar çizgi. Bu başarıldığında tüm sözleşmeler aynı 
+anda açılır, bazen önemli ölçüde farklı
+"resmi" Açılış'a göre fiyatlar. Bu "Açılışlar" arasındaki süre birkaç dakikadan neredeyse yarım saate kadar 
+değişebilir ve gecikmeler genellikle aşırı oynaklıkla çakışır ve bu da meseleleri
+Saha dışında olanlar için daha da kötü.
+Bu uygulama ayrıca, kat brokerlerinin vadesi geçmiş emirleri kendilerine en uygun fiyatlardan (yani genellikle müşterilerin aleyhine) 
+temizlemelerine olanak sağlayabilir, ancak bu her zaman aşağıdakilerle dengelenir:
+brokerın müşteriyi elinde tutma isteği ve belirli çukurun kişiliği.
+Bunun aşırı bir örneği 27 Haziran 1994'te, Brezilya'da hafta sonu donmasının ardından Kahve piyasalarının önceki 
+kapanıştan yaklaşık 50,00 sent/pound daha yüksek bir fiyatla açılmasıyla yaşandı. Saat 09:15'te
+Temmuz kontratı 175.00'den açıldı ve sonraki 60 saniyede 173.00'den 180.00'e kadar 7.00 sentlik benzersiz ve 
+benzeri görülmemiş bir Açılış Aralığı kuruldu - ardından işlemler durduruldu ve piyasalar rotasyona girdi. Tam 
+35 dakika sonra, Açılış Aralığının zirvesinden sözleşme başına tam 7.125$ olan 161.00'lık "resmi olmayan" bir 
+açılış fiyatıyla işlemler yeniden başladı.
+kar elde etmek için, ancak Açık'ta satın almak isteyenler için korkunç.
+ABD'de bildiğim bir CTA "resmi" açılışı kullanmayı reddediyor ve yalnızca ikinci, bildirilmeyen, resmi olmayan açılışa 
+güveniyor; bu, tüm sözleşmelerin aynı anda yeniden açıldığı zamandır.
+New York çukurları bilindiği üzere zorludur, ancak dolandırıcılık, yolsuzluk ve oynaklık seviyesi her 
+çukurun kişiliğine göre değişir. İtalyan Tahvilleri,
+Örneğin Alman Hükümet Bonoları, her ikisi de LIFFE'de işlem görmesine rağmen.
+Hataları (veya dolandırıcılığı) örtbas etmek için kullanılan yaygın bir bahane "Üç Dakika Kuralı" olarak adlandırılır. Temel fikir, 
+ABD zemin brokerlerinin işlemlerinizi tamamlamak için üç dakikaya kadar süreleri olmasıdır.
+işlem.
+İlginçtir ki, aşina olduğum hiçbir borsanın kurallarında ve düzenlemelerinde bu kuraldan 
+bahsedilmiyor. Emrinizi alan bir zemin brokeri yasal olarak bağlıdır
+"Açıkça ve rekabetçi bir şekilde, açık bir şekilde haykırarak..." emrinizi yerine getirmek için. Eğer bir komisyoncu emrinizi, sizin 
+emrinizden önce bir arkadaşınızın emrini yerine getirmek için sadece 15 saniye bile olsa tutarsa, emrinizi rekabetçi bir şekilde 
+yerine getirmiyor ve açıkça dolandırıcılık yapıyor demektir.
+Açıkçası, işlem oranlarıyla birlikte, brokerlar ve yerellerin genellikle adil bir şekilde çözdüğü, ancak çoğu zaman yasal 
+olmayan (yönetmeliklerin sınırlamaları böyledir) birçok dürüst hata meydana gelir. Bunun yakın tarihli bir örneği, 
+piyasanın tehlikeli bir şekilde sınıra (günlük sınır 1.000 tahta ayağı başına 10,00 $) düştüğü kendi Kereste ticaretimizle 
+gerçekleşti. Siparişimiz, sınırın 4,20 $ üzerindeydi ancak siparişin "yetersiz" (yani doldurulmamış) olduğu söylendi. En 
+olası neden, siparişlerimizin normalde beslendiği büyük yerelin siparişi istememesi veya brokerin siparişimizi 
+unutmasıydı - her iki durumda da ABD zemin brokeri izlerini örtmek için elinden geleni yaptı.
+Çığlık attık ve broker emri limitte doldurulmuş olarak almayı kabul etti, ya da daha iyisi, ertesi gün nasıl açıldığına 
+bağlı olarak. Ertesi gün piyasa bizim lehimize limit aşağıda açıldı ve broker hatasından dolayı cebinden 8.800 ABD 
+doları çıktı (eğer yapabilirseniz izlerinizi örtmeye değer, değil mi!).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+Daha da iyi bir örnek, 1989'da bir Bob Buran'ın, ABD TBond pit'inde stop emrine ulaşıldıktan altı dakika 
+sonra bir "Hızlı Piyasa" sırasında sözleşme başına 45 tik kayması almasıydı. Bu örneği özel kılan şey, 
+Bob'un zemin komisyoncusunu doldurma konusunda yasal olarak göreve çağırması ve CFTC'nin Bob'un 
+stop emrinin tetiklendiği ilk geri tikte doldurulması gerektiğine karar vermesidir. Yasal emsal, Buran vs 
+Lerman'dır (CFTC Dosya No. 89-R290). Bu, birinin gerçekten bir ABD zemin üyesini göreve çağırdığı birkaç 
+emsalden biridir.
+İşlemlerinizi incelerken, hatırlamanız gereken bazı noktalar vardır. "Gerçek zamanlı" ekrandaki fiyatlar, piyasanın iki dakika 
+gerisindeki tarihsel fiyatlardır. İşlemlerin hepsi işlem gördükleri sırada ekranda görünmez. Yani, işlemler genellikle sırayla 
+raporlanmaz, aynı şekilde günlük hacim de raporlanır çünkü çukurdaki tüccarlar emirleri yerine getirmek için oradadır, fiyat 
+muhabirlerinin hatalarını düzeltmek için değil. Ayrıca, zemin brokeri size "iyi" bir dolum sağlamak için ödeme almaz, sadece 
+sizi doldurmak için ödeme alır.
+Her şeyden önce, brokerinizin size kaosun kıyısındaki bir ortamda yapılandırılmış bir uygulama 
+sunmaya çalıştığını unutmayın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 76 ===
+Eğer bir anlaşmazlığınız varsa
+Anlaşmazlığınız varsa şunu unutmayın; zaman çok önemlidir ve yağlanacak olan gıcırdayan tekerlektir.
+1.
+zaman ve satış rakamları.
+Tüm kötü dolumlarda, derhal size bir kopyasının fakslanması için brokerınıza bir bildirimde bulunun.
+2.
+belki bir arkadaşın kullandığı aracı kurum.
+Mümkünse ikinci bir bilgi kaynağınız olsun. Bu, kendiniz kullandığınız başka bir broker olabilir veya
+3.
+brokerlar yasa gereği yazılı şikayetleri neredeyse süresiz olarak kayıt altında tutmak zorundadır. Kat brokerinin herhangi 
+bir meşru şikayette bundan önce sizinle anlaşmaya istekli olacağını görmelisiniz.
+Dolgularla ilgili sorunlarınızı iletmekten çekinmeyin. Başlangıçta telefonla, muhtemelen mektupla. ABD katı
+4.
+hiç yapılmadı, Buran vs Lerman neredeyse tek başına duruyor. Öncelikle, sizin tarafınızda yasa olsa bile (yani, 
+zemin kuralları burada geçerli değil) brokerların çok önemli yasal nüfuza sahip olduğunu takdir edin.
+Bunun ötesinde, aracınız veya siz, tahkim talebinde bulunmak için borsaya gidebilirsiniz. Bu pek de
+5. Hukuki ve mali sonuçları olan her konuda olduğu gibi yazışmalarınızın kaydını tutun.
+6. Unutmayın, her hile işe yarar. Bu, sokaktaki en zor oyundur.
+Bu piyasa süreçlerinin düzenlenmesindeki temel sorun, bir tüccar aptalca bir şey yapmadığı sürece, 
+eğriyi doğru olandan ayırt etmenin bir yolu olmamasıdır. Hemen hemen tüm
+hile 1 ila 5 tick arasındadır ve bu da piyasa gözetim sistemleri tarafından tespit edilemez ve müşteri 
+için nispeten şeffaftır. Bir sorununuz varsa - başka bir zemin brokerini deneyin.
+Çözüm her zamanki gibi düzenlemede değil, piyasa mimarisinde ve insanların yetiştirilmelerinden itibaren 
+aşıladıkları değer sisteminde yatmaktadır. Bu nedenle sorunun özü açık protesto sisteminin kendisidir ve 
+bahsettiğim fiyat manipülasyonu, sistem ortadan kalkana ve bilgisayarla değiştirilene kadar (açıkça başka bir 
+manipülasyon seviyesine açılana kadar) ortadan kalkmayacaktır.
+Dışarıda bir orman var. Çukurlarda Rambo'ya dikkat edin, o da ana doğa kadar tehlikeli.
+Phillip York tarafından
+> > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > >
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 77 ===
+Notasyonlar, Kodlar ve Kısaltmalar
+1000
+123
+TT
+20/20
+Bir veya bir
+AE
+AT
+kefalet
+OLMAK
+BEB
+BEK
+BÖ
+BrEB
+B/İng.
+C
+C+
+C-
+CB
+CTM
+Bölünme
+Doji
+Df
+DT
+EMA
+İngilizce
+düz
+H
+Sıcaklık
+HH
+HTL
+IB
+GT
+KCI
+LL
+Ana Sayfa
+MİT
+Pazar
+MOK
+New Hampshire
+Hollanda
+O
+OB
+İşletim Sistemi
+OB
+ZIPLAMA
+önceki
+pt
+Pivot
+RB
+30'a kadar
+X 70>
+Zaman, iki nokta üst üste yok yani 120, 245 vb. ** Tüm grafiklerdeki zaman 
+EST'dir Giriş sinyali türü
+Giriş sinyali türü ve bir dönüşün tanımı Kısa vadeli bir 
+ticareti gösterebilecek günlük çubuk oluşumu. Beklendiği 
+gibi grafik notasyonu
+Saldırgan Giriş
+Yükselen Üçgen
+Hedefe ulaşılmadan veya durdurmaya ulaşılmadan önce bir ticaretin ÇIKIŞI. Break 
+Even yani durdurma emri şuraya yerleştirilir:
+Boğa Yutan Çubuk
+Mentorum BEK Trade 
+Break Out
+Ayı Yutan Çubuk
+Al / İngilizce sinyali.... 
+Kapat
+grafik notasyonu
+grafik notasyonu
+Onay Çubuğu
+Karşı Trend Hareketi
+Sapma
+Mum çubuğu formasyonu....Yön değişimi 
+Yusufçuk mum formasyonu** İnen Üçgen
+Üstel hareketli ortalama 
+İngilizce İşlem türü
+Açık pozisyon yok
+Yüksek
+Piyasanın pozisyonunuza karşı gittiği miktar. 
+Yüksek yüksek veya dış yüksek
+Yüksek trend çizgisi
+İç Bar
+Boşluk Ticareti
+Kent Calhoun A.Ş.
+Düşük Düşük veya Düşük Dışında 
+Hareketli Ortalama
+Piyasaya Dokunulduğunda, 
+Piyasa Emri
+Piyasa Kapanıyor
+Yeni Yüksek
+Yeni Düşük
+Açık
+Aşırı Satın Alınmış
+Aşırı Satıldı
+Dış Bar
+Yüksek Açılış Pozisyonu
+Önceki yani önceki çubuk.. önceki çubuk, Nokta 
+veya Noktalar
+Pivot Noktası
+Referans Çubuğu
+30'u geçti, yukarı çıkıyor. 70'i 
+geçti, aşağı iniyor
+OLMAK
+giriş sinyali türü
+Yukarı tarafa (daha yüksek) geçiş 
+Aşağı tarafa (daha düşük) geçiş
+kısa vadeli eğilime karşı
+pivot noktalarından biri
+giriş veya ticaret türü
+Pivot noktalarından biri
+veya Pivot noktalarından birinin içinde yüksek 
+veya Pivot noktalarından birinin içinde düşük
+Önceki gün
+ve varyasyonları
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 78 ===
+RZ
+SB
+İmza
+SL
+LOP
+BU YÜZDEN
+Diken
+SS
+Stok
+SZ
+S/İng
+TDM
+TL
+Eğilim
+TS
+Korkak
+<
+X
+X
+X bitti
+Direnç Bölgesi veya Direnç Alanı. Kurulum 
+Çubuğu
+Sinyal
+Zarar durdurma.
+Düşük Açılış Pozisyonu
+Durduruldu
+Önceki 4-5 saniyelik sinyalin ortalamasından 2-3 
+kat daha uzun bir çubuk Giriş veya onay türü 
+Stokastik
+Destek Bölgesi veya Destek Alanı 
+Satış İngilizce Sinyali
+Tom De Mark
+Trend çizgisi
+Trendle birlikte
+Takip eden durdurma.
+Son 4-5 ölçünün veya Günün ortalamasından daha küçük.
+Grafiklerimde TRAILING STOP'umun nerede yerleştirildiğini gösteren işaret. 
+Grafiklerimde çıkış noktamı gösteren işaret
+Haç veya haçlar veya çapraz
+Hızlı gösterge çizgisi Yavaş çizgisini geçtiğinde. Y
+Bir zamandan sonra (345Y) "Y" gösterildiğinde dün veya
+Önceki işlem günü. yani dün saat 15:45.
+Bir barın tanımı
+HH
+Sol el
+Bu çubuğun yüksekliği önceki çubuktan daha yüksektir. 
+Yükseklik daha düşüktü
+Yüksek Lisans
+LL
+Düşük, önceki barların düşük seviyelerinden daha yüksekti Daha 
+düşük düşük
+ÇÖP
+CLO
+Barların kapanışı açılışından daha yüksekti. Kapanışı 
+açılışından daha düşüktü.
+ÇHC
+ÇK
+Bu Barlar Kapanış önceki barlardan daha yüksekti Kapanış 
+Kapanıştan daha düşüktü
+ÇHM
+CLM
+Bu barın kapanışı kendi orta aralığından daha yüksekti. Kapanış, 
+kendi orta aralığından daha düşüktü.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 79 ===
+PCX dosyaları nasıl görüntülenir ..
+Birkaç Vue programı var ama Windows ile gelen program herkes tarafından kullanılabilir olmalı. 
+"PaintBrush" Ayrıca, eğer varsa, VuPrint'i de kullanabilirsiniz.
+Boya Fırçası (PB)
+PB'yi açın ve ardından sol üst köşedeki (CO) butonuna tıklayın, ardından CO "Maksimum"a tıklayın. Artık başa çıkmanız 
+gereken tam bir ekran var.
+Ekranınızda araç çubukları ve bir renk paleti de olacak. Görüntüleme alanını büyütmek için bu işlevleri ortadan 
+kaldıracağız. CO "Görüntüle", ardından hem Araçlar hem de Palet'in onay işaretlerine sahip olduğunu göreceksiniz, yani 
+açık oldukları anlamına gelir. CO "Araçlar", ve kapanacaktır. Sonra tekrar CO "Görüntüle" ve CO "Palet", ve kapanacaktır. 
+Şimdi tam boyutlu bir ekranınız var.
+Şimdi CO "Dosya" ve CO "Aç"... Dosyalar büyük ihtimalle indirme dizininde veya indirdiğiniz dosyaların gittiği 
+yerdedir. PCX dosyasını ve CO'yu bulun. Birkaç saniye içinde grafik PB'de görünecektir. Elbette bu, dosyanın 
+sıkıştırılmamış olduğunu varsayar.
+Benden aldığınız dosyaların çoğu ZIP dosyaları olarak gönderilecektir. Daha hızlı yüklenirler. Görüntülemeden önce 
+sisteminizin dosyaları açması gerekir. America OnLine kullanıyorsanız, dosyalar otomatik olarak açılır. Aksi takdirde 
+talimatlar için Net Access Sağlayıcınızla iletişime geçin.
+Windows kullanmıyorsanız ne tür bir görüntüleyiciniz olduğunu kontrol edin. Çoğu bir 
+PCX dosyası açacaktır.
+VuPrint'teki dosyaları görüntülemek için. Sadece VuPrint'i açın ve dosyayı alın, "Dosya", "aç" vb. VuPrint çok kolaydır ve önce 
+temizlemeniz gereken araçlara ve bir renk paletine sahip değilsiniz.
+PCX dosyaları oluşturmak da hemen hemen aynı derecede kolaydır.
+Bir TradeStation Grafiğini görüntülerken araç çubuğunuzun hemen üzerinde bir menü bulunur.
+Soldaki son kelime "Sayfa"dır ve hemen solunda bir düğme çubuğu vardır. Çubuğu CO yapın ve listenin en 
+altında "panoya kopyala" Ctrl+Ins. Bu satırı CO yapın ve ekranı Panoya kopyalamış olursunuz. Bir anlık görüntü 
+gibidir. Gördüğünüz şey kopyaladığınız şeydir. "Ctrl" tuşunu basılı tutarak ve "Ins" tuşuna basarak aynı şeyi 
+yapabilirsiniz.
+Şimdi PB'yi açın, aletleri ve paleti maksimuma getirin ve kapatın. Sonra CO "Düzenle" ve 
+CO "Yapıştır"... İşte grafiğiniz....
+Şimdi dosyayı PCX dosyası olarak kaydetmek için... CO 
+"Dosyası" ismine "pcx" uzantısını eklemelisiniz.
+VuPrint'in dosyayı kaydetmede aynı işlevi gördüğünü düşünüyorum.
+ve CO "farklı kaydet".. Dosyaya bir isim verin..... ÖNEMLİ.. 
+Dosyayı daha sonra bulabileceğiniz bir dizine kaydedin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 80 ===
+Bölüm 13
+BENkonular Eklentiler, Misl.
+Malzemenin çoğu yakın zamanda hazırlandı ancak son düzenlemeden geçmedi ve sonunda diğer 
+bölümlere yerleştirilecek. Bilgilerin sağlanmasını geciktirmek yerine, burada sunulmaktadır....
+İyi bir sinyal çubuğu aşağıdaki özelliklere sahiptir:
+Bar yön değiştiriyor.
+LRS döndü ve bara doğru gidiyor.
+RSI, çubuk yönünde aşırı satım (30) veya aşırı alım (70) bölgesini geçiyor.
+Stoch, RSI ile birlikte hareket ediyor ve aşırı alım veya aşırı satımı kesiyor. (Ancak Stoch'u 
+ortadan kaldırabilir ve RSI artı LRS işe yarayacaktır.)
+Elbette bu aşırı bir basitleştirmedir. Karlı bir işlem yapmak için gereken birçok başka faktör vardır. Bu 
+kurs, tüm faktörleri ve iyi yargıyı işlem sürecine dahil etmekle ilgilidir.
+* * * * * * * *
+Bir hareketin ...Çubukları Sayarak sona erebileceğini biliyorsun...
+Trend Turn (TT) deseninin işaret ettiği bir dönüş olduğunda, yukarı harekette daha yüksek zirveler (veya aşağı 
+harekette daha düşük dipler) oluşturan çubukları saymaya başlayın. Açık olmak gerekirse, son yüksek çubuktan 
+daha yüksek zirve yapan herhangi bir çubuk sayılır, eski yüksek çubuk yalnızca bir tik geçse bile. Aşağı hareketlerde 
+tersi de geçerlidir.
+Unutmayın, bir "hamle" bugün başlayabilir ve yarınki oturumda sona erebilir.
+Teori, sayım yaklaşık 8'e ulaştığında hareketin sonuna yaklaştığınızı bilmenizdir. Birkaç düşünce okulu 
+veya ticaret felsefesi, hareketin 6. bardan sonra bitmesini beklemeye başlar. Elbette kesin bir sayım 
+yoktur, ancak 8. bara giden ve bu kavramı görmezden gelmeye dönen çok fazla işlem örneği vardır. 
+Bazıları en üstteki barın #8 veya #10 veya #13 olduğuna inanır... (Birkaç ay önce 17 gördüm ve 1996'nın 
+ortalarında 19 gördüm. Ancak bunlar istisnaydı.)
+Önemli olan, kaç çubuğun daha yüksek zirveler veya daha düşük dipler oluşturduğunu takip etmek ve sona yaklaşan bir harekete 
+karşı tetikte olmaktır.
+5. veya 6. bardan sonra mevcut hareketin yönünde bir işleme girdiğinizde risk akıllıca artmaya başlar.
+Bir hamlenin sona erdiğine dair başka işaretler de var:
+Tükenme çubuklarında hacim sıklıkla yükselir. Sonraki 
+çubuklarda 60-90 seviyeleri sonun yaklaştığının sinyalini verir.
+Bazıları 5 dakikalık çubuklardaki bir tik sayısının
+Fiyat çubuklarının boyutu aynı zamanda yavaşlama veya momentum kaybının sinyalini verebilir. Çubuk boyutu giderek 
+küçülmeye başladığında ve son çubuk yüksek hacimle çok daha uzun olduğunda, bir tükenme çubuğuna baktığınızın 
+oldukça iyi bir göstergesidir. Bir tükenme çubuğunu ek çubuklar takip edebilir. Bu nedenle tükenme çubuğunun bir geri 
+dönüş için bir kurulum olduğunu varsaymayın.
+Daha uzun hareketlerde bu sıklıkla önemli bir destek veya direnç bölgesinin yakınında olacaktır.
+Çubuk sayısı tek başına bir hareketin sonuca yaklaşıp yaklaşmadığını belirlemeye yardımcı olur, ancak kesin değildir, 
+yalnızca bir tahmindir. Çubuk sayısını çubukların boyutu, destek ve direnç bölgelerinin yakınlığı ve
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 81 ===
+Hacim ve takip eden stopları sıkılaştırmak için gereken bilgiye sahipsiniz.
+Yukarıda sayılanların hepsi aynı zamanda ters istikamete yeniden girmeye hazır olmak için uyanık olunması gerektiği konusunda çok iyi 
+uyarılardır.
+* * * * * * * *
+Bir İngiliz Alımında (veya Satışında) göstergelerin işlemle aynı hizada olması gerekmez. Eğer İngiliz'i takip etmeyi 
+öğrendiyseniz, İngiliz'in tek başına bir sinyal olduğu sonucuna varmalısınız, aksi takdirde neden ona ihtiyacınız olsun? 
+Fiyat deseninin ve göstergelerin onaylanmasını beklerseniz, kimin İngiliz'e ihtiyacı olur ki....? Ancak başka faktörler de 
+mevcuttur ve göz ardı edilemez.
+Bir İngilizcenin değerini değerlendirirken göz önünde bulundurduğum faktörler şunlardır:
+Yüksek veya düşük ne kadar önemli... Çok eski ve önemli bir Destek veya Direnç noktası ise... Buna daha fazla 
+itibar ediyorum..
+Fiyat hareketin 6-10 numaralı barında İngiliz referans noktasına dokunursa.
+Eğer İngiliz referans noktasına değen çubuk veya değen çubuğu takip eden çubuk büyük bir tersine dönüş 
+formasyonu oluşturuyorsa.
+O zaman İngilizce'yi alacağım....
+Ancak RSI ayrışması varsa, Stokastik dönüyorsa ve LRS düzse veya dönüyorsa, bunların hepsi sinyali 
+destekler.
+* * * * * * * *
+Lütfen "cımbız"ı benim için tekrar tanımlar mısınız? Temel olarak eşit olmaları gerektiğini düşünmüştüm. Örneğin, 
+yukarı bir bar, sonra aşağı bir bar, ikisi de aynı yüksekliğe sahip. Barların benzer olması yeterli mi?
+> > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > >
+Steve Nison'ın Japon Mum Grafiği tekniklerine bakışı, sayfa 88
+Sadece iki çubuğun eşit en yüksek veya en düşük değerlere sahip olması gerekiyor. Sonra 90. sayfada bunların eşit olmadığı bir 
+örnek gösteriyor....
+Cımbız tek başına bir geri dönüş sinyali değildir... Yön değişikliğini doğrulayan başka özellikler de 
+olmalı...
+* * * * * * * *
+"Hareket" tanımı
+Fiyat yukarı doğru hareket ettiğinde... Bir hareket, son Trend Dönüşü alış referans çubuğunun en düşük seviyesinde başlar ve takip eden 
+Trend Dönüşü satış referans çubuğunun en üst seviyesinde sona erer.
+Fiyat düştüğünde ise durum tam tersidir
+* * * * * * * *
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 82 ===
+Grafiklerimdeki oklar..........
+Bu sorunun çözülmesi gerekiyor ki grafik notasyonlarımı okuyabilesiniz ve bana grafik gönderdiğinizde ben de sizin 
+oklarınızı okuyabileyim.
+Yukarı oklar.
+Yukarı çubuğun "altına" yukarı ok yerleştirirsem, piyasa emri kullanarak çubuğun kapanışında satın alma yaptığım anlamına gelir.
+Oku yukarı çubuğun "üzerine" yerleştirirsem, bu, o çubuğun kapanmasından sonra o çubuğun üzerinde bir yerde bir stop emri 
+verdiğim anlamına gelir. Doldurma, daha sonra o noktaya dokunan ilk çubukta olacaktır. Bir sonraki çubuk veya daha sonraki çubuk 
+olabilir.
+Aşağı oklar.
+Aşağı yönlü bir çubuğun "üzerine" aşağı yönlü bir ok yerleştirirsem, piyasa emri kullanarak çubuğun kapanışında satış yaptığım anlamına gelir.
+Oku bir aşağı çubuğun "altına" yerleştirirsem, bu, o çubuğun kapanmasından sonra bir yerde bir stop'ta satış emri verdiğim 
+anlamına gelir. Doldurma, daha sonra o noktaya dokunan ilk çubukta olacaktır. Bir sonraki çubuk veya daha sonraki çubuk 
+olabilir.
+Çoğu durumda giriş aslında bir sonraki çubukta gerçekleşir. Ok, giriş çubuğunu değil, sinyal çubuğunu işaret 
+eder.
+Bana gönderilen grafiklerde herkes aynı notasyonu kullanırsa çok daha faydalı olacaktır. 
+Grafiklerinizdeki sorularınızı burada ana hatlarıyla belirttiğim notasyona göre yanıtlayın....
+Cevap vereceğim
+> > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > >
+İç bar nedir? Önceki bardan daha düşük bir yüksek ve daha yüksek bir düşük olan bar. Peki bunlar ne 
+anlama geliyor?
+Bunlar ya bir dinlenme çubuğudur ya da bir tersine dönüşün ipucudur. "İç çubuklar sinyal vermez." Sadece "belki" derler.
+Bunu söyledikten sonra istisnaların olduğunu hepimiz biliyoruz. Ancak bir iç çubuk gördüğünüzde, bu çubuğu 
+"İçeride" yapan önceki çubuğu görmelisiniz. Önceki çubuk anahtarı tutar. Önceki çubuk yükseldi ve alçaldı... 
+Bu, fiyatın o süre zarfında yükselemeyeceği veya düşemeyeceği anlamına gelir. Şimdi iç çubuk yerleştirildi ve 
+fiyat yükselip alçalmadı... Peki bu ne anlama geliyor? Bir duraklama veya olası bir geri dönüş.
+Gerçek tanımı ancak bundan sonra olacaklarla öğrenebileceğiz.
+İç çubuklara 3t üstte bir satın alma emri ve 3t altta bir satış emri verdiğiniz ve bu şekilde ilerleyeceğiniz yönünde 
+bir düşünce gövdesi var. Ancak iç çubuk hareketin bağlamına yerleştirilmelidir. Daha yüksek zirveler yapan 8 
+çubuğun hareketinin sonunda bir dinlenme çubuğu varsa, dinlenme çubuğunun bir tersine dönüş sinyali verdiği 
+sonucuna varırsınız. Ancak, sabah açılış çubuğundan sonra 2-3 iç çubuk varsa, kararsızlık sonucuna varabilirsiniz.
+Ve yine de büyük bir spike barından sonra bir iç bar dinlenme veya konsolidasyon anlamına gelebilir. Ancak çoğu 
+zaman İç barlar sinyal barları değildir.
+> > > > > > > > > > > > > > > > > > > > > > > > > > > > > >
+Bilmeniz gereken çok teknik bir kural daha var:
+Ekranınızın alt kenarında fiyat varken kısa pozisyon açmayın... Ekranınızın üst kenarında fiyat varken 
+uzun pozisyon açmayın... Şaka değil.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

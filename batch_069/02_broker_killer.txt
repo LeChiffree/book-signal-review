@@ -1,0 +1,1379 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 10\Baskı 10\Forex Broker Killer Edition - Kgopotso Mmutlane (94 sayfa) - @eseckal.pdf
+PAGES: 94
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+Teşekkür
+Kgopotso Mmutlane, bu kitabı başarılı kılmamda bana yardımcı olan Eş Yazarlarım Lasmeth 
+Mphegoleng Makhubedu, Lesly Pfundzo Sikhwari ve Pontsho Khutso Mmutlane'e özel olarak 
+teşekkür etmek istiyorum. Sıkı çalışmanız ve kararlılığınız her zaman takdir edilmektedir, 
+benden asla şüphe etmeyen tek hanımefendiyi unutmamak gerekir, bu kitap onun bir parçası 
+olmasaydı var olmazdı ve o Atlegang Kepadisa adıyla biliniyor, aynı zamanda editör, sizin 
+rolünüz de takdir ediliyor.
+Kitabın bazı bölümlerinde (çoğunlukla talimatlar) sağlanan bilgiler için üçüncü 
+şahıslara/kuruluşlara özel teşekkürler:
+-
+-
+-
+-
+©2017, Investopedia, LLC. ©2001-2016, 
+MetaQuotes Yazılım Şirketi. ©2005-2017 
+Babypips.com LLC.
+©2017, Wikipedia®
+Bu kitabı yazmam için en iyi arkadaşım (hayatıma forex piyasasını o soktu) Morwa Merika Mphogo 
+(ilham veren adam) tarafından motive edildim ve bunun için sonsuza dek minnettar olacağım; 
+arkadaşlar birbirlerini bu şekilde motive etmelidir. Lehlogonolo mnisi ve Selby Maile, bu ikisi kitabın 
+sponsorlarından biri olan Sefosh Kings'in gururlu sahipleridir, ayrıca sizin ve şirketinizin oynadığı 
+rol için teşekkür ederim. Ayrıca, Forex one minute strategy kitabının sponsorlarından biri olmayı 
+seçtiği için Cre4tive Ink'in gururlu kurucusu Lehutso Serage'a teşekkür ederim, özellikle kardeşime 
+teşekkürler.
+Ebeveynlerim, yani Tshemane Frans Mmutlane ve Dikeledi Tears Mmutlane'den bahsetmezsem günah 
+olur, bana en başından beri gösterdikleri destek için, beni üniversiteye götürme çabaları çok büyük bir rol 
+oynadı ve onlara da eşit şekilde teşekkür ediyorum. Diğer herkese de oynadıkları herhangi bir rol için 
+teşekkür ediyorum, büyük veya küçük olması önemli değil, hepinize teşekkür ederim.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+İçindekiler
+BÖLÜM 1: Forex piyasasının temel esasları.
+-
+-
+Forex ticareti nedir? Forex 
+piyasasının yapısı.
+- Ticari bankalar.
+- Forex brokerları.
+- Dövizler.
+BÖLÜM 2: Forex kavramları.
+-
+-
+-
+-
+-
+-
+BÖLÜM 3: Forex brokeri.
+-
+Pip nedir?
+Döviz çiftleri.
+Lot büyüklükleri.
+Yaymak.
+Kaldıraç.
+Koruma.
+Uygun bir forex brokeri nasıl bulunur?
+- Forex brokerları.
+Bir broker seçerken dikkate alınması gereken altı faktör. Forex 
+broker dolandırıcılıklarına karşı kendinizi nasıl korursunuz. 
+Forex ticaret hesabı nasıl açılır.
+-
+-
+-
+BÖLÜM 4: Meta-trader platformu .
+-
+-
+-
+Meta-trader platformunun önemi. 
+Meta-trader platformu nasıl kurulur. 
+Platformun temel özellikleri.
+BÖLÜM 5: İlk işleminizi nasıl açarsınız.
+-
+-
+-
+-
+Bir işlem nasıl açılır. Kar 
+alma nasıl ayarlanır. Zarar 
+durdurma nasıl ayarlanır. 
+Bir işlem nasıl kapatılır.
+BÖLÜM 6: Bekleyen emirleri yönetin.
+-
+-
+Bekleyen emirler nasıl ayarlanır. 
+Bekleyen emirlerin önemi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+BÖLÜM 7: Forex bir dakikalık strateji ve Değişiklikler
+-
+-
+Forex bir dakikalık strateji ve değişiklikler. 
+Öğrencilerin başarısı.
+BİRİNCİ BÖLÜM
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+FOREX PİYASASININ TEMEL ESASLARI.
+Forex ticareti nedir?
+Döviz veya döviz ticareti olarak da bilinen forex, tüm dünyada en çok işlem gören 
+piyasadır. Forex piyasasında döviz ticareti yapan kişilere forex tüccarları denir, amaçları bir 
+dövizin diğerine kıyasla değeri üzerinde spekülasyon yaparak kar elde etmektir ve bu 
+nedenle dövizler her zaman çiftler halinde işlem görür. Bir birimin değeri, başka bir dövizle 
+karşılaştırılmadığı sürece değişmez. Forex piyasası, büyük bankaların döviz alışverişi 
+yaptığı, hangi dövizin diğerinden daha güçlü olduğu konusunda güç için mücadele ettikleri 
+bir çevrimiçi platformdur.
+Bir forex yatırımcısı olarak, eşleştirildiği teklif para birimine karşı değer kazanacağına veya 
+kaybedeceğine inandığınız takdirde, baz para biriminin belirli birimlerini satın almayı veya 
+satmayı seçebilirsiniz. Örneğin EUR/USD'yi ele alalım, bir forex yatırımcısı olarak, Euro'nun ABD 
+dolarına karşı değer kazandığına veya yükseldiğine inanıyorsanız, satın almayı seçmelisiniz ve 
+bunu yaparak kar elde edersiniz, aynı şey Euro'nun (EUR) ABD dolarına (USD) karşı düşeceğine 
+inandığınızda da geçerlidir, o zaman kar elde etmek için satmanız gerekir. Piyasa 
+uyguladığınızın tersini yaparsa, yatırımınızı kaybedebilirsiniz.
+Bilgisayarlar için meta-trader. Akıllı telefonlar için meta-trader.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+ŞEKİL 1: Para birimlerinin listesi ve nasıl eşleştirildikleri.
+Forex piyasasında çok sayıda döviz çifti bulunmaktadır; yukarıdaki Şekil 1'de sadece birkaçı listelenmiştir, 
+böylece döviz çiftlerinin nasıl eşleştirildiği konusunda net bir anlayışa sahip olunabilir.
+Forex piyasası, pazartesiden cumaya kadar hafta içi her gün faaliyet gösteren 24 saatlik bir piyasadır; 
+normalde pazartesi günleri saat 00:00'da açılır ve cuma günleri saat 23:59'da kapanır, ancak saatler 
+bulunduğunuz işlem platformuna ve lokasyona göre de değişiklik gösterebilir.
+Forex piyasası yaklaşık 5 işlem seansından oluşur ve bu, bu süre zarfında piyasaya daha fazla 
+alıcı ve satıcının katıldığı anlamına gelir ve çoğu durumda yatırımcılar, piyasada hareket 
+olduğu için daha fazla kar elde etmek amacıyla bu seanslarda işlem yapmayı tercih ederler.
+Forex piyasasının yapısı
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Yabancı para birimlerini satın almak veya satmak istiyorsanız, forex piyasasının 
+yapısını bilmelisiniz. Döviz piyasası, milyarlarca dolarlık işlemlerin yapıldığı 
+piyasadır. Yapısını oluşturan üç oyuncu vardır.
+Şekil 2: Forex piyasasının yapısı.
+1. Ticari bankalar.
+Ticari bankalar müşterileri veya kendi hesapları için döviz alım satımı yaparlar. 
+Yani, ticari bankalar tarafından kapsanan yapının büyük bir kısmı vardır. 
+Müşterilerinin vermeye veya almaya hazır olduğu oranda döviz alım satımı 
+yapmaya çalışırlar ancak istedikleri döviz kurunda başarılı olmaları gerekmez. 
+Döviz kuruna karar verecek başka birçok faktör vardır.
+2. Forex brokerları.
+Forex piyasasının yapısının ikinci büyük kısmı forex brokerleridir. Bunlar komisyon 
+acenteleridir; forex alıcılarını satıcılara yaklaştırmaya yardımcı olurlar. Diğer sektör 
+brokerleri gibi, müşterileri adına forex satar veya satın alırlar. Forex piyasasına çok 
+yakındırlar.
+3. Dövizler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Sembol Para birimi Ülke takma ad
+Döviz, her ülkenin başkentinde olacak fiziksel bir piyasadır. Başlıca piyasalar 
+Londra döviz piyasası, New York döviz piyasası ve Singapur döviz piyasasıdır. 
+Hepsi belirli bir saatte açıktır. Yani, aynı seride kalırsa, tüm döviz borsası 24 
+saat açık olacaktır.
+Forex'te önemli para birimleri.
+Şekil 3: 8 önemli para birimi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Amerikan Doları Dolar Amerika Birleşik Devletleri Erkek geyik
+GBP Pound Büyük Britanya Kablo
+EUR Euro Avrupa Lif
+CAD Dolar Kanada Balgam
+İsviçre Frangı Frank İsviçre İsviçreli
+JPY Yen Japonya Yen
+Yeni Zelanda doları Dolar Yeni Zelanda Kablo
+Avustralya doları Dolar Avustralya Ayrıca
+Şekil 3.1: 8 önemli para birimi hakkında daha detaylı bilgi.
+Forex piyasası işlem seansları
+Forex piyasası
+oturum
+Zaman Dilimi Açılır Kapatır
+Sidney
+Avustralya
+GTM + 2 23:00 pm 07:00 sabah
+Tokyo
+Japonya
+GTM + 2 01:00 am 09:00 sabah
+Frankfurt
+Almanya
+GTM + 2 09:00 sabah 17:00 pm
+Londra
+Büyük Britanya
+GTM + 2 10:00 sabah 18:00 ÖS
+New York
+Amerika Birleşik Devletleri
+GTM + 2 15:00 pm 23:00 pm
+Şekil 4: Forex piyasasının işlem süreleri.
+Bunlar forex seanslarıdır ve birçok yatırımcı, işlem yapmak için en iyi zamanın seansların 
+çakıştığı zamanlar olduğunu bilmelidir, örneğin Frankfurt, Londra ve New York olmak 
+üzere üç seansın aynı anda açık olduğu zamanlar, GTM +2 (Güney Afrika saati) ile 15:00 
+ile 17:00 arası
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+İKİNCİ BÖLÜM
+FOREX KAVRAMLARI.
+Pip nedir?
+Genellikle forex'te, döviz çiftleri fiyatlarını dört ondalık basamakla gösterir. Japon yeni 
+gibi birkaçı iki ondalık basamak gösterir. Hangi döviz çiftini alıp satıyor olursanız olun, 
+ondalık basamaktan sonraki son sayı her zaman bir pipi, döviz çifti için değişebilen ana 
+birim fiyatı temsil eder. Alım satım yaparken, karınızı (veya zararınızı) pip cinsinden 
+takip edersiniz. Pip bir sayı değeridir ve forex piyasasında, dövizin değeri pip cinsinden 
+verilir. Bir pip 0,0001'e, iki pip 0,0002'ye, üç pip 0,0003'e eşittir vb. Bir pip, bir döviz 
+kurunun yapabileceği en küçük fiyat değişikliğidir. Çoğu döviz, noktadan sonra dört 
+rakamla fiyatlandırılır.
+Örneğin USD/JPY paritesini ele alalım:
+Solda, hisse senedi satın almak için aldığınız fiyat anlamına gelen "teklif fiyatı" olarak 
+adlandırılan 113.131 ve sağda da hisse senedi satmak için aldığınız fiyat anlamına gelen 
+"satış fiyatı" olarak adlandırılan 113.131 var. Bir tüccar piyasaya girer ve 113.131 
+fiyatından JPY (USD/JPY) karşılığında USD satın alırsa ve piyasa 113.231'e yükselirse, bu 
+tüccarın 100 pip kar elde ettiği anlamına gelir (113.231 - 113.131 = 100 pip),
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+şimdi tüccarın standart lot büyüklüğü 1'i kullandığı varsayıldığında, 100$ (tahmini 
+R1500) kar elde etmiş olurdu. Nokta/noktadan sonraki sayılar pip olarak kabul edilir 
+ve değerleri tüccarın kullandığı lot büyüklüğüne bağlıdır. Bu, tüccarın USD/JPY sattığı 
+durumlar için de geçerlidir; piyasa fiyatı 113.131'den 113.031'e (113.131 - 113.031 = 
+100 pip) geçtiği sürece kar yine aynı olacaktır.
+Döviz çifti nedir?
+Bir döviz çifti, forex piyasasında işlem gören dövizlerin kotasyon ve 
+fiyatlandırma yapısıdır, bir dövizin değeri bir orandır ve başka bir dövizle 
+karşılaştırılmasıyla belirlenir. Bir döviz çiftinin listelenen ilk dövizine baz döviz, 
+ikinci dövize ise kotasyon döviz denir. Döviz çifti, baz dövizin bir birimini satın 
+almak için ne kadar kotasyon dövizinin gerektiğini gösterir. EUR/USD 
+durumunda, Euro baz döviz ve USD kotasyon dövizdir.
+Bir lot büyüklüğü nedir?
+Standart bir lot, forex ticaretinde temel para biriminin 100.000 birimine eşdeğerdir. Standart 
+bir lot, ticaret boyutuna benzer ve yaygın olarak bilinen üç lot boyutundan biridir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Üç tip lot büyüklüğü:
+-Standart lot büyüklüğü – 100.000 birim
+-Mini lot büyüklüğü – 10.000 birim
+-Mikro lot büyüklüğü – 1.000 birim
+Standart bir lot herhangi bir para biriminin 100.000 birimini temsil ederken, bir mini lot boyutu 
+10.000 birim baz para birimini ve bir mikro lot boyutu da 1.000 birim baz para birimini temsil 
+eder. Bir standart lot için bir pip hareketi 10$'lık bir değişikliğe karşılık gelir. Mini hesaplar aynı 
+anda yalnızca bir mini lot ile işlem yapmakla sınırlı değildir. Bir standart lota eşdeğer bir işlem 
+yapmak için, bir tüccar 10 mini lot ile işlem yapabilir. Bir tüccar standart lotlar yerine mini 
+lotları kullanarak işlemini özelleştirebilir ve risk maruziyetini kontrol edebilir. Bir yatırımcı 
+mikro lot için bir emir verdiğinde, bu satın alınan veya satılan 1.000 birim para birimi için bir 
+emir verdiği anlamına gelir. Yatırımcılar mini veya standart lotlarla işlem yapmayı tercih 
+etmedikleri zaman mikro lot boyutlarını kullanırlar. On mini lot, bir standart lot boyutuna eşit 
+olan 100 mikro lota eşittir.
+Standart lotların rolünü anlamaya çalışalım
+Lot büyüklüklerinin türleri Boyut Kar/zarar (100 pip başına)
+Standart lot büyüklüğü 1.00 100 $ (1500 R)
+Mikro lot büyüklüğü 1.00 10 dolar (150 rand)
+Mini lot büyüklüğü 1.00 1 dolar (R15)
+Spread nedir?
+Spread, alış (alış teklifi olarak da adlandırılır) fiyatı ile satış (alış teklifi olarak da adlandırılır) 
+fiyatı arasındaki farktır. Bir döviz çifti için iki fiyat verilir ve spread, piyasa yapıcının (aracı 
+türü) bir tüccardan satın almak için verdiği ile piyasa yapıcının bir tüccara satmak için aldığı 
+arasındaki farkı temsil eder. Her pazarın bir spread'i vardır ve forex'te de vardır, spread 
+basitçe tüccarın satın alabileceği fiyat farkı olarak tanımlanır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+bir altta yatan varlığı satın alın veya satın. Hisse senetlerine aşina olan yatırımcılar buna 
+eşanlamlı olarak alış: satış spread'i adını verecektir.
+Bir yayılma örneği:
+Bu durumda örnek olarak GBP/AUD'yi ele alalım, alış ve satış arasındaki fark 25'tir (spread). 
+Standart lot büyüklüğü 1.00 kullanarak alış/satış şeklinde bir işlem açarsak, işlem -$25 (-R375) 
+olarak başlayacaktır, yani bir kayıptır ancak grafik bizim yönümüze doğru hareket ettiği sürece 
+25 pip veya daha fazla bir kar modunda olacağız.
+USD/JPY paritesinde alış ve satış fiyatları aynı olduğundan spread 0 olur. Herhangi bir lot 
+büyüklüğünde, herhangi bir lot büyüklüğünde işlem yaptığımız takdirde, işlemimiz 0,00 olur 
+ve işleminizi açtıktan sonra gerçekleşenlere göre kar/zararımız hesaplanır.
+Kaldıraç nedir?
+Bu piyasanın avantajlarından biri kaldıraçla işlem yapma yeteneğidir. Herhangi bir döviz 
+çifti için işlem muhasebenizde 10.000 dolara ihtiyacınız yoktur. Döviz çiftleri 50:1'e kadar 
+kaldıraç oranına sahip olabilir, bu da küçük bir miktar parayla (250 dolar) büyük bir miktarı 
+(10.000 dolar) kontrol edebileceğiniz anlamına gelir. Birçok yatırımcı, çoğu forex brokerinin 
+sunduğu kaldıracı çok çekici bulur, ancak bu şekilde işlem yapmanın riskli olabileceğini de 
+bilmelisiniz. Önemli karlar elde etmek kadar büyük kayıplara da neden olabilir. Kaldıraç, 
+piyasalara daha fazla maruz kalabilmeniz ve kredi için faiz ödememeniz için forex 
+brokerinden borç para almaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Hedging nedir?
+Bir döviz tüccarı, yabancı para döviz kurlarındaki istenmeyen bir hareketten mevcut veya 
+beklenen bir pozisyonu koruma niyetiyle bir işleme girdiğinde, bir döviz hedge'ine girmiş 
+olduğu söylenebilir. Bir döviz hedge'ini doğru şekilde kullanarak, bir yabancı para çiftinde 
+uzun (alım) olan bir işlem, kendilerini aşağı yönlü riskten koruyabilirken, bir yabancı para 
+çiftinde kısa (satış) olan bir işlem, yukarı yönlü riskten koruyabilir.
+Perakende forex yatırımcıları için döviz işlemlerini korumanın birincil yöntemleri spot 
+sözleşmeler ve döviz opsiyonlarıdır. Spot sözleşmeler, perakende forex yatırımcıları 
+tarafından yapılan sıradan işlemlerdir ve spot sözleşmelerin çok kısa vadeli bir teslimat 
+tarihi (iki gün) olduğundan, en etkili döviz koruma aracı değildirler. Aslında, normal spot 
+sözleşmeler genellikle bir korumanın gerekli olmasının nedenidir.
+Yabancı para opsiyonları, diğer menkul kıymet türlerindeki birçok opsiyonda olduğu gibi, döviz 
+koruma yöntemlerinin en popülerlerinden biridir; yabancı para opsiyonları, alıcıya gelecekte belirli 
+bir zamanda belirli bir döviz kurundan döviz çiftini satın alma veya satma hakkını verir, ancak 
+yükümlülüğünü vermez. Kısa straddle'lar, uzun strangle'lar ve boğa veya ayı spread'leri gibi düzenli 
+opsiyon stratejileri, belirli bir işlemin kayıp potansiyelini sınırlamak için kullanılabilir.
+Forex'te korunmaya dair bir örnek:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Aynı anda USD/JPY alıp sattık, bunun bir çelişki olduğu sonucuna varılabilir ama 
+öyle değil. Bu, korunmanın bir parçasıdır çünkü amaç riski en aza indirmektir 
+çünkü piyasanın yönünü bilmiyoruz, işlemlerden biri kar etmeye başlar başlamaz 
+zarar eden diğerini kapatacağız, sonra kaybettiğimizden daha fazlasını kazanmak 
+için uzun vadeli işlemlere gireceğiz.
+Hedging'in sonucu
+USD/JPY'deki hem alım hem de satım işlemlerinin değiştiğini gördüğümüzde, piyasanın düşüşte 
+olduğunu doğrulayabiliriz çünkü satış işlemi kârda iken alım işlemi zararda. Alım işlemini 
+dikkatlice kapatıyoruz ve bu da bizi -61,11$ (916,65 R) zarara götürüyor ve satış işleminin daha 
+fazla kâr (61,11$'ın üzerinde) üretmesini bekliyoruz. Sadece profesyonel forex yatırımcıları, büyük 
+sermaye gerektirdiği için bu korunma stratejisini nasıl kullanacaklarını bilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+BÖLÜM ÜÇ
+FOREX BROKERLARI.
+Forex brokerları.
+Forex brokerleri, döviz tüccarlarına yabancı para birimlerini alıp satmalarına olanak tanıyan 
+bir ticaret platformuna erişim sağlayan firmalardır. Bir döviz ticareti brokeri, perakende forex 
+brokeri veya forex brokeri olarak da bilinir, genel döviz piyasasının hacminin çok küçük bir 
+kısmını yönetir. Döviz tüccarları, 24 saatlik döviz piyasasına erişmek için bu brokerleri 
+kullanır. Forex brokerleri genellikle bir döviz çiftinin alış-satış spread'i üzerinden tazmin edilir. 
+Örneğin, bir perakende forex brokeri 1,5475 ABD doları karşılığında euro satın alabilir ve aynı 
+zamanda 1,5478 ABD doları karşılığında euro satabilir. Bu durumda spread 0,0003 ABD doları 
+veya 3 piptir.
+Bir brokerin iyi bir üne sahip olup olmadığını ve aradığınız işlevselliğe sahip olup olmadığını 
+öğrenmek için biraz araştırma yapmak değerlidir. Çoğu büyük forex brokeri, potansiyel 
+müşterilerin sistemin nasıl olduğunu iyi anlayabilmeleri için bir deneme hesabı kullanmalarına izin 
+verecektir. Hangi brokeri kullanacağınıza karar vermeden önce mümkün olduğunca çok platformu 
+test etmek akıllıca bir fikirdir.
+İki ana broker türü vardır: İşlem Masaları (DD) ve İşlem Masası Olmayanlar (NDD). İşlem 
+Masası brokerları aynı zamanda Piyasa Yapıcılar olarak da adlandırılırken, İşlem Masası 
+Olmayanlar, Doğrudan İşlem (STP) ve Elektronik İletişim Ağı + Doğrudan İşlem (ECN+STP) 
+olarak daha da alt bölümlere ayrılabilir.
+Masa başı forex yatırımcısı nedir?
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Dealing Desk (DD) brokerları aracılığıyla faaliyet gösteren Forex brokerları, spread'ler ve 
+müşterilerine likidite sağlayarak para kazanırlar. "Piyasa yapıcılar" olarak da adlandırılan Dealing 
+Desk brokerları, müşterileri için kelimenin tam anlamıyla bir piyasa yaratırlar, yani genellikle bir 
+müşterinin ticaretinin diğer tarafını üstlenirler. Bir çıkar çatışması olduğunu düşünebilirsiniz, ancak 
+aslında yoktur. Piyasa yapıcılar hem satış hem de alış teklifi sağlarlar, bu da müşterilerinin hem 
+alım hem de satım emirlerini yerine getirdikleri anlamına gelir; bireysel bir yatırımcının kararlarına 
+kayıtsızdırlar.
+Piyasa yapıcılar emirlerin doldurulduğu fiyatları kontrol ettiğinden, sabit spreadler belirlemeleri 
+durumunda çok az risk olduğu da ortaya çıkar (bunun neden çok daha iyi olduğunu daha sonra 
+anlayacaksınız). Ayrıca, işlem masası brokerlerinin müşterileri gerçek bankalar arası piyasa 
+oranlarını görmezler. Ancak korkmayın, brokerler arasındaki rekabet o kadar serttir ki İşlem 
+Masası brokerlerinin sunduğu oranlar, bankalar arası oranlara yakın, hatta aynı bile değildir.
+İşlem Masası broker'ı kullanarak işlem yapmak temel olarak şu şekilde işler:
+Diyelim ki Dealing Desk broker'ınızla EUR/USD için 100.000 birimlik bir satın alma emri 
+veriyorsunuz. Sizi doldurmak için, broker'ınız önce diğer müşterilerinden eşleşen bir satış 
+emri bulmaya çalışacak veya işlemlerinizi likidite sağlayıcısına, yani finansal bir varlığı 
+kolayca alıp satan büyük bir kuruluşa aktaracaktır. Bunu yaparak, işleminizin karşı tarafını 
+almadan spread'den kazandıkları için riski en aza indirirler. Ancak, eşleşen emir yoksa, 
+işleminizin karşı tarafını almak zorunda kalacaklardır. Farklı broker'ların farklı risk yönetim 
+politikaları olduğunu unutmayın, bu nedenle bu konuda broker'ınıza danışın.
+İşlem masası olmayan broker nedir?
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Adından da anlaşılacağı gibi, İşlem Masası Olmayan (NDD) brokerlar müşterilerinin emirlerini 
+İşlem Masası'ndan geçirmezler. Bu, müşterilerinin işlemlerinin diğer tarafını almadıkları anlamına 
+gelir çünkü sadece iki tarafı birbirine bağlarlar.
+NDD'ler köprü inşaatçıları gibidir: iki alanı birbirine bağlamak için aksi takdirde geçilemez 
+veya geçilmesi zor bir arazi üzerine bir yapı inşa ederler. NDD'ler işlem için çok küçük bir 
+komisyon alabilir veya spread'i biraz artırarak sadece bir kar payı koyabilirler. İşlem Masası 
+brokerleri STP veya STP + ECN olamaz.
+STP broker nedir?
+Bazı brokerlar gerçek ECN brokerları olduklarını iddia ederler, ancak gerçekte, yalnızca Straight 
+Through Processing sistemine sahiptirler. STP sistemine sahip Forex brokerları, müşterilerinin 
+emirlerini doğrudan bankalar arası piyasaya erişimi olan likidite sağlayıcılarına yönlendirir. 
+NDD STP brokerları genellikle birçok likidite sağlayıcısına sahiptir ve her sağlayıcı kendi alış ve 
+satış fiyatını belirtir. Diyelim ki NDD STP brokerınızın üç farklı likidite sağlayıcısı var. 
+Sistemlerinde, üç farklı alış ve satış teklifi çifti göreceklerdir.
+Likidite sağlayıcıları teklif etmek Sormak
+Likidite sağlayıcı A 1.2998 1.3001
+Likidite sağlayıcı B 1.2999 1.3001
+Likidite sağlayıcı C 1.3000 1.3002
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Sistemleri daha sonra bu alış ve satış fiyatlarını en iyiden en kötüye doğru sıralar. Bu durumda, alış 
+tarafındaki en iyi fiyat 1.3000'dir (yüksekten satmak istersiniz) ve satış tarafındaki en iyi fiyat 
+1.3001'dir (düşükten satın almak istersiniz). Alış/satış fiyatı artık 1.3000/1.3001'dir. Platformunuzda 
+göreceğiniz fiyat teklifi bu mu olacak? Elbette hayır! Aracınız bir yardım kuruluşu işletmiyor! 
+Aracınız bu fiyat tekliflerini ücretsiz olarak sıralamak için tüm bu zahmete girmedi! Onların 
+zahmetini telafi etmek için aracınız küçük, genellikle sabit bir fiyat farkı ekler. Politikaları 1 piplik bir 
+fiyat farkı eklemekse, platformunuzda göreceğiniz fiyat teklifi 1.2999/1.3002 olur. 3 piplik bir 
+spread göreceksiniz. 1 piplik spread sizin için 3 piplik bir spread'e dönüşür.
+Yani 1.3002'den 100.000 birim EUR/USD satın almaya karar verdiğinizde, emriniz brokerınız 
+aracılığıyla gönderilir ve ardından Likidite Sağlayıcı A veya B'ye yönlendirilir. Emriniz 
+onaylanırsa, Likidite Sağlayıcı A veya B'nin 1.3001'de 100.000 birim EUR/USD'lik kısa 
+pozisyonu olacak ve 1.3002'de 100.000 birim EUR/USD'lik uzun pozisyonunuz olacak. 
+Brokerınız 1 pip gelir elde edecektir. Bu değişen alış/satış teklifi aynı zamanda çoğu STP tipi 
+brokerın değişken spreadlere sahip olmasının nedenidir.
+Likidite sağlayıcılarının spreadleri genişlerse, spreadlerini de genişletmekten başka çareleri 
+kalmaz. Bazı STP brokerları sabit spreadler sunarken, çoğu değişken spreadlere sahiptir.
+ECN brokeri nedir?
+Öte yandan gerçek ECN brokerları, müşterilerinin emirlerinin ECN'deki diğer katılımcıların 
+emirleriyle etkileşime girmesine izin verir. Katılımcılar bankalar, perakende tüccarlar, hedge fonları 
+ve hatta diğer brokerlar olabilir. Esasında, katılımcılar en iyi alış ve satış fiyatlarını sunarak 
+birbirlerine karşı işlem yaparlar. ECN'ler ayrıca müşterilerinin "Piyasa Derinliğini" görmelerine izin 
+verir. Piyasa Derinliği, diğer piyasa katılımcılarının alım ve satım emirlerinin nerede olduğunu 
+gösterir. ECN'nin doğası gereği, sabit bir kar payı koymak çok zordur, bu nedenle ECN brokerları 
+genellikle küçük bir komisyonla tazmin edilirler.
+İşlem Masası ve İşlem Masası Olmayan Forex Brokeri.
+Hangi tür broker'ı seçmeliyim? İşlem masası broker'ı mı? Yoksa işlem masası olmayan broker 
+mı? Bu tamamen size kalmış! Bir broker türü diğerinden daha iyi değildir çünkü her şey sizin ne 
+tür bir yatırımcı olduğunuza bağlı olacaktır. Karar vermek size kalmış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+daha dar spread'ler tercih edersiniz ancak işlem başına komisyon ödersiniz, daha geniş spread'ler ve 
+komisyonsuz işlem yerine. Genellikle, günlük yatırımcılar ve scalper'lar daha dar spread'leri tercih eder çünkü 
+piyasanın işlem maliyetlerini aşmak için kat etmesi gereken daha az alan olduğundan küçük karlar elde etmek 
+daha kolaydır. Bu arada, daha geniş spread'ler uzun vadeli swing veya pozisyon yatırımcıları için önemsiz olma 
+eğilimindedir.
+Piyasa yapıcılar, STP brokerları ve STP + ECN brokerları arasındaki farklar:
+İşlem Masası (Piyasa Yapıcı) Masa Başı İşlem Yok (STP) Masa Başı İşlem Yok (STP + ECN)
+Sabit spreadler Çoğunun değişken spreadleri var Değişken spreadler veya komisyon ücretleri
+İşleminizin diğer tarafını alın Müşteri ve likidite sağlayıcısı arasında 
+basit bir köprü
+Müşteri, likidite sağlayıcısı ve diğer 
+katılımcılar arasında bir köprü.
+Yapay alıntılar Fiyatlar likidite sağlayıcılarından gelir Fiyatlar likidite sağlayıcılarından ve diğer 
+ECN katılımcılarından gelmektedir
+Emirler, aracı kurum tarafından takdir 
+yetkisine bağlı olarak doldurulur
+Otomatik yürütme, tekrar tırnak işareti yok Otomatik, tekrar teklif yok
+Piyasa derinliğini (DOM) veya likidite 
+bilgilerini görüntüler
+Başka bir yerde okumuş olabileceğinizin aksine, forex brokerları gerçekten sizi kandırmak için 
+orada değiller! Sizinle iş yapmak istiyorlar, sizi işten çıkarmak değil! Bir düşünün, eğer tüm 
+paranızı işlem yaparken kaybederseniz, onlar da müşteri kaybedeceklerdir. İşlem masası 
+brokerlarının ideal müşterisi, az çok zararı telafi eden müşteridir. Başka bir deyişle, sonunda ne 
+kazanan ne de kaybeden bir müşteri. Bu şekilde, broker müşterinin işlemlerinden para kazanır, 
+ancak aynı zamanda müşteri hesabını boşaltmayarak oyunda kalır. Esasen, brokerlar 
+müşterilerinin daha fazlası (işlem) için geri gelmelerini ister.
+Aracı kurum seçerken dikkat edilmesi gereken 6 önemli faktör.
+1. Güvenlik.
+İyi bir brokerın sahip olması gereken ilk ve en önemli özellik yüksek seviyede 
+güvenliktir. Sonuçta, sadece meşru olduğunu iddia eden birine binlerce dolar 
+vermeyeceksiniz, değil mi? Neyse ki, bir forex brokerinin güvenilirliğini kontrol etmek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+çok zor değil. Dünyanın her yerinde güvenilirleri dolandırıcılardan ayıran 
+düzenleyici kurumlar var.
+Ülkelerin ve ilgili düzenleyici kurumların listesi:
+Amerika Birleşik Devletleri: Ulusal Vadeli İşlemler Birliği (NFA) ve Emtia Vadeli İşlemler Ticaret 
+Komisyonu (CFTC)
+Birleşik Krallık: Finansal Yürütme Kurumu (FCA) ve Tedbirsel Düzenleme Kurumu (PRA)
+Avustralya: Avustralya Menkul Kıymetler ve Yatırım Komisyonu (ASIC)
+İsviçre: İsviçre Federal Bankacılık Komisyonu (SFBC)
+Almanya: Bundesanstalt für Finanzdienstleistungsaufsicht (BAFIN)
+Fransa: Autorité des Marchés Financiers (AMF)
+Kanada: Autorité des Marchés Financiers (AMF)
+Paranızı bir aracı kuruma yatırmayı düşünmeden önce, aracı kurumun yukarıda belirtilen 
+düzenleyici kuruluşlara üye olduğundan emin olun.
+2. İşlem maliyeti.
+Ne tür bir döviz yatırımcısı olursanız olun, beğenin veya beğenmeyin, her zaman işlem 
+maliyetlerine tabi olacaksınız.Her bir işleme girdiğinizde, forex spread'i veya komisyonu 
+ödemeniz gerekecektir, bu nedenle en uygun ve en ucuz oranları aramanız doğaldır. Bazen 
+daha güvenilir bir broker için düşük işlemden fedakarlık etmeniz gerekebilir. İşlem türünüz için 
+dar spread'lere ihtiyacınız olup olmadığını bildiğinizden emin olun ve ardından mevcut 
+seçeneklerinizi inceleyin. Her şey güvenlik ile düşük işlem maliyetleri arasında doğru dengeyi 
+bulmakla ilgilidir.
+3. Para yatırma ve çekme.
+İyi forex brokerları para yatırmanıza ve kazançlarınızı sorunsuz bir şekilde çekmenize izin 
+verir. Brokerların karlarınızı çekmenizi zorlaştırmak için gerçekten hiçbir nedenleri yoktur 
+çünkü fonlarınızı tutmalarının tek nedeni ticareti kolaylaştırmaktır. Brokerınız paranızı 
+yalnızca ticareti kolaylaştırmak için tutar, bu nedenle kazandığınız karları elde etmekte zorluk 
+çekmeniz için hiçbir neden yoktur. Brokerınız para çekme işleminin hızlı ve sorunsuz 
+olduğundan emin olmalıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+4. Ticaret platformu.
+Çevrimiçi forex ticaretinde, çoğu ticaret faaliyeti broker'ların ticaret platformu üzerinden 
+gerçekleşir. Bu, broker'ınızın ticaret platformunun kullanıcı dostu ve istikrarlı olması gerektiği 
+anlamına gelir. Bir broker ararken, her zaman ticaret platformunun neler sunduğunu kontrol edin. 
+Ücretsiz haber akışı sunuyor mu? Kullanımı kolay teknik ve grafik araçları ne olacak? Size düzgün bir 
+şekilde ticaret yapmak için ihtiyaç duyacağınız tüm bilgileri sunuyor mu?
+5. İnfaz.
+Brokerinizin emirleriniz için mümkün olan en iyi fiyatı doldurması zorunludur. Normal piyasa 
+koşullarında (örneğin normal likidite, önemli haber bültenleri veya sürpriz olaylar olmaması) 
+brokerinizin sizi "satın al" veya "sat" düğmesine tıkladığınızda gördüğünüz piyasa fiyatında 
+veya çok yakınında doldurmaması için gerçekten hiçbir neden yoktur. Örneğin, istikrarlı bir 
+internet bağlantınız olduğunu varsayarak, 1.3000 için EUR/USD "satın al"a tıklarsanız, 
+emirleriniz o fiyattan veya ona mikro pipler kala doldurulmalıdır. Emirlerinizin doldurulma hızı 
+çok önemlidir, özellikle de bir scalper iseniz. Fiyattaki birkaç piplik fark, o ticareti kazanmanızı 
+çok daha zorlaştırabilir.
+6. Müşteri hizmetleri.
+Brokerlar mükemmel değildir ve bu nedenle sorunlar ortaya çıktığında kolayca iletişime 
+geçebileceğiniz bir broker seçmelisiniz. Brokerların hesap veya teknik destek sorunlarıyla 
+ilgilenirkenki yetkinlikleri, işlemleri yürütme performansları kadar önemlidir. Brokerlar 
+hesap açma sürecinde nazik ve yardımsever olabilirler, ancak "satış sonrası" destekleri 
+berbattır.
+Forex kova dükkanlarına dikkat edin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+İşte kötü adamlar, Forex kova dükkanları "şüpheli" işlem uygulamalarına sahip aracı 
+kurumlardır (örneğin, alışılmadık sıklıkta fiyat yanlış teklifleri veya yeniden teklifleri, 
+yalnızca aracının lehine olan kayma, avlanmayı durdurma, vb.). İsim, müşterilerinin 
+telefonla verdikleri emirleri fişlere koyan ve daha sonra bunları (müşterileri değil, 
+fişleri) gerçekten yürütmek yerine küçük bir kovaya atan eski zamanlardaki aracılardan 
+gelir. Emirleri serbest piyasaya koymadan, müşteri aslında kovacı olarak da bilinen 
+forex kova dükkanı operatörlerine karşı bahis oynar. Bu eski tarz kovacılar genellikle 
+müşterilerinin işlem yaptığı varlığın gerçek fiyatını açıklamazlar, bu da müşteriye 
+fiyatın aracının lehine hareket ettiğini veya etmediğini söyleyebilecekleri anlamına 
+gelir!
+Ancak internetin icadı ve düzenlemelerin ve yaptırımların iyileştirilmesi sayesinde, yeni 
+başlayanların bugünlerde endişelenecek daha az şeyi var. Ne yazık ki, kova dükkanları hala orada, 
+bu yüzden dikkatli olun! İyi brokerları kötü olanlardan ayırmanıza yardımcı olmak için, diğer forex 
+yatırımcılarının çok sayıda broker hakkında geri bildirimlerini ve deneyimlerini nazikçe paylaştığı 
+Forex Brokers Forum'a gidin. Bu nedenle, paranızı herhangi birine yatırmadan önce, sahte 
+brokerlardan ve forex dolandırıcılıklarından kaçınmak için gerekli özeni gösterdiğinizden ve 
+casusluk yaptığınızdan emin olun.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Forex broker dolandırıcılıklarına karşı kendinizi nasıl korursunuz?
+1. Fiyat akışlarını karşılaştırın.
+Gözü kapalı bir at hayal edin. Bu atın görüşü önündekiyle sınırlıdır. Önünde bir engel varsa, bu 
+atın üzerinden atlamak için gereken ek çabayı göstermekten başka seçeneği yoktur. Bu at çok 
+üzgün bir attır. İşlem platformunuzda yalnızca fiyat akışını kullanırsanız, temelde gözü kapalı bir 
+at gibi işlem yaparsınız. Forex dünyasının geri kalanında neler olup bittiği hakkında hiçbir fikriniz 
+yoktur çünkü kendinizi brokerinizin fiyat akışıyla sınırlamışsınızdır. Brokeriniz spreadleri 
+genişletmeyi, oranları manipüle etmeyi ve stop'larınızı çalıştırmayı seçerse, hareketin genel 
+piyasaya benzeyip benzemediğini bilmenin bir yolu yoktur. Üzgün   bir at olmak istemezsiniz. Akıllı 
+bir yatırımcı olduğunuz için, piyasanın mümkün olan en eksiksiz görünümüne sahip olmak 
+istersiniz. Bunu yapmanın en iyi yolu, ikinci, üçüncü veya hatta dördüncü fiyat akışına abone 
+olmaktır. Bu şekilde, piyasaya dair başka bir görüş elde edersiniz ve fiyatın gerçekten de hareket 
+ettiği şekilde hareket edip etmediğini doğrulama şansınız olur.
+2. Her şeyi kaydedin.
+Her zaman tüm işlemlerinizi takip eden ayrıntılı günlükler tutun! Her zaman, her zaman, her zaman! Bir 
+mahkeme salonunda olduğu gibi, bir dava açmak için kanıta ihtiyacınız vardır. Aldatılmış hissedebilirsiniz, 
+ancak bunu destekleyecek hiçbir şeyiniz yoksa, o zaman bu his sadece bir his olarak kalacaktır. Kayıt 
+tutmanın en kolay yolu, verdiğiniz her emrin, aldığınız her işlemin ve garip fiyat beslemeleri gibi diğer 
+şüpheli broker faaliyetlerinin ekran görüntüsünü almaktır. Bu sadece iyi bir işlem günlüğü değil, aynı 
+zamanda hatalı bir doldurma mağduruysanız da işe yarayacaktır. Aldığınız işlemleri düzgün bir şekilde 
+takip ederek, brokerinizle bir anlaşmazlık bildirmeniz durumunda davanızı desteklemek için her zaman 
+ihtiyaç duyacağınız kanıtlara sahip olacağınızdan emin olabilirsiniz.
+3. Yasal işlem başlatın.
+Aracınızla olan anlaşmazlığınızı çözemiyorsanız, o zaman yasal işlem başlatmanızın zamanı gelmiştir. 
+Çoğu aracı, yasal işlem tehdidiyle karşı karşıya kaldığında pes eder, ancak bunu yaparlarsa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+hayır, Emtia Vadeli İşlemler Ticaret Komisyonu'na (CFTC) veya Ulusal Vadeli İşlemler 
+Derneklerine (NFA) başvurabilirsiniz. CFTC, müşteri şikayetlerini ele almak ve vadeli işlem 
+müşterileri ile emtia vadeli işlem ticareti profesyonelleri arasındaki anlaşmazlıkları çözmek için 
+"ucuz, hızlı, adil ve tarafsız bir forum" sağlayan bir Tazminat programına sahiptir. Benzer 
+şekilde, NFA, FCM'lerin ve müşterilerinin anlaşmazlıkları çözmelerine yardımcı olan bir Tahkim/
+Arabuluculuk programına sahiptir.
+4. İyi ticaret alışkanlıkları.
+Cübbeli disiplinli bir rahibe gibi siz de iyi ticaret alışkanlıkları geliştirmelisiniz. Bu şakanın 
+mantıklı olmadığını biliyoruz, ancak kulağa komik geldiği için buraya koyabiliriz. Her 
+durumda, kendinizi kötü brokerlara karşı korumak için uygun silahlara sahip olsanız bile, 
+en önemli şey hala daha iyi bir trader olmaktır. Grafik yazılımınız ne kadar gelişmiş olursa 
+olsun, doğru brokerı bulmak için ne kadar zaman harcarsanız harcayın, ticaret sisteminiz 
+ne kadar karmaşık olursa olsun, uygun disiplin olmadan sonunda kaybedeceğinizi bilin. 
+Suçu brokerlara atmak çok kolaydır, ancak günün sonunda, sizi istediğiniz yere götüren şey 
+aslında sizin seçimlerinizdir.
+Forex yatırım hesabı nasıl açılır.
+Sizin için doğru aracı kurumu bulduktan sonra, üç basit adımda bir forex yatırım hesabı 
+açabilirsiniz:
+* Hesap türü seçimi
+* Kayıt
+* Hesabınızı etkinleştirme
+Zor kazandığınız paranın bir kuruşunu bile takas etmeden önce, demo hesap açmayı 
+düşünebilirsiniz. Aslında, iki veya üç demo hesap açın - neden olmasın? Hepsi ücretsiz! Sizin 
+için doğru olanı bulmak için birkaç farklı brokeri deneyin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Hesap türü seçimi.
+Canlı bir hesap açmaya hazır olduğunuzda, hangi tür forex işlem hesabı istediğinizi seçmeniz 
+gerekir: kişisel hesap veya işletme (diğer adıyla kurumsal) hesap. Geçmişte, bir forex işlem 
+hesabı açarken, "standart" hesap, "mini" hesap veya "mikro" hesap açmak isteyip 
+istemediğinizi de seçmeniz gerekirdi. Şimdi, çoğu broker özel lotlarla işlem yapmanıza izin 
+verdiği için bu pek de sorun değil. Bu, yalnızca küçük bir sermaye hesabına sahip olan yeni 
+başlayanlar ve deneyimsiz yatırımcılar için harika. Bu, rahat ettiğinizden daha büyük işlem 
+yapmak zorunda kalmayacağınız için size büyük bir esneklik sağlar. Bazı brokerların "yönetilen 
+hesapBaşvuru formlarında "seçeneği". Aracının sizin adınıza hesabınızla işlem yapmasını 
+istiyorsanız, bunu seçebilirsiniz. Yönetilen bir hesap açmak için oldukça büyük bir asgari 
+depozito gerekir, normalde 2.000$ veya daha fazla. Ayrıca, yönetici de herhangi bir kârdan pay 
+alacaktır.
+Kayıt.
+Hesap açmak için evrak (kimlik belgesi/kartı ve ikametgah belgesi) sunmanız gerekecektir 
+ve formlar brokerdan brokera değişecektir. Bunlar genellikle PDF formatında sağlanır ve 
+Adobe Acrobat kullanılarak görüntülenebilir ve yazdırılabilir.
+Okuyucu programı. Ayrıca, bankanızın banka havalesi için ne kadar ücret aldığı gibi tüm ilişkili 
+maliyetleri bildiğinizden emin olun. Bunların gerçekte ne kadar maliyetli olduğuna şaşıracaksınız ve 
+aslında bunlar ticaret sermayenizin önemli bir bölümünü kaplayabilir.
+Hesap aktivasyonu.
+Broker gerekli tüm evrakları aldıktan sonra, hesabınızın aktivasyonunu tamamlama 
+talimatlarını içeren bir e-posta almalısınız. Bu adımlar tamamlandıktan sonra, kullanıcı adınız, 
+şifreniz ve hesabınıza nasıl para yatıracağınıza dair talimatların bulunduğu son bir e-posta 
+alacaksınız. Geriye sadece giriş yapmanız ve işlem yapmaya başlamanız kalıyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+DÖRDÜNCÜ BÖLÜM
+METATRADER PLATFORMU.
+Meta-trader platformu.
+Meta-Trader 4, MetaQuotes Software tarafından forex, fark sözleşmeleri (CFD'ler) ve vadeli işlemler 
+piyasasında çevrimiçi ticaret için geliştirilen bir ticaret platformudur. Yaygın olarak bilinen adıyla 
+MT4, doğrudan MetaQuotes web sitesinden (www.metaquotes.net) veya düzinelerce çevrimiçi forex 
+broker'ından ücretsiz olarak indirilebilir. MT4, yatırımcıların fiyat analiz etmelerine, işlemleri 
+gerçekleştirmelerine ve yönetmelerine ve otomatik ticaret tekniklerini kullanmalarına olanak 
+tanıyan araçlar ve kaynaklar sağlar. Bu eğitim, grafik ayarları, teknik analiz araçları ve işlem 
+yerleştirme gibi Meta-Trader 4'ün birçok özelliğine bir giriş sağlayacaktır. Meta-Trader platformu 
+kişisel bilgisayarlar (windows, iMac ve Linux) ve akıllı telefonlar (android ve apple) için kullanılabilir.
+Meta-trader platformu: Kurulum kılavuzu.
+Meta-Trader 4 programı doğrudan MetaQuotes Software'in özel MT4 web sitesinden 
+(metatrader4.com) veya programı sunan çok sayıda forex brokerinden herhangi biri 
+aracılığıyla indirilebilir. Kurulum, yüksek hızlı bir İnternet bağlantısıyla yalnızca birkaç 
+dakika sürer. "İndir"e tıkladıktan sonra, bir Meta-Trader 4 Kurulum penceresi açılacaktır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Şekil 1'de gösterildiği gibi görünecektir. Lisans sözleşmesini okuyun ve ardından kurulumu başlatmak için 
+"İleri"ye tıklayın.
+Şekil 1: İndir butonuna tıkladıktan sonra Meta-trader 4 kurulum penceresi açılır.
+Şekil 2'de gösterilen yeni bir pencere açılacak ve tüccara varsayılan kurulum klasörünü kabul etme 
+veya farklı bir klasör belirleme seçeneği sunulacaktır. Ayrıca masaüstü kısayolu oluşturma ve 
+başarılı kurulumdan sonra programı başlatma seçenekleri de vardır. Varsayılan olarak bu 
+seçenekler seçilidir; seçimi kaldırmak için kutuyu tıklamanız yeterlidir.
+Şekil 2: Kurulum klasörünün seçilmesi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Kurulum ilerlemesini gösteren yeni bir pencere açılacaktır (Şekil 3). Tüm görevler 
+tamamlandıktan sonra devam etmek için "İleri"ye tıklayın.
+Şekil 3: Kurulum ilerlemesi.
+Başarılı kurulumun ardından MT4, Şekil 4'te gösterildiği gibi varsayılan parametreleriyle 
+başlatılacaktır. Yatırımcının bir hesap açmasını isteyen bir açılır pencere görünecektir. Ad, 
+ülke, eyalet, şehir, posta kodu, adres, telefon ve e-posta alanlarını doldurun. Hesap türünü, 
+para birimini, istenen kaldıracı ve varsayımsal mevduatı açılır menülerden seçin. Yatırımcı 
+bir forex broker'ında bir işlem hesabı açıp para yatırmadığı sürece bu hesap otomatik 
+olarak bir demo hesabı olacaktır; yatırımcılar gerçek para riske atmadan programı 
+kullanma pratiği yapabilirler. "İleri" düğmesinin görünmesi için "Bültenlerinize abone 
+olmayı kabul ediyorum" seçilmelidir. İşlemi tamamlamak için "İleri"ye tıklayın. Hesap 
+başarıyla oluşturulduktan sonra veriler otomatik olarak güncellenmeye başlayacak ve fiyat 
+grafikleri canlanacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Şekil 4 Başarılı kurulumdan sonra, MT4 programı başlatılacak ve kullanıcıdan bir hesap açmasını isteyecektir. "Kabul ediyorum
+Kurulumu tamamlamak için "haber bültenimize abone olun" kutusu (burada, sarı elips içinde) işaretlenmelidir.
+Meta-trader platformu: Temel gezinme.
+Varsayılan olarak, MT4 her biri farklı bir döviz çiftini temsil eden dört grafik penceresiyle açılır. 
+Birçok simgeyle doldurulmuş araç çubukları ekranın en üstünde yer alır. Araç çubuklarının 
+altında, ekranın sol tarafında, çeşitli döviz çiftlerini ve karşılık gelen alış ve satış fiyatlarını 
+listeleyen "Piyasa İzleme" penceresi bulunur. "Piyasa İzleme" penceresinin en altında iki sekme 
+bulunur: Biri "Semboller" olarak adlandırılır ve bu döviz çiftlerinin listesini gösterir. Diğeri "Tick 
+Charts" olarak adlandırılır; bu sekme, döviz çiftlerinden herhangi birinin geçerli fiyat 
+aktivitesini göstermek için seçilebilir. "Piyasa İzleme" penceresinin altında "Navigator" 
+penceresi bulunur. Burada, yatırımcılar hesaplarını ve çeşitli göstergeleri, "Uzman 
+Danışmanları" ve "Komut Dosyalarını" görüntüleyebilirler.
+"Terminal" ekranın alt kısmında altı sekmeyle görünür:İşlem, Hesap Geçmişi, Uyarılar, Posta 
+Kutusu, Uzmanlar ve Günlük. Tüccarlar her sekmede görünen bilgi türüne aşina olmak için 
+her sekmeye tıklayabilir. Örneğin, "İşlem" sekmesi, sembol, işlem giriş fiyatı, zarar 
+durdurma seviyeleri, kar alma seviyeleri, kapanış fiyatı ve kar veya zarar dahil olmak üzere 
+açık emirlerin ve işlemlerin görüntülenebileceği yerdir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+"Hesap Geçmişi" sekmesi ise kapatılan emirler de dahil olmak üzere gerçekleşen 
+tüm aktiviteleri listeler.
+MT4 ekranının farklı bölümleri.
+Grafikler ve ayarlar.
+Fiyat grafikleri, tüccarın stilini ve renk tercihlerini yansıtacak şekilde özelleştirilebilir. Herhangi 
+bir fiyat grafiğine sağ tıklayın ve grafiğin görünümünü özelleştirmek için "Özellikler"i seçin. 
+"Renkler" sekmesinin en üstündeki "Renk Şeması" açılır menüsünde birkaç varsayılan renk 
+şeması görünür. Tüccarlar ayrıca arka plan, ön plan, ızgara ve çubuk renkleri dahil olmak üzere 
+her değişken için renkleri belirtme seçeneğine sahiptir. "Genel" sekmesi, tüccarların hacim gibi 
+belirli özelliklerin grafikte görünmesini isteyip istemediklerini seçmelerine olanak tanır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Özellikler penceresine herhangi bir fiyat grafiğine sağ tıklanarak ve "Özellikler" seçilerek 
+ulaşılabilir.
+Şablonlar.
+Bir renk şeması seçildikten sonra, şablon olarak kaydedilebilir. Üst araç çubuğundaki 
+"Şablon" simgesine tıklayın ve "Şablonu Kaydet"i seçin. Şablona bir ad verin ve yeni 
+şablon şablonların açılır listesinde görünecektir. Bu şablon artık herhangi bir grafiğe, 
+"Şablon" simgesine tıklanarak ve açılır listeden istenen şablon seçilerek uygulanabilir.
+Fiyat ÇubuklarıTüccarlar ayrıca fiyatın her grafikte nasıl görüneceğini seçebilirler. Bir 
+grafik seçildiğinde, istediğinize tıklayın
+simge çubuk, mum çubuğu veya çizgi fiyat verilerini uygulamak için. İmleci herhangi bir
+simgesi, simgenin adının görünmesini sağlayacaktır.
+Bu, her simgenin işlevini öğrenirken faydalıdır. Grafik türü ayrıca üst araç 
+çubuğundaki "Grafikler"e tıklanarak ve açılır menüden istenen tür seçilerek de 
+seçilebilir.
+Göstergeler.
+Herhangi bir fiyat grafiğine çeşitli teknik analiz göstergeleri eklenebilir. Mevcut göstergelerin listesini 
+görüntülemek ve bir değer belirlemek için üst araç çubuğundaki "Göstergeler Ekle" simgesine tıklayın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Seçim. Aşağıdaki resim "Göstergeler Ekle" açılır menüsünün bir örneğini göstermektedir. 
+Bu menüye ayrıca üst araç çubuğundaki "Ekle"ye tıklayıp "Göstergeler"i seçerek de 
+erişilebilir. Birçok gösterge, trendler, osilatörler ve hacimler gibi gösterge türüne göre 
+kategorize edilir ve uygun başlık altında bulunabilir. Bir gösterge seçildikten sonra, tüccar 
+hareketli ortalama uzunluğu gibi girdileri değiştirme veya varsayılan ayarları kullanma 
+seçeneğine sahip olacaktır. Gösterge daha sonra fiyat grafiğinde görünecektir.
+Herhangi bir fiyata uygulanabilen teknik göstergelerin listesine erişmek için üst araç çubuğundaki "Gösterge Ekle" simgesine tıklayın
+çizelge
+.
+Grafik boyutu.
+Herhangi bir fiyat grafiği, grafik pencerelerinin altındaki grafik sekmesine sağ tıklanarak 
+kapatılabilir, büyütülebilir, küçültülebilir veya geri yüklenebilir. Örneğin aşağıdaki şekil, EUR/USD 
+döviz çifti için sekmeye sağ tıklandıktan sonra görünen pencereyi ve karşılık gelen seçenekleri 
+gösterir.
+Her grafik, grafiğin altındaki döviz çifti sekmesine sağ tıklanarak kapatılabilir, büyütülebilir, küçültülebilir veya geri yüklenebilir
+pencere.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Yakınlaştır.
+Tüccarlar bazen bir fiyat grafiğine daha yakından bakabilmeyi faydalı bulabilirler. Grafiğin farklı bir 
+görünümünü elde etmek için üst araç çubuğunun "Yakınlaştır" ve "Uzaklaştır" simgelerine 
+tıklanabilir. "Yakınlaştır" özelliği, tüccarların daha küçük bir veri kümesine daha yakından bakmasını 
+sağlar; "Yakınlaştır" simgesine her tıklama, grafiğin daha yakın bir görünümünü sağlar. "Uzaklaştır" 
+simgesi için ise tam tersi geçerlidir; bu simgeye tıklanarak grafik orijinal görünümüne 
+döndürülebilir.
+Zaman dilimleri.
+Farklı zaman dilimleri, Şekil 9'da gösterildiği gibi, "Dönemler" simgesine tıklanarak veya araç 
+çubuğundan istenen zaman dilimi seçilerek bir grafiğe uygulanabilir. M1 bir dakikalık zaman 
+dilimini, M5 beş dakikalık zaman dilimini, H1 bir saati vb. temsil eder. Birçok yatırımcı aynı 
+işlem sembolünü birden fazla zaman diliminde izlemeyi sever. Monitör alanı sorunsa ve aynı 
+sembolün birden fazla grafiği pratik değilse, yatırımcılar bu kolay erişilebilir araç çubuğu 
+simgelerini kullanarak zaman dilimleri arasında geçiş yapabilir.
+Farklı zaman dilimleri, "Dönemler" ikonuna tıklanarak ve açılan listeden seçilerek veya araç çubuğundaki istenilen ikona 
+tıklanarak grafiğe uygulanabilir.
+Çizim araçları.
+Tüccarlar piyasa analizlerini geliştirmek için çeşitli çizim araçlarını kullanabilirler. Dikey 
+çizgiler, yatay çizgiler, trendlik, kanallar ve Fibonacci Geri Çekilmeleri gibi nesneler
+çizilebilir. Her çizim aracının kendi simgesi vardır araç çubuğunda bulunur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Gann çizgileri gibi ek çizim araçlarına, üst araç çubuğundaki "Ekle"ye tıklayıp çeşitli araçlar 
+arasından seçim yaparak ulaşabilirsiniz.
+Bağlantı durumu.
+Ekranın sağ alt köşesinde, platformun İnternet'e bağlı olup olmadığını ve piyasa 
+güncellemelerini alıp alamayacağını belirten bir durum simgesi gösterilir. Kırmızı
+barlar
+barlar
+bağlantı hızı.
+bağlantı olmadığını gösterir. Tersine, yeşil
+bir bağlantı olduğunu gösterir ve bitişik sayı,
+Meta-trader platformu: akıllı telefonlar için kurulum.
+Meta-Trader sadece bilgisayarlarda değil akıllı telefonlarda da çalışmaktadır, android ve 
+apple ürünlerin hepsinde platform aynı bilgileri içermektedir, eğer bir farklılık varsa sadece 
+yapıda farklılık olması yeterlidir.
+Adım 1.
+Apple akıllı telefonunuz varsa Google App Store'a veya Apple'a gidin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Adım 2.
+Arama kutusuna gidin ve “meta-trader 4” yazın ve ara'ya tıklayın, meta-trader uygulamalarının bir 
+listesi görünecektir ancak yalnızca meta-trader 4'ü yüklemeniz gerekir.
+Adım 3.
+Kurulumdan sonra, Meta-Trader uygulamasının yüklü sürümünü açın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Adım 4.
+Artık kurulumu tamamladınız, uygulama açıldığında işlem yapmanıza izin verilen mevcut döviz 
+çiftlerinin bir listesini göreceksiniz. Daire içine alınmış alan döviz çiftleri için seçenektir.
+Adım 5.
+Belirli bir döviz çiftinin grafiğini görebilmek için, işlem açmadan önce grafik görüntüleme 
+seçeneği olan daire içine alınmış alana tıklamanız gerekmektedir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Adım 6.
+Bakiyenizi, sermayenizi, serbest marjınızı ve mevcut açık işlemlerinizi görmek istiyorsanız, daire içine 
+alınmış seçenek tam size göre.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Adım 7.
+İşlem geçmişinizi görüntülemek, kapattığınız işlemlerde kar mı yoksa zarar mı ettiğinizi görmek için 
+daire içine alınan seçenek “hesap geçmişi” içindir.
+Adım 8
+Son daire içine alınan seçenek ise “haberler” içindir, yabancı piyasa borsalarına ilişkin her şey 
+burada gösterilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+BEŞİNCİ BÖLÜM.
+İLK İŞLEMİNİZİ NASIL AÇARSINIZ.
+Veri merkezlerine/canlı hesaplara ve geçmiş verilere bağlanma
+Meta-Trader 4 başlatıldığında, bir hesap açıldığında (bir demo hesap bile olsa) ve bağlantı 
+doğrulandığında, yatırımcılar canlı piyasa verilerini görüntüleyebilmelidir. Sağ alt köşedeki 
+durum simgesi bir bağlantı olduğunu gösteriyorsa ancak grafikler hala güncellenmiyorsa, 
+"Grafikler"e tıklayıp ardından "Yenile"yi seçmek verilerin düzgün bir şekilde yüklenmesini 
+sağlamalıdır.
+Birçok yatırımcı, işlem stratejilerini geriye dönük test etmek veya bir stratejinin geçmişte nasıl 
+performans göstereceğini belirlemek için geçmiş verileri incelemek ister. Bu geçmiş veriler MT4'ün 
+Geçmiş Merkezi aracılığıyla indirilebilir:
+- Öncelikle, örneğin her gün 1.440 dakikalık çubuk (saat başına 60 dakika ile 24 saatin 
+çarpımı) varsayarak, maksimum çubuk sayısı ayarının indirilecek verileri 
+barındırabileceğinden emin olun. MT4'te, "Araçlar"a tıklayın ve maksimum çubuk 
+sayısını girmek için Seçenekler > Grafikler > Geçmişteki Maksimum Çubuklar'ı seçin.
+-Tarih Merkezini açın: "Araçlar"a tıklayın ve "Tarih Merkezi"ni seçin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+- Enstrümanı ve zaman çerçevesini seçin, pencerenin sağ tarafındaki veritabanını 
+doldurmak için çift tıklayın. İstenilen veriyi seçin (birden fazla seçmek için Ctrl + 
+Tıkla) ve ardından "İndir"e tıklayın. Aşağıda bir örnek görülebilir.
+İstenirse veriler çeşitli formatlarda dışarı aktarılabilir. Talimatlar MT4 kullanıcı kılavuzunda 
+"Yardım"a tıklanarak ve "Yardım Konuları" seçilerek bulunabilir.
+Tarih Merkezi'nden günlük AUD/CAD verilerini indirme.
+Emirlerin açılması ve değiştirilmesi
+Bir tüccar piyasaya bir emir girmeye hazır olduğunda, "Emir" penceresinin açılması 
+gerekecektir. Bu, üç yoldan herhangi biriyle gerçekleştirilebilir:
+1. "Piyasa İzleme" penceresinde bir döviz çiftine sağ tıklayın ve "Yeni İşlem" seçeneğini 
+seçin;
+2. Etkin bir grafiğe sağ tıklayın ve İşlem>Yeni Sipariş'i seçin; ve
+3. Araç çubuğundaki "Yeni Sipariş" butonuna tıklayın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Yeni bir sipariş açmanın üç yolu.
+Herhangi bir yöntem aşağıdaki resimde gösterilen aynı "Sipariş" penceresini açacaktır. Burada, tüccarlar 
+şunları seçmelidir:
+- Üstteki açılır listeden "Sembol" (bu otomatik olarak etkin grafikteki sembole 
+ayarlanacaktır). Sol bölmede karşılık gelen bir tick grafiği görünür.
+- Lot büyüklüğü açısından "Hacim". 1,0 1 lot veya 100.000 birime eşittir. Birçok tüccar daha 
+küçük hacimleri seçer.
+- Platform bu seçeneği destekliyorsa "Zarar Durdur" ve "Kâr Al". MT4 belirli 
+brokerlar aracılığıyla indirilirse, bu alanlar kullanıcı tarafından tanımlanabilir 
+olacaktır. Aksi takdirde, bu alanlar boş kalacaktır (ancak emirler daha sonra 
+girilebilir).
+- "Tür", "Piyasa Uygulaması" (piyasa emri) veya "Bekleyen Emir" olabilir; burada tüccar 
+istediği giriş fiyatını belirleyebilir. İstenen işlem yönüne bağlı olarak "Piyasaya Göre 
+Satış" veya "Piyasaya Göre Satın Alma".
+- Pencereyi kapatmak için "Tamam"a tıklayın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+MT4 sipariş penceresi.
+Bir emri değiştirmek, örneğin koruyucu bir zararı durdurma emri ve/veya kar alma (kar hedefi) 
+emri eklemek için, Terminal'in "İşlem" sekmesinde işlemi vurgulayın, sağ tıklayın ve "Emri 
+Değiştir veya Sil" seçeneğini seçin.
+Emri değiştirmek veya silmek için Terminal'in "İşlem" sekmesindeki işleme sağ tıklayın.
+Tüccarların zarar durdurma ve/veya kar alma seviyelerini manuel olarak belirleyebilecekleri 
+bir pencere açılacaktır. "Kopyala" düğmelerine tıklanarak zarar durdurma ve kar alma alanları 
+geçerli fiyatla doldurulabilir. Daha sonra istenen zarar durdurma ve kar alma seviyelerine 
+ulaşmak için fiyatlarda değişiklikler yapılabilir. Geçerli seviyeler belirtildikten sonra, ekranın alt 
+kısmındaki uzun, yatay çubuğa tıklanarak işlem girilebilir. Bu çubuk yalnızca geçerli zarar 
+durdurma ve/veya kar alma seviyeleri girildiğinde (işlem giriş seviyesinden en az 10 pip 
+uzakta) vurgulanacaktır; aksi takdirde çubuk gri ve etkinsiz kalacaktır. Aşağıdaki şekil "Emri 
+Değiştir veya Sil" penceresinin bir örneğini göstermektedir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Açık bir emre zarar durdur ve kar al (kar hedefi) emirlerinin eklenmesi.
+Zarar durdurma ve kar alma değerleri belirlendikten sonra, grafikte ilgili fiyat seviyelerinde yatay 
+çizgiler olarak görünürler. Bu, yatırımcıların açık işlemleri izlemesini kolaylaştırır. Koruyucu zarar 
+durdurma emriyle birlikte, durdurma seviyesinin belirli bir miktarda yukarı (uzun pozisyon 
+durumunda) veya aşağı (kısa pozisyon durumunda) hareket etmesini sağlayan bir takip eden 
+durdurma eklenebilir. Bir takip eden durdurma, Terminal'in "İşlem" sekmesinde açık bir pozisyona sağ 
+tıklanarak ve "İzleyen Durdurma" ve istenen durdurma seviyesi seçilerek girilebilir.
+Uygun fiyat seviyesinde stop loss ve take profit (kâr hedefi) seviyeleri yatay çizgiler şeklinde belirecektir.
+Emirleri kapatma ve hesap geçmişini kontrol etme
+Buradan, fiyat stop loss, trailing stop veya take profit seviyesine ulaştığında işlem 
+kapatılır. İşlem, Terminal'in "Trade" sekmesinde işlemi vurgulayarak, sağ tıklayarak ve 
+"Close Order"ı seçerek herhangi bir zamanda kapatılabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+İşlemler, Terminal'in "İşlem" sekmesinde açık bir işleme sağ tıklanarak ve "Emri Kapat" seçeneği seçilerek kapatılabilir.
+"Emri Kapat"ı seçtikten sonra, yatırımcıya işlemin kapatılması gerektiğini 
+onaylamasını isteyen bir pencere açılacaktır. Bu pencere ayrıca Terminal'in "İşlem" 
+sekmesinde işleme çift tıklanarak da açılabilir.
+Pencere göründüğünde, pencerenin altındaki sarı yatay çubuğa tıklayarak 
+işlemi kapatabilirsiniz. İşlemlerin zıt bir pozisyon açılarak da kapatılabileceği 
+unutulmamalıdır.
+Örneğin, işlem uzun 1.0 EURUSD ise, bu pozisyon kısa 1.0 EURUSD pozisyonu 
+açılarak kapatılabilir. Buna bazen stop-and-reverse veya SAR yöntemi denir.
+Bir işlemi kapatmak için, "Emri Kapat" penceresini açabilir ve sarı çubuğa tıklayabilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Tüm açık işlem faaliyetleri Terminal'in "İşlem" sekmesinde görüntülenebilir ve tüm hesap 
+geçmişi Terminal'in "Hesap Geçmişi" sekmesinde görünür.
+MT4'ü mobil cihaza bağlama
+İnsanlar elektronik cihazlara daha bağımlı hale geldikçe, birçok forex brokeri artık mobil 
+cihazlarda MT4'ü destekleyen uygulamalar sunuyor. MT4 uygulamasının işlevselliği 
+masaüstü sürümüne benzer. Yatırımcılar grafiklere erişebilir, teknik analiz araçlarını 
+kullanabilir ve işlemleri gerçekleştirip yönetebilir. Meta-Quotes şu anda yalnızca Windows 
+işletim sistemini (OS) desteklerken, üçüncü taraf brokerler Android ve iPhone 
+uygulamalarını kullanıma sunmuştur. Meta-Quotes, 2011'in sonunda yakında iPhone 
+işletim sistemi için uygulamalar yayınlayacağını duyurdu.
+Çoğu forex brokeri mobil uygulamalar sunsa da, her zaman tüm farklı işletim sistemleri için 
+uygulama sağlamazlar. Mobil uygulama özelliği bir öncelikse, bir broker ile önceden belirli bir 
+işletim sistemini destekleyebileceğini teyit edin. Bazı brokerler uygulama için ücret alır veya bir 
+lisans anahtarı için ücret alırken, diğerleri bunu ücretsiz verir. Bir brokerin müşteri hizmetleri 
+numarasını arayarak veya çevrimiçi sohbet ederek, varsa işletim sistemleri ve ücretler 
+hakkında ayrıntılar elde edebilirsiniz. Belirli kurulum talimatları genellikle her bir destekleyici 
+brokerin web sitesinde sağlanır
+Uzman danışman (EA)
+MT4'ün Expert Advisor (EA) programı, işlem stratejilerini uygulamak ve işlemleri 
+otomatikleştirmek için kullanılabilir. Tescilli programlama dili "Meta-Quotes Language 4" veya 
+MQL4 olarak adlandırılır. Yatırımcılar, platformun "Meta-Editor" özelliğini kullanarak kendi 
+özel göstergelerini ve/veya stratejilerini yazabilirler. Açmak için "Tools"a tıklayın ve "Meta-
+Quotes Language Editor"u seçin veya araç çubuğundaki "Meta-Editor" simgesine tıklayın. Bu, 
+programlama ortamını açacaktır.
+MT4'ün Uzman Danışmanlarının oluşturulması ve kullanımıyla ilgili ayrıntılar bu kılavuzun 
+kapsamı dışındadır; ancak "Meta Editör" penceresinde "Yardım"a tıklayıp "MQL4 Topluluğu" 
+altındaki alt başlıklardan herhangi birini seçerek yararlı bilgilere ulaşabilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+MQL4 Web Sitesi, Kitap, Belgeler, Makaleler, Kod Tabanı ve Forum dahil. Bu çevrimiçi 
+topluluk ücretsiz destek sunar ve üyeler, "Bir kopuşu yakalamak için aynı anda alım ve 
+satım emirleri girmeme izin verecek bir EA nasıl yazabilirim?" gibi sorular gönderebilir 
+ve diğer topluluk üyeleri yanıt gönderebilir. "MQL4 Kod Tabanı", diğer üyelerin 
+gönderdiği, kodun amacı ve uygulamasıyla ilgili bir açıklama da içeren ücretsiz EA'lar 
+sunar.
+MQL4 topluluğu MT4'ün tescilli programlama diline destek sağlar.
+EA'lar yazıldıktan veya başka bir şekilde edinildikten sonra, teknik analiz, göstergeler 
+veya hatta işlem otomasyonu gibi çeşitli işlevleri gerçekleştirmek için herhangi bir 
+grafiğe eklenebilirler. EA'lar, Özel Göstergeler ve Komut Dosyaları (tek bir eylem 
+gerçekleştirmesi amaçlanan istek üzerine yürütülen programlar) bir grafiğe tıklayıp 
+sürükleyerek veya "Gezgin" penceresinde istenen öğeye çift tıklayarak eklenebilir
+Bir EA, gösterge veya Script'e çift tıklamak, onu aktif grafiğe uygulayacaktır. Yatırımcılar ayrıca öğeyi tıklayıp sürükleyebilirler
+Bir grafik üzerine.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Meta-Editör penceresindeki "Yardım" menüsüne ek olarak, MT4 penceresindeki "Yardım"a 
+tıklayıp "Yardım Konuları"nı seçtiğinizde, Uzman Danışmanlar, Özel Göstergeler ve Script'lerin 
+oluşturulması ve uygulanmasıyla ilgili çok sayıda dokümanın yer aldığı MT4 Kullanıcı Kılavuzu 
+açılır.
+Akıllı telefonunuzda işlemler nasıl açılır
+Adım 1: Öncelikle akıllı telefonunuzdan meta-trader uygulamanızı açmanız gerekiyor. Uygulamamızı 
+play store veya apple store'dan indirebilirsiniz.
+Adım 2: Meta-trader uygulamanızı açtıktan sonra aralarından seçim yapabileceğiniz yaklaşık 3 seçenek 
+göreceksiniz, sizin için otomatik olarak oluşturulan bir demo hesabı almak için "kayıt olmadan başla" 
+seçeneğini seçmelisiniz ve gerçek hesabınızı kullanarak giriş yapmak istiyorsanız, "mevcut bir hesaba giriş yap" 
+seçeneğini seçmeniz gerekir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Adım 3: Ortak para birimlerinin şu şekilde birbirleriyle eşleştirildiğini göreceksiniz:
+Adım 4: Uygulamanızda mevcut tüm para birimlerini eklemek için işaretli + sembolüne tıklayın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Adım 5: Daha fazla mevcut döviz çiftinin listesini görmek için “forex klasörüne” tıklayın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Adım 6: Uygulamanıza ekleyebileceğiniz ek para birimleri aşağıdadır, bir para birimi çifti eklemek için üzerine 
+tıklamanız yeterlidir.
+Adım 7: Aşağıdaki resim tıkladığınız tüm döviz çiftlerinin “piyasa izleme” 
+listenize başarıyla eklendiği anlamına gelir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Adım 8: Bu, meta-trader uygulamanızda mevcut tüm döviz çiftlerinin listesidir.
+Adım 9: İşlem yapmak istediğiniz döviz çiftlerinden herhangi birine basılı tutun, bu durumda 
+EUR/USD'yi seçtik. Bu seçenekleri göreceksiniz; ilk işleminizi açmanın bir sonraki adımına 
+geçmek için "yeni emir"i seçin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Adım 10: Anında yürütme, dövizleri mevcut piyasa fiyatından alıp/sattığınız 
+anlamına gelir. 1.00 lot büyüklüğünüzdür ve altta seçebileceğimiz iki seçeneğimiz 
+vardır, ya al/sat. Bu durumda aldığımızı varsayalım.
+Adım 11: İşlem artık satın almaya açık, eğer grafik bizi destekliyorsa, kırmızı renkteki 
+miktar mavi renge dönüşecek, yani kar elde ediyoruz. Ancak şimdilik spread 
+nedeniyle işlem hala kayıp modunda.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+Adım 12: Açtığınız işlemi kapatmak için döviz çiftine basılı tutmanız gerekiyor ve 
+aşağıdaki seçenekleri göreceksiniz, “emri kapat” seçeneğini seçin.
+Adım 13: “Emri kapat”ı seçtikten sonra aşağıdaki resmi göreceksiniz, en altta 
+“zararla kapat -36” yazıyor, yani 36 dolar kaybettik, ancak kar elde edersek 
+“karla kapat 36” olacaktı, yani 36 dolar kar elde ettik.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+BÖLÜM ALTINCI.
+ANA BEKLEYEN SİPARİŞLER.
+Bekleyen emirleri yönetin.
+Bekleyen emir, mevcut fiyat emir seviyesine ulaştığında bir pozisyon açma 
+talimatıdır. Dört tür bekleyen emir vardır:
+Buy Stop – Emrin verildiği andaki fiyattan daha yüksek bir fiyattan alım pozisyonu 
+açmak için verilen emir.
+Satış durdurma emri – emrin verildiği andaki fiyattan daha düşük bir fiyattan 
+satış pozisyonu açma emri
+Alım limiti – emrin verildiği andaki fiyattan daha düşük bir fiyattan alım 
+pozisyonu açma emri.
+Satış limiti – emrin verildiği andaki fiyattan daha yüksek bir fiyattan satış 
+pozisyonu açma emri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+MT4 platformunda bekleyen emir.
+Sipariş penceresinin açılması
+Meta-Trader 4 emir penceresi, işlemleri yerleştirmek için kullanılır. Emir penceresi aşağıdaki 
+yöntemlerden herhangi biri kullanılarak açılabilir:
+1. Piyasa İzleme penceresinde bir döviz çiftine sağ tıklayın ve "Yeni İşlem" 
+seçeneğini seçin; veya
+2. Etkin bir grafiğe sağ tıklayın ve İşlem > Yeni Sipariş'i seçin; veya
+3. Araç çubuğundaki "Yeni Sipariş" düğmesine tıklayın veya
+4. Bilgisayar klavyesindeki F9 kısayol tuşuna basın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+Meta-Trader 4 emir penceresi
+.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Sipariş verme
+Emir penceresi açıldığında, yatırımcılar alanlara bilgi girebilir ve açılır listelerden 
+seçimler yaparak işlem emrini hazırlayabilirler. Yatırımcılar şunları belirtmelidir:
+- Üstteki açılır listeden sembol (bu otomatik olarak aktif grafikteki sembole 
+ayarlanacaktır). Mevcut fiyatları gösteren karşılık gelen bir tick grafiği sol 
+bölmede görünür.
+Lot büyüklüğü açısından hacim. 1,0, 1 lot veya 100.000 birimdir. Birçok tüccar, 0,1 gibi 
+daha küçük hacimlerde işlem yapmayı tercih eder.
+Platform bu seçeneği destekliyorsa Stop Loss ve Take Profit. MT4 belirli brokerlar 
+aracılığıyla indirilirse, bu alanlar kullanıcı tarafından tanımlanabilir olacaktır. Aksi 
+takdirde, bu alanlar boş kalacaktır (ancak bu emirler daha sonra da girilebilir).
+İstenirse yorum yapın. Yatırımcılar, emre atanacak metni Yorum 
+alanına girebilirler.
+Tip,Yatırımcının istediği giriş fiyatını belirleyebildiği Piyasa Uygulaması (piyasa emri) 
+veya bekleyen emir (limit emri; bekleyen emirler bölümünde daha ayrıntılı olarak ele 
+alınmıştır).
+-
+-
+-
+-
+Bu alanlar belirlendikten sonra, yatırımcı şunları yapabilir:
+- İstediğiniz işlem yönüne bağlı olarak "Piyasaya Göre Sat" veya "Piyasaya Göre Al" butonuna 
+tıklayarak işlemi gerçekleştirin.
+Pencereyi kapatmak için "Tamam"a tıklayın-
+Bekleyen siparişler.
+Bekleyen Sipariş seçiliyse, açılır menüden sipariş türünü seçin. Mevcut 
+sipariş türleri şunlardır:
+-
+-
+-
+-
+Satın Alma Limiti
+Satış Limiti
+Satın Al Durdur
+Satış Durdurma
+Ardından, Şekil 4'te gösterildiği gibi, fiyat alanının yanındaki değeri girerek emrin tetikleneceği fiyatı 
+belirtin. Fiyatı manuel olarak girmekten kaçınmak için yukarı veya aşağı oklara tıklayın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+Mevcut fiyatı doldurmak ve gerektiği gibi ayarlamalar yapmak için fiyat alanının yanındaki aşağı ok tuşuna 
+basın.
+Bekleyen bir emir verirken, emir türünü (örneğin Satın Alma Limiti) ve emrin tetikleneceği fiyatı belirtin.
+Tüccarlar ayrıca Stop Loss ve Take Profit alanları için seviyeleri belirleyebilirler. Tekrar, geçerli 
+fiyatı doldurmak için yukarı veya aşağı oka tıklayın ve istenen fiyatı girmek için okları 
+kullanmaya devam edin. Emri göndermek için "Place"e tıklayın.emir yürütmeSipariş başarıyla 
+iletildiğinde görünecektir.
+Emir yürütülmesi, işlemin başarıyla iletildiğini teyit eder.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+İşlem giriş seviyesi, zarar durdurma ve kar alma seviyeleri artık fiyat grafiğinde bir dizi noktalı çizgi 
+olarak görünecek.
+Fiyat grafiğinde işlem giriş, zarar durdurma ve kar alma (kar hedefi) seviyeleri yer almaktadır.
+Bir pozisyon açıldığında, Terminal'in işlem sekmesinde görünecektir. Terminal'in birden 
+fazla sekmesi vardır, bunlar şunlardır:
+-
+-
+-
+-
+-
+-
+Ticaret
+Hesap Geçmişi
+Haberler
+Uyarılar
+Posta kutusu
+Günlük
+İşlemler MT4 terminalinin işlem sekmesinde görünür
+.
+Bir siparişi değiştirin veya silin
+Bir emri değiştirmek, örneğin koruyucu bir zararı durdurma emri ve/veya kar alma emri eklemek için, 
+Terminal'in işlem sekmesinde işlemi vurgulayın, sağ tıklayın ve "Emri Değiştir veya Sil" seçeneğini 
+seçin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Terminalin İşlem sekmesinde emri vurgulayın, sağ tıklayın ve değişiklik yapmak için "Emri Değiştir veya Sil" seçeneğini belirleyin.
+açık sipariş.
+Tüccarların stop-loss ve/veya take-profit seviyelerini manuel olarak belirleyebilecekleri bir 
+pencere açılır. "Copy As" düğmelerine tıklanarak stop-loss ve take-profit alanları geçerli 
+fiyatla doldurulabilir. Daha sonra istenen stop-loss ve take-profit seviyelerine ulaşmak için 
+fiyatlarda değişiklikler yapılabilir. Geçerli seviyeler belirtildikten sonra, ekranın alt 
+kısmındaki uzun, yatay çubuğa tıklanarak işlem girilebilir. Bu çubuk yalnızca geçerli stop-
+loss ve/veya take-profit seviyeleri girildiğinde (işlem giriş seviyesinden en az 10 pip uzakta) 
+vurgulanır; aksi takdirde çubuk gri ve etkinsiz kalır.
+Yatırımcılar açık bir emre zarar durdurma veya kar alma emirleri ekleyebilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+Ayrıca, stop seviyesinin belirli bir miktarda yukarı (uzun pozisyon durumunda) veya aşağı (kısa pozisyon 
+durumunda) hareket etmesini sağlayan bir takip eden stop da eklenebilir. Bir takip eden stop, açık bir 
+pozisyona sağ tıklanarak girilebilir.TicaretTerminal sekmesine tıklayın ve "Trailing Stop" seçeneğini ve 
+istediğiniz stop seviyesini seçin.
+Terminalin işlem sekmesinde bir işleme sağ tıklayın ve bir takip eden durdurma seviyesi belirtmek için "İzleyen Durdurma"yı seçin
+Akıllı telefonlarda bekleyen siparişler
+Adım 1: İşlem yapmak istediğiniz döviz çiftinin üzerine basılı tutun ve “yeni emir” seçeneğini seçin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Adım 2: Anında yürütmeye tıklayın ve “satın alma durdur”u seçin.
+Adım 3: 0,10'luk bir lot büyüklüğü seçin, ayarlamak için + veya – sembolünü kullanın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+Adım 4: Mevcut piyasa fiyatını belirlememiz gerekiyor, ardından fiyata göre bekleyen 
+emrimizi ayarlıyoruz. Buy stop fiyatımızı 114.142 olarak seçtiğimizi varsayalım.
+Adım 5: Şimdi 114.142 piyasa fiyatından 100 piplik bir stop loss belirleyelim (142 – 100 = 042). 
+Stop loss'umuz 114.042'dir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+Adım 6: Şimdi kar alma emrimizi de ayarlamamız gerekiyor.
+Adım 7: Kar alma seviyemizi mevcut piyasa fiyatı olan 114.142'den (142 + 300 = 442) en az 300 
+pip olarak belirlediğimizi ve son kar alma seviyemizin 114.442 olduğunu varsayalım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+Adım 8: Siparişiniz için son kullanma tarihi belirleme, GTC'miz var ve seçebileceğiniz belirli bir tarih var, tarih ve 
+saati ayarlamak için "belirtilen"i seçin.
+Adım 9: 04 Ocak 2017 tarihini ve 22:45 saatini belirlediğimizi varsayalım. Bekleyen 
+siparişimizi ayarlamayı bitirdik, bekleyen siparişinizi onaylamak için yer seçin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+Aşağıdakiler için bekleyen emirlerin belirlenmesinde de aynı prosedür uygulanır:
+- Satış durdurma
+- Satın alma limiti
+- Satış limiti
+Değişecek tek kısım sırasıyla stop loss ve take profit rakamları olacak.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+BÖLÜM YEDİNCİ
+FOREX BİR DAKİKALIK STRATEJİ VE
+DEĞİŞİKLİKLER
+Bu bölüm, forex one minute stratejisini ve modifikasyon stratejimizi kullanan mevcut 
+üyelerimizin performansına dayanmaktadır. Her zaman performansımıza göre değil, 
+öğrencilerimizin performansına göre bizi yargılamayın diyoruz. Forex, hızlı zengin 
+olma planı değildir, kendinizi neye adadığınızı ve ne yaptığınızı anlamanız gerekir, 
+dolayısıyla forex konusunda hızla bilgi sahibi olmanız için belge önemlidir, böylece 
+koçtan (facebook'ta dj coach tsekeleke) rehberlik/sinyal aldığınızda ne hakkında 
+konuştuğunu anlarsınız.
+Bu belge strateji olmadan derlenmiştir çünkü forex one minute stratejisinde 
+ayarlamalar yapılmıştır, bize katıldıktan sonra stratejiyi nasıl öğreneceksiniz? 
+Videolar ve koçun göndereceği sinyaller ve adım adım bir video ile Ostratejinin 
+nasıl doğru bir şekilde uygulanacağını gösterir.
+Nasıl katılabilirim?
+TEMAS ETMEK:
+060 929 4089
+079 945 7854
+Faydalar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+Yaşam boyu sinyaller, yaşam boyu mentorluk ve yeni geliştirilmiş Bir dakikalık strateji. + 
+Bir dakikalık stratejinin değişiklikleri ve değişikliği yalnızca forex bir dakikalık stratejiye 
+katıldıktan sonra alabilirsiniz.
+Sosyal ağ detayları
+FACEBOOK: FOREX BROKER ÖLDÜRÜCÜ EDİSYONU
+INSTGRAM: FOREX BROKER ÖLDÜRÜCÜ EDİSYONU
+FOREX BİR DAKİKALIK STRATEJİ VEYA DEĞİŞİKLİKLER HAKKINDA DAHA FAZLA BİLGİ İÇİN 
+AŞAĞIDAKİ NUMARALARLA İLETİŞİME GEÇİN:
+ARAYIN/WHATSAPP
+060 929 4089
+079 945 7854
+072 438 8328
+072 501 8320
+071 661 3566
+PARANIN PEŞİNDEN DEĞİL, ÖNCE BİLGİNİN PEŞİNDEN KOŞ ki, PARA DA 
+BİZİM GİBİ SİZİ PEŞİNDEN GİTSİN. (DJ COACH TSEKELEKE)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 76 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 77 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 78 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 79 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 80 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 81 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 82 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 83 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 84 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 85 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 86 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 87 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 88 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 89 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 90 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 91 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 92 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 93 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 94 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]

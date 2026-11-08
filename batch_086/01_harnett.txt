@@ -1,0 +1,1542 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 17\Baskı 17\Günlük Alım Satım Giriş ve Çıkışları - En İyi Günlük Alım Satım Girişi - David Harnett (91 sayfa) - @eseckal.pdf
+PAGES: 91
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+Günlük Ticaret
+Girişler ve Çıkışlar
+giriiş
+Bölüm 1: İyi Bir Giriş ve Çıkış Sinyalinin Temel Unsurları
+İyi Bir Giriş Sinyalinin Unsurları 
+Çıkışları Belirleme
+Trailing Stop Loss'u Kullanma
+TradingView'da Bu Giriş/Çıkış Sinyallerini Bulma
+Bölüm 2: RSI Giriş ve Çıkış Sinyalleri
+Temel RSI Sinyalleri
+Gelişmiş RSI Yöntemleri
+RSI Giriş/Çıkış #1: Kırılmalarla RSI Trend Çizgileri RSI 
+Giriş/Çıkış #2: RSI + Bollinger Bantları
+RSI Giriş/Çıkış #3: Filtrelenmiş RSI Ayrışma Bulucu RSI 
+Giriş/Çıkış #4: RSI + WMA Geçişi Bölüm 3: Osilatör 
+Göstergeleri Giriş ve Çıkış Sinyalleri
+Osilatör Giriş/Çıkış #1: Kumo'nun Belirlediği Volatilite ile Dinamik 
+Bölgelerdeki Dalga Trendi
+Osilatör Giriş/Çıkış #2: Hareketli Ortalamalı TRIX 
+Osilatör Giriş/Çıkış #3: MACD (Değiştirilmiş Ayarlar) 
+Osilatör Giriş/Çıkış #4: Schaff Trend Döngüsü Osilatör 
+Giriş/Çıkış #5: Öncü MACD (Expo) Osilatör Giriş/Çıkış 
+#6: Bjorgum TSI Bölüm 4 Volatilite Göstergesi Giriş 
+ve Çıkış Sinyalleri
+Volatilite Göstergelerini Anlamak
+Volatilite Göstergesi Giriş/Çıkış #1: Bollinger Bantları (Geliştirilmiş 
+Ayarlar)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Volatilite Göstergesi Giriş/Çıkış #2: Hacim Ağırlıklı Gövde Hareketli 
+Ortalaması Bollinger Bantları (VWHBB)
+Volatilite Göstergesi Giriş/Çıkış #3: VWAP Standart Sapma Bantları 
+Volatilite Göstergesi Giriş/Çıkış #4: Adil Değer Bantları
+Volatilite Göstergesi Giriş/Çıkış #5: Fibonacci Bölgesi
+Bölüm 5: Trend Takibi ve Hareketli Ortalama Gösterge Giriş/Çıkış 
+Sinyalleri
+ADX Göstergesini Yanal Piyasa Koşullarını Filtrelemek İçin Kullanma
+Trend Takip Göstergesi Giriş/Çıkış #1: 40 Dönemlik Gövde Hareketli 
+Ortalaması
+Trend Takip Göstergesi Giriş/Çıkış #2: HalfTrend Göstergesi 
+Trend Takip Göstergesi Giriş/Çıkış #3: UT Bot Uyarıları Trend 
+Takip Göstergesi Giriş/Çıkış #4: 50 Dönem KAMA
+Trend Takip Göstergesi Giriş/Çıkış #5: Harmonik Desenlere Dayalı 
+Trend Takipçisi
+Bölüm 6: Algoritmik ve AI Tabanlı Giriş/Çıkış Sinyalleri
+Yapay Zeka ve Algoritmik Göstergeler Nasıl Çalışır?
+AI/Algoritmik Giriş/Çıkış #1: Doğru Swing Ticaret Sistemi
+AI/Algoritmik Giriş/Çıkış #2: Goethe A - Çoklu Öncü Gösterge 
+Paketi
+AI/Algoritmik Giriş/Çıkış #3: Sonraki Pivot Projeksiyonu [Trendoskop] AI/
+Algoritmik Giriş/Çıkış #4: Makine Öğrenimi: kNN tabanlı Strateji
+AI/Algoritmik Giriş/Çıkış #5: Makine Öğrenimi: Lorentzian 
+Sınıflandırması
+AI/Algoritmik Giriş/Çıkış #6: Kesintili Trend Çizgileri [LuxAlgo] AI/
+Algoritmik Giriş/Çıkış #7: Otomatik Harmonik Desenler - V2
+AI/Algoritmik Giriş/Çıkış #8: Goethe A - Çoklu Öncü Gösterge 
+Paketi
+Bölüm 7: Gelişmiş Teknikler
+Gösterge Ayarlarının Piyasa Koşullarına Göre Optimize Edilmesi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Gelişmiş Girişler ve Çıkışlar için Farklı Göstergelerin Birleştirilmesi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+giriiş
+Hızlı tempolu günlük ticaret dünyasında giriş ve çıkış noktalarını optimize etmek 
+için deneyimli yatırımcılara gerekli bilgi ve stratejileri kazandırmak üzere 
+tasarlanmış kapsamlı bir rehber olan "Günlük Ticaret Girişleri ve Çıkışları"na hoş 
+geldiniz.
+Bu kitapta, başarılı işlem sinyallerinin temel unsurlarını ele alıyor ve 
+piyasada rekabet avantajı sağlayabilecek çok çeşitli gösterge ve 
+teknikleri inceliyoruz.
+Zamanlama Sanatında Ustalaşmak
+Günlük alım satımda zamanlama her şeydir. En uygun giriş ve çıkış 
+noktalarını belirleme yeteneği, karlı bir alım satım ile kaçırılmış bir fırsat 
+arasındaki farkı yaratabilir. Kitap, hassasiyetin önemini anlayan ve tutarlı 
+başarı elde etmek için stratejilerini geliştirmeye çalışan sizin gibi 
+yatırımcılar için özel olarak hazırlanmıştır.
+Bu sayfalarda, aşağıdakiler de dahil olmak üzere değerli fikirlerle dolu bir hazine 
+bulacaksınız:
+Güvenilir bir giriş ve çıkış sinyalini oluşturan temel bileşenlere 
+derinlemesine bir bakış, işlem kararlarınız için sağlam bir temel 
+oluşturmanıza yardımcı olur.
+Göreceli Güç Endeksi'nin (RSI) incelenmesi ve giriş ve çıkış 
+fırsatlarını belirlemede bir gösterge olarak potansiyeli.
+Çeşitli osilatör göstergeleri, volatilite göstergeleri, trend takip 
+göstergeleri ve hareketli ortalamalar hakkında derinlemesine 
+tartışmalar ve bunların hassas giriş ve çıkış sinyalleri üretmedeki 
+uygulamaları.
+Algoritmik ve yapay zeka tabanlı yaklaşımları içeren son 
+teknoloji teknikler, işlem stratejilerinizde otomasyonun ve 
+ileri teknolojinin gücünden yararlanmanızı sağlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Belirli piyasa koşullarına göre gösterge ayarlarının optimize edilmesi 
+ve üstün giriş ve çıkış karar alma süreçleri için farklı göstergelerin 
+etkili bir şekilde birleştirilmesi gibi gelişmiş teknikler.
+Bu kitabı rehberiniz olarak kullanarak, piyasalarda hassasiyet ve ustalıkla 
+gezinmek için gereken bilgi ve güveni kazanacaksınız. Amacımız, karlı fırsatları 
+açığa çıkarmanıza ve dinamik günlük ticaret dünyasında potansiyelinizi en üst 
+düzeye çıkarmanıza yardımcı olmaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Bölüm 1: İyi Bir Giriş ve Çıkış Sinyalinin Temel 
+Unsurları
+Günlük ticarette, giriş ve çıkış sinyallerini doğru bir şekilde belirleme yeteneği, 
+karları maksimize etmek ve kayıpları en aza indirmek için çok önemlidir. İyi bir 
+giriş sinyali, fiyat yön değiştirmeden önce bir ticarete girme fırsatı sunar veya 
+tüccarın ortaya çıkan bir eğilimi erken yakalamasını sağlar. Benzer şekilde, iyi bir 
+çıkış sinyali, tüccarların fiyat tersine dönmeden önce çıkış yapmalarını sağlarken, 
+erken çıkış yapmadan karlarından yararlanmalarını sağlar.
+Bu bölümde iyi bir giriş ve çıkış sinyalinin temel unsurları incelenecek ve bunların 
+günlük işlem stratejilerinde nasıl etkili bir şekilde kullanılabileceği tartışılacaktır.
+İyi Bir Giriş Sinyalinin Unsurları
+Günlük işlemlerde erken girişler hayati bir rol oynar, çünkü yatırımcılara piyasada 
+kendilerini avantajlı bir şekilde konumlandırmalarına olanak tanıyarak rekabet 
+avantajı sağlar.
+Yatırımcılar, fiyat yön değiştirmeden önce veya bir trendin erken aşamalarında sinyaller 
+üreterek şunları yapabilirler:
+Fiyat Geri Dönüşlerini Yakala: İyi giriş sinyalleri, yatırımcılara fiyat 
+geri dönüşlerini gerçekleşmeden önce tespit etme yeteneği sağlar. 
+Bu, yaklaşan fiyat hareketinden kar elde etmelerini ve bir işlemin 
+yanlış tarafında yakalanmaktan kaçınmalarını sağlar.
+Ortaya Çıkan Trendlere Giriş: Erken giriş sinyalleri, yatırımcıların yeni ortaya 
+çıkan trendleri başlangıç   aşamasında belirlemelerini ve bunlara girmelerini 
+sağlar. Bu, trendi erken yakalama ve potansiyel karları maksimize etme fırsatı 
+sunar.
+Risk-Ödül Oranını Optimize Edin: İyi zamanlanmış çıkış sinyalleri, 
+yatırımcıların pozisyonlarından uygun bir noktada çıkmalarını sağlayarak, 
+karları maksimize etmek ve olası kayıpları azaltmak arasında bir denge kurar. 
+Yatırımcılar, fiyat tersine dönmeden önce çıkış yaparak kazançlarını güvence 
+altına alabilir ve sermayelerini koruyabilirler.
+Gösterge Sinyallerinin Türleri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Göstergeler, neyi ölçtüklerine ve ne tür veriler kullandıklarına bağlı 
+olarak farklı kategorilere ayrılabilir.
+Farklı gösterge tiplerini ve bunların giriş ve çıkış sinyallerini nasıl 
+üretebileceğini anlamak önemlidir.
+Trend Göstergeleri: Hareketli Ortalamalar veya süpertrend gibi trend 
+göstergeleri, bir varlığın fiyatı belirli bir yönde hareket etmeye başladığında giriş 
+sinyalleri ve bu trend zayıflamaya veya tersine dönmeye başladığında çıkış 
+sinyalleri üretir.
+Örneğin, basit bir hareketli ortalama stratejisinde, fiyat hareketli 
+ortalamayı geçtiğinde ve üzerinde kapandığında, yani yükseliş eğilimi 
+gösterdiğinde bir satın alma sinyali üretilir.
+Momentum Göstergeleri: Göreceli Güç Endeksi (RSI) veya Stokastik 
+Osilatör gibi momentum göstergeleri, fiyat değişimlerinin hızına bağlı 
+olarak sinyaller üretir.
+Örneğin, 70'in üzerindeki bir RSI değeri genellikle aşırı alım 
+koşullarını (olası satış sinyali) gösterirken, 30'un altındaki bir 
+değer aşırı satım koşullarını (olası alım sinyali) gösterir.
+Volatilite Göstergeleri: Bollinger Bantları veya Ortalama Gerçek Aralık gibi 
+oynaklık göstergeleri, bir varlığın fiyat oynaklığındaki değişikliklere dayalı sinyaller 
+üretir.
+Bollinger Bantları söz konusu olduğunda, üst banda dokunan bir fiyat 
+satış sinyali olarak görülebilir (çünkü varlık 'aşırı alım' olarak 
+değerlendirilir), alt banda dokunan bir fiyat ise alım sinyali olarak 
+görülebilir (çünkü varlık 'aşırı satım' olarak değerlendirilir).
+Hacim Göstergeleri: Hacim göstergeleri, örneğin Denge Hacmi (OBV) veya 
+Hacim Değişim Oranı, işlem hacmindeki değişikliklere bağlı olarak sinyaller 
+üretir.
+Örneğin, yükseliş trendi sırasında hacimde meydana gelen artış, güçlü 
+bir alım baskısını gösterdiği için bir alım sinyalini güçlendirebilir.
+Piyasa Koşullarının Gösterge Sinyallerine Etkisi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Giriş ve çıkış sinyallerini yorumlarken, mevcut piyasa bağlamını 
+anlamak önemlidir. Trendden aralıklıya, oynaklıktan sakinliğe kadar 
+farklı piyasa türleri farklı gösterge türleri gerektirebilir. İşte belirli 
+göstergelerin etkinliğinin piyasa koşullarına göre nasıl 
+değişebileceğine dair daha ayrıntılı bir bakış:
+Trend ve Aralıklı Piyasalar
+Trend Piyasalar: Fiyatların sürekli olarak tek bir yönde hareket 
+ettiği trendli bir piyasada, Hareketli Ortalamalar ve MACD gibi 
+trend takip eden göstergeler oldukça etkili olabilir. Bu 
+göstergeler, sürdürülebilir fiyat hareketlerini belirlemek ve 
+bunlardan yararlanmak için tasarlanmıştır. Örneğin, hareketli 
+ortalama kesişimi yeni bir trendin başlangıcını işaret ederek güçlü 
+bir giriş sinyali sağlayabilir.
+Aralıklı Piyasalar: Buna karşılık, piyasa yanlara doğru 
+hareket ettiğinde, RSI veya Stokastik Osilatör gibi osilatörler 
+daha faydalı olabilir. Bu göstergeler aşırı alım ve aşırı satım 
+koşullarını belirleyebilir, fiyat aralığının en üstünde ve en 
+altında potansiyel giriş ve çıkış sinyalleri sağlayabilir.
+Dalgalı ve Sakin Piyasalar
+Dalgalı Piyasalar: Yüksek oynaklık dönemlerinde, Bollinger 
+Bantları veya Ortalama Gerçek Aralık gibi oynaklığı ölçen 
+göstergeler değerli içgörüler sağlayabilir. Bu göstergeler, 
+tersine dönme potansiyelinin yüksek olabileceği aşırı fiyat 
+hareketi dönemlerini belirlemeye yardımcı olabilir. Örneğin, 
+fiyat yüksek oynaklık döneminde üst Bollinger Bandına 
+dokunursa, bu fiyatın aşırı uzadığının ve yakında tersine 
+dönebileceğinin bir işareti olabilir.
+Sakin Piyasalar:Sakin veya düşük volatiliteli piyasalarda, ADX 
+(Ortalama Yön Endeksi) gibi momentumu veya trend gücünü 
+belirleyen göstergeler faydalı olabilir. Bu koşullar genellikle 
+önemli fiyat hareketlerinden önce gelir ve yeni bir trendin 
+başlangıcını işaret edebilen göstergeler erken giriş noktaları 
+sağlayabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Her göstergenin kendine özgü güçlü ve zayıf yönleri vardır ve bunların uygun piyasa 
+bağlamında etkili bir şekilde nasıl kullanılacağını anlamak, işlem sonuçlarınızı büyük 
+ölçüde iyileştirebilir.
+Çıkışları Belirleme
+Girişlere benzer şekilde, işlemlerden çıkışta zamanlama çok önemlidir. Sağlam bir 
+çıkış sinyali, fiyat hareketi tükenene kadar bir pozisyonu tutmanıza olanak tanır, 
+böylece çok erken çıkmadan karınızı maksimize edersiniz. Aynı zamanda, önemli bir 
+fiyat tersine dönmesinden önce bir çıkış sinyali vermelidir.
+Karları Maksimize Edin: İyi bir çıkış sinyali, fiyat sizin lehinize hareket 
+etmeye devam ettiği sürece sizi işlemde tutar. Örneğin, takip eden zarar 
+durdurma stratejileri bir trendi takip etmeye ve karı maksimize etmeye 
+yardımcı olabilir.
+Fiyat Tersine Dönmesini Önleyin: Çıkış sinyali ayrıca olası bir fiyat geri 
+dönüşünden önce sizi uyarmalı ve fiyat size karşı hareket etmeye 
+başlamadan önce pozisyonunuzu kapatmanıza olanak sağlamalıdır. Aşırı 
+alım veya aşırı satım koşullarını gösteren göstergeler bazen olası bir fiyat 
+geri dönüşünü işaret edebilir.
+Girişler ve çıkışlar için en uygun zamanlama, deneyim, sezgi ve piyasa 
+göstergelerinin sağlam bir şekilde anlaşılmasını gerektiren bir denge 
+eylemidir. Bu önemli sinyalleri tanıma yeteneği, başarılı bir ticaret ile 
+kaçırılmış bir fırsat arasındaki fark olabilir.
+Trailing Stop Loss'u Kullanma
+Hareketli ortalama veya Parabolik SAR (Dur ve Geri Al) gibi takip eden zarar 
+durdurma göstergeleri, işlemlerinizi sürdürürken kar elde etmenizde inanılmaz 
+derecede faydalıdır.
+Bu göstergeler, fiyat olumlu bir yöne doğru hareket ettikçe stop loss 
+seviyenizi dinamik olarak ayarlar ve trend devam ettikçe karı etkili bir 
+şekilde 'kilitler'.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Hareketli Ortalama: Hareketli ortalama takip eden zarar 
+durdurma emri, önceki fiyatların hareketli ortalamasına göre 
+hesaplanan mevcut fiyattan belirli bir mesafede ayarlanır. Fiyat 
+hareketli ortalama çizgisinin altına düşerse (uzun pozisyon için) 
+veya üstüne çıkarsa (kısa pozisyon için), zarar durdurma emrini 
+tetikler ve işlemden çıkar. Bu yöntem, fiyat trendde kaldığı sürece 
+işlemin devam etmesini sağlar.
+Parabolik SAR: Parabolic SAR, grafikte potansiyel stop loss 
+seviyesini gösteren noktaları çizer. Bu noktalar, trend 
+devam ettikçe fiyata yaklaşacak şekilde hesaplanır. Fiyat 
+Parabolic SAR noktalarını geçtiğinde, potansiyel bir trend 
+tersine dönmesini gösterir ve bir çıkışı tetikler.
+Bu yöntemleri içeren sağlam bir çıkış stratejisi uygulamak, kar elde etmenize ve 
+kayıplara karşı korunmanıza yardımcı olacaktır. Bu, zamanında bir girişle 
+birleştirildiğinde başarılı bir ticaret stratejisinin temelini oluşturur.
+Unutmayın, önemli olan sadece iyi işlemler yapmak değil, aynı zamanda çıkışa kadar bunları 
+etkili bir şekilde yönetmektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+TradingView'da Bu Giriş/Çıkış Sinyallerini Bulma
+Bu kitapta bulunan giriş/çıkış sinyalleri TradingView grafik platformundan 
+alınmıştır.
+Bu giriş/çıkış sinyallerinin çoğu, diğer yatırımcıların oluşturup TradingView'da 
+yayınladığı ücretsiz göstergelerden gelmektedir.
+Bir TradingView hesabı oluşturun (TradingView.com), eğer ödeme yapmak 
+istemiyorsanız ücretsiz bir hesap için kaydolabilirsiniz.
+TradingView'da bir grafik açın ve üst araç çubuğunda bulunan 
+"göstergeler" simgesine tıklayın, ardından bulmak istediğiniz 
+göstergenin adını yazın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+TradingView göstergesi arama kutusu
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Bölüm 2: RSI Giriş ve Çıkış Sinyalleri
+Bu bölümde, Göreceli Güç Endeksi'nde (RSI) bulunan bazı oldukça 
+etkili giriş/çıkış sinyallerine ve bunların ticarette nasıl 
+kullanılabileceğine bakacağız. RSI, bir dizi oldukça etkili giriş/çıkış 
+sinyali üretebilen sağlam bir göstergedir. En bilineni "aşırı alım/aşırı 
+satım" koşullarıdır. Bu bölümde, bu güçlü göstergeyi güçlendirmek 
+için kullanabileceğiniz daha gelişmiş yöntemlere bakacağız.
+Temel RSI Sinyalleri
+RSI'ın temelinde hemen hemen her piyasa senaryosunda 
+uygulanabilen üç temel sinyal vardır:
+Aşırı alım/Aşırı satım: RSI değerleri 0 ile 100 arasında değişir. 
+Geleneksel olarak, 70'in üzerindeki bir okuma aşırı alım durumunu 
+gösterir ve olası bir satış sinyalini gösterirken, 30'un altındaki bir 
+okuma aşırı satım durumunu gösterir ve olası bir alım sinyalini 
+gösterir. Ancak, güçlü bir trend piyasasında, aşırı alım ve aşırı 
+satım sinyalleri etkili bir şekilde çalışmayabilir.
+Sapma: Bir varlığın fiyatı ve RSI zıt yönlerde hareket ettiğinde, bir 
+sapmamız olur. Boğa sapması, fiyat daha düşük dipler yaptığında, 
+ancak RSI daha yüksek dipler yaptığında meydana gelir - bu, olası 
+bir yukarı yönlü fiyat tersine dönüşünü işaret edebilir. Tersine, ayı 
+sapması, fiyat daha yüksek tepeler yaptığında, ancak RSI daha 
+düşük tepeler yaptığında meydana gelir, bu da olası bir fiyat 
+düşüşünü gösterir.
+Trend Tanımlama: Olası geri dönüş noktalarını tespit etmenin yanı 
+sıra, RSI bir eğilimi doğrulamak için de kullanılabilir. RSI 50'nin 
+üzerindeyse, genellikle yükseliş eğiliminin bozulmadığını 
+gösterirken, 50'nin altındaki okumalar düşüş eğilimini gösterebilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Gelişmiş RSI Yöntemleri
+Temel sinyallerin ötesinde, RSI, karmaşık işlem sinyalleri üretmek için daha 
+gelişmiş şekillerde de kullanılabilir:
+RSI Trend Çizgileri: Fiyat hareketine benzer şekilde, RSI kırıldığında 
+fiyat yönünde olası bir değişikliği işaret eden trend çizgileri 
+oluşturabilir. RSI'daki yüksekleri veya düşükleri birleştiren bir çizgi 
+çizerek ve kırılmaları izleyerek olası trend dönüşlerini erken 
+yakalayabilirsiniz.
+Salınım Başarısızlıkları: Bunlar, RSI aşırı alım veya aşırı satım bölgesine 
+girdiğinde, çıktığında ancak daha sonra tekrar girdiğinde meydana gelir. 
+RSI, aşırı alım durumunda önceki yüksek seviyesini veya aşırı satım 
+durumunda önceki düşük seviyesini geçemediğinde, buna salınım 
+başarısızlığı denir ve potansiyel olarak bir trendin devam ettiğini gösterir.
+Hareketli Ortalama Geçişleri: RSI'ye hareketli bir ortalama 
+uygulamak başka bir potansiyel sinyal kümesine olanak tanır. 
+Sinyaller, RSI çizgisi hareketli ortalama çizgisinin üstüne veya 
+altına geçtiğinde üretilir. Örneğin, RSI hareketli ortalamanın 
+üstüne çıktığında, bu bir yükseliş sinyali olarak görülebilir ve 
+RSI hareketli ortalamanın altına geçtiğinde, bu bir düşüş 
+sinyalini gösterebilir. Bu teknik, standart aşırı alım ve aşırı satım 
+koşullarına kıyasla daha akıcı ve daha güvenilir sinyaller 
+sağlayabilir.
+RSI, piyasa koşulları hakkında zengin bilgiler sağlayan oldukça çok yönlü bir 
+göstergedir. Hem temel hem de gelişmiş RSI tekniklerinde ustalaşarak, 
+yatırımcılar istikrarlı karlar elde etmek için piyasadan bir adım önde 
+kalabilirler.
+Şimdi en iyi RSI giriş ve çıkış sinyallerinden bazılarını inceleyelim.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+RSI Giriş/Çıkış #1: Kırılmalarla RSI Trend Çizgileri
+İle: Hoan Getti
+Bu göstergeyi bulmak için TradingView Genel Bakış'taki gösterge arama kutusuna 
+"Kırılmalarla RSI Trend Çizgileri" yazın:
+Bu gösterge, bir RSI üzerinde otomatik olarak trend çizgileri çizer ve RSI bir trend 
+çizgisinin üstüne veya altına geçtiğinde sinyaller üretir. Tipik olarak bir trend çizgisi, 
+fiyat yön değiştirmeden önce RSI üzerinde kırılır, bu da trend tersine dönüşlerini 
+gerçekleşmeden önce tahmin etmek için harika bir sinyal olabilir.
+Alım Sinyali:
+RSI 50'nin altında ve bir düşüş trendi çizgisinin üstünden geçiyor Yeşil 
+"Br" etiketi görünüyor ve trend çizgisinin kırıldığını doğruluyor
+Satış Sinyali
+RSI 50'nin üzerinde ve yükselen trend çizgisinin altına geçiyor Kırmızı 
+"Br" etiketi görünüyor ve trend çizgisinin kırıldığını doğruluyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+RSI'nin bir düşüş trendi çizgisinin ve bir satın alma sinyalinin (yeşil BR etiketi) üzerine geçişine 
+dair bir örnek görünüyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+RSI Giriş/Çıkış #2: RSI + Bollinger Bantları
+Genel Bakış:
+Bu yöntem Bollinger Bantları göstergesinin RSI'ya (fiyat grafiği yerine) 
+uygulanmasını içerir.
+RSI, Bollinger Bantları ile birleştirildiğinde, RSI'ın Bollinger bandının üst veya 
+alt sınırını aşması durumunda oldukça etkili giriş/çıkış sinyalleri sağlayan güçlü 
+bir araçtır.
+Gerekli Göstergeler:
+RSI (14 dönem)
+RSI'ye Bollinger bantlarını ekleyin
+Not:Scalping için, şunu değiştirin:StdDev'den 1,5'eGösterge ayarında Bollinger 
+bantları üzerinde.
+Alım Sinyali:
+RSI, alt Bollinger Bandının altına düşerse, RSI alt bandın 
+üzerine geri döndüğünde uzun pozisyona girin.
+Veya
+RSI üst bandın üzerine çıktığında uzun pozisyona girin, üst bandın altına 
+geri döndüğünde uzun pozisyondan çıkın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Satış Sinyali:
+RSI, Bollinger Bandının üst sınırını geçtiğinde, RSI üst sınırın 
+altına geri döndüğünde kısa pozisyona girilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Veya
+RSI alt bandın altına geçtiğinde kısa pozisyona girin, alt bandın 
+üzerine çıktığında kısa pozisyondan çıkın
+Bu stratejiyi kullanan uzun bir giriş örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+RSI Giriş/Çıkış #3: Filtrelenmiş RSI Ayrışma 
+Bulucu
+Yazar: eşarp
+Göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna “Filtered RSI 
+Divergence Finder” yazın (Scarle tarafından) Genel Bakış:
+Bu gösterge, zirveleri ve dipleri tahmin etmek için RSI ayrışmasını kullanmaya 
+dayanır. RSI ayrışması belirlendiğinde grafikte bir sinyal belirecektir.
+Bu indikatör ayrışma tespit ettiğinde, yükseliş ayrışması için mumun 
+altında yeşil bir alım sinyali, düşüş ayrışması için mumun üstünde kırmızı 
+bir satış sinyali belirecektir.
+Alım Sinyali:
+Yeşil "R" etiketi bir mumun altında görünür
+Satış Sinyali:
+Kırmızı "R" etiketi bir mumun üstünde görünür
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Filtrelenmiş RSI Ayrışma Bulucu göstergesini kullanarak uzun ve kısa girişler
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+RSI Giriş/Çıkış #4: RSI + WMA Geçişi
+Genel bakış
+Bu giriş/çıkış sinyali, RSI'ye eklenen 30 WMA'yı (Ağırlıklı Hareketli Ortalama) 
+kullanır. Giriş/çıkış sinyalleri, RSI WMA'nın üstüne veya altına geçtiğinde 
+oluşur. RSI'deki diğer hareketli WMA'lar, üstel hareketli ortalama veya basit 
+hareketli ortalama gibi diğer hareketli ortalamalardan daha az yanlış sinyal 
+üretir.
+Gerekli Göstergeler:
+RSI (göreceli güç endeksi)
+RSI'ye 30 dönemlik WMA (ağırlıklı hareketli ortalama) ekleyin
+Alım Sinyali:
+RSI, 50'nin altındayken 30 WMA'nın üzerine çıkıyor
+Satış Sinyali:
+RSI, 50'nin üzerindeyken 30 WMA'nın altına geçiyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+RSI'nin WMA'nın üstünde/altında kesişmesi geri dönüşleri gösteriyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Bölüm 3: Osilatör Göstergeleri Giriş ve Çıkış 
+Sinyalleri
+Osilatör göstergeleri, günlük yatırımcının cephaneliğindeki önemli bir araçtır ve fiyat 
+momentumu, aşırı alım veya aşırı satım koşulları ve olası trend dönüşleri hakkında 
+değerli bilgiler sağlar.
+Momentum Osilatörlerinin Temelleri
+Osilatörler, genellikle bir grafikte çizgiler veya bantlar olarak gösterilen 
+önceden tanımlanmış sınırlar arasında salınım yapmak üzere tasarlanmıştır. 
+Fiyat hareketlerinin büyüklüğünü ve hızını ölçer, aşırı alım ve aşırı satım 
+koşullarını vurgular ve olası piyasa dönüm noktalarını işaret eder. Fiyat 
+dalgalanmalarının döngüsel doğasını yakalayarak, osilatörler gizli kalıpları 
+ortaya çıkarabilir ve piyasa duyarlılığına dair değerli göstergeler sağlayabilir.
+Osilatörlerin Temel Özellikleri
+Osilatörlerle çalışırken, bunların temel özelliklerini anlamak önemlidir; 
+bunlar şunları içerir:
+Aşırı Alım ve Aşırı Satım Seviyeleri: Osilatörler genellikle önceden 
+belirlenmiş aşırı alım ve aşırı satım seviyeleriyle gelir, tipik olarak 
+göstergede yatay çizgiler olarak gösterilir. Bu seviyeler, fiyat aşırı bir 
+noktaya ulaştığında ve bir düzeltme zamanı geldiğinde yatırımcıların 
+potansiyel geri dönüş noktalarını belirlemesine yardımcı olur.
+Sapma: Osilatörler, fiyat ile osilatör göstergesinin kendisi 
+arasındaki sapmayı belirleyebilir. Sapma, fiyat bir yönde 
+hareket ederken osilatör ters yönde hareket ettiğinde meydana 
+gelir. Bu, momentum değişebileceğinden potansiyel bir trend 
+tersine dönmesini gösterebilir.
+Sinyal Hattı Geçişleri: Bazı osilatörler, osilatörün kendisinin 
+hareketli ortalaması olan bir sinyal hattı içerir. Osilatör ile 
+sinyal hattı arasındaki geçişler, olası giriş veya çıkış 
+noktalarını belirten alım veya satım sinyalleri üretebilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Volatilite ve Duyarlılık: Osilatörler fiyat hareketlerine karşı 
+duyarlılıklarında değişiklik gösterebilir. Bazıları kısa vadeli 
+dalgalanmalara daha duyarlıyken, diğerleri daha uzun zaman 
+dilimlerini göz önünde bulundurarak daha akıcı sinyaller sağlar. Bir 
+osilatörün volatilite özelliklerini anlamak, yatırımcıların stratejilerini 
+farklı piyasa koşullarına uyarlamalarına yardımcı olabilir.
+Bu göstergeler, yatırımcıların giriş ve çıkış noktalarını daha doğru bir şekilde 
+belirlemelerine yardımcı olarak, günlük işlemlerin hızlı dünyasında avantaj sağlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Osilatör Giriş/Çıkış #1: Kumo'nun Belirlediği Volatilite ile 
+Dinamik Bölgelerdeki Dalga Trendi
+Yazan: AdonisWerther
+Bu göstergeyi bulmak için gösterge arama kutusuna "Kumo'nun Belirttiği 
+Volatilite ile Dinamik Bölgelerde Dalga Trendi" yazın
+Genel Bakış:
+Bu gösterge, olası piyasa geri dönüşleri için sinyaller sağlamak üzere 
+tasarlanmış bir momentum osilatörüdür. Stokastik osilatöre benzer bir 
+görünüme sahiptir ancak daha güvenilir geri dönüş sinyalleri üretmesiyle 
+bilinir. Bu gösterge, birbirini kesen iki çizgiden oluşur ve ayrıca aşırı alım ve 
+aşırı satım bölgeleri sağlar. İki çizgi yukarı veya aşağı doğru kesiştiğinde 
+veya aşırı alım veya aşırı satım bölgesine girdiğinde, piyasadaki olası 
+dönüm noktalarını gösterebilir.
+Bu göstergedeki "dinamik bölgeler" özelliği, aşırı alım ve aşırı satım bölgelerinin piyasa 
+koşullarına göre dinamik olarak ayarlandığı anlamına gelir. Gösterge, oynaklıktaki 
+değişikliklere uyum sağlar ve bu da yatırımcıların yüksek veya düşük oynaklık 
+dönemlerinde yanlış sinyallerden kaçınmasına yardımcı olur.
+Çizgi geçiş sinyallerine ve aşırı alım/aşırı satım bölgelerine ek olarak, bu gösterge 
+ayrıca yükseliş veya düşüş sapmalarını belirtmek için kırmızı ve yeşil noktaları 
+kullanır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Alım Sinyali:
+Hızlı çizgi yavaş çizginin üstünden geçer. 
+Dalga trendi aşırı satım bölgesine girer. 
+Yeşil bir nokta belirir (boğa sapması)
+Satış Sinyali:
+Hızlı çizgi yavaş çizginin altından geçer. 
+Dalga trendi aşırı alım bölgesine girer. 
+Kırmızı bir nokta belirir (ayı sapması)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Bu göstergeyi kullanarak yükseliş (satın al) ve düşüş (satış) tersine dönüş sinyallerine 
+örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Osilatör Giriş/Çıkış #2: Hareketli Ortalamalı 
+TRIX
+Yazan: hgrams
+Bu göstergeyi bulmak için gösterge arama kutusuna “TRIX With Moving 
+Average - Didi's Needles setup” yazın. Genel Bakış: TRIX (Üçlü Üstel 
+Ortalama) göstergesi, Hareketli Ortalama Yakınsama Ayrışması (MACD) 
+göstergesine benzer, ancak üstel hareketli ortalamalar kullanmak 
+yerine, fiyat verilerini yumuşatmak için üçlü üstel hareketli ortalama 
+(TMA) kullanır.
+TRIX, mevcut EMA ile önceki EMA arasındaki fark alınarak ve ardından 
+sonucun önceki EMA'ya bölünmesiyle hesaplanır. Sonuç daha sonra 
+bir grafiğe çizilir ve pozitif bir TRIX yükseliş eğilimini, negatif bir TRIX 
+ise düşüş eğilimini gösterir.
+TRIX, trendleri doğrulamak veya çürütmek için destek ve direnç seviyeleri gibi 
+diğer göstergelerle birlikte kullanılabilir. Ayrıca, TRIX'in 9 dönemlik hareketli 
+ortalaması olan bir sinyal çizgisine sahiptir, alım/satım sinyalleri TRIX sinyal 
+çizgisinin üstüne veya altına geçtiğinde ortaya çıkar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Alım Sinyali:
+Sinyal (hızlı) çizgisi TRIX (yavaş) çizgisinin üstünden geçiyor
+Satış Sinyali:
+Sinyal (hızlı) çizgisi TRIX (yavaş) çizgisinin altından geçiyor
+TRIX göstergesini kullanarak satın alma (yeşil daire) ve satış (kırmızı daire) sinyallerine 
+örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Osilatör Giriş/Çıkış #3: MACD (Değiştirilmiş 
+Ayarlar)
+Tabloya Ekle:
+MACD (Hareketli Ortalama Yakınsama Uzaklaşması) 
+MACD ayarlarını değiştirin:
+Hızlı Uzunluk = 12 Yavaş 
+Uzunluk = 34 Sinyal 
+Yumuşatma = 12
+Genel Bakış:
+Bu, yanlış sinyal miktarını azaltmak ve trend dönüşlerini daha doğru bir şekilde 
+belirlemek için değiştirilmiş ayarlara sahip düzenli bir MACD'dir. Bu ayarları 
+kullanarak, MACD piyasa gürültüsünden daha az etkilenir ve bu da varsayılan ayarları 
+kullanan MACD'yi daha az güvenilir hale getirir.
+Alım Sinyali:
+Hızlı (MACD) çizgisi yavaş (sinyal) çizgisinin üstünden geçer
+Satış Sinyali:
+Hızlı (MACD) çizgisi yavaş (sinyal) çizgisinin altından geçiyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Bu değiştirilmiş MACD ayarlarını kullanarak geri dönüş sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Osilatör Giriş/Çıkış #4: Schaff Trend Döngüsü
+İle: hiç alma
+Bu göstergeyi bulmak için TradingView'daki gösterge arama kutusuna "Schaff 
+Trend Cycle" yazın Genel Bakış: Schaff trend döngüsü, piyasadaki eğilimleri ve 
+eğilim tersine dönüşlerini belirlemek için tasarlanmış bir osilatördür. Sinyaller 
+üretmek için üstel hareketli ortalamaları ve MACD osilatörünü birleştirir. 
+Gösterge 0 ile 100 arasında salınım yaparak aşırı alım ve aşırı satım koşullarını 
+gösterir. Yatırımcılar potansiyel alım veya satım sinyalleri için kesişimleri, aşırı 
+okumaları ve sapmaları ararlar.
+Boğa Tersine Dönüş (Alım) Sinyali:
+STC çizgisi 25'in (aşırı satım) üzerine çıkar ve yeşil bir nokta 
+belirir
+Ayı Dönüşü (Satış) Sinyali:
+STC çizgisi 75'in altına (aşırı alım) geçer ve kırmızı bir nokta 
+belirir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Bu göstergeyi kullanarak yükseliş (satın al) ve düşüş (satış) tersine dönüş sinyallerine 
+örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Osilatör Giriş/Çıkış #5: Öncü MACD (Expo)
+İle: Zeiierman
+Bu göstergeyi bulmak için TradingView Genel Bakış'taki gösterge arama kutusuna 
+"Öncü MACD (Expo)" yazın:
+Bu, gecikmeli bir gösterge olan normal MACD yerine öncü bir gösterge olmak 
+üzere tasarlanmış değiştirilmiş bir MACD göstergesidir. Bu MACD'yi girişler/
+çıkışlar için birincil gösterge olarak kullanabilirsiniz. Bu göstergenin ürettiği 
+sinyaller şaşırtıcı derecede doğrudur ve scalping için harikadır.
+Alım Sinyali:
+Hızlı MACD çizgisi yavaş çizginin üstünden geçer 
+Histogram rengi yeşile döner
+Satış Sinyali:
+Hızlı MACD çizgisi yavaş çizginin altından geçer 
+Histogram rengi kırmızıya döner
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Bu göstergeyi kullanarak yükseliş (satın al) ve düşüş (satış) tersine dönüş sinyallerine 
+örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Osilatör Giriş/Çıkış #6: Bjorgum TSI
+Yazan: Bjorgum
+Bu göstergeyi bulmak için “Bjorgum TSI” yazın”gösterge arama kutusunda Genel 
+Bakış:
+Göreceli Güç Endeksi (RSI) veya Stokastik Osilatör gibi diğer 
+momentum göstergelerine benzer, ancak bu göstergelerin daha 
+gelişmiş ve doğru bir versiyonu olarak kabul edilir.
+TSI göstergesi, varlığın fiyatının hızlı ve yavaş hareket eden ortalaması arasındaki 
+fark alınarak ve ardından sonucun iki kez yumuşatılmasıyla hesaplanır. İki kez 
+yumuşatma işlemi, yanlış sinyalleri ortadan kaldırmaya ve varlığın 
+momentumunun daha doğru bir temsilini sağlamaya yardımcı olur.
+Diğer momentum göstergeleri gibi TSI de, mevcut momentumu temel alarak gelecekteki fiyat 
+hareketlerini tahmin ettiği için öncü bir göstergedir. Bu, potansiyel fiyat değişikliklerinin sinyallerini, 
+bunlar gerçekleşmeden önce sağlayabileceği anlamına gelir ve bu da onu doğru zamanda pozisyonlara 
+girmek veya pozisyonlardan çıkmak isteyen yatırımcılar için değerli bir araç haline getirir.
+TSI göstergesinde, hızlı çizgi yavaş çizginin üstünden veya altından geçtiğinde 
+sinyaller oluşur, yavaş çizgi bu sinyallerin daha kolay tanımlanabilmesi için kırmızı 
+ve mavi renk arasında değişir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Alım Sinyali:
+Hızlı TSI çizgisi yavaş çizginin üstünden geçer 
+Yavaş TSI çizgisi maviye döner
+Satış Sinyali:
+Hızlı TSI çizgisi yavaş çizginin altından geçer 
+Yavaş TSI çizgisi kırmızıya döner
+Bjorgum TSI göstergesinde satın alma (yeşil daire) ve satış (kırmızı daire) 
+sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Bölüm 4 Volatilite Göstergesi Giriş ve Çıkış Sinyalleri
+Volatilite göstergeleri günlük işlemlerde giriş ve çıkışları belirlemek için 
+oldukça etkili araçlar olabilir. Bu bölümde bir dizi oldukça doğru volatilite 
+göstergesi sinyaline ve bunların işlemlerde nasıl kullanılabileceğine 
+bakacağız.
+Volatilite Göstergelerini Anlamak
+Volatilite göstergeleri, belirli bir dönemde bir piyasadaki fiyat dalgalanmalarının derecesini 
+ölçer. Yatırımcıların piyasanın volatilite seviyelerini değerlendirmelerine yardımcı olur ve bu 
+da optimum giriş ve çıkış noktalarını belirlemek için çok önemli olabilir. Volatilite göstergeleri 
+hakkında anlaşılması gereken bazı önemli noktalar şunlardır:
+Volatilite göstergeleri, yatırımcıların fiyat hareketlerinin potansiyel aralığını 
+ve hızını ölçmelerine yardımcı olur. Yüksek veya düşük volatilite dönemleri 
+de dahil olmak üzere piyasa dinamikleri hakkında bilgi sağlarlar.
+Yüksek oynaklık genellikle daha fazla fiyat belirsizliğine işaret eder ve 
+önemli fiyat dalgalanmaları için fırsatlar sunabilir; bu da kısa vadeli fiyat 
+hareketlerinden kar elde etmek isteyen günlük yatırımcılar için avantajlı 
+hale getirir.
+Düşük oynaklık, önemli fiyat dalgalanmaları için daha az potansiyele 
+sahip daha istikrarlı bir piyasa ortamını gösterir. Bu gibi koşullarda, 
+günlük yatırımcıların daha küçük fiyat hareketlerine uyum sağlamak için 
+stratejilerini ayarlamaları veya başka ticaret fırsatları aramaları 
+gerekebilir.
+Standart Sapma ve Volatilite
+Standart sapma, veri noktalarının ortalamadan veya ortalamadan dağılımını 
+nicelleştiren istatistiksel bir ölçüdür. Volatilite göstergeleri bağlamında, standart 
+sapma, ortalama fiyat veya hareketli ortalama etrafındaki fiyat değişkenliğinin 
+kapsamını değerlendirmek için kullanılır.
+Ticarette, standart sapma, fiyat verilerinin belirli bir yüzdesini kapsayan 
+fiyat bantlarının veya kanallarının genişliğini belirlemek için kullanılır. 
+Genellikle bantlar, bir katını ekleyerek ve çıkararak hesaplanır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+hareketli ortalama çizgisinden standart sapma. Bu, ortalama fiyatın 
+etrafında bir zarf oluşturarak fiyat oynaklığının görsel bir temsilini 
+sağlar.
+Standart Sapmanın Ticarette İyi Çalışmasının Nedenleri Standart 
+sapmanın ticarette etkili olmasının birkaç nedeni vardır:
+1.Fiyat Değişkenliğinin Miktarlandırılması:Standart sapma, 
+fiyatların ortalamadan dağılımını temsil eden sayısal bir değer 
+sağlar. Yatırımcılar bu bilgiyi tipik fiyat dalgalanmaları aralığını 
+değerlendirmek ve anormal oynaklık dönemlerini belirlemek için 
+kullanabilirler.
+2.Destek ve Direnç Seviyelerinin Tanımlanması:Bollinger 
+Bantları gibi standart sapmayı içeren volatilite göstergeleri, 
+dinamik destek ve direnç seviyelerini tanımlar. Hareketli 
+ortalamaya belirli sayıda standart sapma eklenerek ve 
+çıkarılarak belirlenen dış bantlar, potansiyel geri dönüş veya 
+kırılma noktaları olarak işlev görebilir.
+3.Aşırı Alım ve Aşırı Satış Koşullarının Ölçülmesi:Fiyatlar, 
+standart sapma bantlarından uzaklık ile gösterildiği gibi 
+hareketli ortalamadan önemli ölçüde saptığında, bu aşırı alım 
+veya aşırı satım koşullarını gösterebilir. Yatırımcılar bu 
+sapmaları potansiyel geri dönüş sinyalleri veya fiyat 
+tükenmesinin göstergeleri olarak yorumlayabilir.
+4.Piyasa Koşullarına Uyum Sağlama:Standart sapmaya 
+dayalı oynaklık göstergeleri değişen piyasa koşullarına 
+uyum sağlar. Oynaklık arttıkça, standart sapma genişler, 
+bantları genişletir ve artan fiyat değişkenliğini yakalar. 
+Tersine, düşük oynaklık dönemlerinde, standart sapma 
+daralır ve azalan fiyat dalgalanmalarını yansıtır.
+Günlük yatırımcılar, standart sapmaya dayalı volatilite göstergelerini 
+analizlerine dahil ederek fiyat dinamiklerini daha iyi anlayabilir, potansiyel geri 
+dönüş noktalarını belirleyebilir ve stratejilerini piyasa koşullarına göre 
+ayarlayabilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Volatilite göstergelerini etkili bir şekilde anlamak ve kullanmak, bir yatırımcının 
+dinamik bir piyasa ortamında optimum giriş ve çıkış noktalarını belirleme 
+yeteneğini önemli ölçüde artırabilir. Bu göstergeleri işlem stratejinize dahil 
+ederek, piyasa volatilitesi hakkında değerli içgörüler elde edebilir ve potansiyel 
+olarak genel işlem performansınızı iyileştirebilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Volatilite Göstergesi Giriş/Çıkış #1: Bollinger 
+Bantları (Geliştirilmiş Ayarlar)
+Bu gösterge sinyalini nasıl bulabilirim:
+Bollinger bantlarını grafiğinize ekleyin
+DeğiştirStandart Sapmaayarlar2.5Aşağıdaki ekran görüntüsünde 
+görebileceğiniz gibi
+Genel bakış: Bollinger bantları iyi bir ortalama geri dönüş göstergesidir, 
+ancak Bollinger bantlarının varsayılan ayarlarını kullanırken birçok yanlış 
+sinyal deneyimlemek yaygındır. Standart sapmayı 2,5'e değiştirerek, fiyat 
+üst veya alt Bollinger bandına dokunduğunda çok daha yüksek kaliteli 
+giriş/çıkış sinyalleri sağlanacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Alım Sinyali:
+Fiyat Bollinger bandının dibine dokunuyor
+Satış Sinyali:
+Fiyat Bollinger bandının tepesine dokunuyor
+İyileştirilmiş Bollinger bantları ayarlarını kullanarak alım ve satım sinyallerine 
+örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Volatilite Göstergesi Giriş/Çıkış #2: Hacim Ağırlıklı 
+Gövde Hareketli Ortalaması Bollinger Bantları 
+(VWHBB)
+Yazar: peacefulLizard50262
+Bu göstergeyi bulmak için gösterge arama kutusuna “Hacim Ağırlıklı Gövde 
+Hareketli Ortalama Bollinger Bantları (VWHBB)” yazın. Genel Bakış:
+Bu, hacim ağırlıklı Hull Hareketli Ortalaması'nı (VEHMA) Bollinger Bantları 
+ile birleştirir. VEHMA, gecikmeyi azaltan ve hacim ağırlığını dahil ederek 
+piyasa eğilimlerinin daha hassas bir göstergesini sağlayan Hull Hareketli 
+Ortalaması'nın bir çeşididir. Bollinger bantları gibi, bu gösterge de üst/alt 
+bantlar ve bir merkez çizgisi içerir. Bu göstergedeki bantlar ayrıca 
+oynaklıkla genişler ve daralır.
+Temel fark, merkez çizgisinin bir VEHMA olması ve üst/alt bantların tek bir 
+çizgi yerine bölgeler olarak görünmesidir. Fiyat bu göstergenin üst ve alt 
+bantlarına dokunduğunda alım ve satım sinyalleri oluşur. Bu gösterge, 
+yatay piyasa koşullarında en iyi şekilde çalışır ve scalping için harika bir 
+göstergedir.
+Gösterge ipucu:
+Daha az yanlış sinyal için sapmayı 1,5'e değiştirin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Alım Sinyali:
+Fiyat alt banda dokunuyor ve aşırı satım bölgesine giriyor
+Satış Sinyali:
+Fiyat üst banda dokunuyor ve aşırı alım bölgesine giriyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Bu göstergeyi kullanarak alım ve satım sinyallerine bir örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Volatilite Göstergesi Giriş/Çıkış #3: VWAP 
+Standart Sapma Bantları
+Bu gösterge sinyalini nasıl bulabilirim:
+EkleVWAP (hacim ağırlıklı ortalama fiyat)grafiğinizde 
+etkinleştirin
+Aşağıdaki ekran görüntüsünde görüldüğü gibi, VWAP ayarlarında üç sapma 
+bandının tümünü etkinleştirin
+Tüm kutuların etkin olduğundan emin olun; renkleri istediğiniz stile 
+göre ayarlayabilirsiniz.
+Genel Bakış: VWAP çok güvenilir ve etkili bir ortalamadır, VWAP'a 
+standart sapma bantları eklemek giriş ve çıkış sinyali almak için harika 
+bir yoldur. Genellikle fiyat, üst/alt 2'ye dokunduğunda VWAP'a geri 
+dönecektirveveya 3rdsapma bandı. Çoğu ortalamaya dönüş stratejisinde 
+olduğu gibi, bu da yatay piyasa koşullarında en iyi şekilde çalışır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Satın Alma Sinyali
+Fiyat alt 2'ye dokunuyorveveya 3rdsapma bandı
+Satış Sinyali
+Fiyat üst 2'ye dokunuyorveveya 3rdsapma bandı
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Bu göstergeyi kullanarak giriş ve çıkış sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Volatilite Göstergesi Giriş/Çıkış #4: Adil Değer 
+Bantları
+İle: nicelik araçları
+Bu göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna "adil değer 
+bantları" yazın (quantifytools tarafından) Genel Bakış:
+Adil değer bantları göstergesi, Bollinger Bantlarına benzer bir göstergedir 
+ancak daha az yanlış sinyalle daha doğru giriş ve çıkışlar sağlamayı amaçlayan 
+özel bir algoritma kullanılarak hesaplanır.
+Adil Değer Bantları üç banttan oluşur, bunlar; 1x sapma, 2x sapma, 3x 
+sapma bantlarıdır.
+Tüm bu bantlar giriş/çıkış sinyalleri için kullanılabilir, ancak en doğru sinyaller 
+fiyat 3x sapma bandına dokunduğunda ortaya çıkar. 3x sapma bandı tek bir 
+çizgi yerine bir bölge olarak görünür.
+Temel (orta) çizgi de trend yönüne bağlı olarak renk değiştirecektir. 
+Bu göstergenin görsel stili giriş/çıkış sinyallerini tanımlamayı 
+kolaylaştırır.
+Satın Alma Sinyalleri:
+Fiyat, alt 3x sapma bandının bölgesine dokunuyor veya 
+giriyor
+Satış Sinyalleri:
+Fiyat, alt 3x sapma bandının bölgesine dokunuyor veya 
+giriyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Adil değer bantları göstergesinde alım ve satım sinyalinin örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Volatilite Göstergesi Giriş/Çıkış #5: Fibonacci Bölgesi
+İle: gözcü
+Bu göstergeyi bulmak için gösterge arama kutusuna “Fibonacci Bölgesi” yazın Genel 
+Bakış:
+TradingView'daki Fibonacci Bölgesi göstergesi, piyasadaki olası geri dönüş bölgelerini 
+belirlemek için Fibonacci seviyelerini içeren bir kanal göstergesidir. Donchian Kanallarına 
+benzer şekilde, bu gösterge yatırımcıların belirli bir süre içinde fiyat sınırlarını 
+belirlemelerine yardımcı olur. Ancak, fiyat geri dönüşlerinin meydana gelme olasılığının 
+yüksek olduğu alanları vurgulamak için Fibonacci geri çekilme seviyelerini kullanarak bir 
+adım daha ileri gider.
+Fibonacci seviyelerini kanal göstergesine dahil ederek, yatırımcılar fiyat kanalında geri 
+dönüşlerin gerçekleşme olasılığının daha yüksek olduğu belirli bölgeleri belirleyebilirler. Bu 
+bölgeler, işlemler için potansiyel giriş veya çıkış noktaları olarak hareket edebilir ve ayrıca 
+stop-loss veya take-profit seviyelerinin belirlenebileceği alanlar olabilir.
+Bu gösterge yatay piyasa koşullarında en iyi şekilde çalışır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Alım Sinyali:
+Fiyat Fibonacci bölgesinin dibine dokunuyor
+Satış Sinyali:
+Fiyat en üst Fibonacci bölgesine dokunuyor
+Bu göstergeyi kullanarak alım ve satım sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+Bölüm 5: Trend Takibi ve Hareketli Ortalama 
+Gösterge Giriş/Çıkış Sinyalleri
+Hareketli ortalamalar ve trend takip göstergeleri, deneyimli yatırımcıların 
+piyasadaki giriş ve çıkış noktalarını belirlemek için kullandıkları güçlü araçlardır. 
+Bu bölümde, hareketli ortalamaların önemini inceleyecek ve bunların işlem 
+stratejilerinde nasıl etkili bir şekilde kullanılabileceğini tartışacağız.
+Hareketli ortalamalar, yatırımcılar tarafından fiyat verilerini yumuşatmak ve belirli bir 
+zaman dilimindeki eğilimleri belirlemek için yaygın olarak kullanılır. Hareketli 
+ortalamalarla girişleri ve çıkışları belirlemenin en iyi yöntemi, fiyatın hareketli 
+ortalamanın üstünde veya altında kesişmesi ve kapanması ilkesidir.
+İşte nasıl çalıştığı:
+1.Giriş Sinyalleri:Bir varlığın fiyatı hareketli ortalamayı geçtiğinde ve 
+üzerinde kapandığında, bu genellikle yükseliş sinyali anlamına gelir. Bu, 
+fiyatın potansiyel olarak bir yükseliş trendine girdiğini ve yükselmeye 
+devam edebileceğini, uzun pozisyona girme fırsatı sağladığını gösterir.
+2.Çıkış Sinyalleri:Tersine, fiyat hareketli ortalamayı geçtiğinde ve altına 
+kapandığında, bu genellikle düşüş sinyalini gösterir. Bu, fiyatın bir 
+düşüş trendine giriyor olabileceğini ve düşmeye devam 
+edebileceğini, uzun bir pozisyondan çıkma veya potansiyel olarak 
+kısa bir pozisyona girme fırsatını işaret ettiğini gösterir.
+Hareketli ortalamaları bu şekilde kullanarak yatırımcılar trendleri yakalayabilir ve 
+sürdürülebilir fiyat hareketlerinden faydalanabilirler.
+Hareketli ortalamaların ve trend takip göstergelerinin dalgalı veya yatay 
+piyasa koşullarında daha az güvenilir olabileceğini belirtmek önemlidir. 
+Dalgalı piyasalar, net bir yönü olmayan düzensiz fiyat hareketleriyle 
+karakterize edilir ve bu da trend takip stratejilerinin doğru sinyaller 
+üretmesini zorlaştırır.
+Bu tür piyasa koşullarında, hareketli ortalamaların etkinliğini artırmak 
+için ek filtreler kullanmak çok önemlidir. Popüler bir filtre şudur:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Ortalama Yön Endeksi (ADX) göstergesi.
+ADX Göstergesini Yanal Piyasa Koşullarını 
+Filtrelemek İçin Kullanma
+Ortalama Yön Endeksi (ADX), bir trendin gücünü ölçen bir osilatördür. 
+Yatırımcıların piyasanın trend mi yoksa yatay bir fazda mı olduğunu 
+belirlemesine yardımcı olur.
+Hareketli ortalamalar ve trend takip göstergeleri kullanıldığında, yatırımcılar ADX 
+göstergesini yatay piyasa koşullarını filtrelemek için kullanabilirler. İşte nasıl 
+yapılabileceği:
+1.Trend Gücünün Doğrulanması:Hareketli ortalamalara güvenmeden önce, 
+piyasanın güçlü bir trend gösterdiğinden emin olmak için ADX göstergesini 
+kontrol edin. Genellikle 25'in üzerinde olan yüksek bir ADX okuması, güçlü 
+bir trendi gösterir ve hareketli ortalama sinyallerinin güvenilirliğini artırır.
+2.Zayıf Trend Sinyallerinden Kaçınma:Dalgalı veya yatay piyasa koşullarında, 
+ADX okuması düşük olacaktır ve bu da güçlü bir trendin eksikliğini gösterir. 
+Bu tür dönemlerde, yalnızca hareketli ortalama sinyallerine güvenmekten 
+kaçınmanız önerilir, çünkü bunlar yanlış giriş ve çıkışlara neden olabilir.
+Yatırımcılar, ADX göstergesini bir filtre olarak kullanarak işlem 
+sinyallerinin doğruluğunu artırabilir ve dalgalı piyasa koşullarında 
+verimsiz işlemlerden kaçınabilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Trend Takip Göstergesi Giriş/Çıkış #1: 40 Dönemlik 
+Gövde Hareketli Ortalaması
+Tablonuza ekleyin:
+Gövde hareketli ortalaması, ayarlayınuzunluk 40'a kadar
+Genel Bakış:
+HMA (Hull Hareketli Ortalaması), scalping'de kullanmak için en iyi hareketli 
+ortalamalardan biridir ve oldukça doğru alım/satım sinyalleri üretebilir. HMA, trend 
+değişikliklerine karşı çok duyarlı olacak şekilde tasarlanmıştır ve bir dalga gibi 
+görünür.
+Alım/satım sinyali, fiyat HMA'nın üstüne veya altına geçtiğinde ortaya çıkar.
+Boğa Tersine Dönüş (Alım) Sinyali:
+Fiyatın HMA çizgisini geçmesi, yukarı yönlü potansiyel bir 
+boğa dönüşüne işaret eder.
+Ayı Dönüşü (Satış) Sinyali:
+Buna karşılık, fiyat HMA çizgisinin altına geçtiğinde, bu durum aşağı 
+yönlü potansiyel bir düşüş eğiliminin göstergesidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+40 dönemlik HMA kullanılarak yükseliş (alım) ve düşüş (satış) tersine dönüş 
+sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Trend Takip Göstergesi Giriş/Çıkış #2: 
+HalfTrend Göstergesi
+Yazan: everget
+Göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna “HalfTrend” yazın 
+(everget tarafından) Genel Bakış:
+Yarı trend göstergesi, piyasadaki kısa vadeli zirveleri ve dipleri doğru bir şekilde tahmin 
+etmek için harika bir araçtır.
+Alım veya satım sinyali oluştuğunda fiyatın altında veya üstünde bir ok belirir, bu da 
+kullanımı ve anlaşılmasını oldukça kolaylaştırır.
+Bu gösterge, yüksek oynaklığın ve büyük fiyat dalgalanmalarının olduğu piyasalarda en iyi 
+şekilde çalışacaktır.
+Volatilite çok düşük olduğunda bu gösterge daha az güvenilir olacak ve daha fazla yanlış 
+sinyal üretecektir.
+Gösterge ipucu:
+Düşük oynaklıklı piyasa koşullarında aşağıdaki ayarları deneyin:
+Genlik 1
+Kanal Sapması 1
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+Alım Sinyali:
+Mumun altında mavi ok belirir 
+Çizgi rengi değişir
+Satış Sinyali:
+Mumun üstünde kırmızı ok belirir 
+Çizginin rengi kırmızıya döner
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+Bu göstergeyi kullanarak yükseliş (satın al) ve düşüş (satış) tersine dönüş sinyallerine 
+örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Trend Takip Göstergesi Giriş/Çıkış #3: UT Bot 
+Uyarıları
+İle: Miktar Göçebesi
+Bu göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna "UT Bot Uyarıları" 
+yazın (QuantNomad tarafından)Genel Bakış:
+Bu, süpertrend göstergesine benzer bir ATR tabanlı trend takip 
+göstergesidir. Mumlar trende bağlı olarak yeşil ve kırmızı renk arasında 
+değişecektir.
+Bir sinyal oluştuğunda grafikte “satın al” ve “sat” etiketleri belirir ve bu indikatörü 
+trend değişikliklerini kolayca belirlemek için iyi bir araç haline getirir.
+Bu gösterge trend piyasalarında iyi çalışır, ancak yatay piyasalarda yanlış 
+sinyaller üretir.
+Gösterge İpucu: Ayarları kullanın
+Anahtar Değer = 3, ATR periyodu = 20, göstergeyi trend filtresi olarak kullanmak için Satın Alma 
+Sinyali:
+Mumun rengi yeşile döner
+Yeşil "satın al" etiketi bir mumun altında görünür
+Satış Sinyali:
+Mum rengi kırmızıya döner
+Kırmızı "sat" etiketi bir mumun altında görünür
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+UT Bot Uyarıları göstergesini kullanarak alım ve satım sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Trend Takip Göstergesi Giriş/Çıkış #4: 50 
+Dönem KAMA
+İle: HPotter
+Bu göstergeyi TradingView'da bulmak için "Kaufman Adaptive Moving 
+Average" yazın, ben yazar HPotter'ınkini tercih ediyorum Önerilen Ayarlar
+Uzunluğu 50'ye ayarlayın
+Genel Bakış:
+KAMA (Kaufman'ın Uyarlanabilir Hareketli Ortalaması), piyasa oynaklığına uyum 
+sağlamak ve geleneksel hareketli ortalamalardan daha fazla fiyat değişikliklerine 
+yanıt vermek üzere tasarlanmış bir hareketli ortalamadır. KAMA, diğer hareketli 
+ortalama türlerinin çoğundan daha az yanlış fiyat geçiş sinyali üretecektir.
+Giriş ve çıkış sinyalleri, fiyatın KAMA'nın üstüne/altına geçmesiyle oluşur.
+Alım Sinyali:
+Fiyat KAMA'nın üzerine çıktı
+Satış Sinyali:
+Fiyat KAMA'nın altına düştü
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+KAMA'nın üstünde ve altında fiyat geçişi örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+Trend Takip Göstergesi Giriş/Çıkış #5: 
+Harmonik Desenlere Dayalı Trend Takipçisi
+İle: Adı Anılmaması Gereken Kişi
+Bu göstergeyi bulmak için gösterge arama kutusuna "Harmonik Desenlere Dayalı 
+Trend Takipçisi" yazın Genel Bakış: Gösterge, fiyat verilerindeki harmonik 
+desenleri belirler ve bunları kullanarak potansiyel fiyat geri dönüşlerini tahmin 
+eder. Harmonik desenler, Fibonacci oranlarına dayalı geometrik fiyat yapılarıdır 
+ve piyasadaki potansiyel geri dönüş noktalarını belirlemek için kullanılır.
+Harmonik Desenlere Dayalı Trend Takipçisi ayrıca sinyalleri filtrelemek 
+için bir trend takip öğesi içerir ve işlemlerin yalnızca geçerli trend 
+yönünde yürütülmesini sağlar. Bu, karşıt trend sinyallerinden 
+kaçınarak başarılı işlemlerin olasılığını artırır.
+Gösterge İpucu: Scalping için aşağıdaki ayarları kullanın
+Taban = düzeltme
+Giriş % = 85
+Durdurma % = 5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+Satın Alma Sinyalleri:
+Yükseliş trendinden yükseliş trendine potansiyel bir dönüş olabileceğini gösteren 
+yükseliş yönlü bir harmonik formasyon tespit edildi.
+Göstergenin trend takip unsuru, hakim trendin yükseliş 
+eğiliminde olduğunu veya yükseliş yönlü bir dönüşümün 
+sürdüğünü teyit eder (mum rengi yeşile döner).
+Her iki koşul da sağlandığında, gösterge potansiyel bir uzun giriş 
+noktasını belirten bir satın alma sinyali üretir.
+Satış Sinyalleri:
+Yükseliş trendinden düşüş trendine potansiyel bir dönüş olabileceğini gösteren 
+düşüş yönlü harmonik bir formasyon tespit edildi.
+Göstergenin trend izleme elemanı, hakim trendin düşüş 
+eğiliminde olduğunu veya düşüş yönlü bir dönüşümün devam 
+ettiğini teyit eder (mum rengi yeşile döner).
+Her iki koşul da sağlandığında, gösterge potansiyel bir kısa giriş 
+noktasını belirten bir satış sinyali üretir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+Harmonik Desenlere Dayalı Trend Takipçisi göstergesini kullanarak satın alma 
+(yeşil daire) ve satış (kırmızı daire) sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+Bölüm 6: Algoritmik ve AI Tabanlı Giriş/Çıkış 
+Sinyalleri
+Günümüzün dinamik ve hızla gelişen finans piyasalarında teknoloji, 
+işlem stratejilerinde giderek daha belirgin bir rol oynuyor. Bu bölümde, 
+algoritmik ve yapay zeka tabanlı giriş ve çıkışların heyecan verici 
+dünyasına dalıyoruz. Bu gelişmiş teknikler, işlem kararlarını geliştirmek 
+ve deneyimli yatırımcılara rekabet avantajı sağlamak için son teknolojiyi 
+kullanır.
+Yapay Zeka ve Algoritmik Göstergeler Nasıl Çalışır?
+Yapay zeka tabanlı ve algoritmik göstergeler, büyük miktarda piyasa verisini 
+analiz etmek için karmaşık algoritmaların ve makine öğreniminin gücünden 
+yararlanır. Bu göstergeler, kalıpları, eğilimleri ve korelasyonları otomatik olarak 
+belirleyerek anlamlı içgörüler çıkarmayı ve eyleme dönüştürülebilir sinyaller 
+üretmeyi hedefler. İşte nasıl çalıştıkları:
+Veri Analizi: Yapay zeka algoritmaları, fiyat hareketleri, hacim, 
+oynaklık ve diğer ilgili faktörler de dahil olmak üzere büyük hacimli 
+geçmiş ve gerçek zamanlı piyasa verilerini işler ve analiz eder.
+Desen Tanıma:Yapay zeka algoritmaları, desen tanıma teknikleri 
+sayesinde tekrar eden fiyat desenlerini, grafik oluşumlarını ve 
+potansiyel işlem fırsatlarının göstergesi olabilecek anormallikleri 
+belirleyebilir.
+Tahmini Modelleme: Makine öğrenimi modelleri, tarihsel veriler 
+üzerinde eğitim alarak geçmiş piyasa davranışlarından ders 
+çıkarabilir ve gelecekteki fiyat hareketlerini öngörmek için tahmini 
+modeller üretebilir.
+Uyum sağlama yeteneği: AI ve algoritmik göstergeler, değişen piyasa 
+koşullarına uyum sağlama ve gelişme yeteneğine sahiptir. Sürekli 
+olarak öğrenebilir ve stratejilerini yeni verilere göre optimize edebilir, 
+zamanla doğruluklarını artırabilirler.
+Yüksek Olasılıklı Giriş ve Çıkışların Belirlenmesi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+AI ve algoritmik göstergelerin amacı, yüksek olasılıklı giriş ve çıkışları 
+belirleyerek yatırımcılara piyasada rekabet avantajı sağlamaktır. İşte nasıl 
+yardımcı olabilecekleri:
+Sinyal Üretimi: AI algoritmaları önceden tanımlanmış kriterlere ve 
+kurallara göre alım ve satım sinyalleri üretir. Bu sinyaller potansiyel 
+piyasa hareketlerini yakalamak ve daha yüksek başarı olasılığına 
+sahip giriş ve çıkış noktaları sağlamak için tasarlanmıştır.
+Risk Yönetimi:Gelişmiş risk yönetimi teknikleri algoritmik ticaret 
+stratejilerine dahil edilebilir. Yapay zeka algoritmaları, piyasa 
+oynaklığına ve risk toleransına bağlı olarak pozisyon boyutlarını, 
+zarar durdurma seviyelerini ve kar hedeflerini dinamik olarak 
+ayarlayabilir.
+Gerçek Zamanlı İzleme: AI tabanlı sistemler piyasa koşullarını 
+sürekli olarak izler ve değişen dinamiklere hızla yanıt verir. Önceden 
+tanımlanmış kurallara göre işlemleri otomatik olarak 
+gerçekleştirebilir, duygusal önyargıların ve insan hatalarının etkisini 
+en aza indirebilirler.
+Geriye Dönük Test ve Optimizasyon: Algoritmik göstergeler, 
+performanslarını değerlendirmek için tarihsel veriler kullanılarak kapsamlı 
+bir şekilde geriye dönük test edilebilir. Parametreleri optimize ederek ve 
+stratejileri ince ayarlayarak, tüccarlar modellerini iyileştirebilir ve işlem 
+sonuçlarını iyileştirebilir.
+6. Bölümde, profesyonel yatırımcılar arasında popülerlik kazanan çeşitli AI 
+ve algoritmik göstergeleri inceleyeceğiz. Bu gelişmiş teknikleri yatırım 
+cephaneliğinize dahil ederek, piyasalarda potansiyel olarak rekabet avantajı 
+elde edebilir ve yüksek olasılıklı giriş ve çıkışları belirleyebilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+AI/Algoritmik Giriş/Çıkış #1: Doğru Swing 
+Ticaret Sistemi
+İle: ceyhun
+Bu göstergeyi bulmak için TradingView gösterge arama kutusuna 
+“Doğru Swing Ticaret Sistemi” yazın Genel Bakış: Bu, süpertrend 
+göstergesine benzer bir “Al/Sat” göstergesidir. Bu gösterge, alım ve 
+satım sinyallerini oluşturmak için özel olarak yapılmış bir strateji kullanır 
+ve doğru geri dönüş sinyalleri sağlar. Bu gösterge, trend piyasalarında 
+en iyi şekilde çalışır ve yan ve aralıklı piyasa koşullarında yanlış sinyaller 
+üretebilir.
+Yanlış sinyallerden kaçınmak için, ADX (Ortalama Yön Endeksi) indikatörüyle birlikte 
+kullanarak, sadece trend olan piyasa koşullarını belirleyip bu koşullarda işlem 
+yapabilirsiniz.
+Yanlış sinyallerden kaçınmanın bir diğer etkili yolu ise gösterge ayarlarındaki swing 
+uzunluğunu biraz daha uzun bir değere değiştirmektir.
+Önerilen Gösterge Ayarları:
+Salınım = 7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+Alım Sinyali:
+Yeşil bir "Satın Al" etiketi görünür, mumlar yeşil renge döner
+Satış Sinyali:
+Kırmızı bir "satış" etiketi görünür, mumlar kırmızı renge dönüşür
+Bu göstergeyi kullanarak yükseliş (satın al) ve düşüş (satış) tersine dönüş sinyallerine 
+örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+AI/Algoritmik Giriş/Çıkış #2: Goethe A - Çoklu 
+Öncü Gösterge Paketi
+Yazan: AdonisWerther
+Bu göstergeyi bulmak için gösterge arama kutusuna “Goethe A - 
+Çoklu Öncü Gösterge Paketi” yazın
+Genel Bakış:
+Goethe A Gösterge Paketi, birden fazla öncü ve geciken göstergeyi birleştiren çok 
+yönlü ve kapsamlı bir araçtır ve bu da onu scalping stratejileri için harika bir seçim 
+haline getirir. Yatırımcılara OBV/VPT sapmaları, yumuşatılmış Heikin-Ashi, günlük 
+pivotlar ve daha fazlası gibi çeşitli bileşenler aracılığıyla yerel trendler, destek ve 
+direnç seviyeleri, trend tersine dönüşleri ve potansiyel giriş ve çıkış noktaları 
+hakkında içgörüler sağlar.
+Alım/satım sinyalleri, belirli sinyale bağlı olarak grafiğinizde farklı renkli üçgenler 
+ve daireler şeklinde görünecektir.
+Gösterge İpucu:
+Alım/satım sinyallerini daha kolay görebilmek için ayarlarda “Pivot 
+High” ve “Pivot Low” sinyallerini kapatın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+Alım Sinyali:
+Fiyatın altında yeşil daire veya mavi üçgen belirir
+Satış Sinyali
+Fiyatın üstünde kırmızı daire veya turuncu üçgen belirir
+Goethe A - Çoklu Öncü Gösterge Paketi kullanılarak alım ve satım 
+sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+AI/Algoritmik Giriş/Çıkış #3: Sonraki Pivot 
+Projeksiyonu [Trendoskop]
+İle: Adı Anılmaması Gereken Kişi
+Bu göstergeyi bulmak için gösterge arama kutusuna “Sonraki Pivot Projeksiyonu 
+[Trendoskop]” yazınGenel Bakış:
+Bu gösterge, bir sonraki pivot noktasının projeksiyonunu oluşturmak ve piyasadaki 
+tersine dönüşleri tahmin etmek için birden fazla teknik göstergeyi birleştiren tescilli bir 
+algoritma kullanır. Bu gösterge olası bir tersine dönüşü belirlediğinde, yüksek yüksek, 
+düşük yüksek, düşük düşük veya yüksek düşük olasılığını gösteren bir ok üretecektir. Bu 
+gösterge ayrıca fiyatın tersine dönme olasılığının olduğu tahmin edilen seviyelere de 
+işaret edecektir.
+Bu gösterge tahminlerinde şaşırtıcı derecede doğrudur ve daha yüksek zaman 
+dilimlerinde kullanıldığında yüksek kaliteli salınım ticareti sinyalleri üretebilir.
+Satın Alma Sinyali
+Son zamanlardaki düşük salınımın ardından oklar yukarıyı gösteriyor
+Satış Sinyali
+Son zamanlardaki yükselişin ardından oklar aşağıyı gösteriyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 76 ===
+NPP göstergesini kullanarak satın alma (yeşil daire) ve satış (kırmızı daire) sinyallerine 
+örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 77 ===
+AI/Algoritmik Giriş/Çıkış #4: Makine Öğrenimi: kNN 
+tabanlı Strateji
+İle: kapissimo
+Bu göstergeyi bulmak için gösterge arama kutusuna “Makine Öğrenimi: kNN 
+tabanlı Strateji” yazın. Genel Bakış:
+Bu göstergedeki kNN tabanlı strateji, bir sonraki mumun yönünü, yani piyasanın 
+yukarı mı yoksa aşağı mı gideceğini tahmin etmek için tasarlanmıştır. Bunu, 
+geçmiş fiyat verilerini analiz ederek ve mevcut piyasa durumuna en çok benzeyen 
+kalıpları bularak yapar. Daha sonra strateji, k en yakın komşunun çoğunluk oyuna 
+göre bir etiket (yukarı veya aşağı) atar.
+Alım veya satım sinyali oluştuğunda mumun üstünde/altında mavi veya 
+kırmızı bir etiket belirir.
+Alım Sinyali:
+Bir mumun altında mavi bir etiket belirir
+Satış Sinyali:
+Bir mumun üstünde kırmızı bir etiket belirir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 78 ===
+Makine Öğrenmesi: kNN tabanlı Strateji göstergesini kullanarak satın alma (mavi etiket) 
+ve satış (kırmızı etiket) sinyalleri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 79 ===
+AI/Algoritmik Giriş/Çıkış #5: Makine Öğrenimi: 
+Lorentzian Sınıflandırması
+Yazan: jdehorty
+Bu göstergeyi bulmak için gösterge arama kutusuna “Makine Öğrenimi: 
+Lorentzian Sınıflandırması” yazın
+Genel Bakış:
+Bu gösterge, geçmiş fiyat verilerini analiz etmek ve gelecekteki fiyat hareketleri hakkında 
+tahminlerde bulunmak için bir makine öğrenme algoritması kullanır. Algoritma, 
+verilerdeki karmaşık kalıpları yakalamaya ve modellemeye yardımcı olabilen Lorentzian 
+dağılımına dayanmaktadır.
+Bu sinyaller yükseliş veya düşüş yönlü olabilir ve fiyat hareketinin 
+öngörülen yönünü gösterir.
+Kullanıcılar, göstergenin ayarlarını kendi işlem tarzlarına ve tercihlerine uyacak 
+şekilde değiştirebilirler. Geriye dönük periyot, algoritmada kullanılan 
+özelliklerin sayısı ve sınıflandırma eşiği gibi parametreleri ayarlayabilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 80 ===
+Gösterge İpucu:
+Kullanıcı, bu göstergenin ürettiği sinyalleri daha da hassaslaştırmak için, 
+örneğin 200 EMA'yı trend filtresi veya ADX filtresi olarak kullanmak gibi, 
+gösterge ayarlarına filtreler ekleyebilir.
+Kullanıcı bu tür filtreleri uygulayarak üretilen yanlış sinyal 
+sayısını azaltabilir ve alım-satım sinyallerinin doğruluğunu 
+artırabilir.
+Alım Sinyali:
+Bir mumun altında yeşil bir satın alma sinyali belirir. 
+Hareketli ortalama çizgisinin rengi yeşile döner.
+Satış Sinyali:
+Bir mumun üzerinde kırmızı bir satış sinyali belirir. 
+Hareketli ortalama çizgisinin rengi kırmızıya döner.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 81 ===
+AI/Algoritmik Giriş/Çıkış #6: Kırılmalarla Trend 
+Çizgileri [LuxAlgo]
+Bu göstergeyi bulmak için gösterge arama kutusuna "Kırılmalar ile Trend Çizgileri 
+[LuxAlgo]" yazın
+Genel Bakış:
+Bu gösterge, trend çizgilerini tanımlama ve kırılmalarını tespit etme 
+sürecini kolaylaştırmak için tasarlanmıştır. Bu aracın birincil işlevi, 
+belirtilen parametrelere göre grafikte otomatik olarak trend çizgileri 
+çizmektir.
+Bu göstergenin dikkat çekici bir özelliği, bir trend çizgisi kırıldığında sinyal üretme 
+kapasitesidir. Bir trend çizgisi kırılması genellikle bir piyasa tersine dönmesi için 
+potansiyel bir sinyal olarak kabul edilir ve piyasa duyarlılığının boğadan ayıya veya tam 
+tersine doğru değiştiğini gösterir.
+Bu gösterge varsayılan ayarları kullanırken çok sayıda yanlış sinyal üretebilir. Yanlış 
+sinyallerden kaçınmak için uzunluğu çok daha yüksek bir değere (genellikle 100) 
+değiştiririm ve eğim hesaplama yöntemini Linreg olarak değiştiririm.
+Önerilen Gösterge Ayarları:
+Uzunluk: 30, daha kısa zaman dilimlerinde (15 dakika veya daha az) kullanılıyorsa 
+daha uzun bir uzunluk kullanmak daha etkili olabilir
+Eğim Hesaplama Yöntemi: LinReg "Yalnızca 
+Onaylanmış Kopuşları Göster"i etkinleştirin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 82 ===
+Alım Sinyali:
+Fiyat düşüş trendi çizgisini kırar ve yeşil bir "B" etiketi görünür
+Satış Sinyali:
+Fiyat yükseliş trendi çizgisini kırar ve yeşil bir "B" etiketi görünür
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 83 ===
+Bu göstergeyi önerilen ayarlarla kullanarak yükseliş trendi (kırmızı B) ve düşüş 
+trendi (yeşil B) çizgi kırılmalarına örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 84 ===
+AI/Algoritmik Giriş/Çıkış #7: Otomatik Harmonik 
+Desenler - V2
+İle: Adı Anılmaması Gereken Kişi
+Bu göstergeyi bulmak için gösterge arama kutusuna “Oto Harmonik Desenler - V2” 
+yazın. Genel Bakış:
+Bu gösterge, fiyat grafiklerindeki harmonik örüntüleri otomatik olarak algılar ve 
+yatırımcıların bu örüntülere dayalı potansiyel ticaret fırsatlarını belirlemesine 
+yardımcı olur. Harmonik örüntüler, piyasadaki potansiyel geri dönüşleri tahmin 
+etmeye yardımcı olabilen belirli Fibonacci oranlarını izleyen bir dizi geometrik 
+fiyat yapısıdır.
+Bu gösterge, tespit edilen her bir desen için potansiyel geri dönüş bölgelerini (PRZ) vurgular. Bu 
+bölgeler, harmonik desenin tamamlanmasının beklendiği ve bir geri dönüşün meydana 
+gelmesinin muhtemel olduğu fiyat seviyeleridir. Yatırımcılar bu bölgeleri potansiyel giriş noktaları 
+veya kar hedefleri olarak kullanabilirler.
+Gösterge İpucu: Aşağıdaki ayarları değiştirin
+Alternatif kaynağı etkinleştir: kapat
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 85 ===
+Alım Sinyali:
+Boğa harmonik formasyonunun tespit edilmesi ve fiyatın 
+formasyonla ilişkili potansiyel geri dönüş bölgesine (PRZ) ulaşması 
+durumunda satın alma sinyali üretilir.
+Fiyatın üstünde bir fiyat hedefi (yeşil çizgi) görünecektir
+Satış Sinyali:
+Satış sinyali, düşüş yönlü harmonik bir formasyon tespit 
+edildiğinde ve fiyat, formasyonla ilişkili potansiyel geri dönüş 
+bölgesine (PRZ) ulaştığında üretilir.
+Fiyatın altında bir fiyat hedefi (yeşil çizgi) görünecektir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 86 ===
+Ayı fiyat modelinin belirlendiği bir satış sinyalinin örneği, fiyat hedefinin (yeşil 
+çizgi) fiyatın altında olduğuna dikkat edin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 87 ===
+AI/Algoritmik Giriş/Çıkış #8: Goethe A - Çoklu 
+Öncü Gösterge Paketi Yazar: AdonisWerther
+Bu göstergeyi bulmak için gösterge arama kutusuna “Goethe A - Çoklu 
+Öncü Gösterge Paketi” yazın. Genel Bakış:
+Goethe A Gösterge Paketi, birden fazla öncü ve geciken göstergeyi birleştiren çok 
+yönlü ve kapsamlı bir araçtır ve bu da onu scalping stratejileri için harika bir seçim 
+haline getirir. Yatırımcılara OBV/VPT sapmaları, yumuşatılmış Heikin-Ashi, günlük 
+pivotlar ve daha fazlası gibi çeşitli bileşenler aracılığıyla yerel trendler, destek ve 
+direnç seviyeleri, trend tersine dönüşleri ve potansiyel giriş ve çıkış noktaları 
+hakkında içgörüler sağlar.
+Alım/satım sinyalleri, belirli sinyale bağlı olarak grafiğinizde farklı renkli üçgenler 
+ve daireler şeklinde görünecektir.
+Gösterge İpucu:
+Alım/satım sinyallerini daha kolay görebilmek için ayarlarda “Pivot 
+High” ve “Pivot Low” sinyallerini kapatın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 88 ===
+Alım Sinyali:
+Fiyatın altında yeşil daire veya mavi üçgen belirir
+Satış Sinyali
+Fiyatın üstünde kırmızı daire veya turuncu üçgen belirir
+Goethe A - Çoklu Öncü Gösterge Paketi kullanılarak alım ve satım 
+sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 89 ===
+Bölüm 7: Gelişmiş Teknikler
+Bu bölümde, belirli piyasa koşullarına göre gösterge ayarlarını 
+optimize etmek için gelişmiş teknikleri inceleyeceğiz. Ayrıca, giriş ve 
+çıkışların doğruluğunu artırmak için farklı göstergeleri birleştirmenin 
+güçlü stratejisini inceleyeceğiz. Bu teknikler, deneyimli yatırımcılara 
+günlük işlem çabalarında bir avantaj sağlamak için tasarlanmıştır.
+Gösterge Ayarlarının Piyasa Koşullarına Göre Optimize Edilmesi
+Gösterge ayarlarını optimize etmek, başarılı günlük ticaretin önemli bir 
+yönüdür. Gösterge parametrelerini mevcut piyasa koşullarına göre 
+ayarlayarak, yatırımcılar karlı fırsatları daha iyi yakalamak için stratejilerini ince 
+ayarlayabilirler.
+Gösterge ayarlarını optimize etmek için bazı gelişmiş teknikler şunlardır:
+1.Dönem Uzunluğu:Farklı fiyat hareketlerini yakalamak için farklı 
+zaman dilimleriyle deneyler yapın. 5 veya 10 gibi daha kısa 
+dilimler, hızlı hareket eden piyasalar için idealdir; 20 veya 50 gibi 
+daha uzun dilimler ise daha istikrarlı koşullarda daha akıcı 
+sinyaller sağlayabilir.
+2.Hassasiyet Parametreleri:Aşırı alım ve aşırı satım seviyeleri gibi hassasiyet 
+parametrelerini piyasanın oynaklığına uyacak şekilde ayarlayın. Daha 
+yüksek oynaklık daha geniş seviyeler gerektirebilirken, daha düşük 
+oynaklık gürültüyü ve yanlış sinyalleri filtrelemek için daha sıkı seviyeler 
+gerektirebilir.
+3.Uyarlanabilir Göstergeler:Piyasa koşullarına göre 
+parametrelerini otomatik olarak ayarlayan uyarlanabilir 
+göstergeleri kullanmayı düşünün. Bu göstergeler, değişen 
+oynaklığa ve trendlere daha duyarlı ve uyarlanabilir olabilir.
+4.Geriye Dönük Test ve Optimizasyon Araçları:Geriye dönük test ve 
+optimizasyon yetenekleri sunan gelişmiş işlem platformlarından 
+yararlanın. Bu araçlar, çeşitli gösterge ayarlarını tarihsel olarak test 
+etmenize ve belirli piyasa koşulları için en uygun parametre değerlerini 
+belirlemenize olanak tanır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 90 ===
+Yatırımcılar, gösterge ayarlarını aktif bir şekilde optimize ederek stratejilerinin 
+piyasa dinamikleriyle uyumlu olmasını sağlayabilir ve böylece başarılı işlem 
+olasılığını artırabilirler.
+Gelişmiş Girişler ve Çıkışlar için Farklı Göstergelerin 
+Birleştirilmesi
+Bireysel göstergeler değerli içgörüler sağlarken, birden fazla göstergeyi 
+birleştirmek piyasanın daha kapsamlı bir görünümünü sağlayabilir. Farklı 
+göstergeleri entegre ederek, yatırımcılar giriş ve çıkış sinyallerinin 
+doğruluğunu ve güvenilirliğini artırabilirler.
+Göstergeleri birleştirmek için bazı etkili teknikler şunlardır:
+1.Sinyal Birleşimi:Birden fazla gösterge aynı yönde sinyaller 
+ürettiğinde birleşme arayın. Farklı temel metodolojilere 
+sahip göstergeler hizalandığında, sinyalin güvenilirliği 
+güçlenir ve ticarete olan güven artar.
+2.Ayrışmanın Onaylanması:Farklı göstergelerden gelen farklı 
+sinyalleri doğrulama olarak kullanın. Örneğin, bir gösterge 
+fiyat tersine dönmesini önerirken diğeri bir ayrışma paterni 
+gösteriyorsa, bu sinyallerin birleşimi olası bir trend tersine 
+dönmesinin daha güçlü kanıtını sağlayabilir.
+3.Trend Onayı:Trend takip eden göstergeleri birleştirerek 
+hakim piyasa trendini doğrulayın. Hareketli ortalamalar ve 
+trend çizgileri gibi birden fazla gösterge aynı yönü 
+doğruladığında, doğru girişlerin olasılığı artar ve yanlış 
+sinyaller azalır.
+4.Volatilite ve Hacim Analizi:Volatilite ve hacmi ölçen göstergeleri 
+birleştirin, örneğin Bollinger Bantları ve Hacim Ağırlıklı Ortalama 
+Fiyat (VWAP). Bu kombinasyon, fiyat konsolidasyonu veya kopuş 
+dönemlerini belirlemeye yardımcı olur ve yatırımcıların girişlerini 
+ve çıkışlarını daha etkili bir şekilde zamanlamalarını sağlar.
+Göstergelerin birleştirilmesinin dikkatli bir şekilde yapılması gerektiğini, her göstergenin temel 
+prensiplerinin ve bunların işlevlerinin göz önünde bulundurulması gerektiğini unutmayın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 91 ===
+birbirleriyle uyumluluk. Her göstergenin güçlü ve zayıf yönlerini, bir 
+işlem stratejisine entegre etmeden önce anlamak önemlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

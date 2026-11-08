@@ -1,0 +1,145 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 7\Baskı 7\Fibonacci  Geri Çekilme Stratejisi (8 sayfa) - @eseckal.pdf
+PAGES: 8
+
+
+=== PDF PAGE 1 ===
+Kârlı
+Fibonacci
+Geri çekilme
+Ticaret Stratejisi
+kaydeden Chris Padgett Telif Hakkı © FXDayJob.com
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+Kârlı Bir Fibonacci Geri Çekilme Ticaret Stratejisi
+Bu bonus raporu makaleme iltifat etmek için yazılmıştır.Fibonacci Geri Çekilme ve 
+Uzatma Seviyeleri Nasıl Kullanılır? .
+Temel bilgilere sahip değilseniz, lütfen önce ana makaleyi okuyun.
+Buradaki fikir, belirgin destek veya direncin (önceki piyasa yapısı) Fibonacci geri çekilmesinin 
+"tatlı noktası" ile aynı hizaya geldiği ve aynı zamanda RSI'nin aşırı satış veya aşırı alım koşullarını 
+gösterdiği kurulumları beklemektir. Daha sonra girişinizi lazerle hedeflemek için fiyat eylem 
+sinyallerini kullanın.
+Neye ihtiyacın var:
+- 127.2 ve 161.8 seviyelerine sahip bir Fibonacci geri çekilme aracı
+- Stokastik bir gösterge/osilatör (5,3,3)
+- Birkaçının bilgisifiyat hareket sinyalleri
+Stokastik osilatör varsayılan K Periyodu – 5, D Periyodu – 3, Yavaşlama – 3 (5,3,3) olarak 
+ayarlanmalıdır.
+Aşağıdaki örneklerde varsayılan Fibonacci geri çekilme aracını kullanıyorum. Ancak -0,272 
+ve -0,618 seviyelerini ekledim. -127.2 ve -161.8 satırlarını etiketledim.
+Bunu yaparak, araçla yeniden çizim yapmak zorunda kalmadan Fibonacci geri çekilmelerimi ve 
+önemli uzantı seviyelerini elde edebiliyorum.
+Bunu, araca bu seviyeleri ekleyerek yapabilirsiniz. Siz de bunu yapmak istiyorsanız, bir sonraki 
+sayfadaki talimatları uygulamanız yeterlidir.
+FXDayJob.com Sayfa 2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Özel Fibonacci Uzantı Düzeyleri Talimatları:
+Aşama 1:Aracı normalde yaptığınız gibi grafiğinize çizin
+Adım 2:Açılı çizgiye çift tıklayın (çizgi çizin)
+Aşama 3:Açılı çizgiye sağ tıklayın ve “Fibo özellikleri…” seçeneğini seçin.
+4. Adım:“Fibo Düzeyleri” sekmesi altına -0,272 ve -0,618'i ekleyin
+Adım 5:Yeni seviyelerinizi etiketleyin ve “Tamam”a tıklayın
+Not:Eklediğiniz seviyelere “-“ (negatif) sembolünü eklediğinizden emin olun. Açıklama herhangi bir 
+şey olabilir. Örneklerde ben yeni seviyeleri -127.2 ve -161.8 olarak etiketledim ama siz bunları 
+127.2, Take Profit 1 vb. olarak etiketleyebilirsiniz.
+FXDayJob.com Sayfa 3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Boğa Fibonacci Geri Çekilme Ticaret Örneği
+Aşağıdaki resimde başarılı bir yükseliş Fibonacci geri çekilme ticaretini göreceksiniz.
+Satın Alma Giriş Koşulları:
+- Önemli yükseliş fiyat salınımı
+- “Tatlı nokta” içerisinde geri çekilme
+- Güçlü bir yükseliş mum çubuğu formasyonu
+- Stokastik osilatör aşırı satımda
+Resimden de görebileceğiniz gibi, sağlıklı bir yükseliş fiyat salınımının ardından 
+geri çekilme, hala geri çekilmenin "en iyi noktası" olarak kabul edilen 61,8 
+seviyesinin biraz altına düştü.
+FXDayJob.com Sayfa 4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Stokastik gösterge de fiyatın aşırı satışta olduğunu gösteriyor.
+Yukarıdaki örnekte,boğa yutan formasyon giriş sinyali olarak kullanıldı.
+Bu yöntemle işlem yaparken, Fibonacci geri çekilmesi anahtar sinyaldir ve mum 
+çubuğu deseni, girişinizi lazerle hedeflemek için kullanılır.
+Örneğimizde, yutan boğa formasyonunu takip ederek mum çubuğunun açılışından 
+gireceksiniz.
+Zararı Durdurma Stratejisi:
+Zarar durdurma pozisyonunuzu geri çekilmenin en düşük seviyesinin 3-5 pip altına yerleştirin.
+Ticaret lehinize hareket ederse, fiyat önceki en yüksek seviyeye ulaşmadan önce zarar durdurma 
+stratejinizi başa baş noktasına getirin.
+Bunu kullanabilirsinEA'yı Başa Dön zararı durdurmanızı otomatik olarak başa baş noktasına taşımak için.
+Kâr Stratejisi Alın:
+Fiyat önceki en yüksek seviyeye (0 seviyesi) ulaştığında pozisyonunuzun yarısını kapatın.
+Fiyat 127,2 Fibonacci uzatma seviyesine ulaştığında kalan pozisyonunuzun 
+yarısını kapatın.
+Kalan pozisyonunuzu 161.8 Fibonacci uzatma seviyesinde kapatarak işleminizden çıkın.
+FXDayJob.com Sayfa 5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Ayı Fibonacci Geri Çekilme Ticareti Örneği
+Aşağıdaki resimde başarılı (veya yarı başarılı) bir düşüş Fibonacci geri çekilme 
+ticaretini göreceksiniz.
+Satış Giriş Gereksinimleri:
+- Önemli düşüş eğilimi fiyat dalgalanması
+- “Tatlı nokta” içerisinde geri çekilme
+- Güçlü bir düşüş mum çubuğu formasyonu
+- Stokastik osilatör aşırı alımda
+Fiyat, iyi bir giriş sinyali ortaya çıkmadan önce bir kez daha 61,8 Fibonacci geri çekilme seviyesinin 
+hemen üzerine çıktı, ancak bunun hala "etkili nokta" dahilinde olduğu değerlendiriliyor.
+FXDayJob.com Sayfa 6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Bu durumda giriş sinyali olarak kullanılan güçlü düşüş mum çubuğu formasyonu
+aşağı yönlü yutucu desen .
+Stokastik osilatörün fiyatın aşırı alıma işaret ettiğini de görebilirsiniz.
+Bu ticaret kurulumu tüm gereksinimlerimizi karşıladığından, giriş yutma eğilimi 
+gösteren mum çubuğunun açılışında alınmış olacaktı.
+Zararı Durdurma Stratejisi:
+Zarar durdurmanızı geri çekilmenin en yüksek seviyesinin 3-5 pip üzerine yerleştirin.
+Ticaret lehinize hareket ederse, fiyat önceki en düşük seviyeye ulaşmadan önce zarar durdurma 
+stratejinizi başa baş noktasına getirin.
+Kâr Stratejisi Alın:
+Fiyat önceki en düşük seviyeye (0 seviyesi) ulaştığında pozisyonunuzun yarısını kapatın.
+Fiyat 127,2 Fibonacci uzatma seviyesine ulaştığında kalan pozisyonunuzun 
+yarısını kapatın.
+Kalan pozisyonunuzu 161.8 Fibonacci uzatma seviyesinde kapatarak işleminizden çıkın.
+FXDayJob.com Sayfa 7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Notlar:
+Son kurulum, aşağı yönlü stokastik sapma modelinin ek gücüne sahipti. Makalemi okuyun,Bir 
+Profesyonel Gibi Farklılıklarla Nasıl Ticaret Yapılır? Stokastik ıraksaklığın ticareti hakkında daha fazla 
+bilgi edinmek için.
+Son grafiğin sağında göremediğiniz şey, bu özel ticaretin işe yaramadığıdır. Ancak zararı 
+durdurmamızı başabaş noktasına kaydırdığımız ve pozisyonumuzun yarısını önceki düşük 
+seviyede kapattığımız için yine de güzel bir kâr elde edebilirdik (yaklaşık 1,5:1)riske ödül ).
+Çoğu zaman, iyi bir giriş sinyali aldığınızda, stokastik gösterge artık teknik olarak aşırı satılmış veya 
+aşırı satın alınmış değildir. Yakın zamanda aşırı satım (yükseliş kurulumları için) veya aşırı alım 
+(düşüş kurulumları için) olduğu sürece kurulum hala geçerlidir.
+Kaynaklar:
+Ziyaret etmekFXDayJob.com Daha fazla ücretsiz ticaret ipucu ve tekniği için.
+Ücretsiz olanıma göz atFiyat Eylem Kursu Fiyat eylem kalıplarıyla nasıl işlem yapılacağı hakkında daha fazla bilgi 
+edinmek için.
+İncelememin tamamına bakınGünlük Ticaret Forex Canlı Kişisel olarak kullandığım ve yeni veya zorlukla uğraşan tüm 
+yatırımcılara tavsiye ettiğim ticaret sistemi hakkında daha fazla bilgi edinmek için.
+ben de yazdımtam incelemeler Test ettiğim veya ticaretini yaptığım diğer ticaret sistemlerinin yanı 
+sıra yatırımcılar için faydalı olan diğer ürün ve hizmetler.
+Web sitemdeki tüm bilgiler ücretsizdir, dolayısıyla hoşunuza giden bir şey varsa lütfen paylaşın.
+Okuduğunuz ve bültenime kaydolduğunuz için teşekkür ederiz.Seni takdir ediyorum.
+FXDayJob.com Sayfa 8
+www.forexgercekleri.xyz - [Twitter: @eseckal]

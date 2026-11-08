@@ -1,0 +1,467 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 14\Baskı 14\Bollinger Band Trading - Kazançlı Bir Trading Sistemi Nasıl Oluşturulur - Glenn Wilson (28 sayfa) - @eseckal.pdf
+PAGES: 28
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+giriiş
+Bölüm 1 – Zarflar
+Bölüm 2 – Bollinger Bantları Nelerdir? Bölüm 3 – 
+Bollinger Bantlarının Temel Özellikleri Bölüm 4 – 
+Bollinger Bandının Bileşenleri Bölüm 5 – Satın 
+Alma Sinyalleri
+Bölüm 6 – Satış Sinyalleri
+Bölüm 7 – Bollinger Bandı Kopuşları
+Bölüm 8 – Bollinger Bantlarını Kullanarak Trendleri Belirleme 
+Bölüm 9 – Bollinger Bantları ve Göreceli Güç Endeksi
+– Göreceli Güç Endeksi Nedir?
+– Göreceli Güç Endeksi ile Bollinger Bantlarını Bir Ticaret Sistemi Olarak Nasıl 
+Kullanabilirsiniz
+Bölüm 10 – Bollinger Band İşlem Kuralları 
+Bölüm 11 – Son Notlar
+Çözüm
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 3 ===
+giriiş
+Bollinger Bant Ticareti - Bollinger Bantlarını Kullanarak Karlı Bir Ticaret Sistemi 
+Nasıl Kurulur kitabını indirdiğiniz için size çok teşekkür etmek ve sizi tebrik 
+etmek istiyorum.
+Bu kitapta Bollinger Bantlarının gücünü keşfedeceksiniz. Bunların ne olduğunu ve bunları satın alma 
+sinyallerini, satış sinyallerini ve trendleri belirlemek için tam olarak nasıl kullanacağınızı öğreneceksiniz.
+Ayrıca, Bollinger Bantlarını diğer göstergelerle (örneğin RSI) birlikte 
+kullanarak eksiksiz ve karlı bir işlem sistemi kurmayı adım adım 
+öğreneceksiniz.
+Bu kitabı indirdiğiniz için tekrar teşekkür ederim, umarım beğenirsiniz!
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 4 ===
+Yasal
+© Telif Hakkı 2014 Zantrio, LLC. Tüm hakları saklıdır.
+Tüm hakları saklıdır. Bu kitap ABD telif hakkı yasaları kapsamında korunan 
+materyaller içermektedir. Bu materyalin izinsiz yeniden basılması veya 
+kullanılması yasaktır. Bu kitabın hiçbir bölümü, Zantrio, LLC'nin açık yazılı 
+izni olmadan fotokopi, kayıt veya herhangi bir bilgi depolama ve alma 
+sistemi dahil olmak üzere elektronik veya mekanik hiçbir biçimde veya 
+hiçbir yolla çoğaltılamaz veya iletilemez.
+Risk Feragatnamesi
+Herhangi bir finansal piyasada işlem yapmak önemli bir kayıp riski içerir ve 
+tüm yatırımcılar için uygun değildir. Herhangi bir piyasa koşulunda herhangi 
+bir işlem tarzı son derece risklidir ve çok kısa bir süre içinde önemli finansal 
+kayıplara neden olabilir. Herhangi bir işlemde, bir işlemin fiyatını veya 
+likiditesini önemli ölçüde etkileyebilecek değişen politik ve/veya ekonomik 
+koşullar dahil ancak bunlarla sınırlı olmamak üzere önemli bir risk maruziyeti 
+vardır.
+Ticaret, ticaret konusunda eğitimli ve deneyimli olanlar için zorlu ve 
+potansiyel olarak karlı bir fırsattır. Piyasalara katılmaya karar vermeden 
+önce, hedeflerinizi, deneyim seviyenizi ve risk iştahınızı dikkatlice 
+değerlendirmelisiniz. En önemlisi, kaybetmeyi göze alamayacağınız 
+parayı YATIRMAYIN. Nesnellik, deneyim, kayıp riski, kaldıraç, kredibilite, 
+sınırlı düzenleyici koruma, bir ticaretin fiyatını veya likiditesini önemli 
+ölçüde etkileyebilecek piyasa oynaklığı, iletişim hatası vb. sermayenizin 
+ve/veya varlıklarınızın bir kısmını veya tamamını kaybetme riskine 
+sokabilir. Başlangıçtaki fonlarınızın tamamını kaybetmeniz ve 
+pozisyonunuzu korumak için ek fon yatırmanız gerekebilir.
+Sunduğumuz herhangi bir hizmette bahsi geçen finansal araçların alım veya 
+satımını teklif etmiyoruz ve kendimizi kayıtlı bir yatırım danışmanı veya aracı 
+kurum olarak temsil etmiyoruz.
+Sunduğumuz herhangi bir hizmette bahsi geçen veya tartışılan herhangi bir öneriye göre 
+hareket eden üyelerin bir kar elde edeceğini garanti etmiyoruz veya beyan etmiyoruz. 
+Sunduğumuz herhangi bir hizmette yapılan herhangi bir öneriye göre hareket etme kararları 
+tamamen üyenin sorumluluğundadır.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 5 ===
+İşlem yaparken oluşabilecek kayıplardan dolayı üyelere veya diğer taraflara 
+karşı sorumlu veya yükümlü tutulmayacağız. İşlemleriniz ve finansal 
+eylemleriniz tamamen %100 SİZİN kararınız ve sorumluluğunuzdur.
+Sunduğumuz hizmetlerin herhangi birinde belirtilen çeşitli finansal araçlarda pozisyonlar 
+tutabiliriz ve bir pozisyonun ne zaman edinildiğini, tutulan pozisyonun tutarını veya bir 
+pozisyonun ne zaman kapatıldığını açıklama yükümlülüğümüz yoktur.
+Biz bir yatırım danışmanı değiliz ve yatırım tavsiyesi vermiyoruz. 
+Sağlanan tüm içerik yalnızca bilgilendirme amaçlıdır.
+AÇIKÇA İNGİLİZCE: KAYBETMEYE GÜCÜNÜZÜN OLMADIĞI PARA İLE 
+TİCARET YAPMAYIN. ÖZEL VEYA KİŞİSELLEŞTİRİLMİŞ YATIRIM/TİCARET 
+TAVSİYESİ VERMİYORUZ. ALDIĞINIZ HERHANGİ BİR FİNANSAL/
+YATIRIM/TİCARET KARARINDAN TAMAMEN %100 SİZ 
+SORUMLUSUNUZ. ALDIĞINIZ HERHANGİ BİR EYLEMDEN HERHANGİ 
+BİR ŞEKİLDE, ŞEKİLDE VEYA FORMDA SORUMLU DEĞİLİZ. TİCARET/
+YATIRIM YAPARAK, SAHİP OLDUĞUNUZ HER ŞEYİ KAYBETME RİSKİNİ 
+ALTINA ALIRSINIZ. KAZANÇLARINIZI SAKLARSINIZ, KAYIPLARINIZI 
+ÖDERSİNİZ. HİKAYENİN SONU.
+Kazanç Feragatnamesi
+Zantrio, LLC tarafından satılan ürünler ve hizmetler kazanç vaadi veya 
+garantisi olarak yorumlanmamalıdır. Sağlanan tüm içerik yalnızca 
+bilgilendirme amaçlıdır.
+Web sitemizde veya ürünlerimizden herhangi birinde yer alan tüm ileriye dönük 
+ifadeler, bazı kişilerin elde edebileceği kazanç potansiyeli hakkındaki görüşümüzü 
+ifade etmeyi amaçlamaktadır. Web sitemizde veya ürünlerimizde yer alan fikir ve 
+tekniklerden herhangi bir sonuç elde edeceğinize dair hiçbir garanti vermiyoruz.
+Web sitemizde veya ürünlerimizden herhangi birinde herhangi bir vaka çalışması 
+veya referansa yer verdiğimiz ölçüde, bu hikayelerin hiçbirinin hiçbir şekilde 
+"ortalama" veya "tipik" müşteri deneyimini temsil etmediğini varsayabilirsiniz.
+Aslında, herhangi bir ürün veya hizmette olduğu gibi, bazı insanların ürünlerimizi 
+satın alacağını ancak hiçbir zaman kullanmayacağını ve bu nedenle hiçbir sonuç elde 
+edemeyeceğini biliyoruz. Bu nedenle, bu materyalle hiçbir sonuç elde 
+edemeyeceğinizi varsaymalısınız.
+ŞİRKETİN BAŞARINIZDAN VEYA BAŞARISIZLIĞINIZDAN SORUMLU 
+OLMADIĞINI TAMAMEN KABUL EDİYOR VE ANLIYORSUNUZ VE
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 6 ===
+TEMSİLLER
+ÜRÜNLERİMİZİN VEYA HİZMETLERİMİZİN SİZİN İÇİN HERHANGİ BİR 
+BELİRLİ SONUÇ ÜRETECEĞİ HERHANGİ BİR ŞEY. Zantrio, LLC BİR 
+YATIRIM DANIŞMANI DEĞİLDİR VE YATIRIM TAVSİYESİ SUNMAZ. TÜM 
+İÇERİK SADECE BİLGİ AMAÇLI OLARAK SAĞLANMAKTADIR.
+VEYA GARANTİLER İLE İLGİLİ HERHANGİ TÜR
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 7 ===
+Bonus: Ücretsiz Ticaret Araç Setini İndirin
+Karlı bir yatırımcı veya yatırımcı olmanıza yardımcı olacak ücretsiz hile sayfalarına, çalışma 
+kitaplarına ve kılavuzlara anında erişim sağlayın.
+Bu kitabı indirdiğiniz için özel bir teşekkür olarak, aralarında şunların da bulunduğu özel 
+kaynaklardan oluşan bir araç seti hazırladık…
+- Özel e-kitabımız:Ticaret Karlarınızı Nasıl Korursunuz
+- Kanıtlanmış opsiyon ticareti stratejileri için indirilebilir hile sayfaları
+- Karınızı maksimize etmek için demo işlem hesabı kullanmaya yönelik 
+adım adım kılavuzumuz
+- Ayrıca her ay yepyeni e-kitaplar, indirmeler, çalışma kitapları, hile 
+sayfaları, videolar ve daha fazlası
+Ücretsiz Ticaret Araç Setini İndirmek İçin Tıklayın veya 
+ziyaret edin:www.zantrio.com/kindle
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 8 ===
+Bölüm 1 – Zarflar
+Bir zarf, işlem aralığının her iki tarafında iki hareketli ortalamadan 
+oluşan bir şey olarak tanımlanır. Hareketli ortalamalardan biri yukarı, 
+diğeri aşağı kaydırılarak fiyatların genellikle işlem gördüğü bir zarf 
+oluşturulur. Zarflar, bir finansal aracın normal işlem aralığının üst ve 
+alt aralıklarını tanımlar. Genellikle fiyatlar işlem aralığının üst ucuna 
+ulaştığında bir satış sinyalinin, fiyatlar zarfın alt ucuna ulaştığında ise 
+bir satın alma sinyalinin oluşturulduğu söylenir. Menkul kıymet için 
+yüzdelik kaymalar tamamen menkul kıymetin oynak yapısına bağlıdır, 
+menkul kıymet ne kadar oynaksa yüzdelik hareketler o kadar 
+yüksektir.
+Daha önce belirtildiği gibi zarflar, menkul kıymetin hareketlerinin kaydedildiği 
+işlem bantlarıdır ve tüccarlar genellikle bu fiyat hareketlerini tersine dönme 
+kalıplarını anlamak ve MACD, RSI gibi diğer göstergelerle belirli işlemlere girmek 
+veya çıkmak için onay sinyalleri olarak kullanırlar. Teknik analistlerin kullanımına 
+sunulan en kullanışlı teknik araçlardan biri olarak kabul edilirler, ancak yalnızca 
+fiyatın bandın her iki tarafına dokunmasına dayanarak giriş ve çıkış için Kutsal 
+Kase olarak kullanılmamalıdırlar. Tüccarların akılda tutması gereken bir şey, 
+bunların mutlak sinyaller olmadığı, ancak fiyatların yüksek mi yoksa düşük mü 
+olduğuna ilişkin soruların yanıtlanmasına yardımcı olduğu gerçeğidir. Bu bilgiyle 
+donatılmış akıllı bir yatırımcı, fiyat hareketini doğrulamak için göstergeleri 
+kullanarak alım ve satım kararları verebilir.
+Bu kitapta bu zarfların Bollinger bantlarının kullanımıyla kullanımını ve bunların 
+bir yatırımcı için bir ticaret sistemi geliştirmek için nasıl kullanılabileceğini 
+tartışmak istiyoruz. Ayrıca, Bollinger bantlarıyla birlikte bir ticaret sistemi 
+geliştirmek için kullanılabilen RSI gibi diğer göstergelerin kullanımını da 
+tartışacağız.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 9 ===
+Bölüm 2 – Bollinger Bantları Nelerdir?
+Bollinger Bantları, belirli bir piyasa fiyatı için üst ve alt işlem aralığını temsil 
+eden bir çift işlem bandıdır. Belirli bir menkul kıymetin normal koşullar 
+altında bu işlem aralığında işlem göreceği söylenir. Bollinger bantları, her 
+iki tarafta hareketli ortalamalardan oluşur ve tüccarlar tarafından belirleyici 
+giriş ve çıkış sinyalleri için kullanılır. Çizgiler, hareketli ortalamaların her iki 
+tarafında standart sapma kullanılarak çizilir. Menkul kıymetin oynak yapısı, 
+standart sapma değerlerini değiştirir ve dolayısıyla bu bantların her iki 
+taraftaki genişliğini değiştirir. Bu işlem bandı tekniği, John Bollinger 
+tarafından 1980'lerde tanıtıldı.
+Bollinger Bantları, yatırımcılar ve tüccarlar tarafından tüm menkul kıymet sınıfları ve 
+türleri için belirleyici bir ticaret sistemi olarak kullanılabilir. Bollinger Bantları ayrıca 
+herhangi bir zaman diliminde kullanılabilir. Örneğin: tüccarların her zaman bir 
+ticaretin giriş ve çıkış noktalarıyla ilgili bir sorusu vardır. Bollinger bantları, diğer 
+göstergelerin kullanımıyla birlikte belirleyici karar almak için kullanılabilir. Fiyat, RSI 
+gibi bir göstergenin yardımıyla ticaret bandının üst ucuna yaklaştığında, tüccarlar 
+kısa gidebilir ve hisse senedi ticaret bandının alt ucuna yaklaştığında tüccarlar bunu 
+uzun gitmek için bir sinyal olarak kullanabilir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 10 ===
+Bölüm 3 – Bollinger Bantlarının Temel Özellikleri
+Bollinger Bantlarının temel özellikleri aşağıdadır.
+1. Üst bantta başlayan bir hareket genellikle alt banda kadar gitme eğilimindedir 
+ve bunun tersi de geçerlidir. Bu genellikle çoğu menkul kıymet için geçerlidir ve 
+bu nedenle belirli bir ticarete girmek veya çıkmak için yaygın olarak kullanılır.
+2. Hızlı hareketler, Bollinger bantları daraldığında ve fiyatlarda daha az oynaklık 
+olduğunda meydana gelme eğilimindedir. Fiyatların en az oynak olduğu zaman, 
+bir kopuş eğiliminin en yüksek olduğu söylenir.
+3. Kırılma anında mevcut trend genel olarak devam eder.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 11 ===
+Bölüm 4 – Bollinger Bandının Bileşenleri
+Aşağıda Bollinger Bandının bileşenleri yer almaktadır.
+1.Hareketli Ortalama: Varsayılan olarak 20 günlük hareketli ortalama olarak sabitlenir
+2.Üst Bant: Genellikle hareketli ortalamanın kapanış fiyatlarının 2 
+standart sapma üzerinde hesaplanır
+3.Alt Bant: Hareketli ortalamanın 2 standart sapma altında
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 12 ===
+Bölüm 5 – Satın Alma Sinyalleri
+Bollinger bantlarında Buy sinyallerinin nasıl üretildiğini bir örnek 
+yardımıyla anlamaya çalışalım. Aşağıdaki grafik Goldman Sachs 
+Group'un günlük grafiğidir. Aşağıdaki grafikte görülebileceği gibi, 
+hisse senedi Bollinger bandının alt ucuna ulaştığında bir buy sinyali 
+vermiş ve fiyatlar ortada 20 günlük basit hareketli ortalamayı 
+geçtiğinde işlem bandının üst ucuna doğru geri dönmüştür.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 13 ===
+Bölüm 6 – Satış Sinyalleri
+Aşağıdaki Amazon.com, Inc. (NASDAQ:AMZN) grafiğinde, hisse senedi Bollinger 
+bandının üst ucuna ulaştığında ve daha sonra işlem bandının alt ucuna doğru geri 
+çekildiğinde bir satış sinyalinin oluştuğunu açıkça görebiliyoruz. Bu nedenle 
+Bollinger bantları, saatlik/haftalık/günlük olsun, tüm zaman dilimlerinde 
+yatırımcılar tarafından kullanılabilir.
+Bir trend durumunda 20 günlük basit hareketli ortalamanın önemi de 
+görülebilir. Fiyat, geri çekilme durumunda hareketli ortalamanın 
+üzerinde kapanamadığında (geri çekilme, satıştan sonra küçük bir 
+yükseliştir) fiyatların aralığın alt ucuna doğru düştüğünü gördük. Benzer 
+şekilde, fiyatlar bir düzeltmede hareketli ortalamanın altında 
+kapanamamışsa (düzeltme, iyi bir yükselişten sonra küçük bir düşüştür) 
+bir satın alma sinyali üretmiş ve fiyatlar işlem aralığının üst ucuna doğru 
+geri dönmüştür.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 14 ===
+Bölüm 7 – Bollinger Bandı Kopuşları
+Herkesin aklındaki bir sonraki soru Bollinger Bantlarından bir kopuş olursa 
+ne olur. Kopuşlar konsolidasyon süresinden sonra gerçekleşir ve fiyatlar 
+Bollinger bantlarının üstüne veya altına çıkar. Yatırımcıların mevcut 
+trenddeki fiyatların kopuşlarını doğrulamak için destek ve direnç hatları gibi 
+göstergeleri kullanmaları önemlidir. BlackBerry Ltd (NASDAQ:BBRY) için 
+aşağıdaki grafikte fiyatların Bollinger bantlarının üzerine çıktığını açıkça 
+görebiliyoruz.
+Bu gibi zamanlarda, yatırımcıların önceki destek ve direnç bölgelerine 
+bakmaya başlaması ve yalnızca fiyatlar bu direnç/destek bölgelerini kırarsa 
+veya kırarsa yatırımcının hareket yönünde bir işlem yapması zorunludur. 
+Yatırımcıların, önceki destek veya direnç bölgeleri ortadan kaldırılmazsa, 
+işlemin derhal tersine çevrilmesi gerektiği konusunda dikkatli olmaları gerekir 
+çünkü mevcut Bollinger bandı kırılması sahte bir kırılmadır.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 15 ===
+Özetle Bollinger Band Breakout'ları yatırımcılar Bollinger Band Breakout'ları ile işlem 
+yaparken aşağıdaki işaretleri akıllarında tutmalıdır:
+Ne zaman satın alın: Hisse senedi konsolidasyon alanına girdiğinde ve 
+Bollinger bant zarflarını kırdığında. Yatırımcıların girişi onaylamak için 
+destek ve direnç hatları gibi göstergeleri kullanması zorunludur, adil bir fikir 
+edinmek için lütfen BlackBerry Ltd (NASDAQ:BBRY) grafiğini kontrol edin
+Ne zaman satılır: Hisse senedi Bollinger bantlarının altına düştüğünde ve ardından 
+destek çizgilerinin altına düştüğünde. Daha iyi bir fikir edinmek için lütfen 
+yukarıdaki BlackBerry Ltd (NASDAQ:BBRY) grafiğine bakın.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 16 ===
+Bölüm 8 – Bollinger Bantlarını Kullanarak Trendleri Belirleme
+Yukarıdaki CNX NIFTY (NSE:NIFTY) grafiği, fiyatların 20 günlük SMA'nın üzerinde 
+kaldığında ve aşağıdaki destekleri aldığında yükseliş trendinde kaldığını gösteriyor:
+noktalı
+20 günlük SMA'nın oluşturduğu çizgi.
+Fiyatlar düşüş trendindeyken bunun tersi geçerlidir. Fiyatlar 20 günlük 
+SMA'da direnç bulur ve trendi doğrulayarak hareketli ortalamanın 
+altında kalır. Bollinger Bantlarının düşüş trendlerini belirlemede nasıl 
+önemli bir rol oynadığını anlamak için lütfen aşağıdaki Twitter Inc. 
+(NYSE:TWTR) grafiğine bakın.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 17 ===
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 18 ===
+Bölüm 9 – Bollinger Bantları ve Göreceli Güç Endeksi
+Burada Bollinger bantlarının bağıl güç endeksi ile birlikte nasıl 
+kullanılabileceğini inceleyelim.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 19 ===
+Göreceli Güç Endeksi Nedir?
+Göreceli Güç Endeksi veya RSI, fiyatın değiştiği hızı ölçer. Tüm 
+osilatörlerde olduğu gibi RSI sıfır ile yüz arasında salınır. RSI 70'in 
+üzerinde olduğunda aşırı alım olduğu ve RSI 30'un altında olduğunda 
+aşırı satım olduğu söylenir.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 20 ===
+Göreceli Güç Endeksi ile Bollinger Bantlarını Bir Ticaret Sistemi Olarak Nasıl 
+Kullanabilirsiniz
+Fiyatların Bollinger bandının üst ucuna ulaşması ve RSI'nin 70'in üzerine çıkması ve zayıflık 
+belirtileri göstermesi durumunda, yatırımcıların bunu mevcut yükseliş trendinin tersine 
+dönmesi olarak görmeleri ve bu fırsatı kar elde etmek veya menkul kıymette kısa pozisyon 
+açmak için kullanmaları gerektiği söyleniyor.
+Öte yandan, fiyatlar Bollinger bandının alt ucuna yakın olduğunda ve RSI 
+aşırı satım bölgesi olarak kabul edilen 30'a yaklaştığında, yatırımcılar bu 
+fırsatı hisse senedinde uzun pozisyon almak ve kısa pozisyondan kar elde 
+etmek için kullanmalıdır.
+İşlemlere yalnızca Bollinger bantları ve RSI tarafından onaylandıktan 
+sonra girilmelidir. Aksi takdirde, bunlar kesin olmayan olarak kabul 
+edilmeli ve yatırımcılar bu senaryolarda işlemden uzak durmalıdır.
+Yukarıdakileri daha iyi anlamak için lütfen aşağıdaki tabloya bakın. Bu tablo 3 ana 
+bölüme ayrılmıştır ve tüm yatırımcıların kendileri için bir işlem sistemi 
+geliştirmelerine yardımcı olacaktır:
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 21 ===
+Yukarıdakileri bir örnek üzerinden açıklayalım, lütfen aşağıdaki The Coca-
+Cola Company (NYSE:KO) grafiğine bakın:
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 22 ===
+Satış ve Alım Sinyalleri:Yukarıdaki grafikte gördüğünüz gibi, fiyat 
+Bollinger bandının üst ucuna ulaştığında ve bir satış sinyali ürettiğinde, 
+aşırı alım bölgesinden aşağı inmeye başladığından, RSI tarafından 
+benzer bir satış sinyali üretilmiştir. Bu nedenle, Bollinger bantları bir 
+Satış Sinyali üretmek için RSI ile birlikte kullanılmalıdır.
+Benzer şekilde, fiyat Bollinger bandının alt ucuna ulaştığında, tanımı 
+gereği bir satın alma sinyali üretmiştir. Ancak, işleme girmeden önce RSI 
+veya başka bir osilatörden bir onay almamız gerekir. Yukarıdaki örnekte, 
+bir satın alma sinyali yalnızca hem Bollinger bantları hem de RSI bir satın 
+alma sinyali verdikten sonra üretilir. İdeal bir giriş yapmak ve böylece 
+işlemle ilişkili riskleri en aza indirmek için Bollinger bandını bir osilatörle 
+birlikte kullanmak çok önemlidir.
+Noktalarımızı vurgulamak için başka bir grafiğe bakalım. Aşağıda Macy's, Inc. (NYSE:M) 
+için bir grafik bulunmaktadır.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 23 ===
+Yukarıdaki grafik, Bollinger bantları ve RSI'dan gelen sinyallerin 
+birbirleriyle birlikte kullanıldığında en iyi sonucu verdiğini 
+göstermektedir. Ayrıca, mum çubuğu desenleri işlemi daha fazla 
+doğrulamak için kullanılabilir. Örneğin, yukarıdaki grafikte, Bollinger 
+bantları ve RSI'ya göre satış sinyali üretildiğinde, grafikte ayı yutan bir 
+mum da oluşmuştur. Bu, hisse senedinin zayıflığını daha da doğrular ve 
+ideal bir kısa giriş için bir durum oluşturur. Bu nedenle, riskleri azaltmak 
+için Bollinger bantları diğer sinyallerle birlikte kullanılmalıdır. Şimdi 
+Bollinger Bantları ile ilişkili birkaç kuralı görelim.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 24 ===
+Bölüm 10 – Bollinger Band Ticareti Kuralları
+Bollinger Bantlarının kullanımına ilişkin bazı yönergeler aşağıdadır:
+1. Bollinger Bantları sadece yüksek veya düşük seviyelerin göreceli tanımıdır.
+2. Bu göreceli tanımlamalar, göstergeler kullanılarak, belirleyici alım-satım 
+kararlarına girilmesinde kullanılabilir.
+3. Uygun göstergeler türetilebilir ve Bollinger Bantları ile birlikte 
+kullanılmalıdır. Örneğin: MACD, RSI, OBV (hacim göstergesi) 
+Bollinger bantları ile birlikte kullanılmalıdır.
+4. Volatilite, Bollinger Bantlarının genişliğini hesaplamak için zaten 
+kullanılmıştır ve bu nedenle alım ve satım kararlarında ayrı bir gösterge 
+olarak kullanılmamalıdır.
+5. Farklı setlerden farklı göstergeler kullanın. İki momentum göstergesi 
+kullanmayın, gerekirse birini Momentum'dan, diğerini hacimden kullanın.
+6. Bollinger Bantları, farklı Tepe ve Dip tipleri gibi saf fiyat modellerini 
+doğrulamak için kullanılır.
+7. Fiyat genellikle Bollinger bantları içerisinde hareket eder, bu nedenle uzun vadeli 
+genel eğilime bağlı olarak yukarı veya aşağı hareket edebilir.
+8. Bollinger bantlarının dışında gerçekleşen kapanışlar sadece devam sinyali olabilir ve bir 
+kırılma veya geri dönüş işareti olmayabilir, bu nedenle yatırımcıların işlem girişlerini 
+doğrulamak için başka göstergeler kullanmaları gerekir.
+9. Bollinger Bantları genellikle yapıları bakımından belirli bir varsayılan 
+desene sahiptir ve standart sapma belirli bir hisse senedindeki oynaklığa 
+göre kullanılır.
+10. Bollinger bantlarının oluşturulmasında tanımlayıcı olmayan hareketli ortalamalar 
+kullanılmamalıdır.
+11. Bollinger Bantları basit hareketli ortalamalara dayanır. Bu, hareketli 
+ortalamaların mantıksal olarak sabit olduğuna ve tüm zaman dilimlerinde iyi 
+tanımlanmış kalacağına olan inançtan kaynaklanır.
+12. Bollinger Bantlarının oluşturulmasında Standart sapmanın kullanılması 
+nedeniyle sadece istatistiksel Varsayımlar kullanmayın. Bu varsayımlar
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 25 ===
+bantların temel varsayımını karıştırır ve yatırımcıların genel olarak Bollinger bantlarının 
+kullanımında olduğu gibi kararlı bir eylemde bulunmalarına yardımcı olmaz
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 26 ===
+Bölüm 11 – Son Notlar
+Bollinger bantları, yatırımcıların oynaklığa göre ideal bir giriş veya çıkış 
+yapmalarına yardımcı olduğu için ticaret için çok faydalıdır. Ancak, Bollinger 
+bantları yatırımcılar tarafından RSI veya MACD gibi osilatörlerle birlikte 
+kullanılmalıdır. Bu, giriş ve çıkış sinyallerini iyileştirmeye ve kar 
+maksimizasyonuna yardımcı olur. Ayrıca, yatırımcıların dürtüsel işlemler 
+yapmasını önleyeceği için risk yönetiminde de yardımcı olur.
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 27 ===
+Çözüm
+Bu kitabı indirdiğiniz için tekrar teşekkür ederim!
+Artık Bollinger Bantlarını kullanarak karlı bir işlem sistemi kurmak için ihtiyacınız 
+olan bilgiye sahip olmalısınız.
+Bir sonraki adım harekete geçmektir!
+Son olarak, bu kitabı beğendiyseniz, lütfen düşüncelerinizi paylaşmak ve Amazon'da bir 
+inceleme yayınlamak için zaman ayırın. Çok memnun oluruz!
+Teşekkürler ve iyi şanslar!
+Bonus: Ücretsiz Ticaret Araç Setini İndirin
+Karlı bir yatırımcı veya yatırımcı olmanıza yardımcı olacak ücretsiz hile sayfalarına, çalışma 
+kitaplarına ve kılavuzlara anında erişim sağlayın.
+Bu kitabı indirdiğiniz için özel bir teşekkür olarak, aralarında şunların da bulunduğu özel 
+kaynaklardan oluşan bir araç seti hazırladık…
+- Özel e-kitabımız:Ticaret Karlarınızı Nasıl Korursunuz
+- Kanıtlanmış opsiyon ticareti stratejileri için indirilebilir hile sayfaları
+- Karınızı maksimize etmek için demo işlem hesabı kullanmaya yönelik 
+adım adım kılavuzumuz
+- Ayrıca her ay yepyeni e-kitaplar, indirmeler, çalışma kitapları, hile 
+sayfaları, videolar ve daha fazlası
+Ücretsiz Ticaret Araç Setini İndirmek İçin Tıklayın veya 
+ziyaret edin:www.zantrio.com/kindle
+www.forexgercekleri.xyz
+
+
+=== PDF PAGE 28 ===
+İçindekiler
+giriiş
+Yasal
+Risk Feragatnamesi
+Bonus: Ücretsiz Ticaret Araç Seti Bölüm 
+1 – Zarflar'ı indirin
+Bölüm 2 – Bollinger Bantları Nelerdir? Bölüm 3 – 
+Bollinger Bantlarının Temel Özellikleri Bölüm 4 – 
+Bollinger Bandının Bileşenleri Bölüm 5 – Satın 
+Alma Sinyalleri
+Bölüm 6 – Satış Sinyalleri
+Bölüm 7 – Bollinger Bandı Kopuşları
+Bölüm 8 – Bollinger Bantlarını Kullanarak Trendleri Belirleme 
+Bölüm 9 – Bollinger Bantları ve Göreceli Güç Endeksi Bölüm 
+10 – Bollinger Bant Ticareti Kuralları
+Bölüm 11 – Son Notlar 
+Sonuç
+Bonus: Ücretsiz Ticaret Araç Setini İndirin
+www.forexgercekleri.xyz

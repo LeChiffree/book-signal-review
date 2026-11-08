@@ -1,0 +1,1674 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 17\Baskı 17\Trend Traderinin El Kitabı - Güçlü Trend Ticareti - James Muranno (81 sayfa) - @eseckal.pdf
+PAGES: 81
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+giriiş
+I. Trendlerin Temelleri
+Trendler Nelerdir?
+Trend Analiz Teknikleri
+“Genel” Trendle İşlem Yapmanın Önemi
+II. Piyasa Döngüsü
+Piyasa Döngülerinin Dört Aşaması
+a) Birikim Aşaması
+b) İşaretleme Aşaması
+c) Dağıtım Aşaması
+d) İndirim Aşaması
+III. Trendleri Alım Satım İçin Göstergelerin Kullanımı
+Hareketli Ortalamalar
+Momentum Osilatörleri
+Volatilite Göstergeleri
+Hacim Göstergeleri
+Trend Onay Göstergeleri
+Trend Onay Göstergelerinin Amacı Trend Onay 
+Göstergeleri Nasıl Çalışır Girişleri ve Çıkışları Belirlemek 
+İçin Göstergelerin Kullanılması Kazanan Bir Strateji 
+Oluşturmak İçin Göstergelerin Birleştirilmesi
+Göstergeleri Birleştirme Kuralları
+IV. En İyi Trend Takip Göstergeleri (TradingView'da)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Trend Takip Göstergesi #1 
+Trend Takip Göstergesi #2 
+Trend Takip Göstergesi #3 
+Trend Takip Göstergesi #4 
+Trend Takip Göstergesi #5
+V. Gelişmiş Trend Ticaret Stratejileri
+Trend Ticaret Stratejisi #1 
+Trend Ticaret Stratejisi #2 
+Trend Ticaret Stratejisi #3 
+Trend Ticaret Stratejisi #4 
+Trend Ticaret Stratejisi #5 
+Trend Ticaret Stratejisi #6
+Sonuç: Temel Kavramlar ve Stratejilerin Özeti
+Bu Kitapta Ele Alınan Temel Kavramlar ve Stratejiler 
+Başarılı Trend Ticareti İçin Son İpuçları
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+giriiş
+Ticaret dünyasında her zaman bir adım geride olduğunuzu mu hissediyorsunuz? 
+Finansal geleceğinizin kontrolünü ele geçirmeye ve başarılı yatırımcıların seçkin 
+saflarına katılmaya hazır mısınız? Eğer öyleyse, Trend Yatırımcısının El Kitabı başarının 
+kapısını açmanız için anahtardır.
+Bu kapsamlı rehber, trend ticareti dünyasına giden bir yol haritası gibidir ve 
+piyasanın iniş çıkışlarında gezinmeniz için gereken tüm bilgi ve araçları 
+sağlar. İster deneyimli bir yatırımcı olun ister yeni başlıyor olun, bu kitap 
+sizi piyasa trendlerinin temellerinden karınızı maksimize edecek gelişmiş 
+ticaret stratejilerine doğru bir yolculuğa çıkaracaktır.
+Ticaret cephaneliğinizde sizi rekabette öne geçirecek gizli bir silahınız 
+olduğunu hayal edin; tam olarak bu kitapta bunu bulacaksınız.
+İşte sizi bekleyenler:
+Trendlerin kalbine bir yolculuk:Trendlerin nasıl işlediğini, nasıl analiz 
+edileceğini ve bunları kendi avantajınıza nasıl kullanacağınızı keşfedin.
+Piyasa döngüsünde gezinme:Piyasa döngülerinin dört aşamasını ve bunları bir 
+profesyonel gibi nasıl işlem yapacağınızı öğrenin.
+Göstergelerin gücü:Trend gücünü ve trend dönüşlerini gerçekleşmeden 
+önce belirlemek için göstergelerin nasıl kullanılacağını ele alacağız.
+TradingView'daki en iyi trend takip göstergeleri:Bu kitapta, 
+TradingView'de bulunan en iyi trend takip göstergelerinin bir listesi 
+ve her birinin nasıl kullanılacağına dair adım adım talimatlar yer 
+almaktadır.
+İşlemlerinizi bir üst seviyeye taşıyacak gelişmiş stratejiler: Son olarak 
+bugün kolaylıkla kullanabileceğiniz altı adet oldukça karlı gelişmiş 
+trend ticareti stratejisini sizler için derledik.
+Bu kitap, trend ticaretinde sağlam bir temel oluşturmanız ve karlı bir şekilde 
+ticarete başlamanız için ihtiyaç duyduğunuz araç ve teknikleri sağlamanız için 
+tasarlanmıştır. Şimdi başlayalım!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+I. Trendlerin Temelleri
+Tüccarlar olarak hepimiz karlı ticaretin sırrını bilmek isteriz. Gerçek şu 
+ki sihirli bir formül yok, ancak kazananları kaybedenlerden ayıran 
+temel bir kavram var: trend ticareti.
+Trendleri okyanusun dalgaları olarak düşünün. Sörfçülerin dalgalara binmesi gibi, trend 
+yatırımcıları da piyasaların dalgalarına biner. Ancak bir dalgaya binmeden önce, onu nasıl 
+tespit edeceğinizi bilmeniz gerekir. İşte trendlerin temellerini anlamak burada devreye 
+girer.
+Bu bölümde, trend ticaretinin heyecan verici dünyasına dalacağız ve 
+trend ticaretinde başarılı olmak için bilmeniz gereken en önemli 
+kavramları ele alacağız.
+Bu bölümde şunları ele alacağız:
+Trendleri Belirleme:Bir trendin ne olduğunu ve gürültüden ve rastgele 
+fiyat hareketlerinden nasıl farklı olduğunu tanımlayarak başlayacağız. 
+Piyasadaki trendleri tanımlamayı ve yükseliş trendleri, düşüş trendleri ve 
+yatay piyasalar arasında ayrım yapmayı öğreneceksiniz.
+Trend Analiz Teknikleri:Trend çizgileri, destek ve direnç 
+seviyeleri ve piyasa yapısı dahil olmak üzere trendleri belirlemek 
+için farklı teknikler öğreneceksiniz. Bu araçlar trend yönünü ve 
+momentumu belirlemek için olmazsa olmazdır.
+Trend Gücünü Anlamak:Trendler güçlü veya zayıf olabilir ve trend 
+gücünü anlamak, trend tersine dönme potansiyelini belirlemek için 
+kritik öneme sahiptir. Momentumun trend gücünü belirlemek için nasıl 
+kullanılabileceğini ve trend ticaretinde nasıl kullanılabileceğini 
+öğreneceksiniz.
+Uzun Vadeli Trend Yönünde İşlem Yapmak:Trend ticaretinin altın 
+kurallarından biri, uzun vadeli trend yönünde işlem yapmaktır. 
+Bunun neden önemli olduğunu ve farklı zaman dilimlerini kullanarak 
+uzun vadeli trendi nasıl belirleyeceğinizi öğreneceksiniz.
+Trendleri bir yol haritası olarak düşünün - yatırımcıları istedikleri hedefe doğru 
+yönlendirirler. Bir sonraki büyük trendi herkesten önce tespit edebildiğinizi hayal edin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+ve bu trendi en üste kadar takip edebilmek ve önemli bir kar elde 
+edebilmek, işte trend ticaretinin gücü.
+Trendler Nelerdir?
+Bir tüccar olarak, trendlerin ne olduğunu ve bunların nasıl tanımlanacağını 
+anlamak, piyasada başarı için kritik öneme sahiptir. Trendler, piyasanın genel 
+yönünü temsil eder ve yukarı (boğa) veya aşağı (ayı) olabilir. Fiyatın ayrıca yanlara 
+doğru (aralıklı) hareket edebileceğini ve herhangi bir yönde trend 
+oluşturmayabileceğini bilmek önemlidir.
+Boğa (Yukarı) Trendleri
+Boğa trendleri daha yüksek zirveler ve daha yüksek diplerle karakterize 
+edilir. Alıcıların satıcılardan fazla olduğu, piyasada iyimserlik ve güven 
+dönemini temsil eder. Boğa trendinde fiyatlar genellikle artar ve 
+yatırımcılar satın alma fırsatları arar.
+Boğa trendlerinin temel özellikleri:
+Fiyatlar artıyor, daha yüksek zirveler ve daha yüksek dipler oluşuyor.
+Alıcıların satıcılardan fazla olması, piyasada iyimser bir hava oluşmasına yol 
+açıyor.
+Yatırımcılar, fiyatların yükselmeye devam etmesini bekleyerek alım 
+fırsatları arıyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Boğa (yukarı) trendinin örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Ayı (Aşağı) Eğilimleri
+Ayı trendleri, daha düşük zirveler ve daha düşük diplerle karakterize 
+edilir. Piyasada, satıcıların alıcılardan fazla olduğu bir karamsarlık ve 
+korku dönemini temsil ederler. Ayı trendinde, fiyatlar genellikle azalır 
+ve yatırımcılar satış fırsatları ararlar.
+Ayı trendlerinin bazı temel özellikleri şunlardır:
+Fiyatlar düşüyor, daha düşük zirveler ve daha düşük dipler oluşuyor.
+Satıcıların alıcılardan fazla olması piyasada karamsar bir hava oluşmasına 
+yol açıyor.
+Yatırımcılar, fiyatların düşmeye devam etmesini bekleyerek satış 
+fırsatı arıyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Ayı (aşağı yönlü) trendinin örneği
+Yanal/Aralıklı Piyasalar
+Yatay piyasalar, piyasada net bir yön olmadan, bir aralık içinde fiyat 
+hareketi ile karakterize edilir. Yatay bir piyasada, fiyatlar genellikle 
+yatay bir kanal içinde işlem görür ve destek ve direnç seviyeleri üst ve 
+alt sınırları tanımlar.
+Yanal piyasaların bazı temel özellikleri şunlardır:
+Piyasada net bir yön olmaksızın fiyatlar bir aralıkta işlem 
+görüyor.
+Alıcılar ve satıcılar eşit şekilde eşleştiğinden, nötr bir piyasa 
+hissiyatı oluşuyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Yatırımcılar destek seviyeleri yakınlarında alım, direnç seviyeleri 
+yakınlarında ise satış fırsatları arıyor.
+Yanal/aralıklı fiyat hareketinin örneği
+Trend Analiz Teknikleri
+Artık trendlerin ne olduğunu ve piyasalarda nasıl oluştuğunu anladığınıza göre, trend 
+analizi tekniklerine daha derinlemesine dalmanın zamanı geldi. Bu teknikler, trendleri 
+belirlemenize ve işlemlere girmek ve çıkmak için en iyi zamanı belirlemenize yardımcı 
+olacaktır. Bu bölümde, trend çizgileri, piyasa yapısı ve hareketli ortalamalar dahil olmak 
+üzere en popüler trend analizi tekniklerinden bazılarını ele alacağız.
+Trend çizgileri
+Trend çizgileri trend analizinde temel bir araçtır ve her yatırımcının nasıl çizeceğini bilmesi 
+gereken bir araçtır. Trend çizgileri, bir yükseliş trendinde iki veya daha fazla swing dip 
+noktasını veya bir düşüş trendinde iki veya daha fazla swing tepe noktasını birbirine bağlar. 
+Trend çizgileri çizmek, trendin yönünü ve olası destek ve direnç seviyelerini belirlemenize 
+yardımcı olabilir. Bir trend çizgisi kırıldığında, olası bir trend tersine dönüşünü gösterebilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Trend çizgileri nasıl çizilir:
+Piyasanın fiyat hareketleri hakkında daha iyi bir fikir edinmek için mum 
+grafiklerini kullanın.
+Bir trend çizgisi çizmek için en az iki salınım dip veya tepe noktası arayın. Trend 
+çizgisine ne kadar çok dokunulursa o kadar güçlüdür.
+Salınım düşüklerini/yükseklerini birbirine bağlamak için mum fitilini kullanın
+İki salınım yüksekliğinin bir düşüş trendi çizgisi oluşturmasına örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Hareketli Ortalamalar
+Hareketli ortalamalar, belirli bir zaman dilimindeki ortalama fiyatı hesaplayarak fiyat 
+verilerini yumuşatan popüler trend analiz araçlarıdır. Trendleri belirlemeye, piyasa 
+gürültüsünü filtrelemeye ve olası destek ve direnç seviyeleri sağlamaya yardımcı 
+olabilirler.
+Hareketli ortalamaları kullanırken dikkat edilmesi gereken bazı önemli noktalar şunlardır:
+Kısa vadeli hareketli ortalamalar (örneğin 20 günlük hareketli 
+ortalama) fiyat değişikliklerine karşı daha hassastır ve mevcut 
+eğilimin daha doğru bir temsilini sağlar.
+Uzun vadeli hareketli ortalamalar (örneğin 200 günlük hareketli ortalama) 
+fiyat değişikliklerine karşı daha az hassastır ancak genel piyasa yönü 
+hakkında daha iyi bir görünüm sağlar.
+Fiyat hareketli ortalamanın üzerinde olduğunda genellikle 
+yükseliş trendi, altında olduğunda ise düşüş trendi olarak 
+kabul edilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Yükseliş veya düşüş trendini gösteren 200 MA örneği
+Diğer Trend Analiz Teknikleri
+Diğer trend analiz teknikleri şunlardır:
+Baş-omuz, çift tepe ve çift dip gibi fiyat desenleri, potansiyel 
+trend dönüşlerinin belirlenmesine yardımcı olabilir.
+Fibonacci dizisine dayanarak potansiyel destek ve direnç seviyelerinin 
+belirlenmesine yardımcı olabilen Fibonacci geri çekilmeleri.
+Boğa ve ayı engulfing formasyonları gibi mum grafikleri, 
+potansiyel trend dönüşlerini ve devam formasyonlarını 
+belirlemeye yardımcı olabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Bu trend analizi tekniklerinin bir kombinasyonunu kullanarak, piyasa trendi 
+hakkında daha net bir resim elde edebilir ve daha bilinçli işlem kararları 
+alabilirsiniz.
+“Genel” Trendle İşlem Yapmanın Önemi
+Bir trend yatırımcısı olarak, işlem stratejinizin en kritik yönlerinden biri 
+uzun vadeli trend yönünde işlem yapmaktır. Genel trendle işlem 
+yaparak, başarı şansınızı artırır ve gereksiz kayıplardan kaçınırsınız.
+Ticarette, uzun vadeli veya genel trend, belirli bir piyasadaki fiyat 
+hareketinin uzun bir süre boyunca birincil yönünü ifade eder. Piyasanın 
+birkaç ay veya hatta yıllar boyunca hareket ettiği yöndür. Yatırımcıların 
+ticaret stratejilerini geliştirirken öncelikli olarak odaklanmaları gereken 
+trenddir, çünkü kendilerini piyasanın temel momentumuyla uyumlu hale 
+getirmelerine olanak tanır.
+Uzun vadeli trend, haftalık veya aylık grafikler gibi daha uzun zaman dilimi 
+grafiklerini analiz ederek belirlenebilir, çünkü bunlar piyasa yönü hakkında daha 
+geniş bir bakış açısı sağlar.
+Trend yatırımcıları için genel trendle işlem yapmanın bu kadar önemli olmasının birkaç 
+nedeni vardır:
+Yüksek Olasılıklı İşlemler:Genel trend doğrultusunda işlem 
+yapmak, piyasanın trendler doğrultusunda hareket etme eğiliminde 
+olması nedeniyle başarı şansınızı artırır. Trendi takip ederek, esasen 
+piyasanın akışına ayak uydurursunuz, bu da gereksiz kayıplardan 
+kaçınmanıza ve karlılığınızı artırmanıza yardımcı olabilir.
+Daha Düşük Risk:Trende karşı işlem yaptığınızda, esasen 
+piyasayla savaşıyorsunuz ve bu da önemli kayıplara yol 
+açabilir. Trende göre işlem yaparak, piyasanın akışına göre 
+hareket ettiğiniz için riskinizi azaltıyorsunuz. Bu, önemli 
+düşüşlerin olasılığını azaltır ve riskinizi daha etkili bir 
+şekilde yönetmenizi sağlar.
+Daha Yüksek Kar Potansiyeli:Genel trendle işlem yaptığınızda, trendin 
+momentumundan yararlanırsınız; bu da fiyat dalgalanmalarının 
+genellikle trend yönünde daha büyük olacağı anlamına gelir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Genel eğilim. Bu, zaman içinde daha büyük kar potansiyeline ve önemli 
+kazanımlara yol açabilir.
+Genel Eğilimin Belirlenmesi
+Genel eğilimi belirlemek, eğilimle işlem yapmak için önemlidir. İşte 
+tüccarların genel eğilimi belirlemek için kullandıkları bazı etkili teknikler:
+Haftalık ve Aylık Grafiklerin Analizi:
+Tüccarlar genellikle baskın eğilimi belirlemek için haftalık ve aylık grafikler 
+gibi daha yüksek zaman dilimlerini analiz eder. Bunu yaparak, daha kısa 
+zaman dilimlerinin gürültüsünü filtreleyebilir ve birincil piyasa yönüne 
+odaklanabilirler.
+Yükseliş trendi için daha yüksek zirveler ve daha yüksek dipler, düşüş trendi için 
+daha düşük dipler ve daha düşük tepeler gibi tutarlı fiyat kalıplarını arayın.
+200 Haftalık Hareketli Ortalama:
+200 Haftalık Hareketli Ortalama, uzun vadeli trendi belirlemek için 
+yaygın olarak kullanılan bir teknik göstergedir. Fiyat 200 haftalık 
+MA'nın üzerinde olduğunda, genellikle yükseliş trendini gösterirken, 
+fiyat 200 haftalık MA'nın altında olduğunda düşüş trendini gösterir.
+Ek olarak, 200 haftalık MA'nın eğimi, trendin gücü ve yönü 
+hakkında değerli bilgiler sağlayabilir. Yükselen 200 haftalık MA, 
+güçlenen bir yükseliş trendini gösterirken, düşen 200 haftalık MA, 
+güçlenen bir düşüş trendini gösterir.
+Genel Trendle Nasıl İşlem Yapılır
+Artık genel trendle işlem yapmanın önemini anladığınıza göre, bunu etkili bir 
+şekilde nasıl yapacağınızı inceleyelim:
+Geri çekilmeleri bekleyin:Geri çekilmeler, fiyatlar uzun vadeli 
+trende karşı geri çekildiğinde meydana gelir. Herhangi bir trendin 
+doğal bir parçasıdır ve yatırımcılara daha iyi bir fiyattan işlem yapma 
+fırsatı sunar. Genel trendle işlem yaparken, geri çekilmeleri aramak 
+ve bir işleme girmeden önce fiyatın temel destek veya direnç 
+seviyelerine dönmesini beklemek önemlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Karşıt Trend İşlemlerinden Kaçının: Trende karşı işlem 
+yapmak cazip gelebilir, ancak ters trend işlemlerinden 
+kaçınmak önemlidir. Trende karşı işlem yaptığınızda daha fazla 
+risk alırsınız ve başarı şansınızı azaltırsınız. Bunun yerine, uzun 
+vadeli trendin yönüyle uyumlu işlemler bulmaya odaklanın.
+Sonuç olarak, genel trendle işlem yapmak trend ticaretinin kritik bir 
+yönüdür. Piyasanın temel momentumuyla işlem yaparak, başarı şansınızı 
+artırır, riskinizi azaltır ve daha büyük kar potansiyelinin kilidini açarsınız.
+Trend Gücünü Anlamak
+Bir trendin yönünü belirlemek trend ticaretinin sadece ilk adımıdır. Karları 
+maksimize etmek ve kayıpları en aza indirmek için bir trendin gücünü 
+değerlendirmek önemlidir. Güçlü trendler daha güvenilirdir ve tersine dönme 
+olasılıkları daha düşüktür, zayıf trendler ise tersine dönmeye daha yatkındır ve 
+ticareti daha riskli olabilir. Trend gücünü anlamak, bilinçli ticaret kararları almak 
+için esastır.
+Trend Gücünü Değerlendirmek İçin Momentum Kullanımı
+Momentum, trend ticaretinde önemli bir kavramdır çünkü yatırımcıların bir trendin 
+gücünü belirlemesine yardımcı olabilir.
+Güçlü bir trend, fiyatların bir yönde hızla hareket ettiğini gösteren 
+yüksek bir momentum seviyesiyle karakterize edilir.
+Zayıf trend ise momentumun düşük olmasıyla karakterize edilir ve 
+fiyatların yavaş hareket ettiğini veya hiç hareket etmediğini gösterir.
+Momentum göstergeleri, fiyat hareketlerinin hızını ve gücünü ölçer ve 
+yatırımcıların bir trendin arkasındaki temel gücü belirlemesine yardımcı olabilir.
+Trend gücünü analiz etmek için momentum göstergelerini kullanmaya yönelik bazı etkili 
+teknikler şunlardır:
+Ayrımları Arayın:Fiyat ve momentum göstergesi zıt 
+yönlerde hareket ettiğinde sapmalar meydana gelir. Bu,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+trendin güç kaybettiğini ve tersine dönme ihtimalinin bulunduğunu 
+gösteriyor.
+Eğimi göz önünde bulundurun:Bir momentum göstergesinin 
+eğimi, trendin gücünü gösterebilir. Dik bir eğim güçlü bir trendi 
+gösterirken, düz bir eğim zayıf bir trendi gösterir.
+Momentum Göstergelerinde Orta Çizginin Kesişmesi:
+Göreceli Güç Endeksi (RSI) gibi momentum göstergelerini kullanan 
+yatırımcılar, göstergenin merkez çizgisinin üstünden veya altından 
+geçmesine bağlı olarak trendin yönünü de belirleyebilirler.
+RSI'ın 50'nin üzerinde olması yükseliş trendinin, 50'nin altında 
+olması ise düşüş trendinin yaşandığını gösterir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+II. Piyasa Döngüsü
+Bu bölümde, birikim, fiyat artışı, dağıtım ve indirim gibi piyasa döngüsünün 
+farklı aşamalarını tartışarak başlayacağız. Her aşamanın nasıl karakterize 
+edildiğini ve trend ticaretiyle nasıl ilişkili olduğunu inceleyeceğiz. Ayrıca, 
+bilinçli ticaret kararları vermenize yardımcı olmak için her aşamanın 
+başlangıcını ve sonunu nasıl tanıyacağınıza da bakacağız.
+Ek olarak, karlı işlem fırsatlarını belirlemek için trend analiziyle birlikte piyasa 
+döngüsü analizinin nasıl kullanılacağını ele alacağız. Piyasa döngüsünün mevcut 
+aşamasını doğrulamak için trend analizinin nasıl kullanılacağını tartışacağız; bu, bir 
+trendin devam etme veya tersine dönme olasılığını belirlemenize yardımcı olabilir. 
+Ayrıca, hacim ve momentum gibi diğer teknik göstergelerin trend ve piyasa döngüsü 
+analizini doğrulamak için nasıl kullanılacağını inceleyeceğiz.
+Bu bölümde şunları ele alacağız:
+Birikim, fiyat artışı, dağıtım ve indirim gibi piyasa 
+döngüsünün farklı aşamaları.
+Her bir fazın nasıl karakterize edildiği ve trend ticaretiyle nasıl ilişkili 
+olduğu.
+Bilinçli işlem kararları almanıza yardımcı olmak için her aşamanın 
+başlangıcını ve sonunu nasıl tanıyabilirsiniz.
+Karlı işlem fırsatlarını belirlemek için trend analiziyle 
+birlikte piyasa döngüsü analizinin kullanılmasının önemi.
+Piyasa döngüsünün mevcut aşamasını doğrulamak ve bir trendin devam 
+etme veya tersine dönme olasılığını belirlemek için trend analizi nasıl 
+kullanılır?
+Trend ve piyasa döngüsü analizini doğrulamak için hacim ve 
+momentum gibi diğer teknik göstergelerin nasıl kullanılacağı.
+Piyasa döngüsünde işlem yaparken duygusal önyargılardan 
+kaçınmak ve kötü işlem kararlarına yol açmamak için sabırlı ve 
+disiplinli kalmanın önemi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Bu bölümün sonunda, piyasa döngüsü ve trend ticaretiyle ilişkisi 
+hakkında kapsamlı bir anlayışa sahip olacaksınız. Bu bilgi, bu kitabın 
+sonraki bölümlerinde daha gelişmiş trend ticareti stratejilerine 
+geçtiğinizde paha biçilmez olacaktır.
+Piyasa Döngülerinin Dört Aşaması
+Piyasa döngüleri, finansal piyasalarda doğal bir olgudur. Bunlar, zaman 
+içinde tekrar eden büyüme, zirve, daralma ve dip dönemleriyle 
+karakterize edilir. Bu döngüler, yatırımcı duygusunun gelgitleri ve ayrıca 
+ekonomik koşullardaki değişiklikler ve piyasayı etkileyen dış olaylar 
+tarafından yönlendirilir.
+Piyasa döngüleri her zaman öngörülebilir değildir ve uzunluk ve yoğunluk açısından 
+farklılık gösterebilirler. Ancak, bir piyasa döngüsünün temel yapısını anlayarak, 
+yatırımcılar piyasa hareketlerini daha iyi tahmin edebilir ve buna göre işlem 
+stratejilerini ayarlayabilirler.
+Her piyasa döngüsü, her biri farklı piyasa koşulları ve yatırımcı 
+davranışlarıyla karakterize edilen dört ayrı aşamaya ayrılabilir. Bu 
+aşamalar şunlardır:
+a) Birikim Aşaması
+Birikim aşaması, piyasa döngüsünün ilk aşamasıdır. Bu aşama, piyasanın 
+dibe vurduğu ve konsolide olmaya başladığı uzun bir düşüş trendinin 
+ardından gerçekleşir. Bu aşamada, kurumlar ve büyük yatırımcılar gibi 
+akıllı paralar, piyasada nihai bir yükseliş beklentisiyle pozisyon 
+biriktirmeye başlar.
+Biriktirme aşamasında, fiyatlar yanlara doğru veya dar bir aralıkta hareket etme eğilimindedir 
+ve işlem hacimleri genellikle düşüktür. Bu aşamadan habersiz olan yatırımcılar bunu önceki 
+düşüş trendinin devamı olarak yorumlayabilir ve bu da bir sonraki yükseliş trendinin 
+başlangıcını kaçırmalarına yol açabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Biriktirme aşamasının örneği Biriktirme 
+Aşamasının Özellikleri:
+Fiyat belirli bir aralıkta yatay hareket etme eğilimindedir
+Birikim aşamasında hacim düşük olma eğilimindedir ve satın alma 
+hacminde kısa süreli artışlar görülür
+Ters baş ve omuzlar veya çift dip formasyonları gibi yükseliş grafik 
+formasyonları ortaya çıkıyor
+Bu aşamada genellikle boğa engulfing veya çekiç formasyonları 
+gibi daha fazla boğa mum formasyonları vardır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Volatilite çok düşüktür ve fiyatlar uzun bir süre yatay 
+hareket eder
+RSI gibi momentum göstergelerinde boğa sapması görülüyor
+Bir birikim aşaması belirlendikten sonra, yatırımcılar bundan faydalanabilir, düşük 
+fiyatlardan satın alabilir ve yükseliş başladığında iyi karlar elde edebilirler.
+b) İşaretleme Aşaması
+Markup aşaması, piyasa döngüsünün ikinci aşamasıdır ve genellikle yeni 
+bir yükseliş trendinin başlangıcını işaret eder. Bu aşama, akıllı para ve 
+diğer yatırımcıların alım baskısı piyasayı yukarı ittikçe fiyatlarda keskin 
+bir artışla karakterize edilir. Bu aşamada, daha fazla yatırımcı piyasaya 
+girdikçe işlem hacimleri artar ve fiyatlar daha geniş bir aralıkta yükselir.
+Markup evresinin başlangıcını tespit edebilen yatırımcılar, önemli fiyat 
+artışlarından faydalanabilir ve yükseliş trendinden kar elde edebilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Bir işaretleme aşamasının örneği 
+Markup Aşamasının Özellikleri:
+Bir işaretleme aşaması, aşağıdakiler de dahil olmak üzere birkaç temel özellik ile karakterize 
+edilir:
+Yükseliş fiyat eğilimi: Varlığın fiyatı, genellikle keskin fiyat artışlarıyla 
+birlikte yükseliş eğilimindedir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Artan boğa hacmi: Bir işaretleme aşaması başladığında, boğa 
+hacmi istikrarlı bir şekilde artacaktır
+Önemli direnç seviyelerinden çıkış: Bir işaretleme aşamasında fiyat 
+önemli direnç seviyelerini aşacaktır, bu bir işaretleme aşamasını 
+belirlemenin en kolay yollarından biridir
+RSI gibi momentum göstergeleri merkez çizgilerinin 
+(RSI'da 50) üzerinde olacak.
+Artan oynaklık: Varlığın oynaklığı, birikim aşamasında 
+olduğundan çok daha yüksek olacaktır; bunun nedeni, daha 
+fazla piyasa katılımcısının varlığa ilgi duymasıdır.
+Fiyatın 50 veya 200 periyotlu hareketli ortalama gibi önemli hareketli 
+ortalamaların üzerine çıkması
+Bir markup aşamasında işlem yaparken fiyat hızla artacaktır ve bu da sizi hemen harekete geçmek 
+istemenize neden olacaktır; ancak fiyatın yukarıdaki örnekteki gibi bir destek seviyesine geri 
+çekilmesini beklemek her zaman en iyisidir.
+c) Dağıtım Aşaması
+Dağıtım aşaması, piyasa döngüsünün üçüncü aşamasıdır ve yükseliş trendinin 
+sonunu işaret eder. Bu aşamada, akıllı para ve diğer yatırımcılar kar almaya başlar 
+ve satış baskısı artar. Fiyatlar yanlara doğru veya dar bir aralıkta hareket etmeye 
+başlar ve bu da satın alma ilgisinin olmadığını gösterir.
+Birçok yatırımcı bu aşamayı yükseliş trendinin devamı olarak algılar ve bu da onları 
+zarar eden işlemlere tutunmaya veya yanlış yönde yeni işlemlere girmeye yönlendirir. 
+Ancak, dağıtım aşamasının başlangıcını fark edebilen yatırımcılar piyasa dönmeden 
+önce pozisyonlarından çıkabilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Dağıtım aşamasının bir örneği
+Dağıtım aşamasının temel özellikleri:
+Varlığın fiyatı, güçlü bir yükseliş trendi veya konsolidasyon döneminden 
+sonra düzleşmeye başlar.
+Varlığın hacmi azalmaya başlar, bu da piyasada daha az 
+alıcı olduğunu gösterir.
+Piyasa dalgalı bir hal alır, net bir yön yoktur ve oynaklık 
+azalır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Baş ve omuzlar veya çift tepe formasyonları gibi ayı grafik 
+formasyonları ortaya çıkabilir
+Önceki zirvenin üzerine çıkmak için birkaç başarısız girişim 
+olabilir
+Fiyatın önceki zirveden biraz daha yukarı hareket etmesiyle sahte 
+bir kopuş ortaya çıkabilir, ancak hızla satılabilir
+Yukarıdaki örnekte görüldüğü gibi, dağıtım aşaması genellikle RSI'da düşüş eğilimi gösteren bir 
+sapmaya ve düşüş eğilimi gösteren bir grafik örüntüsüne sahip olacaktır.
+d) İndirim Aşaması
+İndirim aşaması, piyasa döngüsünün son aşamasıdır ve yeni bir düşüş 
+trendinin başlangıcını işaret eder. Bu aşama, satış baskısının alım baskısını 
+bastırmasıyla fiyatlarda keskin bir düşüşle karakterize edilir. Bu aşamada, 
+daha fazla yatırımcı piyasaya girdikçe işlem hacimleri artar ve fiyatlar daha 
+geniş bir aralıkta aşağı doğru hareket eder.
+Markdown evresinin başlangıcını tespit edebilen yatırımcılar, önemli fiyat 
+düşüşlerinden faydalanabilir ve düşüş trendinden kar elde edebilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Bir indirim aşamasının örneğiMarkdown aşamasının temel özellikleri:
+Ayı Mum Çubukları Desenleri: Markdown aşamasını 
+doğrulamak için ayı engulfing deseni gibi ayı mum çubuk 
+desenlerini arayın
+Daha Düşük Yüksekler ve Daha Düşük Dipler: Fiyatlar düşmeye devam ettikçe, 
+piyasada daha düşük yüksekler ve daha düşük dipler şeklinde bir kalıp oluşur.
+Destek Seviyelerinin Kırılması: Fiyatın önemli destek seviyelerinin 
+altına düşmesi, bir indirim aşamasının güçlü bir göstergesidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+RSI gibi momentum göstergeleri merkez çizgilerinin 
+(RSI'da 50) altında olacak.
+Bir fiyat indirimi aşamasında, fiyat 20 ve 50 SMA gibi önemli 
+hareketli ortalamaların altında olacaktır
+İndirim aşamasında, yalnızca kısa vadeli işlemlere yönelmek veya nakitte kalmak en 
+iyisidir; çünkü fiyat hızla düşecektir ve muhtemelen daha da düşecektir.
+Önemli çıkarımlar:
+Piyasa döngüleri dört aşamadan oluşur: birikim, fiyat artışı, 
+dağıtım ve indirim.
+Piyasa döngüsünün her aşaması, gelecekteki piyasa hareketlerini tahmin 
+etmek için kullanılabilecek benzersiz özelliklere sahiptir.
+Birikim aşaması, uzun süren bir düşüş trendinin ardından ortaya 
+çıkar ve düşük işlem hacimleri ve yatay veya sıkı fiyat hareketleri 
+ile karakterize edilir.
+Markup aşaması yeni bir yükseliş trendinin başlangıcını işaret eder ve 
+fiyatlarda keskin bir artış ve daha yüksek işlem hacimleriyle karakterize 
+edilir.
+Dağıtım aşaması, yükseliş trendinin sonunu işaret eder ve 
+yatay veya sıkı fiyat hareketleri ve alım ilgisinin eksikliği ile 
+karakterize edilir.
+Markdown aşaması yeni bir düşüş trendinin başlangıcını işaret eder 
+ve fiyatlarda keskin bir düşüş ve daha yüksek işlem hacimleriyle 
+karakterize edilir.
+Piyasa döngülerini anlamak, trend yatırımcıları için çok önemlidir çünkü trendlerin 
+başlangıcını ve sonunu belirlemelerine yardımcı olur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+III. Trendleri Alım Satım İçin Göstergelerin Kullanımı
+Bu bölümde, teknik göstergelerin dünyasına dalacağız ve bunların trend ticareti 
+stratejilerinde nasıl kullanılabileceğini inceleyeceğiz. Farklı gösterge türlerinin 
+trendleri belirlemede, trendleri onaylamada, giriş ve çıkışları zamanlamada ve 
+trend dönüşlerini belirlemede oynayabileceği rollere yakından bakacağız.
+Birçok farklı teknik gösterge türü vardır ve her birinin kendine özgü güçlü ve 
+zayıf yönleri vardır. Bu göstergelerin nasıl çalıştığını ve ne zaman 
+kullanılacağını anlamak, etkili bir ticaret stratejisi geliştirmenin anahtarıdır.
+Teknik göstergelerin dünyasına daldığımızda aklınızda bulundurmanız gereken bazı önemli 
+noktalar şunlardır:
+Teknik göstergeler, fiyat eğilimleri, oynaklık ve momentum dahil olmak 
+üzere piyasanın çeşitli yönlerini analiz etmek için kullanılabilir.
+Teknik göstergeler birçok farklı türdedir ve her birinin 
+kendine özgü güçlü ve zayıf yönleri vardır.
+Farklı göstergeler farklı işlem stillerine veya zaman dilimlerine daha 
+uygun olabilir, bu nedenle ihtiyaçlarınıza uygun olanları seçmeniz 
+önemlidir.
+Göstergeler asla tek başlarına kullanılmamalı, bunun yerine birden fazla faktörü 
+hesaba katan daha geniş bir işlem stratejisinin parçası olarak kullanılmalıdır.
+Her gösterge türünün güçlü ve zayıf yönlerini ve bunların diğer 
+göstergelerle nasıl birlikte kullanılabileceğini anlayarak, daha sağlam ve 
+etkili bir ticaret stratejisi geliştirebilirsiniz.
+Hadi şimdi başlayalım!
+Hareketli Ortalamalar
+Hareketli ortalamalar, zaman içinde fiyat dalgalanmalarını yumuşatmak için 
+kullanılan bir tür teknik göstergedir ve trendleri belirlemeyi kolaylaştırır. Belirli bir 
+zaman diliminde bir varlığın ortalama fiyatını hesaplayarak çalışırlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Hareketli ortalamaların birkaç farklı türü vardır ancak en yaygın olanları 
+şunlardır:
+Basit Hareketli Ortalama (SMA):Bu, hareketli ortalamaların 
+en temel türüdür ve belirli bir zaman dilimindeki kapanış 
+fiyatlarının toplanıp periyot sayısına bölünmesiyle 
+hesaplanır.
+Üstel Hareketli Ortalama (EMA):Bu, daha yakın tarihli fiyat 
+verilerine daha fazla vurgu yapan ağırlıklı bir hareketli 
+ortalamadır. En son fiyatlara daha fazla ağırlık verilir, bu da 
+EMA'nın mevcut fiyat değişikliklerine daha duyarlı olduğu 
+anlamına gelir.
+Ağırlıklı Hareketli Ortalama (WMA):Bu, daha yakın tarihli fiyat 
+verilerine daha fazla ağırlık veren, ancak en son fiyatlara 
+daha fazla vurgu yapan başka bir ağırlıklı hareketli ortalama 
+türüdür.
+Hareketli Ortalama Sinyalleri
+Hareketli ortalamalar, bir işlem stratejisinde çeşitli yararlı sinyaller üretebilen çok 
+yönlü ve yaygın olarak kullanılan bir teknik göstergedir, bunlar şunları içerir:
+i. Trend Tanımlama
+Bir varlığın fiyatı hareketli ortalamasının üzerinde olduğunda, genellikle yükseliş 
+trendinde olduğu düşünülür. Fiyat hareketli ortalamasının altında olduğunda, 
+genellikle düşüş trendinde olduğu düşünülür.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+ii. Destek ve Direnç Seviyeleri
+Hareketli ortalamalar ayrıca olası destek ve direnç seviyelerini belirlemek için de 
+kullanılabilir. Örneğin, bir varlığın fiyatı 50 günlük hareketli ortalamasına düşerse ve 
+tekrar yukarı sıçrarsa, bu 50 günlük hareketli ortalamanın bir destek seviyesi olarak 
+hareket ettiğinin bir işareti olabilir.
+ii. Giriş/Çıkış Sinyalleri
+Hareketli ortalamalar, fiyatlar hareketli ortalamanın üstüne çıktığında/altına indiğinde giriş/
+çıkış sinyalleri üretmek için de kullanılabilir.
+Fiyatın hareketli ortalamanın üzerine çıkması, yükseliş eğiliminin 
+başladığına dair bir işaret olabilir ve satın alma sinyali olabilir.
+Fiyatın hareketli ortalamanın altına inmesi, düşüş eğiliminin 
+başladığına dair bir işaret olabileceği gibi satış sinyali de 
+olabilir.
+İşlem hedeflerinize ve risk toleransınıza bağlı olarak doğru hareketli ortalama türünü 
+ve zaman çerçevesini seçmeniz önemlidir.
+Momentum Osilatörleri
+Momentum osilatörleri, bir varlığın fiyatının belirli bir zaman dilimindeki 
+değişim oranını ölçmek için kullanılan teknik göstergelerdir. Bu göstergeler, 
+yatırımcılara bir trendin gücü ve olası geri dönüş noktaları hakkında içgörüler 
+sağlar.
+Momentum osilatörleri, fiyat hareketlerinin trend momentumundaki değişikliklerden önce gelme 
+eğiliminde olduğu ilkesine göre çalışır. Bu nedenle, momentum osilatörleri yatırımcıların 
+potansiyel trend değişikliklerini belirlemesine ve bir piyasanın aşırı alım mı yoksa aşırı satım mı 
+olduğunu belirlemesine yardımcı olabilir.
+Momentum Osilatör Sinyalleri
+Momentum osilatörleri, yatırımcıların bilinçli işlem kararları alabilmeleri için 
+kullanabilecekleri üç ana sinyal türü üretir:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+i. Aşırı Alım/Aşırı Satış Sinyalleri
+İlk sinyal türü, osilatör belirli seviyelerin üstüne veya altına geçtiğinde üretilir. 
+Bu seviyeler aşırı alım veya aşırı satım seviyeleri olarak bilinir ve her osilatör 
+için farklılık gösterir. Aşırı alım/aşırı satım sinyalleri, fiyatın belirli bir yönde 
+aşırı uzadığını ve geri çekilme veya trend tersine dönmesinin muhtemel 
+olduğunu gösterir.
+Aşırı alımsatın alma baskısının varlığın fiyatını çok hızlı bir şekilde çok yükseğe 
+ittiğini ve fiyatın düşme olasılığının yüksek olduğunu gösterir.
+Aşırı satılmışSatış baskısının varlığın fiyatını çok hızlı bir şekilde çok düşük seviyeye 
+ittiğini ve fiyatın yükselme ihtimalinin yüksek olduğunu gösterir.
+Bu sinyaller, yatırımcıların potansiyel giriş ve çıkış noktalarını belirlemelerine yardımcı olarak, 
+fiyatın kendi lehlerine hareket etme ihtimalinin yüksek olduğu zamanlarda varlık alıp satmalarına 
+olanak tanır.
+ii. Ayrışma Sinyalleri
+İkinci sinyal türü, osilatör fiyat hareketinin ters yönünde hareket 
+ettiğinde üretilir. Bu olguya sapma denir ve olası bir trend tersine 
+dönüşünü gösterebilir.
+Sapma, osilatörün fiyattan farklı bir yönde hareket etmesi durumunda 
+ortaya çıkar, örneğin osilatör düşerken fiyat yükseliyorsa.
+İki tür sapma vardır, bunlar "boğa" ve "ayı" sapması olarak bilinir.
+Boğa sapması-Gösterge daha yüksek dipler yaparken fiyat 
+daha düşük dipler yaptığında ortaya çıkar ve alıcıların 
+piyasayı kontrol altına aldığını gösterir.
+Ayı sapması-Osilatör daha düşük zirveler yaparken fiyat daha 
+yüksek zirveler yaptığında ortaya çıkar ve satıcıların devralmaya 
+hazır olabileceğinin sinyalini verir.
+Ayrışma sinyalleri, yatırımcılara olası bir trend tersine dönüşüne dair erken uyarı 
+işaretleri sağlayabilir ve önemli kayıplar meydana gelmeden önce pozisyonlarından 
+çıkmalarına olanak tanır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+iii. Osilatör Geçiş Sinyalleri
+Üçüncü sinyal türü, osilatördeki iki hat birbirini geçtiğinde üretilir. Bu 
+sinyal türüne osilatör geçiş sinyali denir.
+Bir osilatör geçiş sinyali, daha hızlı hareket eden bir ortalama çizgisinin (sinyal çizgisi 
+olarak bilinir) daha yavaş hareket eden bir ortalama çizgisini (ana çizgi olarak bilinir) 
+kesmesiyle oluşur.
+Yükseliş geçişi, sinyal çizgisinin ana çizginin üzerine çıkmasıyla oluşur ve 
+potansiyel bir yükseliş trendine işaret eder.
+Buna karşılık, düşüş eğilimi, sinyal çizgisinin ana çizginin altına hareket 
+etmesiyle oluşur ve potansiyel bir düşüş trendine işaret eder.
+Yatırımcılar, olası trend dönüşlerini doğrulamak ve giriş ve çıkış noktalarını belirlemek 
+için osilatör geçiş sinyallerini kullanabilirler.
+Volatilite Göstergeleri
+Volatilite göstergeleri, belirli bir zaman diliminde bir varlıktaki fiyat 
+değişkenliğinin derecesini ölçen teknik göstergelerdir. Bu göstergeler, 
+yatırımcılara potansiyel trend değişiklikleri, trend onay sinyalleri ve uygun 
+zarar durdurma seviyeleri hakkında içgörüler sağlar.
+Volatilite göstergeleri, piyasaların belirsizlik zamanlarında daha volatil ve istikrar 
+dönemlerinde daha az volatil olma eğiliminde olduğu ilkesine göre çalışır. Bu 
+nedenle, volatilite göstergeleri, yatırımcıların potansiyel trend değişikliklerini, trend 
+onay sinyallerini belirlemesine ve fiyat değişkenliği düzeyine göre uygun stop-loss 
+seviyelerini ayarlamasına yardımcı olabilir.
+Volatilite Göstergesi Sinyalleri
+Volatilite göstergeleri, yatırımcıların bilinçli yatırım kararları alabilmeleri için 
+kullanabilecekleri üç ana sinyal türü üretir:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+i. Kopuş Sinyalleri
+İlk sinyal türü, fiyat belirli bir fiyat aralığının üstüne çıktığında veya 
+altına düştüğünde üretilir. Bu sinyale kopuş sinyali denir ve varlığın 
+artan oynaklık yaşadığını ve olası bir trend değişiminin veya trend 
+devamının yakın olabileceğini gösterir.
+Volatilite göstergeleri, belirli bir süre boyunca fiyat hareketlerinin aralığını 
+ölçerek ve bunları önceden belirlenmiş bir eşik seviyesiyle karşılaştırarak 
+kopuşları belirleyebilir. Fiyat bu eşik seviyesini aştığında, bir kopuş sinyali 
+üretilir.
+Breakout sinyalleri, yatırımcılar tarafından pozisyonlara girmek veya pozisyonlardan çıkmak ve uygun 
+stop-loss seviyelerini belirlemek için kullanılabilir. Bir direnç seviyesinin üzerine çıkış, potansiyel bir 
+yükseliş trendini işaret edebilirken, bir destek seviyesinin altına çıkış, potansiyel bir düşüş trendini 
+işaret edebilir.
+ii. Ters Dönüş Sinyalleri
+İkinci sinyal türü, fiyat trendin tersi yönde hareket ettiğinde üretilir. 
+Bu sinyale geri dönüş sinyali denir ve varlığın oynaklığının azaldığını 
+ve olası bir trend geri dönüşünün yakın olabileceğini gösterir.
+Volatilite göstergeleri, belirli bir süre boyunca fiyat değişkenliği seviyesini ölçerek 
+ve bunu daha uzun bir süre boyunca ortalama fiyat değişkenliği seviyesiyle 
+karşılaştırarak trend dönüşlerini belirleyebilir. Fiyat değişkenliği seviyesi bu 
+ortalama seviyenin altına düştüğünde, bir geri dönüş sinyali üretilir.
+Ters dönüş sinyalleri, yatırımcılar tarafından pozisyonlardan çıkmak veya pozisyonları azaltmak ya da 
+uygun stop-loss seviyelerini belirlemek için kullanılabilir. Yükseliş trendindeki bir ters dönüş sinyali olası 
+bir düşüş trendini işaret edebilirken, düşüş trendindeki bir ters dönüş sinyali olası bir yükseliş trendini 
+işaret edebilir.
+iii. Trend Onay Sinyalleri
+Üçüncü sinyal türü, fiyat trendle aynı yönde hareket ettiğinde üretilir. 
+Bu sinyal, trend onay sinyali olarak bilinir ve varlığın trend yönünde 
+tutarlı fiyat hareketleri yaşadığını gösterir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Volatilite göstergeleri, belirli bir süre boyunca fiyat değişkenliği seviyesini 
+ölçerek ve bunu daha uzun bir süre boyunca ortalama fiyat değişkenliği 
+seviyesiyle karşılaştırarak eğilimleri doğrulayabilir. Fiyat değişkenliği 
+seviyesi eğilimle tutarlı kaldığında, bir eğilim onay sinyali üretilir.
+Trend onay sinyalleri, yatırımcılar tarafından değişen momentum temelinde pozisyonlara ekleme 
+yapmak veya pozisyonları azaltmak için kullanılabilir.
+Volatilite Göstergelerinin Türleri
+Yatırımcıların bir varlıktaki fiyat değişkenliğinin derecesini ölçmek için kullanabileceği 
+çeşitli türde volatilite göstergeleri bulunmaktadır:
+Bollinger Bantları:
+Bu volatilite göstergesi, belirli bir süre boyunca fiyat 
+hareketlerinin standart sapmasını temsil eden üst ve alt 
+bantlara sahip hareketli bir ortalama kullanır. Bantların 
+genişliği, artan volatilite dönemlerinde genişler ve azalan 
+volatilite dönemlerinde daralır.
+Ortalama Gerçek Aralık (ATR):
+Bu oynaklık göstergesi, potansiyel oynaklığı belirlemek için belirli bir 
+süre boyunca fiyat hareketlerinin ortalama aralığını ölçer. Daha 
+yüksek bir ATR değeri artan oynaklığı gösterirken, daha düşük bir 
+ATR değeri azalan oynaklığı gösterir.
+Parabolik SAR (Durdur ve Geri Al)
+Tüccarlar tarafından kullanılan bir diğer popüler volatilite göstergesi 
+Parabolic SAR'dır (Stop and Reverse). Bu gösterge genellikle takip eden 
+stop-loss emirleri belirlemek ve olası trend dönüşlerini belirlemek için 
+kullanılır. Parabolic SAR, trendin yönüne bağlı olarak varlığın fiyatının 
+üstünde veya altında bir dizi nokta çizer. Noktalar fiyatın üzerinde 
+olduğunda, bu bir düşüş trendinin sinyalidir ve noktalar fiyatın altında 
+olduğunda, bu bir yükseliş trendinin sinyalidir.
+Fiyat trend yönünde hareket ettikçe, noktalar fiyata yaklaşır. 
+Ancak, fiyat trendin tersine hareket ederse, noktalar diğer tarafa 
+döner ve potansiyel bir trend tersine dönüşünü gösterir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Hacim Göstergeleri
+Hacim göstergeleri, işlem hacminin belirli bir zamanda işlem gören hisse 
+senedi veya sözleşme sayısının bir ölçüsü olduğu ilkesine göre çalışır. 
+Daha yüksek işlem hacmi genellikle artan piyasa katılımıyla ilişkilendirilir 
+ve piyasa duyarlılığının bir göstergesidir.
+Bir trend yüksek işlem hacmiyle desteklendiğinde, güçlü bir trend olarak kabul 
+edilir. Tersine, düşük işlem hacmi zayıf piyasa katılımını ve potansiyel bir trend 
+tersine dönmesini gösterebilir.
+Hacim Göstergesi Sinyalleri
+Hacim göstergeleri tarafından üretilen iki ana sinyal türü vardır:
+i. Trend Onay Sinyalleri
+İlk sinyal türü, işlem hacmi trend yönünde arttığında üretilir. Bu sinyal 
+trend onay sinyali olarak bilinir ve varlığın trend yönünde tutarlı fiyat 
+hareketleri yaşadığını gösterir.
+Örneğin:
+Birikim/Dağıtım (A/D): A/D çizgisi fiyatla aynı yönde trend 
+gösteriyorsa, trendin gücünü teyit eder. Tersine, A/D çizgisi 
+fiyat trendinden ayrılıyorsa, potansiyel bir trend tersine 
+dönüşüne işaret edebilir.
+Denge Hacmi (OBV):OBV çizgisi fiyatla aynı yönde trend 
+gösteriyorsa, trendin gücünü doğrular. Tersine, OBV çizgisi 
+fiyat trendinden ayrılıyorsa, potansiyel bir trend tersine 
+dönüşüne işaret edebilir.
+Hacim göstergeleri, belirli bir dönemdeki işlem hacmindeki değişiklikleri ölçerek 
+ve bunları daha uzun bir dönemdeki ortalama işlem hacmiyle karşılaştırarak 
+eğilimleri doğrulayabilir.
+İşlem hacmi trendle uyumlu kaldığında trend onay sinyali üretilir.
+ii. Ayrışma Sinyalleri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+İkinci sinyal türü, işlem hacmi trende göre yön değiştirdiğinde üretilir. 
+Hacim göstergelerindeki sapma, trend yönünde azalan hacim 
+olduğunda meydana gelir, yani daha az piyasa katılımcısı fiyatı 
+destekliyor demektir.
+Hacim göstergelerindeki ayrışma, momentum osilatörlerindeki 
+ayrışmaya benzer; fiyat bir yönde hareket ederken gösterge başka bir 
+yönde hareket ediyor.
+İki tür sapma sinyali şunlardır:
+Boğa hacim sapması: Bu, bir varlığın fiyatı aşağı yönlü bir eğilim 
+gösterirken satın alma hacmi arttığında meydana gelir. Bu, aşağı yönlü 
+bir eğilimde artan bir satın alma baskısı olduğunu ve yukarı yönlü 
+potansiyel bir geri dönüşün muhtemel olduğunu gösterir.
+Ayı hacim sapması: Bu, bir varlığın fiyatı yukarı doğru eğilim 
+gösterirken satış hacmi arttığında meydana gelir. Bu, bir yükseliş 
+trendinde artan bir satış baskısı olduğunu ve potansiyel olarak aşağı 
+yönlü bir geri dönüşün muhtemel olduğunu gösterir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Hacim Göstergelerinin Türleri
+Yatırımcıların bir varlıktaki işlem hacmini ölçmek için kullanabileceği çeşitli hacim 
+göstergesi türleri vardır:
+Denge Hacmi (OBV):
+OBV, belirli bir süre boyunca bir varlığın toplam hacmini hesaplar ve 
+ardından varlığın fiyatının önceki kapanışından daha yüksek veya 
+daha düşük kapanmasına bağlı olarak bu hacme pozitif veya negatif 
+bir değer atar. Daha sonra OBV bir grafiğe çizilir ve yatırımcılara 
+zaman içindeki kümülatif alım veya satım baskısının görsel bir 
+temsilini sağlar.
+Bir varlığın fiyatı yükseliyorsa ve OBV de yükseliyorsa, bu satın alma 
+baskısının arttığını ve trendin devam etme olasılığının yüksek 
+olduğunu gösterir. Tersine, fiyat düşüyorsa ve OBV de düşüyorsa, bu 
+satış baskısının arttığını ve trendin devam etme olasılığının yüksek 
+olduğunu gösterir.
+OBV, trendleri belirlemenin yanı sıra olası fiyat geri dönüşlerini 
+belirlemek için de kullanılabilir. OBV fiyattan ayrışıyorsa, yani fiyatın 
+ters yönünde hareket ediyorsa, bir trend geri dönüşünün meydana 
+gelme olasılığının yüksek olduğunu gösterebilir.
+Para Akış Endeksi (MFI)
+MFI, hem fiyat hem de hacim verileri kullanılarak hesaplanır. Paranın bir 
+varlığa girip girmediğini veya bir varlıktan çıkıp çıkmadığını belirlemek 
+için fiyat ve hacmin bir kombinasyonunu kullanır. Belirli bir süre boyunca 
+fiyatı ve hacmi analiz ederek bir varlığa girip çıkan paranın gücünü ölçer.
+MFI genellikle 0 ile 100 arasında değişen bir çizgi grafiği olarak çizilir. RSI'ye 
+benzer şekilde, MFI'de aşırı alım ve aşırı satım sinyalleri oluşabilir. 80'in 
+üzerindeki bir okuma aşırı alım olarak kabul edilir ve 20'nin altındaki bir 
+okuma aşırı satım olarak kabul edilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Birikim/Dağıtım (A/D):
+A/D göstergesi, menkul kıymetin kapanış fiyatı ile açılış fiyatı 
+arasındaki fark alınarak ve bu farkın menkul kıymetin işlem 
+hacmiyle çarpılmasıyla hesaplanır. Kapanış fiyatı açılış 
+fiyatından yüksekse, sonuç birikim toplamına eklenir. Kapanış 
+fiyatı açılış fiyatından düşükse, sonuç birikim toplamından 
+çıkarılır.
+A/D göstergesi piyasadaki alım veya satım baskısının gücünü 
+belirlemek için kullanılır.
+A/D çizgisi yukarı yönlü bir eğilim gösteriyorsa, piyasada satın alma baskısı olduğunu 
+ve güvenliğin yükselme olasılığının yüksek olduğunu gösterir.
+A/D çizgisi aşağı yönlü eğilim gösteriyorsa, piyasada satış baskısı olduğunu ve 
+menkul kıymetin düşme ihtimalinin yüksek olduğunu gösterir.
+Trend Onay Göstergeleri
+Trend onay göstergeleri, trend yatırımcılarının bir trendin yönünü ve gücünü 
+doğrulamaları için olmazsa olmaz araçlardır. Bu göstergeler, yatırımcıların yanlış 
+sinyalleri filtrelemesine ve başarılı işlem olasılığını artırmasına yardımcı olur.
+Bu bölümde trend doğrulama göstergelerinin amacını açıklayacak, nasıl çalıştıklarını 
+anlatacak ve bunların sağlam bir işlem stratejisinde nasıl kullanılacağını tartışacağız.
+Trend Onay Göstergelerinin Amacı
+Trend onay göstergelerinin birincil amacı, bir trendin yönü ve gücü 
+için ek kanıt sağlamaktır. Yatırımcılara yardımcı olabilirler:
+Yanlış sinyalleri filtreleyin: Piyasalar genellikle gürültülüdür ve yanlış 
+sinyaller erken girişlere veya çıkışlara yol açabilir. Trend onay göstergeleri, 
+yatırımcıların gerçek trend sinyallerini belirlemelerine ve yanlış kırılmalardan 
+veya tersine dönüşlerden kaçınmalarına yardımcı olur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Başarılı işlemlerin olasılığını artırın:Bu göstergeler, bir trendin 
+yönünü ve gücünü doğrulayarak yatırımcıların daha iyi 
+bilgilendirilmiş kararlar almasına yardımcı olabilir ve böylece karlı 
+işlem yapma olasılığını artırabilir.
+Risk yönetimini iyileştirin:Trend onay göstergeleri, yatırımcıların 
+optimum giriş ve çıkış noktalarını belirlemelerine yardımcı olarak, riski 
+daha iyi yönetmelerini ve ödül-risk oranlarını optimize etmelerini sağlar.
+Trend Onay Göstergeleri Nasıl Çalışır?
+Trend doğrulama göstergeleri, bir trendin yönü ve gücü için ek kanıt 
+sağlamak amacıyla momentum, oynaklık veya hareketli ortalamalar gibi 
+fiyat hareketinin çeşitli yönlerini ölçerek çalışır. En popüler trend 
+doğrulama göstergelerinden bazıları şunlardır:
+Hareketli Ortalama Yakınsama Ayrışması (MACD):MACD, 
+fiyatların iki hareketli ortalaması arasındaki ilişkiyi ölçer, tipik 
+olarak 12 dönemlik ve 26 dönemlik EMA. MACD çizgisi sinyal 
+çizgisinin üzerine çıktığında, trendin yükseliş eğiliminde 
+olduğunu, sinyal çizgisinin altına düştüğünde ise düşüş 
+eğiliminde olduğunu gösterir.
+Ortalama Yön Endeksi (ADX):ADX, bir trendin gücünü ölçen bir 
+momentum göstergesidir. Yükselen bir ADX güçlü bir trendi 
+gösterirken, düşen bir ADX zayıf veya konsolide olan bir trendi gösterir. 
+Yatırımcılar genellikle trendin trend ticareti için yeterince güçlü olup 
+olmadığını belirlemek için bir eşik değeri (örneğin, 25) kullanırlar.
+Göreceli Güç Endeksi (RSI):RSI, fiyat hareketlerinin hızını 
+ve değişimini ölçen bir momentum osilatörüdür. Genellikle 
+aşırı alım veya aşırı satım koşullarını belirlemek için 
+kullanılsa da, bir trendin yönünü doğrulamaya da yardımcı 
+olabilir. Örneğin, RSI sürekli olarak 50'nin üzerindeyse, 
+yükseliş trendini, sürekli olarak 50'nin altındaysa düşüş 
+trendini gösterir.
+200 Dönem Hareketli Ortalama:200 periyotlu hareketli ortalama, yaygın 
+olarak kullanılan bir trend doğrulama göstergesidir. Şu şekilde hesaplanır:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Bir varlığın son 200 periyottaki kapanış fiyatlarının ortalaması. 
+Fiyat 200 periyotluk hareketli ortalamanın üzerinde olduğunda, bu 
+yükseliş eğilimini gösterirken, fiyat hareketli ortalamanın altında 
+olduğunda, düşüş eğilimini gösterir.
+Ek olarak, hareketli ortalamanın eğimi de trendin gücü 
+hakkında bilgi sağlayabilir. Dik bir eğim güçlü bir trendi 
+gösterirken, düz veya yatay bir eğim zayıf veya konsolide olan 
+bir trendi gösterir.
+Girişleri ve Çıkışları Belirlemek İçin Göstergelerin Kullanılması
+Göstergeler, bir işlem stratejisinde giriş ve çıkış noktalarını belirlemede hayati bir rol 
+oynar. Bu bölüm, aşırı alım/aşırı satım koşulları dahil olmak üzere giriş ve çıkışları 
+belirlemek için göstergeleri kullanmanın çeşitli yollarını ele alacak ve göstergelerin geri 
+çekilmeleri belirlemek ve geri çekilmelerde trendlere girmek için nasıl kullanılabileceğini 
+açıklayacaktır.
+Giriş ve Çıkışlar İçin Aşırı Alım/Aşırı Satış Koşulları
+Aşırı alım ve aşırı satım koşulları, bir varlığın fiyatının aşırı bir seviyeye 
+ulaştığında oluşan ve potansiyel bir geri dönüş veya düzeltmeyi ima eden 
+piyasa durumlarıdır. Bu koşullar genellikle piyasa güçlü alım veya satım 
+baskısı gösterdiğinde ortaya çıkar ve fiyatı uzun vadede sürdürülemez 
+seviyelere iter. Yatırımcılar, aşırı alım ve aşırı satım koşullarını belirlemek 
+için çeşitli teknik göstergeler kullanır ve bu da potansiyel giriş ve çıkış 
+noktaları hakkında bilinçli kararlar almalarını sağlar.
+Aşırı alım koşulları, bir varlığın fiyatının nispeten kısa bir süre içinde güçlü alım 
+baskısı tarafından yönlendirilen önemli ölçüde arttığında ortaya çıkar. Bu 
+durumda, varlık aşırı değerli kabul edilir ve bir fiyat düzeltmesi veya tersine 
+dönmesi beklenir. Tersine, aşırı satım koşulları, bir varlığın fiyatının güçlü satış 
+baskısı tarafından yönlendirilen önemli ölçüde düştüğünde ortaya çıkar. Bu 
+durumda, varlık düşük değerli kabul edilir ve bir fiyat toparlanması veya tersine 
+dönmesi beklenir.
+Tüccarlar, aşırı alım ve aşırı satım koşullarını ters sinyaller olarak kullanır ve piyasanın 
+sonunda düzeleceğini ve daha sürdürülebilir fiyat seviyelerine döneceğini öngörür. 
+Bu koşullar, tüccarların potansiyelleri belirlemesine yardımcı olabilir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Piyasadaki dönüm noktaları, yatırımcıların fiyatların kendi lehlerine döneceği 
+beklentisiyle işlemlere girmelerine olanak tanır.
+Aşırı Alım/Aşırı Satış Koşullarını Belirlemeye Yönelik Göstergeler
+Yatırımcıların aşırı alım ve aşırı satım koşullarını belirlemek için kullanabileceği 
+birkaç teknik gösterge vardır. En popüler olanlardan bazıları şunlardır:
+Göreceli Güç Endeksi (RSI):
+RSI, fiyat hareketlerinin hızını ve değişimini ölçen bir momentum 
+osilatörüdür. Yatırımcılar genellikle aşırı alım (RSI > 70) ve aşırı satım 
+(RSI < 30) koşullarını belirlemek için RSI'yi kullanır ve potansiyel giriş 
+ve çıkış noktalarını işaret eder.
+Giriş: Yatırımcılar, RSI 30'un altına düştüğünde (aşırı satım) 
+ve tekrar üstüne çıktığında, potansiyel bir tersine dönüşe 
+işaret eden uzun pozisyona girebilirler. Tersine, RSI 70'in 
+üzerine çıktığında (aşırı alım) ve tekrar altına düştüğünde 
+kısa pozisyona girebilirler.
+Çıkış: Yatırımcılar, RSI 70'in üzerine çıktığında (aşırı alım) ve 
+tekrar altına düştüğünde uzun pozisyondan çıkabilirler, bu da 
+olası bir tersine dönüşün sinyalidir. Benzer şekilde, RSI 30'un 
+altına düştüğünde (aşırı satım) ve tekrar üzerine çıktığında kısa 
+pozisyondan çıkabilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Stokastik Osilatör:
+Stokastik osilatör, bir menkul kıymetin kapanış fiyatını belirli bir 
+dönemdeki fiyat aralığıyla karşılaştıran başka bir momentum 
+göstergesidir. RSI gibi, aşırı alım ve aşırı satım koşullarını belirlemek 
+için kullanılabilir.
+Giriş:Yatırımcılar, %K çizgisi aşırı satım bölgesinde (20'nin 
+altında) %D çizgisinin üzerine çıktığında uzun pozisyona 
+girebilir ve aşırı alım bölgesinde (80'in üstünde) kısa 
+pozisyonlar için tam tersi geçerlidir.
+Çıkış: Yatırımcılar, %K çizgisi aşırı alım bölgesinde (80'in üstünde) 
+%D çizgisinin altına geçtiğinde uzun pozisyondan çıkabilir ve aşırı 
+satım bölgesinde (20'nin altında) kısa pozisyonlar için de tam tersi 
+geçerlidir.
+Bollinger Bantları:
+Bollinger Bantları, hareketli bir ortalamadan (genellikle 20 dönemlik 
+bir SMA) ve hareketli ortalamanın üstünde ve altında iki standart 
+sapmadan oluşur. Bantlar, fiyat oynaklığına bağlı olarak genişler ve 
+daralır. Fiyat üst Bollinger Bandına dokunduğunda, aşırı alım 
+koşullarını gösterirken, alt Bollinger Bandına dokunduğunda aşırı 
+satım koşullarını gösterir.
+Giriş:Tüccarlar, fiyat alt Bollinger Band'a dokunduğunda 
+ve aşırı satım durumunu gösteren toparlanmaya 
+başladığında uzun pozisyona girebilirler. Tersine, fiyat 
+üst Bollinger Band'a dokunduğunda ve aşırı alım 
+durumunu gösteren tersine dönmeye başladığında kısa 
+pozisyona girebilirler.
+Çıkış:Tüccarlar, fiyat üst Bollinger Band'a 
+dokunduğunda uzun pozisyondan çıkabilirler, bu da aşırı 
+alım koşullarını gösterir. Benzer şekilde, fiyat alt 
+Bollinger Band'a dokunduğunda kısa pozisyondan 
+çıkabilirler, bu da aşırı satım koşullarını gösterir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Aşırı alım ve aşırı satım koşullarının fiyat geri dönüşünü garanti 
+etmediğini, güçlü trendlerin bu aşırı koşulları uzun süreler boyunca 
+sürdürebileceğini belirtmek önemlidir. Bu nedenle, yatırımcılar 
+analizlerini doğrulamak ve başarılı işlem olasılığını artırmak için destek 
+ve direnç seviyeleri, trend çizgileri ve grafik desenleri gibi ek teknik 
+araçlar kullanmalıdır.
+Trendlere Girmek İçin Aşırı Alım/Aşırı Satış Sinyallerini Kullanma
+Bir trend ticareti stratejisinde, aşırı alım ve aşırı satım sinyalleri, hakim bir trend içindeki 
+geri çekilmeleri belirlemek ve potansiyel giriş noktalarından yararlanmak için 
+kullanılabilir.
+Geri çekilmeler, genel trend yönündeki geçici tersine dönüşlerdir ve 
+yatırımcılara trendin devam edeceği beklentisiyle piyasaya girme 
+fırsatları sunar. Yatırımcılar, aşırı alım ve aşırı satım sinyallerini diğer 
+teknik araçlarla birlikte kullanarak başarılı işlem olasılığını artırabilir ve 
+risklerini daha etkili bir şekilde yönetebilirler.
+Bir trend ticaret stratejisi için geri çekilmelerde trendlere girmek amacıyla aşırı alım ve aşırı satım 
+sinyallerinin nasıl kullanılabileceği şöyledir:
+1.Hakim eğilimi belirleyin:Geri çekilmelerde trendlere girmek için aşırı alım 
+ve aşırı satım sinyallerini kullanmadan önce, yatırımcıların öncelikle hakim 
+trendi belirlemeleri gerekir.
+Bu, trend çizgileri, hareketli ortalamalar veya diğer trend takip eden 
+göstergeler kullanılarak yapılabilir. Trendin yönü belirlendikten 
+sonra, yatırımcılar trend yönünde piyasaya girme fırsatları bulmaya 
+odaklanabilirler.
+2.Geri çekilmeyi bekleyin:Trendi belirledikten sonra, yatırımcılar genel 
+trend yönünde geçici bir tersine dönüşü temsil eden fiyatta bir geri 
+çekilme beklemelidir. Geri çekilmeler genellikle piyasa güçlü bir 
+hareketten sonra nefes aldığında meydana gelir ve yatırımcıların 
+piyasaya daha uygun bir fiyattan girmesine olanak tanır.
+3.Girişleri zamanlamak için aşırı alım/aşırı satım sinyallerini kullanın: Bir geri 
+çekilme meydana geldiğinde, yatırımcılar RSI, stokastik osilatör veya benzeri 
+göstergelerden aşırı alım ve aşırı satım sinyallerini kullanabilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Williams %R potansiyel giriş noktalarını belirlemek için. Yükseliş 
+trendinde, yatırımcılar aşırı satım koşullarını aramalı, bu da geri 
+çekilmenin ivme kaybedebileceğini ve piyasanın yükseliş yörüngesine 
+devam edebileceğini gösterir.
+Buna karşılık, düşüş trendinde yatırımcılar, geri çekilmenin sona 
+erebileceğini ve piyasanın aşağı yönlü hareketine devam 
+edebileceğini gösteren aşırı alım koşullarını aramalıdır.
+Örnek (yükseliş trendi):Yükseliş trendinde, yatırımcılar geri 
+çekilme sırasında RSI'nin 30'un altına düşmesini (aşırı satım) ve 
+ardından 30'un üzerine çıkmasını bekleyebilirler, bu da potansiyel 
+bir tersine dönüş ve yükseliş trendinin yeniden başlamasını işaret 
+eder. Bu, trendin devamını öngörerek uzun pozisyona girme fırsatı 
+sağlayabilir.
+Örnek (düşüş trendi):Bir düşüş trendinde, yatırımcılar 
+geri çekilme sırasında RSI'nin 70'in (aşırı alım) üzerine 
+çıkmasını ve ardından 70'in altına düşmesini 
+bekleyebilirler, bu da düşüş trendinin olası bir tersine 
+dönmesini ve devam etmesini gösterir. Bu, trendin 
+devamını öngörerek kısa pozisyona girme fırsatı sunabilir.
+4.Giriş sinyallerini ek teknik araçlarla onaylayın:Başarılı işlemlerin 
+olasılığını artırmak için, yatırımcılar aşırı alım ve aşırı satım 
+sinyallerini doğrulamak için ek teknik araçlar kullanmalıdır. 
+Bunlara destek ve direnç seviyeleri, trend çizgileri, grafik desenleri 
+veya diğer teknik göstergeler dahil olabilir.
+Yatırımcılar, birden fazla aracı bir araya getirerek yanlış sinyalleri filtreleyebilir ve 
+giriş ve çıkış noktalarının güvenilirliğini artırabilirler.
+Geri çekilmelerde trendlere girmek için aşırı alım ve aşırı satım sinyallerini 
+kullanarak, yatırımcılar mevcut trend içindeki geçici tersine dönüşlerden 
+faydalanabilir, böylece başarı şanslarını artırabilir ve trend ticaret stratejilerindeki 
+riski en aza indirebilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Kazanan Bir Strateji Oluşturmak İçin Göstergeleri Birleştirme
+Daha sağlam bir işlem stratejisi oluşturmak için, yatırımcılar trend takip, 
+momentum ve volatilite göstergeleri gibi çeşitli gösterge türlerini birleştirebilir. 
+İşte farklı göstergelerin nasıl birleştirilebileceğine dair bazı örnekler:
+1.Trend Takip Göstergeleri + Momentum Göstergeleri:
+Hareketli ortalamalar gibi trend takip eden göstergeler, yatırımcıların 
+bir trendin yönünü belirlemesine yardımcı olurken, RSI veya MACD gibi 
+momentum göstergeleri, trendin gücü hakkında bilgi sağlayabilir.
+Bu iki tür göstergenin birleştirilmesi, yatırımcıların bir trendin yönünü ve gücünü 
+teyit etmelerine ve optimum giriş ve çıkış noktalarını belirlemelerine yardımcı 
+olabilir.
+Örnek: Bir tüccar, trend yönünü belirlemek için 50 
+dönemlik basit hareketli ortalamayı (SMA) ve trendin 
+gücünü doğrulamak için MACD'yi kullanabilir. Fiyat 50 
+dönemlik SMA'nın üzerindeyse ve MACD çizgisi sinyal 
+çizgisinin üstünden geçerse, tüccar uzun pozisyona 
+girmeyi düşünebilir. Tersine, fiyat 50 dönemlik 
+SMA'nın altındaysa ve MACD çizgisi sinyal çizgisinin 
+altından geçerse, tüccar kısa pozisyona girmeyi 
+düşünebilir.
+2.Trend Takip Göstergeleri + Volatilite Göstergeleri:
+Bollinger Bantları veya Ortalama Gerçek Aralık (ATR) gibi volatilite göstergeleri, 
+yatırımcıların piyasanın volatilitesini değerlendirmesine ve olası kopuşları veya geri 
+dönüşleri belirlemesine yardımcı olabilir. Trend takip eden göstergeleri volatilite 
+göstergeleriyle birleştirmek, yatırımcıların trend yönünü onaylamasına ve yüksek 
+olasılıklı işlem kurulumlarını belirlemesine yardımcı olabilir.
+Örnek: Bir tüccar, trend yönünü belirlemek için 20 
+dönemlik bir üstel hareketli ortalama (EMA) ve oynaklığı 
+değerlendirmek için Bollinger Bantları kullanabilir. Fiyat 
+20 dönemlik EMA'nın üzerindeyse ve üst
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Bollinger Band, yatırımcı boğa trendinin devam 
+edeceğini öngörerek uzun pozisyona girmeyi 
+düşünebilir. Tersine, fiyat 20 dönemlik EMA'nın 
+altındaysa ve alt Bollinger Band'ın altına düşerse, 
+yatırımcı ayı trendinin devam edeceğini öngörerek 
+kısa pozisyona girmeyi düşünebilir.
+3.Birden fazla zaman dilimi kullanma:
+Birden fazla zaman dilimini analiz ederek, yatırımcılar piyasaya dair daha kapsamlı 
+bir görüş elde edebilir ve yüksek olasılıklı işlem kurulumlarını belirleyebilir. Farklı 
+zaman dilimlerinde göstergeleri birleştirmek, yatırımcıların genel trend yönünü teyit 
+etmelerine ve optimum giriş ve çıkış noktalarını belirlemelerine yardımcı olabilir.
+Örnek:Bir tüccar, uzun vadeli trend yönünü belirlemek için 
+günlük grafikte 100 dönemlik bir EMA ve günlük grafikte 50 
+dönemlik bir EMA kullanabilir.
+Göstergeleri Birleştirme Kuralları
+Trend ticareti stratejisinde göstergeleri birleştirirken yatırımcıların aşağıdaki kuralları göz 
+önünde bulundurmaları gerekir:
+Stratejiyi aşırı karmaşıklaştırmaktan kaçının: Göstergeleri 
+birleştirmek piyasaya dair daha kapsamlı bir görünüm sağlayabilir; 
+ancak yatırımcılar, çok fazla göstergeyle stratejilerini aşırı karmaşık 
+hale getirmemeye dikkat etmelidir; çünkü bu, analiz felcine ve 
+kararsızlığa yol açabilir.
+Tamamlayıcı göstergeleri kullanın: Yatırımcılar, trend 
+yönü, gücü ve oynaklığı gibi birbirini tamamlayan ve 
+piyasaya farklı bakış açıları sağlayan göstergeleri 
+seçmelidir.
+Stratejiyi test edin ve optimize edin: Tüccarlar, performansını 
+değerlendirmek ve olası zayıflıkları belirlemek için stratejilerini geçmiş 
+veriler kullanarak geriye dönük test etmelidir. Daha sonra, geriye dönük 
+testin sonuçlarına göre stratejiyi iyileştirebilir ve optimize edebilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+çeşitli piyasa koşullarında etkinliğini sürdürmesini 
+sağlamak.
+Trend takip, momentum ve oynaklık göstergeleri gibi farklı gösterge 
+türlerini birleştirerek ve fiyat hareketi analizini ve birden fazla zaman 
+dilimini kullanarak, yatırımcılar trendlerin gücünden yararlanan daha 
+sağlam bir ticaret stratejisi oluşturabilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+IV. En İyi Trend Takip Göstergeleri 
+(TradingView'da)
+TradingView, geniş bir yelpazede teknik göstergeler sunan popüler bir grafik 
+platformudur ve bu da onu trend ticareti stratejileri uygulamak isteyen 
+yatırımcılar için ideal bir araç haline getirir. Bu bölümde, TradingView'de bulunan 
+en iyi trend ticareti göstergelerinden bazılarını inceleyeceğiz.
+Bunlar, diğer yatırımcıların TradingView'da oluşturup kodladığı ücretsiz 
+göstergelerdir. TradingView'da diğer üyelerin oluşturduğu binlerce 
+gösterge vardır, ancak bunlar benim bulduğum ve şu anda işlem 
+stratejilerimde kullandığım en iyi trend takip göstergeleridir.
+Önemli -Bu göstergeler tek başlarına değil, tam bir işlem stratejisinde 
+kullanılmalıdır. Ayrıca, gerçek parayla kullanmadan önce bu sinyalleri geriye 
+dönük test etmeli ve kağıt ticareti yapmalısınız!
+Bu göstergelere TradingView üzerinden erişmek için:
+Bir TradingView hesabı oluşturun (TradingView.com), eğer ödeme yapmak istemiyorsanız 
+ücretsiz bir hesap için kaydolabilirsiniz.
+TradingView'da bir grafik açın ve üst araç çubuğunda bulunan "göstergeler" 
+simgesine tıklayın.
+Daha sonra arama kutusuna aradığınız göstergeyi yazmanız yeterli.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+TradingView göstergesi arama kutusu
+Artık bu göstergelerin nasıl bulunacağını öğrendiğinize göre, başlayalım!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Trend Takip Göstergesi #1: Optimize Edilmiş Trend 
+Takipçisi
+İle: Kıvanç Özbilgiç
+Göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna "Optimized 
+Trend Tracker" yazın (KivancOzbilgic tarafından) Önerilen Gösterge Ayarları: OTT 
+Dönemi – 14
+OTT Yüzdesi – 3.6 Hareketli 
+Ortalama Türü – VAR
+Genel Bakış:
+Optimize Edilmiş Trend Takipçisi (OTT), yatırımcıların bir varlığın trendini belirlemesine 
+yardımcı olmak için tasarlanmıştır ve bunu hareketli ortalamalar ve ATR hesaplamalarının bir 
+kombinasyonunu kullanarak yapar.
+OTT göstergesi, grafikte çizilen iki çizgiden oluşur. Bu, "destek" çizgisi 
+adı verilen daha hızlı bir çizgiyi içerir; ikinci çizgi OTT'dir ve daha yavaş 
+çizgidir.
+Destek çizgisi OTT'nin üzerine çıktığında, bu bir yükseliş sinyali olarak kabul 
+edilir. Tersine, destek çizgisi OTT'nin altına düştüğünde, bu bir düşüş sinyali 
+olarak kabul edilir.
+Not:Bu indikatör yatay piyasalarda yanlış sinyaller üretecektir, yatay piyasalardan 
+kaçınmak için bu indikatörü bir filtreyle (ADX gibi) kullanın.
+Alım Sinyali:
+Aşağıdakilerden biri -
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Yeşil bir "Satın Al" etiketi görünür
+Destek (hızlı) çizgisi OTT (yavaş) çizgisinin üstünden geçiyor Fiyat 
+OTT çizgisinin üstünde kapanıyor
+Satış Sinyali:
+Aşağıdakilerden biri -
+Kırmızı bir "Sat" etiketi görünür
+Destek (hızlı) çizgisi OTT (yavaş) çizgisinin altına geçiyor Fiyat 
+OTT çizgisinin altına kapanıyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+OTT göstergesini kullanarak alım ve satım sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Trend Takip Göstergesi #2: HalfTrend Göstergesi
+İle: hiç alma
+Göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna "halftrend" yazın 
+(everget tarafından) Genel Bakış:
+Yarı trend göstergesi, piyasadaki kısa vadeli zirveleri ve dipleri doğru bir şekilde tahmin 
+etmek için harika bir araçtır.
+Alım veya satım sinyali oluştuğunda fiyatın altında veya üstünde bir ok belirir, bu da 
+kullanımı ve anlaşılmasını oldukça kolaylaştırır.
+Bu gösterge, yüksek oynaklığın ve büyük fiyat dalgalanmalarının olduğu piyasalarda en iyi 
+şekilde çalışacaktır.
+Volatilite çok düşük olduğunda bu gösterge daha az güvenilir olacak ve daha fazla yanlış 
+sinyal üretecektir.
+Not -Düşük volatiliteli piyasa koşullarında aşağıdaki ayarlarla daha iyi 
+sinyaller alabilirsiniz: Genlik 1
+Kanal Sapması 1
+Gösterge ipucu –Bu göstergenin daha kolay görülebilmesi için ayarlarda ATR 
+yüksek/düşük kutularını kapatın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Alım Sinyali:
+Mavi ok bir mumun altında 
+görünür Çizgi mavi renge dönüşür
+Satış Sinyali:
+Mumun üstünde kırmızı ok belirir. 
+Çizgi kırmızıya döner.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+AHalftrend göstergesini kullanarak alım/satım sinyallerinin ekran görüntüsü
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Trend Takip Göstergesi #3: UT Bot Uyarıları
+İle: Miktar Göçebesi
+Bu göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna "UT Bot Uyarıları" 
+yazın (QuantNomad tarafından)Genel Bakış:
+Bu, süpertrend göstergesine benzer bir ATR tabanlı trend takip 
+göstergesidir. Mumlar trende bağlı olarak yeşil ve kırmızı renk arasında 
+değişecektir.
+Bir sinyal oluştuğunda grafikte “satın al” ve “sat” etiketleri belirir ve bu indikatörü 
+trend değişikliklerini kolayca belirlemek için iyi bir araç haline getirir.
+Bu gösterge trend piyasalarında iyi çalışır, ancak yatay piyasalarda yanlış 
+sinyaller üretir.
+Gösterge İpucu: Göstergeyi trend filtresi olarak kullanmak için Anahtar Değer = 3, ATR 
+periyodu = 20 ayarlarını kullanın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Alım Sinyali:
+Mumun rengi yeşile döner
+Yeşil "satın al" etiketi bir mumun altında görünür
+Satış Sinyali:
+Mum rengi kırmızıya döner
+Kırmızı "sat" etiketi bir mumun altında görünür
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+UT Bot Uyarıları göstergesini kullanarak alım ve satım sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Trend Takip Göstergesi #4: Sonraki Pivot Projeksiyonu 
+[Trendoskop]
+İle: Adı Anılmaması Gereken Kişi
+Bu göstergeyi bulmak için gösterge arama kutusuna “Sonraki Pivot Projeksiyonu 
+[Trendoskop]” yazınGenel Bakış:
+Bu gösterge, bir sonraki pivot noktasının projeksiyonunu oluşturmak ve piyasadaki 
+tersine dönüşleri tahmin etmek için birden fazla teknik göstergeyi birleştiren tescilli bir 
+algoritma kullanır. Bu gösterge olası bir tersine dönüşü belirlediğinde, yüksek yüksek, 
+düşük yüksek, düşük düşük veya yüksek düşük olasılığını gösteren bir ok üretecektir. Bu 
+gösterge ayrıca fiyatın tersine dönme olasılığının olduğu tahmin edilen seviyelere de 
+işaret edecektir.
+Bu gösterge tahminlerinde şaşırtıcı derecede doğrudur ve daha yüksek zaman 
+dilimlerinde kullanıldığında yüksek kaliteli salınım ticareti sinyalleri üretebilir.
+Satın Alma Sinyali
+Son zamanlardaki düşük salınımın ardından oklar yukarıyı gösteriyor
+Satış Sinyali
+Son zamanlardaki yükselişin ardından oklar aşağıyı gösteriyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+NPP göstergesini kullanarak satın alma (yeşil daire) ve satış (kırmızı daire) sinyallerine 
+örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+Trend Takip Göstergesi #5: Bjorgum MTF MA
+İle: Björgum
+Bu göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna "Bjorgum 
+MTF MA" yazın (Bjorgum tarafından) Aşağıdaki Ayarları Değiştirin: MA Türü #1
+– DEMA MA Uzunluğu #1 – 60
+Genel Bakış: Bu gösterge, alım/satım sinyalleri üretmek için bir RSI ile 
+birleştirilmiş bir hareketli ortalama kullanmaya dayanır. Gösterge ayarlarında 
+çeşitli farklı hareketli ortalamalar arasından seçim yapabilir ve işlem tarzınıza 
+en uygun olanı kullanabilirsiniz.
+Salınım ticareti için DEMA'yı (çift üstel hareketli ortalama) kullanıyorum; bu, piyasa 
+dalgalanmalarını daha kolay yakalamanızı sağlar çünkü bu hareketli ortalamadaki 
+yumuşatma, piyasa gürültüsünü filtreler.
+Bir sinyal oluştuğunda, mumlar ve hareketli ortalama sinyale bağlı olarak mavi 
+ve kırmızı arasında renk değiştirir. Bjorgum MTF MA göstergesi herhangi bir 
+zaman diliminde iyi çalışabilir ve trendleri ve potansiyel giriş ve çıkış 
+noktalarını belirlemek için kullanışlı bir araçtır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Alım Sinyali:
+Bir mum MA'yı geçer ve MA'nın üstünde 
+kapanır. MA çizgisinin rengi maviye döner.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+Mum rengi maviye döner
+Satış Sinyali:
+MA rengi kırmızıya döner Bir 
+mum MA'nın altında kapanır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Mum rengi kırmızıya döner
+Bjorgum MTF MA'yı kullanarak satın alma (yeşil daire) ve satış (kırmızı daire) 
+sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+V. Gelişmiş Trend Ticaret Stratejileri
+Trend Yatırımcısının El Kitabı'nın bu bölümünde, kripto, forex ve borsa 
+piyasalarında işlem yapmak için kullanabileceğiniz en güçlü ve gelişmiş trend 
+ticaret stratejilerinden bazılarını inceleyeceğiz.
+Bu stratejiler uzman yatırımcılar tarafından geliştirilmiş ve test edilmiş olup, 
+çeşitli piyasa koşullarında etkili oldukları kanıtlanmıştır.
+Bu bölümde yer alan stratejiler şunlardır:
+Trend Ticaret Stratejisi #1: RSI + Stokastik Geri Çekilme Stratejisi 
+Trend Ticaret Stratejisi #2: TSI Trend Ticaret Stratejisi
+Trend Ticaret Stratejisi #3: HalfTrend + Williams %R 
+Trend Ticaret Stratejisi #4: MFI + HMA Stratejisi Trend 
+Ticaret Stratejisi #5: AlphaTrend Stratejisi Trend 
+Ticaret Stratejisi #6: Çift MACD Stratejisi
+Bu stratejilerin her biri, trendleri belirlemenize, işlemlere güvenle girip çıkmanıza ve 
+karınızı maksimize etmenize yardımcı olmak için dikkatlice tasarlanmıştır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+Trend Ticaret Stratejisi #1: RSI + Stokastik Geri Çekilme 
+Stratejisi
+Stratejiye Genel Bakış: Bu strateji, günlük zaman dilimindeki eğilimleri 
+belirlemek için stokastik osilatörü ve geri çekilmenin ardından optimum giriş 
+noktalarını belirlemek için RSI'yi kullanır.
+Önerilen Zaman Aralığı:
+1 saat
+Strateji Göstergeleri:
+50 dönem KAMA (Kaufman uyarlanabilir hareketli ortalama) 
+500 dönem EMA
+2 dönem RSI
+Stokastik osilatör (aşağıdaki ayarlara bakın)
+Zaman dilimi = 1 gün %K Uzunluk = 14, %K Düzeltme = 6, %D 
+Düzeltme = 3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+Alım/Uzun Koşulları:
+Günlük stokastik osilatör 50'nin altında ve yukarı doğru 
+çaprazlanmış Fiyat 500 EMA'nın üzerinde
+Fiyat 50 KAMA'nın üzerinde
+RSI 30'un altına düştüğünde ve ardından 30'un üzerine geri döndüğünde uzun 
+pozisyon açın/Alın
+Bir mum 50 KAMA'nın altına kapandığında veya stokastik osilatör aşağı 
+doğru geçtiğinde uzun pozisyondan çıkın
+Satış/Kısa Koşulları:
+Günlük stokastik osilatör 50'nin üzerinde ve aşağı doğru 
+çaprazlanmış Fiyat 500 EMA'nın altında
+Fiyat 50 KAMA'nın altında
+RSI 70'in üzerine çıktığında ve ardından 70'in altına geri 
+döndüğünde Sat/Kısa Gir
+Bir mum 50 KAMA'nın üzerinde kapandığında veya stokastik osilatör yukarı doğru 
+geçtiğinde kısa pozisyondan çıkın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+Bu stratejiyi kullanarak uzun bir giriş (yeşil daire) ve çıkış (kırmızı daire) 
+örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+Trend Ticaret Stratejisi #2: TSI Trend Ticaret 
+Stratejisi
+Stratejiye Genel Bakış:
+Bu, ortaya çıkan trendlere erken girmek için 30 dönemlik hareketli 
+ortalama ve Bjorgum TSI kullanan basit bir trend takip stratejisidir. 500 
+EMA, genel trend yönünde işlem yapmak için kullanılır.
+Strateji Göstergeleri:
+30 dönem SMA
+500 dönem EMA
+Björgum TSI
+Ayarlar: Hız = Yavaş Alım/Uzun Koşullar:
+Fiyat 500 EMA'nın üzerindedir. TSI 0'ın 
+altındadır ve yukarı doğru hareket eder.
+Bir mum 30 SMA'nın üzerinde kapandığında uzun pozisyon al/giriş yap 
+Bir mum 30 SMA'nın altında kapandığında uzun pozisyon aç
+Satış/Kısa Koşulları:
+Fiyat 500 EMA'nın altında
+TSI 0'ın üzerinde ve aşağı doğru geçiyor
+Bir mum 30 SMA'nın altına kapandığında Sat/Kısa gir Bir 
+mum 30 SMA'nın üzerine kapandığında kısa çık
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+Bu stratejiyi kullanarak uzun bir giriş ve çıkış örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+Trend Ticaret Stratejisi #3: HalfTrend + Williams %R
+Stratejiye Genel Bakış:
+Bu strateji, alım/satım sinyalleri için Williams%R göstergesini kullanır ve sinyalleri 
+doğrulamak için Halftrend göstergesi kullanılır. 500 EMA, uzun vadeli trendin 
+yönünü belirlemek ve bu yönde işlem yapmak için kullanılır.
+Strateji Göstergeleri:
+500 EMA
+HalfTrend (everget tarafından)
+Williams %R – Düzeltildi (Yazar: PtGambler)
+Alım/Uzun Koşulları:
+Fiyat 500 EMA'nın üzerinde
+Williams %R hareketli ortalamanın üzerine çıktı
+HalfTrend göstergesinde bir satın alma sinyali (mavi ok) göründüğünde 
+uzun pozisyona girin
+Williams%R hareketli ortalamanın altına geçtiğinde veya HalfTrend 
+göstergesinde bir satış sinyali oluştuğunda uzun pozisyondan çıkın (renk 
+kırmızıya döner)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+Satış/Kısa Koşulları:
+Fiyat 500 EMA'nın altında
+Williams %R hareketli ortalamanın altına geçiyor
+HalfTrend göstergesinde bir satış sinyali (kırmızı ok) göründüğünde kısa 
+pozisyona girin
+Williams%R hareketli ortalamanın üzerine çıktığında veya HalfTrend 
+göstergesinde bir satın alma sinyali oluştuğunda kısa pozisyondan çıkın 
+(renk maviye döner)
+Birlikte
+Bu stratejiyi kullanarak giriş (yeşil daire) ve uzun çıkış (kırmızı daire)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+Trend Ticaret Stratejisi #4: MFI + HMA Stratejisi
+Stratejiye Genel Bakış:
+Bu strateji, MFI (para akış endeksi) ve Bjorgum MTF MA ile HMA (Hull 
+hareketli ortalaması) ayarında hareketli ortalama geçişini kullanır.
+Giriş sinyalleri, MFI hareketli ortalamayı geçtiğinde ve fiyat hareketli ortalamanın 
+üstünde/altında kapandığında meydana gelir. Bu stratejiyi kullanan işlemler 
+genellikle hızlı scalp işlemleridir.
+Bu stratejide de genel trend doğrultusunda işlem yapmak için 200 MA 
+kullanılır.
+Strateji Göstergeleri:
+Bjorgum MTF MA (Bjorgum tarafından)
+Aşağıdaki ayarları kullanın: MA Tipi #1 – HMA MA 
+Uzunluğu #1 – 65
+MFI (para akış endeksi) MFI'ye 18 dönem SMA ekleyin MFI uzunluğunu 
+21'e değiştirin
+200 SMA
+Alım/Uzun Koşulları:
+Fiyat 200 SMA'nın üzerinde
+MFI, 50'nin altındayken SMA'nın üzerine çıkıyor
+Bir mum HMA'yı kesip üstünde kapandığında uzun pozisyon 
+açın (mum rengi maviye dönecektir)
+Bir mum hareketli ortalamanın altında kapandığında uzun pozisyondan çıkın
+Satış/Kısa Koşulları:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+Fiyat 200 SMA'nın altında
+MFI, 50'nin üzerindeyken SMA'nın altına geçiyor
+Bir mum HMA'yı kesip altına düştüğünde kısa pozisyon açın 
+(mum rengi kırmızıya dönecektir)
+Bir mum hareketli ortalamanın üzerinde kapandığında kısa pozisyondan çıkın
+Bu stratejiyi kullanarak uzun bir giriş (yeşil daire) ve uzun bir çıkış (kırmızı daire) 
+örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+Trend Ticaret Stratejisi #5: AlphaTrend Stratejisi
+Stratejiye Genel Bakış:
+Bu basit ama karlı swing trading stratejisi, iki topluluk yapımı 
+TradingView göstergesi olan AlphaTrend ve Breakout/Consolidation 
+filtre göstergesini kullanır. AlphaTrend, girişler ve çıkışlar için birincil 
+göstergedir, Breakout/Consolidation filtresi ise AlphaTrend sinyallerini 
+doğrulamak için kullanılır.
+Strateji Göstergeleri:
+AlphaTrend göstergesi (KivancOzbilgic tarafından) Breakout/
+Consolidation Filter göstergesi (jwammo12 tarafından)
+Alım/Uzun Koşulları:
+Breakout/Consolidation Filtresi 50'nin üzerinde
+AlphaTrend'de bir satın alma sinyali göründüğünde uzun pozisyona 
+girin ("satın al" etiketi görünecektir)
+AlphaTrend'de satış sinyali göründüğünde uzun pozisyondan çıkın ("sel" etiketi 
+görünecektir)
+Satış/Kısa Koşulları:
+Breakout/Consolidation Filtresi 50'nin üzerinde
+AlphaTrend'de bir satın alma sinyali göründüğünde kısa pozisyona 
+girin ("satın al" etiketi görünecektir)
+AlphaTrend'de satış sinyali göründüğünde uzun pozisyondan çıkın ("sat" etiketi 
+görünecektir)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 76 ===
+Bu stratejiyi kullanarak uzun bir giriş ve çıkış örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 77 ===
+Trend Ticaret Stratejisi #6: Çift MACD Stratejisi
+Genel bakış
+Bu strateji iki Hareketli Ortalama Yakınsama Uzaklaşma (MACD) göstergesi kullanır; 
+ilki girişler için 1 saatlik bir zaman dilimi kullanır, diğeri ise uzun vadeli momentumu 
+belirlemek ve onunla işlem yapmak için günlük bir zaman dilimi kullanır.
+Girişleri doğrulamak için 20 dönemlik hareketli ortalama da kullanılır.
+Strateji Göstergeleri:
+MACD - 1 saatlik zaman dilimi 
+MACD -Günlük zaman dilimi
+20 dönem SMA
+Alım/Uzun Koşulları:
+Günlük MACD yükselişte (hızlı çizgi yavaş çizginin üzerinde) 1 saatlik 
+MACD yukarı doğru kesişiyor
+Fiyat 30 SMA'nın üzerinde kapandığında girin. Giriş mumunun 
+düşük seviyesinin altına zararı durdur emrini yerleştirin.
+Bir mum 30 SMA'nın altına kapandığında veya 1 saatlik MACD aşağı doğru geçtiğinde 
+uzun pozisyondan çıkın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 78 ===
+Satış/Kısa Koşulları
+Günlük MACD düşüş eğiliminde (hızlı çizgi yavaş çizginin altında) 1 
+saatlik MACD aşağı doğru geçiyor
+Fiyat 30 SMA'nın altına kapandığında kısa pozisyon açın. Giriş 
+mumunun en düşük seviyesinin altına zararı durdur emri koyun.
+Bir mum 30 SMA'nın üzerinde kapandığında veya 1 saatlik MACD yukarı doğru geçtiğinde 
+kısa pozisyondan çıkın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 79 ===
+Bu stratejiyi kullanarak uzun bir giriş ve çıkış örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 80 ===
+Sonuç: Temel Kavramlar ve Stratejilerin Özeti
+Bu kitapta trend ticaretiyle ilgili çeşitli temel kavramları ve stratejileri ele aldık. 
+Trend ticaretinin sabır ve disiplin gerektirdiğini unutmayın. Her ticaret 
+kazanan olmayacaktır ve ticaret sürecinin bir parçası olarak kayıpları kabul 
+etmek önemlidir.
+Bu Kitapta Ele Alınan Temel Kavramlar ve Stratejiler
+İşte bu kitapta ele aldığımız ana noktaların bir özeti: Trendlerin Temelleri
+Fiyatlardaki yönsel hareketler olan trendlerin temelleriyle başladık. 
+Trendler yükseliş, düşüş veya yatay olabilir ve yatırımcılar bunları 
+belirlemek için çeşitli trend analiz teknikleri kullanırlar. Yaygın tekniklerden 
+bazıları trend çizgileri, piyasa yapısı analizi ve hareketli ortalamalardır.
+"Genel" Trendle İşlem Yapmak Bu kitaptan çıkarılacak en önemli derslerden 
+biri, "genel" trendle işlem yapmanın önemidir. Bu, yatırımcıların işlemlerini 
+piyasanın birincil yönüyle uyumlu hale getirmeleri gerektiği anlamına gelir, 
+çünkü bu, başarı olasılığını artırabilir.
+Piyasa Döngüsü ve Trend Ticareti
+Ayrıca, birikim, kar marjı, dağıtım ve indirimi içeren piyasa döngüsünün 
+dört aşamasını da ele aldık. Yatırımcılar, trendin yönüne bağlı olarak 
+döngünün her aşamasından kar elde etmek için trend takip stratejilerini 
+kullanabilirler.
+Ticaret Trendleri için Göstergeler
+Göstergeler genellikle eğilimleri doğrulamak ve olası giriş ve çıkış noktalarını 
+belirlemek için kullanılır. Yaygın göstergelerden bazıları hareketli ortalamalar, 
+momentum osilatörleri, oynaklık göstergeleri ve hacim göstergeleridir. Yatırımcılar 
+bu göstergeleri birleştirerek kazanan bir strateji oluşturabilirler.
+En İyi Trend Takip Göstergeleri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 81 ===
+Ayrıca TradingView'deki en iyi trend takip göstergelerinden bazılarını vurguladık; 
+bunlar arasında Optimize Edilmiş Trend İzleyici, Yarı Trend Göstergesi, UT Bot 
+Uyarıları, Sonraki Pivot Projeksiyonu (Trendoskop) ve Bjorgum MTF MA yer alıyor.
+Gelişmiş Trend Ticaret Stratejileri Son olarak, RSI + Stokastik Geri Çekilme 
+Stratejisi, TSI Trend Ticaret Stratejisi, HalfTrend + Williams %R, MFI dahil 
+olmak üzere bazı gelişmiş trend ticaret stratejilerini ele aldık.
++ HMA Stratejisi, AlphaTrend Stratejisi ve Çift MACD Stratejisi.
+Başarılı Trend Ticareti İçin Son İpuçları
+Başarılı trend ticareti için aklınızda bulundurmanız gereken son ipuçları şunlardır:
+Her zaman genel trend doğrultusunda işlem yapın, bu başarı 
+olasılığınızı artırabilir.
+Trendleri doğrulamak ve potansiyel giriş ve çıkış noktalarını belirlemek için 
+göstergeleri kullanın.
+Kazanan bir strateji oluşturmak için göstergeleri birleştirin, ancak aşırı 
+optimizasyondan kaçının.
+Zararları sınırlamak ve karları korumak için uygun risk yönetimi 
+tekniklerini kullanın.
+Disiplinli olun ve duygusal işlem kararlarından kaçının.
+Sonuç olarak, trend ticareti, piyasaları anlamak ve kazanan bir strateji 
+geliştirmek için zaman ve çaba harcamaya istekli olan yatırımcılar için karlı bir 
+yaklaşım olabilir. Bu kitapta özetlenen temel kavramları ve stratejileri takip 
+ederek, yatırımcılar piyasalarda bir avantaj elde edebilir ve piyasalardaki 
+kazanan fırsatları belirleyebilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

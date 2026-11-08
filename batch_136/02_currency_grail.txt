@@ -1,0 +1,958 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 9\Baskı 9\Currency Grail - Benim Gizli Kayıpsız Forex Scalping Sistemim - Türkçe ve İngilizce (38 sayfa) - @eseckal.pdf
+PAGES: 38
+
+
+=== PDF PAGE 1 ===
+Bu kitap, benim kayıpsız Forex scalping sistemimi şu şekilde anlatıyor:
+kendim tarafından geliştirildi. Bu gerçekten herkesin aradığı kutsal 
+kase. Yöntemimi bulacaksınız
+kolay, stressiz ve benzersiz olun. Hiçbir göstergeye gerek yok; sadece 
+yalın bir grafik. Benim yöntemim piyasayı analiz etmeyi, trendleri takip 
+etmeyi veya temelleri (ekonomik haberleri) izlemenizi gerektirmez. 
+Benimle kalın
+kuralları ve hiçbir kayıplı işlem yaşamayacaksınız. Kullandığım işlem 
+platformu Metatrader 4'tür ancak kendi platformunuzu kullanırken 
+hiçbir sorun olmamalıdır; sadece uyarlayın
+kullandığınız şeye göre. Yöntemim tam olarak açıklanmıştır ve başka bir 
+satın alma gerektirmez. Hiçbir hile veya numara yok, sadece forex 
+ticaretinizi dönüştürebilecek parlak bir yöntem
+Hayatınızı gözden geçirin ve görünmeyenlere gözlerinizi açın.
+~ Yazar/Yaratıcı
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+1
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+Yasal Uyarı:
+Blah, blah, blah, blah, bunları kendi sorumluluğunuzda kullanın.
+Bu tam bir yöntemdir. Başka bir satın alma işlemine gerek 
+yoktur.
+Bu kitap, işlem yazılımının nasıl kullanılacağını anlatmıyor, Forex 
+piyasasına dair bir eğitim veya giriş sağlamıyor ve gereksiz dolgu 
+bilgileri veya satış konuşmalarıyla zaman kaybetmiyor.
+Bu kitapta kullanılan görseller Metatrader 4 işlem platformundan 
+(yazılım) alınmıştır. Bu yöntemin çalışması için MT4 gerekli değildir. 
+Kendi işlem platformunuza uyarlayın.
+Sistem kolay olsa da, bir ticaret girişinin gerçekleştirilmesi 
+gerektiğinden hızlı ilerleyebilir
+bir bar (mum) açıldıktan hemen sonra veya hemen sonra. Ancak 
+kendi başınıza birkaç işlem yaptıktan sonra bu hıza alışacaksınız.
+Telif Hakkı:
+Bu kitap telif hakkıyla korunmaktadır. Kişisel veya ticari kullanım için 
+çoğaltılması veya dağıtılması yasaktır. Yöntem ayrıca serbestçe 
+dağıtılabilir veya ticari olarak satılan bir EA'ya (Uzman Danışman) 
+dönüştürülemez. Bu kitabın fiyatı size saygıdan dolayı düşük 
+tutulmuştur. Lütfen yazara/yaratıcıya saygı gösterin ve bu kitabı 
+kimseyle paylaşmayın. Diğer yatırımcılara karşı kendinize bir avantaj 
+sağlamak için bu benzersiz ticaret yöntemini kendinize saklayın.
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Giriiş:
+Ben de bir Forex yatırımcısı olarak yıllarca deneme, yanılma ve tabii 
+ki kayıplar yaşadım. Bu yıllar boyunca birçoğu oldukça pahalı olan 
+birçok Forex ürünü satın aldım. Kitaplar gibi bazı ürünler gerçekten 
+de yararlı bilgiler sağlasa da, EA'lar gibi diğer bazı ürünler hiçbir 
+zaman işe yaramadı. Oluşturduğum yöntem hem kendi kişisel 
+ticaret zorluklarımdan hem de dikkatli gözlemlerimden 
+kaynaklanıyor. Öğrendiğim bir hayat sırrı, gerçek gerçeğin genellikle 
+reddedilen veya görmezden gelinenlerde bulunduğudur. Forex 
+sektöründe neyin reddedildiğini veya görmezden gelindiğini 
+araştırmaya ve incelemeye başladım. Gerçeği bulduğum yer bu 
+yalnız ve neredeyse boş alemdi. Şeyleri yeni bir ışıkta görmeye 
+başladım; önceki yıllarda gözlerimle göremediğim şeyleri. Ayrıca, 
+basitliğin başarılı Forex ticaretinin anahtarlarından biri olduğunu 
+gözlemledim. Ayrıca, teknik analizi oldukça eğlenceli bulmama 
+rağmen
+ilginç, kullanmak için çok fazla zaman gerektirmeyen bir yöntem 
+yaratmak istedim. Ve maksimum kar elde etmek için bir işlemin 
+sonuna kadar gitmenin kesinlikle avantajları olsa da, muhafazakar 
+bir yaklaşımın daha gerçekçi ve basitçe daha kolay olduğunu 
+öğrendim. Benim yöntemim yukarıda açıklananların çoğundan 
+kaynaklanıyor. Benim yöntemim korkuyu, kafa karışıklığını, 
+belirsizliği ve şüpheleri ortadan kaldırarak psikoloji bariyerini 
+aşabilir. Aslında, benim yöntemim ile işlem yapmaya başladığınızda 
+kolaylığı nedeniyle gerçekten sıkıcı bulabilirsiniz. Sıkıcı olmak iyidir. 
+Bu, işe yarayan bir işlem yönteminde ustalaştığınız ve hayatınızın 
+tadını çıkarmak için daha fazla zamanınız olduğu anlamına gelir. 
+Ama itiraf etmeliyim ki, hiç kayıp yaşamadan işlem yapmak 
+eğlenceli, eğlenceli, eğlenceli!
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Benim Para Birimi Kase'm Kayıpsız Scalping Yöntemi
+KISA/SATIŞ İŞLEMİ İÇİN HAZIRLIK:
+1)Geçiş yapmakçubuksadece grafikler. Tüm göstergeleri kaldırın. Aşağıda görüldüğü gibi 
+boş bir grafik kullanın.
+2)Bir kurulumu belirlemek için sadece 2 çubuğa ihtiyaç vardır. 2 bardan önceki her 
+şeyi görmezden gelin. Aşağıda, kısa/satış işlemi için mükemmel bir kurulumu tarif 
+ettiğim 2 bar bulunmaktadır. (Aşağıda görülen barlar 1. adımda görülen grafikten 
+GELMEZ.)
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+3) Kısa/satış kurulumu için,2 çubuk yukarı doğru eğilim gösteriyor olmalı (evet, yukarı 
+doğru);daha yüksek zirveler ve daha yüksek diplerAşağıdaki örnekte, yükseliş trendini 
+SADECE sizin görebilmeniz için pembe oklarla işaretledim; grafiğinizi işaretlemeyin.
+4) A)2. bar 1. bardan daha büyük olmalıB) 1. çubuğun en yüksek ve kapanış noktası ile 
+2. çubuğun en yüksek ve yaklaşan kapanış noktası arasındaki mesafeyi (görsel olarak) 
+ölçün.Eğer 2.si önemli ölçüde daha büyüksesonraki çubuk açıldığında kısa/satış 
+işlemine girmeye hazır olun. Aşağıda devam eden örnekte, mesafeyi SADECE sizin daha 
+iyi görebilmeniz için kırmızıyla işaretledim; grafiklerinizi işaretlemeyin.
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Not: "Yaklaşan kapanış" dediğimde, kapanmak üzere olan veya kapanmaya yakın olan 2. 
+bardan bahsediyorum. Dolayısıyla, o barın tam kapanış fiyatını bilemezsiniz. Ancak, 
+henüz oluşmamış bir sonraki bardan sadece birkaç saniye önce 2. barı gözlemlerseniz, 
+yeterli olacaktır.
+5) A)Bir sonraki (3.) çubuk açıldığında hemen kısa/satış işlemine girinAşağıdaki 
+örnekte giriş noktasını göstermek için sarı bir ok kullandım. B) Giriş başarıyla 
+gerçekleştirildikten sonra,hemen kar çıkış hedefinizi belirleyinAşağıda verilen 
+çizelgeyi kullanarak. Aşağıdaki örnekte, (yaklaşık) çıkış mavi bir okla işaretlenmiştir.
+Aşağıda görebileceğiniz gibi, scalping başarılı oldu!
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+15
+1
+DAKİKA
+PİP
+30
+2
+DAKİKA
+PİPLER
+1 SAAT
+5 PİP
+4
+20
+İnsan Kaynakları
+PİPLER
+GÜNLÜK
+50 PİP
+HAFTALIK
+200 PİP
+Not: Yukarıdaki grafik yalnızca muhafazakar kar hedeflerini gösterir. Açıkça daha fazla pip 
+genellikle elde edilebilir, ancak yukarıdaki rakamlar kayıpların olmamasını sağlayacaktır; 
+bu pipler kazanılacaktır. Daha deneyimli olduğunuzda, pipleri artırınkendi riskiniz 
+altındaancak açgözlü değil, muhafazakar kalın. Örneğin, 1 saatlik grafikte genellikle 10 
+pip kazanılabilir ve 4 saatlik grafikte genellikle 50 pip kazanılabilir. Ancak, 15 dakikalık 
+veya 30 dakikalık daha düşük zaman diliminde pip miktarını değiştirmekten kaçının. 
+Ayrıca, kazanılan pipler düşük görünse de, a) sık kurulumlar ve b) hızlı çalışırsanız aynı 
+anda birden fazla döviz çifti ticareti yapabileceğiniz ve c) lot boyutunuza ve kaldıracınıza 
+bağlı olarak kârların zamanla gerçekten artacağını unutmayın.
+İşte çeşitli kısa/satış kurulumlarına dair birkaç örnek daha:
+- Daha yüksek zirveler, daha yüksek dipler
+- 2. bar 1. bardan daha büyüktür
+- 2. çubuğun yüksek ve (yaklaşan) kapanışı 1. çubuktan büyüktür
+- Bir sonraki (3.) barın açılışında hemen girin
+- İşleme girdikten hemen sonra kar alma tutarını ayarlayın
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+ZARARI DURDURMA:
+Neden bir stop-loss noktası göstermiyorum? Stop-loss kullanarak işlem yapmıyorum! 
+Kulağa çılgınca gelebilir ama aslında öyle değil. İşte nedeni: a) Piyasanın size çarpması 
+nadirdir. b) Birçok ECN olmayan broker size karşı işlem yapacak veya stop-loss değerinize 
+ulaşmak için piyasayı (sahte) yükseltmeye çalışacak ve böylece işleminizi zararla 
+sonlandıracaktır. c) Benim yöntemimi kullanırken bir insan hatası yapılırsa, genellikle 
+oturup bekleyebilirsiniz ve pipler birkaç bar sonra kazanılacaktır. d) Bu scalping 
+yöntemiyle yalnızca küçük miktarda pip kazanılır, bu nedenle pipler genellikle saniyeler 
+veya dakikalar içinde kazanılır. e) Benim yöntemim ekonomik haber olayları sırasında işe 
+yarar çünkü büyük bankalar tarafından oluşturulan arz ve talep noktalarına 
+dayanmaktadır. Kendinizi kandırmayın; bankalar ekonomik haberler yayınlanmadan önce 
+neler olup bittiğini bilirler. Temeller (ekonomi haberleri), bankalar, ana akım kontrollü 
+medya hepsi bir arada, tabiri caizse. f) ECN/STP tipi bir broker kullanıyorsanız, gizlice 
+piyasayı yükseltmeye çalışan veya sizi zararla kapatmak için sizi engelleyen bir aracıdan 
+endişe etmenize gerek kalmaz. Ben şahsen broker olarak FXCC.com'u kullanıyorum. g) 
+Karlarınızı sık sık çekin, böylece tüm sermayeniz asla piyasada bağlı kalmaz. Bu kitap 
+benim kişisel zararsız işlem yöntemimi anlatıyor, bu nedenle dürüst kalmalı ve size stop-
+loss ile işlem yapmadığımı söylemeliyim!
+Ancak, yöntemimi kullanan bazı kullanıcılar, kısa/satış kurulumunda 2. mumun en yüksek 
+noktasının üzerine yerleştirilmiş bir stop-loss uygulayacaktır. Stop-loss kullanacaksanız 
+tavsiyem şudur: ne kadar genişse o kadar iyidir. Aşağıdaki örnekte kahverengi ok, kısa/
+satış kurulumu için olası bir stop-loss noktasını belirtir, ancak stop-loss'un daha da uzakta 
+olmasını tercih ederim (ya da benim durumumda hiç kullanmam). Stop-loss 
+kullanıyorsanız, kurulumun mükemmel olduğundan emin olun, çünkü 2. çubuk 1. 
+çubuktan çok daha uzundur ve 2. çubuğun en yüksek noktasından ve yaklaşan 
+kapanışından uzaklık 1. çubuktakinden çok daha fazladır.
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+8
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+UZUN/ALIŞ İŞLEMİ İÇİN HAZIRLIK:
+Varsayılan olarak, kurulum basitçe tersinedir. Bu nedenle aşağıdaki adımlar kısadır.
+1) Uzun/satın alma kurulumu için,2 çubuk aşağı doğru eğilimli olmalı (evet, aşağıya 
+doğru);daha düşük yüksekler ve daha düşük diplerAşağıdaki örnekte, aşağı yönlü 
+eğilimi SADECE sizin görebilmeniz için pembe oklarla işaretledim; grafiğinizi 
+işaretlemeyin.
+2) A)2. bar 1. bardan daha büyük olmalıB) 1. çubuğun en düşük ve kapanış noktası ile 2. 
+çubuğun en düşük ve yaklaşan kapanış noktası arasındaki mesafeyi (görsel olarak) ölçün.
+Eğer 2.si önemli ölçüde daha büyüksesonra bir sonraki bar açıldığında uzun/satın alma 
+işlemine girmeye hazır olun. Aşağıda devam eden örnekte, mesafeyi SADECE gözlerinizin 
+daha iyi görebilmesi için kırmızıyla işaretledim.
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+3) A)Bir sonraki (3.) çubuk açıldığında hemen uzun/alım işlemine girinAşağıdaki 
+örnekte giriş noktasını göstermek için sarı bir ok kullandım. B) Giriş başarıyla 
+gerçekleştirildikten sonra,hemen kar çıkış hedefinizi belirleyindaha önce verilen 
+çizelgeyi kullanarak. Aşağıdaki örnekte, (yaklaşık) çıkış mavi bir okla işaretlenmiştir.
+UZUN VE KISA İŞLEMLERDE KAÇINILMASI GEREKENLER:
+1 A) Aşağıdaki örnekte, bu tür bir kurulum genellikle işe yaramayacaktır çünkü 1. çubuğun 
+ve/veya 2. çubuğun her ikisinin de kapanışı veya açılışı çubuğun en yüksek veya en düşük 
+seviyesine çok yakındır. Bu nedenle, aşağıdaki gri oklarla gösterildiği gibi bundan 
+tamamen kaçının. 3. çubukta fiyatın asla çok fazla kısa pozisyon açmadığını fark edin.
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+1 B) Aşağıdaki örnekte benzer bir durum var. Gerçekten de kısa/satış işlemi için işlem 
+kurulumuna uyuyor. Daha yüksek zirveler ve daha yüksek dipler, 2. çubuk 1. çubuktan 
+daha uzun ve 2. çubuğun yüksekten ve (yaklaşan) kapanışından uzaklığı 1. çubuktan daha 
+uzun... ancak piyasanın 3. çubukta kısa pozisyon açmadığına dikkat edin. Bunun nedeni 
+yukarıda belirtilenle aynıdır ve aşağıda gri bir okla işaretlenmiştir.
+2) Aşağıdaki 1 saatlik grafik örneğinde kurulum iyi görünüyor. Ancak piyasanın kısa 
+pozisyon açmadığına bir kez daha dikkat edin. Endişelenmeyin, işlem yine de işe yaradı. 
+Neden? Çünkü eğer pip hedefim için grafiğimi takip etseydiniz, 5 pipi başarıyla kazanmış 
+olurdunuz. Dolayısıyla muhafazakar olmanın önemi ortaya çıkıyor. Ancak, 3. pip'in sizin 
+lehinize çok fazla gitmemesi durumu genellikle çok sık yaşanmaz. Ve eğer benim pip 
+grafiğime bağlı kalmayarak insan hatası yaptıysanız - belki de 5 pip yerine 10 pip 
+kazanmaya çalıştıysanız - o zaman piyasa tekrar kısa pozisyon açana kadar 
+bekleyebilirsiniz, ki 2 çubuk daha sonra öyle oldu (bu örnekte görülmedi).
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+3) Aşağıdaki bir sonraki örneğe bakın. Ne yanlış gitti? Bu, uzun/satın alma işlemi için 
+mükemmel bir kurulum gibi görünüyor ancak piyasa uzun gitmedi. Neden? Çünkü bir 
+hata yaptınız; 2. çubukta, düşükten yaklaşan kapanışa olan mesafenin, 1. çubuktaki 
+düşükten kapanışa olan mesafeden daha küçük olduğunu fark edin. Bu nedenle bu işlem 
+girişi yapılmamalıydı. Başka bir deyişle, bu bir kurulum DEĞİLDİR. Bu nedenle bu örnekte, 
+kaçınılması gereken şey SİZİN bir hata yapmanızdır.
+4) Aşağıdaki örnekte, 3. çubukta piyasanın uzun gittiğini fark edin. Bu (sadece) 1. 
+çubuktan çok daha büyük olan çok uzun 2. çubuk tarafından tahmin edildi. Ancak 1. ve 2. 
+çubuklara dayalı uygun bir uzun/alım işlemi için kurulum gereksinimleri mevcut 
+olmadığından ve trend yönleri farklı olduğundan, bir işlem girişi yapılmamış/
+yapılmamalıydı. Başka bir deyişle, kurallara uyun ve olası kaçırılmış fırsatlar konusunda 
+endişelenmeyin. Sadece sabırlı olun ve sadece mükemmel kurulumları bekleyin.
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+12
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+KULLANIŞLI GÖSTERGELER:
+Benim yöntemim grafiğinize yerleştirilmiş herhangi bir göstergenin kullanımını 
+gerektirmez. Ancak, iki faydalı gösterge size yardımcı olabilir.
+1) Bir "mum zamanı" göstergesi. Bu, bir sonraki çubuğun açılmasına ne kadar zaman 
+kaldığını hızlı bir şekilde, tek bakışta gösterir. Bu, saatinizi izlemek zorunda kalmayarak 
+size daha fazla zaman kazandırabilir. Yeni bir (3.) çubuğun başlangıcında hemen işlemlere 
+girdiğiniz için, bu tür göstergeler çok faydalı olabilir çünkü bir sonraki çubuğun 
+açılmasından önceki saniyeleri geri sayacaktır. Bu, bir sonraki çubuğun açılmasını 
+beklerken emir pencereniz hazır olacak şekilde kendinizi hazırlamanız için bile zaman 
+kazandırabilir. Bir mum zamanı göstergesi kullanırsanız (internetten ücretsiz 
+bulabilirsiniz), bu da zamandan tasarruf sağlar çünkü böylece bir sonraki mumun 
+açılmasından bir dakika veya daha az bir süre önce grafiklerinize bakabilirsiniz. Benim 
+yöntemimin mükemmel bir kurulumu tespit etmesi sadece birkaç saniye sürdüğü için (bir 
+kez deneyim kazandıktan sonra), bunun gibi bir mum zamanı göstergesi çok faydalı 
+olabilir. Aşağıdaki 1 saatlik grafikteki bu örnekte, uzun/satın alma kurulumu gerçekleşiyor 
+gibi görünüyor. Ancak bir sonraki barın açılmasına 22 dakika daha kaldığını fark edin. Bu 
+nedenle, bunun mükemmel bir kurulum olup olmayacağını kesin olarak bilmek için hala 
+çok fazla zaman var.
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Aşağıdaki örnekte başka bir "mum zamanı" göstergesi stili var. Veriler, grafikteki işlem 
+platformumun (yazılımımın) sol üst kısmında küçük metinle görünüyor. Ancak fark 
+ederseniz, çok küçük ve bu nedenle bakması kolay değil. Yani temelde bu tür mum 
+zamanı göstergeleri işe yaramaz çünkü gözlerinizin onu okumak için daha fazla iş 
+yapması gerekir. Bunun yerine önceki örneğe benzer bir şey kullanın veya bilgisayarınızda 
+veya cep telefonunuzda geri sayım sayacı gibi kendi yönteminizi bulun.
+2) Bir "talep hattını göster" veya "spread" göstergesi. Bu tür göstergeler, spread miktarını 
+temelde ve hızlı bir şekilde görmeyi çok kullanışlı hale getirir. Bu, aynı anda birden fazla 
+döviz çiftini izliyorsanız faydalıdır. Aşağıdaki USD/JPY 1 HR grafiğinin bu örneğinde 
+spread'in oldukça büyük olduğunu göreceksiniz; bu broker tarafından artırıldığı gibi. 
+Mükemmel bir kurulumun gerçekleştiğini görseniz bile (bu örnekte değil), spread 
+miktarını görsel olarak görerek bir işlem yapmaya değip değmeyeceğini belirleyebilirsiniz. 
+Aşağıdaki bu örnekte (kurulumsuz bir örnekte), çubuklar genellikle küçüktür ve işlem 
+yapma riskine değmez. Hatta bu çifti kapatmak ve bunun yerine daha az spread'e sahip 
+olanlarla çalışmak, daha fazla hacim olana kadar beklemek veya daha yüksek bir zaman 
+dilimine geçmek isteyebilirsiniz. Metratrader 4'te "talep hattını" görüntülemenin, bir sayı 
+gösteren bir "spread" göstergesi kullanmaktan daha hızlı olduğunu düşünüyorum.
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+14
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+İPUÇLARI VE PÜF NOKTALARI:
+1) Yöntemim kesinlikle değiştirilebilir veya sizin işlem yönteminize entegre edilebilir, 
+ancak bunu yapmanızı önermiyorum. Tüccarların sıklıkla kendilerini soktukları büyük bir 
+tuzak vardır ve bu, genellikle ustalaşmadan önce bile çalışan bir yöntemi sürekli olarak 
+geliştirme ihtiyacı veya arzusu hissetmektir. Bu neredeyse kötü bir alışkanlık veya 
+bağımlılık gibidir. Grafiğinize daha fazla gösterge eklemeye, işlemleri daha uzun süre 
+sürdürmeye çalışmamaya veya en kötü tuzak olan piyasayı analiz etmeye devam 
+etmemeye ısrar ediyorum. Böyle şeyler yaparsanız psikoloji duvarınız tekrar artacak veya 
+yıkılmayacaktır. İşlem yapmanın anahtarı sıfır korku veya endişeye sahip olmaktır.
+Benim yöntemimi tek başına bir yöntem olarak kullanmanızı ve diğer tüm işlem stillerini 
+veya yaklaşımlarını bırakmanızı öneririm. Aslında, birçok yatırımcı 'daha büyük ve daha iyi' 
+bağımlılıklarını kontrol edemedikleri için para kaybediyor. İşlem yapmak zor veya zaman 
+alıcı olmak zorunda değil. Tüm amaç pip kazanmak ve hayatta yapmak istediğiniz diğer 
+şeyleri yapmak için bolca boş zamana sahip olmaktır. Ancak elbette, bu muhtemelen 
+piyasada scalping yapmak için geçerlidir.
+2) ECN/STP tipi bir broker'a geçin. İşlemlerinizin doğrudan piyasaya gittiği ve size karşı 
+işlem yapacak bir aracı işlem masası broker'ına gitmediği bir broker. Ben FXCC.com 
+kullanıyorum ama istediğiniz herhangi bir ECN broker'ını kullanabilirsiniz. Para 
+kaybeden birçok yatırımcının yalnızca bir ECN/STP broker'ına geçmesi, kaybetme 
+sorunlarının yarısını çözer.
+3) Grafik platformunuzu birden fazla döviz çiftini gösterecek şekilde ayarlayın. Sadece 
+hangi zaman diliminde olduğunuzu hatırlayın. Benim yöntemim, aşağıdaki örnekte 
+görüldüğü gibi kurulumu tespit etmek için saniyeler alır. 2 işlem kurulumunun hızlı bir 
+şekilde görülebildiğinibelkiyakında geliyor, ancak hala 24 dakika olduğu için bilmek için 
+çok erken.
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+15
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+4) Bir zaman dilimi belirleyin ve ona sadık kalın. Heyecan yaşamak ve işlem yazılımınızın 
+önünde oturmak istiyorsanız, daha düşük bir zaman dilimi seçin. Rahatlamak ve hayatta 
+başka şeyler yapmak istiyorsanız, daha yüksek bir zaman dilimine geçin. Ve 1 HR veya 4 
+HR grafikleri gibi yüksek bir zaman diliminde işlem yaparken, grafiklerinize bakmanıza 
+gerek yoktur. Sadece bir sonraki mum/çubuk açılmadan birkaç dakika önce grafiklerinize 
+bakın. Bu, bir kurulum olup olmadığını görmek için 20 döviz çiftini bile izlemek için 
+harcanan zamandır.
+5) Eğer yöntemim kafanızı karıştırdıysa, adımlarımı tekrar ama yavaşça uygulayın. Bunu 
+gerçek zamanlı piyasada eylem halinde görmeye başladığınızda her şey 
+kolaylaşacaktır. Ayrıca, kurulumları bulmaya çalışırken grafik geçmişini geriye doğru 
+taramak aslında kafa karıştırıcı olabilir. Kurulumu ezberledikten sonra, bunun yerine 
+gerçek zamanlı hareketli grafikleri incelemeyi tercih edin. Başka bir deyişle, kurulumu 
+kendinize öğretmek için bir grafik geçmişine geri dönün VE ardından kurulumu 
+kendinize öğretmek için gerçek zamanlı grafikleri izleyin.
+6) Yeni bir işleme girdiğinizde, sadece işleme girin ve aynı anda kar alma miktarınızı 
+ayarlamayın. Bunun nedeni, işleme hızlı bir şekilde girmek ve böylece bir görevi hızlı bir 
+şekilde yapmak istemenizdir, aynı anda iki şey yapmak istemezsiniz. İşleme girildikten 
+sonra, hemen geri dönün ve kar alma miktarınızı ayarlamak için işlem emrini değiştirin, 
+yani işlemden çıkın. İşleri gerçekten hızlandırmak istiyorsanız, bazı tüccarlar girişte kar/
+pip miktarı hedefini otomatik olarak ayarlayacak bir kar alma EA'sı (uzman danışman) 
+kullanır. Ancak dikkatli olun, daha önce de belirtildiği gibi, yöntemimi çok fazla 
+abartmayın. Daha deneyimli değilseniz ve yöntemimi ekstra araçlarla geliştiremiyorsanız 
+temellere bağlı kalın.
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+16
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+7) Karınızı sık sık, örneğin her hafta çekin. Elbette bu düşük sermayeli hesaplarda veya 
+mikro hesaplarda mümkün olmayabilir. Ancak 10k hesabınız varsa, karınızı sık sık çekin ve 
+o ilk 10k miktarında işlem yapmaya devam edin. Ancak, benim yöntemim doğru 
+kullanılırsa, sermayenizi çekmeden bırakırsanız bir ay içinde hesabınızı ikiye katlayabilir. 
+Tüm sermayenizi kullanmak, daha sonra işlem başına lot boyutunuzu artırma avantajını 
+sağlar, böylece kar miktarlarını daha hızlı artırır. 5 piplik bir işlemden 5$ kazanmak 
+güzeldir, ancak daha büyük lot boyutları, daha fazla kullanılabilir marj vb. nedeniyle 5 
+piplik bir işlemden 500$ kazanmak daha da güzeldir. Ancak bir döviz tüccarı olarak 
+istikrarlı bir gelir elde etmek istiyorsanız, karınızı haftada bir veya daha sık çekin ve sadece 
+o ilk sermaye miktarında işlem yapmaya devam edin.
+8) Eğer bir insan hatası yaparsanız, birkaç/birkaç bar daha bekleyin. Eğer benim pip grafik 
+miktarlarıma sadık kalırsanız, pipleri edinmeniz uzun sürmeyecektir.
+9) Mükemmel bir kurulumdan bir işleme girdikten ve kar alma tutarını başarıyla 
+gönderdikten sonra, yazılımınızdan uzaklaşın veya onu görmezden gelin veya kapatın. 
+Örneğin, saatlik grafiklerle işlem yapıyorsanız ve bir işleme giriyorsanız, her seferinde 
+işe yarayıp yaramadığını görmek için oturup izlemenize ve böylece muhtemelen 
+kendinizi paniğe sürüklemenize gerek yoktur.
+10) Kurulum gerçekten güzel ve mükemmelse ve giriş çubuğu (3. çubuk) yeni açılmışsa, 
+işleme girmeden önce fiyatın biraz geri çekilmesini bile bekleyebilirsiniz. Böylece geri 
+çekilme miktarını ve orijinal kar hedefinizi elde edersiniz. Ancak, bu bir kez daha orijinal 
+yöntemimden sapıyor ve bu da sizi daha sonra daha fazla uyarlama istemeye sürükleme 
+potansiyeline sahip.
+11) Emin olmadığınız kurulumlar hakkında endişelenmek ve telaşlanmak yerine, ultra 
+mükemmel kurulumu beklemek her zaman daha iyi ve daha akıllıcadır. Benim yöntemim 
+her piyasa koşulunda işe yarar. Ancak, piyasa koşulları nedeniyle mükemmel bir kurulum 
+için daha uzun süre beklemeniz gerekebilir. Kurulumlar, günün saatine, izlenen çifte vb. 
+bağlı olarak artar veya azalır. Ve bu değişkenlerin her biri değişebilir. Zaman dilimlerini 
+değiştirerek daha fazla veya daha az kurulum da görebilirsiniz.
+12) Artık temelleri (ekonomik haberleri) takip etmiyorum çünkü benim yöntemimde buna 
+gerek yok. Ancak yine de takip etmek istiyorsanız, Ransquawt.com akışlı ses hizmetini 
+kullanmanızı şiddetle tavsiye ederim. Minimum düzeydedir, büyük bir ana ticaret katında 
+olduğunuzu hissettirir ve sürekli olarak değil, yalnızca gerçekleştiği anda haberler 
+hakkında rapor verir.
+13) Bu yöntemi ifşa ederek başkalarına karşı avantajınızı kaybetmeyin. Bunu 
+kendinize saklayın. Gizli silahınız olmasına izin verin. Hatta döviz ticaretinin ötesinde 
+diğer ticaret sektörlerinde de işe yaradığını görebilirsiniz. Örneğin, aynı kurulumları 
+şurada görüyorum:
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+17
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Daha yüksek zaman dilimlerinde Bitcoin ticareti, henüz Bitcoin'i test etmedim veya 
+Bitcoin'de işlem yapmadım. Hisse senetleri genellikle aldatıcıdır ve benim yöntemimle 
+kullanışlı değildir çünkü bir çubuğun kapanış fiyatı ile bir sonraki çubuğun açılış fiyatı 
+genellikle fiyat olarak oldukça farklı olabilir. Döviz/Forex ticaretinde, fiyat genellikle bir 
+çubuğun kapanışında ve bir sonrakinin açılışında aynı kalır.
+14) Eğer benim yöntemimden para kazanmak istiyorsanız, zamanı geldiğinde çevrimiçi 
+satılan her kitap için komisyon alabileceğiniz bir ortaklık programı kurulacaktır. Telif hakkı 
+altbilgisi alanında görünen web URL'sini kontrol etmeye devam edin. Şu anda (bu yazının 
+yazıldığı tarihte) web adresi bir kitap sipariş sayfasına işaret ediyor. Ancak zamanı 
+geldiğinde uygun bir web sitesine çevrilecektir. Bu yöntemi size düşük bir maliyetle 
+sunuyorum, böylece ticarette başarılı olmanıza yardımcı oluyorum ve adil bir fiyata 
+sunuyorum. Lütfen bu kararıma saygı gösterin ve böylece telif hakkıma saygı gösterin.
+15) Forex/döviz piyasası sonsuza kadar sürmeyecek. Bunu diğer sektörlerde bildiğim 
+diğer sırlar sayesinde biliyorum. Ve büyük ölçekli ekonomik çöküşlerden 
+bahsetmiyorum. Forex piyasası, tüm küresel para birimleri tek bir para birimine 
+yönlendirildiğinde sona erecek/yok edilecek. Ancak şu anda endişelenecek bir şey yok ve 
+bu gerçekleştiğinde hesaplarınızı kapatmak için zamanınız olacak. Sadece şunu 
+belirtiyorum: Sürerken eğlenin!
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+18
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+BİR BAKIŞTA ÖRNEKLER:
+İyi kurulumların karışık örnekleri. Aşağıyı işaret eden sarı oklar kısa/satış işlemleri için 
+giriş noktasını gösterir. Yukarıyı işaret eden sarı oklar uzun/alım işlemleri için giriş 
+noktasını gösterir.
+(c) Telif Hakkı - Currency Grail Ltd - Tüm Hakları Saklıdır - www.currencygrail.tk
+19
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+This book describes my no-loss Forex scalping system as 
+developed by myself. This is truly the holy grail 
+everyone has been looking for. You will find my method to 
+be easy, stress free, and unique. No indicators are 
+required; just a bare chart. My method does not require 
+analyzing the market, following trends, nor do you need 
+to monitor the fundamentals (economic news). Stick to my 
+rules and you will experience no loosing trades. The 
+trading platform I use is Metatrader 4 however there 
+should be no problem using your own platform; just adapt 
+it to what you use. My method is described in full and 
+requires no other purchases. No tricks or gimmicks, just 
+a brilliant method which can transform your forex trading 
+life and open your eyes to the unseen.
+~ The Author/Creator
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+1
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Disclaimer: 
+Blah, blah, blah, blah, use at your own risk.
+This is a complete method. No other purchase is 
+neccessary.
+This book does not explain how to use trading 
+software, does not provide an education or an 
+introduction to the Forex market, and it does not 
+waste time with useless filler information or 
+sales pitches.
+Images used from this book are from the Metatrader 
+4 trading platform (software). MT4 is not required 
+for this method to work. Adapt it to your own 
+trading platform.
+Although the system is easy, it can be fast paced 
+since a trade entry must be carried out 
+immediately or quickly after a bar (candle) opens. 
+You will however get used to this speed after you 
+make a few trades on your own.
+Copyright: 
+This book is copyright protected. Duplication or 
+distribution either for personal or commercial use 
+is prohibited. The method also cannot be 
+transformed into a freely distributable or 
+commercially sold EA (Expert Advisor). The price 
+for this book has been kept low out of respect for 
+you. Please respect the author/creator and do not 
+share this book with anyone. Keep this unique 
+trading method to yourself in order to give 
+yourself an advantage over other traders.
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Introduction:
+I too as a Forex trader went through many years of 
+trial, errors, and of course losses. During these 
+years I also purchased many Forex products many of 
+which were quite expensive. Although some 
+products, like books, did indeed provide useful 
+info, some other products like EAs never panned 
+out. The method I created stems both from my own 
+personal trading hardships as well as from keen 
+observations. A secret in life that I have learned 
+is that real truth usually resides in the rejected 
+or ignored. I began to research and study what was 
+rejected or ignored within the Forex sector . It 
+was within this lonely and almost empty realm is 
+where I found truth. I began to see things in a 
+new light; things previously and seemingly 
+invisible to my eyes during the years prior . I 
+also observed that simplicity is one key to 
+successful Forex trading. Also, although I found 
+technical analysis to be quite fun and 
+interesting, I wanted to create a method that 
+didn’t require much time to use. And although 
+riding out a trade to acquire maximum profits 
+certainly does have its advantages, I learned that 
+a conservative approach is more realistic and 
+simply easier. My method stems from much of what 
+was described above. My method can bust the 
+psychology barrier by removing fear, confusion, 
+uncertainty, and doubts. In fact, once you begin 
+trading my method you might indeed find it boring 
+due to its ease. Boring is good. It means you have 
+mastered a trading method that works and it means 
+you have more time to spend enjoying your life . 
+But I must admit, making trades with no losses is 
+fun, fun, fun!
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+My Currency Grail No-Loss Scalping Method
+THE SET-UP FOR A SHORT/SELL TRADE:
+1) Switch to bar charts only. Remove all indictors. Use a blank 
+chart as seen below. 
+ 
+2) Only 2 bars are needed to determine a set-up. Ignore everything 
+prior to 2 bars. Below are 2 bars as I describe a perfect set-up 
+for a short/sell trade. (The bars seen below do NOT come from the 
+chart seen in step 1.)
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+3) For a short/sell set-up, the 2 bars must be trending upwards 
+(yes, upwards); higher highs and higher lows. In the example below 
+I have marked the upward trend with pink arrows ONLY for your eyes 
+to see it; do not mark up your chart. 
+4) A) The 2nd bar must be bigger than the 1st bar. B) Measure the 
+distance (visually) between the high and close of the 1st bar with 
+the high and upcoming close of the 2d bar. If the 2nd one is 
+significantly greater then get ready to enter a short/sell trade 
+once the next bar opens. In the example continued below, I have 
+marked the distance in red ONLY for your eyes to see it better; do 
+not mark up your charts.
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Note: When I stated “upcoming close” I am referring to the 2nd bar 
+which is about to close or is soon to close. Thus obviously you 
+cannot know the exact closing price of that bar. However, if you 
+observe the 2nd bar just a few seconds prior to the yet-to-be-
+formed next bar, it will be suffice. 
+5) A) Enter a short/sell trade immediately when the next (3rd) bar 
+opens. In the example below I have used a yellow arrow to show you 
+the entry point. B) After the entry has been successfully carried 
+out, then immediately set your profit exit target using the chart 
+provided below. In the example below, the (approximate) exit is 
+marked with a blue arrow.
+As you can see below, the scalping was successful! 
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+15 MIN 30 MIN 1 HR 4 HR DAILY WEEKLY
+1 PIP 2 PIPS 5 PIPS 20 PIPS 50 PIPS 200 PIPS
+Note: The chart above shows conservative profit targets only. 
+Obviously more pips can be usually acquired, but the figures above 
+will ensure no-losses; those pips will be gained. Once you become 
+more experienced, increase the pips at your own risk but remain 
+conservative not greedy. For example, 10 pips on the 1 HR chart can 
+usually be gained and 50 pips on the 4HR chart can usually be 
+gained. Avoid however changing the pip ammount on the lower 
+timeframe of 15 min or 30 min. Also, even though the pips gained 
+might seem low, don’t forget that profits do indeed add up over 
+time because of a) frequent set-ups and b) you can trade multiple 
+currency pairs at the same time if you work quickly and c) profits 
+will increase depending upon your lot size and leverage.
+Here are some more examples of various short/sell set-ups:
+- Higher highs, higher lows
+- 2nd bar is bigger than the 1st
+- High and (upcoming) close of the 2nd bar is greater than the 1st
+- Enter immediately at opening of next (3rd) bar
+- Set take profit amount immediately after entering the trade
+ 
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+STOP LOSS: 
+Why do I not show a stop-loss point? I do not trade using stop-
+losses! This might sound crazy but actually it is not. Here is why: 
+a) It is rare for the market to crash on you. b) Many non-ECN 
+brokers will trade against you or attempt to (fake) spike the 
+market to hit your stop-loss value thus exiting your trade at a 
+loss. c) If a human error is made using my method, you can usually 
+just sit it out and wait and the pips will be gained a few bars 
+later. d) Only a small amount of pips are gained with this scalping 
+method, thus the pips are usually acquired within seconds or 
+minutes. e) My method works during economic news events because it 
+is based on supply and demand points created by the big banks. Don’
+t fool yourself; banks know what is going on prior to the economic 
+news being released. Fundamentals (economic news), banks, the 
+mainstream controlled media all in bed together, so-to-speak. f) If 
+you use an ECN/STP type of broker, you will not have to worry about 
+a middle man secretly trying to spike the market on you or thwart 
+you to close you out in a loss. I personally use FXCC.com as my 
+broker. g) Withdrawl your profits frequently so all your capital 
+never remains tied up in the market. This book describes my own 
+personal no-loss trading method therefore I have to remain honest 
+and tell you that I do not trade with stop-losses! 
+However, some users of my method will apply a stop-loss placed 
+above the high of the 2nd candle on a short/sell set-up. My advice 
+if you are going to use stop-loses is: the wider the better. In the 
+example below the brown arrow denotes a possible stop-loss point 
+for a short/sell set-up, although I would prefer the stop-loss to 
+be even further away (or in my case, not use one at all). If you 
+use a stop-loss just be sure the set-up is perfect, as in the 2nd 
+bar is much longer than the 1st and the distance from the high and 
+upcoming close of the 2nd bar is much greater than the same on the 
+1st bar.
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+8
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+THE SET-UP FOR A LONG/BUY TRADE:
+As assumed, the set-up is simply in reverse. Thefore the following 
+steps are in brief.
+1) For a long/buy set-up, the 2 bars must be trending downwards 
+(yes, downwards); lower highs and lower lows. In the example below 
+I have marked the downward trend with pink arrows ONLY for your 
+eyes to see it; do not mark up your chart.
+2) A) The 2nd bar must be bigger than the 1st bar. B) Measure the 
+distance (visually) between the low and close of the 1st bar with 
+the low and upcoming close of the 2d bar. If the 2nd one is 
+significantly greater then get ready to enter a long/buy trade once 
+the next bar opens. In the example continued below, I have marked 
+the distance in red ONLY for your eyes to see it better.
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+3) A) Enter a long/buy trade immediately when the next (3rd) bar 
+opens. In the example below I have used a yellow arrow to show you 
+the entry point. B) After the entry has been successfully carried 
+out, then immediately set your profit exit target using the chart 
+provided earlier. In the example below, the (approximate) exit is 
+marked with a blue arrow.
+STUFF TO AVOID FOR LONG & SHORT TRADES:
+1 A) In the example below, this type of set-up will not usually 
+work because the close or opening of either or both the 1st bar 
+and/or the 2nd bar is too close to the high or low of the bar. Thus 
+avoid this completely as shown with grey arrows below. Notice in 
+the 3rd bar that the price never shorted much.
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+1 B) In this example below you have a similar situation. It does 
+indeed meet the trade set-up for a short/sell trade. Higher highs 
+and higher lows, the 2nd bar longer than the 1st, and the distance 
+from the high and (upcoming) close of the 2nd is longer than in the 
+1st bar.... but notice how the market did not go short on the 3rd 
+bar. This is due to the same reason as mentioned above and is 
+marked below with a grey arrow.
+2) In the example below on the 1 HR chart, the set-up appears to be 
+fine. But notice again how the market did not go short. No worries, 
+the trade still worked. Why? Because if you followed my chart for 
+the pip target you would have successfully gained the 5 pips. Thus 
+the importance of being conservative. However, this situation of a 
+3rd not going too far in your favor usually doesn’t happen too 
+often. And if you made a human error of not sticking to my pip 
+chart - perhaps trying to gain 10 pips instead of 5 pips - then you 
+can just wait it out until the market goes short again which it did 
+after 2 more bars (not seen in this example).
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+3) See this next example below. What went wrong? This appears to be 
+a perfect set-up for a long/buy trade but the market did not go 
+long. Why? Because you made a mistake; notice on the 2nd bar that 
+the distance from the low to the upcoming close is smaller than the 
+low to the close on the 1st bar. Thus this trade entery should not 
+have been made. In other words, this is NOT a set-up. So in this 
+example, the thing to avoid is YOU making a mistake. 
+4) Notice in this example below, on the 3rd bar the market went 
+long. This was (only) predicted by the very lenghty 2nd bar which 
+was much larger than the 1st bar. But since the set-up requirements 
+were not present for a proper long/buy trade based on the 1st and 
+2nd bars and the trend directions are different, a trade entry 
+would/should NOT have been made. In other words, stick to the rules 
+and do not worry about possible missed opportunities. Just be 
+patient and wait for the perfect set-ups only.
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+12
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+HANDY INDICATORS:
+My method does not require the use of any indicators placed on your 
+chart. However, two useful indicators can help you.
+1) A “candle time” indicator. This shows you quickly, at-a-glance, 
+how much time is remaining before the next bar opens. This can save 
+you more time by avoiding to have to monitor your clock. Since you 
+are entering trades immediately at the start of a new (3rd) bar, 
+this type of indicator can be very useful because it will count 
+down the seconds prior to the next bar opening. This can give you 
+time to even prepare yourself with your order-window ready as you 
+wait for the next bar to open. If you use a candle time indicator 
+(which you can find for free on the internet), it is also a time 
+saver because you can thus just look at your charts a minute or so 
+prior to the next candle opening. Since my method takes a mere 
+seconds to spot a perfect set-up (once you get exeperienced at it), 
+a candle time indicator such as this can be very useful. In this 
+example below on the 1 HR chart, it looks like a long/buy set-up 
+might be occurring. But notice there is still 22 minutes remaining 
+until the next bar opens. Thus, still too much time to know for 
+sure if this will establish itself to be a perfect set-up.
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+In this example below is another style of a “candle time” 
+indicator. The data appears in small text at the top left of my 
+trading platform (software) on the chart. If you notice though, it 
+is way too small thus not easy to glance at. So basically this kind 
+of candle time indicator is useless because your eyes have to do 
+more work reading it. Use instead something similar to the previous 
+example, or find your own method such as a countdown timer on your 
+computer or mobile phone. 
+2) A “show ask line” or “spread” indicator. This type of indicator 
+makes it very handy to basically and quickly see the spread amount. 
+This is useful if you are monitoring multiple currency pairs at 
+once. In this example below of the USD/JPY 1 HR chart you will see 
+the spread is quite large; as increased by this broker. Even if you 
+see a perfect set-up occuring (not in this example), by visually 
+seeing the spread amount you can determine if it is worth your 
+while to make a trade. In this example (of a non set-up) below, the 
+bars are generally small and not worth the risk of trading. You 
+might even want to close this pair and work with others instead 
+that have a less spread, wait until there is more volume, or switch 
+to a higher timeframe. I find that displaying the “ask line” in 
+Metratrader 4 is even quicker than using a “spread” indicator that 
+shows a number.
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+14
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+TIPS AND TRICKS:
+1) Although my method can certainly be modified or integrated into 
+your trading method, I do not recommend you do that. There is a 
+great trap that traders often put themselves into and that is 
+always feeling the need or desire to keep improving upon a working 
+method, often even before mastering it. It is almost like a bad 
+habit or an addiction. I urge you not to keep adding more 
+indicators on your chart, trying to ride out trades longer, or the 
+worst trap of all... resuming to analyze the market. If you do such 
+things your psychology wall will increase again or will not be 
+taken down. A key to trading is having zero fear or worry. I 
+suggest you use my method as a standalone method and drop all other 
+trading styles or approaches. In fact, many traders loose money 
+because they cannot control their ‘bigger and better’ addiction. 
+Trading does not have to be difficult or time consuming. The whole 
+purpose is to make pips and have lots of free time to do other 
+things you want to do in life. But of course, this applies perhaps 
+mostly to scalping the market.
+2) Switch to an ECN/STP type broker. One where your trades go 
+directly into the market and not into a middle man dealing desk 
+broker who will trade against you. I use FXCC.com but you can use 
+whatever ECN broker you wish. In many cases of traders who loose 
+money, merely switching to an ECN/STP broker solves half of their 
+loosing problems. 
+3) Set your charting platform to show multiple currency pairs. Just 
+remember what timeframe you are on. My method takes seconds to spot 
+the set up as seen in this example below. I can see quickly that 2 
+trade set up might be coming soon, although 24 minutes is still 
+remaining so it is too early to know. 
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+15
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+4) Decide on a timeframe and stick to it. If you feel like having 
+excitement and want to sit in front of your trading software, then 
+choose a lower timeframe. If you want to chillax and do other 
+things in life, then switch to a higher timeframe. And when trading 
+on a high timeframe like the 1 HR or 4 HR charts, there is no need 
+to stare at your charts. Just look at your charts a few minutes 
+prior to the next candle/bar opens. That is pently of time to 
+monitor even 20 currency pairs to see if there is a set-up. 
+5) If you are confused by my method, simply go through my steps 
+again but slowly. It will all become easy once you start seeing 
+this in action in realtime market. Also, scanning back through 
+chart history can actually be confusing as you look to find the 
+set-ups. Once you have memorized the set-up, opt instead to study 
+realtime moving charts. In other words, go back into a chart 
+history to teach yourself the set-up, AND then monitor realtime 
+charts to train yourself the set-up.
+6) When you enter a new trade, only enter the trade and do NOT at 
+the same time set your take profit amount. This is because you want 
+to enter the trade quickly and thus do one task quickly, not doing 
+two things at once. Once the trade has been entered into, then 
+quickly go back and modify the trade order to set your take-profit 
+amount, i.e. exit the trade. If you really want to speed things up, 
+some traders use a take-profit EA (expert advisor) which will 
+automatically set the profit/pip amount target upon entry. But 
+beware, as stated before, try not to fancy-up my method too much. 
+Stick to the basics unless you are more experienced and can enhance 
+my method with extra tools.
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+16
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+7) Withdrawl your profits frequently, such as each week. Of course 
+this might not be possible on low capital accounts or micro 
+accounts. But if you have a 10k account, withdrawl your profits 
+frequently and keep trading on that initial 10k amount. However, my 
+method if used properly can double an account within a month if you 
+leave your capital without withdrawls. Using all your capital 
+allows you the advantage of later increasing your lots size per 
+trade, thus increasing profit amounts quicker. Making $5 from a 5 
+pip trade is nice but making $500 from a 5 pip trade is even nicer 
+due to larger lots sizes, more available margin, etc. But if you 
+want to make a steady income as a currency trader, withdrawl your 
+profits weekly or so and just keep trading on that initial capital 
+amount.
+8) If you make a human error just ride it out for a couple/few more 
+bars. If you stick to my pip chart amounts, it will not take long 
+for you to acquire the pips. 
+9) After you enter a trade from a perfect set-up and you have 
+successfully submited the take-profit amount, walk away from your 
+software or ignore it or close it. For example, if you are trading 
+the hourly charts and enter into a trade, there is no need to sit 
+and watch to see if it works each time and thus possibly putting 
+yourself in a panic.
+10) If the set-up is really nice and perfect and the entry bar (the 
+3rd bar) has just opened, you can even wait for the price to 
+retrace a bit before entering the trade. Thus acquiring the 
+retracement amount plus your original profit target. However, once 
+again this deviates from my original method which thus then has the 
+potential of trapping you into wanting more adaptations later. 
+11) It is always better and smarter to wait for the ultra perfect 
+set-up versus fretting and fussing over set-ups which you are 
+unsure of. My method works under any market condition. However, 
+because of market conditions you might have to wait longer for a 
+perfect set-up. Set-ups increase or decrease depending upon time of 
+day, the pair being monitored, etc. And each of those variables can 
+vary. By changing timeframes you might also see more or less set-
+ups.
+12) I no longer monitor the fundamentals (economic news) because it 
+is not neccessary with my method. However if you still want to, I 
+highly recommend using the Ransquawt.com streaming audio service. 
+It is minimal, feels like you are on a large major trading floor, 
+and only reports on news as it happens versus continous.
+13) Don’t loose your advantage over others by revealing this 
+method. Keep it to yourself. Let it be your secret weapon. You 
+might even find that it works with other trading sectors beyond 
+currency trading. For example, I am seeing the same set-ups in 
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+17
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Bitcoin trading on the higher timeframes, although I have not 
+tested or traded in Bitcoin yet. Stocks tend to be tricky and not 
+useful with my method because the price of the close of one bar and 
+the opening price of the next bar can often be quite different in 
+price. In currency/Forex trading, the price generally remains the 
+same at the close of one bar and the opening of the next.
+14) If you want to make money from my method, an affiliat program 
+will be set up in due time whereby you can receive a commission on 
+each book that is sold online. Keep checking the web URL which 
+appears in the copyright footer area. The web address currently (at 
+the time of this writing) points to a book ordering page. But it 
+will be switched to a proper website in due time. I am proving you 
+this method at a low cost to help you succeed in trading and by 
+providing it at a fair price. Please respect this decision of mine 
+and thus respect my copyright. 
+15) The Forex/currency market will not last forever. I know this 
+due to other secrets I am privy to in other sectors. And I am not 
+refering to large scale economic crashes. The Forex market will be 
+terminated/destroyed once all global currencies are funneled into 
+one single currency. But there is nothing to worry about right now 
+and once this does happen you will have time to close your 
+accounts. I am just stating: have fun while it lasts!
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+18
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+AT-A-GLANCE EXAMPLES:
+Mixed examples of good set-ups. Yellow arrows pointed down show the 
+entry point for short/sell trades. Yellow arrows pointed up show 
+the entry point for long/buy trades.
+(c) Copyright - Currency Grail Ltd - All Rights Reserved - www.currencygrail.tk
+19
+www.forexgercekleri.xyz - [Twitter: @eseckal]

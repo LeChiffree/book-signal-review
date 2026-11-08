@@ -1,0 +1,3281 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 10\Baskı 10\Kazandıran Forex Trading Sistemi - Axi Trader - Orijinal (63 sayfa) - @eseckal.pdf
+PAGES: 63
+
+
+=== PDF PAGE 1 ===
+1
+www.axitrader.com
+THE DEFINITIVE GUIDE TO BUILDING A  
+WINNING FOREX TRADING SYSTEM  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+2
+The secrets to success are not really secrets at all. 
+Those traders who have succeeded have developed a winning 
+formula that can be copied and taught. In The Definitive Guide to 
+Building a Winning Forex Trading System, I harness my learnings 
+from the careful study and application of the principles of top traders 
+and share them with you. 
+Armed with this knowledge, your Forex trading success or failure 
+truly is up to you. 
+AxiTrader is a registered business name of AxiCorp Financial Services Pty Ltd (AxiCorp). AxiCorp (ACN 127 606 348) is authorised and 
+regulated by the Australian Securities & Investments Commission (ASIC) AFSL number 318232. Investing in over-the-counter derivatives 
+carries significant risks and is not suitable for all investors. You could lose substantially more than your initial investment. When acquiring our
+derivative products you have no entitlement, right or obligation to the underlying financial asset. AxiCorp is not a financial adviser and all 
+services are provided on an execution only basis. AxiCorp is authorised to provide general advice only and information is of a general nature 
+only and does not take into account your financial objectives or personal circumstances. AxiCorp recommends that you seek
+independent personal financial advice. A Product Disclosure Statement (PDS) for our financial products and our Financial Services Guide 
+(FSG) are available at www.axitrader.com or can be obtained free of charge by calling AxiCorp on 1300 888 936 (+61 2 9965 5830). The 
+PDS and FSG are important documents and should be reviewed prior to deciding whether to acquire, hold or dispose of AxiCorp’s financial 
+products or services. The information in this eBook is for Australian residents only.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+3
+Foreword by Sean Lee oF  ForexteLL  and Fxww  
+When Sam Eder told me he was going to write 
+an eBook on Forex system development, I 
+must admit I was intrigued. Sam is one of the 
+new breed of young trader, forged in the fires 
+of retail trading, instead of on an interbank 
+dealing desk like I was. When I received my 
+copy of The Definitive Guide to a Winning Forex 
+Trading System, I was pleasantly surprised at 
+how well it captures the important elements 
+of building a successful system…which most 
+traders tend to miss. In fact some of my 
+ex-bank colleagues could very well do with 
+reading this eBook too!
+Like every profession, there are basics that 
+need to be mastered before one can excel. 
+Most trades start out with technical school and 
+apprenticeship programs, while most white-
+collar jobs begin with a university degree. 
+Trading is different in that there is no school 
+(except the hard knocks variety!) These days, 
+most traders are self-taught. However, learning 
+the foundations of trading is essential to 
+success.
+What can be taught are entry strategies, exit 
+strategies and money management principles. 
+Not only can the entry/exit points and money 
+management strategies be learned, they can 
+also be translated into simple trading systems. 
+There is no single strategy that guarantees 
+perfect entry and exit levels, but there are 
+strategies that work better in different 
+markets. If you can devise a series of strategies 
+for different market types, and then recognise 
+the type of market you are dealing in, you will 
+be a long way towards becoming a gun trader. 
+Thanks to The Definitive Guide to a Winning 
+Forex Trading System, you can kickstart this 
+educational process at your own pace. Get to 
+know yourself and what makes you tick, and 
+build systems that reflect the type of person 
+you are. I highly recommend you take your 
+time and go through this guide in detail.  
+About Sean: Sean has been an FX trader since 1986 when he 
+began in the interbank market. Nowadays he leads the way 
+in improving market access, services and information for the 
+aspirational retail trader. His FXWW business manages allocation 
+programs for the new breed of FX professional as well as 
+providing unbeatable market coverage through his chat-rooms on 
+Reuters Messenger. He is also Managing Editor of Forextell and 
+aims to provide plenty of good trading ideas from professional 
+traders (in an entertaining format).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+4
+CONTENTS
+ChApter 2:  DaMN GooD SET-upS   ..................................................................................  13
+ChApter 3: SIMpLE ENTRIES aND RE-ENTRIES  ...............................................................  26
+ConCluSion –  ovER To you ...........................................................................................   62
+ChApter 7: acHIEvING youR SySTEM’S oBjEcTIvES   ....................................................  46
+ChApter 11:  aWakENING THE INNER TRaDER   ..............................................................  59
+ChApter 9:  avoIDING SySTEM DEaTH  ............................................................................  51
+ChApter 8:  GRaDING youR SySTEM aND MakING MEaNINGFuL cHaNGES   ...........  49
+ChApter 5:  DIFFIcuLT-To-HIT STop-LoSSES  ..................................................................  36
+ChApter 6:  SySTEM poSITIoN-SIzING BaSIcS   ...............................................................  42
+introDuCtion:  WHy I cHoSE To WRITE THIS Book  ....................................................   5
+ChApter 1:  MaRkET TypES  .................................................................................................   6
+ChApter 10: HoW BELIEFS SHapE youR TRaDING SySTEM   ........................................  54
+ChApter 4:  coMpLEX EXITS ..............................................................................................   33
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+5
+INTRODUCTION: why I cho Se to wrIte thIS ebook
+This eBook was not planned, rather it evolved. 
+I have dedicated my last eight years as a Forex 
+trader to studying the principles of the world’s 
+top traders. In particular, I have an interest in 
+how they build their trading systems. 
+What I have come to realise is that the market 
+is not random. Rather, it has structure, and 
+patterns based on the collective psychology of 
+the market participants repeat time and time 
+again. and it depends on the quality of the 
+systems that the trader employs as to how well 
+they can harness these patterns to generate 
+profit. 
+When I was asked to write about these topics 
+on the axiTrader blog, the positive response 
+from readers was overwhelming. Here is a 
+selection of comments I received from the first 
+couple of posts: 
+  Thanks for the very enlightening 
+information”
+  Once again thanks heaps for a very 
+informative post. I have learnt far more and 
+gained a far better insight into the world of 
+FX trading from your post than all the other 
+training tools I have been using.” 
+  Excellent pieces”
+  Thank you for sending this information. It 
+is extremely informative and I am looking at 
+starting a whole new system of trading based 
+on your post...Keep up the good work.”
+  I found the blog quite interesting and 
+educational. The tips for trading techniques to 
+suit the different market types was the best part 
+for me.”
+  Thanks for the “Heads up”...It is so easy to 
+get involved in the detail, that you can’t see the 
+wood for the trees! Thanks.”
+as I wrote more posts, the feedback continued 
+to roll in and the idea germinated to collect the 
+articles on system development together in 
+an eBook. So here it is, The Definitive Guide to 
+Building a Winning Forex Trading System, which 
+contains updated versions of some of my best 
+work, along with a ton of new material that is 
+exclusively available here. 
+In the Guide, we will cover everything from 
+market types through to position sizing, and, 
+importantly, how to trade your system mistake-
+free. 
+once you have read through the material, 
+please get in touch and let me know your 
+thoughts. 
+Stay disciplined in your trading, 
+SAm eDer  
+Author & Forex Trader
+(Note: I am not talking about Forex robot systems in this guide. 
+Personally I am a robot-free zone, and The Definitive Guide to 
+Building a Winning Forex Trading System is for use by traders who 
+wish to use their discretion to outperform the markets – not that 
+mechanical traders won’t benefit from this material too.)www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+6
+We have all done it. 
+Embarked on the quest to find the Holy Grail 
+of Forex trading – a system that produces 
+consistent results, week in, week out, with a 
+limited drawdown and a nice upward-sloping 
+equity curve. 
+But there is a problem with the Holy Grail 
+approach to system development that 
+means the search leaves us more frustrated 
+than enlightened. If you can understand the 
+problem, then you will have one of the keys to 
+a winning Forex trading system firmly within 
+your grasp. 
+The problem is the failure to understand 
+market types. 
+Market types – the first key to building a 
+winning Forex trading system
+  Expecting the same system to work in all 
+market types is the definition of insanity.”                
+– Van K. Tharp
+Market type refers to the different stages or 
+states that a market flows through. 
+The market type concept was made popular by 
+trading coach and psychologist van k. Tharp 
+in his books and courses. Tharp believes that 
+while it is insanity to expect a system to work in 
+all conditions, if you can define the market type 
+then it is relatively easy to design a system that 
+provides an edge in that specific market. 
+Think about it.
+If you are in a sideways volatile market, should 
+you be running your buy dips in a trend 
+system? or: how many traders get blown out of 
+the water trying to buy and hold a strong bear?
+While there are up to 25 different market types 
+according to Tharp, there are six that should be 
+of primary consideration when trading Forex. 
+1. Bull normal
+2. Bull volatile
+3. Bear normal 
+4. Bear volatile
+5. Sideways quiet
+6. Sideways volatile
+you can see market types in action if you study 
+a price chart for a moment. you will notice 
+that each currency pair is in constant flux. 
+Sometimes it is trending nicely; at other times 
+it coils into a tight range, or is choppy and 
+volatile. 
+ChApter 1:  Market types 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+7
+ChApter 1:  Market types 
+The core problem with most Forex 
+systems 
+The core problem with most Forex 
+systems (and incidentally why most 
+Forex robots tend to fail in time) is that 
+they are only designed for use on one 
+or two market types. If you instead 
+shift your focus to identifying market 
+types and then applying a system to 
+that market type, you might find your 
+Forex trading becomes more fruitful.
+How to identify the market type
+Market types are not so difficult to 
+identify. Normally it’s just a matter of 
+looking at a chart. 
+If the market is going up quietly then 
+it is a bull normal market type. If 
+it’s going down it’s a bear normal. If 
+it’s in rapid descent or rapid ascent 
+it’s a volatile market. If the price is 
+oscillating between two support and 
+resistance levels then it’s a sideways 
+market. If the sideways range is wide 
+then it’s sideways volatile, if it’s tight 
+then the market type is sideways quiet. 
+The trick is remaining aware. Be 
+centred enough that you can do the 
+following: 
+1. Notice the current market type
+2. Notice when that market type has 
+changed.
+There is a very useful tool you can 
+use to help identify the market type – 
+Bollinger Bands. 
+Bollinger Bands
+The technique here is quite simple. 
+Bring up a chart and apply the 
+Bollinger Bands. Bollinger Bands are a 
+volatility-based indicator. When they 
+contract it is a sign that the market 
+type is normal or quiet; when they 
+expand it is a sign that the market 
+type is more volatile. 
+ 
+you can also use the Bollinger Band 
+to determine direction. If the price 
+is bouncing off either side of the 
+band, then the market is sideways; 
+if it is trending in the direction of the 
+Bollinger Band, then you likely have 
+either a bull or bear market type. 
+Look at the following EuR/NzD 
+30-minute chart and tell me what 
+market types you can identify. 
+
+
+
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+8
+How did you go? 
+In the chart above, you can see the Bollinger Bands contract 
+into a sideways quiet, followed by a breakout to a bear normal, 
+into a bear volatile. The next part is a bit harder to classify but 
+it could be bull volatile or sideways volatile. Next it moves into a 
+sideways volatile followed by a sideways quiet and finally what I 
+would call a strong bull.  
+Now that you can identify market types, is there anything else 
+you notice on the chart? can you spot the transitions?
+
+The secret sauce – market type 
+transitions 
+Markets are like the ocean. 
+The primeval forces of human 
+emotion drive the ebb and flow 
+of the price, just as the wild and 
+unpredictable forces of Mother 
+Nature drive the tides.
+Like the ocean, the market transitions 
+from calm to restless.  
+a stormy night clears into a sunny 
+day. choppy foam settles into 
+a peaceful blue-green glaze…or 
+morphs into a squally and dangerous 
+tempest.  
+just as sideways volatile settles into 
+sideways quiet and then transitions 
+into a strong bull.
+There is an edge if you understand 
+market types, but there is a greater 
+edge if you understand the probability 
+of what the next market type will 
+be. If you know that historically 
+more often than not a bull volatile 
+ends in a bear volatile, then you 
+can plan accordingly. Similarly if 
+you understand that a sideways 
+quiet usually results in a breakout 
+to a bull or bear, then you could 
+develop a system to capitalise on this 
+knowledge.  
+Trading is a statistical game and 
+knowing probabilities is important. 
+Market types across timeframes
+Some of you may be wondering 
+which chart timeframe you should be 
+looking at to determine the market 
+type. 
+The fact is that all charts will display 
+all market types. Really it comes 
+down to preference.  
+ChApter 1:  Market types 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+9
+The lower the timeframe, the more agile you 
+need to be in adjusting to changes – and the 
+more likely you will get fake-outs, so be wary. 
+Higher timeframes give you more time to 
+adjust to changing conditions and your trading 
+efficiency (trading without mistakes) will be 
+higher. 
+Importantly, a higher timeframe is often the 
+set-up for a lower timeframe. For example, 
+once you determine the market type on the 
+weekly charts, you can slide down to the daily 
+or hourly charts to snipe for an entry. 
+Personally I like to define market direction on 
+the weekly or daily charts and then move to a 
+lower timeframe like the 15-minute chart for 
+an entry. Shorter-term market types seem to 
+show up pretty clearly on the 15-minute chart 
+so it could be a good place to start. 
+as a tip, you might notice the market changes 
+type at certain times of day. knowing this can 
+be very valuable for your trading. you might 
+not want to take a range trading position on 
+the London open, for example. 
+Manage your stops based on market type
+If you know that a bull volatile typically turns 
+into a sideways or bear volatile, then you 
+can adjust your stop types based on that 
+information. 
+ChApter 1:  Market types 
+
+For example, you might switch to using a 
+parabolic SaR indicator  with a steep gradient 
+that keeps your stop nice and tight in a volatile 
+market, or perhaps you limit your risk to one or 
+two times your initial stop. 
+Having an appropriate exit system that is 
+intelligently adjusted depending on market 
+type is a good way to keep hold of your profits 
+on a trade.  
+Systems for each market type  
+at the start of this chapter, I mentioned that 
+trying to develop a system that works in all 
+market types is the metaphorical search for 
+the Forex Holy Grail. Instead you could look to 
+build a system that works well 
+in each market type and switch 
+between them as the market 
+type changes. 
+Is it a lot of work? yes it is. But 
+is it worth is? Definitely. 
+Here are a few rough concepts 
+for systems that tend to work 
+in each market type. 
+ Bull normal – buy and hold
+In a bull normal market type 
+you can simply buy and hold 
+with a trailing stop-loss. as long as the market 
+type does not change this can be a pretty 
+successful system. 
+Watch for a change to a volatile market. 
+You might find that that the bull market 
+is coming to an end and it’s a good time to 
+tighten your stop. 
+Here is an example on the NzD/jpy on a daily 
+chart. Notice the long bullish candles and 
+widening Bollinger Bands at the top of the 
+chart, signalling a move to a more volatile 
+market type. Here would be a good time to 
+tighten your stop. 
+
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+10
+ Bull volatile – long swing trading
+Bull volatile markets are suited to 
+a more active trading style. Profit 
+targets are the order of the day in 
+this market type. Look for a pull 
+back, a reversal, and then find a 
+logical profit-taking objective on the 
+long side. you may want to consider 
+dropping to a lower timeframe to 
+improve the risk/reward on the 
+entry.  
+Here is a bull market that has 
+turned volatile on the auD/jpy 
+30-minute chart. See how a buy and 
+hold approach would have struggled 
+while profit targets would have 
+helped you capture the majority of 
+each swing. 
+
+ Bear normal – sell and hold 
+Bear normal markets are the 
+opposite of bull normal markets. 
+Sell short and hold with a trailing 
+stop to help capture the majority 
+of the move. The 2013/14 fall in the 
+auD from 1.06 cents to 88 cents is a 
+good example of this market type in 
+action. 
+
+ChApter 1:  Market types 
+
+
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+11
+ Bear volatile – short swing trading 
+In currencies, the bear volatile is the opposite of the bull volatile 
+(this is not so true if you are trading stocks). Try a short swing 
+trading approach with a profit target that gives you a good risk 
+to reward on your trade. 
+
+ Sideways quiet – breakout 
+There are two ways (at least!) to trade a sideways quiet market. 
+you can move to a lower timeframe and use a band trading 
+system (like in the sideways volatile section below). This 
+approach can be very lucrative if the currency pair stays in this 
+market type for some time. There will be lots of 2:1 and 3:1 risk/
+reward trades you can pick off in a row. 
+ChApter 1:  Market types 
+
+
+often sideways quiet markets result in a strong breakout and 
+trend. Instead of trading the sideways quiet you can stalk the 
+shift to a new market type by trading breakouts. 
+a breakout system is not for the faint-hearted. 
+you will face fake-out and false breakout and then need to 
+have the psychology to hold on for the big wins. But a breakout 
+system that is executed with efficiency is perhaps one of the 
+most powerful systems in the Forex market, where trends can 
+last a long time. you can see the breakout from a sideways quiet 
+market below on this 4-hour chart of the uSD/HkD. 
+
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+12
+ Sideways volatile – band trading
+Sideways volatile markets can be targeted with a band trading 
+approach. 
+In the below example on the cHF/jpy 30-minute chart, I have 
+replaced the Bollinger Bands with moving average envelopes 
+and customised the settings to the timeframe and currency pair. 
+With envelopes you want the majority of action (90% or so) to 
+be contained within the Bands. once the price touches an outer 
+band, look for a reversal off a support and resistance level to 
+give you a nice risk/reward on your trade. 
+
+Don’t throw the baby out with the bath water
+If you have a good system that works sometimes, don’t give up 
+on it. 
+ChApter 1:  Market types 
+
+Instead identify the market types 
+where the system performs and 
+trade those market types only. 
+It’s like playing golf. 
+You pull a different club out of the 
+bag for each different scenario you 
+face. you would never use a putter to 
+hit a tee shot, or a driver when you 
+are stuck in sand. 
+The same applies to trading. Build a 
+toolkit of systems that perform well in 
+different conditions and use them as 
+appropriate, depending on the market 
+type. 
+The hunt for the Holy Grail
+van k. Tharp still believes in Holy 
+Grail systems. 
+But his definition is different. To 
+Tharp, the Holy Grail is a system 
+that performs exceptionally well in a 
+particular market type. Think of it this 
+way. If you know that you are able 
+to meet your trading objectives for a 
+system operating in a certain market 
+type, then all you need to do is hunt 
+for the market type you wish to trade. 
+Imagine if you were a golf player who 
+excels at putting and could only play 
+on the putting green – and still win 
+golf tournaments.
+In trading, you can take this 
+approach.   
+you make the rules of the game so if 
+you only want to trade one market 
+condition, you can.  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+13
+  Although the cheetah is the fastest animal 
+in the world and can catch any animal on the 
+plains, it will wait until it is absolutely sure it 
+can catch its prey. It may hide in the bush for a 
+week, waiting for just the right moment. It will 
+wait for a baby antelope, and not just any baby 
+antelope, but preferably one that is also sick or 
+lame; only then, when there is no chance it can 
+lose its prey, does it attack. That to me is the 
+epitome of professional trading.”     
+– Mark Weinstein 
+Do you remember when you first got into 
+trading? 
+Set-ups are among the first things to enchant 
+the wide-eyed new entrant to the world of 
+Forex. Those glittering charts with all their 
+indicators that promise to give you a glimpse of 
+the future…and all the profit that portends.  
+There are five primary types of set-ups:
+1. Technical set-ups 
+2. News-based set-ups
+3. Big picture fundamental set-ups
+4. Sentiment set-ups
+5. Expert set-ups 
+These set-ups can be used on their own or 
+combined to create high probability, low risk/
+high reward trade ideas.
+But be careful… 
+The essence of a good trading plan is simplicity. 
+pick and choose only the best set-ups that suit 
+your trading personality. Doing more than that 
+is a recipe for disaster as conflicting set-ups 
+cause confusion, indecision and mistakes. 
+ChApter 2:  DaMn GooD set-Ups  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+14
+So you can get an idea of what a good set-up 
+looks like, I have borrowed an example from 
+Sean Lee, the founder of FXWW and Forextell. 
+1  
+you can see how Sean combines a 
+fundamental directional bias with technical 
+factors to generate an idea for a trade. 
+A set-up is not a buy signal
+Great traders stalk their trades like the cheetah 
+lies in wait for the antelope. 
+The set-up is the scenario that occurs before 
+the trade is executed. It is not the trade itself. 
+ChApter 1:  DaMn GooD set -Ups
+once the set-up conditions arise, you don’t 
+necessarily enter straight away. you want to 
+time your entry with precision to increase the 
+risk/reward on the trade. 
+To continue with the cheetah analogy, once 
+the cheetah chooses its prey using patience 
+(the set-up), it still needs to execute the kill 
+(the entry). For this, it has a specific routine 
+involving stealth, speed and strength. The 
+cheetah moves low in the grass using the small 
+rises of the land to disguise its approach. This 
+is followed by a terrifying burst of speed to get 
+close enough to pounce on its prey. Then the 
+cheetah closes in, using raw strength and skill 
+to target the prey’s vulnerable areas with its 
+powerful jaw and sharp claws.  
+I’ll illustrate with an example using a simple 
+volatility contraction set-up on the GBp/
+uSD with a breakout entry. you can see how 
+volatility contracts on the right-hand side of the 
+chart, which is our set-up. 
+2
+2
+1
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+15
+We then wait until we get our specific entry signal before we place the 
+actual trade, which in this case is a breakout buy signalled by a close of 
+the 15-minute candle above the Bollinger Band. 
+3
+and the result of our patience is a trade that returns three to four 
+times our risk depending on our exit system. 
+4
+as a trader you have set-ups that alert you to a good trade, but you 
+still need to time your specific entry to maximise the potential profit.
+How to think about your set-up   
+  Luck is what happens when preparation meets opportunity.”  
+– Seneca (Roman philosopher) 
+Once you find a good set-up, it is helpful to have a framework for 
+thinking about how you are going to best exploit it. 
+consider as your framework:
+• What are 2–4 options of that can come out of this set-up? 
+• How am I going to make money out of this set-up?
+• Where are my potential entry points? 
+• Where are my potential profit targets?
+• What could happen after I enter my trade?
+• Where can I re-enter if I get stopped out?
+• Where can I scale into the trade?
+ChApter 1:  DaMn GooD set -Ups
+4
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+16
+Let’s use our GBp/uSD example again to go through this step by step. 
+In this case, our main set-up is a low volatility sideways market type.  
+What are 2–4 options that can come out of this? 
+What options do I have for a sideways market? Typically it could either 
+breakout or stay within the range.
+How am I going to make money out of this?
+In this example, I think the best risk/reward trade opportunity is the 
+breakout, so I will ignore the range trade for the moment.
+Where are my potential entry points? 
+ a close above or below the Bollinger Band on the 15-minute charts 
+would be a suitable entry on this set-up.  
+Where are my potential exit points?
+as I believe that prices tend to move towards the clusters of stops at the 
+highs and lows (represented by the red lines on the chart below), I see 
+these as potential profit areas. 
+I could place my stop on the lower Bollinger Band, meaning that I have a 
+risk/reward of at least 3:1 on the trade. 
+I would also look to apply the complex exits approach in chapter 5 to the 
+trade. 
+5
+What could happen after I enter my trade?
+once I enter into the trade, there are four things I think could happen: 
+1. The breakout continues and a trend forms 
+2. The breakout fails and goes down and hits my stop-loss
+ChApter 1:  DaMn GooD set -Ups
+3. There is strong reversal signal
+4. The strong reversal signal fails and 
+the breakout continues.
+I should consider how to handle each 
+option and note it down if it is not 
+already in my trading plan.
+Where can I re-enter if I get stopped 
+out?
+If I do get stopped out, then I would 
+look to re-enter in either direction if I 
+get a similar signal. 
+Where can I scale into the trade?
+If I get a reversal failure, I will scale 
+into the position on a close over the 
+reversal candle. 
+If a strong trend develops from a 
+breakout, then that is a new set-
+up that allows me to add another 
+position, in the direction of the trade. 
+(I would then need to ask myself the 
+same set of questions about the new 
+set-up.) 
+5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+17
+ChApter 1:  DaMn GooD set -Ups
+Selecting your system’s currency pairs is part of your set-up
+It’s my bet that you have been told to keep it simple and stick to the 
+major currency pairs such as EuR/uSD or GBp/uSD. 
+While this may be true for some of you, the smarter trader might 
+decide to trade the cross rates instead. Don’t be shy in exploring the full 
+spectrum of currency pairs that are on offer to see what is going to best 
+suit your system. The cross rates often now have spreads that are very 
+close to the majors, and because less people specialise in them, you 
+may find you develop a nice edge by choosing to focus on them.  
+The art of the chart – some damn good technical set-ups  
+  The 10-day exponential moving average (EMA) is my favourite 
+indicator to determine the major trend. I call this ‘red light, green light’ 
+because it is imperative in trading to remain on the correct side of 
+moving average to give yourself the best probability of success. When 
+you are trading above the 10-day, you have the green light, the market 
+is in positive mode and you should be thinking buy. Conversely, trading 
+below the average is a red light. The market is in a negative mode and you 
+should be thinking sell.”  
+– Marty Schwartz 
+Some of the simplest and best set-ups are derived from the art of 
+technical analysis. 
+your primary guide should always be price. Ignoring what the price is 
+telling you is the nautical equivalent of ignoring a rocky outcrop because 
+it is not marked on your ship’s chart. 
+Don’t ignore the evidence in front of 
+your eyes. 
+But there are hundreds of set-ups that 
+you can potentially use, so let’s help 
+you simplify by selecting a few of the 
+most useful.
+Know your market type
+Market types (see chapter 1) make 
+excellent set-ups. you should be aware 
+of the market type you are in before 
+you trade. In addition, consider using 
+the transition from one market type to 
+the next as the set-up. 
+6
+6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+18
+ChApter 1:  DaMn GooD set -Ups
+Use a trend filter to befriend the trend 
+Forex system development is about trial and error. you can make systematic 
+changes step by step, which will improve your results over time. a trend 
+filter is a set-up that can be used in this way.  
+you simply apply a trend-following indicator to a chart and never trade 
+against it, like Marty Schwartz with his 10-day EMa. If the price is above 
+the indicator you never go short; if it is below the indicator then you 
+never buy. 
+7
+You can test the effectiveness of a trend filter by back-testing, either 
+manually by looking on the charts or, if you have the skills, by programming 
+a back-test. personally I like manual testing as it can give you insights you 
+can’t glean from a computerised back-test (though the same could be said 
+for the reverse).
+10-day Exponential Moving 
+average 
+you would never trade against 
+the 10-day EMa. In this case 
+your entry would be on a lower 
+timeframe.
+Displaced moving average. Try 
+a 25-period moving average 
+displaced by 5 periods for 
+short-term trends or on a 
+higher timeframe for long-term 
+trends. 
+I came across this indicator 
+through joe DiNapoli who 
+recommends displaying moving 
+averages to avoid whipsaws 
+experienced by the typical 
+moving average.
+Displaced moving average. Try a 
+200 x 5 period moving average 
+on your entry timeframe.
+a variation of the 25 x 5 above 
+for use on the main timeframe 
+you use for the trade.
+MacD – Normal settings of 
+12/26/9
+you can use this on both your 
+entry timeframe and on a 
+higher timeframe.
+ MacD – Settings of 70/200/70 use this on the main timeframe 
+you use for the trade.
+Some useful trend filters  
+Marty Schwartz’s 10-period EMA on a daily chart
+7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+19
+ChApter 1:  DaMn GooD set -Ups
+Let’s look at an example of how a trend filter works using the 70/200/70 
+MacD. In this example, I am operating a simple support and resistance 
+trading system that sells on resistance in a downtrend and buys on support 
+in an uptrend. The exit is on the opposite support/resistance level. Each 
+winning trade has a 3:1 risk/reward ratio. 
+8
+By trading with the trend filter there are five wins and three losses, but 
+the winners are three times bigger than the losers, returning twelve 
+times the amount risked over eight trades. 
+Note this is an idealised example. With any trend filter you can experience 
+periods of whipsaws as markets consolidate before a new trend forms. 
+Chart patterns, trend lines, and support and resistance levels 
+make excellent set-ups 
+Maybe you’re an avid chartist, with a comprehensive knowledge of 
+charting that you don’t want to go to waste. 
+Never fear – your carefully drawn triangles, wedges and Fibonacci levels 
+can serve as perfect set-ups. 
+The distinction here is that when you use a chart pattern as a set-up, it is 
+not your entry. once you see a likely pattern, you then move to a lower 
+timeframe to improve the risk/reward on the trade. For example, on the 
+GBp/caD trade we have a resistance level on the weekly chart that has 
+held six times before the breakout finally comes. 
+9
+8 9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+20
+ChApter 1:  DaMn GooD set -Ups
+after the breakout, rather than rushing to enter the market, you move to a 
+shorter timeframe to improve the risk/reward on the trade. 10
+you can see that not only do you improve the risk/reward on the trade 
+by using the resistance level as a set-up instead of an entry, but also you 
+could have potentially avoided several failed breakouts. 
+Some damn good news-based set-ups 
+Some people are attracted to Forex trading for the buzz of it. 
+you can spot them a mile away. 
+They have itchy trigger fingers, they trade big because it gives them a 
+rush, and they tend to lose. Forex trading is not the place to get your 
+thrills. That part of your psyche 
+needs to be put aside when you 
+trade. Needless to say, this type 
+of trader is attracted to the thrill 
+of the news announcement. The 
+promise of quick profits is hard for 
+the gambler inside to resist. 
+And this presents opportunity. 
+Where there is a lack of discipline 
+and emotion in the markets, there 
+is profit potential for the prepared 
+and patient trader. For you to take 
+advantage of this opportunity, you 
+will need a thorough knowledge 
+of news set-ups. Here are some 
+important ones. 
+10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+21
+How has price has reacted to this news 
+event in the past? 
+you can get this information from a service such as autochartist’s event 
+impact analysis tool.
+What have previous news results been 
+like?
+Do they come in as expected or is there a typically a variance? How does the 
+market typically react if numbers come in over or under? you can see past 
+results in any decent Forex economic calendar.
+How important is the event? Some events move the market more than others. Again, you can find this in 
+an economic calendar.
+How long do the moves typically last? The reaction to events can be fleeting or can last for months. Try to know 
+how long you can expect the move to last. 
+What are analysts’ predictions? you could read your favourite sources of expert commentary about what to 
+expect from the news event. Try www.forextell.com. 
+Do you think what the market expects has 
+been priced in?
+Harder to gauge, but see if you can glean from market sentiment, analysts’ 
+commentary or chatter if the market is overly long or short and likely to get 
+caught out. 
+Is there news divergence? a powerful set-up can occur if the price reacts the opposite to how it 
+should. For example, if there is negative news and the price reacts positively 
+then it could be a good set-up for a buy.
+If it is an interest rate announcement, 
+what do the Central Bank minutes say? 
+Some traders read the central Bank minutes to get an insight into their 
+directional bias. 
+ChApter 1:  DaMn GooD set -Ups
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+22
+ChApter 1:  DaMn GooD set -Ups
+When two trades diverge 
+Trading the news presents you with a clear 
+choice. Do you enter your trade
+• Before; or
+• after? 
+This decision will influence how you use the 
+news as a set-up. 
+If you are placing your trade prior to the event, 
+then it is your prediction of what is actually 
+about to occur that is the set-up. If you are 
+waiting for the news result to come out, either 
+for a technical move or for the news result to 
+become apparent, then this is actually your 
+set-up. 
+Some damn good fundamental set-ups 
+In effect most fundamental information 
+is a set-up. Here are two very important 
+fundamental set-ups you could consider 
+before each trade, particularly if you are 
+holding long-term positions. 
+interest rates  
+The interest rate differential between countries 
+is one of the best predicators of currency 
+movements. 
+currency trading can be seen to be a form 
+of leveraged fixed interest trading. So if a 
+currency pair has a higher rate, then it can 
+be an attractive long-term buy. When there is 
+demand, there tends to be price increases. 
+In addition, they have a very real impact on 
+your account balance. If you are buying the 
+currency pair with the lower interest rate, 
+you are likely to have the interest charge 
+subtracted from your account each day. 
+chris Lori, a popular american trader, takes 
+this set-up very seriously. He recommends 
+trading only the auD/jpy and only buying auD 
+so that he is always earning interest on his 
+trades. 
+There is an example of interest rates at work 
+on the following chart. Here you can see the 
+correlation between the spread on German 
+and uS bonds, versus the price of the EuR/
+uSD. 
+11
+11
+Source: Forexlive.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+23
+ChApter 1:  DaMn GooD set -Ups
+Central bank bias  
+It used to be all about interest 
+rates, but after 2008 central banks 
+across several major developed 
+nations dropped interest rates to 
+close to zero. 
+Their main tool became 
+quantitative easing, where 
+(essentially) they would inject cash 
+into the economy in exchange 
+for toxic debt. This bias towards 
+easing had a telling impact on the 
+movements of currency pairs. 
+Thus currency traders tune in to 
+the easing or tightening proclivity 
+of central bankers to get an idea 
+of the direction they want to 
+trade. you can see the impact 
+quantitative easing has on the 
+movement of currency pair on the 
+following chart of the EuR/uSD. 
+12
+So take note of directional biases 
+caused by fundamentals as they 
+can make very good set-ups for 
+longer term trades. 
+Some damn good expert  
+set-ups
+Trade ideas dominate Forex 
+websites and for the uninitiated 
+it can be hard to sort the wheat 
+from the chaff. 
+But if you do find an expert 
+source of information about the 
+Forex pairs you are tracking, it 
+can give you a built-in edge. The 
+experience and connections of 
+those in the industry are not easy 
+for us retail traders to emulate 
+and their trade ideas can prove 
+well worth tracking. 
+you should not go all in on the 
+“hot tip” of an expert. you should 
+treat an expert’s trade idea like 
+you would any other set-up. It is 
+simply a component to be added 
+into your complete Forex trading 
+system. 
+Why not follow these ideas in 
+full? Because you have your own 
+unique objectives, psychology and 
+motivations, which if not considered will lead to trading failure. 
+What will you do if the experts you are following: 
+• Experiences a drawdown 
+• Trades a timeframe that does not suit you, or 
+• Doesn’t give you a place to put a stop-loss? 
+And they certainly won’t have a position-sizing model designed to fit you. 
+If you don’t treat their ideas as your own in an integrated manner, then 
+over time the incongruences will pile up and you will make mistakes that 
+harm your trading account. 
+12
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+24
+ChApter 1:  DaMn GooD set -Ups
+Some more damn good 
+set-ups  
+Set-ups abound. Wherever 
+you can find a Forex trader 
+you can find a new set-up. 
+In fact entire books have 
+been written on one or two 
+set-ups alone. Here are a 
+few more set-ups that you 
+should know about. 
+(please note that just 
+because I did not include 
+these above does not mean 
+they are any less useful or 
+important. It all depends 
+on the trader and the edge 
+they are seeking to find.) 
+See which ones suit you 
+and your trading style. 
+avoid the temptation to 
+overcomplicate. you must 
+have a specific reason for 
+adding a set-up into your 
+plan, and then you should 
+rigorously test it like a 
+scientist tests a hypothesis. 
+Time of day/
+session 
+The time of day and the session you are trading in can have a big influence on the outcome of 
+your trade. 
+Divergence Lookout for indicators that are signalling a change in trend before the price reverses.
+Size of the candle Large candles can signal an important event has happened that may create a change in the 
+trend.
+Information about 
+the order flow
+Information about where orders and stops are sitting in the markets can be excellent set-ups. 
+Options barriers If market participants are looking to either protect their options from execution or make sure 
+that an option is executed, then their actions could move the market.
+Sentiment 
+indicators
+Sentiment trading is a relatively new innovation in the  
+Forex market. By knowing which way the “herd” is positioned,  
+you can choose to either follow or fade the trend. 
+(Continue next page)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+25
+ChApter 1:  DaMn GooD set -Ups
+Correlations correlations between currency pairs can be important leading indicators across multiple 
+timeframes.
+Upcoming news 
+events 
+If you assess the events that you have on the horizon for the coming week, you can get a sense 
+of what can move the market and where. 
+Why a pattern is 
+formed 
+If a pattern is formed because of a news event or not. 
+Seasonality Historically currency pairs may have performed differently based on the time of the year. You 
+can see an example in this chart where for the last 5 years uSD/jpy has been strong in March. 
+(chart courtesy of kathy Lien)  
+Environmental or 
+geopolitical events 
+Such as 9/11, the japanese tsunami or Russian troops in the crimea in 2013 can heavily 
+influence the direction of currency pairs.
+Corporate buyers  a large corporate purchasing currency (perhaps due to a merger and acquisition) can be a 
+powerful set-up. 
+(Table continued) Here’s what to do next
+Smart traders know that 
+the search for the perfect 
+combination of set-ups is a 
+chimera. 
+as you develop your Forex 
+trading strategy, you will be 
+tempted to spend the lion’s 
+share of your time in this 
+area. 
+But don’t be so easily 
+seduced. 
+I suggest you choose:
+1. a market type
+2. A trend filter 
+Then choose one other set-
+up from those listed above 
+(or one of your own that 
+you already like). 
+and simply move on. Go 
+and work on other aspects 
+of your system or your 
+position sizing. you can 
+then experiment with the 
+set-up as a variable as you 
+make changes down the 
+track.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+26
+The questions I get asked the most about 
+Forex trading are: 
+1. When to enter
+2. Where to place your stop 
+3. When to exit.
+They are some of the most important 
+questions you’ll answer in your Forex trading 
+plan. Together they form the decision-making 
+engine of your Forex trading system.
+over the next three chapters we will cover each 
+of these questions, but before we get started, 
+the first step is to understand how they fit 
+into your trading plan. While entries and 
+particularly exits are critical to your system’s 
+performance, we have not yet touched on your 
+trading psychology, your position-sizing model, 
+how to trade mistake-free, or the power of 
+objectives. 
+you can have the best entries and exits in the 
+world and still lose if you don’t integrate all 
+these factors. My belief is that around 15% of 
+your energy should be spent on this area, with 
+the majority of that time on the exit part of the 
+equation. 
+you have spotted it, right? 
+I started this chapter by talking about the 
+importance of entries and exits and now I am 
+saying they are not to be treated with such 
+reverence. 
+The reason why this is important is because if 
+you spend too much of your focus searching 
+for the Holy Grail entry, then you will 
+experience a major time-suck…or worse, end 
+up with a half-baked system that costs you not 
+only time but also money. 
+ChApter 3:  siMple entries anD re-entries  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+27
+ChApter 3:  siMple entries anD re-entries
+The true role of entries and exits  
+Each trade is like a draw from a lucky dip or a 
+spin on the wheel of fortune. 
+The better your entries and exits, the more 
+winners in the draw, the easier it will be for 
+your Forex trading system to meet your 
+objectives. your goal for your entries and exits 
+is to add as many winning tickets into the draw 
+as possible – or to add in tickets that when you 
+do pull them ensure you win the jackpot. 
+When you internalise this concept, you can 
+start to see how entries and exits fit into the 
+bigger picture of your Forex trading system. 
+They lose their mystical appeal. you don’t need 
+to have a system that is perfect, just one that 
+produces enough winners over time, with 
+which you can bet enough on each trade to:
+1. Not experience a drawdown over 25% (it’s 
+hard to recover from a drawdown this large 
+without being extra risky – see the table);
+2. achieve your objectives over time. 
+Are high probability entries better? 
+Building a trading system is a little like building 
+a house. 
+When you construct a house, you decide how 
+many rooms it will have, the layout, how many 
+floors and so on. These decisions are based on 
+your needs (objectives), budget (trading capital) 
+and what suits your personality (psychology). 
+Similarly, when you develop entry and exit 
+rules for a Forex trading system, you get to 
+choose things like its targeted risk/reward 
+ratio, win rate and the number of trades over 
+a time period (i.e. five trades a week). Your 
+choices here will be a reflection of your needs, 
+budget and goals.  
+Take a look at these three basic examples of 
+Forex trading systems. 
+ System 1 
+System 1 generates 10 trades a month with a 
+90% win rate. Winning trades make $100 and 
+losing trades lose $1000.
+ System 2
+System 2 generates 80 trades a month with a 
+60% win rate. Winning trades make $60 and 
+losing trades lose $50. 
+Recovering From a Drawdown
+Trading account 
+loss %
+Gain required to 
+recover %
+5 5.3
+10 11.1
+15 17.6
+20 25.0
+25 33.3
+30 42.9
+35 53.8
+40 66.7
+45 81.8
+50 100.0
+55 122.0
+60 150.0
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+28
+ChApter 3:  siMple entries anD re-entries
+ System 3 
+System 3 generates 10 trades a month with a 15% win rate. Winning 
+trades make $1800 and losing trades lose $150. 
+Before you read on, which system would you prefer? 
+Note it down along with the reasons why it is your system of choice. 
+1
+Here are the results for a month’s 
+trading for each system in dollars:
+• System 1 with a 90% win rate 
+had a $100 loss 
+• System 2 with a 60% win rate 
+had a $1280 profit
+• System 3 with a 15% win rate 
+had a $1425 profit.
+What do you notice here?
+The system that made the most 
+profit had the lowest winning rate – 
+and the system that lost money had 
+the greatest win rate. 
+Now would you still choose the 
+same trading system you chose 
+above? 
+When you are developing your entry 
+and exit, the one with the most wins 
+is not always the best. Be careful not 
+to fall into this trap. 
+(as a side note, it is possible to have 
+a system that has a high win ratio 
+and larger losses than profits. It’s 
+just tough if you experience four or 
+five losses in a row, so make sure 
+you position size accordingly.)
+A risk/reward ratio filter for 
+your trades
+Entries and exits should never exist 
+independent of each other. Their 
+relationship can be expressed 
+though the risk/reward ratio. your 
+risk/reward ratio is how much you 
+can potentially profit on the trade 
+compared to your initial risk. 
+you determine this by working out 
+your initial stop and profit objective. 
+For example, if you are risking $1 
+to make $3 you would have a risk/
+reward of 3:1, like you can see on 
+the below uSD/caD chart. 
+1
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+29
+ChApter 3:  siMple entries anD re-entries
+It can be beneficial to have a rule 
+in your trading plan that you only 
+place trades that have a certain risk/
+reward ratio. 
+you may only take trades that have 
+a risk/reward ratio of 3:1 on longer-
+term positions, or of 2:1 on shorter-
+term positions. This would mean 
+you avoid placing the following 
+trade (or look for a profit objective 
+further out). 
+2
+Entries vs. re-entries 
+For the sake of system development 
+we define some types of entries as 
+re-entries. 
+Re-entries occur in two 
+circumstances:
+1. The initial entry is stopped out 
+but the set-up conditions still 
+exist. I.e. a breakout fails and 
+then goes back within the range 
+before attempting to breakout 
+again. 
+2. The initial entry is successful 
+and you get a new set-up that 
+you want to take. I.e. you enter 
+on a breakout and the market 
+starts to trend. you then get 
+the chance to add an additional 
+position based on a pullback in 
+the trend. 
+The trick to using re-entries is in 
+the planning. If you have just had 
+a losing trade, or are already in a 
+winning trade, it can change your 
+psychology and cause you to make 
+mistakes.
+Note down in your trading plan 
+exactly what you will do in a re-entry 
+scenario. 
+Reversals 
+occasionally you will be in a trade 
+and get a set-up for a trade in 
+the opposite direction. Like re-
+entries, these can be a little difficult 
+psychologically as you could be 
+influenced by your current position.
+2
+What to do? 
+as above, it is all in the planning. 
+Note in your trading plan:
+• What constitutes a reversal?
+• under what circumstances will you take a reversal?
+• What if you get another reversal after you have already taken a 
+reversal? Do you reverse again? 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+30
+ChApter 3:  siMple entries anD re-entries
+Simple entry techniques work 
+Simple entry techniques allow you 
+to focus on managing your trade 
+after you enter rather than on 
+interpreting a jumble of indicators 
+to work out the best time to buy. 
+a good entry has two main criteria. 
+ The set-up
+a set-up is a condition you watch 
+for prior to entering your position, 
+which is chapter 2 in this eBook. 
+once your set-up occurs, you then 
+move into stalking mode for a high 
+quality entry. 
+ The entry
+Now you become the hunter or 
+huntress, spear in hand, pursuing 
+a high-quality entry with dogged 
+determination. you are face-to-face 
+with the markets, unwavering while 
+you wait for the perfect moment to 
+strike. 
+When the time comes, you execute 
+with aplomb, your supreme skill 
+ensuring you net your target with 
+ease… 
+Typically you will look to drop to 
+a lower timeframe from your set-
+up to improve the risk/reward 
+ratio. you could then employ a 
+technical analysis technique such as 
+candlestick analysis for the actual 
+entry. For example, on the earlier 
+uSD/caD trade, if you went to a 
+lower timeframe you would have 
+seen a strong reversal pattern (a 
+spinning top followed by the bullish 
+engulfing candle) that would have 
+allowed you to get in earlier and 
+improve the risk/reward ratio. 
+3
+Entry methods that work 
+almost all entry methods work, but 
+they work differently depending on 
+your set-up, psychology, objectives 
+and the market type. 
+ Candlestick patterns
+price action candlestick patterns 
+can be excellent entries as these 
+give an indication of the buying and 
+selling pressure between market 
+participants. 
+4
+3
+4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+31
+Indicator cross-over  
+Indicator cross-overs are popular for 
+their simplicity. They tend to work 
+better in trending markets. 
+Some indicators that can be used 
+for this approach include:
+• Moving averages
+• MacD
+• Stochastics  
+5
+ Price crosses moving average
+as a variation of the moving average 
+cross-over approach, simply place 
+your trade when the price either 
+touches or closes over the moving 
+average. You will find that you get 
+into your trade earlier, but that you 
+suffer more whipsaws.
+Here I have zoomed in on the above 
+chart so you can see the difference. 
+6
+ Breakout 
+There are 2 main ways or methods 
+you can use to trade a breakout. 
+1. use a limit or stop order that 
+enters automatically once the 
+price moves outside the range. 
+This will ensure you get in even if 
+the breakout bar is strong. 
+2. Wait for the price to close 
+outside of the breakout range. 
+you may avoid some whipsaws 
+with this method, at the cost of 
+either missing the breakout or 
+entering later with an inferior 
+risk/reward. 
+ChApter 3:  siMple entries anD re-entries
+5
+6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+32
+ChApter 3:  siMple entries anD re-entries
+Method 1 example: 7
+Method 2 example: 8
+ Support and resistance levels
+Gutsy traders can enter on support 
+and resistance, trusting in the level 
+to hold. This entry can improve 
+the risk/reward on the trade, but 
+can decrease your percentage of 
+winners. 
+9
+So in summary, here is the entry 
+process in its entirety: 
+1. Wait for your set-up conditions
+2. Drop to a lower timeframe 
+3. apply your chosen entry 
+technique
+4. check your risk/reward is 
+acceptable
+5. unleash your inner trader to 
+execute the entry flawlessly.
+once you have entered, the real 
+trading begins. you need to manage 
+your trade to capitalise upon how 
+the market moves. you do this using 
+complex exits. 
+7
+8
+ 9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+33
+Complex exits are essential to building a 
+winning Forex trading system that works  
+for you. 
+The term “complex exits” is somewhat 
+misleading. Each exit is quite simple on its own. 
+The complexity comes with the variety of exits 
+that are required so that you can:
+1. Trade what is in front of you
+2. achieve your objectives.
+It is how you react to what happens after you 
+enter the trade that matters. Here is a list of 
+some exits to consider for your trading system. 
+ Profit target
+A profit target is an order you place in the 
+market to close your position once it hits a 
+certain price. These are useful in sideways 
+markets, but some experts suggest that they 
+work well in trends too.
+ Profit objective
+A profit objective is different to a profit target. 
+A profit objective is a goal for your trade. When 
+you understand your system, you will know 
+how much profit a trade is capable of making. 
+you can then manage the trade in a way that 
+seeks to maximise profits. 
+all sounds a bit mystical? 
+In essence, it is about letting profits run 
+or altering profit targets based on what 
+the market is doing in front of you, while 
+considering the objectives identified for the 
+trade before it was placed.
+ Trailing stop (price or indicator)
+a trailing stop (surprise, surprise) trails the 
+current market price. There could be a whole 
+article on trailing stops there are so many, 
+suffice to say they can be based on a set price 
+(say 50 pips) behind the market or they can 
+be based on an indicator such as a moving 
+average. 
+If you like moving averages, try displaced 
+moving averages. There is something to them, 
+but I don’t use them myself these days as I 
+tend to look at price action for my exits, but for 
+certain trading styles they are very good.
+I will cover two more types of trailing stop 
+below that are particularly important.  
+ChApter 4:  CoMplex exits   
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+34
+ Rapid market trailing 
+stop
+Sometimes the market defies 
+gravity and launches into a 
+rapid move, only to come 
+crashing back down. 
+If you are in a trade that takes 
+off like this, then you can 
+adjust your trailing stop to 
+avoid giving back your gains. 
+perhaps you go to a lower 
+timeframe or are prepared 
+to only give back one or two 
+times your risk. you can see 
+on this one-hour chart on the 
+uSD/jpy how speedy moves 
+can quickly reverse. 
+1   
+ Support and resistance 
+trailing stop
+Support and resistance are 
+difficult prices for the market 
+to move through. They also 
+form a platform for a further 
+extension of the price. With 
+a support and resistance 
+trailing stop, you logically trail 
+your stop behind the market 
+in order to protect profits. 
+ChApter 4:  CoMplex exits 
+1 2
+3
+Be wary of short, sharp penetrations of 
+resistance levels, and be ready to get back in 
+using a re-entry. 
+2  
+ Price action
+you can exit based on price action. For example, you 
+might see a candlestick reversal pattern that indicates 
+the trend is coming to an end. 
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+35
+ Large daily move
+Depending on your trading timeframe, if there 
+is a large daily move of say 300 pips, you 
+could look to sell as the market has most likely 
+overshot. 
+ Fundamental exit 
+you can exit a position based on market 
+fundamentals and news. For example, you 
+might close out of your short-term positions 
+prior to a major news announcement or exit a 
+position following negative news. 
+ Time stop 
+You may exit after a specific period of time in a 
+trade or on Friday before the market closes for 
+the weekend. 
+ The cross rates
+Savvy traders often monitor the cross rates 
+to get an indication of the direction of the 
+currency pairs they are trading. If the price 
+action on the cross rates is signalling weakness, 
+then it might be time to exit your trade. 
+ Expert exit 
+If you follow a particular expert, you may 
+choose to close your position if they suggest 
+the market is about to turn. 
+ Risk/reward stop
+With a risk/reward stop, you adjust your stop-
+loss to maintain a minimum risk/reward of at 
+1:1 at all times. This powerful approach helps 
+you to maintain your profits if your trade gets 
+close to your profit target, does not touch it, 
+and reverses.
+ Account target 
+If you have a specific account-based goal such 
+as 25% for the month, then you may close all 
+positions in your account once this target is 
+achieved. 
+ Scale out 
+By scaling out, you exit portions of your 
+position, based on different criteria. For 
+example, you might take a small amount off 
+when the market first makes some available, 
+some more at a pre-planned target, and finally 
+leave some on a trailing stop to capture the big 
+wins. 
+Complex exits enable you to trade the 
+market in front of you
+By having a variety of exit systems in your 
+toolbox, you can effectively manage your 
+position based on what happens in the market 
+after you enter. 
+you can intently watch the market and adapt 
+to its movements in order to generate the best 
+possible result for your trade. 
+Be in the moment with it. 
+as a trader you can only plan and then be 
+present. once you execute the trade you are 
+simply experiencing, not creating. your exit 
+decision should be based on what the market 
+is doing right now, not dependent on a perfect 
+recreation of a historical pattern that conforms 
+to your back-tested indicators.
+It’s not difficult.  If you enter simply and apply 
+the right exit to the right scenario. 
+as always, I encourage you to get out your 
+trading plan or trading journal and integrate 
+this lesson into your Forex trading for 
+maximum effect. Pick one or two exits from the 
+list you’d like to add today. over time you can 
+come back for more.    
+ChApter 4:  CoMplex exits 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+36
+ChApter 5:  DiffiCUlt-to-Hit s top-l osses   
+Do you sometimes feel like the market is out to 
+get you? 
+Have you ever had your stop hit at what turned 
+out to be the low? Was it just bad luck? or is 
+there something more at play? 
+The chances are there actually is. 
+Forex trading is a zero sum game and you can 
+bet that the strong players (the bank dealers) 
+with more information, more money and the 
+ability to move the market are out to get as 
+much easy profit as they can. This means that 
+the retail players left holding the weak hand 
+(you and me) had better watch out. 
+But the dealers can be beat. 
+Having the advantages dealers do breeds 
+complacency. Most of them are not actually 
+very good traders once you take them away 
+from their screens and their order flow 
+information. They also are not good at risk 
+management when they don’t have corporate 
+orders to backstop their poor trades.  
+[Note: corporates are the real losers in the 
+Forex market. Retail traders (and other not-
+so-savvy bank traders) do provide a constant 
+source of profit for the bank dealers, but we 
+are still small fry compared to the seven trillion 
+dollars of foreign currency that are traded each 
+day.]
+By sidestepping dealer traps and learning 
+how to place your stop-loss in places that are 
+difficult for the dealer to hit, you could add 
+significantly to your trading bottom line. 
+The first step to this is to understand dealing 
+ranges… 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+37
+ChApter 5:  DiffiCUlt-to-Hit s top-l osses  
+How dealing ranges influence 
+the price 
+Dealing ranges drive market 
+behaviour. 
+a dealing range is simply a high and 
+a low for a trading session or a time 
+period, such as day, week or month. 
+Dealers use these levels to work 
+out their orders and manage their 
+positions. you can see examples of 
+dealing ranges on the 15-minute 
+chart of the EuR/uSD here: 
+1
+Dealing ranges exits on multiple 
+timeframes. you can see the dealing 
+ranges here on the 4-hour chart: 
+2
+Dealing ranges are imprecise. The 
+edges of the range are often pierced 
+and the levels the dealers use for 
+reference are fluid. 
+you will notice that an old dealing 
+range will often form the basis for 
+a new dealing range; i.e. they act as 
+support and resistance levels. This 
+is a type of market structure that is 
+tradable and can provide you with 
+an edge.   
+In the following chart you can see 
+old ranges are used as reference 
+points for new ranges where I have 
+marked with a red dot. 
+3
+1
+2
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+38
+ChApter 5:  DiffiCUlt-to-Hit s top-l osses  
+Traders who are taught to put their stops behind support and 
+resistance levels will often put their stop-loss orders behind dealing 
+ranges. But the problem for these traders is that their stops then 
+become a target for the bank dealers. (This is also true of any major 
+level.) 
+you can see this quite clearly on most Forex charts. on the following 
+chart, I have marked with red dots where a move has taken out 
+stops before reversing above or below either the dealing range or a 
+support and resistance level. 
+4
+you can see how often your stops would be taken out if you were 
+not careful about your entry or where your stop-loss was placed.  
+So the solution is simple, right? Widen your stops and don’t put them 
+so close to the edge of the dealing range. 
+Not so. There are other factors to consider first.  
+4
+Tight stops improve the risk-to-
+reward ratio of your trades 
+There is a problem with widening 
+your stops. 
+Every extra pip you give away means 
+that when you have a losing trade 
+you will lose more, or when you win 
+you will have traded a smaller size 
+to compensate for the wider stop. 
+Both of these methods will have a 
+negative impact on the risk/reward 
+ratio of your trades. When you do 
+win, you will make less than if you 
+had a tighter stop. On the flipside 
+of the coin, it could mean that you 
+will have more winning trades to 
+compensate for the smaller wins. 
+By widening your stop, your win 
+percentage improves. 
+Stop-losses are inextricably 
+linked to your entry system and 
+trade objectives
+This goes without saying. 
+your stop-loss should be a logical 
+extension of your entry system 
+and the objectives you have for the 
+trade.
+For example, if you are a trend 
+follower looking to catch a breakout, 
+you might have a tight stop-loss that 
+you expect to get hit more often 
+than not. or if your goal is to have a 
+3:1 risk/reward ratio on your trade, 
+you will have a tighter stop that if 
+you are going for 1:1. 
+Logically choose a stop that fits 
+holistically into your trading system. 
+Market types and stop-losses 
+as the market types shift and 
+change, so should your approach to 
+the market. 
+This goes for stop-losses too. 
+consider if your stop-loss placement 
+is suited to the current market type. 
+In addition, be prepared to change 
+your stop-loss if the market types 
+change during a trade. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+39
+ChApter 5:  DiffiCUlt-to-Hit s top-l osses  
+common wisdom espouses that during a volatile market type you 
+should widen your stop-loss. I am of a different opinion. If the 
+market type becomes volatile you want to tighten your stop-loss. 
+The markets have just got a whole lot more hairy and you don’t 
+want to give the market room to move against you. you will need 
+to be prepared to be stopped out more often in this market type. 
+However, by having tight stops, you will have the opportunity for 
+some quick profits if things do go your way. 
+5
+Superior options for stop-loss 
+placement 
+you have four main 
+considerations for stop-loss 
+placement: 
+1. The dealing ranges
+2. The risk/reward ratio
+3. your entry and trade 
+objectives
+4. The market type. 
+understanding this, here are 
+some different systems for 
+placing stops that can help to 
+improve the profitability of your 
+trades. 
+classic support and resistance 
+stop-loss 
+The classic place for Forex 
+traders to place stops is behind 
+support and resistance levels. 
+just be aware of the stop-hunting 
+intentions of those participants 
+who can move the market. you 
+could put your stop 7–25 pips 
+beyond the level (depending 
+on your timeframe), which will 
+help you to avoid some of the 
+whipsaws, but remember this will 
+impact the risk/reward on the 
+trade. 
+6
+5
+6A note on volatile market types 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+40
+ChApter 5:  DiffiCUlt-to-Hit s top-l osses  
+ Shakeout stop-loss
+This is perhaps a smarter way to 
+place your stop-loss. 
+Wait until after the stops have 
+been hunted and the price has 
+reversed before you enter. Then 
+place your stop-loss either directly 
+behind the support or resistance 
+level (or even slightly inside it) to 
+improve the risk/reward on the 
+trade.  on the following chart, you 
+can see how once the stops have 
+been taken out (the thin red line) 
+it is now safe to place your own 
+stop-loss (the thick red line). 
+7
+ Indicator stop-loss 
+Indicator stop-losses can be quite 
+useful for three reasons:
+1. They give you a consistent 
+place to put your stop that 
+requires little discretion 
+2. They are (or should be!) 
+relevant to your entry and 
+trade objectives
+3. The stop will not be in the 
+usual place that dealers go 
+a-hunting. 
+For example, you could put your 
+stop-loss on the blue (100 period) 
+moving average on the 15-minute 
+chart of the uSD/jpy when you 
+enter short on this moving 
+average crossover system.  
+8
+7
+8
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+41
+ChApter 5:  DiffiCUlt-to-Hit s top-l osses  
+ The dealer’s worst enemy – 
+the mid-air stop-loss 
+To avoid being a target for the 
+bank dealers, a mid-air stop is just 
+the ticket. Mid-air stops are set a 
+far enough distance away from 
+the edge of the range to make 
+it difficult for the dealers to hit. 
+If a dealer pushes too far out of 
+the dealing range, they risk being 
+picked off by other dealers who 
+gang up to drive the price against 
+them. In addition, as your stop 
+is likely to be on its own and not 
+grouped with a bunch of others, 
+there will be little point in the 
+dealers going for it anyway. 
+Mid-air stops work best when 
+trading directly off support and 
+resistance levels, as you can still 
+maintain your risk/reward ratio. 
+you simply place your stop far 
+enough away from the dealing 
+range that the dealers won’t be 
+interested in chasing it. It will look 
+like it is hanging in mid-air, away 
+from the action. 
+9
+9
+ A special note on break-even 
+stops
+Break-even stops are a hot topic 
+for traders. 
+There are both pros and cons for 
+breakeven stops. only you will 
+know what is right for you. 
+on the one hand, a breakeven 
+stop is a powerful psychological 
+tool. It ensures your winning 
+trades don’t turn into losing ones. 
+This means that your winning 
+percentage will increase, which 
+can make it psychologically easier 
+to follow your system and trade 
+mistake-free. 
+on the other hand, if you move 
+your stop-loss to breakeven you 
+may end up putting your stop in 
+an illogical place the dealers can 
+easily go for. In my experience, 
+this can mean that although you 
+have less losing trades, you will 
+actually make less overall. The 
+winning trades that you do miss 
+out on will reduce the profitability 
+of your system over time.  
+This means you are faced with a 
+choice. Which is more important 
+to you? 
+• consistency; or 
+• Profitability. 
+ So what to do next? 
+ 
+  Simplicity is the ultimate 
+sophistication.”  
+– Leonardo da Vinci 
+Now, it becomes a simple matter 
+of testing. Try adjusting the 
+following combination to see what 
+suits your system:
+• The risk/reward ratio by 
+tightening and widening stops
+• The stop-loss method.
+always think about the dealing 
+ranges. keep in mind where the 
+market is likely to move to next, 
+and avoid putting your stop 
+in places that are easy for the 
+dealers to hit. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+42
+Everyone knows that risk management is a core 
+component of trading success, but very few 
+understand what this means on a deep level. 
+Indeed, most experts barely scratch the 
+surface, with the extent of their contribution 
+being “risk 1%–2% of your account on a trade”, 
+as if this was a magic bullet to trading success. 
+But there is so much more. 
+a well-designed position-sizing model gives 
+you the ability not only to manage risk but also 
+to meet your trading objectives, unlike any other 
+aspect of your Forex trading system. 
+Before we continue, we must give credit 
+where credit is due. It’s upon the shoulders of 
+giants that we stand and much of this topic 
+can be attributed to the work of van k. Tharp, 
+the world’s pre-eminent expert on position 
+sizing. I recommend you get his book The 
+Definitive Guide to Position Sizing. The first step 
+in implementing an effective position-sizing 
+model is to understand what Tharp calls 
+R-Multiples. 
+R-multiples – the key to effective position 
+sizing 
+R-multiples are a way of defining the initial risk 
+you take on a trade by thinking in terms of risk/
+reward.
+If you place a currency trade with a stop-loss 
+50 pips away from the market and you are 
+risking $10 per pip, then your loss would be 
+$500 if the trade went against you. This initial 
+loss of $500 is your 1R risk. The R, of course, 
+stands for risk. 
+you can then start to express your trades in 
+terms of R, instead of in terms of dollar or pips. 
+For example, if you place a trade that risks 
+$100 and you make $200, you have made 2R 
+(two times your risk). If you lose the $100 you 
+would have lost 1R. 
+If you talk to a trader who thinks in terms of 
+R-multiples, they may say:
+“I made 2.4R today”. 
+or when they are assessing if they want to get 
+into a position, they may think:
+“I have the potential to make 3.6R on this 
+trade”. 
+The reason R-multiples are so important is 
+that, as a trader, you are in complete control 
+of this input into your trading system. you can 
+effectively manipulate the R-multiple to be 
+whatever you want it to be by adjusting how 
+much you trade. For example, if you decide 
+that you want your one-R-risk to be $100, you 
+can do this, or if you want it to be $200, you 
+can do that too, by changing your position size.
+ChApter 6:  s ysteM position-sizinG BasiC s    
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+43
+ChApter 6:  s ysteM position-sizinG BasiC s  
+Your position-sizing model is independent 
+to your entries and exits 
+ This is one of the most important things 
+to understand in trading.  
+How much you trade is a completely 
+separate decision from your entry and exit 
+decision. your Forex trading system is actually 
+separated into two distinct components, each 
+of which can – and should – be worked on 
+independently:
+1. a entry and exit system that generates an 
+average number of R-multiples over time; 
+and
+2. a position-sizing algorithm that is then 
+applied on top of the entry and exit system. 
+The performance of your trading system 
+as a whole will depend on the combined 
+performance of each component, minus any 
+trading mistakes you make.   
+Let’s take a look at an example. 
+Say you see a trade you would like to place on 
+the EuR/uSD at a price of 1.3600. you set a 
+stop-loss 50 pips away at 1.3550 and a profit 
+target at 1.3750. 
+your 1R in this case is 50 pips.
+If the trade goes well, you manage to sell it for 
+three times your risk, booking a 150-pip profit 
+or 3R winner.   
+If the trade goes against you and hits your 
+stop-loss, then you would lose 50 pips, a 1R 
+loser.   
+pretty simple, right? 
+Now let’s see how applying three simple 
+position-sizing algorithms to the same trade 
+generates completely different results.  
+In each model, let’s assume you have $100,000 
+in your trading account for the sake of 
+simplicity.  
+ Model 1: number of lots  
+In this model, you decide to buy one lot 
+($100,000), so for each pip you make or lose 
+$10 uSD. If the trade goes against you, then 
+you would lose 50 x $10 or $500 (making 1R 
+$500). If it goes for you, then you would have 
+made 150 x $10 or $1500.
+ Model 2: fixed cash risk 
+In this model, you decide to risk $800 of your 
+trading capital on the position. To do this, you 
+would need to buy 16 mini lots (160,000), so 
+for each pip you make or lose $16 uSD. If the 
+trade goes against you, then you would lose 50 
+x $16 or $800 (making 1R $800). If it goes for 
+you, then you would make 150 x $16 or $2400. 
+ Model 3: fixed percent of equity risk  
+In this model, you decide to risk 2% of your 
+capital. To do this, you would need to buy 40 
+mini lots, so for each pip you make or lose $40. 
+If the trade goes against you, then you would 
+lose 50 x $40 or $2000 (making 1R $2000). If it 
+goes for you, then you would make 150 x $40 
+or $6000.
+As you can see, the profits or losses on the 
+same trade are altered dramatically depending 
+on which model you choose to apply. In this 
+case, there was up to a 400% percent difference 
+in your profit or loss. 
+and these are only the barest bones of the 
+different position-sizing models you could 
+choose to use when you invest.  
+So to reiterate, you can have exactly the same 
+entry and exit and have a completely different 
+result depending on your position-sizing 
+model. That is why position sizing is so critical.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+44
+ChApter 6:  s ysteM position-sizinG BasiC s  
+Your position-sizing model depends on the 
+quality of your system 
+The better your system, the more you can 
+invest, the easier you can achieve your goals. 
+While you achieve your objectives through 
+position sizing, the better your overall trading 
+system is, particularly your entries and exits, 
+the easier it will be for you.  
+you will be able to: 
+• Trade larger sizes  
+• achieve more consistent returns  
+• Suffer less drawdowns  
+• protect your investing capital.  
+It’s important to understand that your position-
+sizing model, while independent from your 
+entries and exits, should be relevant to the 
+quality of your entries and exits.  
+The impact of currency differences on 
+your position-sizing model 
+When trading Forex, position sizing difficulties 
+are exacerbated by two factors:
+1. The point value per pip, which is different 
+based on the currency pair you trade;
+2. your account base currency.
+just be aware, if you are not already, that pip 
+values differ depending on what currency pair 
+you trade. For example, if you have a 50-pip 
+loss when trading one lot on the EuR/uSD, you 
+would be risking $10 uSD per point, whereas 
+if you placed the same trade on the EuR/GBp, 
+you would be risking $17.50 per pip. If you 
+were expecting to risk $500 on the trade and 
+ending up losing $875, it would not be a happy 
+outcome. 
+This equation would also vary depending on 
+your account base currency. For example, the 
+pip value on one lot on the EuR/uSD is $10 
+with a uSD base currency, but $10.57 with an 
+auD base currency. 
+at the time of writing, here are the pip values 
+of uSD, EuR, GBp and auD base currency 
+accounts. 
+Currency USD EUR GBP AUD
+AUD/JPY $9.80 €7.20 £5.70 10.40
+AUD/NZD $8.76 €6.40 £5.10 9.26
+AUD/USD $10.00 €7.31 £5.83 10.57
+CHF/JPY $9.80 €7.20 £5.70 10.40
+EUR/CAD $9.40 €6.87 £5.48 9.94
+EUR/CHF $11.26 €8.24 £6.57 11.91
+EUR/GBP $17.15 €12.55 £10.00 18.14
+EUR/JPY $9.80 €7.20 £5.70 10.40
+EUR/USD $10.00 €7.31 £5.83 10.57
+GBP/CHF $11.26 €8.24 £6.57 11.91
+GBP/JPY $9.80 €7.20 £5.70 10.40
+GBP/USD $10.00 €7.31 £5.83 10.57
+NZD/USD $10.00 €7.31 £5.83 10.57
+USD/CAD $9.40 €6.87 £5.48 9.94
+USD/CHF $11.26 €8.24 £6.57 11.91
+USD/JPY €7.20 £5.70 10.40
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+45
+ChApter 6:  s ysteM position-sizinG BasiC s  
+A bag of marbles 
+Let’s tie this all together with a story. 
+I attended a nine-day trading course with the 
+aforementioned van k. Tharp. During the 
+course, we did a series of trade simulations 
+using a bag of marbles to help us better 
+understand position sizing. 
+While there are several different variations of 
+the game, the basic premise remains the same: 
+• Each marble pulled from the bag is a trade 
+in R-multiples. I.e. you may lose 1R or make 
+5R on a pull; 
+• Everyone has the same amount of starting 
+capital and you must risk a certain amount 
+on each pull from the bag;
+• There is real money on the table for each 
+game (up to $1200 at one point). 
+Each pull from the marble bag is considered 
+a trade and everyone gets exactly the same 
+trades. Each simulation lasted at least 30 pulls 
+from the marble bag (trades). There were up to 
+27 different participants in each game.
+ok, just to reiterate, everyone had exactly the 
+same trades. 
+The systems also tended to have a majority of 
+losing trades, with some big winning trades on 
+occasion. So each pull from the marble bag is 
+like a trade; i.e. your entry and exit. 
+The only control that each participant had 
+was their position-sizing rules. of course each 
+person also had very different objectives. Some 
+wanted to do anything to win, whereas others 
+were concerned about trading like it was their 
+own money on the line, or about not going 
+beyond a certain drawdown. 
+at the end of every game, every single person 
+had different equity, no exceptions. The variation 
+between individuals was massive, from 
+bankrupt through to several million dollars 
+profit. 
+after playing the game a few times it became 
+very apparent how position sizing:
+• Is highly dependant on the trader’s 
+objectives
+• Is critical to the performance of your 
+trading system
+• Is a completely separate decision to your 
+entry and exit decision
+• Should be adjusted based on the quality of 
+your system. 
+Now you have a handle on the basics of 
+position sizing, let’s look at exactly how you can 
+use position sizing to achieve your system’s 
+objectives.   
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+46
+ChApter 7:  aCHievinG y oUr s ysteM’s oB jeC tives    
+Top traders use position sizing very precisely to 
+achieve the objectives of their system.   
+Tharp’s belief is that: 
+  Position sizing is 90% of the reason for the 
+variance in the performance of the professional 
+traders”.  
+as you now realise, this is a decision about how 
+much you want the R-multiple to be on each 
+trade, based on your objectives. 
+Setting objectives 
+There are numerous objectives to consider 
+when developing your trading system, but the 
+first two most important are: 
+1. Profit, and 
+2. Maximum drawdown.  
+A profit objective is expressed as a percentage 
+return you wish to achieve over a certain time 
+period. For example, I want to achieve a 10% 
+return a month. 
+a maximum drawdown is the total percent loss 
+you are willing to risk on your account in order 
+to achieve your profit objective. 
+To achieve those objectives, you devise a 
+position-sizing model. This in turn, with the 
+help of R-multiples, tells you exactly how much 
+to buy or sell when you place a trade. 
+How to build a position-sizing model  
+– a basic example 
+Let’s say I am a day trader who wants to make 
+10% a month on my account. I am prepared to 
+risk 5% of my account a month to achieve this. 
+I know that my system:
+• Generates around two trades a day 
+• Has a 50% win rate 
+• Makes on average 2R per winning trade 
+• Loses 1R per losing trade.
+If I make two trades a day and one wins 
+(+2R) and the other loses (-1R), I will make on 
+average 1R per day. 
+If I trade for 20 days, this means that by the 
+end of the month I will make 20R. If I divide my 
+10% profit target by 20, I get 0.5%. This 0.5% is 
+then my 1R risk per trade. I.e. I would risk 0.5% 
+of my account on each trade.
+I can then look at this in the context of my 5% 
+maximum drawdown target. If I am risking 
+0.5% per trade, then I will need to have 10 
+losing trades in a row to hit my target. I 
+assess that there is only a 20% chance of this 
+happening, which I am happy with. In contrast, 
+if I had a 2% maximum drawdown target, then 
+there would be quite a high chance of me 
+hitting my drawdown target (say around 50%), 
+so perhaps I would need to consider a different 
+position-sizing model. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+47
+ChApter 7:  aCHievinG y oUr s ysteM’s oB jeC tives  
+Position-sizing models
+There are literally hundreds of different 
+variations of position-sizing models for you to 
+choose from. Here is a selection.  
+ Model 1: percent of equity risk per trade 
+With this position-sizing model, you risk a 
+fixed percent of your account balance on each 
+investment.  For example, you might risk 1% or 
+2% on each trade.  
+There are a number of variations you can take 
+when using this model.
+• Percent of starting balance. you risk a 
+fixed percent of your starting balance.  
+• Percent of current equity. You risk a fixed 
+percent of your current account balance at 
+the time you place the investment. 
+• Percent of equity high. You risk a fixed 
+percent of the highest point of your 
+account balance.  
+While the differences here may seem subtle, 
+they can lead to quite different performances 
+over time.  
+ Model 2: market’s money  
+I’m sure you have heard how important it is 
+protect your initial investing capital.
+you will have also heard about how some 
+people became very rich trading Forex with 
+very little money.  This is where a market’s 
+money position-sizing model can help.    
+With a market’s money position-sizing model, 
+you use profits you have made to trade larger 
+positions, while trading small with your own 
+investing capital.  
+For example, say you have a $100,000 account. 
+you risk 0.25–0.5% of your account per trade, 
+but when your account gets into a profit, you 
+risk 2%–5% or more to trade larger sizes.  
+This way you limit the risks on your initial 
+capital, yet can go for big wins when an 
+opportunity presents itself.  
+personally I am a big fan of the market’s money 
+position-sizing model.  
+one question you will need to answer is: when 
+does the market’s money become your own?  
+you could do this based on: 
+• a time period, such as a year or month 
+• A profit objective such as 50% 
+• a combination of the two. 
+Have a think about how you would feel risking 
+some of your profits to make large gains, to 
+see if this approach would suit you.  
+A word of warning about being respectful 
+with your money. 
+just because you are calling it “markets 
+money” does not give you an excuse to 
+trade recklessly because “it’s not yours”. 
+always treat the money in your account 
+with respect and discipline. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+48
+ChApter 7:  aCHievinG y oUr s ysteM’s oB jeC tives  
+ Model 3: scale in to the trend  
+  The trend is your friend.”  
+a scale-in position-sizing model takes 
+advantage of trends to add to winning 
+positions as they go your way. as the currency 
+you purchase goes up, you add additional 
+smaller positions to create one large position. 
+as you add positions, you move your stop-loss 
+up to keep your risk on the overall position 
+small (1R or less).  
+This way if a currency pair goes for you then 
+you could have a big win, but at no time are 
+you exposed to a large loss.  
+For example, when you see your initial entry, 
+you buy your first position, risking 1% of your 
+account. once the currency goes up by 50 
+pips, you add another position and move the 
+original stop-loss up. you then continue to add 
+positions and trail the stop-loss up until you 
+have reached your targeted trade size with 
+your core position. 
+as the currency continues to go up, you trail 
+the stop-loss higher until you eventually have 
+a large position that is essentially “risk free” or 
+with locked in profit, because your stop-loss is 
+above your entry points.   
+ Model 4: position size for the occasional 
+spectacular profit  
+Some traders let the market tell them how to 
+run their position-sizing model. 
+If they are not getting a sense where the 
+markets are heading, they just dip their toes 
+in, taking light positions. conversely if they are 
+in the zone and the market is providing them 
+with clear signs of its future direction, they take 
+larger positions. 
+While this type of position sizing is somewhat 
+intuitive, if you are confident in your system it 
+is a very powerful way to capitalise when the 
+markets are going for you.   
+Your position size is the most influential 
+decision you will make on your success.  
+your turn.  
+Take your thoughts on position sizing and put 
+them down on paper. How well you answer the 
+questions will have a significant impact on your 
+success, so take your time. Do it thoroughly. 
+But, as always, remember you can change 
+your model in the future as you learn more, 
+so if you are feeling stuck choose the simplest 
+option and revisit later.   
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+49
+ChApter 8:  GraDinG y oUr s ysteM anD MakinG MeaninGfUl CHanGes   
+all professional traders record their trades and 
+track the performance of their system. 
+They do it almost obsessively. 
+They know that if you don’t record your 
+results…
+you are not tracking what you are doing right 
+or wrong…
+So it’s difficult to know what to do to improve. 
+But it’s hard for me to remember the last time 
+a retail trader told me that they diligently 
+record their trading performance. They all 
+know they should. 
+But they don’t. So they don’t improve. 
+Why you should record your performance
+Try this on for size. 
+Imagine:
+1. you place 20 trades exactly per your rules 
+and record your results
+2. you make a change to improve your system
+3. you place 20 more trades exactly per your 
+rules and record your results
+4. you make a change to improve your system
+5. you rinse and repeat, making small 
+controlled changes until you have a 
+successful trading system.
+can you see how, if you make meaningful 
+changes (almost like a scientist tests a 
+hypothesis), your system cannot help but 
+improve over time?
+Grading your system’s performance using 
+expectancy 
+as you improve your system you will want 
+to track its performance. one of the best 
+ways to grade your system’s performance is 
+to understand your system’s expectancy. By 
+grading your system’s performance in real 
+time, you can:
+• plan in advance in case performance 
+degrades (see chapter 9)
+• Monitor the impact of changes in real time
+• adjust your position-sizing model 
+depending on the quality of your system
+• understand how your system performs in 
+different market types. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+50
+How to calculate the expectancy of your 
+trading system 
+you calculate your expectancy by adding up 
+your average risk/reward over a series of 
+trades using van k. Tharp’s R-multiple concept, 
+discussed in chapter 6.  
+1. add up the total R-value of your trades 
+2. Divide this total by the number of trades 
+you have made.
+Here is the formula:
+(total R) / (number of trades) = expectancy 
+For example:
+If you had placed 30 trades and earned 45R in 
+the process, your equation would look like this:
+45R /30 = 1.5 
+In this case, your system has an expectancy of 
+1.5.
+Rating your trading system
+once you understand your system’s 
+expectancy, you can give it a performance 
+rating.
+Here is a specific method for achieving this:
+1. Benchmark your performance by placing 30 
+trades with a consistent, small position size 
+(like 0.5% of your account).
+2. Work out your trading system’s current 
+expectancy.
+3. create a table to rank your system’s 
+expectancy. For example:
+Excellent Expectancy above 2 
+Very good Expectancy between 1
+Good Expectancy between 0.5 
+Break-even Expectancy between -0.1–0.1
+Poor Expectancy below -0.1 
+as you continue to trade, track your 
+expectancy over the rolling last 30 trades. 
+You will need to fit this approach to your 
+own trading methods 
+For example, your benchmark for excellent 
+may be having an expectancy above 1 instead 
+of 2. you need to base it on your own systems 
+results. Simply use logic to work out what is 
+right for you.  
+ChApter 8:  GraDinG y oUr s ysteM anD MakinG MeaninGfUl CHanGes  
+Tracking your system’s performance  
+without the hassle 
+Tracking your system can be challenging. Even 
+with the best of intentions, too many traders 
+don’t do it due to time constraints (or simply 
+because it can be a real pain to do).  
+Here are two little tips for tracking your system.
+Hire a freelancer
+Go to a website such as www.elance.com and 
+hire a freelancer to record your trades. you will 
+need to give them specific direction on what 
+information to record, but if you set it up well 
+they may be able to do it by simply using your 
+account statement. a service like this using a 
+skilled freelancer may cost $5 an hour or less. 
+(For the parents out there, this is a good way for 
+your children to earn a bit of pocket money.)
+Use an automated service 
+There are several web-based services you can 
+explore to help you record your trading. Each 
+service has different benefits. Check out:
+• Myfxbook
+• Tradingview 
+• axiTrader’s MT4 NexGen
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+51
+ChApter 9:  a voiDinG s ysteM DeatH     
+System death. 
+Forex trading systems stop 
+working. Edges disappear. Market 
+conditions change. 
+The trader is left hanging, hopes 
+unfulfilled. 
+But disaster can be avoided. you 
+don’t need to experience system 
+death, if you know how to tell if 
+a system has stopped working 
+before you lose money.
+understanding how to avoid 
+system death has other benefits. 
+If you have a pre-defined process 
+for when you will stop trading a 
+system, it gives you confidence. 
+as Marty Schwartz, Wall Street’s 
+champion day trader, said: 
+ Confidence is essential to a 
+successful trader”.  
+You can trade with confidence 
+and discipline, trusting in your 
+rules to protect you, instead of 
+worrying about if what you are 
+doing has a limited shelf life. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+52
+Why trading systems stop working
+The number one reason systems stop working 
+is that they are optimised to work in a 
+particular market type. When the market type 
+changes, the system stops working. knowing 
+this could solve a lot of your trading problems. 
+other reasons Forex trading systems stop 
+working include:
+• The system is poorly designed. For 
+example, it is curve-fitted to historical data 
+and is not robust enough to survive live 
+trading.
+• The edge disappears. The reason for the 
+system working no longer exists. 
+• Trader mistakes. The trader is 
+unable to trade the system efficiently, 
+so consequently it performs below 
+expectations.
+• Position-sizing errors. The system may 
+have an edge, but position-sizing errors 
+cause it to underperform. 
+• 
+Plan for your system to stop working
+It’s ok for a Forex system to stop working. 
+If you could have a high-performing system 
+that makes a 100% return, but it only lasted for 
+three months, would you use it?
+Systems that work and then stop are not a bad 
+thing. The bad thing is to continue to trade 
+them, not knowing that their time has come. 
+Here are some ways to plan for your system 
+stopping working:     
+• Trade multiple systems. Don’t keep all 
+your eggs in one basket. Have at least 
+two different systems at any one time 
+(preferably for different market types).  
+• Position sizing. In your position-sizing 
+rules, make sure you cater for the “worst 
+case scenario”. In particular, protect your 
+core capital. 
+• Don’t become emotionally tied to your 
+system. Sometimes, when the idea is 
+yours, it can be difficult to let go. Don’t get 
+your sense of self-worth wound up in your 
+system’s performance. 
+More importantly, you want to have a 
+benchmark of your system’s performance. 
+once you see a deviation from this benchmark, 
+you can go into “high alert mode” and monitor 
+your system closely to see if its performance 
+recovers or simply stop trading the system 
+altogether. 
+ChApter 9:  a voiDinG s ysteM DeatH  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+53
+A methodical approach to managing 
+system death
+avoiding system death is simpler than you may 
+think, though it can be a bit of work to track 
+your trades. 
+1. Track your system’s performance using the 
+benchmark outlined in chapter 8. 
+2. Notice when the system performs outside 
+of expectations. For example, over the last 
+30 trades your performance goes down.  
+3. If your expectancy ever goes down a rating, 
+you have a few options:
+a. Reduce your trade size.
+b. allocate less of your trading capital to 
+that system.
+c. Stop trading the system. 
+Note that you don’t need to wait until you 
+are losing money to stop trading a system. 
+Instead you can simply reduce your trade size 
+as performance degrades. 
+Let’s look at this in action. 
+you have benchmarked your performance 
+and your trading system currently has an 
+expectancy of 1.5. as you trade, you notice 
+that your expectancy over the last 30 trades 
+has gone down to 0.9. When this happens you 
+continue to trade, but cut your position size in 
+half. 
+you also do a review to check where the fault 
+lies. perhaps it is simply market conditions are 
+not so suitable, or you are making a mistake 
+that you hadn’t noticed. you continue to trade 
+at a reduced position size and your expectancy 
+drops down to 0.2. It is now dramatically 
+different from the expected performance and 
+you decide to stop trading it all together for 
+now. 
+you have now avoided system death without 
+losing much money in the process. Nice!
+An alternative method of monitoring your 
+system performance
+another method traders use to avoid system 
+death is to monitor each system’s equity 
+curve. As the equity curve flattens or starts to 
+go down, you allocate less trading capital to 
+that system; as the equity curve turns up, you 
+allocate more capital to that system. 
+Depending on your system, you might find this 
+method more useful than the one above. 
+You have now avoided disaster and 
+conquered system death! 
+By benchmarking your system and tracking 
+its ongoing performance, you have a powerful 
+tool to prevent losses while remaining 
+confident and disciplined in your trading. 
+So it’s time to get to it! knowledge requires 
+action for you to benefit. 
+Keep the first step simple, and resolve to track 
+your expectancy of the next 30 trades in your 
+trading journal.
+ChApter 9:  a voiDinG s ysteM DeatH  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+54
+ChApter 10:  How Beliefs sHape y oUr f orex traDinG s ysteM   
+(Note while the views in this chapter 
+are mine, they borrow heavily from 
+the work of Van K. Tharp.)
+  You can only predict the 
+markets over the short-term.”
+  You can only predict the 
+markets over the long-term.”
+  Forex trading is difficult.”
+  Forex trading is easy.” 
+  Technical analysis works.”
+  The stochastics are overbought 
+so the market is likely to go up.”
+  There is resistance at 0.92080.”
+  Trading Forex is risky.”
+What do all these statements 
+have in common?
+They are all beliefs about the 
+market and they all shape the 
+trading of the person who has the 
+belief. 
+And beliefs can be painful. 
+Some of our beliefs are formed 
+out of traumatic experiences – or 
+at least that’s often the case with 
+the ones we find most difficult 
+to change. These beliefs are not 
+necessarily bad. They serve/
+served a purpose at one point in 
+our lives, but they may not be that 
+useful for our trading.  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+55
+Your trading system is all beliefs
+Trading is an unlimited environment.  
+you have no teacher, parent or boss who 
+controls what you do. you have the freedom 
+of choice to trade however you like. So if you 
+are free and unencumbered, what is it that 
+influences your trading system decisions? 
+It is your beliefs. 
+you may think it’s a piece of news or the price 
+action on a chart, but it’s not. It’s your belief 
+about what the news or the chart means that is 
+causing you to take action. 
+From the point of decision, without fail you 
+can trace a path back to a belief (or typically a 
+series of beliefs) that caused you to make that 
+decision. For example, why is it you choose to 
+trade a specific currency pair? Or: what causes 
+you to use that particular set-up? 
+There is a belief somewhere along the line that 
+is guiding your hand. awareness of this belief is 
+a powerful thing. Awareness is the first catalyst 
+of change. 
+What are your beliefs about the markets? 
+Take out a pen and paper and see if you can 
+list 10.
+Here are some of mine to get you started.
+• I must not trade without a trading plan
+• Forex is no more or less risky than trading 
+any other market – risk depends on my 
+position size. 
+• I need to have a different trading system 
+for each market type 
+• I must know my risk/reward ratio before I 
+place a trade and it must be at least 3:1
+• Trading is all about beliefs (that’s a belief 
+)
+• Support and resistance levels can help you 
+predict the market
+• professional traders record their trades 
+diligently and amateurs don’t. 
+There are many more. 
+can you see how having these beliefs shapes 
+my trading? can you see how the 10 beliefs 
+you wrote down do the same for yours? 
+The origin of beliefs
+  I would never die for my beliefs because I 
+might be wrong.” – Bertrand Russell 
+I mentioned earlier that beliefs with charge are 
+often formed during times of pain. 
+That may be true, but there are many sources 
+for beliefs. 
+at the most basic level, beliefs are evolutionary. 
+They are programmed into us as part of the 
+fight and flight response that has evolved over 
+thousands of years. These beliefs are part of 
+our DNa. Some beliefs are a product of our 
+environment. Would you have different beliefs 
+if you grew up in a rainforest compared to 
+growing up in London or New york? or: would 
+you have the same beliefs about food if you 
+grew up hungry compared to growing up well-
+fed? 
+other beliefs are indoctrinated in us. To a 
+certain degree, all of us (except perhaps 
+the truly enlightened) accept common-held 
+“wisdom”. our subconscious absorbs much 
+information that is never questioned, and 
+some of our most influential beliefs are never 
+challenged. Think about fluoride in toothpaste 
+for example. Is it good? Is it bad? Where did 
+that belief come from?   
+There are other beliefs too, such as spiritual 
+beliefs formed out of your relationship 
+with God, or identity beliefs such as “I am a 
+technical analyst”. 
+ChApter 10:  How Beliefs sHape y oUr f orex traDinG s ysteM  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+56
+Is the belief useful?
+  We trade our beliefs about the market.”  
+– Van K. Tharp 
+There are as many different approaches to the 
+market as there are traders. 
+That is because there are as many different 
+beliefs about the markets as there are traders.  
+It’s like we’re wearing blinkers of our own 
+design. We see what we want to see. 
+The good news is we get to choose the 
+blinkers. We have the choice to wear only the 
+beliefs about the market that serve us. We can 
+decide if the belief is useful to our trading or 
+not. 
+We don’t even have to believe the belief.  
+If it serves us to think that if two moving 
+averages cross then it is a good time to buy, 
+then we can wear that belief. Even if deep 
+down we know that two moving averages 
+crossing has little or no influence on the 
+market itself.  
+The beliefs of top traders
+  Strong beliefs win strong men, and make 
+them stronger.” – Richard Bach
+If you can choose to take on and take off the 
+beliefs, why not wear the ones that are the 
+most productive for your trading? 
+During my years of trading, study and 
+interaction with successful traders, I have 
+noticed that most of them tend to hold a 
+number of similar beliefs. 
+• They take personal responsibility for their 
+trading 
+• They have developed a highly organised 
+mental model of the market
+• They recognise that their mental model 
+could be wrong and often is
+• They understand that position sizing is the 
+key to achieving their trading objectives
+• They are often wrong more than they are 
+right, but they still make money
+• They see trading as a business, not a 
+hobby, and plan rigorously 
+• They recognise that losses are a part of 
+doing business and are willing to take them
+• They believe in the importance of recording 
+their results 
+• They believe that they can win…and 
+that the key to winning in the markets is 
+themselves 
+• They are comfortable with taking calculated 
+risks  
+• They understand risk and reward ratios
+• They believe in simple entries with complex 
+exit systems
+• They believe their trading system has an 
+edge over the market and this makes them 
+confident
+• They believe in gratitude and being 
+thankful.   
+How do these beliefs compare to your own? 
+How many of these beliefs would you like to 
+have as your own?  
+ChApter 10:  How Beliefs sHape y oUr f orex traDinG s ysteM  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+57
+Reorganising you beliefs
+Have you ever noticed that you can hold 
+conflicting beliefs at the same time? This may 
+be because as van k. Tharp suggests, we are all 
+a “mix of conflicting parts” inside. 
+For example, you could have a:
+• Trader part
+• Husband part
+• Mother part
+• Rebellious part 
+• Gambler part 
+• child part
+• Fun part
+and so on. you get the picture. Each of these 
+parts holds different beliefs that can impact 
+your Forex trading. For example, the fun 
+part might want you to place a trade out of 
+boredom, while the trader part knows you 
+should wait for a clear opportunity. 
+The process of reorganising a belief can be 
+quite simple. Firstly, recognise that you would 
+like to have that belief. Secondly, take action. 
+For example, if you decide that you believe 
+position sizing is now an important part of your 
+trading (if it was not before), then you can read 
+about position sizing and make sure that you 
+place your next trade according to your new 
+position-sizing model. 
+If you have no negative charge about taking 
+that belief on and continue to take action, 
+then you will have a newly integrated belief. 
+However, if you have an emotional charge 
+around this new belief, or you have an 
+interfering part (such as the gambler part, 
+making you want to trade bigger than you 
+should), then taking on this new belief may be 
+more difficult. 
+If this is the case you might need a technique 
+to help you. van k. Tharp in his book Trading 
+Beyond the Matrix suggests a couple of different 
+methods that you could try, which I will 
+paraphrase below. 
+ Feelings release
+The feelings release process involves turning 
+the traditional way we react to negative 
+thoughts on its head. Instead of resisting a 
+belief, you feel it fully. This serves to dissipate 
+the belief and after a point it tends to fizzle out. 
+ Parts integration
+parts integration involves negotiating between 
+different parts of yourself. One part mediates 
+while another two parts discuss with each 
+other and come to a mutually beneficial 
+arrangement. For example, you decide that 
+you will go surfing on the weekend to satisfy 
+the fun part, while the fun part agrees to stand 
+aside while you are trading. 
+This may sound a little off the beaten track, 
+but when I first did this under Van K. Tharp it 
+had a powerful transformational effect on my 
+trading. 
+It’s much better to be an integrated trader.
+(If you are feeling resistance to these ideas, 
+perhaps you have some emotionally charged 
+belief you are holding onto? just sayin’.) 
+For further information on these processes 
+I recommend you read Trading Beyond the 
+Matrix.  
+ChApter 10:  How Beliefs sHape y oUr f orex traDinG s ysteM  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+58
+Creating a “beliefs” self-improvement 
+routine
+To be the best trader you can be requires 
+constant work. 
+Top athletes work as much on the mental 
+side of their performance as the physical. Top 
+traders are the same. They work as much if 
+not more on the psychological side of Forex 
+trading as they do on their techniques. 
+as beliefs are such a critical part of Forex 
+trading psychology, you could consider adding 
+a self-improvement routine to your trading 
+plan.
+This could involve:
+• Listing your beliefs about Forex trading 
+• Listing your beliefs about your Forex 
+trading system
+• Regular feelings release
+• Regular parts integration
+• Focusing on what you want to attract
+• using the routines in one of paul Mckenna’s 
+books such as I Will Make You Confident to 
+removed negatively charged beliefs around 
+self-worth
+• practicing gratitude by following the 28 
+steps in The Magic by Rhonda Byrne (highly 
+recommended for traders). 
+With a routine in place that helps you to 
+develop powerful beliefs that serve you, you are 
+in a strong position to get what you want from 
+your Forex trading. 
+ChApter 10:  How Beliefs sHape y oUr f orex traDinG s ysteM  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+59
+ChApter 11:  a wakeninG y oUr inner traDer  
+Why am I am including a section on awakening 
+your inner trader in a book on system 
+development? 
+one reason: Mistakes. 
+It’s actually relatively easy to build a workable 
+Forex trading system, as long as you 
+understand market types and complex exits. 
+The challenging part is executing your winning 
+system mistake-free. 
+With money on the line, things are different. 
+When your rules say buy or sell sometimes you 
+just don’t, or perhaps you fail to see something 
+obvious until after the event.
+These are mistakes, and everyday mistakes 
+cause winning trading systems to lose. In fact, 
+a single mistake can be the difference between 
+trading failure and success. This is why it is 
+imperative that you awaken your inner trader.
+When you are operating through your inner 
+trader you are pervaded with a sense of calm. 
+This has incredibly positive implications for 
+your ability to trade mistake-free and execute 
+the system you have developed. 
+Luckily finding your inner trader is not 
+something mystical. Rather it is an exciting 
+process of discovery. So here are some initial 
+steps you can take to help awaken your inner 
+trader.  
+Get clear on your goals 
+Without a “glide path” to success, you will 
+struggle to maintain disciplined in your trading 
+when temptation arises. Remember that if 
+you only make 5% a month consistently when 
+trading, you would be one of the best traders 
+in the world. Imagine the impact that could 
+have on your personal finances. 
+Too often traders are trying to double or triple 
+their account in a short space of time, leading 
+to a high chance of ruin. Two to five good 
+trades a month where you let your profits run 
+may be all you actually need. When you are 
+clear on what you are setting out to achieve, it 
+becomes much simpler to trade with restraint. 
+#1
+Less is more. The less active you 
+are, the more successful you may 
+be. overtrading is one of the key 
+issues that can negatively impact 
+the likelihood of you achieving your 
+trading goals. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+60
+Develop the habit of persistence 
+It took Mozart 10 years of failure before he 
+produced his first masterpiece, and it took Bill 
+Gates 10,000 hours of programming before 
+he created the Microsoft Windows operating 
+system. 
+Now we are not trying to create a masterpiece 
+or one of the largest companies in the world 
+– we only want to be pulling a few pips from 
+the market each month – but the habit of 
+persistence exists in every successful trader. 
+Most people experience failure before 
+they achieve success, and in trading it is no 
+different. The ability to “rise from the ashes” is 
+a core part of a trader’s personality.
+If you are struggling with this, it can be helpful 
+to remember the carrot: that is, remember 
+what you are here to achieve. Motive yourself to 
+be persistent by understanding why you got 
+into trading in the first place. If you can hold on 
+to that, then your stickibility will be assured.
+ChApter 11:  a wakeninG y oUr inner traDer  
+#2
+How to handle losses. For this tip, we 
+interviewed AxiTrader’s Geoff Last. Geoff 
+is by his own admission an old dinosaur 
+in the market and was the first person to 
+make a market on the aussie Dollar way 
+back in the 1980s. Let’s see what Geoff has 
+to say about how to handle losses.
+1. First admit your mistake rather than 
+blame the market.
+2. Re-assess your system. For example, 
+are you trading the correct currency 
+pair, time zone or chart time frame? 
+3. address your risk management. For 
+example, are your goals too lofty or is 
+your position size too large?
+Notice your emotions before you trade
+your inner trader appears when you are in a 
+calm state (or perhaps when your inner trader 
+is with you, you become becalmed). Whichever 
+way it is, you should check your emotions 
+before you trade. If you are in the wrong 
+headspace, you are likely to place false trades 
+or chase the market. 
+If you are afraid of missing out and need to 
+get into a position, you should avoid taking 
+it. Similarly, if you are fearful of entering 
+a position, that is a sign that you are not 
+operating out of the optimal mindset. you want 
+to be in a state of mind whereby you enter 
+your trade solely because it is a good trade, not 
+because of any other motivation. 
+#3
+Trading in the zone. just like athletes 
+get “in the zone”, traders get in the 
+zone too. The more you can remain 
+in the zone as a trader, the better off 
+you will be. For an in-depth look at 
+trading in the zone, read the book of 
+the same name by Mark Douglas. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+61
+Verbalise not internalise
+one of the easiest ways to uncover your inner 
+trader is to talk through your trades with a 
+colleague. This person does not even need 
+to be a trader. The very act of voicing your 
+decision-making process allows you to pick 
+up on those moments when you are acting 
+irrationally or emotionally. To be clear here, 
+you are not seeking advice. Instead you are 
+using a sounding board to make sure you have 
+your head screwed on straight. 
+Let go and trust your inner trader
+Some of the best traders I know have moved 
+beyond the conventional to reach their inner 
+trader. These traders tend to be spiritual 
+people who use trading as a vehicle for growth. 
+as they let go and trust in their inner trader, it 
+begins to trade through them. 
+and their inner trader tends to be a pretty 
+good trader. 
+Connect your mind and body
+a key aspect of attaining a high-performing 
+trading state is the unification of mind 
+and body. In fact, when you examine your 
+emotions as per step 3 above, you will find that 
+they are often physical. you will most likely be 
+feeling them in your body, not in your mind. 
+For example, if you try sitting still for a moment 
+right now, you may find that you have the 
+physical urge to do something with your legs. 
+If not that is ok, the important thing is that you 
+take note of what is going on inside, so you can 
+manage it effectively. 
+By balancing your physical and mental 
+wellbeing, you can connect deeply with your 
+inner trader. Many professional traders engage 
+in yoga or some sort of physical release before 
+they settle into the trading day. But it can be as 
+simple as taking some deep breaths and doing 
+some stretches. It’s funny how we can so easily 
+forget to breathe deeply. 
+ChApter 11:  a wakeninG y oUr inner traDer  
+#4
+Remaining focused in your trading 
+state is not about remaining focused 
+on the markets. unless you are a 
+scalper you should consciously avoid 
+checking on the markets, except 
+when you need to make a buying or 
+selling decision. 
+#5
+Write down your plan. When what 
+you verbalise does not match your 
+plan, then that is a sure sign that you 
+are not placing the best trade you 
+possibly could. 
+#6
+See trading as an extension of a 
+meditative or spiritual practice. 
+Listen to your inner trader and 
+where you can, let go and watch it 
+trade on your behalf.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+62
+ConCluSion –  o ver to y oU   
+your future is now in your own hands. 
+as a Forex trader you have the power to 
+make or break your trading account. I have 
+seen everyday people turn small amounts of 
+money into large sums and I have seen traders 
+lose on a regular basis. Both these types of 
+traders are like you and me with no special 
+equipment or information, simply their free 
+charts from their broker, their knowledge of 
+the markets and their mindset. 
+With The Definitive Guide to Building a Winning 
+Forex Trading System, you have the tools to 
+create a system that can help your goals come 
+to fruition. 
+The best way to get the most out of this eBook 
+is to keep it simple. as you read through it, you 
+will have noticed that some things attracted 
+you. Start with these. Then go back to the 
+beginning of this document and work through 
+the system development process step by step, 
+until all elements are included in your trading 
+plan. 
+you will have also noticed that there are parts 
+of the eBook that you skimmed over or even 
+avoided. The interesting thing about your 
+trading psychology is the parts you avoid 
+are most likely the parts that you need the 
+most.  
+Note down these areas now. This is where 
+you should be spending the majority of your 
+system development time. 
+ok, now it’s over to you. 
+Thank you for reading our eBook and I wish 
+you all the best in your Forex trading. 
+If you have any questions, please email me at 
+seder@axitrader.com 
+or join me to discuss on Facebook. 
+all the best,
+SAm eDer 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+63
+NEVER MISS AN ARTICLE OR GUIDE!
+Join the AxiTrader blog to continue your journey and discover:
+Mental tools for peak trading performance
+Advanced trading guides
+Technical analysis
+And more! 
+GET EMAIL UPDATES
+Click here!
+CONTACT
+PHySICal
+axicorp Financial Services pty. Ltd.
+Level 3, 80 Mount Street
+North Sydney, NSW 2060
+auSTRaLIa
+POSTal aDDRESS
+po Box 1079
+North Sydney, NSW 2059
+auSTRaLIa
+EmaIl: service@axitrader.com.au
+TEl: 1300 888 936 (+61 2 9965 5830)
+Fax: 1300 888 906 (+61 2 9965 5899)
+WITHIn nZ: 0800 294 763
+COmPany aDDRESS DET aIl S
+www.axitrader.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]

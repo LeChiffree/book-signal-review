@@ -1,0 +1,581 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 1\Baskı 1\Forex İçin Uygulamalı Pin Bar Trading - KC Thorpe (40 sayfa) - @eseckal.pdf
+PAGES: 40
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+Pratik Pin Bar Ticareti: Forex
+Giriiş:
+Bu e-kitapta, Forex piyasalarında Pin Bar ticaretinin nasıl yapılacağı konusunda kendinizi 
+eğitmek için gerekli bilgileri bulacaksınız.
+Öğreneceksiniz:
+· Pin Bar'ın anatomisi ve neden oluştuğu.
+· Pin Çubukları nasıl belirlenir
+· Pin Bar pazarı bağlamı
+· "Birleşim" kullanılarak Pin Bar ticareti nasıl yapılır?
+· 3 tür ticari giriş
+· 4 tür zararı durdurma yerleşimi
+· 3 tür kar alma seviyesi
+· Ticaret kontrol listesi nasıl oluşturulur?
+O halde daha fazla gecikmeden doğrudan konuya geçelim!
+Temel bilgiler:
+Bu e-kitapta yer alan materyalden en iyi şekilde yararlanmak için gerekli olduğuna inandığım 
+temel bilgi ve becerileri ele almak için biraz zaman ayırmam gerektiğini düşündüm.
+Forex Piyasasını Anlamak
+Öncelikle Forex'in ne olduğu ve nasıl çalıştığı konusunda size bilgi verebilecek binlerce 
+kitap ve web sitesi bulunmaktadır. Ayrıntılı bir tarih, büyük piyasa katılımcılarının 
+açıklamaları ve Forex piyasasında fiyatı yönlendiren mekanizmalar gibi bilgilerin tümü 
+diğer birçok ticaret eğitimcisi tarafından ele alınmıştır (bkz.www.babypips.co Mveya
+Aptallar için Döviz Ticareti eğer yeni başlıyorsanız). Bu kitap Pin Barlara ve bunlarla nasıl 
+işlem yapılacağına odaklanmıştır, ayrıntılı bir Forex ticareti kursu sunmamaktadır.
+Sipariş Nasıl Verilir?
+Kullandığınız işlem yazılımında Stop & Limit emirlerinin kullanımı ve zarar durdurma ve kar 
+alma seviyelerini emirlerinize nasıl ekleyeceğiniz konusunda bilgili olduğunuz 
+varsayılmaktadır. Bu terimleri anlamıyorsanız, bu kitabı okumadan önce bunları 
+araştırmalısınız (örneğin bkz.Sipariş Türleri Açıkwww.babypips.co M).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Teknik Analiz
+Bu materyalde sağlanan metin ve örnek sepetlerde çeşitli Teknik Analiz 
+yöntemlerine referanslar bulunacaktır; en azından bu kitabı okumadan önce 
+aşağıdaki listede yer alan tekniklere aşina olduğunuz varsayılmaktadır.
+· Üstel Hareketli Ortalamalar
+· Destek ve Direnç Hatları
+· Trend çizgileri
+· Fibonacci Gerilemeleri
+· Şamdanlar ve grafikler
+Barlar / Şamdanlar
+Steve Nison yaklaşık 20 yıl önce Batı pazarlarına şamdanlar getirdi ve o zamandan beri 
+tüccarlar bunları kullanıyor. Şamdanlar ve bunların oluşumları hakkında çok sayıda 
+metin ve web sitesi bulunmaktadır ve Pin Bar haricinde şamdanlar ve bunların 
+anatomileri bu metinde ele alınmayacaktır.
+Para yönetimi
+Para Yönetimi teknikleri ticaret hesabınızı artırabilir veya bozabilir. Risk/ödül oranları, pozitif 
+beklenti, düşüş, beklenen kazanç/mağlubiyet serileri ve işlem başına riske atılan maksimum 
+yüzde gibi ilkelerin tümü okuyucu tarafından anlaşılmalıdır. Bu konuda daha fazla bilgi edinmek 
+istiyorsanız okuyunVan Tharp S' "Financial Freedo'ya giden yolda ticaret yapın M".
+Hareketli...
+Dikkat edilmesi gereken bir diğer nokta da, bu e-kitapta yer alan bilgilerin çoğunun (hepsi 
+olmasa da) internette veya diğer yayınlarda (kitaplar, ticari kurslar ve DVD'ler) 
+bulunabileceğidir ve bu nedenle masaya yeni bir şey getirmiyorum. Pin Bar söz konusu 
+olduğunda. Ancak, bu materyali yazarken sayısız saatler boyunca okuyarak, ticaret yaparak ve 
+diğer yatırımcılarla konuşarak edindiğim tüm bilgileri kısa bir kitapta yoğunlaştırmaya çalıştım, 
+böylece siz (okuyucu) çok iyi bir yatırımın nasıl yapılacağına dair dürüst bir hesaba sahip 
+olursunuz. Benim gibi yıllarca arama yapmak zorunda kalmadan karlı bir kurulum.
+Artık bunu aradan çıkardığımıza göre, Pin Bar'ın neye benzediğine ve onunla işlem 
+yapma yöntemlerine geçelim.
+Pin Çubuğu Anatomisi.
+Peki Pin Bar nedir ve neye benzer? Pin Bar terimi şu kaynaktan türetilmiştir:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+NeMartin Pring ufuk açıcı kitabında Pinokyo Bar'ı çağırırdı "Teknik Analiz Açıklaması ". 
+Pin Bar'ın arkasındaki fikir, fiyatın size yalan söylediğidir ve bu nedenle Pring 
+"Pinokyo" adını tasarladı (her yalan söylediğinde burnu büyüyen kurgusal 
+karakterden sonra).
+Fiyat neden sana yalan söylüyor? Çünkü bir Pin Bar oluştuğunda size fiyatın belirli 
+bir yönde (yukarı veya aşağı) sürekli bir hareket yaptığı ve bir kırılmanın meydana 
+gelebileceği hissini verir, bu hareketin sorunu duyguya dayalı olmasıdır ve 
+heyecan ve fiyatın orijinal seviyesine (veya ona çok yakınına) dönmesi çok uzun 
+sürmez.
+Pring'in tanımladığı gibi, bir Pin Bar'ın oluşturulması, iki kişinin giderek daha da 
+kızışan, sesleri giderek yükselen bir tartışmaya girmesine ve bir noktada çok 
+ileri gittiklerini ve biraz aptalca davrandıklarını fark etmelerine benzer. sonunda 
+özür dilemeye başlarlar ve ilişkinin tartışmadan önceki düzeyine geri dönerler.
+Not: Pin Çubukları, piyasada katılımcıların biraz duygusal olduğu ve fiyatın daha istikrarlı bir 
+seviyeye gelmesinin gerekli olduğu bir zamanı gösterir.
+Pin Bar oluşumlarından kar elde etmek, sağlam ticaret analizi olduğu kadar, iyi karar 
+vermeyle de ilgilidir. Her Pin Bar aynı şekilde veya istediğiniz fiyatta oluşmaz ve Pin Bar 
+ticareti yaparken her zaman kullanılması gereken bir karar verme veya "takdir" derecesi 
+vardır.
+Pin Çubuklarının "fiyat eylemi" ticaretinin bir parçası olduğu bilinir ve onlarla bu şekilde ticaret 
+yaparken genellikle çok az teknik gösterge kullanılır. Bunun nedeni, ticaret sırasında ana 
+belirleyici faktörün değil, mevcut fiyat hareketinin davranışı olmasıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+teknik göstergeler. Çoğu gösterge bir dizi önceki fiyattan türetilir ve mevcut fiyat hareketinin 
+gerisinde kalır, ancak göstergeler fiyat hareketi ile birleştirildiğinde ticaret yaparken size daha 
+fazla güven sağlamak için yararlı olabilir ("birleşme" olarak bilinir).
+Biçim:
+Peki Pin Bar'ı oluşturan şey nedir? Genel olarak bir Pin Bar'ın aşağıdaki noktaların çoğundan 
+oluştuğu kabul edilir:
+· "Fitil" (veya kuyruk) vücudun uzunluğunun en az 2-3 katı olmalıdır.
+· Ceset tamamen önceki gün aralığında olmalıdır.
+· Gövde, Pin Bar'ın üst veya alt ucuna doğru bulunmalıdır.
+· Fitil, çevredeki çubuklarla karşılaştırıldığında öne çıkmalıdır.
+Dedikleri gibi, "resimler bin kelime konuşur" ve bu nedenle bu kitaptaki materyalin çoğunu 
+grafik örnekleriyle desteklemeye çalışacağım. Bu nedenle, aranacak ilk şeylerden bazıları, Pin 
+Bar'ın gövdesinin önceki günkü işlem aralığında oluşup oluşmadığı ve gövdeyle 
+karşılaştırıldığında fitilin uzunluğunun olup olmadığıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Aşağıda Pin Bar ile dojiler gibi diğer tek çubuk oluşumları arasındaki farkı gösteren birkaç 
+tablo bulunmaktadır. Pin Barlar dojilerden farklıdır ve bu nedenle farklı şekilde alınıp 
+satılırlar (bu kitapta ele alınmamıştır). Dojiler piyasada kararsızlığın bir işaretidir (çünkü 
+kapanış açılışa çok yakındır) ve mevcut trend yakında sona erebileceği için dikkatli olunması 
+gereken bir uyarıdır. Yatırımcıların dojiler ve Pin Barlar arasındaki farkın farkında olması 
+gerekir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Dikkat edilmesi gereken noktalar
+· Genel olarak Pin Çubuğu sinyalleri yalnızca sonraki 4 - 5 çubukla ilgilidir. Yani, günlük 
+grafikleri ve pin bar formlarını izlerseniz, gelecekteki fiyat hareketleri üzerindeki etkisinin 
+çoğunu, oluşturulduktan sonraki 4 - 5 gün içinde yapacaktır. Bunun nedeni, Pin Bar'ların 
+kısa süreli kurulumlar/dizilişler olmasıdır (baş ve omuz formasyonuyla 
+karşılaştırıldığında) ve bu nedenle, normalde barların yalnızca gelecekte hemen 
+sonucunu etkileyecek olmaları mantıklıdır.
+· Pin Barlar dayanışma amacıyla takas edilmemelidir. Bir Pin Bar'ı takas edip 
+etmemenizi etkileyen birçok faktör vardır ve bu nedenle, yalnızca bir Pin Bar'ın 
+oluşması gerçeğine dayanarak takas yapmamalısınız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+· Tüm Pin Barlar eşit şekilde oluşturulmamıştır ve bir Pin Bar takas edip etmeme seçimi 
+Pin Bar formasyonunun kalitesini de içermelidir (daha fazla açıklama için okumaya devam 
+edin).
+Pin Çubukları hakkında bilgi edinmenin en iyi yolu, bazı grafikleri açıp kendiniz bulmaya 
+çalışmaktır. Pin Çubuklarından bir seçki bulduğunuzda, formlarına ve önlerindeki 
+mumlara göre bunların iyi veya kötü Pin Çubukları olup olmadığını anlamaya çalışın.
+Önemi:
+Artık grafiklerinizi taradığınıza ve bazı Pin Bar örnekleri bulduğunuza göre dikkate 
+almanız gereken başka bir şey daha var. Pin Çubuğu önemli mi? Başka bir deyişle, 
+Pin Bar önceki çubuklardan/şamdanlardan öne çıkıyor mu?
+Bir Pin Bar'ın önemli olup olmadığına karar verirken kullanılması gereken bir takdir 
+yetkisi vardır ancak takip edilmesi gereken basit bir kural, Pin Bar'ın fitilinin önceki 
+günkü işlem aralığı kadar veya daha büyük olması gerektiğidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Bazı tüccarlar ve ticaret eğitimcileri, Pin Bar ne kadar büyük olursa o kadar iyi olduğunu iddia 
+edeceklerdir, ancak deneyimlerim şunu gösterdi: Pin Bar fitili, önceki çubukların ortalama 
+ticaret aralığından 4 kat daha büyükse, o zaman büyük olasılıkla bir devamı haline gelecektir. 
+bir tersine dönüş modeli yerine bir model. Devasa bir Pin Bar sunulduğunda benim tavsiyem, 
+kenarda kalmak ve kârlı olma umuduyla çok fazla sermayeyi riske atmak zorunda kalacağınız 
+için kendini sunmak için daha iyi bir fırsat beklemektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Bağlam:
+Pin Barlarla etkili bir şekilde işlem yapabilmek için trendin yönünü ölçebilmeniz ve onunla işlem 
+yapabilmeniz gerekir. Sorun, bir piyasanın trendde olup olmadığının tanımlanmasının başlı başına 
+bir kitap olabilmesidir ve tüccarlar, piyasanın trendde olup olmadığını belirlemek için birçok farklı 
+yöntem kullanır. Aşağıdaki listede yatırımcıların bir trendin gücünü ve yönünü ölçmek için 
+kullandıkları birkaç yöntem yer almaktadır:
+· Hareketli ortalamalar
+· Trend Çizgileri
+· Ortalama Yön Endeksi
+· Yatırımcının takdir yetkisi
+Çoğu tüccar, bir "boğa" veya "ayı" piyasasına bakıp bakmadıklarına karar vermek için bunların bir 
+kombinasyonunu (sadece bir tanesi yerine) kullanır, ancak ticaretin gerçeği, piyasaların nadiren 
+düz bir çizgide yukarı veya aşağı gittiği ve çoğu zaman zamanlarının çoğunu bir ticaret aralığında 
+geçirirler. Fiyatın bir aralıktan çıkıp çıkmayacağını veya trende devam edip etmeyeceğini asla 
+önceden bilemezsiniz, ancak bu e-kitapta özetlenen sağlam teknik analiz ve ticaret tekniklerini 
+kullanarak olasılıkları lehinize çevirebilirsiniz.
+"Trend sizin dostunuzdur" sözü daha önce defalarca söylendi ve ticaret sanatında ustalaşana 
+kadar her zaman trendle ticaret yapmaya çalışmalısınız. Nial Fuller Piyasada Ticaret Yapmayı 
+Öğrenin karşı trend hareketlerinin %70'inin başarısız olduğunu iddia ediyor ve bu benim için 
+akışa karşı çıkmak yerine ona uymam için yeterince iyi bir neden.
+En iyi Pin Çubuğu kurulum türleri, sürekli bir hareket (ya da yukarı) olduğunda oluşur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+veya aşağı) ve fiyat bir "değer" veya "faiz" alanına geri döner. Bu alanlar destek/direnç, trend çizgileri, 
+hareketli ortalamalar veya büyük yuvarlak sayılar olabilir (tümü daha sonra açıklanacaktır).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+İdeal olarak bir Pin Bar'ın hakim trend lehine kapanması gerekir; örneğin eğer trend 
+yükselişteyse Pin Bar'ın kapanışı açılıştan daha yüksek olmalıdır.Veyükselişe yönelik bir Pin Bar 
+olmalıdır. Düşüş trendinde ise tam tersi geçerlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Yoğun trafiğe sahip veya dalgalı, menzile bağlı pazarlarda Pin Bar'ların ticareti 
+yapılmamalıdır. Bunun nedeni ise net bir trendin olmaması ve fiyatın durabileceği ilgi 
+alanlarının çok fazla olması.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Kâr potansiyeli yüksek olan Pin Çubukları genellikle uzayda oluşur; bu, basit bir ifadeyle, bir 
+trend çizgisine veya 38,2, 50 veya 61,8 Fibonacci geri çekilme seviyeleri gibi başka bir 
+seviyeye geri dönüşte oluştukları anlamına gelebilir. "Uzayda" oluşturulan Pin Bar'ları 
+aramanızın nedeni, kar elde etmek için potansiyel seviyelerin genellikle Pin Bar'dan oldukça 
+uzakta olmasıdır, bu da ticaret başarılı olursa cebinizde daha fazla kar anlamına gelir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Kavşak:
+Daha önce de söylediğim gibi, Pin Çubukları yalnızca "değer" veya "ilgi" alanlarında 
+oluştuklarında işlem görmelidir ve Pin Bar'ın oluştuğu yerin yakınında bir araya gelen 
+bu ilgi alanları ne kadar çoksa, Pin Bar sinyali de o kadar önemli hale gelir. buna 
+"birleşme" adı verilir.
+Destek / Direnç (S/R):
+Bir grafiği açtığınızda aramanız gereken ilk şeylerden biri şu alanlar:destek veya direnç . 
+Bu, teknik analizde çok temel ama çok güçlü bir araçtır ve insanlar, tamamen S/R 
+seviyelerine dayalı olarak para ticaret sistemleri kurmuşlardır. Başarı şansımı artırmak 
+için S/R seviyelerini diğer teknik analiz biçimleriyle birlikte kullanmayı tercih ederim (ör. 
+birleşim).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+S/R seviyelerinin evrensel gerçeklerinden biri, eski desteğin yeni direnç haline gelmesi ve bunun tersinin 
+olması ve fiyatın bu alanlarda ters dönme eğiliminde olmasıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Büyük Yuvarlak Sayılar (LRN):
+Ticaret eğitimcilerinin çoğunun odaklanmayı başaramadığı şeylerden biri Büyük Yuvarlak Sayılardır. İnsan 
+beyni 1,0148 veya 1,2234 yerine 1,0000 veya 1,2000 gibi büyük yuvarlak sayıları hatırlamayı ve bunlarla 
+baş etmeyi daha kolay bulur. Bu nedenle büyük yuvarlak sayılar, Pin Çubukları gibi fiyat hareket 
+sinyallerinin oluşma eğiliminde olduğu seviyelerdir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Forex piyasasında Büyük Yuvarlak Sayıların önemi hafife alınmamalıdır. Piyasa katılımcılarının 
+psikolojisinin Forex'te fiyatı belirleyen önemli bir etken olduğu bilinen bir gerçektir. Korku, 
+açgözlülük ve umut, insanların ticaret yaparken verdikleri kararlarda önemli bir rol oynar ve 
+yuvarlak sayıların kullanılması karar verme süreçlerini basitleştirir. Fiyatın yuvarlak bir sayıya 
+yakın olduğu durumlarda dikkatli olun, bu seviyeler Pin Barlar için mıknatıs görevi görür.
+Hareketli Ortalamalar (MA):
+Hareketli ortalamalar iki biçimde gelir: Basit Hareketli Ortalama (SMA) veya Üstel Hareketli 
+Ortalama (EMA). Çoğu tüccar, son fiyat hareketlerine daha fazla ağırlık verdikleri ve dolayısıyla 
+son olaylara SMA'lardan daha hızlı tepki verdikleri için bugünlerde EMA'ları kullanıyor.
+MA'lar trend yönünü ve gücünü ölçmek için kullanılmanın yanı sıra dinamik destek ve direnç 
+seviyeleri olarak da kullanılabilir. Bazı durumlarda, trend piyasalarındaki geri çekilmeler sırasında 
+fiyatın belirli EMA değerlerinden neredeyse dini bir şekilde sıçradığı görülebilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+EMA'ların tek sorunu, herkesin işlem yaptığı zaman dilimine ve pazara bağlı olarak farklı dönem 
+değerleri kullanmasıdır. Benim tavsiyem iki dönem seçmeniz ve bunlara bağlı kalmanızdır; zira 
+biraz deneyim kazandıktan sonra bunların farklı piyasa koşullarında nasıl davrandığını 
+öğrenmeye başlayacak ve bunları ticaret sırasında kullanmakta rahat olacaksınız. Hareketli 
+ortalama dönemlerinin bazı popüler değerleri aşağıda listelenmiştir:
+8, 21, 50, 65, 150, 200 ve 365.
+Günlük veya haftalık zaman dilimine bakan profesyonel yatırımcıların çoğu 50 ve 200 
+günlük hareketli ortalamaları kullanır ancak seçim tamamen size bağlıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Fibonacci Gerilemeleri (FIB):
+Forex ticareti hakkında herhangi bir şey okuduysanız şüphesiz karşılaşmışsınızdır. Fibonacci 
+Gerilemeleri . 38.2, 50 ve 61.8 geri çekilme seviyeleri Pin Bar ticareti yaparken dikkat 
+edilmesi gereken en önemli seviyelerdir. Pin Bar'ın sırf bu FIB seviyelerinden birinde 
+oluştuğu için alım satımını önermiyorum, FIB seviyesini birleştirmek için fiyata yakın bir MA 
+veya önemli bir S/R seviyesi gibi daha fazla "birleşim noktası" bulmaya çalışın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Pek çok insan Fibonacci seviyelerinin Forex piyasalarında neden işe yaradığını soruyor ve asıl cevap 
+kimsenin bilmediği ancak önemli olduğudur. Bunun nedeninin pek çok tüccarın bu değerlerde fiyat 
+hareketi araması ve bunun kendi kendini gerçekleştiren bir kehanete dönüşmesi olduğunu düşünüyorum.
+Trend çizgileri (TL):
+Trend Çizgileri Trendin yönünü ölçmek için veya bir trendin kendi kendini tükettiğini ve diğer yöne 
+dönmek üzere olduğunu düşündüğünüzde ticarette yararlı olabilir. Ancak onlarla ticaret yapmanın 
+başka bir yolu daha var, özellikle de Pin Çubukları kullanıyorsanız. Hakim trend bir süredir devam 
+ediyorsa ve sonra geri dönüyorsa, bazen bir trend çizgisi çizebilir ve fiyatın ona geri dönmesini 
+bekleyebilirsiniz ve eğer şanslıysanız, trend çizgisinin hemen üzerinde bir Pin Bar oluşabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Daha önce de belirtildiği gibi, bunlar yalnızca trend yönünde işlem yaptığınızdan değil aynı zamanda 
+risk-ödül oranınız da önemli olduğundan, işlem yapmak için en iyi Pin Bar türleri olabilir. Başka bir 
+deyişle, Trend Çizgilerine veya Fibonnacci Seviyelerine yakın geri çekilmeler oluşturan Pin Çubukları 
+genellikle etraflarında "boşluk" ile oluşturulur; bu, genellikle yakınlarda büyük kar elde etme yoluna 
+girecek daha az ilgi alanı olduğu anlamına gelir.
+Trend Çizgilerini kullanırken dikkat edilmesi gereken bir nokta, çizgi ne kadar dik olursa fiyata göre 
+kırılma olasılığı o kadar artar ve önemi de o kadar azalır. Bunun nedeni, fiyatta keskin bir hareketin takip 
+ettiği bir konsolidasyon döneminin olması durumunda, ani sıçramanın (ve ardından gelen trend 
+çizgisinin) sürdürülme ihtimalinin daha düşük olması ve trendin bozulabilmesidir. Bu, çoğu ticaret 
+eğitmeninin S/R'yi öğretmesinin ve Trend Çizgilerini gözden kaçırmamasının en büyük nedenlerinden 
+biridir. Diğer önemli sebep ise Trend çizgilerinin çok subjektif olması, herkesin trend çizgilerini farklı 
+şekillerde çizme eğiliminde olmasıdır.
+Trend çizgileri kanal oluşturmak için de kullanılabilir ve bunlar Forex piyasasında çok faydalı olabilir. 
+Fiyatın sıklıkla kanallara ve trend çizgilerine saygı gösterdiği görülebilir ancak bunların yatay destek 
+ve direnç çizgileri kadar güvenilir olmadığını unutmayın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Bazen trend çizgileri kırılabilir ve daha sonra fiyat onlara geri döner ve destek trend 
+çizgisi olmaktan çıkıp direnç trend çizgisine dönüşür. Bir trendin tamamlanmış 
+olması, trend çizgisinin artık geçerli olmadığı anlamına gelmez.
+Pivotlar (PP):
+Profesyonel yatırımcıların büyük çoğunluğunun kullandığıPivot Noktaları teknik analiz araçları 
+cephaneliğinde. Önceki zaman periyodundaki en yüksek, en düşük ve kapanış fiyatlarının ortalamasından 
+elde edilirler ve bu nedenle dinamik S/R seviyeleridir. Pek çok profesyonelin Pivot Noktalarını 
+kullanmasının nedeni, bunların tamamen objektif olmasıdır (trend çizgilerinin aksine), bu, herkesin 
+bunları aynı formülleri ve aynı fiyat dizisini kullanarak hesapladığı anlamına gelir, bu nedenle herkesin 
+aynı fiyat seviyelerini izlemesi ve beğenmesi gerekir. FIB seviyeleri kendi kendini gerçekleştiren bir 
+kehanet haline gelir. Pivot Noktaları herhangi bir şeyle birleştirilebilir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+kesişmeyi sağlayan diğer teknik göstergeler ve Pin Çubukları ticareti yaparken kullanmak için harika bir 
+araçtır.
+Kavşak Örnekleri:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Hepsini bir araya koy:
+Pin Çubuklarının nasıl takas edileceğini ele almadan önce, sipariş verme konusunda 
+bilmeniz gereken bir şey var. Eğer deneyimsiz bir tüccar iseniz,ASLA“Piyasa 
+Uygulaması” emri verin. Bunu bir kez daha okuyun, çünkü bundan daha basit bir 
+şekilde söyleyemem. Bunun nedeni, piyasa fiyatından verilen bir emrin genellikle 
+heyecandan (mantık değil) yapılması ve büyük olasılıkla ticaret planınıza (eğer varsa) 
+uymamasıdır.
+Acemi yatırımcılar normalde Piyasa Emirlerini verirler çünkü ticaret platformlarına giriş yaparlar ve 
+harika bir Pin Çubuğunun yeni oluştuğunu görürler, kar hakkında düşünürken heyecanlanırlar ve 
+fiyat açısından tehlikeli olabilecek alanlara (doğrulama yanlılığı olarak bilinir) karşı kör olurlar. Tipik 
+olarak emir verildikten sonra, yeni başlayan kişi yaptığı yanlışın hemen farkına varır, ancak artık çok 
+geç, ticaret büyük ihtimalle onların aleyhine sonuçlanmıştır.
+Bazen şansınız yaver gider ve bu işlemler işinize yarar, ama neden riske giresiniz ki? Günlük 
+(veya daha yüksek) zaman dilimlerinde işlem yapıyorsanız, piyasa fiyatından emir vermenize 
+gerçekten gerek kalmamalı ve duygulara göre değil, iyi düşünülmüş bir plana göre işlem 
+yapmalısınız.
+Tamam, artık tüm sıkıcı şeyleri bir kenara bıraktığımıza göre, Pin Barların nasıl takas edileceğine 
+geçelim.
+Girdileri
+Yeni bir ticaret sistemi sunulduğunda herkes her zaman Giriş kurulumuna odaklanır. Hiç 
+şüphe yok ki, muhtemelen bu kitabı ilk satın aldığınızda bu bölümü aramak için göz 
+gezdirmişsinizdir. Dünyadaki en iyi giriş noktasına sahip olabileceğiniz defalarca 
+kanıtlanmıştır, ancak nereden ve ne zaman çıkacağınıza dair bir planınız yoksa girişiniz 
+değersizdir.
+Bununla birlikte, zayıf bir giriş noktası da kesinlikle size yardımcı olmayacaktır, ancak bir işleme 
+girdiğiniz yerin, bir ticaret sisteminin / planının yalnızca küçük bir kısmı olduğunun ve nerede veya 
+altında olduğunu bilmeden asla bir işleme girmemeniz gerektiğinin farkına varmak önemlidir. hangi 
+şartlarda çıkacaksınız. GibiSteve Nison "her zaman hatalı olduğunu söyleyen bir fiyat vardır" der ve 
+buna zararı durdurma denir. Herhangi bir işleme girmeden önce daima risk/ödül oranınızı ve kar 
+alma ve zararı durdurma seviyelerinizi bildiğinizden emin olun.
+Pin Bar ticareti yapmanın birkaç yöntemi vardır ve aşağıda yatırımcıların kullandığı üç ana yöntemin bir 
+özeti bulunmaktadır:
+Yöntem 1: Yüksek Risk - Bir sonraki çubuk açılışında Piyasaya girin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Deneyimli bir yatırımcıysanız ve oluşan Pin çubuğu kurulumunun hızla yükselip hızlı kârla 
+sonuçlanacağından son derece eminseniz, bir sonraki çubuğun/şamdanın açılışına 
+girebilirsiniz. Bu alım satım büyük olasılıkla bir Piyasa Emri şeklinde olacaktır ve durağınız 
+pin çubuğunun yüksek/düşük noktasının üzerinde olmalıdır (bu, Pin Barın boyutuna bağlı 
+olarak çok fazla sermayeyi riske atmanız gerekebileceği anlamına gelir).
+Yöntem 2: Orta / Yüksek Risk - Pin Çubuğu Yüksek / Düşük ihlal edildiğinde Durdurmaya Girin
+Bu kitaptaki birçok örnekten, Pin Barların her zaman mükemmel şekilde oluşmadığı ve 
+gövdenin her iki yanında biri küçük biri büyük olmak üzere fitillerin bulunabildiği 
+görülmektedir. Emir tetiklenmeden önce fiyatın küçük fitil yönünde bir miktar ivme 
+kazanmasına izin vererek küçük fitili avantajımıza kullanabiliriz. Yöntem 1'den farklı olarak bu 
+yöntem, ticarete başlamadan önce fiyatın istenen yönde hareket ettiğini doğrular. Eğer sen
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+On Stop emrinizi Pin Bar'ın en yüksek veya en düşük seviyesinin biraz ötesine (2 - 3 pip) 
+yerleştirin, ardından işlem yapılmadan önce fiyatın kâr yönünde hareket etmesi gerekir.
+Hesaplanan risk/ödül oranınız 1:3 veya daha yüksekse yalnızca 1. veya 2. yöntemleri kullanarak işlem 
+yapmanızı öneririm. Basitçe söylemek gerekirse bu, riske atılan her 50$ için yalnızca 150$ kazanmayı 
+planlıyorsanız işlem yapmanız gerektiği anlamına gelir.
+Yöntem 3: Düşük Risk - %50 Pin Çubuğu geri izlemesine girin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Tarih, fiyatın birçok pazarda Pin Bar aralığının bir kısmını geri alma eğiliminde 
+olduğunu gösteriyor. Muhafazakar tüccar, Pin Bar tamamlandıktan sonra fiyat Pin Bar 
+aralığının yaklaşık %50'sine geri döndüğünde alım veya satım için Limit emri girerek bu 
+olgudan yararlanabilir. Kabaca söylüyorum çünkü bu kesin bir bilim değil ve fiyatın 
+hangi seviyeye geri dönebileceğini tahmin etmek için piyasa koşullarını ve ilgi alanlarını 
+dikkate almanız gerekiyor.
+Bu yöntemle dikkat edilmesi gereken bir nokta, çoğu zaman fiyatın Pin Çubuğunun belirli bir 
+yüzdesini takip etmemesi, çoğu zaman fiyatın yükselip yükselmeye devam etmesidir. Bu sizi 
+kafa karıştırıcı ve kuru bırakabilir ve potansiyel karları kaçırabilir, ancak unutmayın, gelecekte 
+her zaman kar edebileceğiniz başka bir Pin Bar kurulumu olacaktır ve fiyat da aynı kolaylıkla 
+diğer yöne gidebilir ve kaybedilen bir ticarete neden olabilir. .
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Pin Bar kurulumunda bir işleme girmeyi düşündüğünüzde kullandığınız yöntem ne 
+olursa olsun, kazanacağınız tüm para hakkında hayal kurmak ve açık ilgi seviyelerini 
+görememek yerine, işlem yapmamak için nedenler aramalısınız. para kaybetmenize 
+neden olabilecek fiyat.
+Pratik açıdan bu, yalnızca en iyi Pin Bar kurulumlarını (yani: çok sayıda kesişme noktası olan) almanız 
+gerektiği anlamına gelir ve gerçek dünyada bu, ayda yalnızca 3-5 kez işlem yapacağınız anlamına gelebilir. 
+Bazı insanlar için bu yeterli alım satım sağlamaz ve daha fazla aksiyona ihtiyaç duyarlar (okuyun: drama), 
+bu nedenle daha düşük zaman dilimlerinde alım satım yaparlar, ancak aşırı alım satımın acemi 
+yatırımcıların hesaplarını patlatmasında önemli bir faktör olduğu tartışılabilir. Bana göre, yirmi 'C' sınıfı 
+kurulumla işlem yapmak yerine piyasanın mükemmel bir 'A' sınıfı kurulum oluşturmasını beklemek daha 
+iyidir.
+Duraklar:
+Bazı yatırımcılar, işlemlerine zararı durdurma seviyesi eklemeyi düşünmekte zorlanırlar. Basit gerçek şu 
+ki, hiç kimse hatalı olmayı sevmez ve eğer zararı durdurma kararınıza ulaşılırsa, bu güveninize büyük bir 
+darbe indirebilir (ticaret sermayenizden bahsetmeye bile gerek yok). Bazı insanlar stopları sevmezler 
+çünkü bunun, işlemi kazanıp kazanamayacağınız konusunda kafanızda şüphe yarattığını hissederler.
+Emin olun piyasa sizin şüphelerinizi, korkularınızı, umutlarınızı veya hayallerinizi umursamıyor 
+ve emrinize stop ekleseniz de eklemeseniz de tam olarak istediğini yapacak. Hiç kimse 
+geleceği tahmin edemez ve her ticaret kurulumu piyasada benzersiz bir andır, başka hiçbir 
+ticaret tam olarak aynı olmayacaktır, bu nedenle fiyatın nereye gideceğine dair tahmininizin 
+yanlış olması durumunda bir durup üslerinizi kapatabilirsiniz. (Bu konuda iyi bir okuma 
+istiyorsanız Mark Douglas'ın kitabını deneyin.Bölgede Ticaret ).
+Yöntem 1: Çok Yüksek Risk - Pim Çubuğu Açma/Kapamada durma seviyesi
+Burası stop seviyenizi belirlemek için son derece riskli bir yerdir ve zayıf kişiler 
+tarafından denenmemelidir. Bazen ticaret kâra doğru kayar ve şansınız yaver gider, 
+ancak çoğu zaman zarar nedeniyle durdurulursunuz. Bunun nedeni, durağınızı Pin 
+Bar'ın Açılış / Kapanış noktasına yakın bir yere koyarsanız, gün içi piyasadaki 
+dönüşlerden etkilenme ve durağınızın iptal edilme ihtimali vardır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Yöntem 2: Yüksek Risk - Pin Bar aralığı içindeki en yakın ilgi noktasındaki durma seviyesi.
+Bazen geçmişte önemli olan bir LRN'nin (veya S/R veya TL'ler gibi diğer ilgi alanlarının) hemen 
+üzerinde veya yakınında bir Pin Bar oluşabilir ve limitinizi sınırlamak için stopunuzu bu seviyenin 2 - 3 
+pip ötesine yerleştirmek isteyebilirsiniz. riske atmanız gereken sermaye miktarı. Bu yöntem aynı 
+zamanda ticaret hesabınız için de çok tehlikeli olabilir, çünkü piyasadaki büyük oyuncular bazen 
+stoplarını yanlarına koyan küçük vadeli tüccarları sarsmak için faiz seviyelerini hedef alırlar (çünkü 
+çok fazla riski göze alamazlar), bu nedenle Bu yöntemi kullanırken dikkatli olun.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Yöntem 3: Orta Risk - Pin Bar aralığının %50'sinde durdurma seviyesi.
+Stopunuzu Pin Bar'ın %50 aralığı civarında bir yere yerleştirerek durdurulma riski 
+azaltılabilir; bu, fiyatın biraz daha hareket etmesine olanak tanır ancak yine de bu yöntemi 
+kullanırken sıklıkla bir kayıp için durdurulmaya hazır olun.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Yöntem 4: Düşük Risk - Pin Barın ötesinde yüksek/düşük durma seviyesi
+Faydalanacağınız en basit ve en olası yöntem stopunuzu Pin Bar'ın yüksek/düşük 
+noktasından belirli bir mesafe (belki 2-3 pip) öteye yerleştirmektir. Pin Bar'ın boyutuna bağlı 
+olarak bu, ticaret planınıza göre riske atılan istenen sermaye miktarını elde etmek için lot 
+büyüklüğünüzü azaltmanız gerektiği anlamına gelebilir, ancak uzun vadede buna değer.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Bir yatırımcı olarak başarı ile başarısızlık arasındaki farkı oluşturabilecek dikkat edilmesi gereken son 
+şey, stopunuzu mümkün olan en kısa sürede kırılma noktasına getirebilme yeteneğidir. Bunu 
+yapmanın mekanizması tüccarın takdirindedir, ancak normalde işlem benim lehime 2 veya daha fazla 
+pip hareket ettiğinde stopumu başabaş noktasına (spread'i kapsayacak şekilde) kaydırırım. Bu, bir 
+yatırımcı olarak deneyim ve rahatlıktan doğar ve seçtiğiniz seviye tamamen farklı olabilir.
+Not: Başabaş noktasında sona eren bir ticaret, kaybeden değil, kazanandır!
+Kâr Alma:
+Kâr elde etmek bir tüccar olarak yapılması gereken en önemli şeylerden biridir. Kaç kez kârlı bir 
+ticaretin, kâr etmediğiniz için zarara dönüştüğünü gördünüz? Acıyor değil mi? Bu, bir 
+yatırımcının geliştirebileceği en kötü alışkanlıklardan biridir ancak aşağıda belirtilen teknikleri 
+kullanırsanız telafisi kolaydır.
+Her ticarette kazanan olmayabilir, ancak bir planınız varsa ve ona bağlı kalırsanız başarı 
+şansınızı artırabilirsiniz. Aşağıda açıklanan yöntemler bazen bazı karları kaçırmanıza 
+neden olabilir, ancak hesabınızdaki herhangi bir kar, zarardan daha iyidir ve her zaman 
+para kazanmak için başka bir şans olacaktır.
+Girişlerde ve zararı durdurmada olduğu gibi, Pin Barlarla işlem yaparken kar elde etmenin birkaç 
+yöntemi vardır.
+Yöntem 1 (TP1): Düşük Risk - Önceki çubuk aralığı içindeki en yakın SR seviyesinde TP
+Pin Çubuğunun önündeki çubuk (sol göz olarak da bilinir) oldukça büyükse o zaman
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+İlk kar hedefi, o mumun işlem aralığı dahilindeki bir ilgi alanı olabilir.
+Yöntem 2: Orta Risk - Önceki çubuklarda düşük veya yüksek TP
+İkinci kar hedefiniz Pin Bar'dan önce gelen çubuğun/mumun en düşük veya en yüksek 
+seviyesi olmalıdır. Bunu yargılamak oldukça kolaydır ve bu yöntemle 1: 1,5'lik minimum 
+ödül riskini hedeflemelisiniz.
+Yöntem 3 (TP3): Yüksek Risk - önceki çubuk aralığının dışındaki en yakın faiz seviyesinde
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Kar elde etmenin üçüncü yolu, önceki mum aralığının ötesindeki en yakın faiz seviyesini 
+bulmak ve stopunuzu o seviyeye ayarlamaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Kısmi Kâr:
+İleri seviyedeki yatırımcılar bu seviyelerin bazılarında kısmi kar elde ederek karlarını yönetebilirler. 
+Profesyonel yatırımcıların TP1'e ulaştıklarında %50, ardından TP2 veya TP3'te %25 - %50 kar elde etmeleri 
+alışılmadık bir durum değildir. Bazı yatırımcılar TP1'e ulaştıktan ve bir miktar kar elde ettikten sonra karlarının 
+devam etmesine izin vermekten hoşlanırlar, ancak bunu yalnızca başabaş noktasına veya ötesine geçmek için 
+durağınızı hareket ettirdiyseniz yapın. Bu yöntemi kullanmayı tercih ederseniz ne kadar kazanç elde 
+edeceğiniz ve ne düzeyde olacağı tamamen size bağlıdır.
+İzleyen Duraklar:
+Bir işlemi gözetimsiz bırakmanız gerekiyorsa (örneğin bir gecede) karı kilitlemek için takip eden 
+durakları kullanabilirsiniz. Takip eden duruşlar, piyasanın aleyhinize dönebileceğinden 
+korktuğunuzda veya uzun bir süre boyunca işleminizi izleyemediğinizde içinizin rahat olmasını 
+sağlamanın iyi bir yoludur. Bunu yaparken piyasanın ne kadar değişken olduğunu anlamak iyi 
+bir fikirdir çünkü sıradan piyasa dönüşlerinden vaktinden önce durdurulmak istemezsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+O zaman plan nedir?
+Artık tüm bu bilgilerle donanmış olduğunuza göre, ticaretinizde tutarlılığı sürdürmek ve kârınızı 
+sürdürmek için bir eylem planına ihtiyacınız var. Aşağıda Pin Bar ticareti yaparken kullanılacak örnek 
+bir kontrol listesinin/planın özetlendiği bir tablo bulunmaktadır.
+Kontrol listesini inceledikten ve kurulumu değiştirmeye karar verdikten sonra kontrol listesini 
+tekrar okuyun ve bir kez daha düşünün. Bilge bir kişi bir zamanlar şöyle demişti: "Ticaret yapmak 
+için nedenler yerine, ticaret yapmamak için nedenler aramalısınız", bu bir noktaya kadar iyi bir 
+tavsiye çünkü asla mükemmel kurulumu elde edemezsiniz ve bir aşamada ayak parmaklarınızı 
+buna sokmanız gerekir. su. Benim tavsiyem, kontrol listesini takip ederseniz ve riskten 
+memnunsanız, küçük bir işlemle piyasayı test edin, eğer işler istediğiniz gibi giderse, gerektiği 
+gibi ek pozisyonlar açabilirsiniz.
+Dikkat edilmesi gereken son nokta, yatırımcıların her zaman bir ticaret günlüğü tutmayı düşünmeleri gerektiğidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Günlüğünüz kontrol listesine ek olarak kullanılabilir ve devam eden kazanma yüzdesi, ticaret 
+hesabınızdaki özsermaye ve hatta işleme girerken zihinsel durumunuz gibi her bir ticaretle ilgili 
+tüm ilgili ayrıntıları kaydetmelidir. En iyi kurulum türlerini grafiksel olarak takip etmek için 
+günlüğe işlem girişi ve çıkışı sırasında ekran görüntüleri eklemek yararlı olabilir. Bunun gibi 
+günlükler ilerlemenizi takip etmenin, nerede yanlış yapıyor olabileceğinizi analiz etmenin veya 
+ticaret stratejinizdeki iyileştirme alanlarını bulmanın mükemmel bir yoludur.
+Çözüm:
+İşte karşınızda millet, Pin Bar ticareti için önemli noktaların açıklığa kavuşturulmasını sağlayacak 
+birçok örnek grafik içeren pratik bir e-kitap üretme girişimim. Umarım faydalı bulmuşsunuzdur 
+ve diğer birçok e-kitap gibi büyük bir zaman ve para kaybı değildir. Herhangi bir sorunuz veya 
+geri bildiriminiz varsa şu adresteki blogumu ziyaret etmeyi deneyin:www.theloungetrader.co M
+veya bana kct@theloungetrader.com adresinden bir e-posta gönderin .
+Mutlu Ticaret!
+KC Thorpe
+www.forexgercekleri.xyz - [Twitter: @eseckal]

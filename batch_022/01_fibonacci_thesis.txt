@@ -1,0 +1,2730 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 9\Baskı 9\Fibonacci Oranları Bir Yatırım Stratejisine Değer Katabilir Mi - Montreal Üniversitesi - Guillaume Alim Tremblay - Ekonomi Yönetimi Bilimi Yüksek Lisans Tezi - M. Justin Leroux Direktifinde (93 sayfa) - @eseckal.pdf
+PAGES: 93
+
+
+=== PDF PAGE 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LES RATIOS DE FIBONACCI PEUVENT-ILS APPORTER 
+DE LA VALEUR À UNE STRATÉGIE D’INVESTISSEMENT? 
+ 
+ 
+Par 
+ 
+Guillaume Alim Tremblay 
+ 
+Mémoire présenté en vue de l’obtention du grade de 
+Maîtrise ès Science de la gestion (M.Sc.) 
+Économie appliquée 
+ 
+Sous la direction de : 
+M. Justin Leroux – Professeur agrégé HEC Montréal 
+ 
+ 
+ 
+Juillet 2011 
+© Guillaume Alim TREMBLAY, 2011 
+ 
+ 
+
+
+
+=== PDF PAGE 2 ===
+iii
+İçindekiler
+LŞEKİL VE TABLOLAR LİSTESİ.................................................. ..................................V
+RTEŞEKKÜRLER.................................................. .................................................. .........X
+SÖZET.................................................. .................................................. .....................XI
+SAHİP OLMAKÖZET.................................................. .................................................. .....................XII
+1. benGİRİŞ.................................................. .................................................. .......13
+1.RLİTERATÜR İNCELEMESİ.................................................. ...................................................18
+2.1 Teknik analizin karlılığı.................................................. .. .................................................... 18
+2.2 Görsel konfigürasyonlar.................................................. ......... ................................................... ......... 21
+2.3 Japon mumları ................................................... . ................................................. . 22
+2.4 Fibonacci oranları.................................................. ... .................................................... ... ......... 25
+3.METODOLOJİ.................................................. .................................................. ......30
+3.1 Fibonacci oranlarına dayalı strateji ................................................... ... .................................. 30
+3.2 Fibonacci düzeltmeleri ................................................... .. .................................................... 31
+3.3 Fibonacci uzantıları.................................................. ......... ................................................... ......... ..... 31
+3.4 Fibonacci oranlarını kullanmanın zorlukları ................................................... .. ..................32
+3.4.1 A ve B düzeylerini seçmedeki zorluklar ................................................... ...................................... 32
+3.4.2 Baskın trendi seçmenin zorlukları.................................................. .................. 34
+3.5 Japon mumları, görsel şekiller ve Fibonacci oranları ................................................... 35
+3.6 Şeklin doğrulanması.................................................. . ................................................. . ... 37
+3.7 A ve B seviyelerinin seçimi.................................................. .. ................................................................ .. ..... 38
+4.MODELES.................................................. .................................................. ..................40
+4.1 CE Konfigürasyonunun Modellenmesi ................................................... ................................................. 40
+4.1.1 Model DT1 ................................................... .... .................................................... .... ................ 41
+4.1.2 Model DT2 ................................................... .................................................. .................. 42
+4.1.3 Model DT3 ................................................... .................................................. .................. 43
+4.2 Kabul edilen strateji ................................................... . ................................................. . .................44
+4.2.1 Giriş noktasının modellenmesi ................................................... . ................................................... 44
+4.2.2 Çıkış noktasının modellenmesi.................................................. .................................................. 46
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+IV
+4.2.3 Kritik seviye ve geri çekilmeler.................................................. ................................................. 48
+4.2.4 Karar ağacı.................................................. .................................................. .......... 48
+4.3 Risk ................................................................ .................................................. .................................. 50
+4.4 Performans ölçümleri .................................................... . ................................................. . ... 51
+4.4.1 Kâr/Zarar oranı.................................................. .... .................................... ................. .........51
+4.4.2 Kazanç beklentisi.................................................. .................................................. ...... 54
+4.4 İşlem maliyetleri.................................................. ......... ................................................... ......... ........... 56
+5.DVERİ.................................................. .................................................. ..................58
+6.RSONUÇLAR.................................................. .................................................. ..................62
+6.1 Model DT1 ................................................... . ................................................. . ................................. 63
+6.2 Model DT2.................................................. . ................................................. . ................................. 65
+6.3 Model DT3.................................................. . ................................................. . ................................. 67
+6.4 Beklenen kazanç ve getiri sonuçlarına ilişkin tartışma................................................ 69
+6.5 Kazanç beklentisi farkı.................................................. ... ................................................. 70
+6.5.1 Model DT1 ................................................... .... .................................................... .... ................ 70
+6.5.2 Model DT2 ................................................... .................................................. .................. 72
+6.5.3 Model DT3 ................................................... .... .................................................... .... ................ 74
+6.6 Verim farkı.................................................. .. ................................................ .. 76
+6.6.1 DT1 konfigürasyonu.................................................. . ................................................. . ...... 76
+6.6.2 DT2 konfigürasyonu.................................................. . ................................................. . ...... 78
+6.6.3 DT3 konfigürasyonu.................................................. . ................................................. . ...... 79
+6.7 Geri Çekmelerin marjinal katkısının sonuçlarına ilişkin tartışma .................................... 81
+7.CÇÖZÜM.................................................. .................................................. ................83
+SAHİP OLMAKEKSAHİP OLMAK ................................................. .................................................. ...................87
+SAHİP OLMAKEKB.................................. ............... ..................................................... ....88
+RREFERANSLAR.................................................. .................................................. ................92
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+v
+Şekil ve tabloların listesi
+Şekil 1.1:DT Yapılandırmasının arkasındaki mantık 15
+Şekil 2.1:Satış sinyali için baş ve omuzlar 21
+Şekil 2.2:Japon mumunun yapımı 23
+Şekil 2.3:Fibonacci geri çekilmelerinin ve uzantılarının uygulanması 27
+Şekil 3.1:Döngüsel yukarı ve aşağı 33
+Şekil 3.2:Japon mumlarıyla gösterilen döngüsel iniş ve çıkışlar 33
+Şekil 3.3:Trendin zayıf tanımlanması 34
+Şekil 3.4:Çift üst ve üçlü üst 36
+Şekil 3.5:Üç mumdaki ikinci yukarı/aşağı 37
+Şekil 3.6:Üçlü yüksek/düşük onayı 38
+Şekil 3.7:A ve B seviyelerinin grafiksel gösterimi 39
+Şekil 3.8:A ve B'ye göre giriş ve çıkış noktası (satın alma) 39
+Şekil 4.1:DT1 kurulumu 41
+Şekil 4.2:DT2 yapılandırması 42
+Şekil 4.3:DT3 yapılandırması 44
+Şekil 4.4:Maksimum kaybın çizimi 47
+Şekil 4.5:Yatırım stratejisi 49
+Şekil B1:Seçilen DT1 Konfigürasyonunun grafiksel gösterimi 89
+Şekil B2:Seçilen DT2 Konfigürasyonunun grafiksel gösterimi 90
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+vi
+Şekil B3:Seçilen DT3 Konfigürasyonunun grafiksel gösterimi 91
+Tablo 3.1:%x geri çekilmenin hesaplanması 31
+Tablo 3.2:x uzantısının hesaplanması 32
+Tablo 4.1:DT1 Yapılandırma Koşulları 41
+Tablo 4.2:DT2 Yapılandırma Koşulları 43
+Tablo 4.3:DT3 Yapılandırma Koşulları 44
+Tablo 4.4:A, B ve geri çekilme (alış) 46
+Tablo 4.5:A, B ve geri çekilme (satış) 46
+Tablo 4.6:Maksimum kayıp 47
+Tablo 4.7:AB segmentinin %100 pozisyon alması 52
+Tablo 4.8:AB segmentinin %78,6'sında yer aldı 52
+Tablo 4.9:AB segmentinin %61,8'inde yer aldı 52
+Tablo 4.10:AB segmentinin %50'sinde yer alan pozisyon 53
+Tablo 4.11:AB segmentinin %38,2'sinde yer aldı 53
+Tablo 4.12:AB segmentinin %23,6'sında yer aldı 53
+Tablo 4.13:Kâr/Zarar oranının özet tablosu 54
+Tablo 6.1:DT1- pozisyon %100'de alındı 63
+Tablo 6.2:DT1- pozisyon %78,6'da alındı 63
+Tablo 6.3:DT1- pozisyon %61,8'de alındı 63
+Tablo 6.4:DT1- pozisyon %50'de alındı 64
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+vii
+Tablo 6.5:DT1- pozisyon %38,2'de alındı 64
+Tablo 6.6:DT1- pozisyon %23,6'da alındı 64
+Tablo 6.7:DT2- pozisyon %100'de alındı 65
+Tablo 6.8:DT2- pozisyon %78,6'da alındı 65
+Tablo 6.9:DT2- pozisyon %61,8'de alındı 65
+Tablo 6.10:DT2- pozisyon %50'de alındı 66
+Tablo 6.11:DT2- pozisyon %38,2'de alındı 66
+Tablo 6.12:DT2- pozisyon %23,6'da alındı 66
+Tablo 6.13:DT3- pozisyon %100'de alındı 67
+Tablo 6.14:DT3- pozisyon %78,6'da alındı 67
+Tablo 6.15:DT3- pozisyon %61,8'de alındı 67
+Tablo 6.16:DT3- pozisyon %50'de alındı 68
+Tablo 6.17:DT3- pozisyon %38,2'de alındı 68
+Tablo 6.18:DT3- pozisyon %23,6'da alındı 68
+Tablo 6.19:DT1-Geri çekilmenin beklenen kazancına marjinal katkı %78,6 71
+Tablo 6.20:DT1-Geri çekilmeden kazanç beklentisinin marjinal katkısı %61,8 71
+Tablo 6.21:DT1-%50 gerilemenin beklenen kazancına marjinal katkı 71
+Tablo 6.22:DT1-Geri çekilmenin beklenen kazancına marjinal katkı %38,2 72
+Tablo 6.23:DT1-Geri çekilmeden kazanç beklentisine marjinal katkı %23,6 72
+Tablo 6.24:DT2-Geri çekilmenin beklenen kazancına marjinal katkı %78,6 72
+Tablo 6.25:DT2-Geri çekilmenin beklenen kazancına marjinal katkı %61,8 73
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+viii
+Tablo 6.26:DT2-%50 gerilemenin beklenen kazancına marjinal katkı 73
+Tablo 6.27:DT2-Geri çekilmenin beklenen kazancına marjinal katkı %38,2 73
+Tablo 6.28: DT2-Geri çekilmenin beklenen kazancına marjinal katkı %23,6 74
+Tablo 6.29: DT3-Geri çekilmenin beklenen kazancına marjinal katkı %78,6 74
+Tablo 6.30: DT3-Geri çekilmenin beklenen kazancına marjinal katkı %61,8 74
+Tablo 6.31: DT3-%50 geri çekilmenin beklenen kazancına marjinal katkı 75
+Tablo 6.32: DT3-Geri çekilmenin beklenen kazancına marjinal katkı %38,2 75
+Tablo 6.33: DT3-Geri çekilmenin beklenen kazancına marjinal katkı %23,6 75
+Tablo 6.34: DT1-Geri çekilme getirisine marjinal katkı %78,6 76
+Tablo 6.35: DT1-Geri çekilme getirisine marjinal katkı %61,8 76
+Tablo 6.36:DT1-%50 geri çekilme getirisine marjinal katkı 77
+Tablo 6.37:DT1-Geri çekilme getirisine marjinal katkı %38,2 77
+Tablo 6.38: DT1-Geri çekilme getirisine marjinal katkı %23,6 77
+Tablo 6.39: DT2-Geri çekilme verimine marjinal katkı %78,6 78
+Tablo 6.40: DT2-Geri çekilme getirisine marjinal katkı %61,8 78
+Tablo 6.41: DT2-%50 geri çekilme getirisine marjinal katkı 78
+Tablo 6.42: DT2-Geri çekilme getirisine marjinal katkı %38,2 79
+Tablo 6.43: DT2-Geri çekilme getirisine marjinal katkı %23,6 79
+Tablo 6.44: DT3-Geri çekilmenin beklenen kazancına marjinal katkı %78,6 79
+Tablo 6.45: DT3-Geri çekilme verimine marjinal katkı %61,8 80
+Tablo 6.46: DT3-%50 geri çekilme getirisine marjinal katkı 80
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+ix
+Tablo 6.47: DT3-Geri çekilme verimine marjinal katkı %38,2 80
+Tablo 6.48: DT3-Geri çekilme verimine marjinal katkı %23,6 81
+Tablo B1:Seçilen DT1 Konfigürasyonunun koşullarının ayrıntıları 88
+Tablo B2:Seçilen DT2 Konfigürasyonunun koşullarının ayrıntıları 89
+Tablo B3:Seçilen DT3 Konfigürasyonunun koşullarının ayrıntıları 90
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+X
+Teşekkürler
+Bu tez, birkaç yıldır benimle birlikte olan fikirlerin hayata geçirilmesini temsil ediyor 
+ve benim için birçok kişiye içtenlikle teşekkür etme fırsatı sunuyor.
+Öncelikle tez direktörüm Bay Justin Leroux'ya böylesine iddialı bir araştırmayı 
+denetlemek için gerekli olan açık fikirliliğinden dolayı teşekkürlerimi sunmak 
+isterim. Öğretme becerileri sayesinde bana bu büyük projeyi gerçekleştirmek için 
+gerekli araçları sağlamayı başardı. Onun katılımı ve ulaşılabilirliği başarımda 
+belirleyici faktörlerdi. Aynı zamanda bu fırsattan yararlanarak Kanada Sosyal 
+Bilimler ve Beşeri Bilimler Araştırma Konseyi'ne, Uygulamalı Ekonomi Enstitüsü'ne 
+ve Letko & Brosseau firmasına en cömert mali desteklerinden dolayı teşekkür 
+etmek istiyorum.
+İkinci olarak, lisans eğitimimin ardından beni sezgilerimi takip etmeye ve böylece 
+şansımı finansal piyasalarda denemeye teşvik eden üç arkadaşım Chadi, Jamil ve 
+Roger'a içtenlikle teşekkür etmek istiyorum. Tezimi tamamlamamı sağlayan 
+bilgilerimden dolayı onlara borçluyum. Ayrıca beni çalışmalarıma geri dönmeye ve 
+finansal bilgilerimden yararlanmaya teşvik eden Uygulamalı Finansal Ekonomi Yüksek 
+Lisans mezunu Shady'ye de teşekkür etmek isterim. Onun ulaşılabilirliği ve tavsiyeleri 
+şüphesiz çok önemli bir yardımdı.
+Son olarak, fedakarlıkları hedeflerime ulaşmamı sağlayan annem ve babam Luc 
+ve Beros'a en içten teşekkürlerimi sunuyorum. Babam yeteneklerime en çok 
+inanan ve hayallerimin peşinden gitmem konusunda beni cesaretlendiren 
+kişidir. Annem her zaman kararlarıma katılmasa da beni her zaman destekledi. 
+Ayrıca yüksek lisansım boyunca yanımda olan ve yaşam sevinci bulaşıcı olan 
+arkadaşım Annie'ye de özel bir teşekkür etmek istiyorum. Hepinize göre, bu 
+başarı kısmen sizindir!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+xi
+Özet
+Finansal varlıkların fiyatının gelişimini tahmin etmenin bir yöntemi olan teknik 
+analiz, yatırım stratejileri geliştirmek için fiyat geçmişini kullanmaktan oluşur. 
+Piyasa etkinliği hipoteziyle çelişen bu yöntem, finans dünyasında özellikle döviz 
+piyasasına ilişkin olarak yaygın olarak kullanılmaktadır. Yatırımcıların kullandığı 
+çeşitli teknik analiz araçları Fibonacci oranlarına dayanmaktadır. Bunlar, destek 
+ve direnç görevi gören Fibonacci dizisine dayalı önceden belirlenmiş fiyat 
+hareketi oranlarıdır. Bu araştırmanın amacı, teknik analize dayalı bir yatırım 
+stratejisinin Fibonacci oranları (geri çekilmeler ve genişlemeler) kullanılarak 
+iyileştirilip iyileştirilemeyeceğini doğrulamaktır. Bunu yapmak için Japon 
+mumlarından oluşan görsel bir konfigürasyon olan DT Konfigürasyonuna dayalı 
+bir finansal strateji oluşturuldu. Sonuçlar, 1'den 1'e kadar dikkate alınan yedi 
+döviz çifti için kesindir.yaniOcak 2008 - 28 Şubat 2011. Nitekim DT 
+Konfigürasyonunun ortaya çıkmasının ardından pozisyon almadan önce fiyatın 
+Fibonacci oranının 0,5'e ulaşmasını beklemek, kazanç beklentisini iyileştirmeyi 
+ve üç alternatifin geri dönüşünü mümkün kılıyor. Seçilen kar hedefinden 
+bağımsız olarak DT konfigürasyonu.
+Anahtar Kelimeler: Teknik analiz (TA), Japon mumları, Fibonacci oranları, döviz 
+piyasası, finansal piyasalar, yatırım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+xi
+Soyut
+Teknik analiz, geçmiş fiyatlara dayalı olarak varlık fiyatlarını tahmin etmek için kullanılan bir 
+tahmin yöntemidir. Etkin piyasa hipoteziyle çelişse de özellikle döviz piyasasında yatırımcılar 
+tarafından yaygın olarak kullanılmaktadır. Son derece popüler olan araçlardan biri 
+Fibonacci oranlarının kullanılmasıdır. Yatırımcılar bunlarla fiyat hareketlerine ve Fibonacci 
+dizisinden elde edilen oranlara dayanarak destek ve direnç seviyelerini belirlemeye 
+çalışırlar. Bu makalenin amacı, teknik analize dayalı bir ticaret stratejisinin Fibonacci 
+oranları kullanılarak geliştirilip geliştirilemeyeceğini doğrulamaktır. Bunu başarmak için 
+Japon mum çubuklarıyla oluşturulan görsel bir model olan Pattern DT'ye dayalı bir ticaret 
+stratejisi oluşturuldu. 1 Ocak'tan itibaren incelenen yedi döviz çifti için sonuçlar olumlust
+2008 ve 28 Şubat'ta sona eriyorbu2011. Pattern DT ortaya çıktığında, giriş noktası olarak 0,5 
+Fibonacci oranını seçmek, tüm kâr hedeflerinde kârlılığı artırmamızı sağlar.
+Anahtar kelimeler: Teknik analiz, Japon şamdanları, Fibonacci oranları, Finansal 
+piyasalar, Forex, Yatırım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+13
+1. Giriş
+Finansal piyasa tahminleri yeni değil. Babil'in hâlâ var olduğu dönemde, 
+bozulabilir malların fiyatları, bunların gelişimini izlemek amacıyla tabletlere 
+kaydediliyordu (Hasanhodzic ve Lo, 2010). O zaman fiyatları analiz etmek ve 
+böylece fiyat değişimlerinden yararlanmaya çalışmak daha kolaydı. Hatta 
+dönemin spekülatörlerinin fiyatları analiz etmek için astrolojik döngüleri 
+kullandıkları da söylenmektedir. Tahmin teknikleri o zamandan bu yana önemli 
+ölçüde gelişti, ancak kâr hırsı hala mevcut. Günümüzde yatırımcıların kullandığı 
+tahmin tekniklerinden biri de teknik analizdir (TA). AT, yatırım stratejileri 
+oluşturmak için fiyat geçmişinin kullanılmasından ibarettir. Akademisyenler 
+tarafından pek takdir edilmemekte ve hatta alay konusu olmaktadır (Malkiel, 
+1981). Fiyatların grafik üzerindeki evrimini analiz ederek tahmin etme girişimi, 
+sadece elin çizgilerini okuyarak geleceği okuyabildiğini iddia eden falcıyı 
+anımsatıyor. AT sadece Babil zamanının astrolojik tekniklerini hatırlatan 
+ezoterik bir uygulama olarak algılanmıyor. Ayrıca fiyatların her zaman mevcut 
+bilgiyi tam olarak yansıtması durumunda piyasanın etkin olduğunu ifade eden 
+Etkin Piyasa Hipotezi (HEM) (Fama, 1970) ile çeliştiği için de tartışmalıdır. Geçmiş 
+fiyatlar bilindiği için herhangi bir tahmin gücüne sahip olamazlar, ekonomik kar 
+üretemezler (Jensen, 1978). Ekonomik kâr, işlem maliyetleri ve riske göre 
+düzeltilmiş kârdır. AT'nin zayıf teorik temelleri bu nedenle akademisyenlerin 
+şüpheci kalmasını sağlar (Narasimhan, 2000).
+Bununla birlikte, akademik dünya, HEM'in dayandığı hipotez olan yatırımcıların 
+rasyonelliğini sorgulayan davranışsal finansın ortaya çıkışından bu yana (Shiu ve Li, 
+2011) TA'ya giderek daha fazla ilgi duymaya başlamıştır. Gürültülü yeni rasyonel 
+beklenti modelleri aynı zamanda TA'ya başka bir açıdan bakmamızı sağlıyor. Bu 
+nedenle, finansal piyasalardaki gürültü ve/veya yatırımcıların mantıksızlığı 
+nedeniyle TA stratejilerinin karlı olması mümkün olabilir (Park ve Irwin, 2004). 
+Dolayısıyla bu yeni finans dalları, belirli yatırımlarla kar elde edilebileceğini 
+söyleyen birçok çalışmanın yayınlanmasını açıklamayı mümkün kılmaktadır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+14
+TA stratejileri. Bilgisayar biliminin evrimi de AT'nin heyecanına katkıda 
+bulunmuştur (Park ve Irwin, 2007). Bilgi işlem gücü ve veri işleme hızı, çok 
+karmaşık AT stratejileri oluşturmayı ve daha önce hayal bile edilemeyen 
+algoritmaları test etmeyi mümkün kılıyor.
+TA, özellikle bir yıldan daha kısa vadeler için temel analize dayalı tahmin 
+modellerinin etkisizliğinden dolayı döviz piyasalarının analizinde yaygın olarak 
+kullanılmaktadır (Taylor ve Allen 1992). TA ve döviz piyasasına ilişkin literatür 
+oldukça geniştir ancak sonuçlar karışıktır. Pek çok araştırma, belirli stratejilerin 
+karlı olduğunu ve yatırımcılar için değer yarattığını doğruluyor. Ancak bazı 
+açıklamalar bu kârların geçerliliği konusunda şüphe uyandırıyor. Örneğin 
+anormal karların, test edilen stratejilerdeki riskleri telafi etmesi mümkündür. 
+İkincisinin, bir model türetmek için bir dizi verinin özelliklerini kullandığımız 
+"veri madenciliği" ile ilişkili olma olasılığı da vardır. Seriyi birkaç kez kullanarak 
+tahmin değeri olan bir modele ulaşmamız mümkündür. Bu nedenle kâr geçerli 
+olmayacaktır.
+TA uygulayıcıları tarafından kullanılan, çok popüler olan ve literatürde henüz ciddi 
+olarak ele alınmamış bir yöntem, Fibonacci oranlarının kullanılmasıdır. Bu 
+oranlardan çeşitli finansal uygulamalar türetilmiştir ve bunların tümü, potansiyel 
+alım ve satım seviyelerini bulmak için matematikçi Leonardo Fibonacci tarafından 
+bulunan sayı dizisinin özelliklerinin kullanılmasını içerir. Mevcut az sayıda çalışma 
+bunların öngörücü güç içerdiğini göstermektedir (Bhattacharya ve Kumar, 2006; 
+Chaterjee ve diğerleri, 2002). Yatırımcıların bunları değer yaratan stratejiler 
+oluşturmak için kullanmalarının mümkün olabileceği iddia ediliyor. Ancak hiçbir 
+strateji test edilmemiştir. Bu nedenle değer yaratma varsayımsal kalır.
+Fibonacci oranları TA bazlı bir yatırım stratejisine değer katabilir mi? Bu 
+araştırma bu soruyu şu şekilde cevaplamaya çalışmaktadır: "CE kurulumu"
+mumlara dayalı bir teknik analiz kurulumu
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+15
+Japonca1Bölüm 2.3'te ayrıntılı olarak açıklananlar. DT Konfigürasyonu bölüm 4'te 
+ayrıntılı olarak açıklanmaktadır. Daha sonra optimum giriş ve çıkış noktalarını 
+belirlemek için Fibonacci oranları DT Konfigürasyonuna uygulanır. Oluşturulan 
+strateji daha sonra döviz piyasasında test edilir. DT Konfigürasyonu adının, bu 
+Konfigürasyonun aslında bir düşüş sinyali durumunda çift yüksek (D) ve üçlü 
+yüksek (T) kombinasyonu olmasından kaynaklandığını unutmayın. Yükseliş sinyali 
+durumunda bu, çift dip ve üçlü dip kombinasyonudur.
+Şekil 1.1
+DT Yapılandırmasının arkasındaki mantık
+Mevcut araştırma, kapsamlı bir yatırım stratejisi kullanarak Fibonacci geri 
+çekilmelerinin kullanımını ampirik olarak test eden ilk araştırmadır. Böylece 
+uygulamalarının yatırımcılar için gerçekten değer yaratıp yaratamayacağını 
+doğrulamayı mümkün kılar.
+Bu araştırma aynı zamanda Japon mumları hakkındaki mevcut literatüre 
+özellikle pozisyon yönetimi açısından katkıda bulunmaktadır. Mevcut literatürde 
+test edilen mum bazlı AT stratejileri aşağı yukarı benzer pozisyon yönetimine 
+sahiptir. Sinyal oluşturulduktan sonra bir pozisyon alırız ve değişken günlerde 
+karlılığını test ederiz. Bu muhtemelen mumları test etmenin uygun yolu 
+değildir. Bir varlığın fiyatının 2 gün boyunca fırlaması oldukça olasıdır
+1Kısa vadeli yatırıma özgü terimler Ek A'daki sözlükte tanımlanmıştır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+16
+yükseliş sinyalini takip ediyor ve ardından takip eden 8 gün içinde daha belirgin bir 
+şekilde düşüyor. Ancak ilk artış sinyalin olumlu bir teyidi olabilir. Sonuçları 10 gün sonra 
+gözlemlersek sadece fiyat düşüşünü fark edeceğiz ve incelenen sinyalin etkisiz olduğu 
+sonucuna varacağız. Benzer şekilde mumlar kısa vadeli hareketleri işaret ettiğinden, bir 
+sinyalin başarısız olup olmadığını çok hızlı bir şekilde görmek mümkündür. Fiyat 
+sinyalin tersi yönde giderse pozisyonu çok daha hızlı kapatmak mümkündür. Yalnızca 
+bir çalışma (Goo ve diğerleri, 2007) kayıpları sınırlamaya yönelik bir strateji 
+içermektedir. DT Yapılandırması kullanılarak kullanılan strateji, yalnızca maksimum risk 
+seviyesini belirlemek için değil, aynı zamanda ideal giriş ve çıkış noktalarını belirlemek 
+için de Fibonacci oranlarını kullanır. Araştırma böylece belirlenen kar hedeflerinin gün 
+sayısına göre değil, seviyeye göre değerlendirilmesine olanak sağlayacak. Pozisyon 
+yönetimi bu nedenle çok daha gerçekçidir.
+Türün eleştirisinden mümkün olduğunca kaçınmak için"veri madenciliği"ve DT 
+Konfigürasyonunun tahmin gücünün Fibonacci oranlarıyla birleşimi olasılığını 
+azaltmak için, DT Konfigürasyonunun üç alternatifini modelledik. Aynı sebepten 
+ötürü, üç model birden fazla döviz çifti ve çeşitli zaman dilimlerinde test 
+edilmiştir. Aslında, bugün esas olarak işlem gören bazı döviz çiftleri üzerinde 
+teste tabi tutuluyorlar: ABD doları karşısında Kanada doları (USD/CAD), ABD 
+doları İsviçre frangı karşısında (USD/CHF), ABD doları Kanada doları karşısında 
+(USD/CHF) Japon yeni (USD/JPY), ABD doları karşısında euro (EUR/USD), ABD 
+doları karşısında İngiliz sterlini (GBP/USD), yen karşısında euro (EUR/JPY) ve 
+sterlin karşısında yen (GBP/JPY). Dikkate alınan zaman dilimleri, her bir mumun 
+söz konusu çift için sırasıyla 30 dakika, 60 dakika ve 240 dakikalık fiyat gelişimini 
+temsil ettiği dönemler olacaktır. Çalışma dönemi 1'den itibarenyaniOcak 2008 - 
+28 Şubat 2011.
+Bu araştırmanın sonuçları, Fibonacci oranlarının DT Yapılandırmasına dayalı 
+stratejinin karlılığını artırdığını göstermektedir. DT Konfigürasyonunun üç 
+modeli için, alım veya satım için Fibonacci geri çekilmesini beklemek karlılığı 
+artırmayı mümkün kılar; optimum geri çekilme seviyesi seçilen konfigürasyona 
+bağlı olarak değişir. Seçilen kar hedefi ne olursa olsun, her model için karlılık 
+istatistiklerini iyileştiren bir giriş noktası belirlemek mümkündür.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+17
+Giriş noktası olarak 0,5'lik geri çekilmeyi beklemek, geri çekilmenin 
+beklenmediği bir pozisyon almaya kıyasla üç konfigürasyonun karlılığını 
+artırmayı mümkün kılıyor. Ek olarak, her üç model için de beklenen kazancı ve 
+pozitif getiriyi sağlayacak en az bir geri çekilme/uzatma kombinasyonu 
+bulunmaktadır.
+Bu araştırma şu şekilde yapılandırılmıştır. Bölüm 2'nin, AT stratejilerinin, görsel 
+kalıpların, Japon mumlarının yanı sıra Fibonacci geri çekilmelerinin karlılığına ilişkin bir 
+literatür taraması olması amaçlanmaktadır. Metodoloji başlıklı 3. Bölüm, DT 
+Konfigürasyonunun oluşturulmasının ardındaki mantıkla ve bu konfigürasyona 
+uyarlanan stratejiyle ilgilidir. Bölüm 4'te DT Yapılandırma modellemesi ve stratejisi 
+tartışılmaktadır. Bölüm 5, önceki bölümün modellemesini test etmek için kullanılan 
+verileri vurgulamaktadır ve bölüm 6 ampirik sonuçları sunmaktadır. Bölüm 7 
+araştırmayı sonlandırmaktadır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+18
+2. Literatür taraması
+Bu bölümün, test edilen farklı AT sistemlerinin karlılığının gözden geçirilmesi ve 
+dolayısıyla farklı AT tekniklerine giriş olması amaçlanmaktadır. Mevcut araştırma, 
+DT Yapılandırmasını kullanan Fibonacci oranlarının yalnızca döviz piyasasındaki 
+etkinliğine odaklansa da, AT'nin uygulandığı diğer piyasaların dahil edilmesi daha 
+kapsamlı bir analize olanak tanır ve böylece DT Yapılandırmasının oluşturulmasının 
+ardındaki mantığın daha iyi anlaşılmasına olanak tanır. . Böylece bu araştırmanın 
+AT ile ilgili literatüre katkısını daha iyi anlayabileceğiz.
+2.1 Teknik analizin karlılığı
+AT sistemlerinin karlılığına ilişkin ilk çalışmalar esas olarak iki tür stratejiyi test etmeye 
+çalıştı: filtre kuralları ve hareketli ortalamalar. Filtre kuralları (Alexander, 1961), bir 
+varlığın fiyatı en son düşük seviyesinin (yüksek) %x üstüne çıktığında (düştüğünde) 
+satın alınmasıdır (açıktan satış). Fiyat, takip eden bir yüksek (düşük) değerin %x 
+oranında düştüğünde (yükseldiğinde) satış (satın alma) yaparak pozisyonu kapatıyoruz. 
+Bir sonraki yüksek (düşük) alınan pozisyona göre belirlenir.
+Hareketli ortalama stratejileri (Gartley 1935), baskın eğilimi yakalamaya çalışan 
+stratejilerdir. Alış/satış sinyalleri iki durumda üretilir. Birincisi, fiyat yukarı 
+(aşağı) hareket ettiğinde ve uzun vadeli hareketli ortalamayı yukarı (aşağı) 
+geçtiğinde verilen alış (satış) emridir. İkincisi, kısa vadeli hareketli ortalamanın 
+uzun vadeli hareketli ortalamayı yukarı (aşağı) kestiği zaman verilen alım (satım) 
+emridir.
+Bu iki tür strateji borsa araştırmalarında kar elde edemedi (Fama ve Blume, 
+1966), ancak döviz piyasasında durum tam tersiydi. Sweeny (1986), 1975-1980 
+dönemi için filtre kurallarını kullanarak on çiftten oluşan bir örneklem üzerinde 
+pozitif sonuçlar (işlem maliyetleri dahil) elde etti.
+Ancak 1988'den önce elde edilen sonuçlara şüpheyle yaklaşmalıyız. Park ve 
+Irwin'e (2007) göre, genellikle tek bir sisteme odaklandık ve bu nedenle borsa 
+için teknik analizi reddetme konusunda çok hızlı davrandık. Aynı şekilde, bir dizi 
+kuralın ortalama kârlılığını da ölçtük.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+19
+Her eylem için yalnızca en iyi kuralları kullansaydık farklı sonuçlar çıkarabilirdik. 
+Aksi takdirde döviz piyasasında TA modellerinin olumlu sonuçlarının,"veri 
+madenciliği"ve bu tür stratejilerin riskini ölçmenin zorlukları.
+Park ve Irwin (2007), 2004 yılına kadar TA stratejilerinin kârlılığını test eden tüm 
+çalışmaları tespit ederek dikkate değer bir iş çıkardı. Danışılan 95 modern çalışma 
+arasında (1988'den itibaren), 56 çalışma 'bir stratejinin kâr yaratacağını, 20'sinin ise 'bir 
+stratejinin kâr getireceğini' iddia ediyor. tersini söylerler ve 19'u ortak sonuçlar elde 
+eder. Modern çalışmalar 1988 yılında başlamış olduğundan bu tarihten itibaren 
+kullanılan yöntemler daha titiz hale getirilmiştir.
+Literatür TA stratejilerinin karlı olduğu gerçeğine işaret ediyor gibi görünüyor, 
+ancak tartışma kapalı değil. Kullanılan metodolojilerin evrimi önemli olmasına 
+rağmen, her zaman bir değişim olasılığı vardır."veri madenciliği"ve riski ölçmenin 
+zorluğu.
+Buna ek olarak, AT'nin ürettiği kar olasılıklarına ilişkin, ancak bu olasılıkların 
+günümüzde artık mevcut olmadığını öne süren çeşitli açıklamalar ortaya çıkıyor. 
+Örneğin döviz piyasasındaki bazı stratejiler 1970'li yıllarda karlı iken zamanla bu 
+karlılık azalmıştır (Sapp, 2004). Olası bir açıklama merkez bankalarının döviz 
+piyasasına müdahalesidir. Merkez bankaları, temellere yönelik dışsal bir şokun 
+ardından döviz piyasasına müdahale edebilir ve böylece müdahale olmadığında 
+gerçekleşecek hızlı ayarlamayı yavaşlatabilir. Bu uyum süresi bazı spekülatörler 
+tarafından istismar edilebilir (Saacke, 2002). Merkez bankalarının döviz 
+piyasasına müdahalesi ve TA'dan elde edilen karlar da 1990'ların ortalarından 
+itibaren önemli ölçüde azaldı. Çeşitli çalışmalar, merkez bankası müdahalesi ile 
+hareketli ortalamalara dayalı TA stratejileri arasındaki potansiyel ilişkiyi ölçerek 
+bunun bir tesadüf olmadığını göstermektedir; bu stratejiler, trend iyice 
+yerleştiğinde daha çok işe yarar. Szakmary ve Mathur (1997), aylık resmi rezerv 
+miktarını kullanarak merkez bankalarının müdahale derecesini ölçmektedir. Bu 
+proxy, hareketli ortalama stratejilerle elde edilen karları açıklamayı mümkün 
+kılar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+20
+LeBaron (1999), oynaklığa göre getiri ölçüsü olan Sharpe oranının, müdahale 
+olmadığında hareketli ortalama stratejiler için büyük ölçüde azaldığını bulmuştur. 
+Bu nedenle merkez bankası müdahalesi TA stratejilerinin karlılığıyla bağlantılıdır 
+ancak belki de bunun nedeni değildir (Park ve Irwin, 2007). TA sinyali sıklıkla 
+müdahaleden önce yaratılır ve bu stratejilerin anormal derecede yüksek getirileri 
+de müdahaleden önce gelir (Neely ve Weller, 2001). Bu yazarlara göre, döviz 
+piyasasına yapılan müdahaleler aslında halihazırda yerleşik bir trende, hareketli 
+ortalama stratejilerinin zaten faydalandığı bir trende bir yanıttır. Bu nedenle, döviz 
+piyasasında incelenen serinin eğilimini takip etmeye çalışmayan diğer teknik 
+yardım stratejileri türlerinin test edilmesi uygun olacaktır. Örneğin, trendin sonunu 
+belirlemeye çalışan bir stratejinin merkez bankası müdahaleleriyle ilişkilendirilmesi 
+çok daha zor olacaktır. Diğer bir çözüm ise gün içi stratejileri test etmek olacaktır. 
+Kârı merkez bankalarının müdahalesiyle ilişkilendirilen stratejiler, pozisyonun 
+birkaç gün, hatta haftalar içinde devralındığı stratejilerdir. Kârlı olabilmek için alım/
+satım sinyalinin merkez bankasının alım/satım sinyaliyle aynı yönde olması gerekir. 
+Bir gün içi stratejisi, belirli bir zaman dilimi için çok sayıda alım ve satım sinyali 
+üretecektir, dolayısıyla ters yönde olacaktır. Dolayısıyla, müdahalelerle aynı yönde 
+olduklarında karlı sinyaller mi oluştuğunu yoksa tam tersi müdahalelerden 
+bağımsız mı olduklarını değerlendirmek mümkün olacaktır.
+Yıllar boyunca döviz kuru TA sistemlerinin karlarındaki azalmanın bir başka 
+potansiyel açıklaması da geçici piyasa verimsizliklerinin varlığıdır. Timmermann 
+ve Granger (2004), TA kuralları ne kadar popüler olursa, ürettikleri bilgilerin de 
+o kadar fazla kullanıldığını ve dolayısıyla fiyatlara dahil edildiğini ileri 
+sürmektedir. Bu nedenle kârlar kısa ömürlüdür. Dimson ve Marsh (1999) da 
+piyasa anormalliklerinin belgelendikten sonra ortadan kaybolduğunu veya 
+yoğunluğunun azaldığını göstermektedir. Teknik analiz döviz piyasasında, 
+özellikle kısa vadeli ufuklarda giderek daha fazla kullanıldıkça, kârlı kurallar 
+bulmak giderek zorlaşabilir. Geçici verimsizliğin bir başka şekli de yeni bilgiler 
+sonrasında yapısal düzenlemelerin yavaşlaması olacaktır. Temel olarak, TA 
+sistemlerinin karlılığı piyasaların piyasalara verdiği uyuşuk tepkiye bağlıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+21
+yeni bilgilerin yayınlanması (Park ve Irwin, 2007). Bilgisayar gücünün giderek 
+ucuzlaması, indirim komisyoncularının ortaya çıkışı ve elektronik işlemlerin 
+mümkün olmasıyla, işlem maliyetleri muhtemelen azalmış ve dolayısıyla 
+piyasalardaki likidite artmıştır (Sullivan ve diğerleri, 1999). Park ve Irwin'e (2007) 
+göre, bu daha fazla likiditenin fiyat hareketlerinin hızını arttırması ve dolayısıyla 
+teknik kuralların karlılığını azaltması mümkündür. Perakende Forex sektörünün 
+(küçük yatırımcıların döviz piyasasında işlem yapmasına izin veren komisyoncular) 
+ve neredeyse yalnızca AT kullanan yandaşlarının (Rosenstreich 2005) patlamasıyla 
+birlikte, teknik bir olanaktan yararlanmanın giderek zorlaştığına inanmak 
+mümkündür. para birimi stratejisi.
+2.2 Görsel konfigürasyonlar
+Görsel konfigürasyonlar muhtemelen AT'nin en öznel kısmını temsil ediyor. Ancak 
+yeni teknolojilerin ortaya çıkışı, daha önce sezgiye ayrılmış bazı rakamların 
+modellenmesini mümkün kılmaktadır. Üstelik kesin kuralların olmayışı, 
+algoritmanın parametrelerinin deneme yanılma yoluyla bulunması gerektiği 
+anlamına gelir (Lo ve diğerleri, 2000). Mevcut literatürde en çok test edilen 
+konfigürasyon baş ve omuzlardır.
+Şekil 2.1
+Bir satış sinyali için baş ve omuzlar
+Bunlar birbirini takip eden üç yüksek/düşük seviyedir; ortadaki diğerlerinden daha 
+yüksektir (düşüktür). İkincisi başı, diğer ikisi ise omuzları temsil eder. Orada
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+22
+Çoğu zaman boyun çizgisi ihlal edildiğinde bir sat/al sinyali üretilir. Boyun 
+çizgisi, birinci ve ikinci geri çekilme arasında çizilen bir trend çizgisidir. Osler ve 
+Chang (1995), bu konfigürasyonu bir bilgisayar algoritması kullanarak test eden 
+ilk kişiler gibi görünmektedir. Sonuçlar olumlu; işlem maliyetleri ve risk 
+düzeltmelerinin ardından, 1973-1994 dönemi için belirli para birimleri için 
+trendin tersine dönmesine ilişkin tahmin gücü elde ediyoruz.
+En kapsamlı çalışma, 1962-1996 dönemi için NYSE ve Nasdaq'taki çifte yüksek/
+düşük değerleri de dahil olmak üzere Amerikan borsasındaki 10 rakamın 
+kârlılığını test eden Lo ve diğerleri (2000) tarafından gerçekleştirilmiştir. 
+Yapılandırma tespit algoritmaları çekirdek yöntemine dayanmaktadır. Üretilen 
+bir sinyale bağlı koşullu getiriler, koşulsuz getirilerden daha yüksektir. 
+İncelenen rakamlar, ekonomik kar yaratabilecekleri sonucuna varmamıza izin 
+vermese de yine de yatırımcılar için değer yaratabilecek bazı bilgiler içeriyor. 
+Dawson ve Steeley (2003) aynı metodolojiyi İngiliz borsası için kullanmış ve 
+benzer bir sonuca varmıştır.
+Savin ve diğerleri (2007), baş ve omuzların Amerikan borsasında 1 ila 3 aylık ufuklar için 
+önemli bir tahmin değerine sahip olduğunu belirlemek için Lo ve diğerleri (2000) 
+algoritmasının değiştirilmiş bir versiyonunu kullanır.
+Bu nedenle konfigürasyonların tek başına kâr getirebileceği kesin değildir 
+ancak yatırımcıların faydalanabileceği belirli bilgileri içerdikleri kesindir.
+2.3 Japon mumları
+Japon mumları, finansal varlıkların fiyatlarının gelişimini göstermenin çok kesin 
+bir yoludur. Bir mum, herhangi bir zaman birimi için fiyatın gelişimini temsil 
+eder. Bir dakikalık olabileceği gibi bir aylık fiyat hareketlerini de kapsayabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+23
+Şekil 2.2
+Bir mum inşaatı
+Yapılandırma1. Yükseliş (siyah) ve düşüş (beyaz) Japon mumunun dört fiyatının çizimi
+Her mum dört fiyatın görsel bir temsilidir: seçilen varlığın birim zaman başına açılış, 
+kapanış, en yüksek ve en düşük fiyatı. Bu yöntem 18. yüzyılda oluşturuldu.eyüzyılda 
+Japon Munehisa Honma tarafından pirinç fiyatlarını tahmin etmek amacıyla yapılmıştır 
+(Nison, 1991). Batı'ya 1970'lerde Steve Nison tarafından tanıtılmıştır ve o tarihten bu 
+yana popülaritesi artmaya devam etmiştir ve Japon mumlarını kullanarak fiyatı 
+görüntüleme olanağı hemen hemen tüm teknik analiz yazılımlarında mevcuttur (Nison, 
+2004). Yükseliş ve düşüş günleri arasındaki (yatırımcı tarafından keyfi olarak seçilen) 
+renklerin kontrastı, analizi çok daha kolay hale getirir ve fiyatı gösterme şekli, piyasa 
+oyuncularının psikolojisi hakkında daha fazla bilgi ortaya çıkarır (Shiu ve Li, 2011). Japon 
+mumlarını kullanmak, bitişik mumların 4 fiyatı (açılış, kapanış, yüksek ve düşük) 
+arasındaki ilişkileri incelemek anlamına gelir. Bu nedenle büyük bir kombinasyon 
+olasılığı vardır. Bununla birlikte, mevcut literatür 44 konfigürasyonu (mumların 
+birleşimi) ve tahmin gücüne sahip 18 ayrı mumu belirtmektedir (Pring, 2002).
+Japon mumlarıyla ilgili ilk çalışma Caginalp ve Laurent (1998) tarafından 
+yapılmıştır. Yazarlar, Japon mumlarına dayanan sekiz üç günlük tersine dönme 
+modelinin bir miktar öngörü gücüne sahip olup olmadığını test ediyor. 
+1992-1996 dönemi için S&P 500'ün günlük verilerini kullanıyorlar. Seçilen 
+konfigürasyonun trenddeki bir değişikliği tahmin etme yeteneğini tespit etmek 
+için AZ testi uygulandı. İncelenen sekiz rakamın öngörü gücüne sahip olduğu ve
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+24
+Yatırımcılar için değer yarattığını ve Japon mumlarının sık kullanımının mümkün olan 
+en iyi stratejilerden birini temsil ettiğini düşünüyoruz.
+Marshall ve diğerleri (2006), Japon mumlarının çeşitli kombinasyonlarının 
+öngörülebilirliğini test ediyor. 14 ayrı mum ve 14 kombinasyon teste tabi 
+tutulur. Bu mumlar Dow Jones endüstriyel ortalama endeksini oluşturan hisse 
+senetleri üzerinde test edilir. Yazarlar, Japon mumlarının kısa vadeli tahminlere 
+izin verdiğini öne süren Morris'i (1995) kullanıyor. Ek olarak, köklü bir trendin 
+sonunda dönüş formasyonları daha etkilidir. Eğilimi belirlemek için yazarlar, 
+son gözlemlere daha fazla ağırlık vermek amacıyla 10 günlük üstel hareketli 
+ortalamayı kullanıyor. Günlük mumlar için belirli bir konfigürasyonun 10 güne 
+kadar tahmin gücü vardır. Marshall, bir modelin ortaya çıkmasını takip eden 
+günün açılış fiyatından bir hisse senedi almanın veya açığa satmanın karlılığını 
+test eder ve bu trende saygı duyulur. Pozisyon 10 gün süreyle açık tutulur. 
+Sonuçlar daha sonra istatistiksel modeller tarafından oluşturulan rastgele 
+önyükleme serileriyle karşılaştırılır. Kârın istatistiksel olarak anlamlı olması için, 
+önyükleme serisinde kârın orijinalinden daha büyük olduğu maksimum sayıda 
+durum olmalıdır. Durum böyleyse, strateji istatistiksel modelin yakalayamadığı 
+belirli nüansları yakalamayı mümkün kılar. Ancak sonuçlar olumsuz. Çalışma, 
+incelenen hisse senetlerini tahmin etmek için Japon mumlarını kullanmanın 
+karlı olmadığı sonucuna varıyor.
+Marshall ve diğerleri (2006), Japon mumlarının Japonya'daki borsa üzerinde tahmin 
+gücüne sahip olup olmadığını doğrulamak için suçlamaya geri döndüler. Aynı 
+metodolojiyi kullanarak, 1975-2004 döneminde Japon mumlarının kullanımının, 
+işlem maliyetlerinin muhasebeleştirilmesinden önce bile karlı olmadığı sonucuna 
+vardılar. Bu çalışma özellikle ilginçtir çünkü Japon mumları Japonya'da çok 
+popülerdir. Elde edilen olumsuz sonuçlar, yazarlara göre popülerliklerinin 
+yatırımcılar için değer yaratma yeteneklerinden ziyade kültürel nedenlerden 
+kaynaklandığını göstermektedir.
+Goo ve diğerleri (2007), 1997 ve 2006 yılları arasında Tayvan Menkul Kıymetler Borsası'ndaki 25 hisse senedinde 
+Japon mumlarının potansiyelini doğrulamak için Marshall (2006) tarafından test edilen rakamları kullanır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+25
+ancak sınıflandırmaları daha kesindir ve mum gövdesinin toplam uzunluğa oranına 
+göre küçük, orta ve büyük olmak üzere üç tür mum tanımlar; bu da ek bir filtreyi 
+temsil eder. Marshall'ın aksine trend 5 günlük hareketli ortalamayla belirleniyor. 
+Japon mumlarının yatırımcıların pozitif bir ortalama getiri oranı elde etmelerine 
+yardımcı olabileceği ve duyarlılık analizlerinin, farklı kalıpların daha uzun veya daha 
+kısa pozisyon tutma süresi gerektirdiğini ve pozitif kalıpların negatif rakamlardan 
+daha iyi performans gösterdiğini not etmelerine olanak sağladığı sonucuna 
+vardılar. Ayrıca, kayıpları belirli bir seviyeyle sınırlandıran önceden belirlenmiş bir 
+alım/satım emrinin (durdurma tetikleme emri) eklenmesi, stratejilerin 
+performansının artırılmasını mümkün kılmaktadır. En uygun sonuç %5'lik bir 
+seviyedir. Bu, riskin daha iyi tanımlanmasını mümkün kılar çünkü yatırımcı, fiyat 
+tahminin tersi yönde hareket etse bile kaybının %5 olacağını bilir; bu, pozisyonunu 
+bir süre daha korumak zorunda olduğu durumda bilinmeyen bir kayıptır. belirli 
+sayıda gün.
+Shiu ve Li (2011), Japon mumlarının altı konfigürasyonunu test etmek için üç 
+filtre ekledi. Filtreler, geleneksel yapılandırmalara eklenen ek koşullardır. 
+Kullanılan üç filtre, konfigürasyonun oluşumu sırasındaki işlem hacmi, mumun 
+konfigürasyonu takip eden açılış fiyatından uzaklığı ve büyüklüğü ile ilgilidir. 
+Yazarlar, stratejileri 1998-2007 dönemi boyunca Tayvan Menkul Kıymetler 
+Borsası'ndaki 69 hisse senedi üzerinde günlük verilerle test ediyor. Sonuçlar 
+yalnızca bir konfigürasyon için önemli ölçüde pozitiftir;“Harami”, ancak işlem 
+maliyetleri dikkate alınmaz. En büyük katkı, farklı stratejilerin performansını 
+iyileştirmeyi mümkün kılan filtrelerin eklenmesidir. Bu nedenle bunların bir 
+yatırım stratejisini optimize etmek için kullanılabileceği sonucuna varıyor.
+Görsel konfigürasyonlarda olduğu gibi, literatür çoğunlukla Japon mumlarının 
+belirli bilgiler içerdiğini ve bir yatırım stratejisini geliştirebileceğini gösteriyor 
+gibi görünüyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+26
+2.4 Fibonacci oranları
+Leonardo Pisano Fibonacci tarafından bulunan Fibonacci dizisi, başlangıçta 
+entelektüelleri eğlendirmenin bir yoluydu, ancak çok daha geniş anlamlara sahipti. 
+Sıralama şu şekilde başlar: 1, 1 ve bir sonraki basamak her zaman dizinin son iki 
+basamağının toplamıdır:
+Veya
+Dolayısıyla dizi şu şekildedir: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233… ve aşağıdaki 
+özellik:
+kireçN→∞ (FN/Fn-1) = 1,618034 = φ
+Altın orana da karşılık gelen φ'nin tıpkı Fibonacci dizisi gibi doğada sıklıkla 
+bulunduğunu unutmayın. İkincisi, örneğin bir bitkinin yapraklarının ve bir çam 
+kozalağının spirallerinin düzenlenmesinde bulunabilir (Smith, 1996). Altın 
+oranın ve Fibonacci dizisinin doğal yönü, insanlara da onu kullanma konusunda 
+ilham kaynağı olmuştur. Gerçekten de birçok antik Yunan ve Roma mimari 
+projesi bu oranı yansıtmaktadır (Atanassov ve diğerleri, 2002). Fibonacci 
+dizisinden elde edilebilecek çok sayıda özellik piyasa finansmanında bile 
+kullanılmaktadır. Örneğin dizideki bir sayıyı sonraki sayıya bölerek yatırımcıların 
+sıklıkla kullandığı bir oran olan 0,618'i elde ediyoruz. Yine çok popüler olan 
+2,618 ve 0,382 oranlarını şu şekilde elde ederiz:
+kireçN→∞ (Fn+2/FN) = 2,618033989
+kireçN→∞ (FN/Fn+2) = (1/2,618033989) = 0,381966011
+Bir finansal varlığın fiyat grafiğini inceleyerek zamanla yükseldiğini, düştüğünü 
+ve konsolidasyon dönemlerinde sabit kaldığını görebiliriz. AT kullanıcıları, 
+gözlemlenen hareketlerde her zaman belirli oranlara uyulduğunu doğruluyor. 
+Bu nedenle, geri çekilme seviyeleri ve potansiyel hedefler (uzantılar) olarak işlev 
+gören yüzdeleri (yukarıda hesaplananlar gibi) türetmek için dizinin farklı 
+özelliklerini kullanırlar (Murphy, 1996). Burada Fibonacci oranlarının olası 
+kullanımının grafiksel bir temsili bulunmaktadır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+27
+Şekil 2.3
+Fibonacci geri çekilmelerinin ve uzantılarının uygulanması
+A noktasında bir yükseliş trendinin başlangıcını ve B noktasında bir geri çekilme 
+başlangıcını belirleyerek, geri çekilmenin sonu olacak ve yükseliş trendinin devam 
+edeceği bir C noktası ararız. Daha sonra yükseliş trendinin sonunun tahmini olan bir 
+hedef olacak bir D noktası ararız. Daha sonra Fibonacci oranlarını kullanabiliriz ve C 
+noktasının AB doğru parçasının 0,618'ine, D noktasının da aynı parçanın 1,618'ine eşit 
+olduğunu tahmin edebiliriz. Bu nedenle bir yatırımcı, C noktasından D noktasına doğru 
+bir hareketten kar elde etmeye çalışabilir. Fischer (1993), trendin sonunu belirlemek ve 
+böylece en uygun çıkış noktasını bulmak için bir kümenin, bir grup Fibonacci 
+uzantısının kullanılmasını önerir veya Ters yöne gitmeye çalışırsanız bir giriş noktası. 
+Fibonacci serisinin bir başka ilginç uygulaması da potansiyel dönüş noktalarının gün 
+bazında belirlenmesine olanak sağlamasıdır (Murphy, 1996). Bir trendin başlangıcını 
+alarak, ayın 2'sinde trendin tersine dönmesini umut edebiliriz.e, 3., 5., 8., 13. gün.
+20 Şubat 2011 tarihinde Google arama motoruna “Fibonacci ticareti” yazdığımızda 
+307.000 sonuç elde ediyoruz. Konuyla ilgili çok sayıda kitap ve site var. Finansal 
+piyasalar ile finansal oranlar arasındaki ilişkiye dair yaygın inanışa rağmen
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+28
+Fibonacci ve AT'de yapılanlara baktığımızda Fibonacci dizisi en karmaşık dizi gibi 
+görünse de (Bhattacharya ve Kumar, 2006), bilimsel literatür oldukça nadirdir. 
+Bu yazarlar ayrıca piyasalar ve Fibonacci dizisi ile ilgili henüz resmi bir 
+matematiksel kanıtın formüle edilmediğini ileri sürüyorlar. Üstelik hiçbir 
+ampirik kanıt bu ilişkiyi desteklemiyor.
+Bu nedenle yazarlar, Fibonacci oranlarının otomatik spekülasyon sistemleri için 
+filtre görevi görüp göremeyeceğini keşfetmeye çalışmaktadır. Yani S&P 500'ün 
+1'den başlayan kapanış fiyatlarını kullanıyorlar.yaniNisan 1998'den 31 Mart 2003'e 
+kadar. 7 kritik geri çekilme belirlediler, bunlardan 5'i Fibonacci oranları 0,236 ve 
+0,382'ye yakın. Daha sonra, 2 hareketli ortalama arasındaki fark ile kritik geri 
+çekilmeler ve en yakın Fibonacci oranı arasındaki fark arasında istatistiksel olarak 
+anlamlı bir korelasyon olduğunu belirlemek için hareketli ortalama geçiş sistemi 
+kullanırlar. Karmaşık bir otomatik sistemin Fibonacci dizisini filtre olarak 
+içerebileceği sonucuna vardılar.
+Chaterjee ve diğerleri (2002), Fibonacci oranlarını Elliot dalgalarıyla birlikte 
+kullanır. Elliott dalgaları, 1939'da RN Elliot tarafından icat edildi. Finansal 
+piyasalara baktıktan sonra, bunların okyanus dalgaları gibi ritmik olarak 
+hareket ettiğini fark etti. Fibonacci dizisinin parçası olan sayılar, 5 döngü/dalga 
+halinde yukarı/aşağı giderler ve 3 döngü/dalga halinde geri çekilirler.
+Yazarlar, Elliott dalgalarının Fibonacci dizisini takip edip etmediğini kontrol etmek için 
+ilk olarak 1916 ile 1976 yılları arasında Amerikan borsasından elde edilen verileri 
+kullandılar. Sonuçlar kesindir. Farklı dip ve zirve noktalarını belirleyerek döngülerin şu 
+sürelere sahip olduğu sonucuna varıyorlar: 5, 8,13, 21, 34 ve 55 yıl.
+Daha sonra Elliott dalgalarının çukurunun Fibonacci oranlarına karşılık gelip gelmediğini 
+belirlemeye çalışıyorlar. Bu nedenle, geri çekilmelerin (yukarı trenddeki düşüş dalgaları ve 
+tersi) bir veya daha fazla birleşik yükseliş dalgasının Fibonacci oranlarıyla örtüşüp 
+örtüşmediğini ve/veya bunların Fibonacci oranlarının uzantılarına karşılık gelip gelmediğini 
+kontrol etme meselesidir. Oranlar burada Eng (1997) tarafından tavsiye edildiği gibi başka 
+bir tekniğe (Elliott dalgaları) yönelik bir doğrulama unsuru görevi görür. Bunu yapmak için 2 
+Ekim ile 16 Aralık 1985 arasındaki verileri kullanıyorlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+29
+oranları ve dolayısıyla dalgaların oluşabileceği potansiyel yerleri 
+hesaplayabilmek için Fibonacci dizisinden günlük olarak inşa edilmiştir. Elliot 
+dalgalarını ve dolayısıyla kullanılacak Fibonacci oranlarını tespit etmenin 
+öznelliğini kabul ederek, tekniğin kar getirebileceği sonucuna vardılar ve özel 
+bir yatırım sistemi yaratma girişiminin, incelenen pazarla ilgili belirli bilgilerin 
+edinilmesine yardımcı olabileceğini savundular.
+Yalnızca iki bilimsel çalışma (Bhattacharya ve Kumar, 2006; Chaterjee ve 
+diğerleri, 2002) TA ile Fibonacci oranları arasında bir bağlantı oluşturmaya 
+çalışmaktadır. Sonuçları da benzer; Fibonacci dizisinden elde edilen geri 
+çekilmeler/uzatmalar yatırımcıların kullanabileceği değerli bilgiler içerir. 
+Dolayısıyla bu mevcut araştırma, Fibonacci oranlarını, görsel konfigürasyonları 
+ve Japon mumlarını birleştiren bir TA sistemi kullanarak bu bilgiyi kullanmaya 
+çalışmaktadır. Şimdiye kadar literatürün çoğu her yaklaşımı ayrı ayrı test etti. Bu 
+araştırma çeşitli yöntemleri birleştiriyor ve böylece AT uygulayıcıları tarafından 
+bugün oluşturulan stratejilere yaklaşmayı mümkün kılıyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+30
+3. Metodoloji
+Bu araştırmanın amacı Fibonacci oranlarının yatırımcılar için değer yaratıp 
+yaratamayacağını değerlendirmektir. Bunu yapmak için döviz piyasasında beklenen 
+kazancı ve spekülasyon stratejisinin getirisini artırıp artıramayacaklarını kontrol 
+ediyoruz. Bu yüzden Fibonacci oranlarını içeren bir strateji oluşturduk. Oluşturulan 
+strateji, bu araştırmanın amaçları doğrultusunda da oluşturduğumuz görsel bir 
+konfigürasyon olan DT Konfigürasyonuna dayanmaktadır. Bu bölümde oluşturulan 
+stratejinin arkasındaki mantık açıklanmaktadır. İlk önce Fibonacci geri 
+çekilmelerine ve uzantılarına dayanan genel stratejiyi tanımlıyoruz ve bunlar 
+sırasıyla özetleniyor. Daha sonra bölüm, Fibonacci oranlarını ampirik olarak test 
+etmemizi engelleyen iki zorluğu açıklıyor ve ardından DT Konfigürasyonunu 
+oluşturmak için Japon mumları ve görsel konfigürasyonların kombinasyonunun bu 
+zorlukların üstesinden gelmeye nasıl izin verdiğini gösteriyor. Bu bölüm daha sonra 
+DT Konfigürasyonunun tamamlanmasını sağlayan doğrulama öğesini açıklar ve 
+ardından Fibonacci oranlarını hesaplamak için hangi seviyelerin kullanıldığını 
+belirterek sona erer.
+3.1 Fibonacci oranlarına dayalı strateji
+Seçilen strateji, önceki bölümde grafik 2.3 kullanılarak açıklanan sürece 
+dayanmaktadır. Bu nedenle, Fibonacci oranlarını (geri çekilmeler ve 
+genişlemeler) bulmak için referans görevi görecek bir fiyat hareketi (A'dan B'ye) 
+belirliyoruz. Örneğin, yukarı doğru bir hareket durumunda, bir düşük (A) ve bir 
+yüksek (B) tespit ederiz. Daha sonra söz konusu varlığı satın almak için destek 
+görevi görecek bir geri çekilme seviyesi (C) ararız. Potansiyel geri çekilme 
+seviyeleri, AB segmentinin belirli bir yüzdesini temsil eden Fibonacci geri 
+çekilmeleridir. Strateji daha sonra pozisyonun Fibonacci uzantısında (D) 
+kapatılmasıyla tamamlanır. Tersine çevrilen A ve B noktaları dışında satış sinyali 
+durumunda mantık aynıdır. A noktası yüksek, B noktası ise düşük olur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+31
+3.2 Fibonacci geri çekilmeleri
+Bizi ilk ilgilendiren C düzeyidir (giriş noktası). Yatırımcılar tarafından en çok kullanılan 
+geri çekilme oranları şunlardır: %23,6, %38,2, %50, %61,8 ve %78,6. Bunlar aynı 
+zamanda bu araştırma için kullanılanlardır. Dolayısıyla C noktası bu seviyelerden 
+birindedir. Çok basit bir şekilde hesaplanır. Örneğin fiyatın 0,618 seviyesine 
+toparlanacağını düşünüyorsak öncelikle bu seviyeyi bulmamız gerekiyor. Bunun için A 
+ve B noktaları arasındaki mesafeyi %61,8 ile çarpıyoruz. Sonuç daha sonra A düzeyine 
+eklenir. Daha genel olarak elimizde:
+Tablo 3.1
+%x geri çekilmenin hesaplanması
+Satın almak Geri çekilme x%= x%*(BA) + A
+Satış Geri çekilme x%= x%*(BA) + A
+3.3 Fibonacci uzantıları
+Mevcut araştırma için benimsenen stratejide iki potansiyel çıkış noktası 
+bulunmaktadır. Bu çıkış noktalarından biri Fibonacci uzantıları ile 
+belirlenmektedir. Bu nokta Şekil 2.3'teki D noktasına karşılık gelir. Fibonacci 
+uzantıları, geri çekilmelere benzer şekilde hesaplanır ve potansiyel kar elde 
+etme hedeflerini temsil eder. Seçilen seviyeler 1.618, 2.618, 3.618, 4.618, 5.618 
+ve 6.618'dir. Fiyat çok daha inandırıcı bir şekilde hareket ederek örneğin 
+20.618'e gidebilir, ancak uzatmalar birkaç mumdan oluşan DT 
+Konfigürasyonundan hesaplandığından, kısa hareketlerdeki tahmin gücünü 
+test etmeyi tercih ediyoruz. 1.618 uzatması, satın alma durumunda AB 
+segmentinin %61,8'inin B noktasına eklenmesiyle hesaplanır. 2.618, B noktasına 
+AB segmentinin 1.618 ile çarpılmasıyla hesaplanır. Daha genel olarak elimizde:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+32
+Tablo 3.2
+x uzantısının hesaplanması
+Satın almak Uzatma x= (x-1)*(BA) +B
+Satış Uzantı x= B-(x-1)*(AB)
+AT yazılımının, istediğiniz geri çekilmeleri ve uzantıları görüntülemenize olanak tanıyan bir 
+işlevsellikle birlikte geldiğini unutmayın. A ve B seviyelerini bilmeniz yeterli.
+3.4 Fibonacci oranlarını kullanmanın zorlukları
+Uygulanacak strateji açıktır. Ancak iki büyük zorluk Fibonacci oranlarının 
+kullanımını zorlaştırmaktadır. Birincisi, C ve D seviyelerini belirleyen A ve B 
+seviyelerinin seçimidir. İkincisi ise baskın trendin seçimidir.
+3.4.1 A ve B düzeylerini seçmedeki zorluklar
+Geri çekilmeleri ve genişlemeleri bulmak için referans görevi görecek bir segment 
+oluşturacak iki seviyeyi belirlememiz gerekiyor. Bu segment AB segmentidir. Yüksek ve 
+düşük seviyeleri belirlemek için aşağıda tanımlandığı gibi döngüsel yüksek ve düşük 
+seviyeler kullanılabilir. Döngüsel bir yüksek, bir mumun yüksek seviyesinin önceki mumun 
+yüksek seviyesinden ve bir sonraki mumun yüksek seviyesinden daha yüksek olmasıdır. 
+Döngüsel düşük, bir mumun önceki ve sonraki mumun düşük seviyesinden daha düşük 
+olan düşük seviyesidir. Aşağıdaki grafik B Seviyesini döngüsel bir yüksek ve döngüsel bir 
+düşük olarak göstermektedir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+33
+Şekil 3.1
+Döngüsel Yukarı ve Aşağı
+21-29 Temmuz 2010 dönemi için euro fiyatının yen karşısında gelişimini gösteren 
+aşağıdaki şekli kullanarak döngüsel yükseliş ve düşüşlerin uygulanmasına bakalım. 
+Her çubuk 4 saati temsil eder. A ve B düzeylerini seçmenin zorluğunu kolaylıkla 
+görebiliriz.
+Şekil 3.2
+Japon mumlarıyla gösterilen döngüsel iniş ve çıkışlar
+Bu kısa süre içerisinde 16 döngüsel yüksek veya düşük seviye (A'dan P'ye) meydana gelir. Bu 
+nedenle bu, çok sayıda potansiyel geri çekilme sağlar. B'den C'ye veya B'den D'ye olan 
+segmentleri mi ölçüyoruz? J'den, L'ye veya M'den O'ya mı? Bu nedenle yatırımcı, çoğunlukla 
+subjektif olarak, en alakalı olduğunu düşündüğü iniş ve çıkışları seçer.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+34
+Ancak döngüsel yüksek veya düşük tanımındaki mum sayısını artırarak bu sorunu çözmeye 
+çalışabiliriz. Örneğin, bir mumun en düşük seviyesi önceki ve sonraki üç mumun en düşük 
+seviyesinden daha düşük olduğunda döngüsel bir düşük tanımlayabiliriz. Bu, kullanılacak 
+döngüsel düşüklerin sayısını ortadan kaldıracaktır, ancak aynı zamanda potansiyel olarak 
+yüksek kaliteli geri çekilmeleri de ortadan kaldırabilir.
+3.4.2 Baskın trendi seçmedeki zorluklar
+Buradaki zorluk yalnızca A ve B seviyelerini belirlemek değildir. Kullanılacak doğru 
+segmentleri belirlemenin bir yolunu bulsak bile, aynı zamanda baskın eğilimi de 
+belirleyebilmeliyiz. Örneğin, baskın eğilimin yükseliş yönünde olduğunu düşünürsek, 
+satın almak için potansiyel geri çekilmeleri bulmaya çalışırız; Eğer hakim trend düşüş 
+yönlü ise satış yapmak için seviyeleri tespit edebiliriz. En büyük zorluk bu alıştırmada 
+yatmaktadır, çünkü Fibonacci oranlarının öngörücü bir değere sahip olabilmesi ancak 
+trend hakkındaki tahminimizin doğru olması durumunda mümkündür. Aksi takdirde 
+fiyat, belirlediğimiz geri çekilmeleri aşacak ve A noktasının altına doğru yoluna devam 
+edecektir.
+Şekil 3.3
+Trendin zayıf tanımlanması
+Konfigürasyonların başarısı hakim trendin bilinmesini gerektirdiğinden, Japon 
+mumlarıyla ilgili literatür bu konuda bizim için çok faydalıdır. Listelenen Japon 
+mumlarından oluşan konfigürasyonlar arasında geri dönüş ve devam 
+konfigürasyonlarını belirtiyoruz. Bu iki tür için
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+35
+konfigürasyonlarda trendin bilinmesi zorunludur. Örneğin “çekiç” gibi bir 
+tersine dönüş formasyonu söz konusu olduğunda, yalnızca trendin sonunda 
+etkili olacak ve trenddeki değişimin tespit edilmesine olanak tanıyacaktır. 
+Devam konfigürasyonu olması ise hakim trendin devamına olanak 
+sağlayacağından bunun bilinmesi zorunludur. Mevcut literatürde trendi 
+belirlemek için hareketli ortalamalar kullanılmaktadır. Üç teknik 
+kullanılmaktadır. Birincisi, fiyat pozisyonunu hareketli ortalamaya göre 
+karşılaştırmaktır. Fiyat hareketli ortalamanın üzerindeyse trend yükseliş 
+yönündedir. İkinci teknik, biri uzun vadeli, diğeri kısa vadeli olmak üzere iki 
+hareketli ortalamanın gelişiminin karşılaştırılmasından oluşur. Kısa vadeli 
+hareketli ortalama, uzun vadeli hareketli ortalamayı geçtiğinde trend değişir. 
+Kısa vadeli hareketli ortalamanın değeri, uzun vadeli hareketli ortalamanın 
+değerinden düşükten yükseğe doğru gittiğinde trend yükselişe geçer. Üçüncü 
+teknik, hareketli ortalamanın son n gününün konumunu analiz etmekten 
+oluşur. Örneğin, n periyodu için 10 günlük hareketli ortalamanın değeri, n-1 
+periyodu için aynı hareketli ortalamanın değerinden daha büyükse ve bu da n-2 
+periyodu için olandan daha büyükse, o zaman trend yükseliş yönündedir . Ne 
+yazık ki, hareketli ortalamalar trendin belirlenmesinde trend açıkça 
+belirlenmediğinde pek kullanışlı olmuyor. Fiyatın belirli bir koridorda gezindiği 
+konsolidasyon dönemleri, trendde herhangi bir değişiklik olmaksızın çok sayıda 
+hareketli ortalamanın kesişmesine tanık olabilir.
+3.5 Japon mumları, görsel şekiller ve Fibonacci oranları
+Bu iki zorluğun üstesinden gelmek için Japon mumlarını ve görsel 
+konfigürasyonları birleştiriyoruz. Japon mumlarının, ardışık farklı zaman 
+birimlerinin açılış ve kapanış fiyatları ile en yüksek ve en düşük seviyeleri 
+arasındaki ilişkileri incelediğini hatırlayın. Bunlardan trendi ve aynı zamanda A 
+ve B seviyelerini objektif bir şekilde belirlemek amacıyla kendi icat ettiğimiz 
+görsel konfigürasyonu temsil eden üç model oluşturuldu.
+Hareketli ortalamaların trendi belirlemedeki etkisizliği bizi başka yolları 
+keşfetmeye zorladı. Seçilen çözüm, bir konfigürasyon oluşturmaktı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+36
+Japon mumlarından geri dönüş. Ters konfigürasyona (DT Konfigürasyonu) 
+alternatifleri temsil eden üç model geliştirildi ve son mumun yönüne bağlı 
+olarak bir alım veya satım sinyali üretti. Tersine dönüş (trend) konfigürasyonu 
+terimini kullanıyoruz, çünkü baskın trendin ortaya çıkmasından önce yönünü 
+bilmiyor olsak da, bu konfigürasyonu oluşturan mumların konumu, baskın 
+trendin son mumun ters yönü olduğunu gösteriyor. figür. Bu nedenle alım/
+satım sinyali bu son mumla aynı yöndedir. Örneğin, DT Konfigürasyonunun son 
+mumu düşüş eğilimi gösteriyorsa, konfigürasyondan önceki trendin yükseliş 
+olduğunu ve trendin tersine döndüğünü haber verdiğini biliyoruz. DT 
+Konfigürasyonunun yapısı aynı zamanda A ve B noktalarının objektif olarak 
+belirlenmesine ve böylece Fibonacci geri çekilmelerinin etkinliğinin 
+değerlendirilmesine de olanak tanır.
+Bu güç gösterisi, geleneksel olarak belirsiz bir süre boyunca görsel olarak 
+tanımlanan Japon mum konfigürasyonlarını kullanarak resmileştirdiğimiz için 
+mümkündür. Aslında ikili tepe/taban ve üçlü tepe/tabanın gücünü tek bir 
+konfigürasyonda birleştiriyoruz. Çift yüksek/düşük, adından da anlaşılacağı gibi, 
+fiyatın herhangi bir seviyeyi aşmak için art arda iki başarısız girişimidir. Üçlü 
+yüksek/düşük, fiyatın belirli bir seviyeyi aşması için yapılan üç başarısız 
+girişimden oluşur. Aşağıdaki grafikte ikili tepe ve üçlü tepe görülmektedir.
+Şekil 3.4
+Çift üst ve üçlü üst
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+37
+Fibonacci geri çekilmelerinin etkinliğini değerlendirmek amacıyla oluşturulan 
+üç model, aslında pratik amaçlar için DT Konfigürasyonu dediğimiz aynı ters 
+konfigürasyonun alternatifleridir. İlk Konfigürasyona DT1, ikincisine DT2 ve 
+üçüncüsüne DT3 adı verilir. Bir satın alma sinyali durumunda, DT Formasyonu 
+aslında çift diptir ve ikinci dip, üçlü dipten oluşur. Bir satış sinyali durumunda, 
+bu çift yüksek bir seviyedir ve ikinci yüksek seviyesi üçlü yüksek seviyeden 
+oluşur. Spesifik olarak, ilk yüksek/düşük seviye daha sonra bu seviyeyi 
+geçemeyen ardışık üç mum tarafından test edilir. Bu son üç mum üçlü yüksek/
+düşük mikroyu oluşturur ve aynı zamanda ikili yüksek/düşük makroyu 
+tamamlar. Bu nedenle Konfigürasyon DT adı, aynı şekilde çift üst/alt (2) ve üçlü 
+üst/alt (3) varlığından gelmektedir.
+Şekil 3.5
+Üç mumdaki ikinci yukarı/aşağı
+3.6 Şeklin doğrulanması
+AT'ye göre, çift yüksek/düşük veya üçlü yüksek/düşük seviyesinin onaylanması için 
+fiyatın önceki geri çekilme seviyesini aşması gerekiyor. Örneğin, Şekil 3.4'ü 
+kullanarak, fiyat B seviyesini aştığında çift tepenin onaylandığını görebiliriz. Bir 
+fiyatın belirli bir seviyeyi geçip geçmediğinin tanımlanması genellikle yatırımcılar 
+tarafından subjektif olarak belirlenir. Örneğin yukarı yönlü bir atılım durumunda 
+bazıları bir mumun kapanış fiyatı söz konusu seviyenin üzerine çıkana kadar 
+beklerken, bazıları daha sabırlı olup ardışık iki mumun kapanış fiyatı söz konusu 
+seviyenin üzerine çıkana kadar bekler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+38
+DT Konfigürasyonunda ayrıca bu tür bir onay unsuruna sahibiz. Fiyatın üçlü yüksek/
+düşük seviyenin son geri çekilmesini kırması gerekiyor. Dolayısıyla, bu üçlü yüksek/
+düşük seviye sadece üç mumdan oluştuğu için, düşüş sinyali durumunda son mumun 
+kapanış fiyatı sondan bir önceki mumun düşük seviyesinden daha düşük olmalıdır. 
+Yükseliş sinyali durumunda, son mumun kapanış fiyatı sondan bir önceki mumun en 
+yüksek seviyesinden yüksek olmalıdır.
+Şekil 3.6
+Üçlü yüksek/düşük onayı
+Bu doğrulayıcı unsur, trendin tersine döndüğüne inanmamızı sağlar ve daha 
+sonra bu yeni trendi Fibonacci oranlarını kullanmak için kullanırız.
+3.7 A ve B seviyelerinin seçimi
+Önceki bölümdeki onaylayıcı unsur bize bir sonraki fiyat hareketinin yönünü söyler. Bu 
+nedenle Fibonacci oranlarını belirlemek için hangi seviyelerin referans olacağını 
+belirlememiz gerekiyor. Bunu yapmak için, DT Konfigürasyonunun üçlü üst/alt 
+büyüklüğünü, daha kesin olarak son üç mumun üst ve alt kısmı arasındaki mesafeyi 
+kullanırız. Bu mesafe, potansiyel Fibonacci geri çekilmelerini tanımlamak ve dolayısıyla 
+giriş noktasını optimize etmek için kullanılan AB segmentini temsil eder. Aynı segment, 
+Fibonacci uzantılarını belirlemek ve dolayısıyla çıkış noktasını optimize etmeye çalışmak 
+için kullanılır.
+Alış sinyali durumunda son üç mumun en düşük seviyesi A noktasını oluşturur. 
+Son mumun en yüksek seviyesi B noktasıdır. Satın alma noktası
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+39
+{A, B} aralığında yer alacaktır. Çıkış noktası B noktasının üzerindedir ve A ile B 
+arasındaki mesafeye bağlıdır. Satış sinyali için ise durum tam tersidir. A noktası 
+son üç mumun en yüksek seviyesi, B noktası ise son mumun en düşük 
+seviyesidir. Giriş noktası her zaman {A, B} aralığında yer alır ve çıkış noktası bu 
+sefer B seviyesinin altında ve her zaman AB segmentine göre olur.
+Şekil 3.7
+A ve B seviyelerinin grafiksel gösterimi
+Şekil 3.8
+A ve B'ye göre giriş ve çıkış noktası (satın alma)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+40
+4. Modeller
+DT Konfigürasyonunun yapısının arkasındaki mantık önceki bölümde ortaya 
+çıkarıldı. Bu bölüm, bu Konfigürasyonun modellenmesine ve ayrıca Fibonacci 
+geri çekilmelerinin etkinliğinin değerlendirilmesine olanak tanıyan bir 
+stratejinin geliştirilmesine ayrılmıştır. Bunu yapmak için DT Konfigürasyonunun 
+üç alternatifini (DT1, DT2 ve DT3) modelledik. Üç modelin de mantığı aynıdır. 
+Her üç durumda da çift yüksek/düşüktür ve ikinci yüksek/düşük üçlü yüksek/
+düşük mikrodan (ardışık üç mum) oluşur. Modele bağlı olarak değişen şey, 
+dikkate alınan mum sayısı veya çift yüksek/düşük geri çekilmenin 
+büyüklüğüdür. Başlangıçtaki mantık bizi DT1 konfigürasyonunun yapımına 
+götürdü. Sağlamlık amacıyla, kârlılığa ilişkin istatistiklerin muhtemelen daha az 
+iyi olacağını bilerek bu konfigürasyonun bazı parametrelerini diğer ikisini test 
+etmek üzere değiştirdik. Ancak karlı bir strateji oluşturmak bu çalışmanın amacı 
+değildir. Kârlılıktan bağımsız olarak, üç konfigürasyon, Fibonacci geri 
+çekilmelerinin ilk sorumuz olan yatırım stratejisine katkısını açıkça anlamamızı 
+sağlıyor.
+4.1 CE Konfigürasyonunun Modellenmesi
+DT1, DT2 ve DT3 modellerini oluşturmak için kullanılan değişkenleri tanımlayalım.
+Ht= t zamanında mumun tepesi, t=0, 1,2…, n.
+Lt= t anında mumun dibi, t=0, 1.2…, n.
+Ot= Mumun t anındaki açılış fiyatı, t=0, 1.2…,n.
+Ct= Mumun t anındaki kapanış fiyatı, t=0,1,2…,n,
+Burada t=0 formasyondaki mevcut mumu temsil eder, t=1 önceki mumu temsil eder, t=2 
+sondan bir önceki mumu temsil eder ve bu şekilde devam eder.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+41
+4.1.1 Model DT1
+Aşağıdaki grafik bir satış ve alış sinyali durumunda DT1 Konfigürasyonunu 
+göstermektedir.
+Şekil 4.1
+DT1 kurulumu
+Aşağıdaki tabloda DT1 Konfigürasyonunun varoluş koşulları gösterilmektedir.
+Tablo 4.1
+DT1 Yapılandırma Koşulları
+Satış Satın almak
+H5 > H6
+O5 > C5
+L4< L5
+C4<H5
+H3 > H5
+C3<H5
+H2 > H5
+C2<H5
+H1 > H5
+C1<L2
+L5<L6
+C5 >O5
+H4>H5
+C4< L5
+L3<L5
+C3> L5
+L2<L5
+C2> L5
+L1<L5
+C1> H2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+42
+Bu nedenle DT1 Konfigürasyonunun 6 mumluk bir süre boyunca yaşadığını 
+gözlemleyebiliriz. Mum 5, üç kez tekrar test edilen (mum 1, 2 ve 3) başarısızlıkla sonuçlanan 
+döngüsel bir yukarı/aşağı oluşturur. Bu nedenle mum 5'in döngüsel yüksek değeri, çift 
+yüksek/düşük seviyenin ilk yüksek/düşük noktasını oluşturur. Çift yüksek/düşük seviyenin 
+ikinci yüksek/düşük seviyesi son üç mumdan (1, 2 ve 3) oluşur. Mum 5 trendin tersine 
+döndüğü yönünde. Bir düşüş sinyali durumunda mum 4'ün en düşük seviyesi 5'ten daha 
+düşüktür ve yükseliş sinyali durumunda 4 mumunun en yüksek seviyesi 5'inkinden daha 
+yüksektir. Bu son iki koşul, mikro üçlü yüksek/düşük seviyesinden önce optimal bir geri 
+çekilmenin olmasını sağlamamıza izin veriyor.
+4.1.2 DT2 modeli
+Aşağıdaki grafik, satış ve alım sinyali durumunda DT2 Yapılandırmasını 
+göstermektedir.
+Şekil 4.2
+DT2 yapılandırması
+Sonraki sayfadaki tablo DT2 Konfigürasyonunun mevcut olma koşullarını 
+göstermektedir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+43
+Tablo 4.2
+DT2 Yapılandırma Koşulları
+Satış Satın almak
+H6 > H7
+H6 > H5
+L5<L6
+H3 > H6
+C3<H6
+H2 > H6
+C2<H6
+H1 > H6
+C1<L2
+C4<H6
+L6<L7
+L6< L5
+H5 > H6
+L3<L6
+C3>L6
+L2< L6
+C2> L6
+L1<L6
+C1> H2
+C4> L6
+DT2 modeli, iki kısıtlama dışında DT2 modeline benzer. Birincisi, hangi mumun ilk 
+döngüsel yüksek/düşük seviyeyi (çift yüksek/düşük seviyenin ilk yüksek/düşük 
+seviyesi) oluşturduğu konusunda herhangi bir kısıtlama olmamasıdır. DT1 
+Konfigürasyonu durumunda, bu mumun trendin tersine çevrilmesiyle aynı yönde 
+olması gerekiyordu, bu da sinyali güçlendirdi. Ancak bu daha az kısıtlama, daha 
+fazla sayıda gözleme izin verir. İkinci kısıtlama, fiyatın ilk döngüsel yüksek/düşük 
+seviyesini test etmeden önce ek bir zaman almasıdır. Bu nedenle DT2 
+Konfigürasyonu 6 yerine 7 mum gerektirir. Bu ek mum, iki yüksek/düşük seviye 
+arasında daha büyük bir genliğin geri çekilmesine izin verir, bu da fiyatın daha 
+büyük bir momentuma sahip olacağı ve ilk tepe/dip seviyesini delme riski taşıdığı 
+anlamına gelir. Bu iki nedenden dolayı DT2 Konfigürasyonunun tahmin gücünün 
+DT1 Konfigürasyonundan daha düşük olmasını bekliyoruz.
+4.1.3 DT3 modeli
+Aşağıdaki grafik, satış ve alım sinyali durumunda DT3 Yapılandırmasını 
+göstermektedir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+44
+Şekil 4.3
+DT3 yapılandırması
+Aşağıdaki tablo DT3 Konfigürasyonunun mevcut olma koşullarını göstermektedir.
+Tablo 4.3
+DT3 Yapılandırma Koşulları2
+Satış Satın almak
+H5 > H6
+H5 > H4
+L5< L4
+H3 > H5
+C3<H5
+H2 > H5
+C2<H5
+H1 > H5
+C1<L2
+L5<L6
+L5< L4
+H5 > H4
+L3< L5
+C3> L5
+L2< L5
+C2> L5
+L1< L5
+C1> H2
+2Ekte yer alamayacak kadar uzun olan DT1, DT2 ve DT3 Konfigürasyonlarının programlanması istek 
+üzerine mevcuttur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+45
+Tıpkı DT1 modelinde olduğu gibi DT3 modelinde de 6 adet jak standı 
+gerekmektedir. Bununla birlikte, 4 ve 5 numaralı mumlara göre koşullar farklıdır. 
+İkincisi için hala döngüsel bir yüksek/düşük seviyeyi temsil eder, ancak mumun 
+yönü mutlaka trendin tersine çevrilmesiyle aynı değildir (DT2 Yapılandırması 
+durumunda olduğu gibi) ). Mum 4 için, bir alım satım sinyali durumunda, en yüksek 
+değeri 5'ten daha küçük ve en düşük değeri daha düşük olmalıdır. Bu, daha küçük 
+bir geri çekilmenin modellenmesine olanak tanır. Bununla birlikte, geri çekilmenin 
+boyutu çok küçüktür ve bu da DT3 paterninin geleneksel bir çift yüksek/düşük gibi 
+görünmemesine neden olur. Geri çekilme, bir bakıma piyasanın hakim trendi 
+sürdürmeden önce "dinlendiği" bir konsolidasyon dönemine benziyor. Bu iki 
+nedenden dolayı DT3 Konfigürasyonunun tahmin gücünün DT1 
+Konfigürasyonundan daha düşük olmasını bekliyoruz.
+4.2 Kabul edilen strateji
+Önceki bölümde şekillenen varoluş koşulları karşılandığında, söz konusu 
+konfigürasyonun (DT1, DT2 veya DT3) mevcut olduğunu ve konfigürasyonun 
+yönüne bağlı olarak bir alım veya satım fırsatının bulunduğunu biliyoruz.
+Pozisyon yönetimi şu ana kadar dikkate alınmamıştır. Almamız veya satmamız 
+gerektiğini biliyoruz, ancak hangi seviyede (giriş noktası) bilmiyoruz ve ayrıca 
+pozisyonu kapatmamız gereken seviyenin (çıkış noktası) ne olacağını da bilmiyoruz.
+4.2.1 Giriş noktasının modellenmesi
+Giriş noktasını belirlemek için Fibonacci geri çekilmelerini kullanırız. Altı senaryo 
+değerlendiriliyor. İlk senaryo, sinyal oluşturulduktan sonra bir geri çekilme 
+beklemediğimiz senaryodur. AB segmentinin %100'ünde pozisyon alıyoruz, 
+dolayısıyla giriş noktası B noktasıdır. Diğer 5 senaryo için pozisyon almadan önce 
+geri çekilmeyi beklememiz gerekir. Bu 5 senaryo, yatırımcıların kullandığı 5 geri 
+çekilme seviyesine (%78,6, %61,8, %50, %38,2 ve %23,6) karşılık geliyor. Dolayısıyla 
+giriş noktası AB segmentinin seçilen yüzdesine karşılık gelir. Fiyatın bu geri çekilme 
+seviyesine ulaşmasını bekliyoruz. DT Konfigürasyonunda olduğu gibi mum 
+sayısında herhangi bir kısıtlama yoktur. Fiyat bir veya on beş mumla giriş noktasına 
+(seçilen geri çekilme) ulaşabilir. Ancak bir kısıtlama var
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+46
+yakında göreceğimiz seviyede. Öncelikle A ve B noktalarını ve ayrıca alış ve satış 
+durumunda geri çekilme yüzdesini (giriş noktası) resmi olarak tanımlayalım.
+Tablo 4.4
+A, B ve geri çekilme (alış)
+SAHİP OLMAK L1, L2 ve L3 arasındaki en düşük seviye
+B H1
+%X AB %X * (BA) +A
+Tablo 4.5
+A, B ve geri çekilme (Satış)
+SAHİP OLMAK H1, H2 ve H3 arasındaki en yüksek seviye
+B L1
+%XAB %XAB=%AX*(AB)
+Sinyal oluşturulduktan sonra 6 giriş noktasını test ederiz. İlk giriş noktası B seviyesidir. 
+Dolayısıyla üretilen sinyallerin sayısı, gerçekleştirilen işlemlerin sayısı ve aynı zamanda 
+sistemin performansını değerlendirmek için yapılan gözlemlerin sayısıdır. Aşağıdaki 5 
+giriş noktası durumunda fiyatın geri çekilmesini beklemek zorundayız. Fiyatın istenilen 
+seviyeye döneceği garanti edilmez. Örneğin fiyatın bu sinyalin hemen ardından sinyalin 
+gösterdiği yönde hareket etmesi mümkündür. Dolayısıyla tahmin doğrudur, ancak geri 
+çekilmeyi beklersek asla giriş noktasına ulaşamayız, o zaman taviz veremeyiz. Daha 
+sonra sistemin değerlendirilmesi sırasında gözlemin kaldırılması gerekir. Bu, test edilen 
+geri çekilme ne kadar büyükse (% sıfıra ne kadar yaklaşırsa), gözlemlerin o kadar az 
+olduğu anlamına gelir.
+4.2.2 Çıkış noktasının modellenmesi
+Giriş noktasına ulaşıldığında DT Konfigürasyonu tarafından gösterilen yönde 
+pozisyon alıyoruz. Ancak bir çıkış stratejinizin olması gerekiyor. Stratejide
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+47
+Bu araştırmanın amaçları doğrultusunda benimsenen her durumda, her zaman iki 
+potansiyel çıkış noktası vardır. İlk çıkış noktası kar elde etme noktasıdır ve Fibonacci 
+uzantılarına göre hesaplanır. İkinci nokta, tahammül etmeye hazır olduğumuz maksimum 
+kayba karşılık gelir (durdurma emrini tetiklemek için). Fiyat bu seviyeye ulaşırsa pozisyonu 
+zararla kapatırız. Bizim durumumuzda bu A düzeyidir. Fibonacci uzantılarının hesaplanması 
+tablo 3.2'de ayrıntılı olarak verilmektedir. Maksimum kayıp ise her zaman A düzeyine ve 
+giriş noktasına göre belirlenir. Daha genel olarak elimizde:
+Tablo 4.6
+Maksimum kayıp
+Satın almak (Giriş noktası) – A
+Satış A-(Giriş noktası)
+Örnek olarak burada iki olası senaryonun grafiksel gösterimi verilmiştir: bir satın alma 
+sinyali durumunda %100'lük bir giriş noktası ve bir satın alma sinyali satışı durumunda 
+%50'lik bir giriş noktası.
+Şekil 4.4
+Maksimum kaybın çizimi
+A seviyesinin seviyedeki maksimum kaybı, yani geri çekilmenin artık bir geri 
+çekilme olmadığını düşündüğümüz seviyeyi temsil ettiğini görebiliriz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+48
+Konfigürasyon DT'si tahmininde başarısız oldu. Bu nedenle, kâr hedefine (seçilen 
+Fibonacci uzantısı) ulaşmadan önce fiyat A seviyesine dönerse, pozisyonumuzu her 
+zaman (zararla) kapatırız.
+4.2.3 Kritik seviye ve geri çekilmeler
+Tahminin doğru çıkması ve fiyatın doğru yönde hareket etmesi durumunda 
+Fibonacci geri çekilmelerinin artık sayılmadığı kritik bir seviye belirledik. Bu 
+seviye 1.618 uzantısıdır. Fibonacci uzantısıyla temsil edilen ilk potansiyel kâr 
+elde etme yöntemi olduğu için seçilmiştir. Bu nedenle, alım/satım sinyali 
+oluşturulduktan sonra fiyatın 1.618 uzantısına ulaşmadan önce istenen 
+Fibonacci geri çekilmesine ulaşıp ulaşmadığını gözlemleyerek DT 
+Konfigürasyonunun karlılığını değerlendiriyoruz. Önce bu uzatmaya ulaşırsa 
+sonraki geri çekilmeler artık sayılmaz. Örneğin, bir alış sinyalinden sonra fiyat 
+doğrudan 1,618'e gider, ardından 0,618'e geri döner ve ardından tekrar 
+2,618'den başlarsa, fiyat 0,618'e geri çekilmiş sayılamaz. Dolayısıyla sayılan geri 
+çekilme, fiyat ilk kez 1,618 uzantısına ulaşmadan önce ulaşılan geri çekilme 
+olacaktır.
+4.2.4 Karar ağacı
+Sonraki sayfadaki diyagram, Fibonacci geri çekilmelerinin DT Yapılandırmasının karlılığı 
+üzerindeki etkisini değerlendirmek için seçilen stratejiyi göstermektedir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+49
+Şekil 4.5
+Yatırım stratejisi
+Dolayısıyla stratejinin, DT Konfigürasyonunun ortaya çıkmasının ardından istenilen 
+seviyeye geri çekilmeyi beklemekten oluştuğunu görebiliriz. Geri çekilmeye ulaşıldığında 
+pozisyon alırız (alır veya satarız). Alınan pozisyon aslında fiyatın seçilen Fibonacci uzantısına 
+A seviyesine ulaşmadan önce ulaşacağına dair bir bahistir. Böyle bir durumda, söz konusu 
+uzantıdaki pozisyon kâr amacıyla kapatılır. Ancak fiyat genişlemeye ulaşmadan A seviyesine 
+ulaşırsa, o zaman da pozisyonu kapatıyoruz, ancak zararla.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+50
+4.3 Risk
+Forex sektörü, küçük yatırımcılara önemli miktarda kaldıraç kullanma olanağı tanıdığı 
+için benzersizdir. 2008 mali krizinden önce, Amerika Birleşik Devletleri'ndeki bazı 
+brokerlar 500'e 1'e kadar yüksek kaldıraç seçeneği sunuyordu. Bu, 100.000 ABD doları 
+tutarında standart bir sözleşme satın almak için komisyoncunun yalnızca 200 dolar 
+garantiye ihtiyacı olduğu anlamına geliyor. Ağustos 2010'da, Amerikalı brokerleri 
+maksimum 50:1 kaldıraç sunmaya zorlayan bir dizi yeni düzenleme ortaya çıktı. 
+Amerika dışındaki brokerler arasındaki standart şu anda 100:1'dir, ancak finansal 
+kaldıraç derecesi birincil değişken değildir. Bu araştırmanın amaçları. 50'ye 1'lik daha 
+düşük kaldıraç durumunda bile sermayenin yalnızca %2'sinin teminat olarak yatırılması 
+gerekir. Bu, yatırımcının riskten kaçınmasına bağlı olarak sermayesinin istenilen 
+yüzdesini riske atabileceği anlamına gelir. Sayısal bir örnek kullanarak açıklayalım. 
+10.000$'lık bir başlangıç   sermayesinin yanı sıra A noktası 1,00 ve B noktası 2,00 olan 
+bir satın alma sinyalini alalım. Spekülatör %100'den alım yaparsa maksimum seviye 
+kaybının 1,00 (2-1) olduğunu bilir. Eğer sermayesinin %1'ini riske atmak istiyorsa 
+%1*10000 yani 100$'ı riske atabileceğini biliyor. Daha sonra satın alınacak sözleşme 
+sayısını, seviyedeki (1,00) maksimum kaybın 100$'a eşit olacağı şekilde hesaplayabilir. 
+1,00'dan 2,00'a değişimin 100 puan olduğunu düşünürsek, her puanın 1$'a (100$/100 
+puan) eşit olduğu sözleşme sayısını satın alabilecektir. Ayrıca her puanın 50$'a (5000$/
+100 puan) eşdeğer olmasını sağlayan sözleşme sayısını satın alarak sermayesinin 
+%50'sini riske atmaya da karar verebilir. Puan başına değer her para birimine bağlıdır, 
+ancak genel olarak 50 $/puan değeri 500.000 $'lık bir sözleşmenin satın alınması için 
+olacaktır. Ancak 500.000$'lık bir sözleşme ve 50'ye 1 kaldıraç için teminat olarak 
+10.000$, yani yatırımcının sermayesi gereklidir. Ancak bu aşırı senaryo gerçekçi değildir 
+ve sorumlu bir yatırımcı tarafından benimsenmeyecektir; ancak ikincisinin her işlem 
+için risk seçimi konusunda büyük bir serbestliğe sahip olduğunu açıkça göstermektedir. 
+Bu araştırmada benimsenen strateji için her işlemde başlangıç   sermayesinin %1'i riske 
+atılacaktır. Önceki sayısal örnek, komisyoncunun izin verdiği kaldıraçtan bağımsız 
+olarak, her işlem için %1 riskin tamamen makul olduğunu göstermektedir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+51
+4.4 Performans önlemleri
+Bu bölümde Fibonacci geri çekilmelerinin yatırım stratejisine değer sağlayıp 
+sağlamadığını değerlendirmek için seçilen yöntem açıklanmaktadır. Bunu öğrenmek 
+için DT1, DT2 ve DT3 modellerinin kârlılığını geri çekilme olmadan hesaplıyoruz. Daha 
+sonra, geri çekilmelerin modellerin karlılığını artırıp artırmadığını belirlemek için 
+beklenen kazanç ve getiriye dayalı iki duyarlılık analizi yapıyoruz.
+4.4.1 Kâr/Zarar oranı
+Modellerin beklenen kârını hesaplayabilmek için Kâr/Zarar oranına ihtiyacımız var. 
+Aşağıdaki sayısal örnek, yapısının yanı sıra evrimini de açıkça göstermektedir. Bir 
+satın alma sinyali alalım ve 2,618 uzantısından kar elde edelim. Birkaç potansiyel 
+giriş noktası mevcuttur. A seviyesi ve kar alma seviyesi (2,618) sabit olduğundan 
+göreceli riskimiz giriş noktamıza bağlı olacaktır. Örneğin, satın almadan önce AB 
+segmentinin 0,786'ya geri çekilmesini beklemeye karar verebiliriz. Bu durumda 
+riskimiz, açılış noktası ile A noktası arasındaki mesafe, yani AB segmentinin 0,786'sı 
+olacaktır. Potansiyel kârımız, kâr hedefi (AB segmentinin 2,618'i) ile giriş noktası (AB 
+segmentinin 0,786'sı) arasındaki farktır. Bu, AB segmentinin 1.832'sine eşdeğerdir. 
+Dolayısıyla Kar/Zarar oranımız 1,832/0,786'dır veya
+2.33. Eğer daha sabırlı olmaya karar verir ve 0,618'e gerilemeyi beklersek, o zaman Kâr/
+Zarar oranımız da değişecektir. Şimdi 2'lik (2,618-0,618) potansiyel kazanç için AB 
+segmentinin 0,618'ini riske atıyoruz. Yeni kar-risk oranı 2/0,618 yani 3,24'tür. Ne kadar 
+sabırlı olursak Kâr/Zarar oranımız da o kadar iyileşir. Aşağıdaki tablolar aynı zamanda 
+kullanılan Fibonacci geri çekilmeleri ve uzantılarının farklı kombinasyonları için farklı 
+Kâr/Zarar oranlarını da göstermektedir. Son sütun, beklenen kazancın sıfır olması için 
+elde edilecek başarı yüzdesini gösterir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+52
+Tablo 4.7
+AB segmentinin %100 pozisyon alması
+Risk Hedef Kâr Kar/Zarar % başarı
+100 161.8 61.8 0,618 61.8
+100 261.8 161.8 1.618 38.2
+100 361.8 261.8 2.618 27.6
+100 461.8 361.8 3.618 21.7
+100 561.8 461.8 4.618 17.8
+100 661.8 561.8 5.618 15.1
+Tablo 4.8
+AB segmentinin %78,6'sında yer aldı
+Risk Hedef Kâr Kâr/Hedef % başarı
+78.6 161.8 83.2 1.059 48.6
+78.6 261.8 183.2 2.331 30.0
+78.6 361.8 283.2 3.603 21.7
+78.6 461.8 383.2 4.875 17
+78.6 561.8 483.2 6.148 14
+78.6 661.8 583.2 7.420 11.9
+Tablo 4.9
+AB segmentinin %61,8'inde yer aldı
+Risk Hedef Kâr Kar/Zarar % başarı
+61.8 161.8 100 1.618 38.2
+61.8 261.8 200 3.236 23.6
+61.8 361.8 300 4.854 17.1
+61.8 461.8 400 6.472 13.4
+61.8 561.8 500 8.091 11
+61.8 661.8 600 9.709 9.3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+53
+Tablo 4.10
+AB segmentinin %50'sinde yer alan pozisyon
+Risk Hedef Kâr Kar/Zarar % başarı
+50 161.8 111.8 2.236 30.9
+50 261.8 211.8 4.236 19.1
+50 361.8 311.8 6.236 13.8
+50 461.8 411.8 8.236 10.8
+50 561.8 511.8 10.236 8.9
+50 661.8 611.8 12.236 7.6
+Tablo 4.11
+AB segmentinin %38,2'sinde yer aldı
+Risk Hedef Kâr Kar/Zarar % başarı
+38.2 161.8 123.6 3.236 23.6
+38.2 261.8 223.6 5.853 14.6
+38.2 361.8 323.6 8.471 10.6
+38.2 461.8 423.6 11.089 8.3
+38.2 561.8 523.6 13.707 6.8
+38.2 661.8 623.6 16.325 5.8
+Tablo 4.12
+AB% segmentinin 23,6'sında yer alan pozisyon
+Risk Hedef Kâr Kar/Zarar % başarı
+23.6 161.8 138.2 5.856 14.6
+23.6 261.8 238.2 10.093 9
+23.6 361.8 338.2 14.331 6.5
+23.6 461.8 438.2 18.568 5.1
+23.6 561.8 538.2 22.805 4.2
+23.6 661.8 638.2 27.042 3.6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+54
+Tablo 4.13
+Kâr/Zarar oranının özet tablosu
+Uzatma/geri çekilme 100 78.6 61.8 50 38.2 23.6
+1.618 0,618 1.059 1.618 2.236 3.236 5.856
+2.618 1.618 2.331 3.236 4.236 5.853 10.093
+3.618 2.618 3.603 4.854 6.236 8.471 14.331
+4.618 3.618 4.875 6.472 8.236 11.089 18.568
+5.618 4.618 6.148 8.091 10.236 13.707 22.805
+6.618 5.618 7.420 9.709 12.236 16.325 27.042
+Bu tablolardan, belirli bir uzatma için daha büyük bir genlik gerilemesi 
+beklediğimizden Kâr/Zarar oranının arttığını görebiliriz. Kar/Zarar oranı artıyor olsa 
+da, daha yüksek bir geri çekilmeyi beklemenin yatırımcı için karlı bir strateji 
+olduğuna inanmak için hiçbir neden yok. HEM'in doğru olduğu ortaya çıkarsa ve 
+fiyat geçmişinden kâr elde etmek imkansızsa, bu yüksek oran, daha düşük bir 
+başarı olasılığıyla dengelenmelidir. Dolayısıyla bu araştırmanın ampirik kısmı, Kâr/
+Zarar oranındaki artışın daha düşük bir başarı oranıyla dengelenip 
+dengelenmediğinin veya tam tersine, daha düşük bir başarı oranının olumsuz 
+etkilerinin daha düşük bir başarı oranıyla fazlasıyla dengelenip dengelenmediğinin 
+doğrulanmasından oluşur. Kâr/Zarar oranının iyileştirilmesi. İkinci durumda 
+Fibonacci geri çekilmelerinin yatırım stratejisine değer getirdiğini söyleyebiliriz.
+4.4.2 Kazanç beklentisi
+Beklenen kazanç, her senaryonun performansını belirlemek ve dolayısıyla Fibonacci 
+düzeltmelerinin kullanışlılığını bilmek için kullanılan değişkendir. Senaryo, DT 
+Yapılandırmasından gelen bir alım veya satım sinyalini takip eden olası bir pozisyon 
+yönetimidir. 3 model (DT1, DT2 ve DT3) için 6 geri çekilme 
+(1;0.786;0.618;0.5;0.382;0.236) ve 6 uzatma (1.618;2.618;3.618;4.618;5.618;6.618) 
+mevcuttur. Her kombinasyon bir senaryoyu temsil eder ve test edilecek 108'dir.
+Kullanılan teknik, belirli bir uzantı (hedef) için, her senaryonun beklenen 
+kazancını her model için ayrı ayrı karşılaştırmaktır. Örneğin DT1 modeli için AB 
+segmentinde %100 pozisyon almanın beklenen kazancını karşılaştırıyoruz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+55
+çıkış noktası 1,618 olduğunda aynı segmentin 0,786, 0,618, 0,5, 0,382 ve 
+0,236'sında alınan pozisyonla. Olası tüm kar hedefleriyle yeniden başlıyoruz. 
+Dolayısıyla bu, Fibonacci geri çekilmesini beklemenin DT Konfigürasyonunun 
+varyantlarının performansını iyileştirip iyileştirmediğini görmemizi sağlar.
+X senaryosunun beklenen kazancı şu şekilde hesaplanır:
+E(x)= kazanç olasılığı * kazanç + kayıp olasılığı * kayıp (4.1)
+Bizim durumumuzda kazanç ve kayıplar AB segmentinin genliğine bağlı olduğundan 
+değişkendir. Bu AB segmenti de zamansal birime bağlı olarak değişkendir. 4 saatlik bir 
+grafikten alınan segmentin, 30 dakikalık bir grafikten alınan segmentten daha uzun olma 
+olasılığı çok daha yüksektir. Dolayısıyla AB doğru parçasının değişkenliği bu denklemi 
+kullanmamızı engellemektedir.
+Forex sektörünün kaldıraçla ilgili özelliklerine eklenen belirli bir uzatma için kâr/
+zarar oranının sabit olması, beklenen kârları yalnızca Kâr/Zarar oranıyla 
+hesaplamamıza olanak sağlar. Risk bölümünde de belirttiğimiz gibi 
+spekülatörün her işlemde başlangıç   sermayesinin %1'ini riske atmaya karar 
+verdiğini varsayıyoruz. Dolayısıyla Kâr/Zarar oranı, beklenen kazançları yüzde 
+cinsinden hesaplamamıza olanak tanır:
+E(x)= kazanma olasılığı * kazanmanın yüzdesi + kaybetme olasılığı * kaybetmenin yüzdesi (4.2)
+Bu nedenle elimizde:
+E(x)= kazanç olasılığı * (Kar/Zarar) + kayıp olasılığı* (-1) (4.3)
+Dolayısıyla sonuç, dolar cinsinden değil, yüzde cinsinden beklenen bir kazançtır.
+Kârlılığı hesaplamanın bir başka yolu da belirli bir dönemdeki getiriyi 
+değerlendirmektir. Beklenen kazanç biraz eksik. Örneğin bir senaryonun 
+gerçekleştirilen her işlem için beklenen kazancın %1 olması, alternatif senaryo 
+için ise bu istatistiğin %0,5 olması mümkündür. Senaryo 1'in yılda on kez 
+gerçekleşmesi durumunda yıllık ortalama %10 getiri elde edilir. İkinci senaryo 
+yılda otuz kez gerçekleşirse ortalama getirisi %15 olur. Yatırımcı bu nedenle 
+ikinci senaryoyu seçecektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+56
+Bu nedenle getiri, karlı işlemlerin (O) (uzantıya ulaşan) ve kârsız işlemlerin (N) (A 
+seviyesine ulaşan) sayısının derlenmesiyle hesaplanır. Bu nedenle elimizde:
+Getiri= O*(Kar/Zarar) + N* (-1) (4.4)
+Denklem 4.3 ve 4.4, senaryoların karlılığını ve aynı zamanda Fibonacci geri çekilmelerinin 
+etkinliğini hesaplamak için kullanılan denklemlerdir.
+4.4 İşlem maliyetleri
+Çalışmanın amacının DT Yapılandırmasına dayalı stratejinin karlılığını değerlendirmek 
+olması durumunda işlem maliyetlerinin dahil edilmesi önemli olacaktır. Ancak bu bizim 
+için gerekli değil çünkü biz sadece Fibonacci geri çekilmelerinin DT Konfigürasyonuna 
+dayalı stratejinin karlılığına katkısını değerlendirmeye çalışıyoruz.
+Forex endüstrisinde brokerlar bunu iki şekilde yapar. Birincisi, yapılan işlemler 
+için müşterilerden ücret alınmaması ve alış fiyatı ile satış fiyatı arasında bir 
+spread belirlenmesidir. Bu nedenle bu fark, yüksek volatilite dönemlerinde bile 
+zaman içinde değişmez. Ancak bu fark bankalararası piyasada hakim olandan 
+daha büyük. Bu nedenle bu gizli bir ücrettir çünkü bir pozisyonun kârlı hale 
+gelmesi için birkaç ek puan daha kat etmesi gerekir. İkincisi ise müşteriden 
+işlem hacmine göre sabit bir tutarın tahsil edilmesi ve alış fiyatı ile satış fiyatı 
+arasındaki farkın bankalar arası piyasaya yakın bir seviyede bırakılmasıdır. İki 
+durum birbirine çok benzer. İkinci senaryoda ödenecek komisyon, 
+bankalararası piyasadakine benzer koşullar nedeniyle tasarruf edilen miktara 
+aşağı yukarı eşdeğerdir. Her iki durumda da sektördeki işlem maliyetlerinin 
+aslında alış ve satış fiyatları arasındaki farkla temsil edildiği sonucuna 
+varabiliriz.
+Bu nedenle, tahmin küçük olduğunda işlem maliyetleri orantılı olarak daha 
+yüksektir. Örneğin, 5 puanlık bir hareket tahmin etmeye çalışıyorsak ve alış ve 
+satış fiyatı arasındaki fark 5 puan ise, o zaman kar hedefimize ulaşmak için 
+aslında 10 puanlık bir hareket tahmin etmemiz gerekir. Bu nedenle işlem 
+maliyetleri kârın %100'üdür (5/5). 500 puanlık bir hareketi tahmin etmeye 
+çalıştığımız durumda işlem maliyetleri bu nedenle orantılıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+57
+çok daha küçüktür ve %1 (5/500) düzeyindedir. DT Yapılandırması ve benimsenen 
+strateji durumunda, daha yüksek bir geri çekilme beklentisi, daha büyük bir 
+hareketi tahmin etmeye çalıştığımız anlamına gelir; bu da gerçekte işlem 
+maliyetlerinin oranını azaltır. Bu nedenle işlem ücretlerinin hesaba katılmaması, 
+daha yüksek geri çekilmeleri beklemenin karlılığını bir şekilde hafife alıyor. Bu 
+nedenle bunları dahil etmemeye karar verdik.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+58
+5. Veri
+DT1, DT 2 ve DT3 konfigürasyonlarına dayalı stratejilerin geçerliliğini test etmek 
+için Alpari UK komisyoncusu tarafından sağlanan verileri kullandık (
+www.alpari.co.uk ) ve kendi entegre dili olan mql4'e (meta tırnak dili 4) sahip 
+teknik analiz yazılımı metatrader 4.
+Metatrader 4 yazılımı forex sektöründe yaygın olarak kullanılmaktadır ve birçok 
+broker tarafından kullanılmaktadır. İkincisi, müşterilerine çevrimiçi işlem 
+yapmalarına olanak tanıyan bir arayüz sağlamalıdır. Çoğu, müşterilerine teknik 
+analiz yapmalarına olanak tanıyan yazılımlar da sağlıyor. Aslında fiyatın, çeşitli 
+popüler göstergelerin entegre edilebileceği istenen biçimde görsel bir temsilidir. 
+Metatrader hem işlem gerçekleştirmeye hem de fiyatı gerçek zamanlı olarak 
+grafiksel olarak analiz etmeye olanak tanır. Metatrader'ın araştırmamız açısından 
+ana çekiciliği, spekülasyon stratejilerinin otomasyonuna ve test edilmesine olanak 
+tanıyan entegre dilidir. Bu nedenle, seçilen zaman birimini izole ederken, istenen 
+zaman ufkunda, istenen döviz çifti üzerinde bir strateji programlayabiliriz. Zaman 
+birimi bir mumun oluşum zamanıdır. Bu nedenle, her çubuğun dört saatlik fiyat 
+dalgalanmasını temsil ettiği grafikte 2003'ten 2006'ya kadar USD/CAD çifti üzerinde 
+belirli bir stratejiyi test edebiliriz. Bu nedenle, bir TA stratejisini ampirik olarak test 
+edebilmek ve aynı zamanda onun görsel bir temsiline sahip olabilmek çok ilginçtir. 
+Stratejileri çalışırken grafiksel olarak görebilme yeteneği, onları düzeltmeyi ve 
+iyileştirmeyi çok daha kolay hale getirir.
+Bu nedenle bu yazılım, komisyoncunun müşterilerine mevcut farklı finansal araçlar 
+için sunduğu fiyatı gerçek zamanlı olarak görüntüler. Ancak fiyat bir 
+komisyoncudan diğerine aynı değildir. Forex endüstrisi merkezi olmayan bir yapıya 
+sahiptir. Bu nedenle, örneğin Kanada borsası TSX'teki hisseler için olduğu gibi tek 
+bir fiyat yoktur. İkincisi için, işlem yaptığınız komisyoncudan bağımsız olarak bir 
+hissenin fiyatı aynıdır. Döviz piyasasında ise durum böyle değil. Her broker 
+müşterilerine likidite sağlayıcılarına ve müşteri talebine göre kendisine uygun fiyatı 
+sunar. Bu nedenle, örneğin, EUR/USD çifti üzerindeki bir stratejinin performansını 
+30'u temsil eden mumlar üzerinde analiz etmek istersek şunu bilmek önemlidir:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+59
+Son 12 aydaki faaliyet dakikaları, merkezi bir borsadaki hisse senetlerinde olduğu 
+gibi yalnızca tek bir veri dizisinin bulunmadığını gösteriyor. Ancak rekabet, döviz 
+piyasasında farklı brokerlerin gösterdiği fiyatların neredeyse aynı olması anlamına 
+geldiğinden bu herhangi bir sorun yaratmaz. Bankalararası piyasada yürürlükte 
+olan fiyatlardan çok farklı fiyatları müşterilere göstermeyi göze alamazlar. Özellikle 
+volatilitenin yüksek olduğu dönemlerde farklı brokerlerde fiyatların birkaç noktada 
+farklılık göstermesi mümkündür. Bu tamamen normaldir ve bir stratejiyi bir 
+aracının veri kümeleri üzerinde test etmenin sonuçlarının diğerinin veri 
+kümelerinden önemli ölçüde farklı olduğuna inanmak için hiçbir neden yoktur.
+Alpari Uk komisyoncusu, müşterilerine ticaret yapmak için metatrader yazılımını 
+kullanma olanağı sunuyor. Ayrıca demosunu sınırsız bir süre boyunca ücretsiz 
+kullanma imkanı sunuyor. Demo, fiyat hareketlerinin gerçek zamanlı olarak 
+gerçekleştiği, yatırımcıların ve spekülatörlerin komisyoncu tarafından kullanılan 
+platformu anlamalarına ve aynı zamanda belirli stratejileri uygulamalarına olanak 
+tanıyan hayali bir hesaptır. Bu nedenle, önceki bölümde geliştirilen stratejiyi grafiksel 
+olarak temsil edilen veritabanlarında test etmek için Alpari İngiltere tarafından 
+sağlanan demoyu kullanıyoruz. Bu grafiksel gösterim aynı zamanda okuyucuya DT 
+Konfigürasyonunu çalışırken göstermemize de olanak tanır.
+Alpari UK, müşterilerinin işlem yapmasına izin verdiği her döviz çifti için bize bir 
+veritabanı sağlıyor. Bu bir dakikalık mumları oluşturan verilerdir. Bu nedenle açılış 
+fiyatı, kapanış fiyatı, fiyat gelişiminin her dakikasının en yüksek ve en düşük 
+değerleri elimizde bulunmaktadır. Bazı TA stratejileri çeşitli göstergeleri ve çeşitli 
+zamansal birimleri birleştirir. Bu durumda iki göstergenin kesişmesinin hangi 
+dakikada gerçekleştiğini bilmek zorunlu olabilir. DT Konfigürasyonunu temel alan 
+strateji durumunda bu tür bir kesinlik gerekli değildir. İhtiyaç duyulan tek şey 
+seçilen zaman birimindeki verilerdir. Stratejiyi 30 dakikalık bir grafik üzerinde test 
+etmeyi seçersek, yalnızca 30 dakikalık mumlara ilişkin verilere ihtiyacımız olur. 
+Metatrader, verileri bir dakikalık mumlardan istenen zaman birimini temsil eden 
+mumlara dönüştürür. Örneğin, 30 dakikalık grafik üzerinde bir test yapılması 
+durumunda Metatrader 30 dakikalık mumları yeniden yapılandırır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+60
+mevcut dört zaman serisinden dakikalar. 30 dakikalık mumun açılış fiyatını 
+19:00 - 19:30 arası belirlemek için yazılım, mumun 19:00 - 19:01 arasındaki açılış 
+fiyatını alacaktır. Kapanış fiyatı 19:29 ile 19:30 arası kapanış fiyatı olacaktır. En 
+yüksek fiyat, 19:00 ile 19:30 arasında 30 adet 1 dakikalık mumun ulaştığı en 
+yüksek fiyat olacak. Aynı şekilde, en düşük fiyat aynı 30 mumun ulaştığı en 
+düşük fiyat olacaktır.
+DT Yapılandırmasını test etmek için 30 dakika, 60 dakika ve 240 dakika olmak 
+üzere üç zaman birimine odaklanmaya karar verdik. Bu grafiksel gösterimler 
+yatırımcılar arasında popülerdir ve farklı genliklerdeki hareketleri yakalayabilir. 
+Yatırımcılar da karar verirken daha küçük zaman birimleri kullanıyor ancak bu 
+araştırmada kullanılan en küçük zaman birimi 30 dakikadır. Bunun nedeni, 
+Metatrader'da bulunan daha küçük zaman birimlerinin, yani 15 dakika, 5 dakika 
+ve 1 dakikanın, çok küçük bir tahmine izin veren sinyaller üretmesidir. 
+Konfigürasyon DT durumunda, tahminin mutlak değerdeki büyüklüğü AB 
+segmentinin genliğine bağlıdır. Varsayımsal olarak, eğer A ve B noktası 
+arasındaki fark 100 puan ise, o zaman B noktasından 2.618 uzantısına doğru 
+öngörülen hareket 161,8 puan olacaktır. Öte yandan A ile B noktası arasındaki 
+fark 1 puan olsa aynı tahmin yalnızca 1.618 puanlık mesafeyi kapsayacaktır. Bu 
+durumda yatırımcının böyle bir tahminde bulunmasının faydası yoktur çünkü 
+işlem maliyetleri, doğru bir tahmin durumunda bile alım veya satımı kârsız hale 
+getirecektir. Bu nedenle, işlem maliyetlerini karşılayamayacak kadar düşük 
+genliğe sahip sinyaller üretme olasılığı daha yüksek olan çok küçük zamansal 
+birimleri kullanma konusunda başarısız olduk. Bu çalışmanın amacı işlem 
+ücretlerinin dahil edilmesini gerektirmese de yine de gerçekçi koşullara dayalı 
+sonuçlar üretmek istedik. Aynı şekilde, belirli bir zaman ufku boyunca üretilen 
+sinyallerin sayısı seçilen zaman birimiyle ters orantılı olduğundan 240 dakika 
+zaman biriminde durduk. Son üç yıldır DT Konfigürasyonunu test etmeye karar 
+verdiğimiz için üretilen sinyal sayısının azlığı göz önüne alındığında 240 
+dakikalık zaman birimini aşmamıza gerek kalmadı. Metatrader'da bir sonraki 
+zaman birimi 24 saattir, bu da 240 dakikadan altı kat daha uzundur. Ufuk gibi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+61
+Mevcut çalışmanın zaman çerçevesi 3 yıl olarak belirlendi; 24 saatlik verilerde 240 
+dakikalık verilere göre ortalama altı kat daha az sinyal olması gerekiyor. Seçilen 
+bazı döviz çiftleri için DT Yapılandırması günlük grafikte yeniden üretilmiyor. Bu 
+nedenle, bunun birkaç kez meydana gelmesi, Fibonacci geri çekilmelerinin seçilen 
+stratejinin karlılığı üzerindeki etkisine ilişkin sonuçlara varılmasına izin 
+vermeyecektir.
+Bu araştırmanın yatırım stratejisi 1'den itibaren test edilmiştir.yaniOcak 2008'den 28 
+Şubat 2011'e kadar. Bu dönem, şu anda nasıl bir performans sergilediğini 
+değerlendirmemizi sağlıyor. 2008 yılının başına dönmek, Fibonacci geri çekilmelerinin 
+katkısını değerlendirmek için yeterli sayıda gözleme sahip olmamızı sağlıyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+62
+6. Sonuçlar
+Bu bölüm, her senaryo için elde edilen sonuçları (beklenen kazançlar ve getiriler) ortaya koyar ve 
+Fibonacci geri çekilmesini beklemenin karlılığı artırmayı mümkün kılıp kılmadığını kontrol 
+etmenize olanak tanır.
+Bölüm 6.1, 6.2 ve 6.3'teki tablolar, Konfigürasyon DT1, DT2 ve DT3'te önerilen 
+stratejiyi benimsediğimizde elde edilen sonuçları göstermektedir. Her tablo, 
+belirli bir giriş noktası için (belirli bir Fibonacci geri çekilmesi için) farklı 
+senaryoların karlılığını detaylandırır. Tablodaki her satır olası bir senaryoyu 
+temsil etmektedir. Tablolarda seçilen uzantı (hedef), giriş noktası ve hedeften 
+kaynaklanan Kar/Zarar oranı, hedefe ulaşan, dolayısıyla karlı olan işlem sayısı 
+(O), karlı işlemlerin yüzdesi (%), beklenen kazançlar yer alır. E(x) ve dönüş (R).
+Beklenen kazançlara ilişkin sonuçlar denklem 4.3'ten elde edilen sonuçlardır:
+E(x)= kazanç olasılığı * (Kar/Zarar) + kayıp olasılığı* (-1)
+Elde edilen yüzde, yatırımcının sermayesinin %1'ini riske atması durumunda her 
+işlemden beklenen kazançtır.
+Verime ilişkin sonuçlar denklem 4.4'ten elde edilen sonuçlardır:
+Getiri= O*(Kar/Zarar) + N* (-1), burada N= (Gözlem sayısı)-O
+Elde edilen sonuç, yatırımcının başlangıç   sermayesinin %1'ini 1'den 1'e kadar riske atması 
+durumunda senaryonun üreteceği toplam getiridir.yaniOcak 2008 - 28 Şubat 2011. Getiri 
+yıllıklandırılmamaktadır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+63
+6.1 Model DT1
+Tablo 6.1
+DT1-Pozisyonu %100'de alındı
+Hedef Kar/Zarar O % Eski) R
+161.8 0,618 58 0,598 - 0,033 - 3.156
+261.8 1.618 42 0,433 0,134 12.956
+361.8 2.618 31 0,320 0,156 15.158
+461.8 3.618 24 0,247 0,143 13.832
+561.8 4.618 18 0,186 0,043 4.124
+661.8 5.618 17 0,175 0,160 15.506
+Gözlem sayısı: 97
+Tablo 6.2
+DT1- %78,6'da alınan pozisyon
+Hedef Kar/Zarar O % Eski) R
+161.8 1.059 44 0,530 0,091 7.575
+261.8 2.331 34 0,410 0,364 30.247
+361.8 3.603 25 0,301 0,386 32.076
+461.8 4.875 19 0,229 0,345 28.631
+561.8 6.148 15 0,181 0,292 24.214
+661.8 7.420 14 0,169 0,420 34.878
+Gözlem sayısı: 83
+Tablo 6.3
+DT1-Pozisyonu %61,8'de alındı
+Hedef Kar/Zarar O % Eski) R
+161.8 1.618 27 0,409 0,071 4.689
+261.8 3.236 22 0,333 0,412 27.197
+361.8 4.854 16 0,242 0,419 27.670
+461.8 6.472 14 0,212 0,585 38.615
+561.8 8.091 11 0,167 0,515 33.997
+661.8 9.709 10 0,152 0,623 41.087
+Gözlem sayısı: 66
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+64
+Tablo 6.4
+DT1- %50'de alınan pozisyon
+Hedef Kar/Zarar O % Eski) R
+161.8 2.236 23 0,371 0,200 12.428
+261.8 4.236 18 0,290 0,520 32.248
+361.8 6.236 13 0,210 0,517 32.068
+461.8 8.236 12 0,194 0,788 48.832
+561.8 10.236 9 0,145 0,631 39.124
+661.8 12.236 8 0,129 0,708 43.888
+Gözlem sayısı: 62
+Tablo 6.5
+DT1- %38,2'de alınan pozisyon
+Hedef Kar/Zarar O % Eski) R
+161.8 3.236 13 0,250 0,059 3.063
+261.8 5.853 10 0,192 0,318 16.534
+361.8 8.471 6 0,115 0,093 4.827
+461.8 11.089 6 0,115 0,395 20.534
+561.8 13.707 4 0,077 0,131 6.827
+661.8 16.325 4 0,077 0,333 17.298
+Gözlem sayısı: 52
+Tablo 6.6
+DT1- %23,6'da alınan pozisyon
+Hedef Kar/Zarar O % Eski) R
+161.8 5.856 6 0,133 - 0,086 - 3.864
+261.8 10.093 4 0,089 - 0,014 - 0,627
+361.8 14.331 1 0,022 - 0,659 - 29.669
+461.8 18.568 1 0,022 - 0,565 - 25.432
+561.8 22.805 1 0,022 - 0,471 - 21.195
+661.8 27.042 1 0,022 - 0,377 - 16.958
+Gözlem sayısı: 45
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+65
+6.2 DT2 modeli
+Tablo 6.7
+DT2- %100'de alınan pozisyon
+Hedef Kar/Zarar O % Eski) R
+161.8 0,618 79 0,476 - 0,230 - 38.178
+261.8 1.618 54 0,325 - 0,148 - 24.628
+361.8 2.618 41 0,247 - 0,106 - 17.662
+461.8 3.618 24 0,145 - 0,332 - 55.168
+561.8 4.618 20 0,120 - 0,323 - 53.64
+661.8 5.618 19 0,114 - 0,243 - 40.258
+Gözlem sayısı: 166
+Tablo 6.8
+DT2- %78,6'da alınan pozisyon
+Hedef Kar/Zarar O % Eski) R
+161.8 1.06 67 0,435 - 0,104 - 16.079
+261.8 2.33 47 0,305 0,017 2.547
+361.8 3.60 36 0,234 0,076 11.710
+461.8 4.88 20 0,130 - 0,237 - 36.494
+561.8 6.15 16 0,104 - 0,257 - 39.639
+661.8 7.42 15 0,097 - 0,180 - 27.702
+Gözlem sayısı: 154
+Tablo 6.9
+DT2- %61,8'de alınan pozisyon
+Hedef Kar/Zarar O % Eski) R
+161.8 1.62 46 0,346 - 0,094 - 12.566
+261.8 3.24 30 0,226 - 0,044 - 5.913
+361.8 4.85 23 0,173 0,012 1.650
+461.8 6.47 14 0,105 - 0,213 - 28.385
+561.8 8.09 14 0,105 - 0,043 - 5.731
+661.8 9.71 14 0,105 0,127 16.922
+Gözlem sayısı: 133
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+66
+Tablo 6.10
+DT2-50% konumu
+Hedef Kar/Zarar O % Eski) R
+161.8 2.24 31 0,263 - 0,150 - 17.684
+261.8 4.24 22 0,186 - 0,024 - 2.808
+361.8 6.24 17 0,144 0,042 5.012
+461.8 8.24 11 0,093 - 0,139 - 16.404
+561.8 10.24 11 0,093 0,047 5.596
+661.8 12.24 11 0,093 0,234 27.596
+Gözlem sayısı: 118
+Tablo 6.11
+DT2-Pozisyonu %38,2'de
+Hedef Kar/Zarar O % Eski) R
+161.8 3.24 22 0,202 - 0,145 - 15.817
+261.8 5.85 15 0,138 - 0,057 - 6,199
+361.8 8.47 13 0,119 0,130 14.126
+461.8 11.09 8 0,073 - 0,113 - 12.288
+561.8 13.71 8 0,073 0,079 8.654
+661.8 16.32 8 0,073 0,272 29.597
+Gözlem sayısı: 109
+Tablo 6.12
+DT2-Pozisyonu %23,6'da
+Hedef Kar/Zarar O % Eski) R
+161.8 5.86 11 0,071 - 0,510 - 22.585
+261.8 10.09 6 0,039 - 0,568 - 31.441
+361.8 14.33 4 0,026 - 0,602 - 36.678
+461.8 18.57 2 0,013 - 0,746 - 58.864
+561.8 22.81 2 0,013 - 0,691 - 50.390
+661.8 27.04 2 0,013 - 0,636 - 41.915
+Gözlem sayısı: 98
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+67
+6.3 DT3 modeli
+Tablo 6.13
+DT3-100% konumu
+Hedef Kar/Zarar O % Eski) R
+161.8 61.8 102 0,518 - 0,162 - 31.964
+261.8 161.8 61 0,310 - 0,189 - 37.302
+361.8 261.8 42 0,213 - 0,229 - 45.044
+461.8 361.8 31 0,157 - 0,273 - 53.842
+561.8 461.8 24 0,122 - 0,316 - 62.168
+661.8 561.8 21 0,107 - 0,295 - 58.022
+Gözlem sayısı: 197
+Tablo 6.14
+DT3-Pozisyonu %78,6'da
+Hedef Kar/Zarar O % Eski) R
+161.8 1.059 84 0,469 - 0,034 - 6.084
+261.8 2.331 50 0,279 - 0,070 - 12.461
+361.8 3.603 35 0,196 - 0,100 - 17.893
+461.8 4.875 25 0,140 - 0,179 - 32.117
+561.8 6.148 18 0,101 - 0,281 - 50.344
+661.8 7.420 16 0,089 - 0,247 - 44.282
+Gözlem sayısı: 179
+Tablo 6.15
+DT3-Pozisyonu %61,8'de
+Hedef Kar/Zarar O % Eski) R
+161.8 1.618 59 0,383 0,003 0,469
+261.8 3.236 36 0,234 - 0,010 - 1.495
+361.8 4.854 25 0,162 - 0,050 - 7.641
+461.8 6.472 19 0,123 - 0,078 - 12.023
+561.8 8.091 15 0,097 - 0,115 - 17.641
+661.8 9.709 13 0,084 - 0,096 - 14.786
+Gözlem sayısı: 154
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+68
+Tablo 6.16
+DT3-50% konumu
+Hedef Kar/Zarar O % Eski) R
+161.8 2.236 41 0,301 - 0,024 - 3.324
+261.8 4.236 26 0,191 0,001 0,136
+361.8 6.236 21 0,154 0,117 15.956
+461.8 8.236 18 0,132 0,222 30.248
+561.8 10.236 15 0,110 0,239 32.54
+661.8 12.236 13 0,096 0,265 36.068
+Gözlem sayısı: 136
+Tablo 6.17
+DT3-Pozisyonu %38,2'de
+Hedef Kar/Zarar O % Eski) R
+161.8 3.236 27 0,221 - 0,063 - 7.639
+261.8 5.853 18 0,148 0,011 1.361
+361.8 8.471 15 0,123 0,164 20.068
+461.8 11.089 14 0,115 0,387 47.246
+561.8 13.707 13 0,107 0,567 69.188
+661.8 16.325 11 0,09 0,562 68.571
+Gözlem sayısı: 122
+Tablo 6.18
+DT3-Pozisyonu %23,6'da
+Hedef Kar/Zarar O % Eski) R
+161.8 5.856 18 0,159 0,092 10.407
+261.8 10.093 14 0,124 0,374 42.305
+361.8 14.331 13 0,115 0,764 86.297
+461.8 18.568 12 0,106 1.078 121.814
+561.8 22.805 11 0,097 1.317 148.856
+661.8 27.042 9 0,08 1.233 139.831
+Gözlem sayısı: 113
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+69
+6.4 Beklenen kazanç ve getiri sonuçlarına ilişkin tartışma
+Bölüm 6.1, 6.2 ve 6.3'teki sonuçların işlem maliyetleri hariç tutularak elde 
+edildiğini unutmamak önemlidir. Üretilen sinyallerin sayısı seçilen zaman 
+birimiyle ters orantılıdır. Yani 30 dakikalık grafikte daha fazla sinyal var, 
+ardından 60 dakikalık grafik ve ardından 240 dakikalık grafik geliyor. Grafiğin 
+zaman birimi küçük olduğunda işlem maliyetleri orantılı olarak daha yüksektir. 
+Beklenen kazanç ve getiri bu nedenle önemli ölçüde azaltılabilir. Bu sonuçların 
+ancak ciddi bir kaldıraçla mümkün olabileceğini vurgulamak da önemlidir.
+Tablolar tüm zaman birimlerinin (30, 60 ve 240 dakika) yanı sıra yedi çiftin (EUR/
+USD, USD/CAD, USD/CHF, GBP/USD, USD/JPY, GBP/JPY ve EUR/USD) sonuçlarını 
+temsil eder. JPY) bir araya getirildi. Bu, önemli sayıda gözlem yapmamıza olanak 
+sağlar.
+Her ne kadar bu tabloların sonuçları Fibonacci geri çekilmelerinin katkısını 
+doğrudan temsil etmese de yine de ilgi çekicidir. Öncelikle DT1 modelinin 
+neredeyse her zaman karlı olduğunu fark edebiliriz. Yalnızca yedi senaryoda 
+beklenen kazanç ve negatif getiri var. En kârlı senaryolar, pozisyonun 0,618 ve 
+0,5 geri çekilmelerinde alındığı ve 4,618, 5,618 ve 6,618 uzatmalarında kar elde 
+edildiği senaryolardır.
+DT2 modelinin sonuçları daha az iyidir ve senaryoların çoğu kârsızdır. Ancak 
+0,618, 0,5 ve 0,382 geri çekilmesini beklemenin karlı senaryolar üretmeyi 
+mümkün kıldığını söyleyebiliriz. Bu konfigürasyon için kâr hedefinizi en yüksek 
+uzantı olan 6.618 seviyesinde belirlemenin tercih edildiğini de 
+gözlemleyebiliyoruz. 0,382 geri çekilmesi en karlı senaryoları sunanıdır.
+DT3 Konfigürasyonu için sonuçlar çok daha değişkendir ve hem seçilen geri 
+çekilmeye hem de uzatmaya bağlıdır. Başlangıçtaki senaryoların kârlı olmaktan 
+uzak olduğunu ve daha yüksek bir geri çekilmeyi bekledikçe kârlı hale 
+geldiklerini fark ediyoruz. Ayrıca, daha yüksek kâr hedeflerinin daha güçlü 
+getiriler sağladığı da gözlemlenebilir. Hedefi 0,236 olan bir giriş noktası
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+70
+3.618'in üzerindeki kâr, incelenen zaman dilimi boyunca %100'ün üzerinde bir 
+getiri de sağlayacaktı; bu, diğer iki konfigürasyonla eşi benzeri olmayan bir 
+getiriydi. En iyi sonuç, 5,618 uzatmasında kar hedefiyle 0,236 geri çekilme 
+seviyesinde pozisyon almaktan gelir. DT3 Konfigürasyonu 197 kez listelendi ve 
+fiyat 113 kez 0,236 geri çekilme seviyesine ulaştı. Bu 113 gözlemin dışında fiyat 
+11 kez 5.618 uzatmaya ulaştı. Böyle bir senaryoda Kâr/Zarar oranı 22.805'tir. 
+Dolayısıyla bu bize işlem başına %1,317'lik beklenen kazanç ve incelenen 
+dönem boyunca %148,856'lık getiri sağlar. Bu durumda Kâr/Zarar oranındaki 
+iyileşmenin daha düşük bir başarı oranıyla dengelenmediğini açıkça görüyoruz.
+Fibonacci geri çekilmelerinin pozisyon yönetimine olumlu katkısını şimdiden anlayabiliriz. 
+Aşağıdaki bölüm, az önce gözlemlediğimiz farklı sonuçları karşılaştırarak bunu 
+doğrulamaktadır.
+6.5 Kazanç beklentisi farkı
+Bu bölüm, pozisyon almadan önce daha yüksek bir Fibonacci geri çekilmesini 
+beklemenin beklenen kazanca katkısını göstermektedir. İncelenen zaman periyodu 
+boyunca DT Konfigürasyonunun (3 model) beklenen kazancının bu şekilde 
+iyileştirilebileceğini not ettik.
+6.5.1 Model DT1
+Aşağıdaki tablolar, daha yüksek bir Fibonacci oranına doğru geri çekilmeyi 
+beklemenin marjinal faydasını göstermektedir. İlk sütun seçilen uzantıyı 
+görüntüler. İkincisi, söz konusu geri çekilmeyle ilişkili beklenen kazancı temsil 
+ederken sonraki sütunlar, söz konusu geri çekilmenin beklenen kazancı ile daha 
+düşük geri çekilmeler (daha yüksek yüzdeler) arasındaki farkı gösterir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+71
+Tablo 6.19
+DT1-Geri çekilmeden kazanç beklentisine marjinal katkı %78,6
+Hedef Eski) %100'den fark
+161.8 0,091 0,124
+261.8 0,364 0,231
+361.8 0,386 0,230
+461.8 0,345 0,202
+561.8 0,292 0,249
+661.8 0,420 0,260
+Tablo 6.20
+DT1-Geri çekilmeden kazanç beklentisinin marjinal katkısı %61,8
+Hedef Eski) Fark
+%78,6
+ile Fark
+%100
+ile
+161.8 0,071 - 0,020 0,104
+261.8 0,412 0,048 0,279
+361.8 0,419 0,033 0,263
+461.8 0,585 0,240 0,442
+561.8 0,515 0,223 0,473
+661.8 0,623 0,202 0,463
+Tablo 6.21
+DT1-%50 geri çekilme kazancı beklentisine marjinal katkı
+Hedef Eski) Farkı
+%61,8
+Farkı
+%78,6
+Farkı
+%100
+161.8 0,200 0,129 0,109 0,233
+261.8 0,520 0,108 0,156 0,387
+361.8 0,517 0,098 0,131 0,361
+461.8 0,788 0,203 0,443 0,645
+561.8 0,631 0,116 0,339 0,589
+661.8 0,708 0,085 0,288 0,548
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+72
+Tablo 6.22
+DT1-Geri çekilmenin beklenen kazancına marjinal katkı %38,2
+Hedef Eski) %50 %61,8 %78,6 %100
+161.8 0,059 - 0,142 - 0,012 - 0,032 0,091
+261.8 0,318 - 0,202 - 0,094 - 0,046 0,184
+361.8 0,093 - 0,424 - 0,326 - 0,294 - 0,063
+461.8 0,395 - 0,393 - 0,190 0,050 0,252
+561.8 0,131 - 0,500 - 0,384 - 0,160 0,089
+661.8 0,333 - 0,375 - 0,290 - 0,088 0,173
+Tablo 6.23
+DT1-Geri çekilmeden kazanç beklentisine marjinal katkı %23,6
+Hedef Eski) %38,2 %50 %61,8 %78,6 %100
+161.8 - 0,086 - 0,145 - 0,286 - 0,157 - 0,177 - 0,053
+261.8 - 0,014 - 0,332 - 0,534 - 0,426 - 0,378 - 0,148
+361.8 - 0,659 - 0,752 - 1.177 - 1.079 - 1.046 - 0,816
+461.8 - 0,565 - 0.960 - 1.353 - 1.150 - 0,910 - 0,708
+561.8 - 0,471 - 0,602 - 1.102 - 0,986 - 0,763 - 0,514
+661.8 - 0,377 - 0,709 - 1.085 - 0,999 - 0,797 - 0,537
+6.5.2 DT2 modeli
+Tablo 6.24
+DT2-Geri çekilmeden kazanç beklentisine marjinal katkı %78,6
+Hedef Eski) %100
+161.8 - 0,104 0,126
+261.8 0,017 0,165
+361.8 0,076 0,182
+461.8 - 0,237 0,095
+561.8 - 0,257 0,066
+661.8 - 0,180 0,063
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+73
+Tablo 6.25
+DT2-Geri çekilmeden kazanç beklentisine marjinal katkı %61,8
+Hedef Eski) Fark
+%78,6
+ile Fark
+%100
+ile
+161.8 - 0,094 0,010 0,136
+261.8 - 0,044 - 0,061 0,104
+361.8 0,012 - 0,064 0,119
+461.8 - 0,213 0,024 0,119
+561.8 - 0,043 0,214 0,280
+661.8 0,127 0,307 0,370
+Tablo 6.26
+DT2-%50 geri çekilme kazancı beklentisine marjinal katkı
+Hedef Eski) Farkı
+%61,8
+Farkı
+%78,6
+Farkı
+%100
+161.8 - 0,150 - 0,055 - 0,045 0,080
+261.8 - 0,024 0,021 - 0,040 0,125
+361.8 0,042 0,030 - 0,034 0,149
+461.8 - 0,139 0,074 0,098 0,193
+561.8 0,047 0,091 0,305 0,371
+661.8 0,234 0,107 0,414 0,476
+Tablo 6.27
+DT2-Geri çekilmenin beklenen kazancına marjinal katkı %38,2
+Hedef Eski) %50 %61,8 %78,6 %100
+161.8 - 0,145 0,005 - 0,051 - 0,041 0,085
+261.8 - 0,057 - 0,033 - 0,012 - 0,073 0,091
+361.8 0,130 0,087 0,117 0,054 0,236
+461.8 - 0,113 0,026 0,101 0,124 0,220
+561.8 0,079 0,032 0,122 0,337 0,403
+661.8 0,272 0,038 0,144 0,451 0,514
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+74
+Tablo 6.28
+DT2-Geri çekilmeden kazanç beklentisine marjinal katkı %23,6
+Hedef Eski) %38,2 %50 %61,8 %78,6 %100
+161.8 - 0,230 - 0,085 - 0,081 - 0,136 - 0,126 0,000
+261.8 - 0,321 - 0,264 - 0,297 - 0,276 - 0,337 - 0,172
+361.8 - 0,374 - 0,504 - 0,417 - 0,387 - 0,450 - 0,268
+461.8 - 0,601 - 0,488 - 0,462 - 0,387 - 0,364 - 0,268
+561.8 - 0,514 - 0,594 - 0,562 - 0,471 - 0,257 - 0,191
+661.8 - 0,428 - 0,699 - 0,662 - 0,555 - 0,248 - 0,185
+6.5.3 DT3 modeli
+Tablo 6.29
+DT3-Geri çekilmeden kazanç beklentisine marjinal katkı %78,6
+Hedef Eski) %100'den fark
+161.8 - 0,034 0,128
+261.8 - 0,070 0,120
+361.8 - 0,100 0,129
+461.8 - 0,179 0,094
+561.8 - 0,281 0,034
+661.8 - 0,247 0,047
+Tablo 6.30
+DT3-Geri çekilmeden kazanç beklentisine marjinal katkı %61,8
+Hedef Eski) Fark
+%78,6
+ile Fark
+%100
+ile
+161.8 0,003 0,037 0,165
+261.8 - 0,010 0,060 0,180
+361.8 - 0,050 0,050 0,179
+461.8 - 0,078 0,101 0,195
+561.8 - 0,115 0,167 0,201
+661.8 - 0,096 0,151 0,199
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+75
+Tablo 6.31
+DT3-%50 geri çekilme kazancı beklentisine marjinal katkı
+Hedef Eski) Farkı
+%61,8
+Farkı
+%78,6
+Farkı
+%100
+161.8 - 0,024 - 0,027 0,010 0,138
+261.8 0,001 0,011 0,071 0,190
+361.8 0,117 0,167 0,217 0,346
+461.8 0,222 0.300 0,402 0,496
+561.8 0,239 0,354 0,521 0,555
+661.8 0,265 0,361 0,513 0,560
+Tablo 6.32
+DT3-Geri çekilmeden kazanç beklentisine marjinal katkı %38,2
+Hedef Eski) %50 %61,8 %78,6 %100
+161.8 - 0,063 - 0,038 - 0,066 - 0,029 0,100
+261.8 0,011 0,010 0,021 0,081 0,201
+361.8 0,164 0,047 0,214 0,264 0,393
+461.8 0,387 0,165 0,465 0,567 0,661
+561.8 0,567 0,328 0,682 0,848 0,883
+661.8 0,562 0,297 0,658 0,809 0,857
+Tablo 6.33
+DT3-Geri çekilmeden kazanç beklentisine marjinal katkı %23,6
+Hedef Eski) %38,2 %50 %61,8 %78,6 %100
+161.8 0,092 0,155 0,117 0,089 0,126 0,254
+261.8 0,374 0,363 0,373 0,384 0,444 0,564
+361.8 0,764 0,599 0,646 0,813 0,864 0,992
+461.8 1.078 0,691 0,856 1.156 1.257 1.351
+561.8 1.317 0.750 1.078 1.432 1.599 1.633
+661.8 1.233 0,671 0,968 1.329 1.481 1.528
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+76
+6.6 Verim farkı
+Bu bölüm, bir pozisyon almadan önce daha yüksek bir geri çekilmeyi beklemenin, incelenen 
+zaman dilimi boyunca DT Konfigürasyonunun (3 model) performansını iyileştirmemize 
+olanak sağladığını görmemizi sağlar.
+6.6.1 DT1 konfigürasyonu
+Tablo 6.34
+DT1-Geri çekilme getirisine marjinal katkı %78,6
+Hedef R %100'den fark
+161.8 7.575 10.731
+261.8 30.247 17.291
+361.8 32.076 16.918
+461.8 28.631 14.799
+561.8 24.214 20.090
+661.8 34.878 19.372
+Tablo 6.35
+DT1-Geri çekilme getirisine marjinal katkı %61,8
+Hedef R Fark
+%78,6
+ile Fark
+%100
+ile
+161.8 4.689 - 2.886 7.845
+261.8 27.197 - 3.049 14.241
+361.8 27.670 - 4.406 12.512
+461.8 38.615 9.984 24.783
+561.8 33.997 9.783 29.873
+661.8 41.087 6.210 25.581
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 76 ===
+77
+Tablo 6.36
+DT1-%50 geri çekilme getirisine marjinal katkı
+Hedef R Farkı
+%61,8
+Farkı
+%78,6
+Farkı
+%100
+161.8 12.428 7.739 4.853 15.584
+261.8 32.248 5.051 2.001 19.292
+361.8 32.068 4.398 - 0,008 16.910
+461.8 48.832 10.217 20.201 35.000
+561.8 39.124 5.127 14.910 35.000
+661.8 43.888 2.801 9.010 28.382
+Tablo 6.37
+DT1-Geri çekilme getirisine marjinal katkı %38,2
+Hedef R %50 %61,8 %78,6 %100
+161.8 3.063 - 9.365 - 1.626 - 4.512 6.219
+261.8 16.534 - 15.714 - 10.663 - 13.713 3.578
+361.8 4.827 - 27.241 - 22.843 - 27.249 - 10.331
+461.8 20.534 - 28.298 - 18.081 - 8.097 6.702
+561.8 6.827 - 32.297 - 27.170 - 17.387 2.703
+661.8 17.298 - 26.590 - 23.789 - 17.579 1.792
+Tablo 6.38
+DT1-Geri çekilme getirisine marjinal katkı %23,6
+Hedef R %38,2 %50 %61,8 %78,6 %100
+161.8 - 3.864 - 6.927 - 16.292 - 8.554 - 11.439 - 0,708
+261.8 - 0,627 - 17.161 - 32.875 - 27.825 - 30.874 - 13.583
+361.8 - 29.669 - 34.497 - 61.737 - 57.339 - 61.746 - 44.827
+461.8 - 25.432 - 45.966 - 74.264 - 64.047 - 54.063 - 39.264
+561.8 - 21.195 - 28.022 - 60.319 - 55.192 - 45.409 - 25.319
+661.8 - 16.958 - 34.256 - 60.846 - 58.045 - 51.835 - 32.464
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 77 ===
+78
+6.6.2 DT2 konfigürasyonu
+Tablo 6.39
+DT2-Geri çekilme verimine marjinal katkı %78,6
+Hedef R %100
+161.8 - 16.079 22.099
+261.8 2.547 27.175
+361.8 11.710 29.372
+461.8 - 36.494 18.674
+561.8 - 39.639 14.001
+661.8 - 27.702 12.556
+Tablo 6.40
+DT2-Geri çekilme getirisine marjinal katkı %61,8
+Hedef R Fark
+%78,6
+ile Fark
+%100
+ile
+161.8 - 12.566 3.513 25.612
+261.8 - 5.913 - 8.460 18.715
+361.8 1.650 - 10.059 19.312
+461.8 - 28.385 8.109 26.783
+561.8 - 5.731 33.907 47.909
+661.8 16.922 44.625 57.180
+Tablo 6.41
+DT2-%50 geri çekilme getirisine marjinal katkı
+Hedef R Farkı
+%61,8
+Farkı
+%78,6
+Farkı
+%100
+161.8 - 17.684 - 5.118 - 1.605 20.494
+261.8 - 2.808 3.105 - 5.355 21.820
+361.8 5.012 3.362 - 6.698 22.674
+461.8 - 16.404 11.981 20.090 38.764
+561.8 5.596 11.327 45.235 59.236
+661.8 27.596 10.674 55.298 67.854
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 78 ===
+79
+Tablo 6.42
+DT2-Geri çekilme getirisine marjinal katkı %38,2
+Hedef R %50 %61,8 %78,6 %100
+161.8 - 15.817 1.867 - 3.250 0,262 22.361
+261.8 - 6,199 - 3,391 - 0,286 - 8.746 18.429
+361.8 14.126 9.114 12.475 2.416 31.788
+461.8 - 12.288 4.116 16.097 24.206 42.880
+561.8 8.654 3.058 14.386 48.293 62.294
+661.8 29.597 2.001 12.675 57.299 69.855
+Tablo 6.43
+DT2-Geri çekilme getirisine marjinal katkı %23,6
+Hedef R %38,2 %50 %61,8 %78,6 %100
+161.8 - 22.585 - 6.768 - 4.901 - 10.018 - 6.506 15.593
+261.8 - 31.441 - 25.242 - 28.633 - 25.528 - 33.988 - 6.813
+361.8 - 36.678 - 50.804 - 41.690 - 38.328 - 48.388 - 19.016
+461.8 - 58.864 - 46.576 - 42.460 - 30.479 - 22.371 - 3.696
+561.8 - 50.390 - 59.044 - 55.986 - 44.658 - 10.751 3.250
+661.8 - 41.915 - 71.512 - 69.511 - 58.838 - 14.213 - 1.657
+6.6.3 DT3 konfigürasyonu
+Tablo 6.44
+DT3-Geri çekilme verimine marjinal katkı %78,6
+Hedef R %100'den fark
+161.8 - 6.084 25.880
+261.8 - 12.461 24.841
+361.8 - 17.893 27.151
+461.8 - 32.117 21.725
+561.8 - 50.344 11.824
+661.8 - 44.282 13.740
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 79 ===
+80
+Tablo 6.45
+DT3-Geri çekilme getirisine marjinal katkı %61,8
+Hedef R Fark
+%78,6
+ile Fark
+%100
+ile
+161.8 0,469 6.553 32.433
+261.8 - 1.495 10.965 35.807
+361.8 - 7.641 10.252 37.403
+461.8 - 12.023 20.094 41.819
+561.8 - 17.641 32.703 44.527
+661.8 - 14.786 29.496 43.236
+Tablo 6.46
+DT3-%50 geri çekilme getirisine marjinal katkı
+Hedef R Farkı
+%61,8
+Farkı
+%78,6
+Farkı
+%100
+161.8 - 3.324 - 3.793 2.760 28.64
+261.8 0,136 1.631 12.597 37.438
+361.8 15.956 23.597 33.849 61
+461.8 30.248 42.271 62.365 84.09
+561.8 32.54 50.181 82.884 94.708
+661.8 36.068 50.854 80.350 94.09
+Tablo 6.47
+DT3-Geri çekilme verimine marjinal katkı %38,2
+Hedef R %50 %61,8 %78,6 %100
+161.8 -7.63874346 - 4.31474346 - 8,108 - 1.555 24.3252565
+261.8 1.36125654 1.22525654 2.856 13.822 38.6632565
+361.8 20.0680628 4.11206283 27.709 37.961 65.1120628
+461.8 47.2460733 16.9980733 59.269 79.363 101.088073
+561.8 69.1884817 36.6484817 86.829 119.532 131.356482
+661.8 68.5706806 32.5026806 83.357 112.853 126.592681
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 80 ===
+81
+Tablo 6.48
+DT3-Geri çekilme verimine marjinal katkı %23,6
+Hedef R %38,2 %50 %61,8 %78,6 %100
+161.8 10.407 18.046 13.731 9.938 16.491 42.371
+261.8 42.305 40.944 42.169 43.800 54.766 79.607
+361.8 86.297 66.229 70.341 93.937 104.190 131.341
+461.8 121.814 74.567 91.566 133.836 153.931 175.656
+561.8 148.856 79.667 116.316 166.497 199.199 211.024
+661.8 139.381 70.811 103.313 154.168 183.664 197.403
+6.7 Geri Çekmelerin marjinal katkısının sonuçlarına ilişkin 
+tartışma
+DT1 modeli için 0,5 geri çekilme seviyesinin gerek beklenen kazanıma, gerekse 
+getiriye ilişkin olarak Pareto baskın olduğunu görüyoruz. Aslında, seçilen kâr 
+hedefi ne olursa olsun, 0,5'lik geri çekilme seviyesinde pozisyon alırsak kârlılık 
+her zaman artar. Ayrıca kârlılık istatistiklerinin 0,5 seviyesine kadar sürekli 
+olarak iyileştiğini ve bu seviyeden itibaren düşmeye başladığını da 
+görebiliyoruz.
+DT2 modeli için karlılık istatistikleri daha düşük olsa da, giriş noktası 0,786 
+seviyesindeyken hala karlılıkta belli bir iyileşme gözlemliyoruz. Dolayısıyla bu 
+seviye %100 seviyesine kıyasla Pareto baskındır. Ayrıca kâr hedeflerinin 
+çoğunda, 0,382'ye kadar daha yüksek bir geri çekilme ile kârlılığın arttığını 
+görüyoruz. Daha yüksek Fibonacci uzantılarının daha iyi getiri sağladığını 
+gördüğümüz bölüm 6.4'teki tartışmaya güvenirsek bu daha da doğrudur. 1,618 
+ve 2,618 kar hedeflerini ortadan kaldırarak 0,382 gerilemesi Pareto baskın hale 
+gelir.
+DT3 modeli en yüksek geri çekilmenin (0,236) kullanılmasına izin veren tek 
+modeldir. Kâr hedeflerinin çoğunluğu için, giriş noktası olarak 0,236 seviyesine 
+kadar yüksek bir geri çekilme kullanıldıkça kârlılık istikrarlı bir şekilde artıyor. Bu 
+son geri çekilme de Pareto baskındır ve seçilen kâr hedefinden bağımsız olarak 
+en iyi getiri istatistiklerini sunar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 81 ===
+82
+İncelenen üç model için Fibonacci düzeltmelerinin pozisyon yönetimine katkısı 
+ilginçtir. Bir pozisyon almadan ve geri çekilmeyi beklemeden önce sabırlı olmak her 
+zaman avantajlıdır; optimum giriş noktası seçilen konfigürasyona bağlı olarak 
+değişir. Ancak, test edilen 108 senaryoda, pozisyon almadan önce fiyatın 0,5'lik geri 
+çekilmeye ulaşmasını beklemenin, geri çekilme olmadan pozisyon almaya kıyasla 
+kârlılığı artırdığı gerçeğini genelleştirebiliriz. Bu nedenle, DT Konfigürasyonunda 
+benimsenen strateji durumunda, 0,5 geri çekilmede alınan bir pozisyonun, geri 
+çekilme olmadan alınan bir pozisyona kıyasla Pareto baskın olduğunu onaylıyoruz. 
+Dolayısıyla bu son gözlem, bu araştırmanın açıklığa kavuşturmaya çalıştığı soruyu 
+olumlu yanıtlamamıza olanak tanıyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 82 ===
+83
+7. Sonuç
+Bu araştırmanın amacı yatırımcıların rasyonelliği veya piyasaların etkinliği 
+konusundaki tartışmayı kapatmak değildi. Teknik analizin karlılığını da 
+kanıtlayacak bir şey değildi. Forex sektöründe teknik analizin, altında yatan 
+sebep ne olursa olsun, ister küçük oyuncular ister kurumsal oyuncular 
+tarafından yaygın olarak kullanıldığı hipotezinden yola çıktık. Yatırımcıların haklı 
+ya da haksız olması önemli değildi. Sadece teknik analizin yaygın bir analiz 
+yöntemi olduğunu biliyorduk. Bu nedenle, teknik analizle ilgili mevcut literatüre 
+katkıda bulunmanın, onu günlük olarak kullanan yatırımcılara yeni araçlar 
+sunmanın mümkün olup olmadığını görmeye çalıştık. Bunu yapmak için, teknik 
+analizdeki çoklu uygulamaları göz önüne alındığında, bizce daha iyi bilinmeyi 
+hak eden bir araç olan Fibonacci oranlarının kullanımına odaklandık. Amacımıza 
+ulaşmak için Fibonacci oranlarının, özellikle de Fibonacci düzeltmelerinin 
+kullanılmasının finansal stratejinin karlılığını artırıp artırmayacağını kontrol 
+ettik.
+Fibonacci oranlarını ampirik olarak test etmek için iki büyük problemin 
+üstesinden gelinmesi gerekiyordu. İlk olarak, alınan pozisyonun yönü (alış veya 
+satış) trendin yönü ile aynı olması gerektiğinden (trend yükselişteyken satın alın 
+ve trend düşüşteyken sat), fiyat gelişiminin trendi bilinmelidir. İkincisi, Fibonacci 
+geri çekilmelerini ve Fibonacci uzantılarını tanımlamak için kullanılacak 
+segment objektif olarak belirlenmelidir.
+Bu iki zorluğun üstesinden gelmek için trendin tersine çevrilmesi 
+konfigürasyonunu oluşturduk."DT Konfigürasyonu". Bu konfigürasyonun yapısı, 
+teknik analizde kullanılan iki yaklaşımın, görsel konfigürasyonların ve Japon 
+mumlarının kombinasyonuna dayanmaktadır. Bilinen iki görsel trend tersine 
+çevirme konfigürasyonunun gücünü, çift yüksek/düşük ve üçlü yüksek 
+birleştirdik. /düşük DT Konfigürasyonunun fiyat gelişiminde trendde bir 
+değişiklik öngörmesi, Japon mumları kullanılarak Fibonacci oranlarının 
+kullanımında kullanılacak trendi bilmemize olanak tanır, fiyatın gelişimini çift 
+tepe dahilinde modelliyoruz. /düşük kombinasyonVe
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 83 ===
+84
+üçlü yukarı/aşağı. Her mum diğerlerine göre kesin bir şekilde konumlandırılmıştır. 
+Bu özel konumlandırma, Fibonacci oranlarını hesaplamak için kullanılacak 
+segmenti objektif olarak tanımlamamıza olanak tanır.
+Daha sonra Fibonacci geri çekilmelerini ve uzantılarını kullanarak DT Modeli'nin 
+görünümünden yararlanmak için bir yatırım stratejisi oluşturduk. Geri 
+çekilmeler giriş noktaları olarak hizmet eder ve uzatmalar kar hedefi olarak 
+kullanılır.
+Fibonacci oranlarının değer yaratıp yaratamayacağını kontrol etmek için, oranları 
+hesaplamak için kullanılan segmentin sonunda (B noktası) pozisyon alırken (alış veya 
+satış) DT Konfigürasyonunun beklenen kazancını ve getirisini karşılaştırdık. Fibonacci 
+geri çekilmelerinde alınan pozisyonlarla. Dolayısıyla mesele, daha sabırlı olmanın ve 
+pozisyon almadan önce geri çekilmeyi beklemenin, incelenen dönem boyunca 
+stratejinin beklenen kazancını ve getirisini artırmayı mümkün kılıp kılmadığını 
+doğrulama meselesiydi.
+Sonuçlar cesaret verici. DT Konfigürasyonunun üç alternatifi için, seçilen 
+segmentin %50 oranında geri çekilmesini beklemenin, segment sonunda 
+pozisyon almaya kıyasla her zaman avantajlı olduğunu görüyoruz. Yatırımcının 
+her işlemde sermayesinin %1'ini riske atacağı varsayımıyla, seçilen kâr hedefi 
+ne olursa olsun, işlem başına beklenen kazanç ve çalışmanın toplam süresi (38 
+ay) boyunca elde edilen getiri artmaktadır. Bu nedenle %50 geri çekilmede 
+pozisyon almak, %100'de pozisyon almaya kıyasla Pareto baskındır. Ayrıca her 
+konfigürasyonun kendi optimum giriş noktası vardır. DT1 modeli için %50 
+pozisyon aldığınızda karlılık optimize edilir. DT2 modeli için bu %38,2 seviyesi 
+iken DT3 için son geri çekilme olan %23,6 en karlı senaryoları oluşturan 
+seviyedir.
+Bu araştırmada gösterilen DT Konfigürasyonunun oluşturulmasının ardındaki 
+mantık, DT1 Konfigürasyonunun ortaya çıkmasına neden olan mantıktır. İkincisi 
+için, Fibonacci geri çekilmelerinin seçilen yatırım stratejisine getirebileceği 
+değer açısından sonuçlar olumludur. Fibonacci düzeltmelerinin katkısına ilişkin 
+sonuçların sağlamlığını sağlamak için iki model oluşturduk.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 84 ===
+85
+alternatifler olan DT2 Konfigürasyonu ve DT3 Konfigürasyonu, birkaç parametrenin 
+değiştirilmesiyle beklenen kazancın ve verimliliğin azalabileceğinden şüpheleniyor. 
+Araştırmanın amacı teknik analizin karlılığını değil, Fibonacci oranlarının katkısını 
+değerlendirmek olduğundan bunun bir dezavantajı yoktur. DT3 konfigürasyonu, 
+genel olarak DT1'den daha az kârlı olsa da yine de en kârlı senaryoları oluşturdu.
+Başlangıç   konfigürasyonumuzun parametrelerini iki kez değiştirmiş olmamız, 
+olumlu sonuçların“veri madenciliği”. Bu nedenle, Fibonacci geri çekilmelerinin 
+bu araştırmanın amaçları doğrultusunda oluşturulan yatırım stratejisine dahil 
+edilmesiyle ilgili benzer sonuçlara varan üç farklı konfigürasyon bulunmaktadır.
+Bu nedenle, Fibonacci oranlarını içeren bir stratejiyi ampirik olarak test ederek 
+teknik analiz literatürüne katkıda bulunuyoruz. Bu oranların değer yaratması bu 
+nedenle artık varsayımsal değildir. Her ne kadar asıl amacımız olmasa da, bu 
+araştırmanın olumlu bir yan etkisi, sonuçların şunlara bağlı olduğunu çok iyi 
+bilerek, Konfigürasyon DT'nin üç alternatifi için önemli sayıda Fibonacci 
+düzeltmeleri ve uzantıları kombinasyonunun beklenen kazancı ve olumlu geri 
+dönüşüdür. kaldıraç oranı ve işlem maliyetleri dikkate alınmaz. Olumlu sonuçların 
+şansa bağlı olabileceğinin bilincindeyiz. Çalışmanın asıl amacı bu olmadığından 
+aksini kanıtlayacak herhangi bir istatistiksel test yapılmamıştır. Marshall ve 
+diğerlerinin (2006) gerçek fiyat hareketlerine ilişkin teknik analiz sinyallerinin 
+kârlılığını istatistiksel modeller tarafından oluşturulan rastgele önyükleme 
+serilerindeki kârlılıkla karşılaştıran yaklaşımını kullanmak ilginç olurdu. Böylece, 
+kullanılan stratejinin, istatistiksel modellerin yakalayamadığı belirli olguları 
+yakalamayı mümkün kılıp kılmadığını görmek mümkün olur.
+Bununla birlikte teknik analizle ilgili mevcut literatüre ilave bir katkı sağlanacağına 
+inanıyoruz. Birincisi, birkaç yaklaşımı birleştirmektir. Taranan literatür her yaklaşımı 
+ayrı ayrı değerlendirmeye çalışmıştır. Yatırımcılar aslında aynı anda birden fazla 
+yaklaşımı kullanıyor. Japon mumlarından oluşan bir konfigürasyon veya görsel bir 
+konfigürasyon, örneğin, doğrulama unsuru olarak hizmet edebilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 85 ===
+86
+bir strateji. Literatür bu iki bireysel yaklaşımı kapsamlı stratejiler olarak ele 
+almaktadır.
+Bir diğer katkı ise daha gerçekçi pozisyon yönetimidir. Mevcut literatür, bir 
+sinyalin veya yaklaşımın karlılığını, pozisyonu önceden belirlenmiş sayıda gün 
+boyunca açık tutarak ölçer. Sinyalin geçerliliğini gün cinsinden değil seviye 
+cinsinden kar hedeflerini kullanarak değerlendirdik. Bu, daha karlı işlemler 
+oluşturmamızı sağlar. Bu olgu özellikle kâr hedefi giriş noktasının yakın bir 
+uzantısı olarak belirlendiğinde fark edilebilir. Örneğin mumun sinyali takip 
+etmesiyle hedefe ulaşılabilir, ancak fiyatın ters yönde dönüşünü görmek için. 
+Pozisyon yönetimi mum sayısına göre yapılsaydı, sinyal kârlı olmayabilirdi.
+Bu araştırmada geliştirilen strateji oldukça spesifiktir ve tüm yatırımcılar için uygun 
+olmayabilir. İkincisi, diğer şeylerin yanı sıra, DT Yapılandırmasına bir alternatifin ortaya 
+çıkmasını beklemeli ve finansal kaldıraç kullanımı konusunda rahat olmalıdır. Fibonacci 
+oranlarının hangi daha az katı koşullarda yatırım stratejilerinin performansını 
+iyileştirmeyi mümkün kıldığını görmek, karlılığa katkılarının genelleştirilebilir olup 
+olmadığını kontrol etmek ilginç olurdu.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 86 ===
+87
+Ek A
+Kısa Vadeli Yatırım Sözlüğü
+Bu ekin amacı, bu araştırma sırasında kullanılan ve kısa vadeli yatırımcılar 
+tarafından yaygın olarak kullanılan belirli terimleri tanımlamaktır.
+Aşağı:Belirli bir zaman dilimi için fiyatın ulaştığı en düşük seviye. Yatırımcılar 
+İngilizce terimi kullanır:"Düşük".
+Japon Mumu:Bir finansal varlığın fiyatının dört fiyat kullanılarak grafiksel 
+gösterimi: Belirli bir zaman dilimindeki açılış fiyatı, kapanış fiyatı, en yüksek ve en 
+düşük fiyat.
+Kâr hedefi: Yatırımcının stratejisini tamamlamayı beklediği, yani kar elde 
+etmek için alım veya satım yaptığı seviye. Kâr hedefi, gerçekleşen getirinin 
+pozitif olduğu bir çıkış noktasıdır.
+Eklenti:Uzantılar, belirli bir fiyat hareketine göre belirlenen hedefler, 
+tahminlerdir.
+Yüksek:Belirli bir zaman dilimi için fiyatın ulaştığı en yüksek seviye. 
+Yatırımcılar İngilizce terimi kullanır:"yüksek".
+Giriş noktası:Olumlu bir getiri elde etmek amacıyla kişinin satın aldığı veya 
+sattığı, piyasaya açık olunan seviye. Giriş noktasında bir pozisyon açıyoruz.
+Çıkış noktası:Belirli bir işlem için kişinin piyasada bulunmayı bıraktığı seviye. 
+Çıkış noktasında bir pozisyon kapatıyoruz.
+Bir tavır takın:Bir pozisyon açın. Beklenen bir hareketten kar elde etmek amacıyla finansal 
+varlığın satın alınması veya satılması eylemi.
+Geri çekilme:Fiyat belirli bir hareketten sonra adımlarını geri aldığında.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 87 ===
+88
+Ek B
+Grafiksel örnekler
+Bu ekin amacı Fibonacci oranları ile DT Konfigürasyonunun grafiksel 
+örneklerini göstermektir. Her konfigürasyon için (DT1, DT2 ve DT3) uygun 
+maliyetli bir örnek sunulmaktadır.
+B.1 DT1 konfigürasyonu
+Tablo B1
+Seçilen DT1 Konfigürasyonunun koşullarının ayrıntıları
+Döviz çifti EUR/USD
+Tarih 03/10/2010
+Saat 1:30 GMT
+Zaman ufku (mumlar) 30 dakika
+Yön Satış
+Geri çekilmeye ulaşıldı 1
+Uzantıya ulaşıldı 4.618
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 88 ===
+89
+Şekil B1
+Seçilen DT1 Konfigürasyonunun grafiksel gösterimi
+* * * Fiyatın 0,618 seviyesine kadar gerilediği ancak bu seviyeye ulaştıktan sonra görüldüğü görülüyor.
+1.618. Bu nedenle geri çekilmeyi sayamayız. Fiyat uzatmaya ulaştı
+A seviyesine dönmeden önce 4.618.
+B.2 DT2 konfigürasyonu
+Tablo B2
+Seçilen DT2 Konfigürasyonunun koşullarının ayrıntıları
+Döviz çifti EUR/USD
+Tarih 03/05/2010
+Saat 12:00 GMT
+Zaman ufku (mumlar) 60 dakika
+Yön Satış
+Geri çekilmeye ulaşıldı 0,618
+Uzantıya ulaşıldı 3.618
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 89 ===
+90
+Şekil B2
+Seçilen DT2 Konfigürasyonunun grafiksel gösterimi
+B.3 DT3 konfigürasyonu
+Tablo B3
+Seçilen DT3 Konfigürasyonunun koşullarının ayrıntıları
+Döviz çifti USD/CAD
+Tarih 27.04.2009
+Saat 12:30 GMT
+Zaman ufku (mumlar) 30 dakika
+Yön Satış
+Geri çekilmeye ulaşıldı 0,5
+Uzantıya ulaşıldı 3.618
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 90 ===
+91
+Şekil B3
+Seçilen DT3 Konfigürasyonunun grafiksel gösterimi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 91 ===
+92
+Referanslar
+ALEXANDER, Sidney S. (1961). "Spekülatif piyasalarda fiyat hareketleri: eğilimler veya rastgele yürüyüşler", 
+Endüstriyel Yönetim İncelemesi2:7–26.
+ATANASSOV, Krassimir, Vassia ATANASSOVA, Anthony SHANNON ve John TURNER (2002). 
+"Fibonacci Sayılarına Yeni Görsel Bakış Açıları",Dünya Bilimsel, 315p.
+BHATTACHARYA, Sukanto ve Kuldeep KUMAR (2006). "Verimliliğin hesaplamalı bir araştırması
+Teknik Analiz ve Ticarette Fibonacci Dizilerinin Kullanımı",Bond Üniversitesi e-yayınları: http://
+epublications.bond.edu.au/business_pubs/32
+ÇAĞİNALP, Gündüz ve Henry LAURENT (1998). "Fiyat Kalıplarının Tahmin Gücü",Uygulamalı 
+Matematiksel Finans, 5,181-205.
+CHANG, PHK ve Carol OSLER (1999). "Metodik çılgınlık: Teknik analiz ve döviz kuru tahminlerinin 
+mantıksızlığı",Ekonomi Dergisi109, 636–652.
+CHATTERJEE, Amitava, O. Felix AYADI ve Balasundram MANIAM (2002). "Uygulamaların
+Menkul Kıymet Fiyat Hareketlerinin Tahmin Edilmesinde Fibonacci Dizisi ve Elliot Dalga Teorisi: Bir 
+Araştırma", Ticari Bankacılık ve Finans Dergisi1:65-76.
+DAWSON, Edward R. ve James M. STELELEY (2003). "Birleşik Krallık borsasında görsel teknik 
+kalıpların varlığı hakkında",İşletme Finansı ve Muhasebe Dergisi30:263–293.
+DIMSON, Elroy. ve MARSH, Paul (1999). "Murphy kanunu ve piyasa anomalileri",Portföy Yönetimi 
+Dergisi26:53–69.
+ENG, William F. (1997). "Hisse Senetleri, Opsiyonlar ve Vadeli İşlemlerin Teknik Analizi",Homewood, IL: Irwin 
+Profesyonel Yayıncılık A.Ş.. 465p.
+FAMA, Eugene F. ve Marshall E. BLUME (1966). "Filtre kuralları ve borsada işlem yapma",İşletme 
+Dergisi39:226–241.
+FAMA, Eugene F. (1970). "Etkin sermaye piyasaları: teori ve ampirik çalışmanın gözden geçirilmesi",Finans 
+Dergisi25:383–417.
+FISCHER, Robert (1993). "Ticaretçiler için Fibonacci Uygulamaları ve Stratejileri: Logaritmik Spiralin Sırrını 
+Ortaya Çıkarmak",New York, NY: J. Wiley & Sons, Inc.,169 s.
+GARTLEY, Harold M. (1935). "Borsa Karları",Lambert-Gann Yayıncılık. Pomeroy, Washington, 468 
+s.
+HASANHODZIC, Jasmina ve Andrew W. LO (2010). “Teknik Analizin Evrimi: Babil Tabletlerinden 
+Bloomberg Terminallerine Finansal Tahmin”Bloomberg Basını, 212s.
+JENSEN, Michael C. (1978). "Piyasa etkinliğine ilişkin bazı anormal kanıtlar",Finansal Ekonomi 
+Dergisi6:95–101.
+GOO, Yeong-Jia, Dar-Hsin CHEN ve Yi-Wei CHANG (2007). "Japon Şamdan Ticaret Stratejilerinin 
+Tayvan'da Uygulanması",Yatırım Yönetimi ve Finansal Yenilikler, 4, 49-71.
+LeBARON, Blake (1999). "Teknik ticaret kuralı karlılık ve döviz müdahalesi",
+Uluslararası İktisat Dergisi49:125–143.
+LO, Andrew W., Harry MAMAYSKY ve Jiang WANG (2000). "Teknik analizin temelleri:
+Hesaplamalı algoritmalar, istatistiksel çıkarım ve ampirik uygulama",Finans Dergisi55, 1705–
+1770.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 92 ===
+93
+MALKIEL, Burton J. (1981). "Wall Street'te rastgele bir yürüyüş", 2. baskı.Norton, New York, 464p.
+MARSHALL, Ben R., Martin R. YOUNG ve Lawrence C. ROSE (2006). “Şamdan Teknik Ticaret Stratejileri: 
+Yatırımcılar için Değer Yaratabilirler mi?”Bankacılık ve Finans Dergisi, 30:2303-2323.
+MARSHALL, Ben R., Martin R. YOUNG ve Rochester CAHAN (2006). "Şamdan Teknik midir?
+Japon Hisse Senedi Piyasasında Kârlı Ticaret Stratejileri? ",Kantitatif Finans ve Muhasebenin Gözden 
+Geçirilmesi, 31:191-207.
+MORRIS, Gregory L. (1995). “Mum Grafiği Açıklandı: Hisse Senetleri ve Vadeli İşlemler İçin Zaman 
+Teknikleri”, New York:McGraw-Hill. (2. baskı) 300 s.
+MURPHY, John J. (1996). "Görsel Yatırımcı, Piyasa Trendlerini Nasıl Tespit Edebiliriz",New York, NY: J. Wiley & Sons, 
+Inc.,320 s.
+NARASIMHAN, Jagadeesh (2000). "LMW'nin makale üzerinde tartışması",Finans Dergisi4: 1765-1770
+NEELY, Christopher J. (1997). “Döviz Piyasasında Teknik Analiz: Meslekten Olmayan Bir Kılavuz”,
+Louis Federal Rezerv Bankası İncelemesi Eylül/Ekim 1997.
+NEELY, Christopher J. ve WELLER, Paul A. (2001). "Teknik analiz ve merkez bankası müdahalesi",
+Uluslararası Para ve Finans Dergisi20:949–970.
+NISON, Steve (1991). "Japon Şamdan Grafik Teknikleri",New York Finans Enstitüsü.
+NISON Steve (2004) “Mum alım satım ilkeleri”,Hisse senetleri ve emtiaların teknik analizi. 22–27 
+Kasım
+OSLER, Carol L. ve Kevin PH CHANG. (1995).."Baş ve Omuzlar: Sadece Kesintisiz Bir Desen Değil."Personel 
+Kağıtları No. 4,New York Federal Rezerv Bankası.
+PARK, Cheol-Ho ve Scott H. IRWIN (2004). "Teknik Analizin Karlılığı: Bir İnceleme"AgMAS Proje 
+Araştırma Belgesi.
+PARK, Cheol-Ho ve Scott H. IRWIN (2007). "Teknik Analizin Karlılığı Hakkında Ne Biliyoruz",
+Ekonomik Araştırmalar Dergisi21:786-826.
+PRING, Martin (2002). "Mumlar açıklandı",McGraw-Hill, New York,352 s.
+ROSENSTREICH, Peter. (2005). “Forex Revlution: Döviz Ticaretinin Gerçek Dünyasına İlişkin İçeriden Bir 
+Kılavuz”,Financial Times Prentice Hall Kitapları, 304p.
+SAACKE, Peter (2002). "Teknik analiz ve merkez bankası müdahalesinin etkinliği",Uluslararası 
+Para ve Finans Dergisi21:459–479.
+SAPP, Stephen (2004). "Tüm merkez bankası müdahaleleri eşit mi yaratılmıştır? Ampirik bir inceleme", 
+Bankacılık ve Finans Dergisi28:443–474.
+SAVIN, Gene, Paul WELLER ve Janis ZVINGELIS (2007). “ABD Hisse Senedi Piyasasında “Baş-
+Omuz” Fiyat Kalıplarının Tahmin Gücü”,Finansal Ekonometri Dergisi5(2): 243-265.
+SHIU, Yung-Ming. ve Tsung-Hsung LI (2011). "Mumların Kesin ve Sinerjik Ticaret Stratejileri",
+Uluslararası Ekonomi ve Finans Dergisi11:234-244.
+Smith, Sanderson (1996). "Agnesi'den zeno'ya: Matematik tarihinden 100'den fazla hikaye", Emeryville: Temel 
+Müfredat, 266 s.
+SULLIVAN, Ryan, Allan TIMMERMANN ve Halbert WHITE (1999). "Veri gözetleme, teknik ticaret 
+kuralı performansı ve önyükleme",Finans Dergisi54:1647–1691.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 93 ===
+94
+SWEENY, Robert J. (1986). "Döviz piyasasını yenmek",Finans Dergisi41:163–182.
+SZAKMARY, Andrew C. ve Ike MATHUR (1997). "Döviz piyasalarında merkez bankası müdahalesi 
+ve ticaret kuralı karları",Uluslararası Para ve Finans Dergisi16:513–535.
+TAYLOR, Mark P. ve Helen ALLEN (1992). "Döviz piyasasında teknik analizin kullanımı",
+Uluslararası Para ve Finans Dergisi11:304–314.
+TIMMERMANN, Allan ve Clive WJ GRANGER (2004). "Etkin piyasa hipotezi ve tahmini",
+Uluslararası Tahmin Dergisi20:15–27.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

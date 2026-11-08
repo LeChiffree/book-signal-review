@@ -1,0 +1,736 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 8\Baskı 8\Yavaş ve İstikrarlı - Robert Glover (34 sayfa) - @eseckal.pdf
+PAGES: 34
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+giriiş
+Forex ticaretinin harika, heyecan verici ve korkutucu dünyasına hoş geldiniz. Ticarete başlamadan önce 
+keşke bilseydim dediğim bazı noktalar ve ipuçlarıyla başlayacağım ve ardından sistemimin üzerinden 
+geçeceğim. Bu, döviz ticareti üzerine kapsamlı bir kitap değildir ve demo hesapların ve kendi 
+araştırmalarınızın yerini alması amaçlanmamıştır. Sanırım ve evet, bunun ne anlama geldiğini biliyorum, 
+eğer bu kitabı ticaret sistemimi/yöntemimi öğrenmek için okuyorsanız, zaten biraz Forex ticaret bilgisine 
+sahipsiniz demektir. Değilse, Forex hakkında daha derinlemesine bilgi edinmek için lütfen bu kitabın 
+sonunda ayrıntıları verilen kaynakları inceleyin. Ne kadar çok öğrenirseniz, Forex ticareti yapmak için o 
+kadar donanımlı olursunuz.
+Ticaretin riskli olduğunu her zaman unutmayın. Hiçbir şey kesin değildir ve piyasanın gelecekteki 
+hareketlerini tahmin etmenin bir yolu yoktur. Bununla birlikte, hem yeni tarzları araştırmaya hem de 
+mevcut ticaret tarzımı geliştirmeye önemli ölçüde zaman ayırdığım için Forex ticaretimi kumar olarak 
+görmüyorum. Bu kitabın ilerleyen bölümlerinde size günlük olarak kullandığım ticaret sistemini 
+şekillendirmek için kullanılan araştırmalardan bazılarını göstereceğim. Ticaret veya satın alma hakkında 
+hiçbir şey bilmeden ticaret ve/veya işlemler yapmak, ticaretin herhangi bir kısmına yaklaşmanın aptalca 
+bir yoludur.
+Sürekli olarak ticaret sistemimi iyileştirmenin yollarını arıyorum, bu yüzden bunu bir araç olarak 
+kullanın ve bu şekilde kalıcı olarak ticaret yapmanın büyük kazançlarla sonuçlanacağını 
+varsaymayın. Ticaret söz konusu olduğunda açgözlü olmamayı zor yoldan öğrendim. Büyük 
+kazançlar ve çok az kayıp (eğer varsa) vaat eden bir sistem tam olarak bildiğiniz şeydir: gerçek 
+olamayacak kadar iyi. Mevduatlarımın önemli bir yüzdesini (bazen hesaplarımın tamamını) kendi 
+açgözlülüğüm ve bir süreliğine iyi görünen otomatik ticaret sistemlerinin vaatleri nedeniyle 
+kaybettim, ancak birkaç işlemde her şeyi kaybedebilirim.
+Kısacası bu bölümlerdeki dersleri okuyup uyguladıktan sonra kar konusunda herhangi bir söz 
+vermiyorum. Oğluma yaptığım bir ricayı sana da yapıyorum; Benim hatalarımdan ders al, böylece 
+aynı hataları kendin yapmak zorunda kalmazsın. Kabul edelim ki, en iyi derslerden bazıları, en sert 
+düşüşlerden öğrendiğiniz derslerdir… Aklınıza zorlu aşk ya da ateşle imtihan geliyor!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+İyi şanslar ve mutlu ticaret!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Hakkımda
+Makine mühendisliği diplomasına ve matematik yan dalına sahip bir Profesyonel 
+Mühendisim. Ben Tanrı'nın iradesini bozamayacağıma tamamen inanan bir Hıristiyanım. 
+Layık olmadığım o kadar çok şeyle kutsandım ki, gücümün nereden geldiğini 
+söylemezsem ihmal etmiş olurum.
+Birkaç yıl önce ticarete başladım ve son üç yılım dışında para kaybettim. Kendim, senin ve aklıma 
+gelen çoğu kişi için yeterince hata yaptım (gerçi oğlumun hâlâ yeni hatalar yapabileceğini 
+düşündüğünü kabul ediyorum!)
+Oğlumdan bahsettim ama ailemde başkaları da var. Evli ve toplam üç çocuk, iki 
+at, iki köpek ve (eşim ve kızlarım sayesinde) beş tavuk babasıyım.
+Hayatı ve ailemle bir şeyler yapmayı seviyorum. Ayrıca birçok insanın hoşlanmadığı bir şeyden keyif 
+aldığımı da fark ettim… Kalıpları belirlemek için verilere bakmayı seviyorum. Eşime göre bu, ailemize ve 
+başkalarına yardım etmek için kullanmak istediğim tuhaf bir hediye.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+İÇİNDEKİLER
+1. Forex Nedir?
+2. Demo Hesapları
+3. Otomatik Yatırımcılar / Uzman danışmanlar
+4. Dur/Zarar ve Al/Kar
+5. Sistemim
+6. Sistemimdeki İstisnalar
+7. Devam Eden Araştırma
+8. Kaynaklar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Forex Nedir?
+Forex, döviz veya döviz (ForEx) için kullanılan terimdir. Doların başka bir para birimine (belki 
+Euro veya Yen) karşı nasıl güçlendiğini veya zayıfladığını duymuş olabilirsiniz. Belki ABD 
+dışına seyahat ediyordunuz ve dolarlarınızı yerel para birimine çevirmek zorunda 
+kalıyordunuz. Forex, bilgisayarınızın rahatlığında dünyanın her yerindeki para birimlerini alıp 
+satmanıza olanak tanır. Forex piyasası haftanın altı günü işlem görmeye açıktır. GMT'yi 
+(Greenwich Ortalama Saati) izlerseniz, Forex piyasasının Pazartesi sabahı (12:00) açık 
+olduğunu ve Cuma günü ABD piyasaları sona erdiğinde kapandığını göreceksiniz. Teknik 
+olarak bu sadece 5 gün; ancak Doğu Saat diliminde bulunduğum için piyasalar benim için 
+Pazar akşamı açılıyor, bu da Cumartesi hariç her gün oluyor. Bu şekilde akıl sağlığınızı 
+yenilemek için cumartesi günlerini ayırabilirsiniz!
+Yardımcı olması açısından size bu döviz bozdurma örneğini vereyim:
+Tokyo seyahatimin başında elimde istediğim 100 USD (ABD Doları) var
+Japon Yenine dönüştürmek için. Mevcut döviz kuru her 1 ABD Doları için 100 Yen ise, 
+dönüşümden sonra 10.000 Yen'iniz olur (ABD Doları sattınız ve Japon Yeni aldınız). Garip bir 
+şekilde, Japonya'da bir hafta geçirdikten sonra paramı hiç harcamadım (çocuklarım hediye 
+alamadıkları için üzülecekler!). 10.000 Yen'imi tekrar ABD Dolarına çevirmeye gidiyorum, 
+ancak piyasa hareketleri ve çıkan haberler nedeniyle döviz kuru şu anda her 1 ABD Doları için 
+105 Yen oldu. 10.000 Yen'im 95,24 ABD Dolarına çevrildi. Paramla bozdurmak dışında hiçbir 
+şey yapmadığım halde az önce 4,76 ABD Doları kaybettim.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Bunun tersi de olabilir ve Japonya'ya yaptığım haftalık gezi sırasında para 
+kazanmış olabilirim. Döviz piyasası, evinizin rahatlığında alıp satmanız için 
+çok sayıda döviz çifti açar.
+Yukarıdaki örnek USD/JPY döviz çiftine eşittir. Başlıca para birimlerinin çoğu benzer 
+çiftler halinde alınıp satılabilir: EUR/USD (Euro/ABD Doları), GBP/JPY (İngiltere 
+Poundu/Japon Yeni), vb. Çiftte listelenen ilk para birimi “temel” para birimidir. USD/
+JPY rakamının artması ABD Dolarının Japon Yenine karşı güçlendiği anlamına gelir. 
+Tersine, eğer USD/JPY grafiği düşüyorsa ABD Doları Japon Yenine karşı zayıflıyor 
+demektir.
+Şekil 1
+Şekil 1'de gösterilen tablo, ticarete açık döviz çiftlerinin yalnızca bir kısmını göstermektedir. Ayrıca 
+bir "Teklif" sütunu ve bir "Sor" sütununun olduğunu da görüyorsunuz. Teklif sütununda gösterilen 
+fiyatlar, döviz çiftini satın almak için ödediğiniz fiyattır (grafiğin yükselmesini beklersiniz) ve Satış 
+sütunu, döviz çiftinin satışına ilişkin fiyatın ayrıntılarını verir (grafiğin düşmesini beklersiniz). Bunu 
+bir açık artırma gibi düşünün; teklif, söz konusu ürünü satın almak için yapılan bir tekliftir. Aynı açık 
+artırmada satmak istediğim bir ürün için belirli bir fiyat istiyorum – Teklif=Al, Satış=Sat.
+Alış ve Satış fiyatı arasındaki fark spreaddir. Yukarıdaki tabloda listelenen 
+AUDCAD çiftini satın alacak olsaydınız, işleme 1,00533 seviyesinden girerdiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+para kazanmadan önce döviz çiftinin satış (Satış) fiyatının (1,00547'nin üzerinde) üzerine çıkması 
+gerekir. Başka bir deyişle, bu örneğin spreadi 0,00014, yani 1,4 pip olacaktır. Şekil 1'deki döviz 
+fiyatları 1/10'luk artışlarla verilmiştir.obir pip (veya hareket birimi) kadardır. Spread, aracı 
+kurumların para kazanma yollarından biridir. Bazı firmalar, yüksek oranda işlem gören belirli 
+döviz çiftleri üzerinde düşük spreadler sunarken, bazı firmalar sabit spreadler sunar; bu, yüksek 
+hacimli ticaret sırasında spreadlerin artmayacağı anlamına gelir. Bazı brokerlar işlem başına 
+spread ve komisyon kombinasyonunu kullanır. Sizin için en iyi neyin işe yarayacağını görmek 
+için Forex brokerlerini araştırabilirsiniz.
+Döviz çiftlerinin hareketi trendlere ve basın bültenlerine bağlıdır ve zaman artışları olan bir 
+grafik üzerinde izlenir. Grafikleri ve trendleri bir dakikalık artışlarla aylık olarak 
+inceleyebilirsiniz. Bu, grafikte para biriminin belirtilen zaman dilimi içindeki hareketinin bir 
+çizgi veya mum çubuğu olarak kaydedildiği anlamına gelir.
+Şekil 2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Şekil 2'de gösterilen grafik, EURUSD döviz çiftinin bir anlık görüntüsüdür ve her bir mum çubuğu, 
+döviz çiftinin dört saatlik artışlarla (H4) hareketini temsil eder. İnce çizgiler, paritenin zaman 
+diliminde ne kadar hareket ettiğini gösterirken daha geniş kısım, döviz çiftinin aynı dört saatlik 
+dilimde nerede açılıp kapandığını gösteriyor. Buradaki grafik, mum çubuğunun açık kutusu boş 
+olduğunda paritenin yukarı hareket ettiğini, mum çubuğunun açık kutusu beyaz olduğunda ise aşağı 
+hareket ettiğini göstermektedir. Bundan bahsetmek gereksiz gibi görünüyor, ancak küçük mum 
+çubukları ve büyük grafiklerle renklendirme gerçekten yardımcı olabilir. Grafiklerinizi, ticaret 
+ihtiyaçlarınıza uyacak şekilde istediğiniz gibi görünecek şekilde özelleştirebilirsiniz.
+Şimdi sistemimi anlatırken size yardımcı olacak mum şekillerine dair bazı detayları anlatmak 
+istiyorum. Mumlardan ve mumlarla ilişkili iniş ve çıkışlardan bahsederken, mumun en düşük 
+veya en yüksek kısmını kastediyorum. Bir mum; Açık, Kapalı, Yüksek ve Düşük olmak üzere 
+dört bölümden oluşur. Açık, mumun başlangıcında veya yaratılmasında mumun başladığı 
+yerdir. Pazar açılışları dışındaki herhangi bir şey için bu nokta bir önceki mumun kapanışıyla 
+aynıdır. Şimdi Kapanış için, muhtemelen tahmin ettiğiniz gibi, yeni bir muma başlamadan 
+önce mumun zaman dilimi boyunca durduğu yerdir. Yüksek, mumun ömrü boyunca elde 
+edilen en yüksek değerdir. Düşük, mumun ömrü boyunca elde edilen en düşük değerdir.
+Lütfen bunun Forex'e yalnızca kısa bir genel bakış olduğunu unutmayın. Okuyarak, çevrimiçi 
+derslerle ve kendi deneylerinizle öğrenebileceğiniz çok daha fazlası var. Son bölümde Forex'in 
+tüm yönleri hakkında daha fazla bilgi edinmenize yardımcı olabilecek çeşitli kaynakları 
+listeledim.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Demo Hesapları
+Parayı çöpe atmayı sever misin? Hiç hızlı zengin olma planına atlayıp kazandığınızdan daha fazla para 
+kaybettiğinizi fark ettiğiniz oldu mu? Forex ticareti birçok kişi tarafından tüm ihtiyaçlarını çözecek hızlı 
+zengin olma seçeneği olarak görülüyor. Beni yanlış anlamayın, akıllıca araştırma yapıp ticaret 
+yaparsanız makul getiriler elde edebilirsiniz. Hatta mükemmel getiriler elde edecek kadar Forex 
+ticaretinde ustalaşabilirsiniz. Bununla birlikte, çoğu zaman olan şey, insanların gerekli paraya yatırım 
+yapması ve hiçbir şey elde edememesidir.
+İnsanların Forex'te önemli miktarda para kaybetmelerinin nedenlerinden biri de ticaret yapmayı 
+öğrenmeden hızlı kazanç elde etmeye ve ticaret yapmaya çalışmalarıdır. Bazı insanlar pratik yapmadan 
+ticaret yapabilecek kadar akıllı olduklarını ve çabuk alçalabileceklerini düşünüyorlar. Deneme ticareti 
+Demo Hesapları biçiminde gelir.
+Bir demo hesabı tam olarak göründüğü gibidir, bir ticaret şirketi/komisyoncu aracılığıyla bir 
+hesapta sahte paranız vardır ve hiçbir riske girmeden döviz çiftleri alıp satabilirsiniz. Demo 
+hesaplar, işe yarayacağını düşündüğünüz farklı ticaret stratejilerini denemenin iyi bir yoludur, 
+ancak aynı zamanda hangi şirketin sizin için en iyi olduğunu belirlemek için çeşitli ticaret 
+komisyoncularını denemenin de iyi bir yoludur.
+Birkaç demo hesabı açabilir ve aynı anda birkaç farklı strateji deneyebilirsiniz, ancak 
+yapılan işlemler ve sonuçları hakkında notlar almanızı öneririm. Bir ticaret sistemi bir kişi 
+için iyi çalışabileceğinden farklı döviz çiftlerini ve farklı zaman dilimlerini deneyin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+belirli bir çift ve zaman çerçevesi, ancak diğerleri değil. Grafiklere bakın ve kârlı işlemler 
+yapmak için kullanabileceğiniz kalıpları bulun.
+Demo hesapta işlem yapmanın artıları ve eksileri vardır. Artıları kesinlikle eksilerinden daha ağır 
+basmaktadır, bu nedenle bir demo hesapta kendinizi rahat hissetmeden asla gerçek parayla ticarete 
+başlamayın. Çok erken ve kendime çok güvenerek atladım ve birçok acı verici ders aldım. 
+Profesyonellerden bazıları aşağıda listelenmiştir:
+1. Bir ticaret stratejisi öğrenin/geliştirin – Yalnızca bu kitapta ayrıntıları verilen ticaret 
+stratejisini denemekle kalmaz, aynı zamanda yaratıcı olabilir ve kendi trendleri veya 
+patlamaları arayabilirsiniz.
+2. Farklı stratejiler araştırın – Birden fazla çift ve zaman diliminde işlem 
+yapabilir ve ileride karlılığınıza yardımcı olacak verileri toplayabilirsiniz.
+3. Ticaret platformlarına aşina olun – Ticaretin diğer birçok yönünün yanı sıra, alım 
+satımları nasıl ayarlayacağınız konusunda pratik yapmanız gerekecektir. Ticaret 
+platformlarında paranızı riske atmadan oynayabileceğiniz birçok araç 
+bulunmaktadır.
+4. Ticaret disiplinini öğrenin – Bir strateji belirledikten sonra onu bir işlemin 
+ortasında değiştirme veya işlemlerinizi ikinci kez tahmin etmeye başlama 
+eğiliminde olabilirsiniz. Yaptığınız her ticarette stratejinizi takip etmek için 
+disiplinli olmayı öğrenmelisiniz.
+5. Ticaret kurallarını geliştirin – Her ticaret stratejisinin, her ticarette uyacağınız 
+kurallara sahip olması gerekir. Bu, 4. maddeye uyuyor, ancak daha önce şunu 
+fark ettim ki, yazılı kurallar uygulayarak, kaprisler ve duygular nedeniyle 
+sapmaya daha az meyilli olursunuz.
+6. Duygusal ticareti ortadan kaldırmayı öğrenin – Bunu demo hesapta öğrenmek 
+zordur, ancak canlı hesapta devreye girecektir. Duygusal ticaret nedeniyle 
+birçok hata yaptım ve bunların hepsi bana gerçek paraya mal oldu.
+7. Bir döviz çiftinin lehinize geri dönmesini DİLEYemeyeceğinizi öğrenin – Bu, 
+yukarıdaki 6. maddeyle paralel gider. Tıpkı golf veya bowling oynamak gibi, 
+topu istediğiniz yöne itmek için vücudunuzu yana eğdiğinizde, döviz çiftine 
+geri dönmesini söyleyebilir veya ikna edebilirsiniz, ancak normalde görsel 
+ipuçlarına yanıt vermez.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+8. Kayıplarınıza nasıl makul sınırlar koyacağınızı öğrenin – Ticaret sırasında bir noktada 
+para kaybedeceksiniz. Yatırımınızı koruyun ve genel olarak olumlu bir sonuç elde 
+etmek için kârınızın ve zararınızın ne olması gerektiğini öğrenin. Bu konu hakkında 
+daha sonra daha fazla konuşacağım.
+9. Açgözlü olmamayı öğrenin – Bu, tüm hayatınız için iyi bir derstir ancak piyasa 
+hareket ettiğinde ticaret sisteminizi/stratejinizi daha iyi yönetmenize yardımcı 
+olacaktır. Kurallarınıza bağlı kalın ve kayıpları telafi etmek veya kazançlarınızı 
+artırmak için kurallarınızdan sapmaya çalışmayın. Sonunda genellikle iyi sonuç 
+vermez!
+10. Beklentilerinizi yönetmeyi öğrenin – Kayıpların oluşmasını bekleyin. Başlayabilir ve 
+yalnızca kazanmayı ve kârlı işlemler yapmayı bekleyebilirsiniz. Kayıplara hazır olun; 
+ancak kaybettiğinizden daha fazlasını kazanmayı bekleyin.
+Tüm bu AVANTAJLAR ile bir demo hesabının EKSİLERİ ne olabilir? Daha önce de 
+belirttiğim gibi, demo hesabı olmadan asla ticarete başlamam; ancak bir demo hesabının 
+canlı/gerçek hesapla tam olarak aynı tepkiyi vermediğini ilk elden gördüm. Kazançlara 
+karşı kayıpların büyük bir yüzdesine sahip harika bir sisteminiz olabilir ve kar marjı 
+harikadır, ancak canlı (gerçek parayla) başlamaya karar verdiğinizde, yine de kısa bir süre 
+için mümkün olan en küçük ticaretle başlarım ve emin olun planlandığı gibi aynı şekilde 
+çalışıyor.
+Piyasa hareketi söz konusu olduğunda hiçbir kesinliğin olmadığını ve para kaybedebileceğinizi her 
+zaman unutmayın. Benim bildiğim Forex ticaret tüyoları veren falcılar yok. Hazırlıklı olun ve yalnızca 
+kaybetmeye hazır olduğunuz miktarlarda işlem yapın. Hesaplarınızı çeşitlendirmenin ve iyi getiriler elde 
+etmenin bir yolu olarak Forex ticaretini kullanmayı planlayın. Şu anda ayda ortalama %10-20 kâr elde 
+etmekten memnunum. Daha fazla kazanmak için daha fazlasını riske atabilirim ama aynı kolaylıkla daha 
+fazlasını da kaybedebilirim.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Otomatik Yatırımcılar / Uzman Danışmanlar
+Otomatik Yatırımcılar
+Kendi kendine giden arabaları mı bekliyorsunuz? Hiçbir şey yapmanıza gerek kalmadan bir 
+şeye para yatırıp büyük kazanma fikri hoşunuza gidiyor mu? Kulağa harika geliyor değil mi? 
+Bilgisayar başında olmanıza gerek kalmadan işlemlerinizi otomatik olarak gerçekleştiren 
+programa otomatik işlemci denir. Her ay %100 kar vaat eden sistemler veya programlar var. 
+Yüzde 98'lik bir galibiyet yüzdesi iddia edenler var. Midas'ın kendisi dokunmuş gibi ses 
+çıkaran sistemler var. Muhtemelen hesabınızın tamamını riske atmadan kar üreten Forex 
+ticareti için bazı iyi sistemler bulabilirsiniz; ancak deneyimlerim sonucunda eski atasözünün 
+doğru olduğunu öğrendim: Gerçek olamayacak kadar iyi geliyorsa muhtemelen öyledir.
+Otomatik yatırımcılar, işlem platformunuza ekleyebileceğiniz programlardır ve işlemleri 
+programda yer alan strateji ve kurallara göre yapacaktır. Ben de tam olarak bu şekilde ticaret 
+yapmak istiyorum ve sizin de duygu veya açgözlülükten sapmadan oluşturulan kurallara ve 
+stratejiye uyarak ticaret yapmanızı umuyorum. Hatta gece yarısı ve sabah 4'te haritalarımı 
+kontrol etmek zorunda kalmamak için sistemimi otomatik bir sisteme dönüştürmeyi bile 
+düşündüm.
+Yüksek getiri oranları vaat eden sistemlerden bazıları bunu önemli risklerle karşılıyor. Otomatik sistemler 
+üzerine yaptığım araştırmalarla gurur duydum ve çok fazla kayıp olmadan makul getiriler sağlayan bir 
+sisteme sahip olduğumu düşündüm. Sistemi satın aldım ve bilgisayarıma yerleştirdim.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+demo hesabı ve beklendiği gibi performans gösterdi. Gerçek parayla canlı hesaba yatırmaya 
+karar verdim ve ilk iki ay mutluydum. Daha sonra tatildeyken, girdiği iki işlemin güneye 
+gittiğini izlediğimde sistem benim umursamadan kapanıyordu. GERÇEKTEN GÜNEYİ 
+kastediyorum! İnanamıyordum. İki kötü işlem neredeyse hesabımı boşaltıyordu. İki kötü işlem 
+yalnızca elliden fazla olumlu işlemi boşa çıkarmakla kalmadı, aynı zamanda başlangıç   
+sermayemin çoğunu da elimden aldı.
+Uzman Danışmanlar
+Uzman danışmanlar Otomatik Yatırımcılarla aynı şekilde çalışabilir ancak aynı zamanda arabanızdaki GPS 
+gibi de çalışabilirler. Rehberlik sağlayacak ve uygun gördüğünüz şekilde ticaret yapmanıza veya 
+yapmamanıza olanak sağlayacak uzman danışmanlar alabilirsiniz (satın alın, oluşturun, ücretsiz indirin 
+vb.). Bazı danışmanlar, satın almanın veya satmanın ne zaman iyi olduğunu size bildirmek için renkli 
+göstergeler kullanır. Bazı uzman danışmanlar basittir (ne zaman ticaret yapacaklarını belirlemek için 
+yalnızca bir veya iki yöntem kullanırlar) ve diğerleri çok daha karmaşıktır (birkaç yöntem ve gösterge 
+içerir). Her iki durumda da, ticarete katılıp katılmayacağınız konusunda kararınızı hâlâ kullanabilirsiniz. Bu 
+iyi ya da kötü olabilir.
+Duygularınızın ticaretinizi yönetmesine izin verirseniz, bu tutarsız ve büyük olasılıkla 
+olumsuz olacaktır. Bir süredir izlediğiniz döviz çiftine ilişkin kalıplar görüyorsanız veya 
+sezgileriniz varsa, olumlu işlem şansınızı artırabilirsiniz. Bir haber bülteninin geleceğini 
+biliyorsanız ve bunun piyasayı nasıl etkileyeceğinden emin değilseniz, işlemi 
+bekleyebilirsiniz.
+Uzman Danışmanlar ve Otomatik Yatırımcılar iyi olma potansiyeline sahiptir ancak büyük vaatlere 
+karşı dikkatli olun. Çok fazla denemedim ve bazıları önemli bir ücrete mal olabilir, ancak önce bol 
+miktarda araştırma yapmadan ve bazı demo hesaplarda denemeden asla canlı (gerçek para) hesapta 
+otomatik bir tüccar kullanmayın. Ayrıca Uzman danışmanlar, doğru ve duygusuz kullanıldığında 
+harika araçlar olabilir. Tercih ederseniz her zaman kullandığınız herhangi bir danışmanın artılarını ve 
+eksilerini öğrenin ve işlem yaptığınız döviz çiftlerine aşina olun, çünkü bu, olasılıkları lehinize 
+çevirmenize yardımcı olacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Al/Kar ve Durdur/Zarar
+Alım veya satım (yukarı veya aşağı) şeklinde bir işleme girdiğinizde, işlemin istediğiniz kadar 
+sürmesine izin verebilirsiniz. Bazı yatırımcıların, 20 piplik pozitif bir hareketi beklemelerini 
+sağlayan araştırma ve geçmişe dayalı bir stratejisi vardır (pip, Forex grafiklerinde hareket 
+birimidir - çoğu grafik aslında 1/10'a kadar hareketi gösterir)oişlemden çıkmadan önce bir pip). 
+Başka bir ticaret yöntemi, küçük bir kâr elde etmek için kafa derisi kullanmak veya birkaç çok az 
+kazanç elde etmektir (brokerınızdan ve spreadlerden aldığınız komisyon bu yöntemde kritik hale 
+gelebilir).
+Al/Kar
+Al/Kar, işleminizde seçebileceğiniz ve belirlediğiniz kâr noktasına ulaşıldığında işlemi otomatik olarak 
+kapatacak bir seçenektir. Bazı sistemler veya ticaret stratejileri, bir ticaretten ne zaman çıkmanız 
+gerektiğini size bildirmek için göstergeler kullanır. Al/Kar gösterge bazlı çıkışlara yardımcı 
+olmayacaktır. Normal bir günlük işte çalıştığım için, bir işlemi tüm hareketi boyunca oturup 
+izleyemem, yoksa günlük işimi kaybederim! Ne zaman bir strateji araştırsam, geri dönmeden önce 
+ticaretin genellikle ne kadar ileri gidebileceğini görmek hoşuma gider ve kayıplarımı en aza indirirken 
+kârımı en üst düzeye çıkarmaya çalışırım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Durdur/Kayıp
+Durdur/Kayıp, Al/Kar ile aynıdır ancak işlemin kaybeden tarafı içindir.BU ÇİFTİN 
+DAHA KRİTİK KISMI!!! Umarım vurgu açık olmuştur. Eğer kârlı ticaretten başka bir 
+şey yapmıyorsanız hemen benimle iletişime geçmenizi isterim. Ticaretin amacı 
+kayıptan çok kar elde etmektir. Artık her işlem için bir Stop/Loss belirledim. Şimdi 
+söylüyorum çünkü dersimi alana kadar birkaç demo hesabı ve birkaç canlı hesabı 
+(Ah!) boşaltana kadar değildi. Stop/Los'u yatırım hesabınızın sigortası olarak 
+düşünün. Döviz çiftinin hızlı bir şekilde yanlış yönde hareket etmesi durumunda Stop/
+Loss'unuz hesabınızı kaybetmenizi engeller.
+Stratejinizi araştırın ve bir işlemde kaybetme riskini ne kadar göze alacağınızı belirleyin ve ardından 
+Stop/Loss'unuz için bunu aşmadığınızdan emin olun. Ayrıca mevcut stratejinizi değiştirmeniz gerekip 
+gerekmediğini belirlemek için kazanç/mağlubiyet oranınızı araştırın. İşlem başına karınızı en üst 
+düzeye çıkarmanız ve işlem başına kaybınızı en aza indirmeniz gerekir. Tekrar söylüyorum, 
+deneyimlerime dayanarak her işlem için daima bir Stop/Loss belirlerim. Pek çok yatırımcı Stop/Loss 
+noktalarını belirlemez ve bazıları iyi performans gösterir. Hükümetin etkili bir üyesi kürsüye çıkıp 
+döviz çiftinin hızla yanlış yöne gitmesine neden olan bir şeyden bahsetmeye karar verdiğinde, benim 
+yönüme doğru ilerleyen işlemlerden önemli miktarda para (hem gerçek hem de hayali) kaybettim. 
+Haber bültenleri ticaretiniz için iyi olabilir ama aynı zamanda kötü de olabilir. Bir şeyin hızla hareket 
+ettiğini görmek istiyorsanız, Fed Başkanı bankalar için faiz oranını değiştirdiğinde USDJPY veya 
+EURUSD döviz çiftini izleyin.
+Durdurma/Kayıp mevcut olmadığında göstergeleriniz size söylediğinde çıkmayı umabilirsiniz ancak 
+piyasa güçleri ticareti hızlı bir şekilde yanlış yöne sürükleyebilir ve önemli miktarda para 
+kaybedebilirsiniz. Bu kavramı sürekli tekrarladığımı biliyorum ama tekrarlanması gerektiğini 
+söylediğimde bana güvenin!
+Eğer %55'lik bir kazanma yüzdeniz varsa ve beş piplik bir Al/Kar'a karşılık on piplik Durdurma/
+Kaybınız varsa, paranızı çok hızlı harcayacaksınız. Eğer %40'lık bir kazanma yüzdeniz varsa ve 
+seksen piplik bir Al/Kar'a karşı on piplik Durdurma/Kaybetiniz varsa, yakında zengin bir şekilde 
+emekli olacaksınız! Bu konuda iyi şanslar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Al/Kar ve Dur/Zarar DUYURUSU!
+Lütfen gerçek parayı kullanmadan önce bunu anlayın… Al/Kar ve Durdur/Zarar araçlardır ve 
+mükemmel değildirler. Bir işleme girdiğinizde veya işlemden çıktığınızda, işlem platformunuzda 
+bir düğmeye tıklarsınız ve işlemin yapılması gerekir. Bu genellikle bir veya iki saniye içinde 
+gerçekleşir. Genellikle söylüyorum, çünkü diğer derslerde olduğu gibi kendi deneyimleriniz 
+yerine bu kitabı okuyarak öğrenmenizi umuyorum, hemen kapanmayan bazı işlerim oldu.
+Bir haber bülteni veya son dakika haberi olduğunda piyasa ürkebilir veya şiddetli tepki verebilir. İşlem 
+platformunuz, işlemi kapatma talebinizi mümkün olan en kısa sürede işleme koyacaktır; ancak eğer 
+piyasa iki saniyede on pip hareket ederse planladığınızdan daha fazla para kaybedebilirsiniz. Kârlı 
+taraftaki bir işlemi kapatmak için durumun böyle olması gerektiği kabul edilir, ancak kayıp yönünde 
+çarpık görünüyor.
+Tüm işlemlerimde Al/Kar ve Durdur/Zarar araçlarını kullanırım. Bunlar olmadan daha 
+fazla para kazanabilirim ama iç huzuru ve istikrar akıl sağlığımı korumama yardımcı 
+oluyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Sistemim
+Artık biraz bilgi sahibi olduğunuza göre, kullandığım sistemi açıklamaya biraz zaman 
+ayıracağım. Kabul ediyorum, bu bölümün başlığı “Sistemim”, ancak temel prensip, Forex 
+dünyasında birçok insan tarafından kullanılan ortak bir ticaret sistemidir. Sistem pivot ticaret 
+yöntemidir. Döviz çiftini araştırıp daralttım ve oldukça tutarlı kazançlar için giriş/çıkış 
+noktalarını belirledim. Diğer çiftleri ve zaman dilimlerini araştırmaya devam edeceğim ve sizi 
+de aynısını yapmaya teşvik edeceğim.
+Peki pivot yöntemi nedir diye soruyorsunuz? Harika bir soru. Bir ticaret platformunda 
+döviz grafiğini açtığınızda paritenin gün boyunca yükselip düştüğünü fark 
+edeceksiniz. Döviz dalgalanmasının olduğu haftalar ve aylar boyunca birçok zirve ve 
+vadiler oluşacaktır. Döviz çiftinin yön değiştirmesinin bir nedeni (eğer genel bir yukarı 
+yönde hareket ediyorsa ve ardından genel bir aşağı yöne dönüyorsa), döviz çiftinin 
+karşılaştığı bir dirençten (işlem için göreceli bir tavan veya taban) kaynaklanabilir. 
+Zirve veya vadi ile gösterilen bu tavan veya taban, pivot ticaret yönteminin para 
+kazanmak için kullandığı şeydir. Dört saatlik döviz grafiğinin dağ sırasını görmek için 
+Şekil 3'teki resme bakın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Şekil 3
+Döviz çifti direnci (tavan veya taban) kırdığında genellikle bir süre o yönde 
+ilerlemeye devam eder. Buradaki kavram, kırıldığında istediğiniz yönde devam 
+edecek ve kar elde etmek için bu hareketin yeterince fazlasını 
+yakalayabileceğiniz yeterince güçlü bir dirence veya pivota sahip olmanız 
+gerektiğidir.
+Güçlü ve zayıf direnç değerlerini göstermeye yardımcı olan bazı direnç göstergeleri ve 
+döviz çiftinin doğasında bulunan bazı doğal döviz direnç değerleri vardır. Çok basit bir 
+insan olduğum için direnç göstergeleri benim için çok karmaşık. Paramla bahse 
+girersem neler olup bittiğini tam olarak anlamayı severim. "Fibonacci Geri Çekme" 
+göstergesini/aracını araştırır ve tam olarak anlarsanız, sistemimin karlı ticaret oranını 
+artırmak için onu kullanabilirsiniz.
+Ayrıca belirli döviz çiftlerindeki bazı doğal dirençlerden de bahsettim. Büyük, 
+yuvarlak sayıları düşünün; bunlar döviz çifti hareketi için doğal dirençler olabilir. 
+Aklıma gelen bir çift, ticaret yaptığım ana çift olduğu için USDJPY (ABD Doları/Japon 
+Yeni), 100 (her 1 ABD Doları için 100 Yen) civarında dalgalanmayı sever.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Dolar). Bu 100 seviyesinde doğal bir direnç var. Her döviz çiftinin kendine has 
+doğal dirençleri vardır ve o çift için piyasanın gücüne bağlı olarak direnci 
+kırdığında kayda değer bir hamle yapabilir.
+Dört saatlik grafikte USDJPY ile işlem yapıyorum. Bu, her bir mum çubuğunun döviz çiftinin 
+dört saatlik bir süre içindeki hareketini temsil ettiği anlamına gelir. Kullandığım pivot 
+sistemi, Fibonacci Retraksiyon göstergesine veya doğal dirençlere dayanmıyor (her ne kadar 
+ticaretimi artırabilecek veya engelleyebilecekse doğal direnci göz ardı etmeyeceğim).
+Dört mumlu pivot yöntemini kullanıyorum; bu, yüksek bir zirvenin solda dört mum ve sağda dört 
+mumun benim pivot zirvem kadar yüksek olmaması gerektiği anlamına gelir. Başka bir deyişle, 
+zirvenin on altı saat öncesinde ve on altı saat sonrasında üzerinde hiçbir şey olmamalıdır. Diğer 
+insanlar pivot yöntemlerini üç muma veya beş muma değiştirmeyi severler. Pivot stratejisi için 
+istediğiniz sayıda mum kullanabileceğiniz kabul edilir, ancak bunlar en yaygın olanlardır. Üç 
+mumlu pivot yöntemini kullanmak, daha fazla olası işlem yapabileceğiniz anlamına gelir, ancak 
+pivot, dört veya beş mumlu sistem kadar güçlü olmayabilir. Beş mumlu bir sistem kullanmak, 
+çok sık işlem yapmayacağınız anlamına gelir, ancak pivotun gücü daha iyi olmalıdır. Bunların 
+hepsi tercihlerinize bağlıdır, ancak benimki, gerçek ticaret verileriyle birlikte 1,5 yıllık USDJPY 
+grafik incelemesinden elde edilen araştırmalara dayanarak seçildi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Şekil 4
+Şekil 4'e baktığınızda okla işaretlenmiş mum çubuğunu görebilirsiniz. Bu mumun tepesi, soldaki en 
+az dört mum zirvesinden ve sağdaki dört mum zirvesinden daha yüksek, bu da onu kullanabileceğim 
+bir pivot haline getiriyor (neden "olabilir" dediğimi daha sonra detaylandıracağım). Bu bir “satın 
+alma” pivotu olacaktır. Başka bir deyişle, döviz çifti pivotta yukarı doğru hareket ederse (döviz çifti 
+değeri pivot mumumun en yüksek değerinin üzerine çıkarsa) döviz çiftinin belirli bir kâra doğru 
+hareket etmeye devam edeceğine bahse gireceğim şekilde ticareti ayarlardım. .
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Şekil 5
+Muhtemelen zaten tahmin ettiğiniz gibi, bunun tersi doğrudur. Bir mum soldaki dört mumdan ve 
+sağdaki dört mumdan daha düşükse, bu bir "satış" pivotudur. Bu tür pivotun görünümünü 
+incelemek için Şekil 5'e bakın.
+Şimdi, gerçek bir pivot yöntemi sistemi, ticareti belirtilen gerçek pivot değerinde yapacaktır. Bir 
+örneğe bakalım. Şekil 4'te gösterilen pivot noktası 101.745 ise (bir, iki, üçüncü ve dördüncü 
+mumlar 101.745'in altındaysa), o zaman 101.745'in üzerinde hareket eden herhangi bir şey için 
+ticareti ayarlayacağım. Teorik olarak döviz çifti 101.746'ya ulaştığında işlemimi başlatabilirim. Bu, 
+döviz çiftinin pivot noktasını kırdığı zaman olurdu, ancak deneyim ve araştırmalar beni hiçbir 
+zaman bu kadar hızlı bir yaklaşım benimsememeye yöneltti.
+Pivot noktasına, bir kez kırıldığında ticaret yapmanın iyi olacağı ince bir çizgi olarak bakmıyorum. 
+Bunu kırılmadan önce veren esnek bir çizgi olarak düşünüyorum. Daha çok Red Rover'ın eski 
+oyununa benziyor. Koşabilir ve çizgiyi aşmayı deneyebilirsiniz, ancak bu, itmeyi sağlayabilir ve 
+absorbe edebilir. Ancak, eğer geçerseniz kazanırsınız! Gerçek pivot, hareketin gösterdiği gibi üç 
+ondalık basamağa kadar gidebilen bir değer olmayabilir. Belki pivot 101.750'dir, yani para birimi 
+bu pivotu eşleştirmeden veya kırmadan önce 101.749'a kadar ulaşabilir. Piyasanın sürekli 
+hareket ettiğini ve tepki verdiğini unutmamalısınız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+ve mum gürültüye maruz kalır (her zaman yön hareketine dönüşmeyen hafif hareketler). Kazançlarınızı 
+en üst düzeye çıkarmak için ticaretinizi pivot noktasına mümkün olduğunca yakın başlatmak istiyorsunuz, 
+ancak gürültüden kaçmak için pivot noktasından yeterince uzağa gitmek istiyorsunuz.
+Şekil 6
+Şekil 6'ya bir bakın. Bir "alış" işlemi için kırmızı çizgi pivot noktasında çizilir. Sağdaki 
+kırmızı çizgiyi takip ederseniz mumun nereye çarptığını görebilirsiniz. Bu, mumun 
+pivot noktasından kırıldığı ve bu da bir ticaret setinin pivot konumuna girmesi için 
+etkinleştirildiği anlamına gelir. Mum geriye doğru gidiyor ve bir kayıp olabilir. 
+"Vuruş" mumunun momentumu, döviz çiftini belirtilen pivot noktasına kadar ve 
+biraz ötesine taşıdı, ancak döviz çifti aslında direnci kıramadı.
+Bu gürültü ve momentum telafisi nedeniyle, işlemlerimi "alış" pivotunun iki pip üstüne ve 
+"satış" pivotunun iki pip altına girecek şekilde ayarladım. Yani pivotun 101.745 olduğu 
+örnekte, işlemimi 101.765'e girecek şekilde ayarlayacağım (para birimi çizelgelerimde bir 
+hareket artışı 0,1 pip'e eşittir). Şekil 4, 5 ve 6'daki grafik benim işlem yaptığım döviz grafiğim 
+olduğu için işlemimin çok erken girmediğini ve sonucun karlı olduğunu söyleyebilirim. İki 
+pipin tüm döviz çiftleri ve zaman artışları için iyi bir tampon olduğunu söyleyemem ancak 
+dört saatlik artışlara sahip USDJPY grafiği için işe yarıyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Ben.
+Araştırmalarıma ve engin ve bazen acı veren deneyimlerime dayanarak, bu strateji için 
+önceden belirlenmiş üç çıkış noktası belirledim. Bir dakikalığına araştırmamı açıklayayım, 
+böylece bu yönteme neyin dahil olduğunu daha iyi anlayabilirsiniz. Bir yıl boyunca USDJPY 
+grafiğinin dört saatlik mumlarının tamamını inceledim. Yılın verilerini inceledikten sonra, 
+USDJPY döviz çiftinin bir pivotu kırdıktan sonra geriye dönmeden önce ne kadar 
+ilerleyeceğine dair kabaca bir fikrim vardı. Ayrıca döviz çiftinin ne kadar geri çekilebileceğini 
+(yanlış yöne gidebileceğini) ve yine de karlı bir ticaret haline gelebileceğini bulmam 
+gerekiyordu.
+Döviz çifti koşusu değerlendirildikten sonra, belirlediğim parametrelerle bir demo hesabında işlem 
+yapmaya başladım (aslında başlangıçta dört döviz çiftini denedim) ve sonuçları yaklaşık altı ay 
+boyunca belgeledim. Altı aylık demo ticaretiyle birleştirilen tarihi veriler, döviz çiftlerini ikiye 
+düşürmeme ve çıkış noktalarını yeniden hafifçe ayarlamama neden oldu. Paramı riske atmaya ve 
+hem döviz çiftlerini hem de belirlenmiş giriş/çıkış noktalarını içeren küçük, canlı bir hesap 
+denemeye karar verdim, bu da verilerin bana kârlı olacağı sonucuna varmasını sağladı.
+Daha önce canlı ticaretin birkaç nedenden dolayı demo ticaretle tam olarak aynı olmadığını 
+söylemiştim. Bunu aklımda tutarak, sistemimi daha da geliştirmek için tüm canlı işlemlerimi 
+takip etmem gerektiğini biliyordum. O zamandan beri ikinci döviz çiftini düşürdüm ve USDJPY 
+çiftiyle kaldım. Bu paritenin spread'i genellikle düşük ve nispeten istikrarlıdır. Hareket, bu 
+sistemi kullanarak karlı işlemlere olanak sağlamak için yeterlidir.
+Bütün bunlar şunu söylüyor: "Alış" pivotu için üç işlem ve "satış" pivotu için üç işlem 
+belirledim. İşlemler, "alış" işlemi için dört mum pivot noktasının iki pip üstünde ve "satış" 
+işlemi için dört mum pivot noktasının iki pip altında girecek şekilde ayarlanmıştır. İlk 
+ticaretin çıkış parametreleri on piplik Al/Kar ve on piplik Stop/Loss'tur. Bir not olarak, 
+genellikle Stop/Loss'tan daha büyük Take/Karlarla işlem yapmayı severim, ancak 
+araştırmalar daha sık kaybedeceğimi gösteriyor. İkinci işlem her iki yönde de 15 pip içindir 
+(yani - 15 pip T/P ve 15 pip S/L). Üçüncü ticaret her iki yönde de 20 pip içindir.
+Herhangi bir şeyin iyileştirilmesi gerekip gerekmediğini görmek için işlemlerinizi ve işlem geçmişinizi sürekli olarak 
+değerlendirin/takip edin. Sürekli olarak veri topluyorum; biri bundan keyif aldığım için (üzücü, biliyorum) ve ikisi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+çünkü oradaki para benim param ve onu hayal kırıklığına uğratmayacağımdan emin olmak istiyorum.
+Topladığım verilere örnek olarak, mevcut sistemimin 10 piplik işlem için %70, 15 piplik işlem 
+için %72 ve 20 piplik işlem için %73'lük mevcut kazanç yüzdelerine sahip olduğunu 
+söyleyebilirim. Bu yüzdeler değişebilir ve yarın para kaybetmeye başlayabilirim ancak şu 
+anda işime yarayan şeyler hakkında size bilgi vermek istedim.
+Bir sonraki bölümün daha kısa olacağına söz veriyorum ama ticaret sistemim açısından aynı derecede önemli
+– Sistemimdeki İstisnalar. Bahsedilen kazanma yüzdesi, ben nedenleri aramaya başlayana kadar o kadar da 
+yüksek değildi.OLUMSUZ ticaret yapmak. Kazanma oranı hala %60'ın üzerindeydi, ancak kârlı işlemlerde 
+fazladan %10'luk bir artış benim göz ardı edeceğim bir şey değil ve sizin de yapmamanız gerekir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Sistemimdeki İstisnalar
+Umarım artık sistemimi tam olarak anlamışsınızdır. En azından pivot noktalarını nasıl 
+tanıyacağınızı ve işlemleri ayarlarken hangi parametreleri kullandığımı anlamalısınız. Ortaya 
+çıkan sorun, ticaret yapmamak için nedenler aramam gerektiğidir. Pivotun ne zaman devreye 
+girdiğine dair size birkaç örnek vereceğim, ancak diğer bilgilerden dolayı ticarete girmemeye 
+karar verdim. Bunlar bazı küçük gruplara bölünecek.
+Haftanın günleri
+Teknik olarak Pazar akşamından Cuma öğleden sonrasına kadar (GMT'ye göre) işlem 
+yapabilirsiniz. Ancak, birkaç gözleme (ve bazı verilere!) dayanarak Pazar veya Cuma günleri 
+işlem yapmıyorum (veya işlem yapmıyorum). Gördüğünüz gibi Forex piyasası Cuma günü 
+kapanıyor diye dünya döviz çiftlerini etkileyen haberler üretmeyi bırakmıyor. Bir ticaret 
+tablosundaki birçok döviz çiftine bakabilir ve para biriminin Pazar günü hareket etmeye 
+başladığı konumun Cuma günü durduğu konumla aynı olmadığını görebilirsiniz. Bu 
+haftasonu hareketi bir ticareti durdurabilir veya yanlış bir ticarete girebilir.
+Size varsayımsal bir örnek vereyim. Cuma öğleden sonra piyasalar kapandığında USDJPY'nin 
+104.000 seviyesinde işlem gördüğünü varsayalım. Hükümetin, haber bültenini en aza 
+indirmek için Cuma öğleden sonra kötü haberler yayınlamayı sevdiğini duymuş olabilirsiniz. 
+Bu varsayımsal örnekte, ABD Hükümeti bir hesaplama hatası olduğunu ve 17 trilyonluk borç 
+yerine aslında 19 trilyonluk borcumuz olduğunu tespit etti (umarım bu varsayımsaldır!). Forex 
+piyasası Pazar günü açıldığında şunları yapabilirsiniz:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+USDJPY döviz çiftinin 104.000 seviyesinde açılmayacağını oldukça iyi tahmin ediyoruz. Muhtemelen 103.500'de 
+ya da ona yakın bir yerde bile değil.
+Cuma işlemi kapanmazsa, Pazar açılışı için geçerli olacaktır, bu da hafta sonu boyunca tüm 
+haberlerin ticareti etkileyeceği anlamına gelir. Sistemim momentum ve trendlere dayanıyor. 
+Bir hafta sonu haberi trendi tamamen ortadan kaldırabilir. Bu arada, döviz piyasasının Pazar 
+günü açılışı, yatırımcıların hafta sonu açıklanan haberlere tepki verdiği ve henüz bir trendin 
+oluşmadığı bir dönem.
+Bu arada bu endişeye yönelik verilerden bahsetmiştim, o yüzden aktarayım. Pazar günleri hiçbir 
+zaman çok fazla işlem yapmadım, bu nedenle Pazar işlemleri için daha az veri var, ancak her gün 
+yapılan (ve girilen) işlemlerin kazanma yüzdeleri şunlardır:
+Pazar
+%50
+Pazartesi
+%73
+Salı Çarşamba
+%69 %91
+Perşembe Cuma
+%66 %57
+Bu yüzdeler girilen 189 işleme dayanmaktadır.
+Pazar ve Cuma günleri işlem yapmayı bıraktığım için veriler biraz değişebilir, ancak veriler bana 
+bunun daha çok gerçek bir kumar olduğunu gösterirken neden paramı riske atayım ki? Bu arada, 
+USDJPY döviz çiftinin hareketini Pazar ve Cuma günleri işlem yapmadan takip ettim ve bu oranın 
+şu anda %40-50'ye yakın olduğunu fark ettim. Çarşamba günlerini gerçekten sevdiğimi ve hatta 
+elde edilen yüzdelere göre riskimi artırma fikriyle uğraştığımı tahmin edebilirsiniz, ancak 
+açgözlülüğün beni nerede küçük düşürdüğünü gördüm, o zaman neden şimdi riske atayım ki? 
+Bir yıl daha veri takibi yaptıktan sonra rakamlar hala bunu doğruluyorsa, ağırlıklı risk yaklaşımını 
+değerlendireceğim.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Eğilimleri göstermeyen pivotlar
+Aşağıda bir haber bülteni nedeniyle oluşturulan pivotun resmi yer almaktadır:
+Şekil 7
+Okun işaret ettiği mum çubuğunun alt kısmı bazı haberlerin sonucuydu. Belirtilen 
+mumun solundaki trendi görürseniz, döviz çiftinin yukarı doğru ilerlediğini ve bir zirve 
+veya "alış" pivotu oluşturduğunu görebilirsiniz, ancak bu dört saatlik artış sırasında 
+ABD Dolarını ABD Doları karşısında zayıflatan bazı haberler yayınlandı. Japon Yeni. Bu 
+uzun "bıyık" bir "satış" pivotu yaratır, ancak trendlere dayalı değildir. "Satış" pivotu 
+yalnızca yayınlanan haberlere ve piyasanın tepkisine dayanıyor. Ani tepki kendi seyrini 
+tamamladıktan sonra döviz çifti yeni bir düşüş eğilimi yarattı (trendleri seviyoruz).
+Sonuç olarak, "satın alma" pivotunun kârlı bir çıkış ticaretiyle sonuçlandığını 
+görebilirsiniz (pivotun nerede kırıldığını ve iyi bir ticaret olduğunu görmek için pivota 
+ve sağdaki mumlara bakın). Aynı şekilde piyasanın hızlı tepki vermesiyle oluşan ve 
+trendden kaynaklanmayan "satış" pivotunun nereye girip zararla sonuçlanacağını da 
+görebilirsiniz.
+Doğal dirençler
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Daha önce doğal dirençlerden bahsetmiştim ama burada tekrar ifade edeyim. Döviz çiftleri, 
+değerin önemli bir eşiği geçtiği durumlarda doğal veya doğal dirençlere sahiptir. Tıpkı düzenli 
+yıldönümleriniz ve doğum günleriniz olduğu gibi, bazıları diğerlerinden daha fazla önem taşır. 
+40 yaşına girmek 39 veya 41 yaşına girmekle aynı şey değildir (çoğu 39. yaşını kutlarken bu 
+direnci hiçbir zaman kıramaz).o40 notunu kabul etmeden önce birçok kez doğum günü). Evliliğin 
+25. yılını kutlamak ile 24 veya 26. yılı kutlamak aynı şey değil. Neden satın almak istediğiniz 
+ürünün 1000,00 dolar değil de 999,99 dolar olduğunu düşünüyorsunuz? Bir kuruşluk fark 
+aslında önemsizdir, ancak pazarlama, bir kuruşun satışlarda ve zihninizde gerçekten büyük bir 
+fark yaratabileceğini gösteriyor. Aynı kavram döviz hareketinde de iş başında.
+Daha önce de söylediğim gibi USDJPY çifti 100 seviyesi civarında dalgalanmayı 
+seviyor (1 ABD Doları = 100 Japon Yeni). Bazen döviz çifti sanki döviz tablosunda 
+başka bir yerdeymiş gibi bu 100.000 değerinden geçecek; ancak bazen bu değer 
+daha fazla hareketi kısıtlayabilir. Çoğu tam sayıyı hafif dirençler olarak ele almayı 
+seviyorum ve artış arttıkça (her 5 veya her 10 – 105.000 veya 90.000) direncin 
+gücü de artıyor.
+Ticaretim doğal bir direnci aşmayı gerektirdiğinde, ticaretimi başlatmayı ertelemeyi tercih 
+ederim. Direncin hiçbir fark yaratmadığını ve bunun olumlu bir ticaret olacağını gördüm, 
+ancak aynı zamanda direncin ticaretin başlamasına neden olacağını ancak olumsuz bir 
+şekilde kapanmasına neden olacağını da gördüm. Neden şansımı böyle bir şeye zorluyorum? 
+Aslına bakılırsa, bu bölümü yazarken USDJPY için aşağıdan başlayarak 104.000 seviyesinin 
+üzerine çıkmasını gerektiren işlemleri belirleme fırsatım oldu (pivot 103.956'daydı, dolayısıyla 
+girişim 103.976 olacaktı). Ticaret de Cuma günü olacaktı. İşlemlerden ikisi olumsuz, biri 
+olumlu olacaktı. Genel olarak bunlar ticaret yapmamaya karar vermemin iyi sonuçlarıydı.
+Özet
+Bu istisnaları kullanarak ve döviz çiftinin nasıl hareket etmeyi sevdiğini öğrenerek kazanma 
+yüzdelerimin %50'nin biraz üzerinde bir seviyeden %70'in biraz üzerine çıktığını gördüm. 
+Bir döviz çiftiyle ne kadar uzun süre çalışırsanız, o kadar aşina olursunuz ve işlemleriniz o 
+kadar bilgili olur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Ticaret yapmak için çok sayıda pivot noktanız olacak, ancak yüzdelerinizi (ve ticaret 
+hesabınızı) artırmak istiyorsanız, ticaret yapmamak için nedenler arayın.
+Devam Eden Araştırma
+Bu kitabın girişinde söylediğim gibi, bu sistemi kullanmanın karlı işlemlerle sonuçlanacağı konusunda sizi 
+temin edemem. Garanti edebileceğim tek şey, sistemimin geçmiş performansı ve hesabıma ilişkin 
+getirilerdir. Ayrıca sistemimin bugün pivot yöntemiyle işlem yapmaya başladığım zamankiyle tamamen 
+aynı göründüğünü de söyleyeceğim. Konsept aynı ve rafine edildiğini söylemek hoşuma gidiyor.
+Yaşamın birçok yönünde olduğu gibi, bu sistemi de mevcut duruma göre ince ayar yapmak 
+için düzenli olarak yeniden değerlendirmeniz gerekir. Size sistemimi geliştirmek için kullanılan 
+gerçek dünya örneklerimi vereyim. Konsept kolaydır ancak döviz çiftlerine aşina olmanız ve 
+verilerin gösterdiği her şeye açık olmanız gerekir.
+Pivot yöntemiyle işlem yapmaya ilk başladığımda, çeşitli zaman dilimleri ve döviz çiftleri üzerinde kapsamlı 
+araştırma yaptıktan sonra dört döviz çiftinde işlem yapmaya karar verdim: AUDJPY, GBPUSD, NZDJPY ve 
+USDJPY. Neyin işe yarayıp neyin yaramadığını görmek için yaptığım her ticareti takip etmeye karar verdim. 
+Yalnızca tarihsel verilere güvenmek istemedim.
+Yaklaşık üç ay sonra, geçmiş verilerde umut verici görünen NZDJPY çiftinin sürekli 
+olarak olumlu sonuçlar üretmediğini hemen öğrendim. Aslında daha açık konuşayım, 
+üç aydır aralıksız para kaybediyordum. Para kaybettiğimi fark ettiğimde, o döviz 
+çiftinde riske atılan para miktarını azaltmaya başladım, ancak bir veya iki kötü ay 
+boyunca silahı atlayıp bir döviz çiftini düşürmek istemedim. Borsanın bile iyi ayları ve 
+kötü ayları vardır. Ancak daha fazla takip sonrasında bu döviz çiftinin sistemimden 
+kaldırılması gerekti.
+NZDJPY döviz çiftinin kademeli olarak kaldırılmasına neden olan aynı konsept, sonunda AUDJPY 
+ve GBPUSD çiftlerinin de ortadan kaldırılmasına neden oldu. AUDJPY ve GBPUSD döviz 
+çiftleriyle ilk kez işlem yapmaya başladığımda tarih bana 10 piplik Al/Kar ve Durdur/Zarar, 15 
+piplik T/P ve S/L ve 20 piplik T/P ve S/ ile işlem yapmamı söyledi. L. Veriler
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Devam eden işlemlerden elde edilen veriler, AUDJPY'yi kademeli olarak yalnızca on piplik işlemlere 
+ve GBPUSD'yi yalnızca 20 piplik işlemlere düşürdü. Ancak yine de, AUDJPY ve GBPUSD çiftlerinin geri 
+kalan kısmı için yapılan işlemlerin, paramı riske atma konusunda kendimi rahat hissetmem için 
+%50'ye (aslında %55 kazanma oranı) çok yakın olduğunu fark ettim. Bu, zar zor kazanılan parayı yazı 
+tura atarak bahse girmekle aynı şey olurdu. Bir yatırım hesabını bu şekilde çalıştırmak istemedim.
+Yani, başlangıçtaki dört döviz çiftimden üçünü çıkardıktan sonra düşüşteydim ama dışarıda 
+değildim. USDJPY döviz çifti iyi performans gösteriyordu ve sonuçlardan memnundum. O 
+zamanlar tarih, 10 ve 15 piplik Al/Kar ve Durdur/Zarar pozisyonlarında işlem yapmam 
+gerektiğini gösteriyordu. Grafikleri izlediğim için döviz çiftinin 20 pip seçeneğini mümkün 
+kılabilecek daha uzun vadeli işlemlere başladığını fark ettim. Canlı işlemlerde kendi takibimi 
+gerçek para olmadan çalıştırdıktan sonra (gerçek para 10 ve 15 piplik işlemlerdeydi, ancak 
+trendi takip edebiliyordum) denkleme bir miktar gerçek paranın girmesine izin verecek kadar 
+kendime güvenmeye başladım. Brokerimin hesabımda izin verdiği en küçük lot büyüklüğü ile 
+20 piplik işlemi sistemime eklemeye başladım. Sonuçlar geldikçe galibiyet/mağlubiyet 
+yüzdelerini takip ettim. 10 piplik ticaret için mevcut kazanç yüzdesi %70, 15 piplik ticaret için 
+%72 ve 20 piplik ticaret için %73'tür.
+Mühendislik geçmişimin bir sonucu olarak, verileri biraz daha derinlemesine 
+inceleyebileceğimi hissettim. İşlem platformu yapılan tüm işlemleri ve sonuçlarını kaydettiği 
+için, işlemin yapıldığı günkü kazanç/kayıp yüzdelerine bakabildiğimi fark ettim. İşlem 
+platformunun Doğu Saat Dilimi'nde değil GMT'de olduğunu aklımda tutmam gerekiyordu, 
+ancak işlemlerimi haftanın günlerine göre ayırmayı başardım ve bu da sistemimi daha da 
+uyarlamamı sağladı. Pazar ve Cuma günü yapılan işlemlerin kazanma yüzdesinin %60'tan az 
+olduğunu gördüm. Pazartesi %73'e yükseldi, Salı %69'da güçlü kaldı ve Perşembe %66'daydı. 
+Çarşamba günkü veriler, %91'lik bir kazanma oranıyla gerçekten dikkatimi çekti. Önceki 
+bölümde de belirtildiği gibi, bu eğilimi izlemeye devam edeceğim ve ticari riskimi haftanın 
+gününe göre belirlemeye başlayabilirim.
+Kârlı sonuçlar elde etmek için sistemimi izlemeye ve gerektiğinde sistemi revize etmeye devam 
+edeceğim. Yeni verilere bağlı olarak bazı döviz çiftlerini tekrar ekleyebilirim veya her işlemin 
+karını artırırken zararı azaltabilirim. Ayrıca ticaretimi ek sistemlere genişletmeyi de 
+araştıracağım. Haber bültenlerine dayanarak alım satımları ayarlamaya ve takip eden 
+durdurmayı kullanırken hangi döviz çiftinin en çok seyahat ettiğini görmeye çalışıyorum. Bu ve 
+diğer ticaret seçenekleri hakkındaki araştırmayı asla durdurmayacağım
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Ayrıca araştırmayı asla bırakmamanızı tavsiye ederim.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Ticaret Kaynakları
+http://www.babypips.com/ - Bu site Forex hakkında bilgi edinmek ve Forex ile ilgili çeşitli 
+konuları başkalarıyla tartışmak için mükemmel bir kaynaktır. Özellikle Forex dünyasına yeni 
+başlayanlar için bu siteyi yeterince tavsiye edemem.
+http://www.forexfactory.com/ - Bu site, her para birimiyle ilgili haberler için mükemmel olmasının 
+yanı sıra, Forex uzmanları ve acemilerin ek blogları için de harika bir yerdir. Takvim özelliği birinci 
+sınıftır ve yayınlanan haberlerin etkisinin ne kadar büyük olabileceğini görebilirsiniz. Bu siteyi haber 
+ticaret sistemim için yoğun olarak kullanmayı planlıyorum.
+https://www.finfx.fi/?q=tr – Bu, şu anda kullandığım komisyoncunun web sitesi. Geçmişte başkalarını 
+kullandım ve birkaç harika seçenekten bahsedeceğim, ancak bir komisyoncuyu diğerine itmek için 
+burada değilim.
+http://www.fxstreet.com/ - Bu site haber ve analizlerin yanı sıra Forex'in sizin yararınıza 
+kullanılabilecek diğer birçok yönü için başka bir yerdir.
+http://www.dailyfx.com/ - Sanki yeterli haber ve analiz siteniz yokmuş gibi, 
+bu site de güncel Forex bilgileri için iyi bir kaynaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Forex Ticareti El Kitabı: Para Ticareti Yapmak İçin Kurallara Dayalı Yaklaşım Javier H. 
+Paz tarafından. – Bu kitap Forex dünyasına harika bir giriş niteliğindedir. Bay Paz, 
+Forex ticaretimin ilk dört yılında yaptığım hataların çoğunu anlatıyor. Başkalarının 
+hatalarından ders alma yeteneğiniz varsa bu kitabı okumanızı öneririm. Siz de 
+benim gibi inatçıysanız, kendi hatalarınızı yapıp daha sonra yazabilirsiniz!
+www.forexgercekleri.xyz - [Twitter: @eseckal]

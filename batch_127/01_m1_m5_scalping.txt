@@ -1,0 +1,121 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 7\Baskı 7\M1-M5 Forex Scalping Stratejisi (6 sayfa) - @eseckal.pdf
+PAGES: 6
+
+
+=== PDF PAGE 1 ===
+ 
+ 
+M1/M5 FOREX 
+SCALPING STRATEGY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+Ticaret Göstergeleri
+Bu ticaret sisteminde iki farklı gösterge kullanacağız ve her ikisi de osilatördür. Trendi 
+belirlemek için MACD göstergesini, giriş noktalarını belirlemek için stokastik göstergeyi 
+kullanacağız.
+Bu göstergeler yeni yatırımcılara karmaşık görünebilir, bu nedenle göstergelerin kendisi 
+hakkında kısa bir tartışmayla başlayalım. Bu bölümü bitirdiğinizde aslında o kadar da 
+karmaşık olmadığını, sadece öyle göründüğünü anlayacaksınız.
+MACD
+Bakmak istediğimiz ilk gösterge MACD'dir (Hareketli Ortalama Iraksama Yakınsaması). 
+Şuna benziyor:
+MACD göstergesi fiyata göre dalgalar oluşturur. Gerçekte yaptığı şey, hızlı ve yavaş bir EMA 
+(üstel hareketli ortalama) arasındaki farkı göstermektir. Hareketli ortalamaların yanı sıra 
+MACD muhtemelen Forex'te en çok kullanılan göstergelerden biridir.
+MACD'yi kullanarak trendleri belirleyebiliriz ve daha da önemlisi bir trendin ne zaman değişmek 
+üzere olduğuna dair sağlam bir gösterge elde ederiz. Fiyatların yer aldığı grafikteki MACD 
+göstergesine bakıldığında şöyle görünür:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+MACD'nin dahil olduğu grafikte göstergenin trendi nasıl takip ettiğini görebiliriz. Fiyat 
+yükseliş eğilimindeyken MACD de öyleydi. Aynı şekilde fiyat değiştiğinde MACD de aynı 
+şekilde değişti.
+MACD'nin merkez noktaya ulaşması ve bunun altından geçmesi, trendin muhtemelen 
+değişeceğine dair göstergemizdir. Bu durumda, yükseliş trendinden yaklaşık 2 hafta boyunca 
+yatay bir aralıkta işlem görmeye başladı.
+Aslında bu göstergeyi Forex'te kullanmanın birçok yolu vardır. Amacımız doğrultusunda kısa vadeli 
+trendi belirlemek için kullanacağız. MACD hakkında daha fazla bilgi edinmek istiyorsanız Google'da 
+arama yaparsanız her türlü bilgiyi bulacaksınız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Stokastik
+Kullanacağımız bir sonraki göstergeye Stokastik adı veriliyor. Bu gösterge, bir piyasanın aşırı 
+alım veya aşırı satım durumunu göstermesi amaçlanan bir momentum göstergesidir. 
+Göstergenin kendisi şöyle görünür:
+Ancak dikkat etmeniz gereken bir ana alan var.
+Soldaki ekran görüntüsüne baktığımızda bizim için 
+önemli olan iki rakam var. 80 ve 20 aşırı alım ve aşırı 
+satım bölgelerini gösterir.
+Göstergedeki iki çizginin 80'in üzerinde olması piyasanın 
+aşırı alımda olduğunun göstergesidir. Çizgilerin 20 
+seviyesinin altında olması piyasanın aşırı satımda 
+olduğunun göstergesidir.
+Bu gösterge, mevcut piyasa koşullarını anlatan bir osilatör olduğu kadar aynı zamanda bir 
+zamanlama göstergesidir. İşlemlere en yüksek kar potansiyeline sahip olduklarında girdiğimizden 
+emin olmak için bunu işlemlerimizin giriş noktalarını zaman zaman kullanacağız.
+Sisteme Genel Bakış ve Grafik Kurulumu
+Hangi göstergeleri kullanacağımıza ve bunları ne için kullanacağımıza dair temel bir fikir edinerek 
+hemen konuya girelim.
+Grafik Kurulumu
+EUR/USD veya GBP/USD'nin M1 grafiğini açın ve aşağıdaki göstergeleri ekleyin:
+1. MACD (12, 26, 9) – Bu, çoğu grafik yazılımında standart ayardır.
+2. Stokastik (%K8, %D3, Yavaşlama 3) – Bu, %K ayarını değiştirmenizi gerektirebilir. 
+Metatrader gibi yaygın grafik yazılımı bunu varsayılan olarak %K12 olarak ayarlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Giriş Sinyalleri için Alış ve Satış Kuralları
+1. SATIN AL Ticaret Kuralı:
+MACD > 0 ve Stokastik gösterge 20'nin altından 20'nin üzerine çıkıyor
+===>SİNYAL SATIN AL
+2. SAT Ticaret Kuralı:
+MACD < 0 ve Stokastik gösterge 80'in üstünden 80'in altına geri dönüyor
+===>SATIŞ SİNYALİ
+Zarar Durdurma Yerleştirme
+Alım işlemleri için en son desteğin 1 pip altına, satış işlemleri için ise en son direnç seviyesinin 
+1 pip üstüne zararı durdurma koyun.
+Kar Alma Stratejisi (M1, M5)
+M1 grafikleri: İşlemi en az 15 pip veya daha fazla kapatın. M5 
+grafikleri: İşlemi en az 25 pip veya daha fazla kapatın.
+Bu güçlü forex ölçeklendirme stratejisini daha iyi anlamak için aşağıdaki 
+Euro/ABD Doları M1 grafiğine göz atalım…
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+EUR/USD M1 Tablosunda İşlem Örneği
+Açıklama
+Yukarıdaki 1 dakikalık EUR/USD grafiği bize EUR/USD M1 grafiğinde alış sinyali vermektedir.
+Neden? MACD > 0 ve yavaş Stokastik göstergesi aşağıdan 20'nin üzerine çıkıyor.
+EUR/USD'yi 1,3311'den satın alıyoruz ve zararı durdurma seçeneğimiz, en son destek olan 1,3307'nin (sadece 4 
+pip zarar durdurma) 1 pip altına yerleştiriliyor.
+15 piplik hedef, 7 dakika sonra 1,3326'da kolaylıkla vuruldu. Bu ticarette risk-ödül oranı 
+1:3!
+İyi şanslar ve aşağıdaki muhteşem ticaret bonusunu almayı unutmayın!
+Bu Sistemi Gerçekten Test Etmek İçin 30$ Gerçek Ticaret Parası Alın!
+XM, bugün gerçek parayla işlem yapmaya başlamanız için size 30$ (veya eşdeğeri) verecek. 
+Koşulsuz…
+www.forexgercekleri.xyz - [Twitter: @eseckal]

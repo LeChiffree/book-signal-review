@@ -1,0 +1,297 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 6\Baskı 6\ICT Block Örnekleri (18 sayfa) - @eseckal.pdf
+PAGES: 18
+
+
+=== PDF PAGE 1 ===
+LUMI
+TRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+High
+Low
+Higher High
+Lower Low
+Bearish Breaker
+Bearish Breaker – a bearish range or down-close
+candle in the most recent swing Low prior to an old
+High being violated. It becomes valid once stops
+are taken above a previous high and breaks below
+the swing low that contains the breaker candle.
+Key Elements – High – Low – Higher High – Lower
+Low.
+The Higher High is a key! It is a stop run
+which indicates price to go lower. The Lower
+Low is a key! The closure below indicates
+price wants to continue lower.
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Bullish Breaker
+High
+Low
+Lower Low
+Higher High
+Bullish Breaker – a bullish range or up-close candle in
+the most recent swing High prior to an old Low being
+violated. It becomes valid once stops are taken below a
+previous low and breaks above the swing high that
+contains the breaker candle.
+Key Elements – Low – High – Lower Low – Higher High.
+The Higher High is a key! The closure
+above indicates price wants to continue
+higher. The Lower Low is a key! It is a stop
+run which indicates price to go higher.
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Bullish Order Block
+Bullish order block: This block is
+determined by move down, followed
+by the price going up.
+An order block is a candlestick that initiated a move due
+to the manipulation of the market maker. Up move or
+down move began with it, and therefore a large number
+of limit orders of market makers are concentrated
+around OB.Bullish OB
+Support Level
+This up candle must trade through the Bullish OB candleTrade through this high to
+consider Bullish OB
+High
+Price may run away from the OB if it is valid. Often there is
+a strong reaction so you need to be patient for it to retrace
+its move and retest the OB.
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Bullish Order Block
+Bullish OB
+Support Level
+Mean Threshold 
+Mean threshold – is the 50% level of the
+total range of the order block; we expect
+price to respect this level. 
+High
+External Range Liquidity
+Buy Stops
+Potential sell stop level
+Buy Level
+Support Level
+Mean Threshold 
+High
+Take profit
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Bearish Order Block
+Resistance Level
+Low
+Bearish OB
+Bearish order block: This block is
+determined by move up and then
+goes down.
+This down candle must trade through the Bearish OB candle
+Trade through this low
+to consider Bearish OB
+Price may run away from the OB if it is valid. Often there is
+a strong reaction so you need to be patient for it to retrace
+its move and retest the OB.
+The Order Block is validated when the high of the lowest down close
+candle or the low of the highest up-close candle is traded through by a
+more recently formed candle. Ideally the best OB will not see the price
+trade down below the midway point (mean threshold) of the entire body
+of the candle (bearish). 
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Bearish Order Block
+Resistance Level Resistance Level
+Mean Threshold Mean Threshold 
+External Range Liquidity
+Sell Stops
+Bearish OB Bearish OB
+Take profit
+Sell Level Low Low
+Mean threshold – is the 50% level of the
+total range of the order block; we expect
+price to respect this level. 
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Reclaimed Order Block
+Bullish Reclaimed Order Block – is a candle
+or bar that was previously used to Buy
+Price and a short-term bounce confirms
+minor displacement. In the Buy Side of
+Curve – these “Old” blocks will be
+reclaimed longs. 
+Bearish Reclaimed Order Block – is a candle
+or bar that was previously used to Sell Price
+and a short-term decline confirms minor
+displacement. In the Sell Side of Curve –
+these “Old” blocks will be reclaimed shorts. 
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Bullish Mitigation Block
+A bullish mitigation block  occurs when there is
+a failed collection of SSL at previous market
+lows. 
+This failure leads to the formation of a higher
+low after the price fails to collect sell-side
+liquidity at previous highs due to an order
+block or rejection block. 
+This pushes the price up to collect BSL liquidity
+at the nearest previous high, resulting in the
+formation of a higher high.
+Once the price has formed a higher high, it will
+pull back down to fill the liquidity void that was
+created when the price was pushed up by the
+order block or rejection block. As the price
+pulls back to fill in the liquidity void, it will use
+the previously violated high as a reference
+point to fill 50% of the liquidity void before
+continuing its bullish movement.
+High
+High Low
+Low
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Bearish Mitigation Block
+A bearish mitigation block occurs when there is
+a failure swing in the market, resulting in a
+lower high being formed after the price fails to
+collect BSL at previous highs due to an order
+block or rejection block. 
+After the price has formed a lower low, it will
+pull back up to fill the liquidity void that was
+created when the price was pushed down by
+the order block. In an attempt to fill in the
+liquidity void, the price will use the previously
+violated low as a reference point to fill 50% of
+the liquidity void before continuing its
+bearish/selling movement. 
+High
+Low
+Lower High
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Rejection Block
+Bearish Rejection Block is
+when a Price High has formed
+with long wicks on the high(s)
+of the candlestick(s) and
+Price reaches up above the
+body of the candle(s) to run
+Buy Side Liquidity out before
+Price Declines.
+Bullish Rejection Block is when a
+Price Low has formed with long
+wick(s) on the low(s) of the
+candlesticks) and Price reaches
+down below the body of the
+candle(s) to run Sell Side
+Liquidity out before Price Rallies
+higher. 
+The key is it must be a swing low/high that has a wick or wicks.
+Tips:
+ 
+To identify rejection blocks,
+traders typically begin by
+analyzing price action on the
+higher time frame charts, such
+as the daily or 4-hour chart.
+They look for areas where price
+has consistently bounced off a
+certain level or has been unable
+to break through a certain level.
+These levels are often referred
+to as “key support and
+resistance levels”.
+Once the key levels have been
+identified, traders will then
+move down to lower time
+frames, such as the 1-hour or
+15-minute chart, to identify
+potential entry and exit points
+for their trades.
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Propulsion Block
+Propulsion Block is a candle or bar that has
+previously traded down (up) into a down (up)
+candle or bullish (bearish) OB and is taking on the
+role of price support for higher (lower) price
+movement.
+ 
+We have a descending candle, which shows the
+willingness of the price to move higher, and there is
+a candle that is trading directly in the OB
+This candle becomes a propulsion block.
+This new so-called OB will be very sensitive, it should
+never see the mean threshold exceeded, 50% of the
+body. Most of the time it will trade back to the high of the
+candle and then immediately we will see a reaction.
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Examples
+Breaker Block
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Order Block
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Reclaimed Order Block
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Mitigation Block
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Rejection Block
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Propulsion Block
+LUMITRADERS
+www.forexgercekleri.xyz - [Twitter: @eseckal]

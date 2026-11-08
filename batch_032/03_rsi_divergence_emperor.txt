@@ -1,0 +1,354 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 8\Baskı 8\RSI Uyumsuzlukları - Empreror BTC (22 sayfa) - @eseckal.pdf
+PAGES: 22
+
+
+=== PDF PAGE 1 ===
+İçindekiler
+1. Giriş ................................................................ .......1
+2. RSI Nedir.................................................. ................ 2
+3. RSI Farklılığı.................................................. ..... 4
+4. Farklılıkların Türleri.................................................. 6
+1. Yükseliş Farklılıkları.................................................. 6
+A. Güçlü Boğa Farkı ..................................... 6
+B. Orta Düzey Boğa Farkı ................................... 7
+C. Zayıf Boğa Uyumsuzluğu.................................. 8
+D. Gizli Boğa Farkı ..................................... 9
+2. Düşüş Farklılıkları ...................................................10
+A. Güçlü Ayı Sapması ................................... 10
+B. Orta Ayı Sapması ................................... 11
+C. Zayıf Ayı Uyumsuzluğu ................................... 12
+D. Gizli Ayı Uyumsuzluğu ................................... 13
+5. Farklılaşma Stratejisi ...................................................14
+6. Risk yönetimi................................................................ 19
+7. Sonuç ................................................................ ......21
+RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+1. Giriş
+FarklılıkFiyat hareketi ile RSI arasındaki fark, piyasanın dönüm 
+noktasının çok güçlü bir göstergesidir. Swing ticaretinin yanı sıra 
+scalping için de kullanılabilir.
+Bu PDF'yi okuduktan sonra şunları yapabileceksiniz:
+➢ Nasıl olduğunu öğreninRSIgöstergehesaplanmış.
+➢Ne olduğunu bilRSI sapmasıaraç.
+➢Farklı öğrenfarklılık türlerive her birinin nasıl 
+kullanılacağı.
+➢UygulamakRSI ticaret stratejisi.
+➢Anlamakrisk yönetimiRSI stratejisiyle işlem 
+yaparken.
+Bunu size açıklamak için elimden gelenin en iyisini yapıyorum. Lütfen 
+bu öğreticiyi incelemek için zaman ayırın. Herhangi bir şüpheniz 
+olması durumunda sorularınızı yorum kısmına yazmayı unutmayın.
+Aşk,
+İmparatorBTC
+1 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+2. RSI Nedir?
+RSI'yi manuel olarak hesaplamanıza gerek olmasa da tam 
+olarak ne olduğunu anlamak bir şekilde faydalıdır. Bu, 
+RSI'nin anlamsız kullanımlarının önlenmesine yardımcı olur.
+Göreceli güç endeksi (RSI), ilk olarak Amerikalı 
+makine mühendisi tarafından geliştirilen bir 
+momentum osilatörüdür.J. Welles Wilder Jr.
+teknik göstergelerin babası olarak da bilinir.
+Şekil 1. J. Welles Wilder
+Jr. 1990.
+RSI göstergesi ilk kez onun döneminde tanıtıldı.
+1978 tarihli ufuk açıcı kitap, “Teknik Ticaret Sistemlerinde Yeni Kavramlar”.
+Bay Wilder'ın kitabında belirttiği gibi RSI denklemi şöyledir:
+100
+1 = 100 − [ ]1 +  1
+Sırasında:
+1=                    14     
+14     
+İlk RSI'nın hesaplanması için önceki 14 günün kapanış fiyatlarına 
+ihtiyacımız var. Bu 6 adımda özetlenebilir:
+1. Önceki 14 günün UP kapanışlarının toplamını elde edin ve bu 
+toplamı 14'e bölün. Bu ortalama UP kapanışıdır.
+2. Önceki 14 günün AŞAĞI kapanışlarının toplamını alın ve bu 
+toplamı 14'e bölün. Bu ortalama AŞAĞI kapanışıdır.
+2 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+3. Ortalama UP kapanışını ortalama AŞAĞI kapanışına bölün. Bu 
+Göreceli Güç 1'dir (  1).
+4. 1'i ekleyin  1.
+5. 4. adımda elde ettiğiniz sonucu 100'e bölün.
+6. 5. adımda elde edilen sonucu 100'den çıkarın. Bu ilk 
+RSI'dır.
+Bu noktadan sonra aşağıdaki RSI'ları hesaplamak için yalnızca önceki ortalama 
+UP kapanışını ve önceki ortalama Down kapanışını kullanmak gerekir, denklem 
+şu şekilde olacaktır:
+100
+2 = 100 − [ ]1 +  2
+((                          × 13) +      '           )
+Sırasında: 2=
+14
+(                            × 13) +      ′            
+14( )
+Bu denklem aşağıdaki 6 adıma çevrilebilir:
+1. Bir sonraki ortalama UP kapanışını elde etmek için:
+Önceki ortalama UP kapanışını 13 ile çarpın, bu tutara 
+bugünkü UP kapanışını ekleyin ve toplamı 14'e bölün.
+2. Bir sonraki ortalama AŞAĞI kapanışı elde etmek için:
+Önceki ortalama DOWN kapanışını 13 ile çarpın, bu tutara 
+bugünkü DOWN kapanışını ekleyin ve toplamı 14'e bölün.
+Adım 3,4,5,6, buradakilere benzer   1.
+Aşağıdaki RSI'ları elde etmek için aynı işlemi tekrarlıyoruz:   2.
+RSI hesaplaması hakkında daha fazla ayrıntı isteyenler için lütfen Bay 
+Welles'in “Teknik Ticaret Sistemlerinde Yeni Kavramlar” kitabına bakın.
+3 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+3. RSI Sapması
+Not: RSI için varsayılan zaman dilimi 14'tür. Size uygun olan herhangi bir 
+zaman dilimini kullanabilirsiniz. RSI'nin zaman periyodu 14 ise yalnızca 14 
+mum referans alınmalıdır.
+Aşağıdaki örneklerde, farklılıkları daha net göstermek için daha düşük bir 
+TF'ye yakınlaştırdım, dolayısıyla örneklerde 14'ten fazla mum görülebiliyor.
+Fiyat belirli bir yönde hareket ettiğinde momentum osilatörünün de 
+aynı yönde (ve şekilde) hareket etmesi gerekir.
+Örneğin. Fiyat daha yüksek bir zirve yaptığında momentum osilatörünün 
+de daha yüksek bir zirve yapması gerekir. Buna yakınsama denir.
+Şekil 2. RSI yakınsaması örneği.
+4 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Nadir durumlarda momentum osilatörü ve fiyat benzer bir 
+yol izlemez. Bu olguya Diverjans denir.
+Bunun nedeni, yeniden inceleme süresindeki (ossilatörün 
+zaman dilimi) ortalama değişimin fiyata göre farklı yönde 
+olmasıdır.
+Farklılıklar, yüksek zaman dilimlerinde potansiyel geri dönüşleri bulmak veya daha 
+düşük zaman dilimlerinde salınım/scalping fırsatları için kullanılır.
+Her seviyeye yönelik sistematik öğrenme dersleriyle 
+oluşturduğum Ücretsiz Bitcoin Ticareti Ustalık Sınıfı 
+Mentorluğuna katılmanızı şiddetle tavsiye ederim. 
+Tamamen ücretsizdir ve her zaman öyle kalacaktır. 
+Senin parana ihtiyacım yok. Annem bana yeterince 
+veriyor.
+Bağlantı -https://t.me/EmperorbtcTA
+5 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+4. Farklılık Türleri
+1. Yükseliş Farklılıkları
+Düşüş trendi fiyat hareketi tersine döndüğünde oluşurlar. 
+Fiyatın ve osilatörün en düşük seviyeleri senkronize değil. 
+Dibini tahmin etmede faydalıdır.
+Yükseliş farklılıklarını bulmak için her zaman osilatörün en düşük 
+seviyelerine ve fiyata bakın. Trend olmayan bir pazarda farklılıklar 
+aramayın.
+A. Güçlü Boğa Uyumsuzluğu
+Fiyat daha düşük bir düşük yapar ancak osilatör daha yüksek bir düşük 
+yapar. Bu, fiyat düşmesine rağmen seçilen dönemdeki genel ortalama 
+değişim oranının arttığı anlamına gelir.
+yani satıcılar aynı ivmeyle satış yapmıyor.
+Şekil 3. Güçlü yükseliş sapması örneği.
+6 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+B. Orta Boğa Uyumsuzluğu
+Fiyat çift dip yapar ve osilatör daha yüksek bir dip yapar. Bu, 
+aynı fiyat seviyelerinde momentumun arttığı anlamına gelir.
+Aşağıda bir örnek sunulmuştur.
+Şekil 4. Orta düzeyde yükseliş sapması örneği.
+7 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+C. Zayıf Boğa Uyumsuzluğu
+Fiyat daha düşük bir dip oluşturur ancak osilatör eşit düşükler (veya çift 
+dip) oluşturur. Bu, fiyat düşüyor olsa bile momentumun bozulmadığı 
+anlamına gelir.
+Şekil 5. Zayıf yükseliş sapması örneği.
+8 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+D. Gizli Boğa Uyumsuzluğu
+Tuhaf bir şekilde fiyat artıyor ve momentum osilatörünün değeri 
+düşüyor. Bu, azalan bir momentumda bile fiyatı yukarı çekmeye 
+yetecek kadar alım ilgisinin olduğu anlamına geliyor.
+Şahsen bu tür yükseliş farklılığını takas etmiyorum ama işte bir 
+örnek.
+Şekil 6. Gizli yükseliş sapması örneği.
+9 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+2. Düşüş Farklılıkları
+Tepeleri bulmak için düşüş yönlü sapmalar kullanılır, bu nedenle yalnızca Yükseklere 
+bakmayı unutmayın.
+A. Güçlü Ayı Uyumsuzluğu
+Fiyat Yüksek Yüksek yapar, ancak osilatör Düşük Yüksek yapar. Bu, 
+fiyatın yükselmesine rağmen geriye dönük inceleme periyodunun 
+ortalama ivmesinin azaldığı anlamına gelir.
+Bu potansiyel bir üst sinyaldir.
+Şekil 7. Güçlü düşüş eğilimi örneği.
+10 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+B. Orta Ayı Sapması
+Burada fiyat çift tepe yapar ancak osilatör Düşük Yüksek yapar. 
+Bu, aynı fiyat seviyesinde momentumun azaldığı anlamına 
+gelir.
+Bu benim kişisel favori kurulumlarımdan biri.
+Şekil 8. Orta dereceli düşüş sapması örneği.
+11 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+C. Zayıf Ayı Uyumsuzluğu
+Fiyat daha yüksek bir zirve yapar ancak osilatör çift tepe yapar. Bu, 
+fiyat yükselse bile ortalama momentumun yükselmeye hazır olmadığı 
+anlamına gelir.
+Şekil 9. Zayıf düşüş eğilimi örneği.
+12 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+D. Gizli Ayı Uyumsuzluğu
+Fiyat Daha Düşük bir Yüksek yapar, ancak Osilatör Daha Yüksek bir Yüksek 
+yapar. Bu, yeniden inceleme döneminde ortalama momentumda bir artış 
+olduktan sonra bile fiyatın düşeceği anlamına gelir.
+Şekil 10. Gizli düşüş eğilimi örneği.
+13 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+5. Farklılaşma Stratejisi
+Artık diverjansın ne olduğunu ele aldığımıza göre, adım adım nasıl 
+kullanılacağını anlayalım.
+1. Adım :Daha yüksek zaman dilimi seviyelerini, yüksek aralığı, düşük aralığı veya Fibonacci geri 
+çekilme alanlarını işaretleyin.
+Şekil 11. Aralığın belirlenmesi.
+2. Adım :Fiyat önemli seviyelere yaklaştıkça çok daha düşük bir zaman 
+dilimine inin. RSI farklılığını arayın. Fiyat hayati bir seviyeye yaklaştığında 
+veya aşağıdan yüksek bir aralığa ulaştığında düşüş eğilimini kısa tutun.
+Şekil 12. Ayı RSI sapması.
+14 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+RSI göstergesinin mumun yüksek/düşük veya fitillerini değil, mum 
+kapanışlarını dikkate aldığını unutmayın. Bazen fitiller dikkate alındığında fiyat 
+daha yüksek bir tepe oluşturabilir, ancak mum kapanışı daha yüksek 
+olmayabilir.
+Bunu netleştirmeye yardımcı olması için bir çizgi grafiği seçebilirsiniz; Çizgi grafik moduna 
+geçme ayarı aşağıdaki gibidir:
+Şekil 13. Çizgi grafik modu.
+15 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Şekil 14. Çizgi grafiği kullanarak düşüş eğilimi gösteren RSI sapması.
+Artık sapmanın önceki mum grafiğiyle karşılaştırıldığında ne kadar net 
+olduğunu görebilirsiniz.
+Ticaret örneği 1:
+Günlük güçlü bir düşüş eğilimi kullanarak 2021 boğa koşusunun zirvesini nasıl 
+yakalayabileceğinizi burada bulabilirsiniz.
+Şekil 15. BTC grafiğinde güçlü düşüş eğilimi.
+16 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Şimdi geriye dönüp bakıldığında bu kolaydır, ancak her farklılığı kısaltamazsınız, 
+o halde nasıl bilebilirdiniz?
+1) Günlük zaman dilimi farklılıkları, daha küçük zaman dilimi 
+farklılıklarından daha güçlü ve anlamlıdır.
+2) Giriş tetikleyicisi olarak kullanmak yerine kısa bir önyargıya sahip olmak için 
+kullanabiliriz.
+3) Aşağıdakilere göre girişi yapın:
+Şekil 16. Bitcoin ticaret kurulumu.
+17 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Ticari örnek 2:
+Bu, kötü ticaretin nasıl önleneceğinin bir örneğidir. Her farklılık bir giriş 
+tetikleyicisi veya ticaretin nedeni değildir.
+Şekil 17. Bitcoin 4H grafiği.
+Fiyata ve hatta ilgili fib seviyelerine hala makul bir tepki 
+veren güçlü destek seviyelerini aramak önemlidir.
+Bir düşüş trendi boyunca boğa yönlü sapmalar meydana gelebilir, bunlar fiyatta bir 
+miktar rahatlama sağlar ancak önceki örnekte olduğu gibi bir ChoCh veya yapı 
+kırılması görmediğiniz sürece, ticareti tetikleyen bir durum yoktur.
+Bu durumlarda ya yapıyı kırarsınız ya da farklılığı bir giriş tetikleyicisi olarak 
+kullanabilmek için bir aralık oluşturursunuz.
+18 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+6. Risk yönetimi
+RSI farklılığını giriş ölçütü olarak kullanırken hedefler ve zarar durdurmalar 
+fiyat hareketine dayanır. Bunları yerleştirmek için birden fazla sistem 
+olabilir; Farklılığın mevcut ticaret sistemlerine geçiş olarak veya "faiz" fiyat 
+noktalarında giriş tetikleyicisi olarak kullanıldığını unutmamak önemlidir.
+Örneğin “ilgi alanı” bir destek bölgesi olabilir. Fiyatın sıçraması muhtemel 
+olduğundan genellikle uzun pozisyonları destek bölgesinde ararsınız. Fiyatın 
+likidite arayışında olması nedeniyle eşit yüksekliğe sahip bir alan aynı zamanda bir 
+“ilgi” alanıdır. Bunu short/satış için kullanmak istersiniz (uzun pozisyonların 
+kapanması da satış anlamına gelir).
+Bu tam senaryo, konsolidasyon aralığımızdaki Bitcoin'de görüldü. (15m 
+zaman dilimi).
+Şekil 18. Yükseliş RSI sapması.
+19 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+NOT: Bunu çalıştırmanın en iyi yolu, LTF'de sapma gibi giriş tetikleyicilerine sahip 
+olmaktır; HTF seviyeleri veya araçları ise hedefinizi ve riskinizi tanımlar veya fiyat 
+işlem planınızı takip etmeden önce yüzde birkaç oranında durdurulmayı önlemek 
+için zararı durdurma yerleşimini tanımlar.
+20 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+7. Sonuç
+Umarım bu eğitim, RSI göstergesinin nasıl 
+hesaplandığını, fiyat ile RSI arasındaki farkın ne 
+anlama geldiğini ve RSI farklılıklarını günlük 
+işlemlerinize nasıl uygulayacağınızı öğrenmenize 
+yardımcı olmuştur.
+Bu mentorluk serisinde öğrenecek daha çok şeyimiz var. 
+Bu sana bildiğim her şeyi öğretmek için elimden gelen 
+çabayı gösteriyor.
+Öğrendiklerinizi mümkün olduğunca çok sayıda 
+grafikte uygulamanızı tavsiye ederim.
+Zaman ayırdığınız için teşekkür ederiz. Bu topluluğun bana 
+her gün verdiği sevgi ve desteği takdir ediyorum.
+Aşk,
+İmparatorBTC
+21 RSI Sapması
+www.forexgercekleri.xyz - [Twitter: @eseckal]

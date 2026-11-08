@@ -1,0 +1,742 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 10\Baskı 10\MACD Göstergesinin Sırrı - Jayden Smith (62 sayfa) - @eseckal.pdf
+PAGES: 62
+
+
+=== PDF PAGE 1 ===
+MACD İÇİ GİZLİ GÖSTERGESİ
+MACD göstergesinin içindeki sır
+MACD GÖSTERGESİNİN İÇ SIRRI
+JAYDEN SMITH JaydenSmithbook.com
+Translated from Vietnamese to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+JaydenSmithbook.com
+Merhaba okuyucular!
+Teknik analizi desteklemek amacıyla göstergelerin hesaplanması üzerine yıllar süren araştırmalardan sonra, 
+okuyucular için uygun koşullar yaratmak ve araştırma süresini kısaltmak amacıyla bu kitap aracılığıyla MACD 
+hakkında öğrendiğim tüm bilgileri yeniden yazmak ve ayrıca bir belge oluşturmak istiyorum. Özellikle 
+finansal piyasalara ilişkin göstergeler ve diğer istatistiksel yöntemler üzerine araştırmacılar.
+Bu kitap, MACD hakkında kişisel olarak beğendiğim bilgileri içermektedir ve hem 
+yatırımcılar hem de eğitmenler için oldukça eksiksizdir.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+JaydenSmithbook.com
+YAZARIN TELİF HAKKI KORUNMAKTADIR
+Bu, telif hakkıyla korunan bir belgedir. Bunu öğretim materyali olarak kullanmak isteyen 
+eğitimciler veya ticari olarak yayınlamak isteyen yayıncılar, lütfen telif haklarına saygı 
+gösterin ve kullanım izni için iletişime geçin.
+Yazar, okuyucuların bilgi birikimini desteklemek için bu kitabı çok düşük bir ücretle yayınladı. 
+Okuyucular, lütfen içeriği kopyalamayın ancak yazarın uzun yıllar araştırma yapmak için harcadığı 
+çabayı hissetmek ve okuyuculara bilgi sağlamak için kitabı satın almaya teşvik ediyoruz.
+Ülkenizde bir yayın ofisi bulamazsanız, baskı siparişi verebilir ve doğrudan kitap 
+yayıncısının web sitesi https://jaydensmithbook.com üzerinden ödeme yapabilirsiniz.
+Bilgi paha biçilemezdir, kitaptaki bilgiler araştırmacıların sakladığı veya kendilerine sakladığı sırlardır, 
+ancak yazar bunu yapmamıştır, yazar adamıştır ve okuyucular bunu yazara teşekkür etmek için satın 
+almalıdır ve ayrıca “Kendi değerlerinize saygı gösterin". Fotokopi kullanıyorsanız telif hakkı 
+ücretlerine katkıda bulunmak için lütfen web sitesini ziyaret edin.
+Bu kitap, yazarın birçok kitabı arasında Vietnamcaya çevrilen ilk kitaptır. Aynı yazarın 
+diğer güzel kitaplarını da çevirebilmemiz için okuyucuların desteğini almayı umuyoruz.
+Samimi olarak !
+THG! Çeviri komitesi adına.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+JaydenSmithbook.com
+SUNUM İÇERİĞİ
+Ana içerik aşağıdaki bölümleri içerir:
+- MACD Hakkında
+- Fiyat satırlarının ve EMA satırlarının hareketi
+- MACD sisteminde denge çizgisi
+- MACD gecikmeli bir gösterge değildir
+- MACD ve Trend trendi
+- Histogramda Farklılık
+- MACD'de farklılık
+- Fiyat Hedefi
+- Fiyat Aralığı
+- Denge bölgesi
+- Reaksiyon bölgesi
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+JaydenSmithbook.com
+MACD GÖSTERGESİNİN YAPISI
+(İngilizce'den Vietnamca'ya çeviri sürecinde karışıklığı önlemek için malzemelerin İngilizce 
+adlarını saklamak istiyorum)
+MACD: Hızlı EMA eksi yavaş EMA'nın sonucudur (genellikle kapanış fiyatında kullanılır). MACD 
+Sinyal Hattı: MACD'nin kendisinin EMA sonucudur (oturum sayısı).
+MACD Histogramı: MACD eksi MACD Sinyal Çizgisinin sonucu.
+Bu kitapta MACD hakkında yazıyorum, böylece EMA'nın yapısı hakkında diğer belgelerden bilgi 
+edinebilir veya burada verilen bağlantıyla wikipedia'da daha fazlasını görebilirsiniz. https://
+en.wikipedia.org/wiki/Moving_average
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+JaydenSmithbook.com
+IMG-1 : MACD
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+JaydenSmithbook.com
+MACD ve EMA'nın kompozit görüntüsünü görebilirsiniz
+Burada MACD göstergesinin varsayılan parametreleri olan MACD(12,26,9) kullanmaya 
+başlıyorum. Hızlı EMA 12 - Yavaş EMA 26 - MACD EMA oturum sayısı 9.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+JaydenSmithbook.com
+FİYAT ÇİZGİSİNİ TAŞIYIN
+Fiyat çizgisinin hızlı EMA ve yavaş EMA çizgilerine göre hareketini gözlemleyelim ve 
+öğrenelim.
+İki EMA çizgisinin konumu da bize trend hakkında bir perspektif verir (fiyat trendini gösterir). Hızlı EMA 
+değeri, yavaş EMA değerinden daha küçüktür, bu da fiyatın düşüş trendinde olduğunu gösterir.
+Hızlı bir EMA değerinin yavaş bir EMA değerinden büyük olması, fiyatın yükseliş eğiliminde olduğunu 
+gösterir. Hızlı EMA değeri yavaş EMA değerine eşittir (hızlı EMA ve yavaş EMA kesişir):
+Önceki bir döngünün sona eren fiyatını gösterir.
+Eğer öncesinde bir düşüş döngüsü varsa, geçiş, düşüş döngüsünün sonunun bir işareti olarak kabul edilir 
+ve bunun tersine, bir yükseliş döngüsünden önce gelen geçiş, yükseliş döngüsünün sonunun bir işareti 
+olarak görülür.
+İki EMA göstergesiyle birleştirilmiş fiyat hareketi süreci (üç aşamaya ayırdım)
+Aşama 1: Fiyat hızlı EMA'ya (EMA 12) doğru ilerliyor
+Aşama 2: Fiyat hızlı EMA'dan (EMA 12) yavaş EMA'ya (EMA 26) (veya fiyatın iki EMA arasında 
+olduğu döneme) doğru hareket eder.
+Aşama 3: Fiyat Yavaş EMA'yı (EMA 26) geçer.
+Yukarıdaki gibi hem EMA hem de Fiyat koşulları karşılandığında basit bir döngünün başladığı 
+veya bittiği kabul edilir.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 8
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+JaydenSmithbook.com
+Örnek verelim: (Sayfa 10'daki resim)
+Bir yükseliş döngüsü gösteriliyor:
+- İlk Fiyat gelir ve EMA 12'yi (1 numara) geçer
+- Daha sonra fiyat gelip EMA 26'yı (2 numara) geçiyor
+- Ve son olarak EMA 12 geliyor ve EMA 26'yı (3 numara) geçiyor.
+Yükseliş döngüsünün sonunun başlangıcı aynı zamanda aşağıda gösterildiği gibi düşüş döngüsünün de başlangıcıdır:
+- Birinci Fiyat gelir ve EMA 12'yi (4 numara) geçer
+- Daha sonra fiyat gelip EMA 26'yı (5 numara) geçiyor
+- Ve son olarak EMA 12 geliyor ve EMA 26'yı (6 numara) geçiyor.
+Bu, fiyat çizgisi ile iki hızlı EMA ve yavaş EMA çizgisi arasındaki korelasyonun bir örneğidir. 
+Okuyucular EMA numarasını kişisel tercihlerine göre veya her pazar için kendi hislerine göre 
+değiştirebilirler.
+Daha sonra MACD göstergesindeki sıfır çizgisine bakıyorum.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+JaydenSmithbook.com
+MACD GÖSTERGESİNDE 0 SATIR
+Bu kavramın okuyucular tarafından her grafikte görülmesi ve tanınması da kolaydır.
+MACD'nin sıfır bakiye çizgisiyle kesiştiği konumu gözlemleyin; bu aynı zamanda hızlı 
+EMA ile yavaş EMA'nın kesiştiği andır.
+Lütfen bakınız (sayfa 12'deki resim).
+Bu konumda fiyat çizgisinin yeni bir trend başlattığı değerlendirilecektir. Bu yeni trend 
+devam eden ve daha güçlü bir trend olabilir ancak her zamanki gibi gerçekleşmeyen bazı 
+durumlar da olacaktır.
+Normalde bu sıfır çizgisi konumunda yeni bir trend başlarsa MACD çizgisi önceki döneme eşit 
+veya daha büyük bir momentumla tekrarlanmaya başlayacaktır.
+Veya devam edecek kümülatif bir toparlanma dönemi ise bir önceki dönemin değerinin yarısı kadar olacaktır.
+Bu yüzden buna MACD'deki momentum denge noktası veya denge sıfır çizgisi diyorum. Değişmek veya 
+devam etmek isteyen tüm süreçlerin genellikle sıfır denge çizgisinde etkileşime girmesi gerekir.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 12
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+JaydenSmithbook.com
+MACD GECİKMİŞ BİR GÖSTERGE DEĞİLDİR
+Çoğu kullanıcının yorumundan farklı olarak MACD göstergesinin gecikmeli bir gösterge olduğunu 
+düşünüyorlar. Onları kendim araştırdım ve çok iyi ve harika olduklarını buldum. (Sayfa 14'teki resim) 1 
+numaralı iki hızlı EMA ve yavaş EMA kesişmesi arasındaki açıklamayı görebilirsiniz. Bu iki EMA 
+göstergesini ticaret için sinyal olarak kullanırsanız, kesişme ve kesişme trendi gösteren bir işarettir ve 
+emir verirsiniz. bu geçiş gerçekleştikten hemen sonra.
+Şimdi aşağıdaki resme bakın.
+MACD ve MACD Sinyal Hattı geçişi de 1 numara olarak işaretlenmiştir.
+Burada MACD ile MACD Sinyal Hattı arasındaki fark 0 olup, 0'da (0 denge hattında) 
+görülmektedir.
+Bu momentum işareti, hızlı ve yavaş EMA'nın kendisinden daha erken bir uyarı sağlar.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 14
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+JaydenSmithbook.com
+MACD ve TREND (Trend)
+Okuyucular farklı araçlarla trendleri belirlemek için göstergeler veya sadece trend 
+çizgileri çizmek gibi birçok yola sahip olabilir.
+MACD ile MACD çizgisinin MACD Sinyal Çizgisi ile kesiştiği anda başlayan trendleri kolaylıkla fark 
+edebilirsiniz. (Resimlerle birlikte sayfa 16)
+Okuyucular kolayca görebilir:
+- MACD çizgisi, MACD Sinyal Çizgisinin üzerine geçtiğinde yükseliş trendi oluşur ve MACD çizgisi, 
+MACD Sinyal Çizgisinin altına geçtiğinde yükseliş trendi sona erer,
+- MACD çizgisi MACD Sinyal Çizgisinin altından geçtiğinde Düşüş trendi oluşur ve MACD çizgisi 
+MACD Sinyal Çizgisinin üstünden geçtiğinde düşüş trendi sona erer.
+Okuyucular, trendin tersine dönme noktalarını veya önceki dönemin trendini sürdürmek için birikimi 
+bekleyen durma noktalarını bulmak için ıraksama işaretleri bulma tekniğini birleştirebilir. Okuyucular 
+Divergence hakkında yazılanları aşağıdaki içerikte görebilirler.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 15
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 16
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+JaydenSmithbook.com
+MACD İLE TRENDLERİ BELİRLEMEKTE NASIL HİSSEDİYORSUNUZ?
+RAHATLAMAK
+BİR BARDAK FİLTRELENMİŞ SU İÇİLİR VE 
+HEMEN SONRA DEVAM EDECEKTİR.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 17
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+JaydenSmithbook.com
+ÇEŞİTLİLİK kısmıyla devam ediyoruz.
+Bu bölümde sadece MACD ve Histogram çizgilerinin Fiyata göre farklılığını ele alıyoruz.
+GÖSTERGE VE FİYAT ÇEŞİTLİLİĞİ
+Temel olarak bu, aşağıdakiler de dahil olmak üzere fiyatın bir sonraki hareketini tahmin etmek için fiyat aralığının konumunu ve gösterge 
+alanının konumunu belirlemek ve karşılaştırmak için kullanılan bir tekniktir:
+Trendi değiştirin 
+Trendi sürdürün.
+Peki daha açık konuşmak gerekirse fiyatın dönüş pozisyonu mu yoksa devamı mı?
+Hareket eden bir nesnenin gücünü düşünün. Burada fırlatma kuvveti veya düşme kuvveti örneğini kullanıyorum. 
+(Geçici olarak Alt'ı düşme kuvveti olarak ve Üst'ü yukarı doğru kuvvet olarak anlayın ve kullanın). Diverjans 
+nedir?
+MACD histogramında veya diğer gösterge parametrelerinde kullanılan ıraksama tekniği ve Fiyat, 
+bir dönemde trendi takip eden fiyat hareketi olarak tanımlanıyor ancak bu noktada momentum 
+artık aynı yönde gitmiyor. Yine kuvvetin hareket etmeye başladığı anlamına geliyor. fiyat çizgisinin 
+hareketiyle karşılaştırıldığında yavaş yavaş veya hatta ters yönde.
+(bir sonraki konumda bu süreç gerçekleşecektir) dolayısıyla buna ıraksama denir
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 18
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+JaydenSmithbook.com
+Daha iyi anlamak için şu örneği inceleyebiliriz: 
+Fiyat 1. seviye artış aşamasındadır.
+(Bir 1. düzey periyodu, kendi içinde iki veya daha fazla küçük artan ve azalan periyodu içerecektir). 
+Farklılıkları bulmak için bu küçük dönemlere bakacağız.
+Örneğin, sayfa 20'de gösterildiği gibi, A artışı - B azalması - C artışı - D azalması gibi 4 küçük aşama vardır. A 
+zirvesine kadar fiyat artışı ve C zirvesine kadar fiyat artış alanı iki alandadır. azalma alanı B ile serpiştirilmiştir. 
+A'nın C'ye artması, fiyatın artması, C'deki değerin A'daki değerden yüksek olmasıdır.
+Aşağıdaki MACD göstergesine baktığımızda, C alanındaki momentumun, histogram sütununda 
+gösterilen A alanındaki yukarı yönlü momentumdan daha küçük olduğunu görüyoruz ve bir farklılık 
+tespit ettik.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 19
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 20
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+JaydenSmithbook.com
+Şimdi diverjansın standart biçimlerine dalalım.
+Iraksama tekniklerinin çoğu, zıt yön alanlarının değişmesi, yani göstergenin 0. 
+bölgesinden geçmesi gereken fiyat alanıyla karşılaştırmak için göstergenin iki tepe veya 
+iki alt alanını birleştirme ilkesine dayanır. .
+Örneğin, sayfa 20'de gösterildiği gibi, karşılaştırma yapmak ve farklılık işaretlerini bulmak için artan A bölgesi ile artan B 
+bölgesi arasında azalan bir B bölgesi olmalıdır.
+Ancak bazı durumlarda ters bölgenin değeri 0'dır veya yalnızca 0'a yaklaşır. 22. sayfadaki 
+resme bakın ve aşağıdakilere bakın:
+X okunun konumunda, X artış alanı neredeyse 0'a eşittir.
+Bu durum bazı pazarlarda da sıklıkla görülüyor, okuyucuların da dikkat etmesi gerekiyor.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 21
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 22
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+JaydenSmithbook.com
+HİSTOGRAM ÇEŞİTLİLİĞİ VE FİYAT ÇEŞİTLİLİĞİ
+FİYAT VE HİSTOGRAM ALANLARI ÇEŞİTLİLİĞİ - Ters tepe alanı farklılaşması
+Tersine tepe farklılaşması, histogramın iki tepe alanına kıyasla fiyatın iki tepe noktasında meydana gelen bir tür 
+sapmadır.
+Fiyat: Fiyatın bir sonraki zirve alanı, önceki zirve alanından DAHA YÜKSEKtir. Histogram: 
+Histogramın arka tepe bölgesi, ön tepe bölgesinden DÜŞÜKtür.
+Yorum: Piyasa yükseliş aşamasındadır, zirve A alanını fiyatın önünde, Alan A'yı MACD 
+Histogramının önünde belirleyebiliriz. MACD histogramının (kırmızı alan) düşüş 
+düzeltmesi ve düşüş düzeltmesi yoluyla.
+B bölgesinde fiyat, A bölgesinin en yüksek değer noktasını aşmış (veya A bölgesinin tepesinin kırılması olarak adlandırılıyor), hemen 
+fiyat artıyor. Histograma baktığımızda B bölgesindeki histogram sütununun yüksekliğinin A bölgesindeki histogram sütununun 
+yüksekliğinden daha düşük olduğunu da görebiliriz.
+Dolayısıyla fiyatın iki zirve alanı ile histogram arasında farklılık işaretleri gördük.
+Bu sadece bir işaret; daha güvenilir bir farklılık işareti vermek için aslında bir sonraki oturumun histogramının 
+ifadesinin mevcut oturumun histogramından büyüklük olarak daha küçük olmasını beklememiz gerekiyor.
+Şu anda fiyatta fikir birliğinin olması gerekiyor, bu da fiyatın bir sonraki seansta düşmeye başlayacağı anlamına geliyor.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 23
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 24
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+JaydenSmithbook.com
+FİYAT VE HİSTOGRAM ÇEŞİTLİLİĞİ - En büyük ayrışma devam ediyor
+Devam eden zirve farklılığı, histogramın iki zirve alanına kıyasla fiyatın iki zirve bölgesinde meydana gelen bir tür 
+sapmadır.
+Fiyat: Fiyatın bir sonraki zirve alanı, önceki zirve alanından DÜŞÜKtür. Histogram: 
+Histogramın arka tepe bölgesi, ön tepe bölgesinden DAHA YÜKSEKtir.
+Yorum: Bu kavrama geldiğimizde bir önceki bölümün tam tersi olduklarını görüyoruz.
+Piyasa düşme aşamasındadır, bu gerçekleştiğinde yalnızca kısmen toparlanır ve daha sonra 
+düşmeye devam eder. Fiyatın ön tepe A alanını, MACD Histogramının ön A alanını, bir fiyat 
+düzeltmesi ve MACD histogramının (kırmızı alan) aşağı doğru ayarlanması yoluyla belirleriz.
+B alanında fiyat, A alanının en yüksek değer noktasını aşamaz (veya A alanının tepesinin başarısız bir şekilde kırılması 
+olarak adlandırılır), fiyat hemen düşüş işaretleri vermeye başlar.
+Histograma baktığımızda B bölgesindeki histogram sütununun yüksekliğinin A bölgesindeki histogram sütununun yüksekliğinden 
+daha yüksek olduğunu da görebiliriz.
+Dolayısıyla fiyatın tepe noktası ile histogramın tepe noktası arasında farklılık işaretleri gördük.
+Bu sadece bir işaret; daha güvenilir bir farklılık işareti vermek için aslında bir sonraki oturumun histogramının 
+ifadesinin mevcut oturumun histogramından büyüklük olarak daha küçük olmasını beklememiz gerekiyor.
+Şu anda fiyatta fikir birliğinin olması gerekiyor, bu da fiyatın bir sonraki seansta düşmeye başlayacağı anlamına geliyor.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 25
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 26
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+JaydenSmithbook.com
+FİYAT VE HİSTOGRAM ÇEŞİTLİLİĞİ - Dipten ters ıraksama
+Tersine dip sapma, histogramın iki alt alanına kıyasla fiyatın iki alt bölgesinde meydana gelen 
+bir tür sapmadır.
+Fiyat: Fiyatın bir sonraki alt alanı bir önceki alt alanından DÜŞÜKtür. Histogram: 
+Histogramın arka alt kısmı ön alttan DAHA YÜKSEKtir.
+Yorum: Bu farklılık, düşüş yönlü kuvvetlerin zayıflamaya başladığı ve piyasanın 
+toparlanmayı beklediği dipte bulunuyor.
+Yükseliş toparlanma ayarlaması ve Histogramın (mavi) yükseliş düzeltmesi yoluyla fiyatın 
+ileri dip A'sını, Histogramın ileri dip A'sını belirleriz. B fiyat bölgesinde fiyat, A bölgesinin 
+en düşük değer noktasının çok üzerine düştü (A bölgesinin dibini kırdı).
+fiyatların düşme işaretleri gösterdiğini gösteriyor.
+Histograma baktığımızda, B bölgesindeki histogram sütununun derinliğinin A bölgesindeki histogram sütununun derinliğinden daha küçük 
+olduğunu da görebiliriz (B bölgesinin tabanı A bölgesinin tabanından daha kısadır).
+Yani fiyatın alt kısmı ile histogramın alt kısmı arasında farklılık işaretleri gördük.
+Bu sadece bir işaret; daha güvenilir bir farklılık işareti vermek için aslında bir sonraki oturumun histogramının ifadesinin 
+mevcut oturumun histogramından daha küçük bir derinliğe sahip olmasını beklememiz gerekiyor.
+Şu anda fiyatta fikir birliğinin olması gerekiyor, bu da fiyatın bir sonraki seansta artmaya başlayacağı anlamına geliyor.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 28
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+JaydenSmithbook.com
+FİYAT BÖLGESİ VE HİSTOGRAM ÇEŞİTLİLİĞİ - Alt bölgedeki ayrışma devam ediyor
+Devam eden dip sapma, histogramın iki alt alanına kıyasla fiyatın iki alt bölgesinde meydana gelen bir tür 
+sapmadır.
+Fiyat: Fiyatın aşağıdaki alt alanı, önceki zirve alanından DAHA YÜKSEKtir. 
+Histogram: Histogramın arka alt alanı, ön üst alanından ALTTIR.
+Yorum: Piyasa bir süreliğine yükseldiğinde artık durma ve ivme kazanma zamanıdır. Bu devam 
+eden dip ayrışma meydana geldiğinde, kısa vadeli bir aşağı yönlü düzeltme göreceğiz veya 
+piyasanın ivme kazandığını söyleyebiliriz.
+Fiyatın önündeki A taban alanını, Histogramın önündeki A taban alanını, Histogram A taban alanını genellikle küçük 
+olarak tanımlayabiliriz. B alanında fiyat A alanına göre çok fazla düşmüyor, B alanındaki fiyat hala A alanındaki 
+fiyattan yüksek.
+Histograma baktığımızda, B alanındaki histogramın alt kısmının A alanındaki histogramın alt kısmından daha 
+düşük olduğunu da görüyoruz. Dolayısıyla, fiyatın alt kısmı ile histogramın alt kısmı arasında devam eden 
+ayrışmanın işaretlerini gördük. .
+Bu sadece bir işaret; daha güvenilir bir farklılık işareti vermek için aslında bir sonraki oturumun 
+histogramının ifadesinin mevcut oturumun histogramına göre artmasını beklememiz gerekiyor.
+Şu anda fiyatta fikir birliğinin olması gerekiyor, bu da fiyatın bir sonraki seansta artmaya başlayacağı anlamına geliyor.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 29
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 30
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+JaydenSmithbook.com
+Fiyat ve Histogram arasında sapma vakaları tespit ettik. Okuyucular, araya giren 
+bölgenin 0 bölgesine yakın olduğu duruma dikkat etmelidir.
+Daha sonra, histogramda değil, MACD çizgisinin kendisi ve Fiyat çizgisiyle farklılığın 
+meydana geldiği durumlar da vardır.
+Doğa açısından farklılığı bulmanın yolu Histogram ve Fiyat arasındaki ile aynı olduğundan bunu tekrar 
+açıklamayacağım.
+Okuyucuların takip etmeleri ve vakalardaki farklılık işaretlerini bulmaları için bir örnek verdim. Okuyucular 
+aşağıdaki resmi görebilir.
+MACD çizgisi düzgün bir çizgi olduğu için okuyucuların yüksek ve alçak noktalarını görmesi ve ayırt etmesi 
+zordur. Bu nedenle okuyucuların örneklerde daha kolay görebilmesi için MACD çizgisi için sütunlarla renkli 
+bir şekil göstereceğim.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 31
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+JaydenSmithbook.com
+FİYAT VE MACD BÖLGE ÇEŞİTLİLİĞİ
+FİYAT VE MACD ALANLARI ÇEŞİTLİLİK - Fiyatın tersine çevrilmesi alt alan farklılığı: 
+Fiyatın bir sonraki alt alanı, bir önceki alt alandan DÜŞÜKtür. MACD: MACD'nin bir 
+sonraki alt alanı, bir önceki alt alanına göre DAHA YÜKSEKtir.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 32
+Translated from Vietnamese to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 33
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+JaydenSmithbook.com
+FİYAT VE MACD ALANLARI ÇEŞİTLİLİĞİ- Alt bölgedeki ayrışma devam ediyor:
+MACD Fiyatının iki alt alanına kıyasla fiyatın iki alt bölgesinde meydana gelen bir sapma türüdür: 
+Fiyatın aşağıdaki alt alanı bir önceki alt alanına göre YÜKSEKTİR.
+MACD: MACD'nin bir sonraki alt alanı bir önceki alt alanına göre DÜŞÜKtür.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 34
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 35
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+JaydenSmithbook.com
+FİYAT VE MACD ALAN ÇEŞİTLİLİĞİ - Ters tepe alanı sapması
+Bu tür bir farklılık, MACD'nin iki tepe alanına kıyasla fiyatın iki tepe bölgesinde meydana gelir.
+Fiyat: Fiyatın bir sonraki zirve alanı, önceki zirve alanından DAHA YÜKSEKtir. 
+MACD: MACD'nin bir sonraki zirve alanı önceki zirve alanından DÜŞÜK.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 36
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 37
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+JaydenSmithbook.com
+FİYAT VE MACD ALAN ÇEŞİTLİLİĞİ - Zirve bölgesi farklılaşması devam ediyor:
+Bu tür bir farklılık, MACD'nin iki tepe alanına kıyasla fiyatın iki tepe bölgesinde meydana gelir.
+Fiyat: Fiyatın bir sonraki zirve alanı, önceki zirve alanından DÜŞÜKtür. MACD: 
+MACD'nin bir sonraki zirve alanı önceki zirve alanından DAHA YÜKSEKtir.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 38
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 39
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+JaydenSmithbook.com
+Bu noktada MACD çizgisi ile PRICE çizgisi arasındaki fark sona eriyor
+Çoğu kullanıcı veya analist, MACD'yi Fiyatla kullanmak yerine Histogramın Fiyatla sapmasını kullanmayı 
+tercih eder.
+Ancak kendi tecrübelerime göre MACD aynı zamanda bir trenddeki karı optimize etmenin iyi 
+işaretlerinden biridir. Okuyucular, her bireyin kullanım amacına bağlı olarak daha kalın bir 
+bölüm oluşturmak için MACD çizgisinin değerini değiştirebilir.
+Bir sonraki bölümde bir sonraki harika şeyi keşfedeceğiz.
+Okuyuculara görsel olarak kolayca gösterebilmek için grafikte EMA kullanıyorum.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 40
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+JaydenSmithbook.com
+MACD SİSTEMİNDE FİYAT HEDEFİ VE DENGE NOKTASI
+MACD sisteminde çok ilginç bir şey sıfır denge noktasıdır
+MACD çizgisi 0 denge noktasına döndüğünde bu aynı zamanda hızlı EMA ile yavaş EMA'nın 
+kesiştiği zamandır. MACD çizgisi 0 bölgesini geçerse veya hızlı EMA çizgisi yavaş EMA çizgisini 
+geçerse bu ilginç şeyi göreceğiz.
+Sıfır denge noktasına dönen dönemin en yüksek veya en düşük değeri, iki hızlı EMA ve yavaş 
+EMA çizgisinin kesişme noktasında simetrik olacaktır. Bu, fiyatın geçebileceği en kısa 
+hedeftir.
+Fiyat aralığına ulaşılamayan durumlar var ancak bunlar çok nadir oluyor.
+Çünkü MACD çizgisi sıfır çizgisini geçtiğinde devam eden bir momentum gösterir ve bu 
+sıfır geçiş döneminde güçlenir.
+Resme bakın ve şunu fark edin. Benim için emri kapatıp yeni, daha iyi bir pozisyona 
+girerek kar optimizasyonu açısından çok önemliler.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 41
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 42
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 43
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+JaydenSmithbook.com
+FİYAT ALANI
+Fiyat hedefi kısmen ticarette kendinizi daha güvende hissetmenize yardımcı oldu, ardından fiyat aralığı daha kapsamlı bir 
+görünüme sahip olmanıza yardımcı oldu.
+Bu içeriğimde EMA 5, EMA 20 ve EMA 40 olmak üzere üç satırlık parametrelerden oluşan MACD sistemini 
+kullanmaya başlayacağım.
+Okuyucuların bu alanda MACD'yi görmesi çok zor, bu yüzden okuyucuların görmesini kolaylaştırmak 
+için EMA'yı kullanıyorum. Meslektaşlarıma MACD'yi resimlerle anlatmaya çalıştım ancak çoğu kişi 
+konuyu görselleştirmekte zorlanıyor. .
+Ayrıca 45. sayfaya bakmayı deneyin ve anlayıp anlayamayacağınızı görün.
+MACD, EMA çizgilerinden oluştuğundan bu içeriği temsil etmek için EMA'yı kullanmaya karar 
+verdim.
+Harika bir uyumdu ve sonuç olarak meslektaşlarım bunu kolayca anladı.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 44
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 45
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+JaydenSmithbook.com
+Yaygın olarak kullanılan EMA parametre grubu 5 - 20 - 40 örneğine bakalım ve bu içerik boyunca bu 
+parametreyi eğilimleri değerlendirmek ve tanımlamak için kullanıyoruz.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 46
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+JaydenSmithbook.com
+Trendin hareketlerini daha net görebilmek için EMA parametrelerinin yanı sıra MACD 
+parametrelerini de kullanıyoruz.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 47
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 48
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+JaydenSmithbook.com
+İSİM VE DEĞER
+Kısa vadeli hat: EMA 5 
+Orta vadeli hat: EMA 20 
+Uzun vadeli hat: EMA 40
+Okuyucular EMA değerlerini kendi tercihlerine göre veya takip ettiği her pazar 
+türüne göre değiştirebilirler.
+Burada bu parametre birçok analist tarafından yaygın olarak kullanılan bir parametredir ve ben şahsen 
+bunu kullanıyorum, takip edilmesi gereken standart veya zorunlu bir parametre değil.
+Değişken değer aralığı: Basit bir döngüde fiyat çizgisinin hareketi genellikle aşağıdaki 
+aşamalardan geçer:
+Kısa vadeli bölge: Fiyatın kısa vadeli çizgiyi aştığı ancak orta vadeli çizgiye henüz ulaşmadığı alandır. Orta 
+vadeli bölge: Fiyatın orta vadeli çizgiyi aştığı ancak henüz ulaşmadığı alandır. Uzun vadeli çizgiye ulaşıldı Uzun 
+vadeli bölge: fiyatın uzun vadeli çizgiyi aştığı alandır.
+Bölgelerin onay işaretleri: Değer bölgeleri boyunca fiyat hareketinin tamamlandığının teyidi Kısa 
+vadeli bölge: Kısa vadeli çizginin orta vadeli çizgiyi kestiğinin teyidi
+Orta vadeli bölge: Kısa vadeli çizgi uzun vadeli çizgiyi geçtiğinde 
+onaylanır: Orta vadeli çizgi Uzun vadeli çizgiyi kestiğinde onaylanır.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 49
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 50
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 51
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 52
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+JaydenSmithbook.com
+Bu noktada, bölgeler arasındaki fiyat yolunu basitçe görselleştirebilirsiniz.
+Çizimde okuyucuların kolayca görebilmesi için alan 1, alan2 ve alan3 alanlarını 
+işaretledim.
+Okuyucuların bu bölgelerdeki pazar alışkanlıklarına aşina olmak için bolca arama yapmaları 
+gerekiyor. Fiyat çizgisinin hareketi sırasında denge bölgesinde, özellikle kısa vadeli, orta vadeli 
+ve uzun vadeli çizgilerin sınırlarında reaksiyonlar meydana gelecektir.
+Okuyucular, lütfen kendi deneyimlerinizi ekleyin. Bir 
+sonraki kısım olan denge bölgesine geçeceğim.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 53
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+JaydenSmithbook.com
+DENGELİ BÖLGE:
+Orta vadeli bölgeye (Alan 2) baktığımızda bunu çok basit bir şekilde görebiliriz. Burası 
+kısa vadeli bölge ile uzun vadeli bölge arasındaki ortalama denge bölgesidir. Bu denge 
+bölgesi neyi temsil ediyor?
+Çizimde bu alanı şu anlamla renklendirdim:
+Yeşil: Orta vadeli çizginin değeri uzun vadeli çizgiden büyükse. 
+Kırmızı: Orta vadeli çizgi değeri uzun vadeli çizgiden küçükse.
+Onlar hakkında herhangi bir yorumunuz var mı?
+Evet, cevabınızın fiyat eğilimiyle neredeyse senkronize oldukları yönünde olduğunu 
+biliyorum. Ayrıca destek ve direnç seviyeleriyle de uyumlular mı?
+Elbette bu alanda fiyat çizgisi güçlü tepki gösterdi. 
+Anlamlarını keşfetmeniz harika.
+55. sayfadaki resme bakalım ve bana ne düşündüğünüzü söyleyin?
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 54
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 55
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 56
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 57
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+JaydenSmithbook.com
+Sağ! 56 ve 57. sayfalarda zaten anlıyorsunuz.
+Bu denge bölgesinin bir anlamı var ve biz de bu kitabın başında birlikte keşfettiklerimize 
+göre fiyat hedeflerini belirleyebiliriz.
+Fiyat çizgisi denge bölgesine yaklaştığında kırılma noktasını görüyor musunuz? Bakalım fiyat ne 
+zaman bölge 1'de olacak ve bölge 1'in sınır çizgisine doğru denge bölgesi 2'ye doğru ilerlemeye 
+başlayacak.
+Bu, fiyat çizgisi resmi olarak orta vadeli çizgiyi geçene kadar bir başlangıçtır ve bu, azalan momentumun 
+teyididir; yavaş yavaş 0'a doğru ilerleyeceklerdir.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 58
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+JaydenSmithbook.com
+REAKSİYON BÖLGESİ
+Denge bölgesi aynı zamanda fiyat çizgisinin trend sınırının belirlenmesinde de aynı derecede önemli bir rol oynar. 
+Bunu daha net görebilmek için aşağıdaki örneğe bakalım.
+Bu şekilde fiyat çizgisi denge bölgesine tepki verir ve önceki trende döner, yani trend 
+kırılması yaşanmaz.
+Fiyat çizgisi denge bölgesi etrafında dalgalanır, bazen onu aşar, ancak trende geri döner. Bu durumda 
+okuyucular aynı zamanda büyük aşamada devam eden sapmanın ve küçük aşamada ters sapmanın 
+işaretlerini de aramalıdır.
+Bu durumda, özellikle uzun vadeli rotalarda sıklıkla meydana gelirler. 
+60. sayfadaki resme bakın, bunlar çok oluyor.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 59
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+JaydenSmithbook.com
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 60
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+JaydenSmithbook.com
+Birlikte MACD sisteminin söylemek istediği şeyin özünü öğrendik. Bana göre harikalar ve 
+ben her zaman bu sistemde araştırıp yeni şeyler keşfediyorum. Çok az kişinin bahsettiği 
+veya belki de henüz kimsenin keşfedemediği bir kısım daha var ki o da MACD 
+sistemindeki periyodikliktir.
+Döngüsellik hakkında ne bilebilirsin?
+Belki yakın zamanda yeterli zamanım olduğunda detaylı olarak sunacağım. Bu küçük kitap, 
+MACD hakkında anlamamız gerekenleri özetleyen özet bir çalışmadır. Okuyucuların onu kabul 
+edeceğini ve ticarette değer yaratmak için çalışacağını umuyoruz.
+Bilgi, zekanın geliştirilmesine ve ticaretteki kayıpların en aza indirilmesine katkıda bulunur.
+Ticarette başarılı olduğunuzda size duygularımı aktardım.
+Bu çalışmadan öğrendiğiniz bilgileri takdir ederek kendinizi takdir edin.
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI Sayfa 61
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+JaydenSmithbook.com
+Not: Finansal işlemler yaparken kayıpları önlemek için profesyonel bir finansal danışmanlık hizmetine başvurmalı veya profesyonel bir finansal danışmanlık hizmetinden 
+yararlanmalısınız.
+Yazarın aktardığı bilgi kalıplaşmış değildir ve okuyucular herhangi bir kayıptan sorumlu değildir.
+Jayden Smith'in eserleri
+- MACD göstergesinin iç sırrı (İngilizce - harf çevirisi).
+- Ichimoku bulut sistemiyle 9 ticaret yöntemi (İngilizce).
+- Finans piyasasında neredesiniz (İngilizce).
+- Sadece bir yol var (İngilizce - çevrilmiş).
+- Biraz dinlen, her şeyimiz var (İngilizce - çevrilmiş)
+JAYDEN SMITH MACD GÖSTERGESİNİN İÇ SIRRI bitti
+www.forexgercekleri.xyz - [Twitter: @eseckal]

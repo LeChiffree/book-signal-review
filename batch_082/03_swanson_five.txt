@@ -1,0 +1,1261 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 11\Baskı 11\İşe Yarayan 5 Basit Trading Stratejisi - Jeff Swanson (61 sayfa) - @eseckal.pdf
+PAGES: 61
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İşe Yarayan Beş Basit Ticaret Stratejisi
+İÇİNDEKİLER
+Hoş Geldiniz!.................................................................................................................3
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi ..................................................................1
+RSI ve Ondan Nasıl Kar Elde Edilir ............................................................................30
+Daha İyi Breakout Ticaret Modeli ..................................................................................36
+Basit Kısa Vadeli İşlem Stratejisi ..................................................................................43
+Piyasayı Zamanlamak İçin Korkuyu Kullanmak ..................................................................50
+Gerçekleştirin! ..................................................................................................57
+www.sistemtradersuccess.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+İşe Yarayan Beş Basit Ticaret Stratejisi
+Hoş geldin!
+İnternette çok sayıda kötü ticaret fikri varama, iyi olanlar da var! Bu e-kitapta size eksiksiz 
+ticaret sistemleri için harika başlangıç   noktaları olan beş strateji göstermek istiyorum.
+Bu fikirleri alın ve onlarla koşun. Ben şahsen bu e-Kitaptaki fikirlerden iki tane karlı 
+gerçek yaşam ticaret sistemi geliştirdim. Siz de biraz çalışarak aynısını yapabilirsiniz.
+En basit sistem Better Breakout Trading Model olabilir. Bu, 2012'den beri canlı olarak işlem 
+yaptığım bir işlem sisteminin temelidir. Doğru! Kendi paramla işlem yaptığım bir sistemi size 
+ücretsiz olarak veriyorum. İşlem yaptığım stratejide ufak bir değişiklik var, ancak çok da değil. 
+Kontrol edin ve
+İşte bu e-kitabın amacı da bu.
+Buradaki her strateji tam bir sistem değildir. İnancım odur ki beş stratejinin her biriyle 
+denemeler yapmalısınız. Kendinize ait hale getirmek için farklı stop'ları, çıkışları ve filtreleri 
+deneyin. Ticaret çok kişisel bir çabadır. Bir kişinin harika bir sistem olarak adlandıracağı bir şey, 
+bir başkası için uygun değildir.
+Bu e-kitabı indirdiğiniz ve dikkatle incelediğiniz için teşekkürler, çünkü bu e-kitaptaki fikirler gerçekten 
+işe yarıyor!
+www.sistemtradersuccess.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+İşe Yarayan Beş Basit Ticaret Stratejisi
+Perakende tüccarın güçlendirilmesi
+Başarılı sistem yatırımcıları.
+Benim adım Jeff ve 20 yıldan uzun süredir programlama yapıyorum. TradeStation'ın 
+EasyLanguage'ını 9 yıldan uzun süredir kullanıyorum ve düşüncelerimi ve kişisel olarak
+Kazanan sistemler geliştirme konusunda deneyimler.
+Websitem olan System Trader Success'i 2009'da başlattım ancak adı başkaydı. O zamanlar 
+ticaret araştırmalarımı ve strateji kodu örneklerimi yayınlıyordum. Çok sayıda harika geri 
+bildirim aldım ve site büyüdü. 2011'de sitenin adını bugünkü haline değiştirdim.
+Her Pazartesi sabahı (Merkezi saat dilimine göre 05:00) Sistem Trader Success'e yeni sistem ticareti 
+ipuçları ve stratejileri yayınlıyorum. Genellikle bu indirilebilir kod makaleleri!
+Her makale, otomatik ticaret sistemleri kurma, test etme ve ticaret yapma konusunda size çok 
+pratik tavsiyeler sunmak için tasarlanmıştır. Makalelerin çoğu, ticaretinizde hemen 
+uygulayabileceğiniz fikirler içerir.
+Zaman zaman, bilmeniz gerektiğini düşündüğüm "mutlaka okunması gereken" makaleler veya araştırmalar 
+göndereceğim. Makalelerimi taze ve alakalı tutmak için bir ton araştırma yapıyorum... bu yüzden siz de benim 
+yaptığım tüm okumalardan faydalanabilirsiniz.
+Ayrıca sistem ticaretinde başarılı olmanıza yardımcı olacağını düşündüğüm yeni kurslar, yazılımlar ve diğer harika 
+premium kaynaklar hakkında size e-postalar göndereceğim... ama yalnızca bunları onayladıktan sonra.
+Kısacası, sistem ticaretinde başarılı olmanıza yardımcı olmak istiyorum. System Trader Success tam da 
+bununla ilgili!
+Tamamen,
+Jeff Swanson
+Sistem Tüccarı Başarısı
+www.sistemtradersuccess.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Bir Euro Para Birimini Test Etmek
+Scalping Stratejisi
+Scalping, birçok sistem yatırımcısının ilgisini çeken bir şeydir. Çok az risk alarak günlük olarak 
+piyasadan küçük, tutarlı işlemler almanın zorluğu çekicidir. Scalping ile, genellikle küçük bir zaman 
+diliminde, muhtemelen 5 dakika veya daha az bir sürede işlem yaptığınız kabul edilir. Fikir, bir 
+pozisyon açmak ve yalnızca birkaç tik kar elde etmektir. Çekici olan, çok küçük bir zaman diliminde 
+işlem yaptığımız için, riskinizin küçük olması ve bu nedenle küçük bir hesapla işlem yapabilmenizdir. 
+Genellikle yüksek kazanma oranları üreten ve daha sık gerçekleşen kurulumlara sahip olacaksınız
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+saatlik veya günlük gibi daha yüksek bir zaman dilimindeki kurulumlardan daha fazla. Scalping ile daha 
+yüksek bir işlem fırsatı sıklığı olma eğilimindedir ve bu da potansiyel olarak başlangıç   sermayenize 
+kıyasla büyük birikmiş karlara yol açabilir.
+Bana göre, perakende yatırımcı için scalping yapmak çok zordur. En büyük engellerden biri hem 
+komisyon hem de kaymalardaki işlem maliyetidir. Scalping, işlem başına daha düşük kar anlamına gelir, 
+ancak daha küçük ve daha küçük zaman dilimlerine doğru ilerledikçe maliyetleriniz sabit kalır. Bu 
+nedenle, komisyonların ve kaymaların olumsuz etkisi, karınızın daha büyük bir yüzdesini alarak büyür. 
+İşlem başına ortalama 600$ karla birkaç gün boyunca bir işlemi tuttuğunuzda, tek bir kayma işareti bile 
+fark edilmez. Ancak, bir scalping sisteminde bu tek işaret, yaşam ile ölüm arasındaki farktır. Sonra 
+gecikmeyi, bilgisayar sorunlarını, internet sorunlarını ekleyin ve hata payınız küçüktür. Tekrar ediyorum, 
+daha büyük zaman dilimlerinde bir işlemden hemen veya birkaç saniye içinde çıkabilirsiniz ve bu çok da 
+önemli olmayacaktır. Her şeyin aşırı hassas olduğu ve hata payınızın çok küçük olduğu scalping 
+dünyasında durum böyle değildir.
+Tüm bunları aklımda tutarak, Euro döviz vadeli işlemleri için bir scalping ticaret modeline 
+bakmanın ilginç olacağını düşündüm. One Step Removed web sitesinde çok basit bir scalping 
+stratejisine rastladım. Yazar Shaun ve başka bir ticaret modeli üzerinde araştırma yaparken bir 
+scalping stratejisine rastladı. Shaun'un konsepti ve testleri EURUSD Forex çifti üzerinde 
+gerçekleştirildi. Shaun ayrıca makalesinde, 2 pipten fazla yürütme kayması yaşarsanız 
+stratejisinin karlı olmayacağını belirtiyor.
+Stratejinin doğası gereği basit olduğunu gördüm ve buna bir göz atmayı düşündüm. Bu stratejiyi 
+EasyLanguage'da kodlayacağım ve Euro döviz vadeli işlemlerinde test edeceğim. Strateji kodu bu 
+makalenin en altında mevcuttur.
+www.sistemtradersuccess.com 2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Aşırı Fiyat Hareketleri
+Shaun, 200 dönemlik basit hareketli ortalamadan (SMA) %1 mesafe olarak tanımlanan aşırı 
+fiyat hareketlerinin çok nadir gerçekleştiğini fark etti. Fiyatın yakında böyle bir aşırılıktan geri 
+çekileceği varsayımıyla, burası bir işlem açmak için potansiyel bir yer olabilir. Kısacası, Shaun'un 
+Basit Scalping Sistemi (SSS), bir SMA zarfı kullanan bir ortalama geri dönüş stratejisidir. Fiyat 
+zarfın ötesinde kapandığında bir işlem açılır. Fiyat zarfa geri döndüğünde işlem kapanır.
+Aşağıda bir işlem örneğiyle sistemin bir görüntüsü bulunmaktadır. Fiyatın alt bantlara dokunduğu ve hiçbir işlem 
+girilmediği zamanlar olduğunu fark edin. Bir işlemi tetiklemek için fiyatın bant altında kapanması gerekir.
+Grafik Kurulumu ve Ticaret Kuralları
+Çizelge:
+• EURUSD 5 dakika
+• SMA Dönemi: 200
+• Hareketli Ortalama Zarfı: SMA'nın %1,0'ı
+Giriş kuralları
+• Fiyat alt zarfın altına inip kapanırsa piyasadan satın alın.
+• Eğer fiyat üst zarfı geçer ve üstünde kapanırsa, piyasadan kısa satış yapın.
+www.sistemtradersuccess.com 3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Çıkış kuralları
+• Fiyat alt zarfı geçer ve üstünde kapanırsa, piyasadan uzun pozisyon açın.
+• Fiyat üst zarfı geçer ve altında kapanırsa piyasadan kısa pozisyon açın.
+Bu makaledeki sonraki geri testler için 10.000$ değerinde bir işlem hesabıyla başlayacağım ve Mayıs 
+2001 - 31 Aralık 2011 tarihleri   arasında test yapacağım.
+Kayma ve Komisyonların Etkisi
+Komisyonların ve kaymanın bir scalping işlem modeli üzerindeki sinsi etkisini göstermek için, ilk 
+geri testim için kayma ve komisyonlar için hiçbir şey düşmedim. Daha sonra komisyonları ve 
+kaymayı ekledim ve geri testi tekrar çalıştırdım, böylece bunun öz sermaye eğrisini nasıl etkilediğini 
+görebilirsiniz. Komisyonların ve kaymanın ne kadar zararlı olabileceğine şaşırabilirsiniz. Aşağıdaki ilk 
+öz sermaye grafiği kaymayı ve komisyonları hesaba katmıyor.
+Komisyon veya Kayma Yok
+www.sistemtradersuccess.com 4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Aşağıdaki sonraki iki grafik hem kaymayı hem de komisyonları hesaba katar. İlk grafik 1 
+tik kayma kullanırken ikinci grafik 2 tik kayma kullanır.
+Gidiş Dönüş Başına 5 Dolar Komisyon ve 1 Kene Kayması
+Gidiş Dönüş Başına 5 Dolar Komisyon ve 2 Tik Kayması
+İlk grafiğe baktığınızda, yaklaşık 22.000$ kar üreten genel bir kazanan sistem 
+görüyorsunuz. Grafikler arasındaki görsel fark, hepsi aynı ölçekte çizilseydi daha da 
+dramatik olurdu. Yine de, son hisse senedi grafiği ilk hisse senedi grafiğinden kökten 
+farklıdır. İlk hisse senedi grafiğine bakıldığında, tamamen acemi biri şunu düşünebilir:
+www.sistemtradersuccess.com 5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Bir kazanan buldu ve zor kazanılmış sermayesini alıp sattı ancak düşen bir sermaye eğrisi 
+keşfetti. Peki neden? Kayma ve komisyonları hesaba katmamak, özellikle günlük işlemde, 
+büyük bir hatadır.
+Temel Sistem
+Testlerimin geri kalanında 5$ komisyon ve 1-tick kayma düşeceğim. Yukarıdaki orta hisse senedi 
+grafiğinde gösterilen temel çizgimiz, sistemin değiştirilmiş versiyonlarını karşılaştırmak için bize bir 
+kıyaslama noktası sağlayacaktır. Temel çizgi sonuçları aşağıdadır.
+Temel Performans
+Tüm
+Ticaret
+Uzun
+Ticaret
+Kısa
+Ticaret
+Toplam Net Kar $6.735,00 11.207,5 dolar
+0
+(4.472,50 $) )
+Brüt kazanç 75.000,0 dolar
+0
+$40.585,0
+0
+$34.415,00
+Brüt Zarar (68.265 dolar.
+00
+) (29.377 dolar.
+50
+) (38.887,5 dolar)
+0
+)
+Kar Faktörü 1.10 1.38 0,88
+Performans raporuna baktığımda ilk fark ettiğim şey, kısa tarafın ne kadar kötü performans gösterdiği. 
+Ticaret simetrisinin büyük bir hayranı değilim. Yani, hem uzun hem de kısa sinyallerin birbirinin aynası 
+gibi olmasının iyi bir fikir olduğunu düşünmüyorum. Bizim temel sistemimiz tam da bunu yapıyor. Uzun 
+tarafta olumlu bir sonuç görüyor olabiliriz çünkü Euro sözleşmesinin tarihsel teste göre uzun tarafta bir 
+eğilimi var. Buna daha sonra daha detaylı bakacağız. Şimdilik sadece uzun tarafa odaklanacağım.
+İşte sadece uzun kenarlı sonuçlar:
+Performans Uzun Sadece
+Temel çizgi
+Net Kar 11.207 dolar
+Kar Faktörü 1.38
+Toplam İşlemler 456
+% Kazananlar %71
+Ort. Net Ticaret Karı $24.58
+Yıllık Getiri Oranı 7.07%
+www.sistemtradersuccess.com 6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Sharpe Oranı 0,27
+Maksimum Düşüş (Gün İçi) $4.632
+Beklenti 0,11
+Beklenti Puanı 4.77
+Ticaret kurallarından hatırlayacak olursanız, stop yoktur. Bir ticaretten yalnızca fiyat SMA zarfına 
+döndüğünde çıkılır. Bu dinamik çıkış, aşağıda resmedildiği gibi bazı korkutucu düşüşlere neden 
+olabilir.
+www.sistemtradersuccess.com 7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Buna bakmanın bir başka yolu da aşağıda resmi görülen Maksimum Olumsuz Sapma (MAE) grafiğidir.
+Grafikteki her nokta bir ticareti temsil eder. Rengi, verilen ticaret için karlı (yeşil) veya karlı 
+olmayan (kırmızı) K&Z'yi temsil eder. Y ekseni K&Z'dir ve x ekseni düşüştür (ters sapma). 1000 
+veya daha büyük düşüş yaşayan birçok ticaretin grafikte kırmızı noktalara dönüştüğünü fark 
+edin. Bunlar büyük kayıplara dönüşen çok pahalı düşüşlerdir. 600 ila 1.000 dolar arasındaki bir 
+yer koymak için iyi bir yer olabilir
+www.sistemtradersuccess.com 8
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Bu büyük kayıpları sınırlamak için sert bir durdurma. TradeStation'ın optimize özelliğini kullanarak farklı durdurma 
+değerlerinin davranışını analiz edebiliriz. Aşağıda, durdurma değerini dolar cinsinden net kâra göre gösteren bir çubuk 
+grafik bulunmaktadır.
+Buna baktığımızda bir durdurma değeri eklemenin performansımıza gerçekten zarar verdiğini görebiliriz. 2.000$'a 
+kadar olan durdurma değerleri net karımızı gerçekten aşağı çekiyor. Gerçekten de 2.000$ veya daha fazla felaket 
+zarar durdurması gerektirebilecek bir scalping sistemiyle işlem yapan var mı? Bu, kârsız işlemleri azaltmaya yardımcı 
+olmak için ek bir filtre bulmamız gerekip gerekmediğini merak etmemi sağlıyor. Sadece sert bir durdurma 
+uygulamak yerine, yalnızca belirli saatlerde işlem yapmayı, yalnızca boğa piyasası sırasında işlem yapmayı veya bir 
+oynaklık filtresi eklemeyi test etmek isteyebiliriz. Bunların hepsi iyi fikirler ve bir sonraki bölümde bu işlem modelini 
+incelemeye devam edeceğiz.
+Bölüm 2
+Bu, Euro para birimi vadeli işlemleri için bir scalping stratejisini incelemenin ikinci bölümüdür. Bu 
+makalenin ilk bölümü olan Euro Para Birimi Vadeli İşlemleri Scalping Stratejisini Test Etme'de basit bir 
+kısa pozisyon konsepti tanıttık. Hızlı bir inceleme olarak, başladığımız şey şudur. Strateji, 5 dakikalık bir 
+grafikte mevcut fiyatın %1 altındaki bir fiyat zarfına dayanmaktadır. Fiyat zarfın ötesinde kapandığında 
+uzun bir işlem açılır. Fiyat zarfa döndüğünde işlem kapatılır. Aşağıda bir işlem örneğiyle sistemin bir 
+görüntüsü bulunmaktadır. Bazı zamanlar olduğunu fark edin
+www.sistemtradersuccess.com 9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+fiyat alt bantlara dokunduğunda ve hiçbir işlem yapılmadığında. Bir işlemi tetiklemek için fiyatın bant altında 
+kapanması gerekir.
+İlk makaleyi sert bir durdurma değeri eklemeye bir bakışla sonlandırdık. Orijinal ticaret kurallarında hiçbiri 
+yoktu. Çıkışlar, fiyatın %1 zarfının içinde geri dönmesine dayanıyordu. Durdurmaların sisteme büyük zarar 
+verdiğini keşfettik. Bu makalede performansı iyileştirmek için diğer durdurma yöntemlerine ve filtrelerine 
+bakmaya devam edeceğiz.
+Test Durakları
+Sonraki birkaç saati çeşitli zarar durdurma yöntemlerini test ederek geçirdim. Bunlar arasında hareket 
+etmeyen sert zarar durdurma ve işlem sizin lehinize hareket ettiğinde artan takip eden zarar durdurma vardı. 
+Volatiliteye dayalı dinamik zarar durdurma ve ATR Kare Kök takip eden zarar durdurma ve Gürültüye Toleranslı 
+Para Yönetimi Durdurma gibi daha egzotik durdurmalar kullandım. Bu durdurmaların hiçbiri aradığım istenen 
+sonuçları üretmedi, yani işlem başına daha yüksek ortalama kârla daha düzgün görünen bir hisse senedi 
+eğrisi.
+Bunlar işe yaramadığı için, temel sistemimizin iki önemli değerine bakmaya karar verdim. 
+Bunlar 200 dönemlik SMA ortalaması ve %1 zarfı olurdu. Bu değerlerin ne kadar sağlam 
+olduğunu görmek istedim. Yani, değerleri biraz değiştirirsem sistemin sonuçlarını önemli 
+ölçüde değiştirir mi? Ayrıca, sistemin performansı geniş bir potansiyel değer aralığında nasıl 
+görünüyor. Bakılacak ilk değer, 200 dönemlik SMA'mızın etrafındaki %1 zarf değeridir.
+%1 Zarf Testi
+TradeStation'ın optimizasyon özelliğini kullanarak %1 zarf değerine komşu değerleri test 
+edebildim. Aşağıdaki çubuk grafik sonuçları göstermektedir. X ekseni yüzde değeridir
+www.sistemtradersuccess.com 10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+zarf ve Y ekseni için net kârdır. Varsayılan %1 değerimiz açıkça en uygun değer değildir. Aslında, 
+1,00 ile 1,15 arasında bulunan istikrarlı bir aralığın sol kenarındadır. Bu aralıktaki medyan değer 
+yaklaşık 1,58'dir. Genel olarak, test edilen değerlerin her biri olumlu bir sonuç üretir ve istikrarlı bir 
+bölgemiz vardır. Değerimizi bu istikrarlı bölgenin merkezine doğru daha fazla taşımak, nihai 
+sistemimizde iyi bir fikir olabilir. Komşu değerlerin benzer sonuçlar üretmesini görmek isterim. Şu 
+anda %1,00'da, %0,95 değerinde kârda keskin bir düşüş var.
+İşlem başına ortalama kârı zarf değerine göre inceleyelim. Aşağıdaki grafik işlem başına ortalama 
+kârı göstermektedir.
+www.sistemtradersuccess.com 11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Yukarıdaki grafiğe baktığımızda, SMA'mızdan daha yüksek yüzdelik mesafe talep ettikçe işlem 
+başına ortalama kârın arttığını görebiliriz. Bu mantıklıdır, ancak bunun aşağıdaki grafikte 
+görüldüğü gibi bir maliyeti vardır; grafikte işlem sayısı ile esneme yüzdesi gösterilmektedir. 
+Kısacası, zarfı artırdıkça işlem başına daha fazla dolar üretiriz ancak daha az işlem üretiriz. 
+Belirlememiz gereken takas budur.
+www.sistemtradersuccess.com 12
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Genel olarak, yüzde zarf değeri optimize edilmiş görünmüyor ve net kârın istikrarlı 
+aralığına bağlı olarak daha sonra bunu değiştirme fırsatımız olabilir.
+Test Geriye Dönük Dönem
+TradeStation'ın optimizasyon özelliğini kullanarak basit hareketli ortalamamızın geriye dönük 
+periyodunu test ettim. Aşağıdaki çubuk grafik sonuçları göstermektedir. X ekseni SMA için geriye 
+dönük periyottur ve Y ekseni net kârdır.
+Burada varsayılan 200 değerimizin optimumdan çok uzak olduğunu görebiliyoruz. Aslında, geriye 
+dönük periyodu artırmaya devam ettikçe 290 değerine ulaşana kadar daha fazla net kar elde 
+ediyoruz. Peki bu net karı hangi maliyetle elde ediyoruz? Ayrıca, işlem başına elde ettiğimiz ortalama 
+kar olan başka bir metriğe de bakmak istiyorum. Bu, Y ekseninin işlem başına ortalama kar olduğu 
+aşağıdaki grafikte gösterilmiştir.
+www.sistemtradersuccess.com 13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Sonuçlara bu perspektiften baktığımızda, varsayılan değerimiz olan 200'den geriye dönük bakış süresini 
+artırdıkça işlem başına biraz daha az kar elde ettiğimizi görebiliriz. Daha uzun vadeli bir swing sistemi gibi bazı 
+sistemlerde bu büyük bir sorun olmayabilir. Ancak, bunun işlem başına çok düşük bir kar marjına sahip bir 
+scalping sistemi olduğu göz önüne alındığında, işlem başına ortalama karımızı azaltmaktan biraz rahatsız 
+olurum. Genel olarak, varsayılan değer olan 200'ü değiştirme eğiliminde değilim.
+Zaman Filtresi
+Varsayılan sistem, piyasa açıkken aktif olarak işlem yapmak olurdu. Bana göre bu muhtemelen iyi bir 
+fikir değil çünkü piyasa işlem günü boyunca çeşitli özelliklere sahip olacak. Örneğin, Avrupa açılışı 
+sırasında çok oynak olabilir ve aktif olarak işlem görebilirken, ABD öğleden sonrası sırasında büyük 
+olasılıkla daha az oynak olacak ve aktif olarak işlem görmeyecektir. Bu nedenle, test edilecek bir 
+sonraki öğe zamandır.
+İlk girişimim, Euro piyasasının en aktif olduğu zamanda sistemi alıp satmaktı. Önceki bir 
+çalışmaya dayanarak, Euro'nun saat başına hareket ettiği tik sayısını gösteren aşağıdaki grafiği 
+oluşturabildim. X ekseninde günün saati, Y ekseninde ise hareket eden tik sayısı yer alıyor. 
+Tüm saatler Merkezi Standart Saat'e göredir.
+www.sistemtradersuccess.com 14
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Buradan Euro için iki büyük aktivite artışı olduğunu görebiliriz. Şaşırtıcı olmayan bir şekilde bunlar 
+0200 Avrupa açılışı ve 0830 ABD açılışı etrafında dönüyor. İlk önce test etmeye karar verdiğim 
+zamanlar bunlardı. Bana göre 0200 ile 1100 arası işlem yapmak için güzel bir aktif zaman gibi 
+görünüyor. Hisse senedi eğrisi aşağıdadır.
+www.sistemtradersuccess.com 15
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Çok da iyi değil. Sonra scalping sisteminin ortalama bir geri dönüş sistemi olduğunu ve en aktif işlem saatleri dışında 
+daha iyi performans gösterebileceğini düşünmeye başladım. Bu yüzden sadece 1100'den 2300'e kadar olan işlemlere 
+baktım. Hisse senedi eğrisi aşağıda.
+Dünya kadar fark! Tamamen işlem yaptığınız günün saatlerine dayalı iki hisse senedi eğrisi 
+arasındaki çarpıcı farka bakın. Aşağıda, temel sistemimizin sonuçlarını, aktif saatleri ve sessiz 
+saatleri karşılaştıran bir tablo bulunmaktadır. Unutmayın, zaman filtresi yalnızca temel 
+sisteme uygulanır. Sistemde başka hiçbir değişiklik yapılmamıştır.
+www.sistemtradersuccess.com 16
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+EC SCALPING SİSTEMİ PERFORMANSI
+Zaman Filtreli Performans
+Temel çizgi Aktif
+Saat
+Sessizlik
+Saat
+Net Kar 11.207 dolar 747 dolar 9.748 dolar
+Kar Faktörü 1.38 1.04 2.01
+Toplam İşlemler 456 208 233
+% Kazananlar %71 %71 %70
+Ort. Net Ticaret Karı $24.58 $3.59 $41.83
+Yıllık Getiri Oranı 7.07% 0,68% 6.04%
+Maksimum Düşüş (Gün İçi) $4.632 5.205 dolar 3.018 dolar
+Beklenti 0,11 0,01 0,30
+Beklenti Puanı 4.77 0,22 6.56
+Buradan, sessiz saatlerde işlem yapmanın, temel sistemle karşılaştırıldığında kâr faktöründe, işlem 
+başına ortalama kârda ve beklenti puanında önemli bir iyileşme sağladığını görebiliriz. Ayrıca, 
+maksimum günlük düşüşümüzü azaltıyoruz ancak bir miktar kârdan ve yıllık getiri oranımızdan 
+feragat ediyoruz.
+Çözüm
+Bu sırada öğrendiğimiz en büyük şey, günün saatlerinin sistemin performansını gerçekten 
+etkilediğiydi. Ticarete konu saatler daha da rafine edilebilir. Ayrıca, hem geriye dönük dönemin 
+hem de zarf yüzdesinin optimize edilmiş değerler olmadığını gösterdik. Aslında, zarf yüzdesinin 
+değerini artırmak için yerimiz olabilir.
+Bitti mi? Henüz değil! Örnek dışı verilerdeki performansı gözlemlemek ve TradeStation'ın Walk Forward 
+Optimizer'ını (WFO) kullanmak da dahil olmak üzere test etmemiz gereken daha çok şey var. Bu yüzden, bir 
+sonraki makaleyi takip edin.
+Bölüm 3
+Önceki bölümde zaman tabanlı bir filtrenin sistemin performansını gerçekten iyileştirdiğini keşfettik. 
+Üretken olmayan işlem zamanlarını ortadan kaldırarak sistemin neredeyse tüm yönleri yalnızca yıllık 
+getiri maliyeti en düşük olacak şekilde iyileştirildi. Bu makalede performansı gerçekten iyileştirmeye 
+yardımcı olacak başka bir filtreye bakmak istiyorum.
+Bu serinin başlarında bir boğa veya ayı piyasası rejimi filtresi uygulama fikrini test ettik. 
+Sonunda, bu çok fazla işe yaramadı ve filtre terk edildi. Sevdiğim bir diğer yöntem
+www.sistemtradersuccess.com 17
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Piyasayı bölmek için kullanılan volatilitedir. Piyasalar doğal olarak düşük volatilite ile yüksek volatilite arasında 
+geçiş yapar. Belki de ticaret sistemimiz yüksek volatilite piyasalarında daha iyi performans gösterir. Ya da belki 
+düşük volatilite piyasalarında daha iyi performans gösterir. Ya da belki de volatilite uçlarından uzakta en iyi 
+performansı gösterir. Bu fikri test etmek için volatiliteyi günlük bir çubuk grafikteki fiyat hareketine göre 
+ölçeceğim ve TradeStation'ın optimize özelliğini kullanarak sistemlerimizin performansını farklı piyasa volatilite 
+koşullarında ölçeceğim.
+Volatilite Filtresi
+Volatilite testimizi gerçekleştirmek için öncelikle günlük grafikteki volatiliteyi yakalamam gerekiyor. 
+Unutmayın, 1 dakikalık bir grafikte işlem yapıyoruz, peki bunu nasıl yapıyoruz? TradeStation'da günlük 
+zaman diliminden açılış, en yüksek, en düşük ve kapanış gibi günlük fiyat öğelerini yakalayabilen yerleşik 
+EasyLanguage işlevleri var. Ancak, günlük fiyat verilerini mevcut 1 dakikalık grafiğimize eklemeyi 
+gerektiren bir teknik göstereceğim. Bunu yapıyorum çünkü bu değerli bir beceridir - tek bir grafiğe farklı 
+zaman dilimleri eklemek. Bunu nasıl yapacağınızı bilmek, tek bir grafikte çeşitli zaman dilimlerine 
+erişebilen işlem sistemleri oluşturmanızı sağlar. Bu, örneğin günlük bir grafikte sinyaller üretmenizi ve 5 
+dakikalık bir grafikte işlem yapmanızı sağlar. Tek bir grafiğe başka bir zaman diliminin nasıl ekleneceğini 
+öğrenmek için lütfen şu makaleyi okuyun: "EasyLanguage'da İki Zaman Dilimine Erişim".
+Aşağıdaki kod Euro seansı sona erdiğinde yürütülür. Basitçe kapanış gününün aralığını hesaplar ve 
+ardından günlük aralıkların 12 günlük ortalamasını hesaplar. Bu ortalama değer, işlem yapıp 
+yapmayacağımızı belirleyecek olan volatilite puanımız olacaktır.
+Eğer (Zaman = OturumBitişZamanı(1,1) ) ise 
+Başla
+// Günlük aralığı ve ortalamayı hesapla 
+ocRange = ( HighD(0) – lowD(0) ) * PriceScale; 
+ocRangeAvg = Average( ocRange, 12 );
+volFilter = ocRangeAvg < vol ve ocRangeAvg > vol-10; 
+Son;
+Daha sonra belirli bir oynaklık aralığına dayalı bir Boole bayrağı, volFilter, ayarlıyoruz. Yani, oynaklık 
+belirli bir değer aralığı arasındaysa, bayrağımızı mevcut piyasa ortamında işlem yapmanın OK 
+(doğru) olduğunu belirten şekilde ayarlıyoruz.
+TradeStation'ın optimizasyon özelliğini kullanarak, işlem sistemini tarihsel veriler üzerinde 20 kez 
+çalıştıracağım. Her yineleme için volatilite filtresi, işlemlerin yapılacağı belirli bir 10 "nokta" aralığı 
+üretmek üzere değiştirilecek. İlk yineleme volatilite aralığını 10-20 arasında, sonraki 20-30 arasında ve 
+benzeri şekilde test edecek. Bu, volatilitenin sistemin başarısında bir rol oynayıp oynamadığı konusunda 
+bize bir fikir verecektir.
+Lütfen unutmayın, oynaklık filtresini temel sisteme uyguluyorum - zaman filtresine sahip 
+sisteme değil. Oynaklık filtresini bağımsız olarak test edip sistemin performansını tek başına 
+nasıl etkilediğini görmek istiyorum. Şu anda filtreleri üst üste yığmak istemiyorum.
+www.sistemtradersuccess.com 18
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Aşağıda volatilite çalışmasının sonuçları yer almaktadır. X ekseni, yukarıda açıklanan 
+hesaplamamızla ölçülen volatilite aralığını içerir. X ekseni, dolar cinsinden net karı içerir.
+Bu biraz özensiz görünüyor. Önemli olan, hiçbir kârın oluşmadığı veya kârın oluşma eğiliminde olduğu 
+bölgeleri fark etmektir. 60'ın altında, değerlerin düşük ucuna yakın, çok az veya hiç işlem yapılmayan bir 
+bölge açıkça görüyorum. Biraz zaman harcarsanız, net kârın 190'ın üzerindeki yüksek değerlere 
+ulaştığınızda azalma eğiliminde olduğunu göreceksiniz. En büyük iki artış 110 ve 170'te meydana geliyor. 
+Ortada daha pozitif net kâr çubukları kümesi var gibi görünüyor, ancak aşırı derecede açık değil. Genel 
+olarak, bunun sistemimizin oynaklığın aşırı düşük veya aşırı yüksek olmadığı zamanlarda en iyi 
+performansı gösterebileceğini gösterdiğini düşünüyorum.
+Bu noktada, neler olup bittiğine dair daha iyi bir resim elde edip edemeyeceğimizi görmek için zaman 
+filtresini ekleyeceğim. İşte aynı optimizasyona sahip çubuk grafik.
+www.sistemtradersuccess.com 19
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Bu çok daha açık. 50 ile 240 arasındaki değerlerin net kârların çoğunu ürettiğini daha iyi görebilirsiniz. 
+Özellikle 240'ın üzerindeki değerler çok büyük kayıplara neden olur. Başka bir şekilde bakalım. Aşağıda, 
+işlem başına ortalama net kâr sonuçlarını gösteren bir çubuk grafik bulunmaktadır.
+www.sistemtradersuccess.com 20
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Aynı tabloyu görebiliyoruz. Volatilitemizin en yüksek noktasında çok fazla kayıp olduğu açık. Yine, 
+karlı işlemlerimizin büyük kısmı 60 ile 240 arasında görünüyor. Bunun sistemimizin performansını 
+nasıl etkileyeceğini test etmek için volatilite filtremizi yalnızca volatilite 60 ile 240 arasında 
+olduğunda işlem yapacak şekilde ayarlayalım. Bu testin temel sisteme göre sonuçları aşağıdadır.
+EC Scalping Sistemi Bağımsız Filtreler
+Temel çizgi Sessizlik
+Saat
+Hacim Filtresi
+Net Kar 11.207 dolar 9.748 dolar 8.348 dolar
+Kar Faktörü 1.38 2.01 1.43
+Toplam İşlemler 456 233 328
+% Kazananlar %71 %70 %70
+Ort. Net Ticaret Karı $24.58 $41.83 $25.45
+www.sistemtradersuccess.com 21
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Yıllık Getiri Oranı 7.07% 6.04% 5.71%
+Maksimum Düşüş (Gün İçi) $4.632 3.018 dolar 2.910 dolar
+Beklenti 0,11 0,30 0,13
+Beklenti Puanı 4.77 6.56 3.95
+Bunun sonuçları temel sisteme kıyasla çok az da olsa iyileştirdiğini görebiliyoruz. Ben 
+öncelikle Kar Faktörü ve Ortalama İşlem Net Karı'na bakıyorum. Kesinlikle zaman tabanlı filtre 
+kadar etkisi yok. İkisini birleştirirsek ne olur?
+İki Filtreyi Birleştirmek
+Şimdi zaman tabanlı filtreyi alıp yeni oluşturduğumuz volatilite filtresiyle birleştirebiliriz. Bunu 
+yapmak aşağıdaki sonuçları üretir:
+EC Scalping Sistem Filtreleri
+Sessizlik
+Saatler ve Hacim
+Filtre
+Sessizlik
+SaatTemel çizgi Hacim Filtresi
+Net Kar 11.207 dolar 9.748 dolar 8.348 dolar 9.305 dolar
+Kar Faktörü 1.38 2.01 1.43 3.44
+Toplam İşlemler 456 233 328 164
+% Kazananlar %71 %70 %70 %70
+Ort. Net Ticaret Karı $24.58 $41.83 $25.45 $56.74
+Yıllık Getiri Oranı 7.07% 6.04% 5.71% 6.19%
+Maksimum Düşüş (Gün İçi) $4.632 3.018 dolar 2.910 dolar 1.975 dolar
+Beklenti 0,11 0,30 0,13 0,74
+Beklenti Puanı 4.77 6.56 3.95 11.48
+Birleşik sistem (en sağdaki sütun) temel sisteme kıyasla çok iyi performans gösteriyor. Tekrar, 
+Kar Faktörü ve Ortalama İşlem Net Kârına bakıyorum. Ortalama işlem net kârımız iki katından 
+fazla arttı ve alınan toplam işlemleri önemli ölçüde azalttık. Bu bana verimsiz veya zarar eden 
+işlemleri kaldırdığımızı söylüyor. İşlem başına rahat bir miktar kazanmıyoruz, işlem başına 
+24,58$ gibi çok küçük bir marj olan temel sistemin aksine. İki filtreyi birleştirmek düşüşü 
+azaltıyor ve bu aşağıdaki öz sermaye grafiğinde açıkça görülebiliyor.
+www.sistemtradersuccess.com 22
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Hatırlatmak gerekirse, temel sistem sermaye eğrimiz böyle görünüyordu.
+Çözüm
+Açıkça güzel bir şekilde ilerliyoruz. Şimdiye kadar yaptığımız tüm çalışmalar orijinal sistemde iki 
+değişiklik üretti.
+1. Sadece 1100 – 2400 Merkez arasındaki sakin piyasa saatlerinde işlem yapın.
+www.sistemtradersuccess.com 23
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+2. Sadece piyasada aşırı oynaklık olmadığında işlem yapın.
+Sadece birkaç satır kod için çok fazla iş. Bir sonraki makalede bir stop loss değeri 
+eklemeyi ve sistemi örnek dışı verilerimizde test etmeyi inceleyeceğiz.
+Bölüm 4
+Bu, Euro vadeli işlemler scalping stratejisi oluşturma serimizin dördüncü bölümüdür. Son 
+bölümde, verimsiz işlemleri kaldırmak için bir oynaklık filtresini zaman tabanlı bir filtreyle 
+birleştirdik. Günün "sessiz" saatlerinde işlem yapmanın ve aşırı düşük/yüksek oynaklık günlerinden 
+kaçınmanın en iyi sonuçları ürettiğini bulduk. Bu makalede bir durdurma değeri belirlemek ve 
+ardından kuralları stratejimize dahil etmek istiyorum.
+Durdurma Değerini Test Etme
+Öncelikle, temel sistemimize geri döneceğim ve birkaç farklı durağı yeniden test edeceğim. İlk 
+makalede bunlara kısaca baktım ancak herhangi bir ayrıntı vermedim. Durdurma değerlerini test 
+ederken, ne kadar iyi performans gösterdiklerini ve ne kadar sağlam olduklarını test edeceğim. 
+Sağlamlıklarını nasıl test edeceğim? Durdurma yönteminin performansını nasıl etkilediğini görmek için 
+giriş parametrelerini değiştireceğim. Sağlam bir kural, farklı giriş değerleri altında iyi performans 
+gösterecektir. Oradan, sistemi OOS verilerimiz üzerinde test etmeye geçebiliriz.
+• Sert durma
+• ATR
+• ATR Karekökü
+• Gürültüye Dayanıklı Para Yönetimi Durdurma
+Test edilecek ilk durak basit bir sert duraktır. 250$'lık artışlarla 0$'dan 5.000$'a kadar sert durakları 
+test etmek için TradeStation'ın optimizasyon özelliğini kullanacağım. Sonuçlar aşağıdadır, x 
+ekseninde dolar cinsinden durak değeri ve y ekseninde sistem tarafından üretilen net kâr.
+www.sistemtradersuccess.com 24
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Temel sisteme durak eklemenin, yaklaşık 3.000$'a ulaşana kadar performansı gerçekten olumsuz 
+etkilediğini görebiliriz. Bu, yalnızca piyasayı kaptıran bir sistem için büyük bir durak. Test edilecek 
+bir sonraki durak, denge durağıdır. Bu durumda, eşik değerini 0$'dan 1.000$'a kadar 100$'lık 
+artışlarla test ediyorum. Sonuçlar aşağıdadır, eşik değeri x ekseninde dolar cinsinden ve sistem 
+tarafından üretilen net kâr y eksenindedir.
+Bu tür bir durdurma, performansımıza yardımcı olabilir, bu durdurmanın yalnızca işlemimizde pozitif sermaye 
+gösterdiğimizde aktif hale geldiğini unutmamalıyız. Bu, bu durdurmanın tek başına kullanılamayacağı anlamına gelir.
+www.sistemtradersuccess.com 25
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+bir işlem doğrudan bize karşı hareket edebilir ve bu stop aktif bile olmayacaktır. Bu pek yardımcı olmaz. 
+Test edilecek bir sonraki stop, dolar takip eden stop'tur. Bu durumda 100$'lık artışlarla 0$'dan 1.000$'a 
+kadar bir stop değerini test ediyorum. Sonuçlar aşağıdadır, x ekseninde dolar takip eden stop ve y 
+ekseninde sistem tarafından üretilen net kâr.
+Burada da pek yardımcı olmuyor. Burada bir kalıp fark ediyorum. Temel sistemde bir durdurma değeri test 
+etmemiz çok faydalı sonuçlar üretmiyor gibi görünüyor. Biraz garip görünse de, genellikle hangi durdurmanın 
+diğerlerinden daha iyi performans gösterdiğini keşfetmek için önce durdurma değerini temelde test ederim. 
+Bunların hepsi sistemimizin geçmiş verilere aşırı uyum sağlamasını önlemek içindir. Ancak bunu yapmak her 
+zaman mümkün değildir. Bu da bu durumlardan biridir. Durdurma değerlerimizi son sistemde test etmemiz 
+gerekecektir.
+Son sistemdeki durdurmayı test etmek için, yukarıda yaptığımız gibi TradeStation'ın optimizasyon 
+özelliğini kullanacağız ve iki şeye bakacağız. Birincisi, optimize edilmiş parametremizin düştüğü 
+istikrarlı bir bölge var mı? İkincisi, parametre sağlam görünüyor mu? Kısacası, parametrenin 
+birkaç değerde karlı kaldığından emin olmak istiyoruz. Bu, test ettiğimiz belirli durdurmamızdaki 
+sağlamlığı göstermeye yardımcı olur. Ayrıca, sistem performansımızı çok daha iyi gösterdiği için 
+bir aykırı değer seçmemeye de dikkat etmek istiyoruz. İstikrarlı bir aralıkta bir orta nokta değeri 
+seçmek istiyoruz.
+Öncelikle hard stop değerine tekrar bakalım.
+www.sistemtradersuccess.com 26
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Bu biraz daha iyi görünüyor. Stop loss'u 3.000 dolardan 2.000 dolara düşürerek biraz daha küçülttük. 
+İşlem başına %2 risk alırsanız, bu, böyle bir sistemde işlem yapmak için ideal olarak 100.000 dolarlık bir 
+işlem hesabımız olacağı anlamına gelir. Bu doğru yönde atılmış bir adım olsa da çok gerçekçi 
+görünmüyor.
+İşte doların düşüş grafiği.
+www.sistemtradersuccess.com 27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Dolar geriledikçe 600 ile 1.000 dolar arasında istikrarlı bir aralık görebiliriz. Bu nedenle bu sağlam bir stop 
+gibi görünüyor ve 800 dolarlık bir orta nokta değeri orijinal 2.000 dolarlık stopumuzdan daha iyi. Ama daha 
+iyisini yapabilir miyiz?
+Sırada zararı karşılama durağımız var.
+300$'da breakeven stop sistemimize yardımcı olabilir ancak unutmayın, breakeven sadece 
+300$'lık açık karımız olduğunda aktive olur. Hala 700$, 800$ ve 1.000$ aralığında 
+düşüşlerimiz var!
+ATR trailing stop, ATR stop, ATR Square Root stop ve hatta Noise Tolerant Money Management Stop dahil olmak 
+üzere birkaç başka stopu test etmeye devam ettim. Ancak hiçbiri gerçekten bu kadar umut verici görünmüyordu.
+Durdurma emirleri bir işlem sistemine eklemeye çalışırken gerçekten zor olabilir. Şimdilik, bu 
+konuda bir duvara tosluyorum. Bu sistem için kaybedilen işlemlere baktım ve ortalama 
+maksimum olumsuz sapma 125$. Ortalama kaybedilen işlem 78$. En büyük kaybedilen 
+işlemlere baktığımızda 1.000$'dan büyük sadece 8 tane var. Sanırım söylemek istediğim nokta 
+şu: Sistemin şu özellikleri var…
+1. Bir durağın oyuna girebilmesi için geniş bir alana ihtiyacı vardır.
+2. Sert bir stop, felaket düzeyindeki kayıplar için kullanılırken, çoğu işlem dinamik çıkışımızla çok daha düşük bir 
+kayıpla gerçekleştirilir.
+Bu, yıllarca bir sistem üzerinde para kazandığımız ve sadece birkaç 2.000$'lık durdurmanın 
+karımızdan bir ısırık aldığı klasik bir örneğe benziyor. Bu bana pek uymuyor. Biz
+www.sistemtradersuccess.com 28
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Bir Euro Para Birimi Scalping Stratejisinin Test Edilmesi
+Sistemimizi OOS verileri üzerinde test etmeye başlamadan önce daha iyi bir durak ve/veya giriş noktası 
+bulmaya çalışmalıyız.
+Keşfedilmemiş bir alan giriş tekniğini geliştirmektir. Şu anda bir kurulum gerçekleştiğinde bir sonraki çubuğun 
+açılışında bir işlem açıyoruz. Belki de son çubuğun en düşük seviyesinde bir limit emriyle satın almak veya 
+kurulumdan sonra daha derin bir geri çekilme beklemek daha arzu edilir olurdu. Belki de bir kurulum 
+gerçekleştikten sonra güce satın almak. Bunların hepsi test edilmeye değer fikirler.
+Aşağıdaki bağlantıyı ziyaret ederek kaynak kodunu indirebilirsiniz. Herhangi bir öneri 
+duymayı çok isterim. Web sitesinde yorum bırakmaktan çekinmeyin.
+Kaynak Kodu:
+http://systemtradersuccess.com/euro-currency-scalping-strategy/
+www.sistemtradersuccess.com 29
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+RSI ve Nasıl Kar Elde Edilir
+Ondan
+Hepimiz sihirli göstergelerin olmadığını biliyoruz ancak son 10 yıldır kesinlikle sihirli gibi davranan 
+bir gösterge var. Hangi gösterge? Güvenilir RSI'mız. Bu makalede, ilk olarak Larry Connors ve Cesar 
+Alvarez'in "Short Term Trading Strategies That Work" adlı kitabında bahsedilen iki işlem modeline 
+bakacağız. Hisse senedi endeks piyasalarının günlük grafiğinde 2 dönemli bir RSI'nin giriş 
+noktalarını bulmak için harika bir araç olduğu çeşitli makalelerde iyi bir şekilde belirlenmiştir. Boğa 
+piyasaları sırasında S&P E-Mini vadeli işlemlerindeki keskin fiyat düşüşlerini tarihsel olarak (2000 
+yılından beri) tersine dönüşler takip etmiştir. Bu tersine dönüşler genellikle iki dönem değerine 
+sahip standart RSI göstergesi kullanılarak tespit edilebilir. Bu göstergeyi günlük grafiğe yerleştirin 
+ve örneğin gösterge beşin altına düştüğünde noktaları arayın. Bu aşırı düşük noktalar satın alma 
+fırsatlarıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+RSI ve Ondan Nasıl Kar Elde Edilir
+RSI(2) Sistemi
+Bunu, E-mini S&P'de RSI(2) göstergesinin etkinliğini test etmek için basit bir işlem modeline 
+dönüştürebiliriz. Kısaca, S&P'de boğa piyasasında geri çekilme yaşandığında uzun pozisyon açmak 
+istiyoruz. Boğa trendinde olduğumuzu belirlemek için 200 günlük basit hareketli ortalamayı ve yüksek 
+olasılıklı giriş noktalarını bulmak için 2 dönemlik RSI'yi kullanabiliriz. Daha sonra fiyat 5 günlük basit 
+hareketli ortalamanın üzerinde kapandığında çıkış yapabiliriz. Kurallar açık ve basittir:
+• Fiyatın 200 günlük hareketli ortalamasının üzerinde olması gerekiyor.
+• Toplam RSI(2) 5'in altında olduğunda kapanışta satın alın.
+• Fiyat 5 günlük hareketli ortalamanın üzerinde kapandığında çıkış yapın.
+• 1000$'lık bir felaket zararı durdurma emri kullanın.
+Sistem geri testi Eylül 1997'den Mart 2012'ye kadar gerçekleştirildi. Her gidiş-dönüş için 
+toplam 50$ komisyon ve kayma düşüldü. Aşağıda bu sistemin nasıl görüneceğine dair bir 
+grafik ve sistem sonuçları yer almaktadır.
+RSI(2) Sistem Sonuçları
+Net Kar: 17.163 $
+Kazananların Yüzdesi: %67
+Hayır. İşlemler: 64
+Ortalama Ticaret: 268,16$
+Maksimum Geri Çekilme: -$5.075
+Kar Faktörü: 1.90
+www.sistemtradersuccess.com 31
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+RSI ve Ondan Nasıl Kar Elde Edilir
+www.sistemtradersuccess.com 32
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+RSI ve Ondan Nasıl Kar Elde Edilir
+Bu sonuçlar, bu kadar basit bir sistemimiz olduğunu düşünürsek harika. Bu, RSI(2) göstergesinin 
+on yıldan uzun süredir sahip olduğu gücü gösteriyor. Sadece bu kavramla bile birkaç işlem sistemi 
+geliştirebilirsiniz. Şimdilik, bu sonuçları geliştirip geliştiremeyeceğimize bakalım.
+Birikmiş RSI(2) Stratejisi
+Larry Conners, birikmiş RSI değeri oluşturarak RSI(2) işlem modeline ufak bir değişiklik 
+getiriyor. Tek bir hesaplama yerine, 2 dönemlik RSI'nin günlük toplamını hesaplayacağız. Bu 
+durumda, son üç güne ait 2 dönemlik RSI'nin toplamını kullanacağız. RSI(2)'nin birikmiş 
+değerini tuttuğunuzda değerleri yumuşatırsınız. Aşağıda, standart 2 dönemlik RSI göstergesini 
+birikmiş 2 dönemlik RSI göstergesiyle karşılaştıran bir grafik bulunmaktadır. Yeni 
+göstergemizin ne kadar daha yumuşadığını görebilirsiniz. Bu, kaliteli işlemleri yakalama 
+umuduyla işlem sayısını azaltmak için yapılır. Kısacası, orijinal işlem modelimizin verimliliğini 
+artırma girişimidir.
+Kurallar şu şekilde:
+• Fiyatın 200 günlük hareketli ortalamasının üzerinde olması gerekiyor.
+• Son üç günün kümülatif RSI(2)'sı 45'in altında olduğunda kapanışta satın alın.
+• Güncel günün kapanışına ait RSI(2) 65'in üzerinde olduğunda çıkış yapılır.
+• 1000$'lık bir felaket zararı durdurma emri kullanın.
+Toplam RSI(2) Sistem Sonuçları
+Net Kar: 17.412$
+Kazananların Yüzdesi: %67
+Hayır. İşlemler: 52
+Ortalama Ticaret: 334,86$
+Maksimum Geri Çekilme: -$4.850
+Kar Faktörü: 2.02
+www.sistemtradersuccess.com 33
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+RSI ve Ondan Nasıl Kar Elde Edilir
+www.sistemtradersuccess.com 34
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+RSI ve Ondan Nasıl Kar Elde Edilir
+S&P Nakit Piyasası
+2 dönemli RSI sistemi 1993'e kadar geriye giderek S&P nakit piyasasının 100 hissesini alıp satarak nasıl 
+görünürdü? Oldukça iyi gidiyor.
+Sonuçlar
+Peki hangisi daha iyi? Birikimli strateji amaçlandığı gibi çalıştı. İşlem sayısını azaltarak standart 
+RSI(2) işlem modelinin verimliliğini artırdı, ancak yaklaşık aynı miktarda net kar üretti. Bir bonus 
+olarak, düşüş biraz daha küçüktü. Her iki sistem de harika bir iş çıkarırken, birikim stratejisi 
+biraz daha iyi bir iş çıkarabilir. Birikimli RSI(2) stratejisi mini Dow'da ve iki ETF, DIA ve SPY'da iyi 
+çalışacaktır.
+EasyLanguage kodu aşağıdaki bağlantıyı ziyaret ederek ücretsiz olarak indirilebilir. Ayrıca bir 
+TradeStation çalışma alanı da vardır. Lütfen unutmayın, sağlanan ticaret konsepti ve kod eksiksiz bir 
+ticaret sistemi değildir. Bu, bir ticaret sisteminin çekirdeği olarak kullanılabilecek sağlam bir giriş 
+yönteminin basit bir gösterimidir. Dolayısıyla, kendi ticaret sistemlerinizi oluşturmakla 
+ilgilenenleriniz için bu konsept harika bir başlangıç   noktası olabilir.
+Kaynak Kodu:
+http://systemtradersuccess.com/rsi-and-how-to-profit-from-it/
+www.sistemtradersuccess.com 35
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Daha İyi Breakout Ticareti
+Örnek
+Bu makalede, 1987'den beri S&P E-mini vadeli işlemler piyasasında tutarlı sonuçlar 
+üreten bir breakout ticaret yöntemini kullanan S&P için basit bir breakout stratejisini 
+göstereceğim.
+Ekim sayısında yer alan “Elektronik Çağda Daha İyi Çıkışlar” başlıklı son makalede,Vadeli 
+İşlemler DergisiYazar Murray A. Ruggiero, Jr., S&P piyasasındaki kopuş stratejilerinin neden 
+pek iyi performans göstermediğini açıklıyor. Deneyimime göre, E-mini vadeli işlemler 
+piyasasındaki yaygın açık aralık kopuşu gibi kopuş stratejileri pek de iyi çalışmıyor. Bu tür 
+stratejiler, uzun ve kısa işlemlerin temelini oluşturmak için piyasanın 0830 Central açılışını 
+temel fiyat seviyesi olarak kullanır. Açılış fiyatından bir ofset değeri hesaplanır ve açılışın 
+üstüne bir stopbuy emri ve açılışın altına bir stop-sell emri verilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Daha İyi Breakout Ticaret Modeli
+piyasa daha sonra sizi uzun veya kısa bir ticarete götüren her iki yönde de hareket etmekte serbesttir. 
+Karşıt dinlenme emri daha sonra ilk stop loss değeriniz olarak işlev görür.
+Ruggiero, elektronik çağın açık aralıklı kopuş stratejisinin etkinliğini önemli ölçüde azalttığını öne 
+sürüyor. Neden? Bir zamanlar önemli olan nakit seansının 0830 Central açılışı, herhangi bir İnternet 
+bağlantılı bilgisayardan elektronik pazara neredeyse 24 saat erişim olması nedeniyle bugün geçmişte 
+olduğundan çok daha az önem taşıyor. Ruggiero bunu şöyle ifade ediyor…
+“Elektronik piyasalar, vadeli işlem piyasaları için açılış aralığı kırılmalarını yok etti. Daha 
+önce piyasalar 12 saat veya daha fazla kapalıyken, şimdi sadece birkaç saat (E-miniler 
+için 30 dakika) kapalılar. Bu da açılışı etkisiz hale getirdi. Kapanış değerli bir referans 
+noktası olmasına rağmen, enflasyon ve işsizlik gibi çeşitli raporlar nedeniyle gecelik 
+duygu değişimlerinin güçlü bir yansıması olan açılış kadar iyi çalışmadı. Açılış, emtia 
+vadeli işlemleri için önemini yitirmiş olsa da, hisse senetleri hala bu fiyat noktasına 
+duyarlıdır. Çoğu hisse senedi gece boyunca işlem görse de, hacim düşüktür ve NY 
+Borsası hisse senetleri için, her gün hisse senetlerini açmakla ilgilenen bir uzmanımız 
+hala var.”
+Bu tür işlem stratejilerinde etkinliğin kaybına neden olan gerçek suçlunun bu olup olmadığı hakkında hiçbir 
+fikrim olmasa da, S&P'deki breakout stratejileri ustalaşılması zor canavarlardır. Kişisel fikrime göre, 
+ortalamaya dönüş stratejileri genellikle S&P'de daha iyi performans gösterir, ancak Ruggiero'nun 
+söylediklerine bir bakalım.
+Ruggiero, zayıf performans sorununa olası bir "çözüm" bulmaya yardımcı olmak amacıyla piyasanın 
+davranışını keşfetmek için tasarlanmış bir test stratejisi geliştirmeye devam ediyor. Burada ayrıntılara 
+girmeyeceğim çünkü sadece Ruggiero'nun çözümüne odaklanmak ve bunu TradeStation'ın 
+EasyLanguage'ına dönüştürmek istiyorum. Ancak şunu söyleyeceğim: Ruggiero'nun deneyi, daha iyi bir 
+ofset veya esneme formülü bulmak ve performansı iyileştirmeye hangi filtrenin yardımcı olabileceğini 
+test etmek için tasarlanmıştı. İşlemleri oynaklığa göre filtrelemeye çalışmanın işe yaramadığını ilginç 
+buldum. Ruggiero, yalnızca mevcut oynaklık ortalama oynaklığın üzerine çıktığında işlem yapmayı test 
+etti. İşlem yapmak için mükemmel bir zaman olduğunu düşünebilirsiniz, ancak öyle değildi. Sonunda, 
+Ruggiero çok ilginç sonuçlar üreten iki çok basit kural ortaya koyuyor.
+Yeni Ofset Formülü
+Ofset, dünün fiyat hareketine dayanır. Daha spesifik olarak dünün kapanışı, dünün en 
+yükseği ve dünün en düşüğü. Formül şu şekildedir:
+LowOffset = Absvalue( Veri2'yi kapat - Düşük veri2); 
+HighOffset = Absvalue( Veri2'yi kapat - Yüksek veri2); 
+MaxOffset = Maxlist( LowOffset, HighOffset ); 
+MaxOffsetAvg = Average( MaxOffset, 3 );
+37
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Daha İyi Breakout Ticaret Modeli
+Yukarıdaki kodda birçok fiyat referansında "data2" kullandığımızı görebilirsiniz. Bu durumda, bu 
+basitçe bu değerleri elde etmek için günlük çubuk grafiğine baktığımız anlamına gelir. 
+Oluşturduğumuz kopuş sistemi 5 dakikalık bir grafikte işlem görecek, ancak data2'de bulunan 
+günlük grafiğe de başvurmak istiyoruz. Önce dünün kapanışı ile iki büyük fiyat uç noktası 
+arasındaki farkı alıyoruz. Daha sonra bu iki değerin daha büyük değerini alıyoruz ve üç günlük 
+ortalamayı hesaplıyoruz. Bu son değer bizim ofsetimizdir ve kodumuzda MaxOffsetAvg olarak 
+adlandırılır.
+BuMaksimumOfsetOrt.daha sonra dün kapanış değerine uygulanarak, uzun pozisyon emrimizi 
+koyacağımız bir çıkış fiyatı üretilir. Aşağıda, stop-buy emrimizi koymak için bir kod örneği verilmiştir.
+Close data2'de bir sonraki çubuğu satın al("LE") + MaxOffsetAvg stop;
+Momentum Filtresi
+Ruggiero işlemlerine basit bir momentum filtresi uygulamaya devam ediyor. Momentum 
+hesaplaması, dünkü kapanış fiyatı ile son 40 gündeki ortalama kapanış fiyatı arasındaki farktan 
+başka bir şey değildir.
+vMomentum = Kapanış verileri2 - Ortalama( Kapanış verileri2, Geriye Bakış );
+Momentum filtresi uygulandığında, sistemin yalnızca momentum negatif olduğunda uzun vadeli 
+işlemler yapacağını fark edeceksiniz. Başka bir deyişle, uzun vadeli emirlerimizi vermeden önce 
+düşen fiyat hareketini arıyoruz.
+Eğer ( vMomentum < 0 ) ve ( EntriesToday(Date) = 0 ) ise o zaman bir sonraki çubuğu Kapat'ta satın al("LE")
+Temel Sistem
+Ruggiero, bu basit kurallarla S&P E-mini piyasası için bir breakout ticaret modeli geliştirdi. 
+Aşağıdaki tüm örnekler, 1987'den 5 Ekim 2012'ye kadar S&P Emini vadeli işlem piyasasının 
+tarihsel fiyat hareketlerinden oluşturulmuştur. Kayma ve komisyonları hesaba katmak için 
+her ticaretten toplam 30$ düşülmüştür.
+Daha İyi Breakout Temel Sonuçları
+Temel çizgi
+Net Kar $31.338
+Kar Faktörü 1.47
+Toplam İşlemler 377
+% Kazananlar %59
+Ort. Net Ticaret Karı $83.23
+38
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Daha İyi Breakout Ticaret Modeli
+Yıllık Getiri Oranı 9.43%
+Sharpe Oranı 0,29
+Maksimum Düşüş (Gün İçi) 5.527 dolar
+Beklenti 0,20
+Beklenti Puanı 5.16
+Hisse senedi grafiği, S&P E-mini'nin tüm ömrü boyunca bir kopuş sistemiyle işlem yaptığımızı 
+düşünürsek çok iyi görünüyor. Eğrinin büyümesi sırasında bazı düz dönemler ve birkaç keskin 
+düşüş dönemi var. Ancak bu sisteme uygulanan herhangi bir durdurmamızın olmadığını da 
+unutmayın. Giriş kuralları dinamiktir ve sürekli değişen piyasa oynaklığına uyum sağlar. 
+Momentum filtresi için 40 günlük geriye dönük dönem optimize edilmemiştir ve etrafındaki diğer 
+değerler de olumlu sonuçlar üretir. Genel olarak, bu temel sistem bence çok iyi görünüyor. 
+Potansiyel olarak karlı bir işlem modeli için umut verici bir başlangıç.
+Offset Stop Loss'lu Temel
+Temel sistemde bir stop loss yoktur. Buna dinamik bir stop loss ekleyelim. En belirgin stop seviyesi, 
+bizimkini kullanmaktır.MaksimumOfsetOrt.değer. Bir işlem açıldığında, basitçe bir durdurma emri 
+yerleştirinMaksimumOfsetOrt.Girişimizden uzaklık. Bunu yapmak aşağıdaki sonuçları üretir.
+39
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Daha İyi Breakout Ticaret Modeli
+Offset Stop ile Daha İyi Kopuş
+Temel çizgi Ofset Durdurma
+Net Kar $31.338 $34.738
+Kar Faktörü 1.47 1,56
+Toplam İşlemler 377 377
+% Kazananlar %59 %58
+Ort. Net Ticaret Karı $83.23 $92.12
+Yıllık Getiri Oranı 9.43% 9.95%
+Sharpe Oranı 0,29 0,32
+Maksimum Düşüş (Gün İçi) 5.527 dolar $3.878
+Beklenti 0,20 0,24
+Beklenti Puanı 5.16 6.25
+Performans sayıları kesinlikle iyileşti. Diğer tüm performans ölçümlerini artırırken 
+düşüşümüzü azalttık. Bir durdurma eklemek sistemi açıkça iyileştirdi. Bu beni
+40
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Daha İyi Breakout Ticaret Modeli
+yarısını almanın ne anlama geldiğini merak ediyorumMaksimumOfsetOrt.değer, bir durdurma değeri olarak nasıl görünüyor. Bir 
+kopuşun çok fazla geri çekilmemesi gerektiği fikrini beğeniyorum, bu nedenle sadece kopuş aralığının yarısını riske atmalıyız. Bu 
+sonuçlar aşağıdadır.
+1/2 Ofset Stop ile Daha İyi Kopuş
+Temel çizgi Ofset Durdurma 1/2 Ofset
+Durmak
+Net Kar $31.338 $34.738 $37.153
+Kar Faktörü 1.47 1,56 1.67
+Toplam İşlemler 377 377 377
+% Kazananlar %59 %58 %53
+Ort. Net Ticaret Karı $83.23 492.12 98,55 ABD doları
+Yıllık Getiri Oranı 9.43% 9.95% 10.30%
+Sharpe Oranı 0,29 0,32 0,35
+Maksimum Düşüş (Gün İçi) 5.527 dolar $3.878 3.465 dolar
+Beklenti 0,20 0,24 0,32
+Beklenti Puanı 5.16 6.25 8.31
+41
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Daha İyi Breakout Ticaret Modeli
+Sistemi tekrar geliştirmiş gibi görünüyoruz. Kazanan işlemlerin yüzdesi düşerken, riskimizi azalttık 
+ve böylece performans ölçütlerinin çoğunu iyileştirdik. Genel olarak, bu umut verici görünüyor. 
+Ruggiero çok ilginç bir kopuş konsepti geliştirdi ve fikirlerini paylaştığı için ona teşekkür ediyorum.
+Sonuçlar
+Bu sistemde test edilebilecek çok daha fazla şey var. Bir rejim filtresine ne dersiniz? Momentum 
+filtremizi tersine çevirerek kısa işlemler yapmaya ne dersiniz? Ancak bu karlı bir işlem sistemi için 
+harika bir başlangıç. Görünüşe göre burada bir kazananımız olabilir. Bunu okuyan geliştiricileri bu 
+konsepti takip etmeye ve web sitesinde yorum bırakarak fikirlerinizi paylaşmaya teşvik ediyorum.
+Kaynak Kodu:
+http://systemtradersuccess.com/better-breakout-trading-system/
+42
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Basit Kısa Vadeli İşlem Stratejisi
+Yıllar boyunca Larry Connors ve Cesar Alvarez'in "Short Term Trading Strategies That Work" 
+adlı kitabında yayınlanan birkaç çok basit uzun stratejiye baktım. Bu makaleler aşağıdaki 
+uzun stratejileri içerir:
+• Çift Yedi Stratejisi
+• RSI(2) Stratejisi
+• VIX Esneme Stratejisi
+• RSI ve VIX Stratejisi
+Connors ve Alvarez'in kitabında, büyük piyasa endekslerinde kullanılabilecek basit bir kısa 
+pozisyon stratejisi bulacaksınız. Bu makalede bu stratejiyi inceleyeceğim ve ayrıca birkaç hafta 
+önce incelediğimiz Çift Kısa Pozisyon stratejisiyle birleştireceğim.
+Basit Kısa Vadeli İşlem Stratejisi
+Bu sistemin kuralları çok basittir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Basit Kısa Vadeli İşlem Stratejisi
+• Enstrümanın 200 günlük hareketli ortalamasının altında olması gerekiyor.
+• Eğer enstrüman üst üste dört veya daha fazla gün yükselişle kapanırsa, kapanışta kısa satış yapın.
+• Bir sonraki çubuğun açılışında fiyat 5 günlük SMA'nın altına düştüğünde pozisyonunuzu kapatın.
+İşlem modeli çok basittir ve genel piyasa hissiyatı düşüş eğilimindeyken güçlü yükseliş 
+hareketlerini azaltmaya çalışır. Sadece piyasa 200 günlük SMA'sının altındayken işlem yaparak 
+ayıların kontrolde olduğundan emin oluruz. Daha sonra dört günlük ardışık piyasa ilerlemesiyle 
+tanımlanan kısa vadeli yükseliş gücüne satış yapmaya çalışırız.
+Aşağıda S&P Cash Index'te örnek işlemleri gösteren bir ekran görüntüsü bulunmaktadır. Daha büyük bir görünüm için resme 
+tıklayın.
+Aksi belirtilmediği takdirde bu makalede yapılacak tüm testler aşağıdaki varsayımlara 
+dayanacaktır:
+• Başlangıç   hesap büyüklüğü 100.000$.
+• Test edilen tarihler 1993'ten 31 Ocak 2013'e kadardır.
+• İşlem yapılacak hisse senedi sayısı volatilite tahminine ve işlem başına 2.000 dolardan fazla risk 
+alınmamasına dayanacaktır.
+• Volatilite, beş kez 20 günlük ATR hesaplamasıyla tahmin edilir. Bu, işlem başına risk 
+miktarını normalleştirmek için yapılır.
+• Kâr ve zarar, başlangıç   sermayesine biriktirilmez.
+• Komisyon ve kayma kesintisi yapılmamaktadır.
+• Durak yok.
+Kullanılan pozisyon boyutlandırma formülü şöyledir:
+44
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Basit Kısa Vadeli İşlem Stratejisi
+Hisseler = İşlem başına 2.000 $ / 5 * ATR(20) * Big_Point_Value )
+Larry Connors Kısa Performansı
+SPX
+Toplam Net Kar 3.507 dolar
+Kar Faktörü 2,78
+Toplam İşlem Sayısı 30
+Yüzde Karlılık %70
+Ort. Net Ticaret Karı 116,92 ABD doları
+Sermaye Getirisi 3.51%
+Yıllık Getiri Oranı 0,18%
+Genel olarak, bu çok etkileyici değil. 1993'ten beri sadece 30 işlemle sermayemizden sadece 
+%3,51 getiri elde ediyoruz. Elbette piyasa eğilimi yukarı, bu yüzden çoğu zaman aktif olarak 
+işlem aramıyoruz. Ancak bu ayı piyasaları sırasında işlem aradığımızda bile, bu
+45
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Basit Kısa Vadeli İşlem Stratejisi
+yöntem, peşinden gitmeye değer hale getirecek kadar kar elde etmiyor. Bu, bu makalede 
+yazdığım benzer bir sonuçtur, "Ölüm Haçı - Bilmeniz Gerekenler".
+Çok fazla bir değişiklik beklemiyorum ama SPY ETF'sinin işlemlerine bir bakalım.
+Larry Connors Kısa SPY ve SPX
+SPX CASUS
+Toplam Net Kar 3.507 dolar 5.536 dolar
+Kar Faktörü 2,78 4.08
+Toplam İşlem Sayısı 30 38
+Yüzde Karlılık %70 %76
+Ort. Net Ticaret Karı 116,92 ABD doları 145,69 ABD doları
+Sermaye Getirisi 3.51% 5.54%
+Yıllık Getiri Oranı 0,18% 0,28%
+Sonuçlar biraz daha iyi ama çok heyecan verici değil.
+46
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Basit Kısa Vadeli İşlem Stratejisi
+Kısa Vadeli Çift Yedi
+Bu kısa vadeli işlem yönteminin o kadar da harika olmadığını belirlemiş olsak da, eğlence olsun diye 
+bunu birkaç hafta önce incelediğimiz Larry Connors'ın Double Seven adlı uzun vadeli işlem stratejisine 
+ekleyelim ve SPY ETF'sini işlem yapmak için kullanalım. Ben sadece bir önceki makaledeki TradeStation 
+strateji kodunu boğa ve ayı piyasası sırasında işlem yapmak için güncelledim. Boğa piyasası sırasında 
+Double Seven stratejisi aktif olarak işlem yaparken ayı piyasası sırasında Connors Shorting stratejisi işlem 
+yapacaktır. Aşağıda bu iki stratejiyi tek bir sistemde birleştirmenin sonuçları yer almaktadır.
+Kısa Vadeli Hisse Senedi Eğrisi ile Çift Yedi
+47
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Basit Kısa Vadeli İşlem Stratejisi
+Haftalık Kısa Vadeli Düşüşle Çift Yedi
+Aşağıdaki performans grafiği Yalnızca Uzun sistemini, birleştirilmiş Uzun/Kısa sistemiyle 
+karşılaştırmaktadır.
+Shorting ile Double Seven Stratejisi
+Sadece Uzun Uzun &
+Kısa
+Toplam Net Kar $46.325 51.966 ABD doları
+Kar Faktörü 2.63 2,72
+Toplam İşlem Sayısı 156 194
+Yüzde Karlılık %74 %75
+Ort. Net Ticaret Karı $296.96 $267,86
+Sermaye Getirisi 46.33% 51.97%
+Yıllık Getiri Oranı 1.98% 2.18%
+48
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Basit Kısa Vadeli İşlem Stratejisi
+Çözüm
+Kısa devre bileşenine sahip Double Seven Stratejisi, yalnızca uzun Double Seven stratejisinin sonuçlarını 
+biraz iyileştirir. Bu sistem gerçek parayla olduğu gibi işlem görebilir mi? Muhtemelen hayır. Unutmayın, 
+hiçbir durdurma noktası yoktur. Ancak bu, biraz çalışmayla işlem görebilir bir sisteme dönüştürülemeyeceği 
+anlamına gelmez. Ayrıca, yukarıda gerçekleştirilen testler sırasında kârların yeniden yatırılmadığını 
+unutmayın. Her işlem yalnızca 2.000$ riske edildi, bu da 100.000$'lık bir hesapta %2 riske denk geliyor. İşlem 
+başına %2 risk korurken kârınızı yeniden yatırırsanız ve/veya işlem başına riskinizi artırırsanız, getirileriniz 
+daha fazla olacaktır.
+Kaynak Kodu:
+http://systemtradersuccess.com/simple-shorting-strategy/
+49
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Korkuyu Zamanlamak İçin Kullanmak
+Pazar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+Piyasayı Zamanlamak İçin Korkuyu Kullanmak
+%75 doğruluğa sahip ve sürekli olarak S&P'den para çeken bir işlem modeli görmek ister 
+misiniz? Aşağıdaki işlem modeli VIX Stretch Stratejisi olarak adlandırılır ve Larry Connors ve 
+Cesar Alvarez'in "Short Term Trading Strategies That Work" adlı kitabında bulunmuştur. 
+Kavram, S&P E-mini vadeli işlemler piyasasının günlük grafiğinde uygulanır ve kuralları çok 
+basittir.
+1) Fiyatın 200 günlük hareketli ortalamasının üzerinde olması gerekir
+2) VIX, 10 günlük hareketli ortalamasının %5 veya daha fazla üzerinde 3 veya daha fazla gün boyunca gerilmiş olmalıdır
+3) 2 dönemlik RSI 65'in üzerine çıktığında çıkış yapın
+200 günlük basit hareketli ortalama (SMA), piyasayı iki ana rejime bölerek basit bir piyasa 
+ortamı filtresi görevi görür: yükseliş ve düşüş. Strateji yalnızca uzun vadeli olduğundan, 
+kapanış fiyatı 200 günlük SMA filtresinin üzerindeyse işlemler başlatılır.
+Bir sonraki kural, S&P 500 endeks opsiyonlarının örtük oynaklığının bir ölçüsü olan VIX'i kullanır. Buna 
+bazen korku endeksi denir. Neden mi? Piyasa keskin bir şekilde düştüğünde ve piyasa katılımcıları 
+korktuğunda bu endeksin önemli ölçüde yükseldiğini göreceksiniz. Bu nedenle, VIX endeksindeki artışlar 
+genellikle dik veya dramatik piyasa satışlarıyla ilişkilendirilir. Uzun vadeli bir yükseliş trendi içinde 
+olduğumuzda uzun bir işlem açmak için bir piyasa düşüşü aradığımızdan, piyasa düşüşünü ölçmek için 
+VIX endeksini kullanırız. Genel bir yükseliş piyasası içindeki düşüşleri satın almak klasik bir ticaret 
+kurulumudur. Ayrıca, bir piyasa düşüşünü ölçmek için yalnızca fiyat hareketini kullanmadığımızı belirtmek 
+de ilginçtir. Piyasa düşüşünün seviyesini ölçmek için VIX'i kullanarak S&P 500 endeks opsiyon fiyatlarında 
+görülen artan oynaklığı ölçüyoruz. Bu nedenle, doğrudan fiyattaki bir gerilemeyi değil, dolaylı olarak 
+ölçüyoruz.
+Son kural, 2 dönemlik bir RSI kullanan çıkış kuralımızdır. Günlük çubuğun kapanışında RSI 
+hesaplanır ve bu değer 65'in üzerindeyse kapanışta çıkış yaparız. Bu kuralları EasyLanguage'da 
+kodladım ve 1983'e kadar uzanan S&P nakit piyasasında test ettim. Oldukça iyi sonuç verdi. 
+Sonuçların ayrıntılarına girmeden önce şunu söylememe izin verin: Bu makaledeki tüm testler 
+aşağıdaki varsayımları kullanacaktır:
+• Başlangıç   hesap büyüklüğü 100.000$.
+• Test edilen tarihler 1983'ten 31 Mart 2013'e kadardır.
+• İşlem yapılacak hisse senedi sayısı volatilite tahminine ve işlem başına 2.000 dolardan fazla risk 
+alınmamasına dayanacaktır.
+• Volatilite, beş kez 10 günlük ATR hesaplamasıyla tahmin edilir. Bu, işlem başına risk 
+miktarını normalleştirmek için yapılır.
+• Kâr ve zarar, başlangıç   sermayesine biriktirilmez.
+• Komisyon ve kayma kesintisi yapılmamaktadır.
+51
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Piyasayı Zamanlamak İçin Korkuyu Kullanmak
+• Durak yok.
+Kullanılan pozisyon boyutlandırma formülü şöyledir: 
+Hisseler = İşlem başına 2.000 $ / 5 * ATR(10)
+Aşağıda, sistemin orijinal yaratıcısı tarafından tanımlanan kurallara göre S&P nakit endeksi işlem 
+sonuçları yer almaktadır.
+Bu strateji, Connors'ın birçok işlem modeli gibi, ABD borç görüşmelerinin piyasayı bir dizi güçlü ayı 
+gününe sürüklediği 2011 yazının sonuna kadar iyi iş çıkardı. İşlem modeli şu anki haliyle herhangi bir 
+koruyucu durdurma noktasına sahip değil! Unutmayın, bu, eksiksiz bir işlem sistemiyle kullanılabilecek 
+potansiyel bir piyasa avantajının incelenmesidir. Ancak şu haliyle, eksiksiz bir sistem değildir. Bununla 
+birlikte, 2011'deki büyük çöküşten sonra bile sistem kazançlı işlemler üretmeye devam ediyor, bu 
+yüzden şimdilik o tek büyük kayıptan fazla endişelenmiyorum. Bu temel sistem öncülünü çevreleyen 
+girdi değerlerinin sağlamlığını test etmekle daha çok ilgileniyorum. Şimdi bu girdilerden birkaçına 
+bakalım.
+Gerilme Faktörünün Test Edilmesi
+Orijinal kurallar, VIX'in 10 günlük ortalamanın %5 ötesine gerildiği üç ardışık gün arar. Sistemin ne kadar 
+iyi dayanacağını görmek için orijinal %5 değerlerinin etrafındaki farklı yüzdeleri test etmek istiyorum. Bu, 
+bu ayarın sağlamlığını ve dolayısıyla işlem modelinin sağlamlığını test etmek için yapılır. Güçlü bir piyasa 
+avantajı, modelin parametreleri içinde değişikliklere izin verecek ve yine de olumlu sonuçlar üretecektir. 
+İdeal olarak, esneme faktörü değerlerini değiştirmek olumlu sonuçları korumalıdır. Görmek istemediğim 
+şey, esneme faktöründeki küçük değişikliklerin işlem sonuçlarını önemli ölçüde değiştirmesidir.
+52
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Piyasayı Zamanlamak İçin Korkuyu Kullanmak
+TradeStation optimizasyon özelliğini kullanarak esneme faktörünü test edeceğim. %1 - %15 esneme 
+değerlerini test edeceğim. Aşağıda sonuçları gösteren bir grafik bulunmaktadır. X ekseni 1 - 15 
+yüzdelerini ve y ekseni ise o belirli çalışma için elde edilen karı göstermektedir.
+Sistemin daha az dolar ürettiğini görmek çok da şaşırtıcı değil, çünkü esneme faktörünü artırıyoruz. 
+Çok düzenli bir iniş. Elbette daha az işlem yapacağız çünkü VIX'in daha da fazla esnemesini 
+istiyoruz, dolayısıyla daha az kar elde edeceğiz. Kişi sadece %1'in ötesine esneyen işlemler yapmaya 
+ve 40.000 dolar kar elde etmeye meyilli olabilir. Ancak, bunun bize söylemediği şey her işlemin ne 
+kadar etkili veya verimli olduğudur. Elbette daha fazla para kazanıyorsunuz ama bu getiriyi elde 
+etmek için kaç işlem yapmanız gerekiyor? İşlem başına ortalama karı esneme faktörüne göre 
+grafiğe dökerek buna başka bir açıdan bakalım.
+53
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+Piyasayı Zamanlamak İçin Korkuyu Kullanmak
+Bu daha da ilginç. %1'lik bir esnemeden yaklaşık %10'luk bir esnemeye geçtiğimizde işlem başına daha fazla 
+dolar ürettiğimizi fark edin. Başka bir deyişle, sistemimiz daha verimli hale geliyor. %1 veya daha fazla 
+esnemeyle üretilen tüm işlemleri alırsak işlem başına 100 doların biraz üzerinde kazanırız. Ancak %8 civarına 
+geldiğimizde işlem başına ortalama 200 dolar elde ederiz ve %9 ve %10'da bunun ötesine geçeriz. Burada 
+%5'lik bir değerin neden çok makul göründüğünü ve optimize edilmediğini görebiliriz.
+Burada başka bir şey daha var. %10'luk esneme değerinden sonra ortalama karımızın düştüğüne dikkat edin. 
+Bu bana VIX %10'un ötesinde esnediğinde fiyatın düşmeye devam edeceğini söylüyor! Bu önemli bir ipucu. 
+Belki de işlem yapılabilir kurulumları yalnızca %5 ile %10 arasında sınırlamak, yapılması gereken değerli bir test 
+olabilir. Şimdilik olduğu gibi bırakalım ve %5'lik bir esneme faktörünün sağlam ve optimize edilmemiş 
+göründüğü sonucuna varalım. Başka bir parametreye bakalım.
+SMA'yı test etme
+Az önce gerçekleştirdiğimiz stretch factor testinde belirtilen aynı sebeplerden dolayı, şimdi 10 günlük ortalama 
+parametreye bakmak istiyorum. Bir kez daha TradeStation'ın optimize özelliğini kullanarak 1-20 periyodundaki 
+değerleri test edeceğim. Aşağıda sonuçları gösteren bir grafik bulunmaktadır. X ekseni, SMA hesaplamasında 
+kullanılan geriye dönük periyodu, 3 – 20'yi ve y ekseni ise o belirli çalışma için elde edilen karı göstermektedir.
+54
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Piyasayı Zamanlamak İçin Korkuyu Kullanmak
+Burada, SMA geriye dönük dönem için seçilebilecek çok çeşitli karlı seçenekler olduğunu görmekten 
+mutluluk duyuyoruz. Mevcut 10 değerimiz hiç de optimize edilmiş görünmüyor. Şimdi iki önemli girdi 
+değerine baktığımıza göre, bir işlem tetiklendikten sonra piyasanın nasıl davrandığına bakalım.
+Etkinlik Sonrası Pazar Davranışı
+Korkuda bir artış olduğunu düşündüğümüz şeyi tespit ettikten ve piyasada uzun pozisyon almanın zamanı 
+geldiğine inandıktan sonra, böyle bir olaydan sonra piyasanın genel yönünü test etmek istiyorum. Piyasa 
+düşme, yükselme eğiliminde mi yoksa pek bir şey yapmama eğiliminde mi? Bunu test etmek için, açtıktan X 
+gün sonra bir pozisyonu tutup sonra kapatacağım. Bir VIX Stretch olayı meydana geldikten sonra piyasanın 
+önümüzdeki birkaç gün veya birkaç hafta içinde yükselme eğiliminde olduğunu görmeyi umuyorum. Diğer 
+benzer kurulumları test etme bilgime dayanarak, bunun tam olarak göreceğimiz şey olduğunu tahmin 
+ediyorum. Ayrıca, bir işlemi ne kadar uzun süre tutarsak, o kadar fazla kar elde edeceğimizi de tahmin 
+ediyorum. Bu, S&P için diğer benzer zamanlama yöntemleriyle tutarlı olacaktır. Aşağıda sonuçları gösteren bir 
+grafik bulunmaktadır. X ekseni tutma süresini ve y ekseni o belirli çalışma için elde edilen karı göstermektedir.
+55
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+Piyasayı Zamanlamak İçin Korkuyu Kullanmak
+Bingo! Tam da düşündüğüm gibi. Bir işlemi ne kadar uzun süre tutarsanız, o kadar fazla kar elde edersiniz. VIX 
+Stretch sisteminin, işlemleri orijinal kuralların sağladığından daha uzun süre tutarak kolayca geliştirilebileceğini 
+tahmin ediyorum.
+Sonuçlar
+Bu, yüksek olasılıklı bir giriş noktasını belirlemek için başka bir uygulanabilir yöntem gibi 
+görünüyor. Bu işlem modelinin parametrelerinin çeşitli değerlerde çalışarak sağlam 
+göründüğünü gösterdik. Ayrıca, piyasanın bir işlem tetiklendikten sonra yükselme eğiliminde 
+olduğunu da gösterdik.
+Sonuçları oluşturmak için kullandığım kod bu makalenin en altında mevcuttur. Bu, kendi paranızla işlem 
+yapabileceğiniz eksiksiz bir işlem sistemi mi? Muhtemelen hayır. Lütfen bu sonuçları oluşturmak için kullanılan 
+kodun hiçbir durdurma noktası olmadığını unutmayın! Çoğu kişi bunu kuralların tamamen ihlali olarak 
+değerlendirir. Ben kendim durdurma noktaları olmadan işlem yapmazdım. Bu nedenle felaket bir sert durdurma 
+noktası eklenebilir. Sonuç olarak, bu zamanlama stratejisi eksiksiz bir işlem sistemi oluşturmak için harika bir tohum 
+fikridir. Biraz yaratıcılıkla bunu kazançlı bir sisteme dönüştürebileceğinizden eminim.
+Kaynak Kodu:
+http://systemtradersuccess.com/vix-stretch/
+56
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+İşe Yarayan Beş Basit Strateji
+Bunu gerçekleştir!
+Bu kitaptaki stratejiler eksiksiz ve karlı işlem sistemlerine dönüştürülebilir. Başlamak için en 
+kolay sistem Better Breakout Trading Model'dir. Temel stratejiyi değiştirmek ve test etmek 
+birçok fırsat sağlayacaktır. Ancak stratejileri değiştirmek ve test etmek o kadar da basit bir iş 
+değildir ve tehlikelerle doludur.
+Başarılı bir sistem yatırımcısı olmak, sadece bu e-Kitaptan bir sistemi kopyalayıp biraz parayla alıp satmak 
+değildir. Bundan çok daha fazlasıdır. Stratejiyi düzgün bir şekilde test etmek için tekniklere sahip olmanız 
+gerekir, böylece sistemin gelecekte çalışacağına güvenebilirsiniz. Stratejinin risk seviyelerini ve kişisel risk 
+toleransınızın ne olduğunu bilmeniz gerekir. Her bir sistemi alıp satmak için ne kadar para gerektiğini 
+bilmeniz gerekir. Uygun şekilde sermayelendirilmeniz ve eğitim almanız gerekir, aksi takdirde 
+başarısızlığa mahkum olursunuz.
+Ticaret sistemleri kurmak kolay değildir. Bu konuda size başlangıç   sağlamak için, karlı sistemler 
+kurmak için ihtiyaç duyacağınız temel bilgiler hakkında 100+ sayfalık bir e-kitap yazdım.
+100+ Sayfalık E-Kitap Karlı 
+Ticaret Sistemleri Oluşturma
+Daha Fazlasını Öğrenmek İçin Buraya Tıklayın
+Daha fazla bilgi edin
+Umarım bu ücretsiz e-Kitabı beğenmişsinizdir. Beğendiyseniz, "Kârlı Ticaret Sistemlerinin Nasıl Oluşturulacağını 
+Keşfedin" e-Kitabımı seveceksiniz. Ticaret fikirlerini nasıl düzgün bir şekilde test edeceğinizi göstererek size mutlak 
+temel bilgileri verir.
+Bol şans ve System Trader Success'te görüşmek dileğiyle!
+Tamamen,
+Jeff Swanson
+Sistem Tüccarı Başarısı
+57
+www.forexgercekleri.xyz - [Twitter: @eseckal]

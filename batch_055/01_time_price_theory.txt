@@ -1,0 +1,170 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 1\Baskı 1\Zaman ve Fiyat Teorisi (9 sayfa) - @eseckal.pdf
+PAGES: 9
+
+
+=== PDF PAGE 1 ===
+Özel Mentorluk İçeriği
+Konseptler: Michael Huddleston, TraderDext3r, PO3Trader, theMMXMtrader
+Süre ve Fiyat
+Teori
+IPDA Geriye Dönük Aralıklar ve 
+Standart Sapma Projeksiyonları
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+SORUMLULUK REDDİ
+Bu ticari PDF'de/belgede sağlanan bilgiler yalnızca eğitim ve bilgilendirme amaçlıdır. Mali tavsiye 
+niteliğinde değildir ve bu belgedeki hiçbir içerik, herhangi bir özel ticaret veya yatırım faaliyetine 
+katılmaya yönelik bir tavsiye veya onay olarak değerlendirilmemelidir. Finansal piyasalarda işlem 
+yapmak risk içerir ve bireyler herhangi bir yatırım kararı vermeden önce kendi araştırmalarını 
+yapmalı ve profesyonel tavsiye almalıdır.
+Bu PDF'nin/belgenin yazarı, sağlanan bilgilerin doğruluğu, eksiksizliği veya uygunluğu konusunda 
+herhangi bir sorumluluk kabul etmez. Tüm okuyucuların, herhangi bir mali karar vermeden önce nitelikli 
+bir mali müşavir veya profesyonele danışmaları teşvik edilmektedir. Bu PDF/belgedeki bilgilere 
+dayanarak gerçekleştirilen her türlü eylem tamamen okuyucunun takdirindedir ve risk altındadır.
+Bu PDF/belgeye erişerek, bu belgede sunulan bilgilerin kullanımı sonucunda ortaya 
+çıkabilecek hiçbir kayıp veya zarardan yazarın, yayıncının ve dağıtımcıların sorumlu 
+olmadığını kabul ve beyan edersiniz. İçerik, açık veya zımni herhangi bir garanti olmaksızın 
+"olduğu gibi" sağlanmaktadır.
+Bu belgenin içeriği doğru, güncel olmayabilir veya bireysel koşullara uygun olmayabilir. 
+Finansal kararlar vermeden önce her türlü bilgiyi doğrulamanız ve profesyonel tavsiye 
+almanız önerilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+giriiş
+METİN
+Bu PDF, Para Kavramları ticareti yaparken kullanılan birkaç güçlü Smart aracını birleştirmek için bir 
+rehber görevi görecektir.(SMC)
+1. Standart Sapma Projeksiyonları ~STDv
+2. Bankalararası/Kurumsal Fiyat Dağıtım Algoritması ~ Yeniden İnceleme Aralıkları ~IPDA
+3. Piyasa Yapıcı Modeller ~MMXM'ler
+Bu kavramlar ilk olarak Inner Circle Trader'ı Michael Huddleston tarafından kodlanmıştır.(
+BİT) gibiler tarafından geliştirildiTraderDext3r,Po3Trader,vetheMMXMtrader
+Kaynaklar Bu konuları geliştiren ve öğretilerini 
+geliştirmemize olanak sağlayan kişilere 
+teşekkür etmek isterim. Bunlar olmadan
+katkıların hiçbiri olmazdı
+olası.
+Benimle iletişime geç
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+IPDA ve MMXM
+1.
+Geriye Bakış Aralığı Senkronizasyonu
+2.
+AMD/PO3'ü SMR Bağlamında Çerçevelemek
+3.
+Standart Sapma Projeksiyonları
+4.
+Çalışılan Örnekler
+Ben. H1 MMXM
+ii. Günlük MMXM
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+1. Geriye Dönük Senkronizasyon
+Günlük İnceleme:20, 40, 60 Gün
+H1 İncelemesi:3 gün
+M1/M5'e Geri Bakış: 3 H4 Mum
+Geriye Dönme İşlevi
+İşlev, incelenen belirli bir zaman dilimi bağlamında piyasadaki önemli Fiyat Teslimat Dizilerini (PDA'lar) belirlemek için 
+kullanılır. Genel olarak konuşursak, fiyat, her yeniden inceleme dönemindeki iki likidite/dizi biçimini ifade eder:
+1. Dış Menzil Likiditesi ~ Eski Salınım Yüksekleri ve Düşükleri
+2. İç Aralık Likidite ~ Bir İşlem Aralığının Priminde veya İndiriminde Verimsizlikler
+Fiyat Teslimat Sürekliliği ~ Zaman ve Fiyat
+Fiyat, bir indirim pazarından premium pazara geri dönerken (veya tam tersi) bu iki likidite biçimini arayacak 
+şekilde kodlanmıştır. Bu salınım, piyasa yapıcı modellerle birlikte PDA matrisi kullanılarak çerçevelenebilir.
+Mevcut piyasa teslimat durumunu nitelendirmek için, Piyasa Yapıcı Eğrisi'nin hangi tarafında olduğumuzu inceliyoruz ve Likidite 
+Çekişi (DOL) karşılanana kadar varsayıyoruz ve Daha Yüksek Zaman Çerçevesi Akıllı Para Geri Dönüşü (SMR) fiyatının, Piyasa 
+fiyatının üstünde/altında premium/indirim dizilerine ulaşan mevcut dağıtım sürekliliği.
+Piyasa Yapıcı Modeller Fiyat Dağıtım Dizisi Matrisi
+CC:@alextlaz
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+2. PO3'ü MMXM'de çerçevelemek
+Bağlam
+MMXM bağlamında yeniden inceleme aralıklarını kullanmakPO3 hareketini çerçeveliyoruzetrafındaAkıllı Paranın Geri Dönüşü alanı bizim 
+kullanaraksenkronizasyon zaman dilimleri.
+Hatırlama: SMR, Fiyat Teslimat Sürekliliğini tersine çevirir ve IPDA'nın aradığı piyasadaki likidite hedeflerini değiştirir;
+1. Eğeryükseliş(eğrinin satın alma tarafı) fiyatı birinci sınıf bir pazar ve piyasa fiyatının üzerinde bir dizi arıyor
+2. Eğerdüşüş eğilimi(eğrinin satış tarafı) fiyat, indirimli bir piyasa arıyor ve piyasa fiyatının altında seyrediyor
+PO3'ün Tanımlanması ~ Birikim, Manipülasyon, Dağıtım
+PO3 veya AMD, fiyat hareketinin üç farklı aşamasını ifade eder; lütfen Aylık PO3'ü gösteren PO3Trader tarafından 
+hazırlanmış bu şemaya bakın. Gördüğünüz gibi aylık mum şunları içerir:Birikim,Manipülasyon, VeDağıtım Bu özel 
+teslimatın aşamaları. Bu konsepti geliştirmek için özellikle manipülasyon seviyesinde neler olduğunu araştıracağız ve 
+bunu MMXM konseptleriyle eşleştireceğiz.
+Burayı yakınlaştırıp analizimize devam edeceğiz
+CC:@PO3Trader
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+3. STDV Projeksiyonları
+Fib'inizi ayarlama S
+Fiyat hedeflerini zamanda ileriye doğru yansıtmaya başlamadan önce, geriye dönük aralıklarımızı referans olarak kullanarak fibonnaci'mizi hangi 
+ayarlarla başlattığımızı anlamalıyız. Bu araç, bir SMR'nin ardından teslimat durumundaki bir değişiklik sonrasında fiyatın indirimden prime yeniden 
+sunulması nedeniyle kurumsal fiyat hedeflerini tahmin etmek için kullanılacaktır.
+Fibonnaci Seviyeleri Seviye Önemi IPDA Hedefleri
+{1, 1,5, 2, 2,5, 4}
+Bu seviyelerin her birinde, eğrinin diğer 
+tarafına bakın ve herhangi biriyle birleştiğini 
+görün.
+Fibonacci Düzeyi -
+1
+~ Simetrik Hareket
+1. ERL ~ Öne Çıkan Yüksekler / Düşükler
+Fibonacci Seviye -2 / Seviye -2.5
+2. IRL ~ P/D'de verimsizlik
+~ Konsolidasyon / Ters Çevirme
+Fibonacci Seviye -4
+~ Maksimum Uzantı / Terminal
+Fiblerinizi Sabitlemek ~ Son "Manipülasyon Bacağı"
+Daha yüksek bir zaman diliminde, bir SMR'nin fiyatın yükselmesini ve eski düşük/yüksek seviyeyi beklemesini ve ardından piyasa yapısında (MSS) bir değişiklik 
+olmasını beklediğiniz ilgi çekici bir noktada; bu, teslimat durumundaki bir değişikliği doğrular. Akıllı Para Geri Dönüşlerini çerçevelemek için ERL veya IRL 
+biçiminde bir >H4 PDA kullanın.
+Bir MSS'den sonra fib'inizi 0-1 seviyesinden aşağıdaki şekilde izleyin:
+Seviye 0 ~ Salınım düşük/yüksek ~ERL
+Seviye 1 ~ Yapıyı bozan mum ~MSS
+PO3'ün manipülasyon ayağını Piyasa Yapıcı Ters 
+Çevirme Modeli bağlamında bu şekilde kullanacağız.
+CC
+AMTrade'ler
+: @
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+4.i H1 MMSM
+Çizelge
+Yorum
+Bu H1 örneğinde görebileceğimiz gibi, 3 günlük IPDA geriye/ileriye bakış aralığını STDV'ler ve standart Günlük->H1 
+Piyasa Yapıcı Satış Modeli (MMSM) ile birleştirebiliriz.
+1. ES'de SMT Divergence ile Daily ERL + IRL'de bir SMR çerçeveliyoruz
+2. Son manipülasyon ayağı haritalama likidite havuzlarımızı SD1, SD2.5 ve SD4'te projelendiriyoruz
+3. STDV'lerimizin likidite havuzları, grafiğimizin ilgi duyulan yeniden inceleme süresiyle (3 gün) aynı hizadadır
+Not: Fiyatın SD2.5'e doğru kayması halinde muhtemelen SD4 ~ Son Noktaya doğru devam edecektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+4.ii Günlük MMSM
+Zaman ve Fiyat fraktaldır....
+Grafiğinizin Zaman Çerçevesini çerçevelemek için yeniden 
+inceleme senkronizasyonunu kullanın!Çizelge
+Yorum
+Bu Günlük örnekte görebileceğimiz gibi, 20 ve 40 günlük IPDA geri inceleme/ileriye bakış aralığını STDV'ler ve standart Haftalık-
+>Günlük Piyasa Yapıcı Satış Modeli (MMSM) ile birleştirebiliriz.
+1. Haftalık ERL + Aylık IRL'de bir SMR çerçeveliyoruz
+2. Son manipülasyon ayağı haritalama likidite havuzlarımızı SD1, SD2 ve SD2.5'te projelendiriyoruz
+3. STDV'lerimizin likidite havuzları, grafiğimizin ilgi konusu olan yeniden inceleme süresiyle (20 gün) uyumludur.
+Not: İndirim hedeflerini gerçekleştirdikten sonra SD2 ve SD2.5'teki işarete kadar yeniden birikimi görebiliriz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

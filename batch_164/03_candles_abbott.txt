@@ -1,0 +1,1877 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 19\Baskı 19\Japon Mum Grafik Teknikleri - James Abbott (50 sayfa) - @eseckal.pdf
+PAGES: 50
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+giriiş
+Bölüm Bir: Analizin Temelleri
+Teknik Konulardan Konuşalım
+Teknik Analiz ve Temel Analiz Ticaret 
+Yöntemleri Hakkında Bir Not
+Japon Mumlarının “Pirinç”i 
+Peki ya Dow?
+Bölüm İki: Zeminler, Tavanlar ve Trendler
+Trend Ticareti Nedir? Fiyat 
+Salınımı Nedir? Ticarette Destek 
+ve Direnç
+Destek ve Dirençte Profesyonel Gibi İşlem Yapmak İçin İpuçları 
+Boğa ve Ayı Trendlerini Nasıl Belirleyebilirsiniz
+Bölüm Üç: Mum Desenleri
+Japon Mumunun Hızlı Anatomisi 
+Desenlerin Arkasındaki Fikir
+Mum Desenleri
+Mum Desenleriyle İşlem Yapmanın Avantajları
+Dördüncü Bölüm: Grafik Modellerinin Analizi
+Geri Dönüş Desenleri
+Devam Desenleri
+Beşinci Bölüm: Zirveler, Dipler ve Fibonacci Seviyeleri
+Bayan ve Bayan
+Salıncağınız Ne Kadar Büyük? 
+Girişler
+Zarar Durdurma Yerleşimleri
+Kar Alım Yerleştirmeleri
+Fibonacci Geri Çekilmeleri
+Düzeltme Girişleriyle İşlem 
+Yapma
+Zarar Durdurma Yerleşimleri
+Takip Durdurmaları
+Bölüm Altı: Bollinger Bantları
+Bollinger Bantları Nasıl Hesaplanır? Aşırı Alım ve Aşırı 
+Satım Değerleriyle İşlem Yapmak Bazen Daha Fazlası 
+Daha Fazlasıdır
+Ticaret ve Fading
+Bollinger Sıkışma
+Bollinger Bantları ve Keltner Kanalları
+Yedinci Bölüm: Stokastik ve RSI ile İşlem Yapma
+Fiyat Hareketi Hakkında Konuşalım
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Stokların Hesaplanması
+Stochs'u okumak
+Göreceli Güç Endeksi Göstergesi 
+RSI'yi Hesaplıyor
+RSI Çizildi
+RSI ile Trend Ticareti RSI 
+ile Aralık Ticareti 
+Divergent RSI
+Bölüm Sekiz: Hareketli Ortalamalarla İşlem Yapma
+Farklı Türde Hareketli 
+Ortalamaların Geçişi
+Hareketli Ortalamalarla İlgili Sorunlar Hareketli 
+Ortalamalarla Çalışma İpuçları Hareketli 
+Ortalamalarla İşlem Yapmanın Avantajları
+Bölüm Dokuz: Ticarette Risk Yönetimi
+Risk Yönetimi Nedir?
+Risk Yönetiminin Mekaniği 
+İşlemlerde Risk Yönetimi Stop 
+Loss Nedir?
+Kar Hedefi Nedir? 
+Trailing Stop Nedir? 
+Pozisyon Boyutlandırma 
+Nedir? Kaldıraç Nedir?
+Onuncu Bölüm: Önyargıların Üstesinden Gelmek
+Ticaret Psikolojisi Nedir? 
+Uyum Sağlama
+Yatırımcıları Etkileyen Bilişsel Önyargılar İşlem 
+Yaparken Önyargılarınızı Aklınızda Bulundurun
+Çözüm
+Referanslar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+giriiş
+Ticaret, hayatınızı bir masaya bağlı bir şekilde yaşamak, başkasının hayallerini gerçekleştirmek veya kendi hayallerinizi 
+yaşamak arasındaki fark olabilecek çok heyecan verici bir kariyer yoludur. Günlük koşuşturmadan özgürlük potansiyeli sunar. 
+Peki neden daha fazla insan bu yolu düşünmüyor? Bunun nedenlerinden biri, bir fiyat grafiğine bir kez bakmaları ve hemen 
+korkmalarıdır. Teknik analistlerin, bir varlığı ne zaman alıp satmanız gerektiğini size bildirmek için tasarlanmış o tuhaf kıvrımlı 
+çizgileri ve dikdörtgenleri gördüklerinde ne yaptıklarını asla göremeyecekleri sonucuna varırlar. Bu korku, birçok potansiyel 
+yatırımcıyı ticaretten uzaklaştıran büyük bir korkudur. Bu kitap, bu tür insanları düşünerek yazılmıştır.
+Japon mumlarının gizeminin tamamen çözüleceğini ve Neo'nun Matris'i görebildiği gibi siz de fiyatın kaynak 
+kodunu görebileceğinizi göreceksiniz. Grafikleri korkutucu bulmak için gerçekten hiçbir neden olmadığını ve 
+Japon mumlarının dilinin o kadar gülünç derecede kolay olduğunu, piyasaları kendi bankanız haline getirmek 
+ve karınızı kolayca çekebilmek için ihtiyacınız olan şeylerin büyük bir kısmına sahip olduğunuzu göreceksiniz.
+Bu kitap, öğretilen kavramları tamamen anlamanıza olanak tanıyan bir şekilde tüm teknik jargonların açıklandığı, 
+basit bir İngilizce ile yazılmıştır ve kafa karışıklığına veya yanlış anlaşılmaya yer bırakmaz. Piyasadaki diğer kitaplardan 
+farklıdır çünkü Japon mumlarıyla işlem yapmaya yaklaşmak için kullanabileceğiniz pratik yöntemlerle dolu olduğunu 
+göreceksiniz. Kârlı tüccarlar liginin bir parçası olmanıza yardımcı olabilecek yararlı bilgilerle dolu olmayan tek bir sayfa 
+yoktur. Bir süredir işlem yapıyorsanız ve daha iyi olmak istiyorsanız veya zanaatta tamamen yeniyseniz, bu kitapta 
+sizin için bir şeyler var.
+Bu kitaptan en iyi şekilde yararlanmak için, önce konuyu kavramak için kitabı okumanız ve ardından farklı fiyat 
+grafiklerine bakarak burada yer alan kavramların bir grafikte canlı olarak nasıl oynandığını görmek için tekrar 
+okumanız önerilir. Bu şekilde, öğrendiklerinize daha fazla güvenebilir ve piyasa metaller, endeksler, dövizler, kriptolar, 
+hisse senetleri veya emtialar olsun, tercih ettiğiniz varlıkla işlem yapmak için bir strateji geliştirmeye başlayabilirsiniz. 
+Konuyla ilgili seçebileceğiniz diğer tüm kitaplar arasından bunu seçtiğiniz için mutlu olacaksınız.
+Finans piyasalarında işlem yapmak hiç de zor bir çaba olmak zorunda değil. Japon mumlarını gerçek bir dil olarak 
+düşünün. Bu mumların yaratabileceği farklı desenleri öğrendikçe, bu sayfadaki kelimeleri okumakta olduğu kadar 
+grafikleri okumakta da ustalaşacaksınız. Tek ihtiyacınız olan sabır, pratik ve ısrarcılık.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Bölüm Bir: Analizin Temelleri
+Japon mumları konusuna girmeden önce, bunların tüm yatırımcılar ve tüccarlar için hangi bağlamda önemli olduğunu 
+konuşmak önemlidir. Söz konusu bağlam teknik analiz olarak bilinir. Bu bölüm, tüccarların piyasalarda işlem yapmak için 
+aldıkları kararlara varmak için kullandıkları çeşitli yöntemler hakkında sizi eğitmeyi amaçlamaktadır.
+Teknik Konulardan Konuşalım
+Teknik analiz, fiyatın tarihsel olarak ne yaptığını ve geçmişteki eylemlerinin şu anda yaptıklarıyla nasıl uyuştuğunu 
+incelemekle ilgilidir. Geçmiş fiyat eylemini kullanarak fiyatın şu anda ve gelecekte bir şekilde tepki verme olasılığını 
+belirlemekle ilgilidir. Asla yanlış tahmin etmemek için fiyatı doğru bir şekilde tahmin etmeye çalışmakla ilgili değildir. 
+Açık olmak gerekirse, hiçbir analiz biçimi piyasanın her zaman nereye gittiğini yüzde yüz tahmin edemez, bu yüzden 
+birileri sizi buna ikna etmeye çalışırsa kandırılmayın.
+Teknik analistin işi, fiyatın geçmişte belirli önemli seviyelerde nasıl tepki verdiğine dayanarak nasıl tepki vereceğini 
+belirlemektir. Her şey, fiyatın hangi seviyelerde kopuşlar veya devamlar veya geri dönüşler yaratma olasılığının 
+olduğu konusunda tahminlerde bulunmakla ilgilidir. Bir teknik analist olarak, tahminlerinizde doğru olmanız 
+gerekmez. Tek aradığınız, sizin lehinize sonuçlanması muhtemel yüksek olasılıklı işlemlerdir. Başka bir deyişle, 
+tahminlerinizin beklediğiniz şekilde sonuçlanmayacağı zamanlar olacağını beklemelisiniz. Bu, piyasaları düşünmenin 
+sağlıklı bir yoludur ve aşırı işlem yapmamak veya kendinizi aşırı kaldıraçlamamak için coşkunuzu dizginlemek her 
+zaman iyidir.
+Teknik bir analist olarak, üzerinde çalıştığınız ortama fiyat grafiği denir. Bu grafik, baktığınız varlığın geçmiş ve güncel 
+fiyatını ve zamanı gösterir. Zaman X ekseninde gösterilirken, fiyat Y ekseninde gösterilir. Çizgi grafiklerinden çubuk 
+grafiklerine ve Renko grafiklerinden Japon mum grafiklerine kadar birçok grafikle çalışılabilir.
+Teknik Analiz ve Temel Analiz
+Temel analiz, bir varlığın fiyatını etkileyebilecek çeşitli ekonomik olayları göz önünde bulundurmayı içerir. Temel 
+analist, varlıklarda neler olup bittiğine ve fiyatı etkileyen temel unsurlara dayanarak tahminlerde bulunmaya çalışır. 
+Temel analizin sorunu, bir ticarete tam olarak nerede girmeniz veya çıkmanız gerektiğini doğru bir şekilde tahmin 
+edememenizdir. Bazen analizinizde haklı olabilirsiniz, ancak bunun beklediğiniz zaman gerçekleşmediğini, çok daha 
+sonraki bir tarihte gerçekleştiğini görebilirsiniz. Teknik analizin üstünlüğü buradadır çünkü teknik analizle kararlarınızı 
+grafiklerde gerçekten neler olduğuna dayandırırsınız. Temel analizle, tahmininizin ne zaman gerçekleşeceğini 
+söylemenin bir yolu yoktur. Eğer gerçekleşirse. Bu ekstra belirsizlik katmanı
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Analiz, temel olmayan çoğu yatırımcının bu analiz yöntemine "komik zihinler" demesinin nedenidir. Başka bir 
+deyişle, temel analist daha çok fiyatta daha sonraki bir tarihte ne olabileceğini düşünmekle ilgilenirken, teknik 
+analiz düşüncelerle ilgilenmez, bunun yerine şu anda grafiklerde ne olup bittiğinin nesnel gözlemiyle ilgilenir. 
+Bu nedenle tekniklerle işlem yapmak her zaman fiyat hareketi analizinin üstün biçimi olacaktır.
+Bir an için belirli bir hisse senediyle işlem yapmakla ilgilendiğinizi varsayalım. Bu durumda, bakmanız gereken 
+temel unsurlar kazanç raporları gibi şeyler olurdu. Doğal olarak, bir şirketin mali durumuyla ilgili yayınladığı 
+kazanç raporları, halkın algıladığı şekliyle hisse senedinin fiyatını etkilerdi. Vadeli işlem piyasalarında işlem 
+yapıyorsanız, bakılması gereken temel unsurlar S&P 500 gibi şeyler olurdu. Döviz tüccarıysanız, tarım dışı maaş 
+bordroları ve merkez bankalarının faiz oranı kararları gibi şeylerle daha fazla ilgilenmelisiniz. Ayrıca ekonomiyi 
+etkileyen haber bültenleri, uluslararası ekonomi durumları, merkez bankası politikaları ve hatta bazen belirli bir 
+başkanın veya politikacının tweetleri gibi şeylerle de ilgilenebilirsiniz.
+Temel analizde, dikkate almanız gereken çok fazla değişken vardır. Bu yüzden teknik analist olmak çok 
+daha iyidir çünkü odak noktanız tamamen fiyat grafikleri üzerinde olacaktır. Endişeniz tamamen fiyat, 
+eylem ve alıcıların ve satıcıların piyasadaki kritik noktalardaki kararları sonucunda grafiklerde oluşturulan 
+kalıplarla ilgilidir. Teknik analizin büyüleyici yanı, diğerleri haber raporlarını ve diğer temelleri beklerken, 
+teknik analistlerin grafikte ne olacağını daha gerçekleşmeden önce bile görebilmeleridir. Bu yüzden 
+teknik analiz puristleri haber raporlarına bakma veya bu raporların yayınlanmasını bekleme zahmetine 
+girmezler çünkü bu sayılar yayınlanmadan önce bile grafiklerinde ne olacağına dair kanıt görebilirler.
+Teknik bir analist olarak, fiyat hareketlerinin analizine yardımcı olacak bir dizi araç ve yönteme sahipsiniz, böylece grafiklerinizde 
+ortaya çıkan kurulumlardan yararlanmak için fırsatlar bulabilirsiniz. Bir işleme nerede girip çıkacağınızı, paranızı ve riskinizi nasıl 
+düzgün bir şekilde yöneteceğinizi, zarar durdurma emrinizin nereye gitmesi gerektiğini ve bir pozisyona ölçeklendirmek veya 
+ölçeklendirmek için nereye bakmanız gerektiğini, pozisyonunuzun boyutunun ne kadar olması gerektiğini ve daha fazlasını 
+anlamanıza yardımcı olmak için bu araçlara ihtiyacınız var. Bazı yatırımcılar hem teknik hem de temel analizle çalışırken, diğerleri 
+sadece haberlerle ilgilenir çünkü ne zaman işlem yapacaklarını veya piyasadan uzak duracaklarını bilmek isterler, rakamların ne 
+söylediğini umursamadıkları için değil.
+Ticaret Yöntemleri Hakkında Bir Not
+Piyasalarda başarılı bir şekilde işlem yapmak için bir stratejiye ihtiyacınız olacak. Teknik analistlerin sayısının en az üç 
+katı kadar teknik strateji var, bu yüzden hepsinde ustalaşmaya çalışmak gereksiz bir zaman kaybıdır. Hareketli 
+ortalamalar, arz ve talep bölgeleri, baş ve omuzlar, çift dip gibi grafik desenleri vb. ile işlem yapmayı seçebilirsiniz. Bir 
+trend tüccarı, ters tüccar olabilir veya ortalamaya dönüş teknikleriyle çalışabilirsiniz. Analizi tamamen bir kenara 
+bırakıp işlemlerinizi matematik ve olasılıklara göre yapabilirsiniz. Piyasalardan para kazanmanın sayısız yolu vardır. 
+Bazı insanlar dalgalarla işlem yapar ve bazıları da inanın ya da inanmayın, ay ile işlem yapar. Hepsi size ve seçiminize 
+kalmış.
+Bu kitap, Japon mumları ve diğer tamamlayıcı araçlarla başarılı bir şekilde işlem yapmak için sahip olmanız gereken hayati bilgilerle 
+ilgilidir. Teknik analiz söz konusu olduğunda, bunu uygulayamayacağınız hiçbir piyasa olmadığını bilmelisiniz. Kimsenin size teknik 
+analizin yalnızca belirli bağlamlarda işe yaradığını ve diğerlerinde işe yaramadığını söylemesine izin vermeyin, çünkü durum kesinlikle 
+böyle değildir. Bu nedenle, neyle işlem yapmaya karar verirseniz verin, bu kitaptaki tüm bilgilerin sizin için alakalı olduğunu 
+göreceksiniz. Neden? Çünkü günün sonunda, fiyat fiyattır. Ya yükselebilir, ya düşebilir ya da bir fiyat aralığında yukarı ve aşağı 
+hareket edebilir. Fiyatın yaptığı tek şey budur, ister en sevdiğiniz fıstık ezmesi markasının fiyatı ister Ethereum'un fiyatı olsun. Bu, 
+burada öğrenmek üzere olduğunuz ilkelerin evrensel olduğu anlamına gelir.
+Ayrıca teknik analizin zamanla değişmeye devam ettiğini ve bu uygulamanın tüm yönlerini tek bir kitabın kapsamasının 
+imkansız olduğu kadar çok şey içerdiğini de aklınızda bulundurmalısınız. Bu nedenle, bu kitapta yer alanların Japon 
+mumlarıyla işlem yolculuğunuza başlamanız için fazlasıyla yeterli olacağını fark edin, ancak bu, işlemde daha iyi olmak için 
+her zaman daha fazlasını öğrenmeye çalışmamanız gerektiği anlamına gelmez. Öğrenmenin en iyi yolu sadece okuyup 
+videolar izlemek değil, bu kavramların kendilerini defalarca kanıtladığını görmek için grafiklerinizi kendiniz incelemektir.
+Japon Mumlarının “Pirinç”i
+Bu mumların ilginç bir geçmişi var. Bir zamanlar Japonya'da, 18. yüzyılda, Osaka'daki pirinç tüccarları her 
+günün ticaret faaliyetlerini takip etmekte zorluk çekiyorlardı. Homma Munehisa adında bir adam bu sorunu 
+çözmenin bir yolunu buldu ve sistemi şu anda Japon mumları olarak bildiğimiz şey. Onlarla o kadar iyi iş çıkardı 
+ki, üst üste yüzlerce işlemden oluşan bir galibiyet serisi yakaladı ve mumlar orman yangını gibi yayıldı. 
+Sonunda, bunlar Steve Nison'ın çabaları sayesinde dünyanın geri kalanına tanıtıldı. Steve Nison bir kitap yazdı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Ticarette kökten bir devrim yaratan bu mumlar üzerinde.
+Peki ya Dow?
+ABD'de, özellikle 19. yüzyılda, Charles Dow adında biri piyasaları inceledi ve aynı adı taşıyan Dow Teorisi'ni 
+ortaya attı. Batı teknik analizinin patronu olarak kabul edilir ve bu teoriyi ortaya attığından beri, birçok kişi 
+ihtiyaç duyuldukça bu teoriyle çalışmaya ve üzerine inşa etmeye devam etti. Gerçek fikirleri hakkında bazı 
+tartışmalar olsa da, gerçek şu ki, bunlar günümüzün daha heyecan verici piyasalarında bile geçerliliğini 
+koruyor. İlkeler, piyasa ortalamasını izlemek için kullanılan yalnızca iki endekse dayanıyordu. Biri ulaştırma, 
+özellikle demir yolu ve diğeri de üretim işiyle ilgili olan endüstriydi. Şimdi bile, her varlık sınıfında Dow teorisiyle 
+çalışabilirsiniz. Bu teorinin bazı önemli ilkeleri vardır.
+Piyasadaki Tüm Etkinliklerin Fiyatlandırılması:Başka bir deyişle, haberlerin veya finansal raporların sizi inandırmaya 
+çalıştığı şeye bakılmaksızın, gerçek şu ki grafikler bu haber bültenlerini takip eden yükselişlerden önce ne olacağını zaten 
+gösteriyor. Grafiğinizdeki tüm fiyat hareketleri, insanların davranış biçimleri, beklentileri ve piyasalar hakkında bildikleri 
+sonucunda oldukça basittir. İnsanlar her zaman ilgili bilgileri dikkate almak, geçmiş fiyat hareketlerini değerlendirmek ve 
+gelecekteki fiyat hareketlerini öngörmek için ayarlamalar yapacaktır. Bu yüzden sadece bir grafiğe bakarak gelecek fiyat 
+hareketini tahmin etmek mümkündür.
+Trendler Önemlidir:Piyasada uzun vadeli makro trendlerden kısa vadeli trendlere ve orta vadeli trendlere 
+kadar her türlü trend vardır. Trendin kendisi, ister yukarı ister aşağı gitsin, fiyat hareketindeki bir değişikliktir. 
+Trendler makro düzeyde bir yıldan üç yıla kadar sürebilir. Bu makro trendler birincil trendler olarak da bilinir. 
+İkincil trend veya orta vadeli trend, piyasanın ana trendin yaklaşık üçte ikisine kadar olan kısa süreli bir 
+salınımda trende karşı hareket ettiğinde elde ettiğiniz şeydir. Bu ikincil trendler üç hafta veya üç ay sürebilir. 
+Son olarak, kısa vadeli trendler veya küçük trendler vardır. Bunlar oldukça kısa ömürlüdür ve birkaç saatten 
+haftalara kadar sürer.
+Bir Piyasada Üç Aşama Vardır:Dow Teorisine göre, en önemli trend, üç fazı olan makro trenddir. Fiyatın 
+yeni zirveler yaptığı yükseliş trendinde olduğunuzda, faz şu şekilde gerçekleşir:
+1. Birikim
+2. Halkın katılımı
+3. Panik
+Düşüş eğilimi olduğunda ve piyasa yeni dipler yaptığında, aşamaların gerçekleşme sırası şu şekildedir:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Dağıtım
+Halkın katılımı
+Panik
+Onaylamanız gerekiyor: Onaylama, imalat ve ulaştırma ikiz piyasa endekslerini izleyen iki hareketli ortalama ile çalışma 
+fikrinde kök salmıştı. Dow için, bir yatırımcının trendin yükseliş trendi (boğa) mı yoksa düşüş trendi (ayı) mi olduğunu kesin 
+olarak söyleyebilmesi için her endeksin diğerinin gösterdiği şeyi aynı trend yönünde giderek desteklemesi önemliydi. Başka 
+bir deyişle, kesin olarak bir trendi etiketleyebilmeniz için her ikisinin de aynı yönde ilerlemesi gerekiyordu. Şimdi, onay 
+sadece hareketli ortalamalarla çalışmakla ilgili değil, aynı zamanda mum kapanışları, çizgiler, teknik göstergeler ve 
+yatırımcının kullanımına sunulan diğer araçlarla da ilgilidir.
+Hacim, trendlerinizi doğrulamanın yoludur: Başka bir deyişle, fiyat hareketi önemli olsa da, hacmin fiyatın ne yaptığını 
+doğrulamak için mükemmel olduğunu bilmelisiniz. Fiyat ana trendin yönünde ilerlediğinde, hacim onu   
+destekleyecektir. Diğer taraftan, fiyat bir geri çekilme veya geri çekilmede trende karşı düzeltildiğinde, hareketi 
+destekleyen hiçbir şey olmadığı için hacmin daha az olacağını unutmamak önemlidir. Trend yönündeki itme veya 
+dürtüsel hareketler, çekme veya geri çekilme hareketlerinden her zaman daha fazla hacme sahip olmalıdır. Hacim, bir 
+yöndeki güçlü dürtüsel hareketlerle orantılı olduğunda, trendin gerçek olduğuna güvenebilirsiniz. Hacim tarafından 
+desteklenmeyen bir yönde güçlü bir artış elde ediyorsanız, o trende güvenmek konusunda dikkatli olmalısınız.
+Trend, bir tersine dönüş gerçekleşene kadar devam edecektir: Başka bir deyişle, trend, bir tersine dönüşün gerçekleştiğine dair açık 
+bir kanıt olana kadar olması gereken yere doğru ilerlemeye devam edecektir. Başka bir deyişle, trende karşı hareketler (düzeltmeler 
+veya geri çekilmeler) ve aralıklı veya konsolide fiyat hareketleri meydana gelebilir, ancak bir trendin bittiğini anlamanın tek yolu, bir 
+tersine dönüşün gün gibi açık olmasıdır. Teknik analist, gerçek bir tersine dönüşün ne olduğunu ve birincil trendde yalnızca bir 
+düzeltmenin ne olduğunu hesaplamalıdır. Artık teknik analizin temel prensiplerini anladığınıza göre, trendler, destek ve direnç 
+konusuna geçeceğiz. Bu kavramları iyice kavramak, Japon mumlarını hesap bakiyenizin her geçen gün daha da mavileşmesine 
+yardımcı olacak şekilde kullanmaya hazırlanmanızı sağlayacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Bölüm İki: Zeminler, Tavanlar ve Trendler
+Trend Ticareti Nedir?
+Trend ticareti, bir piyasanın veya hisse senedi fiyatının genel yönünü tahmin etmeyi içeren bir sistemdir. Bu strateji hisse 
+senetleri, emtialar, dövizler, döviz çiftleri ve daha fazlasında kullanılabilir. Trendler üzerinde ticaret yapmak, iyi 
+gitmeyebilecek bir şeye yapılan yatırımı başarılı olana dönüştürebilir. Bir trend ticareti stratejisi, doğru zamanda giriş 
+noktalarını bulmak ve bir trendin başarısız kopuşlar veya kısa geri dönüşler gibi hızlı salınımlar yoluyla tersine dönme 
+belirtileri göstermeye başladığında çıkmak için teknik analiz kullanmayı içerir. Bunlar, trend tüccarlarının haklı olduklarından 
+en çok emin olacakları alanlardır.
+Trend ticareti genellikle bir al ve tut stratejisi olarak düşünülür, ancak bu yanıltıcı olabilir. Bir trend tüccarı, bir 
+pozisyondayken hiçbir şey yapmaz ve bir hareket yapmadan önce fiyatın belirli bir seviyeye ulaşmasını beklemez. Trend 
+tüccarının yaklaşımı, hisse senedinin en uç noktasında olduğu zamanı bulmak ve daha fazla para kazanmaya çalışmak için bir 
+tür kısa vadeli ticaret yapmaktır. Bu yaklaşım, normal al ve tut yatırımcılarında olduğu gibi aylar veya hatta yıllar yerine 
+saatler, günler veya haftalar süren işlemleri içerebilir.
+Trend ticareti stratejisi artık onlarca yıldır var. Richard Donchian gibi insanlar bunu 1960'larda hisse senetlerinde yılda 
+%90'ın üzerinde kazanmak için başarıyla kullandılar. Bu, hızlı zengin olma veya ticaret dolandırıcılığı değildi. Bu, 
+alanda 30 yılı aşkın deneyime sahip, nasıl ticaret yapılacağını bilen ve tarzına ve kişiliğine uyan doğru stratejiye sahip 
+bir adamdı. Bu dikkate alınması gereken önemli bir noktadır çünkü trend ticareti sizin için hiç işe yaramayabilir.
+Trend ticareti yaklaşımının yanı sıra başka ticaret yöntemleri de vardır. Birinin trend ticaretine alternatif bir strateji 
+kullanmaya karar vermesinin birçok nedeni vardır. Bununla birlikte, birçok kişi bu yaklaşımla başarı elde etti ve sayısız 
+ticaret sistemi bu şablona dayanmaktadır. Öğrenciler bu yaklaşımları inceleyebilir veya farklı ilkelere veya tamamen 
+başka bir yönteme dayalı olarak kendi yaklaşımlarını geliştirebilirler.
+Bir yönteme karar verirken bazı şeylerin dikkate alınması gerekir. Her yatırımcı farklıdır ve bir kişinin trend 
+ticareti stratejisini kullanarak elde ettiği sonuçları iyileştirebileceği birçok yol vardır. Bir kişi değişiklik yapmak 
+için ne yaparsa yapsın, birkaç husus bir sistemden diğerine aynı kalacaktır. Bunlara giriş noktalarını doğru bir 
+şekilde belirleyebilmek ve alınan herhangi bir işlem için bir tür çıkış noktası bulmak dahildir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Bu değişiklikleri yaparken riski de göz önünde bulundurmak önemlidir.
+Trend ticareti sisteminin tanımı, tüccar olmak isteyen biri için tasarlanmış bir sistemdir. Bu kişi belirli 
+kalıpları arayacak ve onlara karşı değil, onlarla birlikte çalışacaktır. Bu, diğer bazı sistemlerin yaptığı gibi 
+saf şansa güvenmek yerine zekasını ve anlayışını kullanan biri için harika bir stratejidir. Kariyerlerinde 
+büyük seviyelere ulaşmak için bu yaklaşımı kullanan ve zamanla bundan çok zengin olan birçok insan 
+örneği vardır.
+Fiyat Salınımı Nedir?
+Fiyat dalgalanması, hisse senedi piyasasının veya herhangi bir diğer işlem aracının belirli bir fiyat değişikliğine uğramış bir 
+bölümünü ifade eden bir terimdir. Bu fiyat dalgalanmasının hareket aralığı, bir endekste yukarı ve aşağı bir noktadan birkaç 
+yüz noktaya kadar herhangi bir şey olabilir.
+Salınımlar genellikle kamuoyunun hissiyatıyla ilgili olacaktır çünkü bu, zaman içinde fiyatların yönünü belirlemede çok 
+büyük bir rol oynar. Belirli bir eğilime dahil olan kişi sayısı ne kadar çok olursa, o kadar uzun sürecek ve daha da 
+büyüyecektir. Bu yüzden birçok kişi bu salınımların nereye gideceğini tahmin etmekte zorlanır çünkü hepsine aynı 
+anda çok büyük miktarda para yatırmışlardır.
+Ayrıca, bir trendin kamuoyuna açık olmayan güçlü bir olgudan etkileneceği durumlar da vardır. Bunun nedeni, 
+bu şeylerin o kadar uç bir seviyede gerçekleşmesidir ki, genellikle son noktayı belirlemeyi çok zorlaştıran bir 
+etkiye sahiptirler. Bir örnek, belirli bir ürünün satışlarında artış olması durumudur. Bu, bu ürünün fiyatının 
+yüzlerce hatta binlerce puan artmasına neden olur. Bu durumdaki biri, parasını kaybetmeden önce çıkmak 
+isteyebilir ancak tam olarak ne zaman çıkması gerektiğini belirlemekte çok zorlanabilir. Trend ticareti 
+stratejisinin işe yarayabileceği yer burasıdır.
+Trend ticareti sistemi, bir trendin ne zaman sona ereceğini açıklayacak belirli göstergeler ve gösterge kombinasyonları 
+kullanarak çalışır. Yatırımcılar ayrıca geçmiş trendlere bakacak ve daha önce meydana gelen belirli fiyat hareketlerinin, 
+özellikle de çok yüksek hacimlerde meydana gelenlerin notlarını alacaktır. Piyasanın geçmişi hakkında ne kadar çok şey 
+bilirlerse, gelecekteki hareketlerini o kadar iyi tahmin edebilirler çünkü bir alan tekrarlanabilir veya öngörülebilir hale 
+gelmeden önce mümkün olabilecek çok sayıda model vardır. Bu, yatırımcıların yatırımlarının bazı yönleri için önceden plan 
+yapabilecekleri ve hatta gelecekte bundan güvenilir karlar elde edebilecekleri anlamına gelir.
+Trend ticareti sistemleri, piyasada çok aktif olanlar tarafından kullanılmak üzere tasarlanmıştır çünkü en fazla karı bu şekilde 
+elde edebilirsiniz. Ancak bu, insanların ticaretlerinin yanı sıra tam zamanlı bir işte çalışmaları gerektiği anlamına gelmez 
+çünkü iyi bir strateji günlerce hatta haftalarca dayanabilmelidir. Bununla birlikte, bu yaklaşımın bazı insanlar için yeterince işe 
+yaramaması ve bunun yerine başka bir sisteme bakmak istemeleri de mümkündür.
+Birçok profesyonel yatırımcı, trend ticareti sistemini yıllar boyunca çok başarılı sonuçlarla kullanmıştır. En iyi şekilde 
+yararlanmak için bu yaklaşımda bazı değişiklikler yapılabilir, ancak birçok kişi için çok etkili olacaktır. Trend ticareti 
+hakkında daha fazla bilgi edinmek isteyen bir kişi, nihai kararlarını vermeden ve kendi kişisel strateji geliştirme 
+sürecini başlatmadan önce tüm seçeneklerine bakmalıdır.
+Trend ticareti, günümüz piyasasındaki en iyi stratejilerden biridir. Piyasaya yeni giren yeni başlayanlar için de aynı şekilde işe 
+yarayacaktır ve portföylerini genişletmek isteyen profesyonel yatırımcılar için de işe yarayabilir. Trend ticareti stratejisi, 
+piyasadaki trendleri tespit ederek çalışır ve bu trendler günler, haftalar veya hatta aylar boyunca gerçekleşebilir. Ancak, bir 
+trende ne zaman gireceğinizi ve çıkmayı düşünmeden önce ne kadar süre içinde kalmanız gerektiğini öğrenmek önemlidir. 
+Bu, yatırımcıların güvenilir karlar elde etmelerini ve zaman içinde istikrarlı büyüme için yeterli nakit akışı üretmelerini 
+sağlayacaktır.
+Ticarette Destek ve Direnç
+Destek ve direnç, yatırımcıların belirli bir trendin ne zaman sona ereceğini belirlemelerini sağlayan temel 
+yetenektir. Bu, geçmiş fiyat hareketlerini hesaba katarak ve fiyatın geçemediği belirli bir destek veya direnç 
+seviyesiyle sonuçlanan gelecekteki trendleri arayarak çalışır. Fiyatın, daha düşük dipler yaparken ve birkaç 
+denemeye rağmen daha da düşemeyeceği bir noktaya ulaşırken destek bulduğu veya tabana çarptığı söylenir. 
+Fiyat direnç bulduğunda veya tavana çarptığında, daha yüksek zirveler yaratırken ve alıcılar ne yaparsa yapsın 
+daha da yükselemeyeceği bir noktaya ulaştığında gerçekleşir. Bu destek ve direnç alanları, temelde fiyatın bir 
+yönden diğerine dönüş noktası olan salınım olarak bilinen bir şey yaratır. Salınımlar, piyasada ana trende karşı 
+düzeltici hareketler veya trende uygun dürtü hareketleri sonucu oluşabilir.
+Destek ve direncin oluşumunu etkileyen birkaç faktör arasında gerçek fiyat seviyesinin kendisi, o seviye 
+etrafındaki tarihsel fiyat hareketi ve hatta belirli bir zamanda dünyada olup bitenler yer alır. Destek ve 
+direnç, piyasada aşırı arz veya talep olduğunda oluşur, ancak bir trend şunlardan etkilenebilir:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+birden fazla direnç veya destek türü. Örneğin, birçok alıcı belirli bir hisse senedine ilk direnç seviyesine ulaştığı anda 
+girebilir ve bu da daha az talebin olduğu bir alana ulaşmasına neden olur. Bu gerçekleşmeden önce bu seviyeye 
+ulaşmak için yeterli sayıda satıcı olmayabilir ve bu da bu alanın altında daha fazla destek oluşmasına neden olur. Bu, 
+fiyatın bir dürtü hareketinden sonra küçük bir aralıkta hareket ettiği fiyat konsolidasyonu olarak bilinir. Bir destek 
+veya direnç seviyesi bulunduğu sürece, fiyat sonunda diğer tarafa geçmeden önce çok uzun süreler boyunca bu alan 
+içinde hareket etmeye devam edebilir. Bu, bu alanların ilk bakışta anlamsız görünmesine neden olabilir, ancak aslında 
+inanılmaz derecede önemlidirler ve doğru zamanlama ile tanımlanabilirler.
+Destek ve direncin işlemde oluşmasının en yaygın yolu, zaman içinde tarihi düşük ve yüksek seviyelerin 
+birleştirilmesiyle bir grafikte arz ve talebin iki alanının çizilmesidir. Söz konusu hisse senedi veya diğer varlık, bu 
+seviyelerin her birinde bir destek alanına veya bir direnç alanına girer ve bu, zaman içinde çoğu fiyat 
+dalgalanmasının son noktası olur. Arz ve talep sonucu doğal olarak oluşanlar da dahil olmak üzere tüm destek 
+ve direnç seviyelerinin, piyasadaki koşullar değiştikçe zamanla değişime tabi olduğunu bilmek önemlidir. Bu 
+seviyeler ayrıca zaman içinde dalgalanabilir ve diğerlerinden daha fazla destek veya direnç olan belirli alanlar 
+oluşturabilir.
+Destek ve Dirençte Profesyonel Gibi İşlem Yapmak İçin İpuçları
+Her Zaman Sola Bakın:İnsanların destek ve direnç seviyelerini ararken her zaman atması gereken ilk adım, 
+grafiklerinin sağ tarafına değil sol tarafına bakmaktır. Bu garip görünebilir çünkü yatırımcılara piyasadaki 
+gerçek alım satımların çoğunun sol tarafta gerçekleştiği öğretilmiştir, ancak bunun için çok iyi nedenler olabilir. 
+Bu nedenlerden biri, çoğu zaman trendde olanların fiyat hareketi için kısa vadeli bir eğilimde olmalarıdır, yani 
+pozisyonları tükenmeden önce çıkmak için yüksekten alıp düşükten satacaklardır. Bu alanları belirlemek 
+önemlidir çünkü çok az riskle bunlardan yararlanmak isteyen yatırımcılara olanak sağlayabilirler.
+Çoklu Dokunma Noktalarını Arayın: Destek ve direnç seviyelerini tespit etmenin en kolay yollarından biri, zaman 
+içinde birden fazla dokunuşun olduğu alanları aramaktır. Bu dokunuşlar, rastgele fiyat hareketinin bir sonucu olarak 
+da görülebilen tek dokunuşlardan daha güvenilirdir. Belirli bir seviye bir trend boyunca birkaç kez test edilmişse veya 
+önemli sayıda dokunuş gösteriyorsa, insanların emirlerini bu alanın yakınına yerleştirmek istemeleri çok mantıklı 
+olacaktır. Bu emirler doldurulmaya devam ettiği sürece, bu seviye görünmeye devam edecek ve gelecekte yatırımcılar 
+için çok iyi fırsatlar sunacaktır.
+Onay Arayın:Tüccarların bu destek ve direnç alanlarını belirledikten sonra arayabilecekleri birkaç yol vardır. Bir yol, 
+fiyat hareketine tam bir grafikte bakmak ve aynı anda birden fazla alana odaklanmalarını sağlamaktır. Bir diğer yol ise 
+geçmişte gerçekleşmiş olan fiyat hareketine bakmak ve o zamandan beri nasıl davrandığına dair bir not almaktır. Bu, 
+bu destek veya direnç seviyesinin gelecekte ortaya çıkıp çıkmayacağını ve fırsatlar sağlayıp sağlamayacağını 
+belirlemeye yardımcı olacaktır. Destek ve dirençle işlem yapmanın çok harika bir yolu, oluşan mum desenlerine 
+bakmaktır. Bu kitabın ilerleyen kısımlarında Japon mum desenleri hakkında çok şey öğreneceksiniz.
+Çok Abartılı Olmayın:Birinin bir işlem yaparken veya bir işleme girmeyi düşünürken yapabileceği en kötü şeylerden 
+biri, iyi olduğu şeyden uzaklaşmaktır. Başka bir deyişle, yatırımcılar güçlü yanlarına bağlı kalmalı ve bozuk olmayan 
+hiçbir şeyi düzeltmeye çalışmamalıdır. Bir yatırımcı uzun süredir destek ve direnç seviyelerinden para kazanıyorsa, 
+bunu yapmaya devam etmesi her zaman en iyisi olacaktır. Daha riskli olabilecek ancak daha iyi olasılıklara sahip bir 
+seçeneğe yatırım yapmak isteyenler, her zaman kendileri için işe yarayan şeye bağlı kalmalı ve daha az veriye sahip 
+bir şeyin trenine atlamaktan kaçınmalıdır.
+Piyasa Yapısında Bir Kırılma Bekleyin:Deneyimli yatırımcıların bile destek ve direnç seviyelerini tespit etmeye 
+çalışırken yapabileceği en kötü şeylerden biri, önce herhangi bir onay görmeden bir çağrı yapmaktır. Birisi eksiksiz bir 
+grafik kullanıp puanlarının geçerli olduğundan emin olduğu sürece, sonunda hiçbir şey çıkmaması onlar için çok zor 
+olacaktır. Ancak bir yatırımcı herhangi bir bilgi veya onay olmadan bir tahminde bulunursa, başlamadan önce parasını 
+kaybedebilir veya hesaplarını mahvedebilir.
+Boğa ve Ayı Trendleri Nasıl Belirlenir
+Birisi destek ve direnç noktalarını belirledikten sonraki adım, piyasanın zaman içinde yükselip yükselmeyeceğine dair 
+bir fikir edinmektir. Bir hisse senedi büyük bir yükseliş trendindeyse, yatırımcı perspektifinden daha fazla talep 
+olacaktır. Bu, değerindeki kazançlar nedeniyle bu varlığı satın almak isteyen kişiler için işi kolaylaştırır. Artan arz, bu 
+varlığı satanlar karlarını alıp piyasadan çıkmaya istekli olduğu sürece yalnızca fiyatta artışa neden olacaktır.
+Yükseliş trendi nasıl görünür? Grafiğinizde, fiyatın daha yüksek zirveler yaptığını fark etmelisiniz
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+ve salınımlar olarak daha yüksek dipler. Ayrıca destek seviyelerinin bozulmadan kalırken direnç seviyelerinin kırıldığını da 
+görmelisiniz. Yükseliş trendini tespit ederken dikkat etmeniz gereken başka şeyler de var. Birincisi, artan bir hacim olduğunu 
+fark etmelisiniz. Yatırımcılar, varlığa ne kadar ilgi olduğunu belirlemek için bu süre zarfında piyasada işlem gören toplam 
+hacim miktarına bakmalıdır. Yüksek hacimli alanlar yatırımcılara bu trendin ne kadar sağlam ve sağlıklı olduğu konusunda 
+daha iyi bir fikir vererek, onlara aksi takdirde sahip olacaklarından daha iyi bir yön fikri verir.
+Ayrıca fiyatın yukarı doğru eğilim gösterdiğini de görmelisiniz. Bu, yatırımcıların yükseliş eğilimlerini tespit etmeye çalışırken 
+bakabilecekleri en önemli şeylerden biridir. Bir yatırımcı, önündeki grafiklerde görünmese bile, mümkün olan en kısa sürede yükselen 
+bir eğilimi tespit edebilmelidir. Bir hisse senedi yukarı doğru hareket ediyorsa, bu, varlığa olan talebin arzdan fazla olduğunu ve 
+insanların değerindeki artışlar nedeniyle bu varlığı her an satın almak istediklerini gösterir.
+Teknik ve temel analizin bir karışımını işlem yapmak istiyorsanız, dikkate alınması gereken bir diğer faktör de yükseliş 
+haberleridir. Tüccarın teknik analizi, bu varlıkta neler olabileceği ve yatırımcılardan ne kadar talep olduğu konusunda 
+onlara daha iyi bir fikir verecektir. Bir varlığın temelleri, piyasada bu hisse senediyle neler olduğunu açıklayacaktır. 
+Örneğin, popüler bir ürün veya hizmet üreten bir şirket, ne kadar iyi performans gösterdiği ve ne kadar gelir elde 
+ettiği hakkında yeni bir rapor yayınlayabilseydi, geçmişteki kazançlarının üzerine inanılmaz kazançlar elde edebilirdi.
+Trend düşüş eğilimindeyken bu faktörlere de dikkat etmek istersiniz. Öncelikle, düşüş eğiliminde, fiyatın daha düşük 
+zirveler ve daha düşük dipler yarattığını fark edeceksiniz. Direnç seviyelerine saygı duyulacak ve destek seviyeleri 
+sürekli olarak kırılacaktır. Hisse senetleri söz konusu olduğunda hacim azalacak veya piyasada boğalardan çok ayıların 
+tarafında olacaktır. Talepten daha fazla arz olacak ve değerdeki düşüş nedeniyle daha fazla yatırımcı ve tüccar satış 
+yapmaya teşvik edilecektir. Teknik ve temel analizin bir karışımını seviyorsanız düşüş haberlerini de dikkate almak 
+isteyebilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Bölüm Üç: Mum Desenleri
+Mumlar, piyasanın ne yapmak üzere olduğu hakkında size çok şey söyleyebilir. Japon mumu ile bir zamanlar popüler olan fiyat 
+çubuğu arasındaki fark, okunmasının çok daha kolay olması ve bir süre boyunca sadece açılış, en yüksek, en düşük ve kapanış 
+fiyatlarından çok daha fazlasını çıkarabilmenizdir. Piyasadaki bir durgunluğun ardından fiyatın devam eden bir trendi sürdürmek 
+üzere olduğu zamanı, fiyatın tersine dönmek üzere olduğu zamanı ve piyasanın daha yükseğe mi yoksa daha aşağıya mı çıkmak 
+istediğine karar vermeden önce mola verdiği zamanı size söyleyebilecek birçok mum deseni vardır. Bu mumlar, alıcılar ve satıcılar 
+arasındaki ileri geri mücadelenin görsel bir temsilidir.
+Tüccar, bu mumların ne kadar dikkat çekici olsalar da, bir işlem sisteminin tek unsuru olarak işlev görmeleri için 
+tasarlanmadıklarını her zaman hatırlamalıdır. Bunları bağlam olmadan kendi başlarına işlem yapmaya çalışmak, sorun 
+istemektir. Bu nedenle, bir mum örüntüsünün ne zaman dikkatinizi çekmesi gerektiğini ve ne zaman görmezden gelmeniz 
+gerektiğini tam olarak bilmeniz için önceki bölümde trendler, destek ve direnç gibi temel işlem kavramları verilmiştir. Artık ne 
+yaparsanız yapın, fiyat tabana indiğinde alıcı, tavana indiğinde satıcı olmak istediğinizi biliyorsunuz. Bilmiyor olabileceğiniz 
+şey, bu işlemlere girmenin tam olarak ne zaman güvenli olduğudur. Mumlar size bu konuda bilmeniz gereken her şeyi 
+söyleyecektir.
+Çalışabileceğiniz çok sayıda desen var. Bazıları diğerlerinden daha sık gerçekleşirken, bazıları diğerlerinden 
+daha güçlüdür veya daha patlayıcı hareketlere yol açar. Farklı mum desenlerinin sağlıklı bir dengesini ele 
+alacağız ve sizi en çok çağıranları öğrendiğinizde, piyasanın ne yapacağını anlamanızın ne kadar kolay 
+olduğunu fark edeceksiniz. Ancak, her zaman size olumlu işlemler sağlayacak bir desen olduğunu asla 
+varsaymayın. Böyle bir şey yoktur. Mum desenleri size sadece bir avantaj sağlar, böylece her gün piyasalarla 
+yüzleşmek ve kazançlarınızla galip gelmek için bir mücadele şansınız olur. Her zaman işe yaramazlar, ancak bu 
+önemli değil. Bir tüccar olarak, sadece başarmak için yeterli sayıda kez haklı olmanız gerekir. Her zaman haklı 
+olmanız gerekmez, bu iyi bir şeydir.
+Japon Şamdanının Hızlı Anatomisi
+Bu mum, belirli bir süre boyunca fiyatın OHLC'sinin görsel bir temsilidir. OHLC, incelediğiniz varlığın açılış, en yüksek, 
+en düşük ve kapanış fiyatlarının kısaltmasıdır. Mum, ayarlandığı süre boyunca açık kalacaktır. Diyelim ki 5 dakikalık bir 
+grafiğe bakıyorsunuz. Bu, her mumun kapanmadan önce beş dakika boyunca gerçekleşen işlem aktivitesini ölçeceği 
+ve sonraki beş dakikayı izleyeceği anlamına gelir.
+Boğa mumlarınız ve ayı mumlarınız var. Boğa mumları veya alış mumları temel olarak kapanış fiyatları açılış 
+fiyatlarının üzerinde olan mumlardır, bu da mumun oynandığı dönemde satıştan daha fazla alım faaliyeti olduğunu 
+gösterir. Bu mumlar genellikle işlem platformunuzun grafiğinde varsayılan olarak mavi, yeşil veya beyazdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Öte yandan, ayı mumlarının kapanış fiyatları açılışın altındadır. Bu, bu mumların süresi boyunca alımdan çok 
+satış olduğunu gösterir. Ayı mumları, işlem platformunuzda varsayılan olarak siyah veya kırmızıdır, ancak 
+mumlarınızın renklerini ihtiyacınıza göre özelleştirebilirsiniz. Mumlar, gerçek gövdeden ve gölgeler olarak da 
+adlandırılan fitillerden oluşur. Gerçek gövde, açılış ve kapanış fiyatlarını içerirken, üst ve alt taraftaki fitiller 
+sırasıyla yüksek ve düşük fiyatları temsil eder.
+Desenlerin Arkasındaki Fikir
+Japon mum grafikleri, yatırımcılar tarafından kullanılan en popüler fiyat grafikleri arasındadır. Bir grafik boyunca 
+birçok Japon mum grafik modeli görülebilir ve bunlar piyasada neler olup bittiğine dair güvenilir bir gösterge görevi 
+görür.
+Mumlar, bir menkul kıymetin açılış fiyatlarının bir işlem gününden diğerine kapanış fiyatlarıyla ne kadar iyi karşılaştırıldığı 
+hakkında bilgi sağlar. Bu bilgi, yatırımcıların hareketi tahmin etmelerine ve hisse senetleri veya diğer menkul kıymetler için 
+uygun işlem davranışını belirlemelerine yardımcı olabilir. Mumlar ayrıca geçmiş performansa dayanarak gelecekte fiyatlara 
+ne olacağı hakkında önemli ipuçları sağlar. Japonlar bu oluşumları kapsamlı bir şekilde kullanır ve gelecekteki fiyat 
+hareketlerine ilişkin bir içgörü sunan belirli kalıpları belirlemiştir. Japon mum analizi sanatı, Batı teknik analizine benzer bir 
+şekilde kullanılır.
+Japon mumları öncelikle mevcut eğilimleri belirlemek ve gelecekteki fiyatları veya geri dönüşleri tahmin etmek için kullanılır. 
+Bu bölüm, mum çubuğu oluşumlarının tüccarlar tarafından nasıl başarılı bir şekilde kullanılabileceği konusunda içgörü 
+sağlayacak ve en iyi bilinen çubuk oluşumlarının ve anlamlarının bir tanımını sunacaktır. En popüler Japon mum çubuğu 
+oluşumlarına, oluşumlarının ardındaki temellere ve destek veya direnci nerede gösterebileceklerine odaklanacaktır. Mumlar, 
+özellikle teknik analiz kullananlar olmak üzere birçok işlem stratejisi için mantıklı giriş veya çıkış noktalarını işaret edebilen 
+trend devamlılığını, trend geri dönüşünü ve destek/direnç seviyelerini belirlemek için kullanılabilir.
+Japon mum çubuğu oluşumları, bir mum veya çubuk ve yarattığı gölgeler kullanılarak fiyat hareketleri hakkında görsel olarak 
+bilgi gösterme yöntemini temsil eder. Ancak bu mumların sadece görünümlerinden çok daha fazlası vardır. Bir mum çubuğu 
+oluşturmak için bir araya gelen kalıpları anlayarak gelecekteki fiyat değişikliklerini tahmin etmek için kullanılabilirler. Bu 
+kalıplar, mevcut piyasa duyarlılığını belirlemek ve gelecekte olumlu veya olumsuz koşulların oluşup oluşmayacağını tahmin 
+etmek için kullanılabilir.
+Mumları etkili bir şekilde kullanmanın anahtarı, nasıl oluşturulduklarını, neyi temsil ettiklerini ve nerede ve nasıl 
+kullanıldıklarını tanımaktır. Bu önemlidir çünkü her bir mumun oluşumu ve anlamı aynı değildir. Özellikleri, nasıl 
+oluşturulduklarına göre farklılık gösterir. Aynı mum, bir Japon mum formasyonu oluşturan bir mum grubunun parçası 
+olarak tanımlanırsa farklı bir amaca ve anlama sahip olacaktır. Formasyonlar, hisselerin uzun veya kısa olmasına veya 
+menkul kıymetin piyasa hareketinin yatay veya yükseliş trendinde olup olmadığına bağlı olarak değişebilir. Her grafik, 
+özellikle bir dönemden diğerine trend değişiklikleriyse, fiyatların zaman dilimleri içinde nasıl hareket ettiğine bağlı 
+olarak gelecekte hangi eylemlerin gerçekleştirileceği hakkında özel bilgiler sağlar.
+Mum Desenleri
+Tek mum desenlerinde yalnızca bir mum bulunur. Fiyat çok önemli destek ve direnç seviyelerinde veya 
+Fibonacci geri çekilmeleri ve pivot noktaları gibi diğer önemli fiyat noktalarında olduğunda bunlara 
+güvenilmelidir. Bu mumları, fiyatın yukarı mı aşağı mı iteceğini veya piyasanın nereye gittiğini anlamaya 
+çalıştığı bir kararsızlık dönemi olup olmayacağını hesaplamak için kullanabilirsiniz. Doğru bağlamda kendi 
+başlarına işlem yapmayı seçerseniz daha güvenilir olan iki mumlu mum desenleri vardır. Bazı mumlarda 
+üç, dört ve hatta beş mum bulunur, ancak bunlar genellikle tek ve çift desenler kadar sık   oluşmaz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Çekiç ve Asılı Adam
+Çekiç, boğa veya ayı olabilen ve genellikle mumun yüksekliğine yakın olan küçük bir gövdeye sahip uzun bir fitile 
+sahiptir. Bunu ayı trendinin sonunda elde ettiğinizde, kalıbı boğa olarak düşünebilirsiniz. Başka bir deyişle, alıcıların 
+fiyatları yükseltmek için piyasaya akın etmesini bekleyin. Aynı formasyonu bir yükseliş trendinin sonunda elde 
+ettiğinizde, bunun ayı modeli olarak değerlendirilmesi gerekir ve bu kalıptan para kazanmak istiyorsanız piyasayı 
+açığa satacak ayılara katılmaya hazır olmalısınız.
+Bu mumun, ister asılı adam ister çekiç olsun, uzun bir fitili olması hayati önem taşır. Fitilin mumun gerçek gövdesinin 
+üç katı uzunluğunda olmasını istersiniz. Uzun fitil, mum açıldıktan sonra fiyatta çok keskin bir düşüş olduğunu ve 
+ardından mumun ticaretinin sonuna doğru biraz toparlanma olduğunu söyleyen bir mesajdır. Açılış ve kapanış 
+fiyatları ideal olarak birbirine yakın olmalı, böylece gövde küçük olmalıdır.
+Asılı adamı bir satış sinyali olarak değerlendirmeniz için, piyasanın sonraki birkaç mumda o mumun dip seviyesinden daha düşük fiyatlanmış 
+olmasını istersiniz, bu yüzden kısa pozisyon açmaya karar vermeden önce bu onayı beklemek en iyisidir.
+Boğa ve Ayı Kemeri Tutunuyor
+Boğa kemer tutuşu beyaz veya boğa gövdesine sahiptir. Bu, açılış fiyatının düşük seviyeye çok yakın olduğu ve ardından 
+piyasanın yukarı doğru fırlamaya başladığı, yüksek seviyeye yakın bir yerde kapandığı ve kemer pimini andıran tepede küçük 
+bir fitil bıraktığı anlamına gelir. Ayı kemer tutuşu için durum tam tersidir, burada açılış fiyatı yüksek fiyata yakın veya yüksek 
+fiyattadır ve kapanış fiyatı düşük seviyeye yakındır ve dipte küçük bir fitil bırakır. Bu modelin gerçek gövdesi ne kadar 
+büyükse, piyasanın yakında tersine dönme ihtimali olduğu için ona o kadar fazla önem vermelisiniz.
+Bir sonraki mumun açılış fiyatı ayı formunda bu örüntüden daha yükseğe çıktığında, olasılıklar piyasanın gerçekten daha 
+yükseğe çıkacağı yönündedir. Bir sonraki mumun açılışı boğa kemeri tutmanın düşük seviyesinin altındaysa, piyasanın daha 
+düşük düşükler yapmasını bekleyebilirsiniz.
+Boğa ve Ayı Engulfing Formasyonu
+Bu mum deseni aslında iki mumdan oluşur. Boğa sarma deseni, bir geri dönüşün yaklaştığını size bildirmek için güvenebileceğiniz bir 
+desendir, bu da yalnızca trend düşüş eğiliminde olduğunda buna dikkat etmeniz gerektiği anlamına gelir. Bu desen, daha küçük, 
+düşüş eğiliminde bir mumdan sonra gelen büyük bir yükseliş eğiliminde bir mumunuz olduğunda oluşur. Yükseliş eğilimindeki 
+mumun gövdesinin bir öncekinin fitilini tamamen sarmasının gerçekten çok da önemi yoktur. Sadece
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+bedeni sarar.
+Yükseliş trendinde olduğunuzu ve bir direnç alanına yaklaştığınızı fark ettiğinizde, ayı engulfing örüntüsünü 
+aramalısınız. Bu olduğunda, daha küçük bir boğa mumundan sonra kapanan güçlü, ayı mumu görmek 
+istersiniz.
+Harami ve Harami Haçı
+Harami deseninin de iki mumu vardır ve bunu engulfing deseninin diğer yüzü olarak düşünebilirsiniz. Geleneksel 
+olarak, her zaman bir iç gün olarak bilinir. Harami tam anlamıyla hamile anlamına gelir ve nedenini öğrenmek 
+üzeresiniz. Boğa harami, güçlü bir boğa mumuna sahiptir, ardından ilkinin gövdesinde bulunan daha küçük bir ayı 
+mumu gelir. Ayı harami, güçlü bir ayı mumuna sahiptir, ardından tüm aralığı ilk mumun gövdesinde bulunan daha 
+küçük bir boğa mumu gelir. Bu, bu senaryodaki ikinci mum olan bir çocuğa hamile olan bir annenin görüntüsünü 
+verir.
+Bu desenle, daha küçük mumun fitilinin önceki mumun en yüksek veya en düşük değerinden daha yüksek veya daha düşük 
+olması gerekmez. Özellikle bir yükseliş trendinin (ayı formuna gelince) veya bir düşüş trendinin (boğa formuna gelince) 
+sonunda fark ederseniz desene dikkat etmelisiniz. Daha küçük mumun çok küçük olduğunu, yani kapanış ve açılış fiyatlarının 
+birbirinden hiç de uzak olmadığını fark ettiğinizde, buna bir sinyal olarak daha da fazla güvenebilirsiniz.
+Doji
+Bu mum deseni, piyasa kararsız bir durumda olduğunda veya piyasadaki momentum yavaşladığında ortaya 
+çıkar. Bir Doji'nin gövdesi küçüktür veya yoktur; açılıp kapandıklarında fiyatlar aynıdır. Ayrıca bu mumun yukarı 
+ve/veya aşağı tarafında uzun gölgeler olduğunu fark edeceksiniz. Bunlarla yalnızca fiyatın yukarı veya aşağı 
+yöndeki güçlü trendin sonuna geldiğini fark ettiğinizde ilgilenmelisiniz. Bunlardan sonra oluşan mumun bir 
+yutma deseni olduğunu ve size işlem yapmak için yön eğilimi sağladığını gördüğünüzde daha da önemli olma 
+eğilimindedirler.
+Delici Desen ve Karanlık Bulut Örtüsü
+Delici desen, boğa engulfing desenini biraz andırır. Bir düşüş trendinin sonunda bir destek alanına 
+yaklaştığınızda buna dikkat etmek istersiniz. Boğa engulfing desenine gelince, büyük boğa mumu önceki 
+mumun gövdesini tamamen yutar. Ancak, delici desende, ikinci mumu, güçlü, boğa mumunu, önceki 
+mumun gövdesinin en az yarısını kapladığını görmek istersiniz. İkinci mum, öncekinin gövdesinin ne 
+kadarını kaplayabilirse, tersine dönüş o kadar güçlü olacaktır.
+Şimdi, kara bulut örtüsüne gelince, yükseliş trendinin sonunda buna dikkat etmek istersiniz. Burada, güçlü düşüş 
+eğilimindeki ikinci mumun önceki yükseliş eğilimindeki mumun gövdesinin en az yarısını kapladığını görmelisiniz. Yüzde 
+50'den fazlasını kaplarsa, aşağı yönlü güçlü bir geri dönüşün gelmesini bekleyebilirsiniz.
+Sabah Yıldızı ve Akşam Yıldızı
+Bu desenle, fiyattaki bir boşlukla önceki mumun gövdesinden ayrılmış, boğa veya ayı olabilen küçük bir mum 
+gövdesi bulacaksınız. Yıldızın gövdesinin önceki günün fitiliyle bağlantı kurması sorun değil, ancak gövdeyle 
+bağlantı kurmadığı sürece. Yıldız bir Doji olarak oluştuğunda, yani gövdesi olmadığında, buna Doji yıldızı denir. 
+Bu desenin her iki biçimi de kısa süre içinde bir tersine dönme beklemenizi söyler.
+Sabah yıldızı deseni, destek veya eski salınım diplerinde oluşan bir desendir ve içinde üç mum bulunur. İlk mumun 
+güçlü, ayı gövdesi vardır çünkü devam eden bir ayı trendinin parçasıdır. İkinci mum yıldızdır ve Doji deseninde olduğu 
+gibi çok küçük gerçek bir gövdeye veya var olmayan bir gövdeye sahiptir. Bu ikinci mum, birincinin gövdesine hiç 
+bağlı değildir. Son mum, boğa gövdesine sahip olanıdır ve ilk mumun gövdesinin en az yarısını kaplayacak kadar 
+yukarı fırlamalıdır. İdeal olarak, üçüncü mumun önceki mumun gövdesine doğru bir boşluğu olmalıdır. Üçüncü mum, 
+bir yutma deseni olarak oluşmuşsa, bunu bir geri dönüş olarak işlem yapmak da geçerlidir.
+Şimdi akşam yıldızı örüntüsüne geçelim. Piyasa zirveye ulaştıktan veya güçlü bir dirençle karşı karşıya kaldıktan 
+sonra bu örüntüye dikkat edin. Desendeki ilk mum güçlü, yükselişli bir mumdur. İkincisi, yükseliş veya düşüş 
+gövdesine sahip ve ilkinin gövdesinden kopuk bir yıldızdır. Sonuncusu, desendeki ilk mumun gövdesinin yüzde 
+50'sini veya daha fazlasını yutan güçlü, düşüşlü bir mumu olan düşüşlü bir mumdur. Ayrıca yıldızın gövdesi ile 
+son mumun gövdesi arasında bir boşluk görmek istersiniz. Eğer düşüşlü bir yutma örüntüsü olarak 
+gerçekleşirse, bunu aşağı yönlü işlem yapabilirsiniz.
+Bu kalıplarla çalışmaya gelince, piyasanın kısa süreli de olsa bir tersine dönüş yaratmak üzere olduğuna 
+dair işaretlere dikkat etmelisiniz. Bu kalıpların yapısı, bir işlem yapıp yapmamanız gerektiğini söylemenizi 
+çok kolaylaştırır ve Japon mumları olmaları sayesinde, trendin değişip değişmediğini söylemeniz çok daha 
+kolaydır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Mum Desenleriyle İşlem Yapmanın Avantajları
+Bu Desenleri Fark Etmek Çok Kolaydır:Desenlerin çoğu, çok net bir şekle ve anlama sahip oldukları için 
+kolayca fark edilebilir. Bazılarının yüzeysel bir bakış açısından birbirlerine benzeyebileceği doğru olsa da, 
+yalnızca şekillerine ve oluştukları pazarın sağladığı bağlama bakarak onları tanımlamakta sorun 
+yaşamazsınız.
+Bu Mum Desenleri Girişlerinizi Anlamanıza Yardımcı Olabilir:Ticaretteki en büyük sorunlardan biri doğru zamanda 
+girdiğinizden emin olmaktır. Kendi ticaretinizle uğraşırken bunu başarmak çok zor olabilir. Ancak ticaret kalıpları, 
+kılavuz olarak kullanabileceğiniz güzel, temiz girişlere sahiptir.
+Bu Desenler Durdurmalarınızda Yardımcı Olabilir:Bu kazançları nasıl koruyacağınızı çözemiyorsanız doğru fiyattan girmenin ne 
+faydası var? Buna yardımcı olmanın en iyi yollarından biri, genel olarak işlem yaparken zarar durdurma kullanmaktır. Bunlarla yaratıcı 
+olmak sizi oldukça kötü sonuçlara götürebilir, bu nedenle maksimum karlılık ve tutarlılık için bir mum desenini ve zarar durdurmayı 
+takip etmek en iyisidir.
+Herhangi Bir Piyasa İçin Bu Desenlerden Yararlanabilirsiniz:Mum desenleri yalnızca girişleriniz ve stop'larınız konusunda size 
+yardımcı olmakla kalmaz, aynı zamanda bir düşüş trendi sırasında yanlış zamanda girip bir boğa koşusu sırasında doğru zamanda 
+çıkabilirsiniz. Bunları aklınızda bulundurun ve herhangi bir yerde işlem yapmanın daha az risk taşıdığını göreceksiniz.
+Çıkışlarınızda Mum Desenlerini Kullanabilirsiniz:Bu kalıpları girişleriniz ve stop'larınız için kullanabileceğiniz doğru, ancak iyi çıkış 
+noktaları elde etmek için de bunlardan tam olarak yararlanabilirsiniz. Stratejinize bağlı olarak, bu bilgileri mevcut pozisyonlarınızı 
+satma veya daha fazla satın alma zamanının ne zaman geldiğini anlamanıza yardımcı olmak için kullanabilirsiniz.
+Bu Desenleri Tek Başınıza İşlem Yapabilirsiniz:Çoğu kişi başarılı ticaretin Ivy League okulundan matematik 
+alanında ileri derece gerektirdiğini düşünse de, bu her şeyden çok piyasa hareketlerini yorumlayabilmek ve olaylara 
+kendi yorumunuzu katabilmekle ilgilidir. Bu, bu tür stratejilerle ticaret yapmak için başka birinin iznine ihtiyacınız 
+olmadığı anlamına gelir.
+Bu Desenler Tutarlılığın Ek Katmanıyla Birlikte Gelir:Mum desenleri hakkında çok fazla bilgi olmasına rağmen, bulacağınız 
+şeylerin çoğu sadece saçmalıktır. Ticaret söz konusu olduğunda bir sürü saçmalığı okuyarak zamanınızı boşa harcamak 
+istemezsiniz. Bu, bazı iyi kaynaklar bulmanız ve bunlara bağlı kalmanız gerektiği anlamına gelir, sizi diğer şeylerin sizi yanlış 
+yönlendirebileceği şekilde yönlendirmeyeceğini bilerek.
+Bir sonraki bölümde, bu mumların oluşturabileceği grafik modellerine yakından bakacağız; böylece, bu mumlarla işlem yaparken size 
+daha fazla derinlik ve bakış açısı kazandıracağız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Dördüncü Bölüm: Grafik Modellerinin Analizi
+Piyasalarla sadece analiz ederek, alım satım yaparak veya yatırım yaparak etkileşime girseniz de, soru her zaman trendin ne 
+zaman sona ereceği ve yenisinin ne zaman başlayacağıdır. Fibonacci geri çekilme seviyeleri ve mum kalıpları gibi birçok araç 
+aradığınız cevapları size verebilir. Piyasayı analiz etmenin bir diğer yöntemi de bu Japon mumlarının oluşturduğu kalıplardır - 
+mum oluşumları olarak değil, tüm grafik kalıpları olarak. Bu kalıplar ve diğer araçlar analiz söz konusu olduğunda önemlidir 
+çünkü günün sonunda piyasanın psikolojisini ve duygusunu anlamanıza yardımcı olurlar.
+Grafik desenleri en az 50 yıldır inceleniyor ve bunlar hakkında çok fazla bilgi bulabilirsiniz. Çoğunlukla, 
+yatırımcılar ve tüccarlar karmaşık algoritmalar ve formüllere dayanan göstergelerden aldıkları bilgilere 
+bakmayı severler. Ancak, piyasanın ne yaptığını anlamak söz konusu olduğunda grafik desenlerinin daha üstün 
+olduğu gerçeği değişmez. Tam olarak beklediğiniz gibi gerçekleşme olasılığı yüksek olan en iyi bilinen 
+desenlerden bazılarını inceleyeceğiz. Ancak bu, her zaman yüzde yüz gerçekleştiği anlamına gelmez. Bu 
+nedenle, bunları diğer göstergeler ve mum desenleriyle eşleştirmeli ve ayrıca beklentilerinizi dizginlemelisiniz.
+Geri Dönüş Desenleri
+Tersine dönüş desenleri hakkında dikkat edilmesi gereken şey, bunları yalnızca bir düşüş trendinin veya yükseliş trendinin en 
+sonunda bulacağınızdır. Ayrıca, grafik deseni önemli sayıda mum üzerinde gerçekleştiğinde, tersine dönüşün de aynı 
+derecede dramatik olmasını bekleyebilirsiniz. Ayrıca, bu desenler oluştuğunda, piyasanın tepelerinde oluşturulanlar çok daha 
+kısadır ve diplerde veya destekte oluşanlardan çok daha fazla oynaklığa sahiptirler. Bunu söyledikten sonra, mumlarınızın 
+oluşturabileceği yaygın tersine dönüş grafik desenlerine bir göz atalım.
+Çift Üstler ve Çift Altlar
+Bunlar bir grafikte bulabileceğiniz en yaygın örüntülerden bazılarıdır. Bunlarla ilgili mesele, fiyatlarda küçük 
+hareketlerle oldukça sık ortaya çıkmalarıdır ve bu nedenle size bundan sonra ne olabileceğini gösterme 
+yeteneklerinin o kadar da iyi olmadığının farkında olmalısınız. Ancak, çift dip ve çift tepe örüntüleri, bir yönde veya 
+diğerinde aşırı fiyat hareketleri yaratan dalgalanmalarla ve oluşması normalden daha uzun süren dalgalanmalarla 
+gerçekleştiğinde daha güvenilir hale gelir.
+Çift tepe modeli, fiyatın yükseliş trendinde bir direnç seviyesine ulaşması ve ardından geri çekilmesiyle oluşur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Düzeltme hareketi olarak bilinen geri çekilme. Alıcılar bir kez daha fiyatı yukarı ve geri çekilmenin yarattığı zirveden 
+geçirmeye çalışırlar, ancak bunu başaramazlar çünkü o seviyede daha fazla satış emri vardır. Daha sonra olan şey, 
+alıcıların fiyatı toparlamak için ikinci girişiminde yaratılan dip, bu desenin ikinci tepesinden gelen itmeyle kırılır. İşlem 
+yapmak için, o dip veya desteğin kırılmasını beklemeniz, ardından fiyatın geri çekilmesini beklemeniz, kırılan desteği 
+direnç olarak yeniden test etmeniz ve ardından düşüş mumu formasyonu elde ettiğiniz anda bir satış işlemine 
+girmeniz gerekir.
+Çift dip, fiyat bir düşüş trendi sırasında bir tabana veya desteğe ulaştığında oluşan şeydir. Satıcılar fiyatı aşağı çekmeye 
+çalışırlar, ancak satın alma baskısı devreye girerek ilk dip oluştuğunda başarısız olurlar. Satıcılar fiyatı aşağı çekmek için 
+tekrar gelirler, ancak alıcılar devreye girerek fiyatları yukarı gönderir ve böylece ikinci dip oluşur. Satıcının düşük fiyatlar 
+yaratma yönündeki ikinci girişimiyle oluşturulan tepe kırıldığında, dikkatli olmanız için bir işarettir. O tepe kırılana kadar 
+bekleyin ve ardından fiyatın kırılan tepeye doğru düzelmesini bekleyin, tekrar test edin (direnç desteğe dönüşür) ve ardından 
+fiyatın size yükseliş mumu deseni vermesini bekleyin, böylece bir satın alma işlemine girebilirsiniz. Çift tepelerde bazen ikinci 
+tepenin birinciden daha yüksek veya daha düşük olabileceğini unutmayın. Aynı şey çift dipler için de geçerlidir.
+Üçlü Tepeler ve Üçlü Dipler
+Üçlü dip ve üçlü tepe, çift tepe ve çift dip ile benzer desenlerdir, ancak her biri için neredeyse aynı fiyat 
+noktasında üç tepe ve üç dip bulacaksınız. Bu desenin sizin lehinize sonuçlanma olasılığı, tepeler ve dipler 
+birbirine eşit uzaklıkta olduğunda daha yüksektir. Yani, orta dip veya tepe arasındaki mesafenin birinci ve 
+üçüncü dip ile tepeden sola ve sağa aynı olmasını istersiniz.
+Üçüncü zirveden önceki dip, fiyat tarafından, altından sıkıca kapanan ve onu hemen geçmeyen bir mumla 
+kırıldığında, tam bir üçlü tepe örüntüsüne sahip olduğunuzu anlarsınız. Üçlü tepenizdeki üçüncü zirve, bir 
+kopuş değil de sahte bir çıkışsa, bu size trendin değişmek üzere olduğunu söyleyebilir. Dipler ve tepeler 
+arasındaki mesafeyi kar hedefiniz olarak kullanabilirsiniz.
+Üçlü dip için, desen, üçüncü dipten önceki yüksek seviyenin, üzerinde net bir mum kapanışı ve sadece onu iten 
+bir gölge olmadan kırıldığı zaman oluşur. Üçüncü dip sahte bir hareketse, trendin tersine döneceğine 
+güvenebilirsiniz. Üçlü dipte işlem yaparken karınızı almak için üçlü tepe ile aynı hedefleme ilkesini kullanın.
+Baş ve Omuz Deseni
+Bu çok güçlü desen neredeyse her zaman trendde bir değişiklikle sonuçlanır. Üçlü dip ve üçlü tepe 
+formasyonunuza benzer, ancak orta zirve veya dip, sol ve sağ tarafındaki zirvelerden veya diplerden çok daha 
+yüksek veya alçaktır. Bu desenin en iyi biçimi, zirvelerin veya diplerin 1 ve 3'ün aynı seviyede veya mümkün 
+olduğunca birbirine yakın olmasıdır. Bu desene baktığınızda (satışlar için), sol omuz ve başın oluşumundan 
+sonra oluşan diplerin bağlantısı boyun çizgisi olarak bilinir. Bu desenin ters biçimi olduğunda (alımlar için), 
+boyun çizgisi, sol omuz ve başın oluşumundan sonra oluşan zirveleri birleştirdiğinizde elde ettiğiniz şeydir. Bu 
+desenin, boyun çizgisinin fiyat tarafından kırıldığı ve içinden fitil gibi geçmek yerine içinden sıkıca kapanan bir 
+mum olduğunda oluştuğunu bilirsiniz. Kırılma doğrulandığında, kar hedefiniz olarak tüm desenin en yüksek 
+zirvesi ile en düşük dibi arasındaki mesafeyi hedeflemek istersiniz.
+Üç Düşen Tepe ve Üç Yükselen Vadi
+Bu örüntü, acemi yatırımcılar için her zaman fark edilmesi kolay olmayabilir, ancak yapıyı inkar etmek zordur ve 
+örüntünün tersine dönme olasılığı genellikle yüksektir. Yükseliş trendinin sonunda üç düşen tepe ve düşüş trendinin 
+sonunda üç yükselen vadi görmek istersiniz. Piyasanın art arda 3 düşük tepe oluşturması ve ardından ikinci tepe 
+oluştuktan sonra oluşturulan dipten aşağıda bir mumla kapanması durumunda satıcı olma zamanının geldiğini 
+bilirsiniz. Hedefiniz en düşük dip ile en yüksek tepe arasındaki mesafe olmalıdır. Bunu grafiklere yansıtın ve oradan 
+çıkın. Daha fazlasını beklemeye kalkmayın.
+Üç yükselen vadiye gelince, fiyat art arda 3 düşük dip oluşturduğunda satın almalısınız; ardından, bir mum ikinci dip 
+oluşumundan sonra oluşan yüksek seviyeyi kırmak için kapanır. Grafik deseninizdeki en yüksek yüksek ile en düşük düşük 
+arasındaki mesafeyi kar alma seviyesi olarak hedefleyin.
+Anahtar Tersine Çevirme
+Bu örüntüye bakmadan önce, piyasada bir yönden diğerine çok fazla oynaklık ve hız görmek istersiniz. Bu 
+oynaklık genellikle piyasaları iyiye veya kötüye doğru önemli ölçüde hareket ettiren haber olaylarından 
+kaynaklanır. Güçlü bir şekilde yukarı doğru eğilim gösteren, fiyatı hiç ulaşılmayan veya uzun zamandır 
+ulaşılmayan seviyelere iten bir piyasanız olduğunda, tersine dönüş için bakılacak yakın bir direnç olmadığını ve 
+fiyatta bir dönüş öngörmek için bir trend çizgisi çizemeyeceğinizi göreceksiniz. Ancak, çoğu yatırımcının ve 
+tüccarın hesaplarında çok sayıda işlemin pozitif yönde ilerlediği nokta burasıdır, bu nedenle çıkan haber raporu
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+pozisyonlarını destekliyorlarsa, karlarını korumak için panikle pozisyonlarını tasfiye edeceklerini bekleyebilirsiniz. Fiyatlardaki 
+bu itmeler oldukça dramatik olabilir, özellikle de limit yukarı ve limit aşağı ticaretine izin veren finansal araçlar söz konusu 
+olduğunda.
+Önemli bir geri dönüş günü veya mum gerçekleştiğinde dikkat etmeniz gereken oluşumlardan biri sahte çıkışlardır. Sahte 
+çıkışlar, yani yanlış kopuşlardır. Sahtedirler çünkü fiyat kopuş yönünde ilerlemeye devam etmek yerine durur ve aniden 
+tersine döner. Bunlarla üçlü dipler ve üçlü tepelerle birlikte çalışabilirsiniz. Üçlü dip oluşumundaki üçüncü dibin sahte çıkış 
+olduğunu gördüğünüzde, bunun büyük ihtimalle önemli bir geri dönüş mumu veya oyun günü olduğunu da fark edeceksiniz. 
+Aynı şey bir üçlü tepeniz olduğunda da geçerlidir ve üçüncü tepe aslında sahte çıkıştır.
+Grafik desenleriyle çalışmak, piyasadaki potansiyel geri dönüşleri, bunlar gerçekleşmeden önce tespit edebilmeniz anlamına 
+gelir. Ayrıca, bu trend değişimleri dramatik olabilir, bu da süreçte yaratılan dalgalanmaları öldürebileceğiniz anlamına gelir. 
+Bazı desenler size yalnızca duraklayan, tersine dönmeyen trend hareketleri gösterecektir, bu da devam eden bir trend 
+gerçekleştiğinde ona katılabileceğiniz anlamına gelir. Bunlara devam desenleri denir.
+Devam Desenleri
+Üçgenler:Yükselen, Alçalan, Simetrik
+Bu üçgenler büyüleyici desenlerdir. Simetrik üçgen, fiyattaki zirveleri ve vadileri çapraz olarak birleştirerek çizdiğiniz 
+iki trend çizgisine sahiptir. Bu üçgendeki bu çizgiler birbirine doğru eğimlidir. Bu üçgeni oluşturmak için en az iki vadi 
+ve iki zirvenin birbirine bağlanması gerekir. Sahte çıkışlara yakalanmadan bununla işlem yapmak istiyorsanız, her 
+zaman en az üç zirve ve iki dip veya üç dip ve iki tepe elde edene kadar beklemelisiniz. Bu şekilde güvende olursunuz, 
+ancak bir trendi tamamen kaçırabileceğinizi aklınızda bulundurmalısınız. Daha agresif yatırımcıların beklemesine 
+gerek yoktur, ancak "agresif" olduğunuza karar vermeden önce, bu pozisyonlarda neyi riske ettiğiniz konusunda 
+makul olduğunuzdan emin olmanız gerekir.
+Piyasa size bu üçgenin direnç çizgisinin üzerinde net bir kapanış veya destek çizgisinin altında net bir kapanış ile bir 
+mum verdiğinde harekete geçmeniz için bir sinyal aldığınızı bilirsiniz. Bunlar sırasıyla alım ve satım senaryolarıdır. 
+Fiyatın trend çizgilerinin birleştiği üçgenin en ucuna ne kadar yaklaşırsa, ortaya çıkan kopuşun o kadar zayıf olacağını 
+ve bu ticareti tamamen atlamanızın sizin için o kadar iyi olacağını unutmayın.
+Yükselen üçgen, simetrik olandan farklı bir kuruluma sahiptir; bu desende direnç çizgisi yatay, destek çizgisi ise 
+çapraz, yükselen bir çizgidir. Sahte bir hareketle karşılaşma endişesi duymadan bununla işlem yapmak 
+istiyorsanız, ideal olarak sırasıyla üç yüksek veya üç düşük oluşmasını beklemelisiniz. Bir kez daha, beklemenin 
+sıkıntısı, gelecek hareketi kaçırabilmenizdir, bu nedenle bu desenle çalışırken riskinizi ve işlem stilinizi göz 
+önünde bulundurmalısınız. Bir işleme girme sinyaliniz, satın almak için direnç çizgisinin üzerinde veya satış için 
+destek çizgisinin altında net bir kapanış elde ettiğinizde gelir.
+Son olarak, alçalan üçgeniniz var. Bu üçgenin yatay veya paralel bir destek çizgisi vardır. Ancak direnç 
+çizgisi çaprazdır ve soldan sağa doğru aşağı doğru eğimlidir. Muhafazakar bir tüccarsanız üç dip ve üç 
+tepe bekleyin veya agresifseniz iki dip ve iki tepe ile doğrudan girin. Bu üçgenlerle, üçgenin dip 
+noktasından tepe noktasına olan mesafeyi kırılmadan yansıtarak kar seviyelerinizi ölçebilirsiniz.
+Boğa ve Ayı Dikdörtgenleri
+Bunlar iyi bilinen devam kalıplarıdır, ancak özellikle üçlü dip veya üçlü tepe oluşturduklarında tersine dönüşle 
+sonuçlanabilecekleri zamanlar vardır. Kalıp, piyasadaki destek ve direnci belirleyen yatay çizgilerden oluşur. Sahte 
+hareketlerden uzak durmak istiyorsanız, üç dip ve üç tepe oluşmasına izin vermek için sabırlı olmalısınız. Üçgenlerde 
+olduğu gibi, beklemek patlayıcı hareketleri kaçırmak anlamına gelebilir. Bunu yapmak istiyorsanız veya sadece iki dip 
+ve tepe olmasını tercih ediyorsanız seçim sizin. İşlem yapma sinyali, bir mumun direnç çizgisinin üzerinde veya destek 
+çizgisinin altında kapanmasıyla gelir. Bazı yatırımcılar, bir işleme girmeden önce fiyatın önce kırık çizgiye geri 
+çekilmesini bekler, ancak bu geride kalmak anlamına gelebilir. Bu işlem için en iyi hedef seviye, dikdörtgenin tepesi ile 
+tabanı arasındaki mesafedir.
+Bahar ve Yükseliş
+Bunlar sahte kopuşlardır. Piyasa destek alanının altında çok kısa bir süre işlem gördükten sonra, destek çizgisinin 
+üzerine güç ve hızla geri döndüğünde, çok düşük açılış fiyatının çok yüksek bir kapanış fiyatıyla sonuçlandığını 
+göreceksiniz. Buna yay denir ve bazı yatırımcılar bu hareketi zarar durdurma emirlerini avlamak olarak düşünür. 
+Yükseliş aynı zamanda direnç alanı veya çizgisinden geçen sahte bir kopuştur. Piyasa direncin üzerinde işlem görür, 
+ancak yalnızca kısa bir süre, sonra hızla ve güçle geri döner, böylece çok yüksek bir açılış fiyatı ve önemli ölçüde düşük 
+bir kapanış fiyatı elde edersiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Genişleyen Desen
+Bu desen, özellikle destek ve direnç çizgileri açıldığında, yatırımcıların çalışması için özellikle zordur. Bir üçgene 
+benzerler, ancak çizgiler hiçbir noktada birleşmiyor, birbirlerinden uzaklaşıyor. Bu çizgileri çizmek için, direnç 
+için en az iki ardışık yüksek tepe ve destek için iki ardışık düşük dip noktasını birleştirmeniz yeterlidir. Paranızı 
+bir kopuşa yatırmak istiyorsanız, oluşan her yeni zirve veya vadide çıkarılma olasılığınız yüksektir. Peki, güvenli 
+ve akıllıca olan şey nedir? Üç dip veya üç tepe elde edene kadar beklemelisiniz. Bu desenin, uzun vadeli zirve ve 
+dip noktalarına sahip olduğunuz yerde oluşmasını bekleyin.
+Bayrak ve Flama
+Bayrak deseniyle, fiyatın ana trende ters yönde bir eğimde hareket ettiğini ve devam eden bir dürtü hareketinin orta noktasına yakın 
+bir yerde gerçekleştiğini fark edeceksiniz. Bayrağı güvenli bir şekilde işlem yapmak istiyorsanız, üç dip oluşmasını beklemelisiniz. 
+Satın alma sinyaliniz, kapanış fiyatının direnç çizgisinin üzerinde olduğunu gördüğünüz zamandır. Karınızı nereye götüreceğinizi 
+anlamak istiyorsanız, bayrağın altından başlangıcına kadar olan hareketi ölçmeli ve ardından bunu iki standart sapma kadar dışarıya 
+doğru yansıtmalısınız.
+Boğa flaması, simetrik üçgenle neredeyse aynı yapıya sahiptir, ancak üçgenden çok daha az zaman alır. Flama, devam 
+eden bir trendin ortasında beliren bir şey olduğundan, fiyatın desenin en düşük noktasından en yüksek noktasına 
+kadar olan aralığını ölçmeniz ve ardından bunu iki katına çıkarıp dışarıya doğru yansıtmanız gerekir; böylece kar 
+hedefinize ulaşırsınız. Satın alma sinyaliniz sağlam bir kapanış beklemektir ve ideal olarak üç en düşük noktanın 
+oluşmasını beklemelisiniz. Aynısı, bu desenin tersine dönmüş ayı formu için de geçerlidir.
+Kama Formasyonu
+Kama, simetrik üçgeni anımsatır, ancak önemli bir fark vardır: açı. Kama, devam eden trende karşı açıkça 
+açılıdır ve bu nedenle düşen bir kama olduğunda, bu bir satın alma deseni olarak kabul edilir. Yükselen kama 
+ile, satmaya hazırlanmalısınız. Daha önce ele aldığımız önceki desenlerde olduğu gibi, boğa kama ile çalışırken 
+üç düşük, ayı kama olduğunda ise üç yüksek oluşmasını beklemeniz gerekir. Genellikle tüm kama uzunluğunun 
+üçüncü bölümünde bir kopuş yaşarsınız, ancak fiyatın bu desenin en uç noktasına ulaşma şansı vardır. Bu, 
+kamanın simetrik üçgenden farklı olduğu bir başka yoldur. Ayrıca, yükseliş trendine kıyasla düşüş trendinde 
+ortaya çıktıklarında oluşmaları için daha az zamana ihtiyaç duyarlar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Beşinci Bölüm: Zirveler, Dipler ve Fibonacci Seviyeleri
+Bu bölümde, fiyat hareketlerinden faydalanmanıza yardımcı olacak stratejilerle çalışmak için Japon mumları ve Fibonacci 
+seviyeleriyle nasıl çalışabileceğinize bakacağız. Çift dipler ve tepeler, Fibonacci geri çekilmeleri ve uzantıları ve piyasalarda 
+işlem yaparken ekstra bir avantaj elde etmenize yardımcı olacak mum kalıplarıyla nasıl çalışabileceğiniz hakkında 
+konuşacağız.
+Bayan ve Bayan
+Çift tepe ve çift dip kalıpları çok yaygındır ve ticaret tersine dönüşleri söz konusu olduğunda en çok tercih 
+edilenlerdendir. Çift tepe bir yükseliş trendinin sonunda geldiğinde, M harfini oluşturduğunu fark edeceksiniz. Çift dip 
+bir düşüş trendinin sonunda geldiğinde, W harfini oluşturur. Bu yüzden M ve W kalıpları olarak bilinirler.
+Bu kalıplar hafife alınmamalıdır; zamanınıza değer çünkü basit olandan karmaşığa her türlü stratejide 
+onlarla çalışabilirsiniz. Örneğin, fiyat önemli Fibonacci seviyelerine girdiğinde, bu M'leri ve W'leri takip 
+ederek işleminize başlamanız için sinyal alabilirsiniz.
+Çift tepe ve çift dip formasyonlarına gelince, bunların herhangi bir fiyat dalgalanmasında, ister küçük bir itme ister 
+küçük bir itme olsun, ister aylık grafikte ister dakikalık grafikte meydana gelsin, oluşabileceğini bilmeniz gerekir. 
+Ancak, işlem yaparken spread, komisyon ve kaymayı hesaba kattığınızda, bir aralıkta olduğunuzda kar açısından 
+kazanılacak çok fazla şey yoktur. Bu nedenle, önemli bir zaman diliminde gerçekleşen veya fiyatlarda önemli itmeler 
+yaratan daha büyük dalgalanmalarda bu kalıplara dikkat etmek istersiniz. En iyi çift tepe veya M formasyonları, 
+neredeyse eşit zirvelere sahip olanlardır. Çift dip veya W formasyonlarına gelince, neredeyse eşit dipler görmek 
+istersiniz.
+Bu zirvelerin ve vadilerin Ms ve Ws'de başarılı bir şekilde işlem yapabilmeniz için tam olarak aynı seviyede olması 
+gerekmediğini unutmayın. İkinci zirvenin birinciden biraz daha yüksek olmasını sağlayabilirsiniz ancak yine de beklediğiniz 
+fiyat salınımı elde edilirse bir satış sinyalinden kâr elde edebilirsiniz. Çift tepe formasyonunun olayı, yalnızca iki zirve 
+arasındaki düşük seviyenin altında kapanan güçlü bir mum tarafından kırıldığı zaman geçerli olmasıdır. İkinci zirve birinciden 
+yüksek olduğunda çift tepeler tanımlanması en kolay formasyon değildir. Bu, piyasa katılımcılarının piyasanın daha yüksek 
+fiyatlar yapmasını beklemeleri gerekip gerekmediğini veya bunun boğaları işlemin yanlış yönünde tuzağa düşürmek için 
+tasarlanmış bir durdurma avı olup olmadığını ve piyasa yapıcıların fiyatı aşağı çekmesini merak etmelerine neden olur. Peki 
+pratik olarak bununla nasıl başa çıkarsınız?
+Özellikle günlük gibi yüksek zaman dilimlerinde grafiklerle çalışırken, günlük mumun kapanış fiyatının, 
+çift tepedeki ilk zirvenin yarattığı yükseklikten çok daha yüksek olmasını istersiniz.
+Varlığın fiyatının ilk zirveden en az yüzde 3 daha yüksek bir seviyeye doğru kuzeye yönelmesi önemlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+İlk zirveden daha yüksek olabilmesi için iki adet günlük yüksek fiyat veya mum oluşması gerekir.
+İşlem yapmaya karar vermeden önce bunları filtreleriniz olarak yerleştirin, ancak tüm bunların gerçekleşmesini beklemeye 
+devam ederseniz kenarda oturmanız ihtimalinin olduğunu unutmayın. Sahte kopuşlar hakkında önemli olan şey, bunların 
+birikip hesap bakiyenizde büyük bir gedik açabilmesidir. M formasyonunun ilk zirvesinden daha düşük bir kapanış fiyatınız 
+olduğunda, sahte bir kopuş elde etmek fiyatta bir değişiklik olduğunun işareti olabilir.
+Salıncağınız Ne Kadar Büyük?
+Ms ve Ws ticareti söz konusu olduğunda, başarı teknik analizinizi yaparken çalışmayı seçtiğiniz salınımın büyüklüğüne 
+bağlıdır. Salınımınız yeterince büyük değilse, kazanan işlemleriniz olsa bile, bunun bedelini kayma, spread ve 
+komisyonlarla ödeyeceksiniz.
+Daha büyük salınımlarla çalışmayı seçmek, yaptığınız işlem sayısını azaltarak ve işlemlerin kalitesini artırarak uzun 
+vadede sizi başarıya hazırlayacaktır. Piyasada her zaman bir şeyler bulundurmayı seven bir yatırımcıysanız bu, 
+araştırmak isteyeceğiniz bir şey olmayabilir, ancak uzun vadede mükemmel olacaktır çünkü maliyet tasarrufu 
+sağlıyorsunuz. Bazı profesyoneller S&P 500 gibi endekslerle işlem yaparken yılda 10'dan fazla işlem yapmazlar. Bu çok 
+az işlem gibi görünüyorsa, daha büyük zaman dilimlerine dayalı hareketlerin gerçekten çok büyük olduğunu ve 
+beklemeye değdiğini unutmayın.
+Doğru salınım boyutunu bulmak, bir varlığın oynaklığını izlemekle ilgili bir çabadır ve bu, varlık sınıfından varlık 
+sınıfına ve araçtan araca değişecektir. Bunu, işlem platformunuzla birlikte gelen bilgisayar algoritmaları ve 
+göstergelerle çalışarak çözebilirsiniz. Bu fikri, 3 ila 5 yıl arasında değişen işlem verileriyle geriye dönük olarak 
+test etmelisiniz.
+Ms ve Ws ile işlem yapmak gerçekten çok geçerli bir uygulamadır ve önemli olan disiplinli ve sabırlı olmak, kurallarınıza 
+uymak ve böylece bir dizi işlem boyunca uzun vadede her zaman kazanan olmaktır.
+Girişler
+Bir mumun kapanış fiyatının fiyat salınımını kırdığını fark ettiğinizde uzun veya kısa pozisyon açma sinyali alırsınız. 
+Pratikte işlem yaparken birçok seçenek vardır, bu yüzden ihtiyaç duyduğunuzda işleri değiştirebilirsiniz, ancak fikir 
+aynı kalır ve bu yöntemle çalışmak size bir dizi böyle işlemde kar sağlayacaktır.
+Zarar Durdurma Yerleşimleri
+Ticaret söz konusu olduğunda, sadece bir ticarete nereden gireceğinizi değil, aynı zamanda yanıldığınızı anladığınızda nereden 
+çıkacağınızı da düşünmelisiniz. Bu nedenle, hesabınızı gereksiz riskten koruyacak olan stop loss emrinizi nereye koyacağınıza dair 
+kurallara ihtiyacınız vardır. Bir mumun bu seviyenin üstünde veya altında kapanması durumunda, önceki bir yüksek veya düşük 
+seviyenin kırılması durumunda ticaretinizden durdurulursunuz. Stop loss'unuz söz konusu olduğunda birçok seçeneğiniz vardır. 
+Güvenli oynamak istiyorsanız, piyasadan aniden çıkmamak ve fiyatın sizin lehinize gitmemesi için bu yöntemi kullanmalısınız. Güçlü 
+bir trend gösteren bir piyasada işlem yapıyorsanız, ekstra oynaklık nedeniyle normalden çok daha fazla kaybedebileceğinizi 
+unutmamalısınız. Bunun nedeni, tüm pozisyonların kapanış fiyatı nedeniyle kapatılacak olmasıdır. Ne kadar fazla deneyiminiz olursa, 
+piyasanın durumunu göz önünde bulundurarak stop loss emrinizi yerleştirmek için iki kurala sahip olmanız sizin için o kadar mantıklı 
+olabilir.
+Kar Alım Yerleştirmeleri
+Kar alma seviyeleriniz, karlarınızı doğrudan piyasaya geri vermek yerine tutmanıza yardımcı olmak için girişler ve 
+zarar durdurma seviyeleri kadar önemlidir. Tüm salınımı kullanmak ve bunu kar alma seviyeniz olarak yansıtmak 
+istersiniz. Örneğin, tüm salınımın 75 pip olduğunu varsayalım. Bu, kar alma seviyenizin aynı miktarda olacağı 
+anlamına gelir. Bu kural en uzun süre boyunca etkili olduğunu kanıtladı, ancak beklediğiniz gibi gerçekleşmeyeceği 
+zamanlar olduğunu unutmamalısınız. Bu nedenle, daha fazla piyasa deneyiminiz varsa diğer kurallarla çalışmanız 
+faydalı olacaktır. Size rehberlik etmesi için verilen kurallar, fiyatın kar seviyelerinize ulaşmasını bekleyecek kadar 
+sabırlı olduğunuz ve cömert bir zarar durdurma seviyeniz olduğu sürece çoğunlukla işe yarar. Lütfen, her piyasa 
+koşulunun an be an ve kurulumdan kuruluma benzersiz olduğu için işlemleriniz için asla mükemmel bir kural seti 
+olmayacağını unutmayın.
+Özetle, bu M'ler ve W'lerin piyasada yüksek oynaklık olduğunda işe yaradığını unutmayın. Bu oluşumlar harikadır 
+çünkü bunlarla işlem yapmak için çok fazla şey yapmanıza gerek yoktur ve riskinizi doğru şekilde yönetirseniz iyi 
+olursunuz.
+Fibonacci Geri Çekilmeleri
+Geri çekilmeleri ticaret etmek, piyasaları kâr için kullanmanın harika bir yoludur. Tek yapmanız gereken Fibonacci 
+dizisinin ve oranlarının özel sayılarıyla çalışmaktır. Bir deseniniz olduğunda grafiği analiz etmek basit bir iştir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+size bir geri çekilmenin başladığını gösterebilir, ancak sorun şu ki durum pek de öyle değil. Trendlerinden daha sık aralıkta 
+seyreden ve bir şekilde itmeler yaratan bazı varlıklarınız var. Genel olarak konuşursak, piyasalar 10 üzerinden 7 kez aralıkta 
+veya konsolidasyonda hareket edebilirken, 10 üzerinden sadece 3 kez trendde olabilir. Siz veya herhangi biri, ortaya çıkan 
+kopuşun yükseliş trendi, düşüş trendi mi başlatacağını yoksa daha aralıklı fiyat hareketine yol açan bir sahtekarlık mı 
+olacağını anlayamaz. Bu nedenle, aralıklı fiyat hareketinden en iyi şekilde yararlanmanızı ve ortaya çıktıklarında trendlerden 
+yararlanmak için yeterli sermayenizin olmasını sağlamak için stratejinizi yeniden düzenlemelisiniz. Şu anda, Japon mumları 
+tarafından grafiklerinizde size her zaman kar garanti edecek hiçbir desenin basılamayacağını anlamanız ve kabul etmeniz 
+gerekir, çünkü hiçbir tüccar size piyasanın kesin olarak nasıl hareket edeceğini önceden söyleyemez. Araçlara ve göstergelere 
+dayanarak eğitimli tahminlerde bulunabilirler, ancak bu tahminler sadece şudur: Tahminler.
+Stratejinizin bir parçası olarak geri çekilmeleri işlem yapmayı seçtiğinizde, bir zarar durdurma ile çalışmanız gerekir. Ayrıca kar seviyelerinizi de 
+göz önünde bulundurmalı ve bunları alırken çok katı olmalısınız. Bu strateji, işlem başına yapmayı planladığınızdan daha az risk aldığınızdan ve 
+kaybettiğinizden daha fazla işlem kazandığınızdan emin olursanız, bir dizi işlem boyunca sizin için harika bir şekilde işe yarayacaktır. Bu tür bir 
+stratejiyi bir işlem algoritmasına veya robota programlayabilir ve bu algoritmayı geçmiş fiyat hareketlerinde test edebilirsiniz.
+Düzeltmelerle Ticaret
+İşleminizin temeli olarak bir düzeltme ile uğraşırken, büyük olasılıkla, geri çekilmeden hemen sonra girerek trendin yeni 
+ayaklarına atlayan bir trend takipçisi olmak istersiniz. Bunu yapmayan ancak bunun yerine ana trendin hareketini azaltmaya 
+çalışan tüccarlar olduğunda, bunlar muhaliftir ve bu, bu yolu seçen bir tüccarın bu stratejinin yalnızca kısa vadede işe 
+yaraması gerektiğini aklında tutması gerektiği anlamına gelir. Tekrar ediyorum, size kayıplardan daha fazla kazanç sunan bir 
+stratejiniz olmalı. Ayrıca, sahte çıkışların sizi rahatsız edebileceğini de aklınızda bulundurmalısınız. Aşağı yönde olanlar ayı 
+tuzakları olarak bilinirken, piyasa zirvelerine sahte çıkışlar boğa tuzaklarıdır. Herhangi bir grafiğe bakabilir ve bu fenomenin 
+tekrar tekrar gerçekleştiğini görebilirsiniz. Size para kazanmak için bir sürü fırsat sunabilirler.
+Şimdi, düzeltmeler veya geri çekilmeler olarak da adlandırılan geri çekilmelerin boyutundan bahsedelim. Bunlarla başa 
+çıkmanın olağan yolu, boyutlarını mevcut geri çekilmeden önce gelen trend yönündeki başka bir dürtüsel itmenin yüzdesi 
+olarak düşünmektir. Şimdi, dikkatimizi %61,8 Fibonacci geri çekilme seviyesine odakladığımızı varsayalım. Bir düzeltmenin ne 
+kadar büyük olması gerektiğini tahmin etmeye çalışmak biraz zordur. %38,2 seviyesinde bir işlem yapmayı seçtiğinizde, 
+sadece acele ediyor olabilirsiniz. Ancak, %61,8 seviyesini beklerseniz, patlayıcı hareketleri kaçırabilirsiniz. Bu nedenle, 
+dikkatinizi %61,8'de tutmak ve salınım noktasına kadar yeterli hareket sağlayan ancak daha fazlasına izin vermeyen sıkı bir 
+stop loss ile çalışarak yalnızca biraz risk almak en iyisidir.
+Geri çekilmelerde işlem yapmada usta olmak istiyorsanız, bunları düzeltme yüzdeleriyle birlikte kullanmalı ve bir 
+gösterge olarak salınımın büyüklüğüne bakmalısınız. Her varlığın kendi salınım desenlerine sahip olduğunu 
+bilmelisiniz, ki yatırımcılar bunu bilgisayar grafiklerini kullanarak bilirler. Geri çekilmelere dayalı bir strateji 
+oluştururken varlığın oluşturduğu desen denkleme dahil edilmelidir.
+Günlük grafikteki salınım boyutu saatlik grafikten çok farklı olabilir, bu yüzden bunu aklınızda tutmanız gerekir. Daha küçük 
+olduklarında, daha fazla gürültüyle uğraşacağınız ve gürültüyü doğru bir şekilde filtreleyemeyeceğiniz anlamına gelir. Bir an 
+için, 200 puanın Kanada Doları'nın günlük salınım boyutunu oluşturmak için fazlasıyla yeterli olduğunu varsayalım. Bu, %61,8, 
+%50 veya %38,2'lik düzeltme noktalarının çalışmak için iyi olduğu anlamına gelir. Ancak, Kanada Doları'nın daha uzun bir süre 
+boyunca 1.000 puan kadar büyük bir salınım yaptığı ortaya çıkarsa, işlem yapmadan önce fiyatın %38,2 seviyesine ulaşmasını 
+beklemek iyi bir fikir olabilir. Ayrıca, bunun diğer zaman dilimlerinden daha uzun sürebileceğini unutmayın.
+Girişler
+Bir giriş kuralına sahip olmak istersiniz çünkü eğilimin gerçekten sizin önyargınız lehine değiştiğini 
+çıkarsamanın bir yoluna ihtiyacınız vardır. Ayrıca, düzeltmenin başlangıcı için hedef tam olarak gerçekleştiğinde 
+girmiş olsaydınız muhtemelen biraz daha geç piyasaya gireceğiniz için biraz daha esnek olmaya istekli 
+olduğunuz anlamına gelir. Ancak, yanlış olduğu veya fiyatın henüz sizin lehinize gitmeye hazır olmadığı için bir 
+işlemden durdurulmaktan kendinizi koruyacağınız anlamına geliyorsa, masada birkaç dolar bırakmaya değer.
+Sadece %61,8 geri çekilme seviyesini ele aldığımızdan, ne zaman girmeniz gerektiğini açıklamak için yalnızca bir kurala 
+ihtiyacınız var. Sadece seviyeye ulaşıldığında, önceki mumun düşük veya yüksek seviyesi bir kapanış mumuyla ihlal 
+edildiğinde işleminize girin. Proaktif olarak ve bunları stratejinizin bir parçası haline getirerek sahte çıkışlara karşı dikkatli 
+olun, ne zaman ve nasıl gireceğiniz konusunda çok daha muhafazakar olun. Daha güvenli bir kuralla çalışabilir, yalnızca 
+önceki iki çubuğun yüksek fiyatı veya önceki iki çubuğun düşük fiyatı kırıldığında sahte çıkış yaşadığınızda uzun veya kısa 
+pozisyon açmayı seçebilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Zarar Durdurma Yerleşimleri
+Fibonacci geri çekilmeleriyle işlem yaparken, işleme girmeden önce kısa işlemler için yüksek fiyatta veya uzun işlemler 
+için dipte stop loss'unuz olmasını istersiniz. Stop loss boyutunuz, düşündüğünüz düzeltme seviyesine ve salınımın 
+boyutuna bağlıdır. 600 puanlık bir swing boyutunuz olduğunu ve doğru fiyatın %61,8 seviyesinde olduğunu 
+varsayalım. Ayrıca stop loss'unuzu önceki düşük seviyenin altına yerleştirdiğinizi varsayalım. Riskiniz, piyasa %50 
+seviyesinde veya hatta %38,2 seviyesindeyken bir işleme girmeyi seçmiş olsaydınız ve stop loss fiyatını aynı tutmuş 
+olsaydınız olduğundan çok daha az olurdu. Bununla birlikte, fiyat beklediğiniz yere gitmezse tüm bir hareketi 
+kaçırabilirsiniz.
+%61,8 geri çekilme seviyesiyle çalışmak çok daha iyidir çünkü daha sıkı bir zarar durdurma seviyesi sunar, bu da daha az risk ve daha 
+az finansal ve psikolojik gerileme anlamına gelir. Aldığınız sinyal size uzun gitmenizi söylediğinde, zarar durdurma seviyeniz önceki 
+düşük seviyenin altında olmalıdır. Çok kısa bir sinyal aldığınızda, zarar durdurma seviyenizi önceki yüksek seviyenin üzerine 
+yerleştirin. Sahte bir çıkışa tanık olduğunuzda, boğa veya ayı tuzağı oynanmadan önce zarar durdurma seviyeniz en yüksek yüksek 
+veya en düşük düşük seviyede olmalıdır.
+Takip Durdurmaları
+Kârınızı almak için belirli bir seviyeye sahip olmak yerine, stop emirlerinizi takip edebilirsiniz. Ancak mesele şu ki, bu seçenek, 
+çabalarınız için çok az veya hiçbir şey olmadan durdurulacağınız ve fiyatın sizin yönünüzde devam ederken siz hareketi 
+kaçıracağınız anlamına gelir. Ticaret yapmak için seçtiğiniz varlık sınıfına ve varlığa ve piyasa oynaklığına bağlı olarak, bu 
+kârınızı kilitlemek için en iyi seçenek olabilir veya olmayabilir. Stop emirlerinizi takip etmeniz gerekiyorsa, bunu fiyatın sizin 
+yönünüzde yaptığı noktalara göre değil, piyasanın doğal yapısıyla çalışarak yapmanız daha iyidir. Başka bir deyişle, varlığın 
+fiyatının yarattığı her yeni yüksek düşük veya düşük yüksek salınım noktasının altına veya üstüne stop emrinizi takip 
+etmelisiniz. Bu şekilde, piyasa geri dönüp sizi geri çekmeden veya tam tersine dönmeden önce, dürtü bacağının tüm 
+hareketini veya en azından iyi bir kısmını yakalama şansınız vardır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Bölüm Altı: Bollinger Bantları
+Bollinger bantları, piyasanın trendlerini ve işlemlerinizi yapacağınız giriş noktalarını belirlemenize yardımcı olmak için 
+kullanabileceğiniz bir göstergedir. Bu göstergeyi çıkışlarınızı belirlemenize yardımcı olması için de kullanabilirsiniz. Bu gösterge, 
+kripto paralar, dövizler, hisse senetleri, endeksler, emtialar, vadeli işlemler vb. dahil olmak üzere tüm piyasalarda ve varlık sınıflarında 
+çalışır. Bu gösterge, onu 1980'lerde yaratan John Bollinger'ın aklından çıkmıştır. Bu bantlar, bir varlığın fiyatı ve piyasa oynaklığıyla 
+ilgili neler olup bittiğini görmenize yardımcı olmak içindir.
+Bollinger bantlarını kullanabileceğiniz birçok yol var ve bunları bir varlığın değerinin düşük veya yüksek olduğu zamanı tahmin etmek için 
+kullanabilmeniz özellikle büyüleyici. Ve sadece bu değil, aynı zamanda bunları yeni trendlere doğru kırılmaları bulmanıza yardımcı olmak için 
+de kullanabilirsiniz. Ancak, ticaretteki her şeyde olduğu gibi, hatırlanması gereken şey, bir ticaret yapmak için bir nedenler birleşimine 
+ihtiyacınız olacağıdır. Başka bir deyişle, yalnızca göstergenin değerlerine dayanarak ticaret yapmaya çalışırsanız, çok fazla kaybetme riskiyle 
+karşı karşıya kalırsınız. Bunlar, ticaret kararları almanıza ve körü körüne takip etmemenize yardımcı olan bir araçtır. Peki, ne yaparsınız? Bunları 
+destek ve direnç kavramları, mum ticaret formasyonları ve grafik desenleri ile birleştirin.
+Bollinger Bantları Nasıl Hesaplanır
+Bollinger Bantları, piyasanın fiyat hareketini hesaplamak için kullandığınız üç çizgiye sahiptir. Göstergenin 
+hesaplanmasının birkaç yolu vardır. Bu göstergeyi hesaplayabileceğiniz yollardan biri, 20 döneme ayarlanmış 
+basit hareketli ortalamadır. Göstergenin üst bandı, ortadaki bant alınarak ve ardından hesaplamaya standart 
+sapmanın iki katı eklenerek hesaplanır. Alt bant da iki standart sapma ile hesaplanır, ancak negatife.
+Aşırı Alım ve Aşırı Satış Değerleriyle İşlem Yapma
+Bollinger bantlarıyla çalışmanın yaygın yollarından biri, piyasada işlem yapmak için aşırı değerli ve düşük değerli 
+değerler aramaktır. Varlığın fiyatının Bollinger bandının alt çizgisinin altına düştüğünü fark ettiğinizde, fiyatın biraz 
+fazla düştüğünü varsayabilirsiniz, bu da çok yakında yukarı yönlü bir sıçrama beklemeniz gerektiği anlamına gelir. 
+Fiyat üst çizgiyi aştığında, bunun varlığın aşırı değerli olduğu ve piyasanın bir geri dönüş veya geri çekilme hareketiyle 
+aşağı doğru geri çekilmek üzere olduğu anlamına geldiğini varsayabilirsiniz.
+Aşırı alım ve aşırı satım piyasa koşullarını belirlemek için üst ve alt bantlarla çalıştığınızda, ortalama geri dönüş olarak 
+bilinen piyasa kavramını da dikkate almanız gerekir. Bu, bir varlığın fiyatı bir yönde ne kadar uzağa hareket ederse 
+etsin, sonunda ortalama fiyatlara veya varlığın ortalamasına geri dönmesi gerektiği fikridir. Bunu, bir grafikte 
+herhangi bir değerin hareketli ortalamasını çizdiğinizde ve ardından fiyatın ondan uzaklaştıktan sonra o çizgiye geri 
+dönmeye devam ettiğini gördüğünüzde görebilirsiniz. Bollinger bantlarıyla, bir varlığın fiyatının ortalama fiyattan ne 
+zaman uzaklaştığını hesaplayabilirsiniz.
+Piyasa bir konsolidasyon veya aralıkta yanlara doğru hareket ettiğinde, temelleri bu yönde olan tüm stratejilerin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+ortalamaya dönüş kavramı oldukça iyi çalışacaktır. Temel olarak, fiyatın küçük bir dikdörtgen içinde hareket etmesi ve 
+fiyatın dikdörtgenin tepesine veya tabanına ulaştığında oradan dikdörtgenin ortasına geri dönmesini beklemenizdir. 
+Bollinger bantları ile ilgili mesele, uzun veya kısa gitmek için mutlaka en iyi sinyalleri alamayacağınızdır. Mevcut 
+eğilimin çok güçlü olduğunu varsayalım. Bu durumda, göstergenin size aşırı satılmış veya aşırı satın alınmış piyasa 
+koşulları hakkında erken sinyaller vermesi mümkün olduğundan, yanlış yönde bir işlem yapma olasılığınız yüksektir. 
+Soru şu, bunu nasıl düzeltirsiniz?
+Varlığın fiyatının genel olarak hangi yöne doğru eğilim gösterdiğini göz önünde bulundurmalı ve ardından yalnızca o yönde 
+işlem yapmaya özen göstermelisiniz. Bir an için düşüş eğiliminde olduğunuzu varsayalım. Bu, Bollinger bantlarının ürettiği 
+tüm aşırı satım uyarılarını göz ardı edeceğiniz ve bunun yerine bantlardan aşırı alım uyarıları aldığınızda yalnızca düşüş mum 
+desenlerini beklemeye odaklanacağınız anlamına gelir. Bu, dikkatinizin üst bantta olması gerektiği anlamına gelir. Fiyatın ona 
+ulaşmasını beklersiniz ve ardından satış yapmadan önce düşüş mum deseni veya grafik deseni oluşmasını beklersiniz. Ancak 
+bu, alt bandın kesinlikle işe yaramaz olduğu anlamına gelmez. Çıkışlarınızı sağlamak için bununla çalışabilirsiniz. Trend 
+yükseliş eğiliminde olduğunda bunun tersi geçerlidir.
+Bazen Daha Fazlası Daha Fazlasıdır
+John Bollinger'in kendisi "Bantların etiketleri sadece budur. Etiketler. Sinyal değil." demiş olarak bilinir. Bununla ne demek 
+istemiştir? Bir etiket, bantlardan herhangi birine dokunmaktır ve sizin hemen alıcı veya satıcı olmanız için bir sinyal değildir. 
+Fiyatın bant etrafında dans ettiği zamanlar vardır ve her zaman en üstte kısa pozisyon açmayı veya en altta satın almayı 
+düşündüğünüzde, hesap bakiyeniz ciddi şekilde kırmızıya dönene veya aracınızdan bir marj çağrısı alana kadar sürekli olarak 
+durdurulduğunuzu görebilirsiniz. Veya, bu durumda cömert bir zarar durdurma emriniz varsa, işleri yoluna koymadan önce, 
+eğer koyarsanız, çok sayıda düşüşe katlanmak zorunda kalabilirsiniz. Bu nedenle, piyasaların eğilimlerini anlamanıza 
+yardımcı olması için bantları kullanmak muhtemelen çok daha iyidir.
+Bu bantlar hakkında akılda tutulması gereken şey, bunların sadece bir sapma ölçüsü olduğudur ve bu, onu 
+oyundaki eğilimi anlamak için harika bir gösterge yapan özelliktir. Yani, grafiğinizde bu göstergenin iki farklı 
+seti çizildiğinde, birini birinin standart sapmasını ölçmek için kullanırken, diğerini iki standart sapmaya 
+ayarlayabilirsiniz. Bu, fiyatı işlem kararlarınız için tamamen farklı bir bağlamda çerçeveleyecektir.
+Diyelim ki grafiğiniz bu iki Bollinger bant göstergesiyle ayarlandı. Fiyatın her ikisi için de Bollinger bantları arasında 
+yukarı yönlü olarak tutulduğunu, her ikisinin de ortalamadan pozitif 1 standart sapma ve 2 standart sapma uzakta 
+olduğunu ve yükseliş trendinde olduğunuzu görebilirsiniz. Bu, her iki üst bant tarafından oluşturulan kanalı, satın 
+alma bölgeniz olan fiyatın bir alanı olarak düşünebileceğiniz anlamına gelir. Fiyat, negatif bir standart sapma ve 
+negatif iki standart sapma olan alt Bollinger bantları tarafından oluşturulan kanallarda olduğunda, bunu satış 
+bölgeniz olarak düşünmelisiniz. Fiyatın pozitif ve negatif standart sapmaları 1 olan her iki bant arasında dans ettiğini 
+fark ettiğinizde, bu, işlem yapmaktan kaçınmak isteyebileceğiniz piyasanın nötr bir alanıdır.
+Bollinger bantları, bir varlığın fiyatına uyum sağlama konusunda ilginç bir yeteneğe sahiptir. Bunu, piyasanın oynaklığı 
+düştüğünde veya artan oynaklıkla birlikte genişlediğinde bantların daraldığını fark ettiğinizde eylem halinde görebilirsiniz. Bu 
+nedenle, piyasa ve trendler için bir zarf göstergesi olarak buna güvenebilirsiniz.
+Ticaret ve Fading
+Artık Bollinger bantlarının nasıl çalıştığını anladığınıza göre, ister fiyat oynaklığının yarattığı momentumdan 
+yararlanmak isteyen bir trend yatırımcısı olun, ister trend tükendiğinde veya bir geri dönüş veya büyük bir düzeltme 
+olduğunda yaratılan hareketleri azaltmayı tercih eden bir yatırımcı olun, onlarla nasıl çalışabileceğinize odaklanalım. 
+O halde, daha önce bahsettiğimiz grafiği hatırlayalım. Alım bölgesinde olduğunuzda alıcı olmayı düşünmeniz 
+mantıklıdır. Daha sonra, Bollinger bantları piyasa yeni zirveler oluştururken fiyat hareketini sınırlamaya devam ettiği 
+sürece bu uzun işlemde kalabilirsiniz.
+Çıkışlarınıza gelince, bir tüccardan diğerine farklılık gösterir, ancak grafikteki mumun düşüşe geçtiğini ve gerçek 
+gövdenin %75'inden fazlasının alım bölgesinin altında olduğunu fark ettiğinizde alım işleminizi kapatmayı 
+seçebilirsiniz. Bu rakamı kafanızda çalıştırdığınızda, fiyatın artık trende ayak uyduramadığı açıktır. Mumun yükselişten 
+düşüşe geçtiğinden emin olmanın önemli olmasının nedeni, aşağı yönlü karlı bir hareketten sahtekarlıkla ayrılmanızı 
+önlemektir. Kırmızı kapanan bir mum elde etmeyi beklemek, fiyat yalnızca bir düzeltme için biraz geri çekiliyorsa daha 
+fazla kar elde etmek için sizi oyunda tutacaktır. Şimdi bu kuralı aklınızda tutarak, yükseliş trendinin büyük kısmını 
+yakalamak için bir işleme sadık kalabilir ve yalnızca fiyat hareketinin trendden yepyeni fiyat aralığının zirvesinde 
+konsolide olmaya geçtiğini fark ettiğinizde çıkarsınız.
+Bollinger bantları, fiyat tükenmesinden kar elde etmeyi amaçlayan bir tüccarsanız sizin için çok faydalı bir 
+araç olacaktır, böylece grafiğinizdeki salınım noktalarıyla çalışabilirsiniz. Ancak, ne zaman
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Trende karşı işlem yaparken, kendinize daha fazla yanılma alanı tanımanız gerekir, çünkü bir trend düşüşten yükselişe veya 
+tam tersine geçmeden önce, bu değişim gerçekleşene kadar devam etmek için birkaç girişimde bulunacaktır.
+Bir grafiğe hareketleri azaltan bir yatırımcı olarak baktığınızı varsayalım. Bu grafikte Bollinger bantlarıyla çalışırken, trendin 
+zayıflık gösterdiği anı fark etmeniz kolay olacaktır. Fiyat bir dahaki sefere ona dokunduğunda bantları kullanarak piyasayı 
+kısaltabilirsiniz. Peki, zarar durdurma emriniz nereye gitmeli? Bunu, o etiketten önce oluşturulan zirve fiyatının hemen 
+üzerine yerleştirmeyi seçerseniz, bu, işleminizden durdurulmanın iyi bir yoludur. Bunun nedeni, fiyatın trendi tüketmeden 
+önce o zirveye (veya dibe) ulaşmaya devam etmesi gerektiğidir ve bu nedenle zarar durdurma emrinizin, özellikle alıcılar 
+varlığın fiyatını daha yükseğe gönderebileceklerini görmeye çalıştıkça, yukarı yönlü ani yükselişler tarafından "avlanma" 
+olasılığı vardır.
+Stop loss'unuzu önceki salınım yüksekliğinin üzerine çıkarmak yerine, her iki göstergenin orta bantları 
+arasındaki nötr alanın ölçüsünü 1 ve 2 standart sapma ayarlarıyla almalı ve ardından bu ölçümü üst banda 
+eklemelisiniz. Stop loss'unuzun gideceği seviye bu seviye olmalıdır. Stop loss seviyenizi hesaplamak için 
+piyasanın oynaklığını kullandığınızda, bir işlemde olmanız ve durdurulmamanız sizin için daha kolay olacaktır. 
+Daha sonra varlığın fiyatı erimeye başladığında hareketin geri kalanının tadını çıkarabilirsiniz.
+Bollinger Sıkışma
+Bollinger bantlarının sıkıştırma eylemine dayalı bir stratejiyle işlem yapabilirsiniz. Sıkıştırma, varlığın fiyatı bir yönde veya 
+başka bir yönde agresif bir hareket yaptığında ve ardından sıkışık bir kutu veya konsolidasyon içinde aralık oluşturmaya 
+başladığında oluşur. Fiyatın yanlara doğru hareket ettiğini ve alt ve üst bantların normalden daha yakın olduğunu fark 
+ettiğinizde bunun grafiğinizde nasıl gerçekleştiğini görebilirsiniz. Bu, piyasada artık oynaklık olmadığını gösterir. Fiyat bu 
+sıkışık kutuda bir süre hareket ettiğinde, sonunda bir yönde veya diğerinde önemli ölçüde kırılacaktır ve bu kırılma hareketi 
+yüksek hacimle desteklenir. Kırılmalarınızın arkasında hacim varsa, bu size hareketin güvenilir olma olasılığının daha yüksek 
+olduğunu ve sadece bir sahtekarlık olmadığını söyler. Piyasa katılımcılarının çoğunluğunun hareketin arkasında olduğunu ve 
+işleri bir şekilde veya başka bir şekilde hareket ettirecek çok parası olan büyük bir tüccar olmadığını söyler.
+Fiyatın alt veya üst bandı geçtiğini gördüğünüzde, sırasıyla satabilir veya satın alabilirsiniz. Zarar durdurma 
+emrinize gelince, önemli hareketin diğer tarafında olacak olan tüm konsolidasyon alanının dışına çıkmalıdır.
+Bollinger Bantları ve Keltner Kanalları
+Yatırımcıların çalışmayı sevdiği bir diğer gösterge ise Keltner kanalları olarak bilinir. Bunlar Bollinger bantlarına 
+benzerdir ancak kendi yollarıyla benzersizdirler. Kitabın bu bölümünde bundan bahsetmeye değer çünkü Bollinger 
+bantlarıyla işlem yapma konseptinden hoşlanıyorsanız, ihtiyaçlarınıza bağlı olarak bu Keltner kanallarını daha da iyi 
+bulabilirsiniz.
+Keltner kanalları ayrıca bir varlığın fiyatının üstüne ve altına çıkan fiyat hareketini saran bantlardır. Bantlar piyasadaki 
+oynaklıktan etkilenir ve Bollinger bantları gibi bunları bir varlığın eğilimini belirlemek için kullanabilirsiniz. Bu kanal, 
+gerçek ortalama aralık veya kısaca ATR olarak bilinen bir şeyden faydalanır. Başka bir deyişle, piyasadaki oynaklığa 
+dayanır ve bu kanalın dibine veya tepesine bir kırılma yaşadığınızda, işlerin o yönde devam etmesini beklemeniz 
+gerektiğine dair bir işarettir.
+Keltner kanal göstergesi Chester Keltner'ın eseridir ve kanalı 60'larda tasarlamıştır. Formül aynı zamanda 
+basit hareketli ortalamalara dayanıyordu ve düşük ve yüksek fiyatlar arasındaki aralık, bandın aralığını 
+hesaplamak için kullanılan şeydir. 80'ler geldiğinde, göstergeye gerçek ortalama aralığına dayanan yeni 
+bir formül eklenmiştir.
+Bollinger bantları gibi Keltner kanallarının da üç çizgisi vardır. Ancak bu durumda orta çizgi, varlığın 
+fiyatının üstel hareketli ortalamasıdır. Bu ortalamanın üstüne ve altına giden başka çizgiler de vardır. 
+Üstteki çizgi, EMA'dan iki standart sapma uzaklıktaki ATR'nin aynı ölçümüne ayarlanmıştır. Alttaki de iki 
+standart sapma uzaklıktadır. Bollinger bantları gibi, oynaklığa bağlı olarak genişler ve daralırlar, ancak 
+Keltner bantları durumunda oynaklık izole olarak değil, aralık açısından hesaplanır.
+Keltner kanallarını, üstel hareketli ortalamaya uyguladığınız ayarlara bağlı olarak farklı şekillerde kullanabilirsiniz. Uzun bir 
+tane kullanırsanız, bu, epey bir gecikme yaşayacağınız anlamına gelir; bu da kanalların istediğiniz kadar hızlı tepki 
+vermeyeceği anlamına gelir. Ancak bu kötü bir durum değildir, çünkü sahte hareketlere girmeyeceğiniz anlamına gelir. Daha 
+kısa bir üstel hareketli ortalama kullandığınızda, bantların daha hızlı tepki verdiğini fark edeceksiniz; bu da daha fazla işlem 
+fırsatı anlamına gelir. Ancak, bunları almadan önce diğer göstergeleri ve mum kalıplarını aramak en iyisidir, aksi takdirde 
+sürekli olarak sahte olma riskiyle karşı karşıya kalırsınız.
+ATR ihtiyaçlarınıza uyacak şekilde de ayarlanabilir. Daha büyük bir çarpan kullanırsanız, bu kanalın normalden daha 
+büyük olacağı ve fiyatın bantlara ulaşmasının zor olacağı anlamına gelir. Daha küçük bir çarpan kullanmak,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Üst ve alt bantlar arasında daha az boşluk olur ve her ikisinde de daha fazla dokunuş fark edersiniz. Bu kanalları 
+gözlemlemek, özellikle yükseldiği veya düştüğü açıyı not ettiğinizde, size trendin yönünü verecektir. Bandın üzerinde bir 
+hareket gördüğünüzde, fiyatın güçlü olduğu anlamına gelir. Altında bir hareket gördüğünüzde, zayıf olduğu anlamına gelir. 
+Alt bandın altına düştüğünde, bir düşüş trendi vardır ve bu nedenle kısa pozisyon almalısınız. Üst banda çarptığında ve 
+üstüne çıktığında, bu uzun pozisyon almanın bir işaretidir; fiyat üst banda çarpmaya devam ediyorsa ancak sonunda alt 
+banda değdiğinde daha da aşağı inmiyorsa, bu size yükseliş momentumunun öldüğünü söyleyebilir. Fiyat her zaman alt 
+banda çarpıyorsa ancak üst banda çarpmakta zorluk çekiyorsa, sonunda üst banda ulaştığında, düşüş trendinin ölmesini 
+bekleyin.
+Arada sırada fiyatın en üst ve en alt bantlar arasında dalgalandığını fark edebilirsiniz. Bu durumda, destek ve direnç 
+kavramını oyuna dahil edebilir, alt banttan satın alıp üst banttan kısa pozisyon açabilirsiniz. Bir konsolidasyon dönemi 
+geçirdiğinizde ve fiyat kanalın yukarı veya aşağı tarafına doğru kırıldığında, o yöndeki kırılmanın piyasanın o yöne 
+doğru gitmeye hazır olduğunun bir işareti olduğunu ve sırasıyla satın almanız veya satmanız gerektiğini 
+bekleyebilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Yedinci Bölüm: Stokastik ve RSI ile İşlem Yapma
+Stokastik, George Lane'in 50'lerde yarattığı bir göstergeydi. Bu gösterge, bir varlığın kapanış fiyatı ile belirli bir süre boyunca 
+fiyat aralığı arasındaki bağlantıyı size göstermek için tasarlanmıştır. Bu gösterge oldukça eski olmasına rağmen, profesyonel 
+yatırımcılar açısından hala vermeye devam eden zamansız bir hazinedir. Birincisi, göstergenin her fırsatta size ne söylediğini 
+anlamaya çalışarak beyin hücrelerinizi kaybetmenize gerek yok. İkincisi, ne zaman short veya long pozisyonlarına yatırım 
+yapmanız gerektiğini size bildirme konusunda oldukça doğrudur.
+Stokastik göstergesi okunması oldukça kolaydır ve osilatör göstergesi olarak bilinir, yani saatler, günler, çeyrekler 
+veya istediğiniz herhangi bir süre boyunca ortalama bir seviye etrafında kendi bantlarını oluşturan bir göstergedir. Bir 
+diğer popüler osilatör göstergesi de göreceli güç endeksi veya RSI'dır. Bu, 0 ila 100 arasında değerlere sahip 
+kullanabileceğiniz bir momentum göstergesidir. Genellikle 70 seviyenin aşırı alım, 30 seviyenin ise aşırı satım olarak 
+ayarlanması gerekir.
+Bazı yatırımcılar aşırı alım seviyeleri olarak 80'i ve aşırı satım seviyeleri olarak 30'u kullanırlar, bu da önceki ayara göre daha 
+az sinyal, ancak daha kaliteli işlemler anlamına gelir. Grafiklerinizde RSI ve stokastik göstergesini birbirleri için bir birleşim 
+noktası olarak kullanmak genellikle iyi bir fikirdir. Piyasa momentumuna göre piyasada ne yapacağınıza dair sinyalleri 
+alırsınız ve bu, bir pozisyondan ne zaman çıkıp ne zaman gireceğinizi belirlemenize yardımcı olur. Bu göstergenin size hizmet 
+etmesi için aşırı satım ve aşırı alım piyasa koşullarının kavramlarını anlamalısınız.
+Fiyat Hareketi Hakkında Konuşalım
+İşte stokastiklerin arkasındaki fikir. Hisse senedinin yükseliş eğiliminde olduğunu ve kapanış fiyatının günün fiyat hareketinin 
+aralığının en yükseğine geldiğini varsayalım. Örneğin, Dogecoin fiyatının gün için 10 dolardan açıldığını varsayalım. Sonra, 
+10,85 dolarlık bir zirve oluştururken 7,65 dolara kadar düştü. Günün fiyat hareketinin aralığı, sırasıyla 7,65 dolar ve 10,85 
+dolar olan günün en düşük ve en yüksek seviyeleri arasında olacaktır. Diğer taraftan, düşüş yönlü fiyat hareketi varsa, 
+kapanış fiyatı günün seansının en düşük seviyesine yakın veya hemen aynı seviyede işlem görecektir.
+Yani, stokastiklerle çalıştığınızda, varlığın ne zaman aşırı alım (olması gerekenden daha yüksek fiyatlandırıldığı anlamına gelir) 
+veya aşırı satım (varlığın gerçekte olduğundan daha az değerlendiği anlamına gelir) olduğunu görebilirsiniz. Çoğunlukla, bu 
+gösterge için dönem ayarını işaretlemek için kullanılan sayı 14'tür. Başka bir deyişle, gösterge son 14 mumu hesaba 
+katacaktır, ister bir dakikalık grafikte 14 dakika, ister saatlik grafikte 14 saat veya günlük grafikte 14 gün olsun. Profesyonel 
+bir teknik analist olarak, ilgilendiğiniz tüm sektöre yakından bakmak istersiniz,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Ana işlem aralıklarına bakarak uzun vadeli olasılıkları tahmin etmek.
+Stokların Hesaplanması
+Bu gösterge iki parametreye göre ölçülür: K çizgisi ve D çizgisi. Ancak D çizgisiyle ilgili mesele, özellikle 
+grafiğinizde harekete geçmeniz için önemli bir sinyal olduğunda sizi bilgilendireceği için, göz kulak olmanız 
+gereken çizginin o olmasıdır. Matematiksel olarak, K çizgisinin işleyişi şöyledir:
+100 x CP - L14/H14 - L14 = %K 
+Burada CP = En son kapanış fiyatı
+L14 = Son 14 periyot veya mumun en düşük fiyatı 
+H14 = Son 14 periyot veya mumun en yüksek 
+fiyatı D çizgisi formülü şu şekildedir:
+100 (H3/L3)
+H3 = Son üç periyodun veya mumun en yüksek fiyatı L3 = 
+Son üç periyodun veya mumun en düşük fiyatı
+Neyse ki, hisse senetlerinin değerini tek başınıza hesaplamak zorunda değilsiniz. Günümüzde mevcut grafik platformları 
+bunların otomatik olarak hesaplanmasını ve ekranın alt kısmındaki çizgiler şeklinde sizin için grafikte çizilmesini mümkün 
+kılıyor. Bazen, yatırımcıların %K'yi hızlı stokastik olarak adlandırdığını, %D'yi ise yavaş stokastik olarak adlandırdığını ve son üç 
+periyottaki %K.5'in hareketli ortalaması olarak hesaplandığını duyarsınız.
+Stochs'u okumak
+K çizgisinin her zaman D çizgisinden daha hızlı hareket edeceğini ve tepki vereceğini unutmayın. D çizgisine dikkat etmeli ve 
+varlığın fiyatının nasıl değiştiğini ve aşırı satım bölgesine (20 seviyesi) veya aşırı alım bölgesine (80 seviyesi) nasıl girdiğini fark 
+etmelisiniz. Göstergenin 80 seviyelerini yukarı doğru geçmeye başladığını fark ettiğinizde, satmanız için düşüş eğilimi 
+gösteren bir grafik ve mum kalıpları aramaya başlamalısınız. Diğer taraftan, gösterge size 20 seviyesinin aşağısına geçen bir 
+okuma verdiğinde, o varlığı satın almayı düşünmelisiniz. Bu seviyeleri, sizin için en iyi işe yarayan işlem stratejisine uyacak 
+şekilde ayarlayabileceğinizi unutmayın.
+Teknik analiz söz konusu olduğunda, stokastikler fiyatın momentumunu ve hareketten yararlanmak için alım veya 
+satım fırsatlarını gösteren bir dizi osilatördür. İstatistik söz konusu olduğunda, "stokastik" kelimesi bir olasılık dağılımı 
+biçimi tarafından yönetilmesi gereken her şeydir. Rastgele sunulan bir değişken açısından düşünün. Ticaret 
+jargonunda, bu kelimenin arkasındaki fikir, varlığın mevcut fiyatının çeşitli olası sonuçlara veya belirli bir zaman 
+dilimindeki fiyat aralığına bağlanabileceğidir. Bunu Excel grafiklerinizle kullanmak istiyorsanız, ilgilendiğiniz varlığın 
+kapanış fiyatlarından verileri alabilir ve ardından %K'yi hesaplamanıza yardımcı olması için bunları Excel'e 
+aktarabilirsiniz. Geriye dönük döneminizde bulabildiğiniz en yüksek fiyatı son kapanış fiyatından çıkarmanız gerekir. 
+Bu size istediğiniz kesrin payını verecektir. Paydayı bulmak için, o dönemde yapılan en yüksek ve en düşük fiyatlar 
+arasındaki farkı bulmanız gerekir. Bunu yaptıktan sonra sonucu 100 ile çarpın ve cevabınızı elde etmiş olursunuz. Bu 
+gösterge, doğruluğu nedeniyle birçok yatırımcının favorisidir. Tamamen yeni olsanız bile bununla çalışabilirsiniz ve 
+girişlerinizin ve çıkışlarınızın, işe yaradıklarında size minimum düşüş ve patlayıcı karlar sağlamak için harika bir şekilde 
+zamanlandığını göreceksiniz.
+Göreceli Güç Endeksi Göstergesi
+Bu, varlığın fiyatının ne kadar hızlı ve ne kadar uzağa değiştiğini ölçen ve piyasanın ortalama veya gerçek değerinin çok 
+üstünde veya altında işlem görüp görmediğini bulmak için kullanılan bir momentum göstergesidir. Bu gösterge J. Welles 
+Wilder Jr.'ın eseridir ve ilk olarak 1978'de çıkardığı New Concepts in Technical Trading Systems adlı kitabında bundan 
+bahsetmiştir.
+RSI, fiyatın aşırı alım veya aşırı satımda olduğunu göstermekten çok daha fazlasını yapabilir. Bunun da ötesinde, fiyatta bir düzeltme 
+veya tersine dönüş beklemeniz gerektiğini söyleyebilir. Ayrıca, ne zaman uzun veya kısa pozisyon açmanız gerektiğini de söyleyebilir. 
+Momentumu ölçmek için tasarlandığından, bu gösterge bir varlığın fiyatında yeni zirveler yaptığı günlerde veya diğer dönemlerdeki 
+gücüne bakacak ve bunu fiyatın yeni dipler yaptığı günler veya mumlarla karşılaştıracaktır. Bu, bir varlığın önümüzdeki mumlarda 
+nasıl performans gösterebileceğini görmenize ve bundan nasıl yararlanabileceğinizi göstermenize yardımcı olabilir.
+RSI'nin hesaplanması
+RSI'yi hesaplamanın iki kısmı vardır. İlkine bir bakalım. Birinci 
+Bölüm:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+100 - (100/ 1 + ortalama kazanç/ortalama kayıp) = RSI.
+Ortalama kazanç veya kayıp, belirli bir süre veya mum sayısı üzerinden belirlenmek üzere tasarlanmıştır. Az önce size 
+sunulan formül, ortalama kaybı hesaplamak için pozitif bir değerdir. Fiyat kayıplarının olduğu dönemler, ortalama kazancı 
+hesaplarken sıfır olarak hesaplanır. Fiyatta artış gösteren dönemler de ortalama kaybı hesaplarken sıfır olarak hesaplanır.
+Genellikle, bu gösterge için geriye dönük dönem de 14'tür. Yani, diyelim ki piyasa son 14 günden 
+yedisinde daha yüksek kapandı ve ortalama %1 kazandı. Diğer yedi gün ortalama %-0,8 kayıpla kapandı 
+ve daha da düştü. Formülü takip ederek, sonuç 55,55 olur. Göstergenin başvurabileceği 14 dönem 
+olduğunda matematiğin ikinci yarısını hesaplayabilirsiniz. Bu ikinci kısım gereklidir çünkü sonucu 
+yumuşatmanıza yardımcı olur, böylece RSI 0 veya 100'e ulaştığında, piyasalar güçlü bir trenddeyken 
+aşırıya kaçmaz.
+Bölüm İki:
+100 - [100/(önceki ortalama kazanç x 13)+mevcut kazanç / 1+ (önceki ortalama kayıp x 13) + mevcut kayıp)]
+RSI Çizildi
+RSI hesaplandığında, gösterge fiyat grafiğinin en altında veya bazı platformlarda grafiğin en üstünde görünecektir. RSI, 
+düşüş günlerinden daha fazla yükseliş günü varsa değer kazanmaya devam edecek ve yükseliş kapanışlarından daha fazla 
+düşüş kapanışınız varsa düşüşe geçecektir. Bu göstergenin, 70 seviyesine ulaşıldığında hemen satmanın veya 30 seviyesine 
+ulaşıldığında satın almanın aptalca olacağını unutmamalısınız. Bunun nedeni, göstergenin her seviyenin üstünde veya altında 
+kalacağı ve fiyat güçlü bir şekilde yukarı veya aşağı doğru eğilim gösterirken orada kalacağı zamanlar olmasıdır. Göstergeye 
+yeniyseniz bu oldukça kafa karıştırıcı olabilir, ancak bu nedenle RSI değerlerini değerlendirmeden önce bakmanız gereken ilk 
+şey, piyasanın yükseliş trendinde, düşüş trendinde mi yoksa yatay harekette mi olduğudur.
+RSI neden önemlidir?
+Bir varlığın fiyatının davranışını hesaplamak için kullanabilirsiniz. Trendleri fark 
+etmenize yardımcı olması için kullanabilirsiniz
+Aşırı alım ve aşırı satım seviyelerinde geri dönüşleri yakalamak için faydalıdır. 
+Ayrıca, satın alma veya satış için kısa vadeli giriş sinyalleri sağlayabilir.
+Bu göstergeyi stokastik ve hareketli ortalama yakınsama-ıraksama göstergesi gibi diğer 
+stratejiler ve göstergelerle birleştirebilirsiniz.
+RSI ile Trend Ticareti
+RSI'ı ve size ne söylediğini tam olarak kavramak için, işlem yaptığınız varlığın ana eğiliminin farkında olmanız gerekir. 
+Örneğin, bir zamanlar Constance Brown adında bir teknisyen, bu göstergeden aşırı satılmış bir okuma aldığınızda ve 
+eğilim yükselişte olduğunda, büyük olasılıkla 30 seviyesinin üzerinde olacağını söylemişti. Ayrıca, aşırı satın 
+alındığında, 70 seviyesinin altında bir okuma görmelisiniz. Öyleyse, yükseliş eğilimindeki bir grafiğe baktığınızı ve 
+RSI'ın 30 yerine 50'ye yakın bir dip yaptığını fark ettiğinizi varsayalım. Bunu, yükseliş piyasa koşullarına sahip 
+olduğunuzun bir işareti olarak düşünebilirsiniz.
+Bazı yatırımcılar aşırı alım ve aşırı satım seviyeleri arasına yatay bir trend çizgisi yerleştirir, böylece trend güçlü olduğunda ve 
+piyasa aralıkta olmadığında, geri çekilmeleri ve fiyat uçlarını görmek daha kolay olur. Diğer taraftan, RSI ayarları veya aşırı 
+alım ve aşırı satım göstergeleri için geri bakış periyodunu değiştirdiğinizde ve fiyat bir işlem aralığında olduğunda (yani net 
+veya güçlü bir trend olmadığında), değişikliğin gerekli olmadığını göreceksiniz. Gösterge, piyasa sadece bir yönde trend 
+göstermediğinde, bir fiyat kutusunda işlem gördüğünde giriş sinyalleri için daha doğrudur. Güçlü trendlerde, devam 
+sinyalleri olarak işlem yapmaya karar vermediğiniz sürece kendinizi kandırılmış bulacaksınız.
+Bu göstergenin sunduğu işlem sinyallerine gelince, yatırımcı öncelikle hakim olan eğilimi veya eğilim eksikliğini 
+belirlemelidir. Piyasa koşullarını bildiğinizde, tüm yükseliş sinyallerinden düşüş piyasa koşullarında kaçınılmalıdır ve 
+bunun tersi de geçerlidir. Sadece 70 ve 30 seviyelerine dikkat etmek istersiniz. RSI ile prim seviyesinde satış 
+kurulumları ve iskonto seviyesinde satın alma kurulumları ararsınız. Bu, "Düşük al, yüksek sat" işlem ilkesiyle 
+uyumludur.
+RSI ile Aralık Ticareti
+Bir trendle, RSI'nızdan aldığınız okumaların çeşitli türlerde göründüğünü fark edebilirsiniz. Oyunda yükseliş trendi olduğunda, RSI 
+dalgalanacak, indirim seviyesinin üzerinde kalacak ve ardından prim seviyesine ulaşmaya devam edecektir. Trend düşüşte 
+olduğunda, RSI prim seviyelerinin ötesine geçmekte zorluk çekecek ve aynı seviyede veya altında kalmayı seçecektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+indirim seviyeleri. Bunu anlamak, biraz para kazanmak için oynayabileceğiniz ters işlemler için gözlerinizi açık tutabileceğiniz 
+anlamına gelir.
+Örneğin, RSI'nin yükseliş trendinde birbiri ardına yarattığı çok sayıda salınıma rağmen primin altında kaldığını, ancak 
+daha sonra iskonto seviyesinin altına düştüğünü varsayalım. Bu, yükseliş trendinde bir zayıflama olduğunu ve ayıların 
+devralmaya hazırlandığını gösterebilir. Ayı trendleri için durum tam tersidir. Trendin iskonto seviyesine veya altına 
+ulaşamadığını fark ederseniz, prim seviyelerinin üzerinde kalmayı seçmeniz, ayıların momentum kaybettiği ve 
+boğaların yakında devralmak isteyebileceği anlamına gelir. RSI ile bu şekilde tersine dönüşler yapmak istediğinizde 
+size yardımcı olması için hareketli ortalamalar ve trend çizgileriyle çalışabilirsiniz. Bazı yatırımcılar, göreceli güç ve 
+göreceli güç endeksi göstergelerinin aynı şey olduğunu varsayarlar, ancak bu doğru değildir. Göreceli güç fikri, bir 
+varlığın fiyattaki güç veya zayıflık açısından diğerine göre nasıl sıralandığıyla ilgilidir, göreceli güç endeksi ise yalnızca 
+bir varlıktaki fiyattaki momentumu ölçmek içindir.
+Farklı RSI
+RSI, fiyattan sapmalar yaratabilir. Başka bir deyişle, fiyatın bir yönde hareket ederken RSI'ın farklı bir yönde hareket ettiğini 
+fark edebilirsiniz. Bu sapma yükseliş eğiliminde olduğunda, RSI'ın size değerinin altında bir okuma verdiğini ve ardından 
+daha yüksek bir dip oluşturduğunu ve fiyatın daha düşük bir dip ile bu hareketi eşleştirdiğini fark edeceksiniz. Bu, piyasadaki 
+yükseliş baskısının arttığını ve bir direnç alanı veya fiyatın üzerinde bir kırılma varsa, gelecek yükseliş hareketinin bir parçası 
+olmak isteyebileceğinizi söyler. Sapma düşüş eğiliminde olduğunda, RSI'ın varlığa aşırı değerli bir okuma verdiğini ve 
+ardından fiyat hareketinin daha yüksek zirvesine uyacak şekilde daha düşük bir zirve oluşturduğunu fark edeceksiniz. Söz 
+konusu varlığın uzun vadeli yükseliş eğiliminde olması durumunda sapmaların meydana gelmesinin oldukça nadir olduğunu 
+unutmayın. Daha fazla işlem fırsatı bulabilmeniz için değerinin altında ve üzerinde ölçümleriniz konusunda daha esnek 
+olmanız daha iyi olabilir.
+Fiyat hareketi ile RSI okuması arasındaki etkileşimi aramanın bir başka yolu da negatif ve pozitif RSI geri dönüşlerine 
+bakmaktır. Pozitif bir RSI'niz olduğunda, RSI'nin önceki dipten daha düşük yeni bir dip oluşturacağını fark edeceksiniz ve aynı 
+zamanda fiyatın önceki salınım dipten daha yüksek bir dip oluşturacağını göreceksiniz. Bu yükseliş işaretidir; uzun pozisyon 
+açmadan önce mumlarınızın yükseliş örüntüsü oluşturmasını beklemelisiniz. Diğer taraftan, negatif RSI geri dönüşü, RSI'nin 
+önceki zirveden daha yüksek bir zirve oluşturması ve aynı anda fiyatın önceki zirvesinden daha düşük bir zirve oluşturması 
+durumunda elde ettiğiniz şeydir. Bu, kendinizi kısa pozisyon açmaya hazırlamanız için bir işarettir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Bölüm Sekiz: Hareketli Ortalamalarla İşlem Yapma
+Bu gösterge, bir yatırımcının cephaneliğindeki en iyi ve en çok yönlü araçlardan biridir. Başlangıç   seviyesindeki yatırımcının 
+ilk başvurduğu araçlardan biridir. Bunun okunmasının bu kadar kolay olmasının nedeni, esasen grafiklerinize çizilen bir çizgi 
+olmasıdır. Bir kere baktığınızda, otomatik olarak yükseliş trendinde mi yoksa düşüş trendinde mi olduğunuzu anlarsınız, 
+böylece hangi yönde işlem yapacağınızı anlayabilirsiniz. Bu göstergeyle hazırlanmış sayısız basit ama güçlü strateji vardır.
+Hareketli ortalama, fiyatla birlikte zaman içinde dinamik olarak hareket eden bir çizgidir. Basitçe, bir dizi mum 
+veya periyodun ortalama fiyatlarını hesaplar. Bu çizginin üzerine inşa edildiği fiyat, açılış, kapanış, yüksek veya 
+düşük fiyat ve bu fiyatların diğer türevleri olabilir. Örneğin, 10 dakikalık grafiklerle işlem yaptığınızı varsayalım. 
+Son 10 periyoda hareketli ortalama uygularsanız, bu, çizginin ortalamayı bulmak için önceki 100 dakika veya bir 
+saat 40 dakika boyunca önceki on mum için geriye bakması gerektiği anlamına gelir. Aynı çizgiyi 100'lük bir 
+geriye bakma periyoduna sahip olacak şekilde ayarlarsanız, son 1000 dakikadaki ortalama fiyatı elde edersiniz.
+Hareketli ortalamalarla çalışmak çok şaşırtıcıdır çünkü dalgalı fiyat hareketlerini alır ve sizin için anlaşılması kolay 
+olacak şekilde yumuşatırlar. Bir pazara baktığınızda, trendin yukarı, aşağı veya hatta başlangıçta yerinde olup 
+olmadığının belirsiz olduğu zamanlar vardır. Bu karışıklık, daha düşük zaman dilimleriyle veya piyasalardaki korkunç 
+dalgalanmalarla çalıştığınızda daha da kötüleşebilir. Bu gibi zamanlarda basitçe bir veya iki hareketli ortalama 
+çizebilirsiniz. Size ne söylediklerine bir bakın ve yalnızca o yönde işlem yapın. Muhtemelen daha önce fark ettiğiniz 
+gibi, dikkat ettiyseniz, bu gösterge söz konusu olduğunda bir değişken vardır: geriye dönük dönem. Geri dönük 
+dönemi göstergeye programlayabilir ve grafiğinize çizmeden önce ortalama fiyatı hesaplamak için kaç mumun önemli 
+olduğunu ona bildirebilirsiniz.
+Farklı Türde Hareketli Ortalamalar
+Birçok türde ortalama var, ancak biz denenmiş ve doğru olanlara bağlı kalacağız. Bunlar:
+Basit hareketli ortalama Üstel 
+hareketli ortalama Ağırlıklı 
+hareketli ortalama
+Bu ortalamaların paylaştığı temel farklardan biri, fiyat ağırlıklarının matematiksel olarak nasıl hesaplandığıdır. 
+Basit hareketli ortalamaya gelince, geriye dönük dönemdeki fiyatların hepsine eşit önem verilir. Ancak, üstel ve 
+ağırlıklı hareketli ortalamaya gelince, o geriye dönük dönemdeki daha yeni fiyatlar daha
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+eskilerinden daha önemlidir. Matematik biraz farklı olabilir, ancak gerçek şu ki aynı konseptle çalışırlar. Bazı tüccarlar, 
+üstel ve ağırlıklı hareketli ortalamaların daha iyi olduğunu, çünkü mevcut fiyat hareketiyle daha uyumlu olduklarını 
+savunurlar. Ancak, bazı tüccarlar basit hareketli ortalamanın gecikmesini tercih eder, çünkü bu, sahte hareketlere 
+girme olasılıklarının daha düşük olduğu anlamına gelir. İkinci grup tüccar, başlangıçta girdikleri hareketlerin işe 
+yarayacağından emin olmak adına masada biraz para bırakmaktan fazlasıyla mutludur. Üstel ve ağırlıklı hareketli 
+ortalamaların basit hareketli ortalamadan daha hızlı tepki vermesi, ikincisinin anlamsız olduğu anlamına gelmez. 
+Aslında, birçok tüccar uzun ve kısa vadede yatırım kararlarını vermek için 10, 20, 50 ve 200 periyotlu basit hareketli 
+ortalamalara bakar. Bu, bu ortalamalara dayalı işlemler yaptığınızda kazanma olasılığınızın yüksek olduğu anlamına 
+gelir.
+Ortalamalar sadece trendin yönünü değil aynı zamanda gücünü de belirtmek için faydalıdır. Genellikle, yatırımcılar mevcut 
+trendin ne kadar güçlü olduğunu belirlemek için ortalamanın işaret ettiği açıyı göz kararı belirler. Hareketli ortalama 
+normalden çok daha dik bir eğime sahipse, bu trendin güçlü olduğu anlamına gelir. Hareketli ortalamanın düz veya yatay 
+büyümeye başladığını fark ederseniz, bu size momentumun ve piyasanın ölmekte olduğunu söyler ve bu yönde herhangi bir 
+işlem yapmaktan kaçınmak isteyebilirsiniz.
+Geçiş
+Hareketli ortalamalarınıza dayanarak verebileceğiniz çok sayıda karar vardır. Bunları giriş ve çıkışlarınızı ve stop loss'larınızı 
+nasıl takip edeceğinizi keşfetmek için de kullanabilirsiniz. Ayrıca, düşüş veya yanlış kopuşlar yaşama olasılığınız olmayan çok 
+iyi tanımlanmış pozisyonlarda devam eden trende girmek için de kullanabilirsiniz. Tüccarların hareketli ortalamalarla işlem 
+yapmasının en popüler yollarından biri, grafiklerine birden fazla hareketli ortalama yerleştirmek ve geçişleri işlem yapmaktır. 
+Bu geçiş stratejisinin çok sayıda çeşidi vardır, ancak sizin avantajınıza kullanmanız için en yaygın olanlara odaklanacağız.
+Yaygın bir geçiş stratejisi, fiyat hareketi ve grafiklerinizdeki tek bir hareketli ortalama ile ilgilidir. Tek yaptığınız, bir 
+işlem yapmadan önce fiyatın bu hareketli ortalamanın yukarısından aşağısına geçmesini veya tam tersini beklemektir. 
+Fiyat, hareketli ortalamanın altından tepesine geçtiğinde ve net, güçlü bir mumla kapandığında, işleminizi yukarı 
+doğru taşıyacak bir yükseliş modeli veya mum formasyonu aramaya başlayabilirsiniz. Ortalamanın tepesinden dibine 
+geçtiğinizde ve mum bunun altından sıkıca kapandığında, bu, işlemi kısa yapmak için mumların ve grafik modellerinin 
+düşüş formasyonlarını aramaya başlamanız gerektiğinin bir işaretidir. Bu kitap boyunca dikkatli olduysanız, bu 
+stratejideki sorunun ne olduğunu anlamış olmalısınız. Kısa tutmak adına, bunu belirtelim. Bu strateji, piyasa konsolide 
+olmaya veya bir aralıkta hareket etmeye başlayana kadar gerçekten basit ve doğrudan konuya giriyor. Bu 
+gerçekleştiğinde, fiyatın hareketli ortalama üzerinde ileri geri hareket etmeye devam ettiğini göreceksiniz; bu da, bu 
+kurulumlar üzerinde işlem yapmaya devam ederseniz çok fazla para kaybedebileceğinize dair çelişkili sinyaller 
+verecektir.
+Önceki stratejiden gelen birçok yanlış sinyalin sorunlarıyla başa çıkmak için, bunun yerine çalışabileceğiniz başka bir 
+strateji var. Bu, grafiklerinizde çizilen 2 hareketli ortalama gerektiren bir hareketli ortalama geçiş stratejisidir. 
+Hareketli ortalamalardan biri diğerinden daha hızlı olacak ve kısa vadeli işlem aktivitesini uzun vadeli yatırım 
+aktivitelerine karşı ölçecektir. Daha hızlı hareket eden ortalamanın daha yavaş olanların aşağısına geçtiğini 
+gördüğünüzde, bu yalnızca aşağı yönlü işlem modellerini aramanız gereken bir düşüş sinyalidir. Diğer taraftan, daha 
+hızlı hareket eden ortalama daha yavaş olanın tepesine geçtiğinde, bu yalnızca alımlar için yararlanmanız gereken bir 
+yükseliş sinyalidir. Bu, ilk sıradan geçiş stratejisinden çok daha iyi bir stratejidir, ancak dezavantajları da vardır. Piyasa 
+konsolidasyonda hareket etmeye başladığında, her iki hareketli ortalamanın da birbirini ileri geri kesmeye devam 
+ettiğini ve kesinlikle size kısa bir süre içinde çok fazla sinyal verdiğini fark edeceksiniz.
+Üçüncü hareketli ortalama geçiş stratejisinde grafiklerinizde üç ortalama çizilir. Piyasaların en uzun görünümünü kapsayan 
+hareketli ortalama, sizi güvende tutmak ve yalnızca gerçek trend yönünde işlem yapmanızı sağlamak içindir. Grafiklerinizde 
+üç hareketli ortalama olduğunda, yalnızca iki veya bir hareketli ortalama ile işlem yapanlar kadar sık     bir şekilde 
+kırbaçlanmayacağınızı bekleyebilirsiniz. Bu stratejiyle, üç hareketli ortalamanın en hızlısı daha yavaş olan ikisinin üzerine 
+çıktığında yükseliş sinyali alırsınız. Bunu elde ettiğiniz anda, yükseliş grafik deseni veya mum formasyonu alıp almadığınızı 
+görmek için bekleyin ve ardından işlemi uzun tarafa alın. Üç hareketli ortalamanın en hızlısı diğer ikisini aşağı doğru 
+geçtiğinde düşüş sinyali alırsınız. Daha düşük işlem yapmak için kullanabileceğiniz düşüş grafik desenleri ve mum 
+formasyonları arayın.
+Genel olarak konuşursak, işlem stratejiniz esas olarak hareketli ortalamalarla çalışmakla ilgiliyse, piyasalarda her 
+zaman bir pozisyonunuzun olması muhtemeldir. Bu, elde ettiğiniz her geçişte, bir parçası olmak için yeni bir işlem 
+aradığınız anlamına gelir. Bu durumda, riskinizi azaltabilmeniz için pozisyon veya salınım ticareti yerine günlük ticareti 
+düşünmek akıllıca bir fikir olabilir. Açgözlü olmak ve alışılmışın çok ötesinde hareket elde etmeyi hedeflemek yerine, 
+sonunda zirveye çıkmanız için fazlasıyla yeterli olan belirli bir risk-ödül oranına odaklanmak isteyebilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Bazı yatırımcılar bu stratejileri trend sırasında mümkün olduğunca fazla kar elde etmek için bir araç olarak 
+düşünür. Piyasanın belirli bir trendi olmadığında birkaç kaybeden işlemden fazlasının olacağını beklemelisiniz. 
+Ancak, riskinizi açıkça tanımlamanız gerektiğini anladığınız sürece bu endişe etmeniz gereken bir şey 
+olmayabilir. Asla aşırı kaldıraç kullanmayın ve yeterli oynaklığın olmadığı veya spreadlerin önemli karlar elde 
+etmeniz için çok yüksek olduğu dönemlerde işlem yapmadığınızdan emin olun. Bazı yatırımcılar, trendleri 
+kaçırmamak için zirveye çıkmadan önce bu stratejilerden aldıkları her sinyali almanın kendileri için hayati önem 
+taşıdığına inanırlar. Bir kez daha, dikkatli olmak ve daha sonra işlem yapabileceğiniz bir kopuşu beklemek en 
+iyisidir.
+Hareketli Ortalamaların Sorunu
+Bu gösterge ne kadar şaşırtıcı olsa da, kendi içinde birtakım eksiklikleri de var. Hareketli ortalama ile ilgili en 
+önemli sorunlardan biri, piyasa kutulu bir fiyat hareketi yaratmaya başladığında, önemli karlar elde etmenin 
+imkansız olmasıdır. Aldatılma sayınız, hesap bakiyenize göre yapabileceğiniz işlem sayısından çok daha fazla 
+olabilir. Bir ticaret kuralına göre, piyasalar sizin likit kalabileceğinizden çok daha uzun süre mantıksız kalabilir. 
+Her hareketi gelişigüzel takip etmek yerine, biraz aksiyon veya oynaklık elde edene kadar beklemelisiniz. 
+Kayıplarınızı azaltmanın bir diğer iyi yolu da üst üste kaç tane kaybettiğinize dikkat etmektir. Üst üste üç ila beş 
+kez kaybettiyseniz, işlem platformunuzu gün boyunca kapatmalı veya en azından pozisyon büyüklüğünüzü 
+küçültmelisiniz, böylece sonraki işlemlerde çok fazla risk almazsınız.
+Hareketli ortalamalarla ilgili bir diğer sorun da grafiklerinizde aynı anda birden fazla hareketli ortalama olması durumudur. Elbette. 
+Fiyat güçlü bir trenddeyken, bu bir rüya gibi görünür. Ancak konsolide olmaya başladığında, birden fazla ortalamaya sahip olmanın 
+bile trend yönünü anlamanıza yardımcı olmak için yeterli olmadığını fark edeceksiniz. Bir zamanlar fiyat hareketlerini yumuşatmada 
+çok iyi olan ortalamalar, yılanlar gibi birbirlerinin etrafında dolanmaya başlar ve çok fazla kafa karışıklığına neden olur. Piyasaların 
+trendi ne zaman durduracağını ve konsolidasyona başlayacağını kesin olarak söylemenin bir yolu yoktur, bu nedenle fark edilmesi 
+gereken iyi bir kuraldır. Üst üste üç yanlış işlem yaptıysanız ve bir adım geri çekildiyseniz. Tek yapmanız gerekenin riskinizi gülünç 
+derecede düşük bir seviyeye düşürmek ve yanlara doğru hareket eden bir piyasanın yarattığı muazzam kafa karışıklığını ticarete 
+devam etmek olduğunu varsayma cazibesine kapılmayın. Bunu yapmaya karar verirseniz, hesabınızın bir milyon kesintiyle ölümle 
+silinme olasılığı çok yüksektir. Hareketli ortalamalara dayalı stratejilerle işlem yaparken, oynaklığın ve güçlü bir trendin en iyi 
+dostunuz olmasına izin verin.
+Hareketli Ortalamalarla Çalışmaya İlişkin İpuçları
+Hareketli ortalama stratejilerinizden en iyi şekilde yararlanmak için yapabileceğiniz en önemli şeylerden biri riskinizi 
+tanımlamaktır. İstediğiniz oynaklık veya trendler bu konuda size yardımcı olacaktır. Stratejiniz hareketli ortalamalara 
+dayandığında ve uzun vadeli bir yatırımcı olduğunuzda trendin hakim olmasına izin verin. Hızlı bir geri dönüş arıyorsanız, o 
+zaman bir veya iki ortalama ile çalışın, ancak herhangi bir anda üçüyle değil. Bunlardan birinin filtre görevi görmesine izin 
+verin ve yalnızca sizi götüreceği yere gidin, böylece çok fazla ani iniş çıkış yaşanmaz. Ortalamalarla işlem yaptığınızda, tüm 
+stop'larınızı hareketli ortalamaların hemen altına veya üstüne alın. Bu size gerçek bir hareket için bolca alan sağlayacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Birçok yatırımcı bu stratejiyle para kazanmanın mümkün olup olmadığını bilmek ister. Cevap evettir. Aslında, 
+doğru şekilde uygulamak için zaman ayırırsanız ve ara sıra gelen aksiliklere katlanabilirseniz bu stratejiyle 
+kesinlikle para kazanabilirsiniz. Sonuçlarınızı iyileştirebileceğiniz iki farklı yol vardır:
+İşlem yaptığınız varlık çok fazla trende sahip değilse, herhangi bir anda üç ortalamayı da kullanmayın. Bunun yerine, sadece 
+ikisini veya daha yüksek volatilite oyunları oynarken sadece birini kullanın. Bu şekilde, üç hareketli ortalamayı birlikte 
+kullanmış olsaydınız olduğundan, bir trend tersine dönmesinden elde edeceğiniz kar için çok daha fazla alana sahip 
+olursunuz. Yine de ortalamaları, sadece biriyle trendi belirlemek, filtrelemek ve tanımlamak için kullanabilirsiniz. 
+İşlemlerinizde çok daha fazla esnekliğe sahip olacaksınız. Hareketli ortalamalar aynı anda farklı fiyat hareketleri ürettiğinde, 
+temizlenene ve tekrar önemli sinyaller üretmeye başlayana kadar bekleyip görmelisiniz.
+Bu tür bir stratejiyi seçenler, işe yaraması için sabır ve pratik gerektiğini anlamalıdır. Lütfen aşırı işlem yapmaktan kaçının çünkü hareketli 
+ortalama stratejileri stres senaryoları altında oldukça stresli olabilir. Hareketli ortalamaları kullanmak, iyi tanımlanmış stop emirleri koymanıza 
+yardımcı olabilir ancak bir işleme girmeden önce her zaman riskinizi tanımlayın. Bu şekilde, çok fazla kaybetme konusunda endişelenmenize 
+gerek kalmaz. Hareketli ortalamalarla işlem yaparken, bunların nispeten düzgün olduğundan emin olmaya çalışın. Piyasaların ne zaman 
+konsolide olmaya başlayacağını ve bir sonraki yükseliş trendinin nerede olacağını tanımlamak için ortalamaları birlikte okuyun.
+Herhangi bir anda yalnızca bir veya iki hareketli ortalamayla oynamayı sevenler, fiyat hareketlerinin trend tersine dönmesi 
+için birlikte çalışabilecek kadar uyumlu olduğundan emin olmalıdır. Bunu yaptığınızda güzel işlem sonuçları elde edebilirsiniz.
+Hareketli Ortalamalarla İşlem Yapmanın Avantajları
+Riskinizi Tanımlayabilirsiniz:Hareketli ortalamalarla işlem yaptığınızda riskinizi tanımlamada büyük bir esneklik vardır. Riski 
+bütçenize ve hesap boyutunuza uyacak şekilde tanımlayabilirsiniz. Hareketli ortalama stratejileri kullanan çoğu yatırımcı, zarar 
+durdurma noktalarını hareketli ortalamaların sadece birkaç tık altı veya üstü olarak tanımlar, bu da onlara gerçek hareketler için alan 
+sağlar.
+Hareketli Ortalamalar Zamanla Test Edilmiştir:İnsanların 100 yıldan uzun süredir piyasalarda para 
+kazanmak için hareketli ortalamaları kullandığına şüphe yok. Tüm zamanların en tanınmış ve başarılı 
+yatırımcılarına baksanız bile, bu tekniği ticaret ve yatırım stratejilerinde kullandılar. Oynayacak çok paranız 
+varsa, kısa vadeli, orta vadeli ve hatta uzun vadeli ticaret yapmak için hareketli ortalama stratejisini 
+kullanabilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Esnektirler: İşlemlerinizden en iyi şekilde yararlanmanıza yardımcı olmak için birden fazla hareketli ortalamayı 
+birleştirebilirsiniz. Belirli bir zamanda kendinizi yalnızca bir veya iki hareketli ortalamayla sınırlamanıza gerek yoktur ve geriye 
+dönük ayarları sizin ve tercih ettiğiniz strateji ve zaman dilimi için işe yarayacak şekilde ayarlayabilirsiniz.
+Hareketli Ortalamalar Harika Filtreleme Yetenekleri Sunar: Hareketli ortalamalarla da onlarsız da aynı şekilde işlem yapmayı 
+öğrenebilirsiniz. Bir hareketli ortalamaya bakarken fiyat hareketinden gürültüyü çıkarmak, bunu kendi başınıza yapmaya çalışmaktan 
+çok daha kolaydır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Bölüm Dokuz: Ticarette Risk Yönetimi
+Ticaret ve finans söz konusu olduğunda, risk yönetimi hayati önem taşır. Finansal piyasalardan para kazanmak isteyen biri 
+için kaçınılmazdır. Risk yönetimi, bir yatırımcının riski belirlemek, analiz etmek, ticaret sistemine dahil etmek ve gerektiği 
+şekilde azaltmak için yaptığı her şeydir. Risk yönetimi, yatırımcı veya yatırımcının bir fon yöneticisi olduğunu ve öz 
+sermayesini büyütürken bunlarla başa çıkmak için uygun önlemleri alabilmek amacıyla, alt çizgileri için tehlikeli olabilecek 
+faktörlere karşı tetikte olması gerektiğini fark ettiğinde gerçekleşir.
+Riski hesaba katmadan getirileri düşünemezsiniz. Varlık sınıfından bağımsız olarak tüm yatırımlar ve işlemler kendi içsel 
+risklerine sahiptir. Örneğin, Amerika Birleşik Devletleri'ndeki hazine bonoları gibi şeyler söz konusu olduğunda risk 
+neredeyse yoktur. Ancak, gayrimenkul, dövizler, endeksler, gelişmekte olan piyasaların hisse senetleri ve gayrimenkul söz 
+konusu olduğunda risk çok yüksek olabilir. Risk, yalnızca nesnel olarak değil, aynı zamanda bireysel yatırımcı için ne anlama 
+geldiği açısından da dikkate alınması gereken bir şeydir. Risk ve ortaya çıkabileceği farklı yollar konusunda sağlam bir 
+kavrayışa sahip olduğunuzda, yolunuza çıkan fırsatları ele almak için daha donanımlı olursunuz. Bunun nedeni, seçtiğiniz 
+işlem stratejisine bağlı olarak muhtemelen karşılaşacağınız masrafların farkında olmanızdır.
+Risk Yönetimi Nedir?
+Risk yönetimi finans dünyasının her alanındadır. Şirketlerin sundukları tahviller yerine hazine tahvilleri satın almayı 
+seçtiğinizde olan şeydir. Bir finans yöneticisi yatırım yaparken veya döviz türevleri ticareti yaparken aşırı maruziyeti önlemek 
+için bir korunma stratejisi benimsemeyi seçtiğinde olan şeydir. Bankaların kredi alıp almayacağınıza karar vermeden önce 
+kredi puanınıza baktıklarında yaptıkları şeydir. Borsacılar vadeli işlemler ve opsiyonlarla çalışır; fon yöneticileri yatırımlarını 
+çeşitlendirerek ve varlıkları uygun şekilde tahsis ederek riski yönetirler. Ayrıca, işlem yaptıkları veya yatırım yaptıkları 
+pozisyon büyüklüklerinin ellerindeki fonlar için tam olarak doğru olduğundan emin olmak zorundadırlar.
+İşlemleriniz için risk yönetiminiz yoksa, çok kötü sonuçlar olabilir. Aynısı şirketler ve yatırımları, ülkeler ve 
+ekonomiler için de geçerlidir. Bir an için 2007 yılını düşünün. Efsanevi subprime ipotek krizi vardı ve bu 
+büyük durgunluğun alevlerini körükledi. Bunların hepsi çok şüpheli risk yönetimi uygulamaları 
+yüzündendi. O zamanlar, bazı borç verenler puanınız ne kadar kötü veya iyi olursa olsun size 
+memnuniyetle kredi verir ve ipotekleri uzatırdı. Yatırım şirketleri daha sonra bunların hepsini satın alır, 
+yeniden paketler ve ipotek destekli menkul kıymetler olarak satardı ki bu gerçekten çok riskli bir oyundu.
+Risk Yönetiminin Mekaniği
+Ortalama bir yatırımcıya risk hakkında ne düşündüğünü sorun, büyük ihtimalle size negatif hesap bakiyeleri ve para 
+kaybetmekten bahsedeceklerdir. Ancak, konu yatırım dünyasına geldiğinde, riski ve karı şu şekilde düşünmelisiniz:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+birbirleriyle ilişkili. Tekrar, risk gerçek sonucunuzun beklenen sonuçtan sapmasıdır ve bu değeri kendi başına 
+veya bir piyasa kıyaslaması ışığında ifade edebilirsiniz. Sapma iyi veya kötü bir şey olarak ortaya çıkabilir, ancak 
+genel düşünce sapmanın gerçekleşeceği ve piyasada ne elde ettiğinizi etkileyeceğidir. Yani, daha yüksek getiri 
+istiyorsanız, daha fazla risk almakta rahat olduğunuz anlamına gelir.
+Risk hakkında iyi bilinen bir diğer şey de riskteki artışın piyasadaki daha fazla oynaklıktan kaynaklanabileceğidir. Bazı 
+yatırımcılar bu oynaklığı severler çünkü bunun üzerinde gelişen sistemleri vardır, ancak yatırımcılar çoğunlukla tüm bu 
+eylemi azaltmanın bir yolunu bulmak isterler. Bunu yapmanın yatırımcı sayısı kadar yolu vardır.
+Kabul edebileceğiniz oynaklık seviyesi, riski ne kadar kaldırabileceğinize veya işlem hedeflerinizin ne kadarını 
+üstlenmenize izin verdiğine bağlı olacaktır. Riski ölçmek için bir kıstas, standart sapma olarak bilinir ve bu istatistiklere 
+dayanan bir ölçüdür. Bir yatırım veya işlemden elde ettiğiniz ortalama getiriyi dikkate alacak ve ardından aynı zaman 
+dilimindeki ortalamayı ve standart sapmayı arayacaksınız. Çan eğrisi oluşturan düzenli bir dağılımınız olduğunda, 
+işlemlerinizden elde ettiğiniz getirinin en az %60 ila %70 oranında ortalamadan yaklaşık bir standart sapma ve %90 
+oranında ortalamadan iki standart sapma olacağını bilirsiniz. Bunu bilmek, riskinizi matematiksel terimlerle 
+hesaplamanıza yardımcı olabilir. Sonuçları kaldırabileceğinize inanıyorsanız, devam edip sisteminizle işlem 
+yapabilirsiniz.
+Ticarette Risk Yönetimi
+Bir işleme girmeyi düşündüğünüzde, uygun bir risk yönetim planına sahip olmak hayati önem taşır. Amaç, işlemlerinizin 
+kayıplarını ve bu işlemlere yatıracağınız toplam tutarı azaltmaktır. Bunu yapmanın milyonlarca yolu vardır.
+Zarar Durdurma Emri Ayarlayın:Yeni pozisyonlara girerken, belirli fiyat seviyelerinde bir satış emri ayarlayın ve bu seviyelerin altında zararları 
+durdurun. Bu şekilde, bir şeyler ters giderse veya trend tersine dönerse zararlarınızı sınırlandırırsınız.
+Kayıpları Küçük Tutun:Para kaybetmenin en iyi yolu büyük bir bahis yapmak ve eğer ters giderse, hesabınızdaki tüm parayı 
+kaybetmektir. Birkaç bahiste biraz para kaybederseniz, daha fazla bahis koyarak bu kayıpları geri kazanma şansınız hala 
+vardır.
+Kaldıracı Akıllıca Kullanın:CFD'lerle kripto para ticareti yaparken kaldıraç kullanmak kolaydır, ancak ne yaptığınızdan 
+tam olarak emin değilseniz bu tehlikeli olabilir. Birçok yatırımcı, her seferinde kazanmasalar bile genel risklerini 
+azaltarak tek bir büyük riskli işlem yerine birçok küçük işlem yapar. Risk yönetiminin bu unsurlarının her birine 
+yakından bakalım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Stop Loss Nedir?
+Zarar durdurma emri, önceden belirlenmiş bir fiyattan satış veya satın alma emri vererek yatırım stratejinizdeki riski en aza 
+indirmenin bir yoludur. Bunu portföyünüz için bir sigorta poliçesi olarak düşünün. Aşağı yönlü riski kontrol edebilir ve hatta 
+potansiyel olarak küçük bir kar bile elde edebilirsiniz. Doğru zarar durdurma emrini belirlemek, aracılık hesabınızda yalnızca 
+bir satır kodla önlenebilecek büyük finansal kayıplara uğramama olasılığınızı büyük ölçüde artıracaktır. Bazı yatırımcılar zarar 
+durdurma emri olmadan işlem yapmanın doğru yol olduğunu düşünür, ancak bu korkunç bir fikirdir. Piyasalarda ölçülmesi 
+çok zor olabilen içsel riskler veya rastgelelik vardır. Büyük bir fiyat hareketi bile karşı hareketlere sahip olabilir, bu da küçük 
+kayıpların hızla büyük kayıplara dönüşebileceği anlamına gelir. Tüm bunları önceden tahmin etmek imkansızdır ve bu da çok 
+fazla para kaybedebileceğiniz anlamına gelir. Finansal risklere ek olarak, yanılma ve kendinize gereğinden çok daha fazla acı 
+çektirme riskiyle karşı karşıya kalırsınız.
+Kar Hedefi Nedir?
+Kar hedefi, portföyünüzün yükselişini durdurmak için tüm pozisyonlarınızı durduracağınız veya tersine çevireceğiniz noktada 
+belirlediğiniz önceden belirlenmiş bir sermaye seviyesidir. Bunu yapmak istemenizin nedeni basittir: insan doğası. Herkes 
+haklı olmak ister, ancak kimse para kaybetmek istemez. Piyasa size karşı giderse ve zarar etmenize neden olursa, tutunmayı 
+ve piyasanın tekrar yükselişe geçmesini beklemeyi deneyebilirsiniz. Hepimiz bir kaybı kabul etmenin ne kadar zor 
+olabileceğini biliyoruz çünkü zihniyetimiz bize haklı olduğumuzu ve o parayı geri vermememiz gerektiğini söylüyor. Gerçek şu 
+ki, çoğu durumda, karlar nadiren kaybedenleri tutarak elde edilir. Paranızı dağıtmayı bırakmanın en iyi yolu bir kar hedefi 
+belirlemek ve ona ulaştığınızda karınızı almayı planlamaktır.
+Trailing Stop Nedir?
+Bir takip eden stop, siparişinizin hangi seviyede ayarlanacağını belirlemek için fiyat hareketini kullanan bir tür zarar durdurmadır. Piyasayla 
+birlikte hareket eder ve risk olmadan çoğu stop türünden daha yüksek kazançlar elde edebilir. Forex dahil olmak üzere her türlü ticarette kar 
+elde etmek için olmazsa olmazdır.
+Bir takip eden stop genellikle uzun bir stop olarak kullanılır. Aşırı düşüş eğilimindeyseniz bunu kısa bir stop olarak da 
+kullanabilirsiniz, ancak çok sıkı stoplarınız yoksa, yükselişteyken bu yöntemi kullanmanız önerilmez. Bunun nedeni, piyasanın 
+grafikteki diğer her yerden daha fazla destek ve direnç alanlarından geri sıçrama eğiliminde olmasıdır. Piyasa bir yükselişe 
+başlarsa, bir stop loss olmadan yükselmesine izin vermekten fazlasıyla memnun olabilirsiniz. Ancak, piyasa size karşı giderse, 
+düşmeye devam ederken kayıplarınızı sınırlamak için pozisyonunuzu tersine çevirmeniz zor olabilir.
+Bir takip eden durdurma, fiyat hareketini yakından takip edebilir ve küçük bir karı zamanla büyük bir kar haline getirebilir. Bu 
+yöntemle her işlem yaptığınızda para kazandıracak sihirli bir seviyenin olmadığını bilmek önemlidir. Bunun nedeni, fiyat hareketinin 
+farklı kişiler için farklı şeyler ifade etmesi ve piyasaların belirli bir zamanda farklı likidite seviyelerine sahip olmasıdır. Bu, bir tüccar için 
+bariz seviyeler olarak kabul edilebilecek şeylerin bir başkası için bariz olmayabileceği anlamına gelir. Araştırmanızı yapmak ve 
+mümkün olan en iyi seviyeleri manuel olarak bulmak önemlidir. Daha sonra bu seviyeleri yazılımınıza programlayabilir, böylece 
+güvenebileceğiniz bir dizi kurala sahip olabilirsiniz.
+Bu seviyeleri bulmak için en iyi yer, bir seferde yalnızca bir günden daha uzun süre tutunma eğiliminde olan destek ve direnç 
+alanlarıdır. Bu alanlar, fiyat hareketi için mıknatıs gibi davranarak onu tekrar tekrar geri çektiği için, takip eden durdurmalar 
+kullanıldığında en önemli olacaktır. Bu yöntemle durdurma kaybınızın etkili olması için, büyük alım veya satım emirlerinin 
+piyasaya girip çıktığı yerin üstünde veya altında olması gerekir.
+Uzun pozisyon almak için takip eden stop kullanmak istediğinizi varsayalım. Piyasayı bir yükseliş trendinde yakalayacak ve çok fazla 
+risk almadan uzun pozisyon oluşturmanıza olanak tanıyacaktır. Ancak, piyasa size karşı giderse, stop loss'unuzun pozisyonunu tersine 
+çevirmesi zor olacaktır çünkü bu seviyede çok güçlü bir direnç olacak ve bu şekilde çalışmak üzere programlanmamıştır. İyi bir çıkış 
+stratejisine ihtiyacınız vardır, böylece gerçekleştiğinde geri dönebilir ve destek alanının altındaki risksiz bir seviyeden girebilirsiniz.
+Trailing stop'ları kullanmanın en çok önerilen yöntemi, çok geniş veya çok dar olmadan mümkün olduğunca doğru olmaları 
+için birden fazla zaman diliminden pivot noktaları kullanmaktır. Bu, gereksiz kayıplara neden olabilecek kötü bir pozisyondan 
+piyasaya tekrar girmenizi önlemenize yardımcı olacaktır. Bu yöntemle ortalama kayıp hala sadece %5 civarındadır.
+Daha yüksek zarar durdurmaları riskinizi azaltır ancak kazançlarınızı da azaltır, bu yüzden %10'un üzerinde bir şey kullanmanız 
+önerilmez. Zarar durdurmaları kullanırken, bunların asla bir tahmin aracı olarak kullanılmaması gerektiğini aklınızda bulundurmanız 
+önemlidir. Zarar durdurmanızın işe yaraması için piyasanın yükselmeyebileceğini bilmeniz gerekir. Ayrıca likidite farklılıkları ve 
+rastgelelik nedeniyle asla mükemmel bir seviyeye ulaşamazsınız, ancak sizin için en iyi olan risk ve ödül arasındaki dengeyi bulmakla 
+ilgilidir.
+Risk ve ödül dengesi söz konusu olduğunda, takip eden durdurmalar doğru yoldur. Sermayenizi kullanmanıza olanak tanırlar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+daha verimlidir ve piyasadaki diğer yöntemlerden daha fazla kar elde edersiniz, ancak sabırlı olmanız gerekir. Akıllı 
+yatırımcılar, piyasa yön değiştirdiğinde çevik olmanın ve hızlı hareket etmenin kar getirdiğini bilirler. Trailing stop kullanmak, 
+masada çok fazla para bırakmadığı ve risklerinizi önemli ölçüde düşürdüğü için duygusal bağınızın bir kısmını ortadan 
+kaldırır. Kayıpları tamamen önleyemezsiniz çünkü bu imkansızdır, ancak bunları önemli ölçüde azaltmanın harika bir yolunu 
+istiyorsanız, işte budur.
+Pozisyon Boyutlandırma Nedir?
+Pozisyon boyutlandırma, işlem yaparken kullanılacak doğru sözleşme sayısını hesaplama sürecidir. Önemlidir çünkü 
+çok büyük bir bahis yapmanızı ve yanlış yaptığınızda para kaybetmenizi engeller. Ayrıca, çok riskli hale gelmeden önce 
+işlemlerden çıkmanıza yardımcı olarak hesabınızı daha dengeli ve karlı tutmanızı sağlar.
+Pozisyon boyutlandırmayı stop loss'ları yerleştirmek için kullanmak iyi bir uygulamadır çünkü bu, pozisyonunuzun herhangi bir anda 
+çok büyük olmasını engeller ve bu da piyasa aleyhinize hareket ederse sizi riske sokabilir. Ne kadar iyi olursa olsun veya olumsuz bir 
+olayın olasılığı ne kadar düşük olursa olsun, hiçbir zaman sermayenizin %2 ila %3'ünden fazlasıyla işlem yapmamalısınız.
+Pozisyon boyutlandırma, kullandığınız gerçek sermaye miktarına bağlı olmadığı için para yönetiminden farklıdır. 
+Pozisyon boyutuna bağlıdır, bu da yerleştirdiğiniz sözleşme sayısıdır. Hesap boyutunuza ve risk toleransınıza bağlı 
+olarak, her sözleşmede %1 ila %5 arasında herhangi bir yerde risk alabilirsiniz. Bu, 10.000$'lık bir hesapla, pozisyon 
+boyutlarınızın herhangi bir anda 1 ila 100 sözleşme arasında değişeceği anlamına gelir. Sözleşme başına %2, çoğu 
+yatırımcı için çok risklidir çünkü bu, sözleşme başına %1 riske etmeye kıyasla yanlış olduğunuzda kayıplarınızı 10 kat 
+artırır. Ancak, haklı olduğunuzda karınızı 10 kat artırmanıza da olanak tanır.
+Unutmayın ki riske atılan para ne kadar fazlaysa, o kadar fazla para kazanabilirsiniz çünkü aynı miktardaki sermaye 
+daha fazla pozisyon üretebilir. Bu yöntemle yatırım yaparsanız, risklerinizi azaltırken kârınızı artırmak için pozisyon 
+boyutlandırmayı kullanabilirsiniz.
+Çoğu profesyonel yatırımcı, tek bir işlem sırasında hesaplarının %2'sinden fazlasını asla bahis olarak koymaz çünkü bu limiti 
+aşmanın kayıplarının çoğunun kaynağı olduğunu bilirler. Ayrıca, piyasa kendi lehlerine hareket ederse kar elde etmek için 
+pozisyonlarını daha küçük tutarak daha fazla para kazanabileceklerini de bilirler. Yatırımcılar için en yaygın limit, bu gerçek ve 
+bu kadar büyük miktarda sermayeyi yönetmenin maliyeti nedeniyle %1'dir.
+Canlı işlem kullandığınızda, pozisyon boyutlandırma biraz daha karmaşık hale gelir çünkü bunu brokerinizin hesap makinesini kullanarak 
+manuel olarak hesaplamanız gerekir ve bu hesap makinesinin genellikle yerleşik sınırlamaları vardır. Günümüzde çoğu broker, tüm bunları 
+denklemden çıkarmak için bir tür otomatik pozisyon boyutlandırma yazılımı sunar. Bu, aynı anda daha fazla işlem yapabilmeniz ve yanlış 
+yaptığınızda riskinizi azaltmanız sayesinde kar elde etme şansınızı artırırken mümkün olduğunca ucuza işlem yapmanızı sağlar.
+Kaldıraç Nedir?
+Kaldıraç, daha büyük pozisyonlarınız olduğunda brokerinizin işlemlere borç verdiği para miktarıdır. Adını, kârınızı 
+"kaldıraçlamak" ve her işlem için sermaye gereksinimlerini azaltmak için kullanmanızdan alır. Kaldıraçla ilgili en iyi şey, 
+daha az sermayeyle daha fazla para kazanmanızı sağlamasıdır, ancak olumsuz tarafı da riskinizi artırmasıdır.
+Hisse senetleri veya diğer varlıklarla işlem yaparken, bu, orijinal hesabınızdaki paranın yalnızca bir kısmıyla varlık satın 
+alabileceğiniz anlamına gelir. Her işlem için kendi sermayeniz olsaydı yapabileceklerinizle karşılaştırıldığında büyük 
+işlemler yapmak ve büyük karlar elde etmek çok daha kolay hale gelir. Bunun nedeni, esasen belirli miktarda varlık 
+satın almak için hesabınızdan alınması gereken para miktarı olan marj gereksinimleridir. 1000$ ile varlık satın 
+alıyorsanız, bu uygulama nedeniyle hesabınızdan 500$ gerekebilir.
+Bir yandan, bu daha fazla insanın borsaya yatırım yapmasına olanak tanır, daha fazla ticaret ve risk almayı teşvik eder. Ancak, 
+diğer yandan, yatırımlarının bu şekilde değerlendirilmesini isteyen birçok muhafazakar yatırımcıyı rahatsız eder. Kaldıraç 
+güçlü bir araç olabilir, ancak onu doğru şekilde nasıl kullanacağınızı bilmiyorsanız zararlı da olabilir.
+Ticaret yapmanın en iyi yolu, sizinle bireysel olarak çalışan ve size biraz rehberlik ve risk profilinizi kontrol etme yeteneği 
+sağlayan bir aracı kurum bulmaktır. Türev ticareti yapıyorsanız bu aracı kurumdan daha az sermayeye, sadece hisse 
+senetlerinden ve paylardan para kazanmaya çalışıyorsanız daha fazlasına ihtiyacınız olacaktır. Bunlar çoğu insanın aracı 
+kurumlarla yaptığı iki ticaret türüdür, ancak profilinize en uygun olanı bulmanız için piyasada başka birçok ticaret türü vardır.
+Aşırı kaldıraç nedir ve neden tehlikelidir? Aşırı kaldıraç, brokerınızdan çok fazla sermaye ile işlem yapma 
+eylemidir ve çok riskli olabilir çünkü biriktirmek için çok çalıştığınız önemli miktarda parayı kaybetmenize neden 
+olabilir. Ayrıca, bir nedenden dolayı pozisyonları kapatmak zorunda kalacağınız için riskinizi artırır,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Bu durum genellikle piyasanın aleyhinize hareket ettiği zamanlarda gerçekleşir.
+Hisse senetleri veya diğer varlıklarla işlem yapmak için kaldıraç kullanıyorsanız, aşırı kaldıraç hesabınızdan aşırı borç almak 
+anlamına gelir. Bu tehlikeli bir uygulamadır ve birçok yatırımcının daha önce bilgi eksikliğinden veya hızlı bir şekilde büyük 
+kar elde etme heyecanına kapıldığı için yaptığı bir şeydir. Aşırı kaldıraç tehlikelidir çünkü sizi risk açısından piyasaya karşı 
+hareket etmeye zorlar, bu da pozisyonunuzu zararla kapatmak zorunda kalacağınız anlamına gelir. Yapabileceğiniz en iyi şey, 
+ne kadar işlem yaptığınızı sınırlamak ve pozisyonlarınızı küçük tutmaktır, bu da başınızı belaya sokmamanızı ve daha tutarlı 
+bir şekilde kar elde etmenizi sağlar. Ayrıca, brokerınızdan daha az borç alarak aşırı kaldıraçtan kaçınmanıza yardımcı olur, 
+böylece daha fazla kaldıraca sahip olursunuz ve tüm sermayeniz risk altındayken kar elde etmenin çok zor olması nedeniyle 
+kayıplardan kaçınabilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Onuncu Bölüm: Önyargıların Üstesinden Gelmek
+Ticaret Psikolojisi Nedir?
+Ticaret psikolojisi, bir ticaretin ortasındayken düşünme şeklinizdir ve başarılı bir tüccar olma yolunda en önemli 
+faktörlerden biridir. Ticaret psikolojisi hakkında birçok farklı görüş vardır, ancak kesin olan bir şey var: Bir 
+tüccar olarak yeteneğinizle hiçbir ilgisi yoktur. Ticaret psikolojisi, ticaretleriniz sırasında hareket etme şekliniz ve 
+çok değerli bir pozisyonun ortasında olmanın getirdiği stres ve duygularla nasıl başa çıktığınızdır.
+Zayıf işlem psikolojisine birçok faktör katkıda bulunabilir. Analiziniz size söylemeden önce alım veya satım yapabilirsiniz, bu da bir 
+tüccar olarak tüm potansiyelinizi kullanmadığınız anlamına gelir. Ayrıca gerçekleri görmezden geldiğiniz, karınızı almanızı ve aşırı 
+kaldıraçlı olmaktan kendinizi alıkoymanızı zorlaştırdığı anlamına gelir.
+Psikolojik ticaret, ticaret kararlarında objektif olmanız anlamına gelir. Ayrıca piyasa davranışını anlamak ve her ticaret 
+için karı garantilemek için bu bilgilere göre hareket etmek anlamına gelir. Özellikle duygular ticaretin her yönüyle ilgili 
+olduğundan, yeni başlayan bir tüccar için çok zor olabilir. Analizinize dayanarak ticaret yapmak bir şeydir, ancak 
+duygularınıza dayanarak ticaret yapmak tamamen başka bir şeydir. Ticaret psikolojisi, bu stresle başa çıkma ve 
+kendinizi kazanan ticaretlere odaklama şeklinizdir, bu yüzden başarılı bir tüccar olmak çok önemlidir.
+Para kaybettiğinizde ve hesap bakiyenize baktığınızda, hayal kırıklığına uğramanız ve kendinize kızmanız 
+kolaydır. Ancak, ticaret bir duygu oyunu değildir ve bunlara dayanarak akıllıca ticaret kararları alabileceğinizi 
+düşünmek aptalcadır. Duygularınızı kontrol edemiyorsanız, ilk etapta iyi kararlar alamazsınız.
+Ticaret bir bilimdir, bu yüzden davranışını belirli kuralların yönetmesi mantıklıdır. Birçok kişi ticaretin bir "kumarbaz" 
+olmak gibi olduğunu düşünür ve bu mantıklıdır çünkü kumar, arkasındaki tüm gerçekler ve analizler olmadan 
+ticaretin çoğu yönünü içerir. Ancak ticaret, "kumar"dan çok daha fazlasıdır çünkü piyasayla uyum içinde olmanızı ve 
+analizinize dayanarak akıllıca işlemler yapabilmenizi gerektirir.
+Ticaret psikolojisi risk profilinizi de etkiler. Bir tüccar olarak, para kaybettiğinizde ve normalden daha fazla risk 
+aldığınızda kötü günleriniz olacaktır. Bu, ertesi gün bu kayıpları telafi edemeyeceğiniz anlamına gelmez ve bu kötü 
+işlemlerin ortasında olsanız bile objektif kalmalısınız. Duygularınıza kapılırsanız veya paranızla kumar oynamaya 
+başlarsanız, o zaman ticaret sizin için değildir.
+Uyum sağlama yeteneği
+Piyasa öngörülemez olabilir ve başarılı olmak için gerektiğinde stratejinizi değiştirebilmeniz gerekir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Yeni başlayan biriyseniz, yatırım planınızın duygulara değil gerçeklere dayandığından emin olmanız önemlidir; aksi takdirde 
+doğru kararlar alsanız bile çok fazla para kaybetme riskiyle karşı karşıya kalırsınız.
+Bunun iyi bir örneği, yatırımcıların işe başladıkları zamandır; genellikle işlemlerini zamanlamaya çalışırlar ve dipte 
+satın alıp tepede satarlar. Bu her zaman güvenilir değildir çünkü bazen bu işlemlerin sizin lehinize sonuçlanması 
+birkaç gün sürer. Gün ortasında bir düşüş olduğunda satın almak ve gün sonunda satmak gibi bir şey yapmak çok 
+daha iyidir çünkü bu çoğu zaman sizin lehinize sonuçlanacaktır.
+Eğer işlem yapıyorsanız, işlem planınızı test etmek ve ayarlamak çok önemlidir. Çoğu yatırımcının her zaman kendi kurallarına 
+uymadığını göreceksiniz, bu yüzden neyi yanlış yaptığınızı bulmak stratejinizi değiştirmenize ve bunun sonucunda daha fazla para 
+kazanmanıza yardımcı olabilir. Bu, yeni yatırımcıların yaptığı en büyük hatalardan biridir, bu yüzden araştırma doğru kararlar almak 
+için çok önemlidir.
+Hisse senetleri ve diğer varlıklarla işlem yapıyorsanız, işlem planınızın gerçeklere dayalı olması önemlidir, aksi 
+takdirde paranızla ne yapacağınızı bilemezsiniz. Bu çok etkisiz bir strateji olabilir, bu nedenle piyasaya uyum 
+sağlamanız ve işlemlerinizin size gerçekten para kazandırmadığından emin olmanız önemlidir. Orijinal işlem 
+planınızın işe yaramadığı durumlara uyum sağlayabilmelisiniz, bu nedenle farklı seçeneklerle oynamak bunu 
+yapmanın en iyi yoludur.
+Hisse senetleri veya diğer varlıklarda kaldıraç kullanıyorsanız, bu kaldıracın aşırı kaldıraç için hiçbir şansı olmayacak 
+şekilde kuralları olmalıdır. Aşırı kaldıraç, yatırımcılara çok fazla talihsizlik yaşatabilir. İşlem yaparken para 
+kaybedeceğinizi veya kazanacağınızı söylemenin bir yolu yoktur, bu nedenle işlem planınızın her duruma uyum 
+sağlayabileceğinden ve uzun vadede size para kazandıracağından emin olmalısınız. Planınız, işlemlerinizi gerektiği 
+gibi karşılamanıza izin vermelidir. İşleminizin ortasında duygularınız sizi alt ettiği için para kaybediyorsanız, yeni bir 
+kural setiyle başlamak ve işlem yapmaya başlamak iyi bir fikirdir.
+Kişisel disiplin, işlemde başarı için önemli bir faktördür. Özdenetiminiz yoksa, iyi kararlar alamazsınız. Yeni 
+yatırımcıların yaptığı en kötü şeylerden biri, işlemlerinde çok fazla para kaybettikleri için aşırı kaldıraçlı hale 
+gelmeleridir. Kötü bir yatırımınız varsa, o zaman ona para yatırmaya devam etmemeniz önemlidir. İşlemlerinizi 
+yaparken disiplinli olmazsanız çok para kaybedebilirsiniz. Kurallara uymak ve objektif olmak, aşırı kaldıraçtan 
+kaçınmanın ve işlem planınızda daha iyi kararlar almanın en iyi yollarından bazılarıdır.
+Tüccarları Etkileyen Bilişsel Önyargılar
+Birçok bilişsel önyargı yatırımcıları etkileyebilir. Her biri kötü kararlar almanıza neden olabilecek farklı bir 
+psikolojik önyargı türüdür. Bunlara ayrıntılı olarak bakalım.
+Doğrulama Yanlılığı:Onaylama önyargısı, düşündüğümüz veya beklediğimiz her şeyi destekleyen tüm bilgileri arama 
+ve çelişkili bilgileri dışlayarak bunlara çok fazla önem verme eğilimi olarak ortaya çıkar. Onaylama önyargısı, 
+yatırımcıların ve tüccarların yaptığı farklı hatalar söz konusu olduğunda en büyük suçlulardan biridir, genellikle bir 
+varlığın fiyatıyla ilgili görüşlerini güçlü bir şekilde destekleyen veriler tarafından teşvik edilen aşırı güven nedeniyle. Bu 
+aşırı güvenin sorunu, tüccarı işlem yaparken hiçbir şeyin onları hayal kırıklığına uğratamayacağı hatalı varsayımında 
+bulunmaya yönlendirebilmesidir. Soru şu, bu önyargıyla nasıl başa çıkıyorsunuz? Şeyleri sorgulamaya ve piyasada 
+gerçekleşeceğini düşündüğünüzün aksine bilgi aramaya istekli olmalısınız. Aslında, yapmak istediğinizin tam tersini 
+yapmanın neden en iyi olabileceğine dair nedenler aramaya devam etmek ve varsayımlarınızı her zaman bu şekilde 
+sorgulamak iyidir. Analiziniz hakkında aslında neden yanlış olabileceğinizi ve neden doğru olmayabileceğinizi 
+kendinize sormalısınız. İşlem yaparken objektif olmalısınız ve bu, beklentilerinizle çelişen bilgilere bakabilmek ve 
+bakmaya istekli olmak anlamına gelir. Bu tarafsızlık uzun vadede sizin için iyi sonuç verecektir. Büyük Carl Jacobi'nin 
+bir zamanlar dediği gibi, "Ters çevirin, her zaman ters çevirin."
+Bilgi Yanlılığı:İnsanlar, kendi amaçlarına yardımcı olan bilgileri taraflı bir şekilde ele alma eğilimindedir. Bilgi 
+hakkındaki en büyük yanılgılardan biri, tekil olduğu veya yeni kanıtlarla bir şey öğrendiğinizde, her şeyi 
+öğrenmiş olduğunuzdur. Doğrulama yanlılığı ve seçici algı nedeniyle, insanlar eski bilgileri unutur ve yeni 
+bilgileri tamamen farklı bir ışıkta alırlar. Bu, piyasalarda "iyi vuruşlar" veya "kötü vuruşlar" aradıkları için işlem 
+yapan tüccarlarda çok sık olur. Bu, piyasaların yalnızca tek yönlü çalıştığına ve işlem planlarının doğru olması 
+gerektiğine inanmalarına yol açar, çünkü bunun ne yaptığına dair başka bir açıklama olamaz. Aslında, piyasada 
+çok fazla çeşitlilik vardır ve piyasalarda başarılı bir şekilde işlem yapmanın her türlü farklı yolu vardır. 
+Günümüzde, birçok farklı türde tüccar birçok farklı şekilde başarılıdır. Bu tür düşüncelerden kaçınmalı ve kendi 
+yaklaşımınıza uymayan her türlü işlem planını dinlemeye istekli olmalısınız. Ticaret dünyasına karşı ne kadar 
+açık fikirli olursanız, özel ihtiyaçlarınıza uygun stratejiler bulma olasılığınız o kadar artar.
+Kullanılabilirlik Sezgisel Yöntemi: Bu temel olarak daha önce bir şey gördüğümüz durumları hatırlamanın ne kadar kolay 
+olduğuna dayalı yargılar oluşturmaktır. Kullanılabilirlik kuralı, olayları hatırlama olasılığımızı belirleyen bir önyargıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Beynimizin yargı oluşturmamıza yardımcı olan kısmı ve genellikle iyi bir iş çıkarıyor. Bu önyargı, insanların geçmişte benzer 
+deneyimler yaşayanları hatırlamaları kolay olduğu için, bir şeylerin gerçekleşme olasılığı hakkında yargılarda bulunmalarına 
+neden olur. "Kullanılabilirlik buluşsal yöntemi" terimine aşina değilseniz, bunun insan hafızasıyla ilişkisi hakkında 
+Wikipedia'da daha fazla bilgi edinmelisiniz. Mesele şu ki, insanlar daha önce bir şey olduysa, bunun tekrar olması gerektiğini 
+ve piyasada bir kalıp olması gerektiğini düşünme eğilimindedir, çünkü daha önce çok yaygındı. Tüccarlar için bu önemli bir 
+önyargıdır, çünkü daha önce benzer şeyler gördüğünüz için piyasaların nasıl ilerleyeceği konusunda iyi bir kavrayışa sahip 
+olduğunuza inanma tuzağına düşmek kolaydır. Bununla ilgili sorun, piyasaların her zaman değişmesi ve daha önce olan şeyin 
+tekrar olan şey olmayabileceğidir. Kullanılabilirlik önyargısından kaçınmak ve işlem planınızın nasıl sonuçlanabileceği 
+hakkında daha iyi kararlar almak için, zaman zaman geçmiş işlemlerinize göz atıp neden başarısız olduklarını hatırlamanız ve 
+böylece bu zayıflıkları hesaba katacak şekilde yaklaşımınızı ayarlamanız yardımcı olabilir.
+Geriye Dönük Önyargı:İnsanlar geçmiş işlem deneyimlerine dönüp baktıklarında ve yaptıkları hataları 
+düşündüklerinde, ilk etapta kayıplarına neden olan aynı hataları yapma eğilimindedirler. Geriye dönüp bakma 
+önyargısı, bir görevi tamamladıktan ve bunun hakkında bir izlenim oluşturduktan sonra "ne olduğunu" hatırlama 
+eğilimimizi ifade eder. Örneğin, diyelim ki bir işlemin ortasındasınız ve yanlış bir karar veriyorsunuz. O noktayı geri 
+dönüp işleminizin nasıl yanlış gittiğini hatırlamanız sizin için kolay olabilir çünkü tüm bu faktörler aynı anda bir araya 
+geldi ve sizin para kaybetmeniz için mükemmel bir fırtına yarattı, ancak önceden düzgün bir şekilde planladıysanız 
+tamamen önlenebilirdi. İşlem yaparken doğru şeylere odaklanarak ve işlemlerinizi planlayarak bu önyargıdan 
+kaçınmaya çalışmak önemlidir, böylece aynı hataları tekrar tekrar yapmazsınız. İşlemlerinizde neyin doğru neyin 
+yanlış gittiğini belirleyebilmelisiniz, böylece bunlardan ders çıkarabilir ve bunların tekrarlanmamasını sağlayabilirsiniz.
+İyimserlik Yanlılığı:İyimserlik önyargısı, yatırımcıların kendilerinden daha kötü performans göstermiş olabilecek akranlarıyla 
+kıyaslandığında, işlem yaparken kendi performanslarını yanlış değerlendirmelerine neden olur. Bu bir yanılgıdır çünkü işlem 
+yaparken başarılı olmazsanız, bu diğer insanların sizden daha iyi performans gösterdiği anlamına gelmez; bu sadece piyasa 
+koşullarının belirli bir zamanda herkes için kötü olduğu anlamına gelebilir. Bu önyargı, sizden daha deneyimli olmayan diğer 
+yatırımcılara karşı işlem yapıyorsanız devreye girebilir. Onların sizden daha kötü performans gösterdiğini ve deneyiminizin 
+işlemlerinizin ve sonuçlarınızın kalitesinde bir faktör olmadığını düşünmek kolaydır, ancak belirli bir zaman diliminde 
+işlemlerinizi etkileyen tüm faktörlere bir göz atmaya ve bu önyargının piyasada neler olup bittiğine dair algınızı kolayca 
+etkileyebileceğini fark etmeye kesinlikle değer.
+Hiperbolik İskontolama:Bu ilginç bir önyargıdır çünkü insanların aceleleri olduğunda ve bir şeyi hemen yapmak 
+istediklerinde davranışlarını etkiler. İşlem söz konusu olduğunda, ne yaptığınıza ve bunu nasıl yaptığınıza bakmak 
+önemlidir. Son teslim tarihlerine yetişmek için acele ediyorsanız veya hesabınızdakinden çok büyük olabilecek bir 
+pozisyon büyüklüğüne ulaşıyorsanız, bunun muhtemelen işlem önyargınızı da etkilediğinin bir işaretidir. Abartılı 
+iskonto önyargısı, insanlara gelecekteki ödüller pahasına anında ödüller sunulduğunda ortaya çıkar; bu, ilk etapta 
+işlem yapamayacakları pozisyonlar aldıklarında tam olarak olan şeydir. Tüccarlar anında ödüllerle karşılaştıklarında, 
+bunları ileride alacakları ödüllerden daha fazla değerlendirme eğilimindedirler. Bu, karşılayamayacakları işlemler 
+yapmalarına ve uzun vadeli potansiyel getirilerinin çoğundan vazgeçmelerine neden olabilir; bu, kısa vadede 
+kendilerine büyük kazanç sağlayan ancak para kaybettiren çok fazla işlem yapan tüccarların başına gelenle tam olarak 
+aynıdır. İşlem yaparken, eğer işlemleriniz bir süre aleyhinize giderse, işlemi bırakmanız için hiçbir neden olmadığını 
+unutmamak önemlidir; çünkü yeni yaklaşımınız muhtemelen zamanla daha fazla para kazandıracaktır.
+Aşırı Basitleştirme Eğilimi:Bu, insanların bir şeye baktıklarında fikirlerini basitleştirmelerine neden olan yaygın bir 
+önyargıdır; bu, sonucu etkileyebilecek tüm değişkenleri ve faktörleri göremedikleri noktaya kadardır. Bu, yatırımcıların uzun 
+vadede işlemlerinin başarılı olmasını sağlamalarına yardımcı olabilecek şeyleri kaçırmalarına neden olabilir çünkü yanlış 
+gidebilecek veya kar fırsatları sağlayabilecek her şeyi hesaba katmıyorlar. Bundan kaçınmanın anahtarı, işlem planınıza 
+başlamadan önce mümkün olan her değişkene bakmaktır; böylece pozisyon yerleştirmeden önce mümkün olduğunca fazla 
+bilgiye sahip olursunuz.
+Bu, insanların karmaşık durumları basitleştirme ve neden olan şeyleri anlamak için var olabilecek komplikasyonları 
+görmezden gelme olasılıklarının daha yüksek olduğu bir önyargıdır. Örneğin, bir işlemde neden para kaybettiğinizi anlamaya 
+çalışıyorsanız, tam resme bakmak ve neyin yanlış gidebileceğini anlamaya çalışmak yerine, işleri farklı şekilde nasıl 
+yapabileceğiniz konusunda varsayımlarda bulunmak cazip gelebilir. Bir işlemde iyi bir sonuç elde etmediyseniz, 
+hatalarınızdan ders çıkarabilmeniz ve gelecekte tekrarlanmamasını sağlayabilmeniz için tam olarak ne olduğunu kendinize 
+hatırlatmalısınız.
+Çapalama Önyargısı:Bunu önlemek çok daha zor olabilir çünkü muhtemelen farkında bile olmadığınız bir 
+önyargıdır, özellikle de geçmiş deneyimlere dayalı işlem kararları alma geçmişiniz varsa. Bağlama önyargısı, 
+nesnel kullanmak yerine akla gelen ilk bilgi parçasına dayanarak hareket etme eğilimini ifade eder.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+kanıt ve bunun yanlış olma ihtimali olup olmadığını görmek. Bu yüzden, işlem hesaplarında para görmekte 
+veya istikrarlı kar elde etmekte zorluk çeken kişiler, fonlarını nasıl yönettiklerine çok fazla bakma zahmetine 
+girmeyeceklerdir çünkü şanssız olduklarını ve her şeyin yakında düzeleceğini varsayacaklardır. İşlem yaparken, 
+bu tuzağa düşmemeniz önemlidir çünkü başarınız ve karınız veya başarısızlığınız, uzun vadede paranızı ne 
+kadar iyi yönettiğinize bağlı olacaktır.
+Bandwagon Etkisi:Bu önyargı kaçınılması en zor olanlardan biridir çünkü herkes iyi sonuçlar alıyormuş gibi görünürken 
+başkalarının da yanlış şeyler yaptığını kendinize inandırmak zordur. Ayrıca, henüz yeterli işlem deneyimi olmayan yeni 
+yatırımcılar arasında da yaygındır, bu nedenle yaklaşımlarının nasıl çalıştığına dair bir fikir edinmeye çalışırlar. Bandwagon 
+etkisi, insanların başkalarının stratejilerini kopyalamaya çalışmasına neden olur çünkü bir şeyleri doğru yaptıklarını 
+düşünürler ve herkesin sahip olduğu başarıda pay sahibi olmak isterler. Bu, işlem yapmaya yeni başladığınızda en yaygın 
+olanıdır çünkü çok fazla deneyiminiz yoktur ve sizin için neyin işe yaradığını anlamak için biraz zamana ihtiyacınız olabilir. Bu 
+nedenle, stratejinizi test etmek ve fonlarınızı en iyi şekilde nasıl yöneteceğiniz hakkında her şeyi öğrenmek için zaman 
+ayırmalı, böylece diğer insanların yaptıklarını körü körüne takip etmemelisiniz.
+Yansıtma Yanlılığı:Bu en ilginç önyargılardan biridir çünkü insanlar bir durumda nasıl tepki vereceklerini 
+anlamaya çalışırken kendi hislerini, duygularını ve tepkilerini başkalarına yansıtma eğilimindedir. Bir şey 
+hakkında belirli bir şekilde hissediyorsanız, diğer insanların da aynı şekilde hissedeceğini varsaymak cazip 
+gelebilir. Örneğin, bir şeyi beğendiyseniz, herkesin de beğendiğini düşünebilirsiniz. Bir şey sizi belirli şekilde 
+hissettirdiğinde, diğer insanların aynı durumda nasıl hissedeceğini anlamak cazip gelebilir. Bu, ticarette birçok 
+soruna neden olabilir çünkü tüccarlar bazen işlemlerini çevreleyen mantıktan ziyade duygularına dayanarak 
+kararlar alırlar.
+İşlem Yaparken Önyargılarınızı Aklınızda Bulundurun
+İşlemlerinizde başarıya ulaşmanın anahtarlarından biri, bu önyargıları nasıl tanıyacağınızı ve işlem yaparken kararlarınızı 
+etkilemesini nasıl önleyeceğinizi öğrenmektir. Bu önyargılara güvenmek, karşılayamayacağınız işlemler yapmanıza ve para 
+kaybetme riskine girmenize neden olabilir. Bunu önlemek için, deneyiminizi ve yeteneklerinizi kendi lehinize kullanmanız ve 
+bu önyargılardan hiçbirinin kararlarınızı etkilemeden işlemden nasıl en iyi şekilde para kazanacağınızı bulmaya çalışmanız 
+önemlidir. Başlamadan önce her işlemin tam olarak neden gerçekleştiğini bildiğinizden emin olun, böylece bunları kendiniz 
+test etme şansına sahip olmadan önce aklınıza kötü fikirler gelmesin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Aşırı basitleştirme eğilimi nedeniyle parayı görmekte sorun yaşıyorsanız, bilgileri sizin için daha kolay anlaşılır hale getirmek için farklı 
+sunma yolları kullanmayı deneyin. Örneğin, bir hisse senedinin fiyatını analiz etmeye çalışıyorsanız, fiyatın zaman içinde nasıl 
+değişebileceğini görmek için farklı grafikler veya pivot noktaları kullanabilirsiniz. Ayrıca, bilgilerin kolayca anlaşılabilecek bir şekilde 
+sunulduğundan emin olmak için farklı grafikleri karşılaştırmayı deneyebilirsiniz. İnsanlar tüm risklerini üstlenmeye istekli oldukları 
+için ticaretten olumlu sonuçlar alıyorsa, bunun işleri nasıl değiştirdiğini görmek için riskinizi artırmayı deneyebilirsiniz. Bunu yapmak, 
+güçlü yönlerinizin nerede olduğunu ve işlemler yaparken neye odaklanmanız gerektiğini anlamanızı kolaylaştırabilir. Stratejinizden 
+ticaret önyargılarını kaldırmak, çok daha erken başarıya ulaşmanıza ve fonlarınızı en iyi şekilde nasıl yöneteceğiniz konusunda daha 
+net bir fikir edinmenize yardımcı olabilir. Bu önyargıların farkında olmak, ticaret kararları alırken aklınızda bulundurmanız gereken 
+şeylerin bir kontrol listesini oluşturmanıza da yardımcı olabilir. Her birinin nasıl çalıştığını anlamak, zamanla başarılı olma olasılığı 
+daha yüksek olan daha iyi stratejiler geliştirmenize yardımcı olacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Çözüm
+Hangi tür ticareti yapmayı seçerseniz seçin, paranızı mümkün olan en verimli şekilde nasıl yöneteceğinizi bilmeniz her 
+zaman önemlidir. Hata yapmak veya önyargılı olmak, ticaret fonlarınız için maliyetli olabilir, bu nedenle işlemlerinizi 
+gerçekleştirirken dikkatli olmanız ve her kararın dikkatlice ve mümkün olduğunca fazla optimizasyonla alındığından 
+emin olmanız çok önemlidir.
+Mum desenleri ve grafik formasyonlarıyla işlem yapmak, fiyatın nasıl değiştiğini görebildiğiniz için işlem yapmanın en iyi yollarından 
+biridir ve bu sayede gelecekte ne olacağını tahmin etmek daha kolay hale gelir. Yeni başlayanlar, bu araçlarla işlem yaparken 
+deneyimli yatırımcılara göre daha zor zamanlar geçirirler çünkü bu grafikleri nasıl okuyacaklarını bilmezler. Eğer yeni başlıyorsanız, 
+kendinize karşı sabırlı olmayı ve desenlere hakim olmak için kendinize ihtiyaç duyduğunuz kadar zaman vermeyi öğrenmeniz ve 
+ardından bunları göstergelerle nasıl işlem yapacağınızı öğrenerek işlemlerinize ek bir birleşim sağlamanız önemlidir.
+Bu işlem araçlarında ustalaşmakta zorluk çekiyorsanız, bunlar hakkında daha fazla bilgi edinmeniz ve başkalarının bunları 
+nasıl kullandığını görerek kendi stratejiniz için fikir edinmeniz iyi bir fikirdir. Hala zorluk çekiyorsanız, hangilerinin yaptığınız 
+işlemler için en fazla faydayı sağlayacağını görmek için farklı göstergeleri deneyin. İşlem yapmaya başladığınızda her şeyin 
+yerli yerine oturması ve her işlemle ilgili bilgilere dayanarak akıllıca kararlar almanızın kolaylaşması için stratejinizin tüm 
+parçalarının yerli yerinde olduğundan emin olun.
+Sonuç olarak, bilmeniz gereken her şeyi öğrenmek için zaman ayırmaya istekliyseniz ve hesabınızı daha büyük ve daha iyi 
+hale getirmek için çalışırken kendinize karşı sabırlıysanız, ticaret kesinlikle kazançlı bir iş olabilir. Güçlü yönlerinizin nerede 
+olduğunu belirlemede sorun yaşıyorsanız, başkalarından geri bildirim isteyin ve onlara mümkün olduğunca fazla güven 
+verin, böylece işlem yapma zamanı geldiğinde zihninizi yönlendirmelerine yardımcı olabilirler. Biraz kararlılık ve ekstra 
+odaklanma ile, size bol miktarda para kazandıracak başarılı bir ticaret stratejisine sahip olamayacağınız için hiçbir neden yok.
+Kitabımızı satın alıp okuduğunuz/dinlediğiniz için teşekkür ederiz. Bu kitabı yararlı/faydalı bulduysanız lütfen birkaç dakikanızı 
+ayırıp Amazon.com veya Audible.com'da (sesli versiyonunu satın aldıysanız) bir yorum bırakın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Referanslar
+Chen, Shi, Si Bao ve Yu Zhou. “Çin borsasında Japon mum grafiğinin tahmin gücü.” Physica A: İstatistiksel Mekanik ve Uygulamaları 457 (2016).
+Guo, Siou-Jhih, Fu-Chun Hsu ve Chih-Chieh Hung. “Derin mum çubuğu tahmincisi: mum çubuğu grafiklerinden fiyat hareketini tahmin etmeye yönelik 
+bir çerçeve.” 2018 9. Uluslararası Paralel Mimariler, Algoritmalar ve Programlama Sempozyumu (PAAP). IEEE, 2018.
+Heinz, Adrian ve diğerleri. “Boğa ve Ayı Engulfing Japon Mum Çubukları desenleri: S&P 500 endeksi üzerine istatistiksel bir analiz.” Ekonomi ve Finansın 
+Üç Aylık İncelemesi 79 (2021).
+Jasemi, Milad, Ali M. Kimiagari ve Azizollah Memariani. “Japon Mum Çubuğunun eski yatırım tekniğine dayanarak borsa zamanlaması 
+yapmak için modern bir sinir ağı modeli.” Uygulamalı Uzman Sistemler 38.4 (2011).
+Kamo, Takenori ve Cihan Dagli. “Finansal tahmin için Japon mum çubuğu yöntemine yönelik hibrit yaklaşım.” Uygulamalı Uzman Sistemler 36.3 (2009).
+Lambert, Clive. Mum Grafikleri: Mum grafiklerini kullanmaya giriş. Harriman House Limited, 2009. Nison, Steve. 
+Mum grafiklerinin ötesinde: Yeni Japon grafik teknikleri ortaya çıktı. Cilt 56. John Wiley & Sons, 1994. Nison, Steve. 
+Mum grafiği kursu. Cilt 149. John Wiley & Sons, 2003.
+Nison, Steve. Japon Mum Grafikleriyle Kar Etme Stratejileri. Cilt 132. John Wiley & Sons, 2011.
+Udagawa, Yoshihisa. “Hisse Senedi Fiyat Trendini Tahmin Etmek İçin Mum Grafiği Alma Algoritmasının Tasarımı ve Uygulanması.” Büyük Veri, Küçük Veri, Bağlantılı 
+Veri ve Açık Veri Üzerine Dördüncü Uluslararası Konferans (ALLDATA 2018). 2018.
+Udagawa, Yoshihisa. “Mum çubuğu grafik karıştırma tekniğini kullanarak hisse senedi fiyat eğilimini tahmin etme.” 2018 IEEE Uluslararası Büyük Veri Konferansı (Big Data). 
+IEEE, 2018.
+Wagner, Gary S. ve Bradley L. Matheny. Japon mum grafiğinin ticaret uygulamaları. Cilt 38. John Wiley & Sons, 1993
+www.forexgercekleri.xyz - [Twitter: @eseckal]

@@ -1,0 +1,895 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 22\Baskı 22\VWAP Breakout Başarısızlığı Stratejisi - Varun Speak - Türkçe ve İngilizce (58 sayfa) - @eseckal.pdf
+PAGES: 58
+
+
+=== PDF PAGE 1 ===
+------------------ 
+VWAP 
+BREAKOUT 
+FAILURE 
+STRATEGY 
+------------------ 
+ 
+ 
+ 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+VWAP Breakout Failure Stratejisi Nedir?
+VWAP'ın ortaya çıkardığı kopuş başarısızlığı işlemlerini yakalamak bir 
+stratejidir. VWAP kopuş işleminde, endeksin veya enstrümanın fiyatı 
+hem Önceki Gün VWAP'nin hem de Mevcut VWAP'nin üstünde/
+altındaysa bir pozisyon oluşturulur. Bu senaryoda, uygun SL ve bir 
+Hedef ile bir alım/satım pozisyonu girilir. Çoğu zaman bu kopuşlar kısa 
+bir süre yerinde kalır ve daha sonra belirli nedenlerle söner. Bu kopuş 
+başarısızlığıdır. Bu gibi durumlarda, işlem için Stop Loss genellikle 
+vurulur. Bu benim de başıma birçok kez geldi ve bir dizi kayıp varsa 
+sinir bozucu hale geliyor.
+Kendim birçok örneği ve web'deki bazı materyalleri inceledikten sonra, 
+Breakout Failure'ın avantajının sadece küçük bir ayarlamayla alınabileceği 
+bir yöntemle karşılaştım. Bu ayarlama yalnızca VWAP ticaretinin 
+breakout'u başarısız olduğunda ve ticaret yönünü tersine çevirdiğinde 
+uygulanmalıdır. Başlangıçta senaryoyu yakalamak biraz zor olacak ancak 
+grafiklerin yeterli çalışması ve pratik ile VWAP Breakout Failure Stratejisi 
+adını verdiğim tersine dönüşü kolayca yakalayabilirsiniz.
+Bu stratejinin güzelliği, piyasaların açılışında görünmeyecek olmasıdır. 
+İşlemleri gerçekleştirmek için bolca zamanımız var, eğer ortaya 
+çıkarlarsa. Bu işlemler genellikle sadece sabah 10'dan sonra görünür (ve 
+işlem gününün herhangi bir saatinde görünebilir). Stratejinin fikri, 
+sıkışmış tüccarlardan, VWAP kopuş işlemleriyle sıkışmış ve VWAP kopuş 
+işleminin VWAP Kopuş Başarısız İşlemine dönüştürülmesiyle baskı 
+hisseden tüccarlardan yararlanmaktır. Dolayısıyla, tüccarlar olarak 
+işlemin Kopuş Başarısız İşlemine dönüştürüldüğünü zaten biliyorsak, 
+SL'nin vurulmasına izin vermeyerek ve ayrıca bir geri dönüş işlemine 
+hazırlıklı olarak bundan yararlanabiliriz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Stratejiyi kullanarak işlem yapmadan önce karşılanması 
+gereken bazı koşullar şunlardır:
+Kısa İşlemler İçin:
+• Hisse senetleri/endeksler öncelikle mevcut VWAP'ın altında/üstünde/eşitinde işlem 
+görmelidir
+• Mevcut VWAP seviyesinde veya altında işlem görürse, fiyat sıçrar ve VWAP 
+seviyesini aşarak alıcıları harekete geçirir.
+• Fiyat VWAP'ı kaybederse, bu da fiyatın tekrar Mevcut VWAP'ın altında işlem 
+gördüğü anlamına gelir, bu da alıcıların zayıf veya bitkin olduğunu gösterir.
+• Bu, uygun SL ile kısa pozisyon açma fırsatı sağlayabilir.
+Yukarıdaki noktalarla birlikte, kurulması kolay olan destek/dirençlerin 
+yardımıyla çerçeve oluşturulmalıdır. Yukarıdaki senaryoda CVWAP 
+kaybedildiğinde, bir kopuş başarısızlığının meydana geldiği tüm 
+göstergelerin ne olduğunu kontrol etmek gerekir. Genellikle bir önceki 
+günden veya günün başlangıcından karar noktalarının Kopuş 
+Başarısızlığıdır. Bu, daha sonra ele alınacak olan çok sayıda örnekte 
+derinlemesine açıklanacaktır.
+Uzun vadeli işlemler için:
+Yukarıda belirtilen tüm noktaların tersini alın (Örnekler aşağıdadır).
+Kullanılan terimler:
+VWAP: NEST Terminallerinde hacim ağırlıklı ortalama fiyat 
+ve ATP.
+PVWAP/YDay VWAP: Önceki Gün VWAP'si
+CVWAP: Günümüz VWAP'ı.
+BOF: Başarısızlığı Kırmak.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+PDH: Önceki Gün Yüksek
+PDC: Önceki Gün Kapanışı
+PDL: Önceki Gün Düşük
+YAPILMASI GEREKENLER: Güncel Günün Açıkları
+DH: Günümüzün En Yüksek Değeri
+DL: Günümüzün En Düşük Seviyesi
+BO: Kaçış
+IB: İç Bar
+R1,R2,R3/S1,S2,S3: Standart Pivot konfigürasyonu uygulanacaktır.
+Tüm grafikler Zerodha Kite Web Tabanlı Yazılım'dan alınmıştır.
+Yukarıdaki yöntem hisse senetleri, endeksler, emtialar, dövizler üzerinde 
+zaman dilimleri boyunca uygulanabilir. Ancak aşağıdaki örnekler çoğunlukla 
+15 Dakika ve 10 Dakika grafikleridir.
+O halde bir kahve alın ve aşağıdaki örnekleri inceleyin.
+Bu yazı aracılığıyla Değer sağlamayı ve okuyucuların Stratejiyi uygulayıp 
+işlemlerini daha da geliştirebilmelerini umuyorum.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Yukarıdaki BNF'nin 10 dakikalık bir grafiğidir. Burada fiyat CVWAP'nin 
+üzerinde kalmaya çalışır ancak üzerinde kalmayı başaramaz ve 
+CVWAP'nin altında işlem görmeye başlar. CVWAP üçüncü mumda 
+kaybolduğunda, kısa pozisyon yaratılır. Ayrıca PDC'nin nasıl 
+çıkarılmadığına ve bunun düşüşe neden olduğuna dikkat edin. Bu 
+durumda SL 60 puandır. İlk hedef YDay VWAP olabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Yukarıdaki Ham Petrol 15 dakika örneğinde, fiyat bir süre CVWAP ve 
+YDay VWAP civarında işlem gördü ve ardından sadece R1'de direnç 
+bulmak için kırıldı. Birkaç mumdan sonra, fiyat CVWAP'yi ve 
+ardından YDay VWAP'yi kaybeder. CVWAP ve YDay VWAP kaybedilir 
+kaybedilmez kısa tetiklendi. Fiyat sorunsuz bir şekilde S1'e hareket 
+ediyor. Bu durumda SL 25 puandır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Yukarıdaki Ham Petrol 15 dakikalık örneğidir. Fiyat, Gün VWAP etrafında 
+hareket eder ve ardından Gün Açılışına kadar hareket eder. Fiyatın Gün 
+Açılışının üzerine çıkmaya çalıştığını ancak bir kez ve ardından ikinci kez 
+başarısız olduğunu fark edin. İkinci kez BOF gerçekleştiğinde, fiyat 
+CVWAP'yi kaybeder ve kısa tetiklenir. Fiyat S1'e kadar kolayca hareket 
+eder.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Yukarıdaki HeromotoCorp 10 dakikalık grafiktir. Fiyat CVWAP ve PDay 
+VWAP'nin üzerinde işlemler açıyor. İkinci mumda PDH'nin BOF'unun 
+olduğunu fark edin. Ayrıca R1'in BOF'u 3. mumda ortaya çıkıyor. R1'in 
+yeniden testinde kısa pozisyon açılabilir. Amaç SL'mizi olabildiğince 
+güçlendirmektir. Bu durumda muhafazakar yatırımcılar YDay VWAP'nin 
+altında da kısa pozisyon açabilir. Fiyat neredeyse S3'e doğru hareket 
+ediyordu.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Sonraki grafik HUL 5 dakikadır. Fiyat başlangıçta hem CWAP hem de YDay 
+VWAP'nin altında işlem görür, ardından fiyatta bir artış olur ve CVWAP'nin 
+üzerinde işlem görmeye başlar. Yukarı hareket durur ve fiyat mumda 
+gösterildiği gibi CVWAP kaybeder. Fiyat PDL'yi de kaybettiğinden, kişi kısa 
+pozisyon alabilir. Fiyat tetikleyiciden sonra %1 hareket eder, burada kişi kolayca 
+bazı pozisyonlar ayırabilir ve geri kalanını takip edebilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Yukarıdaki Maruti grafiği 15 dakikalık TF içindir. Fiyat ikinci 
+mumda CVWAP ve YDay VWAP'ın üzerinde iyi hacimlerle 
+hareket ediyor. 3rdmum, yukarı hareket durur. 4'teinci
+Mum fiyatı YDay VWAP'yi kaybediyor. CVWAP'nin kırılmasında şortlar 
+aktive olabilir. Fiyat, kar rezervasyonunun kısmen yapılabileceği ve geri 
+kalanının takip edilebileceği S1'e kadar hareket etti.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Yukarıdaki grafikte fiyat başlangıçta her iki VWAP'nin de üzerinde 
+işlem görüyor ancak daha sonra fiyat duruyor ve Yday VWAP'yi test 
+etmek için biraz satıyor. Tekrar bir yükseliş var ve bu da fiyatın PDH'ye 
+ulaşmasını sağlıyor. Reddedilen mumları fark edebileceğimiz yer 
+burası. PDH'nin BOF'u olduğunda, fiyatın CVWAP'yi kaybetmesini 
+beklememiz gerekiyor ve gösterildiği gibi yapıyor. Kısa bir işlem, 
+CVWAP'yi kaybeden mumun altında yapılabilir. İşlem hareketi karlı 
+oldu.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Yukarıdaki Titan Cash grafiğidir. Başlangıçtaki fiyat Yday VWAP ve 
+CVWAP'ın üzerine çıktı. Ayrıca fiyatın PDH'nin üzerinde işlem 
+görmeye başladığını ve 30 dakika boyunca devam ettiğini fark edin. 
+Bu, daha fazla breakout yatırımcısını çekecek ve bu süre zarfında 
+satın almaya teşvik edecektir. Fiyat R1'e ulaşır ulaşmaz, oradaki reddi 
+fark edebiliriz. Fiyat, gösterildiği gibi PDC ve PDH kaybetti. Ayrıca 
+CVWAP kaybedildi. Bu, kısa işleme (CVWAP'yi kaybeden mumun 
+altına alınırsa) işlem için Stop Loss için iyi bir koruma sağlar. Pday 
+VWAP kaybedilir kaybedilmez, sabah breakout işleminin tüm alıcıları 
+sıcaklığı hissettiğinden fiyat düşüşü yoğunlaştı. İşlem iyi hareket etti 
+ve neredeyse S3'e ulaştı. Hisse senetleri işlem yaparken Stop Loss'u 
+%1 ve hedefleri %1,5/pivot noktaları olarak tutun.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Yukarıdaki Tatasteel nakit 15 dakikalık grafiktir. Bu durumda 
+fiyat ilk 15 dakikada PDL'yi test etti, CVWAP'ın üzerine çıktı ve 
+ardından Pday VWAP'ın da üzerine çıktı. Gösterildiği gibi R1'de 
+reddedildi. O noktada IB'nin (İç Çubuk) oluşması, yukarı 
+hareketin durduğuna dair bir sinyal vermiş olurdu. Pday VWAP'ı 
+kaybettiği anda varsayımımız doğru çıktı. Zamanla fiyat CVWAP'ı 
+da kaybetti ve o mumun altında bir kısa tetiklendi. Stop loss, 
+giriş seviyemizden %1'dir. Bu durumda işlem sonucu 3:15 kare 
+zaman diliminde elde edilmiş olurdu.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Yukarıdaki aynı tatasteel örneğidir ancak 5 dakikalıktır. Bu 5 
+dakikalık grafik, son örnekte açıkladığım şeyin iyi ve çok daha 
+ayrıntılı bir ayrıntısını verir. İşlemi gerçekleştirirken 15 dakikalık 
+grafiklere daha fazla güveneceğim. Ancak arada, fiyatın daha 
+kısa zaman diliminde nasıl davrandığını bilmek için 5 dakikalık 
+grafiği de izleyeceğim.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Şimdi birkaç Satın Alma örneğine bakalım:
+Yukarıdaki BNF 15 dakikalık grafiktir. Fiyat YDay VWAP'nin üstünde 
+işlem görmeye başladı, başlangıçta alım uzun süre tutunamadı. 
+Sonraki 3 mumda küçük bir satış oldu. Fiyat PDC'nin altına çok fazla 
+inmedi. Talep mumu bundan sonra oluşmaya başladı, bu nedenle 
+fiyat PDC ve CVWAP'nin üzerine çıktı. Alım 3 mum sonra tetiklendi 
+ve kısa pozisyonların kapatılmasıyla çok iyi hareket etti.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Yukarıdaki BNF 10 dakikalık grafik. Biraz karmaşık, itiraf 
+etmeliyim. Fiyat YDay VWAP ve CVWAP'ın üzerinde kalmaya 
+çalıştı ancak ikinci mumdan itibaren bunu başaramadı. 
+Mumların sahip olduğu uzun fitilleri fark edin, bu endeks için 
+alım ilgisinin gelebileceğini gösteriyor. Bu oldu ve CVWAP 
+gösterildiği gibi tekrar kazanıldı. Ayrıca BOF PDC gerçekleşti ve 
+o mumun zirvesinin üzerinde alım tetiklendi. İyi hareket etti ve 
+bazı noktalar yakalanabildi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Yukarıdaki Tatasteel 5 dakikalık örnektir. Yine bakması biraz 
+karmaşık. Ancak piyasalarda sorunsuz yolculuklar yapmak 
+neredeyse imkansızdır. Yukarıdaki örnekte fiyat başlangıçta her 
+iki VWAP'ın da altına düştü ve ayrıca PDL'nin altında işlem 
+gördü. Bu satışları çekti. Fiyat uzun süre PDL'nin altında 
+kalamadı ve biraz alım ilgisi geldi. Grafikte işaretlendiği gibi, 
+fiyat o mumda PDL ve CVWAP'ın üzerindeydi. Ancak fiyat o 
+mumun üzerinde işlem görmediği için alım tetiklenmedi. Yine 
+satış ortaya çıktı ve görülebileceği gibi CVWAP'ın altında işlem 
+gördü. Yine fiyat PDL ve CVWAP'ın altında kalamadı ve sonunda 
+grafikte gösterildiği gibi alım tetiklendi. SL %1'di. Hedefler Pday 
+VWAP ve pivotlar olabilir. İşlem iyi hareket etti.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Yukarıdaki grafik 10 Dakikalık BNF'dir. Bu bir politika duyuru 
+günüydü. Yani politika duyurulana kadar işlem yok. Bir bölgede 
+küme olarak kaç tane karar noktasının sıralandığına dikkat edin. 
+Bu tür bir oluşum, bir SL vuruşu olasılığının çok düşük olmasını 
+sağlayabilir. Kısa pozisyon açmak için iki fırsat vardı. Birincisi 
+büyük mumun oluşumunda CVWAP'nin Kaybıydı. Bunda 32K PE 
+ile işlem yapmıştım. Ondan sonra yine CVWAP kaybeden bir 
+mum vardı. Kısa pozisyonlar o mumun altında tetiklendi. Bu 12
+inciPolitika duyurusundan sonra Büyük mumun oluşumundan 
+itibaren mum.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Yukarıdaki 10 Dakikalık NF grafiğidir. Burada fiyatlar aşağı doğru boşluk bıraktı 
+ve ayrıca PDL'nin altında açıldı, böylece satış çekti. Fiyatlar PDL'nin altında 
+kalamadı ve boşluğu doldurmak için 30 dakika içinde tersine döndü. Fiyatlar 
+yalnızca PDC'ye kadar hareket edebildi. Fiyatların PDC'yi geçmesinin ne kadar 
+zor olduğuna dikkat edin. Fiyatlar PDC, Pivot ve Yday VWAP'yi kaybetti ve 
+sonunda CVWAP'yi de kaybetti, böylece bu mumun altında bir kısa devre 
+tetiklendi. Pricea, mantıklı bir hedef olabilecek Günün en düşük seviyesine 
+kadar hareket etti.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Önceki örneği daha da ileri götürürsek, gösterildiği gibi tetiklenen bir 
+Buy işlemi de vardı. PDL ve S1'in gösterildiği gibi Breakout 
+başarısızlığından sonra, fiyat her iki noktanın üzerinde işlem görmeye 
+başladı ve hızla CVWAP kazandı. Buy, işaretlendiği gibi mumun 
+üzerinde tetiklendi. İşaretlendiği gibi 3 destek katmanımız var (BOF 
+PDL, BOF S1, BOF Day Low) ve bu da SL'mizin güvenli olduğundan emin 
+olabilir. Bu işlem iyi hareket etti ve S1'i kolayca test etti.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Yukarıdaki NF'nin 10 Dakikalık grafiğidir. Görüldüğü gibi fiyat PDC ve 
+PDH'nin üzerinde açıldı ve aynı zamanda Günün açılışının etrafında döndü. 
+VWAP'nin büyük bir mumla nasıl kaybedildiğine ve ardından PDC ve PDH'nin 
+de nasıl kaybedildiğine dikkat edin. Fiyatlar CVWAP'yi test etmek için geri 
+döndü ve reddedildi. Bu, fiyatların CVWAP, PDH ve PDC'yi tekrar kaybettiği 
+yerde kısa pozisyon açmak için başka bir şans verdi. Bu BOF'tan sonra fiyat 
+PDay VWAP'yi test etmek için iyi hareket etti.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Yukarıdaki 10 dakikalık NF grafiğidir. Fiyat açıldı ve PDC, YDay VWAP 
+ve CVWAP'ın altında işlem görmeye başladı. Bu eylemden sonra bile 
+fiyat satmadı ve görülebileceği gibi yükselmeye başladı. CVWAP 
+grafikte görülebileceği gibi kazanıldı. CVWAP'ı kazanan mumun 
+üzerinde satın alma tetiklendi. Satın alma işleminden sonra SL 
+kümeleri olduğu için işlemimiz için korumamız oldu. Bu işlem R2'ye 
+kadar hareket etti.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Yukarıdaki BNF 10 dakikalık grafiktir. Önceki NF örneğinde olduğu 
+gibi, burada da fiyat PDay VWAP'nin üzerinde açıldı ancak Pday 
+VWAP, PDC ve Pivot noktasının altında da işlem görmeye başladı. Bu, 
+enstrümanda satış tetiklemeliydi ancak 3 mumdan sonra 
+enstrümanda alım ilgisi görüldü ve fiyat PDay VWAP, PDC ve Pivot 
+direncinin üzerinde kapanmaya başladı. Ayrıca gösterildiği gibi fiyat 
+CVWAP kazandı ve bunun üzerinde işlem görmeye başladı. 
+Muhafazakar yatırımcılar için satın alma, görülebilen Büyük yeşil 
+mumun üzerinde de tetiklenebilir. Fiyat R2'ye kadar hareket etti. Bu 
+durumda SL 60 puandı, yani Lot başına 1200/--.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Yukarıdaki BNF 15 dakikalık grafiktir. Bu örnekte, fiyat YDay VWAP'nin 
+üzerinde kaldı ancak devam edemedi ve YDay VWAP'nin altında satış 
+yapmaya başladı. Fiyat YDay VWAP, PDC ve CVWAP'nin altında 
+olmasına rağmen, yine de büyük bir satış olmadı, sadece 3-4 mum 
+için. Fiyat CVWAP'nin üzerinde işlem görmeye başladığında alım ilgisi 
+ortaya çıktı. Alım yalnızca fiyat mumun üzerinde işlem görmeye 
+başladığında tetiklendi ve bu da CVWAP'yi tekrar kazandı. İşlem R2'ye 
+ve ötesine kadar ilerledi. SL 60 puandı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Yukarıdaki 10 Dakikalık BNF'nin ilginç bir örneğidir. İlginçtir 
+çünkü gerçekleşen Fiyat hareketinin türü nedeniyle. Birçok kez, 
+PDH/PDC'nin o belirli gün için günün en yüksek noktası 
+olduğunu ve o bölgenin ertesi gün çıkarılmadığını fark ettim, 
+satışlar ortaya çıkabilir. Yukarıdaki örnekte de aynı şey oldu. 
+Sadece BNF'nin mevcut günde çıkaramadığı bölgeye bakın. 
+PDH'de dirençle karşılaşıldı, PDC'nin başarısızlığı kırıldı, fiyat 
+üçüncü mumda VWAP'ı kaybetti. Yday'in geç alıcıları ve ayrıca 
+fiyat mevcut gün Pivot'unu kaybettiğinde mevcut günün 
+duygusal alıcıları için yavaş yavaş panik başladı. Fiyat Yday 
+VWAP'a kadar sorunsuz bir şekilde hareket etti ve fiyat onu 
+kaybettikten sonra düşüş yoğunlaştı ve EOD'ye kadar devam 
+etti. Böyle bir formasyona özellikle dikkat edin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Yukarıdaki 10 Dakikalık BNF grafiğidir. Aşağı doğru bir boşluk oluştu ve 
+görülebileceği gibi birkaç mum için satış devam etti. PDC, PDL ve YDay 
+VWAP'nin altına doğru bir boşluk oluştuktan sonra bile çok fazla satış 
+olmadı. Ayrıca mevcut gün Düşük seviyesini kırma girişimi olduğu 
+ancak başarısız olduğu ve fiyatın sıçrayarak PDL ve CVWAP'yi tek bir 
+mumda yeniden kazandığı ve böylece BOF PDL'yi oluşturduğu 
+gözlemlenebilir. Fiyat zaten Günün düşük seviyesinin BOF'unu alt uçta 
+oluşturmuştu. Yani açıkça satış ve Boşluk aşağı baskısı durduruldu. 
+CVWAP geri kazanılır kazanılmaz satın alma tetiklendi. Satın alma o 
+mumun üzerinde tetiklendi. Fiyat R2'ye kadar iyi hareket etti. SL 60 
+puandı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Yukarıdaki 10 Dakikalık BNF grafiğidir. Yukarıdaki örnekte, fiyat 
+başlangıçta YDay VWAP'nin altında işlem görmeye başladı, 
+ancak daha fazla dayanamadı. Satın alma ilgisi görüldü ve fiyat 
+CVWAP ve YDay VWAP'nin üzerinde işlem görmeye başladı. 
+Fiyatlar YDay VWAP'nin üzerinde başladığında, satın alma çekti 
+ancak bu bile dayanamadı. Satış kuyruğu oluştuğunda fiyattaki 
+reddi fark edin. Fiyat YDay VWAP ve PDC'yi kaybettiğinde satış 
+arttı. Fiyat CVWAP'yi kaybettiğinde satış yoğunlaştı. S1'e kadar 
+kolayca hareket etti. Bu işlemdeki SL 60 puandı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Yukarıdaki 10 dakikalık BNF grafiğidir. Fiyat yukarı doğru boşluk 
+bıraktı. Boşluktan sonra kaçış hareketi olmadı. Fiyat başlangıçta 
+yapılan günün yüksek seviyesini aşmaya çalışmadı. Denedi 
+ancak bir satış kuyruğu basarak orada başarısız oldu. Zamanla 
+fiyat CVWAP ve pivot noktasını kaybetti. CVWAP kaybedilir 
+kaybedilmez düşüş uzadı ve işlem için mantıksal hedef 
+olabilecek YDay VWAP'yi test etti. İşlem için SL 60 puandı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Umarım PDF, Stratejiyi eve yerleştirmek için size bol miktarda örnek sağlamıştır. 
+Aynı şeyin sizin ticaretinize de uygulanmasını ve iyi sonuçlar elde etmenizi 
+umuyorum.
+Ve artık hem VWAP Breakout hem de VWAP Breakout Failure'ı aynı 
+güvenle işlem yapabilirsiniz.
+Her zaman olduğu gibi, sorularınızı yanıtlamak için buradayım.
+Zaman ayırdığınız için teşekkür ederim.
+İşlemlerinizde bol şanslar dileriz.
+Bana şu yollarla ulaşabilirsiniz:
+Posta:varunspeak@gmail.com 
+Twitter: varun550@blisstrades
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+------------------ 
+VWAP 
+BREAKOUT 
+FAILURE 
+STRATEGY 
+------------------ 
+ 
+ 
+ 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+What is VWAP Breakout Failure Strategy?? 
+It is strategy to catch the breakout failure trades which VWAP throws 
+up. In VWAP breakout trade a position in established if the price of 
+the index or instrument is above/below both Previous Day VWAP and 
+Current VWAP. In such scenario a buy/sell position is entered with 
+appropriate SL and a Target. Many times such breakouts remain in 
+place for a short period of time and then fizzle out due to certain 
+reasons. This is breakout failure.  Under such situations the Stop Loss 
+for the trade is usually hit. This has happened many times to me too 
+and it becomes frustrating if there is a series of loss. 
+After going through many examples myself  and some material on the 
+web, I came across a method in which the advantage of the Breakout 
+Failure can be taken with just a small tweak. This tweak is to be 
+applied only when the breakout of VWAP trade is failing and the 
+trade is reversing direction. In the beginning it will be a bit difficult to 
+catch the scenario but with sufficient study of charts and practice, one 
+can easily catch the reversal which I call VWAP Breakout Failure 
+Strategy. 
+The beauty of this strategy is that it will not appear at the open of the 
+markets. We have ample time to execute the trades, if they present 
+themselves. These trades will typically appear only after 10AM ( and 
+can appear any time of the trading day). The idea of the strategy is to 
+take advantage of  trapped traders, traders who are stuck with VWAP 
+breakout trades and are feeling the heat as the VWAP breakout trade 
+is getting converted into VWAP Breakout Failure Trade. So if  as 
+traders we already know that the trade is getting converted into a 
+Breakout Failure trade, we can take advantage by not letting  the SL 
+to get hit and also be prepared for a reversal trade. 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+The following are certain conditions which have to be met before 
+taking  the trades using the strategy: 
+For short Trades: 
+• Stocks/index should first trade below/at/above the current 
+VWAP 
+• If trades at or below current  VWAP, price bounces and breaks 
+above the VWAP, activating buyers. 
+• If the price loses the VWAP which means price again trades 
+below Current VWAP, indicates that the buyers are weak or 
+exhausted 
+• This can provide an opportunity to short with appropriate SL. 
+Along with above points,  framework has to be built with the help of  
+support/resistances which is easy to establish. In the above scenario 
+when CVWAP is lost, one needs to check what are all the pointers 
+because of which a breakout failure is taking place. Usually it is a 
+Breakout Failure of decision points from previous day or start of the 
+day. This will be explained in depth in the numerous examples which 
+will be covered further. 
+For Long trades: 
+Inverse all the points mentioned above (Examples Follow). 
+Terms used: 
+VWAP: Volume weighted Average Price also ATP on NEST 
+Terminals. 
+PVWAP/YDay VWAP: Previous Day VWAP 
+CVWAP: Current Day VWAP. 
+BOF: Break Out Failure. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+PDH: Previous Day High 
+PDC: Previous Day Close 
+PDL: Previous Day Low 
+DO: Current Day’s Open 
+DH: Current Day’s High 
+DL: Current  Day’s Low 
+BO: Break Out 
+IB: Inside Bar 
+R1,R2,R3/S1,S2,S3: Standard Pivots configuration to be applied. 
+All charts from Zerodha Kite Web Based Software. 
+The above method can be applied on stocks, Index, commodities, 
+currencies across Time frames. But the examples which follow are 
+mostly 15 Mins and 10 Mins charts. 
+So grab a Pot of Coffee and go through the examples which follow. 
+I hope to provide Value through this write up and that readers can 
+apply the Strategy and improve their trading further. 
+ 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+ 
+ 
+The above is a 10 min chart of BNF. Here price tries to stay 
+above CVWAP but fails to remain above it and starts trading 
+below CVWAP. As the CVWAP is lost on the third candle, the 
+short is created. Also notice how the PDC was not taken out 
+which resulted in the fall. The SL in this case is 60 points. The 
+first target can be YDay VWAP. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+ 
+ 
+In the above example of Crudeoil 15 mins, price traded 
+around CVWAP and YDay VWAP for some time then broke 
+out only to find resistance at R1. After few candles, price 
+loses the CVWAP and then the YDay VWAP. Short was 
+triggered as soon as CVWAP and YDay VWAP is lost. Price 
+smoothly moves to S1. SL in this case is 25 points. 
+ 
+ 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+ 
+ 
+The above is Crudeoil 15 mins example. Price moves around 
+YDay VWAP after which it moves till Day’s Open. Notice how 
+price tried to move above the Day’s open but failed one time 
+and then the second time. The second time BOF takes place, 
+price loses the CVWAP and the short gets triggered. Price 
+moves till S1 easily. 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+ 
+ 
+The above is HeromotoCorp 10 mins chart. Price opens 
+trades above CVWAP and PDay VWAP. Notice how there is 
+BOF of PDH at the second candle. Also BOF of R1 ensues at 
+candle 3. One can short at the retest of R1. The idea is to 
+fortify our SL as much as possible. In this case conservative 
+traders can short below YDay VWAP also. Price almost moved 
+to S3. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+ 
+ 
+The next chart is of HUL 5 mins. Price initially trades below 
+both CWAP and YDay VWAP then there is a surge in price and 
+it starts trading above CVWAP. The upmove halts and the 
+price loses CVWAP at the candle as shown. As price loses PDL 
+also, one can short. Price moves 1% after the trigger where 
+one can easily book some positions and trail the rest. 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+ 
+ 
+The above is Maruti chart for 15 min TF. Price moves above 
+CVWAP and YDay VWAP in the second candle with good 
+volumes. At the 3rd candle, the upmove halts. In the 4th 
+candle price loses YDay VWAP. On the break of CVWAP, 
+shorts can get activated. Price moved till S1 where profit 
+booking can be done partially and rest can be trailed. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+ 
+ 
+In the above chart price trades above both the VWAPs in the 
+beginning but then price halts and sells off a bit to test Yday 
+VWAP. There is again an upswing which makes the price to 
+reach PDH. It is here where we can notice rejection candles. 
+Once there is BOF of PDH, we need to wait for price to lose 
+CVWAP which it does as shown. A short trade can be taken 
+below the candle which loses the CVWAP. The trade move 
+was profitable. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+ 
+ 
+The above is  Titan Cash chart. Price at the start moved above 
+Yday VWAP and CVWAP. Also notice that  price started 
+trading above PDH also and sustained for good 30 minutes. 
+This will attract more breakout traders and will entice them 
+to buy during that period. As soon as the price reached R1 , 
+we can notice the rejection there. Price lost PDC and PDH as 
+shown. Also CVWAP was lost. This gives the short trade (if 
+taken below the candle which loses CVWAP) good protection 
+for the Stop Loss for the trade. As soon as the Pday VWAP 
+was lost, fall in price intensified as all the buyers of the 
+morning breakout trade were feeling the heat. The trade 
+moved well and almost hit S3. While trading stocks keep Stop 
+Loss as 1% and targets as 1.5%/ pivot points. 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+ 
+ 
+The above is Tatasteel cash 15 mins chart. In this case price 
+tested PDL in the first 15 mins, moved above CVWAP and 
+then moved above Pday VWAP also. It faced rejection at R1 
+as shown. The formation of IB (Inside Bar) at that point would 
+have given a signal that the upmove is halting. As soon as it 
+loses Pday VWAP, our assumption proved correct. In due 
+course price lost CVWAP also and a short was triggered 
+below that candle. Stop loss is 1% from our entry. In this case 
+the trade result would have obtained at 3:15 square off time. 
+ 
+ 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+ 
+ 
+The above one is the same tatasteel example but in 5 mins. 
+This chart of 5 mins gives a good  and much more minute 
+detail of what I had explained in the last example. While 
+executing the trade I will rely more on 15 mins charts. But in 
+between will monitor 5 mins chart also just to know how 
+price is behaving on shorter time frame. 
+ 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+ 
+ 
+Now for some Buy examples: 
+The above is BNF 15 mins chart. Price started trading above 
+YDay VWAP initially buy could not hold on for long. For the 
+next 3 candles there was a minor sell off. Price did not move 
+below PDC much. Demand candle started forming after that 
+because of which price moved above PDC and CVWAP. Buy 
+was triggered 3 candles later and it moved very well fuelled 
+by short covering.  
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+ 
+ 
+The above one is BNF 10 mins chart. A bit messy , I must 
+admit. Price tried to stay above the YDay VWAP and the 
+CVWAP but failed in doing so from the second candle. Notice 
+the long wicks which the candles had which shows that there 
+could be buying interest coming in for the index. It happened 
+and CVWAP was gained again as shown. Also BOF PDC took 
+place and buy was triggered above the high of that candle. It 
+moved well and some points could be captured. 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+ 
+The above is Tatasteel 5 mins example. Again a bit messy to 
+look at. But in markets one can hardly get smooth rides .In 
+the above example price moved below both VWAPs in the 
+beginning and also traded below PDL. This attracted selling. 
+Price could not remain below PDL for long and there was 
+some buying interest coming in. As marked in the chart, price 
+was above PDL and CVWAP at that candle. But buy did not 
+trigger as price did not trade above that candle. Again selling 
+emerged and traded below CVWAP as can be seen. Again 
+price could not remain below PDL and CVWAP and finally buy 
+was triggered as shown in the chart. SL was 1% . Targets can 
+be Pday VWAP and pivots. The trade moved well. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+ 
+ 
+ 
+The above chart is 10 Mins BNF . This was a policy 
+announcement day. So no trades till the policy is announced. 
+Notice how many decision points were lined up as a cluster 
+at a zone. Such formation can ensure that the chances of a SL 
+hit is very minimal. There were two opportunities to short. 
+First one was on the Loss of CVWAP on the formation of the 
+big candle. I had traded 32K PE in this. After that there was 
+again a candle losing CVWAP. Shorts were triggered below 
+that candle. That was the 12th candle from the formation of 
+the Big candle after policy announcement. 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+ 
+ 
+The above is the 10 Min NF chart. Here prices gapped down 
+and also opened below PDL thus attracting selling. Prices 
+could not sustain below PDL and reversed within 30 mins to 
+fill the gap. Prices  could move only till PDC. Notice how 
+difficult it was for prices to cross PDC. Prices lost PDC, Pivot 
+and Yday VWAP and finally lost CVWAP also thus triggering a 
+short below that candle. Pricea moved till Day’s low which 
+could have been a logical target. 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+ 
+ 
+Taking the previous example further, there was also a Buy 
+trade which got triggered as shown. After Breakout failure of 
+PDL and S1 as shown, price started trading above both the 
+points and quickly gained CVWAP. Buy was triggered above 
+the candle as marked. We have 3 layers of support as marked 
+( BOF PDL, BOF S1, BOF day Low) which can make sure that 
+our SL is safe. This trade moved well and tested S1 easily. 
+ 
+ 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+ 
+ 
+The above is 10 Mins chart of NF. As can be seen price 
+opened above PDC and PDH and at the same time rotated 
+around the Day’s open. Notice how VWAP was lost with a big 
+candle and subsequently PDC and PDH were also lost. Prices 
+came back to test CVWAP and got rejected. This gave 
+another chance to short where prices lost CVWAP, PDH and 
+PDC again. After this BOF price moved well to test PDay 
+VWAP.  
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+ 
+ 
+The above is 10 mins NF chart. Price opened and started 
+trading below PDC, YDay VWAP and CVWAP. Even after this 
+action, price did not sell off and started to inch higher as can 
+be seen. CVWAP was gained as can be seen in the chart. Buy 
+was triggered above the candle which gained the CVWAP. 
+After the buy we had protection for our trade as there were 
+cluster of SL. This trade moved till R2. 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+ 
+ 
+The above is the BNF 10 mins chart. Like in the previous NF 
+example, here too price opened above PDay VWAP but 
+started trading below Pday VWAP, PDC and Pivot point too. 
+This should have triggered selling in the instrument, but after 
+3 candles, there was buying interest seen in the instrument 
+and price started closing above the resistance of PDay VWAP, 
+PDC and Pivot. Also as shown price gained CVWAP and 
+started trading above it. For conservative traders buy can 
+also be triggered above the Big green candle which can be 
+seen. Price moved till R2. SL in this case was 60 points, i.e 
+1200/-- per Lot. 
+ 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+ 
+ 
+The above is the BNF 15 mins chart. In this example, price 
+stayed above YDay VWAP but could not sustain and started 
+selling off below YDay VWAP. Even though price was below 
+YDay VWAP, PDC and CVWAP, still there was no major 
+selling, just for3-4 candles. Buying interest emerged as price 
+started trading above CVWAP. Buy was triggered only when 
+price started trading above the candle which gained CVWAP 
+again. The trade moved till R2 and beyond. SL was 60 points. 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+ 
+ 
+The above is an interesting example of 10 Mins BNF. 
+Interesting because of the kind of Price action which took 
+place. I have many times noticed that if PDH/PDC is the high 
+point of the day for that specific  day and if that zone is not 
+taken out the next day, there can be selling emerging. Same 
+happened in the above example. Just look at the zone which 
+BNF could not take out on the current day. Faced resistance 
+at PDH, break out failure of PDC, price loses VWAP on the 
+third candle itself. Slowly panic sets in for late buyers of Yday 
+and also emotional buyers of the current day when price 
+loses current day Pivot. Price smoothly moved till YDay VWAP 
+and after price lost it, the fall intensified and continued till 
+EOD. Do pay special attention to such a formation. 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+ 
+ 
+ 
+The above is the chart of 10 Mins BNF. It Gapped down and 
+selling continued for a few candles as can be seen. Even after 
+gap down below PDC, PDL and YDay VWAP, there was not 
+much selling. Also it can be observed that there was an 
+attempt to break the current day Low but it failed and price 
+bounced and regained PDL and CVWAP in a single candle 
+thereby forming BOF PDL. Price already had formed BOF of 
+Day’s low at the lower end. So clearly the selling and Gap 
+down pressure was arrested. Buy was triggered as soon as 
+the CVWAP was gained back. Buy was triggered above that 
+candle. Price moved well till R2. SL was 60 points. 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+ 
+ 
+The above one is 10 Mins BNF chart. In the above example, 
+price started trading below YDay VWAP in the beginning, but 
+could not sustain much longer. Buying interest was seen and 
+price started trading above CVWAP and YDay VWAP also. As 
+the prices started above YDay VWAP ,it attracted buying but 
+even that could not sustain. Notice the rejection in price as a 
+selling tail was formed. Selling picked up as price lost YDay 
+VWAP and PDC. As soon as price lost CVWAP, selling 
+intensified. It moved till S1 easily. SL in this trade was 60 
+points.  
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+ 
+ 
+The above is 10 min BNF chart. Price gapped up. After gap up 
+there was no run away movement. Price did not attempt to 
+take out the day’s high made initially. It did try but failed 
+there by printing a selling tail. In due course price lost the 
+CVWAP and pivot point. As soon as CVWAP was lost fall got 
+extended and it tested YDay VWAP which would have been 
+the logical target for the trade. SL for the trade was 60 
+points. 
+ 
+ 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+I hope the PDF provided you with ample examples to drill the 
+Strategy home. I also hope that the same will applied to your trading 
+with good results. 
+And now you can trade both VWAP Breakout and VWAP Breakout 
+Failure with equal confidence.  
+As always I am available to answer any queries which you may have. 
+I thank you for your time. 
+All the very best for your Trading. 
+I can be reached out through: 
+Mail: varunspeak@gmail.com 
+Twitter: varun550@blisstrades 
+ 
+ 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]

@@ -1,0 +1,643 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 25\Baskı 25\BBMA Trading Stratejisi - John Ray (54 sayfa) - @eseckal.pdf
+PAGES: 54
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+En kolay ve en karlı 
+ticaret stratejisi
+John Ray
+TELİF HAKKI
+Telif Hakkı © 2022 John Ray'e aittir
+Tüm Hakları Saklıdır. Bu kitapta yer alan bilgiler, eleştirel 
+inceleme ve makalelerdeki kısa alıntılar haricinde, 
+yayıncının açık yazılı izni olmaksızın hiçbir şekilde 
+çoğaltılamaz veya kullanılamaz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+SORUMLULUK REDDİ
+Yatırım yapmak yüksek risk taşır ve tüm yatırımcılar için uygun 
+olmayabilir. Yüksek kaldıraç oranı hem aleyhinize hem de lehinize 
+işleyebilir. Yatırım yapmaya karar vermeden önce, yatırım 
+hedeflerinizi ve risk iştahınızı dikkatlice değerlendirmelisiniz.
+Bu kitapta yer alan tüm bilgiler yalnızca eğitim amaçlıdır 
+ve finansal tavsiye niteliğinde değildir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Bu kitapta yer alan bilgilerin kullanımı veya bunlara güvenilmesinden 
+doğrudan veya dolaylı olarak doğabilecek kâr kaybı da dahil ancak 
+bununla sınırlı olmamak üzere hiçbir kayıp veya zarardan sorumlu 
+olmayacağız. Geçmiş performans, gelecekteki performans için bir 
+gösterge veya garanti değildir.
+İÇİNDEKİLER
+3 TELİF HAKKI
+4 SORUMLULUK REDDİ
+7 GİRİŞ
+9 BBMA GÖSTERGESİ
+12 BBMA AYARI
+14 MUMUN TEMELLERİ 15 MUMUN 
+PARÇALARI 16 BOĞA VE AYI MUMLARI 
+17 MUM KIRILMASI VE REDDİ 20 BBMA 
+TEMELLERİ
+22 BOLLINGER BAND
+23 BOLLINGER BANDI TÜRÜ 25 
+HAREKETLİ ORTALAMA 5 VE 10 YÜKSEK 
+27 HAREKETLİ ORTALAMA 50
+28 SİNYAL VE KURULUM
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+35 ÇOKLU ZAMAN ÇERÇEVESİ ANALİZİ 
+37 İŞLEM STİLİ VE ZAMAN ÇERÇEVESİ 46 
+İŞLEM PLANI
+47 BİR ARAYA GETİRMEK
+KISALTMALAR
+● Cs: Mum çubuğu
+● Ma: Hareketli ortalama
+● Mahi: Hareketli ortalamanın yüksekliği
+● Malo: Hareketli ortalama düşük
+● BB: Bollinger bandı
+● Ext: Aşırı
+● MLV: Piyasa hacim kaybetti
+● MTP: Zorunlu Kar Alımı
+● CSM: Mum çubuğu hareketi
+● CSD: Mum çubuğu yönü
+● MBB: Orta Bollinger bandı
+● TP: Kar al
+● En iyi BB: en iyi Bollinger bandı
+● Düşük BB: Düşük bollinger bandı
+● MTP: Zorunlu kar alma
+● EMA: Üstel Hareketli Ortalama
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+GİRİİŞ
+Her şeyden önce, bu yöntem Oma Ally'nin öğretilerinden 
+türetilmiştir. Çoğu kişi videolarını izlemiş, ancak akılda 
+tutulması gereken çok fazla bilgi olduğu için kavramları 
+kavrayamamıştır. Bu kitapta BBMA stratejisini 
+öğreneceksiniz.
+Oma Ally, BBMA stratejisini geliştirmesiyle tanınan 
+Malezyalı bir yatırımcıdır. Malezya'nın en başarılı 
+yatırımcılarından biridir.
+BBMA adı, iki işlem göstergesinden türetilmiştir: Bollinger 
+Band (BB) ve Hareketli Ortalama (MA).
+Bu ticaret sistemi yüksek hassasiyetli giriş ve çoklu giriş 
+özelliğiyle bilinir.
+Kariyerimin beş yılını bu stratejiyi test ederek ve geriye dönük test 
+ederek geçirdikten sonra, size bu stratejinin en kolay ve en karlı işlem 
+stratejisi olduğunu garanti edebilirim.
+Tek yapmanız gereken, sizinle paylaşacağım bu stratejiyi öğrenmek 
+için mümkün olduğunca çok zaman harcamak.
+Bu strateji yeni başlayanlar için uygundur ve herhangi bir piyasada (Forex, Hisse 
+Senedi ve Kripto) işlem yapmak için kullanılabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Bu stratejinin faydalarından biri, ister scalper, ister swing 
+trader, ister pozisyon traderı olun, fark etmez, 
+uygulanabilmesidir.
+Binlerce kişide işe yaradı ve kesinlikle sizin için de işe 
+yarayacaktır.
+Giriş, çıkış ve çok daha fazlasını hassas bir şekilde ele alacağım. 
+Bu stratejiyi disiplinli ve sabırlı bir şekilde uygularsanız, piyasada 
+istikrarlı kârlar elde edersiniz.
+Anlatılacak çok fazla bilgi var, o yüzden hemen içeriğe 
+geçelim.
+BBMA GÖSTERGELERİ
+Bu işlem sistemi iki gösterge kullanır. Bu göstergeler Bollinger 
+Bandı ve Hareketli Ortalama'dır.
+Bollinger bandı
+Bollinger bandı, John Bollinger tarafından icat edilen popüler bir 
+göstergedir. Bollinger bandı dinamik destek ve direnç görevi 
+görür.
+Bu teknik analiz aracı, BBMA'da çok önemlidir. Bollinger bant 
+göstergesi, piyasanın oynaklığını ölçmeye yardımcı olur. Ayrıca, 
+olası aşırı alım ve aşırı satım bölgelerini belirlemeye de yardımcı 
+olur.
+Bollinger bandı üç çizgiden oluşur:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+● Üst bant, aynı zamanda Üst BB olarak da bilinir
+● Orta bant, aynı zamanda Orta BB olarak da bilinir
+● Düşük BB olarak da bilinen alt bant
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Bollinger bandı
+Hareketli ortalama
+Hareketli ortalama, hisse senetleri, döviz ve kripto paralarda 
+belirli bir zaman dilimindeki trendin yönünü belirlemek için 
+kullanılan en popüler ve yaygın göstergelerden biridir. Bir 
+varlığın fiyatının hangi yönde hareket ettiğini gösterir.
+Hareketli ortalama türleri
+1. Basit Hareketli Ortalama (SMA)
+2. Üstel Hareketli Ortalama (EMA)
+3. Düzleştirilmiş Hareketli Ortalama (SMMA)
+4. Doğrusal Ağırlıklı Hareketli Ortalama (LWMA)
+Basit Hareketli Ortalama (SMA)
+Basit Hareketli Ortalama, bir varlığın belirli bir zaman dilimindeki 
+ortalama fiyatını gösterir.
+Üstel Hareketli Ortalama (EMA)
+SMA'dan farklıdır çünkü yakın tarihli fiyat verilerine daha fazla 
+ağırlık verir
+Düzleştirilmiş Hareketli Ortalama (SSMA))
+Basit Hareketli Ortalama ve Üstel Hareketli Ortalama'nın 
+birleşimidir. Fiyat veri noktalarına daha uzun bir zaman 
+dilimi boyunca ağırlık verir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Doğrusal
+(LWMA)
+Ağırlıklı Taşınma Ortalama
+Yakın tarihli fiyat verilerine daha fazla ağırlık veren hareketli bir 
+ortalamadır.
+BBMA AYARLARI
+BBMA'da kullanılan göstergelerin ayarları şunlardır:
+Bollinger bandı
+Dönem: 20, Vardiya: 0, Sapma: 2.000, Uygulanacak yer: kapat, Stil: 
+mavi
+Hareketli ortalama 50
+Dönem: 50, Kaydırma: 0, Yöntem: Üstel, Uygulanacak yer: kapat, 
+Stil: Aqua
+Hareketli ortalama 5
+Dönem: 5, Vardiya: 0, Yöntem: doğrusal ağırlıklı, Uygulanacak yer: yüksek, 
+Stil: Kırmızı
+Hareketli ortalama 5
+Dönem: 5, Vardiya: 0, Yöntem: doğrusal ağırlıklı, Uygulanacak yer: düşük, 
+Stil: Yeşil
+Hareketli ortalama 10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Dönem: 10, Vardiya: 0, Yöntem: Doğrusal Ağırlıklı, Uygulanacak Yer: Yüksek, 
+Stil: Altın
+Hareketli ortalama 10
+Dönem: 10, Vardiya: 0, Yöntem: Doğrusal Ağırlıklı, Uygulanacak yer: 
+düşük, Stil: Siyah
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Bir Temelin Temelleri
+ŞAMDAN
+BBMA hakkında bilgi edinmeye başlamadan önce, boğa mumu ile ayı 
+mumu arasındaki farkı nasıl ayırt edeceğinizi bilmeniz gerekir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+mum.
+Eğer mum oluşumunu anlamazsanız, piyasada asla işlem 
+yapamazsınız.
+Mum grafikleri, teknik analistlerin fiyat hareketlerini incelemelerine 
+ve işlem kararları almalarına olanak tanır. 1700'lerde Japon pirinç 
+tüccarı Munehisa Homma tarafından icat edilmiştir.
+BİRİNİN PARÇALARI
+ŞAMDAN
+Günlük mum grafikleri, bir varlığın gün içindeki açılış, en yüksek, en 
+düşük ve kapanış fiyatlarını gösterir. Mum grafikleri göz dostudur 
+ve yorumlanması kolaydır.
+Bir mumun üç ana bölümü vardır:
+1. Üst fitil:Bu, gövdenin üzerindeki dikey çizgidir. Varlığın 
+işlem seansı sırasındaki en yüksek fiyatını gösterir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+2. Vücut:o işlem periyodunun açılış ve kapanış saatleri 
+arasındaki fiyat aralığını gösterir.
+3. Daha düşük
+fitil:Bu, gövdenin altındaki dikey çizgidir. Varlığın işlem seansı 
+sırasındaki en düşük fiyatını gösterir. Fitiller aynı zamanda 
+gölgeler olarak da bilinir.
+BOĞA VE AYI
+MUMLAR
+Mumlar yükseliş veya düşüş trendinde olabilir.
+1. Boğa Mum:Kapanış fiyatı açılış fiyatından yüksek 
+olduğunda. Bu, güçlü bir alım baskısı olduğunu gösterir. 
+Yükseliş mumunun varsayılan rengi yeşil veya beyazdır, 
+ancak istediğiniz herhangi bir renkle temsil edebilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+2. Ayı piyasası
+Mum:Kapanış fiyatı açılış fiyatından düşük olduğunda. Bu, 
+piyasada güçlü bir satış baskısı olduğunu gösterir. Ayı 
+mumunun varsayılan rengi kırmızı veya siyahtır, ancak tercih 
+ettiğiniz herhangi bir rengi kullanabilirsiniz.
+MUM KIRILMASI VE
+REDDETME
+BBMA'da iki çok güçlü giriş ve çıkış göstergemiz var. 
+Göstergeler şunlardır:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+● Hareketli ortalama yüksek (Mahi)-Kırmızı ve Altın
+Hareketli ortalama düşük (Malo)-Siyah ve●
+Yeşil
+Mum reddi
+Diyelim ki 1 saatlik zaman diliminde işlem yapıyorsunuz. 
+Mum Mahi'ye doğru hareket edip altında kapandığında, 
+buna mum reddi denir. Bu, satış girişinizi alıp mum Malo'ya 
+değdiğinde kâr aldığınız zamandır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Buna karşılık, mum açılıp Malo'ya doğru hareket ettiğinde 
+ancak kıramadığında, buna mum reddi denir. Bu, mum 
+Mahi'ye değdiğinde alım girişinizi yaptığınız ve kârınızı 
+aldığınız durumdur.
+Bununla ne demek istediğimi bir örnekle anlatayım…
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Mum molası
+Bir mum Mahi'ye doğru hareket ettiğinde ve onun üzerinde kapandığında 
+buna mum kırılması denir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Buna karşılık, bir mum Malo'ya doğru hareket ettiğinde ve onun altında 
+kapandığında, buna mum kırılması denir.
+Ne demek istediğimi size açıklayayım...
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+BBMA TEMELLERİ
+BBMA'da, kural olarak, mumlar ve hareketli ortalamalar Bollinger 
+bandının dışına çıkmamalıdır. Mumlar veya hareketli ortalamalar 
+Bollinger bandını kırarsa, piyasa konsolidasyona girer veya yatay 
+hareket eder. Bu durum, mumları veya hareketli ortalamaları 
+Bollinger bandının içine iter.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Ancak, Hareketli ortalamalar veya mumlar Bollinger 
+bandının dışında olduğunda bunaaşırı durum.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Ancak, mum bir çizginin dışında kapanırsahareket bollinger 
+bandı,Bu, piyasanın güçlü olduğunun bir işaretidir. Başka bir 
+deyişle, piyasada bir ivme var.
+Çok fazla terim mi? Endişelenmeyin... Bir sonraki bölümde 
+açıklayacağım.hareket bollinger bandı.
+BOLLINGER BAND
+Bollinger bandı, dinamik direnç veya destek görevi görür. Alım 
+ve satım bölgesini ayıran çizgidir. Mumlar orta Bollinger 
+bandının üzerinde olduğunda, bu şu anlama gelir: yükseliş 
+trendi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Ancak mumlar orta bollinger bandının altında olduğunda, bu şu 
+anlama gelir:düşüş eğilimi.
+BOLLINGER TÜRLERİ
+BANT
+Bollinger bandının farklı türlerini nasıl ayırt edeceğimizi 
+anlamamız gerekiyor. BBMA'da iki tür Bollinger bandı 
+vardır:
+1. Yatay bollinger bandı:yatay olarak
+bollinger bandı,En iyi BBVeDüşük BBparaleldir. Bu gösteriyor ki
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+piyasanın konsolide olduğunu gösteriyor. Mum her kırıldığındaEn 
+iyi BBveyaDüşük BB, geri dönmeye çalışıyorOrta BB.
+2.Bollinger bandının hareketi:hareket halindeki bollinger
+grup,En iyi BBVeDüşük BBfarklı bir şeye işaret ediyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Yönleri gösterir. Piyasanın yukarı veya aşağı yönlü gücünü 
+gösterir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Başka bir deyişle, bir şeyi ifade edertrend olan pazar.Bir hareket 
+bollinger bandında, ilkCSMbir yaratacakyeniden giriş.CSM 
+hareketli bollinger bandını kıran mum anlamına gelir.
+Bir mumun Bollinger bandından çok uzakta olması durumunda, piyasanın 
+yeniden giriş yaratmak için yanlara doğru hareket ettiğini belirtmek 
+önemlidir.
+HAREKETLİ ORTALAMA 5
+VE 10 YÜKSEK
+● Hareketli ortalama 5 (Mahi/Malo 5):BT
+Bollinger bandının dışına çıktığında aşırı bir durumu 
+gösterir. Ayrıca, bir mum Mahi/Malo 5'i reddettiğinde, 
+erken giriş noktasını gösterir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+● Hareketli ortalama 10 (Mahi/Malo 10):BT
+Daha güçlü bir girişi gösterir. Bir mum hem Mahi 5'i hem de Mahi 
+10'u reddettiğinde, bu daha güçlü bir girişi gösterir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+HAREKETLİ ORTALAMA 50
+BBMA'daki en önemli hareketli ortalama EMA 50'dir. EMA 
+50, trendi belirlemeye yardımcı olur. İki ana trend türü 
+vardır:
+● Yükseliş trendi
+● Düşüş trendi
+EMA 50, BB ortasının üzerinde olduğunda düşüş trendine işaret 
+eder. EMA 50, BB ortasının altında olduğunda ise yükseliş 
+trendine işaret eder.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Her zaman aşağıdakilere uymanız gerektiğini unutmamak önemlidir:
+yönüDaha yüksek zaman dilimleriHer zaman başlayın
+analizdenAylık zaman dilimi.SİNYALLER
+VE KURULUMLAR
+BBMA'da farklı tipte sinyaller ve kurulumlar 
+bulunmaktadır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Sinyal
+Üç tip sinyalimiz var:
+● Mum çubuğu hareketi (CSM)
+● Mum yönü (CSD)
+● Aşırı (EXT)
+1. Mum çubuğu hareketi:Daha önce de söylediğim 
+gibi, mumun dışında kapanan mumEn iyi BBveyaDüşük BBdenir 
+CSMBir CSM gördüğünüzde, piyasada bir ivme veya güç 
+olduğunu anlarsınız. Başka bir deyişle, piyasa yükselmeye veya 
+düşmeye devam edecektir. Deneyimlerime göre, en kolay ve en 
+güvenli giriş, CSM'den sonraki giriştir.
+Örneğin, CSM düşük BB seviyesini aşarsa, satış girişi yapmadan önce 
+fiyatın Mahi 5 veya 10'u reddetmesini bekleyin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Mantık şudur; çıplak fiyat hareketinde, fiyat bir destek 
+veya direnç bölgesini kırdığında, geri dönüp o bölgeyi 
+tekrar test etme olasılığı vardır ve ardından geri sıçrar.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+2. Mumun yönü:sonrasındaMLV, eğer fiyat
+Ma 5, Ma 10 ve Mid BB'yi aşar, yaniCSD. Sonrasında CSD
+Piyasa, giriş yapmak için geri çekilir. Bir sonraki bölümde 
+açıklayacağımMLV.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+3. Aşırı:Mumlar veya hareketli ortalamalar Bollinger bandının dışına 
+çıktığında ortaya çıkar. Bu, potansiyel bir piyasa geri dönüşünün işaretidir. 
+Ekstrem seviye ise riskli bir giriştir.
+Yani, satın al veya sat butonuna tıklamadan önce belirli koşulların karşılanması 
+gerekir. Koşullar şunlardır:
+● Mum veya hareketli ortalama Bollinger bandının dışına çıktığında, bir 
+geri dönüş mumunun oluşmasını bekleyin.
+● Daha sonra mumun en yüksek veya en düşük gövdesini işaretleyin.
+● Şimdi tekrar test edilmesini bekleyin ve işlem yapın.
+● Fiyat Ma 5, Ma10 ve Mid bb'ye ulaştığında kar al (TP). En 
+güvenli TP, Zorunlu kar al (MTP) olarak da bilinen Ma 
+5'tir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Ancak mum çubuğu hareketinin (CSM) varlığının aşırı bir 
+geçersizlik yaratacağını belirtmek önemlidir.
+Kurulumlar
+İki tür kurulumumuz var: 1. 
+Piyasa kayıp hacmi (MLV)
+2. Yeniden giriş
+1. Piyasa kayıp hacmi (MLV):mum
+bir BB oluşumundan sonra Üst BB veya Alt BB'yi kıramadı
+aşırısinyale MLV adı verilir.
+MLV, piyasanın tersine döndüğünün bir işaretidir. Piyasada 
+trendi tekrar devam ettirecek güç veya ivme olmadığını 
+gösterir. MLV genellikle yükseliş veya düşüş trendinin 
+sonunda oluşur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Çıplak fiyat hareketinde ise çift tepe veya çift dip, baş ve 
+omuz veya ters baş ve omuz, üçlü tepe veya üçlü dip 
+olarak adlandırılır.
+MLV girişi
+● Bir oluşumun oluşmasını bekleyinaşırısinyal.
+● En Üst BB'yi veya En Alt BB'yi kıramayan mumu arayın.
+● Şimdi, geri dönüş mumunun oluşmasını bekleyin.
+● Mumun en yüksek veya en düşük gövdesini işaretleyin.
+● Yeniden test edilmesini bekleyin ve işlem yapın.
+● Fiyat Ma 5, Ma 10 ve Mid BB'ye ulaştığında kar al. En 
+güvenli kar al seçeneği, Zorunlu kar al - Ma 5'tir.
+Not: Mum, En Üst BB veya En Alt BB'yi geçerse MLV artık 
+geçerli değildir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+2. Yeniden giriş
+BBMA'da üç tür yeniden giriş vardır:
+● CSM'den sonra yeniden giriş:Bir mum hareketli bollinger 
+bandının dışına çıktığında, fiyatın geri gelip Ma 5 veya Ma 10'u 
+reddetmesini bekleyin, ardından işleminizi yapın.
+● Mid BB'de yeniden giriş:CSD'nin oluşumundan sonra, mum 
+orta BB'yi reddederse, bu bir giriştir. Ma 5, Ma 10 ve orta BB'yi 
+reddederse, bu daha güçlü bir yeniden giriştir.
+●
+CSD'den sonra yeniden giriş: MLV'nin oluşumundan sonra, fiyatın Ma 5, Ma 
+10 ve Mid BB seviyelerini kırmasını bekleyin. Bir noktada, fiyat yeniden giriş 
+sağlamak için Ma 5 veya Ma 10 seviyelerine geri dönecektir.
+ÇOKLU ZAMAN ÇERÇEVESİ
+ANALİZ
+Çoklu zaman dilimi analizi, fiyat hareketini analiz etmek ve tahmin etmek için 
+birden fazla zaman diliminin kullanılması anlamına gelir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Ne demek istiyorum? 
+Açıklayayım...
+Piyasada fiyat hareketlerini ve mum oluşumlarını gözlemlediğinizde 
+şunları fark edeceksiniz:
+Günlük TF'deki bir mum çubuğu, H4 zaman diliminde 6 mum 
+çubuğundan, H1 zaman diliminde 24 mum çubuğundan ve M15 
+zaman diliminde 96 mum çubuğundan oluşur.
+Analiz sırasında farklı zaman dilimlerini uygulamak karlı olmanıza 
+yardımcı olacaktır.
+İşlem yapmak için en uygun zaman dilimini seçmek, işlem tarzınıza 
+bağlıdır. En uygun zamanı seçmek için işlem tarzınızı veya 
+modelinizi göz önünde bulundurmalısınız.
+Scalper mı yoksa swinger mı? İşlem tarzınızı öğrenmek için biraz 
+zaman ayırın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+TİCARET TARZI VE
+ZAMAN ARALIĞI
+● Scalper- H1, M15 ve M5
+● Gün içi - H4, H1 ve M15
+● Swing yatırımcısı - Aylık, haftalık ve günlük
+Peki, bir girişin geçerli olup olmadığını nasıl 
+anlarsınız? Açıklayayım...
+Normalde kullandığım strateji şudur:REMkod. R
+araçyeniden giriş
+Earaçaşırı
+MaraçMHV
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Bir giriş emri vermeden önce, her zaman üç farklı zaman diliminden gelen 
+onayları gözlemleyip beklerim. Örneğin, ben günlük alım satım yapan 
+biriyim, bu yüzden giriş emrini analiz etmek ve vermek için H4, H1 ve 
+m15'i kullanırım.
+Eğer varsaYeniden girişH4'te, bir arama yapmak için daha düşük bir 
+zaman dilimi olan H1'e geçeceğim.aşırıEğer bir aşırılık varsa, M15'i 
+kontrol ediyorum ve bir aşırılığın oluşmasını bekliyorum.MHVkurmak.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+MHV kuralları
+● Bollinger bandını kıramayan bir mum gördüğünüzde, tersine 
+dönüş mumunu bekleyin.
+● Daha sonra en yüksek gövdeyi işaretleyin.
+● Şimdi üçüncü mumun Ma 5 ve Ma 10'u yeniden test etmesini bekleyin.
+● Ya da üçüncü mumun işaretlediğiniz çizgiyi tekrar test etmesine izin verin, 
+ardından Ma 5 ve 10'u reddetmesini bekleyin.
+● Şimdi giriş siparişinizi verin.
+KARŞILIKLI SATICILAR İÇİN
+Eğer bir spekülatörseniz, analiziniz H1 zaman dilimine 
+dayalı olacaktır.yeniden girişH1'de, kontrol etmek için 
+m15'e gidinaşırıeğer varsaaşırı, M5'te MHV'nin 
+oluşmasını bekleyin ve giriş siparişinizi verin.
+SWING TÜCCARLARI İÇİN
+Şimdi, eğer bir swing yatırımcısıysanız, şunu arayın:yeniden girişAylık zaman 
+diliminde, haftalık zaman dilimine giderek bir sorun olup olmadığını kontrol 
+edin.aşırı,beklemekMHVD1 formunu oluşturup giriş siparişinizi verin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+TİCARET PLANI
+● Genel eğilimi kontrol etmek için analizinizi aylık, haftalık 
+ve günlük olarak başlatın. Her zaman HTF yönünde işlem 
+yapın.
+● Ma 50'nin pozisyonunu kontrol edin. BB ortasının altında mı yoksa 
+üstünde mi? BB ortasının üstündeyse, yükseliş trendindedir. Ancak, 
+BB ortasının altındaysa, düşüş trendindedir.Bonus:Ma 50 Bollinger 
+bandının dışındaysa, bu biraşırı. Bir kontrol edinyeniden girişdaha 
+yüksek bir zaman diliminde. BekleyinMHV daha kısa bir zaman 
+diliminde oluşturulacak şekilde kurulum.
+● Bollinger bandını kontrol edin. Yatay mı yoksa hareketli 
+Bollinger bandı mı?
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+● Sinyal ve kurulumları arayın.
+BİR ARAYA GETİRMEK
+BBMA işlem stratejisinin harikalarını gördükten sonra, canlı 
+yayına geçmek isteyeceğinizi biliyorum. Ancak, sabırlı olmanızı 
+istiyorum.
+Bu stratejiyi en az üç ay boyunca demo olarak işlem yaparak ve geriye dönük 
+test ederek deneyin. Al veya sat'a tıklamadan önce her zaman sinyallerin ve 
+kurulumların oluşmasını beklemeniz gerektiğini unutmayın.
+Çoğu profesyonel yatırımcı, işlemlerin %90'ının beklemek, 
+%10'unun ise icraat olduğunu söyler. Sabırlı olmayı öğrenmelisiniz. 
+Yeni yatırımcıların başarısız olmasının nedenlerinden biri, sürekli 
+işlem yapmak için acele etmeleridir.
+Piyasa hiçbir yere gitmiyor, bir işlemi kaçırsanız bile 
+yapabileceğiniz yüzlerce hatta binlerce işlem var. Bir yatırımcı 
+olarak, her zaman bolluk zihniyetine sahip olun.
+Başarılı her yatırımcı, yatırımın bir olasılık oyunu olduğunu 
+bilir, bu nedenle her zaman sabırla beklemeyi öğrenmelisiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Al veya sat tuşuna basmadan önce birçok onay.
+Piyasanın çizdiği desene ateş etmek yerine, her zaman bir keskin 
+nişancı gibi piyasaya yaklaşın. Sermayenizi her zaman koruyun.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

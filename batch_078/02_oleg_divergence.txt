@@ -1,0 +1,753 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 6\Baskı 6\Uyumsuzluklar - Oleg A. But (34 sayfa) - @eseckal.pdf
+PAGES: 34
+
+
+=== PDF PAGE 1 ===
+Çok Karlı ÜCRETSİZ Ticaret Sistemi
+Yazan: Oleg A. Ama
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+Önsöz
+Sistem Desteği ve Direncinde Kullanılan Teknik 
+Göstergelerin Açıklaması
+Arz ve talep
+Tüccarların Pişmanlığı
+Direnç Destek Oluyor
+(MACD) Hareketli Ortalama Yakınsama/Uzaklaşma 
+Geçişleri 8
+Aşırı Alım/Aşırı Satış Koşulları 
+Farklılığı10
+Stokastik Osilatör
+(RSI) Göreceli Güç Endeksi Teknik Gösterge Williams 
+Yüzde Aralığı Teknik Gösterge (%R) TraderBO 
+Diverjans Sistemi 14
+TraderBO Iraksama Sistemi için Para Yönetimi Kuralları 
+TraderBO Iraksama Sistemi için Ticaret Kuralları 15 
+Farklılıklara Bakış15
+Ticaret Fırsatlarını Bulma
+3
+4
+4
+5
+6
+7
+7
+9
+11
+11
+12
+14
+17
+Ticaret 1. MACD ve Stoch. ile 240 dakikalık (4H) zaman diliminde düşüş eğilimine 
+giriş, yükseliş eğilimine ilişkin çıkış, RSI ve %R teknolojisi aracılığıyla 60 dakikalık 
+(1H) zaman diliminde onay. göstergeler. 17
+Ticaret 2-3. Önceki işlemin kapanışında giriş, MACD ve Stoch. ile 240 dakikalık 
+(4H) zaman diliminde düşüş eğiliminden çıkış, RSI ve %R teknolojisi aracılığıyla 
+60 dakikalık (1H) zaman diliminde onay. göstergeler. 20
+Ticaret 3-4. Yükseliş farklılığından çıkış, MACD ve Stoch. ile 240 dakikalık (4H) 
+zaman diliminde yükseliş farklılaşmasına giriş, RSI ve %R teknolojisi aracılığıyla 
+60 dakikalık (1H) zaman diliminde onay. göstergeler. 22
+Ticaret 4-5. Düşüş eğiliminden çıkış, MACD ve Stoch. ile 240 dakikalık (4H) 
+zaman diliminde düşüş eğilimine giriş, RSI ve %R teknolojisi aracılığıyla 60 
+dakikalık (1H) zaman diliminde onay. göstergeler. 27
+Ticaret 5. RSI ve %R teknolojisi aracılığıyla 60 dakikalık (1H) zaman diliminde yükseliş 
+uyumsuzluğundan çıkış. göstergeler. 240 dakikalık (4H) zaman diliminde trend çizgisine 
+dokunuyor ve 240 dakikalık Stoch onayı veriliyor. 29
+Hesaplama 1 (pip) 31 
+İşlemler32
+Hesaplama 2 (para)32
+Hesaplama 3 (pozisyonların boyutunun 
+arttırılması) Sonuç 34
+“5Emas-Forex-Sistemi”ne Giriş Ek:
+(Ticaret Hesabı Parasına Dokunmadan Ekstra Para Nasıl Kazanılır)
+33
+35
+42
+2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Önsöz
+Farklılıkların birkaç türü vardır. Klasik Iraksaklık cevheri, Üçlü Iraksaklık ve Seri Iraksama olarak 
+adlandırılır. Ayrıca Gizli Farklılık ve Piyasalar Arası Farklılıklar da vardır ancak ticaret 
+sistemimizde kullanılmayacakları için bu tür Farklılıkları bu kitapta ele almayacağız. Ayrıca 
+Farklılıklar yükseliş ve düşüş yönlü olanlara bölünmüştür.
+Sapma, bir menkul kıymetin fiyatının teknik bir göstergenin değerinden sapması durumunda 
+mevcut eğilimin sonunun yakın olabileceğinin bir göstergesidir. Bir teknik gösterge yeni 
+zirveler yaparken fiyatlar yeni zirvelere ulaşamadığında yükseliş eğilimi ortaya çıkar. Fiyatlar 
+yeni dip seviyelere ulaşamazken teknik gösterge yeni dip seviyelere ulaştığında düşüş eğilimi 
+ortaya çıkar. Bu farklılıkların her ikisi de göreceli olarak aşırı alım/aşırı satım seviyelerinde 
+meydana geldiğinde en belirgin hale gelir.
+Klasik Farklılık
+Klasik Diverjans, bir menkul kıymetin fiyatının teknik bir göstergenin değerinden iki veya üç 
+kez sapmasıdır. Örneğin, bir menkul kıymetin fiyatı iki veya üç (Üçlü Diverjans – en sık görülen 
+ıraksama) yeni zirveler yaparken, fiyatlar yeni zirvelere ulaşamaz.
+Seri Iraksama
+Yukarıda açıklananla aynı farklılıktır ancak bu tür bir farklılık, teknik bir göstergenin yüksek 
+cevher düşükleri tarafından onaylanmayan iki veya üçten fazla yüksek cevher düşüklüğüne 
+neden olur. Hatta 7 cevheri daha yüksek cevheri düşürebilecek Seri Farklılıklar bile var.
+Bu kitap, çok karlı ticaret için farklılıkların doğru şekilde kullanılmasına adanmıştır.
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Sistemde Kullanılan Teknik Göstergelerin 
+Açıklaması
+Burada sistemimizde kullanılan teknik göstergeleri açıklayacağız.
+Destek ve Direnç
+Finansal araçların fiyatlarını, boğa (alıcı) ile ayı (satıcı) arasındaki kafa kafaya mücadelenin 
+sonucu olarak düşünün. Boğalar fiyatları yükseltir, ayılar ise düşürür. Fiyatların gerçekte 
+hareket ettiği yön, savaşı kimin kazandığını gösterir.
+Yassı cevher Yan Trendi
+Yukarı Trend
+4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Aşağı Trend
+Destek, boğaların (yani alıcıların) fiyatlar üzerinde kontrol sahibi olduğu ve fiyatların 
+düşmesini önlediği seviyedir.
+Direnç ise satıcıların (ayıların) fiyatları kontrol altına alıp daha yüksek yükselişlerini 
+engelledikleri noktadır. Bir ticaretin gerçekleştiği fiyat, boğa ve ayının iş yapmak için 
+anlaştıkları fiyattır. Beklentilerinin fikir birliğini temsil eder.
+Destek seviyeleri, yatırımcıların çoğunun fiyatların yükseleceğine inandığı fiyatı gösterir. Direnç 
+seviyeleri, yatırımcıların çoğunun fiyatların düşeceğini düşündüğü fiyatı gösterir.
+Ancak yatırımcıların beklentileri zamanla değişir ve çoğu zaman bu durum aniden değişir. 
+Destek ve direnç seviyelerinin gelişimi muhtemelen fiyat grafiklerinde en çok dikkat çeken ve 
+tekrarlanan olaydır. Destek/direnç seviyelerinin kırılması, yatırımcının beklentilerinin üstünde 
+veya altında olan temel değişikliklerle (örneğin, kazançlardaki, yönetimdeki, rekabetteki vb. 
+değişiklikler) veya kendi kendini gerçekleştiren kehanetlerle (yatırımcılar fiyatların yükseldiğini 
+gördükçe satın alır) tetiklenebilir. Sebep, sonuç kadar önemli değil: Yeni beklentiler yeni fiyat 
+seviyelerine yol açıyor. Daha duygusal olan destek/direnç seviyeleri vardır.
+Arz ve talep
+Destek ve dirençte gizemli bir şey yoktur: klasik arz ve taleptir. 'Econ 101' sınıfını hatırlayarak 
+arz/talep çizgileri, belirli bir fiyatta arz ve talebin ne olacağını gösterir.
+Tedarik satırı, satıcıların belirli bir fiyattan arz etmeye hazır oldukları miktarı (yani hisse 
+sayısını) gösterir. Fiyatlar arttığında, daha fazla yatırımcı bu yüksek fiyatlardan satış yapmak 
+istediğinden satıcı miktarı da artar. Talep çizgisi, alıcıların belirli bir fiyattan satın almak 
+istedikleri hisse sayısını gösterir.
+5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Fiyatlar alıcı miktarını artırdığında, aynı zamanda yatırımcıların daha yüksek fiyatlardan 
+satın almaya istekli oldukları miktar da azalır.
+Herhangi bir fiyatta arz/talep grafiği kaç tane alıcı ve satıcının olduğunu gösterir. Serbest piyasada 
+bu çizgiler sürekli değişmektedir. Yatırımcının beklentileri değişir, alıcı ve satıcıların kabul edilebilir 
+olduğunu düşündükleri fiyatlar da değişir. Direnç seviyesinin üzerinde bir kırılma, daha fazla 
+alıcının daha yüksek fiyatlardan satın almaya istekli hale gelmesiyle talep hattında yukarı doğru bir 
+kaymanın kanıtıdır. Benzer şekilde bir destek seviyesinin başarısız olması da tedarik hattının aşağı 
+doğru kaydığını gösteriyor.
+Çoğu teknik analiz aracının temeli arz ve talep kavramına dayanmaktadır. Finansal araçların 
+fiyat tabloları bize bu güçlerin işleyişine dair muhteşem bir görüş sağlıyor.
+Esnafın pişmanlığı
+Bir destek/direnç seviyesi kırıldıktan sonra yatırımcıların kendilerine yeni fiyatların gerçekleri 
+ne ölçüde temsil ettiğini sorması yaygındır. Örneğin, direnç seviyesinin üzerinde bir 
+kırılmanın ardından alıcılar ve satıcılar yeni fiyatın geçerliliğini sorgulayabilir ve satış yapmaya 
+karar verebilir. Bu, "tüccarların pişmanlığı" olarak adlandırılan bir olguyu yaratır: fiyatlar, bir 
+fiyat kırılmasının ardından destek/direnç seviyesine geri döner.
+Bu pişmanlık döneminin ardından fiyat hareketi çok önemli. İki şeyden biri gerçekleşebilir: Ya 
+yeni fiyatın garanti edilmediği yönünde beklentiler üzerinde fikir birliğine varılır ve bu 
+durumda fiyatlar önceki seviyelerine geri döner; Veya yatırımcılar yeni fiyatı kabul edecek ve 
+bu durumda fiyatlar kırılma yönünde hareket etmeye devam edecektir.
+Birinci durumda, yatırımcıların pişmanlığının ardından beklentiler arasında yeni bir yüksek fiyatın 
+garanti edilmediği ve klasik bir "boğa tuzağı" (ya da yanlış çıkış) yaratıldığı yönünde görüş birliği 
+oluştu. Örneğin, fiyatlar belirli bir direnç seviyesini aştı (fiyatların daha yüksek hareket etmesini 
+bekleyen bir boğa sürüsünü cezbetti) ve ardından fiyatlar direnç seviyesinin altına geriledi ve 
+boğalar aşırı fiyatlı hisse senetlerini elinde tuttu. Benzer duygu bir ayı tuzağı yaratır. Fiyatlar, 
+ayıların satış yapmasına (veya açığa satış yapmasına) yetecek kadar uzun bir destek seviyesinin 
+altına düşer ve ardından destek seviyesinin üzerine geri dönerek ayıları piyasanın dışında bırakır.
+Yatırımcıların pişmanlığının ardından yaşanabilecek diğer bir şey ise yatırımcıların 
+beklentilerinin değişmesi ve yeni fiyatın kabul edilmesidir. Bu durumda fiyatlar nüfuz yönünde 
+hareket etmeye devam edecektir.
+Bir kırılmanın ardından beklentileri ölçmenin iyi bir yolu, fiyattaki kırılmayla ilişkili hacimdir. 
+Fiyatların büyük bir hacim artışıyla destek/direnç seviyesini aşması ve trader'ların pişmanlık 
+döneminin nispeten düşük hacimde olması, yeni beklentilerin hakim olacağına işaret ediyor 
+(yatırımcıların az bir kısmı pişmanlık duyuyor).
+6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Tersine, eğer kırılma ılımlı bir hacimdeyse ve "pişmanlık" dönemi artan hacimdeyse, bu, çok 
+az sayıda yatırımcı beklentisinin değiştiği ve orijinal beklentilere (yani orijinal fiyatlara) 
+dönüşün garanti edildiği anlamına gelir.
+Direnç desteğe dönüşüyor
+Bir fiyat tarafından bir direnç seviyesi başarılı bir şekilde kırıldığında bu seviye bir destek 
+seviyesi haline gelir. Benzer şekilde bir destek seviyesi başarıyla kırıldığında bu seviye 
+bir direnç seviyesine dönüşür.
+Bunun nedeni, fiyatlar düşükken satın almayı reddeden yeni bir boğa "jenerasyonunun" ortaya 
+çıkmasıdır. Artık fiyatların önceki seviyeye döndüğü herhangi bir zamanda alım yapma kaygısı 
+taşıyorlar. Benzer şekilde, fiyatlar bir destek seviyesinin altına düştüğünde, bu seviye genellikle 
+fiyatların aşmakta zorlanacağı bir direnç seviyesine dönüşür. Fiyatlar önceki destek seviyesine 
+yaklaştığında yatırımcılar satış yaparak kayıplarını sınırlamaya çalışırlar.
+(MACD) Hareketli Ortalama Yakınsama/Uzaklaşma
+MACD
+MACD, geniş çaplı ticaret piyasalarında en etkili olduğunu kanıtlıyor. Hareketli Ortalama 
+Yakınsama/Uzaklaşmayı kullanmanın üç popüler yolu vardır: geçişler, aşırı alım/aşırı satım 
+koşulları ve sapmalar.
+7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Geçitler
+Temel MACD ticaret kuralı, MACD sinyal çizgisinin altına düştüğünde satış yapmaktır. Benzer 
+şekilde, Hareketli Ortalama Yakınsama/Uzaklaşma sinyal çizgisinin üzerine çıktığında bir 
+satın alma sinyali oluşur. MACD sıfırın üstüne/altına düştüğünde alım/satım yapmak da 
+popülerdir.
+8
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Aşırı alım/aşırı satış koşulları
+MACD aynı zamanda aşırı alım/aşırı satım göstergesi olarak da kullanışlıdır. Daha kısa hareketli 
+ortalama, daha uzun hareketli ortalamadan önemli ölçüde uzaklaştığında (yani MACD 
+yükseldiğinde), muhtemelen menkul kıymet fiyatı aşırı genişliyor ve yakında daha gerçekçi 
+seviyelere dönecek.
+9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+uyuşmazlık
+MACD güvenlikten uzaklaştığında mevcut trendin sonunun yakın olabileceğine dair bir 
+gösterge ortaya çıkar. Hareketli Ortalama Yakınsama/Uzaklaşma göstergesi yeni zirveler 
+yaparken fiyatlar yeni zirvelere ulaşamadığında yükseliş eğilimi ortaya çıkar. MACD yeni dip 
+seviyelere ulaşırken fiyatlar yeni dip seviyelere ulaşamadığında düşüş eğilimi ortaya çıkar. Bu 
+farklılıkların her ikisi de göreceli olarak aşırı alım/aşırı satım seviyelerinde meydana 
+geldiğinde en belirgin hale gelir.
+MACD'yi aşağıdakiler için kullanacağız:
+!
+!
+döviz çiftinin fiyatı ile farklılık bulma, bir ticari 
+pozisyon açılmasına yönelik bir uyarı göstergesi
+10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Stokastik Osilatör
+Stokastik Osilatör
+Stokastik Osilatör Teknik Göstergesi, bir menkul kıymetin fiyatının belirli bir zaman diliminde 
+fiyat aralığına göre nerede kapandığını karşılaştırır. Stokastik Osilatör iki satır olarak 
+görüntülenir. Ana hatta %K denir. %D olarak adlandırılan ikinci satır, %K'nın Hareketli 
+Ortalamasıdır. %K çizgisi genellikle düz bir çizgi olarak görüntülenir ve %D çizgisi genellikle 
+noktalı bir çizgi olarak görüntülenir.
+Stokastik Osilatörü yorumlamanın birkaç yolu vardır. Üç popüler yöntem şunları içerir:
+!Osilatör (%K veya %D) belirli bir seviyenin altına düştüğünde satın alın
+(örneğin, 20) ve sonra bu seviyenin üzerine çıkar. Osilatör belirli bir seviyenin (örn. 80) 
+üzerine çıktığında ve ardından bu seviyenin altına düştüğünde satış yapın;
+! %K çizgisi %D çizgisinin üzerine çıktığında satın alın ve %K çizgisi %D çizgisinin altına 
+düştüğünde satış yapın;
+! Farklılıkları arayın. Örneğin: fiyatların bir dizi yeni zirve yaptığı ve Stokastik 
+Osilatörün önceki yüksek seviyelerini geçemediği durumlar.
+Stokastik Osilatörü aşağıdakiler için kullanacağız:
+!
+!
+döviz çiftinin fiyatı ile farklılık bulma, bir ticari 
+pozisyon açılmasına yönelik bir uyarı göstergesi
+(RSI) Göreceli Güç Endeksi Teknik Gösterge
+Göreceli Güç Endeksi
+11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Göreceli Güç Endeksi Teknik Göstergesi (RSI), 0 ile 100 arasında değişen, fiyatı takip eden bir 
+osilatördür. Wilder, Göreceli Güç Endeksi'ni tanıttığında, 14 günlük bir RSI kullanılmasını 
+önermişti. O tarihten bu yana, 9 günlük ve 25- Günün Göreceli Güç Endeksi göstergeleri de 
+popülerlik kazandı.
+RSI'yi analiz etmenin popüler bir yöntemi, menkul kıymetin yeni bir zirveye ulaştığı ancak 
+RSI'nın önceki yüksek seviyesini geçemediği bir farklılık aramaktır. Bu farklılık yaklaşmakta 
+olan bir tersine dönüşün göstergesidir. Göreceli Güç Endeksi daha sonra düşüşe geçip en son 
+dip noktasının altına düştüğünde, bir "başarısızlık salınımını" tamamladığı söylenir. 
+Başarısızlık salınımı, yaklaşmakta olan geri dönüşün bir teyidi olarak değerlendiriliyor.
+Grafik analizi için Göreceli Güç Endeksi'ni kullanma yolları:
+! Üstler ve altlar
+Göreceli Güç Endeksi genellikle tepe noktası 70'in üzerinde ve dip noktası 30'un 
+altındadır. Genellikle bu tepe ve dipleri temel fiyat grafiğinden önce oluşturur;
+! Grafik Oluşumları
+RSI genellikle fiyat grafiğinde görünüp görünmeyebilecek baş ve omuzlar veya üçgenler 
+gibi grafik kalıpları oluşturur;
+! Başarısızlık salınımı (Destek veya Direnç nüfuzları veya kırılmaları)
+Bu, Göreceli Güç Endeksi'nin önceki bir yüksek seviyeyi (zirveyi) aştığı veya yakın zamandaki en düşük 
+seviyenin (dip) altına düştüğü yerdir;
+! Destek ve Direnç seviyeleri
+Göreceli Güç Endeksi, bazen fiyattan daha net bir şekilde destek ve direnç 
+seviyelerini gösterir.
+! Farklılıklar
+Yukarıda tartışıldığı gibi, fiyat, Göreceli Güç Endeksi'ndeki yeni bir yüksek (veya düşük) ile 
+onaylanmayan yeni bir yüksek (veya düşük) seviyeye ulaştığında farklılıklar ortaya çıkar. 
+Fiyatlar genellikle doğru olur ve RSI yönünde hareket eder.
+İşlemlere giriş ve çıkışlar için ikinci doğrulayıcı gösterge olarak Göreceli Güç Endeksi'ni 
+kullanacağız.
+Williams'ın Yüzde Aralığı Teknik Göstergesi (%R)
+Williams'ın Yüzde Aralığı
+12
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Williams'ın Yüzde Aralığı Teknik Göstergesi (%R), piyasanın aşırı alım/aşırı satım olup 
+olmadığını belirleyen dinamik bir teknik göstergedir. Williams'ın %R'si Stokastik Osilatöre çok 
+benzer. Tek fark, %R'nin ters bir ölçeğe sahip olması ve Stokastik Osilatörün dahili 
+yumuşatmaya sahip olmasıdır.
+Göstergeyi bu şekilde baş aşağı göstermek için Williams Yüzde Aralığı değerlerinin önüne bir 
+eksi simgesi yerleştirilir (örneğin -%30). Analiz yapılırken eksi sembolü göz ardı edilmelidir.
+%80 ile 100 arasında değişen gösterge değerleri piyasanın aşırı satıma işaret ettiğini 
+göstermektedir. %0 ile %20 arasında değişen gösterge değerleri piyasanın aşırı alımda olduğunu 
+gösterir.
+Tüm aşırı alım/aşırı satım göstergelerinde olduğu gibi, işlemlerinizi yapmadan önce menkul 
+kıymet fiyatının yön değiştirmesini beklemek en iyisidir. Örneğin, eğer bir
+Aşırı alım/aşırı satım göstergesi aşırı alım durumunu gösteriyorsa, menkul kıymeti satmadan önce 
+menkul kıymetin fiyatının düşmesini beklemek akıllıca olacaktır.
+Williams Yüzde Aralığı göstergesinin ilginç bir olgusu, dayanak varlığın fiyatında bir tersine 
+dönüşü öngörme konusundaki esrarengiz yeteneğidir. Gösterge neredeyse her zaman bir zirve 
+oluşturur ve menkul kıymetin fiyatının zirveye çıkıp düşmesinden birkaç gün önce düşer. Benzer 
+şekilde, Williams Yüzde Aralığı da genellikle bir çukur oluşturur ve menkul kıymetin fiyatının 
+yükselmesinden birkaç gün önce ortaya çıkar.
+Aşırı alım/aşırı satış göstergesi olarak Williams'ın Yüzde Aralığını kullanacağız; bu, ilgili para 
+biriminin aşırı alım/aşırı satış seviyelerini teyit edecek.
+13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+TraderBO Iraksaklık Sistemi
+Рис
+Verilen ticaret sistemi, farklılıklarla doğru ve karlı ticaret için bir dizi düzeltilmiş ticaret 
+kuralını temsil eder.
+TraderBO Iraksama Sistemi için Para Yönetimi Kuralları
+Dikkat!
+Aşağıda belirtilen Para Yönetimi Kuralları yalnızca sisteme yöneliktir.TraderBO Iraksaklık Sistemi.
+Verilen kuralların diğer ticaret sistemleriyle kullanılması, mevduat hesabında haksız fon kayıplarına 
+yol açabilir.
+TraderBO Iraksama Sistemi, açılan pozisyonların bir sonraki güne veya daha sonraki 
+günlere taşınmasıyla kısa vadeli işlemler için tasarlanmıştır.
+Zararı Durdur Emirleri için 60-100 pip arasındaki seviyeyi kullanmanızı öneririm.
+Şimdi ticaret kurallarını çok ayrıntılı olarak ele alacağız.TraderBO Iraksaklık Sistemi.
+14
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+TraderBO Iraksama Sistemi için Ticaret Kuralları
+Tek bir ana kural vardır; bir ıraksaklıktan girmek, karşı ıraksaklıktan çıkmak. Boğa 
+Divergence'de bir işleme girerseniz, Ayı Divergence'de bu ticaretten çıkmalı ve aynı anda karşı 
+pozisyon açmalısınız.
+Farklılıklara bakmak
+İlk önce bir farklılık bulmamız gerekiyor.MACD Teknik Göstergesibundan sonra bulunan 
+farklılığı onaylamalıyızStokastik Osilatör Teknik Göstergesi.
+Bu amaçla iki zaman dilimi kullanacağız: 240 dakika. (4H) ve 60 dk. (1H).
+240 dk. farklılıklara bakmak içindir ve 60 dakikadır. Ticaret uyarılarının onaylanması için.
+Hareketli Ortalama Yakınsama/Uzaklaşma (MACD)
+İki tür farklılık vardır -Yükseliş farklılığıVeAyı sapması.
+Boğa Farkı
+Hareketli Ortalama Yakınsama/Uzaklaşma göstergesi yeni zirveler yaparken fiyatlar yeni 
+zirvelere ulaşamadığında yükseliş eğilimi ortaya çıkar.
+Ayı Sapması
+MACD yeni dip seviyelere ulaşırken fiyatlar yeni dip seviyelere ulaşamadığında düşüş eğilimi ortaya 
+çıkar. Bu farklılıkların her ikisi de göreceli olarak aşırı alım/aşırı satım seviyelerinde meydana 
+geldiğinde en belirgin hale gelir.
+15
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Aşağıdaki grafiğin bölümlerini ele alalım (iki bölüme ayrılmıştır). 19 Ağustos 2005'ten 29 
+Eylül 2005'e kadar olan dönemi ele alacağız.
+Bu grafik, tanımlanan zaman periyodunun ilk bölümünü temsil eder.
+Bu grafik, tanımlanan zaman periyodunun ikinci bölümünü temsil eder.
+16
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Şimdi bu grafiklerde hangi ticaret fırsatlarını bulabileceğimize bakalım.
+Ticaret fırsatlarını bulmak
+Öncelikle MACD ve Stoch yardımıyla farklılıkları bulmalıyız. Daha sonra RSI ve %R teknolojisi ile 
+giriş/çıkış noktalarını teyit etmeliyiz. göstergeler.
+İşlem 1. MACD ve Stoch. ile 240 dakikalık (4H) zaman diliminde düşüş 
+eğilimine giriş, yükseliş eğilimine ilişkin çıkış, RSI ve %R teknolojisi 
+aracılığıyla 60 dakikalık (1H) zaman diliminde onay. göstergeler.
+Ticarete girin 1
+İlk grafiğin ilk bölümünü alın
+Sol taraftaki grafikte ne görüyoruz? Yüksek görüyoruz (1,2770)[işaretleyici 1]. Bu yükselişin 
+ardından fiyatın düşebileceğine karar verebiliriz. Evet öyle! Fiyat düşüyor ancak MACD pozitif 
+kalıyor[işaretleyici 2]. Bu, fiyatın trend yönüne doğru, en azından (1,2770) yukarıya doğru 
+dönüşünü bekleyebileceğimiz anlamına geliyor. Bu nedenle (1,2770) fiyatına sesli uyarı 
+ayarladık. 2005.08.24 sesli uyarımız bize ses sinyalini verdi. Üstelik o zamana kadar MACD ve 
+Stoch'ta düşüş eğilimi görüyoruz.[İşaretleyiciler
+17
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+3, 3.1]. Bu bizim işimize yaramayacak. Uyarıyı 60 dakikalık zaman diliminde RSI ve %R 
+teknolojisiyle onaylamalıyız. göstergeler. Tamam! %R -20'den yüksek, RSI 70'ten yüksek [
+işaretçiler 4, 4.1]. Kısa pozisyon açmak çok iyi bir fırsat ve biz de bunu yaptık.
+Girişimizin ardından çok güçlü bir düşüş hareketi yaşandı. Şimdi yükseliş eğilimini 
+beklememiz, işlemimizi kapatmamız ve ters pozisyon açmamız gerekiyor.
+Ticaretten çık 1
+Ticaretten çıkıp karşı pozisyon açma fırsatı aranıyor.
+Not:
+Bu grafik bir öncekinin devamıdır.
+Sol taraftaki grafikte ne görüyoruz? Düşük görüyoruz (1,2536)[işaretleyici 1]. Bu düşük 
+seviyenin ardından fiyatın yükselebileceğine karar verebiliriz. Evet öyle! Fiyat artıyor ancak 
+MACD negatif kalıyor[işaretleyici 2]. Bu, fiyatın trend yönüne doğru, en azından (1,2536)'ya 
+doğru geri dönüşünü bekleyebileceğimiz anlamına geliyor. Bu nedenle (1,2536) fiyatına sesli 
+uyarı ayarladık. 26.08.2005 sesli uyarımız bize ses sinyalini verdi [işaretleyici 3]. Şu anda 
+MACD'de yükseliş eğilimi görmüyoruz ancak Stoch'ta güçlü yükseliş eğilimi görüyoruz.[
+işaretleyici 4]. Bu bizim işimize yaramayacak. RSI ve %R teknolojisi ile 60 dakikalık zaman 
+diliminde neler olup bittiğini kontrol etmeliyiz. göstergeler. Tamam! %R -80'den düşük ancak 
+RSI 30'dan yüksek[işaretçiler 5, 5.1]. Elbette önceki pozisyonu kapatıp yeni bir pozisyon 
+açmak oldukça iyi bir ticaret fırsatıdır.
+18
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+uzun pozisyon (bizim durumumuzda ters pozisyon) ancak bunu şu ana kadar yapmıyoruz. MACD'nin 
+Stoch gibi yükseliş uyumsuzluğuyla karşılaşıncaya kadar beklememiz gerekiyor. yapmak. İlginç olan şu 
+ki, 60 dakikalık zaman diliminde seri sapmalarla karşılaştık.
+Not:
+Bu durumda açık (kısa) pozisyonu kapatabilirsiniz ancak uzun pozisyon açmak için biraz beklemek 
+daha iyi olacaktır çünkü seri ıraksamanın sonunu tanımlamak oldukça zordur. Ama her şey sana 
+bağlı.
+29.08.2005 tarihinde 3 gün bekledikten sonra işlem fırsatıyla karşılaştık. Şimdi MACD'de 
+yükseliş eğilimi görüyoruz[işaretleyici 6]. %R -100'den düşük, RSI 32 ama fiyatın son düşük 
+seviyesinden yüksek[işaretleyiciler 7, 7.1]. Açılan pozisyonu kapatmak ve aynı anda uzun 
+pozisyon açmak çok iyi bir fırsat. Maalesef 3 gündür bekliyorduk ama sadece 26 pip 
+kazanabildik. Ne diyebilirim – pazar pazardır☺.En azından iki kez sigortalı olmak için biraz 
+beklemek her zaman daha iyidir diye düşünüyorum.
+Girişimizin ardından çok güçlü bir yükseliş hareketi oluştu. Şimdi düşüş eğilimini 
+beklememiz, işlemimizi kapatmamız ve ters pozisyon açmamız gerekiyor.
+19
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Ticaret 2-3. Önceki işlemin kapanışında giriş, MACD ve Stoch. ile 240 
+dakikalık (4H) zaman diliminde düşüş eğiliminden çıkış, RSI ve %R 
+teknolojisi aracılığıyla 60 dakikalık (1H) zaman diliminde onay. 
+göstergeler.
+Ticarete girin 2
+Bu durumda çıkış noktasının bir sonraki işlem için giriş noktası olarak kullanıldığı zaten 
+açıktır. Ve böylece, piyasaya önceki pozisyonun kapanma fiyatından giriyoruz.
+Ticaretten çıkış 2 ve Ticarete giriş 3
+Çok ilginç bir durum!
+Bu saatte ne alıyoruz? Yüksek görüyoruz (1,2686)[işaretleyici 1]. Bu yükselişin ardından fiyatın 
+düşebileceğine karar verebiliriz. Evet öyle! Fiyat düşüyor ve MACD hala negatif kalıyor[
+işaretleyici 2]. Bu, fiyatın daha sonraki davranışlarının gelişmesini beklememiz gerektiği 
+anlamına geliyor! Ancak her zaman olduğu gibi yüksek fiyatta (1,2686) sesli uyarı ayarlıyoruz. 
+30.08.2005 sesli uyarımız bize ses sinyalini verdi [işaretleyici 3]
+20
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Ayrıca MACD'de herhangi bir düşüş eğilimi görmüyoruz. Stoch'un yalnızca maksimum değeri 
+vardır.[işaretleyici 4]. Bu bizim işimize yaramayacak. RSI ve %R teknolojisi ile 60 dakikalık 
+zaman diliminde neler olup bittiğini kontrol etmeliyiz. göstergeler. Tamam! %R -20'den 
+yüksek, RSI 70'ten yüksek[işaretçiler 5, 5.1].
+Not:
+%R ve RSI olmasına rağmen[işaretçiler 5, 5.1]Maksimum değerlere sahip olan seviyemiz (1,2686) 
+kırıldı[işaretleyici 6]. Üstelik (1,2686) seviyesini kıran saat mum çubuğu bu seviyenin üzerinde 
+kapanmıştı. Ve sonraki saat mum çubuğu daha da yükseldi. Yükseliş trendinin sürekliliğine giden 
+yolu işaret ediyor.
+Bunun çok zor bir durum olduğunu anladığınızı düşünüyorum. Bu nedenle uzun 
+pozisyonumuzu kapatmak daha iyi olur ve biz de bunu yaptık. Ancak aynı zamanda şu ana 
+kadar ters (kısa) pozisyon açmayacağız (yukarıdaki nota bakınız). Biraz beklemek daha iyidir. En 
+azından %R'ye kadar beklemeliyiz ve RSI bir kez daha maksimum değerleri gösterecektir.
+Aynı tarih 2005.08.30 iki saat sonra düşüş mumu aldık[işaretleyici 7]. %R ve RSI maksimum 
+değerleri gösterdi[işaretleyiciler 8, 8.1]. Üstelik MACD'de düşüş eğilimiyle karşılaştık[
+işaretleyici 9]ve fiyatın arttığını ancak RSI'nın artmadığını belirtti [işaretleyici 10]. Artık kısa 
+pozisyona girme fırsatımız var ve bunu da yaptık.
+Girişimizin ardından çok güçlü bir düşüş hareketi yaşandı. Şimdi yükseliş eğilimini 
+beklememiz, işlemimizi kapatmamız ve ters pozisyon açmamız gerekiyor.
+21
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Zaten yapılan işlemler
+Ticaret 3-4. Yükseliş farklılığından çıkış, MACD ve Stoch. ile 240 
+dakikalık (4H) zaman diliminde yükseliş farklılaşmasına giriş, RSI ve %R 
+teknolojisi aracılığıyla 60 dakikalık (1H) zaman diliminde onay. 
+göstergeler.
+Ticaretten çıkış 3 ve Ticarete giriş 4
+3. işlemden çıkıp karşı pozisyon açma fırsatı aranıyor.
+22
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Not:
+Bu grafik bir öncekinin devamıdır.
+Yukarıdaki grafikte ne görüyoruz? Düşük görüyoruz (1,2247)[işaretleyici 1]. Bu düşük seviyenin 
+ardından fiyatın yükselebileceğine karar verebiliriz. Evet öyle! Fiyat artıyor ancak MACD negatif 
+kalıyor[işaretleyici 2]. Bu, fiyatın trend yönünün yanına, en azından (1,2247)'ye doğru geri 
+dönüşünü bekleyebileceğimiz anlamına geliyor. Bu nedenle (1,2247) fiyatına sesli uyarı 
+ayarladık. 09.05.2005 sesli uyarımız bize ses sinyalini verdi[işaretleyici 3]. Ne yazık ki şu ana 
+kadar MACD'de yükseliş eğilimi göremedik ancak Stoch'ta güçlü yükseliş eğilimi görüyoruz.[
+işaretleyici 4]. Bu bizim işimize yaramayacak. RSI ve %R teknolojisi ile 60 dakikalık zaman 
+diliminde neler olduğunu öğrenmeliyiz. göstergeler. Tamam! %R -100'den düşük, RSI 30'dan 
+düşük[işaretçiler 5, 5.1]. Kısa pozisyonumuzu kapatmak için çok iyi bir fırsat ve bunu da 
+başardık. Aynı zamanda ters (uzun) pozisyon açacağız. Şimdi nedenini açıklayacağım. (1.2247) 
+seviyesini kıran saat mumu seviyeyi düşürmedi[işaretleyici 6] ve sonraki saat mum çubuğu 
+daha da yükseldi. Düşüş trendinin tersine çevrilmesinin yolunu gösteriyor. Üstelik 60 dakikalık 
+zaman diliminde hem %R hem de RSI'da çok belirgin yükseliş farklılıkları görebiliriz.[
+işaretleyiciler 7, 7.1]. Ticaret uyarısını artırır. Bu nedenle uzun pozisyon açıyoruz.
+Artık ticaret 4 açık!
+23
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Girişimizin ardından çok güçlü bir yükseliş hareketi oluştu. Şimdi düşüş eğilimini 
+beklememiz, işlemimizi kapatmamız ve ters pozisyon açmamız gerekiyor.
+Trade 4 bu kılavuzdaki en karlı olanıdır! 1.2262'den 1.2809'a kadar sürer. Bu, 15 gün 
+boyunca 547 pip anlamına geliyor.
+Yukarıdaki görseli kullanarak ticaret 4'ü ele alalım.BBu işlem örneğinde, işlemden çok 
+erken ayrılmaya izin vermeyen bir tekniği ele alacağız (bu teknikte önemli bir sır 
+yoktur. Ancak bu sır,5emas-forex-sistemi İstediğiniz zaman satın alabileceğiniz☺).
+Not:
+Gördüğünüz gibi varHAYIRŞu ana kadar grafikteki göstergeler. Bu özel olarak hizmetçidir.
+Ve böylece zaten pazardayız. Çok güçlü bir yükseliş eğiliminin geliştiği aşikar. Ayrıca bir dizi 
+yüksek seviye görüyoruz[işaretleyiciler 1, 2, 3, 4, 5]bunlar çıkış konumu için potansiyel 
+noktalardır. Şimdi teknik göstergeleri ekleyeceğiz ve bu sefer neden pozisyondan 
+çıkmayacağımızı anlayacağız.
+24
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Göstergeler ekleyerek piyasa davranışının daha net bir görüntüsünü elde ederiz. Ne 
+görüyoruz? Bu alandan başlayınçizelge. Evet, MACD negatif bölgede ancak yavaş MA sinyali 
+MA sinyalinin üzerinden geçti[işaretleyici 6]VeMA daha yüksek gelir. Üstelik şu anda 
+Stoch'la herhangi bir ayrılığımız yok. ve tabii ki MACD'de. Ayrıca Stoch'ta düşüş eğilimi 
+gösteren bir uyumsuzluk var.[işaretleyici 7].
+Birincisi, Stoch'taki bu düşüş eğilimi. çok küçük[işaretleyici 8]. İkincisi, yalnızca MACD üzerinde 
+herhangi bir ıraksamamız yok ve tam tersi, hızlı MA'sı sayesinde MACD'nin sıfır şeridinin 
+üzerinden geçiş alıyoruz.[işaretleyici 9](MACD'nin bu temsilindeki çubuklar) . Yükseliş 
+hareketinin devam ettiğini gösterir. Dahası Stoch'ta bir sonraki düşüş eğilimi ile karşılaştık.[
+işaretleyici 10]. Ancak yine de MACD'de düşüş yönünde bir uyumsuzluk görmüyoruz. Fiyat ile 
+MACD arasında fark yok[işaretleyici 11] gösterge. Bu şu anki konumumuzdan çıkmak için 
+henüz çok erken olduğu anlamına geliyor. Unutmayın, hem MACD hem de Stoch'ta ayrışmaları 
+beklemeliyiz. göstergeler. Her ne kadar MACD onayı olmadan Stoch'taki bu düşüş eğilimi bize 
+yaklaşık 100 pip verebilir (grafikteki koyu şarap çizgileri 1,2638, 1,2535). Biraz yazık amabir 
+ticareti kaçırmak para kaybetmekten daha iyidir.
+Şimdi diğer piyasa koşullarını daha net değerlendirme fırsatı yakalamak için diğer grafiğe 
+geçelim.
+25
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Şu ana kadar daha fazla piyasa davranışı 
+göremeyeceğimiz varsayılıyor.
+Şu ana kadar çok iyi bir yükseliş trendi gelişti ve halihazırda üç düşük seviyemiz olduğuna 
+göre, bir grafik çizebiliriz.eğilim çizgisi . İlk düşükten başlıyoruz[işaretleyici 1]ve üçüncüye 
+devam edelim[işaretleyici 2]. Lütfen, üç düşük seviyemiz olmasına rağmen, birinci ve 
+üçüncü düşükleri ana düşüşler olarak dikkate almamız gerektiğini unutmayın. Bu nedenle 
+ikinci düşük seviye (ki bu durumda üçüncü seviyenin altındadır) biraz düşer [işaretleyici 3]
+trend çizgimiz.
+Not:
+Sadece bu durumda daha fazla piyasa davranışını özel olarak kapattım. Çok yakında ne yaptığımı 
+anlayacaksın.
+O halde farklılıklarımıza geri dönelim. MACD'de yine düşüş eğilimi ile karşılaşıyoruz[
+işaretleyici 4].
+Ama bizde hiç yokStoch'ta görüş ayrılığı.. Hem trend çizgisi hem de MACD tarafından teyit 
+edilen çok güçlü bir yükseliş trendimiz var. Üstelik son düşüş henüz trend çizgisine gelmedi[
+işaretleyici 5]. MACD çok uzun süredir pozitif bölgede. Her şey pozisyonumuzu kapatmak 
+için henüz çok erken olduğunu gösteriyor.
+Bir sonraki grafik ve sayfaya geçelim…
+26
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Ve ancak şimdi her iki göstergede de düşüş eğilimi teyitiyle karşılaşıyoruz[işaretçiler 
+5, 5.1].
+Ticaret 4-5. Düşüş eğiliminden çıkış, MACD ve Stoch. ile 240 dakikalık 
+(4H) zaman diliminde düşüş eğilimine giriş, RSI ve %R teknolojisi 
+aracılığıyla 60 dakikalık (1H) zaman diliminde onay. göstergeler.
+Tabii ki, ticaret 4'ten çıkıp ticaret 5'e giriş yapmak en önemli durumdur.
+Ticaretten çıkış 4 ve Ticarete giriş 5
+Zaten 4. işlemden çıkma fırsatını bulduk ve elbette ters pozisyon açmanın da zamanı geldi.
+27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Ticaret 4'te fark edebileceğiniz gibi, uyarıların onaylanması için 60 dakikalık zaman dilimini 
+kullanmıyorduk. Amacım size belirli durumlarda onlarsız nasıl hareket edeceğinizi öğretmekti.
+Şimdi 60 dakikalık zaman dilimine bakalım.
+60 dakikalık zaman diliminde öngörebildiğimiz gibi, 4. işlemden çıkıp 5. işleme girme 
+kararımızın teyidi var - RSI'da düşüş eğilimi ve buna ek olarak RSI'nın maksimum değeri[
+işaretçiler 1, 1.1]. %R'de aşırı alım var[işaretleyici 2].
+Tamam! Kısa pozisyon açın (İşlem 5).
+28
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Ticaret 5. RSI ve %R teknolojisi aracılığıyla 60 dakikalık (1H) zaman 
+diliminde yükseliş sapmasından çıkın. göstergeler. 240 dakikalık (4H) 
+zaman diliminde trend çizgisine dokunuyor ve 240 dakikalık Stoch onayı 
+veriliyor.
+Farklılıkların olduğu işlemler devam ediyor ancak İşlem 5, bu kılavuzdaki son işlemimizdir. 
+Bundan sonra kesinlikle herhangi bir finansal piyasada farklılıklar bulabileceksiniz.
+Ve böylece son işlemimizi bitirelim.
+Trade 5 size pozisyondan çıkmanın/girmenin bir yöntemini daha gösterecek ve ticaret 
+cephaneliğinizi ek ticaret fırsatıyla doldurması gerekiyor. Gerçeği söylemek gerekirse bu 
+yöntem çok yaygındır. Sadece ticarete yeni başlayanlar bunu bilmeyebilir.
+İşlemi kapat 5
+Bu nedenle gelecekteki piyasa davranışını metin alanıyla gizledik - "Şu ana kadar başka 
+piyasa davranışı göremediğimiz varsayılıyor." Çünkü artık trend çizgimizin ne kadar doğru 
+boğulduğunu görebiliyoruz(bordo daire).
+29
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Bu çok zor
+ile fiyat
+trend çizgisi ama
+sadece 60 dakikada
+çizelge
+Ve böylece, trend çizgisiyle fiyatın sertleştiğini açıkça görüyoruz[işaretleyici 1]. Önemli değil! Ancak 
+fiyatın trend çizgisinin altına doğru düşmeye devam etmeyeceğinden nasıl emin olabiliriz? Bunun için her 
+zaman olduğu gibi onay için 60 dakikalık grafiğimize başvuracağız.
+60 dakikalık grafikte hem %R hem de RSI göstergelerinde düşüş eğilimi gösteren farklılıklar 
+görüyoruz [işaretçiler 2, 2.1].
+Üstelik 240 dakikalık grafikte Stoch'u aşırı sattık.[işaretleyici 3]ve MACD pozitif bölgede[
+işaretleyici 4].
+İşlem 5'i kapatıp, işlem 6'yı açabileceğimiz kesinlikle açıktır.
+Ve elbette bunu hiçbir endişe duymadan yapıyoruz.
+Girişimizden sonra çok güçlü bir yükseliş hareketi oluştu ve ticarete devam edebiliriz ancak 
+daha önce de söylediğim gibi 5. işlem bu kılavuzdaki son işlemdir.
+Artık bensiz ticarete devam edebilecek ve Trade 6'yı kapatabilecek kadar bilgi sahibi olduğunuzu 
+umuyorum, örneğin☺
+30
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Bana göre Trade 6'yı 1,2961 fiyat seviyesinde kapatırdım.
+Şimdi, el kitabımızı tamamlamak için bazı varsayımsal kâr hesaplamaları yapmayı 
+öneriyorum.
+Hesaplama 1 (pip)
+• 10000 $'lık ilk depozitomuz var ve mevcut depozitonun yalnızca %10'unu oynuyoruz. 
+Bu, artan pozisyon büyüklüğü ile ilk para yatırma işleminden kârın artmasına kadar 
+1000 $ anlamına gelir.
+• Mümkün olandan daha kötü fiyat seviyelerinden girip çıktığımızı varsayalım.
+Not
+Alpari Corp.'ta 1 standart lot (1000 $) için bir pip USD/CHF'nin değeri 10 CHF'dir. Diğer aracı 
+kurumlarda döviz pareleri için piplerin değeri farklı olabilir.
+Değişken döviz kurları için pip değeri şu şekilde hesaplanır:
+Kapanışta pip cinsinden kâr*10 CHF/Döviz kuru.
+Örneğin:
+Burada ilk işlemimizde kârımızı İsviçre frangı cinsinden (bir lot için) ve kârımızı ABD doları 
+cinsinden hesaplayacağız.
+Giriş Ticareti 11.2770Ticaretten Çık 11.2536
+İlk işlemimizin kapanış fiyatı 1,2536'dır. Hariç:
+1.2770-1.2536=234 pip – pip cinsinden kârımızdır. Sonraki:
+234 pip*10 CHF=2340 CHF – İsviçre frangı cinsinden kârımızdır
+2340 CHF/1.2536 (işlem son kuru)=1866,62 USD
+Not
+1 standart lot (1000$) için USD/CHF para birimi cinsinden bir pipin değerini öğrenmek istiyorsanız, 
+10 CHF'yi mevcut USD/CHF döviz kuruna bölmeniz yeterlidir. Bizim durumumuzda 10 CHF/
+1.2536=7.97 USD
+31
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+İşlemler
+Giriş Ticareti 11.2770Ticaretten Çık 11.2536ve Giriş Ticareti 21.2536
+1 - 234 pip karla işlem yapın
+Ticaretten Çık 21.2686Giriş Ticareti 31.2686ve Ticaretten Çıkış 31.2247
+2 - 150 pip karla işlem yapın
+3 - 439 pip kârla işlem yapın
+Giriş Ticareti 41.2247Ticaretten Çık 41.2811ve Giriş Ticareti 51.2811
+4 - 564 pip kârla işlem yapın
+Ticaretten Çık 51.2654Giriş Ticareti 61.2654
+5 - 157 pip karla işlem yapın
+Ticaretten Çık 61.2961
+6 - 307 pip karla işlem yapın
+1851 pip6 işlemden kâr elde etti2008.08.19ile2008.09.26. İçin39 gün.
+Eğer daha iyi seviyelerde girip çıkıyor olsaydınız kârınız şundan daha fazla olurdu:2000 pip.
+Hesaplama 2 (para)
+Yani USD/CHF'nin bir pipinin değeri 10 CHF'dir.
+Not:
+USD/CHF piplerinin değeri değişkendir; dolayısıyla nihai değer döviz kurunun kapanış fiyatına 
+bağlıdır.
+Örneğin, sabit olsaydı ve maliyeti 8$ olsaydı,39 günmuhtemel$14808
+32
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Hesaplama 3 (pozisyonların boyutunun arttırılması)
+Bak lütfen! Potansiyel kârımız artarsa   pozisyonların boyutunu artırabiliriz.
+DolayıPara Yönetimi Kurallarıkullanırız%10bir işlem için cari depozito. Bu durumda ne elde 
+ederiz? Tamam!
+İlk işlemimiz bize 234 pip kazandırdı. 1867 dolar. Bu, ikinci işlemimizde daha büyük bir pozisyon 
+kullanabileceğimiz anlamına geliyor.
+(10000$+1867$)/10=1187$ yani 1,20 lot
+Bu şekilde Trade 2 bize, eğer bir standart lot (1000$) oynarsak 1170$ yerine 
+150*$7.8=1170+(1170$/5)=1404$ verdi.
+Trade 3 bize oynayabileceğimiz 439 pip verdi (10000$+1187$
++1404$)/10=1,259$ yani 1,30 lot.Hariç:
+439*$8=3512$+ (3512/3)=3512$ yerine 4682$, eğer bir standart lot oynarsak (1000$)
+Trade 4 bize oynayabileceğimiz 564 pip verdi (10000$+1187$+1440+4682$)/10=1,730$ yani 
+1,70 lot(30$'ı ayrı bir 0,10 lot olarak almıyoruz). Hariç:
+564*$7,8=$4430+ ($4430/1,4)=$4430 yerine $7594, eğer bir standart lot oynarsak 
+(1000$)
+Ticaret 5 bize oynayabileceğimiz 157 pip verdi (10000+$1187+1440+4682$
++7594$)/10=2,490$ yani 2,50 lot. Hariç:
+157*$8=$1256+ ($1256*2,5)=$1256 yerine $4396, eğer bir standart lot oynarsak 
+(1000$)
+İşlem 6 bize oynayabileceğimiz 307 pip verdi ($10000+$1187+$1440+$4682+$7594+$4396)/
+10=$2,929 yani 3 standart lot.
+Hariç:
+307*$7,7=$2364+ ($2364*3)=$2364 yerine $9456, eğer bir standart lot oynarsak 
+(1000$)
+Para Yönetimi Kurallarının gerçek gücü budur!
+33
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Çözüm
+Sanırım farkı hissediyorsunuz. Üç farklı sonuç:
+! Daha kötü fiyat seviyelerinde girip çıkarsak ve bir işlem için sürekli olarak sabit bir 
+standart lot (1000$) kullanırsak, şunu elde ederiz:1851çekirdek cevheri$14808(Daha 
+kolay hesaplama için UCD\CHF piplerinin (8$) yuvarlak değerini alırsak).
+! Daha iyi fiyat seviyelerinde giriş ve çıkış yapmak ve bir işlem için sürekli olarak sabit bir standart 
+lot (1000 $) kullanmak durumunda, yaklaşık olarak şunu elde ederiz:2000çekirdek cevheri$16000 
+(Daha kolay hesaplama için UCD\CHF piplerinin (8$) yuvarlak değerini alırsak).
+! Daha kötü fiyat seviyelerinde giriş ve çıkış yapılması ancak bir işlem için pozisyonun 
+boyutunun sürekli artması durumundaPara Yönetimi Kuralları(mevcut mevduatın 
+%10'u) ve sağa kayan piplerin değerini kullanırsak, şunu elde ederiz:1851pip ama 
+28.719$yerine$14808 kar!!!
+Hesaba dönüş:$10000+28.719$yani$38.719Toplam.
+Tabii ki, ana sonuç şudur: Farklılıkların ticaretini doğru bir şekilde yapmak çok ama çok karlı 
+olabilir!!!
+10000$'ı 24 ay boyunca 1000000$'dan fazlaya nasıl çevireceğinizi öğrenmek istiyorsanız e-
+kitabımı satın alabilirsiniz.“FOREX'te Milyonlar Kazanmak” FOREX ticaret sistemimin sırlarını 
+ortaya çıkaran –“5emas Forex Ticaret Sistemi” . Bu sistemi her gün kullanıyorum ama hafta 
+sonları elbette☺
+34
+www.forexgercekleri.xyz - [Twitter: @eseckal]

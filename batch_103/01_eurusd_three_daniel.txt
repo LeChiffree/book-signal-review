@@ -1,0 +1,518 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 24\Baskı 24\EURUSD için 3 adet Günlük İşlem Stratejisi - Daniel G. G. (26 sayfa) - @eseckal.pdf
+PAGES: 26
+
+
+=== PDF PAGE 1 ===
+Translated from Spanish to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+EUR/USD için 3 Günlük İşlem Stratejisi
+Parabolik SAR Stratejisi:
+Bu stratejinin 2023 yılı sonucu %56,3 net kârlılık oldu.
+Donchian Kanal Stratejisi:
+Bu stratejinin 2023 yılı sonucu %67,46 net karlılık olmuştur.
+EMA-SMA geçiş stratejisi:
+Bu stratejinin 2023 yılı sonucu %71,64 net kârlılık olmuştur.
+Strateji sonuçları 1 Ocak - 14 Aralık 2023 tarihleri   arasındaki tüm işlemleri 
+kapsamaktadır.
+İçerir:
+İstatistikler
+Giriş ve çıkış kurallarının görsellerle açıklanması. TradingView 
+için komut dosyası
+Parametre ayarları
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+"Sorumluluk Reddi: Bu kitapta sunulan bilgiler yalnızca eğitim ve eğlence 
+amaçlıdır. Finansal, yatırım veya alım satım tavsiyesi teşkil etmez ve 
+nitelikli bir finans veya alım satım uzmanına danışmanın yerini alması 
+amaçlanmamıştır. Alım satım önemli riskler içerir ve okuyucular kendi 
+araştırmalarını yapmalı ve kararlarını kendi riskleri altında vermelidir. 
+Yazar ve yayıncılar, bu kitapta sunulan bilgilerin kullanımından doğacak 
+sonuçlardan sorumlu değildir. Herhangi bir finansal veya yatırım 
+işlemine girmeden önce profesyonel danışmanlık almanız şiddetle 
+tavsiye edilir."
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Parabolik SAR Stratejisi
+Bu stratejide, Parabolik SAR'ın pozisyon değişimine güveneceğiz. Ayrıca, Parabolik SAR için 
+normalden farklı bir kurulum kullanacağız. Parabolik SAR fiyatın altından üstüne çıktığında 
+kısa pozisyonlara, üstünden altına düştüğünde ise uzun pozisyonlara gireceğiz. Grafik 
+zaman aralığı 30 dakikadır.
+İstatistiklere bakalım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+İstatistikler (1 Ocak - 14 Aralık 2023)
+Tüm Uzun Kısa
+5 630.50
+Amerikan Doları
+%56,3
+2 115.50
+Amerikan Doları
+%21,15
+3 515,00
+Amerikan Doları
+%35,15Net kar
+22 237.50
+Amerikan Doları
+222,37%
+11 163.50
+Amerikan Doları
+111,63%
+11.074,00
+Amerikan Doları
+110,74%Brüt kazanç
+16.607,00
+Amerikan Doları
+166.07%
+9.048,00
+Amerikan Doları
+%90,48
+7 559,00
+Amerikan Doları
+%75,59Brüt kayıplar
+6 785,00
+Amerikan Doları
+42.46%Maksimum Çalışma (maksimum kar potansiyeli)
+1 852.00
+Amerikan Doları
+16,82%Maksimum kayıp serisi
+253,74 ABD doları
+%2,54Al ve tut performansı
+Sharpe oranı 647
+Sortino oranı 1.722
+Kar faktörü 1.339 1.234 1.465
+Maksimum sözleşme sayısı 50.000 50.000 50.000
+0,00 ABD doları
+%0Açık Kar ve Zarar
+1 275,00
+Amerikan DolarıKomisyon ödendi 637,50 ABD Doları 637,50 ABD Doları
+Toplam kapalı operasyonlar 180 90 90
+Toplam açık işlem sayısı 0 0 0
+Kazanan işlem sayısı 88 41 47
+Kaybedilen işlem sayısı 92 49 43
+Karlılık yüzdesi 48,89% %45,56 %52,22
+31,28 ABD doları
+0,06%
+23,51 ABD doları
+0,04%
+39,06 ABD doları
+0,07%Ortalama operasyon
+252,70 ABD doları
+0,47%
+272,28 ABD doları
+0,51%
+235,62 ABD doları
+0,44%Ortalama kazanan müzakereler
+180,51 ABD doları
+%0,33
+184,65 ABD doları
+0,34%
+175,79 ABD doları
+%0,33Ortalama kaybedilen müzakereler
+Kar/zarar ortalama değerinin 
+oranı 1.4 1.475 1.34
+292,50 ABD Doları
+%0,55
+292,50 ABD Doları
+%0,55
+292,50 ABD Doları
+%0,55Daha yüksek performansla müzakere
+411,50 ABD Doları
+0,78%
+411,50 ABD Doları
+0,75%
+411,50 ABD Doları
+0,78%En büyük kayıpların yaşandığı operasyonlar
+Operasyonlardaki ortalama çubuklar 46 46 46
+Kazanan işlemlerde ortalama çubuklar 48 48 48
+Kaybedilen işlemlerde ortalama barlar 45 45 44
+Marj çağrıları 0 0 0
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Giriş ve çıkış kuralları
+Parabolik SAR Ayarları: Parabolik 
+SAR (0,002, 0,002, 0,02)
+Uzun giriş kuralı (alımlar):
+Parabolik SAR, fiyatı yukarıdan aşağıya doğru kestiğinde uzun giriş sinyali oluşacaktır. Giriş yapmadan 
+önce mumun kapanmasını bekleyeceğiz.
+Kısa giriş kuralı (satışlar):
+Parabolik SAR, fiyatı dipten tepeye doğru kestiğinde uzun giriş sinyali oluşacaktır. Giriş 
+yapmadan önce mumun kapanmasını bekleyeceğiz.
+Çıkış kuralları:
+İşlemden her zaman bir zarar durdur veya kâr al emriyle çıkın. Zarar durdur emrini 80 pip 
+uzağa, kâr al emrini ise 60 pip uzağa koyacağız.
+Diğer kurallar:
+Zaten açık bir işlem varsa, yeni sinyaller gelse bile aynı yönde yeni işlem açmayın. 
+Açık işlemin bir SL veya TP tarafından kapatılmasını bekleyin.
+Açık bir pozisyonumuz varken, ters yönde yeni sinyaller gelirse, açtığımız pozisyonu 
+kapatıp, yeni sinyalin ardından yeni bir pozisyon açmalıyız.
+Aşağıdaki görsellerde şunları göreceğiz: 
+Siyah noktalar: Parabolik SAR
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Uzunluk örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Kısa örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+TradingView için komut dosyası
+//@sürüm=5
+strateji("Parabolik SAR Stratejisi", overlay=true)
+// 2 dönemli basit hareketli ortalamayı (SMA) hesaplayın 
+sma2 = ta.sma(close, 1)
+// Kısa giriş koşulları (satış)
+short_condition = ta.crossover(ta.sar(0,002,0,002, 0,02), sma2) 
+long_condition = ta.crossunder(ta.sar(0,002,0,002, 0,02), sma2)
+// Giriş ve çıkışların yürütülmesi
+strategy.entry("Kısa girin", strategy.short, when=short_condition) 
+strategy.exit("Kısa çık", from_entry = "Kısa girin", profit=600, loss = 800)
+strategy.entry("Long'a girin", strategy.long, when=long_condition) 
+strategy.exit("Long'dan çıkın", from_entry = "Long'a girin", profit=600, loss = 800)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Parametre ayarları
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Donchian Kanal Stratejisi
+Bu stratejide, uzun pozisyonlar (alımlar) açmak için fiyatın Donchian Kanallarının alt bandına 
+temas ettiği, kısa pozisyonlar (satışlar) açmak için fiyatın Donchian Kanallarının üst bandına 
+temas ettiği baz alınacaktır. Grafik zaman aralığı 1 saattir.
+İstatistiklere bakalım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+İstatistikler (1 Ocak - 14 Aralık 2023)
+Tüm Uzun Kısa
+6 746.20
+Amerikan Doları
+67.46%
+3 426,80
+Amerikan Doları
+%34,27
+3 319.40
+Amerikan Doları
+33.19%Net kar
+22 010.00
+Amerikan Doları
+%220,1
+10 850,00
+Amerikan Doları
+%108,5
+11 160.00
+Amerikan Doları
+111,6%Brüt kazanç
+15 263,80
+Amerikan Doları
+152,64%
+7 423.20
+Amerikan Doları
+%74,23
+7 840.60
+Amerikan Doları
+78.41%Brüt kayıplar
+9 205.20
+Amerikan Doları
+%50,1Maksimum Çalışma (maksimum kar potansiyeli)
+2 177,80
+Amerikan Doları
+13.35%Maksimum kayıp serisi
+190,58 ABD doları
+1,91%Al ve tut performansı
+Sharpe oranı 517
+Sortino oranı 1.493
+Kar faktörü 1.442 1.462 1.423
+Maksimum sözleşme sayısı 80.000 80.000 80.000
+- 333,60 ABD Doları
+- %1,99Açık Kar ve Zarar
+1 085.00
+Amerikan DolarıKomisyon ödendi 530,00 ABD Doları 555,00 ABD Doları
+Toplam kapalı operasyonlar 108 53 55
+Toplam açık işlem sayısı 1 0 1
+Kazanan işlem sayısı 71 35 36
+Kaybedilen işlem sayısı 37 18 19
+Karlılık yüzdesi %65,74 66.04% 65.45%
+62,46 ABD doları
+0,07%
+64,66 ABD doları
+0,08%
+60,35 ABD doları
+0,07%Ortalama operasyon
+310,00 ABD Doları
+0,36%
+310,00 ABD Doları
+0,36%
+310,00 ABD Doları
+0,36%Ortalama kazanan müzakereler
+412,54 ABD Doları
+0,47%
+412,40 ABD Doları
+0,48%
+412,66 ABD doları
+0,47%Ortalama kaybedilen müzakereler
+Kar/zarar ortalama değerinin 
+oranı 751 752 751
+310,00 ABD Doları
+0,37%
+310,00 ABD Doları
+0,37%
+310,00 ABD Doları
+0,37%Daha yüksek performansla müzakere
+412,40 ABD Doları
+0,49%
+412,40 ABD Doları
+0,49%
+412,40 ABD Doları
+0,49%En büyük kayıpların yaşandığı operasyonlar
+Operasyonlardaki ortalama çubuklar 23 26 19
+Kazanan işlemlerde ortalama çubuklar 21 24 18
+Kaybedilen işlemlerde ortalama barlar 26 30 22
+Marj çağrıları 0 0 0
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Giriş ve çıkış kuralları
+Donchian Kanal Yapılandırması: 
+Periyot 120, Ofset 1
+Uzun giriş kuralı (alımlar):
+Fiyat alt Donchian bandına değdiğinde uzun bir giriş sinyali oluşacaktır. Giriş yapmadan önce 
+mumun kapanmasını bekleyeceğiz.
+Kısa giriş kuralı (satışlar):
+Fiyat üst Donchian bandına değdiğinde kısa giriş sinyali oluşacaktır. Giriş yapmadan önce 
+mumun kapanmasını bekleyeceğiz.
+Çıkış kuralları:
+İşlemden her zaman bir zarar durdur veya kâr al emriyle çıkın. Zarar durdur emrini 50 pip 
+uzağa, kâr al emrini ise 40 pip uzağa koyacağız.
+Diğer kurallar:
+Zaten açık bir işlem varsa, yeni sinyaller görünse bile yeni işlem açmayın. Açık işlemin 
+bir SL veya TP tarafından kapatılmasını bekleyin.
+Aşağıdaki resimlerde şunları göreceğiz: 
+Mavi çizgiler: Donchian Kanalları
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Uzunluk örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Kısa örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+TradingView için komut dosyası
+//@sürüm=5
+strategy("Donchian Kanallarıyla Strateji", overlay=true)
+// Geçerli sembolü ve zaman çerçevesini al
+sembol = syminfo.tickerid tf = 
+zaman dilimi.dönem
+// Donchian Kanalı periyodunu tanımlayın
+lookbackPeriod = input(120, title="Donchian Kanallarının Hesaplama Süresi")
+// Donchian Kanallarını Hesapla
+UpDonchianChannel = request.security(sembol, tf, ta.highest(yüksek, geriye dönük süre)[1]) 
+DownDonchianChannel = request.security(sembol, tf, ta.lowest(düşük, geriye dönük süre)[1])
+// Donchian Kanallarını çizin
+plot(UpDonchianChannel, title="Üst Donchian Kanalı", color=color.blue) 
+plot(DownDonchianChannel , title="Alt Donchian Kanalı", color=color.blue)
+// Giriş koşulları
+kısa_durum = ta.crossover(yüksek, YukarıDonchianKanalı) 
+uzun_durum = ta.crossunder(düşük, AşağıDonchianKanalı)
+// Giriş ve çıkışların yürütülmesi
+strategy.entry("Kısa girin", strategy.short, when=short_condition) 
+strategy.exit("Kısa çık", from_entry = "Kısa girin", profit=400, loss = 500)
+strategy.entry("Long'a girin", strategy.long, when=long_condition) 
+strategy.exit("Long'dan çıkın", from_entry = "Long'a girin", profit=400, loss = 500)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Parametre ayarları
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+EMA-SMA geçiş stratejisi
+Bu stratejide, analizimizi aynı döneme ait bir EMA (üstel hareketli ortalama) ile bir SMA'nın 
+(basit hareketli ortalama) kesişimine dayandıracağız. Ayrıca, piyasa durgunken işlem açmaktan 
+kaçınmak için ATR (ortalama gerçek aralık) göstergesine de güveneceğiz. Grafik zaman aralığı 1 
+saattir.
+İstatistiklere bakalım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+İstatistikler (1 Ocak - 14 Aralık 2023)
+Tüm Uzun Şort
+7 164.50
+Amerikan Doları
+71,64%
+3 545,50
+Amerikan Doları
+35.45%
+3 619,00
+Amerikan Doları
+%36,19Net kar
+19.430,00
+Amerikan Doları
+194.3%
+10 150.00
+Amerikan Doları
+%101,5
+9 280.00
+Amerikan Doları
+%92,8Brüt kazanç
+12 265.50
+Amerikan Doları
+122,66%
+6 604.50
+Amerikan Doları
+66.05%
+5 661.00
+Amerikan Doları
+%56,61Brüt kayıplar
+7 956.50
+Amerikan Doları
+%44,32Maksimum Çalışma (maksimum kar potansiyeli)
+1 145.00
+Amerikan Doları
+9.81%Maksimum kayıp serisi
+336,77 ABD doları
+3.37%Al ve tut performansı
+Sharpe oranı 0,83
+Sortino oranı 3.376
+Kar faktörü 1.584 1.537 1.639
+Maksimum sözleşme sayısı 150.000 150.000 150.000
+0,00 ABD doları
+%0Açık Kar ve Zarar
+1.060,00
+Amerikan DolarıKomisyon ödendi 560,00 ABD Doları 500,00 ABD Doları
+Toplam kapalı operasyonlar 106 56 50
+Toplam açık işlem sayısı 0 0 0
+Kazanan işlem sayısı 67 35 32
+Kaybedilen işlem sayısı 39 21 18
+Karlılık yüzdesi %63,21 %62,5 %64
+67,59 ABD doları
+0,04%
+63,31 ABD doları
+0,04%
+72,38 ABD doları
+0,04%Ortalama operasyon
+290,00 ABD Doları
+0,18%
+290,00 ABD Doları
+0,18%
+290,00 ABD Doları
+0,18%Ortalama kazanan müzakereler
+314,50 ABD Doları
+0,19%
+314,50 ABD Doları
+0,19%
+314,50 ABD Doları
+0,19%Ortalama kaybedilen müzakereler
+Kar/zarar ortalama değerinin 
+oranı 922 922 922
+290,00 ABD Doları
+0,18%
+290,00 ABD Doları
+0,18%
+290,00 ABD Doları
+0,18%Daha yüksek performansla müzakere
+314,50 ABD Doları
+%0,2
+314,50 ABD Doları
+%0,2
+314,50 ABD Doları
+%0,2En büyük kayıpların yaşandığı operasyonlar
+Operasyonlardaki ortalama çubuklar 6 6 6
+Kazanan işlemlerde ortalama çubuklar 6 7 6
+Kaybedilen işlemlerde ortalama barlar 6 6 6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Marj çağrıları 0 0 0
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Giriş ve çıkış kuralları
+Uzun giriş kuralı (alımlar):
+34 periyotluk EMA, 34 periyotluk SMA'yı dipten tepeye geçtiğinde uzun pozisyon açın. 
+4 periyot olarak ayarlanan ATR göstergesi 0,0015'in (15 pip) üzerinde olmalıdır.
+Kısa giriş kuralı (satışlar):
+34 periyotluk EMA, 34 periyotluk SMA'yı yukarıdan kestiğinde kısa pozisyonlar açın. 4 
+periyot olarak ayarlanan ATR göstergesi 0,0015'in (15 pip) üzerinde olmalıdır.
+Çıkış kuralları:
+İşlemden her zaman bir zarar durdurma veya kâr alma emriyle çıkın. 20 pip uzağa bir zarar 
+durdurma, 20 pip uzağa da bir kâr alma emri koyacağız.
+Aşağıdaki görsellerde göreceğimiz:
+Grafikteki kırmızı çizgi: 34 dönemlik EMA 
+Grafikteki mavi çizgi: 34 dönemlik SMA
+Grafik altındaki kırmızı çizgi: 4 dönemli ATR
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Uzunluk örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Kısa örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+TradingView için komut dosyası
+//@sürüm=5
+strategy("EUR/USD'de EMA-SMA kesişimi", overlay=true)
+// SMA ve EMA'yı çizin
+plot(ta. ema(close, 34), title="Kaydırılan Son 24 Mumun En Yüksek Değeri", color=color.red) 
+plot(ta. sma(close, 34), title="Kaydırılan Son 24 Mumun En Yüksek Değeri", color=color.blue)
+// Giriş koşulları
+uzun_durum = ta.crossover(ta.ema(kapat,34), ta.sma(kapat,34)) ve ta.atr(4) > 0,0015
+kısa_durum = ta.crossunder(ta.ema(kapat,34), ta.sma(kapat,34)) ve ta.atr(4) > 0,0015
+// Giriş ve çıkış yürütme
+strategy.entry("Uzun girin", strategy.long, when = uzun_koşul) 
+strategy.entry("Kısa girin", strategy.short, when=kısa_koşul)
+strategy.exit("Long çıkış", from_entry = "Long giriş", kar = 200, zarar = 200) 
+strategy.exit("Short çıkış", from_entry = "Short giriş", kar = 200, zarar = 200)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Parametre ayarları
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Risk uyarısı
+Risk Uyarısı: Geçmişte karlı olduğu kanıtlanmış yatırım stratejileri, gelecekte benzer sonuçlar elde 
+etmeyi garanti etmez. Geçmiş performans, gelecekteki sonuçların garantisi değildir. Finans 
+piyasaları dalgalıdır ve öngörülemeyen değişikliklere tabidir; bu durum herhangi bir yatırım 
+stratejisinin performansını etkileyebilir. Yatırım kararları vermeden önce kapsamlı bir analiz 
+yapmanız, risk yönetimini göz önünde bulundurmanız ve finansal danışmanlara danışmanız önerilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

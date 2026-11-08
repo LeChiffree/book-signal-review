@@ -1,0 +1,758 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 12\Baskı 12\VWAP Stratejisi - Terence V. Gronowski (44 sayfa) - @eseckal.pdf
+PAGES: 44
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+1 ÖNSÖZ
+Söylenmemiş bir gerçek şu ki, yayınlanan stratejilerin çoğu para 
+kazandırmaz. Çoğu yalnızca çok nadiren gerçekleşen durumlarda işe yarar. 
+VWAP Stratejisi veya genel olarak Denge Fiyat Stratejisi her gün işe yarar.
+Metatrader 5 (Mql5.com) için bir VWAP göstergesi yazdım. İnce bir versiyon 
+seçtim ve VWAP'yi yalnızca gerçek gün için görüntüledim. Görüntülenen tüm 
+süre boyunca çalışan diğer uygulamalar Metatrader'ı çökertti.
+Aşağıdaki hisse senedi eğrisi, TopStep Traders'ın (fonlu işlem) kalifikasyonunun ilk 
+adımından kaynaklanmaktadır. Sadece Mini Dow Future'ı işlem yaparak 22 günde 
+9000 dolara ulaştım. Bu, esas olarak denge fiyatlarını (VWAP, Pivot Noktaları, gün 
+öncesi çizgiler, Hacim Önceliği) izleyerek ve trend çizgileri çizerek dakika grafiğindeki 
+eğilimleri izleyerek elde edildi. Yüksek frekanslı işlem yüzdesi yüksek bir endekste 
+bile pozitif bir beklenti değeri elde etmenin mümkün olduğunu gösteriyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Şekil 1: Dow Jones Mini Vadeli İşlemler ticaretinin denge fiyat stratejisini uygulayarak elde ettiği 
+hisse senedi eğrisi (TopStep Yatırımcılarının fonlu bir hesap elde etmek için attığı ilk adım).
+WVAP, basitçe hacme göre ağırlıklandırılmış bir fiyattır. Adil bir fiyatı, yani bulunduğunuz 
+fiyatı belirtir.Olumsuzticaret yapması gerekiyordu.
+WVAP, hisse senedi endeksleri veya blue chip'ler gibi likit varlıklarla en iyi şekilde 
+çalışır, ancak yalnızca hacim verileri mevcutsa ve hacim yeterince büyükse dövizler 
+için de çalışır. Güçlü yanı, VWAP'nin zaman diliminden bağımsız olması ve kurumsal 
+faaliyetleri ortaya çıkarmaya yardımcı olmasıdır. Bir dezavantajı, kesin hacim 
+verilerine ihtiyaç duyması ve farklı başlangıç   zamanları için farklı değerler olmasıdır. 
+Ayrıca VWAP, ilgili varlıklar için biraz farklı olabilir, örneğin Dow Jones Cash, Mini 
+Future ve Micro Future'ın her VWAP'si farklıdır. Ancak her VWAP'nin kendi değeri 
+vardır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+2 SORUMLULUK REDDİ &
+TELİF HAKLARI
+Endeks ve döviz ticareti önemli riskler içerir. Kayıplar her zaman 
+oyunun bir parçasıdır. Bu kitaptaki tavsiyeler, karı garanti etmez
+ticaret.Hiçbir ticaret önerisi veya yatırım tavsiyesi yoktur. Bu 
+kitaptaki tüm içerik yalnızca eğitim ve bilgilendirme amaçlıdır.
+Finans piyasasına yatırım yapmaya karar vermeden önce, yatırım 
+hedeflerinizi dikkatlice göz önünde bulundurmalısınız. Deneyim seviyenizi 
+ve risk eşiğinizi. Kaybetmeyi göze alamayacağınız parayı yatırmayın. 
+Avrupalı   perakende tüccarların %80'inden fazlasının kaybettiği bir 
+gerçektir.
+Bu kitabın stratejisini kullanarak başarınız birçok faktöre bağlıdır. Yazarın ne 
+kadar iyi performans göstereceğinizi bilmesinin bir yolu yoktur. Bu nedenle 
+herhangi bir kazanç elde edeceğinizi garanti etmez veya ima etmez.
+Burada sunulan kısa vadeli ticaretin başarılı olması için önemli bir 
+rutine ihtiyaç vardır. Piyasadaki durumun ticarete izin vermediği 
+zamanları anlamanız mümkündür.
+Tüm ticari markalar ilgili sahiplerinin ticari markalarıdır. İsimleri 
+yalnızca editoryal bir şekilde kullanırız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+3 ZAMAN
+CET (Orta Avrupa Saati) ve EST (Doğu ABD Saati) kullanıyorum. Normal 
+durumlarda saat farkı 6 saattir. Yaz saati uygulamasına geçiş sırasında bu fark 
+5 saate düşer. Tasvir edilen grafiklerde bir zaman sıkışması olabilir çünkü 
+brokerlar normalde ABD'de yaz saati uygulaması varken Avrupa'da henüz 
+olmadığı üç hafta boyunca sunucu saatlerini değiştirmezler. Aynısı sonbahar 
+için de geçerlidir.
+VWAP'nin farklı başlangıç   zamanları için farklı bir görünümü vardır. Fiyatın VWAP'de sık sık 
+sıçrayıp sıçramadığını veya sık sık VWAP'ye geri düşüp düşmediğini saat diliminize göre kontrol 
+edin. Eğer öyleyse, VWAP'niz doğrudur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+4 GİRİŞ
+VWAP şunun anlamına gelir:VölüBsekizliAortalamaPpirinç. VWAP bir 
+denge fiyatı, yani adil bir fiyat gösterir ve bu fiyat örneğin bir piyasa veya 
+hacim profilinin kontrol noktasından daha dinamiktir. VWAP'nin zaman 
+dilimine bağlı olmama gibi büyük bir avantajı vardır. Hangi zaman dilimini 
+seçerseniz seçin, VWAP aynıdır. Pivot Noktaları gibi zaman diliminden 
+bağımsız olan sadece birkaç gösterge vardır. VWAP kesin hacim verilerine 
+ihtiyaç duyduğundan, görüntülenen eğri çok kesin olmayabilir. VWAP'nin 
+Dow Jones Cash, Dow Jones Mini ve Mikro Vadeli İşlemler temsilini 
+karşılaştırırsanız temsilde bazı farklılıklar vardır. Böyle bir durumda 
+VWAP'yi en büyük hacimli piyasayla, yani Dow Jones Cash piyasasıyla 
+izlemelisiniz.
+VWAP'ın formülü şudur:
+Gördüğünüz gibi gün içinde çok büyük sayılar yer alıyor. Gün içinde 
+yuvarlama hataları nedeniyle daha az kesin hale gelebilir. Birçok uygulama, 
+gereken birçok hesaplama nedeniyle Metatrader'ı çökertebilir. Hacim 
+verilerindeki tek bir hata bile eğriyi kaydırabilir. Bu nedenle VWAP'a bir çizgi 
+olarak bakmamalı, onu bir bölge olarak düşünmelisiniz. Aşağıdaki şekilde tipik 
+bir hata var: Sol tarafta, TradingView gösteriminde fiyat VWAP'ın altına 
+düştüğünde kısa işlem yaptım. Borsanın kapanışından sonra resme 
+baktığımda başka bir resim vardı. Muhtemelen kötü hacim verilerinden 
+kaynaklanıyordur. Kesin bir hacim veri akışı için TradingView'da ekstra ödeme 
+yapmanız gerekir. Her durumda VWAP bir sinyal çizgisi değil, adil bir fiyat 
+bölgesidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Şekil 4.1: Hacim verilerinin kalitesine bağlı olarak VWAP çok hassas 
+olmayabilir. Sağda işlem yaptığım anın temsili. Sağ tarafta borsanın 
+kapanışından sonraki temsil. Sol taraftaki sinyal yanlıştı. Ayrıca 
+VWAP'ın ne zaman başladığı önemlidir. Başlangıç   saatine bağlı 
+olarak farklı eğriler elde edersiniz.
+VWAP, bir işlem gününü uzun önyargı ve kısa önyargı bölgesinde böler. İşlem sırasında 
+VWAP'a yönelirseniz bazı güçlü toparlanmalar veya geri çekilmeler öngörebilirsiniz. Fiyat 
+VWAP'ın üzerindeyse ve siz kısa pozisyon açarsanız, ani bir toparlanma tehlikesi, fiyat 
+VWAP'ın altındaymış gibi çok daha büyüktür ve uzun durum için tam tersi geçerlidir. Gün 
+ayırıcısı olarak doğası gereği, fiyat VWAP'a yakınsa düz olmalısınız ve VWAP ile fiyat 
+çaprazlaması işlemi yapamazsınız.
+VWAP ayrıca kurumsal aktiviteyi de ortaya çıkarabilir. Ve eğer kurumsal 
+aktiviteyi tespit etmeyi başarırsanız, arenanın kralı sizsiniz.
+Swiss VWAPsimple'ı mql5.com'daki web sitemden ücretsiz edinebilirsiniz. 
+Metatrader 5'te çalışır. Hesaplamalarda yalnızca tick hacmini kullanmama rağmen 
+bu gösterge çok iyi çalışıyor, en azından Alman Dax veya Dow Jones gibi endeksler 
+için.
+Bu kitap her göstergeyi açıklamıyor, bunlara aşina olmalısınız. Eğer aşina 
+değilseniz lütfen diğer kitaplarımdan biri olan “The Opening Range Oriented 
+Strategy”yi okuyun.
+Bu kitap bir çalışma kitabıdır ve birkaç kez daha yayınlanacaktır. Lütfen güncel sürüme 
+sahip olup olmadığınızı kontrol edin.
+Güncel sürüm: 1.1.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+ÖĞRENMEK İÇİN 5 KAYNAK
+İTİBAREN
+Ticaret öğrenmek için pahalı bir hızlandırılmış kurs satın almanızı öneren birçok 
+Youtube filmi veya Facebook sitesi var. Bunlar çoğunlukla çok güzel tekli 
+ticaretleri ve eğitmenlerin yaşam tarzını (çoğunlukla lüks arabalar) gösteriyor, 
+kesinlikle ticaretle ilgili değil. Bu reklamlara inanmayın ve bunlara para 
+harcamayın. Öncelikle kendi ticaret yolunuzu bulmalısınız ve ikincisi tekli 
+ticaretlere güvenemezsiniz. Birinin sürekli ticaret yapabileceğinin tek kanıtı bir 
+hisse senedi eğrisidir ve bir hisse senedi eğrisi bile sahte olabilir.
+Ticarete başladığınızda esas olarak ABD Ticaret gazilerine konsantre olmalısınız. 
+Bu gerçek gurular size yaşam tarzlarını göstermezler. Ve onların modası geçmiş 
+olduklarını düşünmeyin. Hiç de değiller, özetledikleri ilkeler hala geçerli. Önce 
+Linda Raschke. Onu Youtube'da dinlerseniz herhangi bir yerden daha fazla 
+ticaret gerçeği elde edersiniz. Ayrıca size hangi literatürü okumanız gerektiğini 
+de söyler. Bir sorun, ticaret hakkında çok az bilginiz olduğu için başlangıçta 
+gerçek guruları anlamamanız olabilir. Bu yüzden onları anlamak için ticarette 
+biraz pratik yapmaya değer. Bir diğer çok önemli yazar James Dalton'dur. Kitabı
+Zihin Piyasalar ÜzerindeDenge fiyatlarının anlaşılmasında temel bir taştır.
+Youtube'da size bir kurs veya sinyal satmak isteyen birçok işlem filmi 
+var. Bazen bu filmlerin arkasında gerçekten iyi tüccarlar vardır, ancak 
+sundukları muhteşem işlemlerin ardındaki tüm gerçeği size asla 
+söylemezler çünkü bilgilerinden para kazanmak isterler. Biraz deneyimle 
+satır aralarını okuyabilir ve sunulan işlemlerin ardında ne olduğunu 
+görebilirsiniz. Bu tür reklamları analiz ederek çok şey öğrendim.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Her gün piyasaların tahminini yapan günlük finansal eğlenceleri 
+(fintainment) dinlemeyin. Bunlar ticaret endüstrisi tarafından desteklenir ve 
+çıkar çatışmaları vardır. Bu tür eğlenceler dikkatinizi dağıtır ve 
+düşüncelerinizi rahatsız eder.
+Okunması gereken bazı çok önemli edebiyat eserleri
+● James Dalton, Mind over Markets (piyasalar nasıl çalışır, piyasa 
+profili)
+● Linda Raschke, Street Smarts (birçok strateji)
+● Crabel Toby, Kısa Vadeli Fiyat Modelleriyle Günlük Alım Satım (Açılış 
+Aralığı Kopuş stratejisi)
+● Velez Oliver, Usta Günlük Yatırımcılar İçin Araçlar ve Taktikler: Günlük, Salınım ve 
+Pozisyon Yatırımcıları İçin Savaşta Test Edilmiş Teknikler (Hisselerin günlük 
+ticareti)
+● Charles le Beau ve David Lucas, Günlük Ticaret Sistemleri ve Yöntemleri
+Youtube'daki bazı ilginç yazarlar:
+● Linda Raschke (Stratejiler, nasıl ticaret yapılır)
+● Oliver Velez (Hisse senedi ticareti, Ticaret psikolojisi)
+● John Piper (Elliott Dalgaları)
+● Mark Douglas (Ticaret Psikolojisi)
+● Alexander Elder (genel ticaret)
+● Yatırımcılarla Sohbet (Aaron Fifield, yatırımcılarla röportajlar)
+Diğer kitabımı okumayı unutmayın: Açılış Aralığı Odaklı Strateji.
+Youtube kanalım:
+İsviçreli Tüccar
+https://www.youtube.com/channel/UCljXBKcASRPXEDNootJl0rg
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+VWAP'IN 6 İLKESİ
+VWAP birçok denge fiyatından biridir. Sadece fiyat denge noktasından biraz 
+uzaktaysa işlem yapmalısınız. Fiyat denge noktasındaysa dar bir aralıkta olma 
+tehlikesi vardır. Ayrıca herhangi bir denge fiyatının, özellikle VWAP'ın, örneğin 
+EMA20 ile kesişmesinin yarattığı sinyaller çok dikkatli yorumlanmalıdır çünkü 
+VWAP kesin bir sinyal çizgisi değildir.
+VWAP'nin anlamı küresel bir bağlamda görülmelidir. Fiyat küresel bir yükseliş 
+trendinde VWAP'nin altına düşerse, küresel bir düşüş trendinde olduğundan farklı 
+bir şeydir.
+Stratejimizde kullandığımız şekliyle VWAP günlük olarak her zaman gece yarısından 
+itibaren başlar (00:00 CET). Mevcut fiyat çarpı hacim toplamı, hacim toplamına 
+bölünür. VWAP, zaman diliminden bağımsızdır, büyük sayılar ve eklenen küçük 
+hatalar nedeniyle VWAP başka bir zaman diliminde biraz farklılık gösterebilir. ABD 
+Platformunda ABD Endeksleri ile işlem yapıyorsanız VWAP 6 saat sonra 
+başlayacaktır. Özellikle Doğu Saati ile gece yarısında başlayan VWAP'yi izlemelisiniz.
+VWAP ile işlem yapmak: VWAP fiyatı adil olarak görülebilir. Adil bir fiyat, bir yatırımcı 
+için ilgi çekici değildir. Aşağıdaki şekilde, bir ABC oluşturduktan sonra, VWAP'den 
+mümkün olduğunca uzakta yeni bir trende girmenin en iyisi olduğunu görüyorsunuz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Şekil 6.1: VWAP, hacim profilinin kontrol noktası, pivot noktaları veya uzun 
+EMA'lar ve SMA'lar gibi günü uzun ve kısa bölgeye böler. Gün ayırıcısına yakın 
+işlem yapmak her zaman risklidir çünkü adil bir fiyattan işlem yaparsınız ve adil 
+bir fiyat ya ucuzdur ya da pahalıdır. Asla VWAP'nin hemen üzerinde kısa pozisyon 
+açmamalı ve asla VWAP'nin hemen altında uzun pozisyon açmamalısınız. Ayı 
+veya boğa tuzağı olasılığı yüksektir. VPAP'nin üzerinde kısa pozisyon açarsanız 
+VWAP'nin üzerinde hala asimetrik bir kar alma fırsatı olup olmadığına 
+bakmalısınız çünkü VWAP büyük bir dirençtir. Kısa pozisyon açarsanız fiyatın 
+VWAP'ye düşmesiyle kar alma işleminizi VWAP'nin hemen üzerinde yapın.
+Yukarıdaki şekilde gösterildiği gibi, yalnızca vwap'ın üzerinde uzun ve yalnızca 
+VWAP'ın altında kısa işlem yapmaya bakın. ABD Açılışından önce Avrupa gece 
+yarısında başlayan VWAP'yi izleyin. ABD Piyasalarının açılışından sonra ABD Gece 
+Yarısı'ndan (0:00 am ET) VWAP'yi izleyin. VWAP'nin uzun eğilim bölgesinde 
+yalnızca VWAP'ye olan mesafe büyükse ve en azından bir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Beş dakikalık grafikte çift tepe ve gelişen yeni bir trend. VWAP 
+üzerinde mesafede asimetrik bir fırsat mevcut olmalı.
+Şekil 6.2: VWAP bir tür adil fiyattır (mor yıldızlar, İsviçre VWAPsimple). Bu nedenle fiyat 
+VWAP'ye yakınsa işlem yapmamalısınız. Bu şekilde VWAP kar elde etmek için bir seviye 
+olarak kullanılır. Bu uzun işlem VAP'den mümkün olduğunca uzakta başlatılır. Yeni bir 
+trend fark ederseniz mümkün olduğunca erken girmeli ve VWAP yakınında 
+çıkmalısınız.
+Şekil 6.3: Muhtemel kurumsal satış. VWAP'ın (mor) fiyat sıçramaları. 
+Böyle bir durumda kısa pozisyon açmak yanlıştır çünkü mesafeler 
+perakende tüccar için çok küçüktür. Sadece bekleyin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+fil hisselerini sattı. Bunu kısa bir sıkışma takip ediyor, yani fiyat 
+yükseliyor.
+Şekil 6.4: VWAP'nin (kalın mor çizgi) tipik davranışı. 1'de 19:00'dan 20:50 
+CEST'e kadar VWAP'ye birçok geri dönüş var. 20:50'de fiyat VWAP'yi aştığında 
+ve büyük satıcılar ortadan kaybolduğunda kısa sıkışma var. 21:50'de, 
+kapanıştan on dakika önce, fiyat VWAP'ye geri düşüyor (Cuma 26 Temmuz 
+2019).
+İsviçre VWAPsimple (mql5.com'dan ücretsiz indirin) çoğunlukla doğru olduğu 
+kanıtlanmıştır. Yanlış sayılar gösteren birçok uygulama vardır. Bu gösterge, 
+hacmin kesinliğine büyük ölçüde bağlıdır. Tik hacmi yalnızca Metatrader'da 
+olmasına rağmen oldukça kesin görünmektedir. Hacim verilerindeki herhangi 
+bir küçük hata eğriyi kaydırabileceğinden, eğrinin etrafındaki bölgeyi 
+izlemelisiniz, tam olarak çizgiyi değil.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Şekil 6.4: Ayı gününde VWAP'a yönelen fiyat. Fiyat 08:15 CEST'te VWAP'ı geçti 
+ve bir daha VWAP'ın üzerine çıkmadı, ancak VWAP'a birkaç kez dokundu. 29 
+Mayıs 2019.
+Aşağıdaki şekilde standart sapma bantlarıyla Tiki-Vwap'ı görüyorsunuz.
+Şekil 6.5: Mini-Dow Jones Future'daki VWAP fiyatı, 0:00 CEST'te başlayan Dow 
+Jones Cash'in VWAP'sinden yaklaşık 50 puan daha yüksek. Bunun nedeni, bu 
+varlığın diğer hacmi veya biraz farklı bir başlangıç   saati olabilir. Böyle bir 
+durumda her iki VWAP'yi de izleyin. En çok eşleşen puana sahip VWAP en 
+iyisidir. Farklı VWAP'leri izliyorsanız VWAP hesaplamalarının başlangıç   
+saatinin aynı olduğundan emin olun. Tiki-Vwap ile Tradovate tarafından temsil.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Şekil 6.6: Dow Jones VWAP'a geri dönüyor. VWAP'a bakılabildiği gibi 
+ana direnç fiyatı sıklıkla vwap'a geri dönebilir. Bu etki, tam yüz 
+rakamının (26100) geçilmesiyle güçlendirilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Şekil 6.7: VWAP'de fiyatın geri dönüşü. VWAP üzerinde kısa işlem yaparsanız, 
+karınızı hala VWAP'nin üzerinde tutun. VWAP ile fiyat çaprazı işlemi yapmaya 
+çalışmayın (21 Ağustos 2019).
+Şekil 6.8: Son işlem saatinde Dow Jones endeksinde VWAP'tan tipik toparlanma. 
+Eğer kısa pozisyondaysanız, karı VWAP'ın üzerine yakın bir yere koyun.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+7 KÜRESEL BAĞLAM
+Küresel bağlam çok önemlidir, işlem yapmadan önce piyasanızın küresel bir yükseliş, 
+düşüş trendi veya yatay bir aralıkta olup olmadığını bilmelisiniz.
+Şekil 7.1: Sabah işlem yapmadan önce küresel eğilimi izleyin. Hacim profilini 
+görüntüleyerek ve kontrol noktalarını karşılaştırarak piyasanın tam olarak hangi 
+durumda olduğunu görürsünüz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Şekil 7.8: 14 Haziran 2019, fiyat VWAP'a yatay bir aralıkta sıçrayabilir.
+Küresel bir yükseliş trendinde VWAP'ın altına düşüş uzun bir fırsatı ortaya koyabilir, ancak 
+küresel bir düşüş trendinde muhtemelen kısa bir fırsattır.
+TradingView için aşağıdaki Pine Script, VWAP'den fiyatla çaprazları gösterir (3'lük 
+basit bir hareketli ortalama ile temsil edilir). Çaprazları işlem yapmayın ancak 
+VWAP'ye geri dönüşler veya geri çekilmeler işlem yapmak için daha güvenlidir. Ayrıca 
+script çok yavaştır ve bu nedenle güvenilir bir sinyal için uygun değildir.
+//@sürüm=2
+//Ticaret için uygun değil, sinyaller geç gösteriliyor //
+1 dakikalık grafikte kullanın
+strateji(başlık="VWAPStratejisi", kaplama=true)
+//Basit Hareketli Ortalama için değerler hızlı 
+valfast=3
+//VWAP için değer
+valslow= vwap(hlc3)
+uzun = sma(kapat, valfast) 
+kısa = valslow
+plot(kısa, renk = kırmızı) 
+plot(uzun, renk = yeşil)
+longCond=crossover(uzun,kısa) shortCond=crossover(kısa,uzun) 
+strategy.entry("UZUN", strategy.long, when=longCond) 
+strategy.entry("KISA", strategy.short, when=shortCond) 
+strategy.exit("UZUN", from_entry="UZUN", when=shortCond) 
+strategy.exit("KISA", from_entry="KISA", when=longCond)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Şekil 7.9: Küresel bir genel bakış elde etmek için VWAP ile fiyat çaprazlarını gösteren Pine betiği. 
+VWAP yakınında çok sık toparlanmalar ve geri çekilmeler meydana geldiğinden, doğrudan VWAP 
+ile çaprazlar ticareti yapmayın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+8 STRATEJİ
+VWAP ile herhangi bir alım veya satım sinyali almazsınız. Değişen trendleri izlemek 
+için en iyi şey, trend çizgilerini sürekli çizmek ve kırılıp kırılmadıklarını izlemektir. 
+Giriş sinyalleri almanın en hızlı yoludur. Çift veya üçlü dip veya tepeleri tespit ederek 
+dürtüsel Elliott dalgalarını tespit etmeye çalışın.
+Herhangi bir göstergeyi de kullanabilirsiniz, ancak çoğu çok gecikmelidir. 
+Örneğin Parabolik SAR'ın yön değişimini (çok net sinyaller, ancak 
+parametrelere ve zaman dilimine bağlıdır) veya RSI'dan gelen aşırı satım/aşırı 
+alım sinyallerini Stokastik'in aynı sinyalleriyle birleştirebilirsiniz. Sinyaller ayrıca 
+hareketli ortalamalar olarak herhangi bir kesişen çizgiden veya Ichimoku 
+göstergesinin Tenkan ve Kijun Sen'inden veya ADX göstergesinden +Di ile 
+-Di'den de kullanılabilir. Ben şahsen kesişen çizgilerin sinyallerini sevmiyorum 
+çünkü iki çizgi düz bir açıyla kesişirse belirsiz olabilir ve stratejiyi 
+programlarken sorun yaratabilir.
+Fiyat VWAP'nin üzerindeyse sadece uzun pozisyon açın, kısa sinyalleri görmezden gelin 
+ve tam tersi. Sadece fiyat VWAP'den gerçekten uzak olduğunda uzun önyargı 
+bölgesinde kısa pozisyon açabilirsiniz, en iyisi aşırı bir noktada ve tam tersi ve ters 
+yönde gelişen yeni bir trend varsa. Standart sapma bantlarına sahip bir VWAP 
+göstergeniz varsa sadece fiyat en azından ilk standart sapmanın üzerindeyse kısa 
+pozisyon açın. VWAP ile fiyat kesişimi sırasında işlem yapmadığınız için bazı fırsatları 
+kaybedebilirsiniz, ancak kazandığınız güvenlik için küçük bir fiyattır.
+Filtre olarak VWAP kullanılmaktadır.
+● Fiyat VWAP'a yakınsa işlem yapmayın, diğer sinyalleri dikkate almayın.
+● WWAP'tan fiyatla çapraz işlem yapmayın, VWAP'a doğru geri çekilmeleri veya 
+toparlanmaları arayın.
+● VWAP yakınlarında ayı ve boğa tuzaklarına dikkat edin.
+● Fiyat VWAP'ın üzerine yakınsa kısa pozisyon açmayın, uzun pozisyon açın.
+● Fiyat VWAP'ın altına yakınsa uzun pozisyon açmayın, kısa pozisyon açın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+● Eğer fiyat VWAP'ın çok üzerindeyse yeni bir kısa trendde işlem yapabilirsiniz. 
+Küresel trende karşı işlem yaptığınızı unutmayın.
+● Fiyat VWAP'ın çok altındaysa yeni bir uzun trendde işlem yapabilirsiniz. 
+Küresel trende karşı işlem yaptığınızı unutmayın.
+● Asimetrik bir fırsat (Risk-Ödül 2:1) için yeterli alan olup olmadığını 
+kendinize sorun?
+“VWAP’ın çok üzerinde” fiyattan en az bir standart sapma veya daha iyisi iki 
+standart sapma uzaklıkta olmak anlamına gelir.
+Dow Jones'ta işlem yapıyorsanız ağır toparlanmalara dikkat edin. Bu toparlanmalar çoğunlukla VWAP 
+yakınlarında veya 25, 50, 75, 100 ve 1000 seviyelerinde meydana gelir.
+Eğer küresel bir uzun trend oluşursa ve fiyatlar VWAP'ın altına düşerse yakında uzun bir 
+ralli olabilir.
+Şekil 8.1: Küresel bir yükseliş trendinde Dow Jones VWAP'ın altına iniyor. Dow, 
+Elliott 1 ve 2 dalgası şeklinde bir çift dip oluşturuyor. Dalga 3 bunu takip ediyor. 
+Dalga 4, dalga 2'den farklı ve son dalga bir bitiş diyagonali şeklinde. İşlem 
+yaparken Elliott dürtüsel dalgalarını arayın.
+Yeni bir trendi tespit etmek için 1 ila 10 dakikalık grafikte Swing Chart göstergesini 
+kullanabilirsiniz. Swing Chart mumları boğa, ayı, iç ve dış çubuklar olarak çizer. Ayrıca 
+mumlar arasında çizgiler çizer. 10 dakikalık grafikte kullanıyorsanız küresel genel 
+bakışa sahip olmak çok faydalıdır. Mumlar arasındaki çizgiler trendin hala 
+bozulmamış olup olmadığını gösterir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Metatrader 5'te Andre S. Enger'in Swing Chart'ını ücretsiz olarak 
+indirebilirsiniz.
+Şekil 8.2: 10 dakikalık grafikte Swing Chart göstergesi yardımıyla işlem yapma (30 
+Mayıs 2019, 09:52). Çizilmiş trend salınımlarına sahip 10 dakikalık grafik, bir işlemde 
+kalmanıza yardımcı olur ve çok erken çıkış yapmanızı önler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Şekil 8.3: Fibo Geri Çekilmesinin yardımıyla bir trendden ne zaman çıkacağınıza karar 
+verebilirsiniz. Bir trend %100 geri çekilmeden sonra bile geçerlidir. Burada %61,8 
+seviyesine geri çekilme oldu. Bu yüzden işlemde kaldım (30 Mayıs 2019, 10:15 CEST).
+Şekil 8.4: Hacim profili ve bantlı Tiki-Vwap ile yarım saatlik grafikte işlem 
+yapma. Yarım saatlik grafik hacim profili için uygundur. İşlem sayılarını 
+azaltmanıza da yardımcı olur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+9 NE ZAMAN YAPILMAMASI GEREKTİĞİNİ BİLMEK
+TİCARET YAPMAK İÇİN
+James Dalton'un Mind over Markets kitabından bir alıntı:
+"Birçok bilgili profesyonel, piyasaların sadece %20 ila %30 oranında trend 
+gösterdiğini tahmin ediyor. Bu gerçeği fark edememek, çok sayıda yatırımcının 
+para kazanamamasının başlıca nedenlerinden biridir".
+Trend veya hareket yoksa işlem yapmamak çok önemlidir. Bir aralıkta işlem 
+yapmak yalnızca aralık yeterince genişse işe yarar. Çoğu zaman fiyat bir 
+aralıktaysa nereye gideceğini bilemez ancak yönün tahmin edilemediği ani 
+yükselişler olabilir. Dow Jones için yaklaşık 60, Alman Dax için ise karlı bir şekilde 
+işlem yapmadan önce yaklaşık 40 puanlık bir harekete ihtiyacınız vardır. 
+Başlamadan önce böylesine küçük bir hareketi beklemek en iyisi olabilir. Ya da 
+yalnızca Elliott-Wave benzeri bir yapı gördükten sonra işlem yapmaya 
+başlarsınız.
+Fiyat yön değiştirmeye çalışırsa işlem yapmayın. Farklı bir yeni trend 
+bekleyin.
+En iyi işlem saatlerini bulmak için işlem günlüğünüzü değerlendirin. Asya, Avrupa 
+ve ABD Seanslarının kendi fiyat hareket özelliklerine sahip olduğunu unutmayın. 
+Ayrıca, gün içinde, gergin fiyatlar nedeniyle yatırım yapmamanız gereken zaman 
+aralıkları da vardır. Genellikle çeşitli haberlerle kaotik fiyat hareketleri 
+yaşayabileceğiniz 13:00 ila 15:00 CEST (7:00 ila 9:00 EST) saatleri arasındadır. 
+Seans sınırlarında (Asya, Avrupa ve ABD Seansı) işlem yapıyorsanız çok dikkatli 
+olun. Ani değişiklikler meydana gelebilir.
+Çeşitli pazarlar
+Bir piyasanın yatay seyrettiği ve işlem göremediği zamanları görmek önemlidir. 
+VWAP, ADX, Volume Profile ve Ichimoku göstergeleri bir aralıkta olduğunuzu 
+gösterse de, bu her zaman başlangıçtan itibaren belirgin değildir. Başka bir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+sorun şu ki, büyük hareketler genellikle yanal fazlardan başlar. Bazen 
+bir aralıktan yeni bir trendin başlangıcını görmek zordur.
+Aşağıdaki şekilde mini Dow (YM) ABD vadeli işlemlerinin açılışına kadar 
+çok iyi işlem görüyordu. Sonra kaos başladı.
+Şekil 9.1: Dow Jones açılışından sonra kaotik yatay piyasa. Piyasa 26500 ile 
+26550 arasında değişiyor. 29 Nisan 2019. Tradovate, TopStepTrader'ın 
+demosu.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Şekil: 9.2: Dow'un tüm hareketleri yalnızca 29 Nisan 2019'da 18:00 CET'den (10:00 
+ET) itibaren netleşiyor. Dow Jones'ta yalnızca açılıştan sonra doğrudan yukarı çıkarsa 
+işlem yapmak en iyisidir. ADX göstergesi açılıştan itibaren 20'nin altındaydı.
+Volatilite bir hareket derecesi anlamına gelir. Volatilite ADX Göstergesi ile 
+ölçülebilir. Düşük Volatilite ile trend yoktur ve hareketler tahmin edilemez. 
+ADX Zaman Çerçevesine bağlıdır, genellikle bir zaman çerçevesi 
+belirtilmemişse örtük olarak beş dakikalık zaman çerçevesi varsayılır. Sadece 
+hacmi izlemektense ADX'i izlemek daha iyidir. Hacim büyük olabilir ve fiyat adil 
+fiyata yakınsa hareket olmaz.
+Şekil 9.3: 5 Nisan 1019 Cuma günü 13:30 CET'de Düşük Volatilite Durumu, 
+grafiğin sağ tarafı. Tüm hafta boyunca yükselen rakamlar vardı, ancak Cuma 
+günü piyasa doymuş durumda. Haftanın sonunda artık buhar yok ve Tarım 
+Dışı İstihdam Haberleri bir saat içinde başlıyor. Fiyat VWAP'ın (mor) ve 
+Ichimoku bulutunun altında kalıyor, ADX (aşağıda) 25'in altında. Açılış Aralığı 
+yalnızca 17 Puan ölçüyor. Piyasanın hareket etmemesinin bir diğer nedeni de 
+Dow Jones'un yüz seviyesinin (26400) üzerinde kalması. Bu koşulları anlamak 
+veOlumsuzticaret yapmak.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Şekil 9.4: Piyano klavyesi grafiğine dikkat edin. Bunlar gibi beş dakikalık mumlar 
+görürseniz bu pazardan uzak durmalısınız.
+Yanal piyasaların özellikleri şunlardır:
+● Fiyat genellikle VWAP, Kontrol Noktası veya diğer denge fiyatlarına yakındır
+● Hacim profilinin değer alanındaki fiyat
+● Ichimoku bulutu içinde veya yakınında fiyat
+● Fiyat tüm gün boyunca açılış aralığında (ilk saatlik mumun 
+aralığı) kalır
+● ADX 25'in altında
+● Simetrik Üçgenler
+● Birbirine yakın iç ve dış mumlar
+● Ema10 ve ema20'nin birçok geçişi
+● Hakim bir piyasada (Dow Jones) 100 veya 1000 civarında fiyat
+● Beş dakikalık grafik bir piyano klavyesine benziyor
+● Değer alanı nispeten küçüktür (Dow Jones için yaklaşık 100 veya 
+Alman Dax için 40 puan olmalıdır)
+Çoğu yatırımcı, bir piyasanın ne zaman aralıklara girdiğini göremediği için kaybeder. Bir trendden 
+sonraki aralık aşaması, önceki tüm kazançları ortadan kaldırabilir. Bir çözüm, aralıklı ve dalgalı 
+piyasalardan kaçınmaktır. Bu nedenle, ABD açılışından hemen sonra endekslerle işlem yapmayın. 
+Yalnızca Dow ve S&P doğrudan yukarı veya aşağı giderse işlem yapın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Eğer bir aralıklı pazara girerseniz, 5 dakika yerine 15 veya 30 dakika gibi 
+daha uzun bir zaman dilimine bakmanız en iyisidir. Küresel yönü daha 
+iyi göreceksiniz.
+Dow Jones'un değişen piyasalarında sıklıkla görülen bir model, nakit piyasasının 
+VWAP'sinden vadeli piyasanın VWAP'sine doğru ping pong'dur. Her iki VWAP'nin 
+de kendine özgü anlamları vardır.
+Dalgalı piyasalar
+Değişken piyasaların yanı sıra yükselen piyasalar da var. Bunlar çoğunlukla haber zamanlarında ortaya 
+çıkar, ancak herhangi bir zamanda da ortaya çıkabilir. Hatta bir Trump tweet'inden bile olabilir.
+Şekil 9.5: 14:50 CEST'de aşırı titreme. Bunun için özel bir açıklama yok. Ancak 
+genellikle 13:00 ile 15:30 CEST arasındaki zaman, nakit piyasasının açılmasından 
+önce düşük bir hacme sahip oldukları için piyasalar çok dalgalı olabileceğinden, 
+işlem yapmak için iyi değildir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Şekil 9.6: Dow Jones grafiği bin (25000) 110 puanlık bir toparlanmayı 
+gösteriyor. 29 Mayıs 2019. 10 saniyelik grafik.
+Genellikle piyasalar nakit piyasalarının açıldığı zamanlarda daha iyi çalışır. Ön açılış 
+her zaman öngörülemeyen ani yükselişlere karşı daha savunmasızdır.
+Asimetrik fırsat
+İşlem yaparken her zaman en azından 2:1 risk ödül oranına sahip olmalısınız. 10 
+puanlık bir stop loss'unuz olduğunu varsayalım, böylece genel işlem mesafeniz 30 
+puandır. Yani VWAP'ın üzerinde short gitmek istiyorsanız ve VWAP ana direncinizse 
+VWAP'tan en az 30 puanlık bir mesafeye ihtiyacınız vardır. Asimetrik fırsat ilkesini 
+zorlayamazsınız. Sadece pozisyonunuzu olabildiğince erken güvence altına almaya 
+çalışın ve stop loss'u olabildiğince uzağa kadar takip edin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Şekil 4.11: VWAP sağlam bir destek oluşturuyor. Bu durumda kısa pozisyon 
+açmak istiyorsanız, fiyatın VWAP'ın altına kolayca düşmeyeceğinden emin 
+olabilirsiniz. Kısa pozisyon açmak için yeterli alan yok, çünkü 10 puanlık bir stop 
+loss'unuz varsa tüm pozisyon 30 puanlık bir mesafe alıyor, ki bu da yok. Asimetrik 
+fırsat eksikliği nedeniyle pozisyon açılmıyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+10 GERİYE DÖNÜK TEST
+Likit varlıklar ticareti yaparken çok hızlı algoritmalarla rekabet edersiniz. Bilgisayarlar 
+insan beyninden çok daha hızlıdır, ancak asla o kadar akıllı değildir ve katı bir şema 
+izlerler. En karmaşık algoritmaların çoğu çok para kaybetti. Ticaret yaparken bir 
+dergiye not almak zorunludur. Stratejinizin iyi olduğu kanıtlanana kadar gerçek 
+parayla ticaret yapmamalısınız. Tek bir pazarda uzmanlaşırsanız ve ne zaman ticaret 
+yapacağınızı ve ne zaman yapmayacağınızı tam olarak biliyorsanız, tüm 
+algoritmaların toplamından çok daha iyi olabilirsiniz. Algoritmaların bile birbirleriyle 
+savaştığını ve insan beyninin tanıyabileceği desenler oluşturduğunu unutmayın.
+Geriye dönük test ile geçmiş işlem günlerini taklit edip eski ve yeni kuralları test 
+etmeyi ve otomatik olarak işlem yapan çok değişkenli bir süper robot geliştirmemeyi 
+anlıyorum.
+Aşağıdaki şekilde geçmiş işlem günlerini tekrar test ediyorum ve VWAP ile fiyatın nasıl birlikte 
+hareket ettiğini görüyorumİsviçre Backtester EA,Metatrader 5 için benden ücretsiz olarak 
+edinebileceğiniz bir simülasyon aracı (kaynaklara bakın). Ayrıca TradingView.com'un tekrar 
+oynatma işleviyle bir işlem gününü simüle edebilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Şekil 10.1 6 Haziran 2019'da Dow Jones'un dalgalı açılış öncesi davranışının İsviçre 
+ImportantSignals EA ile geriye dönük testi.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+11 UYGULAMA
+Trend çizgileri işlem yaparken çok önemlidir, bunu yeterince vurgulayamam. Herhangi 
+bir göstergeden daha hızlı sinyal gösterirler. Saatlik, beş ve bir dakikalık grafiklerde her 
+zaman trend çizgileri çizmelisiniz. Otomatik olarak çizilen çizgiler can sıkıcı 
+olabileceğinden bunları elle çizmelisiniz. Trend çizgisi çizmeden bir işleme başlamayın. 
+Bir trend çizgisi veya onun bir kırılması boyunca işlem yapın.
+Şekil 11.1: Bir dakikalık grafikte trend çizgileri çizmek, Piyasanın mekanizmasını 
+anlamaya yardımcı olur. Birçok piyasa trend çizgilerine yönelir (22 Haziran 
+2019).
+Saatlik grafik de çok önemlidir. Aşağıdaki şekilde fiyat VWAP'ın üzerinde seyreder. 
+Zirvenin hacmi elimine edilirKısa vadeli yatırımcıların kapatması gereken üç çekiç 
+mumu ile işaretlenmiştir. Kapanıştan on dakika önce fiyat VWAP'a ve daha aşağıya 
+düşer.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Şekil 11.2: 22 Haziran 2019'da 17:00'de yaşanan yükseliş. Hacim tekrar azaltılmalı. 
+En azından 21:50'de fiyat VWAP'ın altına düşüyor.
+VWAP'ın ana destek olabileceğini unutmayın. İşlem için yeterli alan yoksa 
+VWAP'ın hemen üzerinde short yapmayın. Risk R'niz 10 puansa (stop loss 10 
+puan) VWAP'ın üzerindeki işleminiz için 30 puana ihtiyacınız var. Ancak
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Beş dakikalık grafikte çift tepe ve yeni bir düşüş trendi oluşmadan kısa 
+pozisyon açmayın.
+Şekil 11.3: Alanınız olsa bile işlem yapmayın. R'niz 10 puansa işleminiz en az 
+30 puan alır. VWAP'a olan mesafe 30 puandan fazla olduğu için işlem 
+yapma riskiniz olabilir. Ancak çok fazla alanınız kalmadı. Ancak alan yeterli 
+değil. En azından bir çift tepe ve yeni bir düşüş trendi başlamalıdır.
+Şekil 11.4: Önceki şeklin çift tepesi gelişmedi. Potansiyel bir sonraki çift tepeyi 
+beklemeniz gerekiyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Şekil 11.5 Sadece Avrupa piyasalarının açılışından sonra kısa pozisyon için küçük 
+bir şans olabilir. Ancak işlem yapmadan önce 15 Dakika beklemelisiniz (20.6.19)
+Şekil 11.6: Gün ilerledikçe ana destek/direnç çizgilerini çizin. 
+(20.6.18, 14:43 CET)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Şekil 11.7: Dow Jones'ta düşüş günü, 12 Haziran 2019, 12:50 CEST: Fiyat VWAP'ı 
+tekrar tekrar ziyaret ediyor. Bu durumda VWAP'ta (fiyatın üzerindeki mor çizgi) 
+kısa pozisyon açmalısınız, ancak yalnızca yeni bir trend görürseniz.
+Hareketler olmadan işlem yapmak çok zordur. Hareket olup olmadığını 
+kontrol etmenin bir ölçüsü, değer alanının yüksekliğini ölçmektir.
+Şekil 11.8: Değer alanının yüksekliğini ölçmek, bir varlığın alınıp satılabileceğine dair 
+bir ipucu verir. Alman Dax yalnızca 30 puan ölçer. (12 Haziran 2019, 16:33 CEST). 30 
+puan kazançla işlem yapmak için pek yeterli değildir. Dow Jones aynı zamanda 66 
+puan ölçer. İyi işlemler için Dax ile yaklaşık 40 puana ve Dow Jones ile yaklaşık 100 
+puana ihtiyacınız vardır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Şekil 11.9: VWAP ve açılış aralığı üzerindeki fiyat kırılmaları (açık mavi çizgiler) 
+Fransa'nın PMI verileri çok iyi olduğu için 9:15'te. VWAP Stratejisi kurallarına 
+göre, VWAP'nin kırılma noktasında uzun yönde teminatsız bir pozisyonla işlem 
+yapılmasına izin verilmeyecektir. Baş ve omuz örüntüsünden sonra fiyat açılış 
+aralığına geri düşer. Kısa işlemde, fiyat VWAP olduğunda kısa bir duraklama 
+yaşarsınız çünkü VWAP'de her zaman bir geri tepme olasılığı vardır (22 
+Ağustos 2019).
+İşlem günlüğünüzün değerlendirilmesi önemlidir. Başarılı işlemleriniz için bir 
+Oyun Kitabı oluşturun.
+İyi Günler:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Şekil 11.10: 7 Mayıs 2019, çok güzel bir gün. Fiyatın VWAP'ın altına doğru inmesi. Net 
+düşüş trendi.
+Şekil 11.11: 22 Mayıs 2019: Çok iyi bir gün, fiyat VWAP'tan (mor çizgi) geri dönüyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Şekil 11.12: 16 Mayıs 2019: Son derece iyi bir gün. Fiyat VWAP'ın çok net bir şekilde 
+üzerinde yükseliyor.
+Kötü günler:
+Şekil 11.13: 21 Mayıs 2019. Kayıplı gün. Fiyat VWAP'tan (mor çizgi) 
+uzaklaşamıyor. Birkaç hareket.
+Karma gün:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Şekil 11.14: 17 Mayıs 2019: Çok az hareketle çok kötü bir sabah. Öğlen kısa bir 
+pozisyonla durduruldu. Öğleden sonra güzel bir trend var, işlem yapmak çok 
+basit.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+12 KAYNAK
+Araçlarımı ve göstergelerimi şu adreste bulabilirsiniz:
+https://www.mql5.com/de/users/gronowski/seller#products
+Metatrader 5 için kullandığım diğer indikatörleri mql5.com'da bulabilirsiniz (Heiken 
+Ashi, Direnç&Destek, Salınım Grafiği).
+Bana bir e-posta gönderirseniz, geriye dönük test amaçlı İsviçre Backtester 
+EA'sını alabilirsiniz (terence.gronowski@gmail.com ). Lütfen kitaba başvurun.
+Youtube Kanalıma “Swiss Trader” yazarak ulaşabilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+13 KAYNAKLAR
+Dalton, James, Piyasalar Üzerindeki Zihin, Trader's Press Inc, 1999
+Enger, Andre, Gann Swing Grafiği ve hibrit ZigZag uygulaması, 2016 
+Metaquotes inc., Metatrader 5, çeşitli Rakamlar
+Slavin Kevin, Algoritmalar Dünyamızı Nasıl Şekillendiriyor, Ted Konuşması 
+2014 Tradingview.com: Çeşitli figürler
+Tradovate.com: Geleceğin Platformu, Çeşitli Figürler
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+14 EK
+Günlük
+Günlük yazmak en önemlisidir. Günlüğümü elle yazıyorum çünkü yazmaktan daha 
+hızlı. Sadece en önemli özellikleri not ediyorum. Her durumda uzun/kısa, başlangıç   
+ve bitiş zamanı ve fiyatı not etmelisiniz.
+Ticaret Formu Sayfa 1Tarih Çar May 5 2019 no 
+Dax
+Bugün
+R. Dax'ın Açılışı:
+Açılış R. Dow: 26705/26689 Açıklamalar: S10 
+Grafiğine bakın EMA200/S10, Rebounds Fonu: …
+7692.86…….
+1. 2.
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+3.
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+Varlık
+Sinyal
+Uzun/kısa
+Fiyat
+Başlangıç   Zamanı
+Son Zaman
+Sözleşmeler
+SL
+Tütün
+Bölge VWAP
+K/Z
+K/Z Günü
+Fonlar hareket eder.
+______
+______
+______
+______
+______
+______
+______
+______
+______
+______
+______
+______
+______
+Tablo 14.1: Bir ticaret günlüğü örneği. Her bir ticaret için bir not almak hayati 
+önem taşır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

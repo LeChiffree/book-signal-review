@@ -1,0 +1,991 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 1\Baskı 1\Gelişmiş Order Block Kılavuzu - James Jecool King (58 sayfa) - @eseckal.pdf
+PAGES: 58
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 2 ===
+Sipariş Bloku Kurumsal Ticaret Pratik Kılavuzu
+The Inner Circle Traders Akıllı Para Kavramı Stratejisi, 
+Piyasa Yapısı, Fiyat Hareketi ve Yukarıdan Aşağıya Teknik 
+Analiz
+Telif Hakkı ©2022 James Jecool King 
+Tüm Hakları Saklıdır
+Bu yayının hiçbir kısmı, yayıncının önceden yazılı izni olmadan, 
+fotokopi, kayıt veya diğer elektronik veya mekanik yöntemler de 
+dahil olmak üzere hiçbir biçimde veya yöntemle çoğaltılamaz, 
+dağıtılamaz veya iletilemez.
+Ticarette Kurumsal Sipariş Bloku Teorisinin Kullanımı
+1. Günlük TF ile başlayıp H4 TF'ye geçerek OB'leri tanımlayın. D1 ve H4 
+TF'lerini kullanarak sipariş akışınızı (kurumsal trend) hesaplayın.
+2. Artık uzun vadeli kurumsal önyargıya sahip olduğunuz için OB'leri H1 ve M15 gibi 
+daha düşük TF'lerde oluşturun. Gerçek trendin gittiği yer burası olduğundan, M15 girişi, 
+TF girişi, girişlerin YÜKSEK TF Sipariş Akışı/Kurumsal önyargıyı takip etmesini gerektirir.
+3. Fiyat önceki bir OB'yi ihlal ettiğinde (yani, bir OB'nin üstünde veya altında 
+kapandığında) girmeden önce bir RTO'yu (Siparişe Dönüş Bloğu) beklemeliyiz. 
+Fiyat, OB bozulduğunda tekrar test etmelidir. Last Step Broken + Retest (LSB + 
+Retest) deseni bu desene verilen isimdir. Yeniden testi beklemeden arayı 
+değiştirebilirsiniz ancak bozulan OB yeniden ortaya çıkabileceğinden dikkatli 
+olmalısınız.
+Bu Sipariş Bloğu Konseptini kullanarak Kaynaktan Kaynağa alım satımların kabul edilmesini 
+bekliyoruz.
+yani PEAK'ler arasında bir işlem yapmak. Amaç budur.
+4. H4 I M15'in entegrasyonu.
+Aylık ayı grafiği. Haftalık ayı grafiği. Günlük 
+olarak düşüş eğilimi
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 3 ===
+bu, daha düşük zaman dilimlerinin ve gün içi H4, H1 ve M15 grafiklerinin düzeltileceğini ve daha 
+yukarılara doğru hareket edeceğini (yani Düşük Yüksekler oluşturacağını) gösterir. Burada, 
+fiyatın prime gireceğini tahmin ettiğinizde satış yapmak için satın alma tarafı likiditesini 
+aramalısınız (en az %50'lik yükseliş eğilimi).
+Haftalık grafikler yükselişte, günlük grafikler ise tüm ay boyunca yükseliş gösteriyor.
+Bu, gün içi grafiklerin 4 saat sonra düzeltileceğini veya aşağı doğru hareket edeceğini 
+(yani Yüksek En Düşüklere ulaşacağını) belirtir. Burada, piyasanın bir indirime girmesini 
+beklediğiniz için satın almak için satış tarafı likiditesini ararsınız (%50+ düşüş eğilimi).
+BİT KURUMSAL DÜZEN BLOK TEORİSİOB nedir?
+Emir blokları kurumsal ticarette kullanılır.
+Kurumlar, perakende eğiliminin veya para dökümünün aksine, belirli bir fiyat aralığı 
+veya mum olan Sipariş Blokunda alım veya satım yapacaktır. Kurumlar emir 
+bloklarını daha sonra kendi başlarına işlem yapmak üzere ayırırlar.
+Fiyat, bir önceki düzene (Gerçek kurumsal eğilim) tersine çevrildikten 
+sonra, eğilim yönünde sert bir şekilde yönlendirilecektir.
+Bu emir bloklarına, uzun veya kısa gidişin belirli seviyeleri olarak da 
+bakabiliriz.
+Bir emir bloğu kırıldığında veya ihlal edildiğinde "kırıcı" olarak nitelendirilir, bu da fiyatın söz 
+konusu emir bloğunu yeniden test edeceği anlamına gelir. Bazen buna başarısız sipariş 
+bloğu diyoruz.
+Not: Emir bloklarını hemen takas edemezsiniz; bunun yerine, işlem 
+yapmadan önce fiyatın o sipariş bloğuna dönmesini beklersiniz.
+Çeşitli varlıklardan alınan Sipariş Blok Teorisi özel çalışma notları
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 4 ===
+Ben. Boğa Emri Bloğu, OB (BUB) Ayı Emri Bloğunun bir türüdür, 
+ikinci (BEB)
+OB'lerin Siparişi
+1. Kaynak OB
+2. Kesici OB
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 5 ===
+3. Devam eden OB (Klasik/Geleneksel OB)
+Aşağı Kapanışlı En Düşük Mum veya Fiyat Çubuğu, Açılıştan Kapanışa En Fazla Aralık 
+ve "Destek" seviyesine Yakın olan, Yükseliş Kaynağı OB'leri olarak kabul edilir. Bu bir 
+Trend Ters Sipariş Bloğudur, dolayısıyla destek seviyesi YL, WL, ML veya ADR Düşük 
+olabilir. Bu, grafikteki en düşük fiyat noktasını veya Tepe Formasyonu Düşükünü 
+oluşturan son mumdur. Sonuç olarak, yükseliş yönlü bir SOB, piyasada çeşitli 
+kuruluşlardan alınan Sipariş Blok Teorisi özel çalışma notlarında bir değişikliği ifade 
+eder.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 6 ===
+Daha sonra oluşan bir Mum veya Fiyat Çubuğu, En Düşük Aşağı Kapanış Mumunun veya Fiyat 
+Çubuğunun En Yüksek Seviyesi boyunca veya üzerinde işlem yaptığında, yükseliş yönlü bir SOB 
+geçerli kabul edilir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 7 ===
+Giriş Teknikleri: Fiyatın yükseliş emri bloğundan daha yüksek bir seviyeye 
+yükselip ardından yükseliş emri bloğu mumuna veya yüksek fiyat 
+çubuğuna dönmesi durumunda girmeden önce fiyatın emir bloğuna 
+dönmesini veya orijine (RTO) dönmesini beklersiniz. AMAÇ BİR KAYNAKTAN 
+DİĞERİNE İŞLEM YAPMAKTIR.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 8 ===
+Riskin Tanımlanması:Boğa Emri Bloğunun En Düşük Noktasına nispeten güvenli bir Zarar 
+Durdurma yerleştirilir. Fiyat, yükseliş emri bloğundan saptığında, riski en aza indirmek için 
+zararı durdurma emrini emir bloğunun genel aralığının %50 işaretinin hemen altına 
+yükseltmenin iyi bir fikir olduğu düşünülüyor.
+Çeşitli varlıklardan alınan Sipariş Blok Teorisi özel çalışma notları
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 9 ===
+Boğa Emri Bloğu(BUB) en son salınımın açılış ve kapanış arasındaki en büyük 
+aralığa sahip yüksek salınımdaki Aşağı Kapanış mumu. Kurumlar, trende karşı 
+satış yaparak ve başlangıçtaki olumlu trendi sürdürmek için yeni piyasa 
+katılımcılarını getirerek bu alanda kar elde edecekler.
+BUB, özellikle yukarı yönlü bir ilerleme gösteren önceki Ayı mumudur. 
+BUB, fiyat düşerken (piyasa düştüğünde kurumsal satın alma) verilen 
+bir dizi kurumsal yükseliş emridir (satın almalar).
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 10 ===
+Boğa Kırıcı BlokEski bir dip kırılmadan önce en son salınım zirvesinde bulunan 
+yakın bir mumdur, bu da yükseliş aralığını gösterir. Bu Düşük seviyeden satış 
+yapan ve daha sonra aynı Swing High'ın kırıldığına tanık olan satıcılar, 
+kayıplarını azaltmaya çalışacaklardır. Bu, Fiyat Yükselişe Döndüğünde dikkate 
+alınması gereken bir yükseliş ticaret kurgusudur.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 11 ===
+Ayı Kaynak Sipariş BloğuBununla kastettiğimiz, kapanışa sahip, açılıştan 
+kapanışa en geniş aralığa sahip ve direnç seviyesine yakın olan en yüksek mum 
+veya fiyat çubuğudur. Bu bir Trend Ters Sipariş Bloğudur ve direnç seviyesi YH, 
+WH, MH veya ADR Yüksek olabilir. Grafikteki en yüksek fiyat noktasını veya Tepe 
+Formasyonunun Yüksekliğini oluşturan son mumdur. Düşüş yönlü bir SOB, 
+yükseliş eğiliminden düşüş piyasa yapısına (SMS) geçişi ifade eder.
+Daha sonra oluşan bir Mum veya Fiyat Çubuğu, En Yüksek Yakın Kapanış Mumunun veya Fiyat Çubuğunun 
+En Düşük Seviyesini geçtiğinde veya bu seviyeyi aştığında düşüş yönlü bir SOB geçerli kabul edilir.
+Giriş Stratejileri: Fiyatın düşüş eğilimi bloğundan aşağıya doğru düştüğü ve 
+ardından düşüş eğilimi bloğu mumuna veya yüksek fiyat çubuğuna döndüğü 
+zamana girmeden önce fiyatın düşüş yönlü kaynak sipariş bloğuna (RTOREmir 
+Bloğuna/Kökene Dönüş) dönmesini bekleyin. AMAÇ BİR KAYNAKTAN DİĞERİNE 
+İŞLEM YAPMAKTIR.
+Riskin Belirlenmesi: Düşüş kaynak sipariş bloğunun en yüksek noktasına bir miktar 
+güvenli Zarar Durdurma yerleştirilir. Fiyat düşüş eğiliminden uzaklaştıktan sonra
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 12 ===
+emir bloğu, zararı durdurmayı artırmanın gerektiğinde riski azaltmanın iyi bir yolu olduğu 
+düşünülüyor. Bu
+L.TENGA12
+genellikle sipariş bloğunun toplam aralığının %50 işaretinin hemen üzerinde yapılır.
+Düşüş OB(BEB), en son düşük salınımda açık ve kapalı arasında en büyük 
+aralığa sahip olan mum, yükseliş aralığı veya yakın kapanış mumudur. BEB, 
+düşüş trendindeki son yükseliş mumudur ve özellikle bir yükseliş mumu veya 
+düşüş eğilimini takip eden yükseliş mumları dizisidir.
+BEB, fiyat yükselirken kurumlar tarafından aşağı yönlü bir şekilde verilen 
+bir dizi satış emridir (piyasa yükseldiğinde kurumsal satış).
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 13 ===
+Ayı Kırıcı BlokBir düşüş eğilimi aralığı veya Eski Yüksek kırılmadan önceki en son 
+Düşük Salınımdaki Aşağı Kapanış Mum, düşüş eğilimi kırılma bloğu olarak bilinir. Bu 
+düşük seviyeden alım yapan ve daha sonra aynı düşük seviyenin kırıldığını gören 
+alıcılar, zararı azaltmaya çalışacaklardır. Bu, Fiyatın En Düşük Seviyeye Düşmesi 
+durumunda dikkate alınması gereken bir Ayı Ticaret Kurulumudur.
+Daha Düşük Zaman Dilimi Sipariş Bloğu İyileştirmesi
+OB'lerle yapmamız gereken ilk şey, onları mümkün olduğu kadar 
+azaltmaktır. Bu nedenle piyasadaki ivmenin nereden kaynaklandığını 
+anlamak bizim için çok önemli. yani kurumların girmiş olduğu yerler. 
+Fiyatın, ister yukarı ister aşağı doğru olsun, hareketine devam 
+etmeden önce genellikle momentumun ilk yavaşlamaya başladığı 
+yere geri dönmesi nedeniyle, AOI'mizi sıkılaştırdığı ve daha fazla 
+işleme girmemize izin verdiği için OB'leri LTF'de aşağı doğru rafine 
+etmekten faydalanıyoruz. tam olarak daha sıkı bir stop-loss ile ve tipik 
+olarak düşüşümüzü azaltarak. Biz ayrıca
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 14 ===
+işlemlerimizdeki getiri oranını artırma fırsatına sahip olacağız, bu da 
+iyileşecek
+Örnekler artık OB iyileştirmesini göstermektedir. Bunun 1 saatlik yükseliş OB'sini 
+gösterdiğini belirterek başlayalım. Daha sonra BOS'un yukarı hareketinden 
+önceki son aşağı yönlü mum olan bu BOS'u elde ettik. Yani, en yüksek ve en 
+düşük değerleri alırsak, bu bizim OB'miz olacaktır. Yani buradaki durağımız 10 
+pip. Artık 15 dakikalık bir perspektifimiz olduğuna göre, 1 saatlik bir perspektiften 
+15 dakikalık bir perspektife geçtiğimizde neler görebileceğimizi görebiliriz. 
+OB'mizi nasıl daraltabileceğimizin ve alanımızı daraltabileceğimizin yollarına 
+bakın.
+1 saatte görebildiğimiz şey bu ve sadece 3 mum olduğunu fark etsem 
+de, 15 metreye uzaklaştığımızda piyasa momentumunun tam olarak 
+nereye girdiğini görebiliyoruz. Bu durumda bu mum aynı zamanda bir 
+BOS'tur; en son aşağı yönlü hareketi temsil ediyor.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 15 ===
+15 dakikalık bir grafik 5 pip büyüklüğünde olabilir. Başka bir deyişle, 1 saatlik OB için 10 
+pip
+15 m'den 5 pip'e kadar daraltın.
+Bu, zararı durdurma ve giriş noktalarımız açısından şu anda ne anlama geliyor?
+Kesinliği artıran, yatırım getirisini (RR) artıran ve düşüşü 
+azaltabilen, açıkça yarısı kadar büyük bir zararı durdurma ile bir 
+ticarete girebiliriz. LTF arıtmanın gerektirdiği şey budur.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 16 ===
+Bu nedenle, bakacağımız ilk örnek yükselişe yönelik bir OB 
+iyileştirmesidir. Sağdaki bu grafik 15m, soldaki ise AU'daki 1 saatlik 
+grafiktir.
+1 saatlik grafiğe yakınlaştırırsak şimdi elimizde ne var? Bir zirve, bir 
+geri çekilme ve ardından bir BOS yaşadık. Bu nedenle yeni bir HH 
+kurduk ve şu anda temiz bir OB'deyiz. Yani BOS'tan önce son aşağı 
+doğru hamleyi yapıyoruz.
+Şimdi sadece buna göre giriş yapacak olsak bunu en üstte yapar, 
+zararı durdur emrimizi en alta koyardık ve bize 11 pip kar sağlardı.
+Şimdi sağa bakıp daraltmaya çalışırsak bu 15m olacaktır. 1 saatlik OB 
+artık 15 metreden görülebiliyor. Bunu daha basit hale getirebilir 
+miyiz? O halde ivme nereden geliyor? Açıkçası bu mumun üzerine 
+geliyor. Bu mumun ne kadar anlamlı ve önemli olduğunu 
+görebiliyoruz. Artık en son mumun nerede olduğunu veya buradaki 
+mumun olup olmadığını belirleyerek 1 saatlik OB'mizi daraltabiliriz, 
+ancak aşağıdaki mumu alırsak OB henüz yutulmamıştır. Bunu bu 
+muma göre düzeltelim, bu da etkili bir şekilde burada 11 pip'te olan 1 
+saat boyunca zararı durdurmamızı alıp 6 pip'e rafine etmek anlamına 
+geliyor. Dolayısıyla fiyatın nerede olduğuna bakarsak tam olarak 
+girdiğimizi görebiliriz; soldaki 1 saatlik OB'de koşmamız gerekiyordu
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 17 ===
+yaklaşık 5,6 RR ve burada 11,15 RR'de koşuyor olurduk. Sadece rafine 
+etmeyi ve nasıl daha doğru olabileceğimizi öğrenerek, getirimizi esasen 
+iki katına çıkardığımızı görebiliriz.
+Bu konuda daha da ileri gidebilir miyiz?
+Evet. Her durumda, eğer aşağıdaki muma bakarsak, burada küçük bir doji 
+mumumuz olduğunu görebiliriz, o herhangi bir ivme kazanmıyor,
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 18 ===
+ve henüz OB'yi sarmadı. Bu nedenle, bir adım daha ileri gidebiliriz 
+ve bu durumda bunun OB'miz olduğunu düşünebiliriz.
+Şimdi bunu öneriyor muyum?
+Hayır gerçek değil. OB'mizi işaretlemek için kullandığımız düşük 
+değere hâlâ sahibiz, dolayısıyla hâlâ düşük seviyeyi hesaba katabiliriz. 
+Ancak fikir hâlâ geçerliliğini koruyor: Yukarı doğru hareketin başladığı 
+yeri tam olarak belirledik. Eğer bunu bu mumla daraltabilirsek, 3,5 
+pip'e bakıyor olurduk ve ticaretimiz tek bir mumda %19'luk kısa bir 
+seviyede olurdu. Bu, iyileştirmenin gücünü ve pazar eğilimlerini izleme 
+ihtiyacını gösterir. Şimdi başka bir AB olayına geçelim. AB'ye bir kez 
+daha baktığımızda solda 1 saat, sağda 15 dakikayı görebiliyorduk. 
+Gördüğünüz gibi ilkinden başlayarak yapının üstüne doğru hızlı bir 
+hamle yaptık. Böylece artık çalışmamız gereken bir OB var. Yukarı 
+doğru hareketten önce bu son aşağı doğru hareketi yaşadık, ancak 
+sonraki mum momentumdan yoksundu ve OB'yi yutmayı başaramadı.
+Bu nedenle hangi mumun kullanılacağını seçmek sonuçta kişisel 
+tercihinize bağlıdır. Bu nedenle, konsolidasyon sürecinin büyümeden 
+önceki son adımı olduğundan bunu hassaslaştıracağız. BOS'un geri 
+çekildiğini, içeri girdiğini ve sonra yukarı doğru devam ettiğini görebiliriz. 
+Şimdi yüksek ve alçak arasındaki mesafeyi hesaplarsak 17,6 pip ve 
+2,8RR'ye bakıyoruz.
+Şimdi elimizde ne var, 15 milyon mu? Bu konsolidasyon alanından 
+genişlemeden önce, bu önemli fitil ile son aşağı doğru hareketimizi 
+gerçekleştiriyoruz. Bundan sonra tekrar başvurduk, ancak yine de bu 
+konuda daha spesifik olabiliriz. Fiyat geri geldiğinde limitli bir emirle 
+girdiğimizi varsayarsak zararı durdurma 14 pip olacaktır, ancak yine de 
+bunu daha da daraltabiliriz.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 19 ===
+Henüz gerçek bir ivme göstermediğimiz için bu mumu alıp dikkatimizi 
+bir sonrakine çevirebiliriz. Görebildiğimiz gibi, bir sonraki mum bu 
+aralığın dışına çıktığımız zamandır, dolayısıyla momentum bu mumun 
+üzerine girmiştir.
+Dolayısıyla bu, zararı durdurmamızı 14 pip'ten 6 pip'e kadar 
+düşürmemizi sağlıyor.
+Elbette yapılması gereken birkaç küçük ayar var ama şimdilik 
+bununla yetinelim. Tam olarak girdiğimizi görebiliyoruz, ancak şimdi 
+yukarı doğru hareket etmemiz gerekiyor. Sonuç olarak kârımız 
+önceki mum OB ile 4,8RR'den 4,8RR'ye yükseldi.
+6 pip'e rafine edildikten sonra 10,3RR. Fiyat değişikliklerinin açıkça sorunlu 
+olacağı durumlarda girişleri onay almadan körü körüne yerleştirmemize 
+rağmen, artık bu ayarlamanın etkinliğini görebiliyoruz.
+Şimdi ek bilgi için nasıl bekleneceğini tartışacağız. Fiyat, 1 saatlik veya 15 
+dakikalık bir OB'de OB'ye doğru iner inmez, 5 milyon veya 1 milyon veya 
+hatta 30 saniye gibi bir LTF'ye düşebiliriz ve aradığımız şey
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 20 ===
+for aslında bu şekilde azalacak ve ardından bize BOS'u gösterecek şekilde 
+fiyatlandırılır. Bunu tıpkı burada yaptığımız gibi, fiyatın BOS olduğunu 
+bildiğimiz LTF'de görmek istiyoruz. Bu nedenle buna benzer güzel bir 
+yükseliş görmek istiyoruz. Yukarıdaki yapının bozulduğunu görebiliyoruz 
+çünkü elimizde bu LL, LH, bir BOS ve diyelim ki bir HTF POI veya OB vardı.
+Bu nedenle, giriş yaptıktan sonra, LTF üzerinde bir OB oluşturacak olan LTF 
+BOS'u görüntülemek istiyoruz. Dolayısıyla, tek dokunuşla daha riskli bir giriş 
+yapmak ve ardından gitmek yerine, bu bize çok daha fazla onay sunuyor. 
+Fiyatın hareketini bekliyoruz ve bu BOS'u aldıktan sonra şüphesiz giriş 
+yapabiliriz. Gerçekten sıkı bir zarar durdurma sınırımız var, bu şekilde yalnızca 
+bir, iki veya üç piplik zararı durdurma ile bir işleme girebiliriz ve yine de 
+oldukça güçlü bir yatırım getirisine (RR) sahip olabiliriz.
+Aşağıdaki örnek bir öncekinin hemen hemen aynısı, ancak bu 
+kavramı elimden geldiğince vurgulamak istiyorum çünkü öyle
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 21 ===
+güçlü. Sonuç olarak 1 saat sonra bu noktadan taşınma başlatıldı. 
+Halihazırda son aşağı yönlü hareketimiz var ancak bunu kolaylıkla bu 
+muma indirgeyebiliriz. Bu, 15,8 piplik bir OB ile sonuçlanır. Hareket 
+etmeye başladığımızda girişimizi ayarlayabilir ve bu muma 
+etiketlenebiliriz. Artık en az 15,7 pip yüksekliğinde bir zararı 
+durdurmaya ihtiyacımız var. Sonuç olarak, bir, iki kez ve tekrar 
+bağlantıya geçildikten sonra ittiğimizi görebiliriz. Ancak daha aşağı 
+itmek için geri geldikten sonra ittik ve BOS'u ittik. Artık 15,7 pip'in çok 
+büyük bir zararı durdurma boyutu olduğunu tespit ettiğimize göre, 
+bunu 15m'de nasıl azaltabileceğimize bakalım.
+Artık bu hamle 15 metrede olduğuna göre bunun doji ile temsil 
+edilen son aşağı hareket olduğunu görebiliriz. Bu, son aşağı 
+yönlü hareket çünkü momentum, bu yüksek seviyenin üzerinde 
+kırılan sonraki mumlara da girdi. Dolayısıyla fiyatın bu bölgeye 
+dönmesi ve muhtemelen bu noktaya kadar düşmesi muhtemel. 
+Ancak bu noktaya gelip sonra devam edebilir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 22 ===
+O halde bekleyip görelim. Öyleyse başlayalım. Burada da bu düşükleri 
+kullanarak bir miktar likidite yarattık. Artık haberlerin muhtemelen suçlu 
+olduğunu göstererek gerçekten de içeri girdiğimizi görebiliyoruz. Ancak 
+haberler, emirleri toplayıp ilerlemeden önce sahip olabileceğim satış 
+pozisyonlarını hafifletmek amacıyla güçlü kurumlar tarafından piyasaya 
+girmek ve fiyatları düşürmek için kullanılan bir araçtır. Bu nedenle, 
+girişimizi 15m OB'de konumlandıracak olsaydık, bu girişi dikkate alırdık. 
+5 piplik stop kaybımız olduğu için zararı durdurma miktarımızı 1 saat 
+olan 15 pip'ten 15 m yani 5 pip'e düşürebildiğimizi görüyoruz. Bu 
+nedenle zarar durdurmamızı 10 pip kadar azalttık, bu da sonuçta 
+işlemlerde çok daha yüksek bir getiri oranıyla sonuçlanacak. Dolayısıyla 
+bu noktadan itibaren 11RR'nin göründüğünü, saatte 3RR'nin 
+bulunduğunu görüyoruz. Şu anda AU'da bir satış örneğini inceliyoruz, 
+bu nedenle düşüş yönlü OB iyileştirmesi arıyoruz. Bu aşağı hareket çok 
+dürtüseldi ve
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 23 ===
+birçok yapıyı kırdı. Sonuç olarak burada inceleyebileceğimiz 
+bir OB'miz olur.
+Ancak fiyat hareketine baktığımızda geri çekildik ve sonra tekrar 
+patronluk yaparak başka bir OB oluşturduk. Zaten patronlarımız 
+olduğu için bu, fiyatın ilk OB'ye kadar artması gerektiği anlamına 
+gelmiyor.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 24 ===
+Bu nedenle bu daha sonraki bir zamanda uygulanabilir. Aşağı yönlü 
+hareketten önceki son yükseliş mumu düşüş OB'sidir çünkü bu 
+pozisyondayız. Şimdi, girmeyi düşünecek olursak,
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 25 ===
+limit emri bu noktada etiketlenmiş olacaktı ve zararı durdurmamızın 12 pip 
+olması gerekiyordu. Şu anda mevcut olan veya hemen altındaki düşük seviye 
+bizim için hedeflememiz gereken güzel bir hedef. Bu nedenle 5RR'yi en düşük 
+seviyeye doğru inceliyoruz.
+Ancak odağımızı bir kez daha 15m'ye kaydırırsak 1 saatteki 
+gibi aynı hareketi görebiliriz ama onu daraltabiliriz.
+Sipariş Bloğu
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 26 ===
+OrderBlock'lar Nasıl Bulunur ve 
+Ticaret Yapılır?
+Youtube tüccarı ICT tarafından popüler hale getirilen emir blokları fikri son yıllarda 
+büyük ilgi gördü ve artık birçok insanın bunların ne olduğu ve ticaret sırasında 
+bunları nasıl kullanacağı konusunda soruları var.
+Başka bir deyişle, sipariş blokları temelde farklı arz ve talep 
+bölgeleridir.
+Bununla birlikte, tipik bölgelere göre geri dönüş sağlama şansları ÇOK daha 
+fazladır. Ayrıca normal S&D bölgelerinden önemli ölçüde farklı şekilde 
+gelişirler; Tipik iki veya üç mum tabanından başlamak yerine, yalnızca dar 
+aralıktaki konsolidasyondan oluşmaya başlarlar.
+Emir blokları çoğu yatırımcının aşina olmadığı bir kavram olduğundan, bu yazıda size 
+bunların ne olduğu, bunları grafikte nasıl göreceğiniz ve işlemlerinizde nasıl 
+kullanacağınız hakkında kapsamlı bir açıklama yapacağım.Sipariş blokları harika bir kurulum olacak
+sonuna doğru ticaret araç kutunuza ekleyebilirsiniz. Öyleyse emir bloklarını ve oluşumlarını 
+inceleyelim.
+Sipariş blokları: Nelerdir ve Nasıl Oluşurlar?
+Adını aldıkları blok emir, bir bankanın alım veya satım için piyasaya 
+girdiğinde bir emir bloğu oluşturarak gelişen özel bir tür arz ve 
+talep bölgesidir.
+Emir akışı ticaretine aşina iseniz muhtemelen blok emirlerini 
+duymuşsunuzdur.
+Bunlar, bankaların işlemlere girmek, işlemleri kapatmak ve kar almak için sıklıkla 
+kullandıkları belirli alım veya satım emirleridir. Bankalar, doldurmaları gereken büyük bir 
+pozisyon olduğunda fiyatları düşürmekten kaçınırlar çünkü bunu yapmak önemli bir 
+harekete neden olabilir ve işlemlerini daha düşük fiyatlarla gerçekleştirmeye zorlayabilir, 
+bu da karlarını azaltabilir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 27 ===
+Bunu önlemek amacıyla blok emirleri konumlarını daha küçük, daha 
+yönetilebilir parçalara bölmek için kullanılır.
+Bu işler böyle yürür:
+JP Morgan'ın 200 milyon avroyu 50 milyon dolardan satın almak istediği 
+bir senaryoyu düşünün.
+Tabii ki JP Morgan bu siparişi veremez; yeterli alıcı yok. Sadece 50 milyon 
+hisse satılırken şimdi satın alırlarsa pozisyonlarının sadece 50 milyonu 
+dolmuş olacak; Geriye kalan 150 milyon hisse ise giderek artan fiyatlarla 
+doldurulacak, bu da genel kârlarını azaltacak ve onlara büyük sıkıntı 
+yaşatacak.
+Pozisyonu yönetilebilir parçalara bölmek için blok düzenlemesi kullanmaya 
+karar veriyorlar.
+Fiyatı önemli ölçüde bozmadan, örneğin 20 milyon aynaya bölerek 
+pozisyonlarını yerleştirebilirler.
+Mesela satılan 50 milyon, ilk siparişleri olan 20 milyonla eşleştirilecekti. Satış emirlerinin hala alış 
+emirlerinden daha yüksek olması nedeniyle (20 milyona karşı 50 milyon), bu durum hızlı bir yükselişe veya 
+fiyatta bozulmaya yol açmayacaktır. Daha sonra emirlerin tekrar alınmasını bekledikten sonra bir sonraki 
+yığına girebilirler.
+Bir arz veya talep bölgesi, özellikle de dar aralıktaki konsolidasyondan gelen bir bölge, milyon sipariş ortaya 
+çıkıyor, sonra bir başkası vb.
+Tipik sipariş blok bölgeleri şuna benzer; sana tanıdık geliyor mu?
+Yakından bakarsanız, fiyatın dar bir aralıktaki konsolidasyondan kurtulduğu 
+zaman gelişen bölgeyi görebilirsiniz.
+Order-block, çalışma şekli nedeniyle bu konsolidasyonlara neden olur.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 28 ===
+Bankalar, fiyatı etkilemeden büyük pozisyon almak istediklerinde emir 
+bloklarını kullanırlar. Piyasaya gerçekten girmeden, aynı değerlerin etrafına 
+çok sayıda küçük pozisyon yerleştirerek tek bir büyük pozisyon yerleştirmekle 
+aynı sonucu elde ederler.
+Dar aralıklı konsolidasyon, bankaların karşılaştırılabilir fiyatlarla çok sayıda benzer 
+pozisyon almasıyla oluşur; her pozisyon konsolidasyonun yüksek (veya kısa devre 
+yapıyorsa düşük) seviyesini oluşturur.
+Devam etmeden önce sipariş bloklarının kısa bir özetini burada bulabilirsiniz:
+Arz ve talep bölgeleri sipariş bloklarıdır ancak farklı türdendirler.
+Bankaların, büyük bir pozisyonu (ticaret gibi) birçok küçük pozisyona bölerek 
+bankaların fiyatı yükseltmeden alım veya satım yapmasını kolaylaştıran blok 
+emirleri kullanarak alım veya satım yapmaları sonucunda gelişirler.
+Çeşitli varlıklardan alınan Sipariş Blok Teorisi özel çalışma notları
+Bölgelerin kendisi mimari olarak tipik arz ve talep bölgeleriyle karşılaştırılabilir. 
+Ancak bunlar yalnızca fiyatın dar aralıktaki konsolidasyonun oluşturduğu tabandan 
+sapması durumunda ortaya çıkar. Bu, büyük bir pozisyona girmek için blok emri 
+kullanılarak, aynı anda karşılaştırılabilir fiyatlarla daha küçük pozisyonlar konularak 
+dar aralıklı bir konsolidasyonun oluşturulabilmesini sağlar.
+Sipariş Blokları ile Düzenli Arz ve Talep Bölgeleri Arasındaki Fark
+Soru şu: Arz ve talep bölgeleri olduklarını ancak farklı tipte olduklarını 
+bildiğimiz halde, sipariş blokları her zaman gördüğümüz tipik bölgelerden 
+nasıl farklılaşıyor?
+Aslında iki temel fark var...
+Birincisi, sipariş blokajlarının tersine dönme olasılığı tipik arz ve talep 
+bölgelerine göre çok daha yüksektir.
+Ve bu, nerede veya ne zaman ortaya çıktıklarına bakılmaksızın, yani uzun süreli bir yükseliş veya düşüşten 
+sonra ortaya çıkıp çıkmadıklarına bakılmaksızın geçerlidir; bu da, normal bölgelerin bir tersine dönmeye 
+neden olabileceği ihtimalini yükseltir.
+Blok emirler bankalar tarafından yalnızca doldurulacak özellikle büyük pozisyonlar 
+olduğunda kullanıldığından, bölgeler bunları kullanarak alım veya satım yaparken 
+oluşturulur. Bankalar kesinlikle fiyatların istedikleri seviyenin ötesine geçmesini istemiyorlar.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 29 ===
+Büyük bir pozisyon yerleştiriyorlarsa S veya D bölgesi olan satın alınır veya 
+satılır.
+Bölgenin bir geri dönüş yaratma olasılığı yüksek çünkü bankalar, fiyatın 
+istenen yönde hareket ettiğinden kesinlikle emin olmadıkları sürece bu 
+kadar büyük bir hisseyi almayacaklardı.
+Düzen bloğu bölgelerinin görünümü diğer bir ayrımdır.
+Sipariş blokları genellikle normal arz ve talep bölgelerine benzer çünkü tüm 
+bölgeler gibi bunlar da bir tabandan uzakta ani bir yükseliş veya düşüşten 
+gelişir.
+Sipariş blokları, normal bölgelerin aksine, yukarıda da görebileceğiniz gibi her zaman 
+fiyatların dar aralıktaki konsolidasyondan uzaklaşmasından kaynaklanır. Çünkü 
+bankalar ellerindeki varlıkları piyasaya sürmek için blok emri uyguladığında ortaya 
+çıkan yapı budur.
+Her pozisyon karşılaştırılabilir bir fiyattan bir blok emriyle girilir ve bu, 
+konsolidasyonun en yüksek (veya duruma göre en düşük) fiyatlarının 
+birbirine kabaca eşit fiyatlarla gelişmesine neden olur.
+Bu, yukarıda görebileceğiniz gibi grafikte sıkı bir aralık konsolidasyonuyla sonuçlanır. Bu nedenle 
+emir blok bölgelerini bulmak için yapmanız gereken tek şey küçük, dar aralıklı bir konsolidasyon 
+aramaktır. Bunlar yalnızca blok emir kullanan bankalardan kaynaklanmaktadır, bu nedenle 
+kaynakta bir bölge olması GEREKLİdir.
+Sipariş Bloklarını Nasıl Bulunur ve Ticaretinizde Nasıl Kullanılır?
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 30 ===
+Sipariş blokları, birincil ticaret tekniğinize ek olarak dikkat edilmesi gereken yüksek olasılıklı bir 
+kurulum olarak kullanıldığında en iyi sonucu verir.
+Sipariş blok bölgeleri sıklıkla oluşmaz, bu nedenle bunları tek bir taktik olarak kullanmak 
+aslında bir seçenek değildir.
+Ancak bunları bir kurulum olarak kullanırsanız, daha fazla para kazanmak 
+için birincil ticaret tekniğinizi desteklemek için kullanabileceğiniz yüksek 
+olasılıklı ticaret sinyalleri sağlayabilirler. Bunları ticaretimde bu şekilde 
+kullanıyorum. Ana ticaret yaklaşımım arz ve talebe dayanıyor ve ayrıca iki 
+veya üç kuruluma da dikkat ediyorum.
+Kitabımda sıra bloklarını, pin çubuklarını ve tersine dönme modelini 
+tartışıyorum. Birincil ticaret yaklaşımıma sundukları çeşitlendirmenin bir sonucu 
+olarak, genel riski azaltırken karımı artırmamı sağlıyorlar.
+Peki ticaretinizde kullanacağınız sipariş bloklarını nasıl bulursunuz? Emir blokları 
+temel olarak arz ve talep bölgeleridir, sadece çok daha nadir bir formdadır, 
+dolayısıyla bu bölgelerin ticareti tam olarak normal ticaretle aynı şekilde çalışır::
+Grafikte bir bölgeyi işaretliyorsunuz...
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 31 ===
+Raptiye çubuğu, yutan mum veya geniş aralıklı bir mum gibi bir onay 
+göstergesi vermeden önce fiyatın girmesini bekleyin.
+Bölgenin karşı tarafında bir stop koyun ve fiyatın düşüp 
+düşmediğini izleyin. Basit.
+Biraz daha zorlu olmasına rağmen bölgeleri bulmak pratikle hala 
+kolaydır.
+Akılda tutulması gereken en önemli şey, dar bir aralıktan gelişen 
+bir bölgeyi aramaktır.
+veya piyasa iki yakın fiyat arasında dalgalanıp bir konsolidasyon 
+yarattığında. Bunlar
+konsolidasyonlar YALNIZCA bankalar tarafından verilen blok emirlerden kaynaklanır, dolayısıyla bir 
+emir olması gerekir
+Bir arz veya talep bölgesi oluşturmak için kaynakta bloke 
+edin. Birkaç örneğe bakalım...
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 32 ===
+İşte normal bir emir blokaj bölgesi şu şekilde ortaya çıkıyor.
+L.TENGA23
+Dar aralıktaki konsolidasyondan güçlü bir ilerleme bu talep bölgesini 
+yaratıyor. Daha yükseğe çıkıp emir bloğunu oluşturmadan önce fiyat 
+1,21600 ile 1,22000 arasında salınıyor.
+Ne kadar sıkı olduğuna ve bu konsolidasyonun nasıl göründüğüne dikkat edin. Diğer 
+konsolidasyonlardan farklı olarak bu konsolidasyonda, çeşitli fiyatlarda sona eren 
+keskin fiyat dalgalanmaları yer almıyor. Fiyat, dalgalanmaların küçük olması ve kabaca 
+aynı noktalarda bitmesi nedeniyle dikdörtgeni andıran bu son derece dar aralıkla 
+sınırlıdır.
+Sipariş bloklarını bulmak için belirli konsolidasyon türlerini aramalısınız.
+Burada 15 dakikalık grafikten alınan bir tane daha sunulmaktadır.
+Konsolidasyona bir kez daha bakın; Kompakt ve neredeyse dikdörtgen şeklindedir. Bunların 
+ancak bankaların blok emir kullanması durumunda meydana gelebileceğini biliyoruz.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 33 ===
+kaynağın bir sipariş blok bölgesine sahip olması gerekir.
+Konsolidasyon, bir hamleden sonra değil de, düşük veya yüksek bir salınım sırasında nadiren meydana 
+gelir.
+Bunu gördüğünüzde emir blok bölgesini en son düşük/yüksek salınımdan 
+konsolidasyona kadar çizin. Daha sonra geçerli bir bölge olacaktır. Bizim durumumuzda, 
+bankaların pozisyon alması ve kalan pozisyonları biraz daha yüksek bir fiyata koymak için 
+blok emri kullanması durumunda talep bölgesi olan yükseliş yaratılıyor.
+Arz ve Talebe Giriş Arz ve Talep 
+Nedir?
+Arz ve talep teorisine göre, bir malın arzı fazla ve talebi düşük 
+olduğunda fazlalık yaratılır ve bu da fiyatı düşürür.
+Arzın düşük ve talebin güçlü olması durumunda bir emtia 
+kıtlaşacak ve bu da fiyatı artıracaktır.
+Forex piyasasında bir döviz çiftinin arzı büyük ve talebi düşük 
+olduğunda fiyatlar düşecektir. Bir döviz çiftine talebin fazla olması ve 
+arzın yetersiz olması durumunda fiyatlar artacaktır.
+Örneğin yatırımcılar, korku ve belirsizliğin olduğu durumlarda yatırımlarını korumak 
+için güvenli liman para birimleri satın almaya başlıyor ve hisse senedi piyasalarına 
+olan risklerini en aza indiriyorlar. Yatırımcıların Japon yeni satın almaya yönelik büyük 
+talebi nedeniyle, yüksek talebin bir sonucu olarak yen fiyatı yükselecek.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 34 ===
+Başka bir örnek, Federal Rezerv'in veya Fed'in faiz oranlarını artırmaya karar 
+vermesidir. Faiz getirisi nedeniyle bu durum yatırımcıları ABD dolarına çekecektir. 
+Yüksek faiz oranlı para birimlerinin satın alınması ve düşük faiz oranlı para 
+birimlerinin satılması, taşıma ticareti olarak adlandırılır.
+Arz ve talep olarak bilinen genel bir fikir, ticareti yapılabilecek her şeyi 
+tanımlamak için kullanılır.
+Birincil yaklaşıma geçmeden önce öncelikle arz ve talep bölgelerini 
+tanımlamalı ve fiyatların grafikte nasıl değiştiğini anlamalıyız.
+Tedarik Bölgeleri
+Mevcut fiyatın üzerinde çok fazla satış faaliyetinin olduğu bir tedarik bölgesi 
+var. Talep ve arz eşit olduğunda, satılmayan siparişler karşılandığında 
+fiyatlandırma düşer.
+Talep Bölgeleri
+Alıcıların ilgisinin yoğun olduğu, gidişatın altındaki fiyat aralığına talep bölgesi 
+denir. Talep düzeyinde alıcıların sayısı satıcıları geride bırakıyor, bu da bekleyen 
+siparişler dolduğunda fiyatların yükselmesine neden oluyor.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 35 ===
+Forex'te Piyasa Dengesini-Dengesizliğini Anlayın
+Denge, dengesizlik, denge, dengesizlik vb. forex piyasasının temel 
+modelidir. Piyasa, yüksek aşırılığın üzerinde (direnç seviyesinin kırılması) 
+veya düşük aşırılığın altında (destek seviyesinin altında kırılma) işlem 
+görene kadar önceden belirlenmiş aşırılıklar arasında dalgalanır.
+Denge Alanı
+Yukarıdaki grafikte görüldüğü gibi piyasa dengelendiğinde eşit 
+miktarda alım ve satım mevcuttur. Fiyat bir aralık içinde yanlara 
+doğru salındıkça bir dağılım üretilir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 36 ===
+Dengesiz Bölge
+Alıcılar veya satıcılar iş başında olduğunda piyasa, hakim katılımcıların 
+yönünde hareket edecektir. Satıcılar sorumluysa piyasa hareketi aşağı 
+doğru, alıcılar sorumluysa yukarı doğru olacaktır.
+Şimdi tabloya geçelim ve denge ve dengesizlik kavramını daha iyi 
+anlamak için bu önemli fikirlerin orada nasıl kullanılabileceğini 
+inceleyelim.
+Aşağıdaki tablodaki mavi oklar denge yerlerini göstermektedir. Bu fiyat 
+aralığında hem alıcıların hem de satıcıların konfor düzeyi nedeniyle bu dengeli 
+lokasyonlarda eş zamanlı alım-satım faaliyeti bulunmaktadır. Yatay fiyat 
+hareketine dikkat edin..
+Piyasa dengeli durumdan dengesiz duruma geçtiğinde fiyat devasa mumlarla bölgeden 
+çıkıyor. Bu, bir oyuncunun diğerinden daha iyi performans göstermesi durumunda ortaya 
+çıkan dengesizliği göstermektedir. Grafiğin solundaki satıcıların sayısı alıcıları geride 
+bıraktığında fiyatlar uçurumun üzerindeki taş gibi düştü.
+Piyasa daha sonra fiyatın iki yönden birine gitmesini beklerken 
+dengeli bir pozisyona girer: yukarı veya aşağı. Maliyet arttı, alan 
+dengelendi vs.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 37 ===
+Fiyat, grafiğin sağ tarafında hızla düşmeye başladı ve ardından küçük 
+mumlarla düşmeye devam etti. Bu, piyasa oyuncularının dengeli 
+rotasyonlara izin verecek adil bir fiyat aradığını gösteriyor.
+Bu, piyasanın genel döngüsünü tanımlar: denge, dengesizlik, denge, 
+dengesizlik, vb. Arz ve talep stratejilerinde bu denge alanlarını belirlemek 
+için çok çaba harcıyoruz. Fiyatın belirli bir yönde hareket etmesine neden 
+olan dengesizlikten faydalanarak bu süreçte kar elde etmek için siparişimizi 
+bu lokasyonlara vermeyi hedefliyoruz.
+Arz ve Talep Bölgeleri Nasıl Belirlenir?
+Mevcut fiyatı belirledikten sonra yukarı veya aşağı doğru önemli ve güçlü 
+bir değişim görene kadar sola bakarız.
+Nasıl yapılacağı aşağıdaki gibidir: ▪ Güncel Fiyatı Belirle
+▪ Son düşüşte veya rallide ERC'yi bulmak için Sola bakın
+Bu aşama için ERC tipi bir mum bulmamız gerekiyor. ERC, Extended Range Candle (Genişletilmiş 
+Menzilli Mum) anlamına gelir ve büyük gövdeli ancak çok az fitili olan veya hiç fitili olmayan bir 
+mumu ifade eder. İşte ERC tipi bir mum örneği:
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 38 ===
+▪ Hareketin Kökeni
+Mumların ERC türünden olduğunu ve fiyatın düştüğünü ya da arttığını 
+belirledikten sonra şimdi hareketin nereden kaynaklandığını belirlememiz 
+gerekiyor.
+Arz veya talep bölgemizin temeli bu oluşum olacaktır. Bir örneği 
+inceleyelim::
+Bu çizimde, mevcut fiyatla başlıyoruz ve en az bir ERC tipi mum içeren fiyattaki 
+düşüş veya yükselişi bulmak için sola doğru arama yapıyoruz. Bir ERC 
+belirlendikten sonra aşağı doğru kaymanın nedeni de bulunur. Köken 
+dediğimiz şey tabandır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 39 ===
+Bölgeyi çizmek için temele ihtiyacımız var.
+Arz ve talep bölgelerini nasıl tanıyacağımızı anladığımıza göre artık arz ve talep 
+bölgelerimizi nasıl çizeceğimizi öğrenmemiz gerekiyor.
+Çeşitli Arz ve Talep Bölgesi Yapıları
+Geri dönüş ve devam kalıpları, öğrenmemiz gereken iki yapı veya 
+kalıp kategorisidir.
+Tersine çevirme modelleri:
+Tersine dönüş formasyonları olarak bilinen grafik formasyonları, bir trendin yukarıdan aşağıya veya aşağıdan 
+yukarıya doğru tersine dönmesi durumunda oluşturulur. Bunlardan iki tane var:
+• Düşüş-Taban-Ralli: Bu yapıda fiyat aşağıya doğru hareket ederek fiyat düşüşüne, taban 
+yapısına ve ardından yukarıya doğru fiyat rallisine neden olur.
+• Ralli-Taban-Düşüş: Bu formasyonda fiyat, önemli bir aşağı yönlü fiyat düşüşü yaşanmadan önce yukarıya doğru yükselir 
+ve bir temel yapı oluşturur.
+Bunlar güçlü
+Ters dönüş formasyonlarına genellikle fiyat açısından saygı duyulur. 
+Tekrarlanan desenler:
+Bu fiyatlandırma şemaları şunları içerir:
+• Düşüş-taban-Düşüş: Fiyat düşer, bir taban oluşturur ve sonra tekrar düşer.
+▪ Ralli-taban-Ralli: Fiyat yukarıya doğru hareket eder, temel bir yapı geliştirir ve ardından yükselmeye devam eder.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 40 ===
+Trendin içinde bunlar
+devam desenleri. Fiyatlar sıklıkla bu yapıları test ettiğinden ve bunlara nüfuz 
+ettiğinden, bunlar genellikle zayıf ticaret alanlarıdır.
+Devam modellerine göre daha yüksek başarı oranlarına sahip oldukları için yalnızca geri 
+dönüş modellerine dikkat ediyoruz.
+Arz ve Talep Bölgeleri Nasıl Çizilir Arz 
+Bölgeleri Nasıl Çizilir
+Bir tedarik bölgesini uygun şekilde belirlemek amacıyla, büyük gövdeli güçlü düşüş 
+mumlarını keşfetmek için mevcut fiyatı kontrol etmeli ve oradan ayrılmalıyız. Fiyatın 
+tabandan ayrılışı aşağıdaki grafikte gösterilmektedir. Fiyat, grafiğin solundan büyük bir 
+yükseliş trendiyle yükselmeye başladı ve kısa bir süre duraklayarak üç mumla güzel bir 
+temel yapı oluşturdu. Daha sonra fiyat düştüğünde uzun düşüş mumları oluştu ve bu arz 
+bölgesinin yakınında önemli bir piyasa dengesizliğini doğruladı. Bu düzenlemeye ralli 
+tabanı düşüşü adını veriyoruz.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 41 ===
+İşlemlerimizi orada konumlandırarak bu tedarik bölgesine doğru yükselmeye 
+devam ederken fiyat geri çekilmelerinden kâr elde edebiliriz. Fiyatın, yakın 
+çizgiyi geçmeden arz bölgesine doğru ilerlerken nasıl yukarı ve aşağı doğru 
+tersine döndüğünü gözlemleyin. Bu, tedarik bölgesinin her yerinde 
+karşılanmayan çok sayıda siparişin biriktiğini gösteriyor.
+Şimdi temel yapının güvenilir olup olmadığını belirlememiz gerekiyor. Hatlarınızı 
+takip etmek için en uygun tedarik bölgesini doğru bir şekilde seçmek için tabanın 
+yapısı önemlidir. Ticaret için mükemmel bir temel yapı olarak kabul edilmek için 
+ideal olarak altıdan az mum içeren bir taban seçmeliyiz.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 42 ===
+Daha sonra bölge, son adım olarak iki yatay çizgi (distal ve proksimal çizgiler) 
+kullanılarak çizilir. Temel gövdelerin tabanında, kuyruklar hariç, yakın çizgi 
+mevcut fiyata yakındır. Kuyrukları da dahil olmak üzere taban mumlarının 
+üstünde distal çizginin konumlandığı yer bulunur.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 43 ===
+Talep Bölgeleri Nasıl Çizilir
+Güzel bir fiyat artışı, yükseliş mumlarından oluşan bir küme ve altıdan az mumdan 
+oluşan bir taban, talep bölgesinin göstergeleridir. Fiyat düştü, bir konsolidasyon yapısı 
+(taban: 1 mum) oluşturmak için bir süre durakladı ve ardından aşağıdaki grafikte 
+gösterildiği gibi bir talep bölgesi oluşturmak için son derece uzun yükseliş mumlarıyla 
+tabandan yukarıya doğru yükseldi.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 44 ===
+Her iki çizgiyi de nasıl yerleştireceğimizi bildiğimize göre, bir örnek üzerinden gidelim:
+Tedarik bölgesindeki temel yapıda bir mumumuz var. Düzgün bir şekilde 
+çizilebilmesi için distal çizgi tabanın en yüksek fitiline yerleştirilmelidir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 45 ===
+tedarik bölgesi. Daha sonra proksimal çizgi, yukarıdaki tabloda gösterildiği gibi tabanın alçak 
+noktasına ayarlanır.
+Fiyat düştükçe tabanda üç mum bulunan bir talep bölgesi oluştu. Talep bölgesini 
+doğru bir şekilde temsil etmek için distal çizgi tabanın en alt fitilinde çizilmelidir. 
+Proksimal çizgi daha sonra taban mumlarının en yüksek gövdesine 
+konumlandırılır. Fitillerin hem yüksek hem de alçak kısımlarını dahil etmeyi 
+seçerseniz, durağınızı olması gerekenden daha büyük yaparak riskinizi artırmış 
+olursunuz.
+Tedarik bölgesi için yalnızca en yüksek fitilleri ve talep bölgesi için 
+yalnızca en düşük fitilleri dahil etmeyi seçerseniz, siparişinizin piyasa 
+fiyatından karşılanması şansınız azalır.
+Arz ve talep bölgelerini tasarlarken yine risk toleransınızı ve kâr 
+şansınızı göz önünde bulundurmalısınız.
+Arz ve Talep Ticareti Nasıl Yapılır?
+Arz bölgelerinde satıyoruz, talep bölgelerinde ise satın alıyoruz. Bu taktiğin 
+uygulanması oldukça basittir. Sadece takas yapmak için yeni arz ve talep 
+bölgeleri bulmanız yeterli. Fiyat, arz veya talep bölgenize döndüğünde, 
+limit emirlerinizi yakın hatta ve zararı durdurma emirlerinizi uzak çizgiye 
+yerleştirerek emirlerinizin tetiklenmesini bekleyin. ..
+İşte bazı örnekler:
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 46 ===
+Bu grafikte iki talep bölgemiz ve bir arz bölgemiz var.
+Tedarik bölgesi için fiyat yükseldi, bir süre durakladı ve ardından büyük mumlarla 
+birlikte düştü. Dolayısıyla bu fiyatlamada ciddi bir dengesizlik var. Bölgemizi 
+işaretliyoruz, siparişimizi veriyoruz ve ardından bölgemizi yeniden test etmeden önce 
+fiyatın değişmesini bekliyoruz. Fiyatın tekrar dönmesinin ardından satış emirlerimiz 
+başarılı oldu.
+Fiyat arz bölgesini terk ettiğinde, arz bölgesini yeniden test etmek için yukarıya 
+doğru eş zamanlı olarak iki talep bölgesi oluşturdu. Fiyat arttı ve sonra durdu, temel 
+olarak bir ralliyi andıran bölgeler oluşturdu. Alım emirlerimiz için bu iki bölgeyi 
+seçtik. Fiyatın talep bölgelerimizden birini test ettiği her defasında satın alma 
+emirlerimiz etkinleştirildi. Bu alanların fiyatı nasıl mıknatıs gibi çektiğini izleyin.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 47 ===
+Bu grafikte fiyat düştü ve grafiğin sol tarafında karşıt olan bir talep 
+bölgesine yükselerek ve yeni bir talep bölgesi oluşturarak yanıt verdi. Bu 
+fiyattan alış emrimizi verdik ve fiyatın geri dönmesini bekledik ve talep 
+bölgesini yeniden test ettik. Fiyat iade edildi, siparişimizi verdi ve arttı..
+Fiyat yükseldi, bir taban oluşturmak için durdu, sonra düştü. Arz alanını 
+işaretliyoruz, satış emri veriyoruz ve ardından fiyatın istikrar kazanmasını bekliyoruz. 
+Fiyat yeniden test edildiğinde mumun kuyruğu arz bölgesini deldi, bu yüzden biz
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 48 ===
+yalnızca bir satış emri verdi. Bu, tedarik bölgesinin tükendiğini ve başka bir 
+satış emrinin başarılı olma ihtimalinin düşük olduğunu gösterir.
+Bu grafikteki fiyat bir ralli-baz-ralli yarattı. Ralli-taban-ralli ve düşme-taban-
+bırakma bölgelerinden genellikle kaçınılır çünkü bunlar trendler içinde 
+bulunur ve ticaretin en sık ters gittiği yerlerdir. Bizim tercihimiz geri dönüşte 
+ortaya çıkan yapılara (düşme-taban-ralli ve ralli-tabanlı düşüş) odaklanmaktır. 
+Bu ticaret platformları inanılmaz derecede güvenilir ve sağlamdır.
+Fiyat modeli bir ralli-taban-ralli yapısı üretti. Alım emrimizi tetiklemek için 
+talep bölgemizi çizdik ve fiyatın test etmesini bekledik. Fiyat geri döndü, 
+bölgeyi test etti ve beklendiği gibi yükseldi.
+Bölgenin kârlı bir ticaretle sonuçlanıp sonuçlanmayacağından emin 
+değilseniz, fiyat bölgeyi test edip size yükseliş veya düşüş eğilimi 
+gösterene kadar emrinizi vermeyi beklemeyi seçebilirsiniz. Bu şekilde, 
+zararla ticaret yapma olasılığınızı azaltabilirsiniz.
+Bir kez daha, güçlü olduklarından ve başarılı olma olasılıkları daha yüksek olduğundan, trend yapıları içindekilere 
+göre tersine dönüş noktalarındaki yapıları tercih ediyoruz.
+Bu durumda trendin içinde olan bir yapımız daha var. Bu yapılar önceki 
+örnekte de belirttiğimiz gibi çok sağlam olmadığından, bu ticaret 
+düzenini göstermek istedik.
+Ancak trendin başlangıcına doğru iseler yine de işlem yapabilirsiniz.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 49 ===
+Burada taban tersine dönme noktasına yakındır. Bu nedenle bu alanın ticareti 
+yapılabilir.
+Ancak düşüş-taban-düşüş trendin daha aşağısında olsaydı bunu dikkate 
+almazdık çünkü trend her an değişebilir ve fiyatın bu bölgeden geçip 
+yükselmeye devam etmesine neden olabilir.
+Talep ve Arz Eğrisi Nasıl Tanınır?
+Mevcut fiyatı inceleyerek ve kontrol altında olan en yakın arz ve talep 
+bölgelerini tespit ederek eğriyi belirleyebiliriz.
+Eğri, iki arz ve talep bölgesinin yakın çizgileri arasındaki ayrım 
+olarak tanımlanır.
+Aşağıdaki grafikte güncel fiyatı buluyoruz ve kontrol altında olan en yakın arz ve 
+talep bölgelerini bulmak için yukarı ve aşağı tarama yapıyoruz.
+Bölgeler çizildikten sonra fiyatlamanın talep bölgesine yakın olduğu 
+görülüyor. Eğride fiyatın düşük olduğu söyleniyor.
+Sadece fiyat eğri üzerinde düşük olduğunda satın alırız.
+Aşağıdaki örnekte kontroldeki fiyat arz bölgesine yakındır. Bu 
+durumda fiyat yüksek olduğundan sadece satmayı düşünüyoruz..
+Fiyat arz ve talep bölgelerinin ortasında yer aldığında mevcut trend 
+yönünde ticaret yaparız.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 50 ===
+Fiyatlandırmanın dengeli olduğu söyleniyor. İşte bir örnek::
+Fiyat, grafikte görüldüğü gibi eğrinin ortasında yer almaktadır. Alıcı ve 
+satıcıların eşit olduğu denge olarak bilinir.
+Fiyat genellikle bir oyuncu diğerinden daha iyi performans gösterene kadar eğrinin bu 
+bölgesinde yan tarafta kalır.
+Alıcıların sayısı satıcılardan fazlaysa, fiyat eğri üzerinde yukarı doğru bir trendle 
+yükselecektir.
+Satıcıların sayısı alıcılardan fazlaysa, fiyat düşüş eğilimi göstererek eğri üzerinde 
+daha da düşecektir.
+Eğriyi Tanıma Neden Önemlidir?
+Kazananlar ve kaybedenler buna göre ayırt edilebilir.
+Profesyonel tüccarlar, fiyatların eğri üzerinde yüksek olduğu bir yükseliş trendinden kar elde 
+etmek isteyen bireysel yatırımcılara satış yapmaları gerektiğinin bilincindedirler. Perakende 
+tüccarları daha sonra çoğunluğa katılır ve satın alma emirlerini göndermeye başlar.
+Profesyonel tüccarlar, perakende tüccarların sağladığı güçlü likiditeden 
+yararlanarak piyasada açık pozisyon açar ve fiyatları düşürür.
+Perakende tüccarları keskin bir fiyat düşüşü gördüklerinde piyasada kısa pozisyon açılması 
+gerektiğine inanıyor. Tecrübeli yatırımcılar bir kez daha fiyatların eğrinin düşük bölgelerine 
+ulaşmasıyla satın alma fırsatını değerlendiriyor ve bu da yükselişin yukarıya doğru güzel bir dönüşe 
+işaret ettiğini gösteriyor.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 51 ===
+Bu nedenle herhangi bir sipariş vermeden önce eğriyi tanımak çok önemlidir. 
+Tipik olarak, fiyat eğri üzerinde ve talep bölgesinde düşük olduğunda satın 
+alırız ve fiyat eğri üzerinde ve arz bölgesinde yüksek olduğunda satarız. Fiyat 
+dengede olduğunda baskın trendle ticaret yaparız.
+Yüksek Olasılıklı Bölgeleri Bulmak için Garip Arttırıcılar
+Şimdi bölgelerimizi filtrelememize ve yalnızca başarı olasılığı en yüksek olan arz 
+ve talep alanlarını seçmemize olanak sağlayacak dört temel oran arttırıcıdan 
+bahsedelim.
+Nihai puana ulaşmak için her tek artırıcıya bir puan atayacağız.
+Toplam puanın 10 olması, limit emri verip fiyatın giriş hedefimize ulaşmasını 
+beklememiz gerektiğini gösteriyor.
+Nihai puanın 8 ila 9 arasında olması durumunda, işlemi gerçekleştirmek için piyasa emrini 
+kullanacağız. 8'den düşük bir nihai puan yalnızca herhangi bir işlem olmadığını gösterir.
+Tek Arttırıcı 1# Hareketin Gücü
+İyi arz ve talep bölgeleri, bölgelerin dışına güçlü bir hareket gösteriyor. Burada 
+fiyatın bölgeden nasıl ayrıldığına bakıyoruz.
+Fiyat güçlü büyük mumlarla mı yoksa çok sayıda küçük mumla mı ayrıldı?
+Bunu maksimum 0 ila 2 puan arasında puanlayacağız.
+İşte bir örnek: Fiyat, güçlü düşüş mumlarının olduğu arz bölgesini aşağı 
+yönde terk etti ve skor 2 oldu.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 52 ===
+Fiyatın bölgeden nasıl ayrıldığına bakın. Bu alan fiyat çıkışındaki küçük 
+mumlar nedeniyle 0 puan aldı. Şimdi fiyatın arz bölgesinden nasıl geçtiğini 
+ve ardından tekrar yükselişe geçtiğini görün.
+Fiyat bunları görmezden gelip devam edeceğinden zayıf bölgelerin ticareti 
+önerilmez.
+Tek artırıcı 2# Bölgede Harcanan Zaman
+Baktığımız ikinci garip güçlendirici ise fiyatın bölgede geçirdiği süredir. İyi 
+bölgelerin tabanında 1 ila 6 mum bulunur. 6 mumun ötesinde bölge zayıf 
+olabilir ve bu nedenle ticaretin kaybedilmesine neden olabilir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 53 ===
+Tek Güçlendirici 3# Taze Seviyeler
+Üçüncü gariplik artırıcı ise bölgenin taze olup olmadığının kontrol edilmesidir. 
+Taze bölge, fiyat açısından test edilmemiş bir bölgedir. Fiyatlar geri gelmeye 
+devam ettikçe ve bölgeyi test ettikçe bu bölgenin çalışma olasılığı azalıyor.
+Bölgeye ikinci bir geri çekilmeden sonra, bunu dikkate almamak daha iyidir 
+çünkü fiyatı tekrar aşağıya çekecek yeterli arz olmayabilir.
+İşte bir örnek:
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 54 ===
+Fiyat, ilk geri çekilme sırasında arz bölgesini test etti ve aşağı doğru 
+ilerledi; aynı şey ikinci ve üçüncü geri çekilmelerde de oldu. Fiyat, 
+üçüncü geri çekilmeden sonra arz bölgesinin üzerine çıktı çünkü 
+orada artık arz yoktu.
+Her geri çekilmede fiyatın arz bölgesine doğru daha da ilerlediğini gözlemleyin. Bu, 
+bölgenin hâlâ yürürlükte olup olmadığının güvenilir bir göstergesidir.
+Tek Arttırıcı 4# Riskten Ödüle
+Son garip artırıcı ödül-risk oranıdır. Bölgenin işlemler için geçerli olduğunu kabul 
+etmek için en az 1:2 oranına ihtiyacımız var.
+Örnekler
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 55 ===
+Aşağıdaki grafikte yer alan bir tedarik bölgesinin puanı 10 üzerinden 10'dur. Price, 
+muazzam ERC tarzı mumlar kullanarak hoş bir damla-taban-damla modeli oluşturdu. 
+Bu da tedarik bölgesinin gücünü gösteriyor. Fiyat tekrar yukarıya doğru hareket ederse 
+ve arz bölgesini test ederse, 1:3'ün üzerinde harika bir risk-ödül oranımız olur ve bu da 
+bize iyi bir kazanma fırsatı verir.
+10/10 puan alırsak tedarik bölgesinin yakın çizgisine limit emri, uzak 
+çizgisine ise zararı durdur emri vereceğiz. ve geri çekilmek için 
+fiyattaki artışı izleyin.
+Gerçekten de fiyat tekrar yükseldi, limit emrimize ulaştı ve düştü. Aşağıdaki 
+örnekteki tedarik bölgesinin derecelendirmesi 8,5/10'dur. Puan 8 ila 9 arasında 
+olduğundan iki seçeneğimiz var: emir vermeden önce fiyatın bölgeyi yeniden test 
+etmesini bekleyin veya fiyatın bölgeye girmesini bekleyin ve ardından geri dönün.
+Bu durumda başarı olasılığı minimum düzeyde çünkü 10'un altında bir 
+puanımız var ve fiyat zaten arz bölgesini test etti, dolayısıyla arz 
+bölgesinin üzerine çıkabilir.
+Bu nedenle fiyat onayı alana kadar girişimizi yapmayı erteliyoruz.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 56 ===
+Fiyat bölgede hareket etti ve başarılı olma şansı daha yüksek olduğu için daha fazla 
+arzın olduğu bölgeyi denedi. Bu nedenle, devam formasyonlarından ziyade alım 
+satım dönüş formasyonları öncelikli odak noktamız olmalıdır.
+Şimdi sadece bir bölge üzerinde kontrole sahip olduğumuz bir ticaret fırsatını 
+inceleyelim. Aylık grafikte mevcut fiyatın üzerinde bir tedarik bölgesi görüyoruz. Bu 
+senaryoda bölgemizi çevreleyecek ayrı bir talep bölgesimiz yok. Fiyat yeni düşük 
+seviyeler belirlemeye devam ettiği sürece arz bölgesini kullanmak ve trendle ticaret 
+yapmakla sınırlıyız.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 57 ===
+Haftalık arz ve talep bölgelerimizi aşağıdaki grafikte görüldüğü gibi haftalık 
+grafik üzerinde çiziyoruz. Fiyat, haftalık talep bölgesinden güzel bir yükseliş 
+yarattı ve şu anda haftalık arz bölgesine doğru ilerliyor.
+Bu tedarik bölgesinin özellikle güçlü olduğu kabul ediliyor. Tedarik bölgesinin dışına 
+göçün güçlü olması, bu bölgede yerine getirilmemiş çok sayıda siparişin bulunduğunu 
+gösteriyor.
+Genel olarak trend aşağı yönlü. Fiyata göre daha düşük yüksekler ve daha düşük 
+dipler oluştu ve bu da düşüş trendi hareketini doğruladı.
+Artık ticaretimizi eyleme geçireceğimiz günlük grafiğe geçiyoruz. Limit 
+emrimizi verip kar alabilmek için günlük arz ve talep bölgelerini mevcut 
+fiyatın yakınına konumlandırıyoruz.
+Fiyat günlük ve haftalık tedarik alanlarına yaklaşıyor. Fiyatın, bölgeyi günlük talep 
+açısından test etmek üzere inmeden önce bu örtüşen bölgeleri test edeceğini 
+tahmin ediyoruz.
+Satış limiti emrimiz günlük tedarik bölgesinin en yakın hattında konumlandırılmıştır. Durdurma 
+emri, günlük tedarik bölgesinin uzak çizgisinin üzerinde konumlandırılır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 58 ===
+Fiyat, günlük grafikte çakışan arz bölgelerini test etti ve aşağıdaki grafikte 
+gösterildiği gibi talep bölgesini test etmek için aşağı doğru hareket etti.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.

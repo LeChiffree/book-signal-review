@@ -1,0 +1,1408 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 10\Baskı 10\İndikatörlerle Kazanç Sağlamak - Jeff Drake (50 sayfa) - @eseckal.pdf
+PAGES: 50
+
+
+=== PDF PAGE 1 ===
+Proﬁ  ting 
+with Indicators
+NIRVANA SYSTEMS’ TECHNICAL ANALYSIS TRAINING SERIES
+by Jeff Drake 
+with Ed Downs
+
+
+
+=== PDF PAGE 2 ===
+İÇİNDEKİLER
+BÖLÜM 1
+Göstergelere Giriş .................................................. 7
+Gösterge Nedir?..................................................................................8
+Öncü ve Geride Kalan Göstergeler ..................................................8
+Gösterge Sınıfları ..................................................................9
+BÖLÜM 2
+Trend Göstergeleri ..................................................................11
+Hareketli Ortalamalar ..................................................................12
+Basit Hareketli Ortalamalar (SMA) .................................................. 12
+Üstel Hareketli Ortalamalar (EMA) ....................................13
+Ağırlıklı Hareketli Ortalama ..................................................13
+Hareketli Ortalama Uygulaması ..................................................14
+İki Hareketli Ortalamanın Kullanılması................................................. 15
+Hareketli Ortalama Osilatörleri ..................................................16
+Hareketli Ortalama Yakınsama/Ayrışma ..................................16
+MACD Histogramı ..................................................................18
+TRIX Göstergesi ..................................................................19
+Trend Göstergesi Özeti ..................................................20
+BÖLÜM 3
+Volatilite Göstergeleri ..................................................................21
+Chaikin Volatilitesi ..................................................................21
+Ortalama Gerçek Aralık (ATR) ..................................................23
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+BÖLÜM 4
+Momentum Göstergeleri ..................................................25
+Osilatörler ..................................................................................25
+Ayrışma............................................................................................26
+Momentum Göstergesi ..................................................27
+Stokastik Osilatör ..................................................28
+Değişim Oranı (ROC) .................................................................. 29
+Göreceli Güç Endeksi (RSI)......................................30
+Daha Fazla Momentum Göstergesi ..................................................31
+Ek Momentum Analizi ..................................................31
+Momentum Göstergesi Trend Çizgileri ..................................31
+Fiyat Modellerinin Momentuma Uygulanması ................................32
+Momentum Göstergesi Özeti ..................................................33
+BÖLÜM 5
+Hacim Göstergeleri ..................................................................35
+Denge Hacmi (OBV) ....................................................36
+Birikim Dağılımı ..................................................................37
+Para Akışı ..................................................................................37
+Hacim Göstergesi Özeti ..................................................38
+BÖLÜM 6
+Hangi Göstergeleri Kullanmalıyım? ..................................................39
+Siz Hangi Tür Tüccarsınız? ..................................................39
+BÖLÜM 7
+Farklı Gösterge Sınıflarının Uygulanması ..................43
+Özet ..................................................................................48
+BÖLÜM 8
+Göstergelerle Kar Etme İpuçları .....................................49
+Sonuç ............................................................................51
+Ek A- Sorumluluk Reddi .....................................................53
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+C1
+hapter
+Göstergelere Giriş
+T
+Rading bir olasılık oyunudur. Finansal piyasalar söz konusu olduğunda hiçbir şey 
+kesin değildir ve bu oyunda sürekli kazanmanın tek yolu, olasılıklar bizim lehimize 
+olduğunda harekete geçmektir.
+İşlem yapılacak adayların 
+listesine bakarken veya 
+belirli bir grafikte potansiyel 
+bir işlem fırsatını analiz 
+ederken, yalnızca "en az 
+teknik riske" sahip işlemleri 
+yaparak kazanma şansımızı 
+artırabiliriz. Kabul edelim ki, 
+işlem adaylarının listesine 
+bakarken ve hangilerinin
+başarı için en iyi fırsatı 
+sunar. Yine de grafik 
+desenleri ve göstergeler gibi 
+doğrulama tekniklerini 
+uygulayarak en az teknik 
+riski sunan seçilmiş birkaç 
+adaya ulaşabiliriz. Bu 
+adayları yalnızca
+|7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+uygun zamanda, karlı bir ticaretin olasılığını artırıyoruz. Elbette, bu fırsatları izole 
+etmenin anahtarı, ticaret kararları alırken hangi onaylayıcı araçların kullanılacağını 
+bilmektir.
+Göstergelerle Kar Elde Etmegöstergeleri doğru bir şekilde uygulayarak en iyi kazanç potansiyeline 
+ve en az teknik riske sahip fırsatları bulmanıza yardımcı olmak için tasarlanmıştır. Bir göstergenin 
+nasıl oluşturulacağını anlatan birçok kitap ve diğer materyal mevcut olsa da,Göstergelerle Kar Elde 
+EtmeGöstergeleri işlemlerinizde kullanmanın pratik uygulamasını açıklamak. Odak noktamız bir 
+göstergenin nasıl hesaplanacağı değil (çoğu işlem yazılımı bunu sizin için zaten yapacaktır), işlem 
+adaylarını doğrulamak için göstergeleri kullanarak nasıl para kazanılacağıdır.
+Ancak, bireysel göstergeleri tartışmaya başlamadan önce, bir göstergenin tam olarak ne olduğunu 
+tanımlamamız önemlidir.
+Gösterge Nedir?
+Bir gösterge, bir koşulun ne zaman mevcut olduğunu veya bir koşulun ne zaman 
+karşılandığını "göstermek" için tasarlanmış, fiyat ve/veya hacim verilerini kullanan 
+matematiksel bir hesaplamadır. Göstergeler, fiyat grafiğinin üzerine veya fiyat grafiğinin 
+altına çizilebilir. Örneğin, hareketli ortalamalar normalde fiyat grafiğinin kendisine çizilirken, 
+osilatörler normalde grafiğin altına çizilir. Bireysel göstergeleri ele aldığımızda bunu daha 
+ayrıntılı olarak ele alacağız.
+Onay için göstergeleri kullanırken, onu işlemlerinize uygulamadan önce 
+göstergenin hangi koşulu aradığını anlamak önemlidir. Bir gösterge trend yönünü 
+belirlemeye çalışırken, bir diğeri fiyatın hangi hızda değiştiğini belirlemeye çalışıyor 
+olabilir. Ancak, göstergenin türü ne olursa olsun, hepsi tek bir şeyi yapmaya çalışır: 
+gelecekteki fiyat yönünü belirlememize yardımcı olmak.
+Bir Gösterge...
+Bir koşulun karşılandığını veya var olduğunu "gösteren" 
+matematiksel hesaplama.
+Öncü ve Geride Kalan Göstergeler
+Çoğu gösterge iki farklı kategoriye ayrılabilir: gecikmeli göstergeler ve öncü göstergeler. 
+Gecikmeli gösterge, trend yönünü belirlemek için en iyi şekilde kullanılır. Adlarını fiyat yönünün 
+gerisinde kalmalarından veya takip etmelerinden alırlar. Gecikmeli göstergeler
+8|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+keskin dönüşleri kaçıracaktır, ancak birçok kişi, geride kalan bir göstergenin hafifçe en aza indirilmiş ödülünün, en aza 
+indirilmiş risk tarafından telafi edildiğini düşünüyor.
+Bazen öngörücü gösterge olarak da adlandırılan öncü bir gösterge, trend tersine dönmesini 
+tahmin etmeye çalışır. Çoğu öncü gösterge, aşırı satın alınan menkul kıymetlerin fiyatının 
+düşeceği, aşırı satılan menkul kıymetlerin ise fiyatının yükseleceği varsayımıyla "aşırı alım" 
+veya "aşırı satım" seviyelerini belirlemeye çalışır. Bu göstergelerin öngörücü doğası nedeniyle, 
+gecikmeli göstergelere göre daha sık yanlış okumalar verme eğilimindedirler. Ancak, 
+dikkatimizi bir yön tersine dönmesi potansiyeline çekmede iyidirler.
+Genel bir kural olarak, gecikmeli göstergeler uzun vadeli trend gösteren piyasalarda daha iyi 
+çalışırken, öncü göstergeler aralıklı veya yatay hareket eden piyasalarda daha etkilidir.
+Gösterge Sınıfları
+Dört ana gösterge sınıfı vardır: trend göstergeleri, momentum göstergeleri, hacim 
+göstergeleri ve oynaklık göstergeleri. Her gösterge sınıfı uygulandıklarında farklı 
+koşulları belirlemeye çalışır. Örneğin, bir trend göstergesi basitçe mevcut trend 
+yönünü belirlemeye çalışırken, bir hacim göstergesi anormal hacmin bir fiyat 
+hareketine eşlik ettiği zamanı belirlemeye çalışır. Aşağıdaki tablo bize her ana 
+gösterge sınıfının çalışan bir tanımını verir.
+Gösterge Sınıfı Tanımlama Girişimleri
+Mevcut eğilimin yönü
+ve tersine dönüşler
+Trend Göstergeleri
+Momentum Göstergeleri Aşırı alım ve aşırı satım seviyeleri
+Hacim Göstergeleri Anormal hacim
+Volatilite Göstergeleri Anormal oynaklık
+Bu tanımlar bize bu gösterge sınıflarının nasıl kullanılması gerektiği konusunda bir fikir 
+verirken, çoğu göstergenin bunları grafiklerinize uygulayabileceğiniz birden fazla 
+yöntemi vardır. Momentum gösterge sınıfının popüler bir uygulaması, gösterge ile fiyat 
+grafiği arasındaki farklılığı aramaktır. Momentum göstergelerine uygulanabilecek bir 
+diğer yöntem ise klasik aşırı alım ve aşırı satım seviyesi yöntemidir.
+|9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Her yöntem bir geri dönüş potansiyelini belirlemeye çalışırken, aradığınız ticaretin 
+uzunluğuna bağlı olarak bir yöntemi diğerine tercih edebilirsiniz. Belirli bir sınıfı 
+ele aldığımızda, her gösterge sınıfını uygulamanın farklı yöntemlerini ele alacağız.
+Her gösterge sınıfı hakkındaki tartışmamıza en sık kullanılan gösterge olan 
+trend göstergesiyle başlayalım.
+10|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+C2
+hapter
+Trend Göstergeleri
+Trend Göstergeleri, trendin yönünü belirlemeye ve trenddeki olası değişime karşı bizi 
+uyarmaya çalışır. Bunu yapmak için, çubuk ve mum grafiklerinde bulunan 'gürültüyü' 
+ortadan kaldırmaya ve trendin daha kolay tanımlanabilen görsel bir temsilini sağlamaya 
+çalışırlar. Trend göstergelerinin çoğu neredeyse yalnızca hareketli ortalamaları kullanır ve 
+bu özellik nedeniyle gecikmeli göstergelerdir. Aslında, trend göstergeleri için kullanılan bir 
+diğer terimtrend takip göstergeleri.
+En sık kullanılan Trend 
+Göstergelerinden bazıları
+Tipik Fiyat dahil,
+Ortanca Fiyat, Dikey
+Yatay Filtre, MACD, Trend 
+Yoğunluk Endeksi
+ve Ortalama Yön Hareketi. Yine 
+de en yaygın kullanılan trend 
+göstergesi hareketli ortalamadır. 
+Durum böyle olduğundan, genel 
+olarak hareketli ortalamalara bir 
+göz atalım ve ardından en 
+popüler hareketli ortalama 
+türlerinden bazılarını ve bunların 
+uygulamalarını tartışalım.
+Pfizer'in grafiğine uygulanan Basit Hareketli Ortalama.
+|11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Hareketli Ortalamalar
+Hareketli ortalamalar, fiyat verilerini yumuşatarak bize trend yönünün nesnel bir ölçüsünü 
+vermeye çalışır. Bu genellikle veri çubuklarının kapanış fiyatı kullanılarak yapılır, ancak belirli 
+zamanlarda yüksek ve düşük fiyat da kullanılır. Hareketli ortalamanın zaman aralığı ne kadar 
+kısa olursa, son fiyat değişikliğine o kadar tepkili olur. Yani 20 dönemlik bir hareketli ortalama, 
+50 dönemlik bir hareketli ortalamadan fiyat grafiğinin nüanslarını daha yakından takip 
+edecektir. Bu, trend dönüşlerini daha hızlı belirlemede faydalı olabilir, ancak aynı zamanda 
+daha yanlış okumalara da yol açar.
+Hareketli ortalamalar herhangi sayıda periyot kullanılarak oluşturulabilirken, en popüler 
+periyotlardan bazıları uzun vadeli trend göstergesi için 200 periyot, orta vadeli için 45-65 
+periyot ve kısa vadeli için 20 periyottur.
+En yaygın üç hareketli ortalama türü Basit Hareketli Ortalama, Üstel Hareketli 
+Ortalama ve Ağırlıklı Hareketli Ortalama'dır. Her bir türe bir göz atalım.
+Basit Hareketli Ortalamalar (SMA)
+Basit Hareketli Ortalama, en son değerlerin toplamının alınmasıyla oluşturulur. N
+dönemler ve sonra bölmeNÖrneğin, 21 dönemlik Basit Hareketli Ortalama, son 21 
+dönemin kapanış fiyatlarının toplamını alır ve 21'e böler. Basit Hareketli Ortalama, 
+hesaplamadaki her değere eşit ağırlık uyguladığından, tartıştığımız üç hareketli 
+ortalama türünün en yavaş olanıdır. Ancak bu, değerini geçersiz kılmaz. Basit 
+Hareketli Ortalamalar bize trend yönüne dair iyi ve muhafazakar bir gösterge verir.
+COH için bu grafik, fiyatı aşağı 
+ve yukarı doğru takip eden 21 
+dönemli Basit Hareketli 
+Ortalamayı göstermektedir
+eğilim.
+12|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Üstel Hareketli Ortalamalar (EMA)
+Üstel Hareketli Ortalamalar, Basit Hareketli Ortalamalara benzer şekilde oluşturulur, ancak 
+son fiyata daha fazla ağırlık uygulanır. Bu, son dönemin kapanış fiyatının bir yüzdesinin 
+önceki dönemin hareketli ortalama değerine uygulanmasıyla yapılır. Üstel Hareketli 
+Ortalamalar son değerlere daha fazla ağırlık uyguladığından, Basit Hareketli Ortalamalardan 
+daha hızlı dönerler.
+Hareketli Ortalama ve fiyatı daha 
+yakından takip edin.
+Burada yine COH grafiğini görüyoruz, 
+ancak bu sefer 21 dönemli Üstel 
+Hareketli Ortalama ve Basit Hareketli 
+Ortalama ile gösteriliyor. Çok benzer 
+görünse de, Üstel Hareketli Ortalamanın 
+Basit Hareketli Ortalamadan biraz daha 
+yakın bir şekilde fiyatı nasıl 
+"kucakladığına" dikkat edin.
+Ağırlıklı Hareket
+Ortalama (WMA)
+Ağırlıklı Hareketli Ortalama, Üstel Hareketli Ortalamaya benzer şekilde, en son 
+verilere daha fazla ağırlık ve geçmiş verilere daha az ağırlık vermek üzere 
+tasarlanmıştır. Ağırlıklı Hareketli Ortalamalar, en son veri dönemine, ikinci en
+önceki veri dönemine göre ağırlık, 
+ondan önceki veri dönemine göre 
+üçüncü en fazla ağırlık, vb. 
+Tartıştığımız hareketli ortalamalardan 
+Ağırlıklı Hareketli Ortalama, bir 
+menkul kıymeti Basit Hareketli 
+Ortalama ve Üstel Hareketli 
+Ortalamadan daha yakından 
+"izleyecektir". Bu tür hareketli 
+ortalamaların ağırlıklandırılması 
+nedeniyle, bazıları bunu mevcut 
+eğilimin daha doğru bir temsili olarak 
+görmektedir. Yine de bir menkul 
+kıymeti bir
+|13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Bu örnekte gösterildiği gibi EMA'ya benzer bir şekilde.
+Hareketli Ortalama Uygulaması
+Hareketli ortalamaların işlemlerinize en basit uygulaması, fiyatın hareketli ortalamayı 
+delmesini beklemek olacaktır. Aşağıdaki grafikte, fiyatın 40 periyotluk bir SMA'yı deldiği dört 
+örnek görüyoruz. Örnek A'da, fiyatın hareketli ortalamayı iki kez deldiğini görüyoruz. Fiyat 
+hareketli ortalamayı aşağı doğru deldi ve sonra dönüp bir sonraki çubukta fiyatı yukarı doğru 
+deldi. Buna "kırbaç" denir ve hareketli ortalamalarda yaygındır. Kırbaçları daha sonra daha 
+ayrıntılı olarak ele alacağız. Örnek B, fiyatın hareketli ortalamayı aşağı doğru deldiğini ve 
+ardından güçlü bir aşağı yönlü trendin geldiğini göstermektedir. Ve son olarak, örnek C'de 
+fiyatın hareketli ortalamayı yukarı doğru deldiğini görüyoruz, bu da güçlü bir yukarı yönlü 
+trendin başlangıcını göstermektedir.
+Hareketli ortalama uygulaması girişler ve/veya çıkışlar için kullanılabilir. Bu örnekte, fiyat hareketli 
+ortalamayı yukarı doğru deldiğinde uzun pozisyon açtığımızı ve fiyat hareketli ortalamayı aşağı 
+doğru deldiğinde çıktığımızı varsayalım. Ayrıca, aşağı doğru bir penetrasyon olduğunda kısa 
+pozisyon açabilir ve kısa pozisyonu yukarı doğru bir penetrasyonda kapatabiliriz. Bu, üçü karlı 
+olmak üzere dört işlemle sonuçlanmış olurdu. Ancak, bu senaryo yalnızca bir menkul kıymet iyi 
+eğilimler gösterdiğinde etkili bir şekilde çalışır.
+14|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Konsolidasyon dönemlerinde, hareketli ortalama size birden fazla yanlış sinyal 
+verecektir. Bu nedenle hareketli ortalama yalnızca birtrend doğrulama aracıve 
+sistematik bir ticaret yaklaşımı olarak değil.
+İki Hareketli Ortalama Kullanımı
+Hareketli ortalamaların bir diğer popüler uygulaması, birden fazla hareketli ortalama kullanmaktır. 
+Hareketli ortalamalar gecikmeli göstergeler olduğundan, iki hareketli ortalamanın uygulanması 
+daha sonraki sinyallerle sonuçlanacaktır, ancak kırbaç darbelerini azaltmaya yardımcı olacaktır. İki 
+hareketli ortalama kullanma örneğine bakalım. Daha önceki gibi aynı grafiğe 15 dönemlik Basit 
+Hareketli Ortalama ve 40 dönemlik Basit Hareketli Ortalama uyguladık. Daha yavaş hareketli 
+ortalamaya (40 dönem) girdiğinde daha hızlı hareketli ortalama (15 dönem) yönünde bir pozisyon 
+alırsak, sadece iki pozisyonumuz olur; biri kısa biri uzun. Önceki örnekteki kırbaç darbesi, hareketli 
+ortalamanın gecikmeli doğası nedeniyle ortadan kalkar.
+İki hareketli ortalamanın kullanımı ticarette yaygındır. Hareketli ortalamalar fiyatı yumuşatır ve iki hareketli 
+ortalama kullanarak fiyat grafikleriyle ilişkili içsel gürültüyü daha iyi ortadan kaldırabilir ve kırbaç 
+darbelerinin olumsuz etkilerini azaltmaya yardımcı olabiliriz. Ancak kullanılan hareketli ortalamaların sayısı 
+ne olursa olsun, yatay piyasalarda yine de başarısız olacaklardır.
+15 dönemlik Basit Hareketli Ortalama ve 40 dönemlik Basit Hareketli Ortalama çizildi
+Pfizer için grafik. İki hareketli ortalama kullanmak, kırbaç darbelerini ortadan kaldırmaya yardımcı olur.
+|15
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Hareketli Ortalama Osilatörleri
+Bu noktaya kadar ele aldığımız hareketli ortalamalar doğrudan fiyat grafiğine 
+uygulanır. Ancak hareketli ortalamalar bir osilatör olarak da sunulabilir. 
+Salınımlı bir gösterge, üst uç aşırı alım seviyesi ve alt uç aşırı satım seviyesi 
+olarak kabul edilen iki uç seviye arasında dalgalanacaktır.
+Aşırı alım L
+Aşırı Satış Seviyesi
+Osilatörlerin çeşitli yorumları vardır ve bunların çoğu momentum göstergeleri 
+bölümünde ele alınmıştır. Trend göstergeleri tartışmamızda, bu göstergelere özel olan 
+hareketli ortalama osilatörlerinin uygulamalarına bakacağız ve ayrıca trend gücünü ve 
+olası geri dönüş noktalarını belirlememize nasıl yardımcı olabileceklerine bakacağız.
+Hareketli Ortalama Yakınsama/Uzaklaşma
+Hareketli Ortalama Yakınsama/Uzaklaşma (MACD) göstergesi, "klasik" 
+parametreleri 12 dönemlik EMA ve 26 dönemlik EMA olan iki üstel hareketli 
+ortalama kullanır. Bu hareketli ortalamaların farkı bir osilatör olarak sunulur ve 
+ardından farkın 9 dönemlik hareketli ortalaması uygulanır. Bu, MACD sinyal çizgisini 
+yukarı doğru geçtiğinde bir satın alma sinyali ve sinyal çizgisini aşağı doğru 
+geçtiğinde bir satış (veya kısa) sinyali üretildiği için sinyal çizgisi olarak bilinir. Bu 
+noktada, MACD'nin bu tür bir uygulamasının, incelediğimiz diğer hareketli ortalama 
+göstergelerinde olduğu gibi, yatay bir piyasada kırbaç darbelerine neden olduğunu 
+belirtmek önemlidir.
+MACD Göstergesi. Daha hızlı çizgi MACD Çizgisini temsil eder,
+daha yavaş olan çizgi ise tetik çizgisidir.
+16|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+MACD, son fiyat bilgilerine hızlı tepki vermesi bakımından duyarlı bir göstergedir. Bu, onu ani 
+hareketlere yatkın hale getirir. Yine de MACD göstergesi başka şekillerde de faydalıdır.
+Hershey Co. grafiğinde, MACD'yi kullanabileceğiniz üç farklı yolu işaretledik. Örnek A, 
+MACD'nin tetik çizgisinden sapmasını gösterir. Bu, güçlü bir yukarı hareketi göstermede 
+yardımcı olur. Bazıları MACD'nin bu örnekte tetik çizgisini geçmesini iyi bir uzun sinyal 
+olarak görebilirken, bir sonraki örnek bunun neden MACD'yi uygulamak için güvenilir bir 
+yöntem olmadığını gösterir. Örnek B'de sıkı bir konsolidasyon dönemi görüyoruz ve sinyal 
+çizgisi geçiş yöntemini kullanırsak ortaya çıkacak birden fazla yanlış sinyal var. 
+Göstergenin bir diğer yararlı özelliği de MACD'nin sıfır çizgisinde yatay hale gelmesini 
+beklemektir. Bu bize, menkul kıymetin konsolidasyon döneminde olduğunu ve her iki 
+yönde de işlem yapmak için iyi bir zaman olmadığını söyler.
+MACD göstergesinin ek yorumları da vardır, ancak bunlar daha çok momentum 
+göstergesi yöntemlerine benzediğinden momentum göstergesi bölümünde ele 
+alınmıştır.
+|17
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+MACD Histogramı
+MACD Histogramı, MACD çizgisi ile sinyal çizgisi arasındaki farkı bir histogram olarak 
+görüntüler. Bu, MACD'nin görsel yorumlanmasını normal MACD göstergesinden çok 
+daha kolay hale getirir. Histogram sıfır çizgisinin üzerindeyse, bu bir yükseliş eğilimini 
+ifade eder ve tabii ki histogram sıfır çizgisinin altındaysa, bu bir düşüş eğilimini ifade 
+eder. MACD Histogramı, kısa vadeli işlem fırsatlarını teyit ederken etkili bir araçtır.
+Yukarıdaki grafikte histogramın sıfır çizgisini geçtiği altı noktayı işaretledik. A Noktası sıfır 
+çizgisinden yukarı doğru bir hareketi gösteriyor, ancak gerçek yükseliş eğilimi histogram 
+hafifçe geri düşüp B Noktasında sıfır çizgisinden geçene kadar gerçekleşmedi. MACD 
+Histogramı MACD ile aynı bilgilere dayandığından, fiyata karşı oldukça tepkiseldir ve 
+MACD'nin tüm güçlü ve zayıf yönlerine sahiptir. C ve D Noktaları sıfır çizgisinden geçen 
+bir hareketin başka bir örneğini gösteriyor, ancak konsolide olan piyasa nedeniyle bu 
+noktalar yanlış sinyallere yol açtı. Bu, MACD Histogramının hareketli ortalamadan farklı 
+şekilde görüntülenmesine rağmen hala hareketli ortalamalara dayandığı ve 
+konsolidasyon dönemlerinde aynı yanlış sinyallere eğilimli olduğu gerçeğinin iyi bir 
+örneğidir. E Noktasında, hisse senedi açıkça yükseliş eğilimine başlar. F Noktası, hisse 
+senedi aşağı yönlü bir eğilime başladığında sıfır çizgisinin aşağı doğru kırıldığını gösterir.
+18|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Bazı yatırımcılar kısa vadeli onay için MACD Histogramındaki zirveleri de arar ve diğerleri 
+histogramın eğimini bir trend göstergesi olarak değerlendirir (yani yukarı doğru eğimli olmak kısa 
+vadeli bir yukarı yönlü trend anlamına gelir). MACD Histogramını incelemek, hangi uygulamanın sizin 
+ticaret tarzınıza en uygun olduğunu belirlemenize yardımcı olacaktır.
+TRIX Göstergesi
+TRIX Göstergesi üçlü yumuşatılmış hareketli ortalama (hareketli ortalamanın hareketli 
+ortalamasının hareketli ortalaması) kullanır ve diğer birçok trend göstergesinden daha az kırbaç 
+darbesine maruz kalır. Bir osilatör olarak sunulan TRIX göstergesinin uygulaması oldukça basittir. 
+TRIX göstergesi sıfır çizgisinin üzerinde olduğunda, bu menkul kıymetin yukarı doğru eğilim 
+gösterdiği anlamına gelir. Tersine, sıfır çizgisinin altında olduğunda, bu menkul kıymetin aşağı 
+doğru eğilim gösterdiği anlamına gelir.
+ADSK grafiği, bu göstergenin girişleri onaylamada ne kadar etkili olabileceğini göstermektedir. A, B ve C 
+noktaları, göstergenin 1000'i geçtiğinde karlı bir eğilimin meydana geldiğini göstermektedir.
+|19
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+sıfır çizgisi. Ancak TRIX göstergesini tüm grafiklerimize uygulamadan önce, üçlü düzeltmenin 
+doğasının genellikle geç sinyaller ve kaçırılmış fırsatlarla sonuçlanabileceğini bilmek önemlidir. 
+CL grafiğindeki D noktası, göstergenin kısa vadeli bir trendin büyük ölçüde 
+tamamlanmasından sonra sıfır çizgisini geçtiğini gösterir. Bu, bu göstergenin bu şekilde 
+kullanılmasının neden kısa vadeli ticaretten ziyade uzun vadeli ticarete daha elverişli olduğunu 
+gösterir.
+Trend Göstergesi Özeti
+En popüler trend göstergelerine yeni baktık. Elbette, hepsi bize aynı bilgiyi vermeye çalışan çok 
+daha fazla trend göstergesi var. Trend göstergeleri, mevcut trendi ve olası geri dönüş noktalarını 
+belirlememize yardımcı olmak için en iyi şekilde kullanılır. Neredeyse tüm trend göstergeleri 
+hareketli ortalamadan yararlanır ve bu da bunların gecikmeli göstergeler olarak sınıflandırılmasına 
+neden olur. Trend göstergeleri hakkında hatırlanması gereken en önemli nokta şudur:yatay 
+seyreden bir piyasada değerleri ciddi şekilde sınırlıdır.İşlemlerinizde hangi tür trend 
+göstergesini kullanmayı seçerseniz seçin, bu yalnızca trend olan bir piyasadaki girişleri 
+onaylamanıza yardımcı olacaktır. Piyasa yanlara doğru veya bir işlem aralığında hareket etmeye 
+başlarsa, onaylama için farklı bir gösterge sınıfı kullanmak sizin için en uygunu olacaktır. Yine de, 
+işlem yaparken paranın trendde olduğunu biliyoruz ve çoğu yatırımcı, mevcut trendin gücünü ve 
+trend dönüşlerini belirlemelerine yardımcı olması için grafiklerine her zaman bir trend göstergesi 
+uygulayacaktır.
+20|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+C3
+hapter
+Volatilite Göstergeleri
+Ele alacağımız ikinci gösterge sınıfı Volatilite Göstergeleridir. Bu göstergeler, bir menkul 
+kıymetin hareketinin tipik davranışını ölçmek ve davranışının anormal olduğu 
+noktalarda bizi uyarmak için tasarlanmıştır. Bu, daralma veya genişleme şeklinde olabilir 
+ve piyasa zirvelerini ve dip noktalarını ve olası kopuş hareketlerini belirlememize 
+yardımcı olur.
+Volatilite, teknik analizin en çok göz ardı edilen ölçülebilir özelliklerinden biridir. Sadece 
+volatilite göstergesi kullanarak başarılı bir ticaret sistemi oluşturmak zor olsa da, analiz 
+cephaneliğinize bir volatilite göstergesi eklemek, bir geri dönüşün veya devam etmenin daha 
+olası olduğu durumları izole etmenize yardımcı olacaktır. Volatilite göstergelerinin 
+uygulamasını daha sonra tartışacağız, ancak önce çoğu teknik analiz programında bulunan en 
+popüler volatilite göstergelerinden birkaçına bir göz atmak istiyoruz: Chaikin Volatilite ve 
+Ortalama Gerçek Aralık.
+Chaikin Volatilitesi
+İnceleyeceğimiz ilk volatilite göstergesi Chaikin Volatility'dir. Bu gösterge, volatiliteyi son 10 
+çubuğun (genellikle) en yüksek ve en düşük değerlerinin Üstel Hareketli Ortalamaları 
+arasındaki farka bakarak ölçer ve günlük fiyat aralığında ani bir artış olduğunda sizi uyarır. 
+Yüksek bir gösterge okuması, bir geri dönüş veya kırılma olasılığını doğrulamak için 
+kullanılabilir.
+|21
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Dillards için bu grafik iki örnek gösteriyor. A Noktasında, bir tersine dönüşe eşlik eden alışılmadık 
+derecede yüksek bir ChaikinVolatility okuması görüyoruz. Menkul kıymetin, oynaklığın genişlemeye 
+başladığı anda olduğu direnç seviyesini işaretledik. Bu gibi durumlar bizi bir yönde veya diğerinde 
+bir kırılmanın yüksek olasılığına karşı uyarır. Ancak, B Noktası, yüksek bir gösterge okumasının bir 
+tersine dönüşle değil, bir kopuşla sonuçlandığı yeri gösterir. Bu bize bu göstergenin kullanışlılığına 
+dair iyi bir örnek verir. Bir tersine dönüş veya kopuşun daha yüksek oranlarını belirlemede yardımcı 
+olabilse de, karlı bir işleme girme olasılığını artırmak için farklı bir sınıftan diğer göstergelerle 
+birlikte uygulanmalıdır. Başka bir deyişle, bu gösterge bize bir tersine dönüş veya kopuş için 
+koşulların iyi olduğu zamanları söyler, ancak ek analiz gerekir.
+22|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Ortalama Gerçek Aralık (ATR)
+J. Welles Wilder, Ortalama Gerçek Aralık Göstergesini geliştirdi ve ilk olarak klasik 
+kitabında sunduTeknik Ticaret Sistemlerinde Yeni Kavramlar. Bu göstergeye 
+genellikle Wilders Volatilitesi de denir. Yapısı biraz karmaşıktır, ancak uygulaması 
+Chaikin Volatilitesi ile tartıştığımız basit yaklaşıma benzerdir. Yüksek Ortalama Gerçek 
+Aralık veya ATR seviyeleri, olasılıkların bir geri dönüş veya kırılma lehine olduğunu 
+gösterir. ATR'lerin bir diğer kullanımı, mevcut hareketteki piyasa katılımını belirlemeye 
+yardımcı olmak için göstergede bir artış aramaktır.
+Bu örnekte, Douglas Emmett, Inc. yukarı doğru geri döndüğünde yüksek bir ATR okuması 
+görüyoruz. ATR göstergesini grafiklere uyguladığınızda, yüksek okumaların genellikle bir piyasa 
+zirvesinden veya dibinden sonra gerçekleştiğini göreceksiniz. Bazıları bunu bu göstergenin zararlı 
+bir davranışı olarak görse de, Chaikin Volatility'den daha az yanlış okuma verme eğiliminde olacaktır 
+ve geri dönüşleri doğrulamada yararlı bir araç olduğu kanıtlanmıştır.
+|23
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+C4
+hapter
+Momentum Göstergeleri
+Momentum göstergeleri, fiyatın değiştiği hızı ölçmeye çalışır. Değişim Oranı, Hareketli 
+Ortalama Yakınsama/Uzaklaşma, Stokastik ve RSI dahil olmak üzere momentum 
+kategorisine giren çeşitli göstergeler olsa da, hepsi bize bir menkul kıymetin mevcut 
+momentumunda bir değişiklik olduğunda bunu söylemeye çalışır. Bu göstergeler, bize 
+trend tersine dönmesinin erken bir göstergesini vermek için uygulanır ve bu nedenle öncü 
+veya öngörücü göstergeler olarak sınıflandırılır.
+Momentum göstergelerinin birçok farklı türü olmasına rağmen, hepsi bize bir menkul kıymetin aşağıdaki 
+yöntemlerden biriyle geri dönmeye hazır olduğunu söylemek için tasarlanmıştır:
+1.Aşırı alım ve aşırı satım seviyeleri
+2.Göstergenin fiyat yönünden sapması
+3.Gösterge trend çizgisi penetrasyonu
+4.Gösterge hareketli ortalama penetrasyonu
+Bu yöntemlerin en yaygın olanları aşırı alım/aşırı satım göstergesi ve sapma 
+yöntemidir. Bu iki yöntemi tanımlamak için bir dakika ayıralım.
+Osilatörler
+Momentum göstergeleri, iki uç seviye arasında salınım yapacak şekilde yapılandırıldıkları 
+için osilatörler olarak sunulur. Bu kavram, hareketli ortalama osilatörlerini tartıştığımızda 
+ele alınmıştı, ancak tartışmayı biraz daha genişletelim.
+|25
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Daha yüksek uç aşırı alım seviyesi olarak bilinir ve daha düşük uç aşırı satım seviyesi 
+olarak bilinir. Bu çizim, dalgalı çizgiyle gösterilen göstergenin uç seviyeler arasında nasıl 
+dalgalandığını gösterir. Gösterge üst seviyeye ulaştığında veya onu aştığında, menkul 
+kıymetin aşırı alım olduğu söylenir. Bunun aksine, alt seviyeye ulaştığında veya onu 
+aştığında, aşırı satım olduğu söylenir.
+Aşırı alım
+Aşırı satılmış
+Aşırı alım ve aşırı satım, bir trend tersine dönmesinin muhtemel olduğu zamanı göstermek için kullanılır, 
+ancak bunlar kesin seviyelerden uzaktır. Bir momentum göstergesinin aşırı alım seviyesinde olduğu, 
+ancak uygulandığı menkul kıymetin yukarı doğru trend göstermeye devam ettiği zamanlar olacaktır. Bu 
+yöntemin pratik uygulaması, bir tersine dönme olasılığının arttığını fark etmektir, bir tersine dönmenin 
+yakın olduğunu değil.
+Sapma
+Sapma, bir göstergenin 
+birincil yönünün fiyat 
+yönünden saptığı durumu 
+ifade eder. Örneğin, 
+menkul kıymetin fiyatı 
+yükseliyorsa ancak 
+uygulanan bir göstergenin 
+değeri düşüyorsa, 
+göstergenin fiyattan 
+saptığı söylenir.
+Gösterge farklılığını 
+aradığımızda, aslında bir 
+gösterge farklılığını arıyoruz.
+fiyat yönünün tahmini ve bu, bu analiz biçiminin momentum göstergeleriyle 
+kullanılmasının öngörücü doğasını gösterir. Ayrışma bize momentumun zayıfladığını 
+veya güçlendiğini söyler.
+Fiyat
+1
+3
+2
+Momentum Göstergesi
+26|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Aşırı alım ve aşırı satım göstergesine benzer şekilde, bu sadece bir geri dönüş şansının muhtemel 
+olduğunu, garanti edilmediğini gösterir.
+Önceki çizim üç ayrışma örneği göstermektedir. Örnek 1 ve 3'teki zirveler boyunca çizilen bir 
+çizginin eğimine baktığımızda, fiyatın yükselirken göstergenin düştüğünü ve bunun da düşüş 
+ayrışmasına işaret ettiğini görüyoruz. Örnek 2, fiyat ve gösterge grafiğinin vadilerinde 
+ayrışmayı göstermektedir ve bu da yükseliş ayrışmasına işaret etmektedir. En sık kullanılan 
+momentum göstergelerinden bazılarını incelerken daha fazla ayrışma örneğine bakacağız.
+Momentum Göstergesi
+İnceleyeceğimiz ilk momentum göstergesi, uygun bir şekilde Momentum Göstergesi olarak 
+adlandırılan göstergedir. Momentum, geçmiş dönemdeki kapanış fiyatındaki değişim oranını 
+ölçer.N dönemler. Bu gösterge, trend tersine dönüşlerini ararken basit ama etkilidir. Bu 
+grafikte hem ayı hem de boğa sapmasının bir örneğini görüyoruz. Ayı sapması ararken 
+zirveleri karşılaştırdığımızı, boğa sapması için ise vadilere baktığımızı fark edin.
+Momentum Göstergesi aşırı alım ve aşırı satım seviyelerini belirlemek için de kullanılabilir, ancak 
+göstergenin doğası gereği seviyeler menkul kıymetten menkul kıymete değişecektir.
+|27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Bir sonraki momentum göstergesi Stokastik'i ele alırken aşırı alım ve aşırı satım 
+seviyelerini belirlemeye yönelik daha basit bir yaklaşım göreceğiz.
+Stokastik Osilatör
+Stokastik Osilatörü iki çizgi kullanılarak oluşturulur. %K çizgisi olarak adlandırılan ilk 
+çizgi, son fiyatı son aralıkla karşılaştırır. Bu çizgi çeşitli zaman aralıkları kullanılarak 
+oluşturulabilir. Kullanılacak genel bir kural, çizgiyi oluşturmak için kullanılan süre ne 
+kadar kısaysa, istediğiniz ticaret zaman diliminin de o kadar kısa olmasıdır. İkinci çizgi, 
+%D çizgisi, %K çizgisini basitçe yumuşatır ve bir "sinyal" çizgisi olarak kullanılır. Bu 
+çizgiler 0 ile 100 arasında dalgalanır ve aşırı alım ve aşırı satım seviyeleri sırasıyla 80 ve 
+20 ile gösterilir.
+Bu grafikte, Stokastik Osilatörünün bu seviyeleri belirlemede ne kadar etkili olabileceğinin çok 
+iyi bir örneğini görüyoruz. Şubat'tan Nisan'a kadar, ACE Limited oldukça dar bir aralıkta hareket 
+etti ve Stokastik göstergesi tersine dönüşleri yakalayabildi. Ne yazık ki, hisse senedi yükseliş 
+trendine girmeye başladığında, Stokastik etkisiz hale geldi. Bu, Stokastik hakkında önemli bir 
+gerçeği gösteriyor; gösterge yalnızca aralıklı piyasalarda gerçekten etkilidir.
+Stokastikler, Momentum Göstergesi ile aynı yöntemle de uygulanabilir, yani zirveler 
+ve vadiler arasındaki farklılıkları arayabilirsiniz. Eğer kullanmayı seçerseniz
+28|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Stokastikte bu şekilde, daha iyi sonuçlar elde etmek için %K hesaplamasında daha yüksek bir periyot kullandığınızdan 
+emin olun.
+Değişim Oranı (ROC)
+Değişim Oranı, Momentum Göstergesi'ne benzerdir, ancak aşırı alım ve aşırı satım 
+seviyelerini belirlemede daha etkilidir. Değişim Oranı göstergesi, %10'un aşırı alım 
+alanını ve -%10'un aşırı satım alanını temsil ettiği bir osilatör olarak sunulur. Bunlar, 
+aşırı alım ve aşırı satım seviyelerini belirlemenize yardımcı olacak kılavuzlardır, ancak 
+kendi başlarına kesin seviyeler değildir.
+Bu çizimde, ROC göstergesi aşırı alım ve aşırı satım alanlarından geri geçtiğinde birden fazla 
+fiyat geri dönüşü görüyoruz. Örnekler A, B, C ve D'de, göstergenin iyi tanımlanmış bir 
+aralıkta ne kadar etkili olabileceğini görüyoruz.
+|29
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Göreceli Güç Endeksi (RSI)
+Göreceli Güç Endeksi en popüler momentum göstergelerinden biridir. Belirli bir süre 
+boyunca fiyatın yukarı yönlü hareketinin aşağı yönlü hareketiyle karşılaştırılmasıyla 
+oluşturulur. Bu gösterge, aşırı alım ve aşırı satım analizine uygundur; 70 aşırı alım seviyesini 
+ve 30 aşırı satım seviyesini temsil eder. Bu örnekte, bu seviyelerin belirgin bir şekilde 
+kırılmasının tersine dönme potansiyelinin iyi bir göstergesi olduğunu görüyoruz.
+RSI göstergesinin bir başka yorumu da 50 çizgisinin üstünde ve altında değerler aramaktır. 
+Gösterge 50'nin üzerinde olduğunda, güvenlik yükselen bir trendde olmalıdır. Tersine, 50'nin 
+altındaki bir değer düşen bir trendi gösterir. Yukarıdaki örnek bu yaklaşımın değerini 
+göstermektedir.
+30|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Daha Fazla Momentum Göstergesi
+Teknik analizde kullanılan en popüler momentum göstergelerini ele aldık. 
+Momentum analizi için kullanılabilecek diğer göstergeler şunlardır:
+1.TRIX Göstergesi
+2.Williams %R Göstergesi
+3.Emtia Kanalı Endeksi
+4.Eğilimden Uzaklaştırılmış Fiyat Osilatörü
+5.Dikey/Yatay Filtre
+6.MACD
+Bu göstergelerin çoğu teknik analiz programlarının çoğunda mevcuttur ve bu 
+göstergelerin tamamı Nirvana Systems' OmniTrader ve VisualTrader'da mevcuttur. 
+OmniTrader programınızdaki Göstergeler Yardım Dosyası, bu göstergeler hakkında 
+daha fazla bilgi edinmek isterseniz ek bilgiler içerir.
+Ek Momentum Analizi
+Momentum göstergesi analizine ilişkin tartışmamız aşırı alım ve aşırı satım seviyeleri ve 
+sapma ile sınırlıydı. Yine de momentum göstergelerine uygulanabilecek başka analitik 
+yöntemler de vardır. İki yaygın yöntem gösterge trend çizgileri ve fiyat modellerinin 
+momentum göstergelerine uygulanmasıdır. Her analiz türüne bir göz atalım.
+Momentum Göstergesi Trend Çizgileri
+Teknik analiz, trend çizgilerini fiyat grafiklerine uygulamanın yaygın bir kullanımını yapar. 
+Aslında, teknik analizin iki temel ilkesi, 'fiyatlar trendler halinde hareket eder' ve 'bir trend, 
+aksi kanıtlanana kadar geçerlidir'dir. Fiyat trendlerini ve bunların kırılmalarını tanımak, 
+başarılı ticaretin temel gereksinimleridir.
+Peki, trend çizgisi analizini momentum göstergelerine uygulamak geçerli midir? Cevap evettir, 
+ancak momentum trendlerini analiz ederken dikkate almanız gereken önemli hususlar vardır. 
+Momentum, fiyat gibi trendler içinde hareket edecektir. Ancak bir fiyat trendinin kırıldığını 
+gördüğümüzde, piyasanın da bunu gördüğünü ve tersine dönme trendi olasılığının yüksek 
+olduğunu biliriz. Öte yandan, bir momentumu ele alalım
+|31
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+trend kırılması. Momentumun öncü bir gösterge olduğunu unutmayın. Bir momentum trendi 
+kırıldığında, bu bize fiyat trendinin tersine döneceğini söylemez. Bizi fiyat trendinin tersine dönme 
+olasılığının arttığına dair uyarır.
+Bu örnekte, Marriott için bir grafikte Göreceli Güç Endeksini çizdik. RSI göstergesinde trend çizgisi 
+kırılmalarının dört net örneğini görebiliyoruz. Bu örneklerden bazıları fiyat eğilimindeki bir değişikliği 
+belirlememize yardımcı oldu. Örnekler A ve D, Marriott'un uzun bir konsolidasyondan sonra güzel bir 
+yükseliş koşusu yapmasıyla momentumdaki bir değişikliği belirlememize yardımcı oluyor. Bu örnekler, 
+momentum eğilimindeki bir kırılmanın, fiyat eğilimi tersine dönme olasılıklarının iyi olduğu zamanları 
+belirlememize yardımcı olduğunu göstermeye yardımcı oluyor. Bu tür veya bu konuyla ilgili herhangi bir 
+momentum analizini kullanırken, fiyat onayının önemli olduğunu unutmayın.
+Fiyat Modellerinin Momentuma Uygulanması
+Tartışacağımız son momentum analizi türü, fiyat modellerini momentuma 
+uygulamaktır. Bu analiz yöntemini öğreten birçok yayın ve eğitim kaynağı vardır. 
+Ne yazık ki, bu uygulamanın değerine dair destekleyici bir kanıt bulmak zordur 
+(gösterge trend çizgisi analizi dışında).
+Neredeyse tüm fiyat kalıpları bir tür destek ve direnç çizgisiyle oluşturulur. 
+Konsolidasyonlar, çift tepeler ve dipler, baş ve omuzlar vb. hepsi destek ve direnç 
+seviyelerinden faydalanır. Bu seviyeler, genellikle fiyatın onurlandırıldığında veya aşıldığında 
+hareket edeceği yönü belirleyen dayanak noktalarını temsil eder.
+32|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Momentum göstergelerinin osilatör olması nedeniyle, mantık bize osilatörün alt 
+seviyesinin destek olmadığını ve osilatörün üst seviyesinin de direnç olmadığını 
+söyler. Bu seviyeler geçilemez ve klasik destek veya direnç anlamında hiçbir öneme 
+sahip değildir. Bu, fiyat modellerini momentum göstergelerine uygulamanın şüpheli 
+mantığına sadece bir örnektir.
+Bir fiyat modelini yansıtan bir momentum göstergesi modeli bulmak mümkün olabilir ve bu 
+bir fiyat hareketine karşılık gelebilir. Ancak bu durum gerçekten nadirdir ve tesadüf 
+olasılığını ciddi şekilde tartmak gerekir. Analiz zamanınızı, fiyat modellerine kıyasla, 
+tartıştığımız diğer yöntemlerde momentum göstergelerini kullanarak geçirmenin her 
+zaman daha iyi olacağına inanıyoruz.
+Momentum Göstergesi Özeti
+Özetle, momentum göstergeleri hakkında şu önemli noktaları hatırlamak önemlidir:
+1.Momentum göstergeleri çok çeşitli göstergeleri kapsar, ancak hepsi fiyat 
+değişim hızını ölçmeye çalışır ve hepsi kendilerini osilatör olarak sunarlar.
+2.Momentum analizinin en popüler iki türü aşırı alım ve aşırı satım seviyelerini 
+aramak ve gösterge ayrışmasını aramaktır.
+3.Momentum trendler halinde hareket eder ve momentuma uygulanan trend çizgisi analizi, bir fiyat trendinin tersine 
+dönmesinin muhtemel olduğu zamanı belirlemenize yardımcı olabilir.
+4.Fiyat kalıpları diğer yayınlarda momentum göstergelerine uygulanmış 
+olsa da, bu analizin pratik uygulamasını desteklemek zordur.
+5.Sadece momentum, kısa vadeli bir fiyat geri dönüşünün ne zaman muhtemel olduğunu belirlemenize yardımcı 
+olabilir; ancak daha uzun vadeli hareketler momentumla birlikte kullanılacak ek göstergeler veya teknikler 
+gerektirir.
+Bu noktada, en popüler göstergelere baktık. Son gösterge sınıfımız genellikle göz 
+ardı edilir, ancak en güvenilir olanlardan biri olan hacim göstergeleridir.
+|33
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+C5
+hapter
+Hacim Göstergeleri
+Ele aldığımız öncü ve geri kalan göstergeler yalnızca fiyata dayanmaktadır. 
+Ancak hacim göstergeleri, hacmi gösterge formülüne dahil ederek piyasa 
+katılımının gücünü bilme avantajını sağlar. Bu göstergeler, belirli bir zaman 
+noktasındaki alım ve satım baskısını ölçerek bize ek bir onay düzeyi sağlar.
+Hadi bakalım
+üçü
+en popüler
+hacim
+göstergeler:
+Dengede
+Hacim,
+Biriktirme
+Dağıtım,
+ve Para
+Akış.
+Kimco Realty için fiyat grafiği ile çizilen Denge Hacmi.
+|35
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Denge Hacmi (OBV)
+Denge Hacmi, hacmi fiyat hareketiyle karşılaştırarak birikim veya dağıtım 
+seviyesini ölçmek için tasarlanmıştır. Kapanış fiyatı yükselirse hacim göstergeye 
+eklenir ve kapanış fiyatı düşerse çıkarılır. Kapanış fiyatı değişmezse, gösterge 
+önceki seviyesinde kalır.
+OBV'nin yorumlanması oldukça basittir. Gösterge yükseliyorsa, bize yukarı yönlü harekette 
+daha fazla piyasa katılımı olduğunu ve yukarı yönlü bir hareketin muhtemel olduğunu söyler. 
+Tersine, OBV düşüyorsa, aşağı yönlü fiyat hareketinin muhtemel olduğunu gösterir. Bu, 
+göstergeyle trend çizgisi analizini fiyat trendi gücünü belirlemenin yararlı bir yöntemi haline 
+getirir.
+OBV'yi uygulamanın bir diğer popüler yöntemi de ayrışmayı aramaktır. Bu örnekte, OBV'nin 
+fiyattan ayrışmasının Host Hotels & Resorts için bir tersine dönme ve yukarı yönlü bir eğilime 
+öncülük ettiğini görüyoruz.
+36|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Birikim Dağıtımı
+Birikim Dağılımı, fiyat ve hacim arasındaki ilişkiyi ölçer ve Denge Hacmi'ne 
+benzer. Alıcıların ve satıcıların taahhütlerini izler ve Birikim Dağılımı ile 
+kullanılan en yaygın analiz yöntemi, göstergenin fiyattan sapmasını aramaktır.
+Philip Morris Intl'in grafiği, istikrarlı bir yükseliş trendinin öncesinde gelen Birikim 
+Dağılımının fiyattan farklılaşmasının açık bir örneğini göstermektedir.
+Para Akışı
+Money Flow, Göreceli Güç Endeksi'ne dayanır ve bir trend tersine dönme 
+olasılığını belirtmek için hacim ağırlıklı bir formül kullanır. RSI göstergesine 
+dayandığı için bir osilatördür ve yorumu önceki bölümde tartışılan 
+momentum göstergelerine benzerdir.
+|37
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Money Flow, 80'i aştığında aşırı alım seviyelerini ve 20'nin altına düştüğünde aşırı satım 
+seviyelerini belirler. Bu şekilde kullanılabilmesine rağmen, en yaygın yorumu ayrışma 
+aramaktır. Bu örnekte, Ventas Inc. yeni zirveler yaparken Money Flow göstergesinin 
+fiyattan ayrıştığını görüyoruz. Bunu, uzun süreli, ancak dalgalı bir yükseliş trendi izledi.
+Hacim Göstergesi Özeti
+Hacim göstergeleri hakkında öğrendiklerimizi özetleyelim:
+1.Hacim göstergeleri piyasanın fiyat hareketine katılımını ölçmenize yardımcı olur.
+2.Ele aldığımız hacim göstergelerinin yönü, trend gücünü belirlemenize yardımcı 
+olacaktır.
+3.Bu göstergelerin fiyattan sapması muhtemel bir geri dönüşün erken bir işaretidir. Bu, 
+bu göstergelerle kullanılan en yaygın analiz yöntemidir.
+4.Ayrıca, hacmin tüm zaman dilimlerinde önemli olduğunu, ancak çoğu hacim göstergesinin gerçek 
+zamanlı grafikleri analiz ederken o kadar etkili olmadığını da fark etmemiz gerekir. İşlem seanslarının 
+başında ve sonundaki yoğun hacim, hacim tabanlı göstergelerin yanlış okumalar vermesine neden 
+olur. Bu, hacim analizinin gerçek zamanlı işlemde yeri olmadığı anlamına gelmez; yalnızca hacim 
+göstergelerinin gerçek zamanlı olarak kullanılmasıyla yaratılan içsel sorunlara atıfta bulunur.
+38|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+C6
+hapter
+Hangi Göstergeler
+Kullanmalı mıyım?
+Önceki bölümlerde, farklı sınıflardaki en popüler göstergelere baktık ve her birinin 
+uygulamasını tartıştık. Bu bilgilerle donanmış olarak, artık bireysel ticaretiniz için 
+hangilerini kullanmanız gerektiği sorusunu ele almaya başlayabiliriz.
+Siz Hangi Tür Tüccarsınız?
+İşleminizde hangi göstergeleri uygulamak istediğinize karar vermeden önce, öncelikle 
+işlem stilinizi belirlemelisiniz. Önceki bölümlerde gördüğümüz gibi, farklı göstergeler 
+farklı davranış türlerini arar. İşleminizde size yardımcı olacak bir gösterge için, bir 
+işlem düşündüğünüzde ne aradığınızı bilmeniz ve ardından bu tür bir kurulumu 
+belirlemenize yardımcı olmak için en uygun göstergeyi seçmeniz gerekir.
+Uzun Vadeli veya Kısa Vadeli
+Aradığımız ticaret terimini veya uzunluğunu anlayarak kendimizi tüccar olarak 
+tanımlamaya başlayabiliriz. Birkaç çubuk oluştuktan sonra bir menkul kıymette pozisyon 
+alıp kar elde etmeyi mi düşünüyorsunuz, yoksa bir ticaret yapıp birincil trendin daha 
+uzun bir süre boyunca nasıl gerçekleştiğini mi izlemek istiyorsunuz? Bu sorunun cevabı, 
+gösterge seçiminizde önemli bir rol oynayacaktır. Aşağıdaki tablo, aradığınız ticaret 
+terimine bağlı olarak kullanacağınız gösterge sınıfına karar vermenize yardımcı olacaktır.
+|39
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Gösterge Sınıfı Kısa vadeli Uzun Vadeli
+Trend olan
+Göstergeler
+Girişler için iyi
+ve çıkışlar
+geçişler
+Etkili trend
+Göstergeler
+Aşırı alım ve
+Aşırı satım seviyeleri
+girişte yardım
+onay
+Momentum
+Göstergeler
+Ayrışmayı kullan
+analiz için
+onay
+Eğim için
+devamı,
+sapma için
+tersine dönüşler
+Hacim
+Göstergeler
+Uzun süreli ayrışma
+Terim tersine çevirmeleri
+Muhafazakar veya Agresif
+Ayrıca, ne tür hareketler aradığınızı bilmek de önemlidir. Örneğin, bazı tüccarlar düşük 
+oynaklık gösteren ve güzel, istikrarlı trendlerde hareket eden menkul kıymetlerde işlem 
+yapmayı tercih eder. Bu tür işlemler çiçek açmak için daha fazla zamana ihtiyaç duyar ve 
+muhafazakar zihniyete daha çok uygundur. Diğer tüccarlar bir menkul kıymetin düzensiz 
+davranışından yararlanmayı ister. Daha yüksek bir ödül şansı karşılığında daha yüksek bir riski 
+kabul etmeye isteklidirler. Bu faktörün belirlenmesi önemlidir çünkü bir göstergenin 
+uygulanma yöntemini belirlemeye yardımcı olacaktır. Bir oynaklık göstergesi, her iki tür tüccar 
+tarafından da kullanılabilecek bir göstergenin iyi bir örneğidir, ancak bunu bireysel 
+işlemlerinde farklı şekilde uygulayacaklardır.
+Geri Dönüş veya Devam İşlemleri
+Sadece iki tür işlem vardır: geri dönüşler ve devamlar. Ancak hangi tür işlem 
+aradığınıza bağlı olarak, farklı türde göstergeler kullanacaksınız veya bir göstergeyi 
+diğer türdeki işlemi arıyormuşsunuz gibi kullanacaksınız. Örneğin, devam işlemleri 
+arıyorsanız, hareketli ortalamalar eğilimi belirlemenize yardımcı olabilir ancak çoğu 
+momentum göstergesinin değeri az olacaktır.
+Elbette, her iki tür işlemi de arayanlar var. Aslında, hem geri dönüşleri hem de 
+devam işlemlerini yapan birçok tüccar var, ancak göstergelerin uygulanması zor 
+olabilir. Ticarette yeniyseniz, göstergelerin (ve grafik desenlerinin) uygulanmasının 
+daha fazla olması için bir tür ticarete konsantre olmanız önerilir.
+40|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+basit. Biraz deneyim kazandıktan sonra, her iki tür ticareti de etkili bir şekilde 
+tanımlayabileceğinize inanmak gerçekçidir.
+Mevcut Pazarın Kişiliği
+Mevcut piyasanın durumu da dikkate alınması gereken önemli bir faktördür. Bu, kişisel 
+işlem stilinizi ilgilendirmese de, gösterge okumalarınızın değerinde önemli bir rol 
+oynayacaktır. Momentum göstergelerini tartışırken, trend piyasalarında yanlış aşırı 
+alım ve aşırı satım göstergeleri alacağınızdan bahsettiğimizi hatırlayabilirsiniz. Geri 
+dönüşler arayan kısa vadeli bir yatırımcı, aralıklı bir piyasada momentum 
+göstergelerinden mükemmel değer elde ederken, trend piyasasında aşırı alım ve aşırı 
+satım göstergesinden çok az değer elde edecektir. Unutmayın, bir göstergeyle işlem 
+yapamazsınız. Sadece fiyatla işlem yapabilirsiniz ve bir göstergenin size ne zaman 
+yardımcı olabileceğini dikkate almak önemlidir.
+Aşağıdaki tablo, hangi gösterge sınıfının piyasa durumuna en uygun olduğunu belirlemenize 
+yardımcı olacaktır.
+Ticaret Aralığı
+PazarGösterge Sınıfı Ticaret Piyasası
+Trend olan
+Göstergeler
+Girişler için iyi
+ve çıkışlar
+geçişler
+Kullanmayın
+Momentum
+Göstergeler
+Mükemmel yardım
+tersine dönmeleri belirleme
+bir aralıkta
+Uzun süreli ayrışma
+dönem girişleri
+Eğim için
+devamı,
+sapma için
+tersine dönüşler
+Hacim
+Göstergeler
+Kısaca Diverjans
+Terim tersine çevirmeleri
+Bu genel yönergeler, ticaretinize hangi gösterge sınıfını uygulayacağınıza karar vermenize yardımcı 
+olacaktır. Elbette, her sınıfın seçilebilecek birden fazla göstergesi vardır. Tam olarak hangi 
+göstergenin kullanılacağının seçimi kişisel bir tercihtir. Ancak aşağıdaki bölüm, çeşitli göstergelerin 
+uygulanmasına ışık tutacak ve hangi göstergelerin başarılı olmanıza yardımcı olabileceğini 
+belirlemenize yardımcı olacaktır.
+|41
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+C7
+hapter
+Farklı Uygulama
+Gösterge Sınıfları
+Önceki bölümde, işlem stilinize bağlı olarak hangi göstergeleri uygulayacağınıza baktık. Bu 
+bilgilerle, işlem fırsatlarını izole etmemize yardımcı olmak için farklı gösterge sınıflarını 
+birleştirmenin farklı örneklerine bakabiliriz. Her örnekte, ne tür bir işlem aradığımızı 
+tanımlayacağız ve ardından kriterlerimize uyan işlem fırsatlarını belirlememize nasıl yardımcı 
+olabileceklerini göstermek için farklı sınıflardan göstergeler uygulayacağız. Bu örneklerde, 
+kısa vadeli işlemleri, tamamlanması birkaç günden birkaç haftaya kadar süren işlemler olarak 
+ve uzun vadeli işlemleri, tamamlanması birkaç haftadan birkaç aya kadar süren işlemler 
+olarak gevşek bir şekilde tanımlıyoruz.
+Örnek #1: EMA ve ATR Göstergelerini Kullanarak Kısa Vadeli 
+İşlem Onayı
+İlk örneğimizde, trendin ne zaman değiştiğini belirlemeye yardımcı olması için bir trend göstergesi ve ek 
+doğrulama için fiyat aktivitesindeki anormal davranışları belirlememize yardımcı olması için bir oynaklık 
+göstergesi kullanacağız.
+Ortalama Gerçek Aralık göstergesiyle 21 günlük Üstel Hareketli Ortalama 
+uyguladık. Hareketli ortalamayı geçen fiyat ve ATR değerinde önemli bir artışla 
+doğrulanan kısa ila orta vadeli işlemler arıyoruz. Yükselen değer dönemlerini 
+daha iyi göstermek için ATR (Wilder'ın Volatilitesi) göstergesi boyunca trend 
+çizgileri çizdik.
+|43
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+İlk kesişim noktamız olan A Noktası, ATR değerinde önemli bir artış olduğunu gösteriyor ve 
+bu da istenilen yönde güzel bir kısa vadeli hareketin ardından gelen hareketin gücünü 
+gösteriyor. B Noktası, aşağı doğru ve ardından yukarı doğru bir kesişim gösteriyor. Bu, 
+hareketli ortalamalarla ilgili klasik bir sorundur, ATR değerinde bir düşüş görüyoruz, bu da 
+her iki yönde bir kırılmanın olası olmadığı anlamına geliyor. Birden fazla gösterge onayının 
+olmaması, B Noktasında bir işlemde işlem yapmamamıza neden olur.
+Fiyat tekrar C Noktasında hareketli ortalamaya giriyor ve ayrıca ATR onayı da var. Sonraki 
+hareket güzel bir kısa işlemle sonuçlanmış olurdu. D Noktası çoklu gösterge onayına bir 
+örnek sunar ve başka bir karlı işlem gerçekleşmiş olurdu. Konsolidasyon döneminden 
+önce 2012'nin 2. çeyreğinin sonlarında oynaklığın nasıl kuruduğuna dikkat edin.
+44|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Örnek #2: İki Hareketli Ortalama ve Chaikin Volatilitesi 
+Kullanılarak Uzun Vadeli Onay
+Bu örnekte, daha uzun vadeli trend değişimlerini belirlemek için Chaikin Volatilite 
+göstergesiyle birlikte iki Basit Hareketli Ortalama kullanmaya bakacağız. 21 dönemlik bir 
+SMA ve 55 dönemlik bir SMA kullanıyoruz. A noktasında, daha kısa hareketli ortalamanın 
+daha uzun hareketli ortalamayı kestiğini görüyoruz. Bu, yukarı yönlü bir trendin 
+gerçekleştiğinin bir işareti olarak yorumlanabilse de, volatilite göstergemizin sıfır 
+seviyesine yakın olduğunu görüyoruz. Volatilitede bir zirve aradığımız için, hareketli 
+ortalama geçişine tepki vermiyoruz. B noktasına baktığımızda, hareketli ortalama 
+geçişinin gerçekleştiği anda, volatilite göstergemizin hala sıfırın altında olduğunu 
+görüyoruz. Bu oluşumların her ikisi de her iki göstergeden de onay almadı ve birden 
+fazla göstergenin onayını bekleyerek kötü işlemlerden kaçınabildik.
+C noktası daha iyi doğrulanmış bir örnektir. Hareketli ortalama kesişimini elde ettiğimizde, 
+kesişimden günler sonrasına denk gelen oynaklıkta kesin bir zirve olduğunu görürüz. 
+Hareketli ortalamaların gecikmeli göstergeler olduğunu ve genellikle onay sinyallerini biraz 
+geç iletebildiklerini unutmayın. Bunu göz önünde bulundurarak, yeterli oynaklık onayının 
+olduğu sonucuna varılabilir. Yine de diğerleri göstergelerin daha zamanında senkronize 
+olmasını bekleyebilir ve bu fırsatı kaçırabilir. Bunun yeterli onay olarak görülüp 
+görülemeyeceği muhtemelen aradığınız ticaret terimine bağlı olacaktır.
+|45
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Kısa vadeli yatırımcılar bunu yeterli bir onay olarak görebilirken, uzun vadeli yatırımcılar 
+bu adayı şu anda geçmek isteyebilir. Bu eşit olaydan sonraki fiyat hareketi bunu 
+doğruluyor.
+D noktasındaki son örneğimiz, hareketli ortalamaların kesiştiğini ve kısa ticareti 
+doğrulamak için büyük bir volatilite artışımız olduğunu gösteriyor. Bu, dört örnek 
+arasında en açık ticaret fırsatıdır çünkü hareketli ortalama kesişimiyle çakışan yüksek 
+volatilite, aşağı doğru güçlü bir hareketi öngörüyor.
+Örnek #3: MACD Histogramı ve Göreceli Güç Endeksi Kullanılarak 
+Kısa Vadeli Onay
+MACD Histogramı ve Göreceli Güç Endeksi kısa vadeli onay için kendilerini iyi bir şekilde 
+ödünç verir. Bu örnekte, MACD Histogramının sıfır çizgisini ve Göreceli Güç Endeksinin 50 
+seviyesini geçmesini bekliyoruz. Giriş onayına yoğunlaşıyoruz, ancak bu teknik çıkış onayı 
+için de etkilidir. Analizimize başlamadan önce, momentum göstergelerinin aralıklı 
+piyasalarda etkili olduğunu unutmayın, bu nedenle girişleri onaylamadan önce piyasanın 
+hangi durumda olduğunu belirlemek önemlidir.
+Örneğimiz için, yaklaşık 6 aydır iyi tanımlanmış bir aralıkta olan CF Industries 
+Holdings'in grafiğine bakacağız. A ve B noktaları,
+46|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+MACD Histogramı sıfır seviyesinden yukarı doğru ve RSI 50'yi kırarak yukarı doğru. Bu 
+iyi bir kısa vadeli uzun pozisyon olduğunu kanıtlamış olurdu. C ile işaretlenen alan 
+histogramın sıfır çizgisi etrafında dalgalandığını gösterir, bu da yalnızca bunu 
+kullanırsak kırbaç darbeleriyle sonuçlanırdı. Ancak, RSI hala 50'nin oldukça üzerinde, 
+bu nedenle kısa pozisyon almak için onayımız yok. Bu, farklı gösterge sınıfları arasında 
+onay aramanın etkinliğini gösterir.
+D Noktasında, göstergelerin önemli seviyelerini kırdığına dair iyi bir örnek görüyoruz, bu da karlı ticaret 
+fırsatlarını doğrulamaya yardımcı olacaktır. E Alanı, bu grafikteki tek kötü örneğimizdir, çünkü Mayıs ayı 
+sonlarında CF'nin destekten sıçraması muhtemelen kaybedilen işlemlerle sonuçlanmıştır. E Noktası, 
+MACD Histogramının sıfır çizgisinden yükselmeye başladığını, ancak RSI'nin hala 50'nin üzerinde 
+olduğunu gösteriyor. Bu iyi bir kısa fırsat gibi görünse de, harekete geçmeden önce her iki göstergenin 
+de hareketi doğrulamasını beklemek istiyoruz.
+Örnek #4: TRIX ve Money Flow Kullanılarak Uzun Vadeli Onay
+Son örneğimizde, TRIX göstergesini ve Para Akışı Endeksini kullanarak uzun 
+vadeli fırsatlar arayacağız. Para Akışı Endeksi fiyattan uzaklaşırken TRIX'in sıfır 
+seviyesini aşmasını istiyoruz. Önceki örnekte olduğu gibi, yalnızca giriş onayı 
+arıyoruz.
+|47
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Progress Energy Inc. iyi trend gösteren bir hisse senedidir ve bir yıl içinde bu tür bir analizi 
+kullanarak dört işlem fırsatına sahip olacağımızı görüyoruz. A Noktasında, erken fiyattan Para 
+Akışı sapması yaşadık, ancak TRIX göstergesi sıfır çizgisini bir haftadan uzun bir süre sonra 
+kırdı. Sapmanın tahmin edici bir analiz biçimi olduğunu ve tahmin edilen hareketin 
+gerçekleşmesinin genellikle biraz zaman alacağını unutmayın. Bu durumda, hareket neredeyse 
+anında gerçekleşti, ancak uzun vadeli fırsatlar aradığımız için TRIX'in sıfırı yukarı doğru 
+geçmesini de bekliyorduk.
+B Noktası, Para Akışının fiyattan ayrışmasının açık bir örneğini gösterir, ancak TRIX 
+göstergesi aşağı yönlü hareketin çoğu yapıldıktan sonra sıfır çizgisini geçmedi. 
+Ancak, C Noktası, bu iki göstergenin, olağanüstü bir kısa vadeli pozisyon olabilecek 
+aşağı yönlü bir hareketi doğrulamak için nasıl sıralandığını gösterir. Grafiğin en sağ 
+kenarında, Para Akışının fiyattan ayrıştığını, TRIX'in ise sıfır çizgisine doğru indiğini 
+görüyoruz. Bu, ayrışma göstergesinin erken geldiğine dair en iyi örnektir, ancak 
+TRIX göstergesi sıfırın altına düşerse güzel bir kısa fırsatımız olmalı.
+Özet
+Az önce gösterdiğimiz örnekler, gösterge sınıflarını birleştirmenin etkinliğini 
+göstermek içindir. Önceki bölümlerde ele aldığımız bilgileri uygulayarak, 
+göstergeleri belirli türdeki işlem fırsatlarını izole etmek için kullanabiliriz. Farklı 
+gösterge sınıfları kullandığımızda, birden fazla piyasa faktörünü doğrulayarak 
+teknik riskimizi azaltıyoruz. Bu örnekler size hangi göstergeleri 
+uygulayacağınıza dair bir fikir verebilirken, ele aldığımız farklı göstergeleri 
+analiz etmeniz ve aradığınız tam fırsat türünü izole etmenize yardımcı olacak 
+olanları seçmeniz önerilir.
+48|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+C8
+hapter
+Göstergelerle Kar Etme İpuçları
+Önceki sayfalarda gördüğümüz gibi, göstergeler aradığımız piyasa koşullarının ne zaman 
+karşılandığını belirlememize yardımcı olmak için kullanılabilir. Giriş fırsatlarını 
+doğrulamamıza yardımcı olmak için göstergeleri kullanmaya yoğunlaşmış olsak da, bunlar 
+genellikle ticaret yönetimi ve çıkış teknikleri için de kullanılır.
+Kelimenin tam anlamıyla yüzlerce gösterge mevcut ve bunların çoğunu uygulamanın birden fazla yolu 
+varken, hangilerini kullanacağınıza ve nasıl kullanacağınıza karar vermek zorlu bir görev gibi görünebilir. 
+Ancak birkaç basit yönergeyi izleyerek, hangi göstergelerin sizin ticaretiniz için en uygun olduğunu bulmak 
+için gereken zamanı ve çabayı büyük ölçüde azaltabilirsiniz.
+1. Kendinizi bir Tüccar olarak tanıtın
+Hangi göstergeleri kullanacağınıza karar vermeye başlamadan önce, aradığınız işlem türünü 
+bilmeniz gerekir. Bu nokta 6. bölümde ayrıntılı olarak ele alınmıştır ve hangi göstergeleri 
+kullanacağınıza karar vermeye başlamak için önemlidir. Kısa vadeli mi yoksa uzun vadeli bir 
+yatırımcı mısınız? Mevcut trendle işlem yapmakta mı daha rahatsınız yoksa tersine dönüşler mi 
+arıyorsunuz? Kullanılacak bir göstergeye ve onu nasıl kullanacağınıza karar vermeye başlamadan 
+önce bu tür soruların yanıtlanması gerekir.
+|49
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+2. İstediğiniz Kurulumu(Kurulumları) Bilin
+Bir kurulum, bir işlem yapmayı düşünmeden önce mevcut olması gereken grafik özelliklerinin 
+bir kombinasyonudur. Kurulumlar fiyat davranışı, hacim davranışı veya her ikisinden 
+oluşabilir. Örneğin, yüksek oynaklıkta tersine dönen menkul kıymetlerle işlem yapmak 
+isteyebilirsiniz veya yalnızca yüksek hacimde birincil trend yönünde hareket eden bir menkul 
+kıymetle işlem yapmak isteyebilirsiniz. Aradığınız kurulum türünü açıkça tanımladıktan sonra, 
+kullanmak isteyeceğiniz göstergeleri belirlemek daha kolay olacaktır.
+3. Potansiyel Göstergeleri Kapsamlı Bir Şekilde İnceleyin
+Bir göstergenin dikkatinize sunmasını istediğiniz grafik davranışına karar verdikten sonra, 
+etkili olup olmayacaklarını görmek için çeşitli göstergelerin uygulandığı birden fazla grafiği 
+incelemenin zamanı gelmiştir. Göstergeyi mümkün olduğunca çok grafikte incelemek 
+önemlidir. Bu, göstergenin farklı piyasalarda ne kadar yararlı olacağı konusunda size bir fikir 
+verecek ve göstergenin güçlü ve zayıf yönlerini (hepsinin sahip olduğu) belirlemenize 
+yardımcı olacaktır.
+Bir göstergeyi analiz ederken, sonuçlarını hem göstergenin perspektifinden hem de grafiğin 
+perspektifinden incelediğinizden emin olun. Örneğin, bir grafikteki eğilimlere bakarak ve 
+ardından göstergeye bakarak MACD Histogramını analiz ediyorsanız, histogramın trend 
+tersine dönüşlerini tam olarak belirlediğine inanmaya yönlendirilirsiniz. Durum böyle olsa da, 
+bu perspektiften bakıldığında bu göstergenin konsolidasyon dönemlerinde yanlış okumalar 
+verdiği gerçeğini gözden kaçırmak kolay olurdu. Göstergenin davranışına ve ardından fiyat 
+grafiğine nasıl karşılık geldiğine baktığınızdan emin olun. Bir göstergenin potansiyel 
+kullanımına bu iki farklı perspektiften bakarak, yalnızca fiyatla ilişkili olarak nasıl davrandığına 
+dair daha kapsamlı bir anlayışa sahip olmakla kalmayacak, aynı zamanda içsel zayıflığını aşmak 
+için hangi diğer gösterge sınıfını kullanabileceğinize karar vermenize de yardımcı olacaktır.
+4. PRATİK YAPIN! Potansiyel Göstergelerle Kağıt Ticareti
+Tarihsel analizimizin nesnel olduğuna inanmak istesek de, bir grafiğin ve göstergenin 
+geçmişine bakıp görmek istediğimizi görmek ve gerçekte gösterileni görmemek çok kolaydır. 
+Bir göstergenin size ticarette yardımcı olup olmayacağını bilmenin tek yolu onu kullanmaktır. 
+Ancak, fikirleri test ederken gerçek parayı riske atmak genellikle pahalı bir dersle sonuçlanır. 
+Kağıt ticareti, gerçek parayla ticaretle ilişkili duygusal yönden yoksun olsa da, göstergenin 
+grafiğin doğru kenarına tepki vermenize yardımcı olup olmayacağı konusunda size saygın bir 
+fikir verecektir.
+50|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Çözüm
+Göstergeler araçlardır. Trend yönü, fiyat momentumu, oynaklık ve hacim biçimindeki piyasa katılımı 
+gibi önemli faktörleri görselleştirmemize yardımcı olurlar. Finansal kurumlar, aracı kurumlar, 
+profesyonel yatırımcılar ve hatta uzun vadeli yatırımcılar karar alırken göstergelerden faydalanırlar. 
+Herhangi bir araçta olduğu gibi, göstergeler yalnızca doğru bir şekilde uygulandığında ve size hangi 
+bilgileri göstermeleri gerektiği konusunda uygun bir bilgiyle analiz edildiğinde faydalı olabilir.
+Göstergelerin uygulanmasına ilişkin son birkaç nokta şunlardır:
+1.Göstergeleri uygulama söz konusu olduğunda azı çoğunluktadır. Göstergeleri 
+"istiflemek"ten kaçının. Başarılı yatırımcıların çoğu en fazla bir, iki veya üç gösterge 
+kullanır. Grafiklerinizi yalnızca birkaç gösterge çizerek temiz tutarak gerçekten 
+birincil adayları tespit etmenin daha kolay olduğunu göreceksiniz.
+2.Birden fazla gösterge kullanırken, farklı sınıflardan göstergeler kullandığınızdan emin 
+olun. Farklı sınıflardan göstergeler kullanarak, aynı sınıftan göstergeler 
+kullanmaktan çok daha fazla bilgiyi grafikten elde edersiniz. Örneğin, birden fazla 
+momentum göstergesinin fazlalığı muhtemelen değerli olabilir, ancak adayları en 
+az teknik riskle işlem yapma hedefimizde, farklı sınıflardan göstergeler 
+kullandığımızda kendimizi çok daha fazla bilgiyle donatıyoruz.
+3.Sadece fiyat ticareti yapabilirsiniz. Bir gösterge piyasası yoktur, bu yüzden onlarla ticaret 
+yapmayı denemeyin. Tüccarlar tarafından yapılan yaygın bir hata, fiyat grafiğinin kendisinin 
+uygun bir analizi yapılmadan gösterge koşulları karşılandığında bir ticaret yapmaktır. Fiyat 
+grafiğinin odak noktanız olarak kalması zorunludur ve göstergeler bir hareketin olasılığını 
+analiz etmenize yardımcı olmak için kullanılır.
+İşlem ufkunuzu tanıyın. Aradığınız kurulumu tanımlayın. Bu kurulumu izole 
+etmenize yardımcı olacak uygun göstergeleri uygulayın. Bu süreci 
+tamamladığınızda, araştırma sürenizin, işlem doğruluğunuzun ve en önemlisi 
+işlem hesabınızın önemli ölçüde iyileştiğini göreceksiniz.
+|51
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Ek A-Sorumluluk Reddi
+Hisse senetleri, yatırım fonları, vadeli işlemler ve opsiyon ticareti, anapara kaybı ve diğer kayıplar 
+dahil olmak üzere yüksek risk içerir. Ne yazılım ne de işleyişinin herhangi bir gösterimi, herhangi 
+bir türde menkul kıymet veya menkul kıymet türev ürünü satın alma veya satma önerisi veya teklifi 
+olarak yorumlanmamalıdır.
+Nirvana'nın VisualTrader™, OmniTrader™ Nirvana Systems Inc., çalışanları veya iştirakleri, herhangi 
+bir menkul kıymetin alım veya satımını veya menkul kıymetlere yatırım yapmak için herhangi bir 
+özel yaklaşımı önermez. Nirvana Systems, Inc. bir yatırım danışmanlık hizmeti veya kayıtlı bir 
+yatırım danışmanı veya aracı kurum değildir.
+Sunulan yöntemlerin ticarette karı garanti edeceğine dair hiçbir beyanda bulunulmamaktadır. 
+Geçmiş performans, gerçek veya tarihsel sistem testleriyle gösterilmiş olsun, gelecekteki 
+performansın veya başarının garantisi değildir. Nirvana Systems, Inc. tarafından sunulan bilgiler, 
+Nirvana'nın güvenilir olduğuna inandığı kaynaklardandır. Ancak, Nirvana bu bilgileri bağımsız olarak 
+doğrulamamıştır.
+|53
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+% Emtia Kanalı Endeksi, 31 
+Muhafazakar, 40
+Konsolidasyon, 14, 17, 18, 32, 44, 50 
+Devam, 21, 40
+Devamlar, 40
+Daralma, 21
+Geçiş, 44
+%D, 28
+%K, 28, 29
+A
+Anormal oynaklık, 9
+Anormal hacim, 9
+Birikim, 36
+Birikim Dağıtımı, 37 ACE 
+Limited, 28
+Saldırgan, 40
+Analitik yöntemler
+ivme, 31
+A.T.R., 23.GörmekOrtalama Gerçek 
+Aralık Ortalama Yön Hareketi, 11 
+Ortalama Gerçek Aralık, 21, 23, 43
+inşaat, 23
+yükseliş, 23
+D
+Günlük fiyat aralığı, 21 
+Trendsiz Fiyat Osilatörü, 31 
+Dillards, 22
+Dağıtım, 36
+Ayrışma, 9, 17, 25, 26, 27, 28,
+29, 30, 31, 33, 36, 37, 38, 48
+Çift tepeler, 32
+Douglas Emmett, Inc., 23
+E
+B Giriş onayı, 46, 47 Çıkış 
+onayı, 46
+Çıkış teknikleri, 49
+Genişleme, 21
+Üstel Hareketli Ortalama, 13, 21, 43 Üstel 
+Hareketli Ortalamalar, 13
+inşaat, 13
+Bar, 11
+Çubuk grafikler, 11
+Ayı sapması, 27
+Breakout, 21, 22, 23, 44 
+Aracılık, 51
+Boğa sapması, 27
+Alıcılar ve satıcılar
+taahhüt, 37
+F
+Yanlış sinyaller, 12, 17 
+Dayanak noktaları, 33
+C
+Mum grafikleri, 11
+Chaikin Volatilite, 21, 23, 45, 46 
+Grafik, 14
+Gösterge sınıflarının birleştirilmesi, 
+48 Onay sinyalleri, 45
+H
+Histogram, 18.GörmekMACD
+Histogram
+Ev Sahibi Oteller ve Tatil Köyleri, 36
+|55
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+BEN Momentum Göstergesi, 27, 28, 29,
+31, 33
+Momentum Göstergeleri, 9, 25, 31 
+Momentum trend kırılmaları, 32 
+Momentum trend kırılmaları, 32 Para 
+Akışı, 35, 37, 38, 47, 48 Para Akışı Endeksi.
+GörmekPara Akışı Hareketli ortalama, 8, 
+12, 13, 14, 15,
+16, 18, 19, 20, 25, 43, 44, 45, 46 
+uygulama, 14
+bir trend doğrulama aracı olarak, 
+14 giriş, 14
+çıkışlar, 14
+üçlü düzleştirilmiş,GörmekTRIX Göstergesi 
+Hareketli ortalama osilatörleri, 16 Hareketli 
+ortalamalar, 12
+Çoklu gösterge onayı, 44 Çoklu 
+hareketli ortalamalar, 15
+Gösterge davranışı, 50
+Gösterge sınıfları, 8, 39
+başvuru, 43
+Gösterge trend çizgileri, 31 
+Intel, 13
+Yatırımcılar, 51
+L
+Gecikmeli göstergeler, 8, 9, 11, 15, 20,
+35, 45
+Öncü gösterge, 8, 25, 32 En 
+az teknik risk, 7, 51 Uzun 
+vadeli, 47, 48, 49
+M
+MACD, 11, 16, 17, 18, 31, 46, 47,
+50.GörmekHareketli Ortalama 
+Yakınsama/Uzaklaşma
+uygulama, 17
+çaprazlama yöntemi, 17
+yanlış sinyaller, 18
+zirveler, 18
+MACD Histogramı, 18, 19, 46, 47, 50
+trend göstergesi olarak 18 
+zirve, 18
+eğim, 18
+Piyasa dibi, 21,23
+Pazar katılımı, 23, 35, 36, 51 Pazar 
+kişiliği, 41
+Pazar zirveleri, 21, 23 
+Marriot, 32
+Ortanca Fiyat, 11
+Momentum, 8, 9, 16, 17, 25, 26, 27,
+28, 30, 31, 32, 33, 37, 40, 41, 46, 51
+Momentum analizi, 32
+N
+Teknik Ticarette Yeni Kavramlar
+Sistemler, 23
+gürültü, 11,15
+O
+Öntanımlı olarak.GörmekBakiye Hacmi 
+OmniTrader, 31
+Denge Hacmi, 35, 36, 37
+inşaat, 36
+Osilatör, 8, 16, 17, 19, 25, 29, 33, 37
+yorumlama, 16
+Aşırı alım, 8, 9, 16, 25, 26, 27,
+28, 29, 30, 31, 33, 38, 41
+Aşırı satılmış, 8, 9, 16, 25, 26, 27, 28,
+29, 30, 31, 33, 38, 41
+56|
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+P Sinyal, 15
+Basit Hareketli Ortalama, 12, 13, 15
+inşaat, 12
+Eğim, 27
+SMA.GörmekBasit Hareketli 
+Ortalama Düzeltme, 12
+Stokastik, 25, 28
+uygulama, 28
+inşaat, 28
+Stokastik Osilatör, 28 
+Destek, 32, 33
+Kağıt ticareti, 50
+Zirveler, 18, 27, 28
+Öngörücü gösterge.Görmeköncü gösterge 
+Fiyat hareketi
+Hacimle karşılaştırıldığında, 
+36 Fiyat kalıpları
+momentuma uygulandı, 31, 32 
+Birincil trend, 39, 50
+Profesyonel tüccarlar, 51
+R T
+Aralıklı pazar, 41, 46
+Stokastik ile, 28
+Değişim oranı
+Momentum, 27
+Değişim Oranı (Gösterge), 25, 29 
+Gerçek zamanlı analiz
+hacim kullanarak, 38
+Göreceli Güç Endeksi, iv, 30, 32, 37, 46
+inşaat, 30
+Direnç, 32, 33
+Duyarlı gösterge, 17 Tersine 
+çevirme, 8, 9, 16, 21, 22, 23, 25,
+26, 27, 30, 32, 33, 36, 37, 38, 45 
+onaylayan, 23
+Yükselmek
+ATR değerinde 44 ROC.Görmek
+Değişim Oranı RSI. Göreceli Güç 
+Endeksine bakınız.
+Teknik analiz, 21, 31 
+Ticaret yönetimi, 49
+Ticaret aralığı, 9
+Ticaret stili, 39, 41, 43 
+Ticaret sistemi, 21
+Ticaret terimi, 39
+Trend, 8
+Trend yönü, 8, 9, 12,51 trend 
+takip göstergesi,11.Görmek
+trend göstergeleri
+Trend göstergeleri, 11, 16, 19, 20 
+Trend Yoğunluk Endeksi, 11
+Trend dönüşleri, 27
+Trend piyasası, 20, 41 
+Trend çizgisi analizi, 33
+momentum için uygulandı, 
+Denge Hacmi ile 31, Tetik 
+çizgisi 36, 17
+TRİKS.GörmekTRIX Göstergesi 
+TRIX Göstergesi, 19, 31
+uygulama, 19
+girişler, 19
+İki hareketli ortalama
+uygulama, 15
+Tipik Fiyat, 11
+S
+Kısa vadeli, 18, 29, 44, 46, 47, 49 
+Yatay piyasa, 15, 16, 20
+Görmekticaret aralığı
+Sinyal hattı, 16, 17, 18
+|57
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+V
+vadiler, 27
+hız, 25, 33
+fiyat değişikliğinin, 33 
+Ventas Inc., 38
+Dikey Yatay Filtre, 11 Dikey/Yatay 
+Filtre, 31 Volatilite, 8, 9, 21, 40, 
+43, 44, 45,
+46, 50, 51
+Volatilite göstergeleri, 9, 21
+Hacim, 8, 9, 33, 35, 36, 37, 38, 50, 51 
+Hacim Göstergeleri, 9, 35
+B
+Ağırlık, 12, 13
+Ağırlıklı Hareketli Ortalama, 12, 13 
+Kırbaçlar, 14, 15, 16, 17, 19, 44, 47 
+Wilder
+J. Welles, 23
+Wilders Volatilitesi, 23
+Williams %R, 31
+WMA.GörmekAğırlıklı Hareket
+Ortalama
+Z
+Sıfır çizgisi, 17, 18, 19, 46, 47, 48
+58|
+www.forexgercekleri.xyz - [Twitter: @eseckal]

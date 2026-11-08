@@ -1,0 +1,32 @@
+# Kitap okuma 166 — arz/talep, küçük hedefler ve AO–AC uyumu
+
+Üç ayrı PDF'nin **69 + 71 + 70 = 210 sayfası** sırayla incelendi. Shaolin kitabının metni seyrek olan grafik sayfaları ayrıca [görsel 1](kungfu_contact_1.jpg) ve [görsel 2](kungfu_contact_2.jpg) olarak denetlendi. Atıflar PDF sayfasıdır. **Yeni bağımsız araştırma adayı: 1.** Backtest, paper test veya emir yapılmadı.
+
+İlk seçimdeki *Max Stevenson — Yüksek Kazanma Oranı ile Ortalama Dönüş Scalping Stratejileri* PDF'si, [71. partideki Rob Teally kitabıyla](../batch_071/STRATEGIES.md) metin bakımından neredeyse aynı çıktı (19.000 karakterlik örnekte benzerlik ~%99,4); farklı kapak adına rağmen yeni kitap sayılmadı ve yerine Daniel Stones seçildi.
+
+## 1. Arz ve Talep Trading Kitabı — Daniel Stones
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 19/Baskı 19/Arz ve Talep Trading Kitabı - Daniel Stones (69 sayfa) - @eseckal.pdf>) · [tam metin](01_supply_demand_stones.txt)
+
+**Tarama:** s. 1–13 konsolidasyon→BOS→bölgeye limit giriş; 14–34 arz/talep ve büyük hareketten önceki taban; 35–41 limit ile mum teyitli giriş karşılaştırması; 42–51 salınım ucu ve son küçük mumla bölge sınırı; 52–66 kurumsal emir anlatısı ve eski düzeylerle karşılaştırma; 67–69 bayat bölge uyarısı/sonuç. S. 2–6 ve 35–40'taki ilk bölge dönüşü, BOS sonrası retest ve yutan/pin mum teyidi [5.](../batch_005/STRATEGIES.md), [54.](../batch_054/STRATEGIES.md), [133.](../batch_133/STRATEGIES.md) ve [162. partide](../batch_162/STRATEGIES.md) var. S. 47–51'in “son küçük mum” seçimi ve s. 67–69'un “eski” bölgesi nesnel eşik vermiyor; fiyatın dönmesini bankaların bekleyen emrinin kanıtı saymak mümkün değil. S. 6'daki 1–2 pip stop tamponu FX spreadine bağlı parametre varyantıdır. **Yeni bağımsız aday yok.**
+
+## 2. Kârlı Bir Trading Stratejisi Nasıl Oluşturulur — Heikin Ashi Trader
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 22/Baskı 22/Karlı Bir Trading Stratejisi Nasıl Oluşturulur - Heikin Ashi Trader (71 sayfa) - @eseckal.pdf>) · [tam metin](02_build_strategy_heikin_ashi.txt)
+
+**Tarama:** s. 1–31 risk/ödül ve yüksek isabet oranı savı; 32–44 Bund M5 MA24/51, 3 tick hedef/20 tick stop ve seçilmiş test; 45–49 E-mini M5 aynı MA, 3 tick hedef/30 tick stop; 50–59 sonuçlara bakarak MA42/92, 2 tick hedef/100 tick stop optimizasyonu ve otomatik/elle erken kayıp kesme; 60 sonuç, 61–64 sözlük, 65–71 diğer kitap tanıtımları/telif. MA çaprazı mevcut aday ailesi. S. 37'de 30 dakika sonra eksi 5 tick'teki işlemi elle kapatma fikri, sıkı bir alternatif süre/zarar çıkışı olarak ileride çapraz MA ailesinde **ablation** olabilir; bağımsız sinyal açmaz. S. 34–35'te uzun yönü geçmiş yükselişin bilinciyle seçmesi ve s. 50–52'de aynı sonuçlara bakarak parametre seçmesi dış örneklem kanıtı değildir. 2 tick hedef/100 tick tam stopta maliyet öncesi başabaş kazanma oranı `100/102≈%98,04`; s. 56'da raporlanan %95,13 oranından tek başına olumlu beklenti çıkmaz, çünkü gerçekleşen ortalama zarar/erken çıkış ayrıca gerekir. Geniş stopu “daha az riskli” diye genellemek yanıltıcıdır. **Yeni bağımsız aday yok.**
+
+## 3. Forex Kungfu Shaolin
+
+[PDF](<D:/Paper_ML_BSH/Drive_PDF/PDFler/Baskı 11/Baskı 11/Forex Kungfu Shaolin (70 sayfa) - @eseckal.pdf>) · [tam metin](03_forex_kungfu_shaolin.txt)
+
+**Tarama:** s. 1–19 FX tanıtımı, emirler ve temel bağlam; 20–43 mum, seviye, formasyon, Fibonacci ve risk; 44–49 Alligator ve sağ iki barla teyit edilen fraktal; 50–52 AO tabak/0 kesişimi/çift dip; 53–54 AC formülü ve histogram; 55–58 AO ile AC aynı renk ve beş bar sonrası stop taşıma; 59–67 Balance Line kuralları; 68–70 örnek/sonuç. S. 46'daki Alligator çizgileri ileri kaydırılarak **grafiğe çizilir**; çizimin gelecekteki fiyatı bildirdiği varsayılamaz. S. 51 AO çift dip anlatımında “ikinci dip daha düşük” ifadesi alış örneğiyle tutarsız görünüyor; doğrudan kodlanmadı. S. 59–67 Balance Line görsel temel çubuk seçimi ve yeniden yorumlama gerektiriyor; açık uygulama sözleşmesi yok. AO ve AC'nin iki ardışık barda aynı yöne renklenmesi farklı bir birleşik olaydır.
+
+### FKS166A — AO ve AC çift renk uyumu sonrası fiyat kırılımı
+
+- **Kaynak çekirdeği (PDF s. 50, 53–58):** `AO=SMA5((H+L)/2)−SMA34((H+L)/2)`, `AC=AO−SMA5(AO)`. AO/AC aynı yeşil olduğunda yükseliş, aynı kırmızı olduğunda düşüş momentumu; s. 56–57 iki ardışık aynı renk histogramı ve fiyat teyidi, s. 58 beş kırmızı bar sonrası stopu her yeni bar tepesine taşıma örneği. Çeviride s. 56–57 “ikinci barın kapanışı ikinci barın kapanışından yüksek/düşük” kendi kendisiyle karşılaştırma olarak bozulmuş; aşağıdaki `close[t]>close[t−1]` yorumumuz kaynakta açık değildir.
+- **Kapalı mum sinyali:** EURUSD/GBPUSD/USDJPY H1 gerçek OHLC; en az 41 kapalı H1 ısınma. Histogram yeşili `AO[t]>AO[t−1]` ve `AC[t]>AC[t−1]`; kırmızı tersi. Long için `t−1` ve `t` barlarının her ikisinde iki histogram da yeşil, `close[t]>close[t−1]` ve `AO[t]>0`. Short tüm yönler ters, `AO[t]<0`. AO sıfır tarafı kitabın s. 50–54'teki momentumu yön bağlamına bağlayan **bizim birleşim filtremizdir**; filtresiz kol ayrıca test edilir. Son barın high/low seviyesi kapanışta dondurulur. Aynı yönde süren yeşil/kırmızı dizide yalnız ilk iki bar sinyal verir; yeni sinyal için önce renk uyumu bozulmalı.
+- **Giriş/risk/çıkış:** Long sinyal sonrası en çok 3 H1 bar boyunca `high[t]+1 FX pip` buy stop; short `low[t]−1 pip` sell stop. 1 pip emir aralığı s. 53'te AC için verilir, AO+AC birleşimine uygulanması **bizim**. Emir dolmazsa iptal; bir açık pozisyon/çift. Dolan fiyattan `1×ATR14_H1` sert stop, `2R` hedef, 24 H1 bar süre çıkışı. En çok özsermayenin %0,25'i risk; spread, komisyon, kayma, swap ve gap dahil. Beş ardışık aynı renkli AO+AC barından sonra short stopunu izleyen tamamlanmış H1 barın yüksek seviyesi `+1 pip`e, long stopunu düşük seviyesi `−1 pip`e yalnız lehe hareket edecek biçimde taşı; kaynak s. 58 yalnız short örneği verir, long simetrisi **bizim**. Tamamlanmamış barın high/low'u stopa önceden taşınmaz. Aynı M1 bar içinde stop ve hedef görülürse stop önce.
+- **Ayrıştırma:** AO iki renk tek başına, AC iki renk tek başına, AO sıfır geçişi ve birleşik AO+AC aynı tarih/maliyet ile kıyaslanır. Çıkışta beş bar trailing açık/kapalı kollar, işlem sayısı, net R, seri kayıp, maksimum düşüş, spread duyarlılığı, para birimi bazında ve dönem dışı sonuçlar raporlanır. Histogram uyumu veya eski grafik örneği kazanma olasılığı kanıtı değildir.
+
+**Parti sonucu:** 3 ayrı kitap, 210 sayfa, 1 yeni aday. Toplam **498 tamamlanmış ayrı kitap, 22.070 sayfa, 397 doğrulanmamış strateji adayı**.

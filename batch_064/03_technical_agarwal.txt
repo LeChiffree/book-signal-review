@@ -1,0 +1,1508 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 10\Baskı 10\Teknik Analizi Anlamak ve Uygulamak - Ravi Agarwal (65 sayfa) - @eseckal.pdf
+PAGES: 65
+
+
+=== PDF PAGE 1 ===
+A Project Report on  
+ 
+“Understanding and Implementing Technical Analysis 
+on Capital Markets” 
+ 
+ 
+ 
+ 
+ 
+Under the aegis of: 
+ 
+ 
+ 
+                                                                
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Submitted By: 
+ 
+Ravi Agarwal (08DM084)  
+PGDM, 2008 - 10. 
+ 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+Bir Proje Raporu
+“Teknik Analizi Anlamak ve Uygulamak
+Sermaye Piyasaları Üzerine”
+Himayesi altında:
+Gönderen:
+Ravi Agarwal (08DM084)
+PGDM, 2008 - 10.
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Teşekkür
+Bazen kelimeler minnettarlığı ifade etmekte yetersiz kalıyor, bu proje sırasında benim 
+de başıma aynısı geldi. Microsec Capital'den aldığım muazzam yardım ve destek proje 
+sırasında beni çok etkiledi.
+Size içten şükranlarımı sunuyorum veSayın Sumit Bhattacharya, İK Başkanıbana 
+teknik araştırma bölümünde çalışma fırsatı sağladığınız ve bana gerçek zamanlı iş 
+başında eğitim verdiğiniz için
+Çok minnettarımSayın Sanjay Sureka((Teknik Araştırma Başkan Yardımcısı) veSayın Prabir 
+Sarkar(Bu raporun en iyi şekilde ortaya çıkması için gerekli bilgileri ve değerli öneri ve 
+yorumlarını bana sağlayan, şirketimin proje rehberi olan Kıdemli Teknik Analist'e (Kıdemli Teknik 
+Analist) çok teşekkür ederim.
+Ben de teşekkür ederimDr. Anshul VermaBu projenin tamamlanmasına kadar değerli 
+fikirleriyle bana içtenlikle destek olan, fakülte rehberim ve akıl hocam, Greater 
+Noida'daki Birla Yönetim Teknolojisi Enstitüsü'ne teşekkür ederim.
+2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+BEYANNAME
+Ben, Bay Ravi Agarwal, başlıklı proje raporunun şu şekilde olduğunu beyan ederim:"
+Sermaye piyasalarında Teknik Analizin anlaşılması ve uygulanması”tarafımca gerçek bir 
+araştırma çalışması olup daha önce hiçbir yerde yayınlanmamıştır ve bu nedenle raporun 
+tüm sorumluluğu bana aittir.
+Tarih:
+Yer:
+Ravi Agarwal
+BIMTECH, Büyük Noida
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Fakülte rehberinden sertifika:
+Bu, “başlıklı proje raporunun” onaylanması anlamına gelir.Sermaye piyasalarında Teknik 
+Analizin anlaşılması ve uygulanması"Microsec Capital Limited'de, Bay Ravi Agarwal 
+tarafından yapılan işin gerçek bir kaydıdır ve Greater Noida'daki Birla Yönetim Teknolojisi 
+Enstitüsü'nün PGDM programının gerekliliklerinin kısmen yerine getirilmesi için 
+sunulmuştur.
+Dr. Anshul Verma
+Birla Yönetim Teknolojisi Enstitüsü, 
+Greater Noida
+4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Kuruluşun sertifikası:
+Bu, şunu tasdik etmek içindir:Bay Ravi Agarwal, Greater Noida'daki Birla Yönetim Teknolojisi 
+Enstitüsü'nde PGDM-Finans ve Pazarlama alanında eğitim gören, benim gözetimim ve 
+rehberliğim altında tezi üzerinde çalıştı"Sermaye piyasalarında Teknik Analizin anlaşılması ve 
+uygulanması”deMicrosec Capital sınırlı,20 Nisan'dan itibaren Kalkütainci
+2008 - 10 Haziraninci2008. Bildiğim kadarıyla bu orijinal bir çalışmadır.
+Sayın Sanjay Sureka
+Teknik Araştırma Başkan Yardımcısı
+Microsec Sermaye Limited Şirketi
+Sayın Prabir Sarkar
+Kıdemli Teknik Analist 
+Microsec Capital Limited
+5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+İÇİNDEKİLER Sayfa no.
+1. Yönetici Özeti 7
+2. Giriş 8
+3. Şirket hakkında 9
+4. Teknik Analiz 14
+5. Sonuçlar 52
+6. Referanslar 55
+7. Ek 56
+6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+YÖNETİCİ ÖZETİ
+Bu proje benim için harika bir öğrenme deneyimi oldu; aynı zamanda analitik 
+yeteneğimi uygulamam için bana yeterli kapsam sağladı. Bu proje bir bütün olarak iki 
+bölüme ayrılabilir:
+İlk bölüm şirket ve çeşitli yönleri hakkında bir fikir veriyor. Borsa piyasasında teknik 
+analizin gerçekte ne anlama geldiğini, borsada nasıl uygulandığını öğrenme fırsatı 
+yakaladım ve sadece temelleri ele aldığımız sınıfta öğrendiklerimi geliştirdim. Esas 
+olarak günlük ticarete ve piyasa ile her dakika değişen canlı grafiklerin 
+derinlemesine incelenmesini gerektiren fiyat hareketlerini tahmin etmeye 
+dayanıyordu.
+İkinci bölüm, Spot Nifty'nin önceki fiyat hareketlerini analiz ettikten ve ayrıca yeni hükümetin 
+kurulması, kabine bakanlığı, FIIs davranışı veya piyasamızı etkileyebilecek herhangi bir 
+duyuru gibi farklı parametreleri de dikkate aldıktan sonra, Spot Nifty'nin destek ve direnç 
+seviyelerinin neredeyse doğru bir tahminini vermeye çalıştığımız günlük / haftalık bazda 
+teknik raporların hazırlanmasından oluşur. Kendi ülkemizin haberlerinin ve eylemlerinin yanı 
+sıra, küresel piyasaların nasıl performans gösterdiğini de takip etmeliyiz. Bu rapor, şirkete ve 
+şirketle ilgili herkese, bir sonraki gün veya hafta piyasadan ne beklenebileceği konusunda 
+genel bir fikir verir. Ayrıca, her ikisi de herhangi bir aracı kurumun büyük bir parçası olduğu 
+için külçe piyasası ve ham petrol fiyatları hakkında bir güncelleme içerir.
+7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+GİRİİŞ
+Günümüz dünyasında şirketler, Hindistan için NSE (NIFTY) ve BSE (SENSEX), ABD için 
+Dowjones, Hong Kong için HANGSENG, Japonya için NIKKEI, Rusya için RTS vb. gibi 
+saygın borsalarda listelendiklerinde tanınır veya büyük kabul edilirler.
+Şirket listelendikten sonra şirketin yaptığı/yapmadığı her şey halk tarafından tepkiyle 
+karşılanır ve ilgili şirketin hisse senedi fiyatları dalgalanır. Artık şirket her zaman şirketin 
+gerçek resminin hisse senedi fiyatıyla temsil edilmesini ister, aşırı değerlenmiş olmasını 
+umursamazlar ancak hisse senetleri düşük değerlendiğinde canları acır.
+Ancak fiyatın bu belirsizliği insanlara hem uzun vadede hem de kısa vadede para 
+kazanma şansı verir. Uzun vadeli yatırım esas olarak şirketin temellerini ve büyüme 
+potansiyelini incelemeye dayanır. Ancak asıl sihir, hisse senetlerini günlük olarak alıp 
+satarak veya kısa vadede tutarak para kazanmaktır. Birisi bu şekilde para kazanmak 
+istiyorsa hisse senedinin teknik tarafını yani grafikleri, trendleri vb. bilmelidir.
+Ne kadar büyüleyici olduğunu tahmin etmek zor değil ve bu yüzden bu iki aylık sürede 
+gizemi mümkün olduğunca çözmeye karar verdim. Bu alan, belki de kapsamın ötesinde, 
+sınıfta öğretilmesi çok zor bir alandır, inanmak, anlamak ve uygulamak için görmek gerekir 
+ve sonuçta benim asıl amacım buydu, kim aşağıdaki soruların cevaplarını bilmek istemez ki:
+1. NIFTY bundan sonra nereye gidecek?
+2. Bugün hangi hisse senedi yükselecek, hangileri düşecek?
+3. Pozisyonlarımı tutmalı mıyım yoksa kapatmalı mıyım?
+4. Hedging neden gereklidir / nasıl yapılır?
+Yukarıdaki soruların ve daha fazlasının cevabını bulmak için yaz tatilimi Sermaye Piyasası 
+Teknik Analizi alanında geçirmeye karar verdim.
+8
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+ŞİRKET HAKKINDA
+Görüş
+“Kişisel bakım, ihtiyatlı yaklaşım ve proaktif davranış yoluyla servet yaratmaya ve yönetmeye 
+yardımcı olarak evrensel olarak saygı duyulan bir finansal hizmetler kuruluşu olmak.”
+Şirket Profili:
+Biz... SMicrosec'in kuruluşundan bu yana taahhüdü'gerçek değer yaratmak'
+Şirketin müşterilerle güçlü ilişkiler kurmasını sağlayan iş yaklaşımının temel taşı 
+olmuştur.
+Ortaklığa dayalı yaklaşımımız, şirketlerle birlikte çalışarak, onların genel iş ve 
+finansal hedeflerine tam uyumlu çözümler üretmemizi ve iş stratejilerinin kusursuz 
+bir şekilde uygulanmasını sağlamamızı mümkün kılıyor.
+Biz sağlıyoruz...
+Grubumuz, aşağıdaki alanlarda hizmet sunmaya odaklanmıştır:Yatırım bankacılığı, 
+hisse senedi ve emtia brokerliği, sigorta brokerliği ve varlık yönetimi.
+Entegre, özel yapım çözümler sunma yeteneğimiz, yaratmaya yardımcı olurken kendimize bir niş 
+oluşturmamıza yardımcı oldu.
+"Mikro odaklanma ile mega zenginlik"
+Fikir oluşturma
+Sürekli yeniden icat edilen bu dönemde, işletmeler genellikle eylem için bir ivmeye ihtiyaç 
+duyarlar; vizyonlarını ileriye taşıyacak ve gerçeğe dönüştürecek birine. Danışmanlık, Planlama ve 
+Uygulama yardımı yoluyla şirketlerin operasyonlarında anında ve görünür bir etki yaratmalarına 
+yardımcı olmaya kararlıyız.
+Çalışanlarımız sürekli olarak bilgilerini güncelliyor, deneyimlerini ve benzersiz müşteri 
+hizmetleri modelini kullanarak derin ve geniş kapsamlı etkiye sahip pratik çözümler sunuyor.
+Fikirleri eyleme dönüştürüyoruz, bu da"Fikir"Odaklanmış Yaklaşım, Kararlı Teslimat, 
+Dinamik Tutum, Bilgi Yönetimi, Koordineli Ekip Çalışması ve tüm bu erdemlerin görünür 
+bir Entegrasyonu yoluyla.
+9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+NAVİGATÖRLER:
+Bay BL Mittal
+Dinamik bir ekip kurucusu ve iş stratejisti olan Bay Mittal'in özel becerileri, 
+düşünme ve odaklanmış yaklaşımıyla güçlendirildi. 15 yılı aşkın deneyime sahip 
+deneyimli bir finans uzmanı olan vizyonu ve çığır açan stratejileri, Microsec'in 
+çok güçlü bir temel oluşturmasını ve gelecekteki zorlukları başarıyla 
+üstlenebilmesini sağladı.
+Sayın Ravi Kant Sharma
+Para piyasalarının zeki bir analizcisi olan Ravi, Sermaye Piyasası İşlemleri 
+alanında on yıldan fazla deneyime sahiptir. Hindistan sermaye piyasaları 
+hakkındaki derinlemesine bilgisi ve yatırımcı topluluğuyla olan güçlü ilişkisi, 
+şirketin Sermaye piyasası işlevlerinde öncüler arasında yer almasını sağlamıştır. 
+Microsec'in Aracılık ve Varlık Yönetimi işlevlerine başkanlık etmektedir.
+Bay Rakesh Sony
+Özünde bir Yatırım Bankacısı olan Rakesh, Kurumsal Finans ve Ticaret Bankacılığı 
+faaliyetlerinde on yıldan fazla deneyime sahiptir. Rakesh'in liderliği ve yönetimi, firmayı 
+ülkedeki önde gelen Yatırım Bankaları arasında konumlandırmıştır. Hindistan'da ve 
+yurtdışında en iyi kurumsal evlerde çeşitli prestijli görevleri üstlenmiştir. Microsec'in 
+Yatırım Bankacılığı işlevlerine başkanlık etmektedir.
+Tarihçe ve Önemli Noktalar:
+Microsec, 2001'in başlarında, kendi uzmanlık alanlarında önemli mesleki yeterliliklere 
+sahip olan Bay BLMittal, Bay Rakesh Sony ve Bay Ravi kant Sharma adlı üç finans 
+uzmanı tarafından terfi ettirildi. Üçü de ortak bir hayali paylaşıyordu: 'güçlü değer 
+sistemlerine sahip profesyonel bir organizasyon kurmak ve butik bir finansal hizmetler 
+sunmak.
+2006-07
+• Ballygunge, Kalküta'da son teknoloji altyapıya sahip özel Varlık Yönetimi 
+Brokerlik ofisi açıldı.
+• Team Microsec 160'tan fazla üyeye ulaştı
+• Varlık Yönetimi Hizmetleri'nde İş Ortağı tabanı 68'e ulaştı.
+10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+2005-06
+• Bombay Borsası'na (BSE) üye oldu.
+• 9. sırada yer aldıinciTicaret bankaları arasında işlem gören ihraç sayısı bakımından tüm Hindistan 
+birinci sırada yer almaktadır.
+• Ulusal Emtia ve Türev Borsası (NCDEX) ve Çoklu Emtia Borsası (MCX) 
+üyeliğiyle Emtia Brokerliği olarak tam teşekküllü faaliyete başladık.
+• National Securities Depository Limited (NSDL)'nin Saklama Katılımcısı 
+Olun.
+• Doğu Hindistan'da E-iade kabul etme yetkisini Merkez Hükümeti'nden alan 
+ilk kuruluşlardan biri olduk.
+• Mumbai şubemizin faaliyetlerine başladık.
+• Kendi kampüsümüzü inşa etmek için Knowledge Corridor, New Town ve Kalküta'da 10500 
+metrekarelik alan satın aldık.
+• Sigortacı olarak faaliyet göstermek üzere ruhsat alındı.
+2004-05
+• Hindistan Ulusal Borsası Limited (NSE) üyesi oldu.
+• Aynı anda hem NSE hem de BSE'de listelenen Ramkrishna Forgings Limited şirketinin 
+ihraç sürecini yönetti.
+2003-04
+• Jai Balaji Sponge Limited, IPO aracılığıyla National Stock Exchange 
+Limited'de listelenen Doğu Hindistan'dan ilk şirket oldu. Sorunun baş 
+yöneticileri bizdik.
+• IRDA onaylı broker olarak kayıt olduktan sonra Sigorta Brokerlik Hizmetlerine 
+başladım.
+2002-03
+• Gerekli yasal izinlerin alınmasının ardından Ticaret Bankacılığı ve Kurumsal 
+Finansman bölümlerinin faaliyetlerine başlandı.
+2000-01
+• ``Birleşik Menkul Kıymetler Borsası (İMKB)'' üyeliğiyle faaliyetlerine başladı.
+11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+SUNULAN HİZMETLER:
+Yatırım Bankacılığı:
+Yatırım Bankacılığı ekibi, Kurumsal, Stratejik yatırımcılara ve borç verenlere çeşitli iş 
+danışmanlığı hizmetleri sağlar. SEBI kayıtlı olarakTüccar Bankacılar, alanında görevleri 
+yerine getirmeye hazırızHalka Arzlar, Özel Sermaye, Kurumsal Yerleştirmeler, 
+FCCB'ler ve GDR'ler konusunda Danışmanlık, Birleşme ve Satın Almalar, Stratejik 
+Konsolidasyonlar ve Satışlar.
+Müşterilerimizin hedeflerine ulaşmalarına yardımcı olmaya ve taahhütler aracılığıyla onlarla 
+uzun vadeli ilişkiler kurmaya ve büyümelerinde onların ortağı olmaya inanıyoruz.
+Üyelerin rehberliği, deneyimi ve bilgisiyle birleşen ekip çalışması, organizasyonun itici 
+gücü olmuş ve güçlü bir ağın oluşturulması, şirketin pazarlama alanında çeşitlenmesini 
+sağlamıştır.Finansal ve Kurumsal Yeniden Yapılandırma, Kurumsal Vergilendirme, 
+Strateji Yönetim Hizmetleri, Fikri Mülkiyet Haklarıve Şirketin Hindistan'ın çeşitli 
+gelişen sektörlerinde ilerleme kaydetmesine rehberlik etmek.
+Sermaye aracılığı:
+Microsec Sermaye Ltd.,Hindistan Ulusal Borsası ve Bombay Borsası üyesi olan şirket, 
+müşterilerine daha iyi ve kaliteli hizmet sunmaktadır. Şirket, profesyonellerden oluşan 
+özel ekibi aracılığıyla müşterilerine değerli tavsiyelerde bulunmaktadır.
+Mikro saniyegeniş bir müşteri yelpazesine hizmet sağlar. Hızı korumak için 
+araştırma ekibi, ilişki yöneticisi, iyi satıcılar ve 7/24 hizmet verenlerle donatılmış 
+sermaye brokerliği ekibimizi geliştirdik
+Size değer katıyoruz
+• Veri kaynağı Bloomberg'den sağlanmaktadır
+• Akıllı Araştırma Ekibi
+• Çevrimiçi Back office desteği
+• İşlem günlük olarak postalanır
+• Marj Ticareti
+• Erkekten erkeğe etkileşim
+• Evde DP
+Emtia Brokerliği:
+Emtia ticareti, basit bir ifadeyle, emtia türevlerinde (vadeli işlemler veya opsiyonlar) ticaret yapmaktır. 
+Emtia türevlerinde ticaret, aşağıdakilere dayalı bir alım/satım pozisyonu alınarak yapılır:
+12
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Ham petrol, metaller, altın, gümüş, tarımsal emtialar vb. gibi emtiaların gelecekteki 
+performansı.
+Hindistan'da şu anda 2 büyük emtia borsası bulunmaktadır - NCDEX (Ulusal 
+Emtia ve Türev Borsası) ve MCX (Çoklu Emtia Borsası) - Emtia Türev ticareti 
+burada yapılmaktadır. Altın, Gümüş, Tahıl, bakliyat, baharat, yağ ve yağlı 
+tohumlar, nane yağı, metaller ve ham petrol gibi tarımsal emtialar borsaların 
+işlem gördüğü emtialardan bazılarıdır.
+Varlık Yönetimi:
+Varlık Yönetimi'nde, araştırma ekibimizin faaliyetlerini ve operasyonlarımızı birleştirerek özel 
+olarak tasarlanmışVarlık YönetimiMüşterilerimizin hedeflerine ve risk taşıma kapasitelerine 
+göre çözümler sunuyoruz.
+Müşterilerimizin servetlerinin değerini aşağıdaki mekanizmalar aracılığıyla katlamalarına hizmet 
+vermeyi amaçlıyoruz:
+• Yatırım Fonlarına ve Benzeri Yatırımlara Yatırım
+• Etkili sigortaya yol açan doğru risk değerlendirmesi
+• RBI tahvilleri ve Sabit Mevduatlar gibi sabit gelir çözümleri
+• Hisse senedi ve emtia piyasalarına araştırmaya dayalı maruz kalma
+• Kişisel Sorumluluk Yönetimi
+• Vergi Planlaması ve Değerlendirmesi
+13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+TEKNİKANALİZ
+14
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Teknik Analiz Nedir?
+Teknik analizGeçmiş piyasa verilerinin, özellikle de fiyat ve hacmin incelenmesi yoluyla 
+fiyatların gelecekteki yönünü tahmin etme yeteneği iddia eden bir güvenlik analizi tekniğidir. 
+En saf haliyle, teknik analiz yalnızca piyasanın veya enstrümanın gerçek fiyat ve hacim 
+davranışını dikkate alır. Bazen "grafikçiler" olarak adlandırılan teknik analistler, göreceli güç 
+endeksi, hareketli ortalamalar, regresyonlar, piyasalar arası ve piyasa içi fiyat korelasyonları, 
+döngüler veya klasik olarak grafik desenlerinin tanınması yoluyla fiyat ve hacim 
+dönüşümlerine dayalı modeller ve işlem kuralları kullanabilirler.
+Teknik analiz, temel analizden farklıdır. Teknik analiz, şirketin, piyasanın, para 
+biriminin veya emtianın gerçek doğasını "görmezden gelir" ve yalnızca 
+"grafiklere", yani fiyat ve hacim bilgilerine dayanırken, temel analiz şirketin, 
+piyasanın, para biriminin veya emtianın gerçek gerçeklerine bakar. Örneğin, 
+herhangi bir büyük aracı kurum, ticaret grubu veya finansal kuruluş genellikle 
+hem teknik analiz hem de temel analiz ekibine sahip olacaktır.
+Temel tarafta birçok yatırım stili olduğu gibi, birçok farklı teknik yatırımcı türü de vardır. 
+Bazıları grafik desenlerine güvenir; diğerleri teknik göstergeler ve osilatörler kullanır ve 
+çoğu ikisinin bir kombinasyonunu kullanır. Her durumda, teknik analistlerin yalnızca 
+tarihsel fiyat ve hacim verilerini kullanması onları temel meslektaşlarından ayıran şeydir. 
+Temel analistlerin aksine, teknik analistler bir hissenin değerinin düşük olup olmadığını 
+umursamazlar - önemli olan tek şey bir menkul kıymetin geçmiş işlem verileri ve bu 
+verilerin menkul kıymetin gelecekte nereye hareket edebileceği hakkında 
+sağlayabileceği bilgilerdir.
+15
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+FARZIMLAR
+1. Piyasa Her Şeyi İskonto Eder
+Teknik analize yöneltilen en büyük eleştirilerden biri, şirketin temel faktörlerini göz ardı 
+ederek yalnızca fiyat hareketini dikkate almasıdır. Ancak teknik analiz, belirli bir zamanda 
+bir hisse senedinin fiyatının, temel faktörler de dahil olmak üzere şirketi etkileyen veya 
+etkileyebilecek her şeyi yansıttığını varsayar. Teknik analistler, şirketin temellerinin, daha 
+geniş ekonomik faktörler ve piyasa psikolojisiyle birlikte, hisse senedine 
+fiyatlandırıldığına ve bu faktörleri ayrı ayrı değerlendirme gereğini ortadan kaldırdığına 
+inanırlar. Bu, yalnızca teknik teorinin piyasadaki belirli bir hisse senedine yönelik arz ve 
+talebin bir ürünü olarak gördüğü fiyat hareketinin analizini bırakır.
+2. Fiyat Trendler İçinde Hareket Eder
+Teknik analizde, fiyat hareketlerinin trendleri takip ettiğine inanılır. Bu, bir trend 
+oluşturulduktan sonra, gelecekteki fiyat hareketinin trende karşı olmaktan ziyade 
+trendle aynı yönde olma olasılığının daha yüksek olduğu anlamına gelir. Çoğu teknik 
+işlem stratejisi bu varsayıma dayanır.
+3. Tarih Kendini Tekrar Etme Eğilimindedir
+Teknik analizdeki bir diğer önemli fikir, tarihin kendini tekrar etme eğiliminde olmasıdır, 
+özellikle de fiyat hareketleri açısından. Fiyat hareketlerinin tekrarlayan doğası piyasa 
+psikolojisine atfedilir; başka bir deyişle, piyasa katılımcıları zaman içinde benzer piyasa 
+uyarıcılarına tutarlı bir tepki verme eğilimindedir. Teknik analiz, piyasa hareketlerini 
+analiz etmek ve eğilimleri anlamak için grafik desenlerini kullanır. Bu grafiklerin çoğu 
+100 yıldan uzun süredir kullanılmasına rağmen, sıklıkla kendilerini tekrarlayan fiyat 
+hareketlerindeki desenleri gösterdikleri için hala alakalı olduklarına inanılmaktadır.
+16
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Sadece Hisse Senetleri İçin Değil
+Teknik analiz, geçmiş işlem verilerine sahip herhangi bir menkul kıymette kullanılabilir. Buna 
+hisse senetleri, vadeli işlemler ve emtialar, sabit gelirli menkul kıymetler, döviz vb. dahildir. 
+Bu eğitimde, örneklerimizde genellikle hisse senetlerini analiz edeceğiz, ancak bu 
+kavramların herhangi bir menkul kıymet türüne uygulanabileceğini unutmayın. Aslında, 
+teknik analiz daha çok katılımcıların ağırlıklı olarak tüccar olduğu emtialar ve dövizlerle 
+ilişkilendirilir.
+Artık teknik analizin ardındaki felsefeyi anladığınıza göre, bunun gerçekte nasıl çalıştığını 
+açıklamaya geçeceğiz. Teknik analizin ne olduğunu (ve ne olmadığını) anlamanın en iyi 
+yollarından biri, onu temel analizle karşılaştırmaktır.
+17
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+TEKNİK ANALİZ & TEMEL ANALİZ
+Teknik analiz ve temel analiz, finans piyasalarındaki iki ana düşünce okuludur. 
+Daha önce de belirttiğimiz gibi, teknik analiz bir menkul kıymetin fiyat 
+hareketine bakar ve bu verileri gelecekteki fiyat hareketlerini tahmin etmek için 
+kullanır. Öte yandan temel analiz, temeller olarak bilinen ekonomik faktörlere 
+bakar. Bu iki yaklaşımın nasıl farklılaştığını, teknik analize yönelik eleştirileri ve 
+teknik ve temel analizin menkul kıymetleri analiz etmek için nasıl birlikte 
+kullanılabileceğini ayrıntılarıyla inceleyelim.
+Farklar
+Grafikler ve Finansal Tablolar
+En temel düzeyde, teknik bir analist bir menkul kıymete grafiklerden 
+yaklaşırken, temel bir analist finansal tablolarla başlar
+Temel analist bilançoya, nakit akış tablosuna ve gelir tablosuna bakarak bir 
+şirketin değerini belirlemeye çalışır. Finansal terimlerle, bir analist bir şirketin 
+içsel değerini ölçmeye çalışır. Bu yaklaşımda, yatırım kararları almak oldukça 
+kolaydır - bir hisse senedinin fiyatı içsel değerinin altında işlem görüyorsa, bu 
+iyi bir yatırımdır. Bu aşırı bir basitleştirme olsa da (temel analiz sadece 
+finansal tabloların ötesine geçer).
+Öte yandan teknik yatırımcılar, bir şirketin temellerini analiz etmenin bir nedeni olmadığına 
+inanırlar çünkü bunların hepsi hisse senedinin fiyatında hesaba katılır. Teknisyenler, bir hisse 
+senedi hakkında ihtiyaç duydukları tüm bilgilerin grafiklerinde bulunabileceğine inanırlar.
+18
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Zaman Ufku
+Temel analiz, teknik analize kıyasla piyasayı analiz etmek için nispeten uzun 
+vadeli bir yaklaşım benimser. Teknik analiz haftalar, günler veya hatta dakikalar 
+gibi bir zaman diliminde kullanılabilirken, temel analiz genellikle birkaç yıla ait 
+verilere bakar.
+Bu iki yaklaşımın kullandığı farklı zaman dilimleri, her birinin bağlı kaldığı yatırım 
+tarzının doğasının bir sonucudur. Bir şirketin değerinin piyasaya yansıması uzun 
+zaman alabilir, bu nedenle temel bir analist içsel değeri tahmin ettiğinde, hisse 
+senedinin piyasa fiyatı "doğru" değerine yükselene kadar bir kazanç gerçekleşmez. 
+Bu tür yatırıma değer yatırımı denir ve kısa vadeli piyasanın yanlış olduğunu, ancak 
+belirli bir hisse senedinin fiyatının uzun vadede kendini düzelteceğini varsayar. Bu 
+"uzun vade" bazı durumlarda birkaç yıl kadar uzun bir zaman dilimini temsil edebilir.
+Ayrıca, bir fundamentalistin analiz ettiği sayılar yalnızca uzun zaman dilimleri 
+boyunca yayınlanır. Finansal tablolar üç ayda bir dosyalanır ve hisse başına 
+kazançtaki değişiklikler fiyat ve hacim bilgileri gibi günlük olarak ortaya çıkmaz. 
+Ayrıca, temellerin bir işletmenin gerçek özellikleri olduğunu unutmayın. Yeni 
+yönetim bir gecede kapsamlı değişiklikler uygulayamaz ve yeni ürünler, pazarlama 
+kampanyaları, tedarik zincirleri vb. oluşturmak zaman alır. Bu nedenle, temel 
+analistlerin uzun vadeli bir zaman dilimi kullanmasının bir nedeni, bir hisse senedini 
+analiz etmek için kullandıkları verilerin teknik analistlerin kullandığı fiyat ve hacim 
+verilerinden çok daha yavaş üretilmesidir.
+Ticaret ve Yatırım
+Teknik analiz, temel analizden daha kısa vadeli bir yapıya sahip olmakla kalmaz, aynı zamanda bir hisse 
+senedinin satın alınmasının (veya satılmasının) hedefleri genellikle her yaklaşım için farklıdır.
+19
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Genel olarak, teknik analiz bir işlem için kullanılırken, temel analiz bir yatırım yapmak için 
+kullanılır. Yatırımcılar, değerinin artacağına inandıkları varlıkları satın alırken, tüccarlar, 
+başka birine daha yüksek bir fiyata satabileceklerine inandıkları varlıkları satın alırlar. Bir 
+işlem ile bir yatırım arasındaki çizgi belirsiz olabilir, ancak bu iki okul arasındaki farkı 
+karakterize eder.
+Eleştirmenler
+Bazı eleştirmenler teknik analizi bir tür kara büyü olarak görüyor. Disiplinin 
+geçerliliğini, destekçileriyle alay edecek kadar sorgulamalarına şaşırmayın. 
+Aslında, teknik analiz ancak yakın zamanda ana akım güvenilirliğinin tadını 
+çıkarmaya başladı. Wall Street'teki analistlerin çoğu temel tarafa odaklanırken, 
+hemen hemen her büyük aracı kurum artık teknik analistleri de istihdam ediyor.
+Teknik analize yönelik eleştirilerin çoğu akademik teoride kök salmıştır - özellikle verimli 
+piyasa hipotezi (EMH). Bu teori, piyasanın fiyatının her zaman doğru fiyat olduğunu söyler - 
+geçmişteki tüm işlem bilgileri hisse senedinin fiyatına zaten yansımıştır ve bu nedenle 
+değerinin altında işlem gören menkul kıymetleri bulmak için yapılan herhangi bir analiz işe 
+yaramaz.
+EMH'nin üç versiyonu vardır. Birincisi, zayıf form verimliliği olarak adlandırılır, tüm 
+geçmiş fiyat bilgileri halihazırda mevcut fiyata dahil edilmiştir. Zayıf form verimliliğine 
+göre, teknik analiz gelecekteki hareketleri tahmin edemez çünkü tüm geçmiş bilgiler 
+halihazırda hesaba katılmıştır ve bu nedenle hisse senedinin geçmiş fiyat hareketlerini 
+analiz etmek gelecekteki hareketleri hakkında hiçbir fikir vermeyecektir. İkinci, yarı-güçlü 
+form verimliliğinde, temel analizin yatırım fırsatları bulmada çok az işe yaradığı iddia 
+edilmektedir. Üçüncüsü, piyasadaki tüm bilgilerin bir hisse senedinin fiyatında hesaba 
+katıldığını ve ne teknik ne de temel analizin yatırımcılara bir avantaj sağlayamayacağını 
+belirten güçlü form verimliliğidir. Akademisyenlerin büyük çoğunluğu en azından zayıf 
+EMH versiyonuna inanmaktadır, bu nedenle, onların bakış açısına göre, eğer teknik 
+analiz işe yararsa, piyasa verimliliği sorgulanacaktır.
+20
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Bunlar Bir Arada Var Olabilir mi?
+Teknik analiz ve temel analiz birçok kişi tarafından zıt kutuplar olarak görülse de - 
+yatırımın suyu ve yağı - birçok piyasa katılımcısı ikisini birleştirerek büyük bir başarı 
+elde etti. Örneğin, bazı temel analistler düşük değerli bir menkul kıymete girmek için 
+en iyi zamanı bulmak için teknik analiz tekniklerini kullanır. Çoğu zaman, bu durum 
+menkul kıymet aşırı satıldığında meydana gelir. Bir menkul kıymete giriş 
+zamanlaması yapılarak, yatırımdaki kazançlar büyük ölçüde iyileştirilebilir.
+Alternatif olarak, bazı teknik yatırımcılar teknik bir sinyale güç katmak için temel 
+unsurlara bakabilirler. Örneğin, bir satış sinyali teknik kalıplar ve göstergeler aracılığıyla 
+verilirse, teknik yatırımcı bazı temel verilere bakarak kararını yeniden teyit etmeyi 
+deneyebilir. Çoğu zaman, hem temel unsurların hem de teknik unsurların sizin 
+tarafınızda olması bir işlem için en iyi senaryoyu sağlayabilir.
+Teknik ve temel analizin bazı bileşenlerinin karıştırılması her iki okulun en bağlı 
+grupları tarafından iyi karşılanmasa da, en azından her iki düşünce okulunu da 
+anlamanın kesinlikle faydaları vardır
+21
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Grafik Nedir?
+Teknik analizde grafikler, herhangi bir iş ortamında gördüğünüz grafiklere benzer. Bir grafik, 
+belirli bir zaman dilimindeki bir dizi fiyatın grafiksel bir temsilidir. Örneğin, bir grafik, bir 
+hisse senedinin bir yıllık bir süre boyunca fiyat hareketini gösterebilir; burada grafikteki her 
+nokta, hisse senedinin işlem gördüğü her günün kapanış fiyatını temsil eder:
+Şekil 1, temel bir grafik örneği sunmaktadır. 1,5 yıllık bir süre boyunca bir hisse senedinin 
+fiyat hareketlerinin bir temsilidir. Grafiğin alt kısmı, yatay olarak (x ekseni) çalışır, tarih veya 
+zaman ölçeğidir. Sağ tarafta, dikey olarak (y ekseni) çalışır, menkul kıymetin fiyatı gösterilir. 
+Grafiğe baktığımızda, Ekim 2004'te (Nokta 1) bu hisse senedinin fiyatının yaklaşık 245 INR 
+olduğunu, Haziran 2005'te (Nokta 2) ise hisse senedinin fiyatının yaklaşık 265 INR olduğunu 
+görüyoruz. Bu, hisse senedinin Ekim 2004 ile Haziran 2005 arasında yükseldiğini gösteriyor.
+22
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Grafik Özellikleri
+Bir grafiğe bakarken farkında olmanız gereken birkaç şey vardır, çünkü bu faktörler 
+sağlanan bilgileri etkileyebilir. Bunlara zaman ölçeği, fiyat ölçeği ve kullanılan fiyat 
+noktası özellikleri dahildir.
+Zaman Ölçeği
+Zaman ölçeği, grafiğin alt kısmındaki tarih aralığını ifade eder ve onyıllardan saniyelere 
+kadar değişebilir. En sık kullanılan zaman ölçekleri günlük, günlük, haftalık, aylık, üç 
+aylık ve yıllıktır. Zaman dilimi ne kadar kısaysa grafik o kadar ayrıntılı olur. Her veri 
+noktası, kullanılan grafiğe bağlı olarak dönemin kapanış fiyatını temsil edebilir veya 
+açılış, en yüksek, en düşük ve kapanışı gösterebilir.
+Gün içi grafikler, bir günlük periyot içindeki fiyat hareketini çizer. Bu, zaman ölçeğinin beş 
+dakika kadar kısa olabileceği veya açılış zili ile kapanış zili arasındaki tüm işlem gününü 
+kapsayabileceği anlamına gelir.
+Günlük grafikler, grafikteki her fiyat noktasının bir noktada yoğunlaştırılmış tam bir 
+günlük işlem olduğu bir dizi fiyat hareketinden oluşur. Yine, grafikteki her nokta basitçe 
+kapanış fiyatı olabilir veya hisse senedinin gün içindeki açılış, en yüksek, en düşük ve 
+kapanışını içerebilir. Bu veri noktaları, hem kısa vadeli hem de ara fiyat hareketlerindeki 
+eğilimleri izlemek için haftalık, aylık ve hatta yıllık zaman ölçeklerine yayılır.
+Haftalık, aylık, üç aylık ve yıllık grafikler, bir hisse senedinin fiyatının hareketindeki uzun 
+vadeli eğilimleri analiz etmek için kullanılır. Bu grafiklerdeki her veri noktası, belirtilen 
+dönemde olanların yoğunlaştırılmış bir versiyonu olacaktır. Bu nedenle haftalık bir 
+grafik için her veri noktası, haftanın fiyat hareketinin bir temsili olacaktır. Örneğin, beş 
+yıllık bir döneme yayılmış haftalık verilerin grafiğine bakıyorsanız ve her veri noktası 
+haftanın kapanış fiyatıysa, çizilen fiyat haftanın son işlem günündeki kapanış fiyatı 
+olacaktır, bu genellikle Cuma günüdür.
+23
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Fiyat Ölçeği ve Fiyat Noktası Özellikleri
+Fiyat ölçeği grafiğin sağ tarafındadır. Bir hisse senedinin güncel fiyatını gösterir ve 
+bunu geçmiş veri noktalarıyla karşılaştırır. Bu, fiyat ölçeğinin alttan üste doğru 
+hareket ettikçe daha düşük fiyatlardan daha yüksek fiyatlara doğru gittiği için basit 
+bir kavram gibi görünebilir. Ancak sorun ölçeğin kendi yapısındadır. Bir ölçek 
+doğrusal (aritmetik) veya logaritmik bir şekilde oluşturulabilir ve bu seçeneklerin her 
+ikisi de çoğu grafik hizmetinde mevcuttur.
+Bir fiyat ölçeği doğrusal bir ölçek kullanılarak oluşturulursa, her fiyat noktası (10, 20, 30, 40) 
+arasındaki boşluk eşit miktarda ayrılır. Doğrusal bir ölçekte 10'dan 20'ye bir fiyat hareketi, 
+grafikte 40'tan 50'ye bir hareketle aynı mesafededir. Başka bir deyişle, fiyat ölçeği 
+hareketleri mutlak terimlerle ölçer ve yüzdelik değişimin etkilerini göstermez.
+Fiyat ölçeği logaritmik terimlerle ifade ediliyorsa, noktalar arasındaki mesafe yüzdelik 
+değişim açısından eşit olacaktır. 10'dan 20'ye bir fiyat değişimi fiyatta %100'lük bir artış iken, 
+40'tan 50'ye bir hareket sadece %25'lik bir değişimdir, doğrusal bir ölçekte aynı mesafeyle 
+temsil edilmelerine rağmen. Logaritmik bir ölçekte, 10'dan 20'ye %100 fiyat değişiminin 
+mesafesi, 40'tan 50'ye %25'lik değişimle aynı olmayacaktır. Bu durumda,
+24
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+10'dan 20'ye hareket grafikte daha büyük bir boşlukla temsil edilirken, 40'tan 50'ye 
+hareket daha küçük bir boşlukla temsil edilir çünkü yüzde olarak daha küçük bir 
+hareketi gösterir. Şekil 2'de, sağdaki logaritmik fiyat ölçeği 10 ile 20 arasında 20 ile 
+40 arasında bıraktığı boşlukla aynı miktarda boşluk bırakır çünkü ikisi de %100 
+artışları temsil eder.
+GRAFİK TÜRLERİ
+Yatırımcılar ve tüccarlar tarafından, aradıkları bilgiye ve bireysel beceri seviyelerine 
+bağlı olarak kullanılan dört ana grafik türü vardır. Grafik türleri şunlardır: çizgi 
+grafiği, çubuk grafiği, mum grafiği ve nokta ve şekil (Microsec'te bu şekilde 
+kullanılmaz) grafiği.
+Çizgi Grafiği
+Dört grafikten en temel olanı çizgi grafiğidir çünkü yalnızca belirli bir zaman dilimindeki 
+kapanış fiyatlarını temsil eder. Çizgi, zaman dilimindeki kapanış fiyatlarını birbirine 
+bağlayarak oluşturulur. Çizgi grafikleri, en yüksek, en düşük ve açılış fiyatları gibi 
+bireysel noktalar için işlem aralığının görsel bilgilerini sağlamaz. Ancak, kapanış fiyatı 
+genellikle hisse senedi verilerinde günün en yüksek ve en düşük fiyatına kıyasla en 
+önemli fiyat olarak kabul edilir ve bu nedenle çizgi grafiklerinde kullanılan tek değerdir.
+25
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Çubuk Grafikler
+Çubuk grafik, her veri noktasına birkaç önemli bilgi parçası daha ekleyerek çizgi 
+grafiğini genişletir. Grafik, her veri noktasını temsil eden bir dizi dikey çizgiden 
+oluşur. Bu dikey çizgi, işlem dönemi için en yüksek ve en düşük değerleri, 
+kapanış fiyatıyla birlikte temsil eder. Kapanış ve açılış, dikey çizgide yatay bir 
+çizgi ile gösterilir. Bir çubuk grafikte açılış fiyatı, dikey çubuğun sol tarafında 
+bulunan çizgi ile gösterilir. Tersine, kapanış, sağdaki çizgi ile gösterilir. 
+Genellikle, sol çizgi (açılış) sağ çizgiden (kapanış) düşükse, çubuk siyah 
+gölgelendirilir ve hisse senedi için yükseliş dönemini temsil eder, bu da değer 
+kazandığı anlamına gelir. Kırmızı renkli bir çubuk, hisse senedinin o dönemde 
+değerinin düştüğünü gösterir. Bu durumda, sağdaki çizgi (kapanış) soldaki 
+çizgiden (açılış) düşüktür.
+26
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Mum Grafikleri
+Mum grafiği, çubuk grafiğine benzer, ancak görsel olarak oluşturulma şekli bakımından farklılık 
+gösterir. Çubuk grafiğine benzer şekilde, mum grafiğinin de dönemin işlem aralığını gösteren 
+ince bir dikey çizgisi vardır. Fark, dikey çizgide açılış ve kapanış arasındaki farkı gösteren geniş bir 
+çubuğun oluşmasında ortaya çıkar. Ve çubuk grafikleri gibi, mum grafikleri de işlem dönemi 
+boyunca ne olduğunu açıklamak için büyük ölçüde renk kullanımına güvenir. Bununla birlikte, 
+mum grafiği renk yapılandırmasıyla ilgili önemli bir sorun, farklı sitelerin farklı standartlar 
+kullanmasıdır; bu nedenle, çalıştığınız grafik sitesinde kullanılan mum grafiği yapılandırmasını 
+anlamak önemlidir. Yükselen günler için iki renk yapısı ve fiyatın düştüğü günler için bir renk 
+yapısı vardır. Hisse senedinin fiyatı yükseldiğinde ve açılış işleminin üzerinde kapandığında, mum 
+çubuğu genellikle beyaz veya şeffaf olur. Hisse senedi dönem boyunca düşüşte işlem gördüyse, 
+mum çubuğu siteye bağlı olarak genellikle kırmızı veya siyah olur. Eğer hisse senedinin fiyatı bir 
+önceki günün kapanış fiyatının üstünde ancak açılış fiyatının altında kapanmışsa, mum çubuğu 
+siyah olur veya yükseliş gününü belirtmek için kullanılan renkle doldurulur.
+27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Çözüm
+Grafikler, teknik analizin en temel yönlerinden biridir. Bir grafikte neyin 
+gösterildiğini ve sağladığı bilgileri açıkça anlamanız önemlidir. Artık grafiklerin 
+nasıl oluşturulduğuna dair bir fikrimiz olduğuna göre, farklı grafik desenlerine 
+geçebiliriz.
+Grafik Deseni
+Grafik deseni, bir hisse senedi grafiğinde bir işlem sinyali veya gelecekteki fiyat hareketlerinin bir işareti oluşturan 
+belirgin bir oluşumdur. Grafikçiler bu desenleri mevcut eğilimleri ve eğilim tersine dönüşlerini belirlemek ve alım ve 
+satım sinyallerini tetiklemek için kullanırlar.
+İlk bölümde, teknik analizin üç varsayımından bahsettik, üçüncüsü teknik analizde 
+tarihin kendini tekrar ettiği varsayımıydı. Grafik desenlerinin ardındaki teori bu 
+varsayıma dayanır. Fikir, belirli desenlerin birçok kez görülmesi ve bu desenlerin bir 
+hisse senedinde belirli bir yüksek olasılık hareketini işaret etmesidir. Belirli bir fiyat 
+hareketini belirleyen bir grafik deseninin tarihi eğilimine dayanarak, grafikçiler bu 
+desenleri arayarak işlem fırsatlarını belirler.
+Her grafik örüntüsünün genel fikirleri ve bileşenleri olsa da, bir menkul kıymetin nereye gittiğini 
+%100 kesinlikle söyleyecek bir grafik örüntüsü yoktur. Bu, iyi bir örüntünün nasıl göründüğü 
+konusunda biraz esneklik ve tartışma yaratır ve grafik çizmenin genellikle bir bilimden çok bir 
+sanat olarak görülmesinin başlıca nedenidir.
+Bu teknik analiz alanında iki tür desen vardır: tersine dönüş ve devam. Bir tersine dönüş 
+deseni, desenin tamamlanmasıyla önceki bir trendin tersine döneceğini işaret eder. Öte 
+yandan bir devam deseni, desen tamamlandıktan sonra trendin devam edeceğini işaret 
+eder. Bu desenler herhangi bir zaman dilimindeki grafiklerde bulunabilir. Bu bölümde, daha 
+popüler grafik desenlerinden bazılarını inceleyeceğiz.
+28
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Baş ve Omuzlar
+Bu, teknik analizdeki en popüler ve güvenilir grafik desenlerinden biridir. Baş ve omuzlar, 
+oluştuğunda, menkul kıymetin önceki trende karşı hareket etme olasılığının yüksek olduğunu 
+işaret eden bir tersine dönüş grafik desenidir. Şekilde görebileceğiniz gibi, baş ve omuzlar grafik 
+deseninin iki versiyonu vardır. Baş ve omuzlar tepesi (solda gösterilmiştir), yukarı doğru bir 
+hareketin zirvesinde oluşan ve yukarı doğru trendin sona ermek üzere olduğunu işaret eden bir 
+grafik desenidir. Baş ve omuzlar dip, ters baş ve omuzlar olarak da bilinir (sağda gösterilmiştir), 
+ikisi arasında daha az bilinenidir, ancak bir düşüş trendinde tersine dönüşü işaret etmek için 
+kullanılır.
+Şekil: Baş ve omuzların üst kısmı solda gösterilmektedir. Baş ve omuzların alt kısmı 
+veya ters baş ve omuzlar sağdadır.
+Bu baş ve omuz desenlerinin her ikisi de dört ana parçadan oluşması bakımından 
+benzerdir: iki omuz, bir baş ve bir boyun çizgisi. Ayrıca, her bir baş ve omuz bir 
+yüksek ve bir alçaktan oluşur. Örneğin, gösterilen baş ve omuzlar üst görüntüsünde
+29
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Şekil 1'deki sol tarafta, sol omuz bir yüksek ve ardından bir düşükten oluşur. Bu desende, 
+boyun çizgisi bir destek veya direnç seviyesidir. Yükselen bir trendin, art arda yükselen 
+yüksekler ve yükselen düşükler dönemi olduğunu unutmayın. Bu nedenle, baş ve omuzlar 
+grafik deseni, yükseklerin ve düşüklerin art arda hareketlerindeki bozulmayı göstererek bir 
+trenddeki zayıflamayı gösterir.
+Kupa ve Kulp
+Fincan ve kulp grafiği, yükseliş trendinin durakladığı ancak desen doğrulandıktan 
+sonra yukarı yönde devam edeceği boğa devam formasyonudur.
+Şekilde görebileceğiniz gibi, bu fiyat deseni, yukarı yönlü bir trendin öncesinde 
+gelen bir fincana benzeyen bir şey oluşturur. Kulp, fincan oluşumunu takip eder 
+ve genellikle menkul kıymetin fiyatında aşağı/yanal bir hareketle oluşur. Fiyat 
+hareketi, kulpta oluşan direnç çizgilerinin üzerine çıktığında, yukarı yönlü trend 
+devam edebilir. Bu tür desenler için, birkaç aydan bir yıldan fazlasına kadar 
+değişen geniş bir zaman aralığı vardır.
+30
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Çift Tepe ve Dip
+Bu grafik deseni, trend tersine dönüşünü işaret eden iyi bilinen bir desendir - en güvenilir 
+olanlardan biri olarak kabul edilir ve yaygın olarak kullanılır. Bu desenler, devam eden bir 
+trendden sonra oluşur ve grafikçilere trendin tersine dönmek üzere olduğunu işaret eder. Desen, 
+bir fiyat hareketinin destek veya direnç seviyelerini iki kez test etmesi ve bunları aşamaması 
+durumunda oluşur. Bu desen genellikle orta ve uzun vadeli trend tersine dönüşlerini işaret etmek 
+için kullanılır.
+Şekil: Solda çift tepe, sağda ise çift dip formasyonu gösterilmektedir.
+Şekil 3'teki çift tepe formasyonunda, fiyat hareketi iki kez belirli bir fiyat seviyesinin 
+üzerine çıkmaya çalışmıştır. Fiyatı yukarı itmek için iki başarısız girişimden sonra, trend 
+tersine döner ve fiyat aşağı doğru yönelir. Çift dip durumunda (sağda gösterilmiştir), 
+fiyat hareketi iki kez aşağı inmeye çalışmış ancak her seferinde destek bulmuştur. 
+Destekten ikinci sıçramadan sonra, menkul kıymet yeni bir trende girer ve yukarı doğru 
+yönelir.
+Üçgenler
+Üçgenler, teknik analizde kullanılan en iyi bilinen grafik desenlerinden 
+bazılarıdır. Yapı ve ima açısından farklılık gösteren üç tür üçgen vardır: simetrik
+31
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+üçgen, yükselen ve alçalan üçgen. Bu grafik desenlerinin birkaç haftadan birkaç 
+aya kadar sürdüğü düşünülüyor.
+Şekil 4'teki simetrik üçgen, iki trend çizgisinin birbirine doğru yakınsadığı bir 
+desendir. Bu desen, yukarı veya aşağı doğru bir kırılmanın o yöndeki bir trendin 
+teyidi olması bakımından nötrdür. Yükselen bir üçgende, üst trend çizgisi düzdür, alt 
+trend çizgisi ise yukarı doğru eğimlidir. Bu genellikle grafikçilerin yukarı yönlü bir 
+kırılma aradığı bir boğa deseni olarak düşünülür. Alçalan bir üçgende, alt trend 
+çizgisi düzdür ve üst trend çizgisi alçalan bir desendir. Bu genellikle grafikçilerin 
+aşağı yönlü bir kırılma aradığı bir ayı deseni olarak görülür.
+Bayrak ve Flama
+Bu iki kısa vadeli grafik kalıbı, keskin bir hareketin ardından genel olarak yatay bir 
+fiyat hareketinin gelmesiyle oluşan devam kalıplarıdır. Bu kalıp daha sonra trendi 
+başlatan hareketle aynı yönde başka bir keskin fiyat hareketinin gerçekleşmesiyle 
+tamamlanır. Kalıpların genellikle bir ila üç hafta sürdüğü düşünülmektedir.
+32
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Gördüğünüz gibi, flama ile bayrak arasında çok az fark vardır. Bu fiyat hareketleri 
+arasındaki temel fark, grafik deseninin orta bölümünde görülebilir. Bir flamada, orta 
+bölüm, simetrik bir üçgende görülenlere benzer şekilde, birleşen trend çizgisiyle 
+karakterize edilir. Öte yandan, bayrak deseninin orta bölümü, trend çizgisi arasında 
+bir yakınsama olmadan bir kanal deseni gösterir. Her iki durumda da, fiyat üst trend 
+çizgisinin üzerine çıktığında trendin devam etmesi beklenir.
+Kama
+Kama grafik deseni, devam veya geri dönüş deseni olabilir. Simetrik üçgene 
+benzer, ancak kama deseni yukarı veya aşağı doğru eğimlidir, simetrik üçgen ise 
+genellikle yanal bir hareket gösterir. Diğer fark, kama desenlerinin genellikle üç 
+ila altı ay arasında daha uzun süreler boyunca oluşma eğiliminde olmasıdır.
+33
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Kamaların hem devam hem de geri dönüş kalıpları olarak sınıflandırılması, sinyalleri 
+okumayı kafa karıştırıcı hale getirebilir. Ancak, en temel düzeyde, düşen kama 
+yükseliş, yükselen kama ise düşüştür. Yukarıdaki şekilde, iki trend çizgisinin aşağı 
+yönde birleştiği düşen bir kama görüyoruz. Fiyat üst trend çizgisinin üzerine çıkarsa, 
+bir devam kalıbı oluştururken, alt trend çizgisinin altına doğru bir hareket bir geri 
+dönüş kalıbını işaret eder.
+Boşluklar(Çok yakın bir zamanda, üst donma nedeniyle ticaretin durdurulduğuna tanık olduk (%20)
+Bir grafikteki boşluk, bir işlem dönemi ile onu izleyen işlem dönemi arasındaki boş 
+alandır. Bu, iki ardışık işlem dönemi arasında fiyatlarda büyük bir fark olduğunda 
+meydana gelir. Örneğin, bir dönemdeki işlem aralığı 25 INR ile 30 INR arasındaysa ve bir 
+sonraki işlem dönemi 40 INR'de açılıyorsa, bu iki dönem arasında grafikte büyük bir 
+boşluk olacaktır. Boşluk fiyat hareketleri çubuk grafiklerde ve mum grafiklerinde 
+bulunabilir ancak nokta ve şekil veya temel çizgi grafiklerinde bulunmaz. Boşluklar 
+genellikle menkul kıymette beklenenden daha iyi bir kazanç duyurusu gibi önemli bir 
+şeyin gerçekleştiğini gösterir.
+Üç ana boşluk türü vardır, kopuş, kaçak (ölçüm) ve tükenme. Bir kopuş boşluğu bir 
+trendin başlangıcında oluşur, bir kaçak boşluk bir trendin ortasında oluşur ve bir 
+tükenme boşluğu bir trendin sonuna yakın oluşur.
+34
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Trend'in kullanımı
+Teknik analizdeki en önemli kavramlardan biri trend kavramıdır. Finanstaki 
+anlamı terimin genel tanımından çok da farklı değildir - trend aslında bir menkul 
+kıymetin veya piyasanın gittiği genel yönden başka bir şey değildir. Aşağıdaki 
+grafiğe bir göz atın:
+Yukarıdaki şekildeki eğilimin yukarı yönlü olduğunu görmek zor değil. Ancak, bir eğilimi görmek her zaman bu kadar kolay 
+değildir:
+35
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Bu grafikte çok fazla iniş çıkış var, ancak bu menkul kıymetin hangi yöne gittiğine 
+dair net bir gösterge yok.
+Daha Resmi Bir Tanım
+Ne yazık ki, trendleri görmek her zaman kolay değildir. Başka bir deyişle, bir trendi tanımlamak aşikar 
+olanın çok ötesine geçer. Herhangi bir grafikte, fiyatların herhangi bir yönde düz bir çizgide hareket 
+etme eğiliminde olmadığını, bunun yerine bir dizi zirve ve dipte hareket ettiğini fark edeceksiniz. 
+Teknik analizde, bir trendi oluşturan zirve ve diplerin hareketidir. Örneğin, bir yükseliş trendi bir dizi 
+daha yüksek zirve ve daha yüksek dip olarak sınıflandırılırken, bir düşüş trendi daha düşük dip ve daha 
+düşük tepelerden oluşur.
+Yukarıdaki şekil bir yükseliş trendinin örneğidir. Grafikteki 2. nokta ilk zirvedir, yani
+36
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+fiyat bu noktadan düştükten sonra belirlenir. Nokta 3, fiyat yüksekten düştükçe oluşan düşük seviyedir. 
+Bunun bir yükseliş trendi olarak kalması için her ardışık düşük seviye bir önceki en düşük noktanın altına 
+düşmemelidir, aksi takdirde trend bir tersine dönüş olarak kabul edilir.
+Trend Türleri
+Üç çeşit trend vardır:
+• Yükseliş trendleri
+• Düşüş trendleri
+• Yanal/Yatay Trendler
+İsimlerin de ima ettiği gibi, her ardışık zirve ve çukur daha yüksek olduğunda, buna yukarı yönlü 
+trend denir. Zirveler ve çukurlar daha düşükse, buna aşağı yönlü trend denir. Zirvelerde ve 
+çukurlarda yukarı veya aşağı doğru çok az hareket olduğunda, buna yatay veya yatay trend denir. 
+Gerçekten teknik olmak istiyorsanız, bir yan yönlü trendin aslında kendi başına bir trend 
+olmadığını, ancak her iki yönde de iyi tanımlanmış bir trendin eksikliği olduğunu bile 
+söyleyebilirsiniz. Her durumda, piyasa gerçekte yalnızca şu üç şekilde trend olabilir: yukarı, aşağı 
+veya hiçbir yer.
+Trend Uzunlukları
+Bu üç trend yönünün yanı sıra, üç trend sınıflandırması vardır. Herhangi bir 
+yöndeki trend, uzun vadeli trend, orta vadeli trend veya kısa vadeli trend olarak 
+sınıflandırılabilir. Borsa açısından, büyük bir trend genellikle bir yıldan uzun 
+süren bir trend olarak kategorize edilir. Orta vadeli bir trendin bir ila üç ay 
+arasında sürdüğü ve kısa vadeli bir trendin bir aydan daha kısa sürdüğü kabul 
+edilir. Uzun vadeli bir trend, genellikle büyük trendin yönüne ters yönde hareket 
+eden birkaç orta vadeli trendden oluşur. Büyük trend yukarı yönlüyse ve fiyat 
+hareketinde aşağı yönlü bir düzeltme varsa ve ardından yükseliş trendi devam 
+ediyorsa, düzeltme orta vadeli bir trend olarak kabul edilir. Kısa vadeli trendler
+37
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+hem büyük hem de ara trendlerin bileşenleri. Bu üç trend uzunluğunun nasıl 
+görünebileceğine dair bir fikir edinmek için Şekil 4'e bakın.
+Trendleri analiz ederken, grafiğin analiz edilen trend türünü en iyi şekilde yansıtacak şekilde 
+oluşturulması önemlidir. Uzun vadeli trendleri belirlemeye yardımcı olmak için, grafikçiler uzun 
+vadeli trend hakkında daha iyi bir fikir edinmek için beş yıllık bir dönemi kapsayan haftalık grafikler 
+veya günlük grafikler kullanırlar. Günlük veri grafikleri hem orta vadeli hem de kısa vadeli trendleri 
+analiz ederken en iyi şekilde kullanılır. Ayrıca trend ne kadar uzunsa o kadar önemli olduğunu 
+unutmamak önemlidir; örneğin, bir aylık bir trend beş yıllık bir trend kadar önemli değildir.
+Trend çizgisi
+Trend çizgisi, piyasadaki veya hisse senedindeki eğilimi temsil etmek için bir grafiğe bir çizgi 
+ekleyen basit bir grafik tekniğidir. Bir trend çizgisi çizmek, genel bir eğilimi izleyen düz bir 
+çizgi çizmek kadar basittir. Bu çizgiler, eğilimi açıkça göstermek için kullanılır ve ayrıca trend 
+dönüşlerinin tanımlanmasında da kullanılır.
+38
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Aşağıdaki şekilde görebileceğiniz gibi, yukarı yönlü bir trend çizgisi, yukarı yönlü bir trendin dip 
+noktalarında çizilir. Bu çizgi, hisse senedinin her yüksekten düşüğe geçtiğinde sahip olduğu desteği 
+temsil eder. Fiyatın bu destek tarafından nasıl desteklendiğine dikkat edin. Bu tür bir trend çizgisi, 
+yatırımcıların bir hisse senedinin fiyatının tekrar yukarı doğru hareket etmeye başlayacağı noktayı 
+tahmin etmelerine yardımcı olur. Benzer şekilde, aşağı yönlü bir trend çizgisi, aşağı yönlü bir trendin 
+zirve noktalarında çizilir. Bu çizgi, bir hisse senedinin fiyatı her düşükten yükseğe geçtiğinde karşılaştığı 
+direnç seviyesini temsil eder.
+Kanallar
+Bir kanal veya kanal çizgileri, güçlü destek ve direnç alanları olarak hareket eden iki paralel 
+trend çizgisinin eklenmesidir. Üst trend çizgisi bir dizi yüksek noktayı birbirine bağlarken, alt 
+trend çizgisi bir dizi düşük noktayı birbirine bağlar. Bir kanal yukarı, aşağı veya yanlara doğru 
+eğimli olabilir ancak yön ne olursa olsun yorum aynı kalır. Yatırımcılar, belirli bir menkul 
+kıymetin destek ve direnç seviyeleri arasında işlem görmesini bekler, ta ki seviyelerden 
+birinin ötesine geçene kadar, bu durumda yatırımcılar kırılma yönünde keskin bir hareket 
+bekleyebilir. Kanallar, trendi açıkça göstermenin yanı sıra, esas olarak önemli destek ve 
+direnç alanlarını göstermek için kullanılır.
+39
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Şekil, bir hisse senedi grafiğinde alçalan bir kanalı göstermektedir; üst trend 
+çizgisi zirvelere, alt trend çizgisi ise diplere yerleştirilmiştir. Fiyat bu çizgilerden 
+birkaç kez sıçramış ve birkaç ay boyunca aralıkta kalmıştır. Fiyat alt çizginin altına 
+düşmediği veya üst direncin ötesine geçmediği sürece aralıkta kalan düşüş 
+trendinin devam etmesi beklenmektedir.
+Trendin Önemi
+Trendleri anlayıp tanımlayabilmek, onlara karşı değil onlarla işlem yapabilmeniz 
+için önemlidir. Teknik analizdeki iki önemli söz, "trend sizin dostunuzdur" ve 
+"trendden ayrılmayın"dır ve bu, trend analizinin teknik yatırımcılar için ne kadar 
+önemli olduğunu gösterir.
+40
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Direnç ve Destek
+Bir trend kavramını anladığınızda, bir sonraki önemli kavram destek ve dirençtir. Teknik 
+analistlerin boğalar ve ayılar arasındaki devam eden savaştan veya alıcılar (talep) ve 
+satıcılar (arz) arasındaki mücadeleden bahsettiğini sık sık duyacaksınız. Bu, bir menkul 
+kıymetin nadiren üstüne (direnç) veya altına (destek) hareket ettiği fiyatlarla ortaya 
+çıkar.
+Bu Şekilde görebileceğiniz gibi, destek bir hisse senedinin veya piyasanın nadiren 
+düştüğü fiyat seviyesidir (mavi oklarla gösterilmiştir). Öte yandan direnç, bir hisse 
+senedinin veya piyasanın nadiren aştığı fiyat seviyesidir (kırmızı oklarla gösterilmiştir).
+Peki neden böyle oluyor?
+Bu destek ve direnç seviyeleri, piyasa psikolojisi ve arz-talep açısından önemli olarak 
+görülmektedir. Destek ve direnç seviyeleri, birçok yatırımcının hisse senedini satın 
+almaya (destek durumunda) veya satmaya (direnç durumunda) istekli olduğu 
+seviyelerdir. Bu trend çizgileri kırıldığında, arz ve talebin ve hisse senedinin 
+hareketlerinin ardındaki psikolojinin değiştiği düşünülür, bu durumda muhtemelen 
+yeni destek ve direnç seviyeleri oluşacaktır.
+41
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Yuvarlak Sayılar ve Destek ve Direnç
+Çok sayıda menkul kıymette görülen bir tür evrensel destek ve direnç, yuvarlak 
+sayılardır. 10, 20, 35, 50, 100 ve 1.000 gibi yuvarlak sayılar, destek ve direnç 
+seviyelerinde önemli olma eğilimindedir çünkü bunlar genellikle birçok yatırımcının 
+alım veya satım kararları vereceği büyük psikolojik dönüm noktalarını temsil eder.
+Alıcılar genellikle fiyat INR 50 gibi büyük bir yuvarlak sayıya doğru düşmeye 
+başladığında büyük miktarda hisse senedi satın alırlar, bu da hisselerin seviyenin 
+altına düşmesini zorlaştırır. Öte yandan, satıcılar hisse senedi yuvarlak bir sayı 
+zirvesine doğru hareket ederken satmaya başlarlar, bu da bu üst seviyeyi geçmeyi 
+zorlaştırır. Bu seviyelerdeki artan alım ve satım baskısı onları önemli destek ve 
+direnç noktaları ve birçok durumda büyük psikolojik noktalar haline getirir.
+Rol Değişimi
+Bir direnç veya destek seviyesi kırıldığında, rolü tersine döner. Fiyat bir destek 
+seviyesinin altına düşerse, o seviye direnç olur. Fiyat bir direnç seviyesinin üzerine 
+çıkarsa, genellikle destek olur. Fiyat bir destek veya direnç seviyesini geçtiğinde, arz 
+ve talebin değiştiği ve kırılan seviyenin rolünü tersine çevirdiği düşünülür. Ancak 
+gerçek bir tersine dönmenin gerçekleşmesi için, fiyatın destek veya dirençten güçlü 
+bir hareket yapması önemlidir.
+42
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Örneğin, yukarıda görebileceğiniz gibi, noktalı çizgi, fiyatın daha önceki iki seferde (1. ve 
+2. Noktalar) daha yükseğe çıkmasını engelleyen bir direnç seviyesi olarak gösterilmiştir. 
+Ancak, direnç kırıldığında, fiyatı destekleyerek ve tekrar aşağı doğru gitmesini önleyerek 
+bir destek seviyesi haline gelir (3. ve 4. Noktalar tarafından gösterilmiştir).
+Teknik analiz kullanmaya başlayan birçok yatırımcı bu kavrama inanmayı zor buluyor ve 
+bu olgunun en bilinen şirketlerden bazılarında bile oldukça sık gerçekleştiğini fark 
+etmiyor. Örneğin, aşağıdaki şekilde görebileceğiniz gibi, bu olgu 2003 ile 2005 yılları 
+arasında Bharat Rasayan grafiğinde belirgindir. INR 29 seviyesinin rolünün güçlü bir 
+direnç seviyesinden destek seviyesine nasıl değiştiğine dikkat edin.
+Hemen hemen her durumda, bir hisse senedi hem bir destek seviyesine hem de bir direnç seviyesine 
+sahip olacak ve bu seviyeler arasında sıçrarken bu aralıkta işlem görecektir. Bu, genellikle bir hisse 
+senedinin, fiyat ardışık zirveler ve çukurlar boyunca hareket ederken, direnci ve desteği test ederken 
+genel olarak yatay bir şekilde işlem gördüğünde görülür.
+43
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Destek ve Direncin Önemi
+Destek ve direnç analizi, trendlerin önemli bir parçasıdır çünkü işlem kararları almak ve 
+bir trendin ne zaman tersine döneceğini belirlemek için kullanılabilir. Örneğin, bir 
+yatırımcı birkaç kez test edilmiş ancak hiç kırılmamış önemli bir direnç seviyesi 
+belirlerse, menkul kıymet bu noktaya doğru hareket ederken kar almaya karar verebilir 
+çünkü bu seviyeyi geçmesi pek olası değildir.
+Destek ve direnç seviyeleri hem trendleri test eder hem de doğrular ve teknik analiz kullanan 
+herkes tarafından izlenmelidir. Hisse senedinin fiyatı bu destek ve direnç seviyeleri arasında 
+kaldığı sürece trendin devam etmesi muhtemeldir. Ancak, bir destek veya direnç seviyesinin 
+ötesine geçilmesinin her zaman bir tersine dönüş olması gerekmediğini belirtmek önemlidir. 
+Örneğin, fiyatlar yükselen bir trend kanalının direnç seviyesinin üzerine çıktıysa, trend 
+tersine dönmemiş, hızlanmıştır. Bu, fiyat artışının kanalda olduğundan daha hızlı olmasının 
+beklendiği anlamına gelir.
+Bu önemli destek ve direnç noktalarının farkında olmak, bir hisse senediyle işlem yapma şeklinizi 
+etkilemelidir. Yatırımcılar, etraflarındaki alan genellikle çok fazla oynaklıkla işaretlendiğinden, bu 
+önemli noktalarda emir vermekten kaçınmalıdır. Bir destek veya direnç seviyesinin yakınında işlem 
+yapma konusunda kendinize güveniyorsanız, bu basit kuralı izlemeniz önemlidir: emirleri doğrudan 
+destek veya direnç seviyesine yerleştirmeyin. Bunun nedeni, birçok durumda fiyatın aslında tam sayıya 
+asla ulaşmaması, bunun yerine onunla flört etmesidir. Bu nedenle, önemli bir destek seviyesine doğru 
+hareket eden bir hisse senedinde yükselişçiyseniz, işlemi destek seviyesine yerleştirmeyin. Bunun 
+yerine, destek seviyesinin üzerine, ancak birkaç puan içinde yerleştirin. Öte yandan, stop veya kısa satış 
+yerleştiriyorsanız, işlem fiyatınızı destek seviyesinde veya altında ayarlayın.
+44
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Hacim Nedir?
+Hacim, basitçe belirli bir zaman diliminde, genellikle bir günde işlem gören hisse senedi veya 
+sözleşme sayısıdır. Daha yüksek hacim, menkul kıymetin daha aktif olduğu anlamına gelir. 
+Hacmin hareketini (yukarı veya aşağı) belirlemek için, grafikçiler genellikle herhangi bir grafiğin 
+altında bulunabilen hacim çubuklarına bakarlar. Hacim çubukları, dönem başına kaç hisse 
+senedinin işlem gördüğünü gösterir ve fiyatların yaptığı gibi eğilimleri gösterir.
+Hacim neden önemlidir??
+Hacim, teknik analizin önemli bir yönüdür çünkü trendleri ve grafik modellerini doğrulamak 
+için kullanılır. Nispeten yüksek hacimle yukarı veya aşağı herhangi bir fiyat hareketi, zayıf 
+hacimle benzer bir hareketten daha güçlü, daha alakalı bir hareket olarak görülür. Bu 
+nedenle, büyük bir fiyat hareketine bakıyorsanız, aynı hikayeyi anlatıp anlatmadığını görmek 
+için hacmi de incelemelisiniz.
+Örneğin, bir hisse senedinin uzun bir düşüş trendinde olduktan sonra bir işlem gününde %5 sıçradığını 
+varsayalım. Bu bir trend tersine dönüşünün işareti midir? Hacmin yatırımcılara yardımcı olduğu yer 
+burasıdır. Eğer hacim, ortalama günlük hacme göre gün içinde yüksekse, bu tersine dönüşün 
+muhtemelen gerçek olduğunun bir işaretidir. Öte yandan, hacim ortalamanın altındaysa, gerçek bir 
+trend tersine dönüşünü destekleyecek yeterli inanç olmayabilir.
+45
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Hacim trendle birlikte hareket etmelidir. Fiyatlar yukarı yönlü bir trendde hareket ediyorsa, hacim 
+artmalıdır (ve tam tersi). Hacim ve fiyat hareketleri arasındaki önceki ilişki bozulmaya başlarsa, bu 
+genellikle trendde zayıflık belirtisidir. Örneğin, hisse senedi yukarı yönlü bir trenddeyse ancak 
+yukarı yönlü işlem günleri daha düşük hacimle işaretlenmişse, bu trendin etkisini kaybetmeye 
+başladığının ve yakında sona erebileceğinin bir işaretidir.
+Hacim farklı bir hikaye anlattığında, bu iki farklı gösterge arasındaki çelişkiye 
+işaret eden bir sapma durumudur. Sapmanın en basit örneği, azalan hacimde 
+belirgin bir yükseliş eğilimidir.
+Hacim ve Grafik Desenleri
+Hacmin diğer bir kullanımı grafik desenlerini doğrulamaktır. Baş ve omuzlar, üçgenler, 
+bayraklar ve diğer fiyat desenleri gibi desenler hacimle doğrulanabilir. Çoğu grafik 
+deseninde, grafiğin grafikçilere iletebildiği şey için hayati önem taşıyan birkaç temel nokta 
+vardır. Temel olarak, hacim bir grafik deseninin temel anlarını doğrulamak için orada 
+değilse, desen tarafından oluşturulan sinyalin kalitesi zayıflar.
+Hacim Fiyattan Önce Gelir
+Teknik analizdeki bir diğer önemli fikir, fiyatın hacimden önce gelmesidir. Hacim, yaklaşan trend 
+dönüşleri hakkında fikir oluşturmak için teknisyenler ve grafikçiler tarafından yakından izlenir. 
+Hacim bir yükseliş trendinde azalmaya başlıyorsa, bu genellikle yükselişin sona ermek üzere 
+olduğunun bir işaretidir.
+Artık teknik analizin önemli faktörlerinden bazılarını daha iyi anladığımıza göre, 
+fiyat hareketlerindeki işlem fırsatlarını belirlemeye yardımcı olan grafiklere 
+geçebiliriz.
+46
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Göstergeler para akışı, trendler, oynaklık ve momentum gibi şeyleri ölçen bir menkul 
+kıymetin fiyatı ve hacmine dayalı hesaplamalardır. Göstergeler, gerçek fiyat 
+hareketlerine ikincil bir ölçü olarak kullanılır ve menkul kıymetlerin analizine ek bilgi 
+ekler. Göstergeler iki ana şekilde kullanılır: fiyat hareketini ve grafik desenlerinin 
+kalitesini doğrulamak ve alım ve satım sinyalleri oluşturmak.
+İki ana gösterge türü vardır: öncü ve gerileyen. Öncü bir gösterge fiyat hareketlerinden 
+önce gelir ve onlara öngörücü bir nitelik kazandırırken, gerileyen bir gösterge fiyat 
+hareketini takip ettiği için bir doğrulama aracıdır. Öncü bir göstergenin yatay veya trend 
+olmayan işlem aralıkları dönemlerinde en güçlü olduğu düşünülürken, gerileyen 
+göstergeler trend dönemlerinde hala faydalıdır.
+Ayrıca iki tür gösterge yapısı vardır: sınırlı bir aralığa düşenler ve düşmeyenler. Bir 
+aralık içinde sınırlı olanlara osilatörler denir - bunlar en yaygın gösterge türüdür. 
+Osilatör göstergelerinin örneğin sıfır ile 100 arasında bir aralığı ve menkul kıymetin 
+aşırı satın alındığı (100'e yakın) veya aşırı satıldığı (sıfıra yakın) sinyal dönemleri 
+vardır. Sınırsız göstergeler yine de alım ve satım sinyalleri oluşturur ve güç veya 
+zayıflık gösterir, ancak bunu yapma biçimleri farklıdır.
+Teknik analizde göstergelerin alım ve satım sinyalleri oluşturmak için 
+kullanılmasının iki ana yolu kesişmeler ve ayrışmadır. Kesişmeler en popüler 
+olanıdır ve fiyat hareketli ortalamanın içinden geçtiğinde veya iki farklı hareketli 
+ortalama birbirini geçtiğinde yansıtılır. Göstergelerin kullanıldığı ikinci yol, fiyat 
+eğiliminin yönü ve gösterge eğiliminin yönü zıt yönde hareket ettiğinde 
+meydana gelen ayrışmadır. Bu, gösterge kullanıcılarına fiyat eğiliminin yönünün 
+zayıfladığını bildirir.
+Teknik analizde kullanılan göstergeler son derece yararlı bir ek bilgi kaynağı sağlar. Bu 
+göstergeler, trendlerin teknik analizine yardımcı olmak için bir menkul kıymetteki 
+momentumu, trendleri, oynaklığı ve çeşitli diğer yönleri belirlemeye yardımcı olur. Bazı 
+yatırımcıların yalnızca alım ve satım sinyalleri için tek bir gösterge kullanırken,
+47
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Fiyat hareketleri, grafik desenleri ve diğer göstergelerle birlikte kullanıldığında en iyi sonucu verir.
+MACD: Hareketli ortalama yakınsama sapması (MACD), teknik analizde en iyi bilinen ve 
+kullanılan göstergelerden biridir. Bu gösterge, menkul kıymetteki momentumu ölçmeye 
+yardımcı olan iki üstel hareketli ortalamadan oluşur. MACD, basitçe bu iki hareketli 
+ortalama arasındaki farkın bir merkez çizgisine göre çizilmesidir. Merkez çizgisi, iki 
+hareketli ortalamanın eşit olduğu noktadır. MACD ve merkez çizgisiyle birlikte, 
+MACD'nin kendisinin bir üstel hareketli ortalaması grafikte çizilir. Bu momentum 
+göstergesinin arkasındaki fikir, momentumun mevcut yönünü işaret etmeye yardımcı 
+olmak için kısa vadeli momentumu uzun vadeli momentumla karşılaştırmaktır.
+MACD= kısa vadeli hareketli ortalama - uzun vadeli 
+hareketli ortalama
+MACD pozitif olduğunda, daha kısa vadeli hareketli ortalamanın daha uzun vadeli hareketli 
+ortalamanın üzerinde olduğunu ve yukarı doğru momentum olduğunu gösterir. MACD negatif 
+olduğunda ise tam tersi geçerlidir - bu, daha kısa vadenin daha uzun vadenin altında olduğunu ve 
+aşağı doğru momentum olduğunu gösterir. MACD çizgisi merkez çizgisini geçtiğinde, hareketli 
+ortalamalarda bir kesişme olduğunu gösterir. Hesaplamada kullanılan en yaygın hareketli 
+ortalama değerleri 26 günlük ve 12 günlük üstel hareketli ortalamalardır. Sinyal çizgisi genellikle 
+MACD değerlerinin dokuz günlük üstel hareketli ortalaması kullanılarak oluşturulur. Bu değerler 
+teknisyenin ve menkul kıymetin ihtiyaçlarını karşılamak için ayarlanabilir. Daha oynak menkul 
+kıymetler için daha kısa vadeli ortalamalar kullanılırken, daha az oynak menkul kıymetler daha 
+uzun ortalamalara sahip olmalıdır.
+48
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+MACD göstergesinin grafiklerde sıklıkla bulunan bir diğer yönü de MACD 
+histogramıdır. Histogram merkez çizgisine çizilir ve çubuklarla gösterilir. Her çubuk, 
+MACD ile sinyal çizgisi veya çoğu durumda dokuz günlük üstel hareketli ortalama 
+arasındaki farktır. Çubuklar her iki yönde ne kadar yüksekse, çubukların işaret ettiği 
+yönün arkasındaki momentum o kadar fazladır
+Aşağıdaki şekilde görebileceğiniz gibi, en yaygın alım sinyallerinden biri MACD sinyal 
+çizgisinin (mavi noktalı çizgi) üzerine çıktığında oluşurken, satış sinyalleri genellikle 
+MACD sinyalin altına düştüğünde oluşur.
+RSI (Göreceli Güç Endeksi) : Teknik analizde en çok kullanılan ve bilinen momentum 
+göstergelerinden bir diğeridir. RSI, bir menkul kıymette aşırı alım ve aşırı satım koşullarını işaret 
+etmeye yardımcı olur. Gösterge sıfır ile 100 arasında bir aralıkta çizilir. 70'in üzerindeki bir okuma, 
+bir menkul kıymetin aşırı alım olduğunu, 30'un altındaki bir okuma ise aşırı satım olduğunu 
+göstermek için kullanılır. Bu gösterge, yatırımcıların bir menkul kıymetin fiyatının mantıksız bir 
+şekilde mevcut seviyelere itilip itilmediğini ve bir geri dönüşün yolda olup olmadığını 
+belirlemelerine yardımcı olur.
+49
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+RSI için standart hesaplama, kullanıcının ihtiyaçlarına göre ayarlanabilen 14 işlem 
+gününü baz alır. İşlem dönemi daha az gün kullanacak şekilde ayarlanırsa, RSI daha 
+oynak olacak ve daha kısa vadeli işlemler için kullanılacaktır.
+50
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Stokastik Osilatör
+Stokastik osilatör, teknik analizde kullanılan en tanınmış momentum göstergelerinden biridir. Bu 
+göstergenin arkasındaki fikir, bir yükseliş trendinde fiyatın işlem aralığının en yükseklerine yakın bir yerde 
+kapanması ve bu durumun güvenlikte yukarı yönlü momentum sinyali vermesidir. Düşüş trendlerinde ise 
+fiyatın işlem aralığının en düşüklerine yakın bir yerde kapanması ve bu durumun da aşağı yönlü momentum 
+sinyali vermesidir.
+Stokastik osilatör sıfır ile 100 aralığında çizilir ve 80'in üzerinde aşırı alım koşullarını ve 
+20'nin altında aşırı satım koşullarını işaret eder. Stokastik osilatör iki çizgiden oluşur. İlk 
+çizgi %K'dır ve esasen osilatörün arkasındaki momentum fikrini formüle etmek için 
+kullanılan ham ölçüdür. İkinci çizgi %D'dir ve %K'nın basitçe hareketli ortalamasıdır. %D 
+çizgisinin daha iyi sinyaller ürettiği görüldüğü için iki çizgiden daha önemli olduğu 
+düşünülmektedir. Stokastik osilatör hesaplamasında genellikle geçmiş 14 işlem 
+periyodunu kullanır ancak kullanıcının ihtiyaçlarını karşılamak için ayarlanabilir.
+51
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Çözüm
+• Teknik analiz piyasa aktivitesi tarafından üretilen istatistikleri analiz ederek menkul 
+kıymetleri değerlendirme yöntemidir. Üç varsayıma dayanır: 1) piyasa her şeyi iskonto 
+eder, 2) fiyat trendler halinde hareket eder ve 3) tarih kendini tekrar etme eğilimindedir.
+• Teknisyenler bir hisse senedi hakkında ihtiyaç duydukları tüm bilgilerin hisse senedinin grafiklerinde bulunabileceğine 
+inanırlar.
+• Teknik yatırımcılar piyasayı analiz ederken kısa vadeli bir yaklaşım benimserler.
+• Teknik analize yönelik eleştiriler, piyasa fiyatının her zaman doğru fiyat olduğunu ve bu 
+nedenle tarihsel analizin işe yaramadığını ileri süren etkin piyasa hipotezinden 
+kaynaklanmaktadır.
+• Teknik analizdeki en önemli kavramlardan biri, bir menkul kıymetin genel 
+olarak yöneldiği yön olan trend kavramıdır. Üç tür trend vardır: Yükseliş 
+trendleri, düşüş trendleri ve yan/yatay trendler.
+• Trend çizgisi, piyasadaki veya hisse senedindeki eğilimi temsil etmek için grafiğe bir çizgi 
+ekleyen basit bir grafik tekniğidir.
+• Kanal veya kanal çizgileri, güçlü destek ve direnç alanları olarak işlev gören iki paralel 
+trend çizgisinin eklenmesidir.
+• Destek, bir hisse senedinin veya piyasanın nadiren düştüğü fiyat seviyesidir. Direnç, 
+bir hisse senedinin veya piyasanın nadiren aştığı fiyat seviyesidir.
+• Hacim, belirli bir zaman diliminde, genellikle bir günde işlem gören hisse senedi veya 
+sözleşme sayısıdır. Hacim ne kadar yüksekse, menkul kıymet o kadar aktiftir.
+• Grafik, belirli bir zaman dilimindeki bir dizi fiyatın grafiksel gösterimidir.
+• Zaman ölçeği, grafiğin alt kısmındaki tarih aralığını ifade eder ve onyıllardan 
+saniyelere kadar değişebilir. En sık kullanılan zaman ölçekleri günlük, günlük, 
+haftalık, aylık, üç aylık ve yıllıktır.
+• Fiyat ölçeği grafiğin sağ tarafındadır. Bir hisse senedinin güncel fiyatını gösterir ve 
+bunu geçmiş veri noktalarıyla karşılaştırır. Doğrusal veya logaritmik olabilir.
+• Yatırımcılar ve traderlar tarafından kullanılan dört ana grafik türü vardır: çizgi grafikleri, çubuk 
+grafikleri, mum grafikleri ve nokta ve şekil grafikleri.
+52
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+• Bir grafik deseni, bir hisse senedi grafiğinde bir işlem sinyali veya gelecekteki fiyat 
+hareketlerinin bir işareti oluşturan belirgin bir oluşumdur. İki türü vardır: geri dönüş 
+ve devam.
+• Baş ve omuzlar formasyonu, bir menkul kıymetin önceki trendine ters yönde hareket etme olasılığını işaret eden 
+bir tersine dönüş formasyonudur.
+• Fincan ve kulp formasyonu, yükseliş trendinin durakladığı ancak formasyon teyit 
+edildikten sonra yükseliş yönünde devam edeceği boğa devam formasyonudur.
+• Çift tepeler ve çift dipler, devam eden bir trendden sonra oluşur ve grafikçilere 
+trendin tersine dönmek üzere olduğunu işaret eder. Desen, bir fiyat hareketinin 
+destek veya direnç seviyelerini iki kez test etmesi ve geçememesi durumunda oluşur.
+• Üçgen, zamanla daha düşük zirveler ve daha yüksek dipler nedeniyle daralan bir 
+fiyat aralığı boyunca trend çizgileri çizilerek oluşturulan bir teknik analiz 
+örüntüsüdür. Üçgenin varyasyonları arasında yükselen ve alçalan üçgenler bulunur.
+• Bayraklar ve flamalar, keskin bir fiyat hareketinin ardından yatay bir fiyat 
+hareketinin oluşmasıyla oluşan kısa vadeli devam modelleridir.
+• Kama grafik deseni, devam veya geri dönüş deseni olabilir. Simetrik bir 
+üçgene benzer, ancak kama deseni yukarı veya aşağı doğru eğimlidir.
+• Bir grafikteki boşluk, bir işlem dönemi ile onu izleyen işlem dönemi arasındaki 
+boş alandır. Bu, iki ardışık işlem dönemi arasında fiyatlarda büyük bir fark 
+olduğunda meydana gelir.
+• Hareketli ortalama, belirli bir zaman diliminde bir menkul kıymetin ortalama 
+fiyatıdır. Üç türü vardır: basit, doğrusal ve üstel.
+• Hareketli ortalamalar, teknik yatırımcıların günlük fiyat hareketlerinde bulunan gürültüyü 
+yumuşatmasına yardımcı olur ve yatırımcılara fiyat eğilimi hakkında daha net bir görünüm sunar.
+• Göstergeler, para akışı, trendler, oynaklık ve momentum gibi şeyleri ölçen 
+bir menkul kıymetin fiyatı ve hacmine dayalı hesaplamalardır. İki türü 
+vardır: öncü ve gerileyen.
+• Birikim/dağıtım doğrusu, bir menkul kıymetin alım/satım oranını ölçmeye 
+çalışan bir hacim göstergesidir.
+53
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+• Hareketli ortalama yakınsama sapması (MACD), bir menkul kıymetin 
+momentumunu ölçmeye yardımcı olan iki üstel hareketli ortalamadan oluşur.
+• Göreceli güç endeksi (RSI), bir menkul kıymetteki aşırı alım ve aşırı satım koşullarını işaret 
+etmeye yardımcı olur.
+• Stokastik osilatör, bir menkul kıymetin kapanış fiyatını belirli bir zaman dilimindeki fiyat 
+aralığıyla karşılaştırır.
+54
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Referanslar
+Çevrimiçi:
+1.www.valuenotes.com
+2.www.microsec.in
+3.www.nseindia.com
+4.www.bseindia.com
+5.www.myiris.com
+6.www.livecharts.co.uk
+7.www.sebi.gov.in
+8.www.equis.com
+Kitaplar:
+1.) Ajay Shah ve Susan Thomas, IGIDR, Mumbai tarafından Türevler hakkında sık 
+sorulan sorular
+2.) Dr. Tejinder Singh Rawal'dan hisse senetlerine nasıl yatırım yapılır.
+55
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Ek
+ÖRNEK TEKNİK RAPORLAR
+56
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+SPOT NIFTY GÜNLÜK GRAFİĞİ 04 MAYIS'09 (3654.00)
+SPOT NIFTY GÜNLÜK DESTEK & RES 05 MAYIS'09
+1 2 3
+REZİSTANS 3700 3760 3800
+DESTEK 3600 3550 3500
+GÜNLÜK TEKNİK GÖRÜNÜM
+Başka bir harika gün! En yüksek ciro günlerinden biri, büyük günlük kazançlar ve 
+ayrıca Ekim '08'den bu yana en yüksek kapanışla birleşti. Kesinlikle olumlu küresel 
+ipuçlarını alan piyasa sabah büyük bir boşlukla açıldı ve gün boyunca yukarı 
+momentumu korudu ve Spot Nifty günü 180 puan veya %5,18 kazanarak 3654'te 
+kapattı. BSE Sensex ayrıca kritik 12000 seviyesini aştı ve şurada kapandı:
+57
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+12134.75, 731.50 veya %6.41 net kazançla. Yine sterlin gösterisinin yenilenen 
+canlılıkla devam ettiği seçici Midcap hisselerinin günüydü. Hacim oldukça 
+yüksekti ve piyasanın genişliği 5:1 oranında kesinlikle pozitifti.
+BSE SEKTÖREL ENDEKSLERİ BSE SEKTÖREL ENDEKSLERİ
+EN ÇOK KAZANANLAR EN ÇOK KAYBEDENLER
+AKIM
+DEĞER
+%
+DEĞİŞTİRMEK
+AKIM
+DEĞER
+%
+DEĞİŞTİRMEKŞİRKET ŞİRKET
+METAL 7489.47 8.77 KAYBEDEN YOK - -
+BT 2887.04 8.40 - - -
+BANKA 6133.53 7.89 - - -
+KAPAK MALLARI 8374.17 5.88 - - -
+TEKNOLOJİ 2289,78 5.86 - - -
+PİYASA GÖSTERGELERİ PİYASA GÖSTERGELERİ
+EN İYİ NIFTY KAZANANLAR EN İYİ NIFTY KAYBEDENLER
+%
+DEĞİŞTİRMEK
+%
+DEĞİŞTİRMEKŞİRKET KAPALI ŞİRKET KAPALI
+HCL TEKNOLOJİ
+STER
+HİNDALKO
+HDFC
+M&M
+154.25
+478.05
+61.45
+1965.05
+545,80
+18.79 ABB
+16.58 CİPLAS
+14.33 BPCL
+13.79
+11.86
+473.20
+238,55
+384.45
+-
+-
+(2,83)
+(0,91)
+(0,83)
+-
+-
+-
+-
+58
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+ASYA PAZARINDAKİ PERFORMANSLAR
+DİZİN
+TAYVAN
+ASKI SENG
+ŞANGHAY
+KOSPI
+KAPALI FARKLILIK NOKTALARI
+337,83
+860.06
+82.34
+28.56
+% DEĞİŞTİRMEK
+5.64
+5.54
+3.32
+2.09
+6330.40
+16381.05
+2559,91
+1397,92
+Teknik olarak konuşursak, Spot Nifty günlük mum çubuğu grafiğinde büyük bir günlük boğa 
+Mum Çubuğu belirdi. Son 31 işlem seansından 21'i yeşil renkte sona erdi, bu da devam eden 
+gücü gösteriyor. Şu anda küçük trend açıkça yukarı. Küçük trend çizgisi desteği 3500'de 
+bulunuyor. Ayrıca Spot Nifty tüm kısa ve uzun vadeli hareketli ortalamalarının üzerinde 
+hareket ediyor. Momentum göstergelerine bakarsak MACD SATIN AL modunda, 14 günlük 
+RSI ve Stokastik Osilatör aşırı alım bölgesinde ve şu an itibariyle herhangi bir soğuma 
+belirtisi yok. 14 günlük fiyat ROC ve momentum göstergeleri de aşırı alım bölgesine ulaştı.
+Dünkü piyasa kapanışı bugün daha yüksek bir açılışa işaret ediyor ve bu kanıtlara göre Spot 
+Nifty 3700 bölgesinde ilk dirençle karşılaşabilir, burayı kırarsa 3760'a ve en sonunda 3800 
+seviyesine doğru ilerleyebilir, bunun aksine aşağı yönde Spot Nifty 3600'de ilk desteği, 
+ardından 3550'yi ve ardından aynı zamanda küçük trend çizgisi desteği olan 3500'ü bulabilir.
+Sektörler arasında Bankacılık, Metal, Petrol ve Gaz hala teknik olarak iyi görünüyor ancak 
+çoğu günlük grafikte aşırı alımda. Küresel hisse senedi, özellikle gelişmekte olan piyasalar 
+daha fazla güç gösteriyor. Emtia alanında külçe (altın ve gümüş) ve ham petrol, mevcut 
+seviyede konsolide olmaya çalışıyor.
+59
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+SPOT NIFTY GÜNLÜK GRAFİĞİ 18 MAYIS'09 (4308.05)
+SPOT NIFTY GÜNLÜK DESTEK & RES 19 MAYIS'09 İÇİN
+1 2 3
+REZİSTANS 4360 4430 4500
+DESTEK 4250 4190 4150
+60
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+GÜNLÜK TEKNİK GÖRÜNÜM
+Dün Hindistan borsasında tarih yazıldı, Spot Nifty'de "üst devre" sınırı olan 600 
+puanda ilk kez gün boyunca işlemler durduruldu. Piyasa sabah yaklaşık 450 puanlık 
+bir boşlukla açıldı, ardından işlemler tekrar 2 saat durduruldu, açıldığında Spot 
+Nifty'de 600 puanlık üst devre sınırındaydı. Bu temelde, ekonomik reformların yeni 
+bir ivme kazanması muhtemel olan iktidardaki UPA'nın ezici çoğunluğuna ve ayrıca 
+Hindistan için FII tahsisatının artırılması olasılığına atfediliyor. Piyasa durdurulurken 
+Spot Nifty 636 puan veya %17,33 artışla 4308'deydi. BSE Sensex 2099.21 puan veya 
+%17.24 artışla 14272.63'teydi, BSE Midcap 459.18 puan veya %12.06 artışla 
+4266.25'te kapanırken Small Cap Indices 389.02 puan veya %9.09 artışla 4668.62'de 
+kapandı. Hacim önceki işlem seanslarından oldukça düşüktü ve neredeyse hiç düşüş 
+olmadı.
+BSE SEKTÖREL ENDEKSLERİ BSE SEKTÖREL ENDEKSLERİ
+EN ÇOK KAZANANLAR EN ÇOK KAYBEDENLER
+AKIM
+DEĞER
+%
+DEĞİŞTİRMEK
+AKIM
+DEĞER
+%
+DEĞİŞTİRMEKSEKTÖRLER SEKTÖRLER
+GAYRİMENKUL 3014.98 25.37 KAYBEDEN YOK - -
+KAPAK MALLARI 10712.65 23.47 - - -
+BANKA 7667,92 20.27 - - -
+PETROL & GAZ 10175 19.57 - - -
+GÜÇ 2595,43 17.09 - - -
+61
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+PİYASA GÖSTERGELERİ PİYASA GÖSTERGELERİ
+EN İYİ NIFTY KAZANANLAR EN İYİ NIFTY KAYBEDENLER
+%
+DEĞİŞTİRMEK
+%
+DEĞİŞTİRMEKŞİRKET KAPALI ŞİRKET KAPALI
+HDFC
+ALTYAPI İLE İLGİLİ
+BİRLİKTEK
+ICICI BANK
+BHARTI SANAT
+2499
+1050
+64,75
+729
+1014.45
+28.91
+28.02
+27.09
+26.85
+26.83
+KAYBEDEN YOK
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ASYA PAZARINDAKİ PERFORMANSLAR
+DİZİN
+TAYVAN
+ASKI SENG
+ŞANGHAY
+KOSPI
+NİKKEİ
+KAPALI FARKLILIK NOKTALARI
+88.72
+215,44
+7.52
+- 5.05
+- 226,33
+% DEĞİŞTİRMEK
+1.37
+1.28
+0,28
+(0,36)
+(2.44)
+6577.81
+17006.14
+2652,78
+1386.68
+9038.69
+62
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Teknik olarak konuşursak, Spot Nifty günlük mum çubuğu grafiğinde, aşırı yükselişi ve 
+bir tür öforiyi tasvir eden, uzun günlük boğa mum çubuğunun yukarı doğru kaçan bir 
+boşluğu görülebilir. Şu anda hem ara hem de küçük trend yukarı doğru ve Spot Nifty, 
+tüm uzun ve kısa vadeli hareketli ortalamalarının üzerine çıkıyor. Momentum 
+göstergelerine bakarsak, MACD tekrar SATIN AL moduna girdi, 14 günlük RSI ve 
+Stokastik açıkça nötr bölgeden yukarı çıkmaya çalışıyor. +DI (Pozitif Yön Göstergesi) 
+sürekli olarak –DI'nin (Negatif Yön Göstergesi) üzerinde hareket ediyor.
+Dünkü piyasa kapanışı bugün yukarı yönlü bir boşluğun açılacağını gösteriyor ve bu verilere göre Spot 
+Nifty ilk olarak 4360 bölgesinde dirençle karşılaşacak ve bu seviyeyi kırarak 4420'ye ve en sonunda da 
+4500 seviyesine doğru ilerleyebilir. Öte yandan aşağı yönlü harekette Spot Nifty ilk olarak 4245'te 
+destek bulacak ve ardından 4190'da 4150'ye gelecek.
+Spot Nifty, Spot Nifty 4300'deki tüm düşüşün %50'sini geri çekmişti (6357'den 2252'ye 
+kadar). Burada, Mart ayının ilk haftasından itibaren Spot Nifty'nin yaklaşık 1769 puan 
+veya %69 geri çekildiğini belirtmek gerekir (Mart ayının ilk haftasındaki Spot Nifty 
+2359'dan 17 Mart'ta 4308'e kadar).inciMayıs).
+Piyasa günlük ve haftalık grafiklerde aşırı alım durumunda olduğundan bugün daha yüksek 
+seviyelerde bir tür kar satışı olasılığı göz ardı edilemez. FII girişleri azalmamış durumda ve devam 
+etmesi muhtemel.
+Küresel hisse senedi piyasası biraz zayıflık gösteriyor. Emtia cephesinde külçe (altın ve gümüş) 
+yükselmeye çalışıyor ve ham petrol mevcut 57$ seviyesinde konsolide olmaya çalışıyor.
+63
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+Aşağıda Haziran 2008'den 7 Haziran 2009'a kadar olan "Nifty 50"nin Mum Grafiği yer almaktadır. Farklı 
+çizgiler farklı DMA'ları (200, 100, 50at, 30) temsil eder; burada 200 ve 100 DMA uzun vadeli olarak kabul 
+edilir ve bundan daha düşük olanlara kısa vadeli DMA denir.
+64
+www.forexgercekleri.xyz - [Twitter: @eseckal]

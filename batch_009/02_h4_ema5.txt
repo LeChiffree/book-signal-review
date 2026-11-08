@@ -1,0 +1,752 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 9\Baskı 9\H4 EMA5 GBP Stratejisi - İngilizce ve Türkçe (20 sayfa) - @eseckal.pdf
+PAGES: 20
+
+
+=== PDF PAGE 1 ===
+4 Hr 5 EMA System by Sterling
+1. Chart Setup
+Set GBP/USD Chart to the 4 Hour timeframe
+1.1 Place an Exponential Moving Average, set to 5 periods, to the HIGH of the 
+price (5 EMA High)
+1.2 Place an Exponential Moving Average, set to 5 periods, to the Low of the price  
+(5 EMA Low)
+2. Setup Bar
+A setup bar is a candle or bar whose price action has either exceeded the 5 EMA 
+High or been lower than the 5 EMA Low by 5 pips or more during the 4 hour 
+period.
+This price action may have crossed the 5 EMA or may have occurred fully outside 
+the 5 EMAs throughout the whole of the period.
+Price breaching or above the 5 EMA High gives a setup for a short or sell trade
+Price breaching or below the 5 EMA Low gives a setup for a long or buy trade
+The only exception to this is when a bar breaches both of the 5 EMAs within the 
+period.
+See examples below
+2.1 Example – Identification of Bars
+1. Examples of long setup bars. Price can be fully below 5 EMA, start between 
+the EMAs and move down or start outside the EMAs and move up. Price 
+does not have to touch the 5 EMA low
+2. Examples of short setup bars. Price can be fully above 5EMA, start 
+between the EMAs and move up or start outside the EMAs and move down. 
+Price does not have to touch the 5 EMA high
+3. Examples of bars that do not qualify as setups. They are either fully 
+between the EMAs throughout the period or do not exceed the EMAs (high 
+or low) by more than 5 pips.
+4. Examples of bars that do not qualify as setups as the price action exceeds 
+or is equal to (that is, it just touches) both of the EMAs during the period
+1
+2
+1
+2
+1
+2
+3
+34
+4
+4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+Note – every bar shown on the chart is a type 1, 2, 3 or 4 but not all have been 
+labelled!
+Also note – on this and on other examples shown, ignore any lines other than the 
+two 5 EMA ‘envelope’ lines – they are not relevant to this system.
+2.2 At the close of a setup bar for a long order
+• A buy stop order is placed at 5 pips plus your broker’s spread above the 
+highest level of the setup bar
+• A contingent stop loss is placed 5 pips below the lowest level of the setup 
+bar (that is, a stop loss that will be activated only if the buy stop order is 
+activated)
+2.3 At the close of a Setup bar for a Short order
+• A sell stop order is placed at 5 pips below the lowest level of the setup bar
+• A contingent stop loss is placed 5 pips plus your broker’s spread above the 
+highest level of the setup bar (that is, a stop loss that will be activated only 
+if the sell stop order is activated)
+2.4 In the case of a long setup bar, the following bar will be either:
+• A new long setup bar
+o To qualify as a new long setup bar it must have a lower low than 
+the previous bar
+• A reversal bar
+o To qualify as a reversal bar its high must exceed that of the setup 
+bar by 5 pips plus the Spread – we cover Reversal Bars in detail in 
+the next section
+• A Failed Reversal Bar
+o A failed reversal bar is one that does not fill the stop order on the 
+setup bar but does not make a lower low than the setup bar
+2.5 In the case of a short setup bar, the following bar will be either:
+• A new short setup bar
+o To qualify as a new short setup bar it must have a higher high than 
+the previous bar
+• A reversal bar
+o To qualify as a reversal Bar its low must be lower than that of the 
+setup bar by at least 5 pips– we cover reversal bars in detail in the 
+next section
+• A failed reversal bar
+o A failed reversal bar is one that does not fill the stop order on the 
+setup bar but does not make a higher high than the setup bar
+We will deal with failed reversal bars in more detail in Section 5.
+2.6 Note: 
+Most brokers add the spread to the buy or offer price.  This spread is only added 
+once per trade (a trade consisting of a buy then sell or a sell then buy)
+Therefore, if the spread is 3 pips, you would sell a position at the market price but 
+buy a position at the market price plus the spread.
+Some brokers will quote their bid / offer prices on either side of the market price; 
+if this is the case then you must allow for this calculation when placing your 
+orders and stop loss positions.
+3. Reversal Bar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+3.1 The reversal bar is the bar that fills the buy or sell stop order placed on the 
+setup bar.
+• For a long order the reversal bar must have exceeded the high of the setup 
+bar by at least 5 pips plus your spread.
+• For a short order the reversal bar must have been lower than the low of 
+the setup bar by at least 5 pips.
+3.2 When the long or short order is triggered, the contingent stop loss order is 
+automatically triggered.
+3.3 Occasionally the reversal bar may develop a lower low than the setup bar (for 
+a long position) before progressing upwards and triggering the order; in this 
+circumstance, when the reversal bar has closed, the stop loss position must be 
+manually adjusted to 5 pips below the low of the reversal bar.
+3.4 For a short position the opposite applies but in this case the stop loss must be 
+moved to 5 pips plus the spread above the high of the reversal bar as this will be 
+a buy stop to close the position.
+3.5 The stop loss is only adjusted if the reversal bar has developed a lower low 
+than a long setup bar or a higher high than a short setup bar.
+3.6 Another occasional occurrence is that the order is filled, creating the 
+automatic stop loss position, and then the price reverses through the stop loss 
+closing your position.  This is unfortunate and you must now wait for a new setup 
+bar and start the process again.
+4. Reversal Order
+4.1 When the reversal bar has closed, a reverse stop order is now placed at the 
+same level as the stop loss with a contingent stop loss at the opposite end of the 
+reversal candle.
+Thus, if the price now reverses through your stop loss, it triggers a stop order in 
+the opposite direction and automatically places a new stop loss at the opposite 
+end of the reversal bar.
+At the close of this bar the stop loss is now moved to 5 pips (plus spread for a buy 
+stop) behind the maximum value (for a short position) or minimum value (for a 
+long position) that the price achieved before reversing.
+Occasionally this will result in moving the stop loss away from the opening level.
+See example below
+4.2 Example – Normal Long Order Process
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+1. Setup bar for long order - 5 EMA Low exceeded by more than 5 pips.
+• At close of this bar, buy stop order place at highest level of bar + 5 
+pips + spread.  
+• Contingent stop loss order placed 5 pips below lowest level of bar.
+2. Reversal bar – buy stop order triggered and contingent stop loss 
+automatically entered at 5 pips below setup candle low
+• At close of this bar place a sell stop order at the same level as the 
+now active stop loss level
+• Contingent stop loss order placed 5 pips + spread above the high of 
+the now closed reversal candle
+4.3 The process for short orders is almost identical except in reverse.  The only 
+difference is the consideration of the spread.
+4.4 Example – Stop Loss Adjustment
+In this example, a sell order has been activated but the reversal bar has made a 
+higher high than the setup bar.
+1. Short order setup bar – this is the same as we saw in the previous example 
+except in reverse
+1
+Buy Stop Order level 
+when Setup bar closes
+Contingent Stop Loss 
+level for Buy Stop 
+Order
+2
+Reversal Sell Stop Order level placed 
+after reversal bar has closed
+Contingent Stop Loss  
+level for Reversal Sell 
+Stop Order
+1 2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+2. Our reversal bar makes a higher high than the setup bar before triggering 
+the sell stop order (ignore the short red bar between bars 1 and 2 for a 
+moment).
+• On the close of the reversal bar the stop loss order is manually 
+adjusted to 5 pips – plus your spread as this is a buy order to close - 
+above the high of the reversal bar
+• The reversal order is then placed at the same level as this stop loss 
+order with its contingent stop loss order placed 5 pips below low of the 
+reversal bar.
+4.5 Note
+If the price had fallen to trigger the sell stop order level before going up to the 
+high of the bar, the stop loss would have also been triggered and we would now 
+have no open order.
+In this situation we would now have to wait until the next setup bar.  In the 
+example shown, this is the next red bar after the bar marked ‘2’ which is 
+activated for a long position by the green bar that follows
+4.6 Also Note
+After setup bar 1 we have a short red bar that does not get higher than the setup 
+bar high nor does it trigger the sell stop order; this is a failed reversal bar and is 
+therefore ignored.  We will come to failed setup bars and how to deal with them 
+shortly.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+4.7 Exception to the rule
+There is only one exception to the reverse order placement rule and that is when 
+the order has itself been opened due to a full stop loss resulting in a reverse order 
+being triggered; in this circumstance a further reverse order is not placed.
+This rule only applies if there is no valid setup bar between an order opening and 
+its subsequent closure due to a stop loss.
+If the stop loss from this reverse order is hit, we are out of a trade and must wait 
+for a new setup.
+If there is a valid setup bar following its opening, reverse stop orders and 
+contingent stop losses are placed in the normal manner on this new setup bar.
+See example below with reference to Bars 4 and 10.
+4.8 Example – Orders Followed by Stop Losses
+This is an interesting example and covers all of the rules so far.  It is also a good 
+lesson in the reason why all signals must be taken as there is a succession of stop 
+losses before the price moves down steeply after candle 11.
+1. Buy setup bar; note that the previous two bars are also buy setup bars but 
+bar ‘1’ is the first bar that is followed by a reversal bar that fills the buy 
+stop order that has been placed 5 pips plus spread above it.
+2. Reversal bar – fills buy stop order placed above the setup bar and is then 
+stopped out when it goes 5 pips lower than bar ‘1’.  It is, however, a buy 
+setup bar itself so a new buy stop order and contingent stop loss are 
+placed on it when it closes.
+3. Reversal bar that fills the buy stop order placed on bar ‘2’.  A reverse sell 
+stop order is placed 5 pips below it when it closes with a contingent stop 
+loss at 5 pips plus spread above its highest point.
+4. Bar 4 hits the stop loss and triggers sell stop order placed below bar ‘3’.  
+Note – see point 4.7 above – Exception to the rule; as this sell order is the 
+result of a full stop loss, no reverse buy stop order is placed above this bar 
+when it closes.
+5. Bar 5 is a buy setup bar, when it closes a buy stop order is placed 5 pips 
+plus spread above it, contingent stop loss 5 pips below it.
+6. Bar 6 is a new buy setup bar (as it makes a lower low than bar ‘5’), when it 
+closes a buy stop order is placed 5 pips plus spread above it, contingent 
+stop loss 5 pips below it (note – this buy stop order has now locked in profit 
+from our sell order).
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+7. Bar 7 is a new buy setup bar (as it makes a lower low than bar ‘6’), when it 
+closes a buy stop order is placed 5 pips plus spread above it, contingent 
+stop loss 5 pips below it.
+8. Reversal Bar that fills the buy stop order placed on bar ‘7’.  A reverse sell 
+stop order is placed 5 pips below it when it closes with a contingent stop 
+loss at 5 pips plus spread above its highest point.
+9. Trade continuation bar
+10. Bar 10 hits the stop loss and triggers sell stop order placed below bar ‘9’.  
+Note – see point 4.7 above – Exception to the rule; as this sell order is the 
+result of a full stop loss, no reverse buy stop order is placed above this bar 
+when it closes.
+5.0 Trade Management
+Now that we have looked at the entry rules it is time to look at the management 
+of the trade and its exit process.
+5.1 Management of an open position is simply a matter of looking at the chart on 
+the close of each 4 hour period, examining the new bar that has been formed and 
+taking the appropriate action, if any.
+In the ‘ideal’ trade, a reversal bar will trigger our stop order, a reversal stop order 
+with contingent stop loss will be placed on the closure of this reversal bar.  This 
+will be followed by a succession of setup bars indicating a trade in the opposite 
+direction.  At the close of each of these bars, a new stop order will be placed with 
+a contingent stop loss order.  After a number of bars have closed, our profit will be 
+locked in.  After a further number of bars, a stop order will be filled by a reversal 
+bar and the whole process sets off again in the opposite direction
+5.2 Example – Trade Management with Normal Exit
+1. Long setup bar
+2. Reversal bar – note, this bar has made a lower low than the setup bar and will 
+therefore have its stop loss manually adjusted at the close of the bar to 5 pips 
+below its low
+3. Successive short setup bars.  On the close of each bar a short stop order is 
+placed 5 pips below the low of the bar with a contingent stop order placed 5 
+pips plus the spread above the high of the bar.  In this way the profit becomes 
+locked in by the close of the sixth bar after the reversal Bar ‘2’.
+1 2
+3
+4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+4. Reversal bar that fills the sell stop order placed on the previous sell setup bar.
+5.3 Failed Reversal Bars
+Back in Section 2 we encountered failed reversal bars.  Here we will look at them 
+in more detail.
+As stated in section 3, a reversal bar is a bar that fills the stop order placed on a 
+setup bar.
+Also, as stated in Section 1, a setup bar is one whose price action occurs 5 pips or 
+more outside the 5 EMA during some, or all of the bar period (5 EMA high for a 
+short setup and 5 EMA low for a long setup)
+For a successive setup bar, it must make a lower low (for a long setup) or a higher 
+high (for a short setup) than the previous setup bar.
+If it fails to become a new setup bar and it fails to fill the stop order placed on the 
+setup bar, it is known as a failed reversal bar.
+If the following bar also fails to fill the stop order but does not make a lower low 
+(for a long setup) or a higher high (for a short setup) than the setup bar – even if 
+it has made a lower low or higher high than the previous failed reversal bar – then 
+it too is a failed setup bar.
+After two failed reversal bars, the previous setup bar and the two failed setup 
+bars are rejected and we look for a new setup bar
+5.4 Example – Failed Reversal Bars
+1. Short setup bar
+2. Reversal bar that also becomes a long setup bar
+3. Bar fails to fill buy stop order placed above bar ‘2’ but fails to make lower low 
+than bar ‘2’. This is a failed reversal bar
+4. Bar fails to fill buy stop order placed above bar ‘2’ but fails to make lower low 
+than bar ‘2’. This is a second failed reversal bar. Note, even if this bar had 
+made a lower low than bar 3 but not bar 2, it would still not be a new long 
+setup bar.
+1
+2
+3 4
+5
+6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+5. We have had 2 successive failed reversal bars now so we can now ignore all 
+previous bars. This bar breaks through the 5 EMA low by more than 5 pips and 
+so it is now our new long setup bar
+6. The first bar in this series fails to break the high of long setup bar ‘5’ , the 
+index moves down forming new successive long setup bars keeping us in our 
+original trade.
+5.5 There are only two circumstances in which a trade is manually closed.
+5.6 50% Exit Rule
+Following successive setup bars, it can be seen that the stop orders placed on 
+each successive setup bar lock in the profits on our trade.  When we have two 
+successive failed reversal bars, however, we have nowhere to put our stop loss 
+and therefore risk losing our profit.
+In this situation, if the maximum number of pips since entry level has been equal 
+to or greater than 150 then a stop loss of 50% of the maximum number of pips is 
+put in place.
+Note –this is a stop loss only, not a reverse stop order.  Existing stop orders are 
+cancelled and should this stop loss be hit, we are out of a trade and waiting for a 
+new setup bar.
+When the second Failed setup bar closes, if the index has already retraced 
+through this 50% level, the trade is closed immediately and we wait for a new 
+setup bar.
+5.7 Example – 50% Exit Rule
+1. Entry level
+1
+2
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+2. Two failed reversal bars.  At this point the maximum that the index has moved 
+into profit is 174 pips – stop loss is placed at 50% of this value, 87 pips, below 
+this maximum value
+3. Order is stopped out and we now wait for a new setup bar.
+5.5 Weekend Exit.
+Due to the risk of the index ‘gapping’ (that is, opening at a significantly different 
+level to that at which it closed), no trades are left open at the weekend.
+At 5 minutes before the end of dealing on a Friday, the position is closed
+1. If there is no change at the start of the next week’s session, immediately re-
+open the trade in the same direction as before.
+2. Where the previous week’s closing bar was a setup for a trade in the other 
+direction, if a gap crosses the entry level from that setup bar, open the trade 
+in the new direction.
+3. If the price gaps past where your stop loss and Reverse Stop Order was at the 
+end of the previous week, re enter in the new direction as though your stop 
+order had been triggered.
+4. If, as a result of condition 4.7 above, there had been no reverse stop order in 
+position and the market, on opening, has gapped past the level where the 
+Stop Loss was, no position is opened and we must wait for a new setup bar.
+Basically you treat the trade as though it had not been closed and re-open it in 
+the direction that it would now be heading if it had been left open over the 
+weekend – or not at all if it would have been stopped out, in which case you are 
+now waiting for a new setup.
+And that’s it!
+The next step is to carefully work your way through:
+• The instructions posted on Post 1 of the 4hr 5EMA thread.
+• Posts 2, 6, 7, 8, 23, 29 & 36
+At the time of writing the thread is about 1020 posts long – this is about 2 days 
+worth of reading and could well be the most profitable 2 days work that you can 
+do!
+Please note, these instructions were written in order to clarify some points in 
+Sterling’s original posted rules, expand on some of the areas that seemed to be 
+frequently questioned in the thread, and to provide some worked examples.
+If any of the rules contradict or appear to contradict those posted by Sterling, 
+both now and in the future, Sterling’s posted rules apply.
+This document has been written purely for educational use and does not 
+constitute a recommendation in any form to use this system; the author accepts 
+no responsibility for any losses incurred as a result of the use of this document or 
+the system described.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Sterling'in 4 Saat 5 EMA Sistemi
+1. Grafik Kurulumu
+GBP/USD Grafiğini 4 Saatlik Zaman Dilimine Ayarla
+1.1 Fiyatın YÜKSEK değerine (5 EMA Yüksek) 5 periyot olarak ayarlanmış bir Üstel Hareketli 
+Ortalama yerleştirin
+1.2 Fiyatın Düşük noktasına (5 EMA Düşük) 5 periyot olarak ayarlanmış bir Üstel Hareketli 
+Ortalama yerleştirin
+2. Kurulum Çubuğu
+Kurulum çubuğu, 4 saatlik süre içerisinde fiyat hareketi 5 EMA Yüksek seviyesini aşmış veya 
+5 EMA Düşük seviyesinden 5 pip veya daha fazla düşük kalmış bir mum veya çubuktur.
+Bu fiyat hareketi 5 EMA'yı geçmiş olabilir veya tüm dönem boyunca 5 EMA'nın tamamen 
+dışında gerçekleşmiş olabilir.
+Fiyatın 5 EMA Yüksek seviyesini aşması veya yukarısı, kısa veya satış işlemi için bir kurulum sağlar Fiyatın 
+5 EMA Düşük seviyesini aşması veya aşağısı, uzun veya alım işlemi için bir kurulum sağlar
+Bunun tek istisnası, bir çubuğun periyot içerisinde 5 EMA'nın her ikisini de ihlal etmesidir.
+Aşağıdaki örneklere bakın
+2.1 Örnek–Barların Tanımlanması
+2
+2
+2
+4
+4
+1
+3
+4 3
+1
+1. Uzun kurulum çubuklarının örnekleri. Fiyat tamamen 5 EM'nin altında olabilir 1 A, arasında başla
+EMA'ların dışına çıkıp aşağı doğru hareket edebilir veya EMA'ların dışında başlayıp yukarı doğru hareket edebilir.
+Fiyatın 5 EMA düşük seviyesine dokunması gerekmiyor
+2. Kısa kurulum çubuklarının örnekleri. Fiyat 5EMA'nın tamamen üzerinde olabilir, EMA'lar arasında başlayıp 
+yukarı doğru hareket edebilir veya EMA'ların dışında başlayıp aşağı doğru hareket edebilir. Fiyatın 5 EMA 
+zirvesine dokunması gerekmiyor
+3. Kurulum olarak nitelendirilmeyen bar örnekleri. Bunlar ya dönem boyunca EMA'lar 
+arasında tamamen yer alır ya da EMA'ları (yüksek veya düşük) 5 pip'ten fazla aşmaz.
+4. Fiyat hareketinin dönem içerisinde her iki EMA'yı da aşması veya eşit olması (yani her iki EMA'ya 
+da sadece dokunması) nedeniyle kurulum olarak nitelendirilemeyen çubuk örnekleri
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Not – grafikte gösterilen her çubuk 1, 2, 3 veya 4 tipindedir ancak hepsi 
+etiketlenmemiştir!
+Ayrıca şunu unutmayın - bu ve gösterilen diğer örneklerde, iki 5 EMA 'zarf' satırı dışındaki 
+tüm satırları göz ardı edin - bunlar bu sistemle ilgili değildir.
+2.2 Uzun bir emir için kurulum çubuğunun kapanışında
+• Bir satın alma durdurma emri, kurulum çubuğunun en yüksek seviyesinin üzerindeki 5 pip artı 
+aracınızın spread'ine yerleştirilir
+• Kurulum çubuğunun en düşük seviyesinin 5 pip altına bir koşullu zarar durdurma emri yerleştirilir 
+(yani, yalnızca satın alma durdurma emri etkinleştirilirse etkinleştirilecek bir zarar durdurma emri)
+2.3 Kısa bir emir için Kurulum çubuğunun kapanışında
+• Satış durdurma emri, kurulum çubuğunun en düşük seviyesinin 5 pip altına yerleştirilir
+• Koşullu bir zarar durdurma emri, kurulum çubuğunun en yüksek seviyesinin üzerine 5 pip artı 
+brokerinizin spread'ine yerleştirilir (yani, yalnızca satış durdurma emri etkinleştirilirse 
+etkinleştirilecek bir zarar durdurma emri)
+2.4 Uzun bir kurulum çubuğu durumunda, çubuk aşağıdaki gibi olacaktır:
+• Yeni uzun kurulum çubuğu
+O Yeni bir uzun kurulum çubuğu olarak nitelendirilebilmesi için önceki çubuktan daha düşük bir düşüklüğe 
+sahip olması gerekir
+• Bir geri dönüş çubuğu
+O Bir geri dönüş çubuğu olarak nitelendirilebilmesi için, yüksekliğinin kurulum çubuğunun yüksekliğini 
+5 pip artı Spread'den fazla olması gerekir - Geri Dönüş Çubuklarını bir sonraki bölümde ayrıntılı 
+olarak ele alacağız
+• Başarısız Bir Tersine Dönüş Çubuğu
+O Başarısız bir geri dönüş çubuğu, kurulum çubuğundaki durdurma emrini doldurmayan 
+ancak kurulum çubuğundan daha düşük bir dip oluşturmayan bir çubuktur
+2.5 Kısa kurulum çubuğu durumunda, çubuk aşağıdaki gibi olacaktır:
+• Yeni kısa kurulum çubuğu
+O Yeni bir kısa kurulum çubuğu olarak nitelendirilebilmesi için önceki çubuktan daha yüksek bir 
+yüksekliğe sahip olması gerekir
+• Bir geri dönüş çubuğu
+O Bir geri dönüş çubuğu olarak nitelendirilebilmesi için, düşük seviyesi kurulum çubuğunun düşük 
+seviyesinden en az 5 pip düşük olmalıdır - geri dönüş çubuklarını bir sonraki bölümde ayrıntılı olarak 
+ele alacağız
+• Başarısız bir geri dönüş çubuğu
+O Başarısız bir geri dönüş çubuğu, kurulum çubuğundaki durdurma emrini doldurmayan 
+ancak kurulum çubuğundan daha yüksek bir tepe oluşturmayan bir çubuktur.
+Başarısız geri dönüş çubuklarını 5. Bölümde daha detaylı olarak ele alacağız.
+2.6 Not:
+Çoğu broker spread'i alış veya teklif fiyatına ekler. Bu spread her işlem için yalnızca bir kez 
+eklenir (alıştan sonra sat veya satıştan sonra al işlemlerinden oluşan bir işlem). Bu nedenle, 
+spread 3 pip ise, piyasa fiyatından bir pozisyon satarsınız ancak piyasa fiyatı artı spread 
+üzerinden bir pozisyon satın alırsınız.
+Bazı aracı kurumlar alış/satış fiyatlarını piyasa fiyatının her iki tarafında da belirtir; eğer 
+durum böyleyse emirlerinizi ve zarar durdurma pozisyonlarınızı verirken bu hesaplamayı 
+hesaba katmalısınız.
+3. Ters Çevirme Çubuğu
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+3.1 Geri dönüş çubuğu, kurulum çubuğuna yerleştirilen alım veya satım stop emrini dolduran 
+çubuktur.
+• Uzun emir için geri dönüş çubuğunun kurulum çubuğunun en yüksek seviyesini en az 5 pip artı 
+spread'iniz kadar aşmış olması gerekir.
+• Kısa emir için geri dönüş çubuğunun kurulum çubuğunun en düşük seviyesinden en 
+az 5 pip aşağıda olması gerekir.
+3.2 Uzun veya kısa emir tetiklendiğinde, koşullu zarar durdurma emri otomatik olarak 
+tetiklenir.
+3.3 Bazen geri dönüş çubuğu, yukarı doğru ilerleyip emri tetiklemeden önce kurulum 
+çubuğundan daha düşük bir dip oluşturabilir (uzun pozisyon için); bu durumda geri dönüş 
+çubuğu kapandığında, zarar durdurma pozisyonu geri dönüş çubuğunun dip noktasının 5 
+pip altına manuel olarak ayarlanmalıdır.
+3.4 Kısa pozisyon için bunun tersi geçerlidir ancak bu durumda stop loss, geri dönüş çubuğunun 
+en yüksek seviyesinin üzerine 5 pip artı spread'e taşınmalıdır çünkü bu pozisyonu kapatmak için 
+bir buy stop emri olacaktır.
+3.5 Zarar durdurma emri yalnızca geri dönüş çubuğu uzun kurulum çubuğundan daha düşük bir dip veya 
+kısa kurulum çubuğundan daha yüksek bir tepe geliştirmişse ayarlanır.
+3.6 Bir diğer nadir durum ise emrin doldurulması, otomatik stop loss pozisyonunun 
+oluşturulması ve ardından fiyatın stop loss üzerinden geri dönüp pozisyonunuzu 
+kapatmasıdır. Bu talihsiz bir durumdur ve şimdi yeni bir kurulum çubuğu beklemeli ve 
+süreci tekrar başlatmalısınız.
+4. Ters Sipariş
+4.1 Geri dönüş çubuğu kapandığında, geri dönüş mumunun karşı ucuna koşullu bir zarar 
+durdurma emri ve zarar durdurma emriyle aynı seviyeye bir geri dönüş durdurma emri 
+yerleştirilir.
+Böylece, eğer fiyat şimdi stop loss seviyenizden tersine dönerse, ters yönde bir stop emri 
+tetiklenir ve otomatik olarak ters dönüş çubuğunun diğer ucuna yeni bir stop loss 
+yerleştirilir.
+Bu çubuğun kapanışında, stop loss artık fiyatın tersine dönmeden önce ulaştığı maksimum 
+değerin (kısa pozisyon için) veya minimum değerin (uzun pozisyon için) 5 pip (artı bir alış 
+stopu için spread) arkasına taşınır.
+Bazen bu, stop loss'un açılış seviyesinden uzağa taşınmasıyla sonuçlanacaktır.
+Aşağıdaki örneğe bakın
+4.2 Örnek–Normal Uzun Sipariş Süreci
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Koşullu Zarar Durdurma
+Tersine Satış seviyesi
+Durdurma Emri
+Kurulum çubuğu kapandığında 
+Stop Emri seviyesini satın alın
+Koşullu Zarar Durdurma
+Buy Stop Emri için 
+seviye
+Ters Satış Durdurma Emri seviyesi, ters 
+çubuğu kapandıktan sonra yerleştirilir1 2
+1. Uzun emir için kurulum çubuğu - 5 EMA Düşük seviyesi 5 pipten fazla aşıldı.
+• Bu barın kapanışında, barın en yüksek seviyesi + 5 pip + spread üzerinden stop 
+emri yerleştirin.
+• Barın en düşük seviyesinin 5 pip altına yerleştirilen koşullu zarar durdurma emri.
+2. Geri dönüş çubuğu – satın alma durdurma emri tetiklendi ve koşullu durdurma kaybı, 
+kurulum mumunun düşük seviyesinin 5 pip altında otomatik olarak girildi
+• Bu çubuğun kapanışında, şu anda aktif olan zararı durdurma seviyesiyle aynı seviyede 
+bir satış durdurma emri verin
+• Şu anda kapalı olan geri dönüş mumunun yüksekliğinin 5 pip + spread üzerine 
+yerleştirilmiş koşullu zarar durdurma emri
+1 2
+1. Kısa sipariş kurulum çubuğu – bu, önceki örnekte gördüğümüzle aynıdır ancak tersidir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+2. Geri dönüş çubuğumuz, satış durdurma emrini tetiklemeden önce kurulum çubuğundan daha yüksek 
+bir tepe yapar (1 ve 2 numaralı çubuklar arasındaki kısa kırmızı çubuğu bir an için görmezden 
+gelin).
+• Geri dönüş çubuğunun kapanışında, zarar durdurma emri manuel olarak 5 pip'e 
+ayarlanır - artı bu bir kapanış emri olduğu için spread'iniz - geri dönüş 
+çubuğunun yüksekliğinin üzerine
+• Daha sonra geri dönüş emri, bu stop loss emriyle aynı seviyeye yerleştirilir ve koşullu 
+stop loss emri, geri dönüş çubuğunun en düşük seviyesinin 5 pip altına yerleştirilir.
+4.5 Not
+Fiyat, satış durdurma emri seviyesini tetikleyecek şekilde düşmüş olsaydıönceÇubuğun 
+tepesine doğru ilerlerken, stop loss da tetiklenmiş olurdu ve artık açık emrimiz olmazdı.
+Bu durumda bir sonraki kurulum çubuğuna kadar beklememiz gerekir. Gösterilen 
+örnekte, bu, takip eden yeşil çubuk tarafından uzun bir pozisyon için etkinleştirilen 
+'2' işaretli çubuktan sonraki kırmızı çubuktur.
+4.6 Ayrıca Not Edin
+Kurulum çubuğu 1'den sonra, kurulum çubuğunun yüksekliğinden daha yükseğe çıkmayan ve satış 
+durdurma emrini tetiklemeyen kısa bir kırmızı çubuğumuz var; bu başarısız bir geri dönüş çubuğudur ve bu 
+nedenle göz ardı edilir. Başarısız kurulum çubuklarına ve bunlarla nasıl başa çıkılacağına kısa bir süre sonra 
+geleceğiz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+4.7 Kuralın istisnası
+Ters emir yerleştirme kuralının tek bir istisnası vardır ve bu da emrin tam bir zarar durdurma 
+emri nedeniyle açılması ve bunun sonucunda ters emrin tetiklenmesi durumudur; bu 
+durumda başka bir ters emir yerleştirilmez.
+Bu kural, yalnızca bir emrin açılışı ile stop loss nedeniyle kapanışı arasında geçerli bir kurulum 
+çubuğu olmaması durumunda geçerlidir.
+Bu ters emirden stop loss seviyesine ulaşıldığında, işlemden çıkmış oluruz ve yeni bir kurulum için 
+beklememiz gerekir.
+Açılışından sonra geçerli bir kurulum çubuğu varsa, ters stop emirleri ve koşullu stop loss 
+emirleri normal şekilde bu yeni kurulum çubuğuna yerleştirilir.
+Aşağıdaki 4. ve 10. ölçülere ilişkin örneğe bakın.
+4.8 Örnek–Stop Loss'ların Takip Ettiği Emirler
+od
+tepe
+2
+3
+5
+8
+9
+1 10
+4
+6
+7
+1. Satın alma kurulum çubuğu; önceki iki çubuğun da satın alma kurulum çubukları olduğunu ancak '1' 
+çubuğunun, 5 pip artı spread üzerine yerleştirilmiş satın alma durdurma emrini dolduran bir geri 
+dönüş çubuğunun takip ettiği ilk çubuk olduğunu unutmayın.
+2. Ters dönüş çubuğu – kurulum çubuğunun üzerine yerleştirilen satın alma durdurma emrini doldurur ve 
+ardından '1' çubuğundan 5 pip aşağıya indiğinde durdurulur. Ancak, kendisi bir satın alma kurulum 
+çubuğudur, bu nedenle kapandığında üzerine yeni bir satın alma durdurma emri ve koşullu zarar 
+durdurma emri yerleştirilir.
+3. '2' çubuğuna yerleştirilen buy stop emrini dolduran ters bar. Ters satış stop emri, en 
+yüksek noktasının 5 pip üzerindeki artı spread'de koşullu stop loss ile 
+kapandığında, 5 pip altına yerleştirilir.
+4. 4. çubuk zarar durdurma noktasına çarpar ve '3' çubuğunun altına yerleştirilen satış durdurma emrini 
+tetikler. Not – yukarıdaki 4.7 noktasına bakın – Kuralın istisnası; bu satış emri tam bir zarar 
+durdurmanın sonucu olduğundan, bu çubuk kapandığında üzerine ters alım durdurma emri 
+yerleştirilmez.
+5. 5. Çubuk bir alış kurulum çubuğudur, kapandığında bir alış stop emri 5 pip artı 
+üstüne spread konur, koşullu stop loss ise 5 pip altına yerleştirilir.
+6. 6. çubuk yeni bir satın alma kurulum çubuğudur (çünkü '5' çubuğundan daha düşük bir dip yapar), 
+kapandığında bir satın alma durdurma emri 5 pip artı bunun üstüne spread yerleştirilir, koşullu zarar 
+durdurma emri 5 pip altına yerleştirilir (not: bu satın alma durdurma emri artık satış emrimizden elde edilen 
+karı kilitlemiştir).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+7. 7. çubuk yeni bir alış kurulum çubuğudur ('6' çubuğundan daha düşük bir dip yaptığı için), 
+kapandığında bir alış stop emri 5 pip artı üstüne spread konur, koşullu stop loss ise 5 pip 
+altına yerleştirilir.
+8. '7' çubuğuna yerleştirilen buy stop emrini dolduran Ters Bar. Ters satış stop emri, en 
+yüksek noktasının 5 pip üzerindeki artı spread'de koşullu stop loss ile 
+kapandığında, 5 pip altına yerleştirilir.
+9. Ticaret devam çubuğu
+10. 10. çubuk zararı durdurma noktasına ulaşır ve '9' çubuğunun altına yerleştirilen satış durdurma 
+emrini tetikler. Not – yukarıdaki 4.7 noktasına bakın – Kuralın istisnası; bu satış emri tam bir zararı 
+durdurmanın sonucu olduğundan, bu çubuk kapandığında üzerine ters alım durdurma emri 
+yerleştirilmez.
+5.0 Ticaret Yönetimi
+Giriş kurallarına baktığımıza göre şimdi ticaretin yönetimi ve çıkış sürecine bakmanın 
+zamanı geldi.
+5.1 Açık bir pozisyonun yönetimi, her 4 saatlik periyodun kapanışında grafiğe bakmak, 
+oluşan yeni çubuğu incelemek ve varsa uygun eylemi gerçekleştirmekten ibarettir.
+'İdeal' işlemde, bir geri dönüş çubuğu stop emrimizi tetikleyecektir, bir geri dönüş stop emri
+ersal bar. Bu
+n tam tersi
+, ile yerleştirilecek, 
+karımız bir tersine 
+dönüşle elde edilecek
+4
+3
+1 2
+1. Uzun kurulum çubuğu
+2. Geri dönüş çubuğu – bu çubuğun kurulum çubuğundan daha düşük bir dip yaptığını ve bu nedenle 
+stop loss'unun çubuğun kapanışında manuel olarak düşük seviyesinin 5 pip altına ayarlanacağını 
+unutmayın
+3. Ardışık kısa kurulum çubukları. Her çubuğun kapanışında, çubuğun düşük seviyesinin 5 
+pip altına kısa bir stop emri yerleştirilir ve çubuğun yüksek seviyesinin 5 pip artı 
+spread'inin üzerine bir koşullu stop emri yerleştirilir. Bu şekilde kar, tersine dönüş 
+Çubuğu '2'den sonraki altıncı çubuğun kapanışında kilitlenir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+4. Önceki satış kurulum çubuğuna yerleştirilen satış durdurma emrini dolduran geri dönüş çubuğu.
+5.3 Başarısız Ters Dönüş Çubukları
+Bölüm 2'de başarısız ters barlarla karşılaştık. Burada bunlara daha detaylı bakacağız.
+Bölüm 3'te belirtildiği gibi, geri dönüş çubuğu, kurulum çubuğuna yerleştirilen durdurma emrini dolduran bir 
+çubuktur.
+Ayrıca, Bölüm 1'de belirtildiği gibi, bir kurulum çubuğu, fiyat hareketinin çubuk periyodunun bir kısmında veya 
+tamamında 5 EMA'nın 5 pip veya daha fazla dışında gerçekleştiği çubuktur (kısa kurulum için 5 EMA yüksekliği 
+ve uzun kurulum için 5 EMA düşüklüğü)
+Ardışık bir kurulum çubuğu için, önceki kurulum çubuğundan daha düşük bir düşük (uzun bir kurulum için) 
+veya daha yüksek bir yüksek (kısa bir kurulum için) yapması gerekir.
+Yeni bir kurulum çubuğu haline gelemezse ve kurulum çubuğuna yerleştirilen durdurma emrini 
+dolduramazsa buna başarısız geri dönüş çubuğu denir.
+Eğer takip eden çubuk da durdurma emrini dolduramazsa, ancak kurulum çubuğundan daha düşük bir dip 
+(uzun kurulum için) veya daha yüksek bir tepe (kısa kurulum için) yapmazsa - önceki başarısız geri dönüş 
+çubuğundan daha düşük bir dip veya daha yüksek bir tepe yapmış olsa bile - o zaman bu da başarısız bir 
+kurulum çubuğudur.
+İki başarısız geri dönüş çubuğunun ardından, önceki kurulum çubuğuve iki başarısız kurulum
+2
+5
+1
+6
+3 4
+1. Kısa kurulum çubuğu
+2. Uzun kurulum çubuğuna dönüşen ters bar
+3. Bar, '2' barının üstüne yerleştirilen satın alma durdurma emrini dolduramıyor ancak '2' barından daha düşük bir 
+dip oluşturamıyor. Bu başarısız bir geri dönüş barıdır.
+4. Bar, '2' barının üstüne yerleştirilen buy stop emrini dolduramaz ancak '2' barından daha düşük bir 
+dip yapamaz. Bu, ikinci başarısız ters bardır. Unutmayın, bu bar 3 barından daha düşük bir dip 
+yapmış olsa bile ancak 2 barından yapmamış olsa bile, yine de yeni bir uzun kurulum barı olmazdı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+5. 2 ardışık başarısız ters barımız oldu, bu yüzden artık önceki tüm barları görmezden 
+gelebiliriz. Bu bar 5 EMA düşük seviyesini 5 pipten fazla kırıyor ve bu yüzden artık yeni 
+uzun kurulum barımız.
+6. Bu serideki ilk çubuk, uzun kurulum çubuğu '5'in en yüksek seviyesini kıramazsa, endeks aşağı 
+doğru hareket ederek bizi orijinal işlemlerimizde tutan yeni ardışık uzun kurulum çubukları 
+oluşturur.
+5.5 Bir işlemin manuel olarak kapatılmasının sadece iki durumu vardır.
+5.6 %50 Çıkış Kuralı
+Ardışık kurulum çubuklarını takiben, her ardışık kurulum çubuğuna yerleştirilen durdurma 
+emirlerinin işlemimizdeki karları kilitlediği görülebilir. Ancak ardışık iki başarısız ters dönüş 
+çubuğumuz olduğunda, durdurma kaybımızı koyacak hiçbir yerimiz olmaz ve bu nedenle 
+karımızı kaybetme riskimiz olur.
+Bu durumda, giriş seviyesinden bu yana maksimum pip sayısı 150 veya daha fazla olmuşsa, 
+maksimum pip sayısının %50'si oranında stop loss emri uygulanır.
+Not – bu yalnızca bir zararı durdur emridir, ters bir zararı durdur emri değildir. Mevcut zararı durdur emirleri 
+iptal edilir ve bu zararı durdur emrine ulaşılırsa, bir işlemden çıkmış oluruz ve yeni bir kurulum çubuğu 
+bekleriz.
+İkinci Başarısız kurulum çubuğu kapandığında, endeks bu %50 seviyesini çoktan geri 
+çekmişse, işlem hemen kapatılır ve yeni bir
+2
+3
+1
+1. Giriş seviyesi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+2. İki başarısız geri dönüş çubuğu. Bu noktada endeksin kâra geçtiği maksimum değer 174 
+piptir - stop loss bu değerin %50'sine, 87 pip, bu maksimum değerin altına yerleştirilir
+3. Emir durduruldu ve şimdi yeni bir kurulum çubuğu bekliyoruz.
+5.5 Hafta Sonu Çıkışı.
+Endeksin 'boşluk açma' (yani kapanış seviyesinden önemli ölçüde farklı bir seviyeden 
+açılma) riski nedeniyle hafta sonu hiçbir işlem açık bırakılmıyor.
+Cuma günü işlem süresinin bitimine 5 dakika kala pozisyon kapatılır
+1. Eğer gelecek haftanın seansının başında bir değişiklik olmazsa, hemen aynı yönde işlemi 
+tekrar açın.
+2. Önceki haftanın kapanış barı diğer yönde bir işlem için kurulum oluşturuyorsa, eğer bir 
+boşluk o kurulum barından giriş seviyesini geçerse, işlemi yeni yönde açın.
+3. Eğer fiyat, bir önceki haftanın sonunda stop loss ve Ters Stop Emrinizin olduğu yerden 
+daha fazla boşluk bırakırsa, stop emriniz tetiklenmiş gibi yeni yöne yeniden girin.
+4. Yukarıdaki 4.7 koşulunun bir sonucu olarak, pozisyonda ters durdurma emri yoksa ve 
+piyasa açılışta,
+Stop Loss ise, hiçbir pozisyon açılmaması ve yeni bir kurulum barının beklenmesi gerektiğidir.
+Temel olarak, işlemi hiç kapatılmamış gibi ele alıp, hafta sonu açık bırakılmış olsaydı 
+gideceği yönde yeniden açıyorsunuz - veya durdurulmuş olsaydı hiç açmıyorsunuz, bu 
+durumda artık yeni bir kurulum bekliyorsunuz.
+Ve işte bu kadar!
+Bir sonraki adım, dikkatli bir şekilde ilerlemektir:
+• Talimatlar 4 saatlik 5EMA başlığının 1. Mesajında   yayınlanmıştır.
+• Gönderiler 2, 6, 7, 8, 23, 29 ve 36
+Yazıldığı tarihte konu yaklaşık 1020 mesaj uzunluğundaydı - bu yaklaşık 2 günlük okuma 
+anlamına gelir ve yapabileceğiniz en karlı 2 günlük çalışma olabilir!
+Lütfen dikkat edin, bu talimatlar Sterling'in orijinal olarak yayınladığı kurallardaki bazı 
+noktaları açıklığa kavuşturmak, başlıkta sıkça sorulan bazı alanları genişletmek ve bazı 
+çözülmüş örnekler sunmak amacıyla yazılmıştır.
+Eğer bu kurallardan herhangi biri Sterling'in yayınladığı kurallarla çelişiyorsa veya çelişiyor gibi görünüyorsa, 
+hem şimdi hem de gelecekte Sterling'in yayınladığı kurallar geçerli olacaktır.
+Bu belge tamamen eğitim amaçlı yazılmıştır ve bu sistemin kullanılması yönünde herhangi 
+bir tavsiye teşkil etmemektedir; yazar, bu belgenin veya açıklanan sistemin kullanımı sonucu 
+ortaya çıkabilecek herhangi bir kayıptan sorumlu değildir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

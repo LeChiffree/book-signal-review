@@ -1,0 +1,1722 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 7\Baskı 7\Düşük Risk Yüksek Kazanç Trading Stratejileri - Trading Pub (69 sayfa) - @eseckal.pdf
+PAGES: 69
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+Bu Kitaptan En İyi Şekilde Nasıl Yararlanabilirsiniz?
+Bu kitap başlangıç, orta ve ileri seviyedeki yatırımcılar için tasarlanmıştır. Bu kitabın yazarları, opsiyon ve hisse senedi alım 
+satımı konusunda önde gelen uzmanlardır.
+Bu kitabı okurken, başarı olasılığı yüksek ve/veya kârı yüksek olan birden fazla stratejiyle 
+karşılaşacaksınız. Bu kitaptaki stratejilerin çoğu üç bölüme ayrılmıştır:
+• “Oyun planı"–Grafik tekniğine giriş. Daha sonra strateji resimler ve 
+örneklerle birlikte ayrıntılı bir şekilde açıklanır.
+• "Özel teklifler"–Bir stratejiyi gerçekten seviyorsanız sunum yapan kişiyi ve 
+stratejiyi takip edebilirsiniz. Binlerce dolar değerinde alım satım araçları, 
+göstergeler, eğitim ve mentorluk hizmetleri, kitaplar ve videolar oldukça 
+indirimli fiyatlarla mevcuttur.
+Kısacası, yarın yeni favori stratejinizle işlem yapmak için ihtiyacınız olan tüm bilgilere sahip olacaksınız. Bu 
+kitapta öğreneceğiniz şeylerden bazıları şunlardır:
+• Herhangi Bir Seçenek Stratejisinin Güvenilir Bir Şekilde Geriye Dönük Testi Nasıl Yapılır?
+• Ticaret İçin En İyi Seçenekleri Belirlemek İçin 5 Adım
+• Warren Buffett Satın Almak İstediği Hisse Senetlerini Nasıl Belirliyor?
+• Seçeneklerle Kurumsal Kazanç Raporlarından Nasıl Yararlanılır?
+• Olağandışı Opsiyon Faaliyetlerini Tespit Etmek İçin Sipariş Akışı Nasıl Kullanılır?
+Şu tarihte:www.TradingPub.com Bu kitabı okumayı bitirdiğinizde kullanabileceğiniz çeşitli stratejileri 
+ortadan kaldırmanızı içtenlikle umuyoruz. Ayrıca halihazırda ticaret yapmadığınız piyasalar hakkında bilgi 
+edinecek ve bunların ticaret kişiliğinize uygun olup olmadığını öğreneceksiniz.
+Son olarak abone olmayı unutmayınwww.TradingPub.com . Biz sağlıyoruzözgürTüm piyasalardaki 
+aktif yatırımcılar için e-Kitaplar, web seminerleri, isteğe bağlı videolar ve diğer birçok yayın. 
+Sunucularımız dünyaca ünlü endüstri uzmanlarıdır ve içeriğimiz rahat ve samimi bir ortamda ücretsiz 
+olarak sağlanmaktadır. Ticaret başarınız için şerefe!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+İçindekiler
+OLAĞANÜSTÜ SEÇENEKLER AKTİVİTESİ İÇİN OKUMA SİPARİŞ AKIŞI: 
+SEÇENEKLER NELERDİR VE OKUMA SİPARİŞ AKIŞI NEDEN ÖNEMLİDİR?
+9
+Yazan: James Ramelli, AlphaShark.com
+HER ÇEYREKTE PLANLANMIŞ SEÇENEKLER MAAŞ 
+GÜNÜ STRATEJİSİ
+19
+Yazan: Christopher Irvin, MarketTraders.com
+FİYAT HAREKETİ İLE 5 BASİT ADIMDA PİYASADA YÜKSEK KÂRLI 
+BİR İŞLEM AVANTAJI NASIL YARATABİLİRSİNİZ?
+30
+Johnathon Fox tarafından, ForexSchoolOnline.com
+DÜŞÜK RİSK / YÜKSEK OLASILIKLI SEÇENEKLER TİCARET STRATEJİLERİ 39
+Yazan: Michael McNelis, DelphianTrading.com
+hacim ve fiyatı kullanarak piyasaları tahmin etmek 47
+Yazan: Nigel Hawkes, HawkeyeTraders.com
+EN İYİ PAZARLIK AVCI 59
+Yazan: Charles Mizrahi, InsiderWealthAlert.net
+İkili Opsiyonlarla Ham Petrol ve Doğal Gaz 
+Haberleri Ticareti
+69
+Yazan: Cam White, TradingPub.com
+7www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Olağandışı Opsiyonlar İçin Okuma Talimatı Akışı Etkinliği: 
+Seçenekler Nelerdir ve Okuma Talimatı Akışı Neden Önemlidir?
+Yazan: James Ramelli, AlphaShark.com
+Opsiyon, alıcı ile satıcı arasında yapılan bir sözleşmedir. İki tür seçenek vardır: alımlar ve 
+satımlar.
+Çağrılar, alıcıya belirli bir hisse senedini veya finansal aracı ("dayanak") belirli bir fiyattan ("kullanım 
+fiyatı") belirli bir tarihte veya öncesinde ("son kullanma tarihi") satın alma hakkını verir, ancak bu 
+yükümlülüğü getirmez. Alıcının, dayanak varlığı kullanım fiyatından satın alma hakkı vardır ve satıcının, 
+bu koşulların karşılanması durumunda dayanak varlığı satma yükümlülüğü vardır, ancak bu hakkı 
+yoktur.
+Satımlar, alıcıya, dayanak varlığı vade bitiminde veya öncesinde kullanım fiyatından satma hakkını verir, ancak 
+bunu zorunlu kılmaz. Satım alıcıları, dayanak hisse senedini (veya başka bir enstrümanı) vade tarihinde veya 
+öncesinde kullanım fiyatından satma hakkına sahiptir ancak bu yükümlülüğe sahip değildir. Alternatif olarak, satım 
+satıcıları, alıcının bu hakları kullanmayı seçmesi durumunda dayanak varlığı kullanım fiyatından satın almakla 
+yükümlüdür.
+Peki bu seçeneklerin nasıl fiyatlandırılacağını hangi faktörler belirliyor? Altı faktör veya fiyat girdisi bir 
+"premium" seçeneğini belirler:
+1. Hisse senedi fiyatı
+2. Opsiyonların kullanım fiyatı
+3. Sona ermeye kalan süre
+4. Temettüler
+9www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+5. Faiz oranları
+6. İma edilen oynaklık.
+Genel olarak, belirli bir hisse senedinin fiyatı günlük veya haftalık bazda ne kadar çok dalgalanırsa, 
+opsiyonları da o kadar pahalı olacaktır ve bunun tersi de geçerlidir. Opsiyonlar genellikle kazanç 
+raporları ve diğer önemli duyurulardan önce daha pahalı olma eğilimindedir, ancak duyurudan sonra 
+"belirsizlik" ortadan kaldırıldığında fiyatlar keskin bir şekilde düşer. Bunun güzel bir örneği biyoteknoloji 
+stokları ve ilaç duyurularıdır.
+Opsiyonlar iki nedenden biriyle alınıp satılır: spekülasyon olarak veya bir hisse senedi pozisyonuna karşı korunmak 
+için.
+Opsiyonlar, hisse senedinin belirli bir yönde hareket edeceğine dair spekülasyon olarak satın alınır. Bir tüccar hisse 
+senedinin vade bitiminden önce yükseleceğine inandığı için alımlar satın alınabilir. Alternatif olarak, tüccar hisse 
+senedinin vade bitiminden önce daha düşük bir değere hareket edeceğine inandığı için satım opsiyonları satın 
+alınabilir.
+"Karda", "karda" ve "karda" terimleri, bir opsiyonun kullanım fiyatı ile dayanak varlığın fiyatı 
+arasındaki ilişkiyi tanımlamak için kullanılır. Hisse senedi fiyatı kullanım fiyatının üzerinde 
+olduğunda bir alım kârdadır. Alternatif olarak, hisse senedi fiyatı kullanım fiyatının altında 
+olduğunda bir çağrının parası bitmiş demektir. Tahmin edebileceğiniz gibi, eğer bir alım kârdaysa 
+kullanım fiyatı hisse senedi fiyatına eşittir.
+Satımlara bakıldığında bunun tersi doğrudur: Hisse senedi fiyatı kullanım fiyatının 
+üzerindeyse, satımın kârda olduğu kabul edilir. Kullanım fiyatı hisse senedi fiyatının 
+altındaysa satım parasız sayılırken, kârda tanımı alımlarla aynıdır.
+Hisse senedi pozisyonlarına karşı korunmak için de opsiyonlar satın alınır. Her gün 2.000'den fazla işlemin 
+gerçek zamanlı olarak kaydedilmesini izliyorum. Her zaman şunu belirlemeye çalışırım: Bu emirler bir hisse 
+senedi pozisyonuna karşı koruma mı, yoksa spekülatif bir oyun mu? Sahada ticaret yaparak geçirdiğim on bir 
+yılda, "Kaseti Okumayı" öğrendim.
+10www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Kesinlikle sanat ve bilimin bir birleşimi, yıllar içinde geliştirdiğim bir beceri. Ticaret stratejimin büyük bir 
+kısmı bunu yapabilme yeteneğime dayanıyor. "Olağandışı opsiyon faaliyeti" olarak adlandırılan büyük 
+blok opsiyon emirlerini takip ederek Paper'ın pozisyonlarını belirlemeye çalışıyorum. “Kağıt”, emirlerin 
+aslında kağıt üzerine yazıldığı ve tezgahlarda tezgahtarlar tarafından tüccarlara iletildiği ticaret 
+katından kaynaklanan bir terimdir. Hedge fonları, yatırım fonları veya büyük bankalar gibi büyük 
+kurumları tanımlamak için kullanılır. Başka bir deyişle, ortalama tacir veya yatırımcınızdan daha iyi 
+bilgiye (hatta "içeriden" alınan bilgilere) erişimi olan kurumlar.
+Olağandışı opsiyon faaliyeti ile işlem yaparken, yalnızca spekülatif oyunlar olduğuna inandığım emirlere dayalı olarak 
+işlem yapmak istiyorum. Pozisyonlarının hassas ve hatta yasadışı doğası göz önüne alındığında, hedge fonları gizli bir 
+grup olma eğilimindedir. Dolayısıyla bu işlemlerin spekülatif mi yoksa riskten korunma amaçlı mı olduğunu belirlemek bir 
+yapbozun parçalarını bir araya getirmek gibidir.
+Başka bir şekilde ifade edelim: Raj Rajatnam veya SAC Capital'den Steve Cohen ile aynı işlemleri, 
+yapıldıkları anda alabilseydiniz? İçeriden öğrenenlerin ticareti nedeniyle hapse girerim 
+diyebilirsiniz? Çok hızlı değil.
+Bir emir kasete ulaştığı anda kamuya açık bilgi haline gelir. Bu kadar büyük bir bahis oynayan birinin içeriden 
+öğrenilen bilgilere erişimi olduğuna ve bunun tamamen %100 yasal olduğuna inandığım için bunu takas 
+edebilirim. Bu bir tartışma ya da spekülasyon meselesi değil, tanıdığınız herhangi bir SEC avukatına sorun. 
+Bu yüzden olağandışı opsiyon aktivitesinde işlem yapıyorum.İşte bu yüzden işe yarıyor.
+Olağandışı Opsiyonlar Faaliyet Ticaret Planı
+Kârlı bir tüccar olmanın hiçbir sırrı yoktur ve size aksini söyleyen herkese şüpheyle 
+yaklaşmalısınız. Yardım olarak bu metinde özetlediğim teknikler ticaret kariyerimde bana 
+çok iyi hizmet etti ve onlar olmasaydı kazandığım parayı kazanamazdım.
+Emir akışını okumak ve olağandışı opsiyon faaliyetlerini izlemek, tıpkı işlem salonunda olduğu gibi, 
+en kârlı tekniklerimden biri olmaya devam ediyor. AAPL'deki net kârımın bir milyon doların 
+üzerinde olduğu Apple hisselerinde çok kârlı iki yıl geçirdim. Bir yıl boyunca haftada bir kez,
+11www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Bir Merrill Lynch komisyoncusu çukura girip AAPL put spread'lerini satacaktı. Kısaltması "HES"ti ve 
+ne zaman onun geldiğini görsem, uzun pozisyon alıp oynaklığı satmam gerektiğini bilirdim. Nasıl 
+biliyordu? Hiçbir fikrim yok ama onu izleyerek pek çok karlı işlem yaptım.
+Sipariş akışını Ichimoku bulutu gibi teknik göstergelerle birleştirerek, OCRRBTT ticaret planımı, 
+yerden kârlı bir şekilde ticaret yapmak için tasarladım.
+OCRRBTT Ticaret Planı
+"Meşe Ribbit" olarak telaffuz edilen bu ticaret planı, olağandışı opsiyon faaliyetlerini kırmak için size adım adım bir 
+yöntem verecektir. Bu planla olağandışı işlemleri değerlendirdikten sonra, onu takip etmek veya ticareti tamamen 
+görmezden gelmek isteyip istemediğinize karar verebileceksiniz. Kısaltmadaki harfler şu anlama gelir:
+• Açık faiz
+• Çizelge
+• Risk
+• Ödül
+• Başa baş
+• Zaman
+• Hedef.
+Burada planda bu unsurların her birinin önemini göreceksiniz.
+Açık faiz:Bakmanız gereken ilk şey, işlem hacminin o hattaki mevcut açık pozisyonlardan daha büyük olup 
+olmadığıdır. Eğer öyleyse, bu, bunun bir açılış pozisyonu olduğu ve göz atmaya değer olduğu anlamına gelir. 
+Olağandışı faaliyetlere ilişkin bir opsiyonu, gerçekten sadece bir kısa devreyi kapsayan kağıttan ibaretse satın 
+almak istemezsiniz. Yalnızca hacmin açık pozisyonlardan daha büyük olduğu işlemleri değerlendirin
+12www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Çizelge:Bu da planın ikinci en önemli unsuru. Alışılmadık bir emrin açılış emri olduğu onaylandıktan 
+sonra dayanak hisse senedi grafiğine bakmalısınız. Soru sormanız gerekiyor. Hisse senedi güçlü bir 
+yükseliş veya düşüş eğiliminde mi? Kurumun ticaret yaptığı grevlerde destek veya direnç var mı? Daha 
+fazla yukarı veya aşağı yönlü spekülasyon yapma olasılıkları mı daha yüksek yoksa riskten korunma mı 
+yapıyorlar? Bu soruların yanıtları, işlemin spekülasyon mu yoksa riskten korunma amaçlı mı olduğunu 
+belirlemenize yardımcı olacaktır. Bu, kurumla gerçekten ticaret yapmak istediğinizde sizi kuruma karşı 
+ticaret yapmaktan alıkoyacaktır.
+Risk, Ödül ve Başabaş:İşlemin yönü belirlendikten sonra, kurumun gerçekleştirdiği işlemin 
+risk ve ödül profilinin sizin risk toleranslarınıza uygun olup olmadığını değerlendirmeniz 
+gerekir. Yaptıkları bazı işlemler ortalama bir perakende tüccar için çok riskli olabilir. Ancak 
+kurumun bahis yaptığı yönü bildiğiniz için, sizin için doğru risk kurulumuna sahip bir ticareti 
+özelleştirebilirsiniz. Her ticaretin riski, potansiyel ödüle göre de ölçülmelidir. Eğer kurum 1 
+dolar kazanmak için 5 doları riske atıyorsa, bu kaçınmak isteyeceğiniz bir ticarettir. Ayrıca her 
+bir işlemin başabaş noktasının daima farkında olmalısınız. Başabaş noktasında önemli bir 
+destek veya direnç varsa başka bir strateji düşünmek isteyebilirsiniz.
+Zaman ve hedef:Yakında olabilecek potansiyel katalizör olaylarının her zaman farkında olun. 
+Kağıdın hisse senedinin genel yönünde mi hareket ettiğini yoksa kazançlar, ilaç duyuruları veya 
+yeni ürün lansmanları gibi yakın vadeli bir katalizör olayı mı oynadığını bilmek istiyorsunuz. Bu, 
+ticareti alıp almama kararınızı etkileyebilir. Zaman ufkunuzu belirledikten sonra bir kâr hedefi 
+seçmek istersiniz. Bu ticareti vade sonuna kadar mı bırakıyorsunuz? Yarısını ikiye katlayıp geri 
+kalanını sürmeye mi bırakacaksınız? Bu soruların cevaplarını ticaretin başlangıcında bilmek, ileriye 
+dönük yönetimi kolaylaştırır.
+Planı Uygulamaya Koymak
+Bir alım satım kayda geçtiğinde, yatırımcının OCRRBTT alım satım planını kullanarak kurulumu analiz etmesi ve 
+bunun işlem yapılabilir bir alım satım fırsatını temsil edip etmediğini belirlemesi gerekir. Aşağıdaki örneğe bakalım 
+ve bunun gerçekten almak istediğimiz bir ticaret kurulumu olup olmadığına karar verelim. Bu emir 16 Haziran 
+2015'te kayda geçti.
+13www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Bu ticareti plan üzerinden yürütmeden önce sahip olduğumuz bilgileri anlamamız gerekiyor.
+Sipariş akışından pek çok bilgiye ulaşabiliyoruz. Bu tüccarın kaç tane sözleşme satın aldığını, 
+bunun 540.000$'lık bir bahis olduğunu ve bu opsiyonları satın alan tüccarın piyasa yapıcının 
+doldurma teklifi yoluyla ödeme yaptığını görebiliriz. Bütün bunlar bu ticareti ilginç kılsa da, yine de 
+bunun eyleme geçirilebilir bir kurulum olarak nitelendirilmemesi gerekiyor.
+Bu tespiti yapabilmek için bu ticareti OCRRBTT ticaret planını kullanarak değerlendirmeliyiz.
+Açık İlgi:Bu bir açılış pozisyonu muydu? Bu ticaret açılış olarak etiketlenmiştir, dolayısıyla bunun bir 
+açılış pozisyonu olduğuna şüphe yoktur. Herhangi bir nedenle işlem açılış olarak etiketlenmemiş 
+olsaydı, bunun 5.000 sözleşmelik hacminin yalnızca 796 sözleşmelik mevcut açık pozisyondan daha 
+büyük olması nedeniyle olduğunu yine de doğrulayabilirdik. Açık pozisyonların hacimden küçük olması 
+nedeniyle, bunun kapanış işlemi olması için yeterli sayıda açık sözleşme bulunmuyor. Açıldığı onaylandı.
+Çizelge:Grafik bu ticaretin riskten korunma amaçlı mı yoksa spekülatif bir bahis olma ihtimalinin daha yüksek olduğunu mu gösteriyor?
+14www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Hisse senedinin ana eğiliminin bunu spekülatif bir bahis olarak desteklediğini doğrulamamız gerekiyor. Aksi 
+takdirde, ticaret bir riskten korunma işlemi olabilir ve davaya konu olma olasılığı daha düşüktür. Bunu yapmak için 
+Ichimoku Bulutu adı verilen bir gösterge kullanacağız. Korkutucu görünebilir, ancak bu amaçla bir yatırımcının 
+yalnızca grafikteki gölgeli alanın üzerinde işlem gören herhangi bir şeyin güçlü yükseliş bölgesinde ve altındaki 
+herhangi bir şeyin düşüş bölgesinde olduğunu bilmesi yeterlidir.
+İşte bu çağrıların kasete kaydedildiği gün Ichimoku Bulutu'ndaki CAG grafiği:
+Hisse senedinin Ichimoku Bulutu üzerinde işlem gördüğünü ve yükseliş eğiliminde olduğunu 
+görebiliyoruz. Bu, bu emrin gerçekten spekülatif bir bahis olduğunu %100 kesinlikle doğrulamıyor 
+ancak durumun böyle olma ihtimalini çok daha artırıyor. Bu ticaretin spekülatif bir bahis olduğu 
+fikrini destekleyen trendle birlikte analizin bir sonraki bölümüne geçeceğiz.
+Risk ve Ödül:Potansiyel ödül riski haklı çıkarıyor mu? Bu, genellikle sıkıcı bir hisse senedi olan 
+çok büyük bir ticarettir. ConAgra (CAG) genellikle pek alışılmadık bir faaliyetle karşılaşmaz, bu 
+nedenle risk ve ödül kurulumu mantıklıysa bu, almak istediğimiz bir ticaret olabilir. Bu 
+doğrudan bir alımdır ve tüccar bu ticarette asla 1,08 dolardan fazla kaybedemeyeceğini bilir. 
+Bu, teknik olarak sınırsız bir artı ödül potansiyeli olan bir lot başına 108 $ risk anlamına gelir. 
+Bu, iyi bir risk-ödül kurulumu sağlar ve bir tüccar bu ticareti gerçekleştirebilir.
+15www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Başa baş:Bu düzende başabaş noktası nerede? Bu seçeneklerin parası bitti ve 1,08 dolara 
+satın alınıyor. Bu kullanım fiyatında, bu trader'ın başabaş noktası 40,08$ veya işlem 
+anındaki hisse senedi fiyatından yaklaşık %4,6 daha yüksek. Bu sadece %4,6 oranında 
+yukarı yönlü bir hareket. Bu mantıksız bir hareket değil. Bunu akılda tutarak kurulum 
+daha da çekici hale gelir.
+Zaman ve Hedef:Tüccar ne bekliyor? Bu ticarette, Temmuz ayı sonuna kadar en az %4,6'lık bir 
+yükseliş bekliyorlar. Yatırımcı Temmuz ayındaki 39$'lık alımları aldığından, biz de aynılarını 
+alacağız. Bir tüccar asla kurumsal tüccardan farklı bir vade sonu veya fiyat hedefiyle işlem 
+yapmamalıdır. Unutmayın, onların bizden daha iyi bilgileri var.
+Bu ticaretle ilgili her şey yolunda gidiyor. OCRRBTT ticaret planındaki tüm değerlendirmeler bunun 
+uygulanabilir bir ticaret kurulumu olduğuna işaret ediyor.
+Sonuç
+Bu takas fantastik bir kazançla sonuçlandı. Tüccarın bu ticaretin arkasındaki motivasyonları, üç 
+gün sonra CAG'daki aktivist faaliyetlere ilişkin haberler çıktığında çok daha net hale geliyor.
+Hisse senedinin bu habere nasıl tepki verdiğine bakın:
+16www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Hisse senedi yukarı yönlü bir boşluk yakaladı ve bu opsiyonların değerinde patlama yaşandı. Hisse 
+senedindeki tepkiye bakan herkes yukarı yöndeki büyük hareket karşısında şaşırabilir ancak 
+alışılmadık opsiyon faaliyetlerine dikkat edenler bu potansiyel hareketin gerçekleşmesinden üç 
+gün önce uyarıldı.
+Kurumsal tüccarın satın aldığı opsiyonlar büyük bir yükseliş gördü ve vade dolmadan 
+önce 6,20 dolara kadar yükseldi. Bu, bu trader'ın en yüksek seviyelerde 2,56 milyon dolar 
+kar elde edeceği anlamına geliyor. Aşağıdaki seçeneklerin grafiğine bakın.
+Bu trader'ı bu opsiyonların 20 lotuyla takip eden bir perakende trader, en yüksek seviyede 10.240 $ kar 
+elde edecekti. Bu, bir perakende tüccarın kurumsal sipariş akışının gücünden nasıl yararlanabileceğinin 
+ve dünyadaki en büyük ve en başarılı hedge fon yöneticileri gibi ticaret yapabileceğinin mükemmel bir 
+örneğidir.
+AlphaShark Ticareti Bana Nasıl Yardımcı Olabilir?
+Şubat 2012'de AlphaShark Trading'i kurduğumdan beri aldığım olumlu geri bildirimler ve 
+yanıtlardan çok etkilendim. İşler hızla gelişiyor, bu harika çünkü seviyorum
+17www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Daha iyi risk-ödül işlemleri kurarak yatırımcıların kâr ve zararlarını iyileştirmelerine yardımcı oluyoruz. 
+Her gün ofiste diğer yatırımcılar ve ben stratejileri, opsiyon kurulumlarını ve belirli işlemleri neden 
+yapıp yapmadığımızı tartışıyoruz. AlphaShark ticareti bir blog olarak başladı ancak sadece piyasa 
+yorumlarımı paylaşmakla yetinmediğimi fark ettim. Parasal başarı seçeneklerinin bana getirdiği onca 
+şeyden sonra, en azından başkalarının para kaybetmesine engel olmak istedim.
+Olağandışı opsiyon ticareti faaliyetleri hakkında daha fazla bilgi edinmek ve olağandışı opsiyon faaliyeti uyarılarını canlı ve 
+gerçek zamanlı olarak nasıl alabileceğinizi öğrenmek için lütfen BÜYÜK bir indirim için buradaki Altın Paketimize göz atın!
+ÖZEL TEKLİF
+Sadece 7 $ karşılığında bir aylık işlem uyarıları alın! Altın paketinizin kopyasını almak için bu sayfayı ziyaret edin
+- http://www.TradingPub.com/LRHP1
+YAZAR HAKKINDA
+James Ramelli, AlphaShark Trading'de aktif olarak vadeli işlemler, hisse senedi 
+opsiyonları, döviz çiftleri ve emtia ticareti yapan bir tüccar ve opsiyon 
+eğitimcisidir. Canlı Ticaret Odasının moderatörlerinden biri olan Ramelli, üyelerini 
+kendi sermayesiyle ticaret yaparken stratejiler, ticaret kurulumları ve risk 
+yönetimi konusunda eğitiyor.
+Ramelli düzenli olarak Bloomberg TV, BNN ve CBOE TV'de yer alıyor, ayrıca Futures dergisi için 
+haftalık köşe yazıları yazıyor ve CME Group'un OpenMarkets programında konuk katılımcı 
+olarak yer alıyor.
+Ramelli, Urbana-Champaign'deki Illinois Üniversitesi'nden Türevler ve Finans Mühendisliği ağırlıklı 
+olmak üzere Finans alanında lisans derecesine sahiptir.
+18www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+PlanlanmışSeçenekler için Strateji
+Her Çeyrek Maaş Günü
+Yazan: Christopher Irvin, MarketTraders.com
+Her yıl dört kez hisse senedi ve özsermaye opsiyonu yatırımcılarının kulakları dikilir.
+Tıpkı bir saat gibi, vitesleri dönmeye başlıyor ve klavyeyi kullanarak Google, Apple, Netflix, 
+Tesla gibi büyük şirketlerin kazanç sezonu programını arıyorlar… Liste uzayıp gidiyor. Kâr 
+için yapılan bir randevuya benziyor.
+Her kazanç sezonunda, ufukta gözü olan yatırımcılar için borsada volatilitede ve kâr potansiyelinde 
+bir artış görülüyor. Hisse senedi tüccarları grafiklere yönelirken, hisse senedi opsiyon tüccarları da 
+aynısını yapıyor, dolar bazında hisse senedi hareketlerinden faydalanmak ve pastadan küçük bir 
+pay almak istiyor.
+Ya sen de aynısını yapabilseydin?
+Ya her üç ayda bir, potansiyel olarak bir gecede %25-30 kar elde edebileceğiniz birkaç opsiyon 
+işlemi gerçekleştirmek için birkaç saat ayırsanız?
+Bu, düşündüğünüzden daha sık gerçekleşir. 15 yılı aşkın süredir ticaret yapıyorum ve bunun 
+sadece öğrencilerimin Market Traders Institute'daki başarılarında gerçekleştiğini değil, aynı 
+zamanda kendi hesabımda da gerçekleştiğini gördüm. Bunun güzelliği, yılın hangi zamanı 
+olursa olsun, kazanç sezonuna hazırlanıyor olmanızdır.
+Bu, her çeyrekte kullandığım kesin stratejidir…
+Kazanç Sezonu Nedir?
+Kazanç Sezonu:Halka açık şirketlerin önceki çeyreğe ilişkin kazanç raporlarını 
+yayınladığı her mali çeyreğin başlangıcı civarındaki zaman.
+19www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Yakalayış
+Bazı yatırımcıların size söyleyeceklerinin aksine, bir hisse senedi opsiyon yatırımcısı olarak asıl kazanç 
+rakamı sorun değildir. Şirketin para kazanması ya da kaybetmesi umurumda bile değil. Önemli olan 
+yatırımcıların bu haberlere nasıl tepki vereceğidir.
+Önemli kısım nedir?Yatırımcıların ani tepkisi.
+Yatırımcılar bu rakamlara olumlu veya olumsuz bir duygu yüklediğinden hisse senedi sıçrayabilir 
+veya düşebilir. Hamleyi nasıl oynayacağınızı biliyorsanız, bu hamleler harika fırsatlar yaratabilir.
+Hisse senedi fiyatının kazanç rakamına verdiği tepkiye odaklanıyorum.
+Seçeneklerimin gerçek değerini ve dolayısıyla ticaretteki karlılığı yönlendirecek olan şey 
+budur. Bir opsiyonun gerçek değeri, dayanak varlığın hareketinden DOĞRUDAN etkilenen 
+opsiyon fiyatının bileşenidir. Hisse senedi 1,00$ artarsa, gerçek değer 1,00$ artar. Bu yüzden 
+hisse senedi fiyatının büyük hareket etmesine ihtiyacımız var.Bir istifçinin işe yaraması için, 
+içsel değerin ortaya çıkması gerekir.
+Geçtiğimiz gün Netflix (NFLX) kazanç duyurusunu yaptı. Şirket hisse başına 0,06 dolar kazandı ama 
+benim için daha büyük hikaye, 100,00 dolarlık hissenin ertesi gün yaklaşık 17,00 dolar hareket 
+etmesiydi. Peşinde olduğumuz hareket türü budur. Bu durumda iki tarafın toplam maliyeti hisse 
+başına 12,80 dolardı. Dayanak hisse senedi 17,00$ hareket ettiğinden, içsel değer ticareti kâra 
+taşıdı. Dediğim gibi 0,06 dolar umurumda değil. 17,00 doları ve bu hamlenin seçeneklerim 
+açısından ne yapacağını umursuyorum.
+İkili ticaretin en güzel yanlarından biri, hisse senedinin 17,00 $ yükselmesi veya 17,00 $ 
+düşmesini gerçekten umursamamamdı. Her iki şekilde de kâr edeceğim. Bu doğru; bir yön 
+seçmek zorunda değilim. Bu stratejinin işlemlerinizdeki stresi ortadan kaldırmasının bir yolu 
+daha.
+20www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+4 Adımlı Kazanç Sezonu Kâr Planı
+Straddle Ticaret Stratejisi
+Opsiyonların iki yönlü olması bazı yatırımcıların aklını başından alıyor. Hisse senedinin yönünü siz seçmiyorsunuz. Aslında 
+tek endişeniz hisse senedinin hareket etmesidir. Dönem.
+Kötü bir strateji değil, değil mi?
+Oynaklık:Piyasa eyleminin miktarı. Piyasa dalgalarındaki “yayılma” veya bir hisse 
+senedinin yaşadığı fiyat dalgalanmaları olarak da bilinir.
+Tipik olarak, bir alım seçeneği satın alıyorsanız, hisse senedi fiyatının artmasını beklersiniz.
+Bir satım opsiyonu satın alırsanız, hisse senedi fiyatının düşmesini beklersiniz.
+Opsiyon opsiyonunda eş zamanlı olarak bir alım ve satım satın alırsınız.
+Bu emirleri verdiğinizde hisse senedinin kazanç duyurusuna tepki vermesini istersiniz. Tepki ne kadar 
+büyük olursa o kadar iyidir.Olumlu ya da olumsuz önemli değil, sadece dramatik bir şekilde 
+ilerlemesini istiyoruz.
+Seçenekler Çatallı:Aynı anda hem bir alım opsiyonu hem de bir satım opsiyonu satın aldığınızda, 
+hisse senedi hangi yönde hareket ederse etsin kâr edebilmek için piyasa fiyatının iki yanında yer 
+alırsınız.
+Neden Her İki Yönde de Ticaret Yapmalısınız?
+Yani, eğer her iki yönde de işlem yapıyorsam, işlemler birbirini iptal etmez mi diye düşünüyor olabilirsiniz? Daha da 
+kötüsü, bu piyasanın kaçınılmaz olarak bana karşı hareket edeceği anlamına gelmez mi?
+Evet ve hayır.
+Piyasa bir yönde büyük hareket ettiğinde, seçeneklerinizden birinin (alma ya da satım) değeri 
+artacaktır. Diğerinin değeri düşüyor. Bu negatif ticarette para kaybedeceksiniz, ancak amaç, 
+kazanan ticaretin, kaybeden tarafınızdan daha ağır basmasını sağlamaktır. burası
+21www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+kâr görmeye başlarsınız. Kazanan işlemin karı, kaybeden pozisyondaki kayıptan çok daha 
+büyük olmalıdır. Aslına bakılırsa, kaybedeniniz unutulmaya yüz tutabilir. İyi haber şu ki, 
+opsiyon satın aldığınızda riskiniz opsiyonun maliyetiyle sınırlı, ödülünüz ise sınırsızdır. Yani 
+eğer kazananınız toplam kaybedenin maliyetinden daha fazla artarsa, kazanan bir 
+ikilemimiz olur.
+Nasıl çalışır
+Anahtar, duyurudan önce eşit sayıda "karşılıklı" alım ve satım satın almaktır. Bu nedenle 
+duyurunun yayınlanma tarihinin takviminizde yer alması çok önemlidir. Put'lara eşit 
+sayıda kârda alım satın aldığınızda, "tarafsız delta" stratejisi yaratıyorsunuz. Kazançlı alım 
+seçeneklerinin deltası 0,50 olacak ve kârın üstüne koyma seçeneklerinin deltası -0,50 
+olacaktır. Bu deltalar toplandığında “0” deltası veya nötr delta elde ederiz.
+Delta:Yunanca “farklılık” anlamına gelen diaphora kelimesinden türemiştir. Bu sayı size hisse 
+senedinin 1,00$'lık bir hareketinden ne kadar kar elde edeceğinizi gösterir; Örneğin, eğer bir 
+yatırımcı 0,75 deltalı bir opsiyon satın alırsa ve dayanak hisse senedi 1,00$ hareket ederse, 
+opsiyonun değeri 0,75$ artacaktır.
+Delta Nötr:Satımların deltası her zaman -1'den 0'a kadardır ve alımlar 0'dan 1'e kadardır, 
+dolayısıyla -0,5 deltalı bir satım satımı ve 0,5 deltalık bir alım satın aldığınızda, deltalarınız 
+birbirini iptal edecek ve elinizde bir delta nötr konumu.
+Bu durumda iki deltayla uğraşıyorsunuz.
+Diyelim ki, alım opsiyonunun deltası 0,50 ve Satım opsiyonunun deltası -0,50 olan bir çapraz 
+ticarete girdiğimizi varsayalım. Kazançlar açıklanır ve hisse senetleri piyasa öncesinde boşluk 
+bırakır. Bu, alım seçeneklerinin değerinin artmasına ve deltanın yükselmesine neden olur. 
+0,50'den 0,55'e, 0,60'tan 0,65'e, sonunda 0,85'e kadar. Bu, hisse senedinin her 1,00 $ 
+yükselişinde satın alma seçeneklerimin bana 0,85 $ kazandırdığı anlamına geliyor. Bu harika! 
+Peki ya put pozisyonları? Put deltası ters yönde hareket etmeye başlayacak;
+22www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+- 0,50'den -0,45'e, -0,40'a, sonunda -0,20'ye düşüyor. Ticaretin kaybeden tarafında olan put, aslında 
+daha yavaş para kaybediyor. Bu durumda, bu seviyede, satım opsiyonu, dayanak hisse senedi 
+fiyatının her 1,00 $'lık yükselişi için 0,20 $ kaybediyor. Varsayımsal ticaretimizin mevcut durumuyla 
+ilgili en güzel şey burada. Alım opsiyonumuzla, dayanak hisse senedinin her 1,00 dolarlık hamlesi 
+için 0,80 dolar kazanırken, satımla aynı hamle için 0,20 dolar kaybediyoruz. Net sonuç 0,60$ kârdır. 
+Bu yüzden istiflemeler işe yarıyor!
+PRO İPUCU:Nihai Hisse Senedi ve Opsiyon Kursu, kazanç sezonunda iki taraflı işlemler için 
+deltası 0,5 ile -0,50 arasında olan opsiyonları satın almayı öğretir. (Deltaları 0,50 ve 
+-0,50'den farklı olan opsiyonları kullanırsanız, işlem iki taraflı değildir.)
+Piyasaya Ne Zaman Çıkılmalı
+Gerçekten çok basit. Straddle stratejisi, bir tüccarın, hisse senedinin yönden bağımsız olarak %10 ila %15 
+oranında hareket etmesine neden olma olasılığı yüksek olan bilinen bir olaydan yararlanmasına olanak tanır. 
+Bu nedenle kazanç duyurularıyla işlem yaparken ustalaşmak için mükemmel bir stratejidir.
+Straddle'ın Anahtarı
+Şunu anlayın: Her kazançlı hisse senedi için üst üste binme ideal bir strateji değildir. Bunun 
+nedeni, her hisse senedinin, ticareti karlı bir konuma getirmek için gerekli hamleyi yapma 
+potansiyeline sahip olmamasıdır. Bu nedenle istifçiyi yerleştirmeden önce ödevinizi yapmanız 
+gerekecektir.
+Şimdi, belirli bir ticaret fırsatının, kazanç sezonunda çapraz ticaret için iyi bir seçim olup 
+olmadığına karar vermenin en iyi beş yolunu açıklayalım.
+Başarılı Seçenekler İçin 5 Adım
+Adım 1: Avınızı Takip Edin
+Her şeyden önce, izlemek isteyeceğiniz potansiyel hisse senetlerine ihtiyacınız olacak.
+23www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Aşağıdaki adımların tümü, belirli şirketleri aklınızda bulundurmanızı, mevcut hisse fiyatlarına 
+erişmenizi ve tercihen önümüzdeki çeyrek için kazanç raporlarının ne zaman yayınlanacağına dair 
+bir fikre sahip olmanızı gerektirir.
+Adım 2: Gelecekte Kâr Etmek İçin Geçmişe Bakın
+Artık aklınızda birkaç hisse senedi olduğuna göre, ister Apple, Google, Netflix, Tesla olsun, hangi hisse 
+senedinden kâr elde etmek istiyorsanız, söz konusu hisse senetlerinin geçmiş verilerine bakmak 
+isteyeceksiniz.
+Bunu yapmak için hisse senedi grafiklerine dönüp bakmak ve en son dört kazanç raporu 
+yayınlanma tarihini belirlemek istiyorsunuz. Bunları bulduktan sonra, her duyurunun ardından o 
+şirketin hisse senedi fiyatındaki fiyat dalgalanmalarını kontrol edin.
+Üç soruyu cevaplamak isteyeceksiniz:
+1. Duyuru yayınlanmadan önceki kapanış fiyatı neydi?
+2. Duyuru yayınlandıktan sonraki gün açılış fiyatı ne kadardı?
+3. Duyuru yayınlandıktan sonra dönüş fiyatının en yüksek veya en düşük seviyesi 
+neydi?
+Dönüş Öncesi Zirve veya Düşüş Fiyatı:Raporun yayınlanmasından sonra hisse senedinin ilk geri 
+dönüşünden önce ulaştığı fiyat.
+Yakın-açılış arası ve yakın-zirve/düşük arası ölçümler size, hisse senedinin geçmişte kazanç 
+duyurularında önemli ölçüde hareket edip etmediğine dair bir gösterge verebilir. Eğer üst 
+üste binmenin maliyeti, kazanç açıklamalarındaki tarihsel hareketten daha azsa, potansiyel bir 
+üst üste binme adayınız olabilir.
+Örnek:
+Daha net olması açısından bunun daha eski bir örneğine bakalım.
+24www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Aşağıda Netflix için ardışık dört kazanç raporu numarası bulunmaktadır (potansiyel ikili ticaretinizi 
+değerlendirmek için her zaman EN SON dört kazanç rakamını almak isteyeceğinizi unutmayın):
+20.01.2015 tarihli Kazanç Raporu
+Ön Kazanç Kapanışı - 349,40$
+Kazanç Sonrası Açık - 414,68 $ (65,28$ hamle veya %18) Kazanç 
+Zirvesi Sonrası - 457,38 Dolar (108,28$ hamle veya %30)
+10/15/14 Kazanç Raporu
+Ön Kazanç Kapanışı - 448,59$
+Kazanç Sonrası Açık - 332,73 $ (115,86$ hamle veya %25)
+Kazanç Sonrası Düşük - 331,00 $ (117,59 dolarlık hamle veya %26,2) anında sıçrama
+21.07.2014 tarihli Kazanç Raporu
+Ön Kazanç Kapanışı - 452,00$
+Kazanç Sonrası Açık - 442,98 $ (9,02 dolarlık hamle veya %1,9) 
+Kazanç Sonrası Düşük - 412,51 $ (39,48$'lık hamle veya %8,7)
+21.04.2014 tarihli Kazanç Raporu
+Ön Kazanç Kapanışı - 348,49$
+Kazanç Sonrası Açık - 376,63 $ (28,14$'lık hamle veya %8)
+Kazanç Sonrası Zirve - 380,88 $ (32,39 dolarlık hamle veya %9,2) anında düşüş
+Bu örneklerde, en son iki kazanç açıklamasının hisse senedi fiyatının %18 ile %30 arasında hareket 
+etmesine neden olduğunu görebilirsiniz. Varsayımsal olarak hisse senedi fiyatının mevcut 
+maliyetinin %15'ine mal olan bir paya bakıyor olsaydık, ticaretin potansiyeli olurdu.
+Sihirli Sayı Nedir?
+Ne yazık ki sihirli bir sayı yok ve kutsal kâse de yok. Geçmişte ben de baktım
+25www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+minimum %12-15 arasındaki hisse senedi fiyat dalgalanmaları için. Bu genellikle iki taraflı bir 
+durumda karlı bir ticaret oluşturmaya yetecek kadar hareket yaratır. Gerçekten sağlam bir 
+karara varmanın tek yolu, çatalın mevcut fiyatını belirlemek ve bu fiyatı, son dört kazanç 
+açıklamasındaki ortalama fiyat hareketi ile karşılaştırmaktır. Eğer iki binicinin maliyeti 
+ortalama hamleden fazlaysa, ticaret muhtemelen işe yaramayacaktır. Ortalama hareket, iki 
+binicinin maliyetinden daha büyükse, ticaretin işe yarama şansı yüksektir.
+Adım 3: Büyük Köpeklerin Tartışmasına İzin Verin
+Dikkatli olmazsanız bu çok tehlikeli bir durum. Kilit analistlerin neler öngördüğünü dikkate 
+almak isterken, haberleri değil, hamleleri takas etmek istiyoruz. Aynı zamanda, 1. Adımda 
+hisselerinizi seçtikten sonra analistlerin görüşlerini kontrol etmeniz iyi olur.
+En yüksek analist fiyat hedefine odaklanmak istiyorsunuz. Straddle'ın maliyeti hisse senedinin 
+mevcut değerine eklendiğinde, analist hedefinden daha düşük bir sayıya ulaşırsınız, bu da 
+straddle'ınızın işe yarama potansiyeline sahip olduğunu gösterir.
+PRO İPUCU:Kazanç tahminlerine dikkat etmeyin. Bunun yerine analistlerin hisse senedi için en 
+yüksek fiyat hedeflerini nerede belirlediklerine bakın. Hisse senedinin değerinin bu olduğunu 
+düşünüyorlar. Yatırımcılar fiyatları analist hedeflerine kadar çıkarmayı ve durmayı severler; bu 
+nedenle, üst düzey kar hedefi analist fiyat hedefinden düşükse üst düzey iyi durumda 
+olmalıdır.
+Adım 4: Fib'leri Unutmayın
+Fibonacci dizisi, muhtemelen ortaokul veya lise matematik dersinde öğrendiğiniz ve onu 
+bir trilyon yıl sonra bile kullanamayacağınız bir şey olarak görerek hemen unuttuğunuz 
+eski bir matematiksel altın orandır… Ta ki siz başlayana kadar. piyasalarda ticaret yapmak.
+İşleminiz için bir sonraki adım (karar verme süreci) Fibonaccis'i çizmektir.
+26www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Bu durumda başka bir onay noktasına ihtiyacınız var. Hisse senedinin mevcut uzatma veya 
+geri çekilme içerisinde aradığınız hareket aralığını yapma potansiyeline sahip olduğunu 
+söyleyebilmeyi istiyorsunuz. Değilse, teknik bilgileriniz, ticaretinizde kârlı olmak için ihtiyaç 
+duyduğunuz şeylerle eşleşmiyor demektir. Bu, ticaretten kaçınıp kaçınmayacağına karar 
+vermenin %100 kesin bir yolu olmasa da, birçok tüccarın bir ticareti bırakırken dikkate aldığı 
+kritik bir bileşendir.
+Fib'lerin grafiklerde nasıl göründüğünü görün:
+Adım 5: Volatilite Grafiklerine Oy Verin
+Hiç volatilite tablosu gördünüz mü? Bu grafikler, opsiyon yatırımcılarının bir seçeneğin aşırı mı yoksa düşük mü 
+fiyatlandırıldığını belirlemesine yardımcı olur. Bu, seçeneklerin üst üste bindirilemeyecek kadar pahalı bir seviyede 
+fiyatlandırılıp fiyatlandırılmadığını görmek için harika bir göstergedir.
+Grafik oldukça görseldir ve okunması kolaydır. Grafiğin iki satırı olacaktır. Biri tarihsel oynaklığı, 
+diğeri ise ima edilen oynaklığı temsil ediyor. Eğer ima edilen volatilite çizgisi tarihsel volatilite 
+çizgisinden yüksekse opsiyonların pahalı olduğu düşünülür. Öte yandan, tarihsel oynaklığın ima 
+edilen oynaklıktan yüksek olması durumunda seçeneklerin ucuz olduğu düşünülür. Gerçekten 
+görmek istediğimiz şey, seçeneklerimizin ne kadar pahalı olduğudur. Ne
+27www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+aradığınız şey, tarihsel ve ima edilen oynaklık arasındaki çarpıklıktır. Bu iki sayı birbirine ne 
+kadar yakınsa çarpıklık da o kadar küçük olur. Eğrilik ne kadar küçük olursa, seçenekler o 
+kadar az pahalı olur ve istifçinin maliyetini karşılama şansınız o kadar artar. Eğrilik ne kadar 
+geniş olursa, ticaret o kadar pahalı hale gelir ve üst üste binme maliyetini karşılama şansınız 
+azalır.
+Eğim:İki sayı arasındaki fark veya mesafe için kullanılan süslü bir matematik terimi.
+Tarihsel Volatilite:Geçmiş verilere dayanarak hisse senedi fiyatının ne kadar dalgalandığını ve 
+hareket ettiğini gösteren ölçüm.
+Zımni Volatilite:Gelecekte oynaklığın ne olacağına inandıklarına ilişkin ortalama 
+analist duyarlılığının temsili. (Bu doğrudan 2. Adımla bağlantılıdır!)
+ÇÖZÜM
+Kazanç sezonu ticareti, randevu tarzı ticarete olabildiğince yakındır. Yalnızca tek bir stratejiyle, 
+yani seçenekler üst üste stratejisiyle, her çeyrek için planlanmış bir maaş gününüz olabilir.
+Bu stratejiyle ilgili daha fazla uygulamalı deneyim edinmek ister misiniz?
+ÖZEL TEKLİF
+Canlı web seminerlerimizden birine göz atın. Biletiniz benden, sadece RSVP'niz burada -
+www.TradingPub.com/LRHP2
+28www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+YAZAR HAKKINDA
+Chris Irvin gerçek bir tüccar. Geçtiğimiz 15 yıl boyunca hisse senetleri, opsiyonlar, vadeli 
+işlemler ve para birimleriyle işlem yaptı. Onun için ticaret, kendi işinin patronu olmaktan 
+çok daha fazlasıdır; sonuçta o 1996'dan beri bir girişimci. Ticaretin hayatınızın kontrolünü 
+ele geçirmenin bir yolu olduğunu biliyor. Onun için güvenebilmek
+kendisi gerçek özgürlüktür. Ticaret becerileriyle 2011 yılında Trade King tarafından tanınan ve Invezz 
+gibi yayınlara uzman katkılarda bulunan Chris, ticaret bilgisini 2004'ten bu yana eğitim materyalleri 
+geliştirmek ve dünya çapındaki tüccarlara eğitim vermek için kullanıyor. Şimdi, 2012'de MTI'ya 
+katıldıktan sonra, Chris aktif olarak ticaret yapmaya ve kendisi gibi zorlu sınavlardan geçmeden 
+başkalarına da aynı şeyi nasıl yapacaklarını öğretmeye devam ediyor.
+29www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Fiyat Hareketiyle Nasıl Yüksek Kârlı 
+Bir Ticaret Avantajı Yaratabilirsiniz?
+5 Basit Adımda Pazar
+Johnathon Fox tarafından, ForexSchoolOnline.com
+Piyasada üstünlük sağlamak her yatırımcının uzun vadeli başarısı için çok önemlidir. Avantaj olmadan, 
+tüm yatırımcılar eninde sonunda piyasa tarafından öğrenilecektir. Herkes şanslı olabilir ve galibiyet 
+serilerine ve uzun galibiyet serilerine devam edebilir. Bu genellikle insanları kandırarak kârlı veya iyi bir 
+tüccar olduklarını düşünmelerine neden olur, oysa aslında şanslılar.
+Eğer yatırımcılar piyasada üstünlük sağlayamazlarsa, eninde sonunda kaybetmeye başlayacaklar ve 
+kazanma serileri sırasında elde ettikleri tüm karları geri vereceklerdir. Aslında bir üstünlükleri olmadığı 
+için, genel olarak üstünlük piyasadadır ve eninde sonunda bu üstünlük piyasanın lehine sonuçlanacak 
+ve yatırımcıların kaybetmesini sağlayacaktır.
+Bu sadece yeterli sayıda işlemin yapılması meselesidir. Yani, her yatırımcı şanslı olabilirken, eğer bir 
+üstünlükleri yoksa ve üstünlük piyasanın tarafındaysa, bu sadece, üstünlük sona ermeden ve 
+yatırımcının kaybeden haline gelmesinden önce ne kadar işlem yapılması gerektiğiyle ilgilidir. .
+30www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Bu derste size piyasada kârlı bir üstünlük sağlamanın gerçekte ne kadar önemli olduğunu öğreteceğim. 
+AMA bundan çok daha önemlisi, piyasada kendi avantajınızı yaratmaya başlamak için hemen şimdi 
+takip etmeye başlamanız gereken en önemli beş adımı size öğreteceğim.
+Ticaret başarınızı hızlı bir şekilde takip edebilmeniz için, sizin için ararken işaretlediğim yedi 
+faktörü ve yüksek olasılıklı ticaret kurulumlarını listeleyen bir ticaret kontrol listesi oluşturdum.
+Bunlar benim uyduğum yedi ticaret kuralıdır. Bunları kendi ticaret kontrol listenizi oluşturmak için 
+kullanabilirsiniz. Bu bölümün sonunda size verdiğim bağlantıya tıklayarak bu yedi adımlı ticaret 
+kontrol listesine ulaşabilirsiniz.
+Peki Piyasanın Üstünlüğü Tam Olarak Nedir?
+Oyundaki avantajın en iyi örneği kumarhanelerdir. Kumarhanelerin kumar oynamalarına 
+ve şans oyunları oynamalarına rağmen düzenli ve tutarlı kar elde etmelerinin nedeni, 
+oyunu oynayan insanlara karşı üstünlük sahibi olmalarıdır. Başka bir deyişle, 
+kumarhanedeki blackjack ve poker makineleri vb. gibi tüm oyunların olasılıkları 
+kumarhanenin lehine yığılmıştır.
+Bu örnekle ilgili not etmeniz gereken çok önemli şey şudur; kumarhaneler 
+kaybedeceklerini ve büyük yenilgi serilerine devam edeceklerini biliyorlar. Örneğin, birisi 
+blackjack masasına gelip büyük bir atış yapabilir ve çok para kazanabilir ve kumarhaneler 
+bunu biliyor ve anlıyor.
+Kumarhanelerin de anladığı şey, orada burada kaybedebilecek olsalar da, GENEL OLARAK, birçok, çok, 
+çok sayıda blackjack elinden sonra HER ZAMAN kazanırlar. Kumarhaneler, insanların poker 
+makinelerine gelip büyük ikramiyeleri kazanacağını biliyor, ancak GENEL OLARAK kumarhaneler HER 
+ZAMAN kazanacak.
+Bu, kumarhanenin avantajıdır ve ticaretiniz hakkında düşünmeye başlamanız için gereken 
+yolun aynısıdır. Birçok yatırımcının yaptığı en büyük hata, kısa vadeli düşünmeleri ve
+31www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+genel bir avantaj içinde ticaret yapmayı düşünmek yerine, yalnızca bir sonraki ticaretlerini düşünüyorlar.
+Bir Forex işiyle işlem yapıyor olmanız ve piyasada üstünlük sahibi olmanız gerekir. Sonraki beş 
+adım, daha başarılı olmak için fiyat hareketi avantajını tam olarak nasıl kullandığınızı size 
+gösterecek.
+1. Fiyat Eylem Hikayesine Odaklanın
+Bir fiyat hareketi tüccarı olarak öncelikli odak noktanızın fiyat hareketini okumak olması gerekir. 
+Bu, yapılması son derece açık bir ifade gibi görünüyor, değil mi? Hızlı bir Google araması yapın 
+veya büyük forumlardan herhangi birinde bir arama yapın; fiyat eylemi ticareti yaptıklarını 
+düşünen birçok tüccarın; aslında “model ticareti”.
+Desen ticareti, grafiğin son bir veya iki mumuna bakmak ve ardından bu son mumu temel 
+alarak ticaret yapmaktır. Son bir veya iki mum çok önemli olabilir ve bunları gerçekten harika 
+giriş sinyalleri olarak kullanabiliriz, ancak bunlar birçok mumla dolu bir fiyat hareket 
+tablosunda yalnızca bir veya iki mumdur.
+Başarılı bir fiyat hareketi tüccarı olmak istiyorsanız, fiyat hareketi tablosunun tamamını nasıl 
+okuyacağınızı ve fiyat hareketi hikayesinin tamamını nasıl bir araya getireceğinizi öğrenmeniz 
+gerekir. Bu, canlı fiyat hareketi aracılığıyla canlı emir akışını, ana destek ve direnci, trendleri ve 
+yatırımcı davranışlarını okuyarak yapılır.
+2. Tek Seferde Mükemmel Tek Fiyat Eylemi Tetikleyicisi
+Gerçekten yüksek olasılıklı bir A+ fiyat hareketi ticareti yapmak için, öncelikle gerçekten sağlam bir fiyat 
+hareketi hikayesi ve grafikte giriş yapılabilecek harika bir alan bulmalıyız. Bir fiyat hareketi tüccarı olarak 
+şunu sorabilirsiniz: Güçlü bir trend var mı? Ayrıca fiyat, desteği mi yoksa direnci mi reddediyor? Fiyatın 
+hareket edebileceği alan var mı? Burası ticaret yapmak için iyi bir alan mı?
+32www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Ticaret yapmak için gerçekten sağlam bir alan bulduğumuzda, giriş yapmak için bir fiyat eylemi 
+tetikleyicisi arayabiliriz. Fiyat eylemi tetikleyici sinyaller, pim çubuğunun ters çevrilmesi ve yutan çubuk 
+gibi mumlardır.
+Öğrenmelerini hızlandırmak yerine yavaşlatan birçok tüccarın yaptığı bir hata, kişisel olarak kendilerine gerçekten 
+uygun olan ve hoşlarına giden birini seçmek yerine, tüm fiyat eylemi tetikleyicilerini aynı anda öğrenmeye ve 
+mükemmelleştirmeye çalışmalarıdır. daha sonra bu tetikleyici sinyali kendilerine ait hale getirmek ve onu 
+mükemmelleştirmek.
+Bir yatırımcı bu rotayı izlediğinde ve tek bir tetikleyiciyi mükemmelleştirmeye karar verdiğinde, tüm 
+kurulumlarda sorun yaşamamak yerine, her seferinde bir tetikleyicide ustalaşabilir. Her seferinde yalnızca bir 
+tetikleyiciyi mükemmelleştirirseniz, tüm zamanınızı yalnızca tek bir tetikleyiciyle geçirirsiniz ve o tetikleyicide 
+ustalaşana kadar o tetikleyici hakkında her şeyi öğrenirsiniz. Konsantrasyonunuzu dağıtacak başka hiçbir şey 
+olmayacak.
+Bu konuda uzmanlaştığınızdan memnun olduğunuzda, devam edebilir ve bir sonraki tetik 
+sinyaliyle süreci tekrarlayabilirsiniz.
+Pim çubuğu ters çevirme tetik sinyali için aşağıdaki tabloya bakın.
+33www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+3. Açıkta Av Tüfeğiyle Makineli Tüfekçi Değil, Çalıların Arkasında Keskin 
+Nişancı Olun!
+Tam zamanlı ticarete geçmeden önce Avustralya Ordusundaydım, bu yüzden en iyi bildiğim iki şey disiplin ve işleri 
+etkili bir şekilde nasıl havaya uçurabileceğimdir. Örnekler kullanmak veya ticaret durumlarını ve senaryolarını 
+açıklamak için sıklıkla bu iki alandaki deneyimlerimi kullanıyorum.
+Bunun harika bir örneği, yatırımcıların düştüğü en büyük tuzaktır: aşırı ticaret. Bu şüphesiz en 
+büyük ticari hesap katilidir.
+Bir Forex yatırımcısı olarak, çalılıkların arasında saklanan, iyi kamufle edilmiş bir keskin nişancı olmak 
+istersiniz ve ticaretiniz ortaya çıktığında sadece tek bir atış yapar ve karınızı elde edersiniz. Bir atış ve bir 
+öldürme. Hassas ticaret. Haritadaki harika bölgelere gizlice giriyorsunuz ve ardından BAM! Ticarette 
+tetiği siz çekersiniz.
+Açık havada öne çıkan veya bir aracın arkasında durup her yere kurşun sıkan makineli 
+tüfekçi olmak İSTEMEZSİNİZ. Makineli nişancı hızlı ateş eder, çok fazla mermi atar ve çok 
+fazla ısı çeker, ancak mermilerinin neredeyse hiçbiri hedefi vuramaz.
+Forex piyasasında daha fazlası daha fazlasına eşit değildir. Bu, çoğu yatırımcının üstesinden 
+gelmesinin uzun zaman alabileceği bir şeydir, ancak ne kadar erken olursa o kadar iyi çünkü aşırı 
+ticaret, şüphesiz hesapların bir numaralı katilidir.
+34www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Daha fazla ticaret her zaman daha fazla kar anlamına gelmez. Ticarette ihtiyaç duyulan 
+zihniyet, günlük hayatta ihtiyaç duyulan zihniyetten çok farklıdır. Piyasalarda bunun yaygın bir 
+örneği, sırf daha fazla işlem yapmak istediği için muhtemelen yapmaması gereken bir işlem 
+yapan bir tüccardır. Bu ticareti kaybediyorlar çünkü bu çok ortalama bir ticaretti. Daha sonra 
+başka bir ticaret oluşur ki bu çok iyi bir ticarettir. Tüccar da bu ticareti yaparak kar elde eder.
+Sorun şu ki, tüccar artık sadece başabaş noktasına geri dönüyor çünkü iki ticaret yapmış 
+olmalarına rağmen, oynamamaları gereken ilk ortalama ticaret onlara paraya mal oldu. Oysa, 
+yalnızca tek bir ticarette işlem yapacak başka bir tüccar şu anda kârda olacaktır, ancak ilk 
+tüccar başabaş noktasında sıfır kârla oturuyor. Bu, daha fazlasının her zaman daha fazlasına 
+eşit olmadığının açık bir örneğidir.
+4. Zaman Çerçevelerini Azaltın - Diğer Şekilde Değil
+Bu çok önemlidir ve çoğu zaman tam tersi şekilde yapılır. Çoğu zaman yatırımcılar ticarete gelirler ve 
+doğrudan bulabilecekleri en küçük zaman aralığına (beş dakikalık veya bir dakikalık grafikler gibi) giderler. 
+Bununla ilgili en büyük sorun, fiyatın daha küçük zaman diliminde daha hızlı hareket etmesi, daha istikrarsız 
+olması, daha fazla yanlış hamle yapması ve başa çıkması gereken çok daha fazla destek ve direnç alanına 
+sahip olmasıdır.
+Zaman çerçevesi ne kadar yüksek olursa, fiyat hareketinin okunması o kadar kolay olur ve karar vermek için 
+ne kadar çok zamanınız varsa, fiyatta o kadar az dalgalanma olur. Pek çok yatırımcının daha küçük zaman 
+aralıklarında çalışmasının önemli bir nedeni, zaman aralığı ne kadar küçük olursa, o kadar fazla ticaret fırsatı 
+olacağını düşünmeleridir ve bu bir dereceye kadar doğru olsa da, eğer çok fazla işlem yapmanın iyi bir şey 
+olmadığını düşünürler. para kaybetmek. Daha fazla para kaybetmek için neden daha fazla işlem yapasınız ki?
+En küçük zaman diliminden çalışmak yerine günlük grafiğe geçmeniz ve kâr elde ederek daha 
+küçük zaman dilimli grafiklerde işlem yapma hakkını kazanmanız gerekir. Günlük
+35www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Grafikler, yalnızca öğrenmek için değil, aynı zamanda yaşam tarzınız için ticarete devam etmek için de açık ara en 
+iyi zaman çerçevesidir.
+Günlük grafikler, bir yaşam tarzına sahipken tüm gün grafiklere bakmanıza gerek kalmadan kar 
+sunabilir. Bunlar aynı zamanda başarılı olmanız için en iyi fiyat eylem grafikleridir. Günlük 
+grafikler, en belirgin trendlerle birlikte en net destek ve direnç seviyelerine sahiptir.
+Bir diğer önemli nokta ise, diğer tüm küçük zaman dilimlerinde sizi büyük bir konumda tutacak 
+günlük grafiklerde disiplin oluşturabilmenizdir. Günlük grafikler günde yalnızca bir kez kapanır ve 
+bu nedenle işlemlerinizi aşırı yönetmemek veya kurcalamamak için sabır ve disiplini öğrenmeniz 
+gerekir. Bunlar ticaret kariyerinizin başlarında öğrenmeniz gereken harika becerilerdir.
+Günlük grafikte kârlı hale geldikten sonra dört saatlik grafiklere geçebilir ve onlardan kârlı 
+olmayı öğrenebilirsiniz. Dört saatlik grafiklerde kar elde ettiğinizde, bir sonraki daha küçük 
+zaman dilimine geçebilir, kârlı hale gelebilir ve süreci istediğiniz zaman dilimlerinde 
+tekrarlamaya devam edebilirsiniz.
+Pek çok yatırımcı günlük grafiklerden asla ayrılmıyor çünkü günlük grafiklerin onlara sağladığı 
+kârın istikrarını seviyorlar ve grafiklere günde yalnızca bir saat kadar bakabilme ve ardından başka 
+şeyler yapabilme gibi yaşam tarzı faktörlerini seviyorlar. hayatlarıyla ilgili şeyler.
+5. İşlem Öncesi Plan Yapın
+Bu cok büyük! İşte bu yüzden bunu en sona bıraktım ama kesinlikle en önemlisi. İşlemlerinizi yönetmek 
+ve hedefleri belirlemek, kar elde edeceğiniz yerdir. Bu, işleminizin tam olarak aynı işlemin kazanan mı 
+yoksa kaybeden mi olduğuna tam anlamıyla karar verebilecek kısmıdır.
+Pek çok tüccar, işlemlerini yönetme konusunda oldukça "pantolonunun koltuğuna uçma" 
+yaklaşımına sahiptir ve her işlemde bunu sadece kanatlandırırlar. Ticaret işinizden tutarlı sonuçlar 
+almak ve tutarlı kar elde etmek istiyorsanız, işlemlerinizi tutarlı bir şekilde yönetmeniz ve aynı 
+planla aynı kurallara sahip olmanız gerekir.
+36www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Peki bu nasıl yapılıyor? Ticaret öncesi bir planla. İşlem öncesi plan, işleminize başlamadan önce 
+yazdığınız bir şeydir. Ticaretinizi tam olarak nasıl yönetmeyi planladığınızı belirtir. Ticaret yönetimi 
+kararlarını vermenin en iyi zamanı, bir ticarete girmeden önce ve herhangi bir gerçek para söz konusu 
+olmadan öncedir.
+Ticaret öncesi plan, kar hedefleriniz gibi şeyleri içermelidir. Birden fazla kâr hedefiniz varsa hepsini dahil edin. 
+Başabaş noktasına kadar hareket etmeyi planlıyor musunuz? Eğer öyleyse, başabaş noktasına geçmeyi 
+planladığınız fiyat noktasını ekleyin. Durağınız nerede? Herhangi bir noktada takip durağı kullanmayı planlıyor 
+musunuz? Eğer öyleyse, nasıl ve ne tür bir takip durdurma?
+Fikri anlamaya başladın mı? Temel olarak, bu ticaret öncesi planını bir yere yazmalısınız, 
+böylece ticaret stratejinizi bilmeyen bir başkası gelip ticaret öncesi planınızı okuyabilir ve 
+sadece planınızı okuyarak ticaretinizi etkili bir şekilde yönetebilir.
+Bu ticaret öncesi planın yapılması, birçok insan hatasını durduracaktır. İnsanlar olarak çok 
+iyi yatırımcılar değiliz ve bu planı yapıp uygulayarak bu hataların çoğunun meydana 
+gelmesini önleyebiliriz.
+Özet ~ Ticaret Makinanız
+Uzun vadeli başarınızın anahtarı, pazarda karlı bir avantaj elde edebilmenizdir. Kârlı bir 
+avantajla, her ne olursa olsun kayıplar ve yenilgi serileri yaşarken; Genel olarak avantaj en 
+üstte ortaya çıkacak ve kar elde edeceksiniz.
+Buna sahip olduğunuzda, bir ticaret işinize ve bir ticaret makinenize sahip olursunuz ve bu sadece 
+ticaret avantajınızı karşılayan mümkün olduğunca çok sayıda ticaret bulma meselesidir; böylece kârı 
+dağıtmak için makineyi ters çevirirsiniz.
+Güvenli ticaret ve başarılar,
+Johnathon Fox
+37www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+ÖZEL TEKLİF
+7 Adımlı Yüksek Olasılıklı Ticaret Kontrol Listesi
+Birçok pazarda ve zaman diliminde tekrar tekrar yüksek olasılıklı ve düşük riskli fiyat eylemi 
+işlemleri yapmanıza yardımcı olacak basit yedi adımı öğrenin. Ücretsiz 7 adımlı kontrol listenizi 
+almak için aşağıdaki sayfayı ziyaret edin -www.TradingPub.com/LRHP3
+FİLMLER
+Yüksek olasılıklı yanlış kırılma Pin Çubuğu Ters Tetikleme sinyali ticaret kurulumunu nasıl takas edebileceğinize 
+dair bir video dersi izlemek için aşağıda listelenen sayfayı ziyaret edin -www.TradingPub.com/LRHP4
+Fiyat aksiyon hikayesini kullanarak işlemlerinizi nasıl yönetebileceğinizi öğrenin. Bu sayfayı ziyaret edin -
+www.TradingPub.com/LRHP5 Ticaret kurulumlarınızı yönetmek için Pin Bar Reversal'ın nasıl kullanılacağına 
+ilişkin bir video izlemek için.
+YAZAR HAKKINDA
+Johnathon Fox, profesyonel bir Forex ve vadeli işlem yatırımcısıdır ve aynı zamanda 
+dünya çapındaki ülkelerden binlerce yatırımcıya mentorluk ve koçluk yapmaktadır. 
+Johnathon, yatırımcıların fiyat hareketi ticareti sanatında ve doğru para yönetimi 
+tekniklerinde ustalaşmalarına yardımcı olarak tam ticaret potansiyellerine 
+ulaşmalarına yardımcı olma konusunda uzmanlaşmıştır.
+Johnathon'un her takas arayışında uyguladığı yedi adımlı planın aynısını öğrenebilirsiniz. 
+Piyasalardaki yüksek olasılıklı ticaret kurulumlarını tespit etmenize yardımcı olacak yedi adımlı 
+ticaret kontrol listenizi almak için yukarıdaki özel teklife gidin ve ÜCRETSİZ yedi adımlı süreç 
+kontrol listesini indirin.
+38www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Düşük Risk/Yüksek Olasılık Seçenekleri
+Ticaret Stratejileri
+Yazan: Michael McNelis, DelphianTrading.com
+Bir opsiyon stratejisti olarakDelphian, Her zaman farklı stratejilere yönelik modelleri test ediyorum. 
+Düşük riskli / yüksek olasılıklı işlemler birçok yatırımcının favorisidir.
+The Delphianplatform, yatırımcılara kurumsal düzeyde ticaret analitiği sağlayarak, ticaret 
+stratejilerinizi geçmiş opsiyon verileriyle test etme olanağı sağlar. Ticaret stratejilerinizi geriye 
+doğru test ederek şu soruyu yanıtlayabiliriz:
+Y döneminde X yatırım stratejisini uygulamış olsaydım ne olurdu?
+Peki düşük riskli/yüksek olasılıklı ticaret nedir? Yatırımcılar olarak hepimizin riske karşı farklı bir 
+toleransı vardır. Genel olarak düşük risk, herhangi bir ticarette ticari sermayemizin belirli bir 
+yüzdesinden fazlasını riske atmaya istekli olmadığımız anlamına gelir. Bu yüzde, risk toleransınıza 
+bağlı olacaktır. Yüksek olasılıklı işlemler, istatistiksel olarak kanıtlanmış ve daha fazla kazanç 
+sağlayan, ortalama kazanma oranı ortalama kayıp oranından daha yüksek olan işlemlerdir. İle
+Delphian, avantaj, tescilli State Modeling™ ile para yönetimini uygulamaktan gelir.
+Tipik olarak, düşük riskli işlemler (tahviller gibi) daha düşük getiri 
+anlamına gelirken, daha yüksek riskli işlemler daha yüksek getiri ve 
+dolayısıyla daha yüksek risk sunar. Opsiyonlar bize ihtiyatlı veya aşırı 
+agresif olma esnekliği veriyor çünkü hangi opsiyon deltasını satın 
+alacağımızı veya satacağımızı biz seçiyoruz.
+Delta, opsiyon ticareti yaparken anlamanız gereken 
+seçeneklerden biridir. Opsiyon deltası, dayanak 
+varlığın fiyat değişimine kıyasla opsiyon fiyatındaki 
+değişimi hesaplar. Mesela ben olsaydım
+39www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+0,70 deltalı bir opsiyon satın aldığımda, dayanak hisse senedindeki her 1$'lık hareket için benim opsiyonum 0,70$ hareket 
+edecektir.
+Opsiyon satın alıyorsak, ihtiyatlı bir yaklaşım benimseyebilir ve deltası 0,70'in üzerinde olan kârlı 
+opsiyonları satın alabiliriz. Veya belki de çitlere yönelmek ve deltası 0,20 olan opsiyonları satın 
+almak istiyoruz. Bu bize doğru olma şansımızı yalnızca %20 veriyor... ama doğru olduğumuzda bu 
+bir sayı olmalı.
+Düşük riskli / yüksek olasılıklı ticaret stratejileri ararken seçenekler bize çok sayıda farklı yatırım 
+olanağı sunar. Opsiyon alıcısı, opsiyon satıcısı olabileceğimiz gibi aynı anda hem alıcı hem de satıcı 
+olabiliriz. Herhangi bir zamanda piyasa hakkındaki görüşümüze dayanarak, bize avantaj 
+sağlayacak bir ticaret yapılandırabiliriz. Uzun çağrılar satın almak gibi basit stratejileri veya Demir 
+Condor gibi birden fazla ayağı olan daha karmaşık stratejileri seçebiliriz. Her stratejinin kendi 
+zamanı ve yeri vardır.
+Volatilite (getirilerin standart sapması ile ölçülen, bir ticari fiyat serisinin zaman içindeki 
+değişim derecesi) düşük olduğunda, opsiyon alıcısı olmak tercih edilir. Tersine, volatilite 
+yüksek olduğunda opsiyon satıcısı olmak daha iyidir.
+Hisse senedi ticaretinde zaman, opsiyon satın almada olduğu kadar önemli bir faktör değildir. Teorik olarak bir 
+hisse senedini sonsuza kadar elinizde tutabilirsiniz. Bir opsiyon alıcısı olarak (başka bir deyişle, uzun opsiyonu olan 
+biri), zaman kaybı opsiyon ticaretimizin bir numaralı düşmanıdır.
+Delphian programıyla, tarihsel olarak benzer piyasalara bakabilir ve riske karşı ödül toleransınıza bağlı 
+olarak hangi opsiyon işlemlerinin en düşük riski yarattığını test edebiliriz.
+Gerçek Anlaşma Nedir?
+"Sistemimin kazanma yüzdesi %90'dı" dediğimi varsayalım. Başlangıçta etkilenmiş olabilirsiniz, değil 
+mi? Ancak sonuçları gerçekten analiz etmek için biraz daha derine inmemiz gerekiyor.
+40www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Bu %90'lık kazanç yüzdesi, her galibiyet için 10$ kazanacağım 
+anlamına gelebilir... ama ya bu, her kayıp için kaybedilen 100$'ı 
+hesaba katmazsa? Bu durumda kazandığı her 90$ için 100$ 
+kaybeden bir sistemim olur.
+Hayır teşekkürler!
+Tersine, yalnızca %30 kazanma yüzdesine sahip bir sistemim olduğunu 
+söylemek benim için o kadar etkileyici gelmeyebilir... ancak düşük bir 
+dezavantajla oldukça karlı olabilir.
+Kâr Faktörü
+Bir stratejiyi değerlendirirken, kazandığım paranın kaybettiğim paraya bölünmesiyle elde edilen 
+kâr faktörüne bakmayı severim.
+Örneğin, 1.000$ kazanan ve 500$ kaybeden bir sistemim olsaydı, kar faktörü 2 olurdu. 1'den 
+küçük bir kar faktörü, para kaybına neden olacağı için kesinlikle istenmez.
+Tescilli Durum Modellemesi™
+41www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Artık neyi arayacağımızı bildiğimize göre, bazı düşük riskli / 
+yüksek olasılıklı işlemleri nasıl bulabiliriz?
+Delphian'da, riski en aza indirmeye ve olasılıklar lehimize olduğunda 
+işlemlere girmeye yardımcı olmak için tescilli State ModelingTM'i 
+kullanıyoruz.
+Her hisse senedi ve endeks sekiz eyaletten birine kategorize 
+edilir. 1, 3, 5 ve 7 numaralı eyaletler yükselişte. Durum 2, 4, 6 ve 8 
+düşüş eğilimi gösteriyor. Eyalet 1 ve 8 uç noktalardadır.
+Tescilli Durum ModellemeTM, Günlük Durum Dağılımı, 
+Eyaletlere Göre Ortalama Günler ve
+Durum Başına Ortalama Hareket.
+Aşağıdaki grafikler Netflix (NFLX) hakkında bilgilerin görüntülendiği Delphian programından alınan ekran 
+görüntüleridir.
+42www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Netflix'in en aşırı yükseliş durumumuz olan Durum 1'de ortalama 65 gün sürdüğünü görebiliyoruz. 
+Durum 1 koşulunda ortalama %31 artış gösterdi.
+Bu verileri kullanarak zaman ve fiyat hareketinden yararlanmak için bir ticaret stratejisi 
+tasarlayabilir ve uygulayabiliriz. Bu tür ayrıntılı analizler riski azaltmak ve maksimum karlılığa 
+ulaşmak için gereklidir.
+Alış/Satış Göstergeleri
+Delphianmodelleme için kullanılabilecek 20 farklı alım/satım göstergesi ile 
+donatılmıştır. Kendi alım/satım sinyallerinizi yaratırsınız ve modelinize ticaret ve 
+para yönetimi parametrelerini verirsiniz. Kârda olan seçenekleri mi yoksa kârda 
+olmayan seçenekleri mi satın almanız gerektiğini belirlemek için farklı deltaları bile 
+test edebilirsiniz.
+Opsiyon satın alırken genel bir kural olarak, delta ne kadar yüksek olursa, opsiyon ticaretinizin 
+riski o kadar az olur çünkü zaten paraya çevrilmiştir ve kârla sonuçlanma olasılığı daha 
+yüksektir.
+Aşağıdaki grafikte, özel ticaret filtremizin riski nasıl azaltabileceğini ve başarı olasılığımızı nasıl 
+artırabileceğini görmek için Ocak 2007'den Aralık 2014'e kadar S&P 500 endeksi (SPX) 
+üzerinde bir test yaptım.
+Popüler bir giriş/çıkış sistemi olan 10/30 günlük üstel hareketli ortalama ile bir test yaptığımızda, 
+sistemin %43'lük bir kazanma yüzdesi ile 30 işlem gerçekleştirdiğini ve 1,34 kar faktörü ile 26.106,00 $ 
+kar elde ettiğini görüyoruz.
+43www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Bu durumda %100 kar hedefi kullandım. İşlemim %100 gerçekleştiğinde pozisyonu kapattım. Ayrıca %50'lik 
+zararı durdurma seçeneğini de kullandım ve işlemim %50'lik bir kayba ulaştığında herhangi bir pozisyonu 
+kapattım. Ben delta olarak 52'yi seçtim, bu da sistemin bir işlem ararken 52'ye en yakın deltayı arayacağı 
+anlamına geliyor.
+Şimdi, özel Durum 1 filtremizi tam ticaret planına ekledikten ve aynı testi yaptıktan sonra 
+sonuçlara bir göz atalım:
+The DelphianDurum 1 filtresi, yalnızca SPX en yükseliş durumundayken işlemleri görüntüler.
+Sonuç olarak bu, işlem miktarını 30'dan 21'e düşürürken kazanma yüzdesini yaklaşık %15, 
+kârı 30 bin doların üzerinde artırdı ve kâr faktörünü 1,34'ten 2,41'e çıkardı.
+Tescilli State ModelingTM filtre olarak kullanıldığında, kaybedilen bazı işlemler reddedildi. 
+Ticaretin tutarlılığına bakmak da önemlidir. Hiç kimse kârın çoğunluğunu elde edemez.
+44www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Seçeneklerin Esnekliği ve Faydası
+Opsiyonlar esneklikleri ve kaldıraçları nedeniyle 
+harika bir yatırım seçeneğidir. Uzun bir 
+pozisyonu hedge edebilir veya kaldıracı saf 
+spekülasyon için kullanabilirsiniz. Her iki 
+durumda da opsiyonları satın alarak aslında riski 
+azaltabiliriz. Ticaret opsiyonlarında risk olmasına 
+rağmen (çünkü bununla yüzleşelim, hatta
+Paranızı bankada tutarak risk en aza indirilebilir ve kontrol edilebilir.
+Düşük riskli / yüksek olasılıklı ticaretin anahtarı, ne zaman ticaret yapacağınızı bilmek ve riskinizi 
+anlamak ve ölçmektir.
+Delphian size geçmiş verileri analiz etme ve yatırımlarınız hakkında bilinçli kararlar verme yeteneği 
+verir. Risk göreceli bir ifade olduğundan, yatırım hedefinize uygun modeller oluşturarak risk 
+toleransınızın ne olduğunu belirlemenize olanak tanır. Durum modellememizle birleştirildiğinde 
+düşük riskli / yüksek olasılıklı işlemler bulabilirsiniz.
+45www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Delphian olarak şunu yapmanız gerektiğine inanıyoruz:Ticaretinizi Planlayın ve Planınızla Ticaret Yapın!
+ÖZEL TEKLİF
+Delphian'la ilgili daha fazla bilgi edinin.
+TıklamakBURADA bazı özel teklifler için!
+YAZAR HAKKINDA
+Michael McNelis, Delphian'da opsiyon strateji uzmanıdır. Kariyerine JW 
+Yatırım Bankacıları için çalışarak başladı, ardından halka açık Genesco 
+şirketi tarafından satın alınmadan önce sonunda 49 mağazaya ulaşan 
+alışveriş merkezi merkezli bir perakende zinciri olan Hatshack'ın 
+kurucu ortağı oldu.
+Michael 20 yılı aşkın bir süredir finansal piyasalarda işlem yapıyor ve hisse 
+senetleri, opsiyonlar ve hisse senetleri dahil olmak üzere portföyleri yönetiyor.
+vadeli işlem sözleşmeleri. Kapsamlı çağrı yazma, riskten korunma ve sermaye kazancı yoluyla gelir elde etmek için 
+geniş kapsamlı seçeneklere sahiptir ve S&P, petrol, doğal gaz, altın ve ABD doları vadeli işlem sözleşmelerinde 
+işlem görmüştür.
+46www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Kullanarak Piyasaları Tahmin Etmek
+Hacim ve Fiyat
+Yazan: Nigel Hawkes, HawkeyeTraders.com
+Fiyatın ne yaptığına dair onay ekleyen bazı normal hacim özellikleri şunlardır:
+1. Hacim, sıkışıklığa girmeden hemen önce en yüksektir; Örneğin kanal, flama, 
+bayrak, üçgen vb.
+2. Tıkanıklığın derinliklerine doğru ilerledikçe hacim en düşük seviyede olur.
+3. Hacim, GEÇERLİ bir tıkanıklık çıkışıyla artar ve ardından trend başladıkça bu 
+yüksek hacim seviyesinden bir miktar AZALIR.
+4. Büyük dönüşlerde hacim artışları.
+5. Hacim genel trendle birlikte gider ve karşı trendde kurur; yani hacim trendle 
+birlikte hareket etmelidir.
+6. 1-2-3 veya ikili veya üçlü üst veya alt formasyonlarda, ikinci dip/tepeye daha 
+düşük hacmin girdiğini görmelisiniz. İkinci tepe/alttan sonra, eğer bir 
+tersine dönüş ise, hacmin yeni, ters yönde yükseldiğini görmelisiniz. 
+Sıkışıklığa girerse yavaşlaması gerekir.
+Aşağıdakiler, hacmin yukarıdaki gibi davranmaması nedeniyle fiyatın YÖNÜNÜ gösteren 
+olağandışı hacim özellikleridir:
+Sıkışıklığın oluşumunun ALT fiyat seviyesinde daha ağır hacim meydana gelirse, 
+formasyonun SON AŞAMASINDA bu, önemli alım desteğinin verildiği ve sonunda 
+sıkışıklığın üst direnç seviyesini kırdığında fiyatın yükseleceği anlamına gelir. SONRAKİ 
+YÜKSEK fiyat seviyesinde daha ağır hacim meydana gelirse
+47www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Sıkışıklık oluşumunun AŞAMASINDA, bu, alıcılardan daha fazla satıcının olduğu ve fiyatın 
+sonunda sıkışıklık modelinin alt destek seviyesinden düşeceği anlamına gelir. Bu nedenle, 
+fiyatın, üçgen, kanal veya bayrak gibi tıkanıklık modelinde hacmin en yüksek olduğu yere 
+TERS yönde hareket etmesi konusunda tetikte olun. Bu aynı zamanda Wyckoff'un sıçrama 
+tahtası için de geçerlidir; burada talebin (alıcılar) kontrolü ele aldığı veya daha yüksek 
+hacmin geldiğini gördüğünüz uzun bir birikim döneminin (veya uzun bir fiyat düşüşü 
+döneminden sonra) alt kenarlarına yoğun hacim geldiğini göreceksiniz. Arzın (satıcıların) 
+kontrolü ele aldığı, uzun süreli dağıtım döneminin (veya uzun bir fiyat artışı döneminden 
+sonra) daha yüksek sınırı.
+1. Buna ek olarak, kırılma yönünde hacim görmelisiniz – bu normaldir, 
+dolayısıyla kırılma yönünde hacim görmüyorsanız, o zaman fiyat 
+muhtemelen ters yönde ilerleyecektir çünkü yeterli değildir Alıcılar (veya 
+açığa satış durumunda satıcılar), fiyatı yukarıya (ya da alt kenardan kısa 
+pozisyon oluşması durumunda aşağıya) yönlendirmek için tıkanıklığın 
+yüksek kenarında mevcuttu. Bu nedenle, bir çıkış sırasındaki düşük hacim, 
+ters yöne girmeyi düşünmeniz gerektiği anlamına gelir. Bu nedenle, kırılma 
+sırasında hacim başlangıçta hafifse, kırılma yönünde devam etmeyecektir.
+2. Bir kırılma sırasında hacmin artması beklenir ve bir kırılma meydana 
+geldiğinde, trend oluşmaya başladıkça hacmin azalması da normaldir. 
+Ancak kırılmanın ardından hacim yüksek kalırsa ve fiyatlar çok güçlü 
+hareket ederse, bu durum kırılmanın geçerli OLMADIĞINI ve fiyatın en 
+azından bir süre daha sıkışıklığa geri döneceğini öngörüyor. Fiyat yüksek 
+hacimde geri çekilirse ve sıkışıklığın dış kenarından sıçrarsa ve hacim tekrar 
+yükselirse, bu geçerli bir kırılmadır.
+3. Eğer hacim karşı trendde de trendde olduğu kadar yüksekse, bu size fiyatın 
+ters yöne dönmek üzere olduğunu gösterir.
+48www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+gidiyordu; yani olağan durum trendde yüksek hacim, karşı trendde ise 
+düşük hacim göstermelidir.
+4. Genellikle geniş bir çubuk veya bu yüksek hacimle birlikte birden fazla şiddetli fiyat 
+dalgalanması, fiyatın yakında tersine döneceğini gösterir.
+5. Her zaman karşı trend hacminin trend hacminden yüksek olmasına dikkat 
+edin.
+6. Üst hacimdeki patlamalar genellikle hızlı bir şekilde gerçekleşirken, alt 
+hacimdeki patlamalar hayal edilir ve ayı piyasasının sona erdiğinin sinyalini 
+vermeden önce BİRKAÇ dip testi yapılabilir. Bu, dipte aynı anda çok büyük 
+hacim artışları görmeyeceğiniz anlamına gelir.
+Hacim artışları – alıcıların kuruması nedeniyle yukarı yönlü yükselişleri her zaman ağır aşağı yönlü fiyat 
+baskısı takip eder. Hisse senetlerindeki aşağı yönlü fiyat dönüşleri genellikle sıkışıklığa yol açarken, 
+genel piyasa çöküşleri yukarı yönlü bir yükselişe benzer bir eylemle sonuçlanır; yani bir geri dönüş. 
+Halihazırda bir işlem yapıyorsanız, bu ani artışlar/kreşendolarda çıkış yapmayı düşünmelisiniz çünkü 
+burası fiyatın size karşı tersine döneceği yerdir.
+Bir HAREKETİN SONUNDA çok küçük bir yukarı yönlü fiyat hareketine, zirvelerdeki büyük hacimli 
+yükselişlerin eşlik etmesi gerektiğini unutmayın. Bu ilerlemenin sonunun habercisidir. Büyük veya 
+orantılı fiyat hareketi ile hacim artışları yaşarsanız, fiyat devam edebilir. Yani önemli olan, fiyatın 
+yüksek hacimde bir direnç çizgisine veya küçük aralıktaki çubuklara ulaşmasıdır. Küçük aralık 
+çubuğu, direncin (veya düşüşten sonra büyük hacim olması durumunda desteğin) olduğunu 
+gösterir.
+Hacim kreşendosunun koşulları:
+49www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+FİYAT TRENDİ FİYAT TRENDİ SONRAKİ FİYAT
+Ses düzeyi artmadan önce Hacim Crescendo Oluşturulurken
+Yükselen Aşağı
+Yükselen Parçalanıyor Aşağı
+Düz veya Sıkışık Yukarıya doğru kırılma Yukarı
+Düz veya Sıkışık Aşağıya doğru kırılma Aşağı
+Düşme Yukarı
+Düşme Ters Çevirme Yukarı
+Düşük Hacim
+1. Fiyat trendin sonraki aşamalarında devam ettikçe hacmin azalmaya veya yavaşlamaya başlamasına 
+dikkat edin. Bu olası bir geri dönüşün, duraklamanın veya en azından bir çıkış noktasının sinyalidir. 
+Büyük olasılıkla bu, tıkanıklık/geri çekilme sonrasında mevcut eğilimin daha da devam edeceğini 
+gösteren bir duraklamadır. Bu, bir trendin son aşamalarında yüksek hacim gözlemlenmesinin tam 
+tersidir; bu durum, katılımcıların ellerindeki varlıkları tasfiye ettiklerine işaret edeceği için gelecekteki 
+bir tersine dönüşün daha fazla göstergesi olabilir. Tıkanıklığa/geri çekilmeye giren hacimdeki bir 
+azalma, basitçe katılımcıların aynı yöndeki bir sonraki bacak için hala beklemede oldukları anlamına 
+gelir, dolayısıyla bu noktada konumunuzu korumak veya girmek/eklemek isteyeceksiniz.
+2. Gerçek (kalıcı) bir üst veya alt formasyonun tersine dönmesi, geri dönüşten ÖNCEKİ trendin yanı 
+sıra geri dönüşten SONRA/ÜZERİNDE yüksek hacim göstermelidir. Tersine dönüş sonrasında/
+tersine hafif bir hacim gösteriyorsa bu, orijinal trendin devam edeceği ve trendin tersine 
+dönmeyeceği anlamına gelir; yani bu sadece bir duraklamadır. Bu, tepe/dip oluşumundan ÖNCE 
+ve SONRA/SIRASINDA hacmin doğasına bakarak bunun geçici mi yoksa kalıcı bir tepe/dip mi yoksa 
+sadece trendde bir duraklama mı olduğunu nasıl anlayacağınızdır. Başka bir deyişle, trendin son 
+aşamalarında hacim ne yapıyor VE fiyat tersine dönerken hacim ne yapıyor? Bu öncesi ve sonrası 
+analizi, fiyatın geçici olarak geri çekilip çekilmeyeceğini belirler.
+50www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+tıkanıp orijinal trend yönünde devam edip etmeyeceği veya kalıcı olarak ters yöne dönüp 
+dönmeyeceği.
+3. Bir trendin son aşamalarında, fiyat yükselmeye devam ederken hacim kurursa buna dikkat edin, 
+çünkü bir tersine dönüş genellikle hacim kreşendosunda olduğu gibi gerçekleşir, ancak bu durumda bir 
+artış olabilir veya olmayabilir. hacim kurumadan önce yükselişe geçin. Fiyatların yükseldiğini ve hacmin 
+azaldığını görürseniz, kısa pozisyon açmalı veya uzun pozisyonlardan çıkmalısınız. Fiyatlar artıyorsa, 
+yükseliş trendindeyse hacmin de artması gerektiğini ve fiyattaki düşüş veya konsolidasyon sırasında 
+hacmin geçici olarak azalması gerektiğini unutmayın. Benzer şekilde, ayı piyasasında fiyatlar düşmeye 
+devam ederken düşük hacim konusunda dikkatli olun; çünkü alıcılar nihayet geri adım attığında ve tüm 
+satıcılar ortadan kaybolduğunda yukarı yönlü bir toparlanma beklemeniz gerekir. Bu paragraf, geri 
+dönüş (kalıcı) veya geri çekilme/tıkanıklık (geçici) ÖNCESİ/SIRASINDA hacim aktivitesini açıklar. 
+Gelecekte üstte/altta SONRA/SONRA neler olabileceğini açıklar. Dolayısıyla bu bir erken uyarıdır ANCAK 
+kesin değildir. Gerçekten emin olmak için, yukarıda 2'de açıklandığı gibi ses seviyesini üst/alttan 
+SONRA/AÇIK olarak izlemeniz gerekir.
+4. Düşük hacimli fiyat artışları (veya düşüşleri) aslında alıcıların ve satıcıların dengede 
+olduğunu gösterir; bu durum, bir tarafın tekrar hakimiyet kurması uzun süremez… ve bu, 
+önceki eğilimin hareket ettiği yönün tersi yöndedir. ancak yine de önemli olan, yukarıda 
+açıklandığı gibi üst/alttan SONRA/SONRA ne olacağı gibi görünüyor, çünkü düşük hacimli 
+kurutma eylemi, kalıcı bir geri dönüş yerine yalnızca geçici bir duraklama olabilir.
+5. Yukarıdakilerin söylediği şu: Bir trend sırasında hacmin güçlü veya en azından İSTİKRARLI VE 
+TUTARLI bir şekilde hareket etmesi gerektiğinin tersini görürseniz, o zaman tersine dönmeye veya 
+duraklamaya dikkat edin. Genel tema şudur: Piyasa fiyatı ilerledikçe tepelerde/diplerde daha 
+düşük hacim görürseniz, o zaman geçici (geri çekilme/tıkanma) veya kalıcı (tersine dönme) olsun 
+bir tür değişiklik arayışında olun. Bunun nedeni, yalnızca çok az fiyat hareketi olduğunda veya hiç 
+fiyat hareketi olmadığında düşük hacim görmenizdir. Bunu şu şekilde hatırlayın: Düşük hacim = 
+düşük fiyat hareketi. Fiyat hareketlerine düşük hacim de eşlik ederse bu durum uzun süre 
+sürdürülemez ve bir düzeltme yaşanır.
+51www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+6. Bununla birlikte, ışık hacminin anlamı, fiyat yalnızca kanalize oluyorsa veya hafif hareket ediyorsa, ışık 
+hacmi mutlaka bir fiyat geri çekilmesini veya tersine dönmesini garanti etmez; çünkü ışık hacminin anlamı 
+budur (başka bir deyişle, ışık hacminin tersine dönmesi yalnızca fiyat bir yönde hızlandığında meydana 
+gelmelidir, fiyat zaten düştüğünde değil). Dahası, önyargı şu ki, eğer hacim hafifse, o zaman fiyat 
+muhtemelen düşecektir, çünkü korku, açgözlülükten daha önemli bir motivasyon unsurudur, dolayısıyla hafif 
+hacmi izleyen insanlar, satın almaktan çok satmaya eğilimlidir. Dolayısıyla piyasanın kendi ağırlığından 
+düşeceği aksiyomu, ilerlemek için ise ağır bir satın alma baskısına ihtiyaç duyuyor.
+7. Yani önemli olan şu ki, eğer hacim düşüyorsa ve fiyat geri dönüyorsa veya pivottan SONRA 
+tıkanıklığa giriyorsa, o zaman fiyat muhtemelen önceki trend yolunda devam edecektir. Fiyat 
+pivottan SONRA yüksek hacim altında geri dönüyorsa, ters yönde yeni bir trend devam ediyor 
+demektir ve hafif hacim altında yalnızca küçük düzeltmelerin meydana gelmesi gerektiğinden 
+geri dönüş kalıcıdır. Hem hacim hem de fiyat bir pivottan ÖNCE artıyorsa (ancak çok değişken 
+değilse), o zaman fiyat mevcut trend yönünde devam edecek ve yalnızca geçici olarak geri 
+çekilecek/tıkanacaktır. Hacim düşüyorsa ve fiyat pivottan ÖNCE yükselmeye devam ediyorsa, 
+gelecekte yalnızca bir düzeltme yerine kalıcı olabilecek bir geri dönüş veya geri çekilme 
+bekleyin… yine, fiyat yönünü doğrulamak için hacim özellikleri için pivottan SONRA bakın. 
+Ancak hacim pivottan ÖNCE/ON'da hakim trend yönünde aşırı yüksekse, o zaman kalıcı bir 
+tersine dönüş meydana gelecektir; yani doruk noktası. Tparagrafı esasen cilt özelliklerinin bir 
+özetidir.
+8. Wyckoff:Bu paragraf, fiyat tersine dönmeden ÖNCE hacim modellerini açıklamaktadırBaşka bir deyişle, 
+fiyat HALA bir trend içinde ilerlerken: Yükseliş hareketinin sonraki aşamalarında, alıcıların (talep) kurumasını 
+veya hareket sona erdiğinde daha fazla satıcının (arz) ortaya çıkmasını sağlayabilirsiniz. Fiyatın yükselmeye 
+devam etmesi, ancak momentum kaybetmesi (yuvarlama) ve aralıkların daralmaya devam etmesi 
+gerçeğinden kontrolün kimin elinde olduğunu anlayabilirsiniz.
+Hacmin artması, daha fazla satıcının ortaya çıkması anlamına gelir.
+A. Hacmin azalması, alıcıların artık mevcut olmadığı anlamına gelir. En üst pivota 
+giden düşük hacim, talebin azaldığını gösteriyor.
+52www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Her iki durum da trendin tersine döneceğini gösteriyor. Bu uyarılardaki önemli fark, eğer daha 
+fazla satıcı (arz) varsa, bu durum talebin kurumasından ziyade fiyat düşüşünün göstergesidir. Bu, 
+ayıların kontrolü ele alması nedeniyle ralli bittiğinde düşüşün daha büyük olacağını gösteriyor. Bu 
+senaryo, arz tarafının kontrol altında olmadığı durumlarda talebin kuruması ile tezat oluşturuyor. 
+Bu sadece alıcıların BU ZAMANDA daha yüksek fiyatlara daha az ilgi duyduğu anlamına geliyor. 
+Fiyatın zirveye doğru ilerlemesi nedeniyle hacmin küçük olmasıyla kanıtlandığı gibi talebin 
+kuruması, bu sahiplerin satış yapmaması ve yeni satıcıların açığa çıkmaması nedeniyle yalnızca 
+fiyatta bir duraklama olabilir. Sahipler satış yapıyorsa veya ayılar tarafından açığa satış yapacak bir 
+zirve algısı olsaydı, o zaman hacim yüksek olurdu. Bu durumda kısa pozisyon alma olasılığı daha 
+yüksek, hacmin yalnızca azalması yerine daha yüksek hacimde oluşan tepe noktalarını izlemek 
+olacaktır. Bakılması gereken bu eylemin miting hala devam ederken olduğunu unutmayın; yani, 2 
+ve 7'de ayrıntıları verilen 'öncesi'. Tepeyi takip eden reaksiyonda değildir ("sonra" olarak bilinir), bu 
+durumda genel kurallara uyar. Örneğin, geri dönüşün hacmi yüksekse, o zaman trend, geri 
+dönüşteki hafif hacimle karşılaştırıldığında düşük olacaktır; bu, orijinal yükseliş eğiliminin devam 
+etmesiyle yalnızca bir düzeltme olduğunu gösterir.
+Düşüş trendinde de aynı senaryo tersten gerçekleşir. Özellikle fiyat hala düşüş trendindeyken 
+daralırken hacmin azalması, satıcıların az olduğunu gösterir ve fiyat yuvarlanırken/dibe doğru 
+yavaşlarken hacim artıyorsa, yüksek hacmin de gösterdiği gibi hisseler yutulduğu için talep kontrol 
+altında demektir . Bu nedenle, düşüş trendi sırasında veya trendin sonundaki yüksek hacim, yeni 
+bir yükseliş trendi başlatmak için önemli bir geri dönüş olasılığının daha yüksek olmasını 
+sağlayacaktır. Diplerdeki hafif hacim, arzın kuruduğunu ve satış baskısının kalktığını gösteriyor, bu 
+da muhtemelen daha fazla satışa yol açacak.
+9. Wyckoff: Bu paragraf, fiyat tersine döndükten SONRA hacim modellerini açıklamaktadır. 
+Wyckoff, önemli bir düşüş veya satış zirvesinden SONRA, hafif hacimde fiyat artışı görürseniz, 
+bunun satıcıların gittiğini ve yükseliş eğiliminin başlayacağını kanıtladığını belirtiyor. Hafif hacimde 
+bu yükselişi 2. sıraya görürseniz, o zaman muhtemelen ışık hacminde 3. noktaya kadar bir tepki 
+alacağınızı, bunun da satış zirvesinin düşük 1. noktasını ortadan kaldırmayacağını söylüyor. 
+Bundan sonra birikim başladığında yüksek hacmin geldiğini görürsünüz.
+53www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Benzer şekilde, ilk düşüşteki hafif hacim, alıcıların gittiğini ve satıcıların piyasaya baskı 
+yapmadığını ancak trendin düşüşe geçeceğini gösteriyor. Hafif hacimdeki bir sonraki ralli, 
+alım zirvesini sonlandırmamalı. O zaman satıcılardan düşüş eğiliminin yaklaştığını 
+gösteren yoğun hacim geldiğini görmelisiniz. İlk reaksiyonda hemen yoğun hacim gelirse, 
+o zaman muhtemelen 1-2-3 veya çift tepe düzeltme tarzı olmayacak, dolayısıyla hafif 
+hacim düzeltmesi gördüğünüzde olduğundan çok daha hızlı hareket etmeniz gerekir. alt. 
+Dolayısıyla, bir kreşendo veya zirveden SONRA hafif hacim size bir duraklamanın (çift 
+tepe/alt, 1-2-3, tıkanıklık vb.) meydana gelebileceğini söylerken, bir kreşendo/doruk 
+noktasından SONRA yoğun hacim size piyasanın tersine döneceğini söyler. hemen zıt bir 
+trende giriyor.
+10. Bu hacim matrisi, Watford'dan bir geri çekilme matrisine dönmeden kısa bir süre ÖNCE 
+trendin SONRAKİ aşamalarındaki hacme bakıldığında bir fiyat yönü tahminini gösterir:
+11. Bu hacim matrisi, pivottan SONRA hacme bakıldığında bir fiyat yönü tahminini 
+gösterir, yani fiyat zaten tıkanıklığa/geri çekilmeye giriyor. Bu aslında aşağıdaki Cassidy 
+matrisiyle aynıdır çünkü fiyat hareketi ve hacim hareketinin el ele gitmesi gerektiğini 
+gösterir - Watford'dan matris:
+54www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Döndürme SONRASI HACİM
+Daha yüksek Daha düşük
+Yukarı Yükseliş düşüş eğilimi
+Aşağı Yükseliş düşüş eğilimi
+12. Bu matris, trend hala hareket ederken ancak bir düzeltme/tıkanıklığa girerken hacme 
+bakıldığında fiyatın yönünü tahmin eder. Genel fikir, hacmin trendi teyit etmesi gerektiği 
+yönünde; yani, eğer hacim düşükse bu fiyat geri çekilmeli/sıkışmalı olmalı ve daha yüksek 
+hacim fiyat hareketini doğrulamalıdır - Cassidy'den alınmıştır:
+HACİM
+Daha yüksek Daha düşük
+Yukarı Yükseliş düşüş eğilimi
+Aşağı Yükseliş düşüş eğilimi
+13. Düşük hacimli geri dönüşleri görme olasılığınızın olduğu durumlara ilişkin diğer bir ayrım, bu koşullardan birinin veya her 
+ikisinin mevcut olduğu zamandır:
+A. Düşük hacimde yavaş veya düzensiz bir fiyat artışından (veya trend düşüyorsa düşüşten) 
+sonra.
+B. Fiyatların düşük hacimde kanalize olduğu bir durgunluk döneminin ardından.
+55
+FİYAT FİYATyeniden izleme/tıkanıklık
+SONRASINDAeksen
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Her ikisinin de hafif hacimde gerçekleşmesi, piyasa katılımcılarının sabırsız olduğunu ve dolayısıyla iki şeyden 
+birinin meydana gelebileceğini gösterir:
+A. Hisse senedini elinde bulunduran alıcıların sabırsızlığı, daha yüksek hacimle kanıtlandığı gibi satışa neden 
+olur veya,
+B. Hem talep hem de arz kurudu, böylece hafif hacimden de anlaşılacağı üzere piyasa 
+kendi ağırlığı altında kaldı. Bu senaryo genellikle derin bir düşüşle sonuçlanmaz, 
+ancak kararsızlığı kıran haberler vb. sonucu belirleyici bir dönüş oluşana kadar 
+kanal içinde ışık hacminin yukarı ve aşağı olduğu bir kanal donukluğuna neden 
+olur.
+14. ÖNEMLİ: Bir düzeltmenin (veya DÜZELTME OLMADAN TIKIŞMAYA girmenin) bir geri çekilme mi 
+yoksa tersine dönüş mü olduğunu belirlemek için, yalnızca hacmin önceki trendin desteğini 
+gösteren hafif olduğunu görmekle kalmaz, aynı zamanda fiyatın da onaylanmasını istersiniz. 
+düzeltmeye yol açan pivottan fiyat kırılması (yani, fiyatın yukarı/aşağı kırılması) yoluyla
+Yalnızca bir geri çekilme ise 1 numaralı pivot). Eğer bu bir tersine dönüşse, o zaman fiyat 1-2-3 veya çift tepe/
+dipteki 2 numaralı pivotun üstüne/altına kırılmalıdır. ES'de çoğu zaman hacmin altında bir ilerleme 
+görürsünüz ve ardından fiyat, GELİŞMEDEN SONRA aşağı yönlü bir düzeltme olmaksızın yatay olarak kanalize 
+olur. Bu kanallaşma meydana geldiğinde, birkaç 540-tikli çubuk için çok az hacim görüyorsanız veya hiç 
+hacim görmüyorsanız, trendin orijinal yolunda devam etmesini bekleyin. Kanallaşmanın yoğun hacim altında 
+olduğunu görürseniz, kırılma mı yoksa düşüş mü olacağını belirlemeye çalışmalısınız; genellikle orijinal 
+trendden tersine döner. Sabit hacim altında fiyattaki bir yükselişin ardından yaşanan donukluk genellikle 
+trendin yeniden başlaması anlamına gelir.
+Büyük Alım Hacmi – Güçlü eller tarafından dağıtım. FİYATLAR YÜKSELDİKTEN SONRA fiyatların 
+daha fazla artmaması, bunun bir direnç seviyesi olduğu ve fiyatın düşeceği anlamına gelir 
+çünkü tüm satın alma hacmini emen daha fazla satıcı vardır, bu da sonunda alıcıları kurutur ve 
+böylece fiyatlar düşer. Bu bir geri dönüş noktası olmayabilir, çünkü fiyat genellikle bir 
+konsolidasyona doğru düşer ve alıcılar hüsrana uğrayıp fiyatı artırmayı bıraktıktan sonra en 
+sonunda fiyatı aşağı yönlü kırar. Buradaki anahtar şu ki, eğer
+56www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Yoğun hacim görüyorsanız ama fiyat aynı oranda artmıyorsa, dağıtım oluyor ve fiyatlar 
+düşecek, dikkatli olun. Yüksek hacimdeki büyük fiyat artışı (yükseliş ya da zirvenin bahar 
+sonu) diğer öncüldür.
+Büyük Satış Hacmi – Güçlü ellerin birikimi. FİYATLAR DÜŞTÜKTEN SONRA fiyatların daha fazla 
+düşmemesi, bunun bir destek seviyesi olduğu ve fiyatın artacağı anlamına gelir çünkü alıcılar, 
+satıcıların tüm hisselerini emer ve bu durum, sonunda satıcıların yerini fiyat avansına bırakacak 
+şekilde kurutur. Yine, bu genellikle satıcılar hayal kırıklığına uğradığında, tükendiğinde veya yeterli 
+miktarda mevcut olmadığında sonunda yukarı yönlü bir kırılmaya yol açacak bir konsolidasyon 
+aşamasıdır. Buradaki kilit nokta, eğer yoğun bir hacim görüyorsanız ancak fiyat aynı oranda 
+düşmüyorsa, birikim oluştuğuna ve fiyatların eninde sonunda yükseleceğine dikkat edin. Yüksek 
+hacimdeki büyük fiyat düşüşü (sarsılma veya satışın doruğa ulaşması - düşüşün sonu) diğer 
+öncüdür.
+Hacimli Diğer Fiyat Modelleri
+1. Büyük bir artıştan sonra kapanışın açılıştan daha az olduğu dar aralık çubuğu üzerinde hacmin 
+standart sapmasının iki katından fazlasına dikkat edin, çünkü bu aşağı yönde bir tersine 
+dönüşün habercisidir. Benzer şekilde, bir ayı piyasasından sonra, kapanış açıktan daha büyük, 
+büyük hacimli ve dar aralıklı bir çubukla karşı karşıya kalırsanız, bu durum yukarıya doğru bir 
+dönüş demektir.
+2. HEM ışık hacmine HEM de çok dar bir aralığa dikkat edin; çünkü bu, küçük aralık 
+çubuğundan bir yönde veya diğer yönde bir patlamanın başlangıcıdır.
+3. Hawkeye, fiyatların çok hızlı hareket ettiğini ve hacim yakalanana kadar beklemeleri gerektiğini, 
+dolayısıyla x miktar hacim dolana kadar hamle sonrasında tıkanıklık yaşandığını düşünüyor. sonra 
+fiyat tekrar yükselir.
+57www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+ÖZEL TEKLİF
+Birden fazla grafik platformunda sunulan HACİM ANALİZİ'ne başlamak için özel teklifinize 
+kaydolun! Daha fazla bilgi için bu sayfayı ziyaret edin -www.TradingPub.com/LRHP7
+YAZAR HAKKINDA
+Nigel Hawkes, Hawkeye Traders'ın kurucusudur ve 1986'dan beri ticaret 
+yapmaktadır. Onun tek araçları grafik kağıdı, kalem ve hesap 
+makinesidir. Nigel şu anda günümüzün en güçlü hacimli ticaret yazılım 
+sistemlerinden biri olan Hawkeye Traders'ın başkanıdır.
+Nigel, hacim yayılımı analizi ve fiyat hareketi konusunda kendi teorilerini ve yöntemlerini test eden 
+titiz çalışmalar yürüttü. Daha sonra açık yüksek/düşük kapanışı kullanarak kendi göstergelerini 
+geliştirdi ve bunun, açıklığı hesaba katmadığı için geleneksel hacim yayılımı analizine göre 
+üstünlük sağladığını buldu. Bu, ticaretinin karlı ve tutarlı hale gelmesiyle sonuçlandı. Birkaç 
+programcıyla ve binlerce saat süren uzun bir yolculuğun ardından yazılım tamamlandı ve dünya 
+çapında kullanıma sunuldu.
+58www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Nihai
+Pazarlık avcısı
+Yazan: Charles Mizrahi, InsiderWealthAlert.net
+1934'te ortak yazarlar Benjamin Graham ve David Dodd Güvenlik Analizi'ni yazdılar.
+Bu 700 sayfalık kitap, yatırıma yönelik mantıklı bir yaklaşımın yapısını 
+ortaya koydu. Astrolojinin karanlık çağlarından, önsezilerden ve 
+ipuçlarından yatırım yapmayı gerektirdi. Yazarlar, başarılı yatırımın şansa 
+veya tahmine değil, bir şirketin geçmiş kayıtlarının analizine dayandığını 
+söyledi. Yapı ve mantık sağladı ve sağlam yatırım için entelektüel bir 
+çerçeve oluşturdu.
+Birkaç yıl sonra, 1949'da Graham, Güvenlik Analizi'nden farklı olarak sıradan kişilere 
+yönelik olan Akıllı Yatırımcı'yı yazdı. Kitap Omaha, Nebraska'da bir gencin eline geçti. 
+Kitabı okumanın hayatını değiştirdiğini söyledi. O gençWarren Buffet.
+Buffett, The Intelligent Investor'ın ilk baskısını 1950'nin başlarında, 19 yaşındayken okudu 
+ve şunları söyledi: "Bunun yatırımla ilgili şimdiye kadar yazılmış en iyi kitap olduğunu 
+düşündüm. Hala öyle olduğunu düşünüyorum." Yakın zamanda yapılan bir röportajda, 
+yatırım yapmaya başladığından bu yana yatırım yaklaşımının nasıl değiştiği sorulduğunda 
+Buffett, "Yatırım konusundaki yaklaşımımı 1949 veya 1950'de Ben Graham'ın bir 
+kitabından öğrendim ve hiçbir zaman değişmedi" dedi.
+59www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Geçtiğimiz 80 yıl boyunca Graham'ın ilkeleri varlığını sürdürdü ve 
+her geçen yıl daha da sağlamlaşıyor ve daha iyi anlaşılıyor. 
+Graham'ın hisse senedi yatırımına yaklaşımı üç prensipten 
+oluşuyor:
+1. Hisse senetlerini gerçekte oldukları gibi görüntüleyin; grafikteki hareketler 
+değil, bir işin parçaları.
+2. Bay Piyasa adını verdiği ve her işlem gününde hisselerinizi almayı veya 
+satmayı teklif ettiği borsayı ortağınız olarak görün. Onun size rehberlik etmek 
+için değil, size hizmet etmek için orada olduğunu unutmayın.
+3. Yalnızca hisse senedinin fiyatı ile işin temel değeri arasında bir boşluk veya Graham'ın 
+deyimiyle "güvenlik marjı" olduğunda satın alın.
+Güvenlik analizinin babası olarak da bilinen Graham, borsaya karmaşık matematiksel 
+denklemler kullanan bir finans mühendisi olarak değil, bir iş insanı olarak yaklaştı.
+Yıllar geçtikçe, eğer yatırımcılar hisse senetlerinin bir işin parçası olduğu şeklindeki ilk prensibi 
+benimserlerse, diğer iki prensibin de buradan kaynaklandığını keşfettim. Ancak hisse senetlerini bu şekilde 
+görmekte zorluk yaşarlarsa, muhtemelen bunu hiçbir zaman anlayamayacaklar ve işin temelleri dışında her 
+şeye dayanarak hisse senedi alıp satmaya başlayacaklar.
+Özel yatırımcı
+Başarılı iş adamlarının özel bir işletmeye yatırım yaparken bir yaklaşımı, hisse senedi söz konusu olduğunda ise 
+başka bir yaklaşımı nasıl uyguladıkları beni her zaman şaşırtmaya devam ediyor. Özel bir işletmenin sahibinin 
+aşağıdakilere dayanarak kararlar aldığını düşünün:
+• Şirketinin günlük satışlarının 50 günlük hareketli ortalamasının, günlük banka mevduatlarının 
+200 günlük hareketli ortalamasının üzerine çıkması durumunda yeni bir bölüm açmaya karar 
+vermek.
+60www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+• İngiltere'de bir bankanın millileştirildiğini duyunca, bir komisyoncuyu arar ve 
+100 yıllık çok karlı aile şirketini gerçek değerinin %30 altında satışa sunar.
+• İşsizliğin %7'ye yükseldiğini gösteren bir hükümet raporu yayınlandıktan sonra, 
+bir rakibini arar ve o işletmeyi şirketin istediği fiyatın %25 üzerinde satın almayı 
+teklif eder. Coşkunun nedeni işsizlik sayısının tahmininden %0,20 daha düşük 
+olmasıydı.
+• Şirketinin banka mevduatlarının grafiğini çizerken, grafik modelinin "ters baş 
+ve omuzlar" modelini izlediğini fark eder ve 20 çalışanını işten çıkarma kararı 
+alır.
+Eğer bu kararlar gerçekten özel bir iş insanı tarafından verilmiş olsaydı, bu kişinin ne 
+kadar süre iş hayatında kalacağını sorguluyorum. Bu kadar bağlantısız verilerden sonuç 
+çıkaran ve bunları fiilen uygulayan bir iş adamı bulmak zor olurdu. Ancak size özel bir iş 
+yerine hisse senetlerinden bahsettiğimi söylesem çoğu yatırımcı ikinci kez düşünmez.
+Hisse senetlerine yatırım yapan çoğu kişi, bunların aslında bir işin parçası olduğunu unutuyor. 
+Bunun yerine, o işletmenin parçalarını (hisselerini) satın alma ve satma konusunda duygulara 
+dayanarak ve işin altında yatan değeri çok az dikkate alarak kararlar verirler. Özetle bu tür 
+yatırımcılar Graham'ın ilk ilkesinde ortaya koyduğu zihniyette değiller.
+Graham, sağlam bir yatırımın anahtarının "kendinizi bir parça sahibi olarak görmek" olduğunu ve 
+bunun da sağlam bir yatırım için çok mantıklı bir yaklaşım olduğunu söyledi. Kendinize şunu sorun: "Bu 
+hisselerin piyasası olmasaydı bu şirkete yatırım yapmak ister miydim?"
+Değerli bir yatırımcı olarak, kısa vadede hisse senedi fiyatlarının bir hisse senedinin veya sektörün ne 
+kadar popüler olduğuna bağlı olarak dalgalandığını biliyorsunuz. Yatırımcılar hisse senetlerini sadece 
+yükseldikleri için alırlar, düştükleri için de satarlar. Momentum tüccarları olarak buna bir isim bile 
+verdiler. Bu tüccarlar, şirketin değeriyle ilgili olarak şirketin mali tablosu, rekabet avantajı veya hisse 
+senedi fiyatı hakkında herhangi bir analiz yapmazlar.
+61www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Bu tür bir yaklaşımın neden olduğu hisse senedi fiyatlarındaki dalgalanmalar, değer yatırımcısına 
+çok büyük bir fırsat sunuyor. Bir hisse senedi veya sektör sevilmediğinde ve istenmediğinde hisse 
+senedi fiyatı, işin temelindeki değerle hiçbir ilişkisi olmayan seviyelere düşer.
+Özel bir şirkette karar verme konusunda tamamen aptalca görünen yatırımcıların hisse 
+senetlerine başvurma konusunda hiçbir sorunu yok. Uzun vadede hisse senedi fiyatları işin asıl 
+değerine uygun olarak hareket eder. Hisse senedi fiyatının işin asıl değerinin çok üzerine çıktığı 
+zamanlarda satıcı, hisse senedi fiyatının işin değerinin çok altında işlem gördüğü zamanlarda ise 
+alıcı olmak isteriz. Warren Buffett bunu en iyi şekilde ifade etti: "Başkaları açgözlü olduğunda 
+korkulu olun, diğerleri korktuğunda da açgözlü olun."
+Hisse senetlerini gün içinde binlerce kez işlem gören semboller yerine birer iş parçası 
+olarak görmek, değer yatırımcısına büyük avantaj sağlar. Değer yatırımcıları, Philadelphia 
+Federal Rezerv Bankası'nın Fed Endeksi veya ABD Nüfus Sayımı Bürosu'nun İnşaat 
+Harcamaları raporuna dayanarak yatırım kararları vermek yerine, yatırım kararlarını 
+şirketin mali tablosuna ve fiyat ile değer arasındaki farka dayanarak verirler.
+Şimdi bu çok daha anlamlı değil mi?
+Gizli İçerik
+1970'lerin sonlarında Warren Buffett pek bilinen bir isim değildi.
+1979'da, Berkshire Hathaway'in yıllık hissedar toplantısı dördüncü kattaki bir 
+yemekhanede yapıldı; bu, Berkshire'a ait bir Omaha işletmesindeki en büyük alan ve 
+beklenen sayıda insan için yeterince büyüktü.
+Çift kapıya elle yazılmış bir tabela yapıştırılmıştı: "Toplantı sürüyor." Otomatlar ve kahve 
+makinesinin yanı sıra Warren Buffett toplantıyı düzene koydu.
+62www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Başkan olarak Buffett, yaklaşık beş dakika içinde formalite icabı resmi işleri halletti ve 
+ardından insanlardan bazıları ayrıldı. Geriye kalanlara, "Bir saatim var ve eğer biri burada 
+kalıp yatırım işi hakkında konuşmak isterse, ben hazırım" dedi.
+1979'da yalnızca 20 hissedar katıldı. Katılımın 1000'i aşması 20 yıla yakın sürdü.
+Buffett ve Berkshire o zamandan bu yana çok yol kat etti.2015 hissedar toplantısına 
+katılım 40.000'den fazlaydı ve CenturyLink Center'da gerçekleşti.
+1979'da Ulusal Tazminat'ın yemekhanesinde Buffett'ın konuşmasını dinledikten sonra katılımcılardan 
+biri, hayatı boyunca biriktirdiği 12.000 doları Berkshire'a yatırdı. Onu en çok etkileyen şey Buffett'ın 
+olayları nasıl açıkladığıydı. "Profesör gibiydi. Bunu açıkça ortaya koymayı başardı.”
+Buffett'ın en büyük armağanlarından biri karmaşıklığı basitleştirmektir. Konunun özüne oldukça hızlı bir şekilde 
+ulaşabiliyor ve konuyu ortalama bir insanın anlayabileceği şekilde elle tutulur hale getirebiliyor.
+Sınıf ziyareti
+1977'de Buffett, arkadaşı Profesör Jack McDonald tarafından Stanford İşletme Fakültesi'ndeki 
+sınıfında konuşma yapması için davet edildi. Öğrencilerden Tim Bliss, Buffett'ın sunumuyla 
+ilgili notlar aldı. Buffett'ın vurguladığı noktalardan biri de "sıkı çalışma ile zeka arasında hiçbir 
+korelasyon olmadığı, hatta belki de ters bir ilişki" olduğuydu.
+63www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Konuya açıklık getirmek için Bliss şu denklemi bile yazdı: Haftada 80 saat + 200 IQ = 0$. Çoğu 
+yatırımcı için bu oldukça tuhaf görünebilir, çünkü popüler algı, sıkı çalışmanın ve yüksek zekanın 
+yatırım başarısının temel taşları olduğu yönündedir. Ve daha çok çalışmanın ve daha akıllı olmanın 
+kötü sonuçlara yol açacağı fikri çılgınca bir fikir gibi görünüyordu.
+Yatırım kariyerim boyunca Buffett'ın haklı olduğu sonucuna vardım.
+Haftada 30 saatten fazla çalışmayan birçok başarılı yatırımcıyla tanıştım ve muhtemelen 
+sınıflarının en iyi yarısında mezun olamamışlardı.
+Aslında, Uzun Vadeli Sermaye Yönetimi'nin elinde, gelecekte Nobel Ödülü 
+kazanan iki kişi ile MIT ve Harvard'dan doktora adaylarının da bulunduğu 16 
+ortaktan oluşan bir liste vardı. Ancak Eylül 1998'de firma çöktü. New York 
+Federal Rezerv Bankası, finansal piyasalarda daha büyük bir çöküşü önlemek için 
+büyük kreditörlere 3,6 milyar dolarlık bir kurtarma paketi düzenledi.
+Buffet şunları kaydetti:
+"Bunlardan 16'sını ele alırsanız, Microsoft da dahil olmak üzere ülkedeki 
+tek bir işletmede birlikte çalışan 16 kişinin IQ'su kadar yüksek olduklarını 
+görürsünüz. Bir odada inanılmaz miktarda zeka… [Onlar
+yüzlerce ve yüz milyonlarca parası [risk altındaydı], süper yüksek zekaya sahipti ve 
+bildikleri bir alanda çalışıyorlardı. Aslında iflas ettiler. (Kaynak- Buffett'ın Florida 
+Üniversitesi'ndeki MBA Öğrencileri ile Konuşması, 1998)
+Çok çalışmaktan daha fazlası
+Eğer sıkı çalışma ve zeka sizi ancak bir yere kadar ulaştırabilecekse başarılı bir yatırımcıyı ne 
+yapar? Mizaç.
+Buffett yaklaşım, mizaç ve başarı arasında muazzam bir korelasyon olduğunu söyledi. Bir 
+yatırımcı aşağıdaki niteliklere sahipse borsada para kazanılabilir:
+64www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+1. Her gün yatırım yapma isteği duymaz.Büyük yatırımcılar yerlerini seçerler ve borsanın açık 
+olduğu her gün yatırım yapmazlar. Önemli olan, yalnızca başarı şansının büyük ölçüde lehinize 
+olduğu durumlarda yatırım yapmaktır.
+2. Eşit bir mizaca sahiptir.Piyasalar sizin istediğiniz yönde gittiğinde aşırı heyecanlanmayın ve 
+aleyhinize gittiğinde de depresyona girmeyin. Araştırmanızı yaptıktan ve analizinize dayanarak 
+bir satın alma işlemi gerçekleştirdikten sonra, borsanın günlük dönüşlerinin değil, gerçeklerin 
+sizi haklı çıkarmasına izin verin.
+3. Disiplinlidir.Sağlam mantığa dayalı ve zaman testinden geçmiş bir yaklaşıma sadık kalın. 
+Ben Graham, her yatırımcının "yaptığı her satın almayı ve ödediği her fiyatı, satın alma 
+işlemi karşılığında parasının değerinden daha fazlasını aldığı konusunda kendisini tatmin 
+eden kişisel olmayan, nesnel akıl yürütmeyle gerekçelendirebilmesi gerektiğini" söyledi.
+Avantajı: Siz
+Çoğu yatırımcı, konu hisse senedi yatırımı olduğunda aşırı dezavantajlı durumda olduklarını düşünüyor.
+Kurumsal ve finansal riskten korunma fonu yöneticisinin kaynaklar, şirket içerisindeki kişilere erişim ve 
+hisse senedi seçimine adanmış bir analist ekibi açısından avantajlara sahip olduğunu iddia 
+edeceklerdir.
+Görünüşte bu şekilde görünse de, bireysel yatırımcı bu avantajları etkisiz hale getirebilir 
+ve hatta kurumsal yatırımcıya karşı bir adım önde olabilir.
+Avantajlı olduğunuz fikrini göz ardı etmeden önce şunu aklınızda bulundurun:Beş yıllık dönemde yatırım fonu 
+yöneticilerinin yalnızca küçük bir kısmı S&P 500'den daha iyi performans gösteriyor. Eğer kurumlar tüm kartları 
+elinde tutsaydı, bunların daha büyük bir yüzdesi, daha tutarlı bir şekilde karşılaştırma ölçütünün üzerinde 
+performans sergileyecekti. Aslında tam tersi doğrudur.
+65www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Benimsediğimiz yaklaşım bize çoğu yatırım fonu yöneticisinin, hedge fonunun ve kurumsal 
+yatırımcının sahip olmadığı bir avantaj sunuyor: konsantre bir portföy, varlık kısıtlaması yok ve 
+zaman lüksü.
+Konsantre portföy
+Bir yatırım fonu yöneticisinin 85. en iyi fikrinin ne kadar iyi olduğunu her zaman sorgularım. Yasa gereği, fon 
+yöneticileri varlıklarını çeşitlendirmek zorundalar ve genellikle herhangi bir hisse senedinde yüzde 1'den azını 
+ellerinde tutuyorlar. Birkaç şirket hakkında çok şey bilmek yerine, birçok şirket hakkında az şey bilmeye çalışıyorlar. 
+Geniş çapta çeşitlendirilmiş bir portföy (100'den fazla varlık), vasat bir performansın reçetesi olduğunu kanıtlıyor.
+Bunun aksine, portföyümüz 30'dan fazla hisse senedinden oluşan konsantre bir portföye sahip değildir. 
+Cazip fiyatlarla satın alınan en iyi fikirlerimize sadık kalarak portföyümüz uzun vadede çok iyi performans 
+gösterdi. Aslında S&P 500'den büyük bir farkla daha iyi performans gösterdi.
+Ancak kısa vadede ve yükselen piyasalar sırasında, varlıklarımızın gerçek değerlerine değil, yatırımcılar 
+nezdindeki popülerliklerine göre fiyatlandırılması nedeniyle aptalca görünme riskiyle karşı karşıya 
+olduğumuzu unutmayın. Kısa vadede aptal görünmeyi, uzun vadede ise haftanın her günü haklı olmayı 
+kabul edeceğiz.
+Kısıtlama yok
+Çoğu yatırım fonu ve kurumsal yöneticinin nereye yatırım yapabilecekleri konusunda yerleşik kısıtlamaları 
+vardır. Örneğin bir yatırım fonunun, çoğu zaman sektöre (örneğin teknoloji), pazar değerine (örneğin küçük 
+sermayeler) veya bölgeye (örneğin küresel şirketler) dayalı olarak açıkça tanımlanmış bir yetkisi vardır.
+Bu alanların dışında dolar başına 10 sentten işlem gören hisse senetleri varsa yatırım fonu yöneticisinin 
+bunları satın alması yasaktır. Bunun tersine, biz yalnızca değer bulma yeteneğimizle sınırlıyız. Değer 
+bulamazsak sabırla bekleyecek ve satın alma tetikleyicimizi bize bir güvenlik marjı sunduğuna 
+inandığımız değerlemelere indireceğiz.
+66www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Zamanın lüksü
+Kurumsal yatırımcılara genellikle yıllık bazda ödeme yapılır. Uzun vadede satın alma ve elde tutma 
+lüksleri yok ve bu nedenle şirketin üç aylık sonuçlarına odaklanıyorlar. Bonus veya teşvik 
+ücretlerine hak kazanabilmek için kısa vadede kriterlerin üzerinde performans göstermeleri 
+gerekiyor. Onların endişesi, şirketin önümüzdeki beş ila on yıl içinde nasıl bir performans 
+sergileyeceği değil, hisse senedi fiyatlarının önümüzdeki 90 gün içinde ne kadar hareket 
+edeceğidir.
+Bizim avantajımız kısa vadeli fiyat dalgalanmalarını anlamsız görmemiz ve işin gidişatına 
+göre karar vermemizdir. Zamanımızı şirketleri araştırarak, gelecek çeyrekte kazançlarının 
+ne olacağını tahmin etmeye çalışmak yerine, uzun vadede pazar hakimiyetlerini nasıl 
+artırmaya devam edeceklerini anlamaya çalışarak harcıyoruz. Amacımız her zaman aynı: 
+harika işletmeleri cazip fiyatlara satarken satın alın.
+Warren Buffet şunları söyledi:
+Zaman harika bir işin dostudur. Berbat işin düşmanıdır. Eğer uzun süre kötü bir 
+işin içindeyseniz, kötü bir sonuç elde edersiniz. Ucuza alsanız bile. Uzun süredir 
+harika bir işte çalışıyorsanız, biraz fazla para ödeseniz bile harika bir sonuç elde 
+edeceksiniz. (Kaynak-aynı eser)
+Graham ve Buffett'ın kullandığı yatırım yaklaşımının ne kadar güçlü olabileceğini size 
+göstermek için sizi bu ilkeler üzerine kurulmuş bir şirketle tanıştırmak istiyorum. Bu şirket, 
+Berkshire Hathaway'in 40 yıl önce çift haneli devasa getiriler elde ettiği dönemdeki haline 
+oldukça benziyor. Şirket son otuz yılda yılda %21,3 oranında büyüdü ve önümüzdeki 
+aylarda daha etkileyici kazanımlar elde etmeye hazırlanıyor.
+67www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Özel teklif
+Bugünden itibaren tek hisse senedinden emekli olun! Daha fazla bilgi için bu sayfayı ziyaret edin -
+www.TradingPub.com/LRHP8
+YAZAR HAKKINDA
+Charles, 30 yılı aşkın süredir hisse senedi tavsiyesinde bulunarak 
+konuyu kapattı ve inanılmaz bir başarı rekoruna imza attı.
+Kendisi editörüdürGizli Değerler Uyarısı veKaçınılmaz Zenginlik Portföyü 
+bültenler. Gizli Değerler Uyarısı şunlardan biri olarak adlandırıldı:
+Marketwatch.com'un Ekim 2007'den Ocak 2015'e kadarki En İyi 10 Danışmanı... 2008 Mali 
+Krizini ve ardından Mart 2009'da başlayan boğa piyasasını da içeren bir dönem.
+Pek çok guru, çok kısa zaman aralıklarında astronomik getiri oranlarıyla övünse de, iddiaları 
+dikkatli bir incelemeye dayanmıyor. Bunun yerine, bağımsız bir üçüncü tarafça incelendiğinde 
+"getirileri", sıcak bir yaz gününde dondurmadan daha hızlı eriyip gidiyor.
+Charles'ın elde ettiği getiriler, finansal haber bültenlerinin performansını izleyen son derece 
+bağımsız derecelendirme hizmeti olan Hulbert Financial Digest tarafından onaylandı.
+Charles aynı zamanda çok beğenilen kitabın da yazarıdır:Değer Yatırımına Başlarken 
+(Wiley).
+68www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Ham Petrol ve Doğal Gaz Ticareti
+İkili Opsiyonlu Haberler
+Cam White, TradingPub.com
+Haber ticareti her zaman risk içerir, ancak iyi bir stratejiniz varsa çok karlı da olabilir. Bu 
+bölümde Ham Petrol ve Doğal Gaz için haftalık envanter raporlarının alım satımına yönelik 
+stratejiler tartışılacaktır.
+Ham petrol
+Her Çarşamba, Ham Petrol envanter raporları Enerji Bilgi İdaresi (EIA) tarafından saat 10:30'da 
+(EDT) yayınlanır. Rapor, ABD şirketlerinin elinde bulunan ham petrolün varillerindeki değişimi 
+ölçüyor. Gerçek envanter raporlarının analistlerin tahmin tahminlerini büyük ölçüde kaçırması 
+alışılmadık bir durum değil. Böyle bir durumda ham petrol fiyatlarında sert dalgalanmalar 
+yaşanabilir.
+İkili opsiyonlarda, belirli bir süre içerisinde piyasanın kullanım fiyatına göre muhtemel yönü hakkında 
+bir karar veriyorsunuz. Eğer alım satım yaptığınız varlığın fiyatı vade sonunda sizin görüşünüze 
+uygunsa, alım satım sözleşme başına 100$'a karar verir. Aksi takdirde ödeme 0$ olur. Kısmi kar elde 
+etmek istiyorsanız veya işlem aleyhinize ilerliyorsa kayıpları en aza indirmek istiyorsanız her zaman 
+pozisyondan erken çıkabilirsiniz.
+Ham petrol envanteri haberlerinin alım satımına yönelik stratejilerden biri, haberin yayınlanmasından önce temel 
+gösterge fiyatının her iki tarafına da bir OTM ikili opsiyon ticareti yerleştirmektir. Bu stratejinin 29 Temmuz 2015 
+Çarşamba günü nasıl kullanıldığına dair bir örneği burada bulabilirsiniz:
+69www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Sabah 10:30'daki ham petrol stok raporları yayınlanmadan önce piyasa yatay hareket ederek 
+47,62'lik kullanım fiyatının iki yanında yer alıyordu. Aşağıdaki strateji kullanıldı:
+• Bu ticaret için Ham Petrol için sabah 9:00-11:00 zaman dilimi seçilmiştir
+• Sabah 10:16'da piyasanın temel fiyatının her iki tarafında iki OTM işlemi yapıldı:
+○ Ham Petrolü >48,42'den SATIN ALIN. Maksimum risk 19,50$, maksimum Ödül 80,50$
+○ Ham Petrolü >46,82 Maksimum riskten, 20,75 Dolardan SATIN. Maksimum ödül 79,25$
+Bu ticaretin başarılı olması için, bir ticaretin vadesinin parayla dolması gerekir, diğer ticaretin 
+ise zarar etmesi gerekir. Kaybeden işlemdeki maksimum risk, başarılı işlemden kazanılan 
+ödülden çıkarılır.
+Bu stratejideki en kötü senaryo, piyasanın haberlere tepki vermemesi ve yatay ticarete devam 
+etmesidir. Bu durumda, mümkünse kayıpları en aza indirmek için her iki işlemden de çıkmak 
+isteyebilirsiniz.
+Sabah 10:30'da Ham Petrol Envanter Raporu yayınlandı ve tahminler 4 milyon varilden 
+fazla eksikti. Bir anda piyasa hızla yükseldi ve SATIN AL emrini olumlu hale getirdi.
+70www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+Saat 11.00'e kadar yükselmeye devam etti. SATIŞ emrinin süresi tamamen zararla doldu. Bu 
+ticaretten elde edilen net kâr 59,75$ oldu (döviz ücretleri dahil değildir).
+Doğal gaz
+Enerji Bilgi İdaresi (ÇED) her perşembe saat 10:30'da (EDT), geçen hafta yer altı 
+depolarında tutulan fit küp doğal gaz miktarındaki değişimi ölçen Doğal Gaz Depolama 
+Raporunu yayınlar. Gerçek raporun tahminleri önemli ölçüde kaçırması durumunda, bu 
+durum Doğal Gaz Vadeli İşlem sözleşmelerinin fiyatında anında büyük yukarı veya aşağı 
+hareketlerle sonuçlanabilir.
+O zaman soru şu oluyor: "Piyasa haberlere göre hangi yöne hareket edecek?" Yükselecek mi, aşağıya 
+mı inecek yoksa yanlara mı ticaret yapacak? Kenarda oturup piyasanın haberi yayınlandığında 
+sindirmesini beklemeye karar verebilirsiniz. Haberlerden önce işlem yapmaya karar verebilirsiniz. 
+Ayrıca haber günlerinde Doğal Gaz ticareti yapmamayı da seçebilirsiniz.
+Doğal Gaz Depolama Raporu'nun tahminleri kaçıracağına ve bunun da haberlerde önemli bir 
+fiyat hareketine yol açacağına inandığınızı varsayalım. Haberin ne olacağını bilmenin bir yolu 
+olmadığından, haberlerden önce iki kârsız (OTM) işlemle ticaretinizi korumaya karar 
+verebilirsiniz. Bir OTM ticareti yaptığınızda, piyasanın mevcut fiyatına göre dezavantajlı 
+durumda olduğunuz için daha büyük bir ödül için daha az parayı riske atarsınız. 13 Ağustos 
+2015 Perşembe günü yayınlanan Doğal Gaz Depolama raporundaki OTM ticaretine bir göz 
+atalım.
+Doğal Gaz piyasası saat 10:30'daki haber bültenine girerken 2,91 civarında yatay hareket etti. 
+Haberin yayınlanmasından hemen önce saat 10:21'de, piyasanın her iki tarafında da EDT'nin 
+bitiş tarihi saat 11:00 olan iki OTM işlemi yapıldı:
+71www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+İşlem Ayrıntıları (10:21 EDT'de gerçekleştirildi) : 
+Sözleşme: Doğal Gaz (Eylül) >2,950 (11:00) Sona 
+erme tarihi: 13 Ağustos Perşembe 11:00:00 EDT 
+2015 Yön: SATIN AL
+Adet: 1 Sözleşme Fiyatı: 20,25$ Maks. 
+Risk: $20,25 Maks. Ödül: 79,75$
+İşlem Ayrıntıları (10:21 EDT'de gerçekleştirildi)
+: Sözleşme: Doğal Gaz (Eylül) >2.870 (11:00) Sona 
+Erme: 13 Ağustos Perşembe 11:00:00 EDT 2015 
+Yön: SAT
+Adet: 1 Sözleşme Fiyatı: 84,00 $ Maks. 
+Risk: 16,00$ Maks. Ödül: 84,00$
+Piyasa önemli ölçüde bir yönde hareket ederse, bir sözleşme daha değerli hale gelirken, 
+karşı sözleşme daha az değerli hale gelir. Bir sözleşmenin vadesi karla dolduğunda tam 
+kar elde edilirse, diğeri zararla sona erecektir. Bir ticaret diğer ticarete karşı koruma 
+görevi görür. En kötü senaryo, piyasanın haberlere tepki vermemesi ve yan yönde işlem 
+yapmasıdır. Bu durumda, bu örnekte maruz kalabileceğiniz maksimum zarar 36,25$'dır 
+(döviz ücretleri dahil değildir).
+İşte bu OTM stratejisinin nasıl gerçekleştiği.
+Sabah 10.30'daki Doğal Gaz Depolama Raporu açıklandığında tahminleri önemli ölçüde 
+kaçırmıştı. Beş dakika içinde piyasa, SATIŞ kullanım fiyatının >2,870 seviyesinden 2,850 
+civarına kadar tamamen daldı. Şimdi iki fırsat önlerine çıktı:
+1. İşlemden erken çıkıp kar elde edin veya
+72www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+2. İşlemin kalan yarım saat boyunca devam etmesine izin verin ve süresinin bitip bitmeyeceğine bakın.
+Tam kâr için 2,870, piyasanın 2,870'in üzerinde sona ermesi durumunda ödemenin 0 $ olacağını 
+akılda tutun.
+İşlemin süresi 2,8456'da sona erdi ve bu da >2,870 seviyesindeki SATIŞ sözleşmesinin, sözleşme başına 
+maksimum 86$ ödülle kârda sona ermesine olanak sağladı. SATIN AL sözleşmesi 0$'lık bir ödeme 
+karşılığında sonuçlandırıldı ve bu işlemde riske edilen 20,25$'lık bir kayıpla sonuçlandı. Bunun sonucunda 
+65,75$ kâr elde edildi (döviz ücretleri dahil değildir).
+Haber ticareti için pek çok strateji vardır, ancak OTM ikili opsiyon stratejisi, kendinizi aşırı 
+riske maruz bırakmadan piyasadaki büyük hareketlerden kar elde etme fırsatını size verir.
+ÖZEL TEKLİF
+Buradan Ücretsiz bir Nadex Demo Hesabı açın -www.TradingPub.com/demo
+25.000$ oyun parasıyla finanse edilecek. Bu stratejileri test edin ve sizin için nasıl işe yaradıklarını 
+görün.
+73www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+Düşük Riskli/Yüksek Olasılıklı Ticaret Stratejileri
+YAZAR HAKKINDA
+Cam White, TradingPub'ta Ortak İlişkiler Yöneticisidir. Haziran 2014'te Pub'a 
+katıldığında ilk görevi Nadex'i tanımaktı. Demo yazılımını indirdi ve Nadex 
+platformuna daldı.
+Kendi deyimiyle bir "çarpışma testi kuklası" olan Cam, Nadex İkili Opsiyonlar ile yönlü ve yönsüz 
+stratejileri test eder ve Nadex spread'leri yayınlar ve sonuçları yayınlar.
+Cam ayrıca bu sitede bulabileceğiniz Olasılık Raporu'nu da yayınlamaktadır - 
+www.TheProbabilityReport.blogspot.com . Nadex web seminerlerini içeren aylık bir bültendir 
+ve finansal medya kuruluşlarına Nadex hakkındaki makalelerle katkıda bulunur.
+74www.forexgercekleri.xyz - [Twitter: @eseckal]

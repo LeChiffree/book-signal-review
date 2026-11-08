@@ -1,0 +1,30 @@
+# raw candle caches — huge and rebuildable from the local archive
+backtest/cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# logs and transient run files
+*.log
+backtest/run_525*.log
+backtest/run_525_detached.*
+backtest/filter_layer/run_filters*.log
+backtest/filter_layer/aggregate_v2*.log
+backtest/filter_layer/finalize*.log
+backtest/filter_layer/run_filters.watchdog.*
+backtest/filter_layer/results/errors/
+
+# debug/preview artefacts
+backtest/filter_layer/tmp_*
+backtest/filter_layer/check_*.py
+backtest/filter_layer/preview*.png
+backtest/filter_layer/echarts_preview.png
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

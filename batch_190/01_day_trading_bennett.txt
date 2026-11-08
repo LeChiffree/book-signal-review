@@ -1,0 +1,2849 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 10\Baskı 10\Day Trading - David Bennett (148 sayfa) - @eseckal.pdf
+PAGES: 148
+
+
+=== PDF PAGE 1 ===
+This practical book provides you with everything you need to be able to day trade
+grain futures effectively. It opens with chapters explaining the author's preference
+for the grain futures markets, and his reasons for preferring to day trade, before
+going on to explain the fundamentals of trading and the more specific knowledge
+required for his chosen approach. 
+In a concise, punchy style the reader is introduced to some timeless trading
+concepts, and shown how these ideas can be moulded into a trading system to
+attack the exhilarating grain markets. No sophisticated indicators or complex
+mathematics are found here. Instead, the author builds a system based on tried
+and true trading principles, combined with sound money management strategies. 
+The particular challenge for a day trader during the volatile market open is to quickly
+identify support and resistance zones, and form a view on trend direction, based
+on limited information. The author describes how he does this, with detailed
+illustrations and real life examples. He then goes on to explain exactly how, based
+on the initial market movement, he determines stop loss and target levels. 
+A key feature of the book is the chapter tracing the progress of a real life trading
+session. It shows the author's methods being applied in practice, with numerous
+screen shots giving the reader an understanding of what the trading process feels
+like in practice – effectively giving you a fly on the wall view of the author in action. 
+Another highly illustrated chapter shows a complete month of trading charts with
+commentary on trades taken, giving the reader an appreciation of the longer term
+trading process. A process described by the author as "constant repetition of a
+simple plan, concentrating on implementation excellence". 
+Other chapters outline the author's views on the need for practice, and discuss the
+practical points a home-based trader should attend to in their computer and
+internet set up.
+The book focus is to highlight the exciting opportunities of grain futures and provide
+the vital detailed and hands-on information that will make it invaluable to all
+futures, equity, options or CFD traders. 
+Harriman HouseHh £34.99
+ISBN 978-1905641932
+9 781905 641932
+Day Trading Grain Futures
+Hh
+Day Trading 
+A practical guide to trading for a living
+David Bennett
+Hh
+Grain Futures`
+David Bennett
+Day Trading Grain Futures
+grainfutures_fullcover:Layout 1  26/01/2009  13:47  Page 1
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+Önsöz
+Önsöz
+1 – Giriş
+2 – Tahılları Neden Takas Etmeliyiz?
+3 – Neden Günlük Alım Satım?
+4 – Hepsi Bir Kumar
+5 – Her Şey Riski Yönetmekle İlgilidir
+6 – Ne Ticareti Yapabilirim?
+7 – Spekülatif Bir Tüccar Ne Yapar
+8 – Grafikler
+9 – Destek ve Direnç
+10 – Giriş Kuralları
+11 – Ticareti Yönetmek
+12 – Planın Uygulanması
+13 – Ticaret Hesaplayıcım
+14 – İşlem Ekranım
+15 – Bir Vaka Çalışması
+16 – Masalarda Bir Ay
+17 – Uygulamanın Önemi
+18 – Bilgisayar Kurulumu
+19 – Ticaret Ritüeli
+v
+ix
+1
+3
+5
+9
+13
+17
+23
+27
+31
+37
+49
+59
+63
+71
+75
+113
+139
+141
+145
+Bibliyografya
+Dizin
+147
+149
+iii
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Önsöz
+Bu kitapta neler anlatılıyor?
+Bu kitap soya fasulyesi, buğday ve mısır ("tahıllar") vadeli işlem sözleşmelerinin ticaretiyle ilgilidir. 
+Sözleşmeler Chicago'daki CBOT vadeli işlem borsasında (şimdi yeni CME Group'un bir parçasıdır) işlem 
+görmektedir. Yalnızca elektronik sözleşmeler dikkate alınmaktadır çünkü bunlar güvenilir bir internet 
+bağlantısı olan herkes tarafından, nerede olurlarsa olsunlar verimli bir şekilde işlem görebilir.
+(Kesinlikle, soya fasulyesi tahıl değil, yağlı tohumdur. Ancak biraz uzun bir tabir olan "tahıl ve yağlı tohum 
+kompleksi"nden bahsetmek yerine, sadece tahıllardan bahsediyorum.)
+Kitapta opsiyonlar, CFD'ler, spread bahisleri veya diğer türev ürünler tartışılmasa da, 
+içeriğinin çoğu bu araçları işlem gören kişiler için alakalıdır. Gerçekten de, bu teknikleri 
+adi hisse senetlerini işlem yapmak için başarıyla uygulayan tüccarlarla çalıştım. Bu 
+metodoloji piyasaya özgü değildir.
+Odak noktası günlük işlemdir (pozisyonları gece boyunca tutmamak), ancak bu tamamen benim 
+tercihimdir. Aynı tekniklerin diğer zaman dilimlerinde işlem bulmak ve yönetmek için 
+kullanılmasını engelleyen hiçbir şey yoktur.
+Kısacası, kitap tamamen tahıl piyasalarında günlük ticaret yapma şeklimle ilgilidir. Ancak kullanılan 
+teknikler çoğu piyasa ve zaman dilimine genel olarak uygulanabilir.
+Bazı okuyucular, işlem tekniklerinin daha geniş bir açıklamasını isteyebilir. Sonuçta, piyasada 
+sonsuz sayıda işlem stili ve sistemi var. Ancak bu kitap, piyasalarda işlem yaparken günlük 
+olarak tam olarak ne yaptığımı ve neden yaptığımı belgeleme projesinin bir sonucu olarak 
+doğdu. Kullandığım stile, yaptığım sistem seçimlerine odaklanıyor ve alternatifleri tartışmaya 
+yönelik hiçbir girişimde bulunmuyor.
+Bu kitap kimler içindir?
+Bu kitap, (muhtemelen) daha önce biraz ticaret yapmış ve makul getiriler elde etmeyi ve 
+riski akıllıca yönetmeyi amaçlayan disiplinli bir metodoloji arayan kişiler için yazılmıştır. 
+Metin, piyasalarda daha önce deneyimi olanlar arasında iyi yankı bulacaktır çünkü 
+vurgusu sadece teori değil, ticaret sürecinin gerçekleri üzerinedir.
+v
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Günlük Tahıl Vadeli İşlemleri
+Bununla birlikte, daha önce hiç işlem yapmamış müşterilerle çalıştım. Kitap, yöntemlerimi 
+uygulamak için gereken tüm bilgileri içeriyor, ancak bir işlem ders kitabı değil.
+Örneğin, 8. Bölüm'deki grafiklere giriş bölümüm çok kısa. İşlem yaklaşımımı 
+uygulamak için bilmeniz gerekenleri anlatıyor, daha fazlasını değil. Konuya kapsamlı 
+bir giriş olma iddiasında bulunmuyor.
+Başka bir örnek olarak, emir türlerini tartışırken, yalnızca yaklaşımımı uygulamak için kullandığım 
+emir türlerinden bahsediyorum, ancak yatırımcıların kullanımına açık tüm emir türlerinin bir 
+açıklamasını sunmuyorum. İhtiyacım yoksa, açıklamam.
+Acemiolabilmekbu kitabı kullanın ve bence bundan çok şey öğrenecekler. Ancak, 
+buradaki kapsamı daha fazla okuma ve araştırma ile desteklemeye hazır olmalılar. 
+Ek'te önerilen kitaplar bu açıdan faydalı olacaktır.
+Her konunun kendine özgü bir jargonu vardır ve trading de bir istisna değildir. Genellikle 
+kullandığım terimleri tanımlamaya çalıştım, ancak hedef kitlem biraz trading deneyimi olan kişiler 
+olduğundan, tamamen yeni başlayan biri kafasını karıştıran terimlerle karşılaşabilir. Tekrar 
+ediyorum, Ek'te önerilen metinler yardımcı olacaktır veya internette basit bir arama genellikle 
+aydınlanma sağlayacaktır.
+Kitap nasıl yapılandırılmıştır?
+Teknik kitapçıya gittiğimde, birkaç ticaret kitabının başına oturur ve onları 
+karıştırırım. Çoğu zaman, her kitapta ilgimi çeken bir bölüm veya daha fazlasını 
+bulurum ve gerisini atlarım. Bunu,BENtamamını okumak isterdim.
+Bazı bölümlerin veya kısımların daha deneyimli okuyucular tarafından atlanabileceğini 
+kabul ediyorum. Bu bölümler veya kısımlar, kitabın benim işlem yaklaşımımın eksiksiz 
+bir açıklaması olmasını istediğim için bırakıldı ve örneğin grafiklere ilişkin çok temel bir 
+giriş bu bağlamda gerekli, çünkü grafikler benim yaklaşımım için çok temel.
+Bunu söyledikten sonra, öz olmaya ve çoğu bölümü kısa tutmaya çalıştım. Metnim ile 
+doğrudan alakalı olmayan her şey metinden çıkarıldı.
+Bu kitabı okuyor olsaydım, muhtemelen önceki bölümleri hızlıca okurdum ve 9-14. Bölümlere 
+geldiğimde yavaşlardım, ki bu bölümler benim işlem yaklaşımımı gerçekten anlatıyor. Sonra, 
+15 ve 16. Bölümlerdeki grafikleri inceleyerek her şeyin pratikte nasıl işlediğini görmek ve 
+kurulumları iyice anladığımı kontrol etmek için epey zaman harcardım. Hızlanırdım
+vi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Önsöz
+yine son üç bölümdür.
+Ancak, ben taraflıyım. Neredeyse her bölümün, deneyimli bir tüccarın bile değer 
+vereceği değerli bir bilgi parçası içerdiğini düşünüyorum - aksi takdirde, onu kesip 
+atardım!
+Teşekkür
+Interactive Brokers'a TWS yazılımlarında çizilen grafiklerin yeniden üretilmesine izin verdiği 
+için minnettarım.
+vii
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Önsöz
+Cep telefonumun alarmının çalması beni uyandırıyor. Chicago'da saat sabah 9:15, Avustralya'nın 
+Queensland eyaletindeki Gold Coast'ta gece yarısından 15 dakika sonra.
+Gösteri zamanı!
+Bir demlik çay demliyorum, broker'ıma giriş yapıyorum, işlem ekranlarımı açıyorum ve elektronik tablomda başlangıç   
+değerlerini güncelliyorum.
+Hazır.
+Tam 00:30'da Chicago Ticaret Borsası'ndaki tahıl çukurları açılırken grafikler canlanıyor. 
+Parlak renkli ceketler giymiş bazı tüccarlar hala ticaret çukurlarında birbirlerine bağırıp garip 
+el işaretleriyle anlaşmalar yapsalar da, günümüzde ticaretin çoğu elektronik olarak yapılıyor. 
+Benim gibi insanlar tarafından.
+00:34'te grafiğimde iki mum oluştu ve piyasa aşağı doğru kırılırsa kısa bir işlem için 
+fırsat görüyorum. Tek bir fare tıklamasıyla bir giriş emri veriyorum. Otuz saniye 
+sonra emir tetikleniyor ve piyasadayım! Yedi mısır kontratını kısa tutun. İki hızlı fare 
+tıklaması daha stop loss ve kar alma emirlerine giriyor.
+00:42'de kar hedefi tutturulur ve pozisyonum kapanır. Sözleşme başına 6 puan, toplamda 42 puan kazandım. 
+Puan başına 50 dolardan, bu toplamda 2100 dolar kar, yaklaşık 45 dolar komisyon ücreti düşülür.
+Çayımın kalanını yudumluyorum ve internetten sabah gazetelerinin ilk baskılarındaki haberlere 
+bakıyorum. Sonra küçük oğlumun derin bir uykuda olduğunu teyit ediyorum ve sonra tekrar yatağa 
+giriyorum.
+ix
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+1
+giriiş
+Geçimimi tahıl vadeli işlemleri yaparak sağlıyorum.
+Harika bir hayat ve ben onu seviyorum. Ticaret sadece benim işim değil; bağımlılık yaratan, ilgi çekici bir 
+hobi. Doğru yapın ve dünyadaki en iyi iş bu.
+Bu kitap size iyi bir teknikle nasıl işlem yapacağınızı anlatıyor. Zenginliğin garantisi yok, ancak 
+iyi yaparsanız şans sizden yana.
+Yaşamımı ticaret yaparak kazanmak, uzun vadede karlı olan sistemlerle ilgilenmediğim, ancak aylarca, bazen yıllarca süren kayıp 
+dönemlerine tabi olan sistemlerle ilgilenmediğim anlamına geliyor. Kaybedilen haftaların nadir olmasını ve kaybedilen ayların 
+neredeyse hiç duyulmamasını istiyorum.
+Bu genel bir ticaret ders kitabı değil. Belirli bir ticaret nişine ve bundan nasıl yararlanılacağına odaklanıyorum. 
+Ticaret psikolojisi üzerine bölümler de içermiyor. Bu konu hakkında söyleyeceğim tek şey, bir ticaret planına 
+sahip olmanın bir şey, ancak ona bağlı kalmak için iradeye sahip olmanın bambaşka bir şey olduğudur.
+Piyasada çok sayıda ders kitabı bulunmaktadır ve literatürü incelerseniz, üç önemli ticaret 
+fikriyle hemen karşılaşacaksınız:
+1. Destek ve direnç,
+2. Trend sizin dostunuzdur ve
+3. Kazananların koşmasına izin vermek ve kayıpları hızla kesmek en iyisidir.
+1
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Günlük Tahıl Vadeli İşlemleri
+Bu bilgiler genellikle yazarların kitaplarının esas konularına - karmaşık teknik 
+analiz, karmaşık opsiyon teknikleri, arbitraj, mevsimsel spreadler veya benzeri - 
+girmeden önce 1. veya 2. bölümlerde gelir.
+Sonuçta, ticaret akıllı insanların işidir, değil mi?
+İyi haber şu ki, bu üç temel ticaret fikri, sihirli bir çözüm arayan acemiler tarafından sıklıkla atlanıyor ve 
+bu fikirler, hızlı hareket eden piyasalarda başarılı bir şekilde ticaret yapmak için gereken bilgeliği içeriyor.
+Fikirler bir şeydir. Bunları karlı bir günlük işlem stratejisine dönüştürmek başka bir konudur 
+ve bu kitabın amacı size bunu nasıl yaptığımı göstermektir.
+2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+2
+Tahılları Neden Ticaret Etmeliyiz?
+Bana sıklıkla tahıl sözleşmelerini neden popüler hisse senedi endeksi sözleşmeleri, hazine tahvilleri 
+veya dövizler yerine alıp sattığım soruluyor. Cevap, tahıl sözleşmelerini alıp satmanın daha kolay 
+ve daha rahat olduğunu bulmam. Bazen diğer emtiaları alıp satıyorum ama sık değil.
+Volatilite
+Günlük tüccar volatiliteyi sever ve tahıllar sizi mutlu etmek için fazlasıyla yeterlidir. Her 
+seansta önemli bir fiyat hareketi olmadan, günlük tüccarın iyi karlar elde etmesi için 
+yeterli alan yoktur. Bir seansta bushel başına fiyat 20 ila 60 sent arasında (bazen çok 
+daha fazla) hareket ettiğinde, fiyatın her bir sentinin bir vadeli işlem sözleşmesinde 50$ 
+kar veya zarara dönüştüğü düşünüldüğünde kar elde etmek için bolca fırsat vardır.
+Tipik olarak, mısır en az oynaklığa, soya fasulyesi en yüksek oynaklığa ve buğday ise 
+ortada bir yerdedir. Bu genellikle marjlara yansır. (Buğday piyasasındaki son 
+oynaklık, onu soya fasulyesinden daha oynak hale getirdi, daha yüksek bir marjla, 
+ancak bu tipik tarihsel durum değildi.)
+Hacim
+Volatilite çok güzel, ancak iyi bir hacme de ihtiyacınız var. Aksi takdirde, işlemlerinizin kaymadan 
+olumsuz etkilenmesi muhtemeldir. Tahıllardaki ön sözleşmeler bu açıdan çok iyi puan alır. 
+Genellikle, mısır en yüksek hacme sahiptir, ardından soya fasulyesi gelir ve buğday üçüncüdür.
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Günlük Tahıl Vadeli İşlemleri
+Çoğu piyasa durumunda, durdurma emirlerinde yaklaşık çeyrek puanlık bir kaymayla kurtulabilirsiniz, ancak son 
+zamanlarda buğday için yarım puanlık bir kaymaya izin vermek akıllıca bir hareket olmuştur.
+İşlem saatleri
+En büyük hacim ve büyük fiyat dalgalanmaları olduğunda açıkta işlem yapmayı severim. 
+Endeks ve döviz sözleşmelerinde yirmi dört saatlik işlemle artık net bir açılış yok. Ancak 
+tahılların 09:30'da (ABD Merkez Saati) çok belirgin bir açılışı var. Bunu benim ticaret 
+türüm için muazzam bir avantaj olarak görüyorum. Kahve ve pamuk gibi net açılışları 
+olan başka geleneksel emtialar da var, ancak tahıllarda gördüğünüz hacimlere sahip 
+değiller.
+Zamandan bahsetmişken, tahılların başka bir avantajı daha var. Birincil piyasa seansı sadece üç 
+buçuk saattir (09:30 – 13:15 ABD Merkez Saati). Diğer sözleşmelerin hepsinde çok daha uzun 
+birincil seanslar var. Sizin için bilmiyorum ama ben dört saatlik bir günü sekiz saatlik bir güne 
+tercih ederim!
+Sözleşme şartları
+İşlem yaptığım üç tahıl sözleşmesinin hepsi aynı sözleşme yapısına sahiptir. Bir sentlik fiyat değişikliği 
+(birnokta) 50$ değerindedir. Minimum hareket çeyrek puandır (birpip). Bu, çok popüler olan S&P 500 E-
+mini vadeli işlem sözleşmesiyle aynıdır, bu nedenle bu piyasaya aşina olan herhangi bir yatırımcı, bu 
+işlemlerle kendini çok rahat hissedecektir.
+Son olarak, ve bu öznel bir görüş, tahılların ticareti biraz daha kolay görünüyor. Tahvil ve 
+endeks vadeli işlem piyasaları çok büyük ve şüphesiz kurumlar en iyi tüccarlarını onlara 
+atıyor. Tahıllar muhtemelen ikinci kademeyi alıyor.
+Hangisine karşı takas yapmayı tercih edersin?
+4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+3
+Neden Günlük Alım Satım?
+Tahıllarla neden işlem yaptığım sorulmadığında, neden günlük işlem yaptığım 
+soruluyor. Özellikle günlük işlem bazı yorumcular ve internet blog yazarları tarafından 
+epey eleştiriliyor. Günlük işlem, diğer işlem stillerinden, işlem gününün sonunda tüm 
+pozisyonların kapalı olması gerçeğiyle ayrılır.
+Anında tatmin
+Sabırsız bir adamım. İşten izin aldığımda, bugün nasıl yaptığımı bilmek isterim. Bir işlemin nasıl 
+sonuçlanacağını görmek için günler, haftalar veya aylar beklemek istemiyorum! Dün gece yaklaşık bir 
+saat boyunca işlemimi takip ettim, işlemde yaklaşık beş dakika geçirdim, 1000$'ın üzerinde kazandım ve 
+yatağa gittim.
+Azaltılmış risk
+Vadeli işlemler kaldıraçlı araçlardır. Bu yüzden onları kullanıyorum; mütevazı sermaye 
+yatırımlarında büyük getiriler elde etme fırsatı için. Ancak uzun süredir işlem yapıyorum 
+ve öğrendiğim bir şey, kaldıraçlı araçlarla piyasada geçirdiğiniz süreyi en aza indirmek 
+istemenizdir, çünkü risklidirler.
+Şimdi, muhafazakar bir günlük yatırımcı olarak, günde en fazla bir işlem yapmayı 
+planlıyorum ve işlem kazanıyor veya kaybediyor olsun, seans bitmeden kapatıyorum. Bu, 
+paramın asgari süre boyunca risk altında olduğu anlamına geliyor. Geri kalan zamanda 
+güvenli bir para yönetim hesabında oturuyor.
+5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Günlük Tahıl Vadeli İşlemleri
+Dün gece yaptığım ticareti düşünün.
+Toplamda, param piyasada sadece beş dakikadan biraz fazla kaldı. İşlemi takip 
+ederken,güvenliydiİşlemi kapattıktan sonra,güvenliydiPiyasa kapalıyken,güvenliydi.
+Piyasa şokları beklediğinizden daha sık meydana gelir. Savaşlar, doğal afetler, terörist saldırılar ve 
+hükümet eylemleri piyasaların şiddetli tepki vermesine neden olabilir. Büyük olasılıkla piyasa 
+kapalıyken meydana gelirler.
+Piyasalarda ne olacağını asla bilemezsiniz. Yaşadığım en büyük kayıp bir inek yüzünden 
+oldu!
+Canlı sığır put opsiyonlarını, fiyatın istikrarlı bir şekilde arttığı bir zamanda satmıştım. Pozisyon 
+yaklaşık 18.000 dolar kazandırıyordu ve ben de bir başka başarılı işlemin sıcak parıltısında 
+güneşleniyordum. Sonra, 2003 Noel Arifesinde, biri ABD'de deli bir inek buldu. Sözleşme fiyatı 
+düştü.
+Yeni Zelanda'da tatildeydim. Noel sabahı hesabıma giriş yaptım ve pozisyonun 280 bin 
+doların üzerinde düştüğünü gördüm.
+Ne güzel bir Noel hediyesiydi bu!
+Dahası, piyasa seanslar boyunca kilitlenmişti ve ben bu pozisyonlardan çıkıp 
+yaralarımı sarmadan önce haftalar geçti.
+Bu senaryoda zarar durdurma emirlerinin sizi koruyacağını varsaymayın. Piyasa çıldırdığında, 
+fiyatlar bu durdurma emirlerini aşarak izin verdiğinizden çok daha büyük kayıplara neden 
+olacaktır. İnanın bana, en güvenli yer kenardadır!
+Artık işlemlerimi cerrahi vuruşlar gibi planlıyorum; mümkün olduğunca hızlı bir şekilde piyasaya 
+girip çıkıyorum. Ve normal işlem saatleri dışında asla açık kaldıraçlı pozisyonum olmuyor.
+İstikrarlı karlar
+Tüm işlem yöntemlerinin kaybettiren dönemleri vardır. Örneğin, geçen yıl, art arda altı kaybeden işlemle 
+başlayan, ardından kaybedenler ve kazananların bir karışımı olan bir dönem geçirdim. Toplamda, tekrar 
+kâra geçmeden önce 24 işlem yaptım. Benim için bu, yaklaşık 28 işlem gününe (işlem yapmadığım dört 
+gün vardı) ve bir aydan biraz fazlasına denk geliyordu.
+6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Neden Günlük Alım Satım?
+Geçmiş yıllarda, S&P 500 Emini vadeli işlemlerinde mükemmel bir karşı-döngüsel işlem sistemi 
+kullandım. Uzun yıllar boyunca tutarlı bir şekilde başarılı oldu. Bir işlemin ortalama uzunluğu 
+yaklaşık 9 işlem günüdür.
+Bu yöntemle 24 işlemlik bir geri çekilme süresi (oldukça olası) yaklaşık bir yıl boyunca cebimden para 
+çıkmaması anlamına geliyor ve bu daiyiyöntem!
+Başka bir işiniz varsa ve ticaret sadece bir hobiyse sorun değil. Ama ben geçimimi ticaret yaparak sağlıyorum. Yiyecek 
+satın almam, fatura ödemem, giydirmem gereken çocuklarım var. Vadeli işlem ticaretinin asla düzgün bir maaş geliri 
+sağlamayacağını biliyorum - performans her zaman inişli çıkışlıdır. Yine de bir yıl maaş almadan geçirmek istemiyorum.
+Günlük alım satıma başladığımdan beri, düşüş dönemlerini daha hızlı atlatıyorum ve tekrar 
+kar elde etmeye başlıyorum. Bu günlerde, çok fazla kaybettiğim hafta yok ve negatif aylar 
+çok nadir. Alım satımda karşılaştığım istikrarlı bir gelire en yakın şey bu.
+Daha az stres
+Anında tatmin, azaltılmış risk ve istikrarlı kârın birleşimi sizce neye denk geliyor? 
+Bildiniz; daha az stres.
+Hangi kriz?
+Ben miyopum.
+Giriş yapıyorum. Ekranda ilk mumun boyanmasını izliyorum. Tanıdık bir desenin gelişmesini 
+bekliyorum ve gelişirse, tekrar güvenli bir yere atlamadan önce hızlı bir kar elde etmeyi umarak 
+piyasaya dalıyorum.
+Piyasanın kaynak patlamasıyla çılgınca yükselip yükselmediğini veya sonrasında çöküp çökmediğini 
+umursamıyorum. Gökyüzünün yıkılıp subprime kredilendirmenin kıyameti tetiklediğini umursamıyorum. Benim 
+için fark etmiyor.
+Benim tek umursadığım fasulye, mısır veya buğdayın fiyatına ne olduğuŞu anda. 
+Şu dakika.
+Elbette, Dow'un %5 düşmesi veya buğdayın tarihi bir zirveye ulaşmasıyla ilgileniyorum. Büyülendim. Ama ne 
+yaptığım veya nasıl yaptığım konusunda hiçbir fark yaratmıyor. Bunu seviyorum.
+7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Günlük Tahıl Vadeli İşlemleri
+Herhangi bir dezavantajı var mı?
+Elbette var! Dikkat edin, bazı yorumcuların ortaya attığı eski bir lafın saçmalık olduğunu 
+düşünüyorum. Piyasanın kısa vadede kar elde etmek için çok öngörülemez olduğunu iddia 
+ediyorlar. Günlük yatırımcı, kısa vadeli piyasa gürültüsünden etkilenmeye ve iz bırakmadan 
+batmaya mahkûmdur. Tek umut, uzun vadede işlem yapmaktır.
+Bu apaçık bir saçmalık.
+Kısa vadeli fiyat grafikleri uzun vadeli grafiklerden ayırt edilemez. Teraziyi kaldırın ve 
+yorumculara tek bir işlem seansından iki dakikalık bir grafik ile yıllara yayılan bir dönemi 
+kapsayan aylık bir grafik arasındaki farkı seçmeleri için meydan okuyorum. Her ikisi de 
+trendleri, destek ve direnç seviyelerini, aralıkları vb. gösterir.
+Günlük işlemdeki gerçek sorun maliyetlerdir. Herhangi bir işlemin sabit maliyetleri vardır ve 
+bu maliyetler broker komisyonu ve kaymadan oluşur. Uzun vadeli yatırımcılar büyük 
+hareketler ararlar ve sabit maliyetler elde etmeyi umdukları kârın yalnızca küçük bir 
+yüzdesini temsil eder. Öte yandan günlük yatırımcılar daha küçük hareketleri ve işlem başına 
+daha küçük kârları hedeflerler. Sabit maliyet, bu planlanan kârın çok büyük bir yüzdesi haline 
+gelebilir veya hatta tamamen tüketebilir.
+İşte bu yüzden tüm piyasalar günlük ticaret için uygun değildir. Hedef kârların maliyetlerden önemli ölçüde 
+daha büyük olmasını sağlamak için iyi bir oynaklığa ve kaymayı en aza indirmek için iyi bir hacme sahip olmanız 
+gerekir. Ve herhangi bir ticari girişimde olduğu gibi, maliyetlerinizi en aza indirmeye odaklanmanız gerekir.
+8
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+4
+Hepsi Bir Kumar
+Hayat risklidir
+Yazarların, ticaretin kumar olmadığını iddia ettiği kitaplar okuyabilirsiniz. Sanki kumar kirli bir kelimeymiş 
+gibi ve kendi yöntemlerini kullanarak disiplinli bir şekilde ticaret yapmanın başka bir şey olduğunu 
+göstermek için ellerinden geleni yapıyorlar.
+Ben katılmıyorum.
+Paranızla yaptığınız her şey bir kumar.
+• Yatağınızın altına koyup, hırsızın onu çalmayacağına ve enflasyon nedeniyle değerinin 
+azalmayacağına bahse girebilirsiniz.
+• Bunu bankadaki bir tasarruf hesabına yatırabilir, böylece finansal sorunlarla karşılaşmayacaklarını ve 
+paranızı dondurmayacaklarını veya paranızı kaybetmeyeceklerini umabilirsiniz.
+• Bir elmas satın alabilirsiniz, kumar oynarsanız onu kaybetmezsiniz ve örneğin 
+birileri piyasayı ucuz elmaslarla doldursa bile piyasa değeri düşmez.
+• Hisse senedi satın alabilir, hisse senedini satın aldığınız şirketin başarılı olması ve hisse senedi fiyatının artması üzerine 
+kumar oynayabilirsiniz. Ancak daha sonra hisse senedi Enron olarak adlandırılabilir…
+• Mülk satın alabilir, mülkün değerinin artacağına dair kumar oynayabilirsiniz. 
+Dünyada mülklerinde negatif öz sermayeye sahip çok sayıda insan olması, bu 
+bahsin her zaman kazanmadığının kanıtıdır.
+9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Günlük Tahıl Vadeli İşlemleri
+• Paranızı bir yatırım fonuna verebilir, bu zeki gençlerin yeni süper-bilgisayar destekli kaos 
+yatırım modelini kullanarak paranızı kaybetmeyeceklerine bahse girebilirsiniz.
+Veya piyasayı doğru seçtiğinize bahse girerek vadeli işlem pozisyonu açabilirsiniz.
+Aslında, düşündüğünüzde, hayatta yaptığınız şeylerin çoğu bir kumar. Araba kullanmak, uçmak, 
+yüzmek…
+Peki, neden bunların bir kısmı kumar sayılmazken, bir kısmı sayılıyor?
+Her şey olasılıklarla ilgilidir. Kötü bir şeyin gerçekleşme olasılığı çok düşük olduğunda, çoğumuz bunu göz ardı 
+etme ve kesinlik olarak görme eğiliminde oluruz. Öte yandan, risk herkes tarafından görülebilecek kadar büyük 
+olduğunda, çoğu insan her ne pahasına olursa olsun bundan kaçınma ve risk alanları kumarbaz olarak 
+damgalama eğilimindedir.
+Finansta, düşük riskli bahislerden elde edilen getiriler her zaman daha riskli tekliflerden elde edilen getirilerden 
+daha küçüktür. Hiç kimse minimum riskli bir yatırımdan muhteşem getiriler elde etmeyecektir. Bu, yüksek 
+getirilerin daha büyük bir risk almanızı gerektirmesi gibi bir doğa yasasına benzer.
+Benim işim
+Ticaretimi bir tür kumar olarak görüyorum.
+Her işlem seansında bir bahis koyuyorum (ya da ara sıra çekimser kalmayı tercih ediyorum).
+Bahsimin yanlış çıkma ve para kaybetme ihtimalim var, ancak haklı çıkarsam getiriler 
+mükemmel olur.
+Bu, içinde olmayı seçtiğim iş. Şansımı kendimden yana kullanabilir ve riski dikkatli bir şekilde 
+yönetebilirsem başarılı olurum.
+Kumar oynamanın getirisi ne zaman?
+Şans sizin lehinize olduğunda kumar oynamak faydalıdır. Basit.
+Kumarhane sahibi sizinle kumar oynamaktan mutluluk duyar çünkü oyunlar bankaya avantaj sağlamak için 
+ayarlanmıştır. Zamanla, kumarhane kaybettiğinden daha fazlasını kazanır.
+Bu, kumarhanenin asla kaybetmediği anlamına gelmez. Ve hiçbir yatırımcı asla kazanacağına inanmamalıdır.
+10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Hepsi Bir Kumar
+her zaman. Kayıpları yönetmek işin hayati bir parçasıdır, ancak başarılı bir yatırımcı, kayıpları 
+sürdürmenin kazanma sürecinin sadece bir parçası olduğunu anlar.
+Şansınızı lehinize çevirin
+Bir ticaret stratejisi, istatistikçilerin "pozitif beklenti" dediği şeye sahipse uzun vadede 
+kazanacaktır. Pozitif beklentiyi birçok farklı şekilde elde edebileceğiniz ortaya çıktı, ancak 
+seçtiğim kılavuzlar şunlardır:
+• İşlemlerimin en az yarısında kazanmayı hedefliyorum ve
+• Ortalama kazancın ortalama kayıptan büyük olmasını sağlarım.
+Eğer bu iki koşulu uzun bir süre boyunca yerine getirirsem,VeRiski doğru yönetiyorum 
+(bundan sonra bahsedeceğim),VeSermayem iyi, başarıya doğru ilerliyorum.
+Kazanan bir strateji ancak onu kullanmak için bolca fırsat varsa işe yarar, bu yüzden karlı bir 
+iş için üçüncü bir kılavuza ihtiyacım var:
+• Mevcut işlem seanslarının en az %80'inde bir işlem bulmayı hedefliyorum.
+Daha sonraki bir bölümde göreceğiniz üzere, her işlem ayının sonunda sonuçlarımı bu kriterlere 
+göre izliyorum.
+11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+5
+Her Şey Riski Yönetmekle İlgili
+Bir vadeli işlem ticaretine girdiğim anda param riske girer. Vadeli işlemler kaldıraçlı 
+yatırımlardır, bu yüzden masaya koyduğumdan çok daha fazla para kaybedebilirim.çok hızlı, 
+eğer gerekli önlemleri almazsam.
+Kaldıraçlı yatırımın tehlikelerine karşı sağlıklı bir saygım olduğunu fark etmiş 
+olabilirsiniz. Piyasaya bu saygıyı göstermeden girerseniz, er ya da geç size bir ders 
+verecektir. Zor yoldan öğrenmeyin!
+Doğru fiziksel kurulum
+Risk yönetiminin daha çok basit sağduyu meselesi olan belirli yönleri vardır. Örneğin, fiziksel 
+işlem kurulumumun olabildiğince güvenilir olduğundan ve beklenmedik bir durum meydana 
+gelirse kendimi korumak için acil durum planlarım olduğundan emin olmak benim için bir 
+borçtur. Bu, şu tür sorulara yanıt vermek anlamına gelir: İnternet bağlantım kesilirse ne 
+yapacağım? (Fiziksel kurulumun bazı yönlerini 18. bölümde ele alıyorum.)
+13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Günlük Tahıl Vadeli İşlemleri
+Zarar durdurma emri olmadan asla işlem yapmayın
+Risk yönetiminin bir diğer yönü ise daha çok mantıklı işlem teknikleriyle ilgilidir.Asla stop loss emri 
+olmadan açık pozisyona sahip olmak. Stop loss mükemmel bir mekanizma değildir, ancak bence 
+yine de beklenmeyen durumlara karşı en iyi korumadır. Stop loss olmadan işlem yapmak emniyet 
+kemeri olmadan araba kullanmak gibidir.
+İyi disiplinli bir yatırımcı, bir işleme girmeden önce stop emrinin tam olarak nereye gideceğini bilir.
+O halde neden hemen uygulamaya koymuyoruz!
+Zihinsel durdurmaların hayranı değilim. Öncelikle, umutlu bir yatırımcı durdurmayı doğru zamanda 
+almayabilir veya hızlı hareket eden bir piyasada tepki vermekte yavaş davranabilir veya (ve bu korkutucu) 
+kritik anda internet bağlantısını kaybedebilir.
+Durdurmalar günlük ticareti tercih etmemin bir diğer nedenidir. Hızlı piyasa koşullarında bile, durdurmalarım 
+genellikle belirtilen seviyeye oldukça yakın bir şekilde doldurulur. Buna karşılık, piyasa açılışta boşluk bırakırsa, 
+daha uzun vadeli bir yatırımcının durdurmaları istenen seviyeden çok uzakta kolayca doldurulabilir.
+Ne kadar büyük bir bahis?
+Her işlemde temel risk yönetimi kararı, ne kadar büyük bir bahis koyacağınızdır.
+Ne kadar büyük bahis koyarsam o kadar çok para kazanabilirim.Ya da kaybet…
+Her bahiste tüm sermayemi riske edersem, kaçınılmaz ilk kaybımı aldığımda iflas ederim.
+Peki ne yapmalıyım?
+Her bahsi sermayemin sadece %50'si, %25'i veya %10'u ile mi sınırlamalıyım?
+Bazı kamikaze tüccarları, "%10'un uygun olması gerekir" gibi bir içgüdüye dayanarak yüzdelik 
+riskten yanadır veya matematiksel bir hesaplamaya güvenir.en iyi f.
+Ancak asla unutmayın: Bir strateji yarı yarıya kazansa bile – uzun vadede – yine de 
+kayıp kümeleri olacaktır. Er ya da geç beş veya altı ardışık kayıp serisi 
+yaşanacaktır.
+14
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Her Şey Riski Yönetmekle İlgili
+İşlem başına sermayenizin %10'unu riske atarak, beş ardışık kaybedenle ticaret 
+kariyerinize başlasaydınız nasıl hissederdiniz?
+Size söyleyeyim. Kendinizi kötü hissedersiniz ve ya pes edersiniz ya da "bu işe yaramıyor" diye 
+farklı bir sistemle işlem yapmaya başlarsınız. (Ve unutmayın: Murphy Yasası, işlem yapmayı 
+bıraktığınız anda sistemin bir kazanma serisine girdiğini belirtir.)
+Benim kuralım şudur:
+Hiçbir işlemde sermayenizin %5'inden fazlasını asla riske atmayın. İdeal olarak, her işlemde 
+sermayenizin %1,5'inden azını riske atın.
+Olumlu beklentiye sahip iyi bir strateji, bir yatırımcıyı %1,5 seviyesinde iflastan 
+korumalıdır. %5 seviyesi genellikle hayatta kalma şansı verir, ancak yine de kulağa 
+geldiğinden çok daha risklidir.
+Öyleyse neden %1,5'un kullanılmasını savunup bu işi bitirmiyorum?
+Cevap, işlem yapmak için sahip olduğum sermaye miktarıyla ilgilidir.
+Ne kadar sermaye?
+Diyelim ki ticaret stratejim genellikle zarar durdurma emri vermeden önce sözleşme başına yaklaşık 
+200$ risk almamı gerektiriyor. 10.000$ sermayeyle, %1,5 150$'dır. Bu nedenle, %1,5 risk seviyesini ihlal 
+etmeden bu piyasada tipik bir ticaret yapamıyorum.
+20 bin dolar sermayeyle, %1,5 300 dolar, yani bir sözleşmeyle işlem yapabilirim. İki sözleşme 
+(400 dolar riske atmak) risk seviyemi ihlal eder.
+Öte yandan, %5 risk seviyesi kullanmaya karar verirsem, 10.000$'lık bir hesapla iki 
+sözleşmeyle işlem yapabilirim çünkü sermayemin %5'i 500$'dır. 400$ riske eden iki sözleşme 
+risk toleransım dahilindedir ancak üç sözleşme riski 600$'a çıkarır - çok büyük.
+Pratikte, birçok yatırımcının işlem başına riskini sermayenin sadece %1,5'i ile sınırlamak için 
+yeterli sermayesi yoktur. Tavsiyem, sınırlı sermaye nedeniyle %1,5'ten fazla riske girmeniz 
+gerekiyorsa, kar biriktirdikçe riske edilen yüzdeyi azaltmayı hedeflemenizdir.
+15
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Günlük Tahıl Vadeli İşlemleri
+Marjın bahis boyutunu belirlemesine izin vermeyin
+Marj, benim için değil, broker'ım için bir risk yönetim mekanizmasıdır. Eğer marjım (yazdığım 
+sırada) 2.000$'ın biraz üzerindeyse, broker'ım 10.000$'lık bir hesapla dört sözleşme girmeme 
+izin verecektir. Bu, yukarıda açıklanan yöntemi kullanarak işlem yapacağım sözleşme 
+sayısının iki katıdır, %5 risk seviyesinde bile.
+Mümkün olduğunca çok sayıda sözleşme satın almak – marj seviyesi göz önüne alındığında – neredeyse 
+kaçınılmaz olarak çok fazla riske neden olacaktır. Bunu yapmayın!
+Sadece belirtilen risk toleransı dahilinde bahis oynayarak işlem sermayenizi koruyun.
+16
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+6
+Ne Ticareti Yapıyorum?
+Vadeli işlem sözleşmelerine yönelik iş ihtiyacı
+Tahıl vadeli işlem sözleşmeleri ticareti yapıyorum - soya fasulyesi, buğday ve mısır. Başka tahıl vadeli işlemleri 
+de var, ancak bunlar ilgimi çekecek kadar hacimle işlem görmüyor.
+Tüm emtialar gibi tahılların da açık pazarda alınıp satılabilecekleri bir nakit fiyatı vardır. Sorun şu ki 
+bu fiyat değişkendir. Fırtınalar, kuraklıklar, hükümet kararları, savaşlar - hepsi büyük fiyat 
+dalgalanmalarına neden olabilir ve neden olur.
+Tahıl yetiştiren çiftçiler ve tahılları hammadde olarak kullanan ticari işletmeler, işlerini yönetmek 
+için daha iyi bir fiyatlandırma mekanizmasına ihtiyaç duyduklarını uzun zaman önce fark ettiler. 
+Sadece mevcut nakit fiyatına güvenmek onları beklenmedik fiyat hareketlerine karşı çok 
+savunmasız bıraktı. Bilmeleri gerekiyordu,peşin, tahıllarının hangi fiyattan satılacağını belirleyerek 
+işlerini daha iyi yürütebileceklerdi.
+Vadeli işlem sözleşmesi, bu kuruluşların ticari faaliyetlerindeki riskleri yönetmeleri ve belirsizliği 
+azaltmaları için bir araç olarak geliştirilmiştir.
+Uzun ve kısa
+Tahıl vadeli işlem sözleşmeleri, sözleşmenin sona erme tarihinde fiziksel olarak kapatılır. Örneğin, bir mısır 
+vadeli işlem sözleşmesi, sözleşme sona erdiğinde, kararlaştırılan bir fiyattan, belirtilen bir konumda 5000 bushel 
+standart kalitede mısırın değiştirilmesine yönelik bir anlaşmadır.
+17
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Günlük Tahıl Vadeli İşlemleri
+Bir katılımcı yauzunveyakısasözleşme.uzunkatılımcı mısır satın alıyor.kısa
+katılımcı satıcıdır.
+Tahıl sözleşmeleriyle, gıda üreticileri genellikleuzunGelecekteki hammadde tedariklerini bilinen bir 
+maliyet karşılığında doğru zamanda güvence altına almak için çiftçilerkısaGelecekteki hasatların bilinen 
+fiyatlarla satışını garantilemek.
+Spekülatörler
+• Bir tahılın fiyatıvadeli işlem sözleşmesiEl değiştirme, piyasa katılımcılarının sözleşmenin 
+sona erdiği gelecekteki bir zamanda nakit fiyatının ne olacağına ilişkin en iyi tahminini 
+temsil eder.
+•peşin fiyattemel emtianın piyasada işlem gördüğü fiyattır Şimdi.
+Genellikle, ancak her zaman değil, vadeli işlem fiyatı, altta yatan nakit fiyatına benzer bir şekilde 
+değişme eğilimindedir.
+Bloktaki tek çocuklar ticari çıkarlar değil. Gerçekten de öyle olsalardı, vadeli işlemler 
+piyasası likidite eksikliğinden muzdarip olurdu. Piyasadaki likidite, benim gibi 
+spekülatörler tarafından sağlanır.
+Ne büyük miktarlarda tahıl teslim etmekle ne de almakla ilgileniyorum, ancak piyasaların arz ve talep 
+dengesindeki değişikliklere tepki vermesiyle vadeli sözleşmelerin fiyatındaki dalgalanmalardan kar elde 
+etmeyi amaçlıyorum.
+Vadeli işlem sözleşmeleri kişiselleştirilmemiştir, yani vadeli işlem piyasasında kolayca alınıp 
+satılabilirler. Bir sözleşmeyi satın aldığımda veya sattığımda, ilişkili satın alma veya teslimat 
+yükümlülüklerini üstleniyorum. Ancak, başka bir sözleşmede karşı tarafı (satış veya alım) 
+alarak pozisyonumu kapatabilir ve yükümlülüğü serbest bırakabilirim.
+Sözleşme
+Tahıl vadeli işlem piyasaları en eski vadeli işlem piyasaları arasındadır. Sözleşmeler, 
+yakın zamanda Chicago Ticaret Borsası (CME) ile birleşerek CME Grubu'nu oluşturan 
+Chicago Ticaret Borsası'nda (CBOT) işlem görmektedir.
+Sözleşmenin tam şartnamesine CME Group'un web sitesinden ulaşılabilir: 
+www.cmegroup.com . Bir tüccar aşağıdaki bilgilere aşina olmalıdır:
+18
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Ne Ticareti Yapıyorum?
+Tablo 6.1: Tahıllar için sözleşme özellikleri
+Sözleşme süresi Yorum
+Örneğin, soya fasulyesi vadeli işlem sözleşmesi 5000 buşel 2 Numaralı Sarı 
+fasulye içindir. Buğday ve mısır sözleşmeleri de 5000 buşel içindir.Sözleşmenin boyutu ve niteliği
+Bir tick, sözleşme fiyatında izin verilen minimum harekettir. Soya fasulyesi, 
+buğday ve mısır için bushel başına 0,25 senttir, bu da sözleşme başına 12,50 
+dolara (5000 x 0,25 sent) eşittir.
+Kene büyüklüğü ve değeri
+Fiyatın teklif edilme şekli Soya fasulyesi, buğday ve mısır fiyatları bushel başına sent cinsinden (örneğin 
+631,25) belirtilmektedir.
+Soya fasulyesi her yıl Ocak, Mart, Mayıs, Temmuz, Ağustos, Eylül ve Kasım 
+ayları için sözleşmelere sahiptir. Buğday ve mısırın Mart, Mayıs, Temmuz, 
+Eylül ve Aralık ayları için sözleşmeleri vardır.
+Sözleşmenin vadesinin 
+dolduğu aylar
+Sözleşmenin son işlem günü Hububat için bu tarih sözleşme ayının on beşinci takvim günüdür.
+Genellikle iki sözleşmeden bahsedilir. Biri geleneksel floortraded versiyonu, 
+diğeri elektronik versiyondur. Her birinin farklı bir kodu vardır, ancak ben 
+yalnızca elektronik sözleşmeleri kullanıyorum, ZS (soya fasulyesi), ZW 
+(buğday) ve ZC (mısır).
+Sözleşme için kod(lar)
+Elektronik sözleşmeler, zeminde işlem gören sözleşmelere kıyasla daha uzun 
+saatlere sahiptir, ancak ben yalnızca geleneksel birincil zemin işlem saatlerinde 
+işlem yapıyorum çünkü hacimler uzatılmış seanslar sırasında çok düşük oluyor. 
+İşlem yaptığım sözleşmeler için zemin işlem seansı, Pazartesiden Cumaya 
+09:30-13:15 ABD Merkez Saati'dir.
+Sözleşmenin işlem gördüğü 
+saatler
+Tahıl piyasaları bir sınır hareketinden sonra kilitlenir. Normal sınırlar soya fasulyesi 
+için 0,70$, buğday için 0,60$ ve mısır için 0,30$'dır. Ancak, sınırlar istisnai piyasa 
+koşulları sırasında genişleyebilir. (Sınırların nasıl çalıştığı ve nerede olduklarını 
+bilmenin neden önemli olduğu hakkında daha fazla tartışma için 13. bölüme bakın.)
+Sınır bilgisi
+Bu, pozisyonları açmak ve sürdürmek için borsaya yatırılması 
+gereken para miktarını belirtir. Bu rakamı brokerınızdan 
+almanız daha iyidir çünkü broker şirketleri bazen borsada 
+belirtilenlerden farklı marj seviyeleri belirler.
+Sözleşme marjı
+19
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Günlük Tahıl Vadeli İşlemleri
+Ön sözleşmeyi takas edin
+Başlangıç   seviyesindeki yatırımcılar bazen bir yük tahılla sıkışıp kalmaktan endişe duyabilirler, ancak her 
+zaman ön ay (en yüksek işlem hacmi) sözleşmesiyle işlem yaparsam ve her işlem gününün sonunda tüm 
+pozisyonlarımın bitmiş olduğundan emin olursam, fiziksel teslimat sorunlarıyla karşılaşma riskim olmaz.
+Genel kuralım, hiçbir sözleşmeyi son kullanma ayı boyunca işlem yapmamaktır. Son kullanma 
+tarihinden önceki ayın son birkaç gününde yeni ön aya geçerim. Örneğin, Mayıs 2009'da Temmuz 
+2009 mısır sözleşmesini işlem yapacağım. Haziran sonuna doğru Eylül 2009 sözleşmesine (mevcut 
+olan bir sonraki sözleşme) geçeceğim.
+Not: Ağustos ve Eylül soya kontratlarında işlem yoğunluğu az olduğundan, Haziran ayı 
+sonunda doğrudan Kasım kontratına geçmek ve Ağustos ve Eylül aylarını tamamen 
+atlamak en iyisidir.
+Sözleşme kodları
+Broker'ım (Interactive Brokers) benden sadece işlem yaptığım bir kontratın ticker kodunu 
+bilmemi istiyor. Kodu belirttikten sonra, son kullanma ayını ve yılını seçebileceğim menülerle 
+karşılaşıyorum.
+Bazı brokerlar hala sözleşmenin ticker kodu, ay kodu ve yıl bilgisinin birleştirilmesiyle tam olarak 
+belirtilmesini talep ediyor.
+Ay kodları şu şekildedir:
+F
+G
+H
+J
+K
+M
+N
+Ocak
+Şubat
+Mart
+Nisan
+Mayıs
+Haziran
+Temmuz
+20
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Ne Ticareti Yapıyorum?
+Q
+Sen
+V
+X
+Z
+Ağustos
+Eylül
+Ekim
+Kasım
+Aralık
+Örneğin, Kasım 2009'da sona erecek elektronik soya sözleşmesini ZSX9 (ZS: 
+elektronik soya sözleşmesi; X: Kasım; 9: 2009) olarak belirtebilirim.
+Tüm brokerlar bunu nasıl yaptıkları konusunda tutarlı değildir. Kullanabilecekleri diğer permütasyonlar 
+arasında ZSX09, ZS9X ve ZS09X bulunur.
+Fiyat hakkında bir kelime
+Bir yatırımcı, vadeli işlem sözleşmesiyle ilgili olarak üç fiyattan bahsedildiğini görür.
+•teklif etmekBirinin bir sözleşmeyi satın almaya hazır olduğu fiyattır.
+•teklif(veyasormak) birinin satmaya hazır olduğu fiyattır.
+•son ticaretSon işlem gören sözleşmenin el değiştirdiği fiyattır.
+Örneğin, belirli bir anda 607,25 seviyesinde bir son işlem görebilirim, alış fiyatı 607, satış 
+fiyatı ise 607,5 olabilir.
+Son işlem 607,25, teklif 601 ve teklif 612 olsun. Bu geniş bir alış/satış aralığının bir örneğidir. 
+Bu durumda bir tüccar dikkatli emir yerleştirerek fiyatları iyileştirmeye çalışır. Bir alıcı, sadece 
+612 teklifine ulaşmak yerine, diyelim ki 605'te bir teklif verebilir. Benzer şekilde, bir satıcı, 
+istekli bir alıcının onu kapmasını umarak 608'de bir teklif verebilir.
+Ancak, birincil işlem seansları sırasında elektronik tahıl sözleşmeleri için, alış, satış ve son 
+işlem fiyatları saniyede birkaç kez değişir! Bu özellikle önemli destek ve direnç seviyelerinde 
+(bu kitapta daha sonra ele alınacaktır) sayılar işlem ekranında sadece bulanıklaştığında 
+geçerlidir.
+Ben atıfta bulunduğumdafiyatBu kitapta, şuna atıfta bulunuyorum:son işlem fiyatı.
+Genellikle spread, birincil işlem seansları sırasında ön ay elektronik tahıl sözleşmeleri 
+için sadece 0,25 ila 0,5 senttir. Daha geniş spreadler, düşük hacimli işlem durumlarında 
+bulunur. Örneğin, sözleşme ön ay sözleşmesi olmadığında veya uzatılmış bir işlem 
+seansı sırasında hafifçe işlem gördüğünde.
+21
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+7
+Spekülatif Bir Tüccar Ne 
+Yapar
+Belirli bir tahılın vadeli işlem sözleşmesi fiyatının tek bir işlem seansı sırasında yükselip 
+yükselmeyeceğine dair kumar oynarım. Fiyatın yükseleceğini düşünürsem, biruzunpozisyon. Fiyatın 
+düşeceğini düşünürsem, bir pozisyon açarım.kısapozisyon. Bazen ne düşüneceğimi bilemiyorum ve 
+sonra kenarda oturuyorum.
+Vadeli işlem piyasasında uzun veya kısa pozisyonları aynı kolaylıkla açabilirim.
+• Birini açmak içinuzun ticaret, Bir veya daha fazla sözleşme satın alıyorum. Aynı sayıda sözleşme 
+sattığımda pozisyon kapatılıyor.
+• Birini açmak içinkısa ticaret, Bir veya daha fazla sözleşme satıyorum. Aynı sayıda sözleşme satın 
+aldığımda pozisyon kapatılıyor.
+Kısa vadeli bir ticaretin anlamı nedir?
+İlk olarak işlem yapmaya başladığımda kısa vadeli işlem kavramını anlamakta zorluk çekiyordum.
+Bana ait olmayan bir şeyi nasıl satabilirim?
+Unutulmaması gereken şey, bir sözleşmeyi açığa sattığımda, 5000 bushel tahıl teslim etme 
+yükümlülüğünü üstlendiğimdir.sözleşme teslim tarihinde. Eğer o anda tahılım yoksa, sorun 
+değil. Tek yapmam gereken teslimat tarihinden önce satın almak. Ve daha ucuza satın 
+alabilirsem, o zaman anlaşmadan kar elde ederim.
+23
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Günlük Tahıl Vadeli İşlemleri
+Vadeli işlem piyasası
+Tahıl vadeli işlem sözleşmeleri Chicago Ticaret Borsası'nda (CBOT) işlem görmektedir. Piyasa 
+tüm işlem sürecini basitleştirir.
+Öncelikle sözleşmelerin çok kolay bir şekilde alınıp satılabileceği elektronik bir pazar yeri 
+sağlıyor.
+Pozisyonumu otomatik olarak netleştirir. Üç sözleşme satın aldıysam ve dört sözleşme sattıysam, 
+net pozisyonumun bir sözleşme kısa olduğunu bilir.
+Daha da iyisi, sözleşmenin sona ermesinde uzun ve kısa pozisyonlar tutan tüccarlardan 
+sadece fiziksel tahıl teslimatı gerektirir. Tüm işlemlerim nakit olarak kapatılır.
+Bu şu şekilde işliyor.
+Uzun bir ticaret
+Diyelim ki mısırın fiyatınınyükselen, bu yüzden 607.25'ten 4 kontrat satın alıyorum.
+Benim haklı olduğumu varsayalım ve birkaç dakika sonra fiyat hedefime doğru hareket etsin ve ben de 
+611.75'ten 4 kontrat satayım.
+4 kontrat alıp sattığım için artık açık pozisyonum kalmadı. Param artık risk 
+altında değil.
+İşlemdeki karım 611,75 – 607,25 = bushel başına 4,5 senttir. Sözleşme başına 5000 bushel 
+vardır, bu da sözleşme başına 225 dolara eşittir. 4 sözleşme ile işlem yaptım, bu yüzden 
+toplam kar 4 x 225 dolar = 900 dolardır. Bu kar (aracılık ücretleri hariç) pozisyon kapatıldığı 
+anda işlem hesabımda görünür.
+Fiyatın yükselişi konusunda yanılmışsam, fiyat stop loss seviyem olacağına karar verdiğim bir 
+noktaya düştüğünde pozisyonu kapatırım. Diyelim ki 605.25'ten 4 sözleşme sattım.
+İşlemdeki kaybım 605.25 – 607.25 = -2.0 sent/buşel, yani sözleşme başına 100$ kayıp, 
+yani 4 sözleşmelik toplam işlem için 400$ kayıp (aracılık ücretleri hariç).
+24
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Spekülatif Bir Tüccar Ne Yapar
+Kısa bir ticaret
+Diyelim ki mısırın fiyatınındüşen, bu yüzden bensatmak4 kontrat 607.25'ten.
+Benim haklı olduğumu varsayalım ve birkaç dakika sonra fiyat hareket etsinaşağıhedefime ve banasatın almak 
+4 sözleşme 602.75.
+4 kontrat satıp aldığım için artık açık pozisyonum kalmadı. Param artık risk 
+altında değil.
+İşlemdeki karım 607,25 – 602,75 = bushel başına 4,5 senttir. Sözleşme başına 5000 bushel 
+vardır, bu da sözleşme başına 225 dolara eşittir. 4 sözleşme ile işlem yaptım, bu yüzden 
+toplam kar 4 x 225 dolar = 900 dolardır. Bu kar (aracılık ücretleri hariç) pozisyon kapatıldığı 
+anda işlem hesabımda görünür.
+Eğer fiyat konusunda yanılmışsamdüşen, Fiyat hareket ederse pozisyonu kapatırdımyukarıkarar 
+verdiğim bir fiyata zarar durdurma seviyem olacak. Diyelim kisatın almak4 kontrat 609.25'ten.
+İşlemdeki kaybım 607.25 – 609.25 = -2.0 sent/buşel, yani sözleşme başına 100$ kayıp, 
+yani 4 sözleşmelik toplam işlem için 400$ kayıp (aracılık ücretleri hariç).
+Yukarı mı aşağı mı? Önemi yok…
+Spekülatörün yükselen veya düşen fiyatlara aynı kolaylıkla bahis oynayabildiğini görebilirsiniz.
+Uzun vadeli bir işlem, fiyat yükselirse para kazandırır ve fiyat düşerse kaybeder. Kısa vadeli bir 
+işlem, fiyat düşerse para kazandırır ve fiyat yükselirse kaybeder.
+Çok basit ve çok simetrik.
+Ticarete yeni başlayanların genellikle uzun vadeli ticareti anladıklarını, bir noktada birkaç hisse senedi satın 
+aldıklarını, ancak kısa vadeli ticareti kavramak için biraz çaba sarf etmeleri gerektiğini düşünüyorum.
+Pazara erişim
+Benim gibi küçük spekülatörlerin vadeli işlem borsasına doğrudan erişimi yoktur; bir vadeli işlem 
+brokeri aracılığıyla gitmemiz gerekir. Broker, benimle piyasa arasındaki yazılım arayüzünü sağlar. 
+Yazılım, işlemleri planlamama, emir girmeme ve hesabımı yönetmeme olanak tanır, hepsi internet 
+üzerinden.
+25
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Günlük Tahıl Vadeli İşlemleri
+Bir aracı kurum her vadeli işlem işlemi için komisyon alır. Benim aracı kurumum her işlem için 3,05 
+dolar alır. Yukarıda açıklanan ilk uzun işlemde, 4 sözleşme satın aldım ve ardından pozisyonu 
+kapatmak için 4 sözleşme sattım. Bu toplamda 8 işlemdir, bu nedenle aracılık ücretim tam işlem 
+için 8 x 3,05 dolar = 24,40 dolardır.
+Interactive Brokers'ı kullanıyorum (www.interactivebrokers.com ) ve benim açımdan, 
+hizmet, kalite ve fiyat konusunda standartları belirliyorlar. (ABD'li bir broker kullanmak için 
+ABD'de ikamet etmem gerekmediğini unutmayın.)
+26
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+8
+Grafikler
+Paranın takibi
+Fiyat grafikleri önemlidir çünkü parayı takip etmemi sağlarlar. Büyük kurumlar genellikle 
+dünya tahıl piyasalarını inceleyen analistlere sahiptir. Onlarla rekabet edecek kaynaklara ve 
+bilgi kaynaklarına sahip değilim. Ama önemli değil.
+Analistler fiyatın yükseleceğine inanıyorsa, çalıştıkları kuruluşların harekete geçmesi gerekir. Faaliyetleri 
+kaçınılmaz olarak bir fiyat grafiğinde kaydedilen fiyat değişikliklerine yansır.
+Kendimi bir piyasa analisti olarak değil, yetenekli bir takipçi olarak görüyorum. Benim görevim grafikteki büyük 
+paranın izini sürmek ve onu altın dolu kazana kadar takip etmek.
+Büyük oyuncular izi gizlemek ve beni kendi izlerinden çıkarmak için ellerinden geleni yaparlar ve 
+sıklıkla başarılı olurlar. Ama çoğu zaman onların peşine takılıp ganimetten payımı almayı 
+başarırım.
+Mum grafikleri
+Grafikler, ilgilendiğim tahıl vadeli işlem sözleşmelerinin fiyat hareketlerini haritalar. Herhangi bir 
+zaman diliminde olabilmelerine rağmen, iki dakikalık mum grafikleri kullanıyorum. Bu, grafikte 
+işlem seansının her iki dakikalık bölümünü temsil eden ayrı bir mum olduğu anlamına gelir.
+27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Günlük Tahıl Vadeli İşlemleri
+Grafik 8.1
+Mum 16
+– bir “doji”
+Grafik 8.1, mısır seansı sırasında fiyat hareketini gösteren iki dakikalık bir mum grafiğidir.
+Sol eksen sent cinsinden fiyatı gösterir. Yatay eksen (Queensland) saatini gösterir. 
+(Oturumlar Chicago'da 09:30'dan 13:15'e kadar sürer, yaz saatine bağlı olarak Queensland'da 
+00:30- 04:15 veya 01:30-05:15 arasıdır.)
+28
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Grafikler
+Bu grafikteki her dikey mum, iki dakikalık bir süre zarfındaki fiyat hareketini temsil eder.
+Mum grafikleri genellikle dönemin açılış ve kapanış fiyatları arasında (bu durumda iki dakika) 
+bir gövdeye ve dönemin en yüksek fiyatına kadar bir kuyruğa ve en düşük noktasına kadar 
+da bir kuyruğa sahiptir.
+Konvansiyona göre gövde kalın bir çizgidir ve kuyruklar ince çizgilerdir. Gövdenin rengi, 
+dönem boyunca genel fiyat hareketinin yönünü gösterir.
+Size hitap eden herhangi bir renk şemasını kullanabilirsiniz. Ben yükselen fiyatı göstermek için mavi bir gövde, düşen 
+fiyat için kırmızı bir gövde ve siyah kuyruklar kullanıyorum.
+Bir mum grafiğinin yorumlanması
+İlk dikey çizgiye bakın. Buna mum 1 diyeceğim.
+• Mum 1bana işlem seansının ilk iki dakikasındaki fiyat hikayesini anlatıyor. Gövde kırmızı, bu 
+yüzden kapanış fiyatının açılış fiyatından düşük olduğunu biliyorum. Kırmızı gövdeye 
+baktığımda, fiyatın 617,5'te açıldığını ve 617'de kapandığını görüyorum. Kuyruklardan, 
+fiyatın bu dönemde 617,75'e ve 616'ya ulaştığını görebiliyorum.
+• Mum 2sonraki iki dakikadaki fiyat hikayesini anlatıyor. Mavi, bu yüzden kapanış fiyatının iki 
+dakikalık periyot için açılış fiyatından daha yüksek olduğunu biliyorum. Gövde fiyatın 617'de 
+açıldığını ve 618,5'te kapandığını gösteriyor. Kuyruklar bana en düşük noktanın 616,75 ve en 
+yüksek noktanın 619 olduğunu söylüyor.
+• Mum 3bana sonraki iki dakikada ne olduğunu söylüyor. Mavi gövde bana fiyatın 618,25'te 
+açıldığını ve 619,75'te kapandığını gösteriyor. Alt kuyruk bana en düşük noktanın 618 olduğunu 
+söylüyor. Üst kuyruğun olmaması fiyatın dönemin en yüksek noktası olan 619,75'te kapandığını 
+gösteriyor.
+Bazen gövde yoktur. 16 numaralı mumu inceleyin. Gövde, çubukta tek bir noktadır. Bu, 
+açılış ve kapanış fiyatlarının aynı olduğunu gösterir: 619,5. Kuyruklar bana dönemin en 
+yükseğinin 619,75 ve en düşüğünün 618,25 olduğunu gösteriyor. Bu tür mumlara doji.
+29
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Günlük Tahıl Vadeli İşlemleri
+Interactive Brokers'ın işlem platformu bana bu tür grafikleri gerçek zamanlı olarak oluştuğu gibi 
+görüntülememe olanak tanıyan harika grafik olanakları sağlıyor. Bunu, bana ne zaman işlem 
+yapacağımı, hangi yönde işlem yapacağımı, stop loss'umun nerede olması gerektiğini ve hedefimi 
+nereye koymam gerektiğini gösteren belirli desenlerin geliştiğini aramak için kullanıyorum. Bunu nasıl 
+yaptığım aşağıdaki bölümlerde açıklanmaktadır.
+30
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+9
+Destek ve Direnç
+Açıkta işlem yapmayı severim. Piyasaya en büyük hacimler o zaman gelir ve fiyat genellikle 
+çılgınca dalgalanır. Bana göre bu bir fırsat zamanıdır!
+Ama aynı zamanda devam edebileceğim çok fazla bilgimin olmadığı bir zaman. Belki piyasa dün kapanıştan 
+daha yüksek veya düşük bir seviyede açılmıştır, ancak bunun seans boyunca nereye gideceğine dair bana pek 
+fazla ipucu vermediğini düşünüyorum.
+Zorluk, yönümü bulmak ve mümkün olan en kısa sürede potansiyel işlemleri belirlemektir. Bu 
+bölüm, bunu yapmak için güvendiğim prensiplerin kısa bir özetini sunar. Bir sonraki bölüm, kesin 
+kuralları verir.
+Grafiklerdeki dönüm noktaları önemlidir
+Grafikler, piyasanın daha önce döndüğü seviyeleri ortaya koyar. Bu seviyeler, piyasanın geri 
+çekilmeden önce ulaştığı fiyat zirveleri veya piyasa sıçramadan önce ulaşılan düşük noktalar 
+olabilir. Zirveler direnci, düşük noktalar ise desteği oluşturur.
+Destek ve direnç seviyeleri, çoğu yatırımcının savaşmak için seçtiği 
+yerlerdir.
+Fiyat belirgin bir destek ve direnç seviyesine yaklaştığında, boğalar ve ayılar 
+arasında bir savaş başlar. Boğalar satın alıyor, ayılar satıyor. Savaş tanıklık ediyor
+31
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Günlük Tahıl Vadeli İşlemleri
+Destek veya direnç seviyelerine yaklaşıldığında yoğun işlem akışı gören günlük yatırımcı 
+tarafından.
+Şekil 9.1
+Şekil 9.2
+32
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Destek ve Direnç
+Savaşı kim kazanır?
+Şekil 9.1 ve 9.2'deki daire içine alınmış alanlar, destek ve direnç seviyelerindeki savaş bölgelerini 
+göstermektedir. Bu bölgeler içerisinde savaş, piyasa katılımcılarının en iyi girişleri elde etmek için 
+farklı taktikler kullanmasıyla ileri geri sallanmaktadır.
+Bir taraf yol verdiğinde, diğer taraf ihlal edilen savunmaları aştığında genellikle bir fiyat 
+artışı olur. Şekil 9.3, boğaların dirençte kazandığı bir savaşı gösterir ve Şekil 9.4, ayıların 
+kazandığı aynı savaşı gösterir.
+Şekil 9.3
+33
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Günlük Tahıl Vadeli İşlemleri
+Şekil 9.4
+Bu savaşları hangi tarafın kazanacağını bilmenin bir yolu yok. Ancak ticaretteki en eski söz 
+"trend dostunuzdur" ve bu, hangi tarafı destekleyeceğinize dair bir ipucu verir.
+Temel fikir, trendlerin momentumu olduğu ve durdurulmasının oldukça zor olduğudur. Yani, 
+yükselen bir piyasada boğalar üstünlüğe sahiptir. Düşen bir piyasada ayılar üstünlüğe sahiptir. 
+(Sadece bir üstünlük – garanti değil!)
+Bunun açılışta işlem yapmaya nasıl bir etkisi var?
+Tahıl vadeli işlemleri açıldığında, hemen hemen her zaman bir erken aktivite telaşı olur. Bu erken 
+aktivitenin en yüksek noktası direnç, en düşük noktası ise destektir.
+Aslında bir seans esnasında ara destek ve direnç seviyeleri oluşsa da benim tek 
+ilgilendiğim seviyeler şunlardır:
+• Rezistansoturumun en yüksek noktasında ve
+• Destekoturumun en düşük noktasında.
+Destek ve direnç seviyelerini belirledikten sonra, trend hakkında bir fikir edinmem gerekiyor. Yukarı mı, 
+aşağı mı?
+34
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Destek ve Direnç
+Unutmayın, iki dakikalık mumlara grafikte göründükleri gibi bakıyorum. İlk mum 
+tamamlandığında, trend hakkında ilk geçici okumamı yapabilirim. Mum maviyse, trend 
+yukarıdır. Mum kırmızıysa, trend aşağıdır. (Bölüm 8'deki mumlar için renk kuralımı 
+kontrol edin.)
+Birkaç mum tamamlandıktan sonra, trendleri seçmek genellikle daha kolaydır. Klasik yukarı trend, her 
+biri bir öncekinden daha yüksek zirvelere ve daha yüksek diplere sahip bir dizi mumdan oluşur (Şekil 9.5).
+Şekil 9.5
+Klasik aşağı yönlü trend, her biri bir öncekinden daha düşük dip ve daha düşük zirvelere sahip bir dizi mumdan 
+oluşur (Şekil 9.6).
+35
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Günlük Tahıl Vadeli İşlemleri
+Şekil 9.6
+Gerçek hayattaki grafikler nadiren dikkatlice çizilmiş diyagramlara benzer, ancak yine de seansın 
+başından itibaren trend yönü hakkında bir görüş oluşturmak benim işim.
+Ticaret fikri
+Destek ve direnç seviyelerini (seansın en düşük ve en yüksek noktalarında) belirledikten ve trend 
+yönüne dair bir görüş edindikten sonra, planım ilk önemli kopuşu (her iki yönde de) işlem 
+yapmaktır. Direncin üzerinde bir kopuşsa uzun pozisyon alırım. Desteğin altında bir kopuşsa kısa 
+pozisyon alırım.
+Destek ve direnç anahtardır, trendle işlem yapmak amaçtır. Şimdi, belirli kurallar için 
+okumaya devam edin.
+36
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+10
+Giriş Kuralları
+Ön yargı
+İşlem seansı sırasında, yukarı, aşağı veya nötr bir eğilimim var. Başlangıçta nötrüm, ancak ilk 
+çubuk tamamlandığında bir eğilim benimsemeyi hedefliyorum:
+• Mumun gövdesi isemavigrafiklerimde iki dakikalık zaman diliminde yukarı yönlü 
+hareketi temsil eden, benim önyargımyukarı(uzun).
+• Mumun gövdesi isekırmızı, benim önyargımaşağı(kısa).
+• Eğer mum birdoji, kalıyorumdoğalve ikinci ölçünün başlangıçtaki önyargımı belirlemesine izin ver.
+Geri çekilmeler
+Geri çekilme meydana geldikten sonra trend yönünde breakout işlemlerine girerim.
+Geri çekilme tam olarak şudur: Yükseliş trendinde önceki bir zirveden (eğilimim yukarı olduğunda) veya 
+düşüş trendinde önceki bir dipten (eğilimim aşağı olduğunda) geri çekilme.
+Piyasa A noktasında yeni bir seans zirvesi oluşturduktan sonra, en az iki ardışık mumun A noktasından daha 
+düşük zirvelere sahip olması durumunda geri çekilmenin meydana geldiğini tanımlıyorum.
+37
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Günlük Tahıl Vadeli İşlemleri
+Şekil 10.1
+Benzer şekilde, eğer piyasa B noktasında yeni bir seans dip noktası yaparsa, o zaman geri çekilmeyi, aşağıdaki mumlardan en az ikisinin B 
+noktasından daha yüksek dip noktalarına sahip olması durumunda meydana gelen bir durum olarak tanımlıyorum.
+Şekil 10.2
+Eğer A noktasında yeni bir zirve yaptıktan sonra geri çekilme o kadar aşırı olursa ki B noktası delinir ve yeni bir 
+seans dip noktası oluşursa, o zaman önyargımı yukarıdan aşağıya değiştiririm ve yeni diplerden geçerli bir geri 
+çekilme beklerim.
+38
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Giriş Kuralları
+Şekil 10.3
+Benzer şekilde, eğer seans noktası B'den geri çekilme o kadar aşırı olursa ki A noktası delinmiş olur, önyargımı 
+aşağıdan yukarıya doğru değiştiririm ve yeni zirvelerden geri çekilmeyi beklerim.
+Şekil 10.4
+39
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Günlük Tahıl Vadeli İşlemleri
+Kopuşlar
+Bir kopuş, geçerli bir geri çekilmeden sonra, önceki seansın en yüksek veya en düşük seviyesinin mevcut 
+eğilimim yönünde kırılmasıyla meydana gelir.
+Benim eğilimimin yukarı olduğu ve A noktasının seansın en yüksek seviyesini temsil ettiği yükselen trendli bir 
+piyasada, piyasa en az iki mumun A noktasının altında zirve yapmasından sonra A noktasının üzerine çıkarsa bir 
+kopuş meydana gelir.
+Şekil 10.5
+Eğilimimin aşağı yönlü olduğu ve B noktasının seansın en düşük seviyesini temsil ettiği aşağı yönlü bir 
+piyasada, piyasa en az iki mumun B noktasının üzerinde dip yaptıktan sonra B noktasının altına düşerse 
+bir kırılma meydana gelir.
+40
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Giriş Kuralları
+Şekil 10.6
+Ticaret tetikleyicisi
+Seanstaki ilk kırılmayı beklerim ve kırılma yönünde bir işlem girerim. Eğer 
+kırılma olmazsa işlem yapmam.
+İstisna: İkinci mumun geri çekilmesi ve ardından üçüncü mumun kırılması
+Yukarıdaki genel tanıma bir istisna yapıyorum ve bunun nedeni, işlem seansındaki erken 
+hareketin (ilk dört veya beş dakika) çok yoğun ve hızlı hareket etmesidir. İlk mum belirli 
+bir yönde hareket ederse, ikinci mum geri çekilmedir ve ardından üçüncü mum orijinal 
+yöndeki hareketi sürdürür, o zaman tek ikinci mum geri çekilmesini geçerli olarak 
+değerlendiririm ve bu nedenle üçüncü mum geçerli bir kopuş sağlar.
+41
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Günlük Tahıl Vadeli İşlemleri
+Şekil 10.7
+Bu senaryoda ikinci mumun her zaman bir iç mum olduğunu (en yüksek ve en düşük noktalarının her ikisinin de bir 
+önceki çubuğun belirlediği uç noktalar içinde olduğunu) unutmayın.
+Bu istisna, ilk altı dakikalık işlem için bir dakikalık mumlar kullandığım için ortaya çıktı, böylece 
+başlangıçtaki hareketliliğe daha iyi uyum sağlayabildim. Bir dakikalık çubukta standart kurallarımı 
+kullandım, ancak bir dakikalık ve iki dakikalık grafikler arasında geçiş yapmak zahmetliydi. İki 
+dakikalık grafiklerde bu üçüncü mum kırılmalarına izin vermenin hemen hemen aynı sonuçları 
+verdiğini fark ettiğimde, bu tekniği benimsedim.
+42
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Giriş Kuralları
+Bazı örnekler
+Grafik 10.1
+Mum 1 mavi, bana uzun bir eğilim veriyor. İlk üç mum daha yükseğe çıkıyor, sonra mumlar 
+4-7 ilk yüksekten (913,75) geri çekiliyor. Beklediğim şey bir geri çekilme ve şimdi hareketin 
+yeniden başlamasını bekliyorum. Fiyat mum 8'de 914'e (ilk yüksekten bir tık fazla) geri 
+çıktığında uzun pozisyon alıyorum.
+43
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Günlük Tahıl Vadeli İşlemleri
+Grafik 10.2
+Grafik 10.2'de, 1 numaralı mum kırmızıdır ve bu da kısa tarafa doğru bir eğilim olduğunu gösterir. Fiyat 2 numaralı 
+mumda 880,25'e düşer, ardından 3-5 numaralı çubuklarda geri çekilir (yukarı). Geri çekilme beni aşağı yönlü hareketin 
+devamı için teyakkuza geçirir. Fiyat 6 numaralı mumda ilk düşük seviyenin bir tik altında 880'e ulaştığında, kısa 
+pozisyona girerim.
+44
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Giriş Kuralları
+Grafik 10.3
+Grafik 10.3'te, çubuk 1 aşağıda (kırmızı) ve bu da kısa bir eğilimi gösteriyor. Mum 2 daha yüksek bir 
+diple geri çekiliyor, bu yüzden hemen basit bir kısa işlem arıyorum. Ancak, mum 3 ilk mumun 
+tepesinden kırılıyor ve bu da eğilimi uzuna çeviriyor ve daha fazla gelişme bekliyorum. Mum 4 
+yukarı doğru devam ediyor, ancak mum 5-8 yeni zirveden geri çekilmeyi temsil ediyor. Ancak, 
+mum 9 seansın en düşük seviyesinden aşağı doğru girdiğinde eğilimimi tekrar kısaya çeviriyorum. 
+Mum 10 yeni bir düşük yapıyor, ardından mum 12 ve 13 geçerli bir geri çekilme yapıyor. Mum 14 
+aşağı doğru kırılıyor ve fiyat 10 mumun en düşük seviyesinin bir tik altında 958,25'e ulaştığında, 
+kısa pozisyona geçiyorum.
+45
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Günlük Tahıl Vadeli İşlemleri
+Grafik 10.4
+Grafik 10.4'te, ilk mum aşağı (kırmızı) ve aşağı yönlü bir eğilim oluşturuyor. Mum 2 aşağı yönlü hareketi 
+sürdürüyor, ancak mum 3 tersine dönüyor ve ilk mumu yukarı doğru kırarak eğilimi yukarı doğru 
+değiştiriyor. Mum 4-12, mum 13 yukarı doğru kırılmadan önce yeni yüksekten geçerli bir geri çekilme 
+oluşturuyor ve ben 899,75'te uzun pozisyon açıyorum.
+46
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Giriş Kuralları
+Grafik 10.5
+Grafik 10.5'te, mum 1 mavi, 511.75'e yükseliyor ve uzun bir eğilim oluşturuyor. Mum 2 bir geri çekilme 
+(daha düşük bir zirve ile). İkinci bir mum geri çekilmesinin daha fazla onaya ihtiyacı yok, bu yüzden mum 
+3 yukarı doğru kırılırsa olası bir uzun ticarete karşı tetikteyim. Gerçekten de, mum 3 yukarı doğru 
+hareket ediyor ve fiyat 512'ye ulaştığında, mum 1'in zirvesinin bir tik üzerinde uzun pozisyon açıyorum.
+47
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Günlük Tahıl Vadeli İşlemleri
+Grafik 10.6
+Grafik 10.6'da, mum 1 kırmızıdır, 836'ya düşerek kısa bir eğilim oluşturur. Mum 2'nin daha yüksek bir dibi 
+vardır, geri çekilme olarak nitelendirilir. Yine bu ikinci bir mum geri çekilmesidir, mum 3 aşağı kırılırsa olası bir 
+kısa ticaret sinyali verir. Bu durumda kırılır ve fiyat 835,75'e ulaştığında, mum 1'in düşük seviyesinin bir tik 
+altında kaldığında kısa pozisyon açarım.
+48
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+11
+Ticareti Yönetmek
+Uzun vadeli yatırımcılar, yeni başlayan biri tarafından yatırım başarısının sırrı sorulduğunda, 
+gözlerini kapatıp yavaşça ileri geri sallanabilir ve ardından şu satırlar boyunca bir bilgelik incisi 
+dağıtabilir:
+Kazananların koşmasına izin verin ve kayıpları hızla kesin.
+Çaylak, eksantrik bir büyüklüğün huzurunda yapıldığı gibi nazikçe başını sallıyor, ardından şaşkın bir 
+şekilde kaşlarını çatarak hatasız girişin zorlu arayışına devam etmek üzere hızla uzaklaşıyor.
+Peki bu geleneksel ticaret bilgeliğinin özü nedir?
+Kârlı işlemleri, çiçek açmadan önce kapatarak koruma ve zarar eden işlemlerin, dönüp 
+kazanan olma umuduyla beklemeye devam etme gibi ikili cazibelere atıfta bulunur. Bu 
+cazibelere boyun eğmek, ortalama kazancınızın ortalama kaybınızdan daha küçük 
+olmasıyla sonuçlanır. Çoğu durumda, bu bir felaket reçetesidir.
+Bölüm 4'e tekrar göz atmak isteyebilirsiniz. Şansımı lehime çevirmek için ilk iki 
+prensibi hatırlayın:
+1. En azından yarı yarıya kazan.
+2. Ortalama kazancımın ortalama kaybımdan büyük olmasını sağlamak.
+9. Bölümde, size ticarete nasıl girdiğimi gösterdim. Ancak bu, işin sadece yarısı. Bu işteki 
+karlılığınızı nihayetinde belirleyen şey, bundan sonra ne yapacağınızdır.
+49
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Günlük Tahıl Vadeli İşlemleri
+Parametreler benim kontrolüm altında
+Bir işleme girdiğimde, başarı olasılığı tamamen onu nasıl yönettiğimle belirlenir. Büyük bir stop 
+loss ile küçük bir hedef belirlersem, düşük bir ortalama kazanç-ortalama kayıp oranıyla yüksek bir 
+kazanma yüzdesi elde ederim.
+Buna karşılık, stop ile kıyaslandığında iddialı bir hedef, çok daha düşük bir başarı olasılığı, ancak 
+yüksek bir ortalama kazanç/ortalama kayıp oranı sağlayacaktır.
+Önemli bir dipnot
+Zarar durdurma ve hedef seviyelerimi nereye koyacağıma karar vermek için kullandığım mekanizmayı 
+incelemeden önce, yönetim planıma bağlı kalmama yardımcı olan en önemli tekniklerden birinden 
+bahsetmem gerekiyor.
+Bir işleme girdiğimde, hemen hesaplanmış zarar noktamda bir durdurma emri ve 
+hesaplanmış hedef seviyemde kar almak için bir limit emri girerim. Daha sonra işlemden 
+uzaklaşırım ve bu seviyeleri değiştirmeden işlemesine izin veririm.
+Bunun benim ticaret başarımımda ne kadar önemli olduğunu yeterince vurgulamam zor.
+• Kazananların koşmasına izin verip, kayıpları hızla kesmemi sağlayan yöntemdir.
+• Yaptığım her bahsin diğer bahislerle aynı duruma dayalı olmasını nasıl sağladığımı anlatıyorum.
+• Her işlemde değişiklik yapma isteğine karşı koyma şeklim bu.
+• Ekrana bakarak saatlerce vakit kaybetmekten ve piyasanın benim yönümde hareket etmesini sağlamaktan nasıl 
+kurtulduğumu anlatıyor. (Ve benim durumumda, Avustralya'da yaşıyorum ve gecenin bir yarısı işlem yapıyorum, bu 
+da bana saatlerce ekstra uyku sağlıyor.)
+Uzun vadede, saatlerce işlemleri izlemenin bana herhangi bir fayda sağlayacağına inanmıyorum.
+50
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+Ticareti Yönetmek
+Durdurma ve limit seviyelerinin ayarlanması
+Tamam, bir breakout işleminin nasıl başlatılacağını biliyorum ve işleme girdiğimde hemen bir 
+zarar durdurma ve kar alma emri ayarlamam gerektiğini belirledim.
+Peki stop ve limit seviyeleri hangi seviyelerde belirlenmeli?
+Bazı seanslar büyük hareketlerle oynaktır, daha büyük hedefler ve daha geniş stoplar gerektirir. 
+Diğerleri daha az oynaktır, daha dar stoplar ve daha küçük hedefler gerektirir. İçinde bulunduğum 
+seansın türüyle ilgili tek ipucum, girişimden önceki eylemdir.
+Bu nedenle stop ve hedef seviyelerimi grafikte görülen dalgalanmalara göre belirledim.
+r'yi tanımlama – aralık
+Uzun vadeli bir ticarete girdiğimi hatırlayıngeri çekilmedirençten sonra, direnç seviyesinden 
+yukarı doğru bir hareket veya kısa bir işlemgeri çekilmedestekten sonra destek seviyesine 
+doğru bir kırılma. Hedef ve stop seviyelerimi nereye koyacağıma dair bir fikir edinmek için bir 
+aralık (r) belirliyorum.
+Aralığın bir ucu her zaman kırılma (destek veya direnç) seviyesidir. Aralığın diğer ucunu 
+bulmak için şu prosedürü takip ediyorum:
+Uzun vadeli bir işlem için, daha düşük bir dip seviyesine sahip olan son mumun dip noktasını bulmak için 
+geriye bakarım Vehemen önceki mumdan daha düşük bir yüksekliğe sahip.
+51
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Günlük Tahıl Vadeli İşlemleri
+Şekil 11.1
+Kısa bir işlem için, daha yüksek bir dip seviyesine sahip olan son mumun yüksek seviyesini bulmak için 
+geriye bakarımVe hemen önceki mumundan daha yüksek.
+Şekil 11.2
+52
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Ticareti Yönetmek
+Çoğu zaman bu, en son geri çekilmenin en uç noktası olacaktır (Şekil 11.1 ve Şekil 11.2), 
+ancak bazen öyle değildir (Şekil 11.3). Bazen, kriterlere uyan bir mum bulunmaz, bu 
+durumda r'yi tam seans aralığı olarak alın (Şekil 11.4).
+Şekil 11.3
+Şekil 11.4
+53
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+Günlük Tahıl Vadeli İşlemleri
+İkinci mum geri çekilmesinin ardından üçüncü mumun kırılması
+Piyasa hareketi, işlemin ilk birkaç dakikasında en hızlı halindedir. Bu nedenle, ikinci mum bir geri 
+çekilmeyse, ikinci bir onaylayan geri çekilme mumu olmadan geçerli olduğunu düşünüyorum.
+Bu durumda, geri çekilme mumu her zaman ilk mumdan daha yüksek bir dip ve daha düşük 
+bir tepeye sahip bir iç mumdur. Her zamanki gibi, aralığın bir ucu kopuş (destek veya direnç) 
+seviyesidir.
+Uzun bir işlem için, aralığın alt ucu ikinci mumun en düşük seviyesidir. Kısa bir işlem 
+için, aralığın üst ucu ikinci mumun en yüksek seviyesidir.
+Şekil 11.5
+54
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Ticareti Yönetmek
+Örnekler
+11.1 ile 11.6 arasındaki grafiklerin hepsinde kırılma noktası ve aralık r işaretlenmiştir.
+Grafik 11.1
+Grafik 11.2
+55
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+Günlük Tahıl Vadeli İşlemleri
+Grafik 11.3 Grafik 11.4
+56
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+Ticareti Yönetmek
+Grafik 11.5
+Grafik 11.6
+57
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Günlük Tahıl Vadeli İşlemleri
+Kar ve zarar durdurma seviyelerinin belirlenmesi
+Aralığı belirledikten sonra, kar ve zarar durdurma seviyelerini bulmak basittir. Genellikle 
+şunları ayarlarım:
+• zararı durdur0,5r ile 1r arasında bir yerde ve
+• kar seviyesi1,5r ile 3r arasında.
+Genellikle riskin iki ila üç katı kadar kar hedefliyorum. Bu kitaptaki işlem örneklerinin stopları 
+0,5r'ye ve kar hedefleri 1,5r'ye ayarlanmıştır.
+Eşit derecede geçerli kombinasyonlar 1r : 2.5r veya 0.7r : 2r olacaktır. Farklı piyasaların farklı optimum 
+kombinasyonları olma eğilimi vardır.
+Kişilik de devreye giriyor. Daha küçük hedeflere sahip daha geniş duraklamalar (örneğin, 1r : 2r) daha sık 
+kazanır, daha düşük bir kazanma-kaybetme oranı pahasına. Büyük hedeflere sahip sıkı duraklamalar (örneğin, 
+0.5r : 4r) büyük kazançlar sağlar, ancak çok sık kazanmaz.
+Bir veya iki pazarda uzmanlaşmanın lehine güçlü bir argüman, bu pazarları yakından tanımanızdır; 
+böylece, fiyatların çıkışlardan sonra ne kadar uzağa gitme eğiliminde olduğunu ve olası düşüşlerin 
+derinliğini hissedebilirsiniz.
+• Aralıkların dışına çıkan piyasalaryüksek momentumdaha dar stoplarla işlem 
+yapılabilir.
+• Daha sessiz piyasalargenellikle çok daha dalgalı bir şekilde patlak verir ve daha geniş stoplara sahip olmak faydalıdır.
+Seçtiğiniz piyasada her iki tür faaliyetin de görüldüğü dönemler olabilir, bu nedenle zaman zaman hedef 
+seviyenizi ve zarar durdurma parametrelerinizi ayarlamanız gerekebilir, ancak bunu çok sık yapmaktan kaçının.
+Patlamalarda güçlü bir ivme gösteren bir piyasada işlem yapmayı tercih ediyorum ve bu nedenle tahıl 
+piyasalarıyla çalışmaktan keyif alıyorum. Bunlardan biri veya diğeri normalde hareket halindedir. Soya 
+fasulyesi sakinleşirse, buğday bir koşuya çıkabilir. Bazen fasulye ve buğday çok sıcak olur ve o zaman 
+mısır genellikle harika bir seçenektir.
+58
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+12
+Planın Uygulanması
+Son iki bölümde anlatılan stratejileri nasıl pratiğe dökebilirim?
+Cevap şu ki, brokerımın işlem platformuna giriş yaptıktan, grafikleri izledikten ve 
+işlemlerimi planladıktan sonra, sisteme uygun emirleri girmeliyim.
+Yatırımcılar çeşitli stratejileri uygulamak için birkaç farklı emir türü kullanırlar, ancak ben bunlardan yalnızca 
+üçünü kullanıyorum:
+• Piyasa Emri
+Mevcut en iyi fiyattan hemen yürütülür. Piyasa açık olduğu sürece yürütme 
+garantilidir ancak fiyat garanti edilmez.
+• Limit Emri
+Belirli bir fiyattan (veya daha iyisinden) gerçekleştirilir. Bir satın alma limit emri, satın 
+almaya hazır olduğum en yüksek fiyatı (geçerli piyasa fiyatının altında) belirtir; bir satış 
+limit emri, satmaya hazır olduğum minimum fiyatı (geçerli piyasa fiyatının üzerinde) 
+belirtir. Limit emirlerinde, fiyat garantilidir ancak yürütme garanti edilmez. Piyasa asla 
+limitime ulaşamayabilir ve ulaşsa bile emrim mutlaka yerine getirilmez (o fiyattaki işlem 
+sayısına bağlı olarak).
+• Durdurma Emri
+Kayıplarımı sınırlamak veya breakout işlemlerine girmek için kullanılır. Bir buy stop emri, 
+mevcut piyasanın üzerindeki bir fiyattan verilir. Fiyat stop fiyatına yükselirse, bir piyasa buy 
+emri tetiklenir. Bir sell stop emri, mevcut piyasanın altındaki bir fiyattan verilir. Eğer fiyat
+59
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Günlük Tahıl Vadeli İşlemleri
+stop fiyatına düşerse, bir piyasa satış emri tetiklenir. Stop emirlerinde ne yürütme ne 
+de fiyat garanti edilmez.
+Örnek: sipariş türleri
+Mısır vadeli işlem fiyatının 600 olduğunu varsayalım.
+• Piyasa açıksa ve ben bir pozisyona girersempazarsatın alma emri, emrim hemen 
+doldurulacaktır. Ancak, fiyatlar hızla değişebileceğinden, genellikle 599 ile 601 
+arasında veya 600'den daha uzakta herhangi bir yerde doldurulabilirim. Yürütmenin 
+garantili olduğu ancak fiyatın garantili olmadığı söylendiğinde kastedilen budur.
+• Eğer birsınırörneğin 599'da satın alma emri, emrim yalnızca 599 veya daha azına 
+doldurulabilirse tamamlanacaktır. Fiyat 599'un altına düşmezse veya emrim 599'da 
+doldurulamazsa, emir yürütülmez. Bu nedenle, fiyat garantilidir (599'dan fazla ödeme 
+yapmayacağımı biliyorum), ancak yürütme garantili değildir.
+• Bir satın alma işlemi yaparsamdurmakdiyelim ki 602'de sipariş verin, 602 veya üzeri seviyede herhangi bir 
+sözleşme el değiştirirse siparişim tetiklenecektir. 602'de (veya üzeri) bir işlem olduğunda
+algılanırsa, durdurma emri hemen bir piyasa alım emri haline gelir. Yukarıda 
+açıklandığı gibi, piyasa emirleri için doldurma fiyatı garanti edilemez. Bu 
+nedenle, 602'deki bir alım durdurma emrinin sonunda, diyelim ki, 602,5'te 
+doldurulması şaşırtıcı olmaz. Fiyat asla 602'ye yükselmezse, durdurma emri 
+tetiklenmez ve emir doldurulmaz. Bir durdurma emrinin asla tetiklenemeyeceği 
+ve tetiklenirse, işlemin gerçek fiyatının kesin olmadığı gerçeği, durdurma 
+emirlerinde ne yürütmenin ne de fiyatın garanti edilmediği söylenerek neyin 
+kastedildiğini gösterir.
+Kayma
+Kayma, piyasada elde etmeyi umduğum fiyat ile gerçekte elde ettiğim fiyat arasındaki 
+farktır. Benim ticaret türümde, stop emirleriyle karşılaşılan bir sorundur.
+Mükemmel bir dünyada, hiçbir kayma olmazdı. Pratikte, neredeyse her zaman biraz kayma olur ve 
+günlük tüccar için önemli bir masraftır. Diyelim ki fiyat şu anda 600'de ve 602 sente ulaşırsa uzun 
+pozisyon almak istiyorum.
+60
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+Planın Uygulanması
+602 seviyesinden bir buy stop emri giriyorum. Yukarıda açıklandığı gibi, özellikle hızlı piyasa koşullarında emir daha 
+yüksek bir değerden, örneğin 602,5 seviyesinden doldurulabilir.
+Bu, 0,50 sentlik (sözleşme başına 25 dolar) bir kaymayı temsil ediyor. Elde ettiğim herhangi bir kâr, 
+beklenenden 25 dolar daha az olacak. Oluşan herhangi bir kayıp, tahmin ettiğimden 25 dolar daha fazla olacak. 
+0,25 sentlik bir kayma bile (12,50 dolar), işlem için ödediğim komisyonun iki katından fazla bir masrafı temsil 
+ediyor.
+Bir ticaretin başlatılması
+Tüm işlemlerim, bir direnç seviyesi aşıldığında (uzun) veya bir destek seviyesi aşıldığında 
+(kısa) başlatılır.
+Bu, uzun vadeli bir işlem için direnç seviyesinin bir pip üzerine bir alım durdurma emri girerek veya kısa vadeli bir işlem 
+için destek seviyesinin bir pip altına bir durdurma satış emri girerek kolayca gerçekleştirilir.
+Direnç veya destek seviyeleri aşılırsa, stop emirleri tetiklenir. Ancak fiyat 
+seviyeleri aşamazsa, emirler asla etkinleştirilmez ve iptal edilebilir.
+Uzun vadeli bir ticaretin yönetimi
+Bir buy stop emri tetiklendiğini ve uzun bir işlemde olduğumu varsayalım. Örneğin, 600'de uzun 
+mısırım var. Grafiklerden r'yi hesapladım ve stop loss seviyemin 598 olduğunu ve hedefimin 604'te 
+kar elde etmek olduğunu buldum.
+Zarar durdurma emrini uygulamak için birsat dur598'de sipariş verin. Kar alma emrimi uygulamak 
+için birsatış limiti604'te sipariş verin.
+Muhtemelen, bu emirlerin hiçbiri işlem seansı sırasında gerçekleştirilmeyecektir. Fiyat 
+598 ile 604 aralığında kalabilir. Ancak, ne olursa olsun, seansın kapanışında işlemden 
+çıkmak istiyorum, çünkü ben bir günlük yatırımcıyım.
+Bu gereklilik, birsatış piyasasıGood After Time (GAT) tesisini kullanarak sipariş. Bu 
+özellik, siparişin gönderileceği saati belirtmemi sağlar. Tahıl seansları ABD Merkez 
+Saati ile 13:15'te kapandığından, siparişi kapanıştan bir dakika önce 13:14'te veya 
+hatta kapanıştan otuz saniye önce 13:14:30'da göndermeyi seçebilirim.
+Eğer yaptığım tek şey bu olsaydı, oturup ticareti izlemem gerekirdi. Aksi takdirde, beklenmeyen 
+sonuçlar ortaya çıkabilirdi. Örneğin, ticaretim başarılıysa ve satış limit emri yürütülüyorsa
+61
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+Günlük Tahıl Vadeli İşlemleri
+pozisyonumu kapatmayı amaçladığım gibi. Sorun şu ki, durdurma emri hala piyasada 
+duruyor. Fiyat daha sonra geri düşerse ve satış durdurma kaybı emrini tetiklerse, kendimi 
+istenmeyen bir kısa pozisyonda bulurum.
+Bir Kişi Her Şeyi İptal Eder (OCA)
+Bu sorun, üç emrin One Cancels All (OCA) grubunda ayarlanmasıyla önlenir. Tüm 
+brokerlar bu olanağı sağlamaz, ancak günlük tüccar için bir nimettir. İşlemleriniz şu 
+şekilde ayarlanır:
+OCA Grubu:
+1. Satış Durdurma 598
+2. Satış Limiti 604
+3. Satış Pazarı GAT 13:14
+Bu emirlerden herhangi biri yürütülür yürütülmez, diğer ikisi otomatik olarak iptal edilir. Çıkış 
+stratejimi otomatikleştirmeme ve işlemim çalıştığında ekrandan ayrılmama olanak tanıyan 
+bu harika olanaktır!
+Kısa vadeli bir ticaretin yönetimi
+Kısa vadeli işlem, uzun vadeli işlemin sadece bir ayna görüntüsüdür. Örneğin, 600'de mısır açığa 
+satıyorum. Grafiklerden r'yi hesapladım ve zarar durdurma seviyemin 602 olduğunu ve hedefimin 596'da 
+kar elde etmek olduğunu buldum.
+Yapmam gereken tek şey aşağıdaki OCA Grubunu kurmak:
+OCA Grubu:
+1. Stop 602'yi satın al
+2. Satın Alma Limiti 596
+3. Market GAT 13:14'ü satın alın
+Kolay!
+62
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+13
+Benim Ticaret Hesaplayıcım
+Bir işlem seansı başladığında, aksiyon hızlı ve şiddetli oluyor ve ayıracak fazla zamanım 
+olmuyor. Aralıkları yazmak, stop ve hedef seviyelerini elle hesaplamak veya kaç 
+sözleşme alabileceğimi elle hesaplamak durumunda kalmak istemiyorum.
+63
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+Günlük Tahıl Vadeli İşlemleri
+Şekil 13.1
+Şekil 13.1, bu işi yapmak için kullandığım bir elektronik tablo hesap makinesinin ekran görüntüsüdür.
+Kurulum, işlem seansı açılmadan yaklaşık on dakika önce başlar. Bu sırada, elektronik tablonun alt 
+yarısındaki tüm bilgilerin güncel ve doğru olduğundan emin olurum, aşağıdaki gibi.
+64
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+Benim Ticaret Hesaplayıcım
+Fiyat, değişim
+İşlem yaptığım sözleşme için fiyat teklifine erişiyorum. Bu teklif, geçerli fiyatı ve önceki günün 
+kapanışından bu yana değişimi gösteriyor. Bu sayıların her biriniFiyatVe Değiştirmek
+elektronik tablodaki satırlar.
+Sınır
+Borsanın web sitesini ziyaret ediyorum
+(www.cmegroup.com/trading/Price-Limit-Update.html ) işlem yaptığım ürün için günlük limiti 
+kontrol etmek için. Bunu günlük olarak kontrol ediyorum çünkü limitler oynak dönemlerde 
+otomatik olarak genişleyebilir ve daralabilir. Doğru değer girildiSınırsatır. Daha sonra elektronik 
+tablo doğru değerleri hesaplar ve görüntüler.Üst Sınır,Önceki KapatVeAlt Sınır(Limitler hakkında 
+daha fazla bilgi için 67-70. sayfalara bakın.)
+Başkent
+Hesap bilgilerimi görüntülüyorum ve işlem sermayemin güncel değerini hesaba yatırıyorum.Başkent 
+satır. Avustralya dolarını temel para birimim olarak belirlediğimden, bu rakam AUD cinsindendir. Bir 
+sonraki satırda (Oran) Avustralya dolarından ABD dolarına güncel döviz kurunu koydum. (Eğer sadece 
+USD üzerinden işlem yapsaydım, döviz kuru 1.000 olarak ayarlanırdı.)
+Marj
+Şimdi brokerımın web sitesini ziyaret ediyorum
+(http://individuals.interactivebrokers.com/en/trading/marginRequirements/margin.
+php?p=f&ib_entity=llc ) ve emin olun kiMarjticaretini yaptığım ürün için 
+değiştirilmedi. Doğru rakam girildiMarjastar.
+Dur, kar hedefi
+Kontrol ediyorumDurdurma FaktörüVeKar FaktörüBu değerlerin istediğim gibi olduğundan emin olmak 
+için satırlar. Bunlar zaten doğru şekilde ayarlanmış olmalı çünkü 11. Bölüm'de açıklandığı gibi, bunlar 
+yalnızca nadiren değiştirilmelidir. Bu faktörlerin, durdurma seviyesini ve kar hedef seviyesini hesaplamak 
+için aralık r ile birlikte kullanıldığını hatırlayın.
+65
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+Günlük Tahıl Vadeli İşlemleri
+Sabit risk
+Son olarak, kontrol ediyorumSabit Riskistediğim şey bu. Tekrar ediyorum, bu değer nadiren değişir. 
+Bunun, herhangi bir işlemde riske atmaya hazır olduğum hesabımın en büyük yüzdesi olduğunu 
+hatırlayın (Bölüm 5'e bakın) ve işlem yapılacak sözleşme sayısını hesaplamak için kullanılır.
+Bunlar pilotların uçuş öncesi yaptığı kontrollere benzer. Her satırı dikkatlice kontrol ederim; hatta 
+önceki işlem seansının sonunda elektronik tabloyu kaydettiğimden beri hiçbir değişiklik 
+olmayacağından emin olsam bile.
+Sadece birkaç dakika sürüyor ama günümü şekillendirecek ilk yapıyı sağlıyor.
+Diğer parametreler
+Hesap makinesinin her pazara göre ayarlanabilmesini sağlamak için ayarlanabilecek başka değerler de var, 
+ancak bunları gözden uzak bir yere koydum çünkü bunlar her gün kontrol ettiğim değerler değil.
+Miktar için varsayılan bir değer vardırkayma((pip cinsinden) bir durdurma emri tetiklendiğinde varsayılacak değer. 
+Genellikle bunu 1 olarak ayarlarım, ancak buğday ticareti yaparken bunu 2 olarak ayarlamak daha iyidir.
+Kabul edilebilir bir varsayılan minimum vardırÖdül/Risk oranı. Bunu normalde 1,75 olarak 
+ayarlıyorum. Bu, hedef kârım hedef riskin en az 1,75 katı değilse, Sözleşmeler satırında "İşlem Yok" 
+mesajını aldığım anlamına geliyor.
+Ayrıca değerler de varPip Boyutu,$pip başına, Ve$puan başına. Bu değerler varsayılan olarak 0,25, 
+12,50$ ve 50$ olarak ayarlanmıştır, soya fasulyesi, buğday ve mısır vadeli işlem piyasaları için doğrudur 
+ve aynı zamanda popüler S&P 500 E-mini vadeli işlem sözleşmesi için de doğrudur. Bu hesap makinesini 
+başka bir piyasada işlem yapmak için kullanmak isterseniz, bu değerlerin doğru değerlere sıfırlanması 
+yeterlidir.
+Aralık r güncelleniyor
+İşlem seansı açıldığında, elektronik tablonun üst kısmındaki siyah arka planlı alandaki iki 
+değeri sürekli olarak güncellerim. Bu değerler, Bölüm 11'de ele alınan aralık r'nin üst ve 
+alt seviyeleridir ve grafik oluşmaya başladığında birkaç kez değiştirilmesi gerekebilir.
+66
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+Benim Ticaret Hesaplayıcım
+Aralık değerleri girildiğinde, hesap makinesinin iki merkezi alanı uzun veya kısa 
+işlem yapmam için gereken tüm bilgileri sağlar. Bana şunlar sağlanır:
+• sayısiparişe göre sözleşmeler,
+• girişsiparişin verileceği nokta,
+• hedefkar alma limit emrinin nerede verileceği,
+• durmakzarar durdurma emrinin verildiği yer,
+• hedef karvehedef riskHer ikisi de dolar cinsinden ifade edilmiştir.
+Bütün bu değerler bu kitapta belirtilen esaslara göre hesaplanmıştır.
+Paha biçilmez bir araç
+Bu araç, işlem planımı düzgün bir şekilde uygulamak için gereken tüm bilgileri hızlı bir 
+şekilde belirlememi sağlıyor. (Hesap makinesi, seans başlamadan önce doğru şekilde 
+ayarlandığı takdirde, seans limitlerini ihlal edecek tüm emirleri otomatik olarak engeller.)
+Hızlı hareket eden piyasalarda işlem yapacaksanız, bunun gibi bir araca ihtiyacınız var. 
+İnanın bana, adrenalin pompalayan bir seansın ortasındayken bu hesaplamaları kalem 
+ve kağıtla yapmaya çalışmak işe yaramıyor ve hataların sonuçları çok pahalı olabilir.
+Eğer elektronik tablolarla aranız iyiyse, kendi versiyonunuzu bir araya getirmek basit 
+bir iştir. Aksi takdirde, benimkini makul bir ücret karşılığında indirebilirsiniz (
+www.tradingcalculator.com.au ).
+Oturum sınırları hakkında daha fazla yorum
+İşlem yaptığım piyasalar için günlük limitleri bilmeye verdiğim vurgu sizi biraz şaşırtabilir. 
+Limit kavramını, sözleşmeyi açıkladığım 6. Bölüm'de açıkladım, ancak neden bu kadar önemli 
+olduklarını görebilmeniz için bunu daha ayrıntılı olarak ele almama izin verin.
+Tahıl vadeli işlem sözleşmelerinin fiyatının herhangi bir günde yalnızca belirli bir miktar hareket 
+etmesine izin verilir. Fiyat bu miktarda yukarı veya aşağı hareket ederse piyasa kilitlenir. Fiyat diğer 
+yöne geri hareket edene veya ertesi gün ticaret açılana kadar kilitli kalır.
+67
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+Günlük Tahıl Vadeli İşlemleri
+Tahıllar için mevcut limitler aşağıdaki tabloda verilmiştir.
+Tablo 13.1: Tahıl sözleşmelerinde limit hareketleri
+Tahıl Sınır (c)
+Mısır 30
+Buğday 60
+Soya fasulyesi 70
+Dolayısıyla dün 600 seviyesinden kapanan mısırın bugün 630 seviyesinin üstünde, 570 seviyesinin altında işlem 
+görmesine izin verilmeyecek.
+Genişleyen sınırlar
+Ayrıca, yakın zamanda tanıtılan kurallar uyarınca, limit bir limit hareketinin ardından genişler. 
+Örneğin, mısır bugünün seansını 570'te tamamlarsa (yani, limit düşerse), yarının limitleri 45 sente 
+genişletilir. Sözleşmenin yarın 615 ile 525 arasında işlem görmesine izin verilir. Piyasanın yarın 
+toparlanacağını ve gün limitini 615'te kapatacağını varsayalım. Limitler ikinci kez 70 sente 
+genişletilir. Piyasanın ertesi gün 685 ile 545 arasında işlem görmesine izin verilir. Daha fazla limit 
+hareketi olmasına bakılmaksızın, limitlerin daha fazla genişletilmesine izin verilmez.
+Limit hareketinin olmadığı bir gün olduğunda ise limitler bir önceki seviyeye, 
+70'ten 45'e, 45'ten de 30'a düşer.
+Buğday için sınırlar 60, 90 ve 135'tir. Soya fasulyesi için ise 70, 105 ve 160'tır. Yukarıda 
+belirtildiği gibi, bu bilgiler CME Group web sitesinde yayınlanmaktadır (
+www.cmegroup.com/trading/Price-Limit-Update.html ). BENHer zamanKontrol et.
+Genişletilmiş limitlerin sebebi, normal limitlerin piyasanın verimsiz çalışmasına neden 
+olabileceği yüksek oynaklık dönemlerini ele almaktır. Çoğu zaman, piyasalar aylarca 
+standart limitler dahilinde işlem görür. Sonra bir oynaklık dönemi gelir ve limitler 
+haftalarca, hatta aylarca düzenli olarak aşılabilir.
+68
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+Benim Ticaret Hesaplayıcım
+Bu sınırları bilmenin önemi
+Tüccarın, doldurulamayan emirler vermekten kaçınmak için günlük limitleri bilmesi gerekir. 
+Örneğin, uzun pozisyon açabilir ve r kullanarak yaptığım hesaplamaya dayanarak, 630 limitinden 
+habersiz, 632'den satmak için kar alma limit emri girebilirim. Limit emrimin yürütülmesi imkansız 
+olurdu!
+İşlem hesaplayıcısı asla günlük limitlerin dışında bir emir önermez.
+Ayrıca, stop bir limite yakın olduğunda pozisyon almaktan da kaçının. Örneğin, mısır fiyatının 630'da limit yukarı açtığını 
+ve sonra aşağı doğru hareket etmeye başladığını varsayalım. Diyelim ki 625'te kısa pozisyon açmam için bir sinyal aldım 
+ve stop loss'un 629,5'te ayarlanması gerektiğini hesapladım.
+Bu ticareti yaparsam kendimi büyük tehlikeye atmış olurum!
+İşlem bana karşı giderse, 629,5 seviyesinde bir işlem gerçekleştiğinde stop loss'um tetiklenecek, ancak 
+piyasa hızlı hareket ediyorsa, pozisyondan çıkış için verilen satın alma emri, piyasa 630 seviyesinde 
+kilitlenmeden önce gerçekleştirilemeyebilir.
+Piyasa seansın geri kalanında kilitli kalırsa, pozisyondan çıkamam ve piyasanın ertesi gün (ya 
+da az işlem gören mesai sonrası seansında) nerede açılacağını merak ederek uykusuz bir 
+gece geçiririm. Bir sonraki seansın açılışında çıkabilirim, ancak piyasanın dramatik bir şekilde 
+yukarı doğru açılıp, diyelim ki 645'te açılması ve böylece beklenenden 15 sent (sözleşme 
+başına 750 $) daha fazla kaybetmem oldukça olası.
+Kabus senaryosu, piyasanın birkaç seans boyunca kilitli kalmasıdır. Yani, bir sonraki 
+seans limitini 675'te açar ve ben asla çıkış şansı elde edemem. Sonra bir sonraki seans 
+limitini 745'te açar ve ben yine de çıkış yapamam! Kabul ediyorum, bu alışılmadık bir 
+durum ama oluyor, bu yüzden riske atmayın!
+Limitlerin nerede olduğunu bilin ve bu limitlerin yakınına durak koymayın.
+Eğer bir gün bu kabus senaryosuna düşerseniz, opsiyon piyasası kilitlenmediği için çağrı 
+opsiyonları satın alarak kendinizi bir dereceye kadar koruyabilirsiniz, ancak bu yine de pahalı 
+bir teklif olacaktır.
+İşlem hesaplayıcısı, günün üst ve alt limitlerini belirgin bir şekilde gösterir.
+69
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+14
+İşlem Ekranım
+Şekil 14.1, işlem ekranımı nasıl kurduğumu gösteriyor. Temel özellikler arka sayfada açıklanmıştır.
+Şekil 14.1
+71
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+Günlük Tahıl Vadeli İşlemleri
+Mum grafikleri
+Ekranın ortasındaki büyük pencere, işlem yaptığım piyasanın iki dakikalık mum 
+grafiğini gösteriyor.
+Bu tamamen özelleştirilebilir, bu nedenle renk şeması ve genel düzen kişisel tercihlerimi 
+karşılayacak şekilde ayarlanabilir. Doğal olarak grafiği hacim, milyonlarca gösterge, Fibonacci 
+geri çekilmeleri ve başka ne varsa gösterecek şekilde özelleştirebilirim, ancak bunların 
+hiçbiriyle uğraşmıyorum.
+Tek istediğim iki dakikalık mum çubuklarını gösteren basit, düzenli bir ekran. Ölçek gerçekten net 
+olsun diye olabildiğince büyük yapıyorum. Ayrıca artı işareti işlevini de aktif hale getirdim, böylece 
+imleci bir mumun üzerine koyduğumda mumun yüksek, düşük, açık ve kapalı durumunu ayrı bir 
+küçük pencerede görebiliyorum.
+Gerçek zamanlı boyama
+Grafikler hakkındaki en önemli şey, gerçek zamanlı olarak güncellenmeleridir. Elbette, 
+grafiğin bir resmi onu statik bir şey gibi gösterir, ancak öyle değildir. Her saniye veya daha 
+kısa bir sürede, mevcut mum güncellenir. Bir an kısa mavi bir mum olabilir, bir sonraki an 
+fiyat hızla dalgalandıkça daha uzun kırmızı bir mum haline gelebilir. Sadece iki dakikalık 
+sürenin sonunda mumun son şekli yerleşir ve yeni bir mumun boyanmaya başladığını 
+görebilirsiniz.
+Bu hızlı, sorunsuz gerçek zamanlı güncellemenin sizin için çalışmasının faydalarını yeterince 
+vurgulayamam. Piyasa dinamikleri hakkında gerçek bir fikir edinmenizi sağlar. Bazı grafik paketleri 
+yalnızca iki dakikalık periyodun sonunda iki dakikalık grafikleri günceller; bununla çalışabilirim, 
+ancak bu kadar bilgilendirici değil. Diğer paketler hiç gerçek zamanlı değildir ve grafik 
+güncellenmeden önce uzun bir gecikme olur.
+Ben bununla çalışamam!
+Aslında bu çok tehlikeli olurdu.
+İyi grafik yazılımının birçok kaynağı vardır. Interactive Brokers'ın standart ticaret 
+platformunun (Trader Work Station – TWS) bir parçası olan mükemmel grafik 
+olanaklarını kullanıyorum.
+72
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 76 ===
+İşlem Ekranım
+Basit sipariş girişi
+Şekil 14.1'deki ekranımın solundaki pencere Book Trader penceresidir. Gördüğünüz gibi, tüm fiyat 
+seviyelerini gösterir ve oturum açıkken gerçek zamanlı olarak çok hızlı bir şekilde güncellenir, 
+böylece her zaman güncel işlem fiyatını görebilirim.
+Ayrıca en yakın dört fiyat seviyesinde bulunan limit emirlerinin sayısını da görebiliyorum, ancak piyasa o 
+kadar hızlı hareket ediyor ki bu bilgiyi kullanmanın faydalı bir yolunu hiç bulamadım.
+Bu pencereyi kullanmamın temel amacı emirleri hızlı bir şekilde girmektir. Teklif sütununa tek bir 
+sol tıklama bir Satın Alma Limit emri girer, Teklif sütununa sol tıklama bir Satış Limit emri girer. 
+Sağ tıklamalar Limit emirleri yerine Dur emri girer. Mevcut bir emre tıklamak onu hemen iptal 
+eder. (Pencerenin üst kısmındaki açılır menü her emirde kullanılan varsayılan sözleşme sayısını 
+hızlı bir şekilde seçmemi sağlar.)
+Gösterilen Book Trader penceresi Interactive Brokers'ın TWS işlem platformuna 
+özeldir. Farklı bir broker kullanıyorsanız, benzer bir işlevin olduğundan emin olun, 
+çünkü tek tıklamayla emir girişi ve iptali, tahıl piyasalarında günlük işlem yapmak için 
+olmazsa olmaz bir olanaktır.
+Ticaret hesaplayıcısı
+İşlem ekranımın sağındaki dar pencere, 13. Bölümde ayrıntılı olarak açıklanan elektronik 
+tablo olan işlem hesap makinesidir.
+TWS Ticaret Penceresi
+İşlem ekranımın sağ üst kısmında temel TWS işlem penceresinin sadece küçük bir kısmını 
+görebilirsiniz. Orada olması kullanışlıdır, çünkü o alana bir kez tıklamak tam pencereyi 
+ekranın en üstünde öne getirir. Grafiğe geri tıklamak onu tekrar gizler.
+Bu pencereyi yalnızca bir OCA grubuna girdiğimde kullanırım. Bunu Bölüm 15'te 
+açıklanan vaka çalışmasında gösteriyorum.
+Bir diğer kullanışlı özellik ise TWS işlem penceresinin her zaman görünür olan küçük kısmında 
+gösterilen saattir. Bu saat gerçek zamanlı olarak güncellenir ve bu nedenle bilgisayarınızdaki 
+sistem saatinden daha güvenilirdir.
+73
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 77 ===
+15
+Bir Vaka Çalışması
+Bu konuda yazmak güzel, ama pratikte nasıl görünüyor?
+Size gerçek şeyin bir tadını vermek için, işlem yaparken bir dizi ekran görüntüsü aldım. Bunu yapmayı 
+sevmem çünkü herhangi bir dikkat dağıtıcı şey kötü bir şeydir, ancak umarım faydalı bulursunuz. Sadece 
+soya fasulyesine odaklanmaya karar verdim. Normalde, bu kararı açılışı gözlemleyip hangi tahıl pazarını 
+tercih ettiğimi görene kadar erteliyorum, ancak bunu yapamam Veekran görüntüsü alacağım, bu yüzden 
+fasulyelere sadık kalacağım.
+75
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 78 ===
+Günlük Tahıl Vadeli İşlemleri
+Aşağıdaki çizim 00:22:56'daki işlem ekranımı gösteriyor.
+(Bu bölümde belirtilen tüm saatler Queensland saatine göre verilmiştir. Piyasa 
+00:30:00'da açılır ve 04:15:00'te kapanır. Saat biçimi ss:dd:ss'dir.)
+Şekil 15.1
+Kurulum – elektronik tablo
+Ekran görüntüsünün sağ tarafındaki işlem hesaplayıcımın hemen üstündeki zamanı görebilirsiniz. 
+İşlem hesaplayıcısının alt kısmındaki tüm değerlerin doğru olduğunu kontrol ettim. Zamanı nasıl 
+elde edebildiğime dikkat edinFiyatVeDeğiştirmekGrafik penceresinin en üst satırındaki değerler. 
+Tüm örneklerimde yaptığım gibi, zarar durdurma seviyesini 0,5'e ve kar seviyesini 1,5'e ayarladım.
+Bu aşamada, görüntülenen grafik dünkü birincil seanstır. Yaklaşık yedi dakika içinde grafik 
+otomatik olarak sıfırlanacak ve bugünün seansını izlemeye başlayacaktır. Gitmeye hazırım.
+76
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 79 ===
+Bir Vaka Çalışması
+Bir sonraki kare 00:32:09'da çekiliyor.
+Şekil 15.2
+Listelere temiz bir sayfayla başlamakla ilgili ne demek istediğimi anlıyor musun?
+Şimdiye kadar sadece bir tamamlanmış mum var ve ikincisi yeni oluşmaya başlıyor. 
+Teknik olarak, ilk mumun en üst ve en alt değerlerini işlem hesaplayıcımın en üstteki iki 
+kutusuna koydum çünkü şu anda açılış aralığı r'yi temsil ediyorlar. İlk mavi mumdan, 
+başlangıç   trendimi yukarı olarak alıyorum.
+77
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 80 ===
+Günlük Tahıl Vadeli İşlemleri
+Bir sonraki kare 00:34:37'de çekiliyor.
+Şekil 15.3
+Fiyat istikrarlı bir şekilde yukarı doğru hareket ediyor. İki mum tamamen oluştu ve 
+üçüncüsü gelişiyor. İşlem hesaplayıcımdaki mevcut açılış aralığının alt ucunu temsil 
+eden 2. kutu hala 1240,5'te ve teknik olarak, yeni zirveler oluştukça üst kutuya yeni 
+değerler giriyorum. Girdiğim son değer 1249'du, ancak grafikten 1250'ye yeni 
+dokunulduğunu görebiliyorum.
+78
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 81 ===
+Bir Vaka Çalışması
+Bir sonraki kare 00:36:01'de çekiliyor.
+Şekil 15.4
+İlk üç çubuk artık tamamen oluşmuş durumda. Hesap makinesiyle biraz geciktim çünkü 
+hala üst kutuya yeni yüksekliği koymadım.
+79
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 82 ===
+Günlük Tahıl Vadeli İşlemleri
+Bir sonraki kare 00:36:25'te çekiliyor.
+Şekil 15.5
+Dördüncü mum tekrar yukarı doğru hareket ediyor. Hesap makinesini güncelledim, ancak son birkaç 
+saniyede yeni bir zirve daha geldiği için tekrar yapmam gerekecek.
+00:37:13'te çekilen bir sonraki çekim, bu son mumun geliştiğini gösteriyor. Hesap makinesinde aralığın 
+en üst noktasını takip etmeye devam ediyorum.
+80
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 83 ===
+Bir Vaka Çalışması
+Şekil 15.6
+Bir sonraki kare 00:39:11'de çekiliyor.
+Şekil 15.7
+81
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 84 ===
+Günlük Tahıl Vadeli İşlemleri
+Piyasa yükseliyor
+Beşinci mum da güçlü bir yukarı hareket. Yaklaşık on dakikadır gidiyoruz ve piyasa güçlü bir 
+şekilde yükseliyor. Henüz bir geri çekilme belirtisi yok.
+Sırasıyla 00:40:54 ve 00:41:56'da çekilen sonraki iki çekim, ilk geri çekilme mumu olan 
+altıncı mumun oluşumunu gösteriyor çünkü yüksekliği bir önceki mumun 
+yüksekliğinden daha düşük.
+Şekil 15.8
+Kolaylık olması açısından, size bir şeyin tanımının ne olduğunu hatırlatayım:geri çekilmeYükselen bir pazarda:
+Piyasa A noktasında (direnç seviyesi) yeni bir seans zirvesi oluşturduktan sonra, geri çekilmeyi, en az 2 ardışık takip 
+eden çubuğun A noktasından daha düşük zirvelere sahip olması durumunda meydana gelen bir geri çekilme olarak 
+tanımlıyorum.
+82
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 85 ===
+Bir Vaka Çalışması
+Yani, bu durumda direnç seviyesi 5 numaralı mumun tepesinde (1257.25) belirlendi. Bir geri çekilme 
+mumum var, ancak ikinci bir mum elde edene kadar bunu geçerli bir geri çekilme olarak 
+sınıflandıramam. Hesap makinesinin aralığın tepesiyle güncellendiğine dikkat edin.
+Şekil 15.9
+83
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 86 ===
+Günlük Tahıl Vadeli İşlemleri
+Sırasıyla 00:43:49 ve 00:44:14'te çekilen sonraki iki kare ise yedinci mumun oluşumunu 
+gösteriyor.
+Şekil 15.10
+Şekil 15.11
+84
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 87 ===
+Bir Vaka Çalışması
+Geri çekilme
+En yüksek noktası direnç seviyesinden (1257.25) de aşağıda olduğundan, bu bir geri 
+çekilmenin teyididir ve şimdi fiyat yukarı döner ve direnci aşarsa uzun pozisyon 
+açacağım.
+Son ekran görüntüsünde, işlem hesaplayıcısındaki ikinci kutuyu geri çekilme aralığının alt noktası 
+olan 1247,5'i gösterecek şekilde nasıl güncellediğime dikkat edin. İşte 11. Bölüm'de belirttiğim 
+aralık tanımı.
+Uzun vadeli bir işlem için, hemen önceki mumdan daha düşük bir dip ve daha düşük bir tepe noktasına 
+sahip olan son mumun dip noktasını bulmak için geriye bakarım.
+Yedinci mumun, altıncı mumdan daha düşük bir dip ve daha düşük bir tepe noktası vardır. Fiyat 
+buradan A Noktası'na doğru yukarı doğru hareket ederse, 7 numaralı mumun tabanı bu tanıma 
+göre kullanacağım sayıdır.
+Uzun vadeli bir ticaret için tetikteyiz
+Şimdi uzun vadeli bir işlem için teyakkuzdayım.
+Bu noktada uzun bir emir girebilirdim. Hesap makinemden okuduğumda, emrin 1257,50'de 
+üç kontrat uzun pozisyon açmak olduğunu görebiliyorum. Fiyat bu noktadan biraz uzakta 
+olduğu için henüz emri girmedim.
+85
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 88 ===
+Günlük Tahıl Vadeli İşlemleri
+Bir sonraki kare 00:52:12'de çekiliyor.
+Şekil 15.12
+Tamam, şimdi daha güçlü bir geri çekilmemiz var. Trend hala yukarı, ancak hesap makinesinden (şimdi 
+1242,5'lik yeni geri çekilme düşüklüğüyle güncellendi) direnç seviyesinin üzerinde uzun pozisyon 
+açarsam yalnızca iki sözleşme alacağımı görebiliyorum.
+86
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 89 ===
+Bir Vaka Çalışması
+Bir sonraki kare 00:58:03'te çekiliyor.
+Şekil 15.13
+Her şey değişti!
+Az önce on dört tam çubuğu tamamladık ve bir sonrakine başlıyoruz. Ancak, 12 numaralı mum 
+1240,50'deki destek seviyesini aşarak geri düştü. Daha önceki bir bölümde açıklandığı gibi, bu, hakim 
+trende ilişkin görüşümü yukarıdan aşağıya değiştirdiğim ve yeni düşük seviyeden geri çekilme 
+beklediğim anlamına geliyor.
+Öyle görünüyor ki, 13 numaralı mum bir geri çekilme mumudur ve geri çekilme, yeni destek seviyesinden (1237) daha yüksek bir 
+dip seviyeye sahip olan 14 numaralı mum tarafından doğrulanmaktadır.
+Hesap makinesi artık kısa işlem aralığını gösterecek şekilde ayarlandı. 1237 düşük seviye. 1246,75 geri 
+çekilme zirvesi. Hesap makinesinden, 1236,75'te kısa pozisyon açmak için üç sözleşme emri 
+girebileceğimi görebiliyorum.
+87
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 90 ===
+Günlük Tahıl Vadeli İşlemleri
+Bir sonraki kare ise bir önceki kareden birkaç saniye sonra, 00:58:26'da çekilmiş.
+Şekil 15.14
+Soldaki Book Trader penceresine dikkat edin. Tek bir tıklamayla, 1236.75'te stop giriş 
+emrini girdim.
+88
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 91 ===
+Bir Vaka Çalışması
+Bir sonraki atış, işlem seansının ilk otuz dakikası geçtikten sonra, saat 01:00:07'de 
+yapılır.
+Şekil 15.15
+Çok uzun süre işlem yapmak istemiyorsam, bu noktaya geldiğimde işlem yapmadan 
+kapatıyorum. Ama bu gece kalacağım.
+Geri çekilme daha da yukarı doğru uzadı. Hesap makinesini ayarladım ama emri 
+değiştirmeme gerek yok çünkü hala aynı giriş noktasında üç sözleşme gösteriyor.
+89
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 92 ===
+Günlük Tahıl Vadeli İşlemleri
+Bir sonraki kare 01:04:53'te çekiliyor.
+Şekil 15.16
+Trend aşağı yönlü kalmaya devam ediyor
+Şimdi geri çekilme gerçekten yukarı doğru uzandı. Ancak, üst direnç seviyesi aşılmadı, bu 
+yüzden trend aşağı yönlü kalmaya devam ediyor. Geri çekilme aralığının yeni tepesini 
+(1250,75) hesap makinesine koyduğumda artık sadece iki sözleşme girebileceğim görülüyor. 
+Book Trader emrini üçten iki sözleşmeye değiştirdiğimi fark edin.
+Diğer tahıllardaki eylemi kontrol etmek
+01:05:34'te alınan bir sonraki ekran görüntüsü ilginç bir sapma. iMac'in tek bir tuş 
+vuruşuyla açık olan tüm pencereleri görebildiğim güzel bir özelliği var. Fasulye 
+grafiğinin yanı sıra buğday ve mısır grafikleri de açık, ancak normalde fasulye grafiğinin 
+arkasında gizliler. Seçenek tuşuna bastığımda tüm pencereler şu şekilde görünür hale 
+geliyor:
+90
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 93 ===
+Bir Vaka Çalışması
+Şekil 15.17
+Bu olanağı, tahıl piyasalarında bir bütün olarak neler olup bittiğine dair genel bir bakış sağlamak için çok yararlı 
+buluyorum. Genellikle, bu görünümü kullanarak açılış eylemini karşılaştırabilene kadar hangi piyasada işlem 
+yapacağıma karar vermeyi erteliyorum.
+Ticaret yapmayı öğrettiğim gelinim, buğday kontratında uzun pozisyon aldığını 
+söylemek için bana mesaj attı. Tek bir tuş vuruşuyla üç ana tahıl kontratının 
+grafiklerini görüntüledim. Soldaki grafik mısır, ortada buğday ve sağdaki fasulye 
+grafiğimiz.
+Buğday, trendi yukarı doğru değiştirmek için geri hareket edip direnci delmeden önce 
+seansa aşağı doğru bir eğilimle başladı. Daha sonra yeni kurulan direnç seviyesinden 
+geri çekildi, sonra tekrar yukarı hareket edip onu kırarak uzun vadeli ticareti başlattı. 
+Normal bir günde, bu üç kontratı sürekli olarak izlerdim ve genellikle ilk çıkanı aldığım 
+için, ekran görüntüleri almamış olsaydım muhtemelen ben de bu ticarette olurdum. 
+Neyse! Gelinime bol şans diliyorum ve fasulyeye geri dönüyorum...
+Aşağıdaki üç ekran görüntüsü fiyatın tekrar aşağıya doğru sürüklendiğini gösteriyor, ancak 
+kesinlikle 1236,75'te stop giriş emrimi tetiklemeye çok yaklaşmıyor.
+91
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 94 ===
+Günlük Tahıl Vadeli İşlemleri
+Şekil 15.18
+Şekil 15.19
+92
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 95 ===
+Bir Vaka Çalışması
+Şekil 15.20
+Bakalım 01:15:27'de gelinim nasılmış.
+Şekil 15.21
+93
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 96 ===
+Günlük Tahıl Vadeli İşlemleri
+Jüri hala onun ticareti konusunda çok kararsız. Price, giriş noktasına yakın yeni bir ticaret aralığında 
+dolaşıyor. Onun için parmaklarımı çaprazlıyorum.
+Bir sonraki kare 01:16:30'da çekiliyor.
+Şekil 15.22
+Bizim için hala pek bir şey olmuyor.
+Fiyat aralığımızın ortasında dolaşıyor ve yakın zamanda bir çıkış belirtisi göstermiyor. Sadece 
+dalgalı, trend olmayan günlerden biri gibi görünüyor, ancak görünüşler yanıltıcı olabilir, bu 
+yüzden sisteme bağlı kalmak en iyisidir.
+Sonraki iki ekran görüntüsünde fiyatın biraz yukarı doğru kaydığını görüyoruz.
+94
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 97 ===
+Bir Vaka Çalışması
+Şekil 15.23
+Şekil 15.24
+95
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 98 ===
+Günlük Tahıl Vadeli İşlemleri
+Burada dikkat edilmesi gereken nokta, önceki mumdan daha yüksek bir yüksek ve daha yüksek bir düşük 
+seviyeye sahip yeni bir geri çekilme mumu elde etmemizdir, bu yüzden aralığın tepesini 1251'e ayarlıyorum. Bu, 
+iki sözleşme için aynı kalan emri değiştirmiyor (hesap makinesindeki okumaya bakın).
+Gelinimin nasıl olduğuna bir bakalım.
+Şekil 15.25
+Henüz hedefine yakın değil, ancak buğday bu gece fasulyeden daha güçlü bir ton tutuyor gibi 
+görünüyor. Genellikle iki piyasa aynı anda hareket eder, ancak bu gece öyle değil. Bana bir mesaj 
+göndererek otomatik emirlerini bir OCA grubu olarak verdiğini ve yeni bebeği yatağına geri 
+götürdüğünü söyledi. İyi! Piyasalar dalgalı ve onları izlemek onu aceleci bir karar almaya teşvik 
+edebilir.
+Bir sonraki kare 01:30:28'de çekiliyor.
+96
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 99 ===
+Bir Vaka Çalışması
+Şekil 15.26
+Bir saat geçti ve hala ticaret yok. Fasulyeler açıkça davetsiz görünüyor, çok dalgalı. Ancak benim 
+işim sistemi elimden gelenin en iyisini yaparak uygulamak ve şimdiye kadar her şey yolunda. 
+Yukarıya doğru küçük bir hareketten sonra, hesap makinesindeki aralığın üst sınırını 1250,5'e 
+yeniden ayarladım.
+Gelinimin ticaretine tekrar bakacağım.
+97
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 100 ===
+Günlük Tahıl Vadeli İşlemleri
+Şekil 15.27
+İşlem doğru yönde bir sıçrama yaptı, sonra tekrar aşağı düştü. Yine de stop loss'tan 
+oldukça uzakta. Onun bunu izlemediğine sevindim.
+Bir sonraki çekimim 01:38:31'de gerçekleşti.
+98
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 101 ===
+Bir Vaka Çalışması
+Şekil 15.28
+Fasulyeler bir kez daha aşağı doğru koşuyor. Hesap makinesi aralığında veya aralığın dibinde bir 
+kırılma bekleyen stop giriş emrimde hala bir değişiklik yok.
+99
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 102 ===
+Günlük Tahıl Vadeli İşlemleri
+Bir sonraki mum güçlü bir aşağı yönlü hareketi gösteriyor.
+Şekil 15.29
+Ancak daha sonra yukarı yönlü bir geri çekilme daha yaşanıyor.
+Şekil 15.30
+100
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 103 ===
+Bir Vaka Çalışması
+Geri çekilme mumu, selefinden daha yüksek bir yüksek ve daha yüksek bir düşük değere sahip, bu 
+yüzden hesap makinemin üst kutusuna yeni aralığın en üst noktası olarak en yüksek değeri (1246,75) 
+giriyorum. Bu bana emrimi üç kontrata değiştirmemi söylüyor, bunu Book Trader penceresinde 
+görebilirsiniz.
+Ah hayatım!
+Gelinimin ticareti kesinlikle hasta görünüyor, ancak hala stop loss'tan uzak. 
+Neyse ki uyuyor ve tamamen kaygısız.
+Şekil 15.31
+Tamam. Hadi başlayalım!
+Fiyat hemen aşağıya doğru hareket etti ve aralığın alt sınırını ciddi şekilde zorluyor.
+101
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 104 ===
+Günlük Tahıl Vadeli İşlemleri
+Şekil 15.32
+Bir sonraki ekran görüntüsünde Book Trader penceresinde gösterilen fiyata bakın; giriş emrimin sadece 
+bir pip üzerinde.
+Şekil 15.33
+102
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 105 ===
+Bir Vaka Çalışması
+Bir sonraki kare 01:50:05'te çekiliyor.
+Şekil 15.34
+İşlem gerçekleştirildi
+Bir saat elli dakikadan sonra, alışılmadık derecede uzun bir süreden sonra, mesleğe başladık!
+Book Trader'daki giriş emrinin sıfıra nasıl düştüğünü görün, bu emrin doldurulduğunu 
+gösterir. Emir ateşlendiğinde yüksek bir "ding" sesi de duyulur.
+Dikkat edin, 1241,25'te zaten stop loss koydum. Sistemim şimdi çökerse, güvende 
+olurum. Grafik penceresinin en üstündeki pozisyon alanının "-3" gösterdiğini 
+görüyor musunuz, yani üç kontrat eksiğim var? Şimdi rutin ve teknik zamanı. Ekrana 
+bakmak cazip geliyor, ancak yapılacak iş var...
+Yaptığım ilk şey Book Trader penceresini aşağı kaydırmak ve tek bir tıklamayla hesap 
+makinesinde 1223,75'te gösterilen kar alma limit emrini girmek. Ayrıca ekranın sağ üst 
+köşesine tıklayarak temel TWS işlem penceresini öne getirdim. En üstteki koyu renkli 
+penceredir. Book Trader penceresinde girdiğim zarar durdurma ve limit emirlerinin bu 
+pencerede de gösterildiğine dikkat edin.
+103
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 106 ===
+Günlük Tahıl Vadeli İşlemleri
+Şekil 15.35
+Bir sonraki görevim, seans bitmeden hiçbiri gerçekleşmediği takdirde bu iki emri, bir piyasa 
+emriyle birlikte tekrar girmek ve hepsini bir OCA grubuna bağlamak.
+Sonraki çekimde, halihazırda çalışan iki emrin üstüne üç yeni emir satırı 
+girdiğimi görebilirsiniz. TWS işlem yazılımı, onlara ortak bir OCA kodu ("aaa") 
+verdiğim için bir OCA grubu olduklarını biliyor. Limit ve stop emirleri halihazırda 
+çalışan iki emirle aynıdır.
+104
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 107 ===
+Bir Vaka Çalışması
+Şekil 15.36
+Bir sonraki sahnede mevcut iki siparişi iptal ettim ve iki özdeş yedek siparişi 
+ilettim.
+Şekil 15.37
+105
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 108 ===
+Günlük Tahıl Vadeli İşlemleri
+Biraz karmaşık görünebilir ama çok önemlidir.
+Başlangıçta pozisyonumun hemen korunduğundan emin olmak ve ayrıca piyasanın çok hızlı 
+hareket edebilmesi için emirleri doğrudan Book Trader'a girdim. Bazen bu emirler, yedek 
+emirleri koymaya vaktim olmadan önce bile isabet ediyor! Onları değiştirmemin nedeni, bu 
+orijinal emirlerin bir OCA grubunda bağlantılı olmaması. Tehlike, her ikisinin de 
+tetiklenebilmesi.
+Örneğin, piyasa yukarı hareket edebilir ve stop loss'u tetikleyebilir. Bu, üç sözleşme satın 
+alarak kısa pozisyonumu iptal eder. Ancak daha sonra fiyat tekrar düşebilir ve kar alma limit 
+emrini tetikleyebilir, bu da 3 sözleşme satın alır. Şimdi, amaçlandığı gibi düz olmak yerine, 
+düşen bir piyasada üç sözleşme uzun pozisyonundayım!
+OCA grubundaki emirleri birbirine bağlayarak, bunun olmaması gerekir. Stop loss emri gibi 
+emirlerden herhangi biri tetiklendiğinde, yatağınızda huzur içinde uyuyor olsanız bile, OCA 
+grubundaki diğer emirler otomatik olarak iptal edilir. İstediğimiz bu!
+Bir sonraki karede, OCA grubumdaki üçüncü emri, Good After Time piyasa emrini 
+oluşturduğumu görebilirsiniz.
+Şekil 15.38
+106
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 109 ===
+Bir Vaka Çalışması
+Piyasanın stop loss seviyeme kadar yükselmemesi olasıdır, ancak olası değildirveya seansın sonundan 
+önce hedef seviyeme düştüm. Piyasa gece boyunca yukarı doğru boşluk bırakırsa büyük potansiyel 
+kayıplara maruz kalmak istemiyorum, bu yüzden bugün oyun kapanışındaki durum ne olursa olsun, 
+ticareti kapatmak istiyorum. Bunu yapmak için normal bir piyasa emrinde Good After Time seçeneğini 
+kullanıyorum.
+Gördüğünüz gibi, bu piyasa emrini seansın bitiminden 30 saniye önce tetiklenecek şekilde 
+ayarladım. Elbette, büyük ihtimalle o zamandan çok önce otomatik olarak iptal edilmiş 
+olacaktır, ancak işlemi otomatik pilotta bırakırken tüm olasılıklara karşı korunmak istiyorum.
+Bir sonraki kare 02:00:51'de çekiliyor.
+Şekil 15.39
+Zarar durdurma tetiklendi
+Benim için talihsizlik, piyasanın sert bir şekilde yukarı yönlü hareket etmesi ve 1241.25'teki stop loss emrimin iptal 
+edilmesi oldu.
+Otomatik emirler mükemmel bir şekilde çalıştı. TWS penceresine baktığınızda, stop loss 
+emrinin pozisyonu 825$ zararla kapattığını ve OCA grubundaki diğer iki emrin iptal 
+edildiğini ve artık ekranda görünmediğini görebilirsiniz.
+107
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 110 ===
+Günlük Tahıl Vadeli İşlemleri
+Hiçbir hata yapılmadığı ve planımı mükemmel bir şekilde uyguladığım sürece bu mükemmel bir 
+sonuçtur. İşlem bir kayıp olarak sonuçlandı, ancak doğru bir şekilde yönetildi.
+Kayıplarla doğru şekilde başa çıkmak bu işin en önemli yönlerinden biridir, bu yüzden bu işlem için 
+kendimi tebrik edebilirim. Hesap makinemin 712,50$'lık bir kayıp öngördüğünü ve 825$'lık bir 
+kayıpla bitirdiğimi fark edin. Bunun nedeni, ikinci (kapanış) işlemdeki kaymanın bu gece 
+normalden daha büyük olmasıydı. Can sıkıcı, ancak bir trajedi değil.
+Hacim kontrolü
+Burada küçük bir nokta var.
+TWS ekranında ZS (soya fasulyesi) sözleşmesi için iki satır gösterdiğimi fark edin. Biri şu anda 
+işlem yaptığım Kasım sözleşmesi, diğeri ise geçeceğim bir sonraki sözleşme olacak olan Ocak 
+sözleşmesi. Bunu yapmamın nedeni hacmi kontrol etmek. Kasım sözleşmesinde gösterilen 
+hacmin 39.015k olduğunu, Ocak sözleşmesinde ise sadece 1.04k hacim olduğunu 
+görebilirsiniz. Ekim ayının sonlarına doğru bir ara, Ocak 09 sözleşmesindeki hacim, Kasım 08 
+sözleşmesindeki hacmi geçecek ve işte o zaman Kasım yerine Ocak ayında işlem yapmaya 
+başlayacağım. Her zaman en likit sözleşmeyle işlem yapmak isterim ve asla son kullanma 
+ayında bir sözleşmeyle işlem yapmak istemem.
+Bir doğa yasası
+Bir sonraki ekran görüntüsü doğanın gizemli bir yasasını göstermektedir.
+Fiyatın, stop emrimi çıkardıktan sonra, aşağı doğru yürüyüşüne nasıl devam ettiğini görün. Bu, hayatın 
+büyük gizemlerinden biridir; bu konuda uykunuzu kaybetmemeye çalışmalısınız. Bu yasanın sonucu, 
+eğer stop emrini almazsanız, piyasanın size karşı çalışmaya devam etmesidir!
+108
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 111 ===
+Bir Vaka Çalışması
+Şekil 15.40
+Piyasa daha da düştü, ancak 1223.75'teki orijinal düşüş hedefime asla ulaşamadı. Bir sonraki 
+ekran görüntüsü, seans kapandıktan sonra tamamlanmış grafiği gösteriyor.
+Şekil 15.41
+109
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 112 ===
+Günlük Tahıl Vadeli İşlemleri
+Özet Bilgilendirme
+Burada vurgulamak istediğim şey, tamamlanmış bir grafikte desenleri ve potansiyel işlemleri seçmenin, 
+gerçek zamanlı olarak sahip olduğunuz kısmi resimle bunları seçmekten ne kadar farklı olduğudur!
+İlk birkaç ekran görüntüsüne geri dönün. Son grafiğin nasıl görüneceğini tahmin 
+edebilir miydiniz?
+Yapamadım.
+Fasulye piyasasındaki tüm bu olumsuzluklar buğdayı da aşağı çekip, gelinimin ticaretini mi bozdu?
+İşte tamamlanmış seansın buğday grafiği.
+Şekil 15.42
+İşlem hesaplayıcısını, işleme girildiği andaki haliyle doğru bir şekilde ayarladım ve grafikte 
+giriş, zarar durdurma ve hedef seviyelerini işaretledim.
+Çıkış 01:00:00'dan hemen sonra gerçekleşti ve ilk yukarı yönlü sürüklenmeden sonra fiyat düştü ve 
+tekrar güçlü bir şekilde yüklenmeden önce stop loss çizgisiyle flört etti. Sonra düştü
+110
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 113 ===
+Bir Vaka Çalışması
+Seansın sonuna doğru gelen son yükselişle hedef seviyenin üzerine çıkana kadar bir saatten fazla bir süre daha 
+yükselişini sürdürdü.
+Yani, kazanan oldu ve işlem hesaplayıcısından gördüğüm kadarıyla bu işlemde 
+olsaydım yaklaşık 1650$ kazanmış olurdum. (Elbette ne kadar kazandığı, aldığı 
+sözleşme sayısına bağlıdır, bu da sermayesine ve sabit risk yüzdesi ayarına 
+bağlıdır.) Neyse, aile gece boyunca kara geçmiş gibi görünüyor!
+Bahse girerim ki, eğer bu ticareti oturup izliyor olsaydı, hedefine ulaşmasını beklemezdi. 
+Bu iki büyük olumsuz hareket, yumurta yumurta olduğu kadar kesin bir şekilde onu 
+erken bir çıkışa zorlardı. Sevgili okuyucu, orada oturmuş, "Ben değilim!" diyor 
+olabilirsiniz, ancak size temin ederim ki çok az yatırımcı bu durumda tutunur.
+Bir OCA grubunda otomatik emirler ayarlamak ve yatağa girmek veya koşuya çıkmak, 
+optimum olmayan bir karar vermediğinizden emin olmanın en düşük stresli yoludur.
+111
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 114 ===
+16
+Masalarda Bir Ay
+Önceki bölüm bize sürecin miyop görünümünü verdi. Dakika dakika ne olduğunu gördük. 
+Şimdi, daha uzun bir bakış açısına sahip olalım.
+Önceki bölümlerde açıkladığım gibi, işimi çok basit görüyorum:
+1. Her gece hesaplı bir bahis oynarım, riski olabildiğince dikkatli bir şekilde yönetmek için her türlü 
+önlemi alırım.
+2. Bana yaklaşık %55 oranında kazananlar verdiğine inandığım basit bir breakout giriş sistemi kullanıyorum.
+3. Ortalama kazancımın ortalama kaybımdan büyük olmasını hedefliyorum.
+Şimdi yapmayı düşündüğüm şey, size bir aylık ticaret deneyimi sunmak.
+Basitleştirmek için, sadece bir pazara, mısıra odaklanacağım, ancak hangi tahıl sözleşmesini 
+işlem yapacağıma karar vermeden önce genellikle açılışa bakarım. Nisan 2008'i seçtim, ilginç 
+bir işlem ayıydı, ancak seçebileceğim en iyi ay kesinlikle değildi.
+Not: Bu bir simülasyondur, bu nedenle dikkatli davranmalısınız.
+Simüle edilmiş sonuçların pratikte elde edilmesi genellikle zordur. Gerçek kazanç veya kayıp rakamının, 
+işlem hesaplayıcısında gösterilen hedef kazanç veya kayıp olacağını, komisyonlar ve kayma için 100$ 
+daha düşüleceğini varsaydım.
+Hedef rakamlar zaten kayma için bir miktar paya sahip, bu yüzden bu cömert bir pay. Mısır, 
+üç tahıl sözleşmesinin en büyük hacmine ve en düşük oynaklığına sahip olduğundan, bu 
+piyasada işlem yaparken genellikle hiç kayma olmadığını görüyorum.
+113
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 115 ===
+Günlük Tahıl Vadeli İşlemleri
+Ayrıca bu örnekte mısır sözleşmesi başına 1500 dolarlık bir marj varsaydım ve yatırımcının 25.000 
+dolarlık sermayeyle başladığını varsaydım.
+Sözleşme, önceki bölümlerde belirtilen işlem kurallarını harfiyen takip ederek mekanik 
+bir şekilde işlem görür. Bazı deneyimli yatırımcılar bazı kararlara bakıp irkilebilir, çünkü 
+mekanik kurulumun bazen kötü olduğunu görebilirler. Bazen kendi işlemlerimde yakın 
+bir çağrı varsa kendi yargımı kullanırım, ancak buradaki amacım, katı bir disiplinle makul 
+bir planı takip ederseniz neler olabileceğini göstermektir.
+114
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 116 ===
+Masalarda Bir Ay
+1 Nisan
+Şekil 16.1
+İlk mum aşağı yönlü bir eğilim eğilimi belirler ve fiyat geri çekilmeden önce ilk dört mum 
+boyunca aşağı doğru hareket eder. Sonunda ilk mumun tepesindeki direnç aşılır ve 
+eğilim eğilimi yukarı (uzun) olarak değişir. Bir süre sonra yeni bir direnç seviyesi 
+belirlenir ve sıkı bir küçük geri çekilme gelişir, fiyat yeni direnç seviyesini tekrar aştığında 
+uzun bir işlem sağlar.
+İşlem hesaplayıcısında, 10 kontrat için 574,75'te giriş, 578'de hedef ve 573,50'de durdurma 
+emri oluşturarak oluşturulan işlem aralığını görebilirsiniz.
+Grafikten, fiyatın stop loss'a yaklaşmadan hedefe doğru hareket ettiği açıkça görülüyor, bu yüzden 
+bu bir kazançtı. Gerçek kazancın hesap makinesinde gösterilen 1800$ hedef kârdan 100$ daha az 
+olduğunu varsaydım, bu yüzden bir sonraki işlemdeki sermaye 26.700$ olacak.
+115
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 117 ===
+Günlük Tahıl Vadeli İşlemleri
+2 Nisan
+Şekil 16.2
+İlk mum yukarı yönlü bir eğilim belirler. İkinci mum geri çekilir ve geri çekilme beşinci 
+mumdaki direnç kırılıncaya kadar devam eder ve uzun bir ticareti tetikler.
+Geri çekilme mumlarına (2, 3 ve 4 numaralı mumlar) baktığınızda, bunların hiçbirinin daha düşük 
+bir zirveye sahip olmadığını görebilirsiniz.Veönceki mumlarından daha düşük bir düşük, bu yüzden 
+aralığın düşük ucunu günün düşük seviyesi olarak alıyorum (587). Bu kurulum işlem 
+hesaplayıcısında gösterilir. 5 sözleşme gösterir, 600'de bir hedef ve 589,50'de bir durdurma vardır. 
+Kalan seansta ne durdurma ne de hedef vurulur, bu yüzden seansın sonundan 30 saniye önce, 
+fiyat 596 civarındayken çıkarız. Hedef girişi 592,25'teydi.
+Muhafazakar olmak adına, sözleşme başına 3,5 puan, toplamda 17,5 puan veya 875$ kar varsaydım. 
+Maliyetler için standart 100$'ı çıkardığımız zaman, geriye 27.475$'lık yeni bir sermaye rakamı kalıyor.
+116
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 118 ===
+Masalarda Bir Ay
+3 Nisan
+Şekil 16.3
+Bu ilk kısa işlemdir.
+İlk mum aşağı yönlü bir eğilim eğilimi oluşturur, ancak ikinci mum yukarı hareket ettiğinde bu 
+hemen tersine döner. Ancak sonunda, negatif eğilim 9 numaralı mumdaki destekten aşağı doğru 
+güçlü bir hareketle yeniden oluşturulur. 01:00'da sağa doğru daha fazla kırılma kısa bir işlem 
+oluşturmadan önce bir geri çekilme gelişir. Son tam geri çekilme mumu (önceki mumdan daha 
+yüksek bir yüksek ve daha yüksek bir düşük ile) 6 numaralı mumdur.
+Hesap makinesi 5 sözleşme için 591,75'ten giriş, 584,50'de hedef ve 594,25'te stop ile bir işlem 
+gösteriyor.
+Grafikten, işlemin bir süre iyi hareket ettiğini, ancak fiyatın asla hedefe ulaşmadığını ve sonunda zarar 
+eden bir işlem için stop loss seviyesine geri döndüğünü görebilirsiniz. Hesap makinesindeki hedef risk 
+687,5$ gösteriyor, bu nedenle 788$'lık bir kayıp olduğunu ve sermayenin 26.687$'a düştüğünü 
+varsayıyorum.
+117
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 119 ===
+Günlük Tahıl Vadeli İşlemleri
+4 Nisan
+Şekil 16.4
+Yukarı doğru bir hareketten sonra, trend eğilimi aşağı doğru değişir ve bir geri çekilme gelişir. Sonunda 
+aşağı yönlü bir kopuş olur, ancak 800 + 100 = 900$'lık bir kayıpla hiçbir yere varmaz.
+118
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 120 ===
+Masalarda Bir Ay
+7 Nisan
+Şekil 16.5
+Tahıl piyasalarında ikinci mumun, birinci mumdan daha yüksek bir yüksek ve daha 
+düşük bir düşük ile bir dış mum olması nadirdir. Bu gerçekleştiğinde, bugün olduğu gibi, 
+birinci mumu tamamen göz ardı ediyorum. İkinci mum, desteğin sonunda 03:00'ten 
+hemen önce kırılmasından uzun süre önce yürürlükte kalan aşağı yönlü bir eğilim 
+oluşturur.
+İllüstrasyondan da görebileceğiniz gibi, 591,25 hedefiyle ortaya çıkan kısa işlem açık ara 
+kazanandır. 1500 - 100 = 1400$ kar varsayın.
+119
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 121 ===
+Günlük Tahıl Vadeli İşlemleri
+8 Nisan
+Şekil 16.6
+İşte bir başka durum daha:Rtam açılış aralığına ayarlanması gerekir (çünkü geri çekilme çubuklarının hiçbiri 
+önceki mumdan daha düşük bir yüksekliğe ve düşük bir düşüklüğe sahip değildir).
+Görüldüğü gibi, ortaya çıkan işlem kaybedilmiştir (800$ artı 100$ maliyet).
+120
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 122 ===
+Masalarda Bir Ay
+9 Nisan
+Şekil 16.7
+Uzun bir eğilimle başladıktan sonra geri çekilme desteği deldi ve trend eğilimi kısa bir işleme 
+dönüştü.
+Üç mumluk geri çekilme, 100 dolarlık maliyet düşüldükten sonra 1500 dolarlık kar sağlayan basit bir kısa işlem 
+başlatır.
+121
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 123 ===
+Günlük Tahıl Vadeli İşlemleri
+10 Nisan
+Şekil 16.8
+Bu standart bir kısa işlemdir.
+Piyasa aşağı doğru hareket eder, geri çekilir ve sonra iki bardan daha kısa sürede hızlı bir kazanç için aşağı doğru kırılır. 
+Kar 1800$'dır, 100$ maliyet düşüldükten sonra.
+122
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 124 ===
+Masalarda Bir Ay
+11 Nisan
+Şekil 16.9
+Başka bir standart kısa işlem, ancak hedefe ulaşmıyor. Durdurulmuyor da, bu yüzden seansın 
+bitmesine 30 saniye kala 584 civarında bir fiyattan çıkıyoruz. Planlanan giriş 5 sözleşmeyle 589'du. 
+Muhafazakar olmak için, sözleşme başına 4 puan kar, toplamda 20 puan (1000$, eksi 100$ maliyet) 
+olduğunu varsayalım.
+123
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 125 ===
+Günlük Tahıl Vadeli İşlemleri
+14 Nisan
+Şekil 16.10
+Bu, işlem yapılmayan bir gündür çünkü geniş açılış aralığı, seansın geri 
+kalanında asla aşılmayan destek ve direnç seviyelerini belirler.
+124
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 126 ===
+Masalarda Bir Ay
+15 Nisan
+Şekil 16.11
+Giriş kurallarımın katı bir şekilde uygulanmasının pek işe yaramadığı bir gün.
+İlk yukarı hareketten sonra, trend eğilimi 3. mumda kısa pozisyona dönüşür ve ardından 14. mumda 
+tekrar uzun pozisyona döner. Görünen o ki, uzun pozisyona girmek için doğru yer burası olurdu ve 
+02:00'deki gerçek işlemim bir kayıpla sonuçlandı (900$ artı 100$ maliyet).
+125
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 127 ===
+Günlük Tahıl Vadeli İşlemleri
+16 Nisan
+Şekil 16.12
+Kurallarıma sıkı sıkıya bağlı kalmam, işlem yapılmayan bir günle sonuçlanır.
+Piyasa 01:30 civarında aşağı doğru hareket ettiğinde, ancak sonraki geri çekilme iki ardışık çubuk 
+içermediğinde negatif bir önyargı oluşur.daha yüksekmevcut aralığın en düşük seviyesinden 
+(603,5) daha düşük seviyelere indi.
+İlgi çekici bir konu olarak, benyaptıBu gün gösterilen ticareti yapmayı seçiyorum, ancak bunu burada 
+saymayacağım. (İnternette bir sorun yaşadığımı ve tüm oturumun tam ekran görüntüsünü alamadığımı 
+unutmayın.)
+126
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 128 ===
+Masalarda Bir Ay
+17 Nisan
+Şekil 16.13
+Başlangıçtaki trend eğilimi kısadır ve küçük geçerli bir geri çekilme gerçekleşmeden önce iki 
+ayrı tek mumluk geri çekilme girişimi vardır (mumlar 7 ve 8). Hiçbiri tam bir geri çekilme 
+mumu değildir ve daha önce tam bir geri çekilme çubuğu olmadığından, mum 1'in üst sınırı 
+aralığın tepesi olarak alınır.
+Ne yazık ki, grafikten 620.75'teki stop'un işlem kolay bir kazanan olmadan önce 
+dokunulduğu açıktır. Kayıp 825$ artı 100$ maliyettir.
+127
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 129 ===
+Günlük Tahıl Vadeli İşlemleri
+18 Nisan
+Şekil 16.14
+İlk mumun kısa bir eğilimi vardır, ikinci mum yukarı hareket ettiğinde hızla tersine döner. 5 ve 6 numaralı 
+mumlar, 7 numaralı mumdaki kopuştan önce yüksekten geri çekilir, bu da kolay bir kazanç sağlar. Bu durumda 
+kopuş mumunun diğer geri çekilme çubuklarından herhangi birinden daha düşük bir düşüklüğe sahip 
+olduğunu unutmayın.
+Böyle bir durumda, genellikle breakout mumunun düşük seviyesini aralığımın tabanı olarak 
+kullanırım. Bu işlem 1800$ kar sağlar, 100$ maliyet düşülür.
+128
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 130 ===
+Masalarda Bir Ay
+21 Nisan
+Şekil 16.15
+İşte seansın ilk 25 dakikasında gerçekleşen çok hızlı bir kısa işlem.
+Kar 1800 dolardır, 100 dolarlık maliyet düşüldükten sonra.
+129
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 131 ===
+Günlük Tahıl Vadeli İşlemleri
+22 Nisan
+Şekil 16.16
+Güçlü bir yükselişin ardından gelen sert bir geri çekilmenin ardından, fiyat sonunda 
+direnci kırıyor.
+İşlem net bir şekilde kazanan bir işlem olup, maliyetler düşüldükten sonra 1800 dolar kazanç elde ediliyor.
+130
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 132 ===
+Masalarda Bir Ay
+23 Nisan
+Şekil 16.17
+Bu örnekleri incelerken, bunun üçüncü bir mum kırılması olduğu gerçeğini ilk başta gözden 
+kaçırdım. İlk mumun uzun bir eğilimi, ikinci mumun geri çekilme olduğunu ve üçüncü mumun 
+yukarı doğru devam ettiğini görüyor musunuz? Bu işlem için hesap makinesini ayarlasaydım, 
+aralığın tepesi 604 ve dip noktası 602,75 olsaydı, 21 sözleşme, hedef 606,25 ve stop 603,6 ile bir 
+işlem yapmış olurdum. İşlem kaybeden olurdu.
+Bunu kaçıran hesap makinesi, 4 ila 7 arasındaki çubuklar sırasında geri çekilmeden sonra uzun vadeli 
+işlem yapmak üzere çizimde ayarlanmıştır. Hedef 610,75'tir ve piyasa 610,5'in üzerine çıkamadığı için bu 
+hedef kaçırılmıştır.
+131
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 133 ===
+Günlük Tahıl Vadeli İşlemleri
+Bu, işlemi izleyen bir yatırımcının zarar etme olasılığının düşük olduğu bir durumdur, ancak benim 
+önerdiğim gibi çıkışları otomatikleştirmiş olsaydınız tam bir zarar (1000$ artı 100$ maliyet) olurdu.
+24 Nisan
+Şekil 16.18
+İlk mumun belirlediği yukarı yönlü eğilim, ikinci mum aşağı hareket ettiğinde tersine döner. Derin bir 
+geri çekilmeden sonra, piyasa hareketi 01:00'den hemen sonra desteği delerek sonunda 03:15 civarında 
+hedefin tam ortasına dokunur ve 2437$ kar elde eder, 100$ maliyet düşülür.
+132
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 134 ===
+Masalarda Bir Ay
+25 Nisan
+Şekil 16.19
+İlk birkaç çubukta çok güçlü bir yukarı hareket, bir geri çekilme ve ardından yukarı doğru bir 
+kırılma var. Bu açıkça kaybedilen bir işlem ve birçok deneyimli yatırımcının girmeyeceği bir işlem. 
+Yine de mekanik sisteme olan inancımızı koruyarak 938$'lık bir kayıp ve 100$'lık maliyet 
+kaydediyoruz.
+133
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 135 ===
+Günlük Tahıl Vadeli İşlemleri
+28 Nisan
+Şekil 16.20
+İlk mumun belirlediği pozitif eğilim, fiyat 6. mumdaki destekten aşağı doğru hareket ettiğinde tersine 
+döner. Yeni bir düşük seviye oluşur, ardından sığ bir geri çekilme olur ve bu da kazançlı bir kısa işlem 
+oluşturur. Kar 1800$'dır, 100$ maliyet düşülür.
+134
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 136 ===
+Masalarda Bir Ay
+29 Nisan
+Şekil 16.21
+Bu, kısa tarafta üçüncü mum kırılma işlemidir.
+Açılış mumu negatif bir eğilim belirler, ikinci mum geri çekilmedir ve üçüncü mum aşağı 
+doğru kırılır. Kar 2400$'dır, 100$ maliyet düşüldükten sonra.
+135
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 137 ===
+Günlük Tahıl Vadeli İşlemleri
+30 Nisan
+Şekil 16.22
+Ayın sonunda zararla sonuçlanan bir işlem!
+Bias, uzundan (mum 1) kısaya (mum 3) ve sonra tekrar uzuna (mum 12) hareket eder, ardından bir 
+geri çekilme oluşur ve bu da bir kopuşla takip edilir. 1125$'lık bir kayıp için durdurmaya vurulur, 
+artı 100$ maliyet.
+136
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 138 ===
+Masalarda Bir Ay
+Ayın işlem özeti
+Şekil 16.23
+Son karede Mayıs ayına girerken işlem hesaplayıcısı gösteriliyor.
+Ticaret sermayesi 25.000 dolardan 36.436 dolara çıktı, bu herkesin dilinde iyi bir sonuç. Daha 
+önce de söylediğim gibi, simüle edilmiş sonuçları pratikte elde etmek zordur. Ancak
+137
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 139 ===
+bazı hatalar yapmış olsanız bile, getirilerinizi yarıya indirmiş olsanız bile, bu yine de iyi bir aydır.
+Kazançların bir sonraki işlem için işlem sermayesine eklendiği işlem hesabında bırakıldığını 
+varsayarak, bileşik etkinin ne kadar çabuk gerçekleştiğine dikkat edin. Bu, kaldıraç ile ihtiyatlı 
+para yönetiminin birleşmesinin faydasıdır.
+Ayın istatistiklerine baktığımızda, 22 işlemden 12 kazanan, 8 kaybeden ve 2 işlem yapılmayan işlem 
+olduğunu görüyoruz. Bu, kazanma olasılığının 20'de 12 (60%) olduğu anlamına geliyor. Ortalama 
+kazanç 1709$ ve ortalama kayıp 884,5$ idi, bu da 1,93'lük bir kazanç-kayıp oranı veriyordu. 22 
+günden 20'sinde işlem yaptım (91%).
+Bölüm 4'te, her ay ticaret sistemimin karşılamasını istediğim yönergeleri belirledim. Özetlemek 
+gerekirse:
+1. Kazanma şansı %50 (veya daha fazla) olan bir strateji kullanmayı hedefliyorum,
+2. (gerçek) ortalama kazancımın ortalama kaybımdan önemli ölçüde daha büyük olduğu ve
+3. Tüm seansların en az %80'inde işlem yapma şansına sahibim.
+Zamanla, benim için doğru tutması en zor istatistik, kazanma yüzdesi. Ancak, belirli 
+bir ayda %40'a düşse bile, kazanma-kaybetme oranım yaklaşık iki civarında kaldığı 
+sürece hala öndeyim.
+Bu ay rahatlıkla kılavuza uydum.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 140 ===
+17
+Uygulamanın Önemi
+Hiç kimse pratik yapmadan hiçbir şeyde mükemmel olamaz. Ticaret ve özellikle yüksek hızlı 
+günlük ticaret, bir istisna değildir.
+Sistemimin en zor kısmı:
+1. Destek ve direnç seviyelerinin tanınması,
+2. geri çekilmeleri doğru bir şekilde belirlemek ve
+3. aralığın belirlenmesi, r.
+Bunu içgüdüsel olarak yapmayı öğrenmenin en iyi yolu, grafik üstüne grafik incelemektir. Yıllarca ticaret 
+yaptıktan sonra bile, her gün eski grafiklere bakarak ve bunların nasıl ticaret edilmesi gerektiğini 
+belirleyerek zaman harcıyorum.
+Yeterince pratik yaparsanız, desen tanıma ikinci doğanız haline gelir ve işlem yaptığınızda 
+"bölgede" olduğunuzu hissetmeye başlarsınız. Oluşan desenleri oluştuktan sonra tanımakla 
+kalmaz, aynı zamanda desenlerin muhtemel oluşumunu oluşmadan önce tahmin ettiğinizi 
+görürsünüz.
+Yeni başlayanlar için bir grafik, belirli bir formu olmayan mumların bir araya gelmesinden oluşur, ancak 
+bir süre sonra tek bir bakışta işlem fırsatlarını seçebileceğiniz bir aşamaya ulaşırsınız.
+Tarihi grafikler kütüphanesi
+Karşılaşabileceğiniz bir sorun, üzerinde pratik yapmak için yeterli sayıda grafik bulmaktır. Bunu yapmak yeterince kolaydır
+139
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 141 ===
+Günlük Tahıl Vadeli İşlemleri
+İnternette uzun vadeli gün sonu verilerini bulabilirsiniz, ancak vadeli işlem sözleşmelerine ait gün içi iki dakikalık 
+tarihsel grafikleri bulmak o kadar kolay değildir.
+Bu sorunu, her birincil seansın sonunda buğday, mısır ve soya fasulyesi iki dakikalık işlem 
+grafiklerinin her birinin ekran görüntüsünü alarak çözüyorum. Bunlardan bir kütüphane 
+tutuyorum ve bunun sonucunda artık uygulama için kolayca erişebileceğim yıllara ait grafik 
+verilerine sahibim. Ayrıca farklı şekilde işlem yapmak için parlak bir fikir bulursam çok faydalı 
+oluyor. Fikrin uzun vadede uygulamada nasıl işleyeceğini hızlıca görebiliyorum.
+Hataların maliyeti
+Uygulama konusuna ilişkin son bir söz.
+Kazanma olasılığı, ortalama bir kazancın büyüklüğü ve ortalama bir kaybın büyüklüğü göz önüne 
+alındığında, hesaplamak mümkündürişlem başına teorik ortalama kar, P, ticaret sisteminiz için.
+P'yi biliyorsanız, çok sayıda işlem boyunca kazancınızı tahmin edebilirsiniz:
+kazançlar = (işlem sayısı x P) - komisyonlar - kayma
+Ne yazık ki gerçek dünyadaki denklem şu şekildedir:
+kazançlar = (işlem sayısı x P) - komisyonlar – kayma -
+Hataların bedeli!
+Ne yazık ki, sonuncu unsur çok önemli olabilir.
+Kim olduğunuzun bir önemi yok, belirli bir ayda nasıl performans gösterdiğinizi hesapladığınızda, optimumdan 
+daha az performans gösterdiğinizi göreceksiniz çünkü bazı hatalar yapmışsınızdır.
+Hata unsurunu mümkün olduğunca azaltmanın yolu pratik yapmaktır.
+Bir yatırımcının çalışma saatleri aşırı derecede yorucu değildir, bu yüzden grafikleri incelemek için biraz daha 
+fazla zaman harcayın. Bu, zamanınızın sağlam bir altın yatırımıdır.
+140
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 142 ===
+18
+Bilgisayar Kurulumu
+5. Bölümde risk yönetiminden bahsetmiştim. Bu bölüm, kontrolünüz dahilinde olan bazı 
+fiziksel faktörlere bakıyor.
+BÜYÜK bir ekran!
+20 inç ekrana sahip bir Apple iMac bilgisayarıyla işlem yapıyorum. Bir sonraki yükseltmem 24 inç 
+modele olacak. İzlenecek çok fazla bilgi var ve bunların mümkün olduğunca çoğunu görmek 
+istiyorsunuz. Bir dizüstü bilgisayar veya küçük bir ekran kullanarak işlem yapmaya başlarsanız, 
+gereksiz yere kendinizi engelliyorsunuz.
+Bu küçük bir nokta gibi görünebilir, ancak deneyimlemeniz gereken şeylerden 
+biridir. Aradaki fark tebeşir ve peynir gibidir.
+İyi haber şu ki, ekran biraz para harcamanız gereken tek ekipman öğesidir. Bilgisayarınızın süper 
+hızlı olması, ekstra belleğe, devasa sabit disklere, üst düzey grafik kartlarına veya başka herhangi 
+bir gösterişli özelliğe sahip olması gerekmez. Güvenilir bir geniş bant internet bağlantısına sahip 
+standart bir makine ihtiyacınız olan tek şeydir.
+Bilgisayarlar çöktüğünde…
+Sıkışık bir zamanda kullanabileceğiniz ikinci bir bilgisayara sahip olmak işe yarar. 
+Bilgisayarlar sık   sık bozulmaz, ancak kritik bir anda çökme yaşarsanız, sisteminizi alternatif 
+bir makinede çalıştırabilirseniz çok rahatlarsınız.
+141
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 143 ===
+Günlük Tahıl Vadeli İşlemleri
+Acil bir durumda, brokerinizin telefon numarasının elinizin altında ve yazılı olduğundan 
+emin olun - çökerse erişemeyeceğiniz bilgisayarınızın adres defterinde değil! En   kötü 
+ihtimalle brokeri arayabilir, işleminizin durumunu kontrol edebilir ve telefonla emir 
+girebilir veya iptal edebilirsiniz.
+Aracı kurumunuzun bu hizmeti sunduğundan ve aradığınızda telefonu açtığından emin olun!
+İnternet önlemleri
+Yedekleme konusuna gelince, deneyimime göre geniş bant internet arızaları bilgisayar 
+donanım arızalarından daha yaygındır. İnterneti kaybetmek, bir bilgisayar donanım arızası 
+kadar ticaretiniz için yıkıcıdır ve yedek bir bilgisayarın bulunması yardımcı olmaz. Tekrar 
+ediyorum, son çare olarak aracınızı aramaya hazır olun. Ancak yedek bir internet bağlantısı 
+hizmetine sahip olmak da mükemmel bir fikirdir.
+Yedeklemem, alternatif bir İnternet Servis Sağlayıcısı (İSS) ile düşük maliyetli bir 
+çevirmeli hesaptır. Zaman zaman bu imkana başvurdum ve çok değerli bir yatırım 
+olduğu kanıtlandı.
+Çevirmeli bağlantıdan nefret ediyorsanız, şu anda uygulanabilir hale gelen bir diğer alternatif 3G kablosuz geniş 
+bant bağlantısıdır. Sadece yedekleme içinse çok fazla indirme kapasitesi olan bir plana ihtiyacınız yoktur.
+Bir şey daha: modemler de bozulur. Birçok okuyucunun evde iki veya daha fazla bilgisayara hizmet 
+veren bir kablo veya ADSL kablosuz modemi olacağını tahmin ediyorum. Eğer varsa, kablosuz 
+modemin bozulması durumunda doğrudan telefon hattınıza takabileceğiniz eski bir modemi 
+saklamanızı öneririm.
+Elbette, tüm elektronik cihazlarınız, özellikle ara sıra gök gürültülü fırtınalar yaşıyorsanız, aşırı 
+gerilim korumasına sahip uygun güç panolarına bağlanmalıdır.
+Gerçekten sadece sağduyu.
+Yedekleme prosedürleri
+Bu ekipman sorunları nadiren meydana gelir. İşte burada pratik ve eğer ihtiyacınız varsa iyi 
+dokümantasyon devreye girer, çünkü bir şey olduğunda yedekleme prosedürlerinizi kurmanızın 
+üzerinden aylar geçmiş olabilir. Sormanız gereken sorular şunlardır:
+142
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 144 ===
+Bilgisayar Kurulumu
+• Aracı kurumun telefon numarasını, hesap numaranızı ve telefonda kendinizi 
+tanıtmanız için gereken diğer bilgileri nereye yazdınız?
+• Yedek modeminiz, takıp çalıştırabileceğiniz doğru şifreyle yapılandırılmış mı? (Kurulumu için 
+yardım istemek üzere ISS'nizi aramanız gerekirse çağrı merkezi müziğini dinlemeye 
+zamanınız olmayacaktır.)
+• Yedek bilgisayarınızı brokerinizin yazılımının en son sürümüyle güncel 
+tuttunuz mu?
+• Ticaret hesap makinesi gibi kendi araçlarınızın en son sürümlerini yedekleme 
+makinenizde saklamayı hatırladınız mı?
+En kötü ihtimalle hedef, dakikalar içinde tekrar ayağa kalkıp çalışmaya başlamaktır. O 
+zaman bile kalp atış hızınızın iki katına çıktığını göreceksiniz!
+Yapabileceğiniz en iyi şey, sistemi mesai saatleri dışında çalıştırarak ve çeşitli türden sorunları 
+simüle ederek prosedürlerinizi pratik etmektir. Küçük şeyleri çözün.
+Bir keresinde çevirmeli bağlantıya geçmem gereken bir sorun yaşadım ve telefon 
+kablosunu bulamadım. Başka bir tane buldum ama çok kısaydı! Bana kalırsa, gecenin 
+bir yarısı çılgınca mobilyaları değiştirmek, korumasız bir pozisyonun size karşı 
+olmamasını hararetle ummak iyi bir şey değil.
+Bu iş, büyük karlar elde etmek için hesaplanmış, önemli riskler almakla ilgilidir. Bir ticarete 
+girdiğinizde, risk almak zorundasınız. Ancak ekipmanınız söz konusu olduğunda neden gereksiz 
+riskler alıyorsunuz? Günümüzde yedek bir PC, yedek bir modem ve ucuz bir alternatif internet 
+bağlantısı ne kadara mal oluyor? Biraz planlama ve çok fazla yatırım yapmadan, ekipman arızasını 
+ve çoğu bağlantı riskini neredeyse ortadan kaldırabilirsiniz, öyleyse yapın!
+Ve BÜYÜK EKRANI unutmayın, o her şeyi değiştirecek.
+Çıkış kontrol listesi
+Bu aslında çok sıradan bir konu gibi görünebilir ve aslında fiziksel bilgisayar kurulumuyla 
+ilgisi yoktur, ancak uzun yıllar işlem yaptıktan sonra işlem platformundan nasıl çıkış 
+yapacağım konusunda oldukça paranoyaklaştım.
+Tıpkı işlem seansı açılmadan önce tüm kontrolleri yaptığımı garantilemek için bir kontrol listem olduğu gibi
+143
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 145 ===
+Günlük Tahıl Vadeli İşlemleri
+İşlem hesaplayıcımdaki bilgiler doğruysa, çıkış yaptığımda da benzer bir kontrol listem var:
+1. Portföyümü kontrol ederek açık pozisyon göstermediğini doğrularım. Ben günlük yatırımcıyım – 
+kapattığımda açık pozisyon istemiyorum.
+2. Bekleyen emirlerin olmadığını kontrol ederim.
+3. İki kat emin olmak için “tüm siparişleri iptal et” komutunu çalıştırıyorum.
+4. Hesabımda açık pozisyon bulunmadığını bir kez daha kontrol ediyorum.
+Ancak o zaman işlem ekranlarımı kapatıyorum.
+Tüm bunlar aşırı gelebilir. Gerçekten de, her şey plana göre yapılmışsa, tüm bu 
+ihtiyata gerek olmamalı. Ancak, arada sırada her şey tamamen plana göre 
+gitmemiş olabilir. Acele ettiniz ve belki bir hata yaptınız?
+Bu zamanlarda, sistemde tamamen unuttuğunuz iptal edilmemiş bir emir bulabilirsiniz. 
+Ya da belki pozisyonunuzu kapattığınızı düşünürsünüz, ancak bir nedenden ötürü hala 
+açık olduğunu görürsünüz. Belki dört sözleşmede uzun pozisyon açtınız ve bir karışıklık 
+içinde sadece ikisini kapattınız, diğer ikisini yanlışlıkla aktif bıraktınız. Bu tür şeyler ara 
+sıra olur ve ertesi gün oturum açıp kendinizi önemli kayıplara yol açan planlanmamış bir 
+ticaretin içinde bulmak üzücüdür.
+Kendi güvenliğiniz için, sistemden çıkmak için bir "kemer ve askı" güvenlik rutini 
+geliştirin ve her çıkış yaptığınızda bunu mutlaka uygulayın. Kendinizi, bir jumbo jeti 
+kalkıştan veya inişten önce kontroller yapan pilot gibi düşünün.
+144
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 146 ===
+19
+Ticaret Ritüeli
+Önceki karakterdeki son madde, ticaret hakkında öğrendiğim birçok şeyin tipik bir örneği.
+Kutsal Kase'nin Arayışı
+Bu işe ilk başladığımda, her şeyin bilgi ve araştırmayla ilgili olduğunu düşünüyordum. Dünya 
+piyasalarındaki her gelişmeden haberdar oldum, daha iyi işlem yöntemleri bulmak için 
+ticaret literatürünü ve interneti taradım ve günlerimi elektronik tablolardaki geçmiş verileri 
+analiz ederek, yeni işlem göstergeleri ve sistemleri arayarak geçirdim.
+Arkadaşlarım etkilenmişti ama bütün bu bilgilere rağmen para kazanamıyordum.
+Basitlik anahtardır
+Ancak tüm bu kovalamacalardan sonra, ticaret başarısının şu üç denenmiş ve doğru kavrama 
+dayalı olabileceğini yavaş yavaş anladım:
+1. destek ve direnç
+2. trendle işlem yapmak
+3. Kazananların koşmasına izin verirken kayıpları hızla azaltmak
+Bu kavramların üzerinden hızlıca geçmek kolaydır.
+145
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 147 ===
+Günlük Tahıl Vadeli İşlemleri
+Çok basitler.
+İşlem yapmış olan hemen hemen herkes bunları bilir ve size ne olduklarını söyleyebilir. Ancak bu, 
+bunların önemini gerçekten takdir ettikleri anlamına gelmez.
+İşlem sürecini basit tutmak faydalıdır. (En azından, karmaşıklık benim için hiçbir zaman işe 
+yaramadı.) Bu kitapta sunulan işlem tarzı karmaşık değildir, ancak yine de sağlam 
+tuğlalardan inşa edilmiştir.
+Ritüel ve rutin
+Günümüzde, başarımın planımı ne kadar iyi uyguladığımla belirlendiğine 
+inanıyorum. Ticaret, nispeten basit bir sürecin sürekli tekrarlanması, 
+mükemmel uygulama için çabalamadır. Aynı basit şeyleri her gün gerçekten 
+iyi yapma durumudur.
+Bunların çoğu ritüele dönüşür. Tıpkı profesyonel bir tenis oyuncusunun servis atmadan önce her 
+zaman aynı rutini takip edebileceği gibi, başarılı bir tüccar da günlük işine bir dizi ritüel ve rutin 
+ekler. Ritüeller, çeşitlilik olmadan standart bir süreci takip etmemizi sağlar ve önemli bir şeyi 
+unutmamızı önlemeye yardımcı olur.
+Ticaret sürecini, beceri ve zarafetle zahmetsizce gerçekleştirebileceğim bir ritüele 
+indirgemek, bulduğum Kutsal Kase'ye en yakın şey.
+146
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 148 ===
+Bibliyografya
+Beni etkileyen ve başkalarına tavsiye edebileceğim bazı kitapları aşağıda sıralıyorum.
+Ticaret OyunuileRyan Jones (John Wiley ve Oğulları),1999
+Bant Okuma TeknikleriileVadym Graifer ve Chris Schumacher (McGraw-Hill 
+Profesyoneli),2003
+Disiplinli TüccarileMark Douglas (NYIF),1990
+Mumların ÖtesindeileSteve Nison (John Wiley ve Oğulları),1994
+Elektronik Günlük Ticaretle Finansal ÖzgürlükileVan K. Tharp ve Brian June 
+(McGraw-Hill Profesyoneli),2001
+Yaşamak İçin TicaretileAlexander Elder (John Wiley ve Oğulları),1993
+Piyasa SihirbazlarıileJack Schwager (Pazar Yeri Kitapları),2006
+Bir Borsa Operatörünün AnılarıileEdwin Lefevré (John Wiley ve Oğulları),2006
+147
+www.forexgercekleri.xyz - [Twitter: @eseckal]

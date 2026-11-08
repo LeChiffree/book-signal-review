@@ -1,0 +1,1214 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 15\Baskı 15\Yeni Forex Piyasası Trading Sistemi - Emegha Emmanuel (46 sayfa) - @eseckal.pdf
+PAGES: 46
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+YENİ FOREX PİYASASI TİCARET 
+SİSTEMİ
+İÇİNDEKİLER
+Önsöz
+Ticaret Platformundaki Teknik Göstergeler 
+Forex Piyasasında Ticaretin Bileşenleri 
+Zaman Analizi
+Ticaret Platformu Zaman Çerçevelerinin Özellikleri
+Zaman Çerçevesi ve Mum Formasyonu Arasındaki Bağlantı   İşlem Platformu ve Zaman 
+Çerçevesi Nasıl Görüntülenir   İşlem Saatleri ve İşlem Günleri
+Çoklu Zaman Dilimi Fiyat 
+Analizinin Zaman Analizi 
+Teorisinin Özeti
+Fiyat Hareketinin Gizli Belirleyicisi 
+Hacim Analizi
+Piyasa Hacmini Belirlemek İçin Grafik Deseninin Nasıl Kullanılacağı   Forex Piyasası 
+Analizi Temel Analiz
+Duygu Analizi
+Teknik Analiz
+Forex Piyasasında İşlem Yapmak İçin En İyi 
+Gösterge En İyi Forex İşlem Sistemi
+Forex Piyasa Koşulları 
+Forex Yatırımcı Simülatörü
+İyi Bir Ticaret Sistemi Nasıl Belirlenir Forex Trader's 
+Simulator'ın Bileşenleri Forex Trader's Simulator'ın 
+Özellikleri Göstergeler Mum Çubukları
+Piyasa Sinyalini Belirlemek İçin Mum Çubukları Nasıl Kullanılır   Hareketli Ortalama Yakınsama 
+Ayrışma
+Piyasa Sinyalini Belirlemek İçin MACD Nasıl Kullanılır   Stokastik Osilatör Piyasa 
+Sinyalini Belirlemek İçin Stokastik Nasıl Kullanılır   Basit Hareketli Ortalama Bollinger 
+Bandı
+Forex Trader's Simulator Göstergelerinin Özeti   Forex Trader's Simulator Desen 
+Göstergeleri
+Harmonik Desen
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Elliot Dalga Deseni
+Fibonacci Oranı
+Simülatörün Çoklu Zaman Çerçevesi Analizi
+Forex Ticaret İşletmesi için En İyi Zaman Çerçevesi Kombinasyonu Forex Trader'ın Simülatörünü 
+Ticareti Belirlemek İçin Nasıl Kullanabilirsiniz
+Sinyaller
+Çıkış Noktası Nasıl 
+Belirlenir Sonuç
+Forex Piyasası Ekinin Özeti
+Ek I- Mum Grafikleri Ek II - 
+Harmonik Desen Grafikleri Ek III - 
+Fibonacci Oranı Grafikleri Ek IV - 
+Elliot Dalga Grafikleri Temel 
+Ekonomik Veri Raporu
+Elinizde bulunan kitap, nasıl yapılacağını anlamanıza yardımcı olacaktır.Görüş,Analiz etVe 
+YorumlamakForex Ticaret İstasyonu/Platformu. ÖNSÖZ
+Hepimiz biliyoruz ki yapmadan öğrenmek imkansızdır ve yapmak sıklıkla hata yapmak anlamına 
+gelir. Bir çocuk düştüğü için cezalandırılırsa yürümeyi öğrenemez. Suya girmediğiniz sürece 
+yüzmeyi öğrenemezsiniz.
+Öğrenme konisi, öğrenmenin en iyi yollarını açıklar. Öğrenme konisinin en altında, 
+%10'luk bir hatırlama oranıyla okuma yer alır. Sonraki, %20'lik bir hatırlama oranıyla 
+kelimeleri duymak veya bir dersi dinlemektir.
+“YENİ FOREX PİYASASI TİCARET SİSTEMİ” adlı bu kitapta yer alan gerçek deneyimi 
+simüle ettiğinizde, bunun yüzde 90 veya daha fazla bir tutma oranına sahip olduğunu 
+ve gerçek forex ticareti işini yapmanın en iyi ikinci yolu olarak kabul edildiğini 
+görebilirsiniz.
+Simülasyonların veya bu Forex Ticaret Sistemi ve Stratejisinin bu kadar güçlü bir öğretim aracı olmasının temel 
+nedeni, yatırımcıların hataları tespit etmelerine, bu hatalardan ders çıkarmalarına ve yatırımcılara bu hatalardan 
+nasıl kaçınacaklarını öğretmelerine olanak sağlamasıdır.
+Bu kitap, forex piyasası ticaretinin konusu ve işinin incelenmesine samimi bir katkı olarak ele 
+alınmıştır. Kitap, isminden de anlaşılacağı üzere "Yeni Forex Piyasası Ticaret Sistemi", yatırımcıların 
+forex piyasası ticaretine ilişkin anlayışlarını artırmalarına yardımcı olmayı amaçlamaktadır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Forex Piyasası ticaret işi ve tüm bireysel forex yatırımcılarının herhangi bir işlem 
+seansındaki başarısının temelini oluşturan perakende forex sektöründeki fark.
+Bu kitap, tüccarlara forex ticareti işinde mükemmelliğe doğru gerekli adımları sağlamak için 
+hazırlanmıştır. Bu kitabın içeriği, şüphesiz tüccarların forex piyasası temelleri ve ticaret 
+platformunun arkasındaki mekanizma hakkındaki anlayışlarını artırmaya yardımcı olacaktır.
+Bu kitap, tüccarlar tarafından ilk konudan son konuya kadar içerikleri okuyarak tekrar tekrar 
+incelenmelidir. Bu, tüccarların grafikleri ve desenleri takdir etme ve yorumlama konusunda 
+iyi bir konsept oluşturma becerisine yardımcı olmak içindir, bu nedenle forex ticaretinde 
+başarıyı belirler.
+Kitabın kullanıcıları olarak başarıya ulaşanların, kitabı sevdikleri ve değer 
+verdikleri kişilere tavsiye etmelerini umuyorum. Bu kitabın başarısı, Yüce 
+Tanrı'nın lütfu ve merhametiyle gerçeğe dönüştü.
+EMEGHA OMORUYI EMMANUELLagos, NİJERYA (+234 803 296 0528) Mayıs 
+2013
+TİCARET PLATFORMUNDAKİ TEKNİK GÖSTERGELER
+Tüm forex işlem istasyonları, işlem platformlarında, işlem istasyonlarının veya platformların yatırımcılar için 
+kolay kullanılabilmesini sağlamak ve ayrıca platformu yatırımcılar için kullanışlı hale getirmek için aşağıdaki 
+araçlara sahiptir.
+İşlem platformundaki araçlar arasında şunlar yer almaktadır: Açılır kutular; Dosya, Görünüm, Ekle, 
+Grafikler, Araçlar, Pencere ve Yardım.
+İşlem platformlarındaki ikonlar şunlardır; Yeni grafik, Profil, Piyasa İzleme, Veri Penceresi, 
+Gezgin, Terminal, Strateji Test Cihazı, Yeni Emir, Meta Editör, Uzman Danışmanlar, Grafikler 
+(Çubuk grafik, Mum grafik, Çizgi grafik), Yakınlaştırma, Uzaklaştırma, Otomatik Kaydırma, Grafik 
+Kaydırma, Göstergeler, Dönemler, Şablonlar, İşlem Zaman Çerçevesi, İmleç, Artı işareti, Dikey 
+çizgi, Yatay çizgi trend çizgisi, Eş mesafeli kanal ve Fibonacci Geri Çekilmesi.
+Ayrıca, işlem platformunun yüzeyinde göreceğiniz şeyler şunlardır: Yatay seviyede 
+Piyasa Zamanı; Dikey seviyede Fiyat ve platformun yüzeyinde işlem Grafiğiniz (yani 
+çubuk grafik, mum grafik, çizgi grafik) bulunur. Ancak, farklı işlem platformlarında 
+görebileceğiniz araçlar, İşlem İstasyonunun türüne ve abone olduğunuz Forex 
+Broker'ına bağlıdır. Mevcut işlem araçları bir broker'dan diğerine değişir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+FOREX PİYASASINDA TİCARETİN BİLEŞENLERİ
+Forex Piyasası üç ana bileşenden oluşur. Bu üç bileşenin veri analizi, tüm 
+dünyadaki forex yatırımcılarının FX piyasasında pozisyon almak için izlediği 
+piyasa grafiği olarak işlem platformunuz tarafından tasvir edilir.
+Forex Piyasası Bileşenleri: Fiyat, Zaman ve Hacimdir. Bu üç piyasa verisi, ticaret 
+platformunun ticaret platformunda grafik deseni olarak işlediği ve gösterdiği verilerdir. 
+İzlediğiniz her ticaret platformunda, tek görünür bileşenler şunlardır: fiyat seviyesi ve 
+yatay seviyedeki piyasa zamanı. Ancak, piyasa hacmi ticaret platformunuzdaki grafik 
+deseninde gösterilir. Başka bir deyişle, piyasa hacmi, ticaret istasyonunuzda oluşturulan 
+grafiğin doğasını ve desenini belirler. Hacmin piyasayı yönlendirdiğini ve ayrıca piyasa 
+grafik deseninin oluşumunu belirlediğini unutmayın.
+Bu nedenle, iyi bir forex piyasası yatırımcısı bu grafik desenlerini okuyabilmeli ve piyasa 
+hacmini çıkarabilmelidir. Ayrıca, iyi bir yatırımcı piyasayı neyin hareket ettirdiğini ve hareket 
+eden kuvvetin ayak izlerini nasıl okuyacağını anlamalıdır. Forex piyasası yatırımcıları, piyasa 
+hareketinin mantığına karşı altta yatan olayın mantığını anlamalıdır.
+Söylemeye gerek yok ki, forex piyasası hareketlerini işlem platformunuzda gösterildiği gibi 
+nasıl analiz edip yorumlayacağınıza dair Bilgi, piyasa hareketinin ve hareket eden kuvvetin 
+ayak izlerinin anlaşılmasını ve altta yatan olayın mantığını ve piyasa hareketinin mantığını 
+parmaklarınızın ucuna getirecektir. Bir işlem platformu şöyle görünür.
+Şekil 1
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+İşlem Platformu: ve Piyasa Fiyatı, Zaman ve Hacmin Etkileşimi.
+Ticaret platformunda gördüğünüz şey, forex piyasasında gerçekleşen piyasa fiyatı, piyasa 
+zamanı ve işlem hacmi arasındaki etkileşimdir. Forex piyasası verilerini ayrıntılı olarak analiz 
+etmeden önce, forex yatırımcılarının FX piyasasında işlem yapmak için en iyi forex piyasası 
+göstergesinin üç piyasa verisini yakalayabilen gösterge(ler) olduğunu bilmeleri çok 
+önemlidir. Yani: fiyat, zaman ve hacim.
+ZAMAN ANALİZİ
+Tokyo seansı 19:00'da açılıp 04:00 EST'de kapanıyor, Londra seansı 03:00'te açılıp 12:00 
+EST'de kapanıyor ve New York seansı 08:00'de açılıp 17:00 EST'de kapanıyor gibi çeşitli 
+piyasa işlem seansları durumunda olduğu gibi forex piyasası işlem saatinin yanı sıra. 
+Forex piyasası yatırımcıları, zamanın işlem platformları üzerindeki önemli etkisini analiz 
+edebilmeli ve çıkarımlarda bulunabilmelidir. İyi bir forex yatırımcısı, Çoklu Zaman 
+Çerçevesi analizinin ardındaki mantığı anlamalıdır.
+İşlem faaliyetlerinizde kullandığınız işlem platformunun türüne bağlı olarak, tüm 
+işlem platformlarında farklı zaman dilimleri (işlem platformları) belirtilir. Bu işlem 
+platformlarının farklı zaman dilimleri için zaman dilimleri vardır. Bazılarının zaman 
+dilimleri 1 Dakika, 5 Dakika, 15 Dakika, 30 Dakika, 1 Saat, 4 Saat, 1 Gün, 1 Haftadan 1 
+Aya kadardır. Diğer işlem platformlarının zaman dilimleri 5 Dakika,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+10 Dakika, 15 Dakika, 1 Saat, 4 Saat, 1 Gün, 1 Hafta ila 1 Ay. Diğer platformların 
+zaman çerçeveleri 1 Dakikadan 1 Yıla kadardır.
+Ticaret Platformu Zaman Çerçevelerinin Özellikleri
+Forex yatırımcısının anlaması gereken şey, belirli bir çerçevede (örneğin 15 Dakikalık zaman 
+dilimi) belirtilen zamanın, söz konusu zaman diliminde bir işlem eylemini tamamlamak için 
+gereken zaman süresi olduğudur. Piyasa eylemi, platformda görüntülenen grafik desenleri 
+biçiminde gösterilir. İşlem platformlarının şu tür grafikleri vardır: Çubuk grafik, Mum çubuğu 
+grafiği ve Çizgi grafik. Bir yatırımcının işleminde kullandığı grafik, yatırımcının seçimine ve 
+yatırımcının işlem stiliyle ilgili olarak rahat ettiği şeye bağlıdır. Ancak, çalışması ve analiz 
+etmesi kolay olduğu için Mum çubuğu grafiğini kullanmanız önerilir. Tüm piyasa 
+göstergeleri arasında, mum çubuğu piyasa parametrelerini açıkça gösteren tek göstergedir. 
+Bu parametreler şunları içerir: Açılış fiyatı, En yüksek fiyat, En düşük fiyat ve Kapanış fiyatı. 
+Bu kitapta kullanılan işlem grafiği (elinizde) Mum Çubuğu Grafiğidir ve işlem platformunda 
+mum çubuğu grafik desenlerini görürsünüz.
+Zaman Çerçevesi ve Mum Formasyonu Arasındaki Bağlantılar
+Bir tüccarın seçtiği işlem platformu zaman dilimi ile bu zaman dilimindeki mum 
+çubuklarının oluşumu arasında bir bağlantı vardır. Belirli bir zaman diliminde belirtilen 
+zamanın, o işlem platformu zaman diliminde bir mum çubuğunun oluşumunu tamamlamak 
+için gereken zaman süresi olduğunu bilmek önemlidir. Başka bir deyişle,
+1 Dakikalık zaman diliminde bir mum çubuğunun oluşumunun tamamlanması 1 dakika 
+sürerken, 30 Dakikalık zaman diliminde bir mum çubuğunun oluşumunun tamamlanması 30 
+dakika sürecektir.
+Benzer şekilde, 1 saatlik zaman diliminde bir mum çubuğunun oluşumunu tamamlamak 1 saat 
+sürerken, 1 aylık zaman diliminde bir mum çubuğunun oluşumunu tamamlamak bir ay 
+sürecektir. 1 günlük, 1 haftalık ve 1 aylık işlem zaman dilimlerine her atıfta bulunulduğunda, 
+vurgunun ilgili işlem günlerine yapıldığını unutmayın. 1 günlük zaman dilimi için 24 saatte 
+tamamlandığını, 1 haftalık zaman dilimi için 5 günlük işlem faaliyeti olduğunu ve 1 aylık zaman 
+dilimi için 24 veya 26 günlük işlem faaliyeti olduğunu görürsünüz. İşlem günlerindeki değişiklik, 
+farklı forex işlem seanslarının işlem sürelerindeki değişiklikten kaynaklanmaktadır. Yani, Tokyo 
+işlem seansının uzun işlem günlerine sahip gibi görünmesinin nedeni, Pazar günleri açılan ve 
+Cuma günleri kapanan ilk piyasa seansı olmasıdır. Burada farklı zaman dilimlerinin örnekleri 
+var.
+Şekil 2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Mum grafiği ile 5 Dakikalık Zaman Dilimi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Şekil 3. Mum grafikli 30 Dakikalık Zaman Dilimi İşlem 
+Platformu ve Zaman Çerçevesi Nasıl Görüntülenir
+Ticaret platformunu farklı zaman dilimlerine göre görüntüleme yeteneğiniz, forex piyasasındaki 
+diğer yatırımcılara göre size bir avantaj sağlayacaktır. Bir yatırımcı olarak, forex piyasasında 
+gerçekleşen ticaret eylemlerini ticaret platformunuzda nasıl görüntüleyeceğinizi bilmeniz çok 
+önemlidir, çünkü bu piyasada iyi bir pozisyon almanıza yardımcı olacaktır. İyi bir piyasa 
+pozisyonunun, bir yatırımcı olarak riskinizi azalttığı ve uzun pozisyon yatırımcısı veya kısa pozisyon 
+yatırımcısı olarak kar şansınızı artırdığı bir gerçektir.
+Farklı zaman dilimleri ile mum formasyonu arasındaki bağlantıyı gördünüz. Aynı 
+şekilde, işlem platformu ile zaman dilimi arasında da bir bağlantı vardır. İşlem 
+platformu ile zaman dilimi arasındaki bağlantı, grafik deseninin ardındaki 
+mantık ve forex piyasası hareketinin altında yatan mantıktır.
+Bazı işlem platformları, işlem yaptığınız zaman diliminden bağımsız olarak, platformlarda 
+görünecek mum sayısı açısından yatırımcının platformu ayarlamasına izin verir (bir yatırımcı 
+olarak). Bir yatırımcı
+ticaret platformunun yüzeyi olan ticaret istasyonunun tam ekranında, ticaret platformunun 
+bir ucundan diğerine yaklaşık 150 mum çubuğu bulundurmayı göze alabilir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+platformun diğer ucu. Ancak, işlem platformunuzda görüntülenen mum sayısı ne 
+olursa olsun, mumun her bir çubuğunun görüntülendiği zaman dilimini temsil 
+ettiğini unutmayın. Ve zaman dilimi, o belirli zaman diliminde her mumun 
+oluşması için gereken zaman süresini temsil eder.
+İşlem Saatleri ve İşlem Günleri
+Forex piyasası faaliyetlerini işlem platformunuzun bir aylık (1Ay) zaman diliminde 
+görüntülediğinizde veya izlediğinizde ve aynı işlem platformunda görüntülenen 150 
+mum çubuğunuz (yüz elli mum çubuğu) varsa, 12 yıllık forex piyasası işlem 
+faaliyetlerine bakıyorsunuz. Nasıl, diye sormak isteyebilirsiniz? Düşündüğünüzde, 12 
+ay bir yıl yapar ve burada her biri bir (1) ayı temsil eden 150 mum çubuğunuz var. 
+Yani, 12 yerde 12 ay paketiniz (1 yıl) var veya daha iyisi, 150'yi 12'ye böldüğünüzde 
+12,5'e eşit oluyor (150/12 = 12,5). {12 x 12 = 144}. Özetle, 1 Aylık zaman dilimi Forex 
+piyasasında 12 yıllık işlem eylemlerini temsil eder. Büyük piyasa dalgaları ve büyük 
+piyasa hareketleri diyebilirsiniz.
+Ayrıca, bir haftalık (1 Hafta) zaman dilimi, 3 yıllık forex piyasası faaliyetlerini temsil 
+eder. Nasıl, 52 hafta bir yıl yapar ve 150 mum çubuğu, 3 yerde 52 haftalık paket 
+anlamına gelir ve yaklaşık 156 mum çubuğu verir (150/52 = 2,88). Başka bir deyişle, 1 
+Hafta zaman dilimi, forex piyasasında 3 yıllık işlem eylemlerini temsil eder.
+Benzer şekilde, 1 Gün (bir gün) zaman dilimi forex piyasasında 6 aylık işlem faaliyetlerini 
+temsil eder. İşlem platformunuzun yüzeyinde (bilgisayarınızın Görsel Görüntüleme Birimi) 
+150 mum çubuğu olduğunu unutmayın. Bir mum çubuğu formasyonu forex piyasasında 24 
+saatlik (bir gün) işlem faaliyetlerini temsil eder. Ayrıca, 30 günün 1 ay ettiğini unutmayın. 
+(Forex piyasasında bir aylık işlem eylemleri yapmak için 24 ila 26 günlük işlem faaliyetleriniz 
+vardır). Başka bir deyişle, 150 güne bölünen 25 gün 6'ya (ay) eşittir.
+4Hours zaman dilimi bir aylık işlem faaliyetlerini temsil eder. Önceki analiz ışığında 
+değerlendirildiğinde, bilgisayarınızdaki işlem platformunda (VDU) 150 mum çubuğu var, bu 
+mum oluşumlarının her biri forex piyasasında dört saatlik işlem hareketini temsil eder. 4 saatlik 
+mumlardan 6'sının bir günlük işlem hareketine eşit olduğunu unutmayın (söylemeye gerek yok, 
+her 6 mum çubuğu FX piyasasında bir günü ifade eder). Şimdi, 150'yi 6'ya böldüğünüzde 25 
+(gün) (150/6 = 25) elde edersiniz. Ve 25 gün bir aylık işlem hareketine eşittir.
+1 Saatlik zaman dilimi, forex piyasasında bir haftalık işlem faaliyetlerini temsil eder. 1 saatlik mum 
+çubuğunun 24'ünün forex piyasasında bir günlük işlem eylemine eşit olduğunu unutmayın. Bu 
+nedenle, 150'yi 24'e böldüğünüzde 6,25 (gün) (150/24 = 6,25) elde edersiniz, bu
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+yaklaşık olarak forex piyasasında 6 günlük veya bir haftalık işlem faaliyetine eşittir.
+30 Dakikalık zaman dilimi, forex piyasasındaki 3 günlük işlem eylemlerini temsil eder. 30 dakikalık 
+mumların 48'inin forex piyasasında bir günlük işlem eylemine eşit olduğunu unutmayın. Bu nedenle, 
+150 günü 48'e böldüğünüzde 3,125 (150/48 = 3,125) veya 3 günlük işlem eylemi elde edersiniz.
+15 Dakikalık zaman dilimi, forex piyasasında 1 günlük veya bir günlük işlem eylemlerini temsil eder. 15 
+dakikalık mum çubuğunun 96'sı bir güne eşittir. Bu nedenle, 150 günü 96'ya böldüğünüzde 1,56'ya eşit 
+olur (150/96 = 1,56). Bu, yaklaşık olarak bir günlük işlem eylemidir.
+5Minutes zaman dilimi, forex piyasasında 12 saatlik işlem faaliyetlerini temsil eder. 5 
+dakikalık mumların 288'inin bir güne eşit olduğunu unutmayın. Bu nedenle, 
+(150x24x60 = 216000) bölü 288, 750/60 = 12,5'e eşittir, (750/60 = 12,5 saat).
+Zaman Analizinin Özeti
+Yukarıda belirtilenlerden, 1 Aylık zaman dilimi veya Aylık Grafik 12 yıllık ticareti temsil 
+eder; 1 Haftalık zaman dilimi veya Haftalık Grafik ise şunları temsil eder:
+3 yıllık işlem; 1 Günlük zaman dilimi veya Günlük Grafik 6 aylık işlemi temsil eder; 4 Saatlik zaman 
+dilimi veya 4 Saatlik Grafik 1 aylık işlemi temsil eder; 1 Saatlik zaman dilimi veya 1 Saatlik Grafik 1 
+haftalık işlemi temsil eder;
+30 Dakikalık zaman dilimi veya 30 Dakikalık Grafik 3 günlük ticareti temsil eder; 15 Dakikalık 
+zaman dilimi veya 15 Dakikalık Grafik 1 günlük ticareti temsil eder; ve 5 Dakikalık zaman dilimi 
+veya 5 Dakikalık 12 saatlik ticaret aktivitesini temsil eder. İyi bir forex yatırımcısı olarak Forex 
+Ticareti İşinde iyi bir giriş noktası ve çıkış noktası belirlemenizi sağlamak için hangi ticaret 
+grafiğini birleştireceğinizi bilmeniz için bu zaman analizinin bilgisine ihtiyacınız var. Dahası, 
+zaman analizi bilgisi Teori Çoklu Zaman Dilimi anlayışınızı artıracaktır.
+ÇOKLU ZAMAN ÇERÇEVESİ TEORİSİ
+Çoklu zaman dilimi teorisi, Forex piyasasında fiyat hareketini belirleyen kuvvete odaklanır. Evet, 
+forex piyasası söz konusu olduğunda hacmin piyasa fiyatını yönlendirdiği doğrudur. Ancak, 
+çoklu zaman dilimi teorisinin altında Grafik hareketini belirleyen kavram vardır. İşlem 
+platformunuzdaki grafiklere baktığınızda bazı grafiklerin daha büyük zaman dilimlerine sahip 
+olduğunu fark edeceksiniz, bu tür grafiklere örnek olarak şunlar verilebilir: Aylık, Haftalık ve 
+Günlük grafikler. Daha küçük zaman dilimi grafikleri ise şunlardır: 4 Saat, 1 Saat, 30 Dakika, 15 
+Dakika ve 5 Dakika Grafikleri.
+Çoklu zaman dilimi teorisi, daha büyük zaman diliminin,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+daha küçük zaman dilimi. Başka bir deyişle, büyük zaman dilimindeki forex 
+piyasasının hareket yönü, diğer daha küçük zaman dilimlerindeki piyasa 
+hareketinin yönünü belirler (yani büyük zaman dilimi küçük zaman dilimini 
+kontrol eder). Ancak, bu hareket ilgili zaman diliminde/Grafikte hemen görünür 
+olmayabilir. Tamamlanma süresi uzun olan grafikler, belirli grafikte bir mum 
+çubuğunun oluşumunu tamamlamak için daha uzun bir süre gerektiren 
+grafiklerdir, örneğin aylık, haftalık, günlük ve hatta 4 saatlik grafikler. Bu ayrıca 
+işlem gününe de bağlıdır.
+Aynı şekilde, daha yüksek zaman dilimindeki fiyat hareketi daha düşük zaman dilimindeki 
+fiyat hareketini kontrol eder. Piyasanın düz bir çizgide değil, çukuru ve zirveyi izleyen zikzak 
+bir şekilde hareket ettiğini bilmek çok önemlidir. Bu, dürtü ve düzeltme dalgalarının Elliot 
+dalgası hareketiyle uyumludur. Birleştirilecek en iyi grafikler şunlardır: (1.) Günlük grafik (2.) 
+4 Saatlik grafik (3.) 1 Saatlik grafik (4.) 15 Dakikalık grafik (5.) 5 Dakikalık grafik. Giriş 
+noktanızı belirlemek için 5 dakikalık grafiği kullanmalısınız.
+Çoklu Zaman Dilimi Örneği
+Şekil 4 Günlük grafik-Döviz çifti: NZD/USD
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Şekil 5 4 Saatlik Grafik-Para birimi çifti: NZD/
+USD FİYAT ANALİZİ
+Fiyat, işlem platformunuzun dikey ekseninde görüntülenir. Forex piyasasındaki 
+fiyat, dövizleri forex piyasasında işlem gören ülkelerin ekonomisinde geçerli olan 
+belirli faktörler tarafından belirlenir. Fiyat hareketi yalnızca iki şekilde olabilir; 
+bunlar fiyat hareketinin iki kategorisidir, yani yukarı doğru fiyat hareketi ve aşağı 
+doğru fiyat hareketi. Fiyat ya yükselir ya da düşer. Piyasa fiyatının hareket ettiği 
+yön, forex piyasasındaki geçerli güce bağlıdır. Forex piyasasındaki iki geçerli güç 
+Boğa piyasası ve Ayı piyasasıdır.
+Boğalar fiyatı yukarı çekmeyi amaçlarken, ayılar fiyatı her zaman aşağı çekmek 
+ister. Fiyat yönü açısından nasıl giderse gitsin, boğaların veya ayıların fiyatı 
+çekebileceği ölçüde bir sınır vardır. Boğalar, fiyat direnç seviyesine gelene kadar 
+fiyatı yukarı çekmeyi başarabilir ve fiyat otomatik olarak tersine döner ve ters 
+yönde hareket eder. Ayılar, fiyat destek seviyesine gelene kadar fiyatı aşağı 
+çekmeyi başarabilir ve fiyat otomatik olarak tersine döner ve ters yönde hareket 
+eder. Hem boğaların hem de ayıların her zaman boğalar durumunda ilk direnç 
+seviyesini ve ayılar durumunda ilk destek seviyesini aşmak istediğini bilmeniz çok 
+önemlidir. Bu nedenle, hem boğanın hem de ayının bu önemli eylemi, piyasa ÇIKIŞ 
+NOKTASI'nı belirlemek için kullanılmalıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Uzun pozisyonda (alım pozisyonu) iyi bir forex yatırımcısı çıkış noktasını direnç seviyesinin 
+altına, kısa pozisyonda (satış pozisyonu) iyi bir forex yatırımcısı ise çıkış noktasını destek 
+seviyesinin üstüne yerleştirmelidir.
+Fiyat Hareketinin Gizli Belirleyicisi
+Boğaların ve ayıların fiyatı yukarı veya aşağı doğru yönlendirme eğiliminde olan 
+görünür faaliyetlerinin yanı sıra, duruma göre fiyatı yukarı veya aşağı doğru 
+yönlendirme eğiliminde olan başka içsel ekonomik faktörler de vardır. Çoğu zaman, 
+faktörler doğası gereği ekonomiktir ve faktörler, dövizlerini işlem yaptığınız ülkelerin 
+(döviz çifti) ekonomisiyle ilgilidir. Bu faktörler, döviz piyasasına katılan yatırımcılara 
+her zaman yayınlanan önemli ekonomik verileri içerir. Bu veriler, ekonomik veriler 
+yayınlandığında piyasadaki fiyat hareketini etkiler.
+Diğer faktörler arasında işlem yaptığınız döviz çiftinin faiz oranı farkı, işlem 
+yaptığınız döviz çiftinin belirleme katsayısı, işlem yaptığınız döviz çiftinin 
+ekonomisinin GSYH'si, döviz çiftinin döviz paritesi ve bu döviz çiftinin faiz 
+oranı yer alır.
+Belirli bir para biriminin faiz oranı, belirli para birimini çıkaran ülkenin Merkez 
+Bankası tarafından belirlenir ve sabitlenir. Örneğin, ABD Federal Rezervi ABD 
+dolarının faiz oranını sabitler; Japonya Bankası Japon yeninin faiz oranını sabitlerken, 
+Avrupa Birliği Merkez Bankası Avrupa Birliği ülkelerinin para birimlerinin faiz oranını 
+sabitler.
+Forex Piyasasında para birimleri çiftler halinde işlem görür. Örneğin EUR/USD, USD/JPY, 
+GBP/USD vb. ve bir yatırımcı bir para biriminde uzun pozisyon aldığında, aynı yatırımcının 
+otomatik olarak çiftteki diğer para biriminde kısa pozisyon aldığını bilmek önemlidir. Başka 
+bir deyişle, bir yatırımcının GBP/USD çiftinde işlem yaptığını varsayalım, yatırımcı bu belirli 
+para birimi çiftinde uzun pozisyon (satın alma emri) alırsa, bu yatırımcının GBP'de uzun 
+pozisyon (satın alma pozisyonu) ve USD'de kısa pozisyon (satış pozisyonu) aldığı anlamına 
+gelir. Dolayısıyla, faiz oranı farkı, çifti oluşturan iki para biriminin faiz oranı arasındaki 
+farktır. Şimdi, çiftteki para birimlerinden birinin faiz oranı ikinci para biriminin faiz 
+oranından büyükse, bu durumda iki faiz oranı arasındaki farka faiz oranı farkı adını veririz. 
+Burada belirlenen gerçek, piyasa fiyatının daha yüksek faiz oranına sahip para birimi 
+yönünde hareket etmesidir.
+Gerçekleşen senaryo, bir tüccar en yüksek faiz oranına sahip dövizde uzun pozisyon 
+açtığında, tüccarın belirli döviz çiftinin faiz oranı farkını kazanması veya alması, aynı 
+döviz çiftinde kısa pozisyon açan diğer tüccarların ise faiz oranı farkını kaybetmesi 
+veya ödemesidir. Bu, takas veya swing ödemesi şeklinde olabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Belirli bir pozisyonu uzun vadeli veya kısa vadeli ticaret olarak tutma süresine bağlı 
+olarak. Bu nedenle, forex piyasasındaki yatırımcıların piyasa hakkındaki gerçeği 
+anlamaları önemlidir.
+Daha önce vurgulanan diğer tüm ekonomik veriler, para birimlerini işlem yaptığımız çeşitli 
+ülkelerin ekonomik meseleleri hakkında farklı Otoriteler tarafından yayınlanan istatistiksel 
+ekonomik veriler veya ekonomik raporlardır. Bu ekonomik raporlar yılın farklı zamanlarında 
+yayınlanır. Bazı ekonomik veri raporları aylık, üç aylık veya yıllık olarak yayınlanır ve 
+yatırımcılar her zaman bu veri raporlarına dikkat etmelidir çünkü rapor piyasaya aktarma ve 
+dolayısıyla piyasa (fiyat) hareketini etkileme yoluna sahiptir.
+HACİM ANALİZİ
+Forex piyasasındaki hacim doğru bir şekilde belirlenemez çünkü çevrimiçi forex ticareti, 
+dünya genelindeki tüm forex piyasası yatırımcılarının kişisel bilgisayar ve dizüstü bilgisayar 
+sistemlerinin birbirine bağlanmasını içerir. Ancak, forex piyasasının değeri, değeri 
+açısından belirlenebilir ve bunun 4 trilyon dolardan fazla olduğu söylenmektedir. Yani 
+forex piyasası, New York borsasından 4 kat daha büyüktür.
+Bununla birlikte, hacim piyasayı yönlendirir ve döviz piyasası söz konusu olduğunda, 
+piyasadaki hacim piyasa fiyatının değiştiği oran tarafından belirlenir. Başka bir deyişle, 
+bir para biriminin oynaklığı bir dereceye kadar piyasa hacmini makul bir dereceye kadar 
+belirler. Hacim ayrıca piyasadaki boğalar ve ayılar olan tüccar sayısı tarafından da 
+belirlenebilir. Boğalar (alım pozisyonu) hakim olduğunda ve piyasayı kontrol ettiğinde, 
+fiyat yükselir ve piyasa yukarı yönde hareket eder. Ancak ayılar (satış pozisyonu) hakim 
+olduğunda ve piyasayı kontrol ettiğinde, fiyat düşer ve piyasa aşağı yönde hareket eder. 
+Piyasa hacmini belirlemek için kullanılabilecek oldukça fazla teknik araç vardır. Bu teknik 
+araçlara teknik göstergeler denir ve piyasa hacmini belirlemek için uygulanabilecek 
+teknik göstergelere iyi örnekler şunlardır; Hareketli Ortalama Yakınsama Ayrışması 
+(MACD) göstergesi ve Göreceli Güç Endeksi (RSI) göstergesi.
+Piyasa Hacmini Belirlemek İçin Grafik Deseninin Nasıl Kullanılacağı
+Şimdi bu kitapta sunulan açıklamanın bağlamında hacmi ele aldığımızda, işlem 
+platformunuzda tüm forex piyasası faaliyetlerini görüntüleme yeteneğinizi geliştirmek için, 
+Hacim bu nedenle işlem platformunuzdaki işlem grafiğinin deseni tarafından tasvir edilir. 
+Başka bir deyişle, piyasanın Grafik Desenleri forex piyasasındaki işlem hacmi tarafından 
+oluşturulur. Benzer şekilde, Grafik Desenleri ayrıca piyasa işlem eylemlerini ve tüccarların 
+duygularını ifade eder. Tüccarların duyguları her ikisinin de davranışını belirler
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Forex piyasasında boğalar ve ayılar ve bu genel olarak Piyasa Psikolojisini ifade eder. Bu 
+nedenle, forex piyasasında hacmi görüntülemenin ve belirlemenin yolu, işlem 
+platformunuzdaki Grafik Deseni oluşumuna bakmaktır.
+Ayrıca, forex piyasasında bu Grafik Desenlerini net bir şekilde görüntülemenize ve 
+görmenize yardımcı olabilecek teknik göstergeler vardır. Bu tür teknik göstergelere 
+örnek olarak şunlar verilebilir: Harmonik Desen oluşumu, Elliot Dalga oluşumu ve 
+Fibonacci aracı (Fibonacci geri çekilme seviyeleri). Yukarıda belirtilen teknik analiz 
+araçları, işlem platformunuzda görüntülenen grafikteki farklı desen oluşumlarıdır. Bu 
+araçlar hakkında doğru bilgiye sahip olan ve desenlerin nasıl görüntülendiğini anlayan 
+forex yatırımcıları, aldıkları her işlemden maksimum kar elde etme şansına sahiptir ve bu 
+tür yatırımcıların piyasa riskine maruz kalmaları en düşük seviyeye indirilir. Bu araçların 
+bilgisi, forex piyasasında işlem yapma riskini en aza indirir. Bu teknik araçların forex 
+piyasasındaki en doğru teknik göstergeler olduğunu bilmek çok önemlidir.
+FOREX PİYASASI ANALİZİ
+Forex piyasasındaki yatırımından maksimum getiri elde etmek isteyen 
+herhangi bir forex yatırımcısı forex piyasasını nasıl analiz edeceğini bilmelidir. 
+Forex piyasasında günlük olarak gerçekleştirilen ticaret faaliyetleri, forex 
+piyasasındaki boğaların ve ayıların faaliyetleridir. Bu piyasa faaliyetleri, forex 
+piyasası verilerini oluşturan üç bileşene dayanır. Bu piyasa bileşenleri daha 
+önce açıklanmıştır (zaman, fiyat ve hacim). Forex piyasası analizi, bu üç piyasa 
+bileşeni ışığında gerçekleştirilir. Piyasa analizi ayrıca şu üç geniş kategoride 
+gerçekleştirilir: Temel analiz, Teknik analiz ve Duygu analizi (tüccarın 
+psikolojisi).
+Temel analiz
+Daha önce de belirtildiği gibi, temel analiz piyasa ekonomik raporlarıyla ilgilidir. 
+Ekonomik raporlar, döviz piyasasında işlem gören ülkelerin ekonomik otoriteleri 
+tarafından yayınlanan ekonomik verilerdir. Bu ekonomik raporlar, raporu yayınlanan 
+ülkenin ekonomisinde gerçekleşen politik ve sosyal ekonomik faaliyetlerin 
+sonucudur. Ve bu sosyal ekonomik faaliyetler arasında işsizlik oranı, ülke para 
+biriminin faiz oranı, gayri safi yurtiçi hasıla, tüketici fiyat endeksi, üretici fiyat endeksi, 
+politik durum, doğal afetler vb. yer alır. Yukarıda belirtilen tüm faktörler, döviz 
+piyasası faaliyetlerini etkileme ve dolayısıyla piyasa yönünde değişikliğe neden olma 
+yoluna sahiptir. Bir döviz tüccarının ekonomik raporu nasıl analiz edeceğini ve 
+yorumlayacağını bilmesi çok önemlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Duygu analizi
+Duygu, forex piyasasındaki yatırımcıların davranışıdır; ayrıca yatırımcının davranışının 
+piyasayı nasıl etkilediğiyle de ilgilidir. Boğalar ve ayılar gibi piyasa katılımcılarının piyasa 
+fiyatındaki değişikliklere yanıt verme yolları vardır. Boğalar fiyatın yukarı çıkmasını isterken, 
+ayılar fiyatın aşağı inmesini ister. Boğanın piyasaya karşı tutumu, fiyat düşükken satın almak 
+ve fiyat yüksekken satmaktır. Ancak ayının piyasaya karşı tutumu, fiyat yüksekken satmak ve 
+fiyat düşükken satın almaktır. Forex piyasasındaki hem boğaların hem de ayıların bu 
+tutumları piyasa fiyatını etkileme ve böylece piyasa yönünü belirleme yoluna sahiptir.
+Fiyat düşük olduğunda, bu, işlemin erken safhasında kısa (satış) pozisyonu alan ayıların kar elde 
+edip o noktada piyasadan çıktığı anlamına gelir. Bu fiyat seviyesinde boğalar piyasaya girer ve 
+uzun (alım) pozisyonu alır ve bunun sonucunda piyasa tersine döner ve yukarı doğru hareket 
+etmeye başlar, bir süre sonra hedeflerine ulaştıklarında kar elde edip piyasadan çıkarlar. 
+Dolayısıyla bu fiyatla birlikte otomatik olarak tersine döner ve aşağı doğru hareket etmeye 
+başlar ve döngü bu şekilde devam eder. Boğaların ve ayıların bu tutumlarına piyasa psikolojisi 
+denir.
+Teknik analiz
+Teknik analiz, forex piyasasında fiyat hareketini ve piyasa yönünü belirlemek için popüler olarak 
+teknik göstergeler olarak adlandırılan teknik araçların kullanılmasıdır. Tüm forex ticaret 
+platformları, bir forex yatırımcısının piyasada işlem yaparken kullanabileceği farklı teknik 
+göstergelere sahiptir. Bu göstergelerin, bunları kullanarak forex piyasasında işlem yapan 
+yatırımcılara sinyal vermenin çeşitli yolları vardır. Göstergeler, forex yatırımcısına piyasaya ne 
+zaman gireceğini ve forex piyasasından ne zaman çıkacağını işaret eder. Bu göstergelerin verdiği 
+sinyaller, piyasa katılımcısı arasındaki etkileşimi ifade eder, bu durumda boğalar ve ayılar. Duygu 
+analizi hakkında verilen açıklamadan, teknik göstergeler alıcı (boğalar) ve satıcı (ayılar) arasındaki 
+etkileşime dayalı olarak piyasa sinyali verme eğilimindedir. Forex piyasası fiyat döngüsünün 
+yukarı ve aşağı hareketine dayanarak, teknik göstergeler, piyasadaki destek ve direnç seviyesine 
+göre yatırımcıya forex piyasasına ne zaman girip ne zaman çıkacağına dair sinyaller verme 
+eğilimindedir.
+İki tür gösterge olduğunu bilmelisiniz, öncü göstergeler ve gecikmeli göstergeler. Öncü 
+göstergeler, gerçek piyasa hareketleri gerçekleşmeden önce işlem sinyallerini verir. 
+Örneğin, öncü göstergeler, fiyat hareketi en düşük destek seviyesine ulaşmadan önce 
+tüccara piyasaya alım pozisyonunda girmesini bildiren bir işlem sinyali verecektir. Öte 
+yandan, öncü göstergeler, fiyat hareketi en yüksek direnç seviyesine ulaşmadan önce 
+tüccara piyasaya satış pozisyonunda girmesini bildiren bir işlem sinyali verecektir. 
+Sinyalin gerçek piyasadan önce geldiğini fark edeceksiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Gerçek piyasa hareketi, fiyatın en düşük destek seviyesini test etmesi anlamında 
+gerçekleşir.
+Gecikmeli göstergeler gerçek piyasa hareketinin gerçekleştiğine dair ticari sinyallerini 
+verirken. Örneğin, gecikmeli gösterge, bir tüccarın piyasaya alım pozisyonunda girmesi 
+durumunda, fiyat hareketi en düşük destek seviyesine ulaştıktan sonra tüccara alım 
+pozisyonunda piyasaya girmesini bildiren bir ticari sinyal verecektir. Tersine, gecikmeli 
+gösterge, bir satış pozisyonu durumunda, fiyat hareketi en yüksek direnç seviyesine 
+ulaştıktan sonra tüccara satış pozisyonunda piyasaya girmesini bildiren bir ticari sinyal 
+verecektir. Sinyalin gerçek piyasa hareketi gerçekleştikten sonra geldiğini fark edeceksiniz.
+FOREX PİYASASINDA TİCARET YAPMAK İÇİN EN İYİ GÖSTERGE
+Forex piyasasında işlem yapmak için kullanılabilecek birçok gösterge vardır. Bu göstergeler, 
+forex piyasası verilerini tüm forex yatırımcılarının forex piyasasında işlem yaparken 
+kullandığı yararlı bilgilere dönüştüren basit istatistiksel modellerdir. Bu yararlı bilgiler, forex 
+piyasasındaki faaliyetlerin istatistiksel bir sunumudur. Teknik göstergeler olarak adlandırılan 
+bu istatistiksel modellerin sunumudur. Tüm forex piyasası göstergeleri, forex piyasası 
+verilerini oluşturan bileşenlerden ikisini veya üçünü (zaman, fiyat ve hacim) yakalar. Forex 
+piyasası göstergelerinden bazıları şunlardır; Hareketli Ortalama Yakınsama Ayrışması 
+(MACD), Göreceli Güç Endeksi (RSI), Stokastik osilatör, Basit Hareketli Ortalama (SMA), 
+Bollinger Bandı, Fibonacci geri çekilme seviyeleri, vb.
+Göstergelerin çoğu forex piyasasının zaman ve fiyat verisi bileşenini yakalarken, bazıları 
+forex piyasasındaki işlem fiyatını ve hacmini yakalar. Diğer göstergeler zaman ve hacmi 
+yakalar. Zaman, fiyat ve hacim olmak üzere üç piyasa bileşenini yakalayan göstergeyi 
+görmek için geriye doğru gidiyoruz. Ancak, en iyi forex piyasası göstergesi(leri), FX 
+piyasasının üç piyasa verisi bileşenini yakalayıp birleştirebilen göstergedir. Üç piyasa verisini 
+başarılı bir şekilde birleştirebilen herhangi bir gösterge, forex piyasasında işlem yapmak için 
+en iyi göstergedir.
+Forex piyasasında bugün itibariyle, istatistik modeli fiyat, zaman ve hacim olmak üzere üç forex 
+piyasası verisini birleştirebilen bilinen tek bir gösterge yoktur. Üç piyasa bileşenini birleştirme 
+yeteneğine sahip gibi görünen göstergeler her zaman piyasa grafiğinde görüntülenir. Bunun 
+nedeni nedir? Bunun nedeni, piyasa bileşenlerinden biri olan hacmin en iyi şekilde Grafik deseni 
+tarafından görüntülenmesi ve gösterilmesidir. Dolayısıyla, işlem platformunuzdaki grafik deseni 
+oluşumu, o anda piyasadaki yatırımcıların tutumunu gösterir ve karşılığında yatırımcıya piyasa 
+hacmi hakkında fikir verir. Bu nedenle, forex piyasası hacmi en iyi şekilde grafikte görüntülenen 
+işlem deseni tarafından belirlenir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+En iyi forex piyasası göstergeleri, belirli bir işlem zamanında piyasa fiyatını, zamanı ve piyasa 
+hacmini birleştiren göstergelerdir. Bu tür göstergeler arasında Elliot dalga analizi, Harmonik 
+desen oluşumu ve Fibonacci geri çekilme seviyeleri bulunur. Ancak, bir forex piyasası tüccarı 
+olarak, hiçbir tek (bir) göstergenin forex piyasasında başarılı bir şekilde işlem yapmadığını 
+bilmek çok önemlidir. Başka bir deyişle, tek bir gösterge tek başına en iyi işlem sinyalini 
+veremez, dolayısıyla iki veya daha fazla teknik göstergeyi birleştirme ihtiyacı vardır. Üç piyasa 
+bileşenini (fiyat, zaman ve hacim) başarıyla yakalayabilen daha teknik göstergelerin birleşimi 
+daha güvenilir işlem sinyalleri verir. Birden fazla teknik göstergenin birleşimi forex 
+piyasasında bir sistem olarak adlandırılır. Bu nedenle, her iyi forex tüccarının forex 
+piyasasında işlem yaparken kullandığı bir sistem vardır. Yani bir tüccarın güvenilir işlem 
+sinyalleri veren bir işlem sistemine sahip olması gerekir.
+En İyi Forex Ticaret Sistemi
+Ticaret sistemi, bir forex yatırımcısına güvenilir bir ticaret sinyali veren birden fazla teknik 
+göstergenin birleşimidir. Sinyaller, ticaret sistemi tarafından iletilen ve forex yatırımcısına 
+forex piyasasına nereden girip nereden çıkacağını söyleyen bilgilerdir. Bu nedenle, en iyi 
+forex ticaret sistemi, üç piyasa verisini yakalayan iyi teknik göstergelerin birleşimine sahip 
+sistemdir. Bir ticaret sisteminin ticaret sinyalleri, bu tür bir ticaret sistemini oluşturan tüm 
+göstergeler aynı anda ilgili ticaret sinyallerini verdiğinde oluşur. Bir forex yatırımcısının 
+ticaret sistemini bir ticaret stratejisiyle birleştirmesi iyidir. Bu durumda ticaret stratejisi, forex 
+yatırımcısına ticaret sistemini forex piyasasında nasıl uygulayacağını bildirir. Ticaret stratejisi, 
+forex yatırımcısının ticaret sistemini forex piyasasına nasıl uygulayacağı konusunda sahip 
+olduğu anlayıştır. Ticaret stratejisi, yatırımcıya hangi piyasada ticaret yapacağını ve hangi 
+piyasadan kaçınacağını bildirir. Ayrıca yatırımcıya bir ticaret pozisyonuna nasıl girip 
+çıkacağını da bildirir.
+Forex Piyasası Koşulları
+Forex piyasasında iki tür piyasa vardır:trend pazarvedalgalı pazar. Trend piyasa, 
+piyasa hareketinin (yukarı veya aşağı) açıkça görülebildiği piyasa türüdür. Dalgalı 
+piyasa ise piyasa hareketinin açıkça görülemediği, yani piyasanın belirli bir 
+yönünün olmadığı piyasa türüdür (piyasa hareketi aralıkta veya 
+konsolidasyondadır). Bir tüccarın iyi bir işlem stratejisi olduğunda, tüccar bu piyasa 
+durumlarının her birine kendi işlem sistemiyle nasıl yaklaşacağını anlayacaktır.
+Aralık piyasası durumu, fiyat bir kanalda hareket ettiğinde ortaya çıkar ve konsolidasyon, 
+piyasa fiyatı dar bir yolda hareket ettiğinde ortaya çıkar. İyi bir forex yatırımcısı olarak,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Bu piyasa koşullarının bilgisine sahip olun. Bunlar, yukarı yönlü trend hareketi 
+ve aşağı yönlü trend hareketinden oluşan trend piyasa koşullarıdır; ve aralık 
+hareketi ve konsolidasyondan (konsolidasyon fiyat hareketi) oluşan dalgalı 
+piyasa koşullarıdır.
+Şekil 6 Bu Grafik hem Yükseliş trendi hem de Düşüş trendi hareketlerinin bir örneğidir
+Şekil 7 Aşağıdaki grafik, bir aralık piyasası hareketinin bir örneğidir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Aralık piyasasının fiyatı bir aralıkta hareket eder, yani piyasa fiyatı yatay bir kanalda 
+hareket eder. Bu tür hareket yukarıdaki grafikte görülebilir.
+Şekil 8 Konsolidasyon Fiyat hareketi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Bu grafik, konsolide fiyat hareketinin bir örneğidir. Fiyat dar bir yolda hareket etme 
+eğilimindedir. Bu fiyat deseni çoğunlukla üçgen bir şekil alır.
+FOREX TİCARET SİMÜLATÖRÜ
+Forex piyasasında işlem yapmanın en iyi yolunun bir işlem sistemi kullanmak olduğu bilinen bir gerçektir. 
+Forex yatırımcı simülatörü (FTS), forex yatırımcılarının forex piyasasındaki yatırımlarından elde ettikleri 
+getiriyi maksimize etmelerine yardımcı olmak için geliştirilmiş bir işlem sistemidir. Bu işlem sistemi 
+yalnızca bu kitaba erişimi olan yatırımcılar için mevcuttur ve bu kitapta belirlenen pozisyona 
+dayanmaktadır ve bu, bir forex yatırımcısı olarak sizin işlem platformunuzdaki piyasa grafiğinde 
+gösterildiği gibi forex piyasası faaliyetlerini görmenize ve iyi bir bakış açısına sahip olmanıza yardımcı 
+olmaktır.
+İyi Bir Ticaret Sistemi Nasıl Belirlenir
+Tüm iyi ticaret sistemlerinin forex ticareti işindeki yatırımcılar için şu üç şeyi yaptığını 
+bilmek çok önemlidir:
+# İyi işlem sistemleri, döviz piyasasında işlem yaparken tutarlı bir şekilde çalışan giriş 
+stratejilerine sahiptir.
+# İyi işlem sistemleri, döviz piyasasında işlem yaparken tutarlı bir şekilde çalışan çıkış 
+stratejilerine sahiptir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+# İyi işlem sistemleri, yatırımcıları riske maruz kalmaktan koruyabilen koruyucu stratejilere 
+sahiptir ve bu strateji, forex piyasasında işlem yaparken tutarlı bir şekilde çalışır.
+Forex Trader's Simulator'ın Bileşenleri
+Forex yatırımcı simülatörü (FTS), forex piyasasında işlem yapmak için uygulandığında 
+tutarlı bir şekilde çalışan, çok kullanıcı dostu giriş, çıkış ve koruyucu stratejilere sahip iyi 
+bir işlem sistemidir. Forex yatırımcı simülatörü, hem forex piyasası grafik desen 
+oluşumunun hem de bazı teknik göstergelerin birleşimidir. Grafik Desen Oluşumu 
+göstergeleri şunları içerir; Elliot dalgaları deseni, Harmonik desen ve Fibonacci geri 
+çekilme seviyeleri ve sistemi oluşturan diğer teknik göstergeler arasında MACD, 
+Stokastik osilatör, Bollinger Bandı ve Basit Hareketli Ortalama bulunur. İşlem platformu 
+grafiği mum çubuğu grafiği olsa da, mum çubuğu grafiği, yatırımcıya yüksek düzeyde 
+piyasa bilgisi iletme ve forex piyasasındaki diğer piyasa yatırımcılarının davranışlarını 
+yansıtma ve ortaya çıkarma yeteneği nedeniyle seçilmiştir.
+FTS göstergelerinin özellikleri
+Şamdan:Mum çubuğu göstergesi, forex piyasasında belirli bir zaman diliminde 
+gerçekleşen işlem faaliyetlerinin özetini iletme yeteneği nedeniyle benzersizdir. 
+Yatırımcıya piyasa Açılış fiyatı, En yüksek fiyat, En düşük fiyat ve Kapanış fiyatı hakkında 
+bilgi verir. Mum çubuğu göstergesi ayrıca yatırımcıların forex piyasasındaki duygularını 
+ortaya çıkarma yeteneğine sahiptir. Bunu, her bir çubuğun gösterdiği farklı mum 
+formasyonu ile yapar. Mum çubuğu formasyonları arasında dikkat çekenler şunlardır:
+Beyaz Marubozu mum – boğaların piyasaya hakim olduğunu gösterir;Siyah Marubozu
+mum – ayıların piyasaya hakim olduğunu gösterirken,Dojimum – ne boğaların ne de 
+ayıların piyasayı kontrol etmediği anlamına gelir,Çekiç–boğaların piyasayı ayılardan 
+kontrol altına aldığı anlamına geliyorTers Çekiç–ayıların piyasayı boğalardan ele geçirdiği 
+anlamına geliyor.
+Piyasa Sinyalini Belirlemek İçin Mum Çubukları Nasıl Kullanılır
+* Satın Alma Sinyali:Çekiç veya doji mumları aşağı yönlü bir trendin en düşük seviyesinde göründüğünde 
+bu bir satın alma sinyali verir. Başka bir deyişle, forex yatırımcısı uzun pozisyon alacaktır, yani piyasada bir 
+satın alma pozisyonu alacaktır.
+* Satış Sinyali:Ters çekiç veya doji mumları yukarı yönlü bir trendin en yüksek seviyesinde 
+göründüğünde bir satış sinyali verir. Bu, forex yatırımcısının kısa pozisyon açması, yani 
+yatırımcının piyasaya satış pozisyonuyla girmesi anlamına gelir. Mum göstergeleri ekte ayrıntılı 
+olarak açıklanacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Hareketli Ortalama Yakınsama Ayrışma:MACD, Histogram şekli, sinyal çizgileri ve Merkez 
+çizgisi ile dikkat çekicidir. MACD histogram şekli merkez çizgisinin altında oluştuğunda, 
+trendin yukarı doğru hareket ettiğini gösterir ve histogram şekli merkez çizgisinin üzerinde 
+hareket ettiğinde, trendin aşağı doğru hareket ettiğini gösterir. Benzer şekilde, sinyal çizgileri 
+merkez çizgisinin üzerinde birbirini kestiğinde, yukarı doğru trendin tersine döndüğünü 
+gösterir ve sinyal çizgileri merkez çizgisinin altında birbirini kestiğinde, aşağı doğru trendin 
+tersine döndüğünü gösterir. Öte yandan, MACD göstergesi Yakınsama ve Ayrışma ticaret 
+sinyalleri adı verilen iki önemli piyasa sinyali verir.
+MACD Ayrışması:Bu, fiyat daha yüksek bir yüksek kaydederken ve MACD sinyal çizgisi 
+daha düşük bir düşük hareket kaydederken meydana gelir. Sinyal çizgisi oluşumu 
+merkez çizgisinin üzerindeyse sapma koşulu daha etkilidir.
+MACD Yakınsaması:Bu, fiyat daha düşük dipler kaydederken ve MACD sinyal çizgisi daha 
+yüksek bir yüksek hareket kaydederken meydana gelir. Sinyal çizgisi oluşumu merkez 
+çizgisinin altındaysa yakınsama koşulu daha etkilidir.
+Piyasa Sinyalini Belirlemek İçin MACD Nasıl Kullanılır
+* Satın Alma Sinyali:Orta çizginin altındaki histogram şekli en derin minimum seviyesinde olduğunda ve 
+sinyal çizgileri orta çizginin altında birbirini kestiğinde, MACD göstergesi bir satın alma emri sinyali verir. Bu, 
+forex yatırımcısının uzun pozisyon alması gerektiği anlamına gelir (bir satın alma pozisyonu al). MACD 
+Yakınsaması da bir satın alma emri sinyali verir.
+* Satış Sinyali:Orta çizginin üstündeki histogram şekli en yüksek maksimum seviyesinde 
+olduğunda ve sinyal çizgileri orta çizginin üstünde birbirini kestiğinde, MACD göstergesi bir satış 
+emri sinyali verir. Bu, forex yatırımcısının kısa pozisyon alması gerektiği anlamına gelir (bir satış 
+pozisyonu al). MACD Ayrışması da bir satış emri sinyali verir.
+Stokastik Osilatör:Stokastik Osilatör bir öncü göstergedir. 0 ile 100 aralığı ile 30 ile 
+70 kontrol aralığı arasında salınım yapar. Stokastik sinyal çizgileri 70 çizgi seviyesinin 
+üzerine çıktığında aşırı satın alma (bölge) sinyali verir ve stokastik sinyal çizgileri 30 
+çizgi seviyesinin altına geçtiğinde aşırı satış (bölge) sinyali verir. Stokastik Osilatör 
+göstergesinin iki sinyal çizgisi vardır, yavaş çizgi ve hızlı çizgi. Yani hızlı sinyal çizgisi 
+yavaş sinyal çizgisinin üzerine çıktığında piyasa trendi yukarı yönde hareket eder ve 
+hızlı sinyal çizgisi yavaş sinyal çizgisinin altına geçtiğinde trend düşer.
+Piyasa Sinyalini Belirlemek İçin Stokastik Osilatör Nasıl Kullanılır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+* Satın Alma Sinyali:Hızlı sinyal çizgisi, aşırı satım bölgesinin (30 yatay çizgi seviyesi) altındaki 
+yavaş sinyal çizgisini geçtiğinde, bir satın alma emri sinyali verir.
+* Satış Sinyali:Hızlı sinyal çizgisi, aşırı alım bölgesinin (70 yatay çizgi seviyesi) 
+üzerindeki yavaş sinyal çizgisini geçtiğinde satış emri sinyali verir.
+Basit Hareketli Ortalama(SMA):Basit hareketli ortalama göstergeleri, 50 işlem 
+dönemi, 100 işlem dönemi veya 200 işlem dönemi gibi bir zaman dilimi boyunca piyasa 
+kapanış fiyatının ortalamasıdır. SMA göstergesi, fiyatla etkileşimine veya diğer hareketli 
+ortalamalarla etkileşimine dayanarak işlem sinyali verir. Tek çizgi SMA kullanıldığında, 
+piyasa sinyali, SMA çizgisi fiyat seviyesinin altına hareket ettiğinde piyasa trendinin 
+yükseldiği ve SMA çizgisi fiyat seviyesini geçip üzerine hareket ettiğinde piyasa trendinin 
+düştüğü şekildedir.
+Birden fazla basit hareketli ortalama kullanıldığında, piyasa sinyali kısa dönem SMA 
+çizgisi ile uzun dönem SMA çizgisi arasındaki etkileşime dayanır. Bu nedenle, işlem 
+sinyali Basit Hareketli Ortalama çizgilerinin kesişmesine dayanır.
+* Alım Sinyali:Kısa dönemli hareketli ortalamanın uzun dönemli hareketli ortalamayı 
+aşağıdan kesmesi trendin yükselişte olduğunu gösterir ve bir alım emri sinyali verir (yani 
+forex yatırımcısının piyasaya girmesi ve uzun pozisyon alması gerekir).
+* Satış Sinyali:Kısa dönemli hareketli ortalamanın uzun dönemli hareketli ortalamayı 
+yukarıdan kesmesi trendin düştüğünü gösterir ve satış emri sinyali verir (yani döviz 
+yatırımcısının piyasaya girmesi ve uzun pozisyon alması gerekir).
+Bollinger Bandı:Bollinger Band, John Bollinger tarafından icat edilen bir göstergedir. 
+Fiyat hareketinin %0,2 standart sapmasına dayanır. Piyasa fiyat hareketini kendi bantları 
+içinde yakalayan bir banttır. Bollinger bant göstergesi aralık piyasası için daha uygundur. 
+Bant sıkıştığında fiyatın bir aralıkta olduğu anlamına gelir ve bant genişlediğinde piyasa 
+fiyatının yükseldiği veya düştüğü anlamına gelir. Mumlar üst banda yaklaştığında piyasa 
+trendinin yükseldiğini, mumlar alt banda yaklaştığında ise piyasa trendinin düştüğünü 
+gösterir. Daha geniş zaman diliminde, üst bant olası herhangi bir tersine dönmeden 
+önce fiyatın ulaşabileceği en yüksek seviyeyi belirtir (Üst bant en yüksek direnç seviyesini 
+temsil eder) ve alt bant olası herhangi bir tersine dönmeden önce fiyatın ulaşabileceği en 
+düşük seviyeyi belirtir (Alt bant en düşük destek seviyesini temsil eder). Mumlar bantları 
+deldiğinde olası bir trend tersine dönmesini belirtir ve aynı zamanda iyi bir giriş 
+noktasıdır.
+Piyasa Sinyalini Belirlemek İçin Bollinger Bandı Nasıl Kullanılır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+* Alım Sinyali:Mumlar alt bandı deldiğinde bu olası bir trend tersine dönüşü anlamına gelir, bir 
+forex yatırımcısının yapması gereken çekiç, doji vb. gibi olası tersine dönüş mumlarına dikkat 
+etmektir. Alt banttaki bir tersine dönüş mumu bir satın alma emrini (satın alma pozisyonunda 
+işlem girin) işaret eder.
+* Satış Sinyali:Mumlar üst bandı deldiğinde bu olası bir trend tersine dönüşü anlamına gelir, 
+bu yüzden bir forex yatırımcısı ters çekiç, doji vb. gibi olası tersine dönüş mumlarına dikkat 
+etmelidir. Üst banttaki bir tersine dönüş mumu bir satış emrini işaret eder (bir forex yatırımcısı 
+satış pozisyonunda işleme girer).
+Forex Trader's Simulator'ın Göstergelerinin Özeti
+Forex Trader's Simulator, Mum Grafikleri, Hareketli Ortalama Yakınsama Ayrışması, 
+Stokastik Osilatör, Basit Hareketli Ortalama ve Bollinger Bandı olmak üzere beş teknik 
+göstergeden oluşan bir forex ticaret sistemidir. Bu göstergelerden bazıları öncü 
+göstergeler iken diğerleri gecikmeli göstergelerdir. FTS ticaret sisteminin benzersiz yanı, 
+forex piyasasını oluşturan üç veriyi yakalayabilmesidir. Ayrıca, tüccarları şüpheye 
+düşürmeden üç forex piyasası analizini (yani Temel analiz, Teknik analiz ve Duygu analizi) 
+yakalama yeteneğine sahiptir. Ek olarak, Simülatör forex piyasası dinamiklerini 
+resmedebilir. Bu, sistemin şunları yakalama ve ortaya çıkarma yeteneğine sahip olduğu 
+anlamına gelir: Piyasa Yönü (Yukarı, Aşağı, Aralık ve Konsolidasyon piyasa fiyat hareketi); 
+Piyasa Yapısı (Boğa ve Ayı piyasaları); ve Piyasa Duygusu (Piyasa Psikolojisi, Aşırı Satılmış 
+piyasa ve Aşırı Alım piyasası). Simülatör, Elliot dalgaları, Harmonik desenler ve Fibonacci 
+Geri Çekilme formasyonlarında yakalanan forex piyasası desenleri tarafından ortaya 
+çıkarılan forex yatırımcılarının davranışlarını görüntüleme kapasitesine sahiptir.
+Forex Trader's Simulator'ı kullanarak piyasa giriş ve çıkış noktalarını belirlemek için, siz (bir 
+yatırımcı olarak) tüm teknik gösterge sinyallerinin birbirleriyle uyumlu olduğu zamanlara dikkat 
+etmelisiniz. Bu, bir yatırımcının tüm göstergeler aynı anda giriş sinyallerini verdiğinde 
+piyasadan bir alım pozisyonunda veya bir satış pozisyonunda çıkması veya girmesi gerektiği 
+anlamına gelir. İşte yukarıda açıklanan tüm teknik göstergelerin görüntülendiği bir ticaret 
+platformu.
+Şekil 9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Göstergeler arasında: MACD, SMA, Stokastik, Bollinger, Mumlar yer alır.Forex Trader'ın 
+Simülatörü Desen Göstergeleri
+Forex Trader's Simulator Pattern Indicators, zaman içinde piyasa katılımcılarının nasıl 
+davrandığını modelleyen şablonlar olarak geliştirilen göstergelerdir. Şablon biçiminde 
+sunulan bu göstergeler, yatırımcıların piyasa faaliyetlerindeki değişikliklere nasıl tepki 
+verdiğini göstermeyi amaçlamaktadır. Yatırımcıların tutum ve davranışlarının, piyasa 
+türünden bağımsız olarak zaman içinde aynı kalıbı izlediği kanıtlanmıştır. 1932'de Gartley bir 
+deney yaptı ve yatırımcıların piyasa fiyat değişikliklerine karşı tutumlarının belirli bir kalıbı 
+izlediğini gözlemledi. Harmonik kalıp oluşumuna yol açan deney ve gözlemdi. Benzer şekilde, 
+RN Elliot da kendi görüşüne göre piyasanın beş ana dalga ve üç küçük dalga olmak üzere 
+sekiz dalgadan oluşan bir döngüde hareket ettiğini gözlemledi. Bu dalgaların piyasa 
+katılımcısının davranışını yansıttığı belirlendi. Aynı şekilde, Leonardo Fibonacci Dapisa, doğal 
+fenomenlerin veya doğal olayların belirli bir sayı dizisine tabi tutulduğunu keşfetti, buna
+Fibonacci serisi (%23, %38, %50, %62 ve %78). Fibonacci serisinin forex piyasasında da ortaya çıkan 
+bir fenomen olduğu doğrulandı. Tüm bunlar bir araya getirildiğinde forex ticareti işinde insan 
+davranışı şablonunun geliştirilmesine yardımcı olur. Bu nedenle Forex Trader's Simulator, forex 
+yatırımcılarının giriş ve çıkış noktalarını görebilmeleri için "piyasa davranışı şablonunu" çok görünür 
+ve net bir şekilde ortaya çıkarmaya ve görüntülemeye yardımcı olur
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+ticarete her an rahatlıkla ve saygıyla başlayabilirsiniz.
+Harmonik desen:Harmonik desenler, yatırımcıların piyasa değişikliklerine ilişkin 
+davranışlarını, fiyat, hacim veya piyasanın faaliyette olduğu zaman süresindeki 
+değişiklikler sonucu yansıtan yerleşik piyasa desenleridir. Harmonik desen, farklı 
+oluşum desenlerinde gösterilir. Çeşitli harmonik oluşum desenleri, yatırımcıların 
+piyasa duygusu açısından tutumlarıdır. Bu desenler hem boğaların hem de ayıların 
+davranışlarını yansıtır. Tüm desenler çukur ve tepe arasında salınır (döviz piyasasının 
+zikzak düzende hareket ettiğini unutmayın) ve desenler farklı oluşum stillerinde 
+görünür.
+Gösterilen desen oluşumundan bağımsız olarak, bir tüccar olarak bu desenleri 
+tanımlayabildiğinizde, giriş veya çıkış noktası çukurun (bu, aşağı yönlü fiyat hareketinin 
+kenarı veya son noktasıdır) veya tepe noktasının (bu, yukarı yönlü fiyat hareketinin kenarı 
+veya son noktasıdır) daha önce açıklanan tüm teknik göstergelerin işlem sinyallerine 
+hizalanmasıyla belirlenir. Farklı türde harmonik desenler vardır.
+Bunlar arasında: yengeç, kelebek, yarasa, gartley vb. Desenlerin giriş ve çıkış noktaları 
+çoğunlukla diğer teknik göstergeler ticaret sinyalleriyle aynı hizada olmalıdır. Harmonik 
+desen göstergesinin, bir alım emri veya satış emri olarak ticaret sinyalleri açısından çok 
+doğru olduğu bilinmektedir. Çeşitli harmonik desen oluşumları bu kitabın ek sayfasında 
+gösterilmektedir.
+Elliot Dalga deseni:Elliot dalgası da yerleşik bir piyasa örüntüsüdür. Elliot dalga 
+örüntüsü, RN Elliot'a göre tüm piyasa döngüsünü yakalayan bir dalga biçimidir. Başka 
+bir deyişle, piyasanın sekiz dalga döngüsünde çalıştığına inanılır; burada dalgaların beşi 
+en önemli dalgalar olarak kabul edilir ve diğer üçü döngüyü tamamlıyor gibi görünen ve 
+aynı zamanda trend tersine çevirme işlevi gören dalgalardır. Piyasa trendi 5 dalga 
+döngüsündedir ve dalga uzunluğunun diğer 3 dalgası bir trend rezervi örüntüsüdür. 
+Elliot dalga örüntüsünün ayrıca piyasadaki tüccarların davranışlarını gösterdiği 
+bilinmektedir. Dalga örüntüsü, forex piyasasında hem boğaların hem de ayıların 
+tutumudur. Elliot dalgasının büyük kısmı 5 dalga örüntüsüdür.
+5 dalga, dürtü dalgaları ve düzeltme dalgaları olmak üzere iki tür dalgadan 
+oluşur ve bu, yükselen trendde veya düşen trendde meydana gelebilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Şekil 10.
+İtki dalgaları dalga 1, dalga 3 ve dalga 5'i içerir. Düzeltme dalgaları (veya geri çekilme) ise 
+dalga 2 ve dalga 4'ü içerir. Profesyonel forex yatırımcıları, itki dalgalarıyla işlem yapar çünkü 
+itki dalgalarıyla işlem yapmak yatırımcının piyasa trendine göre hareket ettiğini gösterir. Forex 
+piyasasında, bir yatırımcının maksimum kar için her zaman trende göre hareket etmesi 
+gerekir.
+Elliot dalgası tüm zaman dilimlerinde görülebilir ve dalga üç ana kategoriye ayrılabilir. Bu 
+kategoriler şunları içerir: ana dalga, ara dalga ve küçük dalgalar. Bu kitabın kapsamındaki 
+Elliot dalgası açıklamasını göz önünde bulundurarak, ortalama bir forex yatırımcısının kendi 
+işlem platformunda forex piyasasını tüm netliğiyle görmesine yardımcı olmak.
+Büyük dalga (bu kategori altında) 1 Ay ve 1 Haftalık Grafik gibi daha büyük zaman 
+dilimlerinde meydana gelir. Bunun nedeni, büyük dalganın bu Grafik/zaman diliminde 
+desen oluşumu döngüsünü tamamlamasının daha uzun bir zaman almasıdır 
+(Platformdaki mum sayısına göre zaman dilimlerinde 5 dalga döngüsünün 3 ila 12 yıl 
+sürdüğünü unutmayın).
+Ara dalgalar Günlük ve 4 Saatlik Grafik/zaman çerçevesini içerir (Bu zaman çerçevelerinde 
+bu dalgaların oluşumunun tamamlanmasının 1 ay ila 6 ay sürdüğünü unutmayın). Küçük 
+dalga kategorisi ise 1 Saat, 15 Dakika ve 5 Dakikalık zaman çerçevelerini içerir (Küçük 
+dalgaların her bir zaman çerçevesinde tamamlanmasının sırasıyla 1 hafta, 1 gün ve 2 saat 
+gerektireceğini unutmayın). Çok iyi gözlemlerseniz dalgaların belirtilen kategorilerle 
+salındığını fark edeceksiniz.
+Küçük dalga, ara dalga içinde hareketini değiştirir ve hem küçük hem de orta 
+dalga, büyük dalga içinde hareketini değiştirir. En güçlü
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Elliot dalgası altındaki giriş noktası, tüm dalga kategorilerinin tepe noktası veya çukur 
+noktasının hizalanması ve daha önce bahsedilen tüm göstergelerin ticaret sinyaliyle 
+eşleşmesidir. Elliot dalgası hakkında daha fazla açıklama bu kitabın ekinde bulunabilir.
+Fibonacci oranları: Fibonacci göstergesi, bir piyasa eğiliminin olası geri çekilme 
+seviyesini tahmin eden ve yansıtan bir gösterge türüdür. Piyasa eğiliminin, trend belirli 
+bir yönde yukarı yönlü veya aşağı yönlü bir eğilim olarak hareket ettikçe, hareket yolunu 
+aralıklarla geri izlediği bilinmektedir. Bu hareket ve geri çekilmeler, trende zikzak bir yapı 
+kazandırır ve bu Elliot dalgasına benzer. Şimdi piyasa fiyatı eğilim boyunca hareket 
+ettikçe, piyasa fiyatı eğilim yolu boyunca belirli seviyelerde geri çekilir. Bu seviyeler 
+Fibonacci Geri Çekilme Seviyeleri olarak bilinir ve bu geri çekilmelerin gerçekleşeceği 
+(meydana geleceği) trendin uzunluğunun belirli bir oranı veya yüzdesi vardır.
+Piyasa fiyat hareketinin geri çekilmesi, trendin %23 seviyesinde, %38, %50, %62 veya 
+%78 seviyesinde gerçekleşir. Ancak, bu fiyat geri çekilmesi veya fiyat düzeltme seviyeleri 
+hakkında belirli benzersiz özellikler vardır. Geri çekilme seviyeleri, piyasa fiyat 
+hareketinin kendisini düzelttiği ve orijinal yönünde, duruma göre yukarı veya aşağı 
+doğru hareket etmeye devam ettiği çeşitli noktalardır. Fibonacci oranları bir kez daha 
+şunlardır: 0,23, 0,38, 0,50, 0,62 ve 0,78 bu oranların her biri bir geri çekilme seviyesi veya 
+piyasa fiyatının büyük bir trend tersine dönmesi gerçekleşmeden önce orijinal yönünde 
+hareket ederken kendisini düzelttiği trend yolu boyunca belirli bir noktadır.
+Fiyat hareketine ilişkin bu geri çekilme seviyeleri hakkında belirli özellikler vardır. Fiyat %23 
+geri çekilme seviyesinde veya %38 geri çekilme seviyesinde geri çekildiğinde, piyasa fiyatının 
+orijinal yolunda (trendinde) hareketine devam etmek için tersine dönme oranı çok hızlıdır. 
+Fiyat %50 geri çekilme seviyesinde veya %62 geri çekilme seviyesinde geri çekildiğinde, 
+piyasa fiyatının orijinal yönünde hareketine devam etmek için tersine dönme oranı bu geri 
+çekilme seviyelerinde çok hızlı değildir. Yani geri çekilme bir şekilde yavaştır. Benzer şekilde, 
+fiyat %78 geri çekilme seviyesinde geri çekildiğinde, piyasa fiyatının orijinal yönünde 
+hareketine devam etmek için tersine dönme oranı çok yavaştır.
+Fibonacci göstergesine gelince, piyasaya en iyi giriş noktası her zaman geri çekilme 
+seviyelerindedir. Geri çekilme seviyesi daha önce açıklanan diğer göstergelerin ticaret 
+sinyalleriyle uyumlu olduğunda giriş noktası daha da doğrulanabilir ve doğrulanabilir. 
+Fibonacci teknik göstergesi aynı zamanda piyasa duygusunu yakalayan bir göstergedir. 
+Gösterge, piyasalardaki boğaların ve ayıların davranışlarını yansıtır ve görüntüler. 
+Fibonacci tarafından oynanan piyasa modelinin bilinmesi önemlidir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Araç, diğer vurgulanan teknik göstergelerle birlikte görüntülendiğinde işlem 
+platformunuzda açıkça görülebilir.
+SİMÜLATÖRÜN ÇOKLU ZAMAN ÇERÇEVESİ ANALİZİ
+Çoklu zaman dilimi analizi teorisi, forex piyasasının, piyasa faaliyetleri aynı anda birden fazla 
+zaman diliminde görüntülendiğinde en iyi şekilde işlem gördüğü gerçeğine dayanır. Başka 
+bir deyişle, piyasa göstergelerinin ve piyasa faaliyetlerinin etkileşimi, piyasa eylemleri o anda 
+işlem platformunun farklı zaman dilimlerinde görüntülendiğinde açıkça görülür. Teori, Aylık, 
+Haftalık, Günlük, 4 Saat, 1 Saat, 30 Dakika, 15 Dakika, 5 Dakika ve 1 Dakika grafik/zaman 
+dilimi açısından birden fazla zaman dilimindeki ilk analize itibar kazandırır. İyi 
+gözlemlerseniz, bu zaman dilimlerinin iç içe geçtiğini, yani hepsinin birbirine gömülü 
+olduğunu fark edeceksiniz. Yani 1 Dakikalık grafik 5 Dakikalık Grafikte, 5 Dakikalık grafik 15 
+Dakikalık zaman diliminde, 15 Dakikalık Grafik 30 Dakikalık zaman diliminde, 30 Dakikalık 
+zaman dilimi 1 Saatlik zaman diliminde, 1 Saatlik zaman dilimi 4 Saatlik Grafikte, 4 Saatlik 
+zaman dilimi Günlük Grafikte, Günlük Grafik Haftalık Grafikte ve Haftalık Grafik Aylık 
+Grafiktedir.
+Forex Ticaret İşletmesi için En İyi Zaman Dilimi Kombinasyonu
+Forex ticareti işiniz için birleştirilecek zaman dilimi, giriştiğiniz ticaret türüne bağlıdır. Bir 
+forex tüccarı olarak sorulması gereken soru şudur: Gün içi tüccar mısınız yoksa gün içi tüccar 
+mısınız? Gün içi forex ticareti, ticaret faaliyetlerini bir gün veya 24 saat içinde yürütür ve 
+tamamlar. Gün içi forex ticareti, bir günden daha uzun süren ticaret faaliyetlerini içerirken, 
+böyle bir ticaretin yürütülmesi piyasada bir hafta veya daha fazla sürebilir. Bu, gün içi 
+ticaretin bu tür işlemlerin yürütülmesinden önce daha uzun bir süre aldığı, gün içi ticaretin 
+ise ticaret faaliyetlerinin tamamlanması için dakikalar, saatler ve maksimum 24 saat veya bir 
+gün gibi kısa bir süre gerektirdiği anlamına gelir.
+Şimdi günlükler arası için, 6 aylık işlem faaliyetlerini kapsayan Günlük grafik, 3 yıllık işlem 
+faaliyetlerini kapsayan Haftalık grafik ve 12 yıllık işlem faaliyetlerini kapsayan Aylık grafik 
+gibi uzun işlem sürelerine uyum sağlayabilen zaman dilimlerine ihtiyacınız olacak. Ancak 
+günlükler için, bir forex yatırımcısı olarak, 1 aylık işlem faaliyetlerini kapsayan 4 Saatlik 
+grafik, 1 haftalık işlem faaliyetlerini kapsayan 1 Saatlik grafik, 1 günlük işlem faaliyetlerini 
+kapsayan 15 Dakikalık grafik ve 12 saatlik işlem faaliyetlerini kapsayan 5 Dakikalık grafik 
+gibi kısa işlem sürelerine uyum sağlayabilen zaman dilimlerine ihtiyacınız olacak.
+Aylık Grafiğe baktığınızda (tüccar olarak) bilmeniz gereken çok önemlidir, işlem 
+platformunuzdaki aylık grafiğin en uç noktası Haftalık grafikte gerçekleşen aktivitedir. 
+Dolayısıyla, piyasa aktivitelerine dair daha iyi bir görüşe sahip olmak istiyorsanız
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Aylık grafikte son 36 mumu oluşturduktan sonra işlem platformunuzun Haftalık grafiğini 
+izleyin. Benzer şekilde, Haftalık zaman diliminin uç noktası Günlük zaman diliminde açıkça 
+görülebilir. Bu, haftalık grafiğin son 24 mum çubuğunda gerçekleşen işlem faaliyetlerini 
+daha iyi görmek istiyorsanız günlük grafiğe bakmanız gerektiği anlamına gelir. Aynı şekilde, 
+işlem platformunuzdaki günlük grafiğin uç noktası 4 Saatlik grafikte açıkça görülebilir. Bu, 
+günlük zaman diliminin son 26 mum çubuğunda gerçekleşen işlem faaliyetlerini daha iyi 
+görmek istiyorsanız 4 Saatlik grafiği izlemeniz gerektiği anlamına gelir.
+4 saatlik zaman diliminin bir aylık forex piyasası işlem faaliyetlerini temsil ettiğini ve 4 saatlik grafiğin uç 
+noktasının 1 saatlik zaman diliminde açıkça görülebildiğini unutmayın. Bu, 1 saatlik zaman diliminin 4 
+saatlik grafikteki son 16 mum çubuğunu temsil ettiği anlamına gelir (1 saatlik, 1 haftalık forex piyasası 
+işlem faaliyetlerini temsil eder). Tekrar ediyorum, 1 saatlik grafikteki son 48 mum çubuğunda gerçekleşen 
+piyasa faaliyetlerine dair daha iyi bir görünüm istiyorsanız 15 dakikalık grafiğe bakın (15 dakikalık grafik, 1 
+günlük piyasa faaliyetlerini temsil eder). Ve 15 dakikalık zaman diliminin ortasından uç noktasına kadar 
+olan kısım 5 dakikalık grafikte açıkça görülebilir. 5 dakikalık zaman dilimi, son 12 saat için piyasa işlem 
+faaliyetlerini temsil eder.
+Bu nedenle, bir forex yatırımcısı olarak deneyimime dayanarak, birleştirilebilecek en uygun zaman 
+dilimleri şunlardır: Günlük zaman dilimi, 4 Saatlik zaman dilimi, 15 Dakikalık zaman dilimi ve 5 
+Dakikalık zaman dilimi. Bir diğer iyi kombinasyon ise; 4 Saatlik grafik, 1 Saatlik grafik, 15 Dakikalık 
+grafik ve 5 Dakikalık grafiktir. Bu noktada, daha büyük zaman diliminin küçük zaman dilimini kontrol 
+ettiğini ve daha önce açıklanan teknik göstergelerin de forex piyasası hareketini izleme 
+perspektifinden daha iyi görüntülendiğini hatırlamak çok önemlidir. Bu nedenle, Forex Yatırımcısı 
+Simülatörünün kullanımı ve uygulamasından, FTS ticaret sistemine dayalı forex piyasasına en iyi giriş 
+noktası, örneğin 5 Dakikalık grafik gibi daha küçük zaman diliminde yapılır. Daha küçük zaman dilimi 
+ayrıca iyi bir koruyucu zarar durdurma emrine sahip olmaya yardımcı olur; bu sayede piyasa riskini 
+en aza indirmeye yardımcı olur. Aşağıda, forex piyasasında ticaret yapmak için çoklu zaman dilimi 
+yaklaşımına ilişkin FTS Sisteminin bir örneği verilmiştir.
+Şekil 11 Aylık Grafik/Zaman Çerçevesi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Yükseliş trendi piyasa fiyat hareketi aşağıdaki haftalık grafikte daha iyi görüntülenebilir. 
+Şekil 12 Haftalık Grafik
+Ticaret platformunun sağındaki yukarı ve aşağı fiyat hareketi daha iyi görüntüleniyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Günlük grafik aşağıdadır.
+Şekil 13 Günlük Grafik
+Günlük grafiğin en sağında yer alan aralık piyasa fiyat hareketi aşağıdaki 4 saatlik grafikte 
+daha iyi görülebilir.
+Şekil 14 4 Saatlik Zaman Çerçevesi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Aralık kanalındaki fiyat hareketi daha küçük grafiklerde daha iyi görüntüleniyor. Şekil 15 1 Saatlik Zaman 
+Çerçevesi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Piyasa Fiyat hareketi 1 saatlik grafikte küçük grafikte açıkça görülmektedir
+Grafiğin sağ tarafındaki fiyat hareketi küçük grafikte daha iyi görüntüleniyor Şekil 17 15 
+Dakikalık Zaman Dilimi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Piyasa fiyat hareketi bu 15 Dakikalık grafikte açıkça görülmektedir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+5 dakikalık zaman dilimi, piyasa giriş noktasını belirlemek için en uygun olanıdır. Bir forex yatırımcısı 
+her zaman 4 saatlik grafikteki piyasa hareketlerini izlemelidir. Unutmayın, daha büyük zaman dilimi 
+daha küçük zaman dilimini kontrol eder.
+FOREX TRADER'IN SİMÜLATÖRÜNÜ TİCARET SİNYALLERİNİ BELİRLEMEK İÇİN NASIL 
+KULLANIRSINIZ
+Özetle, Simülatör teknik göstergelerden ve desen göstergelerinin bilgisinden oluşur. 
+Teknik göstergeler arasında şunlar bulunur: MACD, Stokastik Osilatör, Bollinger Bandı, 
+SMA çizgileri ve Mum Çubuğu grafiği. Desen göstergeleri arasında şunlar bulunur: 
+Harmonik desen, Elliot Dalgası ve Fibonacci Geri Çekilme Seviyesi ve Çoklu Zaman 
+Çerçevesi Stratejisi.
+Forex Trader's Simulator (FTS) yine şunlardan oluşmaktadır:
+(1) Teknik Göstergeler (Trend hareketini ve yönünü belirler) (2) Desen Göstergeleri 
+(Boğaların ve ayıların davranışlarını belirler)
+(3) Çoklu Zaman Dilimi Stratejisi (Ticaret platformlarında piyasa fiyat hareketlerinin nasıl 
+görüntüleneceğini belirleyin).
+* Satın Alma Sinyali:Piyasa alım emrini belirlemek için FTS'yi kullanmak için, zaman dilimi analizi, 
+teknik gösterge ticaret sinyalleri ve çoğunlukla doğru desen oluşumu açısından piyasayı doğru 
+perspektifte gördüğünüzden emin olmalısınız. Bunlar göz önünde bulundurulduktan sonra piyasa 
+fiyatının aşağı yönlü bir trendde olup olmadığını belirleyin, eğer öyleyse, fiyatın piyasa desteğinin en 
+düşük seviyesine dokunmasını bekleyin ve bu seviyenin Fibonacci Geri Çekilme Seviyesi ile çakışması 
+muhtemeldir, ardından piyasada uzun pozisyon açın (yani bir alım emri verin).
+* Satış Sinyali:Piyasa satış emrini belirlemek için FTS'yi kullanmak için, zaman dilimi analizi, 
+teknik gösterge ticaret sinyalleri ve çoğunlukla doğru desen oluşumu açısından piyasayı doğru 
+perspektifte gördüğünüzden emin olmalısınız. Tüm bunlar düzgün bir şekilde yapıldıktan sonra, 
+piyasa fiyatının yükseliş trendinde olup olmadığını belirleyin, eğer öyleyse, fiyatın piyasa 
+direncinin en yüksek seviyesine dokunmasını veya test etmesini bekleyin ve bu seviye 
+muhtemelen Fibonacci Geri Çekilme Seviyesi ile çakışabilir, ardından piyasada kısa pozisyon 
+açın. Yani forex yatırımcısı piyasada bir satış pozisyonu almalıdır.
+Çıkış Noktası Nasıl Belirlenir:Her işlemin çıkış noktası, Fibonacci Uzatma Seviyesi'nin 
+kullanımı, yani Çete sayılarının kullanımı ile belirlenir. Ancak, en uygun çıkış noktası ve fiyat 
+projeksiyonu, bir alım pozisyonu için önceki direnç seviyesinin altına veya altına yerleştirilir. 
+Bir satış pozisyonu için çıkış noktası, fiyat projeksiyon seviyesini önceki destek seviyesinin 
+üstüne veya üstüne yerleştirmektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Çözüm:Sonuç olarak, forex piyasasının üç bileşeni piyasa fiyatı, piyasa zamanı ve 
+işlem hacmidir. Bu piyasa verileri işlendiğinde, çeşitli teknik göstergelerin yardımıyla 
+forex piyasasında işlem yapmakta kullanılan güvenilir piyasa bilgileri verir. En 
+güvenilir teknik gösterge, üç piyasa verisini yakalayabilen göstergedir. Ancak, bunu 
+yapabilen tek bir gösterge yoktur. Bu, forex piyasasını oluşturan üç veriyi 
+yakalayabilmek için her zaman teknik göstergeleri birleştirme ihtiyacını doğurur. 
+Teknik göstergelerin birleşimi bu nedenle bir sistem olarak adlandırılır. Bu nedenle, 
+forex piyasasında işlem yapmanın en iyi yolu bir işlem sistemi kullanmaktır. Forex 
+Trader's Simulator, forex piyasasında işlem yapmak için iyi bir sistemdir.
+Her iyi ticaret sistemi şu üç şeyi yapabilmelidir:
+(1) İyi bir ticaret sistemi, tutarlı ve güvenilir bir giriş sinyali verir.
+(2) İyi bir ticaret sistemi, tutarlı ve güvenilir bir çıkış sinyali verir.
+(3) İyi bir işlem sistemi, tutarlı bir şekilde çalışan güvenilir koruyucu zarar durdurma 
+seviyeleri sağlar.
+Forex Trader's Simulator, forex ticareti işinde olan bir forex yatırımcısı için sahip olunması gereken 
+iyi bir ticaret sistemidir.
+FOREX PİYASASININ ÖZETİ FOREX TİCARET İŞİ
+Forex Ticareti Nedir? Forex Piyasası 
+Nedir? Perakende Forex Endüstrisi 
+Nedir? Forex Piyasası Nerede İşlem 
+Görür? Forex Piyasası Ne Zaman 
+İşlem Görür? Forex Piyasası Nasıl 
+İşlem Görür?
+* Forex Ticareti Nedir?
+Forex Ticareti, yabancı para birimlerinin alım satım sanatıdır. Forex Ticareti, 
+döviz işlemlerini gerçekleştirme sanatıdır.*Forex Piyasası Nedir?
+Forex Piyasası, yabancı para birimlerinin alım satımının yapıldığı piyasadır.
+Forex piyasası bir Döviz Piyasasıdır.
+* Perakende Forex Sektörü Nedir?
+Perakende Forex Endüstrisi, dünya çapında bireysel forex yatırımcılarının bir araya gelmesidir. Bu, 
+Kurumsal Yatırımcılar ve Yatırımcıları hariç tutar.*Forex Piyasası Nerelerde İşlem Görür?
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Forex Piyasası, dünya çapındaki Bireysel Yatırımcıların bilgisayar ağlarının birbirine 
+bağlanmasını içeren bir Çevrimiçi Pazarlama İşletmesidir. Piyasa, dünya çapındaki 
+bilgisayar ağlarının birbirine bağlanmasıdır.
+* Forex Piyasasında Ne Zaman İşlem Görülür?
+Forex Piyasası 24 saatlik bir piyasadır, günün her saati işlem görür. Yani, günde 24 saat, 
+haftada 7 gün (7/24) faaliyet gösterir.
+Forex Piyasası Avustralya Seansı'ndan başlayarak Tokyo Seansı'na, Londra Seansı'ndan başlayarak 
+Amerika Seansı'na (Asya – Avrupa – Amerika) kadar devam eder.
+* Forex Piyasasında Nasıl İşlem Yapılır?
+Forex piyasasına katılmak için bir yatırımcının şunlara ihtiyacı vardır:
+1) Bir Bilgisayar seti/Dizüstü bilgisayar
+2) İnternet Bağlantısı
+3) Piyasanın nasıl işlediğine dair bilgi.
+FOREX PİYASASI HAREKETLERİ
+x Yükseliş Trendi Hareketi
+x Düşüş Trendi Hareketi
+x Yanal Hareket
+1) Menzil Piyasası Hareketi
+2) Konsolidasyon Hareketi
+FOREX PİYASASI POZİSYONU VE GİRİŞ STRATEJİSİ
+x Boğa Piyasası Pozisyonu x Uzun 
+Pozisyon Al
+x Boğalar düşük fiyattan satın alıp yüksek fiyattan satarlar
+¾ Ayı Piyasası Pozisyonu ¾ Kısa 
+Pozisyon Alın
+¾ Ayılar düşük fiyattan satın almak için yüksek fiyattan satarlar.
+FOREX GÖSTERGELERİ
+x Göstergeler, Forex Piyasasında işlem yaparken kullanılan teknik araçlardır. x Göstergeler, alım ve 
+satım sinyalleri verir ve piyasadaki giriş ve çıkış noktalarını belirler (bu, bir yatırımcının işlem deneyimine 
+bağlıdır)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+(strateji).
+x Forex piyasasında işlem yapmanın en iyi yolu bir işlem 
+sistemine sahip olmaktır (bir sistem, aynı anda işlem sinyali veren 
+iki veya daha fazla göstergenin birleşimidir).
+FOREX TİCARET SİMÜLATÖRÜ
+Forex Trader's Simulator, Forex Trading Venture'ın bir ürünüdür. Simulator, farklı forex 
+göstergelerinin bir kombinasyonudur.
+1) Mum Formasyonu
+2) Bollinger Band
+3) Stokastik Osilatör
+4) MACD
+5) SMA Hatları
+a) Harmonik Desen
+b) Fibonacci Oranı
+c) Elliot Dalga Deseni
+FOREX TİCARET BAŞARISININ TEMELLERİBir Forex yatırımcısı, başarılı bir işlem 
+yapabilmek için her yatırımcının yapması gereken 3 piyasa analizini gerçekleştirebilmelidir.
+Pazar Analizi
+1) Temel Analiz (Sosyal Ekonomik Koşullar)
+2) Teknik Analiz (Piyasa Göstergeleri)
+3) Duygu Analizi (İnsan Duygusu)
+FOREX TİCARET BAŞARISININ TEMELLERİBir yatırımcı, piyasa yönü, yapısı 
+ve hissiyatı açısından mevcut piyasa durumunu analiz edebilmelidir.
+1) Piyasa Yönü
+2) Pazar Yapısı
+3) Piyasa Duygusu
+GÜNCEL EĞİLİM YÖNÜ
+x Bir Tüccar, piyasa simülatörünün tüm ticaret göstergelerinin tüm zaman dilimlerindeki 
+pozisyonlarını dikkate alarak hakim piyasa yönünü belirleyebilir.
+x Bu aynı zamanda yatırımcının piyasaya iyi bir giriş noktası bulmasını da sağlayacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+x Belirli bir zaman dilimindeki eğilimi belirlemek için hemen önceki büyük zaman dilimini ve ondan 
+önceki küçük zaman dilimini ve bu dilimlerdeki tüm ticaret göstergelerini dikkate alırsınız.
+GÜNCEL PİYASA TRENDİNİ NASIL BELİRLEYECEĞİZ
+x Öncelikle, bir yatırımcı trendi yönlendiren grafiği/zaman dilimini ve trendi hangi yöne 
+yönlendirdiğini belirlemelidir.
+x Aşağıdaki slayttaki grafik EUR/USD'nin 4 saatlik grafiğidir. Fiyat hareketi ilk önce Bollinger 
+Band göstergesinin alt bandına dokundu, MACD Histogramı ilk önce bir düşüş trendinde 
+minimum Şekli oluşturdu, Stokastik Osilatör ilk geçen oldu. x Ancak, bu zaman dilimi diğer 
+daha büyük zaman dilimleriyle (örneğin, Günlük, Haftalık veya Aylık grafik) karşılaştırıldığında 
+piyasa trendi sürücüsü değildir.
+Tüm Göstergelerin Düşüş Trendi Reserval'ı İşaret Ettiği 4 Saatlik Grafik
+BÜYÜK DÖNÜŞ NOKTASI
+x Yukarıdaki slaytlardaki grafikler karşılaştırıldığında, günlük grafik histogram şekli 
+minimum şeklini tamamlayana kadar gerçek trend değişiminin gerçekleşmediği 
+görülecektir.
+x Yukarıdaki açıklama (histogramın şekli), diğer indikatörlerle uyumlu 
+olduğunda olası bir trend değişiminin göstergesidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+İYİ GİRİŞ NOKTASI NASIL BELİRLENİR
+x Döviz çifti üzerinde işlem yapmak isteyen bir yatırımcının, trend yönü, özellikle trend sürücüsü 
+konusunda tüm göstergelerin aynı hizada ve aynı sinyalde olduğu zaman piyasaya girmesi ve 
+pozisyon alması gerekmektedir.
+x Bu durumda şunları göz önünde bulundurmalısınız: Histogram şekli (minimum şekil), Stokastik Geçişler, 
+Bollinger Band penetrasyonu ve Mum çubuğu tersine dönüş formasyonu.
+EK
+Ek, açıklamalar sırasında kullanılan çeşitli piyasa modellerinin özetidir. Bu 
+modellerden ilk olarak mum formasyonu, ardından harmonik formasyon, 
+ardından Fibonacci geri çekilme seviyeleri ve son model formasyonunun Elliot 
+dalgaları olduğu düşünülmüştür.
+EK I
+MUM OLUŞUMU
+EK II
+HARMONİK DESEN OLUŞUMU
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+EK III
+FİBONACCİ GERİ ÇEKİLME SEVİYESİ
+EK IV
+ELLIOT DALGA OLUŞUMU
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+FOREX PİYASASINDA İŞLEM YAPARKEN DİKKAT EDİLMESİ GEREKEN 
+TEMEL EKONOMİK VERİ RAPORU
+(1) Tarım Dışı İstihdam Göstergesi.
+Veriler her ayın ilk Cuma günü saat 08:30'da yayınlanmaktadır.
+AVUSTRALYA, BREZİLYA VE KUZEY AMERİKA ÜLKELERİNİN KULLANDIĞI SAAT UYGULAMASI.
+(2) Mevcut Ev Satışları.
+Veriler 25'inde açıklanıyorinciHer ayın 10:00 EST'sinde. (3) Gayri Safi Yurtiçi 
+Hasıla (GSYİH).
+Bu veriler her ayın üçüncü veya dördüncü haftasında 08:30 EST'de yayınlanmaktadır. 
+(4) Üretici Fiyat Endeksi (ÜFE).
+Bu duyuru saat 11 civarında yapıldıinci(5) Perakende Satışlar her 
+ayın 8:30'unda.
+Veriler 12 civarında yayınlanıyorinci(6) Uluslararası Ticaret.
+Veriler 19'unda açıklanıyorinciHer ayın 08:30'unda EST. (7) 
+Tüketici Fiyat Endeksi (TÜFE).
+Bu duyuru 13 civarında yapıldıinciHer ayın 8:30'unda EST. (8) 
+Dayanıklı Mal Siparişleri.
+Veriler 26 civarında yayınlanıyorinciHer ayın 08:30'unda EST. 
+(9) İstihdam Durumu.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Ay boyunca finansal piyasa psikolojisini etkilemede büyük rol oynuyor. (10) 
+Philadelphia Fed.
+Veriler her ayın üçüncü perşembesi günü 10:00 EST'de yayınlanmaktadır. 
+(11)Tüketici Güven Endeksi (CCI).
+Duyuru her ayın son Salı günü saat 10:00'da (EST) yapılır.
+(12) Satınalma Yöneticileri Endeksi (PMI)
+Bu duyuru her ayın son iş günü saat 10:00'da (Doğu Standart Saati) yapılır.
+(13)Yeni Ev Satışları.
+Temel bir duyuru gerçekleşmek üzereyken, yatırımcılar genellikle duyurudan hemen 
+önce alım veya satımı durdururlar. Haber iyiyse, fiyatlar yükselebilir ve kötüyse, fiyatlar 
+düşebilir. Her iki durumda da, güvenli oynamak için, genellikle piyasada bir pozisyon 
+almadan önce duyurunun okunmasını beklerler.
+Duyurudan kaynaklanabilecek üç olası senaryo var: faiz oranı yükselebilir, 
+düşebilir veya değişmeden kalabilir. Olası neden ve sonuç senaryolarına 
+bakalım.
+Neden:Faiz oranları yükselir ve bunun sonucunda borç para almanın maliyeti artar. Borç 
+para almanın maliyeti arttığında, daha az insan borç para almaya ilgi duyacaktır.
+Etki:ABD dolarına olan talep azalacak ve daha az insan ABD doları satın alacak, bu da doların 
+zayıflamasına neden olacak.
+Neden:Faiz oranlarının düşmesi, borç para almanın maliyetinin azalacağı anlamına gelir. 
+Borç para almanın maliyeti düştüğünde, daha fazla insan borç para almaya ilgi duyacaktır.
+Etki:ABD dolarına olan talep artar ve daha fazla insan ABD doları satın alarak daha güçlü bir 
+dolar yaratır.
+Neden:Faiz oranları sabit kalıyor.
+Etki:ABD dolarının değeri değişmemeli, aynı kalmalı.
+Faiz oranları artarsa   veya azalırsa, para birimi değerleri artar veya azalır. İyi bir 
+yatırımcı olmak için teknik ve temel yatırım teknikleri arasında bir denge yaratmanız 
+gerekir. Ancak, dünyanın en başarılı yatırımcıları temel yatırımcılarından ziyade 
+ağırlıklı olarak teknik yatırımcılarıdır. Başarılı yatırımcılar, forex piyasasının nasıl 
+çalıştığına dair iyi bir bilgiye sahiptir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

@@ -1,0 +1,1380 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 20\Baskı 20\Ortalama Dönüşüne Dayalı Günlük Alım Satım Stratejisi Kitabı - Rob Teally (64 sayfa) - @eseckal.pdf
+PAGES: 64
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+Ortalama Geri Dönüş Günlük Ticaret Stratejisi 
+Kitap Tanıtımı
+Bölüm 1: Ortalamaya Dönüş Ticaretinin Temel Kavramları
+Aşırı Genişletilmiş Fiyat Hareketlerinin Belirlenmesi
+Aşırı Alım ve Aşırı Satış Koşulları 
+Standart Sapmaları:
+Bollinger Bantları
+Doğrusal Regresyon Kanalları:
+Ortalamaya Dönüş Ticaretinde Piyasa Koşullarının Rolü
+Bölüm 2: Karlı Bir Ortalama Geri Dönüş Ticaret 
+Stratejisi Geliştirme
+Kazanan Bir Ortalama Geri Dönüş Kurulumunun Bileşenleri
+Ortalamanızı Belirleyin
+Fiyat Uç Noktalarını Tanımlayın Giriş 
+ve Çıkış Kriterlerini Belirleyin
+Ortalamaya Dönüş Ticaretinde Risk Yönetim Stratejileri
+Bölüm 3: Ortalamaya Dönüş Ticaretinde Göstergelerin Ustası 
+Olmak
+Ortalama İçin Hareketli Ortalamaların Kullanılması
+Ortalama Geri Dönüş İşlemlerinde Momentum Göstergelerinin 
+Kullanımı Onay ve Filtre Göstergelerinin Kullanımı
+Bölüm 4: Gelişmiş Ortalama Geri Dönüş Gösterge Sinyalleri 
+(TradingView Göstergeleri)
+Ortalama Geri Dönüş Gösterge Sinyali #1 
+Ortalama Geri Dönüş Gösterge Sinyali #2 
+Ortalama Geri Dönüş Gösterge Sinyali #3 
+Ortalama Geri Dönüş Gösterge Sinyali #4 
+Ortalama Geri Dönüş Gösterge Sinyali #5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Ortalama Geri Dönüş Gösterge Sinyali #6 
+Ortalama Geri Dönüş Gösterge Sinyali #7 
+Ortalama Geri Dönüş Gösterge Sinyali #8
+Bölüm 5: Ortalamaya Dönüş Günlük Alım Satım ve Scalping 
+Stratejileri
+Ortalama Geri Dönüş Stratejisi #1 
+Ortalama Geri Dönüş Stratejisi #2 
+Ortalama Geri Dönüş Stratejisi #3 
+Ortalama Geri Dönüş Stratejisi #4 
+Ortalama Geri Dönüş Stratejisi #5 
+Ortalama Geri Dönüş Stratejisi #6 
+Çözüm
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+giriiş
+Ortalamaya dönüş ticareti, finansal piyasaların içsel 
+oynaklıklarından kaynaklanan belirli bir öngörülebilirliğe sahip 
+olduğu fikrine dayanır.
+Bu bölümde ortalamaya dönüş ticaretinin prensiplerini çözeceğiz, 
+fiyat uçlarının ve piyasa oynaklığının rolünü inceleyeceğiz ve 
+ortalamaya dönüşün piyasalarda işlem yapmanın nasıl oldukça karlı 
+bir yolu olabileceğini araştıracağız. Başlamadan önce, ortalamaya 
+dönüş ticaretinin tam olarak ne olduğunu ve nasıl çalıştığını 
+anlamamız gerekiyor.
+Özetle, ortalamaya dönüş, varlık fiyatlarının sonunda uzun vadeli 
+ortalamalarına veya ortalamalarına döneceği varsayımına 
+dayanır. Basitçe ifade etmek gerekirse, yukarı çıkan aşağı inmeli 
+ve aşağı inen yukarı çıkmalıdır.
+Ortalamaya dönüş ticareti genellikle ters bir zihniyet gerektirir. 
+Piyasa katılımcılarının çoğunluğu alım yaparken, fiyatları aşırıya 
+iterken, ortalamaya dönüş tüccarı, ortalamaya dönüş bekleyerek 
+satış yapmayı düşünecektir. Tersine, çoğunluk satış yaparken, 
+fiyatların düşmesine neden olduğunda, ortalamaya dönüş 
+tüccarı alım fırsatı görebilir.
+Bu yaklaşım, genellikle hakim piyasa duygusuna karşı 
+gelmeyi içerdiğinden, sezgiye aykırı ve rahatsız edici 
+gelebilir. Analizinize bağlı kalmak ve kalabalığın çekimine 
+direnmek için bir miktar özgüven gerekir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Bölüm 1: Ortalamaya Dönüş Ticaretinin 
+Temel Kavramları
+Ortalamaya dönüş ticaretini etkili bir şekilde kullanmak için 
+aşağıdaki temel kavramları anlamak önemlidir:
+1.Ortalama veya Ortalama:Ortalama, belirli bir dönemde bir 
+varlığın ortalama fiyatını temsil eder. Yatırımcılar genellikle 
+ortalama değeri belirlemek için hareketli ortalamaları veya 
+diğer istatistiksel ölçümleri kullanırlar.
+2.Ortalamadan Sapmalar:Ortalamadan sapmalar, bir 
+varlığın fiyatı ortalama seviyesinden önemli ölçüde 
+uzaklaştığında meydana gelir. Bir varlık ortalamadan 
+çok uzaklaştığında, bu fiyatın aşırı uçta olduğunu 
+gösterir ve fiyat aşırı uçta olduğunda, bir tersine 
+dönmenin yakın olması muhtemeldir.
+3.Ortalamaya Dönüş:Bu, fiyatın ortalamadan aşırı 
+bir sapmadan sonra tekrar ortalamaya 
+dönmeye başladığı zamandır.
+Bu, ortalamaya dönüş tüccarlarının bir işleme 
+girmeleri için en uygun noktadır. Fiyatın, geri 
+dönmeden önce uzun bir süre ortalamadan aşırı 
+sapmada kalabileceğini anlamak önemlidir. Bu 
+nedenle fiyatın tersine döndüğünü doğrulamak için 
+diğer göstergeleri kullanırız.
+Aşırı Genişletilmiş Fiyat Hareketlerinin Belirlenmesi
+Ortalamaya dönüş ticareti çeşitli teknikler ve göstergeler 
+kullanılarak uygulanabilir, bu yöntemlerden bazıları şunlardır:
+Aşırı Alım ve Aşırı Satış Koşulları
+Yatırımcılar, standart sapmalara göre bir varlığın aşırı alım veya 
+aşırı satım olarak değerlendirildiği durumları ararlar.
+Bu koşullar, fiyatın ortalamasından önemli ölçüde saptığını 
+ve geri dönüş için olgunlaşmış olabileceğini gösteriyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Yatırımcılar bu koşulları belirlemek için Göreceli Güç Endeksi 
+(RSI) veya Stokastik Osilatör gibi osilatörleri kullanabilirler.
+Aşırı alım:Bir varlık aşırı satın alındığında, satın alma 
+baskısının fiyatı çok yükseğe ittiği ve potansiyel olarak 
+yaklaşan bir tersine dönüşün sinyalini verdiği anlamına 
+gelir. Yatırımcılar, fiyat düşüşü beklentisiyle kısa pozisyon 
+açmayı veya uzun pozisyonlardan çıkmayı düşünebilir.
+Aşırı satılmış:Tersine, bir varlık aşırı satıldığında, satış 
+baskısının fiyatı çok düşürdüğü anlamına gelir. 
+Yatırımcılar, fiyatın ortalamaya doğru geri döneceğini 
+bekleyerek kısa pozisyonları satın almayı veya 
+kapatmayı düşünebilirler.
+Standart Sapmalar:
+Standart sapma, bir veri noktası kümesinin ortalaması veya ortalaması 
+etrafında ne kadar yayılmış veya dağılmış olduğunu anlamamıza 
+yardımcı olan istatistiksel bir ölçüdür. Daha yüksek bir standart sapma, 
+fiyatların ortalamadan daha büyük sapmalar yaşadığı anlamına gelir. 
+Ticarette, fiyat dalgalanmalarının oynaklığını veya iniş çıkışlarını 
+değerlendirmemize yardımcı olur.
+Standart sapmalar aşırı uzatılmış fiyat hareketlerini belirlemek 
+için harika araçlardır. Bunun nedeni, istatistiksel olarak fiyatın 
+çoğu zaman ortalamanın standart sapması içinde kalacak 
+olmasıdır.
+Gelin bunun ticarette nasıl işlediğine bir bakalım. 
+Standart Sapmayı Yorumlama
+Bir Standart Sapma:Ortalamanın bir standart 
+sapması içinde, fiyatların yaklaşık %68'inin 
+düşmesini bekleyebiliriz. Bu, yaklaşık üçte iki 
+oranında, bir hisse senedinin veya finansal 
+enstrümanın fiyatının bu aralıkta kalacağı 
+anlamına gelir. Nispeten normal veya beklenen 
+bir fiyat hareketini temsil eder.
+İki Standart Sapma:Aralığı ortalamadan iki 
+standart sapmaya genişlettiğimizde,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Fiyatların yaklaşık %95'inin bu daha geniş aralıkta 
+kalmasını bekleyebiliriz. Başka bir deyişle, yaklaşık 
+%95 oranında fiyat bu genişletilmiş aralıkta 
+kalacaktır. Daha geniş bir fiyat hareketi 
+kapsamına izin verir ve daha önemli 
+dalgalanmaları hesaba katar.
+Bollinger Bantları
+Bollinger Bantları, ortalamadan standart sapmaları 
+kullanarak yapılan yaygın bir göstergedir.
+Bollinger bantlarının bileşenleri şunlardır:
+Ortalamayı temsil eden merkez çizgisi (genellikle 20 
+SMA)
+Ortalamadan belirli sayıda standart sapmayı 
+temsil eden üst ve alt bantlar
+Bollinger bantlarının bileşenleri
+Tipik olarak üst ve alt bantlar ortalamadan iki standart 
+sapmadır (20 SMA). Bu, %95'inin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+zaman fiyatı üst ve alt Bollinger bandı arasında kalacaktır. Zamanın 
+yalnızca %5'inde fiyat üst veya alt bantların dışına çıkacaktır. Bu bize 
+bir avantaj sağlayabilir çünkü fiyatın üst veya alt Bollinger bandının 
+dışına çıkarsa ortalamaya geri dönme olasılığının çok yüksek 
+olduğunu biliyoruz.
+Doğrusal Regresyon Kanalları:
+Doğrusal regresyon kanalları, fiyat hareketi boyunca 'en iyi uyan' çizgiyi 
+oluşturmak ve ardından bu çizginin etrafına sınırlar koymak için 
+istatistiksel yöntemlerden yararlanır:
+Ortadaki çizgi, fiyat verileri arasından en iyi uyumu gösteren 
+doğrusal regresyon çizgisidir.
+Dış çizgiler veya sınırlar genellikle doğrusal regresyon 
+çizgisinden iki standart sapma uzağa ayarlanır.
+Fiyatın ortalamaya (merkez çizgiye) geri dönmesi beklenir 
+ve dış sınırlara ulaşması bir işlem fırsatına işaret edebilir.
+Doğrusal
+TradingView, grafiğinizde otomatik olarak kanallar 
+oluşturacak doğrusal regresyon kanal göstergesine 
+sahiptir.
+Gerileme Kanal Gösterge:
+Bu göstergeyi bulmak için gösterge arama kutusunda "doğrusal 
+regresyon kanalı"nı arayın
+Bu göstergeyi grafiğinize eklediğinizde, fiyat 
+üzerinde ortalama bir regresyon kanalı çizecektir. 
+Kanalın merkezi ortalama olacak ve kanalın tepesi 
+ve dipleri ortalamadan iki standart sapma olacaktır 
+(Bollinger bantları gibi).
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+TradingView'daki doğrusal regresyon kanal göstergesinin 
+ekran görüntüsü
+Fiyat kanalın dibine dokunduğunda, bu fiyatın aşağı 
+doğru aşırı uzadığını ve ortalamaya (kanalın ortasına) 
+geri dönme olasılığının yüksek olduğunu gösterir. Fiyat 
+kanalın tepesine dokunduğunda ise bunun tersi 
+gerçekleşir, fiyatın kanalın ortasına doğru geri dönmesi 
+olasıdır.
+Ortalamaya Dönüş Ticaretinde Piyasa 
+Koşullarının Rolü
+Ortalamaya dönüş ticaret stratejilerini uygularken, geçerli 
+piyasa koşullarını dikkate almak çok önemlidir. 
+Ortalamaya dönüş belirli durumlarda karlı bir yaklaşım 
+olabilirken, piyasa dinamiklerinin etkinliğini 
+sınırlayabileceği durumlar vardır.
+Ortalamaya dönüş stratejisinin etkinliğini sınırlayabilecek 
+faktörler şunlardır:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+1.Trend Piyasalar:Ortalamaya dönüş stratejileri, 
+fiyatların iyi tanımlanmış seviyeler arasında 
+dalgalandığı, aralıklı veya yatay davranış gösteren 
+piyasalarda en iyi şekilde çalışır.
+Fiyatların sürekli olarak tek bir yönde hareket ettiği trend 
+piyasalarında, ortalamaya dönüş işlemleri fiyatlar trend 
+olmaya devam ettikçe tekrarlanan kayıplara yol açabilir. 
+Yatırımcılar, güçlü trend koşullarıyla karşılaştıklarında 
+dikkatli olmalı ve yaklaşımlarını buna göre uyarlamalıdır.
+Trend piyasa koşullarında ortalamaya dönüş 
+işlemlerine girmekten kaçınmak için ADX 
+(ortalama yön endeksi) gibi filtre göstergelerini 
+kullanabilirsiniz.
+2.Piyasa Volatilitesi: Volatilite, ortalamaya dönüş ticaretinde 
+önemli bir rol oynar. Aşırı volatilite, daha büyük fiyat 
+dalgalanmalarına ve ortalamadan uzun süreli sapmalara 
+yol açabilir.
+Volatilite önemli geri dönüş hareketleri için fırsatlar 
+yaratabilirken, aynı zamanda yanlış sinyaller ve ani hareketler 
+riskini de artırabilir. Piyasa volatilitesine uyum sağlamak için 
+gösterge ayarlarınızı optimize etmek iyi bir fikirdir.
+Piyasa oynaklığı düşükse ve aşırı alım/aşırı 
+satım RSI sinyalleri kullanıyorsanız, düşük 
+oynaklık koşullarında daha sık sinyaller almak 
+için RSI uzunluğunu 5'e değiştirebilirsiniz.
+3.Piyasa Bozulmaları veya Önemli Haber Olayları:İşlem 
+yaptığınız piyasayla ilgili beklenmedik büyük haber 
+olayları dönemlerinde ortalamaya dönüş ticaret 
+stratejilerini kullanmaktan her zaman kaçınmak en 
+iyisidir. Bu olduğunda ortalamaya dönüş stratejilerinin 
+başarısız olma olasılığı yüksektir. Göstergelerde aşırı 
+alım/satım okumaları görürsünüz, bu sırada fiyat aynı 
+yönde hareket etmeye devam eder.
+Bunun iyi bir örneği, Kripto Para piyasasının Kasım 
+2022'de büyük bir düşüş yaşamasıydı.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+FTX borsasının iflas olayına. Bu süre zarfında 
+Bitcoin'in fiyatı, RSI gibi göstergelerde görülen aşırı 
+aşırı satım okumalarına rağmen bir haftada %25'ten 
+fazla düştü.
+FTX bitcoin çöküşü sırasında RSI aşırı satım bölgesinde 
+kalırken güçlü bir düşüş trendinin devam ettiğine dair bir 
+örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Bölüm 2: Karlı Bir Ortalama Geri Dönüş 
+Ticaret Stratejisi Geliştirme
+Bu bölümde, etkili bir ortalamaya dönüş ticaret stratejisi 
+geliştirmenin kritik sürecini ele alacağız. Parametreleri, giriş ve 
+çıkış kriterlerini, risk yönetimini ve geriye dönük testin 
+önemini anlayarak, piyasalarda size bir avantaj sağlayabilecek 
+değerli içgörüler elde edeceksiniz.
+Kazanan Bir Ortalama Geri Dönüş Kurulumunun 
+Bileşenleri
+Sağlam bir ortalamaya dönüş ticaret stratejisi oluşturmanın temel 
+adımlarını inceleyelim.
+Adım 1: Ortalamadan Aşırı Genişletilmiş Fiyat Hareketlerini 
+Belirleme
+Öncelikle işlemlerinizi dayandıracağınız ortalamayı 
+(hareketli ortalama veya VWAP gibi) belirleyin
+Uzun vadeli fiyat hareketlerini belirlemek için bir 
+gösterge seçin; örneğin Bollinger bantlarındaki 
+standart sapma bantlarını veya RSI'daki aşırı alım/
+aşırı satım koşullarını kullanabilirsiniz
+Ortalamadan önemli ölçüde sapan fiyatları 
+arayın; bu, potansiyel aşırı genişleme koşullarını 
+gösterir.
+Adım 2: Ters Dönüş Sinyallerini Onaylama
+Bu adımda, fiyatın ortalamadan aşırı genişlerken 
+tersine döndüğünü doğrulamak için bir onay 
+göstergesi kullanacaksınız.
+Fiyat aşırı uzadığında bir geri dönüş 
+onaylanırken, onay göstergeniz bir geri dönüş 
+sinyali üretir
+Bir onay sinyali aldığınızda işleme girebilirsiniz
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Adım 3: Çıkış
+İşlemden çıkmak için net bir planınız olmalı, bu bir risk/ödül 
+oranı veya gösterge sinyali kullanılarak belirlenmiş bir kar 
+alma seviyesi olabilir
+Ayrıca, fiyatın ortalamaya dönmesini bir çıkış olarak da kullanabilirsiniz
+4. Adım: Piyasa Koşullarına Uyum Sağlama
+Değişen piyasa koşullarına uyum sağlayın.
+Volatilite ve trend yönüne bağlı olarak daha 
+güvenilir sinyaller üretmek için gösterge ayarlarınızı 
+optimize edebilirsiniz
+Sadece en ideal piyasa koşullarında işlem yapabilmek 
+için filtreli indikatörler kullanmayı da düşünmelisiniz.
+Bunlar ortalamaya dönüş ticaret stratejisinin yalnızca temel 
+adımlarıdır. Her adım için uygun göstergeleri ve koşulları 
+seçmeniz gerekecektir.
+Ortalamanızı Belirleyin
+Ortalamaya dönüş stratejiniz için bir ortalama seçerken, işlem 
+yaptığınız varlığın özelliklerini ve geçmişteki davranışını göz önünde 
+bulundurmanız gerekir.
+Ortalamaya dönüş ticaretinde yaygın olarak kullanılan araçlara ilişkin 
+birkaç örnek şöyledir:
+Pivot Noktası Göstergesi:Pivot noktası göstergesindeki 
+merkezi "P" çizgisi, önceki seansın fiyat verilerine dayalı 
+ortalama veya ortalama fiyat seviyesini temsil eder. 
+Ortalamaya dönüş ticaretinde, bu çizgi, fiyatların etrafında 
+dalgalanabileceği referans noktası veya ortalama olarak 
+hizmet ettiği için önemlidir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Merkezi pivot çizgisinin ortalama olarak kullanılmasına örnek
+Pivot noktası göstergesi, merkezi pivot noktası olarak da 
+bilinen ana pivot noktasından (P) ve bu nokta etrafında 
+hesaplanan, genellikle S1, S2, S3 (destek seviyeleri) ve R1, 
+R2, R3 (direnç seviyeleri) olarak etiketlenen ek 
+seviyelerden oluşur.
+VWAP:VWAP (Hacim Ağırlıklı Ortalama Fiyat), 
+yatırımcılar tarafından kullanılan ve bir menkul kıymetin 
+gün boyunca işlem gören ortalama fiyatını, her fiyat 
+seviyesinde işlem gören hacme göre ağırlıklandırarak 
+veren bir işlem ölçütüdür.
+Fiyatlar VWAP'tan önemli ölçüde saptığında, bu durum 
+aşırı uzamış koşulların ve VWAP'a doğru potansiyel bir 
+geri dönüşün göstergesidir.
+Tüccarlar genellikle VWAP bantlarını VWAP çizgisinin 
+yanında kullanarak ortalamaya dönüş fırsatlarının daha 
+fazla doğrulanmasını sağlarlar. VWAP bantları genellikle 
+VWAP'den belirli sayıda standart sapma uzağa 
+yerleştirilir. Fiyatlar bu bantların ötesine geçtiğinde,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+aşırı genişleme durumunu gösterir ve ortalamaya dönüş 
+ticaret kurulumunu daha da destekler.
+20 SMA:20 dönemlik SMA (basit hareketli 
+ortalama), nispeten kısa vadeli bir dönemdeki 
+ortalama fiyatı temsil eder. Piyasa eğiliminin 
+orta vadeli bir görünümünü sağlar, son fiyat 
+hareketlerini yakalarken değişikliklere tepki 
+verecek kadar hassastır.
+Tüccarlar genellikle geçerli trend yönünü değerlendirmek 
+için 20 dönemlik SMA'yı kullanırlar. Fiyatlar 20 dönemlik 
+SMA'dan önemli ölçüde saptığında, bu potansiyel 
+ortalamaya dönüş fırsatlarına işaret eder.
+20 SMA, Bollinger bantları göstergesinde genellikle 
+ortalama olarak kullanılır ve merkez çizgisidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Bollinger bantlarında ortalama olarak kullanılan 20 
+SMA örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Fiyat Uçlarını Tanımlayın
+Fiyat uçlarını tanımlamak, ortalamaya dönüş ticaretinde olası 
+tersine dönüş noktalarını belirlemek için çok önemlidir. Fiyat uç 
+noktaları, fiyatın seçilen ortalamadan önemli ölçüde saptığı ve 
+ortalamaya dönüş olasılığının daha yüksek olduğu seviyelerdir. 
+Fiyat uç noktalarını tanımlamak için birkaç yöntem şunlardır:
+Gösterge Tabanlı Uç Noktalar:Çeşitli göstergeler fiyat 
+uçlarını belirlemeye yardımcı olabilir. Örneğin:
+Osilatörler:Göreceli Güç Endeksi (RSI) 
+veya Stokastik Osilatör gibi göstergeler 
+aşırı alım veya aşırı satım koşullarını 
+gösterebilir ve potansiyel fiyat uçlarını 
+işaretleyebilir.
+Volatilite Göstergeleri:Bollinger Bantları 
+veya Ortalama Gerçek Aralık (ATR), fiyat 
+oynaklığı hakkında fikir vererek aşırı fiyat 
+hareketlerini belirlemenize olanak tanır.
+Kanal/Menzil Analizi:Grafiğinizde kanallar veya 
+aralıklar çizerek fiyat uçlarını görsel olarak 
+tanımlayabilirsiniz. Bu kanallar, fiyatın ortalamaya 
+dönme eğiliminde olduğu üst ve alt sınırları temsil 
+eder. Fiyatın bu sınırlara ulaşması, potansiyel bir 
+geri dönüş fırsatını gösterir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Giriş ve Çıkış Kriterlerini Belirleyin
+Başarılı ortalamaya dönüş işlemlerini yürütmek için net ve etkili 
+giriş ve çıkış kriterleri oluşturmak çok önemlidir. Giriş ve çıkış 
+sinyalleriniz, seçilen ortalama ve belirlenen fiyat uçlarını göz 
+önünde bulundurarak 1. adımda tanımlanan parametrelerle 
+uyumlu olmalıdır.
+Giriş kriterleri, ortalama geri dönüş ticaretinin ne zaman başlatılacağını 
+belirler. Seçilen ortalama ve fiyat uçlarını göz önünde bulundurarak, 
+uygun giriş noktalarını belirleyebilirsiniz.
+Girişler
+Parametrelere dayalı giriş kriterlerine dair birkaç örnek şöyledir:
+Gösterge Tabanlı Giriş:Aşırı alım veya aşırı satım 
+koşullarını yansıtan ve potansiyel geri dönüşleri 
+gösteren göstergeleri kullanın. Örneğin:
+RSI indikatörü kullanılıyorsa, RSI değeri 
+önceden belirlenmiş aşırı satım seviyesine 
+ulaştığında veya altına düştüğünde (örneğin 
+30'un altına) bir alım giriş sinyali oluşabilir.
+Alternatif olarak, Bollinger Bantları 
+kullanılıyorsa, fiyat alt banda dokunduğunda 
+veya altına düştüğünde, potansiyel fiyat uçlarını 
+gösteren bir satın alma giriş sinyali üretilebilir.
+Destek/Direnç Seviyeleri:Ortalama geri dönüş 
+stratejinizle uyumlu temel destek veya direnç 
+seviyelerine dayalı giriş kriterleri. Örneğin:
+Fiyat önemli bir destek seviyesine 
+ulaştığında uzun pozisyona girin ve 
+fiyatın ortalamaya doğru geri döneceğini 
+bekleyin.
+Tam tersine, fiyat güçlü bir direnç 
+seviyesiyle karşılaştığında, ortalamaya 
+doğru bir dönüş olacağını öngörerek kısa 
+pozisyon açın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Çıkışlar
+İyi tanımlanmış çıkış kriterlerine sahip olmak, riski yönetmenize ve kârları 
+optimize etmenize yardımcı olur. Çıkış sinyalleriniz, işlemi ne zaman 
+kapatacağınızı belirten daha önce belirlenen parametrelere dayanmalıdır. 
+Aşağıdaki örnekleri göz önünde bulundurun:
+Gösterge Tabanlı Çıkış:Trendin devamı veya potansiyel 
+fiyat geri dönüşlerinin işaretlerini ticaretinize karşı 
+belirlemek için göstergeleri kullanın. Örneğin:
+RSI göstergesi kullanılıyorsa, RSI değeri önceden 
+tanımlanmış aşırı alım seviyesine ulaştığında veya 
+onu aştığında (örneğin 70'in üzerinde) çıkış sinyali 
+oluşabilir ve bu da potansiyel bir trend devamını 
+gösterir.
+Bollinger Bantları kullanıldığında, fiyat 
+üst banda ulaştığında veya onu 
+aştığında çıkış sinyali tetiklenebilir; bu, 
+ortalamaya dönüşten ziyade potansiyel 
+bir trend devamını gösterir.
+Destek/Direnç Seviyeleri:Ortalama geri dönüş 
+stratejinizle uyumlu temel destek veya direnç 
+seviyelerine dayalı çıkış kriterleri belirleyin. Örneğin:
+Fiyat önemli bir direnç seviyesine ulaştığında 
+uzun pozisyonu kapatın, çünkü bu durum 
+daha fazla ortalamaya dönüş hareketini 
+engelleyebilir.
+Fiyat, işleminize karşı potansiyel bir geri 
+dönüşün göstergesi olan güçlü bir destek 
+seviyesiyle karşılaştığında kısa pozisyondan 
+çıkın.
+Bu örneklerin kapsamlı olmadığını ve belirli göstergelerin, 
+destek/direnç seviyelerinin veya diğer kriterlerin seçiminin, işlem 
+tarzınıza ve işlem yaptığınız varlığa bağlı olacağını unutmamak 
+önemlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Ortalamaya Dönüş Ticaretinde Risk 
+Yönetim Stratejileri
+Ortalamaya dönüş ticaret stratejileri, fiyat uçlarını belirlemeye ve 
+fiyatın ortalamasına veya ortalamasına geri dönmesini 
+beklemeye dayanır. Ortalamaya dönüş ticaretiyle ilişkili riskleri 
+etkili bir şekilde yönetmek için, birkaç temel risk yönetimi tekniği 
+kullanılmalıdır.
+Bu teknikler arasında risk/ödül oranlarının kullanılması, zarar durdurma emirlerinin 
+uygulanması ve takip eden zarar durdurma emirlerinden faydalanılması yer alır.
+Risk/Ödül Oranları
+Risk/ödül oranları, yatırımcıların olumlu bir risk/ödül profili 
+sunmayan işlemlerden çıkarak potansiyel kayıplarını sınırlamalarına 
+olanak tanır. Bu, sermayeyi korumaya ve başarısız işlemlerin 
+etkisini en aza indirmeye yardımcı olur. Olumlu bir risk/ödül oranı 
+önemlidir çünkü karlı olmak için her işlemi kazanmanız 
+gerekmediği anlamına gelir.
+Genellikle iyi bir risk/ödül oranı 1:2'dir, bu da işlem kazanırsa 2$ 
+kazanmak için 1$ kaybetme riskiniz olacağı anlamına gelir. Yarı yarıya 
+yanılmış olabilirsiniz ve yine de zarar etmeyebilirsiniz.
+Zarar Durdurma
+Zarar durdurma emirleri, ortalamaya dönüş ticaretinde önemli bir risk yönetim 
+aracıdır. Bunlar, yatırımcıların potansiyel zararları sınırlamak için 
+pozisyonlarından çıktıkları önceden belirlenmiş fiyat seviyeleridir. Zarar 
+durdurma emirlerini stratejik olarak yerleştirmek, aşırı zararlardan kaçınırken 
+yanlış tetikleyicileri önlemeye yardımcı olabilir.
+İyi bir stop loss yerleşimi genellikle en son swing high/swing 
+low'un hemen üstünde veya altındadır. Bu seviye destek veya 
+direnç görevi görerek stop loss'unuzun avlanma olasılığını 
+azaltmalıdır.
+Takip Eden Zarar Durdurma Emri
+Ticarette, takip eden bir zararı durdurma emri, bir menkul kıymetin fiyatı 
+olumlu bir yöne doğru hareket ettikçe kendini otomatik olarak ayarlayan 
+dinamik bir zararı durdurma emridir. Tüccarların kazançlarını güvence altına 
+almalarına izin verirken ticarete büyüme alanı vererek karları korumak için 
+tasarlanmıştır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Trailing stop loss, fiyat hareketini önceden belirlenmiş bir 
+mesafede veya belirli göstergelere dayanarak "izler".
+İyi takip eden zarar durdurma emirleri şunlardır:
+Parabolik SAR:Parabolic SAR göstergesi ATR'ye 
+(ortalama gerçek aralık) dayanır ve fiyat grafiğinin 
+üstünde veya altında bir dizi nokta ile temsil edilir. 
+Noktalar fiyatın altında olduğunda, yükseliş 
+eğilimini gösterir ve noktalar fiyatın üstünde 
+olduğunda.
+Parabolik SAR'daki nokta dönüşleri trend değişikliklerine çok hızlı yanıt 
+verir ve takip eden bir zarar durdurma emrinin tetikleyicisi olarak hareket 
+edebilir.
+Süpertrend:Parabolik SAR gibi süpertrend de trendi takip 
+eden, ATR tabanlı bir göstergedir ve iyi bir takip eden 
+zararı durdurma emri oluşturabilir. Süpertrend çizgisi 
+trend değişikliklerine bağlı olarak fiyatın altından üstüne 
+geçecektir. Takip eden zararı durdurma emri tetikleyicisi, 
+süpertrend yön değiştirdiğinde olabilir.
+Süpertrend indikatörünün iyi yanlarından biri de 
+gürültüden kaynaklanan çok fazla yanlış sinyal 
+üretmemesidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Bölüm 3: Ortalamaya Dönüş Ticaretinde 
+Göstergelerin Ustası Olmak
+Bu bölümde, ortalamaya dönüş ticaretinde göstergelerin etkili 
+kullanımını ele alacağız. Göstergeler, olası fiyat geri dönüşlerini 
+belirlememize ve bunlardan yararlanmamıza yardımcı olan değerli 
+araçlar olarak hizmet eder. Çeşitli göstergelerin rolünü ve 
+ortalamaya dönüş stratejilerini nasıl tamamladıklarını anlayarak, 
+deneyimli günlük yatırımcılar piyasalarda önemli bir avantaj elde 
+edebilirler.
+Göstergeler, piyasa koşullarına ilişkin içgörüler sağlayarak ve 
+olası fiyat uçlarını belirleyerek ortalamaya dönüş ticaretinde 
+önemli bir rol oynar. Fiyatların ortalama değerlerinden 
+sapmasını ölçmemize yardımcı olarak, karlı ticaretler için 
+fırsatları belirlememizi sağlarlar.
+Ortalama İçin Hareketli Ortalamaların Kullanılması
+Hareketli ortalamalar, teknik analizde fiyat dalgalanmalarını 
+yumuşatmak ve altta yatan eğilimi belirlemek için yaygın olarak 
+kullanılır. Ortalamaya dönüş ticaretinde, hareketli ortalamalar 
+fiyatların etrafında dalgalandığı ortalama görevi görebilir.
+Mevcut fiyat hareketli ortalamanın önemli ölçüde üzerindeyse, bir 
+tüccar bunun hareketli ortalamaya geri dönmesini bekleyebilir ve 
+bunun tersi de geçerlidir. Bu dinamik ortalama, tüccarların bir menkul 
+kıymetin yakın geçmişine göre aşırı alım veya aşırı satım durumunu 
+belirlemesine yardımcı olabilir ve bu da potansiyel bir işlem fırsatına 
+işaret edebilir.
+Hareketli ortalama periyodunun seçimi, işlem stratejisine ve 
+yatırımcının istediği zaman ufkuna bağlıdır. Farklı hareketli 
+ortalama periyotları, ortalama geri dönüş dinamikleri 
+hakkında farklı bakış açıları sağlayabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+İşte yaygın olarak kullanılan hareketli ortalama periyotlarından birkaçı 
+ve uygulamaları:
+Kısa Vadeli Hareketli Ortalamalar:Daha kısa zaman dilimleri 
+kullanan tüccarlar 10 veya 20 gibi periyotlara sahip hareketli 
+ortalamaları kullanabilirler. Bu hareketli ortalamalar daha 
+anlık fiyat dalgalanmalarını yakalar ve daha kısa vadeli 
+ortalamaya dönüş stratejileri için uygundur.
+Orta Vadeli Hareketli Ortalamalar:50 civarında periyotlara 
+sahip hareketli ortalamalar genellikle swing tüccarları veya 
+orta vadeli ufuklara sahip tüccarlar tarafından kullanılır. Bu 
+hareketli ortalamalar fiyat eğilimleri ve sapmaları hakkında 
+daha geniş bir görüş sunarak tüccarların orta vadeli 
+ortalamaya dönüş fırsatlarını yakalamalarına olanak tanır.
+Uzun Vadeli Hareketli Ortalamalar:100 veya 200 gibi 
+daha uzun dönemli hareketli ortalamalar genellikle 
+uzun vadeli trend takip eden veya pozisyon tüccarları 
+tarafından kullanılır. Ortalamaya dönüş birincil odak 
+noktaları olmasa da, bu tüccarlar pozisyonlarını 
+ayarlamak veya genel işlem yaklaşımlarıyla birlikte 
+ortalamaya dönüş stratejilerini değerlendirmek için 
+uzun vadeli hareketli ortalamalardan sapmaları sinyal 
+olarak kullanabilirler.
+Ortalama Geri Dönüş Ticaretinde Momentum 
+Göstergelerinin Kullanımı
+Momentum göstergeleri, fiyat hareketlerinin hızını ve gücünü belirlemeye 
+yardımcı oldukları için ortalamaya dönüş ticaretinde değerli araçlardır. 
+Aşırı alım ve aşırı satım bölgelerini kullanarak, bu göstergeler potansiyel 
+giriş ve çıkış noktalarını vurgulayabilir. Momentum göstergelerinin 
+ortalamaya dönüş stratejilerinde etkili bir şekilde nasıl kullanılabileceği 
+aşağıda açıklanmıştır:
+Aşırı Alım/Aşırı Satış Sinyalleri:
+Göreceli Güç Endeksi (RSI) ve Stokastik Osilatör gibi momentum 
+göstergelerinin genellikle önceden tanımlanmış aşırı alım ve aşırı 
+satım bölgeleri vardır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Bu bölgeler piyasada aşırı alım veya satım baskısı seviyelerini 
+temsil eder. Genellikle, belirli bir eşiğin (örneğin, 70) 
+üzerindeki değerler aşırı alım koşullarını gösterirken, başka bir 
+eşiğin (örneğin, 30) altındaki değerler aşırı satım koşullarını 
+gösterir.
+Ortalamaya dönüş ticaretinde, giriş sinyalleri, fiyat aşırı 
+bir seviyeye ulaştığında üretilir ve momentum göstergesi 
+bunu aşırı alım veya aşırı satım bölgesine girerek onaylar.
+Yatırımcılar aşağıdaki teknikleri değerlendirebilirler:
+Aşırı Satış Bölgesine Giriş: Fiyat aşırı satım bölgesine 
+girdiğinde ve momentum göstergesi bunu doğruladığında, 
+yukarı yönlü potansiyel bir ortalama geri dönüş ticareti 
+önerir. Yatırımcılar uzun pozisyonlar başlatmayı veya mevcut 
+kısa pozisyonları kapatmayı düşünebilir.
+Aşırı Alım Bölgesine Giriş: Fiyat aşırı alım bölgesine 
+girdiğinde ve momentum göstergesi bunu 
+doğruladığında, aşağı yönlü potansiyel bir ortalama geri 
+dönüş ticareti önerir. Yatırımcılar kısa pozisyonlar 
+başlatmayı veya mevcut uzun pozisyonları kapatmayı 
+düşünebilirler.
+Bir Stratejide Aşırı Satın Alma/Aşırı Satış Sinyallerinin 
+Kullanımı
+Ortalamaya dönüş işlemlerinde aşırı alım ve aşırı satım sinyallerini etkili bir şekilde 
+kullanmak için aşağıdaki yönergeleri göz önünde bulundurun:
+Fiyat Desenleriyle Onaylama: Aşırı alım veya 
+aşırı satım sinyalleriyle uyumlu fiyat 
+kalıplarından veya grafik oluşumlarından ek 
+onay arayın. Bu yakınsama, ortalamaya dönüş 
+ticaretinin güvenilirliğini artırabilir.
+Diğer Göstergelerle Birleştirme: Momentum 
+göstergelerini, aşırı alım veya aşırı satımın geçerliliğini 
+güçlendirmek için hareketli ortalamalar veya trend 
+çizgileri gibi diğer teknik göstergelerle birleştirin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+sinyaller. Birden fazla göstergenin bir araya gelmesi, potansiyel 
+geri dönüşlerin daha güçlü göstergelerini sağlayabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Göstergenin Bölge Dışına Çıkmasını Bekleyin:Bir 
+gösterge aşırı alım/aşırı satım bölgesinde olduğunda, 
+giriş sinyalinin geçerli olduğunu doğrulamak için 
+göstergenin bölgeden çıkmasını beklemek önemlidir.
+Aşağıda aşırı alım/aşırı satım sinyallerinin bir işlemde nasıl etkili bir şekilde 
+kullanılabileceğine dair bir örnek verilmiştir.
+Bu örnekte, aşırı alım/aşırı satım koşulları Bollinger bantlarıyla 
+birleştirilir ve yalnızca fiyat Bollinger bandının alt kısmında 
+olduğunda ve RSI aşırı satım bölgesinden çıktığında uzun 
+pozisyonlara girilir.
+Aşırı alım/aşırı satım sinyallerini doğrulamak için Bollinger bantları gibi 
+başka bir gösterge kullanmak, işlem yaparken oldukça etkili olabilir.
+Onay ve Filtre Göstergelerinin Kullanımı
+Ortalama Geri Dönüş Ticareti, ortalama değerden fiyat sapmalarından 
+yararlanmaya odaklanan bir stratejidir. Uygulamak için
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Bu stratejiyi etkili bir şekilde uygulamak için, yatırımcılar genel 
+hatlarıyla iki kategoriye ayrılabilen göstergelerin bir kombinasyonunu 
+kullanırlar: Filtre Göstergeleri ve Onay Göstergeleri.
+Filtre göstergeleri nasıl çalışır?
+Filtre Göstergeleri, adından da anlaşılacağı gibi, potansiyel işlemleri 
+filtrelemek için kullanılır ve genellikle yatırımcıların belirli piyasa 
+koşullarına odaklanmasını sağlar. Bu göstergeler, yatırımcıların bu 
+tür stratejiler için elverişli aralıklı piyasa koşullarını belirlemesine 
+olanak tanıyarak, ortalamaya dönüş ticaret stratejisinin etkinliğini 
+artırmada önemli bir rol oynar.
+Popüler bir filtre göstergesi, bir trendin gücünü ölçen 
+ancak yönünü ölçmeyen Ortalama Yön Endeksi'dir (ADX). 
+ADX, trend olan piyasaları filtrelemek ve aralıklı koşullara 
+odaklanmak için kullanılabilir.
+Örneğin, belirli bir eşiğin (genellikle 25) altındaki 
+bir ADX okuması, trend eksikliğini gösterebilir 
+ve piyasanın aralıklı olduğunu gösterebilir. Bu, 
+ortalamaya dönüş stratejisi için elverişli bir 
+koşul sunar.
+Onay Göstergeleri
+Öte yandan doğrulama göstergeleri, birincil gösterge tarafından 
+üretilen sinyallerin geçerliliğini doğrulamak için kullanılır. Bir 
+yatırımcının cephaneliğinde hayati bir araçtır çünkü işlem 
+sinyallerini doğrulamaya yardımcı olabilir ve böylece yanlış giriş 
+olasılığını azaltır.
+Örneğin, bir tüccar Bollinger Bantlarını birincil gösterge 
+olarak kullanabilir ve fiyatın alt banttan aşağı geçmesi 
+olası bir satın alma sinyali olabilir. Bu sinyali doğrulamak 
+için tüccar, Göreceli Güç Endeksi'ni (RSI) bir doğrulama 
+göstergesi olarak kullanabilir.
+RSI aşırı satım bölgesindeyse (genellikle 30'un altında), 
+Bollinger bant sinyalini doğrulayabilir ve fiyatın ortalamaya 
+dönme olasılığının yüksek olduğunu gösterebilir.
+İyi Bir Onay Göstergesi Neyi Gerektirir? İyi bir doğrulama 
+göstergesi şu özelliklere sahip olmalıdır:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Tamamlayıcı
+Onay göstergesi, birincil göstergeden farklı bir 
+bakış açısı sağlamalı ve böylece her iki 
+göstergenin aynı anda yanlış sinyaller üretmesi 
+olasılığını azaltmalıdır.
+, öncelik gösterge: The
+Güvenilir olun: İyi bir doğrulama göstergesi, birincil 
+göstergenin ürettiği sinyalleri tutarlı bir şekilde 
+doğrulayabilmelidir.
+Net sinyaller sağlayın: Onay göstergesi net ve 
+belirsiz olmayan sinyaller sağlamalıdır. Bu, 
+yatırımcının hızlı ve kesin işlem kararları 
+almasını sağlar.
+Filtre ve onay göstergeleri, ortalamaya dönüş ticaret stratejilerinde 
+hayati bir rol oynar. ADX gibi filtre göstergeleri, yatırımcıların uygun 
+piyasa koşullarını belirlemesine yardımcı olurken; RSI gibi onay 
+göstergeleri, ticaret sinyallerini doğrulamaya yardımcı olur.
+Bu göstergeler doğru kullanıldığında, ortalamaya dönüş 
+ticaret stratejisinin etkinliğini önemli ölçüde artırabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Bölüm 4: Gelişmiş Ortalama Geri Dönüş 
+Gösterge Sinyalleri (TradingView Göstergeleri)
+Bu bölüm, grafik platformu TradingView'da bulunan 
+göstergelerden gelen son derece doğru alım/satım sinyallerini 
+içerir. Bunlar, diğer yatırımcıların oluşturup TradingView'da 
+yayınladığı ücretsiz göstergelerdir.
+Bu Göstergeler Nasıl Bulunur
+Bir TradingView hesabı oluşturun (TradingView.com), eğer 
+ödeme yapmak istemiyorsanız ücretsiz bir hesap için 
+kaydolabilirsiniz.
+TradingView'da bir grafik açın ve üst araç 
+çubuğunda bulunan "göstergeler" simgesine 
+tıklayın, ardından aradığınız göstergeyi arayın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Ortalama Geri Dönüş Göstergesi Sinyali #1: 
+VWAP Standart Sapma Bantları
+Bu gösterge sinyalini nasıl bulabilirim:
+EkleVWAP (hacim ağırlıklı ortalama fiyat) 
+grafiğinizde etkinleştirin
+Aşağıdaki ekran görüntüsünde görüldüğü gibi, VWAP 
+ayarlarında üç sapma bandının tümünü etkinleştirin
+Tüm kutuların etkin olduğundan emin olun; renkleri 
+istediğiniz stile göre ayarlayabilirsiniz.
+Genel Bakış:
+VWAP çok güvenilir ve etkili bir ortalamadır, VWAP'a standart 
+sapma bantları eklemek giriş ve çıkış sinyali almak için harika 
+bir yoldur. Genellikle fiyat, üst/alt 2'ye dokunduğunda VWAP'a 
+geri dönecektir.veveya 3rdsapma bandı. Çoğu ortalamaya 
+dönüş stratejisinde olduğu gibi, bu da yatay piyasa 
+koşullarında en iyi şekilde çalışır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Satın Alma Sinyali
+Fiyat alt 2'ye dokunuyorveveya 3rdsapma bandı
+Satış Sinyali
+Fiyat üst 2'ye dokunuyorveveya 3rdsapma bandı
+Bu göstergeyi kullanarak giriş ve çıkış sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Ortalama Geri Dönüş Göstergesi Sinyali #2: 
+Hacim Ağırlıklı Gövde Hareketli Ortalama 
+Bollinger Bantları (VWHBB)
+Yazar: peacefulLizard50262
+Bu göstergeyi bulmak için gösterge arama kutusuna "Hacim 
+Ağırlıklı Gövde Hareketli Ortalama Bollinger Bantları (VWHBB)" 
+yazın
+Genel Bakış:
+Bu, hacim ağırlıklı Hull Hareketli Ortalaması'nı (VEHMA) 
+Bollinger Bantları ile birleştirir. VEHMA, gecikmeyi azaltan ve 
+hacim ağırlığını dahil ederek piyasa eğilimlerinin daha 
+hassas bir göstergesini sağlayan Hull Hareketli 
+Ortalaması'nın bir çeşididir. Bollinger bantları gibi, bu 
+gösterge de üst/alt bantlar ve bir merkez çizgisi içerir. Bu 
+göstergedeki bantlar ayrıca oynaklıkla genişler ve daralır.
+Temel fark, merkez çizgisinin bir VEHMA olması ve üst/alt 
+bantların tek bir çizgi yerine bölgeler olarak görünmesidir. 
+Fiyat bu göstergenin üst ve alt bantlarına dokunduğunda alım 
+ve satım sinyalleri oluşur. Bu gösterge, yatay piyasa 
+koşullarında en iyi şekilde çalışır ve scalping için harika bir 
+göstergedir.
+Gösterge ipucu:
+Daha az yanlış sinyal için sapmayı 1,5'e değiştirin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Alım Sinyali:
+Fiyat alt banda dokunuyor ve aşırı satım 
+bölgesine giriyor
+Satış Sinyali:
+Fiyat üst banda dokunuyor ve aşırı alım 
+bölgesine giriyor
+Bu göstergeyi kullanarak alım ve satım sinyallerine bir örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Ortalama Geri Dönüş Göstergesi Sinyali #3: 
+Bollinger Bantları (Geliştirilmiş Ayarlar)
+Bu gösterge sinyalini nasıl bulabilirim:
+Bollinger bantlarını grafiğinize ekleyin
+DeğiştirStandart Sapmaayarlar2.5Aşağıdaki ekran 
+görüntüsünde görebileceğiniz gibi
+Genel Bakış:
+Bollinger bantları iyi bir ortalama geri dönüş göstergesidir, 
+ancak Bollinger bantlarının varsayılan ayarlarını kullanırken 
+birçok yanlış sinyal deneyimlemek yaygındır. Standart sapmayı 
+2,5'e değiştirerek, fiyat üst veya alt Bollinger bandına 
+dokunduğunda çok daha yüksek kaliteli giriş/çıkış sinyalleri 
+sağlanacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Alım Sinyali:
+Fiyat Bollinger bandının dibine dokunuyor
+Satış Sinyali:
+Fiyat Bollinger bandının tepesine dokunuyor
+İyileştirilmiş Bollinger bantları ayarlarını kullanarak alım ve satım 
+sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Ortalama Geri Dönüş Göstergesi Sinyali #4: 
+Fibonacci Bölgesi
+Yazan: eykpunter
+Bu göstergeyi bulmak için gösterge arama kutusuna “Fibonacci 
+Bölgesi” yazın
+Genel Bakış:
+TradingView'daki Fibonacci Bölgesi göstergesi, piyasadaki olası geri 
+dönüş bölgelerini belirlemek için Fibonacci seviyelerini içeren bir kanal 
+göstergesidir. Donchian Kanallarına benzer şekilde, bu gösterge 
+yatırımcıların belirli bir süre içinde fiyat sınırlarını belirlemelerine 
+yardımcı olur. Ancak, fiyat geri dönüşlerinin meydana gelme 
+olasılığının yüksek olduğu alanları vurgulamak için Fibonacci geri 
+çekilme seviyelerini kullanarak bir adım daha ileri gider.
+Fibonacci seviyelerini kanal göstergesine dahil ederek, yatırımcılar fiyat 
+kanalında geri dönüşlerin gerçekleşme olasılığının daha yüksek olduğu belirli 
+bölgeleri belirleyebilirler. Bu bölgeler, işlemler için potansiyel giriş veya çıkış 
+noktaları olarak hareket edebilir ve ayrıca stop-loss veya take-profit 
+seviyelerinin belirlenebileceği alanlar olabilir.
+Bu gösterge yatay piyasa koşullarında en iyi şekilde çalışır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Alım Sinyali:
+Fiyat Fibonacci bölgesinin dibine dokunuyor
+Satış Sinyali:
+Fiyat en üst Fibonacci bölgesine dokunuyor
+Bu göstergeyi kullanarak alım ve satım sinyallerine örnek
+Ortalamaya Dönüş Göstergesi Sinyali #5: 
+Pivotlarla Onchart Dalga Trendi Sapması
+Yazan: AdonisWerther
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Bu göstergeyi bulmak için "Pivotlarla grafikte dalga trendi 
+sapması” gösterge arama kutusunda
+Genel Bakış:
+Bu gösterge, tersine dönüşleri tanımlamak için WaveTrend 
+göstergesinden ve pivot noktalarından gelen sapma sinyallerini 
+kullanır. Fiyat S1 veya R1 pivotlarına ulaştığında, bu fiyatın aşırı 
+uzadığını ve ortalamaya (ortadaki "P" çizgisi) geri dönme olasılığının 
+yüksek olduğunu gösterir. Bir sapma sinyali oluşursa (kırmızı veya 
+yeşil nokta), fiyat R1 veya S1 pivotunda olduğunda bu güçlü bir tersine 
+dönüş sinyalidir.
+Alım Sinyali:
+Fiyat S1 veya S2 pivotuna dokunuyor (veya yaklaşıyor) ve 
+yeşil bir nokta beliriyor (boğa sapma sinyali)
+Satış Sinyali:
+Fiyat R1 veya R2 pivotuna dokunuyor (veya yaklaşıyor) ve 
+kırmızı bir nokta beliriyor (ayı sapması sinyali)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Bu göstergeyi kullanarak bir satın alma sinyalinin örneği (S1 pivot 
+noktasındaki yeşil nokta)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Ortalama Geri Dönüş Gösterge Sinyali #6: 
+Keltner Kanalları
+Bu sinyali nasıl bulabilirim:
+Keltner kanallarını grafiğinize ekleyin
+Varsayılan ayar iyi çalışıyor, ancak daha sık scalping 
+sinyalleri için varsayılan ayarı değiştirmenizi öneririm. 
+çarpanı 1.5'e
+Genel Bakış:
+Keltner kanalları Bollinger bantlarına çok benzer, 
+aralarındaki temel fark Keltner kanallarının volatilite 
+yerine ATR'ye dayanmasıdır. Keltner kanallarında daha az 
+yanlış sinyal olduğu için Bollinger bantları yerine KC'yi 
+kullanmayı tercih ediyorum.
+Fiyatın üst/alt bantlara dokunması, potansiyel bir geri dönüşün 
+muhtemel olduğunu gösterir.
+Alım Sinyali:
+Fiyat dip KC bandına dokunuyor
+Satış Sinyali:
+Fiyat en üst KC bandına dokunuyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Keltner kanal göstergesini kullanarak alım ve satım sinyallerine 
+örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Ortalamaya Geri Dönüş Göstergesi Sinyali #7: Adil 
+Değer Bantları
+Yazan: quantifytools
+Bu göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna "adil 
+değer bantları" yazın (quantifytools tarafından)
+Genel Bakış:
+Adil değer bantları göstergesi, Bollinger Bantlarına benzer bir 
+göstergedir ancak daha az yanlış sinyalle daha doğru giriş ve 
+çıkışlar sağlamayı amaçlayan özel bir algoritma kullanılarak 
+hesaplanır.
+Adil Değer Bantları üç banttan oluşur, bunlar; 1x sapma, 
+2x sapma, 3x sapma bantlarıdır.
+Tüm bu bantlar giriş/çıkış sinyalleri için kullanılabilir, ancak en 
+doğru sinyaller fiyat 3x sapma bandına dokunduğunda ortaya 
+çıkar. 3x sapma bandı tek bir çizgi yerine bir bölge olarak 
+görünür.
+Temel (orta) çizgi de trend yönüne bağlı olarak renk 
+değiştirecektir. Bu göstergenin görsel stili giriş/çıkış 
+sinyallerini belirlemeyi kolaylaştırır.
+Satın Alma Sinyalleri:
+Fiyat, alt 3x sapma bandının bölgesine dokunuyor 
+veya giriyor
+Satış Sinyalleri:
+Fiyat, alt 3x sapma bandının bölgesine dokunuyor 
+veya giriyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Adil değer bantları göstergesinde alım ve satım sinyalinin 
+örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Ortalamaya Dönüş Göstergesi Sinyali #8: Yanlış 
+Kopuş (Expo)
+Yazan: Zeiierman
+Bu göstergeyi bulmak için gösterge arama kutusuna "False 
+Breakout (Expo)" yazın
+Genel Bakış:
+"Piyasadaki sahte kopuşları tespit etmek ve görselleştirmek için tasarlanmış 
+"Sahte Kopuş (Expo)". Sahte kopuşlar, fiyat bir destek veya direnç seviyesinin 
+ötesine geçtiğinde ancak hızla tersine döndüğünde, ilk kopuşa dayanarak 
+pozisyonlara giren yatırımcıları tuzağa düşürdüğünde meydana gelir. Sahte 
+bir kopuş meydana geldiğinde bu genellikle bir trend tersine dönüşünün 
+işaretidir.
+Bu gösterge, yatay/aralıklı piyasa koşullarında en iyi şekilde çalışır ve 
+bu da onu harika bir ortalamaya dönüş göstergesi yapar.
+Gösterge İpucu:
+Daha iyi scalping sinyalleri için gösterge ayarlarında "agresif" 
+seçeneğini etkinleştirin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Alım Sinyali:
+Desteğin yanlış kırılması meydana gelir ve fiyatın altında 
+yeşil bir üçgen belirir
+Satış Sinyali:
+Desteğin yanlış kırılması meydana gelir ve fiyatın üzerinde 
+kırmızı bir üçgen belirir
+Bu göstergeyi kullanarak satın alma (yeşil üçgen) ve satış (kırmızı üçgen) 
+sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Bölüm 5: Ortalamaya Dönüş Günlük Alım Satım 
+ve Scalping Stratejileri
+Bu bölümde sunulan stratejiler kural tabanlıdır ve yüksek 
+olasılıklı ortalamaya dönüş işlemlerini belirlemek için büyük 
+ölçüde teknik göstergelere dayanır. Bu göstergeler, işlem 
+girişleri ve çıkışları için mükemmel zamanlamayı işaret etmek için 
+birlikte çalışarak doğru piyasa koşullarında hızlı, tutarlı karlar 
+elde etmenizi sağlar.
+Kural Tabanlı Stratejiler
+Ticaret, bir bilim olduğu kadar bir sanattır ve kural tabanlı 
+stratejiler, ticaret sanatına bilimsel bir yaklaşım sunar. 
+Rakamlara dayanan bu stratejiler, duyguların etkisini 
+azaltarak ticarete disiplinli bir yöntem sunar. İşte sizi neler 
+bekliyor:
+Kural Tabanlı Girişler ve Çıkışlar:İşlem giriş ve çıkışları için 
+mükemmel zamanı işaret etmek amacıyla çeşitli 
+göstergelerin birleşimine dayalı belirli koşulları ana hatlarıyla 
+açıklayacağız.
+Disiplinli Yaklaşım:Kural tabanlı stratejilerle, 
+işlem kararlarındaki öznellik ve dürtüsellik en 
+aza indirilir, maliyetli hataların olasılığı azaltılır.
+Daha Yüksek Karlar:Bu stratejiler doğru piyasa 
+koşullarında ve doğru risk yönetimiyle 
+kullanıldığında oldukça karlı olabilir.
+En iyi sonuçlar için, öncelikle bu stratejileri kağıt üzerinde işlem yapmanız ve 
+geriye dönük test etmeniz önerilir. Bu, gerçek para riske atmadan bunların 
+nasıl çalıştığını ve hangi piyasa koşullarında kullanılacağını öğrenmenizi 
+sağlayacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Gösterge Tabanlı İşlemler
+Bu bölümde özetlenen scalping stratejileri temel olarak 
+çeşitli teknik göstergelerin kullanımına dayanır. Her 
+strateji en karlı fırsatları belirlemek için benzersiz bir 
+gösterge karışımı kullanır:
+Onay Göstergeleri:Bunları birincil 
+göstergelerin verdiği sinyalleri teyit etmek için 
+kullanıyoruz.
+Aşırı Alım/Aşırı Satış Sinyalleri:Bunlar, potansiyel olarak 
+aşırı uzamış fiyat hareketlerini tespit etmek için bir eşik 
+görevi görerek, yüksek olasılıklı geri dönüş noktalarını işaret 
+eder.
+Hareketli Ortalamalar:Fiyatın geri döneceğini beklediğimiz 
+ortalamayı tanımlamak için kullanılır.
+Scalping'in hızlı tempolu yapısı göz önüne alındığında, göstergelerin doğru kombinasyonu 
+yalnızca fırsatları hızlı bir şekilde belirlemeye yardımcı olmakla kalmayacak, aynı zamanda 
+scalping'e yapılandırılmış bir yaklaşım da sunacaktır.
+Bu bölümün sonunda, piyasadaki ortalamaya dönüş 
+modellerinden yararlanmaya hazır, bir dizi etkili scalping 
+stratejisine sahip olacaksınız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Ortalamaya Dönüş Stratejisi #1: Yanlış 
+Çıkış + VWAP
+Nasıl Çalışır:
+Bu strateji, girişleri belirlemek için "False Break" göstergesini 
+ve fiyatın ortalamadan aşırı uzadığı zamanı belirlemek için 
+standart sapma bantlarına sahip VWAP'ı kullanır. Stokastik 
+osilatörden gelen aşırı alım/aşırı satım sinyalleri, yanlış kopuş 
+göstergesinden gelen sinyalleri doğrulamak için kullanılır.
+Bu stratejide de ADX sadece yatay piyasa koşullarında işlem 
+yapmak için kullanılır.
+Gerekli Göstergeler:
+ADX
+VWAP (hacim ağırlıklı ortalama fiyat)
+Ayarlar:VWAP ayarlarında tüm bantları etkinleştirin
+Sahte Kopuş (Expo) – TradingView göstergesi
+Ayarlar: "Agresif" ayarını etkinleştirin
+Stokastik osilatör
+Ayarlar: %K Uzunluk = 14, %K Düzeltme = %6, D Düzeltme =3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Uzun Giriş Koşulları:
+ADX 25'in altında
+Fiyat VWAP'ın 1 standart sapmadan daha fazla 
+altında (ilk alt bandın altında)
+Stokastik osilatör aşırı satılmış ve yukarı doğru çaprazlanmış
+False Breakout göstergesinde bir satın alma sinyali oluştuğunda 
+uzun pozisyona girin. Stop loss'u giriş mumunun altına 
+yerleştirin.
+Fiyat VWAP'ın 1 standart sapmadan fazla üzerinde 
+olduğunda veya yanlış çıkış göstergesinde bir satış sinyali 
+oluştuğunda uzun pozisyondan çıkın
+Kısa Giriş Koşulları:
+ADX 25'in altında
+Fiyat VWAP'ın (ilk üst bandın) 1 standart 
+sapmadan daha fazla üzerindedir
+Stokastik osilatörü aşırı alım bölgesinde ve aşağı yönlü çaprazlanmış 
+durumda.
+False Breakout göstergesinde satış sinyali oluştuğunda short 
+pozisyonuna girin. Stop loss'u giriş mumunun üstüne 
+yerleştirin.
+Fiyat VWAP'ın 1 standart sapmadan fazla altında olduğunda 
+veya yanlış kırılma göstergesinde bir satın alma sinyali 
+oluştuğunda kısa pozisyondan çıkın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Bu stratejiyi kullanarak uzun bir giriş ve çıkış örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Ortalamaya Dönüş Stratejisi #2: Dalga Trendi + 
+Bollinger Bantları
+Nasıl Çalışır:
+Bu strateji, girişler ve çıkışlar için dalga trendi göstergesinden 
+aşırı alım/aşırı satım geçiş sinyallerini kullanır. Dalga trendi 
+sinyallerini doğrulamak için Bollinger bantları kullanılır. Dalga 
+trendi göstergesi, stokastik osilatöre benzer bir momentum 
+osilatörüdür, bu gösterge kombinasyonu, ortalamaya dönüş 
+ticareti için yan piyasa koşullarında çok etkili olacaktır.
+Bu stratejide de ADX sadece yatay piyasalarda işlem yapmak için 
+kullanılır.
+Gerekli Göstergeler:
+ADX
+Bollinger bantları
+Kumo'nun Zımni Volatilitesi ile Dinamik Bölgelerde 
+Dalga Trendi (TradingView göstergesi)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Uzun Giriş Koşulları:
+ADX 25'in altında
+Fiyat Bollinger bandının altına dokunuyor veya 
+altında
+Dalga trendinde WT pivot düşük sinyali oluştuğunda uzun 
+pozisyona girin (WT aşırı satılmışken yukarı doğru geçer), giriş 
+mumunun altına zararı durdur emri koyun
+WT pivot yüksek sinyali oluştuğunda uzun pozisyondan çıkın (WT 
+aşırı alım durumundayken aşağı doğru geçer)
+Veya
+Fiyat Bollinger üst bandının dışına çıkar ve 
+tekrar altına iner.
+Kısa Giriş Koşulları:
+ADX 25'in altında
+Fiyat Bollinger bandının altına dokunuyor veya 
+üstünde
+Dalga trendinde WT pivot yüksek sinyali oluştuğunda (WT 
+aşırı alım durumundayken aşağı doğru geçer) kısa 
+pozisyon açın, giriş mumunun üzerine stop loss koyun
+WT pivot düşük sinyali oluştuğunda kısa pozisyondan çıkın (WT aşırı 
+satılmışken yukarı doğru geçer)
+Veya
+Fiyat Bollinger bandının alt sınırını aşıyor ve 
+tekrar üstüne çıkıyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Bu stratejiyi kullanarak uzun bir giriş ve çıkış örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Ortalamaya Dönüş Stratejisi #3: Bollinger 
+Bantları Scalping Stratejisi
+Nasıl Çalışır:
+Bu stratejide, 5 periyotluk RSI ile uzunluğu 40 olarak değiştirilen 
+Bollinger bantlarını kullanıyoruz.
+Giriş sinyali, fiyatın Bollinger bantlarının üstüne/altına 
+çıkması ve RSI'ın aşırı alım/aşırı satım bölgesine girip 
+çıkmasıyla oluşur.
+ADX, yalnızca yatay piyasa koşullarında işlemlere girmek için 
+bir filtre olarak kullanılır. Fiyat zıt banda dokunduğunda bir 
+çıkış sinyali oluşur.
+Gerekli Göstergeler:
+Bollinger Bantları (40 periyot, 2 standart sapma) 
+RSI (5 periyot)
+ADX (14 dönem)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+Uzun Giriş Koşulları:
+ADX 25'in altında (trend olmayan piyasa) 
+Fiyat alt Bollinger Bandının altına geçiyor RSI 
+aşırı satım bölgesine giriyor (30'un altında)
+RSI aşırı satım bölgesinden çıktığında uzun pozisyona girin, stop 
+loss'u son salınım düşük seviyesinin altına yerleştirin
+Fiyat Bollinger Bandının tepesine ulaştığında uzun pozisyondan 
+çıkın
+Kısa Giriş Koşulları:
+ADX 25'in altında (trend olmayan piyasa) Fiyat 
+üst Bollinger Band'ın üzerine çıkıyor RSI aşırı 
+alım bölgesine giriyor (70'in üzerinde)
+RSI aşırı alım bölgesinden çıktığında kısa pozisyon açın, stop 
+loss emrini son salınım yüksekliğinin üzerine koyun
+Fiyat Bollinger Bandının dibine dokunduğunda kısa 
+pozisyondan çıkın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Bu stratejiyi kullanarak uzun bir giriş/çıkış örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Ortalamaya Dönüş Stratejisi #4: RSI ve KC 
+Stratejisi
+Nasıl Çalışır:
+Bu strateji için, yan piyasalarda scalping yapmak için Keltner 
+kanallarına sahip 5 dönemlik bir RSI kullanacağız. RSI, KC'nin en üst 
+veya en alt noktasına dokunurken aşırı alım/aşırı satım durumunda 
+olduğunda bir giriş sinyali oluşur.
+Ayrıca, yalnızca yatay piyasa koşullarında işlem yapmak ve uzun 
+vadeli trendle işlem yapmak için 200 EMA ve ADX göstergesi 
+kullanacağız
+Gerekli Göstergeler:
+RSI (uzunluğu 5'e değiştir)
+Keltner kanalları (çarpanı 1,5 olarak 
+değiştirin) ADX (ortalama yön endeksi)
+200 EMA (üstel hareketli ortalama)
+Uzun Giriş Koşulları:
+ADX 25'in altında ve fiyat 200EMA'nın üzerinde
+RSI aşırı satılmış (30'un altında) 
+Fiyat KC'nin altına dokunuyor
+RSI aşırı satım bölgesini geçtiğinde uzun pozisyona girin, 
+stop loss'u giriş mumunun altına yerleştirin
+Fiyat en yüksek KC'ye ulaştığında uzun pozisyondan çıkın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+Bu stratejiyi kullanan uzun bir giriş 
+örneği Kısa Giriş Koşulları:
+ADX 25'in altında ve fiyat 200EMA'nın altında
+RSI aşırı alımda (70'in üzerinde) 
+Fiyat en üst KC'ye dokunuyor
+RSI aşırı alım bölgesini geçtiğinde kısa 
+pozisyona girin
+Fiyat KC'nin altına ulaştığında kısa pozisyondan çıkın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Ortalamaya Dönüş Stratejisi #5: RSI Aralığı 
+Scalping Stratejisi
+Nasıl Çalışır:
+Bu stratejide, yanal piyasa koşullarını belirlemek için ADX 
+(14) ile birlikte 7 dönemlik bir RSI kullanıyoruz. RSI aşırı 
+alım/aşırı satım bölgesine girip çıktığında bir giriş sinyali 
+oluşur. ADX, trend olmayan bir piyasayı gösteren 25'in 
+altında olmalıdır.
+Aralığın teyit edilmesi için yatay bir destek ve direnç seviyesi 
+belirlenmelidir.
+Gerekli Göstergeler:
+RSI (7 dönem)
+ADX (14 dönem)
+Yatay destek ve direnç seviyeleri
+Uzun Giriş Koşulları:
+ADX 25'in altında (trend olmayan piyasa) RSI 
+30'un üzerine çıktı (aşırı satım)
+Fiyat destek seviyesine yakın
+RSI 30'un üzerine çıktığında uzun pozisyon açın, stop loss'u 
+destek seviyesinin altına yerleştirin
+RSI 70'e (aşırı alım) ulaştığında veya fiyat direnç 
+seviyesine yaklaştığında uzun pozisyondan çıkın.
+Kısa Giriş Koşulları:
+ADX 25'in altında (trend olmayan piyasa) 
+RSI 70'in altına geçiyor (aşırı alım) Fiyat 
+direnç seviyesine yakın
+RSI 70'in altına düştüğünde kısa pozisyon açın, stop loss'u 
+direnç seviyesinin üzerine koyun
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+RSI 30'a (aşırı satım) ulaştığında veya fiyat destek 
+seviyesine yaklaştığında kısa pozisyondan çıkın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+Ortalamaya Dönüş Stratejisi #6: VWHBB + Dalga 
+Trendi Stratejisi
+Nasıl Çalışır:
+Bu strateji, girişleri tanımlamak için iki TradingView 
+göstergesinden gelen sinyalleri kullanır, VWHBB ve Wavetrend 
+göstergesi. VWHBB bir bant göstergesidir (Bollinger bantlarına 
+benzer) ve Wavetrend bir momentum osilatörüdür (stokastik 
+osilatöre benzer).
+Bu stratejide de uzun vadeli trend yönünde işlem yapmak için 
+500 EMA kullanılır.
+Gerekli Göstergeler:
+500 EMA
+VWHBB (Hacim Ağırlıklı Gövde Hareketli Ortalama 
+Bollinger Bantları – TradingView göstergesi)
+Kumo'nun Zımni Volatilitesi ile Dinamik Bölgelerde 
+Dalga Trendi (TradingView göstergesi)
+WaveTrend Ayarları:
+Dalga Trendi Kanal Uzunluğu = 14,
+Dalga Trendi Ortalama Uzunluğu = 14
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Uzun Giriş Koşulları:
+Fiyat 500 EMA'nın üzerinde
+Fiyat VWHBB'de kırmızı aşırı satım bölgesinde
+Dalga trendi aşırı satım bölgesindeyken yukarı doğru geçtiğinde 
+uzun pozisyona girin, giriş mumunun altına zararı durdur emri 
+koyun
+Fiyat VWHBB'nin tepesine dokunursa veya dalga trendi aşağı doğru 
+geçerse uzun pozisyondan çıkın
+Kısa Giriş Koşulları:
+Fiyat 500 EMA'nın altında
+Fiyat VWHBB'de yeşil aşırı alım bölgesinde
+Dalga trendi aşırı alım bölgesindeyken aşağı doğru 
+geçtiğinde kısa pozisyon açın, giriş mumunun üzerine zararı 
+durdur emri koyun
+Fiyat VWHBB'nin dibine dokunursa veya dalga trendi 
+yukarı doğru çıkarsa kısa pozisyondan çıkın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+Bu stratejiyi kullanan uzun bir giriş örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Çözüm
+Deneyimli günlük yatırımcılar, piyasanın sürekli değişen bir 
+canavar olduğunu, sürekli olarak yeni zorluklar ve fırsatlar 
+sunduğunu bilir. Bu kılavuzda özetlenen stratejiler, bir 
+yatırımcının cephaneliğinin güçlü bir parçasıdır ve yatırıma 
+yönelik sistematik, disiplinli bir yaklaşım sunar. Unutmayın, 
+piyasada başarı tek bir "gümüş kurşun" stratejisinden değil, 
+çeşitli, uyarlanabilir bir yaklaşımdan gelir.
+Yatırım yolculuğunuza devam ederken şunları her zaman aklınızda bulundurun:
+Piyasalar Dinamiktir:Uyum sağlama yeteneği çok 
+önemlidir. Piyasa koşullarının farkında olun ve 
+stratejilerinizi buna göre ayarlamaya hazır olun.
+Risk Yönetimi Anahtardır:Hiçbir strateji 
+kusursuz değildir. Potansiyel düşüşlere karşı 
+korunmak için her zaman etkili risk yönetimini 
+dahil edin.
+Sürekli Öğrenme:Ticaret, hayat boyu süren bir 
+öğrenme yolculuğudur. Becerilerinizi geliştirmeye 
+devam edin ve en son ticaret teknikleri ve stratejileriyle 
+güncel kalın.
+Bu rehber, scalping stratejilerinizi geliştirmeye devam ederken 
+faydalı bir referans olarak hizmet etmek üzere tasarlanmıştır. Ele 
+aldığımız prensiplerin ve stratejilerin, daha yetenekli ve kendine 
+güvenen bir günlük tüccar olma yolculuğunuzda size iyi hizmet 
+edeceğine inanıyoruz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

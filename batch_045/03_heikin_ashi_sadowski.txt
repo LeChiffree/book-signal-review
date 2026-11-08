@@ -1,0 +1,167 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 8\Baskı 8\Heikin Ashi Trading Stratejisi - Roman Sadowski (11 sayfa) - @eseckal.pdf
+PAGES: 11
+
+
+=== PDF PAGE 1 ===
+MasterHeikin-Ashiwith thisTradingStrategy
+Roman Sadowski - Humbletraders.comwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+Heikin-Ashi Ticaret Stratejisi
+Nedir?
+Heikin-Ashi grafiği mum grafiğine benzemektedir ancak mumların 
+Heikin-Ashi grafiğinde hesaplanması ve çizilmesi yöntemi mum 
+grafiğinden farklıdır.
+Mum grafiklerinde her mum çubuğu dört farklı sayıyı gösterir: Açılış, Kapanış, 
+Yüksek ve Düşük fiyat. Heikin-Ashi mumları farklıdır ve her mum, önceki 
+mumdan alınan bazı bilgiler kullanılarak hesaplanır ve grafiği çizilir:
+1. Kapanış fiyatı: Heikin-Ashi mumu açılış, kapanış, en yüksek ve en 
+düşük fiyatın ortalamasıdır.
+2. Açılış fiyatı: Heikin-Ashi mumu bir önceki mumun açılış ve 
+kapanışının ortalamasıdır.
+3. Yüksek fiyat: Heikin-Ashi mumundaki yüksek fiyat, en yüksek 
+değere sahip olan yüksek, açılış ve kapanış fiyatlarından 
+birinden seçilir.
+4. Düşük fiyat: Heikin-Ashi mumundaki yüksek fiyat, en düşük 
+değere sahip olan yüksek, açılış ve kapanış fiyatlarından 
+birinden seçilir.
+Heikin-Ashi mumları birbirleriyle ilişkilidir çünkü her bir mumun kapanış ve 
+açılış fiyatı bir önceki mumun kapanış ve açılış fiyatı kullanılarak hesaplanır 
+ve ayrıca her mumun yüksek ve düşük fiyatı bir önceki mumdan etkilenir.
+Heikin-Ashi Ticaret Stratejisiwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Heikin-Ashi Ticaret Stratejisi
+Heikin-Ashi grafiği mum grafiğinden daha yavaştır ve sinyalleri gecikmelidir (tıpkı grafiğimizde 
+hareketli ortalamalar kullandığımızda ve bunlara göre işlem yaptığımızda olduğu gibi).
+Bu, birçok değişken fiyat hareketi durumunda bir avantaj olabilir.
+Bu günlük ticaret stratejisi, bu özel nedenden dolayı yatırımcılar arasında çok 
+popüler.
+Yatırımcının günlük mumun kapanmasını beklemesi gerektiğinden bunu anlamak da 
+çok kolaydır. Yeni mum doldurulduğunda önceki mum yeniden boyanmaz. 
+Bugünlerde her grafik aracında Heikin-Ashi göstergesine erişebilirsiniz. Heikin-Ashi 
+grafiğinin nasıl göründüğüne bakalım:
+Heikin-Ashi Ticaret Stratejisiwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Heikin-Ashi Ticaret Stratejisi
+Bununla nasıl ticaret yapabilirim?
+Yukarıdaki grafikte; Yükseliş mumları yeşil renkle, düşüş mumları ise kırmızı renkle 
+işaretlenmiştir.
+Heikin-Ashi'yi kullanan çok basit stratejinin, geçmiş testlerde ve canlı ticarette çok güçlü 
+olduğu kanıtlanmıştır. Strateji, Heikin-Ashi tersine çevirme modelini popüler momentum 
+göstergelerinden biriyle birleştirir.
+Benim favorim ayarları (14,7,3) olan basit bir Stokastik Osilatör olacaktır. Ters formasyon, 
+aşağıdaki GBPJPY ekran görüntüsüne göre günlük grafiklerde mumlardan ikisinin (düşüş 
+veya yükseliş) tamamen tamamlanması durumunda geçerlidir.
+Heikin-Ashi Ticaret Stratejisiwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Heikin-Ashi Ticaret Stratejisi
+KISA KURULUM
+Fiyat bir dizi yeşil mumun ardından art arda iki kırmızı mum bastığında, 
+yükseliş trendi sona ermiştir ve geri dönüş muhtemeldir. KISA pozisyonlar 
+dikkate alınmalıdır.
+UZUN KURULUM
+Fiyat bir dizi kırmızı mumun ardından art arda iki yeşil mum basarsa, düşüş 
+trendi sona ermiştir ve geri dönüş muhtemeldir. LONG pozisyonlar dikkate 
+alınmalıdır.
+FİLTRELER Ham mum oluşumu, bu günlük ticaret stratejisini değerli kılmak için yeterli 
+değildir. Yatırımcının yanlış sinyalleri ayıklamak ve performansı artırmak için başka 
+filtrelere ihtiyacı vardır.
+MOMENTUM FİLTRESİ (Stokastik Osilatör 14,7,3)14,7,3 ayarlarına sahip basit bir 
+Stokastik Osilatör kullanmanızı öneririz.
+Okumanızı şiddetle tavsiye ederim
+Stokastik Osilatör
+önce rehberlik edin.
+Heikin-Ashi Ticaret Stratejisiwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Heikin-Ashi Ticaret Stratejisi
+Uygulandığında aşırı alım/aşırı satım alanını gösterecek ve başarı 
+olasılığını artıracaktır.
+Bir Yatırımcı şimdi: Ardışık iki KIRMIZI mum tamamlandıktan sonra uzun 
+ticarete girerVe Stokastik 70 seviyesinin üzerinde İki ardışık YEŞİL mum 
+tamamlandıktan sonra kısa ticarete girinVe Stokastik 30 seviyesinin 
+altında.
+SİPARİŞ FİLTRESİNİ DURDUR
+Bu harika günlük ticaret stratejisinin performansını daha da artırmak için diğer 
+dosyalayıcılar kullanılabilir.
+Kurulum tamamlandıktan sonra stop emirleri vermenizi tavsiye ederim. Aşağıdaki 
+grafikte gösterilen uzun kurulumda, yatırımcı ikinci Heinkin-Ashi ters mumunun en 
+yüksek seviyesinin birkaç pip üzerine uzun stop emri koyacaktır.
+Aynı durum kısa kurulumlar için de geçerli olacaktır; tüccar, ikinci ters mumun en düşük 
+seviyesinin birkaç pip altına bir satış durdurma emri koyacaktır.
+Heikin-Ashi Ticaret Stratejisiwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Heikin-Ashi Ticaret Stratejisi
+Hızlandırıcı Osilatör filtresi
+Başka bir araç olarak standart Hızlandırıcı Osilatörünü kullanabilirsiniz. Bu günlük 
+grafikler için oldukça iyi bir göstergedir. Bazen yeniden boyanır, ancak çoğunlukla 
+basıldıktan sonra aynı kalma eğilimindedir.
+Her bar gece yarısı doldurulur.
+Nasıl kullanılır?
+Heikin-Ashi mumları basıldıktan sonra Hızlandırıcı Osilatör ile ters işlemi 
+onaylayın.
+Uzun işlemler için: Eğer ardı ardına iki YEŞİL mum basılırsa, AC'nin günlük grafiklerde 0 
+çizgisinin üzerindeki yeşil çubuğu yazdırmasını bekleyin.
+Kısa vadeli işlemler için; Ardışık iki KIRMIZI mum basılırsa, AC'nin günlük grafiklerde 0 
+çizgisinin üzerindeki kırmızı çubuğu yazdırmasını bekleyin.
+Heikin-Ashi Ticaret Stratejisiwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Heikin-Ashi Ticaret Stratejisi
+TÜZÜK
+Ters formasyon, aşağıdaki GBPJPY ekran görüntüsüne göre günlük grafiklerde mumlardan 
+ikisinin (düşüş veya yükseliş) tamamen tamamlanması durumunda geçerlidir. Fiyatın bir yöne 
+doğru dalgalanmasından hemen sonra piyasaya girmeyin. Piyasadaki temel haberleri dikkate 
+almak önemlidir. Aşağıdaki gibi günlerden kaçınmanızı tavsiye ederim:
+1. Resmi Tatil
+2. NFP
+3. FOMC
+4. Merkez Bankacılarının konuşmaları.
+Heikin-Ashi Ticaret Stratejisiwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Heikin-Ashi Ticaret Stratejisi
+Para yönetimi:
+1. 50 pip kar elde ettikten sonra başabaş noktasına gelmek için pozisyonu hareket ettirin.
+2. Önemli yerel düşük ve yüksek seviyelerde veya ters sinyal üretildiğinde zararı durdurma 
+yönünde hareket edin. Kazananlarınızın koşmasına izin verin.
+3. Zararı 100 pip sabit olarak durdurun veya kayıpları durdurmak için yerel teknik 
+seviyeleri kullanın.
+4.Her yatırımcıya kendi para yönetimi kurallarını uygulaması 
+tavsiye edilir.
+Strateji örnekleri ve ekran görüntüleri
+Strateji çok fazla kurulum yaratmaz, ancak ürettiğinde bunlar genellikle önemli piyasa 
+zirveleri veya dipleri olur. Öncesi ve sonrası bazı örnek ticaret kurulumlarına bakın.
+Aşağıdaki kurulumlara yönelik hazır MT4 şablonlarını edinmek için lütfen
+İNDİRMEK İÇİN BURAYA TIKLAYIN
+Daha sonra sıkıştırılmış dosyayı açıp MT4'ünüze yerleştirebilir ve aşağıdaki tabloları hazır hale 
+getirebilirsiniz.
+Heikin-Ashi Ticaret Stratejisiwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Heikin-Ashi Ticaret Stratejisi
+Tarih: 22 Mayıs 2013
+İşlem: Uzun Fiyat girişi: 1,2922 Çıkış fiyatı: 1,3215Sonuç: +300
+Tarih: 21 Haziran 2013
+İşlem: Açık Fiyat girişi: 1,3215 Çıkış fiyatı: 1,3087Sonuç: +130
+Heikin-Ashi Ticaret Stratejisiwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Heikin-Ashi Ticaret Stratejisi
+Tarih: 31 Ekim 2013
+İşlem: Açık Fiyat girişi: 1,3686 Çıkış fiyatı: 1,3505Sonuç: +170
+Heikin-Ashi Ticaret Stratejisiwww.forexgercekleri.xyz - [Twitter: @eseckal]

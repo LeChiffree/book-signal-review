@@ -1,0 +1,1406 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 9\Baskı 9\Gelişmiş Mum ve Ichimoku Stratejileri - Action Forex (82 sayfa) - @eseckal.pdf
+PAGES: 82
+
+
+=== PDF PAGE 1 ===
+1
+Action Forex Company Limited © 2010
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+İÇİNDEKİLER
+İÇİNDEKİLER............................................... .................................................. ...................................4
+GİRİİŞ................................................. .................................................. ......................................5
+BÖLÜM 1 DÖVİZ TİCARETİNDE GRAFİK ANALİZİ ..................................................... .....................6
+1.1 - benDÖVİZ TİCARETİNDE GRAFİK ANALİZİNİN ÖNEMİ.................................................. .................. 6
+1.2 - BASIC GRAFİK ANALİZİ.................................................. .................................................. ......................7
+1.2a) Trend analizi.................................................. .................................................. ..................................8
+1.2b) Destek ve Direnç.................................................. .................................................. ..................12
+1.2c) Desen Tanıma ................................................... .................................................. ......................16
+1.2d) Ölçme Teknikleri.................................................. .................................................. ..................23
+BÖLÜM 2 FIBONACCI GERİ ÇEKİLMELERİ VE PROJEKSİYONLARI ................................................... ...........25
+2.1 RGİRİŞ.................................................. .................................................. ...................................................25
+2,2 PROJEKSİYON.................................................. .................................................. .................................................... 29
+BÖLÜM 3 ŞAMDAN GRAFİKLERİNİN KULLANIMI ................................................... ...................................................31
+3.1 – MAJORBULLİSPDESENLER.................................................. .................................................. ................32
+Çekiç................................................. .................................................. ..................................................32
+Doji...................................................... .................................................. .................................................. .......33
+Sabah yıldızı ................................................... .................................................. ....................................................34
+Harami .................................................. .................................................. .................................................. .35
+Boğa Yutan Formasyonu.................................................. .................................................. ......................36
+3.2 – MAJORBKULAKPDESENLER.................................................. .................................................. ..............37
+Kayan Yıldız ................................................... .................................................. ...................................................37
+Doji...................................................... .................................................. .................................................. .......37
+Akşam yıldızı ................................................... .................................................. ....................................................38
+Harami .................................................. .................................................. .................................................. .39
+Ayı Yutan Formasyon ..................................................... .................................................. .....................40
+BÖLÜM 4 ICHIMOKU ANALİZİ.................................................. .................................................. .....42
+4.1 – benGİRİŞ.................................................. .................................................. ..................................42
+4.2 - TO5HATLARIBENÇİMOKU.................................................. .................................................. .................42
+BÖLÜM 5 BUNLARI BİR ARAYA GETİRMEK – TİCARİ ÖRNEKLER ................................................... ........50
+6. BÖLÜM ÖZET VE SONUÇ.................................................. ...................................................84
+ÖNERİLEN TİCARET KAYNAKLARI................................................................. ....................................................85
+4
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+GİRİİŞ
+İnternet dünyasındaki hızlı gelişmeden bu yana, çevrimiçi döviz ticareti 
+giderek daha popüler hale geliyor; önde gelen internet komisyoncularının 
+sağladığı daha dar spreadler sayesinde sayısız yatırımcı günlük forex 
+ticaretine katılmaya çekildi.
+Bireysel yatırımcıların forex piyasalarını analiz etmek ve alım satım kararları vermek için 
+kullandıkları yöntemler arasında temel analiz ve teknik analiz yer almaktadır. Muazzam işlem hacmi 
+göz önüne alındığında (dünyadaki tüm borsaların çok ötesinde, forex piyasaları işlem gününde 
+yaklaşık 4 trilyon ABD doları işlem görmektedir), forex piyasasının mükemmel bir yer olduğuna 
+inanıyoruz (bazıları forex piyasasını bunun en yakın örneği olarak görüyor). Ticaret kârlılığınızı 
+artırmak için teknik analiz uygulamak için ekonomide açıklanan mükemmel bir piyasa koşulu.
+Bu E-kitapta, trend analizi, örüntü tanıma ve Fibonacci geri çekilme yüzdesi ve 
+projeksiyonlar gibi temel teknik analiz tekniklerine ek olarak, her ikisi de Japonlar 
+tarafından icat edilen iki teknik grafik aracına, Şamdanlara ve Ichimoku Kinko'ya 
+odaklanmak istiyoruz. Hyo. Bu iki Japon grafik aracının geleneksel teknik analiz 
+yöntemleriyle kombinasyonunun, özellikle son dönemdeki çok değişken piyasa 
+koşullarında piyasa hareketlerini tahmin etmede inanılmaz derecede iyi çalıştığını 
+gördük.
+Objektif ticaret stratejilerini formüle etmek için bu araçların nasıl kullanılacağını açıklarken 
+en son örnekleri kullanacağız. Ayrıca, 2009'un başından bu yana Actionforex.com'da 
+Ichimoku ve Candlesticks ticaret fikirlerini yayınladığımız ve USD/JPY, EUR/USD, USD/CHF, 
+GBP/USD üzerinden ticaret stratejileri güncellemeleri sağladığımız için uygulamaları 
+göstermek için gerçek hayattan örnekler kullanılıyor. , AUD/USD ve EUR/JPY (günde 2 kez), 
+net giriş seviyeleri, kar hedefleri (100 puandan 150 puana kadar) ve zararı durdurma (50-60 
+puan).
+5
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+BÖLÜM 1
+Döviz Ticaretinde Grafik Analizi
+1.1 - Döviz ticaretinde grafik analizinin önemi
+Temel olarak forex piyasasında fiyat veya döviz hareketini tahmin etmede iki ana 
+analiz yöntemi vardır; Temel analiz ve Teknik analiz/grafik analizi. Temel analiz, 
+ticaret dengesi, cari hesap, GSYİH, işsizlik oranları ve enflasyon endeksi, 
+hükümetin para ve maliye politikaları, faiz oranları ve hatta sosyal ve politik güçler 
+gibi ülkenin ekonomik koşullarına ilişkin çalışmaları içerir. Bazı yatırımcılar ticaret 
+stratejilerini belirlerken bu ekonomik göstergelere, haberlere ve duyurulara 
+dayanarak yaptıkları analizlere güvenmektedir.
+Tüm bu finansal ve finansal olmayan faktörlerin, uzun vadeli döviz dalgalanmalarının 
+çoğunun ardındaki gerçek nedenler olduğunu, başka bir deyişle hareketlerin 
+nedenleri veya nedenleri olduğunu kabul etmemiz gerekirken, kısa vadeli günlük 
+ticaret söz konusu olduğunda, Teknik analizin rolü çok daha önemli hale geliyor (ve 
+aslında sebebin ne olduğu da pek önemli değil). Teknik analizde, tüccarlar geçmiş 
+piyasa hareketlerinin çeşitli grafiklerini inceleyerek fiyat hareketleri veya gelecekteki 
+piyasa yönleri hakkında tahminlerde bulunurlar; teknik analizin amacı, bir eğilimi 
+erken aşamada belirlemek ve bu eğilim doğrultusunda işlem yapmaktır. Analist, 
+hakim piyasa duyarlılığından etkilenmediğinden ve fiyatın gelecekte hangi yöne ve ne 
+kadar ilerleyeceğine dair daha objektif bir yargıya varabildiğinden, teknik analiz çok 
+güçlü bir tahmin yöntemidir.
+Forex piyasası dünyadaki en büyük finansal piyasa olduğundan ve aynı zamanda yüksek kaldıraç 
+oranına sahip olduğundan, küçük fiyat hareketleri bile ticaret performansınız üzerinde dramatik 
+bir etkiye sahip olabilir; dolayısıyla yatırımcıların kesin giriş ve çıkış noktaları belirlemek için bazı 
+etkili planlara ve yöntemlere ihtiyacı vardır ve bu da aynı zamanda Teknik analizde çok önemli bir 
+husus daha. Ticaret stratejilerini formüle ederken belirli teknik göstergeleri (örneğin hareketli 
+ortalamalar veya Ichimoku) ve hesaplama tekniklerini (örneğin geri çekilmelerin ve 
+projeksiyonların Fibonacci yüzdesi) kullanarak, kişi giriş, çıkış ve zararı durdurma fiyatlarını 
+belirlemek için daha objektif seviyeler belirleyebilir. Temel analiz bu seviyeleri sağlama konusunda 
+yeterli değildir.
+Kısacası, teknik analiz yalnızca fiyat tahmin sürecinde yatırımcıların gelecekteki piyasa yönlerini 
+tahmin etmelerine yardımcı olan etkili bir yöntem değildir, aynı zamanda günlük ticarette açık 
+ve kesin zamanlamayı ve giriş ve çıkış seviyelerini bulmak için vazgeçilmez bir analiz tekniğidir. 
+bu nedenle grafik analizi veya teknik analiz, ticaret stratejilerinin formüle edilmesinde çok 
+değerli bir prensiptir.
+6
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+1.2 - Temel grafik analizi
+Teknik analiz olarak da bilinen grafik analizi, gelecekteki fiyat yönünü tahmin etmek için temel 
+piyasada geçmiş hareketleri ve arz ve talep seviyesini incelemek için fiyat grafikleri (örneğin 
+çizgi grafik, çubuk grafik veya mum grafik) kullanılarak piyasa hareketinin incelenmesidir. veya 
+eğilim. Teknik analiz size hareketlerin ardındaki nedenlerin neler olduğunu söyleyemese de 
+(temel ürünün sözde değerini gerçekten umursamadığı için), yatırımcıların belirli hisse senedi 
+veya para biriminin fiyatının nerede olacağını tahmin etmelerine yardımcı olan yararlı bir 
+araçtır. çift   hareket edecek.
+Grafik desenleri, teknik göstergeler ve osilatörler, mum çubukları ve dalga teorisi 
+gibi pek çok farklı teknik analiz yöntemi olmasına rağmen, tüm teknik analiz 
+felsefesi arz ve talebi incelemek için geçmiş fiyat ve hacim verilerinden yararlanır, 
+dolayısıyla Grafik analizi alanında üç varsayıma dayanmaktadır:
+1. Piyasa fiyatı her şeyi iskonto eder
+Bazı insanlar, teknik analizin, ilgili tüm bilgilerin (örneğin, bir ülke ekonomisinin 
+temel faktörleri) halihazırda fiyat hareketlerine yansıdığını varsaydığı için temel 
+analizin basit bir kısa yolu olduğunu düşünürken, çoğu zorlu teknik analist bunun 
+böyle olmadığına inanıyor. Herhangi bir zamanda temel faktörleri analiz etmek 
+gerekli olduğundan, genel ekonomik unsurlar ve piyasa psikolojisi, geçmiş fiyat 
+hareketlerine indirgenir, bu da temelleri inceleme işini gereksiz hale getirir ve 
+sadece arz ve talep arasındaki ilişkiye dikkat etmek, yeterli ol.
+2. Fiyatlar trendlere göre hareket eder.
+Grafik analistleri, fiyat hareketlerinin trendleri takip ettiğine, piyasaların yukarı, aşağı veya yatay 
+trende eğilimli olduğuna inanırlar, bu nedenle teknik analizdeki önemli görevlerden biri piyasa 
+trendini erken bir aşamada belirlemektir, çünkü bir trend oluşturulduktan sonra gelecekteki fiyat 
+hareketleri de belirlenir. Önceki trendle aynı yönde olma ihtimali zıt yönde olmaktan daha 
+yüksektir.
+3. Tarih Tekrarlanma Eğilimindedir
+Finansal piyasalardaki tüm katılımcılar insan olduğu için teknisyenler, kendilerinden 
+önce yaptıkları eylemi kolektif olarak tekrarlamanın da bir insan davranışı olduğuna 
+inanırlar. Yatırımcı davranışı kendini çok sık tekrar ettiğinden, grafik uzmanları belirli bir 
+grafik modelinin gelişip benzer sonuçlarla sonuçlanacağını düşünme eğilimindedir. 
+Örneğin, bir devam paterni oluştuktan sonra fiyat hareketlerinin ve piyasanın 
+tekrarlayan doğası nedeniyle önceki trend aynı yönde devam edecektir.
+7
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Katılımcılar zaman içinde benzer piyasa uyarımlarına tutarlı bir tepki verme eğilimindedir.
+Kısaca teknik analiz veya grafik analizi, hareketlerin nedeni yerine geçmiş fiyat 
+hareketlerini inceleyerek piyasadaki duyguları anlamaya çalışır.
+Çok sayıda teknik analiz yöntemi vardır ancak trend analizi, destek ve direnç, 
+formasyon tanıma gibi bazı temel grafik araçlarını tartıştıktan sonra Fibonacci geri 
+çekilmeleri ve tahminlerinin uygulanmasına odaklanmaya devam edeceğiz; Şamdan 
+grafik modelinin kullanımı; Ichimoku Kinko Hyo ve son olarak karlılığı artırmak amacıyla 
+objektif bir ticaret stratejisi oluşturmak için bunların hepsinin nasıl bir araya 
+getirileceği.
+1.2a) Trend analizi
+Yatırımcıların finansal piyasada kullandığı çok popüler bir tabir vardır: "Trend 
+dostunuzdur", dolayısıyla piyasa trendini belirlemenin önemi görülebilir. Aslında bu, 
+grafik analizindeki en temel ama en önemli kavramlardan biridir, aslında kavramın 
+kendisi de oldukça basit ve anlaşılması kolaydır. Genel olarak 3 ana trend türü vardır 
+ve bunlar:
+Yükseliş trendi:
+Bir dizi daha yüksek zirveler (ardışık her zirve/direnç bir öncekinden daha yüksek 
+olmalıdır) ve bir dizi daha yüksek düşükler (ardışık her dip/destek bir öncekinden 
+daha yüksek olmalıdır).
+8
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Düşüş trendi:
+Bir dizi daha düşük dipler (ardışık her dip/destek bir öncekinden daha düşük 
+olmalıdır) ve bir dizi daha düşük yüksekler (ardışık her zirve/direnç bir öncekinden 
+daha düşük olmalıdır).
+Yanlara doğru
+Yan yönlü bir trend (diğer bir deyişle yatay trend), fiyatın destek ve direnç seviyeleri 
+arasında hareket ettiği belirli bir dönemde meydana gelir.
+Trend kavramını anlamak oldukça kolay olsa da trend analizinde 2 şeyi akılda tutmak 
+gerekir: Piyasa trendini erken bir aşamada belirlemek için mümkün olan en kısa sürede içeri 
+girin ve trendin mümkün olduğu kadar uzun süre içinde kalın.
+9
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Kendi ticaret zaman çerçevenizi belirlemek için.
+Aşağıdaki tabloya bakalım:
+A noktasından B noktasına, bu, birbirini takip eden bir dizi yüksek en yüksek ve daha yüksek en düşük 
+düşüşlerden oluşan bariz bir yükseliş trendidir; kısa vadeli veya gün içi bir yatırımcı, yükseliş trendi tespit 
+edildikten sonra (büyük olasılıkla yükselişin ardından) uzun bir pozisyona girmeyi düşünebilir. ikinci 
+yüksek ve düşük set oluşturuldu). Bununla birlikte yukarıdaki grafik saatlik bir grafiktir ve aşağıdaki 
+günlük grafiğe bakarsak:
+10
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Önceki grafikteki yükseliş trendi sadece büyük bir düşüş trendindeki (neredeyse bir 
+yıl süren) bir toparlanmadır ve pozisyon alıcısı bunu, kabloyu 1,3500'e kadar düşüren 
+sonraki satışlara katılmak için bir satış fırsatı olarak kullanmalıdır.
+Bu nedenle, bir tüccar/yatırımcının analiz yapmak için uygun grafiği seçebilmesi 
+amacıyla kendi ticaret zaman dilimini belirlemesi çok önemlidir.
+11
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Günde bir veya iki kez pozisyon alan ve bir gün veya daha uzun süre pozisyon alabilecek kısa vadeli 
+bir oyuncu, bu grafik son 1-2 haftadaki fiyat hareketini kapsayacağından saatlik bir grafiğe 
+odaklanacaktır ve günlük grafiği kullanarak, pazar eğilimi. Gün içi trader, piyasayı analiz etmek için 
+15 dakikalık grafiği kullanabilir ve ana trende karar vermek için saatlik grafiği kullanabilir. Uzun 
+vadeli yatırımcılar için, uzun vadeli eğilimleri tespit etmek ve uzun vadeli fiyat hareketlerini tahmin 
+etmek için haftalık ve aylık grafiklere odaklanılmalıdır. Uzun vadeli grafikler tarihsel fiyat 
+hareketlerine ilişkin daha geniş bir perspektif sunabildiğinden, daha yakın vadeli grafikler daha 
+geniş bir perspektif sunabildiğinden, uzun vadeli ve kısa vadeli grafikleri birleştirme yaklaşımının 
+(çoklu zaman çerçevesi yaklaşımı) kullanılmasını önemle tavsiye ederiz. Giriş ve çıkış seviyelerinin 
+ince ayarını yapmak için kullanılır.
+1.2b) Destek ve Direnç
+Piyasa trendini belirlemeye yardımcı olacak pek çok araç mevcuttur; bunlardan bazıları 
+trenddeki bir değişikliğin önceden önlenmesine de yardımcı olabilir. Bu araçlardan 
+belki de en basiti ve en değerlisi olan trend çizgisidir. Ancak trend çizgisinin 
+kullanımının detaylarına girmeden önce destek ve direnç kavramlarını daha iyi 
+anlamak gerekir.
+Destek
+Destek, satın alma faizlerinin (talebin) satış baskılarını (arz) aştığı, fiyat düşerken düşüşün 
+burada sınırlanacağı ve fiyatın destek bulma eğiliminde olacağı ve bu seviyeyi kırmak 
+yerine bu seviyeden toparlanma ihtimalinin daha yüksek olduğu bir fiyat seviyesidir. 
+Ancak bu seviye kırıldığında, yani arz talebi aştığında, başka bir destek seviyesi buluncaya 
+kadar düşüş devam etmelidir.
+Rezistans
+Direnç desteğin tam tersidir. Satış baskısının (arzının) alış faizini (talebi) aştığı, 
+fiyat yükselirken yükselişin burada sınırlandırılacağı ve fiyatın engelle karşılaşma 
+eğiliminde olduğu ve bu seviyeyi kırmak yerine geri çekilme ihtimalinin olduğu 
+bir fiyat seviyesidir. Ancak bu seviye aşıldığında, yani talep arzı aştığında, yükseliş 
+başka bir direnç seviyesi buluncaya kadar kuzeye doğru devam etmelidir.
+Destek ve direnç seviyelerini anlamak
+Bir destek seviyesi veya direnç seviyesi ne kadar sıklıkla test edilirse (fakat 
+kırılmazsa), bu seviye o kadar güçlü ve anlamlı olur.
+Destek veya direnç seviyesi ne kadar yakın zamanda oluşursa, sonraki piyasa 
+hareketlerine etkisi açısından seviye o kadar önemli olur.
+12
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Destek ve direnç seviyeleri kırıldığında rolleri tersine döner. Eğer fiyat bir desteğin 
+altına düşerse, bu seviye genellikle yeni bir direnç seviyesine dönüşür ve bunun tersi 
+de geçerlidir. Mantık şu; desteğin kırılması, arzın talebi aştığının sinyalini veriyor ve bu 
+nedenle fiyat bu seviyeye geri dönerse arzda bir artış görülmesi oldukça muhtemeldir 
+ve aynı zamanda destekten önce alım yapanlar da vardır. Kırılanlar böyle bir hamlede 
+konumlarını düzeltmeye çalışır, dolayısıyla arz da artar. Direncin desteğe dönüşmesi 
+kavramı için de benzer prensip geçerlidir.
+Yukarıdaki grafikte de görebileceğiniz gibi bir destek sadece dirence dönüşmekle 
+kalmaz, aynı zamanda destek hattı ve direnç çizgisi için de geçerli olabilir. Birkaç direnç 
+noktası birleştirilerek bir direnç çizgisi elde edilebilir ve bu çizgi aşıldığında destek 
+çizgisine dönüşür.
+13
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Trend çizgisi
+Teknik Analizdeki temel varsayımlardan biri, fiyatların trend içinde hareket ettiği ve trend çizgisinin 
+kullanımının, grafik analizinde sadece trendi tanımlamak için değil aynı zamanda trenddeki bir değişikliği 
+önceden tahmin etmek için de önemli bir araç olduğudur.
+Trend çizgisi, iki veya daha fazla fiyat pivot noktasının (destek veya direnç seviyeleri) 
+birbirine bağlanması ve ardından geleceğe doğru genişletilmesi (grafiğin sağ sınırı) ile 
+oluşturulan çapraz bir düz çizgidir. Yukarı trend çizgisi, pozitif eğimle yükselen bir piyasada 
+oluşur ve destek noktalarının birleştirilmesiyle çizilir; aşağı trend çizgisi ise negatif eğimle 
+düşen bir piyasada ortaya çıkar ve birkaç direnç noktasının birleştirilmesiyle çizilir. Trend 
+çizgisinin bağlı olduğu pivot noktaları ne kadar fazlaysa; Bu destek veya direnç çizgisi o 
+kadar güçlü olur.
+Direnç trend çizgisi (Aşağı trend çizgisi)
+14
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Destek trend çizgisi (Yukarı trend çizgisi)
+Trend çizgisinin bir işlevi trend hareketini takip etmektir, bu nedenle yukarı trend çizgisi ve aşağı 
+trend çizgisi sırasıyla destek ve direnç sağladığından giriş ve çıkış zamanlamasını tahmin etmek 
+için kullanılabilir, dolayısıyla yükselişe katılmak ve stop koymak için bir yukarı trend çizgisi 
+kullanılabilir. çizginin altında kayıp. Yöndeki bir değişikliği belirtmek için trend çizgisinin kırılmasını 
+kullanmak oldukça yaygındır; örneğin yukarı trend çizgisinin altındaki bir kırılma, artan net talebin 
+(arzı aşan talep) koşulunun değiştiğini gösterir; bu da kaçınılmaz olarak trendde bir değişikliğin 
+yakın olduğu anlamına gelir.
+Yukarıdaki grafikte trend çizgisinin bir başka özelliği de destek trend çizgisi kırıldığında; 
+aynı zamanda bir direnç çizgisi haline gelecektir ve bunun tersi de bir direnç trend çizgisi 
+olacaktır.
+15
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+1.2c) Desen Tanıma
+Teknik analizin çok geleneksel bir kullanımı, devam formasyonları ve dönüş 
+formasyonları olarak kategorize edilebilen grafik formasyonlarıdır ve bunların hepsi 
+tahmin işlevine sahiptir.
+Zaman zaman arz ve talebin piyasa güçleri birbirleriyle mücadele eder, temel olarak 
+grafik kalıpları tüm alım ve satım faaliyetlerini ortaya koyan resimli bir kayıttır ve 
+kalıplar çeşitli destek ve dirençler arasındaki ilişkiyi gösterir. Farklı kalıpları inceleyerek 
+güçlerin hangi tarafının, yani boğaların ve ayıların kazandığını ölçebilir ve dolayısıyla 
+bir sonraki olası yönü tahmin etmeye yardımcı olabilir.
+Grafik modelleri, yatırımcıları veya tüccarları piyasanın doğru tarafında tutmak için son 
+derece yararlı ve gereklidir ve hem kısa vadeli hem de uzun vadeli tahminlerde 
+kullanılabilir. 2 ana grafik deseni türü vardır:
+Devam kalıpları
+Devam formasyonu genellikle mevcut trenddeki geçici duraklamaları temsil eder ve büyük 
+olasılıkla formasyon önceki yönün yeniden başlamasıyla sona erecektir. Genel olarak devam 
+formasyonlarının oluşması, dönüş formasyonlarıyla karşılaştırıldığında daha az zaman alır, 
+ancak devam formasyonlarını görmek, dönüş formasyonlarından daha yaygındır (bir trend 
+boyunca birkaç devam formasyonu olabilirken yalnızca bir veya maksimum iki dönüş 
+formasyonu görünebilir) ).
+Üçgenler, bayraklar, flamalar, dikdörtgenler de dahil olmak üzere yaygın olarak 
+bulunan birkaç devam formasyonu vardır ve üçgen formasyonu diğer devam 
+formasyonları arasında en güvenilir olanı olarak kabul edilir. Görünüşlerine göre 
+adlandırılan birkaç farklı üçgen de vardır; bunlar simetrik üçgen, yükselen üçgen ve 
+alçalan üçgendir, burada simetrik üçgene odaklanacağız.
+Üçgen
+Simetrik üçgen normalde bir trend sırasında oluşur ve mevcut yönünde devam 
+edecek olan hakim harekette geçici bir duraklama sergiler. Formasyon, fiyat 
+aralığında bir daralma ile karakterize edilir ve formasyonun içinde genellikle en az 
+iki düşük reaksiyon yüksek seviyesi ve iki yüksek reaksiyon düşük seviyesi bulunur, 
+dolayısıyla bu direnç noktaları ve destek noktaları bağlandığında, çizgiler simetrik 
+bir şekilde şekillenen birleşir. Başlangıçta en geniş kısmı olan ve zamanla daralan 
+üçgen.
+Formasyonun oluşumu sırasında, fiyatın iki daralan çizgi, direnç çizgisi ve 
+destek çizgisi arasında dalgalandığı yan yönlü ticaret gerçekleşir. Düşüş 
+trendinde destek hattı sinyal hattı veya tetikleme hattı haline gelir
+16
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Yükseliş trendindeyken direnç çizgisi sinyal çizgisi haline gelir. Bu çizginin 
+kırılması formasyonun sona erdiğini teyit eder ve fiyatın hakim trend yönüne 
+doğru ilerlemesi gerekir.
+Bu kırılmanın zamanı ideal olarak tüm modelin zaman aralığının %50 ila %75'i 
+arasında gerçekleşmelidir (yani modelin başlangıcından 2 çizginin sağda buluştuğu 
+noktaya, yani zirveye kadar yatay mesafe ölçümü), kırılmanın zamanlaması sonraki 
+etkiyi etkileyecektir; eğer yarılanmadan önce meydana gelirse, bu çok erken olduğu 
+anlamına gelir (oluşum için yeterli zaman yoktur). Eğer kırılma zirveye çok yakın 
+gerçekleşirse, bu önemsiz olabilir ve etkisi sınırlı olma eğilimindedir.
+Düşüş trendinde destek hattı (diğer adıyla sinyal hattı) kırıldığında bu, düşüşün 
+yeniden başlayacağının erken onayını sağlar.
+17
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Üçgen bir devam formasyonu olarak kabul edilse de, piyasaya girmeden önce acele 
+etmemeniz ve kırılmanın gerçekleşmesini beklememeniz şiddetle tavsiye edilir, çünkü 
+bazen üçgen başlangıçta bir devam formasyonu olarak görünebilir ancak sonunda bir 
+dönüş formasyonu haline gelebilir. aşağıda gösterilen grafik gibi.
+Diğer devam desenleri arasında genellikle trend olan bir hareket boyunca bulunabilen 
+bayraklar, flamalar ve dikdörtgenler bulunur. Bayraklar ve flamalar, önceki trend devam 
+etmeden önce kısa bir duraklama veya küçük bir konsolidasyon olarak temel olarak kısa vadeli 
+bir formasyon olarak kabul edilir. Bu formasyonlardan önce çoğunlukla keskin bir yükseliş veya 
+düşüş gelir ve genellikle trendin ortasında meydana gelir.
+Bu formasyonlar ne kadar benzer olursa olsun, hepsinin ortak bir özelliği vardır; 
+formasyonda yakın vadede bir karşı trend çizgisi (trend aleyhine eğim) belirir.
+18
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+sinyal hattı veya tetikleme hattı olarak hizmet eder. Sinyal hattının kırılması devam 
+formasyonunun sona erdiğini teyit eder ve fiyat devam etmelidir.
+19
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Ters desenler
+Tersine dönüş modeli, piyasanın tepesini veya tabanını gösteren bir grafik 
+oluşumudur; model genellikle yatay bir dönemden geçer ve modelin kırılması 
+üzerine mevcut trendde bir yön değişikliği veya geri dönüş olur.
+Tüm ters dönüş modelleri arasında Baş ve Omuzlar / Ters Baş ve Omuzlar 
+muhtemelen en iyi bilinen ve en güvenilir olanıdır. Aşağıdaki diyagram Baş ve 
+Omuzlar üst formasyonunun nasıl oluştuğunu göstermektedir (aynı prensip Ters Baş 
+ve Omuzlar formasyonu için de geçerlidir).
+Gördüğünüz gibi birbirini takip eden üç tepe noktası oluşuyor ve görünümlerine göre 
+isimlendiriliyorlar (bir baş ve iki omuza benziyorlar). Bu tersine çevirme modelinin 
+tamamlanmadan önce birkaç adımdan geçmesi gerekir; bunlar:
+Büyük bir trend çizgisinin kırılması.
+Önceki desteğin üzerinde tutulan ve toparlanan fiyat, sinyal çizgisi olarak boyun çizgisini oluşturdu.
+Başka bir reaksiyon zirvesi oluştu ancak fiyat önceki zirvenin (zirve) altında kaldı.
+20
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Boyun çizgisinin kırılması üst formasyonu doğrular.
+Ara sıra geri dönüş hareketi olarak bilinen boyun çizgisinin gerisinde fiyat testi yapılır (şimdi direnç 
+çizgisi olarak hareket etmelidir) ve bu çizginin tutması gerekir, sonraki satışları getirir.
+Hacim, modeli doğrulamada önemli bir rol oynamalıdır; en yüksek hacim seviyesi sol 
+omuzda ortaya çıkacak, ardından hacim tepe noktasında (Baş) düşecek ve sağ omuz 
+en düşük hacme sahip olacaktır. Ancak hacim, boyun çizgisinin kırılmasından sonraki 
+son düşüşte toparlanacaktır.
+Ancak forex piyasasında hacim seviyesini doğrulamak oldukça zor olduğundan, modeli 
+doğrulamaya yardımcı olması için teknik göstergeler veya osilatörler kullanılabilir. Çoğu 
+durumda, aşağıdaki grafikte de gösterildiği gibi zirveye düşüş yönlü sapmalar eşlik etmelidir:
+21
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Bunun bir trend hareketinden sonra meydana geldiğini ve genellikle tamamlandıktan sonra büyük 
+bir trendin tersine döndüğünü gösterdiğini unutmamak önemlidir. Daha fazla anlaşma 
+durumunda sol ve sağ omuzların simetrik olması gerekir ancak bu gerekli bir koşul değildir. Boyun 
+çizgisi desteğinin tanımlanması önemlidir ve tercihen daha dik bir eğim çizgisinden daha yatay 
+olmalıdır.
+Diğer yaygın ters dönüş modelleri arasında Çift Üst / Alt, Yuvarlak Üst / Alt, Spike 
+Üst / Alt, Düşen Kama ve Yükselen Kama bulunur; bunların çoğunun ortak özelliği, 
+bir sinyal çizgisinin olması gerektiğidir (Baş ve Boyun çizgisine benzer). Üst veya alt 
+formasyonun teyidi için ve ters yöne işaret eden yeni bir trendin başlangıcını işaret 
+eden bu çizginin delinmesi üzerine Omuzlar).
+22
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+1.2d) Ölçme Teknikleri
+Grafik desen analizinde çok önemli ve kullanışlı bir özellik, sinyal hattının 
+kırılmasından sonra fiyat hedeflerini veya hedeflerini sağlayabilecek ölçüm 
+teknikleridir.
+Üçgen modelinde ölçüm tekniği, modelin en geniş noktasında (en soldaki) 
+üçgenin yüksekliğini ölçmek ve bu dikey mesafeyi çıkış noktasından yansıtmaktır.
+Head and Omuzlar Üst/Alt formasyonunun fiyat hedefini ölçmek için üst/alttan 
+boyun çizgisine kadar olan dikey mesafe ölçülmeli ve ardından uzunluk kırılma 
+noktasından aşağı (üst) veya yukarıya (alt) yansıtılmalıdır. Bu, pazarın yönündeki 
+büyük değişikliği işaret edeceğinden, bu eşitlik veya yüksekliğin üstten boyun 
+çizgisine kadar %100 yansıtılması, minimum yukarı veya aşağı hedef olarak 
+değerlendirilmelidir.
+23
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+İkili veya Üçlü Üst/Alttaki ölçüm tekniği Baş ve Omuzlara benzer, ayrıca üstten 
+boyun çizgisine kadar olan dikey mesafeyi ölçer, ardından boyun çizgisinin 
+kırıldığı noktadan yüksekliği yansıtır.
+Bununla birlikte, hem devam hem de geri dönüş modelleri için bu fiyat projeksiyon 
+hedeflerinden herhangi biri genel bir rehber görevi görmeli ve önceki grafik desteği ve 
+direnci ile göstergelerin okumaları (önceki grafik desteği ve direnci) gibi diğer faktörler 
+de dikkate alınmalıdır. Piyasada aşırı alım/aşırı satım durumu var mı veya fiyat ve 
+osilatörlerde herhangi bir farklılık var mı?)
+24
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+BÖLÜM 2
+Fibonacci geri çekilmeleri ve projeksiyonları
+2.1 Geri çekilme
+Trendli bir piyasada bile, ister yukarı ister aşağı olsun, fiyat düz bir çizgide hareket etmez; 
+hakim trend yeniden başlamadan önce, geri çekilme olarak bilinen çok sayıda kısa vadeli 
+ters trend fiyat hareketi ve farklı büyüklükte düzeltmeler olacaktır.
+Deneyimli yatırımcılar karlılığı artırmak ve ticareti daha az riskli hale getirmek için en 
+iyi yolun düzeltme sonunda pozisyon açmak olduğunu biliyor. Bu nedenle, geri 
+çekilme seviyesini tahmin etme tekniği, bir ticaret stratejisi formüle etmede son 
+derece yararlı hale gelir ve teknik analistler, Fibonacci yüzdelerinin, özellikle gerçek 
+grafik desteği ve direnç seviyeleri çok uzakta olduğunda olası geri çekilme seviyesini 
+belirlemenin çok etkili yolları olduğunu düşünür.
+Leonardo Fibonacci, evrendeki nesnelerin doğal oranlarını tanımlayabilen bir sayı 
+serisinin belirli oranlarını ilk kez gözlemleyen İtalyan bir matematikçiydi. 
+Fibonacci sayıları şu sayı dizisidir: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 
+610, 987 ……
+İlk iki Fibonacci sayısı 0 ve 1'dir, daha sonra bir sonraki sayıyı elde etmek için 
+önceki iki sayının toplamı alınarak Fibonacci dizisi oluşturulur.
+Sayı dizisi bazı matematiksel ilişkiler üretir ve en iyi bilinen ve yaygın olarak 
+kullanılanı, herhangi bir sayının, 0,618 sabit değerine yaklaşan bir sonraki daha 
+büyük sayıya oranıdır (örneğin, 13/21, 0,619'dur, 55/89, 0,6179'dur, 377/610'dur). 
+0,61803'tür ve ne kadar yüksek bir sayı çifti alırsanız, 0,618'e yakın bir sonuç elde 
+edersiniz). Bir diğer yüzde ise 0,382 sabit değerine yaklaşan alternatif sayıların 
+oranlarıdır (örneğin 13/34 0,3823, 55/144 0,3819, 377/987 0,382, yine ne kadar 
+yüksek sayı çifti kullanırsanız o kadar yakın sonuç elde edersiniz) 0,382'ye). Ayrıca 
+0,382 aynı zamanda 0,618'in tersidir (1-0,618=0,382). Son olarak 0,5 oranı sadece 
+1 ve 2 sayılarının ilişkisi arasında ortaya çıkar ancak bu oran özellikle teknik 
+analizde çok önemli Fibonacci oranlarından biri olarak kabul edilir.
+Bu Fibonacci yüzdeleri/oranları, 0,382, 0,5 ve 0,618, özellikle swing yatırımcıları için grafikteki 
+pivot noktalarını belirlemek açısından çok faydalı olabilir. Yükseliş trendinde, bir geri çekilme 
+meydana geldiğinde, uzun pozisyona girmek için altın bir fırsat olarak değerlendirilmelidir ve 
+bu yüzdeler, geri çekilme seviyesini (yani giriş noktanızı nerede belirleyebileceğinizi) tahmin 
+etmek veya Fibonacci'yi belirlemek için uygulanabilir.
+25
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+düzeltmeyi içermesi gereken destek seviyesi (yani zararı durdurabileceğiniz yer). 
+Aşağıdaki diyagram 3 ana Fibonacci yüzdesinin geri çekilme modellerini 
+açıklamaktadır ve aynı prensip düşüş trendi için de geçerlidir.
+Yükselen bir piyasada, belirli direnç seviyesi (A) ile karşılaştıktan sonra düzeltme 
+gerçekleştiğinde, fiyatın bu üç Fibonacci geri çekilme seviyesinde destek bulması oldukça 
+yaygındır. Hızlı bir piyasada geri çekilme sığ olma eğilimindedir ve tekrar kuzeye 
+dönmeden önce normalde en yakın yükselişin yalnızca %38,2'sine ulaşır. Bazı insanlar 
+bunu ilk savunma hattı olarak görüyor, bu seviyeye geçildiğinde bu, altta yatan trendde 
+daha derin bir düzeltmenin başladığı anlamına geliyor.
+İyi bilinen bir diğer yüzde yüzde 50'lik geri çekilmedir; birincil, ikincil veya ara eğilim ne 
+olursa olsun, büyük bir yükseliş eğilimine karşı düzeltme genellikle önceki yükseliş 
+eğiliminin yaklaşık %50'sini geri alır, çünkü katılımcıların yarısının belirli bir süre sonra kar 
+elde etmesi oldukça yaygındır. geçici üst kısım oluşturulur.
+Son fakat en önemlisi, zayıf bir trendde ünlü %61,8 Fibonacci yüzdesidir, bu düzeltme yüzdesini 
+görmek alışılmadık bir durum değildir, bu nokta aynı zamanda önceki trendin yukarı doğru gitmesi 
+durumunda izin verilen maksimum geri çekilme seviyesi olarak da kabul edilir. sürdürmek. Bu 
+seviye kırıldığında, %61,8'lik bir geri çekilmenin kırılması, genellikle bir geri çekilmenin 
+gerçekleştiğine dair bir geri dönüş uyarısı verir.
+Fibonacci düzeltmesinin uygulanmasında sabit kurallar olmasa da, geri çekilme veya 
+düzeltme seviyelerini tahmin etmede doğruluğu artırmaya yardımcı olacak bazı yararlı 
+yönergelerimiz var.
+26
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+İlke 1: Önce Yüksek ve Düşük'ü belirlemek
+Fibonacci geri çekilmelerini hesaplamaya başlamadan önce, öncelikle piyasadaki yüksek ve düşük 
+fiyatları belirlemelisiniz. Genel olarak birçok kişi, uzun vadeli tarihsel yüksek ve düşük değerleri 
+kullanmanın önemli destek ve direnç seviyelerini belirlemeye yardımcı olabileceğini düşünüyor. 
+Bununla birlikte, kısa vadeli ticaret için, en küçük yüzdeyi (örneğin %23,6 veya %38,2) alsanız bile 
+ulaşmak çok uzak olabileceğinden, en yüksek ve en düşük değerleri kullanmak çok fazla işe 
+yaramayabilir, dolayısıyla bunu kullanmak pratik değildir. bir giriş noktası olarak.
+Yükseliş trendinde, ne zaman bir geri çekilme meydana gelse, yalnızca bir geçici tepe 
+(yüksek) vardır, ancak çok sayıda düşük reaksiyon vardır, bu nedenle uygun orta düşük 
+seviyeyi seçmek, pivot noktasını tahmin etme şansını büyük ölçüde artıracaktır. Bu 
+sözde uygun orta seviyeyi seçmek bilimden çok sanata benziyor; Elliott Dalga Teorisinin 
+bu işi oldukça iyi yapabileceğine inanıyoruz (bunu bir sonraki E-kitabımızda ayrıntılı 
+olarak tartışacağız).
+Yönerge 2: Fibonacci geri çekilme seviyelerinin grafiğini çizmek
+Göreceli yüksek ve düşük noktaları seçtikten sonra, Fibonacci yüzdesi geri çekilme 
+seviyelerini grafikte çizmenin zamanı geldi. Yükselen bir piyasada ölçüme düşük 
+noktadan (yani %0) yüksek noktaya (yani %100) kadar başlanmalı, ardından %38,2, 
+%50 ve %61,8'e çekilmeli ve %38,2'lik geri çekilme ilk düzeltme çizgisi olmalıdır. hedef 
+ve düşen bir pazar için tam tersi.
+Yukarıdaki grafik, Fibonacci geri çekilme seviyelerini (A noktasından B noktasına) 
+grafik üzerinde çizmenin doğru yoludur, ancak bu geri çekilme çizgilerini takip 
+grafiği olarak çizen ve tavsiye etmediğimiz bazı kişilerle karşılaştık.
+27
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Bu doğru bir yol değildir çünkü haritayı karmaşık hale getirecektir, bu nedenle bu çizgileri 
+dokunulmamış alanda, genellikle grafiğin en sağında tutmaya çalışın.
+İlke 3: Tarihsel Davranışa Referans Alın
+Normal Fibonacci yüzdesi beklentisinin yanı sıra, örneğin hızlı piyasa için %38,2, daha 
+önce yaşananları da gözlemlemek ve dikkate almak gerekiyor. Yükseliş trendi boyunca 
+önceki geri çekilmelerin çoğu, yenilenen satın alma ilgisi bulunmadan önce %50'ye 
+ulaştıysa, o zaman pivot noktası tahmini buna göre makul bir şekilde ayarlanmalıdır.
+Yönerge 4: Her zaman bir B Planınız olsun
+Geçici bir tepe noktası oluştuğunda, normalde yükseliş devam etmeden önce %38,2'lik bir geri 
+çekilme bekliyoruz, ancak bu senaryoyu iptal edecek ve ya daha derin bir düzeltmenin 
+gerçekleşeceğini ya da bir geri dönüşün gerçekleşeceğini önerecek bir yüzde (örneğin %50) de 
+belirlenmelidir. Devam ediyor, o zaman hangi noktada fiyatın başka bir yöne doğru ilerlediğinin 
+sinyalini verir.
+28
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+2.2 Projeksiyon
+Geri çekilme bittiğinde ve fiyat önceki yönüne dönmeye başladığında, bir sonraki yukarı veya 
+aşağı yönlü hedefi tahmin etmek için projeksiyon tekniğini uygulama zamanıdır. Fibonacci 
+projeksiyonu (uzatma) üç noktayı hesaba katar; bir yükseliş trendinde bunlar başlangıç   düşük 
+noktası (A), salınım yüksek noktası (B), ardından reaksiyon düşük noktasıdır (C), (A)'dan ('ye) 
+dikey mesafeyi ölçer. B) ve Fibonacci yüzdesini elde edin (örn. %50 veya %61,8), ardından bunu 
+(C) noktasından yansıtın.
+Aşağıdaki grafik, NZD/USD günlük grafiğinde Fibonacci düzeltmesi ve projeksiyonunun 
+uygulanmasına ilişkin gerçek bir örneği göstermektedir.
+Grafiğin sol tarafında, geçici bir yüksek (H1) oluşturduktan sonra kivi neredeyse %50 
+geriledi (L'den H1'e) ve L1'de yenilenen satın alma ilgisi ortaya çıktı, ardından oradan 
+yükselmeye başladı, o zaman bunları kullanabiliriz Yukarı yönlü hedefe yönelik 3 puan L, 
+H1 ve L1 ve döviz çifti hafif bir şekilde H2'ye kadar yükseldi
+29
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+L1'den ölçülen L-H1'in %100'ünü aştı. Bu tür bir süreç devam ediyor ve H2'de başka bir geçici 
+tepe oluşturulduktan sonra L1 ve H2 kullanılarak Fibonacci geri çekilme seviyesi hesaplanarak 
+yüzdelik üç seviye (%38,2, %50 ve %61,8) hazır hale getirilebiliyor. Fiyat %38,2 geri çekilme 
+seviyesine ulaştı ve buradan tekrar kuzeye doğru yöneldi, geri çekilme sığ olduğundan (sadece 
+%38,2), ilk yukarı yönlü hedef L2'den L1'den H2'ye kadar olan mesafenin %61,8'i olmalı ve bu 
+seviye aşıldığında %100 projeksiyon seviyesine ulaşılmalıdır Bir sonraki yukarı yönlü hedefe 
+hazırız.
+Genel olarak, hangi oranın kullanılacağını seçmenin en basit yolu, önceki hareketin 0,236-0,382 
+arasında geri çekilmesi durumunda %50 projeksiyon uygulamak ve düzeltme %50'ye yakınsa 
+%61,8'i kullanmaktır. Geri çekilmeler %61,8'i aştığında %100, %123,6 veya %161,8'i kullanın.
+30
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+BÖLÜM 3
+Şamdan grafiklerinin kullanımı
+Şamdan grafiği 1700'lü yıllarda Japonya'da Munehisa Homma adlı bir adam tarafından 
+geliştirildi. Başlangıçta 17. yüzyılda pirinç vadeli işlemleri için tasarlandı. Her bir işlemin 
+açılış, yüksek, düşük ve kapanış fiyatlarına genel bir bakışla fiyatı analiz etmek için bir 
+yöntem icat etti. belirli bir süre boyunca gün.
+Günün fiyat aralığını göstermek için gölge olarak bilinen bir çizgi çizilir ve mum 
+çubuğunun daha geniş bir kısmı, seansın açılış fiyatı ile kapanış fiyatı arasındaki, 
+gerçek gövde olarak bilinen alanı temsil eder. Açılış fiyatı kapanış fiyatından düşükse 
+(yani yükselen bir gün), o zaman gövde beyazdır; açılış fiyatı kapanış fiyatından 
+yüksekse (yani düşen bir gün), o zaman gövde siyahtır.
+Grafik stilinin okunması ve anlaşılması nispeten daha kolay olduğundan çok popüler hale geldi ve 
+analistler grafik modellerini çeşitli yükseliş veya düşüş sinyalleriyle ilişkilendirdi ve bunların 
+gelecekteki piyasa yönlerini tahmin etmede oldukça güvenilir olduğu düşünüldü.
+31
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Rengi (beyaz veya siyah) ve gerçek bedenin uzunluğu, ister boğalar/talep, ister ayılar/arz 
+kazansın, piyasa güçlerini sergiliyor. Genel olarak konuşursak, daha uzun gövde, alım veya 
+satım baskısının daha yoğun olduğunu gösterir (örneğin, uzun beyaz mum çubukları güçlü 
+bir satın alma ilgisini gösterir, yani alıcılar çok agresiftir), daha kısa gerçek gövde ise 
+normalde kararsız piyasa durumunu ve daha fazla yatay konsolidasyonun gerçekleşeceğini 
+gösterir. Farklı mum çubuk kombinasyonlarına göre çeşitli yükseliş ve düşüş formasyonları 
+bulundu ve biz burada bu ana formasyonlardan bazılarını tartışacağız.
+3.1 – Başlıca Yükseliş Formasyonları
+Çekiç
+Bu, küçük bir gerçek gövdeden oluşan, ideal olarak beyaz olan ancak siyah da olabilen, uzun bir alt 
+gölgeye sahip ancak çok kısa veya hatta hiç olmayan bir üst gölgeye sahip tek bir mum çubuğu ters 
+formasyonudur. Bu mum çubuğu bir düşüşten sonra oluşturulmalıdır; gölgenin alt kısmı yeni bir düşük 
+seviyeyi işaret eder ve ardından beyaz mum çubukları gelir. Bu nedenle bu durum yükseliş dönüş 
+formasyonları altında gruplandırılmıştır.
+32
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Doji
+Önceki ve sonraki mum çubuğu formasyonlarının kombinasyonlarına bağlı olarak 
+yükseliş veya düşüş eğilimi gösterebilen başka bir tek mum çubuğu ters 
+formasyonu. Açılış fiyatı ve kapanış fiyatı hemen hemen aynı seviyede olduğunda 
+doji yıldızı oluşur (doji kelimesi aslında Japonca bir kelimedir "同 市' Hangi
+Aynı fiyat seviyesi anlamına gelir), bu da gerçek bir gövde oluşturmaz, üst ve alt gölgelerin 
+uzunluğu değişebilir ve mum çubuğunun görünümü bir artı işaretine, bir haça veya ters bir 
+haça benzemektedir. Tek başına bir doji yıldızı yalnızca nötr bir formasyondur çünkü boğalar ve 
+ayılar arasında bir kararsızlık hissini gösterir; yükseliş işareti mi yoksa düşüş işareti mi olacağı 
+esas olarak önceki ve gelecekteki fiyat gelişmelerine bağlıdır.
+Belirli trend hareketlerinden sonra bir “doji” mum çubuğu gördüğünüzde, bunu bir uyarı işareti 
+veya olası bir geri dönüş için kırmızı bayrak olarak düşünebilirsiniz ve dojiden sonra diğer yöne 
+işaret eden bir mum çubuğu olup olmadığını görmek için beklemelisiniz.
+Yukarıdaki örnekte, dojiden sonra beyaz mum çubuğu oluştuğunda, bu bir teyit 
+olarak değerlendirilmelidir ve düşük bir formasyon beklentisiyle altta yatan 
+menkul kıymet satın alınabilir.
+33
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Sabah yıldızı
+Bu temel olarak, uzun bir düşüş trendinden sonra uzun gerçek gövdeli siyah bir mum 
+çubuğuyla başlayan, üç mum çubuğundan oluşan bir düşüş trendinin dibinde üç adımlı bir 
+yükseliş dönüş formasyonudur. Küçük gövdeli bir mum çubuğu (beyaz veya siyah olabilir 
+ancak beyaz bir gövde genellikle açılışta boşluk bırakan ve önceki mum çubuğunun düşük 
+fiyatının altında kapanan daha güçlü bir gösterge (bu da mum çubuğunun önceki çubuktan 
+izole görünmesini sağlar), son olarak açıkta boşluk bırakan ve yüksek çubuğun yakınında 
+kapanan uzun, gerçek gövdeli beyaz bir mum veya en azından önceki siyah mumun orta 
+noktasının oldukça üzerinde.
+Eğer yıldızın kendisi bir çekiç veya doji ise, bu normalde daha güçlü bir geri dönüş sinyaline 
+işaret eder ve sonraki çarpışmanın daha büyük olması muhtemeldir.
+34
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Harami
+Bu, önceki ve sonraki mum çubuklarının gelişiminin kombinasyonuna bağlı olarak 
+yükseliş veya düşüş eğilimi gösterebilen iki mum çubuklu formasyondur. Düşüş 
+trendinde, uzun siyah gövdeli bir mum çubuğu yeni bir düşük seviyeye ulaştıktan 
+sonra, ikinci mum çubuğu küçük beyaz bir gövdeye sahip olur ve tamamen önceki 
+mumun aralığı içinde kalır. Japonca 'Harami' kelimesi hamile anlamına gelir, desenin 
+kendisi bebek taşıyan bir kadına benzemektedir (biraz hayal gücü gerektirir). Sonraki 
+gelişme de teyit sağlamak açısından önemlidir, Harami'den sonraki şamdanlar yukarı 
+doğru dönmeye başlamalı, yani onu bir dizi beyaz mum takip etmelidir.
+İkinci mum çubuğu doji gibi farklı formlarda görünebilir
+35
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Yutan Boğa Formasyonu
+Bu, düşüş eğilimi veya yükseliş olabilen bir tersine dönüş formasyonudur; bir düşüş trendinin 
+sonunda ortaya çıktığında, yükseliş eğilimi gösteren bir formasyon olacaktır. Formasyon küçük 
+gövdeli bir mumla başlar, ardından alıcıların sayısı satıcılardan fazla olduğundan gövdesi 
+önceki mumun gövdesini tamamen içine alan bir mum takip eder, bu durum grafiğe uzun 
+beyaz gerçek gövdeli bir mumla yansır.
+Bu formasyonun da teyit edilmesi gerekiyor ve düşük formasyonu teyit etmek için uzun 
+beyaz mumu bir dizi beyaz mum çubuğu takip etmelidir.
+36
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+3.2 – Başlıca Ayı Formasyonları
+Kayan yıldız
+Bu, ideal olarak siyah olan ancak beyaz da olabilen, uzun bir üst gölgeye sahip ancak çok kısa veya hatta 
+hiç olmayan bir alt gölgeye sahip, küçük bir gerçek gövdeden oluşan tek bir mum çubuğu ters çevirme 
+formasyonudur. Bu mum çubuğu bir yükseliş trendinden sonra oluşturulmalıdır; gölgenin tepesi yeni bir 
+yüksek seviyeyi işaret eder ve ardından siyah mum çubukları gelir. Bu nedenle düşüş eğilimi 
+formasyonları altında gruplandırılmıştır.
+Doji
+Doji tepesinin özellikleri, daha önce açıklandığı gibi doji tabanına benzer, 
+yalnızca farklı yönlerdedir.
+37
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Akşam yıldızı
+Bu, bir yükseliş trendinin zirvesinde üç adımlı bir düşüş eğilimi formasyonudur, tıpkı Sabah yıldızı 
+formasyonu gibi, üç mum çubuğundan oluşan, bir yükselişin ardından uzun gerçek gövdeli beyaz bir 
+mum çubuğuyla başlayan, küçük gövdeli bir mum çubuğu (siyah veya beyaz olabilir ancak açılışta ve 
+kapanışta önceki mum çubuğunun yüksek fiyatının üzerinde boşluk bırakan (bu da mum çubuğunun 
+önceki çubuktan izole edilmiş görünmesine neden olan) ve son olarak açılışta aşağı doğru boşluk bırakan 
+uzun, gerçek gövdeli bir siyah mum daha güçlü bir göstergeye sahip olma eğilimindedir. ve önceki beyaz 
+mumun en düşük seviyesine yakın veya en azından orta noktasının oldukça altında kapandı.
+Eğer yıldızın kendisi bir kayan yıldız veya doji ise, bu normalde daha güçlü bir tersine dönüş 
+sinyaline işaret eder ve sonraki etkinin daha büyük olması muhtemeldir.
+38
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Harami
+Bu, daha önce Harami tabanında belirtildiği gibi iki mum çubuklu formasyondur. 
+Yükseliş trendinde, uzun beyaz gövdeli bir mum çubuğu yeni bir zirveye 
+ulaştıktan sonra, ikinci mum çubuğu küçük siyah bir gövdeye sahip olur ve 
+tamamen bir önceki mumun aralığında yer alır. Sonraki gelişme de teyit 
+sağlamak açısından önemlidir, Harami'den sonraki mum çubukları aşağıya doğru 
+dönmeye başlamalı, yani onu bir dizi siyah mum takip etmelidir.
+İkinci mum çubuğu doji gibi farklı formlarda görünebilir
+39
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Ayı Yutan Desen
+Bu, yükseliş trendinin sonunda ortaya çıkan, küçük gövdeli bir mum çubuğuyla başlayan, daha 
+sonra satıcıların alıcıları geride bırakmasıyla gövdesi önceki mumun gövdesini tamamen içine alan 
+bir mum çubuğunun takip ettiği bir ters dönüş formasyonudur; bu, grafiğe bir şekilde yansır. uzun 
+siyah gerçek gövdeli şamdan.
+Bu formasyonun da teyit edilmesi gerekiyor ve uzun siyah mumun ardından bir dizi siyah mum 
+çubuğu gelerek tepe formasyonunun teyit edilmesi gerekiyor.
+Aslında daha fazla yükseliş ve düşüş eğilimi gösteren mum çubuğu formasyonları var, 
+bazıları tersine dönüş (örneğin Asılan Adam, Terkedilmiş Bebek ve Kara Bulut Örtüsü) ve 
+bazıları devam (örneğin Yükselen/Düşen Üç Yöntem ve Tasuki Gap), bunları ayrıntılı 
+olarak tartışacağız. E-kitabımızın ikinci bölümü.
+Özetlemek gerekirse, mum grafiği desen analizinin uygulanması, yatırımcıya 
+özellikle geri dönüş sinyallerinde ek bir avantaj sağlar. Mum grafiği şöyle olmalı
+40
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Üst ve alt formasyonu doğrulamak için osilatörler gibi diğer geleneksel teknik 
+analiz araçlarıyla birlikte kullanılır.
+41
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+BÖLÜM 4
+Ichimoku Analizi
+4.1 – Giriş
+Ichimoku Kinko Hyo, Japonlar tarafından 30 yılı aşkın bir süredir icat edilen ve yayınlanan 
+teknik bir göstergedir; momentumu ölçmek ve gelecekteki destek ve direnci tahmin etmek 
+için bir araçtır.
+Öncelikle Japonca "Ichimoku" kelimesi "tek bakış", "Kinko" "denge/denge", "Hyo" ise 
+"grafik" anlamına gelir, kısacası Ichimoku Kinko dengeyi bir bakışta görmek anlamına 
+gelir. Piyasa eğilimini, desteğini ve direncini tanımlamak ve son olarak alım/satım 
+sinyalleri oluşturmak için en iyi şekilde kullanılır.
+Ichimoku Kinko Hyo 5 satırdan ve bir "Kumo"dan ya da çoğu insanın dediği gibi "bulut"tan 
+oluşur. Ichimoku Kinko Hyo beş ayrı satır kullansa da, bunlar bağımsız olarak 
+kullanılmamalı, bunun yerine ticaret stratejilerini formüle etmek amacıyla fiyat hareketinin 
+kapsamlı bir görünümünü oluşturmak için bunları birlikte kullanmalı. Bu göstergeleri 
+inceledikten sonra piyasa duyarlılığını, momentumunu ve bir trendin göreceli gücünü "bir 
+bakışta" anlayabilmek gerekir.
+Ichimoku Kinko Hyo'yu oluşturan beş bileşenin her birini inceleyerek, bu çizgiler 
+piyasa gücünü, alıcılar ve satıcılar arasındaki dengeyi yansıtabileceğinden, 
+pazarın göreceli dengesi hakkında net bir perspektife sahip olunabilir.
+4.2 - Ichimoku'nun 5 satırı
+Tenkan-Sen (Dönüşüm Hattı)
+Kijun-Sen (Temel Hat)
+Chikou Açıklığı (Gecikmeli Açıklık)
+Senkou Açıklık A
+Senkou Açıklık B
+42
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Tenkan Şen
+Tenkan Sen, kısa vadeli hat (Japonca anlamına göre), dönüşüm hattı ve 
+dönüş hattı olarak da bilinir. Bu satır şu şekilde hesaplanır:
+(En Yüksek En Yüksek + En Düşük En Düşük) / 2, geçmiş x dönem için (Geleneksel olarak x=9)
+Tenkan-Sen'i basit bir 9 dönemlik hareketli ortalamayla (basit veya üstel olması fark 
+etmez) karşılaştıran ve ikisinin birbirine oldukça benzer olduğunu düşünen pek çok 
+kişi var, ancak gerçek şu ki Tenkan-Sen'in Sen, fiyatın son 9 dönem içindeki en yüksek 
+en yüksek fiyatı ile en düşük en düşük fiyatının ortalamasını ölçtüğü için hareketli 
+ortalamadan oldukça farklıdır. Özellikle günümüzün değişken piyasa koşullarında, 
+belirli bir süre boyunca üst ve alt fiyat aralığının ortalamasını uygulamanın, piyasa 
+dengesini ölçmede yalnızca kapanış fiyatının ortalamasını kullanmaktan daha iyi 
+olduğuna inanılmaktadır.
+43
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Yukarıdaki grafikte görebileceğiniz gibi, alttan hızlı toparlanma gibi daha değişken 
+hareketler olduğunda Tenkan Sen 9 dönemlik basit hareketli ortalamadan daha iyi 
+tepki veriyor, bunun nedeni Tenkan Sen'in en yüksek zirveyi hesaba katmasıdır. fiyat 
+ve en düşük düşük fiyat. Ayrıca en yüksek yüksek fiyat ile en düşük düşük fiyatın 
+ortalaması, piyasanın değişken durumda olduğu durumlarda hattın orta noktada 
+kalmasını sağlar.
+Tenkan Sen trend hareketlerini takip etme amacına hizmet edebilir ve yükselen bir 
+piyasada çizgi bir destek seviyesi görevi görürken, düşen bir piyasada da aynı şekilde bir 
+direnç çizgisi görevi görecektir.
+Tenkan Sen'in eğimi veya açısı, geçtiğimiz dönemde trendin göreceli gücü hakkında 
+ek bilgi sağlar. Genel olarak, daha dik bir eğim daha güçlü bir momentuma işaret 
+ederken, daha düz bir çizgi veya daha yatay bir Tenkan Sen yakın vadeli 
+momentumun zayıfladığına işaret eder.
+Trend hareketlerinin olduğu bir dönemden sonra Tenkan Sen'in kırılması, geçici bir yön 
+değişikliğinin veya en azından mevcut trendin duraklamasının erken bir işareti olarak 
+değerlendirilmelidir. Bu nedenle, konsolidasyon gerçekleşecek ve önceki düşüş veya yükselişte bir 
+miktar düzeltme görülecektir, ancak bunun gerçekten tepe mi yoksa dip formasyon mu yoksa geri 
+dönüş mü olacağı diğer Ichimoku bileşenleri tarafından sağlanan teyit gerektirecektir.
+Tenkan Sen'in ana kullanımlarından biri onu Kijun Sen ile birlikte uygulamaktır çünkü iki 
+çizginin kesişmesi yükseliş ve düşüş sinyalleri sağlayabilir. Kijun-Sen'in özelliklerini 
+açıkladıktan sonra bunu daha ayrıntılı olarak tartışacağız.
+Kijun Sen
+Temel çizgi olarak da bilinen Kijun-Sen, öncelikle orta vadeli fiyat momentumunu 
+ölçmek için kullanılır ve şu şekilde hesaplanır:
+(En Yüksek En Yüksek + En Düşük En Düşük) / 2, geçmiş y dönemleri için (Geleneksel olarak y=26)
+Her ne kadar formül Tenkan Sen'in formülüne oldukça benzer olsa da (en yüksek ve en 
+düşük en düşük değerlerin toplamının ikiye bölünmesiyle hesaplanır), Kijun Sen uzun bir 
+zaman dilimini (son 26 zaman dilimini) hesaba katarak çizgiyi mümkün kılar. kısa ve orta 
+vadeli trenddeki değişimi anlamada farklı bir bakış açısı sağlamak.
+Genel olarak, fiyat yana doğru hareket ettiğinde, Kijun Sen yatay olarak (düz zemin) 
+hareket ederek yansır ve fiyat belirtilen zaman aralıklarında (örneğin 26) en yüksek 
+veya en düşük fiyatı aştığında zaman buna göre yükselmeye veya düşmeye başlar. . 
+Bu nedenle Kijun Sen'in yönü ölçüm yapmak için kullanılabilir.
+44
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Kısa vadeli trend ve trendin momentumunun gücü, Kijun Sen'in eğimi veya 
+göreceli açısı ile gösterilebilir.
+Yukarıda bahsedildiği gibi Kijun Sen'in sayısız uygulaması olmasına rağmen, bu 
+temel çizginin önemli bir kullanımı Tenkan Sen ile birliktedir, bir ticaret pozisyonu 
+başlatmak için iki çizginin geçişini yapmaktır.
+Yukarıdaki grafikte belirtildiği gibi, Tenkan Sen Kijun Sen'in üzerine geçtiğinde bir 
+satın alma sinyali üretilir ve Tenkan-Sen, Kijun-Sen'in üzerinde kaldığı sürece ve 
+Tenkan-Sen geçtiğinde uzun pozisyon tutulabilir. Kijun-Sen'in altında bu, uzun 
+pozisyondan hemen çıkılacağına dair bir sinyaldir.
+Kijun Sen nispeten daha uzun bir zaman dilimi kullandığından, fiyat dengesini ifade etmenin daha 
+güvenilir bir yolu olarak kabul edilir (tıpkı “Kinko” göstergesinin adı gibi) ve bu nedenle Kijun Sen'in 
+kendisi de önemli düzeyde bir zaman dilimi olarak güvenilebilir. direnç (düşüş trendinde) ve destek 
+(yükseliş trendinde).
+45
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Kijun Sen'in ek bir kullanımı da geri çekilme etkisidir (tıpkı hareketli ortalama gibi), 
+çünkü Kijun Sen fiyat dengesinin iyi bir ifadesidir, fiyat aynı zamanda aşırı alım veya 
+aşırı satım durumunu da temsil eden Kijun Sen'den çok uzaklaştığında, Fiyatın bu 
+aşırı seviyede çok uzun süre kalmaması gerekir ve fiyatın Kijun Sen'e doğru geri 
+hareket ettiğini, yani fiyatı tekrar dengeye getirdiğini görmek oldukça yaygındır. Bu 
+etki özellikle Kijun Sen yatay olarak hareket ettiğinde belirgindir, bu da 
+konsolidasyon zamanının gerçekleştiğini gösterir.
+Özetle:
+Tenkan Sen, Kijun Sen'in üzerine aşağıdan geçtiğinde bir satın alma sinyali üretilir ve piyasa 
+fiyatının her iki çizginin üzerinde olması daha güçlü bir sinyal olarak değerlendirilecektir.
+Tenkan-Sen yukarıdan Kijun-Sen'in altına geçtiğinde bir satış sinyali oluşturulur ve 
+piyasa fiyatının her iki çizginin altında olması daha güçlü bir sinyal olarak kabul edilir.
+Böyle bir sinyale tepki olarak bir pozisyon girildiğinde, zararı durdurma seviyesini ayarlamak için 
+Kijun Sen kullanılabilir, uzun pozisyon için zararı durdurma Kijun Sen'in altına koyulabilir ve kısa 
+pozisyon için zararı durdurma yerleştirilmelidir. Kijun Sen'in üstünde.
+Aslında Kijun Sen'in daha fazla uygulaması var, E-kitabımızın Ichimoku Kinko Hyo'nun ileri 
+kullanımına daha fazla odaklanacak olan bir sonraki bölümünde bunu daha ayrıntılı olarak 
+tartışacağız.
+Kumo / “bulut”
+Kumo (ya da çoğu insan buna bulut diyor ve aslında Japonca'da bulut anlamına geliyor) 
+muhtemelen Ichimoku Kinko Hyo analizinin en ünlü kısmıdır ve destek ve direnç alanlarının 
+belirlenmesinde kullanımı nedeniyle grafikçiler arasında giderek daha popüler hale 
+gelmektedir. Hatta bazı insanlar Kumo'yu bu grafik sisteminin çekirdeği veya anahtarı olarak 
+görüyor. Aslında bulutun kendisi, Ichimoku Kinko'daki diğer çizgiler arasında en anında 
+görülebilen bileşendir.
+Aslında Kumo/bulut 2 çizgi arasındaki alanı ifade ediyor, bunlar Senkou Span A ve Senkou 
+Span B'dir. İki çizgi Tenkan Sen ve Kijun Sen'den türetildiği için; Sırasıyla en yüksek en 
+yüksek ve en düşük en düşük seviye, böylece Kumo piyasa dengesine ilişkin daha derin bir 
+perspektif sağlayabilir. Bu bulut alanı aynı zamanda fiyat desteği ve direncini temsil etmek 
+için diğer geleneksel grafik analiz yöntemleriyle karşılaştırıldığında daha iyi bir yol sunar; 
+bu yalnızca tek bir seviye değil, daha ziyade piyasa oynaklığına tepki verecek bir alandır.
+Senkou Span A şu şekilde hesaplanır:
+(Tenkan-Sen + Kijun-Sen) / 2, y dönem ileri kaydırıldı (Geleneksel olarak y=26)
+46
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Çizgi temel olarak Tenkan Sen ve Kijun Sen arasındaki orta noktadır ancak 26 dönem 
+ileride çizilir, arkasındaki mantık önceki destek ve direncin mevcut fiyat seviyesi üzerinde 
+etki yaratma eğiliminde olmasıdır, başka bir deyişle mevcut fiyat seviyesi normalde saygı 
+gösterir. Önceki destek ve dirence. Bu nedenle, bu çizgi 26 dönemlik (günlük bir grafik 
+için, yaklaşık 1 ay önceki verileri temsil edecek şekilde) ileriye doğru kayma ile çizildiğinde, 
+Ichimoku grafikçilerine mevcut fiyat seviyesinin önceki destek ve dirençle hızlı bir şekilde 
+karşılaştırılmasını sağlayabilir. bakış atmak.
+Senkou Span B şu şekilde hesaplanır:
+(En Yüksek Yüksek + En Düşük Düşük) / 2, geçmiş z dönemleri için, y dönemleri ileriye kaydırılmıştır 
+(Geleneksel olarak y=26 ve z=52)
+Bu çizgi her zaman Senkou Span A'nın yanında çizilir ve Kumo / bulutu oluşturmak için 
+Ichimoku Kinko Hyo'nun başka bir bileşenidir. Bu çizgi, grafik sistemindeki piyasa 
+dengesinin nispeten daha uzun vadeli bir görünümünü temsil eder; Senkou Span B, 
+geçmiş 26 dönem verilerini hesaplamak yerine, son 52 dönem (2 ay) için en yüksek 
+yüksek fiyat ve en düşük düşük fiyatın ortalamasını ölçer. günlük grafikteki veriler) 
+ancak yine 26 dönem ileriye doğru kayıyor. Bu nedenle, Senkou Span A ve Senkou 
+Span B olmak üzere iki çizgiyi bir araya getirip Kumo'yu oluştururken, bulut hem kısa 
+vadeli (26 dönem) hem de uzun vadeli (52 dönem) verileri kapsayabilir, dolayısıyla 
+çoklu zaman dilimi perspektifi sağlar Piyasa dengesini anlamada.
+Piyasa eğilimi düştüğünde Senkou Span A, Senkou Span B'nin altında yer alır; 
+Yükselen bir piyasada, Senkou Span A, Senkou Span B'nin üzerinde yer alır. 
+Dolayısıyla göstergeler, iki Senkou Span birbiriyle kesiştiğinde piyasa yönündeki 
+değişikliği tahmin etmek için de kullanılır.
+İki çizgi çizildikten sonra, Senkou Span A ve B arasındaki alan, Kumo veya bulut olarak 
+bilinen gölgeli alan, gelecekteki destek ve direnç alanlarını tahmin etmek için kullanılabilir.
+Fiyat Kumo'nun üzerinde işlem gördüğünde hakim trendin yukarı olduğu ve 
+Kumo'nun destek alanı olarak değerlendirileceği, fiyat Kumo'nun altındaysa trendin 
+aşağı olduğu ve bunun yerine bulutun direnç alanı olacağı söylenir.
+Kumo'nun (bulut) kalınlığı aynı zamanda bulutun geçmişteki fiyat dalgalanmalarına bağlı olarak 
+daralması ve genişlemesi nedeniyle piyasadaki oynaklığı da gösterir. İnce bir bulut katmanı, daha düşük 
+tarihsel oynaklığı ortaya koyarken, kalın bir bulut, daha yüksek tarihsel oynaklığı ifade eder.
+Yukarıda açıklandığı gibi Kumo, destek ve dirence ilişkin farklı bir görünüm sağlar 
+ve bulutun kalınlığı, desteğin ve direncin göreceli gücü hakkında ek bilgi sağlar. 
+Normalde Kumo ne kadar kalın olursa o kadar güçlü olur
+47
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Bulut tarafından sağlanacak destek mi yoksa direnç mi? Fiyat kalın bir Kumo katmanına 
+girdiğinde, bu genellikle trend dışı bir durum olduğunu ve yatay ticaretin gerçekleşme 
+olasılığının daha yüksek olduğunu gösterir.
+Yukarıdaki grafikte Kumo, Senkou Span A ve B sınırlarına göre çeşitli durumlarda 
+ödenen fiyatları görebiliriz. Grafiğin en solundan bakıldığında, fiyat bir süre 
+yükseldikten sonra düşmeye başladı, Kumo'nun üst kısmı veya Ichimoku bulutunun 
+tepesi kırıldığında bu normalde geçici bir tepe noktasının oluştuğunu ve düzeltmenin 
+başladığını gösterir, ardından bir sonraki destek hattı oluşacaktır. alt Kumo veya 
+bulut tabanı olabilir. Fiyat bulut alanı içinde işlem gördüğünde, Senkou Span A ve B 
+olmak üzere iki çizgi ticaret aralığının üst ve alt sınırını oluşturdu ve fiyat bu aralığın 
+dışına çıkana kadar bulut alanı içinde dalgalı konsolidasyon meydana gelecektir. . 
+Fiyat bulut alanının üzerine çıktığında Kumo dirençten desteğe dönecek ve normalde 
+satın alma ilgisi bu bölgenin üzerinde belirerek fiyatı daha da yükseltecektir.
+48
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Ichimoku Kumo'yu kullanmanın ek bir avantajı, geleneksel teknik analiz 
+yöntemiyle karşılaştırıldığında destek ve direnç kavramına farklı bir bakış açısı 
+sağlamasıdır. Yukarıdaki grafikte, geleneksel teknik analiz tekniklerine göre A 
+kırılma noktasından sonra, daha yüksek yüksekler ve daha yüksek alçaklar serisi 
+de sona erdi, bu da hakim trendin sonu anlamına geliyor. Geleneksel grafikçiler 
+yükselişte bir düzeltme beklentisiyle döviz çiftini böyle bir kırılmada satmış 
+olabilirler, ancak fiyat Ichimoku bulutunun altına inemedi (kapanış bazında değil) 
+ve B ve C noktalarında destek buldu. Ichimoku bulutunun dibi, ardından tekrar 
+kuzeye yöneldi ve ardından yükseliş trendine devam etti.
+Kumo'nun kendisi de piyasa duyarlılığını ifade edebilir ve bu nedenle yükseliş veya düşüş 
+işaretleri gösterebilir; Ichimoku bulutunun kullanımını E-kitabımızın ikinci bölümünde daha 
+ayrıntılı olarak ele alacağız.
+Son olarak, temel olarak mevcut kapanış fiyatı olan Chikou Span, 26 zaman dilimi geriye doğru 
+kaydırıldı. Bu çizgi başlangıçta mevcut kapanış fiyatı ile 26 dönem önceki kapanış fiyatı arasında 
+hızlı bir karşılaştırma yapmak için kullanılır; mevcut kapanış fiyatı 26 dönem önceki kapanış 
+fiyatından yüksekse, bu daha fazla yükseliş potansiyeli olduğu anlamına gelir ve bunun tersi de 
+geçerlidir. Ancak bizim yaklaşımımızda Chikou Span'ı tercih edip kaldırıyoruz (bu da grafiği 
+biraz daha net bırakıyor) ve sadece diğer 4 satırı kullanıyoruz.
+49
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+BÖLÜM 5
+Bunları bir araya getirmek – Ticaret Örnekleri
+E-kitabımızın bu bölümünde yukarıda bahsi geçen teknik analiz yöntemlerini bir 
+araya getirerek objektif ticaret stratejileri oluşturacağız. Metodolojiyi açıklamak için 
+www.Actionforex.com sayfalarımızda yayınladığımız gerçek ticaret tavsiyelerine 
+dayanan gerçek hayattan örnekler kullanılacaktır.
+Temel olarak, analiz için Ichimoku Kinko göstergelerini içeren 4 saatlik mum grafiğini 
+kullanıyoruz ve hala kullanıyoruz ve tartışma için yükselen piyasa, düşen piyasa ve 
+değişen piyasa durumlarından bazı örnekler seçeceğiz.
+20 Mayıs 2009'da EUR/USD cinsinden aşağıdaki tabloya sahibiz:
+1,3722 seviyesindeki nispeten güçlü düzeltmeye rağmen tek para birimi, Ichimoku 
+bulutunun dibinde 1,3425 civarında makul bir talep buldu ve buradan toparlandı.
+50
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Daha sonra Tenkan-Sen, A noktasında Kijun-Sen'in üzerine geçti, güçlü bir satın alma 
+sinyali oluşturdu (fiyat Kumo'nun yanı sıra iki çizginin de üzerinde olduğundan) ve 
+Tenkan-Sen'e geri çekilme durumunda döviz çifti satın alınmalı, yükselişin yeniden 
+başlaması beklentisiyle genel bir geri çekilme hedefi. Ancak, gerçek zamanlı ticaret 
+stratejileri sağlayıcısı olmadığımız için (fiyat Tenkan-Sen'e geriledi ve Ichimoku bulut 
+tepesi tarafından kontrol altına alındı), güncelleme zamanımıza gelindiğinde fiyat zaten 
+yeni bir yüksek seviyeye sıçradı ve fiyat Hem Tenkan-Sen'den, hem de Kijun-Sen'den çok 
+uzaklaştığımız için şu şekilde geri çekilme tavsiyesi verdik:
+Bu öneri, bir direncin delindikten sonra desteğe dönüşeceği konseptine 
+dayanıyor, dolayısıyla bu durumda 1,3722 direnci destek seviyesi haline geldi ve 
+girişimizi tam da bu seviyenin üzerine koyduk.
+51
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Daha sonra fiyat ancak marjinal bir yükseliş olan 1,3837'ye ulaşabildi ve giriş seviyemize geri 
+çekildi, beklendiği gibi yenilenen satın alma ilgisi ortaya çıktı ve euro toparlandı. Bu noktada, 
+fiyatın yükseliş trendine devam etmesi için bu çizginin tutması gerektiğinden Tenkan-Sen'in 
+hemen altındaki 1,3710 seviyesindeki stop pozisyonuyla uzun pozisyonumuzu korumamızı 
+önerdik ve buna göre aşağıdaki öneriyi yaptık.
+52
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Euro Tenkan-Sen'in üzerinde kalarak beklentimiz doğrultusunda yükselişine devam etti 
+ve 1,3840'taki yukarı yönlü hedefimize sorunsuz bir şekilde ulaştı.
+53
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+21 Mayıs 2009'da USD/JPY cinsinden aşağıdaki gibi bir grafiğimiz var:
+Her ne kadar dolar 94,55 seviyesindeki desteği kırarak düşüşe devam etse de, 96,69'a 
+yapılan düzeltme yeterince güçlü olmadığından, 96,56'daki %38,2'lik Fibonacci 
+gerilemesinin biraz üzerinde, bu da aşağı yönlü hareketin sınırlı olacağını ve döviz 
+çiftinin 94,07 (50) civarında destek bulabileceğini gösteriyor. % projeksiyonu 96,69'dan 
+99,80'e 94,55'tir). Ayrıca fiyatların hem Tenkan-Sen hem de Kijun-Sen'den biraz fazla 
+uzaklaşması nedeniyle, geri çekilme etkisi nedeniyle bu çizgilere doğru toparlanma 
+görülmesi oldukça yaygın. Bu nedenle, trend hala düşükken, piyasanın her iki tarafında 
+da ticaret yapmak için stratejiler verdik:
+54
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Tenkan-Sen ve Kijun-Sen'e doğru düzeltici bir toparlanma için 94.10'da uzun pozisyon alınması 
+yönünde bir öneride bulunuldu; fiyatın 93.55'teki grafik desteğinin ve 93.45'teki %61.8'lik 
+projeksiyonun oldukça üzerinde kalması bekleniyor.
+55
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Dolar, Tenkan-Sen'de yenilenen satışlarla karşılaştıktan sonra tekrar düştü, ancak fiyat 
+hala belirtilen destek seviyesinin üzerinde işlem gördüğünden, çok ihtiyaç duyulan 
+düzeltme beklentisiyle 94.10'da girilen uzun pozisyonumuzu koruyoruz.
+56
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+Dolar nihayet 93,85'te iyi bir destek buldu ve Tenkan-Sen'in üzerine sıçradı; bu, geçici 
+bir dip noktasının oluştuğunun ve Kijun-Sen'de düzeltmenin makul bir beklenti 
+olduğunun ilk işaretiydi. Ayrıca yatay hareket eden Tenkan-Sen ve Kijun-Sen de trend 
+hareketinin durakladığını ve konsolidasyonun gerçekleşeceğini öne sürdü. Bu 
+nedenle, 94.10'da girdiğimiz uzun pozisyonumuzu daha düşük bir hedefle tutuyorduk; 
+Kijun-Sen, normalde daha güçlü bir direnç anlamına gelen, sırasıyla 95.26-95.27'deki 
+%50 Fibonacci geri çekilme seviyesi olan 96.69'dan 93.85'e benzer bir seviyede 
+bulunuyordu. bu birleşme noktası civarında görülecektir.
+57
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+58
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Dolar 95.00'deki yukarı yönlü hedefimize ulaştı ve Kijun-Sen seviyesinde işaretli dirençle 
+karşılaştı. Hem Tenkan-Sen hem de Kijun-Sen yataya döndüğünde, 99,80'den belirtilen geri 
+çekilme seviyelerine doğru tüm düşüşün düzeltilmesi için yukarı yönlü eğilim ile daha fazla 
+yatay konsolidasyon ortaya çıkmalı ve 96,12'deki %38,2 bir sonraki yukarı yönlü hedef olmalı, 
+ardından direnç grafiği şu seviyede olmalıdır: 96.69.
+59
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+18 Haziran 2009'da USD/JPY cinsinden aşağıdaki tabloya sahibiz:
+Dolar, Ichimoku bulutu tabanının altına kırıldıktan sonra 95,51'e düşmesine rağmen, bir 
+'Sabah Yıldızı' mum çubuğu deseni oluştu ve bu da olası bir düşük oluşumun sinyalini verdi. 
+Bu kısa vadeli yükseliş eğilimine tepki gösterdik ve piyasa seviyesinde alım tavsiyesinde 
+bulunduk. Yatay hareket eden Kijun-Sen aynı zamanda daha fazla satış yerine konsolidasyon 
+görme ihtimalinin daha yüksek olduğunu da öne sürdü.
+60
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+61
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+Fiyat, yatay hareket eden Kijun-Sen'in önerdiği gibi yatay işlem görmeye devam etti, daha 
+fazla konsolidasyon ortaya çıkmalı ve 96,78'deki küçük dirence doğru toparlanma 
+beklentisiyle 95,57'de girdiğimiz uzun pozisyonumuzu koruduk ve stop 95,51'deki desteğin 
+hemen altına yükseltildi. Ancak yalnızca Ichimoku bulutunun tabanı ve Kijun-Sen üzerinde 
+kalıcı bir kırılma trendin gerçek anlamda tersine döneceğine işaret edebilir.
+62
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+63
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Fiyat 96,70 seviyesindeki yukarı yönlü hedefimizi kolayca yakaladı ve Kijun-Sen ve Ichimoku 
+bulut zirvesine doğru ilerledi ancak bu bölgede yoğun satış baskısının ortaya çıkması 
+bekleniyordu.
+Dolar, Ichimoku bulutunun dibinde tekliflerle karşılaştı ve ardından hızlı bir şekilde 
+97,17'den geri çekildi, orada olası bir tepe formasyonunu düşündüren bir "Kayan 
+yıldız" mum çubuğu deseni oluştu ve bundan sonra fiyatın tekrar güneye dönmesini 
+bekleyerek dolarda açığa satış yaptık. oradan.
+64
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+Her ne kadar açık pozisyona giremesek de dolar daha sonra erken düşüşünü sürdürdü ve 
+95,51 seviyesindeki önceki desteğin altına düştü.
+65
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+22 Haziran 2009'da GBP/USD cinsinden aşağıdaki tabloya sahibiz:
+Kablonun trend çizgisi direncinin altına düştükten sonra geri çekilmesi ve Tenkan-Sen'in altına kırılması, 
+fiyatın henüz bir trend hareketi başlatmaya hazır olmadığını ve daha fazla konsolidasyonun 
+gerçekleşmesi gerektiğini düşündürürken, biz de şu şekilde bir satış tavsiyesi verdik:
+66
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+67
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+1,6480 seviyesindeki satış girişimiz doldu ve kısa bir toparlanmanın ardından kablo tekrar kaymaya 
+başladı, ancak sterlin Kijun-Sen ve Ichimoku bulut zirvesindeki desteği test ederken, kısa 
+pozisyonumuzdan çıkmak için ihtiyatlı bir adım attık (100 puanın üzerinde kârla) ) çünkü 1,6187'den 
+toparlanmanın sona erdiğini teyit etmek ve 1,6200'e doğru daha fazla düşüşe yol açmak için bu 
+çizgilerin altında bir kırılma görmek gerekliydi.
+68
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+69
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+İngiliz sterlini daha sonra 1,6209'a düştü ancak daha sonra Ichimoku bulutunun düz 
+zemininde iyi bir talep bulduktan sonra toparlandı, bu da belirlenen ticaret aralığı içinde 
+daha fazla konsolidasyonun gerçekleşeceğini gösterdi ve biz de aşağıdaki tavsiyeyi 
+vererek geri çekilmeye uzun süre devam ettik:
+70
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+Kablo daha sonra beklentimiz doğrultusunda yükseldi ve 1,6400'deki yukarı yönlü hedefimize 
+hızla ulaştı (125 puanlık kazançla), sterlin ardından trend çizgisi direncine yöneldi. Ancak 
+yalnızca "akşam yıldızı" mum çubuğu formasyonunun oluştuğu 1,6622 direncinin üzerine bir 
+yükseliş yukarı yönlü kırılmayı doğrulayabilir.
+71
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+72
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+30 Haziran'da EUR/JPY cinsinden aşağıdaki tabloya sahibiz:
+131,41'e düşmesine rağmen, tek para birimi hızlı bir şekilde oradan toparlandı ve bir "çekiç" 
+mum çubuğu yükseliş formasyonu oluştu, sonraki yükseliş bu formasyonu doğruladı, yani 
+düşük seviye 131,41'de oluştu, ancak fiyat Ichimoku bulut zirvesinin altına düştü. ve yatay 
+hareket eden Kijun-Sen'e tepki olarak birkaç gün yana döndü. 133,36'da başka bir “çekiç” 
+benzeri (küçük gerçek gövdeli ve uzun alt gölgeli) mum çubuğu formasyonu oluştu ve euro 
+yeniden kuzeye yöneldi ancak bu kez döviz çifti sonunda Kumo üst seviyesinin üzerine çıktı. 
+Euro daha sonra 135,95 seviyesinden geri çekilmesine rağmen, Ichimoku bulutunun bu şekilde 
+kırılması bir geri dönüşün gerçekleştiğini ve Kijun-Sen'in geri çekilmeyi kontrol altına alarak 
+başka bir yükseliş getirmesi gerektiğini doğruladı.
+Bu nedenle giriş seviyesi Kijun-Sen'in hemen üzerinde olacak şekilde alım tavsiyesi 
+verdik. Geleneksel grafik formasyonu açısından bakıldığında, bu aynı zamanda ters baş 
+ve omuz dönüş formasyonu olarak da yorumlanabilir.
+73
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+74
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+Euro, Kijun-Sen çevresinde yeniden alım ilgisi buldu ve 134,35 seviyesinden yeniden 
+toparlandı. Böylece 134.50'de girdiğimiz uzun pozisyonu koruyarak stop'u söz konusu destek 
+seviyesine yükselterek 135.95'e yükseldik.
+75
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+76
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+Fiyat daha sonra tahminlerimiz doğrultusunda yükseldi, 135,90 hedefimize ulaştı ve euro bir sonraki 
+hedef olan 136,56'ya doğru ilerlemeye hazır görünüyordu (132,98'den ölçülen 131,41-134,99'un %100 
+projeksiyonu), bu nedenle başka bir satın alma tavsiyesi verdik.
+Tek para birimi kısa süreli bir geri çekilme yaşadı ve Tenkan-Sen'de hızlı bir şekilde yenilenen 
+alımlar ortaya çıktı. Euro daha sonra gevşemeden önce 136,90'a yükseldi.
+77
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 76 ===
+78
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 77 ===
+07 Temmuz 2009'da EUR/USD cinsinden aşağıdaki tabloya sahibiz:
+Tek para birimi 1,3876'ya düştükten sonra toparlandı ve euro daha sonra Ichimoku 
+bulutunun tabanı yakınında dirençle karşılaştıktan sonra geri çekildi, çünkü 1,3876'dan 
+yapılan düzeltme, fiyat desteğin altına kırılmadığı sürece 1,4202 ile 1,3876 arasındaki 
+minimum %38,2 Fibonacci geri çekilmesine ulaşamadı. 1,3876'da başka bir düzeltici 
+sıçrama göz ardı edilemez, ancak yukarı yönlü hareket Ichimoku bulut zirvesi ve 1,4039'da 
+tam olarak %50 geri çekilme seviyesi olan Kijun-Sen ile sınırlı olmalı ve burada yenilenen 
+satış ilgisi ortaya çıkmalı ve daha sonra satış dalgası getirmelidir. Yana doğru hareket 
+eden Kijun-Sen aynı zamanda daha fazla konsolidasyonun gerçekleşeceğini öne sürdüğü 
+için, 1,4202'den düşüşün yeniden başlaması beklentisiyle Kijun-Sen'in hemen altında 
+girişle toparlanma için satış tavsiyesi verdik.
+79
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 78 ===
+Tek para birimi 1,3876'daki desteğin üzerinde tutundu ve 1,4051'e doğru bir düzeltici 
+toparlanma daha gerçekleştirdi, ancak euro Ichimoku bulutunun zirvesinde sınırlandı 
+ve oradan güneye dönmeye başladı.
+80
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 79 ===
+Bu nedenle, 1.3876 desteğini yeniden test etmek için 1.4035'te girilen kısa pozisyonumuzu 
+korumaya devam ettik ve stop 1.4051'deki direncin hemen üzerine düştü, çünkü bu Ichimoku 
+bulut tepesi döviz çiftini sınırlamaya devam etmeli, böyle bir yeniden başlamayı getirmelidir. 
+daha sonra düşüş.
+81
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 80 ===
+82
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 81 ===
+Euro, 1,4051'e toparlanmanın ardından 1,4202'den düşüşünü sürdürdü, hem Kijun-Sen 
+hem de Kijun-Sen de yeniden düşüşe geçerek daha fazla düşüş öngörüsünü teyit etti ve 
+1,3880'deki aşağı yönlü hedef 130 puanlık kârla kolayca karşılandı.
+83
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 82 ===
+BÖLÜM 6
+Özet ve sonuç
+Bu E-kitapta bazı teknik analiz tekniklerine giriş yaptık, tüm bu farklı analiz 
+yöntemleri bir arada kullanılabilir ve vadeli piyasalara, hisse senedi piyasalarına 
+ve tabii ki forex piyasalarına uygulanabilir.
+Trend analizi, formasyon tanıma, Fibonacci düzeltmesi ve projeksiyonu, Mum 
+grafiği formasyonları ve son olarak Ichimoku Kinko Hyo gibi temel teknik analiz 
+araçlarını tartıştık. Son olarak, tüm bu unsurların, özellikle fiili ticaret için uygun 
+olan tek bir piyasa analizi metodolojisinde nasıl birleştirileceğini gösteren 
+gerçek hayattan örnekler kullandık.
+Analizimizde mum grafiğinin Ichimoku Kinko Hyo göstergeleri ile birlikte 
+kullanılmasını önerdik ve diğer teknik göstergeler ve osilatörlerin (Hareketli Ortalama 
+Yakınsama ve Iraksama -MACD, Göreceli Güç Endeksi - RSI ve Yönlü Hareket Endeksi 
+gibi) kullanımını kapsamamış olsak da önerdik. - DMI vb.), grafikçi olası bir tepe veya 
+dip formasyonuna (örneğin ters bir mum çubuğu formasyonunun oluşmasına) ilişkin 
+bir görüşe sahip olduğunda bu göstergeler referans olarak alınmalıdır.
+Bu, E-kitabımızın yalnızca birinci kısmı olduğundan, yalnızca mum çubuğu kalıplarının en 
+temel kullanımını ve ayrıca Ichimoku Kinko Hyo'yu ele aldık; bu iki analiz yönteminin daha 
+gelişmiş uygulamaları bir sonraki E-kitabımızda tartışılacaktır.
+84
+Action Forex Company Limited © 2010
+www.forexgercekleri.xyz - [Twitter: @eseckal]

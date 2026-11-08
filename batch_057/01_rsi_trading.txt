@@ -1,0 +1,300 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 1\Baskı 1\Göreceli Güç Endeksi -RSI Göstergesi ile Ticaret (16 sayfa) - @eseckal.pdf
+PAGES: 16
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+giriiş
+Bölüm 1 – Göreceli Güç Endeksi Nedir?
+Bölüm 2 – RSI Nasıl Çalışır?
+- Örnek 1
+– Örnek #2
+– RSI Hakkında Anlaşılması Gereken Ek Şeyler
+Bölüm 3 – Ortalama Revizyon Ticareti
+– Tam RSI Ticaret Sinyalleri
+– Gerçek Dünyadan Bir RSI Örneği
+Bölüm 4 – Trend Ticareti
+– Adım Adım Trend Ticareti için RSI Nasıl Kullanılır?
+Bölüm 5 – İpuçları, Teknikler ve Yaygın Tuzaklar
+Bölüm 6 – Son Notlar
+Çözüm
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 3 ===
+Bölüm 1 – Göreceli Güç Endeksi Nedir?
+Hisse senedi veya döviz çifti gibi bir finansal enstrümanı satın almak veya satmak için 
+doğru zamanı belirlemeye çalışırken gelecekteki hareketi tahmin etmeye çalışmanız 
+önemlidir. Bunun en önemli yönlerinden biri momentumu, yani aletin ne kadar güçlü 
+bir şekilde yukarı veya aşağı hareket ettiğini anlamaktır. Belirli bir yöndeki güçlü 
+hareket olası bir eğilimi gösterebilirken, aynı zamanda enstrümanın aşırı alım veya 
+aşırı satıma işaret ettiğini de gösterebilir.
+RSI, teknik yatırımcıların momentumu ölçmek için kullandıkları temel göstergelerden 
+biridir. RSI, 'Göreceli Güç Endeksi' anlamına gelir ve 0 ile 100 arasında değişen bir değer 
+olarak temsil edilir. 50'nin üzerindeki değerler yukarı yönlü momentumu, 50'nin altındaki 
+değerler ise momentumun aşağı doğru olduğunu gösterir. 50'ye olan mesafe ne kadar 
+büyük olursa momentum da o kadar güçlü olur. 70'in üzerindeki veya 30'un altındaki 
+değerler, momentumun çok güçlü olduğunu ve piyasanın aşırı alım veya aşırı satıma 
+maruz kaldığını gösterir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 4 ===
+Bölüm 2 – RSI Nasıl Çalışır?
+RSI, piyasanın ne sıklıkla kapandığını, ne kadar kapandığını ölçer. 
+Aşağıda gösterilen nispeten basit bir formül kullanılarak hesaplanır:
+RSI = 100 - 100/(1 + RS)
+Formülden de anlaşılacağı üzere RS pozitif bir sayı olduğu sürece bu 
+her zaman 0 ile 100 arasında bir sayı verecektir. Ancak RS tam olarak 
+nedir? Bu biraz daha karmaşık.
+Son N periyottaki tüm yukarı hareketlerin ortalama büyüklüğünün, aynı N 
+periyottaki tüm aşağı hareketlerin ortalama büyüklüğüne bölünmesiyle elde 
+edilir. Bunu anlamanın en iyi yolu, çalışılmış bir örneğe bakmaktır.
+Formüle girdi olarak her günün kapanışını kullanarak bir hisse senedi için 
+RS'yi 9 gün boyunca ölçeceğinizi varsayalım. İşte bu dokuz günün kapanış 
+fiyatları ve ayrıca başlangıçta bir gün daha; çünkü fiyatın herhangi bir 
+günde kapanıp kapanmadığını bilmeniz gerekecek.
+2,10, 2,20, 2,30, 2,25, 2,27, 2,23, 2,28, 2,31, 2,3, 2,24
+Bu, aşağıda gösterildiği gibi herhangi bir günde fiyatın ne kadar kapandığını veya düştüğünü 
+hesaplamak için kullanılabilir:
+0,10, 0,10, -0,05, 0,02, -0,04, 0,05, 0,03, -0,01, -0,06
+Bu daha sonra fiyatın her gün ne kadar yükseldiğini hesaplamak için kullanılabilir; 
+fiyatın belirli bir günde düşmesi durumunda yükseldiği miktarın 0 olduğu 
+varsayılır. Bu, aşağıdakileri verir:
+0,10, 0,10, 0,00, 0,02, 0,00, 0,05, 0,03, 0,00, 0,00
+Benzer şekilde, aynı dokuz günlük dönemdeki fiyat düşüşlerinin eşdeğer boyutu 
+şöyleydi:
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 5 ===
+0,00, 0,00, 0,05, 0,02, 0,04, 0,00, 0,00, 0,01, 0,06
+Bu durumda fiyat düşüşünün yönüne değil, yalnızca büyüklüğüne baktığımızı 
+ve bu nedenle tüm değerlerin pozitif olduğunu unutmayın.
+Yukarı hareketlerin basit hareketli ortalamasını ve aşağı hareketlerin 
+başka bir SMA'sını alırsak iki sayı elde ederiz:
+OrtU = toplam (0,10, 0,10, 0,00, 0,02, 0,00, 0,05, 0,03, 0,00, 0,00) / 9 = 
+0,32 / 9 = 0,03555555
+Ort. = toplam (0,00, 0,00, 0,05, 0,02, 0,04, 0,00, 0,00, 0,01, 0,06) / 9 = 
+0,18 / 9 = 0,02000000
+AvgU'yu AvgD'ye bölmek bize bu durumda 1,77 olan RS'yi verir. Bunu RSI 
+formülüne eklersek şunu elde ederiz:
+RSI = 100 – 100/(1+1,77) = 63,89
+Dolayısıyla bu durumda piyasa güçlü bir pozitif momentuma sahip ancak şu 
+aşamada aşırı alıma uğramış gibi görünmüyor.
+Ayrıca, toplam yukarı hareketler ile toplam aşağı hareketler arasındaki farkın 0,32 - 0,18 
+yani 0,14 olduğunu da belirtmekte fayda var ki bu, dönem boyunca fiyatın toplamda 0,14 
+artması nedeniyle tam olarak beklenen şeydi. Ancak RSI yalnızca fiyatın toplamda ne 
+kadar yükseldiğini veya düştüğünü gösteren bir gösterge değildir. Örneğin, her ikisi de 
+fiyatta toplam 0,14'lük bir artışa yol açan aşağıdaki iki alternatif senaryoyu düşünün.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 6 ===
+Örnek 1
+Fiyat 9 günün 8'inde toplam 0,15 artışla yükseldi. Sadece 1 gün düştü ve 
+ardından sadece 0,01 düştü. Bu, 0,16666666'lık bir AvgU ve 0,01111111'lik bir 
+AvgD verir. RS 0,16666666/0,01111111 veya 15'tir. Dolayısıyla RSI 100 – 100 / 
+(1+15) veya 93,75'tir. Bu durumda RSI, genel fiyat artışının hala sadece 0,14 
+olmasına rağmen piyasanın aşırı alımda olduğunu gösteriyor. Bu mantıklı 
+çünkü son dokuz gün içinde gerçek bir direnç veya geri çekilme belirtisi 
+olmadan neredeyse amansız bir fiyat artışı yaşandı.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 7 ===
+Örnek #2
+Fiyat 9 günün 4'ünde toplam 0,81 artışla yükseldi. Fiyat 9 günün 5'inde düştü 
+ve toplamda 0,67'lik bir düşüş yaşandı. Bu durumda AvgU 0,09000000, AvgD 
+ise 0,07444444'tür. Ancak RS şu anda 1,21 ve RSI 54,73. 9 günlük dönemde 
+toplam fiyat artışı hala 0,14 olmasına rağmen çok az bir yükseliş ivmesi var. 
+Yine, bu sezgisel olarak anlamlıdır, çünkü çok büyük bir volatilite söz 
+konusudur ve toplam 0,14'lük bir artış, büyük günlük fiyat dalgalanmalarıyla 
+karşılaştırıldığında nispeten önemsiz hale gelir.
+Bu iki örnekten, RSI'nın toplam fiyat hareketiyle yalnızca gevşek bir şekilde 
+bağlantılı olan güçlü bir piyasa momentumu göstergesi sağladığı açıkça ortaya 
+çıkıyor.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 8 ===
+RSI Hakkında Anlaşılması Gereken Ek Şeyler
+RSI hakkında anlaşılması gereken birkaç şey daha var:
+•
+0 olur. Bu durumda AvgU'nun AvgD'ye bölünmesi tanımsız bir sonuca yol 
+açar (0'a bölme). Bu durumda RSI 100 olarak tanımlanır.
+İlk olarak, eğer fiyat dönem boyunca her gün artıyorsa, o zaman AvgD
+• İkincisi, RSI'yi hesaplamanın en kolay ve en yaygın yöntemi basit 
+hareketli ortalamalar almayı içerirken, bazı değişkenler üstel hareketli 
+ortalamalar kullanır. Üstel hareketli ortalamaya benzeyen, ancak farklı 
+bir yumuşatma faktörü kullanan, Wilder'in Yumuşatma Yöntemi adı 
+verilen özel bir ortalama alma yaklaşımı da vardır. Bu, RSI göstergesinin 
+yaratıcısı tarafından icat edilmiştir ve onun adını almıştır.
+• Üçüncüsü, RSI'lar yalnızca 9 günlük periyotlarla hesaplanmaz. Prensipte 
+herhangi bir dönem üzerinden hesaplanabilirler; örneğin, 9 gün üzerinden 
+hesaplanan bir RSI, RSI 9 olarak anılırken, 14 gün üzerinden hesaplanan bir 
+RSI, RSI 14 olarak anılır. Genel olarak, dönem ne kadar uzun olursa, o kadar 
+yavaş olur. gösterge fiyatın yönü ve momentumundaki değişikliklere yanıt 
+verir. RSI 14 en yaygın geriye dönük inceleme dönemidir ve çoğu ticari iş 
+istasyonunda varsayılandır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 9 ===
+Bölüm 3 – Ortalama Revizyon Ticareti
+Daha önce de belirtildiği gibi, RSI'nın gösterebileceği şeylerden biri piyasanın aşırı 
+alım veya aşırı satım olduğudur; 70 veya üzerinin aşırı alım, 30 veya altının ise 
+aşırı satış olduğunu unutmayın. Aslında göstergenin asıl amacı buydu ve 
+ortalama revizyon ticaretinin temelidir.
+Ortalama revizyon ticaretinde tüccarlar, piyasanın aşırı alım veya aşırı satım durumunda 
+olması nedeniyle fiyatların tersine dönmesini bekliyor. Tanımı gereği bu aykırı bir stratejidir
+– tüccar hakim fiyat eğilimine karşı gidiyor. En temelde iki ticaret 
+sinyali vardır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 10 ===
+Tam RSI Ticaret Sinyalleri
+• RSI 30'un altındaysa 30'un üzerine çıkmasını bekleyin ve sonra satın 
+alın. 30'un altındayken satın almayın, çünkü fiyat düşmeye devam 
+ederken piyasa uzun bir süre aşırı satışta kalabilir. Gösterge 30'un 
+üzerine çıktığında bu, satış baskısının hafiflemeye başladığını ve 
+fiyatın yükselişe geçebileceğini gösterebilir.
+• Benzer şekilde RSI 70'in üzerindeyse 70'in altına düşmesini bekleyin ve 
+ardından kısa pozisyon alın. Bu durumda RSI'daki düşüş, satın alma baskısının 
+hafiflemeye başlayabileceğini gösteriyor.
+Bu şekilde kullanıldığında RSI, fiyatın tersine döndüğü durumlarda yaklaşık 
+%75 oranında çalışır. Ancak fiyatın hareket miktarı oldukça değişkendir ve 
+birçok durumda önemsiz olabilir. Bu nedenle bu sinyallere göre pozisyon 
+alırken riski dikkatli yönetmek son derece önemlidir. Stoplar dikkatli bir şekilde 
+yerleştirilmezse veya çok fazla kaldıraç kullanılırsa büyük ticari kayıplar 
+meydana gelebilir. Her pozisyonda olduğu gibi, eğer fiyat umduğunuz yönde 
+hareket etmeye başlarsa, karınızı güvence altına almak için takip eden 
+durdurmayı kullanın.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 11 ===
+Gerçek Dünyadan Bir RSI Örneği
+İşte gerçek dünyadaki bir RSI satış sinyali örneği.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 12 ===
+Bölüm 4 – Trend Ticareti
+RSI sıklıkla aşırı alım ve aşırı satım koşullarını tespit etmek ve mevcut trende karşı 
+ticaret yapmak için kullanılsa da, bunun bir güç göstergesi olduğunu hatırlamakta 
+fayda var. Bu nedenle tüccarlar bunu trendlerle ticaret yapmak için de kullanıyor. 
+Bu yaklaşımın temel farkı, alış ve satış fırsatlarını işaret etmek için genellikle farklı 
+tetik noktalarının kullanılmasıdır.
+Spesifik olarak, 70 ve 30'u kullanmanın hiçbir anlamı yoktur, çünkü daha önce 
+tartışıldığı gibi bunlar vakaların yaklaşık %75'inde fiyatların tersine dönmesine neden 
+olur. Bunun yerine daha zayıf tetik noktalar kullanılır; en yaygın olanları 60 ve 40'tır. 
+Bu noktalarda güçlü bir piyasa ivmesi vardır ancak piyasada aşırı alım veya aşırı satım 
+yoktur. 60, uzun pozisyon almak için tetik noktası olarak kullanılırken, 40, kısa 
+pozisyon almak için tetikleyici olarak kullanılır.
+Bu, tersine ticaret anlamına gelen stratejinin tamamen tersidir. Yukarı 
+doğru güçlü bir momentumun olduğu durumu düşünün. Ortalama 
+revizyon ticaretinde, kısa pozisyon alma sinyali olarak 70 kullanılırken, 
+trend ticaretinde uzun pozisyon sinyali olarak 60 kullanılır.
+Ancak, ortalamaya dönüş ticaretinde olduğu gibi, uygun bir risk yönetimi stratejisinin 
+uygulamaya konulması hala önemlidir. Trendle işlem yaptığınız için risk daha 
+düşüktür, ancak yine de fiyatın tersine dönme olasılığı vardır.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 13 ===
+Adım Adım Trend Ticareti için RSI Nasıl Kullanılır?
+Aşağıda trend ticareti için RSI kullanımına ilişkin kısa, adım adım bir kılavuz 
+bulunmaktadır. Bu durumda RSI'nin yukarı yönlü piyasa momentumunu gösterdiği 
+duruma bakılır.
+1. Gün kapanana ve RSI 60'ın üzerine çıkana kadar bekleyin.
+2. Ertesi günün başında uzun pozisyon alın.
+3. Zararı durdur emrini uygulayın. Bunu yapmak için iyi bir yer son 10 gündeki 
+düşük fiyattır.
+4. Her gün ayarlayarak zararı durdurmayı 10 günün en düşük seviyesinde izlemeye devam 
+edin.
+5. Daha sonra durdurulursanız karınızı veya zararınızı bu noktada 
+alın.
+6. RSI 40'ın altına düşerse, bunu pozisyonunuzdan çıkmak için bir sinyal olarak 
+kullanın.
+Aslında RSI 40'ın altına düşerse kısa pozisyon almak isteyebilirsiniz. Bu diğer 
+ticaret sinyalidir. Buradaki süreç yukarıda verilen adımların tam tersidir; kısa 
+pozisyon alın, takip eden stoplarınızı 10 günün en yüksek seviyesine yerleştirin ve 
+RSI 60'ın üzerine çıkarsa manuel olarak çıkın.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 14 ===
+Bölüm 5 – İpuçları, Teknikler ve Yaygın 
+Tuzaklar
+Daha önce de belirtildiği gibi, RSI'yi alım satım sinyali olarak 
+kullanırken uygun bir risk yönetimi stratejisine sahip olmak son 
+derece önemlidir. Bir trende karşı işlem yaptığınız için, ortalamaya 
+dönüş ticareti için RSI kullanıyorsanız bu durum özellikle geçerlidir. 
+RSI değerlerinin 70'in üzerine çıkması ve ardından hızlı bir şekilde art 
+arda birkaç kez geri düşmesi olağandışı bir durum değildir ve aynı 
+durum 30'un altına düştüğünde de geçerlidir. Uygun bir risk yönetimi 
+stratejisinin mevcut olması. Aksi takdirde sermayenizin önemli bir 
+kısmını kaybedebilirsiniz.
+İkincisi, RSI yaygın olarak kullanılan bir gösterge olsa da, özellikle 
+ortalamaya dönüş ticareti için kullanıldığında en doğru göstergelerden biri 
+değildir. Sinyalleri doğrulamak için kullanılabilecek diğer göstergelerle 
+birlikte kullanılması en iyisidir. Örneğin RSI 30'un üzerine çıkarsa veya 70'in 
+altına düşerse, bunlara yüksek hacimler veya artan hacim trendi eşlik 
+ediyorsa bu sinyaller güçlenir.
+Tekrarlamak gerekirse, RSI'yi ortalamaya dönüş ticareti için kullanıyorsanız 
+hatırlamanız gereken bir diğer nokta, RSI 70'in üzerindeyse satış yapmaktan 
+kaçınmak ve RSI 30'un altındaysa satın almaktan kaçınmaktır. Bunlar piyasanın 
+aşırı alım veya aşırı satım olduğunu açıkça gösterse de, RSI uzun süre bu 
+değerlerde kalabilir. Bu noktada alım yaparsanız haftalarca, hatta aylarca 
+devam edecek bir trendin aksine pozisyon alma riskiyle karşı karşıya kalırsınız. 
+Bu da yine önemli kayıplara yol açabilir. Bunu yalnızca gösterge tersine dönüp 
+70'in altına veya 30'un üzerine çıktığında sinyal olarak kullanmalısınız.
+Benzer şekilde, eğer stratejiniz bir trendi takip etmekse, sırf RSI 70'in üstüne 
+ya da 30'un altına iniyor diye pozisyonunuzdan çıkmayın. Örneğin, RSI 60'ın 
+üzerine çıktığında uzun pozisyon alırsanız, o zaman satış yapmak için hiçbir 
+neden yoktur. 70'i vurdu. Piyasa aşırı alımda olabilir ancak yükseliş eğilimi 
+uzun bir süre daha devam edebilir. Bu noktada çıkarsanız, ayrılacaksınız
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 15 ===
+masanın üzerinde para. Tabii ki, daha önce tartışıldığı gibi, tüm kârınızı geri 
+vermemek için pozisyonunuzu takip eden stoplarla takip etmeniz gerekir, 
+ancak trendleri takip eden herhangi bir stratejide izlemeniz gereken 
+yaklaşım budur.
+Son olarak, herhangi bir stratejide olduğu gibi, bir tarifi körü körüne takip etmemeli 
+ve işe yarayacağını varsaymamalısınız. Öncelikle garantili strateji diye bir şey yoktur 
+ve RSI kullanmak da bir istisna değildir. İkincisi, RSI 14 en yaygın kullanılan gösterge 
+olsa da, size daha iyi sonuçlar verip vermediklerini görmek için diğer RSI dönemlerini 
+denemek isteyebilirsiniz. Aslında bu, bir dereceye kadar işlem yaptığınız belirli 
+pazarlara bağlı olabilir; bu nedenle, farklı RSI değerlerinin diğer yatırımcılar için işe 
+yarayıp yaramadığını görmek için biraz araştırma yapın. Elbette deneme yaptığınızda 
+bunu tarihsel grafikleri analiz ederek veya forex piyasasında işlem yapıyorsanız 
+demo hesap kullanarak yapmak iyi bir fikirdir. Belirli bir stratejinin başarılı olup 
+olmayacağı hakkında hiçbir fikriniz yoksa sermayenizi riske atmayın.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.
+
+
+=== PDF PAGE 16 ===
+Bölüm 6 – Son Notlar
+RSI kullanarak alım satım yapmak nispeten basit bir yaklaşımdır ve çok 
+çeşitli deneyim ve yeteneklere sahip yatırımcılar için oldukça uygundur. 
+İki ana strateji vardır: ortalamaya dönme ve trend ticareti; trend ticareti 
+daha az riskli seçenektir.
+Ancak RSI göstergesi, özellikle ortalamaya dönüş ticareti için en güvenilir 
+gösterge değildir. Genellikle sinyallerin birleşimini yaratan diğer 
+göstergelerle birlikte kullanılması en iyisidir. Asgari olarak, sağlam bir risk 
+yönetimi stratejisine sahip olduğunuzdan emin olmanız ve ardından buna 
+bağlı kalmanız gerekir.
+Menzilli tüccarlar tarafından görülen bir başka avantaj da, yalnızca uzun vadeli bir 
+ticaret stratejisi uygularken bir pozisyona sahip olamayacakları ve uzun süre 'piyasa 
+dışında' kalacaklarıdır. Bu, ticari sermayenin mevduatta tutulabileceği veya diğer 
+ticaret fırsatları için kullanılabileceği anlamına gelir.
+[Twitter: @eseckal] tarafından Google Translate API kullanılarak tercüme edilmiştir.

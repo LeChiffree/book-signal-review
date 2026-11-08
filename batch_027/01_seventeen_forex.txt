@@ -1,0 +1,555 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 8\Baskı 8\17 Forex Trading Stratejisi - Thomas Carter (34 sayfa) - @eseckal.pdf
+PAGES: 34
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+SORUMLULUK REDDİ
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 1
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 2
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 3
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 4
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 5
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 6
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 7
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 8
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 9
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 10
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 11
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 12
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 13
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 14
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 15
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 16
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 17
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+SON SÖZLER
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 1
+Zaman aralığı:Günlük
+Gösterge:
+21 SMA
+Giriş Kuralı:
+21 SMA'ya bakarak trendin yukarı mı aşağı mı olduğunu belirleyin. 21 SMA yukarıyı gösteriyorsa 
+trend yukarı, 21 SMA aşağıyı gösteriyorsa trend aşağıdır. Giriş Bar'ın iç kısmına dayanmaktadır. Barın 
+içinde ne var? İç Çubuk - çubuğun en yüksek noktası bir önceki günün en yüksek seviyesinden daha 
+düşüktür ve en düşük noktası bir önceki günün en düşük seviyesinden daha yüksektir. Resme bakın:
+Bir iç çubuk mevcut olduğunda, iç çubuğun en yüksek noktasının 5 pip üstüne 
++ trend 21 SMA göstergesinde yukarı ise spread ve iç çubuğun 5 pip altına + 
+trend aşağı ise spread'e bir bekleme pozisyonu yerleştireceğiz. 21 SMA 
+göstergesi.
+Kaybı Durdur:
+EURUSD 50 pip
+USDCHF 50 pip
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+AUDUSD 50 pip
+GBPUSD 60 pip
+USDJPY 50 pip
+USDCAD 60 pip
+EURJPY 90 pip
+GBPJPY 100 pip
+Kâr Edin:
+Bu sistemle herhangi bir döviz çiftindeki herhangi bir ticaretin kârı her zaman 
+stop değerinin iki katıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 2
+Zaman aralığı:Günlük
+Bu ticaret sistemi için IBFX'i veya GMT'yi kullanan diğer brokerleri kullanın!
+Bekleyen alım satım kurulumuna 23:30 GMT'de girin:
+Önceki günün en yüksek seviyesinden bekleyen satın alma durdurma artı 10 pip girin
+Zararı Durdur = önceki günün en düşük seviyesi
+Hedef Kâr = 2 x Zarar Durdurma
+Önceki düşük seviyedeki bekleyen kısa stop artı 10 pip'i girin
+Zararı Durdur = önceki günün en yüksek seviyesi
+Hedef Kâr = 2 x Zarar Durdurma
+Kurulumu satın al veya kurulumu sat, tetiklenecektir. Diğer kurulumu iptal edin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 3
+Zaman aralığı:Günlük
+Kısa Kurulum Kuralları:
+1. Geçen haftanın kapanış fiyatına bakın (geçen Cuma gününün son fiyatı). Bugünün kapanış fiyatının 
+geçen haftanın kapanış fiyatından yüksek olup olmadığını kontrol edin.
+2. Bugünkü kapanışın dün kapanışın üzerinde olup olmadığını kontrol edin
+3. Dün kapanışın önceki gün kapanışından yüksek olup olmadığını kontrol edin.
+Her üç koşul da karşılandığında, kısa pozisyona geçmeyi düşünüyoruz.
+Uzun Kurulum Kuralları:
+1. Geçen haftanın kapanış fiyatına bakın (geçen Cuma gününün son fiyatı). Bugünün kapanış 
+fiyatının geçen haftanın kapanış fiyatından düşük olup olmadığını kontrol edin.
+2. Bugünkü kapanışın dün kapanışın altında olup olmadığını kontrol edin
+3. Dün kapanışın önceki gün kapanışından düşük olup olmadığını kontrol edin.
+Her üç koşul da karşılandığında, uzun süre devam etmeyi düşünüyoruz.
+Diğer Bazı Kurallar:
+Cuma açılışında yapılan işlemleri hafta sonu yapmıyoruz. Cuma 
+günü kapanıştan önce çıkış yapılacak.
+Pazar gün sayılmaz.
+Fiyatın uzun giriş fiyatının üzerinde veya kısa giriş fiyatının altında kalması durumunda 
+Pazartesi günü hiçbir işlem yapılmaz.
+Giriş:
+Bekleyen bir satın alma durdurma emri girin veya bugünkü kapanış fiyatından 10 pip sonra satış durdurma emri girin.
+Çıkış ve Duraklar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+EUR/USD = 20 pip kâr hedefi ve 50 pip zarar durdurma hedefi
+USD/CAD = 60 pip kar hedefi ve 40 pip zararı durdurma
+USD/JPY = 70 pip kar hedefi ve 50 pip zararı durdurma
+CHF/JPY = 110 pip kar hedefi ve 60 pip zararı durdurma
+NZD/JPY = 130 pip kâr hedefi ve 65 pip zarar durdurma hedefi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 4
+Zaman aralığı:4 Saat veya Günlük
+Göstergeler:
+Bollinger Bandı (20,2)
+Stokastik (9,3,3)
+EMA 365
+EMA 200
+Satın Alma İşlemleri Kuralları:
+Mum alt bollinger bandına dokunuyor veya deliyor
+Stokastik aşırı satımda ve 20 çizgisinin altında
+Boğa mum formasyonları: Çekiç, Doji, Demiryolu, Yutan Boğa
+Mum oluşumu aşağıdaki destek alanlarından bir veya daha fazlasıyla 
+birleşiyor: trend çizgisi, destek çizgisi, 365ema, 200ema, yuvarlak sayı.
+Ticaret Kurallarını Sat:
+Mum üst bollinger bandına dokunuyor veya deliyor
+Stokastik aşırı alımda ve 80 çizgisinin üzerinde
+Ayı mum oluşumları: Kayan Yıldız, Doji, Demiryolu, Yutan Ayı
+Mum oluşumu aşağıdaki direnç alanlarından bir veya daha fazlasıyla birleşiyor: 
+trend çizgisi, destek çizgisi, 365ema, 200ema, yuvarlak sayı.
+Giriş:
+Bir kurulumun tüm koşullarını karşıladığınızda mum oluşumunun kapanışına 
+girersiniz.
+Kaybı Durdur
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+En son yüksek/düşük salınımdan itibaren 10 – 15 pip kaybı durdurun
+Kâr edin
+Kâr = 2 x Zararı Durdur veya karşı bollinger bandını hedefleyin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 5
+Zaman aralığı:4 saat
+Göstergeler:
+6 SMA (kırmızı)
+12 SMA (mavi)
+24 SMA (beyaz)
+48 SMA (sarı)
+Uzun Ticaret Kuralları:
+6 SMA > 12 SMA > 24 SMA > 48 SMA
+Tüm koşullar karşılanırsa uzun ticarete girin.
+Zararı Durdur = son dönemdeki düşük düşüş
+Hedef Kâr = Zararı Durdur (1:1)
+Kısa Ticaret Kuralları:
+6 SMA < 12 SMA < 24 SMA < 48 SMA
+Tüm koşullar karşılanırsa kısa ticarete girin.
+Zararı Durdur = son yükselişin zirvesi
+Hedef Kâr = Zararı Durdur (1:1)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 6
+Zaman aralığı:Günlük
+Göstergeler:
+10 SMA
+Açık Emir:
+10sma aşağı doğru olduğunda. kısa bir sipariş açyakın10sma ve 10sma yukarı 
+doğru olduğunda， uzun bir sipariş açyakın10sma.
+Kaybı Durdur:
+Siparişiniz yetersiz kaldığında fiyat düşerse zararı durdurunkırmak10sma, siparişiniz uzun olduğunda, 
+fiyat düşerse zararı durdurunkırmak10sma.
+Kâr Edin:
+Siparişiniz kısa olduğunda fiyattan sonra kâr edinkırmak10sma.ve siparişiniz 
+uzun olduğunda fiyattan sonra kar alınkırmak10sma.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 7
+Zaman aralığı:Günlük
+Göstergeler:
+ADR'si (10)
+50 EMA
+5 EMA
+Uzun Giriş => 5 EMA > 50 EMA ve günlük mum kapanışı > 5 EMA
+Kısa Giriş => 5 EMA < 50 EMA ve günlük mum kapanışı < 5 EMA
+ADR'ye dayalı olarak Hedef Kar ve Zararı Durdur (10)
+Yani ADR (10) 150 pip ise, TP = 150 pip, SL = 150 pip ise
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 8
+Zaman aralığı:Günlük
+Göstergeler:
+Stokastik (8,3,3)
+100 EMA
+Ticaret Kurallarını Satın Alın:
+Fiyat EMA 100 çizgisinin üzerinde olmalıdır. Ayrıca en azından önceki mum EMA 
+100'ün üzerinde kapanmış olmalıdır.
+İlk koşul karşılandıktan sonra artık stokastik göstergeye odaklanıyoruz. 
+Hızlı stokastik çizgi yavaş stokastik çizgiyi alttan kesmiş olmalı ve 20 ile 80 
+arasında olmalıdır. Eğer geçiş 0 ile 20 arasında olmuşsa stokastik 20 
+çizgisini geçene kadar beklemeliyiz.
+Stokastik kriterler karşılandıktan sonra, bir sonraki günlük mumun açılışında bir 
+alım satımı yapın.
+Giriş fiyatının 150 pip altına zararı durdurma koyun. Fiyat dalgalanmalarının çok büyük 
+olabildiği GBPUSD gibi daha aktif bir döviz çiftinde işlem yapıyorsanız zararı durdurma 
+en az 200 pip olmalıdır.
+Ticaretin trendle birlikte beklenen yönde ilerlediğini varsayarsak, fiyatın bir noktada 
++100 piplik bir kazanç göstermesi bekleniyor. Bu meydana geldiğinde, işlemin geri 
+kalanının risksiz olmasını sağlamak için zararı durdurma pozisyonunu giriş fiyatına 
+taşıyın.
+Günlük mumların sonunda 2 stokastik çizgi bir kez daha geçtiğinde veya 1:1 
+oranını hedeflediğinde işlemi kapatın.
+Bir işlem yapmadan önce hem EMA hem de stokastik koşulun karşılanması gerekir. Günlük 
+mum EMA'yı geçip üzerinde kapanmadan önce stokastik çapraz koşulun karşılanması 
+durumunda, günlük mum EMA çizgisinin üzerinde kapanana kadar bekleyin ve ardından bir 
+sonraki günlük mumun başlangıcında bir ALIŞ işlemine girin.
+Ticaret Kurallarını Sat:
+Fiyat 100 EMA çizgisinin altında olmalıdır. Ayrıca en azından önceki mum
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+EMA'nın altında kapanmış olmalı.
+İlk koşul karşılandıktan sonra artık stokastik göstergeye odaklanıyoruz. Hızlı 
+stokastik çizgi, yukarıdaki yavaş stokastik çizgiyi geçmiş olmalı ve 20 ile 80 
+arasında olmalıdır. Eğer kesişme 100 ile 80 arasında meydana gelmişse, stokastik 
+80 çizgisini geçene kadar beklemeliyiz.
+Giriş fiyatının 150 pip üzerine zararı durdurma koyun. GBPUSD gibi dalgalanmaların 
+büyük olabileceği daha aktif bir döviz çiftinde işlem yapıyorsanız zararı durdurma en az 
+200 pip olmalıdır.
+Ticaretin trendle birlikte beklenen yönde ilerlediğini varsayarsak, fiyatın bir noktada 
++100 piplik bir artış göstereceğini umuyoruz. Bu meydana geldiğinde, işlemin geri 
+kalanının risksiz olmasını sağlamak için zararı durdurma pozisyonunu giriş fiyatına 
+taşıyın.
+Günlük mumun sonunda 2 stokastik çizgi tekrar kesiştiğinde işlemi kapatın veya 1:1 
+oranını hedefleyin.
+İşlem yapmadan önce hem EMA hem de stokastik koşulların karşılanması gerekir. Günlük 
+mum EMA'yı geçip altında kapanmadan önce stokastik çapraz koşulu karşılanırsa, günlük 
+mum EMA çizgisinin altında kapanana kadar bekleyin ve ardından bir sonraki günlük 
+mumun başlangıcında bir SATIŞ işlemine girin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 9
+Zaman aralığı:Günlük
+Göstergeler:
+MACD (3,10,18)
+DI+ ve DI- hatlı ADX (18)
+Kurulumu Satın Alın:
+MACD al sinyali vermeli (0 çizgisinin üstünde)
+DI+, DI-'nin üzerinde olmalıdır (eğer DI+, DI-'nin altındaysa ve MACD satın alma sinyali veriyorsa o zaman 
+bunu dikkate almayın ve uzun giriş yapmak için DI+'nın DI-'nin üzerine çıkmasını bekleyin).
+Satış Kurulumu:
+MACD satış sinyali vermeli (0 çizgisinin altında)
+DI-, DI+'nın üzerinde olmalıdır (id DI-, DI+'nın altındadır ve MACD satış sinyali verir, o zaman bunu 
+görmezden gelin ve kısa bir giriş yapmak için DI-'nin DI+'nın üzerine çıkmasını bekleyin).
+Kaybı Durdur:
+En son salınım yüksek/düşük veya 100 – 150 pip
+Kâr Hedefi:
+Zarar Durdurma ile aynı (1:1 Oranı)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 10
+Zaman aralığı:Günlük
+Göstergeler:
+Bollinger Bandı (20,1.5) rengi beyaz
+Sinyaller (mavi çizgiyi dikkate almayın):
+Fiyat Bollinger Bandının altına düştüğünde ve ardından Bollinger Bandının içinde kapandığında satın 
+alma sinyalleri oluşur. Bollinger Bandı (yeşil ok) içindeki mumun kapanışında satın alın.
+Fiyat üst alt Bollinger Bandına ulaştığında ve ardından Bollinger Bandının içinde kapandığında 
+satış sinyali oluşur. Bollinger Bandı (kırmızı ok) içindeki mumun kapanışında satış yapın.
+Kaybı Durdur:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+En son yüksek/düşük salınım
+Hedef Kâr:
+Orta Bollinger Bandını veya 1:1 Oranını hedefleyin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 11
+Zaman aralığı:4 saat
+Göstergeler:
+Bollinger Bandı (20,2)
+Giriş Kuralları:
+Giriş, Hareketli Ortalama trend halindeyken (yukarı veya aşağıyı işaret ederken) Bollinger Hareketli 
+Ortalamasından (orta çizgi) fiyat sıçradıktan sonra yapılır. Fiyat Hareketli Ortalamadan sıçradıktan 
+sonra (uzun işlemler için yükseliş mumu veya kısa vadeli düşüş eğilimi oluşturdu), mumun 1 pip 
+üstüne (uzun vadeli) veya mumun altına (kısa vadeli) bekleyen emir verin.
+Kaybı Durdur:
+Önceki çubuğun en düşük seviyesinin 1 pip altında (uzun işlemler için) ve önceki çubuğun en yüksek 
+seviyesinin 1 pip üzerinde + spread (kısa işlemler için).
+Takip Durdurma:
+Zararı Durdur, son 4 barın en düşük dip seviyesinin 1 pip altına (uzun işlemler için) ve son 4 barın en 
+yüksek zirvesinin (kısa işlemler için) 1 pip üstüne kadar takip edilir. Çıkışlar yalnızca takip eden durdurma 
+ile yapılır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 12
+Zaman aralığı:4 saat
+Göstergeler:
+20 SMA
+40 SMA
+ATR'ler (20)
+Yükseliş Trendi Kurulum Koşulları:
+A. Kurulum çubuğunun kapatılması > (20 SMA ve 40 SMA)
+B. Bir bar öncesindeki kapanış < (20 SMA veya 40 SMA)
+C. (HH5-LL5) < 2,5*ATR(20)
+D.HH3 < HH10
+Not: Sonraki üç çubuk için kurulum iyi
+HH5 = Son 5 çubuğun En Yüksek En Yüksek değeri kurulum çubuğundan başlar
+LL5 = Son 5 çubuğun en düşük düşüğü kurulum çubuğundan başlar
+HH3 = Son 3 çubuğun En Yüksek En Yüksek değeri kurulum çubuğundan başlar
+HH10 = Son 10 çubuğun En Yüksek En Yüksek değeri kurulum çubuğundan başlar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Yükseliş Trendi Giriş Kuralları:
+Kurulum çubuğu oluştuğunda, aşağıdaki çubuk için aşağıdaki şekilde işlem yapmayı 
+düşünebiliriz:
+=> HH3'te Satın Alma Durağı + 3 Pip + Spread
+Kaybı Durdur
+LL3 – 3 pip'e zararı durdurma koyun
+Çıkış Stratejisi
+Kâr Hedefi 1: Giriş fiyatı + 0,75 ATR(20) üzerinden ½ pozisyon sat
+Kâr Hedefi 1'e ulaşıldığında, kalan ½ pozisyonundaki durağı başa baş olarak 
+değiştirin.
+Her çubuk kapandıktan sonra durdurucuyu aşağıdaki şekilde yukarı taşımaya devam edin:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+kalan ½ pozisyonunu LL3 – 3 pip seviyesinde ancak başabaş noktasının üzerindeyse sat.
+Kâr Hedefi 2: Kalan ½ pozisyonu Giriş Fiyatı + 1,5 ATR(20) üzerinden sat
+Düşüş Trendi Kurulum Koşulları:
+A. Kurulum çubuğunun kapatılması < (20 SMA ve 40 SMA)
+B. Bir bar öncesindeki kapanış > (20 SMA veya 40 SMA)
+C. (HH5-LL5) < 2,5*ATR(20)
+D. LL3 > LL10
+Not: Sonraki üç çubuk için kurulum iyi.
+HH5 = Son 5 çubuğun En Yüksek En Yüksek değeri kurulum çubuğundan başlar
+LL5 = Son 5 çubuğun en düşük düşüğü kurulum çubuğundan başlar
+LL3 = Son 3 çubuğun en düşük düşüğü kurulum çubuğundan başlar
+LL10 = Son 10 çubuğun en düşük düşüğü kurulum çubuğundan başlar
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Düşüş Trendi Giriş Kuralları:
+Bir kurulum çubuğu oluştuğunda, aşağıdaki çubuk için aşağıdaki şekilde işlem yapmayı 
+düşünebiliriz:
+=> LL3'te Satış Durdurma – 3 Pip
+Kaybı Durdur
+HH3 + 3 Pip + Spread'e zararı durdurma koyun
+Çıkış Stratejisi
+Kâr Hedefi 1: giriş fiyatından ½ pozisyon satın alın – 0,75 ATR(20)
+Kâr Hedefi 1'e ulaşıldığında, kalan ½ pozisyonundaki durağı başa baş olarak 
+değiştirin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Her çubuk kapandıktan sonra durdurmayı aşağıdaki şekilde aşağı doğru hareket ettirmeye devam edin:
+HH3 + 3 pip + spread'de kalan ½ pozisyonunu yalnızca başa baş noktasından düşükse satın alın.
+Kâr Hedefi 2: giriş fiyatından kalan ½ pozisyonu satın alın – 1,5 ATR(20)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 13
+Zaman aralığı:Günlük
+Göstergeler:
+SMA 150
+80 ve 20'de yatay çizgilerle RSI (3)
+70 ve 30'da yatay çizgilerle Tam Stokastik (6,3,3)
+Ticaret Kuralları:
+Yükseliş Trendine Giriş: Fiyat 150 SMA'nın üzerinde olduğunda RSI'nin 20'nin altına düşmesini bekleyin. 
+Ardından Stokastik'e bakın - Stokastik çizgiler kesiştiğinde ve 30'un altında olduğunda (olması gerekir) - 
+yeni bir fiyat çubuğuyla uzun girin.
+Düşüş trendine giriş: Fiyat 150 SMA'nın altında olduğunda RSI'nın 80'in üzerine çıkmasını 
+bekleyin. Kısa bir süre sonra Stokastik çizgilerin 70'in üzerinde kesiştiğini görürseniz Kısa girin. 
+Koşullardan en az biri karşılanmıyorsa, dışarıda kalın.
+Kâr ve Zarar Durdurma
+Zararı Durdur = en son yüksek/düşük salınım
+Hedef kâr = Zararı Durdur
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 14
+Zaman aralığı:4 saat
+Göstergeler:
+365 EMA
+200 SMA
+89 SMA
+21 EMA
+8 EMA
+MACD (hızlı EMA için 5, yavaş EMA için 13, sinyal hattı için 1)
+UZUN TİCARET KURALLARI:
+- 8 EMA > 21 EMA > 89 SMA > 200 SMA > 365 EMA- Fiyat 89 EMA'nın üzerinde
+- MACD sıfırın üzerinde
+- MACD düşüyor
+- MACD yükseldiğinde satın alın (MAD hala sıfırın üzerindeyse)
+KISA TİCARET KURALLARI:
+- 8 EMA < 21 EMA < 89 SMA < 200 SMA < 365 EMA
+- Fiyat 89 EMA'nın altında
+- MACD sıfırın altında
+- MACD yükseliyor
+- MACD düştüğünde satış yapın (MACD hala sıfırın altındaysa)
+Kaybı Durdur
+Son salınım yüksek/düşük
+Kâr Hedefi
+Zarar Durdurma ile aynı (1:1)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 15
+Zaman aralığı:4 saat
+Göstergeler:
+EMA 9
+EMA 21
+ADX (14) ile DI+ ve DI- (25'te yatay bir çizgi çizin)
+UZUN DURUMDA:
+- EMA 9, EMA 26'yı geçti
+- DI+ >= 25
+- ADX >= 20
+- ADX, DI+ ile DI-EXIT LONG arasında 
+şu durumlarda bulunur:
+- EMA 26, EMA 9'u geçti ve
+- DI-, DI+'dan daha yüksektir
+NE ZAMAN KISA GİDİN:
+- EMA 26, EMA 9'u geçti
+- DI- >= 25
+- ADX >= 20
+- ADX, DI+ ile DI-EXIT KISA 
+arasında olduğunda:
+- EMA 9, EMA 26'yı geçti ve
+- DI+, DI-'den yüksektir
+Kaybı Durdur
+En son yüksek/düşük salınım
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 16
+Zaman aralığı:Günlük
+Göstergeler:
+5 EMA
+12 EMA
+RSI (21)
+Giriş Kuralları:
+5 EMA 12 EMA'yı yukarı ve üzerine geçtiğinde ve RSI 50'nin üzerinde olduğunda satın alın 5 EMA 
+aşağıyı geçtiğinde ve 12 EMA'nın altında ve RSI 50'nin altında olduğunda satış yapın
+Çıkış Kuralları:
+5 ve 12 EMA tekrar kesiştiğinde veya RSI 50'yi tekrar geçtiğinde çıkın.
+Kaybı Durdur:
+En son yüksek/düşük salınım
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+4 SAAT VE GÜNLÜK TİCARET SİSTEMİ # 17
+Zaman aralığı:4 Saat veya Günlük
+Göstergeler:
+Stokastik (5,3,3)
+MACD (12,26,9)
+UZUN TİCARET KURALLARI:
+Öncelikle MACD histogramında bir dönüm noktasını tanımamız gerekiyor. Bu, histogram 
+çubuklarının sıfır seviyesinin üzerinde olması ve ardından düşmeye başlaması gerektiği anlamına 
+gelir. Sonunda tersine dönmeli ve tekrar yukarı çıkmalı.
+Hem MACD histogramında koşulların karşılandığından emin olduktan sonra Stokastik 
+göstergesine dönüp konumunu görmeliyiz: Aşırı satış bölgesinde (20 seviyesi civarında) 
+olması gerekiyor; iki çizginin birbirini geçmesini ve çizgilerin yukarıya bakmasını 
+istiyoruz.
+Histogramın yeniden yükseldiğini ve aşırı satış bölgesine doğru stokastik düşüşü 
+gördüğümüz an, bu durumu yaratan mum çubuğunun kapanmasını 
+beklememiz gerekiyor. Şamdan kapanır kapanmaz bu ticarete girmeliyiz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Kaybı Durdur
+Tüm koşulların sağlandığı mum çubuğu olan temel mum çubuğumuzun 1 pip altına zararı 
+durdurma yerleştiririz.
+Kâr Hedefi
+Zarar Durdurma ile aynı (1:1)
+KISA TİCARET KURALLARI:
+Öncelikle MACD histogramındaki bir dönüm noktasını tanımamız gerekiyor. Bu, histogramın sıfır 
+seviyesinin altında olması ve ardından yükselmeye başlaması gerektiği anlamına gelir. Sonunda 
+tersine dönmeli ve tekrar aşağı inmelidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+MACD Histogramında koşulların karşılandığından emin olduktan sonra Stokastik 
+göstergesine dönüp konumunu görmeliyiz: Aşırı alım bölgesinde (80 seviyesi 
+civarında) olması gerekiyor; iki çizginin birbirini geçmesini ve çizgilerin aşağıya 
+bakmasını istiyoruz.
+Histogramın tekrar düştüğünü ve Stokastik'in aşırı alım bölgesine ulaştığını 
+gördüğümüz an; Bu koşulu yaratan mum çubuğunun kapanmasını beklememiz 
+gerekiyor. Mum çubuğu kapanır kapanmaz bu açığa satış ticaretine girmeliyiz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Kaybı Durdur:
+Zararı durdurmayı, tüm koşulların karşılandığı mum çubuğu olan temel mum çubuğumuzun 1 pip üstüne 
+yerleştiririz. Kısa bir işlemde spread'i zararı durdurmaya eklemeliyiz, bu nedenle zararı durdurmayı 1 pip + 
+spread'i temel mum çubuğumuzun en yüksek noktasının üzerine yerleştiririz.
+Kâr Hedefi:
+Zarar Durdurma ile aynı (1:1)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+SON SÖZLER
+Bu kitabı indirdiğiniz için teşekkür ederiz. Umarım bu kitap forex ticareti maceranıza hızlı bir şekilde 
+başlamanıza yardımcı olabilmiştir. Bu kitabı beğendiyseniz lütfen düşüncelerinizi paylaşmak ve 
+Amazon'da bir inceleme yayınlamak için zaman ayırın. Çok takdir edilecektir!
+Size ticarette başarılar diliyorum,
+Thomas Carter
+thomascarterbook.blogspot.co M
+www.forexgercekleri.xyz - [Twitter: @eseckal]

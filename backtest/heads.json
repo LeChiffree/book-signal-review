@@ -1,0 +1,2740 @@
+[
+ {
+  "batch": "batch_001",
+  "len": 8656,
+  "heads": [
+   "# Kitap okuma 001 — ADX, Bollinger, 20 EMA",
+   "## 1. ADX Göstergesi — Puneet Jain",
+   "### A1 — Düşük ADX sonrası yönlü kırılım",
+   "### A2 — Güçlü trendde EMA20 geri çekilmesi",
+   "### A3 — DMI hakimiyet değişimi ve ADX ayrışması",
+   "## 2. Bollinger Bantları — Connors Research / Laurence Connors ve Cesar Alvarez",
+   "### B1 — Trend içinde çok günlük derin geri çekilme",
+   "### B2 — Aynı sinyalin gün içi çıkışı",
+   "### B3 — Opsiyon uygulaması",
+   "## 3. 20 EMA Stratejisi — Jayesh Shah",
+   "### E1 — EMA20 destekli pivot kırılımı",
+   "### E2 — Çıkış varyantları (E1 girişine bağlanır)",
+   "## Üç kitabın ortak test sırası"
+  ]
+ },
+ {
+  "batch": "batch_002",
+  "len": 9706,
+  "heads": [
+   "# Kitap okuma 002 — MACD, RSI, kırılım",
+   "## 1. MACD Uzmanlığı — Lalit Mohanty",
+   "### M1 — MACD sinyal hattı yukarı kesişimi",
+   "### M2 — Histogram sıfır geçişi ve eğim",
+   "### M3 — MACD/fiyat ayrışması",
+   "## 2. RSI İndikatöründe Ustalaşmak — Lalit Mohanty",
+   "### R1 — Yükseliş rejiminde RSI geri çekilme ve toparlanma",
+   "### R2 — RSI30 altında aralık içi dönüş",
+   "### R3 — RSI ayrışması",
+   "## 3. Başarılı Koparma Ticareti — Sinisa Persic",
+   "### P1 — Günlük dar aralık kırılımı + 4h yapı uyumu",
+   "### P2 — Kırılım emri tetiklenmeden önce iptal",
+   "### P3 — “Hızlanmazsa azalt” ve iki aşamalı çıkış",
+   "### P4 — Yükselen üçgen / bayrak / flama",
+   "## İlk test paketi ve kayıt kararı"
+  ]
+ },
+ {
+  "batch": "batch_003",
+  "len": 10742,
+  "heads": [
+   "# Kitap okuma 003 — mum, hacim ve grafik formasyonları",
+   "## 1. Mum Formasyonları İçin Dürüst Bir Rehber — Llewelyn James",
+   "### C1 — Yükseliş yutan mum sonrası geri çekilme",
+   "### C2 — Çekiç ve aşırı satış sonrası dönüş",
+   "### C3 — Boşluk gerektiren üç mumlu yapılar",
+   "## 2. Hacim Fiyat Analizi — George Milton",
+   "### V1 — Hacimle teyit edilen bant kırılımı",
+   "### V2 — Güçlü itki, düşük hacimli düzeltme, yeniden kırılım",
+   "### V3 — OBV/MFI ve hacim zirvesi",
+   "## 3. Grafik Formasyonları Uzmanlığı — Lalit Mohanty",
+   "### G1 — Çift dip / çift tepe boyun çizgisi kırılımı",
+   "### G2 — Yatay bant / üçgen / bayrak ailesi",
+   "### G3 — Baş omuz, fincan kulp ve gapler",
+   "## Birleşik test sırası ve veri sözleşmesi"
+  ]
+ },
+ {
+  "batch": "batch_004",
+  "len": 10287,
+  "heads": [
+   "# Kitap okuma 004 — Ichimoku, kripto teknik rehberi, H4 trend",
+   "## 1. Ichimoku Sisteminin Kazançlı Sinyalleri ile Nasıl Trade Yapılır — Sofia Stavropoulou",
+   "### I1 — Günlük bulut kırılımı",
+   "### I2 — Bulut rejiminde Tenkan/Kijun ve fiyat/Kijun kesişimleri",
+   "### I3 — M15 karşı mumla trend devamı",
+   "## 2. Gelişmiş Kripto Trading Stratejileri — yazarı PDF'de belirtilmiyor",
+   "### K1 — T‑30: EMA30 altına fitil ve yüksek hacim",
+   "### K2 — Göstergeler ve çizim formasyonları",
+   "## 3. Kanıtlanmış Trading Stratejisi — Trend Trading — Adam Lemon",
+   "### T1 — Uzun trend içinde H4 aşırı ters mumundan dönüş emri",
+   "## Öncelik ve kayıt kararı"
+  ]
+ },
+ {
+  "batch": "batch_005",
+  "len": 8687,
+  "heads": [
+   "# Kitap okuma 005 — swing yapısı, arz–talep ve emir blokları",
+   "## 1. Swing Yüksekleri ve Swing Düşüklerini Kullanarak Pazarın Ne Durumda Olduğunu Daha İyi Anlamak",
+   "### S1 — Teyitli swing seviyesinin aşılması ve başarısız kırılım",
+   "### S2 — Yapı kırılımı sonrası teyitli pivot bölgesinin yeniden testi",
+   "## 2. Arz ve Talep Bölgeleri — Fahmi Lamar",
+   "### D1 — Dondurulmuş kısa taban bölgesine ilk dönüş",
+   "## 3. Piyasa Yapısı ve Order Block Sanatında Ustalaşmak — Wisdom Muke",
+   "### O1 — Yapı kırılımından önceki karşı renk mum bölgesinin ilk retesti",
+   "## Ortak test kaydı"
+  ]
+ },
+ {
+  "batch": "batch_006",
+  "len": 9465,
+  "heads": [
+   "# Kitap okuma 006 — günlük reddedilme, dar aralık ve üç gösterge",
+   "## 1. Frank Ochoa — 5 Adımlı Swing Trading Planı",
+   "### F1 — Reddedilme gününün orta noktasına dönüş",
+   "### F2 — Emilim başarısızlığı sonrası kısa yön",
+   "## 2. Roman Sadowski — 9 Kazançlı Trading Stratejisi",
+   "### N1 — NR4/NR7 dar günlük mumun kırılımı",
+   "### N2 — İki renk değişimli Heikin-Ashi dönüşü",
+   "### N3 — RSI(2) aşırılığı yönünde devam",
+   "## 3. TMP — RSI Swing Trading Stratejisi",
+   "### T1 — MA20 kırılımı + CMF20 onayı; RSI teyidi ayrı adaptasyon",
+   "## Ortak test ve öncelik kaydı"
+  ]
+ },
+ {
+  "batch": "batch_007",
+  "len": 9502,
+  "heads": [
+   "# Kitap okuma 007 — SMA/RSI, Momentum ayrışması, mum–Ichimoku",
+   "## 1. 5 SMA 5 RSI Forex Trading Stratejisi",
+   "### SR1 — SMA5 geçişi ve RSI5 yön teyidi",
+   "## 2. Jus Forex Signals — Forex Momentum Stratejisi",
+   "### M1 — Teyitli iki pivot arasında Momentum(7) ayrışması ve osilatör kırılımı",
+   "## 3. Action Forex — Gelişmiş Mum ve Ichimoku Stratejileri",
+   "### AI1 — Tenkan/Kijun kesişimi sonrası Kijun/bulut geri çekilmesi",
+   "### AI2 — Bulut sınırında dönüş mumu, keşif alt grubu",
+   "### Ertelenen/tekrar fikirler",
+   "## Ortak uygulama kaydı"
+  ]
+ },
+ {
+  "batch": "batch_008",
+  "len": 9873,
+  "heads": [
+   "# Kitap okuma 008 — RSI scalping, aralık/EMA sıçraması, CCI geri çekilmesi",
+   "## 1. You Learn Forex — RSI Pro Scalping Stratejisi",
+   "### RP1 — M5 RSI vadisi/tepesi ve fiyatla aynı yönlü dönüş",
+   "## 2. Nikos Mermigas — Forex Bounce Trading Stratejisi",
+   "### B1 — Önceden dondurulmuş günlük aralığın kenarından dönüş",
+   "### B2 — EMA200 veya EMA633 temasından trend yönüne kapanış",
+   "## 3. TradersGPS — Kazandıran Stratejiler",
+   "### G8 — SMA20/40 trendinde CCI5 geri çekilmesi",
+   "### G9 — Haftalık EMA10/50 kesişimi, ayrı zaman ölçeği",
+   "## Test sırası ve kayıt ilkeleri"
+  ]
+ },
+ {
+  "batch": "batch_009",
+  "len": 8534,
+  "heads": [
+   "# Kitap okuma 009 — SMMA kanalı, H4 EMA5 dönüşü, üçgen kırılımı",
+   "## 1. Russ Horn — Golden Strateji",
+   "### H9 — SMMA55 kanal kırılımı + %R55 + Stoch(5,5,5)",
+   "## 2. Sterling — H4 EMA5 GBP Stratejisi",
+   "### E9a — EMA5 kanal uç hareketi sonrası ters yönde stop giriş",
+   "## 3. Trading Strategy Guides — Gelişmiş Sniper Trading Stratejisi",
+   "### TR9 — Teyitli pivotlardan çizilen üçgenin kapanış kırılımı",
+   "## Ortak test kaydı"
+  ]
+ },
+ {
+  "batch": "batch_010",
+  "len": 9295,
+  "heads": [
+   "# Kitap okuma 010 — Leandro swing, Gann fanı, Forex scalp",
+   "## 1. Swing Trading Leandro Yöntemi",
+   "### L10a — En az 10 bar sıkışma sonrası güçlü ve hacimli kapanış kırılımı",
+   "### L10b — Kırılım sonrası düşük hacimli ilk retest",
+   "### L10c — Band dışı aşırı uzama ve ters mum, düşük öncelikli karşı yön",
+   "## 2. Trading Strategy Guides — Gann Trading Stratejisi",
+   "### GN10 — Ölçeği sabitlenmiş fan kırılımı, **araştırma adaptasyonu**",
+   "## 3. Forex Scalping Stratejisi",
+   "### FS10 — M5 MA3/7 kesişimi, H4 trend ve momentum filtresi",
+   "## Ortak test kararı"
+  ]
+ },
+ {
+  "batch": "batch_011",
+  "len": 10927,
+  "heads": [
+   "# Kitap okuma 011 — G7 haftalık yön, karar noktaları, pozisyon büyüklüğü",
+   "## 1. Forex Science — G7 Forex Sistemi",
+   "### G7a — Önceki tam haftanın yönünde H1 aşırılık ve ters mum",
+   "## 2. Smart Trader — Karar Noktaları",
+   "### DP11a — Önceki gün yüksek/düşük karar noktasında başarısız kırılım",
+   "### DP11b — Önceki gün sınırının kırılım sonrası ilk retesti",
+   "### DP11c — Master mumun en az iki iç bardan sonra kırılması",
+   "## 3. Roulette Trader — Forex Trading Risk Yönetimi Sistemleri",
+   "### R11 — İşlem boyutu kuralı karşılaştırması; sinyal değil",
+   "## Ortak uygulama kararı"
+  ]
+ },
+ {
+  "batch": "batch_012",
+  "len": 9372,
+  "heads": [
+   "# Kitap okuma 012 — Trend filtresi, CPR/pivot olayları ve EMA8 dönüşü",
+   "## 1. Oliver Hille — Mükemmel Trade Oluşturmak",
+   "### H12 — Dört SMA trend filtresinin marjinal katkısı",
+   "## 2. Vikram Prabhu — Pivotlarla Günlük Trading ve Price Action",
+   "### P12a — UTC gününün ilk M5 mumunda CPR'yi baştan sona geçme",
+   "### P12b — Virgin CPR'ye ilk dönüşte reddedilme",
+   "### P12c — Gün içi CPR konsolidasyonu sonrası ilk çıkış",
+   "## 3. Thato Babedi — Günde 20 Pips Stratejisi",
+   "### B12 — M15 EMA8 dönüş olayı",
+   "## Sonraki test için karar"
+  ]
+ },
+ {
+  "batch": "batch_013",
+  "len": 9301,
+  "heads": [
+   "# Kitap okuma 013 — Hacimli kırılım, teyitli retest ve MACD–Bollinger",
+   "## 1. Pankaj Ladha ve Anant Ladha — 13 Swing Trading Stratejisi",
+   "### L13a — Dar aralıktan hacimli günlük kırılım",
+   "### L13b — Yükselen EMA'ya geri çekilmeden toparlanma",
+   "### L13c — Piyasa karşısında göreli güç, seçim filtresi",
+   "## 2. Mr. Ankya — 15 Price Action Stratejisi",
+   "### A13 — Önceden bilinen sınırın kırılım–retest–teyit dizisi",
+   "## 3. Markus Heitkoetter ve Mark Hodge — Basit Strateji",
+   "### S13 — M5 MACD/BB trend girişi, ADR stop/hedef",
+   "## Ortak test sırası"
+  ]
+ },
+ {
+  "batch": "batch_014",
+  "len": 7209,
+  "heads": [
+   "# Kitap okuma 014 — 3W seviye reddi, BBMA yeniden giriş, mekanik bant dönüşü",
+   "## 1. Sumit Das — 3W Sistemi",
+   "### W14 — H4 kırılmış swing retesti ve pin teyidi",
+   "## 2. John Ray — BBMA Trading Stratejisi",
+   "### B14 — BB dış kapanış sonrası LWMA retesti",
+   "## 3. James Muranno — Akıl Almaz Kazançlı Mekanik Günlük Trading Stratejileri",
+   "### M14 — ADX düşükken BB/RSI(5) ortalamaya dönüş",
+   "## Deney sırası ve kayıt"
+  ]
+ },
+ {
+  "batch": "batch_015",
+  "len": 8335,
+  "heads": [
+   "# Kitap okuma 015 — Önceki gün kırılımı, üç vektör retesti, 123 dönüşü",
+   "## 1. Karl Dittmann — 100 Pips Kur ve Unut Stratejisi",
+   "### D15 — Tam gün yüksek/düşük dışına stop emirleri",
+   "## 2. Siya Vezi — AK47 Scalping Stratejisi",
+   "### A15 — Üç teyitli swing sonrası ilk seviye reddi",
+   "## 3. Cam White derlemesi — 6 Basit Forex Trading Stratejisi",
+   "### F15a — 123 dönüşünde ikinci noktanın kırılması",
+   "### F15b — Üst zaman dilimi EMA50 yönünde Williams %R geri dönüşü",
+   "## Test notu"
+  ]
+ },
+ {
+  "batch": "batch_016",
+  "len": 7835,
+  "heads": [
+   "# Kitap okuma 016 — Ichimoku/ADX, AB=CD ve bayrak kırılımı",
+   "## 1. Fabio Monterrey Albizu — Adım Adım Ichimoku",
+   "### I16a — H4 Tenkan/Kijun kesişimi",
+   "### I16b/I16c — Bulut kırılımı ve Kijun geçişi",
+   "## 2. Sundeep Bilkhu — ABCD Formasyonu",
+   "### A16 — Teyitli ABC düzeltmesinden AB ölçülü devam",
+   "## 3. Vladimir Ribakov — Bayraklar ve Flamalar ile Trade",
+   "### F16a — Kapanmış H1 bayrak kırılımı",
+   "### F16b — Önceden dondurulmuş sınır için stop emri",
+   "## Öncelik ve ortak sözleşme"
+  ]
+ },
+ {
+  "batch": "batch_017",
+  "len": 8479,
+  "heads": [
+   "# Kitap okuma 017 — H4 sahte kırılım, haftalık rotasyon, günlük aşırılık",
+   "## 1. Heikin Ashi Trader — 4 Saatlik Grafik Kullanarak Swing Trading",
+   "### H17 — Önceden belirli H4 aralığında başarısız sınır kırılımı",
+   "## 2. 15 Dakikalık Turbo Forex Trading Kursu",
+   "## 3. Laurens Bensdorp — 30 Dakikalık Hisse Senedi Traderi",
+   "### B17a — Haftalık momentum rotasyonu",
+   "### B17b — Günlük aşırı satımda ek düşüşe limit alım",
+   "### B17c — Günlük aşırı alım sonrası kısa",
+   "## Test kararı"
+  ]
+ },
+ {
+  "batch": "batch_018",
+  "len": 8399,
+  "heads": [
+   "# Kitap okuma 018 — formasyon, destek/direnç ve 3MS",
+   "## 1. Yoosuf Khan — 90 Dakikada Sadeleştirilmiş Formasyon Trading Sırları",
+   "### K18a — Çift dip/tepe boyun kırılımı ve ölçülü hedef",
+   "### K18b — Dar dikdörtgenin yönlü kırılımı",
+   "## 2. Michael C. Thomsett — Basitleştirilmiş Destek ve Direnç Analizi",
+   "### T18a — Kapanış kırılımı, eski seviyeye retest, yeniden uzaklaşma",
+   "### T18b — OBV ile kırılım teyidi bir filtre olarak",
+   "## 3. Frank Miller — Basitleştirilmiş Price Action",
+   "### M18a — 3MS teyitli çift tepe/dip retesti",
+   "## Tartışma ve sonraki test kuyruğu"
+  ]
+ },
+ {
+  "batch": "batch_019",
+  "len": 7834,
+  "heads": [
+   "# Kitap okuma 019 — fiyat aksiyonu bağlamı, iç bar ve bölge tepkisi",
+   "## 1. ThinkMarkets — Price Action Rehberi",
+   "### TM19 — Önceki destek bölgesinde teyitli çekiç",
+   "## 2. Rayner Teo — Price Action Rehberi",
+   "### RT19a — EMA10 trendinde iç bar ve ana mum kırılımı",
+   "### RT19b — Trend yönünde S/R pin bar filtresi",
+   "## 3. Atanas Matov — Price Action Rehberi",
+   "### AM19 — İtki tabanından talep bölgesi retesti",
+   "## Test sözleşmesi ve karar"
+  ]
+ },
+ {
+  "batch": "batch_020",
+  "len": 7311,
+  "heads": [
+   "# Kitap okuma 020 — trend çizgisi kırılımı ve çıkış rejimi",
+   "## 1. Kelvin Lee — Trendline Stratejisi",
+   "### KL20a — MACD teyitli düşen trend çizgisi kırılımı",
+   "### KL20b — Trend çizgisi rol değişimi retesti",
+   "## 2. Lance Beggs — Stoploss Stratejisi / Çıkış Stratejisinin Önemi",
+   "### LB20 — Aynı girişlere çıkış rejimi ablation'ı",
+   "## 3. Triple S Stratejisi",
+   "### TS20 — Hacmi kuruyan geri çekilme sonrası genişleme",
+   "## Test önceliği"
+  ]
+ },
+ {
+  "batch": "batch_021",
+  "len": 7606,
+  "heads": [
+   "# Kitap okuma 021 — arz/talep geometrisi, Londra kutusu, James16",
+   "## 1. Christopher — Price Action Scalping Stratejisi",
+   "### C21a — Geometrik DBR/RBR talep bölgesinin ilk retesti",
+   "### C21b — SMA5 altındaki yüksek hacimli satıcı tuzağı (ayrı mikro yapı hipotezi)",
+   "## 2. Londra Koparma Stratejisi",
+   "### L21 — Asya kutusu sonrası seans kırılımı",
+   "## 3. James16 Trading Stratejisi",
+   "### J21 — Trend yönünde çift mum eşit dip/yüksek kapanış farkı",
+   "## Öncelik ve sınırlar"
+  ]
+ },
+ {
+  "batch": "batch_022",
+  "len": 7512,
+  "heads": [
+   "# Kitap okuma 022 — Fibonacci geri çekilmesi, çizgiye dönüş, EMA14/50",
+   "## 1. Guillaume Alim Tremblay — Fibonacci Oranları Bir Yatırım Stratejisine Değer Katabilir Mi?",
+   "### F22 — Aynı dönüş sinyalinde hemen giriş ile 50% geri çekilme limiti",
+   "## 2. Myronn Saremo — Trendline Stratejisi",
+   "### MS22 — Onaylı yükselen çizgiye temas sonrası mum tepesinin kırılımı",
+   "## 3. Waqar — EMA14 ve EMA50 Scalping Stratejisi",
+   "### W22 — M15 EMA14/50 kesişimi, sıkışma filtresi",
+   "## Deney kararı"
+  ]
+ },
+ {
+  "batch": "batch_023",
+  "len": 6205,
+  "heads": [
+   "# Kitap okuma 023 — retest teyidi, mikro sıkışma ve katlanan risk",
+   "## 1. Forex — Price Action Rehberi",
+   "### PA23 — Uzun kırılım mumunda retest koşullu giriş",
+   "## 2. Bob Volman — Price Action Scalping",
+   "### BV23 — Kırılım öncesi mini aralık/sıkışma filtresi",
+   "## 3. John Carricaburu — Hedging Stratejisi",
+   "### Karar: canlı/paper aday değil; yalnız risk karşı örneği",
+   "## Test kararı"
+  ]
+ },
+ {
+  "batch": "batch_024",
+  "len": 8298,
+  "heads": [
+   "# Kitap okuma 024 — çapraz piyasa öncülüğü, haftalık açılış aralığı ve çoklu zaman dilimi",
+   "## 1. Osbert Ferguson — Kripto Para Alım Satımı ve Yatırımının Teknik Analizi",
+   "### F24 — ETH öncülüğünde BTC kırılımı, OBV teyidi",
+   "## 2. Laurentiu Damir — Momentum Trade",
+   "### D24 — W1 momentum + ilk 16 saat aralığı + erken retest",
+   "## 3. James Muranno — Trend Traderinin El Kitabı / Güçlü Trend Ticareti",
+   "### M24a — D1 stokastik rejimde H1 RSI2 geri dönüşü",
+   "### M24b — D1 ve H1 çift MACD trend teyidi",
+   "## Sonraki test için kayıt"
+  ]
+ },
+ {
+  "batch": "batch_025",
+  "len": 8390,
+  "heads": [
+   "# Kitap okuma 025 — M1 scalp, M5 forex sistemleri ve portföy yöntemleri",
+   "## 1. Trevor Candle — 1 Dakikalık Forex Scalping Stratejisi",
+   "### T25 — Çoklu teyitli EMA20 geri dönüşü (ayrı M1 deney)",
+   "## 2. 20 Trading Stratejisi — 20 kısa M5 forex kuralı",
+   "### W25a — 10/21 EMA geri çekilme bölgesi",
+   "### W25b — Önceki saat kutusunun %20 taşması",
+   "### W25c — EMA50/100 + yeni MACD teyidi",
+   "## 3. Joseph Buckley — 100'den Fazla Alım Satım ve Yatırım Stratejisi",
+   "### B25 — Kesitsel kripto momentumunu risk dengesiyle birleştirme",
+   "## Kayıt ve öncelik"
+  ]
+ },
+ {
+  "batch": "batch_026",
+  "len": 8377,
+  "heads": [
+   "# Kitap okuma 026 — mum teyidi, RSI ayrışması ve 1-2-3 dönüşü",
+   "## 1. P. Arul Pandi — 14 Mum Kalıbı",
+   "### P26a — Çekiç/kayan yıldız ve izleyen kapanış teyidi",
+   "### P26b — Üç asker/karga sonrası uzama mı, geri çekilme mi?",
+   "## 2. Dennis Sharpe — 2023'te Etkili Swing Trading Stratejileri",
+   "### S26a — RSI ayrışması + EMA21 kapanış/retest",
+   "### S26b — EMA26/SMA60 + RSI4 geri çekilmesi",
+   "## 3. Sunil Mangwani — 123 Grafik Formasyonu",
+   "### M26 — Teyitli pivotlu 1-2-3 kırılımı",
+   "## Sıradaki test sırası"
+  ]
+ },
+ {
+  "batch": "batch_027",
+  "len": 8590,
+  "heads": [
+   "# Kitap okuma 027 — H4/D1 sistemler, H1 teyit ve ICT seans kavramları",
+   "## 1. Thomas Carter — 17 Forex Trading Stratejisi",
+   "### C27a — D1 iç bar ve SMA21 trendi",
+   "### C27b — H4 SMA20/40 trend geri kazanımı ve sıkışma",
+   "## 2. Thomas Carter — 20 Forex Stratejisi",
+   "### C27c — H1 SMMA55 yüksek/düşük kanalı + Williams %R",
+   "### C27d — H1 üç EMA trendi ve EMA60'a dönüş",
+   "## 3. 2023 ICT Mentorship GEMS (TR–ENG)",
+   "### I27 — Önceki seans yüksek/düşük süpürmesi + kapanışlı yapısal dönüş (keşif)",
+   "### Ertelenenler",
+   "## Test sırası ve ortak kapılar"
+  ]
+ },
+ {
+  "batch": "batch_028",
+  "len": 7398,
+  "heads": [
+   "# Kitap okuma 028 — kırılım denemesi, boyun çizgisi ve RSI kaynak sınırı",
+   "## 1. Grace Cheng — 7 Kazandıran Strateji",
+   "### G28a — Daralan üçgende ilk kırılım girişimini atlama",
+   "### G28b — Yatay rejimde başarısız kırılımı ters yönlü kullanma",
+   "## 2. Alan Farley — 3 Swing Trading Örneği",
+   "### F28 — Baş-omuz boyun kırılımı: hemen mi, ilk retestte mi?",
+   "## 3. 7 RSI Trade Stratejisi",
+   "### R28 — RSI50 rejim filtresi; mevcut sinyal ailelerinde ablation",
+   "## Öncelik ve test kapıları"
+  ]
+ },
+ {
+  "batch": "batch_029",
+  "len": 7529,
+  "heads": [
+   "# Kitap okuma 029 — yüksek/düşük MA kanalı ve pivot dönüşü",
+   "## 1. Jacob Bernstein — 30 Günde Piyasa Ustalığı",
+   "### B29a — İki tam barla SMA(high,10) dışına taşma",
+   "### B29b — SMA8(close) ve SMA8(open) kesişimi, filtre olarak",
+   "## 2. 25 Trade Kuralı",
+   "### K29 — Önceki dönem ekstremumu ve kapanışı arasındaki fark",
+   "## 3. 1 Saatte Profesyonel Bir Trader Gibi Forex Piyasasında Nasıl Trade Yapılır",
+   "### H29 — Önceki gün sabit pivot kırılımı ve ilk retest",
+   "## Sıradaki test için öncelik"
+  ]
+ },
+ {
+  "batch": "batch_030",
+  "len": 6545,
+  "heads": [
+   "# Kitap okuma 030 — açılışta göreli gecikme, M5 EMA scalp ve strateji elemesi",
+   "## 1. Jeremy Russell — 20 Dakikalık Trader Olmanın Yolları",
+   "### R30 — ABD açılışında endekse göre geciken hisse",
+   "## 2. 5 Dakikalık Scalp Stratejisi",
+   "### S30a — EMA10/21 orta noktasına trend yönünde ilk geri çekilme",
+   "### S30b — İlk sinyalde runner çıkışı",
+   "## 3. 15 Dakikada Forex Kursu",
+   "## Sonraki çalışma sırası"
+  ]
+ },
+ {
+  "batch": "batch_031",
+  "len": 9687,
+  "heads": [
+   "# Kitap okuma 031 — DeMark sayımları, EMA kesişimleri, RSI 80/20 ayrışması",
+   "## 1. Jason Perl — DeMark Göstergesi",
+   "### D31a — Mükemmelleşmiş TD 9 kurulumunun TDST yakınında dönüşü",
+   "### D31b — TD Sequential 9→13 tükenme ve gecikmiş onay",
+   "### D31c — TD Differential iki barlık baskı filtresi",
+   "## 2. Soulz — EMA'ların Gücü",
+   "### E31a — M15 EMA13/34 kapanış kesişimi, HTF filtresiyle",
+   "### E31b — Haftalık EMA50 rejim filtresi",
+   "## 3. RSI 80-20 Trading Stratejisi",
+   "### R31 — 50 bar ekstremumu + RSI8 ayrışması + ilk barın kapanışını kırma",
+   "## Öncelik ve uygulama sınırları"
+  ]
+ },
+ {
+  "batch": "batch_032",
+  "len": 8816,
+  "heads": [
+   "# Kitap okuma 032 — RSI teyidi, trend yönünde scalp, çok zamanlı ayrışma",
+   "## 1. Roman Sadowski — RSI İndikatörü +5 Sistem Trading Stratejisi",
+   "### S32a — RSI30/70 geri girişi + yutan mum",
+   "### S32b — RSI ekstremumu ardından MACD sinyal kesişimi",
+   "## 2. Paul Dean — RSI Ölçeklendirme Stratejisi",
+   "### P32 — M5 RSI8 ve fiyatın eşzamanlı vadi/zirve teyidi",
+   "## 3. Emperor BTC — RSI Uyumsuzlukları",
+   "### E32 — D1 RSI14 ayrışma yönü + H4 yapı kırılması",
+   "## Öncelik"
+  ]
+ },
+ {
+  "batch": "batch_033",
+  "len": 7902,
+  "heads": [
+   "# Kitap okuma 033 — ATR risk katmanı, Heikin Ashi dönüşü ve çift momentum",
+   "## 1. Aaron Lee Johnson — ATR Uzmanlığı",
+   "### A33 — Var olan sinyallerde ATR stop/pozisyon boyu ablatif testi",
+   "## 2. Edward Munroe — Heiken Ashi ve Stokastik Göstergeyle Swing Trading",
+   "### M33 — W1 yön dönüşü ardından H4 HA/Stoch geri çekilme",
+   "## 3. Lee Tang — Dual Momentum Trend Trading",
+   "### T33 — D1 GMMA gücü + çift Stoch + RSI50",
+   "## Öncelik"
+  ]
+ },
+ {
+  "batch": "batch_034",
+  "len": 8171,
+  "heads": [
+   "# Kitap okuma 034 — Darvas kutusu, hacim teyitli kırılım, VWAP kırılım başarısızlığı",
+   "## 1. Jaynesh Kasliwal — Darvas Box Trading",
+   "### D34 — 52 haftalık tepe sonrası teyitli kutu tavanı kırılımı",
+   "## 2. Michael Norman — Breakout ve Pullback Trading Stratejileri",
+   "### N34a — D1 sıkışma kırılımı + VWMA20 eğimi",
+   "### N34b — Aynı seviyenin ilk geri testi",
+   "## 3. Varun Speak — VWAP Breakout Başarısızlığı Stratejisi",
+   "### V34 — Cari UTC gün VWAP'ının başarısız üst/alt kırılımı",
+   "## Öncelik"
+  ]
+ },
+ {
+  "batch": "batch_035",
+  "len": 6754,
+  "heads": [
+   "# Kitap okuma 035 — sıkışma kırılımı, çift tepe/dip ve Fibonacci çıkışları",
+   "## 1. Alton Swanson — Breakout Trading",
+   "### S35 — Daralan bant sonrası yönlü kapanış kırılımı, ek filtre olarak",
+   "## 2. Trendin Tersine Dönüş Modelleri — IFC Markets",
+   "### R35 — Teyitli çift tepe/dip + boyun kırılımı",
+   "## 3. Manish Patel / Octa FX — Fibonacci ile TP ve SL",
+   "### F35 — Mevcut trend girişlerinde sabitlenmiş Fibonacci çıkış varyantı",
+   "## Sonraki test için not"
+  ]
+ },
+ {
+  "batch": "batch_036",
+  "len": 7146,
+  "heads": [
+   "# Kitap okuma 036 — kutu kırılımı ve destek/direnç",
+   "## 1. John Connors — Koparma Ticareti",
+   "### C36 — Güçlü kapanışlı kutu kırılımı",
+   "## 2. Gerçek Destek ve Direnç",
+   "### T36 — Teyitli eğimli seviyenin kırılım ve retest adayı",
+   "## 3. Investija — Destek ve Dirençler",
+   "### I36 — Önceki trend yönünde bant kenarı, 2R filtresi",
+   "## Test sırası ve ortak kontrol"
+  ]
+ },
+ {
+  "batch": "batch_037",
+  "len": 7530,
+  "heads": [
+   "# Kitap okuma 037 — kırılım, bölge seçimi, yanlış kırılım",
+   "## 1. Mark K. White — Breakout Trading Stratejisi",
+   "### W37 — Kırılımda hemen giriş ile retest girişinin aynı olayda karşılaştırılması",
+   "## 2. Chris Padgett — Destek ve Direnç Seviyelerinin Tespiti",
+   "### P37 — Gövde bölgesi kalitesi ve temiz kırılım filtresi",
+   "## 3. Duane Shepherd — Forex Piyasasında Konsolidasyon Breakout Sinyalleri",
+   "### S37 — %70 gövdeyle kutuya dönüşten ters yöne aday",
+   "## Test önceliği"
+  ]
+ },
+ {
+  "batch": "batch_038",
+  "len": 8590,
+  "heads": [
+   "# Kitap okuma 038 — trend fanı, EMA200 uyumu, üç kapanış",
+   "## 1. Albert Yang — Trend Çizgileri",
+   "### Y38 — Teyitli fan kırılma düzeyinin ek filtre olarak denenmesi",
+   "## 2. Laurentiu Damir — Destek Direnç Bölgeleriyle Günlük Trade",
+   "### D38 — İki zaman dilimi EMA200 + güçlü gövde + retest devam emri",
+   "## 3. Trading Strategy Guides — Trend Kırılımı Strateji Rehberi",
+   "### G38 — Önceden teyitli iki kesişim + üç M15 kapanış trend çizgisi kırılımı",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_039",
+  "len": 8113,
+  "heads": [
+   "# Kitap okuma 039 — hacim teyidi ve para akışı",
+   "## 1. Chaikin Para Akışı Göstergesi",
+   "### C39 — CMF tamponunu mevcut D1 kırılıma ekleme",
+   "## 2. Jayesh Shah — Volume Trading",
+   "### S39 — 52 haftalık zirve + >2× hacim + ertesi gün yüksek teyidi",
+   "## 3. George Milton — Hacim Fiyat Analizi",
+   "### M39 — İtiş dalgası sonrası düşük hacimli düzeltme ve yüksek üstü kapanış",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_040",
+  "len": 7686,
+  "heads": [
+   "# Kitap okuma 040 — teyitli seviye süpürmesi ve yapı değişimi",
+   "## 1. James Jecool King — Arz ve Talep, Saf Likidite Konsepti, BOS ve CHOCH",
+   "### K40 — Önceden belirli HTF bölgesinde kapalı mum CHOCH filtresi",
+   "## 2. Elad Menda — Gelişmiş Likidite Tekniği",
+   "### M40 — Kademeli yaklaşım sonrası swing süpürmesi ve FVG retesti",
+   "## 3. Trade with WorldBank — Likidite",
+   "### W40 — Sabit saatli aralık süpürmesi, oturum varsayımını ayrı test et",
+   "## Test sırası"
+  ]
+ },
+ {
+  "batch": "batch_041",
+  "len": 8007,
+  "heads": [
+   "# Kitap okuma 041 — Supertrend, Ichimoku ve Bollinger",
+   "## 1. Alpesh Pansheriya — Supertrend İndikatörü",
+   "### ST41 — D1 trend onayıyla H4 Supertrend dönüşü",
+   "## 2. Ahmed El Agouz — Ichimoku Kazananları",
+   "### I41 — Kijun kapanış kesişimi + o ana ait bulut filtresi",
+   "## 3. Glenn Wilson — Bollinger Band Trading",
+   "### B41 — Dar bant + fiyat direnci + bant birlikte kırılımı",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_042",
+  "len": 9148,
+  "heads": [
+   "# Kitap okuma 042 — Ichimoku, MACD trend çizgisi ve Fibonacci altın bölge",
+   "## 1. Gabor Kovacs — Yeni Başlayanlar İçin Ichimoku",
+   "### I42 — H4/H1 onaylı M15 bulut çıkışı",
+   "## 2. MACD Trend Takip Stratejisi",
+   "### M42 — Onaylı MACD tepe çizgisi kırılımı",
+   "## 3. Fibonacci Golden Zone Trading Stratejisi",
+   "### F42 — Onaylı swing ve %61,8 retest",
+   "## Ortak değerlendirme sırası"
+  ]
+ },
+ {
+  "batch": "batch_043",
+  "len": 7551,
+  "heads": [
+   "# Kitap okuma 043 — VWAP, ADX ve RSI güç bölgeleri",
+   "## 1. Kolay Para ile VWAP Trade Stratejisi",
+   "### V43 — Seans VWAP + önceki seans VWAP üstünde 5m mum kırılımı",
+   "## 2. ADX İndikatörü — Learn Price Action",
+   "### A43 — Donchian kırılımına ADX güç filtresi",
+   "## 3. Hima Reddy — Kazanan RSI Playbook",
+   "### R43 — Boğa RSI destek bölgesinde devam",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_044",
+  "len": 8260,
+  "heads": [
+   "# Kitap okuma 044 — Fibonacci kanal, fiyat kanalı ve RSI başarısızlık salınımı",
+   "## 1. Fibonacci Kanal Stratejisi — Trading Strategy Guides",
+   "### FC44 — Teyitli eğimli kanalda içeri dönüş",
+   "## 2. Kanal Trading — Alton Swanson",
+   "### C44 — Teyitli paralel kanalda kenardan kenara dönüş",
+   "## 3. Erich Senft — RSI: Traderin Gizli Silahı",
+   "### RS44 — RSI 1–2–3 başarısızlık salınımı + fiyat dip kırılımı",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_045",
+  "len": 10076,
+  "heads": [
+   "# Kitap okuma 045 — VWAP bağlamı, aşırı hareketten dönüş ve Heikin Ashi",
+   "## 1. Terence V. Gronowski — VWAP Stratejisi",
+   "### VG45 — VWAP'tan uzaklaşmış fiyatın teyitli dengeye dönüşü",
+   "## 2. Heikin Ashi Trader — Trende Karşı İşlem Yapmak",
+   "### SB45 — Olağanüstü H1 uzama + ilk teyitli dönüş",
+   "## 3. Roman Sadowski — Heikin Ashi Trading Stratejisi",
+   "### HA45 — Tamamlanmış iki HA renk dönüşü + Stokastik bölge",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_046",
+  "len": 9968,
+  "heads": [
+   "# Kitap okuma 046 — Heikin Ashi scalp, RSI ve sıkışma kırılımı",
+   "## 1. Heikin Ashi Trader — Scalping Eğlencelidir",
+   "### HS46 — M1 güçlü hareketten ilk HA renk dönüşü",
+   "## 2. Alton Swanson — RSI: Göreceli Güç Endeksi",
+   "### RS46a — RSI 30/70 bölgesinden çıkışla ortalamaya dönüş",
+   "### RS46b — RSI 60/40 momentumla trend takibi",
+   "## 3. Tim Haddock ve Ravi Kapoor — Heikin Ashi Grafikleriyle Günlük Trade",
+   "### HK46 — M15 sıkışma + iki kuvvetli HA mumu, orta nokta limit",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_047",
+  "len": 9008,
+  "heads": [
+   "# Kitap okuma 047 — Heikin Ashi scalp devamı, RSI varyantları ve Fibonacci trend çizgisi",
+   "## 1. Heikin Ashi Trader — Eğlenceli Scalping 2",
+   "### HF47 — Önceki UTC gününün seviyesinde HA zayıflama ve ters renk",
+   "## 2. Alpesh Pansheriya — RSI",
+   "### RP47 — RSI swing rejection için teyitli durum makinesi",
+   "### RP47b — RSI 30 dönüşüne MACD teyidi",
+   "## 3. Fibonacci Trend Çizgisi Strateji Rehberi",
+   "### FT47 — İki teyitli temasla trend çizgisi + Fib bölgesinde retest",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_048",
+  "len": 10044,
+  "heads": [
+   "# Kitap okuma 048 — RSI ters dönüşleri, VWAP ve Momentum Güç",
+   "## 1. Sudhir Dixit — RSI Sırları",
+   "### RD48 — Cardwell pozitif/negatif dönüş + RSI aralık filtresi",
+   "## 2. Lalit Mohanty — VWAP Uzmanlığı",
+   "### VM48 — UTC açılış aralığı kırılımına günlük VWAP filtresi",
+   "## 3. Momentum Güç Stratejisi — Forex Momentum Stratejisi dosyası",
+   "### FM48 — Momentum(7) klasik uyumsuzluğu, gösterge kırılımı teyidi",
+   "## Birlikte test için sıra ve sınırlar"
+  ]
+ },
+ {
+  "batch": "batch_049",
+  "len": 9318,
+  "heads": [
+   "# Kitap okuma 049 — Uzun vadeli SMA, piyasa yapısı ve pin bar",
+   "## 1. Steve Burns ve Holly Burns — Al ve Tut Stratejisini Yenen 5 Hareketli Ortalama Sinyali",
+   "### MA49 — Beş uzun/nakit SMA rejiminin ön kayıtlı karşılaştırması",
+   "## 2. Akıllı Para Kavramıyla Price Action",
+   "### SC49 — Onaylı yapı kırılımı ardından ilk talep/arz bölgesi retesti",
+   "## 3. KC Thorpe — Forex İçin Uygulamalı Pin Bar Trading",
+   "### PB49 — Trend yönünde EMA21 geri çekilmesinde pin bar",
+   "## Test sırası ve birleşim"
+  ]
+ },
+ {
+  "batch": "batch_050",
+  "len": 8773,
+  "heads": [
+   "# Kitap okuma 050 — Inside bar, yutan mum ve aralık kırılımı",
+   "## 1. Colibri Trader — Inside Bar",
+   "### IB50 — Trend içi ana mum aralığının kapanışla kırılması",
+   "## 2. Timon Weller — The Engulfing Trader",
+   "### EW50 — Önceden teyitli düzeyde tam gövde yutan mum",
+   "## 3. John Connors — Koparma Ticareti",
+   "### BC50 — Yatay kutudan ölçülü gövdeli kapanış kırılımı",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_051",
+  "len": 8493,
+  "heads": [
+   "# Kitap okuma 051 — Üçgen, harmonik AB=CD ve taze bölge",
+   "## 1. Grafik Desenleriyle Strateji Oluşturma",
+   "### CP51 — Yükselen üçgende teyitli direnç kırılımı",
+   "## 2. Harmonik Desenler",
+   "### HP51 — AB=CD oran yakınsaması ve D sonrası dönüş teyidi",
+   "## 3. Kevin Baker — Kokuşmuş İndikatörlere İhtiyacımız Yok",
+   "### KB51 — Yeni oluşmuş talep/arz bölgesine ilk dönüş + reddetme",
+   "## Test önceliği ve sınırlar"
+  ]
+ },
+ {
+  "batch": "batch_052",
+  "len": 8530,
+  "heads": [
+   "# Kitap okuma 052 — Oturum geri çekilmesi, marubozu ve tam aralık MA teyidi",
+   "## 1. ICT Stratejisi",
+   "### IC52 — Önceki gün dip süpürmesi sonrası gövde impulsuna OTE dönüşü",
+   "## 2. Mumların Dili",
+   "### ML52 — Marubozu sonrası aynı renk teyit mumu",
+   "## 3. John Person — Hareketli Ortalamalarla Strateji Rehberi",
+   "### JP52 — İki tam H4 aralığın SMA20 üzerinde/altında kapanması",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_053",
+  "len": 8337,
+  "heads": [
+   "# Kitap okuma 053 — Gerçek açılış boşluğu, EMA200 retesti ve 2B sahte kırılım",
+   "## 1. Jayesh Shah — GAP Trading",
+   "### GS53 — Gerçek seans boşluğu sonrası gün high kırılımı (kripto için ertelendi)",
+   "## 2. Laurentiu Damir — Günde 50 Pips Stratejisi",
+   "### FD53 — EMA200 yönünde karşı eğimli çizgi kırılımı ve ilk retest",
+   "## 3. Teknik Analizde Ayak İzleri",
+   "### FP53 — 2B sahte kırılım + pokebar ekstremi teyidi",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_054",
+  "len": 9651,
+  "heads": [
+   "# Kitap okuma 054 — Destek tepkisi, günlük SNR ve seans süpürmesi",
+   "## 1. Haji Warithu — Günde 10 Pips Stratejisi",
+   "### TW54 — Önceden bilinen destek/dirençte M5 yutan mum; 0,5R çıkış testi",
+   "## 2. Miracle Metot Trading Stratejisi",
+   "### MM54 — Teyitli D1 SNR temasında H4 dönüş mumu ve stokastik sapma filtresi",
+   "## 3. Chame Quiroz — Ticaret Sırları / PO3 Hassas Stratejisi",
+   "### PQ54 — Londra Asya aralığı süpürmesi sonrası NY M5 BOS ve ilk OB retesti",
+   "## Ortak test sözleşmesi"
+  ]
+ },
+ {
+  "batch": "batch_055",
+  "len": 8480,
+  "heads": [
+   "# Kitap okuma 055 — Zaman pencereli likidite, kanal retesti, taze arz/talep",
+   "## 1. Zaman ve Fiyat Teorisi",
+   "### TP55 — Önceki üç gün ekstrem süpürmesi sonrası H1 yapı değişimi ve uzantı hedefi",
+   "## 2. Louisos Alexander — Trend Çizgisi Analizinin Gücünden Yararlanın",
+   "### TL55 — Teyitli paralel kanal kırılımı, retest ve kanal genişliği hedefi",
+   "## 3. Jode Lebin — Profesyoneller Gibi Trade Yapın",
+   "### PL55 — H4 taze arz/talep bölgesine ilk dönüş; D1 konum ve trend filtresi",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_056",
+  "len": 8389,
+  "heads": [
+   "# Kitap okuma 056 — RSI güç bölgeleri, ST fraktal koridoru ve saatlik pivot",
+   "## 1. Hima Reddy — Göreceli Güç Endeksi / Bull Bear RSI Face Off",
+   "### RR56 — RSI(14) boğa destek bölgesini koruyan H1 higher-low devamı",
+   "## 2. Vladimir Poltoratskiy — Forex Stratejisi: ST Kalıpları Trade Kılavuzu",
+   "### ST56 — Tamamlanmış H1 fraktal koridoru kırılımı ve ilk limit retesti",
+   "## 3. Jan Arps — Swing Trading: Piyasa Dalgalarında Sörf Yapmak",
+   "### JA56 — Önceki tamamlanmış H1 klasik pivot S1/R1 reddi",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_057",
+  "len": 7828,
+  "heads": [
+   "# Kitap okuma 057 — Günlük RSI trendi, kural tabanlı dalga ve FU retesti",
+   "## 1. Göreceli Güç Endeksi — RSI Göstergesi ile Ticaret",
+   "### RT57 — D1 RSI 60/40 kırılımı ve önceki 10 gün trailing stop",
+   "## 2. Robert Prechter — Elliott Dalga Prensibinin Temelleri",
+   "### EP57 — Teyitli 1–4 dalga geometrisi sonrası 5. dalga kırılımı",
+   "## 3. Forex'te Bankaların Manipülasyonu",
+   "### BM57 — Teyitli eşit ekstrem likiditesi sonrası FU reddi ve ilk retest",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_058",
+  "len": 8110,
+  "heads": [
+   "# Kitap okuma 058 — Sıkışma, kaynak OB ve destek/direnç mumu",
+   "## 1. Frank Luther — Arz ve Talep Ticareti",
+   "### FL58 — Taze H4 arz/talep bölgesine sıkışarak yaklaşma filtresi",
+   "## 2. James Jecool King — Gelişmiş Order Block Kılavuzu",
+   "### JK58 — Önceki gün ekstremindeki H1 kaynak OB ve M15 daraltma",
+   "## 3. Matt Anderson — Kazançlı Mum Kalıpları",
+   "### MA58 — EMA yönünde beş mumlu üç yöntem devamı",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_059",
+  "len": 7666,
+  "heads": [
+   "# Kitap okuma 059 — Kama süpürmesi, maliyet filtresi, EMA21 retesti",
+   "## 1. Dylan Forexia — Üstün Trader Olmanın Yolu",
+   "### FX59 — M15 kama kırılımının önceki gün ekstremi süpürmesi ve ters kapanışı",
+   "## 2. Christopher Lee — Forex Rüyası",
+   "### CL59 — Strateji değil: maliyet/işlem ufku geçiş ölçütü",
+   "## 3. Price Action El Kitabı",
+   "### PA59 — H4 fraktal kırılımı sonrası ilk EMA21 retesti ve dönüş mumu",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_060",
+  "len": 8430,
+  "heads": [
+   "# Kitap okuma 060 — Hisse açılış koşucusu, hacimli üçgen, MA20 swing",
+   "## 1. Brian P. Anderson — H1 Stratejisi / High Volume Runners",
+   "### BA60 — Seans açılışında yüksek hacimli hisse koşucusu (kripto için ertelendi)",
+   "## 2. Ankya — Price Action Kalıpları",
+   "### AK60 — Teyitli yatay sınır/yükselen dip üçgeninde hacim daralması ve kırılımı",
+   "## 3. Michael Roy — Swing Trading",
+   "### MR60 — D1 MA20 geri kazanımı, 1,5 ATR parçalı kâr ve üç gün low izleyen çıkış",
+   "## Ortak test notu"
+  ]
+ },
+ {
+  "batch": "batch_061",
+  "len": 6223,
+  "heads": [
+   "# Kitap okuma 061 — MA kesişimi, çapa mum dönüşü, 1-2 dalga devamı",
+   "## 1. Clif Droke — Basitleştirilmiş Hareketli Ortalamalar",
+   "### CD61 — SMA30/60 kesişimi ve uzun ortalama eğimi",
+   "## 2. Christopher Lee — Basitleştirilmiş Mum Kalıpları",
+   "### CL61 — Çapa mum açılışının kapanışla ihlali",
+   "## 3. Elliott Dalga Teorisi",
+   "### EW61 — Teyitli 1-2 pivotundan ilk tepe kırılımı",
+   "## Ortak test sözleşmesi"
+  ]
+ },
+ {
+  "batch": "batch_062",
+  "len": 7167,
+  "heads": [
+   "# Kitap okuma 062 — Medyan çizgi, hacimli yutan mum, MACD histogram ayrışması",
+   "## 1. Patrick Mikula — En İyi Trend Çizgisi Yöntemleri",
+   "### PM62 — Medyan çizgi temasında stokastik aşırılık ve kapanış dönüşü",
+   "## 2. Dr. Melvin Pasternak — Her Traderin Bilmesi Gereken 21 Mum",
+   "### MP62 — Trend sonunda hacimli büyük gövdeli yutan mum",
+   "## 3. Jayden Smith — MACD Göstergesinin Sırrı",
+   "### JS62 — Histogram alanları arasında teyitli fiyat ayrışması",
+   "## Ortak test sözleşmesi"
+  ]
+ },
+ {
+  "batch": "batch_063",
+  "len": 6863,
+  "heads": [
+   "# Kitap okuma 063 — Taze bölge, EMA geri çekilmesi, çoklu seviye testi",
+   "## 1. Samibegood / A. Riskiyanto — Arz ve Talep Analizi",
+   "### SR63 — Güçlü çıkışla oluşan taze talep/arz bölgesinin ilk yeniden testi",
+   "## 2. Thomas Carter — Forex 20 Trend Takip Sistemi",
+   "### TC63 — EMA7/21 trendinde EMA21 temasından sonra son high/low kırılımı",
+   "## 3. Toni Hansen — Pazarı: Destek ve Direnci Anlamak",
+   "### TH63 — İki testten sonra yatay seviye kırılımı ve ilk geri testi",
+   "## Ortak test sözleşmesi"
+  ]
+ },
+ {
+  "batch": "batch_064",
+  "len": 6073,
+  "heads": [
+   "# Kitap okuma 064 — ATR izleyen çıkış, MACD/RSI teyidi, hacimli seviye dönüşü",
+   "## 1. David Jenyns — En İyi Trading Sistemleri",
+   "### DJ64 — Mevcut girişler için 3×ATR-EMA10 yalnız lehe izleyen stop",
+   "## 2. Jeff Drake — İndikatörlerle Kazanç Sağlamak",
+   "### JD64 — Yatay rejimde MACD histogram ve RSI50 eşzamanlı geçişi",
+   "## 3. Ravi Agarwal — Teknik Analizi Anlamak ve Uygulamak",
+   "### RA64 — Önceden iki kez sınanmış direncin hacimli kırılıp desteğe dönüşmesi",
+   "## Ortak test sözleşmesi"
+  ]
+ },
+ {
+  "batch": "batch_065",
+  "len": 7456,
+  "heads": [
+   "# Kitap okuma 065 — S/R kuyruğu, MACD çizgi kırılımı, histogram ivmesi",
+   "## 1. Mark Boardman — Forex Ayarla ve Unut Kazanç Sistemi",
+   "### MB65 — Dondurulmuş S/R seviyesinde uzun kuyruk ve üçte bir geri çekilme",
+   "## 2. Trading Strategy Guides — MACD Trend Takip Stratejisi",
+   "### TG65 — MACD swing high çizgisinin kapanışta yukarı kırılması",
+   "## 3. Short-Term Trading Sırları — yazar belirtilmemiş",
+   "### ST65 — MACD histogramında üç bar ivme, ilk ters barda çıkış",
+   "## Ortak test sözleşmesi"
+  ]
+ },
+ {
+  "batch": "batch_066",
+  "len": 6818,
+  "heads": [
+   "# Kitap okuma 066 — Ölçülü dikdörtgen, düşen üç yöntem, perakende pozisyonlanması",
+   "## 1. Forex GDP — Forex Grafik Desenleri: Eksiksiz Bir Kılavuz",
+   "### FG66 — Trend içi dikdörtgen kırılımında dondurulmuş yükseklik hedefi",
+   "## 2. Mum Çubuklarını Anlamak — yazar belirtilmemiş",
+   "### UC66 — Düşen üç yöntemde ilk mum aralığı içinde kısa duraklama",
+   "## 3. Blue Edge Financial — EDGE Trading Sırları",
+   "### BE66 — Perakende konumlanma karşı yön filtresi (FX verisine kadar ertelendi)",
+   "## Ortak test sözleşmesi"
+  ]
+ },
+ {
+  "batch": "batch_067",
+  "len": 6657,
+  "heads": [
+   "# Kitap okuma 067 — Dirençte karşı mum, çift dip geri testi, ilk 9/30 geri çekilmesi",
+   "## 1. Forex Profit Farm — Forex Sihirli Mum Çubukları",
+   "### FP67 — Teyitli dirençte küçük boğa mumunu izleyen büyük ayı mum",
+   "## 2. Trading Technicals — Teknik Analiz: Trading Sanatı",
+   "### TT67 — Çift dip boyun kırılımından sonra ilk geri test",
+   "## 3. Galen Woods — Düşünen Trader",
+   "### GW67 — Yeni 9/30 kesişiminden sonra yalnız ilk geri çekilme",
+   "## Ortak test sözleşmesi"
+  ]
+ },
+ {
+  "batch": "batch_068",
+  "len": 6869,
+  "heads": [
+   "# Kitap okuma 068 — MACD/EMA geri çekilmesi, sıkışma kırılımı, Asya aralığı süpürmesi",
+   "## 1. Dinamit TNT Forex Sistemi — yazar belirtilmemiş",
+   "### TNT68 — MACD yeni trendi, EMA6/23 teyidi ve ilk stokastik geri çekilme",
+   "## 2. AxiTrader / Sam Eder — Kazandıran Forex Trading Sistemi",
+   "### AX68 — H1 Bollinger sıkışması sonrası M15 bant dışı kapanış",
+   "## 3. Beat The Market Maker — Piyasa Yapıcı Tuzakları",
+   "### BT68 — FX Asya aralığı üstü/altı sahte kırılım ve geri kapanış (veri koşullu)",
+   "## Ortak test sözleşmesi"
+  ]
+ },
+ {
+  "batch": "batch_069",
+  "len": 8512,
+  "heads": [
+   "# Kitap okuma 069 — kural kaynağı ayrımı ve mum formasyonları",
+   "## 1. Craig Harris'in Forex Trading Metodolojisi — Lynn Brown",
+   "### CH69 — İç/dış bar, RC ve fraktal sözlüğü (özellik adayı; işlem stratejisi ertelendi)",
+   "## 2. Forex Broker Killer Edition — Kgopotso Mmutlane",
+   "### FBK69 — Bir dakikalık strateji (kaynakta kural yok; ertelendi)",
+   "## 3. Para Sihirbazı — Mum Çubukları ile Farklı Bir Analiz Yöntemi — Zeki Çelik",
+   "### PS69A — Önceki kutu dışına iğne ve kutu içine geri kapanış",
+   "### PS69B — Pinbar sonrası iki barlık engulf teyidi",
+   "### PS69C — Trend içinde uzun–kısa–uzun üç bar devamı",
+   "## Ortak uygulama ve öncelik"
+  ]
+ },
+ {
+  "batch": "batch_070",
+  "len": 10708,
+  "heads": [
+   "# Kitap okuma 070 — BTC bant dönüşü, günlük SFP ve ölçülü formasyon hedefleri",
+   "## 1. Bitcoin Günlük Alım Satım Stratejileri — Lawrence Keaton",
+   "### LK70A — SMA200 yönünde BB10 ve RSI5 aşırı uçtan geri dönüş",
+   "### LK70B — Stochastic(22,5,9) kesişimi sonrası EMA5/11 yön değişimi",
+   "## 2. En İyi Bitcoin ve Ethereum Trading Stratejisi — James Jecool King",
+   "### JK70 — Önceki hafta uç seviyesinin günlük SFP geri kapanışı",
+   "## 3. Kripto Para Ticareti — Piyasaya Giriş, Çıkış ve Stop-Loss — Chris Lambert",
+   "### CL70A — Eşit iki dip, boyun üstü kapanış ve ölçülü hedef",
+   "### CL70B — Güçlü direk sonrası dar bayrak kırılımı ve direk boyu hedef",
+   "## Ortak test sözleşmesi ve öncelik"
+  ]
+ },
+ {
+  "batch": "batch_071",
+  "len": 11412,
+  "heads": [
+   "# Kitap okuma 071 — gecikmeli RSI girişi, yatay piyasa dönüşü ve ayı rejimi",
+   "## 1. Algoritmik Trading Stratejileri — Scotty Ratford",
+   "### SR71A — SMA15/45 yükselişi ardından RSI5 aşırı satımdan çıkış",
+   "### SR71B — Yatay BB50 uç teması sonrası CCI20'nin −200 üstüne dönüşü",
+   "## 2. Ortalama Dönüşüne Dayalı Günlük Alım Satım Stratejisi Kitabı — Rob Teally",
+   "### RT71A — ADX14 düşükken BB40 dışı ve RSI5 geri dönüşü",
+   "### RT71B — EMA200 tarafında Keltner(20,1,5) ve RSI5 ters dönüşü",
+   "## 3. Ayı Piyasası Trading Stratejileri — Matthew R. Kratter",
+   "### MK71A — Ayı rejiminde 200 günlük SMA başarısız rallisini shortla (SPY/ES veri koşullu)",
+   "### MK71B — Pazartesi panik günü, Çarşamba çıkışı; `%R` yönü doğrulanacak (SPY veri koşullu)",
+   "## Ortak doğrulama ve karşılaştırma"
+  ]
+ },
+ {
+  "batch": "batch_072",
+  "len": 10635,
+  "heads": [
+   "# Kitap okuma 072 — taze bölge testi, hacim emilimi ve formasyon çıkışı",
+   "## 1. Arz ve Talep Trading Stratejisi — Frank Edward",
+   "### FE72 — Kısa bazdan güçlü ayrılma sonrası ilk bölge dönüşü ve kapalı mum teyidi",
+   "## 2. Düşük Risk Yüksek Kazanç Trading Stratejileri — Trading Pub (çok yazarlı derleme)",
+   "### TP72 — Yüksek hacim + dar aralık sonrası zıt yönde kapalı mum teyidi",
+   "## 3. Fiyat Grafik Formasyonlarıyla Trading — Derek Salvon",
+   "### DS72A — Üçlü tepe/dip ölçülü hedef, EFI ile kısmi devam kolu",
+   "### DS72B — Uzun fitilli küçük gövdeli mumun sınır kırılımı (ön eleme adayı)",
+   "## Ortak doğrulama"
+  ]
+ },
+ {
+  "batch": "batch_073",
+  "len": 7872,
+  "heads": [
+   "# Kitap okuma 073 — iç içe yapı teyidi, piyasa rejimi, ikinci geri çekilme",
+   "## 1. Follow The Money (FTM) Stratejisi",
+   "### FTM73 — Üst dilim taze bölgesi içinde alt dilim yapı kırılımı",
+   "## 2. Forex Trading Sistemi — Sumo FX — Jaco Ferreira",
+   "### SF73 — Bollinger orta çizgi eğimi ve bant daralmasıyla rejim ayırma (özellik adayı)",
+   "## 3. En Başarılı 10 Price Action Modeli — Al Brooks",
+   "### AB73 — Trend içindeki ikinci geri çekilme denemesinden devam",
+   "## Ortak doğrulama"
+  ]
+ },
+ {
+  "batch": "batch_074",
+  "len": 7956,
+  "heads": [
+   "# Kitap okuma 074 — çoklu salınım dönüşü, MACD reddi, iki kapanışlı çizgi kırılımı",
+   "## 1. Bir Tersine Dönüşün Ne Zaman Gerçekleşeceğini Nasıl Belirleyebilirim",
+   "### RT74 — Uzamış trend sonunda yakın çift/üçlü dip-tepe ve büyük ilk tepki",
+   "## 2. MACD — Karthik Marar",
+   "### KM74 — Pozitif haftalık rejimde günlük MACD sıfır çizgisi reddi",
+   "## 3. Trendline Trading Stratejisi — Rich Finegan",
+   "### RF74 — Dondurulmuş iki pivot çizgisinin dışında iki günlük kapanış",
+   "## Ortak doğrulama"
+  ]
+ },
+ {
+  "batch": "batch_075",
+  "len": 8223,
+  "heads": [
+   "# Kitap okuma 075 — ayrık MACD sapması, Wyckoff spring, kırılım dönüşü",
+   "## 1. Uyumsuzluklar — Alexander Elder",
+   "### AE75 — Histogramın sıfırı geçtiği ayrık iki dip/tepe sapması",
+   "## 2. Wyckoff Yöntemi",
+   "### WY75 — Spring sonrası aralık içi toparlanma ve direnç üstü güç teyidi",
+   "## 3. Forex Day Trading — Gavin Wallace",
+   "### GW75 — Günlük kırılım ve ilk geri testte H4 EMA yön teyidi",
+   "## Ortak doğrulama"
+  ]
+ },
+ {
+  "batch": "batch_076",
+  "len": 8068,
+  "heads": [
+   "# Kitap okuma 076 — kanal çıkışı, yapı teyidi, gövdeye çizilen Fibonacci",
+   "## 1. Short — Dr. Alexander Elder",
+   "### SE76 — Düşen kanalda değere dönüşte short, alt bantta kısmi çıkış",
+   "## 2. Price Action — Elliot Baker",
+   "### EB76 — Yapı kırılımının kısa sürede teyit edilmemesiyle başarısız kurulum filtresi",
+   "## 3. Order Block ve Fibonacci — Bheki Mpangane",
+   "### BM76 — Gövdeye sabitlenen 0,618–0,79 geri çekilme ve kapalı mum dönüşü",
+   "## Ortak doğrulama"
+  ]
+ },
+ {
+  "batch": "batch_077",
+  "len": 7726,
+  "heads": [
+   "# Kitap okuma 077 — Spartan 1-2-3 filtresi, RSI destekli başarısız kırılım",
+   "## 1. Spartan Trader Forex Sistemi — Nikos Mermigas",
+   "### NM77 — Onaylı 1-2-3 dönüşü + EMA12/36 ve EMA200 bağlamı",
+   "## 2. Price Action Kurulumları ve Örnekleri — Stoxxme",
+   "### SX77 — Eski direncin üstünde başarısız kapanış ve önceden doğrulanabilir RSI zayıflığı",
+   "## 3. Yeni Başlayanlar İçin Grafik Okuma Teknikleri",
+   "## Ortak doğrulama ve kayıt sınırı"
+  ]
+ },
+ {
+  "batch": "batch_078",
+  "len": 8916,
+  "heads": [
+   "# Kitap okuma 078 — Camarilla geri alımı ve çoklu osilatör uyumsuzluğu",
+   "## 1. Trading Stratejileri — Simon Sikorski",
+   "### SS78 — Önceki gün Camarilla L3/H3 seviyesini süpürüp geri kapanma",
+   "## 2. Uyumsuzluklar — Oleg A. But",
+   "### OB78 — H4 MACD ve Stochastic ortak uyumsuzluğu, H1 aşırılık teyidi",
+   "## 3. Price Action — James Jecool King",
+   "## Ortak doğrulama"
+  ]
+ },
+ {
+  "batch": "batch_079",
+  "len": 6786,
+  "heads": [
+   "# Kitap okuma 079 — trend sonrası kararsızlık kümesi; seans boşluğu ve Unicorn sınırları",
+   "## 1. Price Action — Marcio Santos",
+   "### MS79 — Sekiz günlük itki ardından beş günlük kararsızlık kutusu kırılımı",
+   "## 2. Gap Trading",
+   "## 3. Unicorn Avantajı — Furqan Malick",
+   "## Ortak doğrulama"
+  ]
+ },
+ {
+  "batch": "batch_080",
+  "len": 8655,
+  "heads": [
+   "# Kitap okuma 080 — kısmi gövde yutulması ve FTR ilk geri dönüşü",
+   "## 1. Price Action — Market Masters Academy",
+   "## 2. Price Action Kursu — Junior Dias",
+   "### JD80 — Destek/dirençte %75 gövde yutulması, tam yutulmaya karşı",
+   "## 3. Supply and Demand Eğitim Kursu",
+   "### SD80 — Onaylı FTR tabanına ilk retestte yönlü kapanış",
+   "## Ortak doğrulama"
+  ]
+ },
+ {
+  "batch": "batch_081",
+  "len": 5641,
+  "heads": [
+   "# Kitap okuma 081 — Pazartesi aralığı likidite baskını",
+   "## 1. Price Action Stratejileri — Alpha FX",
+   "## 2. Supply and Demand Kılavuzu",
+   "## 3. Teknik Analiz Kursu — Rekt Proof",
+   "### RP81 — Pazartesi aralığının hafta içi ilk süpürülüp içine kapanması",
+   "## Ortak doğrulama"
+  ]
+ },
+ {
+  "batch": "batch_082",
+  "len": 9924,
+  "heads": [
+   "# Kitap okuma 082 — Ichimoku teyidi, Forex mikro sistemleri ve nicel kurallar",
+   "## 1. Düşük Riskli Ichimoku Stratejisi Rehberi — Karen Peloille",
+   "## 2. Day Trade Forex Sistemi — Erol Bortucene ve Cynthia Macy",
+   "## 3. İşe Yarayan 5 Basit Trading Stratejisi — Jeff Swanson",
+   "### JS82A — Üç günlük kapanış–uç ofsetiyle düşüş sonrası yukarı kırılım",
+   "### JS82B — SMA200 üzerinde üç günlük toplam RSI2 aşırı satımı",
+   "### JS82C — SMA200 altında dört ardışık yükseliş kapanışından short",
+   "## Ortak doğrulama"
+  ]
+ },
+ {
+  "batch": "batch_083",
+  "len": 7448,
+  "heads": [
+   "# Kitap okuma 083 — Londra mikro sistemi, Bollinger dönüşü ve kanal çıkışı",
+   "## 1. Kazançlı Günlük Trading Stratejisi — Caroline Ayuk",
+   "## 2. Basit Forex Trading Formülleri — Billy Williams",
+   "### BW83A — D1 SMA20 yönünde H1 Bollinger 2σ/3σ aşırılığından dönüş",
+   "## 3. Açığa Çıkan Trading Sırları — ChartSecret.com",
+   "### CS83A — Kâr bölgesinde etkinleşen dört mum HiLo takip stopu",
+   "## Ortak doğrulama"
+  ]
+ },
+ {
+  "batch": "batch_084",
+  "len": 8081,
+  "heads": [
+   "# Kitap okuma 084 — SMA/BB, gelişmiş RSI ve dört harmonik formasyon",
+   "## 1. Basit Hareketli Ortalama (SMA) ve Bollinger Bantları Göstergelerinin Birlikte Kullanımıyla... — Aaron Lee Johnson",
+   "## 2. Gelişmiş RSI İndikatörü — Lalit Mohanty",
+   "## 3. Harmonik Formasyonlar — Six Figure Capital / Six000",
+   "### HF84A — XABCD harmonik D dönüşünde oran ve stop/TP aileleri",
+   "## Ortak doğrulama"
+  ]
+ },
+ {
+  "batch": "batch_085",
+  "len": 9473,
+  "heads": [
+   "# Kitap okuma 085 — FX fiyat yapısı, kanal kırılması ve gösterge birleşimleri",
+   "## 1. En İyi 10 Forex Stratejisi — AuthenticFX / Erron Adams",
+   "### AF85A — Yavaş stokastik trendiyle hızlı stokastik ters çekilmesi",
+   "## 2. Forex Trading Stratejileri — Edmund Loh",
+   "## 3. Günlük Trading Stratejilerinde İndikatörlerin Kullanımı — Lawrence Keaton",
+   "### LK85A — Stokastik(22,5,9) ön koşulu ve EMA5/11 çaprazı",
+   "### LK85B — Aroon çaprazı, RSI50 ve SMA10 yön filtresi",
+   "## Ortak doğrulama"
+  ]
+ },
+ {
+  "batch": "batch_086",
+  "len": 11764,
+  "heads": [
+   "# Kitap okuma 086 — RSI bantları, Forex sistem derlemesi ve trend gücü",
+   "## 1. Günlük Alım Satım Giriş ve Çıkışları — David Harnett",
+   "### DH86 — RSI14 üzerinde Bollinger zarfından yeniden içeri giriş",
+   "## 2. Forex Trading Stratejileri — forex-strategies-revealed.com derlemesi",
+   "## 3. Trend Trading Makaleleri — Barbara Star, Martin Pring, Tushar Chande, Stuart Meibuhr, E. Michael Poulos, John Sweeney, John Ehlers, Gregory Morris",
+   "### TS86 — Chande TrendScore 11–20 gün yön değişimi",
+   "### RWI86 — Uzun dönem rastgele yürüyüş endeksiyle kanal kırılımı filtresi",
+   "## Ortak değerlendirme sözleşmesi"
+  ]
+ },
+ {
+  "batch": "batch_087",
+  "len": 5143,
+  "heads": [
+   "# Kitap okuma 087 — gösterge sözlüğü ve günlük sinyal derlemeleri",
+   "## 1. En İyi 25 İndikatör — Frank Luther",
+   "## 2. Al ve Sat Günlük Trading Sinyalleri — 2022 Baskısı",
+   "### VW87 — VWMA10/21 kapanış kesişimi",
+   "## 3. Yüksek Kazanç Oranlı Günlük Trading Kurulumları — Marcel Robbinson"
+  ]
+ },
+ {
+  "batch": "batch_088",
+  "len": 6419,
+  "heads": [
+   "# Kitap okuma 088 — ayrışma, EMA/SMA/RSI ve Coffee Grounds",
+   "## 1. Uyumsuzluklarla Trading — BabyPips kaynaklı derleme",
+   "## 2. Forex Gizli Trading Modeli — Rich Finegan",
+   "### RF88 — EMA20/SMA20 dizilişi ve RSI14 orta çizgi teyidi",
+   "## 3. Coffee Grounds Trading Sistemi — P. K. Tournis",
+   "### CG88 — SMA10/30/100/200 dizilişinde SMA10 geri kazanımı"
+  ]
+ },
+ {
+  "batch": "batch_089",
+  "len": 4834,
+  "heads": [
+   "# Kitap okuma 089 — başlangıç derlemeleri ve Forex işlem kuralları",
+   "## 1. Başlangıç Seviyesi Günlük Trading 2020 — George Livermore",
+   "## 2. Yeni Başlayanlar İçin Basitleştirilmiş Forex Trading — Marlon Green",
+   "## 3. Forex Trading Kuralları — Lever70"
+  ]
+ },
+ {
+  "batch": "batch_090",
+  "len": 8743,
+  "heads": [
+   "# Kitap okuma 090 — gün içi kurallar ve fraktal teyidi",
+   "## 1. Forex Trading 10 Altın Kural — Admiral Markets",
+   "## 2. Güniçi Trading ile Servet Oluşturmak — Maddy",
+   "## 3. Kusursuz Günlük Trading — Ivan Cavric",
+   "### DC90A — BB19 içinde RSI14 aşırılıktan dönüş",
+   "### DC90B — Önceki gün yönünde EMA20/50/100 geri çekilmesi ve teyitli fraktal",
+   "### DC90C — Üç MACD sıfır geçişi + teyitli Williams fraktal stopu",
+   "### DC90D — RSI50/70/30 filtresiyle iç bar ana mum kırılımı",
+   "### DC90E — EMA50/100/150 hizasında EMA50 altı/üstü sapma ve geri dönüş"
+  ]
+ },
+ {
+  "batch": "batch_091",
+  "len": 7663,
+  "heads": [
+   "# Kitap okuma 091 — günlük çift stokastik ve Bollinger geri dönüşü",
+   "## 1. Bollinger Band Trading — Glenn Wilson",
+   "## 2. Forex Trading Rehberi — Jeremy Zindel",
+   "## 3. Günlük Forex Stratejisi — Frq Mid / Diego Núñez",
+   "### FM91A — D1 yavaş stokastik trendinde hızlı stokastik aşırılık ve BB dış bant dönüşü",
+   "### FM91B — Yavaş stokastik 50 rejim değişimi sonrası ilk BB orta bant geri testi"
+  ]
+ },
+ {
+  "batch": "batch_092",
+  "len": 5575,
+  "heads": [
+   "# Kitap okuma 092 — stop süpürmesi ve belirsiz çoklu gösterge sistemi",
+   "## 1. Forex Trading İşlemlerinde Stop Avlama Stratejisi — David Odoh",
+   "## 2. Adım Adım Kazanan Trader için Forex İşlem Stratejileri — Donald Stanberry",
+   "## 3. Yeni Forex Piyasası Trading Sistemi — Emegha Emmanuel"
+  ]
+ },
+ {
+  "batch": "batch_093",
+  "len": 7348,
+  "heads": [
+   "# Kitap okuma 093 — hacimli düzeltme, günlük yön ve piyasa yapısı",
+   "## 1. Profesyonellerin Trading Sistemi — Eloy Villalon",
+   "## 2. Günde En Az 100 Dolar Kazanmak İçin En İyi Forex Trading Stratejileri — Brian Kendall",
+   "## 3. Grafik Formasyonları ve Price Action Forex Trading — Mason Anderson"
+  ]
+ },
+ {
+  "batch": "batch_094",
+  "len": 9397,
+  "heads": [
+   "# Kitap okuma 094 — H4 yönlü M30 formasyon ve vadeli piyasa bağlamı",
+   "## 1. Fiyat Kalıplarıyla Günlük Forex Trading — Laurentiu Damir",
+   "### FP94 — H4 itki yönünde M30 kutu kırılımı, retest veya ikinci kapanış",
+   "## 2. Günlük Trading - Giriş ve Çıkış Sistemleri 2023 — James Jecool King",
+   "## 3. Vadeli İşlemler Trading Stratejileri — Wayne Walker"
+  ]
+ },
+ {
+  "batch": "batch_095",
+  "len": 7571,
+  "heads": [
+   "# Kitap okuma 095 — EMA21 pin bar, SMA100/200 mum teyidi ve scalp maliyeti",
+   "## 1. Günde 40 Pips — dosya adında Giorgio Strani, iç kapakta Giorgio Tasca",
+   "## 2. Kazandıran Forex Trading - Forex'te Kazanmak için Günde 10 Dakika — dosya adında Giorgio Strani, iç metinde Giorgio Tasca",
+   "## 3. Forex Piyasasında Nasıl Scalp Yapılır — Binary Forex Brokers"
+  ]
+ },
+ {
+  "batch": "batch_096",
+  "len": 8759,
+  "heads": [
+   "# Kitap okuma 096 — haftalık pivotun iki tarafı",
+   "## 1. Borsada Kazanmak İçin Teknik Analiz Hakkındaki Gerçekler — Alvaro Cid",
+   "## 2. Döviz İşlemleri 2 — Heikin Ashi Trader",
+   "### WP96A — Haftalık pivota ilk temasın ters yönü",
+   "### WP96B — Haftalık pivota son mesafe yönünde yaklaşma",
+   "## 3. En İyi Teknik İndikatörler — Emily Dhruv"
+  ]
+ },
+ {
+  "batch": "batch_097",
+  "len": 6420,
+  "heads": [
+   "# Kitap okuma 097 — seans VWAP ve gösterge teyidi",
+   "## 1. Günlük Trading Stratejisi — Index Trader",
+   "### IV97 — Seans VWAP yönünde RSI60/40 geçişi ve yükselen ADX",
+   "## 2. Ichımoku Hızlı Başlangıç Rehberi — Bob Joiner",
+   "## 3. Geçimini Sağlamak İçin Günlük Alım Satım — Leigh Vernon"
+  ]
+ },
+ {
+  "batch": "batch_098",
+  "len": 7253,
+  "heads": [
+   "# Kitap okuma 098 — birikim kutusu, tüketici dürtüsü ve seans boşluğu",
+   "## 1. Biriktirme ve Dağıtım Kurulumları — Momoh S.O.",
+   "## 2. Dürtüsel Satın Alma — Lalit Mohanty",
+   "## 3. Day Trading — Rajiv LB Roy",
+   "### RG98 — Gerçek seans boşluğunda önceki gün mumu ile kırılım/geri test ayrımı"
+  ]
+ },
+ {
+  "batch": "batch_099",
+  "len": 6202,
+  "heads": [
+   "# Kitap okuma 099 — mumlar, emir blokları ve maliyet duyarlı scalp",
+   "## 1. Kripto Ticaretinde Mum Grafiklerini Okumak İçin Profesyonel Bir Kılavuz — Emily Dhruv",
+   "## 2. Order Block Trading — Emily Dhruv",
+   "## 3. Scalping Stratejileri — S. Connell",
+   "### BC99 — Dış Bollinger temasından bant içine dönüş, genişliğe bağlı mikro hedef"
+  ]
+ },
+ {
+  "batch": "batch_100",
+  "len": 7914,
+  "heads": [
+   "# Kitap okuma 100 — histogram geri çekilmesi ve bandı izleyen trend",
+   "## 1. Price Action ve Order Block Uzmanlığı — James Jecool King",
+   "## 2. Scalping Trading İşlemlerinde En İyi 5 Strateji — Andrew C. Ellis",
+   "### ME100 — MACD histogramı pozitif dipten dönüş ve stokastik teyit",
+   "## 3. Basit Strateji — Markus Heitkoetter ve Mark Hodge",
+   "### BH100 — MACD yönü, yükselen BB12 dış bandı ve ADR10/15 çıkışı"
+  ]
+ },
+ {
+  "batch": "batch_101",
+  "len": 4468,
+  "heads": [
+   "# Kitap okuma 101 — EMA34 dalga geri çekilmesi",
+   "## 1. Basitleştirilmiş Forex — Alpha Balde",
+   "### AB101 — EMA34 yüksek/düşük dalgasına geri çekilme ve yönüne dönüş",
+   "## 2. Forex Online — Eugenio Milani",
+   "## 3. Forex Trading — Owen Pagano"
+  ]
+ },
+ {
+  "batch": "batch_102",
+  "len": 7276,
+  "heads": [
+   "# Kitap okuma 102 — günlük LWMA/OsMA ve düşük hacim teyidi",
+   "## 1. Forex Trading — 30 Günde Hiçbir Şeyden Her Şeye — Ross Wright",
+   "## 2. Para Kazanma Stratejisi — Günde Sadece 15 Dakika — Caroline Ayuk",
+   "### CA102 — D1 LWMA8/10 ve OsMA yönü, teyitli fraktal stopu",
+   "## 3. Forex Trading İşlemlerinden Geçimini Sağlamanın 4 Adımı — Luciano A. Kelly",
+   "### LK102 — düşük hacimli dar bar ardından teyitli arz yok/talep yok"
+  ]
+ },
+ {
+  "batch": "batch_103",
+  "len": 5978,
+  "heads": [
+   "# Kitap okuma 103 — Donchian uç dönüşü ve eş dönem EMA/SMA geçişi",
+   "## 1. EURUSD için 3 adet Günlük İşlem Stratejisi — Daniel G. G.",
+   "### DG103A — Donchian120 karşı uç temasıyla dönüş",
+   "### DG103B — EMA34/SMA34 geçişi ve ATR4 hareket kapısı",
+   "## 2. Kazançlı Hareketli Ortalama Trading Sistemi — Stephan Miller",
+   "## 3. Ultimate MACD Giriş Stratejisi — Richard Krugel"
+  ]
+ },
+ {
+  "batch": "batch_104",
+  "len": 5741,
+  "heads": [
+   "# Kitap okuma 104 — üç döviz çiftli EMA10 sepeti",
+   "## 1. Gavin Holmes Scalp Stratejisi",
+   "## 2. Madam Lim Trading Sistemi — World Class Trading Stars",
+   "### ML104A — EMA10 çoğunluk oyu ve üç çiftli sepet",
+   "## 3. Trendline Trading Stratejisi — Day and Night Forex",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_105",
+  "len": 4474,
+  "heads": [
+   "# Kitap okuma 105 — dört kapanış ve üç pip teyidi",
+   "## 1. Price Action Scalper",
+   "### PAS105A — H1/M30/M15/M5 renk uyumu sonrası beş dakikalık 3 pip kırılımı",
+   "## 2. Forex Grid Trade Stratejisi",
+   "## 3. Swing Failure Pattern",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_106",
+  "len": 5524,
+  "heads": [
+   "# Kitap okuma 106 — BFix seviye kırılımı",
+   "## 1. Londra Oturumu Forex Trading Sırları — Alberto Sassetti",
+   "### LS106A — Önceden yayınlanmış BFix düzeyiyle M15 EMA9/RSI14 kırılımı",
+   "## 2. Düşük Riskli Swing Trading için Gün İçi Zamanlama — Walter Bressert",
+   "## 3. Nasdaq Endeksi ile Tradingin Sırları — Muko Ruth",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_107",
+  "len": 4684,
+  "heads": [
+   "# Kitap okuma 107 — hisse tarayıcısı ve fix verisi denetimi",
+   "## 1. Forex Trading Şifresi — Alberto Sassetti",
+   "## 2. Swing Trading için Hisse Tarama Aracı — Abhishek Jain",
+   "## 3. Price Action Trading Stratejileri — Matthew Robert",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_108",
+  "len": 3381,
+  "heads": [
+   "# Kitap okuma 108 — altın, özel Gann göstergesi ve MACD tekrarları",
+   "## 1. Kazançlı Gold Stratejisi — Learn Price Action",
+   "## 2. Okehiedon Gann System",
+   "## 3. MACD Al ve Sat Sinyalleri",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_109",
+  "len": 5312,
+  "heads": [
+   "# Kitap okuma 109 — VWAP üstünde RSI55, düşük ADX",
+   "## 1. Trading Kurulumları — Falcon FX",
+   "## 2. Payapa Scalping Stratejisi — Blanco",
+   "## 3. Gün İçi Trading Stratejisi — Stock Trader",
+   "### ST109A — M15 VWAP–RSI55/35 kesişimi, ADX<30",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_110",
+  "len": 5528,
+  "heads": [
+   "# Kitap okuma 110 — iki kademeli Fibonacci geri çekilmesi",
+   "## 1. Haftalık Gelir İçin Basit Kurulumlar — Thomas Wood",
+   "## 2. Çift Vuruş Fibonacci Stratejisi — J Crawford",
+   "### JC110A — %50/%61,8 yarım pozisyon girişleri ve %78,6 ortak stop",
+   "## 3. Forex — Investing People / Valeriano",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_111",
+  "len": 5260,
+  "heads": [
+   "# Kitap okuma 111 — üçgen sonrası 1-2-3 Fibonacci kırılımı",
+   "## 1. Forex Bermuda Trading Stratejisi — Michel Selim",
+   "### MS111A — Üçgen kırılımı sonrası 1-2-3 geri çekilmesi ve 100 düzeyi yeniden kırılımı",
+   "## 2. AK47 Scalping Stratejisi — Siya Vezi",
+   "## 3. Nasdaq Trading Stratejisi — FX Goat",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_112",
+  "len": 4653,
+  "heads": [
+   "# Kitap okuma 112 — çift doji sınırında iki yönlü emir",
+   "## 1. Trading İşlemlerinde İkili Dojinin Sırrı — Vladimir Ribakov",
+   "### VR112A — Art arda iki doji için OCO kırılımı",
+   "## 2. Kanal Ticareti",
+   "## 3. Forex — JM Shepal",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_113",
+  "len": 7073,
+  "heads": [
+   "# Kitap okuma 113 — günlük Fibonacci aralığı ve hacim mumu teyidi",
+   "## 1. Basitleştirilmiş Fibonacci Düzeltmesi — Sankar Srinivasan",
+   "### SS113A — Önceki gün aralığının %61,8 eşiklerinden iki yönlü devam",
+   "## 2. Mum Grafiğiyle Trading Tekniği — Avinash Mudaliar",
+   "### AM113A — Hacim/fitil mumu → inside bar → yön teyidi",
+   "## 3. Forex ve Order Block Trading Rehberi — Raymond M. Smith",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_114",
+  "len": 5558,
+  "heads": [
+   "# Kitap okuma 114 — NFP öncesi aralıkta iki yönlü stop emirleri",
+   "## 1. Pin Bar Stratejisi",
+   "## 2. NFP Stratejisi — Unathi W. Salman",
+   "### UWS114A — NFP duyurusundan önce dondurulmuş M15 aralığının OCO kırılımı",
+   "## 3. Nasdaq Trading Stratejisi — Thabang Lebese",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_115",
+  "len": 3867,
+  "heads": [
+   "# Kitap okuma 115 — Fibonacci, order block ve mum dönüşleri",
+   "## 1. Fibonacci Trading Hakkında Her Şey — Bill Poulos",
+   "## 2. BTMM + ICT Sniper Giriş — Omoemu Festus",
+   "## 3. Swing Trading — Cafe Du Forex",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_116",
+  "len": 5760,
+  "heads": [
+   "# Kitap okuma 116 — tek taraflı kırılım sonrası karşı sınır pususu",
+   "## 1. Trading Sistemi — Giovanni Del Toro",
+   "## 2. Super Scalper — Gavin Holmes",
+   "## 3. Forex Mum Çubuğu Pusu İşlemi — Long Hang Seng",
+   "### LHS116A — Bir mum yalnız bir önceki sınırı aşınca karşı sınırdan dönüş",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_117",
+  "len": 4697,
+  "heads": [
+   "# Kitap okuma 117 — SPY RSI(2) dönüşünde önceki tepe çıkışı",
+   "## 1. Wyckoff Metodolojisi",
+   "## 2. RSI Trading — Tyler Aaron",
+   "### TA117A — SPY RSI(2)<15 sonrası önceki gün yüksekliği üzerinde kapanış",
+   "## 3. Güniçi Trading — B. Jonathan",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_118",
+  "len": 7637,
+  "heads": [
+   "# Kitap okuma 118 — kapanışta reddedilme ve sektör eşliğinde kırılım",
+   "## 1. Altın Teknik — Hexa Borsa",
+   "## 2. Sizi Zengin Edebilecek 7 Trading Modeli — Charles A. Floyd",
+   "### CF118A — Yeni günlük tepe/dip sonrası önceki kapanışın ters tarafına dönüş",
+   "## 3. Yüksek Kazançlı Swing Ticaretinin 5 Sırrı — Ivayla Ivanov",
+   "### II118A — Aynı sektörde eşzamanlı lider kırılımı ile hisse kırılımı",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_119",
+  "len": 7361,
+  "heads": [
+   "# Kitap okuma 119 — yuvarlak fiyat ve önceki hafta sınırının ilk teması",
+   "## 1. Forex Systems Research Company — Teknik Analiz Kursu",
+   "## 2. Forex Trading Kursu — Heikin Ashi Trader",
+   "### HR119A — Yuvarlak 100 pip fiyat düzeyinde 30 piplik ters tepki",
+   "### HR119B — Önceki haftanın high/low sınırında ilk temasın 15 pip devamı",
+   "## 3. Teknik Analiz Kursu — Bull and Bear Academy",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_120",
+  "len": 6188,
+  "heads": [
+   "# Kitap okuma 120 — üç gövdeli yutma ve trend çizgisi boşluğu",
+   "## 1. Svetlin Minev — Açıklamalı Price Action Tekniği",
+   "## 2. Vladimir Ribakov — Mumların Dili",
+   "### RB120A — Üç önceki gövdeyi yutan mumun devamı",
+   "## 3. Jeffrey Kennedy — Trend Çizgileri",
+   "### JK120A — Trend çizgisinden ayrık bar sonrası devam",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_121",
+  "len": 4565,
+  "heads": [
+   "# Kitap okuma 121 — zayıf açılışın önceki kapanışı geri alması",
+   "## 1. Colibri Trader — Price Action ile arz ve talep",
+   "## 2. Price Action Dinamikleri — RektProof notları",
+   "## 3. Stephen W. Bigalow — Kazançlı Mum Giriş Çıkış Stratejileri",
+   "### BG121A — Boğa dönüş sinyalinden sonra düşük açılışın kapanışı geri alması",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_122",
+  "len": 5071,
+  "heads": [
+   "# Kitap okuma 122 — açılış aralığı ve Darvas kutusunun tekrar değerlendirmesi",
+   "## 1. Larry Gaines — Haftalık Opsiyonlar ve Vadeli İşlemlerle Trading Döngüleri ve Kırılmalar",
+   "## 2. Akshay VG — Güniçi Satın Alma Stratejisi",
+   "## 3. Alpesh Pansheriya — Darvas Box ile Trading",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_123",
+  "len": 5345,
+  "heads": [
+   "# Kitap okuma 123 — önceki günün bir ucunu aşıp karşı ucunu kırmak",
+   "## 1. Alpesh Pansheriya — Kanıtlanmış 8 Price Action Stratejisi",
+   "## 2. Tyler Aaron — Price Action Trading",
+   "## 3. Thomas Carter — Forex Trend Takip Stratejileri",
+   "### TC123A — Düşük ADX ortamında önceki günün bir ucunu aşıp karşı ucu kırmak",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_124",
+  "len": 5717,
+  "heads": [
+   "# Kitap okuma 124 — düzeltmenin iki katı dürtüyle teyitli trend dönüşü",
+   "## 1. Andy Crowder — 3 Basit Opsiyon Stratejisi",
+   "## 2. IntroBooks — Günlük Trading",
+   "## 3. Laurentiu Damir — Price Action Trends",
+   "### LD124A — İki kat dürtüyle teyitli salınım sonrası H1 trend dönüşü",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_125",
+  "len": 6216,
+  "heads": [
+   "# Kitap okuma 125 — çoklu zaman diliminde arz/talep dönüşü",
+   "## 1. Trading Junkies — Mum Kalıpları",
+   "## 2. Johnathon — Swing Trading için Kesin Kılavuz",
+   "## 3. James Jecool King — Smart Money Concept / SMC Trading",
+   "### JK125A — H4 talep/arz temasında M15 likidite süpürmesi ve yapı dönüşü",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_126",
+  "len": 7459,
+  "heads": [
+   "# Kitap okuma 126 — günlük kapanış yönü ve Asya aralığı süpürmesi",
+   "## 1. Plexus_pa — Kolaylaştırılmış Daily Bias Tespiti (TR–ENG)",
+   "### PB126A — D1 kapanış konumuyla ertesi gün yön ve işlem filtresi",
+   "## 2. Mark Rose — Mumlar Hakkında Bilmek İsteyeceğiniz Her Şey",
+   "## 3. MarketMakersMethod.com — Forex Eğitimi / Market Makers Method",
+   "### MM126B — Haftanın ilk 8 H1 aralığı ve Asya süpürmesi sonrası EMA dönüşü",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_127",
+  "len": 8550,
+  "heads": [
+   "# Kitap okuma 127 — M1 osilatör scalp, Fibonacci kademeleri, iç içe geri çekilme",
+   "## 1. M1/M5 Forex Scalping Strategy",
+   "### MS127A — MACD sıfır yönünde stokastik 20/80 geri geçişi",
+   "## 2. Chris Padgett — Fibonacci Geri Çekilme Stratejisi",
+   "### CP127B — %61,8 geri çekilmede stokastik ve yutan mum, üç kademeli çıkış",
+   "## 3. Gabriel Ríos — Order Block ve Kullanımı",
+   "### GR127C — H1 %61,8–78,6 alanı içinde M15 iç geri çekilme",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_128",
+  "len": 5746,
+  "heads": [
+   "# Kitap okuma 128 — tek güçlü mumun Fibonacci orta düzeyi",
+   "## 1. Soulz — Arz ve Talep",
+   "## 2. Violeta Gaucan — Fibonacci Geri Çekilme Prensibi",
+   "## 3. M. Jazuli İsmail — Fibonacci Geri Çekilme ile Teknik Analiz",
+   "### JI128A — Önceki yüksek/düşüğü aşan tek H1 mumun %50 fitil reddi",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_129",
+  "len": 5182,
+  "heads": [
+   "# Kitap okuma 129 — order block içindeki ikinci destek sınaması",
+   "## 1. Düşük Zaman Dilimlerinde Order Block Tespiti",
+   "## 2. Lucius — ICT Blok Tipleri",
+   "### LU129A — İlk order block temasından doğan propulsion mumunun %50 yeniden testi",
+   "## 3. Lumi Traders — ICT Block Örnekleri",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_130",
+  "len": 6662,
+  "heads": [
+   "# Kitap okuma 130 — önceki gün tepe/dibiyle yön değiştiren sistem",
+   "## 1. BYSTRA — Gold Perfect Entry",
+   "## 2. Momoh SO — Fiyat Düzeltmesi ve Trend Dönüşü Kurulumu",
+   "## 3. Profit King — Günlük Trading Kazanç Paketi",
+   "### PK130A — Önceki gün yüksek/düşük kırılımında yön değiştirme",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_131",
+  "len": 5656,
+  "heads": [
+   "# Kitap okuma 131 — getiri eğrisi ve ölüm kesişimi",
+   "## 1. Takas Edilebilir Order Blocklar",
+   "## 2. Wyckoff Eğitimi — Rise Precision",
+   "## 3. Çökme Sinyali — Tim Morris",
+   "### TM131A — 10Y–2Y inversiyonu sonrası SPY ölüm kesişimiyle risk rejimi",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_132",
+  "len": 5848,
+  "heads": [
+   "# Kitap okuma 132 — üç kitap, bir portföy adayı",
+   "## 1. Trading Uzmanlığı — Million Moves Presents",
+   "## 2. M ve W Nihai Gün İçi Trading Stratejisi — James Jecool King",
+   "## 3. Ayarla ve Unut — Tim Morris",
+   "### TM132A — 60/35/2,5/2,5 çeyreklik sabit ağırlık portföyü",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_133",
+  "len": 4233,
+  "heads": [
+   "# Kitap okuma 133 — mumlar, emir bloğu ve Forex giriş rehberi",
+   "## 1. Kripto Ticaretinde Mum Grafiklerini Okumaya Yönelik Profesyonel Bir Kılavuz — Emily Dhruv",
+   "## 2. Orderblock Forex Trading Sırrı — James Jecool King",
+   "## 3. Forex Trading için İçeriden Rehber — Marc Jr. Caron",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_134",
+  "len": 5100,
+  "heads": [
+   "# Kitap okuma 134 — seviye haritası, Salı filtresi ve uzun/kısa koruma",
+   "## 1. Sir Lz Notları — Orijinal",
+   "## 2. Trader Rehberi — Shinta FX",
+   "## 3. Hedge Stratejileri",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_135",
+  "len": 3801,
+  "heads": [
+   "# Kitap okuma 135 — ICT blokları, fiyat yapısı ve işlem temelleri",
+   "## 1. ICT Stratejisi — James Jecool King",
+   "## 2. Fiyat Hareketi Grafiğini Okuma Rehberi — Profit King",
+   "## 3. Trading Başarısı: Temellerden İleri Seviyeye — Jennifer Jung",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_136",
+  "len": 6522,
+  "heads": [
+   "# Kitap okuma 136 — H4 EMA yeniden test ve iki mumluk ters işlem",
+   "## 1. H4 Zaman Diliminde 200 ve 50 EMA ile Strateji Oluşturma",
+   "### H136A — EMA50/200 rejiminde kırılan ekstremumun ikinci dönüşü",
+   "## 2. Currency Grail — Benim Gizli Kayıpsız Forex Scalping Sistemim",
+   "### CG136A — İki genişleyen mumun ters yönlü kısa vadeli tepkisi",
+   "## 3. Kolaylaştırılmış Elliott Dalgaları — Acrotec",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_137",
+  "len": 5782,
+  "heads": [
+   "# Kitap okuma 137 — pivot, Bollinger ve stokastik birleşimi",
+   "## 1. Yalan Söylemeyen Trading Rehberi — Glennmaru",
+   "### GM137A — Günlük pivot bölgesinde BB ve stokastik ayrışmalı dönüş mumu",
+   "## 2. Trading Hub 2.0 — Mr. Khan",
+   "## 3. King of Pips Teknik Analiz Kılavuzu — Alberto Orozco",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_138",
+  "len": 4872,
+  "heads": [
+   "# Kitap okuma 138 — mum kalıpları, uygulama disiplini ve CCI geri dönüşü",
+   "## 1. Kolaylaştırılmış Mum Grafikleri — James Williams",
+   "## 2. Saçmalık Olmayan Rehber — David Fiacan",
+   "## 3. Trading İşlemlerinde Başarılı Olmanın Sırları — Lee Kelvin",
+   "### LK138A — CCI ±200 taşması sonrası ±100 geri geçişi",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_139",
+  "len": 6608,
+  "heads": [
+   "# Kitap okuma 139 — Coppock döngüsü ve teyitli H4 pivot kırılımı",
+   "## 1. Bir Aylık Trade Bilgeliği Rehberi — Edward C. Turner",
+   "### EC139A — Aylık Coppock dip dönüşü ve çift tepe çıkışı",
+   "## 2. Yavaş ve İstikrarlı — Robert Glover",
+   "### RG139A — H4 teyitli dört bar pivotunun tamponlu kırılımı",
+   "## 3. Başarılı Hisse Senedi Ticareti — Nick Radge",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_140",
+  "len": 3822,
+  "heads": [
+   "# Kitap okuma 140 — Forex giriş rehberi, grafik formasyonları ve Elliott özeti",
+   "## 1. Yeni Başlayanlar İçin Forex — Markets.com",
+   "## 2. Basit Trading Kitabı — Orijinal",
+   "## 3. Elliott Dalga Teorisi (Ders 4)",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_141",
+  "len": 8053,
+  "heads": [
+   "# Kitap okuma 141 — BB50 aşırılığı ve yarım fitil teyidi",
+   "## 1. GBPJPY M1 Scalp Stratejisi — Green Forex",
+   "### GF141A — BB50 2,5σ taşması ve merkeze dönüş",
+   "## 2. Tüm Zamanların En İyi 100 Trading Kuralı — Rayner Teo derlemesi",
+   "## 3. Mum Formasyonları — Alper Ergül",
+   "### AE141A — Ters çekiç ve asılı adamda fitilin yarısını geçen teyit",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_142",
+  "len": 6622,
+  "heads": [
+   "# Kitap okuma 142 — M5 stokastik öz ortalaması",
+   "## 1. Günlük Trading Sırları — Harvey Walsh",
+   "## 2. En İyi 8 Adet Price Action Kalıbı — Colibri Trader",
+   "## 3. LBR Scalp İşlem Kurulumları — Kevin Ho",
+   "### KH142A — M5 stochastic(7) ile kendi MA10 kesişimi (ANTI)",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_143",
+  "len": 5803,
+  "heads": [
+   "# Kitap okuma 143 — Endekse karşı güçlü hisse",
+   "## 1. Yeni Başlayanlar için Smart Money Konsepti — Derek Salvon",
+   "## 2. Risk Yönetimi — Abraham Robert C.",
+   "## 3. Hisse Senedi Ticaretinde Zafer — Oliver Kell",
+   "### OK143A — QQQ yeni düşüğünde yüksek dip yapan hisse ve EMA geri alımı",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_144",
+  "len": 4017,
+  "heads": [
+   "# Kitap okuma 144 — ICT seans profilleri ve tekrar taraması",
+   "## 1. Acemiler için Kripto Day Trading — David T. Allen",
+   "## 2. ICT Trading Rehberi — James Jecool King",
+   "## 3. Trading Masters Kalıplar — Elite Signals",
+   "## Tekrar kontrolü ve sonuç"
+  ]
+ },
+ {
+  "batch": "batch_145",
+  "len": 6371,
+  "heads": [
+   "# Kitap okuma 145 — SMA50/100 dönüşü ve ilk geri çekilme",
+   "## 1. ICT Order Block Trading — Derek Salvon",
+   "## 2. İndikatörleri Birleştirerek Geliştireceğin Güçlü Stratejilerle… — Long Pham",
+   "### LP145A — SMA100 ve eski swing kırıldıktan sonra SMA50/100 kesişimi ile SMA50 ilk retesti",
+   "## 3. Forex Trading: Dinamik Bir Pazarda Başarı İçin Stratejiler ve Taktikler — Kyle W. James",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_146",
+  "len": 5585,
+  "heads": [
+   "# Kitap okuma 146 — İki mumluk orta nokta ile trend çıkışı",
+   "## 1. Falcon Trading Teknik Analiz Kursu — Falcon Trading Guidance",
+   "## 2. Forex Trading Manifestosu — Maceo Jordan / Forex Jungle Guide",
+   "### MJ146A — Trend pozisyonu için art arda iki zayıf orta nokta kapanışı",
+   "## 3. Yapay Zeka ile Daha Akıllı Trading — Chris Miller",
+   "## Sonuç"
+  ]
+ },
+ {
+  "batch": "batch_147",
+  "len": 2521,
+  "heads": [
+   "# Kitap okuma 147 — teknik analiz tekrar denetimi",
+   "## 1. Teknik Analiz — Rachana Ranade",
+   "## 2. Teknik Analiz Kursu — Deriv",
+   "## 3. Price Action — Digitalgigz Trading Academy",
+   "## Birikim"
+  ]
+ },
+ {
+  "batch": "batch_148",
+  "len": 3822,
+  "heads": [
+   "# Kitap okuma 148 — fiyat hareketi, akıllı para ve mum analizi",
+   "## 1. Price Action Konsepti",
+   "## 2. Smart Money Kavramları",
+   "## 3. Mum Analizi — Emily Dhruv",
+   "## Birikim"
+  ]
+ },
+ {
+  "batch": "batch_149",
+  "len": 4061,
+  "heads": [
+   "# Kitap okuma 149 — işlem kuralları, gün içi stratejiler ve arz/talep",
+   "## 1. Trading Kuralları — Patt Tomas",
+   "## 2. Güniçi İşlemlerde Ustalaşmak — Lalit Mohanty",
+   "## 3. Trading Oyununda Nasıl Kazanılır — Emily Dhruv",
+   "## Birikim"
+  ]
+ },
+ {
+  "batch": "batch_150",
+  "len": 6831,
+  "heads": [
+   "# Kitap okuma 150 — Dow, gövde–fitil çift dip/tepe ve kripto grafik temelleri",
+   "## 1. Dow Teorisi — Michael Young",
+   "## 2. Alfa Crypto Ders Notları",
+   "### AC150 — EMA200 yönünde gövde–fitil bölgesi teyitli çift dip/tepe",
+   "## 3. Kripto Para Grafikleri",
+   "## Birikim"
+  ]
+ },
+ {
+  "batch": "batch_151",
+  "len": 3494,
+  "heads": [
+   "# Kitap okuma 151 — piyasa yapıcı anlatısı ve mum katalogları",
+   "## 1. Piyasa Yapıcı Yöntemi — Modül 1",
+   "## 2. Price Action Mum Rehberi — We Trade Daily",
+   "## 3. Mum Rehberi — Darrell Jobman",
+   "## Birikim"
+  ]
+ },
+ {
+  "batch": "batch_152",
+  "len": 8139,
+  "heads": [
+   "# Kitap okuma 152 — CMF, Keltner ve haftalık pivot teyitleri",
+   "## 1. Günlük Alım Satım Stratejileri — Scotty Ratford",
+   "### RT152A — EMA12/35 çaprazı, CMF sıfır teyidi ve ilk EMA12 retesti",
+   "### RT152B — Keltner dış bant teması ve yavaş stokastik aşırılıktan çıkış",
+   "### RT152C — Haftalık pivot P geçişi, stokastik çıkış ve SAR teyidi",
+   "## 2. Basitleştirilmiş SMC Trading Rehberi — Kevin M. Brown",
+   "## 3. Price Action ve Orderblock ile İleri Düzey Piyasa Yapısı Trading — James Jecool King"
+  ]
+ },
+ {
+  "batch": "batch_153",
+  "len": 4489,
+  "heads": [
+   "# Kitap okuma 153 — Payapa bölgeleri ve formasyon tekrarları",
+   "## 1. Payapa Trading Stratejisi",
+   "## 2. Temel Formasyonlar Rehberi — Branko Petruci",
+   "## 3. Order Block ile Gelişmiş Trading Rehberi — Raymond M. Smith"
+  ]
+ },
+ {
+  "batch": "batch_154",
+  "len": 6008,
+  "heads": [
+   "# Kitap okuma 154 — kanal dibinde sıkışma kırılımı",
+   "## 1. Forex Swing Trading — Abraham Robert C.",
+   "### AR154A — Yükselen kanal alt kenarında kısa sıkışma ve üst kırılım",
+   "## 2. Günlük Alım Satım — Anthony Smith",
+   "## 3. Teknik Analiz ve Dow Teorisi — Mustafa Küçükakarsu"
+  ]
+ },
+ {
+  "batch": "batch_155",
+  "len": 7242,
+  "heads": [
+   "# Kitap okuma 155 — haber boşluğunda ilk 15 dakika limit girişi",
+   "## 1. Swing Trading Kuralları — Paul Welch",
+   "## 2. Kolaylaştırılmış Günlük Trading — Matthew R. Kratter",
+   "### MK155A — Haber sonrası 20 günlük aralık dışına gerçek açılış boşluğu, ilk M15 kapanışında limit",
+   "## 3. Arz ve Talep Trading Rehberi — Kenny Brandon"
+  ]
+ },
+ {
+  "batch": "batch_156",
+  "len": 3407,
+  "heads": [
+   "# Kitap okuma 156 — fiyat hareketi, SMC ve Forex temelleri",
+   "## 1. Teknik Analiz ve Fiyat Hareketi — Alexander C. Wilson",
+   "## 2. Smart Money Konseptleri 2.0 — Kavin Kavi",
+   "## 3. Forex Trading — Bruce Copson"
+  ]
+ },
+ {
+  "batch": "batch_157",
+  "len": 4034,
+  "heads": [
+   "# Kitap okuma 157 — ADX/MACD, Forex temelleri ve kapalı CUE sistemi",
+   "## 1. Başarılı Traderların Sırları, ikinci baskı — MetaStock",
+   "## 2. Forexin Sırları — John Powell",
+   "## 3. Başarılı Traderların Sırları — Sagar Nandi"
+  ]
+ },
+ {
+  "batch": "batch_158",
+  "len": 5251,
+  "heads": [
+   "# Kitap okuma 158 — Wyckoff, Forex anahtarları ve VWAP dönüşü",
+   "## 1. Günlük Hisse Senedi Ticaretimin Sırları — Richard D. Wyckoff",
+   "## 2. Başarılı Forex Ticareti için 10 Anahtar — Jared F. Martinez",
+   "## 3. Ortalamaya Dönüş Günlük Trading — David Harnett",
+   "### HR158A — Günlük VWAP yönünde BB(20,1,5) taşması ve Stoch(7,4,3) dönüşü"
+  ]
+ },
+ {
+  "batch": "batch_159",
+  "len": 5009,
+  "heads": [
+   "# Kitap okuma 159 — Jenkins, Byeajee ve Elder",
+   "## 1. Basitleştirilmiş Günlük Trading Teknikleri — Michael S. Jenkins",
+   "## 2. 200 Kısa Trading Psikolojisi — Yvan Byeajee",
+   "## 3. Adım Adım Trade — Alexander Elder",
+   "### EL159A — Dip fiyatın EMA8'i altında üç bar, üstünde kapanış"
+  ]
+ },
+ {
+  "batch": "batch_160",
+  "len": 3398,
+  "heads": [
+   "# Kitap okuma 160 — SMC, fiyat hareketi ve order block",
+   "## 1. Akıllı Para Konseptinde Ustalaşma — David E. Morrison",
+   "## 2. Price Action Kursu",
+   "## 3. Order Block — Mete Kaplan"
+  ]
+ },
+ {
+  "batch": "batch_161",
+  "len": 4937,
+  "heads": [
+   "# Kitap okuma 161 — üç mum sonrası ters kırılım, giriş ve RSI aşırılığı",
+   "## 1. Price Action — Raoul Hunter",
+   "### RH161A — Üç aynı yönlü mum ardından karşı yöne önceki uç kırılımı",
+   "## 2. İşleme Giriş Noktasının Belirlenmesi — Momoh SO",
+   "## 3. Fiyat Aşırı Alım ve Aşırı Satım Sinyali — Momoh SO"
+  ]
+ },
+ {
+  "batch": "batch_162",
+  "len": 5696,
+  "heads": [
+   "# Kitap okuma 162 — trend çizgisi geri testi, arz/talep ve dirgen",
+   "## 1. Çizgiyi Takas Etmek — Jeffrey Kennedy",
+   "### JK162A — Tam mumla trend çizgisi kırılımı, geri test ve kırılım tepesinin aşılması",
+   "## 2. Arz ve Talep Ticaretini Kolayca Öğrenin — Jason Applebaum",
+   "## 3. Andrews Pitchfork Kullanarak Bereketli Trading Kazançları Elde Edin — Bryan V. Post"
+  ]
+ },
+ {
+  "batch": "batch_163",
+  "len": 5762,
+  "heads": [
+   "# Kitap okuma 163 — büyük hareketler, momentum hisseleri ve çoklu zaman dilimi",
+   "## 1. Büyük Piyasa Hareketlerini Nasıl Yakalayabilirsiniz — L.R. Thomas",
+   "## 2. Yüksek İvmeli Hisselerde İşlem Yapmayı Öğrenin — Matthew R. Kratter",
+   "### MK163A — Gelir büyümesi seçimiyle SMA50/200 momentum takibi",
+   "## 3. Forex İçin Gelişmiş Teknik Analiz — Wayne Walker"
+  ]
+ },
+ {
+  "batch": "batch_164",
+  "len": 5850,
+  "heads": [
+   "# Kitap okuma 164 — formasyon çizelgesi, fiyat yapısı ve Japon mumları",
+   "## 1. Grafik Kalıpları — Chart Patterns Cheat Sheet",
+   "## 2. Price Action — Daniel Stones",
+   "### DS164A — 28 FX çiftinden güçlü/zayıf para birimi sıralaması",
+   "## 3. Japon Mum Grafik Teknikleri — James Abbott"
+  ]
+ },
+ {
+  "batch": "batch_165",
+  "len": 6160,
+  "heads": [
+   "# Kitap okuma 165 — mum repertuvarı, günlük işlem ve Hançer deseni",
+   "## 1. Japon Mum Çubuklarına Kolay Bir Yaklaşım — Stefano Calicchio",
+   "## 2. Günlük Alım Satım — Anthony Smith",
+   "## 3. Price Action — Derek Salvon",
+   "### DS165A — Hançer: üst dilim 50/61,8 tutulması ve alt dilim geri tepme kırılımı"
+  ]
+ },
+ {
+  "batch": "batch_166",
+  "len": 6468,
+  "heads": [
+   "# Kitap okuma 166 — arz/talep, küçük hedefler ve AO–AC uyumu",
+   "## 1. Arz ve Talep Trading Kitabı — Daniel Stones",
+   "## 2. Kârlı Bir Trading Stratejisi Nasıl Oluşturulur — Heikin Ashi Trader",
+   "## 3. Forex Kungfu Shaolin",
+   "### FKS166A — AO ve AC çift renk uyumu sonrası fiyat kırılımı"
+  ]
+ },
+ {
+  "batch": "batch_167",
+  "len": 6453,
+  "heads": [
+   "# Kitap okuma 167 — aralık dışı limit, piyasa yapısı ve tuzak modelleri",
+   "## 1. Bir Aralıkta Nasıl İşlem Yapılır — Heikin Ashi Trader",
+   "### HAT167A — Dondurulmuş yatay aralık dışına yarım genişlikte fırsatçı limit",
+   "## 2. Price Action ve Piyasa Yapısı — Bill Simons",
+   "## 3. Görünür ve Tuzaklı Trading — Deivid FX"
+  ]
+ },
+ {
+  "batch": "batch_168",
+  "len": 2842,
+  "heads": [
+   "# Kitap okuma 168 — Fibonacci, scalping ve price action",
+   "## 1. Fibonacci Düzeltmesi Uzmanlığı — Lalit Mohanty",
+   "## 2. Scalping Stratejileri 101 — Usiere Uko",
+   "## 3. Profesyonel Price Action Trading Rehberi — Kenny Brandon"
+  ]
+ },
+ {
+  "batch": "batch_169",
+  "len": 6922,
+  "heads": [
+   "# Kitap okuma 169 — arz/talep, değer alanı ve Quasimodo",
+   "## 1. Price Action Three Lines — R. Rana",
+   "## 2. Price Action Kırılımları — Laurentiu Damir",
+   "### DV169A — Dondurulmuş zaman yoğunluklu değer alanına geri kabul ve karşı sınır hedefi",
+   "## 3. Price Action Quasimodo (QM) Konu Anlatımı"
+  ]
+ },
+ {
+  "batch": "batch_170",
+  "len": 3991,
+  "heads": [
+   "# Kitap okuma 170 — gösterge scalp derlemeleri ve piyasa koşulları",
+   "## 1. Göstergeyle Scalping El Kitabı — Marcello Ferrazzi",
+   "## 2. Scalping İşlemlerine İlişkin Kesin Kılavuz — Türkçe ve İngilizce",
+   "## 3. Yüksek Başarı Olasılığına Sahip Scalping Stratejileri El Kitabı — Zackary Carson"
+  ]
+ },
+ {
+  "batch": "batch_171",
+  "len": 7799,
+  "heads": [
+   "# Kitap okuma 171 — vadeli pivot dönüşü, formasyonlar ve Forex sistemleri",
+   "## 1. E-mini Dow ve Mini DAX için Hızlı Al-Sat — Teva Lama",
+   "### TL171A — Önceki seans pivotunda limit dönüşü, stopta bir kez koşullu yön değiştirme",
+   "## 2. En Kazançlı 10 Trading Stratejisi — Nikhil Porwal",
+   "## 3. Forex Trading Stratejileri — derleme"
+  ]
+ },
+ {
+  "batch": "batch_172",
+  "len": 7122,
+  "heads": [
+   "# Kitap okuma 172 — trend çizgisi retesti, grafik kurulumları ve ICWR",
+   "## 1. Trendline Breakout Stratejisi",
+   "## 2. Price Action Kurulumları",
+   "## 3. Forex Trading Stratejisi — Quantum Globe",
+   "### ICWR172A — Teyitli M5 dalgada düzeltme kanalı, tam mum onayı ve önceki günlük RSI"
+  ]
+ },
+ {
+  "batch": "batch_173",
+  "len": 8293,
+  "heads": [
+   "# Kitap okuma 173 — erken aralık sınırı, ikili opsiyon price action ve emir defteri scalping",
+   "## 1. Laurentiu Damir — Forex Range Trading with Price Action",
+   "### ER173A — Tek sınırı teyitli, öteki sınırı önceden çizilmiş erken aralık dönüşü",
+   "## 2. BO Turbo Trader — Price Action Kılavuzu",
+   "## 3. Gary Norden — Scalping Kılavuzu"
+  ]
+ },
+ {
+  "batch": "batch_174",
+  "len": 11988,
+  "heads": [
+   "# Kitap okuma 174 — Fibonacci kümelenmesi, AVWAP kıskacı ve çok günlük AVWAP",
+   "## 1. Jim Kane — Gelişmiş Fibonacci Trading Kavramları",
+   "### FK174A — Nedensel çoklu swing Fibonacci fiyat kümesinde trend devamı",
+   "## 2. Brian Shannon — VWAP",
+   "### AP174A — İki teyitli pivot AVWAP'ı arasında sıkışmanın yönlü kırılımı",
+   "### MD174B — Önceki gün başlayan AVWAP korunurken yeni gün VWAP'ının geri alınması",
+   "## 3. Nicole Elliott — Ichimoku Grafikleri Rehberi"
+  ]
+ },
+ {
+  "batch": "batch_175",
+  "len": 8740,
+  "heads": [
+   "# Kitap okuma 175 — marabuzo orta çizgisi, price action ve beşik mumu",
+   "## 1. Clive Lambert — Mum Grafikleri",
+   "### ML175A — Büyük trend mumunun gövde ortasında ilk geri çekilme ve geri kapanış",
+   "## 2. Indrazith Shantharaj — Price Action Trading",
+   "## 3. Stephen Bigalow — Yüksek Olasılıklı Mum Desenleri ve Kurulumlar",
+   "### BC175A — Düşüş impulsu, 2–4 kararsız mum ve eş boyutta boğa geri alma"
+  ]
+ },
+ {
+  "batch": "batch_176",
+  "len": 8279,
+  "heads": [
+   "# Kitap okuma 176 — günlük Bollinger/pivot ve 5/13/62 EMA geri çekilmesi",
+   "## 1. Atif Choudhury — Price Action (132 sayfa)",
+   "### AC176A — Günlük Bollinger bölgesi ardından M15 pivot/açılış/SMA18 teyidi",
+   "## 2. Mark McRae — Başlangıç Seviyesindekiler İçin Trading (100 sayfa)",
+   "## 3. Rob Booker — Traderin El Kitabı (96 sayfa)",
+   "### RB176A — 5/13/62 EMA ayrışması ve ilk EMA62 dokunuşu"
+  ]
+ },
+ {
+  "batch": "batch_177",
+  "len": 9891,
+  "heads": [
+   "# Kitap okuma 177 — yuvarlak sayı, çift yönlü başarısız kırılım ve IB genişlemesi",
+   "## 1. Ketty Lin — Forex Piyasasında Günlük Ticaret: Kâr Stratejileri (223 PDF sayfası)",
+   "### KL177A — Düşük/yüksek SMA uzaklığında çift sıfır seviyesinden dönüş",
+   "### KL177B — ADX düşükken önceki günün bir ucunu süpürüp karşı ucunu kırma",
+   "## 2. Evan J. Christopher — Piyasa Yapıcının Matrixi (61 PDF sayfası)",
+   "## 3. Nataraj Malavade — Günlük İşlem Yapmanın Ustalığı (153 PDF sayfası)",
+   "### NM177A — ATR10'a göre dar/orta ilk saat aralığında %30 gövdeli kırılım"
+  ]
+ },
+ {
+  "batch": "batch_178",
+  "len": 6024,
+  "heads": [
+   "# Kitap okuma 178 — arz/talep bölgesindeki yutan mumdan ikinci giriş",
+   "## 1. Mustafa Karahan — Price Action (236 PDF sayfası)",
+   "### MK178A — İlk bölge temasındaki yutan mumun yarattığı ikinci retest",
+   "## 2. Frank Marshall — Trader: 93 Trading Dersi (96 PDF sayfası)",
+   "## 3. Forex Okulu (208 PDF sayfası)"
+  ]
+ },
+ {
+  "batch": "batch_179",
+  "len": 8311,
+  "heads": [
+   "# Kitap okuma 179 — piyasa öncesi sınır kırılımı ve EMA/stochastic/RSI sistemi",
+   "## 1. Al Hill — Günlük Trading İşlemlerinde Nihai Rehber (160 PDF sayfası)",
+   "### AH179A — Seçilmiş hissede piyasa öncesi yüksek/düşük seviyesinin ana seansta kırılması",
+   "## 2. Donny Lowy — Penny Stock Trading Sistemi (214 PDF sayfası)",
+   "## 3. Forex Teknik Analiz Kursu (212 PDF sayfası)",
+   "### FT179A — Günlük EMA5/10 kesişimine stochastic yönü ve RSI50 teyidi"
+  ]
+ },
+ {
+  "batch": "batch_180",
+  "len": 6494,
+  "heads": [
+   "# Kitap okuma 180 — EMA/OBV teyitli Keltner geri çekilmesi",
+   "## 1. Stanislav Grebenshchikov ve Vagram Sayadov — Forex Piyasasında Nasıl Para Kazanılır (139 PDF sayfası)",
+   "## 2. Chuck Hughes — 4.5 Milyon Dolar Kazanç, Trend Takip Raporları (114 PDF sayfası)",
+   "### CH180A — EMA50/100, OBV ve 52 hafta yüksekliği sonrası Keltner geri çekilmesi",
+   "## 3. Felix Goldstein — Forex Hakkında Nihai Kılavuz (89 PDF sayfası)"
+  ]
+ },
+ {
+  "batch": "batch_181",
+  "len": 11229,
+  "heads": [
+   "# Kitap okuma 181 — momentum rejimi, gap tekrar testi ve PowerX",
+   "## 1. Kevin J. Davey — Algoritmik Trading Kısayol Kodları (193 PDF sayfası)",
+   "### KD181A — çift ufuk momentum + düşük TR/yüksek hacim altında devam",
+   "## 2. Timothy Ord — Fiyat ve Hacmin Gizli Bilimi (193 PDF sayfası)",
+   "### TO181A — yukarı gap içine düşük hacimli tekrar test ve geri alma",
+   "## 3. Markus Heitkoetter — PowerX Stratejisi (147 PDF sayfası)",
+   "### PX181A — ilk ortak Stoch/RSI/MACD yönü, 1 tick kırılım, siyah bar çıkışı"
+  ]
+ },
+ {
+  "batch": "batch_182",
+  "len": 6478,
+  "heads": [
+   "# Kitap okuma 182 — üç çizgili vuruşta trend içi geri çekilme",
+   "## 1. Investors Press — Adım Adım Algoritmik Trading Rehberi (118 PDF sayfası)",
+   "## 2. Steve Burns ve Atanas Matov — Mum Grafikleri Hakkında Nihai Rehber (118 PDF sayfası)",
+   "### BM182A — yükseliş trendinde üç çizgili vuruş geri çekilmesi",
+   "## 3. Daphne Warner — Trading Stratejileri 2022 (124 PDF sayfası)"
+  ]
+ },
+ {
+  "batch": "batch_183",
+  "len": 5508,
+  "heads": [
+   "# Kitap okuma 183 — korelasyonlu FX çiftlerinde ayrışma",
+   "## 1. Jon Fibonacci — Gelişmiş Teknik Analiz (106 sayfa)",
+   "### JF183A — korelasyonlu iki FX çiftinde teyitli dip/tepe ayrışması",
+   "## 2. Javier Luque — Ne Zaman Hisse Senedi ve Kripto Varlık Alınır (182 sayfa)",
+   "## 3. Dean Grey — Piyasalar Arası Analiz Kullanarak Forex Trading (179 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_184",
+  "len": 7645,
+  "heads": [
+   "# Kitap okuma 184 — ilk itme ve bant geçiren çevrim",
+   "## 1. Thomas N. Bulkowski — Swing and Day Trading (284 sayfa)",
+   "### TB184A — altı aylık dip sonrası ilk itme",
+   "## 2. Robert Carver — Sistematik Trading (306 sayfa)",
+   "## 3. John F. Ehlers — Traderlar için Döngü Analitiği (233 sayfa)",
+   "### JE184A — bant geçiren çevrimin öncü kosinüs dönüşü"
+  ]
+ },
+ {
+  "batch": "batch_185",
+  "len": 7538,
+  "heads": [
+   "# Kitap okuma 185 — sektör içi dönüş ve haber sonrası ilk dakika",
+   "## 1. NCFM — Teknik Analiz Modülü (169 sayfa)",
+   "## 2. Igor Tulchinsky ve katkıda bulunanlar — Alfaları Bulmak (215 sayfa)",
+   "### IT185A — sektör nötr beş günlük kısa vadeli ters getiri",
+   "## 3. Alpesh B. Patel ve Paresh H. Kiri — 7 Basit Strateji (107 sayfa)",
+   "### PK185A — makro veri açıklaması sonrası ilk M1 mumunun yönlü kırılımı"
+  ]
+ },
+ {
+  "batch": "batch_186",
+  "len": 5453,
+  "heads": [
+   "# Kitap okuma 186 — SMA50 ve ATR3 ile çift eşikli H1 yön değişimi",
+   "## 1. Jim Berg ve John Atkinson — Online Trading ve Yatırımın 10 Sırrı (88 sayfa)",
+   "## 2. Rakesh Bansal — Karlı Kısa Vadeli Trading Stratejileri (193 sayfa)",
+   "### RB186A — H1 SMA50 ± ATR3 kapanışla yönlü durum makinesi",
+   "## 3. Rankia — Teknik Analiz Rehberi (76 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_187",
+  "len": 7255,
+  "heads": [
+   "# Kitap okuma 187 — bakir POC ve 20/20 ertesi gün geri dönüşü",
+   "## 1. Michael Jardine — Günde Sadece 1 Trade (181 sayfa)",
+   "### MJ187A — bakir seans POC'sinin ilk yeniden temasında dönüş",
+   "## 2. Edward Day — Gelişmiş Forex Trading (120 sayfa)",
+   "## 3. Arthur H. Ullrich — S&P 500 Endeksinde Günlük Trading (82 sayfa)",
+   "### AU187A — 20/20 referans gününün ertesi seansında uç seviye süpürüp geri dönüş"
+  ]
+ },
+ {
+  "batch": "batch_188",
+  "len": 7028,
+  "heads": [
+   "# Kitap okuma 188 — başarısız kırılımın ikinci dönüşü ve üç kısıtlı boyutlandırma",
+   "## 1. Airforexone — Gelişmiş Price Action Tekniği (364 sayfa)",
+   "### AFX188A — başarısız kırılım, uzaklaşma ve eski kırılım düzeyine ikinci retest",
+   "## 2. Harneet Singh Kharbanda — Bir Keşiş Gibi Trade Yap (74 sayfa)",
+   "## 3. Tom Basso — Başarılı Yatırımcılar Pozisyonlarını Neden ve Nasıl Boyutlandırıyor (75 sayfa)",
+   "### BB188R — backtest/paper test için üç kısıtlı pozisyon büyüklüğü (strateji sayısına dahil değil)"
+  ]
+ },
+ {
+  "batch": "batch_189",
+  "len": 5805,
+  "heads": [
+   "# Kitap okuma 189 — başarısız arzın talebe dönüşü",
+   "## 1. Wayne Gorman ve Jeffrey Kennedy — Elliott Dalga Ticareti Hakkında Görsel Rehber (254 sayfa)",
+   "## 2. DexterrFX — Smart Money Kavramının Kutsal Kitabı (104 sayfa)",
+   "### DF189A — tepki veren kontrol arzının başarısızlığı ve flip bölgesi retesti",
+   "## 3. Steve Burns ve Holly Burns — Sakin Trader: Aklınızı Kaybetmeden Kazanın (42 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_190",
+  "len": 6178,
+  "heads": [
+   "# Kitap okuma 190 — tahıl vadeli işlemlerinde ilk geri çekilme sonrası seans kırılımı",
+   "## 1. David Bennett — Day Trading (148 sayfa)",
+   "### DB190A — açılış yönünde ilk seans uç kırılımı, iki bar geri çekilme filtresi",
+   "## 2. Marc Friedfertig ve George West — Elektronik Günlük Traderların Sırları (238 sayfa)",
+   "## 3. Kenneth Mann — Ticaretin Kutsal Kasesi Risk Yönetimi (55 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_191",
+  "len": 7650,
+  "heads": [
+   "# Kitap okuma 191 — Londra yüksek test kırılımı ve EMA50 zaman dilimi uyumsuzluğu",
+   "## 1. Bob Volman — Price Action Sistemini Anlamak (410 sayfa)",
+   "## 2. Steve Burns ve Holly Burns — Trade İşlemlerinde Risk Yönetimi Kılavuzu (78 sayfa)",
+   "## 3. Greg Secker ve Chris Weaver — Forex ile Finansal Özgürlük (133 sayfa)",
+   "### GS191A — GMT 06:00–10:00 H1 yüksek test mumunun dip kırılımı",
+   "### GS191B — D1/H4/H1 EMA50 aynı yönde, M5 EMA50 karşı tarafı ziyaret edip geri dönüyor"
+  ]
+ },
+ {
+  "batch": "batch_192",
+  "len": 3778,
+  "heads": [
+   "# Kitap okuma 192 — tekrar eden gün içi formasyonlar, piyasa mikro yapısı ve psikoloji",
+   "## 1. Douglas Allen — Day Trading (472 sayfa)",
+   "## 2. Peter Kovac — Hızlı Para: O Kadar da Hızlı Değil (167 sayfa)",
+   "## 3. Forex Investment Lounge — Finans Psikolojisi (49 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_193",
+  "len": 4046,
+  "heads": [
+   "# Kitap okuma 193 — trend riski ve işlem disiplini",
+   "## 1. Alex Greyserman ve Kathryn M. Kaminski — Vadeli İşlemlerle Trend Takibi (391 sayfa)",
+   "## 2. Tom Hougaard — En İyi Kaybeden Kazanır (250 sayfa)",
+   "## 3. Norman Hallett — Traderlar İçin Mental Fitness (31 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_194",
+  "len": 6867,
+  "heads": [
+   "# Kitap okuma 194 — Wyckoff, nicel momentum ve swing zamanlaması",
+   "## 1. Rubén Villahermosa — Derinlemesine Wyckoff Metodolojisi (206 sayfa)",
+   "## 2. Wesley R. Gray ve Jack R. Vogel — Kantitatif Momentum (179 sayfa)",
+   "### QM-FIP-01 — 12-2 göreli momentum içinde sürekli fiyat yolu",
+   "## 3. Robert T. H. Lee ve Peter A. Tryde — Swing Traderlar için Zamanlama Çözümleri (192 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_195",
+  "len": 4393,
+  "heads": [
+   "# Kitap okuma 195 — açılış aralığı, VSA ve piyasalar arası tahmin",
+   "## 1. Michael Parness — Trend Ticareti Sanatı (230 sayfa)",
+   "## 2. Gavin Holmes — Smart Money Gölgesinde Trading (189 sayfa)",
+   "## 3. Louis B. Mendelsohn — Teknik Analiz ile Trendi Tahmin Etmek (104 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_196",
+  "len": 6556,
+  "heads": [
+   "# Kitap okuma 196 — kanal orta noktası, MA kanalı ve Forex derlemesi",
+   "## 1. Robert Carver — Kaldıraçlı Trading (297 sayfa)",
+   "### RC196A — kapanışların yuvarlanan aralık orta noktası yön değişimi",
+   "## 2. Jake Bernstein ve Elliott Bernstein — Borsada İşe Yarayan Stratejiler (186 sayfa)",
+   "## 3. SuperForexSystem.com — Süper Forex Sistemi: En Kazançlı 16 Strateji (139 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_197",
+  "len": 5784,
+  "heads": [
+   "# Kitap okuma 197 — rejim göstergesi, nicel işlem ve teknik analiz derlemesi",
+   "## 1. Murray Gunn — Trading Rejimi Analizi (401 sayfa)",
+   "### MG197A — TRI ile haftalık rejim kapılı günlük Donchian kırılımı",
+   "## 2. Saeed Amen — Thalesians Trading (210 sayfa)",
+   "## 3. David Keller (der.) — Teknik Analizde Atılımlar (150 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_198",
+  "len": 5506,
+  "heads": [
+   "# Kitap okuma 198 — dinamik kırılım, fiyat kalıpları ve emtia işlemleri",
+   "## 1. Thomas Stridsman — Etkili Trading Sistemlerinin Oluşturulması ve Değerlendirilmesi (345 sayfa)",
+   "### TS198A — standart sapma tamponlu Donchian kırılımı",
+   "## 2. Martin Pring — Fiyat Kalıpları (350 sayfa)",
+   "## 3. Carley Garner — Daha Yüksek Olasılıklı Emtia Ticareti (432 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_199",
+  "len": 8314,
+  "heads": [
+   "# Kitap okuma 199 — cep pivotu ve iç içe kutudan erken giriş",
+   "## 1. Gil Morales ve Chris Kacher — O'Neil Disciples ile Trading Kokpitinde (390 sayfa)",
+   "### GM199A — konsolidasyondan 10 günlük düşüş hacmi üstünlüğüyle cep pivotu",
+   "## 2. Moneyu101 — Breakout Traderları için Erken Giriş Noktaları (67 sayfa)",
+   "### MU199A — haftalık büyük kutu içindeki düşük hacimli günlük küçük kutu kırılımı",
+   "## 3. NSE — Teknik Analiz Kursu (134 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_200",
+  "len": 4029,
+  "heads": [
+   "# Kitap okuma 200 — Forex yöntem sözlüğü, döviz analizi ve çoklu zaman dilimi",
+   "## 1. Lynn Brown — Craig Harris'in Forex Trading Metodolojisi (72 sayfa)",
+   "## 2. T. J. Marta ve Joseph Brusuelas — Forex Analizi ve Trading (244 sayfa)",
+   "## 3. Jay Norris, Al Gaskill ve Teresa Bell — Döviz Piyasasında Ustalaşmak (293 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_201",
+  "len": 5845,
+  "heads": [
+   "# Kitap okuma 201 — çatal geometrisi, RDS ve gün içi işlem",
+   "## 1. Mircea Dologa — Entegre Çatal Analizi (423 sayfa)",
+   "## 2. Stephanie Radkay — RDS Forex Sistemi (562 sayfa)",
+   "### SR201A — RDS yön kapısı ve iki kademe geri çekilme dönüşü",
+   "## 3. Justin Kuepper — Day Trading (196 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_202",
+  "len": 3522,
+  "heads": [
+   "# Kitap okuma 202 — gün içi işlem forumu, destek/direnç ve Forex anlatısı",
+   "## 1. Küçük Yatırımcılar İçin Günlük İşlemler 2.0 (198 sayfa)",
+   "## 2. Toni Hansen — Pazarı, Destek ve Direnci Anlamak (52 sayfa)",
+   "## 3. Peter Rosenstreich — Forex Devrimi (275 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_203",
+  "len": 3598,
+  "heads": [
+   "# Kitap okuma 203 — Forex'in on ögesi, işlem sırları ve kanal yönetimi",
+   "## 1. Jared F. Martinez — Forex Ticaretinin 10 Temel Ögesi (207 sayfa)",
+   "## 2. James Dicks — Forex Trading Sırları (319 sayfa)",
+   "## 3. Vahram Sayadov — Forex (134 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_204",
+  "len": 6270,
+  "heads": [
+   "# Kitap okuma 204 — SRDC, Minervini VCP ve Phantom",
+   "## 1. OrangeRoshan — SRDC 1 (124 sayfa)",
+   "## 2. Mark Minervini — Borsa Sihirbazı Gibi Trade Yapın (317 sayfa)",
+   "### MIN204A — Teyitli ardışık daralma ve hacim kuruması sonrası pivot kırılımı",
+   "## 3. Art Simpson — Phantom'un Hediyesi (110 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_205",
+  "len": 4358,
+  "heads": [
+   "# Kitap okuma 205 — teknik analiz sözlüğü, Sam Seiden notları ve Alessio Rastani",
+   "## 1. Teknik Analiz Dersi (182 sayfa)",
+   "## 2. Sam Seiden — Eğitim Notları (423 sayfa)",
+   "## 3. Alessio Rastani — Trading İşlemlerine Yeni Başlayanlar İçin Kılavuz (154 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_206",
+  "len": 4673,
+  "heads": [
+   "# Kitap okuma 206 — Price is Everything, volatil piyasalar ve Forex başlangıcı",
+   "## 1. Price is Everything — Orijinal Kaynak (392 sayfa)",
+   "## 2. Guy Cohen — Basitleştirilmiş Volatil Piyasalar (312 sayfa)",
+   "## 3. Marc Stuart — Yeni Başlayanlar İçin Forex (43 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_207",
+  "len": 7344,
+  "heads": [
+   "# Kitap okuma 207 — Etkin Hacim, 100 kat hisseler ve Forex başlangıç stratejileri",
+   "## 1. Pascal Willain — Zamandaki Değer (373 sayfa; Alexander Elder önsözü)",
+   "### EV207A — Dar günlük aralıkta üç gün pozitif büyük dakika hacmi",
+   "## 2. Christopher Mayer — 100e Katlayanlar (198 sayfa)",
+   "## 3. William Rogers ve George Evans — Yeni Başlayanlar İçin Forex Trading (112 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_208",
+  "len": 6370,
+  "heads": [
+   "# Kitap okuma 208 — Forex kılavuzu, ikinci aşama düz taban ve trader psikolojisi",
+   "## 1. Joshua Hoerning — En Kapsamlı Forex Trading Kılavuzu (470 sayfa)",
+   "## 2. Elle J.C. — Borsa Yatırımı (169 sayfa)",
+   "### FB208A — Önceki güçlü yükseliş sonrası düz tabanın hacimli kırılımı",
+   "## 3. Karen Foo — Yıldız Trader Olmak İçin Rehber (34 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_209",
+  "len": 6394,
+  "heads": [
+   "# Kitap okuma 209 — gün içi mumlar, Pinch ve kalabalık duyarlılığı",
+   "## 1. Greg Capra — Gün İçi Trading Taktikleri (143 sayfa)",
+   "## 2. Oliver L. Velez — Her Operasyonda Kazanma Stratejileri (191 sayfa)",
+   "### PCH209A — Yükselen 20 ortalama ile 200 ortalama tavanı arasında Pinch kırılımı",
+   "## 3. John F. Summa — Kalabalığa Karşı Trading (193 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_210",
+  "len": 5014,
+  "heads": [
+   "# Kitap okuma 210 — işlem kuralları, yedi grafik aracı ve mum kalıpları",
+   "## 1. Jason Alan Jankovsky — İşe Yarayan Trade Kuralları (162 sayfa)",
+   "## 2. Malcolm Pryor — Kazanmak için 7 Grafik Aracı (131 sayfa)",
+   "## 3. Russell Rhoads — Mum Grafiklerini Anlamak (332 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_211",
+  "len": 4347,
+  "heads": [
+   "# Kitap okuma 211 — işlem katı anlatısı, pivotlar ve gün içi sistem tasarımı",
+   "## 1. John Sussex — Birinci Gün - Trader (184 sayfa)",
+   "## 2. Ashwani Gujral — Grafiklerle Trade Yaparak Nasıl Para Kazanılır (261 sayfa)",
+   "## 3. Markus Heitkoetter — Günlük Trading için Tam Kapsamlı Kılavuz (269 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_212",
+  "len": 7871,
+  "heads": [
+   "# Kitap okuma 212 — trend takibi, mum teyidi ve iki varlıklı çift işlemi",
+   "## 1. Andrew Abraham — Trend Takibinin Kutsal Kitabı (200 sayfa)",
+   "## 2. Balkrishna M. Sadekar — Mum Grafikleriyle Nasıl Para Kazanırsınız (140 sayfa)",
+   "## 3. Mark Whistler — Trading Çiftleri (261 sayfa)",
+   "### PR212A — BTC/ETH log oranında çok ufuklu aşırı sapmanın yakınsaması"
+  ]
+ },
+ {
+  "batch": "batch_213",
+  "len": 8362,
+  "heads": [
+   "# Kitap okuma 213 — kanıt testi, klasik formasyonlar ve gölge endeksi",
+   "## 1. David R. Aronson — Kanıta Dayalı Teknik Analiz (470 sayfa)",
+   "## 2. Thomas N. Bulkowski — Klasik Trading Grafik Kalıpları (439 sayfa)",
+   "## 3. Eugene A. Durenard — Profesyonel Otomatik Trading: Teori ve Pratik (341 sayfa)",
+   "### SI213A — Düşük gölge endeksiyle hızlanma sonrası ters kapanış"
+  ]
+ },
+ {
+  "batch": "batch_214",
+  "len": 9517,
+  "heads": [
+   "# Kitap okuma 214 — hareket kolaylığı ve piyasa genişliği",
+   "## 1. Robert W. Colby — Teknik Piyasa İndikatörleri Ansiklopedisi (805 sayfa)",
+   "### EM214A — Dört günlük EMV sıfır geçişi",
+   "## 2. Gregory L. Morris — Piyasa Genişliği Göstergelerine İlişkin Tam Kılavuz (441 sayfa)",
+   "### BT214B — Point-in-time kripto genişlik itkisi sonrası BTC long",
+   "## 3. Fabio Oreste — Quantum Trading (221 sayfa)"
+  ]
+ },
+ {
+  "batch": "batch_215",
+  "len": 8161,
+  "heads": [
+   "# Kitap okuma 215 — MIDAS, ATR aşırılığı ve çift yumuşatma",
+   "## 1. Andrew Coles ve David G. Hawkins — MIDAS Teknik Analiz (433 sayfa)",
+   "## 2. Kirk Northington — arşivde “Hacime Dayalı Teknik Analiz” (454 sayfa)",
+   "### AT215A — ATR ile ağırlıklı fiyat aşırılığı",
+   "## 3. Perry J. Kaufman — Kısa Bir Teknik Analiz Kursu (321 sayfa)",
+   "### DM215B — Çift yumuşatılmış 10 günlük momentum dönüşü"
+  ]
+ }
+]

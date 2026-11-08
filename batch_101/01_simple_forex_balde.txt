@@ -1,0 +1,265 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 18\Baskı 18\Basitleştirilmiş Forex - Alpha Balde (19 sayfa) - @eseckal.pdf
+PAGES: 19
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+TYapabilme yeteneğiCİÇERİKLER
+giriiş
+Bölüm 1
+Bölüm 2
+Bölüm 3
+Çözüm
+Yazar Hakkında
+5
+6
+15
+19
+25
+27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+BENGİRİŞ
+Meslektaşım,
+GelenekteForex Basitleştirildi Serisi, Trend ticareti için çok güçlü ve benzersiz bir 
+yaklaşımı sizinle paylaşmak istiyorum. Yaklaşık on yıldır forex piyasasıyla 
+ilgileniyorum ve sizinle paylaşmak üzere olduğum bu strateji, konu trend ticareti 
+olduğunda en başarılı olanlardan biri olduğunu kanıtladı.Mevcut piyasa trendini 
+hızla belirleyinve yapabilmeksürekli olarak pipleri piyasadan çekmek.
+Bu kitap basit olsa da yeni başlayan yatırımcılar için değildir. Forex ticaretinin temellerini bildiğinizi 
+varsayan bir dil kullanacağım. Kitap, bugün öğrenebileceğiniz ve uygulayabileceğiniz pratik bir adım 
+adım yaklaşımdır, saçmalık yok, saçmalık yok.
+Bu sistemle haftada rahatlıkla 200 ila 300 pip yakalayabilirsiniz.
+Kitabın sonunda çok sayıda video eğitimine bağlantılar bulabileceğiniz bir kaynaklar bölümü 
+sunuyorum.
+"TREND DOSTUNUZDUR" derler... Bu kitapla TREND'i ebedi SEVGİLİNİZE 
+dönüştüreceksiniz...
+Hadi hemen başlayalım…..
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+CHAPTER1
+Hazırlanıyorum
+1) Hafta sonları ziyaret edinwww.dailyfx.co MHer bir paritenin temel haftalık 
+görünümünü okuyarak her bir para birimini yönlendiren temel güçlerin 
+farkında olduğunuzdan emin olun.
+2) CNBC: Her Cuma @ 5PM EST (New York Saati) CNBC'de Melissa Lee'nin 
+sunduğu "Money in Motion" adlı bir forex şovu var. İzlemenizi öneririm ve 
+canlı olarak izleyemiyorsanız, son şovu izlemek için web sitelerini ziyaret 
+edebilirsiniz. İşte Bağlantı:
+http://www.cnbc.com/id/100017705/Money_in_Motion_Video_Gallery
+Lütfen Money in Motion'ı yalnızca forex piyasasının ve finans dünyasının temel 
+analiz bilgilerini almak için izlediğimi unutmayın. Uzmanlardan oluşan panelin 
+önerdiği işlemleri yapmıyorum; kendi sistemime güveniyorum.
+3) Her gün saat 17:00 EST'de ziyaret edinhttp://www.fxstreet.com/fundamental/ekonomik-calendar/
+veyawww.forexfactory.co MForex piyasasını etkileyebilecek yaklaşan haber etkinlikleri için 
+ekonomik takvimi kontrol etmek. Ben sadece KIRMIZI haber etkinliklerini (KIRMIZI bayrakla 
+temsil edilen yüksek etkili haber bültenleri) kontrol ediyorum. Haber bültenlerinden 30 
+dakika önce ve sonra işlem yapmaktan kaçınmak istersiniz.
+Temel bilgilerinizi takip ettiğiniz bir günlük oluşturmanızı öneririm.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+büyük para birimlerinin gerçekleri.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+CHAPTER2
+Trend Ticareti
+Piyasa 2 tip katılımcıdan oluşmaktadır:
+Alıcılar
+Satıcılar
+Fiyat hareketinin hareketi ALICILAR ve SATICILAR arasındaki etkileşimin bir 
+sonucudur.
+SATIN ALMAK isteyen kişi sayısı SATMAK isteyen kişi sayısından fazla olduğunda, duygu aynı kaldığı 
+sürece fiyat YUKARI doğru gitmeye devam edecektir.
+SATIN ALMAK isteyenden daha fazla kişi SATMAK istediğinde, duygu aynı kaldığı 
+sürece fiyat AŞAĞI gitmeye devam edecektir.
+ALICI sayısı SATICI sayısına eşit veya yakın olduğunda fiyatlar konsolide olma 
+eğilimindedir.
+Bu stratejinin amacı, piyasanın trendini belirlemek ve ardından trend yönünde 
+piyasaya girmek için en iyi zamanı saptamaktır.
+Trendi belirlememize ve bir girişi belirlememize yardımcı olmak için belirli göstergeleri benzersiz bir 
+şekilde kullanacağız.
+Grafikler Kurulumu
+Mt4 Platformunuzu açtığınızda aşağıdaki resimdeki gibi görünecektir:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Bu sistem için çok özel ayarlara sahip 3 set gösterge kullanacağız:
+Hareketli Ortalamalar
+Stokastik
+MACD
+Hareketli Ortalamalar:
+Öncelikle teşekkürlerimi iletmek istiyorumRaghee Horner Beni Hareketli Ortalamaların bu 
+muhteşem ortamıyla tanıştıran kişi. Bunların etrafında kurulmuş tüm bir sistemi var ve kitabın 
+sonunda size ÜCRETSİZ video eğitimlerine ve web seminerlerine bağlantılar vereceğim. Ancak 
+ben Hareketli Ortalamaları onunkinden farklı bir şekilde kullanıyorum.
+Hareketli Ortalamaların ayarları şunlardır: 
+Yüksek EMA'nın 34'ü
+34 Kapanış EMA'sı 
+34 Düşük EMA'sı
+Bunları bir grafiğe çizdiğinizde şöyle görünür:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Bu 3 EMA, bir dalgaya benzeyen bir ayrım yaratır. Bunları 
+Trend Göstergemiz olarak kullanacağız.
+Bu Dalga inanılmaz bir DESTEK ve DİRENÇ bandı görevi görür ve fiyatın önceki trende 
+devam etmeden önce bir mıknatıs gibi bu dalgaya nasıl geri döndüğünü göreceksiniz.
+Fiyat Dalganın Üstündeyse, Trend YUKARI'dır. 
+Fiyat Dalganın Altındaysa, Trend AŞAĞI'dır.
+Raghee, trend tanımlamasını çok kolay hale getirmek için ÜCRETSİZ olarak kullanıma 
+sunduğu bir gösterge (GRAB) oluşturdu; mumlar sabit kalacakYEŞİLFiyat dalganın üzerinde 
+işlem gördüğü sürece, geri dönecektirMAVİDalga içinde işlem gördüğünde veKIRMIZIfiyat 
+dalganın altında kaldığı sürece.
+GRAB, güncel piyasa trendlerini tek bakışta tespit etmeyi son derece kolaylaştırır.
+İşte böyle görünüyor:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+GRAB göstergesine bağlantı şu şekildedir:
+http://ragheehorner.com/download-the-newly-updated-grab-20-plug-in-for-mt4/
+Stokastikayarlar: 5-3-3 
+Macdayar: 6-13-5
+Her şeyi yüklemeyi bitirdiğinizde grafiğiniz aşağıdaki resimdeki gibi 
+görünmelidir:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Şimdi sistemin özüne inelim...
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+CHAPTER3
+UZUN VADELİ GİDİŞ İÇİN KURALLAR
+Fiyat dalganın üstünden dalgaya doğru geri çekildiğinde (mumlar YEŞİL'den MAVİ'ye 
+dönecek) ve Stokastik 20/40 civarında aşırı satım alanında olmalıdır ve
+Macd sinyal çizgisi Sıfır Çizgisi'nin (00) üstünde veya @ seviyesinde olmalıdır.
+Birini bekle yeni YEŞİL mum oluşması ve ardından o mumun kapanışında SATIN AL.
+Aşağıda UZUN bir girişin nasıl göründüğüne dair örnek bir resim bulunmaktadır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Zararı Durdur:
+Stop emriniz yeni oluşan Düşük seviyesinin 2 pip altına yerleştirilmelidir.
+Kar hedefi: İşlemlerimi yönetmek için farklı yollar kullanıyorum. Ancak basitlik adına 1:2 risk-
+ödül oranına gitmenizi önereceğim (yani stopunuz girişten 10 pip uzaktaysa hedefinizi 20 pip 
+uzağa ayarlayın), tabi ki Asya seansı sırasında işlem yapmıyorsanız, ki bu seansın aralığı 
+genellikle dardır.
+Pivot Noktalarını Kar hedefleri olarak da kullanabilirsiniz.
+KISA VADEDE GEÇME KURALLARI
+Fiyat dalganın altından dalgaya geri döndüğünde (mumlar KIRMIZI'dan MAVİ'ye 
+dönecek) Stokastik 20/40 civarında aşırı alım bölgesinde olmalı ve MACD sinyal çizgisi 
+@ veya Sıfır Çizgisinin Altında (00) olmalıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Birini bekle yeni KIRMIZI mum Oluşacak ve ardından o mumun kapanışında Satılacak.
+Aşağıda KISA bir girişin nasıl göründüğüne dair örnek bir resim bulunmaktadır.
+Zararı Durdur:
+Stop emriniz yeni oluşan Yüksek seviyenin 2 pip üstüne yerleştirilmelidir.
+Kar hedefi: İşlemlerimi yönetmek için birden fazla stil kullanıyorum. Ancak basitlik adına 
+1:2 risk-ödül oranına gitmenizi önereceğim (yani stopunuz girişten 10 pip uzaktaysa 
+hedefinizi 20 pip uzağa ayarlayın), dar bir aralığa sahip olan Asya seansı sırasında işlem 
+yapmıyorsanız hariç.
+Pivot Noktalarını Kar hedefleri olarak da kullanabilirsiniz.
+Günlük olarak ne kadar çok kurulumla karşılaşabileceğinize şaşıracaksınız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Artık kurulumun nasıl göründüğünü bildiğinize göre, birden fazla zaman dilimindeki 
+işlemleri arayacaksınız.
+Başlangıçta 2 zaman dilimiyle başlayabilirsiniz:
+5dk
+15dk
+3 döviz çiftini hedefleyebilirsiniz. Aşağıdakileri önereceğim:
+GBPUSD
+EURUSD
+EURJPY
+Lütfen bu döviz çiftleriyle sınırlı olmadığınızı unutmayın. İşleyebileceğiniz kadar çok döviz 
+çiftini ve uygun gördüğünüz kadar çok zaman dilimini hedefleyebilirsiniz. Ancak 
+başlangıçta bu 3'üyle başlayın.
+İşte bu 3 para birimini 5 dakikalık ve 15 dakikalık zaman dilimlerinde izlemek için Mt4 platformumu nasıl 
+kurduğumu gösteriyorum.
+ÜST: GBPUSD 5DAK EURUSD 5DAK EURJPY 5DAK ALT: 
+GBPUSD 15DAK EURUSD 15DAK EURJPY 15DAK
+Aşağıya bakın……
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Eğer 5 dakikalık bir grafikte bir kurulum bekliyorsanız ve fiyat dalganın içine giriyorsa ancak 
+çıkmak yerine dalganın içinden geçiyorsa artık 5 dakikalık grafikte bir kurulumunuz yok demektir.
+Ancak fiyat şimdi 15 dakikalık dalgayı test edecek ve 15 dakikalık grafikte olası bir 
+kuruluma hazır olmalısınız.
+Bu kurulumları her zaman diliminde bulacaksınız. Daha yüksek zaman dilimi tüccarıysanız, aynı 
+sistemi kullanarak H1, H4 veya hatta günlük kurulumlarda işlem yapabilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+CSONUÇ
+Özetle... işiniz, grafiğinize kısa bir bakış atarak mevcut piyasa eğilimini hızla 
+belirlemek ve ardından fiyatın dalgaya geri dönmesini bekleyerek fırsat aramaktır.
+Bu sistem haftada 200 ila 300 pip getirisi sağlayabilir. Bunu test edin ve kendiniz 
+görün.
+Ancak ne kadar harika olursa olsun herhangi bir sistem sizi başarılı bir tüccar yapamaz; 
+yalnızca SİZ sizi başarılı bir tüccar yapabilirsiniz. Bir tüccar olarak en büyük engeliniz sizsiniz. 
+Bu nedenle, ticaret sistemlerinin yanı sıra ticaret psikolojisinde ustalaşmaya kendinizi 
+adamanızı şiddetle tavsiye ediyorum. Piyasada birçok kitap var. Henüz yapmadıysanız, size 
+kitabımın bir kopyasını almanızı öneririm"Forex Basitleştirildi: $ucce$$ Ticaretinin nihai 
+Anahtarı”. İçinde, ticaretimde devrim yaratan Ticaret psikolojisi ve Para Yönetimi 
+prensiplerini ortaya koyuyorum. Herhangi bir ciddi tüccarın bilmesi gereken bir şey.
+Size mutlu trading'ler diliyorum ve mümkün olduğunca çok pip toplamanızı dilerim!
+Alfa Balde
+Sorularınız veya yorumlarınız için… bana e-posta gönderin @forexmadesimple19@gmail.com M
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+AHAKKINDAAYAZAR
+Alpha Balde bir forex yatırımcısı, bir Para Yöneticisi ve Amazon'un En Çok Satan Kitapları listesinde yer alan birkaç 
+kitabın yazarıdır:
+Forex Basitleştirildi: Günde 100 ila 200 Dolar Kazanmak İçin Adım Adım Günlük 
+Ticaret Stratejisi.
+http://www.amazon.com/Forex-Made-Simple-Step-By-Stepebook/dp/
+B008RERRY8/ref=sr_1_4?ie=UTF8&qid=1344040580&sr=8- 
+4&keywords=forex+made+simple
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+FOreksMADESUYGULAMAK: TOSenSONKEY İÇİNTDEĞERLENDİRME$UCCE$$ :
+Kaynaklar:
+Raghee Horner'ın Video Web Seminerleri ve Eğitimleri :
+1-Trend ve Trend Olmayan Piyasalarda İşlem Yapmak
+7 Bölüm Video Dizisi
+http://www.youtube.com/watch?v=xuHA1E78cXs
+2-5 dakikalık kurulum sistemi M
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+6 Bölüm Video Dizisi
+http://www.youtube.com/watch?v=41M_aRDxwKc
+3-Piyasa döngüleri
+8 Bölüm Video Dizisi
+http://www.youtube.com/watch?v=lQTL3H1dJOs
+www.forexgercekleri.xyz - [Twitter: @eseckal]

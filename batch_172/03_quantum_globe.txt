@@ -1,0 +1,2231 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 8\Baskı 8\Forex Trading Stratejisi - Quantum Globe (125 sayfa) - @eseckal.pdf
+PAGES: 125
+
+
+=== PDF PAGE 1 ===
+İçindekiler
+Bölüm 1 Giriş ________________________________ 3
+1.1. Neden forex piyasasında işlem yapmalısınız?................................................. ................ 4
+1.2. Hangi stratejiyi kullanmalısınız?................................................................. ................................... 5
+1.3. ICWR olgusu................................................. ................................. 6
+1.4. Basitleştirilmiş ticaret örneği.................................................. ................................ 8
+Bölüm 2 Bilimsel Araştırma _________________________ 19
+2.1. ICWR fenomenine dayalı piyasa sinyalleri ................................... 21
+2.2. Uygun uzun vadeli filtre.................................................. ................................. 26
+2.3. Tutarlılık kontrolleri................................................. .................................. 29
+2.4. Giriş stratejimiz neden bu kadar karlı? .................................................... 34
+2.5. Çıkış stratejimiz neden bu kadar karlı? .................................................. 35
+Bölüm 3 Gün İçi ICWR Ticaret Kuralları ___________ 41
+3.1. ICWR tarafından oluşturulan piyasa sinyalleri.................................. .......42
+3.2. Bir işleme ne zaman girilmeli? .................................. 55
+3.3. Bir işlemden ne zaman çıkılmalı.................................................. ................................................... 56
+Bölüm 4 Gün İçi EUR/USD Ticaret Örneği _________ 58
+Bölüm 5 Gün İçi CAD /USD Ticaret Örneği _________ 75
+Bölüm 6 Uzun Vadeli ICWR Ticaret Kuralları _________ 89
+6.1. Bir işleme ne zaman girilmeli? .................................. 90
+6.2. Bir işlemden ne zaman çıkılmalı.................................................. ................................................... 90
+Bölüm 7 Uzun Vadeli EUR/USD Ticaret Örneği _______ 91
+Bölüm 8 Uzun Vadeli GBP/USD Ticaret Örneği ______ 113
+2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+Bölüm 1
+giriiş
+Finansal piyasalar söz konusu olduğunda günümüz kamuoyuna tamamen zıt iki “düşünce 
+okulu” hakimdir. Bir düşünce ekolü, çoğunlukla ekonomi, finans ve matematik profesörleri 
+olmak üzere akademik türler tarafından savunulmaktadır. Size "piyasaların verimli" olduğunu ve 
+uzun vadede bir bireyin herhangi bir likit finansal piyasadan daha iyi performans gösterme 
+şansının sıfır olduğunu söyleyeceklerdir. Elbette üniversitede rahat işlere sahip, herhangi bir 
+gerçek dünya ya da iş deneyimi olmayan adamlar size başarılı olma şansınızın olmadığını 
+söyleyecektir. Sandviçlerini yapacak ya da arabalarının yağını değiştirecek birilerinin olması için 
+küçük günlük işinize devam etmelisiniz. Bu teoriyi benimseyen insanlar genellikle finansal 
+piyasalardan uzak durmayı ve nakitlerini yataklarında saklamayı tercih ediyorlar.
+Başka bir düşünce ekolü, finansal TV ve radyo istasyonları, yatırım firmaları, aracı kurumlar 
+vb. tarafından savunulmaktadır. "Şaşırtıcı bir şekilde" hepsi finansal piyasaları, mutlu 
+Annelerin, Babaların ve Büyükbabaların, kendilerinden kazançlı işlemler yapmak için 
+gelişmiş yazılımlar kullandıkları cennet gibi bir yer olarak tasvir etmeye çalışıyorlar. Karayip 
+kumsallarında tatil yaparken dizüstü bilgisayarlar… Sayısız “konuşan kafa”, CNBC veya CNN 
+gibi TV kanallarında halka çoğunlukla değersiz tavsiyeler vererek günlük geçit törenlerinin 
+tadını çıkarıyor. Onların “analistleri” her gün George Orwell'in bile anlamakta zorlanacağı 
+bir biçimde görüşlerini değiştiriyorlar. Ve söyledikleri her şey, söyledikleri anda her zaman 
+"anlamlı" görünür. Ertesi gün tamamen yanıldıkları ortaya çıktığında sanki dün hiç 
+yaşanmamış gibi size bambaşka bir hikaye anlatıyorlar. Ve dikkat ettiyseniz, sunucular bu 
+konuyu asla gündeme getirmiyor. Neden? Yani “gösteri devam etmeli”. Size her gün sayısız 
+ticaret fırsatını kaçırdığınızı göstermeleri gerekiyor; sadece onların programlarını izlemeniz, 
+size sattıkları süslü yazılımlara abone olmanız yeterli ve erken emekliliğe doğru yola 
+çıkıyorsunuz.
+3
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Finansal piyasaların etkin olduğu ifadesine katılıyorum. Tek bir konuda çok 
+etkililer; parayı kötü ve saf tüccarlardan/yatırımcılardan ne yaptığını 
+bilenlerin ceplerine aktarıyorlar. Şimdi muhtemelen kendinize şu soruyu 
+soruyorsunuz: “Ben bu alanda ne yapıyorum? Başarılı olma şansım var mı?” 
+sorunun cevabı "Evet, öyle" dır. Sizlere anlatacağımız sistem, sizi büyük 
+yatırım firmaları ve deneyimli profesyonel yatırımcılarla eşit seviyeye 
+getirecek, hatasız bir giriş ve çıkış stratejisidir.
+Yatırımcı olmak isteyen yatırımcılardan en çok duyduğum soru şu: "Hangi piyasada 
+işlem yapmalıyım? - Hisse senetleri, vadeli işlemler, emtialar...?” Doğru tutum ve 
+özveriyle her piyasada kazanılacak para vardır. Ancak, büyük kar potansiyeli ve çok 
+sayıda ticaret fırsatı sunmasına rağmen küçük yatırımcılar tarafından hâlâ büyük 
+ölçüde ihmal edilen bir pazar var. Forex veya Döviz piyasasıdır.
+1.1. Neden forex piyasasında işlem yapmalısınız?
+Basitçe söylemek gerekirse, konu likidite, 24 saatlik piyasa ortamı ve sonuncusu ama bir o kadar da 
+önemlisi kâr potansiyeli söz konusu olduğunda başka hiçbir alım satım aracı forex piyasasının yanına 
+bile yaklaşamaz. Forex (döviz) piyasası, ortalama günlük hacmi 1,5 trilyon ABD dolarının üzerinde 
+olan ve tüm küresel hisse senedi piyasalarının toplamından daha fazla olan, dünyanın en büyük (en 
+likit) finansal piyasasıdır.
+Forex işlem günü Wellington, Yeni Zelanda'da başlıyor ve ardından Sidney, Avustralya, 
+Hong Kong ve Singapur geliyor. Üç saat sonra Dubai (BAE) ve diğer Orta Doğu ülkelerinde 
+işlem günü başlıyor. Birkaç saat sonra onları Frankfurt, Zürih, Paris, Roma takip ediyor… 
+Avrupa'da en son açılan Londra olurken, beş saat sonra onu New York, Chicago ve son 
+olarak Batı Yakası takip ediyor. En yoğun saatler Avrupa'da sabahın erken saatleridir çünkü 
+o saatlerde büyük Asya borsaları hala açıktır ve Avrupa'da öğleden sonraları da büyük ABD 
+piyasalarının Avrupa ile aynı saatte açık olması nedeniyledir. Bu nedenle nerede yaşarsanız 
+yaşayın ve çalışma saatleriniz ne olursa olsun her zaman bulabilirsiniz.
+4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Genellikle normal çalışma saatleriyle sınırlı olduğunuz borsa yerine forex ticaretine 
+katılmak için biraz zaman ayırın.
+Forex piyasasını mükemmel bir ticaret aracı haline getiren bir diğer özellik ise kaldıraç 
+kullanımıdır. Yeni başlayan yatırımcıların çoğu kaldıraç kavramını tam olarak anlamıyor. 
+Temel olarak, 5.000 $'lık bir başlangıç   sermayeniz varsa ve 1:50 marjla işlem yapıyorsanız 
+250.000 $'lık bir sermayeyi etkili bir şekilde kontrol edebilirsiniz. Ancak size ve sermayenize 
+karşı yapılan yüzde ikilik bir hamle tamamen silinir. Eğer yeni başlayan bir yatırımcıysanız, 
+rahat ve kârlı hale gelene kadar 1:20'den fazla marj kullanmamalısınız ve ancak o zaman 
+daha yüksek marjlar kullanmayı deneyebilirsiniz. 1:20 kenar boşluğu ne anlama geliyor? 
+Bu, 5.000 $'ınızla 100.000 $'lık bir sermayeyi kontrol edeceğiniz anlamına gelir. Diyelim ki 
+EUR/USD ticareti yapıyorsunuz ve giriş stratejimizi kullanarak işleme uzun taraftan girmeye 
+karar verdiniz. Bu, USD'nin Euro karşısında değer kaybedeceğine bahse girdiğiniz anlamına 
+gelir. Diyelim ki mevcut EUR/USD kuru 1.305. Yine, eğer ticaret sermayeniz 5.000$ ise ve 
+1:20 kaldıraç kullanıyorsanız, fiilen 100.000$'ı Euro'ya çevirmiş olacaksınız. Güncel kur 1.305 
+ise 100.000/1.305 = 76.628 Euro alacaksınız. Ticaret sizin yönünüzde giderse marj lehinize 
+çalışacak ve USD'deki %1'lik düşüş, başlangıç   sermayenizde %20 artış anlamına gelecektir. 
+Yani EUR/USD kuru 1,305'ten 1,318'e çıkarsa 76.628 Euro'nuzu 1.000$ karla 101.000$'a 
+çevirebileceksiniz. Başlangıç   sermayeniz 5.000$ olduğundan, hesabınızda fiilen %20'lik bir 
+artış olur. Ancak, işlem aleyhinize gerçekleşirse ve USD, Euro karşısında %1 değer kazanırsa 
+hesabınız 4.000 $'a düşürülür. Stratejimiz bu tür sonuçları önlemek için zorlu duruşlar 
+oluşturduğundan bu gerçekleşemezdi.
+Forex piyasasının üçüncü ve aynı derecede önemli özelliği, forex piyasasındaki trendlerin diğer 
+ticaret araçlarına göre daha uzun sürmesi ve daha net bir şekilde tanımlanmış olmasıdır.
+1.2. Hangi stratejiyi kullanmalısınız?
+Yatırımcılara hevesli olanların sıklıkla sorduğu bir diğer soru da “Ne tür bir ticaret yaklaşımı 
+kullanmalıyım – günlük ticaret, swing ticareti, pozisyon ticareti? Kaç tane gösterge 
+kullanmalıyım? TV haber kanallarını takip etmeli miyim?...”
+5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Benzer ikilemlerle karşı karşıyaysanız bir benzetme yapmaya çalışayım. Karanlık bir 
+sokakta saldırıya uğrasanız ve hayatınızın gerçekten tehlikede olduğunu hissetseniz 
+nasıl bir savunma tekniği kullanmaya çalışırsınız? Saldırganı bir filmde gördüğünüz 
+süslü bir kung fu hareketiyle tekmelemeye çalışır mıydınız? Yoksa uygulaması kolay ve 
+etkili olacağından %100 emin olduğunuz basit ama son derece etkili “kasığa diz”, 
+“başparmak göze” tekniğini mi kullanırsınız? Zorlukla kazandığınız paranızı ticaretinize 
+sürdüğünüzde belki hayatınız tehlikede değil, sizin ve ailenizin geçim kaynağı 
+tehlikededir. Piyasadaki diğer tüm tüccarların amacı paranızı almaktır. Ve eğer 
+anlamadığınız bazı gösterişli araçlar ve göstergelerle oynayacaksanız, zorlukla 
+kazandığınız paranın birinin BMW kira ödemelerini ödeyeceğinden emin olabilirsiniz.
+Forex piyasasında “besin zincirinin” zirvesine çıkmak istiyorsanız doğru yere 
+geldiniz. Size açıklamak üzere olduğumuz strateji, yıllar süren forex piyasası 
+araştırmasının sonucu olarak gelişmiş matematiksel yöntemler kullanılarak ortaya 
+çıkan ve finansal piyasaların temel bir özelliğine dayanan tamamen yeni, verimli ve 
+güvenilir bir ticaret stratejisidir.
+1.3. ICWR fenomeni
+Uzun vadeli piyasa trendi ne kadar güçlü olursa olsun, piyasa asla yalnızca uzun vadeli 
+trend yönünde hareket etmez; uzun vadeli piyasa trendine karşı her zaman küçük 
+hareketler olur. Bu sapmalar genellikle çok uzun sürmez ve sonrasında piyasa tekrar 
+uzun vadeli trend yönünde hareket eder.
+Uzun vadeli piyasa eğilimi doğrultusundaki ana piyasa hareketlerine denir. 
+dürtüsel dalgalarve uzun vadeli piyasa eğilimine karşı küçük piyasa hareketlerine 
+denirdüzeltici dalgalar.
+Aşağıdaki resim (Şekil 1.1) EUR/USD mum grafiğinin anlık görüntüsünü göstermektedir. Her ne 
+kadar piyasa bunu gösterse deikisi birdenYukarı ve aşağı yönlü piyasa hareketlerinde, uzun 
+vadeli piyasa eğiliminin sabah 07:00 ile açıkça düşüş yönlü olduğu kolaylıkla fark edilebilir.
+6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+ve sabah 11:00'de fiyat 140 pip civarında başarısız oldu (07:00'de 1,3500'den 
+11:00'de 1,3360'a, yani 1,3500 - 1,3360 = 0,0140 = 140 pip). (1), (3) ve (5) dalgaları 
+itici dalgalardır; (2) ve (4) dalgaları düzeltici dalgalardır.
+Şekil 1.1.
+Temel gözlemimiz,şimdiye kadar tüm yatırımcıların ticaret stratejilerinde göz ardı 
+edildiği, ilişkiye girerken mi buDüzeltici dalganın yüksekliği ve önceki darbeli 
+dalganın yüksekliği, düzeltici dalga önceki darbeli dalgayı Fibonacci oranlarında 
+yeniden izleme eğilimindedir. Sık ilişkiler %25, %38, %50, %61 ve %75'tir. Şu ana 
+kadar bu etkiyi şu şekilde ifade edeceğiz:Darbeli/Düzeltici Dalga Geri Çekme (ICWR)
+fenomen. Örneğin aşağıdaki resimde (Şekil 1.2) düzeltici dalga (2), 0,382 Fibonacci 
+oranında itici dalgayı (1) tekrar takip etmektedir.
+7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Şekil 1.2.
+ICWR fenomeni, karmaşık bir sistemin tipik bir kendine benzerlik etkisidir. Doğadaki sosyal, kimyasal 
+veya fiziksel sistemler gibi her türlü karmaşık sistem için bu tür kendine benzerlik etkileri bulunabilir. 
+Kendi kendine benzerlik, kendi kendine organize olan karmaşık sistemlerin temel bir özelliğidir ve 
+fizikçiler ve matematikçiler tarafından son zamanlarda yoğun olarak araştırılan bir konudur.
+Yukarıda açıklanan olguyu, Elliot Wave teorisinin temel ilkelerini Fibonacci 
+oranlarının iyi bilinen özellikleriyle birleştiren tamamen orijinal ve şimdiye 
+kadar yayınlanmamış bir ticaret stratejisi geliştirmek için bir başlangıç   
+noktası olarak kullandık. Sonuç şaşırtıcı, yakında anlayacaksınız. Stratejiye 
+“Dürtüsel/Düzeltici Dalga Geri Çekme (ICWR) Ticaret Kuralları” adını verdik.
+1.4. Basitleştirilmiş ticaret örneği
+Stratejimizin ayrıntılarına girmeden önce, size basitleştirilmiş, kısaltılmış bir versiyonunu 
+göstererek onu tanıtacağız ve sonraki bölümlerde onu nasıl kullanmaya başlayacağınız ve 
+bundan hemen yararlanmaya başlayacağınız gösterilecek. Stratejimiz mümkün olan en iyi giriş 
+ve çıkış anını sağlar. Aşağıdaki örnekte size yalnızca şu anda kullanılmakta olan ticaret 
+stratejilerinin çoğu tarafından genellikle ihmal edilen kısmı göstereceğiz -nasıl öğrenilir
+8
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Ticaretten çıkmak için en iyi an. Örneği takip etmeyi kolaylaştırmak amacıyla, 
+ticarete girmek için en iyi anı bulduğumuzu varsayacağız.
+Aşağıdaki alım satım örneğini incelerken, stratejimizin çıkış sinyaliyle ilgili 
+kısmının, daha önce hiç başarılmamış bir şekilde, "zararları kısa kes ve 
+karların akmasına izin ver" temel ticaret kuralını takip ettiğini fark 
+edeceksiniz.
+Peki bu temel ticaret kuralı neden bu kadar önemli?
+Çünkü kârın akmasına izin vermemek, uzun vadede ticaretinizi kârsız hale 
+getirecektir: 50 piplik iki kayıp ve ardından 80 piplik kazanç, 20 piplik net kayıpla 
+sonuçlanır. Buna karşılık, 50 piplik iki kayıp ve ardından stratejimizle ulaşılabilen 
+250 piplik kazanç, 150 piplik net kazançla sonuçlanır! Eminim anladınız.
+Stratejimizi kullanarak GBP/USD ticaret çıkışının bir örneğini burada bulabilirsiniz.
+Not: Stratejinin tüm unsurları sonraki bölümlerde açıkça açıklanmıştır. 
+Aşağıdaki örneğin amacı stratejinin çıkış kısmına bir göz atmanızı sağlamaktır.
+Diyelim ki A noktasında (07:00, 01/04/05) piyasaya açık olarak girdik ve 1,9075 giriş 
+fiyatından 10.000 USD satın aldık (bkz. Şekil 1.3).
+9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Şekil 1.3.
+İlk anda (bkz. Şekil 1.4) piyasa bizim yönümüze doğru hareket ederek B noktasına ulaştı. Bu 
+noktada piyasa 1,9028 değerine ulaştı. Bu bizim yönümüzde 48 pip anlamına geliyor. 
+Şimdiye kadar, çok iyi.
+Şekil 1.4.
+Ancak B noktasından sonra (bkz. Şekil 1.5) piyasa yukarı yönlü bir harekete başlar. Şimdi ne 
+yapmalı? Deneyimsiz bir tüccar, pozisyonu almaktan mutlu, korkmuş bir tavşan gibi kapatır.
+10
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+ticaretten küçük bir kar bile. Ancak bu yanlış bir karar olacaktır. Neden? Uzun vadede ticareti 
+kârlı hale getirmek istiyorsak, "kârın akmasına izin vermemiz" gerektiğini unutmayın.
+Şekil 1.5.
+Peki ne yapacağız?
+Esas soru şudur:
+Ticaretimizin gücünün tükendiğine ve çıkılması gerektiğine ne zaman karar veririz?
+İşte tam bu noktada stratejimiz devreye giriyor. “Etkisel/Düzeltici Dalga Geri Çekme Ticaret 
+Kurallarını” kullanarak, ticaretten çıkmak ve her ticaretten maksimum karı elde etmek için 
+mümkün olan en iyi zamanı bulacağız.
+Ticaret stratejimizi uygulamak için aşağıdaki ticaret kurulumunun yapılması gerekmektedir.
+Öncelikle aşağı yönlü hareketin en yüksek ve en düşük değeri belirlenir. Bu amaçla 
+her iki uç değeri birleştiren bir çizgi çiziyoruz. Bizim durumumuzda aşağı yönlü 
+hareketin ekstrem değerleri A noktası (07:00 civarı) ve B noktasıdır (08:00 civarı). 
+Bunları kalın mavi çizgiyle birleştireceğiz (bkz. Şekil 1.6).
+11
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Şekil 1.6.
+Ayrıca, aşağı doğru hareketin en düşük değerini (B noktası) başlangıç   noktası (seviye 
+0.000) ve aşağı doğru hareketin en yüksek değerini (A noktası) bitiş noktası (seviye 
+1.000) olarak kullanarak Fibonacci seviyelerini çiziyoruz. Biz sadece 0.000, 0.250, 0.382, 
+0.618, 0.750 ve 1.000 seviyeleriyle ilgilendiğimiz için sadece bu seviyeler çizilecektir 
+(bkz. Şekil 1.7).
+Yalnızca fiyatın 0,750 seviyesinin üzerine çıkması durumunda, yani tüm mum çubuğunun 0,750 
+Fibonacci seviyesinin üzerinde olması durumunda pozisyondan çıkacağız.
+12
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Şekil 1.7.
+Yukarı yönlü hareket sabah 08:50'de yaklaşık olarak C noktasında 0,618 Fibonacci seviyesinde geri 
+çekildi. Fiyat 0,750 Fibonacci seviyesinin üzerine çıkmadığından işlemde kalıyoruz. Tamam, bakalım 
+sonra ne olacak. C noktasından sonra piyasa, D noktasında saat 11:10 civarında düşük bir noktaya 
+ulaşana kadar tekrar bizim yönümüzde aşağı doğru hareket eder. Bundan sonra fiyat yeniden 
+yükselmeye başlar (bkz. Şekil 1.8). Bununla birlikte, giriş noktamıza olan mesafe zaten 100 pip 
+civarında olduğundan (B noktasında mesafe sadece 50 pip civarında olduğundan) kar akışına izin 
+vermek işe yaradı.
+Şekil 1.8.
+13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Yine, ticarette kalıp kalmayacağımıza karar vermemize yardımcı olan "Dürtüsel/
+Düzeltici Dalga Geri Çekme Ticaret Kuralları"dır. Yine alım satım kurulumu yapılır: aşağı 
+yönlü hareketin uç değerlerini (CD) birleştiren bir çizgi çizilir ve bu çizgiye dayanarak 
+Fibonacci seviyeleri çizilir (bkz. Şekil 1.9). Ve tekrar ediyorum: Sadece fiyat 0,750 
+Fibonacci seviyesinin üzerine çıkarsa pozisyondan çıkacağız.
+Şekil 1.9.
+Yukarı yönlü hareket saat 12:25'te yaklaşık olarak E noktasında 0,618 Fibonacci seviyesinde geri 
+çekildi. Fiyat 0,750 Fibonacci seviyesinin üzerine çıkmadığından piyasada kalmayı sürdürüyoruz. 
+Bakalım bundan sonra ne olacak? E noktasından sonra piyasa, saat 14:25 civarında F noktasında 
+düşük bir noktaya ulaşana kadar tekrar bizim yönümüze doğru hareket eder. Bundan sonra fiyat 
+yeniden yükselmeye başlar (bkz. Şekil 1.10). Giriş noktamıza olan mesafe şu an 120 pip civarında.
+Yine ticaret düzenimizi belirledik: Aşağı yönlü hareketin uç değerlerini (EF) birleştiren 
+bir çizgi çizilir ve bu çizgiye dayanarak Fibonacci seviyeleri çizilir. Unutmayın, ancak 
+fiyat 0,750 Fibonacci seviyesinin üzerine çıkarsa pozisyondan çıkacağız.
+14
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Şekil 1.10.
+Yukarı yönlü hareket saat 14:40'ta yaklaşık G noktasında 0,750 Fibonacci seviyesinde geri 
+çekildi. Fiyat 0,750 Fibonacci seviyesinin üzerine çıkmadığından piyasada kalmayı sürdürüyoruz. 
+Bakalım bundan sonra ne olacak? G noktasından sonra saat 17:30 civarında H noktasında 
+minimuma ulaşana kadar piyasa tekrar bizim yönümüze doğru hareket eder. Bundan sonra 
+fiyat tekrar yükselmeye başlar (bkz. Şekil 1.11). Giriş noktamıza olan mesafe şu an 200 pip 
+civarında.
+Yine ticaret düzenimizi belirledik: Aşağı yönlü hareketin uç değerlerini (GH) 
+birleştiren bir çizgi çizilir ve bu çizgiye dayanarak Fibonacci seviyeleri çizilir. 
+Unutmayın, ancak fiyat 0,750 Fibonacci seviyesinin üzerine çıkarsa pozisyondan 
+çıkacağız.
+Şekil 1.11.
+Yukarı yönlü hareket saat 20:25'te yaklaşık I noktasında 0,250 Fibonacci seviyesinde 
+geri çekildi. Fiyat 0,750 Fibonacci seviyesinin üzerine çıkmadığından piyasada kaldık. 
+Tamam, bakalım sonra ne olacak. I. noktadan sonra piyasa tekrar hareket eder
+15
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+J noktasında saat 20:40 civarında minimuma ulaşana kadar bizim yönümüze doğru aşağıya doğru. Bundan 
+sonra fiyat tekrar yükselmeye başlıyor (bkz. Şekil 1.12). Giriş noktamıza olan mesafe şu anda 270 pip 
+civarında.
+Yine ticaret düzenimizi belirliyoruz: Aşağı yönlü hareketin uç değerlerini (IJ) birleştiren 
+bir çizgi çizilir ve bu çizgiye dayanarak Fibonacci seviyeleri çizilir. Fiyat 0,750 seviyesini 
+kırarsa çıkış sinyali oluşur.
+Şekil 1.12.
+Saat 21:00'den sonra piyasa eğilimi yükselişe geçmeye başlıyor. Saat 01:15 itibarıyla fiyat 0,750 
+seviyesinin üzerine çıktı (tüm mum çubuğu K noktasında 0,750 seviyesinin üzerindedir) 10,000 USD'yi 
+1,8838 fiyatından satarak işlemden çıkıyoruz (bkz. Şekil 1.13).
+Şekil 1.13.
+16
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Bu işlemden 1,9075 - 1,8838 = 0,0237= 237 pip kar elde edilmiştir. 1:20 kaldıraç 
+kullanıldığında 10.000 x 0.0237 x 20 = 4.740 USD kar anlamına gelir.
+Bu, bir işlem gününden sonra 4.740 USD kar anlamına geliyor!
+Şekil 1.14.
+Yukarıdaki Şekil 1.14'te görebileceğiniz gibi çıkış stratejimiz, işlemden çıkmak ve bundan 
+maksimum kâr elde etmek için mümkün olan en iyi zamanı belirleyebildi.
+Stratejimizin gerçekte ne kadar verimli olduğunu size göstermek için, elde ettiğimiz sonucu, bunun 
+yerine takip eden durdurma kullansaydık elde edeceğimiz sonuçla karşılaştıracağız.
+17
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Şekil 1.15.
+Yukarıdaki Şekil 1.15'ten de görebileceğiniz gibi, pozisyona girdikten sonra piyasa açıkça 
+bizim yönümüze doğru gidiyordu (D noktasında neredeyse 150 piplik bir kar marjına zaten 
+ulaşılmıştı). Ancak takip eden stop, ticaretin yürütülmesi için yeterli alan sağlamaz.
+Eğer işlemden çıkmak için takip eden durdurmayı kullanmış olsaydık, yalnızca 90 piplik bir 
+kâr elde edebilirdik ve işlemimiz çok erken tamamlanırdı. Bunun yerine, stratejimizi 
+kullanarak 237 piplik (neredeyse üç kat daha fazla) bir kâr elde ediyoruz!
+18
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Bölüm 2
+Bilimsel Araştırma
+Not: Okuyucularımıza karlı bir ticaret sisteminin nasıl oluşturulacağı konusunda bir 
+fikir vermek amacıyla bu bölümü kılavuzumuza dahil ettik. İçerilen teknik dilin bir 
+kısmı bazı okuyucularımız için yeni olabilir. Ancak bu bölümün anlaşılması 
+stratejimizin başarılı bir şekilde uygulanması için gerekli değildir (sonraki 
+bölümlerde tam olarak açıklanmıştır).
+En karlı ve aynı zamanda "küçük" bir yatırımcı için uygun ticaret sistemini bulma 
+arayışımızda birçok farklı ticaret stratejisini test ettik ve analiz ettik. Test ettiğimiz 
+stratejiler, TA göstergelerinin basit kombinasyonlarından, destek/direnç seviyelerini, 
+pivot noktalarını, grafik modellerini vb. kullanan daha karmaşık ticaret sistemlerine 
+kadar uzanıyordu. Ancak daha sonra daha yakından incelenecek sistemlerin sayısını 
+azaltmak için, kendi sistem seçim kriterlerimizi geliştirdik. Temel olarak peşinde 
+olduğumuz sistemin şu özelliklere sahip olması gerekiyordu: Basitlik, Verimlilik ve 
+Tutarlılık.
+Sadelik
+Hepimizin bildiği gibi forex ticaret stratejileri giderek daha karmaşık ve sofistike hale 
+geliyor. Ortalama bağımsız yatırımcımız için bu ne anlama geliyor? Bu, bir ticaret stratejisi 
+geliştirirken basitlik faktörümüzün önem kazandığı anlamına geliyor. Ortalama bir insan, 
+matematik alanında doktora düzeyinde derin bilgi ve en yeni kişisel ev bilgisayarının 
+ötesinde bir bilgi işlem gücü gerektiren veya bunu varsayan bir stratejiden ne gibi faydalar 
+sağlayabilir? tarafından yaygın olarak kullanılan oldukça karmaşık bir strateji türüdür.
+19
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+yatırım şirketleri sinir ağlarıdır1. Bir sinir ağı, kısaca, insan sinir sistemindeki mantıksal 
+nöronlardan ilham alan, birbirine bağlı nöronların (düğümler olarak da bilinir) bir 
+modelidir. İnsan beyni gibi bir sinir ağı da performansını her geçen gün artırmak için 
+deneyimsel bilgiyi edinebilir, saklayabilir ve kullanabilir. Ne yazık ki, sinir ağlarına dayalı bir 
+stratejiyi tutarlı bir şekilde kullanmak için, bir sinir ağının geçmiş verileriyle nasıl 
+besleneceğine ilişkin karmaşık bilginin yanı sıra ortalama forex yatırımcımızın 
+karşılayamayacağı aşırı yüksek bilgi işlem gücü gerekir. Bu nedenle, kâr potansiyeli 
+bakımından en karmaşık profesyonel ticaret sistemiyle karşılaştırılabilecek ve aynı 
+zamanda ortalama yatırımcımız için uygulanabilir ve anlaşılır bir ticaret stratejisi bulma 
+hedefini kendimize belirledik.
+Yeterlik
+Bir ticaret stratejisinin verimliliği, temel olarak, belirli bir süre boyunca strateji 
+kullanılarak gerçekleştirilen kârın bir ölçüsüdür. Farklı ticaret stratejilerini 
+karşılaştırırken, belirli bir süre boyunca daha fazla kar sağlayan stratejilerin daha 
+verimli olduğu söylenir.
+Tutarlılık
+Verimli ve kullanımı basit bir sistem bulduğumuzda, bir sonraki en önemli seçim kriterimiz 
+tutarlılık haline gelir. Bir stratejinin tutarlı olması ne anlama gelir? Bu, siyasi ve finansal kriz 
+zamanlarında sıklıkla olduğu gibi, finansal piyasa davranışının hafif veya ciddi biçimde 
+değiştiği durumlarda bile stratejinin hâlâ kar elde edebileceği anlamına gelir.
+Bu, yüksek verimliliğe ve yüksek tutarlılığa sahip bir stratejinin, yüksek verimliliğe ve daha düşük 
+tutarlılığa sahip bir stratejiden çok daha iyi ve daha güvenli bir strateji olduğu anlamına gelir. 
+Yatırımcıların sermaye azaltımları ve potansiyel kar artışı için plan yapmalarına olanak tanıyan bir 
+stratejinin tutarlılığıdır.
+Tutarlı bir strateji aşağıdaki özellikleri gösterir:
+1 VVKondratenko ve Yu. A Kuperin, “Forex Tahmininde Tekrarlayan Sinir Ağlarının Kullanılması”, 
+Yoğun Madde, (2003)
+20
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+• Strateji, örneğin 11 Eylül'den hemen sonra olduğu gibi çalkantılı zamanlarda 
+bile kârlıdır.
+• Finansal piyasa davranışının biraz değişmesi durumunda strateji pozitif etkinliğini 
+korur. Bu, stratejinin parametrelerini biraz değiştirerek simüle edilebilir. Örneğin, bir 
+strateji geçmişte 50 piplik bir sert durdurma emriyle iyi çalıştıysa, durdurma emri 
+örneğin 55 pip veya 45 pip olarak değiştirildiğinde de iyi performans göstermelidir…
+• Belirtilen süre zarfında tüm ticari sermayeyi kaybetme ihtimalinin son derece küçük 
+olması, yani neredeyse hiç olmaması gerekir. Bu özelliğin öneminin daha fazla 
+açıklanmasına gerek olduğunu düşünmüyorum.☺
+ICWR olgusunu temel alan yeni geliştirdiğimiz stratejinin, test edilen tüm stratejiler 
+arasında en verimli ve en tutarlı strateji olması ve aynı zamanda ortalama yatırımcımız için 
+uygulanabilir ve anlaşılır olması nedeniyle en güçlü ticaret stratejisi olduğu sonucuna 
+vardık. Bu sonuca varmak için forex piyasası araştırmasına çok fazla çaba ve zaman 
+harcamak zorunda kaldık. Aşağıda stratejimize giden uzun yolumuzun kısa bir özetini size 
+sunmak istiyoruz.
+Öncelikle size strateji geliştirmenin bazı kilometre taşlarını göstereceğiz. ICWR fenomenine 
+dayalı olarak güvenilir ve tutarlı piyasa sinyallerinin nasıl tanımlanacağı (bkz. Bölüm 2.1.) ve 
+stratejimizin performansını artırmak için uygun uzun vadeli filtrenin nasıl bulunacağı (bkz. 
+Bölüm 2.2.) budur.
+Son olarak stratejimizin yüksek tutarlılığı (bkz. Bölüm 2.3.) ve yüksek verimliliği (bkz. Bölüm 
+2.4. ve 2.5.) ile ilgili bazı açıklamalarda bulunacağız.
+2.1. ICWR fenomenine dayalı piyasa sinyalleri
+Girişte anlatıldığı gibi (bkz. Bölüm 1.3.), stratejimiz, düzeltici bir dalganın 
+yüksekliğini önceki darbeli dalganın yüksekliğiyle ilişkilendirirken, düzeltici 
+dalganın önceki dürtüsel dalganın izini sürme eğiliminde olduğu gözlemine 
+dayanmaktadır. Fibonacci oranlarında. Sık ilişkiler %25, %38, %50, %68 ve %75'tir.
+21
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Görevimiz tanımlamaktıtutarlıVeverimliICWR etkisine dayalı olarak düşüş ve yükseliş 
+sinyalleri üretme kuralları.
+Açık noktalar şunlardı:
+1. Kullanılacak uygun Fibonacci seviyelerinin bulunması.
+2. Etkileyici veya düzeltici bir geri çekilmeyi tanımlamak için uygun tetikleyicileri bulmak.
+Tahmin edebileceğiniz gibi, ICWR fenomenine dayalı sinyaller üretmek için kuralları 
+tanımlamanın gerçekten birçok olasılığı var. Kuralları çok basit hale getirmenin sorunu, 
+piyasaların olağandışı davranması durumunda ortaya çıkabilecek tüm olasılıkları 
+kapsamamasıdır.
+Böyle alışılmadık bir davranış, örneğin bir mum çubuğunun yakın komşularından 3 kat veya 
+daha fazla olması olabilir. Demek ki o dönemin en yüksek değeri ile en düşük değeri arasında 
+çok büyük bir fark var. Böyle bir mum çubuğu oldukça değişken bir zaman dilimini temsil eder. 
+Örneğin Şekil 2.1'de. Aşağıda, 02/07/05 tarihinde saat 08:00'deki böyle değişken bir zaman 
+dilimi, mum çubuğunun 60 pip civarında bir yüksekliğe sahip olmasıyla tanınırken, etrafındaki 
+diğer mum çubuklarının yüksekliği 10-15 pip civarındadır.
+Tamam, yukarı yönlü bir hareket durumunda yükseliş sinyalini tanımanın kuralının, herhangi bir 
+Fibonacci seviyesinden (0,750, 0,618, 0,500, 0,318 veya 0,250) sıçrayan fiyatın tanınması 
+olduğunu varsayalım. Saat 06:10'da başlayıp 07:35'te biten yukarı yönlü hareketin ardından 
+(eski basit kuralı takip ederek) saat 08:00 civarında piyasa okumasını takip edebiliriz: 08:00 
+civarında fiyatın sıçradıktan sonra açıkça Fibonacci seviyelerinin üzerinde olduğunu görüyoruz. 
+0,382 Fibonacci seviyesinde (07:50 civarında) ve sonuç olarak bu bir yükseliş sinyalini temsil 
+edecektir (bkz. Şekil 2.1).
+AncakBu kadar izole ve oldukça volatil bir mum çubuğununHiçbir şeyICWR 
+olgusunun piyasaya etkisi ile ilgili.
+22
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Şekil 2.1.
+Dikkate almamız gereken bir diğer faktör, çok kolay bir şekilde yanlış sinyaller 
+üretebilen yatay bir piyasadır. Örneğin Şekil 2.2'de. Aşağıda saat 17:00'den sonra 
+piyasada net bir trend görünmüyor.
+Tamam, aşağı yönlü bir hareket durumunda düşüş sinyalini tanımak için kullanılan kuralın 
+yine herhangi bir Fibonacci seviyesinden (0,750, 0,618, 0,500, 0,318 veya 0,250) sıçrayan 
+fiyatın tanınması olduğunu varsayalım. Saat 11:00'de başlayıp 16:00'da biten aşağı yönlü 
+hareketin ardından (varsayılan basit kuralı takip ederek) saat 18:00 civarında şu piyasa 
+okumasını yapabiliriz: Fiyat, 17 civarında sıçradıktan sonra 0,250 Fibonacci seviyesinin 
+altında: 00 ve sonuç olarak bu bir düşüş sinyalini temsil edecektir.
+Ancak bu kadar yatay bir piyasa tekrar ortaya çıktığı için bunun hiçbir anlamı olmaz.
+Hiçbir şeyICWR olgusunun piyasaya etkisi ile ilgili.
+23
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Şekil 2.2.
+Bu nedenle, ICWR fenomenine dayalı piyasa sinyalleri üretmek için etkili ve aynı 
+zamanda güvenilir (piyasanın diğer etkilerinden etkilenmeyen) kuralların 
+bulunması için asıl çabanın gösterilmesi gerekiyordu. Bu kuralların ayrıntılı olarak 
+tanımlandığını 3. “Gün İçi ICWR Ticaret Kuralları” bölümünde bulacaksınız.
+Eksiksizlik adına, gösterilen örneklerde (Şekil 2.1 ve 2.2) ICWR Ticaret 
+Kurallarımızı kullanırken doğru piyasa sinyallerini aldığımızı belirtelim.
+24
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Şekil 2.3.
+Şekil 2.3'te saat 08:00'deki yüksek uçucu mum çubuğunun olduğu örnekte, ICWR Ticaret Kurallarımızı 
+kullanırken iki nedenden dolayı hiçbir sinyal üretilmiyor. Birincisi, mum çubuğunun tamamı üst onay 
+seviyesinin (0,750) üzerinde olmamasıdır. İkincisi, herhangi bir geri izleme kanalına girilmez; Saat 
+08:00'deki mum çubuğunun tamamı 0,750 seviyesinin üzerinde olsa bile yükseliş sinyali 
+üretilmeyecekti. Yalnızca yanlış bir yükseliş sinyalinden kaçınmakla kalmaz, aynı zamanda ICWR 
+Ticaret Kuralları daha sonra gerçek piyasa eğilimine karşılık gelen doğru bir düşüş sinyali üretir.
+Şekil 2.4.
+25
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Şekil 2.4'teki yatay piyasa örneğinde, hiçbir mum çubuğunun tamamı alt onay seviyesinin 
+(0,250) altında olmadığından herhangi bir sinyal üretilmez.
+2.2. Uygun uzun vadeli filtre
+Bir ticaret stratejisi geliştirirken, kısa vadeli ölçekteki giriş sinyallerini filtrelemek için 
+uygun bir uzun vadeli gösterge aramak mantıklıdır. Bunun nedeni, bu tür uzun vadeli 
+filtrelerin stratejiyi önemli ölçüde daha güçlü (yani daha verimli ve daha tutarlı) hale 
+getirmesidir. Bizim durumumuzda, gün içi işlemlerde kısa vadeli zaman dilimi beş 
+dakikalık mum çubuğu, uzun vadeli ticaret süresi ise dört saatlik mum çubuğudur.
+Uzun vadeli filtreler neden bir stratejiyi daha verimli hale getirir? 
+Nedeni oldukça basit. Diyelim ki gün içi ticaret yapıyoruz. Kârımızı 
+sürdürmek istediğimiz için piyasada genellikle birkaç saat, hatta bazen 
+birkaç gün kalacağız. Temel olarak uzun vadeli filtreler, uzun vadeli 
+piyasa davranışıyla uyumlu olmayan giriş sinyallerini filtreliyor.
+2.2.1. Gün İçi Stratejinin Geliştirilmesi
+Geliştirmek içingün içiICWR olgusunu temel alan stratejide aşağıdaki TA 
+göstergeleri ve kuralları test edilmiştir:
+MA(x): X dönemli mum çubuğu grafiğinden alınan 20 dönemlik basit hareketli ortalama 
+kullanılır. Hareketli ortalamanın gerçek değeri gerçek fiyatın üzerindeyse uzun vadeli sinyal 
+yükselişe işaret eder. Hareketli ortalamanın gerçek değeri gerçek fiyatın altındaysa uzun 
+vadeli sinyal düşüş yönündedir. X, 30 dakika, 1 saat, 4 saat ve 1 günü temsil eder. Örneğin 
+MA(1h), bir saatlik mum grafiğinden 20 dönemlik basit hareketli ortalamada kalır.
+RSI(x; 50/50): X periyodu Göreceli Güç Endeksi (RSI) kullanılır (son 14 değer kullanılarak 
+hesaplanır). RSI'nin gerçek değeri 50'nin üzerindeyse uzun vadeli sinyal yükseliştir. RSI'nin 
+gerçek değeri 50'nin altındaysa uzun vadeli sinyal düşüş eğilimi gösterir. X, 30'u temsil eder
+26
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+dakika, 1 saat, 4 saat ve 1 gün. Örneğin RSI(4h; 50/50), dört saatlik bir mum çubuğu 
+grafiğinden 14 dönemlik Göreceli Güç Endeksi'ni temsil eder.
+RSI(x; 60/40): X periyodu Göreceli Güç Endeksi (RSI) kullanılır (son 14 değer kullanılarak 
+hesaplanır). Uzun vadeli sinyal, RSI'nin gerçek değeri 60'ın üzerindeyse yükseliştir. Uzun vadeli 
+sinyal, eğer RSI'nin gerçek değeri 40'ın altındaysa düşüş eğilimi gösterir. X, 30 dakika, 1 saat, 4 
+saat ve 1 günü temsil eder.
+CCI(x; 0/0): X dönemi Emtia Kanal Endeksi (CCI) kullanılır (son 20 değer kullanılarak 
+hesaplanır). CCI'nın gerçek değeri 0'ın üzerindeyse uzun vadeli sinyal yükseliştir. CCI'nin 
+gerçek değeri 0'ın altındaysa uzun vadeli sinyal düşüş eğilimi gösterir. X, 30 dakika, 1 saat, 
+4 saat ve 1 günü temsil eder.
+CCI(x; 50/-50): X dönemi Emtia Kanal Endeksi (CCI) kullanılır (son 20 değer kullanılarak 
+hesaplanır). CCI'nın gerçek değeri 50'nin üzerindeyse uzun vadeli sinyal yükseliştir. CCI'nin 
+gerçek değeri -50'nin altındaysa uzun vadeli sinyal düşüş eğilimi gösterir. X, 30 dakika, 1 
+saat, 4 saat ve 1 günü temsil eder.
+Aşağıda gösterilen Şekil 2.5'te sonucu görebilirsiniz.2farklı uzun vadeli filtrelerin 
+kullanılması. Kırmızı kalın çizgi, işlemin sonucunu temsil ederolmadanuzun vadeli bir 
+filtre (yaklaşık 2700 pip net kar).
+2Resimlerde gösterilen net sonuç, ICWR Ticaret Kuralları kullanılarak EUR/USD, GBP/USD ve CAD/USD para birimleriyle 
+beş ay boyunca paralel işlem yapıldığında elde edilen ortalama net kârdır. Ortalama, iki yıllık geçmiş geriye dönük 
+testlere dayanarak hesaplanır.
+27
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+5 dakikalık ICWR sinyallerini filtrelemek için farklı TA göstergelerinin analizi
+4000
+3500
+3000
+2500
+2000
+1500
+1000
+500
+0
+Uzun Süreli Filtre Kullanılmış
+Şekil 2.5.
+Yukarıdaki Şekil 2.5'te gösterilen kırmızı çizgiden de görebileceğiniz gibi, stratejimiz uzun 
+vadeli filtre olmadan bile zaten oldukça karlı, ancak bazı uzun vadeli filtrelerle 
+birleştirildiğinde daha da karlı hale geliyor. Örneğin, RSI(1 gün; 50/50) uzun vadeli filtre 
+kullanıldığında, yaklaşık 3900 piplik bir kâr elde edilir; bu, bu filtrenin kullanılmamasına 
+kıyasla %56 daha fazla kâr demektir!
+Uygun uzun vadeli filtrenin, en yüksek verimliliğe sahip olan RSI(1 d; 50/50) 
+olduğu bulundu.
+2.2.2. Uzun Vadeli Stratejiyi Geliştirme
+Geliştirmek içinuzun vadeliICWR fenomenine dayanan strateji, uzun vadeli filtreler 
+MA(1d), RSI(1d; 50/50), RSI(1d; 60/40), CCI(1d; 0/0) ve CCI(1d; 50/-50) ) test edildi.
+Aşağıda gösterilen Şekil 2.6'da farklı uzun vadeli filtrelerin kullanımının sonuçlarını 
+görebilirsiniz.
+28
+Yüksek 
+Lisans 
+(30 
+m)
+Yüksek 
+Lisans 
+(1 
+saat)
+Yüksek 
+Lisans 
+(4 
+saat)
+Yüksek 
+Lisans 
+(1 
+gün)
+RSI 
+(30 
+m; 
+50/50)
+RSI 
+(1 
+saat; 
+50/50)
+RSI 
+(4 
+saat; 
+50/50)
+RSI 
+(1 
+gün; 
+50/50)
+RSI 
+(30 
+m; 
+60/40)
+RSI 
+(1 
+saat; 
+60/40)
+RSI 
+(4 
+saat; 
+60/40)
+RSI 
+(1 
+gün; 
+60/40)
+CCİ 
+(30 
+m; 
+0/0)
+CCI 
+(1 
+saat; 
+0/0)
+CCI 
+(4 
+saat; 
+0/0)
+CCİ 
+(1 
+gün; 
+0/0)
+CCİ 
+(30 
+m; 
+50/-50)
+CCI 
+(1 
+saat; 
+50/-50)
+CCI 
+(4 
+saat; 
+50/-50)
+CCI 
+(1 
+gün; 
+50/-50)
+Net Sonuç [pip]
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+4 saatlik ICWR sinyallerini filtrelemek için farklı TA göstergelerinin analizi
+2700
+2500
+2300
+2100
+1900
+1700
+1500
+Yüksek Lisans (1 gün) RSI (1 gün; 50/50) RSI (1 gün; 60/40) CCİ (1 gün; 0/0) CCI (1 gün; 50/-50)
+Uzun Süreli Filtre Kullanılmış
+Şekil 2.6.
+Kırmızı kalın çizgi stratejimizin sonucunu temsil ediyorolmadanuzun vadeli bir filtre 
+(yaklaşık 2450 pip net kar). Yine gün içi ticarette olduğu gibi ICWR stratejisi zaten 
+oldukça kârlıdır ancak uzun vadeli filtrelerle birleştirildiğinde daha da kârlı hale gelir. 
+Örneğin, uzun vadeli RSI(1 gün; 50/50) filtresini kullanırken 2625 pip civarında bir kâr 
+elde edilir (daha önce sadece 2450 civarındaydı).
+Ticaret kurallarımız için, en yüksek verimliliğe sahip olan RSI(1 gün; 50/50) uzun 
+vadeli filtre olarak seçildi.
+2.3. Tutarlılık kontrolleri
+Bu bölümün başlarında bir stratejinin tutarlı olmasının ne kadar önemli 
+olduğundan bahsetmiştik. Uzun vadede, ticaret işinde sizi başarılı kılacak olan şey, 
+verimliliğinden çok stratejinin tutarlılığıdır.
+29
+Net Sonuç [pip]
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Bu kitapta sunulan strateji oldukça tutarlıdır. Bu açıklamayı yapabilmemiz için 
+yapılan tüm analizleri size göstermek, açıkça bu bölümün kapsamını aşacaktır, 
+çünkü sizi sayfalar dolusu karmaşık istatistiksel şeylerle sıkmak zorunda 
+kalacağız. Bu sizin yatırımınızla alakalı olmadığından size analizimizin yalnızca 
+bir kısmını göstermeye karar verdik. Bu, stratejimizin verilen parametrelerdeki 
+küçük değişikliklere karşı dayanıklı olduğunu gösteren grafiklerdir; bu, forex 
+piyasası davranışındaki hafif bir değişikliği simüle eder.
+Stratejimizin parametreleri şunlardır:
+• Bir hareketin aktif dalga olarak kabul edilecek minimum yüksekliği (gün içi için 40 pip, 
+uzun vadeli işlemler için 150 pip kullanılır)
+• Giriş fiyatı ile kesin durdurma emri arasındaki mesafe (gün içi için 40 pip, uzun 
+vadeli işlemler için 100 pip kullanılır)
+• Piyasanın yükseliş eğilimi gösterdiği kabul edilen minimum RSI değeri (hem gün içi hem de uzun 
+vadeli işlemler için 50'dir)
+• Piyasanın düşüş eğilimi gösterdiği kabul edilen maksimum RSI değeri (hem gün içi hem de uzun 
+vadeli işlemler için 50'dir)
+Bu parametreler, daha sonra 3. "Gün İçi ICWR Ticaret Kuralları" bölümünde ayrıntılı olarak 
+açıklanan ticaret kurallarımızın bir parçasıdır.
+Aşağıda gösterilen Şekillerden de görebileceğiniz gibi (Şekil 2.7 ila 2.12), stratejimiz, 
+parametreler biraz değiştirildiğinde de aynı derecede iyi performans gösterir. Hem Gün İçi 
+ICWR hem de Uzun Vadeli ICWR Ticaret Kuralları için.
+30
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Gün İçi ICWR Ticaret Kurallarının Tutarlılık Analizi
+Minimum Aktif Dalga Yüksekliği
+4500
+4000
+3500
+3000
+2500
+2000
+1500
+1000
+500
+0
+30 35 40 45 50
+Aktif Dalganın Minimum Yüksekliği [pip]
+Şekil 2.7.: Aktif dalganın minimum yüksekliğine bağlı olarak net sonuç [pip]
+thegün içiICWR ticaret kuralları
+Uzun Vadeli ICWR Ticaret Kurallarının Tutarlılık Analizi / Minimum
+Aktif Dalganın Yüksekliği
+3000
+2500
+2000
+1500
+1000
+500
+0
+100 125 150 175 200
+Aktif Dalganın Minimum Yüksekliği [pip]
+Şekil 2.8.: Aktif dalganın minimum yüksekliğine bağlı olarak net sonuç [pip]
+theuzun vadeliICWR ticaret kuralları
+31
+Net Sonuç [pip]
+Net Sonuç [pip]
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Gün İçi ICWR Ticaret Kurallarının Tutarlılık Analizi
+Kesin Duruş Emrinin Giriş Fiyatına Mesafesi
+4500
+4000
+3500
+3000
+2500
+2000
+1500
+1000
+500
+0
+40 45 50 55 60
+Kesin Durdurma Emrinin Giriş Fiyatına Mesafesi [pip]
+Şekil 2.9.: Durdurma emrinin duraktan uzaklığına bağlı olarak net sonuç [pipler]
+için giriş fiyatıgün içiICWR ticaret kuralları
+Uzun Vadeli ICWR Ticaret Kurallarının Tutarlılık Analizi / Uzaklık
+Giriş Fiyatından Sert Durdurma Emri
+3000
+2500
+2000
+1500
+1000
+500
+0
+50 75 100 125 150
+Kesin Durdurma Emrinin Giriş Fiyatına Mesafesi [pip]
+Şekil 2.10.: Durdurma emrinin duraktan uzaklığına bağlı olarak net sonuç [pipler]
+için giriş fiyatıuzun vadeliICWR ticaret kuralları
+32
+Net Sonuç [pip] Net Sonuç [pip]
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Gün İçi ICWR Ticaret Kurallarının Tutarlılık Analizi
+Boğa Piyasası için Minimum RSI / Ayı Piyasası için Maksimum RSI
+4500
+4000
+3500
+3000
+2500
+2000
+1500
+1000
+500
+0
+60/40 50/50 40/60
+Boğa Sinyali için Minimum RSI Değeri / Ayı Sinyali için Maksimum RSI Değeri
+Şekil 2.11.: Minimum/maksimum RSI değerine bağlı olarak net sonuç [pipler]
+piyasa yükseliş/düşüş eğilimi olarak değerlendirildigün içiICWR ticaret kuralları
+Uzun Vadeli ICWR Ticaret Kurallarının Tutarlılık Analizi / Minimum RSI
+Boğa Piyasası için / Ayı için Maksimum RSI
+3000
+2500
+2000
+1500
+1000
+500
+0
+60/40
+Boğa Sinyali için Minimum RSI Değeri / Ayı Sinyali için Maksimum RSI Değeri
+50/50 40/60
+Şekil 2.12.: Minimum/maksimum RSI değerine bağlı olarak net sonuç [pipler]
+piyasa yükseliş/düşüş eğilimi olarak değerlendirildiuzun vadeliICWR ticaret kuralları
+33
+Net Sonuç [pip] Net Sonuç [pip]
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+2.4. Giriş stratejimiz neden bu kadar karlı?
+Şekil 2.13'te stratejimizin ürettiği giriş sinyallerine bakarsanız, giriş sinyallerimizin 
+pazarın gideceği ana yönü tahmin edebildiğini görebilirsiniz. Bu, piyasaya girdikten 
+sonra uzun vadeli bir gün içi dalgayı yakalamamızı ve dolayısıyla önemli miktarda 
+pip almamızı sağlıyor.
+Şekil 2.13.
+Bunun yerine, örneğin yaygın olarak kullanılan bir giriş stratejisiyle, yani 20 dönemlik 
+hareketli ortalamanın 5 dönemlik hareketli ortalamayla kesişmesiyle oluşturulan giriş 
+sinyallerine bakarsanız, girişin çoğunun MA geçişleri tarafından üretilen sinyaller 
+gerçekten düşük kalitededir çünkü ana piyasa eğiliminin ne olacağını tahmin 
+edemezler (bkz. Şekil 2.14).
+34
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Şekil 2.14.
+2.5. Çıkış stratejimiz neden bu kadar karlı?
+Çoğu tüccar, ticarete girmenin ticaretten çıkmaktan daha önemli olduğunu düşünerek hata 
+yapar ve olumlu beklentilere sahip bir giriş stratejisi bulmuşlarsa "iş biter". Hiçbir şey 
+gerçeklerden bu kadar uzak olamaz. Çıkış stratejisi giriş stratejisinden daha önemli olmasa 
+da eşit derecede önemlidir. Ortalama yatırımcılar tarafından kullanılan stratejilerin 
+çoğunda takip eden stop kullanılır. Takip eden bir stop kesinlikle sert bir stoptan daha 
+iyidir, ancak çıkış yerini belirlerken stratejimiz normal takip eden stopların çok ötesine 
+geçer. Devam etmeden önce takip eden stopun anlamını bilmeyenler için takip eden 
+stopun ne olduğunu ve nasıl çalıştığını göstereceğiz.
+Hareket oranı 30 pip olan bir takip eden stop emri şu şekilde çalışır: Diyelim ki saat 
+10:10'da 1,2456 kapanış fiyatından uzun bir pozisyona giriyorsunuz (bkz. Tablo 2.1). 
+Yukarıda tanımlanan çıkış stratejisini kullanarak stop emrinizi 1,2426'ya (1,2456'nın 30 pip 
+altında) koyacaksınız. Bir sonraki kapanış fiyatı son stop emrinden en az 30 pip daha 
+yüksekse, yeni stop emri yeni kapanış fiyatı eksi 30 pip olacaktır. Örneğin sabah 10:15'te 
+1,2490'ın kapanış fiyatı son takip eden stoptan 64 pip daha yüksektir. Bu nedenle yeni takip 
+durağı 1,2460 = 1,2490 – 0,0030 olarak ayarlandı. Ayrıca sabah 10:25'te 1,2495'lik kapanış 
+fiyatı son duraktan 35 pip daha yüksek. Yeni takip durağı şu şekilde ayarlandı:
+35
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+1,2465 = 1,2495 – 0,0030 olsun. Bu örnekte pozisyondan 10:30'da çıkılır çünkü bu dönemin en 
+düşük seviyesi olan 1,259, stop emri olan 1,2465'in altındadır.
+Zaman Düşük Kapalı Eski durdurma emri Yeni durdurma emri Yorum
+Giriş konumu /
+Emri 1,2426'da durdur
+10:10:00 1.2446 1.2456 - 1.2426
+Durdurma emri değiştirildi
+1,2460'a10:15:00 1.2464 1.2490 1.2426 1.2460
+10:20:00 1.2462 1.2483 1.2460 -
+Durdurma emri değiştirildi
+1,2465'e10:25:00 1.2478 1.2495 1.2460 1.2465
+Çıkış konumu /
+1,2465'in altında düşük
+10:30:00 1.2459 1.2479 1.2465 -
+Tablo 2.1.: 30 piplik hareket hızıyla takip eden durdurma
+Peki yukarıda gösterilen takip eden durdurma kullanan çıkış stratejisindeki sorun nedir?
+Takip eden stop kullanan çıkış stratejisinin sorunu, temel temel ticaret kuralı olan 
+"zararları kısa kes ve karların akmasına izin ver" kuralına aykırı çalışmasıdır.
+Ve eğer karınızın akmasına izin vermeyen bir strateji kullanırsanız başınız gerçekten belada demektir.
+Ve neden sondaki durdurmayı kullanan bir çıkış stratejisi bu kurala aykırı çalışıyor? Çoğu zaman 
+böyle bir strateji gereksiz yere başarısızlığa uğradığından, ticaretinizin biraz daha fazla alana 
+ihtiyaç duyduğu anda sizi dışarı çıkarır… Neden? Her piyasa trendi, ne kadar güçlü olursa olsun, 
+aynı zamanda uzun vadeli piyasa trendine karşı hareketler de gösterir. Bu sapmalar genellikle 
+çok uzun sürmez ve sonrasında piyasa yeniden uzun vadeli piyasa eğilimi yönünde hareket 
+eder.
+Şimdi size, takip eden durdurmanın neden en iyi çıkış stratejisi olmadığını gösterecek bir 
+örnek vereceğiz. Bu örnek, Bölüm 7'deki aynı EUR/USD uzun vadeli ticaret örneğine 
+dayanmaktadır. Şekil 2.15 ila 2.18'e bir göz atalım. Diyelim ki pazara uzun süre girdik
+36
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+15/10/04 tarihinde saat 16:00'da 1,2461 fiyatından (bkz. Şekil 2.15) ve ayrıca uzun vadeli ticaret 
+için uygun bir hareket oranı olan 150 piplik takip stopu kullanacağımızı da belirtelim.
+Şekil 2.15.
+26.10.04 saat 04:00'te kapanış fiyatı 1.2802 fiyatına ulaştı (bkz. Şekil 2.16). Bu, takip eden 
+stop kurallarına göre yeni stop emrinin 150 pip aşağıya yerleştirildiği anlamına gelir. Bu, 
+1,2652 = 1,2802 - 0,0150 anlamına gelir.
+Şekil 2.16.
+37
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+28.10.2004 tarihinde saat 12:00'de mum çubuğu stop emrine dokunur ve pozisyondan 
+1.2652 fiyatından çıkılır (bkz. Şekil 2.17).
+Şekil 2.17.
+150 piplik takip stopu kullanan işlemin toplam karı 1,2461 - 1,2652 = 191 pip 
+oldu. Pozisyondan kârla (191 pip) çıkmamıza rağmen, o işlemde mümkün olan 
+pip miktarını alma şansını kaybettik.
+Bu ticarette gerçekte ne kadar kar mümkündü? Bölüm 7'de size açıkça göstereceğimiz gibi, çıkış 
+ticareti kurallarımızı kullanarak bu ticarette 723 pip kar elde ettik. Şekil 2.18'de hem 150 piplik 
+takip stopundan (191 pip) hem de neredeyse dört kat daha yüksek olan çıkış ticaret 
+kurallarımızdan (723 pip) elde edilen karı görebilirsiniz. Basit bir takip stopu kullanmak sadece 
+kayıp piplere (532 pip) yazık olmakla kalmaz, aynı zamanda uzun vadede ticareti kârsız hale 
+getirir: 150 piplik iki kayıp ve ardından 191 piplik kazanç, 109 piplik net kayıpla sonuçlanır. Buna 
+karşılık, 150 piplik iki kaybın ardından 723 piplik bir kazanç, 423 piplik net kazançla sonuçlanır! 
+Anlamını anladın mı?
+38
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Şekil 2.18.
+Takip eden stop stratejisinin temel hatası, piyasa açıkça ticaret yönünde ilerlemesine 
+rağmen (26.10.2004'te neredeyse 400 piplik bir kar marjına zaten ulaşılmıştı) takip 
+eden stopun gerçekleşmemesiydi. ticaretin çalışması için yeterli alan sağlayın. 
+Özellikle, eğer 400 piplik bir kar spread'ine zaten ulaşıldıysa, riske atmak mantıklıdır, 
+diyelim ki 200 pip, işleme karı ikiye, hatta üçe katlama şansı vermek için (sonunda 723 
+pip'e ulaşıldı!).
+Temel olarak kar marjı ne kadar büyük olursa, daha fazla kazanmak için o kadar 
+fazla pip riske girebiliriz. Yine unutmamak gerekir ki, her pozisyon kar getirmez ve 
+sadece zararla yetinmek için değil, aynı zamanda hatırı sayılır bir kar elde etmek 
+için de her karlı işlemden mümkün olan her kuruşun alınması gerekir. İşte tam bu 
+noktada stratejimiz devreye giriyor.
+39
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Ticaret stratejimizin arkasında yapılan araştırma hakkında bir fikir 
+edinebileceğinizi umuyoruz. Bu bölümün karmaşık ve belki de bazen biraz 
+sıkıcı olduğunun farkındayız; ancak mümkün olduğunca kısa ve öz hale 
+getirdik. ICWR stratejisini oluşturmak için gereken tüm testleri ve 
+hesaplamaları dahil etmiş olsaydık, en az birkaç yüz sayfaya ihtiyacımız 
+olurdu… Bir sonraki bölümde, ICWR stratejisinin bilmeniz gereken her yönü 
+gösterilecektir. başarıyla uygulayabiliyoruz. Sabrınız için teşekkür ederiz.☺
+40
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Bölüm 3
+Gün içi ICWR
+Ticaret Kuralları
+Ticaret stratejimizi açıklamak amacıyla Esignal grafik yazılımını kullanacağız. Hangi yazılımı ve 
+hangi ticaret platformunu kullanacağınız tamamen size bağlıdır, ancak kurulumumuz size 
+yazılımınızın hangi yeteneklere sahip olması gerektiği konusunda genel bir fikir verecektir. 
+Örneklerimiz EUR/USD, USD/CAD ve GBP/USD ile ilgili olacaktır. Temel olarak Kanada'da 
+yaşıyorsanız USD/CAD ticareti yapmanızı öneririz, Avustralya'da yaşıyorsanız USD/AUD ticareti 
+yapmalısınız, Doğu Asya'da yaşıyorsanız USD/JPY ticareti yapmalısınız, Birleşik Krallık'ta 
+yaşıyorsanız ikisinden de ticaret yapmalısınız USD/GBP veya EUR/GBP, Avrupa Birliği'nde 
+yaşıyorsanız EUR/USD ticareti yapmanız en iyisidir ve son olarak Amerika Birleşik Devletleri'nde 
+yaşıyorsanız, en aşina olduğunuz para birimine karşı USD ticareti yapmalısınız. (EUR, JPY, GBP, 
+CAD, SFR). Aşina olduğunuz para birimiyle işlem yapmanın, hiç kullanmadığınız para birimleriyle 
+işlem yapmaya kıyasla birçok avantajı vardır. Örneğin, Kanada'da yaşayan bir kişi, son on yıl 
+veya daha uzun süre boyunca CAD ile USD arasındaki yaklaşık aralığı hatırlıyor ve bu para 
+birimlerini Japonya'daki ortalama bir kişiden çok daha iyi anlıyor. Bu stratejide açıklanan ilke ve 
+kurallar, yukarıdaki para birimlerinden herhangi birinin ticaretinde kullanılabilir.
+Gün İçi ICWR Ticaret Kuralları aşağıdakilerden oluşur:
+• Beş dakikalık bir mum çubuğu grafiği kullanılarak dürtüsel/düzeltici dalga geri çekilme kırılmaları 
+tarafından oluşturulan giriş sinyalleri
+• Beş dakikalık mum çubuğu grafiğinden yükseliş veya düşüş yönlü giriş sinyalini doğrulamak 
+için 1 günlük bazlı 14 dönemlik Göreceli Güç Endeksi (RSI) momentum göstergesi tarafından 
+oluşturulan giriş onay filtreleri
+41
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+• Beş dakikalık bir mum çubuğu grafiği kullanılarak ani/düzeltici dalga geri çekilme kırılmaları 
+tarafından oluşturulan çıkış sinyalleriveya Beş dakikalık bir mum grafiği kullanarak 50 piplik sert 
+stop emriyle
+Gördüğünüz gibi stratejimiz giriş ve çıkış sinyallerine eşit derecede önem veriyor ve bu, mevcut 
+stratejilerin çoğundan büyük ölçüde farklılaştığı nokta. Öncelikle size, ani/düzeltici dalga geri 
+çekilmeleri tarafından üretilen piyasa sinyallerini nasıl tanıyacağınızı göstereceğiz (bkz. bölüm 3.1). 
+Ardından, 1 günlük tabanlı 14 dönemlik RSI momentum göstergesiyle filtrelenen ani/düzeltici dalga 
+geri çekilmeleri tarafından oluşturulan piyasa sinyallerini kullanarak ne zaman bir ticarete 
+gireceğinizi göstereceğiz (bkz. bölüm 3.2). Son olarak, dürtüsel/düzeltici dalga geri çekilmesinin 
+oluşturduğu çıkış sinyali nedeniyle bir işlemden ne zaman çıkmanız gerektiğini size göstereceğiz. 
+veya 50 piplik sert durdurma emriyle (bkz. bölüm 3.3).
+3.1. ICWR tarafından oluşturulan piyasa sinyalleri
+Gün İçi ICWR Ticaret Kurallarını uygulamaya başlamadan önce yapılacak ilk şey, 
+mum grafiğinden dürtüsel veya düzeltici dalga olmaya gerçek adayı tanımaktır. 
+Bundan sonra arayacağımız bu adayaktif dalga. Aktif dalganın mum çubuğu 
+grafiğinden nasıl tanınacağı bölüm 3.1.1'de gösterilmiştir.
+Aktif dalgayı fark ettikten sonra Gün İçi ICWR Ticaret Kurallarını uyguluyoruz. Bu 
+kurallara dayanarak stratejimiz, uzun veya kısa tarafta ticarete girmek ve çıkmak için 
+kullanılabilecek yükseliş veya düşüş sinyalleri üretir. Aktif bir dalga fark edildiğinde 
+Gün İçi ICWR Ticaret Kurallarının nasıl uygulanacağı bölüm 3.1.2'de gösterilmektedir.
+3.1.1. Aktif dalganın tanınması
+Aktif dalga, işlemimizin gerçek zamanına en yakın piyasa hareketidir. 
+yükseklik 40 pipten büyük. Mum grafiğinden aktif dalgayı bulmak için 
+aşağıdaki adımlar atılmalıdır:
+Öncelikle Şekil 3.1'de gösterildiği gibi mum grafiğinde 40 pips'e yakın veya daha büyük 
+görünen tüm olası yukarı ve aşağı dalgaları belirleyin.
+42
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Şekil 3.1.
+Daha sonra Şekil 3.2'de gösterildiği gibi başlangıç   ve bitiş noktalarının uç değerlerini 
+birleştirerek dalgaları çizin. Dalga aşağıya doğru giderse başlangıç   noktasının yüksek 
+değerini bitiş noktasının düşük değerine bağlayacağız. Aksi takdirde dalga yukarı doğru 
+giderse başlangıç   noktasının düşük değerini bitiş noktasının yüksek değerine 
+bağlayacağız.
+Şekil 3.2.
+Şekil 3.3'te gösterildiği gibi gerçek zamana en yakın dalgadan başlayarak dalgaları 
+numaralandırın. Lütfen gerçek saatin her zaman mum grafiğinin sağında olduğuna dikkat edin.
+43
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Şekil 3.3.
+Daha sonra her dalganın uç değerlerini okuyun ve yüksekliğini hesaplayın.
+1. Dalga:
+Yüksek = 1,3493; Düşük = 1,3439;
+Yükseklik = Yüksek – Düşük = 1,3493– 1,3439= 0,0044 = 44 pip
+2. Dalga:
+Yüksek = 1,3495; Düşük = 1,3448;
+Yükseklik = Yüksek – Düşük = 1. 3495– 1. 3448= 0,0047 = 47 pip
+3. Dalga:
+Yüksek = 1,3499; Düşük = 1,3450;
+Yükseklik = Yüksek – Düşük = 1. 3499– 1. 3450= 0,0049 = 49 pip
+Son olarak, yüksekliği 40 pipse eşit veya daha büyük olan gerçek zaman konumuna en 
+yakın hareketi belirleyin. Bu örnekte 1. dalgadır. Bu artık aktif dalgadır (bkz. Şekil 3.4).
+44
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Şekil 3.4.
+Dalgalardan hiçbirinin yüksekliği 40 pip'in üzerinde değilse, aktif dalga bulunana kadar 
+geçmişte daha ileri gitmeniz gerekir.
+Zaman geçtikçe yüksekliği 40 pip'in üzerinde olan yeni bir hareket meydana gelecektir. Bu 
+durumda önceki aktif dalga pasif hale gelir ve yeni aktif dalgayı elde ederiz (bkz. Şekil 3.5).
+Şekil 3.5.
+45
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+3.1.2. Gün İçi ICWR Ticaret Kurallarını aktif bir dalgaya uygulamak
+Her yeni aktif dalga fark edildiğinde Fibonacci seviyeleri çizilecektir (bkz. Şekil 3.6). 
+Yalnızca 0.000, 0.250, 0.382, 0.618, 0.750 ve 1.000 seviyelerini çizeceğiz. 0,000 düzeyi 
+en düşük uç değerle, 1,000 düzeyi ise en yüksek uç değerle tanımlanır. Fibonacci 
+seviyeleri dalganın bitiş noktalarında başlar. Çoğu yazılım paketi bunu sizin için 
+otomatik olarak yapacaktır ancak yazılımınızda böyle bir özellik yoksa manuel olarak 
+da yapabilirsiniz. Aşağıdaki örnekte düşük değeri yüksek değerden (1,3317 – 1,3257) 
+çıkarırsınız ve 0,006 veya 60 piplik bir yükseklik elde edersiniz. Daha sonra Fibonacci 
+seviyelerini elde etmek için aşağıdaki formülleri kullanırsınız.
+0,25 Düzey = Düşük Değer + 0,25 * Yükseklik
+0,25 Düzey = 1,3257 + 0,25 * 0,0060 = 1,3272
+0,382 Düzey = Düşük Değer + 0,382 * Yükseklik
+0,618 Düzey = Düşük Değer + 0,618 * Yükseklik
+0,75 Düzey = Düşük Değer + 0,75 * Yükseklik
+Şekil 3.6.
+46
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+0,382 seviyesi şunları tanımlar:daha düşük geri çekilme seviyesi, seviye 0.618Üst 
+geri çekilme seviyesi.The geri çekilme kanalıüst ve alt geri çekilme seviyeleri 
+arasındaki kanaldır:
+Şekil 3.7.
+0,250 seviyesi şunları tanımlar:daha düşük onay seviyesi0,750 seviyesi,üst 
+onay seviyesi:
+Şekil 3.8.
+47
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+0.000 ve 1.000 seviyelerinin ticari önemi yoktur. Yalnızca Fibonacci seviyelerinin 
+düzgün çizildiğini teyit etmek için çekilirler.
+Gün İçi ICWR Trading ayarları yapıldı, şimdi piyasanın bize ne söylediğini görmemiz 
+gerekiyor. Öncelikle sadece geri çekilme kanalına odaklanacağız. Geri çekilme kanalı 
+tetiklenene kadar bekliyoruz. Ancak o zaman onay seviyelerini kullanabiliriz.
+Bir mum çubuğunun kapanış fiyatı geri çekilme kanalının içinde olduğunda geri 
+çekilme kanalı tetiklenir.
+Şekil 3.9.
+Geri çekilme kanalına girildiğinde bunu unutacağız ve yalnızca teyit seviyelerine 
+odaklanacağız. Aşağıdaki dört durum artık mümkündür:
+Durum 1. “Aşağıya doğru itici dalga”
+Aktif dalga giderseaşağı doğruvetümMum çubuğu alt onay seviyesinin (0,250) 
+altına inerse, bu dalgayı itici bir dalga olarak tanımlarız. Bölüm 1'e göre, itici 
+dalgalar piyasa eğilimi yönünde ilerliyor. Dalganın eğiliminin düşüş yönlü olması 
+(aşağı doğru ilerledikçe) bize gerçek piyasa eğiliminin de düşüş yönlü olduğu 
+bilgisini veriyor. Bu birdüşüş eğilimisinyal. Böyle bir düşüş sinyali Şekil 3.10'da 
+gösterilmektedir. altında.
+48
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Şekil 3.10.
+Mum çubuğunun alt teyit seviyesinin altında olduğunu söylediğimizde aslında şunu kast 
+ettiğimizi lütfen unutmayın.tümMum çubuğu alt onay seviyesinin altındadır. Bu, Şekil 
+3.11'de gösterilmektedir. altında.
+Şekil 3.11.
+Durum 2 “Yukarı doğru itici dalga”
+Aktif dalga giderseyukarıvetümMum çubuğu üst onay seviyesinin (0,750) 
+üzerine çıkarsa, bu dalgayı tekrar itici bir dalga olarak tanımlarız. Bölüm 1'e 
+göre, itici dalgalar piyasa eğilimi yönünde ilerliyor. Bunda olduğu gibi
+49
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Dalganın trendinin yükseliş yönünde olması durumunda (yukarı doğru ilerledikçe) bu bize gerçek piyasa 
+trendinin de yükseliş yönünde olduğu bilgisini veriyor. Bu biryükselişsinyal.
+Şekil 3.12.
+Durum 3 “Aşağı doğru düzeltici dalga”
+Aktif dalga giderseaşağı doğruvetümMum çubuğu üst onay seviyesinin (0,750) üzerine 
+çıkarsa aktif dalga düzeltici bir dalgadır. Bölüm 1'e göre düzeltici dalgalar piyasa eğiliminin 
+tersi yönde ilerlemektedir. Bu durumda dalganın eğilimi düşüş yönlü olduğundan (aşağıya 
+doğru ilerledikçe) bize gerçek piyasa eğiliminin aktif dalganın eğiliminin tersi olduğu ve 
+dolayısıyla yükseliş yönünde olduğu bilgisini veriyor. Bu biryükselişsinyal. Böyle bir 
+yükseliş sinyali Şekil 3.13'te gösterilmektedir. altında.
+50
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Şekil 3.13.
+Durum 4 “Yukarı doğru düzeltici dalga”
+Aktif dalga giderseyukarıvetümMum çubuğu alt onay seviyesinin (0,250) altına 
+indiğinde aktif dalga düzeltici bir dalgadır. Bölüm 1'e göre düzeltici dalgalar piyasa 
+eğiliminin yönünün tersine gidiyor. Bu durumda dalganın eğilimi yükseliş eğiliminde 
+olduğundan (yukarı doğru ilerledikçe), bize gerçek piyasa eğiliminin aktif dalganın 
+eğiliminin tersi olduğu ve dolayısıyla düşüş yönünde olduğu bilgisini veriyor. Bu bir
+düşüş eğilimisinyal.
+Şekil 3.14.
+51
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Tamam, bu işlerin biraz karmaşık olduğunu biliyoruz. Ama cesaretiniz kırılmasın! Artık 
+her şey sizin için daha net hale gelecektir. Şimdi size düşüş veya yükseliş sinyallerini 
+tanımanın kurallarını en basit şekilde bir kez daha açıklayacağız. Bunun anlamı, sonunda 
+sahip olduğun şeyGerçektenticaret için anlamak.
+Stratejimizde iki farklı yükseliş sinyali senaryosu ve iki düşüş sinyali senaryosu 
+bulunmaktadır.
+Ayükselişaktif dalga bir sinyal olarak tanınırsa sinyal oluşuraşağı doğru düzeltici dalga (bkz. 
+Şekil 3.15. altında). Bu, aktif dalganın aşağıya doğru olduğu ve mum çubuğunun tamamının 
+üst teyit seviyesinin (0,750) üzerinde bulunduğu anlamına gelir.
+Ayükselişaktif dalga bir dalga olarak tanınırsa da sinyal oluşur.yukarı doğru itici dalga (bkz. 
+Şekil 3.15. altında). Bu, aktif dalganın yukarı yönlü olduğu ve mum çubuğunun tamamının üst 
+teyit seviyesinin (0,750) üzerinde bulunduğu anlamına gelir.
+Adüşüş eğilimiaktif dalga bir sinyal olarak tanınırsa sinyal oluşuraşağı doğru itici dalga (
+bkz. Şekil 3.15. altında). Bu, aktif dalganın aşağıya doğru olduğu ve mum çubuğunun 
+tamamının alt onay seviyesinin (0,250) altında bulunduğu anlamına gelir.
+Adüşüş eğilimiaktif dalga bir dalga olarak tanınırsa da sinyal oluşur.yukarı doğru düzeltici dalga 
+(bkz. Şekil 3.15. altında). Bu, aktif dalganın yukarı yönlü olduğu ve mum çubuğunun tamamının alt 
+teyit seviyesinin (0,250) altında bulunduğu anlamına gelir.
+Lütfen her seferinde geri çekilme kanalına girildiğinden emin olmamız gerektiğini unutmayın. 
+Bu, düzeltici dalgalar için oldukça açıktır ancak itici dalgalar için değildir. Bu yüzden lütfen 
+buna dikkat edin.
+52
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Şekil 3.15.
+53
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Şekil 3.16'da gösterildiği gibi lütfen unutmayın. bunun altında yeni bir aktif dalga 
+fark edildiğinde yeni Fibonacci seviyeleri çizilir ve önceki aktif dalganın mevcut 
+Fibonacci seviyeleri silinir.
+Şekil 3.16.
+Şekil 3.17'de. Aşağıda gösterilen şekilde piyasanın bize sürekli olarak nasıl farklı işlem sinyalleri 
+sağladığını gözlemleyebilirsiniz.
+Şekil 3.17.
+54
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+3.2. Bir ticarete ne zaman girilmeli
+Kısacası, dürtüsel/düzeltici dalga düzeltmesi (bölüm 3.1'de gösterildiği gibi) tarafından üretilen 
+bir sinyal, 1 günlük 14 dönemlik Göreceli Güç Endeksi tarafından onaylandığında bir ticarete 
+gireceğiz.
+Etkileyici/düzeltici dalga geri çekilmesinin ürettiği sinyal yükseliş yönlüyse, RSI'nın 
+50'den büyük olmasını isteriz.
+Etkileyici/düzeltici dalga geri çekilmesinin ürettiği sinyal düşüş eğilimi gösteriyorsa, RSI'nin 
+50'den düşük olmasını isteriz.
+Şekil 3.18'de. Aşağıda iki ekranın kurulumunu görebiliriz. Sol tarafta 5 dakikalık bir mum grafiği var. 
+Sağ tarafta, aşağıda RSI sinyalinin yer aldığı 1 günlük mum çubuğu grafiği bulunmaktadır. 29.09.04'te 
+görebileceğiniz gibi RSI 50'nin altında ve dolayısıyla düşüş eğiliminde. Bu, o gün piyasaya açık 
+pozisyona girmek için yalnızca ani/düzeltici dalga geri çekilmelerinin ürettiği düşüş sinyallerini 
+kullandığımız anlamına geliyor. 30.09.04'ün aksine RSI 50'nin üzerinde ve dolayısıyla yükseliş 
+eğiliminde. Bu, o gün piyasaya uzun süre girmek için yalnızca ani/düzeltici dalga geri çekilmeleri 
+tarafından oluşturulan yükseliş sinyallerini kullandığımız anlamına gelir. 31.09.04 tarihinde yine kısa 
+vadeli piyasaya girmek için yalnızca ani/düzeltici dalga geri çekilmeleri tarafından üretilen düşüş 
+sinyallerini kullanıyoruz...
+Şekil 3.18.
+55
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+3.3. Bir işlemden ne zaman çıkılmalı
+BizimanaÇıkış stratejisi, dürtüsel/düzeltici dalga geri çekilmelerine (giriş uyarı 
+sinyaliyle aynı şekilde) dayalı olarak ters bir piyasa sinyali (giriş sinyalimizin tersi) 
+aramaktır. Ek olarak (sadeceuğrunagüvenlik) bir pozisyona girdikten sonra 50 
+piplik bir stop emri veriyoruz çünkü bir işlemde 50 pipten fazlasını kaybetmek 
+istemiyoruz.
+Piyasaya uzun süre girilmişse, ya dürtüsel/düzeltici dalga geri çekilmesi (bölüm 3.1'de 
+gösterildiği gibi) tarafından bir düşüş sinyali oluşturulduğu için ya da giriş fiyatının 50 
+pip altındaki sert durdurma emri nedeniyle bir pozisyondan çıkılacaktır.
+Eğer piyasaya kısa girildiyse, ya dürtüsel/düzeltici dalga geri çekilmesi (bölüm 3.1'de 
+gösterildiği gibi) tarafından bir yükseliş sinyali üretildiği için ya da giriş fiyatının 50 pip 
+üzerindeki sert durdurma emri nedeniyle bir pozisyondan çıkılacaktır.
+Şekil 3.19'da. Aşağıdaki piyasaya kısa girildiikisi birdenDarbeli/düzeltici dalga 
+düzeltmesi (ICWR) ve RSI tarafından üretilen sinyaller düşüş eğilimindeydi. 
+Pozisyon 29/09/04 tarihinde saat 08:20'de 1,8091 fiyatından girildi. Pozisyona 
+girdikten hemen sonra, giriş fiyatının 50 pip üzerinde (bu durumda 1,8091 + 0,0050 
+= 1,8141) bir hard stop emri verilir. Bu ticarette stop emri tetiklenmez. 30.09.04 
+saat 13:45'te ani/düzeltici dalga geri çekilmesi (ICWR) tarafından bir yükseliş sinyali 
+üretildiği için pozisyondan çıkıldı.
+56
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Şekil 3.19.
+Bu bölümde “Gün İçi ICWR Ticaret Kurallarımız” ile tanıştınız. Artık “Gün İçi ICWR 
+Ticaret Kurallarımızı” çalışırken görebilmeniz için stratejimizi kullanarak gerçek 
+ticaret örneklerini adım adım ilerlemenin zamanı geldi.
+57
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Bölüm 4
+Gün içi EUR/USD
+Ticaret Örneği
+Bu örnekte EUR/USD ticareti yapacağız.
+Tamam, işlem günümüze başlamadan önce ekranlarımızı kurmamız gerekiyor (bkz. Şekil 4.1). 
+Sol ekrana beş dakikalık bir mum çubuğu grafiği ve sağ ekrana 14 dönemlik RSI (kalın mavi 
+çizgi) ile birlikte bir günlük mum çubuğu grafiği yerleştireceğiz. Grafik yazılımı genellikle RSI'yi 
+30 ve 70 çizgileriyle birlikte otomatik olarak görüntüler (30'un altı aşırı satışı, 70'in üstü aşırı 
+alımı temsil eder). Bizim durumumuzda aşırı satış veya aşırı alım sinyalleri aramıyoruz. 
+Piyasanın yükseliş veya düşüş eğiliminde olmasını bekliyoruz. Bu, RSI'nin 50'nin üzerinde 
+(yükseliş) veya 50'nin altında (düşüş) olmasıyla temsil edilir. Bu yüzden sadece 50 merkez 
+çizgisini (siyah çizgi) çizmemiz gerekiyor.
+Şekil 4.1.
+Artık başlamaya hazırız. Diyelim ki işlem gününüze 23.11.04 tarihinde saat 08:00'de başladınız. 
+O zaman fiyat 1,2995'ti. Sağdaki ekrandan görebileceğiniz gibi RSI 50'nin üzerinde ve dolayısıyla 
+yükseliş eğiliminde. Dolayısıyla bugün piyasaya uzun giriş için yalnızca yükseliş sinyali arıyoruz.
+58
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+Şekil 4.2.
+Yapılacak bir sonraki şey aktif dalgayı tanımaktır. Bunun için başlangıç   pozisyonumuza en 
+yakın, yüksekliği 40 pip'in üzerinde olan piyasa hareketini arayacağız.
+Tamam, aktif dalgayı bulmak için aşağıdaki adımların yapılması gerekiyor:
+Öncelikle başlangıç   noktasının yüksek değerini bitiş noktasının düşük değerine 
+bağlayarak olası tüm dalgalar (siyah çizgiler) çizilir ve ardından gerçek zamana en yakın 
+dalgadan başlanarak dalgalar numaralandırılır (bkz. Şekil 4.3).
+59
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Şekil 4.3.
+İkinci olarak her dalganın uç değerlerini okuyun ve yüksekliğini hesaplayın.
+1. Dalga:
+Yüksek = 1,3005; Düşük = 1,2986;
+Yükseklik = Yüksek – Düşük = 1,3005 – 1,2986= 0,0019 = 19 pip
+2. Dalga:
+Yüksek = 1,3002; Düşük = 1,2986;
+Yükseklik = Yüksek – Düşük = 1,3002 – 1,2986= 0,0016 = 16 pip
+3. Dalga:
+Yüksek = 1,3002; Düşük = 1,2971;
+Yükseklik = Yüksek – Düşük = 1,3002 – 1,2971= 0,0031 = 31 pip
+4. Dalga:
+Yüksek = 1,3039; Düşük = 1,2971;
+Yükseklik = Yüksek – Düşük = 1,3039 – 1,2971= 0,0068 = 68 pip
+Başlangıç   pozisyonumuza 40 pip'ten daha büyük bir yüksekliğe sahip en yakın 
+hareket 4. dalgadır. Yani bu bizim şu anki aktif dalgamızdır. Diğer hareketlerin 
+hepsinin yüksekliği 40 pip'in altındaydı ve bu nedenle dikkate alınmıyor (işlemlerimiz 
+boyunca bu tür hareketlere dikkat etmeyeceğiz).
+60
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+4. dalga artık mevcut aktif dalgamızdır (bkz. Şekil 4.4'teki mavi çizgi).
+Şekil 4.4.
+Şimdi görev, Gün İçi ICWR Ticaret Kurallarını uygulamaktır.
+Bu, ilk önce 0,000, 0,250, 0,382, 0,682, 0,750 ve 1,000 Fibonacci seviyelerinin, başlangıç   noktası 
+olarak düşük (seviye 0,000) ve bitiş noktası olarak yüksek (seviye 1,000) kullanılarak 
+yerleştirildiği anlamına gelir. 0,382 ile 0,618 arasındaki seviyeler geri çekilme kanalını tanımlar. 
+0,250 ve 0,750 seviyeleri teyit seviyelerini tanımlar. Bkz. Şekil 4.5.
+61
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+Şekil 4.5.
+Tamam, Fibonacci seviyeleri yerleştirildi, şimdi piyasanın bize ne söylediğini görmek üzereyiz
+23.11.2004 saat 11:30'da mum çubuğu üst onay seviyesinin (Fibonacci seviyesi 0.750) 
+üzerindedir. Aktif dalganın aşağı yönlü bir hareketi olduğundan ve mum çubuğu üst teyit 
+seviyesinin üzerinde olduğundan, aktif dalgayı aşağı doğru düzeltici bir dalga olarak 
+tanımlıyoruz. 3. “Gün İçi ICWR Ticaret Kuralları” bölümünde açıklandığı gibi bu bir yükseliş 
+sinyalidir. Bkz. Şekil 4.6.
+Şekil 4.6.
+62
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Bu yükseliş sinyalinin Göreceli Güç Endeksi (RSI) ile doğrulanması gerekiyor. RSI 50'nin üzerindeyse 
+bu yükseliş demektir ve pazara gireriz. RSI 50'nin altındaysa düşüş eğilimi gösterir, yani tam tersi olur 
+ve piyasaya girmeyiz. Bugün daha önce de söylediğimiz gibi RSI (Şekil 4.7'deki mavi çizgi) 50 merkez 
+çizgisinin (siyah çizgi) üzerinde ve dolayısıyla yükseliş eğiliminde.
+Şekil 4.7.
+Gibiikisi birdensinyaller yükseliş yönünde. 23.11.2004 tarihinde saat 11:30'da 1,3032 fiyatından 
+işleme giriyoruz (bkz. Şekil 4.8). Mesela 10.000 USD'yi 1,3032 fiyatına satıyoruz.
+Şekil 4.8.
+Tamam, şimdi pozisyonumuzdan çıkmadan önce piyasanın ne kadar ilerlemesine izin vereceğimizi bulmak 
+üzereyiz.
+63
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+Öncelikle giriş fiyatının 50 pip altına stop emri veriyoruz. Bu, 1,3032 - 0,0050 = 1,2982 anlamına 
+gelir. Aşağıdaki resimde kalın kırmızı yatay çizgi ile temsil edilmektedir (Şekil 4.9). Daha önce de 
+söylediğimiz gibi, sert durdurma emrinin yalnızca güvenlik amacıyla verildiğine lütfen dikkat 
+edin, çünkü tek bir işlemde 50 pipten fazlasını kaybetmek istemiyoruz.
+Şekil 4.9.
+Aslında bizimanaÇıkış stratejisi, dürtüsel/düzeltici dalga geri çekilmesiyle 
+üretilen karşıt sinyali aramaktır (giriş uyarı sinyaliyle aynı şekilde).
+Bu örnekte piyasaya uzun giriş yaptığımızda düşüş sinyali arıyoruz. Görev, tüm mum 
+çubuğunun alt onay seviyesinin altında olup olmadığını aramaktır (itici bir dalga 
+durumunda geri çekilme kanalına girdikten sonra). Böyle bir durumda pozisyondan 
+çıkarız. Her yeni dalga fark edildiğinde yeni Fibonacci seviyeleri çizilir ve eski Fibonacci 
+seviyeleri devre dışı kalır. Bu prosedür bir çıkış sinyali oluşana kadar tekrarlanır.
+Tamam, 11:30'da açtığımız pozisyona bakalım. 11:30 ile 13:00 arasında düşüş sinyali 
+oluşmaz. Yani ticaretten çıkmıyoruz.
+Bu örnekte düşüş sinyalinin çıkış sinyali olduğunu unutmayın.
+64
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Saat 13:00 civarında, 23.11.04 saat 10:55'te başlayıp 12:00'de biten yukarı yönlü 
+hareketle temsil edilen yeni bir aktif dalgayı fark ediyoruz. Yeni aktif dalganın 
+başlangıcı ve sonu Şekil 4.10'da kırmızı oklarla işaretlenmiştir.
+Şekil 4.10.
+Yeni Fibonacci seviyeleri çiziliyor. Eskileri artık etkin değil (bkz. Şekil 4.11).
+Şekil 4.11.
+65
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+Bu aktif dalga için herhangi bir çıkış sinyali oluşmaz. Bunun yerine, saat 14:00 civarında, 23.11.04 
+tarihinde 13:05'te başlayıp 13:40'ta biten yukarı yönlü hareketle temsil edilen yeni bir aktif dalgayı 
+fark ediyoruz. Bkz. Şekil 4.12.
+Şekil 4.12.
+Yeni Fibonacci seviyeleri çizilir ve eskileri kaldırılır (bkz. Şekil 4.13). Şimdi yine alt 
+onay seviyesinin altına inen bir mum çubuğu arıyoruz.
+Şekil 4.13.
+66
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+24.11.04 tarihinde bir kez daha saat 12:00 civarında, bir çıkış sinyali oluşmadan önce yeni 
+bir aktif algılandı. Yeni aktif dalga, 24.11.2004 saat 08:20'de başlayıp 11:35'te biten yukarı 
+yönlü hareketle temsil ediliyor. Bkz. Şekil 4.14.
+Şekil 4.14.
+Yeni Fibonacci seviyeleri çizilir ve eskileri kaldırılır (bkz. Şekil 4.15).
+Şekil 4.15.
+Bu şimdi birkaç kez oluyor.
+25.11.04 günü saat 13:00 civarında, çıkış sinyali oluşmadan önce yeni bir aktif 
+dalga fark edildi. Yeni aktif dalga, 25.11.04 saat 11:10'da başlayıp 12:35'te biten 
+yukarı yönlü hareketle temsil ediliyor. Bkz. Şekil 4.16.
+Şekil 4.16.
+67
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+Yeni Fibonacci seviyeleri çizilir ve eskileri kaldırılır (bkz. Şekil 4.17).
+Şekil 4.17.
+Yine 25.11.04 günü saat 18.00 civarında, çıkış sinyali oluşmadan önce yeni bir aktif 
+dalga fark edildi. Yeni aktif dalga, 25.11.04 saat 15:00'te başlayıp 16:50'de biten 
+yukarı yönlü hareketle temsil ediliyor. Bkz. Şekil 4.18.
+Şekil 4.18.
+Yeni Fibonacci seviyeleri çizilir ve eskileri çıkarılır (bkz. Şekil 4.19).
+68
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+Şekil 4.19.
+26.11.04 günü yine saat 00:00 sıralarında çıkış sinyali oluşmadan yeni bir dalga 
+fark edildi. Yeni aktif dalga, 25.11.04 saat 20:00'da başlayıp 22:55'te biten 
+yukarı yönlü hareketle temsil ediliyor. Bkz. Şekil 4.20.
+Şekil 4.20.
+Yeni Fibonacci seviyeleri çizilir ve eskileri çıkarılır (bkz. Şekil 4.21).
+69
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+Şekil 4.21.
+Yine 26.11.04 günü saat 07:30 sıralarında çıkış sinyali oluşmadan yeni bir dalga 
+fark edildi. Yeni aktif dalga, 26.11.04 saat 02:40'ta başlayıp 07:15'te biten yukarı 
+yönlü hareketle temsil ediliyor. Bkz. Şekil 4.22.
+Şekil 4.22.
+Yeni Fibonacci seviyeleri çizilir ve eskileri kaldırılır (bkz. Şekil 4.23).
+70
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+Şekil 4.23.
+Yine 26.11.04 günü saat 08:15 civarında çıkış sinyali oluşmadan yeni bir dalga 
+fark edildi. Yeni aktif dalga, 26.11.04 saat 07:20'de başlayıp 08:05'te biten 
+yukarı yönlü hareketle temsil ediliyor. Bkz. Şekil 4.24.
+Şekil 4.24.
+Yeni Fibonacci seviyeleri çizilir ve eskileri kaldırılır (bkz. Şekil 4.25).
+71
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+Şekil 4.25.
+Saat 08:30 civarında piyasa eğilimi tersine dönmeye başlar (bkz. Şekil 4.26.). 26.11.04 
+saat 09:00'da mum çubuğu alt onay seviyesinin (Fibonacci seviyesi 0.250) altındadır. 
+Aktif dalganın bir özelliği olduğundanaşağı doğruhareket ve mum çubuğu alt onay 
+seviyesinin altındaysa, aktif dalgayı aşağı doğru itici bir dalga olarak tanımlarız. 3. “Gün 
+İçi ICWR Ticaret Kuralları” bölümünde açıklandığı gibi bu bir düşüş sinyalidir. Lütfen, 
+itici bir dalganın tanınması için geri çekilme kanalının geçilmesinin önemli olduğuna 
+dikkat edin. Bu, kapanış fiyatının geri çekilme kanalının içinde olması nedeniyle 
+08:30'da meydana geldi.
+72
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+Şekil 4.26.
+Düşüş sinyali nedeniyle 26.11.2004 saat 09:00'da pozisyon kapatılarak 1.3280 fiyatından 
+10.000 USD satın alındı.
+Gün İçi ICWR Ticaret Kurallarını kullanmanın sonunda 248 pip 
+kar= (1,3280 – 1,3032) = 0,0248
+başarıldı (bkz. Şekil 4.27).
+1:20 kaldıraç kullanıldığında bunun anlamı
+10.000 USD x (0,0248 pip) x 20 kaldıraç = 4.960 USD!
+Gün İçi ICWR Ticaret Kurallarını kullanarak üç işlem günü için 4.960 USD 
+kar!
+73
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+Şekil 4.27.
+74
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+Bölüm 5
+Gün içi CAD/USD
+Ticaret Örneği
+Bu örnekte CAD/USD ticareti yapacağız.
+Tamam, işlem günümüze başlamadan önce ekranlarımızı kurmamız gerekiyor (bkz. Şekil 5.1). 
+Sol ekrana beş dakikalık bir mum çubuğu grafiği ve sağ ekrana 14 dönemlik RSI (kalın mavi 
+çizgi) ile birlikte bir günlük mum çubuğu grafiği yerleştireceğiz. Grafik yazılımı genellikle RSI'yi 
+30 ve 70 çizgileriyle birlikte otomatik olarak görüntüler (30'un altı aşırı satışı, 70'in üstü aşırı 
+alımı temsil eder). Bizim durumumuzda aşırı satış veya aşırı alım sinyalleri aramıyoruz. 
+Piyasanın yükseliş veya düşüş eğiliminde olmasını bekliyoruz. Bu, RSI'nin 50'nin üzerinde 
+(yükseliş) veya 50'nin altında (düşüş) olmasıyla temsil edilir. Bu yüzden sadece 50 merkez 
+çizgisini (siyah çizgi) çizmemiz gerekiyor.
+Şekil 5.1.
+Artık başlamaya hazırız. Diyelim ki işlem gününüze 11/03/04 tarihinde saat 08:00'de başladınız. 
+O zaman fiyat 1,2247 idi. Sağ ekrandan görebileceğiniz gibi RSI 50'nin altında ve dolayısıyla 
+düşüş eğiliminde. Dolayısıyla bugün sadece piyasaya açık pozisyona girmek için düşüş sinyali 
+arıyoruz.
+75
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+Şekil 5.2.
+Yapılacak bir sonraki şey aktif dalgayı tanımaktır. Bunun için başlangıç   pozisyonumuza en 
+yakın, yüksekliği 40 pip'in üzerinde olan piyasa hareketini arayacağız.
+Tamam, aktif dalgayı bulmak için aşağıdaki adımların yapılması gerekiyor:
+Öncelikle başlangıç   noktasının yüksek değerini bitiş noktasının düşük değerine 
+bağlayarak olası tüm dalgalar (siyah çizgiler) çizilir ve ardından gerçek zamana en yakın 
+dalgadan başlanarak dalgalar numaralandırılır (bkz. Şekil 5.3).
+76
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 76 ===
+Şekil 5.3.
+İkinci olarak her dalganın uç değerlerini okuyun ve yüksekliğini hesaplayın.
+1. Dalga:
+Yüksek = 1,2282; Düşük = 1,2239;
+Yükseklik = Yüksek – Düşük = 1,2282– 1,2239= 0,0043 = 43 pip
+2. Dalga:
+Yüksek = 1,2282; Düşük = 1,2241;
+Yükseklik = Yüksek – Düşük = 1,2282– 1,2241= 0,0041 = 41 pip
+3. Dalga:
+Yüksek = 1,2273; Düşük = 1,2236;
+Yükseklik = Yüksek – Düşük = 1,2273– 1,2236= 0,0037 = 37 pip
+4. Dalga:
+Yüksek = 1,2271; Düşük = 1,2244;
+Yükseklik = Yüksek – Düşük = 1,2271– 1,2244= 0,0027 = 27 pip
+Başlangıç   pozisyonumuza 40 pip'ten daha büyük bir yüksekliğe sahip en yakın hareket 1. 
+dalgadır. Yani bu bizim şu anki aktif dalgamızdır. İşlemlerimiz boyunca yüksekliği 40 pipsin 
+altındaki hareketlere dikkat etmeyeceğiz.
+77
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 77 ===
+1. dalga artık mevcut aktif dalgamızdır (bkz. Şekil 5.4'teki mavi çizgi).
+Şekil 5.4.
+Şimdi görev, Gün İçi ICWR Ticaret Kurallarını uygulamaktır.
+Bu, ilk önce 0,000, 0,250, 0,382, 0,682, 0,750 ve 1,000 Fibonacci seviyelerinin, başlangıç   noktası 
+olarak düşük (seviye 0,000) ve bitiş noktası olarak yüksek (seviye 1,000) kullanılarak 
+yerleştirildiği anlamına gelir. 0,382 ile 0,618 arasındaki seviyeler geri çekilme kanalını tanımlar. 
+0,250 ve 0,750 seviyeleri teyit seviyelerini tanımlar. Bkz. Şekil 5.5.
+78
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 78 ===
+Şekil 5.5.
+Tamam, Fibonacci seviyeleri yerleştirildi, şimdi piyasanın bize ne söylediğini görmek üzereyiz
+11/03/04 saat 11:10'da mum çubuğu alt onay seviyesinin (Fibonacci seviyesi 0,250) 
+altındadır. Daha önce geri çekilme kanalına 08:30'da giriliyordu. Aktif dalganın aşağı yönlü 
+bir hareketi olduğundan ve mum çubuğu alt teyit seviyesinin altında olduğundan, aktif 
+dalgayı aşağı doğru itici bir dalga olarak tanımlıyoruz. Bölüm 3 “Gün İçi ICWR Ticaret 
+Kuralları”nda açıklandığı gibi bu bir düşüş sinyalidir. Bkz. Şekil 5.6.
+Şekil 5.6.
+79
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 79 ===
+Bu düşüş sinyalinin Göreceli Güç Endeksi ile doğrulanması gerekiyor. RSI 50'nin üzerindeyse düşüş 
+eğilimi gösterir ve piyasaya gireriz. Eğer RSI 50'den büyükse bu yükseliş demektir, yani tam tersidir 
+ve piyasaya girmeyiz. Bugün daha önce de söylediğimiz gibi RSI (Şekil 5.7'deki mavi çizgi) 50 merkez 
+çizgisinin (siyah çizgi) altında ve bu nedenle düşüş eğilimi gösteriyor.
+Şekil 5.7.
+Gibiikisi birdensinyaller düşüş yönünde. 11/03/04 tarihinde saat 11:10'da 1,2243 
+fiyatından işleme giriyoruz. Örneğin 1.2243 fiyatına 10.000 USD alıyoruz. Bkz. Şekil 5.8.
+Şekil 5.8.
+Tamam, şimdi pozisyonumuzdan çıkmadan önce piyasanın ne kadar ilerlemesine izin vereceğimizi bulmak 
+üzereyiz.
+80
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 80 ===
+Öncelikle giriş fiyatının 50 pip altına stop emri veriyoruz. Bu, 1,2243 + 0,0050 = 1,2293 anlamına 
+gelir. Aşağıdaki resimde kalın kırmızı yatay çizgi ile temsil edilmektedir (Şekil 5.9). Daha önce de 
+söylediğimiz gibi, sert durdurma emrinin yalnızca güvenlik amacıyla verildiğine lütfen dikkat 
+edin, çünkü tek bir işlemde 50 pipten fazlasını kaybetmek istemiyoruz.
+Şekil 5.9.
+Aslında bizimanaÇıkış stratejisi, dürtüsel/düzeltici dalga geri çekilmesiyle 
+üretilen karşıt sinyali aramaktır (giriş uyarı sinyaliyle aynı şekilde).
+Bu örnekte piyasaya açık pozisyona girdiğimizde yükseliş sinyali arıyoruz. Görev, tüm 
+mum çubuğunun üst onay seviyesinin üzerinde olup olmadığını aramaktır (itici bir 
+dalga durumunda geri çekilme kanalına girdikten sonra). Böyle bir durumda 
+pozisyondan çıkarız. Her yeni dalga fark edildiğinde yeni Fibonacci seviyeleri çizilir ve 
+eski Fibonacci seviyeleri devre dışı kalır. Bu prosedür bir çıkış sinyali oluşana kadar 
+tekrarlanır.
+Tamam, 11:10'daki açık pozisyonumuza bakalım. 11:10 ile 12:00 arasında düşüş sinyali oluşmaz. 
+Yani ticaretten çıkmıyoruz.
+Bu örnekte yükseliş sinyalinin çıkış sinyali olduğunu unutmayın!
+81
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 81 ===
+Saat 12:00 civarında, 11/03/04 tarihinde saat 10:05'te başlayıp 11:25'te biten aşağı yönlü 
+hareketle temsil edilen yeni bir aktif dalgayı fark ediyoruz. Yeni aktif dalganın başlangıcı ve 
+sonu Şekil 5.10'da kırmızı oklarla işaretlenmiştir.
+Şekil 5.10.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 5.11).
+Şekil 5.11.
+82
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 82 ===
+Bu aktif dalga için herhangi bir çıkış sinyali oluşmaz. Bunun yerine, saat 16:00 civarında, 
+11/03/04 tarihinde 13:05'te başlayıp 15:30'da biten aşağı yönlü hareketle temsil edilen yeni bir 
+aktif dalgayı fark ediyoruz. Bkz. Şekil 5.12.
+Şekil 5.12.
+Yeni Fibonacci seviyeleri çizilir ve eskileri kaldırılır (bkz. Şekil 5.13). Şimdi yine alt 
+onay seviyesinin altına inen bir mum çubuğu arıyoruz.
+Şekil 5.13.
+83
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 83 ===
+11/03/04 tarihinde saat 17:30 civarında bir çıkış sinyali oluşmadan önce bir kez daha yeni 
+bir aktif dalga fark edildi. Yeni aktif dalga, 24.11.04 saat 16:35'te başlayıp 17:00'de biten 
+aşağı yönlü hareketle temsil ediliyor. Lütfen önceki aşağı doğru hareketin yüksekliğinin 
+aktif bir dalga olarak kabul edilemeyecek kadar düşük olduğuna dikkat edin. Bkz. Şekil 
+5.14.
+Şekil 5.14.
+Yeni Fibonacci seviyeleri çizilir ve eskileri kaldırılır (bkz. Şekil 5.15).
+Şekil 5.15.
+84
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 84 ===
+Bu şimdi birkaç kez oluyor.
+11/03/04 günü saat 21:00 civarında, çıkış sinyali oluşmadan önce yeni bir aktif 
+dalga fark edildi. Yeni aktif dalga, 11/03/04 saat 19:00'da başlayıp 20:10'da biten 
+aşağı yönlü hareketle temsil ediliyor. Bkz. Şekil 5.16.
+Şekil 5.16.
+Yeni Fibonacci seviyeleri çizilir ve eskileri kaldırılır (bkz. Şekil 5.17).
+Şekil 5.17.
+85
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 85 ===
+Yine 11/03/04 günü saat 01:00 civarında, çıkış sinyali oluşmadan önce yeni bir aktif 
+dalga fark edildi. Yeni aktif dalga, 11/03/04 saat 22:50'de başlayıp 11/04/04 saat 
+00:10'da biten aşağı yönlü hareketle temsil ediliyor. Bkz. Şekil 5.18.
+Şekil 5.18.
+Yeni Fibonacci seviyeleri çizilir ve eskileri çıkarılır (bkz. Şekil 5.19).
+Şekil 5.19.
+86
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 86 ===
+Saat 07:00 civarında piyasa eğilimi tersine dönmeye başlar (bkz. Şekil 5.20). 11/04/04 tarihinde 
+saat 09:20'de mum çubuğu üst onay seviyesinin (Fibonacci seviyesi 0,750) üzerindedir. Aktif 
+dalganın aşağı yönlü bir hareketi olduğundan ve mum çubuğu üst teyit seviyesinin üzerinde 
+olduğundan, aktif dalgayı aşağı doğru düzeltici bir dalga olarak tanımlıyoruz. “Gün İçi ICWR 
+Ticaret Kuralları” bölümünde açıklandığı gibi bu bir yükseliş sinyalidir.
+Şekil 5.20.
+Lütfen önceki aşağı doğru hareketin yüksekliğinin (02:00 ile 03:00 arası) aktif bir dalga olarak 
+kabul edilemeyecek kadar düşük olduğuna dikkat edin.
+Yükseliş sinyali nedeniyle 11/04/04 tarihinde saat 09:20'de pozisyon kapatılarak 10,000 USD 
+1,2088 fiyatına satılmıştır.
+Gün İçi ICWR Ticaret Kurallarını kullanmanın sonunda 155 pip 
+kar= (1,2243 – 1,2088) = 0,0155
+başarıldı (bkz. Şekil 5.21).
+1:20 kaldıraç kullanıldığında bunun anlamı
+10.000 USD x (0,0155 pip) x 20 kaldıraç = 3.100 USD!
+Gün İçi ICWR Ticaret Kurallarını kullanarak iki işlem günü için 3.100 USD 
+kar!
+87
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 87 ===
+Şekil 5.21.
+88
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 88 ===
+Bölüm 6
+Uzun Vadeli
+ICWR Ticaret Kuralları
+Uzun Vadeli ICWR Ticaret Kuralları, Gün İçi ICWR Ticaret Kurallarına çok benzemektedir 
+(bkz. bölüm 3.), çünkü yalnızca bazı parametrelerin değerleri değiştirilmiştir. Bu nedenle, 
+Gün İçi ICWR İşlem Kuralları için daha önce yaptığımız tüm açıklamaları tekrarlamayacağız. 
+Temel olarak, Uzun Vadeli ve Gün İçi ICWR Ticaret Kuralları arasındaki temel farklara işaret 
+ederek yalnızca stratejinin temellerini tekrarlayacağız.
+Uzun Vadeli ICWR Ticaret Kuralları aşağıdakilerden oluşur:
+• Darbeli/düzeltici dalga geri çekilmeleri tarafından oluşturulan giriş sinyalleridört 
+saatşamdan grafiği. Aktif bir dalganın koşulu, yüksekliğidir.150pip veya daha fazla.
+• Piyasadan yükseliş veya düşüş yönlü giriş sinyalini doğrulamak için 1 günlük bazlı 14 
+dönemlik Göreceli Güç Endeksi (RSI) momentum göstergesinden oluşturulan giriş onay 
+sinyalleridört saatMum grafiği (giriş sinyalleri için filtre görevi görür)
+• Darbeli/düzeltici dalga geri çekilmeleri veya sert durdurma emriyle oluşturulan çıkış 
+sinyalleri100pip kullanarakdört saatşamdan grafiği. Aktif bir dalganın koşulu, 
+yüksekliğidir.150pip veya daha fazla.
+4 saatlik mum grafiğini kullanmak, her 4 saatte bir mum grafiğine bakmanız 
+gerektiği anlamına gelmez. Grafiği günde bir kez kontrol etmeniz yeterlidir. Mesela 
+işten döndüğünüzde, kalktığınızda, yatmadan önce…
+89
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 89 ===
+6.1. Bir ticarete ne zaman girilmeli
+Kısaca, dürtüsel/düzeltici dalga geri çekilmesiyle üretilen bir sinyal, 1 günlük 14 
+periyotluk Göreceli Güç Endeksi ile doğrulandığında işleme gireceğiz.
+Etkileyici/düzeltici dalga geri çekilmesinin ürettiği sinyal yükseliş yönlüyse, RSI'nın 
+50'den büyük olmasını isteriz.
+Etkileyici/düzeltici dalga geri çekilmesinin ürettiği sinyal düşüş eğilimi gösteriyorsa, RSI'nin 
+50'den düşük olmasını isteriz.
+6.2. Bir işlemden ne zaman çıkılmalı
+Ana çıkış stratejimiz, dürtüsel/düzeltici dalga geri çekilmelerine (giriş uyarı 
+sinyaliyle aynı şekilde) dayalı olarak ters bir piyasa sinyali (giriş sinyalimizin tersi) 
+aramaktır. Ek olarak (yalnızca güvenlik amacıyla) bir pozisyona girdikten sonra 100 
+piplik stop emri veriyoruz çünkü bir işlemde 100 pipten fazlasını kaybetmek 
+istemiyoruz.
+Piyasaya uzun süre girilmişse, ya dürtüsel/düzeltici dalga geri çekilmesinin 
+oluşturduğu düşüş sinyali nedeniyle ya da giriş fiyatının 100 pip altındaki sert 
+durdurma emri nedeniyle bir pozisyondan çıkılacaktır.
+Piyasaya kısa girildiyse, ya dürtüsel/düzeltici dalga geri çekilmesinin oluşturduğu 
+yükseliş sinyali nedeniyle ya da giriş fiyatının 100 pip üzerindeki sert durdurma 
+emri nedeniyle bir pozisyondan çıkılacaktır.
+90
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 90 ===
+Bölüm 7
+Uzun Vadeli EUR/USD
+Ticaret Örneği
+Bu örnekte EUR/USD ticareti yapacağız.
+Tamam, işlem günümüze başlamadan önce ekranlarımızı kurmamız gerekiyor (bkz. Şekil 
+7.1). Sol ekrana 4 saatlik mum grafiği, sağ ekrana ise 14 dönemlik RSI (kalın mavi çizgi) ile 
+birlikte bir günlük mum grafiği yerleştireceğiz. Grafik yazılımı genellikle RSI'yi 30 ve 70 
+çizgileriyle birlikte otomatik olarak görüntüler (30'un altı aşırı satışı, 70'in üstü aşırı alımı 
+temsil eder). Bizim durumumuzda aşırı satış veya aşırı alım sinyalleri aramıyoruz. Piyasanın 
+yükseliş veya düşüş eğiliminde olmasını bekliyoruz. Bu, RSI'nin 50'nin üzerinde (yükseliş) 
+veya 50'nin altında (düşüş) olmasıyla temsil edilir. Bu yüzden sadece 50 merkez çizgisini 
+(siyah çizgi) çizmemiz gerekiyor.
+Şekil 7.1.
+Artık başlamaya hazırız. Diyelim ki işlem gününüze 10/14/04 tarihinde saat 08:00'de başladınız. 
+O zaman fiyat 1,2363'tü. Sağdaki ekrandan görebileceğiniz gibi RSI 50'nin üzerinde ve 
+dolayısıyla yükseliş eğiliminde. Yani en azından bugün piyasaya uzun giriş için yalnızca yükseliş 
+sinyali arıyoruz.
+91
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 91 ===
+Şekil 7.2.
+Yapılacak bir sonraki şey aktif dalgayı tanımaktır. Bunun için başlangıç   pozisyonumuza en 
+yakın, yüksekliği 150 pip'in üzerinde olan piyasa hareketini arayacağız.
+Tamam, aktif dalgayı bulmak için aşağıdaki adımların yapılması gerekiyor:
+Öncelikle başlangıç   noktasının yüksek değerini bitiş noktasının düşük değerine 
+bağlayarak olası tüm dalgalar (siyah çizgiler) çizilir ve ardından gerçek zamana en yakın 
+dalgadan başlanarak dalgalar numaralandırılır (bkz. Şekil 7.3).
+92
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 92 ===
+Şekil 7.3.
+İkinci olarak her dalganın uç değerlerini okuyun ve yüksekliğini hesaplayın.
+1. Dalga:
+Yüksek = 1,2433; Düşük = 1,2223;
+Yükseklik = Yüksek – Düşük = 1,2433 – 1,2223= 0,0210 = 210 pip
+2. Dalga:
+Yüksek = 1,2433; Düşük = 1,2243;
+Yükseklik = Yüksek – Düşük = 1,2433 – 1,2243= 0,0190 = 190 pip
+Başlangıç   konumumuza 150 pip'ten daha yüksek bir yükseklikte en yakın hareket 1. 
+dalgadır. Yani bu bizim şu anki aktif dalgamızdır. İşlemlerimiz boyunca yüksekliği 150 pip'in 
+altında olan hareketlere dikkat etmeyeceğiz.
+1. dalga artık mevcut aktif dalgamızdır (bkz. Şekil 7.4'teki mavi çizgi).
+93
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 93 ===
+Şekil 7.4.
+Artık görev, Uzun Vadeli ICWR Ticaret Kurallarını uygulamaktır.
+Bu, ilk önce 0,000, 0,250, 0,382, 0,682, 0,750 ve 1,000 Fibonacci seviyelerinin, başlangıç   noktası 
+olarak düşük (seviye 0,000) ve bitiş noktası olarak yüksek (seviye 1,000) kullanılarak 
+yerleştirildiği anlamına gelir. 0,382 ile 0,618 arasındaki seviyeler geri çekilme kanalını tanımlar. 
+0,250 ve 0,750 seviyeleri teyit seviyelerini tanımlar. Bkz. Şekil 7.5.
+Şekil 7.5.
+94
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 94 ===
+Tamam, Fibonacci seviyeleri yerleştirildi, şimdi piyasanın bize ne söylediğini görmek üzereyiz.
+15/10/04 tarihinde saat 16:00'da mum çubuğu üst onay seviyesinin (Fibonacci seviyesi 0,750) 
+üzerindedir. Aktif dalganın aşağı yönlü bir hareketi olduğundan ve mum çubuğu üst teyit 
+seviyesinin üzerinde olduğundan, aktif dalgayı aşağı doğru düzeltici bir dalga olarak 
+tanımlıyoruz. 3. “Gün İçi ICWR Ticaret Kuralları” bölümünde açıklandığı gibi bu bir yükseliş 
+sinyalidir. Bkz. Şekil 7.6.
+Şekil 7.6.
+Bu yükseliş sinyalinin Göreceli Güç Endeksi ile doğrulanması gerekiyor. RSI 50'nin üzerindeyse 
+bu yükseliş demektir ve pazara gireriz. RSI 50'nin altındaysa düşüş eğilimi gösterir, yani tam 
+tersi olur ve piyasaya girmeyiz. Bugün RSI (Şekil 7.7'deki mavi çizgi) 50 merkez çizgisinin (siyah 
+çizgi) üzerinde ve bu nedenle yükseliş eğilimi gösteriyor.
+95
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 95 ===
+Şekil 7.7.
+Gibiikisi birdensinyaller yükselişe işaret ediyor 10/15/04 saat 16:00'da 1,2461 fiyatından 
+işleme giriyoruz. Mesela 10.000 USD'yi 1,2461 fiyatına satıyoruz. Bkz. Şekil 7.8.
+Şekil 7.8.
+Tamam, şimdi pozisyonumuzdan çıkmadan önce piyasanın ne kadar ilerlemesine izin vereceğimizi bulmak 
+üzereyiz.
+Öncelikle giriş fiyatının 100 pip altına stop emri veriyoruz. Bu, 1,2461 - 0,0100 = 1,2361 anlamına gelir. 
+Aşağıdaki resimde kalın kırmızı yatay çizgi ile temsil edilmektedir (bkz. Şekil 7.9). Daha önce de 
+söylediğimiz gibi, sert durdurma emrinin yalnızca güvenlik amacıyla verildiğine lütfen dikkat edin, 
+çünkü tek bir işlemde 100 pipten fazlasını kaybetmek istemiyoruz.
+96
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 96 ===
+Şekil 7.9.
+Aslında bizimanaÇıkış stratejisi, dürtüsel/düzeltici dalga geri çekilmesiyle 
+üretilen karşıt sinyali aramaktır (giriş uyarı sinyaliyle aynı şekilde).
+Bu örnekte piyasaya uzun giriş yaptığımızda düşüş sinyali arıyoruz. Görev, tüm mum 
+çubuğunun alt onay seviyesinin altında olup olmadığını aramaktır (itici bir dalga 
+durumunda geri çekilme kanalına girdikten sonra). Böyle bir durumda pozisyondan 
+çıkarız. Her yeni dalga fark edildiğinde yeni Fibonacci seviyeleri çizilir ve eski Fibonacci 
+seviyeleri devre dışı kalır. Bu prosedür bir çıkış sinyali oluşana kadar tekrarlanır.
+Tamam, açık pozisyonumuza bakalım. 10/15/04 ile 26/10/04 tarihleri   arasında herhangi bir düşüş 
+sinyali oluşmadı. Yani ticaretten çıkmıyoruz. Bu örnekte düşüş sinyalinin çıkış sinyali olduğunu 
+unutmayın.
+27.10.04 civarında, 10.12.04'te başlayıp 26.10.04'te biten yukarı yönlü hareketle 
+temsil edilen yeni bir aktif dalgayı fark ediyoruz. Yeni aktif dalganın başlangıcı ve 
+sonu Şekil 7.10'da kırmızı oklarla işaretlenmiştir.
+97
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 97 ===
+Şekil 7.10.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 7.11).
+Şekil 7.11.
+Bu aktif dalga için herhangi bir çıkış sinyali oluşmaz. Bunun yerine, 29.10.04 civarında, 
+26.10.04'te başlayıp 28.10.04'te biten yukarı yönlü hareketle temsil edilen yeni bir aktif 
+dalgayı fark ediyoruz. Bkz. Şekil 7.12.
+98
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 98 ===
+Şekil 7.12.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 7.13).
+Şekil 7.13.
+11/01/04 civarında, bir çıkış sinyali oluşmadan önce yeni bir aktif dalga fark edildi. 
+Yeni aktif dalga, 28.10.04'te başlayıp 11.01.04'te sona eren yukarı yönlü hareketle 
+temsil ediliyor. Bkz. Şekil 7.14.
+99
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 99 ===
+Şekil 7.14.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 7.15).
+Şekil 7.15.
+11/03/04 civarında, bir çıkış sinyali oluşmadan önce yeni bir aktif dalga fark edildi. Yeni aktif 
+dalga, 11/01/04 tarihinde başlayıp 11/03/04 tarihinde sona eren yukarı yönlü hareketle 
+temsil edilmektedir. Bkz. Şekil 7.16.
+100
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 100 ===
+Şekil 7.16.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 7.17).
+Şekil 7.17.
+11/08/04 civarında, bir çıkış sinyali oluşmadan önce yeni bir aktif dalga fark edildi. Yeni aktif 
+dalga, 11/03/04 tarihinde başlayıp 11/07/04 tarihinde sona eren yukarı yönlü hareketle 
+temsil edilmektedir. Bkz. Şekil 7.18.
+101
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 101 ===
+Şekil 7.18.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 7.19).
+Şekil 7.19.
+11/12/04 civarında, bir çıkış sinyali oluşmadan önce yeni bir aktif dalga fark edildi. Yeni aktif 
+dalga, 11/07/04 tarihinde başlayıp 11/10/04 tarihinde sona eren yukarı yönlü hareketle 
+temsil edilmektedir. Bkz. Şekil 7.20.
+102
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 102 ===
+Şekil 7.20.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 7.21).
+Şekil 7.21.
+11/18/04 civarında, bir çıkış sinyali oluşmadan önce yeni bir aktif dalga fark edildi. Yeni aktif 
+dalga, 11/10/04 tarihinde başlayıp 11/18/04 tarihinde sona eren yukarı yönlü hareketle 
+temsil edilmektedir. Bkz. Şekil 7.22.
+103
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 103 ===
+Şekil 7.22.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 7.23).
+Şekil 7.23.
+29.11.2004 civarında, çıkış sinyali oluşmadan önce yeni bir aktif dalga fark 
+edildi. Yeni aktif dalga, 23.11.04'te başlayıp 26.11.04'te biten yukarı yönlü 
+hareketle temsil ediliyor. Bkz. Şekil 7.24.
+104
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 104 ===
+Lütfen yüksekliği 150 pip'in altında olan hareketlerin dikkate alınmadığını 
+unutmayın!
+Şekil 7.24.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 7.25).
+Şekil 7.25.
+105
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 105 ===
+12/02/04 civarında, bir çıkış sinyali oluşmadan önce yeni bir aktif dalga fark 
+edildi. Yeni aktif dalga, 30.11.04'te başlayıp 12.02.04'te biten yukarı yönlü 
+hareketle temsil ediliyor. Bkz. Şekil 7.26.
+Şekil 7.26.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 7.27).
+Şekil 7.27.
+106
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 106 ===
+12/03/04 civarında, bir çıkış sinyali oluşmadan önce yeni bir aktif dalga fark edildi. Yeni aktif 
+dalga, 12/02/04 tarihinde başlayıp 12/02/04 tarihinde sona eren yukarı yönlü hareketle 
+temsil edilmektedir. Bkz. Şekil 7.28.
+Şekil 7.28.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 7.29).
+Şekil 7.29.
+107
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 107 ===
+12/06/04 civarında, bir çıkış sinyali oluşmadan önce yeni bir aktif dalga fark edildi. Yeni aktif 
+dalga, 12/02/04 tarihinde başlayıp 12/03/04 tarihinde sona eren yukarı yönlü hareketle 
+temsil edilmektedir. Bkz. Şekil 7.30.
+Şekil 7.30.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 7.31).
+Şekil 7.31.
+108
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 108 ===
+12/09/04 civarında, bir çıkış sinyali oluşmadan önce yeni bir aktif dalga fark edildi. Yeni aktif 
+dalga, 12/07/04 tarihinde başlayıp 12/08/04 tarihinde sona eren yukarı yönlü hareketle 
+temsil edilmektedir. Bkz. Şekil 7.32.
+Şekil 7.32.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 7.33).
+Şekil 7.33.
+109
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 109 ===
+Aynı gün, kısa bir süre sonra, çıkış sinyali oluşmadan önce yeni bir aktif dalga fark edildi. 
+Yeni aktif dalga, 12/09/04 tarihinde başlayıp 12/09/04 tarihinde sona eren yukarı yönlü 
+hareketle temsil edilmektedir. Bkz. Şekil 7.34.
+Şekil 7.34.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 7.35).
+Şekil 7.35.
+110
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 110 ===
+Piyasa eğilimi tersine dönmeye başlar. 12/10/04 saat 12:00'de mum çubuğu alt onay 
+seviyesinin (Fibonacci seviyesi 0,250) altındadır. Aktif dalganın yukarı yönlü hareketi 
+olduğundan ve mum çubuğu alt teyit seviyesinin altında olduğundan, aktif dalgayı yukarı 
+doğru düzeltici bir dalga olarak tanımlıyoruz. 3. “Gün İçi ICWR Ticaret Kuralları” bölümünde 
+açıklandığı gibi bu bir düşüş sinyalidir. Bkz. Şekil 7.36.
+Şekil 7.36.
+Düşüş sinyali nedeniyle 12/10/04 tarihinde saat 12:00'de pozisyon kapatılarak 1,3184 fiyatından 
+10.000 USD satın alındı.
+Uzun Vadeli ICWR Ticaret Kurallarını kullanmanın sonunda 723 
+pip kar= (1,3184 – 1,2461) = 0,0723
+başarıldı (bkz. Şekil 7.37).
+1:20 kaldıraç kullanıldığında bunun anlamı
+10.000 USD x (0,0723 pip) x 20 kaldıraç = 14.460 USD!
+Uzun Vadeli ICWR Ticaret Kurallarını kullanarak iki ay sonra 14.460 USD kar!
+111
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 111 ===
+Şekil 7.37.
+112
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 112 ===
+Bölüm 8
+Uzun Vadeli GBP/USD
+Ticaret Örneği
+Bu örnekte GBP/USD ticareti yapacağız.
+Tamam, işlem günümüze başlamadan önce ekranlarımızı kurmamız gerekiyor (bkz. Şekil 
+8.1). Sol ekrana 4 saatlik mum grafiği, sağ ekrana ise 14 dönemlik RSI (kalın mavi çizgi) ile 
+birlikte bir günlük mum grafiği yerleştireceğiz. Grafik yazılımı genellikle RSI'yi 30 ve 70 
+çizgileriyle birlikte otomatik olarak görüntüler (30'un altı aşırı satışı, 70'in üstü aşırı alımı 
+temsil eder). Bizim durumumuzda aşırı satış veya aşırı alım sinyalleri aramıyoruz. Piyasanın 
+yükseliş veya düşüş eğiliminde olmasını bekliyoruz. Bu, RSI'nin 50'nin üzerinde (yükseliş) 
+veya 50'nin altında (düşüş) olmasıyla temsil edilir. Bu yüzden sadece 50 merkez çizgisini 
+(siyah çizgi) çizmemiz gerekiyor.
+Şekil 8.1.
+Artık başlamaya hazırız. İşlem gününüze 11/19/04 tarihinde saat 08:00'de başladığınızı 
+varsayalım. O zaman fiyat 1,8490'dı. Sağdaki ekrandan görebileceğiniz gibi RSI 50'nin üzerinde 
+ve dolayısıyla yükseliş eğiliminde. Yani en azından bugün piyasaya uzun giriş için yalnızca 
+yükseliş sinyali arıyoruz.
+113
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 113 ===
+Şekil 8.2.
+Yapılacak bir sonraki şey aktif dalgayı tanımaktır. Bunun için başlangıç   pozisyonumuza en 
+yakın, yüksekliği 150 pip'in üzerinde olan piyasa hareketini arayacağız.
+Tamam, aktif dalgayı bulmak için aşağıdaki adımların yapılması gerekiyor:
+Öncelikle başlangıç   noktasının yüksek değerini bitiş noktasının düşük değerine 
+bağlayarak olası tüm dalgalar (siyah çizgiler) çizilir ve ardından gerçek zamana en yakın 
+dalgadan başlanarak dalgalar numaralandırılır (bkz. Şekil 8.3).
+114
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 114 ===
+Şekil 8.3.
+İkinci olarak her dalganın uç değerlerini okuyun ve yüksekliğini hesaplayın.
+1. Dalga:
+Yüksek = 1,8636; Düşük = 1,8464;
+Yükseklik = Yüksek – Düşük = 1,8636– 1,8464= 0,0172 = 172 pip
+2. Dalga:
+Yüksek = 1,8636; Düşük = 1,8435;
+Yükseklik = Yüksek – Düşük = 1,8636– 1,8435= 0,0201 = 201 pip
+3. Dalga:
+Yüksek = 1,8596; Düşük = 1,8435;
+Yükseklik = Yüksek – Düşük = 1,8596– 1,8435= 0,0161 = 161 pip
+4. Dalga:
+Yüksek = 1,8596; Düşük = 1,8372;
+Yükseklik = Yüksek – Düşük = 1,8596– 1,8372= 0,0224 = 224 pip
+Başlangıç   konumumuza 150 pip'ten daha yüksek bir yükseklikte en yakın hareket 1. 
+dalgadır. Yani bu bizim şu anki aktif dalgamızdır. İşlemlerimiz boyunca yüksekliği 150 pip'in 
+altında olan hareketlere dikkat etmeyeceğiz.
+115
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 115 ===
+1. dalga artık mevcut aktif dalgamızdır (bkz. Şekil 8.4'teki mavi çizgi).
+Şekil 8.4.
+Artık görev, Uzun Vadeli ICWR Ticaret Kurallarını uygulamaktır.
+Bu, ilk önce 0,000, 0,250, 0,382, 0,682, 0,750 ve 1,000 Fibonacci seviyelerinin, başlangıç   noktası 
+olarak düşük (seviye 0,000) ve bitiş noktası olarak yüksek (seviye 1,000) kullanılarak 
+yerleştirildiği anlamına gelir. 0,382 ile 0,618 arasındaki seviyeler geri çekilme kanalını tanımlar. 
+0,250 ve 0,750 seviyeleri teyit seviyelerini tanımlar. Bkz. Şekil 8.5.
+116
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 116 ===
+Şekil 8.5.
+Tamam, Fibonacci seviyeleri yerleştirildi, şimdi piyasanın bize ne söylediğini görmek üzereyiz
+23.11.2004 saat 12:00'de mum çubuğu üst onay seviyesinin (Fibonacci seviyesi 0.750) 
+üzerindedir. Aktif dalganın aşağı doğru hareketi olduğundan ve mum çubuğu üst teyit 
+seviyesinin üzerinde olduğundan, aktif dalgayı yukarı doğru düzeltici bir dalga olarak 
+tanımlıyoruz. 3. “Gün İçi ICWR Ticaret Kuralları” bölümünde açıklandığı gibi bu bir yükseliş 
+sinyalidir. Bkz. Şekil 8.6.
+Şekil 8.6.
+117
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 117 ===
+Bu yükseliş sinyalinin Göreceli Güç Endeksi ile doğrulanması gerekiyor. RSI 50'nin üzerindeyse 
+bu yükseliş demektir ve pazara gireriz. RSI 50'nin altındaysa düşüş eğilimi gösterir, yani tam 
+tersi olur ve piyasaya girmeyiz. Bugün RSI (Şekil 8.7'deki mavi çizgiye bakın) 50 merkez çizgisinin 
+(siyah çizgi) üzerinde ve dolayısıyla yükseliş eğiliminde.
+Şekil 8.7.
+Gibiikisi birdensinyaller yükseliş yönünde. 23.11.2004 saat 12:00'de 1,8698 fiyatından 
+işleme giriyoruz. Mesela 10.000 USD'yi 1,8698 fiyatına satıyoruz. Bkz. Şekil 8.8.
+Şekil 8.8.
+Tamam, şimdi pozisyonumuzdan çıkmadan önce piyasanın ne kadar ilerlemesine izin vereceğimizi bulmak 
+üzereyiz.
+118
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 118 ===
+Öncelikle giriş fiyatının 100 pip altına stop emri veriyoruz. Bu, 1,8698-0,0100 = 1,8598 anlamına gelir. 
+Aşağıdaki resimde kalın kırmızı yatay çizgi ile temsil edilmektedir (bkz. Şekil 8.9). Daha önce de 
+söylediğimiz gibi, sert durdurma emrinin yalnızca güvenlik amacıyla verildiğine lütfen dikkat edin, 
+çünkü tek bir işlemde 100 pipten fazlasını kaybetmek istemiyoruz.
+Şekil 8.9.
+Aslında bizimanaÇıkış stratejisi, dürtüsel/düzeltici dalga geri çekilmesiyle 
+üretilen karşıt sinyali aramaktır (giriş uyarı sinyaliyle aynı şekilde).
+Bu örnekte piyasaya uzun giriş yaptığımızda düşüş sinyali arıyoruz. Görev, tüm mum 
+çubuğunun alt onay seviyesinin altında olup olmadığını aramaktır (itici bir dalga 
+durumunda geri çekilme kanalına girdikten sonra). Böyle bir durumda pozisyondan 
+çıkarız. Her yeni dalga fark edildiğinde yeni Fibonacci seviyeleri çizilir ve eski Fibonacci 
+seviyeleri devre dışı kalır. Bu prosedür bir çıkış sinyali oluşana kadar tekrarlanır.
+Tamam, açık pozisyonumuza bakalım. 10/15/04 ile 26/10/04 tarihleri   arasında herhangi bir düşüş 
+sinyali oluşmadı. Yani ticaretten çıkmıyoruz. Bu örnekte düşüş sinyalinin çıkış sinyali olduğunu 
+unutmayın.
+119
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 119 ===
+28.11.04 civarında, 23.11.04'te başlayıp 26.11.04'te biten yukarı yönlü hareketle 
+temsil edilen yeni bir aktif dalgayı fark ediyoruz. Yeni aktif dalganın başlangıcı ve 
+sonu Şekil 8.10'da kırmızı oklarla işaretlenmiştir.
+Şekil 8.10.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 8.11).
+Şekil 8.11.
+120
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 120 ===
+Bu aktif dalga için herhangi bir çıkış sinyali oluşmaz. Bunun yerine, 29.11.04 civarında, 
+26.11.04'te başlayıp 29.11.04'te biten aşağı yönlü hareketle temsil edilen yeni bir aktif 
+dalgayı fark ediyoruz. Bkz. Şekil 8.12.
+Şekil 8.12.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 8.13).
+Şekil 8.13.
+121
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 121 ===
+12/02/04 civarında, bir çıkış sinyali oluşmadan önce yeni bir aktif dalga fark 
+edildi. Yeni aktif dalga, 29.11.04'te başlayıp 12.02.04'te biten yukarı yönlü 
+hareketle temsil ediliyor. Bkz. Şekil 8.14.
+Şekil 8.14.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 8.15).
+Şekil 8.15.
+122
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 122 ===
+12/03/04 civarında, bir çıkış sinyali oluşmadan önce yeni bir aktif dalga fark edildi. Yeni aktif 
+dalga, 12/01/04 tarihinde başlayıp 12/03/04 tarihinde sona eren aşağı yönlü hareketle 
+temsil edilmektedir. Bkz. Şekil 8.16.
+Şekil 8.16.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 8.17).
+Şekil 8.17.
+123
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 123 ===
+12/06/04 civarında, bir çıkış sinyali oluşmadan önce yeni bir aktif dalga fark edildi. Yeni aktif 
+dalga, 12/03/04 tarihinde başlayıp 12/03/04 tarihinde sona eren yukarı yönlü hareketle 
+temsil edilmektedir. Bkz. Şekil 8.18.
+Şekil 8.18.
+Yeni Fibonacci seviyeleri çizilir. Eskileri artık etkin değil (bkz. Şekil 8.19).
+Şekil 8.19.
+124
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 124 ===
+Piyasa eğilimi tersine dönmeye başlar (bkz. Şekil 8.20). 12/09/04 tarihinde saat 08:00'de mum 
+çubuğu alt onay seviyesinin (Fibonacci seviyesi 0,250) altındadır. Aktif dalganın yukarı yönlü 
+hareketi olduğundan ve mum çubuğu alt teyit seviyesinin altında olduğundan, aktif dalgayı 
+yukarı doğru düzeltici bir dalga olarak tanımlıyoruz. 3. “Gün İçi ICWR Ticaret Kuralları” 
+bölümünde açıklandığı gibi bu bir düşüş sinyalidir.
+Şekil 8.20.
+Düşüş sinyali nedeniyle 12/09/04 tarihinde saat 12:00'de pozisyon kapatılarak 1,9212 fiyatından 
+10.000 USD satın alındı.
+Uzun Vadeli ICWR Ticaret Kurallarını kullanmanın sonunda 514 
+pip kar= (1,9212 – 1,8698) = 0,0514
+başarıldı (bkz. Şekil 8.21).
+1:20 kaldıraç kullanıldığında bunun anlamı
+10.000 USD x (0,0514 pip) x 20 kaldıraç = 10.280 USD!
+Uzun Vadeli ICWR Ticaret Kurallarını kullanarak 20 gün sonra 10.280 USD kar!
+125
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 125 ===
+Şekil 8.21.
+126
+www.forexgercekleri.xyz - [Twitter: @eseckal]

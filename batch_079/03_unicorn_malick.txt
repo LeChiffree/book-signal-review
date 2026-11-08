@@ -1,0 +1,1256 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 6\Baskı 6\Unicorn Avantajı - Furqan Malick (TR-ENG) (56 sayfa) - @eseckal.pdf
+PAGES: 56
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+Temel Vakıf.
+1. Zaman Unsurları
+1.1 Zamanın Önemi.................................................. .................................................. ................................7
+1.3 Haber Sürücüleri.................................................. .................................................. ......................................8
+1.4 Makrolar................................................................ .................................................. ....................................................8
+2. Likidite 10
+2.1. Likiditeyi Anlamak: ................................................... .................................................. ..................10
+A. Likidite Havuzları:................................................................ .................................................. ................................10
+B. Piyasa Manipülasyonu ve Likidite Çalışmaları:.................................................. ...................................................10
+2.2. Likidite türleri: ................................................... .................................................. ................................10
+A. Yüksek ve Düşük Salınım:................................................. .................................................. ..................10
+B. Alıcı Taraf ve Satıcı Taraf Likiditesi.................................................. .................................................. .....11
+C. Seansın En Yüksek ve En Düşükleri:................................................. .................................................. ..................12
+3. Kesici Bloklar 14
+3.1 Boğa Kırıcı Bloğu.................................................. .................................................. ................................14
+3.2 Düşüş Kırıcı Bloğu ................................................... .................................................. .....................14
+4. Gerçeğe Uygun Değer Boşlukları 16
+4.1 FVG'leri Anlamak ................................................... .................................................. ......................16
+4.2 BISI (Alış Tarafı Dengesizliği Satış Tarafı Etkinsizliği) ................................................... ..................................17
+4.3 SIBI (Satış Tarafı Dengesizliği Satın Alma Tarafı Verimsizliği)................................................... ..................................17
+7
+Piyasa Mekaniği
+5. Açılış Piyasası Dinamikleri
+5.1 Endekslerin açılma aralığı konsepti: ................................................... .................................................. ...19
+5.2 Yahuda Salıncağı:................................................. .................................................. ...................................19
+19
+Boynuzlu at
+6. Hepsini Bir Araya Getirmek
+6.1 Açılış saatleri.................................................. .................................................. .................................21
+6.2 Kesici ................................................ .................................................. ...................................................21
+6.3 Likiditeden Yararlanma (DOL) ................................................... .................................................. ....................21
+6.4 Zaman Çerçevesi Hizalaması ................................................... .................................................. ...................21
+7. Süreç
+21
+22
+25
+25
+25
+27
+İnfaz
+8. Giriş Protokolü
+Disiplin
+9. Düzen Düzeni ve Disiplin
+2www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Teşekkür
+Teşekkür edilecek sayısız kişi olduğunda minnettarlığı ifade etmek zorlaşır. Bu e-kitap öncelikle teşekkürlerimizin 
+bir ifadesidir.babamgüçlü bir rol modeli veannemsevginin ve nezaketin vücut bulmuş hali.
+Bu kitabın hayata geçirilmesini, çok önemli rol oynayan iki olağanüstü mentora borçluyum. Benim içten takdirim
+Matthew Geisler, sevgiyle " olarak bilinirKül Ticareti ," VeMichael J Huddleston" olarak tanındıBİT ." Onların 
+rehberliği, içgörüleri ve sarsılmaz destekleri, bu çabanın bir vizyondan gerçeğe dönüştürülmesinde etkili oldu.
+3www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Sorumluluk reddi beyanı
+Furqan Malick Ticaret Piyasası Seçenekleri:
+Bu belgede yer alan her türlü fikir, haber, araştırma, analiz, fiyat veya diğer bilgiler genel piyasa yorumu niteliğindedir ve yatırım tavsiyesi niteliğinde 
+değildir. Furqan Malick, doğrudan veya dolaylı olarak bu tür bilgilerin kullanımından veya bu bilgilere güvenilmesinden kaynaklanabilecek herhangi bir 
+kar kaybı da dahil ancak bunlarla sınırlı olmamak üzere hiçbir kayıp veya hasar için sorumluluk kabul etmeyecektir.
+Bu kitaptaki bilgilerin ve içeriğin doğruluğu herhangi bir zamanda önceden bildirimde bulunulmaksızın değiştirilebilir ve yalnızca yatırımcıların 
+bağımsız yatırım kararları vermelerine yardımcı olmak amacıyla sağlanmıştır. Furqan Malick, kağıttaki bilgilerin doğruluğunu sağlamak için makul 
+önlemleri almıştır, ancak bunların doğruluğunu garanti etmez ve doğrudan veya dolaylı olarak içerikten veya sizin içeriğe erişememenizden 
+kaynaklanabilecek hiçbir kayıp veya zarardan dolayı sorumluluk kabul etmez. Bu belge aracılığıyla gönderilen herhangi bir bilgi veya bildirimin 
+iletilmesi veya alınmasındaki herhangi bir gecikme veya başarısızlık nedeniyle.
+Hükümetin Zorunlu Risk Sorumluluk Reddi ve Açıklama Beyanı:
+CFTC KURAL 4.41 HİPOTETİK VEYA SİMÜLASYON PERFORMANS SONUÇLARININ BELİRLİ SINIRLAMALARI VARDIR, GERÇEK PERFORMANS KAYITLARININ 
+ÜZERİNDE, SİMÜLE EDİLMİŞ SONUÇLAR GERÇEK TİCARET İŞLEMLERİNİ TEMSİL ETMEZ. AYRICA, İŞLEMLER GERÇEKLEŞTİRİLMEDİĞİNDEN, SONUÇLAR, LİKİDİTE 
+EKSİKLİĞİ GİBİ BELİRLİ PİYASA FAKTÖRLERİNİN ETKİSİNİ (VAR OLARAK) ALT VEYA FAZLA telafi etmiş OLABİLİR. GENEL OLARAK SİMÜLE TİCARET PROGRAMLARI 
+AYRICA GERİ GÖRÜŞTEN FAYDALANARAK TASARLANMIŞ OLMALARINA BAĞLIDIR. HERHANGİ BİR HESABIN GÖSTERİLENLERE BENZER KÂR VEYA ZARAR ELDE 
+EDECEĞİ VEYA ELDE ETME OLASILIĞINA DAİR HİÇBİR BEYANDA BULUNULMAMAKTADIR.
+Burada gösterilen alım satım performansı varsayımsaldır. Varsayımsal performans sonuçlarının, bazıları aşağıda açıklanan birçok doğal sınırlaması 
+vardır. Herhangi bir hesabın gösterilenlere benzer kar veya zarar elde edeceğine veya elde etme ihtimalinin olduğuna dair hiçbir beyanda 
+bulunulmamaktadır. Aslında, varsayımsal performans sonuçları ile herhangi bir ticaret programı tarafından daha sonra elde edilen gerçek sonuçlar 
+arasında sıklıkla keskin farklılıklar vardır. Varsayımsal performans ticareti sonuçlarının sınırlamalarından biri, bunların genellikle sonradan edinilen 
+bilgilerle hazırlanmasıdır. Ayrıca, varsayımsal ticaret finansal risk içermez ve hiçbir varsayımsal ticaret kaydı, gerçek ticaretteki finansal riskin etkisini 
+tamamen açıklayamaz. Örneğin, kayıplara dayanma veya ticari kayıplara rağmen belirli bir ticaret programına bağlı kalma yeteneği önemli 
+noktalardır ve gerçek ticaret sonuçlarını da olumsuz yönde etkileyebilir. Genel olarak piyasalarla veya herhangi bir özel ticaret programının 
+uygulanmasıyla ilgili, varsayımsal performans sonuçlarının hazırlanmasında tam olarak hesaba katılamayan ve tamamı fiili ticaret sonuçlarını 
+olumsuz yönde etkileyen çok sayıda başka faktör vardır.
+ABD Hükümetinin Zorunlu Sorumluluk Reddi Beyanı - Emtia Vadeli İşlemler Ticaret Komisyonu Vadeli İşlemler ve Opsiyon ticaretinin büyük potansiyel getirileri vardır, ancak 
+aynı zamanda büyük potansiyel riski de vardır. Vadeli işlem ve opsiyon piyasalarına yatırım yapabilmek için risklerin farkında olmanız ve bunları kabul etmeye istekli olmanız 
+gerekir. Kaybetmeyi göze alamayacağınız parayla ticaret yapmayın. Bu, vadeli işlem veya opsiyon alım/satımına yönelik bir talep veya teklif değildir. Herhangi bir hesabın 
+bu web sitesinde tartışılanlara benzer kar veya zarar elde edeceğine veya elde etme ihtimalinin olduğuna dair hiçbir beyanda bulunulmamaktadır. Herhangi bir ticaret 
+sisteminin veya metodolojisinin geçmiş performansı mutlaka gelecekteki sonuçların göstergesi değildir. Riski size ait olmak üzere ticaret yapın. Burada sağlanan bilgiler 
+yalnızca genel bir yorum niteliğindedir ve özel bir ticari tavsiye niteliğinde değildir ve böyle bir niyeti taşımaz. Herhangi bir kişinin yatırım hedefleri ve finansal durumu 
+dikkate alınmaksızın hazırlanmıştır. Bilgiler, satın alma, satma veya ticaret yapma teklifi veya teşviki olarak değerlendirilmemelidir.
+Herhangi bir işlem yapmadan önce komisyoncunuzdan veya lisanslı yatırım danışmanınızdan uygun tavsiyeleri almalısınız. Geçmiş performans gelecekteki 
+sonuçları garanti etmez. Simüle edilmiş performans sonuçları doğal sınırlamalar içerir. Gerçek performans kayıtlarından farklı olarak sonuçlar, likidite eksikliği 
+gibi faktörleri eksik veya fazla telafi edebilir. Herhangi bir hesabın gösterilenlere kâr veya zarar sağlayacağına veya sağlama ihtimalinin olduğuna dair herhangi 
+bir beyanda bulunulmamaktadır. Ticarette kayıp riski önemli olabilir. Bu nedenle, mali durumunuz ışığında bu tür bir ticaretin sizin için uygun olup olmadığını 
+dikkatlice değerlendirmelisiniz.
+Hisse Senetleri, Vadeli İşlemler, Dövizler veya Opsiyonlar satın alır veya satarsanız, başlangıç   marjı fonlarını ve pozisyonunuzu oluşturmak veya 
+sürdürmek için komisyoncunuza yatırdığınız ek fonları tamamen kaybedebilirsiniz. Piyasa pozisyonunuzun aleyhine hareket ederse, pozisyonunuzu 
+korumak için komisyoncunuz tarafından kısa sürede önemli miktarda ek marj fonu yatırmanız istenebilir. Gerekli parayı öngörülen süre içinde 
+sağlamazsanız, pozisyonunuz zararla tasfiye edilebilir ve hesabınızda ortaya çıkan açıklardan siz sorumlu olabilirsiniz.
+Belirli piyasa koşullarında bir pozisyonu nakde çevirmeniz zor veya imkansız olabilir. Bu, örneğin piyasanın bir "limit hamlesi" yapması durumunda ortaya 
+çıkabilir. "Zarar durdur" veya "limit durdur" emri gibi koşullu emirlerin sizin tarafınızdan verilmesi, piyasa koşulları bu tür emirlerin yerine getirilmesini 
+imkansız hale getirebileceğinden, zararlarınızı mutlaka amaçlanan tutarlarla sınırlamayacaktır. Herhangi bir Furqan Malick Trades metnini, sesli, görsel 
+yorumunu, videosunu veya sunumunu görüntüleyerek, tüm alım satım kararlarının tamamen sizin sorumluluğunuzda olduğunu ve yazarın, Furqan Malick'in 
+ve Furqan Malick ile ilişkili herhangi birinin herhangi bir kayıptan sorumlu tutulamayacağını onaylar ve kabul edersiniz. bunun sonucunda ortaya çıkanlar.
+4www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Furkan Malick kimdir?
+Kısa Bir Giriş
+Yatırımcı arkadaşlara ve meraklılara selamlar! Kendimi tanıtmama izin verin; ben gayrimenkul geliştirme ve forex 
+ticareti dünyalarını harmanlamayı amaçlayan vizyon sahibi Furqan Malick'im. Finansal piyasaların uçsuz bucaksız 
+genişliğinde, hisse senedi ve forex sularında geziniyorum ve onları likiditeye giden araçlar olarak kullanıyorum.
+Yolculuğum, günlük ticaret yoluyla sürekli artan pasif gelir arayışını içeriyor. Her akşam, kısa vadeli kar elde 
+etmek ve gelecekteki gayrimenkul alımları için ayrılan fonları güvence altına almak için bir dizi günlük ticarete 
+başlıyorum. Açılış zili sırasında hisse senedi endekslerinden yararlanarak, kısa vadeli piyasa hareketlerinden 
+yararlanıyorum.
+Deneyimlerimi ve içgörülerimi paylaşırken, eğitimin başarının temel taşı olduğu duygusunu yineliyorum. 
+"Bir adama balık verirseniz onu bir gün doyurursunuz. Bir adama balık tutmayı öğretirseniz onu bir ömür 
+doyurursunuz." Ustalığa giden yol zaman, pratik ve sürekli öğrenmeye bağlılık gerektirir. Risk yönetimi ve 
+eğitimin doğru karışımıyla herkesin finansal piyasalarda başarı için gerekli becerileri edinebileceğine 
+kesinlikle inanıyorum.
+Bu kitap benim hevesli bir acemiden deneyimli bir uygulayıcıya kadar geçirdiğim evrimin somut bir 
+örneğidir. Grafiklerin ve teknik ayrıntıların ötesinde, kişisel anekdotlarla, aşılan zorluklarla ve ticaret 
+dünyasında kutlanan zaferlerle örülmüş bir anlatıyı gözler önüne seriyor.
+Benimle bu yolculuğa çıkarken, yalnızca ticaret stratejileri ve içgörüler değil, aynı zamanda bir dayanıklılık, uyum 
+sağlama ve sarsılmaz bir bilgi arayışı hikayesi de bekleyin. Sizi finansal piyasaların karmaşıklıklarında gezinmek için 
+bana katılmaya davet ediyorum; bu sadece bir rehber değil, aynı zamanda büyümek ve gelişmek isteyenler için ortak 
+bir keşif olan bir yolculuk.
+5www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+6www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Temel Vakıf.
+1. Zaman Unsurları:
+1.1 Zamanın Önemi
+Ticaret bağlamında zamanı tartışırken New York saat dilimini [UTC -4] dikkate almak çok 
+önemlidir. Bu, pek çok acemi yatırımcının piyasayı araştırmaya başlarken sıklıkla gözden kaçırdığı 
+önemli bir unsurdur.
+Her gün boyunca, fiyat hareketlerini etkileyen ve stratejik kapitalizasyon fırsatları sunan 
+farklı ticaret seansları vardır. Bu oturumları anlamak ve tanımak, yatırımcıların belirli piyasa 
+özelliklerini tahmin etmelerine ve bilinçli kararlar almalarına olanak tanır.
+1.2 Öldürme Bölgeleri
+Killzone'lar, volatilitenin daha yüksek olduğu işlem günü boyunca belirli zaman 
+pencereleridir ve bu da onu daha geniş aralıkları yakalamak için daha ideal kılar. Bu öldürme 
+bölgeleri genellikle dört oturuma ayrılır
+Not: Daha önce bahsedilen belirtilen "öldürme bölgeleri" zamanlamaları özellikle hisse senedi endeksleri için geçerlidir. 
+Forex piyasasında işlem yaparken bu zamanlamaları buna göre ayarlamak önemlidir.
+7www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+1.3 Haber Sürücüleri
+Haber faktörlerini izlemek, bunların ticaret planınız üzerindeki etkilerini anlamak için çok önemlidir. 
+Ziyaret edebilirsinhttp://www.forexfactory.com Potansiyel haber sürücüleri hakkında güncel kalmak için.
+- Saat 9:30'daki açılıştan önce bir haber sürücüsü ortaya çıkarsa, birincil likidite 
+enjeksiyonları zaten başlatılmış olduğundan, bu durum erken pozisyon arama fırsatı 
+sağlar.
+- Öte yandan, 09:30 açılışından sonra bir haber sürücüsü ortaya çıkarsa, likidite enjeksiyonu henüz 
+gelmediğinden fiyat konsolidasyonuna yol açması muhtemeldir. Bu durumda herhangi bir alım 
+satım kararı vermeden önce haber sürücüsünü beklemenizi öneririm.
+1.4 Makrolar
+Makrolar, algoritmanın önemli fiyat hareketleri yaratmasının beklendiği belirli zaman 
+aralıklarını ifade eder. Bu zaman dilimi içinde fiyatın mevcut likidite ile etkileşime geçme olasılığı 
+oldukça yüksektir ve ayrıca algoritmanın yeni likidite oluşturma potansiyeli de vardır.
+Makro Zaman Pencereleri:
+1. 08:50 - 9:10:
+AM oturumu makro yuvası
+2. 09:50 - 10:10:
+AM oturumu makro yuvası (Endeksler için yüksek olasılık)
+3. 10:50 - 11:10:
+AM oturumu makro yuvası
+4. 11:50 - 12:10:
+Öğle yemeği oturumu makro yuvası (katılmıyoruz)
+5. 12:10 - 13:40:
+PM oturumu makro yuvası
+6. 15:15 - 15:45:
+PM oturumu makro yuvası
+Piyasa fiyatlarının algoritmalar tarafından düzenlendiğini düşünürsek, böyle bir sistemin 
+talimatlara ihtiyaç duyduğu sonucu çıkar. ICT, IPDA'nın makroları günün belirli saatlerinde çalıştırdığını 
+iddia ediyor. Dikkatimizin odak noktası olan 9:50 ila 10:10 makrosu özellikle önemlidir. İşlevini ve 
+bundan nasıl yararlanılacağını anlamak, ticaret modelimizi geliştirmek için çok önemlidir. Bu zamana 
+bağlı eylemler kavramı olmadan, daha az deneyimli yatırımcılar, anahtar seviyenin uygunluğunu 
+değerlendirecek ihtiyari deneyim veya sezgiden yoksun olarak herhangi bir kilit seviyeden pazara 
+girmeye çalışabilirler.
+Bu 20 dakikalık makro zaman aralığında yatırımcılar, piyasanın hızlanarak kilit bir seviyeye 
+doğru ilerleyişini bekleyebilirler. Bu anahtar seviye, bir likidite havuzu veya "likidite çekme" işlevi gören 
+başka herhangi bir Hakimiyet Noktası (PD) Dizisi olarak ortaya çıkabilir.
+8www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+9www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+2. Likidite
+2.1. Likiditeyi Anlamak:
+BİT ticareti bağlamında likidite, önemli siparişlerin piyasada nerede bulunduğunun anlaşılmasını 
+içerir. Bu anlayış, yatırımcıların potansiyel destek ve direnç seviyelerini belirlemelerine, piyasa hareketlerini 
+tahmin etmelerine ve likidite akışı sırasında kurumsal yatırımcıların kurduğu tuzaklara düşmekten 
+kaçınmalarına yardımcı olur.
+A. Likidite Havuzları:
+Likidite havuzu, kayda değer miktarda alım veya satım emrinin beklendiği belirli bir 
+fiyat seviyesidir. Bu alanlar önemlidir çünkü kurumsal yatırımcıların ve piyasa 
+katılımcılarının işlem yapma olasılıklarının yüksek olduğu bölgeleri temsil ederler.
+B. Piyasa Manipülasyonu ve Likidite Çalışmaları:
+BİT sıklıkla piyasa manipülasyonu ve likidite akışı fikrini tartışır.
+Kurumsal yatırımcılar kasıtlı olarak aldatıcı fiyat hareketleri yaratabilirler (örneğin,Yahuda Salıncağı
+) perakende tüccarların zararı durdur emirlerini tetiklemek için. Bu, piyasanın yönünde hızlı bir 
+değişime ve kurumsal yatırımcıların pozisyonlarını doldurmaları için yeni likidite yaratılmasına yol 
+açabilir.
+2.2. Likidite türleri:
+A. Yüksek ve Düşük Salıncak:
+Yüksek Salıncak:
+Hem solda hem de sağda daha düşük yükseklere sahip bir yüksek 
+nokta olduğunda yüksek bir salınım oluşur.
+Düşük Salıncak:
+Hem solda hem de sağda daha yüksek alçaklara sahip bir düşük nokta 
+olduğunda bir düşük salınım oluşur.
+Şekil 1.2: Swing Low'un görsel tasviri
+10www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+B. Alıcı Taraf ve Satış Tarafı Likidite
+Satın Alma Tarafı Likidite:
+Aralığın üst kısmındaki yüksek bir salınım genellikle kısa pozisyonlardan satın alma durdurma emirlerini 
+tetikleyerek Satın Alma Tarafı Likidite olarak bilinen durumu yaratır. Bu senaryoda, daha önce piyasada 
+açığa satış yapan ve fiyatlar yükselirse satın almak için stop emirleri veren tüccarlar, artık piyasa onlara 
+karşı hareket ettiğinde bu satın alma emirlerini yerine getirmek zorunda kalıyor ve bu da satın alma 
+tarafında likiditenin artmasına katkıda bulunuyor.
+Şekil 2.1: Alım Tarafı Likiditesinin görsel tasviri
+Satış Tarafı Likidite:
+Aralığın alt kısmındaki düşük bir salınım, genellikle uzun pozisyonlardan (Satış Durdurmaları) satış 
+durdurma emirlerini tetikleyerek Satış Tarafı Likidite olarak adlandırılan şeyi yaratır. Bu durumda, daha 
+önce uzun pozisyon tutan ve fiyatın düşmesi durumunda satış yapmak için durdurma emri veren 
+tüccarlar, artık piyasa onlara karşı hareket ederken bu satış emirlerini yerine getirmek zorunda kalıyor ve 
+bu da satış tarafında likiditenin artmasına katkıda bulunuyor.
+Şekil 2.2: Satış Tarafı Likiditesinin görsel tasviri
+11www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+C. Oturumun En Yüksek ve En Düşükleri:
+Seanstaki en yüksek ve en düşük seviyeler, yatırımcıların sıklıkla likiditeden yararlanmak için puan olarak 
+kullandıkları likidite seviyeleridir ve potansiyel olarak piyasada geri dönüşlerin veya devamların sinyalini 
+verir. Bu seviyeler, belirli bir işlem seansı sırasında ulaşılan önemli fiyat noktalarını temsil eder ve kayda 
+değer miktarda alım veya satım emirlerinin mevcut olabileceği bölgeler olarak hareket edebilir. 
+Yatırımcılar potansiyel fırsatlar için ve piyasa duyarlılığını ölçmek için bu seviyeleri gözlemleyebilir.
+Şekil 3: Seans Likiditesinin görsel tasviri
+12www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+13www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+3. Kesici Bloklar
+3.1 Boğa Kırıcı Bloğu
+Likiditeyi tetiklemekten sorumlu olan aşağı yönlü bir hareketten önceki en yüksek kapanış 
+mumuna "yükseliş kırıcı blok" adı verilir. Tipik olarak, bir alçak salınım dizisi oluşturur, ardından bir 
+yüksek salınım, bir alçak salınım taraması (daha düşük bir alçak yaratır) ve sonuçta daha yüksek bir 
+yüksek yaratır.
+Şekil 4.1: Yükseliş kırıcı bloğun görsel tasviri
+3.2 Düşüş Kırıcı Bloğu
+Likiditeyi tetiklemekten sorumlu olan yukarı yönlü bir hareketten önceki en düşük kapanış 
+mumu, "düşüş yönlü kırıcı blok" olarak anılır. Tipik olarak, yüksek bir salınım dizisi oluşturur, ardından 
+alçak bir salınım, yüksek salınımın bir taraması (daha yüksek bir yüksek yaratır) ve sonuçta daha düşük 
+bir alçak yaratır.
+Şekil 4.2: Düşüş kırıcı bloğun görsel tasviri
+Not: “Kırıcının” ardışık kapanışları varsa ardışık mumları da kullanabilirsiniz.
+14www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+15www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+4. Gerçeğe Uygun Değer Boşlukları
+4.1 FVG'leri Anlamak
+Gerçeğe Uygun Değer Boşlukları (FVG) formasyonu, mum çubuğunun (1) en yüksek veya en düşük seviyesinin mum 
+çubuğunun (3) en düşük veya en yüksek seviyesiyle örtüşmediği üç mum çubuğu formasyonu olarak tanımlanır.
+Şekil 5.1: Gerçeğe Uygun Değer Boşluklarının görsel tasviri
+Mumun en yüksek seviyesi (1) mumun en düşük seviyesi (3) ile örtüşmüyor
+Şekil 5.2: Gerçeğe Uygun Değer Boşluklarının görsel tasviri
+16www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+4.2 BISI (Alış Tarafı Dengesizliği Satış Tarafı Verimsizliği)
+Bir Boğa FVG'sini temsil eder. Bu modelde fiyat, alıcı tarafı faaliyeti sunarak bir 
+dengesizlik yaratır ve satış tarafını verimsiz hale getirir.
+Temel karakteristik, mumun yüksek noktasının (1) mumun düşük seviyesiyle (3) 
+örtüşmemesidir.
+Şekil 6.1: BISI'nin görsel tasviri
+4.3 SIBI (Satış Tarafı Dengesizliği Satın Alma Tarafı Verimsizliği)
+Düşüş FVG'sini temsil ediyor. Bu senaryoda fiyat, satan tarafın lehine olur, dengesizlik 
+yaratır ve alıcı tarafı verimsiz bırakır.
+Temel karakteristik, mumun düşük seviyesinin (1) mumun yüksek seviyesiyle (3) 
+örtüşmemesidir.
+Şekil 6.2: SIBI'nin görsel tasviri
+17www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+18www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Piyasa Mekaniği
+5. Açılış Piyasası Dinamikleri
+5.1 Endekslerin açılış aralığı konsepti:
+Hisse senedi endeksleri en yüksek işlem hacmini genellikle açılış aralığı olarak adlandırılan 
+9:30 ile 10:00 saatleri arasında yaşar. ICT'ye göre bu zaman aralığında,Yahuda Salıncağı , (aşağıda 
+ele alınmıştır), tipik olarak günün en yüksek veya en düşük seviyesini belirleyerek oluşur. Açılış 
+aralığında algoritma genellikle iki komuttan birini yürütür:
+1. Likidite Arayışı (ERL): Bu, düşük veya yüksek bir salınımı yağmalamayı içerir.
+2. FVG'ye (IRL) Dönüş: Bu, anahtar PD Dizisine dönüşü ifade eder.
+Çoğunlukla bu olaylar saat 9:30'daki açılıştan sonraki 10 dakikalık bir zaman diliminde ortaya çıkar.
+özellikle 9:30 ile 9:40 arası. Bu kez fraktal, önemli piyasa manipülasyonu ile karakterize edilir. Artan 
+volatilite nedeniyle acemi ve orta düzey yatırımcılar sıklıkla doğrudan açıkta işlem yaptıkları için 
+cezalandırılırlar. Bu nedenle bu modeli benimseyen yatırımcıların saat 9:40'tan sonra işlem 
+yapmaları tavsiye edilir. Bu zamana kadar piyasanın çılgınlığı büyük ölçüde azaldı ve yatırımcılara 
+daha istikrarlı koşullar ve daha iyi fırsatlar sunuldu.
+5.2 Yahuda Salınımı:
+Judas Swing, yatırımcıları yanlış yöne yönlendirmek, yalnızca ilk hareketi takip edenleri hızlı bir 
+şekilde tersine çevirmek ve cezalandırmak için tasarlanmış, yukarı veya aşağı doğru, aldatıcı bir fiyat 
+hareketidir. Örneğin, daha yüksek zaman dilimi analizi kurumsal sipariş akışının yükselişe işaret 
+ettiğini gösteriyorsa, fiyat kasıtlı olarak son birikimin en düşük seviyesinin altına düşebilir.
+Şekil 7: Judas Swing'in görsel tasviri
+Manipülasyon salınımı sıklıkla çok önemli bir seviyeye doğru uzanır ve bu, Şekil 7'de gösterildiği gibi eski bir yüksek 
+veya düşük seviye gibi belirgin bir likidite havuzu olarak ortaya çıkabilir. Bununla birlikte, bu kilit seviye aynı 
+zamanda diğer çeşitli Hakimiyet Noktaları (PD) ile de karakterize edilebilir. ) Sıra blokları, dengesizlikler ve daha 
+fazlasını içeren diziler.
+19www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+20www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Boynuzlu at
+6. Hepsini bir araya getirmek
+Şimdi tüm bileşenler elimizde olduğuna göre bunları iyi yapılandırılmış bir bütün halinde kusursuz bir şekilde entegre 
+edelim
+6.1 Açılış saatleri
+Zaman en önemli unsurumuzdur. Uygulamalarımız yalnızca açılış dönemlerinde 
+zamanlanır:
+● FX Açılışları:
+Ö
+Ö
+Londra: 02:00 – 05:00 EST 
+NY: 07:00 – 10:00 EST
+● Açık Endeksler:
+Ö
+Ö
+Londra: 02:00 – 05:00 NY: 
+9:30 – 12:00 EST
+Açılış saatleri dışında işlem yapmıyoruz.
+6.2 Kesici
+"kırıcı Özellikle likidite açılış fiyatından çıkarıldığında, en güçlü algoritmik giriş 
+modellerinden biri olarak öne çıkıyor." - ICT
+6.3 Likiditeden Yararlanma (DOL)
+En önemli unsur likiditenin çekilmesidir. Fiyat esasen iki aktiviteyle meşgul: ya 
+yüksek/düşük salınımın üstünde/altında koşmak ya da verimsizliği yeniden dengelemek.
+Sonuç olarak, likidite kaynaklarımız yüksek/düşük dalgalanmalar ve Gerçeğe Uygun Değer 
+Boşluklarıdır. Likiditeden yararlanmak için daha yüksek zaman dilimlerinden bilgi çıkarıyoruz ve 
+kendimizi bu zaman dilimlerindeki geçerli emir akışına göre ayarlıyoruz.
+6.4 Zaman Çerçevesi Hizalaması
+Analitik yaklaşımımız her zaman daha yüksek zaman dilimlerinden başlar ve giderek daha 
+düşük zaman dilimlerine doğru ilerler. Zaman çerçevesi hizalaması, analiz çerçevelerini belirlemek 
+için kılavuzumuz görevi görür:
+● Aylık PD dizisiile aynı hizadadırGünlük Giriş Fonksiyonu
+● Haftalık PD dizisiile aynı hizadadır4HR Giriş Fonksiyonu
+● Günlük PD dizisiile aynı hizadadır1HR Giriş Fonksiyonu
+● 4HR PD dizisiile aynı hizadadır15M Giriş Fonksiyonu
+● 1HR PD dizisiile aynı hizadadır5M Giriş Fonksiyonu
+● 15M PD dizisiile aynı hizadadır1M Giriş Fonksiyonu
+21www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+22www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+7. Süreç
+Likiditenin yerlerini anlamak zorunludur. En güçlü kırıcılar genellikle
+iki likidite katmanıyla karşılaşırsınız: kısa vadeli ve daha yüksek zaman dilimi.Zaman çerçevesi hizalaması her iki likidite 
+türünü de yakalamak için kullandığımız araçtır. Analiz sırasında, yürütme bölgesi olarak daha yüksek bir zaman diliminin 
+yüksek/düşük salınımını veya Gerçeğe Uygun Değer Boşluğunu kullanmaya öncelik veriyoruz. Bu daha yüksek zaman dilimi 
+ilgi alanına ulaştığımızda, özellikle açılış saatlerinde, giriş fonksiyonumuzu başlatmak için kısa vadeli likidite kapma (baskın) 
+arayışını başlatıyoruz.
+23www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+24www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+İnfaz
+8. Giriş Protokolü:
+1. Daha yüksek zaman dilimi analizinden net bir sapma oluşturun (Günlük Grafik)
+2. NYSE piyasasının saat 9:30'da açılmasını sabırla bekleyin.
+3. Yönünü ayırt ederek Judas Swing'i tanımlayın [Daha Yüksek Zaman Çerçevesi baskını (1h)].
+4. İlgi alanı dahilinde, durdurma avına karşı dikkatli olun [Kısa süreli baskın (5m)].
+5. 5 m TF'lik bir iç Gerçeğe Uygun Değer Boşluğuna (FVG) sahip bir kesicinin oluşturulduğundan emin olun.
+6. Kırıcıya stratejik olarak bir limit emri verin.
+7. Kırıcının hemen altına bir zararı durdurma emri uygulayın.
+8. Belirlenen önyargıyla uyumlu bir 2RR hedefini tutarlı bir şekilde hedefleyin.
+Şekil 8: İşlem Gerçekleştirmesinin görsel tasviri
+25www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+26www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Disiplin
+9. Sipariş Sırası ve Disiplini:
+Modelimi ve uygulamalarımı belirlerken sipariş sıram ve disiplinim:
+1. Risk Yönetimi:
+● Riski işlem başına maksimum %1 ile sınırlayın.
+● Günde birden fazla işlem gerçekleştirmeyin.
+● Ticareti haftada en fazla iki işlemle sınırlayın.
+2 kez:
+● Zamanı en önemli unsur olarak kabul edin.
+● Belirlenen avlanma saatlerine kesinlikle uyun (Avlanma saatim yalnızca NY AM KZ olduğundan).
+● Yüksek etkili etkinlikler için ekonomik takvimden haberdar olun.
+3. Likidite Önyargısı/Çekilmesi:
+● İç > dış ilişkiyi kullanarak bir önyargı formüle etmek için günlük grafikte analiz başlatın.
+● Önyargıyı kanıtlamak için likiditeden belirgin bir şekilde yararlanılması gerekir.
+4. Zaman Çerçevesi Hizalaması:
+● I Günlük analizden sonra saatlik grafiğe geçiyorum.
+● Daha yüksek zaman dilimi ilgi alanları olarak saatlik dalgalanma yüksek/düşüklerini veya Gerçeğe Uygun Değer Boşluklarını 
+(FVG) belirleyin.
+5. Giriş İşlevi:
+● Avlanma saatlerinde 5M haritasındaki kriterleri doğrulayın.
+● Belirlenen önyargı ve daha yüksek zaman dilimi PD dizileriyle hizalamayı sağlayın.
+● Ticareti yürüt
+6. Duygusal ve Psikolojik Zeka:
+● Duygusal disiplini ve psikolojik dayanıklılığı destekleyin.
+● Kararlı karar verme için ticaret modeline tutarlı bir şekilde bağlı kalın.
+İşlemleri her zaman belirtilen kriterler, hassasiyet, disiplin ve zihinsel dayanıklılıkla 
+gerçekleştiriyorum!
+27www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+⑄“Unicorn Edge”in Ötesine Geçmek⑄
+"The Unicorn Edge" ile bu yolculuğu tamamlarken, sunulan içgörüler ve stratejiler şu şekildedir:
+sadece teorik değil, eyleme açılan bir kapıdırlar. Şimdi gerçek dünyaya dalalım
+bu modelin uygulanması.
+Olarak izleFurkan Malick'in Youtube'u teoriyi pratiğe dönüştürüyor, işlemleri hassasiyetle gerçekleştiriyor ve 
+deneyimlerini paylaşıyorheyecan . Daha sürükleyici bir deneyim ve çeşitli platformlar arasında bağlantı kurmak için 
+şu adresi ziyaret edin:bento.me/furqan-malick
+Ticaret dünyasında eylem, sözlerden daha yüksek sesle konuşur. Furkan'ı takip edin, ticaretine tanık 
+olun ve bu kitabın sayfalarını aşan değerli bilgiler edinin. Yolculuk burada bitmiyor; her ticaretin 
+öğrenme, uyum sağlama ve büyüme fırsatı olduğu piyasaların dinamik alanına kadar uzanır.
+Bizi izlemeye devam edin, etkileşimde kalın ve ticaret yolculuğunuz başarı ve sürekli keşifle dolu olsun!
+⫷Mutlu Ticaret⫸
+⫷Son⫸
+28www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+ 
+1 
+ 
+  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+ 
+2 
+ 
+Table of Contents 
+The Basic Foundation.  
+1. Time Elements 7 
+1.1 Importance of Time .......................................................................................................................... 7 
+1.3 News Drivers ....................................................................................................................................... 8 
+1.4 Macros ................................................................................................................................................ 8 
+2. Liquidity 10 
+2.1. Understanding Liquidity: ................................................................................................................ 10 
+a. Liquidity Pools: .............................................................................................................................. 10 
+b. Market Manipulation and Liquidity Runs: ................................................................................. 10 
+2.2. Types of liquidity: ............................................................................................................................. 10 
+a. Swing Highs and Lows: ................................................................................................................ 10 
+b. Buyside and Sellside Liquidity ..................................................................................................... 11 
+c. Session Highs and Lows: .............................................................................................................. 12 
+3. Breaker Blocks 14 
+3.1 Bullish Breaker Block ........................................................................................................................ 14 
+3.2 Bearish Breaker Block ..................................................................................................................... 14 
+4. Fair Value Gaps 16 
+4.1 Understanding FVGs ....................................................................................................................... 16 
+4.2 BISI (Buy Side Imbalance Sell Side Inefficiency) ......................................................................... 17 
+4.3 SIBI (Sell Side Imbalance Buy Side Inefficiency).......................................................................... 17 
+Market Mechanics  
+5. Opening Market Dynamics 19 
+5.1 Indices opening range concept: ................................................................................................. 19 
+5.2 The Judas Swing: ............................................................................................................................. 19 
+The Unicorn  
+6. Putting All Together 21 
+6.1 Opening times ................................................................................................................................. 21 
+6.2 Breaker ............................................................................................................................................. 21 
+6.3 Draw on Liquidity (DOL) ................................................................................................................. 21 
+6.4 Time Frame Alignment ................................................................................................................... 21 
+7. The Process 22 
+The Execution 25 
+8. Entry Protocol 25 
+ The Discipline 25 
+9. The Order Sequience and Discipline 27 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+ 
+3 
+ 
+ 
+Acknowledgments 
+ 
+ 
+Expressing gratitude becomes a challenge when there are countless individuals to thank. Primarily, this e -
+book is an expression of heartfelt thanks to my father, a powerful role model, and to my mother, the 
+embodiment of love and kindness. 
+ 
+I owe the realization of this book to two exceptional mentors who played pivotal roles. My sincere 
+appreciation goes to Matthew Geisler, fondly known as "Ash Trades," and Michael J Huddleston, recognized 
+as "ICT." Their guidance, insights, and unwavering support were instrumental in transforming this endeavor 
+from a vision into reality.  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+ 
+4 
+ 
+Disclaimer 
+Furqan Malick Trades Market Options: 
+Any opinions, news, research, analyses, prices, or other information contained on this paper is provided as general market 
+commentary, and does not constitute investment advice. Furqan Malick will not accept liability for any loss or damage, including 
+without limitation to, any loss off profit, which may arise directly or indirectly from use of or reliance on such information. 
+ 
+Accuracy of information and the content on this book is subject to change at any time without notice, and is provided for the sole 
+purpose of assisting traders to make independent investment decisions. Furqan Malick has taken reasonable measures to ensure the 
+accuracy of the information on the paper, however, does not guarantee its accuracy, and will not accept liability for any loss or 
+damage which may arise directly of indirectly from the content or your inability to access the paper, for any delay in or failure of the 
+transmission or the receipt of any information or notifications sent through this paper. 
+ 
+Government Required Risk Disclaimer and Disclosure Statement: 
+CFTC RULE 4.41 HYPOTHETICAL OR SIMULATED PERFORMANCE RESULTS HAVE CERTAIN LIMITATIONS, UNLIKE AN ACTUAL PERFORMANCE 
+RECORD, SIMULATED RESULTS DO NOT REPRESENT ACTUAL TRADING. ALSO, SINCE THE TRADES HAVE NOT BEEN EXECUTED, THE RESULTS 
+MAY HAVE UNDER-OR-OVER COMPENSATED FOR THE IMPACT, IF ANY, OF CERTAIN MARKET FACTORS, SUCH AS LACK OF LIQUIDITY. 
+SIMULATED TRADING PROGRAMS IN GENERAL ARE ALSO SUBJECT TO THE FACT THAT THEY ARE DESIGNED WITH THE BENEFIT OF HINDSIGHT. 
+NO REPRESENTATION IS BEING MADE THAT ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PROFIT OR LOSSES SIMILAR TO THOSE SHOWN. 
+ 
+Trading performance displayed herein is hypothetical. Hypothetical performance results have many inherent limitations, some of which 
+are described below. No representation is being made that any account will or is likely to achieve profits or losses similar to those 
+shown. In fact, there are frequently sharp differences between hypothetical performances results and the actual results subsequently 
+achieved by any particular trading program. One of the limitations of hypothetical performance trading results is that they are 
+generally prepared with the benefit of hindsight. In addition, hypothetical trading does not involve financial risk, and no hypothetical 
+trading record can completely account for the impact of financial risk in actual trading. For example, the ability to withstand losses or 
+to adhere to a particular trading program in spite of trading losses are material points with can also adversely affect actual trading 
+results. There are numerous other factors related to the markets in general or to the Implementation of any specific trading program 
+which cannot be fully accounted for in the preparation of hypothetical performance results and all of which adversely affect actual 
+trading results. 
+ 
+U.S. Government Required Disclaimer - Commodity Futures Trading Commission Futures and Options trading has large potential 
+rewards, but also large potential risk. You must be aware of the risks and be willing to accept them in order to invest in the futures and 
+options markets. Don't trade with money you can't afford to lose. This is neither a solicitation nor an offer to Buy/Sell futures or options. 
+No representation is being made that any account will or is likely to achieve profits or losses similar to those discussed on this website. 
+The past performance of any trading system or methodology is not necessarily indicative of future results. Trade at your own risk. The 
+information provided here is of the nature of a general comment only and neither purports nor intends to be, specific trading advice. It 
+has been prepared without regard to any particular person's investment objectives and financial. Information should not be 
+considered as an offer or enticement to buy, sell or trade. 
+ 
+You should seek appropriate advice from your broker, or licensed investment advisor, before taking any action. Past performance 
+does not guarantee future results. Simulated performance results contain inherent limitations. Unlike actual performance records the 
+results may under or over compensate for such factors such as lack of liquidity. No representation is being made that any account will 
+or is likely to achieve profits or losses to those shown. The risk of loss in trading can be substantial. You should therefore carefully consider 
+whether such trading is suitable for you in light of your financial condition. 
+ 
+If you purchase or sell Equities, Futures, Currencies or Options you may sustain a total loss of the initial margins funds and any additional 
+funds that you deposit with your broker to establish or maintain your position. If the market moves against your position, you may be 
+called upon by your broker to deposit a substantial amount of additional margin funds, on short notice in order to maintain your 
+position. If you do not provide the required funds within the prescribed time, your position may be liquidated at a loss, and you may be 
+liable for any resulting deficit in your account. 
+Under certain market conditions, you may find it difficult or impossible to liquidate a position. This can occur, for example, when the 
+market makes a "limit move." The placement of contingent orders by you, such as a "stop-loss" or "stop-limit" order, will not necessarily 
+limit your losses to the intended amounts, since market conditions may make it impossible to execute such orders. By viewing any 
+Furqan Malick Trades text, audio, visual commentary, video or presentation, you acknowledge and accept that all trading decisions 
+are your own sole responsibility, and the author, Furqan Malick and anybody associated with Furqan Malick cannot be held 
+responsible for any losses that are incurred as a result. 
+  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+ 
+5 
+ 
+Who is Furqan Malick 
+A brief Introduction 
+ 
+Greetings to fellow traders and enthusiasts! Allow me to introduce myself—I am Furqan Malick, a 
+visionary aspiring to blend the worlds of real estate development and forex trading. In the vast 
+expanse of financial markets, I navigate the waters of equity and forex, utilizing them as vessels to 
+liquidity. 
+ 
+My journey involves the continuous pursuit of growing passive income through day trading. Each 
+evening, I embark on a series of day trades to secure short-term profits, funds earmarked for future 
+real estate acquisitions. Leveraging equity indices during the opening bell, I capitalize on shorter-
+term market movements. 
+ 
+As I share my experiences and insights, I echo the sentiment that education is the cornerstone of 
+success. "Give a man a fish, and you feed him for a day. Teach a man to fish, and you feed him 
+for a lifetime." The path to mastery requires time, practice, and a commitment to continuous 
+learning. With the right blend of risk management and education, I firmly believe that anyone can 
+acquire the skills needed for success in the financial markets. 
+ 
+This book is an embodiment of my evolution—from an eager novice to a seasoned practitioner. 
+Beyond charts and technicalities, it unfolds a narrative woven with personal anecdotes, 
+challenges overcome, and triumphs celebrated in the realm of trading. 
+ 
+As you embark on this journey with me, expect not just trading strategies and insights but a story of 
+resilience, adaptability, and an unwavering quest for knowledge. I invite you to join me in 
+navigating the complexities of financial markets—a journey that is not just a guide but a shared 
+exploration for those who seek to grow and thrive. 
+  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+ 
+6 
+ 
+ 
+ 
+  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+ 
+7 
+ 
+The Basic Foundation. 
+1. Time Elements: 
+1.1 Importance of Time 
+When discussing time in the context of trading, it's crucial to consider the New York 
+time zone [UTC -4]. This is a key element that many novice traders often overlook when 
+starting to delve into the market.  
+Throughout each day, there are distinct trading sessions that influence price 
+movements, presenting opportunities for strategic capitalization. Understanding and 
+recognizing these sessions allows traders to anticipate specific market characteristics and 
+make informed decisions. 
+1.2 Killzones 
+Killzones are specific time windows during the trading day in which the volatility is 
+higher which makes it more ideal for catching larger ranges. This killzones are generally 
+divided into four sessions 
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+Note: The specified "killzones" timings mentioned earlier apply specifically to stock indices. It's 
+essential to adjust these timings accordingly when trading in the Forex market 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+ 
+8 
+ 
+1.3 News Drivers 
+Monitoring news drivers is crucial to understanding their impact on your trading 
+schedule. You can visit http://www.forexfactory.com to stay updated on potential news 
+drivers. 
+- If a news driver occurs before the 9:30 open, it provides an opportunity for early 
+position searching since the primary liquidity injections have already been 
+induced. 
+ 
+- On the other hand, if a news driver occurs after the 09:30 open, it is likely to result 
+in price consolidation as the liquidity injection is yet to arrive. In this case, I 
+recommend waiting for the news driver before making any trading decisions. 
+ 
+1.4 Macros 
+Macros refer to specific time slots during which the algorithm is expected to 
+generate significant price movements. Within this timeframe, the price is highly likely to 
+engage with existing liquidity, and there is also the potential for the algorithm to establish 
+new liquidity. 
+Macro Time Windows: 
+1. 08:50 - 9:10: 
+AM session macro slot 
+2. 09:50 - 10:10: 
+AM session macro slot (High probability for indices) 
+3. 10:50 - 11:10: 
+AM session macro slot 
+4. 11:50 - 12:10: 
+Lunch session macro slot (we don't participate) 
+5. 12:10 - 13:40 PM: 
+PM session macro slot 
+6. 15:15 - 15:45 PM: 
+PM session macro slot 
+ 
+If we consider that market prices are orchestrated by algorithms, it follows that such 
+a system requires instructions. ICT asserts that the IPDA executes macros at specific times 
+during the day. Of particular significance is the 9:50 to 10:10 macro, a focal point for our 
+attention. Understanding its function and how to leverage it is crucial for enhancing our 
+trading model. Without this concept of time-bound actions, less experienced traders might 
+attempt to enter the market at any key level, lacking the discretionary experience or 
+intuition to assess the relevance of the key level. 
+During this 20-minute macro time window, traders can anticipate an accelerated 
+market pace, moving towards a key level. This key level may manifest as a liquidity pool or 
+any other Point of Dominance (PD) Array that serves as a "draw on liquidity."  
+  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+ 
+9 
+ 
+ 
+  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+ 
+10 
+ 
+2. Liquidity 
+2.1. Understanding Liquidity: 
+Liquidity in the context of ICT trading involves understanding where significant orders 
+are located in the market. This understanding helps traders identify potential support and 
+resistance levels, anticipate market movements, and avoid falling into traps set by 
+institutional traders during liquidity runs. 
+a. Liquidity Pools: 
+A liquidity pool is a specific price level where a notable concentration of buy 
+or sell orders is expected. These areas are significant because they represent zones 
+where institutional traders and market participants are likely to execute trades.  
+b. Market Manipulation and Liquidity Runs: 
+ICT often discusses the idea of market manipulation and liquidity runs. 
+Institutional traders may intentionally create deceptive price movements (like the 
+Judas Swing) to trigger the stop-loss orders of retail traders. This can lead to a swift 
+change in market direction and the creation of new liquidity for institutional traders 
+to fill their positions.  
+ 
+2.2.  Types of liquidity: 
+a. Swing Highs and Lows: 
+ 
+ 
+Swing High:  
+A swing high is formed when there is a high point with 
+lower highs both to the left and right. 
+ 
+ 
+ 
+ 
+ 
+Swing Low:  
+A swing low is formed when there is a low point with higher 
+lows both to the left and right. 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Figure 1.2: Visual depiction Swing Low 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+ 
+11 
+ 
+b. Buyside and Sell side Liquidity 
+Buy Side Liquidity:  
+A swing high at the top of the range often triggers buy stop orders from short 
+positions, creating what is known as Buy-side Liquidity. In this scenario, traders who 
+were previously shorting the market and placed stop orders to buy if the price rises 
+are now compelled to execute those buy orders as the market moves against them, 
+contributing to increased liquidity on the buy side. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sell Side Liquidity:  
+A swing low at the bottom of the range typically triggers sell stop orders from long 
+positions (Sell Stops), creating what is referred to as Sell-side Liquidity. In this situation, 
+traders who were previously holding long positions and placed stop orders to sell if 
+the price falls are now compelled to execute those sell orders as the market moves 
+against them, contributing to increased liquidity on the sell side.  
+  
+Figure 2.1: Visual depiction of Buy Side Liquidity 
+Figure 2.2: Visual depiction of Sell Side Liquidity 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+ 
+12 
+ 
+c. Session Highs and Lows: 
+Session highs and lows are liquidity levels that traders often utilize as points to draw 
+on liquidity, potentially signaling reversals or continuations in the market. These levels 
+represent significant price points reached during a specific trading session and can 
+act as zones where a notable concentration of buy or sell orders may be present. 
+Traders may observe these levels for potential opportunities and to gauge market 
+sentiment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+Figure 3: Visual depiction of Session Liquidity 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+ 
+13 
+ 
+ 
+  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+ 
+14 
+ 
+3. Breaker Blocks 
+3.1 Bullish Breaker Block 
+The highest up-close candle before a downward move, responsible for triggering 
+liquidity, is referred to as a "bullish breaker block." Typically, it forms a sequence of a swing 
+low, followed by a swing high, a sweep of the swing low (creates lower low), and ultimately 
+creates a higher high. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2 Bearish Breaker Block 
+The lowest down-close candle before an upward move, responsible for triggering 
+liquidity, is referred to as a "bearish breaker block." Typically, it forms a sequence of a swing 
+high, followed by a swing low, a sweep of the swing high (creates higher high), and 
+ultimately creates a lower low.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Figure 4.1: Visual depiction of bullish breaker block 
+Figure 4.2: Visual depiction of bearish breaker block 
+Note: When the “breaker” has consecutive closes you can also use the consecutive candles as well.  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+ 
+15 
+ 
+  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+ 
+16 
+ 
+4. Fair Value Gaps 
+4.1 Understanding FVGs 
+The Fair Value Gaps (FVG) pattern is identified as a three-candlestick formation where the 
+high or low of candlestick (1) does not overlap with the low or high of candlestick (3).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The high of candle (1) does not overlap with the low of candle (3)  
+Figure 5.1: Visual depiction of Fair Value Gaps 
+Figure 5.2: Visual depiction of Fair Value Gaps 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+ 
+17 
+ 
+4.2 BISI (Buy Side Imbalance Sell Side Inefficiency) 
+It represents a Bullish FVG . In this pattern, price creates an imbalance by offering 
+buyside activity, rendering the sell side inefficient.  
+The key characteristic is that the high of candle (1) does not overlap with the low 
+of candle (3). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.3 SIBI (Sell Side Imbalance Buy Side Inefficiency) 
+It represents a bearish FVG . In this scenario, price favors the sell side, creating an 
+imbalance and leaving the buy side inefficient.  
+The key characteristic is that the low of candle (1) does not overlap with the high 
+of candle (3).  
+  
+Figure 6.1: Visual depiction of BISI 
+Figure 6.2: Visual depiction of SIBI 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+ 
+18 
+ 
+  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+ 
+19 
+ 
+Market Mechanics 
+5. Opening Market Dynamics 
+5.1 Indices opening range concept: 
+Stock indices experience their peak trading volume between 9:30 and 10:00, 
+commonly referred to as the opening range. According to ICT during this time window, the 
+Judas Swing, (discussed below), typically forms, establishing either the day's high or low. 
+Within the opening range, the algorithm generally executes one of two commands: 
+ 
+1. Seek Liquidity (ERL): This involves raiding a swing low or high. 
+2. Return to FVG (IRL): This refers to a return to a key PD Array. 
+Most often, these events unfold in a 10-minute window after the 9:30 open, 
+specifically between 9:30 to 9:40. This time fractal is characterized by significant market 
+manipulation. Novice and intermediate traders are frequently penalized for trading directly 
+at the open due to the heightened volatility. Hence, it is recommended for traders 
+adopting this model to execute trades after 9:40. By this time, the market's frenzy has mostly 
+subsided, presenting traders with more stable conditions and better opportunities. 
+ 
+5.2 The Judas Swing: 
+A Judas Swing is essentially a deceptive price movement, whether upward or 
+downward, designed to mislead traders in the wrong direction, only to swiftly reverse and 
+penalize those who chased the initial move. For instance, if higher timeframe analysis 
+suggests a bullish institutional order flow, the price may intentionally dip below the last 
+accumulation's low. 
+Once it falls below that low, retail turtle traders are lured into the incorrect side of the 
+market. Bears find themselves trapped in their short positions, and early bulls face 
+repercussions as their stop losses are triggered. Employing logic and thorough analysis, it's 
+advisable to view with suspicion any rally that contradicts our bullish bias, as these often 
+lead to false breakouts. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The manipulation swing frequently extends towards a crucial level, which might manifest as an 
+evident liquidity pool, such as an old high or low, as illustrated in Figure 7. However, this key level 
+can also be characterized by various other Point of Dominance (PD) Arrays, including order 
+blocks, imbalances, and more.  
+Figure 7: Visual depiction of Judas Swing 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+ 
+20 
+ 
+  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+ 
+21 
+ 
+The Unicorn 
+6. Putting all together 
+Now, with all components in hand, let's seamlessly integrate them into a well-structured 
+whole 
+6.1 Opening times 
+Time is our most crucial element. Our executions are exclusively timed during 
+the opening periods: 
+● FX Opens: 
+o London: 2 am – 5 am EST 
+o NY: 7 am – 10 am EST 
+ 
+● Indices Open: 
+o London: 2 am – 5 am 
+o NY: 9:30 am – 12 pm EST 
+We do not trade outside of the opening times. 
+6.2 Breaker 
+"The breaker stands out as one of the most potent algorithmic entry patterns, 
+particularly when liquidity is extracted at the opening price." - ICT  
+6.3 Draw on Liquidity (DOL) 
+The most crucial element is the draw on liquidity. Price essentially engages in 
+two activities: either running above/below a swing high/low or rebalancing an 
+inefficiency.  
+Consequently, our liquidity sources are swing highs/lows and Fair Value Gaps. 
+To harness draw on liquidity, we extract information from higher time frames, aligning 
+ourselves with the prevailing order flow on those timeframes. 
+6.4 Time Frame Alignment 
+Our analytical approach always begins from higher time frames and 
+progressively moves to lower time frames. Time frame alignment serves as our guide 
+to determine the frames for analysis: 
+● Monthly PD array aligns with the Daily Entry Function 
+● Weekly PD array aligns with the 4HR Entry Function 
+● Daily PD array aligns with the 1HR Entry Function 
+● 4HR PD array aligns with the 15M Entry Function 
+● 1HR PD array aligns with the 5M Entry Function 
+● 15M PD array aligns with the 1M Entry Function 
+  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+ 
+22 
+ 
+ 
+  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+ 
+23 
+ 
+7. The Process 
+                     Understanding the locations of liquidity is imperative. The most potent breakers often 
+encounter two layers of liquidity: short-term and higher time frame. Time frame alignment is our 
+tool for capturing both types of liquidity. During analysis, we prioritize using a higher time frame's 
+swing high/low or Fair Value Gap as an execution zone. Once at this higher time frame area of 
+interest, particularly during opening times, we initiate the quest for short-term liquidity grabs (raids) 
+to commence our entry function
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+ 
+24 
+ 
+  
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+ 
+25 
+ 
+ 
+ 
+The Execution 
+8. Entry Protocol: 
+ 
+1. Establish a clear bias from the higher timeframe analysis (Daily Chart) 
+ 
+2. Patiently await the opening of the NYSE market at 9:30. 
+ 
+3. Identify the Judas Swing, discerning its direction [Higher Time Frame raid (1h)]. 
+ 
+4. Within the area of interest, be vigilant for a stop hunt [Short-term raid (5m)]. 
+ 
+5. Ensure a breaker is formed with an inside Fair Value Gap (FVG) in 5m TF. 
+ 
+6. Strategically place a limit order at the breaker. 
+ 
+7. Implement a stop-loss order just below the breaker. 
+ 
+8. Consistently aim for a 2RR target aligned with the established bias. 
+  
+Figure 8: Visual depiction of Trade Execution 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+ 
+26 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+ 
+27 
+ 
+ The Discipline 
+9. The Order Sequence & Discipline: 
+ 
+My order sequence and discipline when I identify my model and executions: 
+1. Risk Management: 
+● Limit risk to a maximum of 1% per trade. 
+● Execute no more than one trade per day. 
+● Restrict trading to a maximum of two trades per week. 
+ 
+2. Time: 
+● Recognize time as the paramount element. 
+● Strictly adhere to designated hunting hours (As my hunting hour is only NY AM KZ). 
+● Stay informed with the economic calendar for high-impact events. 
+ 
+3. Bias/Draw on Liquidity: 
+● Initiate analysis on the daily chart to formulate a bias using the internal > external 
+relationship. 
+● Require a distinct draw on liquidity to substantiate the bias. 
+ 
+4. Time Frame Alignment: 
+● I Progress to the hourly chart post daily analysis. 
+● Identify hourly swing highs/lows or Fair Value Gaps (FVG) as higher time frame areas 
+of interest. 
+ 
+5. Entry Function: 
+● Confirm criteria on the 5M chart during hunting hours. 
+● Ensure alignment with the established bias and higher time frame PD arrays. 
+● Execute trade 
+ 
+6. Emotional and Psychological Intelligence: 
+● Uphold emotional discipline and psychological resilience. 
+● Consistently adhere to the trading model for steadfast decision-making. 
+ 
+I always execute trades with the mentioned criteria, precision, discipline, and mental 
+resilience! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+ 
+28 
+ 
+⑄ Going Beyond “The Unicorn Edge” ⑄ 
+ 
+As we conclude this journey through "The Unicorn Edge," the insights and strategies presented are 
+not merely theoretical—they are a gateway to action. Now, let's delve into the real-world 
+execution of this model. 
+ 
+Watch as Furqan Malick’s Youtube translates theory into practice, executing trades with precision 
+and sharing his experiences on Twitter. For a more immersive experience and to connect across 
+various platforms, visit bento.me/furqan-malick 
+ 
+In the world of trading, action speaks louder than words. Follow Furqan, witness his trades, and 
+gain valuable insights that go beyond the pages of this book. The journey doesn't end here; it 
+extends into the dynamic realm of the markets, where every trade is an opportunity to learn, 
+adapt, and grow. 
+ 
+Stay tuned, stay engaged, and may your trading journey be filled with success and continuous 
+discovery! 
+ 
+ 
+ 
+⫷ Happy Trading ⫸ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⫷ The End ⫸ 
+www.forexgercekleri.xyz - [Twitter: @eseckal]

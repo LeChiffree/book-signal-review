@@ -1,0 +1,3670 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 1\Baskı 1\Gelişmiş Fibonacci Trading Kavramları - Jim Kane (146 sayfa) - @eseckal.pdf
+PAGES: 146
+
+
+=== PDF PAGE 1 ===
+Teşekkür
+Bir tüccar olarak gelişimim sırasında hatırlayabildiğimden daha fazla 
+materyal okudum. Bu materyalin çoğunluğunun bilgi tabanıma çok az 
+katkısı oldu. Benim için materyaldeki bu değer eksikliği başlı başına 
+önemli bir bilgidir. Bana yardımcı olmayan şeyler bir eleme süreciyle 
+gösterildi ve bu bilgiyi bir ticaret planı oluştururken kullanabilirim.
+Fibonacci ticaretiyle ilgili materyallerin geliştirilmesinde iki kaynak çok yardımcı 
+oldu. Bu kaynakları anmak isterim ve okuyucuların bu kaynaklardaki materyallere 
+bakmalarını tavsiye ederim. Bakalım, benim ticaretime olduğu kadar sizin 
+ticaretinize de yardımcı olabilecekler mi?
+Harmonic Trader'dan Scott Carney'e teşekkür etmek isterim. Scott'ın kitabı The 
+Harmonic ve web sitesindeki materyal
+(www.HarmonicTrader.com). Piyasaları görmek için gözlerimi başka bir yöne 
+açtım. Bu benim piyasalarda ticarette Fibonacci ve harmonik kavramlarına 
+ilk önemli girişimimdi. Scott, web sitesinde harmonik kalıplar hakkında 
+oldukça geniş bilgiye sahip ve kendine ait birçok kalıp geliştirmiş. Scott ve 
+ben o zamandan beri harmonikleri ve piyasaları tartışarak sonsuz saatler 
+geçirdik. Piyasalara ilişkin tarihsel bilgisi olağanüstüdür ve benim bilgi 
+tabanıma büyük katkı sağlamıştır.
+Ayrıca Dynamic Traders Group, Inc.'den Robert Miner'a da teşekkür etmek isterim. 
+(www.DynamicTraders.com). Robert'ın kitabı, benimdi
+Fibonacci'ye ve ticarete bir sonraki ciddi gezi. Bu kitap inanılmayacak kadar 
+kapsamlıdır. İçinde o kadar çok malzeme var ki Yaparım
+ticarette ve El liot dalga analizinde Fibonacc i hakkındaki bilgilerini artırmak 
+isteyen herkesin mutlaka okuması gerektiğini düşünmeliyiz. Robert'ın zaman 
+faktörünü kullanımı da oldukça kapsamlıdır ve kişinin gözünü fiyat dışındaki 
+faktörlere de açacaktır. Robert ayrıca çeşitli Fibonacci, harmonik ve zaman 
+faktörleriyle etiketlenmiş grafikler oluşturmak için kullandığım Dynamic Trader 
+yazılımına da sahip. Bu kitabın grafiklerini oluşturmak için kullandığım 
+yazılımdır. Bu grafikleri çalışmalarımda kullanmama izin verdiği için Robert'a ek 
+bir teşekkür ve teşekkür etmek isterim. Ürünleri ile ilgili bilgiler web sitesinde 
+mevcuttur. Ticaretinize yardımcı olacak bilgilerin bulunup bulunmadığını 
+görmek için kontrol etmenizi öneririm. Bu alandaki katkıları neredeyse 
+ölçülemez.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+giriiş
+Bu kitaptaki amacım, piyasalarda işlem yapmak için Fibonacci sayılarının 
+kullanımına ilişkin bazı ileri düzey fikirler sunmaktır. Bu kitabı yazarken okuyucunun 
+Fibonacci sayılarının temel kavramlarına ve bunların ticaretteki temel kullanımına 
+zaten oldukça aşina olduğunu varsayıyorum. Ayrıca okuyucunun genel ticaret 
+temellerine aşina olduğunu da varsayıyorum. Temel konuları gözden geçirerek 
+okumayı çok sıkıcı hale getirmemeye çalıştım; öyle ki, 'iyi şeylere' geldiğimde 
+okuyucularım beni daha heyecan verici maceralara terk etmiş olacaklar. Bu 
+materyali okurken daha fazla arka plan bilgisine ihtiyacınız olduğunu 
+düşünüyorsanız lütfen www.KaneTrading.com adresinde bulunan materyale göz 
+atın. Ayrıca sitede benim de yararlı bulduğum kitapların bir kısmını yayınladım. 
+Kitapçılarda ve kütüphanelerde de bu konuyla ilgili oldukça fazla bilgi mevcut. 
+Umuyoruz ki bu, eksik olan önkoşul bilgilerinin tamamlanması için yeterli olacaktır.
+Kitabın asıl önemli kısmı son dört bölümde olacak. Okuyucunun Fibonacci ile ilgili ne 
+kadar deneyim ve bilgiye sahip olduğuna bağlı olarak önceki bölümler gözden 
+geçirilebilir veya gözden geçirilmeyebilir. Başlangıç   materyalini çok basit buluyorsanız, 
+üzerine göz atmaktan veya sonraki bölümlere geçmekten çekinmeyin. Her ne kadar 
+ileri düzey kavramlara odaklanmak istesem de okuyucularımın bilgi düzeyi hakkında 
+çok fazla varsayımda bulunursam geniş bir okuyucu kitlesinin takip etmesi zor olacak 
+bir çalışma sunabileceğimi hissettim. Umarım dengeyi doğru kurabilmişimdir ve son 
+bölümlere geldiğinizde buna değeceğini düşünüyorum.
+Son olarak, belirli giriş teknikleri hakkında bilinçli olarak çok fazla bilgi 
+vermemeye çalıştığımı ve ticaret yönetimi hakkında herhangi bir şekilde 
+bahsetmediğimi belirtmek isterim. Bunu birkaç nedenden dolayı yaptım. İlk 
+neden, bunun belirli giriş teknikleri veya ticaret yönetimi hakkında değil, 
+Fibonacci teknikleri hakkında bir kitap olmasını amaçlamış olmamdır. 'Aynı 
+değil mi?' diye sorabilirsiniz. ve cevap 'Hayır, yakın bile değil'.
+Benim sunduğum Fibonacci teknikleri, kendinizi geliştirebileceğiniz alanları bulmak için 
+tasarlanmıştır.dikkate almakbir ticaret yapıyor. Fibonacci teknikleri sizi bu alanın aslında 
+piyasaya dahil olmak isteyeceğiniz bir alan olduğuna ikna ederse, o zaman sizi 
+gerçekten bir pazara sokacak bir 'tetikleyici' ararsınız.
+1www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+ticaret. Bu tetikleyiciler, her yatırımcının kendi ticaret planına özel, oldukça kişisel bir 
+tercihidir. Hangi tetikleyiciyi kullanırsanız kullanın ve işlemde hangi stopu koyarsanız 
+koyun, kabul edilebilir risk/ödül oranları, işlem tarzı, risk için mevcut sermaye vb. gibi 
+kendi özel işlem planınızdaki birçok şeye bağlı olarak yatırımcıdan işlemciye büyük 
+ölçüde farklılık gösterecektir. Açık. Bu nedenle Fibonacci tekniklerini sunuyorum ve 
+okuyucuların kendi tetikleyicilerine karar vermelerini sağlıyorum.
+İşleminize girdiğinizde işleminizi nasıl yöneteceğiniz yine kendi işlem planınıza bağlı 
+olacaktır ve bu her yatırımcı için benzersizdir. Fibonacci çalışmalarına adanmış bir 
+kitapta ticaret yönetimi hakkında bilgi sunmaya bile başlayamam, yoksa derinlemesine 
+Fibonacci kavramlarını arayan okuyucu büyük bir hayal kırıklığına uğrayacaktır. Bu 
+kitaptaki alanı başlıkta anlatılan Fibonacci teknikleri için kullanmak istedim. EğerBEN
+Diyelim ki alanın yarısını Fibonacci olmayan giriş ve yönetim tekniklerine ayırdığımda, 
+pek çok okuyucunun 'konu dışı' ne kadar zaman harcandığı konusunda hayal kırıklığına 
+uğradığını görebiliyordum. Belirli giriş teknikleri ve bunların kullanımında dikkate 
+alınması gereken noktalar ve ticaret yönetimi hakkında kitaplar yazabilirim. Okuyucuyu 
+şuraya yönlendiriyorum:
+Bu kitabın yazılmasından önce ve sonra yayınladığım ek materyalleri kontrol 
+etmek için KaneTrading.com web sitesine bakın.
+Bu çalışmada yapmaya çalıştığım şey Fibonaccis ve ticaret ile ilgili bazı yeni fikirler 
+sunmaktır. Kitapta tek bir ana tema var: Ticaret yapmayı düşünebileceğim alanları 
+bulmak için Fibonacc'ı nasıl kullanabilirim? Bu amaçla doğrudan materyali 
+geliştirmeye odaklanmayı sürdürmek için büyük bir çaba gösterdim. Amacım 
+okuyucuyu bu kitabı bitirdiğinde bu süreçte kendi kendine yetebilen bir durumda 
+bırakmak. Daha sonra bu potansiyellere bakabilirler
+Fi bonacci ticaret alanları ve kendi bireysel ticaret planlarına göre ticaret yapıp 
+yapmama kararları verirler. Eğer bunda başarılı olsaydım, o zamanBENkendi 
+hedefime ulaştım.
+2www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Bölüm1
+Temel Fibonacci İncelemesi
+Bu kitabı yazarken okuyucunun Fibonacci sayıları ve piyasalarda ticarette 
+Fibonacci kullanma kavramları hakkında oldukça iyi bilgiye sahip olduğunu 
+varsaydım. Yine de bu bölümde küçük bir inceleme yapacağım.1,Daha sonra 
+üzerine inşa edeceğim bazı fikirleri daha gelişmiş kavramlarla yenilemek için. 
+Sayı serilerinin ayrıntılı çıkarımlarından kaçınacağım ve okuyucuyu konuyla 
+ilgili giriş kitaplarımdan birine veya konuyla ilgili birçok kütüphane ve internet 
+referansına yönlendireceğim.
+En temel Fibonacci sayısı Phi (<1», 'Altın Oran') olarak gösterilir. 
+Yuvarlatılmış değeri1.618.Bunun arkasındaki matematiği sevenler için 
+bu denklemden tam değeri alabilirsiniz:
+$= 2
+Oran1.618:1doğal dünyanın her yerinde yaygındır. Pek çok kültürde 
+yapılan güzellik araştırmalarında yüzün farklı oranları bu orana ne kadar 
+yakınsa algılanan güzellik düzeyi de o kadar yüksek oluyordu. İnsanlara 
+"hangi dikdörtgen göze daha hoş gelir" diye sorulsa en çok tercih edilen 
+dikdörtgenin kenarı daha uzun olacaktır.1.618kısa kenarının 
+uzunluğunun katıdır. Örnekler sonsuzdur. Benim gibi bundan asla 
+sıkılmayanlar için, internetteki kaynakların yanı sıra yerel kütüphanede de 
+pek çok kitap mevcut.
+Fibonacci sayılarını keşfetmeye başladığım ilk günlerde, dairenin çevresinin 
+çapına bölünmesiyle belirlenen sabit olan pi (n) beni de büyülemişti. Daha 
+sonraki bir bölümde göreceğimiz gibi pi, ticari amaçlarla aşırı bir dış geri 
+çekilme olarak kullanılabilir. Sürekli pi ve Phi'nin bir şekilde ilişkili olması 
+gerektiğini düşünüyordum, ancak bunlar gibi iki irrasyonel sayının herhangi 
+bir formülde nasıl birleştirilebileceğini tahmin edemiyordum. Bakın, bir gün 
+ikisini tek bir karmaşık formülde birbirine bağlayan matematiksel bir kanıta 
+referans buldum. Benim için bu, doğada, fark etmeyen gözle görülenden 
+daha fazlasının olup bittiği kavramını sağlamlaştırmaya yetti.
+3
+1+15
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Ticaret söz konusu olduğunda en sık kullanılan Fibonacci sayılarına 
+bakalım. Zaten elimizde Phi, yani 'altın oran' 1 var. 6 1 8 . Bundan çok daha 
+fazla sayıyı doğrudan elde edebiliriz. Örneğin, karşılıklı işlemi yapabiliriz, 
+yani 1 ,6 1 8'i ters çevirebiliriz ve elimizde 0,6 1 8 olur. 0,6 1 8, phi (<p) 
+olarak gösterilir ve 'phi'de küçük p harfinin yanı sıra küçük Yunanca harf 
+<p ile gösterilir.ÖBu belki de ortalama bir insanın en iyi bildiği sayıdır. 
+Başka bir örnek, bu iki sayının karekökünü alıp . 786 ve 1 .272.
+Bu dört sayı, 0,6 1 8, 0,786, 1 ,272 ve 1 ,6 1 8, çoğu yatırımcının izlediği 
+anahtar sayılar olan 'temel dörtlü'dür. Daha sonra, ticaret literatüründe 0,3 
+82'ye çok fazla referans var. Bu Fibonacci sayılarıyla ilgili neredeyse sonsuz 
+sayıdaki büyüleyici şeylerden biri, bunların birbirlerinden kaç farklı şekilde 
+türetilebileceğidir. Peki nasıl alabiliriz. 382 mi? Kare yapabiliriz
+. 6 1 8 ve elde ederiz. 382. Veya 0,6 1 8'i 1'den çıkarıp elde edebiliriz. 382. Başka yollar da 
+var ama eğer bu kadar istekliyseniz yağmurlu öğleden sonralarınızın çoğunu yeni 
+ilişkiler ve çıkarımlar bulmaya harcayabileceğinizi söylemek yeterli.
+Ticaret için kullanıldığını gördüğünüz veya literatürde adı geçen yaygın 
+sayıların sonuncusu . 5 00, 1 .000 ve 2 .000. Bunların hiçbiri 'doğru' Fibonacci 
+sayıları olmasa da, ticarette yaygın olarak kullanılmaktadırlar. . 500, '%50 
+geri çekilme' veya '%50 geri çekilme' olarak adlandırılan led olacaktır. 1.000, 
+'çift tepe' veya 'çift dip'e karşılık gelir. Bu sayılar üzerine inşa edeceğim 
+seriye dahil edilecek. Daha sonraki bir bölümde, bu sayılara çok yakın gerçek 
+Fibonacci sayılarının (yani doğrudan Phi'den türetilen sayılar) bulunduğunu 
+göstereceğim. Bildiğim kadarıyla bu rakamların ticaret bağlamında 
+tanıtılması bir ilk olacak.
+Bu, üzerinde çalışmaya başlayacağımız seriyi bırakıyor:
+. 3 82, . 500, .6 1 8, .786, 1 .000, 1 .272, 1 .6 1 8 , 2 .000
+Bu çok fazla sayı gibi görünse de günümüzün çoğu grafik yazılımı tüm bunların ve daha 
+fazlasının önceden ayarlanmasına olanak tanıyarak bunların kullanımını hızlı ve kolay hale 
+getirir.
+4www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Bölüm2
+Dahili Geri Çekmeler
+Fibonacci sayılarından yararlanmak için öncelikle geri çekilme kavramının 
+anlaşılması gerekir. Belirli bir pazarın bir çeşit trend içinde olduğunu varsayalım. 
+Örnek olarak yükseliş trendi diyelim. 'Ağaçlar göğe doğru büyümez' ifadesi burada 
+geçerli, yani bir konu yukarıya doğru çıksa bile, yukarı doğru çıkarken zaman zaman 
+'geri çekilmesinin' muhtemel olduğu anlamına geliyor. Bu geri çekilmeler, 
+hareketlerin bir kısmının 'geri çekilmesi' nedeniyle geri çekilme olarak adlandırılır.
+Geri çekilme trendin başlangıç   noktasının altına düşmediği sürece trendin 
+hala sağlam olduğu varsayımı yapılır. Önceki trendin tamamından daha 
+azını izleyen bir geri çekilmeye ayrıca 'iç geri çekilme' adı verilir. Dahili geri 
+çekilmeli bir yükseliş trendi örneğine bakalım. Şekil 2'ye bakınız. 1.
+Figür2.1
+. 800
+. 600
+. 400
+. 200
+. 000
+3.800
+3.600
+3.400
+3.200
+Eylül 11 18 25 Ekim
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+5www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Temel fikir, geri çekilme tamamlandıktan sonra trendin orijinal yönünde 
+devam edeceğidir. ORCL'nin . 618.
+Figür2.2
+::':':08C[GG I!!!B £I
+10.000
+. 000
+. 000
+7.000
+. 000
+. 000
+. 000
+3,75 1 Geri 0,6 18
+Eylül Ekim Kasım
+Dynamic Trader tarafından oluşturulan grafik (c) 1996-2001
+Aralık 99 F
+Geri çekilme sona ererse ve trend devam ederse, bunun bir destek alanı 
+(yükseliş trendi durumunda) veya bir direnç alanı (düşüş trendi durumunda) 
+olduğu söylenebilir. Olası destek veya direnç alanlarını aramak birçok ticaret 
+stilinin temelidir. En yaygın destek ve direnç biçimleri (hem eğimli hem de yatay 
+eğilim çizgileri gibi) 'statik' olarak adlandırılabilecek olanlardır. Hareketli 
+ortalamalar, eski yüksek ve düşük seviyeler, gün içi yüksek ve düşük seviyeler ve 
+salınımlı yüksek ve düşük seviyeler de sıklıkla kullanılan olası destek ve direnç 
+alanlarıdır.
+Fibonacci sayıları, iyi destek veya direnç alanlarının ne olabileceğini henüz 
+gerçekleşmeden belirlemenin başka bir yoludur. Bu, döviz piyasalarında çok 
+yaygın bir uygulamadır. Giderek daha fazla insan ticarete başladıkça ve 
+bilgisayar grafikleri yaygınlaştıkça, Fibonaccis'in kullanımı tüm pazarlara 
+yayıldı.
+6www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Bana öyle geliyor ki, daha fazla insan bu numaraları kullanmaya başladıkça, bu ilk başta 
+onları ticaret için daha etkili hale getirdi, ancak daha sonra neredeyse yaygın bir bilgi 
+haline geldi. Bu noktada kendini gerçekleştiren kehanet bir sorun haline gelmiş gibi 
+görünüyordu ve herkesin izlediği her teknik gibi bu da piyasanın bir parçası haline geldi. 
+Demek istediğim, temel Fibonacci alanlarına yönelmeyi bıraktığımı, sorunların bu 
+sayılara doğru yöneldiğini, sayıların aşıldığını ve sonra tersine döndüğünü görmeye 
+başladım. Bu bana birçok insanın bu alanları izlemeye başladığını gösteriyordu.
+Bazı konuların temel sayılara verdiği tepkilerdeki değişiklikleri fark etmeye 
+başladığım sıralarda, denemeler yapmaya ve yeni sayılar aramaya başladım. 
+Keşfettiğim bu yeni sayıları daha sonraki bölümlerde ayrıntılı olarak ele alacak olsam 
+da, bu yeni sayıların, sorunların temel sayıları aştığı alanlarda göründüğünü burada 
+belirtmek isterim. Bundan burada söz ediyorum çünkü bu bölümü bazı ek Fibonacci 
+geri çekilme tablosu örnekleriyle bitireceğim ve şunu da belirtmek isterim ki, bazen 
+bu temel sayılardan birinde sağa doğru bir tersine dönüş görseniz de, aynı zamanda 
+pek çok Fibonacci geri çekilme tablosu örneği de göreceksiniz. aşırılıklar. Bu nedenle 
+burada verilen örneklerin oldukça 'iyi seçilmiş' olduğu düşünülmelidir. Şekil 2'ye 
+bakınız. 3 , 2,4 ve 2 . 5.
+7www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Figür2.3
+?.GE 0 -0 !Yani f3
+39.000
+38.000
+36.000
+35.000
+34,3')9 Geri OE, 18
+34.000
+1 1 18 25
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+Temmuz 9 16
+Figür2.4
+::::.ATMl 0 -0 !Yani f3
+1 1.000
+10.000
+3.000
+12 19 26Mayıs10 17 24 3 1 Haz 14 2 1 28 Tem 12 19
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+8www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Figür2.5
+70.000
+8.000
+6.000
+4.000
+2.000
+0,000
+8.000
+6.000
+4.000
+2.000
+0,000
+8.000
+18 25 Haziran
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+8 15
+9www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Bölüm3
+Dış Geri Çekmeler
+Bazen trendin başladığı noktaya doğru bir geri çekilme devam edebilir. 
+Sorun burada durup ardından trend yönünde devam ederse, buna 'çift dip' 
+veya 'çift tepe' diyebilirsiniz. Aynı zamanda 1.000'lik bir geri çekilme olarak da 
+adlandırılabilir (çünkü hareketin %100'ü geri çekilmiştir veya yüzde işareti 
+1.000 olmadan ifade edilmiştir). Şekil 3'e bakınız. 1.
+Figür3. 1
+53 .000 Geri 1 .000 3.000
+2.500
+2.000
+1.500
+1.000
+tlt
+!Eğer· 0,500
+0,000
+9.500
+9.0001 ben 1
+8.000
+1 1 18 25
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+Haziran 8 15
+Geri çekilme, baktığımız trendin orijinal başlangıç   noktasının ötesinde de 
+devam edebilir. Buna bazen 'harici geri çekilme' denir. Bu uzantıları 
+adlandırmayı seviyorum çünkü normalde geri izleme olarak düşündüğüm 
+şeyin ötesine uzanıyorlar, ancak bu terimin başka yerlerde kendisine atfedilen 
+birkaç farklı anlamla kullanıldığını sıklıkla gördüm. Bu nedenle harici geri 
+çekilmeye sadık kalacağım. Bakınız şekil 3 .2-3 .4.
+1 1www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Figür3.2
+?.ESNEK 0 -0 !IS EJ
+15 22 29 Temmuz
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+13 20 27 Ağustos
+Figür3.3
+TT]
+0,000
+5.000
+0,000
+5.000
+35.000
+30.000
+25.000
+16 23 Mart 9
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+16 23 30
+12
+25 .041 Geri 1.E. 13
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Figür3.4
+?.PAZ 0-0
+23.472 Geri
+1!!!8 13
+1 .6 18
+1 22.000
+21.000
+20.000
+19.000
+18.000
+17.000
+16.000
+15.000
+14.000
+13.000
+Nisan 12 20 27
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+Mayıs 1 1 18
+Ticaret kavramlarını sonraki bölümlere bırakacak olsam da, aşağıdaki 
+örneklerde bu dış geri çekilmelerin trenddeki ani hareketin sonuna nasıl işaret 
+ettiğine dikkat edin. Bu Fibonacci noktalarında gerçekte ne olduğunu 
+göstermek için, biraz önce şekil 3.2-3.4'te incelediğimiz üç grafiği, zamanda 
+daha ileriye uzatılmış olarak göstereceğim. Bakınız şekil 3 .5 -3 .7.
+13www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Figür3.5
+?.ESNEK 0 -0 !IS EJ
+29 .507 Geri 1.272
+2S.000
+26.000
+24.000
+22.000
+20.000
+IS.000
+1 6.000
+14.000
+}TT
+eğerBEN
+fÜ
+15 22 29 Temmuz 13 20
+Dynamic Trader tarafından oluşturulan grafik (c) 1 996-2001
+27 10 Ağu 17 24 3 1 Eylül 2 1
+Figür3.6
+:::-=.EMC 0-0 !£J
+35.000
+25.000
+16 23 Mart '3 16
+Dynamic Trader tarafından oluşturulan grafik (c) 1 996-2001
+23 30 Nisan 12 2
+14www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Figür3.7
+f.SUN\rI DD
+22.000
+21.000
+19.000
+1 8.000
+1 7.000
+1 6.000
+27 Mayıs 1 1
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+18 25
+Çoğu zaman ters trend hareketlerinin Fibonacci'nin dış geri çekilme bölgesinde 
+başladığını göreceksiniz. Ayrıca, bu oldukça yaygın bir bilgi haline geldiğinden, 
+aşımların eskisinden daha yaygın göründüğünü de göreceksiniz. Ayrıca sorunun 
+neredeyse harici bir geri çekilmeye vardığı ve ardından herkesin üzerine 
+'kazıklandığı', erken müdahale etmeye çalıştığı ve işi bitirdiği 'silahı atlama' 
+hareketlerini de göreceksiniz. Bu, bazılarının sayıların geçerli olmadığını çünkü çoğu 
+zaman işe yaramadığını söylemelerine neden oluyor. Bu bölümü bir 'silah atlamak' 
+örneğiyle bitireceğim. Şekil 3'e bakınız. 8.
+1 5
+!Yani £I
+23 .472 Geri 1.& 18
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Figür3.8
+20 .556 Geri 1,6 18
+1'3.556 Geri 1 .272
+19.000
+18.000
+1 7.000
+1 6.000
+15.000
+14.000
+Ekim Kasım
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+Aralık 02
+Sorun 1.27'yi aştı mı? Yoksa 1.6 1 8'den önce mi atlandı? Bir sorunun 
+neden dönüştüğünü tam olarak bilmenin bir yolu yoktur.
+Fibonaccis size olayların nerede olduğu hakkında fikir verir.belkiolmak. Daha sonra 
+göreceğimiz gibi, ya belirli bir alanda birden fazla Fibonacci varsa? Daha sonra bir 
+bölgemiz var. Bir bölgede çok fazla Fibonacci varsa gruplandırmamız vardır. Ticaret için 
+muhtemelen önemli bir bölgemiz var.
+1 6www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Bölüm4
+Projeksiyonlar
+Ne zamanBENFibonaccis'i ilk kez incelemeye başladığımda, projeksiyon kavramını 
+anlamam oldukça zaman aldı. Bazı açılardan bu 'ölçülü hareketin' bir çeşididir. 
+Buradaki fikir şu; eğer bir konu bir hamle yapar ve sonra geri çekilme veya bir tür 
+konsolidasyon yoluyla dinlenir ve sonra yeniden hareket etmeye başlarsa, bir 
+sonraki hamle bir şekilde ilk hamleyle orantılı olabilir. Eliot dalga teorisinde şuna 
+sahipsiniz:ABC'düzeltme - bir hamle, bir geri çekilme ve ardından ilkine eşit bir hamle 
+elde ettiğiniz yer. Şekil 4'e bakınız. 1.
+Figür4. 1
+;':'.RATl 0-0 II![;J l3
+0,000
+5.000
+0,000
+5.000
+0,000
+35.000
+30.000
+25.000
+20.000
+55 .500 Uygulama 1 .000
+Kasım Aralık 0 1
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+Şubat Mart
+Bu hareketlerin çoğunda fark etmeye başladığım şey, bu zikzak veya iki 
+adımlı düzeltmeler, iki bacak (AVeC(örneğin El Liot dalga terimleriyle) eşit 
+değildi. Ancak sıklıkla birbirlerinin Fibonacci oranı olduklarını buldum. 
+Bakınız şekil 4 .2-4. 4.
+1 7www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Figür4.2
+?:IBM'inYAPMAK
+' ben!bir £ben
+125.000
+120.000
+115.000
+1HHr}ll}
+110.000
+105.000
+99 .869 Uygulama 1 .272 100.000
+17 23 3 1 Ocak14 21 28Şubat1 1 18 25 10 Mart
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+17 24
+Figür4.3
+?.INTC 15-1 sa £I
+19.200
+19.100
+19.000
+18.900
+18.800
+18.700
+18.600
+18.500
+18.400
+18.300
+18.20018. 198 Uygulama 0 .6 18
+7 ton 8f
+D':mamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+18www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Figür4.4
+?1.nakavt 0 -0 Ben!!'e EJ
+49 .379 Uygulama 0 .786
+9.000
+8.000
+7.000
+6.000
+rJtri 5.000
+4.000
+3.000
+16 23 30 12 Nisan 20
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+27 11 Mayıs 18 25 Haziran 8 1�
+Bu bana olası bir destek veya direnç bölgesini belirlemeye çalıştığımda 
+bakabileceğim daha fazla alan sağladı. Şimdi, bu, tüccarların bu sayıları keşfedip 
+hemen harekete geçmesine, diğerlerinin ise durakları yakalamak için bunları 
+bölgelere sürmesine bir başka örnek mi? Muhtemelen. Ticaret konusunda tek 
+endişemNeresibakmak istediğim alanlar,Neden hareketlerin arkasında.
+İzdüşüm fikrini tüm Fibonacci kavramları arasında en kullanışlı olanlardan biri olarak 
+buldum. Genel olarak, mevcut bir trendin düzeltilmesinde hareketin yakın bir seviyeye yakın 
+olacağını düşünüyorum.ABC,ileAVeCbacaklar eşite yakın. Aranacak en yaygın projeksiyonlar 
+0,786, 1 000 ve 1 0,272 projeksiyonlardır. Bir kereCbacak uzunluğunun 1.272 katından daha 
+büyüktürAbacak, bunun artık bir düzeltme değil, yeni bir trend olduğunu düşünmeye 
+başlayacaktım. El liot dalgası açısından o zaman 3. bacakta olurduk. Bu bacakların 1 ,6 1 8 
+veya 2'ye çıkacağını düşünüyorum. En yaygın olarak 0. Şekil 4'e bakınız. 5-4. 7.
+19www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Figür4.5
+::':-.JOSÜ 0-0 !IS EJ
+1 1 .000
+1 0.000
+. 000
+. 000
+7.000
+. 000
+30
+. 000
+14 Aralık 2 1 28 Ocak1 1 18 25 Şubat 8 15 22 Mart
+Dynamic Trader tarafından oluşturulan grafik (c) 1 996-2001
+Figür4.6
+�. IVIT0-0 !IS EJ
+25 .552 Uygulama 1 . 6 18
+Temmuz Ağustos Eylül
+Dynamic Trader tarafından oluşturulan grafik (c) 1 996-2001
+Ekim Kasım Aralık
+20www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Figür4.7
+?.SOX-X 1 5-1 !Yani £I
+315.000
+310.000
+295.000
+290.000
+13 saat 14(
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+lsf
+21www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Bölüm5
+Genişletmeler
+Genişletme muhtemelen en az kullandığım tekniktir, ancak genel olarak ona 
+atfettiğimden daha fazla söz verebilir. Bu, çok az sayıda yatırımcının baktığı bir 
+alandır ve bu nedenle ek araştırmalar için en fazla umut vaat eden alan olabilir. Fikir 
+yeterince basit; sadece bir hamlenin son yüksek vuruşunun ne kadar ötesine 
+geçebileceğine bakmak istersiniz. Tıpkı harici bir geri çekilmenin önceki yüksek veya 
+düşük salınım noktasının ötesine geçmesi gibi, genişleme de bunu yapar. Önemli 
+olan hareketi nasıl ölçtüğünüzdür. Şekil 5'e bakalım. Karşılaştırma için 1.
+Figür5.1
+Örnek olarak bir yükseliş trendi kullanıldığında, genişleme trendin en yüksek 
+salınımın tepesine doğru hareket eden bir Fibonacci oranı eklerken, harici geri 
+çekilme bir Fibonacci oranı (1.000'den büyük, örneğin 1.272 veya 1.000'den 
+büyük) yapar. 1 .6 1 8) geri çeker ve bu miktarı geri çekmenin sona erdiği 
+noktaya ekler. Düşüş trendi durumunda genişleme için, trend hareketinin 
+Fibonacci oranı düşük salınımdan çıkarılarak prosedür ters çevrilmelidir.1
+Bu iki yöntemi bulmak size sıklıkla neredeyse aynı alanları verecektir. Her grafik 
+için açıklamalarla birlikte şekil 5.2-5.4'e bakın.
+23www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Figür5.2
+?.VRTS 60-1 1,8 £J
+24.724 Deney 0 .382
+24.000
+23.000
+22.000
+21.000
+20.000
+19.000
+12 saat 13 ton 14f Haz 17 ay 1St
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+19h 20 ton 2 1f Haziran
+Şekil 5.2'de a . 382 genişletme. Nasıl olduğunu fark et . İlk hamlenin 382'si 
+basitçe salınımın en yüksek noktasına eklenir. Geri çekme miktarı hesaplamada 
+kullanılmaz.
+24www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Figür5.3
+?:VRTS 60-1 ben!Lil13
+24,7 14 Geri 1 ,6 1 S
+23.000
+J� J� ��+l 22.000
+ilt
+1 9.000
+12 saat 13 ton 14f Haz17ay 1St
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+19h 20 ton 2 1f Haziran
+Şekil 5. Şekil 3, şekil 5.2 ile aynı grafiktir, ancak daha tanıdık bir dış 
+düzeltmeyle, bu durumda 1.6 1 8'dir. 24,7 1 $'lık 1 ,6 1 8 geri çekilme 
+fiyatının . 3 82 genişleme fiyatı 24,72$.
+25www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Figür5.4
+?VRTS 60-1 1!!!8 £I
+24.714 eEfl (İsm
+J� ��+1 22.000
+111
+21.000
+20.000
+1 9.000
+12 saat 13 ton 14f Haziran 17 ay 18 saat
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+1'3h 20 ton 2 1f Haziran
+Şekil 5.4'te her ikisi de . Aynı grafikte 382 genişleme ve 1,6 1 8 geri çekilme. 
+Her ne kadar iki sayının yakın örtüşmesi nedeniyle grafik biraz belirsiz olsa 
+da, burada iki nedenden dolayı belirsiz bir tablo sunmaya değer. İlk olarak, 
+bu sayıların bazen gerçekte ne kadar yakın olabileceğini göstermek. İkincisi, 
+gruplamalarla ilgili bölüme geldiğimizde, yalnızca iki örtüşen fiyatı değil, 
+bazen birçok fiyatı içeren grafikler oluşturmamız gerekecek. Şimdilik bundan 
+çekinmemek en iyisi, yalnızca iki sayı çakışıyor.
+Genişletmeler Fibonaccis'in tüm varyasyonlarıyla kullanılabilir. Burada iki örnek 
+daha sunacağım: a. 500 ve 0,6 1 8, ancak çalışmalarınızda kesinlikle bunlarla sınırlı 
+değilsiniz. Şekil 5'e bakınız. 5 ve 5 .6.
+26www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Figür5.5
+?.MRK 0 -0 !lEI £I
+4.000
+3.000
+2.000
+1.000
+0,000
+9.000
+8.000
+7.000
+6.000
+5.000
+4.000
+3.000
+2.000
+1.00041 .018 Tecrübe 0.500
+Temmuz Ağustos Eylül
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+Ekim Kasım D
+Figür5.6
+::':.EBAY 30-1 II!!EI £I
+1.000
+0,000
+38.000
+37.000
+36.000
+35.000
+34.000
+33.000
+32.000
+31.000
+30.000
+2'3.207 Tecrübe 0.E. 13
+Mart 27 ton 28 saat 2'3t 30F
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+Nisan 3 gün 4 saat 5 ton e. F Nisan 1(
+27www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Yatırımcılar olarak bu ek genişletme tekniğini oyun planınıza eklemek isteyip 
+istemediğinize karar vermeniz gerekir. Gruplandırmalarla ilgili bölüme geldiğimizde
+BENKarışımda bir genişletme kullandığım iki örnek vereceğim. Genişletmelerin diğer 
+teknikleri nasıl destekleyebileceğini göstermek için iki örnek vereceğim, aksi 
+takdirde bunu diğer örneklerin hiçbirinde kullanmayacağım.
+28www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Bölüm6
+Daha Fazla Fibonacci Sayısı
+Çoğu yatırımcı temel Fibonacci sayı serisine sadık kalır. Karışıma daha fazla sayı 
+eklemenin yalnızca teknikleri fazla karmaşık hale getireceği ve oyun planının basit 
+tutulması konusunda söylenecek çok şey olduğu ileri sürülebilir. Öte yandan, 
+herkesin de görebileceği basit bir planın ciddi gürültü yaratması muhtemeldir. 
+Gürültü derken, tetikleyici bölgede muhtemelen çok fazla fiyat dalgalanması 
+göreceğinizi kastediyorum. Sadece temel bilgilerle çok fazlası arasında bir denge 
+kurmaya çalışıyorum.
+Öncelikle çok yaygın olarak kullanılan iki 'Fibonacci' sayısını incelemek 
+istiyorum. 500 ve 2.000. Daha önce de belirtildiği gibi, bunlar 'doğru' 
+Fibonacci sayıları değil, Fibonacci'leri kullanan ticaret planlarında sıklıkla 
+kullanılan sayılardır. Bu alanlarda doğrudan Phi'den (Altın oran) veya phi'den 
+(Altın oranın tersi) türetilen sayılar olup olmadığını merak etmeye başladım.
+Bölüm 1'den türettiğimizi hatırlayın. 3 82, 0,6 1 8'in karesini alarak. Daha sonra bunu 
+çarpmayı denedim. 3 82 (ki bu 0,6 1 8 çarpı 0,6 1 8) x yine 0,6 1 8. Bu bana tanıdığım bir 
+sayı olan 0,236'yı verdi. Ticarette Fibonaccis üzerine yaptığım geniş okumalarda .236'nın 
+oldukça sık kullanıldığını görmüştüm. Bkz. şekil 6. 1.
+29www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Figür6. 1
+?.SOX.X 1 5-1 !IS EI
+330.000
+320.000
+310.000
+303. 1 10 Geri (I .23E.
+290.000
+Kasım 5 ton 6 saat 7 ton
+Dynamic Trader tarafından oluşturulan grafik (c) 1996-2001
+sf Kasım l 1 dk
+. 382 ve 0,236'yı vurduktan sonra yaptığımız tek şey ek .382 ve .236 almak. 6 1 8 
+oranları 0,6 1 8 başlangıç   noktasıdır. Buradan bunun karekökünü aldım
+. 236BENAz önce türetmiştim ve 0,486 aldım.
+Şimdi bu çok yakındı. 500 ve doğrudan Phi'den türetilmiştir. İçin 
+Matematiğe meraklı olanlar için bu yol esas olarak ( , 6 1 8)"2 veya kareydi
+3
+0,6'nın kökü 1 8 küp. Aynı numarayı elde etmek için başka yollar arayarak 
+hesap makinemde oynamaya devam ettim. Daha önce de belirtildiği gibi, 
+genellikle bu numaraları almanın birçok yolu vardır. Dev bir ağ gibi 
+birbirleriyle ilişki içinde görünüyorlar. Bu bana bu sayıların rastgele yaratılmış 
+olmadığına dair güven kattı.
+Bu noktada 0,786'nın 0,6 1 8'inin ne olacağını merak ettim ve bunu denedim. 
+Bamm, yine .486 var. Artık bunun yaygın Fibonacci sayılarıyla çok yakından 
+bağlantılı olduğundan emindim. Amacım doğrultusunda F ibonacci '%50 geri 
+çekilme' numaram vardı.
+30www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Daha sonra 2'ye karşılık gelen sayıyı istedim. 000. 2.000, 'nin tersi 
+olduğundan. 500, 486'yı ters çevirdim ve 2 .500 aldım. 058.
+2.058
+. 486
+Artık 2.000'lik dış geri çekilme için Fibonacci sayısına sahiptim. Sanırım birkaç 
+okuyucudan fazlası şunu söylüyor: 'Ama bunlar çok yakın, bunun ne önemi 
+var? '
+Gerçek ticaret gerçekliğinde öyle olmayabilir. Ya da 2.000'i aşan işlemler 
+(toplanmanın durması veya çok fazla yatırımcının yığılması veya buna benzer 
+şeyler nedeniyle) doğrudan 2.058'e gidebilir. Ve çekingen düşen esnaf. 500, tam 
+.486'nın üzerinde duruyor olabilir. Bu küçük miktarın gerçekten önemli olup 
+olmadığına bakılmaksızın, doğrudan Phi'den türetilen sayılarla çalışmak istedim. 
+Bkz. şekil 6.2 ve 6.3.
+Figür6.2
+?.CSCO DD
+23.000
+baştankara]BTTR1
+20 .023Ret (Ben ABE.
+{
+1 P
+19.000
+18.000
+17.000
+18 25 Haziran 8 15 22
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+2'3 Temmuz
+3 1
+1Jlhtj
+1!!8 £'I
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Figür6.3
+?.SBUX DD !lEU!!
+23.000
+21.000
+20.000
+1 9.000
+Eylül Ekim
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+Kasım Aralık
+Dikkat edin, şekil 6'da. 3, devam etmeden önce SBUX'un ticareti ne kadar dalgalı. Sonunda 
+yukarı çıkıp 24 doları test etmeden önce 1 9,60 dolarlık geri çekilme alanını iki kez test etti. 
+17 alan, yine iki kez, sonunda trend tersine döndü. Bu, ticareti oldukça zorlayıcı bir hisse 
+senedi olabilir.
+Şimdi, en iyi keşiflerimden biri geliyor. Harmonic Trader'da Scott Carney ile yapılan 
+toplantılarda, bana oldukça düzenli bir miktarda sürekli olarak 0,786'dan geçen 
+modelleri gösteriyordu. Bunu defalarca gördük ve o bölgede Phi'den türetilmiş bir 
+sayının olup olmadığını merak etmeye başladım. Aslında hesap makinemle 
+oynamaya başladığımda bunu oldukça hızlı bir şekilde keşfettim; bu, muhtemelen 
+düzenli olarak yaptığımı itiraf etmekten utanmam gereken bir şey.
+Bunu kendime not ettim. 786, 0,6 1 8'in kareköküydü. Bu yüzden 0,786'nın karekökünü 
+aldım. 0,6 1 8'in karekökünü almanın geçerli bir kavram olup olmadığını, sonra da 0,6 1 
+8'in karekökünü almanın geçerli bir kavram olduğunu düşündüm. 786 (esasen 0,6 1 8'in 
+dördüncü kökü) de aynı derecede geçerliydi. Sayı ortaya çıktı. 8 8665 . . . Teknik olarak 
+yuvarlarsanız öyle olur. 887. Kesilmişti. 886 ve bu daha kolaydı
+32www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+hatırlamak için çünkü tanıdık olanla 'kafiyeli'. 786. Böylece '886' 
+doğdu.
+BENdaha sonra birçok listeye gittim Scott veBENbakmıştı ve10ve işte orada 
+duruyorlardı. 886'ya yakın kesinlik ile.BENne kadar kesin olduğuna oldukça 
+şaşırmıştı. Daha birçok grafiğe baktım ve . 886 çok önemli bir sayı gibi 
+görünüyordu. Bu sayıyı keşfettiğimden beri Scott bunun etrafında bir model 
+geliştirmeye devam etti veBENBu sayının kritik olduğu bir model üzerinde 
+çalışıyorum. Bkz. şekil 6.4 ve 6. 5.
+Figür6.4
+9.000
+8.000
+7.000
+6.000
+5.000
+}Ben
+3.000
+2.000
+1.000
+0,000
+';0 ,625 Geri 0,88G
+30 Ağustos 13 20 27
+grafik oluşturuldu b�1 Dynamic Trader (c) 1 996-2001
+10 Eylül 17 24 Ekim 8
+33www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Figür6.5
+2 1.500
+20.000
+19.500
+19.000
+1S.500
+1'3.023Ret (I.SSE.
+13.420 Geri 0.386
+Haziran8 15 22 2'3 Temmuz
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+13 20 27 Ağustos10 17
+Şekil 6.5'in birbirini izleyen iki . 886 geri çekilme.
+BENhisset . 886 şu anda cephanemdeki en önemli sayı. Bu önem, hâlâ 
+oldukça yeni ve bilinmeyen bir sayı olmasından kaynaklanıyor olabilir (en 
+azından bu kitap çıkana kadar!). Ya da .786'nın o kadar iyi bilinmesi 
+nedeniyle olabilir ki, eğer . 786 aşılırsa . 886.BEN
+bu yüzden mi bilmiyorum. 886 çok önemli görünüyor, ne de öyleBENneden olabileceğine dikkat 
+edin. TümBENDikkat ettiğim şey, kendi ticaret amaçlarım için, uygun olduğunda onu da karışıma 
+eklemek istiyorum. Açıklamalarla birlikte şekil 6.6 ve 6.7'ye bakın.
+34www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Figür6.6
+?:ŞOK 0 -0 !IS EJ
+1 7.000
+J
+1 6.500
+1 6.000
+1 5.500
+1 5.000
+1 4.500
+1 4.000
+1 3.500
+lEo .Oll Ret (I.78Eo
+T1 1 j T
+T� TBen
+1
+13.000
+12.500
+28 Ocak 1 1
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+18
+Burada güçlü bir yukarı yönlü fark var ve olası bir durma noktası olarak 
+0,786'yı izliyoruz. Gerçekte ne olduğunu görmek için bir sonraki tabloya 
+bakalım.
+35www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Figür6.7
+?.SNDK 0 -0 !IS EJ
+17.000
+J
+16 .533 Geri (1.386
+16 0,07 1 Geri (1,786
+16.500
+16.000
+15.500
+15.000
+14.500
+14.000
+13.500
+13.000
+12.500
+qj T1111
+TF 1D �T1
+Q
+23 Ocak 1 1 13
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+25 Şubat 3
+Sorun .786'nın içinden geçti ve .786'da sert bir şekilde tersine döndü. 886.
+36www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Burada görebileceğiniz bir şeyin daha ilginç bir örneği var. Burada 
+hoş görünen bir şey var. 786 tersine çevirme . Bkz. şekil 6. 8.
+Figür6.8
+�:'. NQ02Z 5-1 I!!EI £J
+306. 10 Geri 0 .786
+':lw
+Dynamic Trader tarafından oluşturulan grafik (c) 1 996-2001
+Ama bu haritanın ele geçirilmesinden kısa bir süre sonra olanlara bakın. Bkz. şekil 6.9.
+37www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Figür6.9
+?.NQ02Z 5-1 ben!![;I £J
+306. 10 Geri 0 .73E.
+'3h
+Dynamic Trader tarafından oluşturulan grafik (c) 1996-2001
+Sorun tersine dönüyor ve 0,786'yı kırıyor. Şimdi, zamanın ilerisinde nasıl 
+oynandığını görelim. Bkz. şekil 6. 1 0 .
+38www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Figür6. 10
+::::.NQ02Z 5-1 1!18 13
+45.00
+40.00
+35.00
+30.00
+25.00
+20.00
+15.00
+10.00
+BU YÜZDEN.; . 10 Geri O.7SE.
+803 .25 Geri OS.SS€.
+05.00
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+'ye geri döndü. 886 ve son geri dönüşü koyduk. Bazen .786 tutmaz ve 
+bazen bir sıçrama sağlar ve ardından sıçramadan sonra kırılır.
+Devam edelim. Ne zaman bir Fibonacci sayısı türetsem, onun tersini 
+de hesapladığımdan, hemen . Piyasaları incelediğimden beri 
+bulduğum en etkileyici şeylerden birini keşfetmek için 886'ya geldim: 
+'bir bir üç'.
+=1.128
+. 886
+0,886'nın tersi 1'dir. 1 28. Her ne kadar Fibonaccis'le ilgili tüm 
+sunumlarımda ondalık basamağı üç basamağa kadar tutmaya çalışsam 
+da, burada bu geleneği bozacağım ve buna 1 diyeceğim. 1 3. Şimdi kabul 
+edelim ki, bu Fibonacci sayılarının çoğu için listelediğim üç ondalık 
+basamak ticaret için gerekli değildir; bu pratikten daha kesindir. Sanırım 
+bu gelenek, oldukça iyi bilinen ve popüler hale gelen 0,6 1 8'deki üç 
+ondalık basamaktan başlayarak geldi.
+39www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Her ne kadar çoğu yazar bunu . 6 1 8, birkaçı 0,62'ye yuvarlandı. Ancak 1.272 
+için neredeyse tüm referanslar 1.27 ile uyumludur. Dolayısıyla bunu 
+türettiğimde 1 . 13 sayısını (tüm bu sayıların çapraz referansına uygun 
+olarak, aynı zamanda 1,27'nin karekökü olan), onu iki ondalık basamağa 
+yuvarlamaya ve 1 ile devam etmeye karar verdim. 1 3. Bildiğim kadarıyla bu 
+sayı ilk kez ölçülüyor.
+Peki bu neden bu kadar büyüleyiciydi? Pek çok kez 'çift tepelerin' ve 'çift 
+diplerin' biraz aşıldığını, sonra ters yönde dönüp roketle fırladığını 
+gördüm. Bu, sözde 'sarsılma', sahte kaçış, duraklara doğru koşma ya da 
+buna her ne ad verilirse adlandırılsındı. Aynı zamanda birçok popüler 
+sahte kaçış stratejisinde de görülüyor. Ama şimdi bunu ölçüyordum. Çift 
+tepeleri aşan bu hareketlerin çoğunun ve çift diplerin 1'e çok yakın 
+durduğunu gördüm. 1 3.
+Bu, sarsılmanın nereye varabileceğini görmemi sağladı. Dahası, bir 
+patlamanın ne zaman gerçek bir çıkış olduğunu, yoksa sadece bir kafa 
+sahtekarlığı mı olduğunu hissettiğimde karar vermemi sağladı. Eğer . 
+Üzerinde çalıştığım en önemli sayı 886'ydı, 1'i beklerdim. 13 de çok önemli. 
+Pratikte bu varsayımın geçerli olduğunu gördüm. Şekil 6'ya bakınız. 1 1 ve 6. 
+1 2 .
+40www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Figür6.1 1
+::::.LTD 0-0 !I[;l £I
+23.000
+21.000
+20.000
+23 30 Mayıs
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+14 2 1 28 Haziran 1 1
+Figür6. 1 2
+��. CPWR 0-0 !IS£I
+1 4.00013 ,984 Geri 1 . 130
+1 3.000
+1 2.000
+1 1.000
+1 0.000
+. 000
+. 000
+. 000
+. 000
+. 000
+3.000
+Aralık 02 Şubat Mart
+grafik oluşturuldu b,}, Dynamic Trader (c) 1996-2001
+Nisan Mayıs Haziran Temmuz Ağustos
+41www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+İşte bu noktada temel sayılarımıza aşağıdaki sayıları ekledik:
+. 236, .486, . 886, l. 1 3 ve 2 . 058.
+Herhangi bir ticari referansta görmediğim, kullanmayı sevdiğim bir numara daha 
+var, ancak orada burada kullanıldığından şüpheleniyorum. 2'den çok daha az sayıda 
+sorun olduğunu fark ettim. 000/2 . 058 alanı. Yine, bu 'harmonik' nedenlerden dolayı 
+mı oluyor, yoksa birçok tüccar 2.000 bölgesini izleyip erkenden atlıyor mu, yoksa 
+yukarıdakilerin hiçbiri mi? Umurumda değil. Tek umursadığım şey, ticaretime 
+yardımcı olabileceğini düşündüğüm, bana avantaj sağlayabilecek şeylerin 
+gerçekleştiği alanları belirlemeye çalışmak.Neden bunun arkasında benim acil 
+ticaretim açısından hiçbir sonuç yok. Sadece bu konuyu vurguluyorum çünkü 
+vurgumun grafik üzerinde olduğunu, grafiğin arkasındaki temelleri keşfetmeye 
+çalışmak olmadığını belirtmek istiyorum. Bu temel nedenlerin sizin için önemli 
+olduğunu düşünüyorsanız, kesinlikle bunun peşinden gidin. Çoğunlukla grafikten 
+vazgeçmeyi tercih ediyorum.
+42www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+İlginç bir şey çıkıp çıkmadığını görmek için üzerlerinde Fibonacci uzunlukları 
+bulunan farklı geometrik şekillerle oynamaya başladım. Benim için en bariz 
+düzen, uzun kenarı 1 olan bir dikdörtgen olan 'altın' bir dikdörtgendi. Kısa 
+kenarının uzunluğunun 6 1 8 katı. Daha önceki tartışmamızdan 
+hatırlayabileceğiniz gibi, bu, araştırmalarda evrensel olarak insanların en büyük 
+yüzdesinin en hoşuna giden dikdörtgen olarak bulunmuştur. Böylece kenarları 1 
+.000 ve 1 .6 1 8 olan bir dikdörtgen oluşturup etiketledim ve bir köşegen çizdim. 
+Bkz. şekil 6. 1 3 .
+Figür6.13
+çapraz \ 1.000
+1 .6 1 8
+Hemen köşegen uzunluğunun ne olduğunu öğrenmek istedim, bu yüzden kısa bir lise 
+matematiği yaptım ve bunun 1 ,902 olduğunu buldum. Şimdi burada 2'den biraz 
+utangaç bir sayı vardı. 000/2.058 alanı ve oldukça hızlı bir şekilde ona rastladım. 
+Grafiklere bakmaya başladım ve buranın izlemek istediğim bir alana benzediğini fark 
+ettim. Bakınız şekil 6.1 4 ve 6. 1 5.
+43www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Figür6. 14
+?:AOBE 0-0 1!8 EJ
+23.000
+21.000
+1 9.000
+1 8.000
+1 7.000
+1 6.000
+!'/lay 14 2 1 28 Haz 1 1
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+18 25 3 Temmuz 16 23 30
+Figür6.1 5
+?.DÜŞÜK WW ben!EI EJ
+33. 147 Geri 1 .902
+30.000
+28.000
+26.000
+24.000
+22.000
+20.000
+18.000
+1 6.000
+1 4.000
+1 2.000
+'38 '3'3
+Dynamic Trader tarafından oluşturulan grafik (c) 1 996-2001
+44www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Köşegen hesaplamak için lise matematiği yaparken, daha önce 
+gördüğüm birkaç sayı dikkatimi çekti. İşte şekil 6'daki üçgene uygulanan 
+Pisagor teoremi. 1 3 (lise matematiğinden nefret eden herkesten özür 
+dilerim).
+( 1?+( 1 . 6 1 8)2 =(çapraz)2
+1+2 ,6 1 8 =(çapraz)2
+23 .6 1 8 =(diyagonal)
+1 .902=diyagonal
+Aradığım 1.902'yi almakla kalmadım, 2'yi de fark ettim. 6 1 8 ve 3 .6 1 8 . 2 ,6 1 8 
+oldukça yaygın olarak kullanılan bir harici düzeltmedir. Gibi'Yukarıdaki çıkarımdan 
+görülebileceği gibi, bu sadece Phi ( 1 ,6 1 8) karedir. Ayrıca kendi çalışmalarımda üç 
+buçuk civarında bir alan olabileceğini ve bunun da 3 ,6 1 8 olabileceğini fark ettim. 
+Bunlar oldukça aşırı dışsal geri çekilmeler, ancak ara sıra ortaya çıkan bazı aşırı 
+hareketler de görüyorsunuz. Şekil 6'ya bakın. 1 6 ve 6 . 1 7.
+45www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Figür6. 1 6
+?::biz 0 -0
+4. 000
+0. 000
+8. 000
+6. 000
+4. 000
+2. 000
+0. 000
+1 1 18 25 Temmuz '3
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-200 1
+1& 23 30 Ağustos 13
+Figür6. 1 7
+Nisan Haziran Temmuz
+Grafik oluşturuldu
+Ağustos Eylül
+1 996-2001
+46
+!!I £
+'*3 .808 Geri 2 . & 18
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Bu bölgedeyken birkaç aşırı dış geri çekilmeyi daha ekleyelim ve elimizdekileri 
+özetleyip vazgeçelim. Çalışmamız gereken çok şey olduğunu düşünüyorum. 
+Dikkat edin, şimdiye kadar, ne zaman gruba bir sayı eklemeye karar versem, 
+onun karşılığını da eklemeyi seviyordum. Bu sadece mantıklıdır: Eğer bir sayı 
+geçerliyse, '1.000'in diğer tarafındaki' sayı da geçerli olmalıdır.
+Karşılığının ne olduğunu belirlemedik. 3 82 henüz yok, hadi şunu yapalım:
+2,6 1 8
+. 382
+Tahmin ettiğiniz gibi bu bir tesadüf değil. Sayıların sıklıkla birden fazla 
+yolla türetildiğini gördük. Yani bu noktada grupta 2 ,6 1 8 istediğimden 
+eminim. Ayrıca .23 6'yı da çevirmedim:
+4.236
+. 236
+Burada birçok referansta göreceğiniz sayı genellikle 4.24'tür. Aynı 
+zamanda genel olarak bakacağım en aşırı dış geri çekilmedir. Bkz. şekil 
+6.1 8.
+47www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Figür6. 1 8
+0,000
+1
+34.000
+32 .62 1 Geri 4.23f,
+Haziran Temmuz Ağustos
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+Eylül Ekim Kasım
+Artık grubumuz için ihtiyacımız olan tüm Fibonacci sayılarına sahibiz ve tüm sayılar 
+karşılıklı s'leriyle eşleştirildi. Eminim tüm bunların bittiğine memnunsunuzdur, ancak 
+gruba üç numara daha eklemek istediğim için sizi geçici olarak hayal kırıklığına 
+uğratmak zorunda kalacağım. Öncelikle Fibonacci olmayan bir sayı eklemek 
+istiyorum, ancak daha önce tartıştığımız gibi Fibonacci ile ilgili olduğunu bildiğimiz 
+bir sayı var. pi (n): 3'ü eklemek istiyorum. 1 4. En sık bu şekilde anıldığı için sadece iki 
+ondalık basamak kullanacağım. Bunu ilk kez Scott Carney'den öğrendim. Kitabında 
+ve özellikle web sitesinde bazı yeni kalıplarıyla bunu oldukça fazla kullandı. Bakınız 
+şekil 6.1 9 ve 6.20.
+48www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Figür6. 1 9
+?:ABX 0 -0 88 13
+25 .'350 Geri 3 . 14(1
+24.000
+23.000
+22.000
+19.000
+18.000
+1 7.000
+Haziran Temmuz Ağustos
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+Eylül Ekim Kasım
+Figür6.20
+440 .270 Geri 3 . 140 40.000
+30.000
+20.000
+1 0.000
+00.000
+390.000
+380.000
+370.000
+360.000
+350.000
+340.000
+330.000
+1'3 2& Ağustos '3 1&
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+23 30 Eyl 13 20 27 1 1 Ekim
+49
+IItj
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+İkincisi (bu sefer bana inanıyor musun?), Çoğunlukla 2,24'e yuvarlanan 2,236'yı eklemek 
+istiyorum. Bu sayı 5'in kareköküdür. Eskiden altın oran olan Phi ile başladığımızı ve 
+formülün 5 artı'nın karekökü olduğunu hatırlayın.1 ,hepsini 2'ye bölüyorum. Bunu 
+okuyucunun 2 , 23 6'nın 'doğru' bir Fibonacci sayısı olup olmadığını gösterip 
+gösteremeyeceğini görmesi için bir alıştırma olarak bırakacağım. Son olarak bunu ters 
+çevirerek 0,447'yi elde edelim ve orada duralım. Eğer şimdi durmazsam,
+BENbunları eklemeye devam edebilir ve geri kalan okuyucularımı kaybedebilirim. Bkz. şekil 
+6.2 1 ve 6.22.
+Figür6,2 1
+3G .734 Geri 2 .236
+32.000
+30.000
+28.000
+26.000
+20.000
+18.000
+1 6.000
+1 4.000
+Şubat Mart
+D'y'namic Trader tarafından oluşturulan grafik (c) 1 996-2001
+Nisan Mayıs Haziran
+50www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Figür6.22
+?. IPGG !£)
+6.000
+4.000
+2.000
+0,000
+38.000
+3& .877 Yeniden� ben) .447
+36.000
+Nisan Mayıs Haziran
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+Temmuz Ağustos Eylül o(�
+Oldukça kapsamlı olan rakam listemizi özetleyelim:
+. 236, 0,3 82, 0,447, 0,486, . 500, .6 1 8, .786, . 886, 1 . 000, 1 . 1 3 , 1 .272, 1 .6 1 8,
+1 .902, 2 . 000, 2 ,058 , 2,236, 2 ,6 1 8, 3 . 1 4, 3 .6 1 8 ve 4.236.
+Bir sonraki bölüme geçmeden önce son bir yorum eklemek istiyorum. 2'nin 
+karekökünün kullanımı (yaklaşık 1 ,4 1 4'e eşittir) ve karşılıklıdır (yaklaşık 
+0,707), Fibonaccis ile aynı şekilde kullanmak giderek daha popüler hale 
+gelmiştir. Bu rakamlara ters düşen pek çok hamle görüyorum. Şimdi yine, 
+bunun bu sayıların artan popülaritesinden mi yoksa sayıların tam ortasında 
+yer almalarından mı kaynaklandığını bilmiyorum.
+. 6 1 8/.786 ve 1.272/ 1.6 1 8 alanlarıdır ve aşmalar için mantıksal noktalardır. Yoksa başka bir 
+nedenden dolayı mı? Söyleyemem. Sadece bunların bir hamlenin dönebileceği noktalar gibi 
+görünen sayılar olduğunu biliyorum.
+Şimdilik bunları eklemeyeceğim, yoksa elimizde o kadar çok sayı olacak ki, 
+anlamını yitirmeye başlayacaklar. Okuyucunun bunlardan haberdar olması ve 
+eğer isterse daha fazla araştırma yapabilmesi için bunları belirtmek istedim. 
+BENiradebunlara çok yakın iki F ibonacci türetilmiş sayı bulduğumu söyleyin
+5 1www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+iki 'iki' sayının karekökü. Gelecekteki materyallerde sayıları sunabilirim, 
+ancak kaç sayıyla çalışmanın pratik olduğu konusunda kesinlikle ikilem 
+ortaya çıkıyor.
+52www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Bölüm7
+Gann'a Kısa Bir Bakış
+Bu kısa bakışı eklemem gerekip gerekmediğinden bile emin değildim, eğer 
+eklediysem de bir tür ekte mi yer almalıydı? Devam etmeden önce kısa bir bölüm 
+yazmaya karar verdim. Fibonacci'yi ticaretle ilgili olarak inceleyen çoğu kişi, eninde 
+sonunda Gann'ın çalışmalarının en azından bir kısmını inceleyecektir. Gann'ın 
+çalışması oldukça kapsamlı ve bir gün Fib sayılarıyla ve hesap makinemle oynarken 
+aklıma gelen ilginç bir gözlemi belirtmek dışında bu kitapta bu konuya 
+girmeyeceğim.
+Gann sekizde bir fikrine dayalı bazı çalışmalar yaptı. O baktıEvet, evet, evet,
+1Evetve benzeri. Yani bir bakabilirsinEvetEvet, Evet, %, Evet, %, 1Evet,
+geri çekilme veyaEvetgeri çekilme veya bu doğrultuda bir şey. Şimdi bu 
+Gann sayılarına ve az önce türettiğimiz bazı sayılara bakalım.
+sekizde bir
+Evet= .250
+Fibonacci
+. 236
+. 3 82
+Evet= .500
+Evet= .625
+%= .750
+. 486 veya . 500
+. 6 1 8
+. 786
+Evet= .875
+%=1. 000
+. 886
+1.000
+1Evet=1. 1 2 5
+ben evet=1.250
+1. 1 2 8 ( 1 . 1 3 )
+1 .272
+ve benzeri . . .
+53
+Evet= .375
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Burada sadece tek bir yorum yapacağım: Hımmmmm. Hayır, kesin değiller ama 
+Fibonaccis'in kullanıldığını gördüğünüzde ve bu sayılara kesin noktalar olarak 
+değil, bakılacak alanlar olarak baktığımızı görünce, bu beni kesinlikle 
+meraklandırıyor. Gann'ın bahsettiği bu sekizinciler sadeceçooookFibonacci sayılarına 
+yakın. Aynı fikir iki farklı yoldan mı keşfedildi? Bunun daha önce hiçbir yerde 
+sunulduğunu görmemiştim. Bunun düşünmeye değer olduğunu düşünüyorum 
+ve okuyucuya biraz fikir vermek istedim.
+54www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Bölüm8
+Moda
+Gruplama ve ticaret tekniklerinin ana hatlarını çizen bu bölüm ve takip eden iki bölüm, 
+bu materyalin yararlı doğasının önemli kısımlarının sunulacağı yerdir. Şu ana kadar, 
+önceki materyallerin tümü aşağıdakileri yapabilmeniz için sunuldu: aşağıdaki teknikleri 
+kendi başınıza yeniden oluşturabilirsiniz; ve kendi ticaret ihtiyaçlarınıza uyacak şekilde 
+onlarla denemeler yapın. Gurur duymak. Tüm arka plan matematiğini incelediniz ve 
+şimdi bununla neler yapılabileceğini görmeye hazırsınız.
+Daha önce de belirttiğimiz gibi Fibonacci bölgelerinin belirlenmesindeki temel amaç, 
+destek veya direnç olabileceğini düşündüğümüz yerlerin oluşturulmasıdır. Bir alan 
+belirlendikten sonra, işlemi gerçekleştirmek için kullanılacak tekniğe (alanın geçerli 
+bir destek veya direnç alanı olduğu varsayımına dayanarak) karar verilmelidir. Şimdi 
+bu basit ama sıklıkla gözden kaçan fikri düşünün. Bir destek veya direnç alanı 
+'tutarsa' fiyat bu bölgeden geçmeyecektir. Bir bariyer görevi görecek, ancak fiyatı 
+tersine çevirebilir veya tersine çevirmeyebilir.
+Ticaret yaparken, destek veya direnç alanları kullanılıyorsa genel varsayım, 
+fiyat hareketinin bu alanı tersine çevireceği yönündedir. Ticaret para 
+kazandırıyor çünkü artık yeni bir trendin içindesiniz. Fiyat durabilir ve sonra 
+yanlara doğru gidebilir, ancak siz baktığınız alanda trendin değişmesi için 
+oynuyorsunuz. Yaptığınız şey geri dönüş üzerine bahis oynamaktır. Sen 
+toplamaAüst veyaAalt.
+Şimdi bekleyin, trendin arkadaşınız olduğunu ve asla üst ve altları seçmeye 
+çalışmak istemediğinizi düşündüm. Bence bu genel olarak doğru. Ancak yaptığım 
+işlemlerin birçok grafiğini incelediğimde, kullandığım tekniklerin neredeyse her 
+zaman zirveleri ve dipleri seçmeye çalıştığını fark ettim. Kafanız fazla karışmadan 
+önce açıklayayım.
+Herhangi bir grafik için yükseliş trendlerini, düşüş trendlerini ve yatay dönemleri göreceksiniz. 
+Ancak bir yükseliş trendi için, örneğin yukarı çıktıkça küçük geri çekilmelere sahip olduğuna 
+dikkat edin (Bölüm 2'deki 'ağaçlar gökyüzüne kadar büyümez' sözünü hatırlıyor musunuz?). Daha 
+kısa bir zaman diliminde bu geri çekilmeler aslında düşüş trendleridir. Yani şu anda daha büyük 
+bir yükseliş trendi içinde düşüş trendindesiniz. Birden fazla küçük ve büyük resme bakarak bu 
+kelime oyununu tekrar tekrar oynayabilirsiniz.
+55www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+zaman dilimleri, aynı grafikte neredeyse sonsuz sayıda yükseliş ve düşüş 
+trendi bulma. Bkz. şekil 8. 1.
+Figür8. 1
+::.::MMM D-D 1!8 EJ
+1 20 . 000
+1 1 5 . 000
+1 1 0 . 000
+1 05 000
+1 00.000
+5. 000
+0 000
+21 28 Ekim 12 1"3
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-200 1
+2& Kasım "3 1& 23 30 Aralık 14 2 1
+Burada MMM günlük grafikte güçlü bir yükseliş trendinde. Bu güçlü yükseliş 
+trendi yönünde bir ticarete girme girişiminde bulunulabilecek çok sayıda geri 
+çekilme vardır. 29 Ekim'de başlayan geri çekilmeye 15 dakikalık grafikte 
+bakalım. Bkz. şekil 8. 2.
+56www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Figür8.2
+?.MMM 15-1 ben!GU!I
+1 1 0.000
+1 09.000
+1 08.000
+1 07.000
+1 06.000
+1 05.000
+1 04.000
+Eki2':1 dk
+Dynamic Trader tarafından oluşturulan grafik (c) 1996-2001
+30 ton
+Bu geri çekilme, günlük zaman diliminde daha büyük dereceli bir yükseliş eğilimi 
+bağlamında, 1 S-dakika zaman diliminde açık bir düşüş eğilimidir.
+Şimdi asıl mesele şu. Trendde kalmak istediğinizi varsayalım, böylece ticaret yapmak 
+istediğiniz bir zaman aralığı bulursunuz ve gemiye binmek istediğiniz bir yükseliş trendi 
+bulursunuz. Geri çekilmeye gireceğinize siz karar verirsiniz (çok yaygın ve çok kullanılan 
+bir tekniktir).Üstleri ve altları seçmenin son derece zor olduğunu bildiğiniz için, yerleşik 
+hareket çizgisiyle mücadele etmiyorsunuz, tamamen trendle ilgilisiniz, değil mi?
+57www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Beğendiğiniz geri çekilmeye siz karar verirsiniz ve sizi ticarete teşvik etmek için mevcut birçok 
+teknikten herhangi birini kullanırsınız. Geri çekilmenin ne zaman biteceğini veya muhtemelen 
+biteceğini size bildireceğini umduğunuz teknikler. Sonuçta düşen bir bıçağı yakalamak 
+istemezsiniz. Şimdiye kadar, çok iyi. Trend ile konumunuzu belirliyorsunuz. Bkz. şekil 8. 3.
+Figür8.3
+�"1. GP DD I!!IGU3
+3 1.000
+30.000
+29.000
+28.000
+24.000
+23.000
+20.000
+19.000
+25 Şubat 8 15
+Dynamic Trader tarafından oluşturulan grafik (c) 1996-2001
+22 Mart 8 15 22 28
+Sorunu görüyor musun? Grafiğinizi daha düşük bir zaman dilimine çevirin ve 
+yalnızca geri çekilmeye bakın. Bkz. şekil 8.4.
+58www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+Figür8.4
+?.GP 1 5-1 1!!8 £ J
+30.000
+29.500
+29.000
+28.500
+28.000
+27h 231
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+Nisan 2 ton
+Umarım az önce ne yaptığını görürsün. Bu durumda, açık bir düşüş trendi 
+gibi görünen şeyin dibini seçmeye çalıştınız. Şimdi durun, az önce 
+yapmayacağımızı söylediğimiz şey tam olarak buydu. Bana göre bu tüccarın 
+ikilemi.
+Yükselen bir piyasayı satın almak veya düşen bir piyasayı satıp devam etmesini 
+ummak istemiyorsanız, bu ikilemle karşı karşıya kalacaksınız. Trendi takip 
+etmenin ne kadar önemli olduğunu söyleyen pek çok referansın bulunmasını ve 
+buna rağmen çok azının şu anda neye baktığımızı belirtmesini çok ilginç 
+buluyorum. Peki ne yapıyoruz?
+Dikkat etmemiz gereken ilk şeyin belirli bir eğilimin önemi olduğunu düşünüyorum. Trendin 
+zaman dilimi ne kadar yüksek olursa, trend genel olarak o kadar önemlidir. Buradaki fikir, 
+hareket halindeki bir trendin, bir şey onu değiştirecek şekilde harekete geçene kadar hareket 
+halinde kalacağıdır. Yani, diğer tüm faktörler eşit olduğunda, günlük bir trend 5 dakikalık bir 
+grafikteki bir trendden daha fazla 'ivme'ye sahiptir.
+Bu nedenle, genellikle ticaret yaparken üç zaman dilimine bakma şeklindeki yaygın 
+uygulamayı takip ediyorum. Öncelikle işlem yapılan zaman dilimini belirliyorum; the
+59www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Ticaret yapmak istediğim bir trendi gösteren zaman dilimi. Daha sonra daha yüksek bir zaman aralığı 
+seçiyorum; genellikle üç ila beş kat daha yüksek. Bu zaman dilimini bağlam için kullanıyorum, güzel bir 
+trend olduğunu düşündüğüm şeyin aslında daha büyük bir trend içinde bir geri çekilme olabileceğini 
+görmek için. Son olarak bir 'tetikleyici' zaman dilimi belirliyorum; yine genellikle işlem gören zaman 
+diliminden üç ila beş kat daha kısadır.
+Örneğin, bazen bağlam için I 5-dakika ve tetikleyiciler için I-dakika ile 5 dakikalık 
+grafikte işlem yapıyorum. Ayrıca genel tabloya sahip olduğumdan emin olmak için 
+çok daha geniş zaman dilimlerine hızlıca bakacağım; buradan,BEN
+Bu durumda 60 dakikalık, günlük ve haftalık grafiklere de bakacağız.BENSadece daha 
+kısa zaman dilimlerinde göremeyeceğim sürprizlerin olmayacağından emin olmak 
+istiyorum. Şekil 8'e bakınız. 5-8 .9, açıklamalarla birlikte.
+Figür8.5
+::':.ES02Z 5-1 ' !Yani EI
+62.000
+tr 1
+61.000
+60.000
+59.000
+58.000
+57.000
+56.000
+55.000
+54.000
+53.000
+52.000
+51.000
+öyle mi!
+dtq
+! T1
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+DiyelimkiBEN5 dakikalık grafikte bu düşüş trendini görün. Bir geri çekilme gelişiyor ve bu 
+5 dakikalık trendle işlem yapmayı denemek istiyorum. Şu anda bu konuyla ilgili daha 
+büyük ölçekli resmin ne olduğunu görmek için 5 dakikalık grafiğe bakıyorum. Bkz. şekil 8. 
+6.
+60www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+Figür8.6
+?.ES02Z 15-1 1!18 f3
+00.000
+90.000
+80.000
+70.000
+60.000
+l7t l3h
+Dynamic Trader tarafından oluşturulan grafik (c) 1 996-2001
+3t
+Bu 5 dakikalık grafikteki son çubuk, şekil 8'deki 5 dakikalık grafikteki 
+üç çubuk geri çekilmenin tamamını kapsar. 5. Bu ek bilgiyle bakış 
+açısı oldukça farklı. I 5 dakikalık grafikte çok daha büyük ölçekli bir 
+düşüş trendi gösteriyor.
+Bu noktada bu ticaretin değerini eleştirmeyelim veya bu 5 dakikalık grafikte 
+görebileceklerimizi değerlendirmeyelim. Evet, hepimiz önceki günün sonunda, 
+normalden daha büyük bir geri çekilme, aradaki farkın azalması, trendin 
+bayatlaması, yatay hareketin gelişmesi vb. takip eden olası tükenmeye yakın aşağı 
+yönlü hareketi görüyoruz. Şimdi 5 dakikalık grafik trendinin de düşüşte olduğunu 
+belirlemek için grafiği kullanalım.
+Şunu da belirtelim ki, geri çekilme başlamadan hemen önce fiyat son düşük 
+seviyeyi kırdı, dolayısıyla piyasa kararının verilmesi muhtemel bir konumdayız. 
+Düşüş trendi sona ermiş olabilir ve bu tipik bir sarsıntı olabilir veya başka bir 
+düşüşle karşı karşıya kalabiliriz. Geri çekilmenin neredeyse bittiğini 
+hissettiğimizde 5 dakikalık grafikte işlem yapacağımızı varsayalım, 1-dakikayı 
+çevirelim ve ona bakalım. Bkz. şekil 8. 7.
+6 1www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+Figür8.7
+?.ES02Z 1 -1 !f8 EJ
+62.000
+6 1.000
+60.000
+59.000
+58.000
+57.000
+, 56.000
+55.000
+54.000
+53.000
+51.000
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+Bu noktada 1-dakika trendi yukarı doğru. Bir dakikalık trendin döndüğüne dair bir 
+işaret arar ve ardından bir işlem başlatmaya çalışırdım. Unutmayın, bu beni daha 
+büyük zaman dilimi trendine uygun hale getirecek. Göstermek için, şu anda biraz keyfi 
+olarak bir giriş sinyali seçeceğim. (Bunun giriş tetikleyicileriyle ilgili bir ders olmadığını 
+unutmayın. Özel tetikleyiciye siz karar vereceksiniz. Bunu kapsayan tonlarca kitap var 
+ve belki de1 '11Benim de kendi fikirlerim olduğu için gelecekte kendim de bir tane 
+yapacağım. Buradaki önemli nokta, kurulumumuzu belirledikten sonra, kişisel olarak 
+tercih ettiğiniz tetikleyiciyi kullanırsınız.) Bu durumda, tetikleyicim olarak I 5 dönemlik 
+basit hareketli ortalamanın altındaki bir kapanışı kullanacağım. Şekile bakın8. 8.
+62www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Figür8.8
+:::.::ES02Z 1 -1 ben!!!U!IEJ
+61.000
+60.000
+59.000
+58.000
+57.000
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+Şekil 8'de görüldüğü gibi ticaret. 8, şimdi bu noktada tetiklenir.
+63www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+Bakalım bu takas nasıl sonuçlanacak? Takas işlemini nerede yapacağınız, 
+kendi ticaret tarzınıza bağlı olacaktır. İşlem 5 dakikalık grafikten başlatıldıysa 
+ve 1. dakikada tetiklendiyse, bunlar da işlemi kapatmak için bir plan aramak 
+için iyi yerler olabilir. Bkz. şekil 8. 9.
+Figür8.9
+::::-.ES012 5-1 !Yani EI
+62.000
+60.000
+58.000
+56.000
+54.000
+20f
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+İncelediğimiz geri çekilme, bu 5 dakikalık grafikteki düşüş trendindeki ilk 
+geri çekilmedir (bkz. şekil 8.9'daki ok). Gördüğünüz gibi, bu ticaretten kâr 
+elde etmek için bol miktarda fırsat vardı ve daha önce tartışılan çekincelere 
+rağmen, bu ticaret başka bir düşüşe başladı.
+Aktarmak istediğim ana noktalardan biri trend yönünde işlemlere bakacağımız ve 
+geri çekilmenin sona erebileceği bir nokta bulmaya çalışacağımızdır. 'İşlem yapılan 
+zaman çerçevesi', işlem yapmak istediğimiz trende göre belirlenir. Tüm trendi ve 
+geri çekilmeleri açıkça gösteren bir 'işlem yapılan zaman dilimi' seçin. Daha sonra 
+daha düşük bir zaman dilimine ineceğiz ve bu karşı trend geri çekilmesinde bir zirve 
+veya bir dip seçmeye çalıştığımızı çok iyi bilerek, bunu yapmak için bir tetikleyici 
+arayacağız,daha büyük ölçek eğilimi bağlamında.
+64www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Bazen takip ettiğimiz trend eskimiş ve uzun bir yol kat etmiş gibi görünüyor. 
+Bu, ister tepe ister dip olsun (bir yükseliş trendi mi yoksa bir düşüş trendi mi 
+izlediğimize bağlı olarak) koşunun sonunu seçme eğilimine yol açar. Bazı 
+Fibonacci hesaplamalarını kullanarak trendin bitebileceği alanları 
+belirleyebilirsiniz. Ancak okuyucuyu uyarmak istiyorum; bu çok düşük 
+olasılıklı bir önermedir.
+Bunun yerine, daha geniş bir zaman dilimine geçmenizi ve bu eğilimin daha büyük bir eğilim 
+içinde bir geri çekilme olup olmadığına bakmanızı önereceğim. Eğer öyleyse, geri çekilmenin 
+bitebileceği olası yerleri hesaplayın. Geri çekilmenin sona erebileceği bu alanlar, işlem gören 
+zaman dilimi trendinin f'den sona ermesi için hesaplanan alanlarla örtüşebilir. Artık, 
+başından beri geliştirdiğimiz şeye benzer bir şeye sahipsiniz. Daha yüksek bir zaman 
+diliminde işlem yapmak için yukarı çıktınız. Bu muhtemelen daha yüksek olasılıklı bir ticaret 
+olacaktır. Fikir şu:işlem gören zaman dilimi trendinin ne zaman biteceğini seçmeye çalışmayın.
+65www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+Bölüm9
+Gruplamalar
+Şu ana kadar Fibonacci sayılarıyla yaptığımız tek şey, olası destek veya direncin 
+bazı tek sayı alanlarını göstermekti. Bu örnekler bir Fibonacci sayısında neler 
+olabileceğini gayet iyi gösterse de, ben yalnızca tek bir sayıya dayanarak işlem 
+yapmak konusunda isteksiz olurdum. Şansın benim lehime daha fazla 
+göründüğünü bilmek istiyorum. Bu nedenle birden fazla Fibonacci sayısının 
+oldukça dar bir alanda yığıldığını görmek istiyorum. Yani küçük bir bölgede bir 
+grup rakamı bir arada görmek istiyorum.
+Fibonacci sayılarını ilk kez denemeye başladığımda keşfettiğim şeylerden biri, 
+her yüksek veya düşük salınımın ek Fibonacci hesaplamaları için ayrı bir nokta 
+olarak kullanılabileceğiydi. Bir salınım noktası harmonik olarak oluşturulmuşsa 
+(yani, Fibonacci sayı hesaplamalarının yakınsaması durumunda), o zaman önceki 
+hesaplamaların bazılarıyla örtüşecek yeni hesaplamalar (bu ek salınım 
+noktasından) türetilebilir. Mevcut geri çekilmelerden, öngörülerden ve 
+genişlemelerden bazıları, önceki dalgalanmalardan elde edilen bazı 
+hesaplamaların üzerine çıkacak. Bazılarına bakalım basit örnekler ve daha 
+karmaşık olanlara doğru ilerleyin. Açıklamalarla birlikte şekil 9.1-9.7'ye bakın.
+67www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+Figür9. 1
+?.CSCO 0 -0 !lEi �
+19.000
+18.000
+1 7.000
+1 6.000
+1 5.000
+Ocak 1 1 18 25 8 Şubat
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+15 22 8 Mart 15
+Burada CSCO'daki düşüş trendinin 0,486'lık geri çekilmesine sahibiz. Gelin aynı 
+konuyla ilgili (önce tek başına) başka bir düzeltmeye bakalım. Bkz. şekil 9.2.
+68www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+Figür9.2
+?:CSCO 0 -0 Ben!U;EĞER!Ben
+20.000
+1 9.000
+18.000
+1 7.000
+1 6.000
+1 5.000
+Ocak 1 1 18 25 Şubat
+Grafik oluşturuldu b,>,' Dynamic Trader (c) 1996-2001
+8 15 22 8 Mart 15
+Bu kez geri çekilme daha düşük bir salınım noktasından başlatıldı.
+69www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+Şimdi aynı grafik üzerinde bu iki geri çekilmeye aynı anda bakalım ve 
+ilginç bir şey olup olmadığına bakalım. Bkz. şekil 9.3.
+Figür9.3
+� CSCO 0 -0 !IS E.1
+20.000
+19.000
+1S.000
+17.000
+16.000
+15.000
+Ocak 1 1 18 25 Şubat
+Dynamic Trader tarafından oluşturulan grafik (c) 1996-2001
+8 15 22 8 Mart 15
+Aslında gördüğümüz şey, bu iki geri çekilme değerinin son derece birbirine 
+yakın, aralarında sadece on sent kadar mesafe var. O kadar yakınlar ki 
+tablodaki etiketleri okumak zor. Bu alışılması gereken bir şey çünkü grup ne 
+kadar sıkı olursa etiketleri okumak da o kadar zorlaşıyor.
+Bu gruplamayı tamamlamak için bu örneğe birkaç sayı daha ekleyelim. Öncelikle şekil 
+9.3'teki grafiği biraz yedekleyelim, böylece bu düşüş trendinin nerede başladığını 
+görebiliriz. Bkz. şekil 9.4.
+70www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+Figür9.4
+?:CSCO DD !l8 13
+22.000
+21.000
+1 9.000
+1 8.000
+1 7.000
+1 6.000
+1 5.000
+30 Aralık 14 2 1 28 Ocak 1 1 18 25 Şubat 8
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+15 22 Mart 8 15
+Şimdi, eğer okuyucu olsaydım, bu noktada soracağım ilk soru şu olurdu: "Bu 
+sadece bir çift tepe, peki bu bizim hesaplamalarımızda ne gibi bir fark yaratır? 
+Başlangıç   noktası hemen hemen aynı." Bu iyi bir soru, ancak grafikte önemli 
+bir şeyi gözden kaçırıyor; grafikleri analiz ederken sıklıkla gözden kaçırılan bir 
+şey. Hareket nihayet aşağı doğru devam etmeden önce, konu yüksek seviyeyi 
+'yeniden test etti'. Benim için önemli olan, yeniden testten önce sorunun ne 
+kadar çözüldüğüdür.
+Bu benim için önemli çünkü yeni düşüş trendine karşı ilk karşı trendi (geri 
+çekilme) oluşturuyor. Bu karşı trend hamlesiyle, gruplamalarıma eklenecek 
+orantılı hamleleri hesaplayabiliyorum. Mevcut iki sayı gruplandırmamıza 1.000'lik 
+bir hamle ekleyelim. Başka bir deyişle, ilk geri çekilmeye eşit büyüklükte bir 
+hamlenin bizi bu hamlede nereye koyacağını görelim. Şekile bakın9. 5.
+7 1www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+Figür9.5
+?:cseo 0-0 1!!!18 £1
+22.000
+19.000
+1 8.000
+1 7.000
+16.000
+1 5.000
+30 Aralık 14 2 1 28 Ocak 1 1 18 25 Şubat 8
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+15 22 Mart 8 15
+Bu eşit karşıt trend hamlesi bizi önceki iki sayıyla aynı alana yerleştiriyor. 
+Gruplandırma kavramı bu noktada sizin için belirgin olmaya başlıyor 
+olmalı. Ayrıca yeni rakamın, ilk düşüşün (24 Aralık'ta meydana gelen) 
+dönüm noktasıyla tam olarak aynı fiyat noktasına düştüğü de dikkate 
+değer. Grafiğe bakın ve bu alanın kaç kez test edildiğini ve bu fiyat 
+bölgesinin ne kadar önemli olduğunu görün. Klasik anlamda bu, önceki 
+desteğin dirence dönüşmesine iyi bir örnek olabilir.
+Ayrıca, ilk yaptığımızın aşağısına doğru olan bir sonraki salınımın orantılı hareketini 
+de ekleyelim, gördüğünüz gibi bu daha küçük bir salınımdır. Şekile bakın9.6.
+72
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+Figür9.6
+?.eSeD DD 1!!8 13
+22.000
+J
+19.000
+18.000
+17.000
+16.000
+15.000
+30 Ara 14 2 1 28 saat 1 1 18 25 Şub 8
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+15 22 Mart 8 15
+Muhtemelen 'Az önce ne oldu?' diye soruyorsunuz. 1 .902'yi ekledim
+Gruplandırmamıza bir rakam daha eklemek için, daha küçük bir geri çekilmenin (22 
+Ocak'tan 1 Şubat'a kadar) 27 Şubat'taki en düşük seviyeye yansıması öngörülüyor. Bu 
+bize çok sıkı bir grupta dört sayı verir. Gruplandırma için (daha önce de belirtildiği gibi) 
+24 Aralık'tan itibaren görülen en düşük salınımı dikkate almak akıllıca olacaktır. 
+Grafikteki ilk tahmin hesaplamasındaki çizgi bunu oldukça açık bir şekilde gösteriyor, 
+tam 18.00 dolar. O halde bu, gruplandırmamız için beş sayı yapar.
+Biraz daha fazla veri gösteren bir grafiğe bakalım. Bu, bu alanın CSCO için ne kadar önemli 
+olduğunu gösterecek. Ayrıca, netlik sağlamak amacıyla, gruplandırmaları oluştururken 
+kullandığım yüksek ve düşük salınımlardaki ekstra çizgilerin tümünü de kaldıracağım. Bkz. 
+şekil 9.7.
+73www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+Figür9.7
+?.CSCO 0-0 !£J
+21.000
+20.000
+19.000
+18.000
+1 7.000
+16.000
+1 5.000
+1 4. 000
+1 3.000
+Aralık 02 Şubat
+Dynamic Trader tarafından oluşturulan grafik (c) 1 996-2001
+Mart Nisan rvh
+Bütün bunlar ilk başta biraz kafa karıştırıcı görünebilir (çok kafa karıştırıcı??), 
+ama endişelenmeyin. Başlamadan önce bu sorunun cevabını almıştım. Aslında 
+bu gruplandırmaları sıfırdan bu şekilde oluşturmuyorum. Eğer öyle olsaydı, soru 
+şu olurdu: 'O tek geri çekilmede 1.902 projeksiyonu yapmayı nasıl bildi' vb. Bunu 
+bakarak bilemezsiniz, ancak bunu çok sık yaptığınızda 'tahmin etme' konusunda 
+oldukça başarılı olabilirsiniz.
+Bunu adım adım ortaya koydum, böylece sıkı gruplamanın oluşturulduğu şekliyle her 
+seferinde bir sayı görülebilmesini sağladım. Uygulamada, tüm projeksiyonları bir 
+kerede grafiğe koyarsınız ve o yeni yüklenir. Daha sonra sıkı gruplandırmaları arar ve 
+tüm yalnız sayıları silersiniz. Buradaki fikir, belirgin gruplandırmalara sahip grafikler 
+bulmaktır.
+Çoklu salınımların üst üste bindiği harmonik kavramı, hesaplamalarımız için 
+kullanmayı seçtiğimiz salınımların herhangi birini ve tümünü kullanmamıza izin verir 
+ve çoğu zaman oldukça sıkı, net gruplamalar ortaya çıkar. Karmaşık bir sayıya sahip 
+olsaydık bunun pek bir faydası olmazdı. Eğer bu gerçekleşirse, genellikle bu konuyu 
+'çok uyumlu değil' olarak nitelendiriyorum ve sadece sıkı gruplamalar verme 
+eğiliminde olan konuları arıyorum.
+74www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+Hadi devam edelim ve çeşitli gruplamalar oluşturalım. Az önce de belirttiğim gibi, bunu 
+yapmanın en iyi yolunun, elimden geldiğince mantıklı olan her şeyi grafiğe koymak ve bazı 
+alanların öne çıkıp çıkmadığına bakmak olduğunu düşünüyorum. Daha sonra, birkaç tane 
+çok belirgin, sıkı gruplama kalana kadar net bir gruplandırmada olmayan sayıları 
+kaldırıyorum. Bunlar daha küçük bir zaman dilimine ineceğim ve bir takas yapmayı 
+düşüneceğim bölgeler. Bir sonraki bölümde ticaret teknikleri ayrıntılı olarak ele alınacaktır. 
+Şimdilik gruplandırmalar oluşturmaya odaklanalım.
+Umarım yapım sürecini sunma şeklim okuyucuya açık olacaktır. Giderek daha 
+fazla geri çekilme, projeksiyon vb. ekledikçe çok sayıda grafiği sırayla sunma 
+yaklaşımını benimsiyorum. Bir noktada grafik karmaşık görünebilir, ancak 
+bazı grupların öne çıkacağını umuyoruz. Daha sonra yalnızları ayıklayacağım 
+ve geriye kalanlar oldukça iyi görünecek. İlerledikçe adım adım ne yaptığımı 
+ve nedenini açıklayacağım.
+75www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+AOL'a günlük grafik üzerinden bakalım. Sorun güçlü bir düşüş trendinde ve düşüş 
+trendindeki önceki düzeltmelerden daha büyük boyutta bir düzeltme yapıyor. Bu daha 
+büyük düzeltme, düşüş trendinin sona erdiği anlamına gelebilir veya daha büyük bir 
+düzeltmenin yolda olduğu ve düzeltme rotasını tamamladıktan sonra düşüş trendinin 
+devam edeceği anlamına gelebilir. Şekil 9'a bakınız. 8.
+Figür9.8
+5.000
+0. 000
+5.000
+30.000
+Juro Temmuz
+D�lnamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+Ağustos Eylül Ekim Kasım
+Düşüş trendinin devamı için oynamayı planlıyorsak, ters trend düzeltmesinin sona 
+erebileceği bir gruplama inşa etmemiz gerekiyor. En baştan birkaç geri çekilmeyle 
+başlayalım. Kişisel olarak, geri çekilmenin en az %0 olduğu güçlü trendlerde işlem yapmayı 
+tercih ediyorum. 3 82, ancak 0,447'den büyük değil. Bu, geri çekilmenin 0,236 veya daha az 
+olduğu işlemlere girmeyeceğim anlamına gelmiyor, ancak benim tercihim 0,236 veya daha 
+az olan işlemlerdir. 382- .447 aralığı. O halde a koyalım. 382 ve grafikte 0,447. Şekile bakın9.9.
+76www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+Figür9.9
+?.AOL D-D !IS F3
+41 .306 Geri 0 .447 
+3') 0,284 Geri 0 ,382
+35.000
+30.000
+Haziran Temmuz Ağustos
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+Eylül Ekim HAYIR)
+Bu bizim ana alanımızdır ve ek sayılar bu genel alanın bir yerinde olmalıdır. 
+Kullanmayacağım bilgilerle dolu bir grafik yapmaktan kaçınmak için bu alanın 
+çok dışına herhangi bir rakam eklemekten kaçınmaya çalışacağım. Ayrıca, bir 
+trend çizgisi eklenirse bu genel bölgenin içinden geçeceğini unutmayın. Bu 
+bana gösteriyor ki, eğer bu alan büyük ölçüde aşılırsa, ya trendin değiştiğini 
+ya da ticaret yapamayacak kadar belirsiz olduğunu düşüneceğim. Bkz. şekil 
+9.1 0.
+77www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 76 ===
+Figür9.1 0
+?.AOL 0-0 1!!!8 £ J
+41 .306 Geri 0 .447 
+3'3 .284 Geri 0 .382
+35.000
+Haziran Ağustos
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+Eylül Ekim HAYIR)
+Şimdi bir sonraki başlangıç   noktamız için bir sonraki yüksek salınım noktasına (21 
+Haziran'da) geçiyoruz. 21 Eylül'deki en düşük seviyeye doğru olan bu hareket, tepeden 
+aşağıya doğru olan hareketten daha az olduğundan, bizi aynı durumda tutmak için, 
+tepeden itibaren kullandığımızdan biraz daha büyük olan geri çekilmeleri eklemeliyiz. 
+alan. ile başladığımızı düşünürsek. 382 ve .447, bir sonraki ekleme için .447 ve .486'yı 
+deneyelim. Şekil 9'a bakınız. 1 1 .
+78www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 77 ===
+Figür9. 1 1
+�:. AOL 0-0 !!£!
+5.000
+Haziran Ju/ Ağustos
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+Eylül Ekim HAYIR)
+Bu geri çekilme seçimi, halihazırda grafikte bulunan iki geri çekilme ile oldukça iyi 
+örtüşüyor, o yüzden devam edelim. Düşüş trendinde aşağı doğru yol alırken, bir 
+sonraki en yüksek seviyeden geri çekilmeler ekleyelim. Şimdi gözlerim bana şu ana 
+kadarki gruplaşmaların 2 Ağustos'taki bir sonraki zirveden neredeyse 0,6 1 8'lik bir 
+geri çekilme seviyesinde olduğunu söylüyor. Benim için bunu hemen fark etme 
+yeteneğim deneyim seviyesiyle ilgili. Bu tür gruplamalar oluşturdum. Gözünüzün o 
+noktaya ulaşmadığını söyleyin. Devam edelim ve 0,486'yı ekleyelim,
+. 6 1 8 ve .786, bu noktada ne yapacağımızdan emin olmadığımızı varsayarsak. Şekile bakın
+9. 1 2.
+79www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 78 ===
+Figür9. 1 2
+?.0-0 e8 EJ
+5.000
+0,000
+5.000
+0,000
+35.000
+30.000
+Haziran Temmuz Ağustos
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+Eylül Ekim HAYIR)
+Gördüğümüz gayet açık. .486 baktığımız alanın çok altında, .786 ise biraz 
+üstünde. 0,6 1 8'i görmek neredeyse imkansız, çünkü gruplamalardan 
+birini tam olarak kaplıyor. O halde .486 ve . 786. Bazen sadece bir şeyler 
+eklemek, ne olacağını görmek ve ihtiyacınız olmayanları silmek en kolay 
+yoldur. Şekil 9'a bakınız. 1 3.
+80www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 79 ===
+Figür9. 1 3
+?.AOL 0-0 !Yani £I
+5.000
+0,000
+5.000
+0.000
+35.000
+30.000
+Haziran Jui Ağustos
+Dynamic Trader tarafından oluşturulan grafik (c) 1 996-2001
+Eylül Ekim HAYIR)
+Şimdi düşüş trendine doğru giderken 27 Ağustos'ta bir yükselişimiz daha 
+var, o yüzden oradan geri çekilmeleri ekleyelim. Yine, grafiğe bakışıma ve 
+son geri çekilmelerden kazandıklarımıza dayanarak, . 786 ve . Bu 
+yükseklikten 886. Baktığımız alanın en yüksek seviyenin hemen altında 
+olduğunu oldukça net bir şekilde görebiliyorsunuz, bu nedenle bu geri 
+çekilmeler mantıklı. Bkz. şekil 9. 1 4 .
+8 1www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 80 ===
+Figür9. 1 4
+?.AOL DD
+Haziran Temmuz Ağustos
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+Eylül Ekim HAYIR)
+Şimdi bu harika görünüyor. Çok güzel iki grup oluşumuz var ve bunlar birbirine 
+yakın. Ağustos salınım zirvesinden sonraki çizginin gruplamaların bir parçası 
+olmadığına dikkat edin (bu noktayı geri çekilmelerden biri için kullandığımızı bize 
+göstermek için oradadır).
+Şu ana kadar eklediğimiz fiyatların tamamı geri çekilme niteliğinde. Artık bazı 
+öngörülere bakabiliriz. Genellikle yerleşik bir trend için kullandığım tahminler önceki 
+tüm geri çekilmelerden elde edilir. Ancak bu durumda, daha önceki tüm geri 
+çekilmelerden daha büyük bir geri çekilmenin sonu için oynuyoruz. Bunun anlamı, 
+1'e ekleme yapmayacağımızdır. Tüm bu önceki geri çekilmelerin 000 projeksiyonu, 
+çünkü çok küçük olacaklar.
+Bu bize ne bırakıyor? Peki, önceki geri çekilmelerin diğer Fibonacci oranlarını da 
+ekleyebiliriz. Veya gruplamayı oluşturduğumuz geri çekilmeye bakıp orada ipuçları 
+arayabiliriz. Bu geri çekilmede gördüğüm ilk şey tanıdık bir forma sahip olması, basit 
+bir form.ABCdüzeltme. Bu, bir ilk hamlenin yapıldığı, bir geri çekilmenin meydana 
+geldiği ve daha sonra düzeltmenin genellikle başlangıçtaki hamleye eşit veya ona 
+yakın bir hareketle tamamlandığı bir düzeltmedir.
+82
+1!9 EJ
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 81 ===
+Abacak. EğerCbacak eşit değilAbacak, sıklıkla Fibonacci oranıdırAbacak, 
+çoğunlukla .786, . 886, 1 . 1 3 veya 1 .272 oranı.
+Öyleyse tüm bu Fibonacci oranlarının yanı sıra 1.000'in projeksiyonlarını da 
+ekleyelim. Bkz. şekil 9.1 5.
+Figür9. 1 5
+5.000
+0,000
+IIIIII
+37 .435 Uygulamaya da SSE.
+35.000
+30.000
+Haziran Temmuz Ağustos
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+Eylül Ekim HAYIR)
+Bu iyi görünmeye devam ediyor. En küçük iki projeksiyon gruplamaların altındadır, 
+o yüzden onları silelim. Geriye kalan üç tahmin (1.000, 1.13 ve 1.272) mevcut iki 
+gruplandırmamıza tam olarak uyuyor. Ayrıca, netlik sağlamak amacıyla, geri 
+çekilmelerin kilitlendiği yüksek salınım noktalarını gösteren çizgileri de sileceğim. 
+Bkz. şekil 9. 1 6.
+83www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 82 ===
+Figür9. 1 6
+?.Çok fazla () - () 1!18 13
+5.000
+0,000
+35.000
+30.000
+Haziran Temmuz Ağustos
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+5 bölüm Ekim HAYIR)
+Bir sorunumuz olduğunda dikkate almak istediğimiz, yapabileceğimiz başka bir şey daha var.
+ABCgeri çekilme tipinde ve bu geri çekilmenin harici bir geri çekilmesidir.Bbacak. Bu 
+prosedürü takip etmeyi daha az kafa karıştırıcı hale getirmek için, önce grafikte sadece bu 
+harici geri çekilmeyi tek başına göstereceğim, böylece ne yaptığımı görebilirsiniz. Daha 
+sonra bunu gruplamalarla birlikte grafiğe ekleyeceğim. Bkz. şekil 9.1 7.
+84www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 83 ===
+Figür9. 1 7
+?.AO[ 0-0
+40 .862 Geri 1 .6 18
+'''''''Çürük 1 .272
+35.000
+30.000
+Haziran Jui Ağustos
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+Eylül Ekim HAYIR'
+Şekil 9.17'de en yaygın 1.272 ve 1.6 1 8 harici geri çekilmeleri kullandım. Bunları 
+gruplamalarla birlikte çizelgelere koyalım ve nasıl oturduklarını görelim. Bakınız 
+şekil 9.1 8.
+85
+1!(;Ben l!J
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 84 ===
+Figür9. 1 8
+?:AOL DD 1!8 E1
+5.000
+0,000
+5.000
+35.000
+Haziran Temmuz Ağustos
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+Eylül 0 sent N01
+İlginç bir şey oldu. Artık çok sıkı üç grup oluşumumuz var. Bu noktada 
+durabiliriz çünkü oldukça çeşitli geri çekilme ve projeksiyonlara ve çok 
+güzel, dar bölgelere sahibiz. Bu konuyu takas edecek olsaydım, bu 
+noktada tatmin olurdum ve şimdi zaman dilimini daha da kısıp bir giriş 
+tetikleyicisi arardım.
+Bu öğretici bir örnek olduğundan, harmoniklerin sıklıkla büyük ölçüde nasıl 
+örtüştüğü konusunu daha da netleştirmek için birkaç şey daha 
+ekleyeceğim. Burada birkaç adımı atlayıp sadece eklemeleri sunacağım.Ben
+İlk geri çekilmenin (1 5 Haziran düşüğünden 2 1 Haziran yükseğine) 1 ,6 1 8 ve 1 ,902 projeksiyonlarını 
+ve 2'yi ekleyeceğiz. İkinci geri çekilmenin 0.058 ve 2.236 projeksiyonları (19 Temmuz'un en düşük 
+seviyesinden 2 Ağustos'un en yüksek seviyesine). Bkz. şekil 9.1 9.
+86www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 85 ===
+Figür9. 1 9
+AOL DD 1!18 l'3
+5. 000
+35.000
+Haziran Temmuz Ağustos
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+Eylül Ekim HAYIR)
+Neler olduğuna dikkat edin? Sadece diğer fiyatların üzerine ekliyorlar. Birbirinden 
+çok farklı üç gruplandırmamız var ve bu konunun yaptığı hamlelerin birçok yönden 
+daha önce yaptığı hamlelere bağlı olduğuna dair pek çok kanıt var. Bu, hiçbir 
+şekilde konunun gelecekte işlem göreceğinin garantisi değil, ancak işlemlerimizde 
+yakından izlemek istediğimiz alanlara işaret ediyor gibi görünüyor.
+87www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 86 ===
+Şimdi, Bölüm 5'te söz verdiğim gibi, bir genişletme örneğini ekleyeceğim. 
+ekleyeceğim. 382 açılımı var ama önce tek başına bir grafik üzerinde sunayım. 
+deneyeceğimi nasıl bildim? 3 82 genişletme? Kısmen deneyimledim ve tabloyu 
+inceledim, kısmen de örneği okuyucu için kolaylaştırmak için kopya çektim ve ilk 
+önce birkaçını denedim. Bkz. şekil 9.20.
+Figür9.20
+?.AOL 0-0 ben!!EI EI
+3"3 ,'34"3 Tecrübe 0 .382
+35.000
+30.000
+Haziran Temmuz Ağustos
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+Eylül Ekim HAYIR)
+Karışımın içine ekleyelim ve nasıl uyduğunu görelim. Daha net anlaşılması açısından, 
+hesaplamalarda kullanılan salınım noktalarındaki çizgileri de kaldıracağım. Bkz. şekil 9.2 1.
+88www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 87 ===
+Figür9.21
+Haziran Temmuz Ağustos
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+Eylül Ekim HAYIR'
+Bu, neredeyse sonsuz örtüşen fiyatlara sahip, üç güzel sıkı gruplandırmaya 
+sahip son versiyondur. Eğer bu konuyu takas etmek isteseydim, daha önce de 
+belirttiğim gibi, şekil 9'da dururdum. 18, çünkü o noktada ihtiyacım olan her 
+şeyi içeriyordu. Devam etmek bana gerçekten bir meslek olarak düşünmem için 
+gereken ek bir şey sağlamadı, ancak oldukça iyi bir öğretim örneği olarak 
+hizmet etti ve bazı takviyeler ekledi.
+Peki şimdi ne olacak? Bu noktada zaman dilimini uzatmak için onu çeviriyorum ve bir 
+giriş arıyorum. (Bunu ticaret teknikleri ile ilgili bir sonraki bölümde daha ayrıntılı olarak 
+ele alacağım.) Bunu daha kısa bir zaman diliminde basit bir giriş stratejisiyle bitirelim ve 
+bunun nasıl sonuçlandığını görelim.
+İlk önce 60 dakikalık bir tabloya bakalım. Günlük grafik işlem gören zaman 
+dilimi olsaydı, normalde üç ila beş kat daha fazla veri içeren bir grafikte 
+tetikleyici arardım. Günde altı buçuk saat işlem gören hisse senetleri için bu, 78 
+ila 1 30 dakikalık çubuk aralığında olacaktır. Bu aralıkta en sık kullanılan 
+çubuklar 90 dakikalık ve 1 20 dakikalık çubuklardır ancak 60 dakikalık çubuklar 
+çok popüler bir grafiktir.
+89www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 88 ===
+Peki, 90 dakikayı seçelim, çünkü kullanımı belki de 60 dakikaya göre daha az 
+yaygındır diye düşünüyor olabilirsiniz. Bu iyi bir mantık yürütme yöntemi. 
+Buradaki zaman dilimlerinin seçimi gerçekten büyük ölçüde deneyime dayanan 
+kişisel bir tercihtir. 60 dakikalık grafikten elde ettiğim ek bilgileri kullanmayı 
+seviyorum, dolayısıyla bu örnek için 60 dakikalık grafiği seçeceğim. Kendinizi en 
+rahat hissettiğiniz şeyi seçmelisiniz. Bkz. şekil 9.22.
+Figür9.22
+�:. AOL 60-1
+F
+1!8 1!1
+35.000
+32.000
+31.000
+30.000
+29.000
+28.000
+2 1 28 Ekim
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+12 19 2G 2 Kasım
+Burada 60 dakikalık grafiğin, şekil 9.8-9.21'deki önceki günlük grafiklerle tam olarak 
+aynı konumda kesildiğini görüyoruz. Sorun bölgeye doğru ilerliyor ve oldukça güzel 
+bir şekilde yükselmeye başlıyor. Her ne kadar bunları 60 dakikalık grafikte 
+göstermesem de, gruplamalar yaklaşık 3 8 ,40$ ile 4 1,00$'ın biraz altında. İsterseniz 
+tüm gruplamaları daha düşük zaman dilimi grafiğine koymak gibi ekstra bir çalışma 
+yapabilir veya sorunun gruplamalara göre nerede olduğunu görmek için sadece 
+daha büyük, işlem gören zaman dilimi grafiğini (bu durumda günlük) 
+izleyebilirsiniz. . Genellikle ikincisini yaparım.
+Sorun bu bölgenin alt ucuna girdiğinde 60 dakikalık grafikte bir giriş 
+sinyali aramaya başlayacağım. Bu durumda girmek için bakacağım
+90www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 89 ===
+trend çizgisi ihlali. (Unutmayın, daha önce de belirttiğim gibi, burada belirli giriş 
+tekniklerini öğretmeye çalışmıyorum. Trend çizgisi ihlalini tekniği son örnekten 
+farklı kılmak için seçtim ve bu bir teknik olduğu için ki bence bu iyi bir şey. Bu 
+durumda gelişen yumuşak trende uygun. Yatırımcıların, kendilerini ticarete 
+sokmak için hangi spesifik teknikleri kullanmak istediklerine bireysel olarak 
+karar vermeleri gerekiyor.) AOL'un piyasaya girdiği 60 dakikaya bakalım. bir 
+eğilim çizgisi çizilmiş olan ilk gruplama. Bkz. şekil 9.23.
+Figür9.23
+?.60-1 1!81 EJ
+37.000
+36.000
+35.000
+28.000
+2 1 28 Ekim
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+12 1'3 2e. 2 Kasım
+Grafikte netlik açısından biraz fazla veri var, ancak genel perspektifi 
+alttan göstermek istedim. Grafiği genişletelim ve gruplandırmalara 
+odaklanalım. Bkz. şekil 9.24.
+91www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 90 ===
+Figür9.24
+?:AOL 60-1 !lEI EI
+39.000Ben
+38.000
+37.000
+35.000
+34.000
+33.000
+32.000
+3 1 saat 1 ton 2f Kasım5 ay ve
+DY'namic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+7 saat St. 9f Kasım 12 ay 13 saat
+Gruplamaların bu alanda yaklaşık 3 8 ,40 $'dan 4 1,00 $'ın biraz altına kadar 
+olduğunu unutmayın. Eğer gruplaşmalar devam edecekse ve düşüş trendine geri 
+dönüş gerçekleşecekse, bu yakın zamanda gerçekleşmelidir. Birkaç çubuk ileri 
+gidelim. 60 dakikalık ve günlük grafikleri gösteren şekil 9.25 ve 9.26'ya bakınız.
+92www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 91 ===
+Figür9.25
+?.AOL 60-1 1!!!8 EL
+39.000
+38.000
+37.000
+33.000
+3 1 saat BT 2f Kasım5 milyon GT
+Dynamic Trader (c) 1996-2001 tarafından oluşturulan grafik
+7 saat 8 ton '3f Kasım 12 ay 13 saat
+Figür9.26
+::':.AOL DD 1!8 EJ
+Haziran Temmuz AU9
+Dynamic Trader tarafından oluşturulan grafik (c) 1996-2001
+Eylül Ekim Kasım
+93www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 92 ===
+Bu noktada şekil 9.25'te trend çizgisinin hala sağlam olduğunu görüyoruz. 
+Fiyat çizgiyi test etmek için düştü ve tekrar yukarıya doğru dönüyor gibi 
+görünüyor. Günlük grafikte şekil 9.26'da görüldüğü gibi tam orta gruba 
+giriyoruz. 60 dakikalık grafikte bir çubuk daha ileri gidelim. Bkz. şekil 9.27.
+Figür9.27
+?.'AO[60-1 II!!EI EI
+39.000
+38. 000
+34. 000
+33.000
+1 ton 2f 6 Kasım 7 saat
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+8 ton '3f 13 Kasım 14-1>1 :
+Bu noktada bir trend çizgisi ihlali ve aynı zamanda küçük bir düşük salınım ihlaliyle karşı 
+karşıyayız. Bu da ticareti tetikleyecektir. Çubuk tamamlandığında nispeten güçlü bir 
+kapanış görüyoruz. Duraklar belirlenecek, ticaret şu anda devam ediyor ve 
+yapabileceğimiz tek şey bunun nasıl sonuçlanacağını görmek. Olası stop yerleştirme 
+veya ticaret yönetiminden bahsetmeyeceğim çünkü bunlar, spesifik giriş teknikleri gibi 
+başlı başına konulardır. Muhtemelen bu konu hakkında bir kitap yazacağım ama şimdi 
+bu tür tartışmaların zamanı değil. Buradaki amacım size ticaret yapmaya karar 
+verebileceğiniz yerleri nasıl inşa edeceğinizi göstermek. Bakalım bu nasıl sonuçlanacak? 
+Şekil 9'a bakınız. 28.
+94www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 93 ===
+Figür9.28
+�-:: AOL 6U .. ( 1!!18 l'!J
+39.000
+38.000
+35.000
+34.000
+33.000
+32.000
+3 1h 1t 2f 6 Kasım 7h 8t
+Dynamic Trader (c) 1 996..2001 tarafından oluşturulan grafik
+'3f 13 Kasım 14h 1. 16
+Trend çizgisini kıran ve ardından güçlü kapatan çubuğun yalnızca geçici bir güç 
+gösterisi olduğu, AOL'nin daha sonra satış yapmaya devam ettiği ortaya çıktı. 
+Ancak günlük grafiğe bir göz atın ve uzun vadede neler olduğuna bakın. Grafik, 
+takip edilecek tüm ilgili eylemleri içerecek şekilde oldukça sıkıştırılmıştır. Grafikte 
+bu üç grup açıkça görülebilmektedir. Bkz. şekil 9.29.
+95www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 94 ===
+Figür9.29
+?.AO[ 0-0 !IS Ei
+5.000
+0,000
+5.000
+0,000N!IIIIII
+35 000
+30.000
+1 5 000
+10.000
+Haziran Temmuz Ağustos EylülEkim Kasım Aralık 02 Şubat Mart Nisan Mayıs HaziranTemmuz
+Dynamic Trader (c) 1 996-2001 tarafından oluşturulan grafik
+Her ne kadar bu yapının üzerinde çalışmamız oldukça uzun sürse de, ana 
+konuları veya kavramları adım adım açıkça göstermektedir. Deneyim 
+kazandıkça ve gözünüz geri çekilmeler ve tahminler için yaklaşık fiyat 
+seviyeleri konusunda eğitildikçe süreç çok daha hızlı ilerleyecektir.
+Kalıba pek uymayan örneklere bakmak güzel. Son örnek kadar kolay 
+sonuç vermeyen ve birçok adımda biraz muhakeme gerektiren başka bir 
+örnek deneyelim. AMZN'nin günlük grafiğiyle başlayacağız.
+AMZN'nin ticaretinin ne kadar dalgalı olduğuna hemen dikkat edin. Bu noktada AMZN 
+güçlü bir salınımlı yükseliş trendinde ve bu trende girecek bir işlem bulmak istiyorum. 
+Geri çekilmenin sona erebileceği bir alan bulmak istiyorum. İşte geri çekilme başlarken 
+bakacağım şeyin tablosu. Bkz. şekil 9.30.
+96www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 95 ===
+Figür9.30
+?:AMZN DD 1!8E.J
+1 7. 000
+1 6. 000
+1 5. 000
+1 4. 000
+1 3. 000
+1 2. 000
+1 1 . 000
+1 0. 000
+. 000
+. 000
+1·1J
+Eğer
+. 000
+Ekim Kasım
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+Aralık 02 Şubat Mart
+İlk önce yükseliş trendinin başlangıcını işaret eden düşük seviyeden başlayarak bazı geri 
+çekilmeleri ekleyeceğim. Son örnekte de belirtildiği gibi, geri çekilmenin en az 0 olduğu güçlü 
+trendlerde işlem yapmayı tercih ediyorum. 3 82'lik bir geri çekilme, ancak 0,447'lik bir geri 
+çekilmeden daha büyük değil. Bu durumda, dipten 0,447'den daha büyük herhangi bir geri 
+çekilme kullanmayacağım, çünkü bu güçlü bir yükseliş trendidir ve 0,447'den büyük herhangi bir 
+şey trend çizgisini ihlal eder, bu da bana trendin değişip değişmediğini merak etmem için neden 
+verir. Ayrıca, dikkate alacağım en derin geri çekilme hakkında fikir edinmek için, bunun gibi 
+salınımlı bir trenddeki bir hisse senedi üzerinde bir regresyon kanalı (gösterilmemiştir) 
+kullanmayı seviyorum. Bkz. şekil 9.3 1 .
+97www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 96 ===
+Figür9.31
+?.AMZN 0 -0 1!!!18 £ J
+1 7. 000
+1 6. 000
+1 5. 000
+1 4. 000
+1 3. 000
+1 2. 000
+1 1 . 000
+1 0. 000
+. 000
+. 000
+- 12 586 Geri 0 .382
+- 1 1 .842 Geri 0 .447
+. 000
+0 sent Kasım Aralık
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+02 Şubat r'lar
+Daha sonra, 30 Ekim'deki düşüş düşüşünden bazı geri çekilmeler ekleyeceğim. İyi bir tahmin 
+yaptıktan, grafiğe göz attıktan ve az önce kullandıklarımdan daha büyük geri çekilme seviyeleri 
+kullanmak istediğimi öğrendikten sonra 0,447 ve 0,486'ya yükseleceğim. Sonra nasıl 
+göründüklerine bakacağım. Bkz. Şekil 9.32.
+98www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 97 ===
+Figür9.32
+?.AMZN D-D !1 £
+1 7. 000
+1 6. 000
+1 5. 000
+1 4. 000
+1 3. 000
+1 2. 000
+1 1 . 000
+1 0. 000
+. 000
+, 000
+- 12 .5:3E. Kök 0 .382
+- 12 .204 Geri 0 .447
+- 1 1 .M9Geri O.�
+, 000
+D
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+.. C 02 Şubat Mart
+Bu ekleme, mevcut geri çekilmelere oldukça iyi uyuyor, bu yüzden iyiyi seçtim. Bir sonraki 
+düşük salınım noktasına geçelim. İşte burada bazı yargılar devreye giriyor ya da en azından 
+verilmesi gereken bir karar gibi görünüyor. 24 Aralık'taki en düşük değeri mi yoksa 16 Ocak'taki 
+en düşük değeri mi kullanıyoruz?
+16 Ocak'ın en düşük seviyesi daha düşük bir fiyat olduğundan, 24 Aralık'ta belirlenen 
+düşük seviyenin bir düzeltmenin parçası olduğunu düşünüyorum. Bu durumda oldukça 
+güzel, tekdüze bir şey.ABC düzeltme. Bu nedenle 16 Ocak'ın en düşük seviyesini 
+kapatalım. Şimdi hangi geri çekilmeleri eklemeliyiz? Unutmayın, istersek hepsini ekleyip, 
+bakmak istediğimiz alanın dışında kalanları silebiliriz ya da bilinçli bir tahminde 
+bulunarak bölgede olup olmadığımızı görebiliriz.
+Bilgili tahmin yöntemini kullanırsak hiçbir şeyi kaçırmadığımızı nasıl bileceğiz? Cevap 
+tecrübedir. Gruplandırmada nereye uyduklarını görebiliyorum ve yakınlarda herhangi 
+bir geri çekilme seçeneğinin bölgede olup olmayacağını anlayabiliyorum. Bölgede 
+olduklarını hissedersem onları ekliyorum ve görüyorum. O 'hissetme' seviyesini elde 
+edene kadar yakın olanları ekleyin ve nereye düştüklerini görün. Burada ihtiyacımız olan 
+tek geri çekilmenin 0,6 1 8 olduğunu görebiliyorum. Ama diyelim ki bu noktada pek emin 
+değilsiniz. 0,6 1 8 artı en yakın geri çekilmeyi aşağıya ekleyelim
+99www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 98 ===
+ve yukarıda. Bunlar 0,486 ve 0,786 olacaktır. İhtiyacımız olmayan şeyleri 
+her zaman silebiliriz. Bkz. şekil 9.3 3.
+Figür9.33
+�:;: ANZN 0 -0 !£I IS
+1 7 .000
+1 6. 000
+1 5. 000
+1 4. 000
+1 3. 000
+1 2. 000
+1 1 . 000
+1 0. 000
+. 000
+. 000
+- 13. 10& Geri 0 .4S6
+- 12'sSE. Geri 0,382
+- ben...:��� �II � ;�
+- 10 .727 Geri 0 .786
+. 000
+Ekim Kasım Aralık
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+02 Şubat Mart
+Beklediğim gibi, .486 ve .786 açıkça çalışma alanımızın dışında kalıyor, o yüzden 
+onları silelim. Ancak bu, hangi sayıların makul olduğunu nasıl kolayca 
+belirleyebileceğinizi görmek açısından iyi bir uygulamaydı. Bkz. şekil 9.34.
+100www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 99 ===
+Figür9.34
+?.AMZN 0 -0 1,8 £J
+1 7. 000
+1 6. 000
+1 5. 000
+1 4. 000
+1 3. 000
+1 2. 000
+1 1 . 000
+1 0. 000
+. 000
+. 000
+�J\
+- 12 .586 Geri I) .382
+- ben...:��t `Ben ` :�
+Aralık
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-200 1
+02 Şubat Mart
+Bu noktada güzel görünen alanlarımız oluşuyor. Henüz üç gruplaşmanın 
+başlangıcına sahip olup olmadığımız konusunda herhangi bir sonuç 
+çıkarmayacağım. Önce karışıma biraz daha ekleyelim. 7 Şubat'ta 
+kapatabileceğimiz önemli bir düşüş daha var. Bu düşük salınımla ilgili olarak 
+gruplamalarımız oldukça derin, bu yüzden 0,786 ve 0,786'yı tahmin ediyorum. 
+Eklenecek olanlar 886 geri çekilmedir. Bkz. şekil 9.3 5.
+1 01www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 100 ===
+Figür9.35
+?.AMZN 0 -0 Ben!Ben!Ben l3
+1 7. 000
+1 6. 000
+1 5. 000
+1 4. 000
+1 3. 000
+1 2. 000
+1 1 . 000
+1 0. 000
+. 000
+. 000
+Aralık
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-200 1
+02 Şubat Mart
+Şu ana kadar bu durum çok güzel şekilleniyor. Artık gerçekten eğlenmeye başlayacağım 
+noktaya geliyoruz. Bu noktaya kadar olan geri çekilmelere baktığımda, genel olarak 
+oldukça tek biçimli olduklarını görüyorum (ne kadar geri çekildiklerine bağlı olarak). 
+Ticaret adaylarını bulmak için grafikleri tararken bunu aramayı seviyorum. Bu özelliği 
+göstermeyen grafikleri yine dikkate alacağım, ancak gördüğümde genellikle o grafiği 
+ayrıntılı olarak incelerim.
+Daha sonra, bu geri çekilmelerin projeksiyonlarını yapıyorum, her geri çekilmenin 
+Fibonacci oranlarını oluşturarak bunun beni son zirveden ne tür alanlara yerleştireceğini 
+görüyorum. Belirlemeye çalıştığım şey, eğer konu şu anda trenddeki önceki geri 
+çekilmelere benzer bir geri çekilme yaşıyorsa, bu fiyatı nereye koyacaktır? Önceki geri 
+çekilmelerde böyle bir tekdüzelik gördüğüm için, bir sonraki adımı tek seferde 
+gerçekleştireceğim.
+Şu ana kadar yükseliş trendindeki üç büyük geri çekilmenin her birine 
+ilişkin tahminleri ekleyeceğim. Eğer geri çekilmeler tek biçimliyse, sadece 
+1.000 projeksiyonuna değil (geri çekilmenin boyutu onu karşılaştırdığım 
+projeksiyona eşit), aynı zamanda . 886 ve 1. 1 3 projeksiyon . Her biri için 
+bu üç projeksiyonun her birini toplayalım.
+1 02www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 101 ===
+üç geri çekilme, bize tek seferde dokuz yeni sayı kazandırıyor. Bu, grafikte 
+gerçek bir karmaşa yaratabilir, ama göreceğiz. Ortalığı karıştırırsa onları sileriz 
+ve birer birer gideriz. Şekil 9'a bakınız. 36.
+Figür9.36
+::'':''.AMZN 0 -0 1!8 EJ
+17.000
+1 6. 000
+1 5 000
+14.000
+1 3 000
+1 2 000
+1 1 000
+1 0 000
+, 000
+, 000
+ben :U; =1; ben :���
+- 1'iiUm�1
+, 000
+Ekim Kasım Aralık
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-200 1
+02 Şubat Mart
+En azından bunu söylemek harika. Sadece karmaşa yaratmadık, aynı zamanda 
+güzel gruplaşmalarımız da var. İlgi alanımızda artık üç ayrı gruplanma netleşti ve 
+daha üst düzeyde iki yeni grup oluşmaya başlıyor. Bunu okuyucuların isterlerse 
+geriye dönüp bazı küçük geri çekilmelerin aslında bu yeni üst gruplara ineceğini 
+görmeleri için bir alıştırma olarak bırakacağım. Bu iki yeni başlangıç   grubu ne 
+kadar güzel görünse de bizim ilgi alanımızın dışındalar, bu yüzden onları listeden 
+sileceğim. Netlik sağlamak amacıyla, projeksiyonları oluşturmak için kullanılan 
+geri çekilmeleri gösteren çizgileri de kaldıracağım. Şekil 9'a bakınız. 37.
+1 03www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 102 ===
+Figür9.37
+?:AMZN 0 -0 1!!8 EL
+1 7. 000
+1 6. 000
+1 5. 000
+1 4. 000
+1 3. 000
+1 2. 000
+1 1 . 000
+1 0. 000
+. 000
+. 000
+Aralık
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-200 1
+02 Şubat Mart
+Bu noktada çok sıkı üç gruplama oluştu ve şu anda incelediğimiz verilerden 
+ekleyeceğim yalnızca bir madde daha görüyorum. 20 Şubat'ta küçük bir 
+düşüş var ve bu orta gruplanmayı doğruluyor gibi görünüyor, bu yüzden 
+1.000'lik geri çekilmeyi ekleyeceğim. Bakınız şekil 9. 38.
+1 04www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 103 ===
+Figür9.38
+?:AMZN 0 -0 !l8 13
+1 7. 000
+1 6. 000
+1 5. 000
+1 4. 000
+1 3. 000
+1 2. 000
+1 1 . 000
+1 0. 000
+. 000
+. 000
+. 000
+Ekim Aralık
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+02 Şubat Mart
+AOL'deki son örneği hatırlarsanız, geri çekme işleminin kendisinden oldukça 
+fazla bilgi kullanabildik. Bu örnekte de aynısını yapabileceğimizi umuyorum. 
+Biraz zaman tanıyalım ve AMZN'nin gruplamalara doğru devam edip 
+etmediğini görelim, eğer öyleyse, geri çekilme birkaç sayı daha eklememize 
+izin verecek mi? Bkz. şekil 9.39.
+1 05www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 104 ===
+Figür9.39
+?.AMZN 0 -0 !Yani EJ
+17.000
+1 6 000
+1 5 000
+14.000
+1 3 000
+1 2 000
+1 1 000
+1 0 000
+, 000
+, 000
+� ��\�
+�11If1
+h\J
+, 000
+0 sent Aralık
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+02 Şubat Mart yapay zeka
+Umduğumuz gibi, geri çekilme bize daha fazla hesaplama yapmak için ek verileri 
+kullanma şansı veriyor. Elimizde bir şeye benzeyen bir şey varABCDüzeltme 
+şekilleniyor ve baktığımız alanda sona erebilecek gibi görünen bir düzeltme. 1 .272 
+ve 1 .6 1 8'in dış geri çekilmelerini ve . 886, 1 .000, 1 . 1 3 ve 1 .272 ve bunun ortalığı 
+karıştırıp karıştırmadığına veya üç güzel, sıkı gruplandırmamızı destekleyip 
+desteklemediğine bakın. Bkz. şekil 9.40.
+1 06www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 105 ===
+Figür9.40
+?.AMZN 0-0 !IS EJ
+1 7. 000
+1 6. 000
+1 5. 000
+1 4. 000
+1 3. 000
+1 2. 000
+1 1 . 000
+1 0. 000
+. 000
+. 000
+Aralık
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+02 Şubat Mart yapay zeka
+Zaten yüklenmiş bir grafiğe aynı anda altı satır eklediğimizi düşünürsek fena değil. 
+1,272 harici geri çekilme çizgisi en yüksek gruplamamızın üzerinde olduğundan 
+bunu kaldıracağım. Bir öngörü orta grubun üst ucunda yer alıyor; bunu kaldırmayı 
+veya bırakmayı seçebilirsiniz. Bu noktada kılları ayırıyoruz. Gerçekte, burada üç 
+gruplanma olmasına rağmen, AMZN'nin (eğer buradan aşağı inecekse) mücadele 
+etmek zorunda kalacağı yaklaşık otuz dolar genişliğinde geniş bir alan görüyorum. 
+Bu bölgede olduğumuzu öğrendikten sonra, aslında bir, iki veya üç grup halinde 
+olmamızdan ziyade daha düşük zaman dilimindeki eylemlere odaklanacağım. 
+Temizlenmiş grafiğe bakalım. Bkz. şekil 9.4 1 .
+1 07www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 106 ===
+Figür9.41
+?.AMZN 0 -0 !£J
+1 7. 000
+1 6. 000
+1 5. 000
+1 4. 000
+1 3. 000
+1 2. 000
+1 1 . 000
+1 0. 000
+. 000
+. 000
+� - �-
+b\*�
+�4J\�
+Aralık
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+02 Şubat Mart yapay zeka
+Şimdi grafiklerinizi hazırlarken gerçekten bu kadar hesaplama yapar 
+mıydınız? Muhtemelen hayır, çünkü mide bulandırıcı tekrarlar görüyoruz. 
+Buradaki amacım eğitici, size salınımlarla neler yapabileceğinizi ve fiyatların 
+şaşırtıcı sıklıkta aynı noktalara gelmesinin ne kadar inanılmaz olduğunu 
+göstermek. Genellikle gruplamalar netleştikten sonra o noktada durmayı 
+düşünebilirsiniz.
+Söz verdiğim gibi bir genişletme örneği daha yapacağımı söyledim, hadi bunu da karışıma 
+ekleyelim. Genişletmeyi sonuna kadar yapacağızAGruplarımıza doğru ilerleyen geri 
+çekilmedeki bacak. Gözle bunun oldukça küçük bir genişleme olduğunu görebiliyorum, bu 
+yüzden her şeyi terazinin küçük ucuna koyacağım. 0,236 yapacağım. 382, 0,447 ve 0,486 ve 
+nasıl yalan söylediklerini görün. Önce sadece bu genişletmeleri içeren bir grafik 
+göstereceğim, sonra da tüm gruplamalarla birlikte grafikteki genişletmeleri göstereceğim. 
+Tüm bunların tek seferde eklenmesiyle kaosun yaşanmasını beklerdim ama bu henüz 
+gerçekleşmediğine göre bu sefer belki de olmayacak. Bkz. şekil 9 .42 ve 9.43.
+108www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 107 ===
+Figür9.42
+?.AWZN 0-0 ben!e!! £ J
+1 7. 000
+1 6. 000
+1 5. 000
+1 4. 000
+1 3. 000
+1 2. 000
+1 1 . 000
+1 0. 000
+. 000
+. 000
+12.745 Deneyim 0 .23€>
+�� İH�§ ���� 8;iji
+. 000
+DM
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+02 F� AA �
+1 09www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 108 ===
+Figür9.43
+?.AMZN 0 -0 !IS EI
+1 7. 000
+1 6. 000
+1 5. 000
+1 4. 000
+1 3. 000
+1 2. 000
+1 1 . 000
+1 0. 000
+. 000
+. 000
+� ��\�
+- �-
+HN\J
+. 000
+Ekim Kasım Aralık
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-200 1
+02 Şubat Mart yapay zeka
+Yine tüm genişlemeler mevcut üç gruplamayı kapsıyor. Bu, önceki tüm hamlelerin 
+mevcut eylem için ne kadar önemli göründüğünü göstermeye devam ediyor. Bu, 
+geleceği tahmin edebileceğimiz veya sorunun bundan sonra ne olacağını 
+bilebileceğimiz anlamına mı geliyor? Tabii ki değil. Yapmaya çalıştığımız şey, ticaret 
+yapmayı düşünebileceğimiz önemli alanları belirlemektir. Bunu 60 dakikalık grafiğe 
+çevirelim ve bir tetikleyici arayalım. Bkz. şekil 9.44.
+1 10www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 109 ===
+Figür9.44
+?.AMZN 60-1 !I[;J £J
+1 7. 000
+hf��
+1 6. 500
+1 6. 000
+1 5. 500
+1 5. 000
+1 4. 500
+1 4. 000
+1 3. 500
+1 3. 000
+15 22
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+Not etmek istediğim ilk şey, gruplandırmalarımın nerede başladığıdır. Üst düzey nedir? 
+Şekil 9.43'ten zirvenin yaklaşık 12$ olduğunu görüyorum. 80. Yani hangi tetikleme 
+yöntemini seçersem seçeyim, fiyat en azından en yüksek grubun tepesine ulaşana 
+kadar işlem başlatmayacağım. Silahın üzerine atlamak istemiyorum. Gruplamalar 
+henüz gerçekleşmeden sorun tersine döndüğü için bir takası kaçırırsam, öyle olsun.
+Bazen bir konu ilk gruplamada tersine dönmeye başlar, yuvarlanır ve bir sonraki 
+gruplamaya geçer ve ardından son tersine dönüş yapılır. Gruplandırmalar 
+yoluyla ilerlerken bunu birçok kez yapabilir. Çok hassas bir tetikleme tekniği 
+seçerseniz, işlem yaparken bunun gerçekleştiğini görebilirsiniz. Bazen bir trend 
+çizgisini kırmak veya küçük bir yükseliş veya düşüş salınımı gerçekleştirmek gibi 
+oldukça fazla onay gerektiren bir giriş tekniği seçerek bunu önleyebilirsiniz. Tabii 
+ki, bu yaklaşımın, belki de durdurmanın daha büyük olması gibi tavizleri vardır. 
+Kendi seçiminizi yapmanız gerekecek, ancak bu dikkat edilmesi gereken bir 
+şeydir.
+1 1 1
+Apt'S
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 110 ===
+Yine, bu örnekte girişi tetiklemek için 60 dakikalık trend çizgisi ihlalini 
+seçeceğim (AMZN gruplama alanına işlem yaptığında). Bkz. şekil 9.45.
+Figür9.45
+?:AMZN 60-1 1!8 EJ
+1 7. 000
+1 6. 500
+1 6. 000
+1 5. 500
+1 5. 000
+1 4. 500
+1 4. 000
+1 3. 500
+1 3. 000
+� �
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+A� 12
+Bu 60 dakikalık grafikte daha fazla zaman geçtikçe neler olacağını görelim ve bir tetikleyici olup 
+olmadığına bakalım. Bkz. şekil 9.46.
+1 1 2
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 111 ===
+Figür9.46
+?.ANZN 60-1 Ben!!IIIII3
+1 7. 000
+1 6. 500
+1 6. 000
+1 5. 500
+1 5. 000
+1 4. 500
+1 4. 000
+1 3. 500
+1 3. 000
+15 22
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-200 1
+Apt5 12
+Trend çizgisi ihlali tetikleyicisi kullanıldığında, bu işlem artık 14,00 doların biraz 
+üzerinde tetiklenebilir. Zamanda biraz ileri gidelim ve neler olduğuna bakalım. 
+Bkz. şekil 9.47.
+1 1 3www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 112 ===
+Figür9.47
+?.ANZN 60-1 ' EJ
+1 7. 000
+1 6. 500
+1 6. 000
+1 5. 500
+1 5. 000
+1 4. 500
+1 4. 000
+1 3. 500
+1 3. 000
+15 22
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-200 1
+AptS 12
+AMZN bu noktada tersine dönmüş gibi görünüyor. Burada neler olduğunu 
+görmek için günlük grafiğe bakalım. Bkz. şekil 9.48.
+1 14www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 113 ===
+Figür9.48
+?.AMZN D-D 1!8 £
+1 8 000
+1 6 000
+14.000
+1 2 000
+1 0 000
+, 000
+, 000
+Ekim Kasım Aralık 02
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+Şubat Mart Nisan Mayıs
+Şekil 9.48'deki grafiğin aynısına bir göz atalım, ancak sadece en üstteki 
+gruplamayı, AMZN'nin aslında tersine çevirdiği grubu gösterene bakalım. 
+Bkz. şekil 9.49.
+1 1 5
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 114 ===
+Figür9.49
+?.AMZN DD 1!8 13
+20. 000
+1 8. 000
+1 6. 000
+1 4. 000
+1 2. 000
+1 0. 000
+Ekim Kasım Aralık 02
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+Şubat Mart Nisan Mayıs
+Bu teknikleri öğrenmek biraz pratik gerektirebilir, ancak pratik yaptıkça doğru 
+hissi geliştirme şansınız artacaktır. Bu gerçekten uygulamalı bir şey; 
+Gruplandırmaları oluşturarak öğrenirsiniz. Çizgileri çizelgelere yerleştirmek için 
+mekanik becerilerinizi geliştirdikçe, aynı zamanda bu çizgilerin temsil ettiği 
+ilişkilerin tadını da çıkaracaksınız. Bir gecede uzman olmayı beklemeyin. Grafiğe 
+her yerde çok sayıda çizgi koymayı bekleyin. Hemen, birkaç silmeyle oldukça sıkı 
+gruplamalar oluşturmaya başladığınızda ve daha sonra çok uyumlu olmadığına 
+karar verdiğiniz çok az sayıda grafik seçtiğinizde, yolunuza çıkacaksınız.
+1 1 6
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 115 ===
+Bölüm1 0
+Ticaret Teknikleri
+Artık güzel gruplamaların nasıl oluşturulacağına dair fikrimiz olduğuna göre, bunlara 
+ticari açıdan nasıl bakabiliriz? Başlangıç   olarak öncelikle bir zaman dilimine ve alım 
+satım yapmayı düşüneceğimiz bir trende karar veriyoruz. Bu trend, tanımı gereği, trende 
+girmeye çalıştığımız geri çekilme veya düzeltmeden her zaman daha büyük olacaktır.
+Önceki bölümde, kişisel olarak trendleri aramayı ve ardından yaklaşık bölgede 
+gruplamalar oluşturmayı tercih ettiğimi açıkça belirtmiştim. Bu noktaya kadar tüm 
+işlem gören trendin 3 82 ve .447 geri çekilmesi. Bu, etrafında oluşturulmuş bir 
+gruplamayla ticaret yapmayacağım anlamına mı geliyor? 236 geri çekilme mi? Veya 
+daha büyük olanı 0,6 1 8 veya . 786 geri çekilme mi? Kesinlikle hayır.
+Sığ bölgede çok sayıda harika ticaret fırsatı var. 236 geri çekilme bölgesi. 
+Ve aslında, orada ticaret hakkında daha fazla bilgi buluyorum. 6 1 8 geri 
+çekilme alanı diğer tüm alanlardan daha fazladır. Aynı şekilde, doğrudan . 
+786 geri çekilmesinin yanı sıra . 886 geri çekilme. Bu alanlara göre 
+gruplamalar çok güzel işlemlere yol açabilir.
+Sadece şunu belirtmek isterim ki, ben de orta derecede sığ (0,3 82- 0,447) 
+geri çekilmeye sahip köklü trendi beğeniyorum. Eğer düzeltme bu 0,3 
+82-0,447 tutarından daha büyükse, oldukça iyi bir karşı trend hamlesine 
+sahip olduğunuzu düşünüyorum. Bu bana momentumun artık dahil olmak 
+istediğim trendin tersi yönde artmaya başladığını hissettiriyor. Sonuç olarak, 
+eğer ters yönde ivme oluştuğunu hissedersem, orijinal trende dahil olma 
+konusunda kendimi o kadar rahat hissetmiyorum.
+Beni yanlış anlamayın, bu karşıt trendin ivmesi hızla tersine dönebilir ve orijinal 
+trend kendini yeniden kurabilir. Hatta birçok ticaret stili bu tür tersine oynamaya 
+dayanmaktadır. Bu bölümde benim tercih ettiğim .3 82-.447 alanının dışındaki 
+alanlara dayalı bazı örneklere yer vereceğim çünkü bazı okuyucular bu 
+bölgelerde işlem yapmayı tercih edebilir. Ticaretiniz için rahat olduğunuz alanları 
+bulmanız gerektiğini unutmayın.
+1 17www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 116 ===
+Oldukça pürüzsüz bir trendi seviyorum. 3 82- .447 bana mantıklı gelen nedenlerle 
+geri çekilme. .23 6 alanını çok sığ buluyorum ve çoğu zaman düzeltme bir 
+konsolidasyon veya küçük bir karşı hamle sonrasında devam edecek. Bu devam beni 
+sarsacak çünkü stopumu genellikle işlem için kullandığım gruplamanın hemen 
+altında tutuyorum.
+Uzak durmamın dezavantajı. 236 alanı, çok güçlü bir trendde alacağınız 
+düzeltmenin tamamı olabilir. Üstelik, eğer o küçük geri çekilmeye girerseniz, 
+önünüzde oldukça karlı bir hareket olabilir, bu da o kadar karlı olabilir ki, eğer 
+onu kaçırırsanız, gerçekten kendinizi tekmelemek isteyebilirsiniz. Burası karar 
+vermek için muhakeme yeteneğimi kullandığım yerdir. Tekrar ediyorum, bu 
+benim kendi düşünme sürecimdir. Kendi oyun planınıza ve risk/ödül 
+senaryosuna göre kendi süreçlerinizi geliştirmeniz gerekiyor.
+Eğilim çok güçlü ve pürüzsüzse (güçlü ve pürüzsüz olup olmadığını o 
+konunun genel davranışıyla karşılaştırarak belirlerim), . 236. Daha kısa bir 
+zaman dilimindeki davranışı beğenirsem ve temiz bir tetikleyici elde 
+edersem, takası değerlendireceğim. Düzeltmenin devam etmesini ve beni 
+durdurmasını bekleyeceğim. Eğer öyleyse, durağımda kalacağım ve . 3 
+82- .447 gruplama.
+Bunu beğendin mi? 236 kurulumuna sahipseniz ve daha yüksek risk toleransına 
+sahipseniz, 0,236 alanına girmeyi deneyebilir ve 0,3 82-.447 bölgesinin hemen 
+altında durdurabilirsiniz. . 236 alanı şu: Alacağınız tüm geri çekilme buysa, trend 
+genellikle oldukça güçlüdür ve ödül önemli olabilir. Bu daha geniş bir duruşa 
+sahip olmayı haklı gösterebilir. Çok güçlü ve pürüzsüz bir trendim yoksa 
+gruplamalarımı sadece 0,3 82 ile 0,3 82 arasında oluşturacağım.
+. 447 geri çekilme ve . 236 alan.
+Daha büyük geri çekilme alanlarında (.6 1 8, . 786 ve .8 86 gibi) gruplamalar 
+oluşturmak, aşağıdaki gruplamalar için gösterilenle aynı prosedürü izler.
+. 3 82-.447 alanı. Bu gruplamalarda benim için en büyük fark, beni ticareti 
+almaya ikna etmek için genel olarak ne kadar onay istediğimdir. Karşı trend 
+hareketi ne kadar çok ilerlediyse, bunun yeni bir trend olabileceği konusunda o 
+kadar tedirgin oluyorum. Ne kadar gergin olursam, onay açısından ödeyeceğim 
+prim de o kadar büyük olur.
+Yatırımcıların teyit konusunda bu kararı ne kadar ihtiyaç duydukları ölçüde 
+bireysel olarak vermeleri gerekiyor. Benim için bu neredeyse doğrusal bir 
+karar. Bir . 236 gruplandırma, küçük bir miktar
+1 18www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 117 ===
+her zamanki 0,3 82-0,447 gruplamam için yumuşak, güçlü bir trend üzerinde ve 
+gruplaşmalar daha büyük geri çekilmelere dayandıkça giderek daha da artıyor. Bir ... 
+için . 886 gruplandırmaya ihtiyacım olacakpayDaha kısa bir zaman diliminde onay.
+Oldukça derin bir düzeltmenin olduğu trende bir göz atarak başlayalım. Bkz. şekil 10. 1.
+Figür10. 1
+f{fr}lt Bu}]
+72. 000
+70. 000
+6. 000
+4. 000
+2. 000
+0. 000
+8. 000
+6. 000
+��_�fI1
+Ocak12 1'3 2f, Şubat '3 eğer, 23 Mart
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+Bir takasın alınabileceğini düşündüğümüz güzel ve sıkı bir gruplandırmamız 
+var. Gruplandırmanın iç ve dış geri çekilmeleri, bir projeksiyonu ve bir 
+genişlemesi var. Varsayım, trendin bu alanda devam edebileceği yönünde. Artık 
+birkaç seçeneğimiz var. Bir seçenek, bölgeye ulaştıktan sonra ticareti yapmak 
+olabilir. Bu, düşen bir bıçağı yakalamaya benziyor ama yine de bazı 
+yatırımcıların risk profiline uyuyor. Ticaret daha büyük derece eğilimi yönünde 
+olduğundan, göründüğü kadar çirkin değil. Yine, bu tür bir karar bireysel 
+yatırımcının risk profiline bağlıdır.
+Ayrıca, fiyat hareketinin gruplamaya girişini izleyebilir ve düşen bir bıçağın önlenmesini umarak (en 
+azından durup durmadığını görmek için bekleyerek) durmasını bekleyebilirsiniz.
+1 19www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 118 ===
+düşmeyi bıraktı). Bu, ilk seçeneğe göre biraz daha az risk taşıyor gibi görünüyor. 
+Yine belirtmek isterim ki bu, işleminiz için belirlediğiniz risk parametrelerine 
+dayanan kişisel bir karardır.
+Daha sonra fiyatın trend yönünde dönmeye başlamasını bekleyebilirsiniz. 
+Bu muhtemelen daha az risk taşır, ancak bazen bir sıçrama çok hızlı 
+gerçekleşebilir ve geride kalabilirsiniz. Ne kadar çok onay ararsanız, o 
+kadar çok hareketi kaçırabilirsiniz.
+Risk profiliniz çok fazla onay gerektiriyorsa potansiyel hareketin bir kısmından 
+vazgeçebilir ve trend yönünde geri hareketin oldukça başlamış olduğunu gösteren 
+bir tetikleyici arayabilirsiniz. Hareketin devam edeceğinin garantisi var mı? Tabii ki 
+hayır, kayıpları durdurmanın amacı budur.
+Fiyat hareketi hedef bölgeye ulaştığında kullanılabilecek neredeyse sonsuz sayıda olası 
+tetikleyici vardır. Bazı örnekler şunlar olabilir: fiyatın hareketli ortalamayı geçmesi, ikili 
+hareketli ortalama geçişi, Bollinger bandının tersine çevrilmesi, trend çizgisi kırılması, 
+önceki çubuğun yüksek veya düşük seviyesini aşma, daha kısa bir zaman diliminde 
+yüksek veya düşük bir salınım gerçekleştirme , sadece bölgeye girmek vb.
+Buradaki mesele, takas yapmaya karar vermeden önce ne kadar onay almak 
+istediğinizi (eğer varsa) belirlemektir. Bu kararın bireysel yatırımcının risk 
+profiline bağlı olduğunu güçlü bir şekilde vurgulamama rağmen, bu bölümün 
+başında tartışmaya başladığım gibi, bu kararı verirken dikkate alınması gereken 
+bazı düşünceler var. Düzeltme veya geri çekilme ne kadar uzun sürerse öyle 
+görünüyor. e. Karşı trend ne kadar uzun sürerse, o kadar fazla onay istersiniz.
+Neden böyle olsun ki? Bir karşı trend hareketinin ne zaman yeni bir trendin başlangıcı 
+olacağını ve sonuçta bir karşı trend olmadığını asla bilemezsiniz. Hareket halindeki bir 
+trendin hareket halinde kalma eğiliminde olduğu varsayımına dayandığımız için, karşı 
+trend hareketi ne kadar uzun sürerse, bu bir düzeltme değil, yeni bir trend gibi 
+görünecektir. Bu beni düzeltme ne kadar derine inerse o kadar fazla onay istemeye 
+yöneltiyor.
+Bahsedildiği gibi, bu, .236 veya .3 82- .447 geri çekilme alanlarındaki düşük 
+geri çekilmeler için çok az veya hiç onay olmadığı anlamına gelebilir. 0,6 1 8 
+veya . 786 geri çekilme alanı, örneğin yüksek veya alçak salınımın daha kısa 
+bir zaman diliminde çıkarılmasını gerektirir. Oldu
+1 20www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 119 ===
+Bu çalışmada çeşitli tetikleme stillerini sunma niyetim yok. Burada 
+sunduğum yeni konseptlerle zaten bildiklerini ve rahat olduklarını 
+kullanabilmeleri için bunu bireysel yatırımcılara bırakmak istiyorum.
+Olası tetikleyicilere ilişkin notlarla birlikte kapsamlı bir örnek serisine geçelim. 
+Gerçek dünyada pek çok başarısız işlem olduğu için, tutunamayan 
+gruplamalardan bazı örnekler seçeceğim. Görebileceğiniz şeylerden biri, eğer bir 
+fiyat gruplaması sağlanamazsa, fiyat hareketi sıklıkla bir mıknatıs gibi bir sonraki 
+gruplamaya yönelir.
+Bu, zararı durdurma emrinizi nereye koyacağınızı belirlemede yardımcı olabilir. En yaygın 
+olarak kullandığım seçeneklerden biri, zararı durdurmayı, işleme girmek için kullandığınız 
+gruplamanın hemen altına koymaktır. Başka bir seçenek de zararı durdurmayı bir sonraki 
+grubun hemen altına yerleştirmektir. Zararı durdurma alanı olarak kullanımının uygun olup 
+olmadığını belirlemek için bir sonraki grubun ne kadar uzakta olduğunu düşünmek 
+isteyebilirsiniz. Risk profilinize göre çok uzakta değilse, onu kullanan daha az işlem 
+yapmanız durdurulur, ancak durdurulduğunuzda daha fazla kaybedersiniz. Bu belki de 
+ticaretteki en büyük ikilemlerden bir diğeridir. Çok gürültülü pazarlarda daha uzakta durmak 
+gerekli olabilir.
+Şekil 10.1'deki örnekle olanlarla başlayalım. Burada gruplamaya girilir ve 
+bir ticaret düşünülür. Bkz. şekil 10.2.
+1 21www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 120 ===
+Figür1 0,2
+?:FRX DD
+70. 000
+Ocak 12 19 26 Şubat
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+9 16 23 Mart 9
+Bu ticaretin güzel bir modeli var. Uzatılmış bir varABCörüntüyü güzel, sıkı bir Fibonacci 
+gruplamasına indirgeyin. Aklıma takılan bir şey var ve o da FRX'in gruplamaya dahil 
+olduğu sırada uzun aşağı çubuğun gün için düşük seviyede kapanışı. Normalde bu, 
+sorunun çok zayıf olduğuna ve muhtemelen azalmaya devam edeceğine dair büyük bir 
+uyarı olacaktır.
+Neden 'normalde' diyorum? Çoğu zaman bitkinliğin gruplamalara doğru ilerlediğini 
+görürsünüz. 786 ve özellikle . 886 alan. Bu hamleler düpedüz korkutucu görünebilir, 
+ancak meselenin bir anda tersine dönmesine ve ters yönde güçlü yeni bir trendin 
+başlamasına neden olabilir. Ancak hiçbir şekilde hızlanıyor gibi görünen 'düşen bir 
+piyanoyu' yakalamanız gerektiğini ima etmiyorum.
+Demek istediğim şu ki, bunu gördüğünüzde daha küçük bir zaman aralığına 
+geçin, gözlemleyin ve neyin gelişmekte olduğunu görün. Bazen sorun sadece 
+'bölgeyi havaya uçurur', ancak bazen bölgeye saygı duyar ve gerçekten harika 
+bir ticaret kurar. Yukarıdaki gibi görünen her işlemi geçerseniz bazı güzel 
+fırsatları kaçırabilirsiniz.
+Şimdi birkaç okuyucunun şöyle dediğini duyabiliyorum: 'Ben az önce gruplamayı 
+parçalayacakmış gibi görünen, iyi seçilmiş başka bir örnek için hazırlandım.
+1 22
+Ben![!J £1
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 121 ===
+Ama bahse girerim ki durum keskin bir şekilde tersine dönecek ve bir başka büyük kazanan 
+olacak. Birkaç 60 dakikalık grafiğe bakalım ve bizi ticarete teşvik edecek bir şey var mı görelim. İlk 
+önce şekil 10.3'e bakın.
+Figür1 0,3
+�:. FAKS 60-1
+f ben fP
+J J
+1J R
+P j
+����30
+58 .923 Geri 1 .6 18
+58 .777 Geri 0 .886
+58 .580 Uygulama 1 .272
+8 ton '3f
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-200 1
+12 Mart
+FRX bölgeye doğru yönelirken, 60 dakikalık grafikteki gruplamanın genişletilmiş bir 
+görünümünü burada bulabilirsiniz. 60 dakikalık çubuğun gruplamanın merkezine girip tersine 
+döndüğünü ve çubuğun üst yarısında kaybettiğini görüyoruz. Bu bir ters çubuk olarak görülse 
+de kapanış çubuğun açılışının altındadır. Bu çubuk bir geri dönüşün başladığını ima ediyor 
+olabilir ama şu anda kesinlikle bir takas kabul etmeyeceğim. Ayrıca, çubuklar için daha düşük en 
+düşük ve daha düşük en yüksek seviyelere sahip arka arkaya üç çubuğumuz olduğunu da 
+unutmayın. Bu gerçek bir saçmalık değil.
+Benim için burada ticaret yapmak, beton yüklü, düşen bir kuyruklu 
+piyanoyu yakalamaya benzer. Bunun bir . 786/. 8 86 gruplandırması olduğu 
+için oldukça büyük miktarda onay tercih ediyorum. 786/. 886 gruplama, 
+bekleyip ne olacağını görmeyi tercih ederim. Eğer bu son çubuğun en 
+yüksek seviyesi kırılırsa, gerçekten yakından izlemeye başlarım. Zamanda 
+ileri gidelim. Bkz. şekil 1 0 .4.
+1 23
+� 1 t ben�
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 122 ===
+Figür1 0,4
+?:FAKS 60-1
+) BenPJ
+J {
+fq
+T 1BEN1J
+f 1 1
+���.�30
+58 ,923 Geri 1 . 6 18
+58 .777 Geri 0 .88E>
+58 .580 Uygulama 1 .272
+8 ton 9f
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+12 Mart
+Bir sonraki çubuk, çubuğun alt yarısında ac kaybı olan ve açıklığın altında kapanışı 
+olan bir iç çubuktur. Hala izliyorum. Zamanda ileriye doğru devam edelim. Bkz. şekil 
+10. 5.
+1 24www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 123 ===
+Figür1 0,5
+?.FRX 60-1
+qP
+1BENBen{1BEN
+BenRTBEN
+yerleştirmek
+M���30
+58 .323 Geri 1 .6 18
+58 .777 Geri 0 .886
+58 .580 Uygulama 1 .272
+8 ton '3f
+grafik oluşturuldu b':/ Dynamic Trader (c)1 996-2001
+12 Mart
+İlgi çubuğumuzun en düşük seviyesi çıkarılır ve bu en geç çubuk yavaş 
+yavaş kapanır. Grubun dibine doğru yaklaşıyoruz. Bu noktada çok 
+dikkatli olurdum. Grafikte ilerleyelim. Bkz. şekil 1 0 .6.
+1 25www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 124 ===
+Figür1 0,6
+?.FRX 60-1 1!18 13
+FBEN1 tonJI
+BEN
+F}{
+11+T
+St.
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+Ah! Burada ticaret yok. Eğer bu takası çok az onayla veya hiç onay almadan kabul 
+etseydiniz, durdurulurdunuz. Benim bakış açıma göre bu, tetiklenmeye asla yaklaşamadı 
+bile. Demek istediğimi açıklamak için, çok hızlı 5 dönemlik basit hareketli ortalamanın 
+eklendiği şekil 10.3'teki grafiğe bakalım. Bazı tüccarlar kullanıyorABir işleme girişi 
+tetiklemek için 5 dönemlik basit hareketli ortalama.BENBu ortalamanın çok az onaya 
+ihtiyaç duyduğum işlemler için oldukça faydalı olduğunu düşünüyorum.
+Bu çok hızlı bir ortalamadır ve büyük darbelere maruz kalabilir. Diğer tekniklerle 
+birlikte kullanıldığında yeri vardır ama tek başına sizi parçalara ayıracaktır. Grafiğe, 
+bir gruplaşmaya ulaştıklarında işlemleri tetiklemek için 5 dönemlik basit hareketli 
+ortalamayı kullanmayı seven bir yatırımcının gözünden bakalım. Bu yatırımcının 
+tetikleyicisinin hareketli ortalamanın üzerinde bir kapanış olduğunu düşündüğünü 
+varsayalım. Bu ticaret tetiklendi mi? Yakın mıydı? Bkz. şekil 1 0. 7 ve 1 0. 8.
+1 26www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 125 ===
+Figür1 0,7
+?.FRX 60-1 1!18 13
+2. 500
+2. 000
+1.500
+1.000
+0. 500
+0. 000
+9. 500
+9. 000
+8. 500
+58 .923 Geri 1 .6 18
+58 .777 Geri 0 .886
+58 .580 Uygulama 1 .272
+8 ton 9f
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+12 Mart
+Figür1 0,8
+::.::FRX 60-1 1!18 13
+3. 000
+2.000
+0. 000
+9. 000
+8. 000
+7. 000
+8 ton 9f
+D'lnamic Trader tarafından oluşturulan grafik (c)1 996-2001
+12 Mart 13
+1 27www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 126 ===
+Açıkça görebileceğiniz gibi, bu tetiklenmek için oyun sahasında bile değildi. Bu 
+örneği bu kadar ayrıntılı olarak ele alıyorum çünkü okuyucuya bir ticaret fırsatı 
+geliştikçe nasıl bir düşünce tarzının devam edebileceğini göstermek istiyorum. 
+Çubuk özelliklerine, bazı hareketli ortalamalara veya Bol linger bantlarına ve belirli 
+bir konu için işe yarayacağını düşündüğüm her şeye bakıyorum. Daha sonra sabırla 
+tetikleyicimin gerçekten tetiklenmesini bekliyorum. Olmazsa takası kabul etmem. 
+Silahı tetiğe atmam. Bu bile beni birkaç başarısız işlemden kurtarıyor. Elbette, bazı 
+başarılı işlemler kaçırılıyor çünkü sorun sadece gruplandırmaya ulaşıyor ve ardından 
+hızla uzaklaşıyor. Yine de bazılarını kaçırmayı ve kolay tetikleme gerektiren oyun 
+planıma sadık kalmayı tercih ederim. FRX'in buradan nereye gittiğini görelim. Bkz. 
+şekil 1 0 .9.
+Figür1 0,9
+?',FAKS I!EI £J
+70. 000
+Ocak 12 19 2& 9 Şubat
+Dynamic Trader tarafından oluşturulan grafik(c) 1 996-2001
+1& 23 9 Mart 1&
+Bu, bölgenin açık bir patlamasıydı. Bölgeye girildikten sonra bölgenin 
+üzerinde en ufak bir geri hareket bile olmadı. Tetikleme yok, ticaret yok. 
+Hepsi işe yaramıyor. Bu ticarettir ve bu yüzden asla, asla bir durak olmadan 
+ticaret yapmazsınız. Başka bir örneğe bakalım. Bkz. şekil 10. 1 0.
+1 28www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 127 ===
+Figür1 0. 1 0
+?.TABAK D-D 1!f8£I
+30. 000
+29.000
+28.000
+25.000
+24. 000
+23.000
+22.000
+2 1 . 000
+Ekim Kasım Aralık
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+02 Şubat
+Bu, büyük bir geri çekilmenin harika bir örneğidir. 786 alanı. Görünen iki 
+gruplama var. (Not: İlk gruplandırma, DISH'in sonunda tersine dönmeye karar 
+vermesinden önce Ekim sonlarında ve Kasım başlarında üç farklı günde ziyaret 
+edilen, oldukça farklı bir önceki düşük salınımı içermektedir.) Bu örnek aynı 
+zamanda 'bölgeye hızlı düşüş' görünümüne de sahip. son örnekle aynı 
+görünüm. Ve bu son örnek bölgede fena halde başarısız oldu. Çubukların alt 
+uçlarında c kayıpları bulunan sıralı iki genişletme çubuğu vardır.
+Bölge dayanacak mı? Ticaret tetiklenecek mi? Bana göre bu takası değerlendirmek için 
+oldukça güçlü bir tetikleyiciye ihtiyacım var. Tetikleyiciler için iki seçenek akla geliyor. Bir 
+S-dönemi hareketli ortalamanın çaprazını bir I S-dönemi hareketli ortalama boyunca 
+kullanabilirim. Bu da elbette fiyatın her iki ortalamanın üzerinde olmasını gerektiriyor. 
+Fiyatla ilgili ikinci koşul, söylemeye gerek yok gibi görünebilir, ancak bazen bir sorun 
+hızla tersine dönebilir ve aslında fark edilir bir değişiklik bile yapmadan her iki 
+ortalamanın altına düşebilir.
+Bir sonraki ve tercih ettiğim tetikleyici seçimim, konunun S IS hareketli ortalama çapraz 
+koşullarını karşılaması, ardından s'yi geri çekmesi ve ardından yeni oluşturduğu yüksek 
+salınımı ortadan kaldırması olacaktır. Bu çok fazla onaydır ve oldukça anlamlıdır.
+1 29www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 128 ===
+hem kelimenin tam anlamıyla hem de mecazi olarak biraz dezavantaj. 
+Kelimenin tam anlamıyla geniş bir duruş gerektirecektir, çünkü çoğu mantıksal 
+durak yerleşimi (alçak salınımın hemen altı gibi) oldukça uzakta olacaktır. 
+Mecazi anlamda olumsuz tarafı ise geri çekilme alamayabilmenizdir; geri 
+çekilme hamle başladıktan epey sonra gelebilir ve sonuç olarak hareketin ilk 
+bölümlerinin çoğunu kaçırırsınız, vb. Bu kadarının bedelini ödersin
+Onayla. Bakalım bu potansiyel ticaret nasıl gelişecek? Bkz. şekil 10. 1 1 .
+Figür1 0. 1 1
+�:.. TABAK D-D l!8 EI
+30. 000
+29. 000
+28. 000
+27. 000
+26. 000
+25. 000
+1!:1U 1f. 22. 000
+21. 000
+20. 000
+Ekim Kasım Aralık
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+02 Şubat
+Bu, son FRX örneğine çok benzemeye başlıyor. Şimdi ilk grubun tabanına 
+hafifçe girdiğimizde düşük kapanışlı üç aşağı çubuğumuz var. 60 dakikalık bir 
+tabloya bakalım ve neler olduğunu görelim. Gruplandırmalar yaklaşık 22$ 
+civarındadır. 50-$22 ,20 ve bunun altında $2 1,95-$2 1,70. Doğrudan 
+tetikleyicilerimize odaklanabilmemiz için gruplandırmaları 60 dakikalık grafiğin 
+dışında bırakacağım ve tetikleyicilerimiz için gerekli olan 5 ve 15 dönemlik basit 
+hareketli ortalamaları grafiğe ekleyeceğim. Bkz. şekil 10. 1 2.
+1 30www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 129 ===
+Figür1 0. 1 2
+?:DI SH 60-1 !£I IS
+25. 500
+25.000
+12 ton 13 saat 14 ton
+Dynamic Trader tarafından oluşturulan grafik (c)1996-2001
+lsF 19 Şubat 20
+DISH ilk gruplamaya girdi ve tersine dönmeye başladı. Son çubuğun kapanışı açıktan 
+daha yüksek, ancak gerçekten güçlü bir çubuk değil. Açıkça tanımlanmış bir 
+tetikleyicimiz olduğundan tüm bunların pek önemi yok, ancak durum ortaya çıktıkça 
+bir değerlendirme yapmayı seviyorum ve tetiğe basılsa bile ticareti almama hakkını 
+saklı tutuyorum. Eğer eylem benim zayıf diye adlandırdığım türdense (dalgalı, zayıf 
+çubuk oluşumları, beklenenden daha düşük hacim, vb.), kendimi takası almaya 
+zorlamayacağım. Bu benim kişisel ticaret tarzım. Bunu ortaya çıktıkça takip edelim. 
+Bkz. şekil 1 0. 1 3 .
+1 3 1www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 130 ===
+Figür1 0.13
+?.TABAK60-1 1!!!18 13
+25. 500
+24. 000
+23 .500
+23.000
+22 .500
+12 ton 13 saat 14 ton lsF 19 Şubat 20w
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-200 1
+Hayır, tam tersine dönüyor. Bu noktada, gelişmeyi izlemeye devam 
+edeceğim. Bkz. şekil 10. 1 4.
+1 32www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 131 ===
+Figür10. 14
+?.DI SH 60-1 !18 E!
+25 .500
+24. 000
+23 .500
+23. 000
+22 .500
+13 saat 14 ton
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+lsf Şubat 1'3t 20w
+Unutmayın, ilk grubun alt sınırı 22,20 dolardı. Fiyat hareketi şu anda 
+bunun altında. İkinci grup vurulurken izlemeliyiz. Fiyat ikinci grubun alt 
+seviyesinin altına düşerse ne olursa olsun kenarda duracağım. Zamanda 
+ileri gidelim. Şekile bakın
+1 0. 1 5 .
+1 33www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 132 ===
+Figür1 0. 1 5
+?:TABAK 60-1
+"
+!Ben[!l £I
+25. 500
+25. 000
+24. 000
+23.500
+23. 000
+22 .500
+22. 000
+13 saat 14 ton 1sf
+Dinamik Trader (c) tarafından oluşturulan grafik1 996-2001
+19 Şubat 20w 2 1
+Şimdi bu çok daha iyi şekilleniyor. Fiyat her iki hareketli ortalamanın da üzerine 
+çıktı ve böyle devam ederse 5. periyot kısa sürede 15. periyodu geçecek. Bu 
+aradığımız ilk tetikleyici olurdu. Son çubuğun düşük bir kapanışla geri 
+döndüğüne dikkat edin. Belki fiyat şimdi yeni bir düşük seviyeye inecek ya da 
+belki doğrudan yükselecek. Yapabileceğimiz tek şey izlemek, beklemek ve 
+ardından beklediğimiz belirli tetikleyicinin gerçekleştiğini görürsek tepki 
+vermektir. Bkz. şekil 1 0. 1 6.
+1 34www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 133 ===
+Figür10. 16
+?:DI SH 60-1 !E!1
+25. 000
+24. 500
+23. 000
+22. 500
+13 saat 141: 1sf
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+19 Şubat 20w 2 1t
+Bu noktada, ilk tetikleyici kullanılarak ticaret tetiklenecektir. Fiyat ikinci 
+grubun tepesinden sıçradı, hareketli ortalamalar kesişti ve fiyat her iki 
+ortalamanın da üzerinde. Bakalım bu sorun bize ikinci tetikleyiciyi 
+verecek mi, yoksa ilk tetikleyiciyi seçmeseydik kaçırmış olurduk (daha az 
+onaylanan 'hareketli ortalama çapraz' tetikleyici şekil 1 0. 1 6'da 
+gösterilmiştir). Bkz. şekil 1 0. 1 7.
+1 35www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 134 ===
+Figür1 0. 1 7
+?'TABAK 60-1 ben!![;l £I
+25.500
+24.500
+24 000
+H 23 ,430 22Fb9 :30
+23 000
+22.000
+13 saat lSF 19 Şubat 20h
+Dynamic Trader tarafından oluşturulan grafik (c)1996-2001
+2 o 22f 2 Şubat!
+DISH yükseldi ve şimdi geri çekiliyor. Daha önce tartışılan iki tetikleme yönteminden 
+ikincisini kullanarak bir işlemi tetiklemek için kullanılacak yüksek salınımı göstermek 
+için Aline'i ekledim. Fiyat 23,48 $'lık zirveye ulaşırsa, bir işlem tetiklenir (o tarihten önce 
+hoşuma gitmeyen herhangi bir işlem görmemem şartıyla. Örneğin, fiyat bu yeni 
+seviyenin 0,786'sının altına gerilerse). yukarı doğru hareket edersem, iki kere 
+düşünebilirim. Eğer yeni trend geçerliyse, düşük seviyenin 'testinin' 'zorlu' bir test 
+olmamasını isterim.) Şimdi ilerleyelim ve bir ticaretin tetiklenip tetiklenmediğini 
+görelim. Bkz. şekil 1 0. 1 8.
+1 36www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 135 ===
+Figür1 0. 1 8
+::':.TABAK 60-1 11!!18 13
+25 .500
+25. 000
+24 .500
+H 23 .430 22Fb9:30
+22.000
+13 saat 14 ton 15f 19 Şubat 20h
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-200 1
+2 o 22f Şub25 dk 2
+Ticaret şimdi ikinci tetikleyicinin kriterleri kullanılarak tetiklenir. Burada birkaç şeye 
+dikkat edin. Yukarıya doğru bir boşluk var, tetik çizgisinin üzerinde bir miktar işlem var 
+ve ardından çubuğun ortasına doğru bir düşüş var. Bu çubuk, Japonca şamdan 
+terimleriyle, bir 'topaç', bir kararsızlık çubuğudur. Eğer bu işin içinde olsaydım, bu 
+noktada gergin olurdum. Gergin olup olmamamın bir önemi yok, benim hareketim 
+artık her şeyin kendi oyun planıma göre ilerlemesine izin vermektir, ama hemen çok 
+fazla 'ısıya' maruz kalmadığım zaman her zaman daha kolay dinlenirim. yarasa. Gerçek 
+şu ki, bazen hemen sinirlenirsiniz ve ticaret hâlâ harika işler. Ne olursa olsun planınızı 
+değiştirmelisiniz. Bkz. şekil 1 0. 1 9.
+1 3 7www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 136 ===
+Figür1 0. 1 9
+�:. DI 5H 60-1 !IS EJ
+24. 500
+24. 000
+H 23 .430 22Fb9 :30 23. 500
+23.000
+22 .500
+22. 000
+13 saat 14 ton lSF 19 Şubat
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+20w 2 1t 22f Şubat2Sm 2€.t
+Bu ticaret oldukça iyi gidiyor. Her ne kadar ticaret yönetiminden uzak duruyor olsam da, 
+bu, böylesine güçlü bir genişleme barının yukarıya çekilmesinden kısmi kar elde etmeyi 
+güçlü bir şekilde düşüneceğim bir dönem olacaktır. Zamanda ileriye doğru devam 
+edelim. Bkz. şekil 1 0.20.
+1 3 8www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 137 ===
+Figür1 0,20
+?:TABAK 60-1 1!!!8 EJ
+27.000
+H 23 .430 22Fb9:30
+22. 000
+20w 2 11 22f Şub25m201
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+27h 281 1f 4 Mart51
+Vay, bu genişleme çubuğu yukarı doğru hareketin sadece başlangıcıydı. 
+Ancak bu hamle bir istisna olduğu için, kısmi kar elde ettiğim için 'satıcıların 
+pişmanlığını' yaşamayacağım. Birçok hamle güçlü başlar, hepsi bu. Bu 
+örneği günlük grafiğe bakarak bitirelim. İlk gruba saygı göstermediğine, 
+ancak ikinci grubun tam üstüne sıçradığına dikkat edin. Bkz. şekil 1 0.2 1.
+1 3 9
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 138 ===
+Figür1 0,2 1
+?:DI SH 0-0 !!lEI £J
+28.000
+27 000
+26. 000
+25. 000
+23. 000
+22. 000
+2 1 . 000
+1!:IItR
+Ekim Kasım Aralık
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-200 1
+02 Şubat M
+Bölgeye giren üç güçlü aşağı çubuğu hatırlıyor musunuz? Pek çok insanı korkutup 
+ticaretten uzaklaştıracak barlar mı? Bu durumda bölge kaya gibi tutuldu ve DISH 
+bölgeden güçlü bir şekilde tersine döndü. Bu alışılmadık bir durum değil. Bazen en iyi 
+işlemler sizi en çok korkutur.Ama anla,Düşen kasalara benzeyen korkutucu işlemleri 
+arayıp onları yakalamaya çalışmayı söylemiyorum. Potansiyel bir ticaret, tüm ticaret 
+kriterlerinizi karşılıyorsa ve tetikleniyorsa, ticaret düpedüz korkutucu görünse bile, 
+oldukça iyi sonuçlanabileceğini söylüyorum. Bunun nedeni, çoğu yatırımcıyı korkutması 
+olabilir ve eğer herkes ticareti kabul ederse, kitleler neredeyse hiçbir zaman bunu 
+yapmayacağından, bu muhtemelen işe yaramayacaktır.
+Şimdiye kadar, geri çekilmenin ne kadar derin olduğuna veya ticaretin hangi zaman 
+diliminde olduğuna bakılmaksızın kavramların gerçekten aynı olduğunu 
+görmelisiniz. Tek gerçek fark, geri çekilme ne kadar derin olursa (işlemim, girmeye 
+çalıştığım trendden ne kadar uzaklaşırsa), o kadar fazla onay almayı tercih ederim.
+İşlem yaptığım zaman diliminde zirveleri veya dipleri seçmeye çalışmak 
+istemiyorum. Üst veya alt seçime ne kadar yaklaşırsam o kadar premium olurum
+140www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 139 ===
+İlave onay için ödeme yapmaya hazırım. Ticaret planınız farklı olabilir; belki 
+de bu ek onaya gerek görmüyorsunuz. Her yatırımcının kendi tarzı vardır ve 
+ben sadece tercihlerimin neler olduğunu açıklayabilirim. Ticaret planınız 
+üzerinde çalışırken bu fikri dikkatlice araştırmanızı öneririm.
+1 4 1www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 140 ===
+Bölüm1 1
+Karışıma Zaman Eklemek
+Şu ana kadar sadece fiyata baktık. Şu ana kadar yapılan her hesaplama 
+fiyattaki bir değişiklikti. Fiyatların oranlarını aldık ve bunları diğer fiyatlara 
+ekledik, vb. Ancak 'zaman' da geçiyor (işlemlere bakıp onların gelişmesini 
+izledikçe) ve sanki 'zaman' da 'fiyat' kadar uyumlu görünüyor. Ticaret 
+cephanenize yalnızca zaman hesaplamalarını eklemek mantıklı olacaktır.
+Burada bu konuyla ilgili sadece küçük bir giriş yapacağım, ancak bir noktada 
+tamamen harmonik zaman hesaplamaları kavramına adanmış bir çalışma da 
+yapabilirim. Okuyucunun kavramın farkında olmasını ve kavramla ilgili 
+araştırma ve denemeye başlamasını istiyorum.
+Basitlik adına, bir trendin olduğu ve ardından trendin düzeldiği bazı örneklere 
+bakarak başlayalım.1 '1 1Bu örnekleri, oldukça derin bir düzeltmeye (sadece küçük 
+bir geri çekilme değil) sahip olacak şekilde seçin ve ardından trend devam eder. 
+Yatırımcıların aklındaki soru şu olabilir: 'Bu durum düzelmeyi bırakacak mı ve önceki 
+trend kendini yeniden oluşturacak mı, eğer öyleyse ne zaman? ' Sadece 0,6 1 8 ve 
+gibi bazı basit Fibonacci zaman düzeltmelerine bakalım.
+. 786. Bakınız şekil 11. 1 - 1 1 .3 .
+143www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 141 ===
+Figür1 1 . 1
+".:?:.VRS ND-D !IS EJ
+5. 000
+0. 000
+5. 000
+35. 000
+25. 000
+20.000
+15Haz99
+TCR
+lE.Tem.39 0 .6 1 8
+5Ağustos
+Haziran 11 113 25 Temmuz
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-200 1
+'3 16 23 30 Ağustos 13 20
+Figür1 1 .2
+?.NQ02Z !IS EJ
+t 1
+H ] t J f
+BEN rq
+F
+13:30 26Sp 15 : 15 0,6 113
+27Sp9:35
+27f
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+1 44www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 142 ===
+Figür1 1 .3
+::':.AOP 0-0 1!!!18 £Ji
+2'3Ocak02
+TCR
+13Şub02 0 .78&
+27Şubat
+25 Şubat 8
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+15 22 Mart 8
+Ayrıca 1'den büyük bazı Fibonacci zamanı geri çekilmelerine de bakalım. 000, 
+örneğin 1 ,6 1 8 gibi. Bkz. şekil 1 1 .4 ve 1 1. 5.
+1 45www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 143 ===
+Figür1 1.4
+?.JBL'in 0-0'ı 1!8£J
+35.000
+25. 000
+15. 000
+1_ _ ___L 1
+e. JuIO 1 2Au90 1 U13
+2 1EylülTCR
+Temmuz AU9 Eylül
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-200 1
+Ekim Kasım Aralık
+Figür1 1 .5
+::':.KMB 0-0
+100 sent
+2 1Se£Ql
+BEN 6. 000
+4. 000
+2. 000
+0. 000
+8. 000
+tl � l J ttlt + i } I l1 tll
+T 1 T
+P }H
+ben
+4. 000
+2. 000
+10 17 24 3 1 Eylül
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+2 1 23 Ekim 12 }19
+1 46
+�1.� 13
+1,8 £J
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 144 ===
+Şekil 11'de KMB'nin nasıl olduğuna dikkat edin. 5, çok dalgalı ve süreksiz 
+olmasına rağmen geri çekilme tam olarak 1,6 1 8'lik bir geri çekilmeyle sona 
+erdi. Grafiğin dahili bir fiyat gerilemesi göstermesine rağmen zaman 
+gerilemesinin 'harici' yani . 1.000'den büyük. Bu örnek, belki de, ticaretin orijinal 
+dayanağı bozulmadan kaldığı sürece, 'bir ticarete çalışması için süre verme' 
+fikrine inandırıcılık kazandırabilir.
+Bu grafik aynı zamanda okuyucunun gözünü test ediyor ve dalgalanmalara rağmen 
+KMB'nin ne kadar uyumlu ticaret yaptığını gösteriyor. Görüyor musun? Size aynı grafiği, 
+bir kez daha geri izleme eklenmiş olarak göstereyim. Bkz. şekil 1 1. 6.
+Figür1 1.6
+::':.KMB DD 1,8 £J
+TCRSS0 1
+100 sent
+1 .6 18
+BEN BEN BEN BEN
+t 1 'll { ! 1 < + {tJt; 1 1
+0. 000
+8. 000
+6. 000
+4. 000
+2. 000
+T 1 T
+eğer �H
+1
+10 17 24 3 1 Eylül
+Dynamic Trader tarafından oluşturulan grafik (c)1 996-2001
+2 1 28 Ekim 12 J
+KMB ilk olarak fiyat gerilemesini tam olarak 0,618 kez geri çekilmeyle sonlandırdı ve 
+düşmeye başladı. Daha sonra yanlara doğru ilerledi ve 0,6 1 8 zamanlı geri çekilmede 
+belirlenen yüksek seviyenin sadece on iki sent üzerinde çok nominal bir yeni zirve 
+belirledi. Bu nominal yeni yüksek tam olarak 1,6 1 8'lik geri çekilmede belirlendi ve bu 
+kez geri çekilme tamamlandı. Grafik çok karışık görünse de hisse senedi aslında oldukça 
+uyumlu bir şekilde işlem görüyordu.
+1 47
+19
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 145 ===
+Sonuç olarak, Fibonacci fiyat gruplamasına yaklaştıkça birçok düzeltme 
+örneğini gördüğümüzü ve olası ticaret fırsatlarını değerlendirdiğimizi 
+hatırlayalım. Peki ya bunun Fibonacci zamanının geri çekilmesinde de 
+olduğunu görseydik? Bu, bölgeyi tutma olasılığını güçlendiriyor gibi 
+görünüyor. Bu, bir tüccarın bir bölgede karar verirken dikkate alabileceği bir 
+şey olabilir. Peki ya bir sorun Fibonacci fiyat gruplamasına girerse, bir ticareti 
+tetiklerse,VeFibonacci zamanının geri çekilmesinde mi oldu?
+Şimdi bazı okuyucuların 'Hey, tıpkı fiyat gibi zaman gruplandırması yapabilir misiniz?' 
+diye sorduğunu duyabiliyorum. (Umarım bazılarınız bunu söylüyordur. Eğer öyleyse bu 
+çalışmanın size bir şeyler öğrettiğini hissedeceğim!) Sorunun cevabı 'evet'. Fibonacci 
+fiyat gruplaması, Fibonacci zaman gruplaması ve bir tetikleyici. Hımmm. Umarım bu 
+seni düşündürmüştür. Şimdilik bunu okuyucuya bırakıyorum, zaman harmonikleri 
+üzerine bir çalışma yaparsam zaman gruplamaları etrafında dönecektir. Ayrıca bu 
+çalışmadaki grafikler için kullandığım Dynamic Trader yazılımının zaman 
+gruplamalarının birçok varyasyonunu yapabildiğini de unutmayın.
+148www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 146 ===
+Çözüm
+Tek bir okumadan sonra kendi gruplamalarınızı oluşturmada biraz sorun yaşarsanız 
+cesaretiniz kırılmasın. Geri dönün ve fikirleri tam olarak anlayana kadar bölümleri 
+gerektiği kadar tekrar okuyun. Grafikleri 'görene' kadar inceleyin. Fibonaccis ve geri 
+çekilmeler, projeksiyonlar vb. ile çalışırken ne kadar önceki deneyime sahip 
+olduğunuza bağlı olarak, yeterliliğinizi geliştirmeniz biraz zaman alabilir. Bunu elde 
+edene kadar pratik yapmaya devam edin, yakında bu ikinci doğanız haline 
+gelecektir.
+Gerekli olmasa da, bu tür işleri yapmak için özel olarak tasarlanmış bir tür 
+yazılımınız varsa tüm süreç biraz daha kolaydır. İlk günlerde her şeyi bir hesap 
+makinesi veya elektronik tablo kullanarak elle yapıyordum, grafikteki çizgileri tek 
+tek koyuyordum ve onları 'elle' etiketliyordum. Bu çok zaman aldı ve bu benim 
+grafiklere bakarak kullanabileceğim zamandı. Bunu bu şekilde yapmaya geri 
+dönmek istemem. Bu kitaptaki teknikleri beğendiğinize karar verirseniz ve 
+bunları ticaretinize dahil etmek istiyorsanız, bunu sizin için kolaylaştırabilecek 
+birçok programdan birini edinmeyi düşünün.
+Bu materyali incelerken kitabın ana konseptinin ne olduğunu aklınızda tutun. 
+Umarım 'Şimdi bu konsept neydi?' demiyorsunuzdur. ' Bunun yerine belki de 
+'Doğru, potansiyel destek veya direnç alanlarını bulmak için Fibonacci gruplama 
+tekniklerini kullanmak istiyorum ve burada takas yapmayı düşünebilirim' 
+diyorsunuz.işlem yaptığım zaman dilimindeki trend yönünde. ' Eğer az önce 
+ikincisini veya buna benzer bir şey söylediyseniz, bu materyali sunumumda 
+başarılı olduğumu hissedeceğim.
+149www.forexgercekleri.xyz - [Twitter: @eseckal]

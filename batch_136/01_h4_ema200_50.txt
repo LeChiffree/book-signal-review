@@ -1,0 +1,86 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 9\Baskı 9\H4 Zaman Diliminde 200 ve 50 EMA ile Strateji Oluşturma (3 sayfa) - @eseckal.pdf
+PAGES: 3
+
+
+=== PDF PAGE 1 ===
+200 ve 50 EMA ile işlem yapma: H4 Zaman dilimi İşlem 
+Stratejisi
+Trend takip stratejisi arayan yatırımcılar için hareketli ortalamayı kullanmaktan daha iyi ve daha basit bir şey yoktur. 
+Yaygın olarak kullanılan göstergelerden biri olan hareketli ortalamalar, birçok farklı trend takip stratejisinin temelini 
+oluşturur.
+Bu işlem stratejisinde, 4 saatlik grafiklere uygulanan 200 ve 50 periyotlu üstel hareketli ortalamayı 
+kullanırız. Bu strateji, hareketli ortalama geçişine güvenmez, bunun yerine trend kurulduktan sonra 
+trende girer ve hızlı bir karla çıkar.
+Kullanılan göstergeler ve amaçları
+H4 grafiklerindeki kapanış fiyatlarına uygulanan 200 EMA: Bu, önyargımızın ana temelini oluşturur. H4 grafik aralığı 
+günlük grafikleri yakından takip ettiği için, trendler bu zaman diliminde iyi yansıtılır.
+H4 grafiklerinde kapanış fiyatlarına uygulanan 50 EMA: Bu hareketli ortalama, işlemlerimizdeki riskleri yönetmede anahtar rol 
+oynayacaktır.
+Aşağıdaki grafik bu stratejinin kurulumunu göstermektedir.
+Grafik oluşturulduktan sonra aşağıdaki ölçütleri ararız:
+Satış Eğilimi:50 EMA yakın zamanda 200 EMA'nın altına geçmiş olmalı
+Önyargı satın al: 50 EMA yakın zamanda 200 EMA'nın üzerine geçmiş olmalı
+Bu koşullardan herhangi biri sağlanıyorsa, aşağıdaki kurulumun görünmesini bekleriz:
+Satış Kriterleri
+• Fiyatın 50 EMA'da veya altında işlem görmesi gerekir
+• Fiyatın düşük bir seviye yapması ve ardından 200 ve 50 EMA içerisinde kalmak üzere geri çekilerek yüksek bir seviye yapması gerekir
+Sınıflandırılmış - Gizli
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+• Yatay çizgi aracını kullanarak geri çekilmeden önceki en düşük noktayı işaretleyin
+• Fiyat bu düşük seviyeyi kırdığında, yeni bir düşük seviye oluşana ve fiyat tekrar geri çekilmeye başlayana kadar bekleyin
+• En görünür ara yüksek seviyedeki düşük seviyenin üstünde stop emriyle önceki düşük seviyede bir satış emri verin
+• Yüksek ile alçak arasındaki mesafeyi ölçün ve girişten itibaren mesafeyi 1,5 katına çıkarın
+Aşağıdaki grafikte satış ticareti kurulumunun nasıl belirlendiği gösterilmektedir.
+• Fiyat, 50 EMA'nın altında 0,84088'de yeni bir dip yapıyor ve ardından 50 EMA'ya geri çekilerek 0,85148'de 
+yeni bir zirve yapıyor
+• Şimdi hedeflerimizi yansıtıyoruz. BE Hedef = Yüksek – Düşük (85148 – 0,84088 = 0,0106). Yani BE hedefi 
+Düşük (veya giriş) – mesafe (0,0106) olacaktır, bu da 0,84088 – 0,0106 = 0,83028'dir. Şimdi 0,0106 x 1,5 = 
+0,0159 olan son hedefi hesaplıyoruz. Bunu 0,84088'in olası girişinden yansıttığımızda, elde ettiğimiz son 
+hedef 0,82498'dir.
+• Fiyat daha sonra önceki düşük seviyenin altına düşer ve daha da düşerek yeni bir düşük seviye oluşturur.
+• Şimdi 0,84088'lik önceki düşük seviyeden bir satış emri veriyoruz, 0,8028'lik eşik hedefini ve 0,82498'lik son hedefi 
+belirliyoruz.
+• Durdurmalar 0,84652'deki görünür yüksekliğe yerleştirilir
+• Genel olarak bu ticaretin 1:2.8 RR'si var
+Satın Alma Kriterleri
+• Fiyatın 50 EMA'da veya üzerinde işlem görmesi gerekir
+• Fiyatın yüksek bir seviye yapması ve ardından düşük bir seviye yapmak için geri çekilmesi ancak 50 veya 200 EMA'nın üzerinde kalması gerekir
+• Yatay çizgi aracını kullanarak geri çekilme düşük seviyesinden önceki yüksek noktayı işaretleyin
+• Fiyat zirveyi kırdığında, yeni bir zirvenin oluşmasını bekleyin ve fiyat önceki zirveye geri dönmeye 
+başlar
+• Önceki yüksek seviyede bir satın alma emri verin ve en görünür düşük seviyede durdurma emri verin
+• Yüksek ile alçak arasındaki mesafeyi ölçün ve girişten itibaren mesafeyi 1,5 katına çıkarın
+Aşağıdaki grafik, alım satım kurulumunun nasıl belirlendiğini göstermektedir.
+Sınıflandırılmış - Gizli
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+• Yukarıdaki grafikte fiyat, 50 ve 200 EMA'nın üzerinde 1.09461'de zirve yapıyor ve ardından 1.08422'de yeni 
+bir dip yapıyor
+• Fiyat daha sonra önceki yüksek seviyenin üzerine çıkarak yeni bir yüksek seviye oluşturur ve daha sonra önceki yüksek seviyeye doğru 
+geri çekilir, bu da satın alma emri girişini işaret eder.
+• Stop seviyeleri, görebildiğimiz tek görünür stop seviyesi olduğu için önceki dip seviyeye yerleştirilir.
+• Girişten itibaren öngörülen hedef, giriş noktasının dip seviyesine olan uzaklığının (aynı zamanda stopların yerleştirildiği nokta) 
+1,5 katıdır.
+• Fiyat, düşük fiyata girişle aynı mesafeyi kat ettiğinde, işlem, nihai hedef belirlenerek zararı telafi 
+edecek noktaya taşınır veya kısmen kapatılır
+Bu işlem stratejisini kullanmanın avantajları şu şekilde özetlenebilir:
+• İki hareketli ortalamayı kullanmak ve trend oluştuktan sonra girmek düşük riskli bir işlem stratejisi 
+sunar
+• Dahili risk yönetimi, tüm işlemlerin en az 1:2 risk/ödül işlem stratejisiyle gelmesi anlamına gelir
+• Strateji H4 grafik aralığına dayandığından, işlemler için ortalama tutma süresi en fazla birkaç 
+günden bir haftaya kadar olabilir
+• Ticaret stratejisi oldukça nesneldir ancak ticaret kurulumlarını belirlemek için biraz pratik gerektirir
+Bu işlem stratejisini kullanmanın dezavantajları şunlardır:
+• İşlem kurulumları çok sık gerçekleşmez, bu nedenle hızlı işlemler yapmak isteyen yatırımcılar bunu bir dezavantaj olarak 
+göreceklerdir
+• Bazen, tüm kriterler karşılanmış olmasına rağmen, fiyat geri çekilmez ve yükselmeye devam eder, bu da kaçırılmış bir 
+fırsatla sonuçlanabilir. Dürtüsel yatırımcılar, bu tür senaryoları kuralları görmezden gelerek işleme atlamak için çok 
+cazip bulacaktır.
+Sınıflandırılmış - Gizli
+www.forexgercekleri.xyz - [Twitter: @eseckal]

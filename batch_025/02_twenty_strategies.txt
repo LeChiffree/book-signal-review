@@ -1,0 +1,612 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 3\Baskı 3\20 Trading Stratejisi (28 sayfa) - @eseckal.pdf
+PAGES: 28
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+5 Dakika Ticaret Sistemi # 1
+Çift:
+EUR/USD
+Göstergeler:
+MACD (12,26,1)
+Stokastik (5,3,3)
+EMA 5 sona yaklaşıyor
+EMA 5 açılıyor
+Satın Alma Sinyali:
+Stokastik 20 çizgisini geçtiğinde ve aşırı alımda olmadığında
+MACD önceki zaman aralığının üzerinde kapandı
+Sinyal mumu daha yüksek yükselişi kapatıyor
+Kapanıştaki 5 EMA, açılıştaki 5 EMA'yı geçti
+Zararı durdur 20 pip
+Kapanıştaki 5 EMA, açılıştaki 5 EMA'yı geçtiğinde kapatın
+Satış Sinyali
+Stokastik 80 çizgisini geçtiğinde ve aşırı satılmadığında
+MACD önceki zaman aralığının altında kapanıyor
+Sinyal mumu alt ayı kapatıyor
+Kapanıştaki 5 EMA, açılıştaki 5 EMA'yı geçti
+Zararı durdur 20 pip
+Kapanıştaki 5 EMA, açılıştaki 5 EMA'yı geçtiğinde kapatın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+5 Dakika Ticaret sistemi # 2
+Çiftler:
+EUR/USD
+Göstergeler:
+10 EMA
+21 EMA
+50 EMA
+Sistem Kuralları:
+5 dakikalık grafikte bir trendin gösterilmesini bekleyin, yükseliş trendinde daha yüksek zirveler ve düşüş trendinde 
+daha düşük dipler, trend gücü ve yönü için 50 EMA'ya bakın.
+Asya oturumunda ya da Londra ya da ABD oturumunun sonunda olmadığınızdan emin olun.
+İşlem yapmadan önce yakında çıkacak önemli bir haber olup olmadığını kontrol edin.
+Fiyat BÖLGE'ye girdiğinde, geri çekilmeyi bekleyin ve bir işlem açın, düşüş trendi için satış yapın ve yükseliş trendi için satın 
+alın.
+Zararı durdurmayı 5 pip + spread olarak ayarlayın
+Kâr almayı 10 pip olarak ayarlayın
+BÖLGE 10 EMA ile 21 EMA arasındaki alandır. 50 EMA, trendin gücü için göstergemizdir; iyi ve güçlü 
+bir trendde, yataydan yaklaşık 30 derece yukarı veya aşağı doğru bakmalıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+5 Dakikalık Ticaret Sistemi # 3
+Çiftler:
+EUR/USD, GBP/USD, USD/JPY, USD/CHF
+Göstergeler:
+Bollinger Bandı (20,2)
+Stokastik (5,3,3)
+Ticaret Kuralları:
+Bollinger bandının dışında bir kapanış gerçekleşmelidir.
+Stokastik osilatör aşırı satış bölgesinde (20'nin altında) veya aşırı alım bölgesinde (80'in üzerinde) olmalıdır
+Piyasa yükseliş eğilimindeyse kırmızı bir mum arayın. Piyasa düşüş eğilimindeyse yeşil mum arayın. 
+Bunlara “sinyal mumu” adını vereceğiz.
+Sinyal mumunuzu gördüğünüzde aynı yöne girin ve 10 pip'i hedefleyin.
+20 pip'te veya ticaret kurallarınıza göre zararı durdurun.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+5 Dakikalık Ticaret Sistemi # 4
+Çiftler:
+EUR/USD, GBP/USD, GBP/JPY
+Göstergeler:
+Bollinger Bandı (20,2)
+Uzun İşlemler İçin Kurallar:
+Bollinger bandının yukarıya doğru eğim yapması gerekiyor
+Fiyat yukarıdan orta bollinger bandına dokunduğunda uzun pozisyon alın
+Alt bantta veya 15 pip'te zararı durdurun
+Üst bantta kar elde edin
+Kısa İşlemler İçin Kurallar:
+Bollinger bandı aşağı doğru eğilmeli
+Fiyat aşağıdan orta bollinger bandına dokunduğunda kısa pozisyon açın
+Üst bantta veya 15 dakikada kaybı durdurun
+Alt bantta kar alın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+5 Dakikalık Ticaret Sistemi # 5
+Çiftler:
+Herhangi
+Göstergeler:
+3 dönem EMA 1 kaydırıldı (Sarı – nokta)
+5 dönem EMA 3'e kaydırıldı (Dodger Blue – katı – kalınlık 2)
+15 dönem EMA 3 kaydırıldı (Kırmızı – düz – kalınlık 1)
+45 dönem EMA 3'e kaydırıldı (Gri – kesikli)
+GHL(Merhaba Lo Kazan)
+QTI (Hızlı Trend Endeksi)
+Nasıl ticaret yapılır:
+Bu sistem Çoklu Zaman Çerçevesi Sistemini kullanmaktadır. Bir kurulum bulmak için daha yüksek bir zaman aralığı (15 dakika) 
+kullanacağız ve ardından gerçek ticareti aramak için daha düşük bir zaman aralığına (5 dakika) ineceğiz.
+Uzun Ticaret Kurulumu:
+Adım 1 – Daha yüksek zaman diliminde hareketli ortalamalar ve histogramların hepsi aynı hizada olmalıdır.
+Daha yüksek zaman diliminde:
+Fiyat 3 EMA'nın üzerindedir
+5 EMA üzerinden 3 EMA
+15 EMA üzerinden 5 EMA
+45 EMA üzerinden 15 EMA
+GHLyeşil
+QTI yeşil
+Adım 2 – Daha yüksek zaman diliminde, fiyatın 5 EMA kaymasına dokunması için geri çekilmesi gerekiyor3.
+Fiyat 5 EMA'ya dokunduktan sonra 3 EMA'nın 5 EMA'nın altına düşmesi muhtemeldir, bunda bir sorun yok! 5 
+EMA, 15 EMA'nın üzerinde kaldığı ve 15 EMA, 45 EMA'nın üzerinde kaldığı sürece, ilerlemeye devam edebiliriz. 5 
+EMA'ya dokunan mumun kapanmasına gerek yok. Yükseliş trendinde 5 EMA'ya dokunan mum kırmızı ayı mumu 
+olacaktır.www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Adım 3 – Derhal daha düşük zaman aralığına geçin
+Fiyat, yüksek zaman dilimindeki 5 EMA'ya dokunduğu anda, hemen alt zaman dilimine ineriz. 
+Bu, işlem yaptığımız zaman dilimidir.
+Adım 4 – Daha düşük zaman diliminde bir satın alma sinyali bekleyin.
+Bir satın alma sinyalinin 4 yönü vardır:
+Fiyat tüm hareketli ortalamaların üzerinde kapanıyor
+15 EMA, 45 EMA'nın üzerinde
+Her iki histogram da yeşil
+Daha yüksek zaman dilimi hâlâ yükseliş eğilimi gösteriyor (hareketli ortalamalar hâlâ doğru sırada ve 
+histogramlar hâlâ yeşil). Zaman aralığı yükseldikçe ve her şey hala iyi göründüğünde, giriş mumunun 
+kapanışında piyasa emri verebiliriz.
+Adım 5 – Daha düşük zaman diliminde zararı durdurma yerleşimini ve kar hedefini belirleyin.
+Durdurma kaybını son düşük seviyenin altına yerleştirin. Kâr hedefi zararı durdurma hedefiyle aynıdır. Risk/ödül oranı 1:1
+Kısa Ticaret Kurulumu:
+Adım 1 – Daha yüksek zaman diliminde hareketli ortalamalar ve histogramların hepsi aynı hizada olmalıdır.
+Fiyat 3 EMA'nın altında
+5 EMA kapsamında 3 EMA
+15 EMA kapsamında 5 EMA
+45 EMA kapsamında 15 EMA
+GHLkırmızı
+QTI kırmızı
+Adım 2 – Daha yüksek zaman diliminde, fiyatın 5 EMA kaydırılan 3 seviyesine dokunması için geri çekilmesi gerekiyor
+Adım 3 – Derhal daha düşük zaman aralığına geçin
+Adım 4 – Daha düşük zaman diliminde satış sinyalini bekleyin.
+Bir satış sinyalinin 4 yönü vardır:
+Fiyat tüm hareketli ortalamaların altında kapanıyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+15 EMA, 45 EMA'nın altındadır
+Her iki histogram da kırmızıdır
+Daha yüksek zaman dilimi hâlâ düşüş eğilimi gösteriyor (hareketli ortalamalar hâlâ doğru sırada ve 
+histogramlar hâlâ kırmızı). Zaman aralığı yükseldikçe ve her şey hala iyi göründüğünde, giriş mumunun 
+kapanışında piyasa emri verebiliriz.
+Adım 5 – Daha düşük zaman diliminde zararı durdurma yerleşimini ve kar hedefini belirleyin.
+Durdurma kaybını son yükselişin en yüksek seviyesinin üstüne yerleştirin. Kâr hedefi zararı durdurma hedefiyle aynıdır. Risk/ödül oranı 1:1
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+5 Dakikalık Ticaret Sistemi # 6
+Çiftler:
+EUR/USD
+Kurmak
+Bu forex stratejisi aynı anda 2 grafiğin açılmasını gerektirir. Bir işlem yapmadan veya açık işlemleri kapatmadan önce 
+önceki 5 dakikalık çubuğun kapanmasını beklemeyi unutmayın.
+5 dakikalık grafik:
+EMA (14)
+EMA (21)
+EMA (50)
+Bollinger Bantları (20, 20)
+1 saatlik grafik:
+EMA (14)
+EMA (21)
+EMA (50)
+Bollinger Bantları (20, 20)
+SATINALMAGirişi
+5 dakikalık grafik:
+EMA (14) > EMA (21)
+EMA (21) > EMA (50)
+EMA (50) Bollinger Bantları içerisindedir
+1 saatlik grafik:
+EMA (14) > EMA (21)
+EMA (21) > EMA (50)
+EMA (50) Bollinger Bantları içerisindedir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Mevcut çubuk EMA (14) veya EMA (21)'e dokunuyor
+Mevcut çubuk kapanış fiyatı açılış fiyatının üzerinde
+Yukarıdaki koşulların tümü hem 5 dakikalık grafikte hem de 1 saatlik grafikte karşılanıyorsa bir ALIŞ işlemi yapın. İşlem 
+yapmadan önce 5 dakikalık barın kapanmasını bekleyin.
+SATIŞGiriş
+5 dakikalık grafik:
+EMA (14) < EMA (21)
+EMA (21) < EMA (50)
+EMA (50) Bollinger Bantları içerisindedir
+1 saatlik grafik:
+EMA (14) < EMA (21)
+EMA (21) < EMA (50)
+EMA (50) Bollinger Bantları içerisindedir
+Mevcut çubuk EMA (14) veya EMA (21)'e dokunuyor
+Mevcut bar kapanış fiyatı açılış fiyatının altında
+Yukarıdaki koşulların tümü hem 5 dakikalık grafikte hem de 1 saatlik grafikte karşılanıyorsa bir SELLtrade yerleştirin. İşlem 
+yapmadan önce 5 dakikalık barın kapanmasını bekleyin.
+ÇIKIŞ
+Aşağıdaki koşullar mevcutsa işlemden çıkınArtık hem 5 dakikalık hem de 1 saatlik grafikte buluştu:
+Alım satım için EMA (14) > EMA (21) > EMA (50).
+Satış ticareti için EMA (14) < EMA (21) < EMA (50).
+EMA (50) Bollinger Bantları içerisindedir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+5 Dakikalık Ticaret Sistemi # 7
+Çiftler
+Bu yöntem, GBPJPY veya GBPUSD gibi değişken çiftlerde en iyi şekilde çalışır.
+Kurmak
+08:00 EST'de (New York Saati), önceki saatin en yüksek ve en düşük değerlerini içeren bir kutu çizin.
+Giriş
+Fiyat kutu yüksekliğinin %20'si kadar üzerine çıkarsa SATIN ALIN.
+SATFiyat kutu yüksekliğinin %20'si kadar altına düşerse.
+Bu sinyal oluşturulduktan sonra yalnızca bir saat süreyle geçerlidir.
+çıkış
+Fiyat kutu yüksekliğinin %400 üzerine ulaştığında SATIN AL işlemini kapatın.
+Fiyat kutu yüksekliğinin %400 altına düştüğünde SELLtrade'i kapatın.
+SATIN AL işlemi için ilk zararı durdurma kutunun alt kısmıdır.
+SELLtrade için ilk durdurma kaybı kutunun en üstündedir.
+Kazanılan karı yakalamak için kutunun boyutuna eşdeğer bir takip durdurucu yerleştirin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+5 Dakikalık Ticaret Sistemi # 8
+Çiftler:
+Herhangi
+Göstergeler:
+Bollinger bantları:
+Dönem 50, Sapmalar 2 – Kırmızı
+Dönem 50, Sapmalar 3 – Sarı
+Dönem 50, Sapmalar 4 – Turuncu
+3. periyotlu RSI
+Stokastik (6,3,3)
+Uzun Giriş:
+Mumun Kırmızı Bollinger Bandına dokunmasını veya nüfuz etmesini bekleyin. RSI şu anda 20'nin altında olmalı. Stokastik 
+de öyle. Bir sonraki mum Kırmızı Bollinger Bandından geri çekilirse, RSI 20 seviyesinin üzerine düşer ve satın alma emri 
+verdiğiniz stokastik çizgileri (40'ın üzerinde veya sadece 40'ın üzerinde) geçer.
+Satış Girişi:
+Mumun Kırmızı Bollinger Bandına dokunmasını veya nüfuz etmesini bekleyin. RSI şu anda 80'in üzerinde 
+olmalı. Stokastik de öyle. Bir sonraki mum Kırmızı Bollinger Bandından geri çekilirse, RSI 80 seviyesinin altına 
+düşer ve satış emri verdiğiniz stokastik çizgileri (60'ın hemen altında) geçer.
+Çıkış:
+Sarı veya Turuncu Bantta zararı durdurma
+Kâr alın: Orta bantta.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+5 Dakikalık Ticaret Sistemi # 9
+Çiftler:
+Herhangi
+Göstergeler:
+50 EMA
+100 EMA
+MACD (12,26,9)
+Uzun İşlemler:
+Para biriminin hem 50 EMA hem de 100 EMA'nın üzerinde işlem görmesini bekleyin
+Fiyat 50 EMA'nın üzerine 10 pip veya daha fazla kırıldığında, MACD son beş çubuk içinde pozitife 
+geçerse uzun girin, aksi takdirde bir sonraki MACD sinyalini bekleyin.
+İlk durdurma, girişten itibaren beş bar düşük seviyeye ayarlandı.
+Pozisyonun yarısından iki kat riskle çıkın; başabaş noktasına kadar durma hareketini yapın.
+Fiyat 50 EMA'nın 10 pip altına düştüğünde ikinci yarıdan çıkın.
+Fiyat sadece 50 ila 100 EMA arasında işlem görüyorsa, işlemi yapmayın.
+Kısa İşlemler:
+Para biriminin hem 50 EMA hem de 100 EMA'nın altında işlem görmesini bekleyin.
+Fiyat 50 EMA'nın 10 pip veya daha fazla altına düştüğünde, MACD son beş çubuk içinde negatife 
+geçerse kısa pozisyon girin; aksi takdirde bir sonraki MACD sinyalini bekleyin.
+İlk durdurma, girişten itibaren beş bar yüksekliğe ayarlandı.
+İki kat riskle pozisyonun yarısından çıkın, durağı başabaş noktasına getirin.
+Fiyat 50 EMA'nın 10 pip üzerine çıktığında kalan pozisyondan çıkın.
+Fiyat sadece 50 ila 100 EMA arasında işlem görüyorsa, işlemi yapmayın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+5 Dakikalık Ticaret Sistemi # 10
+Çiftler:
+Herhangi
+Göstergeler:
+40 EMA
+80 EMA
+CCİ (21)
+Tüzük:
+Yalnızca 40 EMA 80 EMA'nın üzerindeyse satın alırız ve yalnızca 40 EMA 80 EMA'nın altındaysa satarız. 40 EMA 80 
+EMA'nın üzerindeyse, CCI göstergeleri 0,0'ın altından 0,0'ın üzerine geçtiğinde alım yapmayı düşünüyoruz. 40 
+EMA 80 EMA'nın altındaysa, CCI göstergeleri 0,0'ın üstünden 0,0'ın altına geçtiğinde satış yapmayı düşünüyoruz
+Kaybı durdurmak
+10 – 15 pip
+Kar almak
+10 – 15 pip
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+5 Dakikalık Ticaret Sistemi # 11
+Çiftler:
+Herhangi
+Göstergeler:
+5 EMA
+10 EMA
+RSI (14)
+Stokastik (5,3,3)
+MACD (12,26,9)
+SATIN ALMAK:
+4 saatlik grafiği açın:
+5 EMA 10 EMA'nın üzerindeyse trend yukarı yönlüdür
+5 dk / 15 dk grafiğini açın:
+5 EMA, 10 EMA'nın üzerinde geçmelidir
+RSI > 50
+Stokastik yukarı yönlü olmalı ve aşırı alım bölgesinde olmamalıdır
+MACD histogramı negatiften pozitife gitmeli veya MACD histogramları negatif olup değeri artmaya 
+başlamalıdır.
+SATMAK:
+4 saatlik grafiği açın:
+5 EMA 10 EMA'nın altındaysa trend aşağı yönlüdür
+5 dk / 15 dk grafiğini açın:
+5 EMA, 10 EMA'nın altına geçmelidir
+RSI < 50
+Stokastik aşırı satış bölgesinde değil, aşağı yönlü olmalı
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+MACD histogramları pozitiften negatife gitmeli veya MACD histogramları pozitif olup değer düşmeye 
+başlamalıdır.
+Zararı Durdurma ve Kar Hedefi:
+Zararı Durdur = 20 - 30 pip
+Kâr Hedefi = 20 - 30 pip
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+5 Dakikalık Ticaret Sistemi # 12
+Çiftler:
+Herhangi
+Göstergeler:
+16 EMA
+48 EMA
+Laquerre
+Uzun Giriş:
+Kapanış fiyatı 16 EMA'nın üzerinde kalmaktır
+16 EMA, 48 EMA'nın üzerinde kalıyor
+Laquerre 0,8 seviyesinin üzerine çıktı
+Kaybı durdurmak:
+Giriş noktasının 30 pip altında
+Kâr Hedefi:
+20 – 30 pip
+Kısa Giriş:
+Kapanış fiyatı 16 EMA'nın altında kalacak
+16 EMA, 48 EMA'nın altında kalıyor
+Laquerre 0,2 seviyesinin altına indi
+Kaybı durdurmak:
+Giriş noktasının 30 pip üzerinde
+Kâr Hedefi:
+20 – 30 pip
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+5 Dakikalık Ticaret Sistemi # 13
+Çiftler:
+EUR/USD
+GBP/USD
+Göstergeler:
+CCİ (14)
+MACD (12,26,9)
+Uzun Giriş
+CCI AŞAĞIDAN +100'ü geçiyor (bu, CCI'nın aşırı alım bölgesine girmesi gerektiği anlamına geliyor)
+MACD hareketli ortalaması histogramın altında olmalı
+MACD histogram çubuğunun önceki çubuktan daha yüksek bir değere sahip olması gerekir.
+Kısa Giriş
+CCI -100'ü YUKARIDAN geçiyor (bu, CCI'nın aşırı satış bölgesine girmesi gerektiği anlamına geliyor)
+MACD hareketli ortalaması histogramın üzerinde olmalı
+MACD histogram çubuğunun önceki çubuktan daha düşük bir değere sahip olması gerekir.
+Kaybı durdurmak:
+12 – 15 pip
+Kâr Hedefi:
+AUD/USD => 7 pip
+EUR/USD => 8 pip
+GBP/USD => 10 pip
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+5 Dakikalık Ticaret Sistemi # 14
+Çiftler:
+Herhangi
+Göstergeler:
+10 WMA
+20 SMA
+Yavaş Stokastik (10,6,6) üstel
+RSI (28)
+MACD (24,52,18)
+Satın Alma Kuralları:
+10 WMA> 20 SMA
+Stokastik sinyal veriyor (yavaş çizginin üzerinde hızlı çizgi)
+RSI > 50
+MACD > 0
+Satış Kuralları:
+10 WMA< 20 SMA
+Stokastik aşağı sinyal veriyor (hızlı çizgi yavaş çizginin altında)
+RSI < 50
+MACD < 0
+Kaybı durdurmak:
+son salınım yüksek/düşük
+Kâr Hedefi:
+zararı durdurmayla aynı
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+5 Dakikalık Ticaret Sistemi # 15
+Çiftler:
+Herhangi
+Göstergeler:
+15 EMA
+50 EMAYüksek
+50 EMADüşük
+MACD (15,70,1,24)
+Uzun Ticaret Kuralları:
+15 EMA, 50 EMA kanalının üzerindedir
+MACD yeşil
+Yeşil bir ok var
+Kısa Ticaret Kuralları:
+15 EMA, 50 EMA kanalının altındadır
+MACD kırmızı
+Kırmızı bir ok var
+Kaybı durdurmak
+son salınım yüksek/düşük
+Kâr Hedefi
+Stoploss ile aynı
+Not:
+Çoğu zaman 15 EMA, 50 EMA kanalının hemen içinde olduğunda iyi sinyaller vardır. 15 EMA, 50 EMA 
+kanalının içindeyken işlem yapmanın ne zaman uygun olduğunu anlamak için pratik yapın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+5 Dakikalık Ticaret Sistemi # 16
+Çiftler:
+EUR/USD
+GBP/USD
+AUD/USD
+USD/CHF
+Göstergeler:
+Yönsel Hareket Endeksi (ADX) => ayar: (DI+, DI-, 14 dönem)
+5 Ağırlıklı Hareketli Ortalama (yakın)
+11 Basit Hareketli Ortalama (kapat)
+Parabolik Sar (0,1, 0,01)
+Uzun Giriş:
+5 WMA> 11 SMA
+Mumların altındaki Parabolik Sar
+ADX DI+ > DI-
+Kısa Giriş:
+5 WMA< 11 SMA
+Mumların üzerinde Parabolik Sar
+ADX DI- > DI+
+Çık ve Durdur
+Çıkış => Ters yönde veya kendi takdirinize bağlı olarak Parabolik Sar sinyali.
+Dur => önceki salınım yüksek / düşük
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+5 Dakikalık Ticaret Sistemi # 17
+Çiftler:
+Büyük Çift
+Göstergeler:
+3 EMA (su)
+8 EMA (sarı)
+MACD (12,26,9)
+Stokastik (10,15,15)
+Parabolik SAR (0,02, 0,2)
+SD (20)
+RSI (9)
+ÖNEMLİ ! Standart Sapma (20) değerine dikkat edin:
+AUD ve NZD Çiftleri:
+0,0001 – 0,0005 => zayıf
+0,0005 – 0,0010 => orta
+> = 0,0010 => güçlü
+JPYP çiftleri:
+0,05 – 0,10 => zayıf
+0,10 – 0,20 => orta
+> = 0,20 => güçlü
+Diğer Çiftler:
+0,005 – 0,010 => zayıf
+0,010 – 0,020 => orta
+> = 0,020 => güçlü
+Uzun Ticaret Kuralları:www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+3 EMA> 8 EMA
+Mumun altındaki parabolik SAR
+MACD > 0
+Stokastik: mavi çizgi kırmızı çizgiyi geçiyor
+Orta veya güçlü piyasada Standart Sapma.
+Tüm koşullar yerine getirilirse => açık alım pozisyonu.
+3 EMA< 8 EMA ise pozisyonu kapat
+Son dönemdeki en düşük seviyede Kaybı Durdur
+Kısa Ticaret Kuralları:
+3 EMA< 8 EMA
+Mumun üzerinde parabolik SAR
+MACD < 0
+Stokastik: mavi çizgi kırmızı çizgiyi geçiyor
+Orta veya güçlü piyasada Standart Sapma.
+Tüm koşullar yerine getirilirse => açık satış pozisyonu.
+3 EMA> 8 EMA ise pozisyonu kapat
+Son yükselişin en yüksek seviyesinde Kaybı Durdur
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+5 Dakikalık Ticaret Sistemi # 18
+Çiftler:
+Herhangi
+Göstergeler:
+20 EMA
+MACD (12,26,9)
+Uzun bir ticaretin kuralları:
+1. 20 EMA ve MACD'nin altındaki döviz çifti işlemlerinin negatif olup olmadığına bakın.
+2. Fiyatın 20 EMA'nın üzerine çıkmasını bekleyin, ardından MACD'nin ya negatiften pozitife geçiş sürecinde 
+olduğundan ya da beş bardan daha uzun bir süre önce pozitif bölgeye geçtiğinden emin olun.
+3. 20 EMA'nın 10 pip üzerinde uzun pozisyon alın.
+4. Agresif bir ticaret için, beş dakikalık grafikteki en düşük salınım noktasına zararı durdur emrini verin. 
+Muhafazakar bir ticaret için, 20 EMA'nın 20 pip altına bir stop koyun.
+5. Girişteki pozisyonun yarısını artı riske edilen tutarı satın, ikinci yarıdaki stopu başabaş noktasına 
+taşıyın.
+6. Durdurmayı 20 EMAeksi 15 pip kadar takip edin.
+Kısa ticaret kuralları:
+1. Döviz çifti ticaretinin 20 EMA ve MACD seviyesinin pozitif olup olmadığına bakın.
+2. Fiyatın 20 EMA'nın altına geçmesini bekleyin, ardından MACD'nin ya pozitiften negatife geçiş 
+sürecinde olduğundan ya da en fazla beş bar önce negatif bölgeye geçtiğinden emin olun.
+3. 20 EMA'nın 10 pip altına short pozisyon açın.
+4. Agresif bir ticaret için, beş dakikalık grafiğin en yüksek noktasına zararı durdur seçeneğini koyun. 
+Muhafazakar bir ticaret için, 20 EMA'nın 20 pip üzerine bir stop koyun.
+5. Girişteki pozisyonun yarısını artı riske edilen tutarı satın, ikinci yarıdaki stopu başabaş noktasına 
+taşıyın.
+6. Durdurmayı 20 EMAeksi 15 pip kadar takip edin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+5 Dakikalık Ticaret Sistemi # 19
+Çiftler:
+EUR/USD
+GBP/USD
+AUD/USD
+Göstergeler:
+Parabolik Sar (0,01-0,01)
+MACD renkli (64,128,9)
+100 EMA
+Uzun Giriş:
+Fiyat 100 EMA'nın üzerinde olduğunda ve Parabolik Sar yükseldiğinde ve MACD > 0 olduğunda
+Kısa Giriş:
+Fiyat 100 EMA'nın altında olduğunda ve Parabolik Sar düştüğünde ve MACD < 0 olduğunda
+Kaybı durdurmak:
+Zararı durdur ilk Parabolik Sar noktasının 3 pip altına/üstüne yerleştirin.
+Kar almak:
+7 – 12 pip veya daha iyisi
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+5 Dakikalık Ticaret Sistemi # 20
+Çiftler:
+Herhangi
+Göstergeler:
+3 EMA
+Bollinger Bandı (20,3)
+MACD (12,26,9)
+Uzun girin:
+3 EMA aynı anda orta banttan geçtiğinde, MACD yukarıya doğru sıfır çizgisine yaklaşmalı veya 
+kesişmelidir.
+Kısa Girin:
+3 EMA aynı anda orta banttan aşağıya geçtiğinde, MACD'nin aşağı inen sıfır çizgisine 
+yaklaşması veya geçmesi gerekir.
+Kaybı durdurmak:
+10 – 15 pip
+Hedef kâr:
+10 – 15 pip
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+SON SÖZLER
+Bu kitabı indirdiğiniz için teşekkür ederiz. Umarım bu kitap forex ticareti maceranıza hızlı bir şekilde başlamanıza yardımcı 
+olabilmiştir. Bu kitabı beğendiyseniz lütfen düşüncelerinizi paylaşmak ve Amazon'da bir inceleme yayınlamak için zaman 
+ayırın. Çok takdir edilecektir!
+Size ticarette başarılar diliyorum,
+Thomas Carter
+www.forexgercekleri.xyz - [Twitter: @eseckal]

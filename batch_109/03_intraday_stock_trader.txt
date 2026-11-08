@@ -1,0 +1,159 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 26\Baskı 26\Gün İçi Trading Stratejisi - Gelişmiş Bir Gün İçi İşlem Yöntemini Öğren - Stock Trader - Orijinal (10 sayfa) - @eseckal.pdf
+PAGES: 10
+
+
+=== PDF PAGE 1 ===
+
+
+
+=== PDF PAGE 2 ===
+INTRADAY TRADING STRATEGY
+LEARN AN ADVANCE INTRADAY TRADING
+STRATEGY IN BANKNIFTY FUTURES
+STOCK TRADER
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Contents
+ 
+Title Page
+Copyright
+INTRODUCTION
+BUY AND SELL RULES OF THE STRATEGY
+STRATEGY CODE
+PERFOMANCE METRICS
+CONCLUSION
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+INTRODUCTION
+My main purpose of starting this book series is that each and every
+trader should be able to create his own trading ideas and strategies. In this
+book, you will also learn different technical analysis concepts which will
+help you to create your own trading strategies.  In this book series, I have
+directly shared the rules of the trading strategy rather than going into basics
+of stock market. So, this is not a book for you if you are looking to learn the
+basics of stock market but the strategies that I have shared can be easily
+understood by beginner traders.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+BUY AND SELL RULES OF THE
+STRATEGY
+BUY RULES
+1. Prices should close above the VWAP.
+2. ADX should be below the 30 level.
+3. RSI should cross and close above the 55 level.
+SELL RULES
+1. Prices should close below the VWAP.
+2. ADX should below the 30 level.
+3. RSI should cross and close below the 35 level.
+BUY EXIT RULES
+1. Prices should close below the VWAP or after the 3.00 the buy
+position will automatically get squared off.
+SELL EXIT RULES
+1. Prices should close above the VWAP or after the 3.00 the sell
+position will automatically get squared off.
+(NOTE – I have added one more condition that the buy and sell trades
+should happen between 09.15  & 14.30 )
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+STRATEGY CODE
+//@version=5
+strategy('Intraday Trading Strategy', overlay=true, precision=4,
+initial_capital=300000)
+// INPUT CONTROLS
+tradetime = input.session(title='tradetime', defval='0915-1430')
+timeframe = input.timeframe(title='timeframe', defval='15')
+sqsession = input.session(title='squareofftime', defval='1445-1500')
+iqty      = input.float(title='quantity', defval=1, minval=1, maxval=500)
+EOD       = input.session(title='EOD', defval='1515-1530')
+length2   = input.int(title='LengthADX', defval=20, minval=1,
+maxval=100, step=1)
+length3   = input.int(title='DIlength', defval=10, minval=1, maxval=100,
+step=1)
+ADXLEVEL  = input.int(title='ADXLEVEL', defval=30, minval=1,
+maxval=100, step=1)
+RSIL      = input.int(title='RSI', defval=14, minval=1, maxval=100,
+step=1)
+// funcation declaration
+barsinsession(tradetime) =>
+time(timeframe, tradetime) != 0
+insession = barsinsession(tradetime) ? 1 : 0
+endsession = insession == 0 and insession[1] == 1
+// squareofftiming
+squareoffsession = barsinsession(sqsession) ? 1 : 0
+squareoffpos = squareoffsession == 1 and squareoffsession[1] == 0
+// ENDSESSION
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Endsession = barsinsession(EOD) ? 1 : 0
+endofsession = Endsession == 1 and Endsession[1] == 0
+// TRADING INDICATORS
+VWAP = ta.vwap((high + low) / 2)
+bvwap = close > VWAP
+svwap = close < VWAP
+RSI = ta.rsi(close,RSIL)
+[diplus, diminus, adx] = ta.dmi(length3, length2)
+// Buy and sell signals
+buy  = bvwap  and adx < ADXLEVEL and insession and
+ta.crossover(RSI,55)
+sell = svwap and adx < ADXLEVEL and insession and
+ta.crossunder(RSI,35)
+//exit logic
+buyexit  = close < VWAP or squareoffpos
+sellexit = close > VWAP or squareoffpos
+// remove excess signals
+var islong  = false
+var isshort = false
+buy  := not islong and buy
+sell := not isshort and sell
+if buy
+islong  := true
+isshort := false
+if sell
+islong  := false
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+isshort := true
+if endofsession
+islong  := false
+isshort := false
+// market entry
+strategy.entry('long', strategy.long, when=buy, comment='B', qty=iqty)
+strategy.entry('short', strategy.short, when=sell, comment='S', qty=iqty)
+// market exit
+strategy.close('long', when=buyexit, comment='S')
+strategy.close('short', when=sellexit, comment='B')
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+PERFOMANCE METRICS
+Length of backtesting – 2020 – 2021 (NOTE – BACKTESTING
+LENGTH IS OF 1 YEAR)
+Initial capital – 300000
+Commission and slippage – 0.03%
+Net profit – 31.48%
+Total closed trades  - 105
+Profit factor – 1.69
+Max Drawdown – 6.29
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+CONCLUSION
+As said above, I have directly shared the rules of the strategy and not
+gone into the basics of the stock market or indicators. So, I really hope that
+you use the rules of the strategy into your trading system or create
+something new from the shared strategy. Thank you.
+www.forexgercekleri.xyz - [Twitter: @eseckal]

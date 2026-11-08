@@ -1,0 +1,377 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 1\Baskı 1\Kolay Para ile VWAP Trade Stratejisi (24 sayfa) - @eseckal.pdf
+PAGES: 24
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+VWAP
+Vwap ticaret stratejisini öğrenmeden önce VWAP'ın ne olduğunu öğrenmeliyiz.
+VWAP Nedir?
+Gün içi grafiklerde hacim ağırlıklı ortalama fiyat (VWAP), her yeni işlem 
+seansının başlangıcında sıfırlanan bir teknik analiz göstergesidir.
+VWAP, yatırımcılara bir menkul kıymetin hareketi ve değeri hakkındaki fiyatlandırma 
+bilgilerine erişim sağladığı için önemlidir.
+Bir menkul kıymetin hem hacim hem de fiyat açısından işlem gördüğü günlük 
+ortalama fiyatı gösteren, alım satım için bir ölçüttür.
+Gün içi grafiklerde hacim ağırlıklı ortalama fiyat (VWAP) tek 
+satır olarak görüntülenir.
+Görünüm olarak hareketli ortalama çizgisine benzer ancak daha pürüzsüzdür. 
+VWAP, tek bir işlem günü boyunca fiyat hareketinin görünümünü gösterir.
+VWAP, gün içi fiyat modellerini belirlemek için hem amatör hem de deneyimli yatırımcılar 
+tarafından kullanılabilir.
+Kısa vadeli yatırımcılar genellikle VWAP'tan en büyük faydayı elde ediyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Hacim Ağırlıklı Ortalama Fiyat: Genel 
+Bakış
+VWAP, her bir işlem için işlem gören tüm tutarın (fiyat çarpı hacim) 
+toplanması ve taşınan toplam hisse sayısına bölünmesiyle hesaplanır.
+VWAP = Kümülatif Tipik Fiyat x Hacim/Kümülatif Hacim
+Tipik Fiyat = Yüksek fiyat + Düşük fiyat + Kapanış Fiyatı/3
+Kümülatif = işlem seansının açılışından bu yana toplam.
+VWAP nasıl anlaşılır?
+VWAP göstergesi bir akış grafiğine eklendiğinde hesaplama otomatik olarak 
+gerçekleştirilecektir. Ancak VWAP'yi kendi başınıza hesaplamak için aşağıda 
+listelenen teknikleri kullanın.
+15 dakikalık bir grafik varsayılmaktadır. Hangi gün içi zaman aralığı kullanılırsa 
+kullanılsın hesaplama aynı kalır.
+1. Hisse senedinin günün ilk 15 dakikasındaki ortalama fiyatını bulun. Yüksek, 
+düşük ve kapanış değerlerini toplayın ve bunu elde etmek için üçe bölün. Bu, 
+o zaman dilimindeki hacimle çarpılır. Bir e-tabloda, PV sütunundaki sonucu 
+not edin.
+2. PV'yi o zaman periyodundaki hacimden çıkarın. VWAP bundan 
+kaynaklanacaktır.
+3. Gün boyunca VWAP'yi korumak için her dönemdeki PV değerini 
+önceki değerlere eklemeye devam edin. Bu toplamı o noktaya 
+kadar olan hacme bölün.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+VWAP nasıl uygulanır?
+Yatırımcılar VWAP'ı birçok şekilde kullanıyor. VWAP, yatırımcılar tarafından trendleri 
+doğrulamak ve ticaret kuralları oluşturmak için kullanılabilir. Örneğin, fiyatlarının VWAP'ın 
+altında veya üstünde olmasına bağlı olarak hisse senetlerini düşük değerli veya aşırı değerli 
+olarak görebilirler. Fiyatlar VWAP'ın altından yükselip üzerine çıkarsa yatırımcılar hisse 
+senedini satın alabilir. VWAP'ın üzerindeki fiyatlar bunun altına düşerse pozisyonlarını 
+satabilirler veya kısa pozisyon başlatabilirler.
+VWAP, yatırım fonları da dahil olmak üzere kurumsal alıcıların mümkün olan en az piyasa 
+etkisi ile borsaya girmelerine veya borsadan çıkmalarına olanak tanır. Bu nedenle kurumlar 
+mümkün olduğunca VWAP'nin altında alım yapmaya veya üzerinde satış yapmaya 
+çalışacaklar. Bunu yaparken fiyatı ortalamadan uzaklaştırmak yerine geriye doğru hareket 
+ettirirler.
+VWAP İLE HAREKETLİ ORTALAMA ARASINDAKİ 
+FARK
+VWAP ve basit hareketli ortalama (SMA) bir grafikte benzer şekilde 
+görünebilir. Ancak bu iki değişken farklı şekilde hesaplanır ve çeşitli 
+sonuçları yansıtır.
+VWAP, olağan fiyat hacimle çarpıldıktan sonra toplam hacme 
+bölünerek belirlenir.
+Halbuki
+Basit bir hareketli ortalamaya hacim değil fiyat dahildir. SMA, belirli bir 
+zaman dilimi (10 gün diyelim) için tüm kapanış fiyatlarının toplanması ve 
+ardından bu toplamın toplam dönem sayısına (10) bölünmesiyle belirlenir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+VWAP'ın sınırlamaları
+Tek günlük bir gösterge olarak VWAP, her yeni işlem gününün 
+başlangıcında yeniden başlar. Çok sayıda gün üzerinden hesaplanan bir 
+VWAP ortalamasını kullanmak hatalı olabilir.
+Her ne kadar bazı kurumlar bir menkul kıymetin fiyatı VWAP'ın altındayken almayı 
+veya üstündeyken satmayı tercih etse de, dikkate alınması gereken tek husus VWAP 
+değildir. Güçlü yükseliş trendleri, fiyatın birkaç gün boyunca istikrarlı bir şekilde 
+yükselmesine, ancak çok nadiren VWAP'ın altına düşmesine neden olabilir. Bu 
+nedenle fiyatlar hızlı bir şekilde artıyorsa VWAP'a ulaşana kadar beklemek fırsatın 
+boşa gitmesine neden olabilir.
+VWAP önceki verilere dayanmaktadır ve otomatik olarak herhangi bir tahmin 
+yeteneğine sahip değildir. VWAP günün açılış fiyat aralığına sabitlenmiştir. Sonuç 
+olarak, göstergenin gecikmesi gün içinde uzar.
+Bu, bir işlem seansının 330 dakikasındaki 1 dakikalık bir VWAP 
+hesaplamasının, seansın kapanışındaki 390 dakikalık hareketli ortalamaya 
+sıklıkla benzeyeceği gerçeğiyle kanıtlanmaktadır.
+Hacim Ağırlıklı Ortalama Fiyat (VWAP) tam olarak 
+nedir?
+Bir menkul kıymetin ortalama fiyatı, hacim ağırlıklı ortalama fiyat veya VWAP 
+adı verilen bir hesaplama kullanılarak görüntülenir. Belirli bir işlem seansı 
+sırasında, menkul kıymette işlem gören toplam tutarın (fiyat), işlem 
+miktarına (hacim) bölünmesiyle belirlenir. VWAP, kümülatif tipik fiyatın 
+kümülatif hacme bölünmesiyle hesaplanır.
+Hacim Ağırlıklı Ortalama Fiyat Ne Kadar Önemli?
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+VWAP, yatırımcılara bir menkul kıymetin zaman içindeki fiyatının (hacme göre ayarlanmış) 
+yuvarlanmış bir temsilini sağlar. Kurumsal yatırımcılar bunu, alım satımlarının almaya veya 
+satmaya çalıştıkları menkul kıymetin fiyatını ne kadar ciddi şekilde etkileyeceğini kontrol etmek 
+için kullanırlar.
+Menkul kıymetin fiyatının yapay olarak şişirilmesini önlemek için, bir 
+hedge fonu VWAP'den daha yüksek bir fiyat için satın alma emri 
+vermemeye karar verebilir. Ayrıca satışın fiyatı düşürmemesi için 
+VWAP'nin çok altında sipariş vermekten kaçınabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+VWAP TİCARET STRATEJİSİ
+VWAP Ticaret Stratejisi nedir?
+Hacim Ağırlıklı Ortalama Fiyata VWAP denir. Kısa vadeli yatırımcıların ve 
+algoritma tabanlı ticaret platformlarının çoğu bu araçları kullanır.
+VWAP, akıllı paranın ne kadar iyi işlem gördüğünü ölçmek için sıklıkla kullanılır. 
+Kurumsal tüccarlar fiyatlarını VWAP değerleriyle karşılaştırıyor. Bunlar, yatırım 
+bankaları veya hedge fonları için çalışan ve her gün büyük miktarlarda hisse ticareti 
+yapmak zorunda olan yetenekli tüccarlardır. Gün içerisinde stokta yüklü miktarda 
+pozisyon alıp satarak piyasaya girip çıkamazlar.
+Hisse senedi indirimli olarak satın alındığından, VWAP'nin altında doldurulan bir satın 
+alma emrini başarılı bir dolum olarak değerlendireceklerdir (bu, tüccarın büyük 
+pozisyonunu piyasaya kıyasla nispeten indirimli bir fiyatla satın aldığı anlamına gelir). 
+satın almanın tersi
+Bu nedenle kurumsal yatırımcılar avantajlı giriş ve çıkış noktalarını belirlemek için 
+VWAP'ı kullanıyor. Öte yandan, yetenekli bir tüccar, büyük bir pozisyonu tasfiye 
+etmesi gerektiğinde VWAP veya daha yüksek bir fiyattan satış yapmaya çalışacaktır. 
+Seçtiğiniz zaman diliminin önemli avantajları VWAP'ta mevcuttur.
+VWAP Ticaret Stratejisinin Kullanımı
+1. VWAP güç yapısını ortaya koyuyor.
+2. Açılışta VWAP pazar trendini belirleyebilir.
+3. VWAP hem destek hem de direnç sağlar.
+VWAP güç yapısını ortaya koyuyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+VWAP bir sinyaldir; fiyatı belirlemekten kimin sorumlu olduğunu (alıcılar mı yoksa 
+satıcılar mı) ortaya çıkarır. Bir hisse senedi VWAP'ın üzerinde işlem görüyorsa, bu, 
+alıcıların fiyatı belirleme sorumluluğunu taşıdığını ve piyasada hisse senedine talep 
+olduğunu gösterir. Hisse senedi fiyatı düşüp VWAP'ın altında kapandığında satıcıların 
+fiyatı kontrol altına aldığına inanmak yanlış olmaz.
+1. VWAP'ın yükseliş eğilimi, kontrolün alıcılarda olduğunu gösteriyor.
+2. Düşen VWAP, sorumluluğun satıcıların olduğunu gösterir.
+3. VWAP sabitse, piyasadan kimse sorumlu değildir ve fiyat bir ticaret 
+aralığındadır.
+VWAP hem destek hem de direnç sağlar.
+Akıllı Nakit vwap'in üstünde satış yapın ve vwap'in altında satın alın. Pazara 
+büyük bir sipariş girerse VWAP'tan satın alırlardı; bu nedenle, fiyat VWAP'nin 
+altına kapanamadığında ve buradan reddedildiğinde, bir gölge, yutucu bir 
+formasyon veya bir dış çubuk yaratıldığında, bu durum destek ve direnç 
+seviyelerini güçlendirir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Fiyat hareketi ve hacim, destek ve direnci 
+teyit ediyor
+Resim 1:
+Resim 2:
+Resim 3:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+VWAP ticaret stratejisini kullanarak piyasa 
+trendini belirleyin.
+Gözlemler
+1. Piyasa, yükseliş trendinin olduğu günlerde VWAP'ın üzerinde kalıyor.
+2. Piyasa düşüş eğilimi olan günlerde VWAP'ın altında kalıyor.
+3. Piyasa, seans seansları sırasında temelde düz olan VWAP'nin 
+yakınında kalıyor.
+Bu gözlemler, VWAP'ın yatırımcıların piyasa trendini belirlemelerine yardımcı olma konusunda büyük 
+bir potansiyele sahip olduğunu gösteriyor.
+Piyasa açıldıktan sonra fiyat çubukları açılır ve piyasa başladıktan sonra 
+VWAP sıklıkla kesişir. Gecelik hissedarlar, yeni yatırımcılar ve kurumsal 
+tüccarlar arasında bilinmeyen yoğun ticaret ilk beş dakikada gerçekleşir. 
+Piyasa önyargısından sapmaya çalışmadığı sürece, metodolojimize uygun 
+olarak piyasa eğilimi değerlendirilemez.
+Hisse senedi iki yönden birinde hareket edecek: Açıkta on ila on beş dakika içinde 
+volatilite azalmaya başladıktan sonra VWAP'ye doğru veya VWAP'tan uzaklaşacak. Bu, 
+büyük bir yatırım bankasının piyasada satın almak veya satmak için olup olmadığını 
+görmek için yapılan bir testtir. Önemli bir kurumsal tüccarın (akıllı para) büyük bir 
+pozisyon satın almak istemesi durumunda hisse senedi VWAP'ı geçecek ve daha da 
+yükselecektir. Bu şansı daha ileri gitmek için kullanmalıyız. Açığa satışın aksine, piyasa 
+yapıcıların, kurumların veya akıllı paranın hisse senedine ilgi göstermemesi durumunda 
+fiyat VWAP etrafında salınabilir. Bu stoktan kaçınmak en iyi hareket tarzı olacaktır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+TREND OTURUMU
+Adım 1: Aynı yönü gösteren en az iki veya üç mum arayın.
+Adım 2: Başlangıç   fiyatı ona yaklaştıkça VWAP'tan 
+uzaklaşmayı izleyin (fiyat vwap'te durmamalıdır).
+Adım 3: Bir yükseliş trendi için son yüksek salınımdan veya düşüş trendi için son düşük salınımdan gelen 
+itişin sürdürülüp sürdürülmediğini veya VWAP seviyesine geri döndürülüp reddedilmediğini kontrol edin.
+Mükemmel bir takiple VWAP'tan uzaklaşırlarsa bir trend seansı 
+düşünün. Daha sonra trend yönünde momentum işlemleri yapmayı 
+düşünebilirsiniz. Piyasa VWAP'a geri çekilmeyi reddederse, yatay bir 
+seans olduğunu varsayalım. Bu durumda, ortalamaya dönüş işlemleri 
+yapmayı düşünün.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+DEĞİŞİM OTURUMU
+James Dalton'un Mind over Markets kitabından bir pasaj: "Birçok bilgili profesyonel, 
+piyasaların yalnızca %20 ila 30 oranında trend gösterdiğini tahmin ediyor. Birçok 
+yatırımcının para kaybetmesinin ana nedenlerinden biri, bu gerçeğin farkına 
+varmamalarıdır. Herhangi bir trend veya hareket olmadığında işlem yapmaktan kaçınmak 
+çok önemlidir.Bir aralıkta işlem yapmak yalnızca aralık yeterince geniş olduğunda 
+anlamlıdır.
+Piyasa VWAP'a geri çekilmeyi reddederse yatay bir oturum düşünün. Akıllı para, 
+vwap'in altından satın alır ve vwap'in üstüne çıkar, ardından fiyat vwap'e geri 
+döndüğünde, önceki trendin veya aralık piyasasının devamı için PA'yı vwap 
+çevresinde görür.
+Yan piyasaların özellikleri şunlardır:
+1. Fiyat genellikle VWAP, Kontrol Noktası veya diğer denge fiyatlarına yakındır.
+2. Fiyat tüm gün açılış aralığında kalır (ilk saatlik mumun aralığı).
+3. İç ve dış mumlar birbirine yakın.
+4. VWAP'ın birçok geçişi.
+5. Günün en yüksek ve en düşük seviyeleri gün boyunca devam eder.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+VWAP TİCARET STRATEJİSİNİN 
+SINIRLANDIRILMASI
+Canlı piyasalarda işlem yapmadan önce sisteminizin sınırlamalarını bilmelisiniz, 
+böylece piyasa hareketlerinin yanlış tarafında sıkışıp kalmazsınız.
+Sınırlamalar:
+1. Gün geçtikçe VWAP Stratejisi daha fazla gecikme eğilimindedir.
+2. İşlem gününün başında kullanılamaz.
+3. Giriş, fiyat hareketinin desteklenmesini gerektirir.
+VWAP STRATEJİ İLKELERİ
+Burada iki kelime var (PVWAP ve VWAP). PVWAP bir önceki günün vwap 
+değerinin sonudur. VWAP şu anda yürürlükte. Grafik üzerine düz bir 
+yatay çizgi çizilebilir ve saat 15:30'daki konumu PVWAP'ı belirlemek için 
+kullanılabilir. VWAP göstergesinin grafiğini çizerek elde edilebilecek 
+VWAP, açıkçası mevcut günün VWAP'ıdır.
+DURUM
+1. VWAP'nin altındaki stokları tutmaktan kaçının.
+2. Hisse senedi VWAP'ın üzerindeyse kısa devre yaptırmayın.
+3. VWAP'tan yolun uzatılması durumunda oyunun tersine çevrilmesi kabul 
+edilebilir, ancak amaç VWAP olmalıdır.
+4. Fiyat yükselişte ve PVWAP'in üzerinde işlem görüyorsa bir satın alma girişi 
+ararız.
+5. PVWAP'ın altında fiyat ticareti düşüş eğilimine işaret ediyor ve bir satış 
+girişi arıyoruz.
+BİRLEŞİKLİK: Fiyat hareketi ve hacmiyle VWAP göstergesini KULLANIN.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+GİRİŞ
+1. Satın Alma Girişi – hem vwap hem de pvwap'in tamamen üzerinde olan herhangi bir 5 dakikalık 
+mum, satın alma girişi o mumun en yüksek seviyesinin üzerinde olacaktır.
+2. Satış Girişi – hem pvwap hem de vwap'in tamamen altında olan herhangi bir 5 dakikalık 
+mum, satış girişi o mumun en düşük seviyesinin altında olacaktır.
+NOT: - Strateji, aralığa bağlı günlerde çalışmaz
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+VWAP GERİ DÖNÜŞ GİRİŞİ
+YUKARI TREND İÇİN VWAP TERS DÖNÜŞÜ
+Kural
+1. Fiyat önceki düşük seviyenin altında kapanmamalı ve önceki gün 
+VWAP seviyesinin üzerinde kapanmalıydı.
+2. Günün erken saatlerinden VWAP (PVWAP) seviyesine sabah 
+geçişi için zayıflığı arayın.
+3. Ne kadar hızlı olursa o kadar iyi
+4. Önemli bir faktör hacimdir (düşük hacimli hareketi tercih edin)
+5. Mevcut günün fiyatı (BEŞ BEŞ DAKİKA), bir önceki günün VWAP'sinin 
+(PVWAP) altında kapanmamalıdır.
+6. Yalnızca uygun bir giriş ve makul bir risk/getiri oranı bulabilirsem 
+işlemi gerçekleştireceğim.
+Düşüş trendinin tersine dönmesi…
+GİRİŞ SÜRECİ
+Adım 1: Hisse senedinin net bir yükseliş trendinde mi (HH/HL) yoksa düşüş trendinde mi (LH/
+LL) olduğunu belirleyin.
+Adım 2: PVWAP'a doğru zayıf bir geri çekilme hareketi.
+Adım 3: Fiyat ilk kez VWAP'ye yaklaşırken PVWAP'tan uzaklaşmayı 
+izleyin (fiyat pvwap'te durmamalıdır).
+Adım 4: Bu itmenin başarılı olup olmadığını veya bir yükseliş trendi için en son yüksek 
+salınımdan veya bir düşüş trendi için en son düşük salınımdan VWAP seviyesine geri reddedilip 
+reddedilmediğini kontrol edin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Fiyatın açılması ve daha az hacimle aşağı inmesi, PVWAP'ta güç ve duraklama 
+sinyali veriyor ve PVWAP'nin altında kapanamıyor.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+VWAP Yanlış Kaçırma (TRAP)
+Kurumsal tüccarlar satın alma baskısı uygularsa Strong Stock, VWAP'ın üzerinde 
+hareket etmeye devam edecek. Büyük bir yatırım bankası pozisyonu almakla 
+ilgilenirse, bir hisse senedi fiyatını sıklıkla VWAP'ın üzerinde tutacak ve VWAP'ın 
+üzerinde hareket etmeye devam edecektir.
+Ancak hisse senedi VWAP'a geri dönecek ve sık sık "kaybedecek" veya onu destekleyen 
+önemli bir kurum yoksa veya tüm emirlerini yerine getirirlerse dibe inip VWAP'nin altında 
+işlem görecek. Açığa satış yapanlar bu nedenle şimdi açığa satış yapmaya başlamalı.
+Tersine, VWAP'ın altındaki bir hisse senedi toparlanıp VWAP'ın üzerine çıktığında, bu 
+alıcıların kontrolü ele aldığına ve açığa satıcıların ciddi bir korunma ihtiyacına sahip 
+olduğuna işaret eder. "Şortları sıkmak" ve kaçan short pozisyonlarını takip etmek için 
+kurnaz günlük tüccarlar uzun pozisyon alır ve ivmeyi sürdürürler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+VWAP İlk Geri Çekilme
+Adım 1: Hisse senedinin açıkça yükseliş eğiliminde mi (HH/HL) yoksa düşüş eğiliminde mi (LH/
+LL) olduğunu belirleyin.
+Adım 2: Aynı yönü gösteren en az iki veya üç mum arayın.
+Adım 3: İlk fiyat yaklaşırken VWAP'tan uzaklaşmayı izleyin (fiyat 
+vwap'te durmamalıdır). Ayrıca vwap reddine dikkat edin.
+Adım 4: Bir yükseliş trendi için en son yüksek salınımdan veya bir düşüş trendi için en son 
+düşük salınımdan VWAP seviyesine kadar bu itişin kabul edilip edilmediğini veya 
+reddedildiğini kontrol edin.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+ÇIKIŞ
+Aşağıdaki şekillerde çıkmalısınız:
+1. Fiyat hedefinize ulaşırsa açgözlü olmayın ve işlemden çıkın.
+2. Eğer fiyatınız zararı durdurma sınırına ulaşırsa paniğe kapılmayın, zaten 
+işlemden çıktınız ancak paranızı geri almak için aşırı işlem yapmayın, ertesi 
+gün taze bir zihinle geri gelin ve işlem yapın.
+3. Eğer takip eden zararı durdur emriniz vurulursa, o zaman zaten çıkmışsınız demektir, ancak bir miktar kar elde 
+etmişsiniz demektir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+OKUDUĞUNUZ İÇİN TEŞEKKÜRLER
+Bu kutsal bir kâse stratejisi değil. Hiçbir strateji size %100 kazanma oranı vermez. Bu 
+strateji benim için %60-80 işe yarıyor. Bu yüzden grafiği açın ve canlı piyasaya 
+girmeden önce pratik yapın.
+Sonuna kadar okuduğunuzda size nasıl teşekkür edeceğimi bilmiyorum.
+İçeriğime güvendiğiniz ve sonuna kadar okuduğunuz için teşekkür ederim…
+Bir sonraki kitapta yeni bir stratejiyle görüşmek üzere…
+TEKRAR TEŞEKKÜRLER…
+EN İÇTEN DİLEKLERİMLE…
+www.forexgercekleri.xyz - [Twitter: @eseckal]

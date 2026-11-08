@@ -1,0 +1,445 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 29\Basitleştirilmiş Fibonacci Düzeltmesi -  Forex Gün İçi Ticareti İçin Karlı İşlem Yöntemi - Sankar Srinivasan - Orijinal (15 sayfa) - @eseckal.pdf
+PAGES: 15
+
+
+=== PDF PAGE 1 ===
+
+
+
+=== PDF PAGE 2 ===
+ 
+Fibonacci Retracement : Simpliﬁed
+ 
+Proﬁtable Trading Method for
+Forex Intraday Trading      
+Written by
+Sankar Srinivasan
+(Use this theory ONLY in Forex or Currency Trading in Intraday Market)
+ 
+ 
+
+
+=== PDF PAGE 3 ===
+ 
+Contents
+About Leonardo Fibonacci
+Fibonacci Retracement
+Fibonacci Retracement Calculations
+HOW IT WORKS IN MODERN DAY TRADING MARKETS???
+ESSENTIAL QUALIFICATIONS FOR TRADING
+WHEN A MAN’s TREND CHANGES
+About Author
+ 
+
+
+=== PDF PAGE 4 ===
+About Leonardo Fibonacci
+ 
+Who was Fibonacci?            
+Leonardo Fibonacci Pisano, was Italian mathematician born in Pisa during the The middle Ages. He was renowned as one of the most talented
+mathematicians of his day.  The name Fibonacci itself was a nickname given to Leonardo. It was derived from his grandfather’s name and means
+son of Bonaccio.
+While most attribute the Fibonacci sequence to Leonardo, he was not responsible for discovering the sequence. In 1202 Leonardo published a book
+called, Liber Abaci. In it, he derived a method for calculating the growth of the rabbit population.
+Suppose a newly-born pair of rabbits, one male, one female, are put in a ﬁeld. Rabbits are able to mate at the age of one month so that at the end
+of its second month a female can produce another pair of rabbits. Suppose that our rabbits never die and that the female always produces one new
+pair (one male, one female) every month from the second month on.
+The puzzle that Fibonacci posed was...
+How many pairs will there be in one year?
+At the end of the ﬁrst month, they mate, but there is still one only 1 pair.
+At the end of the second month the female produces a new pair, so now there are 2 pairs of rabbits in the ﬁeld.
+At the end of the third month, the original female produces a second pair, making 3 pairs in all in the ﬁeld.
+At the end of the fourth month, the original female has produced yet another new pair, the female born two months ago produces her ﬁrst pair
+also, making 5 pairs.
+This mathematical progression is now recognized as the Fibonacci Sequence. Starting with zero and adding one, each new number in the sequence
+is the sum of the previous two numbers.
+In our example, 0+1 = 1, 1+1=2, 1+2=3, 2+3=5, and so on.
+The sequence of numbers looks like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, to inﬁnity.
+From this sequence you can easily reason that at the end of one year there would be 233 pairs of rabbits.
+This sequence has repeatedly appeared in popular culture from architecture to music to television. While the series is a powerful tool, the analysis
+of one number with the number up to four places to the right. The ﬁrst three are shown below. While some are not exact, if you repeat this
+mathematical analysis through multiple sets of data, you will see we arrive at some well known and fairly consistent ratios.
+21/34 = 0.61764 ~ 0.618 34/21 = 1.61904 ~ 1.619
+21/55 = 0.38181 ~ 0.382 55/21 = 2.61904 ~ 2.619
+21/89 = 0.23595 ~ 0.236 89/21 = 4.23809 ~ 4.238
+The dimensional properties adhering to the 1.618 ratio occur throughout nature and the ratio is most referred to as The Golden Ratio. The
+uncurling of a fern and the patterns found on various mollusk shells are commonly cited examples of this ratio.
+This number, when added to 0.618, equals 1. These ratios have been used for over a hundred years in the ﬁnancial markets by the likes of W.D.
+Gann and Ralph Nelson Elliot. Up until the late 90s the tracking and use of these numbers were a manual process.
+With the proliferation of real-time charting and data, software that automatically calculated and displayed these levels brought
+Fibonacci into the ﬁnancial mainstream.
+ 
+Fibonacci as a Technical Analysis Tool      
+While there have been countless books and articles written on the use of Fibonacci in technical analysis, the basics are simple.
+On the price scale, these ratios, and several others related to the Fibonacci sequence, often indicate levels at which strong resistance and support
+will be found. Many times, markets tend to reverse right at levels that coincide with the Fibonacci ratios.
+On the time scale Fibonacci ratios are one method of identifying potential market turning points. When Fibonacci levels of price and time coincide
+you have high probability entry points.
+In the next few pages I will talk about how I use the two most common applications of Fibonacci:
+• Price Retracements – A strategy for quality entry points
+• Price Extensions – An approach to determining how far price will run
+Then after we have covered the basics we will talk about bringing it all together and using both Fibonacci Retracements and Fibonacci Extensions
+at same time and how clustering of these ratios increases the probability of proﬁt.
+Fibonacci Retracements:
+The Fibonacci Retracement is probably the most heavily used Fibonacci tool in the toolset. You will ﬁnd Fibonacci Retracements as a solid tool in
+identifying key support and resistance areas.
+If prices have fallen from a recent swing high down to a swing low, the expectation is that price should retrace distance, high to low, by a ratio of
+the Fibonacci sequence.
+
+
+=== PDF PAGE 5 ===
+In this book, I will show you examples of how potential opportunities when price retraces on and beyond 100% by following another set of
+Fibonacci ratios:
+• 61.8
+• 100%
+• 161.8%
+I use the other primarily as conﬁrmation levels. So let’s take a look at some examples of Fibonacci Retracements in use.
+ 
+Sankar Srinivasan
+ 
+
+
+=== PDF PAGE 6 ===
+Fibonacci Retracement
+ 
+ 
+(Use this theory ONLY in Forex or Currency Trading in Intraday Market)
+ 
+Most Traders are BUYing in BEAR market
+& SELLing in BULL market
+ 
+Why this mistakes…..???
+Wrong Entry & Exit Areas
+Emotional Trades
+Trades without any decision, Target
+Trades by Rumours
+Trades by Tips from someone
+Trades Copied from someone
+Over Trade
+ 
+ 
+Trading is simple……
+When we are able to ﬁnd correct entry area
+When we are able to ﬁnd correct exit area
+When we are able to trade suﬃcient volume with suﬃcient margin
+ 
+How to ﬁnd exact Entry Area?
+With help of Broker Recommendations
+Expert Tips
+(Both assures Dependability & Expense)
+ 
+Technical Analysis Software
+(Expensive)
+ 
+So, we need a Theory
+We need a theory for a successful trading
+Anyone can make new theory for stock market
+Or, follow a theory invented by Market Experts
+GANN Theory
+Fibonacci Theory
+Dow Theory
+Elliott Wave Theory
+and many more…. theories available
+ 
+
+
+=== PDF PAGE 7 ===
+WHY WE CHOOSE FIBONACCI THEORY?
+Fibonacci Theory is easy to understand
+Anyone can use without expert knowledge
+We are able to ﬁnd exact entry and exit areas
+We may expect near about 90% Accuracy
+ 
+Fibonacci was not a stock market person.
+No stock trading in his time.
+But, his theory is working well even in this modern world.
+ 
+
+
+=== PDF PAGE 8 ===
+Fibonacci Retracement Calculations
+LEONARDO FIBONACCI
+Italian Mathematician, born in Pisa, Italy
+Considered as “the most talented Mathematician of the Middle Ages”
+No Stock or Commodity markets in his time (1170-1250 AD). But, his mathematical predictions are working
+well, even today
+Fibonacci introduced to Europe, the Hindu-Arabic numeral system primarily through his Composition in 1202
+AD.
+He also introduced the sequence of numbers (0,1,1,2,3,…………)
+Fibonacci became a Guest of Emperor Frederick II, who enjoyed mathematics and science.
+In 1240, the Republic of Pisa honoured Fibonacci, by granting him a salary.
+ 
+ 
+FIBONACCI Sequence of Numbers
+ 
+0,1
+Add last 2 numbers, and write 1 (0+1)
+0,1,1
+Add last 2 numbers, and write 2 (1+1)
+0,1,1,2
+Add last 2 numbers, and write 3 (1+2)
+0,1,1,2,3
+Add last 2 numbers, and write 5 (2+3)
+0,1,1,2,3,5
+Add last 2 numbers, and write 8 (3+5)
+0,1,1,2,3,5,8      
+Add last 2 numbers, and write 13 (5+8)
+0,1,1,2,3,5,8,13
+Add last 2 numbers, and write 21 (8+13)
+0,1,1,2,3,5,8,13,21
+Add last 2 numbers, and write 34 (13+21)
+0,1,1,2,3,5,8,13,21,34… and it goes indeﬁnitely      
+Then, divide ﬁrst number by second number, and divide second number by ﬁrst number
+0/1,1/2,3/5,8/13,21/34,…………….
+1/0,2/1,5/3,13/8,34/21,…………….
+Divide ﬁrst number by second number Divide second number by ﬁrst number
+
+
+=== PDF PAGE 9 ===
+0/1 0 1/0 Nil
+1/1 1 1/1 1
+1/2 0.5 2/1 2
+2/3 0.666 3/2 1.5
+3/5 0.6 5/3 1.666
+5/8 0.625 8/5 1.6
+8/13 0.615 13/8 1.625
+13/21 0.619 21/13 1.615
+21/34 0.618 34/21 1.619
+34/55 0.618 55/34 1.618
+ 
+After some steps, you will get 0.618 and 1.618 as answers for all calculations
+0 1 1 2 3 5 8 13 21 34
+Divide ﬁrst number by second number
+0/1,1/2,3/5,8,13,21/34………
+Answers are… 0,1,0.5,0.667,0.6,0.625,0.615,0.618,0.618,0.618…
+ 
+Then, divide second number by ﬁrst number
+1/0,2/1,5/3,13/8,34/21…….
+Answers are…
+1,2,1.5,1.667,1.6,1.618,1.618,1.618…..
+ 
+So, Fibonacci found that 0.618 and 1.618 is important retracements (steps), in a sequence of numbers.
+ 
+ 
+ 
+ 
+HOW IT WORKS IN MODERN DAY TRADING
+MARKETS???
+ 
+SIMPLE. LET US SEE AN EXAMPLE OF A SCRIP IN A INTRADAY MARKET
+High Price      –       8000
+Low Price        -       7950
+Current Price   -       7975
+Now, we are going to take trading Decisions, by using Fibonacci Retracement
+Step 1 is ……….. High (Minus) Low
+
+
+=== PDF PAGE 10 ===
+   = 8000 – 7950 = 50
+Step 2
+Find BUY area by following Calculations
+           = Calculate 61.8% of 50
+           = 50 x 61.8% = 30.90
+Add 30.90 with LOW Price
+           = 30.90 + 7950 = 7980.90
+BUY AT 7980.90
+Step 3
+Find First Target by following Calculations
+           = Calculate 100% of 50
+           = 50 x 100% = 50
+Add 50 with Low Price
+= 50 + 7950 =       8000
+FIRST TARGET 8000
+Like this, Find Second Target
+     = Calculate 161.8% of 50
+     = 50 x 161.8% = 80.90
+Add 80.90 with Low Price
+     = 80.90 + 7950 = 8030.90
+SECOND TARGET 8030.90
+ 
+Step 4
+Find SHORT SELL area by following Calculations
+     = Calculate 61.8% of 50
+     = 50 x 61.8% = 30.90
+Less 30.90 from HIGH Price
+     = 8000 – 30.90 = 7969.10
+SHORT SELL AT 7969.10
+ 
+Step 5
+Find First Target by following Calculations
+     = Calculate 100% of 50
+     = 50 x 100% = 50
+Less 50 from HIGH Price   
+     = 8000-50 = 7950
+
+
+=== PDF PAGE 11 ===
+FIRST TARGET 7950
+Find Second Target
+     = Calculate 161.8% of 50
+     = 50 x 161.8% = 80.90
+Less 80.90 from HIGH Price
+     = 8000-80.90 = 7919.10
+SECOND TARGET 7919.10
+Trading Decision is
+BUY AT                                   7980.90
+FIRST TARGET                    8000.00
+SECOND TARGET             8030.90     
+OR
+SHORT SELL AT                     7969.10
+FIRST TARGET                     7950.00
+SECOND TARGET               7919.10      
+ 
+- Add retracement level with Low Price to ﬁnd BUY area
+- Subtract retracement level with High Price to ﬁnd SHORT SELL area
+ 
+For BUY, Low is Stop Loss
+For SHORT SELL, High is Stop Loss
+ 
+Required data - Day High, Low & Current price
+(You can use previous High & previous Low)
+Enter the trade BUY or SHORT SELL, which one is achieved ﬁrst (You can use any time of market repeatedly)
+ONE MORE EXAMPLE
+High Price      –       1.6234
+Low Price        -       1.6204
+Current Price   -       1.6230
+ 
+Step 1 is ……….. High (Minus) Low
+   = 1.6234 – 1.6204 = 0.0030
+Step 2
+Find BUY area by following Calculations
+           = Calculate 61.8% of 0.0030
+           = 0.0030 x 61.8% = 0.0018
+Add 0.0018 with LOW Price
+           = 0.0018 + 1.6204 = 1.6222
+BUY AT 1.6222
+
+
+=== PDF PAGE 12 ===
+Step 3
+Find First Target by following Calculations
+           = Calculate 100% of 0.0030
+           = 0.0030 x 100% = 0.0030
+Add 0.0030 with Low Price
+= 0.0030 + 1.6204 =     1.6234
+FIRST TARGET 1.6234
+Like this, Find Second Target
+     = Calculate 161.8% of 0.0030
+     = 0.0030 x 161.8% = 0.0048
+Add 0.0048 with Low Price
+     = 0.0048 + 1.6204 = 1.6252
+SECOND TARGET 1.6252
+ 
+Step 4
+Find SHORT SELL area by following Calculations
+= Calculate 61.8% of 0.0030
+           = 0.0030 x 61.8% = 0.0018
+Less 0.0018 from HIGH Price
+     = 1.6234 – 0.0018 = 1.6216
+SHORT SELL AT 1.6216
+Step 5
+Find First Target by following Calculations
+     = Calculate 100% of 0.0030
+     = 0.0030 x 100% = 0.0030
+Less 0.0030 from HIGH Price   
+     = 1.6234 – 0.0030 = 1.6204
+FIRST TARGET 1.6204
+Find Second Target
+     = Calculate 161.8% of 0.0030
+     = 0.0030 x 161.8% = 0.0048
+Less 0.0048 from HIGH Price
+     = 1.6234 – 0.0048 = 1.6186
+SECOND TARGET 1.6186
+ 
+ 
+ 
+
+
+=== PDF PAGE 13 ===
+ 
+ 
+Trading Decision is
+BUY AT                                   1.6222
+FIRST TARGET                    1.6234
+SECOND TARGET             1.6252     
+OR
+SHORT SELL AT                     1.6216
+FIRST TARGET                     1.6204
+SECOND TARGET               1.6186      
+ 
+Current Price is 1.6230. So, you can buy at current price with ﬁrst target 1.6234 and second target 1.6252
+ 
+ 
+ 
+ 
+ 
+ 
+GOLDEN RULES:
+Use this for Forex trading in Intraday trading
+Don’t use it for Option trading
+Take Day High, Day Low, Current Price, OR Previous High, Low, Current Price, at ANY POINT OF TIME
+during market hours
+After calculation, you can ﬁnd Buy area and Short Sell area, Targets and Stop Loss
+Use these data for trading.
+If BUY or SHORT SELL area achieves, involve trading and close the position
+Use MULTIPLE TIMES per Day per Scrip
+Suggested for Intraday trading only
+Use trailing stop loss to maximize the proﬁt
+ 
+All above rules are important
+ 
+
+
+=== PDF PAGE 14 ===
+In my personal experience, it is giving proﬁt for 6 to 8 trades out of 10. Practice in paper trade for a month to
+understand better
+ 
+Manual calculation is time consuming. So, please kindly send scan copy or email copy of bill of this book, to
+petra.srini@gmail.com  
+ 
+I will send a excel sheet calculator. In that excel sheet calculator, you just enter high and low price. It will
+generate entry, target and stop loss within fraction of seconds
+ 
+- Don’t make Early Trade.  Wait for 30 to 45 minutes from market opening
+- Don’t make Over Trade
+- Don’t Trade without any decision
+- Don’t Trade with other people’s Money
+- Don’t Trade with Borrowed Money
+- Don’t appoint another person to trade for you
+- Don’t give your money to another person for %%
+- Don’t  invest more than 10%-20% of your Excess Money
+ 
+
+
+=== PDF PAGE 15 ===
+BUY MY OTHER BOOKS
+ 
+THIS IS YOUR ACTUAL INVESTMENT FOR PROFITABLE TRADING
+ 
+GANN Square of 9
+GANN MidPoint Theory
+GANN Angle Theory
+ 
+ 
+ 
+If you have any doubts, please contact by Mail or WhatsApp
+ 
+Sankar Srinivasan
+ 
+Petra.srini@gmail.com
+http://SankarSrinivasan.com
+Mobile/WhatsApp: +91 90 4240 4390
+ 
+ 
+About Author
+ 
+ 
+Sankar Srinivasan
+http://SankarSrinivasan.com
+ 
+National Stock Exchange of India’s Certiﬁed Market Professional
+ 
+Sankar Srinivasan is a Technical Analyst, living in Madurai City of Tamil Nadu State in India. He is having more than 10 years
+experience in Stocks, Fuures, Commodities and Currency Trading. He has conducted various training programs in Technical Analysis
+and Gann theories. He is s Certiﬁed Market Professional of National Stock Exchange of India
+ 

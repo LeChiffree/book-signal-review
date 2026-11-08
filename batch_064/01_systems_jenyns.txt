@@ -1,0 +1,1807 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 10\Baskı 10\En İyi Trading Sistemleri - David Jenyns (65 sayfa) - @eseckal.pdf
+PAGES: 65
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+David Jenyns'
+En İyi Ticaret Sistemleri
+http://www.ultimate-trading-systems.com
+Bu Ücretsiz Bir E-kitap Değildir!
+Bu kitap "iyiliği başkasına öde" ilkesi üzerine çalışır. Ödeme
+Bu e-kitap için lütfen bu e-kitabın bir kopyasını şu adrese iletin:
+en az 3 arkadaş, aile üyesi ve/veya meslektaş.
+Ayrıca, yeniden satış haklarıyla ilgileniyorsanız,buraya tıklayın
+Sorumluluk Sınırları/Garanti Reddi
+The Ultimate Trading Systems, kişisel olmayan eğitimsel ticaret bilgileri sağlar ve bu nedenle, finansal 
+durumunuza yönelik hiçbir değerlendirme yapılamaz veya yapılmaz. İçerisinde sunulan tüm materyaller 
+yatırım tavsiyesi olarak kabul edilmemeli, yalnızca genel bilgilendirme amaçlıdır.
+Hisse senetleri, vadeli işlemler, emtialar ve opsiyonlar ticareti risk içerir, bu nedenle her zaman dikkatli 
+olunmalıdır. Kar veya zarardan uzak olmayı garanti edemeyiz. Yapmayı seçtiğiniz herhangi bir ticaretin tüm 
+maliyetini ve riskini üstlenirsiniz. Kendi yatırım kararlarınızı vermekten yalnızca siz sorumlusunuz. 
+Varsayımsal veya simüle edilmiş performans sonuçlarının belirli sınırlamaları vardır.
+Geçmiş performans gelecekteki sonuçların göstergesi olmayabilir. Hiçbir hisse senedi, vadeli işlem veya opsiyon 
+sistemi karı garanti edemez. Hisse senedi, vadeli işlem ve opsiyon ticaretinde kayıp riski vardır. Yazar ve yayıncı, 
+sahipleri veya temsilcileri, Avustralya Menkul Kıymetler ve Yatırım Komisyonu'nda veya herhangi bir eyalet 
+menkul kıymetler düzenleme otoritesinde menkul kıymetler aracı kurumu veya yatırım danışmanı olarak kayıtlı 
+değildir.
+Kayıtlı bir yatırım danışmanı, aracı kurum ve/veya finansal danışmana danışmanızı öneririz. Böyle bir 
+danışman veya kuruluştan tavsiye alarak veya almadan yatırım yapmayı seçerseniz, yatırımlarınızdan 
+kaynaklanan tüm sonuçlar yalnızca sizin sorumluluğunuzdadır.
+Bu kitabın yazarı ve yayıncısı bu programı hazırlamak için ellerinden gelenin en iyisini yapmışlardır. Yazar 
+ve yayıncı, bu programdaki içeriklerin doğruluğu, uygulanabilirliği, uygunluğu veya eksiksizliği konusunda 
+hiçbir beyanda bulunmamakta veya garanti vermemektedir. Herhangi bir garantiyi (açık veya zımni), 
+pazarlanabilirliği veya belirli bir amaca uygunluğu reddederler. Yazar ve yayıncı, özel, tesadüfi, sonuçsal 
+veya diğer herhangi bir türdeki hasarlar dahil ancak bunlarla sınırlı olmamak üzere hiçbir kayıp veya diğer 
+hasarlardan hiçbir şekilde sorumlu tutulamaz. Hem yazar hem de yayıncı, bu kitapta listelenen herhangi bir 
+sitenin performansını, etkinliğini veya uygulanabilirliğini garanti etmez. Burada listelenen tüm bağlantılar 
+yalnızca bilgilendirme amaçlıdır ve içerik, doğruluk veya herhangi bir diğer zımni veya açık amaç için 
+garanti edilmez.
+Bu e-kitap, uluslararası ve federal telif hakkı yasaları ve anlaşmaları kapsamında korunan materyaller içerir. Bu 
+materyalin yetkisiz bir şekilde yeniden basılması veya kullanılması yasaktır.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+İçindekiler
+1.Yazar Hakkında
+2.Ücretsiz Bonusunuzu Talep Edin
+3.Önce Bunu Okuyun – ÖNEMLİ
+4.Koçluk Dersleri
+5.Ders 1: Neden Yatırımcı Olmak İstediğinizi Tanımlayın
+6.Ders 2: İyi Yatırımcıları Kötü Yatırımcılardan Ayıran Nedir?
+7.Ders 3: Kazanan Bir Ticaret Sistemi Tasarlamak
+8.Ders 4: İşlem Planı Nedir?
+9.Ders 5: Mükemmel Giriş
+10.Ders 6: Mükemmel Para Yönetimi
+11.Ders 7: Mükemmel Çıkış
+12.Ders 8: Grafik Yazılımınızı Seçmek
+13.Ders 9: Geriye Dönük Testin Gizli Sanatı
+14.Ders 10: Ticaret Sistemlerini Analiz Etme
+15.Ders 11: Brokerinizi Seçmek
+16.Ders 12: Harika Bir Ticaret Sisteminiz Var…
+17.Ders 13 Buradan Nereye?
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Yazar Hakkında
+David Jenyns, karlı ticaret sistemleri tasarlama konusunda önde 
+gelen uzmanlardan biri olarak kabul edilmektedir. Bu ünvan, o 
+dönemde Avustralya'nın en iyi aracılık şirketlerinden biri olan Ord 
+Minnett'te çalışırken kazanılmıştır.
+2000'li yıllarda internet patlaması yaşandı.
+David bugüne kadar çok satan birçok ticaret kitabı ve kursunun 
+yazarıdır; bunlar arasında şunlar yer alır:
+"MetaStock Programlama Çalışma Rehberi ,” 
+“MetaStock Secrets Semineri DVD'si ”,
+"Ticaret Sırları Açığa Çıktı " Ve "En İyi Ticaret Sistemleri .”
+David Jenyns Canlı '04
+David'in trading konusundaki eleştirileri (Chartpoint, Your Trading Edge ve The Guppy 
+Traders Newsletter gibi pek çok trading dergisinde yer almaktadır) ortak zemini aşarak 
+okuyuculara dişlerini geçirebilecekleri bir şeyler sunuyor.
+David artık profesyonel olarak ticaret yapıyor, aktif olarak 
+seminerler düzenliyor, bire bir eğitimler veriyor ve sistematik 
+para kazandıran ticaret sistemleri planlıyor. Web sitesinde (
+www.meta-formül.com ) tüccarlar karlarını artırmak için ihtiyaç 
+duydukları paha biçilmez araçları ortaya çıkarabilirler.
+David, "Ticaret, hızlı zengin olma felsefesi değildir. 
+Ustalaşılması gereken bir meslektir." diye öğüt veriyor.
+David'in Diploması
+Finansal Piyasalar
+Sürekli olarak onlarca insanı inanılmaz ve muzaffer bir konuma motive 
+ediyor…şimdi sıra sizde.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+- İstenmeyen Tanıklık -
+"20 yıldan fazla bir süredir iş hayatındayım. Bu süre zarfında her türden 
+insanla karşılaştım ve bunların çoğu, özellikle iş insanları, "sizden bir adım 
+önde olmak" için bir yöntem arıyor. "Standart iş insanı" görüşüne sahip 
+olmaktan kendinizi alamıyorsunuz. Her zaman istisnalar vardır ve benim 
+fikrim şu kisen kuralın çok hoş bir istisnasısınStandart bir iş adamının.
+Pazarlama yöntemleri vardır ve pazarlama yöntemleri vardır. Yaklaşımınız 
+kesinlikle çok tercih edilen bir yaklaşımdır. Satışları maksimize etmekten 
+ziyade doğru ürünü teslim etme kaygınız çok dokunaklıdır.
+Sen öyle bir insansın kiKendimi çok rahatlamış hissederdimiyi bir sonuç 
+alacağımı bilerek işi yapmakparanın karşılığı."
+- Suresh Jogia, Özel Tüccar
+Buraya tıklayın David'in Rave Yorumlarından daha fazlasını görmek için
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+David'in Web Sitelerini Hemen Ziyaret Edin:
+www.freetradingsystems.org
+David Jenyns'in Karlı Ticaret Sistemleri Tasarlama Sistemini Çevrimiçi 
+Videoyla Öğrenin. Ücretsiz ve Eğlenceli.
+www.meta-formül.com
+Karlı İşlemleri Belirleyebilmeniz İçin MetaStock'u Kolaylaştırıyoruz! MetaStock Göstergeleri, 
+Gezginler, Uzmanlar, MetaStock Araçları ve MetaStock İpuçları ve Püf Noktalarının en büyük 
+ÜCRETSİZ Koleksiyonunu ziyaret edin.
+www.trading-secrets-revealed.com
+Ticaret Deneyimlisi Yakından Sakladığı Sırlarını Açıklıyor ve Profesyonellerin 
+Bunları Sizden Neden Umutsuzca Saklamak İstediklerini Açıklıyor. Sırları şimdi 
+keşfedin!
+www.ultimate-trading-systems.com
+Dünyanın ilk pratik, adım adım, karlı işlem sistemleri tasarlamak için yol 
+haritası. Ne tür işlem yapmayı severseniz sevin, ne kadar deneyiminiz olursa 
+olsun veya ne tür bir bütçeniz olursa olsun.
+www.sistemtradingblog.com
+Sistem Ticareti Makalelerinin En Büyük Koleksiyonu. “Net Üzerindeki En İyi IP'leri, Püf 
+Noktalarını ve Taktiklerini Derledim” – David Jenyns
+www.invest-store.com/meta-formula
+En İyi Ticaret Kitapçısını Çevrimiçi Keşfedin – %100 Ticarete Adanmış. Belirli 
+Bir Şeyin Peşindeyseniz veya Sadece Bir Göz Atmak İstiyorsanız, Hepsi Var!
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Ücretsiz Bonusunuzu Talep Edin
+Ücretsiz Bonusunuzu Talep Etmeyi Unutmayın
+“Nihai Ticaret Sistemleri” E-posta Kursu*
+* Uygun Olabilmek İçin Bu E-Kitabın Bir Kopyasını En Az 3 
+Arkadaşınıza, Ailenize ve/veya Meslektaşınıza İletmelisiniz.
+______________________________________________________
+David Jenyns'in "Ultimate Trading Systems" E-posta Kursuna 
+ÜCRETSİZ kaydolun.
+"Ultimate Trading Systems" satın alan biri olarak, ücretsiz bonuslarınızdan biri de 
+benim sistemime kaydolmanızdır.e-posta “koçluk” kursu – ÜCRETSİZ!
+E-posta koçluğu kursumun bazı faydaları şunlardır:
+• Motivasyon!Sizi doğru yolda teşvik edeceğim, zorlayacağım ve 
+yönlendireceğim. Ayrıca, başarılı bir yatırımcı olarak geleceğinizi inşa 
+etmek ve kontrol etmek için ihtiyaç duyduğunuz motivasyonu size garanti 
+eden çok sayıda basit ipucu, plan ve yöntem sunacağım.
+• Hesap verebilirlik! -Kapsamlı bir rehberlikle, başarınız veya başarısızlığınız 
+konusunda %100 sorumluluk sahibi olmanızı sağlayacak bir sistem de 
+sunacağım.
+• İpuçları ve Püf Noktaları!Nihai yatırım planınızı kusursuz bir başarıya 
+ulaştırmak için tasarlanmış en son ipuçlarını, püf noktalarını, araçları ve teknikleri 
+size sunacağım.
+Meraklı mısınız?TEKRAR SATIŞ HAKLARI?
+Bu Kitabı Tekrar Satıp Tüm Karı Saklamak İster misiniz?
+Nasıl Yapılacağını Keşfetmek İçin Buraya Tıklayın
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Önce Bunu Okuyun – ÖNEMLİ!
+Bu e-kitabı yazmamın bir sebebi var.
+Ben de şu an senin yerindeydim!
+Eğer benim gibiyseniz, bir şeyler yapmak için yanıp tutuşan bir arzunuz vardır... bir şeyler inşa 
+etmek... mali durumunuzdan bir şeyler çıkarmak... ve daha iyi bir hayat geliştirmek. Bilmeniz 
+gereken tek şey, bundan sonra ne yapacağınızdır. Sadece BİR KEZ ticaretle "başarmak" gibi basit 
+bir hedefle başlar ve oraya ulaşmak için size ticaretinizin nasıl çalışacağını gösterecek birine 
+ihtiyacınız vardır. Ben de bir zamanlar bu durumdaydım ve bu yüzden diğer tüccarlar için bir 
+ticaret yol haritası geliştirdim.
+Ticaret, söylendiği kadar kolay değildir ve öğrenmesi zaman alır. İnternette "hisse 
+senedi ticareti" için basit bir arama yapsanız yüzlerce sonuç bulursunuz. Her web sitesi 
+kendi kitaplarını, rehberlerini, kurslarını satar, "çabuk zengin olma" planlarından 
+bahsetmeye bile gerek yok. Bu kadar çok seçenek varken nereden başlayacaksınız?
+Açık konuşalım. Eğitimim on binlerce dolara mal oldu ve ben bunu zor yoldan, 
+zorluklar okulunda öğrendim. Ancak, iyi haber şu ki başardım ve bu süreçte nihai 
+ticaret sistemleri tasarlamak için bir yöntem öğrendim.
+Şu anda şimdiye kadar bir araya getirilmiş en güçlü ticaret planlarından birine 
+erişmeyi başardınız. Bu sırları kendi başınıza arayın ve bunun samanlıkta iğne 
+aramaya benzediğini göreceksiniz.
+Neyse ki, ilerici çabalarım sayesinde inanılmaz derecede güçlü, kazançlı, güvenilir ve 
+kullanımı basit nihai ticaret planları oluşturmanın bir yolunu buldum - ve hepsi 
+burada.
+Bana ulaşmaya ve sana yardım etmeye ne ilham verdi? Senin olağanüstü bir başarıya ulaşmanı 
+istiyorum.
+Yatırımcıların doğuştan değil, sonradan kazanıldığına inanıyorum - yeterli tutku, 
+bağlılık, eğitim ve risk sermayesine sahip yatırımcılar son derece karlı hale gelebilir. 
+Ticaret, hızlı zengin olma felsefesi değildir. Bu mesleğin ustası olun ve karlı olun. 
+Talimat arayarak, gayretle pratik yaparak, sabırla ve bu adım adım formülü uygulayarak 
+her zaman hayalini kurduğunuz finansal geleceği garanti altına alacaksınız.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Bir araya getirdiğim Nihai Ticaret Sistemlerini size açıklayacağım. Bilgiyle ne 
+yapacağınız tamamen size kalmış.
+Yapmanız gereken iki varsayım var:
+1. Bu kursta öğrettiğim şeylerden bazılarını başarmak için sermayeye ihtiyacınız var 
+(ancak geleneksel bir işletmeden çok daha az).
+2. Ticaret sisteminizin başarılı olması için yakıcı bir tutkuya ihtiyacınız var. Bu kursta 
+öğrettiğim ve gösterdiğim şeyler karmaşık değil, ancak tutarlı bir çaba 
+gerektirecektir. Bu görevleri tamamlamak için gönülsüz bir girişimde 
+bulunursanız, gönülsüz sonuçlar elde edersiniz.
+Benim önerim, televizyon izleme sürenizi iki aylığına ticaretle değiştirmenizdir… 
+Alacağınız olumlu sonuçlar sizi hayrete düşürecek!
+Bu kursu tamamladıktan sonra, eğitim çabalarınıza devam etmeniz gerekecektir. Bu 
+projeye harcamanız gereken zaman ve çaba miktarı, işlem planınızı oluşturduktan 
+sonra azalsa da, buna devam etmeniz gerekecektir. Başarıyı (finansal ve duygusal) 
+tattığınızda, işlem hedeflerinize ulaşmak için gereken zamanı ve enerjiyi ayırmanın 
+kolay olduğunu göreceğinizden emin olabilirsiniz. Başarınız için!
+David Jenyns
+Profesyonel Yatırımcı, Yazar ve Koç!
+PS. Ücretsiz bonuslarınızı indirdiniz mi? Eğer indirmediyseniz,buraya tıklayın.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Koçluk Dersleri
+DURMAK!
+ÜCRETSİZ E-postanıza Kaydolmayı Unuttunuz mu?
+Koçluk Dersleri?
+Değilse –Buraya tıklayın Daha heyecan verici bilgiler için!
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+NOT – BAŞLAMADAN ÖNCE
+Bu e-kitap, ticarette başarıya giden yol haritanızdır. Şimdi, kanıtlanmış ticaret stratejilerini 
+yeniden yazmak yerine, ticaret dünyasında başarılı olmak için ihtiyaç duyduğunuz bilgilere 
+nereden ulaşabileceğiniz konusunda adım adım talimatlar vereceğim. Unutmayın, size ticaret 
+sisteminizi veremem, sadece ona giden yolu gösterebilirim - onu takip etmek size kalmış.
+Başlamak için can atıyor musunuz? Harika. Size özel bir tavsiyede bulunayım. Eğer 
+sabırsız biriyseniz, hedeflerinizi belirleme ve psikoloji konularını kapsayan 
+"yumuşak" içeriği atlayarak kursun "özüne" atlamak isteyebilirsiniz. Eğer bu size 
+benziyorsa, lütfen atlama dürtüsüne direnin - bunun yerine bu kursu baştan sona 
+okuyun.
+Yakında öğreneceğiniz gibi, "yumuşak" şeyler aslında teknik şeylerden daha 
+önemlidir. Ayrıca, bu planı takip etmezseniz bunu bir uyarı olarak alınKesinlikle işe 
+yaramayacak. Bu yüzden kapıyı kilitleyin, telefonu fişten çekin, en sevdiğiniz içeceği 
+alın ve bu sistemin her bir kelimesini incelemeye hazır olun – buOönemli.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+"Eğer rüya yeterince büyükse, gerçekler önemli değildir" - Dexter Yeger
+Ders 1
+TanımlamakNeden Tüccar Olmak İstiyorsunuz
+Motivasyon gurusu Tony Robbins şunu öğretiyor:sebepBir şeyi yapmanın değeri, işi 
+yapmak için kullandığınız yöntemlerden çok daha yüksektir.
+İşlem yapmaya başlamak için yeterince güçlü bir "neden"iniz varsa, o zaman işi halletmenin bir 
+yolunu bulursunuz.
+O
+O
+O
+Kendinize sorun –Neden tüccar olmak istiyorsunuz? 
+"Pasif" gelir akışı yaratmak ister misiniz?
+Başka gelir kaynaklarınızdan bağımsız olarak kendinize bir güvenlik yaratmak ister 
+misiniz?
+Maaştan maaşa yaşamak yerine, hayatın daha güzel şeylerini 
+karşılayabilmek için gelirinizi desteklemek ister misiniz?
+O
+Robert Kyosaki, “Zengin Baba, Yoksul Baba” adlı kitap serisinde, yarı zamanlı bir işte çalışmayanlara 
+tavsiyelerde bulunuyor... bunun yerine yarı zamanlı bir iş kurmaları gerektiğini söylüyor.
+Kârlı ticaret mükemmel bir yarı zamanlı iştir. Kapitalizmin en iyi saklanan sırrıdır. 
+Piyasa, servetiniz, eğitim seviyeniz, etnik kökeniniz veya kimliğinizin herhangi bir 
+yönü hakkında hiçbir ayrım yapmaz. Ofis politikaları, zor patronlar ve hilekar 
+çalışanlar ticarette rol oynamaz. Her yerden ticaret yapabilirsiniz. Birkaç basit kuralı 
+izleyin ve işinizi uygun gördüğünüz şekilde yönetebilirsiniz.
+Ticaret "mükemmel iştir".
+Elbette, başarılı bir şekilde işlem yapmak kolay olsaydı, herkes kâr elde ederdi. Gerçek şu ki 
+işlem yapan çoğu insan para kaybedecektir. Bu, birçok nedenden ötürü bir gerçektir. 
+Bunların hepsinden, birçok insanın işlem yaparken para kaybetmesinin birincil nedeni, 
+basitçe nasıl işlem yapacaklarını bilmemeleridir.
+Eğer ticaret yapmayı bilmiyorsanız, bu sizin akıllı olmadığınız anlamına gelmez. Aksine, 
+piyasada milyonlarca dolar kaybeden birçok zeki insan var. Eğer ticaret yapmayı 
+bilmiyorsanız, bunun genellikle basit bir açıklaması vardır: bir koçunuz veya sisteminiz 
+yoktur. Bunun sizi caydırmasına izin vermeyin.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Çoğu insan ticarette asla ustalaşamaz çünküöyle gibikazanılması zordur ve nadiren 
+gerçekten işe yarayan deneyimli, başarılı bir tüccara veya ticaret metodolojisine erişimleri 
+vardır. Genellikle tek başlarına giderler veya sayısız seminere katılırlar ve daha da fazla kitap 
+okurlar. Kitap okumak kötü bir şey değildir, ancak çoğu durumda neredeyse herkes 
+mükemmel sonuçlar elde edemez. Bunu nasıl biliyorum? Biliyorum çünkü gerçekten 
+oradaydım…
+Başarılı bir şekilde ticaret yapmakdırNe yaptığınızı bilmiyorsanız zordur. Size ticarette başarıya 
+nasıl ulaşacağınızı ve öğrenme eğrinizi önemli ölçüde nasıl kısaltacağınızı gösterebilirim. Bu 
+program yalnızca başarılı olmak için güçlü bir arzunuz varsa sizin için işe yarayacaktır. Biraz 
+çalışmanızı gerektirecektir. Biraz pratikten sonra kolaylaşacaktır.
+Ticaret hakkında önceden edindiğiniz tüm fikirleri bırakmaya, kötü alışkanlıklarınızı unutmaya ve 
+başarılı ve istikrarlı bir şekilde ticaret yapmak için gereken disiplini geliştirmeye istekli 
+olmalısınız. Bunu yapmaya istekli misiniz? Harika - şimdi, hayat boyu hayallerinizi 
+gerçekleştirebilirsiniz.
+Gözlerinizi kapatın ve başarılı bir yatırımcı olmanın sizin için ne anlama geldiğini gözünüzde canlandırın; 
+kendinizi işlemler yaparken ve karlı bir şekilde işlem yaparken görün. Banka hesabınızda ekstra paraya 
+sahip olmanın verdiği harika ve rahatlatıcı hissi hissedin. Bu görselleştirme egzersizi, sağlam, değerli, 
+kişisel bir hedef oluşturmanıza yardımcı olacak ve bu e-kitap aracılığıyla motivasyonunuzu ve 
+odaklanmanızı koruyacaktır.
+İlk göreviniz, işlem planınız için birincil hedefi yazmaktır!
+___________________________________________________________________________
+___________________________________________________________________________
+___________________________________________________________________________
+Bu hedefi alın ve 3 x 5'lik bir karta yazın ve her sabah uyandığınızda ve her gece 
+uyumadan önce göreceğiniz bir yere koyun. Bu hedefi gerçekten bilinçaltınıza 
+kazımak istiyorsanızHer sabah ve akşam bir kez yüksek sesle okumalısınız.
+Bu teknik gerçekten işe yarıyor. "Bayağı" değil. Bu, Napoleon Hill'in "Düşün ve Zengin Ol" 
+kitabında öğrettiği temel bir tekniktir; sınıf başarısı kitabı, düşüncelerinizi zenginliğe nasıl 
+dönüştüreceğinizi öğretir.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Bu programın geri kalanındaki tüm teknikler, her gün gerekli eylemleri neden 
+yapmak istediğinizi tam olarak biliyorsanız MAKSİMUM etkiye sahip olacaktır. Peki 
+hedefiniz açıkça belirtilmiş ve yazılmış mı? MÜKEMMEL!
+Bilinçaltınızı düzeltelim.
+YAPILMASI GEREKENLER EYLEM ADIMLARI:
+1. Bu plana sadık kalarak başarmak istediğiniz birincil hedefi 
+yazın.
+1. dersin eylem adımlarını tamamladınız mı?
+Aksi takdirde, okumaya devam etmeden önce bu adımları tamamlayın.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+"Kendinizi kontrol edebilmelisiniz. Duyguların zihninizin önüne geçmesine izin 
+veremezsiniz." - Warren Buffet
+Ders 2
+İyi Yatırımcıları Kötü Yatırımcılardan Ayıran Nedir?
+Size küçük bir hikaye anlatayım... Yirmi beş yıl önce, güzel bir bahar sonu öğleden 
+sonrasında, iki genç adam aynı üniversiteden mezun oldu. Bu iki genç adam 
+birbirlerine çok benziyorlardı. İkisi de ortalamadan daha iyi öğrencilerdi, ikisi de 
+kişiliği hoştu ve ikisi de -genç üniversite mezunları olarak- geleceğe dair hırslı 
+hayallerle doluydu.
+Şimdi bugün onları ticarete başlattığımızı hayal edin. Bir hediye aracılığıyla, aynı 
+başlangıç   sermayesi, aynı ticaret platformu ve giriş ve çıkışlar için kesin kurallara sahip 
+aynı ticaret sistemiyle başlarlar.
+Şaşırtıcı bir şekilde, bir fark var. Bir ay sonra, bir tüccar iflas ederken, diğeri %20 kar 
+elde etti.
+Siz de benim gibi, insanların ticaretinde bu tür bir fark yaratan şeyin ne olduğunu merak ettiniz 
+mi? Her zaman doğuştan gelen bir zeka, yetenek veya özveri değildir. Bir kişinin başarıyı 
+istemesi ve diğerinin istememesi değildir.
+Fark, psikolojinizde yatar. Psikolojik zihniyetiniz, seçtiğiniz teknikten veya günlük 
+pratiğinizle ilişkili diğer ayrıntılardan daha büyük bir rol oynayacaktır.
+Şimdi, bunu keşfeden tek kişi ben değilim… Kitabında,Finansal Özgürlüğe Giden 
+Yolda Ticaret Yapın Ünlü Amerikalı psikolog Dr. Van Tharp, psikolojinin işlem 
+başarınızda oynadığı rolü tartışıyor. İşlemi üç 'İşlem Bileşeni'ne ayırıyor. Pasta 
+grafiğinde Sistem %10, Para Yönetimi %30 ve %60 psikolojidir. Tüccarın 
+psikolojisinin başarısıyla her şeyden daha fazla ilgisi olduğunu keşfetti.
+Peki sizin psikolojiniz tam olarak nasıl?
+Kısacası, psikolojiniz belirli bir duruma karşı duygusal tepkilerinizi ifade eder... Ticarette 
+korku, açgözlülük, kibir, gurur, umut, kıskançlık, inkar - bunların hepsi
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+yatırım kararlarını etkiler. Piyasadaki amacınız karınızı maksimize etmek ve riskinizi minimize 
+etmek olsa da, duygular bunu söylemeyi yapmaktan daha kolay hale getirir.
+Örneğin, duygusal tepki veren yatırımcılar yanlış kararlar alırlar; örneğin, bir gün 
+kazanacağına inanarak kaybeden bir pozisyonu tutmak gibi yaygın bir hata 
+yaparlar.
+Bu klasik hataya kayıp kaçınması denir.Kayıp kaçınmaİnsanların kazanç elde etmektense 
+kayıplardan kaçınmayı güçlü bir şekilde tercih etme eğilimini ifade eder. Bazı çalışmalar, kayıpların 
+kazançlardan iki kat daha fazla psikolojik olarak güçlü olduğunu öne sürmektedir. Kayıp kaçınma, 
+çoğu yatırımcıyı, düşüşe geçerken zarar eden bir hisse senedini elinde tutmaya zorlar. Bu bulanık 
+yargı, "kayıplarınızı kesin" ticaret atasözüyle açıkça çelişmektedir.
+Bu yatırımcılar ayrıca, başarıyı beceriye, kayıpları da şanssızlığa bağlamak gibi başka mantıksız 
+davranış biçimlerine de başvururlar. En kötüsü, duygularınızı kullanarak işlem yapmanın diğer yıkıcı 
+etkilerinden bahsederken bunun buzdağının sadece görünen kısmı olmasıdır.
+Gerçek şu ki, duygularınızı kontrol etmezseniz, çoğu yeni yatırımcı piyasadaki tüm 
+parasını çok hızlı bir şekilde kaybeder. Aslında, çoğu yatırımcının ilk yılında tamamen 
+yok olması söz konusudur. Yani, görebileceğiniz gibi, duygularınız başarısız olup 
+olmadığınızı belirlemede büyük rol oynar……..
+Duyguların ve olumsuz psikolojinin etkilerini nasıl azaltabilirsiniz?
+Cevap disiplindir - disiplin olmadanKaybedeceksin.
+Aşağıdaki üç işlem alanındaki disiplin, nihayetinde işlem başarınızı belirleyecektir.
+Eğitim---Başarılı bir yatırımcı asla geçmiş başarılarına güvenmez veya işlem 
+yeteneğinin zirveye ulaştığına inanmaz. Karar verme becerilerini her zaman 
+öğrenir ve uygular, ikinci doğası haline gelene kadar onları geliştirir. Sonra hızla 
+gelen bir mermiden daha hızlı tepki verebilir, ancak üstün insan yargısının 
+avantajıyla. (Bu kursun amacı budur).
+Ticaret Kuralları---Başarılı bir yatırımcı, dindar bir şekilde takip ettiği bir dizi işlem kuralı -bir 
+plan- geliştirir. Bu, her zaman karar alma sürecini yönlendirir. Bir yatırımcının planı bir hisse 
+senedinden çıkma zamanının geldiğini belirtiyorsa, yatırımcı o işlemden çıkar ve bir dakika 
+daha beklemez. (Bu konuyu bir sonraki bölümde ayrıntılı olarak ele alacağız).
+Oto kontrol---Başarılı tüccarlar olağanüstü miktarda özdenetim sergilerler. 
+Duyguları sürekli kontrol altında tutan disiplinli tüccar bağışıklık kazanır
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+büyük piyasa dalgalanmalarına eşlik eden iniş ve çıkışlara - ister panik, ister düşüş, 
+ister coşku olsun. Size disiplinin sırlarını nasıl öğreneceğinizi göstereceğim.
+Bu bileşenler zorlu bir görev gibi görünebilir. Ancak asıl mesele budur – ticaretzor
+çalışmak veciddeniş, zaman, sabır ve çok fazla sıkı çalışma. Bu bileşenlerde ustalaşın 
+ve başarıya giden yoldasınız. Disiplinin düz ve dar yolundan inerseniz kesin mali 
+yıkımla karşılaşacaksınız.
+Disiplinle ilgili temel mesaj, disiplin olmadankaybedeceksin. Bu kadar basit. 
+"Anlıyorum ve işlemlerimde disiplinli olacağım" diye düşünebilirsiniz. Yine de, korku 
+ve açgözlülük tam da burada devreye girer. Bundan kısa bir süre sonra duygusal bir 
+iniş çıkış karakterinizin istikrarını sağlar.
+Disiplin Öğrenilebilir mi?
+Buradaki büyük soru, doğal olarak sahip olmadığınız disiplini geliştirip geliştiremeyeceğinizdir. 
+Cevabın "evet, yapabilirsiniz" olduğuna inanıyorum, ancak bunu yapmak için gerekli bağlılığa 
+sahip olmalısınız.
+Açıkçası disiplin geliştirilebilir ve bunun teyidi için sadece bir ordu eğitim 
+programına bakmanız gerekir. Ancak, üzerinize gelen ve amacına ulaşmak için ne 
+gerekiyorsa yapmaya hazır olan geniş ve deneyimli bir organizasyona sahip olmak 
+bir şeydir. Yine de, bunu günlük hayatın tüm dikkat dağıtıcı unsurlarıyla birlikte 
+kendi evinizin rahatlığında kendiniz yapmak bambaşka bir şeydir.
+Açıkçası, bu sürece başlamak için bile öz disiplin şart.
+Sonuç olarak, disiplinsiz davranışlar piyasa tarafından ya doğrudan kayıplarla ya da 
+başka türlü elde edilebilecek kârların kaybıyla cezalandırılacaktır.
+Azmeden özel tüccarlar sürece yardımcı olacak dış uyaranlara sahiptir. Ancak 
+piyasa, rastgele güçlendirme ilkesi nedeniyle olması gerektiği kadar yardımcı olmaz. 
+Piyasanın zaman zaman kötü davranışı ödüllendirme eğilimidir.
+Bu önemli gerçek, ticaret yapmayı öğrenmenin neden bu kadar uzun sürdüğünün sebeplerinden biridir. 
+Eğer takip etmeyecekseniz, bir sisteme sahip olmanın bir anlamı olmadığını fark etmeniz gerekir.
+Öğrenilmiş disiplin sürecini hızlandırmak için, “Trading for a Living” kitabının yazarı Dr. 
+Alexander Elder’ın önsözünü yazdığı kitabı okuyabilirsiniz. “Ticaretin Yolu "Bunu okuduktan 
+sonra Dr. Elder'ın neden böyle dediğini anlamak kolay sanırım…
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+"Okuyacağınız kitapta John Piper sizi teorinin ötesine götürüyor.
+"Çoğu insanın asla anlayamayacağı önemli bir ders veriyor."
+Bu tanıklık tek başına "Ticaretin Yolu ” zorunlu okuma. Dahası, size sonraki 
+bölümlerde üzerine inşa edeceğimiz harika bir temel sağlayacaktır. Bu nedenle, bir 
+sonraki bölüme geçmeden önce “Ticaretin Yolu John Piper'ın "kitabını baştan sona 
+okudum.
+Yerel kitapçınıza gidebilir ve/veya çevrimiçi olarak satın alabilirsiniz.buraya tıklayarak .
+Online sipariş vererek 5 dakika içerisinde okumaya başlayabilirsiniz.
+Psikolojinizi düzeltelim.
+YAPILMASI GEREKENLER EYLEM ADIMLARI:
+1.Buraya tıklayın "bir kopyasını satın almak içinTicaretin Yolu John Piper 
+tarafından. Bu kitabı okuma amacınız, ticaret hakkında genel bir bakış elde 
+etmek ve daha spesifik olarak, ticaret disiplinini öğrenmektir.
+Ders 2'deki eylem adımlarını tamamladınız mı?
+Aksi takdirde, okumaya devam etmeden önce bu adımları tamamlayın.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+"Parlaklığı asla boğa piyasasıyla karıştırmayın." – Paul Rubin
+Ders 3
+Kazanan Bir Ticaret Sistemi Tasarlamak
+Bu e-kitabın belki de en önemli bölümü şudur:Piyasalarda kazanıp kazanmayacağınızı nihayetinde 
+belirleyecek olan şey, işlem metodolojinizdir.Ancak, şu özelliklere sahip olmanız hayati önem taşır:
+disiplin Planınıza sadık kalmak için, ilk etapta sadık kalacağınız bir planınızın olması da aynı derecede 
+önemlidir.
+Ne yazık ki sizin için metodolojinizi geliştiremem. Önerilerde bulunabilir ve örnekler 
+sunabilirim, ancak nihayetinde kendinize ait bir sistem tasarlamalısınız. Bunun nedeni, onu 
+takip edebilmeniz gerektiğidir. Takip edebilmek için sisteminizin kim olduğunuzu 
+yansıtması gerekir.
+Her başarılı yatırımcının bir kazanma sistemi vardır ve yatırımcı sayısı kadar başarılı 
+sistem vardır.
+Bazı sistemler sizi güçlü olduğunuzda satın almaya ve zayıf olduğunuzda satmaya yönlendirir; 
+diğerleri ise tam tersini yapar. Bazı yatırımcılar değer yatırımcıları olarak başarılı olur, Warren Buffet 
+kadar berbat; diğerleri ise momentum ticaretinde milyonlar kazanır. Yıldızları kullanarak karlı bir 
+şekilde ticaret yaptığı söylenen bir astrologdan bile duydum. Çeşitli yöntemler olmasına rağmen, 
+burada göstermeye çalıştığım nokta şudur: Piyasalardan kâr elde etmenin birçok yolu vardır.
+Farklılıklarına rağmen, tüm başarılı yatırımcılar arasında ortak bir unsur vardır: 
+piyasaya sistematik bir şekilde yaklaşırlar. Bu yaklaşım benzersizdir. Gerçekte, iki 
+kişinin tam olarak aynı miktarda parası, risk toleransı, kişiliği, zamanı veya deneyimi 
+yoktur. Bu nedenle, başarının anahtarı sizin için uygun bir sistem tasarlamaktır.
+Birçok yatırımcı, bir ticaret sisteminin kişiliklerine ne kadar uyduğunu değerlendirmediği için 
+başarısız olur. Bunun yerine, heveslerin peşinden gider, ticaret başarısının "Kutsal Kase"sini 
+ararlar; daha da kötüsü, paralarını en son yatırım yazılımına harcarlar veya kendini borsa 
+gurusu olarak ilan eden son kişinin kasetlerini satın alırlar.
+Gerçek şu ki, hiçbir şey yokmükemmelsistem. Başarılı yatırımcılar, kendilerini rahat 
+hissettikleri bir sistemi seçtikleri için başarılı olurlar, en son teknoloji olduğunu iddia eden 
+bir sistemi değil. Soğukkanlı, disiplinli bir yatırımcı "ortalama" bir sistemle para kazanırken, 
+sinirli, keyfi bir yatırımcı "parlak" bir sistemi mahveder.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Önemli olan, güçlü yönlerinizi en üst düzeye çıkaran ve zayıf yönlerinizi en aza indiren bir metodoloji 
+geliştirmektir. Peki bunu nasıl yaparsınız? Öncelikle hedeflerinizi tanımlamanız gerekir.
+Kendinize şu soruları sorun:
+O
+O
+O
+O
+Nakit akışı veya sermaye büyümesi için bir ticaret sistemi mi tasarlıyorum? Yarı zamanlı mı 
+yoksa tam zamanlı mı ticaret yapmak istiyorum?
+Ne kadar parayla çalışabilirim?
+Hangi yıllık getiri oranını istiyorum? (Not: Çoğu durumda getiri ne kadar 
+yüksekse risk de o kadar yüksektir).
+Bir dakikanızı ayırıp şu soruları düşünün ve cevaplayın:
+______________________________________________________________
+______________________________________________________________
+______________________________________________________________
+______________________________________________________________
+______________________________________________________________
+Bu tür kararlar, işlem sisteminizin tarzı üzerinde en büyük etkiye sahip olacaktır.
+Örneğin, hedefiniz nakit akışı ve düşük risk ise, aşırı seviyelerde (aşırı alım/aşırı satım) 
+alım satım yapmak size uygun değildir. Hedefleriniz hızlı sermaye büyümesi, yüksek 
+getiri ve yüksek risk üzerine kuruluysa, o zaman dip seçme stratejileri ve boşluk ticareti 
+sizin tarzınız olabilir.
+Stiller, birkaç puanlık kazanç elde etmek isteyen agresif günlük yatırımcılardan, uzun vadeli 
+makro ekonomik trendlerden yararlanmak isteyen yatırımcılara kadar çeşitlilik gösterir. 
+Arada, swing yatırımcıları, pozisyon yatırımcıları, agresif büyüme yatırımcıları, değer 
+yatırımcıları ve muhalifler dahil olmak üzere çok sayıda olası kombinasyon vardır.
+Ayrıca, stiliniz bağlılık seviyenize bağlı olacaktır. Günlük yatırımcıların yüksek aktivite 
+seviyelerine sahip agresif bir stil izlemesi muhtemeldir. Hedefler şunlar olacaktır:
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+hızlı işlemlere, küçük karlara ve çok sıkı stop-loss seviyelerine odaklandı. Gün içi 
+grafikler zamanında giriş ve çıkış noktaları sağlamak için kullanılacaktı. Yüksek düzeyde 
+bağlılık, odaklanma ve enerji gerekecekti.
+Günlük yatırımcıların aksine, pozisyon yatırımcıları günlük gün sonu grafiklerini kullanma ve 
+1-8 haftalık fiyat hareketlerini takip etme eğilimindedir. Bu durumda amaç kısa ila orta vadeli 
+fiyat hareketlerine odaklanmaktır ve taahhüt seviyesi günlük yatırımcıdan daha az olacaktır.
+Bunu aklınızda tutarak, sisteminizin kendi kriterlerinizle eşleşmesi gerektiğinden, işlem 
+hedeflerinizi olabildiğince iyi tanımladığınızdan emin olun, aksi takdirde asla büyük karlar elde 
+edemezsiniz. Şu basit cümleyi tamamlamanız gerekir: "Piyasada işlem yapıyorum çünkü...... 
+istiyorum." Bunu tamamlayın ve portföy hedeflerinizi belirleme yolunda iyi bir mesafe kat etmiş 
+olursunuz (ders 1'e bakın).
+Ne Ticareti Yapmalısınız?
+Birkaç portföy hedefi belirledikten sonraki adımınız, portföy hedeflerinize ulaşmak 
+için hangi piyasada işlem yapacağınıza karar vermektir.
+En uygun piyasayı seçmek için, aşina olduğunuz veya nihayetinde işlem yapmak 
+isteyeceğiniz bir piyasa seçmenizi öneririm. Doğru veya yanlış bir cevap yoktur. Ne 
+yazık ki, "en iyi" performans gösteren bir piyasa yoktur...
+Önemli karar seçmektirbirpazar. Her şeyi alıp satma eğiliminden kaçının ve sadece 
+alıp satarak yeterli potansiyel kar elde edebileceğinizi fark edinbir piyasa. Birçok 
+yatırımcı, ne kadar çok işlem yaparsa o kadar çok para kazanacaklarını düşünme 
+tuzağına düşer. Ne yazık ki, bu gerçeklerden çok uzaktır.
+Gerçek para, seçtiğiniz pazarda ustalaşarak ve parayı yaratanın pazar seçimi 
+olmadığını anlayarak kazanılır. Ben şahsen, işlem yaptığım pazarlar ve bu 
+pazarlarda seçtiğim menkul kıymetler konusunda, bu belirli pazarlara girme planım 
+konusunda olduğundan daha az endişeliyim (ancak buna daha sonra değineceğim).
+Aşağıda ana hatlarını çizdiğim piyasaların herhangi birinde başarılı bir şekilde işlem yapabilirsiniz... sadece seçtiğinizden emin 
+olunsadece bir tane :
+1. HİSSE SENETLERİ
+Basitçe söylemek gerekirse, hisse senetleri bir şirketin mülkiyetindeki bir paydır. Hisse senetleri, 
+temelde bir hisse senedini satın alma veya satma yeri olan bir borsada işlem görür. Bu alanda, 
+Warren Buffet ve Merrill Lynch gibi büyük oyuncular piyasaya hakimdir. Bununla birlikte,
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Korkmayın çünkü eğer tradingte yeniyseniz, başlamak için muhtemelen en iyi yer 
+burasıdır.
+2. SEÇENEKLER
+Opsiyonlar, fiyatını temel bir menkul kıymetten (örneğin hisse senetleri) alan kaldıraçlı 
+bir araçtır. Opsiyon sözleşmesinin alıcısına, belirli bir tarihte veya öncesinde belirli bir 
+fiyattan temel bir varlığı satın alma veya satma hakkını verir, ancak yükümlülüğünü 
+vermez.
+Yani, bir şirketin öz sermayesini temsil eden ve uzun bir süre, hatta sonsuza kadar tutulabilen hisse 
+senetlerinin aksine, opsiyon sözleşmelerinin sonlu ömürleri vardır.
+Temel olarak opsiyonlar, karmaşıklıkları bakımından hisse senetlerinden bir sonraki 
+adımdır. Paranızı kaldıraçlama ve karları artırma fırsatı sunarlar.
+3. EMTİYAZLAR
+Çok fazla ayrıntıya girmeden, emtia ticareti ham maddelerin ticaretini içerir. 
+Tahıllar, canlı hayvanlar, değerli metaller, enerji vb.
+Emtia ticareti, daha gelişmiş piyasalarda işlem yapmak için harika bir basamak 
+olabilir.
+4. VADELİ İŞLEMLER
+Opsiyonlara benzer şekilde, vadeli işlem sözleşmelerinin de sonlu ömürleri vardır. 
+Bunlar esas olarak emtia fiyat dalgalanma risklerini dengelemek için kullanılır; veya 
+gerçek nakit emtiayı alıp satmaktan ziyade fiyat hareketlerinden yararlanmak için 
+kullanılır.
+Vadeli işlem sözleşmesinin alıcısı, sözleşmenin sona ermesinde satıcıdan temel emtiayı 
+(buğday, altın veya hazine bonoları vb.) satın almak için sabit bir satın alma fiyatı 
+üzerinde anlaşır. Bu, alıcının temel emtiayı satın alma hakkına sahip olduğu ancak bunu 
+yapmakla yükümlü olmadığı opsiyonlardan farklıdır.
+Zaman geçtikçe, sözleşmenin fiyatı, işlemin başlatıldığı sabit fiyata göre değişir. Bu, 
+tüccar için kar veya zarar yaratır.
+Vadeli işlem ticareti, ticaretin en karmaşık biçimlerinden biridir; ancak gereken 
+beceri seviyesindeki artışla birlikte, daha büyük ödüller (yatırım getirisi (YG) 
+açısından) vardır.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+5. Döviz
+Forex - dövizin kısaltması - emtianın para birimi olduğu yerde işlem yapmaktır. 
+Forex piyasasını benzersiz kılan şey, diğer finansal piyasaların aksine, forex 
+piyasasının fiziksel bir konumu veya merkezi borsası olmamasıdır. Ayrıca, bu piyasa 
+24 saat işlem görür ve günlük hacmi 1,4 trilyon doları aşarak onu dünyanın en 
+büyük ve en likit piyasası yapar.
+Bu kulağa heyecan verici gelse de, bu zayıf kalpliler için değil. Forex ticareti hızlı ve 
+öfkeli olabilir. Eğer yeni başlıyorsanız, Forex ticareti yapmaya gönül vermediğiniz 
+sürece, bu piyasaya girmeden önce ticaret planınızın diğer kaldıraçsız piyasalarda 
+(örneğin hisse senetleri) karlı ticaret yapabileceğini kanıtlamanızı öneririm.
+Yan Not :
+Unutmayın, kaldıraçlı herhangi bir ürünle işlem yaparken iki ucu keskin bir kılıçla karşı 
+karşıyasınız. Bir yandan kaldıraç, kazançlı işlemlerinizi artıracaktır, ancak diğer yandan, 
+kaybeden işlemlerinizi de artıracaktır. Başarılı ticaretin sırrı, önce kaldıraçsız piyasalarda 
+karlı bir şekilde işlem yapmayı öğrenmek ve ardından bu sistemi alıp kaldıracı kademeli 
+olarak artırmaktır. Bu şekilde, söz konusu riskleri açıkça anlayacak ve ayrıca kendinizi 
+başarıya ulaşma şansınız için en iyi konuma getireceksiniz.
+Yukarıda belirtilen piyasaları inceledikten sonra, aşağıdaki alana hangi 
+piyasada işlem yapmak istediğinizi yazın:
+___________________________________________________________________________
+Alternatif olarak, bu noktada ticaret oyununda yeniyseniz ve neyle ticaret yapmak 
+istediğinize dair hiçbir fikriniz yoksa, Bill Polous'un kursunu satın almanızı öneririm 
+"Anında Karlar." Bu kursu yeni başlayanlar ve hatta ileri düzey yatırımcılar için paha 
+biçilmez kılan şey, birden fazla piyasada işlem yapmanın temel prensiplerini öğrenecek 
+olmanızdır. Bu bilgiyle daha sonra sizin için en mantıklı olan piyasayı seçebilirsiniz.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Portföy hedeflerinizi doğru belirleyelim.
+YAPILMASI GEREKENLER EYLEM ADIMLARI:
+1. Portföy hedefleri sorularını cevaplayın.
+2. Bugün şunu teyit edin: "BeniradeBana uyan bir sistem bulursam, bu BİR 
+ticaret tarzında DÜNYANIN EN İYİ yatırımcısı olacağım”.
+3. Listeden, aşina olduğunuz veya nihayetinde işlem yapmak 
+istediğiniz bir işlem piyasasını seçin.
+Hala emin değilseniz, satın alın“Anında Karlar” (Kopyanızı Almak İçin 
+Buraya Tıklayın).
+3. dersin eylem adımlarını tamamladınız mı?
+Aksi takdirde, okumaya devam etmeden önce bu adımları tamamlayın.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+"Bir ağacı kesmek için sekiz saatim varsa, bunun altı saatini baltamı bilemeye harcarım." - 
+Abraham Lincoln
+Ders 4
+İşlem Planı Nedir?
+Yaygın inanışın aksine, piyasalarda para kazanmak için piyasa zirvelerinin ve diplerinin 
+nerede olduğunu bilmenize gerek yoktur. Aslında, çoğu insanın yanıldığı nokta burasıdır. 
+Dünyadaki en iyi yatırımcılar, ne kendilerinin ne de başka birinin ne olacağını bilmediğini 
+fark eder. Elbette, herkes sonrasında zirveleri ve dipleri gösterebilir, ancak kim size ne 
+söylerse söylesin veya ne yapmaya çalışırsa çalışsınsatmakSen,HİÇ KİMSE zirveleri ve dipleri 
+tutarlı bir şekilde seçebilir. Peki zirveleri ve dipleri seçmeden nasıl para kazanabilirsiniz?
+Sorduğunuza sevindim.
+Başarılı ticaret, başarılı bir işletmeden pek de farklı değildir. Görüyorsunuz ya, her 
+başarılı işletmenin bir iş planı vardır ve başarılı tüccarların da vardır. Zeki okuyucu 
+bunu, "başarılı tüccarların piyasaya sistematik bir şekilde yaklaştıklarını" belirttiğim 
+önceki bölümden anlamış olabilir.
+Bir tüccarın iş planı bir ticaret sistemi olarak bilinir; ticarete yaklaşımınızı tanımlar. Doğru 
+şekilde oluşturulmuş bir ticaret sistemi, insan yargısına yer bırakmaz çünkü ortaya 
+çıkabilecek herhangi bir durum göz önünde bulundurulduğunda eylemlerinizi tanımlar. 
+Tüccara ne yapılması gerektiğini ve ne zaman yapılması gerektiğini öğretecek belirgin bir 
+kurallar dizisidir.
+Bir işlem planının önemi hafife alınamaz. İşlem kararlarınızı yönetecek tutarlı bir rehber 
+ilkeler seti olmadan, büyük ihtimalle duygu veya histeri tarafından yönlendirilerek bir 
+işlemden diğerine atlayacaksınız. Bir planınız olmadığında başarısız olmayı 
+planladığınıza inanıyorum.
+Ticaret sistemlerinin kendileri birçok çeşitte gelir ve hepsi ticaretin tahmin işini 
+ortadan kaldırır. Bir ticaret sistemi sizin için ne zaman alım satım yapacağınızı 
+belirler. "Sistem ticareti”Uzun vadede en etkili yatırım tekniği olduğunu sürekli 
+olarak kanıtlamıştır.
+Aslında, tüm zamanların en ünlü sistem tüccarlarından biri olan Richard Dennis 
+hakkındaki hikayeyi bile duymuş olabilirsiniz. (1983'ün ortalarında) Dennis'in uzun 
+zamandır arkadaşı olan Bill Eckhardt ile devam eden bir anlaşmazlığı vardı
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Büyük tüccarlar doğuştan mı yoksa sonradan mı gelir. Dennis, ticaretin başkalarına 
+aktarılabilecek bir dizi kurala bölünebileceğine inanıyordu. Öte yandan, Eckhardt ticaretin 
+doğuştan gelen içgüdülerle daha çok ilgisi olduğuna ve bu becerinin doğal olarak geldiğine 
+inanıyordu.
+Richard, meseleyi çözmek için bazı tüccarları işe alıp eğitmelerini ve hangisinin doğru olduğunu 
+görmek için onlara gerçek hesaplar vererek ticaret yapmalarını önerdi. Singapur'daki kaplumbağa 
+çiftliklerini ziyaret ettikten sonra himayesindekilere isim verdi; tüccarları çiftçilerin kaplumbağa 
+yetiştirdiği gibi yetiştirmeye karar verdi, bu yüzden isim: Kaplumbağalar.
+Uzun lafın kısası, Dennis, daha sonra tüm zamanların en başarılı tüccarlarından bazıları 
+olacak olan bu öğrenci gruplarına kendi ticaret metodolojisini öğretti; bir kez ve herkes için 
+şunu kanıtladı:Sistem ticareti gerçekten öğretilebilir.
+Tıpkı kaplumbağalar gibi ben de bana ticaretin "bilimini" öğreten bir akıl hocasının 
+yanında eğitim aldım. Ve şimdi bu sırları size aktarıyorum.
+Bir işlem sistemi, giriş ve çıkış koşulları ve para yönetimi gibi bir işlemin her yönünü 
+ele alan bir dizi kuraldan ibarettir. Ne kadar karmaşık olursa olsun, işlem planınız 
+için iyi bir test, onu bir başkasına verip iyice okumasını ve ardından herhangi bir 
+soruları olup olmadığını görmesini sağlamaktır. Tüm kuralları ve stratejinizin 
+gerekliliklerini çok az veya hiç soru sormadan kolayca anlayabiliyorlarsa, o zaman 
+sağlam bir yatırım planı derlemişsiniz demektir.
+Tüm başarılı yatırımcılartemas kurduğum kişiler bunu yapabilir. Dahası, tam işlem 
+metodolojileri yazılıdır.
+Çoğu yatırımcı para kaybettiği ve işlem metodolojilerini yazılı hale getirmediği için, 
+herkesin yapmadığı şeyi yapmak mantıklı değil mi? Şu anda işlem yapıyorsanız ve 
+zaman ayırmadıysanızaçıkça metodolojiyi yaz, sonraticareti durdurve bunu başar!
+Bir plan yazmak neden bu kadar önemlidir? Oturup piyasaları nasıl algıladığınızı 
+anlatmak için zaman ayırdığınızda,yanılmış olabileceğin gerçeğini kabul ediyorsun. 
+Sorumluluğu kabul etmeye başlıyorsunuz. Piyasaları nasıl algıladığınızı yazdığınızda, 
+piyasa sizin yazdıklarınıza göre davranmazsa varabileceğiniz tek sonuç, algınızın 
+yanlış olduğudur. Sadece belirli olaylar gerçekleşirse bir işleme gireceğinizi 
+yazdığınızda, suçu piyasaya atma olasılığını ortadan kaldırıyorsunuz. Kendinizi 
+disiplinli olmaya zorluyorsunuz.
+Ticaret kurallarınızı yazmak için zaman ayırdığınızda, zihinsel gerçekliğinizi fiziksel 
+bir gerçekliğe de dönüştürüyorsunuz. Artık
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+sayılara güvenmeyin veya sorumluluk almaktan kaçının.
+Metodolojinizi yazarak, piyasaları nasıl gördüğünüze bağlı olarak bir dizi karar 
+oluşturmaya kendinizi zorluyorsunuz.
+İşlem Planınızın Formatı:
+Tekrar - iş planı benzetmesine dönersek - herhangi bir iş planını tasarlamak için 
+standart bir format olduğu gibi, bir ticaret planı tasarlamak için de bir format vardır. 
+Aslında, herhangi bir ticaret planında üç ana bileşen vardır: giriş, çıkışlar ve para 
+yönetimi kuralları. Aşağıdaki bölümlerde, bunlara daha ayrıntılı olarak değineceğiz 
+ve her bileşeni tasarlamak için bir süreçte çalışacaksınız. İşte kısa bir özet:
+1. Test Edilmiş Giriş Kuralları
+Giriş kuralları, bir işleme girmeden önce işlem yapılabilir bir enstrümanın geçmesi gereken kesin 
+bir kurallar dizisidir. Giriş kuralları basit, doğrudan olmalı ve insan yargısına yer bırakmamalıdır.
+2. Sıkı Para Yönetimi Kuralları
+Belki de ticaretin en önemli ve en az ele alınan yönü riski yönetme yeteneğidir. 
+Kârlı bir tüccar, ticaretle ilişkili riskleri yönetme yeteneğine sahip olan kişidir. Bu, 
+katı para yönetimi kurallarıyla elde edilir.
+3. Test Edilmiş Çıkış Kuralları
+Pozisyonunuzdan ne zaman çıkacağınızı bilmiyorsanız bir hisse senedine girmek hiçbir işe yaramaz. 
+Çıkışınızı tanımlayan bir dizi kurala sahip olmak, girişinizi tanımlayan bir dizi kurala sahip olmak kadar 
+önemlidir.
+Açıklamaları basit olsa da, bu üç bileşen birlikte ticaretinizde muazzam bir etkiye 
+sahip olabilir ve olacaktır. Bir ticaret sistemi kullanmanın avantajları çoktur; çoğu 
+piyasa katılımcısı, en büyük faydalarının, tüm başarılı tüccarların düşmanı olarak 
+kabul edilen yıkıcı duyguların yumuşatılması ve karar alma sürecinden çıkarılması 
+olduğu konusunda hemfikirdir.
+Elbette kutsal kase ticaret sistemlerinin olmadığı doğru olsa da, bir sonraki 
+bölümde öğrenecekleriniz bunlara olabildiğince yakın olacak.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+YAPILMASI GEREKENLER EYLEM ADIMLARI:
+1. İyi haber şu ki bu bölüm için hiçbir eylem adımı yok. Sadece "Ben"i 
+onaylamaya devam edin.iradebana uyan bir sistem bul ve ben 
+olacağımOdünyanın bu alandaki en iyi tüccarıBİR“ticaret tarzı”.
+4. dersin eylem adımlarını tamamladınız mı?
+Aksi takdirde, okumaya devam etmeden önce bu adımları tamamlayın.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+"İnsanlar bunları biliyorsa, çoğu yatırımcının inandığı gibi, işlem stratejilerinin işe yaramama konusunda o 
+kadar savunmasız olduğunu düşünmüyorum. Yaptığınız şey doğruysa, insanlar bunun hakkında genel bir fikre 
+sahip olsa bile işe yarayacaktır. Her zaman şunu söylerim: Kuralları bir gazetede yayınlasanız bile kimse bunlara 
+uymaz. Anahtar tutarlılık ve disiplindir." – Richard Dennis
+Ders 5
+Mükemmel Giriş
+Herhangi bir işlem stratejisi, seçim yapabileceğiniz bir menkul kıymetler evreniyle 
+başlar. İşlem yapacağınız menkul kıymetler evrenini seçmek genellikle kolaydır ancak 
+doğru olanları seçtiğinizden emin olmak daha zordur.
+Potansiyel olarak seçebileceğiniz birçok menkul kıymet vardır ve bir menkul kıymetin fiyatını 
+etkileyebilecek çok sayıda faktör vardır; Peki, nereden başlamalısınız? Cevap hisse senedi 
+taramasında yatmaktadır. Hisse senedi taraması, yatırımcının potansiyel olarak uygun 
+yatırımlar için tüm menkul kıymetler evrenini taramasını içeren temel bir hisse senedi alım 
+satım stratejisidir.
+Altın parçalarını bulmaya çalışırken bir kova kumu elemek gibi, aynı yaklaşım 
+menkul kıymetler evreninizi daha elverişli bir seçime indirgemek için kullanılır. 
+Menkul kıymetler evrenini indirgedikten sonra, işlem için en çekici adayı bulana 
+kadar filtreleme sürecinize devam edebilirsiniz.
+Bu filtreleme süreci en iyi şekilde katı kurallar kümesi olarak tanımlanabilir. Ancak bir 
+sorun var. Sorun, dünya çapında yatırımcı ve tüccar sayısı kadar alım-satım fiyat 
+noktalarına ilişkin teorinin olmasıdır.
+Girişlere yönelik kişisel yaklaşımınız basit, doğrudan olmalı ve hiçbir şeyi insan yargısına 
+bırakmamalıdır. Bu, medya raporlarına, uzman görüşlerine, söylentilere veya "içgüdüsel hislere" 
+dayanarak hisse senedi satın alan çoğu yatırımcının aksinedir. İyi haber şu ki, ters yönde hareket 
+ederek çoğu yatırımcının asla yapmadığı bir şeyi yapacaksınız: kar elde etmek.
+Çoğu yatırımcı, başarının anahtarının kazanan işlemleri seçebilmek olduğuna inanır. Ve 
+bu yüzden yatırımcıların %99'u zamanlarının çoğunu girişle uğraşarak geçirir. Onlar 
+kutsal kaseyi ararlar. Unutmayın, kutsal kase diye bir şey yoktur.
+Şimdi beni yanlış anlamayın, doğru giriş önemlidir. Giriş sizi ticarete sokar ancak kârın 
+yalnızca %10'una katkıda bulunur. Bir ev inşa ediyormuşsunuz ve zamanınızın çoğunu giriş 
+yoluna konsantre olarak ve giriş yolunu görmezden gelerek geçiriyormuşsunuz gibi olur.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+temel, duvarlar ve çatı. Çıkışınız ve para yönetiminiz (temel, duvarlar ve çatı) karın 
+diğer %90'ını sağlayacaktır.
+Aslında, iyi çıkışlar ve para yönetimiyle piyasaya rastgele girişlerde bile kar elde 
+edebileceğiniz kanıtlanmıştır. Aşağıdaki gerçek yaşam örneğini ele alalım:
+Tom Basso basit, rastgele girişli bir ticaret sistemi tasarladı... Piyasanın oynaklığını, 
+ortalama gerçek aralığın 10 günlük üstel hareketli ortalamasına göre belirledik. İlk 
+durağımız, bu oynaklık okumasının üç katıydı. Giriş, yazı tura atılarak 
+gerçekleştiğinde, aynı üç kat oynaklık durağı kapanıştan itibaren takip edildi. Ancak, 
+durdurma yalnızca bizim lehimize hareket edebiliyordu. Bu nedenle, piyasalar bizim 
+lehimize hareket ettiğinde veya oynaklık azaldığında durdurma daha da yakınlaştı. 
+Pozisyon boyutlandırma sistemimiz için %1 risk modeli de kullandık. ...
+Bunu 10 pazarda çalıştırdık. Ve her pazarda, bir yazı tura atışı sonucu oluşan duruma 
+bağlı olarak her zaman uzun veya kısaydı. ... Basit bir %1 risk para yönetim sistemi 
+eklendiğinde %100 oranında para kazandırdı. ... Sistemin (işlem başarısı) güvenilirliği 
+%38'di, bu da trend takip eden bir sistem için ortalama bir değerdir.
+Kaynak: Van K. Tharp,Finansal Özgürlüğe Giden Yolda Ticaret Yapın
+Bu, girişin önemli olmasına rağmen muhtemelen bir işlem planı tasarlamanın en az 
+önemli yönü olduğunu en iyi şekilde gösterir. Dahası, çoğu yatırımcı, paranın 
+kazanıldığı yer olmasa bile, stop, limit ve kitaptaki diğer tüm hileleri kullanarak doğru 
+fiyattan girmeye çalışarak "tekerleklerini döndürür". Para, para yönetimine dikkat 
+edilerek kazanılır (bununla ilgili daha fazla bilgiyi bir sonraki bölümde bulabilirsiniz). 
+Ancak, yine de bir giriş yöntemine ihtiyacınız olduğu gerçeği değişmez.
+Benden önceki birçok yatırımcı gibi ben de o ulaşılması zor Kutsal Kase'yi ararken farklı giriş 
+sinyallerini araştırmak için sayısız saat harcadım. Ne keşfettiğimi bilmek ister misiniz? Basitçe 
+söylemek gerekirse, başarıya giden yolda taklit etmek, tekerleği yeniden icat etmeye 
+çalışmaktan daha kolaydır.
+Anthony Robbins'e (ABD'li kişisel gelişim gurusu ve başkanlara ve ünlü aktörlere yaşam tarzı 
+koçu) göre en iyi sağlığa kavuşmanın yolu, bulabildiğimiz en sağlıklı insanları bulmak ve 
+onlara bu kadar sağlıklı olmak için ne yaptıklarını ve ne düşündüklerini sormaktır. Benzer 
+şekilde, giriş kurallarınızı seçmenin yolu kanıtlanmış bir sistemi kopyalamaktır!
+Akıllı (ve zengin) insanlar bunu böyle yapar.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Elbette aylarınızı harcayabilir ve farklı yöntemleri test etmek için binlerce dolar 
+harcayabilirsiniz, ama neden kendinizi buna zorluyorsunuz?
+Şahsen ben bir olmayı tercih ederdim"“Zengin bir taklitçi”den ziyade “iflas etmiş orijinal bir düşünür”ü tercih eder.
+Bu nedenle (ve ticari başarıya giden yolunuzu kısaltmak için) seçtiğiniz pazar için 
+mevcut en iyi giriş sistemlerini elle seçtim. Lütfen, şunu söylemediğimi anlayın:bu giriş 
+sistemleri olmadan başarısız olursunuz,ama bunun yerine sana iki seçenek 
+sunuyorum:
+1. Kendi giriş kurallarınızı tasarlayabilir, binlerce değişkeni kendiniz geriye dönük test 
+edebilirsiniz. Bu kendi başına bir ömür sürebilir, sadece giriş sistemlerini 
+mükemmelleştirmek için hayatlarının çoğunu harcayan Fibonacci veya Gann'a bakın.
+Veya
+2. Adım adım planıma tam anlamıyla dahil edeceğiniz hazır bir giriş sistemi 
+satın alabilirsiniz.Başkasının sizin için tüm zor işi yapmış olmasından 
+duyduğunuz güven.
+Ben şahsen seçimin kolay olduğunu düşünüyorum, ancak sonuçta karar vermesi 
+gereken sizsiniz çünkü şu anki zamanınızı ve mali durumunuzu bilmiyorum.
+Eğer 2. seçeneğin sizin için en uygun olduğuna karar verdiyseniz, işlem yapmaya karar 
+verdiğiniz piyasaya göre sizin için özel olarak seçtiğim kanıtlanmış ve test edilmiş giriş 
+kurallarına bakın. (Hangi piyasayı seçtiğinizi hatırlamıyorsanız, 3. bölüm eylem adımlarına geri 
+dönün).
+Bu kurslar yalnızca seçtiğiniz piyasa hakkında sizi eğitmekle kalmayacak, aynı 
+zamanda işlem planınıza eklemeniz gereken kesin giriş kurallarını da sağlayacaktır.
+Seçtiğiniz ilgili pazara tıklayın ve giriş kurallarınızı hemen satın alın:
+1.
+2.
+3.
+4.
+5.
+Hisse senetleri
+Döviz
+Vadeli işlemler
+Seçenekler
+Emtialar
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Hala hangi piyasada işlem yapacağınızdan emin değilseniz Bill Polous'un kursunu satın 
+almanızı öneririm"Anında Karlar." Bill'in size öğrettikleriyle donandıktan sonra, sizin için en 
+mantıklı olan pazarı seçebilirsiniz.
+Bir sonraki adımınız yeni giriş kurallarınızı belgelemektir. İyi bir giriş kuralları setinin 
+basit, doğrudan olduğunu ve insan yargısına yer bırakmadığını unutmayın. Seçtiğiniz 
+programdan giriş kurallarını alın ve bir pozisyona nasıl gireceğinizi tam olarak yazın.
+KATILIM KURALLARINIZ:
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+Giriş kurallarınızı belgeledikten sonra kendinizi tüccarların en iyi %5'ine 
+yerleştirdiniz. Tebrikler!! Sonraki birkaç bölümde, en iyi %1'e doğru ilerlemeye 
+başlayacaksınız.
+Giriş kurallarınızı doğru belirleyelim.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+YAPILMASI GEREKENLER EYLEM ADIMLARI:
+1.Bölüm 3'te işlem yapmaya karar verdiğiniz pazara karşılık gelen 
+programı satın alın - Aşağıdaki bağlantıya tıklayın:
+Ben.Hisse senetleri
+ii.Döviz
+iii.Vadeli işlemler
+iv.Seçenekler
+fiil.Emtialar
+Hala ne takas edeceğinizden emin değil misiniz? Bill Polous'u satın 
+alın Anında Karlar .
+2.Programı okuyun ve programda belirtilen giriş kurallarını anlaşılır 
+bir İngilizceyle not alın.
+5. dersin eylem adımlarını tamamladınız mı?
+Aksi takdirde, okumaya devam etmeden önce bu adımları tamamlayın.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+"Para kazanmaya odaklanmayın; sahip olduklarınızı korumaya odaklanın.”– Paul Tudor Jones
+Ders 6
+Mükemmel Para Yönetimi
+Öncelikle, yaygın bir efsaneyi ortadan kaldırayım: Kazandıran işlemleri yüzde yüz 
+seçecek bir işlem sistemi yoktur. Bu gerçeğe rağmen, birçok acemi yatırımcı, 
+kendilerini işlem başarısına götürecek mükemmel göstergeyi(leri) bulmak için 
+kararlı bir arayışa girer. Kulağa saçma gelse de, siz de piyasayı alt edecek sihirli 
+formülü arayabilirsiniz. Peki, çoğu piyasa katılımcısı neden bu mükemmel girişi 
+arar? Bunun bilinçaltı bir sebep olduğuna inanıyorum.
+Sorun şu ki, girişinize odaklandığınızda bir kontrol hissiyatı elde edersiniz. Piyasaya 
+girmeyi seçtiğiniz nokta, piyasanın tam olarak sizin istediğiniz şeyi yaptığı noktadır. 
+Sonuç olarak, giriş üzerinde değil, piyasa üzerinde bir tür kontrol olduğunu 
+hissedersiniz. Çoğu yatırımcının gittiği yer burasıdıryanlış .
+Bunu yaparak size zamandan ve paradan tasarruf ettireyimÖNEMLİ İPUCU!
+Böyle mükemmel bir gösterge yoktur. Bugün yoktur, hiçbir zaman olmadı ve olmayacak.
+Lütfen değerli zamanınızdan saatlerce kendinize zaman ayırın... ve kendinizi daha verimli 
+bir aktiviteye adayın.
+Piyasada bir pozisyona girdiğinizde, piyasa yapmak istediği her şeyi yapacaktır. 
+Piyasanın yönünü veya hareketin boyutunu kontrol edemeyiz. Kontrolümüzde olan 
+tek bir bileşen var ve o da para yönetiminizdir. İşte ticaretin gerçek Kutsal Kase'si.
+Jack Schwager'ın kitabıPiyasa Sihirbazlarıpara yönetimi hakkında bazı ilgi çekici 
+açıklamalarda bulunuyor. Market Wizards'da Jack Schwager dünyanın en iyi 
+tüccarları ve yatırımcılarından bazılarıyla röportaj yapıyor. Neredeyse hepsiönem 
+Para yönetimi.
+İşte birkaç örnek alıntı:
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+undertrade, undertrade ikinci tavsiyem. Pozisyonunuzun ne olması gerektiğini 
+düşünüyorsanız, en azından yarıya indirin."--Bruce Kovner
+herhangi bir bireysel ticarete kayıtsız. Riskinizi küçük ve sabit tutmak 
+kesinlikle kritiktir."--Larry Hite
+çok kısa bir sürede çok şey kazanabileceğiniz durumlar. Yapamayacağınız 
+şey, sermayenizi en iyi olmayan işlemlere harcamaktır."--Richard Dennis
+Önemine rağmen, para yönetimi hala dünyadaki birçok yatırımcı ve tüccar 
+tarafından nispeten bilinmiyor. Gerçek şu ki, çoğu insan ticareti bir olasılık oyunu 
+olarak görüyor. Doğru, olasılıklar içeriyor, ancak olasılıklar tek başına tüm hikayeyi 
+anlatmıyor.
+Ne zamanSenticaret sistemlerine bakın, sadece kazanç-kayıp oranına bakan biri 
+misiniz? Sonuçta, 10'da 8 kazanan işlem üreten bir sistemin, 10'da sadece 4 kazanan 
+işlem üreten bir sistemden daha iyi olması mantıklı görünüyor... değil mi? yanlış.
+İşlemlere bakmanın en iyi yolu şudur:
+Kazanmak ve kar etmek tamamen farklı iki şeydir. Sisteminizin 1$ kazanma olasılığı %80 
+ve 100$ kaybetme olasılığı %20 ise, bu olumsuz önyargılı bir sistemdir veya başka bir 
+deyişle, olumsuz bir beklentiye sahiptir. Bu nedenle, birçok kazanan işlem 
+deneyimlemenize rağmen, sonunda her şeyinizi kaybetmeniz kaçınılmazdır. Her biri 1$ 
+değerinde olan birkaç düzine kazanan işlemi bir araya getirmek ve ardından 100$'lık tek 
+bir kayıp yaşamak, fakirhaneye gitmenizi garanti eder.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Beklenti şu şekilde hesaplanır:
+(% Kazançlar x Ortalama Kazanç Boyutu) – (% Kayıplar x Ortalama Kayıp Boyutu) = Beklenti
+Örneğimizde şunu görebiliriz:
+(%80 x 10$) – (%20 x 100$)
+8$ - 20$ = -12$
+Bu stratejinin negatif beklentisi vardır; pozitif beklentisi olan bir sistem zamanın 
+%80'ini kaybedebilir, ancak yine de karlı olabilir.
+Aynı sayıları kullanarak:
+(%20 x 100$) – (%80 x 10$)
+20$ - 8$ = +12$
+Bu örnek çok mu uçuk? Hayır. Her gün, profesyonel yatırımcı olmak isteyenlerin ortak işlem 
+modellerine tanık oldum. İçgüdüsel eylem, ortaya çıktıkları anda kar elde etmek ve 
+katlanılmaz hale gelene kadar zararları sürdürmektir. %80 kazanmaya karşılık %20 
+kaybetme negatif beklenti sistemi tam olarak böyle görünür. Çok sayıda küçük kazanç elde 
+ederler, ancak çok büyük olmasına izin verdikleri birkaç kayıpta karlarını ve daha fazlasını 
+kaybederler. İnsanların buna kurban gitmesinin başlıca nedeni, açıkça tanımlanmış bir para 
+yönetimi kurallarına sahip olmamalarıdır.
+Peki para yönetimi nedir?
+Basitçe para yönetimi, riskinizi rahat olduğunuz bir seviyede tutan bir dizi kural ve 
+yönergedir. Çıkış noktalarını, işlem başına maksimum kaybı, maksimum 
+maruziyeti ve sermaye tahsisinizi etkileyen diğer temel değişkenleri tanımlayan 
+kuralları içerir.
+Para yönetimi şu gibi soruların cevabını verir:
+O
+O
+O
+Bir işlemden ne zaman çıkmalısınız?
+Her işlem için kabul ettiğiniz risk miktarı tam olarak nedir? 
+Pozisyon boyutlarınız ne kadar büyük olmalıdır?
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Bu sorular kulağa basit gelse de, cevapları bu kadar kritik yapan şey, "doğru" cevap 
+verdiğinizde %50 oranında yanlış cevap verebilmeniz ve yine de para kazanabilmenizdir. 
+Para yönetimi kuralları, finansal yıkıma karşı gerçek bir güvencenizdir.
+Bu noktada, Ultimate Trading Systems'ın amacını tekrarlamanın ihtiyatlı olduğunu 
+düşünüyorum - "size karlı ticaret sistemleri tasarlamak için adım adım bir yol haritası 
+sağlamak." Unutmayın, bir kaynak için bir öneride bulunursam, bunun tek nedeni 
+başarınızı hızlandırın…
+Bu ticaret alanındaki akıl hocam Dr. Van Tharp adında harika bir tüccar ve psikologdu. 
+Ve kitabını tavsiye etsem de -Finansal Özgürlüğe Giden Yolda Ticaret Yapın - birçok 
+insan bunun erişemeyeceği bir şey olduğunu düşünüyor. Kullandığı dil ve fikirleri 
+zaman zaman çok karmaşık ve sofistike görünebiliyor. İtiraf etmeliyim ki, kavramlarını 
+tam olarak anlamak için bu kitabı defalarca okumak ve tekrar okumak zorunda kaldım.
+Bu kuralları basitleştirmek yıllarımı aldı ve zorlu bir yol olsa da, ödülleri buna değdi. 
+İyi haber şu ki, benim gittiğim uzun yoldan gitmek zorunda değilsiniz. Bu konuda 
+koçluk isteyen sayısız müşteriden sonra, sizi adım adım mükemmel para yönetimi 
+kuralları tasarlama sürecine götüren bir sistem yaratmaya karar verdim. Buna "
+Ticaret Sırları Açığa Çıktı ”.
+Trading Secrets Revealed, türünün ilk örneğidir, çünkü benim ve diğer birçok profesyonel 
+yatırımcının piyasalardan sürekli kar elde etmek için kullandığı sırları ortaya koyuyor... en 
+güzeli de bunu hiçbir saçmalık, gereksiz ayrıntı veya saçmalık olmadan yapıyor.
+Ama benim sözüme güvenmeyin, bu pakete gelen tepkiler olağanüstüydü...
+İşte bir müşterimizin söyledikleri:
+Ticaret Sırları Açığa Çıktı Referans
+"Mayıs ayının başlarında materyalinizi okuduğumdan beri, kaybımı %2'lik bir 
+dalgalanmayla sınırlamak ve ilk ve takip eden stoplarınızı kullanmak gibi birkaç 
+maddeyi kendi işlem sistemime uyguladığımı bildirmek istedim. Sonuç olarak 
+işlemlerim konusunda kesinlikle daha fazla güvenim ve daha az stresim var.
+Mutlulukla bildirmek isterim ki;Haziran ayında portföyümüz %49 büyüdü.Yardımınız için teşekkür eder, iyi 
+çalışmalarınızın devamını dilerim."
+Ed Gallagher - Özel Tüccar - Pensilvanya, ABD
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Para yönetimini öğrenerek siz de tıpkı bunlar gibi sonuçlar elde edebilirsiniz. Tekrar iki 
+seçeneğiniz var, karmaşık kavramları okuyabilirsinizFinansal Özgürlüğe Giden Yolda 
+Ticaret Yapın veya bu sırları kolayca dinlenebilen bir sesli kursta öğrenmek istiyorsanız 
+şuraya göz atın:Ticaret Sırları Açığa Çıktı (Eğer yaparsan sana bir sürü bonus bile 
+veririm).
+Programın tamamlanmasının ardından yapmanız gereken bir sonraki şey para yönetimi kurallarınızı yazılı 
+hale getirmektir.
+Giriş kurallarınıza benzer şekilde, mükemmel para yönetimi kuralları basit, 
+doğrudandır ve insan yargısına yer bırakmaz. Para yönetimi kurallarını şuradan alın: 
+Finansal Özgürlüğe Giden Yolda Ticaret Yapın veyaTicaret Sırları Açığa Çıktı ve 
+riskinizi nasıl yöneteceğinizi tam olarak yazın.
+PARA YÖNETİM KURALLARINIZ
+___________________________________________________________________________
+___________________________________________________________________________
+___________________________________________________________________________
+___________________________________________________________________________
+___________________________________________________________________________
+Unutmayın, para yönetimi gerçekten de herhangi bir ticaret sisteminin en önemli yönüdür. Bu 
+adımı belgelendirerek kendinizi en iyi %3'lük tüccarlar arasına sokmuş olursunuz.
+Tebrikler!! En üstteki %1'e yaklaşıyorsun.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Para yönetimi kurallarınızı doğru bir şekilde belirleyelim.
+YAPILMASI GEREKENLER EYLEM ADIMLARI:
+1.Buraya tıklayın bir kopyasını satın almakTicaret Sırları Açığa Çıktı
+Yakında para yönetiminin sırlarını keşfedeceksiniz.
+2. Trading Secrets Revealed'ı dinleyin ve programda özetlenen para 
+yönetimi kurallarını sade bir İngilizceyle yazın (giriş sinyallerinizi 
+içeren önceki bölümde satın aldığınız pakete de başvurmanız 
+gerekebilir).
+6. dersin eylem adımlarını tamamladınız mı?
+Aksi takdirde, okumaya devam etmeden önce bu adımları tamamlayın.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+"Ne zaman tutacağınızı ve ne zaman bırakacağınızı bilmelisiniz" - Willie Nelson
+Ders 7
+ÖNEMLİ:
+Bu bölümün daha ayrıntılı bir açıklaması için, kopyanızı incelediğinizden emin 
+olun.Ticaret Sırları Açığa Çıktı Bu bölüm, Trading Secrets Revealed içeriğini 
+tekrarlamak yerine, hızlı bir tekrar niteliğinde tasarlanmıştır.
+Mükemmel Çıkış
+Doğru hisse senedini ve doğru sayıda hisse senedini satın almak, bir pozisyondan ne 
+zaman çıkacağınızı bilmiyorsanız hiçbir işe yaramaz. Aslında, çıkışınızı tanımlayan bir 
+stratejiye sahip olmak, girişinizi tanımlamak kadar önemlidir. Bu sadece sağduyudur. 
+Ancak, çoğu yatırımcı bir ticaret sisteminin bu önemli yönüne hiç düşünmez.
+Bir işleme girmeden önce çıkışlarınızın nerede olduğunu bilmelisiniz. Her işlem için 
+en az iki tane vardır. İlk olarak, işlem aleyhinize giderse stop loss'unuz nedir? İkinci 
+olarak, işlem lehinize hareket ederse trailing stop'unuz nedir? Bu stop'ların 
+yazılması gerektiğini unutmayın. Zihinsel stop'lar sayılmaz.
+Ne yazık ki, acemi tüccarların çoğu, "kârlarınızın akmasına izin verip zararlarınızı kısa 
+keserek" ticaretin asırlık kurallarını çiğnemeye mahkûmdur. Bunu, çıkış kurallarını 
+tanımlamada başarısız olarak yaparlar. Gerçek şu ki, psikolojik olarak, insanlar haklı 
+olmaları gerektiğine inanmaya zorlanmıştır.
+Demek istediğim şu ki, disiplinsiz bir yatırımcı bir ticarete girdiğinde bu ticaretten kar elde 
+etmeyi bekler. Ancak, hisse senedi fiyatı onlara karşı giderse, kendilerinin "haklı" olduğunu 
+hisseder ve hisse senedini kar elde edene kadar elinde tutarak satın almalarının nedenini 
+haklı çıkarırlar. Ne yazık ki ve büyük olasılıkla, zaman geçtikçe kayıpları daha da artar.
+Bir kayıp durumunda olduğu gibi, pozisyon kendi lehlerine hareket ederse, disiplinsiz yatırımcı ilk 
+bakışta herhangi bir kâr gördüğünde pozisyonu satar. Bu kazanan ticareti kristalleştirme ve "haklı" 
+olma konusunda doğal bir ihtiyaçları vardır. Açıkça, bu kârlarınızın akmasına izin verme kuralıyla 
+doğrudan çelişmektedir.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+Her iki durum da çıkış noktalarını önceden tanımlayarak önlenebilir. Çıkışlarınızı işler ters gittiğinde 
+fırlatma koltuğu ve işler yolunda gittiğinde sizi bağlayacak bir emniyet kemeri olarak ayarlamayı 
+düşünün. Giriş koşullarında olduğu gibi, çıkışlar da hassas bir şekilde tanımlanmalı ve %100 mekanik 
+olmalıdır.
+Artık çıkış kurallarınızı belgelemeye hazırsınız. Hem Trading Secrets Revealed'ı hem de 
+giriş sinyallerinizi içeren paketi kullanarak, bir sonraki göreviniz çıkış kurallarınızı yazılı 
+hale getirmektir.
+ÇIKIŞ KURALLARINIZ
+___________________________________________________________________________
+___________________________________________________________________________
+___________________________________________________________________________
+___________________________________________________________________________
+___________________________________________________________________________
+Çıkış kurallarınızı belgelendirerek kendinizi en iyi %2'lik yatırımcı arasına 
+soktunuz. Tebrikler!! Neredeyse en iyi %1'lik dilimdesiniz.
+Çıkış kurallarınızı doğru belirleyelim.
+YAPILMASI GEREKENLER EYLEM ADIMLARI:
+1. Kopyanızı kullanmaTicaret Sırları Açığa Çıktı ve giriş sinyalleri 
+paketiniz - sade bir İngilizce ile yazın - çıkış kurallarınızı.
+ÖNEMLİ:
+Bu noktada, artık işlem sisteminizin 3 bileşenini tam olarak belgelemiş olmalısınız... 
+Bununla birlikte, herhangi bir işlem sistemini tasarlamanın belki de en önemli alanını 
+henüz tartışmadık. Sisteminizle işlem yapmak için ihtiyaç duyduğunuz güveni size 
+sağlayacak olan alan budur. Okumaya devam ettiğinizden emin olun.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+7. dersin eylem adımlarını tamamladınız mı?
+Aksi takdirde, okumaya devam etmeden önce bu adımları tamamlayın.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+"Parlaklığı asla boğa piyasasıyla karıştırmayın." - Paul Rubin
+Ders 8
+Grafik Yazılımınızı Seçme
+Bir ticaret sistemi, sistemi uygulamak için gerekli araçlar olmadan işe yaramaz. Ancak, bir paket 
+seçmek veya bir paketi kullanıp kullanmamaya karar vermek, yeni başlayanlar için çok kafa karıştırıcı 
+olabilir. Bu, özellikle tüccarlara yardımcı olmak için kelimenin tam anlamıyla yüzlerce yazılım 
+paketinin mevcut olduğunu düşündüğünüzde geçerlidir.
+Sayfalara bakarken, herhangi bir grafik yazılımı satın almak için binlerce dolar 
+harcamayın. Genellikle fiyat, daha pahalı olanın daha iyi olduğu zihniyetinden 
+yararlanmak için şişirilir. Doğrusu, çoğu grafik paketi çok benzer işlevler gerçekleştirir 
+ve 1000$'ın altındaki bir grafik paketi, en gelişmiş tüccarların bile ihtiyaç duyduğu 
+görevlerin hemen hemen hepsini gerçekleştirir.
+İkincisi, geniş bir kullanıcı tabanına sahip bir grafik paketi seçin... bu şekilde, yardıma 
+ihtiyacınız olduğunda, size yardımcı olabilecek birçok destek kanalı olacaktır.
+Şahsen ben kullanıyorum ve tavsiye ediyorumMetaStok (Yıllardır kullanıyorum). Bir 
+yatırımcının ihtiyaç duyabileceği hemen hemen her türlü özelliği barındırıyor. Kullanımı 
+da kolay ve haklı olarak piyasa lideri olarak kabul ediliyor. Aslında, MetaStock "En iyi 
+analiz yazılımı için Hisse Senedi ve Emtia Okuyucularının Seçimi Ödülü"nün sahibi 
+seçildi11 kez.
+MetaStock'un açık ara en güçlü özelliği Exploration modülüdür. Basitçe söylemek 
+gerekirse, explorer kullanıcıya tek seferde on binlerce menkul kıymeti tarayarak 
+yalnızca önceden tanımlanmış kriterleri karşılayanları belirleme olanağı verir. Bu işlev 
+tek başına MetaStock'u paha biçilmez kılar. İşlem sisteminizi neredeyse tamamen 
+otomatikleştirir.
+Keşif modülü sadece bir avantajdır; MetaStock ayrıca bazı paha biçilmez geriye dönük test 
+seçeneklerinin avantajına da sahiptir (bunların önemini bir sonraki bölümde ele alacağız).
+Diğer iyi haber ise Equis'in MetaStock ürünleri için 100.000'den fazla kullanıcıya sahip bir kullanıcı tabanına sahip 
+olmasıdır. Bu sayede ihtiyaç duyabileceğiniz her türlü desteği bulabileceğinizden emin olabilirsiniz.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Destek için çok fazla aramanıza gerek kalmayacak; MetaStock topluluğuna yardımcı 
+olmak amacıyla bir web sitesi kurdumwww.meta-formül.com Sadece bu web sitesinde, 
+MetaStock'tan en iyi şekilde yararlanmak için ihtiyacınız olan tüm desteği bulacaksınız.
+Hangi grafik yazılımını seçerseniz seçin, size bir tavsiyede bulunacağım. Yazılımın, 
+bir yatırımcının iş faaliyetlerini yürütmesine yardımcı olan basit bir araç olduğunu 
+kabul etmek önemlidir. Sizin için her şeyi yapan bir yazılım paketi diye bir şey 
+yoktur.
+Alım satım önerileri veren paketlerden uzak durun. Genellikle "kara kutu 
+programları" olarak anılırlar. Sıkı testlerle kara kutu program paketlerinin işe 
+yaramadığını buldum.
+Genel olarak, zor kazanılan sermayenizi bir bilgisayar programına aktarabileceğiniz, 
+arkanıza yaslanıp çek toplayabileceğiniz ve servet oluşturabileceğiniz mitine inanan 
+yatırımcılar gerçekle hiç yüzleşmiyorlar.
+Başarılı yatırımcıların kazandığı parayı kazanmak istiyorlar, ancak başarılı olmak ve başarılı 
+kalmak için gereken becerileri geliştirmek için gereken sıkı çalışmayı yapmak istemiyorlar.
+Zamanınızı ve paranızı başka yerde harcamanız daha iyi olur.
+MetaStock'u tavsiye etsem de, incelemeye değer diğer paketler şunlardır: Advanced 
+Get, OmniTrader, SuperCharts, AmiBroker, Market Analyst ve TradeStation.
+Hazır olduğunuzda, aşağıdaki alana hangi grafik yazılımını kullanmayı 
+planladığınızı yazın:
+___________________________________________________________________________
+Son olarak, grafik yazılımı piyasa verileri olmadan pek işe yaramaz. Evet, bazı yazılım paketleri 
+kendi veri akışlarını sunar, ancak çoğu üçüncü taraf akışlarıyla çalışır. Hangi veri sağlayıcısını 
+seçeceğiniz, hangi yazılım ve piyasada işlem yapmaya karar verdiğinize bağlı olarak değişecektir.
+Yine de tahmin edebileceğiniz gibi bulabileceğiniz hemen hemen her veri sağlayıcısını test ettim, 
+tüm bunlardan sonra birinin hemen hemen her şeyi yaptığını gördüm.
+Eğer bu konuda daha fazla bilgi edinmek istiyorsanızsahip olduğum toplam veri yönetimi çözümü
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Bulmak için buraya tıklayın.
+Sadece Avustralya, Asya, Kanada, Avrupa, İngiltere ve ABD'deki piyasalar için hisse senetlerini, 
+vadeli işlemleri ve dövizleri desteklemekle kalmaz, aynı zamanda çoğu grafik paketiyle de 
+uyumludur. Gerçekten de toplam bir veri yönetimi çözümüdür. Alternatif olarak, biraz araştırma 
+yapmak isteyebilirsiniz.
+Aşağıdaki alana uygun bir veri sağlayıcısı bulduğunuzda, hangi veri 
+sağlayıcısını kullanacağınızı yazın:
+________________________________________________________________
+Grafik yazılımınızı ve verilerinizi doğru hale getirelim.
+YAPILMASI GEREKENLER EYLEM ADIMLARI:
+1.Bir grafik paketi satın alın -Buraya tıklayın satın almak MetaStok .
+2.Grafik paketinizi tam potansiyeliyle nasıl kullanacağınızı öğrenin -
+Buraya tıklayın MetaStock satın aldıysanız.
+3.Bir veri sağlayıcı seçin -Buraya tıklayın Önerdiğimiz toplam veri 
+yönetimi çözümünü görmek için.
+8. dersin eylem adımlarını tamamladınız mı?
+Aksi takdirde, okumaya devam etmeden önce bu adımları tamamlayın.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+"Sisteminizin geriye dönük testini yapmadan geçen her gün size para kaybettiriyor."
+Ders 9
+Geriye Dönük Testin Gizli Sanatı
+Herhangi bir akıllı yatırımcının gerçek parayla bir sistemle işlem yapmaya başlamadan önce 
+mümkün olduğunca çok test yapacağını kabul etmelisiniz.
+Geriye dönük test, bir işlem stratejisini geçmiş veriler üzerinde test ederek bu veri 
+kümesi üzerinde ne kadar iyi performans göstereceğini belirleme sürecidir. Bu 
+sonuçların yorumlanması daha sonra tüccara işlem sisteminin potansiyelini 
+değerlendirmek için yeterli bilgi sağlar.
+Mantıksal olarak, bu tür testlerden elde edilen sonuçların gelecekteki getirileri tahmin 
+edemeyeceğini biliyoruz. Ancak, bir ticaret sistemini takip edip etmemeniz gerektiğine 
+dair bir gösterge sağlayabilir.
+Gerçek şu ki, işlem yapmak için hangi teknik analiz kriterini kullanırsanız kullanın - ister 
+hareketli ortalamalar, ister mum çubukları, volatilite kırılmaları, fibonacci düzeltmeleri veya 
+başka herhangi bir işlem sistemi olsun - kabiliyeti hakkında olası tüm şüpheleri ortadan 
+kaldırmak için onu iyice geriye dönük test etmeniz gerekecektir.
+Geriye dönük test yapılmadığında güven eksikliği ortaya çıkar ve genellikle 
+tüccarları kendi işlem sistemlerini sorgulamaya zorlar. Yıkıcı sonuçlar doğuracak 
+şekilde işlem planlarını değiştirme cazibesine kapılırlar. Bu cazibe, bir dizi 
+kaybedilen işlemden veya işlem sistemlerini genellikle tüccar sohbet forumlarında 
+konuşulan harika bir göstergeyle değiştirme fırsatından kaynaklanır.
+Gerçek olamayacak kadar iyi görünen her şey, ilk etapta sistemlerini düzgün bir 
+şekilde test etmedikleri için işlem sistemlerinden memnun olmayan herhangi bir 
+tüccarın dikkatini çekecektir. Ayrıca, geliştirilen sistemi başarıyla işlem yapmak için 
+gereken güveni de oluşturmamışlardır.
+Sonuç olarak, olumsuz bilinçaltı düşünceler yalnızca başarılı bir şekilde işlem yapma yeteneğinizi 
+engelleyecek ve yok edecektir. İşlem sisteminize olan güveninizi artırmak için, onu kapsamlı ve nesnel 
+bir şekilde geriye dönük olarak test etmeniz gerekir - bu kadar basit! Ancak o zaman ona zaman ve 
+para ayırmaya yetecek kadar kendinize güvenirsiniz!
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Geriye Dönük Testin Önemi
+İşlem yaparken, çoğu yatırımcının aklındaki soru nedir? Bu soruyu cevaplamak için 
+Mark Jurik'in "Bilgisayarlı İşlem" kitabının 8. Bölüm "Geriye Dönük Test" 
+bölümünden giriş alıntısı yapacağım.
+Yatırım stratejim karlı olacak mı?
+Zorlu bir işlem stratejisi oluşturma sürecinden geçtikten sonra, kendinize sormanız 
+gereken soru şudur. Bu soruyu cevaplayabilme yeteneği, tüm yatırımcılar için geriye 
+dönük testin sunduğu büyük bir vaattir. Başarılı bir geriye dönük test prosedürü, 
+kârsız bir stratejiyle veya beklentilerinizi karşılamayan bir stratejiyle işlem yapmaya 
+başlama olasılığınızı büyük ölçüde azaltacaktır. Sağlam ve titiz bir geriye dönük test 
+yaklaşımı benimseyerek şunları yapacaksınız:
+Pazara yönelik hangi yaklaşımların başarılı olma olasılığının yüksek olduğunu ve hangilerinin
+bazıları değil.
+Test ettiğiniz her işlem stratejisi için gelecekteki performansa ilişkin iyi tahminler oluşturun.
+İşlem stratejinizin geçmiş işlem performansının kaydını oluşturun.
+Varlık tahsis stratejiniz gibi işlem yaklaşımınızın diğer bileşenleri için 
+gerekli verileri üretin.
+... Ancak soru şu: Bir ticaret sisteminin performansını zaman içinde nasıl test edebilirsiniz? Bunu 
+yapmanın yalnızca iki yolu vardır, manuel veya bilgisayar yazılımıyla. Dürüst olmak gerekirse, 
+bilgisayar yazılımı tek "gerçek" seçenektir. Her iki test yöntemini de denedim ve manuel test 
+yalnızca zaman alıcı olmakla kalmaz, aynı zamanda tekrarlanması da çok zordur vetestetkili bir 
+şekilde.
+Geri test yazılımından elde edilen faydalar hafife alınamaz. Size zaman kazandıracak ve 
+fikirlerinizin ince ayarını yapmak ve varyasyonlarını test etmek için sonsuz bir fırsat 
+sağlayacaktır. İyi bir geri test yazılımı satın almak için küçük bir sermaye harcaması, 
+potansiyel olarak size tasarruf sağlayacaktırbinlerce , piyasada; başarılı ve mekanik bir 
+işlem sistemi tasarlamayı düşünüyorsanız çok akıllıca bir yatırımdır.
+Satın almaya karar verenler içinMetaStok , seçiminiz kolay... Araştırmayı yaptım ve 
+Metastock için bir portföy genelinde bir işlem sistemini hızlı bir şekilde geriye dönük 
+test edip değerlendirebilen ilk gerçekçi, gerçek işlem simülatörünü/analizörünü buldum
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+menkul kıymetler. Buna denirTicaret simsarı .
+Kısacası, TradeSim belirli bir ticaret sisteminin tarihsel performansını dakikalar içinde 
+değerlendirebilir ve bunu gerçek hayattaki bir ticaret senaryosunun gerçekçi bir temsiliyle 
+yapabilir. İster tek bir menkul kıymet ister birden fazla menkul kıymet portföyü olsun, 
+TradeSim şu basit soruyu yanıtlar:
+"Geçmişte bu sistem uygulansaydı ne olurdu?"
+Kulağa basit geliyor - ancak çoğu grafik paketiyle olduğu haliyle yapmak son derece 
+karmaşık, hatta imkansız. Ancak, TradeSim ile Metastock ile birlikte çalıştırmak ve 
+ortaya çıkan işlem verilerini analiz etmek basit bir meseledir.
+Ama benim sözüme güvenmeyin... İşte bir tüccarın söyledikleri:
+“Ticaret hakkında düzinelerce kitap okudum, çeşitli bültenlere abone oldum ve 
+sayısız seminere katıldım, bu yüzden her şeyi bildiğimi düşünüyordum. Ta ki 
+Tradesim Professional'ı satın alana kadar ve gerçek bir şok yaşadım. Bunu 
+söylediğimde bana inanın, TradeSim açık ara en iyi öğretmendir...”
+JB - Washington, ABD
+TradeSim ile Metastock, her zamankinden daha güçlü hale geliyor; hatta maliyeti 1000 doları bulan işlem 
+paketleriyle bile rekabet edebiliyor.birçok binlerce dolar!
+TradeSim'in Metastock'a kattığı işlevsellik ve güce yaklaşmak için her iki paketin 
+birleşimini bir araya getirmek için binlerce dolar harcamanız gerektiğini 
+muhtemelen bilmiyorsunuzdur. Yine de, rekabet eden paketler analiz gücü ve 
+seçenekleri ile kullanım kolaylığı söz konusu olduğunda oldukça yetersiz kalıyor. 
+TradeSim, baştan sona profesyonel yatırımcı düşünülerek oluşturuldu!
+Sisteminiz iyi görünebilir… "Peki ya gerçek dünya ticaret performansı?" Sisteminiz 
+genellikle giriş ve çıkış tetikleyicilerinden ve mükemmel para yönetimi kurallarından 
+oluşur. Bu parametreler temel olarak bir ticaret sistemi için bir çerçeve tanımlar. Bir 
+ticaret sistemini diğer paketlerin çoğuyla geri test etmeye çalışmanın sıkıntısı, son 
+derece sınırlı bir arayüz sağlamalarıdır. Sonuç olarak, bu diğer paketlerle, potansiyel 
+ticaret sisteminizin performansına ilişkin çarpık bir görüş elde edersiniz.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+TradeSim, teknik analizde yeni alanlar keşfetmenin yanı sıra yukarıdaki tüm 
+sorunlara çözüm getirirken, mevcut yazılım teknolojilerinin ele almadığı yeni 
+sorunları da ortaya çıkarıyor.
+İlk kez, işlem sisteminizi işlem yapacağınız şekilde geriye dönük test edebilir ve 
+performansını nesnel olarak analiz edebilirsiniz! Bu gerçekten bir işlem sistemi 
+tasarlamanın son adımıdır ancak çok az sayıda yatırımcı bir işlem sisteminin karlılığını test 
+etmek için gereken bilgiye veya sabra sahiptir.
+Geriye dönük testin, öz şüpheyi ortadan kaldırmanın tek yolu olduğuna inanıyorum. 
+Güvenilir ve sağlam bir işlem sisteminiz olduğunu ancak o zaman işlem yaparken kendinize 
+güvenebilirsiniz.
+Bir sonraki adımınız kendinize bir geri test paketi satın almaktır - tavsiye ederimTicaretSim .
+Hazır olduğunuzda, aşağıdaki alana hangi geri test yazılımını kullanmayı 
+planladığınızı yazın:
+___________________________________________________________________________
+Sistem tasarımı bulmacasının son parçası, önceki bölümlerde tasarladığınız ticaret 
+sistemini alıp test etmektir. Sistemlerinizi test ederek kendinizi en iyi %1'lik tüccarlar 
+arasına soktunuz. Tebrikler!! Başardınız!
+Geri test yazılımınızı doğru hale getirelim.
+YAPILMASI GEREKENLER EYLEM ADIMLARI:
+1. Bir geri test paketi satın alın -Buraya tıklayın TradeSim'i satın almak 
+için.
+2. Giriş, çıkış ve para yönetimi kurallarınız dahil olmak üzere yeni tasarlanmış 
+sisteminizi geriye dönük olarak test edin. Bu konuda yardıma ihtiyacınız varsa şu 
+adresi ziyaret edin:www.meta-formül.com
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+Son Bir Uyarı:
+Kendinizi o sihirli sırrı bulma umuduyla sürekli test ederken bulursanız, unutmayın 
+ki asla %100 başarı oranına sahip bir ticaret sistemi yaratamazsınız. Birçok kişi 
+denedi ve herkes başarısız oldu.
+Minimum düşüş ve iyi bir ödül risk oranına sahip iyi bir işlem sistemi aramalısınız. 
+Birçok işlem sisteminde kazandıranlardan daha fazla kaybeden işlem vardır ve yine 
+de para kazandırırlar. Nasıl mı? Trading Secrets Revealed'da öğrendiğiniz gibi, 
+işlemin kutsal kasesi sizinPara Yönetimi .
+9. dersin eylem adımlarını tamamladınız mı?
+Aksi takdirde, okumaya devam etmeden önce bu adımları tamamlayın.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+"Parlaklığı asla boğa piyasasıyla karıştırmayın." - Paul Rubin
+Ders 10
+Ticaret Sistemlerinin Analizi
+Zeki sistem testçisi, bir ticaret sisteminin değişkenlerindeki ufak bir değişikliğin karlılığı 
+üzerinde çarpıcı etkilere sahip olabileceğini fark etmiş olabilir. Ancak karlılık, bir ticaret 
+sistemini değerlendirmeniz gereken tek kriter midir?
+Cevap çok açık: HAYIR!
+İşte dikkat etmeniz gereken birkaç kriter daha:
+O
+O
+O
+O
+O
+Sisteminizin güvenilir bir şekilde karlı olduğundan memnun 
+musunuz? Çekilmeleriniz hesabınızı silecek mi?
+Sisteminiz sizin tolere edebileceğiniz şekilde işlem görüyor mu?
+Uzun süre işlem yapmamaya veya çok fazla işlem yapmaya tahammül edebilir misiniz? 
+Büyük bir kayıp serisine tahammül edebilir misiniz?
+Bu ve benzeri soruları tam olarak cevaplamak için, geriye dönük testinizin sonuçlarını analiz 
+etmelisiniz. Ne yazık ki, çoğu geriye dönük test programının sağladığı çok sayıda işlem 
+istatistiğiyle, bunu söylemek yapmaktan daha kolay olabilir. Gerçekten sadece birkaç kritik 
+istatistiğe dikkat etmeniz gerektiğine inanıyorum. İşte yakından dikkat ettiğim istatistikler:
+Kazanma/Kaybetme Oranı
+Bir işlem sisteminin performansını değerlendirdiğinizde, size o sistemin gücüne dair iyi 
+bir gösterge sunan ilk istatistiklerden biri Kazanma/Kaybetme oranıdır. Basitçe 
+söylemek gerekirse, bu, dolar cinsinden ortalama kazanan işlemin, dolar cinsinden 
+ortalama kaybeden işleme oranıdır.
+Bu oran ortalama olarak kaybettiğinizden daha fazla kazandığınızı gösteriyorsa 
+doğru yoldasınız. Ancak, bu istatistiğin tek başına yeterli olmadığını fark edin çünkü 
+bu kazanç veya kaybı üretmek için ne kadar risk alındığına bakmıyor.
+Risk Çoklu
+Risk çarpanı (R-Çarpanı), kazanma/kaybetme oranına dayanır; yani kazanma/kaybetme oranı, o 
+kazanma/kaybetmeyi sağlamak için riske edilen para miktarına kıyasla belirlenir.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+İşlemden elde edilen getirinin, işlem için alınan risk miktarına kıyasla ölçüsüdür.
+Örneğin, 100$ riske edip 500$ kar elde ederseniz, işlemde riske ettiğiniz miktarın 5 
+katını kazanmış olursunuz, bu durumda R-çarpanınız 5 olur. Bu, riske ettiğiniz her 
+1$ için 5$ ile ödüllendirildiğiniz anlamına gelir.
+Kazanma/kaybetme oranına benzer şekilde, bu istatistik tek başına bir işlem sisteminin işlem yapmaya 
+değer olup olmadığını belirlemeye yeterli değildir.
+Beklenti
+Bir ticaret sisteminin beklentisi, sahip olabileceğiniz en güçlü istatistiklerden biridir, 
+çünkü bu, işlem hacminin büyüklüğünden bağımsız olarak bir sistemin 
+performansını ölçmenin bir yoludur.
+Basitçe, sistemimin riske attığım her dolar için ortalama ne kadar para kazanabileceği 
+sorusuna cevap verir.
+Kısaca, işlem sistemi tarafından riske edilen her dolar için beklenen dolar getirisini 
+döndürür. Bu, yukarıda tanımladığımız ödül risk oranından farklıdır, bu belirli bir 
+ödül-risk oranıydı. Beklenti, riske ettiğiniz her dolar için dolar cinsinden bir getiri 
+tanımlar.
+Örneğin, pozitif beklentiye sahip bir sistem, riske edilen her dolar için pozitif dolar 
+getirisi beklenen bir sistemdir. Sisteminizin beklentisi +0,75 ise, ortalama olarak 
+işlemde riske ettiğiniz miktarın 0,075 katını kazanmayı beklersiniz. 1 dolar riske 
+ederseniz, aldığınız her işlem için ortalama 0,75 dolar kazanmayı beklersiniz.
+Bir rehber olarak, eğer 0,60$ beklentisini yakalayabilirseniz, iyi ve karlı bir işlem sistemine 
+sahipsiniz demektir.
+İşlem Sayısı
+Sonra, bir sistemin bir yıl boyunca verdiği işlem sayısı var. Bunu paha biçilmez, 
+ancak nadiren konuşulan bir istatistik buluyorum.
+Ticaret sisteminiz çok fazla veya çok az işlem vermemelidir. Bir ticaret sisteminin 
+verdiği işlem sayısı gerçekçi olarak alınabilecek olanla yaklaşık olarak aynı olmalıdır.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Madalyonun iki yüzü de eşit derecede tehlikelidir. Bir sistem çok fazla işlem veriyorsa, 
+sinyaller arasında seçim yapmak zorunda kalırsınız, bu da sisteme belirsizlik ekler. 
+Belirsizlikle birlikte insan takdiri gelir ve bu genellikle işlem sisteminin performansı 
+üzerinde olumsuz bir etkiye sahiptir.
+Öte yandan, eğer bir sistem çok az işlem imkanı veriyorsa, işlem sermayeniz tam 
+olarak kullanılmayacak ve mevcut işlem fırsatlarından tam olarak 
+yararlanamayabilirsiniz.
+Peki bir ticaret sistemi için en uygun işlem sayısını nasıl hesaplarsınız? Sorduğunuz için memnun 
+oldum☺
+Bu, “fırsat” adı verilen hesaplama ile yapılır. Kısaca fırsat, bir işlem sistemi için en 
+uygun fırsatınızı belirlemenize yardımcı olur.
+Fırsat = (240 / İşlemdeki Ortalama Gün Sayısı) * (İşlem Serbestliği / Ortalama İşlem Boyutu)
+Örneğin, aşağıdaki değişkenlere sahip bir ticaret sistemi için en uygun fırsat 
+şu olacaktır:
+Yüzdürme = 25.000 $
+Ortalama İşlem Gün Sayısı = 19 
+Ortalama İşlem Boyutu = 3.500 $
+Fırsat = (240 / 19) * (20.000/3.500) = Yılda 72 işlem.
+Yıllık Karlılık Getirisi
+Son olarak, ele aldığımız istatistiklerle, işlem sisteminizin yıllık karlılık getirisini 
+hesaplayabiliriz. Bir işlem sisteminin karlılığı, beklenti ve fırsatın birleşimidir.
+Şimdi yapmanız gereken tek şey, daha önce hesapladığınız değerleri aşağıdaki formüle 
+yerleştirmek:
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+Yıllık Karlılık Getirisi = Beklenti * Fırsat * İşlem Başına Risk Yüzdesi1.
+Örneğin, .75 beklentisi olan bir sistemin yılda 72 işlem fırsatı varsa ve işlem 
+başına maksimum %2 risk alıyorsak, yıllık karlılık getirisi
+aşağıdaki gibi hesaplanacaktır:
+Yıllık Karlılık Getirisi = .60 * 72 *2% = %86,4 pa
+1. İşlem Başına Yüzde Risk TanımıTicaret Sırları Açığa Çıktı
+Bu istatistiklerin içindeki gücü görebiliyor musunuz? İstatistikler gerçekten de başlı başına bir 
+derse layık bir konudur. Gerçekten de bir ticaret sistemine dair muazzam bir içgörü sağlarlar.
+Bu konuyu ilginç bulduysanız ve bu konu hakkındaki anlayışınızı daha da 
+genişletmek istiyorsanız, Dr. Van Tharps'ın çalışmalarına daha fazla bakmak ilginizi 
+çekebilir. Aslında, sistem tasarımının anlaşılması için kritik olan bu konuları ve diğer 
+birçok konuyu kapsayan harika bir kursu var.
+Tharp'ın kursunun adıSize Uygun Kazanan Bir Ticaret/Yatırım Sistemi Geliştirmek ve 
+bunu paha biçilmez buldum. Kritik olmasa da, kopyanızı çevrimiçi olarak satın 
+alabilirsinizburaya tıklayarak .
+Seni bir pazarlama sihirbazı yapalım.
+YAPILMASI GEREKENLER EYLEM ADIMLARI:
+1.Buraya tıklayın Van Tharp'ın "Size Uygun Kazanan Bir Ticaret/
+Yatırım Sistemi Geliştirmek Bu programdan amacınız, 
+istatistik kullanarak bir ticaret sisteminin nasıl 
+değerlendirileceğini anlamaktır.
+10. dersin eylem adımlarını tamamladınız mı?
+Aksi takdirde, okumaya devam etmeden önce bu adımları tamamlayın.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+"TAracılara "aracı" denmesinin sebebi, onların sizden daha fazla aracı olmasıdır.”
+- Robert Kiyosaki'nin Zengin Babası
+Ders 11
+Brokerinizi Seçmek
+Bu noktada, işlem yapmaya hazır, tamamen test edilmiş bir sisteminiz olmalı. 
+Bulmacanın son parçası, brokerinizi seçmektir. Çoğu piyasa, tüm yatırımcıların 
+işlemlerini bir broker aracılığıyla gerçekleştirmesini gerektirir. Neyse ki bu seçim 
+kolaydır... gerçekte sadece 2 tür broker vardır: tam hizmet brokeri ve indirimli broker.
+Tam hizmet veren bir broker, müşterilerine prim ödenerek tavsiyelerde bulunur. 
+Karar almanın önemine ilişkin önceki tartışmalar göz önüne alındığında, bu hizmeti 
+gereksiz olarak kabul etmelisiniz. Ticaret sisteminizi takip ediyorsanız, bu tür 
+tavsiyeler yalnızca karar alma süreçlerinizi karıştırmaya hizmet edecektir.
+Sonra indirimli brokerlar var... bu firmalar hesabınızla nasıl işlem yapacağınıza dair tüm 
+kararları size verir. Tek yapmanız gereken aramak, bir emir vermek ve firma bunu 
+gerçekleştirir. İndirimli brokerlar müşterilerine tavsiyede bulunmaz; bu nedenle araştırma 
+personeli istihdam etmelerine gerek yoktur. Bu, genel giderlerini azaltır ve indirimli oranlar 
+sunmalarını mümkün kılar.
+"İyi" bir brokerı nasıl anlarsınız?
+Öncelikle, anahtar kelime "iyi"dir. Bu durumda, sizin, işlem tarzınız, kişiliğiniz ve 
+ihtiyaçlarınız için iyi anlamına gelir. Müşterilerime çevrimiçi indirimli bir broker ile hesap 
+açmalarını öneririm. Bununla birlikte, nihai olarak seçeceğiniz brokerlar, nerede 
+yaşadığınıza ve hangi piyasada işlem yapmaya karar verdiğinize bağlı olarak 
+değişecektir.
+Brokerınızı seçerken dikkate almanız gereken bazı sorular şunlardır:
+1. Gerçek komisyon oranları nelerdir?
+Şirketler için ilan edilen oranlar işlem başına 0 ila 40 dolar arasında değişir; 
+ortalama oran yaklaşık 20 dolardır. Ancak, şirketin ilan edilen oranının gerçekte ne 
+için geçerli olduğuna yakından bakın. Çoğu durumda, limit emirleri, opsiyonlar ve 
+telefonda 'canlı' bir aracı kullananlar için daha yüksek komisyon ücreti olacaktır. İlan 
+edilen komisyon oranınınneredeyse hiç yaptığınız ticaret türlerine uygulayın.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+2. Herhangi bir ekstra ücret var mı?
+Birçok şirket, her bir işleme önemli maliyetler ekleyebilecek ek 'gizli' ücretler talep eder. Dikkat 
+edilmesi gereken ücretler arasında, para transferleri (hesabınıza hem giriş hem de çıkış), sigorta, 
+yönetim ücretleri, gecikmeli ödeme cezaları ve daha fazlası yer alır. Daha fazla ayrıntı için 
+şirketin küçük yazılarına bakmanız veya onlara e-posta göndermeniz gerekir.
+3. Birden fazla piyasada işlem yapabilir misiniz ve komisyonlar aynı mıdır?
+İşlemleriniz ilerledikçe ve yeni piyasaları denemeye karar verdikçe, tanıdığınız ve 
+güvendiğiniz broker'a bağlı kalmak daha kolaydır. Bu nedenle, gerçekten önceden 
+plan yapmalı ve büyüdükçe ihtiyaçlarınızı karşılayabilecek bir broker seçmelisiniz.
+4. Telefonla işlem yapmak ekstra ücrete tabi midir?
+Diğer ücretlere ek olarak, çoğu firmanın telefonla işlem yapmak istiyorsanız, 'canlı' bir broker 
+kullanarak daha yüksek oranları vardır. Bağlantıları güvenilir değilse bunu kullanmak zorunda 
+kalabilirsiniz, bu yüzden akıllıca seçtiğinizden emin olun.
+5. Hesabınızda bulunan yatırılmamış nakit bakiyesine faiz ödeyecekler mi?
+Bazıları %3-4 aralığında ödeme yapıyor. Güzel bir küçük bonus!
+6. Büyük bir depozito ile mi başlamanız gerekiyor?
+Hesap açmak için gereken yüksek asgari bakiyelere dikkat edin. Bazı şirketlerin iyi oranları 
+olsa da, başlamak için 10.000 dolara ihtiyacınız olabilir. Daha önce denemediğiniz bir şirkete 
+'bahis' atmak çok fazla paradır.
+7. Hizmet ne kadar güvenilir?
+Çevrimiçi ticaretin hızı ve güvenilirliği büyük bir sorundur. Büyük bir çevrimiçi 
+indirim brokeri olan bir müşterim var ve hesabının 50.000 dolar düştüğünü gördüm 
+çünkü kendi taraflarındaki bir sistem hatası yüzünden bütün sabah boyunca 
+oturum açamadı! Başlamadan önce brokerin hizmet kalitesini bilmelisiniz - erişimin 
+hızı ve güvenilirliği, yazılımları vb. yoksa bir noktada size paraya mal olur.
+Bir broker seçerken nereden başlayacağınızdan hala emin değilseniz, size özel olarak bir broker bulmanıza 
+yardımcı olmak için tasarlanmış bir arama motoru kurdum.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Broker Arama'ya gitmek için buraya tıklayın -Dünyalar 1stBroker Arama Motoru.
+İşte nasıl çalıştığı, basitçe "indirimli komisyoncu" girin, ardından pazarınızı girin ve 
+sonra aramayı tıklayın. Örneğin, bir emtia komisyoncusu için "indirimli aracılık emtiaları
+" ve ardından ara'ya tıklayın.
+Sonuçlar ortaya çıktığında,Dünya çapında en iyi brokerlar arasından seçim yapınİşte bu kadar kolay!
+Burada biraz araştırma yapmanız gerekebilir, ancak uygun bir aracı kurum bulduğunuzda bir 
+hesap açın ve ardından işlem yapmaya başlayabilirsiniz.
+Aşağıdaki alana hangi brokerı kullanacağınızı yazın:
+___________________________________________________________________________
+Brokerınızı doğru anlayalım.
+YAPILMASI GEREKENLER EYLEM ADIMLARI:
+1. Çevrimiçi bir indirimli komisyoncu bulup hesap açın.Buraya tıklayın 
+ziyaret etmekBroker Arama .
+2. Yeni tasarladığınız sistemle işlem yapmaya başlayın ve bunu kusursuz bir şekilde 
+takip etmeyi unutmayın.
+11. dersin eylem adımlarını tamamladınız mı?
+Aksi takdirde, okumaya devam etmeden önce bu adımları tamamlayın.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+"İyi hissettiren şeyler genellikle yanlış şeylerdir." - William Eckhardt
+Ders 12
+Harika Bir Ticaret Sisteminiz Var... Peki Neden Kaybediyorsunuz?
+Lütfen aklınızda bulundurun:
+Bu bölüm Norman Hallett, Eski Tüccar ve CTA Başkanı Subconscious Training 
+Corp. tarafından gönderildi. Norman ve ürünleri hakkında daha fazla bilgi için 
+lütfenBuraya tıklayın .
+Ödevini yaptın.
+Doğru guruyu bulmak için sayısız saat (veya kendi sisteminizi bir araya getirmek). 
+Gurunuzun günlük ticaret seçimlerini haftalarca izlemek (veya kağıt ticareti yapmak ve ev 
+yapımı sisteminizi geriye dönük test etmek). Bunu kitaba göre yaptınız.
+Sizin için anlık ticaret yok!
+Tamam, artık kendinize güveniyorsunuz. Paranızı ödevlerinizin olduğu yere koymanın zamanı geldi.
+Kahvenizi içtiniz ve ilk işlem sinyaliniz karşınızda.
+Güven yüksek. İşlem yapıldı. İlk kayıp. Sorun değil.
+Başlamadan önce başarılı yatırımcıların hem kazandığını hem de kaybettiğini ve "kaybetmenin genel 
+kazanmanın bir parçası olduğunu" anlamıştınız. Ayrıca "başarılı yatırımcılar her işlemde kazanmaz" 
+ifadesini birden fazla kez duymuşsunuzdur.
+Devam ediyoruz, hala güveniyoruz. Sonraki işlem yapıldı. Başka bir kayıp, ama…
+Bu durum gururunuzu biraz zedeledi çünkü işlemin başında durduruldunuz ve daha 
+sonra piyasa toparlandı ve durdurulmasaydınız kar hedefinize ulaşmış olacaktınız.
+Tekrar kontrol et.
+Evet, stop seviyenizi işlem sisteminizin size söylediği yere yerleştirdiniz.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Piyasadaki erken zayıflığın bir önceki günkü işlemlerden kar elde etmek olduğu 
+hissine kapıldınız, ancak bir sistemle işlem yapıyorsunuz ve ona bağlı kalmalısınız. 
+Yaralı, ancak dirençli.
+İyi bir gece uykusunun ve birkaç tıklamanın ardından yeni günlük işlemleriniz 
+karşınızda.
+Hey, bu iyi görünüyor! Dünün işlemlerinden biraz daha fazla risk içeriyor, ama şu 
+kar potansiyeline bakın!
+Gülümseyen bir yüzle, işlem gerçekleştirilir. İşlemin güzel bir başlangıcıyla, kendinizi iyi 
+hissedersiniz ve stopunuzu, sisteminizin söylediği gibi, breakeven'a taşımış olursunuz.
+Sürpriz haber! Piyasa tersine döner - stop seviyenizi aşar - "beklenmedik" bir kayıp.
+Sistemde bir sorun mu var?
+Genel pazar "kişiliği" değişti mi, sisteminizi temelden etkiledi mi, tüm geriye 
+dönük testlerinizi geçersiz kıldı mı?
+Özgüveniniz şüpheye dönüşür.
+Bir sonraki işlemi "izlemeye" karar veriyorsunuz... Yani, "kötüye para harcamadan" önce 
+sistemin tekrar rayına oturduğundan emin olmak akıllıca değil mi?
+Muhafazakar bir yatırımcının yaptığı da bu değil midir?
+Trade izlendi. Kazandı!
+Kafanızda kendinizi biraz hırpalıyorsunuz çünkü biliyorsunuz ki "canlı" işlemlerinize 
+başladığınızda, ilk 10 işlemi "ne olursa olsun" yapacağınıza dair kendinizle bir 
+anlaşma yaptınız... ve burada korktunuz ve sizi eşitleyecek büyük bir kazancı 
+kaçırdınız.
+Neler oluyor?!!
+Olan şey şu ki, kontrolden çıktınız. Duygularınız ticaretinizi yönetiyor.
+Yukarıdaki senaryo zaman zaman her yatırımcının başına gelir... yeni başlayan veya deneyimli fark etmez.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+Kazanan tüccar ne olduğunu hisseder ve onu kökünden yok eder. Kazanan tüccar 
+HER GÜN zamanını "ticaret disiplini" üzerinde çalışarak harcar.
+En sevdiği psikolojik işlem kitabından bir bölüm okur, masasının üzerindeki duvarda 
+asılı duran “işlemin on emri”ni tarar, yatırımcılar için hazırlanmış zihinsel eğitim 
+yazılımını dinler…
+Bir şey... Her Gün... İşlemler başlamadan önce.
+Kaybeden yatırımcı sayısı, kazanan yatırımcı sayısından çok daha fazladır... ve bu durum nadiren 
+işlem sistemiyle ilgilidir.
+Kariyerim boyunca A+ olarak değerlendirdiğim en az 50 sistemle karşılaştım, ancak bu 
+sistemlerle işlem yapan ÇOĞU yatırımcının kaybettiğini biliyorum. Neden? Duygularını kontrol 
+edemediler. Siz kontrol edebiliyor musunuz?
+Bölüm Ekleme David Jenyns Tarafından
+Zeki okuyucu bu e-kitabın artık tam bir döngüye girdiğini fark etmiş olabilir. "Siz ve 
+zihniyetiniz" ile başladık ve şimdi siz ve zihniyetiniz ile bitireceğiz.
+"Siz ve zihniyetiniz" ile bitirmemin sebebi basit, ticaretinizde tam anlamıyla ustalaşmak 
+için duygularınızı ustalıkla yönetmelisiniz. Birçok kişi için bu asla kazanamayacakları bir 
+savaş... ya da ben öyle sanıyordum. Aslında, ben ya tüccar olarak doğduğunuza ya da 
+doğmadığınıza inanırdım. En zor ticaret prosedürlerini basitleştirme yolculuğumda 
+yanıldığımı keşfettim.
+Düşüncemdeki hataları görmeme yardımcı olan kişi Jake Bernstein ve onun yatırımcılar için 
+zihinsel eğitim konusundaki çalışmasıydı. Şimdi bu ticaret alanına gelince biraz şüpheciyim 
+çünkü daha önce hiç keyfime göre uygulanan bir zihinsel eğitim görmemiştim.
+İlgimi çeken bazı müşterilerim sayesinde Jake Bernstein'ın TradingMind 
+Yazılımını daha derinlemesine incelemeye başladım.
+Bulduğum şey, Bernstien'in o kadar özel bir şey yarattığı ki, ticaret potansiyelini en 
+üst düzeye çıkarmak isteyen herkes için olmazsa olmaz. Çalışmaları gerçekten 
+çığır açıcı ve en önemlisi, basit!
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+Tek yapmanız gereken yazılımını açmak ve yazılımın gerisini yapmasına izin vermek. 
+Yapmanız gereken tek tıklama çalıştırmak istediğiniz zihinsel eğitim seansını seçmek.
+Sonra arkanıza yaslanın ve rahatlayın. İşte bu kadar!
+İşte eğitiminin işe yaradığı alanlardan birkaçı:
+Kayıplarınızı tereddüt etmeden karşılama gücünü kazanın. Korkuyu, 
+şüpheyi ve tereddüdü ortadan kaldırın.
+Aşırı özgüvenin tehlikelerinden kaçının
+Kazanan bir tüccarın zihinsel/duygusal kurallarına dayalı kazanan bir 
+zihniyet geliştirin
+Başarınızı sabote edebilecek duyguları ortadan kaldırın Kötü 
+alışkanlıklarınızı tersine çevirin ve onları iyi olanlarla değiştirin 
+Sisteminizin gerçekliğinde yaşayın ve duygularınızı dengeleyin Net, 
+belirli, zamana dayalı hedefler belirleyin - sonra onlara ulaşın! Disiplini 
+korumayı öğrenin
+Kazanç ve kayıplarla ilişkili stresi azaltın. Başarıyı bir 
+şampiyon yatırımcı gibi görselleştirin!
+Seçtiğiniz yolda güvenle ilerleyin!
+Her şey söylendiğinde ve yapıldığında, bunu söylemekten nefret ediyorum ama bu noktaya 
+kadar Ultimate Trading Sistemlerini takip ettikten sonra bile, bazı insanlar hala piyasada 
+başarılı olan tüccarların en üst %1'ine giremiyor. Neden mi? Çünkü onlar, ticaretin en 
+önemli yönüne... kendilerine hakim değiller.
+Jake Bernstein'ın TradingMind Yazılımını kullanarak bunu başaran nadir kişilerden biri olun. Bunu 
+çevrimiçi satın alınburaya tıklayarak .
+Seni bir pazarlama sihirbazı yapalım.
+YAPILMASI GEREKENLER EYLEM ADIMLARI:
+1.Buraya tıklayın Jake Bernstein'ın "TradingMind Yazılımı .” Bu 
+programdan amacınız zihninizi yeniden şekillendirmek ve 
+işlemlerinizde daha önce hiç olmadığı kadar kontrol sahibi olmaktır. 
+Bu, birçok yatırımcının asla elde edemediği sırdır.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+12. dersin eylem adımlarını tamamladınız mı?
+Aksi takdirde, okumaya devam etmeden önce bu adımları tamamlayın.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+"Kazan ya da kaybet, herkes piyasadan istediğini alır. Bazı insanlar kaybetmeyi sever, bu 
+yüzden para kaybederek kazanırlar". –Ed Seykota
+Ders 13
+Buradan nereye?
+Tebrikler! Çoğu kişi bu sayfayı hiç görmez çünkü 2. veya 3. derste bir yerde pes 
+etmişlerdir. Siz istisnasınız. Ancak bu son değil. Dedikleri gibi, bu "sadece 
+başlangıç!"
+Bu kitap boyunca amacım, kendi ticaret sisteminizi geliştirmek için gereken adımları 
+size vermektir. Bu bilgiyle donanmış olarak, kendi tarzınızı bulmalı ve sisteminizi 
+buna göre geliştirmelisiniz.
+Hiç kimse doğuştan müthiş ticaret becerilerine sahip değildir.
+bağlılık ve doğru eğitimle harika bir yatırımcı olabilirsiniz. Ticaret, hızlı zengin olma 
+felsefesi değildir. Doğru bir şekilde ustalaşıldığında kar getirecek bir meslektir. 
+Uygun eğitimi arayarak, pratik, sabır ve bağlılıkla, rahat bir yaşam sürmek için 
+gereken becerilerde ustalaşacaksınız.
+Ancak tutkunuz varsa,
+Efsanevi tüccar Ed Seykota'nın söylediği bir söz, "Aklınıza ne koyarsanız koyun, ne 
+beklerseniz bekleyin, olumlu ya da olumsuz olsun, hayatınıza onu çekme eğiliminde 
+olursunuz." Bir tüccar olarak kaderinizi yalnızca siz kontrol edersiniz. Başarılı bir tüccar 
+olacaksanız, başarılı bir tüccar olacağınıza dair beklentiniz olmalıdır.
+İşin özüne indiğinizde, para kazanma ticareti, ticaret sisteminize bağlı kalmanın bir yan 
+ürünü olmalıdır. Bir tüccar olarak ana hedefiniz bu olmamalıdır; enerjinizi ticaret 
+sisteminizin yürütülmesine konsantre olarak harcamanız daha iyi olur. Bir tüccarın işi, 
+ticaret sistemini takip etmektir. Eğer iyice geriye dönük test edilmişse ve karlı olduğu 
+kanıtlanmışsa, bir tüccar ödeme alacaktır.
+Başarılı bir yatırımcı olma çabalarınızda size şans dilemeyeceğim, çünkü şansın 
+yatırımda yeri yoktur. Ancak bir yatırım sisteminin önemini anlamanızı umuyorum, 
+çünkü bir yatırım sistemi olmadan bir yatırımcı olarak sürekli kar elde etmeniz pek olası 
+değildir.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Unutmayın, eğer eğitimin pahalı olduğunu düşünüyorsanız, bir de cehaleti deneyin.
+Ticaret karları koçunuz,
+David Jenyns – Dip Fin. Profesyonel 
+Yatırımcı, Yazar ve Koç!
+David Hakkında Burada Okuyun
+Ücretsiz bonuslarınızın geri kalanını henüz indirmediyseniz, şimdi şu şekilde 
+alabilirsiniz:Buraya Tıklayın.
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+David'in Web Sitelerini Hemen Ziyaret Edin:
+www.freetradingsystems.org
+David Jenyns'in Karlı Ticaret Sistemleri Tasarlama Sistemini Çevrimiçi 
+Videoyla Öğrenin. Ücretsiz ve Eğlenceli.
+www.meta-formül.com
+Karlı İşlemleri Belirleyebilmeniz İçin MetaStock'u Kolaylaştırıyoruz! MetaStock Göstergeleri, 
+Gezginler, Uzmanlar, MetaStock Araçları ve MetaStock İpuçları ve Püf Noktalarının en büyük 
+ÜCRETSİZ Koleksiyonunu ziyaret edin.
+www.trading-secrets-revealed.com
+Ticaret Deneyimlisi Yakından Sakladığı Sırlarını Açıklıyor ve Profesyonellerin 
+Bunları Sizden Neden Umutsuzca Saklamak İstediklerini Açıklıyor. Sırları şimdi 
+keşfedin!
+www.ultimate-trading-systems.com
+Dünyanın ilk pratik, adım adım, karlı işlem sistemleri tasarlamak için yol 
+haritası. Ne tür işlem yapmayı severseniz sevin, ne kadar deneyiminiz olursa 
+olsun veya ne tür bir bütçeniz olursa olsun.
+www.sistemtradingblog.com
+Sistem Ticareti Makalelerinin En Büyük Koleksiyonu. “Net Üzerindeki En İyi IP'leri, Püf 
+Noktalarını ve Taktiklerini Derledim” – David Jenyns
+www.invest-store.com/meta-formula
+En İyi Ticaret Kitapçısını Çevrimiçi Keşfedin – %100 Ticarete Adanmış. Belirli 
+Bir Şeyin Peşindeyseniz veya Sadece Bir Göz Atmak İstiyorsanız, Hepsi Var!
+_______________________________________________________Ultimate Trading Systems ©
+www.forexgercekleri.xyz - [Twitter: @eseckal]

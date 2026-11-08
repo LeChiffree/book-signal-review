@@ -1,0 +1,1442 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 22\Baskı 22\Göstergeyle Scalping El Kitabı - Yüksek Kazanma Oranlı Gösterge - Marcello Ferrazzi (79 sayfa) - @eseckal.pdf
+PAGES: 79
+
+
+=== PDF PAGE 1 ===
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+giriiş
+1. Avantajınızı Bulmak
+Scalping Trend Takibinde Göstergeleri 
+Kullanma Sanatı
+Aralık Ticareti/Ortalama Geri 
+Dönüş Momentum/Kırılma Ticareti
+Girişler ve Çıkışlar
+Trend Filtresi
+Yanlış Sinyalleri Filtrelemek İçin Onay Göstergesi 
+Scalping İçin Gösterge Ayarınızı Optimize Etme
+2. Yüksek Olasılıklı Scalping Kurulumlarını Belirleme
+Öğe #1
+Öğe #2
+Öğe #3
+Patlamaları ve Sahte Patlamaları Belirleme
+3. Temelden Karlı Bir Scalping Stratejisi Oluşturma
+Adım 1: Trendi Belirleyin
+Adım 2: Girişler ve Çıkışlar için Birincil Gösterge Ekleme
+Adım 3: Giriş/Çıkış Sinyallerini Onaylamak İçin Onay Göstergesi 
+Ekleyin
+Adım 4: Önceki Adımların Bir Kombinasyonunu Kullanarak Alım/Satım 
+Koşulları Oluşturun
+Adım 5: Risk Yönetimi
+Bu Adımların Uygulamada Nasıl Göründüğüne Dair Örnek
+4. Scalping İçin Yüksek Olasılıklı Girişler ve Çıkışlar (Göstergeler 
+Kullanılarak)
+Momentum Osilatörleri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Aşırı Alım/Aşırı Satış Sinyal 
+Sapmaları
+Osilatör Geçiş Sinyalleri 
+Volatilite göstergeleri
+Bollinger Bantları
+Keltner Kanalları
+ATR
+Düşük Volatilite Konsolidasyonları/Kırılmalar: 
+Yüksek Volatilite Konsolidasyonları/Kırılmalar: 
+Trend Takip Gösterge Sinyalleri
+Hareketli Ortalamalar
+ATR Trend Takip Göstergeleri Giriş/
+Çıkış Sinyallerini Yorumluyor
+Scalping İçin Gelişmiş Scalping Gösterge Sinyalleri 
+(TradingView göstergeleri)
+Gösterge Sinyali #1
+Gösterge Sinyali #2
+Gösterge Sinyali #3
+Gösterge Sinyali #4
+Gösterge Sinyali #5
+Gösterge Sinyali #6
+Gösterge Sinyali #7
+Gösterge Sinyali #8
+5. Yüksek Kazanma Oranlı Scalping Stratejilerini Tamamlayın
+Gösterge Scalping Stratejisi #1 
+Gösterge Scalping Stratejisi #2 
+Gösterge Scalping Stratejisi #3 
+Gösterge Scalping Stratejisi #4
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Gösterge Scalping Stratejisi #5 
+Gösterge Scalping Stratejisi #6 
+Gösterge Scalping Stratejisi #7
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+giriiş
+Scalping, piyasalarda işlem yapmanın oldukça kazançlı bir yolu 
+olabilir; ancak bunun için rakiplerinize karşı bir adım önde olmanız 
+ve hızlı kararlar alabilmeniz gerekir.
+Doğru strateji, dakikalar, hatta saniyeler içinde kar elde 
+etme fırsatı sunabilir.
+Bu kitaptaki scalping stratejileri, hızlı tempolu piyasalarda işlem yapan 
+yatırımcılar için uygun olan gösterge tabanlı stratejilerin kullanılmasına 
+odaklanmaktadır.
+Bu kitapta, scalping stratejilerinde teknik göstergelerin nasıl kullanılacağını ele 
+alacağız. Yatırımcıların işlemlere girmek ve işlemden çıkmak için göstergeleri 
+nasıl kullandıklarına, yanlış kırılmaları nasıl tespit edeceklerine ve riski nasıl 
+yöneteceklerine bakacağız.
+Ayrıca hangi göstergelerin hangi piyasa türlerinde kullanılması gerektiğini ve 
+gösterge sinyallerine dayanarak bir işleme ne zaman girip çıkmanın en iyi 
+olduğunu derinlemesine inceleyeceğiz.
+Son olarak, piyasalarda para kazanmak için kullanabileceğiniz bazı 
+kapsamlı, yüksek kazanma oranlı scalping stratejilerine bakacağız.
+Bu kitabın sonunda, saniyeler içinde karlı işlem fırsatlarını 
+belirlemek ve piyasalarda scalping yaparken karınızı nasıl en 
+üst düzeye çıkaracağınızı öğrenmek için gereken bilgi ve 
+becerilere sahip olacaksınız.
+Hadi başlayalım!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+1. Avantajınızı Bulmak
+Başarılı scalping'in temel bileşenlerinden biri bir avantaj 
+bulmaktır. Ticarette bir avantaj, size rastgele şanstan daha 
+yüksek bir karlılık olasılığı veren bir stratejidir.
+Güvenilir bir avantaj bulmak zor olabilir, ancak scalping dahil 
+herhangi bir işlem stratejisiyle karlı işlemler yapmak için bu çok 
+önemlidir.
+Piyasalarda bir avantaj ararken teknik göstergeler yardımcı olabilir. 
+Göstergeler, yatırımcıların eğilimleri belirlemesine ve varlıkları ne zaman alıp 
+satacaklarına karar vermelerine yardımcı olmak için kullanılan matematiksel 
+araçlardır.
+Tüccarlar tarafından kullanılan en iyi bilinen teknik göstergelerden 
+bazıları hareketli ortalamalar, MACD, RSI ve Stokastik Osilatörler'dir. 
+Her göstergenin, trendler, momentum değişimleri, geri dönüşler ve 
+daha fazlası gibi farklı piyasa koşullarını belirlemeye yardımcı olan 
+kendine özgü bir formülü vardır.
+Doğru göstergeleri sağlam bir işlem planıyla birleştirerek, 
+yatırımcılar sürekli olarak kazanan işlemler yapmalarını sağlayan bir 
+avantaj yaratabilirler. Bu kitapta, farklı göstergeleri stratejilere nasıl 
+birleştireceğimize ve scalping karlarını maksimize etmek için 
+gösterge ayarlarını nasıl optimize edeceğimize bakacağız.
+Ancak öncelikle scalping stratejilerinde göstergelerin nasıl doğru bir 
+şekilde uygulanacağını anlamak önemlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Scalping'te Göstergeleri Kullanma Sanatı
+Göstergeler, yatırımcılar için belirli işlem fırsatlarını belirlemenize ve riski 
+daha etkili bir şekilde yönetmenize yardımcı olabilecek önemli araçlardır. 
+Göstergeler yalnızca mevcut piyasa koşullarına ilişkin bir içgörü 
+sağlamakla kalmaz, aynı zamanda doğru kullanıldığında gelecekteki 
+hareketleri doğru bir şekilde tahmin etmenize de olanak tanır. Bu 
+bölümde, göstergelerin işlemde nasıl kullanılacağına ve bunların nasıl 
+etkili bir şekilde kullanılacağına daha derinlemesine bakacağız.
+Göstergeler Ticarette Nasıl Kullanılabilir?
+Göstergeler, işlem yaparken birçok şekilde kullanılabilir; piyasa 
+hareketlerini tahmin etmek ve riskler, fırsatlar, giriş ve çıkış 
+noktaları hakkında kararlar almak için kullanılabilirler.
+Yatırımcılar, farklı göstergeleri bir araya getirerek, ne zaman ve 
+nasıl bir işleme girileceğini belirlemek için kullanılabilecek kapsamlı 
+bir strateji oluşturabilirler.
+Her biri kendi amacı ve uygulaması olan farklı gösterge 
+türleri vardır. Bunlara hareketli ortalamalar, osilatörler, 
+momentum göstergeleri, hacim göstergeleri ve piyasadaki 
+eğilimleri veya kalıpları belirlemek için kullanılabilen diğer 
+teknik analiz araçları dahildir.
+Kapsamlı bir strateji oluşturmak için her göstergenin nasıl 
+çalıştığını ve birbirleriyle nasıl etkileşime girdiğini anlamak 
+önemlidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Göstergeler, kullanılan işlem stratejisinin türüne bağlı 
+olarak farklı şekilde kullanılır ve aşağıdaki üç kategoriye 
+ayrılabilir:
+1. Trend Takipçisi
+Mevcut bir trendi tanımlayın ve bundan yararlanmaya çalışın. Bu, 
+hareketli ortalamaların yönüne veya MACD, RSI ve stokastik 
+osilatör gibi göstergelerin bir kombinasyonuna bakarak 
+yapılabilir.
+Göstergeler ayrıca, göstergelerin ayrışması, hareketli ortalama kesişimleri 
+ve hacim analizine dayanarak bir eğilimin ne zaman tersine dönme 
+olasılığını belirlemek için de kullanılabilir.
+2. Aralık Ticareti/Ortalama Geri Dönüş
+Bu, fiyatın bir işlem aralığında yanlara doğru hareket ettiği durumlarda kullanılan bir 
+işlem yöntemidir.
+RSI veya stokastik gibi momentum osilatörlerinden gelen aşırı 
+alım/aşırı satım sinyalleri bu piyasa koşullarında en iyi şekilde 
+çalışır. Temel ancak etkili bir ortalamaya dönüş stratejisi, aşırı 
+alım/aşırı satım sinyallerini destek ve direnç seviyeleriyle 
+birleştirmektir.
+3. Momentum/Çıkış Ticareti
+Bu yöntemle, yatırımcılar genellikle güçlü bir trend hareketinin 
+gerçekleşmek üzere olduğu kırılmaları ararlar.
+Amaç, piyasa güçlü bir ivme kazanırken içeri girmek ve 
+bundan yararlanmaktır. Göstergeleri, momentum ticareti 
+için kritik olan kopuşları onaylamak ve yanlış kopuşları 
+belirlemek için kullanabiliriz.
+Bir Ticaret Stratejisinde Göstergelerin Kullanımı
+Göstergeler, bir işlem stratejisinde giriş/çıkışlardan, trend 
+filtrelerine ve onay göstergelerine kadar çeşitli amaçlar için 
+kullanılabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Aşağıda göstergelerin nasıl kullanılabileceğini ve bir ticaret sisteminin 
+performansını iyileştirmeye nasıl yardımcı olabileceğini inceleyeceğiz.
+1. Girişler ve Çıkışlar
+Birincisi, bir göstergeyi sinyal üreteci olarak kullanmaktır. Bu, 
+göstergenin belirli koşullar karşılandığında alım veya satım 
+sinyalleri üreteceği anlamına gelir.
+Örneğin, bir tüccar MACD göstergesini kullanıyorsa, MACD 
+çizgisi sinyal çizgisinin üzerine çıktığında bir satın alma sinyali 
+ayarlayabilir. Bu, bir varlığın fiyatının artma olasılığının bir 
+göstergesi olacaktır.
+2. Trend Filtresi
+Scalping stratejilerinde göstergeleri kullanmanın ikinci yolu, onları trend 
+tanımlayıcıları olarak kullanmaktır. Bu durumda, yatırımcılar bir trendin 
+oluşabileceğini gösteren gösterge tarafından üretilen sinyalleri 
+arayacaktır.
+Örneğin, bir tüccar hareketli ortalama çizgisine bakabilir ve belirli bir 
+değerin üstüne veya altına geçtiği zamanı bekleyebilir. Bu, varlığın 
+fiyatında bir yükseliş veya düşüş trendinin başlangıcını işaret edebilir.
+3. Yanlış Sinyalleri Filtrelemek İçin Onay Göstergesi
+Göstergeler ayrıca piyasada oluşan yanlış sinyalleri 
+filtrelemek için filtre olarak da kullanılabilir. Bunlara "onay 
+göstergeleri" de denir.
+Bu, yatırımcıların birincil gösterge sinyallerinde oluşabilecek yanlış 
+sinyalleri tespit etmek ve önlemek için belirli göstergeleri 
+kullanabilecekleri anlamına gelir.
+Örneğin, hareketli ortalama geçiş stratejisi yatay/dalgalı bir 
+piyasada muhtemelen birçok yanlış sinyale sahip olacaktır.
+Yanal piyasalarda oluşan yanlış sinyalleri önlemek için ADX 
+(ortalama yön endeksi) göstergesi gibi bir filtre/doğrulama 
+göstergesi kullanabiliriz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Bir onay göstergesinin kullanımına dair bir örneğe 
+bakalım:
+Bu örnekte aşağıdaki giriş sinyallerini kullanacağız:
+5 periyotluk RSI'da aşırı alım/aşırı satım sinyalleri.
+Bu sinyalleri tek başına kullanmak yerine, yanlış sinyalleri filtrelemeye 
+yardımcı olmak için Bollinger bantlarını bir doğrulama göstergesi olarak 
+kullanacağız.
+Bir doğrulama göstergesi seçerken farklı hesaplamalar 
+kullanan farklı bir gösterge türü seçmek önemlidir. Aynı 
+türden iki gösterge kullanmaktan kaçınmak istersiniz, 
+örneğin - stokastik osilatör ve RSI kullanmak, bunlar size 
+benzer sinyaller verecek iki momentum osilatörüdür.
+Örneğimizde giriş/çıkış sinyalleri için bir momentum 
+göstergesi (RSI) ve giriş/çıkış sinyallerini doğrulamak için bir 
+volatilite göstergesi (Bollinger bantları) kullanıyoruz. Bunlar 
+farklı hesaplamalar kullanan iki farklı gösterge türüdür.
+Katılım kuralları:
+RSI aşırı satım bölgesini geçtiğinde ve fiyat Bollinger 
+bandının alt kısmına dokunduğunda (veya altında 
+kaldığında) uzun bir giriş yapın.
+RSI aşırı alım bölgesini geçtiğinde ve fiyat üst 
+Bollinger bandına değdiğinde (veya üstünde 
+olduğunda) kısa bir giriş yapın.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Bu kuralları kullanarak uzun bir giriş
+Girişlerde birden fazla gösterge kullanmak yanlış sinyalleri azaltmaya 
+ve doğruluğu artırmaya yardımcı olabilir, ancak çok fazla göstergenin 
+gereksiz karmaşıklığa ve kafa karışıklığına da yol açabileceği 
+unutulmamalıdır.
+Farklı kategorilerde yer alan ve hesaplamalarında farklı 
+metrikler kullanan göstergeleri kullanmak da önemlidir.
+Örneğin, bu, iki momentum göstergesi kullanmaktan kaçınmanız gerektiği 
+anlamına gelir; çünkü bu gereksiz olacak ve yalnızca grafiklerinizi 
+karmaşıklaştıracaktır.
+Bunun yerine, daha sağlam bir işlem stratejisi oluşturmak için bir 
+momentum göstergesi ve bir volatilite göstergesi kullanabilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Scalping için Gösterge Ayarınızı Optimize 
+Etme
+Yatırımcılar, potansiyel işlem fırsatlarını belirlemek ve bir işleme ne 
+zaman girip çıkacaklarına karar vermek için teknik göstergeleri 
+kullanırlar.
+Göstergeleri kullanmanın en önemli kısmı, ayarları piyasa 
+koşullarına uyacak şekilde ayarlamaktır. Farklı piyasalar farklı 
+ayarlar gerektirir, bu nedenle gösterge ayarınızı işlem 
+yaptığınız belirli piyasaya göre uyarlamanız önemlidir.
+Scalping için indikatörleri kullanırken, en son fiyat hareketine 
+odaklanmak ve hızlı bir şekilde harekete geçilebilecek hızlı sinyalleri 
+aramak önemlidir.
+Bu, gösterge ayarlarınızı fiyat hareketlerine karşı daha duyarlı 
+olacak şekilde ayarlamanız ve çok fazla yanlış sinyal oluşmadan kısa 
+vadeli sinyalleri aramanız anlamına gelir.
+Örneğin, giriş ve çıkışlar için RSI aşırı alım/aşırı satım sinyallerini 
+kullanarak 5 dakikalık zaman diliminde scalping yapıyorsanız, 
+varsayılan 14 periyot ayarını kullanmak yerine, RSI uzunluğunu 
+daha kısa bir periyoda (örneğin 5 periyot) değiştirmek 
+isteyebilirsiniz.
+Gösterge uzunluğunun daha kısa bir periyoda değiştirilmesi, daha 
+sık sinyaller üretecektir ancak daha fazla yanlış sinyale de yol 
+açabilir.
+Yanlış sinyalleri ayıklamak için MA veya Bollinger Bantları gibi iyi 
+bir filtre göstergesi kullanabilirsiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+2. Yüksek Olasılıklı Scalping Kurulumlarını 
+Belirleme
+Kazanan bir işlem kurulumu, sınırlı riske sahip yüksek olasılıklı 
+bir işlemi oluşturan faktörlerin birleşimidir. Bu, işlem ve 
+scalping'de çok önemli bir kavram olan iyi bir "risk/ödül" oranına 
+sahip bir işlem anlamına gelir.
+Tüccarlar ayrıca güçlü momentum belirtileri ararlar, bu basitçe 
+fiyatın belirli bir yönde hareket ettiği hızdır. Son olarak, hacim de 
+önemli bir faktördür. Daha yüksek hacim genellikle belirli bir 
+menkul kıymete daha fazla ilgi olduğunu gösterir ve bir işlem 
+kurulumu için onay olarak kullanılabilir.
+Kazanan bir işlem kurulumu için üç bileşen de olmazsa 
+olmazdır ve işlem seçerken dikkate alınmalıdır. Belirli bir 
+kurulumun risk/ödül oranını, momentumunu ve hacmini 
+değerlendirerek, bu temel bileşenlere daha ayrıntılı bir 
+şekilde bakalım:
+Öğe #1: Risk/Ödül Oranı
+Bu, bir yatırımcının işlem seçerken çabalaması gereken risk/ödül 
+oranıdır. Yatırımcılar genellikle en az 1:2 risk/ödül oranına sahip 
+işlemleri ararlar. Bu, 1$ risk alıyorlarsa hedef kârlarının en az 2$ 
+veya daha fazla olması gerektiği anlamına gelir.
+İyi bir risk/ödül oranına sahip bir işlem bulmak için, yatırımcıların stop 
+loss ve hedef kar emirlerini belirlemek için destek ve direnç seviyelerini 
+aramaları gerekir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Öğe #2: Momentum
+Momentum, fiyatın hareket hızıdır ve bir işlemin 
+potansiyel başarısının iyi bir göstergesi olabilir.
+Bir yönde güçlü bir momentum varsa, bu alıcıların veya satıcıların 
+kontrolü ele geçirdiğini ve hareketin devam etme potansiyelinin daha 
+yüksek olduğunu gösterir.
+Yatırımcılar, işlem yaparken başarı şanslarını artırabileceği için güçlü 
+momentumu olan hisse senetlerini veya piyasaları ararlar.
+Öğe #3: Hacim
+Hacim önemli bir faktördür çünkü bir kurulumun geçerliliğini 
+doğrulamak için kullanılabilir.
+Daha yüksek hacim genellikle belirli bir menkul kıymete veya piyasaya 
+daha fazla ilgi olduğunu gösterir, bu da harekete daha fazla yatırımcı 
+katılabileceği ve başarı şansının artacağı anlamına gelir. Yatırımcılar 
+hacmi analiz ederek fiyatın hangi yöne doğru hareket etme olasılığı 
+hakkında da fikir edinebilir ve işlemlerini buna göre ayarlayabilirler.
+Bu bileşenlerin her birini değerlendirerek, tüccarlar sınırlı riske 
+sahip yüksek olasılıklı işlem kurulumlarını belirleyebilirler. Bu 
+bileşenlere ek olarak, tüccarların kopuşlar ve yanlış kopuşların da 
+farkında olması gerekir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Patlamaları ve Sahte Patlamaları Belirleme
+Kırılma, bir hisse senedi, emtia, para birimi veya piyasa 
+endeksinde belirlenen bir direnç veya destek seviyesini aşan 
+fiyat hareketidir.
+Ticarette, yatırımcılar fiyatın kırılma yönünde devam 
+edeceği beklentisiyle bir işleme girmek için kırılma 
+fırsatları arayabilir.
+Öte yandan, sahte kopuşlar, başlangıçta kopuş gibi görünen 
+ancak daha sonra hızla yönünü değiştiren fiyat hareketleridir. 
+Bunlar, düzgün bir şekilde öngörülüp yönetilmezse beklenmedik 
+kayıplara yol açabileceğinden, yatırımcılar için tespit edilmesi ve 
+yönetilmesi özellikle zor olabilir.
+Gerçek kopuşlar ile sahte kopuşları tespit edip birbirinden 
+ayırmanın birkaç temel yolu vardır:
+1. Güçlü hacim arayın: Gerçek bir kopuşa genellikle 
+güçlü bir hacim eşlik eder, çünkü önemli düzeyde 
+alım veya satım faaliyeti olduğunu gösterir. 
+Potansiyel bir kopuş sırasında hacim zayıfsa veya 
+tutarsızsa, bu sahte bir kopuş olabilir.
+2. Genel eğilimi göz önünde bulundurun: Kopuşların genel 
+eğilim yönünde meydana gelmesi durumunda gerçek 
+olma olasılığı daha yüksektir. Örneğin, bir hisse senedi 
+uzun vadeli bir yükseliş trendindeyse ve sonra yukarı 
+doğru koparsa, aşağı doğru koparsa gerçek bir kopuş 
+olma olasılığı daha yüksektir.
+3. Onay sinyallerini kullanın: Diğer göstergelerin 
+hareketi veya ek direnç veya destek seviyelerinin 
+kırılması gibi onay sinyalleri, bir kırılmanın 
+geçerliliğini doğrulamaya yardımcı olabilir.
+4. Sahte kopuşlara hazırlıklı olun: Bu stratejilerle bile, sahte 
+kopuşlarla karşılaşmak hala mümkündür. Sahte kopuş 
+riskini yönetmek için, yatırımcılar potansiyel kayıpları 
+sınırlamak için zarar durdurma emirleri veya diğer risk 
+yönetimi stratejilerini kullanabilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Genel olarak, kopuşları ve sahte kopuşları belirlemek, günlük 
+işlemlerde yüksek olasılıklı işlem kurulumlarını belirlemenin 
+önemli bir unsurudur ve başarılı olmak için bilgi ve deneyimin bir 
+kombinasyonunu gerektirir.
+Kazanan bir işlem kurulumunun temel bileşenlerini ve kırılmaları ve 
+sahte kırılmaları nasıl tespit edeceklerini anlayarak, yatırımcılar 
+karlarını maksimize edebilir ve kazanma oranlarını artırabilirler.
+Şimdi sıfırdan karlı bir scalping stratejisinin nasıl 
+oluşturulacağına bir bakalım.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+3. Temelden Karlı Bir Scalping Stratejisi 
+Oluşturma
+Bu bölümde, piyasada istikrarlı ve güvenilir karlar elde 
+etmenizi sağlayacak bir scalping stratejisi oluşturmaya 
+derinlemesine bakacağız ve sıfırdan kendi başarılı 
+scalping stratejinizi kurup çalıştırmanız için gereken tüm 
+bilgelik parçacıklarını sağlayacağız.
+Giriş kriterlerini anlamak, trendi belirlemek, bir pozisyona ne zaman 
+girip çıkmak gerektiğini, bir giriş/çıkış sinyalini doğrulamak için bir 
+onay göstergesinin nasıl kullanılacağını ve son olarak tüm bu 
+adımların iyi yapılandırılmış bir işlem stratejisinde nasıl 
+birleştirileceğini derinlemesine inceleyeceğiz.
+Hadi başlayalım!
+Adım 1: Trendi Belirleyin
+Herhangi bir pozisyona girmeden önce piyasanın hangi 
+yöne gittiğini anlamak önemlidir.
+Bunu yapmak için, piyasadaki uzun vadeli eğilimleri arayın ve ana destek 
+ve direnç seviyelerini belirleyin. Bu, fiyatın zaman içinde nasıl hareket 
+edebileceğini tahmin etmenize yardımcı olacak ve scalping stratejiniz için 
+bir temel oluşturacaktır.
+200 periyotlu EMA (üssel hareketli ortalama), piyasanın uzun vadeli 
+trendini belirlemek için yaygın olarak kullanılan bir göstergedir. 
+Fiyat 200 EMA'nın üzerindeyse, piyasa yükseliş trendindedir ve 
+altındaysa düşüş trendindedir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Adım 2: Girişler ve Çıkışlar için Birincil Gösterge 
+Ekleme
+Trendi belirledikten sonra, trende uygun giriş ve çıkış 
+sinyalleri verebilecek birincil bir indikatör eklemek 
+önemlidir.
+Giriş ve çıkışları belirlemek için kullanılan en popüler gösterge, 
+yatırımcılara fiyatın yakın vadede nereye gidebileceği 
+konusunda bir gösterge sağlayan hareketli ortalamadır.
+Adım 3: Giriş/Çıkış Sinyallerini Onaylamak 
+İçin Onay Göstergesi Ekleyin
+Birincil giriş/çıkış göstergesi, scalping stratejisinin önemli bir 
+parçası olmakla birlikte, birincil gösterge tarafından üretilen 
+tüm sinyalleri doğrulayacak bir onay göstergesinin eklenmesi 
+de önemlidir.
+En popüler doğrulama göstergeleri, yatırımcılara bir işleme 
+girerken veya işlemden çıkarken ek bir koruma katmanı 
+sağlayan MACD veya RSI gibi osilatörlerdir.
+Adım 4: Önceki Adımların Bir Kombinasyonunu 
+Kullanarak Alım/Satım Koşulları Oluşturun
+Trendi belirledikten, giriş ve çıkışlar için birincil gösterge ekledikten 
+ve sinyalleri doğrulamak için bir onay göstergesi ekledikten sonra, 
+alım ve satım koşullarını oluşturma zamanı gelmiştir.
+Bu, alım/satım işleminin gerçekleşmesi için mevcut olması gereken koşulların 
+bir listesinin oluşturulmasını gerektirecektir.
+Bunu yapmak için trend, birincil gösterge ve onay 
+göstergesini birlikte kullanarak koşulları oluşturacağız.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Adım 5: Risk Yönetimi
+Risk yönetimi her türlü yatırım stratejisinin önemli bir parçasıdır ve 
+göz ardı edilmemelidir.
+Scalping stratejinizi oluştururken, her işlemle ilişkili 
+potansiyel kayıpları ve karları, ayrıca ne kadar risk almaya 
+istekli olduğunuzu göz önünde bulundurmanız önemlidir.
+İşlem aleyhinize giderse kaybınızı sınırlamak için her zaman iyi 
+yerleştirilmiş bir zarar durdurma emri kullanmalı, ayrıca karı kilitlemek 
+için kar alma emri kullanmayı düşünmelisiniz.
+Her adımı anlamak ve stratejinize doğru şekilde 
+uygulamak için zaman ayırarak, piyasalarda tutarlı ve 
+güvenilir karlar elde etmenize yardımcı olabilecek başarılı 
+bir scalping stratejisi oluşturabilirsiniz.
+Bu Adımların Uygulamada Nasıl Göründüğüne Dair 
+Örnek
+İşte bunları kullanan bir scalping stratejisinin basit bir örneği. Bu 
+strateji, girişler/çıkışlar için hareketli ortalamalar ve sinyalleri 
+doğrulamak için bir momentum osilatörü kullanır.
+Adım 1: Trendi Belirleyin
+Grafiğe bakın ve piyasanın genel eğilimini belirleyin
+Trend yukarı yönlüyse, alım fırsatlarına odaklanın 
+Trend aşağı yönlüyse, satış fırsatlarına odaklanın
+Bu adım için 200 EMA kullanabilirsiniz. Fiyat 200 
+EMA'nın üstündeyse trend yukarıdır, altındaysa 
+aşağıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Adım 2: Geçiş Sinyalleri için Hareketli Ortalamalar Ekleyin
+Burada kısa vadeli ve uzun vadeli hareketli ortalamaların bir 
+kombinasyonu olan iki hareketli ortalama kullanacağız
+9 dönemlik hareketli ortalama ve 30 dönemlik hareketli 
+ortalama
+Adım 3: Bir doğrulama göstergesi olarak bir momentum osilatörü 
+ekleyin
+Bu stratejide, geçiş sinyallerini doğrulamak için 5 periyotlu RSI 
+kullanacağız.
+Aşırı alım/aşırı satım bölgeleri hareketli ortalama 
+sinyallerini doğrulamak için kullanılacaktır
+Adım 4: Alım/Satım Koşulları
+Hareketli ortalamalar kesişiyor ve RSI aşırı alım/aşırı satım 
+bölgesine giriyor
+Satın almak -
+Kısa vadeli hareketli ortalama uzun vadeli hareketli 
+ortalamanın üzerine çıktığında ve RSI aşırı alım 
+bölgesine girdiğinde
+Satmak-
+Kısa vadeli hareketli ortalama uzun vadeli 
+hareketli ortalamanın altına geçtiğinde ve RSI aşırı 
+satım bölgesine girdiğinde
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Adım 5: Risk Yönetimi
+Bu stratejide 30 periyotluk hareketli ortalamayı zararı durdurma olarak kullanacağız. Bu 
+aynı zamanda işlemden elde ettiğimiz karı kilitlememize yardımcı olan bir takip eden 
+zararı durdurma görevi de görecektir.
+Bir mumun yukarı/aşağı yönde geçmesi durumunda çıkış işlemi
+Artık bir scalping stratejisi oluşturmanın temellerini anladığınıza 
+göre, bu bilgiyi pratiğe dökmeniz ve yeteneklerinizi canlı bir 
+pazarda test etmeniz önemlidir.
+Unutmayın, mükemmel bir strateji diye bir şey yoktur ve tüm 
+yatırımcılar zaman zaman kayıplar yaşayacaktır. Önemli olan, 
+sıkı stop loss'ları yerinde tutmak ve riskinizi buna göre 
+yönetmektir.
+Biraz pratik yaparak, kendi karlı scalping stratejinizi 
+kullanarak piyasalarda istikrarlı karlar yaratabileceksiniz.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+4. Scalping İçin Yüksek Olasılıklı Girişler ve Çıkışlar 
+(Göstergeler Kullanılarak)
+Yüksek olasılıklı giriş ve çıkış noktalarını belirlemek her yatırımcı için olmazsa 
+olmaz bir beceridir. Peki bu noktaları belirlemenize yardımcı olacak ve 
+böylece işlemlere kesin bir şekilde girip çıkabilmenizi ve karınızı maksimize 
+edebilmenizi sağlayacak en iyi göstergeler nelerdir?
+Bu bölümde, yatırımcıların piyasa koşullarını değerlendirmek ve 
+optimum giriş ve çıkışları bulmak için kullandıkları önemli 
+göstergelere genel bir bakış sunacağız.
+Momentum osilatörlerinden, volatilite göstergelerinden trend takip 
+eden gösterge sinyallerine kadar, işlem kararları alırken bunları nasıl 
+doğru bir şekilde yorumlayacağınızı ele alacağız.
+1. Momentum Osilatörleri
+Öncelikle momentum osilatörlerine ve bunları kullanarak giriş/çıkış sinyallerinin 
+nasıl belirleneceğine bakalım.
+Grafiklerde, Göreceli Güç Endeksi (RSI), Stokastik osilatör 
+ve Hareketli Ortalama Yakınsama Ayrışması (MACD) gibi 
+bir dizi yüksek kaliteli sinyal bulunabilir. Momentum 
+osilatörleri, bir trendin devam etme veya tersine dönme 
+olasılığını belirlemek için trendin gücünü veya zayıflığını 
+ölçer.
+Aşırı Alım/Aşırı Satış Sinyalleri
+Alım/satım sinyalleri üretmelerinin ilk yolu, belirli seviyelerin 
+üzerine çıktıklarında ve verilen seviyelerin altına 
+düştüklerinde satış sinyalleri üretmeleridir. Bunlara "aşırı 
+alım/aşırı satım" seviyeleri denir ve her osilatör için farklılık 
+gösterirler.
+Örneğin, RSI'ın aşırı alım seviyesi 70 ve aşırı satım seviyesi 
+30'dur. Gösterge bu seviyeleri geçerse, trendin tersine dönme 
+ihtimalinin yüksek olduğu anlamına gelir.
+Aşırı alım/aşırı satım seviyelerinin ardındaki fikir, fiyatın bir yönde çok 
+fazla hareket ettiği ve geri çekilme olasılığının yüksek olduğudur.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+daha adil bir değere doğru.
+Ayrışmalar
+Momentum osilatörlerinin giriş/çıkış noktalarını belirlemek için 
+kullanılabileceği ikinci yol, sapmalardır. Bu, göstergenin fiyat 
+hareketinin ters yönünde hareket etmesiyle oluşur ve bu da olası 
+bir trend tersine dönüşünü gösterebilir.
+Örneğin, fiyat daha yüksek zirveler yapıyorsa ancak osilatör daha 
+düşük zirveler yapıyorsa, bu trendin zayıfladığına ve işlemden 
+çıkma zamanının geldiğine dair bir işaret olabilir.
+Geri dönüşleri belirlemek için iki tür sapma vardır, bunlar 
+"boğa" ve "ayı" sapması olarak bilinir.
+Boğa sapması-Gösterge daha yüksek dipler yaparken fiyat 
+daha düşük dipler yaptığında ortaya çıkar ve alıcıların piyasayı 
+kontrol altına aldığını gösterir.
+Ayı sapması-Osilatör daha düşük zirveler yaparken fiyat daha 
+yüksek zirveler yaptığında ortaya çıkar ve satıcıların devralmaya 
+hazır olabileceğinin sinyalini verir.
+Osilatör Geçiş Sinyalleri
+Bu tip sinyal, osilatör üzerinde iki çizginin kesişmesiyle oluşur; 
+örneğin MACD'nin sinyal çizgisinin MACD'nin ana çizgisinin 
+üstünden veya altından geçmesi gibi.
+Bu, çizgilerin hangi yönde hareket ettiğine bağlı olarak boğa 
+veya ayı geçişi olabilir. Boğa geçişi, daha hızlı hareket eden 
+ortalama (sinyal çizgisi) daha yavaş olanın (ana çizgi) üzerine 
+çıktığında meydana gelir. Tersine, ayı geçişi, sinyal çizgisi 
+ana çizginin altına geçtiğinde meydana gelir.
+Tüm momentum osilatörlerinin daha hızlı ve daha yavaş bir çizgisi 
+yoktur (RSI gibi), ancak çapraz sinyaller üretmek için üzerine bir 
+hareketli ortalama ekleyebilirsiniz. Örneğin, RSI'a 20 periyotluk bir 
+hareketli ortalama ekleyebilirsiniz, RSI hareketli ortalamanın 
+üzerine çıktığında bu bir alım sinyalidir ve altında ise bir satış 
+sinyalidir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+2. Volatilite göstergeleri
+Volatilite göstergeleri, fiyatın belirli bir zaman dilimi içerisinde ne 
+kadar değiştiğini ölçer.
+Bu, yatırımcıların piyasa koşullarını belirlemesine ve giriş/çıkış noktalarını 
+belirlemesine yardımcı olabilir. Yaygın volatilite göstergeleri arasında 
+Ortalama Gerçek Aralık (ATR), Bollinger Bantları ve Keltner Kanalları 
+bulunur.
+Bollinger Bantları
+Bollinger Bantları, bir varlığın fiyat hareketlerini ölçmek için üç 
+bant kullanan bir tür volatilite göstergesidir.
+Üst ve alt bantlar bize piyasanın sırasıyla aşırı alım veya 
+aşırı satımda olduğunu söyler. Orta bant genellikle temel 
+varlığın fiyatının basit hareketli ortalamasıdır (SMA).
+Bollinger Bantları, farklı bantlar arasındaki geçişler tarafından tetiklenen 
+alım ve satım sinyallerini arayarak günlük alım satım için giriş sinyallerini 
+belirlemek amacıyla kullanılabilir.
+Bir satın alma sinyali, fiyat üst Bollinger Bandının üzerine 
+çıktığında, aşırı satım durumunu işaret ettiğinde gerçekleşir. 
+Tersine, bir satış sinyali, fiyat alt Bollinger Bandının altına 
+düştüğünde, aşırı alım durumunu işaret ettiğinde gerçekleşir.
+Keltner Kanalları
+Keltner Kanalları, yatırımcıların giriş ve çıkış sinyallerini 
+belirlemesine yardımcı olmak için iki farklı zarf kullanan başka 
+bir tür oynaklık göstergesidir. Kanallar, genellikle ortalama 
+gerçek aralığın (ATR) iki katı genişliğinde olan bir üst ve alt 
+banttan oluşur.
+Keltner Kanallarının amacı piyasadaki aşırı alım ve aşırı satım 
+koşullarını belirlemektir. Fiyat üst kanal çizgisinin üzerine 
+çıktığında bu aşırı alım koşuluna işaret edebilir ve fiyat alt kanal 
+çizgisinin altına düştüğünde bu aşırı satım koşulu anlamına 
+gelebilir. Sonuç olarak, yatırımcılar bu sinyalleri günlük alım 
+satıma potansiyel giriş noktaları olarak kullanabilirler.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+ATR
+En yaygın kullanılan volatilite göstergelerinden biri Ortalama 
+Gerçek Aralık'tır (ATR). ATR, genellikle 14 dönem olan belirli bir 
+dönemin ortalama aralığını ölçer.
+Yüksek ATR okuması fiyatın büyük salınımlarla hareket 
+ettiğini, düşük ATR okumaları ise fiyatın dar bir aralıkta 
+konsolide olduğunu gösterir.
+ATR, belirli bir süre boyunca bir varlığın ortalama oynaklığını ölçer 
+ve size bir işleme ne zaman girip ne zaman çıkacağınız konusunda 
+iyi bir fikir verir. ATR yükseliyorsa bu, oynaklığın arttığının ve bir 
+işleme girme zamanının gelmiş olabileceğinin bir göstergesi 
+olabilir.
+ATR düşüyorsa bunun tersi geçerlidir ve bu da piyasa koşullarının 
+sakinleşmesiyle birlikte işleminizden çıkma zamanının gelmiş 
+olabileceğini gösterir.
+ATR, kopuşları ve sahte kopuşları tespit etmek için harika bir 
+araç olabilir
+Düşük Volatilite Konsolidasyonları/Kırılmaları:
+Düşük volatilite konsolidasyonu, piyasanın dar bir aralıkta işlem 
+gördüğünü ve potansiyel olarak kırılma olabileceğini gösterir. Bir 
+ATR göstergesi kullanırken, yatırımcılar bir işleme ne zaman girip 
+çıkacaklarını ölçmek için ATR değerlerini izleyebilirler. ATR okuması 
+belirli bir seviyenin altına düşerse, bu fiyatın mevcut aralığından 
+çıkma olasılığının bir göstergesi olabilir.
+Yüksek Volatilite Konsolidasyonları/Kırılmaları:
+Öte yandan, yüksek volatilite konsolidasyonları, fiyatın hızlı ve 
+büyük salınımlarla hareket ettiğini gösterir, bu nedenle 
+yatırımcıların olası yanlış kırılmalara karşı dikkatli olmaları gerekir.
+ATR, istikrarlı bir şekilde yükseliyorsa ve artan oynaklığı 
+gösteriyorsa bir giriş aracı olarak kullanılabilir. Bu, olası bir 
+kopuşu gösterebilir ve yatırımcılara bir ticarete girme fırsatı 
+sağlayabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+3. Trend Takip Gösterge Sinyalleri
+Son olarak, giriş/çıkış noktalarını belirlemek için kullanılabilen 
+trend takip göstergeleri vardır. En yaygın olanları hareketli 
+ortalamalar ve ATR trend takip göstergeleridir (süpertrend 
+gibi)
+Hareketli Ortalamalar
+Hareketli Ortalama muhtemelen piyasadaki en popüler 
+trend takip göstergesidir.
+Diğer tüm trend takip göstergeleriyle aynı prensibi izler, 
+yani bir trendi belirler ve ardından bir giriş/çıkış sinyali 
+göstererek yön değiştirdiğinde bunu belirtir. Hareketli 
+ortalamaları işlem sinyalleri için kullanmanın en yaygın 
+yolu çapraz sinyaller aramaktır.
+Örneğin, 20 periyotluk SMA, 50 periyotluk SMA'nın üzerine 
+çıkarsa bu bir alım sinyali olarak kullanılabilir; altına inerse 
+ise satış sinyali olarak kullanılabilir.
+Bu tür hareketli ortalama geçiş sinyallerinin yatay piyasa 
+koşullarında güvenilir olmadığını bilmek önemlidir.
+ATR Trend Takip Göstergeleri
+Süpertrend ve Parabolik SAR göstergeleri gibi Ortalama Gerçek 
+Aralık (ATR) trend izleme göstergeleri, trendlerdeki giriş/çıkış 
+noktalarını belirlemek için kullanılabilir.
+Hareketli Ortalamalarla benzer bir prensibi takip ederler ancak 
+yatay piyasa koşullarında daha güvenilirdirler.
+Süpertrend, optimum ayarlar kullanıldığında en iyi trend takip 
+göstergelerinden biridir. Bir trend yönünü hesaplamak için 
+ATR'yi kullanır ve ardından buna göre giriş/çıkış sinyallerini 
+görüntüler.
+Giriş/Çıkış Sinyallerinin Yorumlanması
+Artık momentum osilatörlerinden ve oynaklık göstergelerinden 
+hangi giriş/çıkış sinyallerinin üretilebileceğini bildiğinize göre,
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Bu sinyallerin nasıl yorumlanacağını bilmek önemlidir.
+Bunu yapmanın en iyi yolu, sinyallerle birlikte fiyat hareketi 
+analizini kullanmaktır. Fiyat hareketi analizi, bir giriş veya çıkış 
+sinyalinin geçerli olduğunu doğrulamaya yardımcı olabilecek 
+engulfing örüntüleri, çekiç/kayan yıldız örüntüleri ve pin barları 
+gibi mum çubuğu örüntülerine bakmayı içerir.
+Örneğin, bir momentum osilatöründe boğa geçişi 
+gerçekleşirse, alıcıların trendi kontrol altına aldığını 
+belirtmek için çekiç veya pin çubuğu gibi bir mum çubuğu 
+onayı aramalısınız. Bu, yalnızca göstergeye güvenmekten 
+daha fazla güven sağlayacaktır.
+Bu teknik göstergeleri birleştirerek, yatırımcılar yüksek olasılıklı giriş 
+ve çıkış noktalarını daha büyük bir doğrulukla belirleyebilirler. Bu 
+göstergelerin genel bir ticaret stratejisinde yalnızca bir araç olarak 
+kullanılması gerektiğini hatırlamak önemlidir.
+Yatırımcılar, işlem kararları alırken fiyat hareketi, piyasa 
+duyarlılığı ve risk yönetimi gibi diğer faktörleri de dikkate 
+almalıdır.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+Scalping İçin Gelişmiş Scalping Gösterge 
+Sinyalleri (TradingView göstergeleri)
+İşlemlere girerken ve çıkarken en iyi avantajı mı 
+arıyorsunuz?
+TradingView'da bulunan bu gelişmiş teknik göstergeler, işlem 
+stratejilerinizi bir üst seviyeye taşımanın anahtarı olabilir. Ancak, 
+optimum performans istiyorsanız bu göstergelerin nasıl ve ne 
+zaman doğru şekilde kullanılacağını bilmek önemlidir.
+Bu bölümde TradingView'da bulunan en güvenilir giriş/çıkış 
+sinyallerinden bazılarını inceleyeceğiz.
+Bu Gösterge Sinyallerini Nasıl Bulursunuz?
+Bunlar diğer yatırımcıların TradingView üzerinde oluşturup kodladığı 
+ücretsiz göstergelerdir.
+TradingView'de diğer üyelerin oluşturduğu binlerce gösterge 
+var, ancak bunlar benim scalping stratejilerimde bulduğum ve 
+kullandığım en iyi göstergeler.
+Önemli -Bu göstergeler tek başlarına değil, tam bir scalping 
+stratejisinde kullanılmalıdır. Ayrıca, gerçek parayla 
+kullanmadan önce bu sinyalleri geriye dönük test etmeli ve 
+kağıt ticareti yapmalısınız!
+Bu göstergelere TradingView üzerinden erişmek için:
+1. Bir TradingView hesabı açın (TradingView.com), eğer ödeme yapmak 
+istemiyorsanız ücretsiz bir hesap için kaydolabilirsiniz.
+2. TradingView’da bir grafik açın ve üst araç çubuğunda 
+bulunan “göstergeler” simgesine tıklayın.
+3. Daha sonra arama kutusuna aradığınız göstergeyi yazmanız 
+yeterli.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+TradingView göstergesi arama kutusu
+Artık bu göstergelerin nasıl bulunacağını öğrendiğinize göre, 
+başlayalım!
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+Gösterge Sinyali #1: Balina Pompası 
+Dedektörü ile L2 KDJ
+Yazar: blackcat1402
+Bu göstergeyi bulmak için TradingView'daki gösterge arama 
+kutusuna "L2 KDJ with Whale Pump Detector" yazın 
+(blackcat1402 tarafından)
+Genel Bakış:
+Bu gösterge, stokastik osilatöre benzer bir momentum 
+osilatörü olan KDJ göstergelerinin bir çeşididir. Stokastikten K 
+ve D çizgilerini kullanır, ancak J çizgisi adı verilen başka bir 
+çizgiyi de kullanır - dolayısıyla adı KDJ'dir.
+Sinyaller, üç çizginin de belirli bir yönde kesişmesiyle 
+üretilir. KDJ ayrıca giriş/çıkış sinyalleri için kullanılabilen 
+aşırı alım (100'ün üzerinde) ve aşırı satım (0'ın altında) 
+bölgelerini de içerir.
+KDJ'den gelecek sinyaller yatay piyasa koşullarında en güvenilir 
+sinyaller olacaktır.
+Gösterge İpucu:
+Ayarlarda KDJ'deki arka plan renklerini kaldırın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Uzun Giriş:
+Aşağıdakilerden biri kullanılabilir:
+KDJ'de yeşil bir "B" etiketi görünür 
+KDJ'nin üç çizgisi çapraz olarak yer alır
+Uzun Çıkış:
+Aşağıdakilerden biri kullanılabilir:
+KDJ'de kırmızı bir "S" etiketi görünür. Üç 
+çizgi de aşağı doğru kesişir.
+KDJ 100'ün üzerine çıktı (aşırı alım)
+L2 KDJ göstergesi kullanılarak giriş ve çıkış sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Kısa Giriş:
+Aşağıdakilerden biri kullanılabilir:
+KDJ'de kırmızı bir "S" etiketi görünür 
+KDJ'nin üç çizgisi aşağı doğru kesişir
+Kısa Çıkış:
+Aşağıdakilerden biri kullanılabilir:
+KDJ'de yeşil bir "B" etiketi görünür. Üç 
+çizgi de aşağı doğru kesişir.
+KDJ 20'nin altına düştü (aşırı satım)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Gösterge Sinyali #2: [N]RSIOMA
+Yazan: neutrid
+Göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna 
+“[N]RSIOMA” yazın (neutrid tarafından)
+Genel Bakış:
+Bu, RSI'ın daha yumuşak bir versiyonudur ve ayrıca RSI MA'nın 
+üstüne veya altına geçtiğinde sinyal üretmek için hareketli bir 
+ortalama da içerir.
+RSI rengi trend yönüne bağlı olarak yeşil ve kırmızı renkler 
+arasında değişecektir. Bu gösterge aşırı alım/aşırı satım 
+sinyallerini belirlemek için de kullanılabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Uzun/Alım Sinyali:
+Aşağıdakilerden birini kullanın:
+RSI hareketli ortalamanın üzerine çıktı RSI 
+20'nin altında (aşırı satılmış)
+RSI rengi yeşile döner
+Kısa/Satış Sinyali:
+Aşağıdakilerden birini kullanın:
+RSI hareketli ortalamanın altına düştü 
+RSI 80'in üzerinde (aşırı alım)
+RSI rengi kırmızıya dönüyor
+[N]RSIOMA göstergesini kullanan uzun ve kısa bir giriş
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Gösterge
+Ayrışma Bulucu
+Sinyal # 3: Filtrelenmiş RSI
+Yazar: eşarp
+Göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna 
+"Filtered RSI Divergence Finder" yazın (Scarle tarafından)
+Genel Bakış:
+Bu gösterge, zirveleri ve dipleri tahmin etmek için RSI ayrışmasını 
+kullanmaya dayanır. RSI ayrışması belirlendiğinde grafikte bir sinyal 
+belirecektir.
+Bu indikatör ayrışma tespit ettiğinde, yükseliş ayrışması için 
+mumun altında yeşil bir alım sinyali, düşüş ayrışması için 
+mumun üstünde kırmızı bir satış sinyali belirecektir.
+Uzun/Alım Sinyali:
+Yeşil "R" etiketi bir mumun altında görünür
+Kısa/Satış Sinyali:
+Kırmızı "R" etiketi bir mumun üstünde görünür
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Filtrelenmiş RSI Ayrışma Bulucu göstergesini kullanarak uzun 
+ve kısa girişler
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+Gösterge Sinyali #4: Williams %R
+Yazan: stuehmer
+Bu göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna 
+"Williams %R" yazın (stuehmer tarafından)
+Genel Bakış:
+Bu, aşırı alım ve aşırı satım piyasa koşullarını belirlemek için 
+kullanılan RSI'ye benzer bir momentum osilatörü olan 
+Williams %R göstergesinin bir çeşididir.
+Williams %R'nin bu versiyonu bir EMA içerir, sinyaller Williams 
+%R'nin EMA'nın üstüne veya altına geçmesiyle oluşur. Bu gösterge 
+fiyat değişikliklerine hızlı tepki verir ve bu da onu scalping için 
+harika hale getirir.
+Williams %R göstergesi, diğer teknik göstergeler ve araçlarla 
+birleştirildiğinde en iyi şekilde kullanılır. Williams %R, MACD, 
+trend çizgileri ve destek/direnç seviyeleri gibi diğer göstergelerle 
+birleştirildiğinde, yüksek olasılıklı giriş ve çıkış sinyalleri vermeye 
+yardımcı olabilir.
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+Uzun Giriş:
+Williams %R EMA'nın üzerine çıktı
+Williams %R aşırı satım bölgesinin (-80) dışına doğru yükseliyor
+Uzun Çıkış:
+Williams%R -20'nin (aşırı alım) üzerine çıkar 
+Williams %R EMA'nın altına çıkar
+Williams %R göstergesini kullanarak uzun giriş ve çıkış sinyallerine 
+örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+Kısa Giriş:
+Williams %R EMA'nın altına geçiyor
+Williams %R aşırı alım bölgesinden (-20) aşağı doğru 
+geçiyor
+Kısa Çıkış:
+Williams%R -80'in altına (aşırı satım) geçti 
+Williams %R EMA'nın altına geçti
+Williams %R göstergesini kullanarak kısa giriş ve çıkış sinyalleri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+Gösterge Sinyali #5: Diverjans Göstergeli 
+Döngüsel Yumuşatılmış RSI
+Yazan: Dr_Roboto
+Bu göstergeyi bulmak için, TradingView'daki gösterge arama 
+kutusuna "Divergence Indicator ile Döngüsel Düzleştirilmiş RSI" 
+yazın (Dr_Roboto tarafından)
+Genel Bakış:
+Bu, giriş/çıkış sinyalleri üretmek için büyük ölçüde değiştirilmiş 
+bir RSI kullanan RSI (göreceli güç endeksi) göstergesinin bir 
+çeşididir. Bu gösterge, RSI'da bantlar ve bir WMA (ağırlıklı 
+hareketli ortalama) içerir.
+Bu gösterge bir dizi farklı sinyal üretebilir, bunlar şunları 
+içerir:
+RSI'da yeşil veya kırmızı bir nokta belirir. RSI 
+bantların üstünden veya altından geçer. RSI 
+WMA'yı geçer.
+RSI aşırı alım/aşırı satım bölgelerine girer 
+Bantlar yeşil veya kırmızı renk değiştirir
+Bu sinyallerden bazıları trend ticareti için daha uygunken diğerleri 
+scalping için daha uygun olacaktır. Bantlar kırmızı veya yeşil renkler 
+arasında değiştiğinde trend filtresi olarak kullanılabilir.
+Gösterge İpucu:Sinyal tanımlamayı kolaylaştırmak için bu 
+göstergenin renklerini değiştirebilirsiniz
+Uzun Giriş:
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+RSI'da yeşil bir nokta belirir (scalping için daha 
+iyidir) RSI alt bandın üstünden geçer
+RSI, WMA'nın üzerine çıktı
+RSI aşırı satım bölgesinden yukarı doğru çıkıyor
+Uzun Çıkış:
+RSI'da kırmızı bir nokta beliriyor
+RSI, üst bant üzerinde olduktan sonra alt bandı 
+geçiyor
+RSI, WMA'nın altına geçiyor
+RSI aşırı alım bölgesine (70'in üzerine) giriyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+Diverjans Göstergeli Döngüsel Yumuşatılmış RSI kullanılarak 
+uzun giriş ve çıkış sinyallerine örnek
+Kısa Giriş:
+RSI'da yeşil bir nokta belirir (scalping için daha 
+iyidir) RSI alt bandın üstünden geçer
+RSI, WMA'nın üzerine çıktı
+RSI aşırı satım bölgesinden yukarı doğru çıkıyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+Kısa Çıkış:
+RSI'da kırmızı bir nokta beliriyor
+RSI, üst bant üzerinde olduktan sonra alt bandı 
+geçiyor
+RSI, WMA'nın altına geçiyor
+RSI aşırı alım bölgesine (70'in üzerine) giriyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+Diverjans Göstergeli Döngüsel Yumuşatılmış RSI kullanılarak 
+kısa giriş ve çıkış sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+Gösterge Sinyali #6: UT Bot Uyarıları
+Yazan: QuantNomad
+Bu göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna 
+"UT Bot Uyarıları" yazın (QuantNomad tarafından)
+Genel Bakış:
+Bu, süpertrend göstergesine benzer bir ATR tabanlı trend 
+takip göstergesidir. Mumlar trende bağlı olarak yeşil ve 
+kırmızı renk arasında değişecektir.
+Bir sinyal oluştuğunda grafikte “satın al” ve “sat” etiketleri belirir ve bu 
+indikatörü trend değişikliklerini kolayca belirlemek için iyi bir araç 
+haline getirir.
+Bu gösterge trend piyasalarında iyi çalışır, ancak yatay 
+piyasalarda yanlış sinyaller üretir.
+Gösterge İpucu:
+Ayarları kullan
+Göstergeyi trend filtresi olarak kullanmak için Anahtar Değer = 3, 
+ATR periyodu = 20
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+Uzun Giriş:
+Mumun rengi yeşile döner
+Yeşil "satın al" etiketi bir mumun altında görünür
+Uzun Çıkış:
+Mum rengi kırmızıya döner
+Kırmızı "sat" etiketi bir mumun altında görünür
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+Kısa Giriş:
+Mum rengi kırmızıya döner
+Kırmızı "sat" etiketi bir mumun altında görünür
+Kısa Çıkış:
+Mumun rengi yeşile döner
+Yeşil "satın al" etiketi bir mumun altında görünür
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+Gösterge Sinyali #7: HalfTrend Göstergesi
+Yazan: everget
+Göstergeyi bulmak için, TradingView'daki gösterge arama kutusuna 
+"HalfTrend" yazın (everget tarafından)
+Genel Bakış:
+Yarı trend göstergesi, piyasadaki kısa vadeli zirveleri ve dipleri doğru bir 
+şekilde tahmin etmek için harika bir araçtır.
+Alım veya satım sinyali oluştuğunda fiyatın altında veya üstünde bir ok 
+belirir, bu da kullanımı ve anlaşılmasını oldukça kolaylaştırır.
+Bu gösterge, yüksek oynaklığın ve büyük fiyat dalgalanmalarının olduğu 
+piyasalarda en iyi şekilde çalışacaktır.
+Volatilite çok düşük olduğunda bu gösterge daha az güvenilir olacak ve daha 
+fazla yanlış sinyal üretecektir.
+Gösterge ipucu:
+Düşük oynaklıklı piyasa koşullarında aşağıdaki ayarları deneyin:
+Genlik 1
+Kanal Sapması 1
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+Uzun Giriş:
+Mumun altında mavi ok belirir 
+Çizgi rengi değişir
+Uzun Çıkış:
+Aşağıdakilerden birini seçin:
+Mumun üstünde kırmızı ok belirir 
+Çizginin rengi kırmızıya döner
+Kısa Giriş:
+Mumun üstünde kırmızı ok belirir. 
+Çizgi kırmızıya döner.
+Kısa Çıkış:
+Aşağıdakilerden birini seçin:
+Mavi ok mumun altında görünür 
+Çizgi rengi maviye döner
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+HalfTrend göstergesini kullanarak giriş/çıkış sinyallerinin ekran 
+görüntüsü
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+Gösterge Sinyali #8: AlphaTrend
+Yazan: KivancOzbilgic
+Göstergeyi bulmak için TradingView'daki gösterge arama kutusuna 
+"AlphaTrend" yazın (KivancOzbilgic tarafından)
+Genel Bakış:
+Bu gösterge, hareketli ortalamalara benzer şekilde fiyatı takip 
+edecek ATR'ye (ortalama gerçek aralık) dayalı iki çizgi içerir. Bu 
+çizgiler kesiştiğinde alım/satım sinyalleri oluşur.
+Bu gösterge, piyasadaki büyük fiyat dalgalanmalarını çok fazla yanlış sinyal 
+vermeden doğru bir şekilde tahmin edebilir.
+Bu indikatörün kullanımı oldukça kolaydır, ATR çizgileri kesiştiğinde ve bir 
+sinyal oluştuğunda "al" veya "sat" etiketi görünecektir.
+Bu gösterge, büyük fiyat dalgalanmalarının yaşandığı yüksek volatilite dönemlerinde en 
+iyi şekilde çalışacaktır.
+Volatilite çok düşükse bu indikatörü kullanmaktan kaçının, çünkü 
+bu koşullarda yanlış sinyaller üretecektir.
+Gösterge İpucu:Bu göstergenin renklerini ayarlardan 
+değiştirerek daha kolay görebilirsiniz
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+Uzun Giriş:
+Fiyat AlphaTrend'in üzerinde ve bir satın alma etiketi 
+görünüyor
+Uzun Çıkış:
+Fiyat AlphaTrend'in altında kapanıyor Bir 
+satış etiketi görünüyor
+AphaTrend göstergesini kullanan Giriş/Çıkış sinyallerine örnek
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+Kısa Giriş:
+Fiyat AlphaTrend'in altında ve bir satış etiketi 
+görünüyor
+Kısa Çıkış:
+Fiyat AlphaTrend'in üzerinde kapanıyor Bir 
+satın alma etiketi görünüyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+4. Yüksek Kazanma Oranlı Scalping Stratejilerini 
+Tamamlayın
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+Gösterge Scalping Stratejisi #1: BB + 
+VWAP ve Stokastik
+Strateji Türü:
+Ortalamaya Dönüş
+5 dakikalık zaman diliminde en iyi şekilde çalışır
+Stratejide Kullanılan Göstergeler:
+VWAP (hacim ağırlıklı ortalama fiyat)
+* VWAP üzerindeki bantları çıkarın, sadece VWAP çizgisi 
+görünür olsun
+Bollinger Bantları
+* Ayarları şu şekilde değiştirin: StdDev = 1.5
+Stokastik Osilatör
+*ayarları şu şekilde değiştirin: %K Uzunluk = 7, %K Düzeltme =
+4, %D Düzeltme = 3
+Uzun Giriş Koşulları:
+Fiyat VWAP'ın üzerinde
+Bir mum Bollinger bandının altında kapanıyor 
+Stokastikler 20'nin altında (aşırı satılmış)
+Bir mum Bollinger bandının alt kısmının üstünde 
+kapandığında girin, stop loss'u giriş mumunun altına 
+yerleştirin
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+Uzun Çıkış Koşulları:
+Aşağıdakilerden birini seçin:
+Fiyat Bollinger bandının tepesine dokunuyor
+Stokastik aşırı alım bölgesinde (80'in üzerinde)
+Bu stratejiyi kullanarak uzun bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+Kısa Giriş Koşulları:
+Fiyat VWAP'ın altında
+Bir mum Bollinger üst bandının üstünde 
+kapanıyor Stokastikler 80'in üzerinde (aşırı alım)
+Bir mum Bollinger bandının üst sınırının altına düştüğünde 
+girin, giriş mumunun üstüne zararı durdurun
+Kısa Çıkış Koşulları:
+Aşağıdakilerden birini seçin:
+Fiyat Bollinger bandının dibine dokunuyor
+Stokastik aşırı satım bölgesinde (20'nin altında)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+Bu stratejiyi kullanarak kısa bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+Gösterge Scalping Stratejisi #2: UT Bot + 
+KDJ
+Strateji Türü:
+Trendleri takip etmek
+Strateji Göstergeleri:
+UT Bot Uyarıları (QuantNomad tarafından)
+* Ayarları değiştir - Anahtar Değer = 3, ATR periyodu = 30
+Balina Pompası Dedektörü ile L2 KDJ (blackcat 1402 
+tarafından)
+* KDJ'deki arka plan renklerini ayarlardan 
+kapatabilirsiniz
+200 SMA
+Uzun Giriş Koşulları:
+Fiyat 200 SMA'nın üzerinde
+Mum rengi yeşildir ve mumun altında bir satın alma etiketi 
+görünür
+KDJ'de yeşil "B" harfi göründüğünde veya üç KDJ 
+çizgisinin hepsi kesiştiğinde girin.
+Uzun Çıkış Koşulları:
+Aşağıdakilerden birini seçin:
+KDJ'de kırmızı bir "S" harfi görünür. Üç 
+KDJ çizgisi aşağı doğru kesişir.
+Mum rengi kırmızıya döner ve mumun üstünde bir satış 
+etiketi belirir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+Bu stratejiyi kullanarak uzun giriş ve çıkış sinyali örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+Kısa Giriş Koşulları:
+Fiyat 200 SMA'nın altında
+Mum rengi kırmızıdır ve mumun üstünde bir satış etiketi 
+görünür
+KDJ üzerinde kırmızı “S” harfi göründüğünde veya üç KDJ çizgisinin 
+hepsi aşağı doğru kesiştiğinde girin.
+Kısa Çıkış Koşulları:
+Aşağıdakilerden birini seçin:
+KDJ'de yeşil bir "B" harfi görünür Üç 
+KDJ çizgisi aşağı doğru kesişir
+Mum rengi kırmızıya döner ve mumun üstünde bir satış 
+etiketi belirir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+Gösterge Scalping Stratejisi #3: BB + Tersine 
+Çevirme Bulucu Stratejisi
+Strateji Türü:
+Ortalamaya Dönüş
+Stratejide Kullanılan Göstergeler:
+Bollinger bandı (varsayılan ayarlar) Ters dönüş bulucu 
+göstergesi (NS91 tarafından) Kopuş/Konsolidasyon 
+Filtresi (jwammo12 tarafından)
+Uzun Giriş Koşulları:
+Kopuş/konsolidasyon filtresi 50'nin altında
+Fiyat Bollinger bandının altında veya dışında
+Mumun altında yeşil bir nokta belirir
+Uzun Çıkış Koşulları:
+Fiyat Bollinger bandının üstüne dokunuyor veya onun dışında kalıyor 
+Bir mumun üstünde kırmızı veya sarı bir nokta beliriyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+Bu scalping stratejisini kullanarak uzun bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+Kısa Giriş Koşulları:
+Kopuş/konsolidasyon filtresi 50'nin altında Fiyat, Bollinger 
+bandının dışında veya ona dokunuyor Mumun üzerinde 
+kırmızı bir nokta görünüyor
+Kısa Çıkış Koşulları:
+Fiyat Bollinger bandının alt kısmına dokunuyor veya 
+dışında
+Bir mumun altında yeşil veya sarı bir nokta belirir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+Bu stratejiyi kullanarak kısa bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+Gösterge Scalping Stratejisi #4: BB + RSI 
+Ayrışma Bulucu
+Strateji Türü:
+Ortalamaya dönüş
+Strateji Göstergeleri:
+Bollinger Bantları
+500 EMA
+Filtrelenmiş RSI Ayrışma Bulucu (Eşarp ile)
+Uzun Giriş Koşulları:
+Fiyat 500 EMA'nın üzerinde
+Fiyat Bollinger bandının altına dokunuyor veya 
+altında
+RSI Divergence Finder'dan (yeşil "R" etiketi) bir satın alma sinyali 
+göründüğünde uzun pozisyona girin
+Uzun Çıkış Koşulları:
+Fiyat Bollinger bandının tepesine dokunuyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+Bu stratejiyi kullanarak uzun bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+Kısa Giriş Koşulları:
+Fiyat 500 EMA'nın altında
+Fiyat Bollinger bandının en üst noktasına dokunuyor veya üstünde
+RSI Divergence Finder'dan (kırmızı "R" etiketi) bir satış sinyali 
+göründüğünde uzun pozisyona girin
+Kısa Çıkış Koşulları:
+Fiyat Bollinger bandının dibine dokunuyor
+Bu stratejiyi kullanarak kısa bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+Gösterge Scalping Stratejisi #5: RSI + ADX ve 
+BB Scalping Stratejisi
+Strateji Türü:
+Ortalamaya dönüş
+Bu Stratejide Kullanılan Göstergeler:
+Bollinger Bantları
+ADX
+RSI
+* RSI uzunluğunu 5'e değiştirin
+Uzun Giriş Koşulları:
+ADX 25'in altında
+Fiyat BB'nin altında veya dibine dokunuyor
+RSI 30'un (aşırı satım) altına düştüğünde ve aşırı satım 
+bölgesini aştığında giriş yapın.
+Uzun Çıkış Koşulları:
+Aşağıdakilerden birini seçin -
+Fiyat, BB tepesine dokunur veya onu aşar 
+RSI, 70'in üzerine çıkar (aşırı alım)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+Bu stratejiyi kullanarak uzun bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+Kısa Giriş Koşulları;
+ADX 25'in altında
+Fiyat BB'nin üstünde veya ona dokunuyor
+RSI 70'in (aşırı alım) üzerine çıktığında ve aşırı alım 
+bölgesinden aşağı doğru geçtiğinde giriş yapın.
+Kısa Çıkış Koşulları:
+Aşağıdakilerden birini seçin -
+Fiyat BB'nin altına dokunur veya onu geçer 
+RSI 30'un altına geçer (aşırı satım)
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+Bu stratejiyi kullanarak kısa bir giriş ve çıkış
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+Gösterge Scalping Stratejisi #6: WTMO + 
+KAMA Stratejisi
+Strateji Türü:
+Trendleri takip etmek
+Bu Stratejide Kullanılan Göstergeler:
+Dalga Trendi Momentum Osilatörü (veryfid tarafından)
+* WTMO ayarlarında uzunluğu 14 olarak değiştirin
+HalfTrend (Everget tarafından)
+Uzun Giriş Koşulları:
+WTMO yeşil seviyenin altında (aşırı satılmış) ve yukarı doğru 
+hareket ediyor
+HalfTrend göstergesinden bir mumun altında bir satın alma oku 
+göründüğünde uzun vadeli ticarete girin
+Uzun Çıkış Koşulları:
+Aşağıdakilerden birini kullanın:
+WTMO aşırı alım bölgesinde ve aşırı alım bölgesinden 
+aşağı doğru geçiyor
+HalfTrend göstergesinden bir mumun üstünde kırmızı 
+bir satış oku belirir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+Bu stratejiyi kullanarak uzun giriş ve çıkış sinyalleri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+Kısa Giriş Koşulları:
+WTMO kırmızı çizginin üzerinde (aşırı alım) ve aşağı 
+doğru geçiyor
+HalfTrend göstergesinden bir mumun üstünde satış oku 
+göründüğünde kısa pozisyona girin
+Kısa Çıkış Koşulları:
+WTMO aşırı satılmış durumda ve aşırı satılmış bölgenin 
+dışına çıkıyor
+HalfTrend göstergesinden bir mumun altında mavi bir 
+satın alma oku belirir
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 76 ===
+Bu stratejiyi kullanarak kısa giriş ve çıkış sinyalleri
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 77 ===
+Gösterge Scalping Stratejisi #7: MFI + HMA 
+Scalping Stratejisi
+Strateji Türü:
+Trendleri takip etmek
+Strateji Göstergeleri:
+Bjorgum MTF MA (Bjorgum tarafından)
+*MA tipi #1'i HMA'ya ve MA #1'in uzunluğunu 65'e değiştirin
+MFI ile18 SMAüzerine eklendi
+* MFI uzunluğunu 21 olarak değiştirin
+200 SMA
+Uzun Giriş Koşulları:
+Fiyat 200 SMA'nın üzerinde
+MFI, SMA'nın üstünden geçerken 50'nin altında 
+Mum, HMA'nın üstünden geçer ve kapanır Mum 
+rengi maviye döner
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 78 ===
+Uzun Çıkış Koşulları:
+Aşağıdakilerden birini seçin:
+MFI, SMA Mumunun altından 
+geçtiğinde renk kırmızıya döner
+Bir mum HMA'nın altında kapanıyor
+Bu stratejiyi kullanarak uzun bir giriş ve çıkış örneği
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 79 ===
+Kısa Giriş Koşulları:
+Fiyat 200 SMA'nın altında
+MFI, SMA'nın altına düşerken 50'nin üstündeki 
+mum, HMA'nın altına düşer ve kapanır Mum rengi 
+kırmızıya döner
+Kısa Çıkış Koşulları:
+Aşağıdakilerden birini seçin:
+MFI, SMA Mumunun üstünden 
+geçtiğinde renk maviye döner
+Bir mum HMA'nın üzerinde kapanıyor
+www.forexgercekleri.xyz - [Twitter: @eseckal]

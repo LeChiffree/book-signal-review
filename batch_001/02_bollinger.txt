@@ -1,0 +1,663 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 11\Baskı 11\Bollinger Bantları - İşe Yarayan Trading Stratejileri - Connors Research - Laurence Connors ve Cesar Alvarez (37 sayfa) - @eseckal.pdf
+PAGES: 37
+
+
+=== PDF PAGE 1 ===
+Connors Research Trading Strategy Series 
+Bollinger Bands®  
+Trading Strategies  
+That Work 
+By 
+Connors Research, LLC 
+Laurence Connors 
+Cesar Alvarez 
+   
+
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+Bölüm 1 Bollinger Bantları® ve %b ile Ticarete Bir Bakış 5
+Bölüm 2 Kurallar 9
+Bölüm 3 Test Sonuçları 12
+Bölüm 4 Çıkışların Rolü 17
+Bölüm 5 Bollinger Bantları® ve %b ile Günlük İşlem 22
+Bölüm 6 Bollinger Bantları® ve %b ile Opsiyon Ticareti 25
+Bölüm 7 Ek Notlar 29
+Ek RSI, Tarihsel Volatilite ve ADX Hesaplamaları 31
+4 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+Bölüm 1
+Bollinger Bantlarına® 
+ve %b'ye Bir Bakış
+5 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+Efsanevi para yöneticisi ve araştırmacı John Bollinger tarafından yaratılan Bollinger Bantları®, dünyanın dört bir yanındaki 
+yatırımcılar tarafından hemen hemen tüm piyasalarda uygulanan en popüler göstergelerden biridir. Bugün Bollinger 
+Bantları®'nın eşlik etmediği bir grafik görmek nadirdir çünkü yatırımcıların bir menkul kıymetin ne kadar aşırı alım veya 
+aşırı satım yaptığını görmelerini sağlayan olmazsa olmaz bir görselleştirme aracı haline gelmiştir.
+Bollinger Bands® ile nasıl işlem yapılacağına dair bol miktarda bilgi yayınlanmıştır. Ancak bunların 
+çoğu teoride takdir yetkisine bağlıdır. Bollinger Bands® nasıl kullanılır bilgisi genellikle menkul 
+kıymetin fiyatının Bantları ile ilgili olarak ne yaptığını yorumlamak için tüccara geri döner.
+Bu Rehber bunu yapmaz.
+Öğreneceğiniz şey, Bollinger Bantları® ile aşırı alım ve aşırı satım seviyelerini tam olarak nasıl 
+belirleyeceğiniz ve belirli seviyelere ulaştıklarında tarihsel getirilerin ne olduğunu bilerek bunları nasıl 
+uygulayacağınızdır.
+İleBollinger Bantları® ile TicaretStrateji Rehberi, Bantların kenarlarını artırmak için birden fazla günlük 
+geri çekilme seviyesiyle birlikte en iyi tarihsel giriş ve çıkış tetikleyicilerini nasıl belirleyeceğinizi 
+öğreneceksiniz. Ayrıca, işlemlerinizde daha fazla esneklik sağlamak için çeşitli çıkış noktalarını da 
+öğreteceğiz.
+Ocak 2001-Mayıs 2012 (Rehber Kitabı yazmaya başladığımız tarih) arasında hisse başına 5 doların üzerinde 
+fiyatlandırılan günlük ortalama en az 250.000 hisse işlem gören her Birleşik Devletler hissesine baktık. Bu, satın 
+alınan, borsadan çıkarılan vb. hisselerle birlikte tüm hisseleri içerir. Bollinger Bantlarını® ve özellikle Bollinger 
+Bantlarının %b bileşenini on yıldan uzun süredir tüm likit hisselerde her gün oyunda görüyorsunuz.Buradan 
+Bollinger Bantlarının® %b bileşeninin, uygun şekilde uygulandığında kısa vadeli fiyatlara yönelik önemli bir 
+öngörü yeteneğine sahip olduğunu göreceksiniz. Bir bütün olarak, Bollinger Bantlarını® uygulamak için en 
+sağlam niceliksel hisse senedi stratejilerinden birine sahipsiniz .
+Stratejiyi anlatmadan önce, Bollinger Bantlarının® tam olarak ne olduğuna ve ayrıca Bollinger Bantları® 
+içindeki dehanın ne olduğunu düşündüğümüze, yani %b hesaplamasına, bakalım; bu hesaplamaya özellikle 
+odaklanacağız.
+6 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+Bollinger Bantları® Nedir?
+Bollinger Bantları®, fiyatın önceki işlemlere göre yüksekliğini veya düşüklüğünü ölçmek için 
+kullanılır.
+Bu Rehberdeki stratejiler için Bollinger Bantları® şunlardan oluşur:
+• hareketli ortalamanın 5 dönemlik standart sapmasının 1 katı üzerinde bir üst bant.
+• hareketli ortalamanın altında 5 dönemlik standart sapmanın 1 katı olan daha düşük bir bant.
+Bir menkul kıymet alt seviyesine ne kadar yakınsa, o kadar aşırı satılmış demektir. Bir menkul kıymet üst seviyesine ne 
+kadar yakınsa, o kadar aşırı satın alınmış demektir.
+Bollinger Bantları® etrafında dönen çoğu araştırma ve strateji bu kavramı kullanır ve ardından bir strateji 
+oluşturmak için buna başka filtreler ekleme eğilimindedir. Az önce de belirtildiği gibi, çok azı veya hiçbiri 
+birden fazla yıllık test sonuçlarıyla kesin kurallar sağlamaz. Bu Rehberde bunu sizin için yaparak daha da ileri 
+gittik.
+Bizim görüşümüze göre (ki bu istatistiksel sonuçlarla da desteklenmektedir), Bollinger Bantları®'nın %b bileşeni, 
+hisse senedi alım satımı yaparken uygun giriş ve çıkış seviyelerini daha iyi belirlemenize olanak tanır.
+%b, Bollinger Bantlarından türetilen bir göstergedir ve bir menkul kıymetin fiyatını Bollinger Bantlarının üst ve alt kısımlarına 
+göre niceliksel olarak belirler.
+%b için varsayılan ayar, Bollinger Bantları® (5,1) için varsayılan ayara dayanır. Bantlar, aynı 
+zamanda orta bant olan 5 günlük basit hareketli ortalamanın 1 standart sapma yukarısına ve 
+altına ayarlanır. Güvenlik fiyatı kapanıştır (veya günlük okumalar için son işlemdir).
+İşte %b için Hesaplama
+%b = (Fiyat - Alt Bant)/(Üst Bant - Alt Bant)
+-
+-
+-
+-
+-
+-
+%b, fiyat üst bantta olduğunda 1'e eşittir. %b, 
+fiyat alt bantta olduğunda 0'a eşittir. %b, fiyat üst 
+bantta olduğunda 1'in üzerindedir. %b, fiyat alt 
+bantta olduğunda 0'ın altındadır.
+%b, fiyat orta bantta (5 günlük SMA) olduğunda .50'nin üzerindedir. %b, 
+fiyat orta bantta (5 günlük SMA) olduğunda .50'nin altındadır.
+Bir menkul kıymet satın alırken ideal olarak %b değerinin birkaç gün boyunca 0,1'in altında olmasını isteriz.%b 
+okuması ne kadar düşükse ve bu okumanın altında üst üste ne kadar çok gün varsa, güvenlik o kadar fazla aşırı 
+satılmış demektir ve tarihsel avantajlar o kadar büyük olmuştur . Bu, ticaretin anahtarıdır
+7 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+Bollinger Bantları® ve birkaç ek filtre uygulayarak, son 11+ yılda işlem başına yüksek 
+ortalama kazançlar ve yüksek başarı oranları sağlayan stratejiler oluşturabilirsiniz.
+%b göstergesini StockCharts.com'da çizebilirsiniz (ayarlar: 5,1).
+Şimdi tam olarak kurallara ve parametrelere geçelim ve ardından tarihsel test sonuçlarına bakalım.
+8 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+Bölüm 2
+Kurallar
+9 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+Bollinger Bantları® ve özellikle Bollinger Bantları®'nın %b bileşeniyle işlem yaparken mümkün 
+olduğunca yapılandırılmış ve kural tabanlı olmak istersiniz. Şimdi hisse senetlerinde işlem yapma 
+kurallarına geçelim.
+1. Hisse senedinin değeri hisse başına 5 doların üzerinde olmalıdır.
+2. Hisse senedinin son 21 gündeki (bir işlem ayı) ortalama günlük hacmi en az günde 250.000 
+hisse olmalıdır. Bu, likit hisse senetlerinde olduğumuzu garanti eder.
+3. Hisse senedinin 100 günlük tarihi oynaklığı 30'un üzerindedir. (Tarihsel 
+oynaklığın tanımı için Ek'e bakınız).
+4. Hisse senedinin 10 günlük Ortalama Yön Endeksi (ADX) 30'un üzerindedir. (ADX tanımı için 
+Ek'e bakınız).
+5. Hisse senedi 200 günlük hareketli ortalamasının üzerinde kapandı.
+6. Hisse senedinin %b'si üst üste X (X=0.1, 0, -0.1) Y gün altında olmalıdır (Y = 2, 3, 4). 0'ın altında 
+kapanış, hisse senedinin alt bandının altında kapanışıdır.
+7. Yukarıdaki kurallar karşılanırsa, hisseyi yarın, bugünün kapanış fiyatının %Z altında bir günlük 
+limit üzerinden satın alın (Z= %4, %6, %8 veya %10).
+8. Pozisyondan, %b'si 1.0'ın (üst bandı) üzerine kapandığında çıkın ve kapanış fiyatından çıkın. 
+Ayrıca, hisse senedi ilk yukarı kapanışta 0.50, 0.75'lik bir %b seviyesinin üzerine kapandığında 
+çıkış test sonuçlarını, 2 dönemli RSI çıkışları, hareketli ortalama çıkışları ve aynı gün çıkış (günlük 
+işlem) kullanarak göstereceğiz. Buradaki amaç, işlemden çıkarken mümkün olduğunca fazla 
+bilgiyle sizi güçlendirmektir.
+Şimdi Kural 3-8'i daha derinlemesine inceleyelim.
+Kurallar 3 ve 4Hisse senedinin daha büyük hareketlere izin verecek kadar oynaklığa sahip olduğundan emin olun.
+Kural 5Hisse senedinin uzun vadede yükseliş trendinde olduğunu garanti eder.
+Kural 6geri çekilmeyi tanımlamak için oradadır. Üst üste birkaç gün boyunca %b seviyesinin 0,1'in altında kapanan 
+bir hisse senedi iyi bir kısa vadeli geri çekilmedir. Bollinger Bantlarının® %b bileşeninin üst üste birkaç gün boyunca 
+düşük seviyenin altında olmasını istiyoruz. Bir hisse senedinin %b seviyesi ne kadar düşükse, hisse senedi o kadar 
+fazla aşırı satılmış olur ve sonraki bir ila iki hafta boyunca getirileri o kadar büyük olur.
+Kural 7%b geri çekilmesinin gerçekten göze çarpmasını sağlar. Çoğu geri çekilme yönteminin küçük 
+avantajları olsa da, bu kural geri çekilmenin daha da derin olmasını sağlar ve gün içinde gerçekleştiği için 
+genellikle çok fazla korkuyla birlikte gelir. Özellikle para yöneticileri gerginleşir ve
+10 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+Genellikle satma kararı aldıktan sonra baş tüccarlarına "beni dışarı çıkarın" derler. Bu panik fırsatı 
+yaratır. Hisse senedini günlük bazda, bir limit emriyle günlük daha fazla geri çekilmeyle satın 
+almak isteriz. Yaptığımız şey, %b ile ölçüldüğünde zaten aşırı satılmış bir hisse senedini almak ve 
+daha sonra günlük bazda daha da aşırı satılmasını beklemektir.
+Kural 8yerinde disiplinli, niceliksel bir çıkışa sahip olduğumuzdan emin olur. Çok az strateji niceliksel, 
+yapılandırılmış ve disiplinli çıkış kurallarına sahiptir. Kural 8, on yılı aşkın tarihsel test sonuçlarıyla 
+desteklenen ticaretten çıkmak için size kesin parametreler verir.
+Şimdi test sonuçlarına bakalım.
+11 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+Bölüm 3
+Test Sonuçları
+12 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+Tüccarlar kısa vadede (üç ila on işlem günü) iyi bir avantajın (işlem başına ortalama kazanç 
+anlamına gelir) ne olduğunu sorduklarında, kural işlem başına %½ ila %2,5'tir. Bu tüm işlemleri 
+içerir.
+İşlem başına ortalama kazanç, kazanan işlem sayısı çarpı ortalama kazançları eksi kaybeden 
+işlemler çarpı ortalama kayıpları bölü toplam işlemlerdir. Yani, sistemde toplam 100 işlem varsa ve 
+%60'ı ortalama %2 kazanırken %40'ı ortalama %1 kaybederse, %120 eksi %40 bölü 100'e sahip 
+olursunuz. Bu örnekte işlem başına ortalama kazanç %0,80'dir.
+Uzun taraftaki kısa vadeli avantajlar genellikle korkudan kaynaklanır. Bu korku, piyasa katılımcılarının bir 
+tezahürüdür ve piyasa korkusu ve/veya bireysel hisse senedi korkusu şeklini alır. En büyük avantajlar, 
+korku en yüksek seviyede olduğunda ortaya çıkar. Herkes korktuğunda, hisse senetlerini çoğunlukla 
+koruma amaçlı satarlar. Bilinen savaş ya da kaç olgusunu düşünün. Toplu satış olduğunda, tüccarlar ve 
+yatırımcılar kaçma modundadır. Ve burası, menkul kıymetlerin kısa vadede yanlış fiyatlandırıldığı ve 
+fırsatların ortaya çıktığı yerdir.
+Piyasa korkusunun birçok bileşeni vardır. En yaygın olan ikisi büyük fiyat satışları veya piyasadaki 
+şoklardan kaynaklanır. Diğeri ise zamandan kaynaklanır. Bunu niceliksel testlerde defalarca gördük. 
+Satış ne kadar uzun sürerse, ortaya çıkan korku da o kadar büyük olur ve var olan sınırlar da o 
+kadar büyük olur.
+Üçüncü bir yön, günlük korkudur. Ticaretin en güçlü ancak hakkında en az yazılmış yönlerinden biridir. Bir 
+hisse senedi (veya piyasa) alın, birkaç gün boyunca satın ve sonra günlük olarak sert vurun. Bu günlük satış 
+genellikle saf paniktir. Ve paniklediklerinde, herhangi bir fiyattan satarlar ve sizin için büyük fırsatlar yaratırlar. 
+Bollinger Bands® stratejisine baktığımızda ve aşırı günlük geri çekilme seviyelerinde günlük olarak satın 
+almaya baktığımızda bunu göreceksiniz. Tarihsel getiriler (uçlar) son derece yüksektir.
+Şimdi Bollinger Bands® Stratejisi'nin varyasyonuna göre en iyi 20 getiriye bakalım. Bunlar Ocak 2001-
+Mayıs 2012 (bu yazının yazıldığı tarih) arasındaki 11+ yıllık dönemin getirileridir. Bu test sonuçlarıyla 
+hisse senedi %b değeri olan 1,0'ın üzerinde kapandığında bir çıkış kullanacağız. Daha sonraki bir 
+bölümde diğer çıkışları kullanarak sonuçlara bakacağız.
+Buradaki kazançlar ve avantajlar, özellikle en büyük günlük geri çekilmeler için önemliydi; 
+%6'dan %10'a kadar geri çekilmeler yaşandı.
+13 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+Tablo 3.1. İşlem Başına Ortalama Kazanca Dayalı En İyi 20 Strateji
+14 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+Her sütunun açıklaması şöyledir:
+# İşlemlerBu varyasyonun 1 Ocak 2001-31 Mayıs 2012 tarihleri   arasında tetiklendiği zaman sayısıdır. Her 
+varyasyonda yüzlerce ve bazı durumlarda 1000'den fazla sinyal tetiklenmiştir.
+Ortalama % Kar/Zarartüm işlemler için ortalama kazançtır (kaybeden işlemler dahil). En iyi 20 
+varyasyon, işlem başına ortalama %4,55'ten %7,86'ya kadar kazançlar gösterdi (hisse senetleri için son 
+derece yüksek bir rakam).
+Ortalama Tutulan Gün Sayısıortalama olarak işlemin yapıldığı gün sayısıdır. Her durumda 6 ila 8 günlük 
+aralıktadır.
+Kazananların %'sikârla kapanan sinyallerin %'sidir. Çoğunluğu %70'in üzerinde olmuştur, 
+özellikle de çoğu başarılı yatırımcının zamanının %55-60'ının doğru olduğu bir dünyada son 
+derece yüksek bir seviye.
+Çıkış Yöntemi%b'lik kapanış 1.0'ın üzerinde. İlerledikçe diğer çıkışlara bakacağız.
+Giriş Limitibir girişi tetiklemek için kullanılan günlük geri çekilmedir. Bu, satın alma tetikleyicisinin bir sonraki 
+gün sinyal gününden %X aşağıda gerçekleştiği anlamına gelir. Bu nedenle bugün bir sinyalle gelirse, sinyal 
+yalnızca hisse senedi daha da geri çekilirse yürütülür. Testlerimizde %4-%10 sınırlarına baktık. Gördüğünüz 
+gibi %8 ve %10 listede baskındır ve günlük geri çekilme ne kadar büyükse, Bollinger Bantları® kullanılarak 
+kenarların o kadar büyük olduğu gerçeğini daha da güçlendirir.
+%b Kesinti%b Seviyesidir. 0.1, 0.0 ve -0.1'i test ettik. Test sonuçları ağırlıklı olarak %b seviyesi ne kadar 
+düşükse hisse senedinin o kadar fazla satıldığını ve tarihsel getirilerin o kadar iyi olduğunu 
+göstermektedir.
+Günler Altında%b kesme seviyesinin altındaki gün sayısıdır. %b kesme seviyesinin altında iki, üç ve dört 
+gün test ettik. Gördüğünüz gibi, hisse senedi kesme seviyesinin altında ne kadar çok gün kalırsa, hisse 
+senedi o kadar fazla aşırı satılmış olur ve işlem başına ortalama kazançlar o kadar yüksek olur.
+En iyi performans gösteren iki varyasyon, %10 limit emriyle 0.0 veya -0.1'in altında 4 gün olmuştur. -0.1 
+kesme seviyesi çok sık gerçekleşmez ve bu nedenle daha fazla işlem sağladığı için 0.0 seviyesi tercih 
+edilir.
+Burada, on yıldan uzun bir süre boyunca tutarlı davranış gösteren %b'nin 20 farklı varyasyonu var. 
+Önemli olan, sizin için en uygun varyasyonu veya varyasyonları kilitlemek ve ardından bunları 
+sistematik yapılandırılmış bir işlem biçiminde uygulamaktır. Bu kurallarla uygulandığında %b, on yıldan 
+uzun bir süredir tutarlı sağlıklı kenarlar göstermiştir.
+Şimdi aynı çıkışı kullanarak yüzdesel olarak en yüksek performans gösteren 20 varyasyona bakalım.
+15 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+Tablo 3.2. Kazananların Yüzdesine Göre En İyi 20 Strateji
+En doğru olan varyasyonlara baktığımızda, daha geniş bir varyasyon dizisi görüyoruz. 
+Kazananların yüzdesi, 2001'den Mayıs 2012'ye kadar olan zaman dilimi için %72,48'den 
+%77,37'ye kadar değişiyor. Bu sayılar, Bollinger Bands® ve %b'yi ticaretinize uygulamanın 
+gücünü bir kez daha doğruluyor.
+Artık Bollinger Bands® ve %b ile hassas bir şekilde işlem yapmak için sayısız sistematik yola 
+sahipsiniz. Şimdi farklı çıkış stratejilerine bakarak bu bilgiyi genişletelim.
+16 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+Bölüm 4
+Çıkışların Rolü
+17 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+Bu bölümde, çeşitli çıkış stratejilerini tanıtarak Bollinger Bantları® ile işlem yapma 
+bilginizi genişleteceğiz. Göreceğiniz gibi, bu çıkış stratejileri tarihsel sonuçları daha da 
+iyileştiriyor ve Bollinger Bantları® ve %b ile işlem yapmak için size daha fazla fırsat 
+sağlıyor.
+Yedi farklı çıkış stratejisine baktık.
+Bunlar:
+1. %b okuması 1.0'ın üzerinde.
+2. %b değerinin 0,75'in üzerinde olması.
+3. %b değerinin 0,50'nin üzerinde olması.
+4. 70'in üzerinde 2 dönemlik RSI.
+5. 50'nin üzerinde 2 dönemlik RSI.
+6. kapanış fiyatı 5 dönemlik basit hareketli ortalamanın üzerinde.
+7. Kapanış fiyatı 3 dönemlik basit hareketli ortalamanın üzerinde.
+İşte çıkışlarla birlikte en iyi performans gösteren varyasyonların sonuçları.
+18 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+Tablo 4.1. İşlem Başına Ortalama Kazanca Dayalı En İyi 20 Strateji
+%b'nin 1,0'lık bir okumasının üzerinde bir kapanış hala en iyi performans gösteren varyasyondur. Diğer çıkışları 
+eklediğinizde artık tüm 20 varyasyonun işlem başına ortalama %6'nın üzerinde olduğunu görüyorsunuz. Sağlamlık arttı 
+ve artık pozisyonlarınızdan çıkmak için kullanabileceğiniz birden fazla çıkış noktanız var.
+19 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+Tablo 4.2. Kazananların Yüzdesine Göre En İyi 20 Strateji
+İki temel husus öne çıkıyor:
+1. Ek çıkış stratejilerine bakıldığında, % doğru sağlıklı bir miktarda artıyor. Şimdi %77,61'den 
+%82,76'ya kadar yüzde doğru seviyeleri gösteren strateji varyasyonlarını görüyoruz.
+2. İşlemler için ortalama tutma süresi, özellikle 3 dönemli basit hareketli ortalamanın üzerinde bir 
+kapanış fiyatı gibi çıkışlar için önemli ölçüde düşer. Kenarlar diğer çıkış stratejilerinden daha azdır ancak 
+birçok durumda tutma süresi yarıya iner. Bu, hangi varyasyonların ve çıkışların sizin için en uygun 
+olduğuna karar vermenizi sağlar.
+20 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+Özet
+Gördüğünüz gibi, bir Bollinger Bands® ticaretinden nasıl çıkılacağını bilmek, ne zaman girileceğini bilmek 
+kadar önemlidir. Çeşitli kesin çıkış noktalarına bakarak, yüksek kenarlara ve tarihsel olarak yüksek bir ticaret 
+başarısı olasılığına sahip daha fazla varyasyon görebilirsiniz.
+21 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+Bölüm 5
+Günlük İşlem ile
+Bollinger Bantları®
+22 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+Bu bir günlük işlem rehberi olmasa da, size belirli varyasyonlarla var olan günlük içi 
+avantajları göstermek istedik. Bu varyasyonlar, işlemleriniz için otomatikleştirilebilir.
+Başarılı günlük ticaret çoğunlukla bir kuruş oyunudur. Günlük ticaret yapan en iyi firmalar ve bireysel tüccarlar 
+küçük bir miktar için scalping yapmaya çalışırlar. Önceki bölümlerde öğretildiği gibi Bollinger Bantları® ve %b'yi 
+kullanmak, günlük avantajların var olduğunu gösterir.
+Daha büyük günlük işlem firmaları işlem başına %0,1'den %0,5'e kadar kenarlar ararlar (geri ödemeler almanın 
+yanı sıra küçük komisyon miktarları için işlem yapabilirler). Bireysel yatırımcıların daha büyük kenarlara ihtiyacı 
+vardır ve bu kenarların uzun vadeli dönemlerde bulunması genellikle zordur. Ancak Bollinger Bantları®'nı 
+kullanarak kenarların on yıldan uzun süredir var olduğunu görebiliriz.
+Aşağıda işlem başına %1,5'ten başlayarak işlem başına %1,87'ye kadar değişen en büyük 10 günlük tarihsel 
+avantajı göreceksiniz.
+Tablo 5.1. En Büyük On Gün İçi Bollinger Bandı®Strateji Tarihsel Kenar
+Bizi en çok ilgilendiren varyasyon ise 7. varyasyon. Bu varyasyonda kurulum gününde sadece iki ardışık 
+gün %b değerinin 0,1'in altında olması, ardından hissenin %10 limitle satın alınması ve kapanışta 
+çıkılması gerekiyor.
+2001'den beri 4845 simüle edilmiş işlem yapıldı ve sinyallerin %65'inden fazlası karlı oldu (bu, herhangi 
+bir günlük işlem stratejisi için çok yüksek bir rakam) ve işlem başına ortalama %1,63 kazanç elde edildi 
+(en iyi işlem şirketlerinin çabaladığından üç kat daha fazla). Bu kurulumlar çok sık gerçekleştiği için, yıl 
+boyunca yatırımcılara bolca fırsat sunuyorlar.
+23 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+Özet
+Gecelik pozisyonlarda hisse senetlerinin aşırı Bollinger Bantları® ve %b seviyelerinde olması gerekir. Günlük ticaret 
+için durum böyle değildir. Basitçe temel %b aşırı satım seviyesinde bir hisse senedi bulundurmak ve ardından 
+günlük %8-%10 oranında satılmasını beklemek, sağlıklı günlük avantajlarla yüksek başarı oranlarında çok sayıda 
+ticaretin tetiklenmesini sağlar.
+24 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+Bölüm 6
+Ticaret Seçenekleri ile
+Bollinger Bantları®
+25 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+Lütfen, seçeneklerin çoğunun bölüm olduğunu unutmayın.Connors Araştırma Ticaret Stratejisi Serisi
+aynıdır çünkü strateji kurulumları genellikle kısa zaman dilimlerinde büyük hareketler içerir. Bizim 
+görüşümüze göre ve profesyonel opsiyon tüccarı olan arkadaşlarımızdan (biri otuz yılı aşkın deneyime 
+sahip) teyit edildiği üzere; bu tür hareketlerle işlem yapmanın en iyi yolu vardır.
+Opsiyon ticareti, piyasalarda son 5 yıldır önemli bir büyüme endüstrisi olmuştur. Bunun nedeni, 
+spreadlerin daralması, likiditenin artması ve karmaşık opsiyonları kolayca ticaret etme yeteneğinin hiç 
+bu kadar basit olmamasıdır.
+Şimdi opsiyon ticaretini az önce öğrendiğimiz kısa vadeli piyasa hareketlerine uygulamaya 
+odaklanacağız. Bu Rehberdeki her şey gibi, bir strateji sinyali tetiklendiğinde bir opsiyon ticaretinin 
+nasıl yürütüleceğine dair kesin kurallar vardır.
+Verilere dayanarak bildiklerimiz şunlar:
+1. Girişten çıkışa kadar olan hareketlerin büyük çoğunluğu çok kısa bir zaman aralığında (6-7 işlem 
+günü) gerçekleşmiştir.
+2. İşlem başına ortalama kazançlar büyük oldu; bu kısa zaman diliminde fiyatların 
+normal dağılımının çok ötesinde.
+3. Hamlelerin yüksek bir yüzdesi doğrudur.
+Bu tür davranışlara baktığımızda, bunun birçok stratejiye yol açabileceğini görüyoruz ancak bir strateji öne çıkıyor (ve bu 
+profesyonel yatırımcılar tarafından da doğrulandı).Strateji, önümüzdeki ay paraya dönüşen uzun vadeli opsiyonlar 
+satın almaktır.
+Neden ön ay parada uzun vadeli çağrılar? Çünkü hisse senedinin kendisine en yakın hareket edeceklerdir. 
+Ve bir opsiyon hisse senedine ne kadar yakın hareket ederse, hareket doğru olduğunda yüzde bazında 
+kazanç o kadar büyük olacaktır.
+İşte kurallar.
+1. Bir sinyal tetiklenir.
+2. Ön ay parada çağrı satın alın. Normalde 500 hisse senedi satın alacaksanız, 5 
+çağrı satın alın (her 100 hisse bir çağrıya eşit olmalıdır).
+3. Hisse senedinde çıkış sinyali tetiklendiğinde opsiyonlardan çıkın.
+Daha da ileri gidelim:
+1. Burada paraya çevrilmiş olmak tam olarak ne anlama geliyor?
+26 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+Bu durumda şu şekilde tanımlanır:para cinsinden bir ila iki vuruş fiyatı Eğer hisse senedi 48'de ise 40 veya 45 çağrı opsiyonunu satın 
+alın.
+2. Ön ay ne anlama geliyor?
+Tutma süresi çok kısa olduğundan, aylık vadesi en yakın olan opsiyonları alıp satmak istersiniz. 
+En yakın ay, ön ayın opsiyon vadesi dolma tarihinden 7 işlem günü veya daha az uzaklıktaysa 
+(yani, önceki veya daha yakın ikinci Perşembe), alım satım yapmak için sonraki ayı kullanın.
+3. Pozisyonumun süresi dolarsa ve hisse senedine ait sinyal hala geçerliyse ne olur?
+Bu durumda, bir sonraki aya geçin. Hisse senedi sinyallerini alıp satıyorsunuz, bu yüzden bu sinyale maruz 
+kalmak istiyorsunuz.
+4. Likidite ve spreadler ne durumda?
+Burada biraz takdir yetkisi var. Opsiyonlarda likidite tam olarak ne anlama geliyor konusunda kesin ve katı bir 
+kural yok. Örneğin, hisse senedinizin likiditesini, blue chip hisse senedine kıyasla son derece likit olan SPY ile 
+karşılaştırın. Her ikisi de likit olarak kabul edilebilir, ancak blue chip opsiyonu SPY'dan daha az likit olacaktır.
+Opsiyonlarda aktif hacim olduğunu varsayarak spreadlere bakın. Opsiyon 3,00 alış - 3,30 teklif arasında işlem 
+görüyorsa spread %10'dur. Gerçekten %10'luk bir spread'i aşabilir misiniz? Muhtemel değil. Şimdi bunu 3,25 
+alış - 3,30 teklif arasında işlem gören bir opsiyonla karşılaştırın. Bu çok daha kabul edilebilir ve işlem görebilir.
+5. Hisse senedi yerine çağrı opsiyonu satın almanın avantajları nelerdir?
+Spread ve likiditenin mevcut olduğunu varsayarsak, avantajlar büyüktür:
+1. Yatırılan sermayenin daha yüksek potansiyel yatırım getirisi.
+2. Daha az para bağlanması.
+3. Daha az risk puanı. Bu, bir hisse senedi 50'de sinyal verirse 50 puana kadar kaybedebileceği 
+anlamına gelir. Opsiyonlar yalnızca ödediğiniz prim kadar kaybedebilir. Yani, 45 çağrı satın 
+aldıysanız, risk yalnızca primdir.
+4. Daha fazla esneklik var. Örneğin, hisse senedinin 50'de bir satın alma sinyali tetiklediğini ve 45 
+çağrı için 5,50 ödediğinizi varsayalım. Hisse senedi hemen yükselirse (diyelim ki 56'ya); burada 
+seçenekleriniz var. Çıkabilir veya en çok getiriyi elde eden 50 çağrıya geçebilirsiniz.
+27 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+Paranızı çekip, fiyatların artmaya devam edeceğine inanıyorsanız bunu neredeyse serbest bir 
+ticarete dönüştürebilirsiniz.
+Bunun gibi sayısız örnek var ve bu tür strateji fırsatlarını çoğu opsiyon kitabında bulabilirsiniz. 
+Ancak sadece çağrıları satın almaktan başka egzotik veya farklı bir şeyle işlem yapmak, bu 
+soruyu yönelttiğimiz birçok profesyonelin tavsiyesine aykırıdır.
+Sonuç olarak, opsiyonlar yatırımcılara hisse senedini doğrudan satın almak için iyi bir alternatif 
+sunar. Stratejilerimiz için yapılandırılmış metodoloji şudur: ön ay, parada, eşdeğer boyutta (100 
+hisse başına 1 opsiyon) ve sinyal çıktığında çıkış.
+Yukarıdaki opsiyon stratejisi, birçok uzmanın görüşüne göre, bu sinyallerden gelen geçmiş 
+veriler baz alındığında en iyi ve en etkili stratejidir.
+28 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+Bölüm 7
+Ek Düşünceler
+29 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+1. Bu Rehberde gördüğünüz gibi, Bollinger Bantları® ve özellikle Bollinger Bantları®'nın %b 
+bileşeni, bunları sistematik bir şekilde uyguladığınızda büyük niceliksel kenarlara sahip 
+olmuştur.
+2. Bollinger Bands®'ı bu şekilde kullanmanın bir kesinliği var. Bu kesinliği kendi avantajınıza 
+kullanın.
+3. Kullanmanız için kelimenin tam anlamıyla yüzlerce potansiyel varyasyon vardır. %b seviyesinin 
+derinliğinden, o seviyenin altındaki gün sayısına, limitin boyutuna ve uygulanabilecek çıkış türüne 
+kadar. Tüm kapsama bakın ve ardından işlem tarzınıza en uygun varyasyonu veya varyasyonları 
+belirleyin.
+4. Peki ya duraklar (ve bu sorunun cevabını tüm Strateji Rehberlerimizde bulabilirsiniz)?
+Duraklamalar üzerine araştırmalarımızı kitabımız da dahil olmak üzere diğer yayınlarda yayınladıkİşe Yarayan 
+Kısa Vadeli Yatırım Stratejileri.
+Bulduğumuz şey, durdurmaların performansı azaltma eğiliminde olduğu ve birçok durumda kenarları tamamen 
+ortadan kaldırdığıdır. Evet, bir hisse senedi aşağı ve aşağı hareket etmeye devam ettiğinde ve bir durdurma sizi 
+kurtardığında iyi hissettirir. Öte yandan, birçok kısa vadeli işlem stratejisi üzerinde yirmi yıla kadar süren test 
+sonuçlarıyla desteklenen araştırma, durdurmaların sık sık vurulduğunu ve çok, çok fazla kayıp biriktirdiğini 
+göstermektedir. Çok az işlem stratejisi bu toplam kayıpların üstesinden gelebilir.
+Birçok yatırımcı için stoplar olmazsa olmazdır. Psikolojik olarak, özellikle zor yatırımlar olmak üzere, yatırım 
+yapmalarına olanak tanır. Bunları kullanıp kullanmamak kişisel bir tercihtir. Ancak genel olarak, bu stratejide ve 
+diğer birçok kısa vadeli stratejide gördüğünüz avantajlar, bunlara stoplar uygulandığında daha düşüktür. Tekrar 
+ediyorum, bu yalnızca sizin kendiniz için yapabileceğiniz kişisel bir tercihtir. Her iki tarafta da başarılı yatırımcılar 
+tanıyoruz.
+5. Testte kayma ve komisyon kullanılmadı. Bunları işlemlerinize dahil edin (girişler limit fiyatlarda 
+olduğundan kayma sorun değildir) ve mümkün olan en düşük maliyetlerle işlem yaptığınızdan emin 
+olun. Çoğu firma artık yatırımcıların hisse başına 1 sentin altında işlem yapmasına izin veriyor, bu 
+nedenle işinizi araştırın, özellikle de aktif bir yatırımcıysanız. Çevrimiçi aracılık firmaları işinizi istiyor.
+6. Burada Bollinger Bands® Stratejisi ile gördüğünüz gibi, hisse senetlerinde büyük kenarlar vardır 
+ve bunlar satılır ve daha sonra gün içinde daha fazla satılır. Bu işlemlere genellikle korku ve belirsizlik 
+eşlik eder ve büyük kenarlar bu noktada ortaya çıkar. Bu işlemleri arayın çünkü gördüğünüz gibi, 
+bunlar uzun yıllardır kazançlıdır.
+Connors Research Trading Strategy Series'e eklenen bu yazıyı beğendiğinizi umuyoruz. Bu strateji hakkında 
+herhangi bir sorunuz varsa lütfen bize e-posta göndermekten çekinmeyin.bilgi@connorsresearch.com
+30 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+Ek
+RSI, Tarihsel Volatilite ve 
+ADX Hesaplamaları
+31 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+2 Dönemli RSI
+2 günlük RSI, yalnızca son iki günlük fiyat hareketini okuyacak şekilde ayarlandığında Göreceli Güç Endeksi'ne 
+atıfta bulunur.
+Göreceli Güç Endeksi (RSI), 1970'lerde J. Welles Wilder tarafından geliştirilen popüler bir 
+momentum osilatörüdür. RSI, bir piyasanın son kazançlarının büyüklüğünü, bir piyasanın son 
+kayıplarının büyüklüğüyle karşılaştırır.
+Basit bir formül bu fiyat hareketini 1 ile 100 arasında bir sayıya hesaplar. RSI'ları 1'e yakın olan 
+piyasalar aşırı satım olarak kabul edilir. RSI'ları 100'e yakın olan piyasalar aşırı alım olarak kabul edilir.
+RSI = (100 – (100/(1+RS)))
+RS = x günlük yukarı kapanışların ortalaması / x günlük aşağı kapanışların ortalaması
+RSI genellikle 14 periyot için ayarlanır. Ancak, kısa vadeli ETF ticareti için daha kısa bir zaman periyodunun çok 
+daha etkili olduğunu bulduk. “2 günlük RSI”, “RSI(4)” bölümüne bakın.
+RSI'ın iyi bir örneğini ve açıklamasını bu bağlantıda bulabilirsiniz: http://stockcharts.com/
+school/doku.php?id=chart_school:technical_indicators:relative_strengt h_index_rsi
+32 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+Tarihsel Volatilite
+Tarihsel oynaklık, düzenli zaman aralıklarında ölçülen logaritmik fiyat değişikliklerinin standart sapması 
+olarak tanımlanır. Uzlaşma fiyatları genellikle en güvenilir olarak kabul edildiğinden, oynaklığı 
+hesaplamanın en yaygın yöntemi uzlaşmadan uzlaşmaya fiyat değişikliklerini kullanmayı içerir. Her 
+fiyat değişikliğini, x olarak tanımladıkBen, gibi:
+XBen=(P'de)Ben/Pben – 1)
+P neredeBeni sonunda temel sözleşmenin fiyatıdırincizaman aralığı.
+PBen/Pben – 1bazen fiyat göreceli olarak adlandırılır.
+Öncelikle logaritmik fiyat değişimlerinin standart sapmasını hesaplayalım:
+Daha sonra, standart sapmayı fiyat değişimleri arasındaki zaman aralığının kareköküyle 
+çarparak yıllık oynaklığı hesaplıyoruz.
+33 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+Her hafta fiyat değişimlerine baktığımız için zaman aralığı 365/7'dir:
+Yeniden basım: Nathanberg, Sheldon. Opsiyon Volatilitesi ve Fiyatlandırma, Gelişmiş Ticaret Stratejileri ve Teknikleri, 2. baskı, (Chicago: Probus 
+Publishing, 1994), Ek B.
+34 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+Ortalama Yön Endeksi ‐ ADX
+ADX, trendin gücü için bir değer olarak kullanılan bir göstergedir. ADX yönsel değildir, bu nedenle trendin 
+gücünü yukarı veya aşağı olmasına bakılmaksızın nicelleştirir. ADX hakkında daha fazla bilgiyi şu adreste 
+bulabilirsiniz:http://trd.mk/1C Ayrıca, ADX'in nasıl hesaplanacağını görmek için buraya tıklayabilirsiniz
+http://trd.mk/1D veya buradahttp://trd.mk/1E .
+35 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+Connors Research Ticaret Stratejisi Serisinden daha fazlası
+Çalışan ETF Gap Ticaret Stratejileri
+ETF Ticaretine Yönelik Bu Profesyonel Yaklaşım Size Hızlı Sonuçlar Getirir
+Nicel Araştırma, Etkileyici Kazançlar için Kısa Vadeli İşlemlerle Boşluk Stratejilerini Belirler
+Çalışan ETF Gap Ticaret Stratejileri
+Gap Trading, profesyonel yatırımcılar için en uzun süredir devam eden, en başarılı ticaret 
+stratejilerinden biri olduğunu kanıtladı. Son yirmi yılda büyük fonlardaki birçok profesyonel Para 
+Yöneticisi, başarılı Emtia Danışmanları ve profesyonel Hisse Senedi Yatırımcıları, başarılarının 
+nedenlerinden biri olarak boşluklara güvendiklerini belirttiler.
+Doğru şekilde işlem yapıldığında, ETF Gap Trading, işlemleriniz için kullanabileceğiniz en tutarlı stratejilerden 
+biri olabilir.
+Şimdi ilk kez ETF Gap Trading: Kesin Bir Kılavuz'u kamuoyuyla paylaşıyoruz.
+Tutarlı Ticaret Sonuçları
+Bu stratejiyle 2006'dan 2011'e kadar %72,4'ten %78'in üzerine kadar doğru olan 
+düzinelerce boşluk varyasyonunu öğreneceksiniz.
+Eğer daha fazla bilgi edinmek istersenizÇalışan ETF Gap Ticaret Stratejileriburaya 
+tıklayın. Hemen sipariş etmek ve indirmek istiyorsanız lütfen buraya tıklayın veya 
+ücretsiz 888‐484‐8220 dahili 1'i arayın (ABD dışından lütfen 973‐494‐7311'i arayın).
+36 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+Connors Research Ticaret Stratejisi Serisinden daha fazlası
+İşe Yarayan Hisse Senedi Açığı Ticaret Stratejileri
+Gap Ticareti, En Başarılı Tüccarlar İçin Bir "Temel Stratejidir"
+Hisse Senedi Boşluklarında İşlem Yapıyor Musunuz?
+Otuz yıldır, gap ticareti, hisse senedi gap'lerini ne zaman ve nasıl işlem göreceğini belirleyen tüccarlar 
+için en popüler ve başarılı stratejilerden biri olmuştur. Sorun şu ki, her yıl kelimenin tam anlamıyla 
+binlerce gap oluyor. Peki ortalama bir tüccar hangileriyle işlem yapacağını, bunlara nereden gireceğini 
+ve pozisyonlardan doğru şekilde nereden çıkacağını nasıl biliyor?
+Şimdi ilk kez, birçok profesyonelin gap trading hakkında zaten bildiği şeyi öğrenme 
+fırsatına sahipsiniz: Doğru şekilde yapıldığında, son derece kazançlı olabilir.
+"Eğer sadece bir stratejiyle işlem yapabilseydim, bu sabahın erken saatlerindeki boşluklar olurdu."‐‐Kevin Haggerty, 
+Fidelity Capital Markets'ın Eski Ticaret Başkanı
+Yüksek Olasılıklı Hisse Senedi Boşluklarında Nasıl İşlem Yapılır - 2. Baskı'dan Güçlü Sonuçlar
+Bu stratejiyle öğreneceğiniz şey, %68'den fazla zamanın doğru olduğu düzinelerce kısa vadeli 
+kurulumdur (çok yüksek bir kazanma yüzdesi). Ve işlem başına ortalama kazanç (bu, tüm kazanan ve 
+kaybeden işlemleri içerir) 2001'den beri işlem başına ortalama %6,16'ya kadar çıkmıştır!
+Eğer yatırım kararlarınızı verirken görüşlere değil, verilere dayanıyorsanız ve stratejilerinizde en iyi 
+varyasyonları seçebilme olanağına sahip olmak istiyorsanız, o zaman bu rehber tam size göre.
+Eğer daha fazla bilgi edinmek istersenizİşe Yarayan Hisse Senedi Açığı Ticaret Stratejileri
+buraya tıklayın. Hemen sipariş etmek ve indirmek istiyorsanız lütfen buraya tıklayın veya 
+ücretsiz 888‐484‐8220 dahili 1'i arayın (ABD dışından lütfen 973‐494‐7311'i arayın).
+37 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+Yüksek Olasılıklı Ticaret Sistemlerinde Nasıl Başarılı Olacağınızı Öğrenin...
+TradingMarkets Swing Ticaret Koleji
+Swing Trade yapıyor musunuz?
+Kelimenin tam anlamıyla swing ticareti hakkında yüzlerce kitap var. "Geri çekilme satın al 
+ve yükseldiğinde sat" diyen kitaplara ve kurslara bakmaktan bıktınız mı?
+Swing trading'inizde başarılı olmak istiyorsanız daha iyi, daha kesin bilgilere 
+ihtiyacınız olacak.
+Artık sorularınıza kesin yanıtlar alabilirsiniz. Size yüksek bir başarı olasılığı veren yanıtlar ‐‐ hepsi niceliksel 
+olarak belirlenmiş ve yıllarca geriye dönük test edilmiş, simüle edilmiş tarihsel sonuçların analiziyle 
+desteklenmiştir.
+Bu cevapları ve ihtiyacınız olan eğitimi Swing Trading College'da alacaksınız - 
+TradingMarkets tarafından 9 yıldır sunulan en popüler eğitim programı. Swing Trading 
+College, bireysel yatırımcılara sunulan kapsamlı bir yatırım eğitim programıdır: 
+Öğrencilerimizin derslere iki ve hatta üç kez geri döndüğünü gördük - o kadar iyi..
+TradingMarkets Swing Ticaret Koleji
+TradingMarkets Swing Trading College, size niceliksel olarak swing ticareti yapmak için gerekli olan 
+belirli araştırmaları, stratejileri, teknikleri ve araçları öğretecek eksiksiz bir eğitim programıdır. Kurs 
+programı şunları içerir:
+1. Geri çekilmeleri satın almak için tarihsel, model odaklı sonuçların nasıl kullanılacağı
+2. Swing Trading ETF'leri ve Kaldıraçlı ETF'ler
+3. Kısa Satış teknikleri nasıl ve ne zaman kullanılır?
+4. Volatilite Ticareti
+5. Niceliksel Opsiyon Gelir Programları
+6. "Kişisel Ticaret İşletmenizi" Kurmak O
+O
+O
+O
+Hedef Belirleme
+Bir İş Planı Geliştirmek 
+Ticaret Psikolojisi
+Yüksek Olasılıklı Swing Ticaret Portföyleri Oluşturma
+Ayrıca, aşağıdakiler de dahil olmak üzere birden fazla niceliksel işlem stratejisi hakkında eğitim alacaksınız:
+S&P Seçici Stratejisi
+38 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+-
+-
+-
+-
+-
+ETF Derin Geri Çekilme Stratejisi 
+Kısa Satış Portföy Stratejisi 
+Günlük VXX Stratejisi
+VXX Trend Takip Stratejisi ve 
+daha fazlası.
+Eğer daha fazla bilgi edinmek istersenizTradingMarkets Swing Ticaret Kolejiburaya 
+tıklayın. Hemen sipariş etmek ve indirmek istiyorsanız lütfen buraya tıklayın veya ücretsiz 
+888‐484‐8220 dahili 1'i arayın (ABD dışından lütfen 973‐494‐7311'i arayın).
+39 |Sayfa
+www.forexgercekleri.xyz - [Twitter: @eseckal]

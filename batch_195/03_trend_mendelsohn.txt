@@ -1,0 +1,4060 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 10\Baskı 10\Teknik Analiz ile Trendi Tahmin Etmek - Louis B. Mendelsohn (104 sayfa) - @eseckal.pdf
+PAGES: 104
+
+
+=== PDF PAGE 1 ===
+Trend Forecasting
+WithTechnicalAnalysis
+Trend Forecasting
+WithTechnicalAnalysis
+UNLEASHING THE HIDDEN POWER OF INTERMARKET
+ANALYSIS TO BEAT THE MARKET
+LOUIS B. MENDELSOHN
+FORWORD BY JOHN J. MURPHY
+TRADE SECRETS
+
+
+=== PDF PAGE 2 ===
+İçindekiler
+Önsöz . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Önsöz . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Giriş . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Bölüm 1
+KÜRESEL EKONOMİDE TİCARET -
+Ticaret Stratejileri ve Karlar Hızla Arttı mı? . . . . . . . . . . . . . . . . . . 25
+Piyasalar Sürekli Gelişiyor . . . . . . . . . . . . . . . . . . . 26 Dünyanın Vadeli 
+İşlem ve Hisse Senedi Piyasaları Bağlantılıdır . . . . . . . . . 27 Ortaya 
+Çıkan Güçler Yeni Küresel Ekonomiyi Başlatıyor . . . . . . . . 29 Piyasa 
+Dalgalanmaları ve Finansal Krizler Burada Kalacak . . . . . . . 31
+Bölüm 2
+TEK PİYASA ANALİZİ— Tünel Vizyonuyla Ticaret
+Bir İşlemin Kaybeden Tarafına Geçmenize Neden Olabilir . . . . . . . . . . . . . . . . 35
+Rakamlar Yalan Söylemez, Ancak Aldatıcı Olabilir. . . . . . . . . . 36 Amaç, 
+Piyasa Trend Yönünü Tahmin Etmektir. . . . . . . . . . . . 36 Şunları 
+Yapabilirsiniz:OynamakPiyasalar veya SizZamanPiyasalar . . . . . 37 
+Teknik Analiz Piyasalarla Aynı Hızda İlerleyemedi . . . . . . 38 Tüccarların 
+At Gözlerini Çıkarmaları Gerekiyor . . . . . . . . . . . . . . . . 41
+Bölüm 3
+PİYASALARARASI ANALİZ— Küçülen Bir Dünyada Ticaret Fırsatlarını 
+Yakalamak . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+Hisse Senedi ve Emtia Piyasalarında Piyasalar Arası Analiz . . . 46 
+Hiçbir Piyasa Küreselleşmeden Muaf Değildir . . . . . . . . . . . . . . . 49
+7
+
+
+=== PDF PAGE 3 ===
+Piyasalar Neden Birleşir veya Uzaklaşır . ... 56 Kesin Olan Tek 
+Şey Belirsizliğin Kendisidir . . . . . . . . . . . . 57
+Bölüm 4
+BUGÜNKÜ PİYASALAR DEĞİŞTİ - Trend Tahmini Neden Trend Takibinden 
+Daha Önemli ve Yatırımcılar Nasıl Kar Elde Edebilir. . . . . . . . . . 59
+Hareketli Ortalamalar Geride Kalan 
+Göstergelerdir . . . . . . . . . . . . . . . . . . . . . . . . . 60 Hareketli 
+Ortalamalar Popülerdir— Ancak Bir Şey Eksiktir . . . . . . 62 
+Hareketli Ortalama Kesişmeleri Kırbaç Darbelerine Yol 
+Açar . ... . . . . . . . . 69
+Bölüm 5
+VANTAGEPOINT, PİYASA YÖNÜNÜ TAHMİN EDİYOR— Piyasaların 
+Nerede Olduğuna Dair Gizli Bir Önizleme Nasıl Elde Edilir
+Gidip Bu Bilgileri Kendi Avantajınıza Kullanın . . . . . . . . . 71
+VantagePoint Önemli Finans Piyasalarını İzliyor . . . . . . . . . . . . 
+71 Beş Yapay Sinir Ağı Bağımsız Tahminler Yapıyor . . . . . . . . . . . 
+73 VantagePoint'in Günlük Raporunun Size 
+Söyledikleri . . . . . . . . . . . . . . . . 76 Piyasalar Arası Grafikler 
+Önünüzde Ne Olduğunu Gösteriyor . . . . . . . . . . . . . . . . 80 
+VantagePoint Hızlı ve Kolaydır . . . . . . . . . . . . . . . . . . . . . . . . . . 82 
+İyi Bir İşlem Nasıl Bulunur . . . . . . . . . . . . . . . . . . . . . . . . . . . 83 Ek 
+Onay Nasıl Alınır . ...
+8
+
+
+=== PDF PAGE 4 ===
+Bölüm 6
+NÖRAL AĞLAR— Finansal IQ'nuzu Nasıl Arttırırsınız?
+Rekabette Önde Kalmak İçin . . . . . . . . . . . . . . . . . . . . . . 93
+Yapay Sinir Ağları Teknik ve Piyasalar Arası Verileri Birleştirir . . . 94 
+Yapay Sinir Ağları Desenleri Öğrenir ve Tahminler Yapar . . . . . . . 95
+Bölüm 7
+SONRAKİ UFUK— Buradan Nereye Gidiyoruz
+ve Bu Tüccarlar İçin Ne Anlama Geliyor? . . . . . . . . . . . . . . . . . 99
+Hiçbir Zaman Finansal Bir Kristal Küre Olmayacak . . . . . . . . . . . . . 101
+Ticaret Kaynak Rehberi. . . . . . . . . . . . . . . . . . . . . . . . . . . . .103
+Yazar ve Market Technologies Corporation Hakkında. . . . . . . .115
+9
+
+
+=== PDF PAGE 5 ===
+Önsöz
+T
+hey, zamanlamanın her şey olduğunu söylerler. Bu hiçbir 
+yerde finans piyasalarından daha doğru değildir. Lou 
+Mendelsohn'un piyasalar arası analiz hakkındaki kitabının 
+yeni milenyumun başında çıkması özellikle zamanında. Geçtiğimiz 
+on yılın başında, aynı konu hakkında bir kitap yayınladım— Piyasalar 
+Arası Teknik Analiz: Küresel Hisse Senedi, Tahvil, Emtia ve Döviz 
+Piyasaları için Ticaret Stratejileri(John Wiley & Sons, 1991). O 
+zamanlar, piyasalar arası analiz ilkeleri, tek piyasa analizinin (piyasa 
+teknisyenleri tarafından son yüzyılda kullanılan) artık yeterli 
+olmadığını öne sürerek sapkın görünüyordu. On yılın sonunda, bu 
+görünüşte radikal fikirler o kadar kabul görmüştü ki, Piyasa 
+Teknisyenleri Derneği, piyasalar arası analizi teknik analizin bir dalı 
+olarak listeledi.
+Örneğin, 1997 Asya krizini yaşamış herhangi bir piyasa analistinin 
+küresel bağlantıların varlığını ve tüm finans piyasalarının birbirine 
+bağımlılığını tartışması zordur. O yılın yazında bir Asya para 
+biriminin çöküşü tüm Asya'da domino etkisi yarattı. Çok geçmeden, 
+Asyalı bankacılar yayılan para birimi çöküşünü durdurmak için faiz 
+oranlarını artırmaya başladılar. Bunun Asya borsa piyasaları 
+üzerinde yıkıcı bir etkisi oldu. Bu deflasyonist tehdit küresel emtiaları 
+serbest düşüşe itti ve küresel hisse senetlerinden ABD Hazine 
+tahvillerine doğru büyük bir rotasyona neden oldu.
+1999'da petrol fiyatlarının üç katına çıkmasının küresel faiz oranlarını nasıl 
+yukarı ittiği ve tahvillerde ayı piyasasına neden olduğu konusunda tartışmak 
+da aynı derecede zordur. Bu, Federal Rezerv Kurulu'nu o yılın ortasında faiz 
+oranlarını artırmaya yöneltti. Sonraki on iki ay boyunca Fed'in bir dizi 
+sıkılaştırması, hisse senetlerindeki boğa piyasası üzerinde tahmin edilebilir 
+şekilde kısıtlayıcı bir etkiye sahipti. Yükselen petrol fiyatlarının (ve yükselen 
+faiz oranlarının) etkisi, hisse senedi piyasasındaki sektör rotasyonlarında da 
+görülebilirdi. Yükselen petrol fiyatları, enerji sektörü için boğa piyasasıydı
+Teknik Analizle Trend Tahmini 11
+
+
+=== PDF PAGE 6 ===
+1999'da, hisse senedi piyasasının faiz oranı sektörleri (finansal hisse senetleri ve 
+kamu hizmetleri gibi) ve havayolları gibi petrole duyarlı gruplar üzerinde tahmin 
+edilebilir bir düşüş etkisi yarattılar. 2000 yılının ortalarına gelindiğinde, 1999'da 
+yükselen petrol piyasasını görmezden gelen ekonomistler, bu yükselişin ABD 
+ekonomisini yavaşlattığını düşünüyorlardı.
+Eğer birileri on yıl önce ikna olmamışsa, o zamandan beri yaşanan 
+piyasa olayları tüm piyasaların birbirine bağlı olduğunu ve kapsamlı 
+bir piyasa analizinin bu piyasalar arası ilişkileri hesaba katması 
+gerektiğini yeterince göstermiştir. Lou Mendelsohn'un kitabı bu 
+piyasalar arası fikirleri daha da pratik bir düzeye taşıyor. Doğru bir 
+şekilde belirttiği gibi, piyasalar arası ilişkilerdeki sorun çok fazla 
+sayıda olmalarıdır. Piyasalar arası ticaret modellerinden biri dokuza 
+kadar ilişkili piyasayı içerir. Aynı anda bu kadar çok piyasa 
+etkileşimde olduğundan, insan zihninin tüm bunlara anlam vermesi 
+giderek zorlaşmıştır. Sinir ağlarına girin.
+Mendelsohn'un piyasalar arası analize yaptığı en büyük 
+katkılardan biri, sürece sinir ağlarını uygulamasıdır. Bir sinir ağının 
+herhangi bir sayıda ilgili faktörü nasıl dikkate alabileceğini, bunları 
+nasıl analiz edebileceğini ve bazı pratik sonuçlar çıkarabileceğini 
+gösterir. Ve bu sonuçlar gerçek faydaya yol açar: Kazanan piyasa 
+işlemleri. Yirmi yıllık öncü çalışmanın sonuçları, oldukça başarılı 
+piyasalar arası işlem programları üretti. On yıl önce bu piyasalar 
+arası prensipleri ilk tanımlayan kişi ben olduğum için, bu fikirlerin 
+gerçekten işe yaradığını ve finansal piyasalara karlı bir şekilde 
+uygulanabileceğini kanıtladığı için Mendelsohn'a minnettarım.
+Sinir ağları, teknik ve piyasalar arası çalışmalara temel faktörleri 
+bile dahil eder. Enflasyon ve faiz oranları gibi şeylerden 
+bahsederken, teknik analist bir grafikçiden çok bir ekonomiste 
+benziyor. Mendelsohn, piyasalar arası, temel ve teknik 
+değerlendirmeleri "sinerjik piyasa analizi" adını verdiği bir yaklaşıma 
+dahil ediyor. Bu terimi ilk kez CNBC'de kendisiyle röportaj 
+yaptığımda duydum.™. Bazı puristler için bu bir sorun olabilir. Geri 
+kalanımız içinse bu, teknik analizin evriminde sadece bir adımdır. 
+Piyasalar arası çalışma, temel ve teknik olanı harmanlama 
+eğilimindedir; bu eğilimin yeni milenyumda hızlanmasını 
+bekliyorum. Ve Mendelsohn'un bu öncü çalışmada tanımladığı 
+tekniklerin çoğunun bu değişiklikleri gerçekleştirmede önemli bir rol 
+oynayacağından şüpheleniyorum.
+12 Ticari Sırlar
+
+
+=== PDF PAGE 7 ===
+Mendelsohn, eski yüzyılda teknik analistler için işe yarayan 
+şeylerin yeni yüzyılda işe yaramayacağı konusunda uyarıyor. 
+Çoğumuz kalem ve cetvel kullanarak başladık. Bilgisayarlara 
+geçmeden önce elde taşınan hesap makinelerine geçtik. Şimdi sinir 
+ağları geliyor. Farklı zamanlar farklı araçlar gerektirir. Giderek 
+birbirine bağımlı hale gelen finansal pazar yeri daha da iyi bir araç 
+seti talep edecektir. Ayrıca tüm coğrafi bölgeleri ve tüm pazarları 
+kapsayan daha kapsamlı bir pazar analizi yaklaşımı, başka bir 
+deyişle, pazarlar arası bir yaklaşım talep edecektir.
+— John Murphy
+- - - - - -
+Bay Murphy aynı zamanda şu kitabın yazarıdır:Finansal 
+Piyasaların Teknik AnaliziVeGörsel Yatırımcıve 
+MurphyMorris.com'un başkanıdır.
+Teknik Analizle Trend Tahmini 13
+
+
+=== PDF PAGE 8 ===
+Önsöz
+T
+Bu kitap, finansal piyasalar arasındaki ilişkileri ve birbirleri üzerindeki 
+etkilerini analiz eden piyasalar arası analizin uygulamasını araştırıyor. 
+Günümüzün küresel olarak birbirine bağlı finansal piyasalarında 
+yatırımcıların piyasa yönündeki değişiklikleri belirlemelerine ve tahmin 
+etmelerine yardımcı olmakta piyasalar arası analizin oynadığı kritik rolü 
+inceliyor.
+Bu piyasalar Dow Jones Endüstri Ortalaması gibi hisse senedi 
+endekslerini içerirS.M.Londra'nın FTSE'si™100 Endeksi, Nasdaq Bileşik 
+Endeksi, Nasdaq-100 Endeksi®, Nikkei Hisse Senedi Ortalaması®
+(Japonya) ve Standard & Poor's 500™Hisse senedi endeksi; İngiliz 
+sterlini, Japon yeni, İsviçre frangı ve ABD doları endeksi gibi para 
+birimleri; ham petrol, benzin ve ısıtma yağı gibi enerji piyasaları; 
+eurodolar, hazine tahvilleri ve hazine bonoları gibi faiz oranı 
+piyasaları; ayrıca bireysel hisse senetleri.
+®
+21. yüzyılın gelişen küresel ekonomisi, bilgi teknolojilerindeki 
+gelişmelerle desteklenerek finansal piyasaların daha fazla 
+bütünleşmesine katkıda bulunurken, piyasalar arası analiz, 
+teknik analizin genel alanının ayrılmaz bir parçası haline 
+gelecektir. Piyasalar arası analiz, yatırımcıların ilgili finansal 
+piyasalar arasındaki bağlantılara dayanarak daha etkili işlem 
+kararları almasını sağlar. Analiz kapsamınızı her bir piyasayla 
+sınırlamak yerine, piyasalar arası analizi işlem stratejilerinize 
+dahil ederek, piyasalar arasındaki bu ilişkiler ve bağlantılar size 
+karşı değil, sizin lehinize çalışacaktır.
+Daha kapsamlı bir analiz çerçevesi ve genişletilmiş bir ticaret 
+perspektifi sağlamak için geleneksel tek piyasa teknik göstergeleriyle 
+birlikte piyasalar arası analizin nasıl kullanılabileceğine dair önerilerde 
+bulunulmaktadır. Bu kitap ayrıca, piyasa yönünü tahmin etmede 
+neredeyse %80'lik şaşırtıcı bir doğruluk oranına ulaşan VantagePoint 
+Piyasalar Arası Analiz Yazılımını tanıtmakta ve içgörüler sunmaktadır
+Teknik Analizle Trend Tahmini 15
+
+
+=== PDF PAGE 9 ===
+Vadeli işlem ve hisse senedi piyasalarındaki günlük ve pozisyon yatırımcılarının, bu 
+güçlü analiz aracını kullanarak işlem performanslarını nasıl iyileştirebileceklerini 
+ve diğer yatırımcılara karşı rekabet avantajı elde edebileceklerini gösteriyoruz.
+Bu kitap, hem deneyimli bireysel ve profesyonel yatırımcıların hem de 
+günümüzün küresel piyasalarında servet yaratmak isteyen ve finans 
+piyasalarına yeni girenlerin ilgisini çekecektir.
+16 Ticari Sırlar
+
+
+=== PDF PAGE 10 ===
+giriiş
+A
+Yaklaşık on yıl boyunca çeşitli teknik analiz yöntemlerini kullanarak hisse 
+senetleri ve opsiyon ticareti yaptıktan sonra, 1970'lerin sonlarında altın 
+vadeli işlemleri ticareti yapan bir doktor arkadaşımın teşvikiyle,
+Hastane yöneticisi olarak profesyonel olarak çalışırken hem günlük alım 
+satım hem de pozisyon alım satımı yapmaya başladım.
+İlk başta, hafta boyunca elle güncellenmesi gereken grafik 
+hizmetlerine abone oldum. Eşimle sık sık, ucu köreldiği için destek ve 
+direnç çizgilerimin nasıl çizildiğini etkilediğinden, #2 numaralı kurşun 
+kalemimi çok sık yontmak zorunda kalmamla ilgili şakalaşırdım; bu da 
+stoplarımı nereye yerleştireceğimi belirlerdi. Piyasa yönünü doğru bir 
+şekilde tahmin ettiğimde, kötü yerleştirilmiş bir stop nedeniyle erken bir 
+kayıpla durdurulduktan sonra büyük bir hareketi kaçırdığımda bu durum 
+benim için çok can sıkıcıydı.
+Mikrobilgisayarların olmadığı dönemlerde, teknik göstergeleri hesaplamak için 
+elde taşınan bir hesap makinesi kullanıyordum; hareketli ortalamalar gibi çeşitli 
+göstergelerin altında yatan teorileri ve matematiksel denklemleri öğreniyordum 
+ve günlük hesaplamalarımı hızlandıracak matematiksel kısayollar tasarlıyordum.
+1970'lerin sonlarında ilk mikrobilgisayarımı satın aldığımda oldukça 
+heyecanlanmıştım. Çok geçmeden kendi kendime programlamayı ve bu 
+hesaplamaların çoğunu otomatikleştirmek için basit yazılım programları yazmayı 
+öğreniyordum.
+Mikrobilgisayarların teknik analizle birleşmesinin finansal 
+piyasa analizinde devrim yaratacağını hemen fark ettim. 
+1970'lerin başından beri ticaret ve teknik analize tutkun olsam da 
+hayatımı değiştiren şey teknik analize bilgisayarları uygulama 
+kararıydı.
+1979'da, otuz bir yaşındayken, bu hedefi takip etme niyetiyle 
+Market Technologies Corporation'ı kurdum. Bir yıl sonra, eşim 
+Illyce'in desteğiyle, sağlık sektöründen ayrılıp tüm dikkatimi
+Teknik Analizle Trend Tahmini 17
+
+
+=== PDF PAGE 11 ===
+Emtia ticareti, teknik analiz ve ticaret yazılımı geliştirme konularında 
+uzmanlaşmıştır.
+Amacım, her akşam hesap makinesiyle elle yaptığım hesaplamaları 
+otomatikleştirmek ve hızlandırmaktan daha fazlasını yapacak bir teknik 
+analiz yazılımı tasarlamaktı. İşlem yaptığım emtia piyasalarının piyasa 
+yönünü belirlemek ve tahmin etmek için çeşitli işlem stratejileri 
+oluşturup bunları geriye dönük test edebilmek istiyordum.
+1983'te, strateji geri testi ve optimizasyonu gerçekleştiren ilk ticari 
+olarak mevcut mikrobilgisayar ticaret yazılımı olan ProfitTaker'ı 
+yayınladım. Otomatik geri test yetenekleriyle ProfitTaker, bilgisayarlı 
+teknik analizin evriminde bir dönüm noktasını temsil ediyordu.
+Aynı yıl bir dizi makale yazdımVadeli işlemler
+Bu makalelerde mikrobilgisayarlar için geriye dönük test ve 
+optimizasyon kavramlarını tanıttım ve bu yeniliklerin teknik 
+analiz ve ticaret üzerindeki etkisini tartıştım.
+®dergi.
+1980'ler boyunca daha güçlü işlem yazılımları geliştirmeye 
+devam ettim. Ayrıca, işlem stratejisi geri testinde eğri uydurma 
+ve aşırı optimizasyonun tehlikelerini tartıştığım işlem üzerine 
+makaleler yazdım ve kitaplarda işbirliği yaptım. Ayrıca, bu 
+tuzaklardan ulusal televizyon, radyo ve dergi röportajlarında ve 
+davetli konuşmacı olarak finans sektörü konferanslarında 
+bahsettim. Çok geçmeden, strateji geliştirme ve geri test, ilk kez 
+mikrobilgisayar satın alan dünyanın dört bir yanındaki 
+tüccarların dikkatini çekmişti.
+Finans sektöründeki birkaç profesyonelin, kendi yazılımları 
+arka test ve optimizasyonla modası geçmiş hale gelmiş veya 
+bilgisayarlı teknik analizdeki bu yeniliklerden tehdit hissetmiş 
+olmalarına rağmen, o zamanlar bir dizi önemli teknisyen ve 
+tüccardan cesaret aldım. Bunlar arasında, baş editör olan Darrell 
+Jobman da vardı.Vadeli işlemler dergisi, ayrıca Larry Williams ve 
+Jake Bernstein'a da teşekkür ederim.
+Birkaç ProfitTaker müşterisi daha sonra kendileri yazılım geliştiricisi 
+oldular ve ProfitTaker'ın arka test ve optimizasyon yeteneklerini taklit 
+eden rekabetçi yazılım programlarını tanıttılar. Diğer mevcut yazılım 
+geliştiricileri de aynı şekilde daha sonra kendi ver-
+18 Ticari Sırlar
+
+
+=== PDF PAGE 12 ===
+Omega Research'ün Trade-Station'ı da dahil olmak üzere, geriye dönük test yazılımlarının 
+çeşitliliği®1991 yılında.
+Günümüzde geriye dönük test ve optimizasyon tek piyasa teknik analizinin 
+o kadar ayrılmaz bir parçasıdır ki, yatırımcılar bu yetenekleri hafife alırlar. 
+Teknik analiz hakkında yeni bilgi edinen yatırımcıların bana geriye dönük 
+testin her zaman ticaret yazılımlarında olduğunu söylemelerini biraz 
+eğlenceli buluyorum; sanki otomobillerHer zamanVardı.
+1980'lerin ortalarında, piyasalar üzerindeki teknik araştırmam ve 
+gözlemlerim sayesinde, tek piyasa teknik analiz yöntemlerinin artık 
+yeterli olmayacağı bana açıkça belli olmuştu. Bilgisayar ve 
+telekomünikasyon teknolojilerindeki gelişmeler ve ortaya çıkan "küresel 
+ekonomi" nedeniyle finansal piyasalarda meydana gelen değişiklikler 
+göz önüne alındığında, aynı anda yalnızca bir piyasaya dahili olarak 
+bakan (ve genellikle piyasanın gerisinde kalan) bu tür yöntemlerin çok 
+sınırlı olduğunu fark ettim.
+1986'da, teknik analizin kapsamını genişletmenin bir yolunu 
+ararken, mikrobilgisayarlar için ilk ticari olarak mevcut piyasalar 
+arası analiz yazılımını geliştirdim. Bu program, ilgili piyasalardaki 
+hareketleri ve ekonomik istatistik beklentilerini, hedef piyasanın 
+beklenen trend yönüyle ilişkilendirmek için bir elektronik tablo 
+biçimi kullanarak piyasa bağımlılıklarını ele aldı.
+Ekim 1987'deki küresel borsa çöküşü, dünya vadeli işlemler, hisse 
+senedi ve türev piyasalarının birbirine bağımlılığı hakkındaki 
+inançlarımı açıkça doğruladı. O noktada, dünya ekonomileri ve 
+finans piyasaları daha fazla iç içe geçmeye devam ettikçe, piyasalar 
+arası analizin teknik analizin temel bir parçası haline geleceğine ikna 
+olmuştum.
+Piyasalar arası analiz yazılımı geliştirmedeki başarılarıma rağmen, 
+ilgili piyasalardan piyasa verilerini ilişkilendirmek için kullandığım 
+matematiksel araçlardan memnun değildim. Daha sonra 1980'lerin 
+sonlarında, sinir ağları olarak bilinen bir yapay zeka teknolojisiyle 
+deneyler yaptıktan sonra, bunların hedef pazar ile ilgili pazarlar 
+arasındaki tekrarlayan kalıpları ve doğrusal olmayan ilişkileri bulma 
+ve hedef pazarın piyasa yönünü doğru bir şekilde tahmin etme 
+görevleri için ideal olduğu sonucuna vardım.
+1991 yılında, finansal tahminlere sinir ağlarının uygulanmasını 
+içeren önemli araştırma ve geliştirmelerden sonra, en gelişmiş 
+yazılım programım olan VantagePoint Intermarket Analy-
+Teknik Analizle Trend Tahmini 19
+
+
+=== PDF PAGE 13 ===
+sis Yazılımı. VantagePoint, çeşitli finansal piyasaların piyasa yönü ve 
+fiyatları hakkında kısa vadeli tahminler yapmak için sinir ağlarını 
+kullanır.
+Aynı zamanlarda, CNBC'nin teknik analisti John Murphy de dahil olmak 
+üzere bağımsız olarak çalışan diğer teknisyenler de, öncelikle sezgisel ve 
+tanımlayıcı bir bakış açısıyla, piyasalar arası ilişkileri araştırıyorlardı. 
+Çalışmaları, yatırımcılar arasında piyasalar arası analizin yeni alanına 
+daha fazla güvenilirlik kazandırdı.
+1980'lerin sonlarından bu yana, küreselleşme ve dünya finans piyasalarının 
+entegrasyonu hakkında makaleler ve kitaplarda kapsamlı yazılar yazdım. Bu 
+süre zarfında, piyasalar arası analiz içeren araştırma ve yazılım geliştirme 
+çalışmalarımı sürdürdüm ve tahmin edilen hareketli ortalamalar etrafında 
+oluşturulmuş güçlü trend tahmini ticaret stratejileri oluşturdum.
+Bu kitabın sunumunun teknik odak noktası, sinir ağlarının 
+uygulanması yoluyla piyasalar arası analizin hareketli ortalamaları 
+tahmin etmek için nasıl kullanılabileceği ve bunların nasıl birönde gelen
+bir yerinegeride kalanteknik gösterge.
+• Bölüm 1Finans piyasalarının küreselleşmesini ele alıyor ve 
+küresel ekonominin ortaya çıkışından sorumlu olan bazı temel 
+faktörleri ana hatlarıyla açıklıyor.
+• Bölüm 2Geleneksel teknik analiz yöntemlerinin, özellikle tek 
+pazar analizi vurgusu ve trendi takip eden gecikmeli 
+göstergelere güvenilmesi gibi sınırlamalarını vurgular.
+• Bölüm 3Piyasalar arası analizi teknik analizin mantıksal bir uzantısı olarak ele alır 
+ve piyasalar arası analizin yatırımcılar tarafından diğer yatırımcıların kaçırdığı 
+işlem fırsatlarını değerlendirmek için nasıl kullanılabileceğinin çeşitli yollarını 
+sunar.
+• Bölüm 4Geleneksel hareketli ortalamaların güçlü ve zayıf yönlerini açıklar 
+ve sinir ağlarının piyasalar arası verilere uygulanmasıyla trend tahmininin 
+trend takibinden nasıl daha iyi performans gösterdiğini gösterir.
+• Bölüm 5VantagePoint'in piyasa tahmin yeteneklerini açıklar. Bu bölüm 
+ayrıca, hem günlük yatırımcılar hem de pozisyon yatırımcıları tarafından 
+kullanılabilen, tahmin edilen hareketli ortalamaları kullanan çeşitli piyasa 
+zamanlama ticaret stratejilerini sunar.
+• Bölüm 6Sinir ağlarının piyasalar arası analize uygulanmasını ele alıyor ve 
+sinir ağlarının temellerini ve bunların günümüz küresel piyasalarındaki 
+yatırımcılara nasıl fayda sağlayabileceğini kısaca özetliyor.
+20 Ticari Sırlar
+
+
+=== PDF PAGE 14 ===
+• Bölüm 721. yüzyılın ilk on yıllarında finansal piyasa analizinin 
+evrimini tartışıyor. Analiz ve tahmin amacıyla teknik, piyasalar 
+arası ve temel verileri tek bir çerçevede birleştiren, benim 
+"sinerjik piyasa analizi" adını verdiğim kapsamlı bir yaklaşım 
+öneriyor.
+Özetle, bu kitap dünya finans piyasalarının küreselleşmesini ve 
+hisse senedi, opsiyon, türev ve vadeli işlem piyasalarında güçlü 
+trend tahmini ve piyasa zamanlaması ticaret stratejilerinin 
+geliştirilmesi ve uygulanmasında piyasalar arası analizin 
+uygulanmasını ele almaktadır.
+Teknik Analizle Trend Tahmini 21
+
+
+=== PDF PAGE 15 ===
+Bölüm 1
+KÜRESEL TİCARET
+EKONOMİ
+Ticaret Stratejileriniz
+ve Karlar Arttı mı?
+D
+20. yüzyılın son yirmi yılında, mikrobilgisayarların ortaya 
+çıkışıyla birlikte, bireysel yatırımcıların finansal piyasalara 
+katılımı muazzam bir şekilde arttı. Ticaret yazılımları, 
+giderek artan sayıda yatırımcının ticaret kararları almak için 
+teknik analiz yöntemlerini benimsemesiyle yaygınlaştı.
+Mikrobilgisayarlar önemli ölçüde daha hızlı hale gelirken ve 
+ticaret yazılımları da hız, performans ve kullanıcı dostu olma 
+açısından önemli iyileştirmeler geçirirken, tüccarların karlılık 
+açısından genel başarı oranı önemli ölçüde iyileşmedi. Bana göre 
+bunun nedeni, teknik analizin tek pazar vurgusunun, küresel 
+ekonominin ortaya çıkışıyla ilgili olarak finansal piyasalarda 
+meydana gelen yapısal değişikliklerle aynı hızda ilerlememiş 
+olmasıdır.
+Şimdi, her zamankinden daha fazla, kitle psikolojisi ve piyasa duygusu, 
+piyasa yönü aniden yükselişten düşüşe ve tekrar yükselişe geçerken, saatlik 
+olmasa bile günlük olarak değişiyor gibi görünüyor. Bir gün bir vadeli işlem 
+piyasası veya bireysel hisse senedi aşırı alımda bulunurken, ertesi gün aşırı 
+satımda bulunur. Bugünün piyasa gözdesi, yarının çirkin ördek yavrusu olur. 
+Bir gün enflasyonla ilgili endişeler yatırımcılar için çok önemliyken, ertesi gün 
+bir sonraki sıcak konuya geçerken konu neredeyse unutulur. Faiz oranları ve 
+"sert inişler" konusundaki korkular, hiperaktif çocukların dikkat süresine 
+sahip yatırımcıların odaklanma, disiplin ve perspektiflerini korumakta zorluk 
+çekmesiyle artıp azalır.
+Teknik Analizle Trend Tahmini 25
+
+
+=== PDF PAGE 16 ===
+Acemi için, açgözlülük ve korku, yükseliş ve düşüş, iyimserlik ve 
+kötümserlik, umut ve teslimiyet arasındaki bu ani değişimler, kafiye 
+veya mantık olmaksızın bir boşlukta var oluyor gibi görünür. Yine de 
+piyasa davranış kalıpları kendilerini tekrar tekrar tekrarlar. Bunlar, 
+Dow Jones Endüstri Ortalaması gibi her piyasada, farklı zaman 
+dilimlerinde ve ilgili piyasalar arasındaki ilişkileri analiz ederek 
+piyasalar arası bir bakış açısıyla bulunabilir. Yurt içi ve yabancı 
+piyasalar artık, çoğu zaman, küresel ekonomiyi etkileyen ortak 
+finansal, politik ve ekonomik güçler tarafından yönlendirilerek 
+uyumlu bir şekilde hareket ediyor.
+Günümüz yatırımcıları artık yalnızca 20. yüzyılın sonlarında 
+daha bağımsız ve daha az oynak yerel piyasalar için tasarlanmış 
+olan tek piyasa teknik analiz yöntemlerine güvenemezler.
+Açıkçası, bireysel finans piyasaları içindeki ve ilgili küresel 
+piyasalar arasındaki tekrar eden kalıpları belirleyebilen piyasalar 
+arası analiz araçları, yatırımcılara, küreselleşmenin ve dünya 
+finans piyasalarının entegrasyonunun giderek arttığı 
+günümüzün ticaret ortamında daha geniş bir ticaret perspektifi 
+ve rekabet avantajı sağlıyor.
+Küresel ekonomideki değişimin hızı ve küresel vadeli işlemler ile hisse 
+senedi piyasaları arasındaki artan karşılıklı bağımlılıklar, finansal 
+piyasalardaki katılımlarının sadece maliyetli bir eğlence değil, karlı 
+olmasını isteyen yatırımcılar için bu konuyu son derece önemli hale 
+getirmelidir. Piyasalar, Darwin'in en uygun olanın hayatta kalması 
+rekabetinin finansal bir versiyonu olduğundan, 20. yüzyılın sonlarında 
+teknik analizi tanımlayan tek piyasa analiz yöntemlerini geliştiren ve 
+genişleten piyasalar arası analiz araçları ciddi ilgi gerektirir.
+Piyasalar Sürekli Gelişiyor
+1962'de ilk transatlantik uydu iletiminin gerçekleşmesiyle küresel 
+elektronik iletişimde yeni bir çağın başlaması ve ardından 1970'ler ve 
+1980'lerde döviz, faiz oranı, petrol ve hisse senedi endeksi vadeli 
+işlemlerinin yaratılmasıyla (ABD'nin 1971'de sabit döviz kurlarından 
+vazgeçme kararının ardından), daha önce birbirinden ayrı olan 
+dünya vadeli işlem ve hisse senedi piyasaları birleşmeye başladı.
+26 Ticari Sırlar
+
+
+=== PDF PAGE 17 ===
+Şekil 1-1. HİSSE SENETLERİ ENDEKSLERİ BİRBİRİNİ YANSITIR
+İlgili piyasalar, piyasalar arası bağlantılar aracılığıyla yatırımcıları yaklaşan trend değişiklikleri 
+konusunda uyarır.
+Kaynak: www.bigcharts.com
+Finansal vadeli işlemlerin yaygınlaşması, finans piyasalarının 
+küresel entegrasyonunun erken temellerini attı ve piyasalar arası 
+analiz, teknik piyasa analizinin gerekli bir bileşeni haline geldi. Zira 
+faiz ve döviz kurlarındaki oynaklık ile petrol fiyatlarındaki oynaklık, 
+çokuluslu şirketler de dahil olmak üzere spekülatörler ve hedger'lar 
+için yeni fırsatlar ve riskler yarattı.
+Geçmişte, ticaret ayrı yerel hisse senedi ve emtia borsalarında ayrı 
+zaman dilimlerinde yerel düzeyde gerçekleştiriliyordu. Şimdi, 21. 
+yüzyılın şafağında, dünya çapında borç, hisse senedi, vadeli işlemler, 
+türev ve opsiyon piyasalarının birleşmesi hız kesmeden devam 
+ediyor.
+Dünya Vadeli İşlem ve Hisse Senedi Piyasaları Bağlantılıdır
+Yukarıdaki tabloya bir göz atın (bkz. Şekil 1-1). İki hisse senedi endeksinin bir yıllık 
+(yeniden ölçeklendirilmiş) karşılaştırma tablosunu gösterir. Birbirlerini ne kadar 
+yakından takip ettiklerine dikkat edin. Hangi piyasalar olduklarını tahmin etmeye çalışın.
+Bunların Nasdaq Composite Endeksi ve Nasdaq-100 Endeksi olduğunu 
+tahmin ettiyseniz, ikisi de birbirine yakın endeksler, yarı yarıya haklısınız. 
+Tablonun en üstündeki Nasdaq Composite Endeksi'dir. Ancak, en alttaki bir 
+ABD piyasası bile değildir. Morgan Stanley Dean Witter tarafından Arjantin, 
+Brezilya, Şili, Kolombiya, Meksika, Peru ve Venezuela'daki büyüme hisselerini 
+takip etmek için oluşturulan bir Latin Amerika Endeksi'dir.
+Teknik Analizle Trend Tahmini 27
+
+
+=== PDF PAGE 18 ===
+Bu grafik, finans piyasalarının küreselleşmesinin devam etmesiyle birlikte, 
+görünüşte ilgisiz piyasalar arasındaki bağlantıların bile yatırımcılar tarafından 
+göz ardı edilemeyeceğini göstermektedir.
+Zaten New York Borsası®, Nasdaq
+Her biri piyasaların küreselleşme eğiliminin farkında olan Ticaret 
+Odası, yabancı borsalarla stratejik ittifaklar kurmaya başladı.
+®ve Chi-
+2000 yılında New York Borsası “Küresel Hisse Senedi Piyasası”nı 
+duyurdu™Tokyo Borsası, Paris Borsası, Toronto Borsası, 
+Amsterdam Borsası, Hong Kong Borsası, Avustralya Borsası, 
+Brezilya'nın Bovespa'sı, Brüksel Borsası ve Meksika'nın Bolsa'sı 
+gibi çeşitli yabancı borsalarla ittifakların yer alacağı bir platform.
+Aynı zamanda Nasdaq, Avustralya 
+ve Hong Kong borsalarıyla ittifaklar 
+kurarak, Osaka Menkul Kıymetler 
+Borsası'nın "Nasdaq Japonya"yı 
+oluşturmasını sağladı.S.M.Avrupa'da 
+Deutsche Boerse ve Londra Borsası 
+ile Kanada ve Latin Amerika'da olası 
+diğer ittifaklar, ortaya çıkan 24 saatlik 
+küresel finans piyasasına katılım için 
+kendi stratejik planını izliyor.
+Bağlantılar arasında
+görünüşte alakasız
+piyasalar olamaz
+tüccarlar tarafından göz ardı edildi
+küreselleşmeyle birlikte
+mali
+piyasalar devam ediyor
+Evrimleşmek.
+Benzer şekilde, dünyanın en büyük iki vadeli işlem borsası olan Chicago Board 
+of Trade ve Frankfurt'un Eurex borsası, 2000 yılından itibaren ortak bir elektronik 
+ticaret platformu başlatmak için bir araya geldi. Sonunda bu tür ittifaklar, 
+yatırımcıların dünyanın herhangi bir yerinde, herhangi bir zamanda, sorunsuz, 
+elektronik küresel ticaret platformları üzerinden herhangi bir finansal 
+enstrümanla ticaret yapmalarına olanak tanıyacak.
+Geçtiğimiz yüzyılın son yıllarında Berlin Duvarı'nın yıkılışını, 
+Almanya'nın yeniden birleşmesini, SSCB'nin dağılmasını ve Soğuk 
+Savaş'ın sonunu yaşamış biri olarak, örneğin New York Borsası 
+ve Nasdaq'ın, dünya çapındaki büyük borsa ve emtia borsalarıyla 
+ortaklık yaparak tamamen kapsamlı bir elektronik küresel ticaret 
+ağının ortak yaratımını duyurması beni hiç şaşırtmazdı. Sonuçta, 
+ihtiyaç icadın annesidir.
+28 Ticari Sırlar
+
+
+=== PDF PAGE 19 ===
+Çok geçmeden, finans piyasalarında ticaret, günümüzün borsa ve 
+vadeli işlem borsalarının tuğla ve harç ticaret katlarından uzakta, 
+siberuzayın sanal dünyasında, gece gündüz elektronik olarak 
+gerçekleştirilecek. Bugünün "mesai saatleri dışında ticaret", "uzun vadeli 
+ticaret" ve hatta "açık haykırış" kavramlarının, tıpkı 20. yüzyılın şafağında 
+"arabalı kırbaç" ve "atsız araba"nın küçümsenmesi gibi, sözlüğümüzün 
+tarihi dipnotları haline geleceğini kolayca hayal edebiliyorum.
+Henüz tasarlanmamış ezoterik olanlar da dahil olmak üzere kelimenin 
+tam anlamıyla binlerce finansal enstrümanı içeren yirmi dört saat 
+ticaretin uygulanmasıyla, küçük kurumsal ticaret organizasyonlarının 
+bile ticaret operasyonlarını günün her saati personel bulundurması 
+gerekecektir. Ancak birçok bireysel tüccar, gece boyunca piyasa 
+pozisyonlarını kontrol etmek zorunda hissettikleri için piyasa kaynaklı 
+uykusuzluktan muzdarip olacak, trend yönünde ani bir değişikliği 
+tetikleyen bazı dışsal felaket olaylarından veya daha da kötüsü finansal 
+piyasaların bir gecede dünya çapında çökmesinden korkacaklardır.
+Yüksekten uçan İnternet, teknoloji ve biyoteknoloji hisseleri zaten 
+elektronik günlük tüccarlar tarafından emtialar gibi alınıp satılıyor. Bu 
+mantıklıdır, çünkü bir yükseliş trendi bir yükseliş trendidir, bir trend tersine 
+dönüşü bir trend tersine dönüşüdür ve desenler her piyasaya konulan 
+etikete bakılmaksızın kendilerini tekrarlar. Domuz pastırması, portakal suyu, 
+şeker, Hazine bonoları, S&P 500 olması fark etmez®Endeks, İsviçre frangı, 
+ham petrol, Intel veya Amgen.
+Borsa endeksi vadeli işlemleri yaygınlaştıkça, endeks ticareti genişledikçe, internet 
+sohbet odaları işlem ipuçları paylaşan yatırımcılarla dolup taştıkça, elektronik günlük 
+ticaret meşru bir "meslek" olarak kabul edildikçe, yatırım fonları gün içi işlem görmeye 
+başladıkça ve bireysel hisse senetlerine ilişkin vadeli işlem sözleşmeleri piyasaya 
+sürüldükçe, hisse senetleri ve vadeli işlemlerin dünya çapındaki bu iç içe geçmesi hız 
+kazanacak.
+Ortaya Çıkan Güçler Yeni Küresel Ekonomiyi Başlatıyor
+Aşağıda, 21. yüzyılda dünya finans piyasalarının 
+küreselleşmesine yol açacak önemli teknolojik, ekonomik, 
+finansal ve politik güçlerin bazılarının kısa bir açıklaması yer 
+almaktadır:
+• Mikrobilgisayarlar, uydu, yazılım ve telekomünikasyon gibi bilgi 
+teknolojilerindeki gelişmeler, küresel genişleme ve 
+ticarileşmeye odaklanmaktadır.
+Teknik Analizle Trend Tahmini 29
+
+
+=== PDF PAGE 20 ===
+İnternet ve elektronik küresel iletişim ve ticaret ağlarının 
+gelişimi. Finansal araçların, maddi mülkün alım satımı ve 
+sermaye artırımı ile ilgili işlemler dünya çapında serbestçe, 
+anında ve rekabetçi bir şekilde gerçekleştirilecektir. Bu 
+gelişmeler yerel finans piyasaları ve ekonomik milliyetçilik 
+kavramlarını geçersiz kılacaktır.
+• Faiz oranı vadeli işlemleri, hisse senedi endeksleri ve opsiyonları içeren 
+küresel türev ticaretinin genişlemesi ve türev ticaretinin bilgi 
+teknolojileriyle birleşmesi, daha önce birbirinden ayrı olan piyasaları 
+birleştirmeye devam edecek, piyasalar arasındaki bağımlılıkları daha 
+da artıracak ve finans piyasalarının tamamen uluslararasılaşmasına 
+yol açacaktır.
+• Küresel serbest ticaretin ve rekabetin artması ve sermaye 
+oluşumu, döviz ve faiz oranı riskinden korunma, hisse 
+senetlerinin farklı ülkelerdeki birden fazla borsada sınır ötesi 
+listelenmesi, küresel ittifaklar yoluyla şirket konsolidasyonları 
+ve işbirlikçi rekabet ve ulusal sınırlar ötesinde birleşme ve satın 
+almalar (özellikle aracılık, yatırım bankacılığı ve 
+telekomünikasyon alanlarında ve borsalar arasında) içeren 
+çokuluslu kurumsal finansman stratejilerinin küreselleşmesi.
+• Bankacılık, aracılık, enerji, telekomünikasyon ve ulaştırma 
+sektörlerini kapsayan hükümet düzenlemelerinin kaldırılması. 
+Ekonomik faaliyeti ve küresel rekabeti teşvik eden marjinal vergi 
+oranlarında indirimler, sermayenin coğrafi olarak ve kamudan 
+özel sektöre yeniden tahsisi, artan üretkenlik, düşen maliyetler ve 
+yeni teknolojilerin geliştirilmesinde inovasyonun teşvik edilmesi.
+• Bilgi teknolojilerindeki gelişmelerin kurumsal işletmelerin 
+maliyet yapılarını olumlu yönde etkilemesi, tedarik zincirlerini 
+ve müşteri kanallarını kolaylaştırıp kısaltmasıyla ortaya çıkan 
+verimlilik artışları.
+• Finansal varlıklara yönelik talebin demografik olarak artması ve bebek patlaması 
+kuşağının özelleştirilmiş, vergi ertelenmiş kar paylaşımı ve emeklilik planlarına 
+daha geniş katılım sağlaması.
+• Demokratik olarak seçilen hükümetlerin ortaya çıkması, artan 
+kişisel haklar, serbest girişim, özel mülkiyet, daha önce devlete 
+ait olan işletmelerin özelleştirilmesi, girişimcilik ruhunun teşvik 
+edilmesi ve piyasa temelli ekonominin benimsenmesi
+30 Ticari Sırlar
+
+
+=== PDF PAGE 21 ===
+Dünya genelinde gelişmekte olan ülkelerdeki ticaretin artması, Çin ile serbest 
+ticaretin genişletilmesi ve Çin'in Dünya Ticaret Örgütü'ne dahil olma olasılığı da göz 
+önünde bulundurulmalıdır.
+Piyasa Volatilitesi ve Finansal Krizler Burada 
+Kalmaya Devam Edecek
+Tüm bu etkenler ve diğerleri, sonunda tüm vadeli işlemler, hisse 
+senedi ve türev piyasalarının birbirine bağımlı parçalar gibi yer aldığı, 
+küresel olarak entegre tek bir finans piyasaları ağının olacağı yeni bir 
+dönemin habercisi oldu. Tıpkı dev bir yapbozun parçaları gibi.
+Bir finans dergisi veya gazetesi alırsanız 
+veya finans haber programlarını dinlerseniz, 
+yorumcuların, para yöneticilerinin, şirket 
+yöneticilerinin, finans analistlerinin ve 
+ekonomistlerin "yeni ekonomi" veya 
+"küresel ekonomi" olarak adlandırılan 
+ekonomik paradigmadaki bir değişimden 
+bahsettiğini duyacaksınız. Bu, küresel ses, 
+veri ve video telekomünikasyonları, kablosuz 
+m-ticaret, dünya çapında e-ticaret ve daha 
+önce bağımsız olan finans piyasalarını 
+kapsayan yeni bir elektronik küresel finans 
+ağı tarafından yönlendirilen ortaya çıkan bir 
+ekonomik dünya düzenidir.
+Bu, ortaya çıkan bir 
+ekonomik dünyadır
+sipariş tarafından yönlendirilen
+küresel ses, veri
+ve görüntülü telekomünikasyon
+haberleşme, tel-
+daha az m-ticaret,
+dünya çapında e-ticaret
+Merce ve bir
+ortaya çıkan elektronik
+küresel finans
+ağ encom-
+daha önce geçen
+bağımsız fi-
+finansal piyasalar.Zaten, hükümet tarafından bildirilen bir 
+ekonomik istatistikte beklenmeyen bir 
+değişiklik haberi yayınlandığında, terörizm
+Ortadoğu'da meydana gelen bir olayda, ABD Federal Rezerv Kurulu veya 
+Avrupa Merkez Bankası faiz oranlarında bir değişiklik duyurur veya bir Asya 
+ülkesi para birimini devalüe ederse, bu haber CNN'de uydu aracılığıyla 
+anında tüm dünyaya iletilir™, CNBC ve internet üzerinden.
+Milyarlarca dolarlık finansal varlık saniyeler içinde, büyük bir kurumsal 
+tüccar tarafından, ulusal, politik, sosyal veya ekonomik sonuçlar, coğrafi 
+hususlar veya günün saati gözetilmeksizin, bir fare düğmesine dokunarak 
+dünyanın herhangi bir yerinde elektronik olarak dönüştürülebilir ve yeniden 
+dağıtılabilir. İyi yerleştirilmiş bir söylenti veya belki de yeni bir küresel tür 
+tarafından kışkırtılan hayali bir basın bülteni
+Teknik Analizle Trend Tahmini 31
+
+
+=== PDF PAGE 22 ===
+Siber sabotajcı, daha sonra asılsız olduğu kanıtlansa bile, anında 
+ve potansiyel olarak zararlı mali sonuçlar doğurabilecek küresel 
+çapta bir olay patlamasına yol açabilir.
+Küresel ölçekte bir depremin finans piyasası eşdeğerinin ilk 
+örneği, 19 Ekim 1987'de, dünyanın vadeli işlem ve hisse senedi 
+piyasalarının birbirine düşen domino taşları gibi aşağı doğru 
+devrilmesiyle gerçekleşti. İlk domino taşı düştüğünde, tüm 
+dünyada yankılanan bir zincirleme reaksiyon başlattı (bkz. Şekil 
+1-2).
+Neyse ki, 1987'de ve 1990'ların sonlarında finansal Richter 
+ölçeğinde daha az güçlü depremlerin artçı şokları sırasında dünya 
+finans piyasaları ve ekonomilerine yönelik felaket niteliğindeki hasar 
+önlendi. Yine de bu olaylar, en iyimser küresel ekonomik 
+senaryolarda bile, şüphesiz 21. yüzyılda dünya finans manzarasını 
+noktalayacak olan şeyin sahnesini hazırladı.
+Telekomünikasyon ve bilgi teknolojilerindeki ilerlemeler 
+hızlandıkça, zamana duyarlı küresel piyasa bilgileri İnternet 
+üzerinden daha yaygın bir şekilde erişilebilir hale geldikçe ve hisse 
+senetleri, vadeli işlemler ve hatta yatırım fonlarının elektronik 
+günlük ticareti yaygınlaştıkça, 21. yüzyılın ilk on yıllarında gün içi ve 
+gün arası piyasa oynaklığının keşfedilmemiş seviyeleri olağan hale 
+gelebilir. "Normal" piyasa satışlarının ve düzeltmelerinin, bazı
+Şekil 1-2. KÜRESEL PİYASALAR DOMİNO ETKİSİNE TEPKİ VERİYOR
+Birbirine bağımlı finansal piyasaların düşmesiyle birlikte finansal krizler hızla kontrolden çıkabilir ve dünya 
+çapında yankı uyandıran bir zincirleme reaksiyon başlatabilir.
+Kaynak: Market Technologies Corporation
+32 Ticari Sırlar
+
+
+=== PDF PAGE 23 ===
+Bazıları ani ve kısa ömürlü, bazıları uzun süreli, ama hepsi dikkatsizler için çok acı 
+verici ve maliyetli olan krizler, yeni ekonomik paradigma tarafından halının altına 
+süpürülmedi.
+Bugüne kadar, hisse senedi ve vadeli işlem borsaları, merkez 
+bankaları, takas kuruluşları, maliye bakanlıkları, düzenleyici 
+kuruluşlar ve uluslararası bankacılık kuruluşları da dahil olmak üzere 
+dünya finans piyasalarının çeşitli sektörleri tarafından kriz kontrolü 
+hala görünüşe göregeçici temel. Şu anda, dünya finans piyasalarının 
+yöneldiği son derece birbirine bağımlı küresel bir iletişim ve ticaret 
+ağının varlığının, gelecekte küresel finansal krizleri hafifleteceği veya 
+şiddetlendireceği belirsizdir.
+Bu iklimde, finansal "sahip olanlar" ile 
+"sahip olmayanlar" arasındaki fark, 
+özellikle finansal piyasalarda 
+istikrarsızlığın başlangıcında, 
+yatırımcıların kararlı bir şekilde hareket 
+etmek için gerekli en sağlam piyasalar 
+arası analiz araçlarına ve bilgilere 
+erişebildiği duruma göre belirlenecektir.
+Şu anda, bu
+belirsiz mi yoksa
+yüksek derecede birbirine 
+bağımlı bir varlığın olmaması
+küresel iletişim
+nikâhlar ve
+ticaret ağı,
+hangi yöne doğru
+dünyanın finansal
+piyasalar baş döndürücü
+azaltacak veya
+küresel
+mali krizler
+Gelecek.
+Bu durum, özellikle ABD, Avrupa, 
+Japonya ve diğer yerlerdeki milyonlarca 
+bebek patlaması kuşağı mensubu için 
+kritik önem taşıyor; bu kuşak, emeklilik 
+yıllarını (biyoteknolojideki gelişmeler 
+nedeniyle uzayan yaşam beklentileri 
+nedeniyle muhtemelen uzayacak) 
+atlatabilmek için servetlerini oluşturmaya 
+ve korumaya acilen ihtiyaç duyuyor.
+Banka mevduatları ve para piyasası fonlarının vergi sonrası getiri oranlarının 
+enflasyonla başa çıkamayacak düzeyde olması ve altın gibi sabit varlıklardaki 
+getirilerin düşük olması nedeniyle, bu bebek patlaması kuşağının büyüme 
+potansiyeli ve likidite için yönelebileceği tek yer küresel vadeli işlemler ve hisse 
+senedi piyasaları.
+Bu farkındalıklar, 1980'lerin ortalarında dikkatimi piyasalar arası 
+analizin daha geniş çerçevesine odaklamamı ve VantagePoint'i piyasalar 
+arası tabanlı bir piyasa tahmin aracı olarak geliştirmemi sağlayan şeydi. 
+VantagePoint, sinir ağlarının desen tanıma yeteneklerine dayanarak kısa 
+vadeli eğilimleri ve fiyatları tahmin eder.
+Teknik Analizle Trend Tahmini 33
+
+
+=== PDF PAGE 24 ===
+Her yatırımcının her gün boğuşması gereken şu dört önemli soruya 
+cevap veriyor:
+• Piyasa hangi yöne gidiyor?
+• Hareket ne kadar güçlü olacak?
+• Mevcut trend ne zaman güç kaybedecek, tepe veya dip yapıp 
+yön değiştirecek?
+• Yarınki işlem aralığı nasıl olacak?
+Bölüm 5'te, VantagePoint'in bu sorunları nasıl ele aldığını 
+göstereceğim. İlk olarak, tek piyasa teknik analizini ele almak ve 
+ardından bunu piyasalar arası analizle karşılaştırmak istiyorum, böylece 
+piyasalar arası analizin işlem performansınızı nasıl önemli ölçüde 
+iyileştirebileceğini daha iyi anlayabilirsiniz.
+34 Ticari Sırlar
+
+
+=== PDF PAGE 25 ===
+Bölüm 2
+TEK PAZAR
+ANALİZ
+Tünel Vizyonuyla Ticaret
+Bir İşlemin Kaybeden 
+Tarafına Girmenizi Sağlayabilir
+A
+Finansal piyasaların davranışlarının piyasa yönünü 
+belirleme ve tahmin etme amacıyla analizi, tarihsel ve 
+geleneksel olarak iki ayrı okula ayrılmıştır: temel analiz ve 
+teknik analiz.
+Temel analizin mantığı, belirli bir hisse senedi veya vadeli işlem 
+piyasasını etkileyen temel ekonomik faktörlere dayanarak piyasa yönünü 
+tahmin ederek işlem kararları almaktır. Örneğin, bir tüccar, ABD Federal 
+Rezerv Kurulu'nun faiz oranlarında beklenen artışlar nedeniyle bir fiyat 
+düşüşü öngörerek ABD Hazine bonoları üzerinde vadeli işlem 
+sözleşmeleri satar; beklenen kuraklık koşulları nedeniyle ürün hasarı 
+tahminlerine dayanarak mısır veya soya fasulyesi sözleşmeleri satın alır; 
+veya Street'in üç aylık kazanç tahminlerini aşacakları beklentisiyle Intel 
+veya Oracle hisseleri satın alır.
+Teknik analizin arkasındaki temel varsayım şudur:TümüBelirli bir 
+zamanda bir piyasayı etkileyen iç ve dış faktörlerin hepsi o piyasanın 
+fiyatına zaten dahil edilmiştir. Başka bir deyişle, bir piyasanın cari 
+fiyatının, her biri o piyasaya ilişkin kendi bilgisine ve piyasanın yakın 
+gelecekte nasıl bir yöne doğru gideceğine dair algısına sahip olan 
+tüm piyasa katılımcılarının rasyonel kolektif yargısını yansıttığı 
+düşünülmektedir.
+Teknik Analizle Trend Tahmini 35
+
+
+=== PDF PAGE 26 ===
+Rakamlar Yalan Söylemez, Ancak Aldatıcı Olabilir
+Mevcut fiyatın bir piyasa ve onu etkileyen etki veya güçler 
+hakkında mevcut tüm bilgileri tamamen hesaba kattığı 
+varsayımıyla, teknik analiz, temel analizin aksine, piyasayı 
+etkileyen temel ekonomik faktörlerden hiçbirine dalmaz.
+Bunun yerine, teknik analiz piyasa davranışını analiz etmek için çeşitli 
+teknik çalışmalar, göstergeler ve piyasa tahmin teorileri kullanır. Emtia 
+sözleşmelerinin fiyatı, hacmi ve açık faizi gibi tarihi piyasa verileri, 
+tekrarlayan kalıpları belirlemek için incelenir; bu kalıplar bulunursa, 
+mevcut piyasa eğilimini belirlemek, gelecekteki piyasa yönünü tahmin 
+etmek ve giriş ve çıkış konumları için fiyat hedefleri sağlamak için 
+kullanılabilir. Bu analitik süreç Şekil 2-1'de tasvir edilmiştir.
+Amaç, Piyasa Trend Yönünü Tahmin Etmektir
+Temel analiz ve teknik analizin her biri kendi temel felsefi 
+temeline ve piyasalara iki farklı bakış açısından bakan belirli 
+analitik metodolojilere sahip olsa da, her iki yöntemin de aynı 
+hedefi vardır: çeşitli finansal piyasaların piyasa trend yönünü 
+belirlemek ve tahmin etmek. Bunlar şunları içerir:
+• Cisco Systems, Intel ve Amgen gibi bireysel hisse senetleri.
+• Nasdaq-100 Endeksi, S&P 500 Endeksi ve Nikkei gibi hisse senedi 
+endeksleri
+®.
+Şekil 2-1. TEKNİK ANALİZ ANALİTİK BİR SÜREÇTİR
+Amaç
+Teknik
+Çalışmalar,
+Göstergeler
+ve Teoriler
+Tekrarlayan
+Fiyat
+Desenler
+Mevcut Trendi Belirleyin
+Pazar
+Veri Gelecek Trendi Tahmin Et
+ve Fiyatlar
+Fiyat Hedeflerini Tahmin Et
+Yatırımcılar, piyasa trendini belirlemek ve bundan sonra nereye gideceğini tahmin etmek için kullanılan 
+tekrar eden kalıpları bulmak amacıyla geçmiş piyasa verilerini analiz eder.
+Kaynak: Market Technologies Corporation
+36 Ticari Sırlar
+
+
+=== PDF PAGE 27 ===
+• 10 yıllık ABD Hazine bonoları, 5 yıllık ABD Hazine bonoları ve 
+eurodolar gibi faiz oranları.
+• ABD Doları Endeksi, İsviçre Frangı ve İngiliz Sterlini gibi para 
+birimleri.
+• Ham petrol, ısıtma yağı ve benzin gibi enerjiler.
+• Altın, gümüş ve platin gibi metaller.
+Yatırımcılar, temel veya teknik analiz yoluyla her piyasanın 
+trend yönü hakkında beklentiler oluşturmaya çalışır ve piyasa 
+tahminleri doğru çıkarsa kar elde etme umuduyla işlem kararları 
+alırlar.
+Temelciler ve teknisyenler tarafından yapılan temel varsayım, 
+yöntemlerinin üstün işlem performansıyla sonuçlandığıdır. Bu, 
+yıllar boyunca hem temel hem de teknik analiz uygulamalarının 
+boşuna çabalar olduğu yönündeki karşıt argümanlarla tartışmalı 
+bir konu olmuştur.
+Bir tüccar ve teknik analist olarak onlarca yıllık deneyimimden yola 
+çıkarak, piyasa yönünün makul derecede doğru bir kısa vadeli trend 
+tahmini yapabilmenin karar alma sürecinin sonucunu iyileştirdiğine 
+ve daha karlı bir ticarete yol açtığına ikna oldum. Ancak, bir tüccar 
+birmükemmel bir şekilde piyasa yönünün doğru bir şekilde tahmin 
+edilmesi durumunda, üstesinden gelmesi gereken son bir zorluk 
+daha olacaktır. Bu,piyasa zamanlaması.
+YapabilirsinizOynamakPiyasalar 
+veya SizZamanPiyasalar
+Bir yatırımcı belirli bir piyasayı analiz edip o piyasanın muhtemel trend yönü 
+hakkında bir fikir oluşturduktan sonra, bir pozisyona ne zaman gireceğine veya 
+çıkacağına ve hangi fiyattan gireceğine karar vermelidir.
+Hayatın her alanında, zamanlama her şeydir. Finans piyasalarında, 
+trend yönünü doğru tahmin etseniz bile zamanlamanız (sadece bir 
+gün veya bir saat veya daha az) yanlışsa yine de para 
+kaybedebilirsiniz.
+Tarihsel olarak, piyasa zamanlaması, fiyat oynaklığı, düşük marj 
+gereksinimleri ve yüksek kaldıraç derecesi nedeniyle vadeli işlem 
+piyasalarındaki yatırımcılar için özellikle zorlayıcı olmuştur. Yeni nesil 
+elektronik günlük yatırımcılar, yüksek uçan teknoloji hisselerine girip çıktıkça
+Teknik Analizle Trend Tahmini 37
+
+
+=== PDF PAGE 28 ===
+Vadeli işlem yatırımcılarının Japon yeni veya ham petrol sözleşmelerini alıp 
+satma hızı ve ilgisizliğinin yanı sıra, artık daha önce hiç olmadığı kadar çok 
+hisse senedi yatırımcısı piyasa zamanlamasıyla ilgileniyor.
+Bir yatırımcı olarak, trend yönünü doğru bir şekilde tahmin etmekten, 
+pozisyona biraz erken girmekten, piyasanın aleyhinize dönmesinden, 
+durdurulmaktan ve ardından piyasanın dönüp beklediğiniz yöne doğru 
+hareket etmesinden daha sinir bozucu bir şey yoktur. Bu olduğunda, bir 
+kayıp yaşadıktan sonra kenarda oturmak veya piyasayı kovalamaya 
+çalışmak zorunda kalırsınız. Mevcut trend yönünü belirlemek önemli olsa 
+da yeterli değildir. Ayrıca, tahmin edebilmelisinizNe zamanpiyasa bir 
+hareket yapmaya hazırlanıyortepeveyaaltve yön değiştir.
+Trend yönünü tahmin edebildiğinizde, dönüm noktalarını 
+belirleyebildiğinizde ve giriş ve çıkış noktalarını belirlemenize yardımcı olacak 
+bir sonraki günün fiyat aralığına dair bir beklentiniz olduğunda, analiz 
+açısından gerçekten başka bir şeye gerek kalmaz. Şimdi sadece "tetiği 
+çekmek" meselesi.
+Teknik Analiz Piyasalarla Aynı 
+Hızda Gidemedi
+Popüler finans dergilerinin son sayılarını okursanız, güncel fiyat grafikleri 
+ve varsayımsal performans geçmişleri içeren teknik analiz üzerine çok sayıda 
+makale bulacaksınız; bunların içerikleri, on, yirmi ve hatta otuz yıl önce finans 
+basınında yayınlanmış makalelerle neredeyse aynı!
+Bu güncellenmiş makaleler, teknik analiz ve finansal piyasalar 
+hakkında yeni bilgi edinmeye başlayan acemi yatırımcılar için şüphesiz 
+aydınlatıcıdır. "Üstel", "Fibonacci" ve "Stokastik" kelimelerini nasıl 
+yazacağınızı ilk öğrendiğinizde ve bunların ne anlama geldiğini 
+anladığınızda ne kadar heyecanlandığınızı hatırlıyor musunuz? 
+Geçtiğimiz birkaç on yılda, örneğin çeşitli hareketli ortalama türleri 
+arasındaki farkları tekrar ele alan ve "gecikme etkisini" azaltmadaki 
+etkinliklerini karşılaştıran teknik analiz üzerine kaç düzine makale ve 
+kitap okuduğumu sayamam.
+Bu konu Perry Kaufman'ın şu kitabında ayrıntılı olarak ele alınmıştır:
+Emtia Ticaret Sistemleri ve Yöntemleriilk olarak 1978'de yayınlanmış ve 
+Charles Patel'inEmtialar ve Hisse Senetleri için Teknik Ticaret Sistemleri
+38 Ticari Sırlar
+
+
+=== PDF PAGE 29 ===
+1980'de yayımlandı— kişisel kütüphanemdeki iki klasiği saymak 
+gerekirse. Liste uzayıp gidebilir.
+Yeni yatırımcıların izlediği tipik bir yol vardır. İlk olarak, birkaç giriş 
+kitabı veya dergi makalesi okuyarak veya eğitim videoları veya CD'leri 
+izleyerek teknik analizin ABC'lerini öğrenirler. Bu yatırımcılar, baş ve 
+omuzlar, bayraklar, adalar, flamalar, üçgenler, destek ve direnç trend 
+çizgileri, boşluk desenleri ve fiyat kanalları gibi fiyat oluşumları ve grafik 
+desenleri hakkında bilgi edinirler. Daha sonra yatırımcılar, bir e-aracılık 
+şirketi veya yazılım satıcısı tarafından desteklenen memleketlerindeki 
+ücretsiz ticaret seminerlerine katılabilir ve mum çubukları veya hareketli 
+ortalamalar gibi diğer teknik göstergeler hakkında bilgi edinebilirler.
+Sonunda yeni yatırımcılar, çeşitli tek 
+piyasa göstergelerinin hesaplamalarını 
+otomatikleştiren kitlesel pazarlanan ticaret 
+yazılım programları satın alırlar. Hareketli 
+ortalama geçiş yaklaşımları gibi bu 
+kavramlardan bazılarının etrafında 
+oluşturulmuş farklı ticaret stratejileri 
+geliştirip test ettikten sonra, birçok yatırımcı 
+zengin olma eşiğinde olduklarını ve yakında 
+günlük işlerini bırakıp tam zamanlı 
+elektronik günlük tüccarlar olabileceklerini 
+düşünmeye başlar. Bu acımasız yanılgı, 
+finans sektöründeki baştan çıkarıcı 
+promosyon reklamlarıyla hatırladığım 
+kadarıyla uzun zamandır devam etmektedir.
+Tanımlama
+güncel trend
+yön, iken
+önemli değil
+yeter. Yapmalısın
+ayrıca yapabilmek
+beklemekNe zaman
+pazar
+yapmaya hazır 
+tepeveyaaltve 
+yön değiştir.
+Günümüz yatırımcılarının birçoğu, 1987 çöküşü ve 1974'teki 
+işkenceli düşüş de dahil olmak üzere, önceki borsa çöküşleri 
+hakkında çok az kişisel bilgiye sahip, hatta hiç sahip değil. Benim gibi 
+deneyimli yatırımcılara, Dow Jones Sanayi Ortalaması'nın önceki 
+zirvesinden neredeyse %50 düştüğü 1974 borsa faciası sırasındaki 
+ticaret deneyimlerini sorun, size bir sürü şey söyleyeceklerdir. İşte o 
+zaman, açgözlülük ve korku arasındaki psikolojik mücadele hakkında 
+acı dolu bir ders aldım ve korkunun nihayetinde insan ruhu 
+üzerindeki daha güçlü etkisini gösterdi.
+Uzun süren boğa piyasaları, acemileri teknisyen ve tüccar olarak 
+becerilerini abartmaya teşvik eder. Açgözlülük, tüccarları yıllık piyasa 
+getirileri ve ticaretin doğasında bulunan riskler konusunda gerçekçi olmayan 
+beklentiler oluşturmaya teşvik eder. Bu koşullar altında tüccarlar yanlış bir
+Teknik Analizle Trend Tahmini 39
+
+
+=== PDF PAGE 30 ===
+öz güven. Hızlı sonuçlar beklemeye başlarlar, örneğin Kutsal Kase ticaret 
+sistemini bulup bunun için çalışmak zorunda kalmadan bir gecede 
+zengin olmak gibi. Eğer bu kadar kolay olsaydı, her tüccar kendi kendine 
+milyoner olurdu.
+Yeni yatırımcılar sıklıkla, çok fazla tanıtımı yapılan veya ucuz 
+yatırım araçlarının kullanılması gerektiğini varsayarlar, çünkü 
+sonuçta birçok yatırımcı bunları zaten kullanıyor. Ne yazık ki, teknik 
+analiz araçları, en popüler olanların genellikle en iyi olduğu VCR'lar 
+gibi değildir.
+Eğer tüccar kitleleri piyasalara aynı dar tek pazar perspektifinden 
+bakıyorsa ve bunu yaparken para kaybediyorlarsa, o zaman eğer isterseniz...
+Analizinizin kapsamını akıllıca sınırlayın, 
+sağduyu size paranızı kaybetmeyi de 
+beklemeniz gerektiğini söyler. Bunu 
+anlamak için uygulamalı matematikte 
+doktora derecesi gerekmez. Bu sadece 
+lise matematiğidir: A=B ve B=C ise, o 
+zaman A=C. Yine de piyasalara yeni 
+gelenlerin çoğu bu kaybedilen yolda 
+başlar ve ticaret sermayeleri tükenene 
+kadar bu yolda kalır.
+Finans piyasalarında 
+başarılı olmak için,
+tedavi edemezsin
+ticaretinizi hafifçe yapın,
+sanki bir hobiymiş gibi. 
+Ona iyi davranmalısın
+bir iş gibi
+ve bu da başarılı olmak 
+için zaman ve para 
+harcamanız gerekeceği 
+anlamına gelir.
+ödev ve
+en iyi analiz 
+araçlarını edinin
+hemen harekete geç.
+Doğru araçları edinebilecek duruma 
+gelene kadar, ilk başta ucuz tek piyasa 
+analiz araçlarını kullanarak işlem 
+hesabınızı oluşturabileceğinizi düşünmek 
+aptallıktır. Eşiniz yaşamı tehdit eden bir 
+kalp rahatsızlığı geliştirirse, ücretlerinin 
+ne kadar ucuz olduğuna göre bir 
+kardiyolog seçmezsiniz,
+Durumunuz biraz düzelirse daha yetenekli bir doktora geçeceğinizi 
+unutmayın.
+Yatırımcılar, finansal televizyon kanalları, yoğun trafiğe sahip finansal web 
+siteleri ve İnternet sohbet odaları gibi çok sayıda kaynaktan gelen bir piyasa 
+bilgisi bombardımanına tutuluyor. Bu bilgi patlaması, yatırımcılara birçok 
+saygın teknik analist, danışman ve para yöneticisinin araştırmalarına ve 
+görüşlerine benzeri görülmemiş bir erişim sağlarken, aynı zamanda 
+yatırımcıları siber uzayda piyasa gurusu gibi davranan şarlatanlar tarafından 
+yanlış bilgi ve "dezenformasyon"un giderek daha da kurnaz ve aldatıcı 
+kullanımına maruz bırakıyor.
+40 Ticari Sırlar
+
+
+=== PDF PAGE 31 ===
+Tüm bu bilgilerin yaygınlığı ve bunlara erişimin kolaylığı, günümüzün 
+tüccar neslini sürü davranışına yatkın hale getiriyor. Bu sürü zihniyeti, 
+endüstri kayıp istatistiklerine katkıda bulunan "düşünce bulaşması" 
+olarak adlandırılan psikolojik bir fenomene yol açıyor.
+Örneğin vadeli işlem tacirleri söz konusu olduğunda, %95'ten 
+fazlasının paralarını kaybettiği bildiriliyor. Ticari havayolu 
+endüstrisinin de benzer bir ölüm kaydı olsaydı, aklı başında hiç 
+kimse uçmazdı ve Amtrak®Ülke çapında seyahat etmenin en güvenli 
+ve rahat yolu olarak kabul edilir.
+Finans piyasalarında başarılı olmak için, ticaretinizi bir hobiymiş gibi 
+hafife alamazsınız. Bunu bir iş gibi ele almalısınız ve bu da başarılı olmak 
+için zaman ve para harcamanız gerektiği anlamına gelir. Ödevini yap ve 
+en baştan en iyi analiz araçlarını edin ya da ticaretle uğraşma ve bunun 
+yerine Las Vegas'a bir seyahat yap. Çok daha fazla eğlenecek ve çok 
+daha az sıkıntı çekeceksin.
+Tüccarların At Gözlüğünü Çıkarması Gerekiyor
+Acemi yatırımcılar bile dünya finans piyasalarının birbirine bağlı 
+olduğunu kabul ediyor ve piyasalar arası dinamiklerin bireysel 
+piyasaların trend yönünü belirlemede önemli faktörler olduğunu 
+kabul ediyor. Ancak, özellikle vadeli işlem ve hisse senedi 
+piyasalarına son birkaç yıldır yeni giren ve bilhassa sermayesi sınırlı 
+olan yatırımcıların büyük bir yüzdesi hala piyasalar arası analiz 
+konusunda bilgisiz veya bunu işlemlerine nasıl dahil edeceklerini 
+bilmiyor.
+Bu tüccarlar her gün piyasaların nasıl birbirine bağlı olduğunu ve 
+birbirlerini nasıl etkilediğini duyar ve okurlar, ancak bağlantıyı kendileri nasıl 
+kuracaklarını gerçekten bilmezler. Bu yüzden, kafalarını kuma gömmüş deve 
+kuşları gibi, çok geç olana kadar tek piyasa analiz yöntemlerine ve gecikmeli 
+göstergelere bağlı kalırlar.
+Kısıtlayıcı teknik analiz gözlüklerini takmaya devam ediyorlar, 
+sanki her piyasa tamamen izole bir şekilde işlem görüyormuş gibi, 
+dikkatlerini aynı anda yalnızca bir piyasaya odaklamaktan 
+memnunlar. Bu, gerçekte ne olduğuna dair eksik bir algıya ve daha 
+da önemlisi,gerçekleşmek üzere— işlem yaptıkları piyasalarda.
+Piyasalar dalgalı olduğunda veya ani bir trend tersine döndüğünde birçok 
+tüccarın korkmuş tavşanlar gibi siper almasına şaşmamalı. Eğer bu
+Teknik Analizle Trend Tahmini 41
+
+
+=== PDF PAGE 32 ===
+Analizinizi şu anda nasıl gerçekleştirdiğinize bakılırsa, işlem 
+kararlarınızı piyasalar arası bir "boşlukta" veriyorsunuz. Bu sadece 
+başarısızlığa yol açabilir. Çalışmak için nispeten küçük bir hesabınız 
+varsa, sermayeniz tükenmeden önce çok az hata payına sahip 
+olduğunuz için durumunuz daha da tehlikelidir.
+Kör Adamlar ve Fil
+"Altı Kör Adam ve Fil" benzetmesi bana tek pazar analizinin 
+sınırlamalarını hatırlatıyor. Adamların her biri, ne olduğunu 
+belirleme umuduyla keşfettikleri bir nesnenin bir kısmına 
+dokundu. İşte bulduklarını nasıl tanımladıkları:
+İlk kör adam bunun bir tür mızrak 
+olduğunu iddia etti. Keskin, sert, kaba ve 
+sağlamdı.
+İkinci kör adam bunun bir tür ip veya 
+kırbaç olduğu sonucuna vardı.
+Üçüncü kör adam, sert bir dokusu ve çok 
+sert yapısı nedeniyle bunun bir tür duvar 
+olduğunu düşündü.
+Dördüncü kör adam bir tür hayvan 
+bulduklarına karar verdi; büyük ihtimalle 
+büyük bir yılandı, çünkü uzundu, kolay 
+bükülüyordu ve tuhaf bir dokusu vardı.
+Beşinci kör adam bir tür bitki bulduklarını 
+düşündü. Dokusu ve boyutu nedeniyle 
+büyük bir yaprak gibi hissettiriyordu.
+Altıncı kör adam, diğer adamlardan 
+birinden bu nesnenin bir yaprağa 
+benzediğini duyduğundan, bir kütük 
+ya da ağaç dalı bulduklarına ikna 
+olmuştu.
+42 Ticari Sırlar
+
+
+=== PDF PAGE 33 ===
+Hepsi yanılıyordu. Her biri bir 
+filin sadece küçük bir kısmına 
+dokunmuş ve sınırlı 
+gözlemlerine dayanarak yanlış 
+sonuçlar çıkarmışlardı. Finans 
+piyasaları da farklı değil. Bu bir 
+ticaret olsaydı, kaybedilen bir 
+ticaret olurdu! Her bir piyasanın 
+analizi hala önemli olsa da, artık 
+yeterli değil çünkü bütün resmi 
+hesaba katmıyor.
+Finans piyasalarının küresel entegrasyonu finans sektörü boyunca 
+genişlemeye devam ettikçe, analizlerini tek bir piyasanın geçmiş 
+fiyatlarıyla sınırlayan (veya yalnızca öznel grafik desen analizi veya 
+trend çizgileri gibi doğrusal tahmin yöntemlerine güvenen) 
+yatırımcılar, bir piyasanın gelecekteki trend yönüne ilişkin ipuçları 
+için ciddi bir rekabet dezavantajına sahip olacaklardır. Bu yatırımcılar 
+şüphesiz ki işlem hesaplarının azaldığını göreceklerdir, işlem 
+stratejilerine piyasalar arası analizi dahil eden bilgili yatırımcılar ise 
+önemli miktarda servet biriktirme konumunda olacaklardır.
+Bir sonraki bölümde, piyasalar arası analizi daha detaylı ele alacağım ve 
+bundan nasıl kazanç sağlayabileceğinizi göstereceğim.
+Teknik Analizle Trend Tahmini 43
+
+
+=== PDF PAGE 34 ===
+Bölüm 3
+PİYASALARARASI ANALİZ
+Ticaret Fırsatlarını Yakalamak
+Küçülen Bir Dünyada
+O
+Son birkaç on yılda, finansal piyasaların daha az oynak olduğu 
+ve birbirlerinden bağımsız olarak işlem görme eğiliminde 
+olduğu zamanlarda, tek pazar analiz yöntemleri ana yöntemdi.
+teknik analizin devamı ve haklı olarak da öyle. Ancak, bu 
+noktada, her bir bireysel piyasanın içsel analizine odaklanan 
+(endişelenmese bile) dar bir piyasa karakterizasyonu çok 
+sınırlıdır. Tüccarların, her bir piyasayı etkileyen dış faktörleri 
+hesaba katmak için bakış açılarını genişletmeleri gerekir.
+İşte basit bir benzetme. Kendinizi, bir yaz akşamı alacakaranlıktan 
+hemen önce New York City'den Washington, DC'ye özel uçağınızla 
+uçmaya hazırlanan lisanslı bir pilot olarak hayal edin. Uçuş öncesi 
+kontrol listenizdeki her şey, uçağın tümdahiliişletim sistemleri görsel 
+yakıt ve yağ kontrolleri, kontrol hareketleri, altimetre, pusulalar, 
+kanatlar, şarjörler ve motor çalışması dahil olmak üzere düzgün 
+çalışıyor. Ancak, kritik bir konu hakkında bilgi almayı ihmal ediyorsunuz
+harici faktör: uçuş hizmeti, uçuş esnasında hava durumu brifingi.
+Aslında, uçağınızın uçacağı dış çevre bağlamını görmezden 
+gelerek, hava koşullarının elverişli olacağını veya uçuşunuzu 
+olumsuz etkilemeyeceğini dolaylı olarak varsayıyorsunuz. Bu, hava 
+koşullarının böyle bir uçuş için elverişsiz olduğu ortaya çıkarsa, "sert 
+iniş" (kasıtlı bir kelime oyunu değil) anlamına gelebilir.
+Hazine bonoları, ham petrol, Nasdaq-100 Endeksi veya Japon Yeni ile işlem 
+yapmak, bu bireysel piyasaları etkileyen daha geniş piyasalar arası güçleri 
+göz ardı ederseniz, herhangi bir fark yaratır mı?
+Teknik Analizle Trend Tahmini 45
+
+
+=== PDF PAGE 35 ===
+"Bilmediğin şey sana zarar veremez" klişesi yanlıştır. Uçak pilotluğu 
+veya vadeli işlemler veya hisse senetleri ticareti söz konusu olduğunda 
+cehalet mutluluk değildir. Size alakalı bilgiler veren doğru araçlara 
+sahipseniz, hesaplanmış kararlar alabilirsiniz; sahip değilseniz, sadece 
+kumar oynuyorsunuzdur, ya hayatınızla ya da zor kazandığınız paranızla.
+Elbette, her bir piyasanın davranışını analiz etmek değerlidir. Ben hala 
+işlemlerimde çok fazla bunu yapıyorum. Başarısız çift tepeler, kırılmış 
+trend çizgileri ve fiyatların 50 günlük veya 200 günlük hareketli 
+ortalamalarının üstüne veya altına düşmesi, piyasa yönünün hala yararlı 
+göstergeleridir, bunun tek nedeni çok sayıda yatırımcı tarafından takip 
+edilmeleri ve kitle psikolojisi aracılığıyla hareket edilmeleridir. Ancak, 
+sadece her bir piyasaya tek başına bakmak yeterli değildir.
+Hareketli ortalamalar ve grafik desen oluşumları gibi popüler tek 
+pazar teknik analiz göstergeleri şunlardır:gecikmeli göstergeler
+hangi bakışgeriye dönük olaraktekrar eden kalıpları belirleme 
+çabasıyla bireysel bir pazarın geçmiş verilerine bakılır ve bu kalıplar 
+daha sonra geleceğe yansıtılabilir. Bu tür bir analiz aslında pazarın 
+nerede olduğuna bakmaya vetahmin etmekNereye gidiyor.
+Teknik analizin amacı trend belirleme ve tahminleme 
+olduğundan, bu hedefe en iyi şekilde aşağıdakilerle çalışarak 
+ulaşılabileceği mantıklıdır:öncü göstergelerObeklemektrend 
+yönündeki değişimler.
+Piyasa yönünü tahmin etmeyi tercih ederimileriye dönükGünümüzün birbirine 
+bağımlı finansal piyasalarının karakterini ve doğasını yakalayan bir şekilde. Bu, 
+mevcut bir eğilimin devam edip etmeyeceği veya yön değiştirip değiştirmeyeceği 
+konusunda önceden uyarıda bulunan öncü göstergelerden oluşan piyasalar arası 
+analiz araçları kullanılarak gerçekleştirilebilir. Bu, ticaretin tahmin işini ortadan 
+kaldırır.
+Hisse Senedi ve Emtia Piyasalarında 
+Piyasalar Arası Analiz
+Piyasalar arası analizin kökeni hem hisse senedi hem de emtia 
+piyasalarındadır. Hisse senedi piyasalarındaki geleneksel teknik analiz 
+tarihsel olarak bireysel hisse senetleri, sektörler ve geniş piyasa 
+endeksleri arasındaki ilişkilere bakmıştır.
+Ayrıca, dalgalanan faiz oranlarının, enflasyonun ve faiz dışı büyümenin etkileri göz 
+önüne alındığında, borç ve hisse senedi piyasaları arasında karşılaştırmalar yapılmıştır.
+46 Ticari Sırlar
+
+
+=== PDF PAGE 36 ===
+hisse senetlerinin piyasa yönünü belirlemede artan bir şekilde 
+önemli bir rol oynamıştır. Daha yakın zamanda, dünya çapında 
+çeşitli hisse senedi piyasalarını temsil eden geniş piyasa 
+endeksleri arasında karşılaştırmalar yapılmıştır.
+Hisse senedi piyasalarında piyasalar arası analiz aşağıdaki 
+karşılaştırmaları içerir:
+• Yurtiçi geniş piyasa endeksleri birbirine göre.
+• Piyasa sektörlerinden geniş piyasa endekslerine.
+• Bireysel hisse senetlerinden geniş piyasa endekslerine.
+• Bir sektör içerisindeki bireysel hisse senetlerinin birbirlerine olan oranı.
+• Fiyat, zaman ve hacmin birbirleriyle ilişkisi.
+• Geniş piyasa endekslerinin performansına kıyasla yükseliş/
+düşüş çizgisi.
+• Şekil 3-1'de gösterildiği gibi, faiz oranlarındaki hareketlerin hisse senedi 
+endekslerindeki hareketlere etkisi, örneğin 10 yıllık Hazine bonoları ile S&P 
+500 Endeksi arasındaki ilişki.
+ŞEKİL 3-1. BORÇ VE SERMAYE PİYASALARI BİRBİRİNİ ETKİLER
+10 yıllık Hazine bonoları
+S&P 500 Endeksi
+Karşılaştırma tablosu 10 yıllık Hazine bonoları ile S&P 500 Endeksi arasındaki fiyat 
+ilişkisini incelemektedir.
+Kaynak: VantagePoint Intermarket Analiz Yazılımı
+Teknik Analizle Trend Tahmini 47
+
+
+=== PDF PAGE 37 ===
+• Nikkei 225 ve FTSE 100 gibi hisse senedi endeksleri, Dow gibi ABD 
+hisse senedi endeksleri gibi diğer ülkelerdeki benzer piyasa 
+endeksleriyle karşılaştırılırS.M.veya Nasdaq.
+Şekil 3-2, Nikkei ve Dow Jones Endüstri Ortalaması'nın karşılaştırmalı 
+grafiğini sunarak, bu iki küresel piyasanın birbirlerine göre nasıl 
+davrandığını göstermektedir.
+Doğaları gereği, emtia piyasaları tarihsel olarak piyasalar arası 
+analize uygundur. Belirli bir emtia üzerinde hem nakit piyasası hem 
+de çok sayıda vadeli işlem sözleşmesi ayı aynı anda mevcut 
+olduğundan ve tahıllar, etler, dövizler, faiz oranları, hisse senedi 
+endeksleri, metaller ve enerjiler gibi yakından ilişkili emtia 
+kompleksleri bulunduğundan, emtia içi ve emtialar arası spread 
+analizi onlarca yıldır emtia piyasalarının teknik analizinin ayrılmaz bir 
+parçası olmuştur.
+İlgili araçların vadeli işlem piyasaları arasındaki spreadler, piyasa yönüne 
+ilişkin ek bir içgörü elde etmek için incelenir. Bunlar şunları içerir:
+• 10 yıllık Hazine bonoları ile 30 yıllık Hazine tahvilleri arasındaki 
+“NOB” (Notlar Üzerinden Tahviller) spreadi.
+Şekil 3-2. FARKLI ÜLKELERDEKİ HİSSE SENETLERİ ENDEKSLERİ BİRBİRİNİ ETKİLER
+Nikkei
+Dow Jones
+Sanayi Ortalaması
+Karşılaştırma tablosu, Japonya'daki Nikkei ile ABD'deki Dow Jones Endüstri 
+Ortalaması arasındaki fiyat ilişkisini inceliyor
+Kaynak: VantagePoint Intermarket Analiz Yazılımı
+48 Ticari Sırlar
+
+
+=== PDF PAGE 38 ===
+• 90 günlük Hazine bonoları ile 90 günlük Eurodolar arasındaki 
+“TED” (Tibbonolar-Eurodolar) spreadi.
+• Tahviller ve Köprü/CRB arasındaki spreadler®Vadeli İşlem Fiyat Endeksi, ABD 
+Dolar Endeksi, altın ve ham petrol bunlardan birkaçı.
+Vadeli işlemler ile hisse senedi piyasaları arasındaki piyasalar arası 
+karşılaştırmalar, piyasa trendi yönündeki yaklaşan değişikliklere ilişkin içgörü 
+sağlayan kısa vadeli onay veya sapmayı vurgular. Vadeli işlemler, hisse 
+senedi piyasalarının erken bir barometresi olarak izlenebilir. S&P 500 
+Endeksi, Hazine tahvilleri ve bonoları ile ham petrol, Bridge/CRB Vadeli İşlem 
+Fiyat Endeksi ve ABD Doları Endeksi gibi diğer finansal vadeli işlem piyasaları 
+üzerindeki vadeli işlemler giderek daha fazla hisse senedi piyasaları üzerinde 
+güçlü etkilere sahip olarak görülüyor.
+Örneğin, çeşitli emtialar için gelecekte daha yüksek enflasyon olacağını 
+gösteren daha yüksek Bridge/CRB Vadeli İşlem Fiyat Endeksi fiyatları, Hazine 
+bonolarının fiyatlarını düşürme (ve faiz oranlarını yükseltme) eğilimindedir; 
+bu durum, tarım, bankacılık, enerji, metaller ve sanayi sektörleri de dahil 
+olmak üzere bu emtialara bağlı hisse senedi piyasaları için de olumsuzdur.
+Küresel olarak ilişkili piyasalar, çeşitli küresel ve yerel ekonomik 
+değerlendirmelere yanıt olarak zaman içinde birbirlerinden onaylanmaları 
+veya sapmaları açısından analiz edilebilir. Örneğin, faiz oranlarındaki 
+değişiklikler (ABD Federal Rezerv Kurulu, Avrupa Merkez Bankası veya 
+Japonya Bankası tarafından etkilenir), para birimi devalüasyonları veya ham 
+petrol fiyatlarındaki ani artışlar, dünya çapında vadeli işlemler ve hisse senedi 
+piyasaları üzerinde belirgin bir etkiye sahiptir.
+Farklı ülkelerdeki benzer borç araçları arasındaki piyasalar arası analiz, 
+faiz oranlarındaki gelecekteki küresel eğilimler hakkında da değerli 
+ipuçları sunar. Örneğin, çeşitli ülkelerden gelen devlet tahvilleri ve 
+tahvilleri içeren spreadler, faiz oranlarının küresel arbitrajı uluslararası 
+borç piyasalarını senkronize tutma eğiliminde olduğundan, birbirlerine 
+göre incelenebilir.
+Hiçbir Pazar Küreselleşmeden Muaf Değildir
+Hem yurtiçi hem de uluslararası her pazarın artık her diğer pazar 
+üzerinde bir etkisi var gibi görünüyor, ne kadar uzak ve ilgisiz 
+görünürse görünsün. Herhangi bir pazarın görünümünün kapsamlı 
+bir analizi artık ona piyasalar arası bir bağlamda bakılmadan eksiktir.
+Teknik Analizle Trend Tahmini 49
+
+
+=== PDF PAGE 39 ===
+Şekil 3-3, VantagePoint'in 10 yıllık Hazine bonoları programı tarafından 
+incelenen dokuz ilgili pazarı göstermektedir. Yazılım, firmamın 
+VantagePoint'in öngörü doğruluğunu artırma yönündeki devam eden 
+araştırma çabasının bir parçası olarak geliştirilmeye devam ettikçe, ilgili 
+pazarlar değişecek ve daha fazlası eklenecektir.
+Piyasalar Neden Birleşir veya Ayrışır
+Yüzeyde piyasaları birbirine bağlıyormuş gibi görünen 
+doğrudan ve ters ilişkiler olmasına rağmen, aynı anda iki piyasa 
+incelendiğinde bu bağlantılar ne sabit ne de doğrusal 
+niteliktedir. Bunun yerine dinamiktirler ve değişen güçlere ve 
+zamanla değişen farklı öncü ve geri adımlara sahiptirler.
+Günümüzde çevrimiçi günlük ticarete (yirmi dakikanın uzun vadeli olduğu 
+düşünülen) artan vurgu ile acemi yatırımcılar, ilgili piyasaların bir piyasa 
+üzerindeki etkilerinin anında olmasını bekliyor. Yatırımcılar, borsa piyasasının 
+bundan sonra ne yapacağına dair ipuçları almak için tek yapmaları gerekenin 
+herhangi bir anda Hazine tahvillerinin veya bonolarının ne yaptığını incelemek 
+olduğunu düşünüyor. Ancak, finans piyasaları böyle çalışmıyor. Bazen neden ve 
+sonuç sırası tersine dönüyor, hisse senetleri tahvillere ve bonolara öncülük ediyor 
+gibi görünüyor, diğer zamanlarda ise Hazine tahvilleri hisse senetlerine öncülük 
+ediyor gibi görünüyor. Tavuk ve yumurta ikilemi gibi, hangisinin önce geldiğini 
+ayırt etmek çok zor.
+Şekil 3-3. FİNANSAL PİYASALARIN HEPSİ BİRBİRİYLE BAĞLANTILIDIR
+Eurodolar 5 Yıllık Hazine Bonoları Köprü/CRB Endeksi
+ABD Dolar Endeksi Comex Altın
+10 Yıllık Hazine Bonoları
+S&P 500 Endeksi NY Hafif Ham Petrol
+Hazine tahvilleri İsviçre Frangı
+VantagePoint'in 10 yıllık Hazine bonosu programı, gizli kalıpları ve ilişkileri 
+bulmak için dokuz ilgili piyasayı inceliyor.
+Kaynak: Market Technologies Corporation
+50 Ticari Sırlar
+
+
+=== PDF PAGE 40 ===
+Piyasalar Arası Dinamikler 
+Dikkate Alınmalı
+Yatırımcılar hâlâ her piyasanın kendi iç analizleriyle aşırı 
+meşgul olup, finans piyasalarının birbirine olan bağımlılıklarını ve 
+birbirleri üzerindeki etkilerini göz ardı ediyorlar; bu etkiler, 
+piyasalar giderek küreselleştikçe daha da belirginleşti.
+Ayrıca, etkili tahmin yapabilmek için gerekli olan piyasa 
+verilerindeki tekrarlayan kalıpların öznel (nitel) olarak değil, nesnel 
+(niceliksel) olarak belirlenmesinde de çok az ilerleme kaydedilmiştir.
+Artık yatırımcıların küresel finans piyasalarıyla başa çıkabilmek için 
+piyasalar arası bir bakış açısı benimsemeleri ve piyasalar arası analizleri işlem 
+stratejilerine dahil etmeleri zorunludur.gerçekten var oldukları gibi.
+Satürn gezegenine ucuz, düşük güçlü bir teleskopla bakarsanız, 
+onu çevreleyen halkaları göremezsiniz. Halkalar oradadır, ancak 
+kullandığınız araç onları ayırt etme yeteneğine sahip değildir. Aynısı 
+piyasalara nasıl baktığınız için de geçerlidir. Bağlantılar oradayken, 
+onları göremeyebilirsiniz— ancak diğer tüccarlar bunu yapıyor.
+İlgili piyasalar arasındaki bağlantıları işlem stratejilerine dahil etmeyi 
+başaramayan birçok tüccar, altta yatan piyasalar arası güçlerden habersiz 
+kalıyor veyapazar sinerjisigünümüzün küresel piyasalarındaki fiyat 
+hareketlerini giderek daha fazla etkileyen bir durumdur. Şüphesiz, bu dar 
+analitik bakış açısı hem deneyimli hem de acemi yatırımcılar arasında 
+finansal ölüm oranına katkıda bulunmaktadır.
+Yatırımcıların piyasa yönünün kısa vadeli doğru bir tahminine 
+sahip olmanın, alım satımlarında kendilerine hiçbir faydası 
+olmayacağını söylediklerini duyduğumda bunun saçma olduğunu 
+düşünüyorum. Bu yatırımcılar teknik analizin temel amacını açıkça 
+anlamıyorlar. Her bir pazarda geriye dönük sayı hesaplamalarına o 
+kadar kapılmışlar ki, ağaçlardan ormanı göremiyorlar.
+Piyasalar Arası Analize Yönelik İlk Girişimler Yetersiz Kaldı
+Finansal piyasalar arasındaki dinamik etkileşimlerin karmaşıklığı 
+nedeniyle, ortalama bir yatırımcının temel düzeyde bile piyasalar 
+arası analiz yapması zordur. Yine de, teknik analistler bunu 
+yapmanın çeşitli yollarını tasarladılar. İşte popüler olan ancak benim
+Teknik Analizle Trend Tahmini 51
+
+
+=== PDF PAGE 41 ===
+Görüşler bir nebze etkisiz olsa da, analistlerin ve yatırımcıların ilgili 
+piyasaların etkilerini ölçmeye çalıştıkları yollar:
+• İki piyasadaki fiyat grafikleri birbirleriyle karşılaştırılır ve iki 
+piyasanın fiyatları arasındaki dakika bazında, saatlik, günlük, 
+haftalık veya aylık bazdaki fark hesaplanır ve gelecekteki piyasa 
+yönünün bir göstergesi olarak grafiksel veya sayısal olarak 
+sunulur.
+• İki piyasayı temsil eden fiyatların oranı hesaplanır ve grafiksel veya 
+sayısal olarak sunularak, iki piyasanın geçmişte birbirlerine göre 
+nasıl davrandığı gösterilir ve gelecekte ne yapmaları gerektiğini 
+tahmin etmeye yardımcı olunur.
+• İki pazar üzerinde istatistiksel doğrusal korelasyon analizi 
+yapılır. Bu yaklaşım, bir pazarın fiyatlarının ikinci pazarın 
+fiyatlarına göre ne ölçüde hareket ettiğini ölçer. Korelasyonu 
+ölçmek için kullanılan matematiksel göstergeye istatistiksel 
+korelasyon katsayısı denir.
+İlgili Piyasaları Takip Etmek Kazançlıdır
+Piyasalar arası bir bakış açısıyla araştırılacak piyasa sayısı arttıkça, 
+daha önce belirtilen yöntemlerden herhangi birini kullanmanın etkinliği 
+hızla azalır. Piyasalar arası ilişkileri analiz etmeye yönelik bu yöntemler, 
+aynı anda yalnızca iki piyasanın fiyat karşılaştırmalarıyla sınırlıdır ve 
+genellikle bir piyasanın diğerine olan etkilerinin herhangi bir öncü veya 
+gecikme olmadan gerçekleştiğini yanlış bir şekilde varsayar. Ek olarak, 
+bu tür yöntemler etkilerin bir tür bire bir nedensel ilişki içinde doğrusal 
+nitelikte olduğunu varsayar. Bu da küresel finans piyasalarının işleyiş 
+biçimi açısından gerçekçi değildir.
+Yurt içi ve uluslararası ekonomik faaliyet ile finansal piyasalar 
+arasında ve ilgili yurt içi ve küresel finansal piyasalar arasında 
+öncüler ve geri kalanlar vardır. Bazen etkiler, enflasyonist baskılar 
+veya küresel ekonomide işe yaraması zaman alan merkez bankası 
+para politikalarının uygulanması durumunda olduğu gibi günler, 
+haftalar veya aylar boyunca fark edilemeyebilir.
+Bir hedef pazar üzerinde aynı anda en az beş veya on ilişkili 
+pazarın çoklu etkilerini incelemek için doğrusal korelasyon analizi ve 
+öznel grafik desen analizi gibi yöntemlerin tahmin araçları olarak 
+yetersiz olduğu kısa sürede ortaya çıkar.
+52 Ticari Sırlar
+
+
+=== PDF PAGE 42 ===
+Çoğu yatırımcı için aynı anda iki veya üçten fazla ilgili piyasayı 
+takip etmek ve birbirlerini nasıl etkilediklerini anlamak çok zor ve 
+zaman alıcıdır. Aynı anda iki veya üç grafik "göz kararı" alınabilir 
+veya aynı anda iki piyasa arasında doğrusal bir korelasyon 
+hesaplanabilir. Ancak bu yaklaşımlaryakalamayı başaramamak,
+eş zamanlı birleşik etkilerBelirli bir hedef pazardaki çok sayıda 
+ilgili pazarın bir araya getirilmesi.
+Tam Görüş Alanı Kritik Önem Taşıyor
+Tek piyasa analizi ile piyasalar arası analiz arasındaki farkı anlamak 
+için, elinizi gözünüzde gezdirip odanın içinde dolaşmayı 
+deneyebilirsiniz. Sadece bir gözünüz açıkken, görüş alanınız sınırlıdır 
+ve çevrenizi görselleştirme yeteneğiniz ciddi şekilde kısıtlanır. Çoğu 
+yatırımcı, her bir piyasaya izole bir şekilde dar bir şekilde 
+odaklanarak işlem kararlarını bu şekilde verir. Ardından elinizi indirin 
+ve her iki gözünüz açık bir şekilde odanın içinde dolaşın. Artık tam 
+görüş alanınızdan gerçekten faydalanıyorsunuz. İşlemlerinizi her iki 
+gözünüz de açık bir şekilde aynı şekilde ele alırsanız bir avantaj elde 
+edeceğinizi düşünmüyor musunuz?
+İşte intermarket analizinin işlem kararlarınıza getirdiği ek 
+derinliği görselleştirmenin farklı bir yolu. Okyanus gemisinin 
+kaptanı örneğini düşününBilgili Tüccar, geçen yüzyılın başlarında 
+Kuzey Atlantik'in tehlikeli sularında seyrediyordu. Hedefine en 
+güvenli yolu seçmeye çalışırken, tehlikeler için ufku taradı; rüzgar 
+hızına, hava sıcaklığına, dalga sıklığına ve yüksekliğine dikkat etti.
+Uzakta, büyük bir yüzen buz parçası gördü. Hızını ve yönünü 
+zaman içinde dikkatlice çizerek, hareketini tahmin etti ve buzun 
+gemisi için bir tehdit olmadığı sonucuna vardı. Ancak o gece, 
+Kaptan yüksek bir çarpma sesiyle uyandı. Buz dağı gemisine 
+çarpmıştı. Kaptan kafası karışmış, şok olmuş ve öfkeliydi.
+Bunun olacağını tahmin etmemişti. Koşulları titizlikle 
+incelerkenyüzeyde, kritik koşullardan habersizdiyüzeyin altında. 
+Devasa buzdağının büyük kısmı görüş alanından gizlenmişti; 
+ısınan su sıcaklıkları buzu eritmiş, hızını artırmıştı. Su altı 
+akıntılarındaki değişiklikler, yönünü yüzey rüzgarlarından çok 
+daha fazla etkilemişti. O zamanlar (sonar, kızılötesi ve uydu 
+görüntüleme henüz mevcut değildi), Kaptan'ın buzdağının 
+yönünü tahmin edebilecek araçları yoktu.
+Teknik Analizle Trend Tahmini 53
+
+
+=== PDF PAGE 43 ===
+Benzer bir durum, piyasa yönünü belirlemek için kendilerini tek piyasa 
+analizi ve gecikmeli göstergelerle sınırlayan günümüz tüccarları için de 
+geçerlidir. Yaptıkları yanlış değil; basitçe yetersizdir. Piyasalar arası analiz 
+araçları, günümüz tüccarlarına kararlarında sonarın günümüz gemi 
+kaptanlarına sağladığı avantajı sağlar.
+Ancak, bebeği banyo suyuyla birlikte atmanıza gerek yok. Tek 
+pazar teknik analizi yapmayı bırakmanızı veya onlarca yıldır 
+teknik analizde merkezi bir rol oynayan trend takip yöntemlerini 
+kullanmayı bırakmanızı önermiyorum.
+Birçok popüler tek piyasa teknik göstergesi, iç piyasa davranışını 
+analiz etmek için bir dereceye kadar faydalıdır. Ancak, her piyasanın üç 
+boyutlu bir görünümünü elde etmek için piyasalar arası analizle birlikte 
+kullanıldıklarında en etkilidirler. Bu, "ya o ya da bu" durumu değildir. 
+Piyasalar arası analiz, tek piyasa göstergeleri için bir doğrulama filtresi 
+olarak kullanılmalıdır. Bu şekilde, marjinal işlemler filtrelenebilir ve 
+önlenebilir.
+Bu ayrım, Şekil 3-4'ün sol tarafındaki tek pazar analizini temsil 
+eden dikdörtgen ile sağ taraftaki piyasalar arası analizi temsil 
+eden üç boyutlu küpün karşılaştırılmasıyla görselleştirilebilir.
+Şekil 3-4. INTERMARKET ANALİZİ ANALİZİNİZE DAHA DERİNLİK KAZANDIRIR
+Tek pazar analizi yalnızca her pazara tek başına bakar. Pazarlar arası analiz, 
+ilgili pazarların etkilerini dikkate alarak üçüncü bir boyut ekler.
+Kaynak: Market Technologies Corporation
+54 Ticari Sırlar
+
+
+=== PDF PAGE 44 ===
+Piyasalar arası analiz, tek piyasa analizinin güçlü yönlerine dayanarak 
+analitik çerçeveye başka bir boyut ekleyerek her piyasanın davranışının 
+hem kendi içinde hem de daha geniş bir piyasalar arası bağlamda analiz 
+edilebilmesini sağlar.
+Şekil 3-5'te, pratik ticaret açısından, piyasalar arası analiz ile tek 
+piyasa analizi arasındaki bazı farklılıkları özetledim.
+Şekil 3-5 PİYASALAR ARASI ANALİZ, TEK PİYASA ANALİZİNİN KAPSAMI 
+GENİŞLETİLİYOR VE BİRÇOK SINIRLAMASININ ÜSTESİNDEN GELİYOR
+Trend Tahmin Göstergeleriyle 
+Piyasalar Arası Analiz
+Tek Pazar Analizi
+Trend Takip Göstergeleri
+- Birden fazla pazara aynı anda 
+bakar. Hedef pazar üzerindeki 
+etkilerini analiz eder.
+- Bir seferde bir pazara bakar.
+- Piyasaya yön verir, oluşacak 
+işlem fırsatlarını anında 
+belirler.
+- Piyasanın gerisinde kalarak yatırımcıların yeni 
+trendlerin başlangıcını kaçırmasına neden olur.
+- Yatırımcılar trend değişirken işlemlere 
+girebilir veya işlemlerden çıkabilirler.
+- İşlemler genellikle trendin yön 
+değiştirmesinden birkaç gün sonra 
+tetiklenir.
+- Trendler gelişirken belirlenir, böylece 
+yatırımcılar her hareketin daha büyük 
+bir kısmını yakalarlar.
+- Genellikle karın büyük bir kısmını geri 
+verir, bazen de karlı bir işlemi zararla 
+sonuçlanan bir işleme dönüştürür.
+- Durdurma emirleri, ilgili piyasaların 
+işlem gören piyasayı nasıl etkilediğine 
+bağlı olarak yerleştirilir.
+- Durdurma yerleştirmeleri, genellikle 
+trend çizgileri gibi sık kullanılan 
+göstergelere dayanarak işlem gören 
+piyasaya bakılarak belirlenir; bu çizgiler, 
+durdurmaları birbirine yakın kümeleme 
+eğilimindedir.
+- Resmin tamamı dikkate 
+alındığı için, sadece küçük bir 
+parçası değil, yanlış işlem 
+sinyalleri en aza indirilir.
+- Yanal piyasalarda yanlış sinyaller 
+yaygındır ve bu da sıklıkla kaybedilen 
+işlemlere neden olur.
+Piyasalar arası analiz ile tek piyasa analizi arasındaki farklar, piyasalar arası 
+analizi işlem cephanenize eklemenin önemini vurgular.
+Kaynak: Market Technologies Corporation
+Teknik Analizle Trend Tahmini 55
+
+
+=== PDF PAGE 45 ===
+Piyasalar Arası Analiz: Doğru 
+Zamanda Doğru Yerde
+1991'den beri VantagePoint'te uyguladığım gibi, piyasalar arası 
+analizi uygulamak için resmi, nicel bir metodoloji, geleneksel teknik 
+analizden radikal bir sapma veya onu baltalama veya değiştirme 
+girişimi değildir. Bana göre piyasalar arası analiz, günümüzün 
+birbirine bağımlı, oldukça karmaşık ekonomilerinin ve entegre 
+finansal piyasalarının küresel doğası göz önüne alındığında, teknik 
+analizin evriminde sadece bir sonraki mantıksal gelişim aşamasıdır.
+Eğer bir ayak derinliğinde ve bir ayak 
+karelik bir çukur kazmanız gerekiyorsa, 
+bunu bir çay kaşığıyla yapmazsınız. 
+Benzer şekilde, bir fincan kahveyi 
+karıştırmak istiyorsanız, bir kürek 
+kullanmazsınız. İş için doğru aracı 
+kullanmalısınız. Günümüzün piyasaları 
+birbirine bağımlı ve birbirine bağlıdır. Bu, 
+piyasalar arası analiz yapmanız gerektiği 
+anlamına gelir. Küreğe kürek diyelim
+— tek başına tek pazar analizi yeterli 
+değildir, nokta.
+Uygulamanın en 
+iyi yolunu buldum
+piyasalar arası analiz
+sis, sinir ağlarının 
+kullanımıyla gerçekleşir. 
+Onlar mükemmeldir
+tekrarlayan bir durum bulmada
+yüzük desenleri ve
+ilişkiler
+ilgili arasında
+piyasalar ve bir 
+içindeki kalıplar
+tek pazar. Bir kez
+bulundu, bunlar pat-
+sumrular son derece hassas 
+ölçümler yapmak için kullanılır
+oran tahminleri
+piyasa yönü.
+Piyasalar arası analizi uygulamanın en 
+iyi yolunun sinir ağları kullanmak 
+olduğunu buldum. Bunlar, ilgili piyasalar 
+arasındaki tekrar eden kalıpları ve ilişkileri 
+ve tek bir piyasa içindeki kalıpları 
+bulmada mükemmeldir. Bir kez 
+bulunduğunda, bu kalıplar piyasa yönüne 
+dair oldukça doğru tahminler yapmak için 
+kullanılır.
+İlgili piyasaların (özellikle gelecekteki fiyat seviyelerini tahmin 
+etmeye yönelik olan vadeli işlem piyasalarının) etkilerini analiz 
+ederek, piyasa yönündeki yaklaşan değişikliklere ilişkin önemli erken 
+uyarılar, analizlerinin kapsamını her bir piyasayla sınırlayan 
+yatırımcıların grafiklerinde bu değişiklikler görünmeye başlamadan 
+çok önce, piyasalar arası verilerden elde edilebilir.
+Örneğin, VantagePoint kapsamlı piyasa içi verileri kullanarak önümüzdeki 
+iki ve dört gün için piyasa yönünü tahmin ediyor ve öngörüyor.
+56 Ticari Sırlar
+
+
+=== PDF PAGE 46 ===
+"Sinirsel Endeks" göstergesi aracılığıyla, hedef pazarın bir hareket 
+yapması beklenip beklenmediği konusunda uyarıda bulunur.tepeveyaalt
+Önümüzdeki iki gün içinde. Bunların hepsi, Bölüm 6'da tartışacağım sinir 
+ağlarının desen tanıma ve tahmin yetenekleri aracılığıyla otomatik 
+olarak yapılır.
+Kabul edelim, on bir yaşındaki oğlum bile bir çubuk grafiğe bakıp 
+size dün ve son birkaç gün veya haftada borsada neler olduğunu 
+söyleyebilir. Geriye dönüp bakıldığında her şey nettir; ancak yalnızca 
+öngörüye sahip olarak kar edebilirsiniz. Dün veya geçen hafta 
+olanlara dayanarak yarın veya gelecek hafta para kazanamazsınız. 
+Yalnızca yakın gelecekte ne olacağını makul bir doğrulukla tutarlı bir 
+şekilde tahmin edebilirseniz para kazanabilirsiniz.
+Eğer Salı gününüz olsaydıYatırımcının İş Günlüğü®veyaWall Street 
+Dergisi®her pazartesi sabahı kahvenizle birlikte bir gün önceden size 
+sunulur— hızla dünyanın en zengin insanı olabilirsiniz. Neden mi? 
+Çünkü ertesi günün fiyatları hakkında %100 doğru bilgiye sahip 
+olursunuz ve bundan sonra ne bekleyeceğinizi tam olarak bilirsiniz.
+Kesin olan tek şey belirsizliğin kendisidir
+Ne yazık ki, finansal piyasaların %100 doğru tahminlerini yapmak, 
+tahminleri elde etmekten daha mümkün değildir.Wall Street Dergisibir 
+gün önceden. Tahmin, doğası gereği matematiksel olasılıkları içerir, 
+kesinliği değil. Ancak, bir piyasa tahmininin, olasılıkları sizin lehinize 
+çevirmek için mükemmel olması gerekmez.
+Diğer yatırımcılara karşı önemli bir rekabet avantajına sahip olmak için, tek 
+ihtiyacınız olan, sürekli olarak yazı tura atışını yenebilecek güvenilir bir 
+tahmindir. VantagePoint'in kısa vadeli piyasa yönünü tahmin etmedeki 
+yaklaşık %80'lik öngörü doğruluğu, size diğer yatırımcılara göre fazlasıyla 
+avantaj sağlar.
+Yaygın olarak kullanılan teknik göstergeler, piyasalar arası 
+analize yenilikçi yollarla uygulanabilir. Sinir ağlarının hareketli 
+ortalamaların kısa vadeli tahminlerini yaptığı VantagePoint ile 
+bunu başarmada oldukça başarılı oldum.
+Bir sonraki bölümde hareketli ortalamaları ele alacağım ve bunları 
+Vantage-Point'te piyasalar arası analiz ve sinir ağları kullanarak nasıl 
+güçlü bir öncü göstergeye dönüştürdüğümü göstereceğim.
+Teknik Analizle Trend Tahmini 57
+
+
+=== PDF PAGE 47 ===
+Bölüm 4
+BUGÜNKÜ PİYASALAR
+DEĞİŞTİ
+Trend Tahmini Trend Takibinden Neden Daha 
+İyidir ve Yatırımcılar Nasıl Kar Edebilirler
+M
+hareketli ortalamalar, finansal piyasaların trend yönünü belirlemek için 
+kullanılan en popüler teknik göstergelerden biridir. Hareketli 
+ortalamalar, popüler 4-9-18 günlük hareketli ortalama "çapraz geçiş" 
+yaklaşımından, geniş piyasa endekslerinin ve bireysel hisse senetlerinin piyasa 
+trend yönünü değerlendirmek için kullanılan yaygın olarak takip edilen 50 günlük 
+ve 200 günlük basit hareketli ortalamalara kadar çok sayıda tek piyasa trendi takip 
+eden işlem stratejisinin temelini oluşturur.
+Sonraki sayfadaki Şekil 4-1, günlük fiyat grafiğine bindirilmiş 200 
+günlük hareketli ortalamasıyla Dow Jones Endüstriyel Ortalamasını 
+göstermektedir. Bu gösterge, teknisyenler ve tüccarlar tarafından 
+Dow'un trend yönünün bir göstergesi olarak yaygın olarak kullanılır. 
+Dow 200 günlük hareketli ortalamasının üzerine çıktığında, piyasanın 
+yükseliş trendinde olduğu düşünülür. Dow 200 günlük hareketli 
+ortalamasının altına düştüğünde, düşüş eğiliminin piyasaya nüfuz 
+etmesiyle yükseliş trendinin "kırıldığı" düşünülür.
+Hareketli ortalamalar, belirli matematiksel formüllere göre hassas bir 
+şekilde hesaplanır. Bu, hareketli ortalamaları bir piyasanın mevcut trend 
+yönünü belirlemenin ve en olası gelecekteki yönünü tahmin etmenin 
+nesnel bir yolu haline getirir. Bu, baş ve omuz formasyonları, bayraklar, 
+üçgenler ve flamalar vb. gibi tekrar eden desenlerin görsel grafik 
+analizine dayanan trend tanımlamaya yönelik öznel yaklaşımlarla keskin 
+bir tezat oluşturur.
+Teknik Analizle Trend Tahmini 59
+
+
+=== PDF PAGE 48 ===
+Şekil 4-1. 200 GÜNLÜK HAREKETLİ ORTALAMA İLE DOW JONES ENDÜSTRİYEL 
+ORTALAMASININ TRENDİNİ TAKİP ETMEK
+Dow Jones
+Sanayi Ortalaması
+200 günlük taşınma
+ortalama
+200 günlük basit hareketli ortalama, Dow'un trend yönünü gösteren popüler bir trend 
+takip göstergesidir.
+Kaynak: www.bigcharts.com
+Matematiksel olarak, hareketli ortalamalar fiyat hareketindeki 
+dalgalanmaları ve kısa vadeli oynaklığı yumuşatarak piyasa verilerindeki 
+rastgele "gürültüyü" filtreler. Bir fiyat grafiğine hareketli bir ortalamanın 
+grafiksel olarak üst üste bindirilmesi, verilerdeki temel eğilimi 
+görselleştirmeyi kolaylaştırır.
+Hareketli Ortalamalar Geride Kalan Göstergelerdir
+Ancak, geleneksel hareketli ortalamaların çok ciddi bir eksikliği vardır. 
+Bunlar "gecikmeli" bir teknik göstergedir. Bu, hareketli ortalamaların 
+matematiksel yapıları (bir dizi önceki dönem boyunca fiyatların ortalamasını 
+alma) nedeniyle mevcut piyasa fiyatının gerisinde kalma eğiliminde oldukları 
+anlamına gelir. Fiyatın aniden yükselme veya düşme eşiğinde olduğu hızlı 
+hareket eden piyasalarda, bu gecikme etkisi çok belirgin ve maliyetli hale 
+gelebilir.
+Hareketli ortalamanın uzunluğu ne kadar kısaysa, kısa vadeli fiyat 
+dalgalanmalarına karşı o kadar hassas olacaktır. Hareketli ortalamanın uzunluğu 
+ne kadar uzunsa, ani fiyat dalgalanmalarına karşı o kadar az hassas olacaktır. Bu 
+nedenle, kısa hareketli ortalamalar piyasada uzun hareketli ortalamalardan daha 
+az geride kalır, ancak gürültüyü yumuşatma veya filtreleme konusunda uzun 
+hareketli ortalamalardan daha az etkilidir.
+60 Ticari Sırlar
+
+
+=== PDF PAGE 49 ===
+Hareketli ortalamalara dayalı işlemler, piyasa fiyatının gerçekte bir 
+hareket yaptığı noktaya kıyasla piyasaya girmek ve piyasadan çıkmak 
+için genellikle geç kalırlar.tepeveyaaltve ters yönde hareket etmeye 
+başlar.
+Şekil 4-2, ABD Dolar Endeksi'nin günlük fiyatlarının 10 günlük basit 
+hareketli ortalamasıyla karşılaştırıldığı bir grafiği tasvir ediyor. Piyasa 
+zirve yapmadan önce dik fiyat artışı nedeniyle, hareketli ortalama aslında 
+piyasa hareketli ortalamayı yukarıdan aşağıya kesmeden önce düşmeye 
+başlasa bile değer olarak artmaya devam ediyor.
+Fiyat hareketine ve kullanılan hareketli ortalama türüne ve 
+büyüklüğüne bağlı olarak, bu "tepki" gecikmesi, bir sabah 
+uyandığınızda kendinizi kilitli limit vadeli işlem pozisyonunu içeren 
+ani bir trend tersine dönüşünün yanlış tarafında bulmak gibi aşırı 
+koşullar altında finansal olarak yıkıcı olabilir.
+Bugüne kadar hareketli ortalamaların Aşil tendonu olan 
+gecikme etkisi, onlarca yıldır teknik analistler ve yatırımcılar için 
+bir zorluk teşkil ediyor. Kapsamlı araştırmalar, hareketli 
+ortalamaların faydalarını korurken gecikmeyi azaltmanın 
+yollarını bulmaya yöneliktir.
+Şekil 4-2. 10 GÜNLÜK BASİT HAREKETLİ ORTALAMASINA SAHİP ABD DOLARI ENDEKSİ
+Pazar
+zirveye ulaştı
+Burada
+Fiyat
+haçlar
+hareket eden
+ortalama
+ABD Dolar Endeksi'nin günlük fiyatlarını ve 10 günlük basit hareketli ortalamasını gösteren grafik, hareketli 
+ortalamaların piyasanın ne kadar gerisinde kaldığını gösteriyor.
+Kaynak: VantagePoint Intermarket Analiz Yazılımı
+Teknik Analizle Trend Tahmini 61
+
+
+=== PDF PAGE 50 ===
+Bu iki hedefi başarmak için, çok sayıda hareketli ortalama 
+çeşidi tasarlanmıştır. Her birinin kendine özgü matematiksel 
+yapısı, bir piyasanın temel eğilimini belirlemedeki etkinliği ve 
+gecikme etkisinin üstesinden gelme yeteneği vardır. Teknik 
+analistler ve tüccarlar tarafından onlarca yıldır güvenilen en 
+yaygın üç hareketli ortalama türü basit, ağırlıklı ve üstel hareketli 
+ortalamalardır.
+Basit Hareketli Ortalamalar
+Basit hareketli ortalama, seçili bir zaman periyodu boyunca bir fiyat 
+serisinin aritmetik "ortalaması" veya ortalamasıdır. Piyasa zaman içinde 
+ilerledikçe, en eski fiyat hareketli ortalama hesaplamasından çıkarılır ve 
+en son fiyatla değiştirilir. Bu, hareketli ortalamanın "hareket etmesini" 
+sağlar, böylece piyasa fiyatındaki değişikliklerle uyum sağlar. Basit bir 
+hareketli ortalama, her periyodun fiyatına eşit ağırlık verdiği için 
+piyasanın gerisinde kalır. Bu sınırlama, ağırlıklı ve üstel hareketli 
+ortalamaların kullanımını teşvik eden şeydir.
+Ağırlıklı ve Üstel Hareketli Ortalamalar
+Ağırlıklandırılmış hareketli ortalama, yakın fiyatlara daha fazla ağırlık 
+vererek gecikmeyi azaltmaya çalışır ve böylece hareketli ortalamanın 
+mevcut piyasa koşullarına daha hızlı yanıt vermesine olanak tanır. En 
+popüler versiyon doğrusal ağırlıklı hareketli ortalamadır.
+Üstel hareketli ortalama, ağırlıklı hareketli ortalama gibi, son 
+fiyatlara daha fazla ağırlık verirken, diğer açılardan ağırlıklı 
+ortalamadan farklıdır.
+Hareketli Ortalamalar Popülerdir 
+— Ancak Bir Şey Eksiktir
+Teknik analizle ilgili hemen hemen her kitap, teknisyenlerin 
+gecikme etkisini azaltmak için geliştirdikleri çeşitli araçların ayrıntılı 
+açıklamalarını içeren en az bir bölümü hareketli ortalamalara ayırır.
+Her hareketli ortalama türünün verileri yumuşatma ve gecikmeyi azaltma 
+konusunda kendine özgü güçlü ve zayıf yönleri olmasına rağmen, hiçbiri 
+yalnızca geçmiş tek piyasa fiyat verilerine dayanması nedeniyle gecikmeyi 
+ortadan kaldırmada başarılı olamamıştır.
+62 Ticari Sırlar
+
+
+=== PDF PAGE 51 ===
+Mikrobilgisayarlar ve strateji geri test yazılımları kullanarak, 1980'lerin 
+başından beri tüccarlar, her belirli hedef pazara en iyi şekilde uyması için 
+hareketli ortalamaların boyutlarını optimize ettiler. Örneğin, Intel için 
+seçilen hareketli ortalama uzunluğu, Applied Materials, Treasury 
+banknotları veya Japon yeni için seçilenden tamamen farklı olabilir.
+Aslında, belirli bir piyasa için belirli bir noktada veya belirli piyasa 
+koşulları altında seçilen hareketli ortalama uzunluğu, genellikle diğer 
+zamanlardan veya diğer koşullardan farklıdır. Bu gözlemler, tüccarları 
+hareketli ortalamaları periyodik olarak (ve bazen çok sık) yeniden 
+optimize etmeye teşvik eder; bu, onları mevcut piyasa koşullarına duyarlı 
+tutmak için boşuna bir girişimdir.
+Hareketli Ortalama Geçişleri Kırbaç Darbelerine Yol Açıyor
+Hareketli ortalamalar, örneğin iki 
+hareketli ortalamanın birbirleriyle 
+karşılaştırıldığı daha karmaşık teknik 
+göstergelerde yapı taşı olarak 
+kullanılabilir. Bu, bir hareketli ortalamanın 
+değerinin diğerinden çıkarılması veya bir 
+hareketli ortalama değerinin diğerine 
+bölünmesiyle yapılır. Geleneksel hareketli 
+ortalama "çapraz geçiş" stratejileri, 
+yatırımcılar tarafından piyasa yönünü 
+belirlemek için yaygın olarak kullanılır.
+Geleneksel taşıma
+ortalama geçiş
+stratejiler oldukça
+filtrelemede etkili
+pazar gürültüsü
+ve tanımlama
+mevcut pazar
+trend yönünde
+Piyasalarda.
+Örneğin, tipik bir hareketli ortalama geçiş yaklaşımı, 5 günlük ve 10 
+günlük hareketli ortalama gibi farklı uzunluklarda iki basit hareketli 
+ortalamanın hesaplanmasını içerir. Kısa hareketli ortalama değeri uzun 
+hareketli ortalama değerinden büyük olduğunda, eğilimin şu şekilde 
+olduğu varsayılır:yukarıKısa hareketli ortalama değeri uzun hareketli 
+ortalama değerinden küçük olduğunda, trendin şu şekilde olduğu 
+varsayılır: aşağı.
+Geleneksel hareketli ortalama geçiş stratejileri, piyasa gürültüsünü 
+filtrelemede ve trend piyasalardaki mevcut piyasa yönünü belirlemede 
+oldukça etkilidir. Ancak, son derece oynak veya dalgalı, trend olmayan 
+yan piyasalarda veya hatta çok kısa hareketli ortalamalar kullanıldığında 
+(kısa vadeli fiyat dalgalanmalarına aşırı duyarlı olabilen) trend 
+piyasalarında, bu yaklaşımlar hatalı işlem sinyalleri üretme 
+eğilimindedir. Bu, tekrarlayan "kırpmalara" neden olur ve bu da
+Teknik Analizle Trend Tahmini 63
+
+
+=== PDF PAGE 52 ===
+Hareketli ortalamalar her seferinde birbirini çaprazladığında alım ve satım sinyallerinin 
+dönüşümlü olarak tetiklenmesiyle yukarı yönlü işlem kayıpları yaşanır.
+Bazı işlem stratejileri, günlük kapanış gibi gerçek bir fiyatı trend 
+belirleme için hareketli ortalama değeriyle karşılaştırarak gecikmeyi 
+azaltmaya çalışır. Diğer stratejiler, hareketli ortalamaları çevreleyen 
+bantlar kullanarak veya yanlış işlem sinyallerini filtrelemek için ek 
+hareketli ortalamalar ekleyerek kırbaç darbelerini en aza indirmeye 
+çalışır; bunların ikisini de 1980'lerin başında ProfitTaker'da uyguladım. 
+Hareketli ortalamalarla yapılabilecek şeylerin permütasyon ve 
+kombinasyonlarının sayısı şaşırtıcıdır.
+Şekil 4-3, günlük fiyat grafiğine bindirilmiş 5 günlük ve 10 günlük basit 
+hareketli ortalamalarıyla ABD Dolar Endeksi'ni gösterir. Bu durumda, 
+işlem kararları kısa hareketli ortalamanın uzun hareketli ortalamayı 
+(veya kapanışın hareketli ortalamalardan birini veya her ikisini) 
+geçmesine dayanabilir. Hareketli ortalamalardaki dönüş noktalarının, 
+piyasadaki dönüş noktalarının gerisinde kaldığına dikkat edin.
+Hareketli ortalamaların uygulanmasının altında yatan temel varsayım, bir kez 
+harekete geçen bir eğilimin devam etme eğiliminde olmasıdır. Bu nedenle,
+Şekil 4-3. ABD DOLARI ENDEKSİ
+BASİT BİR HAREKETLİ ORTALAMA GEÇİŞ YAKLAŞIMI
+5 günlük hareketli ortalama
+10 günlük hareketli ortalama
+ABD Dolar Endeksi'nin 5 günlük ve 10 günlük basit hareketli ortalamalarıyla günlük fiyat grafiği, kısa 
+ortalamaların uzun ortalamalara göre daha duyarlı olduğunu, ancak her ikisinin de piyasanın gerisinde 
+kaldığını göstermektedir.
+Kaynak: VantagePoint Intermarket Analiz Yazılımı
+64 Ticari Sırlar
+
+
+=== PDF PAGE 53 ===
+Uzun hareketli ortalama, kısa hareketli ortalama tarafından 
+delinir, örneğin, hakim trendin tersi yönünde, hakim trendin hala 
+bozulmadığı varsayılır.
+Basit Bir Hareketli Ortalama Hesaplamak Kolaydır
+Bugünün kapanış fiyatına göre 5 günlük basit hareketli 
+ortalama, son beş güne ait kapanış fiyatlarının toplanıp 5'e 
+bölünmesiyle hesaplanır.
+Matematiksel olarak bu, Gün için kapanış fiyatlarının toplanması veya 
+"toplanması" anlamına gelirT+ Günt-1+ Günt-2+ Günt-3+ Günt-4, hangi GünT
+Bugünün Kapanış Günüt-1dünün kapanışı . . . ve günt-4dört gün 
+önceki işlem gününün kapanışıdır. Sonra toplam 5'e bölünür.
+Şekil 4-4, Nasdaq Bileşik Endeksi'nin beş günlük kapanış fiyatını ve 
+5 günlük basit hareketli ortalamasının hesaplanmasını 
+göstermektedir.
+Aynı yaklaşım, 10 günlük hareketli ortalama, 50 günlük hareketli 
+ortalama veya 200 günlük hareketli ortalama gibi çeşitli uzunluklardaki 
+basit hareketli ortalamaları hesaplamak için kullanılabilir. Ek olarak, 
+hesaplamada kapanış dışındaki fiyatlar da kullanılabilir. Örneğin, basit 
+bir hareketli ortalama, Yüksek + Düşük'ün 2'ye bölünmesi veya Açılış + 
+Yüksek + Düşük + Kapanışın 4'e bölünmesiyle hesaplanabilir. Hatta çeşitli 
+zaman aralıkları için günlük hareketli ortalamalar bile hesaplanabilir.
+Şekil 4-4. NASDAQ KOMPOZİT ENDEKSİ
+KAPANIŞLARIN 5 GÜNLÜK BASİT HAREKETLİ ORTALAMASININ HESAPLANMASI
+Kapanış Fiyatları
+Günt-4
+Günt-3
+Günt-2
+Günt-1
+GünT
+3384,73
+3499,58
+3529.06
+3607.65
+.17.738,59 –.– 5 = 3547,72
+= Bugünün 5 Günlük Taşınma
+Kapanışların Ortalaması
+_____3_7__1_7_.5_7_
+17.738,59
+Basit bir hareketli ortalama hesaplamak kolaydır. Sadece fiyatları toplayın ve 
+gün sayısına bölün.
+Kaynak: Market Technologies Corporation
+Teknik Analizle Trend Tahmini 65
+
+
+=== PDF PAGE 54 ===
+Yer Değiştiren Hareketli Ortalamalar: Yakın Ama "Puro Yok"
+Gecikme etkisini aşmaya çalışan ilgi çekici bir hareketli ortalama türü, 
+yerinden oynatılmış hareketli ortalamadır. Genellikle bir hareketli 
+ortalama hesaplandığında ve bir işlem stratejisinin parçası olarak 
+kullanıldığında, Gün için hareketli ortalama değeriTGünün kapanış 
+fiyatına göre bir fiyat grafiğinde çizilirT.
+Bu yapıldığında, gecikme fiyat grafiğinde görsel olarak belirginleşir, 
+örneğin piyasa daha yüksek bir eğilim gösterir ve hareketli ortalama en son 
+fiyatların altında seyreder. Benzer şekilde, piyasa aniden tersine döner ve 
+daha düşük bir eğilim göstermeye başlarsa, hareketli ortalama en son 
+fiyatların üzerinde gecikir ve piyasa düştükçe kısa bir süre değer kazanmaya 
+devam edebilir.
+Yerinden oynatılmış bir hareketli ortalama, grafikte hareketli ortalama 
+değerini zaman içinde ileriye "yerinden oynatarak" veya "kaydırarak" 
+gecikmeyi en aza indirmeye çalışır. Yani, başka bir deyişle, Gün'de 
+hesaplanan 5 günlük bir hareketli ortalama değeriT(bugün), Günün 
+fiyatına göre çizilmek yerineT, ileriye (sağa) kaydırılabilir, bu nedenle 
+Gün'e karşılık gelecek şekilde fiyat grafiğinde çizilirt+2(yarından sonraki 
+gün). Benzer şekilde, 10 günlük hareketli ortalama, Gün'e karşılık 
+gelecek şekilde bugünden dört gün ileriye kaydırılabilir.t+4.
+Hareketli bir ortalamayı yerinden oynatmanın ardındaki örtük 
+varsayım, gelecekteki dönemin gerçek hareketli ortalama 
+değerinin (henüz belirlenecek olan) bugünün gerçek hareketli 
+ortalama değerine eşit olacağıdır. Bu, elbette,tahmin etmek
+gelecekteki dönemin hareketli ortalama değerinin. Ancak, yine 
+de bir tahmindir— sadece bir destek veya direnç çizgisini bir fiyat 
+grafiğinin sağına uzatarak elde edilen geçmiş fiyat verilerinden 
+doğrusal bir ekstrapolasyon değildir.
+Hareketli Ortalamaları Tahmin Etmenin Yeni Bir Yolu
+Sınırlamalarına rağmen hareketli ortalamaların yatırımcılar tarafından 
+yaygın olarak kullanılmaya devam etmesi, hareketli ortalamaların finans 
+sektöründe önemli bir niceliksel trend tanımlama aracı olarak kabul 
+edildiğinin kanıtıdır. Ancak aynı zamanda, hareketli ortalamaların içsel 
+gecikmeli doğası, teknik analistleri ve yatırımcıları on yıllardır rahatsız 
+eden çok ciddi bir eksiklik olmaya devam etmektedir.
+66 Ticari Sırlar
+
+
+=== PDF PAGE 55 ===
+Bu eksiklik bir şekilde giderilebilirse, hareketli ortalamalar 
+finansal piyasa analizinde en etkili trend belirleme ve tahmin 
+teknik göstergesi olarak sıralanabilir.
+Geleneksel hareketli ortalamalar yalnızca geçmiş fiyat verileri kullanılarak 
+hesaplandığından (bugünün fiyatı, dünkü fiyat vb.), hareketli ortalamalardaki 
+dönüm noktaları her zaman piyasadaki dönüm noktalarının gerisinde 
+kalacaktır.
+Örneğin, bugünün kapanışından itibaren 5 günlük basit hareketli 
+ortalamayı hesaplamak için, Şekil 4-4'te daha önce gösterildiği gibi, 
+bugünün kapanışı artı önceki dört günün kapanışları hesaplamada 
+kullanılır (bkz. sayfa 65). Bu fiyatlar zaten bilinmektedir çünkü hepsi 
+zaten gerçekleşmiştir. Pratik bir ticaret bakış açısından bu hesaplamanın 
+sorunu, hareketli ortalamanın
+yaş neyin gerisinde kalıyor
+gerçekleşmek üzereyarın piyasada. Hiç kimse finans 
+piyasalarının gidişatını 
+tahmin edemez
+mükemmel bir şekilde— şimdi değil,
+Yüzde değil
+yıllar boyunca.
+mali tahmin-
+ama matematik
+matematiksel beklenti
+Geleceğin öngörüleri 
+formüle edilebilir.
+Yarın piyasa yönünün ne olacağını tahmin 
+etmeye ve yarının işlemleri için giriş ve çıkış 
+noktalarını belirlemeye çalışan bir yatırımcı için, ne 
+kadar küçük olursa olsun, bugünün piyasa 
+oynaklığı göz önüne alındığında, herhangi bir 
+gecikme finansal açıdan yıkıcı olabilir.
+Karşılaştırma yapmak gerekirse, bugünün 
+kapanışına kadar ve bugünün kapanışı da 
+dahil olmak üzere en son üç günün kapanış 
+fiyatlarına dayalı, iki gün sonraki tahmini 5 
+günlük basit hareketli ortalama
+(bilinen değerler) artı sonraki iki günün kapanış fiyatları (henüz 
+gerçekleşmemiş olanlar) tanım gereği gecikmesiz olurdu, eğerbire bir aynı
+Önümüzdeki iki işlem gününün kapanış fiyatları önceden biliniyordu.
+Ne yazık ki, piyasa yönünü veya fiyatları bir veya iki gün 
+önceden tahmin etme konusunda %100 doğruluk diye bir şey 
+yoktur. Hiç kimse finansal piyasaları mükemmel bir şekilde 
+tahmin edemez - ne şimdi, ne de yüz yıl sonra. Ancak finansal 
+tahmin yoluyla geleceğe dair matematiksel beklentiler formüle 
+edilebilir.
+Söylemeye gerek yok, herhangi bir finansal piyasanın piyasa yönünü 
+tahmin etmek çok zordur. Zaman ufkundan ne kadar uzaklaşılırsa, tahmin o 
+kadar az güvenilir olur. Bu yüzden VantagePoint'in öngörüsünü sınırladım.
+Teknik Analizle Trend Tahmini 67
+
+
+=== PDF PAGE 56 ===
+dört işlem gününe kadar uzanıyor ki bu da muazzam bir işlem avantajı elde etmek 
+için fazlasıyla yeterli bir ön hazırlık süresi.
+Ham petrolü veya S&P 500 Endeksini bir ay, altı ay veya bir yıl 
+sonrasını tahmin etmeye çalışmak, bir ticaret bakış açısından pratik 
+değildir. Bunun nedeni kısmen piyasa dinamiklerinin hem rastgelelik 
+hem de tanım gereği öngörülemeyen öngörülemeyen olayları 
+içermesidir. Ayrıca, kabul edelim ki, tahmin kesin bir bilim değildir; çok 
+fazla "sanat" söz konusudur.
+Hareketli ortalamaları tahmin etmek için sinir ağlarını piyasalar 
+arası verilere başarıyla uyguladım ve bunları biröncü gösterge
+Piyasa trend yönünde beklenen değişiklikleri belirleyen
+neredeyse %80 doğruluk. Bu, hareketli 
+ortalamaları bir gecikmeli gösterge
+Çoğu yatırımcının hâlâ yaptığı gibi, 
+trendin nerede olduğunu belirlemek 
+için.
+Ben başarılı oldum
+uygulanan sinir
+ağlar arası
+piyasa verileri
+tahmin etmek için sipariş
+hareketli ortalamalar,
+onları bir şeye dönüştürmek
+öncü gösterge
+bu noktayı belirler
+beklenen değişiklikler
+piyasa trendi yönü
+neredeyse ile
+%80 doğruluk.
+Eyaletler arası bir otoyolda saatte 
+yetmiş mil hızla gidiyorsanız, sadece 
+arka camınızdan veya omzunuzun 
+üzerinden geriye bakmazsınız. Ön 
+camdan önünüzdeki yola doğru 
+bakmanız gerekir, böylece bir kaza 
+olmasını önlemek için olası tehlikeleri 
+önceden tahmin edebilirsiniz. 
+Ticarette de durum aynıdır.
+Öngörüde bulunabilmek muazzam 
+bir rekabet avantajı sağlar
+Gelecekteki fiyat hareketlerini, sadece bir veya iki gün bile olsa, tahmin edebilir, 
+böylece ne olacağına dair beklentilerinize göre işlem kararlarınızı 
+yönlendirebilirsiniz.
+VantagePoint, her hedef vadeli işlem piyasası ve seçili ilgili 
+piyasalardaki fiyat, hacim ve açık faiz verilerini sinir ağlarına girdi 
+olarak kullanır. Bu şekilde, hareketli ortalama tahminleri yalnızca 
+tek piyasa fiyat girdilerine dayanmaz.
+VantagePoint'in Nasdaq-100'ü durumunda®Örneğin, programda 
+hareketli ortalamaların tahminine yönelik ham girdiler, Nasdaq-100 
+Endeksi için günlük açılış, en yüksek, en düşük, kapanış, hacim ve 
+açık faizi ve Şekil 4-5'te gösterildiği gibi dokuz ilgili piyasayı içerir.
+68 Ticari Sırlar
+
+
+=== PDF PAGE 57 ===
+Şekil 4-5. VANTAGEPOINT'İN NASDAQ-100 PROGRAMI TARAFINDAN 
+KULLANILAN PİYASALARARASI VERİLER
+• Dow Jones Sanayi Ortalaması
+• 30 Yıllık Hazine Tahvilleri
+• S&P 500 Endeksi
+• ABD Dolar Endeksi
+• NYSE Bileşik Endeksi®
+• Köprü/CRB Endeksi
+• Dow Jones Kamu Hizmeti OrtalamasıS.M.
+• Hafif Ham Petrol
+• S&P 100®
+VantagePoint'in Nasdaq-100 programı, piyasalar arası tahminler üretmek için Nasdaq-100 
+Endeksi'ni ve dokuz ilgili piyasayı analiz eder.
+Kaynak: Market Technologies Corporation
+Benzer şekilde, her VantagePoint programının kendine özgü ilgili 
+piyasaları vardır ve bunlar sinir ağlarına piyasalar arası girdi verileri 
+sağlar.
+Öncü Göstergeler Size Rekabet 
+Avantajı Sağlar
+Bir piyasanın trend yönünü belirlemek, o piyasada başarılı bir şekilde işlem 
+yapmak için çok kritik olduğundan,trend tahministratejiler, geleneksel pazar 
+gerisinde kalanlara göre önemli bir rekabet avantajı sunar,trend takip
+stratejileri.
+Tahmin edilen hareketli ortalamaların, trend tahmini için, yalnızca 
+trendin öngörülen yönünü değil aynı zamanda gücünü de 
+belirlemek için kullanılabilen hareketli ortalama geçiş stratejileri gibi 
+daha karmaşık göstergelere dahil edildiklerinde en etkili olduğunu 
+buldum. Bu, gelecekte belirli zaman dilimleri için tahmin edilen 
+hareketli ortalamaları, aynı uzunluktaki bugünün gerçek hareketli 
+ortalamalarıyla karşılaştırarak VantagePoint içinde uygulandı.
+Örneğin, VantagePoint, gelecekte dört gün için öngörülen 10 günlük hareketli 
+ortalamayı, bugünün kapanışından itibaren hesaplanan bugünün gerçek 10 
+günlük hareketli ortalamasıyla karşılaştırır. Ayrıca, gelecekte iki gün için öngörülen 
+5 günlük hareketli ortalama ile bugünün kapanışından itibaren hesaplanan 
+bugünün gerçek 5 günlük hareketli ortalaması da dahil olmak üzere diğer 
+hareketli ortalamaları da tahmin eder ve benzer karşılaştırmalar yapar.
+Teknik Analizle Trend Tahmini 69
+
+
+=== PDF PAGE 58 ===
+Şekil 4-6. DOW JONES ENDÜSTRİYEL ORTALAMASI
+ÖNGÖRÜLEN HAREKETLİ ORTALAMA GEÇİŞ STRATEJİSİNİN KULLANILMASI
+Tahmini 10 günlük hareket
+ortalama, 4 gün sonrasına 
+kadar tahmin ediliyor
+Gerçek 10 günlük
+hareketli ortalama
+Dow'un günlük fiyatlarının 10 günlük tahmini hareketli ortalama ve 10 günlük gerçek 
+hareketli ortalama kesişimiyle grafiği. Tahmini ve gerçek hareketli ortalamalar arasındaki 
+gecikme farkına dikkat edin.
+Kaynak: VantagePoint Intermarket Analiz Yazılımı
+Şekil 4-6, Dow Jones Sanayi Ortalaması için öngörülen 10 günlük 
+hareketli ortalama ile gerçek 10 günlük hareketli ortalamanın kesişimini 
+göstermektedir. Öngörülen hareketli ortalamanın, dört gün önceden 
+tahmin edildiği için piyasanın gerisinde kalmadığını, gerçek 10 günlük 
+hareketli ortalamanın ise hem piyasanın hem de öngörülen hareketli 
+ortalamanın gerisinde kaldığını fark edin.
+Tahmin edilen hareketli ortalamaların gerçek hareketli ortalamalarla 
+kesişmesini içeren VantagePoint içindeki öncü göstergeler, bir sonraki 
+bölümde daha ayrıntılı olarak ele alınacaktır.
+70 Ticari Sırlar
+
+
+=== PDF PAGE 59 ===
+Bölüm 5
+VANTAGEPOINT TAHMİNLERİ
+PAZAR YÖNÜ
+Nerede Olduğunuza Dair Gizli Bir Önizleme Nasıl Elde Edilir
+Piyasalar Gidiyor ve Bu Bilgileri 
+Kendi Avantajınıza Kullanın
+V
+antagePoint, her hedef pazardan ve seçili ilişkili pazarlardan 
+gelen pazar verilerini analiz etmek ve bu hedef pazar için 
+tahminler yapmak amacıyla sinir ağlarının desen tanıma 
+yeteneklerini kullanır. Bu, daha sonra her hedef pazarın pazar yönünü 
+belirtmek için kullanılan kısa vadeli hareketli ortalamaları tahmin ederek 
+gerçekleştirilir.
+VantagePoint'in ilk kez tanıtıldığı 1991 yılından bu yana, benim 
+yönetimim altındaki Market Technologies Corporation'ın 
+araştırma ekibi olan Predictive Technologies Group, sinir ağları 
+ve piyasalar arası analizle tescilli araştırma ve geliştirme 
+yapmaya devam etti. Tahmin doğruluğunda iyileştirmeler elde 
+edildikçe VantagePoint'in güncellenmiş sürümleri yayınlandı.
+VantagePoint Önemli Finans Piyasalarını İzliyor
+Şu anda VantagePoint'in her gün izlediği yirmi beş aktif olarak işlem gören 
+finansal piyasa bulunmaktadır. Bunlara, sayfa 72'deki Şekil 5-1'de sunulduğu 
+gibi faiz oranları, hisse senedi endeksleri, enerjiler ve dövizler dahildir.
+VantagePoint, aktif olarak işlem gören bu finansal piyasalar için 
+sürekli olarak doğru trend tahminleri yapma yeteneğiyle, piyasalar 
+arası bir bakış açısıyla, ciddi yatırımcılara rekabet avantajı sunuyor.
+Teknik Analizle Trend Tahmini 71
+
+
+=== PDF PAGE 60 ===
+vadeli işlemler, opsiyonlar ve hisse senedi piyasaları. Bu bir kristal küre değil, 
+ancak bir sonraki en iyi şey olabilir.
+Birçok VantagePoint müşterisi günlük işlem yaparken diğerleri pozisyon ticareti yapar veya 
+her ikisinin bir kombinasyonunu yapar. Bazı müşteriler tam zamanlı işlem yaparken diğerleri, 
+finans sektörünün dışında çalışan, yarı zamanlı işlem yapar.
+Tipik olarak VantagePoint, yatırımcılar tarafından halihazırda kullandıkları 
+diğer teknik ticaret araçlarıyla birlikte kullanılır. Bu şekilde VantagePoint'in 
+öngörücü göstergeleri, yalnızca her bir pazara dahili olarak bakan çeşitli tek 
+pazar göstergelerine yönelik piyasa içi onay filtreleri olarak işlev görür.
+VantagePoint bu tek piyasa göstergelerini piyasalar arası bir 
+bakış açısından doğruladığında, bu işlemi yapmak için yeşil 
+ışıktır. Ancak, VantagePoint bu tek piyasa göstergeleriyle aynı 
+fikirde olmadığında, bu parlak sarı bir ışıktır.Dikkatışık.
+ŞEKİL 5-1. VANTAGEPOINT TARAFINDAN KAPSANAN FİNANSAL PİYASALAR
+FAİZ ORANLARI HİSSE SENETLERİ ENDEKSLERİ
+30 Yıllık Hazine Tahvilleri
+10 Yıllık Hazine Bonoları
+5 Yıllık Hazine Bonoları
+2 Yıllık Hazine Bonoları
+Eurodolar
+S&P 500
+S&P 100
+FTSE 100
+Nikkei
+Nasdaq-100
+Nasdaq Bileşik
+Dow
+ENERJİLER PARA BİRİMLERİ
+Benzin
+Doğal Gaz
+Gaz Yağı
+Brent Ham Petrol
+Hafif Ham Petrol
+Isıtma Yağı
+İsviçre Frangı
+Alman Markı
+İngiliz Sterlini
+Kanada Doları
+Avustralya doları
+ABD Dolar Endeksi
+Japon Yeni
+VantagePoint, faiz oranı, borsa endeksi, enerji ve döviz piyasalarını izleyerek 
+piyasalar arası tahminler sunuyor.
+Kaynak: Market Technologies Corporation
+72 Ticari Sırlar
+
+
+=== PDF PAGE 61 ===
+ŞEKİL 5-2. VANTAGEPOINT'İN TREND TAHMİNLERİNİN TAHMİNSEL DOĞRULUĞU
+FAİZ ORANLARI HİSSE SENETLERİ ENDEKSLERİ
+30 Yıllık Hazine Tahvilleri
+10 Yıllık Hazine Bonoları
+5 Yıllık Hazine Bonoları
+2 Yıllık Hazine Bonoları
+Eurodolar
+74.60%
+76.10%
+81.67%
+72.20%
+73,90%
+S&P 500
+S&P 100
+FTSE 100
+Nikkei
+Nasdaq-100
+Nasdaq Bileşik
+Dow
+76.60%
+78.40%
+74.57%
+70.80%
+75.40%
+78.56%
+78.09%
+ENERJİLER PARA BİRİMLERİ
+Benzin
+Doğal Gaz
+Gaz Yağı
+Brent Ham Petrol
+Hafif Ham Petrol
+Isıtma Yağı
+73,00%
+73.70%
+%81,33
+73.67%
+76.64%
+70.70%
+İsviçre Frangı
+Alman Markı
+İngiliz Sterlini
+Kanada Doları
+Avustralya doları
+ABD Dolar Endeksi
+Japon Yeni
+72.50%
+76.02%
+77.10%
+76.67%
+77.50%
+76.67%
+74.66%
+Finans piyasalarında %100 tahmin doğruluğu elde edilemez. Rastgelelik ve 
+öngörülemeyen olaylarla, belki de sadece %80-85 gerçekçi olarak mümkündür.
+Kaynak: Market Technologies Corporation
+Başlangıçta raporları ve grafikleri ile biraz vakit geçirdikten sonra, 
+Vantage-Point'i güncellemek ve işlem kararlarınızı verirken tahmine 
+dayalı piyasalar arası bilgilere erişebilmek için her gün sadece birkaç 
+dakika ayırmanız yeterli olacaktır.
+Şekil 5-2, VantagePoint'in tescilli Neural Index göstergesine (daha 
+sonra tartışılacaktır) dayalı olarak, VantagePoint tarafından şu anda 
+izlenen yirmi beş finansal piyasanın her biri için trend tahminlerinin 
+tahmin doğruluğunu listeler.
+Beş Sinir Ağı Bağımsız Tahminler Yapıyor
+Her VantagePoint programı, belirli bir hedef pazar için özel olarak 
+tasarlanmıştır ve iki seviyeli bir hiyerarşide beş sinir ağını kullanarak 
+bu pazar için beş farklı öncü göstergeyi tahmin eder.
+Teknik Analizle Trend Tahmini 73
+
+
+=== PDF PAGE 62 ===
+• İlk ağ, giriş ve çıkış noktaları için durakların belirlenmesine yardımcı olmak amacıyla yarının Yüksek 
+sıcaklığını tahmin ediyor.
+• İkinci ağ, giriş ve çıkış noktaları için durakların belirlenmesine yardımcı olmak amacıyla yarının Düşük 
+sıcaklığını tahmin ediyor.
+• Üçüncü ağ, önümüzdeki iki gün içinde beklenen Kısa Vadeli trend 
+yönünü göstermek için, gelecekte iki güne ait kapanışların 5 günlük 
+hareketli ortalamasını öngörüyor.
+• Dördüncü ağ, önümüzdeki dört gün içinde beklenen Orta Vadeli trend 
+yönünü göstermek için, gelecekteki dört güne ait kapanışların 10 
+günlük hareketli ortalamasını öngörüyor.
+• Beşinci ağ, piyasanın trend yönünü değiştirmesinin beklenip 
+beklenmediğini, birtepeveyaaltÖnümüzdeki iki gün içerisinde.
+Ağ hiyerarşisinin birincil seviyesindeki 
+ilk dört ağ, Yüksek, Düşük, Kısa Vadeli 
+eğilim ve Orta Vadeli eğilimin bağımsız 
+piyasa tahminlerini yapar. Bu tahminler 
+daha sonra ağ hiyerarşisinin ikincil 
+seviyesindeki diğer hedef pazar ve 
+piyasalar arası veri girdileriyle birlikte 
+beşinci ağa girdi olarak kullanılır ve 
+piyasa Dönüm Noktalarını tahmin eder. 
+VantagePoint'in sinir ağı yapılandırması 
+Şekil 5-3'te gösterilmiştir (bkz. sayfa 75).
+Alt-
+yalancı matematik
+Vantage'ın arkasında-
+Nokta çok
+karmaşık, onun öncüsü
+döküm intermarket-
+temelli ticaret
+bilgi kolaydır
+anlamak.
+VantagePoint'in altında yatan matematik çok karmaşık olsa da, tahmin 
+edilen piyasalar arası tabanlı işlem bilgilerinin anlaşılması kolaydır. 
+Matematik veya teknik analiz konusunda hiçbir geçmişi olmayan yeni bir 
+tüccar bile bilgilerinden hemen faydalanmaya başlayabilir. 
+VantagePoint, mühendisler veya roket bilimcileri için değil, aktif 
+tüccarlar için tasarlanmıştır.
+VantagePoint'in tahminleri her hedef pazar için tek sayfalık Günlük 
+Rapor'da sunulur. Daha derinlemesine analiz için daha ayrıntılı bir 
+Geçmiş Raporu da mevcuttur. VantagePoint'in tahmini bilgileri diğer 
+yazılım programlarına da aktarılabilir. Ayrıca, Günlük Rapor'da 
+sunulan tüm göstergeler, görsel yönelimli yatırımcılar için ayrıntılı 
+renkli grafikler olarak görüntülenebilir veya yazdırılabilir.
+Şekil 5-4 (bkz. sayfa 76), tahmini 10 günlük hareketli ortalamasıyla Dow 
+Jones Endüstri Ortalamasının VantagePoint grafiğini göstermektedir
+74 Ticari Sırlar
+
+
+=== PDF PAGE 63 ===
+ŞEKİL 5-3. VANTAGEPOINT'İN BEŞ SİNİR AĞI
+Ağ 1
+Öngörülen
+Yüksek
+Ağ 2
+Ağ 5
+Sinirsel
+DizinÖngörülen
+Düşük Öngörülen
+Döndürme
+PuanlarAğ 3
+Öngörülen
+Kısa Trend
+Ağ 4
+Öngörülen
+Orta
+Eğilim
+VantagePoint, beş ayrı sinir ağı kullanarak her hedef pazar için beş farklı tahmin yapar. 
+Kaputun altında çok fazla beygir gücü vardır, ancak intermarket sürücü belgenizi almak 
+için yarış arabası sürücüsü olmanız gerekmez. VantagePoint, roket bilimcileri için değil, 
+tüccarlar için tasarlanmıştır.
+Kaynak: Market Technologies Corporation
+ve günlük fiyatlara bindirilmiş gerçek 10 günlük hareketli ortalama. Bu 
+örnekte, uzun pozisyona giriş noktası, tahmin edilen hareketli 
+ortalamanın, grafiğin solundaki "yukarı ok" ile gösterildiği gibi gerçek 
+hareketli ortalamayı aşağıdan yukarıya doğru geçtiği zaman meydana 
+gelir. Uzun pozisyon, tahmin edilen hareketli ortalamanın, grafiğin 
+sağındaki "aşağı ok" ile gösterildiği gibi gerçek hareketli ortalamayı 
+yukarıdan aşağıya doğru geçtiği zamana kadar korunur.
+Teknik Analizle Trend Tahmini 75
+
+
+=== PDF PAGE 64 ===
+Şekil 5-4. DOW JONES ENDÜSTRİYEL ORTALAMASI
+ÖNGÖRÜLEN VE GERÇEK HAREKETLİ ORTALAMALARIN ÇAPRAZLANMASI
+1.155 puanlık işlem = 11.550$
+Gerçek 10 günlük
+hareketli ortalama
+Tahmini 10 günlük
+hareketli ortalama
+Basit bir hareketli ortalama geçiş stratejisi ama bir farkla: Tahmini 10 günlük hareketli 
+ortalamayı gerçek 10 günlük hareketli ortalamayla karşılaştırır.
+Kaynak: VantagePoint Intermarket Analiz Yazılımı
+Şekil 5-5 (bkz. sayfa 77) Nasdaq Composite Endeksi için bir VantagePoint 
+Günlük Raporu örneğini göstermektedir. Raporun üç bölüme ayrıldığını ve 
+her birinin kısa süre içinde ayrıntılı olarak ele alınacağını unutmayın.
+Şekil 5-6 (bkz. sayfa 77), Nasdaq Bileşik Endeksi için örnek bir 
+VantagePoint Geçmiş Raporu'nu göstermektedir.
+Bir hedef pazar için VantagePoint grafiğinin veya raporunun 
+düzeni, bilgileri ve yorumu, diğer hedef pazarların her biri için 
+olanlarla aynıdır. Bu nedenle, Vantage-Point'i bir pazarda 
+kullanmaya alıştığınızda, diğerlerinde kullanmak kolaydır. Aslında, 
+Vantage-Point, farenizin düğmesine dokunarak yirmi beş pazarın 
+hepsinde otomatik olarak güncellenebilecek şekilde tasarlanmıştır. 
+Tüm süreç her gün sadece birkaç dakika sürer.
+VantagePoint'in Günlük Raporunun Size Söyledikleri
+Her Günlük Rapor, bir sonraki işlem gününde kullanılmak üzere 
+piyasalar arası tahminler sunar; buna ek olarak, söz konusu piyasada 
+neler yaşandığına dair geçmişe yönelik bazı bilgiler de sunar.
+76 Ticari Sırlar
+
+
+=== PDF PAGE 65 ===
+ŞEKİL 5-5. ÖRNEK BİR NASDAQ KOMPOZİT GÜNLÜK RAPORU
+VantagePoint'in Günlük Raporu üç bölüme ayrılmıştır.
+Kaynak: VantagePoint Intermarket Analiz Yazılımı
+ŞEKİL 5-6. ÖRNEK BİR NASDAQ KOMPOZİT GEÇMİŞ RAPORU
+VantagePoint'in Tarih Raporu daha detaylı analizler sunuyor.
+Kaynak: VantagePoint Intermarket Analiz Yazılımı
+
+
+=== PDF PAGE 66 ===
+Şekil 5-7, 10 yıllık Hazine bonosu programı için VantagePoint Günlük 
+Raporunun 1. Bölümünü göstermektedir.
+Bölüm 1Aşağıdaki bilgileri görüntüler:
+• BugününgerçekAçık, Yüksek, Alçak, Kapalı.
+• BugününgerçekKapanışların 5 günlük basit hareketli ortalaması. Buna 
+TrndS (Trend Short için) adı verilir.
+• BugününgerçekKapanışların 10 günlük basit hareketli ortalaması. Bu, TrndM 
+(Trend Medium için) olarak etiketlenir.
+Şekil 5-8 (bkz. sayfa 79), 10 yıllık Hazine bonosu programı için 
+VantagePoint Günlük Raporunun 2. Bölümünü göstermektedir.
+Bölüm 2Aşağıdaki bilgileri görüntüler:
+• Yarınıntahmin edilenYüksek. Bu PHigh olarak etiketlenmiştir.
+• Yarınıntahmin edilenDüşük. Bu PLow olarak etiketlenmiştir.
+• ÖngörülenKapanışların 5 günlük basit hareketli ortalamasıgelecekte 
+iki gün için. Bu, PTS (Tahmin Edilen Trend Kısa) olarak etiketlenmiştir. 
+Kapanış fiyatlarından üçü (bugün, dün ve dünden önceki gün)
+ŞEKİL 5-7. 10 YILLIK HAZİNE BONOLARI— GÜNLÜK RAPORUN 1. BÖLÜMÜ
+VantagePoint Günlük Raporu
+10 Yıllık Hazine Bonosu
+Açık Yüksek Düşük Kapalı Eğilimler TrndM
+24/04/00
+25/04/00
+26/04/00
+27/04/00
+28/04/00
+01/05/00
+02/05/00
+03/05/00
+05/04/00
+05/05/00
+08/05/00
+09/05/00
+9816
+9816
+9732
+9734
+9656
+9660
+9646
+9626
+9600
+9540
+9518
+9460
+9840
+9816
+9754
+9748
+9712
+9702
+9656
+9638
+9608
+9562
+9534
+9520
+9812
+9732
+9730
+9646
+9630
+9644
+9626
+9558
+9532
+9512
+9460
+9456
+9816
+9734
+9736
+9654
+9662
+9646
+9628
+9562
+9536
+9518
+9500
+9516
+9806
+9802
+9763
+9744
+9728
+9708
+9658
+9638
+9621
+9600
+9542
+9526
+9819
+9808
+9802
+9759
+9750
+9739
+9730
+9718
+9701
+9646
+9625
+9610
+Gerçek 5 günlük
+hareketli ortalama
+Gerçek 10 günlük
+hareketli ortalama
+Günlük Raporun 1. Bölümü Açılış, En Yüksek, En Düşük, Kapanış, gerçek 5 günlük ve gerçek 10 
+günlük hareketli ortalamaları gösterir.
+Kaynak: VantagePoint Intermarket Analiz Yazılımı
+78 Ticari Sırlar
+
+
+=== PDF PAGE 67 ===
+ŞEKİL 5-8. 10 YILLIK HAZİNE BONOLARI— GÜNLÜK RAPORUN 2. BÖLÜMÜ
+VantagePoint Günlük Raporu
+10 Yıllık Hazine Bonosu
+Yüksek Pulluk PTS PTM
+24/04/00
+25/04/00
+26/04/00
+27/04/00
+28/04/00
+01/05/00
+02/05/00
+03/05/00
+05/04/00
+05/05/00
+08/05/00
+09/05/00
+9829
+9747
+9755
+9704
+9723
+9703
+9645
+9612
+9550
+9533
+9519
+9535
+9800
+9712
+9724
+9630
+9646
+9632
+9616
+9543
+9518
+9502
+9448
+9462
+9812
+9752
+9743
+9710
+9701
+9650
+9640
+9614
+9554
+9531
+9513
+9512
+9816
+9751
+9748
+9725
+9723
+9701
+9652
+9637
+9619
+9601
+9546
+9537
+Tahmini ticaret
+ertesi gün için aralık
+Tahmini 5 günlük
+hareketli ortalama
+Tahmini 10 günlük
+hareketli ortalama
+Günlük Raporun 2. Bölümünde öngörülen Yüksek, öngörülen Düşük, öngörülen 5 günlük hareketli 
+ortalama ve öngörülen 10 günlük hareketli ortalama gösterilmektedir.
+Kaynak: VantagePoint Intermarket Analiz Yazılımı
+Bugünün kapanışına kadar zaten meydana geldikleri için 
+biliniyorlar. Kalan iki kapanış fiyatı (yarın ve yarından sonraki 
+gün için) henüz meydana gelmedikleri için bilinmiyor.
+• ÖngörülenKapanışların 10 günlük basit hareketli ortalaması
+Gelecekteki dört gün için.Bu, PTM (Tahmin Edilen Trend 
+Ortamı) olarak adlandırılır ve altı kapanış fiyatı bilinir, ancak 
+kalan dört kapanış fiyatı bilinmez.
+Şekil 5-9 (bkz. sayfa 80), 10 yıllık Hazine bonosu programı için 
+VantagePoint Günlük Raporunun 3. Bölümünü göstermektedir.
+Bölüm 3Aşağıdaki bilgileri görüntüler:
+•Güç EndeksiBölüm 2'deki dört göstergenin ağırlıklı bileşimi olan , 
+piyasanın aşırı alım mı yoksa aşırı satım mı olduğunu gösterir.
+• Yüksek FarkBölüm 2'deki yarın için tahmin edilen Yüksek ile Bölüm 
+1'deki bugünün gerçek Yüksek arasındaki farkı gösterir.
+• Saban FarkıBölüm 2'deki yarın için öngörülen Düşük ile Bölüm 
+1'deki bugünün gerçek Düşük arasındaki farkı gösterir.
+Teknik Analizle Trend Tahmini 79
+
+
+=== PDF PAGE 68 ===
+ŞEKİL 5-9. 10 YILLIK HAZİNE BONOLARI— GÜNLÜK RAPORUN 3. BÖLÜMÜ
+VantagePoint Günlük Raporu
+10 Yıllık Hazine Bonosu
+Kuvvet YüksekFark PLowDiff Dizin PTSDiff PTM'Diff
+24/04/00
+25/04/00
+26/04/00
+27/04/00
+28/04/00
+01/05/00
+02/05/00
+03/05/00
+05/04/00
+05/05/00
+08/05/00
+09/05/00
+- 0,36
+- 0,70
+- 0,45
+- 0,73
+0,15
+- 0,50
+- 0,69
+- 0,72
+- 0,72
+- 0,72
+- 0,71
+0,09
+- 11
+- 33
+1
+- 44
+11
+1
+- 11
+- 26
+- 22
+- 29
+- 15
+15
+- 12
+- 20
+- 6
+- 16
+16
+- 12
+- 10
+- 15
+- 14
+- 10
+- 12
+6
+1.00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+6
+- 14
+- 20
+- 34
+- 27
+- 22
+- 18
+- 24
+- 31
+- 33
+- 29
+- 14
+- 3
+- 21
+- 18
+- 34
+- 27
+- 38
+- 42
+- 45
+- 46
+- 45
+- 43
+- 37
+Endeks 0,00'a dönerek 
+zayıflığı gösteriyor
+PTM Diff olur
+daha olumsuz
+daha fazla işaret eden
+zayıflıkPTS Diff negatif hale gelir ve zayıflığı gösterir
+Günlük Raporun 3. Bölümü Güç Endeksini, tahmin edilen göstergeler ile bugünün 
+gerçek göstergeleri arasındaki farkları ve Sinir Endeksini gösterir. Bu bölüm sizi piyasa 
+yönünde ve gücünde yaklaşan bir değişiklik konusunda uyarır.
+Kaynak: VantagePoint Intermarket Analiz Yazılımı
+•Sinirsel İndekspiyasanın bir hareket yapmasının beklenip beklenmediğini 
+gösterirtepeveyaaltve iki 3 günlük hareketli ortalamanın karşılaştırılmasına 
+dayanarak, önümüzdeki iki gün içerisinde trend yönünün değişmesi.
+• PTS FarkıBölüm 2'deki iki gün sonraki tahmini 5 günlük 
+hareketli ortalama (PTS) ile Bölüm 1'deki bugünün gerçek 5 
+günlük hareketli ortalaması (TrndS) arasındaki farkı gösterir.
+• PTM FarkıBölüm 2'deki gelecekteki dört gün için öngörülen 10 
+günlük hareketli ortalama (PTM) ile Bölüm 1'deki bugünün gerçek 
+10 günlük hareketli ortalaması (TrndM) arasındaki farkı gösterir.
+Piyasalar Arası Grafikler Önünüzde Ne Olduğunu Gösteriyor
+VantagePoint, piyasa trend yönü ve fiyatlarına ilişkin tahminlerini 
+görselleştirmenize yardımcı olacak kapsamlı grafikleme yeteneklerine sahiptir. 
+VantagePoint'i bu kadar eşsiz kılan şey gerçekten budur.
+80 Ticari Sırlar
+
+
+=== PDF PAGE 69 ===
+Geleneksel grafiklerin aksine, VantagePoint'in grafikleri size piyasanın geçmişte 
+nerede olduğunu değil, bundan sonra nereye gideceğini öngörüyor.
+Diğer tüccarlar hala yalnızca tek piyasa trendini takip eden göstergelere 
+güvenirken, bu göstergelergeriye doğruve yalnızca trend değişikliklerini 
+belirleyebilirsonrasındaGerçek şu ki, VantagePoint size bakma olanağı sağlıyorileri
+böylece önünüzde ne olduğunun gizli bir ön izlemesini elde edersiniz. Bu, diğer 
+yatırımcıların gizli kodunu bilmedikleri için çözemedikleri bir yol haritasına sahip 
+olmak gibidir.
+VantagePoint'in iki farklı grafik sunum modu vardır: Üst üste bindirme ve 
+kaydırılmış.
+• Kaplama modunda, tahmin edilen gösterge, tahminin yapıldığı 
+gün çizilir.
+• Yerinden Edilmiş modda, gösterge tahminin yapıldığı gün 
+yerine tahmin edildiği gün çizilir.
+Şekil 5-10, Overlay modunda çizilen 10 yıllık Hazine bonolarının tahmini 10 
+günlük hareketli ortalamasını gösteren bir VantagePoint grafiğini gösterir. 
+Bu gösterge, 10 günlük hareketli ortalama değerinin dört gün sonra ne 
+olacağını tahmin eder. Tahmin edilen hareketli ortalamadaki dönüşlerin, 
+piyasadaki dönüşlerin gerisinde kalmadığına dikkat edin.
+Şekil 5-10. ÜST ÜSTE BAĞLANTI MODUNDA TAHMİN EDİLEN 10 GÜNLÜK HAREKETLİ ORTALAMA
+Tahmini 10 günlük
+hareketli ortalama
+10 yıllık Hazine tahvillerinin günlük fiyatlarının, tahmini 10 günlük hareketli ortalaması ile 
+Üst Katman modunda çizilen grafiği.
+Kaynak: VantagePoint Intermarket Analiz Yazılımı
+Teknik Analizle Trend Tahmini 81
+
+
+=== PDF PAGE 70 ===
+Şekil 5-11, tahminlere karşılık gelen gerçek güne Displaced modunda 
+çizilen Dow Jones Endüstriyel Ortalamasının bir sonraki günün tahmini 
+Yüksek ve Düşük değerlerini gösteren bir VantagePoint grafiğini gösterir. Bu 
+fiyat tahminleri, yatırımcılar tarafından giriş ve çıkış noktalarını belirlemek 
+için kullanılır; bunlar bu bölümde daha sonra ele alınacaktır.
+VantagePoint Hızlı ve Kolaydır
+Her akşam piyasalar kapandıktan sonra, her hedef pazar ve dokuz 
+ilgili pazarı için o günün açılış, en yüksek, en düşük, kapanış, hacim 
+ve açık faiz verileri bir VantagePoint uyumlu veri satıcısının 
+veritabanından veya İnternet üzerinden indirilir. VantagePoint içinde 
+Günlük Güncelleme işlevini gerçekleştirdiğinizde, bu bilgiler 
+otomatik olarak VantagePoint'in beş sinir ağı tarafından işlenir ve 
+ardından bir sonraki günün ticareti için tahminler oluşturulur.
+Tek yapmanız gereken, bir sonraki gün yapılacak en iyi işlemleri 
+hangi pazarların sunduğunu görmek için birkaç hedef pazarın 
+Günlük Raporlarını (veya grafiklerini) birbirleriyle karşılaştırmaktır. 
+İşlem baştan sona yalnızca birkaç dakika sürer. Piyasa yönüne dair 
+net bir gösterge yoksa, o belirli pazarda işlem yapmayı es geçersiniz.
+Şekil 5-11. YER DEĞİŞTİRMİŞ MODDA ÖNGÖRÜLEN YÜKSEK VE DÜŞÜK
+Tahmini Yüksek
+Tahmini Düşük
+Tahminlere karşılık gelen gerçek günde Yer Değiştirmiş modda çizilen Dow Jones 
+Endüstri Ortalaması'nın tahmini Yüksek ve Düşük seviyeleriyle grafiği.
+Kaynak: VantagePoint Intermarket Analiz Yazılımı
+82 Ticari Sırlar
+
+
+=== PDF PAGE 71 ===
+Sadece başarı olasılığı en yüksek olan işlemler yapılmalıdır. Bu, 
+olasılıkları sizin lehinize yığar.
+Bir işlemin yapılmaya değer olup olmadığını belirlemede izlenecek 
+adımlara bir bakalım.
+İyi Bir Ticaret Nasıl Bulunur
+Günlük Raporun 3. Bölümündeki Neural Endeksi, beklenen piyasa 
+trendi yönüne dair bir gösterge edinmek için iyi bir başlangıç   
+noktasıdır. Neural Endeksi, iki 3 günlük hareketli ortalamanın birbiriyle 
+karşılaştırılmasıyla belirlenen tescilli bir göstergedir:
+• BugününgerçekBugünün kapanış 
+fiyatlarının toplamı olan 3 günlük 
+hareketli ortalama (Gün)T), dünkü kapanış 
+(Günt-1) ve dün kapanıştan önceki günün 
+kapanışı (Günt-2) 3'e bölünür.
+Sinirsel Endeks
+Günlük Raporun 3. 
+Bölümü, bir gösterge 
+edinmek için başlamak 
+için iyi bir yerdir
+beklenen
+piyasa trendi yönü
+tion. Sinirsel
+Endeks, özel bir
+etary göstergesi,
+tarafından belirlenir
+iki 3 günlük
+hareketli ortalamalar
+Birbirlerine.
+• Atahmin edilenBugünün kapanış 
+fiyatlarının toplamı olan 3 günlük 
+hareketli ortalama (Gün)T), yarının 
+kapanışı (Gün)t+1) ve yarından sonraki 
+günün kapanışı (Gün)t+2) 3'e bölünür.
+Tahmin edilen 3 günlük hareketli 
+ortalamanın tahmini, hedef pazarın 
+kendisinden ve bu hedef pazara ait belirli 
+ilgili pazarlardan gelen verilere ek olarak, 
+diğer dört ağdan gelen tahminleri girdi 
+olarak kullanan Vantage-Point'in beşinci 
+sinir ağı tarafından yapılır.
+Tahmin edilen 3 günlük hareketli ortalama değeri, bugünün gerçek 3 günlük 
+hareketli ortalama değerinden büyük olduğunda, Neural Endeksi 1,00 olur. Bu, 
+VantagePoint'in piyasanın hareket etmesini beklediğini gösterir.daha yüksek 
+Önümüzdeki iki gün boyunca.
+Tahmin edilen 3 günlük hareketli ortalama değeri, bugünün gerçek 3 günlük 
+hareketli ortalama değerinden düşük olduğunda, Neural Endeksi 0,00'dır. Bu, piyasanın 
+hareket etmesinin beklendiği anlamına gelir.daha düşükÖnümüzdeki iki gün boyunca.
+Şekil 5-2'de (bkz. sayfa 73) gösterildiği gibi yaklaşık %80'lik genel bir 
+tahmin doğruluğu oranıyla, Sinir İndeksi size ek bilgi sağlayacaktır.
+Teknik Analizle Trend Tahmini 83
+
+
+=== PDF PAGE 72 ===
+Bir piyasanın hareketlenmeye hazır olduğuna dair güçlü bir belirti olduğunda 
+tetiği çekme konusunda güventepeveyaaltve trend yönünü değiştirmeye 
+hazır.
+İşte Eklenen Onayı Nasıl Alacağınız
+Günlük Raporun 3. Bölümünde yer alan PTS Diff ve PTM Diff 
+göstergelerini, Neural Endeksi ile birlikte kullanarak beklenen 
+piyasa yönünü teyit edebilirsiniz. En güçlü teyit, Endeks, PTS Diff 
+ve PTM Diff birbirleriyle uyumlu olduğunda gerçekleşir.
+VantagePoint'in sinir ağları her gün hedef pazar ve ilgili pazarlar 
+hakkındaki en son verilerle güncellendiğinden, VantagePoint 
+tahminlerini yapar ve her tahmin edilen hareketli ortalama ile aynı 
+uzunluktaki gerçek hareketli ortalama arasındaki değer farkını 
+hesaplar. Tahmin edilen hareketli ortalamaları kullanarak, 
+VantagePoint hareketli ortalamaların tüm yumuşatma etkilerini 
+korurken gecikmeyi etkili bir şekilde ortadan kaldırır.
+Tahmin edilen hareketli ortalama geçtiğindeüstündegerçek hareketli 
+ortalama (PTS Diff veya PTM Diff dönüşleri)olumlu), VantagePoint piyasa 
+eğiliminin değişmesini bekliyoryukarıBu iki göstergenin her biriyle ilgili 
+tahmin zaman ufku içerisinde.
+• PTS Diff pozitif olduğunda, maksimum pozitif değere ulaştığında ve 
+daraldığında (yukarı yönlü eğilimin güç kaybetmeye başladığını 
+gösterir), bu size piyasanın bir düşüş yapmak üzere olduğuna dair 
+erken bir uyarı verir.tepeve önümüzdeki iki gün içinde geri dönün.
+• PTM Diff pozitif olduğunda, maksimum pozitif değere ulaştığında ve 
+daraldığında (yukarı yönlü eğilimin güç kaybetmeye başladığını gösterir), 
+bu size piyasanın bir düşüş yapmak üzere olduğuna dair erken bir uyarı 
+verir.tepeve önümüzdeki dört gün içinde geri çekilin.
+Benzer şekilde, tahmin edilen hareketli ortalama geçtiğindealtında
+gerçek hareketli ortalama (PTS Diff veya PTM Diff dönüşleri)negatif), 
+VantagePoint piyasa eğiliminin değişmesini bekliyoraşağıBu iki 
+göstergenin her biriyle ilgili tahmin zaman ufku içerisinde.
+• PTS Diff negatif olduğunda, maksimum negatif değere ulaştığında ve 
+daraldığında (aşağı yönlü eğilimin güç kaybetmeye başladığını 
+gösterir), bu size piyasanın bir düşüş yapmak üzere olduğuna dair 
+erken bir uyarı verir.altve önümüzdeki iki gün içinde ortaya çıkacak.
+84 Ticari Sırlar
+
+
+=== PDF PAGE 73 ===
+• PTM Diff negatif olduğunda, maksimum negatif değere ulaştığında ve 
+daraldığında (aşağı yönlü eğilimin güç kaybetmeye başladığını 
+gösterir), bu size piyasanın bir düşüş yapmak üzere olduğuna dair 
+erken bir uyarı verir.altve önümüzdeki dört gün içinde ortaya çıkacak.
+Geçişin gerçekten gerçekleşmesini beklemek yerine, piyasa 
+eğiliminin güç kaybetmeye başladığına dair en erken uyarı olan PTS 
+Diff veya PTM Diff'teki daralmaya dayalı işlem kararları alabilirsiniz. 
+Örneğin, uzun bir pozisyondaysanız, hesap boyutunuza, risk 
+eğiliminize, elde edilen bilgilere bağlı olarak bu bilgiye göre çeşitli 
+şekillerde hareket edebilirsiniz.
+Ayrıca kullandığınız tek pazar teknik 
+göstergeleri, işlem tarzınız ve 
+hedefleriniz. Uygulanabilecek sadece 
+üç olası strateji şunlardır:
+Kullanabilirsiniz
+PTS Diff ve PTM 
+Diff göstergeleri
+Bölüm 3'te
+Günlük Rapor
+ile birlikte
+Sinirsel Endeks
+onaylamak için
+beklenen pazar
+yön.
+en güçlü doğrulama
+Bu durum ne zaman meydana gelir
+Endeks, PTS Farkı 
+ve PTM Farkı
+anlaşma ile
+birbirine göre.
+• PTS Diff veya PTM Diff maksimum pozitif 
+değere ulaşırsa ve küçük bir miktar bile 
+daralırsa, uzun pozisyonunuzu kapatıp 
+kenara çekilebilirsiniz. Daha sonra, PTS 
+Diff veya PTM Diff'in daha da 
+daralmasını bekleyebilir veya kısa bir 
+işlem yapmadan önce bunlardan 
+birinin veya ikisinin negatife dönmesini 
+bekleyebilirsiniz, Neural Endeksi hala 
+0,00'a değişmemiş olsa bile. PTS Diff 
+veya PTM Diff (veya her ikisi) yenilenmiş 
+bir güç gösterirse (tahmin edilen ve 
+gerçek hareketli ortalama değeri 
+arasındaki fark)
+(daralmaya devam etmek yerine tekrar genişlerse) uzun pozisyonunuza 
+yeniden girebilirsiniz.
+• PTS Diff veya PTM Diff maksimum pozitif değere ulaşırsa ve küçük 
+bir miktar bile daralırsa ve Endeks 1,00 ise, stop'unuzu 
+sıkılaştırabilir ve uzun pozisyonunuzda kalabilirsiniz. Bu stratejiyle, 
+piyasa yenilenmiş bir güç gösterirse hala uzun pozisyondasınız. 
+Bunun yerine, fark sonraki günlerde daralmaya devam ederse, 
+uzun pozisyonunuzu kapatır ve kenara çekilir veya pozisyonları 
+tersine çevirirdiniz.
+• PTS Diff veya PTM Diff maksimum pozitif değere ulaşırsa ve önceden 
+belirlenmiş minimum bir miktara kadar daralırsa, kapatabilirsiniz
+Teknik Analizle Trend Tahmini 85
+
+
+=== PDF PAGE 74 ===
+uzun pozisyonunuzu alın ve Endeks hala 0,00'a değişmemiş olsa bile kısa 
+pozisyona geçin. Bu strateji üçü arasında en agresif olanıdır çünkü mevcut 
+piyasa eğiliminin zirve yapıp yön değiştirmesi muhtemel olduğuna dair en 
+erken belirtide pozisyonları tersine çevirmeyi içerir.
+Benzer şekilde, eğer kısa pozisyondaysanız, bu üç stratejiden birini 
+izlemeden önce PTS Diff veya PTM Diff'in maksimum negatif değere 
+ulaşmasını ve daralmasını beklersiniz.
+PTS Diff ve PTM Diff'in bir günden diğerine birbirine benzer 
+şekilde davranması (ve Neural Index tarafından doğrulanması) 
+ölçüsünde, piyasanın bu üç göstergenin tahmin zaman ufukları 
+içinde beklendiği gibi hareket edeceğinden daha emin olabilirsiniz.
+Tahmin edilen hareketli ortalamaları gerçek hareketli ortalamalarla 
+karşılaştıran trend tahmin stratejileri oluşturarak, trend yönündeki yaklaşan 
+bir değişiklik hakkında erken uyarı alabilirsiniz; bu, geleneksel bir fiyat 
+grafiğinde görünmesinden veya gecikmeli hareketli ortalama geçiş 
+yaklaşımları gibi tek piyasa trend takip göstergeleriyle tespit edilmesinden 
+günler önce gerçekleşir.
+İşte Basit Bir Örnek
+Şekil 5-12. VANTAGEPOINT, A'yı ÖNGÖRÜYOR
+PAZAR GÜÇ GÖSTERDİĞİNDE 
+PAZAR ZİRVEDE
+Şekil 5-12, 10 yıllık Hazine 
+bonoları ticaretinin bir örneğidir. 
+Uygulamada, Vantage-Point'i 
+güncelledikten sonraki her gün, o 
+günün Günlük Raporunun 3. 
+Bölümünde en son Endeks, PTS 
+Diff ve PTM Diff değerlerini 
+görürsünüz.
+Dizin
+1.00
+0,00
+0,00
+0,00
+0,00
+PTS Farkı
+6
+- 14
+- 20
+- 34
+- 27
+PTM Farkı
+- 3
+- 21
+- 18
+- 34
+- 27
+24/04/00
+25/04/00
+26/04/00
+27/04/00
+28/04/00
+Endeks, PTS Diff ve PTM Diff'te beş günlük bir süre zarfında 
+gerçekleşen değişimler, piyasanın zirve yapıp aşağı yönlü bir 
+dönüş yapmak üzere olduğu uyarısını veriyor.
+Bu örnek için, Endeksin 
+değişmesini beklemek gibi 
+daha muhafazakar bir 
+işlem stratejisi
+1,00'dan 0,00'a ve PTS Diff ve PTM Diff'in her ikisinin de kısa bir işleme 
+girmeden önce negatife dönmesi incelenecektir. Bu nedenle, piyasanın 
+bir tepe yapma olasılığının yüksek olduğunu ve zayıflığın başlamak üzere 
+olduğunu gösteren aşağıdaki nispeten katı koşulların karşılanması 
+gerekecektir:
+Kaynak: Market Technologies Corporation
+• Endeks değeri 1,00 ise, bu durum piyasanın bir yükseliş trendinde olduğunu gösterir.
+yukarı Trendi yakalamak için Endeksin 0,00'a dönmesini beklersiniz.
+86 Ticari Sırlar
+
+
+=== PDF PAGE 75 ===
+• PTS Diff pozitifse, piyasanın bir yükseliş trendinde olduğunu gösterir.yukarı
+trendi yakalamak için PTS Diff'in daralıp negatife dönmesini beklersiniz.
+• PTM Diff pozitifse, piyasanın bir düşüş içinde olduğunu gösterir.yukarıtrendi 
+yakalamak için PTM Diff'in daralıp negatife dönmesini beklersiniz.
+24/04/00 tarihindeki kapanışın ardından VantagePoint, Endeks değerini bildirdi
+1.00, 6'lık bir PTS Diff ve -3'lük bir PTM Diff. Piyasa 4/19/00, 
+4/20/00 ve 4/24/00'de giderek daha yüksek zirveler ve daha 
+yüksek diplerle güç gösterirken, 4/24/00'deki negatif PTM Diff, 
+piyasanın zayıflaması ve aşağı dönmesinin beklendiğinin ilk net 
+onayıdır.
+4/25/00'deki kapanıştan sonra, Endeks 1,00'dan 0,00'a değişti 
+ve PTS Diff 6'dan -14'e değişti, bu da 4/24/00'de negatif PTM Diff 
+tarafından belirtilen zayıflığı doğruladı. Aslında, 4/25/00'de PTM 
+Diff bile
+-3'ten -21'e değiştiği için beklenen 
+daha fazla zayıflık. Bu üç öncü 
+gösterge birbirini bu şekilde 
+doğruladığında, kısa pozisyon 
+alınabileceğine dair güçlü bir 
+göstergedir. Yaklaşan zayıflık 
+beklentisi, Endeks 0,00'da kaldığında 
+ve PTS Diff -14'ten -20'ye değiştiğinde 
+4/26/00'daki kapanıştan sonra 
+yeniden doğrulandı.
+Yaratarak
+trend tahmini
+stratejiler, hangi
+tahmin edileni karşılaştır
+hareketli ortalamalar
+gerçek hareketle
+ortalamalar, sen
+erken uyarı 
+alabilirsiniz
+yaklaşan değişim
+trend yönünde.
+Endeks 1,00'dan 0,00'a değiştiğinde 
+ve PTS Diff ve PTM Diff pozitiften 
+negatife değiştiğinde, alt endekste 
+daha fazla zayıflık belirtisi görülür.
+Endeks 0,00'da kalırsa ve PTS Diff ve PTM Diff daha da negatif hale 
+gelirse, bu günler daha da kötüleşir. Bu, Endeks 0,00'da kaldığında 
+ve hem PTS Diff hem de PTM Diff -34 değerine değiştiğinde 
+27/04/00'deki kapanıştan sonra olan şeydir.
+Karşıt senaryo uzun pozisyon almayı önerir. Bu, Endeks 0,00'dan 
+1,00'a değiştiğinde ve PTS Diff ve PTM Diff negatif olduğunda ve 
+pozitif değerlere geçmeden önce daha az negatif hale gelerek 
+daralmaya başladığında gerçekleşir. Daha fazla doğrulama için, Güç 
+Endeksi piyasanın ne ölçüde aşırı alım (büyük pozitif değerler) veya 
+aşırı satım (büyük negatif değerler) haline geldiğini belirlemek için 
+kullanılabilir.
+Teknik Analizle Trend Tahmini 87
+
+
+=== PDF PAGE 76 ===
+Yarının Fiyat Tahminleriyle Günlük ve 
+Pozisyon Ticareti
+Günlük Raporun 3. Bölümündeki Endeks, PTS Diff ve PTM Diff'i 
+kullanarak beklenen trend yönünü belirledikten sonra, Günlük 
+Raporun 2. Bölümündeki bir sonraki günün tahmini Yüksek ve 
+tahmini Düşük'üne bakarak giriş noktanızı belirleyebilirsiniz. Bu fiyat 
+tahminleri, geleneksel tek piyasa teknik analiz yaklaşımlarındaki 
+destek ve direnç çizgilerinin uzatılmasına benzer şekilde bir sonraki 
+gün için beklenen bir işlem aralığı oluşturur.
+VantagePoint'in avantajı ise, piyasalar arası verilere uygulanan 
+sinir ağlarının desen tanıma yeteneklerine dayanan bir sonraki 
+günün Yüksek ve Düşük tahminlerinin nesnel olarak belirlenmesi ve 
+geçmişteki tek piyasa verilerinden rastgele doğrusal bir 
+ekstrapolasyon olmamasıdır.
+Günlük tüccarsanız, düşük riskli günlük işlemleri belirlemek için bir sonraki 
+günün Yüksek ve Düşük tahminlerini kullanabilirsiniz. Belirli bir hedef pazar 
+için Sinirsel Endeks ve tahmin edilen hareketli ortalama göstergeleri, bir 
+sonraki günün biraşağıGün içinde, tahmini Yüksek seviyeye doğru piyasanın 
+yukarı yönlü işlem görmesini bekleyebilir, ardından limit veya piyasa emriyle 
+kısa pozisyon açabilir ve işlemi tahmini Düşük seviyesine yakın bir seviyede 
+kapatmayı düşünebilirsiniz.
+Şekil 5-13'ün sol tarafı (sayfa 89'a bakın) 4/25/00'de kapanıştan sonra 
+yapılan tahmini, 4/26/00'de 10 yıllık Hazine bonoları için 9747 olarak 
+gösteriyor. VantagePoint ayrıca bu piyasanınaşağı4/26/00 tarihinde, 
+günlük yatırımcıların tahmin edilen Yüksek'e yakın kısa pozisyonlara 
+girebileceğini gösteriyor. Şekil 5-13'ün sağ tarafı 4/26/00 tarihinde 
+gerçekte ne olduğunu gösteriyor.
+Benzer şekilde, beklenen bir günde tahmin edilen Düşük seviyesine yakın bir 
+yerde uzun pozisyonlara girilebilir.yukarı, öngörülen Yüksek'e yakın çıkışlarla. Bu, 
+günlük yatırımcıların beklenen bir düşüş trendi içinde yükselişleri satmalarına 
+veya beklenen bir yükseliş trendi içinde düşüşleri satın almalarına olanak tanır, 
+günlük piyasa oynaklığına bağlı olarak günde bir veya daha fazla kez. Bu 
+stratejiyle gerçekleştirilen günlük işlemlerin karlılığı, sıkı durdurmalar 
+kullanılabildiğinden, minimum riskle önemli olabilir.
+Pozisyon tüccarıysanız, pozisyonlara girmek için bir sonraki günün Yüksek ve Düşük 
+tahminlerini kullanabilir, ardından stop'unuzu hareket ettirmek veya işlemden çıkmak 
+için sonraki günlerin tahminlerini kullanabilirsiniz. Örneğin, diyelim ki
+88 Ticari Sırlar
+
+
+=== PDF PAGE 77 ===
+Şekil 5-13. GÜNLÜK TİCARETÇİLER VANTAGEPOINT'İN FİYAT TAHMİNLERİNİ KULLANIR
+HIZLI İŞLEMLER İÇİN
+25/04/00 26/04/00
+Yüksek: 9754
+- VantagePoint, piyasanın ertesi gün 
+(26/04/00) düşüş göstereceğini tahmin 
+ediyor.
+Öngörülen
+Yüksek: 9747
+Oluşturuldu
+4/25/00 ticaret için
+26/04/00 tarihinde.- VantagePoint, bir sonraki işlem gününde 
+(26/04/00) en yüksek seviyenin 9747 olacağını 
+tahmin ediyor. Kapat: 9736
+- Yatırımcılar 9747 civarında kısa pozisyon açmayı 
+düşünmelidir.
+Açık:
+9732
+Düşük: 9730
+VantagePoint bu piyasanın 26/04/00'da düşüşe geçeceğini tahmin ediyor. Günlük yatırımcılar, gün 
+sonundan önce kısa pozisyonu kapatarak, tahmin edilen 9747 Yüksek seviyesine yakın bir kısa pozisyona 
+girebilirler.
+Kaynak: Market Technologies Corporation
+25/04/00 ve bu akşamki Günlük Rapor'a baktınız ve her şey bir 
+sonraki gün için düşüş eğilimini gösteriyor. 26/04/00'da kısa 
+pozisyon açmaya karar veriyorsunuz.
+Şekil 5-14'te 4/25/00 tarihli 
+Günlük Rapor'da gösterildiği 
+gibi, 4/26/00 için öngörülen 
+Yüksek'e bakarak piyasaya 
+nereden girmeniz gerektiğini 
+belirleyebilirsiniz. Bu 
+durumda 9747'de veya 
+yakınında kısa pozisyon 
+açabilirsiniz.
+Şekil 5-14. ÖNGÖRÜLEN YÜKSEK VE DÜŞÜK
+BÖLÜM 2'DE
+Yüksek Pulluk
+25/04/00 9747 9712
+Pozisyon yatırımcıları, tahmin edilen Yüksek 
+seviyeye yakın bir noktada kısa pozisyonlara girebilir 
+ve piyasanın dip yapması beklenen seviyeye kadar 
+pozisyonda kalabilirler.
+Kaynak: Market Technologies Corporation
+Tahminlere Dayalı Yerleştirmeyi Durdurun, Tahminlere Değil
+Risk eğiliminize bağlı olarak, öngörülen 9747 Yüksek seviyesinin 
+üzerinde bir yere koruyucu bir satın alma durdurma emri koyabilirsiniz, 
+böylece durdurma emriniz VantagePoint'in 26/04/00 için tahmin ettiği 
+günlük aralığın yeterince dışında olur. Bu, durdurulma olasılığını azaltır.
+Teknik Analizle Trend Tahmini 89
+
+
+=== PDF PAGE 78 ===
+Gün içi piyasa oynaklığı nedeniyle erken düşüşe geçebilir, ancak piyasanın tahmin 
+edilen Yüksek seviyeyi geçip yukarı yönlü bir çıkış yapması durumunda sizi 
+koruyabilir.
+Durdurma emrinizi bir sonraki günün Yüksek veya Düşük seviyelerine ilişkin 
+tahminlere göre ayarlamanın faydası, durdurma emrinizin, destek ve direnç trend 
+çizgilerini uzatma gibi geleneksel tek piyasa analizi yöntemleriyle ayarlanan diğer 
+yatırımcıların durdurma emirleri arasında kümelenme olasılığının daha düşük 
+olmasıdır.
+Pozisyon tüccarı olarak, kısa pozisyonunuzda ertesi güne kadar 
+kalırsınız. Daha sonra VantagePoint, 4/26/00 kapanışından sonra 
+güncellenen Günlük Rapor'da beklenen zayıflığın devam ettiğini 
+gösterirse (4/27/00'de işlem yapmak için kullanılacak), kısa pozisyonu bir 
+gün daha tutarsınız. Bu durumda piyasa 4/27/00'de 9734'te açıldı ve 
+daha önce Şekil 5-7'de gösterildiği gibi (sayfa 78'e bakın) 9654'te önemli 
+ölçüde daha düşük bir seviyede kapandı. Aslında, Şekil 5-9'dan (sayfa 
+80'e bakın) Endeks, PTS Diff ve PTM Diff'in Hazine bonoları yaklaşık üç 
+puan düştüğünde 5/8/00'e kadar devam eden zayıflığı gösterdiğini 
+görebilirsiniz.
+Diğer Piyasalar Ek Onay Veriyor
+Her VantagePoint programının sinir ağları her bir hedef pazar 
+için bağımsız olarak geliştirilip eğitildiğinden, diğer hedef 
+pazarlardan alınan günlük raporlar ek doğrulama amacıyla 
+kullanılabilir.
+Bir Günlük Raporu öğrendikten ve PHigh, PLow, Neural Index, PTS 
+Diff ve PTM Diff açısından neye bakmanız gerektiğini anladıktan 
+sonra, VantagePoint tarafından izlenen diğer piyasaların Günlük 
+Raporlarını anlamak kolaydır.
+Örneğin, eurodolar, 2 yıllık Hazine bonoları, 5 yıllık Hazine bonoları ve 
+30 yıllık Hazine tahvillerine ilişkin günlük raporlar, 10 yıllık Hazine 
+bonolarına ne olabileceği konusunda önemli bilgiler sağlıyor; çünkü bu 
+beş piyasa birlikte ele alındığında doksan günden otuz yıla kadar olan 
+tüm faiz oranı getiri eğrisini kapsıyor.
+Bu diğer raporlardaki öngörülen göstergeler 10 yıllık Hazine bonoları 
+Günlük Raporu'ndaki göstergeleri ne kadar doğrularsa, Hazine bonoları 
+piyasasının beklendiği gibi hareket etme olasılığı o kadar yüksek olur. 
+Öte yandan, bu diğer raporlar ters göstergeler verirse,
+90 Ticari Sırlar
+
+
+=== PDF PAGE 79 ===
+dikkatli olmalısınız. Benzer onaylar veya sapmalar, VantagePoint 
+tarafından izlenen enerji piyasaları, hisse senedi endeksleri ve dövizler 
+arasında bulunabilir.
+Vadeli işlem ticareti yapmayan, sadece bireysel hisse senetleri alıp satan 
+yatırımcılar (örneğin Nasdaq Bileşik Endeksi'ni oluşturan yeni ekonomi 
+teknoloji hisseleri veya Dow'u oluşturan eski ekonomi hisseleri) bile bireysel 
+hisse senedi işlemlerinin zamanlaması için VantagePoint'in Nasdaq ve Dow 
+programlarını kullanabilir.
+En İyi İşlemleri Nasıl "Seçersiniz"
+VantagePoint programlarının büyük finansal piyasaları kapsamasıyla, 
+birden fazla programa sahip yatırımcılar her gün yalnızca karlı olma 
+olasılığı en yüksek olan işlemleri seçebilirler. Ben buna "kiraz seçme" 
+diyorum. Bu, birçok yatırımcının düştüğü, yapılacak iyi bir işlem 
+olmadığında bile işlem yapmaya mecbur hissettikleri tuzaktan 
+kaçınmanızı sağlar. Bu yüzden, tahmin edilebileceği gibi olumsuz 
+sonuçlar veren marjinal işlemlerin peşinden koşarlar.
+Kısa vadeli piyasa yönünü tahmin etmede neredeyse %80 
+doğruluk oranına sahip piyasalar arası trend tahminlerine sahip 
+olmanın avantajını ve piyasalara ilişkin bakış açınızı yalnızca her bir 
+piyasadaki iç dinamiklere odaklanmanın ötesine genişletmenin 
+faydasını takdir edebiliyorsanız, o zaman piyasalar arası analize ve 
+bir piyasa tahmin aracı olarak sinir ağlarının gücüne inanan biri 
+olacaksınız.
+Bir sonraki bölümde, sinir ağlarının ne olduğunu ve bunların herhangi bir 
+finansal piyasanın piyasa yönünü tahmin etmek için bir tahmin aracı olarak nasıl 
+kullanılabileceğini matematiksel olmayan terimlerle çok kısa bir şekilde 
+açıklayacağım.
+Teknik Analizle Trend Tahmini 91
+
+
+=== PDF PAGE 80 ===
+Bölüm 6
+NÖRAL AĞLAR
+Finansal IQ'nuzu Nasıl Yükseltebilirsiniz?
+Rekabette Önde Olun
+T
+İnsan beyni, nöronlar olarak bilinen ve birbirleriyle olan 
+bağlantıları aracılığıyla bir nörondan diğerine bilgi ileten yüz 
+milyarlarca hücreden oluşur. Bu süreç, bir kişinin diğer 
+görevlerin yanı sıra ilişkileri öğrenmesini, çıkarımlarda bulunmasını, 
+kalıpları tanımasını ve tahminlerde bulunmasını sağlar. İnsan beyninden 
+önemli ölçüde daha az karmaşık olsa da
+Beyin, sinir ağlarının bilgiyi nasıl işlediğini, 
+desen tanıma ve tahmin etme işlemlerini 
+nasıl gerçekleştirdiğini modelliyor.
+Sinir ağları
+mükemmeldir
+Eleme
+muazzam miktarlar
+Görünüşte onarılamaz olan
+son piyasa verileri
+ve tekrarlayanı bulmak
+etkili desenler
+asla olamaz
+görsel olarak algılanan
+sadece fiyat grafiklerine 
+bakarak veya iki piyasayı 
+karşılaştırarak
+Birbirlerine karşı.
+Sinir ağları, katmanlar halinde 
+düzenlenmiş ve her bağlantıya değişken 
+matematiksel ağırlıklar atfedilen ağ 
+mimarisi aracılığıyla birbirine bağlanmış 
+bireysel nöronlardan oluşur. Mimari bir 
+giriş katmanı, gizli katman ve bir çıktı 
+katmanı içerir.
+Sinir ağları, görünüşte birbiriyle alakasız 
+olan muazzam miktardaki piyasa verilerini 
+eleme ve yalnızca bakarak görsel olarak asla 
+algılanamayacak tekrarlayan kalıpları bulma 
+konusunda mükemmeldir.
+fiyat grafikleri veya iki piyasayı birbiriyle karşılaştırarak. "Öğrenme" veya 
+"eğitim" olarak bilinen matematiksel bir hata en aza indirme süreciyle, 
+düzgün bir şekilde tasarlanırsa, sinir ağları bu kalıplara dayalı olarak son 
+derece doğru piyasa tahminleri yapmak üzere eğitilebilir.
+Teknik Analizle Trend Tahmini 93
+
+
+=== PDF PAGE 81 ===
+Yapay Sinir Ağları Teknik ve Piyasa Arası 
+Verileri Birleştiriyor
+VantagePoint'in sinir ağları, her hedef pazar için belirli 
+tahminler yapmak üzere tasarlanmış ve eğitilmiştir. Hedef 
+pazardan ve ilgili pazarlardan gelen ham girdi verileri, ham 
+verilerin istatistiksel "ön işleme"si, ağ mimarisi ve eğitim ve test 
+rejimleri her hedef pazara göre uyarlanmıştır.
+Şekil 6-1, hedef pazardan gelen tek pazar teknik verilerinin ve ilgili 
+pazarlardan gelen pazarlar arası verilerin, VantagePoint'in sinir ağlarına 
+nasıl aktarıldığını ve VantagePoint'in her gün izlediği yirmi beş hedef 
+pazarın her biri için tahminler nasıl yapıldığını göstermektedir.
+On yıl önceki geri test ve optimizasyon gibi, sinir ağları da ilk başta 
+1990'ların başında, Vantage-Point'in ilk sürümünün yayınlandığı 
+sıralarda finans sektöründe şüphecileri ve muhalifleri vardı. Finans 
+sektörünün dışından, sinir ağlarının diğer alanlara uygulanması 
+konusunda bilgi sahibi olan ve yazılımları için yatırımcılar arasında 
+potansiyel olarak kazançlı bir pazar algılayan yazılım geliştiricileri, 
+yatırımcılara çeşitli sinir ağı yazılım programları sunmak için finans 
+sektörüne akın etti. Çok geçmeden sinir ağları, potansiyelleri 
+hakkındaki beklentiler baş döndürücü seviyelere ulaştığında, tanıtım 
+pazarlama literatüründe teknik analizin Kutsal Kase'si olarak 
+tanıtılmaya başlandı.
+ŞEKİL 6-1. VANTAGEPOINT'İN NÖRAL AĞLARI PİYASA TAHMİNLERİ YAPIYOR
+Amaç
+Verilerden
+Hedef Pazar Eğilim
+Tahminler
+Ve
+Fiyat
+Tahminler
+Sinirsel
+AğlarVerilerden
+İlgili
+Piyasalar
+Tek pazar teknik verileri ve ilgili pazarlardan gelen pazarlar arası veriler, hedef pazar için 
+tahminler oluşturmak amacıyla VantagePoint'in sinir ağlarına aktarılır.
+Kaynak: Market Technologies Corporation
+94 Ticari Sırlar
+
+
+=== PDF PAGE 82 ===
+Finans piyasalarının inceliklerini ve teknik analizin altında yatan 
+detayları bilmeyen finans sektörüne yeni girenlerin çoğu, Kutsal 
+Kase'ye ulaşılamadığı için yatırımcılar arasında sinir ağlarına 
+karşı bir tepki oluşmasına neden oldu.
+Ancak, 1980'lerin ortalarından beri odak noktam piyasalar 
+arası analiz oldu. Sinir ağları, görünüşte farklı piyasa verilerinde 
+gizli kalıpları ve ilişkileri bulmak ve öznel olmayan, nicel bir 
+şekilde son derece doğru kısa vadeli piyasa tahminleri yapmak 
+için belirlediğim en iyi matematiksel araçtır. Sinir ağları sihirli bir 
+kurşun değildir. Amaç değil, araçtırlar.
+Sinir Ağları Desenleri Öğrenir ve 
+Tahminler Yapar
+Sinir ağları, finans sektöründe ilk ortaya çıktığı son on yılda, 
+finansal tahmin, kurumsal karar alma (risk analizi ve 
+dolandırıcılık tespiti dahil), karakter tanıma ve tıbbi teşhis gibi 
+birkaç uygulama alanında başarıyla uygulandı.
+Son zamanlarda Computer Associates International'ın Neugents 
+gibi karar analizi için sinir ağı yazılımı geliştiren ve tanıtan önde 
+gelen yazılım şirketleri ile birlikte™Yazılımda, sinir ağları ana akım 
+matematiksel bir araç olarak daha fazla kabul görmeye başladı.
+Giriş Katmanı
+Bir sinir ağı, tek pazar teknik veri girdileriyle sınırlı değildir. Bir 
+sinir ağı, piyasa tahminlerine piyasalar arası verileri (ve temel 
+verileri) uygulamada mükemmeldir.
+Örneğin, New York Hafif Ham Petrolünü tahmin etmek üzere tasarlanmış 
+bir sinir ağı için analiz, ham petrol vadeli işlemlerine ilişkin on yıllık geçmiş 
+fiyat, hacim ve açık faiz verilerini içeriyor.
+Analiz ayrıca şu piyasa içi girdileri de içerir: ham petrol nakit, 
+Bridge/CRB Vadeli İşlem Fiyat Endeksi, S&P 100, Comex altını, 
+Comex gümüşü, Japon yeni, NY ısıtma yağı #2, Hazine tahvilleri 
+ve ABD Doları Endeksi. Ek olarak, temel veri girdileri dahil 
+edilebilir. Ham girdi verileri seçildikten sonra, öğrenmeyi 
+kolaylaştırmak için çeşitli cebirsel ve istatistiksel dönüşüm 
+yöntemleri kullanılarak ön işleme tabi tutulur.
+Teknik Analizle Trend Tahmini 95
+
+
+=== PDF PAGE 83 ===
+Gizli Katman
+Gizli katman, bir sinir ağı tarafından öğrenme süreci sırasında 
+"zekasını" depolamak için dahili işleme için kullanılır. Bu katman, 
+ağın girdi verilerini gizli kalıpları ve ilişkileri yakalayan bir forma 
+yeniden kodladığı nöronlardan oluşur. Ağ, önceden öğrenilmiş 
+gerçeklerden yeni girdilere genelleme yapar ve bu da 
+tahminlerini yapmasını sağlar. Gizli katmandaki nöron sayısı ve 
+gizli katman sayısı deneylerle belirlenir.
+Çıktı Katmanı
+Çıktı katmanı, bir ağın tahminlerinin yapıldığı yerdir. Finansal analizde 
+iki tür gerçek sayı çıktısı, bir sonraki günün en yüksek ve en düşük 
+seviyesi gibi fiyat tahminleri ve gelecekte iki gün için öngörülen 5 günlük 
+hareketli ortalama değeri gibi teknik gösterge tahminlerini içerir. Sadece 
+hangi çıktının tahmin edileceğine değil, aynı zamanda tahminin ne kadar 
+ileriye yapılacağına dair kararlar alınmalıdır.
+Öğrenme Algoritmaları
+Bir sinir ağını eğitmek için kullanılabilecek birçok farklı 
+öğrenme algoritması vardır. Her algoritmanın farklı performans 
+özellikleri vardır. Tüm algoritmalar, ağın tahminlerindeki genel 
+hatayı en aza indirmeye çalışır.
+Popüler öğrenme algoritmalarından biri gradyan-iniş algoritmasıdır. 
+Ancak gradyan-iniş yavaş eğitir ve sıklıkla alt-optimal çözümler bulur. Bu 
+sınırlama, izole edilmiş ve istikrarsız olan alt-optimal parametre 
+değerleri kümelerinin bulunduğu kural tabanlı ticaret stratejilerinin geri 
+test edilmesi ve optimizasyonunda karşılaşılan tuzaklara benzerdir.
+Bir Sinir Ağı Nasıl Öğrenir
+Bir sinir ağını eğitmek, sinir ağının altta yatan gizli kalıpları 
+öğrendiği, öncüleri ve geri kalanları ayırt ettiği ve girdi verilerine 
+tekrar tekrar maruz kalarak verilerdeki doğrusal olmayan ilişkileri 
+belirlediği tekrarlayan bir matematiksel süreci içerir. Öğrenilen 
+bilgiler ağ tarafından bir ağırlık matrisi biçiminde depolanır ve 
+ağırlıklardaki değişiklikler ağ "öğrendikçe" meydana gelir. Benzer
+96 Ticari Sırlar
+
+
+=== PDF PAGE 84 ===
+İnsanların girdiği öğrenme sürecine göre, bir sinir ağı, tekrarlanan 
+örneklerine maruz kalarak desenleri öğrenir. Daha sonra sinir ağı, 
+öğrenme süreci boyunca ilişkili ancak daha önce görülmemiş 
+desenlere genelleme yapar.
+Finansal piyasa analizi ve tahmini için kullanılan popüler bir ağ 
+paradigması, Şekil 6-2'de gösterilen "hata geri yayılımı" yoluyla 
+eğitim veren "ileri beslemeli" ağ olarak bilinir.
+Eğitildikten sonra, sinir ağı bir piyasa tahmin aracı olarak hareket 
+ederek yatırımcıların teknik analizin trend belirleme ve tahmin 
+hedeflerine ulaşmasını sağlar.
+ŞEKİL 6-2. BASİT İLERİ BESLEMELİ GERİ YAYIMLI SİNİR AĞI
+Trend Tahminleri
+Geri
+Yayılma
+Hata Çıktı
+Gizlenmiş
+Giriş
+Hedef Pazardan Girdi Verileri ve
+İlgili Piyasalar
+Giriş olarak teknik ve piyasalar arası verileri kullanan basit bir ileri beslemeli geri 
+yayılım ağı, ağ boyunca hatanın geri yayılımı yoluyla eğitilir.
+Kaynak: Market Technologies Corporation
+Teknik Analizle Trend Tahmini 97
+
+
+=== PDF PAGE 85 ===
+Aşırı Antrenman İstenmez
+Sinir ağını aşırı eğitmekten kaçınılmalıdır. Aşırı eğitim, bir sinir 
+ağının belirli eğitim verilerine özgü incelikleri ve özellikleri 
+ezberlemesi ve yeni verilere genelleme yapma kapasitesi 
+geliştirmemesi durumunda ortaya çıkar. Aşırı eğitim, kural tabanlı 
+işlem stratejilerinde geri test ve optimizasyon gerçekleştirirken eğri 
+uydurmaya veya aşırı optimizasyona benzer. Aşırı eğitilmiş bir ağ, 
+örneklem dışı test verilerinde ve sonrasında gerçek zamanlı işlem 
+sırasında tahminlerini yaparken kötü performans gösterecektir.
+Bir Sinir Ağının Doğruluğu Nasıl Test Edilir
+Test, eğitim süreci boyunca bir sinir ağı tarafından görülmemiş 
+verilerden oluşan bağımsız bir test dosyası oluşturularak 
+gerçekleştirilir. Test modunda sinir ağına bu yeni girdiler verilir 
+ve tahminlerini oluşturmak için daha önce öğrendiği temsili 
+kullanır. Bu, ağın simüle edilmiş işlem koşulları altında 
+değerlendirilmesini sağlar. Bu, kural tabanlı işlem stratejilerinin 
+"ileriye doğru" veya "örneklem dışı" testine benzerdir.
+Test verilerindeki çeşitli sinir ağlarından elde edilen 
+performans sonuçları, nihai uygulamada hangi belirli sinir ağının 
+seçileceğine karar vermeden önce karşılaştırılabilir. 
+Karşılaştırmalı test performans sonuçlarına bağlı olarak, 
+genellikle giriş verilerinin seçimi, ön işleme, ağ mimarisi vb. ve 
+nihai uygulama ağı seçilmeden önce yürütülen yeniden eğitimde 
+değişiklikler yapılması gerekir.
+Sinir Ağları Hakkında Daha Fazlası Var
+Bir sinir ağını tasarlamak ve eğitmek ile kural tabanlı işlem 
+stratejileri geliştirmek ve test etmek arasında benzerlikler ve 
+farklılıklar vardır. Sinir ağlarının ardındaki teknik detaylar ve altta 
+yatan matematik hakkında daha fazla bilgi edinmek istiyorsanız, sizi 
+kişisel web sitem olanwww.GelecekTahminleri.comDaha önce sinir 
+ağlarının teknik analiz ve piyasa tahminine uygulanması hakkında 
+yazdığım birçok araştırma makalesinin ve kitap bölümünün yeniden 
+basımlarını da içeriyor.
+98 Ticari Sırlar
+
+
+=== PDF PAGE 86 ===
+Bölüm 7
+SONRAKİ UFKU
+Buradan Nereye Gidiyoruz ve Bu 
+Tüccarlar İçin Ne Anlama Geliyor?
+A
+Dünya finans piyasaları giderek daha fazla bütünleşirken, 21. 
+yüzyılın ilk on yıllarında piyasa analizinde piyasalar arası analiz 
+önemli bir rol oynayacaktır; tıpkı 20. yüzyılın sonlarında tek piyasa 
+ticaret stratejilerinin geriye dönük test edilmesi ve iyileştirilmesinin 
+bilgisayarlı teknik analizin ayrılmaz bir parçası haline gelmesi gibi.
+Her bir piyasayı kendi iç geçmiş fiyat verilerine göre analiz 
+eden dar tek piyasa yaklaşımının yerini çok boyutlu bir yaklaşım 
+almalıdır. On yıl önce teknik, piyasalar arası ve temel 
+yaklaşımların sentezine "sinerjik piyasa analizi" adını vermiştim. 
+Hiçbir finansal piyasa bir ada değildir. Artık hepsi birbirine 
+ayrılmaz bir şekilde bağlıdır.
+Neyse ki, sinir ağları hem tek bir pazar hem de pazarlar arası bir 
+bakış açısından pazarları analiz etmek için oldukça uygun olmakla 
+kalmayıp aynı zamanda temel veri girdilerini de içerebilir. Bunlara 
+arz ve talep istatistikleri ve Gayri Safi Milli Hasıla, Üretici Fiyat 
+Endeksi, Tüketici Fiyat Endeksi ve İşsizlik istatistikleri gibi ekonomik 
+veriler dahil olabilir. Hatta farklı ülkelerden karşılaştırmalı ekonomik 
+istatistikler bile dahil edilebilir.
+Aslında, finans piyasaları gelişmeye devam ettikçe teknik 
+analiz, piyasalar arası analiz ve temel analiz bir araya gelerek 
+finans piyasaları analizi olarak bilinen üç ayaklı tabureyi 
+oluşturacaktır.
+Görünüşte farklı olan sinir ağlarını bütünleştiren yapılandırılmış bir çerçevede 
+sinir ağlarının hesaplamalı modelleme yeteneklerinden yararlanarak
+Teknik Analizle Trend Tahmini 99
+
+
+=== PDF PAGE 87 ===
+Şekil 7-1'de gösterildiği gibi 
+teknik, piyasalar arası ve 
+temel veriler göz önüne 
+alındığında, niceliksel trend 
+tahmini 21. yüzyılda finansal 
+piyasa analizinde ön planda 
+olmaya devam edecektir.
+ŞEKİL 7-1. SİNERJİK ANALİZ
+BÜYÜK RESME BAKMAK
+Teknik
+Veri
+Tarih, daha sonra 
+ekonomik kalkınma ve 
+finans piyasaları üzerinde 
+büyük bir etki yaratmış ve 
+erken benimseyenleri bu 
+süreçte zenginleştirmiş 
+yeni ortaya çıkan 
+teknolojilerin hikayeleriyle 
+doludur. Demiryolu, uçak, 
+telefon, kserografi ve 
+İnternet, önemli ticari 
+uygulamalara sahip olan 
+ve ekonomik manzaranın 
+bir parçası haline gelen bu 
+tür teknolojileri temsil 
+eder.
+Esas
+Veri
+Pazarlar arası
+Veri
+Teknik piyasa analizinin evrimindeki bir 
+sonraki aşama, teknik, piyasalar arası ve 
+temel verileri birleştiren "sinerjik piyasa 
+analizi" olacak. Bu, tüm küresel ekonomik 
+ve finansal manzarayı kapsayan finansal 
+piyasa analizinin üç ayaklı taburesini 
+tamamlıyor.
+Kaynak: Market Technologies Corporation
+Teknolojik ilerleme, şüpheci, esnek olmayan veya yeni veya farklı 
+bir şeyi benimsemekten çok korkanlar tarafından engellenemez. Bu 
+tür dar görüşlülük ve dar görüşlülük, günümüzün hızla değişen 
+teknoloji odaklı dünyasında bir anakronizmdir.
+Finans sektöründe, sinir ağları ve piyasalar arası analiz gibi 
+gelişmiş niceliksel teknolojilerin küresel finans piyasası analizi ve 
+ticaretine uygulanması için de aynı şey söylenebilir. Geçmişte, 
+niceliksel teknolojilerin uygulanmasını içeren yeni analitik 
+yenilikler finans sektöründe dirençle karşılaşmıştır. Ancak 
+gelecekte, ortaya çıkan teknolojiler etkililiklerini gösterdikçe, 
+finans piyasası analizi uygulamasına daha hızlı dahil 
+edileceklerdir.
+Sinir ağları gerçektir; işe yararlar ve kalıcıdırlar. Yine de, sinerjik 
+ticaret stratejilerinin uygulanmasında uygulanabilir 
+matematiksel araçlardan sadece biridirler. Uzman sistemler, 
+genetik algoritmalar, fraktal geometri, kaos teorisi ve
+100 Ticari Sırlar
+
+
+=== PDF PAGE 88 ===
+bulanık mantık, birkaç örnek vermek gerekirse, piyasa analizinde de 
+farklı başarı dereceleriyle uygulanıyor. Kesinlikle daha fazlası 
+gelecek!
+Hiçbir Zaman Finansal Bir Kristal Küre Olmayacak
+Araştırma ve geliştirme çabalarım VantagePoint'in tahmin 
+doğruluğunu artırmaya odaklanmaya devam edecek. İncelenen 
+faktörlerden bazıları, piyasalar arası girdiler olarak kabul edilecek ek 
+küresel pazarların dahil edilmesini ve trend tahminlerini yapmak için 
+kullanılan hareketli ortalama uzunluklarının ve ileriye dönük dönemlerin 
+boyutunun optimize edilmesini içeriyor.
+Ayrıca, Londra Uluslararası Finansal Vadeli İşlemler Borsası'nda 
+Short Sterling ve Singapore Exchange Ltd.'de Euroyen gibi ABD 
+dışındaki finansal piyasaları izlemek için ek VantagePoint 
+programları geliştirmeyi planlıyorum. Ayrıca, Nasdaq-100 Endeksi'ni 
+içeren bireysel büyük sermayeli hisse senetlerine piyasalar arası 
+analiz uygulamak ve temel veri girdilerinin VantagePoint'e dahil 
+edilmesinin etkisini değerlendirmekle ilgileniyorum.
+Açıkçası, yatırımcıların piyasaların gelecekte ne yapacağını 
+%100 doğrulukla görebilecekleri bir finansal kristal küre asla 
+olmayacak. Bana göre, piyasa analistlerinin trend yönünü 
+%80-85'ten fazla doğrulukla tahmin etmesi mümkün olmayacak, 
+bunun nedeni küresel finans piyasalarında bulunan rastgelelik ve 
+öngörülemez olaylar ile etkili tahmin araçları geliştirmenin 
+zorluğudur.
+VantagePoint'in izlenen yirmi beş piyasanın tamamında %70'in üzerinde, on 
+dördünde %75'in üzerinde ve ikisinde (5 yıllık Hazine bonoları ve gaz yağı) %80'in 
+üzerinde olan mevcut doğruluk seviyesiyle, VantagePoint halihazırda neyin çarpıcı 
+bir mesafede olduğunu gösteriyor.gerçekçi bir şekilde ulaşılabilirtahmin 
+doğruluğu açısından.
+Yine de kitle psikolojisi, yargı, işlem deneyimi, risk eğilimi, 
+korku, açgözlülük, para yönetimi ve sermaye miktarı gibi bir 
+kişinin işlem performansını etkileyen sayısız ek faktör vardır.
+Tahmin sınırlarını sonuna kadar zorlamaya kararlıyım. Bu 
+benim tutkum. Bu, finansal piyasaları ve
+Teknik Analizle Trend Tahmini 101
+
+
+=== PDF PAGE 89 ===
+Teknik analiz benim için duygusal olarak çok heyecan verici, entelektüel olarak çok 
+zorlayıcı ve finansal olarak da çok cazip.
+Şu anda, VantagePoint gibi sağlam, ancak kullanımı kolay bir piyasalar arası 
+analiz aracı, ciddi yatırımcıların teknik analiz cephaneliklerindeki boşluğu 
+doldurmaları ve böylece tekerleği yeniden icat etmek veya roket bilimcisi olmak 
+için çalışmak zorunda kalmadan piyasalar arası analizden hemen yararlanmaya 
+başlamaları için akıllıca bir yoldur.
+Daha fazla sayıda tüccar piyasalar arası analizi benimseyip bunu 
+işlemlerine dahil ettikçe, ilgili piyasalar arasındaki gizli ilişkilere ve 
+karmaşık kalıplara dayalı olarak kazançlı piyasa işlemleri 
+yapabilecekler ve bu dapazar sinerjisiBugünün küresel piyasalarının 
+gerisinde.
+Bu kitabın, finans piyasalarının küreselleşmesinin kendi 
+işlemlerinizi nasıl etkilediği konusunda daha bilinçli olmanıza 
+yardımcı olmasını umuyorum. İster hisse senedi, ister opsiyon veya 
+vadeli işlem yatırımcısı olun, bakış açınızı piyasalar arası analizi de 
+içerecek şekilde genişleterek, işlem performansınızı ve daha kararlı 
+ve karlı işlem kararları alabilmeniz için gereken özgüveni 
+artırabileceğinizden eminim.
+Bu kitapta yer alan bilgilerle ilgili herhangi bir sorunuz varsa, lütfen 
+Market Technologies Corporation ile e-posta yoluyla iletişime geçmekten 
+çekinmeyin.IMA@ProfitTaker.com veya web sitesi aracılığıyla
+www.ProfitTaker.comPiyasalar arası analiz, yapay sinir ağları ve 
+VantagePoint hakkında daha fazla bilgi edinebileceğiniz yer.
+Web sitesinde ayrıca çeşitli finansal piyasalar için güncel Vantage-Point 
+Günlük Raporlarını inceleyebilir ve VantagePoint'in size nasıl fayda 
+sağlayabileceğini daha detaylı bir şekilde görebilirsiniz. Ayrıca, Market 
+Technologies Corporation'dan ücretsiz e-posta uyarıları almak için web 
+sitesine kaydolabilirsiniz. Market Technologies Corporation ile 800-732-5407 
+veya 813-973-0496 numaralı telefondan veya 813-973-2700 numaralı fakstan 
+da iletişime geçebilirsiniz.
+102 Ticari Sırlar
+
+
+=== PDF PAGE 90 ===
+Ticaret
+Kaynak
+Rehber
+- - - - - -
+BAŞARI İÇİN ARAÇLAR
+TİCARETTE
+
+
+=== PDF PAGE 91 ===
+Ticaret Kaynak Rehberi
+Görsel Yatırımcı: Piyasa Trendlerini Nasıl Belirleyebilirsiniz?
+John J. Murphy tarafından
+Karmaşık formüllere ve teknik kavramlara güvenmek yerine, grafikleri 
+görsel olarak karşılaştırarak hisse senedi fiyatlarının iniş çıkışlarını takip 
+edin. Okuyucuları, farklı piyasaların birbirleri üzerindeki etkisini 
+değerlendirmeye dayalı kanıtlanmış bir analitik yaklaşım olan 
+Intermarket Analysis ile tanıştırır. Grafik ve çizelgeleri kullanma 
+talimatları ve bir yazılım diski içerir.
+39,95 $ Ürün #2378.
+Piyasalar Arası Teknik Analiz:
+Küresel Hisse Senedi, Tahvil, Emtia ve Döviz 
+Piyasaları için Ticaret Stratejileri
+John J. Murphy tarafından
+Amerika'nın en iyi teknik analistlerinden birinin yardımıyla teknik 
+analizi bir üst seviyeye taşıyın. Küresel piyasaların birbirini nasıl 
+etkilediğini ve teknik analizi temel bilgilerle birleştirerek piyasa 
+fırsatlarını nasıl tespit edip değerlendireceğinizi öğreneceksiniz.
+69,95 $ Ürün #2397.
+Teknik Analiz Basitleştirildi
+Clif Droke tarafından
+İşte bu paha biçilmez yatırım aracını öğrenmek ve uygulamak için 
+özlü, kolay okunan bir kılavuz. Yazar, teknik analizin en temel 
+unsurlarını kısa, kolay okunan bir ciltte özetliyor. Droke'un kompakt 
+kılavuzu harika bir başlangıç   noktası ve herhangi bir teknik analiz 
+yazılım programının mükemmel bir tamamlayıcısı.
+29,95 $ Ürün #11087.
+Teknik Analizle Trend Tahmini 105
+
+
+=== PDF PAGE 92 ===
+Yatırımcının Teknik Analiz Rehberi
+C. Colburn Hardy tarafından
+Yüksek etkili sonuçlar elde etmek, işlem gününüz boyunca en etkili 
+teknik analiz araçlarını uygulayarak daha kolay hale getirilebilir. Bu kolay 
+okunan klasikte, ortalama yatırımcı için yazılmış teknik analiz yardımıyla 
+hisse senetlerini ne zaman alıp satacağınızı öğreneceksiniz.
+Ayrıca trendleri tanımayı, giriş noktalarını belirlemeyi ve teknik ve 
+temel araç ve teknikleri birleştirerek işlem sonuçlarını nasıl 
+iyileştireceğinizi öğreneceksiniz.
+37,50 TL Ürün #2388.
+Hisse Senedi Trendlerinin Teknik Analizi, 7. Baskı
+Edwards ve Magee tarafından
+Piyasa performansı ve trendlerindeki en son verilerle güncellenen, tüm 
+teknik analizlerin temelinin üzerine inşa edildiği, evrensel olarak beğenilen 
+bir klasik. Adım adım kapsam, mevcut verileri ayrıntılı bir şekilde açıklar ve 
+uygular. Stokastikler, trend çizgileri, durdurmalar, geri dönüşler, destek/
+direnç ve her birinin taktiksel kullanımı.
+75,00 TL Ürün #2376.
+Finansal Piyasaların Teknik Analizi
+John J. Murphy tarafından
+Grafiklerin nasıl okunacağından göstergelerin anlaşılmasına ve yatırımda teknik analizin 
+kritik rolüne kadar, bundan daha kapsamlı veya güncel bir kaynak bulamazsınız. 
+Günümüzün değişen finans dünyası için gözden geçirilmiş ve genişletilmiş olup, hem 
+hisse senetleri hem de vadeli işlem piyasaları için geçerlidir.
+70,00 TL Ürün #10239.
+ARMS Endeksi
+Richard Arms, Jr. tarafından
+Hacmin (zamanın değil) piyasa fiyat değişikliklerini nasıl yönettiğine dair 
+derinlemesine bir bakış edinin. Yükselen hisse senetlerine kıyasla gerileyen hisse 
+senetlerine kıyasla hacmin göreceli gücünün bir ölçüsü olan Arms'ın kısa vadeli 
+ticaret endeksini (TRIN) açıklar. Gerçek bir piyasa mücevheri.
+39,95 $ Ürün #3130.
+106 Ticari Sırlar
+
+
+=== PDF PAGE 93 ===
+Sanal Ticaret: Bilgisayarı Olan Herhangi Bir Tüccarın Sinir 
+Ağlarının ve Uzman Sistemlerin Gücünü Nasıl Kullanabileceği
+Jesse Lederman ve Robert Klein tarafından
+Yapay Zeka sistemleri sayesinde, fiyat modellerini ortaya çıktıkça 
+tanıyabilir ve kaybolmadan önce karlı ticaret fırsatlarını tespit 
+edebilirsiniz. Teoriye vurgu yapan diğer kitapların aksine, Sanal 
+Ticaret bu yeni yöntemleri ticarette nasıl kullanacağınıza dair pratik 
+bilgiler sağlar. Uzman sistemlerin, sinir ağlarının, bulanık mantığın 
+ve genetik algoritmaların temellerini içerir.
+45,00 $ Ürün #2794.
+Finansal Özgürlüğe Giden Yolda Ticaret Yapın
+Van K. Tharp tarafından
+Her zamanki "her şeyi anlatan" kitaptan daha derin. Tharp, hem acemi hem de 
+deneyimli yatırımcılara hem uzun hem de kısa vadeli hedeflere ve nihayetinde finansal 
+özgürlüğe ulaşmak için nasıl dikkatlice bir yatırım planı hazırlayacaklarını gösteriyor.
+29,95 TL Ürün 10245.
+Dow 100.000: Gerçek mi, Kurgu mu?
+Charles W. Kadlec ve Ralph J. Acampora tarafından
+Bu kitap, önümüzdeki parlak mali geleceği öngörmenize ve mali 
+hedeflerinizle tutarlı yatırım stratejileri tasarlamanıza yardımcı 
+olacaktır.
+25,00 TL Ürün #11612.
+- - - - - -
+Bu kitapların birçoğu ve yüzlercesi daha var
+Traders' Library'den indirimli olarak temin edilebilir. Sipariş 
+vermek veya daha fazla bilgi edinmek için bizi ziyaret edin
+www.traderslibrary.com
+veya bizi arayın1-800-272-2855.
+Teknik Analizle Trend Tahmini 107
+
+
+=== PDF PAGE 94 ===
+Zenginliğin Yeni Çağı: Yatırımcılar Geleceğe Yönelik 5 
+Ekonomik Trendden Nasıl Kar Sağlayabilir?
+Brian Wesbury tarafından
+İlgi çekici vaka öyküleri, sağlam araştırmalar ve yenilikçi yatırım 
+stratejileriyle dolu olan bu kitap, kötümserlerin ve felaket tellallarının 
+lafını kısa kesecek, yeni ekonomideki yerinize bakış açınızı 
+değiştirecek ve sizi uzun vadeli riskinizi en aza indirip getirinizi en üst 
+düzeye çıkarmak için tasarlanmış bir servet oluşturma programıyla 
+yeni bin yıla sokacak.
+24,95 TL Ürün #10612.
+Kükreyen 2000'ler
+Harry Dent tarafından
+Ekonomimizi değiştiren güçlerin doğasını anlamak, ortaya çıkan 
+yatırım fırsatlarından yararlanmak için elzemdir. Bu kitap, yeni 
+binyıl için bir kar ve risk rehberi görevi görecektir.
+25,00 TL Ürün #10694.
+- - - - - -
+Bu kitapların birçoğu ve yüzlercesi daha var
+Traders' Library'den indirimli olarak temin edilebilir. Sipariş 
+vermek veya daha fazla bilgi edinmek için bizi ziyaret edin
+www.traderslibrary.com
+veya bizi arayın
+1-800-272-2855.
+108 Ticari Sırlar
+
+
+=== PDF PAGE 95 ===
+Önemli İnternet Siteleri
+Tüccarlar Kütüphanesi Kitapçısı. . . . . . . . . .www.traderslibrary.com
+Ticaret ve yatırım kitapları, videoları ve ilgili ürünler için 1 numaralı 
+kaynak.
+Louis Mendelsohn. . . . . . . . . . . . . . .www.GelecekTahminleri.com
+Louis Mendelsohn hakkında bilgi, makalelerinden, konuşmalarından ve kitap 
+katkılarından oluşan kişisel kütüphanesini içerir; hepsine çevrimiçi olarak ulaşılabilir.
+Pazar Teknolojileri Şirketi. . . . . . . www.ProfitTaker.com
+Piyasalar arası analiz, tahmin, VantagePoint, ücretsiz örnek 
+tahminler ve daha fazlası hakkında kapsamlı bilgiler içerir.
+Amerikan Borsası. . . . . . . . . . . . . . . .www.amex.com
+Hisse senetleri, endeksler, opsiyonlar ve Amex endeks hisseleri hakkında güncel 
+piyasa aktivitesi, yatırım hakkında çevrimiçi eğitimler ve broşürler sağlar.
+Chicago Tahta Opsiyon Borsası. . . . . . . . . . . www.cboe.com
+Endeksler ve hisse senetleri hakkında piyasa verileri, fiyat teklifleri, grafikler, 
+şirket raporları, piyasa yorumları ve opsiyon ticareti hakkında bilgi sağlar.
+Chicago Ticaret Kurulu. . . . . . . . . . . . . . . . . . .www.cbot.com
+Borsaya ilişkin haberler, piyasa bilgileri, borsa geçmişi ve CBOT 
+tarafından sunulan çeşitli eğitim programları ve seminerler hakkında 
+bilgi sağlar
+®.
+Chicago Ticaret Borsası. . . . . . . . . . . . . . . www.cme.com
+Fiyat verileri, sözleşme özellikleri, haber merkezi ve Mercedes'in 
+geçmişi hakkında bilgi içeren zengin bir bilgi kaynağı.
+MidAmerican Emtia Borsası. . . . . . .www.midam.com
+Teklifler, grafikler, marj gereksinimleri ve internet üzerinden simüle edilmiş 
+bir ticaret programı sunar.
+Murphy Morris. . . . . . . . . . . . . . . . . . .www.murphymorris.com
+John J. Murphy'nin teknik analiz ve piyasalar arası analiz 
+konusunda kapsamlı bilgiler sunan sitesi.
+NASDAQ Borsası. . . . . . . . . . . . . . . . www.nasdaq.com
+Haber başlıkları, kazanç çağrıları ve takvimi, portföy takibi, 
+uluslararası ve sektör endeksleri hakkında bilgi, hisse senedi 
+taraması ve Nasdaq-100 Endeksi Takibi Hisse Senedi QQQ 
+hakkında bilgi sağlar.
+Teknik Analizle Trend Tahmini 109
+
+
+=== PDF PAGE 96 ===
+New York Ticaret Borsası. . . . . . . . . . .www.nymex.com
+Enerji seminerleri ve konferansları, teklifler, sözleşme şartları 
+hakkında bilgi sağlar.
+New York Borsası. . . . . . . . . . . . . . . . .www.nyse.com
+Piyasa fiyat teklifleri, kişisel hisse senedi takipçisi ve halka açık şirketler, halka 
+arzlar ve hisse senedi ticareti hakkında bilgi sağlar.
+110 Ticari Sırlar
+
+
+=== PDF PAGE 97 ===
+%15 için"TİCARET SIRLARI” İndirimi, dahili T155'i isteyin
+ÖZGÜR
+KATALOG
+Sıcak Yeni Kitaplar ve
+Ticaret PAZARLIKLARI
+• Seçenekler . . .
+• Vadeli işlemler . . .
+• Teknik Analiz . . .
+• Hisse senetleri...
+• Ticaret Sistemleri . . .
+• ve Daha Fazlası . . .
+İçinEn iyi
+Wall Street'teki Kitaplar
+& %15 İndirim Kuponunuz
+ÜCRETSİZ Katalog için hemen arayın!
+1-800-272-2855dahili T155
+410-964-0026 veya 800-727-0003'e FAKS
+Web sitemizde 3.000'den fazla başlığa göz atınwww.traderslibrary.com
+veya bu formu kopyalayıp şu adrese gönderebilirsiniz:
+Tüccar Kütüphanesi • PO Box 2466 • Ellicott City, MD 21041
+İsim__________________________________________________
+Adres________________________________________________
+Şehir______________________ St/Pr_____ Posta Kodu___________
+E-posta__________________________________________________
+e-posta isteklerinizi şu adrese gönderin: tee@traderslibrary.com
+
+
+=== PDF PAGE 98 ===
+Daha Fazlasını Öğrenin
+VantagePoint Yazılımı
+Trend Tahmini ve Piyasa Zamanlaması Teknolojisi
+- - - - - -
+VantagePoint Yazılımı ve onun yardımıyla 
+şansınızı nasıl artırabileceğinizi keşfedin
+inanılmaz tahmin yetenekleri...
+BEN
+Artık tüccarların, ilgili pazarların ne yaptığına bakmadan, tek 
+pazarlara odaklanmaları yeterli değil. Teknik analizin, piyasalar arası 
+analiz olarak bilinen yeni bir yönü, başarılı ticaretin kritik bir bileşeni 
+haline geldi. Rekabetçi olmak için, tüccarların artık geniş bir piyasalar 
+arası bakış açısına ve bunu uygulamak için gerekli analiz araçlarına sahip 
+olması gerekiyor. VantagePoint Piyasalar Arası Analiz Yazılımı size bir yol 
+haritası sunacak ve size ne beklediğini gösterecek
+yapılacak piyasayı belirler - böylece yapılması 
+gereken işlemleri yapma konusunda kendinize 
+güvenirsiniz - ve sizi güvende tutardışarı
+kaçınılması gereken marjinal işlemlerden.
+AVANTAJ NOKTASI:
+• Monitörler ana
+finans piyasaları
+• Beş sinir
+ağlar yapar
+bağımsız
+tahminler
+VantagePoint 
+eğilimleri öngörür;
+onları takip edin!
+• Raporlar sunar
+detaylı analiz
+geçmiş ve
+gelecek tahminleri
+VantagePoint, günümüz piyasalarında 
+başarılı olmak için neyin önemli olduğunu 
+"önceden bilmeniz" gerektiğini anlayan 
+yatırımcılar tarafından tasarlanmıştır.yarın 
+her pazarda gerçekleşmesi en muhtemel olan 
+şey, sadece bugün veya geçmişte yaptıkları 
+değil! VantagePoint'in tahmin yeteneğiyle
+• Pazarlar arası
+grafikler sana gösteriyor
+ileride ne var
+112 Ticari Sırlar
+
+
+=== PDF PAGE 99 ===
+Bağları, her gün bileceksiniz— yaklaşık 
+%80 kanıtlanmış doğrulukla: FAYDALAR:
+• Önümüzdeki iki ila dört gün içinde 
+hangi trend yönünün beklendiği
+• Noktaları belirler
+en iyi ticaretler
+• Yarının beklenen en yüksek/en düşük seviyesi
+• Eklenen onay 
+nasıl alınır• Piyasanın bir değişiklik yapması 
+bekleniyor mu?tepeveyaalt
+• Günlük ve 
+pozisyon ticareti
+yarının fiyatı
+tahminler
+Artı...VantagePoint 
+kullanımı hızlı ve kolaydır
+• VantagePoint'i aldığınızda 
+kullanıma hazırdır.
+• Yerleştirmeyi durdur
+dayalı
+tahminler değil
+sezgiler
+• Piyasalar arası analiz veya yapay sinir 
+ağları hakkında hiçbir şey bilmenize 
+gerek YOK. • ve daha fazlası
+• Programlama hakkında hiçbir şey bilmenize 
+bile gerek yok. Diğer şirketlerin aksine
+Karmaşık yazılım programlarına rağmen, VantagePoint kullanımı 
+kolaydır veticarete odaklanYazılımın karmaşıklıkları tarafından 
+dikkatinizin dağılması yerine.
+• VantagePoint'teki Günlük Güncelleme işlevi, VantagePoint'in beş 
+sinir ağını otomatik olarak işler ve ardından ertesi günün ticareti 
+için tahminlerini oluşturur. Tek yapmanız gereken, hangi 
+pazarların ertesi gün için en iyi ticareti sunduğunu görmek için 
+çeşitli hedef pazarlar için Günlük Raporları (veya grafikleri) 
+karşılaştırmaktır. İşlemsadece birkaç dakikaBaştan sona.
+Başarılı olmak için daha neye ihtiyacınız var?
+Bu muhteşem yazılım programının gücünü keşfedin ve bugün şansınızı 
+lehinize çevirmeye başlayın. Tam ayrıntılar için hemen arayın.
+T.M.
+800-732-5407'yi arayın
+Uzantı 100
+www.ProfitTaker.com/93110
+Teknik Analizle Trend Tahmini 113
+
+
+=== PDF PAGE 100 ===
+Sektör Profesyonelleri, Gerçek Tüccarlar ve 
+Ürün İncelemecileri Övgüyle Bahsediyor
+Avantaj Noktası
+- - - - - -
+“Louis Mendelsohn, 1980'lerde finans sektöründe piyasalar arası 
+analiz yazılımını geliştiren ilk kişiydi. Mikrobilgisayar yazılımı ve 
+sinir ağlarının piyasalar arası analize uygulanmasında öncüdür.”
+— John Murphy,MurphyMorris.com'un başkanı
+“Lou Mendelsohn'u yıllardır tanıyorum ve yatırımcıların performanslarını 
+iyileştirmelerine yardımcı olma konusundaki samimi arzusundan etkilendim. Araştırma 
+ve ticarete yönelik saçma sapan olmayan yaklaşımı, VantagePoint'i piyasaları 
+değerlendirmek ve ticaret yapmak için son derece kullanışlı bir araç haline getiriyor.”
+— Walter Bressert,Yazar, Teknik Analist, CTA
+“Birçok işlem programı satın aldım ancak hiçbiri VantagePoint'in çok yönlülüğü 
+veya uyarlanabilirliğiyle boy ölçüşemiyor. Günlük rapor anlaşılması ve 
+uygulanması kolay, pozisyon veya günlük işlem için kullanımı keyifli. Ertesi günkü 
+işlem için öngörülen yüksek ve düşük seviyeler inanılmaz doğruluğuyla beni 
+hayrete düşürüyor.” — Jim Drysdale,VantagePoint İstemcisi
+“VantagePoint, ne zaman işlem yapacağımı ve ne zaman kötü piyasa koşullarından 
+uzak duracağımı seçmeme olanak sağlıyor. Birden fazla VantagePoint raporuna 
+sahip olmak, en güçlü göstergelere sahip bir veya iki piyasayı seçmeme olanak 
+sağlıyor. Tedbirli bir yatırımcı, yazılımın maliyetini oldukça kısa bir sürede telafi 
+edebilmelidir.” — Ralph Hanahan,VantagePoint İstemcisi
+"Kılavuzlardaki tavsiyelere uyan herhangi bir kullanıcı, harcamasını kısa 
+sürede telafi edecektir. Şiddetle tavsiye edilir." — Yatırımcının Günlüğü
+"Sonuç olarak, yatırımcının kar elde etme yeteneği açıkça ortaya 
+çıkacaktır." — Jake Bernstein'ın Emtia Ticareti Mektubu
+Bu muhteşem yazılım hakkında daha fazla bilgi edinin.
+T.M.
+800-732-5407'yi arayın
+Uzantı 100
+www.ProfitTaker.com/93110
+114 Ticari Sırlar
+
+
+=== PDF PAGE 101 ===
+Yazar ve Pazar 
+Teknolojileri Hakkında
+Şirket
+- - - - - -
+Louis B. Mendelsohn, Market Technologies Corporation'ın başkanı ve 
+CEO'sudur. Bay Mendelsohn, 1970'lerin başında hisse senedi ticareti yapmaya 
+başladı, ardından hisse senedi opsiyonları geldi. Daha sonra, 1970'lerin sonlarında 
+hem günlük hem de pozisyon tüccarı olarak emtia ticareti yapmaya başladı. 
+1979'da, emtia vadeli işlem piyasaları için teknik analiz ticaret yazılımı geliştirmek 
+üzere Market Technologies Corporation'ı kurdu.
+1983'te Mendelsohn, mikrobilgisayarlar için ilk ticari strateji geri testi ve 
+optimizasyon ticaret yazılımına öncülük etti. 1980'lerin ortalarına gelindiğinde bu 
+yetenekler hem hisse senetleri hem de vadeli işlemler için mikrobilgisayar ticaret 
+yazılımında standart haline geldi ve günümüzün milyonlarca dolarlık teknik analiz 
+yazılım endüstrisinin büyümesini destekledi.
+Dünya finans piyasalarının küreselleşme eğiliminin giderek 
+arttığını fark eden Mendelsohn, 1986 yılında mikrobilgisayarlar 
+için finans sektöründe ilk ticari piyasalar arası analiz yazılımını 
+piyasaya sürerek teknik analizde bir çığır daha açtı.
+1980'lerde piyasalar arası analizle ilgili yaptığı kapsamlı 
+araştırmanın üzerine inşa edilen Mendelsohn, 1991'de sinir ağlarının 
+desen tanıma yeteneklerine dayalı kısa vadeli piyasa tahminleri 
+yapan VantagePoint Piyasalar Arası Analiz Yazılımını yayınladı. O 
+zamandan beri Mendelsohn'un araştırması piyasalar arası analiz ve 
+piyasa tahminine odaklanmaya devam etti. Araştırma, yazılım 
+geliştirme ve kurumsal yönetim sorumluluklarına ek olarak, finansal 
+piyasalarda aktif olarak işlem görüyor.
+Teknik Analizle Trend Tahmini 115
+
+
+=== PDF PAGE 102 ===
+Bay Mendelsohn, 1983'ten bu yana birçok önemli finans yayınında 
+kapsamlı yazılar yazdı.Barron'un®,Vadeli işlemler, Ve Hisse Senetleri 
+ve Emtiaların Teknik Analizi™Finans medyası da dahil olmak üzere 
+kendisinden sıkça alıntı yapıldı.Wall Street DergisiVe Yatırımcının İş 
+Günlüğü, teknik analiz üzerine yarım düzineden fazla kitapta işbirliği 
+yaptı ve CNBC de dahil olmak üzere ulusal radyo ve televizyonlarda 
+canlı röportajlar verdi.
+Mendelsohn ayrıca Futures Industry Association yıllık 
+toplantısı, Futures Symposium International, Harvard Business 
+School Alumni Club, Futures Truth ve Yatırım Yönetimi ve 
+Araştırmaları Derneği Yıllık Toplantısı da dahil olmak üzere çok 
+sayıda finansal konferans ve sempozyumda konuşma yaptı.
+Son çeyrek yüzyılda bilgisayarların ve bilgi teknolojilerinin 
+teknik analize uygulanmasında elde ettiği başarılar nedeniyle 
+biyografisi Marquis'te yer almaktadır.Dünyada Kim Kimdir®,
+Amerika'da Kim Kimdir®, VeFinans ve Endüstride Kim Kimdir®
+1988 yılından bu yana Piyasa Teknisyenleri Derneği'nin tam üyesi 
+olup, Uluslararası Teknik Analistler Federasyonu'nun üyesidir.
+1948 yılında Providence, Rhode Island'da doğan Mendelsohn,
+1969 yılında Carnegie Mellon Üniversitesi'nden Yönetim ve Yönetim 
+Bilimi alanında lisans derecesi, 1973 yılında Buffalo'daki New York Eyalet 
+Üniversitesi'nden MSW derecesi ve 1977 yılında Boston 
+Üniversitesi'nden onur derecesiyle MBA derecesi aldı.
+Bay Mendelsohn tarafından kurulduğundan bu yana Market 
+Technologies Corporation, finansal piyasalar için en son teknoloji teknik 
+analiz araçları ve bilgi teknolojilerinin geliştirilmesinde ön saflarda yer 
+almaktadır. 1979'dan beri Florida'nın Tampa Körfezi bölgesinde bulunan 
+firmanın dünya çapında otuzdan fazla ülkede bireysel ve kurumsal 
+müşterileri bulunmaktadır.
+Market Technologies Corporation, yakın zamanda Florida'daki en hızlı 
+büyüyen özel şirketler arasında 29. sırada yer aldı ve en büyük yüz şirket 
+arasında yer aldı.Florida 100Florida Üniversitesi, Deloitte & Touche LLP, 
+PricewaterhouseCoopers LLP ve Raymond James & Associates, Inc. 
+tarafından desteklenen, üç yıllık gelir büyümesine dayalı yarışma
+116 Ticari Sırlar
+
+
+=== PDF PAGE 103 ===
+Market Technologies Corporation ayrıca, beş yıllık gelir büyümesine göre, 
+Tampa Körfezi'ndeki en hızlı büyüyen 17. teknoloji şirketi olarak 
+derecelendirildi ve bölgedeki en büyük elli kamu ve özel teknoloji firması 
+arasında yer aldı.Tampa Bay Teknolojisi Hızlı 50Deloitte & Touche LLP 
+tarafından desteklenen yarışma.
+ŞİRKET BİLGİLERİ:
+Market Technologies Corporation E-posta 
+adresi: IMA@ProfitTaker.com Web sitesi 
+adresi: www.ProfitTaker.com Telefon: 
+800-732-5407 veya 813-973-0496 Faks: 
+813-973-2700
+25941 Elma Çiçeği Sokağı 
+Wesley Şapeli, Florida 33544
+Teknik Analizle Trend Tahmini 117
+
+
+=== PDF PAGE 104 ===
+19,95 ABD doları
+"
+10 yıl önce ilk kez piyasalar arası prensipleri 
+açıklayan kişi ben olduğum için, bu fikirlerin 
+doğruluğunu kanıtladığı için Mendelsohn'a 
+minnettarım.aslında işe yarıyor ve karlı bir şekilde 
+uygulanabilirfinans piyasalarına.”
+- JONNMURFİ,Başkan, MurphyMorris.com
+Geçtiğimiz yüzyılda işe yarayan pazarlama tekniklerialışkanlıkGünümüzde, 
+Louis Mendelsohn'un çığır açan kitabı teknik analizi bir üst seviyeye taşıyor ve 
+günümüz yatırımcılarına daha sık ve daha fazla kazançlı işlem yapmak için 
+ihtiyaç duydukları tüm araçları sağlıyor.
+Mendelsohn, trendleri doğru bir şekilde tahmin etmek için teknik ve 
+piyasalar arası analizi tek bir güçlü çerçevede birleştiren kapsamlı bir 
+yaklaşım sunuyor.
+Ayrıca şunu da keşfedeceksiniz...
+• Hem günlük yatırımcıların hem de pozisyon yatırımcılarının 
+kullanabileceği hassas işlem stratejileri
+• Geleneksel teknik analiz yöntemlerinin sınırlamaları
+• Sinir ağlarının piyasalar arası analize uygulanmasıyla hareketli 
+ortalamaların öncü (geri kalan değil) bir gösterge olarak nasıl kullanılacağı
+ARTI— bir girişVantagePoint Yazılımıve şaşırtıcı tahmin 
+yetenekleri. Bu güçlü yazılım Mendelsohn'un "yeni
+ekonomi” ticaret yöntemleri
+Basit ve etkili bir şekilde çalışın.
+Pazar Yeri Kitapları
+POSTA KUTUSU 2466
+Ellicott Şehri MD 21041

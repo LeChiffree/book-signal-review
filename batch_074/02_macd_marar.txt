@@ -1,0 +1,449 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 6\Baskı 6\MACD - Karthik Marar (24 sayfa) - @eseckal.pdf
+PAGES: 24
+
+
+=== PDF PAGE 1 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+MACD veya Hareketli Ortalama Yakınsama Iraksama Gerald Appel tarafından yapıldı, en popüler 
+göstergelerden biridir. Çok basit, güvenilir bir Göstergedir. Aynı zamanda bir TA meraklısının ilk 
+önce tanışacağı bir Göstergedir. MACD, daha uzun hareketli ortalamanın daha kısa hareketli 
+ortalamadan çıkarılmasıyla oluşturulur. Ortaya çıkan çizim, herhangi bir üst veya alt sınır 
+olmaksızın sıfırın üstünde ve altında salınan bir çizgi oluşturur. MACD, Trend takipçileri tarafından 
+yaygın olarak kullanılmasına rağmen momentum osilatörü olarak kabul edilmektedir.
+MACD'nin en popüler formülü 26 günlük ve 12 günlük üstel hareketli ortalamalar 
+arasındaki farktır. Bu standart ayarı kullanacağım ve daha sonra zaman kalırsa diğer 
+kombinasyonları sunmaya çalışacağım. Sinyal hattı olarak MACD hattının 9 günlük 
+EMA'sı kullanılır.
+Grafik –1
+Pozitif bir MACD, kısa EMA'nın uzun EMA'dan daha büyük olduğunu ve 
+momentumun pozitif olduğunu gösterir. Yükselen bir MACD, kısa EMA ile uzun 
+EMA arasındaki farkın arttığını, diğer bir deyişle yükselen bir momentumu 
+gösterir. Aynı şekilde, negatif MACD momentumun negatif olduğunu, düşen 
+MACD ise artan negatif momentumu gösterir.
+.
+KARTHIK MARAR
+Translated from English to Turkish - www.onlinedoctranslator.com
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 2 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Üç ortak sinyal
+1. MA geçişi veya sinyal hattı geçişi. Temel ve en yaygın olanı sinyal hattı geçişidir. MACD 
+çizgisi sinyal çizgisinin üzerine geçtiğinde alım yapın ve MACD çizgisi sinyal çizgisinin 
+altına geçtiğinde Satış yapın.
+2. Sıfır Hat geçişi. Bazıları sinyal olarak yalnızca sıfır hattı geçişini kullanır. MACD çizgisi sıfır 
+çizgisini geçtiğinde satın alın ve MACD çizgisi sıfır çizgisinin altına geçtiğinde Satış yapın.
+3. Farklılıklar
+Hareketli ortalama kesişimi ve sıfır çizgi geçişi gerçekleştiğinde ne olacağını biraz 
+ayrıntılı olarak görelim.
+Hisse senedinin düşüş eğiliminde olduğunu ve MACD'nin sıfır çizgisinin altında ve sinyal çizgisinin 
+altında olduğunu varsayalım. Daha sonra, yükseliş eğilimi gösteren ortalamanın geçişi (MACD'nin 
+sinyali geçmesi) meydana geldiğinde, daha kısa olan EMA, negatif momentumun azaldığını 
+gösteren uzun EMA'ya doğru yaklaşmaya başlamıştır. Bu, yükselişin devam edeceği anlamına 
+geliyor. Olabilir de olmayabilir de. Dolayısıyla Boğa geçişi gerçekleştiğinde bir Alış her zaman iyi 
+bir ticaret yaratmaz.
+Şimdi hisse senedinin yükseliş eğiliminde olduğunu ve MACD'nin sıfırın ve sinyal çizgisinin üzerinde 
+olduğunu düşünün. Eğer bir Ayı geçişi meydana gelirse (MACD'nin sinyal çizgisinin altından geçmesi), 
+kısa EMA'nın uzun MA'ya doğru yaklaşmaya başlaması, pozitif momentumun azaldığını gösterir. Bu 
+yine de düşüş eğiliminin başladığını göstermiyor. Bu sadece bir geri çekilme olabilir. Hisse senedi 
+düşebilir ve ardından yükseliş yolculuğuna devam edebilir.
+MACD sıfır çizgisinin üzerine çıktığında bu, kısa EMA'nın aslında uzun EMA'yı 
+geçtiği anlamına gelir ve bu da momentumun gerçekten negatiften pozitife 
+döndüğünü gösterir. Aynı şekilde MACD sıfır çizgisinin altına geçtiğinde 
+momentum negatife dönmüş demektir. Boğa sıfır çizgisi geçişi genellikle daha 
+iyi işlemler sağlar. Ancak çoğu zaman girişinizin çok geciktiğini fark edecektir. 
+Ayı sıfır çizgisi geçişi, karınızın çoğunu verir ve bir süre sonra para da 
+kaybedersiniz.
+Özetlemek
+1. Boğa MA geçişine dayalı satın alma her zaman iyi işlemlere yol açar. Ancak çoğu 
+durumda bu, erken giriş noktalarında yardımcı olur. Sorun nasıl ayırt edileceğidir. 
+Diğer Göstergelerle birleştirmek yardımcı olabilir. Bunu daha sonra keşfedeceğiz.
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+2. Ayı MA geçişine dayalı satış, sizi çok erken işlemden çıkarabilir. Yine diğer Göstergelerle 
+birleştirmek, dışarı çıkma zamanının gelip gelmediğine karar vermede yardımcı olabilir.
+3. Boğa yönlü sıfır çizgi geçişi genellikle karlıdır. Dezavantajı yine birçok 
+durumda giriş noktasının gecikebilmesidir.
+4. Ayı sıfır çizgisi geçişine dayalı satış yapmak kârınızın büyük bir kısmını ele verebilir. Sondaki bir 
+durak bu sorunun üstesinden gelmeye yardımcı olabilir
+Grafik-2 bu noktalardan bazılarını göstermektedir.
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+MACD'ye dayalı en önemli sinyallerden biri FARKLILIK'tır. Bu konudaki tartışmayı 
+biraz sonraya erteleyeceğiz.
+Şimdi MACD grafiklerine daha derinlemesine bakalım ve aldığımız ek sinyaller ve bunlarla nasıl işlem 
+yapacağımız hakkında biraz daha bilgi edinmeye çalışalım.
+Şu ana kadar bir düşüş trendinin ardından Boğa geçişinden bahsediyorduk. Bu durumda Boğa geçişi 
+sıfır çizgisinin altında gerçekleşti. Ancak Boğa geçişi sıfır çizgisinin üzerinde meydana gelebilir. Böyle 
+bir geçiş, hisse senedinin yükseliş eğilimine geçmeden önce geçici olarak düşmesi durumunda 
+meydana gelir. Sıfır çizgisinin üzerindeki bu tür geçişler bazı mükemmel işlemlere neden olur.
+Sıfır çizgisinin üzerinde meydana gelen düşüş eğilimi, pozitif momentumun azaldığını 
+gösterdiği için genellikle uyarı sinyali görevi görür. Sıfır çizgisinin altındaki düşüş eğilimi 
+güçlü düşüş eğilimini gösterir.
+Tartışmayı daha ilginç hale getirmek için öncelikle aşağıdaki kriterleri içeren bir sistem 
+oluşturacağız.
+Bir Boğa MA geçişi olduğunda SATIN ALIN.
+Bir Ayı MA geçişi olduğunda SATIŞ yapın.
+Ek olarak sıfır çizgisi yükseliş geçişleri, momentumun gerçekten tersine döndüğünü 
+belirtmek için yukarıyı gösteren bir okla daire içine alınmış 1 sayısıyla 
+işaretlenecektir.
+Sıfır çizgisinin üzerindeki boğa geçişleri, daire içine alınmış bir 2 sayısıyla işaretlenecek ve 
+yukarıyı gösteren ok, iyi ticaret fırsatlarını gösterecek.
+Benzer şekilde, sıfır çizgisinin üzerindeki düşüş eğilimi 3 ile işaretlenecek ve sıfır çizgisinin düşüş 
+eğilimi 4 ile işaretlenecektir.
+Bu sinyallerin eklendiği bir grafik ve bir Gösterge
+Daha sonra daha fazla sinyal bulabilecek miyiz göreceğiz…
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Tablo-3
+DIP'ler ve HOOK'lar
+Hisse senedinin yükseliş eğiliminde olduğu ve MACD çizgisinin sinyal çizgisinin üzerinde olduğu bir 
+duruma bakalım. MACD çizgisinin geçici olarak sinyal çizgisine yaklaştığını ve tekrar uzaklaştığını fark 
+edeceksiniz. Biz onlara DIP'ler diyeceğiz.
+Bazen MACD çizgisi kısa süreliğine sinyal çizgisinin altına dalar ve geri döner. Biz bunlara 
+HOOK adını vereceğiz.
+DIP'ler ve HOOK'lar normalde yükseliş eğilimindeki kısa geri çekilmeleri gösterir ve iyi 
+eklenti veya piramit fırsatları sağlar.
+Aynı şekilde, düşüş trendi sırasında MACD çizgisi sinyal çizgisinin altında olduğunda DIP'ler ve 
+HOOK'lar meydana gelir. Bunlar, düşüş trendleri sırasında geçici yükselişe işaret ediyor ve iyi kısa 
+pozisyon fırsatları sunuyor.
+Grafik-4 yükseliş trendindeki “Düşüşler” ve “Kancalar” örneklerini sunuyor.
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Tablo-4
+Göstergede ve grafikte “Kancaları” belirtebilirsek güzel olur. Yükseliş trendi sırasındaki 
+DIP'leri Göstergede yeşil noktalar ve grafiklerde yeşil yukarı oklar olarak temsil 
+edeceğiz. Yeşil yıldızlar HOOK'ları temsil edecek. Grafikte KANCAlar bir ALIŞ ile 
+çakışacaktır.
+Aynı şekilde, düşüş trendi sırasındaki DIP'ler Göstergede turuncu bir nokta ve 
+grafikte turuncu aşağı okla temsil edilecektir. HOOK'lar turuncu bir yıldızla temsil 
+edilecek ve grafikte onlara bir satış sinyali eşlik edecek.
+DIP'ler yükseliş trendi sırasında iyi eklenti/kısa vadeli ticaret fırsatları ve düşüş trendi 
+sırasında iyi uyarı noktalarıdır.
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+HOOK'lar, diğer göstergelerle birleştiğinde daha güçlü bir Alış/Kısa pozisyon fırsatlarını 
+temsil ediyor. Yan pazarlar çok sayıda alternatif Kanca üretir
+Elbette Dipleri ve Kancaları kullanırken çok dikkatli olmamız gerekiyor. Daha sonra bu ek 
+sinyalleri nasıl kullanabileceğimizi görmek için bazı örnekler alacağız.
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Sıfır hat Reddediliyor
+Son olarak yaygın olarak "SIFIR HAT REJECT" veya ZLR olarak bilinen şeye bakacağız.
+MACD Çizgisinin Sıfır çizgisinin üstünden sıfır çizgisine doğru yakınlaşmaya başladığı bir durumu ele 
+alalım. MACD çizgisi zaman zaman tersine döner ve sıfır çizgisinin hemen yakınında tekrar yukarıya 
+doğru tırmanmaya başlar. MACD çizgisi zaman zaman sıfır çizgisini biraz delerek tersine dönmeye 
+başlar. Bu geri dönüşler birçok kez mükemmel işlemlere neden olur. Sıfır çizgisinin hemen üzerindeki 
+veya sıfır çizgisine girdikten hemen sonraki bu ters dönüşlere Sıfır çizgisi reddi denir. Yukarıda 
+açıklanan durum ZLR Boğa Piyasası olacaktır. MACD çizgisi alttan sıfır çizgisine doğru tırmandığında ve 
+sıfır çizgisinin hemen altında veya onu geçtikten hemen sonra tersine döndüğünde düşüş eğilimi 
+gösteren bir ZLR meydana gelir.
+Tabii ki ZLR ticareti yaparken oldukça dikkatli olunmalıdır çünkü bu geçici bir tersine dönüş olabilir. Sıkı 
+stop kayıplarıyla çalışmak bazı mükemmel işlemlere yol açabilir.
+Grafik-6 bazı Boğa ZLR'lerini gösteriyor.
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Artık Sıfır hat geçişleri, MA geçişleri, Düşüşler ve Kancalar gibi bazı temel araçlarımız var. 
+Histogramları daha fazla karmaşıklaştırmadan, bu sinyallerle nasıl daha iyi ticaret 
+yapabileceğimizi göreceğiz.
+MACD ticareti diğer Göstergelerle daha iyi birleşiyor
+Artık birçok sinyalimiz var. Hangi sinyallerin daha iyi olduğunu nasıl ayırt ederiz? Sadece 
+MACD ile işlem yapmak pek fazla ipucu sağlamaz. Başka göstergelerle birleştirirsek 
+daha fazla ipucu elde edebiliriz.
+ADX ile birleştirmek bazı iyi ek ipuçları sağlar ve hangilerinin daha iyi sinyaller olduğunu ayırt 
+edebiliriz. Ben bu sinyallere Güç Alımları, Güç Düşüşleri ve Güç kısa devreleri adını 
+veriyorum. Bazı örnekleri ele alacağız ve sürekli takip edilebilecek bazı temel kuralları 
+tanımlayacağız.
+KURAL:Tüm Boğa sinyalleri Alışlar, Düşüşler, Kancalar, Sıfır çizgisi geçişi, hem ADX hem de DI+ 
+yükselirken genellikle iyidir. Bunları diğer sinyallerden ayırt etmek için Güç Satın Almaları, Güç 
+Düşüşleri vb. olarak adlandıracağız.
+Örnek 1
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Afl, bu güç sinyalleri oluştuğunda Macenta renkte küçük içi boş daireler çizer. Burada dikkat 
+edilmesi gereken nokta, Afl'nin çoğu zaman sinyalleri almasına rağmen, bazen Afl'nin bu 
+noktaları kaçırmasıdır (yükselen AD ve DI+'yı kodlamak için birçok yöntem denedim ve her birinin 
+kendi dezavantajı vardı) veya ADX ve DI+ sinyaller oluştuktan hemen sonra yükselmeye başlar. 
+Böylece göz küresi gerekli hale gelir.
+KURAL: Genel olarak düşüş yönlü ZL geçişi gibi satış sinyalleri, Dipler ve Kancalar, Hem ADX hem de DI+ 
+yükseldiğinde veya DI- seviyesinin üzerinde yükseldiğinde etkilidir.
+Örnek –1’e göz atın
+Burada MACD ile birlikte standart ADX(14)'ü kullanacağız.
+.
+Örnek –2
+KURAL: ZL geçişi, MA Geçişi, Dipler ve Kancalar gibi düşüş sinyalleri, ADX yükselirken ve DI- 
+de yükselirken ve hem ADX hem de DI- D+'nın üzerinde olduğunda etkilidir.
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+KURAL: ADX etkisiz olduğunda, ADX DI- ile birlikte yükseldiğinde ve her ikisi de D+'nın 
+üzerinde olduğunda yükseliş sinyalleri etkisizdir.
+KURAL: Boğa ve Ayı sinyalleri hızlı bir şekilde arka arkaya göründüğünde, kararsızlık 
+dönemini gösterir ve uzak durmak daha iyidir.
+ADX çoğu zaman gecikmeli bir gösterge olduğundan, ADX yalnızca bir ALIŞ veya SAT koşulu ortaya 
+çıktıktan sonra tepki verir. Böyle bir durumda grafiklere göz atmak ve Alış/Satış koşulundan birkaç gün 
+sonra giriş/çıkış yapmak daha iyidir. Çoğu zaman Güç düşüşleri, iyi bir giriş fırsatına işaret eden bir 
+SATIN AL koşulundan sonra gelir.
+Örnek –2'ye göz atın
+Örnek –3
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Stokastik'i MACD ile Birleştirmek
+Stokastik, ADX'ten farklı olarak MACD ile ticarete yardımcı olacak kesin ipuçları 
+sağlamaz. Ancak bir hamlenin gücüne ilişkin bazı göstergeler veriyor. Bunları 
+burada kısaca anlatacağım ve daha fazla denemeyi size bırakacağım.
+Stokastik K (15,5) kullanacağız
+Aşırı satım bölgesinden gelen stokastik yükseliş, birkaç işlem seansında (5 veya 6) hızlı bir şekilde 
+aşırı alım bölgesine ulaşıyor ve buna güçlü bir Alış sinyali eşlik ediyor, yükseliş hareketinin ileride 
+olduğunu gösteriyor. Aynı şekilde, aşırı alım bölgesinden aşırı satım bölgesine doğru hızlı bir 
+hareket ve güçlü Satış sinyali eşliğinde güçlü bir düşüş eğilimine işaret edecektir. Örnek –4 
+yükseliş hareketini göstermektedir. Örnek-5 bir Ayı hareketini göstermektedir.
+Örnek-4
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Örnek-5
+Stokastik'in MACD ile bir başka iyi kullanımı da iyi giriş/piramitleme veya ek 
+fırsatlar bulmaya yardımcı olmasıdır.
+Stokastik aşırı alım bölgesinden aşağı inip geri döndüğünde ve MACD pozitifse, 
+bu iyi bir yükseliş hareketini temsil eder.
+Benzer şekilde stokastik aşırı satış bölgesinden yükselip sonra geri döndüğünde, 
+MACD negatifse güçlü düşüş hareketlerini temsil eder. Bu iyi kısa devre fırsatları 
+sağlar. Örnek 6'ya bakınız.
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Örnek- 6
+Çoklu Zaman Çerçeveleri
+Daha sonra günlük grafik analizlerimize yardımcı olması için haftalık MACD'yi nasıl kullanabileceğimizi 
+tartışacağız.
+Bunun için öncelikle haftalık grafikleri günlük grafiklerle karşılaştırmamız gerekecek. Kontrol 
+etmek için zaman dilimlerini tekrar tekrar değiştirmek parlak bir şey değildir ve zahmetlidir. 
+Bu yüzden Haftalık MACD'yi Günlük MACD ile örtüştürmeliyiz. Aynı üzerindeki iki MACD 
+grafiği kafa karıştırıcı olabilir. Bu yüzden Haftalık MACD'yi günlük MACD'de bir şerit olarak 
+çizeceğiz (İşte burada metastok darbe alıyor). Bu AB'de kolayca yapılabilir. Kolay anlaşılması 
+için şeridi aşağıdaki gibi renklendireceğiz
+Haftalık MACD sinyal çizgisinin üzerinde ancak sıfırın altında. Soluk yeşil 
+Haftalık MACD sinyal çizgisinin ve sıfırın üzerinde.
+Haftalık MACD sinyal çizgisinin altında ancak sıfırın 
+üzerinde. Haftalık MACD sinyal çizgisinin ve sıfırın altında.
+Kireç
+Turuncu
+Kırmızı
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Renkler beğeninize göre değiştirilebilir.
+Şimdi Temel kuralları tanımlayalım
+Kural: Haftalık MACD sinyalin üzerinde olduğunda ve sıfır, iyi yükseliş hareketlerine giriş 
+sağladığında Günlük MACD'de sinyal satın alın.
+Haftalık sinyal çizgisinin üzerinde ancak hala sıfırın altında olduğunda Günlük MACD'deki satın 
+alma sinyalleri erken giriş sağlar ancak çok güvenilir değildir. Ekteki Tabloya bakın.
+(Grafiklerimizde Haftalık yeşil olduğunda Günlük alım sinyalleri iyi bir Giriş olacaktır)
+Doğal olarak haftalık MACD, Günlük Sinyalleri yakalamakta daha gecikiyor. Haftalık MACD 
+ancak günlük yükselişe geçtikten birkaç hafta sonra Yükselişe geçer. Peki yine de nasıl erken 
+giriş alabiliriz? Haftalık Histogram bazı erken sinyalleri sağlamak için kullanılabilir. Bunu 
+daha sonra tartışacağız.
+Kural: Haftalık MACD sinyal çizgisinin altına düştüğünde, hâlâ içerideyseniz çıkmayı düşünmenin 
+zamanı gelmiştir.
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Daha önce, Günlük MACD'nin sinyal çizgisinin altında olmasına rağmen hala sıfırın üzerinde olmasının ciddi 
+bir endişe kaynağı olmadığını gördük. O zaman hisse senedi aslında yana doğru hareket ediyor olabilir. 
+Ancak Haftalık MACD de sinyal çizgisinin altına doğru hareket ederse çıkış zamanı gelmiş demektir.
+(Grafiklerimizde haftalık turuncu renk, çıkışa açık bir işarettir)
+Unutulmaması gereken bir şey de TA'da kesin kuralların olduğudur. Bu sinyallerin 
+kesinliği yoktur. Olasılıktan bahsediyoruz. Burada verilen bu kurallar yalnızca yüksek 
+olasılıklardır.
+MACD HİSTOGRAMLARI
+MACD'yi çizmenin başka bir yolu da Histogramdır. MACD Histogramı, MACD çizgisi ile 
+Histogram olarak çizilen sinyal çizgisi arasındaki farktan başka bir şey değildir. Histogram 
+çizgisi sıfır çizgisinin üzerinde ve altında salınarak pozitif bir tepe noktası oluşturur ve 
+ardından negatif bir tepe noktası oluşturmak için sıfır çizgisinin altına düşer.
+Grafik-8
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Histogram, momentum artışının pozitif hale geldiğini (sıfır çizgisinin üzerine geçerek) bir zirveye 
+ulaştığını ve ardından negatife dönerek (sıfır çizgisinin altına düşerek) azaldığını ve negatif bir zirveye 
+ulaştığını ve ardından tekrar pozitife döndüğünü gösterir.
+İdeal durumda momentum negatiften döndüğünde giriş ve momentum azaldığında 
+çıkış ideal sonuçlar vermelidir. Ne yazık ki hisse senetleri ideal bir şekilde davranmıyor. 
+Ancak MACD yükselirken negatif zirveleri yakalamak, trend halindeki bir pazara iyi giriş 
+noktaları sağlar.
+Grafik-8, MACD ve MACD Histogramını içeren bir grafik sunmaktadır. Daha sonra, iyi girişler elde etmek için 
+Histogramın diğer sinyallerle nasıl kullanılacağını göreceğiz.
+Histogramdan alabileceğimiz, işlemlerimize yardımcı olacak ipuçlarına bakalım. 
+Histogramlar farklılıklara bakmak için çok faydalıdır. Yaklaşan hareketin gücünü 
+değerlendirmek için histogramı da kullanabiliriz. Örneğin sıfır çizgisi geçiş sinyalleri, 
+Histogram pozitif ve yükseldiğinde çok daha etkilidir.
+Ayrıca haftalık MACD pozitif olduğunda histogramın pozitife döndüğü (sıfır çizgi geçişi) 
+girişler normalde iyi bir ticaretle sonuçlanır.
+Grafik – 9
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Aynı şekilde negatif tarafa sıfır çizgisi geçişi, histogramın da negatif ve düşme durumunda olması 
+durumunda daha etkilidir. Ayrıca histogram negatif olduğunda ve haftalık MACD negatife 
+döndüğünde kısa devre meydana gelir. Grafik – 9 Bazı Örnekler Vermektedir.
+HAFTALIK MACD HİSTOGRAMLARI
+Daha sonra Haftalık Histogramı günlük MACD grafiğimizle nasıl kullanacağımızı 
+göreceğiz. Amibroker, haftalık Histogramın günlük grafiğimizde çizilmesini sağlayan 
+harika bir yazılımdır. Yine haftalık MACD Histogramını şerit halinde çizeceğiz. Kolay 
+anlaşılması için renk kodlayacağız.
+Renk kodlaması şu şekilde olacaktır: Sıfırın üstünde 
+ve yükselen Histogram – Koyu sarı Histogram Sıfırın 
+üstünde ve azalan - Sarı Histogram sıfırın altında ve 
+azalan - Mavi Sıfırın altında ve yükselen Histogram - 
+Gök mavisi
+Ticaret ipuçları:
+Haftalık MACD'nin pozitif olduğu, Haftalık Histogramların pozitife döndüğü ve günlük 
+Histogramın pozitif olduğu girişler iyi işlemler sağlar.
+Haftalık Histogram sıfırın altına düştüğünde, haftalık MACD düştüğünde/negatife döndüğünde ve günlük 
+Histogramlar negatif olduğunda kısa pozisyonlar iyi işlemler sağlar.
+Haftalık MACD ve MACD Histogramlarını günlük MACD ve Günlük Histogramlarla 
+birleştirmede birçok kural tanımlanabilir. Bunu sana bırakacağım. Grafik –10'da bazı 
+örnekler verilmektedir.
+Bu kuralları belirli bir mekanik Ticaret sistemine yerleştirmenin zor olacağını fark 
+etmişsinizdir. Biraz dikkat gerektirir ve keskin bir gözle bazı iyi işlemleri seçmek kolaydır. 
+Elbette sıfır çizgi geçişi, güç düşüşleri ve güç kancaları vb. içeren hisse senetlerinin kısa bir 
+listesini elde etmek için bir tarama yapılabilir. Daha sonra grafiklere göz atmak gerekli hale 
+gelir. Bu tartışmanın sonuna doğru bir tarama yayınlayacağım. Uzman programcılar 
+kesinlikle çok daha iyi taramalar yapabilirler.
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+UYUŞMAZLIK
+Daha sonra MACD'deki Diverjanslara bakacağız. Teknik Analizde, bir Gösterge 
+hareketinin fiyat hareketi ile uyuşmaması durumunda farklılığın meydana geldiği 
+söylenir. Farklılık yükseliş veya düşüş eğilimi gösterebilir. Fiyat yükselirken gösterge 
+daha düşük tepeler yapıyorsa, düşüş eğilimi olması beklenir. Aynı şekilde, Gösterge 
+daha yüksek dipler yaptığında, fiyat daha düşük dipler yaptığında bir Yükseliş farklılığı 
+ortaya çıkar. Farklılık mevcut trendin tersine döndüğünü gösterir.
+Divergence'ı MACD'nin kendisinde veya MACD histogramında kullanabiliriz. Dr. Elder, MACD 
+Histogramlarındaki Farklılıkları Teknik Analistlerin kullanabileceği en güçlü sinyallerden biri 
+olarak değerlendirdi.
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Ancak Farklılık durumunda kişinin onay beklemesi gerekir. Yakınsamaların sıklıkla başarısız 
+olduğu bilinmektedir. Bu tür başarısızlıklar yakın geçmişte Nifty'de oldukça belirgindi.
+Apollo lastiği grafiğinde (Grafik-11) gösterilen Ayı Uyumsuzluğunun bir örneği, yaklaşmakta 
+olan zayıflığın habercisidir.
+Tablo-11
+Asya Elektrik grafiğinde Boğa Ayrışmasının bir örneği verilmektedir (Grafik-12). Hisse senedi daha 
+düşük bir düşüş yaşarken, MACD geçen Temmuz ayında Yüksek En Düşük seviyeye ulaştı.
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Grafik-12
+Şimdi MACD Histogramındaki Farklılıklara bakalım. Histogramdaki farklılıkları 
+MACD'deki farklılıklardan daha yararlı buluyorum. Aynı zamanda Dr.Elder'ın favori 
+araçlarından biridir.
+MACD'de herhangi bir farklılık tespit edilmese bile Histogram'ın birçok öğesinde farklılık 
+ortaya çıkar. Zirvelerin hisse senedi zirveleri ve dipleriyle ilişkili olmadığı MACD sapmasına 
+benzer. Histogramlar, hisse senetleri daha düşük bir düşüş yaptığında negatif bir zirveyi 
+öncekinden daha küçük hale getirdiğinde yükseliş eğilimi ortaya çıkar. Aynı şekilde, 
+histogram pozitif bir zirveyi öncekinden daha küçük yaptığında ve hisse senedi daha yüksek 
+bir zirve yaptığında Ayı sapması meydana gelir.
+Grafik –13 ve Grafik –14'te bazı örnekler verilmektedir.
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Grafik –13 ve Grafik 14
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Son olarak MACD'ye bakarken hacme bakmak her zaman iyidir. Hacmi MACD ile 
+birleştirmek gerçekten iyi hamleler yapmamıza yardımcı oluyor. Bunu birleştirmenin 
+birçok yolu olabilir. Hacmin basit bir hareketli ortalamasını kullanabilir veya hacim bazlı 
+bazı göstergelere bakabilirsiniz. Aynı 30 günlük hareketli ortalamaya sahip OBV 
+göstergesi iyi bir doğrulayıcı Gösterge olarak çalışır.
+Ayrıca hacim sapması olan bir MACD de türetebiliriz. Bunu yapmanın birçok yolu var. Burada 
+bunların ayrıntılarına girmeyeceğim. Burada basit bir örnek vereceğim.
+Yeni bir değişken oluşturun V= toplam(C*V)n / toplam (V)n
+Şimdi bu değişkenin n=12 ve n=26 olan bir MACD'sini oluşturun.
+Deneyi size bırakıyorum. Normal MACD ile bu hacim taraflı MACD'nin grafiğini 
+ekliyorum
+Tablo-15
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+TEKNİK ANALİZ KILAVUZU - MACD
+Artık MACD ticaretiyle ilgili bu tartışmayı bitirmenin zamanı geldi. Bundan önce 
+MACD'nin artılarına ve eksilerine bakacağız.
+MACD-PROS
+MACD bir momentum göstergesi olduğu kadar trendi de takip edebilir. İki hareketli ortalama 
+kullandığımız için Göstergeyi takip eden iyi bir trend oluşturuyor. Bir momentum Göstergesi 
+olarak altta yatan momentumu yakalar ve MACD durumunda farklılıkların çok etkili olmasının 
+nedeni budur. Farklılık, tüccarları yaklaşmakta olan zayıflık ve geri dönüşler konusunda önceden 
+uyarır. MACD herhangi bir zaman diliminde etkili bir şekilde kullanılabilir. MACD, en çok takip 
+edilen Göstergelerden biridir ve bu da onu kendi kendini gerçekleştiren ve etkili kılar.
+MACD-EKSİLERİ
+MACD hareketli ortalamalara dayandığından, gecikme ve hızlı testerelerin doğasında olan 
+nitelikler de MACD'ye yansıtılır. Bir momentum göstergesi olarak MACD, aşırı alım ve aşırı satım 
+seviyelerinin göstergesi olarak iyi çalışmaz.
+SON NOT
+Doğru şekilde kullanılan MACD, Teknik Analist için en basit ve ödüllendirici araçlardan 
+biri olabilir. Ancak dezavantajları vardır ve onu diğer Göstergelerle birleştirmek onu çok 
+etkili kılar.
+Standart 12, 26 yerine hareketli ortalamaların farklı kombinasyonlarıyla MACD'yi deneyebilirsiniz. 
+Birçok kişi Alış için 8,17,9 gibi daha kısa bir dönem ve satış için 12,26,9 gibi daha uzun bir dönem 
+kullanır.
+Ayrıca, ağırlıklı Hareketli ortalamalar, KAMA, VIDYA ve MAMA gibi Uyarlanabilir hareketli 
+ortalamalar gibi diğer hareketli ortalama türlerinin MACD'si ile deneyler yapılabilir.
+KARTHIK MARARwww.forexgercekleri.xyz - [Twitter: @eseckal]

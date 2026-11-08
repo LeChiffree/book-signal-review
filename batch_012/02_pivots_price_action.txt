@@ -1,0 +1,1837 @@
+SOURCE: D:\Paper_ML_BSH\Drive_PDF\PDFler\Baskı 9\Baskı 9\Pivotlarla Günlük Trading ve Price Action - Vikram Prabhu (103 sayfa) - @eseckal.pdf
+PAGES: 103
+
+
+=== PDF PAGE 1 ===
+1
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+Translated from English to Turkish - www.onlinedoctranslator.com
+
+
+=== PDF PAGE 2 ===
+5
+Yazar Hakkında
+Merhaba, adım Vikram…
+Yaklaşık yirmi yıl Satış Uzmanı olarak çalıştıktan sonra, satış
+antibiyotiklerden protein takviyelerine, hayat kurtarıcı ilaçlara kadar her şey
+tıbbi ekipman, 42 yaşında kurumsal kariyerime son vermeyi seçtim
+ve Borsa Ticareti ve çevrimiçi Girişimcilik konusundaki tutkumu sürdürüyorum.
+Borsayla ilk tanışmam 2004 yılında oldu, tam zamanlı işimden ayrıldım.
+ve Borsa'da acemi bir Günlük tüccar olarak başladım ve tüm birikimlerimi bir anda kaybettim
+Zamanla, bir şekilde, içimde ticarete karşı bir tutku olduğunu fark ettim.
+İlk denememde başarısız olduktan sonra satış mesleğime geri döndüm ve çalıştım
+Yıllar boyunca birçok çokuluslu şirket için farklı seviyelerde, ama içimde derinlerde,
+Borsa her zaman ilk aşkımdı.
+Son 15 yılda birçok strateji geliştirdim ama işe yaramadı.
+Bana herhangi bir güven vermedi, ancak pivot noktası stratejisi üzerinde çalışmaya başladığımda,
+Son 5 yılın tarihsel verilerini test ettiğimde doğruluğuna hayran kaldım.
+Bundan sonra, yalnızca pivot noktasına ve fiyat hareketine odaklandım ve geliştirdim
+Günlük alım satım için kendi stratejim.
+Pivot Noktası ve Fiyat Hareketi stratejim konusunda o kadar emindim ki,
+Ticareti tam zamanlı bir meslek olarak üstlendiğimde, bir sisteme sahip olduğumu biliyordum.
+ve hemen hemen her türlü pazarda iyi performans gösterecektir.
+2018 yılında işimden ayrıldım, şu anda tam zamanlı Günlük yatırımcıyım, 5-
+Nifty ve Bank Nifty'nin dakikalık grafiklerini yaparak geçimini sağlıyor.
+Şu anda tam zamanlı yatırımcı, eğitmen, blog yazarı ve YouTuber'ım (pivotcall.com).
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 3 ===
+6
+Bu e-Kitabın amacı
+Ben kendi kendine öğrenmiş bir Tüccarım, bu da tüm Ticaret kariyerim boyunca hiçbir zaman
+Günlük İşlemleri öğrenmek için herhangi bir workshopa/Seminere/Webinara katıldım.
+Kazandığım bilgi tamamen Ticaret kitapları okuyarak, okuyarak,
+Google üzerinden materyaller, YouTube videoları izleme ve en önemlisi
+Stratejilerimin tarihsel veriler/grafikler üzerinde geriye dönük testlerini yapıyorum.
+Takipçilerimden, onları eğitmek için çevrimiçi eğitim düzenlemem yönündeki birçok istek üzerine
+Günlük Ticarette, ilk Günlük Ticaret web seminerime Haziran 2019'da başladım ve şu ana kadar
+(Bu kitabı yazdığım Kasım 2019'da) yaklaşık 800 kişiyi eğittim
+Öğrenciler.
+Bu e-Kitabı yazma amacım 15 Günlük İşlem modelimi oluşturmak ve
+benim toplantıma katılmaya gücü yetmeyen küçük perakende tüccarlar için bile mevcut stratejiler
+web semineri ve bu e-kitabı okuyarak bilgi edinebilirler, burada ben
+15 desen ve stratejimin tamamını tarihsel grafiklerle tartıştım.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 4 ===
+7
+İçindekiler
+Bölüm 1.
+Pivot noktalarının temelleri, Günlük İşlemlerde Önemli Pivot Noktaları……………….. 8
+Bölüm 2.
+Günlük İşlemlerde Pivotlar ve CPR Sırları……………………………................. 13
+Bölüm 3.
+Günlük işlemlerde fiyat hareketinin temelleri ve güçlü mum çubuğu desenleri……. 24
+Bölüm 4.
+Piyasa açılışından önce grafiğinizi nasıl hazırlamalısınız……………………………. 26
+Bölüm 5
+15 Günlük İşlem Modelleri ve Stratejileri.…………………………………………….. 37
+5.1 OD (Açık Sürücü) Desen ve Stratejisi.
+5.2 ODR (Açık Sürücü Reddi) Modeli ve Stratejisi.
+5.3 PPT (Pivot Basınçlı İşlem) Deseni ve Stratejisi.
+5.4 Akşam Yıldızı Deseni ve Stratejisi.
+5.5 Sabah Yıldızı Deseni ve Stratejisi.
+5.6 Virgin CPR Tersine Çevirme Stratejisi.
+5.7 RCR (Kırmızı Mum Geri Çekilmesi) Deseni ve Stratejisi.
+5.8 GCR (Yeşil Mum Geri Çekilmesi) Deseni ve Stratejisi.
+5.9 GAP UP Reddetme Modeli ve Stratejisi.
+5.10 GAP DOWN Reddetme Modeli ve Stratejisi.
+5.11 M Desen Geri Dönüş Deseni ve Stratejisi.
+5.12 W Desen Tersine Dönüş Deseni ve Stratejisi.
+5.13 CPRBO (CPR Breakout) Modeli ve Stratejisi.
+5.14 RCBO (Kırmızı Mum Kırılımı) Deseni ve Stratejisi.
+5.15 GCBO (Yeşil Mum Kırılımı) Deseni ve Stratejisi.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 5 ===
+8
+Bölüm 1.
+Pivot noktalarının temelleri, Gün İçindeki Önemli Pivot Noktaları
+Ticaret.
+“Pivot Noktaları ve Fiyat Hareketleriyle Günlük İşlem” e-Kitabıma hoş geldiniz
+İlk Bölümüme başlamadan önce, kredi ve teşekkürü sunmak istiyorum.
+Ticaret öğrendiğim Başarılı ve Ünlü Tüccarlardan bazıları,
+Teknik Analiz konusunda yeniydim ayrıca binlerce YouTube videosunu da inceledim
+ve ustalaşabileceğim mükemmel bir Sistem veya Strateji bulmak için tonlarca Ticaret kitabı
+ve karlı bir Tüccar olun…
+Araştırmam, öğrendiğim gün sona erdiFrank Ochoa, Başarılı Amerikalı
+Tüccar ve “Pivot Boss'un Sırrı” kitabının yazarı Okuduktan sonra çok fazla bilgi edindim
+Bu kitap bana Trading edge'i bulmamda ve kendiminkini oluşturmamda gerçekten yardımcı oldu
+Pivot noktaları ve CPR'ye dayalı stratejiler.
+Mum kalıpları ve hareketli ortalama hakkındaki bilgim şuradan geliyor:Olivier
+Velesşüphesiz günümüzün en başarılı Günlük Yatırımcılarından biri olarak öğrendim
+mum çubuğu desenleri ve öğrenilen mum çubuğu desenlerine dayalı işlemlerin nasıl yapılacağı
+Oliver Velez'in YouTube videolarını izledikten sonra.
+Lance Beggs, Avustralya merkezli Tüccar, yourtradingcoach.com'un kurucusu, eğer siz
+grafikleri okumayı gerçekten seviyorum (benim gibi) ve fiyat hareketlerini öğrenmek istiyorum o zaman şunu söyleyebilirim
+en iyisi (bana göre), sadece blog yazılarını okuyarak bile çok şey öğrenebilirsiniz,
+Hatta grafiklerdeki mum hareketlerini ve fiyatın ardındaki psikolojiyi bile açıklıyor
+gururla söyleyebilirim ki, grafik okumaya olan sevgim ancak
+Lance Beggs'in blog yazılarını okuyarak fiyat hareketlerini öğrendim.
+Her ne kadar hiçbirisiyle şahsen tanışmamış veya herhangi bir mentorluk veya koçluk almamış olsam da,
+sadece kitaplarını okuyarak veya bilgilendirici YouTube videolarını izleyerek
+Pivot Noktalarını birleştirerek kendi 15 stratejimle nihayet gelmek benim için çok büyük bir şey D
+Bu e-kitapta paylaştığım Fiyat Hareketi.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 6 ===
+9
+Pivot Noktalarının Temelleri
+15 yıldır piyasadayım, adını vermem gerekirse tüm gecikmeli göstergeleri denedim
+Herhangi bir piyasa koşulunda (çoğu zaman) en iyi şekilde çalışan bir gösterge Pivot'tur
+Puanlar.
+Deneyimime göre, Fiyat Hareketi en üsttedir, ardından Pivot Noktaları gelir.
+Bana göre Pivot Noktaları, Ticaret topluluğunda en az değer verilen noktalardır ancak
+en güçlü araç, pivotlarla işlem yapan yeni bir yatırımcı neredeyse hiç görmüyorum, bunun yerine, bunlar
+RSI, MACD, Stokastik vb. gibi geciken Göstergelerin ardından koşmak… Bunun nedeni olabilir
+Bunlar daha gösterişli araçlar gibi görünse de Pivotlar grafikteki sadece çizgilerdir.
+Pivotlar Nedir?
+1) Pivotlar - Destek/Dirençten başka bir şey değildir, bir önceki gün/hafta/ayın en yüksek/en 
+düşük/kapanış fiyatının ortalamasına göre hesaplanır.
+Pivotlar grafiğinizdeki basit Destek Direnç çizgileridir (Şekil 1.1)
+2) Pivotlar, grafiğinizde fiyatın destek/direnç seviyelerinin bulunmasının muhtemel olduğu 
+sınırları belirler ve bu sınırlar üzerinde işlem yapmanız için bir çerçeve sunar.
+Grafiğinizde Pivot Noktaları çizerek, fiyatın Destek/Direnç ile karşılaşma olasılığının 
+yüksek olduğu sınırları göstereceksiniz (Şekil 1.1)
+3) Pivotlar Grafikte durağan, 3 dakika, 5 dakika, 15 dakika aynı
+veya 1 saatlik grafik (Şekil 1.3)
+Gecikmeli göstergelerin aksine, Pivotlar zaman diliminizi değiştirdiğinizde 
+değişmez, Pivotlar piyasa açılışında grafiğinize çizildiğinde,
+Piyasa kapanana kadar durgun.
+4) Pivotlar tamamen fiyattan türetilir, pivotlar öncü göstergelerdir ve gecikmeli göstergeler 
+değildir. RSI, MACD, Stokastik vb.'nin aksine, Pivotlar öncü göstergelerdir
+göstergeler (Şekil 1.2)
+Gecikmeli Göstergeler- Gecikmeli sinyal veren göstergeler. Öncü 
+Göstergeler- Çok önceden sinyal veren göstergeler.
+5) Pivotların büyük oyuncular, profesyoneller, enstitüler vb. tarafından kullanıldığı düşünülmektedir.
+Daha önce de belirtildiği gibi, Pivotlar tradingte en güçlü fakat en az değer verilenlerdir, 
+ayrıca büyük oyuncular tarafından trading için kullanıldığına inanılır.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 7 ===
+10
+Şekil 1.1(PP merkezi pivottur, R1 R2 R3 Direnç Hatlarıdır, S1 S2 S3
+grafiğinizde fiyatın karşılaşması muhtemel sınırlar gibi davranan destek çizgileri
+Destek/Direnç)
+Şekil 1.2(Pivotlar, Bank Nifty'nin 19 Eylül'deki 5 dakikalık grafiğinde çizilmiştir. Pivotlar öncü 
+göstergelerdir ve piyasa kapanana kadar durgundur. Grafiğin altındaki RSI, MACD, Stokastik 
+göstergelerine bakın, bunlar geride kalmaktadır, bu nedenle yalnızca nereye kadar gösterilecektir.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 8 ===
+11
+fiyat o belirli zamanda işlem görüyor ve 3 göstergenin hepsi farklı sinyaller veriyor, bu 
+da sadece Tüccarı karıştırıyor)
+Şekil 1.3(Pivotlar aynı Bank Nifty 19 Eylül grafiğinde 15 dakikalık grafikte çizildi, 
+Pivotlar 15 dakikalık grafikte de aynı kalıyor, zaman diliminizi değiştirdiğiniz için 
+değişmiyor, ancak grafiğin altındaki göstergelere bakın, şimdi 5 dakikalık grafikte 
+gösterilenlerden farklı sinyaller gösteriyor, yani Pivotlar durgun ama Göstergeler 
+değil)
+Pivot Noktaları nasıl hesaplanır
+Pivot Noktaları günümüzde hemen hemen tüm grafik yazılımlarında mevcut olduğundan manuel olarak 
+hesaplanmasına gerek yoktur, ancak birisi bunu gerçekten manuel olarak hesaplamak istiyorsa aşağıdaki formül 
+geçerlidir:
+PP (Pivot noktaları/Merkezi pivot) = (önceki Yüksek + önceki Düşük + önceki Kapanış) / 3
+(R1) = (2 x PP) – Düşük
+(S1) = (2 x PP) – Yüksek
+(R2) = PP + (Yüksek – Düşük)
+(S2) = PP – (Yüksek – Düşük)
+(R3) = Yüksek + 2(PP – Düşük)
+(S3) = Düşük – 2(Yüksek – PP)
+Günlük/haftalık/aylık/yıllık pivotlar için aynı formül.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 9 ===
+12
+Günlük İşlemlerde Önemli Pivot Noktaları
+Yeni yatırımcılar tarafından bana sıklıkla sorulan bir soru şudur: Günlük, Haftalık, Aylık ve Yıllık 
+pivotlar olduğu için Günlük İşlemlerde en güçlü pivot hangisidir?
+Hangisi en güçlüsüdür?
+Cevabım, tüm Pivotların güçlü olduğudur, ancak önceliklendirmem gerekirse en yakın pivotlar 
+en uzak pivotlardan daha güçlüdür... Yani, bunlar gibi
+Günlük pivotlar haftalık pivotlardan daha güçlüdür... Haftalık pivotlar aylık pivotlardan daha 
+güçlüdür... ve aylık pivotlar yıllık pivotlardan daha güçlüdür...
+Yani kısacası, en yakın pivotlara, yani Günlük Pivotlara diğer pivotlara göre daha fazla 
+ağırlık vermeniz gerekiyor.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 10 ===
+13
+Bölüm 2
+Günlük İşlemlerde Pivotlar ve CPR Sırları
+Artık Pivot Noktalarının temellerini biliyorsunuz, peki haritanızdaki CPR nedir?
+CPR kavramını Frank Ochoa'nın "Pivot Boss'un Sırrı" ve Mark Fischer'in "Mantıklı Tüccar" 
+kitaplarını okuduktan sonra öğrendim... O zamana kadar sadece Pivot Noktalarını 
+biliyordum, CPR'yi bilmiyordum.
+Bu iki kitabı okuduktan sonra CPR'yi tarihsel çizelgelerimde denemeye ve etkinliğini 
+görmeye karar verdim ve gücüne tamamen hayran kaldım... tartışmasız bir şekilde CPR, 
+çizelgedeki diğer her şeye kıyasla en önemli seviyedir... CPR'yi görmüyorsam hiçbir 
+çizelgeye bakmam... Yani ona ne kadar bağımlı olduğumu görebilirsiniz.
+CPR, şunun anlamına gelir:Merkezi Pivot Aralığı.
+CPR, merkezi pivot noktasının üstünde ve altında birer tane olmak üzere 3 çizgiden oluşan 
+bir aralıktır; merkezi pivot noktasının üstündeki çizgiye TOP CPR (TCPR) ve altındaki çizgiye 
+BOTTOM CPR (BCPR) denir.
+Bu 3 çizginin tüm aralığı CPR (Merkezi Pivot Aralığı) olur
+Kalp masajı
+Şekil 2.1 Ortadaki Üç Çizgi CPR'dir (Merkezi Pivot Aralığı)
+"CPR tartışmasız grafikteki en güçlü seviyedir"
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 11 ===
+14
+Burada, son 2 yıldır sadece pivot noktaları CPR'sine dayalı işlem yaparak, kendi 
+deneyimim ve ekran süremle gözlemlediğim pivot noktalarının bazı sırlarını 
+açıklıyorum.
+Aşağıdaki maddelerde, parantez içinde "çoğu zaman ama her zaman değil" ifadesini kullandım, 
+sebebi şu ki, bunu her zaman %100 doğru bir şey olarak kabul etmemelisiniz...
+İşlem yapmak bir kesinlik değil olasılıktır, birçok yeni yatırımcı, bir strateji öğrendikten sonra 
+her seferinde işe yarayacağını düşünerek işlem yapmaya başlar, ancak bu mümkün değildir, 
+işlem yapmadan önce olasılık zihniyetine sahip olmak gerekir.
+a) Eğer haftalık/aylık pivotlar CPR'ye yakınsa, o zaman çok güçlü değillerdir, 
+eğer haftalık/aylık pivotlar CPR'den uzaksa, o zaman daha güçlüdürler 
+(çoğu zaman ama her zaman değil) (Şekil 2.2)
+Şekil 2.2
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 12 ===
+15
+b) Fiyat CPR'nin üzerinde kaldığı sürece, genellikle yükseliş günü olarak bilinir ve 
+CPR'nin altında işlem gören uzun vadeli fiyat, düşüş günü olarak bilinir (Şekil 2.3)
+CPR'nin üzerinde işlem gören bir fiyat gördüğünüzde gidip satın alacağınız anlamına 
+gelmez, aynı zamanda CPR'nin altında işlem gördüğü için gidip satmayacaksınız... bu 
+sadece bir kılavuz...
+Fiyat CPR'nin (Ayı Günü) Altında İşlem Görüyor
+Fiyat CPR'nin (Boğa Günü) Üzerinde İşlem Görüyor
+Şekil 2.3
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 13 ===
+16
+c) CPR ne kadar geniş olursa, fiyatın CPR'ye nüfuz etmesi o kadar zor olur, bu nedenle geniş 
+CPR, dar genişlikteki CPR'den daha güçlüdür (çoğu zaman ama her zaman değil) (Şekil 
+2.4)
+Güçlü derken, kuvvetli (kuvvetli) Destek/Direnç olarak işlev 
+görür.
+GENİŞ CPR (GÜÇLÜ DESTEK/DİRENÇ OLARAK ÇALIŞIR)
+Şekil 2.4
+d) CPR çok dar ise fiyatın penetre etmesi kolaydır ve dar CPR'nin trend 
+günleri oranı yüksektir (çoğu zaman ama her zaman değil)
+CPR çok dar olduğunda, fiyatın CPR'sine yaklaşıp yaklaşmadığına çok fazla 
+önem vermiyorum, kolayca delebiliyor ve kırabiliyor, dar CPR çok fazla 
+destek/direnç sunmuyor (Şekil 2.5)
+e) CPR daha geniş olduğunda, bu tür günlerin, fiyatın gün boyunca bir aralıktan 
+diğerine hareket ettiği aralık günleri (çoğunlukla ama her zaman değil) 
+olabileceğini varsayabiliriz.böylece buna göre bir strateji oluşturabilirsiniz (eğer 
+opsiyon tüccarıysanız kısa garip strateji gibi) (Şekil 2.5)
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 14 ===
+17
+f) Dar CPR Büyük Trend Günü'ne yol açabilir ve Geniş CPR ise oldukça sakin ve 
+gergin bir güne yol açabilir. (Çoğu zaman, ama her zaman değil)(Şekil 2.5)
+Şekil 2.5
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 15 ===
+18
+Şekil 2.6
+g) Virgin CPR en güçlü CPR'lardan biridir.
+Virgin CPR Nedir?
+Herhangi bir Günlük fiyat CPR'sine ulaşamazsa, sonraki Günler için 
+(tercihen 4-5 İşlem günü) Virgin CPR olarak değerlendirilecektir.
+Fiyat, öğleden sonra ortası ve geç saatlerine kıyasla açılışta Virgin CPR'ye saygı 
+gösteriyor. Bu, önceki gün virgin CPR ise ve bugün açılışta fiyat o seviyeye 
+yaklaşırsa Virgin CPR'nin güçlü bir destek direnci olarak çalıştığı anlamına gelir 
+(şekil 2.7)
+Fiyat öğleden sonra geç saatlerde önceki gün Virgin CPR'sine yaklaşırsa, çoğu zaman 
+güçlü destek/direnç olarak işe yaramayacak ve fiyat bunu kolayca kırabilir (Virgin 
+CPR)
+En yakın bakir CPR, daha uzak CPR'den daha güçlüdür (çoğu zaman ama her zaman 
+değil), bu da bir önceki gün veya bir hafta önce bakir bir CPR varsa bunu dikkate 
+alacağım anlamına gelir, 15 gün veya 1 ay önce bakir bir CPR varsa ve fiyat o 
+seviyeye yaklaşırsa bunu güçlü bir CPR olarak kabul etmem.
+destek/direnç.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 16 ===
+19
+BAKİR CPR Ertesi gün açılışta fiyat önceki 
+güne yaklaştı Virgin CPR ve tersine 
+döndü
+Şekil 2.7
+h) Güçlü bir yükseliş/düşüş trendinde fiyat CPR'nin üstünde/altında kalır (çoğu zaman 
+ama her zaman değil)
+Bu özellikle swing yatırımcıları/Pozisyon yatırımcıları içindir. Eğer bir trend 
+takipçisiyseniz, bir trende (yükseliş trendi/düşüş trendi) girmek için en iyi yer 
+CPR'ye geri çekilmedir (Şekil 2.8)
+Çoğu zaman eğer fiyat güçlü bir yükseliş veya düşüş trendindeyse CPR'de destek 
+alır ve sonra sıçrar veya orijinal yöne geri döner.
+CPR olmasa bile en azından R1(düşüş trendinde) veya S1(yükseliş trendinde) seviyesinde destek 
+alır ve sonrasında geri döner ve çoğunlukla trende girer.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 17 ===
+20
+Şekil 2.8
+Sadece CPR'yi grafiğinize çizmek, İşlemlerinizde size büyük bir avantaj sağlayabilir. 
+CPR aynı zamanda fiyatın çoğunlukla yönünü değiştirdiği piyasanın "kalp atışı" 
+olarak da bilinir.
+Artık CPR'nin grafiğinizdeki güçlü destek ve dirençlerden biri olduğunu biliyorsunuz. Bu 
+nedenle, CPR mumun hemen üzerindeyken Uzun pozisyon açmak iyi bir fikir değildir ve CPR 
+mumun hemen altındaysa mumu kısa pozisyon açmak iyi bir fikir değildir (Şekil 2.9)
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 18 ===
+21
+Burada Kısa Devre Yapmayın (CPR 
+muhtemelen destek görevi görecektir)
+Burada uzun süre kalmayın (CPR'nin direnç 
+görevi görmesi muhtemeldir)
+Şekil 2.9
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 19 ===
+22
+Grafikte CPR'nin bulunması, geleneksel pivotlara sahip olmaktan çok, işlem 
+hacminizde büyük fark yaratabilir.
+Aşağıdaki resme bakın (Şekil 2.10), grafiğinde sadece geleneksel pivot noktaları olan bir yatırımcı, ilk 
+mumda mumun merkez pivot noktasının üzerinde kapanacağını ve R1 pivot noktasına kadar o 
+mumun üzerinde direnç olmayacağını düşünerek uzun bir işlem yapmış olurdu.
+Ancak sonraki mumlarda dirençle karşılaştı ve tersine dönerek SL'sine ulaştı.
+Bir sonraki resimde (2.11) CPR'li bir grafik var. Grafikte CPR'si olan bir yatırımcı ilk 
+mumda Uzun İşlem yapmazdı çünkü ilk mumun üzerinde TCPR vardır ve bu onu 
+Uzun İşlem yapmaktan alıkoyardı.
+Mum dirençle karşılaştı (TCPR'de) ve tersine dönerek SL'sine çarptı.
+Şekil 2.10
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 20 ===
+23
+Şekil 2.11
+CPR Formülü
+Pivotlar hemen hemen tüm grafik yazılımlarının İndikatör bölümlerinde ücretsiz olarak bulunabilmesine rağmen, CPR 
+birçok yatırımcı tarafından bilinmemektedir ve birçok grafik yazılımında ücretsiz olarak bulunmamaktadır.
+CPR'yi grafiğe 2 şekilde çizebilirsiniz; eğer Tradingview grafik yazılımında hesabınız 
+varsa bunu indikatör bölümünden alabilir veya aşağıdaki formülü kullanarak 
+grafiğe manuel olarak çizebilirsiniz.
+CPR (Merkezi Pivot Aralığı) Formülü
+Pivot= (Yüksek + Düşük + Kapanış)/3
+BCPR = (Yüksek + Düşük)/2
+TCPR = (Pivot – BCPR) + Pivot
+(bazen BCPR (Alt CPR) TCPR'nin (Üst CPR) üstünde olabilir ve tersi de geçerlidir)
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 21 ===
+24
+Bölüm 3.
+Fiyat hareketinin temelleri ve güçlü mum çubuğu desenleri
+günlük alım satım.
+Fiyat hareketi, bir yatırımcının RSI/Bollinger bantları/MACD/Stokastik gibi herhangi 
+bir gecikmeli göstergeye dayanarak değil, grafikteki mumdan muma gerçek fiyat 
+hareketine dayanarak karar verdiği bir yöntemdir.
+Yatırımcı, mum grafikleri ile önemli seviyelerdeki destek ve dirençleri, alıcı ve 
+satıcıların agresifliğini baz alarak analiz yapar ve işlem gerçekleştirir.
+Alım veya satım kararı, grafikteki önemli noktalardaki fiyat davranışlarına göre 
+verilir.
+Fiyat hareketleri ve kalıplar tekrarlanmaya devam eder çünkü bunları insanlar yaratır ve 
+hepimiz alışkanlıkların yaratıcılarıyız, bu yüzden kalıpların tekrar tekrar ortaya çıktığını 
+söylerler çünkü insan duyguları asla değişmez.
+Günlük İşlemlerde Güçlü Mumlar
+Mumlar, piyasadaki alıcıların ve satıcıların duygularını bilmek için güçlü araçlardan biridir. 
+Mum grafiklerinin çok büyük bir hayranıyım; heikin ashi veya Renko grafikleri veya Nokta 
+Şekil grafikleri veya piyasa profili vb. gibi başka araçlar kullanmıyorum.
+Mum çubuğu desenleri hakkında bir kitap satın alırsanız, ayı harami, boğa harami, 
+yusufçuk doji, mezar taşı doji vb. gibi isimlere sahip yüzlerce mum çubuğu olduğunu 
+göreceksiniz... Birçok yeni yatırımcı sadece bu boğa ve ayı mum çubuklarını hatırlama ve 
+sadece mum çubuğu desenlerine göre işlem yapma hatasını yapıyor... Bu yüzden web 
+semineri öğrencilerime bunu anlatmaya devam ediyorum,Sadece mumlar önemli 
+değildir, Trading'de daha da önemli olan lokasyondur.
+(Bütün bu önemli yerler neler? Bunu 4. bölümde göreceğiz)
+Doğru yerdeki mum grafikleri daha önemlidir. Grafikte rastgele bir yerde büyük Boğa 
+YEŞİL mum veya büyük Ayı KIRMIZI mum görürseniz, çoğu zaman bu bir tuzaktır. Bu 
+yüzden sadece mumların büyüklüğüne göre işlem yapmaktan kaçının. Grafikteki 
+önemli yerleri bilmeli, ardından mum grafiklerini izlemeli ve işlemi 
+gerçekleştirmelisiniz.
+Önce mekan, sonra mumlar!!
+Ben mumların büyük bir hayranı olmama rağmen yüzlerce mumdan sadece 4 
+tanesine önem veriyorum ve eğer bu mumlar önemli lokasyonlarda gerçekleşirse 
+işlem yapıyorum.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 22 ===
+25
+Günlük İşlemlerde Güçlü Mum Çubukları Desenleri
+Şekil 3.1
+A) DOJİ (Kararsızlık)-ne alıcılar ne de satıcılar kontrolde değil, onay için bir sonraki 
+mumu bekleyin
+B) Yeşil ve Kırmızı Maribozu mumları –Bu mumlar genellikle Breakouts lokasyonunun 
+yakınında gerçekleşir (ben bu mumlara SL avcılık mumları diyorum)
+C) Boğa ve Ayı Mumları –Bu mumlar Maribozu mumuna benzese de her iki 
+tarafında küçük fitiller vardır ancak yine de bu mumlar güçlüdür - En sık 
+Günün açılışında görülür (günün ilk 5 dakikalık mumu)
+D) Pin Bar mumları –Genellikle trend dönüşünün yakınlarında ve 
+Destek/Direnç lokasyonlarının yakınlarında görülür.
+5. Bölüm Günlük işlem kalıpları ve stratejilerine gittiğimizde bu mumlardan 
+daha fazlasını önemli yerlerde göreceksiniz.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 23 ===
+26
+Bölüm 4.
+Piyasa açılışından önce grafiğinizi nasıl hazırlamalısınız?
+Profesyonel Yatırımcıları acemi yatırımcılardan ayıran en önemli şey, piyasa 
+açılmadan önce grafiği hazırlamaktır.
+Eğer siz de piyasa açılışında Trading laptop'unuzu açıp bugün uzun pozisyon mu açmalıyım 
+yoksa kısa pozisyon mu açmalıyım diye düşünen Trader'lardan biriyseniz? Ya da sadece iş 
+kanalına geçip en sevdiğiniz analizcinin iş kanalında ne söylediğine göre mi hareket 
+ediyorsunuz?
+Eğer evet ise, siz Ticaret yapmıyorsunuz, Kumar oynuyorsunuz!!
+Kendi grafiklerinizi hazırlayın, piyasa açılmadan en az 30-45 dakika önce 
+grafiklerinizi hazırlamaya başlayın ve piyasa açıldığında önemli noktaları 
+işaretlemiş olarak grafiğinizi hazırlamış olmalısınız.
+Kendinizi hazırlayın (piyasa açılmadan önce):
+1) Önceki gece ABD piyasasının kapanışını izleyin 2) Asya piyasalarını izleyin 3) SGX 
+Nifty'yi izleyin (yukarı/aşağı? kaç puan?) 4) Piyasa saatleri içerisinde herhangi bir 
+yerel haberi/basın toplantısını takip edin. (Ref.moneycontrol.com)
+Hindistan piyasasında işlem yaparken neden ABD piyasasını izlemeliyiz?
+ABD piyasası tüm küresel piyasalar için büyük bir ağabey gibidir, küresel piyasaların çoğu ABD 
+piyasasının kapanışına göre hareket eder ve ona göre açılış yapar.
+Önceki gece ABD borsası kötü bir haber nedeniyle -500 puan düştüyse, büyük ihtimalle tüm 
+Asya borsalarının koyu KIRMIZI renkte işlem gördüğünü göreceksiniz.
+Bu size piyasamızın nasıl açılacağına dair bir ipucu verecektir.
+SGX Nifty, Singapur borsasında işlem görüyor. Nifty'nin çoğunlukla SGX Nifty'den ilham 
+aldığını ve buna göre açılış yaptığını gördüm. Örneğin SGX Nifty 50 puan yukarıda işlem 
+görürse büyük ihtimalle bizim Nifty'miz de 40-50 puanlık bir boşlukla açılır.
+İşte bu yüzden, piyasamız açılmadan önce tüm iş kanalı spikerlerinin SGX Nifty'den bahsetmeye 
+devam ettiğini görüyorsunuz.
+Bu size sadece piyasanın yukarı yönlü, aşağı yönlü veya yatay olarak nasıl açılacağına dair 
+bir fikir verecek, aynı zamanda açılış işlemlerinizi buna göre planlamanıza da yardımcı 
+olacaktır.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 24 ===
+27
+Tüm bu Global endekslere ve SGX Nifty verilerine moneycontrol.com uygulamasını 
+mobil cihazınıza indirerek ulaşabilirsiniz.
+Bu verilerin dışında tüm yatırımcılara, o gün için yaklaşan etkinlikleri takip 
+etmelerini tavsiye ediyorum.
+Webinar öğrencilerime her zaman herhangi bir Etkinlik günü olacaksa bir ticaret tatili yapmalarını tavsiye 
+ederim. Çünkü etkinlik gününde, fiyat tamamen Haberlere göre hareket eder, Pivot noktaları yoktur, CPR 
+yoktur, Fiyat hareketi yoktur, Gösterge çalışmaz.
+Bazı günler olaylar şunlar olabilir:
+Seçim sonucu, Çıkış anketi sonucu, FM basın toplantısı, RBI politikası, Çeyreklik sonuç 
+(hisse senetleri için) vb.
+Tablonuzu Hazırlayın.
+5 Dakikalık Zaman Dilimi grafiği Günlük İşlemler için daha idealdir (Bana göre 5 Dakikalık 
+Zaman Dilimi Günlük İşlemler için daha idealdir)
+Bu e-Kitapta gördüğünüz tüm grafiklerim Nifty/Bank Nifty'nin 5 dakikalık spot grafikleridir 
+(daha yüksek bir zaman dilimi grafiği olsaydı grafikte belirtmiş olurdum)
+1) Önceki günün en yüksek/en düşük değerlerini (PDH/PDL) işaretleyin, grafikte önceki günün dönüm 
+noktalarını işaretleyin (5 dakikalık TF'ye bakın) (Şekil 4.1)
+Fiyat Hareketi Yatırımcısı için en önemli şey PDH/PDL'dir.
+Fiyatın bir önceki günün aralığının üstünde/altında açılması durumunda PDH/PDL çok 
+daha güçlü hale gelir.
+Dönüm noktası, fiyatın yataydan yükseliş/düşüş, kırılma noktası veya kırılan destek/direnç 
+seviyesine geri döndüğü noktadır (Bu seviye aynı zamanda bir sonraki gün için güçlü 
+destek/direnç olarak da işlev görür)
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 25 ===
+28
+2) Önceki birkaç seanstan herhangi bir dikkate değer arz/talep bölgesi varsa işaretleyin (30 
+dakikalık TF'ye bakın) (Şekil 4.1)
+Talep/Arz bölgeleri, satışların başladığı aşırı bölgelerden başka bir şey değildir (arz 
+bölgesi) Talep Bölgesi, alıcıların fiyatları yukarı doğru zorladığı aşırı bir bölgedir.
+3)Günlük TF'de önemli önceki salınım zirvelerini/düşüklerini ve GAPS'leri işaretleyin. (Günlük 
+TF'ye bakın) (Şekil 4.3 ve 4.4)
+4) Güncel Gün Yüksek ve Güncel Gün Düşük seviyelerini de işaretleyin, çünkü bu seviyelerde 
+çoğu perakende yatırımcının SL'si bulunur.
+5) Sadece Endeks ticareti yapıyorsanız (benim gibi) o zaman hem Nifty hem de Banka Nifty'sini tek bir 
+ekranda (bölünmüş ekran) bulundurmanız daha iyi olur çünkü bu iki endeks de birlikte hareket eder 
+(çoğu zaman, her zaman değil). (Şekil 4.7)
+Çoğu zaman ya Nifty Bank Nifty'i takip eder ya da Bank Nifty Nifty'i takip eder (tam tersi)
+Yüzlerce Trading Kitabı ve binlerce YouTube trading videosu izledim ama hiç kimse 
+Günlük Trading'de Nifty ile Bank Nifty arasındaki ilişkiden bahsetmiyor.
+Nifty ve Bank Nifty'nin birlikte hareket ettiğini (çoğu zaman) gözlemledim, diyelim ki Nifty bir çıkış 
+paterni oluşturuyor ancak Bank Nifty bazı güçlü dirençlere sahipse çoğu zaman Nifty çıkışı başarısız 
+oluyor (Nifty'nin Bank Nifty'i mi yoksa Bank Nifty'nin Nifty'i mi takip ettiğini söylemek zor, bu yüzden 
+tam tersi de geçerli)
+Yabancı endekslerde işlem yapıyorsanız, piyasanızda hangi enstrümanların birlikte 
+hareket ettiğini görmeniz gerekir.
+Tüm Endeks yatırımcılarına, İşlemleri için hem Nifty hem de Banka Nifty grafiklerini aynı 
+anda izlemelerini şiddetle tavsiye ediyorum (bölünmüş ekran veya çift monitör aracılığıyla)
+Günlük İşlem için grafiğinizdeki önemli seviyeler
+Önceki Gün Yüksek (PDH)
+Önceki Gün Düşük (PDL)
+Yüksek sallan/Alçak sallan
+Günler (güncel günler) Yüksek (DH)
+Günler (güncel günler) Düşük (DL)
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 26 ===
+29
+Önceki tedarik bölgesi (Satış bölgesi)
+Önceki talep bölgesi (Alım bölgesi)
+BOŞLUKLAR
+Kalp masajı
+Bakire CPR
+Pivot noktaları-günlük/haftalık/aylık
+ÖNEMLİ BÖLGELERİN İŞARETLENDİĞİ TABLO (30 dk)
+Şekil 4.1
+Yukarıda gördüğünüz grafik (Şekil 4.1) 27 Ağustos'a aittir.incigrafik, bu grafik piyasa açılmadan 
+önce hazırlanmıştır, bu nedenle sadece 26'ya kadar mum çubuklarını görürsünüzinci
+Ağustos.
+Piyasa açılmadan önce grafiğimde önemli seviyeleri işaretledim (Şekil 4.1) ve bir sonraki grafikte 
+(Şekil 4.2) size 27inciPiyasa kapandıktan sonra grafiğe baktığınızda, bu seviyelerin ne kadar 
+önemli olduğunu ve fiyatın bu seviyelere nasıl tepki verdiğini kendiniz göreceksiniz.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 27 ===
+30
+B C
+Şekil 4.2
+Mor kutucukta 20'lik Virgin CPR yazıyorinciAğustos,
+A) Gördüğünüz gibi fiyat 27'de yukarı doğru bir boşluk açtıinciSabah erken saatlerde 
+Virgin CPR'de direnişle karşılaştık.
+B) Fiyat tersine döndü ve PDH (Önceki Gün Zirvesi) seviyesinde destek aldı.
+C) Fiyat tekrar yukarı yönlü bir çıkış denedi ancak PDH seviyesinde tekrar destek buldu.
+D) Fiyat Virgin CPR'ye geri döndü ve tekrar tersine döndü.
+Bu grafik, grafiğinizde önemli seviyeleri işaretlemenin, yüksek olasılıklı işlemler yapmanıza 
+ve önemli destek dirençlerini önceden bilmenize nasıl yardımcı olabileceğinin bir örneğidir.
+İşte Fiyat Hareketinin gücü!!
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 28 ===
+31
+SWING HIGH/SWING LOW İLE İŞARETLENEN TABLO
+Şekil 4.3
+Swing Highs, grafiklerin en uç noktasında sivri uçlara sahip olanlardır (swing lows 
+için de aynı şey geçerlidir)
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 29 ===
+32
+Çıkış Anketi sonucunda boşluk oluştu
+Şekil 4.4 Boşluklar, salınım Yüksek/Salınım düşükleri işaretlendi
+Şekil 4.4'te (yukarıda) gördüğünüz boşluk, Mayıs ayındaki çıkış anketinin 
+sonucudur, piyasa çıkış anketi sonucundan sonra boşluğu açtı ve yaklaşık 500 
+puanlık büyük bir boşluk oluşturdu
+Teknik analizde piyasaların boşluklardan hoşlanmadığı söylenir, yani grafikte bir 
+boşluk varsa sonunda bu boşluklar doldurulur (çoğu zaman, ancak bazen boşluklar 
+sonsuza kadar kalabilir)
+Yani, bir dahaki sefere yukarı doğru bir boşluk olduğunda ve grafiğinizde bir Boşluk gördüğünüzde, 
+Boşlukların çoğu zaman dolduğunu ve bu nedenle fiyatın tersine dönüp o Boşlukları doldurma şansının daha 
+yüksek olduğunu unutmayın (er ya da geç)
+Boşlukların Sınırı, grafikteki en güçlü destek ve dirençlerden biri olarak çalışır, her 
+zaman boşluk sınırlarını arayın ve fiyat o sınıra yaklaştığında, Boşluklar dolmadan 
+önce fiyatın en az bir veya iki kez sıçradığını gördüm (çoğu zaman).
+(Bir sonraki resimde o boşluğun dolu olup olmadığını göreceğiz.) (Şekil 4.5)
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 30 ===
+33
+Şekil 4.5
+Evet, sonunda o Mayıs ayı boşluğu 2 ay sonra, Temmuz ayında doldu.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 31 ===
+34
+Şekil 4.6
+Bu grafikte birçok KIRMIZI düşüş mumu var, ancak sadece birkaç mumda daire 
+işaretledim, neden? (Şekil 4.6)
+Çünkü, bunlar üzerinde fitil bulunmayan (kel kafalı) mumlardır ve bu da satıcıların 
+çok aktif olduğu, piyasayı açılış gongundan itibaren aşağı çektiği günleri gösterir, 
+bu da satıcıların bu seviyelerde aktif olduğunu gösterir.
+Bir dahaki sefere, fiyat o KIRMIZI mumun tepesine yaklaştığında büyük ihtimalle başka bir satış 
+dalgası yaşanabilir, bu yüzden o mumların üzerine yatay bir çizgi çizin ve fiyatın o seviyeye 
+yaklaşmasını bekleyin, böylece kısa pozisyon açmak için iyi bir fırsat yakalayabilirsiniz.
+Aynı kavram bu kadar büyük YEŞİL mumlarda (kel taban) da geçerlidir, eğer fiyat o YEŞİL 
+mumun altına yaklaşırsa, bir sıçrama şansı vardır... ancak ben KIRMIZI mumları YEŞİL 
+mumlardan daha çok severim çünkü piyasa yukarı çıkmaktan daha hızlı düşer.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 32 ===
+35
+Nifty ve Bank Nifty birlikte hareket ediyor (çoğu zaman)
+ŞIK
+BANKA NIFTY
+Şekil 4.7
+Her iki grafiğe (Şekil 4.7) bakıldığında, bir an için her ikisinin de aynı enstrüman mı yoksa farklı 
+enstrüman mı olduğunu anlamak zor görünüyor?
+Evet, Nifty ve Bank Nifty çoğu zaman birlikte hareket eder, ikiz gibi görünürler, bu yüzden Bank Nifty 
+yükselişteyken Nifty'de short pozisyon açmak iyi bir fikir değildir veya tam tersi.
+Ben sadece yüksek olasılıklı işlemler yapmaya inanan bir yatırımcıyım, günde sadece 1 işlem bile olsa, 
+düşük olasılıklı işlemleri görmezden geliyorum.
+Benim için yüksek olasılık, hem Nifty hem de Bank Nifty'nin yükseliş eğilimi göstermesi veya her 
+ikisinin de düşüş eğilimi göstermesidir (veya biri yükseliş eğilimi gösterirken diğeri yükseliş eğilimi 
+göstermez ancak üzerinde herhangi bir direnç noktası yoktur).
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 33 ===
+36
+Bazen Nifty'nin yükseliş eğilimi göstermesi ancak Bank Nifty'nin CPR'de dirençle karşılaşması gibi 
+durumlar yaşanabilir, ben bu tarz işlemlerden kaçınıyorum.
+Bazen Nifty yükseliş eğilimi gösteriyor, ancak Bank Nifty yatay seyrediyor ancak üzerinde 
+herhangi bir direnç yok, bu gibi durumlarda Nifty'de işlem yapıyorum çünkü Bank Nifty'nin 
+üzerinde herhangi bir direnç yok (tam tersi de olabilir)
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 34 ===
+37
+Bölüm 5.
+15 Günlük İşlem Modellerim ve Stratejilerim
+Şimdi bu eKitabın asıl kısmına geliyoruz.
+15 Günlük İşlem Modelleri ve Stratejileri.
+Uygulama olarak, 15 desen ve stratejimin hepsini açıklamadan önce, aşağıdaki noktaları 
+tüm yatırımcılara (özellikle yeni yatırımcılara, çünkü birisi borsaya yeni girdiğinde, her 
+yaptığı işlemde kendisine kar sağlayan "Kutsal Kase Stratejisi" umuduyla gelir) göstermeyi 
+bir nokta olarak belirledim.
+Ama %100 başarı oranı sağlayabilecek bir strateji var mı? HAYIR... Yani bunu aklınızda 
+tutmanız gerekiyor... Ticaret bir olasılık oyunudur, kesinlik değil... Ticaret Yolculuğunuza 
+başlamadan önce bir olasılık zihniyetine sahip olun.
+Dikkat Edilmesi Gereken Noktalar….
+➢ Bu 15 günlük işlem kalıpları kutsal kase kalıpları değil, sadece yüksek olasılık 
+kalıplarıdır (her zaman işe yarayacağının garantisi yoktur, bu yüzden SL şarttır)
+➢ Trading'de sadece yüksek olasılıklı ve düşük olasılıklı kurulumlar vardır, bu yüzden düşük olasılıklı 
+kurulumlardan kaçınmak ve sadece sıkı bir SL ile yüksek olasılıklı kurulumlarda işlem yapmak en iyisidir.
+➢ Ticarette %100 kesin sonuç veren desenler veya %100 kesin sonuç veren kurulumlar diye bir şey yoktur, 
+herhangi bir desen herhangi bir günde başarısızlığa uğrayabilir.
+➢ Ticaretin kendisi bir olasılık oyunudur, kesinlik değil. Ticaret kesin bir bilim 
+değildir, bu yüzden SL (Stop Loss) her yaptığınız ticarette bir zorunluluktur.
+➢ Bu 15 günlük işlem modelleriyle işlem yapmaya devam edene kadar birkaç 
+gün kağıt üzerinde işlem yapmanız şiddetle tavsiye edilir.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 35 ===
+38
+15 Günlük İşlem Modellerim
+(parantez içinde bu desenin çoğunlukla hangi zaman diliminde gerçekleştiğini verdim, bu 
+öğleden sonra ortasında veya sonrasında gösterdiğim bir desenin açılışta 
+gerçekleşemeyeceği anlamına gelmiyor, sadece o andaki desenin frekansıdır)
+OD (AÇIK SÜRÜCÜ)– (AÇILIŞ)
+ODR (OD REDDETME)- (AÇILIŞ)
+PPT (PİVOT BASINÇ TİCARETİ)– (AÇILIŞ)
+AKŞAM YILDIZI– (AÇILIŞ)
+SABAH YILDIZI– (AÇILIŞ)
+BAKİR CPR RVRSL– (AÇILIŞ)
+RCR (KIRMIZI MUM GERİ ÇEKİLME)– ((ÖĞLEDEN SONRA AÇILIYOR)
+GCR (YEŞİL MUM GERİ ÇEKİLME)- (ÖĞLEDEN SONRA AÇILIYOR)
+GAP UP REDDETME– ((ÖĞLEDEN SONRA AÇILIYOR)
+CPR BO (MERKEZİ PİVOT ARALIĞI KOPARILMASI)– (ÖĞLEDEN SONRA ORTA-GEÇ SAATLER)
+GAP AŞAĞI REDDETME– (ÖĞLEDEN SONRA ORTA-GEÇ SAATLER)
+Bay RVRSL– (ÖĞLEDEN SONRA ORTA-GEÇ SAATLER)
+W RVRSL –(ÖĞLEDEN SONRA ORTA-GEÇ SAATLER)
+RCBO (KIRMIZI MUMUN PATLAMASI)– (ÖĞLEDEN SONRA ORTA-GEÇ SAATLER)
+GCBO (YEŞİL MUMUN PATLAMASI))- (ÖĞLEDEN SONRA ORTA-GEÇ SAATLER)
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 36 ===
+39
+OD (AÇIK SÜRÜCÜ) DESENİ
+Şekil 5.1
+OD (Açık Sürücü deseni) -OD, piyasa profili kavramında kullanılan yaygın bir terimdir, 
+ben de kendi modelim için aynı adı kullanıyorum, ancak buradaki strateji farklı
+Piyasa profilinde, piyasa yukarı veya aşağı yönde gap açarsa buna genellikle OD (açık sürücü) denir 
+ancak benim OD Desenimde, mumun yükselişte (PDH'nin üzerinde açıldıysa) veya düşüşte (PDL'nin 
+altında açıldıysa) olmasını yalnızca OD Deseni olarak değerlendiririm.
+Açılış (günün ilk 5 dakikalık mumu) mumu yukarı boşluk/aşağı boşluk mumu olmalı veya PDH 
+veya PDL'nin üstünde veya bir pivotun üstünde kapanmalıdır. (Tercihen pin bar/boğa/ayı mumu)
+Mumun üstünde/altında PDH/PDL/Pivot vb. gibi bir destek/direnç 
+olmalıdır.
+Herhangi bir direnç/destek olmadığından emin olun, sadece günlük/haftalık/aylık pivot veya herhangi bir büyük 
+destek/direnç gibi girişin üstünde/altında mumlar olmalıdır (mum hareket edecek alana sahip olmalıdır)
+Hem Nifty hem de Bank Nifty aynı anda OD yaparsa yüksek olasılıklı işlem.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 37 ===
+40
+Hedef bir sonraki pivot/destek/direnç veya 2R (tercihen) veya daha fazlası olmalıdır…. SL, PDH'nin altında/ 
+PDL'nin üstünde veya giriş mumunun/veya pivotların altında/üstünde
+Küçük bir not:
+Buradan göreceğiniz tüm grafiklerim Nifty veya Bank Nifty grafikleridir ve 
+zaman aralığı 5 Dakikadır.
+Kahverengi noktalı çizgi günlük pivotları gösteriyor.
+Mavi/Gök mavisi noktalı çizgi haftalık pivotlar.
+Pembe/Kırmızı noktalı çizgi aylık pivotlar
+CPR'de üstte ve altta mavi, ortada pembe olmak üzere 3 çizgi
+Şekil 5.2
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 38 ===
+41
+A) Şekil 5.2'de, İlk 5 dakikalık mum PDH'nin üzerinde kapandı, yükseliş paterni oluşturdu, PDH ve günlük 
+pivotun üzerinde kapandı, mum kapandığında uzun pozisyon açıldı,
+B) Hedef bir sonraki direnç yani günlük/haftalık pivot noktasıdır.
+C) SL, PDH'nin altında ve R1 pivotunun altında
+SL'yi tutmak bir sanattır ve bir ticarete giriş/çıkış yapmak kadar önemlidir.
+Birçok kişi SL'yi giriş mumunun altında tutmaya inanır, bu yanlış bir yöntem 
+olmasa da giriş mumu çok büyükse SL de çok büyük olur. Bu yüzden SL'yi 
+her zaman gelip SL'nizi almadan önce biraz destek veya direnç olması 
+gereken bir yerde tutun (bu işlemde (Şekil 5.2) SL'nin üzerinde PDH ve R1 
+pivot direnci vardı)
+Bir işlem yaparsanız ve bu işlem tersine döner ve SL'nize çarparsa, bu sorun değil 
+çünkü yanılıyorsunuz ve sizi büyük bir kayıptan kurtardı... ancak analizinizde 
+haklıysanız ancak fiyat gelip SL'nizi alıp sizin yönünüzde hareket ederse bu çok 
+sinir bozucu olur.
+Yani, SL her zaman destek çizgisinin altında (eğer uzunsanız) veya direnç çizgisinin 
+üstünde (eğer kısaysanız) olmalıdır.
+Yukarıdaki grafikte, SL'yi giriş mumunun altında tutmak çok büyük bir SL 
+olurdu, bu yüzden PDH'nin altında tutmak size daha iyi bir SL verirdi, çünkü 
+SL'nizi almak için kırılması gereken R1 pivotu ve PDH var.
+Bir diğer husus, işlemlerinizi yapmadan önce risk-ödül oranına bakın. 
+Eğer kazancınız büyük, riskiniz küçükse o işlemi yapın.
+Basitçe ifade etmek gerekirse, uzun vadeli bir işlem yaparsanız, SL'niz 20 puandır ve sonraki 
+40-50 puanda direnç olmadığını görürseniz, bu fiyatın 40-50 puana kadar hareket edecek 
+alanı olduğu anlamına gelir, bu da iyi bir risk-ödül işlemidir.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 39 ===
+42
+Şekil 5.3
+A) Şekil 5.3'te, yukarıdaki grafikte, ilk 5 dakikalık mum, PDH'nin üzerinde ve günlük pivot ile aylık 
+pivotun (pembe noktalı çizgi) üzerinde kapanan yükseliş eğilimli bir Yeşil mumdur, OD (Açık 
+Sürüş) ticareti için iyi bir adaydır, ilk mumun kapanışında uzun pozisyon açın.
+B) Hedef bir sonraki direnç yani Günlük R2 pivotudur.
+C) PDH'nin altındaki SL + R1 pivotunun altındaki SL
+İyi SL ile bir başka iyi işlem, SL'nizin üzerinde Günlük pivot + PDH + Aylık pivot var, 
+SL'yi destek birleşim noktasının altında tutmak SL'yi tutmak için iyi bir yerdir.
+Gördüğünüz ilk 2 grafikte, bir sonraki dirençte kar elde ettikten sonra piyasa tersine dönüyor, 
+ancak her seferinde bir sonraki pivottan tersine dönmesi gerekmiyor, bazen direnci kırıp güçlü bir 
+yükseliş trendi oluşturabiliyor ve günün en yüksek seviyesinden kapanabiliyor.
+Yani, ister bir sonraki dirençte karınızı rezerve etmek isteyin, ister SL'nizi takip edip 
+trend günü ise büyük bir hareketi yakalamaya çalışın, bu çağrıyı almalısınız.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 40 ===
+43
+Şekil 5.4
+OD paterni PDL'nin altında da gerçekleşebilir, yukarıdaki grafikte (5.4) olduğu gibi, daha önce de söylediğim 
+gibi, fiyat her zaman pivot destek/direnç seviyesine ulaşıp sonra tersine dönmez, tıpkı bu grafikte olduğu gibi 
+fiyat ilk önce S1 pivot noktasında destek alır, daha sonra günün ilerleyen saatlerinde bu pivot desteği kırılır ve 
+günün en düşük seviyesinde kapanır ve eğer S1 pivot noktasında kar elde ettiyseniz, o büyük günün öğleden 
+sonrasına doğru büyük kar elde etme fırsatını kaçırmış olursunuz.
+İşte bu yüzden her aşamada risk takibinin önemini vurguluyorum, çünkü o günün ne kadar 
+büyük olabileceğini söylemek gerçekten zor.
+A) Şekil 5.4'te, İlk 5 dakikalık mum düşüş eğiliminde Kırmızı mum, PDL'nin altında kapandı... mum 
+kapanışında kısa
+B) Hedef bir sonraki destek yani Günlük S2 pivotudur.
+C) PDL'nin üstündeki SL iyi bir Risk-Ödül ticareti sağlayabilirdi.
+D) SL'yi S1 pivotunun üzerinde tutmak daha iyi bir SL sağlayabilirdi ancak SL çok büyük olduğu için çok 
+iyi bir risk-ödül ticareti sağlamazdı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 41 ===
+44
+ODR (AÇIK SÜRÜCÜ REDDİ) DESENİ
+Şekil 5.5
+ODR (Açık Sürücü Reddi), Açık Sürücü modelinin tam tersidir. Açık Sürücüde, mum 
+yukarı yönde boşluk oluşturuyorsa ve ilk mumun altında PDH veya bazı pivotlar gibi bir 
+destek varsa işlem yaparız.
+ODR'de de yukarı yönlü bir boşlukla başlayacak ancak mum kapanış seviyesinin hemen 
+üzerinde dirençle karşılaşacak.
+ODR yüksek olasılıklıdır ve boşluk yukarı ile boşluk aşağı arasında ODR varsa çoğu 
+zaman iyi çalışır.
+Bu tür formasyonlar çoğu zaman dirençten geri döner ve ilk mumun dip seviyesi 
+kırıldığında aşağı yönde bir Hugh hareketi bekleyebilirsiniz.
+Bu kalıpların ardındaki psikoloji şudur: Çoğu perakende yatırımcı, yukarı yönlü boğa mumu 
+gördüklerinde uzun pozisyon alırlar, bunun boğa kalıbı olduğunu ve piyasanın yükseleceğini 
+hissederler ve ilk boğa mumuna atlayıp uzun giriş yaparlar ve SL'leri ilk mumun altındadır, çoğu 
+perakende yatırımcı SL'yi giriş mumunun altında tutma eğilimindedir, bu nedenle ilk mumun düşük 
+seviyesi kırıldığında, tüm SL'leri (Satış emirleri) tetiklenir ve aşağı yönde büyük bir harekete yol açar.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 42 ===
+45
+Şekil 5.6
+A) Şekil 5.6'da, Boğa pin çubuğu mumu yukarı doğru açılıyor ancak altında destek yok, kapanış seviyesinin 
+üstünde bir direnci var, günlük ve haftalık pivot direnci var, uzun pozisyon açmayın, sadece bekleyin ve 
+düşük seviyenin kırılıp kırılmayacağını görün.
+B) SL ilk mumun altında, bu boşluğu yukarı doğru gören tüm perakende yatırımcılar 
+heyecanlandı ve piyasanın yükseleceğini düşünerek uzun pozisyon açtı, SL'leri bu giriş 
+mumunun altında.
+C) 5incimum tersine döndü ve ilk mumun altında kapandı, ilk mumun altındaki tüm SL'leri 
+tetikledi, tüm satış emirleri tetiklendi ve bu da büyük bir aşağı hareketine yol açtı.
+D) Günlük ve haftalık pivotların bulunduğu kümenin üstündeki SL.
+E) Daha iyi risk-ödül ticareti için CPR'de kar muhasebesi yapın.
+F) 5'te kısa pozisyon açmayı kaçırdıysanızincimum daha sonra bazen kısa pozisyon açmak için ikinci bir 
+fırsat elde edersiniz, destek direnç olur, destek ilk mumun en düşük seviyesiydi
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 43 ===
+46
+Fiyat o seviyeyi tekrar test ettiğinde başka bir kısa pozisyon açma fırsatı yakalarsınız çünkü 
+o seviye artık direnç görevi görecektir.
+Şekil 5.7
+A) Şekil 5.7'de, altında PDH desteği bulunan boğa boşluğu yukarı mumu, kapanışının üstünde 
+haftalık ve günlük pivot direnci var, aynı zamanda bir OD formasyonu.
+B) Tüm uzun vadeli yatırımcıların SL'si ilk mumun düşük seviyesinin altında, bu boşluğu yukarı doğru gören 
+tüm perakende yatırımcılar heyecanlandı ve piyasanın yükseleceğini düşünerek uzun pozisyon aldı, 
+SL'leri giriş mumunun altında.
+C) 16incimum sonunda ilk mumun altında kapandı ve ilk mumun altındaki tüm SL'leri (satış 
+emirleri) tetikledi, tüm satış emirleri tetiklendi ve bu da büyük bir aşağı hareketine yol açtı.
+D) SL, R1 pivotunun üstünde.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 44 ===
+47
+E) CPR'de defter kârı.
+F) 16'da kısa pozisyon açmayı kaçırdıysanızincimum, daha önceki desteğin yeniden test edilmesi 
+için bir sonraki fırsat, ancak bu gün fiyat o seviyeye ulaşmadı ve o seviyeye ulaşmadan önce 
+tersine döndü.
+Daha yüksek zaman diliminden tedarik bölgesi
+Şekil 5.8
+A) Şekil 5.8'de, PDH ve altındaki haftalık pivot ile boğa boşluğu yukarı pin çubuğu mumu, 
+yukarıdaki kırmızı yatay çizgi daha yüksek zaman diliminden tedarik bölgesi direncidir.
+B) Tüm uzun vadeli yatırımcıların SL'si ilk mumun düşük seviyesinin altında, bunun üzerinde bir arz bölgesi 
+olduğunu fark etmemişler, bu boşluğu yukarı doğru gören tüm perakende yatırımcılar heyecanlanmış 
+ve piyasanın yükseleceğini düşünerek uzun pozisyon açmışlar, SL'leri giriş mumunun altında.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 45 ===
+48
+C) Mumlar tedarik bölgesinde dirençle karşılaştı ve tersine döndü, 7incimum ilk mumun en düşük seviyesinin 
+altında kapandı ve tüm SL sinyalleri büyük bir satış dalgasına yol açtı…
+D) SL haftalık pivotların üzerinde.
+E) CPR'de defter kârı.
+F) 7'de kısa pozisyon açmayı kaçırdıysanızincimum, ardından önceki desteğin yeniden test 
+edilmesiyle bir sonraki fırsat, o seviyede kısa pozisyon açmak için başka bir fırsat (destek şimdi 
+direnç oldu)
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 46 ===
+49
+PPT DESENİ (PİVOT BASINÇ TİCARETİ)
+Şekil 5.9
+Önceki 2 patern (OD ve ODR) tamamen PDH/PDL'ye dayalıysa, bu patern (PPT) 
+CPR'ye dayanmaktadır.
+Şekil 5.9'daki bu desende, eğer günün ilk mumu yükseliş eğilimindeyse ve CPR'nin bir tarafını 
+kapsıyorsa ve bunun üzerinde kapanıyorsa bu PPT desenidir, aynı durum ilk mumun düşüş 
+eğiliminde olması ve CPR'nin bir tarafını kapsıyorsa ve CPR'nin diğer tarafını kapatıyorsa da 
+geçerlidir.
+İlk mumun yükseliş veya düşüş eğiliminde olması gerekir; ayrıca Nifty PPT formasyonu oluştururken 
+Bank Nifty bir miktar dirençle karşılaşırsa veya tam tersi olursa işlem yapmamak veya bekleyip izlemek 
+daha iyidir.
+Hem Nifty hem de Banka Nifty yükseliş PPT paterni gösteriyorsa veya en azından diyelim ki Banka Nifty PPT paterni 
+gösteriyorsa ve Nifty PPT değilse ancak CPR'nin üzerinde işlem görüyorsa bu işlemi yapabilirsiniz.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 47 ===
+50
+Şekil 5.10
+A) Şekil 5.10'da, ilk mum CPR'nin bir tarafını kaplayan ve CPR'nin üstünde kapanan boğa 
+mumudur, mum kapandığında uzun pozisyon açılır.
+B) Günlük pivotta defter karı, mumun hemen üzerinde haftalık bir pivot olsa bile 
+onu görmezden gelmek daha iyidir. (Birinci bölümde belirtildiği gibi, haftalık 
+ve aylık pivotlar CPR'ye yakınsa çok güçlü değillerdir)
+C) Mumun altındaki SL veya CPR'nin diğer tarafı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 48 ===
+51
+Şekil 5.11
+A) Şekil 5.11, İlk mum, CPR'nin bir tarafını saran ve CPR'nin üzerinde kapanan boğa mumudur, 
+mum kapandığında uzun pozisyon açılır.
+B) CPR'nin diğer tarafının altındaki SL.
+C) Bir sonraki dirençte, günlük pivotta veya PDH'de defter karı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 49 ===
+52
+Şekil 5.12
+A) Şekil 5.12'de, ilk mum CPR'nin bir tarafını kaplayan ve CPR'nin üstünde kapanan boğa 
+mumudur, mum kapandığında uzun pozisyon açılır.
+B) Burada SL çok büyüktü, CPR genişti dolayısıyla SL de büyüktü, SL büyük olduğunda 
+ödülünüz de büyük olmalıydı.
+C) PDH Direncinde kar rezervasyonu, çünkü günlük veya haftalık pivot noktalarında kar rezervasyonu 
+yapmak iyi bir risk-ödül ticareti değildi.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 50 ===
+53
+AKŞAM YILDIZI DESENİ
+Şekil 5.13
+Akşam başlangıç   kurulumunda, ilk mum yukarı doğru boşluk açar ancak düşüş mumu 
+oluşturur (veya ilk mum doji olur ve sonraki mum yükseliş yapar), OD Formasyonunda 
+ise ilk mum yükseliş mumu oluşturur.
+Mum PDH desteğinin altına kapandığında kısa pozisyon açın.
+PDH seviyesinin altında kapanan mum giriş mumudur.
+Güncel Günlük CPR'de defter kârı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 51 ===
+54
+Şekil 5.14
+A) Şekil 5.14'te, yukarı yönlü boşluklu mum ama düşüş yönlü mum, ilk mum PDH'nin altında 
+kapanamadı, bu yüzden bekleyin, short yapmayın.
+B) Üçüncü mum sonunda PDH'nin altında kapandı, yani kısa pozisyona geçilecek mum.
+C) O kırmızı yatay çizginin üstündeki SL (daha yüksek zaman dilimindeki tedarik bölgesi)
+D) CPR'de defter kârı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 52 ===
+55
+Şekil 5.15
+A) Şekil 5.15'te ilk mum, Gap up mumu ve ayı mumudur, ilk mum PDH'nin altında 
+kapanmıştır, bu nedenle ilk mumun kapanışında kısa pozisyona girin.
+B) SL, R1 pivotunun üstünde.
+C) CPR'de defter kârı
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 53 ===
+56
+Şekil 5.16
+A) Şekil 5.16'da, Gap yukarı mumu ve ayı mumuyla başlandı, ancak PDH'nin altına 
+kapanamadı, ilk 5 mum PDH'de destek aldı... 5'e kadarincimumların hepsi 
+PDH'nin üzerinde destek alıyordu... sabırla bekleyin... bir kez 6incimum PDH'nin 
+altında çatladı, orada kısa.
+B) SL, R1 pivotunun ve giriş mumunun üzerinde.
+C) CPR'de defter karı, haftalık pivotun (mavi noktalı çizgi) üzerinde SL
+D) Eğer 6'yı kısa tutmayı kaçırdıysanızincimum, ardından fiyatın daha önceki desteği tekrar test 
+ettiği bir sonraki kısa fırsat.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 54 ===
+57
+SABAH YILDIZI DESENİ
+Şekil 5.17
+Akşam yıldızının tam tersi olan Akşam Yıldızı'nda, yukarı yönlü bir boşluk varsa ve mum ayı piyasasına 
+giriyorsa (veya ayı piyasasına giren mumda ilk doji varsa) Akşam Yıldızı formasyonunu arayın.
+Sabah Yıldızı, Gap aşağı açılım yapar ancak ilk mum yükseliş yönlüdür (veya ilk mum doji ise ve ardından yükseliş 
+mumu varsa) bu durumda Sabah Yıldızı formasyonu vardır.
+Sabah yıldızı, Akşam yıldızı formasyonuna benzemesine rağmen ben Akşam yıldızını Sabah 
+yıldızı formasyonundan daha çok beğeniyorum. Ayrıca Akşam yıldızı daha sık oluşuyor ve 
+piyasa yukarı çıkmaktan daha hızlı düşüyor.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 55 ===
+58
+Şekil 5.18
+A) Şekil 5.18'de, ilk mum boşluk aşağı bir mumdu ancak yükselişe geçti ve PDL'nin 
+üzerinde kapandı, mumun kapanışında uzun pozisyon açın
+B) CPR'de bir sonraki mumda hemen kar elde edin.
+C) SL günlük veya haftalık pivot noktasının altında.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 56 ===
+59
+Şekil 5.19
+A) Şekil 5.19'da, ilk mum boşluk aşağı bir mumdu ancak yükselişe geçti ve PDL'nin 
+üzerinde kapandı, mumun kapanışında uzun pozisyon açın
+B) Mumlar CPR'de dirençle karşılaştığında hemen kar alın.
+C) SL giriş altı mumu.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 57 ===
+60
+VIRGIN CPR GERİ ÇEVİRME STRATEJİSİ
+Şekil 5.20
+Artık Virgin CPR'nin ne olduğunu biliyorsunuz, CPR'nin gücü bölümünün üçüncü 
+bölümünde açıklanmıştır (Eğer bir önceki günkü fiyat CPR'sinin içine girmediyse 
+Virgin CPR olur)
+Virgin CPR, öğleden sonra ortası ve geç saatlere kıyasla açılışta en etkilidir.
+Eğer son 5-6 gündür Virgin CPR uygulanmışsa bu Virgin CPR, 2 hafta veya 1 ay 
+önce uygulanan Virgin CPR'den daha güçlüdür.
+Virgin CPR eskidikçe gücü de azalıyor.
+Sadece virgin CPR'de işlem yapmayın, virgin CPR içindeki yükseliş veya düşüş 
+formasyonu gibi bir onay bekleyin.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 58 ===
+61
+Şekil 5.21
+A) Şekil 5.21'de, Virgin CPR'yi önceki seansa göre grafiğinizde işaretleyin, fiyatın o 
+seviyeye gelmesini bekleyin, fiyatın Virgin CPR yakınında destek aldığını 
+gördüğünüzde uzun pozisyon açın.
+B) SL'yi Virgin CPR'nin BCPR'sinin altında tutun.
+C) Cari gün CPR'sine göre defter kârı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 59 ===
+62
+Şekil 5.22
+A) Şekil 5.22'de, Birinci Mum Virgin CPR seviyesinde açıldı ancak Virgin CPR seviyesinin 
+üzerinde kapanamadı.
+B) 6inciMum Virgin CPR seviyesinin altında çatladı, orada kısa.
+C) SL giriş mumunun üstünde ve R1 pivotunun üstünde
+D) CPR'de defter kârı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 60 ===
+63
+Şekil 5.23
+A) Şekil 5.23'te, İlk Mum Virgin CPR'de açılmış ve tersine dönerek düşüş mumu 
+oluşturmuş, kapandıktan sonra kısa ilk mum oluşmuştur.
+B) Aylık pivotun üstündeki SL (aylık pivot kırmızı noktalı çizgidir)
+C) CPR'de defter kârı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 61 ===
+64
+KIRMIZI MUM GERİ ÇEKİLME (RCR) DESENİ
+Şekil 5.24
+Bu model, Günün ilk mumunun büyüklüğüne (ilk 5 dakikalık mum) dayanmaktadır.
+Eğer Day'in ilk mumu büyük bir Kırmızı mum ise onu yakından izleyin; eğer fiyat o Kırmızı 
+mumun zirvesine (veya yakınına) geri dönerse ve düşüş eğilimi gösterirse onu satın.
+Önceki gün büyük bir Kırmızı mum olsa bile ve ertesi gün fiyat o seviyeye ulaşıp düşüş eğilimi 
+gösterse bile o zaman da short pozisyonu açılabilir (önceki günün ilk KIRMIZI mumunda da 
+geçerlidir)
+Bu desen öğleden sonra geç saatlere kıyasla öğleden sonra açılıştan öğleden sonraya kadar daha iyi çalışır.
+Bunun nedeni, bu tür büyük Okuma mumlarının o mumda agresif satıcılara sahip 
+olmasıdır, bazen piyasayı aşağı çekmede başarılı olurlar ve bu da büyük düşüş trendi 
+gününe yol açar.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 62 ===
+65
+Ancak bazen ilk mumdan herhangi bir takip olmayacak ve piyasa ilk mumun en düşük seviyesinden 
+sıçramaya başlayacaktır, bu durumda o mumun en yüksek seviyesini yakından izlemelisiniz, eğer mumun 
+en yüksek seviyesinde mumların düşüş eğilimi gösterdiğini görürseniz o zaman onu kısaltabilirsiniz.
+Kırmızı mumun yüksekliği ve aynı seviyede geniş bir CPR varsa bu yüksek olasılıklı bir 
+formasyondur.
+Buradaki psikoloji, büyük Ayı mumundaki satıcıların SL'lerinin Kırmızı mumun tepesinde olması 
+ve SL'lerinin kolayca etkilenmesine izin vermemeleridir, bu yüzden fiyat SL'lerine (Kırmızı 
+mumun tepesi) yaklaşırsa agresif bir şekilde tekrar satış yaparlar ve satış baskısı piyasayı Kırmızı 
+mumun tepesinden tekrar aşağı çeker.
+Şekil 5.25
+A) Şekil 5.25'te, Açılış mumu büyük bir Kırmızı mumdur (agresif satıcılar)
+B) Fiyat o mumun tepesine dokunduğunda ve düşüş gösteren bir mum gördüğünüzde kısa pozisyon 
+açın, CPR'nin de kırmızı mumun tepesiyle aynı seviyede olması olasılığı yüksektir.
+C) CPR'nin üstünde SL
+D) Fiyatın önceki dip seviyelerini tekrar test etmesi durumunda defter karı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 63 ===
+66
+Bu modeller kopuş türü işlemler değil, bunlar yüksek olasılıklı işlemler ancak her an yönünü 
+değiştirebilir, bu yüzden önceki salınım düşük seviyesine dokunmadan önce bile karımı 
+kaydetmeyi tercih ediyorum, eğer ödül zaten 2R'den fazlaysa, eğer biri büyük ödül arıyorsa 
+bekleyip önceki salınım düşük seviyesine dokunup dokunmadığını görebilir ve oradan kar 
+alabilir.
+Şekil 5.26
+A) Şekil 5.26'da, açılış mumu büyük bir Kırmızı mumdur (agresif satıcılar)
+B) Fiyat o mumun tepesine yakın bir seviyeye ulaştığında ve düşüş eğiliminde bir mum gördüğünüzde kısa 
+pozisyon açın, CPR'nin de Kırmızı mumun tepesiyle aynı seviyede olması olasılığı yüksektir.
+C) CPR'nin üstünde SL
+D) Fiyatın önceki dip seviyelerini tekrar test etmesi durumunda defter karı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 64 ===
+67
+Şekil 5.27
+A) Şekil 5.27'de, Açılış mumu büyük bir Kırmızı mumdur (agresif satıcılar)
+B) Fiyat o mumun tepesine dokunduğunda ve düşüş gösteren bir mum gördüğünüzde kısa pozisyon 
+açın, CPR'nin de kırmızı mumun tepesiyle aynı seviyede olması ihtimali yüksektir.
+C) CPR'nin üstünde SL
+D) Fiyatın önceki dip seviyelerini yeniden test etmesi durumunda defter karı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 65 ===
+68
+YEŞİL MUM GERİ ÇEKİLME (GCR) DESENİ
+Şekil 5.28
+GCR Deseni, RCR Deseninin tam tersidir.
+Bu model Günün ilk mumunun büyüklüğüne dayanmaktadır.
+Eğer Day'in ilk mumu büyük Yeşil mum ise, fiyatın o Yeşil mumun en düşük seviyesine (veya en düşük 
+seviyesine yakın) geri çekilip çekilmediğini yakından izleyin. Bu model, öğleden sonra geç saatlere kıyasla 
+açılıştan öğleden sonraya kadar iyi çalışır.
+Önceki gün büyük bir YEŞİL mum olsa ve ertesi gün fiyat o seviyeye ulaşıp yükseliş 
+eğilimi gösterse bile, o zaman da uzun pozisyon açılabilir (önceki günün ilk YEŞİL 
+mumunda da geçerlidir)
+Bunun nedeni, bu tür büyük Yeşil mum mumlarının o mumda agresif alıcılara sahip 
+olmasıdır, bazen piyasayı yukarı çekmede başarılı olurlar ve bu da büyük yükseliş trendi 
+gününe yol açar.
+Ancak bazen herhangi bir takip olmayacak ve piyasa ilk mumun dibine geri dönmeye 
+başlayacaktır, o mumun dibini yakından izlemelisiniz, eğer mumların o mumun dibinde 
+yükseliş eğilimi gösterdiğini görürseniz o zaman orada uzun pozisyon açabilirsiniz.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 66 ===
+69
+Buradaki psikoloji şudur: Büyük Boğa mumundaki Alıcıların SL'leri Yeşil mumun en düşük 
+seviyesindedir ve SL'lerinin kolayca etkilenmesine izin vermezler, bu yüzden fiyat SL'lerine (Yeşil 
+mumun en düşük seviyesi) yaklaşırsa tekrar agresif bir şekilde satın alırlar ve satın alma baskısı 
+piyasayı tekrar yukarı çeker.
+Şekil 5.29
+A) Şekil 5.29'da açılışta büyük bir yeşil mum var, bu mumdan sonra herhangi bir takip yok, giriş için 
+düşük seviyesine bakın.
+B) Mum ilk mumun dibini test etti ve yükseliş pin barı oluşturdu, o mumda uzun 
+pozisyona gir.
+C) PDH'nin altındaki SL (o siyah noktalı çizgi)
+D) Salınım zirvesinde defter kârı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 67 ===
+70
+Şekil 5.30
+A) Şekil 5.30'da, açılışta Büyük Yeşil mum var, bu mumdan sonra devam eden bir mum yok, giriş için 
+düşük seviyesine bakın.
+B) Mum, ilk mumun düşük seviyesine yakın bir yerde test edildi ve yükseliş eğilimi gösteren bir pin çubuğu oluşturdu, bu mumda uzun 
+pozisyona gir.
+C) SL merkezi pivotun altında
+D) Salınım zirvesinde defter kârı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 68 ===
+71
+Şekil 5.31
+A) Açılışta 5.31'lik büyük yeşil bir mum görüyorum, o mumdan sonra pek fazla takip yok, R1 
+pivotundan tersine döndü, giriş için ilk mumun düşük seviyesine bakıyorum.
+B) Mum ilk mumun dibini test etti ve merkezi pivot yakınında bir taban oluşturdu, CPR veya 
+merkezi pivot yakınında uzun pozisyona girdi.
+C) CPR'nin altındaki SL.
+D) Salınım zirvesinde defter kârı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 69 ===
+72
+GAP UP REDDETME DESENİ
+Şekil 5.32
+Gap up ve Gap down türü desenler benim en sevdiğim desenlerden biridir ancak çok 
+nadiren gerçekleşir, çünkü gap up, gap down her iki günde bir gerçekleşmez, çoğu zaman 
+piyasa düz veya bir önceki günün aralığında açılır.
+GAP – bir önceki günün en yüksek seviyesinden ve bir sonraki günün açılışında Gap yukarı modelinden.
+GAP – Bir önceki günün en düşük seviyesi ve ertesi gün Gap aşağı açılış deseninden.
+Ama yine de Gap'in yukarı veya aşağı gittiğini gördüğümde heyecanlanıyorum.
+Gap up modelinde, öncelikle Gap'in ne kadar büyük olduğuna bakalım. Ve mum çubuğu modeli 
+nedir? Boğa mı yoksa Ayı mı?
+Dördüncü bölümde GAPS'ı tartıştığımızı hatırlarsanız? Piyasa genellikle GAPS'ı 
+sevmez ve sonunda Boşluklar doldurulur (çoğu zaman)
+Bu model aynı modeldir, bir boşluk doldurma stratejisidir.
+Eğer ilk mum yukarı doğru büyük bir boşluk bırakmış ve düşüş eğilimindeyse, o zaman mumu kısa tutun; ancak mumun en 
+yüksek seviyesinin üzerinde bir pivot veya direnç varsa.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 70 ===
+73
+SL'yi bu direncin üzerinde tutun ve boşluğun dolmasını bekleyin. Boşluk, kısa işleminizde 
+kar elde edebileceğiniz bir önceki günün en yükseğidir.
+Şekil 5.33
+A) Şekil 5.33'te Büyük Boşluk yukarı açılıyor ve mum, üstünde R2 pivot direnci 
+bulunan düşüş eğiliminde, ilk mumu kısa tutun.
+B) SL ilk mumun ve R2 pivotunun üstünde.
+C) PDH'deki boşluk doldurulduktan sonra karınızı kaydedin.
+(Yeşil noktalı çizgi günlük pivot noktasıdır, daha önce günlük pivot noktası olarak yeşil noktalı çizgiyi çiziyordum, şimdi 
+günlük pivot noktasını kahverengi olarak değiştirdim)
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 71 ===
+74
+Şekil 5.34
+A) Şekil 5.34'te, Gap yukarı açılımı ve mum, üstünde R2 pivot direnci bulunan düşüş 
+eğiliminde, ilk mumda kısa pozisyon.
+B) SL o mumun üstünde, R2 pivotunun üstünde.
+C) PDH'deki boşluk doldurulduktan sonra karınızı kaydedin.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 72 ===
+75
+Şekil 5.35
+A) Şekil 5.35'te, Gap yukarı açılışı ve mum düşüş eğiliminde ancak SL çok büyük ve R1 Pivot'un 
+üzerinde… Eğer SL çok büyükse daha iyi bir giriş için bir miktar geri çekilme bekleyin.
+B) Daha iyi giriş, bu küçük geri çekilmeden ve tersine dönüşten sonra Ayı mumudur (4)inci
+R1 ve haftalık pivottan mum)
+C) PDH yakınında boşluk dolduğunda karınızı kaydedin.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 73 ===
+76
+GAP AŞAĞI REDDETME DESENİ
+Şekil 5.36
+Gap Up reddini zaten tartıştık, şimdi Gap Down Reddilme Desenini tartışalım.
+Eğer Gap Up Reddedilirse, Gap dolduğunda kısa pozisyon açarım ve kar elde ederim.
+Gap Down Rejection'da, Gap'in dolmasını beklerim ve dolduktan sonra, Gap'in üzerinde bir 
+kopuş mumu varsa işlemi gerçekleştiririm ve Gap dolduktan sonra çoğunlukla büyük 
+hareketler yaptığını gördüm (eğer büyük bir kopuş mumu varsa).
+Fiyat Hareketi Yatırımcısı için PDH/PDL en önemli seviyelerden biridir ve hareketin çoğu 
+burada gerçekleşir.
+Deneyimime göre, PDH/PDL daha önemlidir ve fiyat, önceki günkü aralıkta açılan 
+fiyata kıyasla aralığın dışında (ortalama yukarı veya aşağı boşluk) açılırsa ve ardından 
+PDH/PDL'ye yaklaşırsa güçlü bir destek direnci görevi görür.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 74 ===
+77
+Fiyat PDH'ye yukarı yönlü bir açılıştan veya PDL'ye aşağı yönlü bir açılıştan 
+yaklaştığında çoğu zaman güçlü bir destek direnci görevi görür, bir kez (PDH/PDL) 
+kırıldığında tek taraflı bir parabolik hareket bekleyebilirsiniz.
+A
+Şekil 5.37
+A) Şekil 5.37'de, Bank Nifty'de 25 Aralık'ta açılan Gapinci,24'lük boşlukinci25'e 
+kadarinci25'inde doldurulmadıinci, Bank Nifty aralıklı kaldı (Evet, Boşlukların 
+aynı gün doldurulması gerekmiyor)
+B) 26'sındainci, Bank Nifty açıldı ve ilk olarak boşluk dolana kadar tek yönlü bir 
+seyir izledi ve sonra tersine döndü.
+C) 3 saat sonra Bank Nifty, Gap'in daha önce doldurulduğu seviyeyi tekrar test etti ve bir 
+çıkış yapmaya çalıştı ancak başarılı olamadı ve o seviye civarında bir taban 
+oluşturmaya başladı.
+D) Sonunda, çıkış gerçekleşti, Breakout YEŞİL Maribozu mumuna uzun pozisyon 
+açın.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 75 ===
+78
+E) SL giriş altı mumu.
+F) Bir önceki günkü CPR'de kar al.
+Sadece grafiğe ve fiyat hareketine bakın, kırılmalardan sonraki mum boyutuna bakın ve 
+kırılmalardan önceki mum boyutlarına bakın, bunlar hikayeyi anlatır, Boşluk dolduğunda hareketler 
+çok büyük olabilir ve öğleden sonra geç saatlerde gerçekleşirse daha güçlüdür çünkü tüm kısa 
+satıcılar pozisyonlarını acilen kapatmaya ihtiyaç duyarlar (satın alma emri vermek zorundadırlar) 
+çünkü piyasa kapanacaktır.
+Eğer bu tarz hareketler görüyorsanız, bu daha çok kısa pozisyonları kapatma rallisidir, yani tüm kısa 
+pozisyon satıcıları kısa pozisyonlarını kapatmak için panik içindedir ve bu ralliye yol açar.
+Şekil 5.38
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 76 ===
+79
+A) Şekil 5.38'de, Nifty'de 13'te açılan Gap aşağıinci, 13'te boşluk dolmadıinci, Nifty neredeyse Gap'e kadar 
+gidiyordu, ancak S1 pivotundan tersine döndü, hala doldurulması gereken küçük bir boşluk vardı ve bu 
+boşluk ertesi gün 14'ünde dolduruldu.inci, böylece Boşluk nihayet doldurulmuş oldu.
+B) Gap'i kıran ve bu boşluğun üstünde kapanan Breakout mumunda uzun 
+giriş.
+C) SL o giriş mumunun altında
+D) Önceki günkü bakir CPR'den kar al.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 77 ===
+80
+Şekil 5.39
+A) Şekil 5.39'da, Nifty'de 26'da Gap aşağı açılışıinciNifty önce düşüşe geçti, sonra ise 
+yükselişe geçti.
+B) Boşluk doldu ve kırılma gerçekleşti, o kırılma mumuna gir.
+C) SL giriş altı mumu.
+D) CPR'de defter kârı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 78 ===
+81
+CPR ÇIKIŞ DESENİ
+Şekil 5.40
+Bu bir kopuş modelidir; kopuş modeli, eğer kopuş gerçekten güçlüyse iyi bir Risk-Ödül ticareti 
+verme eğilimindedir.
+Mum CPR'ye yaklaştığında, CPR içindeki fiyat hareketini yakından izliyorum. 
+Bazen fiyat CPR'den tekrar sıçrar veya bazen CPR'den kopuş gerçekleşir.
+CPR içinde küçük bir konsolidasyondan sonra (Tercihen) kopuşu (her iki tarafta da) tercih 
+ederim (yukarıdaki Şekil 5.4'te görebileceğiniz gibi)
+CPR atağı, CPR ortalama büyüklükte veya biraz daha geniş olduğunda meydana gelirse, çoğunlukla 
+güçlüdürler.
+Dar CPR veya çok geniş CPR'den kaynaklanan kopuşlar o kadar güçlü değildir.
+Öğleden sonra geç saatlerde CPR atağı (her iki tarafta) genellikle çok güçlüdür.
+Eğer Nifty ve Bank Nifty aynı anda CPRBO desenine sahipse çok yüksek olasılık.
+CPRBO formasyonu sadece aynı gün sol tarafında mum olmaması durumunda geçerlidir.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 79 ===
+82
+Şekil 5.41
+A) Şekil 5.41'de, Fiyat tepeden düşüyor ve ardından CPR'de bir taban oluşturuyor, CPR 
+ortalama büyüklüktedir, kırılmayı bekleyin.
+B) Kırılma büyük bir ayı mumuyla gerçekleşti, o mumu kısa tutun.
+C) SL merkezi pivotun üstünde, bu işlemde SL büyük olduğundan Ödül de büyük 
+olmalıdır.
+D) Haftalık pivot noktasında kar elde edin.
+CPR'den gelen kırılma mumunun (B) hemen altında günlük bir S1 pivotu olduğunu 
+düşünebilirsiniz, bu iyi bir işlem midir çünkü fiyat o günlük pivottan sıçramış olabilir.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 80 ===
+83
+Özellikle öğleden sonra bir kopuş ticareti yapıyorsam ve günlük/haftalık veya aylık 
+gibi bir pivot görürsem, yine de o ticareti yapmaktan vazgeçmem çünkü kopuşlar 
+çok güçlüdür ve CPR hariç her şeyi kırabilir (çoğu zaman)
+Eğer breakout işlemi yapıyorsam ve breakout'un hemen üstünde/altında CPR (geniş CPR) 
+varsa o zaman o işlemi yapmaktan kaçınırım.
+Şekil 5.42
+A) Şekil 5.42'de, Fiyat tepeden geliyor ve CPR'den bir kırılma var, ancak kırılmadan önce çok 
+fazla konsolidasyon yok, ancak yine de bu işlemi yapıyorum çünkü SL'mi tutabileceğim 
+iyi bir yerim olduğunu biliyorum, bu da CPR'nin bir diğer tarafı. Bu yüzden kırılmadan 
+önce çok fazla konsolidasyon olmamasına rağmen bu işlemi yapıyorum.
+B) Bu kırılma mumunu kısalttıktan sonra SL'yi CPR'nin üzerinde tutun, SL iyi bir yerde ve 
+büyük değil, bu nedenle iyi bir risk-ödül ticareti.
+C) S2 günlük pivot noktasında kar al.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 81 ===
+84
+Şekil 5.43
+A) Şekil 5.43'te, yaklaşık 4-5 saat CPR içerisinde konsolide olduktan sonra nihayet yukarı yönlü 
+bir kırılma gerçekleşiyor.
+B) Haftalık artı günlük pivot noktasında kar al.
+C) SL giriş mumunun altında, ancak SL büyük olduğu için yarı pozisyonla devam edin, SL büyük olduğunda 
+yarı pozisyonla devam edin, diyelim ki Nifty'de normalde 4 lot civarında işlem yapıyorsunuz, eğer SL 
+büyükse lot boyutunuzu azaltın ve pozisyon boyutuna göre işlem yapın.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 82 ===
+85
+M TERS DESEN
+Şekil 5.44
+M Deseni - Piyasa açılıp tek yönlü (yukarı doğru) hareket eder, bir trend günü izlenimi verir ve aniden 
+piyasa tersine döner, günün en düşük seviyesine kadar düşer ve sonra geri sıçrar ve günün en yüksek 
+seviyesini yeniden test eder, orada günün en yüksek seviyesinde veya yakınında kısa pozisyon 
+açabilirsiniz.
+Bu kalıpların ardındaki psikoloji, günün zirvesinde işlem yapan ve bunun bir trend 
+günü olacağını düşünen Alıcıların, piyasa tersine döndüğünde kapana kısılmaları ve 
+SL'leri yoksa büyük bir acı (kayıp) içinde olmalarıdır.
+Günün zirvesinde alıcı olduklarında duyguları büyük para kazanma hırsıydı, ancak 
+şimdi fiyat yönlerinin tersine gittiğinde korkuyorlar.
+Eğer fiyatlar günün en yüksek seviyesine geri dönerse, tüm bu kapana kısılmış yatırımcılar 
+pozisyonlarını denge noktasında kapatma fırsatı yakalarlar, pozisyonlarını kapatırlar (pozisyonlarını 
+satarlar) ve bu da başka bir satış dalgasına yol açar.
+Aynı zamanda, piyasanın çöktüğü seviyeleri hatırlayan yatırımcılar da yeni bir kısa 
+pozisyon alırlar, tüm bunlar başka bir satış dalgasına yol açar.
+Ayrıca, alt zaman diliminde arz bölgesi kavramı da vardır, piyasanın çöktüğü günün en yüksek 
+seviyesi arz bölgesidir ve direnç görevi görmesi muhtemeldir.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 83 ===
+86
+Şekil 5.45
+A) Şekil 5.45'te fiyat açıldı ve yukarı yönlü hareket ederken, aniden fiyat tersine döndü, tüm uzun 
+vadeli yatırımcılar kapana kısıldı.
+B) Fiyat günün en düşük seviyesine yakın bir seviyeye geldi ve tekrar yükseldi.
+C) Fiyat günün en yüksek seviyesine ulaştığında, piyasanın tersine döndüğü yerden satış 
+yapın... tüm kapana kısılmış yatırımcılar pozisyonlarını kapatma fırsatı yakaladı ve bu 
+da bir başka satış dalgasına yol açtı.
+D) SL günün en yüksek seviyesinin üzerinde
+E) Önceki dip seviyedeki defter kârı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 84 ===
+87
+Şekil 5.46
+A) Şekil 5.46'da fiyat pivot noktasının üzerinde açılmış ve yukarı yönlü hareket etmiş, fiyat aniden R2 pivot 
+noktası yakınında tersine dönmüş, tüm uzun pozisyonlu yatırımcılar kapana kısılmış.
+B) Fiyat günün en düşük seviyesine yakın bir seviyeye geldi ve tekrar yükseldi.
+C) Fiyat günün en yüksek seviyesine ulaştığında, piyasanın tersine döndüğü noktada 
+Kısa pozisyon alabilirsiniz... tüm kapana kısılmış yatırımcılar pozisyonlarını kapatma 
+fırsatı yakaladı ve bu da bir başka satış dalgasına yol açtı.
+D) SL günün en yüksek seviyesinin üzerinde
+E) Önceki dip seviyedeki defter kârı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 85 ===
+88
+Şekil 5.47
+A) Şekil 5.47'de fiyat açıldı ve yukarı yönlü hareket ederken, aniden fiyat tersine döndü, tüm uzun 
+vadeli yatırımcılar kapana kısıldı.
+B) Fiyat günün en düşük seviyesine yakın bir seviyeye geldi ve tekrar yükseldi.
+C) Fiyat günün en yüksek seviyesine ulaştığında, piyasanın tersine döndüğü yerden satış 
+yapın... tüm kapana kısılmış yatırımcılar pozisyonlarını kapatma fırsatı yakalar ve bu 
+da bir başka satış dalgasına yol açar.
+D) SL günün en yüksek seviyesinin üzerinde
+E) Önceki dip seviyedeki defter kârı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 86 ===
+89
+W TERS DESEN
+Şekil 5.48
+W Deseni – W Deseni, M deseninin tersidir. Piyasa açılır ve bir trend günü izlenimi vererek tek bir yöne 
+(aşağıya doğru) gider ve aniden piyasa tersine döner, günün en yükseğine yakın bir noktaya kadar yükselir 
+ve sonra geri çekilerek günün en düşük seviyesini yeniden test eder, düşük seviyenin yeniden test edildiği 
+anda veya yakınında uzun pozisyon alabilirsiniz.
+Bu kalıpların ardındaki psikoloji şudur: Günün en düşük seviyesinde açığa satış yapan 
+satıcılar, piyasanın düşeceğini ve bir trend günü olacağını düşünerek, piyasa 
+toparlandığında kapana kısılırlar ve SL'leri yoksa büyük bir acı içinde olurlar.
+Günün en düşük seviyesinde satıcı olduklarında duyguları büyük para kazanmak için 
+açgözlü olmalarıydı ancak fiyat yönlerinin tersine gittiğinde artık korkuyorlar.
+Eğer fiyatlar tekrar günün en düşük seviyesine geri dönerse, tüm bu kapana kısılmış yatırımcılar 
+pozisyonlarını denge noktasında kapatma fırsatı yakalarlar ve pozisyonlarını kapatarak (satın alarak) 
+başka bir sıçramaya yol açarlar.
+Aynı zamanda, piyasanın sıçradığı seviyeleri hatırlayan yatırımcılar, o seviyelerden 
+yeni bir uzun pozisyon alırlar ve tüm bunlar başka bir sıçramaya yol açar.
+Ayrıca, alt zaman diliminde talep bölgesi kavramı da vardır; piyasanın sıçradığı günün en düşük 
+seviyesi talep bölgesidir ve destek görevi görmesi muhtemeldir.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 87 ===
+90
+Şekil 5.49
+A) Şekil 5.49'da fiyat açıldı ve aşağı yönlü hareket ederken, aniden fiyat tersine döndü, 
+tüm kısa vadeli satıcılar kapana kısıldı.
+B) Fiyat günün en yüksek seviyesine yakın bir seviyeye ulaştı ve tekrar düştü.
+C) Fiyat günün en düşük seviyesine ulaştığında, piyasanın sıçradığı yerden satın 
+alın... tüm kapana kısılmış yatırımcılar pozisyonlarını kapatma fırsatı yakalar ve 
+bu da başka bir sıçrama turuna yol açar.
+D) SL günün en düşük seviyesinin altında
+E) Önceki salınım zirvesinde defter kârı, ancak bu günde piyasa, fiyat kâr 
+hedefine dokunmadan önce kapandı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 88 ===
+91
+Şekil 5.50
+A) Şekil 5.50'de, Fiyat açılışta aşağı yönlü bir seyir izlerken, aniden fiyat tersine dönmüş, tüm kısa 
+vadeli satıcılar kapana kısılmış durumdadır.
+B) Fiyat günün en yüksek seviyesine yakın bir seviyeye ulaştı ve tekrar düştü.
+C) Fiyat günün en düşük seviyesine ulaştığında, piyasanın sıçradığı yerden satın 
+alın... tüm kapana kısılmış yatırımcılar pozisyonlarını kapatma fırsatı yakalar ve 
+bu da başka bir sıçrama turuna yol açar.
+D) SL, S1 pivotunun altındadır.
+E) Önceki zirve seviyesindeki defter kârı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 89 ===
+92
+Şekil 5.51
+A) Şekil 5.51'de fiyat açılışta aşağı yönlü hareket ederken, aniden fiyat tersine dönmüş, tüm kısa 
+vadeli satıcılar kapana kısılmış durumdadır.
+B) Fiyat günün en yüksek seviyesini bile aştı ve sonra tekrar düştü.
+C) Fiyat günün en düşük seviyesine yaklaştığında, piyasanın sıçradığı yerden uzun 
+pozisyon açın... tüm kapana kısılmış yatırımcılar pozisyonlarını kapatma (alım) 
+fırsatı yakaladı ve bir başka sıçrama turuna yol açtı.
+D) SL günün en düşük seviyesinin altında.
+E) Önceki zirve seviyesindeki defter kârı.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 90 ===
+93
+KIRMIZI MUM ÇIKIŞI
+Şekil 5.52
+Eğer biri bana 15 desenden hangisinin favorim olduğunu sorarsa, 15 desen 
+arasında en sevdiğimin RCBO olduğunu söylerim.
+Bu, büyük karlar sağlama eğiliminde olan ve çok sık gerçekleşen bir Breakout 
+desenidir. Bu desen, SL avcılık deseninden başka bir şey değildir.
+Eğer Gün Büyük Kırmızı mumla açılıyorsa 3 şey olabilir, ya büyük bir düşüş Trend gününe 
+yol açabilir, ikincisi RCR Deseni veya üçüncüsü bu desen olan RCBO Deseni olabilir.
+Bu modelin ardındaki psikoloji, piyasa büyük bir kırmızı mumla açıldığında çoğu perakende 
+yatırımcının bunun düşüş eğilimi olduğunu ve aşağı ineceğini varsayması ve her seviyede 
+kısa pozisyon açarak SL'yi kırmızı mumun üzerinde tutmasıdır.
+Büyük oyuncular perakendecilerin SL'lerinin bulunduğu yerleri biliyorlar ve eğer bu SL'leri avlayabilirlerse bu 
+büyük bir kısa pozisyon kapatma rallisine yol açabilir ve büyük kar elde etmelerine yardımcı olabilir.
+Bu modeller genellikle öğleden sonra geç saatlerde görülür, ancak açılışta da gerçekleşebilir, piyasa 
+tersine döndüğünde ve ilk mumun yüksek seviyesini kırdığında tüm SL (satın alma emri) tetiklenir ve tüm 
+kısa satıcılar kısa pozisyonlarını kapatmak için panikler ve büyük bir yükselişe yol açar.
+Yani İlk Okuma mumunun tepesi kırılırsa uzun pozisyon alınabilir.
+Dikkat edilmesi gereken nokta, eğer CPR'de RCBO meydana gelirse, breakout trade'i yapmamanız gerektiğidir 
+çünkü çoğu zaman başarısızlıkla sonuçlanır.
+Bu model, önceki gün büyük KIRMIZI bir mum olsa ve ertesi gün zirvesi kırılsa bile 
+uygulanabilir (önceki günün ilk mumunda da uygulanabilir)
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 91 ===
+94
+Şekil 5.53
+A) Şekil 5.53'te, gün büyük Kırmızı mumla açılıyor.
+B) Kırmızı mumun üstünde perakendecilerin SL'ye sahip olduğu yer vardır. Büyük Rad mumuna 
+bakıldığında, perakendecilerin çoğu piyasada SL'nin ilk Oku mumunun üstünde olduğu bir pozisyonda 
+kısa pozisyon açmıştır.
+C) Son olarak, öğleden sonra geç saatlerde büyük oyuncular tüm perakendecilerin SL'lerini avlamayı ve ardından 
+büyük kısa pozisyonları kapatmayı başarırlar. Bu kırılma mumunda uzun pozisyon açarlar.
+D) SL giriş altı mumu.
+E) Bir sonraki pivotta kar elde edin veya SL'nizi takip ederek kazananınıza binin.
+Bu modeller genellikle kısa pozisyonları kapatan yatırımcıların yükselişi ve bu 
+yükselişten yararlanmak isteyen yatırımcıların yükselişe geçmesiyle büyük 
+hareketlere yol açar.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 92 ===
+95
+Şekil 5.54
+A) Şekil 5.54'te, gün büyük kırmızı bir mumla açılıyor.
+B) Perakendecilerin SL'lerini tuttukları yer, O büyük kırmızı mumu incelediğimizde, perakendecilerin 
+çoğunun piyasada kısa pozisyon aldığını ve SL'nin ilk kırmızı mumun üstünde olduğunu 
+görüyoruz.
+C) Burada, büyük oyuncular sadece ilk bir saat içinde tüm perakendecilerin SL'lerini avlamayı 
+başarıyor, bundan sonra ralliyi kapatıyor ve o kırılma mumunda uzun pozisyon açıyor.
+D) SL'yi giriş mumunun altında tutmak çok büyük olurdu, bu yüzden SL'yi PDH'nin altında 
+tutun.
+E) 2R veya daha fazla karla kitap karı elde edin veya SL'nizi takip ederek kazananınıza binin.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 93 ===
+96
+Şekil 5.55
+A) Şekil 5.55'te, önceki gün kırılmamış kırmızı bir mum olsa bile bu formasyon 
+geçerlidir, bu grafiklerde önceki gün açılışta büyük bir kırmızı mum vardı.
+B) Perakendecilerin SL'lerini tuttuğu yer, o Büyük Rad mumuna bakıldığında, perakendecilerin 
+çoğu piyasada SL'nin ilk Oku mumunun üzerinde olduğu bir pozisyonda kısa pozisyon 
+alıyor.
+C) Burada, büyük oyuncular sadece ilk bir saat içinde tüm perakendecilerin SL'lerini avlamayı 
+başarıyor, bundan sonra ralliyi kapatıyor ve o kırılma mumunda uzun pozisyon açıyor.
+D) SL'yi PDH'nin altında tutun.
+E) 2R veya daha fazla karla kitap karı elde edin veya SL'nizi takip ederek kazananınıza binin.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 94 ===
+97
+YEŞİL MUM ÇIKIŞI
+Şekil 5.56
+RCBO Deseninin tam tersi ise GCBO Desenidir.
+Bu, büyük kazançlar sağlama eğiliminde olan ve çok sık gerçekleşen bir Breakout 
+modelidir.
+Bu desen SL av deseninden başka bir şey değildir.
+Eğer Gün Büyük Yeşil mumla açılıyorsa 3 şey olabilir, ya büyük bir Trend gününe 
+yol açabilir, ikincisi GCR Deseni veya üçüncüsü bu desen GCBO Deseni.
+Bu modelin ardındaki psikoloji, piyasa büyük Yeşil mumla açıldığında perakende yatırımcının 
+çoğunun varsayımının bunun yükseliş günü olduğu ve yukarı gideceği yönünde olması ve her 
+seviyede uzun pozisyon açarak SL'yi Yeşil mumun altında tutmalarıdır.
+Büyük oyuncular perakendecilerin SL'lerinin bulunduğu bu yerleri biliyorlar ve eğer SL'lerini avlayabilirlerse 
+bunun büyük bir satış dalgasına yol açabileceğini biliyorlar çünkü tüm uzun vadeli yatırımcıların SL'leri 
+tetikleniyor.
+Bu model, önceki gün büyük YEŞİL mum olsa ve ertesi gün düşük seviyesi kırılsa bile 
+uygulanabilir (önceki günün ilk mumunda da uygulanabilir)
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 95 ===
+98
+Bu modeller genellikle öğleden sonra geç saatlerde görülür, ancak açılışta da gerçekleşebilir; piyasa 
+tersine döndüğünde ve ilk mumun düşük seviyesini kırdığında, tüm SL (satış emirleri) tetiklenir ve 
+tüm uzun vadeli yatırımcılar uzun pozisyonlarını kapatmak (satmak) için panikler.
+Yani ilk boğa yeşil mumun dip seviyesi kırılırsa kısa pozisyon alınabilir.
+Şekil 5.57
+A) Şekil 5.57'de Nifty, yukarı yönlü bir mumla boşluk açıyor, bir miktar yukarı hareketten sonra R2 
+pivotunda dirençle karşılaşıyor.
+B) Yatırımcılar SL'nin ilk mumun altında olduğu pozisyonda uzun pozisyon alırlar.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 96 ===
+99
+C) Tepeden ani satış, ilk mumun altındaki tüm SL (satış emri) tetiklenir, o 
+kopan mumu kısa tutun.
+D) SL, R1 pivotunun üstünde.
+E) CPR'de defter kârı.
+Şekil 5.58
+A) Şekil 5.58'de Nifty, CPR'de dirençle karşılaşan yükseliş mumuyla açılıyor.
+B) Yatırımcılar, SL'nin ilk mumun altında olduğu Yeşil boğa mumuna uzun vadeli bakıyorlar.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 97 ===
+100
+C) Ani tersine dönüş, ilk mumun altındaki tüm SL (satış emri) tetiklenir, mum 
+kapandıktan sonra o kırılma mumunu kısa tutun.
+D) SL haftalık pivotun üzerinde.
+E) S2 pivot noktasındaki defter kârı.
+Şekil 5.59
+A) Şekil 5.59'da Bank Nifty, boğa mumuyla aşağı yönlü boşluğu açıyor ve küçük bir hareketten 
+sonra hemen geri dönüş gerçekleşiyor.
+B) Yatırımcılar SL'nin ilk mumun altında olduğu pozisyonda uzun pozisyon alırlar.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 98 ===
+101
+C) 4inciMum ilk mumun altında kapandı ve tüm SL'leri (satış emirleri) tetikledi, bu da büyük bir Satış 
+dalgasına neden oldu, kapandıktan sonra mumu kısa pozisyona alın.
+D) SL, S1 pivotunun üstünde.
+E) S2 pivot noktasındaki defter kârı.
+Hem bu grafikteki (Şekil 5.59) hem de önceki grafikteki (Şekil 5.58) benzerliğe bakın, ne kadar benzer 
+bir desen görünüyor, buradaki tek fark, fiyatın CPR'ye ulaşmadan önce tersine dönmesi ve önceki 
+grafikte fiyatın CPR'ye ulaştıktan sonra tersine dönmesidir.
+3. bölümün başında da söylediğim buydu.Fiyat hareketleri ve kalıplar tekrarlanmaya devam 
+eder çünkü bunları insanlar yaratır ve hepimiz alışkanlıkların yaratıcılarıyız, bu yüzden 
+kalıpların tekrar tekrar ortaya çıktığını söylerler çünkü insan duyguları asla değişmez.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 99 ===
+102
+Son olarak, işlem yapmadan önce her zaman hem Nifty hem de Bank Nifty 
+grafiklerini izleyin, çünkü bazen biri kırılma gösterirken diğeri CPR direncinin 
+içinde olabilir, o zaman birinde kırılma yaşansa bile, diğeri CPR direncinin içinde 
+olduğu için yine de başarısız olabilir.
+Unutmayın, ikisi de çoğu zaman birlikte hareket eder.
+Aşağıdaki grafiğe bakın (Şekil 5.60) Nifty'nin RCBO modeli vardı (önceki günkü kırmızı mum baz 
+alınarak) ancak Bank Nifty geniş CPR'de dirençle karşı karşıyaydı (Siyah daire ile işaretlenmiştir)
+Sonuç olarak Bank Nifty CPR'den geri döndü ve Nifty RCBO modeli de başarısız oldu.
+Dolayısıyla Bank Nifty'de CPR direnci kırılıncaya kadar Nifty'de uzun pozisyon açmak iyi bir 
+yatırım değildi.
+Şekil 5.60
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 100 ===
+103
+Çözüm
+E-kitabım bu 15 Günlük İşlem Modelleri ve Stratejileri ile sona eriyor, ancak Webinar'ımda bu 
+modellerin ve stratejilerin ötesinde, örneğin hareketli ortalamaların nasıl kullanılacağı, Günlük 
+İşlemlerde SL yöntemleri, Günlük İşlemlerde Opsiyonların nasıl kullanılacağı, Risk Yönetimi, Pozisyon 
+Boyutlandırma, İşlem Psikolojisi vb. konuları ele alıyorum.
+Birçok öğrenci bana bu 15 desen ve stratejinin Hisse Senetleri, Emtialar ve Forex'te işe yarayıp 
+yaramadığını soruyor.
+Cevabım şu ki, şu anda sadece Hindistan piyasasında Endeks ticareti yapıyorum, sadece Nifty ve Bank Nifty gibi, 
+bu yüzden sadece bu 2 enstrümanda (Nifty ve Bank Nifty) grafikleri geriye dönük olarak test ettim.
+Ancak Webinar öğrencilerimin birkaçı bu 15 deseni kullanarak Hisse Senedi ve Emtialarda 
+işlem yapıyor, ancak ben şahsen Nifty ve Bennak Nifty dışında herhangi bir enstrümanda 
+test yapmadım.
+Bu nedenle önerim şu: Eğer sadece hisse senetleri veya emtialarla işlem yapan bir yatırımcıysanız, 
+lütfen geçmiş grafikleri inceleyin ve geriye dönük testler yaparak bu modellerin hisse senetlerinde 
+veya emtialarda işe yarayıp yaramadığını görün.
+Ancak lütfen hangi enstrümanı denerseniz deneyin, bunların iyi likiditeye sahip olmasına, küçük sermayeli veya 
+ucuz hisse senetleri olmamasına dikkat edin.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 101 ===
+104
+Yeni Traderlara tavsiyem….
+Ticaret, diğer meslekler gibi, sadece bir seminere/webinara/atölyeye katılarak veya sadece 
+bir kitap okuyarak ustalaşılacak bir meslek değildir.
+Her meslek gibi bu da yaparak öğrenilir, ancak biraz deneyim ve pratikle 
+ustalaşılabilir.
+İşlemlerde başarısızlık oranı yüksektir, bu başarısızlık oranının sebebi bilgi eksikliği, disiplin 
+eksikliği, canlı işlem sırasında duygularınızı kontrol edememenizdir (en büyük sebep).
+Ticaret, yalnızca tutkusu, disiplini, sabrı olan ve bu Sanatta ustalaşmak için çok çalışmaya 
+hazır olanlar içindir.
+Herşey gönlünce olsun.
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 102 ===
+105
+Özetlemek gerekirse
+İlk e-kitabımı okuduğunuz için teşekkürler.
+Bu e-kitabı yazmaktan gerçekten keyif aldım ve umarım siz de okurken keyif almışsınızdır; ve 
+tabii ki bu e-kitabı okuduktan sonra birçok yeni kavram öğrenmiş olmanızı umuyorum.
+Geri bildirimleriniz bizim için çok değerlidir.
+Bana e-posta gönderinpivotcall@gmail.com
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
+
+
+=== PDF PAGE 103 ===
+106
+Kaynaklar
+Blog: https://pivotcall.com/
+YouTube: https://www.youtube.com/channel/UCoFSwfRGHru5K82atxgsLGA
+Twitter : https://twitter.com/aquariantrader
+Facebook: https://www.facebook.com/profile.php?id=100024733031405
+LinkedIn: https://www.linkedin.com/in/vikram-p-197a9917a/
+Telif Hakkı © 2019 Vikram Prabhu'ya aittir www.pivotcall.com Her hakkı saklıdır
+www.forexgercekleri.xyz - [Twitter: @eseckal]
