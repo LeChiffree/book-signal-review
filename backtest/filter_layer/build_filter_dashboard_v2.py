@@ -119,6 +119,32 @@ td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
 .scorekey b{color:var(--text);font-weight:650}
 th.sortasc::after{content:' ▲';color:var(--accent)}
 th.sortdesc::after{content:' ▼';color:var(--accent)}
+.thwrap{display:flex;align-items:center;justify-content:space-between;gap:6px;width:100%}
+th:first-child .thwrap{justify-content:flex-start}
+.fcaret{border:1px solid transparent;background:transparent;color:var(--muted);cursor:pointer;padding:2px 5px;border-radius:5px;font-size:10px;line-height:1;opacity:.5;margin-left:auto}
+.fcaret:hover{opacity:1;background:#24405a;color:var(--text);border-color:#376282}
+th.filtered .fcaret{opacity:1;color:var(--accent);border-color:#376282;background:#1b3952}
+#colMenu{position:fixed;z-index:80;background:var(--panel2);border:1px solid #376282;border-radius:12px;padding:12px;min-width:258px;max-width:320px;box-shadow:0 18px 44px rgba(0,0,0,.55);display:none;font-size:12px}
+.cm-head{display:flex;justify-content:space-between;align-items:baseline;gap:8px;font-weight:700;margin-bottom:9px}
+.cm-sub{font-size:10px;color:var(--muted);font-weight:500}
+.cm-sort{display:flex;gap:6px;margin:0 0 9px}
+.cm-sort button{flex:1;padding:6px 8px;font-size:11px;background:#16283a;border:1px solid #2d4459;color:var(--text);border-radius:7px}
+.cm-sort button:hover{background:#24405a}
+.cm-list{max-height:230px;overflow:auto;border:1px solid var(--line);border-radius:8px;margin:7px 0;background:#0f1c29}
+.cm-item{display:grid;grid-template-columns:auto 1fr auto;gap:7px;align-items:center;padding:5px 8px;cursor:pointer;color:var(--text)}
+.cm-item:hover{background:#1b3043}
+.cm-item input{accent-color:var(--accent);margin:0}
+.cm-item span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.cm-item b{font-weight:500;color:var(--muted);font-size:10px}
+.cm-all{display:flex;align-items:center;gap:7px;color:var(--muted);font-size:11.5px;margin:6px 0 0;cursor:pointer}
+.cm-all input{accent-color:var(--accent);margin:0}
+.cm-row{display:grid;grid-template-columns:64px 1fr;gap:8px;align-items:center;margin:7px 0}
+.cm-row label{color:var(--muted);font-size:11.5px}
+.cm-note{font-size:10.5px;color:var(--muted);margin:8px 0 0}
+.cm-actions{display:flex;gap:7px;margin-top:10px}
+.cm-actions button{flex:1;padding:7px 9px;font-size:11.5px}
+.cm-none{color:var(--muted);font-size:11px;padding:9px}
+#scanClearCols{background:#1b3952;border:1px solid #376282;color:var(--text);font-size:11.5px;padding:6px 10px;border-radius:8px}
 .rule{font-family:'JetBrains Mono',monospace;font-size:10px;color:#b8c7dd;background:#09111c;border:1px solid var(--line);border-radius:8px;padding:10px;white-space:pre-wrap;overflow:auto;max-height:140px}
 .empty{display:flex;align-items:center;justify-content:center;height:100%;min-height:180px;color:var(--muted);font-size:12px}
 .loading{position:fixed;inset:0;background:#09111c;display:flex;align-items:center;justify-content:center;z-index:50;color:var(--accent);font-size:18px}
@@ -302,9 +328,11 @@ button:hover{background:#245071}
       <label class="toggle" style="color:var(--muted)"><input type="checkbox" id="scanPositive"> sadece pozitif</label>
       <label class="toggle" style="color:var(--muted)"><input type="checkbox" id="scanBase" checked> filtresiz baz dahil</label>
       <span id="scanHint"></span>
+      <button id="scanClearCols" style="display:none">Sütun filtrelerini temizle (<span id="scanColCount">0</span>)</button>
     </div>
     <div class="tablewrap scanwrap"><table id="scanTable"><thead></thead><tbody></tbody></table></div>
   </div>
+  <div id="colMenu"></div>
 
   <div class="note">
     274 high/medium source mapping → 120 benzersiz kural (116'sı işlem üretti; 1d/4h/1h/1w).
@@ -716,6 +744,28 @@ function computeScores(){
   DATA.meta._scored=1;
   DATA.meta._scoreRange={p2:m2,p4:m4,p5:m5};
 }
+const scanFilters={};
+function scanFilterActive(c){
+  const f=scanFilters[c.k];
+  if(!f)return false;
+  return c.kind==='text'?f.size>0:(f.min!=null||f.max!=null);
+}
+function scanFilterCount(){return scanCols.filter(scanFilterActive).length;}
+function passesScanFilters(r){
+  for(const c of scanCols){
+    if(!scanFilterActive(c))continue;
+    const f=scanFilters[c.k];
+    if(c.kind==='text'){
+      if(!f.has(String(r[c.k]??'')))return false;
+    }else{
+      const v=c.get(r);
+      if(v==null||!isFinite(v))return false;
+      if(f.min!=null&&v<f.min)return false;
+      if(f.max!=null&&v>f.max)return false;
+    }
+  }
+  return true;
+}
 function scanRows(){
   const q=(document.getElementById('scanSearch').value||'').toLowerCase();
   const minN=+document.getElementById('scanMinN').value||0;
@@ -726,7 +776,7 @@ function scanRows(){
     if(pos&&!r.kept)return false;
     if(r.n<minN)return false;
     if(q&&!(`${r.sid} ${r.title} ${r.tf} ${r.family} ${r.filter_key} ${r.filter_label_tr}`.toLowerCase().includes(q)))return false;
-    return true;
+    return passesScanFilters(r);
   });
   const k=scanState.sort,dir=scanState.dir;
   rows.sort((a,b)=>{
@@ -744,18 +794,112 @@ function scanRows(){
   });
   return rows;
 }
-const scanCols=[['sid','Strateji'],['tf','TF'],['filter_label_tr','Filtre'],['n','İşlem'],
-  ['avg_net','Net/işlem (tüm)'],['_avg26','Net/işlem 2026'],['win_hold_h','Kârlı ort. süre (sa)'],
-  ['_ratio','Kârlı / zararlı'],['_score','Puan'],['total_net','Toplam net']];
+const scanCols=[
+  {k:'sid',label:'Strateji',kind:'text'},
+  {k:'tf',label:'TF',kind:'text'},
+  {k:'filter_label_tr',label:'Filtre',kind:'text'},
+  {k:'n',label:'İşlem',kind:'num',step:10,get:r=>r.n,fmt:v=>fmtNum(v)},
+  {k:'avg_net',label:'Net/işlem (tüm)',kind:'num',step:.1,unit:'%',get:r=>r.avg_net*100,fmt:v=>v.toFixed(2)+'%'},
+  {k:'_avg26',label:'Net/işlem 2026',kind:'num',step:.1,unit:'%',get:r=>r._avg26==null?null:r._avg26*100,fmt:v=>v.toFixed(2)+'%'},
+  {k:'win_hold_h',label:'Kârlı ort. süre (sa)',kind:'num',step:1,unit:'sa',get:r=>r.win_hold_h,fmt:v=>v.toFixed(1)+' sa'},
+  {k:'_ratio',label:'Kârlı / zararlı',kind:'num',step:.05,get:r=>r._ratio,fmt:v=>v.toFixed(2)},
+  {k:'_score',label:'Puan',kind:'num',step:1,unit:'puan',get:r=>r._score,fmt:v=>v.toFixed(1)},
+  {k:'total_net',label:'Toplam net',kind:'num',step:1,unit:'%',get:r=>r.total_net*100,fmt:v=>v.toFixed(1)+'%'}
+];
+let cmKey=null;
+function closeColMenu(){
+  const m=document.getElementById('colMenu');
+  if(m){m.style.display='none';m.innerHTML='';}
+  cmKey=null;
+}
+function openColMenu(k,anchor){
+  const col=scanCols.find(c=>c.k===k);if(!col)return;
+  const m=document.getElementById('colMenu');
+  if(cmKey===k&&m.style.display==='block'){closeColMenu();return;}
+  cmKey=k;
+  const f=scanFilters[k];
+  let html=`<div class="cm-head">${esc(col.label)}<span class="cm-sub">${col.kind==='text'?'değer seç':'aralık'}</span></div>
+    <div class="cm-sort"><button data-dir="asc">↑ Artan</button><button data-dir="desc">↓ Azalan</button></div>`;
+  if(col.kind==='text'){
+    const vals=Array.from(new Set(DATA.results.map(r=>String(r[k]??'')))).sort((a,b)=>a.localeCompare(b,'tr'));
+    const counts=new Map();
+    DATA.results.forEach(r=>{const v=String(r[k]??'');counts.set(v,(counts.get(v)||0)+1);});
+    const sel=f?new Set(vals.filter(v=>f.has(v))):new Set(vals);
+    html+=`<input type="text" id="cmSearch" placeholder="Ara…" autocomplete="off">
+      <label class="cm-all"><input type="checkbox" id="cmAll"> Tümünü seç</label>
+      <div class="cm-list" id="cmList"></div>
+      <div class="cm-actions"><button id="cmApply">Uygula</button><button id="cmClear">Temizle</button></div>`;
+    m.innerHTML=html;
+    const list=m.querySelector('#cmList');
+    const allBox=m.querySelector('#cmAll');
+    const paint=(q='')=>{
+      const shown=vals.filter(v=>!q||v.toLowerCase().includes(q));
+      list.innerHTML=shown.map(v=>`<label class="cm-item"><input type="checkbox" data-v="${esc(v)}" ${sel.has(v)?'checked':''}><span>${esc(v)||'(boş)'}</span><b>${fmtNum(counts.get(v)||0)}</b></label>`).join('')||'<div class="cm-none">Eşleşme yok</div>';
+      allBox.checked=vals.every(v=>sel.has(v));
+    };
+    paint();
+    m.querySelector('#cmSearch').addEventListener('input',e=>paint(e.target.value.toLowerCase()));
+    allBox.addEventListener('change',()=>{vals.forEach(v=>allBox.checked?sel.add(v):sel.delete(v));paint(m.querySelector('#cmSearch').value.toLowerCase());});
+    list.addEventListener('change',e=>{
+      const cb=e.target.closest('input[data-v]');if(!cb)return;
+      const v=cb.dataset.v;cb.checked?sel.add(v):sel.delete(v);
+      allBox.checked=vals.every(x=>sel.has(x));
+    });
+    m.querySelector('#cmApply').addEventListener('click',()=>{
+      if(sel.size===0||sel.size===vals.length)delete scanFilters[k];
+      else scanFilters[k]={size:sel.size,has:v=>sel.has(v)};
+      closeColMenu();renderScan();
+    });
+    m.querySelector('#cmClear').addEventListener('click',()=>{
+      delete scanFilters[k];closeColMenu();renderScan();
+    });
+  }else{
+    const all=DATA.results.map(col.get).filter(v=>v!=null&&isFinite(v));
+    const lo=Math.min(...all),hi=Math.max(...all);
+    html+=`<div class="cm-row"><label>En az</label><input type="number" id="cmMin" step="${col.step||'any'}" value="${f&&f.min!=null?f.min:''}" placeholder="${col.fmt(lo)}"></div>
+      <div class="cm-row"><label>En çok</label><input type="number" id="cmMax" step="${col.step||'any'}" value="${f&&f.max!=null?f.max:''}" placeholder="${col.fmt(hi)}"></div>
+      <div class="cm-note">Veri aralığı: ${col.fmt(lo)} – ${col.fmt(hi)}${col.unit?' ('+col.unit+')':''}</div>
+      <div class="cm-actions"><button id="cmApply">Uygula</button><button id="cmClear">Temizle</button></div>`;
+    m.innerHTML=html;
+    const apply=()=>{
+      const mn=m.querySelector('#cmMin').value,max=m.querySelector('#cmMax').value;
+      let min=mn===''?null:+mn,maxv=max===''?null:+max;
+      if(min!=null&&!isFinite(min))min=null;
+      if(maxv!=null&&!isFinite(maxv))maxv=null;
+      if(min==null&&maxv==null)delete scanFilters[k];
+      else scanFilters[k]={min,max:maxv};
+      closeColMenu();renderScan();
+    };
+    m.querySelector('#cmApply').addEventListener('click',apply);
+    m.querySelectorAll('#cmMin,#cmMax').forEach(inp=>inp.addEventListener('keydown',e=>{if(e.key==='Enter')apply();}));
+    m.querySelector('#cmClear').addEventListener('click',()=>{delete scanFilters[k];closeColMenu();renderScan();});
+  }
+  m.style.display='block';
+  const r=anchor.getBoundingClientRect();
+  const w=m.offsetWidth,h=m.offsetHeight;
+  m.style.left=Math.max(8,Math.min(r.left,r.right-w,window.innerWidth-w-10))+'px';
+  let top=r.bottom+6;
+  if(top+h>window.innerHeight-8)top=Math.max(8,r.top-h-6);
+  m.style.top=top+'px';
+  m.querySelectorAll('.cm-sort button').forEach(btn=>btn.addEventListener('click',()=>{
+    scanState.sort=k;scanState.dir=btn.dataset.dir==='asc'?1:-1;
+    closeColMenu();renderScan();
+  }));
+}
 function renderScan(){
   if(!DATA)return;
   computeScores();
   const rows=scanRows();
-  document.getElementById('scanHint').textContent=`${fmtNum(rows.length)} / ${fmtNum(DATA.results.length)} kombinasyon`;
-  document.querySelector('#scanTable thead').innerHTML='<tr>'+scanCols.map(([k,l])=>{
-    const cls=scanState.sort===k?(scanState.dir>0?'sortasc':'sortdesc'):'';
-    const num=['sid','tf','filter_label_tr'].includes(k)?'':'num';
-    return `<th data-k="${k}" class="${num} ${cls}">${l}</th>`;
+  const nf=scanFilterCount();
+  document.getElementById('scanHint').textContent=`${fmtNum(rows.length)} / ${fmtNum(DATA.results.length)} kombinasyon${nf?` · ${nf} sütun filtresi`:''}`;
+  const clearBtn=document.getElementById('scanClearCols');
+  clearBtn.style.display=nf?'inline-block':'none';
+  document.getElementById('scanColCount').textContent=nf;
+  document.querySelector('#scanTable thead').innerHTML='<tr>'+scanCols.map(c=>{
+    const cls=scanState.sort===c.k?(scanState.dir>0?'sortasc':'sortdesc'):'';
+    const num=c.kind==='text'?'':'num';
+    const act=scanFilterActive(c)?'filtered':'';
+    return `<th data-k="${c.k}" class="${num} ${cls} ${act}"><span class="thwrap"><span>${c.label}</span><button class="fcaret" data-k="${c.k}" title="Filtrele">▾</button></span></th>`;
   }).join('')+'</tr>';
   document.querySelector('#scanTable tbody').innerHTML=rows.map(r=>{
     const sc=r._score||0;
@@ -784,8 +928,12 @@ function renderScan(){
     scanState.dir=scanState.sort===k?-scanState.dir:-1;
     scanState.sort=k;renderScan();
   }));
+  document.querySelectorAll('#scanTable .fcaret').forEach(btn=>btn.addEventListener('click',e=>{
+    e.stopPropagation();openColMenu(btn.dataset.k,btn);
+  }));
 }
 function activateTab(name){
+  closeColMenu();
   document.querySelectorAll('.tabbtn').forEach(b=>b.classList.toggle('active',b.dataset.tab===name));
   document.getElementById('tab-overview').hidden=name!=='overview';
   document.getElementById('tab-scan').hidden=name!=='scan';
@@ -815,6 +963,19 @@ function init(){
   document.getElementById('scanTabCount').textContent=fmtNum(DATA.results.length);
 }
 document.querySelectorAll('.tabbtn').forEach(b=>b.addEventListener('click',()=>activateTab(b.dataset.tab)));
+document.getElementById('scanClearCols').addEventListener('click',()=>{
+  Object.keys(scanFilters).forEach(k=>delete scanFilters[k]);
+  closeColMenu();renderScan();
+});
+document.addEventListener('click',e=>{
+  if(e.target.closest('#colMenu')||e.target.closest('.fcaret'))return;
+  closeColMenu();
+});
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeColMenu();});
+window.addEventListener('scroll',e=>{
+  if(e.target&&e.target.closest&&e.target.closest('#colMenu'))return;
+  closeColMenu();
+},true);
 ['scanSearch','scanMinN','scanPositive','scanBase'].forEach(id=>{
   const el=document.getElementById(id);
   const go=()=>{if(!document.getElementById('tab-scan').hidden)renderScan();};

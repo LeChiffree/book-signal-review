@@ -89,6 +89,8 @@ Min–max aralığı 1.738 satırın tamamından hesaplanır. Kârlı işlemi ol
 
 Ortalama kalış süresi `results/trades/*.parquet` içindeki `entry_time`/`exit_time` farkından, yalnızca net > 0 işlemler üzerinden hesaplanır (`augment_winhold.py`).
 
+Her sütun başlığındaki **▾** Excel benzeri filtre menüsünü açar: artan/azalan sıralama; metin sütunlarında değer listesi (arama + sayaç) ve sayısal sütunlarda **En az / En çok** aralığı. Uygulanan sütunlar başlıkta vurgulanır, üstteki **Sütun filtrelerini temizle** düğmesi hepsini sıfırlar. Puan min–max ölçeği her zaman 1.738 satırın tamamından hesaplanır; filtreler yalnızca görünen satırları değiştirir.
+
 ## Dosyalar
 
 - `filter_dashboard.html` — interaktif dashboard
