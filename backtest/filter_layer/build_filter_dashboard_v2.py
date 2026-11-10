@@ -17,82 +17,117 @@ HTML = r'''<!doctype html>
 @font-face{font-family:'JetBrains Mono';src:url('assets/fonts/jetbrains-400.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
 @font-face{font-family:'JetBrains Mono';src:url('assets/fonts/jetbrains-600.woff2') format('woff2');font-weight:600;font-style:normal;font-display:swap}
 :root{
-  --bg:#070c16;--panel:#0d1627;--panel2:#111e33;--line:#22314d;
-  --text:#eaf0fa;--muted:#93a7c4;--dim:#647897;
-  --accent:#5eead4;--green:#34d399;--red:#fb7185;--amber:#fbbf24;--purple:#c4b5fd;
+  --bg:#09111c;--panel:#101d2b;--panel2:#142334;--line:#26384a;
+  --text:#e8f0f4;--muted:#91a6b6;--dim:#64798b;
+  --accent:#6caaff;--green:#46d49a;--red:#ff6f7d;--amber:#f2c674;--purple:#b794f4;
 }
 *{box-sizing:border-box}
-html,body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Arial,sans-serif;line-height:1.45}
-body{background:radial-gradient(1100px 620px at 12% -10%,rgba(94,234,212,.12),transparent 55%),radial-gradient(900px 500px at 95% 0%,rgba(196,181,253,.10),transparent 55%),var(--bg);font-size:13px}
-.app{display:grid;grid-template-columns:328px minmax(0,1fr);min-height:100vh}
-aside{border-right:1px solid var(--line);background:rgba(8,14,26,.88);padding:18px 14px 44px;position:sticky;top:0;height:100vh;overflow:auto}
-.brand{font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--accent);font-weight:700}
-h1{font-size:22px;line-height:1.08;margin:8px 0 3px;letter-spacing:-.03em;font-weight:700}
-.sub{font-size:10.5px;color:var(--dim);margin-bottom:14px}
-.step{padding:10px 9px;border:1px solid var(--line);border-radius:11px;background:rgba(255,255,255,.018);margin-bottom:8px}
-.step.active{border-color:rgba(94,234,212,.32);background:rgba(94,234,212,.045)}
-.stepno{font-size:9px;letter-spacing:.16em;color:var(--accent);font-weight:700;margin-bottom:4px}
-.step label{display:block;color:var(--muted);font-size:10.5px;font-weight:600;margin-bottom:5px}
-select,input[type=text],input[type=number]{width:100%;background:#08111f;border:1px solid var(--line);color:var(--text);border-radius:8px;padding:7px 8px;font:inherit;font-size:11.5px;outline:none}
-select:focus,input:focus{border-color:rgba(94,234,212,.6)}
-.filters{display:flex;flex-direction:column;gap:4px;max-height:390px;overflow:auto;padding-right:2px}
-.fbtn{appearance:none;border:1px solid transparent;background:transparent;color:var(--muted);text-align:left;border-radius:8px;padding:6px 7px;cursor:pointer;font:inherit;font-size:11px;display:grid;grid-template-columns:1fr auto;gap:5px}
-.fbtn:hover{background:rgba(255,255,255,.035);color:var(--text)}
-.fbtn.active{background:rgba(94,234,212,.09);border-color:rgba(94,234,212,.32);color:var(--accent)}
+html,body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,"Segoe UI",Arial,sans-serif;line-height:1.5}
+body{background:var(--bg);font-size:14px}
+.app{display:grid;grid-template-columns:275px minmax(0,1fr);min-height:100vh}
+aside{border-right:1px solid var(--line);background:#0e1927;padding:24px 18px 44px;position:sticky;top:0;height:100vh;overflow:auto}
+.brand{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--accent);font-weight:800}
+h1{font-size:25px;line-height:1.08;margin:8px 0 6px;letter-spacing:-.5px;font-weight:700}
+.sub{font-size:12px;color:var(--muted);margin:0 0 22px;line-height:1.5}
+.step{padding:0;border:0;background:transparent;margin:21px 0}
+.step.active{border:0;background:transparent}
+.stepno{font-size:11px;letter-spacing:2px;color:var(--accent);font-weight:800;margin-bottom:6px;text-transform:uppercase}
+.step label{display:block;color:#b8cad5;font-size:12px;font-weight:650;margin-bottom:7px}
+select,input[type=text],input[type=number]{width:100%;background:#172738;border:1px solid #34475a;color:var(--text);border-radius:9px;padding:10px 11px;font:inherit;font-size:12px;outline:none}
+select:focus,input:focus{border-color:var(--accent)}
+.filters{display:flex;flex-direction:column;gap:2px;max-height:390px;overflow:auto;padding-right:2px}
+.fbtn{appearance:none;border:1px solid transparent;background:transparent;color:var(--muted);text-align:left;border-radius:7px;padding:7px 6px;cursor:pointer;font:inherit;font-size:11.5px;display:grid;grid-template-columns:1fr auto;gap:5px}
+.fbtn:hover{background:#1b3043;color:var(--text)}
+.fbtn.active{background:#1b3952;border-color:#376282;color:var(--accent)}
 .fbtn b{font-weight:600;color:var(--text);display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.fbtn small{color:var(--dim);font-size:9.5px;display:block;margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.fcount{font-family:'JetBrains Mono',monospace;color:var(--dim);font-size:9px;align-self:center}
-.toggles{display:flex;flex-direction:column;gap:6px;margin-top:4px}
-.toggle{display:flex;align-items:center;justify-content:space-between;color:var(--muted);font-size:10.5px;cursor:pointer}
-.toggle input{width:auto;accent-color:#5eead4}
-.side-note{border-top:1px dashed var(--line);margin-top:12px;padding-top:9px;color:var(--dim);font-size:9.5px}
-main{padding:20px 22px 60px;min-width:0}
-.top{display:flex;justify-content:space-between;gap:18px;align-items:flex-start;flex-wrap:wrap;margin-bottom:12px}
-.top h2{font-size:25px;line-height:1.08;margin:0;letter-spacing:-.035em;font-weight:700}
-.top p{color:var(--muted);font-size:11.5px;margin:5px 0 0;max-width:820px}
-.crumb{font-size:9px;letter-spacing:.17em;text-transform:uppercase;color:var(--accent);font-weight:700;margin-bottom:5px}
-.switchbox{background:var(--panel);border:1px solid var(--line);border-radius:11px;padding:9px 10px;min-width:260px}
-.switchbox label{display:block;color:var(--dim);font-size:9px;text-transform:uppercase;letter-spacing:.12em;margin-bottom:4px}
-.kpis{display:grid;grid-template-columns:repeat(8,minmax(0,1fr));gap:8px;margin:12px 0 10px}
-.daykpis{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin:0 0 16px}
-.daycard{background:linear-gradient(180deg,rgba(255,255,255,.035),rgba(255,255,255,.01));border:1px solid var(--line);border-radius:11px;padding:9px 12px;display:flex;align-items:center;justify-content:space-between;gap:12px}
-.daycard .dk{font-size:9px;color:var(--dim);text-transform:uppercase;letter-spacing:.1em}
-.daycard .dv{font-family:'JetBrains Mono',monospace;font-size:22px;font-weight:600;letter-spacing:-.03em;display:flex;gap:5px;align-items:baseline}
-.daycard .dv .sep{color:var(--dim);font-size:15px;font-weight:400}
-.daycard .ds{font-size:9px;color:var(--dim);margin-top:2px}
-.kpi{background:linear-gradient(180deg,rgba(255,255,255,.04),rgba(255,255,255,.01));border:1px solid var(--line);border-radius:11px;padding:10px 11px;min-width:0}
-.kpi .v{font-size:18px;font-weight:700;letter-spacing:-.03em;font-family:'JetBrains Mono',monospace;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.kpi .l{font-size:8.5px;text-transform:uppercase;letter-spacing:.1em;color:var(--dim);margin-top:2px;white-space:nowrap}
-.section{margin:18px 0 0}
-.section-head{display:flex;justify-content:space-between;align-items:flex-end;margin:0 0 8px}
-.section-head h3{font-size:14px;margin:0;letter-spacing:-.01em;font-weight:600}
-.section-head span{font-size:10px;color:var(--dim)}
-.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
-.grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
-.card{background:linear-gradient(180deg,rgba(255,255,255,.034),rgba(255,255,255,.01));border:1px solid var(--line);border-radius:14px;padding:12px 13px;min-width:0}
-.card h4{font-size:12px;margin:0 0 2px;font-weight:600;letter-spacing:-.01em}
-.card .hint{font-size:9.5px;color:var(--dim);margin:0 0 6px;min-height:12px}
-.chart{width:100%;height:290px}
-.chart.tall{height:330px}
-.chart.short{height:230px}
+.fbtn small{color:var(--muted);font-size:10px;display:block;margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.fcount{font-variant-numeric:tabular-nums;color:var(--muted);font-size:10px;align-self:center}
+.toggles{display:flex;flex-direction:column;gap:7px;margin-top:4px}
+.toggle{display:flex;align-items:center;justify-content:space-between;color:#c5d5df;font-size:11px;cursor:pointer}
+.toggle input{width:auto;accent-color:var(--accent)}
+.side-note{border-top:1px solid var(--line);margin-top:18px;padding-top:17px;color:var(--muted);font-size:12px;line-height:1.6}
+main{padding:26px 30px 50px;min-width:0;max-width:1800px}
+.top{display:flex;justify-content:space-between;gap:18px;align-items:flex-start;flex-wrap:wrap;margin-bottom:16px}
+.top h2{font-size:25px;line-height:1.08;margin:0;letter-spacing:-.5px;font-weight:700}
+.top p{color:var(--muted);font-size:14px;margin:6px 0 0;max-width:900px}
+.crumb{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--accent);font-weight:800;margin-bottom:6px}
+.switchbox{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px;min-width:280px}
+.switchbox label{display:block;color:#b8cad5;font-size:11px;font-weight:650;margin-bottom:6px}
+.kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:18px 0 12px}
+.daykpis{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:0 0 18px}
+.daycard{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px 17px;display:flex;align-items:center;justify-content:space-between;gap:12px}
+.daycard .dk{font-size:12px;color:var(--muted);font-weight:650}
+.daycard .dv{font-size:26px;font-weight:750;letter-spacing:-.5px;font-variant-numeric:tabular-nums;display:flex;gap:6px;align-items:baseline}
+.daycard .dv .sep{color:var(--muted);font-size:17px;font-weight:400}
+.daycard .ds{font-size:11px;color:var(--muted);margin-top:2px}
+.kpi{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px 18px;min-width:0}
+.kpi .v{font-size:26px;font-weight:750;letter-spacing:-.5px;font-variant-numeric:tabular-nums;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.kpi .l{font-size:12px;color:var(--muted);margin-top:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.section{margin:25px 0}
+.section-head{display:flex;justify-content:space-between;align-items:flex-end;margin:0 0 13px}
+.section-head h3{font-size:16px;margin:0;letter-spacing:-.01em;font-weight:700}
+.section-head span{font-size:12px;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}
+.grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px;min-width:0}
+.card h4{font-size:14px;margin:0 0 3px;font-weight:650;letter-spacing:-.01em}
+.card .hint{font-size:11px;color:var(--muted);margin:0 0 7px;min-height:13px}
+.period-split{display:grid;grid-template-columns:1fr 1fr;gap:13px}
+.period-panel{border:1px solid var(--line);border-radius:14px;padding:18px;background:var(--panel);min-width:0}
+.period-panel.now{border-color:#376282;background:var(--panel2)}
+.period-head{display:flex;justify-content:space-between;align-items:flex-end;gap:8px;margin-bottom:12px}
+.period-head h3{font-size:16px;margin:0;letter-spacing:-.02em;font-weight:700}
+.period-head span{font-size:11px;color:var(--muted)}
+.period-metrics{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:7px;margin-bottom:12px}
+.pm{background:#122131;border:1px solid #223449;border-radius:8px;padding:8px 9px;min-width:0}
+.pm .v{font-size:14px;font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pm .l{font-size:9.5px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-top:1px}
+.period-panel .chart{height:220px}
+.period-panel .chart.tiny{height:180px}
+.period-panel .subhead{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;margin:12px 0 4px}
+.chart{width:100%;height:340px}
+.chart.tall{height:400px}
+.chart.short{height:260px}
 .wide{grid-column:1/-1}
 .pos{color:var(--green)}.neg{color:var(--red)}.amber{color:var(--amber)}
-.badge{display:inline-block;padding:1px 6px;border-radius:999px;font-size:9px;border:1px solid var(--line);color:var(--muted);font-family:'JetBrains Mono',monospace}
-.tablewrap{max-height:480px;overflow:auto;border:1px solid rgba(34,49,77,.55);border-radius:10px}
-table{width:100%;border-collapse:collapse;font-size:10.5px}
-th,td{padding:5px 6px;border-bottom:1px solid rgba(34,49,77,.65);text-align:left;white-space:nowrap}
-th{color:var(--dim);font-size:8.5px;text-transform:uppercase;letter-spacing:.07em;position:sticky;top:0;background:#0b1423;z-index:2;cursor:pointer}
-tr.rowline{cursor:pointer}tr.rowline:hover{background:rgba(94,234,212,.05)}tr.sel{background:rgba(94,234,212,.09)}
-td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;font-family:'JetBrains Mono',monospace}
-.toolbar{display:flex;gap:9px;align-items:center;flex-wrap:wrap;margin:4px 0 8px;color:var(--muted);font-size:10px}
-.toolbar label{display:flex;align-items:center;gap:4px}
-.rule{font-family:'JetBrains Mono',monospace;font-size:9.5px;color:#b8c7dd;background:#08111f;border:1px solid var(--line);border-radius:8px;padding:8px;white-space:pre-wrap;overflow:auto;max-height:120px}
-.empty{display:flex;align-items:center;justify-content:center;height:100%;min-height:180px;color:var(--dim);font-size:11px}
-.loading{position:fixed;inset:0;background:#070c16;display:flex;align-items:center;justify-content:center;z-index:50;color:var(--accent);font-size:12px;letter-spacing:.08em}
-.note{font-size:10px;color:var(--dim);border-top:1px dashed var(--line);padding-top:8px;margin-top:14px}
-.footer{font-size:9.5px;color:var(--dim);margin-top:20px}
+.badge{display:inline-block;padding:2px 7px;border-radius:7px;font-size:10px;border:1px solid var(--line);color:var(--muted)}
+.tablewrap{max-height:590px;overflow:auto;border:1px solid var(--line);border-radius:9px}
+table{width:100%;border-collapse:collapse;font-size:12px}
+th,td{padding:9px;border-bottom:1px solid #223449;text-align:left;white-space:nowrap}
+th{color:#a9c0cf;font-size:11px;position:sticky;top:0;background:#192b3d;z-index:2;cursor:pointer;text-align:right}
+th:first-child,td:first-child{text-align:left}
+tr.rowline{cursor:pointer}tr.rowline:hover{background:#1a3042}tr.sel{background:#1b3952}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+.toolbar{display:flex;gap:11px;align-items:center;flex-wrap:wrap;margin:4px 0 12px;color:var(--muted);font-size:12px}
+.toolbar label{display:flex;align-items:center;gap:5px}
+.toolbar input[type=checkbox]{appearance:none;width:15px;height:15px;border:1px solid #3c5670;border-radius:4px;background:#122131;cursor:pointer;position:relative;margin:0}
+.toolbar input[type=checkbox]:checked{background:var(--accent);border-color:var(--accent)}
+.toolbar input[type=checkbox]:checked::after{content:'✓';position:absolute;inset:0;color:#09111c;font-size:11px;font-weight:800;display:flex;align-items:center;justify-content:center}
+.tabs{display:flex;gap:6px;border-bottom:1px solid var(--line);margin:0 0 20px;position:sticky;top:0;z-index:20;background:var(--bg);padding-top:8px}
+.tabbtn{appearance:none;background:transparent;border:0;border-bottom:2px solid transparent;border-radius:0;color:var(--muted);padding:11px 15px;font:inherit;font-size:13px;font-weight:650;cursor:pointer}
+.tabbtn:hover{background:transparent;color:var(--text)}
+.tabbtn.active{color:var(--accent);border-bottom-color:var(--accent);background:transparent}
+.tabcount{font-size:11px;color:var(--muted);margin-left:7px;font-weight:500}
+.tabpane[hidden]{display:none}
+.scanwrap{max-height:calc(100vh - 300px)}
+.scanwrap table{font-size:12px}
+.scanwrap td,.scanwrap th{padding:8px 10px}
+.scorebar{height:5px;border-radius:3px;background:#223449;overflow:hidden;margin-top:4px;width:74px;margin-left:auto}
+.scorebar i{display:block;height:100%}
+.mini{font-size:10px;color:var(--muted);margin-top:2px;max-width:190px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.scorekey{font-size:11.5px;color:var(--muted);line-height:1.75}
+.scorekey b{color:var(--text);font-weight:650}
+th.sortasc::after{content:' ▲';color:var(--accent)}
+th.sortdesc::after{content:' ▼';color:var(--accent)}
+.rule{font-family:'JetBrains Mono',monospace;font-size:10px;color:#b8c7dd;background:#09111c;border:1px solid var(--line);border-radius:8px;padding:10px;white-space:pre-wrap;overflow:auto;max-height:140px}
+.empty{display:flex;align-items:center;justify-content:center;height:100%;min-height:180px;color:var(--muted);font-size:12px}
+.loading{position:fixed;inset:0;background:#09111c;display:flex;align-items:center;justify-content:center;z-index:50;color:var(--accent);font-size:18px}
+.note{font-size:12px;color:var(--muted);border-top:1px solid var(--line);padding-top:10px;margin-top:14px;line-height:1.6}
+button{background:#1b3952;border:1px solid #376282;color:var(--text);border-radius:8px;padding:8px 11px;cursor:pointer;font:inherit;font-size:12px}
+button:hover{background:#245071}
+.footer{font-size:12px;color:var(--muted);margin-top:20px;line-height:1.7}
 @media(max-width:1300px){.kpis{grid-template-columns:repeat(4,1fr)}.grid3{grid-template-columns:repeat(2,1fr)}}
-@media(max-width:1000px){.app{grid-template-columns:1fr}aside{position:relative;height:auto}.grid,.grid3{grid-template-columns:1fr}.kpis{grid-template-columns:repeat(2,1fr)}.daykpis{grid-template-columns:1fr}}
+@media(max-width:1000px){.app{grid-template-columns:1fr}aside{position:relative;height:auto}.grid,.grid3,.period-split{grid-template-columns:1fr}.kpis{grid-template-columns:repeat(2,1fr)}.daykpis{grid-template-columns:1fr}.period-metrics{grid-template-columns:repeat(2,1fr)}}
 </style>
 </head>
 <body>
@@ -143,6 +178,12 @@ td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;font-family:'Je
 </aside>
 
 <main>
+  <nav class="tabs">
+    <button class="tabbtn active" data-tab="overview">Genel bakış</button>
+    <button class="tabbtn" data-tab="scan">Strateji taraması<span class="tabcount" id="scanTabCount"></span></button>
+  </nav>
+
+  <div id="tab-overview" class="tabpane">
   <div class="top">
     <div>
       <div class="crumb" id="crumb">Strateji seç</div>
@@ -163,19 +204,49 @@ td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;font-family:'Je
     <div class="grid">
       <div class="card"><h4>Ortalama işlem başı net</h4><p class="hint">Seçili strateji · filtre bazında</p><div class="chart" id="filterAvg"></div></div>
       <div class="card"><h4>Medyan sembol neti</h4><p class="hint">Tek bir sembolün baskın olmasını engeller</p><div class="chart" id="filterMedian"></div></div>
+      <div class="card wide"><h4>Filtre heatmap’i</h4><p class="hint">Mevcut 14 filtre · en fazla 20 strateji · ortalama net</p><div class="chart tall" id="filterHeatmap"></div></div>
+      <div class="card"><h4>Filtre özeti</h4><p class="hint">Pozitif sonuç sayısı, ortalama net, medyan sembol neti</p><div id="filterStats"></div></div>
+      <div class="card"><h4>Kapsam notu</h4><p class="hint">Veriyle doğrudan hesaplanamayan alanlar</p><div class="note" style="border:0;padding:0;margin:0">5m SL/TP sırası, çıkış nedeni dağılımı ve ortalama R, mevcut trade export’unda stop mesafesi/çıkış nedeni tutulmadığı için bu sürümde yok. 56 filtre değil, çalışılmış 14 filtre var.</div></div>
     </div>
   </div>
 
   <div class="section">
-    <div class="section-head"><h3>Günlük performans</h3><span>1/525 hesap · realized PnL</span></div>
+    <div class="section-head"><h3>Dönem karşılaştırması</h3><span>Sol: tüm yıllar · Sağ: yalnızca 2026</span></div>
+    <div class="period-split">
+      <section class="period-panel">
+        <div class="period-head"><h3>TÜM YILLAR</h3><span id="allPeriodMeta"></span></div>
+        <div class="period-metrics" id="allMetrics"></div>
+        <div class="subhead">Günlük kâr / zarar</div><div class="chart" id="allDaily"></div>
+        <div class="subhead">Günlük işlem sayısı</div><div class="chart tiny" id="allCount"></div>
+        <div class="subhead">Haftalık kâr / zarar</div><div class="chart tiny" id="allWeekly"></div>
+        <div class="subhead">Aylık kâr / zarar</div><div class="chart tiny" id="allMonthly"></div>
+        <div class="subhead">Mevsimsel kâr / zarar</div><div class="chart tiny" id="allSeason"></div>
+        <div class="subhead">$10 / işlem kasa eğrisi</div><div class="chart tiny" id="allCash"></div>
+      </section>
+      <section class="period-panel now">
+        <div class="period-head"><h3>2026</h3><span id="y26PeriodMeta"></span></div>
+        <div class="period-metrics" id="y26Metrics"></div>
+        <div class="subhead">Günlük kâr / zarar</div><div class="chart" id="y26Daily"></div>
+        <div class="subhead">Günlük işlem sayısı</div><div class="chart tiny" id="y26Count"></div>
+        <div class="subhead">Haftalık kâr / zarar</div><div class="chart tiny" id="y26Weekly"></div>
+        <div class="subhead">Aylık kâr / zarar</div><div class="chart tiny" id="y26Monthly"></div>
+        <div class="subhead">Mevsimsel kâr / zarar</div><div class="chart tiny" id="y26Season"></div>
+        <div class="subhead">$10 / işlem kasa eğrisi</div><div class="chart tiny" id="y26Cash"></div>
+      </section>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-head"><h3>Coin bazında net</h3><span>En aktif 40 sembol · tüm yıllar</span></div>
+    <div class="card"><div class="chart" id="allCoins"></div></div>
+  </div>
+
+  <div class="section">
+    <div class="section-head"><h3>Portföy ve risk</h3><span>1/525 hesap · tüm yıllar</span></div>
     <div class="grid">
-      <div class="card"><h4>Günlük kâr / zarar — tüm dönem</h4><p class="hint">Aynı günün kârı yeşil, zararı kırmızı; tek bar</p><div class="chart tall" id="dailyFull"></div></div>
-      <div class="card"><h4>Günlük kâr / zarar — 2025–2026</h4><p class="hint">Aynı grafik, sadece 25–26</p><div class="chart tall" id="daily2526"></div></div>
-      <div class="card"><h4>Günlük işlem sayısı — tüm dönem</h4><p class="hint">Çıkış gününe göre</p><div class="chart short" id="countFull"></div></div>
-      <div class="card"><h4>Günlük işlem sayısı — 2025–2026</h4><p class="hint">25–26 dilimi</p><div class="chart short" id="count2526"></div></div>
-      <div class="card"><h4>$10 / işlem kasa eğrisi — tüm dönem</h4><p class="hint">Kasa $0'dan başlar; her işlem $10 notional</p><div class="chart" id="cashFull"></div></div>
-      <div class="card"><h4>$10 / işlem kasa eğrisi — 2025–2026</h4><p class="hint">Kasa 1 Ocak 2025'te $0'dan başlar</p><div class="chart" id="cash2526"></div></div>
-      <div class="card wide"><h4>Kümülatif equity — 1/525</h4><p class="hint">Günlük netlerin bileşiği; ölçek için ayrı</p><div class="chart short" id="equity"></div></div>
+      <div class="card"><h4>Kümülatif net özsermaye</h4><p class="hint">Günlük netlerin bileşiği</p><div class="chart" id="equity"></div></div>
+      <div class="card"><h4>Drawdown</h4><p class="hint">Önceki zirveye uzaklık</p><div class="chart" id="drawdown"></div></div>
+      <div class="card wide"><h4>Hareketli 30 / 90 / 365 günlük net getiri</h4><p class="hint">Günlük netin kayan toplamı; 1/525 hesap</p><div class="chart short" id="rolling"></div></div>
     </div>
   </div>
 
@@ -187,7 +258,8 @@ td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;font-family:'Je
       <div class="card"><h4>Çeyreklik kâr / zarar</h4><p class="hint">Q1–Q4</p><div class="chart" id="quarterly"></div></div>
       <div class="card"><h4>Aylık heatmap</h4><p class="hint">Yıl × ay net PnL</p><div class="chart" id="monthHeat"></div></div>
       <div class="card"><h4>Hafta günü</h4><p class="hint">Pzt–Paz kâr / zarar</p><div class="chart" id="weekday"></div></div>
-      <div class="card"><h4>İşlemde kalma süresi</h4><p class="hint">1-3g, 3-7g, 7-14g, 14-35g, 35-65g</p><div class="chart" id="hold"></div></div>
+      <div class="card"><h4>İşlemde kalma süresi</h4><p class="hint">&lt;1s … 4h+ işlem sayısı</p><div class="chart" id="hold"></div></div>
+      <div class="card"><h4>Kalma süresine göre kâr / zarar</h4><p class="hint">Her süre aralığında brüt kâr ve zarar</p><div class="chart" id="holdPnl"></div></div>
     </div>
   </div>
 
@@ -204,18 +276,44 @@ td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;font-family:'Je
     <div class="card"><div class="rule" id="ruleBox">—</div></div>
   </div>
 
-  <div class="section">
-    <div class="section-head"><h3>Tüm strateji × filtre kombinasyonları</h3><span id="tableHint"></span></div>
-    <div class="toolbar">
-      <label>Min işlem <input type="number" id="tableMinN" value="20" min="0" step="10" style="width:60px"></label>
-      <label><input type="checkbox" id="tablePositive" checked> sadece pozitif</label>
-      <label><input type="checkbox" id="tableBase" checked> bazı göster</label>
-      <input type="text" id="tableSearch" placeholder="SID / filtre ara…" style="max-width:220px">
+  </div><!-- /tab-overview -->
+
+  <div id="tab-scan" class="tabpane" hidden>
+    <div class="top">
+      <div>
+        <div class="crumb">Sıralanabilir tarama</div>
+        <h2>Strateji × filtre × timeframe</h2>
+        <p>Her satır tek bir kombinasyon. Sütun başlığına tıkla: artan / azalan sırala. Satıra tıkla: stratejiyi genel bakışta aç.</p>
+      </div>
+      <div class="switchbox">
+        <label>Puan nasıl hesaplanır (0–100)</label>
+        <div class="scorekey">
+          <b>P2</b> net/işlem (tüm yıllar) · min→0, max→33.3<br>
+          <b>P4</b> kârlı işlem ort. süresi (saat) · ters: min→33.3, max→0<br>
+          <b>P5</b> kârlı / zararlı oranı · min→0, max→33.3<br>
+          <b>Puan</b> = P2 + P4 + P5
+        </div>
+      </div>
     </div>
-    <div class="tablewrap"><table id="resultTable"><thead></thead><tbody></tbody></table></div>
+
+    <div class="toolbar">
+      <input type="text" id="scanSearch" placeholder="SID / filtre / TF ara…" style="max-width:260px">
+      <label>Min işlem <input type="number" id="scanMinN" value="0" min="0" step="10" style="width:78px"></label>
+      <label class="toggle" style="color:var(--muted)"><input type="checkbox" id="scanPositive"> sadece pozitif</label>
+      <label class="toggle" style="color:var(--muted)"><input type="checkbox" id="scanBase" checked> filtresiz baz dahil</label>
+      <span id="scanHint"></span>
+    </div>
+    <div class="tablewrap scanwrap"><table id="scanTable"><thead></thead><tbody></tbody></table></div>
   </div>
 
   <div class="note">
+    274 high/medium source mapping → 120 benzersiz kural (116'sı işlem üretti; 1d/4h/1h/1w).
+    5m/15m filtre katmanına alınmadı: brüt kenar zaten negatif; 219M işlemde filtre maliyeti karşılamıyor.
+    “Tüm kombinasyonlar” = her strateji × her filtre (tek tek); 14 filtrenin 2^14 alt kümesi değildir.
+    Sonuçlar fee, slippage ve funding dahildir; geçmiş performans gelecek getiriyi garanti etmez.
+  </div>
+  <div class="footer">Filtre Laboratuvarı · 525 Binance USDT-M perpetual · 1m execution · yerel ECharts</div>
+</main>
     274 high/medium source mapping → 120 benzersiz kural (116'sı işlem üretti; 1d/4h/1h/1w).
     5m/15m filtre katmanına alınmadı: brüt kenar zaten negatif; 219M işlemde filtre maliyeti karşılamıyor.
     “Tüm kombinasyonlar” = her strateji × her filtre (tek tek); 14 filtrenin 2^14 alt kümesi değildir.
@@ -229,7 +327,7 @@ td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;font-family:'Je
 let DATA=null;
 const state={idx:null,filter:'baseline',tf:'',positiveOnly:true,showBase:true,minN:20,tableSort:'median_symbol_net',tableDir:-1};
 const charts={};
-const PAL={green:'#34d399',red:'#fb7185',accent:'#5eead4',amber:'#fbbf24',purple:'#c4b5fd',dim:'#647897',line:'#22314d',text:'#eaf0fa'};
+const PAL={green:'#46d49a',red:'#ff6f7d',accent:'#6caaff',amber:'#f2c674',purple:'#b794f4',dim:'#64798b',line:'#26384a',text:'#e8f0f4'};
 const fmtPct=(x,d=2)=>x==null||!isFinite(x)?'—':(x*100).toFixed(d)+'%';
 const fmtNum=(x)=>x==null?'—':Math.round(x).toLocaleString('en-US');
 const esc=(s)=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -254,7 +352,7 @@ function baseText(){return {fontFamily:'Inter',color:PAL.text};}
 function grid(pad){return {left:pad??54,right:18,top:18,bottom:32,containLabel:true};}
 function axisCat(data,extra={}){return Object.assign({type:'category',data:data,axisLine:{lineStyle:{color:PAL.line}},axisLabel:{color:PAL.dim,fontSize:9},axisTick:{show:false}},extra);}
 function axisVal(extra={}){return Object.assign({type:'value',axisLine:{show:false},axisLabel:{color:PAL.dim,fontSize:9},splitLine:{lineStyle:{color:'rgba(34,49,77,.55)'}}},extra);}
-function tooltip(extra={}){return Object.assign({trigger:'axis',backgroundColor:'#0b1423',borderColor:PAL.line,textStyle:{color:PAL.text,fontFamily:'Inter',fontSize:10},axisPointer:{type:'shadow'}},extra);}
+function tooltip(extra={}){return Object.assign({trigger:'axis',backgroundColor:'#101d2b',borderColor:PAL.line,textStyle:{color:PAL.text,fontFamily:'Inter',fontSize:10},axisPointer:{type:'shadow'}},extra);}
 function emptyOpt(msg){return {title:{text:msg,left:'center',top:'middle',textStyle:{color:PAL.dim,fontSize:11,fontWeight:400}},xAxis:{show:false},yAxis:{show:false},series:[]};}
 
 function strategyList(){return DATA.specs.filter(s=>!state.tf||s.tf===state.tf);}
@@ -350,7 +448,7 @@ function barPnlOption(d, title){
     tooltip:tooltip({formatter:p=>{const i=p[0].dataIndex,x=d[i];return `${dates[i]}<br/>Kâr: ${fmtPct(x[2],3)}<br/>Zarar: ${fmtPct(x[3],3)}<br/>Net: ${fmtPct(x[4],3)}<br/>İşlem: ${x[1]}`}}),
     xAxis:axisCat(dates,{axisLabel:{color:PAL.dim,fontSize:8,formatter:v=>v.slice(2,7)}}),
     yAxis:axisVal({axisLabel:{color:PAL.dim,fontSize:8,formatter:v=>fmtPct(v,1)}}),
-    dataZoom:[{type:'inside'},{type:'slider',height:12,bottom:2,borderColor:PAL.line,fillerColor:'rgba(94,234,212,.12)',textStyle:{color:PAL.dim,fontSize:8}}],
+    dataZoom:[{type:'inside'},{type:'slider',height:12,bottom:2,borderColor:PAL.line,fillerColor:'rgba(108,170,255,.12)',textStyle:{color:PAL.dim,fontSize:8}}],
     series:[
       {name:'Kâr',type:'bar',data:pos,barGap:'-100%',barWidth:'68%',itemStyle:{color:PAL.green,borderRadius:[2,2,0,0]}},
       {name:'Zarar',type:'bar',data:neg,barGap:'-100%',barWidth:'68%',itemStyle:{color:PAL.red,borderRadius:[0,0,2,2]}}
@@ -369,16 +467,16 @@ function cashOption(d, fromLabel){
   let cash=0; const pts=[];
   pts.push([dayDate(d[0][0]-1),0]);
   d.forEach(x=>{cash += x[4]*10; pts.push([dayDate(x[0]),cash]);});
-  return {textStyle:baseText(),grid:grid(58),tooltip:{trigger:'axis',backgroundColor:'#0b1423',borderColor:PAL.line,textStyle:{color:PAL.text,fontFamily:'JetBrains Mono',fontSize:10},formatter:p=>`${p[0].axisValueLabel||''}<br/>Kasa: $${p[0].value[1].toFixed(2)}`},
+  return {textStyle:baseText(),grid:grid(58),tooltip:{trigger:'axis',backgroundColor:'#101d2b',borderColor:PAL.line,textStyle:{color:PAL.text,fontFamily:'JetBrains Mono',fontSize:10},formatter:p=>`${p[0].axisValueLabel||''}<br/>Kasa: $${p[0].value[1].toFixed(2)}`},
     xAxis:{type:'time',axisLine:{lineStyle:{color:PAL.line}},axisLabel:{color:PAL.dim,fontSize:8}},
     yAxis:axisVal({axisLabel:{color:PAL.dim,fontSize:8,formatter:v=>'$'+Number(v).toFixed(0)}}),
-    series:[{name:'Kasa',type:'line',data:pts,showSymbol:false,lineStyle:{color:PAL.accent,width:2},areaStyle:{color:new echarts.graphic.LinearGradient(0,0,0,1,[{offset:0,color:'rgba(94,234,212,.28)'},{offset:1,color:'rgba(94,234,212,.01)'}])}}]};
+    series:[{name:'Kasa',type:'line',data:pts,showSymbol:false,lineStyle:{color:PAL.accent,width:2},areaStyle:{color:new echarts.graphic.LinearGradient(0,0,0,1,[{offset:0,color:'rgba(108,170,255,.28)'},{offset:1,color:'rgba(108,170,255,.01)'}])}}]};
 }
 function equityOption(d){
   if(!d.length)return emptyOpt('Bu dönemde işlem yok');
   let eq=1;const pts=[[dayDate(d[0][0]-1),1]];
   d.forEach(x=>{eq*=1+x[4]/DATA.meta.alloc_n;pts.push([dayDate(x[0]),eq]);});
-  return {textStyle:baseText(),grid:grid(54),tooltip:{trigger:'axis',backgroundColor:'#0b1423',borderColor:PAL.line,textStyle:{color:PAL.text,fontFamily:'JetBrains Mono',fontSize:10},formatter:p=>`${p[0].axisValueLabel||''}<br/>Equity: ${p[0].value[1].toFixed(4)}x`},
+  return {textStyle:baseText(),grid:grid(54),tooltip:{trigger:'axis',backgroundColor:'#101d2b',borderColor:PAL.line,textStyle:{color:PAL.text,fontFamily:'JetBrains Mono',fontSize:10},formatter:p=>`${p[0].axisValueLabel||''}<br/>Equity: ${p[0].value[1].toFixed(4)}x`},
     xAxis:{type:'time',axisLine:{lineStyle:{color:PAL.line}},axisLabel:{color:PAL.dim,fontSize:8}},
     yAxis:axisVal({axisLabel:{color:PAL.dim,fontSize:8,formatter:v=>Number(v).toFixed(2)+'x'}}),
     series:[{name:'Equity',type:'line',data:pts,showSymbol:false,lineStyle:{color:PAL.purple,width:2},areaStyle:{color:'rgba(196,181,253,.08)'}}]};
@@ -407,18 +505,126 @@ function monthHeatOption(d){
   const years=[...new Set([...m.keys()].map(k=>+k.split('-')[0]))].sort();
   const data=[];let mx=0;
   years.forEach((y,yi)=>{for(let mo=1;mo<=12;mo++){const v=m.get(`${y}-${mo}`)||0;mx=Math.max(mx,Math.abs(v));data.push([mo-1,yi,v]);}});
-  return {textStyle:baseText(),grid:{left:44,right:12,top:12,bottom:26,containLabel:true},tooltip:{position:'top',backgroundColor:'#0b1423',borderColor:PAL.line,textStyle:{color:PAL.text,fontSize:10},formatter:p=>`${years[p.value[1]]}-${String(p.value[0]+1).padStart(2,'0')}<br/>${fmtPct(p.value[2],2)}`},
+  return {textStyle:baseText(),grid:{left:44,right:12,top:12,bottom:26,containLabel:true},tooltip:{position:'top',backgroundColor:'#101d2b',borderColor:PAL.line,textStyle:{color:PAL.text,fontSize:10},formatter:p=>`${years[p.value[1]]}-${String(p.value[0]+1).padStart(2,'0')}<br/>${fmtPct(p.value[2],2)}`},
     xAxis:{type:'category',data:['Oca','Şub','Mar','Nis','May','Haz','Tem','Ağu','Eyl','Eki','Kas','Ara'],axisLabel:{color:PAL.dim,fontSize:8},axisLine:{lineStyle:{color:PAL.line}}},
     yAxis:{type:'category',data:years.map(String),axisLabel:{color:PAL.dim,fontSize:8},axisLine:{lineStyle:{color:PAL.line}}},
-    visualMap:{min:-Math.max(mx,.0001),max:Math.max(mx,.0001),calculable:false,orient:'horizontal',left:'center',bottom:0,itemWidth:8,itemHeight:70,textStyle:{color:PAL.dim,fontSize:8},inRange:{color:['#fb7185','#16243b','#34d399']}},
-    series:[{type:'heatmap',data:data,itemStyle:{borderColor:'#0b1423',borderWidth:1},emphasis:{itemStyle:{shadowBlur:8,shadowColor:'rgba(0,0,0,.5)'}}}]};
+    visualMap:{min:-Math.max(mx,.0001),max:Math.max(mx,.0001),calculable:false,orient:'horizontal',left:'center',bottom:0,itemWidth:8,itemHeight:70,textStyle:{color:PAL.dim,fontSize:8},inRange:{color:['#ff6f7d','#142334','#46d49a']}},
+    series:[{type:'heatmap',data:data,itemStyle:{borderColor:'#101d2b',borderWidth:1},emphasis:{itemStyle:{shadowBlur:8,shadowColor:'rgba(0,0,0,.5)'}}}]};
 }
 function holdOption(r){
-  const h=r.hold_hist||[];if(!h.length)return emptyOpt('Veri yok');
-  const labels=DATA.meta.hold_labels;
+  const is8=!!(r.hold8&&r.hold8.length);const h=(is8?r.hold8:r.hold_hist)||[];if(!h.length)return emptyOpt('Veri yok');
+  const labels=(is8?(DATA.meta.hold_labels_v2||DATA.meta.hold_labels):DATA.meta.hold_labels||[]).slice(0,h.length);
   return {textStyle:baseText(),grid:grid(40),tooltip:tooltip({formatter:p=>{const i=p[0].dataIndex,a=h[i];return `${labels[i]}<br/>İşlem: ${a[0]}<br/>Kâr: ${fmtPct(a[1],2)}<br/>Zarar: ${fmtPct(a[2],2)}<br/>Net: ${fmtPct(a[3],2)}`}}),
     xAxis:axisCat(labels,{axisLabel:{color:PAL.dim,fontSize:8,rotate:24}}),yAxis:axisVal(),
     series:[{type:'bar',data:h.map(x=>x[0]),barWidth:'62%',itemStyle:{color:PAL.amber,borderRadius:[2,2,0,0]}}]};
+}
+function periodStats(r, is2026){
+  if(!r) return null;
+  if(is2026){
+    const y=r.y2026||{};
+    if(y.n) return {n:y.n, wins:y.wins, losses:y.losses, flat:y.flat,
+      avg:r.ret_2026, hold:y.avg_hold_days, gross:y.pos||0, loss:y.neg||0, net:y.net||0};
+    const d=dailySlice(r,FROM2026,TO2026);
+    const n=d.reduce((a,x)=>a+x[1],0);
+    const gross=d.reduce((a,x)=>a+x[2],0), loss=d.reduce((a,x)=>a+x[3],0), net=d.reduce((a,x)=>a+x[4],0);
+    return {n, wins:null, losses:null, flat:null, avg:r.ret_2026, hold:null, gross, loss, net};
+  }
+  const n=r.n||0;
+  const wins=(r.wins_total!=null&&r.wins_total>0)?r.wins_total:Math.round((r.win_rate||0)*n);
+  return {n, wins, losses:r.losses_total??Math.max(0,n-wins), flat:r.flat_total??0,
+    avg:r.avg_net, hold:r.avg_hold_days, gross:r.pos_sum||0, loss:r.neg_sum||0, net:r.total_net||0};
+}
+function renderPeriodMetrics(r){
+  const all=periodStats(r,false), y=periodStats(r,true);
+  const box=(id,s,metaId,label)=>{
+    const el=document.getElementById(id); if(!s||!s.n){el.innerHTML='<div class="empty">Bu dönemde işlem yok.</div>';return;}
+    const cells=[
+      ['İşlem',fmtNum(s.n)],['Kârlı',s.wins==null?'—':fmtNum(s.wins)],
+      ['Zararlı / başabaş',s.wins==null?'—':fmtNum((s.losses||0)+(s.flat||0))],
+      ['Ort. net',fmtPct(s.avg,3)],['Ort. kalma',s.hold==null?'—':`${s.hold.toFixed(2)}g`],
+      ['Brüt kâr (toplam)',fmtPct(s.gross,1)],['Brüt zarar (toplam)',fmtPct(s.loss,1)],['Net (toplam)',fmtPct(s.net,1)]
+    ];
+    el.innerHTML=cells.map(([l,v])=>`<div class="pm"><div class="v ${String(v).startsWith('-')?'neg':(l==='Kârlı'||l==='Ort. net'||l==='Net'?'pos':'')}">${v}</div><div class="l">${l}</div></div>`).join('');
+    const m=document.getElementById(metaId); if(m) m.textContent=`${fmtNum(s.n)} işlem · ${label}`;
+  };
+  box('allMetrics',all,'allPeriodMeta','2022-08 → 2026-08');
+  box('y26Metrics',y,'y26PeriodMeta','2026 takvimi');
+}
+function weeklyKey(day){const d=dayDate(day);const dow=(d.getUTCDay()+6)%7;return day-dow;}
+function aggKeys(d, fn){
+  const m=new Map();
+  d.forEach(x=>{const k=fn(x[0]);if(!m.has(k))m.set(k,[0,0,0,0]);const a=m.get(k);a[0]+=x[1];a[1]+=x[2];a[2]+=x[3];a[3]+=x[4];});
+  return m;
+}
+function barsFromMap(m, keys, labelFn){
+  const cats=keys.filter(k=>m.has(k)); if(!cats.length)return emptyOpt('Veri yok');
+  const pos=cats.map(k=>m.get(k)[1]),neg=cats.map(k=>m.get(k)[2]);
+  return {textStyle:baseText(),grid:grid(42),tooltip:tooltip({formatter:p=>{const i=p[0].dataIndex,a=m.get(cats[i]);return `${labelFn(cats[i])}<br/>Kâr: ${fmtPct(a[1],2)}<br/>Zarar: ${fmtPct(a[2],2)}<br/>Net: ${fmtPct(a[3],2)}<br/>İşlem: ${a[0]}`}}),
+    xAxis:axisCat(cats.map(labelFn),{axisLabel:{color:PAL.dim,fontSize:8,rotate:24}}),yAxis:axisVal({axisLabel:{color:PAL.dim,fontSize:8,formatter:v=>fmtPct(v,1)}}),
+    series:[{type:'bar',data:pos,barGap:'-100%',barWidth:'62%',itemStyle:{color:PAL.green}},{type:'bar',data:neg,barGap:'-100%',barWidth:'62%',itemStyle:{color:PAL.red}}]};
+}
+function weeklyOption(d){
+  if(!d.length)return emptyOpt('Veri yok');
+  const m=aggKeys(d,weeklyKey);const keys=[...m.keys()].sort((a,b)=>a-b);
+  return barsFromMap(m,keys,k=>dayStr(k).slice(2,10));
+}
+function monthlyOption(d){
+  if(!d.length)return emptyOpt('Veri yok');
+  const m=aggKeys(d,day=>{const x=dayDate(day);return Date.UTC(x.getUTCFullYear(),x.getUTCMonth(),1)/DAY;});
+  const keys=[...m.keys()].sort((a,b)=>a-b);
+  return barsFromMap(m,keys,k=>dayStr(k).slice(0,7));
+}
+function coinOption(r){
+  const rows=(r.symbols_top||[]).slice().sort((a,b)=>b.net-a.net);
+  if(!rows.length)return emptyOpt('Coin kırılımı hazırlanıyor');
+  const cats=rows.map(x=>x.symbol), vals=rows.map(x=>x.net/DATA.meta.alloc_n);
+  return {textStyle:baseText(),grid:{left:76,right:18,top:8,bottom:20,containLabel:true},tooltip:tooltip({formatter:p=>{const x=rows[p[0].dataIndex];return `${x.symbol}<br/>Net: ${fmtPct(x.net/DATA.meta.alloc_n,2)}<br/>İşlem: ${x.n}`}}),
+    xAxis:axisVal({axisLabel:{color:PAL.dim,fontSize:8,formatter:v=>fmtPct(v,1)}}),yAxis:axisCat(cats,{axisLabel:{color:PAL.dim,fontSize:8}}),
+    series:[{type:'bar',data:vals.map((v,i)=>({value:v,itemStyle:{color:v>=0?PAL.green:PAL.red}})),barHeight:'55%'}]};
+}
+function drawdownOption(d){
+  if(!d.length)return emptyOpt('Veri yok');
+  let eq=1,peak=1;const pts=[[dayDate(d[0][0]-1),0]];
+  d.forEach(x=>{eq*=1+x[4]/DATA.meta.alloc_n;peak=Math.max(peak,eq);pts.push([dayDate(x[0]),(eq/peak-1)*100]);});
+  return {textStyle:baseText(),grid:grid(52),tooltip:{trigger:'axis',backgroundColor:'#101d2b',borderColor:PAL.line,textStyle:{color:PAL.text,fontSize:10},formatter:p=>`${p[0].axisValueLabel||''}<br/>DD: ${Number(p[0].value[1]).toFixed(2)}%`},
+    xAxis:{type:'time',axisLabel:{color:PAL.dim,fontSize:8},axisLine:{lineStyle:{color:PAL.line}}},yAxis:axisVal({axisLabel:{color:PAL.dim,fontSize:8,formatter:v=>v.toFixed(0)+'%'}}),
+    series:[{type:'line',data:pts,showSymbol:false,lineStyle:{color:PAL.red,width:1.6},areaStyle:{color:'rgba(251,113,133,.18)'}}]};
+}
+function rollingOption(d){
+  if(!d.length)return emptyOpt('Veri yok');
+  const net=d.map(x=>x[4]/DATA.meta.alloc_n);
+  const roll=(w)=>net.map((_,i)=>net.slice(Math.max(0,i-w+1),i+1).reduce((a,b)=>a+b,0));
+  const x=d.map(z=>dayDate(z[0]));
+  const mk=(w,color)=>({name:`${w}g`,type:'line',showSymbol:false,data:x.map((xx,i)=>[xx,roll(w)[i]*100]),lineStyle:{color,width:1.7}});
+  return {textStyle:baseText(),grid:grid(52),legend:{top:0,textStyle:{color:PAL.muted,fontSize:9}},
+    tooltip:{trigger:'axis',backgroundColor:'#101d2b',borderColor:PAL.line,textStyle:{color:PAL.text,fontSize:10},valueFormatter:v=>Number(v).toFixed(2)+'%'},
+    xAxis:{type:'time',axisLabel:{color:PAL.dim,fontSize:8},axisLine:{lineStyle:{color:PAL.line}}},yAxis:axisVal({axisLabel:{color:PAL.dim,fontSize:8,formatter:v=>Number(v).toFixed(0)+'%'}}),
+    series:[mk(30,PAL.accent),mk(90,PAL.amber),mk(365,PAL.purple)]};
+}
+function filterHeatmapOption(){
+  const specs=DATA.specs.slice().sort((a,b)=>(b.idx||0)-(a.idx||0)).slice(0,20);
+  const filters=filterDefs().filter(f=>f.id!=='baseline');
+  const data=[];let mx=0;
+  specs.forEach((s,yi)=>filters.forEach((f,xi)=>{const r=resultFor(s.idx,f.id);const v=r?r.total_net/DATA.meta.alloc_n:0;mx=Math.max(mx,Math.abs(v));data.push([xi,yi,v]);}));
+  if(!data.some(d=>d[2]!==0))return emptyOpt('Filtre verisi yok');
+  return {textStyle:baseText(),grid:{left:62,right:12,top:8,bottom:65,containLabel:true},tooltip:{position:'top',backgroundColor:'#101d2b',borderColor:PAL.line,textStyle:{color:PAL.text,fontSize:10},formatter:p=>`${filters[p.value[0]].label_tr}<br/>${specs[p.value[1]].sid}: ${fmtPct(p.value[2],2)} (1/525 hesap)`},
+    xAxis:{type:'category',data:filters.map(f=>f.label_tr),axisLabel:{color:PAL.dim,fontSize:7,rotate:45},axisLine:{lineStyle:{color:PAL.line}}},
+    yAxis:{type:'category',data:specs.map(s=>s.sid),axisLabel:{color:PAL.dim,fontSize:8},axisLine:{lineStyle:{color:PAL.line}}},
+    visualMap:{min:-Math.max(mx,.0001),max:Math.max(mx,.0001),orient:'horizontal',left:'center',bottom:0,itemWidth:8,itemHeight:60,textStyle:{color:PAL.dim,fontSize:8},inRange:{color:['#ff6f7d','#142334','#46d49a']}},
+    series:[{type:'heatmap',data:data,itemStyle:{borderColor:'#101d2b',borderWidth:1}}]};
+}
+function renderFilterStats(){
+  const el=document.getElementById('filterStats'); if(!el)return;
+  el.innerHTML='<div class="tablewrap" style="max-height:300px"><table><thead><tr><th>Filtre</th><th class="num">Pozitif</th><th class="num">Kazanma</th><th class="num">Ort. net</th><th class="num">Med. sembol</th><th class="num">İşlem</th></tr></thead><tbody>'+
+    DATA.filters.map(f=>{const rr=DATA.results.filter(r=>r.filter_key===f.id);const k=rr.filter(r=>r.kept);const n=rr.reduce((a,x)=>a+x.n,0);const wins=rr.reduce((a,x)=>a+(x.win_rate||0)*x.n,0);const avg=k.length?k.reduce((a,x)=>a+x.avg_net,0)/k.length:null;const med=k.length?k.reduce((a,x)=>a+x.median_symbol_net,0)/k.length:null;return `<tr><td>${esc(f.label_tr)}</td><td class="num">${k.length}/${rr.length}</td><td class="num">${fmtPct(n?wins/n:0,1)}</td><td class="num ${avg>=0?'pos':'neg'}">${fmtPct(avg,2)}</td><td class="num ${med>=0?'pos':'neg'}">${fmtPct(med,2)}</td><td class="num">${fmtNum(n)}</td></tr>`;}).join('')+
+    '</tbody></table></div>';
+}
+function holdPnlOption(r){
+  const is8=!!(r.hold8&&r.hold8.length);const h=(is8?r.hold8:r.hold_hist)||[];if(!h.length)return emptyOpt('Veri yok');
+  const labels=(is8?(DATA.meta.hold_labels_v2||DATA.meta.hold_labels):DATA.meta.hold_labels||[]).slice(0,h.length);
+  return {textStyle:baseText(),grid:grid(42),tooltip:tooltip({formatter:p=>{const i=p[0].dataIndex,a=h[i];return `${labels[i]}<br/>Kâr: ${fmtPct(a[1],2)}<br/>Zarar: ${fmtPct(a[2],2)}<br/>Net: ${fmtPct(a[3],2)}`}}),
+    xAxis:axisCat(labels,{axisLabel:{color:PAL.dim,fontSize:8,rotate:24}}),yAxis:axisVal({axisLabel:{color:PAL.dim,fontSize:8,formatter:v=>fmtPct(v,1)}}),
+    series:[{name:'Kâr',type:'bar',data:h.map(x=>x[1]),barGap:'-100%',barWidth:'58%',itemStyle:{color:PAL.green}},{name:'Zarar',type:'bar',data:h.map(x=>x[2]),barGap:'-100%',barWidth:'58%',itemStyle:{color:PAL.red}}]};
 }
 function longShortOption(r){
   const L=r.long||[0,0,0,0,0],S=r.short||[0,0,0,0,0];
@@ -430,7 +636,7 @@ function longShortOption(r){
 function scatterOption(r){
   const pts=r.scatter||[];if(!pts.length)return emptyOpt('Veri yok');
   const data=pts.map(p=>[Math.min(p[0],95),p[1]*100]);
-  return {textStyle:baseText(),grid:grid(52),tooltip:{trigger:'item',backgroundColor:'#0b1423',borderColor:PAL.line,textStyle:{color:PAL.text,fontSize:10},formatter:p=>`Kalma: ${p.value[0].toFixed(1)} gün<br/>Getiri: ${p.value[1].toFixed(2)}%`},
+  return {textStyle:baseText(),grid:grid(52),tooltip:{trigger:'item',backgroundColor:'#101d2b',borderColor:PAL.line,textStyle:{color:PAL.text,fontSize:10},formatter:p=>`Kalma: ${p.value[0].toFixed(1)} gün<br/>Getiri: ${p.value[1].toFixed(2)}%`},
     xAxis:axisVal({name:'gün',nameTextStyle:{color:PAL.dim,fontSize:9},axisLabel:{color:PAL.dim,fontSize:8}}),yAxis:axisVal({axisLabel:{color:PAL.dim,fontSize:8,formatter:v=>v.toFixed(0)+'%'}}),
     series:[{type:'scatter',data:data,symbolSize:4,itemStyle:{color:p=>p.value[1]>=0?'rgba(52,211,153,.55)':'rgba(251,113,133,.55)'},emphasis:{itemStyle:{color:PAL.accent}}}]};
 }
@@ -445,58 +651,154 @@ function renderCharts(r){
   if(!r)return;
   const d=r.daily||[];
   const da=dailyAccount(r);
-  setChart('dailyFull',barPnlOption(da));
-  const d26=dailySlice(r,FROM26,TO26);
-  setChart('daily2526',barPnlOption(d26.map(x=>[x[0],x[1],x[2]/DATA.meta.alloc_n,x[3]/DATA.meta.alloc_n,x[4]/DATA.meta.alloc_n])));
-  setChart('countFull',countOption(d));
-  setChart('count2526',countOption(d26));
-  setChart('cashFull',cashOption(d));
-  setChart('cash2526',cashOption(d26));
+  const d26=dailySlice(r,FROM2026,TO2026);
+  const da26=d26.map(x=>[x[0],x[1],x[2]/DATA.meta.alloc_n,x[3]/DATA.meta.alloc_n,x[4]/DATA.meta.alloc_n]);
+  renderPeriodMetrics(r);
+
+  setChart('allDaily',barPnlOption(da));
+  setChart('allCount',countOption(d));
+  setChart('allWeekly',weeklyOption(da));
+  setChart('allMonthly',monthlyOption(da));
+  setChart('allSeason',seasonOption(da));
+  setChart('allCash',cashOption(d));
+  setChart('allCoins',coinOption(r));
+
+  setChart('y26Daily',barPnlOption(da26));
+  setChart('y26Count',countOption(d26));
+  setChart('y26Weekly',weeklyOption(da26));
+  setChart('y26Monthly',monthlyOption(da26));
+  setChart('y26Season',seasonOption(da26));
+  setChart('y26Cash',cashOption(d26));
+
   setChart('equity',equityOption(d));
+  setChart('drawdown',drawdownOption(d));
+  setChart('rolling',rollingOption(d));
   setChart('yearly',yearlyOption(da));
   setChart('seasonal',seasonOption(da));
   setChart('quarterly',quarterOption(da));
   setChart('monthHeat',monthHeatOption(da));
   setChart('weekday',weekdayOption(da));
   setChart('hold',holdOption(r));
+  setChart('holdPnl',holdPnlOption(r));
   setChart('longShort',longShortOption(r));
   setChart('scatter',scatterOption(r));
   setChart('filterAvg',filterImpactOption('avg_net'));
   setChart('filterMedian',filterImpactOption('median_symbol_net'));
+  setChart('filterHeatmap',filterHeatmapOption());
+  renderFilterStats();
 }
-function filteredRows(){
-  const q=document.getElementById('tableSearch').value.toLowerCase();
-  const pos=document.getElementById('tablePositive').checked;
-  const base=document.getElementById('tableBase').checked;
-  const minN=+document.getElementById('tableMinN').value||0;
-  return DATA.results.filter(r=>{
+const scanState={sort:'_score',dir:-1};
+function computeScores(){
+  if(DATA.meta._scored)return;
+  const rs=DATA.results;
+  const p2=rs.map(r=>r.n?r.total_net/r.n:null);
+  const p4=rs.map(r=>r.win_hold_h==null?null:r.win_hold_h);
+  const p5=rs.map(r=>r.losses_total?(r.wins_total||0)/r.losses_total:null);
+  const mm=(arr)=>{
+    const v=arr.filter(x=>x!=null&&isFinite(x));
+    return v.length?{min:Math.min(...v),max:Math.max(...v)}:{min:0,max:0};
+  };
+  const m2=mm(p2),m4=mm(p4),m5=mm(p5);
+  const sc=(x,m,inv)=>{
+    if(x==null||!isFinite(x))return 0;
+    if(m.max===m.min)return 16.65;
+    const t=(x-m.min)/(m.max-m.min);
+    return 33.3*(inv?1-t:t);
+  };
+  rs.forEach((r,i)=>{
+    r._p2=sc(p2[i],m2,false);
+    r._p4=sc(p4[i],m4,true);
+    r._p5=sc(p5[i],m5,false);
+    r._score=r._p2+r._p4+r._p5;
+    r._ratio=r.losses_total?(r.wins_total||0)/r.losses_total:null;
+    r._avg26=(r.y2026&&r.y2026.n)?r.y2026.net/r.y2026.n:null;
+  });
+  DATA.meta._scored=1;
+  DATA.meta._scoreRange={p2:m2,p4:m4,p5:m5};
+}
+function scanRows(){
+  const q=(document.getElementById('scanSearch').value||'').toLowerCase();
+  const minN=+document.getElementById('scanMinN').value||0;
+  const pos=document.getElementById('scanPositive').checked;
+  const base=document.getElementById('scanBase').checked;
+  const rows=DATA.results.filter(r=>{
     if(!base&&r.filter_key==='baseline')return false;
     if(pos&&!r.kept)return false;
     if(r.n<minN)return false;
     if(q&&!(`${r.sid} ${r.title} ${r.tf} ${r.family} ${r.filter_key} ${r.filter_label_tr}`.toLowerCase().includes(q)))return false;
     return true;
-  }).sort((a,b)=>{let av=a[state.tableSort],bv=b[state.tableSort];if(typeof av==='string'){av=av.toLowerCase();bv=(bv||'').toLowerCase();}return (av>bv?1:av<bv?-1:0)*state.tableDir;});
+  });
+  const k=scanState.sort,dir=scanState.dir;
+  rows.sort((a,b)=>{
+    let av=a[k],bv=b[k];
+    if(typeof av==='string'||typeof bv==='string'){
+      av=(av==null?'':String(av)).toLowerCase();bv=(bv==null?'':String(bv)).toLowerCase();
+      if(av===bv)return b.n-a.n;
+      return (av>bv?1:-1)*dir;
+    }
+    if(av==null&&bv==null)return b.n-a.n;
+    if(av==null)return 1;
+    if(bv==null)return -1;
+    if(av===bv)return b.n-a.n;
+    return (av>bv?1:-1)*dir;
+  });
+  return rows;
 }
-function renderTable(){
-  const rows=filteredRows();
-  document.getElementById('tableHint').textContent=`${rows.length} kombinasyon`;
-  const cols=[['sid','SID'],['tf','TF'],['filter_label_tr','Filtre'],['n','İşlem'],['avg_net','Ort.'],['ret_2026','2026'],['median_symbol_net','Med. sembol'],['total_net','Toplam'],['profit_factor','PF'],['symbols','Sembol'],['portfolio_net','Portföy']];
-  document.querySelector('#resultTable thead').innerHTML='<tr>'+cols.map(([k,l])=>`<th data-k="${k}" class="${['sid','tf','filter_label_tr'].includes(k)?'':'num'}">${l}</th>`).join('')+'</tr>';
-  document.querySelector('#resultTable tbody').innerHTML=rows.map(r=>`<tr class="rowline ${r.idx===state.idx&&r.filter_key===state.filter?'sel':''}" data-idx="${r.idx}" data-f="${esc(r.filter_key)}">
-    <td><b>${esc(r.sid)}</b></td><td><span class="badge">${esc(r.tf)}</span></td><td>${esc(r.filter_label_tr)}</td>
-    <td class="num">${fmtNum(r.n)}</td><td class="num ${r.avg_net>=0?'pos':'neg'}">${fmtPct(r.avg_net,3)}</td>
-    <td class="num ${r.ret_2026>=0?'pos':'neg'}">${fmtPct(r.ret_2026,2)}</td>
-    <td class="num ${r.median_symbol_net>=0?'pos':'neg'}">${fmtPct(r.median_symbol_net,2)}</td>
-    <td class="num ${r.total_net>=0?'pos':'neg'}">${fmtPct(r.total_net,1)}</td>
-    <td class="num">${r.profit_factor>=999?'∞':(r.profit_factor!=null?r.profit_factor.toFixed(2):'—')}</td>
-    <td class="num">${r.symbols}</td><td class="num ${r.portfolio_net>=0?'pos':'neg'}">${fmtPct(r.portfolio_net,1)}</td></tr>`).join('');
-  document.querySelectorAll('#resultTable tbody tr').forEach(tr=>tr.addEventListener('click',()=>{state.idx=+tr.dataset.idx;state.filter=tr.dataset.f;renderAll();}));
-  document.querySelectorAll('#resultTable th').forEach(th=>th.addEventListener('click',()=>{const k=th.dataset.k;if(!k)return;state.tableDir=state.tableSort===k?-state.tableDir:-1;state.tableSort=k;renderTable();}));
+const scanCols=[['sid','Strateji'],['tf','TF'],['filter_label_tr','Filtre'],['n','İşlem'],
+  ['avg_net','Net/işlem (tüm)'],['_avg26','Net/işlem 2026'],['win_hold_h','Kârlı ort. süre (sa)'],
+  ['_ratio','Kârlı / zararlı'],['_score','Puan'],['total_net','Toplam net']];
+function renderScan(){
+  if(!DATA)return;
+  computeScores();
+  const rows=scanRows();
+  document.getElementById('scanHint').textContent=`${fmtNum(rows.length)} / ${fmtNum(DATA.results.length)} kombinasyon`;
+  document.querySelector('#scanTable thead').innerHTML='<tr>'+scanCols.map(([k,l])=>{
+    const cls=scanState.sort===k?(scanState.dir>0?'sortasc':'sortdesc'):'';
+    const num=['sid','tf','filter_label_tr'].includes(k)?'':'num';
+    return `<th data-k="${k}" class="${num} ${cls}">${l}</th>`;
+  }).join('')+'</tr>';
+  document.querySelector('#scanTable tbody').innerHTML=rows.map(r=>{
+    const sc=r._score||0;
+    const scc=sc>=66?'var(--green)':sc>=40?'var(--amber)':'var(--red)';
+    const ratio=r._ratio==null?'—':`${r.wins_total} / ${r.losses_total} - ${r._ratio.toFixed(2)}`;
+    return `<tr class="rowline" data-idx="${r.idx}" data-f="${esc(r.filter_key)}" title="${esc(r.sid+' · '+r.title)}">
+      <td><b>${esc(r.sid)}</b><div class="mini">${esc(r.family||'')}</div></td>
+      <td><span class="badge">${esc(r.tf)}</span></td>
+      <td>${esc(r.filter_label_tr)}</td>
+      <td class="num">${fmtNum(r.n)}</td>
+      <td class="num ${r.avg_net>=0?'pos':'neg'}">${fmtPct(r.avg_net,3)}</td>
+      <td class="num ${r._avg26==null?'':(r._avg26>=0?'pos':'neg')}">${r._avg26==null?'—':fmtPct(r._avg26,3)}</td>
+      <td class="num">${r.win_hold_h==null?'—':r.win_hold_h.toFixed(1)+' sa'}</td>
+      <td class="num">${ratio}</td>
+      <td class="num" title="P2 ${r._p2.toFixed(1)} · P4 ${r._p4.toFixed(1)} · P5 ${r._p5.toFixed(1)}"><b>${sc.toFixed(1)}</b><div class="scorebar"><i style="width:${Math.max(0,Math.min(100,sc))}%;background:${scc}"></i></div></td>
+      <td class="num ${r.total_net>=0?'pos':'neg'}">${fmtPct(r.total_net,1)}</td></tr>`;
+  }).join('');
+  document.querySelectorAll('#scanTable tbody tr').forEach(tr=>tr.addEventListener('click',()=>{
+    state.idx=+tr.dataset.idx;state.filter=tr.dataset.f;
+    const sp=specByIdx(state.idx);if(sp){state.tf=sp.tf;document.getElementById('tfFilter').value=sp.tf;}
+    buildStrategyOptions();
+    activateTab('overview');
+  }));
+  document.querySelectorAll('#scanTable th').forEach(th=>th.addEventListener('click',()=>{
+    const k=th.dataset.k;if(!k)return;
+    scanState.dir=scanState.sort===k?-scanState.dir:-1;
+    scanState.sort=k;renderScan();
+  }));
+}
+function activateTab(name){
+  document.querySelectorAll('.tabbtn').forEach(b=>b.classList.toggle('active',b.dataset.tab===name));
+  document.getElementById('tab-overview').hidden=name!=='overview';
+  document.getElementById('tab-scan').hidden=name!=='scan';
+  if(name==='overview'){
+    requestAnimationFrame(()=>Object.values(charts).forEach(c=>{try{c.resize();}catch(e){}}));
+  }else{
+    renderScan();
+  }
 }
 function renderAll(){
   if(!DATA)return;
   const r=selectedResult();
-  syncSwitch();renderFilterList();renderHeader(r);renderKpis(r);renderDayKpis(r);renderCharts(r);renderRule(r);renderTable();
+  syncSwitch();renderFilterList();renderHeader(r);renderKpis(r);renderDayKpis(r);renderCharts(r);renderRule(r);
 }
 function init(){
   document.getElementById('loading').style.display='none';
@@ -509,7 +811,15 @@ function init(){
   buildStrategyOptions();
   document.getElementById('strategySel').value=String(state.idx);
   renderAll();
+  computeScores();
+  document.getElementById('scanTabCount').textContent=fmtNum(DATA.results.length);
 }
+document.querySelectorAll('.tabbtn').forEach(b=>b.addEventListener('click',()=>activateTab(b.dataset.tab)));
+['scanSearch','scanMinN','scanPositive','scanBase'].forEach(id=>{
+  const el=document.getElementById(id);
+  const go=()=>{if(!document.getElementById('tab-scan').hidden)renderScan();};
+  el.addEventListener('input',go);el.addEventListener('change',go);
+});
 fetch('dashboard_data.json').then(r=>r.json()).then(d=>{DATA=d;init();}).catch(e=>{
   document.getElementById('loading').textContent='dashboard_data.json yüklenemedi. Yerel sunucudan aç: http://127.0.0.1:8000/ · '+e;
 });

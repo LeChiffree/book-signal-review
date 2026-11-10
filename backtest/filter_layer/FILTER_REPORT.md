@@ -64,6 +64,31 @@
 - Eleme kuralı: toplam işlem başı net **ve** 2026 takvimi işlem başı net aynı anda negatifse sonuç dışarıda bırakılır.
 - 5m/15m baz sonuçları ana raporda ayrıca durur; bu filtre laboratuvarı 1d/4h/1h/1w kuralarına odaklanır.
 
+## Dashboard — Strateji taraması sekmesi
+
+`filter_dashboard.html` iki sekmelidir: **Genel bakış** ve **Strateji taraması**.
+
+Tarama sekmesi 1.738 satırın tamamını (her strateji × filtre × timeframe) tek tabloda listeler. Sütun başlığına tıklayınca artan/azalan sıralar; satıra tıklayınca ilgili kombinasyon genel bakışta açılır.
+
+Sütunlar:
+
+1. Toplam işlem sayısı
+2. Net kâr / toplam işlem (tüm yıllar)
+3. Net kâr / toplam işlem (2026)
+4. Kârlı işlemlerin ortalama kalış süresi (saat)
+5. Kârlı / zararlı işlem (`150 / 98 - 1.53`)
+6. Puan (0–100)
+
+Puan = P2 + P4 + P5; her bileşen 0–33.3:
+
+- **P2** net/işlem (tüm yıllar): min → 0, max → 33.3
+- **P4** kârlı işlem ortalama süresi (saat): ters ölçek, min → 33.3, max → 0
+- **P5** kârlı / zararlı oranı: min → 0, max → 33.3
+
+Min–max aralığı 1.738 satırın tamamından hesaplanır. Kârlı işlemi olmayan 35 satırda P4 = 0.
+
+Ortalama kalış süresi `results/trades/*.parquet` içindeki `entry_time`/`exit_time` farkından, yalnızca net > 0 işlemler üzerinden hesaplanır (`augment_winhold.py`).
+
 ## Dosyalar
 
 - `filter_dashboard.html` — interaktif dashboard
