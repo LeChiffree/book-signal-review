@@ -91,6 +91,10 @@ Ortalama kalış süresi `results/trades/*.parquet` içindeki `entry_time`/`exit
 
 Her sütun başlığındaki **▾** Excel benzeri filtre menüsünü açar: artan/azalan sıralama; metin sütunlarında değer listesi (arama + sayaç) ve sayısal sütunlarda **En az / En çok** aralığı. Uygulanan sütunlar başlıkta vurgulanır, üstteki **Sütun filtrelerini temizle** düğmesi hepsini sıfırlar. Puan min–max ölçeği her zaman 1.738 satırın tamamından hesaplanır; filtreler yalnızca görünen satırları değiştirir.
 
+### Chosen ones sekmesi
+
+Tarama tablosunun solundaki **Seç** kutuları işaretlenen satırları üçüncü sekmeye (**Chosen ones**) taşır. Başlıktaki kutu, o an görünen (filtrelenmiş) satırların tamamını seçer/kaldırır. Seçimler `localStorage` ile tarayıcıda saklanır; sayfa yenilenince korunur. Chosen ones tablosu aynı metrikleri gösterir, sütunlara göre sıralanabilir, satır başındaki **Kaldır** veya üstteki **Tümünü temizle** ile seçim çıkarılır; satıra tıklamak kombinasyonu genel bakışta açar.
+
 ## Dosyalar
 
 - `filter_dashboard.html` — interaktif dashboard

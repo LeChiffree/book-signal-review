@@ -115,6 +115,10 @@ td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
 .scorekey b{color:var(--text);font-weight:650}
 th.sortasc::after{content:' ▲';color:var(--accent)}
 th.sortdesc::after{content:' ▼';color:var(--accent)}
+.chkcell{width:46px;text-align:center!important;padding-left:6px!important;padding-right:6px!important}
+.chkbox{width:16px;height:16px;accent-color:var(--accent);cursor:pointer;margin:0;vertical-align:middle}
+.rmbtn{background:#2a1a20;border:1px solid #5c2f3a;color:#ffb3bd;border-radius:6px;padding:4px 8px;font-size:11px;cursor:pointer}
+.rmbtn:hover{background:#3a2028;color:#fff}
 .thwrap{display:flex;align-items:center;justify-content:space-between;gap:6px;width:100%}
 th:first-child .thwrap{justify-content:flex-start}
 .fcaret{border:1px solid transparent;background:transparent;color:var(--muted);cursor:pointer;padding:2px 5px;border-radius:5px;font-size:10px;line-height:1;opacity:.5;margin-left:auto}
@@ -203,6 +207,7 @@ button:hover{background:#245071}
   <nav class="tabs">
     <button class="tabbtn active" data-tab="overview">Genel bakış</button>
     <button class="tabbtn" data-tab="scan">Strateji taraması<span class="tabcount" id="scanTabCount"></span></button>
+    <button class="tabbtn" data-tab="chosen">Chosen ones<span class="tabcount" id="chosenTabCount">0</span></button>
   </nav>
 
   <div id="tab-overview" class="tabpane">
@@ -327,6 +332,25 @@ button:hover{background:#245071}
       <button id="scanClearCols" style="display:none">Sütun filtrelerini temizle (<span id="scanColCount">0</span>)</button>
     </div>
     <div class="tablewrap scanwrap"><table id="scanTable"><thead></thead><tbody></tbody></table></div>
+  </div>
+
+  <div id="tab-chosen" class="tabpane" hidden>
+    <div class="top">
+      <div>
+        <div class="crumb">Seçilen metodlar</div>
+        <h2>Chosen ones</h2>
+        <p>Strateji taramasında işaretlediğin strateji × filtre × timeframe kombinasyonları. Seçimler tarayıcıda saklanır.</p>
+      </div>
+      <div class="switchbox">
+        <label>Seçim durumu</label>
+        <div class="scorekey"><b id="chosenCount">0</b> kombinasyon · <span id="chosenSub">tarayıcıda saklanır</span></div>
+      </div>
+    </div>
+    <div class="toolbar">
+      <span id="chosenHint"></span>
+      <button id="chosenClear">Tümünü temizle</button>
+    </div>
+    <div class="tablewrap scanwrap"><table id="chosenTable"><thead></thead><tbody></tbody></table></div>
   </div>
   <div id="colMenu"></div>
 
@@ -712,6 +736,8 @@ function renderCharts(r){
   renderFilterStats();
 }
 const scanState={sort:'_score',dir:-1};
+const chosen=(()=>{try{return new Set(JSON.parse(localStorage.getItem('scan_chosen')||'[]'));}catch(e){return new Set();}})();
+function saveChosen(){try{localStorage.setItem('scan_chosen',JSON.stringify(Array.from(chosen)));}catch(e){}}
 function computeScores(){
   if(DATA.meta._scored)return;
   const rs=DATA.results;
@@ -774,21 +800,7 @@ function scanRows(){
     if(q&&!(`${r.sid} ${r.title} ${r.tf} ${r.family} ${r.filter_key} ${r.filter_label_tr}`.toLowerCase().includes(q)))return false;
     return passesScanFilters(r);
   });
-  const k=scanState.sort,dir=scanState.dir;
-  rows.sort((a,b)=>{
-    let av=a[k],bv=b[k];
-    if(typeof av==='string'||typeof bv==='string'){
-      av=(av==null?'':String(av)).toLowerCase();bv=(bv==null?'':String(bv)).toLowerCase();
-      if(av===bv)return b.n-a.n;
-      return (av>bv?1:-1)*dir;
-    }
-    if(av==null&&bv==null)return b.n-a.n;
-    if(av==null)return 1;
-    if(bv==null)return -1;
-    if(av===bv)return b.n-a.n;
-    return (av>bv?1:-1)*dir;
-  });
-  return rows;
+  return sortRows(rows,scanState.sort,scanState.dir);
 }
 const scanCols=[
   {k:'sid',label:'Strateji',kind:'text'},
@@ -882,6 +894,44 @@ function openColMenu(k,anchor){
     closeColMenu();renderScan();
   }));
 }
+function comboKey(r){return `${r.idx}|${r.filter_key}`;}
+function sortRows(rows,key,dir){
+  rows.sort((a,b)=>{
+    let av=a[key],bv=b[key];
+    if(typeof av==='string'||typeof bv==='string'){
+      av=(av==null?'':String(av)).toLowerCase();bv=(bv==null?'':String(bv)).toLowerCase();
+      if(av===bv)return b.n-a.n;
+      return (av>bv?1:-1)*dir;
+    }
+    if(av==null&&bv==null)return b.n-a.n;
+    if(av==null)return 1;
+    if(bv==null)return -1;
+    if(av===bv)return b.n-a.n;
+    return (av>bv?1:-1)*dir;
+  });
+  return rows;
+}
+function goToCombo(tr){
+  state.idx=+tr.dataset.idx;state.filter=tr.dataset.f;
+  const sp=specByIdx(state.idx);if(sp){state.tf=sp.tf;document.getElementById('tfFilter').value=sp.tf;}
+  buildStrategyOptions();
+  activateTab('overview');
+}
+function comboMetricCells(r){
+  const sc=r._score||0;
+  const scc=sc>=66?'var(--green)':sc>=40?'var(--amber)':'var(--red)';
+  const ratio=r._ratio==null?'—':`${r.wins_total} / ${r.losses_total} - ${r._ratio.toFixed(2)}`;
+  return `<td><b>${esc(r.sid)}</b><div class="mini">${esc(r.family||'')}</div></td>
+    <td><span class="badge">${esc(r.tf)}</span></td>
+    <td>${esc(r.filter_label_tr)}</td>
+    <td class="num">${fmtNum(r.n)}</td>
+    <td class="num ${r.avg_net>=0?'pos':'neg'}">${fmtPct(r.avg_net,3)}</td>
+    <td class="num ${r._avg26==null?'':(r._avg26>=0?'pos':'neg')}">${r._avg26==null?'—':fmtPct(r._avg26,3)}</td>
+    <td class="num">${r.win_hold_h==null?'—':r.win_hold_h.toFixed(1)+' sa'}</td>
+    <td class="num">${ratio}</td>
+    <td class="num" title="P2 ${r._p2.toFixed(1)} · P4 ${r._p4.toFixed(1)} · P5 ${r._p5.toFixed(1)}"><b>${sc.toFixed(1)}</b><div class="scorebar"><i style="width:${Math.max(0,Math.min(100,sc))}%;background:${scc}"></i></div></td>
+    <td class="num ${r.total_net>=0?'pos':'neg'}">${fmtPct(r.total_net,1)}</td>`;
+}
 function renderScan(){
   if(!DATA)return;
   computeScores();
@@ -891,41 +941,82 @@ function renderScan(){
   const clearBtn=document.getElementById('scanClearCols');
   clearBtn.style.display=nf?'inline-block':'none';
   document.getElementById('scanColCount').textContent=nf;
-  document.querySelector('#scanTable thead').innerHTML='<tr>'+scanCols.map(c=>{
+  document.querySelector('#scanTable thead').innerHTML='<tr><th class="chkcell" title="Görünen tümünü seç"><input type="checkbox" id="chkAll" class="chkbox"></th>'+scanCols.map(c=>{
     const cls=scanState.sort===c.k?(scanState.dir>0?'sortasc':'sortdesc'):'';
     const num=c.kind==='text'?'':'num';
     const act=scanFilterActive(c)?'filtered':'';
     return `<th data-k="${c.k}" class="${num} ${cls} ${act}"><span class="thwrap"><span>${c.label}</span><button class="fcaret" data-k="${c.k}" title="Filtrele">▾</button></span></th>`;
   }).join('')+'</tr>';
-  document.querySelector('#scanTable tbody').innerHTML=rows.map(r=>{
-    const sc=r._score||0;
-    const scc=sc>=66?'var(--green)':sc>=40?'var(--amber)':'var(--red)';
-    const ratio=r._ratio==null?'—':`${r.wins_total} / ${r.losses_total} - ${r._ratio.toFixed(2)}`;
-    return `<tr class="rowline" data-idx="${r.idx}" data-f="${esc(r.filter_key)}" title="${esc(r.sid+' · '+r.title)}">
-      <td><b>${esc(r.sid)}</b><div class="mini">${esc(r.family||'')}</div></td>
-      <td><span class="badge">${esc(r.tf)}</span></td>
-      <td>${esc(r.filter_label_tr)}</td>
-      <td class="num">${fmtNum(r.n)}</td>
-      <td class="num ${r.avg_net>=0?'pos':'neg'}">${fmtPct(r.avg_net,3)}</td>
-      <td class="num ${r._avg26==null?'':(r._avg26>=0?'pos':'neg')}">${r._avg26==null?'—':fmtPct(r._avg26,3)}</td>
-      <td class="num">${r.win_hold_h==null?'—':r.win_hold_h.toFixed(1)+' sa'}</td>
-      <td class="num">${ratio}</td>
-      <td class="num" title="P2 ${r._p2.toFixed(1)} · P4 ${r._p4.toFixed(1)} · P5 ${r._p5.toFixed(1)}"><b>${sc.toFixed(1)}</b><div class="scorebar"><i style="width:${Math.max(0,Math.min(100,sc))}%;background:${scc}"></i></div></td>
-      <td class="num ${r.total_net>=0?'pos':'neg'}">${fmtPct(r.total_net,1)}</td></tr>`;
-  }).join('');
-  document.querySelectorAll('#scanTable tbody tr').forEach(tr=>tr.addEventListener('click',()=>{
-    state.idx=+tr.dataset.idx;state.filter=tr.dataset.f;
-    const sp=specByIdx(state.idx);if(sp){state.tf=sp.tf;document.getElementById('tfFilter').value=sp.tf;}
-    buildStrategyOptions();
-    activateTab('overview');
-  }));
+  document.querySelector('#scanTable tbody').innerHTML=rows.map(r=>`<tr class="rowline" data-key="${esc(comboKey(r))}" data-idx="${r.idx}" data-f="${esc(r.filter_key)}" title="${esc(r.sid+' · '+r.title)}">
+      <td class="chkcell"><input type="checkbox" class="chkbox" ${chosen.has(comboKey(r))?'checked':''} aria-label="Seç"></td>${comboMetricCells(r)}</tr>`).join('');
+  document.querySelectorAll('#scanTable tbody tr').forEach(tr=>tr.addEventListener('click',()=>goToCombo(tr)));
+  document.querySelectorAll('#scanTable tbody .chkbox').forEach(cb=>{
+    cb.addEventListener('click',e=>e.stopPropagation());
+    cb.addEventListener('change',()=>{
+      const tr=cb.closest('tr');
+      const key=tr&&tr.dataset?tr.dataset.key:null;
+      if(!key)return;
+      if(cb.checked)chosen.add(key);else chosen.delete(key);
+      saveChosen();updateChosenBadges();
+      if(!document.getElementById('tab-chosen').hidden)renderChosen();
+    });
+  });
   document.querySelectorAll('#scanTable th').forEach(th=>th.addEventListener('click',()=>{
     const k=th.dataset.k;if(!k)return;
     scanState.dir=scanState.sort===k?-scanState.dir:-1;
     scanState.sort=k;renderScan();
   }));
+  const all=document.getElementById('chkAll');
+  if(all){
+    const keys=rows.map(comboKey);
+    const sel=keys.filter(k=>chosen.has(k)).length;
+    all.checked=keys.length>0&&sel===keys.length;
+    all.indeterminate=sel>0&&sel<keys.length;
+    all.addEventListener('click',e=>e.stopPropagation());
+    all.addEventListener('change',()=>{
+      keys.forEach(k=>all.checked?chosen.add(k):chosen.delete(k));
+      saveChosen();updateChosenBadges();
+      if(!document.getElementById('tab-chosen').hidden)renderChosen();
+      renderScan();
+    });
+  }
   document.querySelectorAll('#scanTable .fcaret').forEach(btn=>btn.addEventListener('click',e=>{
     e.stopPropagation();openColMenu(btn.dataset.k,btn);
+  }));
+}
+const chosenState={sort:'_score',dir:-1};
+function chosenRows(){return DATA.results.filter(r=>chosen.has(comboKey(r)));}
+function updateChosenBadges(){
+  const n=chosen.size;
+  const a=document.getElementById('chosenTabCount');if(a)a.textContent=n;
+  const b=document.getElementById('chosenCount');if(b)b.textContent=n;
+  const c=document.getElementById('chosenSub');
+  if(c)c.textContent=n?'seçili · tarayıcıda saklanır':'tarayıcıda saklanır';
+}
+function renderChosen(){
+  if(!DATA)return;
+  computeScores();updateChosenBadges();
+  const rows=sortRows(chosenRows(),chosenState.sort,chosenState.dir);
+  const hint=document.getElementById('chosenHint');
+  if(hint)hint.textContent=`${fmtNum(rows.length)} kombinasyon`;
+  const t=document.getElementById('chosenTable');if(!t)return;
+  t.querySelector('thead').innerHTML='<tr><th class="chkcell">Kaldır</th>'+scanCols.map(c=>{
+    const cls=chosenState.sort===c.k?(chosenState.dir>0?'sortasc':'sortdesc'):'';
+    const num=c.kind==='text'?'':'num';
+    return `<th data-k="${c.k}" class="${num} ${cls}"><span class="thwrap"><span>${c.label}</span></span></th>`;
+  }).join('')+'</tr>';
+  t.querySelector('tbody').innerHTML=rows.length?rows.map(r=>`<tr class="rowline" data-key="${esc(comboKey(r))}" data-idx="${r.idx}" data-f="${esc(r.filter_key)}" title="${esc(r.sid+' · '+r.title)}">
+      <td class="chkcell"><button class="rmbtn" data-key="${esc(comboKey(r))}" title="Seçimden çıkar">Kaldır</button></td>${comboMetricCells(r)}</tr>`).join('')
+    :`<tr><td colspan="11"><div class="empty" style="min-height:150px">Henüz seçim yok. “Strateji taraması” sekmesinde Seç sütunundaki kutuları işaretle.</div></td></tr>`;
+  t.querySelectorAll('tbody tr[data-idx]').forEach(tr=>tr.addEventListener('click',()=>goToCombo(tr)));
+  t.querySelectorAll('.rmbtn').forEach(btn=>btn.addEventListener('click',e=>{
+    e.stopPropagation();chosen.delete(btn.dataset.key);saveChosen();
+    renderChosen();renderScan();
+  }));
+  t.querySelectorAll('th[data-k]').forEach(th=>th.addEventListener('click',()=>{
+    const k=th.dataset.k;
+    chosenState.dir=chosenState.sort===k?-chosenState.dir:-1;
+    chosenState.sort=k;renderChosen();
   }));
 }
 function activateTab(name){
@@ -933,10 +1024,13 @@ function activateTab(name){
   document.querySelectorAll('.tabbtn').forEach(b=>b.classList.toggle('active',b.dataset.tab===name));
   document.getElementById('tab-overview').hidden=name!=='overview';
   document.getElementById('tab-scan').hidden=name!=='scan';
+  document.getElementById('tab-chosen').hidden=name!=='chosen';
   if(name==='overview'){
     requestAnimationFrame(()=>Object.values(charts).forEach(c=>{try{c.resize();}catch(e){}}));
-  }else{
+  }else if(name==='scan'){
     renderScan();
+  }else{
+    renderChosen();
   }
 }
 function renderAll(){
@@ -956,12 +1050,21 @@ function init(){
   document.getElementById('strategySel').value=String(state.idx);
   renderAll();
   computeScores();
+  const valid=new Set(DATA.results.map(comboKey));
+  let pruned=false;
+  Array.from(chosen).forEach(k=>{if(!valid.has(k)){chosen.delete(k);pruned=true;}});
+  if(pruned)saveChosen();
+  updateChosenBadges();
   document.getElementById('scanTabCount').textContent=fmtNum(DATA.results.length);
 }
 document.querySelectorAll('.tabbtn').forEach(b=>b.addEventListener('click',()=>activateTab(b.dataset.tab)));
 document.getElementById('scanClearCols').addEventListener('click',()=>{
   Object.keys(scanFilters).forEach(k=>delete scanFilters[k]);
   closeColMenu();renderScan();
+});
+document.getElementById('chosenClear').addEventListener('click',()=>{
+  if(!chosen.size)return;
+  chosen.clear();saveChosen();updateChosenBadges();renderChosen();renderScan();
 });
 document.addEventListener('click',e=>{
   if(e.target.closest('#colMenu')||e.target.closest('.fcaret'))return;
