@@ -91,3 +91,18 @@ Then open `http://127.0.0.1:8000/filter_dashboard.html` (or the machine's LAN IP
 - 5m/15m rules are included in the baseline report but not in the filter matrix:
   their gross edge is already negative and the trade count is enormous.
 - Past performance is not a guarantee of future returns.
+
+## Singular-Backtest
+
+[`Singular-Backtest/`](./Singular-Backtest/README.md) applies a one-open-trade
+rule to the filter laboratory: within the selected scope (default **rule
+family**, across specs and timeframes) a coin can carry at most one open trade;
+new signals are blocked while a trade is open. The per-spec filter streams are
+already non-overlapping, so `family` is the meaningful scope (`portfolio` and
+`spec` are available). The variant reuses the trade-level parquet records and
+copies normal metrics from `dashboard_data.json`.
+
+```bash
+python Singular-Backtest/run_singular.py
+python Singular-Backtest/verify_singular.py
+```
