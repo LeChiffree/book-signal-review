@@ -1,6 +1,6 @@
 {
   "repo": "book-signal-review",
-  "generated_at": "2026-11-17T20:42:11Z",
+  "generated_at": "2026-11-18T18:45:10Z",
   "scope": "family",
   "scope_label": "Kural ailesi (family), tum spec ve TF'ler birlikte",
   "symbols": 525,
@@ -10,5 +10,5 @@
   "singular_trades": 6296608,
   "blocked": 6093780,
   "blocked_pct": 49.1815,
-  "elapsed_sec": 601.0
+  "elapsed_sec": 1569.9
 }

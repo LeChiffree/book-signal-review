@@ -30,7 +30,7 @@ import os
 import sys
 import time
 from collections import defaultdict
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 import numpy as np
 import pandas as pd
@@ -69,6 +69,36 @@ def fnum(v, default=0.0):
         return default
 
 
+def period_counts(days):
+    """Epoch gunu -> net sozlugunden gun/hafta/ay kâr ve zarar sayilari.
+
+    Hafta Pazartesi 00:00 UTC baslangicli, ay takvim ayidir. Net sifir olan
+    donemler sayilmaz.
+    """
+    daily = defaultdict(float)
+    weekly = defaultdict(float)
+    monthly = defaultdict(float)
+    for day, net in days.items():
+        day = int(day)
+        daily[day] += net
+        dt = datetime.fromtimestamp(day * 86400, tz=timezone.utc)
+        week = (dt - timedelta(days=dt.weekday())).date()
+        weekly[week] += net
+        monthly[(dt.year, dt.month)] += net
+
+    def counts(values):
+        return (sum(1 for v in values if v > 0), sum(1 for v in values if v < 0))
+
+    pd_, ld_ = counts(daily.values())
+    pw, lw = counts(weekly.values())
+    pm, lm = counts(monthly.values())
+    return {
+        "profitDays": pd_, "lossDays": ld_,
+        "profitWeeks": pw, "lossWeeks": lw,
+        "profitMonths": pm, "lossMonths": lm,
+    }
+
+
 def metric_from_result(r):
     """dashboard_data results satirindan normal metrikler."""
     n = int(r["n"])
@@ -77,20 +107,20 @@ def metric_from_result(r):
     total_net = fnum(r.get("total_net"))
     win_hold_h = fnum(r.get("win_hold_h"))
     daily = r.get("daily") or []
-    pd_, ld_ = 0, 0
+    days = defaultdict(float)
     cum, peak, dd = 0.0, 0.0, 0.0
     for row in daily:
-        net = fnum(row[4]) * STAKE
-        if net > 0:
-            pd_ += 1
-        elif net < 0:
-            ld_ += 1
-        cum += net
+        day = int(row[0])
+        net = fnum(row[4])
+        days[day] += net
+        cash = net * STAKE
+        cum += cash
         if cum > peak:
             peak = cum
         d = cum - peak
         if d < dd:
             dd = d
+    pc = period_counts(days)
     return {
         "trades": n,
         "wins": wins,
@@ -101,8 +131,12 @@ def metric_from_result(r):
         "winRatio": wins / losses if losses else wins,
         "winHoldH": win_hold_h,
         "holdH": fnum(r.get("avg_hold_days")) * 24.0,
-        "profitDays": pd_,
-        "lossDays": ld_,
+        "profitDays": pc["profitDays"],
+        "lossDays": pc["lossDays"],
+        "profitWeeks": pc["profitWeeks"],
+        "lossWeeks": pc["lossWeeks"],
+        "profitMonths": pc["profitMonths"],
+        "lossMonths": pc["lossMonths"],
         "maxDD": dd,
         "kasaAll": total_net * STAKE,
         "sumR": total_net,
@@ -138,16 +172,12 @@ def acc_metrics(a):
     n = a["n"]
     wins = a["wins"]
     losses = n - wins
-    pd_, ld_ = 0, 0
+    pc = period_counts(a["days"])
     cum, peak, dd = 0.0, 0.0, 0.0
     for day in sorted(a["days"]):
         net = a["days"][day] * STAKE
-        if net > 0:
-            pd_ += 1
-        elif net < 0:
-            ld_ += 1
         cum += net
-        if cum > peak:
+        if peak < cum:
             peak = cum
         d = cum - peak
         if d < dd:
@@ -162,8 +192,12 @@ def acc_metrics(a):
         "winRatio": (wins / losses) if losses else wins,
         "winHoldH": (a["durWin"] / wins / 3600000.0) if wins else 0.0,
         "holdH": (a["durSum"] / n / 3600000.0) if n else 0.0,
-        "profitDays": pd_,
-        "lossDays": ld_,
+        "profitDays": pc["profitDays"],
+        "lossDays": pc["lossDays"],
+        "profitWeeks": pc["profitWeeks"],
+        "lossWeeks": pc["lossWeeks"],
+        "profitMonths": pc["profitMonths"],
+        "lossMonths": pc["lossMonths"],
         "maxDD": dd,
         "kasaAll": a["sum"] * STAKE,
         "sumR": a["sum"],
@@ -196,14 +230,10 @@ def merge_results_normal(rows):
             durSum += fnum(r.get("avg_hold_days")) * 24.0 * 3600000.0 * m["trades"]
         for row in (r.get("daily") or []):
             days[int(row[0])] += fnum(row[4])
-    pd_, ld_ = 0, 0
+    pc = period_counts(days)
     cum, peak, dd = 0.0, 0.0, 0.0
     for day in sorted(days):
         net = days[day] * STAKE
-        if net > 0:
-            pd_ += 1
-        elif net < 0:
-            ld_ += 1
         cum += net
         if cum > peak:
             peak = cum
@@ -220,8 +250,12 @@ def merge_results_normal(rows):
         "winRatio": (wins / losses) if losses else wins,
         "winHoldH": (durWin / wins / 3600000.0) if wins else 0.0,
         "holdH": (durSum / n / 3600000.0) if n else 0.0,
-        "profitDays": pd_,
-        "lossDays": ld_,
+        "profitDays": pc["profitDays"],
+        "lossDays": pc["lossDays"],
+        "profitWeeks": pc["profitWeeks"],
+        "lossWeeks": pc["lossWeeks"],
+        "profitMonths": pc["profitMonths"],
+        "lossMonths": pc["lossMonths"],
         "maxDD": dd,
         "kasaAll": total * STAKE,
         "sumR": total,
@@ -286,6 +320,7 @@ def main():
     overlap_violations = 0
     parquet_counts = defaultdict(int)
     parquet_base_counts = defaultdict(int)
+    normal_days = defaultdict(lambda: defaultdict(float))
     coin_norm = defaultdict(lambda: [0, 0.0, 0])  # (sid, sym) -> [n, sumR, wins]
     files = sorted(glob.glob(os.path.join(TRADES, "*.parquet")))
     if args.symbols:
@@ -312,6 +347,11 @@ def main():
                 parquet_counts[(sid, fid)] += int(c)
                 if fid == "baseline":
                     parquet_base_counts[(sid, sym)] += int(c)
+
+            # normal gunluk netler (hafta/ay sayilari icin), sembol bazinda
+            gd = g.assign(_day=(g["exit_time"].to_numpy(np.int64) // 86400000))
+            for (sid, day), net in gd.groupby(["sid", "_day"], sort=False)["net"].sum().items():
+                normal_days[(sid, fid)][int(day)] += float(net)
 
             # kapsam bazinda (aile / portfoy / spec) tekillik
             for skey, h in g.groupby("fam"):
@@ -367,6 +407,11 @@ def main():
             row["n_" + k] = v
         for k, v in sm.items():
             row["s_" + k] = v
+        npc = period_counts(normal_days.get((sid, fid), {}))
+        row["n_profitWeeks"] = npc["profitWeeks"]
+        row["n_lossWeeks"] = npc["lossWeeks"]
+        row["n_profitMonths"] = npc["profitMonths"]
+        row["n_lossMonths"] = npc["lossMonths"]
         row["delta_retAll"] = row["s_retAll"] - row["n_retAll"]
         row["delta_kasa"] = row["s_kasaAll"] - row["n_kasaAll"]
         rows.append(row)
@@ -525,6 +570,8 @@ def main():
                 "n_retAll", "s_retAll", "delta_retAll", "n_ret2026", "s_ret2026",
                 "n_winRatio", "s_winRatio", "n_winHoldH", "s_winHoldH",
                 "n_profitDays", "s_profitDays", "n_lossDays", "s_lossDays",
+                "n_profitWeeks", "s_profitWeeks", "n_lossWeeks", "s_lossWeeks",
+                "n_profitMonths", "s_profitMonths", "n_lossMonths", "s_lossMonths",
                 "n_maxDD", "s_maxDD", "n_kasaAll", "s_kasaAll", "delta_kasa"]
     write_csv(os.path.join(args.out, "singular_rows.csv"), rows, row_cols)
     write_csv(os.path.join(args.out, "singular_coins.csv"), coins,
